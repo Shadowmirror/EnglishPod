@@ -1,0 +1,2090 @@
+{
+  "version": 1,
+  "id": 102,
+  "number": "0102",
+  "title": "Global View - Global Warming",
+  "audio": "mp3/102. Global View - Global Warming.mp3",
+  "duration": 967.5494375,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.08,
+      "en": "Hello English learners.",
+      "zh": "各位英语学习者，大家好。"
+    },
+    {
+      "id": 2,
+      "start": 3.48,
+      "end": 6.6,
+      "en": "Welcome back to another podcast here with us at EnglishPod.",
+      "zh": "欢迎回到 Englishpod 的另一个播客。"
+    },
+    {
+      "id": 3,
+      "start": 6.6,
+      "end": 7.04,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 4,
+      "start": 7.6,
+      "end": 7.88,
+      "en": "And I'm Erica.",
+      "zh": "我叫 Erica。"
+    },
+    {
+      "id": 5,
+      "start": 8.6,
+      "end": 15.92,
+      "en": "And today we have an advanced lesson for all of you and a very good one because we're going to be talking about a very serious topic, global warming.",
+      "zh": "今天我们为大家准备了一堂高级课程，也为大家提供了一堂非常好的课程，因为我们将谈论一个非常严肃的话题，全球变暖。"
+    },
+    {
+      "id": 6,
+      "start": 16.6,
+      "end": 16.76,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 7,
+      "start": 17.88,
+      "end": 28.24,
+      "en": "And you know, even though most people agree that global warming is a big problem, there's still this sort of fringe element of people who believe that actually global warming doesn't exist.",
+      "zh": "而且你知道，尽管大多数人都同意全球变暖是一个大问题，但仍然有这种边缘因素认为实际上全球变暖不存在。"
+    },
+    {
+      "id": 8,
+      "start": 28.24,
+      "end": 28.42,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 9,
+      "start": 29.24,
+      "end": 30.52,
+      "en": "And that's what we're going to be looking at today.",
+      "zh": "这就是我们今天要看到的。"
+    },
+    {
+      "id": 10,
+      "start": 30.52,
+      "end": 37.8,
+      "en": "But before we tell you more or less what the dialogue is about, let's take a look at some words in vocabulary preview.",
+      "zh": "但在我们或多或少地告诉你对话是关于什么的之前，让我们来看看词汇预览中的一些单词。"
+    },
+    {
+      "id": 11,
+      "start": 37.8,
+      "end": 40.44,
+      "en": "Vocabulary preview.",
+      "zh": "词汇预习。"
+    },
+    {
+      "id": 12,
+      "start": 40.44,
+      "end": 43.84,
+      "en": "We're going to look at two words here and you'll hear both of these in the dialogue.",
+      "zh": "我们将在这里查看两个词，您将在对话中听到这两个词。"
+    },
+    {
+      "id": 13,
+      "start": 44.3,
+      "end": 47.0,
+      "en": "So the first one is polar ice caps.",
+      "zh": "所以第一个是极地冰盖。"
+    },
+    {
+      "id": 14,
+      "start": 47.54,
+      "end": 48.78,
+      "en": "Polar ice caps.",
+      "zh": "极地冰盖。"
+    },
+    {
+      "id": 15,
+      "start": 49.32,
+      "end": 50.4,
+      "en": "Polar ice caps.",
+      "zh": "极地冰盖。"
+    },
+    {
+      "id": 16,
+      "start": 50.4,
+      "end": 52.88,
+      "en": "So when we talk about polar ice caps, polar is...",
+      "zh": "所以当我们谈论极地冰盖时，极地是..."
+    },
+    {
+      "id": 17,
+      "start": 52.88,
+      "end": 53.28,
+      "en": "Like the poles.",
+      "zh": "就像波兰人一样。"
+    },
+    {
+      "id": 18,
+      "start": 53.88,
+      "end": 54.88,
+      "en": "The poles, right?",
+      "zh": "波兰人，对吧？"
+    },
+    {
+      "id": 19,
+      "start": 54.88,
+      "end": 56.2,
+      "en": "The north and south poles of the earth.",
+      "zh": "地球的北极和南极。"
+    },
+    {
+      "id": 20,
+      "start": 56.24,
+      "end": 56.38,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 21,
+      "start": 56.56,
+      "end": 57.16,
+      "en": "So the extreme...",
+      "zh": "所以极端..."
+    },
+    {
+      "id": 22,
+      "start": 58.32,
+      "end": 59.1,
+      "en": "The top and bottom.",
+      "zh": "顶部和底部。"
+    },
+    {
+      "id": 23,
+      "start": 59.2,
+      "end": 59.66,
+      "en": "The top and bottom of the planet.",
+      "zh": "地球的顶部和底部。"
+    },
+    {
+      "id": 24,
+      "start": 60.2,
+      "end": 61.2,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 25,
+      "start": 61.2,
+      "end": 62.2,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 26,
+      "start": 62.2,
+      "end": 63.2,
+      "en": "And what about ice caps?",
+      "zh": "那么冰盖呢？"
+    },
+    {
+      "id": 27,
+      "start": 63.2,
+      "end": 71.88,
+      "en": "So the polar ice caps are masses of ice that live or that exist on the top and the bottom of the world.",
+      "zh": "因此，极地冰盖是生活或存在于世界顶部和底部的大量冰。"
+    },
+    {
+      "id": 28,
+      "start": 71.88,
+      "end": 75.03,
+      "en": "We have these big chunks of ice that are on the top at the bottom of the planet.",
+      "zh": "我们有这些大块的冰块位于地球底部的顶部。"
+    },
+    {
+      "id": 29,
+      "start": 75.29,
+      "end": 75.43,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 30,
+      "start": 75.55,
+      "end": 76.51,
+      "en": "They're there all year round.",
+      "zh": "他们一年四季都在那里。"
+    },
+    {
+      "id": 31,
+      "start": 76.77,
+      "end": 77.09,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 32,
+      "start": 77.45,
+      "end": 78.97,
+      "en": "So these are the polar ice caps.",
+      "zh": "所以这些是极地冰盖。"
+    },
+    {
+      "id": 33,
+      "start": 79.47,
+      "end": 80.19,
+      "en": "What about our next word?",
+      "zh": "我们的下一个词呢？"
+    },
+    {
+      "id": 34,
+      "start": 80.59,
+      "end": 82.87,
+      "en": "Well, next word is endangered species.",
+      "zh": "好吧，下一个词是濒临灭绝的物种。"
+    },
+    {
+      "id": 35,
+      "start": 83.98,
+      "end": 85.3,
+      "en": "An endangered species.",
+      "zh": "濒危物种。"
+    },
+    {
+      "id": 36,
+      "start": 85.68,
+      "end": 86.88,
+      "en": "An endangered species.",
+      "zh": "濒危物种。"
+    },
+    {
+      "id": 37,
+      "start": 87.01,
+      "end": 87.23,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 38,
+      "start": 87.88,
+      "end": 89.6,
+      "en": "So what is an endangered species?",
+      "zh": "那么什么是濒危物种呢？"
+    },
+    {
+      "id": 39,
+      "start": 89.6,
+      "end": 94.15,
+      "en": "It's a type of animal that is at risk of completely dying out.",
+      "zh": "这是一种有完全死亡风险的动物。"
+    },
+    {
+      "id": 40,
+      "start": 94.68,
+      "end": 94.82,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 41,
+      "start": 94.9,
+      "end": 96.78,
+      "en": "So it's not completely extinct.",
+      "zh": "所以它并没有完全灭绝。"
+    },
+    {
+      "id": 42,
+      "start": 97.38,
+      "end": 97.52,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 43,
+      "start": 97.9,
+      "end": 98.8,
+      "en": "So they're still...",
+      "zh": "所以他们还在..."
+    },
+    {
+      "id": 44,
+      "start": 99.16,
+      "end": 100.16,
+      "en": "It's in danger.",
+      "zh": "它处于危险之中。"
+    },
+    {
+      "id": 45,
+      "start": 100.16,
+      "end": 101.16,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 46,
+      "start": 101.16,
+      "end": 102.16,
+      "en": "In danger of.",
+      "zh": "处于危险之中。"
+    },
+    {
+      "id": 47,
+      "start": 102.16,
+      "end": 103.16,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 48,
+      "start": 103.16,
+      "end": 104.76,
+      "en": "So an example of endangered species would be...",
+      "zh": "所以濒临灭绝的物种的一个例子是..."
+    },
+    {
+      "id": 49,
+      "start": 104.76,
+      "end": 105.74,
+      "en": "The Bengal tigers.",
+      "zh": "孟加拉虎队。"
+    },
+    {
+      "id": 50,
+      "start": 106.2,
+      "end": 106.4,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 51,
+      "start": 106.58,
+      "end": 108.3,
+      "en": "The tigers or the pandas.",
+      "zh": "老虎或熊猫。"
+    },
+    {
+      "id": 52,
+      "start": 108.52,
+      "end": 109.1,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 53,
+      "start": 109.84,
+      "end": 110.84,
+      "en": "Or maybe gorillas.",
+      "zh": "或者也许是大猩猩。"
+    },
+    {
+      "id": 54,
+      "start": 110.96,
+      "end": 111.08,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 55,
+      "start": 111.12,
+      "end": 114.7,
+      "en": "So all of these animals, there are very few of them left in the world.",
+      "zh": "所以所有这些动物，世界上剩下的很少。"
+    },
+    {
+      "id": 56,
+      "start": 114.7,
+      "end": 116.26,
+      "en": "So they are endangered species.",
+      "zh": "所以它们是濒危物种。"
+    },
+    {
+      "id": 57,
+      "start": 116.78,
+      "end": 117.1,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 58,
+      "start": 117.48,
+      "end": 120.7,
+      "en": "So with that, I think we're just about ready to turn to our dialogue.",
+      "zh": "因此，我认为我们正准备转向我们的对话。"
+    },
+    {
+      "id": 59,
+      "start": 121.24,
+      "end": 130.52,
+      "en": "Now here we're going to learn a lot of language that you can use when you want to make an argument or express your point of view in a very sort of academic way.",
+      "zh": "现在，我们将学习很多语言，当您想以一种非常学术的方式进行论证或表达您的观点时，您可以使用这些语言。"
+    },
+    {
+      "id": 60,
+      "start": 130.52,
+      "end": 132.2,
+      "en": "But Marco, what are we arguing about here?",
+      "zh": "但是马可，我们在这里争论什么？"
+    },
+    {
+      "id": 61,
+      "start": 132.66,
+      "end": 140.08,
+      "en": "So we're going to listen as a college professor is lecturing about global warming and well, one of the students doesn't really agree with what he's saying.",
+      "zh": "所以我们要听一位大学教授正在讲授全球变暖，好吧，其中一名学生并不同意他所说的话。"
+    },
+    {
+      "id": 62,
+      "start": 151.44,
+      "end": 156.08,
+      "en": "And therefore, global warming is the greatest deception of the early 21st century.",
+      "zh": "所以说，全球变暖是二十一世纪初最大的骗局。"
+    },
+    {
+      "id": 63,
+      "start": 156.44,
+      "end": 156.72,
+      "en": "Questions?",
+      "zh": "问题？"
+    },
+    {
+      "id": 64,
+      "start": 158.54,
+      "end": 158.72,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 65,
+      "start": 159.18,
+      "end": 163.44,
+      "en": "In the lecture you said there's more evidence in the scientific record supporting global cooling.",
+      "zh": "你刚才说，科学记录中有更多证据支持全球变冷。"
+    },
+    {
+      "id": 66,
+      "start": 163.84,
+      "end": 164.24,
+      "en": "Well, yes.",
+      "zh": "嗯，是的。"
+    },
+    {
+      "id": 67,
+      "start": 165.3,
+      "end": 168.44,
+      "en": "Essentially, the historical record supports a theory of climate cycles.",
+      "zh": "本质上，历史记录支持气候循环理论。"
+    },
+    {
+      "id": 68,
+      "start": 169.14,
+      "end": 172.3,
+      "en": "Warming and cooling are cooperating processes in the planetary ecosystem.",
+      "zh": "变暖和变冷都是地球生态系统中的循环过程。"
+    },
+    {
+      "id": 69,
+      "start": 172.74,
+      "end": 180.3,
+      "en": "If that's true and the planet is getting cooler, what explains the rapid melting of the polar ice caps and the dramatic rise in the global average temperatures?",
+      "zh": "如果这是真的，地球变得越来越冷，是什么解释了极地冰盖的快速融化和全球平均温度的急剧上升？"
+    },
+    {
+      "id": 70,
+      "start": 181.2,
+      "end": 184.24,
+      "en": "That are global temperatures rising.",
+      "zh": "可全球气温真的在升高吗？"
+    },
+    {
+      "id": 71,
+      "start": 184.26,
+      "end": 186.61,
+      "en": "If you look at the data from 1975, you'll-",
+      "zh": "如果您查看 1975 年的数据，您将 -"
+    },
+    {
+      "id": 72,
+      "start": 186.96,
+      "end": 187.43,
+      "en": "You'll be misled.",
+      "zh": "你会被误导。"
+    },
+    {
+      "id": 73,
+      "start": 188.36,
+      "end": 191.87,
+      "en": "If you were serious, you would look at the record starting in the 1880s.",
+      "zh": "如果你是认真的，你会看看从 1880 年代开始的记录。"
+    },
+    {
+      "id": 74,
+      "start": 192.07,
+      "end": 195.13,
+      "en": "Then you would see how dramatically the Earth's temperature has changed.",
+      "zh": "然后你会看到地球温度发生了多么巨大的变化。"
+    },
+    {
+      "id": 75,
+      "start": 196.48,
+      "end": 197.54,
+      "en": "Young lady, I beg to differ.",
+      "zh": "这位同学，恕我不能同意。"
+    },
+    {
+      "id": 76,
+      "start": 197.96,
+      "end": 201.76,
+      "en": "Look, the point of the lecture was to emphasize that there's evidence for both sides.",
+      "zh": "看，讲座的重点是强调双方都有证据。"
+    },
+    {
+      "id": 77,
+      "start": 202.24,
+      "end": 206.62,
+      "en": "And I'm putting forth the argument that there's greater evidence in support of the global cooling hypothesis.",
+      "zh": "我的论点是：支持全球变冷假说的证据更多。"
+    },
+    {
+      "id": 78,
+      "start": 206.62,
+      "end": 214.96,
+      "en": "Look, it's an indisputable fact that the public is being manipulated and scared into believing that there's some kind of climate crisis.",
+      "zh": "公众正被误导、被吓得相信有什么气候危机，这是不争的事实。"
+    },
+    {
+      "id": 79,
+      "start": 215.64,
+      "end": 218.68,
+      "en": "This scaremongering is done quite simply for political reasons.",
+      "zh": "这种制造恐慌的做法，纯粹出于政治目的。"
+    },
+    {
+      "id": 80,
+      "start": 219.16,
+      "end": 227.24,
+      "en": "But even without the uncomfortable reality that greenhouse gases like carbon dioxide contribute to global warming, isn't the topic appropriate for politicians to discuss?",
+      "zh": "即便不提二氧化碳等温室气体会导致全球变暖这个令人不安的事实，这个话题难道不值得政客讨论吗？"
+    },
+    {
+      "id": 81,
+      "start": 227.96,
+      "end": 233.22,
+      "en": "Not if they want to use your tax dollars and mine to fund completely unnecessary initiatives.",
+      "zh": "如果他们要拿你我的税款去资助完全没必要的项目，那就不值得。"
+    },
+    {
+      "id": 82,
+      "start": 233.6,
+      "end": 238.46,
+      "en": "Yeah, like conservation, protecting endangered species, and investing in renewable energy.",
+      "zh": "对啊，像保护环境、保护濒危物种、投资可再生能源这些事。"
+    },
+    {
+      "id": 83,
+      "start": 238.92,
+      "end": 244.08,
+      "en": "At the very least, you have to concede that this debate has the potential to end our dependence on foreign oil.",
+      "zh": "至少你得承认，这场讨论可能帮助我们摆脱对外国石油的依赖。"
+    },
+    {
+      "id": 84,
+      "start": 244.74,
+      "end": 249.24,
+      "en": "Buying oil supports autocratic countries that use these revenues to devastating ends.",
+      "zh": "购买石油等于资助那些把石油收入用于恶劣目的的专制国家。"
+    },
+    {
+      "id": 85,
+      "start": 249.98,
+      "end": 253.28,
+      "en": "I've never been so disrespected in all of my days.",
+      "zh": "我这辈子还没受过这样的冒犯。"
+    },
+    {
+      "id": 86,
+      "start": 253.93,
+      "end": 257.11,
+      "en": "I'm a professor, a scientist, and a researcher of high regard.",
+      "zh": "我是教授、科学家，也是备受尊敬的研究人员。"
+    },
+    {
+      "id": 87,
+      "start": 257.55,
+      "end": 259.55,
+      "en": "Yeah, and a duplicitous one at that.",
+      "zh": "没错，还是个两面派。"
+    },
+    {
+      "id": 88,
+      "start": 260.48,
+      "end": 262.37,
+      "en": "Everyone knows you're in the pocket of the oil lobby.",
+      "zh": "谁都知道你拿了石油游说集团的钱。"
+    },
+    {
+      "id": 89,
+      "start": 263.0,
+      "end": 268.81,
+      "en": "Why should we trust your so-called findings more than tobacco institute studies, which say smoking doesn't harm health?",
+      "zh": "你的所谓研究凭什么比烟草研究机构声称吸烟无害的研究更可信？"
+    },
+    {
+      "id": 90,
+      "start": 269.34,
+      "end": 269.97,
+      "en": "You're full of it.",
+      "zh": "你全是在胡说八道。"
+    },
+    {
+      "id": 91,
+      "start": 270.55,
+      "end": 272.71,
+      "en": "Some people just cannot handle civil debate.",
+      "zh": "有些人就是没法理性辩论。"
+    },
+    {
+      "id": 92,
+      "start": 274.96,
+      "end": 286.84,
+      "en": "All right, so apparently this college professor is not very truthful in what he's saying, right?",
+      "zh": "好吧，显然这位大学教授的话不是很真实，对吧？"
+    },
+    {
+      "id": 93,
+      "start": 286.84,
+      "end": 291.44,
+      "en": "Well, yeah, maybe he believes it, but they certainly have very strong and differing opinions.",
+      "zh": "嗯，是的，也许他相信，但他们肯定有非常强烈和不同的意见。"
+    },
+    {
+      "id": 94,
+      "start": 292.64,
+      "end": 297.82,
+      "en": "So that's the interesting part is that we heard a lot of language that she used to argue her point of view.",
+      "zh": "所以这是有趣的部分，我们听到了很多她用来争论她观点的语言。"
+    },
+    {
+      "id": 95,
+      "start": 298.14,
+      "end": 301.76,
+      "en": "So this is interesting and we can start now looking at some of this language in Language Takeaway.",
+      "zh": "所以这很有趣，我们现在可以开始在语言外卖中查看其中的一些语言。"
+    },
+    {
+      "id": 96,
+      "start": 304.48,
+      "end": 304.81,
+      "en": "Language Takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 97,
+      "start": 306.96,
+      "end": 313.46,
+      "en": "So the college professor was arguing against this idea of global warming and she said, look, it's an indisputable fact.",
+      "zh": "所以大学教授反对这种全球变暖的想法，她说，看，这是一个无可争辩的事实。"
+    },
+    {
+      "id": 98,
+      "start": 314.06,
+      "end": 316.68,
+      "en": "Okay, an indisputable fact.",
+      "zh": "好吧，一个无可争辩的事实。"
+    },
+    {
+      "id": 99,
+      "start": 316.68,
+      "end": 317.96,
+      "en": "An indisputable fact.",
+      "zh": "无可争辩的事实。"
+    },
+    {
+      "id": 100,
+      "start": 318.02,
+      "end": 321.76,
+      "en": "Okay, so let's break it down and let's take a look at this word, indisputable.",
+      "zh": "好吧，让我们分解一下，让我们看看这个词，无可争辩。"
+    },
+    {
+      "id": 101,
+      "start": 322.2,
+      "end": 323.88,
+      "en": "You can't argue against it.",
+      "zh": "你不能反对它。"
+    },
+    {
+      "id": 102,
+      "start": 324.24,
+      "end": 329.04,
+      "en": "Okay, so something indisputable is you can't argue with it and will affect something that's true.",
+      "zh": "好吧，所以无可争辩的是你不能与它争论，会影响真实的事情。"
+    },
+    {
+      "id": 103,
+      "start": 329.3,
+      "end": 332.74,
+      "en": "Okay, so you can't argue with this piece of information.",
+      "zh": "好吧，所以你不能与这条信息争论。"
+    },
+    {
+      "id": 104,
+      "start": 332.84,
+      "end": 333.84,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 105,
+      "start": 333.84,
+      "end": 334.84,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 106,
+      "start": 334.84,
+      "end": 335.84,
+      "en": "Indisputable fact.",
+      "zh": "无可争辩的事实。"
+    },
+    {
+      "id": 107,
+      "start": 335.84,
+      "end": 336.51,
+      "en": "So why don't we give a few examples?",
+      "zh": "那么我们为什么不举几个例子呢？"
+    },
+    {
+      "id": 108,
+      "start": 337.52,
+      "end": 342.17,
+      "en": "It's an indisputable fact that China is the most populous nation on earth.",
+      "zh": "中国是地球上人口最多的国家，这是一个无可争辩的事实。"
+    },
+    {
+      "id": 109,
+      "start": 342.55,
+      "end": 343.45,
+      "en": "Okay, exactly.",
+      "zh": "对，没错。"
+    },
+    {
+      "id": 110,
+      "start": 344.08,
+      "end": 349.0,
+      "en": "Or it's an indisputable fact that EnglishPod is the best podcast out there.",
+      "zh": "或者，EnglishPod 是最好的播客，这是一个无可争辩的事实。"
+    },
+    {
+      "id": 111,
+      "start": 349.01,
+      "end": 350.48,
+      "en": "Indeed, it is indisputable.",
+      "zh": "的确，这是无可争辩的。"
+    },
+    {
+      "id": 112,
+      "start": 350.95,
+      "end": 351.23,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 113,
+      "start": 351.49,
+      "end": 354.53,
+      "en": "So indisputable fact and what about our next word?",
+      "zh": "如此无可争辩的事实，我们的下一个词呢？"
+    },
+    {
+      "id": 114,
+      "start": 354.85,
+      "end": 358.97,
+      "en": "Well, the student accused the professor of scaremongering.",
+      "zh": "好吧，这名学生指责教授进行了恐吓。"
+    },
+    {
+      "id": 115,
+      "start": 359.04,
+      "end": 360.04,
+      "en": "Scaremongering.",
+      "zh": "散布恐慌。"
+    },
+    {
+      "id": 116,
+      "start": 361.09,
+      "end": 361.59,
+      "en": "Scaremongering.",
+      "zh": "散布恐慌。"
+    },
+    {
+      "id": 117,
+      "start": 361.93,
+      "end": 365.21,
+      "en": "Okay, now this is kind of a strange word, scaremongering.",
+      "zh": "好吧，现在这是一个奇怪的词，吓唬人。"
+    },
+    {
+      "id": 118,
+      "start": 365.49,
+      "end": 369.21,
+      "en": "Yeah, and I think some examples will help us to understand the meaning a little bit better.",
+      "zh": "是的，我认为一些例子可以帮助我们更好地理解含义。"
+    },
+    {
+      "id": 119,
+      "start": 370.92,
+      "end": 371.27,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 120,
+      "start": 373.76,
+      "end": 378.31,
+      "en": "Software flaws are not the same as virus attacks and saying otherwise is just scaremongering.",
+      "zh": "软件缺陷与病毒攻击不同，否则只是恐吓。"
+    },
+    {
+      "id": 121,
+      "start": 380.76,
+      "end": 380.98,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 122,
+      "start": 383.2,
+      "end": 386.75,
+      "en": "There's been a lot of scaremongering caused by the rumor that mobile phones cause cancer.",
+      "zh": "手机致癌的传闻引起了很多恐慌。"
+    },
+    {
+      "id": 123,
+      "start": 388.89,
+      "end": 393.27,
+      "en": "Okay, so basically we understand that it's kind of putting fear in people's minds.",
+      "zh": "好吧，所以基本上我们明白这有点让人们的心中恐惧。"
+    },
+    {
+      "id": 124,
+      "start": 393.63,
+      "end": 396.57,
+      "en": "Yeah, it's sort of like selling fear for your own benefit.",
+      "zh": "是的，这有点像为了自己的利益而出售恐惧。"
+    },
+    {
+      "id": 125,
+      "start": 397.08,
+      "end": 401.55,
+      "en": "Okay, so making people afraid for some objective or some purpose.",
+      "zh": "好吧，所以让人们为某种目标或某种目的而害怕。"
+    },
+    {
+      "id": 126,
+      "start": 401.84,
+      "end": 405.67,
+      "en": "Yeah, and you know, this word reminds me of the word a fishmonger.",
+      "zh": "是的，你知道，这个词让我想起了鱼贩这个词。"
+    },
+    {
+      "id": 127,
+      "start": 405.99,
+      "end": 407.31,
+      "en": "Okay, a fishmonger.",
+      "zh": "好吧，一个鱼贩子。"
+    },
+    {
+      "id": 128,
+      "start": 407.41,
+      "end": 407.61,
+      "en": "What's that?",
+      "zh": "那是什么？"
+    },
+    {
+      "id": 129,
+      "start": 408.48,
+      "end": 409.73,
+      "en": "Which is basically a seller of fish.",
+      "zh": "这基本上是鱼的卖家。"
+    },
+    {
+      "id": 130,
+      "start": 410.12,
+      "end": 413.47,
+      "en": "So a scaremonger is a seller of fear.",
+      "zh": "所以恐吓者是恐惧的卖家。"
+    },
+    {
+      "id": 131,
+      "start": 413.75,
+      "end": 414.49,
+      "en": "Okay, interesting.",
+      "zh": "好，挺有意思。"
+    },
+    {
+      "id": 132,
+      "start": 414.81,
+      "end": 416.39,
+      "en": "So now we have a way of remembering it.",
+      "zh": "所以现在我们有一种方法来记住它。"
+    },
+    {
+      "id": 133,
+      "start": 416.45,
+      "end": 416.67,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 134,
+      "start": 417.17,
+      "end": 417.65,
+      "en": "Scaremongering.",
+      "zh": "散布恐慌。"
+    },
+    {
+      "id": 135,
+      "start": 418.88,
+      "end": 421.6,
+      "en": "All right, and moving on to our next word, we have autocratic.",
+      "zh": "好吧，继续我们的下一个词，我们有专制。"
+    },
+    {
+      "id": 136,
+      "start": 422.54,
+      "end": 422.88,
+      "en": "Autocratic.",
+      "zh": "专制。"
+    },
+    {
+      "id": 137,
+      "start": 423.68,
+      "end": 424.82,
+      "en": "An autocratic country.",
+      "zh": "一个专制国家。"
+    },
+    {
+      "id": 138,
+      "start": 425.96,
+      "end": 430.82,
+      "en": "So an autocratic country is ruled by someone who holds total power.",
+      "zh": "因此，一个专制国家由拥有全部权力的人统治。"
+    },
+    {
+      "id": 139,
+      "start": 431.16,
+      "end": 432.94,
+      "en": "Okay, so we have an autocratic country.",
+      "zh": "好吧，所以我们有一个专制国家。"
+    },
+    {
+      "id": 140,
+      "start": 432.96,
+      "end": 436.48,
+      "en": "So basically we have a leader that rules everything, right?",
+      "zh": "所以基本上我们有一个统治一切的领导者，对吧？"
+    },
+    {
+      "id": 141,
+      "start": 437.16,
+      "end": 438.16,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 142,
+      "start": 438.16,
+      "end": 441.4,
+      "en": "So if we apply it not only to a country, we can say a person is autocratic.",
+      "zh": "因此，如果我们不仅将其应用于一个国家，我们可以说一个人是专制的。"
+    },
+    {
+      "id": 143,
+      "start": 441.48,
+      "end": 445.24,
+      "en": "Yeah, you could say, I can't stand my boss's autocratic leadership style.",
+      "zh": "是的，你可以说，我无法忍受老板的专制领导风格。"
+    },
+    {
+      "id": 144,
+      "start": 445.54,
+      "end": 446.56,
+      "en": "Or maybe a company.",
+      "zh": "或者也许是一家公司。"
+    },
+    {
+      "id": 145,
+      "start": 448.4,
+      "end": 450.45,
+      "en": "This company is a very autocratic organization.",
+      "zh": "这家公司是一个非常专制的组织。"
+    },
+    {
+      "id": 146,
+      "start": 451.03,
+      "end": 451.67,
+      "en": "Okay, very good.",
+      "zh": "好，很好。"
+    },
+    {
+      "id": 147,
+      "start": 452.25,
+      "end": 453.43,
+      "en": "And what about our last word?",
+      "zh": "最后一个词是什么呢？"
+    },
+    {
+      "id": 148,
+      "start": 453.88,
+      "end": 457.52,
+      "en": "The student accused the professor of being duplicitous.",
+      "zh": "这名学生指责教授是两面派。"
+    },
+    {
+      "id": 149,
+      "start": 458.07,
+      "end": 461.0,
+      "en": "Okay, so she said he is duplicitous.",
+      "zh": "好吧，所以她说他是两面派。"
+    },
+    {
+      "id": 150,
+      "start": 461.59,
+      "end": 462.0,
+      "en": "Yes, duplicitous.",
+      "zh": "是的，两面派。"
+    },
+    {
+      "id": 151,
+      "start": 462.0,
+      "end": 464.16,
+      "en": "All right, what does that mean?",
+      "zh": "好吧，这是什么意思？"
+    },
+    {
+      "id": 152,
+      "start": 464.16,
+      "end": 470.99,
+      "en": "When you are duplicitous, you have behavior that is dishonest and is designed to trick people.",
+      "zh": "当你是两面派时，你的行为是不诚实的，旨在欺骗人们。"
+    },
+    {
+      "id": 153,
+      "start": 471.52,
+      "end": 474.4,
+      "en": "Okay, so you're not a very honest person if you're duplicitous.",
+      "zh": "好吧，如果你两面派，你不是一个很诚实的人。"
+    },
+    {
+      "id": 154,
+      "start": 474.69,
+      "end": 478.87,
+      "en": "Yeah, you're telling lies as a means of making people do something or tricking them.",
+      "zh": "是的，你说谎是为了让人们做某事或欺骗他们。"
+    },
+    {
+      "id": 155,
+      "start": 479.15,
+      "end": 480.05,
+      "en": "Okay, very good.",
+      "zh": "好，很好。"
+    },
+    {
+      "id": 156,
+      "start": 480.4,
+      "end": 483.63,
+      "en": "So a duplicitous person or a duplicitous idea maybe?",
+      "zh": "那么可能是一个两面派的人或一个两面派的想法？"
+    },
+    {
+      "id": 157,
+      "start": 484.39,
+      "end": 484.75,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 158,
+      "start": 485.15,
+      "end": 488.61,
+      "en": "All right, so these are all the words that we have on language takeaway today.",
+      "zh": "好吧，所以这些都是我们今天在语言外卖上的所有词。"
+    },
+    {
+      "id": 159,
+      "start": 488.97,
+      "end": 496.09,
+      "en": "But now let's move on to some very interesting phrases that we can use to put forward some arguments in Fluency Builder.",
+      "zh": "但是现在让我们继续讨论一些非常有趣的短语，我们可以用它们来在 Fluency Builder 中提出一些论点。"
+    },
+    {
+      "id": 160,
+      "start": 497.78,
+      "end": 498.64,
+      "en": "Fluency Builder.",
+      "zh": "流利表达。"
+    },
+    {
+      "id": 161,
+      "start": 499.7,
+      "end": 505.64,
+      "en": "Okay, and Marco, you actually just mentioned our first phrase, which is I'm putting forth the argument that.",
+      "zh": "好吧，马可，你实际上刚刚提到了我们的第一个短语，这就是我提出的论点。"
+    },
+    {
+      "id": 162,
+      "start": 506.14,
+      "end": 508.44,
+      "en": "Okay, so putting forth the argument that.",
+      "zh": "好吧，所以提出这个论点。"
+    },
+    {
+      "id": 163,
+      "start": 508.96,
+      "end": 511.08,
+      "en": "So if you put forth an argument.",
+      "zh": "所以如果你提出一个论点。"
+    },
+    {
+      "id": 164,
+      "start": 511.38,
+      "end": 512.16,
+      "en": "You present it.",
+      "zh": "你展示它。"
+    },
+    {
+      "id": 165,
+      "start": 512.32,
+      "end": 514.26,
+      "en": "You present it or you push it towards somebody.",
+      "zh": "你呈现它或你将它推向某人。"
+    },
+    {
+      "id": 166,
+      "start": 514.28,
+      "end": 514.88,
+      "en": "Yeah, you give it.",
+      "zh": "是的，你给它。"
+    },
+    {
+      "id": 167,
+      "start": 516.14,
+      "end": 518.84,
+      "en": "So can we just put forth an argument?",
+      "zh": "那么我们可以提出一个论点吗？"
+    },
+    {
+      "id": 168,
+      "start": 519.4,
+      "end": 522.48,
+      "en": "Well actually you can put forth a lot of things, like put forth a suggestion.",
+      "zh": "好吧，实际上你可以提出很多东西，比如提出建议。"
+    },
+    {
+      "id": 169,
+      "start": 522.96,
+      "end": 525.76,
+      "en": "Okay, I'm putting forth a suggestion that we should get a new computer.",
+      "zh": "好的，我提出了一个建议我们应该买一台新电脑。"
+    },
+    {
+      "id": 170,
+      "start": 526.08,
+      "end": 526.56,
+      "en": "Or an idea.",
+      "zh": "或一个想法。"
+    },
+    {
+      "id": 171,
+      "start": 527.04,
+      "end": 529.64,
+      "en": "Tim put forth the idea that we should go on vacation to Hawaii.",
+      "zh": "蒂姆提出我们应该去夏威夷度假的想法。"
+    },
+    {
+      "id": 172,
+      "start": 530.08,
+      "end": 530.66,
+      "en": "Oh, good idea.",
+      "zh": "哦，好主意。"
+    },
+    {
+      "id": 173,
+      "start": 530.92,
+      "end": 534.22,
+      "en": "All right, so you can put forth many different things.",
+      "zh": "好吧，所以你可以提出许多不同的东西。"
+    },
+    {
+      "id": 174,
+      "start": 534.22,
+      "end": 544.22,
+      "en": "So the professor obviously is putting forth the argument that global warming is a myth and the student obviously totally disagreed and she said you have to concede that.",
+      "zh": "所以教授显然是在提出全球变暖是一个神话的论点，学生显然完全不同意，她说你必须承认这一点。"
+    },
+    {
+      "id": 175,
+      "start": 544.92,
+      "end": 547.26,
+      "en": "Okay, you have to concede that.",
+      "zh": "好吧，你必须承认这一点。"
+    },
+    {
+      "id": 176,
+      "start": 547.64,
+      "end": 549.52,
+      "en": "You have to concede that.",
+      "zh": "你必须承认这一点。"
+    },
+    {
+      "id": 177,
+      "start": 550.32,
+      "end": 554.44,
+      "en": "All right, so this word concede or you have to concede.",
+      "zh": "好吧，所以这个词让步，否则你必须承认。"
+    },
+    {
+      "id": 178,
+      "start": 554.44,
+      "end": 557.32,
+      "en": "Why don't we listen to some examples before we listen to the meaning.",
+      "zh": "我们为什么不在听取意思之前听一些例子。"
+    },
+    {
+      "id": 179,
+      "start": 558.96,
+      "end": 561.56,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 180,
+      "start": 561.56,
+      "end": 566.05,
+      "en": "I'm sorry, but I can't concede with you on this point.",
+      "zh": "对不起，我不能在这一点上承认你。"
+    },
+    {
+      "id": 181,
+      "start": 566.5,
+      "end": 568.6,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 182,
+      "start": 568.6,
+      "end": 573.32,
+      "en": "Julie conceded that she might have forgotten her sister's birthday.",
+      "zh": "朱莉承认她可能忘记了姐姐的生日。"
+    },
+    {
+      "id": 183,
+      "start": 573.32,
+      "end": 576.6,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 184,
+      "start": 576.6,
+      "end": 579.91,
+      "en": "Both philosophers conceded that their philosophies have some errors.",
+      "zh": "两位哲学家都承认他们的哲学有一些错误。"
+    },
+    {
+      "id": 185,
+      "start": 582.96,
+      "end": 586.26,
+      "en": "Okay, so you have to concede that.",
+      "zh": "好吧，所以你必须承认这一点。"
+    },
+    {
+      "id": 186,
+      "start": 586.88,
+      "end": 591.1,
+      "en": "Basically you have to agree that this one point in my argument is true.",
+      "zh": "基本上，您必须同意我的论点中的这一点是正确的。"
+    },
+    {
+      "id": 187,
+      "start": 591.74,
+      "end": 597.82,
+      "en": "Maybe you're arguing many different points with somebody but you tell them, well, you have to concede that the earth is round.",
+      "zh": "也许你和某人争论了许多不同的观点，但你告诉他们，好吧，你必须承认地球是圆的。"
+    },
+    {
+      "id": 188,
+      "start": 598.3,
+      "end": 600.64,
+      "en": "Okay, so that part I can't argue with.",
+      "zh": "好吧，所以那部分我不能争论。"
+    },
+    {
+      "id": 189,
+      "start": 600.78,
+      "end": 601.26,
+      "en": "It's really true.",
+      "zh": "这真的是真的。"
+    },
+    {
+      "id": 190,
+      "start": 601.52,
+      "end": 602.38,
+      "en": "Okay, very good.",
+      "zh": "好，很好。"
+    },
+    {
+      "id": 191,
+      "start": 602.8,
+      "end": 603.16,
+      "en": "So concede.",
+      "zh": "所以承认。"
+    },
+    {
+      "id": 192,
+      "start": 603.8,
+      "end": 611.6,
+      "en": "Now, at the end of the dialogue, the student accused the professor of being in the pocket of the oil lobby.",
+      "zh": "现在，在对话结束时，这名学生指责教授在石油大厅的口袋里。"
+    },
+    {
+      "id": 193,
+      "start": 611.65,
+      "end": 614.79,
+      "en": "Okay, so he's in the pocket of.",
+      "zh": "好吧，所以他在口袋里。"
+    },
+    {
+      "id": 194,
+      "start": 614.79,
+      "end": 616.17,
+      "en": "To be in the pocket of.",
+      "zh": "在口袋里。"
+    },
+    {
+      "id": 195,
+      "start": 616.28,
+      "end": 619.64,
+      "en": "All right, so if I have somebody in my pocket, what does that mean?",
+      "zh": "好吧，如果我的口袋里有一个人，那是什么意思？"
+    },
+    {
+      "id": 196,
+      "start": 619.64,
+      "end": 621.23,
+      "en": "It means basically you're bribing them.",
+      "zh": "这意味着基本上你在贿赂他们。"
+    },
+    {
+      "id": 197,
+      "start": 621.55,
+      "end": 624.03,
+      "en": "Okay, so maybe I have the senator in my pocket.",
+      "zh": "好吧，也许我的口袋里有参议员。"
+    },
+    {
+      "id": 198,
+      "start": 624.33,
+      "end": 626.93,
+      "en": "Okay, so obviously you're paying the senator to do what you want.",
+      "zh": "好吧，很明显你付钱给参议员做你想做的事。"
+    },
+    {
+      "id": 199,
+      "start": 627.11,
+      "end": 627.83,
+      "en": "Okay, very good.",
+      "zh": "好，很好。"
+    },
+    {
+      "id": 200,
+      "start": 628.05,
+      "end": 633.95,
+      "en": "So it's another way, it's a very informal way of saying I'm bribing somebody or that person is being bribed.",
+      "zh": "所以这是另一种方式，这是一种非常非正式的方式，说我在贿赂某人或那个人被贿赂。"
+    },
+    {
+      "id": 201,
+      "start": 634.27,
+      "end": 634.47,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 202,
+      "start": 635.03,
+      "end": 637.15,
+      "en": "So why don't we move to our final phrase.",
+      "zh": "那么我们为什么不转向我们的最后一句话。"
+    },
+    {
+      "id": 203,
+      "start": 638.52,
+      "end": 642.96,
+      "en": "The student was talking about the professor's so-called findings.",
+      "zh": "学生在谈论教授的所谓发现。"
+    },
+    {
+      "id": 204,
+      "start": 642.96,
+      "end": 647.2,
+      "en": "Okay, so your so-called findings.",
+      "zh": "好的，所以你所谓的发现。"
+    },
+    {
+      "id": 205,
+      "start": 647.2,
+      "end": 648.2,
+      "en": "So-called.",
+      "zh": "所谓的。"
+    },
+    {
+      "id": 206,
+      "start": 648.2,
+      "end": 650.32,
+      "en": "So this word so-called.",
+      "zh": "所以这个词是所谓的。"
+    },
+    {
+      "id": 207,
+      "start": 650.32,
+      "end": 654.24,
+      "en": "You use this word when you want to take away from the importance of an idea.",
+      "zh": "当你想摆脱一个想法的重要性时，你会使用这个词。"
+    },
+    {
+      "id": 208,
+      "start": 655.18,
+      "end": 656.98,
+      "en": "All right, so I use it before a noun, right?",
+      "zh": "好吧，所以我在名词之前使用它，对吧？"
+    },
+    {
+      "id": 209,
+      "start": 657.4,
+      "end": 660.24,
+      "en": "Okay, so for example, my so-called friends.",
+      "zh": "好吧，例如，我所谓的朋友。"
+    },
+    {
+      "id": 210,
+      "start": 660.3,
+      "end": 663.24,
+      "en": "Okay, so these friends are not really your friends maybe.",
+      "zh": "好吧，所以这些朋友可能不是你的朋友。"
+    },
+    {
+      "id": 211,
+      "start": 663.52,
+      "end": 666.4,
+      "en": "So yeah, they're friends in name but they don't act like friends.",
+      "zh": "所以，是的，他们是名义上的朋友，但他们不像朋友一样行事。"
+    },
+    {
+      "id": 212,
+      "start": 666.84,
+      "end": 669.58,
+      "en": "Okay, so you can say my so-called job.",
+      "zh": "好的，所以你可以说我所谓的工作。"
+    },
+    {
+      "id": 213,
+      "start": 670.08,
+      "end": 673.08,
+      "en": "Okay, so maybe you kind of go to work but do nothing all day.",
+      "zh": "好吧，所以也许你有点去上班，但整天什么都不做。"
+    },
+    {
+      "id": 214,
+      "start": 673.22,
+      "end": 675.66,
+      "en": "Right, or maybe you don't even really like what you do.",
+      "zh": "对，或者你甚至不喜欢你所做的事情。"
+    },
+    {
+      "id": 215,
+      "start": 675.86,
+      "end": 676.0,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 216,
+      "start": 677.16,
+      "end": 681.2,
+      "en": "Right, so my so-called job, my so-called friends or maybe my so-called teacher.",
+      "zh": "对，所以我所谓的工作，我所谓的朋友，或者我的所谓老师。"
+    },
+    {
+      "id": 217,
+      "start": 681.57,
+      "end": 682.67,
+      "en": "Okay, so this is a bad teacher.",
+      "zh": "好吧，这是一个糟糕的老师。"
+    },
+    {
+      "id": 218,
+      "start": 683.36,
+      "end": 684.36,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 219,
+      "start": 684.36,
+      "end": 686.73,
+      "en": "So we use it a lot with many different nouns, right?",
+      "zh": "所以我们经常使用它与许多不同的名词，对吧？"
+    },
+    {
+      "id": 220,
+      "start": 687.11,
+      "end": 687.47,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 221,
+      "start": 687.69,
+      "end": 690.53,
+      "en": "So that's our last phrase for fluency builder.",
+      "zh": "所以这是我们 Fluency Builder 的最后一句话。"
+    },
+    {
+      "id": 222,
+      "start": 690.84,
+      "end": 708.76,
+      "en": "Now I think it'll help us to understand these words and phrases a little bit better to hear them again in context.",
+      "zh": "现在我认为这将有助于我们更好地理解这些单词和短语，以便在上下文中再次听到它们。"
+    },
+    {
+      "id": 223,
+      "start": 708.76,
+      "end": 712.94,
+      "en": "And therefore global warming is the greatest deception of the early 21st century.",
+      "zh": "因此，全球变暖是 21 世纪初最大的欺骗。"
+    },
+    {
+      "id": 224,
+      "start": 713.36,
+      "end": 713.58,
+      "en": "Questions?",
+      "zh": "问题？"
+    },
+    {
+      "id": 225,
+      "start": 715.39,
+      "end": 720.33,
+      "en": "Yeah, in the lecture you said there's more evidence in the scientific record supporting global cooling?",
+      "zh": "是的，在讲座中你说科学记录中有更多的证据支持全球降温？"
+    },
+    {
+      "id": 226,
+      "start": 720.71,
+      "end": 721.13,
+      "en": "Well, yes.",
+      "zh": "嗯，是的。"
+    },
+    {
+      "id": 227,
+      "start": 722.09,
+      "end": 725.31,
+      "en": "Essentially, the historical record supports a theory of climate cycles.",
+      "zh": "本质上，历史记录支持气候循环理论。"
+    },
+    {
+      "id": 228,
+      "start": 726.03,
+      "end": 729.17,
+      "en": "Warming and cooling are cooperating processes in the planetary ecosystem.",
+      "zh": "变暖和变冷都是地球生态系统中的循环过程。"
+    },
+    {
+      "id": 229,
+      "start": 729.63,
+      "end": 737.27,
+      "en": "If that's true and the planet is getting cooler, what explains the rapid melting of the polar ice caps and the dramatic rise in the global average temperatures?",
+      "zh": "如果这是真的，地球变得越来越冷，是什么解释了极地冰盖的快速融化和全球平均温度的急剧上升？"
+    },
+    {
+      "id": 230,
+      "start": 738.08,
+      "end": 741.12,
+      "en": "But are global temperatures rising?",
+      "zh": "但全球气温是否在上升？"
+    },
+    {
+      "id": 231,
+      "start": 741.13,
+      "end": 743.49,
+      "en": "If you look at the data from 1975, you'll...",
+      "zh": "如果你看看1975年的数据，你会..."
+    },
+    {
+      "id": 232,
+      "start": 743.84,
+      "end": 744.31,
+      "en": "You'll be misled.",
+      "zh": "你会被误导。"
+    },
+    {
+      "id": 233,
+      "start": 745.24,
+      "end": 748.75,
+      "en": "If you were serious, you would look at the record starting in the 1880s.",
+      "zh": "如果你是认真的，你会看看从 1880 年代开始的记录。"
+    },
+    {
+      "id": 234,
+      "start": 748.93,
+      "end": 752.01,
+      "en": "Then you would see how dramatically the Earth's temperature has changed.",
+      "zh": "然后你会看到地球温度发生了多么巨大的变化。"
+    },
+    {
+      "id": 235,
+      "start": 753.36,
+      "end": 754.4,
+      "en": "Young lady, I beg to differ.",
+      "zh": "这位同学，恕我不能同意。"
+    },
+    {
+      "id": 236,
+      "start": 754.8,
+      "end": 759.12,
+      "en": "Look, the point of the lecture was to emphasize that there is evidence for both sides.",
+      "zh": "看，讲座的重点是强调双方都有证据。"
+    },
+    {
+      "id": 237,
+      "start": 759.12,
+      "end": 763.54,
+      "en": "And I'm putting forth the argument that there's greater evidence in support of the global cooling hypothesis.",
+      "zh": "我的论点是：支持全球变冷假说的证据更多。"
+    },
+    {
+      "id": 238,
+      "start": 763.9,
+      "end": 771.84,
+      "en": "Look, it's an indisputable fact that the public is being manipulated and scared into believing that there's some kind of climate crisis.",
+      "zh": "公众正被误导、被吓得相信有什么气候危机，这是不争的事实。"
+    },
+    {
+      "id": 239,
+      "start": 772.5,
+      "end": 775.54,
+      "en": "This scaremongering is done quite simply for political reasons.",
+      "zh": "这种制造恐慌的做法，纯粹出于政治目的。"
+    },
+    {
+      "id": 240,
+      "start": 776.01,
+      "end": 784.11,
+      "en": "But even without the uncomfortable reality that greenhouse gases like carbon dioxide contribute to global warming, isn't the topic appropriate for politicians to discuss?",
+      "zh": "即便不提二氧化碳等温室气体会导致全球变暖这个令人不安的事实，这个话题难道不值得政客讨论吗？"
+    },
+    {
+      "id": 241,
+      "start": 784.79,
+      "end": 790.17,
+      "en": "Not if they want to use your tax dollars and mine to fund completely unnecessary initiatives.",
+      "zh": "如果他们要拿你我的税款去资助完全没必要的项目，那就不值得。"
+    },
+    {
+      "id": 242,
+      "start": 790.47,
+      "end": 795.33,
+      "en": "Yeah, like conservation, protecting endangered species, and investing in renewable energy.",
+      "zh": "是的，就像保护、保护濒危物种和投资可再生能源一样。"
+    },
+    {
+      "id": 243,
+      "start": 795.81,
+      "end": 800.95,
+      "en": "At the very least, you have to concede that this debate has the potential to end our dependence on foreign oil.",
+      "zh": "至少你得承认，这场讨论可能帮助我们摆脱对外国石油的依赖。"
+    },
+    {
+      "id": 244,
+      "start": 801.61,
+      "end": 806.13,
+      "en": "Buying oil supports autocratic countries that use these revenues to devastating ends.",
+      "zh": "购买石油等于资助那些把石油收入用于恶劣目的的专制国家。"
+    },
+    {
+      "id": 245,
+      "start": 806.81,
+      "end": 810.17,
+      "en": "I've never been so disrespected in all of my days.",
+      "zh": "我这辈子还没受过这样的冒犯。"
+    },
+    {
+      "id": 246,
+      "start": 810.81,
+      "end": 813.99,
+      "en": "I'm a professor, a scientist, and a researcher of high regard.",
+      "zh": "我是教授、科学家，也是备受尊敬的研究人员。"
+    },
+    {
+      "id": 247,
+      "start": 814.43,
+      "end": 816.43,
+      "en": "Yeah, and a duplicitous one at that.",
+      "zh": "没错，还是个两面派。"
+    },
+    {
+      "id": 248,
+      "start": 817.36,
+      "end": 819.25,
+      "en": "Everyone knows you're in the pocket of the oil lobby.",
+      "zh": "谁都知道你拿了石油游说集团的钱。"
+    },
+    {
+      "id": 249,
+      "start": 819.88,
+      "end": 825.69,
+      "en": "Why should we trust your so-called findings more than tobacco institute studies, which say smoking doesn't harm health?",
+      "zh": "你的所谓研究凭什么比烟草研究机构声称吸烟无害的研究更可信？"
+    },
+    {
+      "id": 250,
+      "start": 826.22,
+      "end": 826.85,
+      "en": "You're full of it.",
+      "zh": "你全是在胡说八道。"
+    },
+    {
+      "id": 251,
+      "start": 827.51,
+      "end": 829.59,
+      "en": "Some people just cannot handle civil debate.",
+      "zh": "有些人就是没法理性辩论。"
+    },
+    {
+      "id": 252,
+      "start": 838.72,
+      "end": 839.8,
+      "en": "All right, very good.",
+      "zh": "好，很好。"
+    },
+    {
+      "id": 253,
+      "start": 839.85,
+      "end": 842.77,
+      "en": "So interesting ways of putting forth arguments.",
+      "zh": "提出论点的有趣方式。"
+    },
+    {
+      "id": 254,
+      "start": 842.77,
+      "end": 846.47,
+      "en": "And well, it's an interesting topic and very controversial, right?",
+      "zh": "好吧，这是一个有趣的话题，非常有争议，对吧？"
+    },
+    {
+      "id": 255,
+      "start": 846.87,
+      "end": 847.33,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 256,
+      "start": 848.2,
+      "end": 856.44,
+      "en": "But what I noticed in this dialogue is that the student was pretty assertive in putting forth her argument and standing up to the teacher.",
+      "zh": "但我在这次对话中注意到的是，这个学生在提出她的论点和对抗老师方面非常自信。"
+    },
+    {
+      "id": 257,
+      "start": 856.47,
+      "end": 856.67,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 258,
+      "start": 857.44,
+      "end": 858.44,
+      "en": "And she was with the teacher a lot.",
+      "zh": "她经常和老师在一起。"
+    },
+    {
+      "id": 259,
+      "start": 858.44,
+      "end": 862.2,
+      "en": "And this is interesting because it's a very cultural aspect, I think, right?",
+      "zh": "这很有趣，因为我认为这是一个非常文化的方面，对吧？"
+    },
+    {
+      "id": 260,
+      "start": 862.2,
+      "end": 863.2,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 261,
+      "start": 863.2,
+      "end": 875.97,
+      "en": "In North American universities, there is this idea that it's really important to think critically and to argue against different ideas and to really speak up when you don't agree with something.",
+      "zh": "在北美大学，有这样的想法是，批判性地思考并反对不同的想法并在你不同意某事时真正发声非常重要。"
+    },
+    {
+      "id": 262,
+      "start": 876.84,
+      "end": 877.84,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 263,
+      "start": 877.84,
+      "end": 881.63,
+      "en": "So basically, there's this culture of questioning, not only what you're being taught, but you can also question the teacher.",
+      "zh": "所以基本上，有这种质疑的文化，不仅是你被教的东西，还可以质疑老师。"
+    },
+    {
+      "id": 264,
+      "start": 881.81,
+      "end": 885.0,
+      "en": "You don't actually have to believe everything that the teacher is saying.",
+      "zh": "你实际上不必相信老师所说的一切。"
+    },
+    {
+      "id": 265,
+      "start": 885.52,
+      "end": 885.68,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 266,
+      "start": 886.52,
+      "end": 888.8,
+      "en": "And I think this situation is really interesting.",
+      "zh": "我认为这种情况真的很有趣。"
+    },
+    {
+      "id": 267,
+      "start": 888.98,
+      "end": 892.92,
+      "en": "You know, you always go to these lectures and there's always a question and answer period at the end of the lectures.",
+      "zh": "你知道，你总是去听这些讲座，讲座结束时总是有问答环节。"
+    },
+    {
+      "id": 268,
+      "start": 893.6,
+      "end": 905.24,
+      "en": "And I think that there's like this group of sort of academically minded people who feel like it's really cool to ask these really difficult questions and engage in arguments with the profs.",
+      "zh": "而且我认为有一群有学术头脑的人，他们觉得提出这些非常困难的问题并与教授争论真的很酷。"
+    },
+    {
+      "id": 269,
+      "start": 905.24,
+      "end": 906.29,
+      "en": "Yeah, yeah, that's really true.",
+      "zh": "是的，是的，这真的是真的。"
+    },
+    {
+      "id": 270,
+      "start": 906.78,
+      "end": 914.55,
+      "en": "But actually, she used a lot of polite language and a lot of polite ways of actually arguing with the professor until the last point when she said, you're full of it.",
+      "zh": "但实际上，她使用了很多礼貌的语言和很多礼貌的方式与教授争论，直到她说，你已经满了。"
+    },
+    {
+      "id": 271,
+      "start": 914.73,
+      "end": 915.91,
+      "en": "Yeah, you're full of it.",
+      "zh": "是的，你已经满了。"
+    },
+    {
+      "id": 272,
+      "start": 916.12,
+      "end": 917.12,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 273,
+      "start": 917.12,
+      "end": 918.12,
+      "en": "You're full of it.",
+      "zh": "你全是在胡说八道。"
+    },
+    {
+      "id": 274,
+      "start": 918.12,
+      "end": 919.12,
+      "en": "So what's she saying here?",
+      "zh": "那么她在这里说什么？"
+    },
+    {
+      "id": 275,
+      "start": 919.12,
+      "end": 920.12,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 276,
+      "start": 920.12,
+      "end": 922.88,
+      "en": "She's basically saying that you're full of shit.",
+      "zh": "她基本上是在说你满是狗屎。"
+    },
+    {
+      "id": 277,
+      "start": 922.88,
+      "end": 924.93,
+      "en": "So yeah, you wouldn't really say that.",
+      "zh": "所以，是的，你不会真的这么说。"
+    },
+    {
+      "id": 278,
+      "start": 925.12,
+      "end": 928.79,
+      "en": "So to be a little bit less rude, you would just say, you're full of it.",
+      "zh": "所以不那么粗鲁，你只会说，你已经充满了它。"
+    },
+    {
+      "id": 279,
+      "start": 929.05,
+      "end": 929.17,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 280,
+      "start": 929.33,
+      "end": 931.07,
+      "en": "But that is one step too far.",
+      "zh": "但这太过分了。"
+    },
+    {
+      "id": 281,
+      "start": 931.24,
+      "end": 933.88,
+      "en": "I think this would be considered a little bit rude.",
+      "zh": "我认为这会被认为有点粗鲁。"
+    },
+    {
+      "id": 282,
+      "start": 933.88,
+      "end": 934.88,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 283,
+      "start": 934.88,
+      "end": 935.07,
+      "en": "For a professor, yeah.",
+      "zh": "对于教授，是的。"
+    },
+    {
+      "id": 284,
+      "start": 935.88,
+      "end": 941.89,
+      "en": "But I guess if you don't believe what your friend is telling you, or maybe he's exaggerating, you can say, oh, you're full of it.",
+      "zh": "但我想如果你不相信你的朋友告诉你的话，或者他可能夸大了，你可以说，哦，你已经满了。"
+    },
+    {
+      "id": 285,
+      "start": 942.36,
+      "end": 943.36,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 286,
+      "start": 943.36,
+      "end": 949.57,
+      "en": "So we've covered some great argumentative language here in this dialogue, but we want to give you an opportunity to try out some of this language.",
+      "zh": "因此，我们在此对话中介绍了一些很棒的争论性语言，但我们希望让您有机会尝试其中的一些语言。"
+    },
+    {
+      "id": 287,
+      "start": 949.8,
+      "end": 952.0,
+      "en": "So come to our website at EnglishPod.com.",
+      "zh": "因此，请访问我们的网站 englishpod.com。"
+    },
+    {
+      "id": 288,
+      "start": 952.83,
+      "end": 953.0,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 289,
+      "start": 953.31,
+      "end": 956.33,
+      "en": "We are there to answer any questions or doubts, and we'll see you guys there.",
+      "zh": "我们在那里回答任何问题或疑问，我们会在那里见到你们。"
+    },
+    {
+      "id": 290,
+      "start": 956.6,
+      "end": 957.6,
+      "en": "All right, guys.",
+      "zh": "好了，各位。"
+    },
+    {
+      "id": 291,
+      "start": 957.6,
+      "end": 958.55,
+      "en": "Until next time, goodbye.",
+      "zh": "直到下一次，再见。"
+    },
+    {
+      "id": 292,
+      "start": 958.6,
+      "end": 967.549,
+      "en": "Bye.",
+      "zh": "再见。"
+    }
+  ],
+  "dialog": {
+    "start": 151.44,
+    "end": 272.71,
+    "segmentIds": [
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91
+    ]
+  }
+}

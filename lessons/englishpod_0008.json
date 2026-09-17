@@ -1,0 +1,1869 @@
+{
+  "version": 1,
+  "id": 8,
+  "number": "0008",
+  "title": "Daily Life - What's your name again",
+  "audio": "mp3/8. Daily Life - What's your name again.mp3",
+  "duration": 700.2645,
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.78,
+      "end": 5.12,
+      "en": "Hello English learners and welcome back to EnglishPod.",
+      "zh": "您好英语学习者，欢迎回到 Englishpod。"
+    },
+    {
+      "id": 2,
+      "start": 5.36,
+      "end": 5.92,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 6.24,
+      "end": 6.72,
+      "en": "And I'm Erica.",
+      "zh": "我叫 Erica。"
+    },
+    {
+      "id": 4,
+      "start": 7.26,
+      "end": 7.88,
+      "en": "How are you, Erica?",
+      "zh": "你好吗，艾丽卡？"
+    },
+    {
+      "id": 5,
+      "start": 8.18,
+      "end": 9.82,
+      "en": "Marco, I'm doing really well today.",
+      "zh": "马可，我今天做得很好。"
+    },
+    {
+      "id": 6,
+      "start": 10.48,
+      "end": 11.48,
+      "en": "You excited?",
+      "zh": "你兴奋吗？"
+    },
+    {
+      "id": 7,
+      "start": 11.48,
+      "end": 12.48,
+      "en": "Uh-huh.",
+      "zh": "嗯。"
+    },
+    {
+      "id": 8,
+      "start": 12.48,
+      "end": 13.48,
+      "en": "We've got a great lesson for everyone.",
+      "zh": "我们为每个人提供了一个很好的教训。"
+    },
+    {
+      "id": 9,
+      "start": 13.48,
+      "end": 17.12,
+      "en": "Yes, we have a really common situation where we're going to use real English, right?",
+      "zh": "是的，我们有一个非常常见的情况，我们将使用真正的英语，对吧？"
+    },
+    {
+      "id": 10,
+      "start": 17.52,
+      "end": 20.58,
+      "en": "Yep, everyday English, English that people really use.",
+      "zh": "是的，人们真正使用的日常英语、英语。"
+    },
+    {
+      "id": 11,
+      "start": 21.04,
+      "end": 22.12,
+      "en": "And that's what we want you to learn.",
+      "zh": "这就是我们希望您学习的内容。"
+    },
+    {
+      "id": 12,
+      "start": 22.72,
+      "end": 24.32,
+      "en": "What are we talking about today specifically?",
+      "zh": "我们今天具体在谈论什么？"
+    },
+    {
+      "id": 13,
+      "start": 24.92,
+      "end": 29.48,
+      "en": "Today we have a really common situation that is a little bit embarrassing.",
+      "zh": "今天我们有一个非常常见的情况，有点尴尬。"
+    },
+    {
+      "id": 14,
+      "start": 30.84,
+      "end": 32.84,
+      "en": "All right, an embarrassing situation.",
+      "zh": "好吧，尴尬的局面。"
+    },
+    {
+      "id": 15,
+      "start": 32.96,
+      "end": 37.4,
+      "en": "So let's listen to the dialogue for the first time and it's going to be kind of fast.",
+      "zh": "所以让我们第一次听对话，它会很快。"
+    },
+    {
+      "id": 16,
+      "start": 37.64,
+      "end": 44.96,
+      "en": "Yeah, but don't worry if you don't understand everything because after 10 minutes you'll understand everything.",
+      "zh": "是的，但是如果您不了解所有内容，请不要担心，因为 10 分钟后您将了解所有内容。"
+    },
+    {
+      "id": 17,
+      "start": 45.5,
+      "end": 45.76,
+      "en": "Perfect.",
+      "zh": "太好了。"
+    },
+    {
+      "id": 18,
+      "start": 45.76,
+      "end": 46.76,
+      "en": "All right, let's listen.",
+      "zh": "好，我们来听一听。"
+    },
+    {
+      "id": 19,
+      "start": 56.0,
+      "end": 57.36,
+      "en": "Nick, how's it going?",
+      "zh": "Nick，最近怎么样？"
+    },
+    {
+      "id": 20,
+      "start": 57.92,
+      "end": 59.02,
+      "en": "Oh, hey.",
+      "zh": "哦，嗨。"
+    },
+    {
+      "id": 21,
+      "start": 59.84,
+      "end": 61.4,
+      "en": "What are you doing in this neighborhood?",
+      "zh": "你怎么会来这附近？"
+    },
+    {
+      "id": 22,
+      "start": 61.92,
+      "end": 62.7,
+      "en": "Do you live around here?",
+      "zh": "你住在这里吗？"
+    },
+    {
+      "id": 23,
+      "start": 63.18,
+      "end": 65.16,
+      "en": "Actually, my office is right around the corner.",
+      "zh": "实际上，我的办公室就在拐角处。"
+    },
+    {
+      "id": 24,
+      "start": 65.8,
+      "end": 68.02,
+      "en": "It was great to meet you last week at the conference.",
+      "zh": "很高兴上周在会议上见到你。"
+    },
+    {
+      "id": 25,
+      "start": 68.54,
+      "end": 70.6,
+      "en": "I really enjoyed our conversation about foreign investment.",
+      "zh": "我真的很喜欢我们关于外国投资的谈话。"
+    },
+    {
+      "id": 26,
+      "start": 71.14,
+      "end": 73.64,
+      "en": "Yeah, yeah, it was really interesting.",
+      "zh": "嗯嗯，聊得挺有意思的。"
+    },
+    {
+      "id": 27,
+      "start": 74.5,
+      "end": 76.64,
+      "en": "You know, I'm in a bit of a hurry, but here's my card.",
+      "zh": "我有点赶时间，不过这是我的名片。"
+    },
+    {
+      "id": 28,
+      "start": 77.24,
+      "end": 79.24,
+      "en": "We should definitely meet up again and continue our discussion.",
+      "zh": "我们一定要再约时间接着聊。"
+    },
+    {
+      "id": 29,
+      "start": 80.04,
+      "end": 82.5,
+      "en": "Sure, you still have my contact details, right?",
+      "zh": "当然，你还有我的联系方式，对吧？"
+    },
+    {
+      "id": 30,
+      "start": 83.16,
+      "end": 84.48,
+      "en": "You know what?",
+      "zh": "说起来……"
+    },
+    {
+      "id": 31,
+      "start": 84.76,
+      "end": 88.22,
+      "en": "This is really embarrassing, but your name has just slipped my mind.",
+      "zh": "说来真尴尬，我一时想不起你的名字了。"
+    },
+    {
+      "id": 32,
+      "start": 88.56,
+      "end": 89.22,
+      "en": "Can you remind me?",
+      "zh": "你能提醒我一下吗？"
+    },
+    {
+      "id": 33,
+      "start": 89.62,
+      "end": 89.98,
+      "en": "Sure.",
+      "zh": "当然。"
+    },
+    {
+      "id": 34,
+      "start": 90.92,
+      "end": 92.12,
+      "en": "My name is Anna Farris.",
+      "zh": "我的名字是安娜·法里斯。"
+    },
+    {
+      "id": 35,
+      "start": 92.12,
+      "end": 92.64,
+      "en": "Don't worry about it.",
+      "zh": "别担心。"
+    },
+    {
+      "id": 36,
+      "start": 93.12,
+      "end": 94.26,
+      "en": "It happens to me all the time.",
+      "zh": "它一直发生在我身上。"
+    },
+    {
+      "id": 37,
+      "start": 94.64,
+      "end": 95.8,
+      "en": "I'm terrible with names too.",
+      "zh": "我也特别记不住人名。"
+    },
+    {
+      "id": 38,
+      "start": 102.06,
+      "end": 104.08,
+      "en": "Wow, Nick forgot her name.",
+      "zh": "哇，尼克忘记了她的名字。"
+    },
+    {
+      "id": 39,
+      "start": 104.8,
+      "end": 108.52,
+      "en": "Yeah, that's happened to me a couple of times, and I'm going to tell you about it a little bit later.",
+      "zh": "是的，这发生在我身上几次，我稍后会告诉你。"
+    },
+    {
+      "id": 40,
+      "start": 108.84,
+      "end": 109.1,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 41,
+      "start": 109.36,
+      "end": 113.24,
+      "en": "All right, well, let's start with our three language takeaways.",
+      "zh": "好吧，让我们从我们的三种语言收获开始。"
+    },
+    {
+      "id": 42,
+      "start": 115.25,
+      "end": 116.31,
+      "en": "Language takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 43,
+      "start": 117.16,
+      "end": 121.8,
+      "en": "So our first word on our language takeaway is in a bit of a hurry.",
+      "zh": "所以我们对我们的语言收获的第一个词有点匆忙。"
+    },
+    {
+      "id": 44,
+      "start": 122.42,
+      "end": 123.8,
+      "en": "In a bit of a hurry.",
+      "zh": "匆匆忙忙。"
+    },
+    {
+      "id": 45,
+      "start": 124.32,
+      "end": 125.54,
+      "en": "In a bit of a hurry.",
+      "zh": "匆匆忙忙。"
+    },
+    {
+      "id": 46,
+      "start": 126.0,
+      "end": 127.4,
+      "en": "In a bit of a hurry.",
+      "zh": "匆匆忙忙。"
+    },
+    {
+      "id": 47,
+      "start": 127.4,
+      "end": 128.96,
+      "en": "So Nick was in a hurry.",
+      "zh": "所以尼克很着急。"
+    },
+    {
+      "id": 48,
+      "start": 129.32,
+      "end": 130.02,
+      "en": "Yeah, that's right.",
+      "zh": "对，没错。"
+    },
+    {
+      "id": 49,
+      "start": 130.58,
+      "end": 131.78,
+      "en": "This is a great phrase.",
+      "zh": "这个短语很实用。"
+    },
+    {
+      "id": 50,
+      "start": 132.32,
+      "end": 136.72,
+      "en": "So let's listen to three examples of how you can use this phrase.",
+      "zh": "所以让我们听听三个如何使用这个短语的例子。"
+    },
+    {
+      "id": 51,
+      "start": 138.44,
+      "end": 142.12,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 52,
+      "start": 142.12,
+      "end": 142.88,
+      "en": "Can you drive faster?",
+      "zh": "你能开得更快吗？"
+    },
+    {
+      "id": 53,
+      "start": 143.28,
+      "end": 144.08,
+      "en": "I'm in a bit of a hurry.",
+      "zh": "我有点着急。"
+    },
+    {
+      "id": 54,
+      "start": 147.84,
+      "end": 152.96,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 55,
+      "start": 152.96,
+      "end": 153.82,
+      "en": "I can't talk right now.",
+      "zh": "我现在不能说话。"
+    },
+    {
+      "id": 56,
+      "start": 153.96,
+      "end": 154.7,
+      "en": "I'm in a bit of a hurry.",
+      "zh": "我有点着急。"
+    },
+    {
+      "id": 57,
+      "start": 160.52,
+      "end": 161.52,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 58,
+      "start": 164.25,
+      "end": 166.79,
+      "en": "I'm in a bit of a hurry, so I'll check these files later.",
+      "zh": "我有点着急，所以我稍后会检查这些文件。"
+    },
+    {
+      "id": 59,
+      "start": 169.32,
+      "end": 171.0,
+      "en": "Okay, so it's clear now.",
+      "zh": "好的，现在很清楚了。"
+    },
+    {
+      "id": 60,
+      "start": 171.6,
+      "end": 173.36,
+      "en": "Basically it means that you don't have time.",
+      "zh": "基本上这意味着你没有时间。"
+    },
+    {
+      "id": 61,
+      "start": 173.36,
+      "end": 174.14,
+      "en": "You're moving really quickly.",
+      "zh": "你的动作真的很快。"
+    },
+    {
+      "id": 62,
+      "start": 174.72,
+      "end": 175.46,
+      "en": "Okay, perfect.",
+      "zh": "好，太好了。"
+    },
+    {
+      "id": 63,
+      "start": 176.16,
+      "end": 181.06,
+      "en": "Now let's look at our second language takeaway word, and it's contact details.",
+      "zh": "现在让我们看看我们的第二语言外卖 Word，它的联系方式。"
+    },
+    {
+      "id": 64,
+      "start": 182.0,
+      "end": 182.46,
+      "en": "Contact details.",
+      "zh": "联系方式。"
+    },
+    {
+      "id": 65,
+      "start": 183.64,
+      "end": 183.9,
+      "en": "Contact details.",
+      "zh": "联系方式。"
+    },
+    {
+      "id": 66,
+      "start": 185.92,
+      "end": 187.84,
+      "en": "So what are your contact details?",
+      "zh": "那么你的联系方式是什么？"
+    },
+    {
+      "id": 67,
+      "start": 187.84,
+      "end": 192.64,
+      "en": "Basically, this is the information you can find on your business card.",
+      "zh": "基本上，这是您可以在名片上找到的信息。"
+    },
+    {
+      "id": 68,
+      "start": 192.96,
+      "end": 196.76,
+      "en": "All right, so we have like our name, our telephone number.",
+      "zh": "好吧，所以我们有我们的名字，我们的电话号码。"
+    },
+    {
+      "id": 69,
+      "start": 196.76,
+      "end": 200.72,
+      "en": "Your email address, perhaps your mobile phone number.",
+      "zh": "您的电子邮件地址，也许是您的手机号码。"
+    },
+    {
+      "id": 70,
+      "start": 200.72,
+      "end": 203.5,
+      "en": "So all the useful information so people can get in touch with you.",
+      "zh": "因此，所有有用的信息，以便人们可以与您取得联系。"
+    },
+    {
+      "id": 71,
+      "start": 203.68,
+      "end": 205.96,
+      "en": "Yeah, so people can phone you or email you.",
+      "zh": "是的，所以人们可以给你打电话或给你发电子邮件。"
+    },
+    {
+      "id": 72,
+      "start": 205.96,
+      "end": 207.62,
+      "en": "Okay, so contact details.",
+      "zh": "好的，联系方式。"
+    },
+    {
+      "id": 73,
+      "start": 208.34,
+      "end": 208.66,
+      "en": "Great.",
+      "zh": "太好了。"
+    },
+    {
+      "id": 74,
+      "start": 209.0,
+      "end": 212.42,
+      "en": "Okay, so our third word is slipped my mind.",
+      "zh": "好吧，所以我们的第三个词滑倒了我的脑海。"
+    },
+    {
+      "id": 75,
+      "start": 213.2,
+      "end": 213.89,
+      "en": "Slipped my mind.",
+      "zh": "我忘了。"
+    },
+    {
+      "id": 76,
+      "start": 214.84,
+      "end": 215.77,
+      "en": "Slipped my mind.",
+      "zh": "我忘了。"
+    },
+    {
+      "id": 77,
+      "start": 216.24,
+      "end": 217.01,
+      "en": "Slipped my mind.",
+      "zh": "我忘了。"
+    },
+    {
+      "id": 78,
+      "start": 217.56,
+      "end": 218.67,
+      "en": "So this is a funny phrase.",
+      "zh": "所以这是一个有趣的短语。"
+    },
+    {
+      "id": 79,
+      "start": 218.96,
+      "end": 220.05,
+      "en": "It's kind of strange, right?",
+      "zh": "这有点奇怪，对吧？"
+    },
+    {
+      "id": 80,
+      "start": 220.36,
+      "end": 221.76,
+      "en": "Yeah, slipped my mind.",
+      "zh": "是的，我的脑海里滑倒了。"
+    },
+    {
+      "id": 81,
+      "start": 221.76,
+      "end": 223.07,
+      "en": "It sounds very weird.",
+      "zh": "听起来很奇怪。"
+    },
+    {
+      "id": 82,
+      "start": 223.24,
+      "end": 224.24,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 83,
+      "start": 224.31,
+      "end": 228.77,
+      "en": "Okay, so now we're going to listen to two examples of this phrase.",
+      "zh": "好的，现在我们要听这个短语的两个例子。"
+    },
+    {
+      "id": 84,
+      "start": 229.45,
+      "end": 231.83,
+      "en": "Try and see if you can figure out what it means.",
+      "zh": "试着看看你是否能弄清楚这意味着什么。"
+    },
+    {
+      "id": 85,
+      "start": 232.95,
+      "end": 233.87,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 86,
+      "start": 236.15,
+      "end": 237.83,
+      "en": "I'm sorry I forgot to respond to your email.",
+      "zh": "很抱歉我忘了回复您的电子邮件。"
+    },
+    {
+      "id": 87,
+      "start": 238.11,
+      "end": 239.27,
+      "en": "Just slipped my mind.",
+      "zh": "简直让我心动了。"
+    },
+    {
+      "id": 88,
+      "start": 242.07,
+      "end": 242.95,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 89,
+      "start": 246.0,
+      "end": 248.5,
+      "en": "Don't you know what day it is today?",
+      "zh": "你不知道今天是什么日子吗？"
+    },
+    {
+      "id": 90,
+      "start": 249.34,
+      "end": 250.55,
+      "en": "Oh, it's your birthday.",
+      "zh": "哦，今天是你的生日。"
+    },
+    {
+      "id": 91,
+      "start": 251.28,
+      "end": 252.98,
+      "en": "It completely slipped my mind.",
+      "zh": "它完全打破了我的脑海。"
+    },
+    {
+      "id": 92,
+      "start": 253.49,
+      "end": 259.63,
+      "en": "Ah, so slipped my mind is like I forgot.",
+      "zh": "啊，所以我的思绪就像我忘记了一样。"
+    },
+    {
+      "id": 93,
+      "start": 260.19,
+      "end": 261.01,
+      "en": "You forgot something.",
+      "zh": "你忘记了什么。"
+    },
+    {
+      "id": 94,
+      "start": 261.4,
+      "end": 262.4,
+      "en": "Uh-huh.",
+      "zh": "嗯。"
+    },
+    {
+      "id": 95,
+      "start": 262.4,
+      "end": 263.4,
+      "en": "So, accidentally.",
+      "zh": "所以，不小心。"
+    },
+    {
+      "id": 96,
+      "start": 263.4,
+      "end": 264.4,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 97,
+      "start": 264.4,
+      "end": 265.4,
+      "en": "Okay, great.",
+      "zh": "好，太好了。"
+    },
+    {
+      "id": 98,
+      "start": 265.4,
+      "end": 268.88,
+      "en": "Now it's time for putting it together.",
+      "zh": "现在是时候把它放在一起了。"
+    },
+    {
+      "id": 99,
+      "start": 268.88,
+      "end": 269.29,
+      "en": "Putting it together.",
+      "zh": "综合运用。"
+    },
+    {
+      "id": 100,
+      "start": 269.88,
+      "end": 274.52,
+      "en": "All right, Erika, why don't you tell our listeners what putting it together is?",
+      "zh": "好吧，Erika，你为什么不告诉我们的听众把它放在一起是什么？"
+    },
+    {
+      "id": 101,
+      "start": 274.64,
+      "end": 278.44,
+      "en": "Well, putting it together helps you put language together.",
+      "zh": "好吧，把它放在一起可以帮助你把语言放在一起。"
+    },
+    {
+      "id": 102,
+      "start": 278.86,
+      "end": 283.58,
+      "en": "It helps you be more fluent by knowing how words fit together.",
+      "zh": "通过了解单词如何组合在一起，它可以帮助您更加流利。"
+    },
+    {
+      "id": 103,
+      "start": 283.84,
+      "end": 284.12,
+      "en": "Great.",
+      "zh": "太好了。"
+    },
+    {
+      "id": 104,
+      "start": 284.28,
+      "end": 286.0,
+      "en": "So let's look at our first phrase today.",
+      "zh": "所以让我们看看我们今天的第一个短语。"
+    },
+    {
+      "id": 105,
+      "start": 286.4,
+      "end": 288.1,
+      "en": "And it's around here.",
+      "zh": "它就在这里。"
+    },
+    {
+      "id": 106,
+      "start": 289.0,
+      "end": 289.3,
+      "en": "Around here.",
+      "zh": "这附近。"
+    },
+    {
+      "id": 107,
+      "start": 290.6,
+      "end": 290.96,
+      "en": "Around here.",
+      "zh": "这附近。"
+    },
+    {
+      "id": 108,
+      "start": 292.0,
+      "end": 292.24,
+      "en": "Around here.",
+      "zh": "这附近。"
+    },
+    {
+      "id": 109,
+      "start": 293.0,
+      "end": 294.62,
+      "en": "So this is like close by.",
+      "zh": "所以这就像附近。"
+    },
+    {
+      "id": 110,
+      "start": 295.16,
+      "end": 295.32,
+      "en": "Close by.",
+      "zh": "附近。"
+    },
+    {
+      "id": 111,
+      "start": 296.16,
+      "end": 300.04,
+      "en": "We can say, for example, is there a bank around here?",
+      "zh": "例如，我们可以说，这里有银行吗？"
+    },
+    {
+      "id": 112,
+      "start": 300.04,
+      "end": 300.46,
+      "en": "Yeah, yeah.",
+      "zh": "对，对。"
+    },
+    {
+      "id": 113,
+      "start": 301.04,
+      "end": 302.76,
+      "en": "So that's, is there a bank close to here?",
+      "zh": "那么，附近有银行吗？"
+    },
+    {
+      "id": 114,
+      "start": 303.4,
+      "end": 304.4,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 115,
+      "start": 304.4,
+      "end": 309.9,
+      "en": "Now, this phrase, around here, we can change it a little bit and it means something a little bit different.",
+      "zh": "现在，这句话，在这里，我们可以稍微改变一下，这意味着一些不同的东西。"
+    },
+    {
+      "id": 116,
+      "start": 310.4,
+      "end": 311.4,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 117,
+      "start": 311.4,
+      "end": 315.02,
+      "en": "I could say, Marco, there's a great restaurant right around the corner.",
+      "zh": "我可以说，马可，拐角处有一家很棒的餐厅。"
+    },
+    {
+      "id": 118,
+      "start": 315.68,
+      "end": 316.2,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 119,
+      "start": 316.38,
+      "end": 319.64,
+      "en": "And that would mean there is a great restaurant on the other street.",
+      "zh": "这意味着另一条街上有一家很棒的餐厅。"
+    },
+    {
+      "id": 120,
+      "start": 320.04,
+      "end": 321.04,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 121,
+      "start": 321.04,
+      "end": 322.04,
+      "en": "Around the corner.",
+      "zh": "拐角处。"
+    },
+    {
+      "id": 122,
+      "start": 322.04,
+      "end": 323.04,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 123,
+      "start": 323.04,
+      "end": 324.04,
+      "en": "Great.",
+      "zh": "太好了。"
+    },
+    {
+      "id": 124,
+      "start": 324.04,
+      "end": 326.92,
+      "en": "And another example, we can say around there.",
+      "zh": "另一个例子，我们可以在那里说。"
+    },
+    {
+      "id": 125,
+      "start": 326.92,
+      "end": 327.15,
+      "en": "Around there.",
+      "zh": "周围。"
+    },
+    {
+      "id": 126,
+      "start": 327.92,
+      "end": 328.92,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 127,
+      "start": 328.92,
+      "end": 332.36,
+      "en": "So, for example, I can say, Los Angeles is a great city.",
+      "zh": "所以，例如，我可以说，洛杉矶是一座伟大的城市。"
+    },
+    {
+      "id": 128,
+      "start": 332.39,
+      "end": 333.79,
+      "en": "I used to live around there.",
+      "zh": "我以前住在那里。"
+    },
+    {
+      "id": 129,
+      "start": 334.07,
+      "end": 336.31,
+      "en": "So you used to live near Los Angeles.",
+      "zh": "所以你曾经住在洛杉矶附近。"
+    },
+    {
+      "id": 130,
+      "start": 336.65,
+      "end": 336.85,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 131,
+      "start": 337.6,
+      "end": 338.6,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 132,
+      "start": 338.6,
+      "end": 340.67,
+      "en": "It's a really good phrase and it's really common.",
+      "zh": "这是一个非常好的短语，而且很常见。"
+    },
+    {
+      "id": 133,
+      "start": 341.16,
+      "end": 342.16,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 134,
+      "start": 342.16,
+      "end": 345.83,
+      "en": "Now, our next phrase in putting it together is terrible with.",
+      "zh": "现在，我们把它放在一起的下一个短语很糟糕。"
+    },
+    {
+      "id": 135,
+      "start": 346.92,
+      "end": 347.13,
+      "en": "Terrible with.",
+      "zh": "不擅长……"
+    },
+    {
+      "id": 136,
+      "start": 347.96,
+      "end": 348.13,
+      "en": "Terrible with.",
+      "zh": "不擅长……"
+    },
+    {
+      "id": 137,
+      "start": 349.24,
+      "end": 349.39,
+      "en": "Terrible with.",
+      "zh": "不擅长……"
+    },
+    {
+      "id": 138,
+      "start": 350.24,
+      "end": 356.6,
+      "en": "And I have a couple of examples that will show you how this phrase works.",
+      "zh": "我有几个例子会向你展示这个短语是如何工作的。"
+    },
+    {
+      "id": 139,
+      "start": 356.6,
+      "end": 358.6,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 140,
+      "start": 358.6,
+      "end": 362.52,
+      "en": "You're terrible with numbers.",
+      "zh": "你对数字很糟糕。"
+    },
+    {
+      "id": 141,
+      "start": 362.52,
+      "end": 364.55,
+      "en": "You can't even remember your own telephone number.",
+      "zh": "你甚至不记得自己的电话号码。"
+    },
+    {
+      "id": 142,
+      "start": 369.24,
+      "end": 372.48,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 143,
+      "start": 372.48,
+      "end": 373.57,
+      "en": "I'm terrible with directions.",
+      "zh": "我对方向很糟糕。"
+    },
+    {
+      "id": 144,
+      "start": 374.11,
+      "end": 375.07,
+      "en": "I'm always getting lost.",
+      "zh": "我总是迷路。"
+    },
+    {
+      "id": 145,
+      "start": 378.96,
+      "end": 382.08,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 146,
+      "start": 382.08,
+      "end": 383.03,
+      "en": "I'm terrible with faces.",
+      "zh": "我特别记不住人脸。"
+    },
+    {
+      "id": 147,
+      "start": 383.73,
+      "end": 385.57,
+      "en": "I can never remember what people look like.",
+      "zh": "我永远不记得人们的样子。"
+    },
+    {
+      "id": 148,
+      "start": 388.97,
+      "end": 389.53,
+      "en": "Wow.",
+      "zh": "哇。"
+    },
+    {
+      "id": 149,
+      "start": 389.53,
+      "end": 390.77,
+      "en": "I understand that.",
+      "zh": "我明白这一点。"
+    },
+    {
+      "id": 150,
+      "start": 391.05,
+      "end": 393.01,
+      "en": "I'm also terrible with numbers.",
+      "zh": "我对数字也很糟糕。"
+    },
+    {
+      "id": 151,
+      "start": 393.39,
+      "end": 395.75,
+      "en": "I can barely add two plus two.",
+      "zh": "我几乎不能加二加二。"
+    },
+    {
+      "id": 152,
+      "start": 396.53,
+      "end": 400.59,
+      "en": "Well, yeah, I guess not everyone is a numbers person.",
+      "zh": "嗯，是的，我想不是每个人都是数字人。"
+    },
+    {
+      "id": 153,
+      "start": 400.73,
+      "end": 402.31,
+      "en": "I'm terrible with faces.",
+      "zh": "我特别记不住人脸。"
+    },
+    {
+      "id": 154,
+      "start": 402.61,
+      "end": 404.19,
+      "en": "I sometimes forget what people look like.",
+      "zh": "我有时会忘记人们的样子。"
+    },
+    {
+      "id": 155,
+      "start": 404.29,
+      "end": 404.49,
+      "en": "Really?",
+      "zh": "真的吗？"
+    },
+    {
+      "id": 156,
+      "start": 405.64,
+      "end": 406.64,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 157,
+      "start": 406.64,
+      "end": 407.64,
+      "en": "Uh-oh.",
+      "zh": "糟了。"
+    },
+    {
+      "id": 158,
+      "start": 407.64,
+      "end": 410.36,
+      "en": "I think it's time for us to listen to our dialogue a second time.",
+      "zh": "我认为是时候第二次听我们的对话了。"
+    },
+    {
+      "id": 159,
+      "start": 410.36,
+      "end": 413.68,
+      "en": "OK, this time the dialogue will be a little bit slower.",
+      "zh": "好的，这次对话会慢一点。"
+    },
+    {
+      "id": 160,
+      "start": 413.68,
+      "end": 413.89,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 161,
+      "start": 414.29,
+      "end": 417.39,
+      "en": "So try and listen for some of the words we've just talked about.",
+      "zh": "所以试着听听我们刚刚谈到的一些词。"
+    },
+    {
+      "id": 162,
+      "start": 421.35,
+      "end": 423.61,
+      "en": "Nick, how's it going?",
+      "zh": "Nick，最近怎么样？"
+    },
+    {
+      "id": 163,
+      "start": 424.17,
+      "end": 425.07,
+      "en": "Oh, hey.",
+      "zh": "哦，嗨。"
+    },
+    {
+      "id": 164,
+      "start": 425.59,
+      "end": 427.59,
+      "en": "What are you doing in this neighborhood?",
+      "zh": "你怎么会来这附近？"
+    },
+    {
+      "id": 165,
+      "start": 428.35,
+      "end": 429.63,
+      "en": "Do you live around here?",
+      "zh": "你住在这里吗？"
+    },
+    {
+      "id": 166,
+      "start": 430.25,
+      "end": 433.45,
+      "en": "Actually, my office is right around the corner.",
+      "zh": "实际上，我的办公室就在拐角处。"
+    },
+    {
+      "id": 167,
+      "start": 434.01,
+      "end": 437.17,
+      "en": "It was great to meet you last week at the conference.",
+      "zh": "很高兴上周在会议上见到你。"
+    },
+    {
+      "id": 168,
+      "start": 437.83,
+      "end": 441.37,
+      "en": "I really enjoyed our conversation about foreign investment.",
+      "zh": "我真的很喜欢我们关于外国投资的谈话。"
+    },
+    {
+      "id": 169,
+      "start": 442.15,
+      "end": 445.41,
+      "en": "Yeah, yeah, it was really interesting.",
+      "zh": "嗯嗯，聊得挺有意思的。"
+    },
+    {
+      "id": 170,
+      "start": 446.39,
+      "end": 450.39,
+      "en": "You know, I'm in a bit of a hurry, but here's my card.",
+      "zh": "我有点赶时间，不过这是我的名片。"
+    },
+    {
+      "id": 171,
+      "start": 450.95,
+      "end": 455.05,
+      "en": "We should definitely meet up again and continue our discussion.",
+      "zh": "我们一定要再约时间接着聊。"
+    },
+    {
+      "id": 172,
+      "start": 455.72,
+      "end": 456.48,
+      "en": "Sure.",
+      "zh": "当然。"
+    },
+    {
+      "id": 173,
+      "start": 457.12,
+      "end": 460.54,
+      "en": "You still have my contact details, right?",
+      "zh": "你还有我的联系方式，对吧？"
+    },
+    {
+      "id": 174,
+      "start": 461.28,
+      "end": 462.3,
+      "en": "You know what?",
+      "zh": "你知道吗？"
+    },
+    {
+      "id": 175,
+      "start": 462.88,
+      "end": 467.6,
+      "en": "This is really embarrassing, but your name has just slipped my mind.",
+      "zh": "说来真尴尬，我一时想不起你的名字了。"
+    },
+    {
+      "id": 176,
+      "start": 468.28,
+      "end": 469.26,
+      "en": "Can you remind me?",
+      "zh": "你能提醒我一下吗？"
+    },
+    {
+      "id": 177,
+      "start": 469.76,
+      "end": 470.46,
+      "en": "Sure.",
+      "zh": "当然。"
+    },
+    {
+      "id": 178,
+      "start": 471.46,
+      "end": 474.68,
+      "en": "My name is Anna Faris.",
+      "zh": "我的名字是安娜·法里斯。"
+    },
+    {
+      "id": 179,
+      "start": 474.68,
+      "end": 475.6,
+      "en": "Don't worry about it.",
+      "zh": "别担心。"
+    },
+    {
+      "id": 180,
+      "start": 476.28,
+      "end": 478.28,
+      "en": "It happens to me all the time.",
+      "zh": "它一直发生在我身上。"
+    },
+    {
+      "id": 181,
+      "start": 479.08,
+      "end": 481.08,
+      "en": "I'm terrible with names too.",
+      "zh": "我也特别记不住人名。"
+    },
+    {
+      "id": 182,
+      "start": 485.36,
+      "end": 486.38,
+      "en": "So it's more clear now.",
+      "zh": "所以现在更清楚了。"
+    },
+    {
+      "id": 183,
+      "start": 486.54,
+      "end": 487.96,
+      "en": "You can understand a lot better, right?",
+      "zh": "你可以更好地理解，对吧？"
+    },
+    {
+      "id": 184,
+      "start": 488.14,
+      "end": 488.92,
+      "en": "Yeah, that's true.",
+      "zh": "对，确实如此。"
+    },
+    {
+      "id": 185,
+      "start": 489.22,
+      "end": 489.52,
+      "en": "Great.",
+      "zh": "太好了。"
+    },
+    {
+      "id": 186,
+      "start": 489.88,
+      "end": 492.82,
+      "en": "Now, it's time for us to take a look at Fluency Builder.",
+      "zh": "现在，是时候让我们看看 Fluency Builder 了。"
+    },
+    {
+      "id": 187,
+      "start": 494.88,
+      "end": 495.16,
+      "en": "Fluency Builder.",
+      "zh": "流利表达。"
+    },
+    {
+      "id": 188,
+      "start": 496.04,
+      "end": 504.24,
+      "en": "So with Fluency Builder, we take some very simple phrases and show you how you can be more fluent or how you can...",
+      "zh": "因此，使用 Fluency Builder，我们会使用一些非常简单的短语，向您展示如何更流利或如何..."
+    },
+    {
+      "id": 189,
+      "start": 505.44,
+      "end": 506.44,
+      "en": "Sound more native.",
+      "zh": "听起来更本地化。"
+    },
+    {
+      "id": 190,
+      "start": 506.44,
+      "end": 507.44,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 191,
+      "start": 507.44,
+      "end": 508.44,
+      "en": "Great.",
+      "zh": "太好了。"
+    },
+    {
+      "id": 192,
+      "start": 508.44,
+      "end": 511.86,
+      "en": "In the beginning of the dialogue, Anna said, Nick, how's it going?",
+      "zh": "在对话的开头，安娜说，尼克，进展如何？"
+    },
+    {
+      "id": 193,
+      "start": 512.46,
+      "end": 513.64,
+      "en": "Yeah, this is a great phrase.",
+      "zh": "是的，这是一个很棒的短语。"
+    },
+    {
+      "id": 194,
+      "start": 513.84,
+      "end": 516.14,
+      "en": "It sounds really, really natural.",
+      "zh": "听起来真的，真的很自然。"
+    },
+    {
+      "id": 195,
+      "start": 516.14,
+      "end": 519.4,
+      "en": "You know, sometimes I hear students say, how are you?",
+      "zh": "你知道，有时我听到学生说，你好吗？"
+    },
+    {
+      "id": 196,
+      "start": 519.96,
+      "end": 521.18,
+      "en": "Or, how are you doing?",
+      "zh": "或者，你好吗？"
+    },
+    {
+      "id": 197,
+      "start": 521.61,
+      "end": 526.11,
+      "en": "Those are two great phrases, but this one sounds really, really natural.",
+      "zh": "这是两个很棒的短语，但这一种听起来真的非常自然。"
+    },
+    {
+      "id": 198,
+      "start": 526.65,
+      "end": 528.53,
+      "en": "It just sounds more casual.",
+      "zh": "只是听起来更随意。"
+    },
+    {
+      "id": 199,
+      "start": 528.99,
+      "end": 531.83,
+      "en": "Yeah, let's listen again to that phrase from the dialogue.",
+      "zh": "是的，让我们再听一次对话中的那句话。"
+    },
+    {
+      "id": 200,
+      "start": 533.72,
+      "end": 534.4,
+      "en": "How's it going?",
+      "zh": "最近怎么样？"
+    },
+    {
+      "id": 201,
+      "start": 536.5,
+      "end": 537.42,
+      "en": "How's it going?",
+      "zh": "最近怎么样？"
+    },
+    {
+      "id": 202,
+      "start": 538.87,
+      "end": 539.35,
+      "en": "Great.",
+      "zh": "太好了。"
+    },
+    {
+      "id": 203,
+      "start": 539.57,
+      "end": 543.45,
+      "en": "So next time that you find a friend on the street, you can just say, hey, how's it going?",
+      "zh": "所以下次你在街上找到朋友时，你可以说，嘿，最近怎么样？"
+    },
+    {
+      "id": 204,
+      "start": 543.79,
+      "end": 543.93,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 205,
+      "start": 544.59,
+      "end": 548.07,
+      "en": "So Marco, have you ever forgotten someone's name?",
+      "zh": "所以马可，你有没有忘记别人的名字？"
+    },
+    {
+      "id": 206,
+      "start": 548.47,
+      "end": 550.19,
+      "en": "Yeah, it's happened to me a couple of times.",
+      "zh": "是的，这发生在我身上几次。"
+    },
+    {
+      "id": 207,
+      "start": 550.44,
+      "end": 555.53,
+      "en": "And actually, the most embarrassing situation was that I forgot a family member's name.",
+      "zh": "实际上，最尴尬的情况是我忘记了一个家庭成员的名字。"
+    },
+    {
+      "id": 208,
+      "start": 555.96,
+      "end": 557.37,
+      "en": "No, a family member's name.",
+      "zh": "不，一个家庭成员的名字。"
+    },
+    {
+      "id": 209,
+      "start": 557.72,
+      "end": 564.19,
+      "en": "We had like a family reunion and there were a lot of aunts and uncles and cousins that I hadn't seen in a while.",
+      "zh": "我们有一个家庭聚会，有很多我有一段时间没见过的阿姨、叔叔和表亲了。"
+    },
+    {
+      "id": 210,
+      "start": 564.56,
+      "end": 566.87,
+      "en": "And I just forgot one of my uncle's names.",
+      "zh": "我只是忘记了我叔叔的名字之一。"
+    },
+    {
+      "id": 211,
+      "start": 567.24,
+      "end": 567.49,
+      "en": "And I was...",
+      "zh": "而我是..."
+    },
+    {
+      "id": 212,
+      "start": 568.24,
+      "end": 569.24,
+      "en": "Uh-oh, that's pretty embarrassing.",
+      "zh": "哦，哦，这很尴尬。"
+    },
+    {
+      "id": 213,
+      "start": 569.24,
+      "end": 570.24,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 214,
+      "start": 570.24,
+      "end": 571.24,
+      "en": "So what did you do?",
+      "zh": "那你做了什么？"
+    },
+    {
+      "id": 215,
+      "start": 571.24,
+      "end": 573.43,
+      "en": "Well, I had to ask one of my other cousins.",
+      "zh": "好吧，我不得不问我的另一位堂兄弟。"
+    },
+    {
+      "id": 216,
+      "start": 573.44,
+      "end": 574.44,
+      "en": "I'm like, hey, who is that guy?",
+      "zh": "我喜欢，嘿，那个人是谁？"
+    },
+    {
+      "id": 217,
+      "start": 574.79,
+      "end": 575.95,
+      "en": "He's like, oh, that's Uncle John.",
+      "zh": "他就像，哦，那是约翰叔叔。"
+    },
+    {
+      "id": 218,
+      "start": 576.23,
+      "end": 577.77,
+      "en": "I'm like, oh man, I totally forgot.",
+      "zh": "我想，哦，伙计，我完全忘记了。"
+    },
+    {
+      "id": 219,
+      "start": 578.27,
+      "end": 578.57,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 220,
+      "start": 578.59,
+      "end": 581.71,
+      "en": "So it was really embarrassing because I didn't know what to call him.",
+      "zh": "所以这真的很尴尬，因为我不知道该怎么称呼他。"
+    },
+    {
+      "id": 221,
+      "start": 581.71,
+      "end": 584.71,
+      "en": "So I just called him Uncle because I didn't know his name.",
+      "zh": "所以我只是叫他叔叔，因为我不知道他的名字。"
+    },
+    {
+      "id": 222,
+      "start": 584.95,
+      "end": 585.37,
+      "en": "Hi, Uncle.",
+      "zh": "你好，叔叔。"
+    },
+    {
+      "id": 223,
+      "start": 585.73,
+      "end": 585.85,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 224,
+      "start": 587.08,
+      "end": 588.08,
+      "en": "Oh, yeah.",
+      "zh": "哦，对。"
+    },
+    {
+      "id": 225,
+      "start": 588.08,
+      "end": 595.13,
+      "en": "So when that happens to me, when I'm in a business setting, sometimes what I do is I ask for someone's card.",
+      "zh": "因此，当这种情况发生在我身上时，当我在商业环境中时，有时我会要求某人的卡片。"
+    },
+    {
+      "id": 226,
+      "start": 596.29,
+      "end": 597.29,
+      "en": "Yeah, that's the good technique.",
+      "zh": "是的，这就是好技术。"
+    },
+    {
+      "id": 227,
+      "start": 597.52,
+      "end": 598.52,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 228,
+      "start": 598.52,
+      "end": 603.91,
+      "en": "Or sometimes I might ask them to write down their email because usually their full name is spelled in their email address.",
+      "zh": "或者有时我可能会要求他们写下他们的电子邮件，因为他们的全名通常拼写在他们的电子邮件地址中。"
+    },
+    {
+      "id": 229,
+      "start": 604.16,
+      "end": 605.99,
+      "en": "So that's my trick when I've forgotten someone's name.",
+      "zh": "所以当我忘记某人的名字时，这就是我的把戏。"
+    },
+    {
+      "id": 230,
+      "start": 606.76,
+      "end": 607.23,
+      "en": "That's a good trick.",
+      "zh": "这是一个很好的技巧。"
+    },
+    {
+      "id": 231,
+      "start": 607.76,
+      "end": 610.99,
+      "en": "And I guess a lot of our listeners can take your advice on that.",
+      "zh": "我想我们的很多听众都可以接受你的建议。"
+    },
+    {
+      "id": 232,
+      "start": 611.48,
+      "end": 611.75,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 233,
+      "start": 612.48,
+      "end": 618.13,
+      "en": "So I think it's time for us to listen to our dialogue one more time, this time at natural speed.",
+      "zh": "所以我认为是时候让我们以自然的速度再听一次我们的对话了。"
+    },
+    {
+      "id": 234,
+      "start": 625.86,
+      "end": 627.4,
+      "en": "Nick, how's it going?",
+      "zh": "Nick，最近怎么样？"
+    },
+    {
+      "id": 235,
+      "start": 627.96,
+      "end": 629.06,
+      "en": "Oh, hey.",
+      "zh": "哦，嗨。"
+    },
+    {
+      "id": 236,
+      "start": 629.92,
+      "end": 631.44,
+      "en": "What are you doing in this neighborhood?",
+      "zh": "你怎么会来这附近？"
+    },
+    {
+      "id": 237,
+      "start": 631.96,
+      "end": 632.72,
+      "en": "Do you live around here?",
+      "zh": "你住在这里吗？"
+    },
+    {
+      "id": 238,
+      "start": 633.26,
+      "end": 635.18,
+      "en": "Actually, my office is right around the corner.",
+      "zh": "实际上，我的办公室就在拐角处。"
+    },
+    {
+      "id": 239,
+      "start": 635.84,
+      "end": 638.06,
+      "en": "It was great to meet you last week at the conference.",
+      "zh": "很高兴上周在会议上见到你。"
+    },
+    {
+      "id": 240,
+      "start": 638.52,
+      "end": 640.96,
+      "en": "I really enjoyed our conversation about foreign investment.",
+      "zh": "我真的很喜欢我们关于外国投资的谈话。"
+    },
+    {
+      "id": 241,
+      "start": 641.18,
+      "end": 642.52,
+      "en": "Yeah, yeah.",
+      "zh": "对，对。"
+    },
+    {
+      "id": 242,
+      "start": 642.64,
+      "end": 643.7,
+      "en": "It was really interesting.",
+      "zh": "真的很有意思。"
+    },
+    {
+      "id": 243,
+      "start": 644.54,
+      "end": 646.72,
+      "en": "You know, I'm in a bit of a hurry, but here's my card.",
+      "zh": "我有点赶时间，不过这是我的名片。"
+    },
+    {
+      "id": 244,
+      "start": 647.28,
+      "end": 649.28,
+      "en": "We should definitely meet up again and continue our discussion.",
+      "zh": "我们一定要再约时间接着聊。"
+    },
+    {
+      "id": 245,
+      "start": 650.08,
+      "end": 650.52,
+      "en": "Sure.",
+      "zh": "当然。"
+    },
+    {
+      "id": 246,
+      "start": 650.66,
+      "end": 652.52,
+      "en": "You still have my contact details, right?",
+      "zh": "你还有我的联系方式，对吧？"
+    },
+    {
+      "id": 247,
+      "start": 653.2,
+      "end": 654.52,
+      "en": "You know what?",
+      "zh": "你知道吗？"
+    },
+    {
+      "id": 248,
+      "start": 654.86,
+      "end": 658.26,
+      "en": "This is really embarrassing, but your name has just slipped my mind.",
+      "zh": "说来真尴尬，我一时想不起你的名字了。"
+    },
+    {
+      "id": 249,
+      "start": 658.62,
+      "end": 659.26,
+      "en": "Can you remind me?",
+      "zh": "你能提醒我一下吗？"
+    },
+    {
+      "id": 250,
+      "start": 659.94,
+      "end": 660.1,
+      "en": "Sure.",
+      "zh": "当然。"
+    },
+    {
+      "id": 251,
+      "start": 660.96,
+      "end": 662.16,
+      "en": "My name is Anna Farris.",
+      "zh": "我的名字是安娜·法里斯。"
+    },
+    {
+      "id": 252,
+      "start": 662.16,
+      "end": 662.68,
+      "en": "Don't worry about it.",
+      "zh": "别担心。"
+    },
+    {
+      "id": 253,
+      "start": 663.16,
+      "end": 664.72,
+      "en": "You say this to me all the time.",
+      "zh": "你一直对我这么说。"
+    },
+    {
+      "id": 254,
+      "start": 664.72,
+      "end": 665.84,
+      "en": "I'm terrible with names too.",
+      "zh": "我也特别记不住人名。"
+    },
+    {
+      "id": 255,
+      "start": 668.04,
+      "end": 678.36,
+      "en": "Well, I hope that you've all enjoyed our lesson for today, and remember to check out our website at EnglishPod.com.",
+      "zh": "好吧，我希望你们今天都喜欢我们的课程，并记得查看我们的网站 englishpod.com。"
+    },
+    {
+      "id": 256,
+      "start": 678.36,
+      "end": 683.12,
+      "en": "Where you can find a lot of other resources and you can leave all your questions and comments.",
+      "zh": "您可以在哪里找到许多其他资源，您可以留下所有问题和评论。"
+    },
+    {
+      "id": 257,
+      "start": 683.44,
+      "end": 684.44,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 258,
+      "start": 684.44,
+      "end": 687.18,
+      "en": "Marco and I are always on the site, so we're happy to answer all of your questions.",
+      "zh": "Marco 和我总是在网站上，所以我们很乐意回答您的所有问题。"
+    },
+    {
+      "id": 259,
+      "start": 687.52,
+      "end": 687.78,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 260,
+      "start": 688.08,
+      "end": 690.42,
+      "en": "So now it's time for us to say...",
+      "zh": "所以现在是我们说的时候了..."
+    },
+    {
+      "id": 261,
+      "start": 690.52,
+      "end": 690.64,
+      "en": "Goodbye.",
+      "zh": "再见。"
+    },
+    {
+      "id": 262,
+      "start": 691.52,
+      "end": 695.52,
+      "en": "Goodbye.",
+      "zh": "再见。"
+    }
+  ],
+  "dialog": {
+    "start": 56.0,
+    "end": 95.8,
+    "segmentIds": [
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37
+    ]
+  }
+}

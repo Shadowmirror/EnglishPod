@@ -1,0 +1,1791 @@
+{
+  "version": 1,
+  "id": 202,
+  "number": "0202",
+  "title": "The Weekend - Asking For Directions",
+  "audio": "mp3/202. The Weekend - Asking For Directions.mp3",
+  "duration": 685.139625,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.46,
+      "en": "Hello everyone and welcome to EnglishPod.",
+      "zh": "大家好，欢迎来到 EnglishPod。"
+    },
+    {
+      "id": 2,
+      "start": 5.78,
+      "end": 6.34,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 6.86,
+      "end": 12.08,
+      "en": "And my name is Catherine and today we've got a great lesson for you about traveling and getting directions.",
+      "zh": "我的名字是凯瑟琳，今天我们为您提供了一个关于旅行和获取路线的重要课程。"
+    },
+    {
+      "id": 4,
+      "start": 12.74,
+      "end": 13.22,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 5,
+      "start": 13.5,
+      "end": 19.74,
+      "en": "So sometimes we are looking for an address, we are looking for our friend's house and we can't find it.",
+      "zh": "所以有时我们正在寻找一个地址，我们正在寻找我们朋友的房子，但我们找不到它。"
+    },
+    {
+      "id": 6,
+      "start": 19.86,
+      "end": 20.62,
+      "en": "So what do you have to do?",
+      "zh": "那么你必须做什么呢？"
+    },
+    {
+      "id": 7,
+      "start": 20.84,
+      "end": 23.48,
+      "en": "You have to stop and ask someone for directions.",
+      "zh": "你必须停下来向某人询问方向。"
+    },
+    {
+      "id": 8,
+      "start": 23.9,
+      "end": 28.3,
+      "en": "There's actually a joke in many countries that men hate to ask for directions.",
+      "zh": "实际上，在许多国家，男人都讨厌问路。"
+    },
+    {
+      "id": 9,
+      "start": 29.18,
+      "end": 34.72,
+      "en": "And so this is the women's approach, asking and getting directions and finally finding your way.",
+      "zh": "这就是女性的方法，询问并获得方向，最终找到自己的方式。"
+    },
+    {
+      "id": 10,
+      "start": 34.96,
+      "end": 36.12,
+      "en": "So it's a good thing.",
+      "zh": "所以这是一件好事。"
+    },
+    {
+      "id": 11,
+      "start": 36.34,
+      "end": 37.32,
+      "en": "That's a very good thing.",
+      "zh": "这是一件非常好的事情。"
+    },
+    {
+      "id": 12,
+      "start": 37.88,
+      "end": 40.28,
+      "en": "So we're going to jump right into the dialogue.",
+      "zh": "所以我们将直接进入对话。"
+    },
+    {
+      "id": 13,
+      "start": 40.28,
+      "end": 43.64,
+      "en": "Let's see what happens here and if they can find the place they're looking for.",
+      "zh": "让我们看看这里会发生什么，以及他们是否能找到他们正在寻找的地方。"
+    },
+    {
+      "id": 14,
+      "start": 49.92,
+      "end": 52.03,
+      "en": "We've been going around in circles for the past hour.",
+      "zh": "在过去的一个小时里，我们一直在兜圈子。"
+    },
+    {
+      "id": 15,
+      "start": 52.04,
+      "end": 55.18,
+      "en": "Will you just please stop and ask for directions?",
+      "zh": "你能停下来问路吗？"
+    },
+    {
+      "id": 16,
+      "start": 55.18,
+      "end": 56.15,
+      "en": "We are not lost.",
+      "zh": "我们没迷路。"
+    },
+    {
+      "id": 17,
+      "start": 56.6,
+      "end": 57.89,
+      "en": "I'm just taking the scenic route.",
+      "zh": "我只是走风景优美的路线。"
+    },
+    {
+      "id": 18,
+      "start": 58.23,
+      "end": 58.81,
+      "en": "Yeah, whatever.",
+      "zh": "行，随你便。"
+    },
+    {
+      "id": 19,
+      "start": 59.39,
+      "end": 61.75,
+      "en": "I told you we should buy that GPS that was on sale.",
+      "zh": "我早说过，应该买下那台打折的 GPS 导航仪。"
+    },
+    {
+      "id": 20,
+      "start": 62.27,
+      "end": 63.09,
+      "en": "But would you listen to me?",
+      "zh": "但是你会听我的吗？"
+    },
+    {
+      "id": 21,
+      "start": 63.31,
+      "end": 65.05,
+      "en": "No, this is so typical.",
+      "zh": "结果你就是不听，你总这样。"
+    },
+    {
+      "id": 22,
+      "start": 65.53,
+      "end": 65.87,
+      "en": "Fine.",
+      "zh": "行吧。"
+    },
+    {
+      "id": 23,
+      "start": 66.59,
+      "end": 69.45,
+      "en": "I'll ask this guy for directions if it will shut your trap.",
+      "zh": "只要能让你闭嘴，我就去找那个人问路。"
+    },
+    {
+      "id": 24,
+      "start": 70.23,
+      "end": 71.01,
+      "en": "Excuse me, sir.",
+      "zh": "打扰一下，先生。"
+    },
+    {
+      "id": 25,
+      "start": 71.29,
+      "end": 73.71,
+      "en": "Can you tell me how to get to St. Mary's Church?",
+      "zh": "你能告诉我如何去圣玛丽教堂吗？"
+    },
+    {
+      "id": 26,
+      "start": 74.49,
+      "end": 75.01,
+      "en": "Sure.",
+      "zh": "当然。"
+    },
+    {
+      "id": 27,
+      "start": 75.53,
+      "end": 83.09,
+      "en": "Go down Park Road, turn left, go up as far as the set of traffic lights and turn left.",
+      "zh": "沿着公园路走，左转，向上走到一组红绿灯，然后左转。"
+    },
+    {
+      "id": 28,
+      "start": 83.67,
+      "end": 86.73,
+      "en": "The place you're looking for is the second building on the right.",
+      "zh": "你要找的地方是右边的第二座建筑。"
+    },
+    {
+      "id": 29,
+      "start": 87.37,
+      "end": 87.81,
+      "en": "Thanks.",
+      "zh": "谢谢。"
+    },
+    {
+      "id": 30,
+      "start": 88.68,
+      "end": 90.08,
+      "en": "See, was that hard?",
+      "zh": "你看，这很难吗？"
+    },
+    {
+      "id": 31,
+      "start": 90.5,
+      "end": 93.1,
+      "en": "If you would only listen to me more often, you'd be better off.",
+      "zh": "如果你只多听我的话，你会过得更好。"
+    },
+    {
+      "id": 32,
+      "start": 94.16,
+      "end": 98.56,
+      "en": "All right, we're back.",
+      "zh": "好了，我们回来了。"
+    },
+    {
+      "id": 33,
+      "start": 98.56,
+      "end": 104.11,
+      "en": "So well, the woman was obviously a little bit angry that the guy refused to admit that he was lost.",
+      "zh": "太好了，那个女人显然有点生气，那个人拒绝承认他迷路了。"
+    },
+    {
+      "id": 34,
+      "start": 104.64,
+      "end": 105.16,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 35,
+      "start": 105.38,
+      "end": 106.04,
+      "en": "She's very frustrated.",
+      "zh": "她非常沮丧。"
+    },
+    {
+      "id": 36,
+      "start": 106.6,
+      "end": 110.28,
+      "en": "And this has been in movies and in books and all sorts of things.",
+      "zh": "这已经出现在电影和书籍和各种各样的事情中。"
+    },
+    {
+      "id": 37,
+      "start": 110.72,
+      "end": 113.4,
+      "en": "This kind of story of the man not wanting to ask for directions.",
+      "zh": "这种男人不想问路的故事。"
+    },
+    {
+      "id": 38,
+      "start": 114.24,
+      "end": 118.48,
+      "en": "And so he keeps saying, listen, I've got these excuses.",
+      "zh": "所以他一直在说，听着，我有这些借口。"
+    },
+    {
+      "id": 39,
+      "start": 118.6,
+      "end": 120.3,
+      "en": "I'm taking the scenic route, for example.",
+      "zh": "例如，我正在走风景路线。"
+    },
+    {
+      "id": 40,
+      "start": 120.68,
+      "end": 121.24,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 41,
+      "start": 121.48,
+      "end": 124.98,
+      "en": "And that's our first word for today on Language Takeaway.",
+      "zh": "这是我们今天在语言外卖方面的第一个词。"
+    },
+    {
+      "id": 42,
+      "start": 126.63,
+      "end": 127.89,
+      "en": "Language Takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 43,
+      "start": 128.65,
+      "end": 131.65,
+      "en": "So as you say, the scenic route, what does he mean by that?",
+      "zh": "所以你说，风景优美的路线，他是什么意思？"
+    },
+    {
+      "id": 44,
+      "start": 131.87,
+      "end": 136.65,
+      "en": "Okay, route is like a path or a trail or kind of like the way that you go somewhere.",
+      "zh": "好的，路线就像一条小路或一条小径，或者有点像你去某个地方的方式。"
+    },
+    {
+      "id": 45,
+      "start": 137.07,
+      "end": 138.31,
+      "en": "So the route to my house.",
+      "zh": "所以去我家的路。"
+    },
+    {
+      "id": 46,
+      "start": 138.92,
+      "end": 145.8,
+      "en": "But in this case, the scenic route or the scenic route, you can say in both ways, is the most beautiful way to go.",
+      "zh": "但在这种情况下，风景路线或风景路线，可以说是两种方式，是最美丽的方式。"
+    },
+    {
+      "id": 47,
+      "start": 145.8,
+      "end": 148.28,
+      "en": "It's usually the longer one.",
+      "zh": "它通常是更长的之一。"
+    },
+    {
+      "id": 48,
+      "start": 148.28,
+      "end": 149.28,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 49,
+      "start": 149.28,
+      "end": 151.2,
+      "en": "So you can say, oh, it's just the scenic route.",
+      "zh": "所以你可以说，哦，这只是风景优美的路线。"
+    },
+    {
+      "id": 50,
+      "start": 151.2,
+      "end": 151.91,
+      "en": "It's not really true.",
+      "zh": "这不是真的。"
+    },
+    {
+      "id": 51,
+      "start": 152.2,
+      "end": 153.39,
+      "en": "It's just the longer route.",
+      "zh": "这只是更长的路线。"
+    },
+    {
+      "id": 52,
+      "start": 153.51,
+      "end": 154.17,
+      "en": "Right, exactly.",
+      "zh": "对，没错。"
+    },
+    {
+      "id": 53,
+      "start": 154.96,
+      "end": 156.72,
+      "en": "So that's the excuse that he's giving her.",
+      "zh": "所以这就是他给她的借口。"
+    },
+    {
+      "id": 54,
+      "start": 156.72,
+      "end": 157.69,
+      "en": "He's like, no, I'm not lost.",
+      "zh": "他就像，不，我没有迷路。"
+    },
+    {
+      "id": 55,
+      "start": 157.93,
+      "end": 161.15,
+      "en": "We're taking longer because, well, we're taking the beautiful route.",
+      "zh": "我们需要更长的时间，因为，我们正在走这条美丽的路线。"
+    },
+    {
+      "id": 56,
+      "start": 161.61,
+      "end": 163.73,
+      "en": "All right, with all the trees and the animals and the lakes.",
+      "zh": "好吧，有所有的树木、动物和湖泊。"
+    },
+    {
+      "id": 57,
+      "start": 164.08,
+      "end": 164.45,
+      "en": "No, I don't.",
+      "zh": "不，我没有。"
+    },
+    {
+      "id": 58,
+      "start": 165.08,
+      "end": 165.21,
+      "en": "I don't buy it.",
+      "zh": "我不买。"
+    },
+    {
+      "id": 59,
+      "start": 166.08,
+      "end": 167.08,
+      "en": "I don't believe this.",
+      "zh": "我不相信这一点。"
+    },
+    {
+      "id": 60,
+      "start": 167.08,
+      "end": 168.08,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 61,
+      "start": 168.08,
+      "end": 169.08,
+      "en": "I don't believe it.",
+      "zh": "真不敢相信。"
+    },
+    {
+      "id": 62,
+      "start": 169.08,
+      "end": 170.08,
+      "en": "I don't believe it.",
+      "zh": "真不敢相信。"
+    },
+    {
+      "id": 63,
+      "start": 170.08,
+      "end": 171.08,
+      "en": "Whatever.",
+      "zh": "随便吧。"
+    },
+    {
+      "id": 64,
+      "start": 171.08,
+      "end": 172.08,
+      "en": "You know what?",
+      "zh": "你知道吗？"
+    },
+    {
+      "id": 65,
+      "start": 172.08,
+      "end": 173.08,
+      "en": "We need a GPS.",
+      "zh": "我们需要一个 GPS。"
+    },
+    {
+      "id": 66,
+      "start": 173.08,
+      "end": 175.08,
+      "en": "Okay, GPS, global positioning system.",
+      "zh": "好的，GPS，全球定位系统。"
+    },
+    {
+      "id": 67,
+      "start": 175.08,
+      "end": 178.28,
+      "en": "So many people have these in their cars these days.",
+      "zh": "这些天有很多人在他们的车里有这些。"
+    },
+    {
+      "id": 68,
+      "start": 178.28,
+      "end": 184.52,
+      "en": "This is like an electronic map that will use your location to show you where to go.",
+      "zh": "这就像一张电子地图，将使用您的位置向您展示去哪里。"
+    },
+    {
+      "id": 69,
+      "start": 185.14,
+      "end": 186.36,
+      "en": "It's very useful.",
+      "zh": "它非常有用。"
+    },
+    {
+      "id": 70,
+      "start": 186.36,
+      "end": 195.2,
+      "en": "And especially in places like the United States that have streets that are clearly marked and it's just a little bit easier to get around.",
+      "zh": "尤其是在像美国这样的街道上有清晰标记的地方，而且出行要容易一些。"
+    },
+    {
+      "id": 71,
+      "start": 195.93,
+      "end": 200.17,
+      "en": "You can just get in your car, type in the address you want to go to and the thing talks to you.",
+      "zh": "你可以上车，输入你想去的地址，然后跟你说话。"
+    },
+    {
+      "id": 72,
+      "start": 200.84,
+      "end": 203.16,
+      "en": "It says turn left, go straight, turn right.",
+      "zh": "它说左转，直行，右转。"
+    },
+    {
+      "id": 73,
+      "start": 203.16,
+      "end": 203.39,
+      "en": "Creepy.",
+      "zh": "令人毛骨悚然。"
+    },
+    {
+      "id": 74,
+      "start": 204.16,
+      "end": 206.6,
+      "en": "So this is a very useful device.",
+      "zh": "所以这是一个非常有用的设备。"
+    },
+    {
+      "id": 75,
+      "start": 206.6,
+      "end": 209.07,
+      "en": "It's like a computer that you use in your computer, a GPS.",
+      "zh": "它就像您在计算机中使用的计算机，GPS。"
+    },
+    {
+      "id": 76,
+      "start": 210.35,
+      "end": 218.49,
+      "en": "All right, so she's talking about the GPS and then at the end of that line, she says, this is so typical.",
+      "zh": "好吧，所以她说的是 GPS，然后在那条线的末尾，她说，这很典型。"
+    },
+    {
+      "id": 77,
+      "start": 219.44,
+      "end": 219.64,
+      "en": "So what?",
+      "zh": "那呢？"
+    },
+    {
+      "id": 78,
+      "start": 220.44,
+      "end": 221.44,
+      "en": "Getting lost.",
+      "zh": "迷路了。"
+    },
+    {
+      "id": 79,
+      "start": 221.44,
+      "end": 223.72,
+      "en": "All right, getting lost is so typical.",
+      "zh": "好吧，迷路是如此典型。"
+    },
+    {
+      "id": 80,
+      "start": 223.72,
+      "end": 226.48,
+      "en": "So something that is typical is common.",
+      "zh": "所以典型的东西很常见。"
+    },
+    {
+      "id": 81,
+      "start": 227.68,
+      "end": 228.6,
+      "en": "This is so normal.",
+      "zh": "这太正常了。"
+    },
+    {
+      "id": 82,
+      "start": 228.96,
+      "end": 229.78,
+      "en": "This is so typical.",
+      "zh": "这很典型。"
+    },
+    {
+      "id": 83,
+      "start": 230.02,
+      "end": 232.62,
+      "en": "This is so something you normally do.",
+      "zh": "这是你通常做的事情。"
+    },
+    {
+      "id": 84,
+      "start": 233.08,
+      "end": 235.22,
+      "en": "So what other examples could we give with the word typical?",
+      "zh": "那么我们还可以用典型这个词给出哪些其他例子呢？"
+    },
+    {
+      "id": 85,
+      "start": 235.86,
+      "end": 236.38,
+      "en": "Something that is typical?",
+      "zh": "有什么典型的？"
+    },
+    {
+      "id": 86,
+      "start": 236.86,
+      "end": 239.52,
+      "en": "Okay, well, you can have a behavior like this.",
+      "zh": "好吧，你可以有这样的行为。"
+    },
+    {
+      "id": 87,
+      "start": 239.52,
+      "end": 240.28,
+      "en": "What he did was typical.",
+      "zh": "他所做的很典型。"
+    },
+    {
+      "id": 88,
+      "start": 240.86,
+      "end": 248.02,
+      "en": "We can also say, in my typical Saturday, I wake up late and drink a coffee and take a nap.",
+      "zh": "我们也可以说，在我典型的星期六，我起得很晚，喝杯咖啡，打个盹。"
+    },
+    {
+      "id": 89,
+      "start": 249.28,
+      "end": 250.28,
+      "en": "Okay, cool.",
+      "zh": "好，酷。"
+    },
+    {
+      "id": 90,
+      "start": 250.28,
+      "end": 252.69,
+      "en": "So it's common, it's regular, it's frequent maybe.",
+      "zh": "所以它很常见，它是常规的，它可能很常见。"
+    },
+    {
+      "id": 91,
+      "start": 253.16,
+      "end": 253.29,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 92,
+      "start": 254.16,
+      "end": 255.71,
+      "en": "Or you go out to dinner and your friend is late.",
+      "zh": "或者你出去吃饭，你的朋友迟到了。"
+    },
+    {
+      "id": 93,
+      "start": 255.88,
+      "end": 258.76,
+      "en": "You say, oh, this is so typical of him.",
+      "zh": "你说，哦，这就是他的典型。"
+    },
+    {
+      "id": 94,
+      "start": 258.76,
+      "end": 259.71,
+      "en": "Right, he's always late.",
+      "zh": "对，他总是迟到。"
+    },
+    {
+      "id": 95,
+      "start": 260.45,
+      "end": 260.89,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 96,
+      "start": 261.68,
+      "end": 265.45,
+      "en": "All right, and we have one last set of words here.",
+      "zh": "好吧，我们在这里有最后一组单词。"
+    },
+    {
+      "id": 97,
+      "start": 266.0,
+      "end": 270.99,
+      "en": "And when the guy was giving him instructions, he said, you know what, go left, go right, whatever.",
+      "zh": "当那个人给他指示时，他说，你知道什么，向左走，向右走，随便什么。"
+    },
+    {
+      "id": 98,
+      "start": 271.92,
+      "end": 274.87,
+      "en": "And then he said, until you reach the set of traffic lights.",
+      "zh": "然后他说，直到你到达一组红绿灯。"
+    },
+    {
+      "id": 99,
+      "start": 275.24,
+      "end": 276.49,
+      "en": "So what is a traffic light?",
+      "zh": "那么什么是红绿灯？"
+    },
+    {
+      "id": 100,
+      "start": 276.79,
+      "end": 277.69,
+      "en": "Well, you know what a light is.",
+      "zh": "好吧，你知道什么是灯。"
+    },
+    {
+      "id": 101,
+      "start": 278.36,
+      "end": 279.05,
+      "en": "You know what traffic is.",
+      "zh": "你知道什么是流量。"
+    },
+    {
+      "id": 102,
+      "start": 279.4,
+      "end": 282.37,
+      "en": "Traffic is cars driving on the road, trucks, things like that.",
+      "zh": "交通是在路上行驶的汽车，卡车之类的东西。"
+    },
+    {
+      "id": 103,
+      "start": 283.08,
+      "end": 287.15,
+      "en": "So traffic light is a special light with three colors, red, yellow, and green.",
+      "zh": "所以红绿灯是一种特殊的灯，有红、黄、绿三种颜色。"
+    },
+    {
+      "id": 104,
+      "start": 287.81,
+      "end": 289.35,
+      "en": "And it tells you if you can stop or go.",
+      "zh": "它告诉你你是否可以停下来或离开。"
+    },
+    {
+      "id": 105,
+      "start": 289.96,
+      "end": 292.44,
+      "en": "So they're also called stop lights, right?",
+      "zh": "所以它们也被称为红绿灯，对吧？"
+    },
+    {
+      "id": 106,
+      "start": 292.44,
+      "end": 293.44,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 107,
+      "start": 293.44,
+      "end": 294.44,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 108,
+      "start": 294.44,
+      "end": 296.98,
+      "en": "So stop lights and traffic lights is the same thing.",
+      "zh": "所以红绿灯和红绿灯是一回事。"
+    },
+    {
+      "id": 109,
+      "start": 296.98,
+      "end": 299.84,
+      "en": "Usually they hang from above the street.",
+      "zh": "通常它们悬挂在街道上方。"
+    },
+    {
+      "id": 110,
+      "start": 300.48,
+      "end": 302.62,
+      "en": "Okay, very good.",
+      "zh": "好，很好。"
+    },
+    {
+      "id": 111,
+      "start": 302.62,
+      "end": 303.36,
+      "en": "Words and phrases there.",
+      "zh": "那里的单词和短语。"
+    },
+    {
+      "id": 112,
+      "start": 303.62,
+      "end": 307.36,
+      "en": "Why don't we listen to our dialogue again and we'll be back in just a little bit.",
+      "zh": "我们为什么不再听我们的对话，我们会回来一点。"
+    },
+    {
+      "id": 113,
+      "start": 311.72,
+      "end": 313.82,
+      "en": "We've been going around in circles for the past hour.",
+      "zh": "在过去的一个小时里，我们一直在兜圈子。"
+    },
+    {
+      "id": 114,
+      "start": 314.2,
+      "end": 317.04,
+      "en": "Will you just please stop and ask for directions?",
+      "zh": "你能停下来问路吗？"
+    },
+    {
+      "id": 115,
+      "start": 317.04,
+      "end": 317.96,
+      "en": "We are not lost.",
+      "zh": "我们没迷路。"
+    },
+    {
+      "id": 116,
+      "start": 318.44,
+      "end": 319.72,
+      "en": "I'm just taking the scenic route.",
+      "zh": "我只是走风景优美的路线。"
+    },
+    {
+      "id": 117,
+      "start": 320.06,
+      "end": 320.66,
+      "en": "Yeah, whatever.",
+      "zh": "行，随你便。"
+    },
+    {
+      "id": 118,
+      "start": 321.22,
+      "end": 323.6,
+      "en": "I told you we should buy that GPS that was on sale.",
+      "zh": "我早说过，应该买下那台打折的 GPS 导航仪。"
+    },
+    {
+      "id": 119,
+      "start": 324.1,
+      "end": 324.92,
+      "en": "But would you listen to me?",
+      "zh": "但是你会听我的吗？"
+    },
+    {
+      "id": 120,
+      "start": 325.16,
+      "end": 326.86,
+      "en": "No, this is so typical.",
+      "zh": "不，这很典型。"
+    },
+    {
+      "id": 121,
+      "start": 327.38,
+      "end": 327.68,
+      "en": "Fine.",
+      "zh": "行吧。"
+    },
+    {
+      "id": 122,
+      "start": 328.42,
+      "end": 331.26,
+      "en": "I'll ask this guy for directions if it will shut your trap.",
+      "zh": "只要能让你闭嘴，我就去找那个人问路。"
+    },
+    {
+      "id": 123,
+      "start": 332.06,
+      "end": 332.84,
+      "en": "Excuse me, sir.",
+      "zh": "打扰一下，先生。"
+    },
+    {
+      "id": 124,
+      "start": 333.12,
+      "end": 335.54,
+      "en": "Can you tell me how to get to St. Mary's Church?",
+      "zh": "你能告诉我如何去圣玛丽教堂吗？"
+    },
+    {
+      "id": 125,
+      "start": 336.26,
+      "end": 336.86,
+      "en": "Sure.",
+      "zh": "当然。"
+    },
+    {
+      "id": 126,
+      "start": 337.36,
+      "end": 344.9,
+      "en": "Go down Park Road, turn left, go up as far as the set of traffic lights and turn left.",
+      "zh": "沿着公园路走，左转，向上走到一组红绿灯，然后左转。"
+    },
+    {
+      "id": 127,
+      "start": 345.5,
+      "end": 348.56,
+      "en": "The place you're looking for is the second building on the right.",
+      "zh": "你要找的地方是右边的第二座建筑。"
+    },
+    {
+      "id": 128,
+      "start": 349.52,
+      "end": 350.52,
+      "en": "Thanks.",
+      "zh": "谢谢。"
+    },
+    {
+      "id": 129,
+      "start": 350.52,
+      "end": 351.91,
+      "en": "See, was that hard?",
+      "zh": "你看，这很难吗？"
+    },
+    {
+      "id": 130,
+      "start": 352.38,
+      "end": 354.93,
+      "en": "If you would only listen to me more often, you'd be better off.",
+      "zh": "如果你只多听我的话，你会过得更好。"
+    },
+    {
+      "id": 131,
+      "start": 355.76,
+      "end": 364.2,
+      "en": "All right, we've got some great phrases coming up in Fluency Builder.",
+      "zh": "好吧，我们在 Flueny Builder 中有一些很棒的短语。"
+    },
+    {
+      "id": 132,
+      "start": 364.2,
+      "end": 364.48,
+      "en": "Fluency Builder.",
+      "zh": "流利表达。"
+    },
+    {
+      "id": 133,
+      "start": 365.2,
+      "end": 368.68,
+      "en": "So the first phrase that we're going to look at is what the wife said at the very beginning.",
+      "zh": "所以我们要看的第一个短语是妻子一开始所说的话。"
+    },
+    {
+      "id": 134,
+      "start": 368.96,
+      "end": 373.48,
+      "en": "She said, we have been going around in circles for the past hour.",
+      "zh": "她说，过去一个小时我们一直在兜圈子。"
+    },
+    {
+      "id": 135,
+      "start": 374.52,
+      "end": 375.48,
+      "en": "Going around in circles.",
+      "zh": "绕圈子走。"
+    },
+    {
+      "id": 136,
+      "start": 376.44,
+      "end": 378.12,
+      "en": "So we could say we've been driving in circles.",
+      "zh": "所以我们可以说我们一直在兜圈子。"
+    },
+    {
+      "id": 137,
+      "start": 379.16,
+      "end": 384.42,
+      "en": "In circles means you've been making the same route over and over and over again.",
+      "zh": "在圈子里意味着你一遍又一遍地走同样的路线。"
+    },
+    {
+      "id": 138,
+      "start": 384.64,
+      "end": 387.9,
+      "en": "You keep seeing the same house, the same tree, the same house, the same tree.",
+      "zh": "你一直看到同一所房子，同一棵树，同一座房子，同一棵树。"
+    },
+    {
+      "id": 139,
+      "start": 388.42,
+      "end": 390.28,
+      "en": "So this means we're not going anywhere.",
+      "zh": "所以这意味着我们不会去任何地方。"
+    },
+    {
+      "id": 140,
+      "start": 391.0,
+      "end": 394.8,
+      "en": "You could also say, Marco, I wish you had brought the map.",
+      "zh": "你也可以说，马可，我希望你带来了地图。"
+    },
+    {
+      "id": 141,
+      "start": 395.38,
+      "end": 397.8,
+      "en": "We've been walking in circles for two hours.",
+      "zh": "我们已经绕圈子走了两个小时。"
+    },
+    {
+      "id": 142,
+      "start": 398.3,
+      "end": 399.02,
+      "en": "Okay, cool.",
+      "zh": "好，酷。"
+    },
+    {
+      "id": 143,
+      "start": 399.36,
+      "end": 403.38,
+      "en": "So you can use it if you're driving or if you're walking in any situation like that.",
+      "zh": "因此，如果您正在开车或在任何情况下行走，您都可以使用它。"
+    },
+    {
+      "id": 144,
+      "start": 403.4,
+      "end": 403.78,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 145,
+      "start": 404.92,
+      "end": 405.92,
+      "en": "Okay, good.",
+      "zh": "好，很好。"
+    },
+    {
+      "id": 146,
+      "start": 405.92,
+      "end": 407.56,
+      "en": "All right, so going around in circles.",
+      "zh": "好吧，所以转圈。"
+    },
+    {
+      "id": 147,
+      "start": 407.56,
+      "end": 414.44,
+      "en": "Now, moving on, the guy was a little bit irritated with her and he said something that's a little bit impolite.",
+      "zh": "现在，继续前进，这家伙对她有点恼火，他说了一些有点不礼貌的话。"
+    },
+    {
+      "id": 148,
+      "start": 414.44,
+      "end": 415.06,
+      "en": "He said, you know what?",
+      "zh": "他说，你知道吗？"
+    },
+    {
+      "id": 149,
+      "start": 415.44,
+      "end": 418.36,
+      "en": "I'm going to ask for directions if it will shut your trap.",
+      "zh": "我会问它是否会关闭你的陷阱。"
+    },
+    {
+      "id": 150,
+      "start": 418.96,
+      "end": 419.86,
+      "en": "Impolite, this is rude.",
+      "zh": "不礼貌，这是粗鲁的。"
+    },
+    {
+      "id": 151,
+      "start": 421.08,
+      "end": 422.0,
+      "en": "Yeah, this is very rude.",
+      "zh": "是的，这很粗鲁。"
+    },
+    {
+      "id": 152,
+      "start": 422.32,
+      "end": 424.04,
+      "en": "So be careful when you use this.",
+      "zh": "所以在使用时要小心。"
+    },
+    {
+      "id": 153,
+      "start": 424.5,
+      "end": 426.44,
+      "en": "You can say, hey, shut your trap.",
+      "zh": "你可以说，嘿，关闭你的陷阱。"
+    },
+    {
+      "id": 154,
+      "start": 427.0,
+      "end": 429.88,
+      "en": "Okay, so shut means to close.",
+      "zh": "好的，所以关闭意味着关闭。"
+    },
+    {
+      "id": 155,
+      "start": 429.88,
+      "end": 432.18,
+      "en": "But trap, this is your mouth.",
+      "zh": "但是陷阱，这是你的嘴。"
+    },
+    {
+      "id": 156,
+      "start": 432.72,
+      "end": 433.04,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 157,
+      "start": 433.44,
+      "end": 434.44,
+      "en": "So your mouth is a trap.",
+      "zh": "所以你的嘴是一个陷阱。"
+    },
+    {
+      "id": 158,
+      "start": 434.44,
+      "end": 434.98,
+      "en": "It's kind of like a trap.",
+      "zh": "这有点像一个陷阱。"
+    },
+    {
+      "id": 159,
+      "start": 435.44,
+      "end": 439.48,
+      "en": "In this case, shut your trap is a set phrase and it means shut up.",
+      "zh": "在这种情况下，关闭你的陷阱是一个固定的短语，它意味着闭嘴。"
+    },
+    {
+      "id": 160,
+      "start": 440.4,
+      "end": 440.7,
+      "en": "Be quiet.",
+      "zh": "安静。"
+    },
+    {
+      "id": 161,
+      "start": 441.4,
+      "end": 442.52,
+      "en": "Stop talking.",
+      "zh": "别说话了。"
+    },
+    {
+      "id": 162,
+      "start": 442.52,
+      "end": 445.08,
+      "en": "So how can we say this in a nicer way?",
+      "zh": "那么我们怎么能以更好的方式说这个呢？"
+    },
+    {
+      "id": 163,
+      "start": 445.24,
+      "end": 448.35,
+      "en": "For example, I've heard people say your yap.",
+      "zh": "例如，我听到人们说你的 Yap。"
+    },
+    {
+      "id": 164,
+      "start": 448.84,
+      "end": 449.25,
+      "en": "Shut your yap.",
+      "zh": "关闭你的 YAP。"
+    },
+    {
+      "id": 165,
+      "start": 449.84,
+      "end": 450.69,
+      "en": "Yeah, shut your yapper.",
+      "zh": "是的，关闭你的 Yapper。"
+    },
+    {
+      "id": 166,
+      "start": 452.12,
+      "end": 456.67,
+      "en": "I would say, can you please stop talking or can we have some quiet time now?",
+      "zh": "我会说，你能不能停止说话，或者我们现在可以安静点时间吗？"
+    },
+    {
+      "id": 167,
+      "start": 456.73,
+      "end": 457.83,
+      "en": "Can we have some quiet time?",
+      "zh": "我们可以有一些安静的时间吗？"
+    },
+    {
+      "id": 168,
+      "start": 458.13,
+      "end": 459.07,
+      "en": "Yeah, that's a polite way.",
+      "zh": "是的，这是一种礼貌的方式。"
+    },
+    {
+      "id": 169,
+      "start": 459.65,
+      "end": 461.11,
+      "en": "The rude way is shut up.",
+      "zh": "粗鲁的方式是闭嘴。"
+    },
+    {
+      "id": 170,
+      "start": 461.35,
+      "end": 461.75,
+      "en": "Shut up.",
+      "zh": "闭嘴。"
+    },
+    {
+      "id": 171,
+      "start": 462.4,
+      "end": 463.4,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 172,
+      "start": 463.4,
+      "end": 464.4,
+      "en": "Shut your mouth.",
+      "zh": "闭上你的嘴。"
+    },
+    {
+      "id": 173,
+      "start": 464.4,
+      "end": 465.4,
+      "en": "That's very direct though, right?",
+      "zh": "不过这很直接，对吧？"
+    },
+    {
+      "id": 174,
+      "start": 465.4,
+      "end": 466.4,
+      "en": "Very rude.",
+      "zh": "很粗鲁。"
+    },
+    {
+      "id": 175,
+      "start": 466.4,
+      "end": 467.4,
+      "en": "Yeah, that's right.",
+      "zh": "对，没错。"
+    },
+    {
+      "id": 176,
+      "start": 467.4,
+      "end": 468.4,
+      "en": "Okay, so shut your trap.",
+      "zh": "好吧，关闭你的陷阱。"
+    },
+    {
+      "id": 177,
+      "start": 468.4,
+      "end": 469.4,
+      "en": "Shut your trap.",
+      "zh": "关闭你的陷阱。"
+    },
+    {
+      "id": 178,
+      "start": 469.4,
+      "end": 471.17,
+      "en": "And then the wife said, well, see, there you go.",
+      "zh": "然后妻子说，好吧，看，你去吧。"
+    },
+    {
+      "id": 179,
+      "start": 471.4,
+      "end": 471.91,
+      "en": "We got directions.",
+      "zh": "我们得到了方向。"
+    },
+    {
+      "id": 180,
+      "start": 472.4,
+      "end": 473.17,
+      "en": "We're going to get there now.",
+      "zh": "我们现在要去那里。"
+    },
+    {
+      "id": 181,
+      "start": 473.56,
+      "end": 474.09,
+      "en": "And was that hard?",
+      "zh": "那很难吗？"
+    },
+    {
+      "id": 182,
+      "start": 474.66,
+      "end": 478.01,
+      "en": "If you would only listen to me more often, you would be better off.",
+      "zh": "如果你只多听我的话，你会过得更好。"
+    },
+    {
+      "id": 183,
+      "start": 478.29,
+      "end": 480.47,
+      "en": "So the guy would be better off.",
+      "zh": "所以那个人会更好。"
+    },
+    {
+      "id": 184,
+      "start": 480.76,
+      "end": 482.48,
+      "en": "That doesn't really make much sense.",
+      "zh": "这真的没有多大意义。"
+    },
+    {
+      "id": 185,
+      "start": 482.48,
+      "end": 483.75,
+      "en": "To be better off.",
+      "zh": "过得更好。"
+    },
+    {
+      "id": 186,
+      "start": 484.37,
+      "end": 488.39,
+      "en": "Okay, so you have to think of this as a phrase, not about the individual words.",
+      "zh": "好吧，所以你必须将其视为一个短语，而不是单个单词。"
+    },
+    {
+      "id": 187,
+      "start": 489.06,
+      "end": 493.8,
+      "en": "To be better off means to be happier or in some way better.",
+      "zh": "变得更好意味着更快乐或以某种方式更好。"
+    },
+    {
+      "id": 188,
+      "start": 493.8,
+      "end": 497.87,
+      "en": "So for example, if I earned more money, I think I'd be better off.",
+      "zh": "举个例子，如果我赚了更多的钱，我想我会过得更好。"
+    },
+    {
+      "id": 189,
+      "start": 498.43,
+      "end": 498.67,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 190,
+      "start": 499.12,
+      "end": 500.09,
+      "en": "Okay, I'd have a nicer life.",
+      "zh": "好吧，我的生活会更好。"
+    },
+    {
+      "id": 191,
+      "start": 500.44,
+      "end": 502.64,
+      "en": "To be happier, maybe more successful.",
+      "zh": "更快乐，也许更成功。"
+    },
+    {
+      "id": 192,
+      "start": 502.73,
+      "end": 503.11,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 193,
+      "start": 503.64,
+      "end": 504.64,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 194,
+      "start": 504.64,
+      "end": 509.27,
+      "en": "If you only listened to me, you would be better off means you would make better decisions.",
+      "zh": "如果你只听我的话，你会更好，这意味着你会做出更好的决定。"
+    },
+    {
+      "id": 195,
+      "start": 509.8,
+      "end": 511.57,
+      "en": "You would have a better situation.",
+      "zh": "你会有更好的情况。"
+    },
+    {
+      "id": 196,
+      "start": 512.51,
+      "end": 516.79,
+      "en": "So I could say, if she got a divorce, she would be better off.",
+      "zh": "所以我可以说，如果她离婚了，她会过得更好。"
+    },
+    {
+      "id": 197,
+      "start": 517.07,
+      "end": 517.27,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 198,
+      "start": 518.2,
+      "end": 518.77,
+      "en": "Her life would improve.",
+      "zh": "她的生活会改善。"
+    },
+    {
+      "id": 199,
+      "start": 519.2,
+      "end": 519.71,
+      "en": "Her life would improve.",
+      "zh": "她的生活会改善。"
+    },
+    {
+      "id": 200,
+      "start": 520.2,
+      "end": 520.95,
+      "en": "To be better off.",
+      "zh": "过得更好。"
+    },
+    {
+      "id": 201,
+      "start": 521.2,
+      "end": 523.07,
+      "en": "This is a great, great, very useful phrase.",
+      "zh": "这是一个伟大的，伟大的，非常有用的短语。"
+    },
+    {
+      "id": 202,
+      "start": 523.21,
+      "end": 523.65,
+      "en": "Very useful.",
+      "zh": "非常有用。"
+    },
+    {
+      "id": 203,
+      "start": 524.15,
+      "end": 524.57,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 204,
+      "start": 524.79,
+      "end": 529.89,
+      "en": "So why don't we listen to the dialogue for the very last time and we'll be back to talk a little bit more with you.",
+      "zh": "那么我们为什么不最后一次听对话，我们会回来和你多谈谈。"
+    },
+    {
+      "id": 205,
+      "start": 536.49,
+      "end": 539.03,
+      "en": "We've been going around in circles for the past hour.",
+      "zh": "在过去的一个小时里，我们一直在兜圈子。"
+    },
+    {
+      "id": 206,
+      "start": 539.08,
+      "end": 542.16,
+      "en": "Will you just please stop and ask for directions?",
+      "zh": "你能停下来问路吗？"
+    },
+    {
+      "id": 207,
+      "start": 542.16,
+      "end": 543.15,
+      "en": "We are not lost.",
+      "zh": "我们没迷路。"
+    },
+    {
+      "id": 208,
+      "start": 543.59,
+      "end": 544.89,
+      "en": "I'm just taking the scenic route.",
+      "zh": "我只是走风景优美的路线。"
+    },
+    {
+      "id": 209,
+      "start": 545.21,
+      "end": 545.81,
+      "en": "Yeah, whatever.",
+      "zh": "行，随你便。"
+    },
+    {
+      "id": 210,
+      "start": 546.39,
+      "end": 548.77,
+      "en": "I told you we should buy that GPS that was on sale.",
+      "zh": "我早说过，应该买下那台打折的 GPS 导航仪。"
+    },
+    {
+      "id": 211,
+      "start": 549.27,
+      "end": 550.09,
+      "en": "But would you listen to me?",
+      "zh": "但是你会听我的吗？"
+    },
+    {
+      "id": 212,
+      "start": 550.33,
+      "end": 552.03,
+      "en": "No, this is so typical.",
+      "zh": "不，这很典型。"
+    },
+    {
+      "id": 213,
+      "start": 552.51,
+      "end": 552.85,
+      "en": "Fine.",
+      "zh": "行吧。"
+    },
+    {
+      "id": 214,
+      "start": 553.61,
+      "end": 556.43,
+      "en": "I'll ask this guy for directions if it will shut your trap.",
+      "zh": "只要能让你闭嘴，我就去找那个人问路。"
+    },
+    {
+      "id": 215,
+      "start": 557.27,
+      "end": 558.01,
+      "en": "Excuse me, sir.",
+      "zh": "打扰一下，先生。"
+    },
+    {
+      "id": 216,
+      "start": 558.27,
+      "end": 560.69,
+      "en": "Can you tell me how to get to St. Mary's Church?",
+      "zh": "你能告诉我如何去圣玛丽教堂吗？"
+    },
+    {
+      "id": 217,
+      "start": 561.48,
+      "end": 562.04,
+      "en": "Sure.",
+      "zh": "当然。"
+    },
+    {
+      "id": 218,
+      "start": 562.52,
+      "end": 570.08,
+      "en": "Go down Park Road, turn left, go up as far as the set of traffic lights and turn left.",
+      "zh": "沿着公园路走，左转，向上走到一组红绿灯，然后左转。"
+    },
+    {
+      "id": 219,
+      "start": 570.66,
+      "end": 573.72,
+      "en": "The place you're looking for is the second building on the right.",
+      "zh": "你要找的地方是右边的第二座建筑。"
+    },
+    {
+      "id": 220,
+      "start": 574.8,
+      "end": 575.8,
+      "en": "Thanks.",
+      "zh": "谢谢。"
+    },
+    {
+      "id": 221,
+      "start": 575.8,
+      "end": 577.08,
+      "en": "See, was that hard?",
+      "zh": "你看，这很难吗？"
+    },
+    {
+      "id": 222,
+      "start": 577.56,
+      "end": 580.1,
+      "en": "If you would only listen to me more often, you would be better off.",
+      "zh": "如果你只多听我的话，你会过得更好。"
+    },
+    {
+      "id": 223,
+      "start": 586.5,
+      "end": 586.84,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 224,
+      "start": 587.12,
+      "end": 591.88,
+      "en": "So the whole thing about men asking for directions, why do you think men don't like to ask for directions?",
+      "zh": "所以关于男人问路的整个事情，你认为男人为什么不喜欢问路？"
+    },
+    {
+      "id": 225,
+      "start": 592.6,
+      "end": 599.14,
+      "en": "Well, it depends on the person, but I think a lot of people don't like to admit that they don't know.",
+      "zh": "好吧，这取决于人，但我认为很多人不喜欢承认他们不知道。"
+    },
+    {
+      "id": 226,
+      "start": 600.28,
+      "end": 603.4,
+      "en": "Because if you ask for directions, it means I don't know where I'm going.",
+      "zh": "因为如果你问路，这意味着我不知道我要去哪里。"
+    },
+    {
+      "id": 227,
+      "start": 603.4,
+      "end": 604.22,
+      "en": "I need help.",
+      "zh": "我需要帮助。"
+    },
+    {
+      "id": 228,
+      "start": 605.12,
+      "end": 605.94,
+      "en": "So this is one problem.",
+      "zh": "所以这是一个问题。"
+    },
+    {
+      "id": 229,
+      "start": 606.14,
+      "end": 608.4,
+      "en": "The other problem is sometimes directions are bad.",
+      "zh": "另一个问题是有时方向是不好的。"
+    },
+    {
+      "id": 230,
+      "start": 610.17,
+      "end": 611.05,
+      "en": "I think so too.",
+      "zh": "我也是这么想的。"
+    },
+    {
+      "id": 231,
+      "start": 611.84,
+      "end": 617.76,
+      "en": "Sometimes when you receive an invitation or instructions on how to get to someone's house, they're very ambiguous.",
+      "zh": "有时，当您收到有关如何前往某人家的邀请或说明时，他们非常模棱两可。"
+    },
+    {
+      "id": 232,
+      "start": 618.17,
+      "end": 622.93,
+      "en": "They're like, you know, you pass the dog that's sitting at the corner and you're like, there's no dog.",
+      "zh": "他们就像，你知道，你经过坐在角落里的狗，你就像，没有狗。"
+    },
+    {
+      "id": 233,
+      "start": 623.52,
+      "end": 624.52,
+      "en": "What?",
+      "zh": "什么？"
+    },
+    {
+      "id": 234,
+      "start": 624.52,
+      "end": 625.52,
+      "en": "How?",
+      "zh": "怎么说？"
+    },
+    {
+      "id": 235,
+      "start": 625.52,
+      "end": 626.52,
+      "en": "Yeah, I know.",
+      "zh": "对，我知道。"
+    },
+    {
+      "id": 236,
+      "start": 626.52,
+      "end": 636.96,
+      "en": "I know someone who lives in Costa Rica and her address is go down the main street, take the second left after the post office and after that, take the right after the general store and 400 paces is the house.",
+      "zh": "我知道住在哥斯达黎加的人，她的地址是沿着主要街道，在邮局之后的第二个左边，之后，走在杂货店后的右边，400步是房子。"
+    },
+    {
+      "id": 237,
+      "start": 636.96,
+      "end": 637.63,
+      "en": "So there's no address.",
+      "zh": "所以没有地址。"
+    },
+    {
+      "id": 238,
+      "start": 637.96,
+      "end": 638.45,
+      "en": "There's no address.",
+      "zh": "没有地址。"
+    },
+    {
+      "id": 239,
+      "start": 638.96,
+      "end": 643.64,
+      "en": "It's, you know, so these instructions can be very confusing, very vague, like you said.",
+      "zh": "是的，你知道的，所以这些说明可能非常混乱，非常模糊，就像你说的那样。"
+    },
+    {
+      "id": 240,
+      "start": 643.64,
+      "end": 646.51,
+      "en": "So I think there's a couple of different problems potentially.",
+      "zh": "所以我认为可能存在几个不同的问题。"
+    },
+    {
+      "id": 241,
+      "start": 646.69,
+      "end": 655.68,
+      "en": "I also heard a joke the other day about a kid asked his mom, he said, Hey, why was Moses leading everyone through the desert for 40 years?",
+      "zh": "前几天我还听到一个关于一个孩子问他妈妈的笑话，他说，嘿，为什么摩西要带领大家穿越沙漠 40 年？"
+    },
+    {
+      "id": 242,
+      "start": 656.92,
+      "end": 658.98,
+      "en": "And she's like, because he refused to ask for directions.",
+      "zh": "她喜欢，因为他拒绝询问方向。"
+    },
+    {
+      "id": 243,
+      "start": 659.48,
+      "end": 659.68,
+      "en": "Funny.",
+      "zh": "好笑。"
+    },
+    {
+      "id": 244,
+      "start": 660.24,
+      "end": 661.24,
+      "en": "I like that.",
+      "zh": "我喜欢那个。"
+    },
+    {
+      "id": 245,
+      "start": 661.24,
+      "end": 662.5,
+      "en": "I was going to say why, because he's going in circles.",
+      "zh": "我想说为什么，因为他在转圈。"
+    },
+    {
+      "id": 246,
+      "start": 663.58,
+      "end": 664.12,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 247,
+      "start": 664.26,
+      "end": 673.06,
+      "en": "So if you have any questions about today's lessons or comments, maybe you can tell us, do you like to ask for directions or do you like to figure things out alone?",
+      "zh": "因此，如果您对今天的课程或评论有任何疑问，也许您可以告诉我们，您喜欢询问方向还是喜欢独自解决问题？"
+    },
+    {
+      "id": 248,
+      "start": 673.76,
+      "end": 675.08,
+      "en": "Let us know on our website, EnglishPod.com.",
+      "zh": "请到我们的网站 EnglishPod.com 告诉我们。"
+    },
+    {
+      "id": 249,
+      "start": 675.42,
+      "end": 675.58,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 250,
+      "start": 675.72,
+      "end": 676.24,
+      "en": "We'll see you guys there.",
+      "zh": "到时候在那里见。"
+    },
+    {
+      "id": 251,
+      "start": 677.08,
+      "end": 685.14,
+      "en": "Take care.",
+      "zh": "保重。"
+    }
+  ],
+  "dialog": {
+    "start": 49.92,
+    "end": 93.1,
+    "segmentIds": [
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31
+    ]
+  }
+}

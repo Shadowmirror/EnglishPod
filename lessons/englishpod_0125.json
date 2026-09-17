@@ -1,0 +1,2110 @@
+{
+  "version": 1,
+  "id": 125,
+  "number": "0125",
+  "title": "Daily Life - No Smoking!",
+  "audio": "mp3/125. Daily Life - No Smoking!.mp3",
+  "duration": 926.1191875,
+  "segments": [
+    {
+      "id": 1,
+      "start": 2.48,
+      "end": 3.34,
+      "en": "Hello, everyone.",
+      "zh": "大家好。"
+    },
+    {
+      "id": 2,
+      "start": 3.84,
+      "end": 6.18,
+      "en": "Welcome to another lesson at EnglishPod.",
+      "zh": "欢迎来到 Englishpod 的另一节课。"
+    },
+    {
+      "id": 3,
+      "start": 6.34,
+      "end": 6.82,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 4,
+      "start": 7.4,
+      "end": 8.4,
+      "en": "Katerina My name is Katerin.",
+      "zh": "卡特琳娜 我的名字是卡特琳。"
+    },
+    {
+      "id": 5,
+      "start": 8.48,
+      "end": 10.3,
+      "en": "So, Marco, what are we talking about today?",
+      "zh": "那么，马可，我们今天在说什么？"
+    },
+    {
+      "id": 6,
+      "start": 10.44,
+      "end": 16.16,
+      "en": "Marco Today, we're going to be talking about a popular topic all over the world and that is smoking.",
+      "zh": "Marco 今天，我们将谈论一个在世界各地流行的话题，那就是吸烟。"
+    },
+    {
+      "id": 7,
+      "start": 16.16,
+      "end": 19.36,
+      "en": "Katerina Well, not so popular in the States right now, to be honest.",
+      "zh": "卡特琳娜 好吧，老实说，现在在美国不那么受欢迎。"
+    },
+    {
+      "id": 8,
+      "start": 19.36,
+      "end": 20.36,
+      "en": "Marco Well, that's the thing.",
+      "zh": "马可 嗯，就是这样。"
+    },
+    {
+      "id": 9,
+      "start": 20.36,
+      "end": 25.74,
+      "en": "In every country in the world now, they are becoming more strict on smoking and where you can smoke.",
+      "zh": "现在在世界上的每个国家，他们对吸烟和吸烟的地方都变得越来越严格。"
+    },
+    {
+      "id": 10,
+      "start": 26.16,
+      "end": 28.4,
+      "en": "So, it's becoming very difficult for smokers nowadays.",
+      "zh": "所以，现在吸烟者变得非常困难。"
+    },
+    {
+      "id": 11,
+      "start": 28.68,
+      "end": 31.16,
+      "en": "Katerina Well, it's a good reason to want to quit.",
+      "zh": "卡特琳娜 好吧，这是一个想退出的好理由。"
+    },
+    {
+      "id": 12,
+      "start": 31.16,
+      "end": 34.96,
+      "en": "Marco And that's what we're going to be talking about today is quitting smoking.",
+      "zh": "Marco 和这就是我们今天要谈论的是戒烟。"
+    },
+    {
+      "id": 13,
+      "start": 34.96,
+      "end": 42.48,
+      "en": "Katerina Well, before we get going, we do have a really important phrase that we should preview in today's vocabulary preview.",
+      "zh": "Katerina 好吧，在我们开始之前，我们确实有一个非常重要的短语，我们应该在今天的词汇预览中预览。"
+    },
+    {
+      "id": 14,
+      "start": 42.48,
+      "end": 48.96,
+      "en": "Vocabulary Preview Marco Alright, so on vocabulary preview, we're going to take a look at this word pack of smokes.",
+      "zh": "词汇预览 Marco 好吧，所以在词汇预览中，我们将看看这个词组烟雾。"
+    },
+    {
+      "id": 15,
+      "start": 48.96,
+      "end": 50.64,
+      "en": "Katerina Pack of smokes.",
+      "zh": "卡特琳娜烟雾包。"
+    },
+    {
+      "id": 16,
+      "start": 50.9,
+      "end": 52.2,
+      "en": "So, Marco A pack of smokes.",
+      "zh": "所以，马可一包烟。"
+    },
+    {
+      "id": 17,
+      "start": 52.48,
+      "end": 55.56,
+      "en": "Katerina So, smokes is a word for cigarettes.",
+      "zh": "Katerina 所以，Smokes 是香烟的一个词。"
+    },
+    {
+      "id": 18,
+      "start": 55.56,
+      "end": 57.46,
+      "en": "It's the same thing, smokes or cigarettes.",
+      "zh": "同样的事情，吸烟或香烟。"
+    },
+    {
+      "id": 19,
+      "start": 57.68,
+      "end": 61.12,
+      "en": "Marco Right, but a pack is, you know, like 20 cigarettes.",
+      "zh": "Marco 对，但一包，你知道，就像 20 支香烟。"
+    },
+    {
+      "id": 20,
+      "start": 61.12,
+      "end": 62.92,
+      "en": "Katerina It's a box of cigarettes.",
+      "zh": "卡特琳娜这是一盒香烟。"
+    },
+    {
+      "id": 21,
+      "start": 62.92,
+      "end": 63.98,
+      "en": "You buy them in a pack.",
+      "zh": "你在一包中购买它们。"
+    },
+    {
+      "id": 22,
+      "start": 64.24,
+      "end": 65.62,
+      "en": "You don't just buy one at a time.",
+      "zh": "你不只是一次买一个。"
+    },
+    {
+      "id": 23,
+      "start": 65.82,
+      "end": 68.32,
+      "en": "So, again, the phrase is pack of smokes.",
+      "zh": "所以，再一次，这句话是一堆烟雾。"
+    },
+    {
+      "id": 24,
+      "start": 68.4,
+      "end": 69.64,
+      "en": "Marco Pack of smokes.",
+      "zh": "马可烟包。"
+    },
+    {
+      "id": 25,
+      "start": 69.96,
+      "end": 75.16,
+      "en": "So, why don't we listen to our dialogue for the first time and see what's going on with this smoker.",
+      "zh": "所以，我们为什么不第一次听我们的对话，看看这个吸烟者发生了什么。"
+    },
+    {
+      "id": 26,
+      "start": 75.16,
+      "end": 88.04,
+      "en": "Smoker Ah, it smells like an ashtray in here.",
+      "zh": "吸烟者：啊，这里闻起来像烟灰缸一样。"
+    },
+    {
+      "id": 27,
+      "start": 88.04,
+      "end": 91.2,
+      "en": "Smoker Hi, honey.",
+      "zh": "吸烟者：嗨，亲爱的。"
+    },
+    {
+      "id": 28,
+      "start": 91.2,
+      "end": 91.45,
+      "en": "What's wrong?",
+      "zh": "怎么了？"
+    },
+    {
+      "id": 29,
+      "start": 92.2,
+      "end": 93.29,
+      "en": "Why do you have that look on your face?",
+      "zh": "为什么你的脸上会有这种表情？"
+    },
+    {
+      "id": 30,
+      "start": 93.44,
+      "end": 94.44,
+      "en": "Smoker What's wrong?",
+      "zh": "吸烟者：怎么了？"
+    },
+    {
+      "id": 31,
+      "start": 94.83,
+      "end": 96.47,
+      "en": "I thought we agreed you were going to quit smoking.",
+      "zh": "我以为我们同意你要戒烟了。"
+    },
+    {
+      "id": 32,
+      "start": 96.72,
+      "end": 98.04,
+      "en": "Smoker No.",
+      "zh": "吸烟者：不是。"
+    },
+    {
+      "id": 33,
+      "start": 98.04,
+      "end": 100.37,
+      "en": "I said I was going to cut down, which is very different.",
+      "zh": "我说的是少抽一点，这可完全是两回事。"
+    },
+    {
+      "id": 34,
+      "start": 101.16,
+      "end": 103.31,
+      "en": "You can't just expect me to go cold turkey overnight.",
+      "zh": "你不能指望我一夜之间就彻底戒烟。"
+    },
+    {
+      "id": 35,
+      "start": 103.68,
+      "end": 106.28,
+      "en": "Katerina Look, there are other ways to quit.",
+      "zh": "卡特琳娜：听着，戒烟还有别的方法。"
+    },
+    {
+      "id": 36,
+      "start": 106.28,
+      "end": 109.01,
+      "en": "You can try the nicotine patch or nicotine chewing gum.",
+      "zh": "您可以尝试尼古丁贴片或尼古丁口香糖。"
+    },
+    {
+      "id": 37,
+      "start": 109.76,
+      "end": 115.71,
+      "en": "We spend a fortune on cigarettes every month, and now laws are cracking down and not allowing smoking in any public place.",
+      "zh": "我们每个月都在香烟上花一大笔钱，现在法律正在打击，不允许在任何公共场所吸烟。"
+    },
+    {
+      "id": 38,
+      "start": 116.56,
+      "end": 118.39,
+      "en": "It's not like you can just light up like before.",
+      "zh": "现在可不能像以前那样随便点烟了。"
+    },
+    {
+      "id": 39,
+      "start": 118.52,
+      "end": 120.4,
+      "en": "Smoker I know, I know.",
+      "zh": "吸烟者我知道，我知道。"
+    },
+    {
+      "id": 40,
+      "start": 120.4,
+      "end": 123.97,
+      "en": "I really am trying, but I don't have the willpower to just quit.",
+      "zh": "我真的在努力，但我没有足够的意志力一下子戒掉。"
+    },
+    {
+      "id": 41,
+      "start": 124.61,
+      "end": 128.65,
+      "en": "I can't fight with the urge to reach for my pack of smokes in the morning with coffee or after lunch.",
+      "zh": "早上喝咖啡时或午饭后，我总忍不住想掏出烟来抽。"
+    },
+    {
+      "id": 42,
+      "start": 129.39,
+      "end": 129.79,
+      "en": "Please understand.",
+      "zh": "请理解。"
+    },
+    {
+      "id": 43,
+      "start": 130.48,
+      "end": 131.48,
+      "en": "Katerina Fine.",
+      "zh": "卡特琳娜：好吧。"
+    },
+    {
+      "id": 44,
+      "start": 131.48,
+      "end": 132.03,
+      "en": "I want a divorce.",
+      "zh": "我想离婚。"
+    },
+    {
+      "id": 45,
+      "start": 133.8,
+      "end": 143.16,
+      "en": "Katerina Sorry, I just smoked a pack of cigarettes.",
+      "zh": "卡特琳娜：抱歉，我刚抽了一包烟。"
+    },
+    {
+      "id": 46,
+      "start": 143.16,
+      "end": 145.92,
+      "en": "Smoker You do smoke, don't you?",
+      "zh": "吸烟者：你也抽烟，对吧？"
+    },
+    {
+      "id": 47,
+      "start": 145.92,
+      "end": 147.52,
+      "en": "Katerina Well, we'll talk about that later.",
+      "zh": "卡特琳娜：呃，这个以后再说。"
+    },
+    {
+      "id": 48,
+      "start": 147.52,
+      "end": 150.2,
+      "en": "Smoker Alright, so it is a little bit extreme, though.",
+      "zh": "吸烟者好吧，所以这有点极端。"
+    },
+    {
+      "id": 49,
+      "start": 150.2,
+      "end": 152.76,
+      "en": "I mean, he's divorcing her because she won't quit.",
+      "zh": "我的意思是，他和她离婚是因为她不会辞职。"
+    },
+    {
+      "id": 50,
+      "start": 152.76,
+      "end": 162.44,
+      "en": "Katerina Well, some people really are health conscious and are afraid of the negative side of smoking, which has a lot of health side effects.",
+      "zh": "Katerina 好吧，有些人真的很注重健康，害怕吸烟的负面影响，这有很多健康的副作用。"
+    },
+    {
+      "id": 51,
+      "start": 162.44,
+      "end": 163.44,
+      "en": "Smoker Yeah.",
+      "zh": "吸烟者是的。"
+    },
+    {
+      "id": 52,
+      "start": 163.44,
+      "end": 172.78,
+      "en": "Well, as he was complaining about all the negative effects and the negative aspects of smoking, he did mention, both of them mentioned a lot of great words and phrases.",
+      "zh": "好吧，当他抱怨吸烟的所有负面影响和负面影响时，他确实提到了，他们都提到了很多很棒的单词和短语。"
+    },
+    {
+      "id": 53,
+      "start": 173.16,
+      "end": 176.24,
+      "en": "So why don't we take a look at them now in Language Takeaway?",
+      "zh": "那么，我们现在为什么不在语言外卖中看看它们呢？"
+    },
+    {
+      "id": 54,
+      "start": 177.04,
+      "end": 179.2,
+      "en": "Katerina Language Takeaway.",
+      "zh": "卡特琳娜语言外卖。"
+    },
+    {
+      "id": 55,
+      "start": 179.69,
+      "end": 189.21,
+      "en": "Well, this first word is a word that's very important for any smoker who goes to a bar or restaurant and needs to put the ash somewhere, right?",
+      "zh": "好吧，第一个词对于任何去酒吧或餐厅并需要将灰烬放在某个地方的吸烟者来说非常重要，对吧？"
+    },
+    {
+      "id": 56,
+      "start": 189.41,
+      "end": 195.07,
+      "en": "So when you smoke, there's some ash, there's some messy, dirty stuff, and you need an ashtray to collect it.",
+      "zh": "所以当你吸烟时，有一些灰烬，有一些凌乱、肮脏的东西，你需要一个烟灰缸来收集它。"
+    },
+    {
+      "id": 57,
+      "start": 195.52,
+      "end": 196.52,
+      "en": "Smoker An ashtray.",
+      "zh": "吸烟者烟灰缸。"
+    },
+    {
+      "id": 58,
+      "start": 196.52,
+      "end": 203.76,
+      "en": "Katerina So an ashtray is something that's usually round or square and you put it on a table and it's just very helpful to keep the house clean or restaurant clean.",
+      "zh": "Katerina 所以烟灰缸通常是圆形或方形的，你把它放在桌子上，这对保持房子或餐厅的清洁非常有帮助。"
+    },
+    {
+      "id": 59,
+      "start": 203.76,
+      "end": 206.61,
+      "en": "So if you're in a restaurant, you say, hey, can I have an ashtray, please?",
+      "zh": "所以如果你在一家餐馆，你说，嘿，我可以要一个烟灰缸吗？"
+    },
+    {
+      "id": 60,
+      "start": 206.92,
+      "end": 215.08,
+      "en": "Smoker So the residue or the stuff that when you're smoking it comes out the gray, I don't know, like dust, it's called ash.",
+      "zh": "吸烟者所以残留物或东西，当你吸烟时它会变成灰色，我不知道，就像灰尘一样，它被称为灰烬。"
+    },
+    {
+      "id": 61,
+      "start": 215.08,
+      "end": 216.16,
+      "en": "Katerina Right.",
+      "zh": "Katerina，对。"
+    },
+    {
+      "id": 62,
+      "start": 216.16,
+      "end": 216.73,
+      "en": "And this is a tray.",
+      "zh": "这是一个托盘。"
+    },
+    {
+      "id": 63,
+      "start": 217.4,
+      "end": 223.14,
+      "en": "But the complaint here is, it smells like an ashtray in here.",
+      "zh": "但这里的抱怨是，它闻起来像一个烟灰缸。"
+    },
+    {
+      "id": 64,
+      "start": 223.36,
+      "end": 226.16,
+      "en": "That means it smells really, really bad in here.",
+      "zh": "这意味着它在这里闻起来非常非常糟糕。"
+    },
+    {
+      "id": 65,
+      "start": 226.16,
+      "end": 227.56,
+      "en": "Smoker Yeah, it smells like cigarettes.",
+      "zh": "吸烟者是的，它闻起来像香烟。"
+    },
+    {
+      "id": 66,
+      "start": 227.56,
+      "end": 228.56,
+      "en": "Katerina Yeah.",
+      "zh": "卡特琳娜 是的。"
+    },
+    {
+      "id": 67,
+      "start": 228.56,
+      "end": 230.08,
+      "en": "So that word again is ashtray.",
+      "zh": "所以这个词又是烟灰缸。"
+    },
+    {
+      "id": 68,
+      "start": 230.08,
+      "end": 231.08,
+      "en": "Smoker Ashtray.",
+      "zh": "吸烟烟灰缸。"
+    },
+    {
+      "id": 69,
+      "start": 231.3,
+      "end": 231.52,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 70,
+      "start": 232.08,
+      "end": 235.86,
+      "en": "Well, and the guy was complaining and he said, well, I thought you were going to quit smoking.",
+      "zh": "好吧，那家伙在抱怨，他说，好吧，我以为你要戒烟了。"
+    },
+    {
+      "id": 71,
+      "start": 235.88,
+      "end": 239.6,
+      "en": "And she said, no, no, I said I was going to cut down.",
+      "zh": "她说，不，不，我说我要减少。"
+    },
+    {
+      "id": 72,
+      "start": 241.28,
+      "end": 244.12,
+      "en": "Katerina She says it's very different from quitting smoking.",
+      "zh": "Katerina 她说这与戒烟非常不同。"
+    },
+    {
+      "id": 73,
+      "start": 244.12,
+      "end": 247.78,
+      "en": "So Marco, maybe we should talk about how cutting down and quitting are different.",
+      "zh": "所以马可，也许我们应该谈谈减少和退出有何不同。"
+    },
+    {
+      "id": 74,
+      "start": 247.92,
+      "end": 248.92,
+      "en": "Smoker All right.",
+      "zh": "吸烟者：好吧。"
+    },
+    {
+      "id": 75,
+      "start": 248.92,
+      "end": 252.88,
+      "en": "So if I say I'm going to cut down on smoking, it's just I'm going to smoke less.",
+      "zh": "所以如果我说我要减少吸烟，那只是我会减少吸烟。"
+    },
+    {
+      "id": 76,
+      "start": 252.88,
+      "end": 255.96,
+      "en": "Katerina Okay, so let's take an example.",
+      "zh": "Katerina 好的，让我们举个例子。"
+    },
+    {
+      "id": 77,
+      "start": 255.96,
+      "end": 259.6,
+      "en": "I smoke 10 cigarettes a day, but I want to cut down.",
+      "zh": "我每天抽 10 支烟，但我想减少。"
+    },
+    {
+      "id": 78,
+      "start": 259.6,
+      "end": 260.82,
+      "en": "How many should I smoke later?",
+      "zh": "以后应该抽多少烟？"
+    },
+    {
+      "id": 79,
+      "start": 261.16,
+      "end": 262.16,
+      "en": "Maybe?",
+      "zh": "也许？"
+    },
+    {
+      "id": 80,
+      "start": 262.16,
+      "end": 263.16,
+      "en": "Smoker Like two or three.",
+      "zh": "吸烟者像两个或三个。"
+    },
+    {
+      "id": 81,
+      "start": 263.16,
+      "end": 264.16,
+      "en": "Katerina Two or three.",
+      "zh": "卡特琳娜两三个。"
+    },
+    {
+      "id": 82,
+      "start": 264.16,
+      "end": 265.54,
+      "en": "Smoker Instead of quitting.",
+      "zh": "吸烟者而不是戒烟。"
+    },
+    {
+      "id": 83,
+      "start": 265.54,
+      "end": 267.8,
+      "en": "So if you quit smoking, that would mean zero.",
+      "zh": "所以如果你戒烟，那就意味着零。"
+    },
+    {
+      "id": 84,
+      "start": 267.8,
+      "end": 270.24,
+      "en": "Katerina Zero cigarettes, no smoking anymore.",
+      "zh": "Katerina 零香烟，不再吸烟。"
+    },
+    {
+      "id": 85,
+      "start": 270.24,
+      "end": 271.24,
+      "en": "Smoker Right.",
+      "zh": "吸烟者，对。"
+    },
+    {
+      "id": 86,
+      "start": 271.24,
+      "end": 272.24,
+      "en": "Katerina All right.",
+      "zh": "卡特琳娜 好吧。"
+    },
+    {
+      "id": 87,
+      "start": 272.24,
+      "end": 274.18,
+      "en": "So you can also cut down on carbs like carbohydrates.",
+      "zh": "因此，您还可以减少碳水化合物等碳水化合物。"
+    },
+    {
+      "id": 88,
+      "start": 274.92,
+      "end": 279.48,
+      "en": "So some people who cut down on carbs eat less bread.",
+      "zh": "所以一些减少碳水化合物的人少吃面包。"
+    },
+    {
+      "id": 89,
+      "start": 279.48,
+      "end": 280.52,
+      "en": "They don't eat any pasta.",
+      "zh": "他们不吃任何意大利面。"
+    },
+    {
+      "id": 90,
+      "start": 281.44,
+      "end": 285.46,
+      "en": "So these are really good ways of trying to talk about dieting as well as smoking.",
+      "zh": "所以这些是尝试谈论节食和吸烟的好方法。"
+    },
+    {
+      "id": 91,
+      "start": 285.88,
+      "end": 286.88,
+      "en": "Smoker Right.",
+      "zh": "吸烟者，对。"
+    },
+    {
+      "id": 92,
+      "start": 286.88,
+      "end": 291.01,
+      "en": "And I think we have a couple of examples of other ways we can use this phrase cut down.",
+      "zh": "而且我认为我们有一些可以使用这句话的其他方式的例子。"
+    },
+    {
+      "id": 93,
+      "start": 291.64,
+      "end": 292.99,
+      "en": "So let's listen to them now.",
+      "zh": "所以让我们现在听他们的。"
+    },
+    {
+      "id": 94,
+      "start": 294.6,
+      "end": 297.0,
+      "en": "Example 1.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 95,
+      "start": 297.0,
+      "end": 299.0,
+      "en": "Our company has decided to cut down our workload.",
+      "zh": "我们公司决定减少我们的工作量。"
+    },
+    {
+      "id": 96,
+      "start": 299.44,
+      "end": 302.26,
+      "en": "So from now on, we leave at 3pm every Friday.",
+      "zh": "所以从现在开始，我们每周五下午 3 点出发。"
+    },
+    {
+      "id": 97,
+      "start": 304.44,
+      "end": 307.12,
+      "en": "Example 2.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 98,
+      "start": 307.12,
+      "end": 309.64,
+      "en": "You should really cut down on the amount of salt you eat.",
+      "zh": "你真的应该减少你吃的盐量。"
+    },
+    {
+      "id": 99,
+      "start": 309.64,
+      "end": 310.43,
+      "en": "It's not good for you.",
+      "zh": "这对你不好。"
+    },
+    {
+      "id": 100,
+      "start": 313.08,
+      "end": 315.72,
+      "en": "Example 3.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 101,
+      "start": 315.72,
+      "end": 319.0,
+      "en": "My doctor told me I need to cut down on fatty foods because of my heart condition.",
+      "zh": "我的医生告诉我，由于我的心脏病，我需要减少脂肪食物。"
+    },
+    {
+      "id": 102,
+      "start": 320.36,
+      "end": 327.04,
+      "en": "Katerina And when you want to smoke a cigarette, you have to do something first with some fires.",
+      "zh": "卡特琳娜，当你想抽一支烟时，你必须先做一些火灾。"
+    },
+    {
+      "id": 103,
+      "start": 327.04,
+      "end": 328.52,
+      "en": "We call this lighting up.",
+      "zh": "我们称之为灯光。"
+    },
+    {
+      "id": 104,
+      "start": 328.52,
+      "end": 330.08,
+      "en": "Smoker To light up.",
+      "zh": "吸烟者点亮。"
+    },
+    {
+      "id": 105,
+      "start": 330.08,
+      "end": 333.72,
+      "en": "Katerina So lighting up, it doesn't mean turning on the light.",
+      "zh": "卡特琳娜照亮了，这并不意味着打开灯。"
+    },
+    {
+      "id": 106,
+      "start": 333.72,
+      "end": 337.56,
+      "en": "It actually means using a lighter or some fire to start your cigarette.",
+      "zh": "这实际上意味着使用打火机或一些火来启动您的香烟。"
+    },
+    {
+      "id": 107,
+      "start": 337.56,
+      "end": 338.56,
+      "en": "Smoker Right.",
+      "zh": "吸烟者，对。"
+    },
+    {
+      "id": 108,
+      "start": 338.56,
+      "end": 341.59,
+      "en": "So you want to light up with the lighter matches or some sort of fire.",
+      "zh": "所以你想用较轻的火柴或某种火来点亮。"
+    },
+    {
+      "id": 109,
+      "start": 341.76,
+      "end": 346.16,
+      "en": "Katerina The man says, the husband says, it's not like you can just light up like before.",
+      "zh": "卡特琳娜 男人说，丈夫说，你不能像以前那样点亮。"
+    },
+    {
+      "id": 110,
+      "start": 346.16,
+      "end": 349.19,
+      "en": "That means it's not like you can just smoke like before.",
+      "zh": "这意味着你不能像以前那样抽烟。"
+    },
+    {
+      "id": 111,
+      "start": 349.52,
+      "end": 352.21,
+      "en": "So in some cases, light up means to smoke a cigarette.",
+      "zh": "所以在某些情况下，点亮意味着吸烟。"
+    },
+    {
+      "id": 112,
+      "start": 352.6,
+      "end": 356.8,
+      "en": "We're in a movie theater and someone lights a cigarette and I say, oh, you can't light up in here.",
+      "zh": "我们在电影院，有人点燃一支烟，我说，哦，你不能在这里点亮。"
+    },
+    {
+      "id": 113,
+      "start": 357.36,
+      "end": 358.36,
+      "en": "Smoker Right.",
+      "zh": "吸烟者，对。"
+    },
+    {
+      "id": 114,
+      "start": 358.36,
+      "end": 359.36,
+      "en": "So you can't smoke in here.",
+      "zh": "所以你不能在这里吸烟。"
+    },
+    {
+      "id": 115,
+      "start": 359.36,
+      "end": 360.36,
+      "en": "Katerina You can't smoke in here.",
+      "zh": "卡特琳娜你不能在这里抽烟。"
+    },
+    {
+      "id": 116,
+      "start": 360.36,
+      "end": 361.86,
+      "en": "Smoker It's another way of saying smoking.",
+      "zh": "吸烟者这是另一种说法。"
+    },
+    {
+      "id": 117,
+      "start": 361.86,
+      "end": 362.02,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 118,
+      "start": 362.86,
+      "end": 366.24,
+      "en": "And she was explaining, you know, how difficult it is and she's trying to quit.",
+      "zh": "她在解释，你知道，这有多难，她正试图退出。"
+    },
+    {
+      "id": 119,
+      "start": 366.84,
+      "end": 369.9,
+      "en": "But she said, I don't have the willpower to just quit.",
+      "zh": "但她说，我没有放弃的意志力。"
+    },
+    {
+      "id": 120,
+      "start": 370.12,
+      "end": 371.4,
+      "en": "Katerina Ooh, willpower.",
+      "zh": "卡特琳娜哦，意志力。"
+    },
+    {
+      "id": 121,
+      "start": 371.4,
+      "end": 372.34,
+      "en": "So this is an important word.",
+      "zh": "所以这是一个重要的词。"
+    },
+    {
+      "id": 122,
+      "start": 372.64,
+      "end": 373.64,
+      "en": "Smoker Willpower.",
+      "zh": "吸烟者意志力。"
+    },
+    {
+      "id": 123,
+      "start": 373.64,
+      "end": 374.64,
+      "en": "Katerina Willpower.",
+      "zh": "卡特琳娜意志力。"
+    },
+    {
+      "id": 124,
+      "start": 374.64,
+      "end": 377.16,
+      "en": "You think of the main part of this word is will.",
+      "zh": "你认为这个词的主要部分是意志。"
+    },
+    {
+      "id": 125,
+      "start": 377.16,
+      "end": 378.9,
+      "en": "That means the desire to do something.",
+      "zh": "这意味着做某事的愿望。"
+    },
+    {
+      "id": 126,
+      "start": 379.16,
+      "end": 380.16,
+      "en": "You want to do something.",
+      "zh": "你想做点什么。"
+    },
+    {
+      "id": 127,
+      "start": 380.16,
+      "end": 383.24,
+      "en": "Smoker So if I have willpower, I have strong willpower.",
+      "zh": "吸烟者，所以如果我有意志力，我就有很强的意志力。"
+    },
+    {
+      "id": 128,
+      "start": 383.24,
+      "end": 383.62,
+      "en": "What am I saying?",
+      "zh": "我在说什么？"
+    },
+    {
+      "id": 129,
+      "start": 384.24,
+      "end": 387.84,
+      "en": "Katerina You're saying that you can make a decision and you can follow your decision.",
+      "zh": "Katerina 你是说你可以做出决定，你可以按照你的决定进行。"
+    },
+    {
+      "id": 130,
+      "start": 387.87,
+      "end": 390.83,
+      "en": "So I decide not to eat cake.",
+      "zh": "所以我决定不吃蛋糕。"
+    },
+    {
+      "id": 131,
+      "start": 391.45,
+      "end": 394.71,
+      "en": "I have very strong willpower, so I never eat cake.",
+      "zh": "我有很强的意志力，所以我从不吃蛋糕。"
+    },
+    {
+      "id": 132,
+      "start": 395.6,
+      "end": 402.24,
+      "en": "If I don't have strong willpower, maybe I sometimes secretly eat cake in the middle of the night from my refrigerator.",
+      "zh": "如果我没有强大的意志力，也许我有时会在半夜偷偷从冰箱里偷偷吃蛋糕。"
+    },
+    {
+      "id": 133,
+      "start": 402.24,
+      "end": 404.2,
+      "en": "Smoker So that happens, right?",
+      "zh": "吸烟者，这样会发生，对吧？"
+    },
+    {
+      "id": 134,
+      "start": 404.2,
+      "end": 406.21,
+      "en": "Sometimes you don't have strong enough willpower.",
+      "zh": "有时你没有足够强大的意志力。"
+    },
+    {
+      "id": 135,
+      "start": 406.56,
+      "end": 409.9,
+      "en": "So you kind of eat a little bit of cake when nobody's watching.",
+      "zh": "所以当没人看的时候，你有点吃蛋糕。"
+    },
+    {
+      "id": 136,
+      "start": 410.0,
+      "end": 411.0,
+      "en": "Katerina Exactly.",
+      "zh": "Katerina，没错。"
+    },
+    {
+      "id": 137,
+      "start": 411.0,
+      "end": 412.6,
+      "en": "And you can have willpower about lots of different things.",
+      "zh": "你可以对许多不同的事物拥有意志力。"
+    },
+    {
+      "id": 138,
+      "start": 412.6,
+      "end": 419.28,
+      "en": "So this is a great word again to use when you're talking about dieting or smoking or drinking.",
+      "zh": "因此，当您谈论节食、吸烟或饮酒时，这又是一个很好的词。"
+    },
+    {
+      "id": 139,
+      "start": 419.28,
+      "end": 420.28,
+      "en": "Smoker Any type of maybe temptation.",
+      "zh": "吸烟者 任何类型的可能诱惑。"
+    },
+    {
+      "id": 140,
+      "start": 420.28,
+      "end": 421.28,
+      "en": "Katerina Exactly.",
+      "zh": "Katerina，没错。"
+    },
+    {
+      "id": 141,
+      "start": 421.28,
+      "end": 422.28,
+      "en": "Smoker All right.",
+      "zh": "吸烟者：好吧。"
+    },
+    {
+      "id": 142,
+      "start": 422.36,
+      "end": 426.86,
+      "en": "And well, she said she had this urge to reach for her pack of smokes.",
+      "zh": "好吧，她说她有一种想要伸手去拿一包烟的冲动。"
+    },
+    {
+      "id": 143,
+      "start": 427.24,
+      "end": 429.2,
+      "en": "Katerina Ooh, urge is another good one.",
+      "zh": "Katerina 哦，冲动是另一个好人。"
+    },
+    {
+      "id": 144,
+      "start": 429.2,
+      "end": 435.66,
+      "en": "It's very similar to willpower, but an urge is kind of like a physical feeling that makes you want to do something.",
+      "zh": "它与意志力非常相似，但冲动有点像一种让你想做某事的身体感觉。"
+    },
+    {
+      "id": 145,
+      "start": 435.8,
+      "end": 437.76,
+      "en": "Smoker So you have like this strong desire.",
+      "zh": "吸烟者，所以你有这种强烈的欲望。"
+    },
+    {
+      "id": 146,
+      "start": 437.76,
+      "end": 441.12,
+      "en": "Katerina So I have the urge to go swimming today.",
+      "zh": "卡特琳娜，所以我今天有去游泳的冲动。"
+    },
+    {
+      "id": 147,
+      "start": 441.12,
+      "end": 442.92,
+      "en": "I don't know why, but I really want to.",
+      "zh": "我不知道为什么，但我真的很想。"
+    },
+    {
+      "id": 148,
+      "start": 442.92,
+      "end": 443.92,
+      "en": "Smoker All right.",
+      "zh": "吸烟者：好吧。"
+    },
+    {
+      "id": 149,
+      "start": 443.92,
+      "end": 444.08,
+      "en": "You have an urge.",
+      "zh": "你有一种冲动。"
+    },
+    {
+      "id": 150,
+      "start": 445.36,
+      "end": 446.36,
+      "en": "Interesting word.",
+      "zh": "有趣的词。"
+    },
+    {
+      "id": 151,
+      "start": 446.36,
+      "end": 448.88,
+      "en": "Katerina Pregnant women often have these kinds of things too.",
+      "zh": "卡特琳娜孕妇也经常有这些东西。"
+    },
+    {
+      "id": 152,
+      "start": 448.88,
+      "end": 449.14,
+      "en": "I have the urge to do something.",
+      "zh": "我有做某事的冲动。"
+    },
+    {
+      "id": 153,
+      "start": 449.88,
+      "end": 450.64,
+      "en": "We also call them cravings.",
+      "zh": "我们也称它们为渴望。"
+    },
+    {
+      "id": 154,
+      "start": 450.88,
+      "end": 453.52,
+      "en": "Smoker Oh, cravings or urge to do something.",
+      "zh": "吸烟者 哦，渴望或冲动做某事。"
+    },
+    {
+      "id": 155,
+      "start": 453.52,
+      "end": 454.52,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 156,
+      "start": 454.52,
+      "end": 455.52,
+      "en": "Interesting.",
+      "zh": "有意思。"
+    },
+    {
+      "id": 157,
+      "start": 455.52,
+      "end": 459.58,
+      "en": "So we've taken a look at these five great words, and I think we should listen to our dialogue again.",
+      "zh": "所以我们看了这五个好词，我想我们应该再听一次我们的对话。"
+    },
+    {
+      "id": 158,
+      "start": 460.0,
+      "end": 463.68,
+      "en": "We're going to slow it down just a little bit, and then we'll come back and talk some more.",
+      "zh": "我们会稍微放慢速度，然后我们会回来再谈谈。"
+    },
+    {
+      "id": 159,
+      "start": 464.56,
+      "end": 467.76,
+      "en": "OK, let's listen.",
+      "zh": "好吧，让我们听。"
+    },
+    {
+      "id": 160,
+      "start": 467.76,
+      "end": 473.6,
+      "en": "Katerina Ugh, it smells like an ashtray in here.",
+      "zh": "Katerina 呃，这里闻起来像烟灰缸。"
+    },
+    {
+      "id": 161,
+      "start": 473.6,
+      "end": 475.08,
+      "en": "Smoker Hi honey.",
+      "zh": "吸烟者嗨亲爱的。"
+    },
+    {
+      "id": 162,
+      "start": 475.27,
+      "end": 475.89,
+      "en": "What's wrong?",
+      "zh": "怎么了？"
+    },
+    {
+      "id": 163,
+      "start": 476.77,
+      "end": 478.41,
+      "en": "Why do you have that look on your face?",
+      "zh": "为什么你的脸上会有这种表情？"
+    },
+    {
+      "id": 164,
+      "start": 478.72,
+      "end": 480.92,
+      "en": "Katerina What's wrong?",
+      "zh": "卡特琳娜怎么了？"
+    },
+    {
+      "id": 165,
+      "start": 480.92,
+      "end": 483.51,
+      "en": "I thought we agreed that you were going to quit smoking.",
+      "zh": "我以为我们同意你要戒烟了。"
+    },
+    {
+      "id": 166,
+      "start": 483.92,
+      "end": 485.6,
+      "en": "Smoker No.",
+      "zh": "吸烟者号"
+    },
+    {
+      "id": 167,
+      "start": 485.6,
+      "end": 488.83,
+      "en": "I said I was going to cut down, which is very different.",
+      "zh": "我说的是少抽一点，这可完全是两回事。"
+    },
+    {
+      "id": 168,
+      "start": 489.8,
+      "end": 492.75,
+      "en": "You can't just expect me to go cold turkey overnight.",
+      "zh": "你不能指望我一夜之间就彻底戒烟。"
+    },
+    {
+      "id": 169,
+      "start": 493.2,
+      "end": 497.04,
+      "en": "Katerina Look, there are other ways to quit.",
+      "zh": "卡特琳娜：听着，戒烟还有别的方法。"
+    },
+    {
+      "id": 170,
+      "start": 497.04,
+      "end": 500.33,
+      "en": "You can try the nicotine patch or nicotine chewing gum.",
+      "zh": "您可以尝试尼古丁贴片或尼古丁口香糖。"
+    },
+    {
+      "id": 171,
+      "start": 501.44,
+      "end": 508.19,
+      "en": "We spend a fortune on cigarettes every month, and now laws are cracking down and not allowing smoking in any public place.",
+      "zh": "我们每个月都在香烟上花一大笔钱，现在法律正在打击，不允许在任何公共场所吸烟。"
+    },
+    {
+      "id": 172,
+      "start": 509.28,
+      "end": 511.62,
+      "en": "It's not like you can just light up like before.",
+      "zh": "现在可不能像以前那样随便点烟了。"
+    },
+    {
+      "id": 173,
+      "start": 511.8,
+      "end": 514.24,
+      "en": "Smoker I know, I know.",
+      "zh": "吸烟者我知道，我知道。"
+    },
+    {
+      "id": 174,
+      "start": 514.24,
+      "end": 518.42,
+      "en": "I really am trying, but I don't have the willpower to just quit.",
+      "zh": "我真的在努力，但我没有足够的意志力一下子戒掉。"
+    },
+    {
+      "id": 175,
+      "start": 519.32,
+      "end": 524.72,
+      "en": "I can't fight with the urge to reach for my pack of smokes in the morning with coffee or after lunch.",
+      "zh": "早上喝咖啡时或午饭后，我总忍不住想掏出烟来抽。"
+    },
+    {
+      "id": 176,
+      "start": 525.74,
+      "end": 526.18,
+      "en": "Please understand.",
+      "zh": "请理解。"
+    },
+    {
+      "id": 177,
+      "start": 526.96,
+      "end": 527.96,
+      "en": "Katerina Fine.",
+      "zh": "卡特琳娜很好。"
+    },
+    {
+      "id": 178,
+      "start": 528.0,
+      "end": 528.82,
+      "en": "I want a divorce.",
+      "zh": "我想离婚。"
+    },
+    {
+      "id": 179,
+      "start": 532.11,
+      "end": 532.93,
+      "en": "And we are back.",
+      "zh": "而我们又回来了。"
+    },
+    {
+      "id": 180,
+      "start": 533.15,
+      "end": 538.27,
+      "en": "So we have a great part of our show where we like to talk about some phrases that help you attain fluency.",
+      "zh": "因此，我们在节目中有很大一部分我们喜欢谈论一些有助于您流利的短语。"
+    },
+    {
+      "id": 181,
+      "start": 538.56,
+      "end": 541.28,
+      "en": "That means sounding like a native speaker of English.",
+      "zh": "这意味着听起来像以英语为母语的人。"
+    },
+    {
+      "id": 182,
+      "start": 541.28,
+      "end": 542.71,
+      "en": "And today's phrases are wonderful.",
+      "zh": "今天的短语很精彩。"
+    },
+    {
+      "id": 183,
+      "start": 542.84,
+      "end": 548.4,
+      "en": "Enrique Alright, so let's take a look at them now in Fluency Builder.",
+      "zh": "Enrique 好吧，让我们现在在 Flueny Builder 中看看它们。"
+    },
+    {
+      "id": 184,
+      "start": 548.4,
+      "end": 553.75,
+      "en": "Fluency Builder Enrique So on Fluency Builder today, let's take a look at two different phrases.",
+      "zh": "Fluency Builder Enrique 等等今天，让我们来看看两个不同的短语。"
+    },
+    {
+      "id": 185,
+      "start": 554.4,
+      "end": 555.41,
+      "en": "And let's start with the first one.",
+      "zh": "让我们从第一个开始。"
+    },
+    {
+      "id": 186,
+      "start": 556.0,
+      "end": 559.09,
+      "en": "She mentioned something about going cold turkey overnight.",
+      "zh": "她提到了一些关于在一夜之间去冷火鸡的事情。"
+    },
+    {
+      "id": 187,
+      "start": 559.52,
+      "end": 560.05,
+      "en": "What is that phrase?",
+      "zh": "这句话是什么？"
+    },
+    {
+      "id": 188,
+      "start": 560.52,
+      "end": 561.15,
+      "en": "Cold turkey?",
+      "zh": "冷火鸡？"
+    },
+    {
+      "id": 189,
+      "start": 561.52,
+      "end": 564.36,
+      "en": "Katerina Now this is a very strange phrase.",
+      "zh": "Katerina 现在这是一个非常奇怪的短语。"
+    },
+    {
+      "id": 190,
+      "start": 564.36,
+      "end": 566.88,
+      "en": "So first of all, why would a turkey be cold?",
+      "zh": "首先，为什么火鸡会冷？"
+    },
+    {
+      "id": 191,
+      "start": 566.88,
+      "end": 567.88,
+      "en": "They have lots of feathers.",
+      "zh": "他们有很多羽毛。"
+    },
+    {
+      "id": 192,
+      "start": 567.88,
+      "end": 570.44,
+      "en": "And second of all, what does it have to do with cigarettes?",
+      "zh": "其次，它与香烟有什么关系？"
+    },
+    {
+      "id": 193,
+      "start": 570.44,
+      "end": 571.44,
+      "en": "Enrique Right.",
+      "zh": "恩里克对。"
+    },
+    {
+      "id": 194,
+      "start": 571.44,
+      "end": 573.99,
+      "en": "So if I say I'm going cold turkey, what is that?",
+      "zh": "所以如果我说我要去冷火鸡，那是什么？"
+    },
+    {
+      "id": 195,
+      "start": 574.12,
+      "end": 576.14,
+      "en": "Katerina So just take this as a phrase.",
+      "zh": "Katerina 所以把它当作一个短语。"
+    },
+    {
+      "id": 196,
+      "start": 576.14,
+      "end": 579.91,
+      "en": "Don't think about the actual words because they won't make sense in this context.",
+      "zh": "不要考虑实际的单词，因为它们在这种情况下是没有意义的。"
+    },
+    {
+      "id": 197,
+      "start": 580.0,
+      "end": 584.96,
+      "en": "What we're talking about is quitting smoking entirely.",
+      "zh": "我们正在谈论的是完全戒烟。"
+    },
+    {
+      "id": 198,
+      "start": 584.96,
+      "end": 586.13,
+      "en": "You're not going to cut down.",
+      "zh": "你不会削减的。"
+    },
+    {
+      "id": 199,
+      "start": 586.2,
+      "end": 591.6,
+      "en": "It means today I'm not going to smoke at all and I'm never going to smoke again.",
+      "zh": "这意味着今天我根本不会吸烟，我再也不会吸烟了。"
+    },
+    {
+      "id": 200,
+      "start": 591.6,
+      "end": 593.96,
+      "en": "That means never ever will I smoke another cigarette.",
+      "zh": "这意味着我永远不会再抽一支烟。"
+    },
+    {
+      "id": 201,
+      "start": 593.96,
+      "end": 594.79,
+      "en": "So it's cold turkey.",
+      "zh": "所以这是冷火鸡。"
+    },
+    {
+      "id": 202,
+      "start": 594.96,
+      "end": 601.56,
+      "en": "Enrique So if I go cold turkey, it means I stop doing something immediately and suddenly and forever.",
+      "zh": "Enrique 所以如果我去冷火鸡，这意味着我会立即、突然、永远地停止做某事。"
+    },
+    {
+      "id": 203,
+      "start": 601.56,
+      "end": 602.56,
+      "en": "Katerina Entirely.",
+      "zh": "卡特琳娜完全。"
+    },
+    {
+      "id": 204,
+      "start": 602.56,
+      "end": 603.56,
+      "en": "Enrique Alright.",
+      "zh": "恩里克好吧。"
+    },
+    {
+      "id": 205,
+      "start": 603.56,
+      "end": 610.88,
+      "en": "Katerina You can use this phrase for different habits, different things that you do like drinking, for example, or cutting down on sugar.",
+      "zh": "Katerina 您可以将这句话用于不同的习惯、不同的事情，例如喝酒或减少糖分。"
+    },
+    {
+      "id": 206,
+      "start": 610.88,
+      "end": 612.56,
+      "en": "But generally we just say this about cigarettes.",
+      "zh": "但一般来说，我们只是说香烟。"
+    },
+    {
+      "id": 207,
+      "start": 612.56,
+      "end": 615.4,
+      "en": "Enrique So it's mostly related to smoking.",
+      "zh": "恩里克，所以它主要与吸烟有关。"
+    },
+    {
+      "id": 208,
+      "start": 615.4,
+      "end": 615.96,
+      "en": "Going cold turkey.",
+      "zh": "去冷火鸡。"
+    },
+    {
+      "id": 209,
+      "start": 616.4,
+      "end": 621.04,
+      "en": "Katerina Some people like to smoke less, like one cigarette a day or one cigarette a week.",
+      "zh": "Katerina 有些人喜欢少吸烟，比如一天一支烟或每周一支烟。"
+    },
+    {
+      "id": 210,
+      "start": 621.04,
+      "end": 623.52,
+      "en": "But going cold turkey is supposed to be the hardest.",
+      "zh": "但去冷火鸡应该是最难的。"
+    },
+    {
+      "id": 211,
+      "start": 623.84,
+      "end": 624.84,
+      "en": "Enrique Right.",
+      "zh": "恩里克对。"
+    },
+    {
+      "id": 212,
+      "start": 624.84,
+      "end": 625.84,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 213,
+      "start": 625.84,
+      "end": 626.84,
+      "en": "Going cold turkey.",
+      "zh": "去冷火鸡。"
+    },
+    {
+      "id": 214,
+      "start": 626.84,
+      "end": 627.84,
+      "en": "Alright.",
+      "zh": "好的。"
+    },
+    {
+      "id": 215,
+      "start": 627.84,
+      "end": 630.48,
+      "en": "And well, he was explaining the different negative aspects of smoking.",
+      "zh": "好吧，他正在解释吸烟的不同负面方面。"
+    },
+    {
+      "id": 216,
+      "start": 630.48,
+      "end": 634.08,
+      "en": "He said, well, you know, they spend a fortune on cigarettes every month.",
+      "zh": "他说，嗯，你知道，他们每个月都在香烟上花一大笔钱。"
+    },
+    {
+      "id": 217,
+      "start": 634.08,
+      "end": 637.02,
+      "en": "And he said, laws are cracking down.",
+      "zh": "他说，法律正在打击。"
+    },
+    {
+      "id": 218,
+      "start": 637.02,
+      "end": 640.8,
+      "en": "So if the laws are cracking down, what is he trying to say there?",
+      "zh": "那么，如果法律正在破裂，他想在那里说什么？"
+    },
+    {
+      "id": 219,
+      "start": 640.8,
+      "end": 647.52,
+      "en": "Katerina Well, this is actually a very interesting point because in America right now, it's very hard to smoke in public places.",
+      "zh": "Katerina 好吧，这实际上是一个非常有趣的点，因为在美国，在公共场所很难吸烟。"
+    },
+    {
+      "id": 220,
+      "start": 647.52,
+      "end": 652.37,
+      "en": "So this means that the government is trying to stop people from smoking.",
+      "zh": "所以这意味着政府正试图阻止人们吸烟。"
+    },
+    {
+      "id": 221,
+      "start": 652.63,
+      "end": 658.08,
+      "en": "So they say, no more smoking in public places, no more smoking in restaurants, no more smoking in bars.",
+      "zh": "所以他们说，在公共场所不再吸烟，不再在餐馆吸烟，不再在酒吧吸烟。"
+    },
+    {
+      "id": 222,
+      "start": 658.88,
+      "end": 660.68,
+      "en": "And so this means they're cracking down.",
+      "zh": "所以这意味着他们正在打击。"
+    },
+    {
+      "id": 223,
+      "start": 660.68,
+      "end": 662.68,
+      "en": "They're making it harder to do something.",
+      "zh": "他们让做某事变得更加困难。"
+    },
+    {
+      "id": 224,
+      "start": 662.68,
+      "end": 665.52,
+      "en": "Enrique So they are becoming more strict.",
+      "zh": "恩里克，所以他们变得越来越严格。"
+    },
+    {
+      "id": 225,
+      "start": 665.56,
+      "end": 670.14,
+      "en": "I think for this phrase, we should listen to a couple of more examples just to make sure we understand it.",
+      "zh": "我认为对于这句话，我们应该再听几个例子，以确保我们理解它。"
+    },
+    {
+      "id": 226,
+      "start": 670.96,
+      "end": 673.16,
+      "en": "Katerina Example one.",
+      "zh": "卡特琳娜示例一。"
+    },
+    {
+      "id": 227,
+      "start": 673.16,
+      "end": 677.76,
+      "en": "Enrique The police are cracking down on drunk driving in our city.",
+      "zh": "恩里克 警方正在打击我们城市的酒后驾车。"
+    },
+    {
+      "id": 228,
+      "start": 677.76,
+      "end": 680.4,
+      "en": "Katerina Example two.",
+      "zh": "卡特琳娜示例二。"
+    },
+    {
+      "id": 229,
+      "start": 680.4,
+      "end": 684.72,
+      "en": "Enrique Our school has really started to crack down on tardiness.",
+      "zh": "恩里克 我们学校真的开始打击迟到。"
+    },
+    {
+      "id": 230,
+      "start": 684.72,
+      "end": 687.72,
+      "en": "Katerina Example three.",
+      "zh": "卡特琳娜示例三。"
+    },
+    {
+      "id": 231,
+      "start": 687.72,
+      "end": 694.04,
+      "en": "Enrique The president has passed a law that will crack down possession of illegal substances.",
+      "zh": "恩里克 总统通过了一项法律，将禁止持有非法物质。"
+    },
+    {
+      "id": 232,
+      "start": 694.04,
+      "end": 698.28,
+      "en": "Enrique Alright, so the government is cracking down.",
+      "zh": "恩里克 好吧，所以政府正在打击。"
+    },
+    {
+      "id": 233,
+      "start": 698.28,
+      "end": 699.28,
+      "en": "Laws are cracking down.",
+      "zh": "法律正在破裂。"
+    },
+    {
+      "id": 234,
+      "start": 699.28,
+      "end": 700.6,
+      "en": "Katerina Yeah, exactly.",
+      "zh": "卡特琳娜 是的，没错。"
+    },
+    {
+      "id": 235,
+      "start": 700.61,
+      "end": 705.75,
+      "en": "So this is an important one because you read this in the newspapers as well about certain laws and police action.",
+      "zh": "所以这很重要，因为你在报纸上也读到过这篇关于某些法律和警察行动的文章。"
+    },
+    {
+      "id": 236,
+      "start": 705.96,
+      "end": 707.42,
+      "en": "Enrique Alright, great.",
+      "zh": "恩里克 好吧，太好了。"
+    },
+    {
+      "id": 237,
+      "start": 707.42,
+      "end": 714.17,
+      "en": "So I think it's time for us to listen to this dialogue for one last time and then we'll come back and talk a little bit more about this vice.",
+      "zh": "所以我认为是时候让我们最后一次听这个对话了，然后我们会回来多谈谈这个恶习。"
+    },
+    {
+      "id": 238,
+      "start": 717.84,
+      "end": 746.48,
+      "en": "Katerina Ah, it smells like an ashtray in here.",
+      "zh": "卡特琳娜啊，这里闻起来像烟灰缸。"
+    },
+    {
+      "id": 239,
+      "start": 746.48,
+      "end": 758.76,
+      "en": "Enrique I know, I know.",
+      "zh": "恩里克 我知道，我知道。"
+    },
+    {
+      "id": 240,
+      "start": 758.76,
+      "end": 762.32,
+      "en": "I really am trying but I don't have the willpower to just quit.",
+      "zh": "我真的在努力，但我没有放弃的意志力。"
+    },
+    {
+      "id": 241,
+      "start": 762.92,
+      "end": 767.0,
+      "en": "I can't fight with the urge to reach for my pack of smokes in the morning with coffee or after lunch.",
+      "zh": "早上喝咖啡时或午饭后，我总忍不住想掏出烟来抽。"
+    },
+    {
+      "id": 242,
+      "start": 767.66,
+      "end": 768.14,
+      "en": "Please understand.",
+      "zh": "请理解。"
+    },
+    {
+      "id": 243,
+      "start": 768.96,
+      "end": 776.92,
+      "en": "Katerina Fine, I want a divorce.",
+      "zh": "卡特琳娜 好吧，我想离婚。"
+    },
+    {
+      "id": 244,
+      "start": 776.92,
+      "end": 780.05,
+      "en": "So do you have a problem with this vice as you call it?",
+      "zh": "那么你所说的这种恶习有问题吗？"
+    },
+    {
+      "id": 245,
+      "start": 780.47,
+      "end": 781.37,
+      "en": "Are you a smoker?",
+      "zh": "你是吸烟者吗？"
+    },
+    {
+      "id": 246,
+      "start": 781.52,
+      "end": 782.96,
+      "en": "Enrique I'm really not.",
+      "zh": "恩里克我真的不是。"
+    },
+    {
+      "id": 247,
+      "start": 783.05,
+      "end": 791.35,
+      "en": "I'm the type of person that could maybe smoke socially like if we go out to a bar with drinks, a social smoker like they call it, right?",
+      "zh": "我是那种可能会在社交上吸烟的人，就像我们去酒吧喝酒一样，一个像他们所说的社交吸烟者，对吧？"
+    },
+    {
+      "id": 248,
+      "start": 791.76,
+      "end": 793.04,
+      "en": "Katerina Yeah, I'm jealous.",
+      "zh": "卡特琳娜 是的，我很嫉妒。"
+    },
+    {
+      "id": 249,
+      "start": 793.04,
+      "end": 794.04,
+      "en": "Enrique But not really.",
+      "zh": "恩里克，但不是真的。"
+    },
+    {
+      "id": 250,
+      "start": 794.11,
+      "end": 795.41,
+      "en": "You're a habitual smoker, right?",
+      "zh": "你是个习惯性吸烟者，对吧？"
+    },
+    {
+      "id": 251,
+      "start": 795.52,
+      "end": 796.52,
+      "en": "Katerina Right.",
+      "zh": "Katerina，对。"
+    },
+    {
+      "id": 252,
+      "start": 796.52,
+      "end": 797.52,
+      "en": "Well, I was.",
+      "zh": "嗯，我是。"
+    },
+    {
+      "id": 253,
+      "start": 797.52,
+      "end": 798.17,
+      "en": "I'm trying to cut down.",
+      "zh": "我正在努力减少。"
+    },
+    {
+      "id": 254,
+      "start": 798.52,
+      "end": 801.03,
+      "en": "So as a habitual smoker, I often smoked every day.",
+      "zh": "所以作为一个习惯性的吸烟者，我每天都经常吸烟。"
+    },
+    {
+      "id": 255,
+      "start": 802.08,
+      "end": 804.33,
+      "en": "Sometimes I smoked a lot and sometimes I smoked less.",
+      "zh": "有时我抽了很多烟，有时我抽的少。"
+    },
+    {
+      "id": 256,
+      "start": 804.72,
+      "end": 808.11,
+      "en": "But right now I'm in a period where I'm mostly quit.",
+      "zh": "但现在我正处于一个主要退出的时期。"
+    },
+    {
+      "id": 257,
+      "start": 808.28,
+      "end": 809.64,
+      "en": "Enrique Okay, almost.",
+      "zh": "恩里克 好吧，几乎。"
+    },
+    {
+      "id": 258,
+      "start": 809.64,
+      "end": 811.92,
+      "en": "Katerina Yeah, well, I haven't smoked in a while.",
+      "zh": "Katerina 是的，好吧，我有一段时间没抽烟了。"
+    },
+    {
+      "id": 259,
+      "start": 811.92,
+      "end": 813.44,
+      "en": "And when I do, it's just one cigarette.",
+      "zh": "当我这样做时，它只是一支烟。"
+    },
+    {
+      "id": 260,
+      "start": 813.44,
+      "end": 818.64,
+      "en": "Enrique Now, it is interesting because like we mentioned, laws are cracking down on where you can smoke.",
+      "zh": "Enrique 现在，这很有趣，因为就像我们提到的，法律正在打击你可以在哪里吸烟。"
+    },
+    {
+      "id": 261,
+      "start": 818.64,
+      "end": 822.08,
+      "en": "But also taxes and cigarettes are becoming much more expensive, right?",
+      "zh": "但税收和香烟也变得更加昂贵，对吧？"
+    },
+    {
+      "id": 262,
+      "start": 822.08,
+      "end": 824.44,
+      "en": "Katerina Absolutely, especially where I'm from in Chicago.",
+      "zh": "绝对是卡特琳娜，尤其是我来自芝加哥的地方。"
+    },
+    {
+      "id": 263,
+      "start": 824.44,
+      "end": 829.31,
+      "en": "It's easy to spend maybe 10 US dollars or 12 US dollars on one pack of cigarettes.",
+      "zh": "在一包香烟上花费大概 10 美元或 12 美元是很容易的。"
+    },
+    {
+      "id": 264,
+      "start": 829.4,
+      "end": 830.64,
+      "en": "Enrique On a pack of cigarettes.",
+      "zh": "一包香烟上的恩里克。"
+    },
+    {
+      "id": 265,
+      "start": 830.64,
+      "end": 831.19,
+      "en": "Imagine that.",
+      "zh": "想象一下。"
+    },
+    {
+      "id": 266,
+      "start": 831.64,
+      "end": 836.04,
+      "en": "So then you have people that can't help smoking one or two packs a day.",
+      "zh": "所以你有一些人每天都忍不住吸一两包。"
+    },
+    {
+      "id": 267,
+      "start": 836.04,
+      "end": 837.6,
+      "en": "So how much is that a month?",
+      "zh": "那么一个月多少钱？"
+    },
+    {
+      "id": 268,
+      "start": 837.6,
+      "end": 839.32,
+      "en": "It's just an amazing amount of money.",
+      "zh": "这只是一个惊人的金额。"
+    },
+    {
+      "id": 269,
+      "start": 839.32,
+      "end": 840.32,
+      "en": "Katerina Thousands of dollars.",
+      "zh": "卡特琳娜数千美元。"
+    },
+    {
+      "id": 270,
+      "start": 840.32,
+      "end": 844.19,
+      "en": "Well, and I have to say, though, a lot of my friends who used to smoke in America have quit.",
+      "zh": "不过，我不得不说，我的很多曾经在美国吸烟的朋友都戒烟了。"
+    },
+    {
+      "id": 271,
+      "start": 844.8,
+      "end": 845.97,
+      "en": "So this is maybe working.",
+      "zh": "所以这可能是有效的。"
+    },
+    {
+      "id": 272,
+      "start": 846.32,
+      "end": 849.44,
+      "en": "Enrique The whole thing of making cigarettes more expensive.",
+      "zh": "Enrique 让香烟更昂贵的整个事情。"
+    },
+    {
+      "id": 273,
+      "start": 849.44,
+      "end": 850.44,
+      "en": "Katerina Yeah, making them much more expensive.",
+      "zh": "Katerina 是的，使它们变得更加昂贵。"
+    },
+    {
+      "id": 274,
+      "start": 850.44,
+      "end": 860.52,
+      "en": "Enrique Now, another interesting thing, and what I was reading recently, is that you know those warnings that come on cigarette packs that say smoking kales, smoking causes cancer.",
+      "zh": "Enrique Now，另一个有趣的事情，而且我最近读到的是，你知道那些在香烟包上发出的警告，这些警告说吸食羽衣甘蓝、吸烟会导致癌症。"
+    },
+    {
+      "id": 275,
+      "start": 860.52,
+      "end": 867.28,
+      "en": "Actually a study has proven that it's not effective, that people don't mind it or even worry about the cautions on the cigarette packages.",
+      "zh": "实际上，一项研究证明它无效，人们不介意，甚至不担心香烟包装上的注意事项。"
+    },
+    {
+      "id": 276,
+      "start": 867.28,
+      "end": 873.0,
+      "en": "Katerina Well, as a smoker, I could say that, yeah, you generally, if you're going to smoke a cigarette, don't look at the label that much.",
+      "zh": "Katerina 好吧，作为一个吸烟者，我可以说，是的，你一般来说，如果你要抽烟，不要看太多标签。"
+    },
+    {
+      "id": 277,
+      "start": 873.0,
+      "end": 875.46,
+      "en": "You just, you know, you throw it in your bag and you forget about it.",
+      "zh": "你只是，你知道，你把它扔进你的包里，你就忘记了它。"
+    },
+    {
+      "id": 278,
+      "start": 875.48,
+      "end": 879.96,
+      "en": "Enrique But it's actually gotten to the point where people choose the cigarette pack based on the picture.",
+      "zh": "恩里克，但它实际上已经到了人们根据图片选择香烟包的地步。"
+    },
+    {
+      "id": 279,
+      "start": 879.96,
+      "end": 883.2,
+      "en": "So it's like, oh yeah, give me the one with the black lungs or give me that one.",
+      "zh": "所以就像，哦，是的，给我一个黑肺的，或者给我那个。"
+    },
+    {
+      "id": 280,
+      "start": 883.2,
+      "end": 884.2,
+      "en": "Katerina Oh, God.",
+      "zh": "卡特琳娜 哦，上帝。"
+    },
+    {
+      "id": 281,
+      "start": 884.2,
+      "end": 885.4,
+      "en": "Enrique Yeah, it's interesting.",
+      "zh": "恩里克 是的，这很有趣。"
+    },
+    {
+      "id": 282,
+      "start": 885.42,
+      "end": 886.92,
+      "en": "So it's not really working.",
+      "zh": "所以它真的不起作用。"
+    },
+    {
+      "id": 283,
+      "start": 887.08,
+      "end": 891.8,
+      "en": "I guess we're going to have to find other ways to make people more conscious about this vice.",
+      "zh": "我想我们将不得不找到其他方法来让人们对这个恶习更加有意识。"
+    },
+    {
+      "id": 284,
+      "start": 891.8,
+      "end": 892.8,
+      "en": "Katerina We should.",
+      "zh": "卡特琳娜 我们应该。"
+    },
+    {
+      "id": 285,
+      "start": 892.8,
+      "end": 895.12,
+      "en": "Enrique But come to our website at EnglishPod.com.",
+      "zh": "Enrique，但请访问我们的网站 englishpod.com。"
+    },
+    {
+      "id": 286,
+      "start": 895.12,
+      "end": 897.42,
+      "en": "Tell us what you think about this vice, smoking.",
+      "zh": "告诉我们你对这个恶习的看法，吸烟。"
+    },
+    {
+      "id": 287,
+      "start": 897.72,
+      "end": 898.72,
+      "en": "Is it good?",
+      "zh": "好吗？"
+    },
+    {
+      "id": 288,
+      "start": 898.72,
+      "end": 899.72,
+      "en": "Is it bad?",
+      "zh": "不好吗？"
+    },
+    {
+      "id": 289,
+      "start": 899.72,
+      "end": 901.24,
+      "en": "Are you a habitual smoker or just a social smoker?",
+      "zh": "您是习惯性吸烟者还是只是社交吸烟者？"
+    },
+    {
+      "id": 290,
+      "start": 901.24,
+      "end": 913.04,
+      "en": "Katerina Yeah, we also have lots of great stuff, tools for you on our website and expansion sentences and all that stuff that helps you continue your studies outside of, well, the car or your house.",
+      "zh": "Katerina 是的，我们在我们的网站和扩展句子上也有很多很棒的东西，工具和所有可以帮助你在汽车或你的房子之外继续学习的东西。"
+    },
+    {
+      "id": 291,
+      "start": 913.04,
+      "end": 913.54,
+      "en": "So check it out.",
+      "zh": "那么来看看。"
+    },
+    {
+      "id": 292,
+      "start": 914.04,
+      "end": 914.42,
+      "en": "Let us know what you think.",
+      "zh": "让我们知道您的想法。"
+    },
+    {
+      "id": 293,
+      "start": 915.2,
+      "end": 915.86,
+      "en": "And until next time.",
+      "zh": "那么，下次见。"
+    },
+    {
+      "id": 294,
+      "start": 916.2,
+      "end": 917.2,
+      "en": "Enrique All right, we'll see you there.",
+      "zh": "恩里克 好的，我们会在那里见到你。"
+    },
+    {
+      "id": 295,
+      "start": 917.2,
+      "end": 918.2,
+      "en": "Bye.",
+      "zh": "再见。"
+    },
+    {
+      "id": 296,
+      "start": 918.2,
+      "end": 926.119,
+      "en": "Bye.",
+      "zh": "再见。"
+    }
+  ],
+  "dialog": {
+    "start": 75.16,
+    "end": 147.52,
+    "segmentIds": [
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47
+    ]
+  }
+}

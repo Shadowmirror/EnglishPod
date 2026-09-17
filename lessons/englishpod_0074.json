@@ -1,0 +1,2658 @@
+{
+  "version": 1,
+  "id": 74,
+  "number": "0074",
+  "title": "Daily Life - What Am I Thinking!",
+  "audio": "mp3/74. Daily Life - What Am I Thinking!.mp3",
+  "duration": 858.7233125,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.64,
+      "en": "Hello English learners, welcome back to EnglishPod.",
+      "zh": "您好英语学习者，欢迎回到 EnglishPod。"
+    },
+    {
+      "id": 2,
+      "start": 4.64,
+      "end": 5.64,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 5.64,
+      "end": 6.07,
+      "en": "And I'm Erica.",
+      "zh": "我叫 Erica。"
+    },
+    {
+      "id": 4,
+      "start": 6.64,
+      "end": 10.89,
+      "en": "Today, we're bringing you an upper intermediate lesson and something that we all do.",
+      "zh": "今天，我们为您带来上级中级课程和我们所有人都在做的事情。"
+    },
+    {
+      "id": 5,
+      "start": 11.56,
+      "end": 12.95,
+      "en": "Right, talking to ourselves.",
+      "zh": "对，自言自语。"
+    },
+    {
+      "id": 6,
+      "start": 13.52,
+      "end": 14.47,
+      "en": "Talking to ourselves, right?",
+      "zh": "自言自语，对吧？"
+    },
+    {
+      "id": 7,
+      "start": 14.52,
+      "end": 15.52,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 8,
+      "start": 15.52,
+      "end": 16.15,
+      "en": "I think everyone does it.",
+      "zh": "我想每个人都这样做。"
+    },
+    {
+      "id": 9,
+      "start": 16.52,
+      "end": 18.48,
+      "en": "You think to yourself or you talk to yourself.",
+      "zh": "你对自己思考或自言自语。"
+    },
+    {
+      "id": 10,
+      "start": 18.48,
+      "end": 19.48,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 11,
+      "start": 19.48,
+      "end": 22.45,
+      "en": "And we're going to be doing that today, but we're going to be looking at some specific vocabulary.",
+      "zh": "我们今天将这样做，但我们将研究一些特定的词汇。"
+    },
+    {
+      "id": 12,
+      "start": 23.24,
+      "end": 24.07,
+      "en": "Erica, why don't you tell us about that?",
+      "zh": "埃里卡，你为什么不告诉我们这件事？"
+    },
+    {
+      "id": 13,
+      "start": 24.4,
+      "end": 34.05,
+      "en": "Well, unfortunately, we're going to be following a guy as he's in a really embarrassing situation and we're going to hear him call himself some bad names in his mind.",
+      "zh": "好吧，不幸的是，我们将跟随一个人，因为他处于一个非常尴尬的境地，我们将听到他在他的脑海中称自己一些坏名声。"
+    },
+    {
+      "id": 14,
+      "start": 34.45,
+      "end": 38.47,
+      "en": "So he's a little bit nervous and he thinks he is not very smart, right?",
+      "zh": "所以他有点紧张，他认为他不是很聪明，对吧？"
+    },
+    {
+      "id": 15,
+      "start": 38.73,
+      "end": 39.19,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 16,
+      "start": 39.61,
+      "end": 45.6,
+      "en": "Okay, so before we start with this dialogue, there are a couple of words that we should look at in vocabulary preview.",
+      "zh": "好的，在我们开始这个对话之前，我们应该在词汇预览中看到几个词。"
+    },
+    {
+      "id": 17,
+      "start": 46.96,
+      "end": 47.96,
+      "en": "Vocabulary preview.",
+      "zh": "词汇预习。"
+    },
+    {
+      "id": 18,
+      "start": 47.96,
+      "end": 50.84,
+      "en": "All right, we're going to hear both of these words in the dialogue.",
+      "zh": "好吧，我们将在对话中听到这两个词。"
+    },
+    {
+      "id": 19,
+      "start": 50.84,
+      "end": 53.04,
+      "en": "And the first one is famished.",
+      "zh": "第一个是饥饿的。"
+    },
+    {
+      "id": 20,
+      "start": 53.12,
+      "end": 53.64,
+      "en": "Famished.",
+      "zh": "饿极了。"
+    },
+    {
+      "id": 21,
+      "start": 54.04,
+      "end": 55.04,
+      "en": "Famished.",
+      "zh": "饿极了。"
+    },
+    {
+      "id": 22,
+      "start": 55.43,
+      "end": 57.75,
+      "en": "Okay, so famished is an adjective.",
+      "zh": "好吧，Famished 是一个形容词。"
+    },
+    {
+      "id": 23,
+      "start": 58.19,
+      "end": 60.67,
+      "en": "That's right, meaning very, very, very hungry.",
+      "zh": "没错，意思是非常、非常、非常饿。"
+    },
+    {
+      "id": 24,
+      "start": 60.85,
+      "end": 62.01,
+      "en": "Very, very hungry.",
+      "zh": "非常非常饿。"
+    },
+    {
+      "id": 25,
+      "start": 62.31,
+      "end": 64.53,
+      "en": "Okay, so just very hungry, very easy.",
+      "zh": "好吧，所以很饿，很容易。"
+    },
+    {
+      "id": 26,
+      "start": 64.79,
+      "end": 64.95,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 27,
+      "start": 65.55,
+      "end": 66.03,
+      "en": "Famished.",
+      "zh": "饿极了。"
+    },
+    {
+      "id": 28,
+      "start": 66.96,
+      "end": 67.96,
+      "en": "Now, what about our next one?",
+      "zh": "现在，我们的下一部呢？"
+    },
+    {
+      "id": 29,
+      "start": 67.96,
+      "end": 68.96,
+      "en": "Sexist.",
+      "zh": "有性别歧视的。"
+    },
+    {
+      "id": 30,
+      "start": 68.96,
+      "end": 69.15,
+      "en": "Sexist.",
+      "zh": "有性别歧视的。"
+    },
+    {
+      "id": 31,
+      "start": 69.96,
+      "end": 70.19,
+      "en": "Sexist.",
+      "zh": "有性别歧视的。"
+    },
+    {
+      "id": 32,
+      "start": 70.96,
+      "end": 73.07,
+      "en": "Another adjective to describe a person, right?",
+      "zh": "另一个形容一个人的形容词，对吧？"
+    },
+    {
+      "id": 33,
+      "start": 73.56,
+      "end": 74.56,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 34,
+      "start": 74.56,
+      "end": 74.87,
+      "en": "Or a thing, I guess.",
+      "zh": "或者一件事，我猜。"
+    },
+    {
+      "id": 35,
+      "start": 75.56,
+      "end": 76.56,
+      "en": "Like, yeah, an idea.",
+      "zh": "就像，是的，一个想法。"
+    },
+    {
+      "id": 36,
+      "start": 76.56,
+      "end": 79.2,
+      "en": "Okay, so a sexist person would be?",
+      "zh": "好吧，所以一个性别歧视的人会是吗？"
+    },
+    {
+      "id": 37,
+      "start": 79.2,
+      "end": 81.99,
+      "en": "Somebody who judges people by their sex.",
+      "zh": "以性别判断人的人。"
+    },
+    {
+      "id": 38,
+      "start": 82.36,
+      "end": 83.36,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 39,
+      "start": 83.36,
+      "end": 85.05,
+      "en": "So like all women are stupid, for example.",
+      "zh": "例如，就像所有的女人都是愚蠢的。"
+    },
+    {
+      "id": 40,
+      "start": 86.0,
+      "end": 86.89,
+      "en": "Which is not true, of course.",
+      "zh": "当然，这不是真的。"
+    },
+    {
+      "id": 41,
+      "start": 87.15,
+      "end": 87.99,
+      "en": "No, of course not.",
+      "zh": "不，当然不是。"
+    },
+    {
+      "id": 42,
+      "start": 88.0,
+      "end": 89.0,
+      "en": "No, of course not.",
+      "zh": "不，当然不是。"
+    },
+    {
+      "id": 43,
+      "start": 89.0,
+      "end": 90.0,
+      "en": "Right?",
+      "zh": "对吧？"
+    },
+    {
+      "id": 44,
+      "start": 90.0,
+      "end": 91.0,
+      "en": "So sexist works both ways.",
+      "zh": "所以性别歧视是双向的。"
+    },
+    {
+      "id": 45,
+      "start": 91.0,
+      "end": 92.0,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 46,
+      "start": 92.0,
+      "end": 93.68,
+      "en": "A woman can be sexist, a man could be sexist.",
+      "zh": "女人可以是性别歧视，男人可以是性别歧视。"
+    },
+    {
+      "id": 47,
+      "start": 93.68,
+      "end": 94.68,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 48,
+      "start": 94.68,
+      "end": 96.92,
+      "en": "Meaning the women thinks all men are stupid.",
+      "zh": "这意味着女人认为所有男人都是愚蠢的。"
+    },
+    {
+      "id": 49,
+      "start": 96.92,
+      "end": 97.59,
+      "en": "Which is also not true.",
+      "zh": "这也不是真的。"
+    },
+    {
+      "id": 50,
+      "start": 97.92,
+      "end": 98.92,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 51,
+      "start": 98.92,
+      "end": 99.53,
+      "en": "Let's just be clear about that.",
+      "zh": "让我们明确一点。"
+    },
+    {
+      "id": 52,
+      "start": 100.28,
+      "end": 100.75,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 53,
+      "start": 101.43,
+      "end": 108.29,
+      "en": "So now that we've taken a look at these two phrases, let's start with our dialogue and we'll be back to talk about all the great words.",
+      "zh": "所以现在我们看了这两个短语，让我们从对话开始，我们将回来谈论所有伟大的单词。"
+    },
+    {
+      "id": 54,
+      "start": 110.96,
+      "end": 118.12,
+      "en": "Miss, your salad.",
+      "zh": "小姐，您的沙拉。"
+    },
+    {
+      "id": 55,
+      "start": 118.12,
+      "end": 120.84,
+      "en": "Mmm.",
+      "zh": "嗯。"
+    },
+    {
+      "id": 56,
+      "start": 120.84,
+      "end": 121.84,
+      "en": "Looks good.",
+      "zh": "看起来不错。"
+    },
+    {
+      "id": 57,
+      "start": 121.84,
+      "end": 123.84,
+      "en": "I'm positively famished.",
+      "zh": "我都饿坏了。"
+    },
+    {
+      "id": 58,
+      "start": 123.84,
+      "end": 124.84,
+      "en": "And for you, sir.",
+      "zh": "先生，这是您的。"
+    },
+    {
+      "id": 59,
+      "start": 124.84,
+      "end": 127.84,
+      "en": "Thank you.",
+      "zh": "谢谢。"
+    },
+    {
+      "id": 60,
+      "start": 127.84,
+      "end": 130.84,
+      "en": "Enjoy.",
+      "zh": "请享用。"
+    },
+    {
+      "id": 61,
+      "start": 130.84,
+      "end": 135.84,
+      "en": "Thank you.",
+      "zh": "谢谢。"
+    },
+    {
+      "id": 62,
+      "start": 135.84,
+      "end": 136.84,
+      "en": "I can't believe she's on a date with me.",
+      "zh": "我不敢相信她和我约会。"
+    },
+    {
+      "id": 63,
+      "start": 136.84,
+      "end": 137.84,
+      "en": "I'm so lucky.",
+      "zh": "我真幸运。"
+    },
+    {
+      "id": 64,
+      "start": 137.84,
+      "end": 138.84,
+      "en": "I must be the luckiest guy in the world.",
+      "zh": "我一定是世界上最幸运的人。"
+    },
+    {
+      "id": 65,
+      "start": 138.84,
+      "end": 139.84,
+      "en": "I want to scream at the top of my lungs.",
+      "zh": "我想在我的肺顶部尖叫。"
+    },
+    {
+      "id": 66,
+      "start": 140.06,
+      "end": 141.84,
+      "en": "I'm the luckiest dude in the world.",
+      "zh": "我是世界上最幸运的人。"
+    },
+    {
+      "id": 67,
+      "start": 142.4,
+      "end": 142.84,
+      "en": "Oh, shut up.",
+      "zh": "哦，闭嘴。"
+    },
+    {
+      "id": 68,
+      "start": 142.84,
+      "end": 143.84,
+      "en": "Don't be such a dumbass.",
+      "zh": "别这么傻。"
+    },
+    {
+      "id": 69,
+      "start": 143.84,
+      "end": 144.84,
+      "en": "She's so hot.",
+      "zh": "她太热了。"
+    },
+    {
+      "id": 70,
+      "start": 144.84,
+      "end": 145.84,
+      "en": "Wait, I can't say that.",
+      "zh": "等等，我不能这么说。"
+    },
+    {
+      "id": 71,
+      "start": 145.84,
+      "end": 146.84,
+      "en": "That's sexist.",
+      "zh": "那是性别歧视。"
+    },
+    {
+      "id": 72,
+      "start": 146.84,
+      "end": 147.02,
+      "en": "She's so hot.",
+      "zh": "她太热了。"
+    },
+    {
+      "id": 73,
+      "start": 147.84,
+      "end": 148.84,
+      "en": "She's making me sexist.",
+      "zh": "她让我性别歧视。"
+    },
+    {
+      "id": 74,
+      "start": 148.84,
+      "end": 149.84,
+      "en": "Oh my God.",
+      "zh": "我的天哪。"
+    },
+    {
+      "id": 75,
+      "start": 149.84,
+      "end": 150.84,
+      "en": "I'm such a tool.",
+      "zh": "我就是这样的工具。"
+    },
+    {
+      "id": 76,
+      "start": 155.12,
+      "end": 155.92,
+      "en": "Okay, get it together.",
+      "zh": "好了，振作点。"
+    },
+    {
+      "id": 77,
+      "start": 157.29,
+      "end": 157.83,
+      "en": "She's eating salad.",
+      "zh": "她在吃沙拉。"
+    },
+    {
+      "id": 78,
+      "start": 158.77,
+      "end": 161.71,
+      "en": "Oh, right, I have a salad. Oh, crap!",
+      "zh": "哦，对了，我有沙拉。 哦，废话！"
+    },
+    {
+      "id": 79,
+      "start": 161.97,
+      "end": 162.65,
+      "en": "Which fork do I use?",
+      "zh": "我用哪个叉子？"
+    },
+    {
+      "id": 80,
+      "start": 163.27,
+      "end": 163.49,
+      "en": "Damn it!",
+      "zh": "该死！"
+    },
+    {
+      "id": 81,
+      "start": 164.19,
+      "end": 165.41,
+      "en": "She's going to think I'm a moron.",
+      "zh": "她会认为我是个白痴。"
+    },
+    {
+      "id": 82,
+      "start": 165.91,
+      "end": 167.17,
+      "en": "What the hell are all these forks for?",
+      "zh": "这些叉子到底都是干什么用的？"
+    },
+    {
+      "id": 83,
+      "start": 167.81,
+      "end": 168.89,
+      "en": "Which one did she use?",
+      "zh": "她刚才用的是哪把？"
+    },
+    {
+      "id": 84,
+      "start": 169.49,
+      "end": 183.33,
+      "en": "Okay, chill, be cool, be cool. Just take a fork. Eat your salad. Um... Mm? Sorry, you were saying?",
+      "zh": "好吧，冷静，冷静，冷静。 拿一个叉子就行。 吃你的沙拉。 嗯……嗯？ 对不起，你是说？"
+    },
+    {
+      "id": 85,
+      "start": 183.99,
+      "end": 185.07,
+      "en": "You're eating my salad.",
+      "zh": "你吃的是我的沙拉。"
+    },
+    {
+      "id": 86,
+      "start": 185.68,
+      "end": 187.66,
+      "en": "Oh, yes, it's delicious.",
+      "zh": "哦，是的，它很好吃。"
+    },
+    {
+      "id": 87,
+      "start": 202.81,
+      "end": 205.33,
+      "en": "Okay, embarrassing first date, huh?",
+      "zh": "好吧，第一次约会很尴尬，对吧？"
+    },
+    {
+      "id": 88,
+      "start": 205.76,
+      "end": 208.27,
+      "en": "Yeah, I mean I really do feel sorry for this guy.",
+      "zh": "是的，我的意思是我真的为这个人感到难过。"
+    },
+    {
+      "id": 89,
+      "start": 208.75,
+      "end": 209.73,
+      "en": "Well, it happens to us.",
+      "zh": "好吧，它发生在我们身上。"
+    },
+    {
+      "id": 90,
+      "start": 209.91,
+      "end": 213.75,
+      "en": "Sometimes we are in the company of a very beautiful girl and we just get really nervous.",
+      "zh": "有时我们和一个非常漂亮的女孩在一起，我们真的很紧张。"
+    },
+    {
+      "id": 91,
+      "start": 214.12,
+      "end": 218.2,
+      "en": "Alright, well, you know, psychologists call this negative self-talk.",
+      "zh": "好吧，好吧，你知道，心理学家称之为负面的自我对话。"
+    },
+    {
+      "id": 92,
+      "start": 219.33,
+      "end": 219.63,
+      "en": "Really?",
+      "zh": "真的吗？"
+    },
+    {
+      "id": 93,
+      "start": 219.87,
+      "end": 223.23,
+      "en": "Yeah, this sort of calling yourself names and talking negatively about yourself.",
+      "zh": "是的，这种称呼自己的名字并消极地谈论自己。"
+    },
+    {
+      "id": 94,
+      "start": 223.72,
+      "end": 227.6,
+      "en": "But actually you can use some of this language to talk negatively about others.",
+      "zh": "但实际上你可以使用这种语言中的一些来消极地谈论其他人。"
+    },
+    {
+      "id": 95,
+      "start": 227.99,
+      "end": 228.17,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 96,
+      "start": 228.77,
+      "end": 232.21,
+      "en": "So why don't we look now at this language in Language Takeaway.",
+      "zh": "那么我们为什么不现在在语言外卖中看看这种语言。"
+    },
+    {
+      "id": 97,
+      "start": 233.67,
+      "end": 235.13,
+      "en": "Language Takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 98,
+      "start": 235.82,
+      "end": 238.34,
+      "en": "So on Language Takeaway today we have five words.",
+      "zh": "所以今天的语言外卖我们有五个词。"
+    },
+    {
+      "id": 99,
+      "start": 238.6,
+      "end": 239.86,
+      "en": "Let's start with our first one.",
+      "zh": "让我们从我们的第一个开始。"
+    },
+    {
+      "id": 100,
+      "start": 240.44,
+      "end": 240.7,
+      "en": "Dumbass.",
+      "zh": "蠢货。"
+    },
+    {
+      "id": 101,
+      "start": 241.44,
+      "end": 241.78,
+      "en": "Dumbass.",
+      "zh": "蠢货。"
+    },
+    {
+      "id": 102,
+      "start": 242.44,
+      "end": 243.44,
+      "en": "Dumbass.",
+      "zh": "蠢货。"
+    },
+    {
+      "id": 103,
+      "start": 243.44,
+      "end": 246.44,
+      "en": "Okay, now this isn't a very polite word I would say.",
+      "zh": "好吧，现在这不是我会说的一个非常礼貌的词。"
+    },
+    {
+      "id": 104,
+      "start": 246.84,
+      "end": 247.42,
+      "en": "Definitely not polite.",
+      "zh": "绝对不客气。"
+    },
+    {
+      "id": 105,
+      "start": 248.12,
+      "end": 250.8,
+      "en": "Okay, but what is a dumbass?",
+      "zh": "好吧，但是什么是笨蛋？"
+    },
+    {
+      "id": 106,
+      "start": 251.28,
+      "end": 254.98,
+      "en": "Well, it's obviously a dumb, stupid idiot.",
+      "zh": "好吧，这显然是一个愚蠢的、愚蠢的白痴。"
+    },
+    {
+      "id": 107,
+      "start": 255.96,
+      "end": 259.48,
+      "en": "Okay, so it's a person that is not very intelligent.",
+      "zh": "好吧，这是一个不是很聪明的人。"
+    },
+    {
+      "id": 108,
+      "start": 259.98,
+      "end": 262.1,
+      "en": "And our next word is also quite similar.",
+      "zh": "我们的下一个词也很相似。"
+    },
+    {
+      "id": 109,
+      "start": 263.29,
+      "end": 263.89,
+      "en": "Moron.",
+      "zh": "白痴。"
+    },
+    {
+      "id": 110,
+      "start": 264.25,
+      "end": 264.85,
+      "en": "Moron.",
+      "zh": "白痴。"
+    },
+    {
+      "id": 111,
+      "start": 265.31,
+      "end": 265.91,
+      "en": "Moron.",
+      "zh": "白痴。"
+    },
+    {
+      "id": 112,
+      "start": 266.0,
+      "end": 266.53,
+      "en": "A moron.",
+      "zh": "一个白痴。"
+    },
+    {
+      "id": 113,
+      "start": 267.0,
+      "end": 270.85,
+      "en": "If a person is a dumbass or a person is a moron, what's the difference?",
+      "zh": "如果一个人是个笨蛋或一个人是白痴，那有什么区别？"
+    },
+    {
+      "id": 114,
+      "start": 271.64,
+      "end": 278.12,
+      "en": "Well, basically a moron is someone who is not smart, who is very unintelligent.",
+      "zh": "好吧，基本上，白痴是不聪明的人，非常不聪明。"
+    },
+    {
+      "id": 115,
+      "start": 278.63,
+      "end": 278.87,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 116,
+      "start": 279.31,
+      "end": 281.25,
+      "en": "So they don't know what one plus one is.",
+      "zh": "所以他们不知道一加一是什么。"
+    },
+    {
+      "id": 117,
+      "start": 281.56,
+      "end": 282.56,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 118,
+      "start": 282.56,
+      "end": 283.56,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 119,
+      "start": 283.56,
+      "end": 285.68,
+      "en": "But a dumbass is a person who does stupid things.",
+      "zh": "但笨蛋是一个做愚蠢事情的人。"
+    },
+    {
+      "id": 120,
+      "start": 285.68,
+      "end": 285.91,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 121,
+      "start": 286.21,
+      "end": 290.17,
+      "en": "So maybe a dumbass like you're planning a bank robbery and the dumbass forgets to bring the gun.",
+      "zh": "所以也许像你计划抢劫银行一样的笨蛋，而笨蛋忘记带枪。"
+    },
+    {
+      "id": 122,
+      "start": 291.09,
+      "end": 291.49,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 123,
+      "start": 292.13,
+      "end": 292.88,
+      "en": "That is a dumbass.",
+      "zh": "那是个笨蛋。"
+    },
+    {
+      "id": 124,
+      "start": 292.88,
+      "end": 293.88,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 125,
+      "start": 293.88,
+      "end": 298.49,
+      "en": "So maybe moron is a little bit less offensive and it's actually you'll find it in the dictionary, right?",
+      "zh": "所以也许白痴有点不那么令人反感，实际上你会在字典中找到它，对吧？"
+    },
+    {
+      "id": 126,
+      "start": 299.16,
+      "end": 300.16,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 127,
+      "start": 300.16,
+      "end": 301.16,
+      "en": "Whereas a dumbass I don't think you'll find it.",
+      "zh": "而我不认为你会找到它。"
+    },
+    {
+      "id": 128,
+      "start": 301.16,
+      "end": 302.16,
+      "en": "Yeah, it's slang.",
+      "zh": "是的，这是俚语。"
+    },
+    {
+      "id": 129,
+      "start": 302.16,
+      "end": 303.16,
+      "en": "It's slang.",
+      "zh": "这是俚语。"
+    },
+    {
+      "id": 130,
+      "start": 303.16,
+      "end": 304.16,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 131,
+      "start": 304.16,
+      "end": 305.16,
+      "en": "Now what about this next?",
+      "zh": "现在这个怎么办？"
+    },
+    {
+      "id": 132,
+      "start": 305.16,
+      "end": 306.16,
+      "en": "It's also a negative name you can call people.",
+      "zh": "这也是一个负面的名字，你可以叫人。"
+    },
+    {
+      "id": 133,
+      "start": 306.16,
+      "end": 307.16,
+      "en": "A tool.",
+      "zh": "一个工具。"
+    },
+    {
+      "id": 134,
+      "start": 307.16,
+      "end": 308.16,
+      "en": "Tool.",
+      "zh": "工具。"
+    },
+    {
+      "id": 135,
+      "start": 308.32,
+      "end": 314.04,
+      "en": "This is very strange because I don't know how a tool can be something negative towards a person.",
+      "zh": "这很奇怪，因为我不知道一个工具怎么会对一个人产生负面影响。"
+    },
+    {
+      "id": 136,
+      "start": 314.26,
+      "end": 314.4,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 137,
+      "start": 314.8,
+      "end": 316.36,
+      "en": "But it actually means the opposite, right?",
+      "zh": "但这实际上意味着相反，对吧？"
+    },
+    {
+      "id": 138,
+      "start": 316.56,
+      "end": 320.32,
+      "en": "If a person is called a tool, it means they are useless, right?",
+      "zh": "如果一个人被称为工具，这意味着他们是无用的，对吧？"
+    },
+    {
+      "id": 139,
+      "start": 320.4,
+      "end": 320.56,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 140,
+      "start": 321.52,
+      "end": 324.36,
+      "en": "So if you ever call the tool, they're saying that you're useless.",
+      "zh": "所以如果你打电话给这个工具，他们就说你没用。"
+    },
+    {
+      "id": 141,
+      "start": 324.6,
+      "end": 325.6,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 142,
+      "start": 325.6,
+      "end": 326.6,
+      "en": "You're good for nothing.",
+      "zh": "你一无是处。"
+    },
+    {
+      "id": 143,
+      "start": 326.6,
+      "end": 327.6,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 144,
+      "start": 327.6,
+      "end": 328.6,
+      "en": "Well, these are three interesting words.",
+      "zh": "嗯，这是三个有趣的词。"
+    },
+    {
+      "id": 145,
+      "start": 328.6,
+      "end": 330.96,
+      "en": "So why don't we hear some examples of each of these words in use?",
+      "zh": "那么为什么我们没有听到使用中每个词的一些例子呢？"
+    },
+    {
+      "id": 146,
+      "start": 332.92,
+      "end": 333.92,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 147,
+      "start": 333.92,
+      "end": 334.92,
+      "en": "I hate Tom.",
+      "zh": "我讨厌汤姆。"
+    },
+    {
+      "id": 148,
+      "start": 336.44,
+      "end": 337.96,
+      "en": "He's such a dumbass.",
+      "zh": "他真是个笨蛋。"
+    },
+    {
+      "id": 149,
+      "start": 338.46,
+      "end": 341.82,
+      "en": "Last week he borrowed my mobile phone and dropped it in the pool.",
+      "zh": "上周他借了我的手机，把它扔进了游泳池。"
+    },
+    {
+      "id": 150,
+      "start": 345.0,
+      "end": 345.29,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 151,
+      "start": 346.0,
+      "end": 348.62,
+      "en": "I don't like Kevin very much.",
+      "zh": "我不太喜欢凯文。"
+    },
+    {
+      "id": 152,
+      "start": 348.84,
+      "end": 350.4,
+      "en": "He can be a real moron at times.",
+      "zh": "他有时可能是一个真正的白痴。"
+    },
+    {
+      "id": 153,
+      "start": 353.76,
+      "end": 354.19,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 154,
+      "start": 356.88,
+      "end": 360.06,
+      "en": "It was looking for a joke, but he didn't even have a resume prepared.",
+      "zh": "它在找笑话，但他甚至没有准备简历。"
+    },
+    {
+      "id": 155,
+      "start": 360.78,
+      "end": 361.64,
+      "en": "He's such a tool.",
+      "zh": "他就是这样的工具。"
+    },
+    {
+      "id": 156,
+      "start": 364.18,
+      "end": 369.74,
+      "en": "Okay, so great examples and here at EnglishPod, we're bringing you real street talk.",
+      "zh": "好的，很好的例子，在 Englishpod，我们为您带来真正的街头谈话。"
+    },
+    {
+      "id": 157,
+      "start": 370.12,
+      "end": 370.48,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 158,
+      "start": 371.32,
+      "end": 373.92,
+      "en": "Language as it is spoken by today's youth.",
+      "zh": "今天的年轻人说的语言。"
+    },
+    {
+      "id": 159,
+      "start": 373.92,
+      "end": 374.92,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 160,
+      "start": 374.92,
+      "end": 376.6,
+      "en": "Now let's take a look at our last two words.",
+      "zh": "现在让我们来看看我们最后两个字。"
+    },
+    {
+      "id": 161,
+      "start": 377.02,
+      "end": 377.2,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 162,
+      "start": 377.26,
+      "end": 382.18,
+      "en": "Well, these phrases you can use when you're trying to calm yourself down and make yourself relax a little bit, right?",
+      "zh": "好吧，当您试图让自己平静下来并让自己放松一点时，您可以使用这些短语，对吧？"
+    },
+    {
+      "id": 163,
+      "start": 382.44,
+      "end": 382.76,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 164,
+      "start": 383.0,
+      "end": 384.08,
+      "en": "Let's take a look at the next one.",
+      "zh": "让我们来看看下一篇。"
+    },
+    {
+      "id": 165,
+      "start": 384.46,
+      "end": 384.58,
+      "en": "Chill.",
+      "zh": "放松点。"
+    },
+    {
+      "id": 166,
+      "start": 385.64,
+      "end": 386.64,
+      "en": "Chill.",
+      "zh": "放松点。"
+    },
+    {
+      "id": 167,
+      "start": 386.64,
+      "end": 387.64,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 168,
+      "start": 387.64,
+      "end": 388.64,
+      "en": "Chill.",
+      "zh": "放松点。"
+    },
+    {
+      "id": 169,
+      "start": 388.64,
+      "end": 389.64,
+      "en": "Chill.",
+      "zh": "放松点。"
+    },
+    {
+      "id": 170,
+      "start": 389.64,
+      "end": 390.64,
+      "en": "So again, relax.",
+      "zh": "再说一遍，放松。"
+    },
+    {
+      "id": 171,
+      "start": 390.64,
+      "end": 390.76,
+      "en": "Calm down.",
+      "zh": "冷静点。"
+    },
+    {
+      "id": 172,
+      "start": 391.64,
+      "end": 392.64,
+      "en": "Calm down.",
+      "zh": "冷静点。"
+    },
+    {
+      "id": 173,
+      "start": 392.64,
+      "end": 393.64,
+      "en": "Relax.",
+      "zh": "放松点。"
+    },
+    {
+      "id": 174,
+      "start": 393.64,
+      "end": 394.64,
+      "en": "Chill.",
+      "zh": "放松点。"
+    },
+    {
+      "id": 175,
+      "start": 394.64,
+      "end": 395.64,
+      "en": "Chill.",
+      "zh": "放松点。"
+    },
+    {
+      "id": 176,
+      "start": 395.64,
+      "end": 396.64,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 177,
+      "start": 396.64,
+      "end": 397.64,
+      "en": "And then you also need to be cool.",
+      "zh": "然后你还需要很酷。"
+    },
+    {
+      "id": 178,
+      "start": 397.64,
+      "end": 398.15,
+      "en": "Be cool.",
+      "zh": "冷静点。"
+    },
+    {
+      "id": 179,
+      "start": 398.43,
+      "end": 398.83,
+      "en": "Be cool.",
+      "zh": "冷静点。"
+    },
+    {
+      "id": 180,
+      "start": 399.17,
+      "end": 401.79,
+      "en": "Now if you can tell the pattern is related to temperature, right?",
+      "zh": "现在如果你能看出模式与温度有关，对吧？"
+    },
+    {
+      "id": 181,
+      "start": 401.95,
+      "end": 402.69,
+      "en": "Chill is cold.",
+      "zh": "寒冷是冷的。"
+    },
+    {
+      "id": 182,
+      "start": 403.09,
+      "end": 404.33,
+      "en": "Cool is similar to cold.",
+      "zh": "冷酷类似于冷。"
+    },
+    {
+      "id": 183,
+      "start": 405.12,
+      "end": 407.21,
+      "en": "So again, that's what it means to relax.",
+      "zh": "再说一次，这就是放松的意义。"
+    },
+    {
+      "id": 184,
+      "start": 407.72,
+      "end": 408.77,
+      "en": "To calm down your emotions.",
+      "zh": "让你的情绪平静下来。"
+    },
+    {
+      "id": 185,
+      "start": 409.6,
+      "end": 411.12,
+      "en": "Make your emotions not so hot.",
+      "zh": "让你的情绪不那么热。"
+    },
+    {
+      "id": 186,
+      "start": 411.12,
+      "end": 412.12,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 187,
+      "start": 412.16,
+      "end": 412.4,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 188,
+      "start": 412.62,
+      "end": 413.11,
+      "en": "So chill.",
+      "zh": "这么冷。"
+    },
+    {
+      "id": 189,
+      "start": 413.39,
+      "end": 413.73,
+      "en": "Be cool.",
+      "zh": "冷静点。"
+    },
+    {
+      "id": 190,
+      "start": 414.1,
+      "end": 414.4,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 191,
+      "start": 414.64,
+      "end": 416.2,
+      "en": "And you use them together like that, don't you?",
+      "zh": "你就这样一起使用它们，不是吗？"
+    },
+    {
+      "id": 192,
+      "start": 417.12,
+      "end": 418.12,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 193,
+      "start": 418.12,
+      "end": 420.4,
+      "en": "Now chill also has another way of using it, right?",
+      "zh": "现在 Chill 还有另一种使用方式，对吧？"
+    },
+    {
+      "id": 194,
+      "start": 420.4,
+      "end": 421.4,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 195,
+      "start": 421.4,
+      "end": 422.46,
+      "en": "I'm chilling with my friends.",
+      "zh": "我和我的朋友一起冷静下来。"
+    },
+    {
+      "id": 196,
+      "start": 422.68,
+      "end": 423.68,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 197,
+      "start": 423.68,
+      "end": 424.56,
+      "en": "We're chilling here in the EnglishPod studio.",
+      "zh": "我们在 Englishpod 工作室里冷静下来。"
+    },
+    {
+      "id": 198,
+      "start": 425.36,
+      "end": 426.6,
+      "en": "Which means we're just relaxing.",
+      "zh": "这意味着我们只是在放松。"
+    },
+    {
+      "id": 199,
+      "start": 426.9,
+      "end": 428.42,
+      "en": "We are just having fun.",
+      "zh": "我们只是玩得很开心。"
+    },
+    {
+      "id": 200,
+      "start": 429.12,
+      "end": 430.12,
+      "en": "Not doing anything, right?",
+      "zh": "什么都不做，对吧？"
+    },
+    {
+      "id": 201,
+      "start": 430.12,
+      "end": 431.12,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 202,
+      "start": 431.12,
+      "end": 433.24,
+      "en": "But you can't say chilling.",
+      "zh": "但你不能说令人毛骨悚然。"
+    },
+    {
+      "id": 203,
+      "start": 433.24,
+      "end": 434.9,
+      "en": "You have to drop the G. Yeah.",
+      "zh": "你必须放下 G。是的。"
+    },
+    {
+      "id": 204,
+      "start": 435.04,
+      "end": 436.04,
+      "en": "You have to drop.",
+      "zh": "你必须放弃。"
+    },
+    {
+      "id": 205,
+      "start": 436.04,
+      "end": 437.04,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 206,
+      "start": 437.04,
+      "end": 437.44,
+      "en": "You can't say I'm chilling.",
+      "zh": "你不能说我很冷。"
+    },
+    {
+      "id": 207,
+      "start": 438.04,
+      "end": 438.74,
+      "en": "You have to say I'm chilling.",
+      "zh": "你不得不说我很冷。"
+    },
+    {
+      "id": 208,
+      "start": 439.12,
+      "end": 439.42,
+      "en": "I'm chilling.",
+      "zh": "我在冷。"
+    },
+    {
+      "id": 209,
+      "start": 440.5,
+      "end": 440.98,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 210,
+      "start": 441.08,
+      "end": 442.8,
+      "en": "So that's all for language takeaway.",
+      "zh": "所以这就是语言外卖的全部内容。"
+    },
+    {
+      "id": 211,
+      "start": 443.16,
+      "end": 451.0,
+      "en": "But now let's take a look at some of the really useful phrases that we saw in this dialogue in Fluency Builder.",
+      "zh": "但是现在让我们来看看我们在 Flueny 构建器的对话中看到的一些真正有用的短语。"
+    },
+    {
+      "id": 212,
+      "start": 451.98,
+      "end": 452.5,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 213,
+      "start": 452.68,
+      "end": 458.4,
+      "en": "So this guy is so happy he's on this date that he wants to scream at the top of his lungs.",
+      "zh": "所以这家伙很高兴他在这个日期，他想在他的肺顶部尖叫。"
+    },
+    {
+      "id": 214,
+      "start": 459.32,
+      "end": 460.46,
+      "en": "Scream at the top of my lungs.",
+      "zh": "在我的肺顶部尖叫。"
+    },
+    {
+      "id": 215,
+      "start": 461.02,
+      "end": 461.92,
+      "en": "Scream at the top of my lungs.",
+      "zh": "在我的肺顶部尖叫。"
+    },
+    {
+      "id": 216,
+      "start": 462.56,
+      "end": 465.18,
+      "en": "So basically he just wants to scream.",
+      "zh": "所以基本上他只是想尖叫。"
+    },
+    {
+      "id": 217,
+      "start": 465.72,
+      "end": 466.92,
+      "en": "To shout really loudly.",
+      "zh": "大声喊叫。"
+    },
+    {
+      "id": 218,
+      "start": 467.42,
+      "end": 467.64,
+      "en": "Really loudly.",
+      "zh": "真的很响亮。"
+    },
+    {
+      "id": 219,
+      "start": 468.42,
+      "end": 469.42,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 220,
+      "start": 469.42,
+      "end": 470.42,
+      "en": "He's so excited, right?",
+      "zh": "他太兴奋了，对吧？"
+    },
+    {
+      "id": 221,
+      "start": 470.42,
+      "end": 471.42,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 222,
+      "start": 471.42,
+      "end": 472.42,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 223,
+      "start": 472.42,
+      "end": 473.42,
+      "en": "So for example, sometimes you're at a concert, right?",
+      "zh": "例如，有时你在音乐会上，对吧？"
+    },
+    {
+      "id": 224,
+      "start": 473.42,
+      "end": 474.42,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 225,
+      "start": 474.42,
+      "end": 478.65,
+      "en": "And you need to talk to your friend and you're screaming at the top of your lungs because the other person can't hear you.",
+      "zh": "你需要和你的朋友谈谈，你在你的肺顶部尖叫，因为对方听不到你的声音。"
+    },
+    {
+      "id": 226,
+      "start": 479.28,
+      "end": 480.28,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 227,
+      "start": 480.28,
+      "end": 485.84,
+      "en": "So you're lost in the woods and you need to scream at the top of your lungs so that someone will hear you and find you.",
+      "zh": "所以你迷失在树林里，你需要在你的肺顶部尖叫，这样有人会听到你的声音并找到你。"
+    },
+    {
+      "id": 228,
+      "start": 485.84,
+      "end": 486.09,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 229,
+      "start": 486.84,
+      "end": 487.84,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 230,
+      "start": 487.84,
+      "end": 488.84,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 231,
+      "start": 488.84,
+      "end": 490.88,
+      "en": "So scream at the top of my lungs.",
+      "zh": "所以在我的肺顶部尖叫。"
+    },
+    {
+      "id": 232,
+      "start": 490.88,
+      "end": 491.65,
+      "en": "Our next phrase.",
+      "zh": "我们的下一个短语。"
+    },
+    {
+      "id": 233,
+      "start": 493.24,
+      "end": 493.72,
+      "en": "Get it together.",
+      "zh": "振作点。"
+    },
+    {
+      "id": 234,
+      "start": 494.24,
+      "end": 494.72,
+      "en": "Get it together.",
+      "zh": "振作点。"
+    },
+    {
+      "id": 235,
+      "start": 495.24,
+      "end": 495.58,
+      "en": "Get it together.",
+      "zh": "振作点。"
+    },
+    {
+      "id": 236,
+      "start": 496.32,
+      "end": 498.62,
+      "en": "So if I tell you, Erica, you need to get it together.",
+      "zh": "所以如果我告诉你，埃里卡，你需要把它放在一起。"
+    },
+    {
+      "id": 237,
+      "start": 499.48,
+      "end": 501.62,
+      "en": "Basically you're telling me to calm down, relax.",
+      "zh": "基本上你是在告诉我冷静下来，放松一下。"
+    },
+    {
+      "id": 238,
+      "start": 502.48,
+      "end": 506.52,
+      "en": "So pull your emotions together, get your ideas straight.",
+      "zh": "所以把你的情绪放在一起，把你的想法弄清楚。"
+    },
+    {
+      "id": 239,
+      "start": 506.52,
+      "end": 506.64,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 240,
+      "start": 507.52,
+      "end": 513.52,
+      "en": "So it kind of gives you this idea that you got to pull, like you said, pull your emotions together in a little box and tie them up.",
+      "zh": "所以它给了你这样的想法，就像你说的那样，把你的情绪放在一个小盒子里，把它们绑起来。"
+    },
+    {
+      "id": 241,
+      "start": 513.86,
+      "end": 514.14,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 242,
+      "start": 514.52,
+      "end": 515.52,
+      "en": "So get it together.",
+      "zh": "所以把它放在一起。"
+    },
+    {
+      "id": 243,
+      "start": 515.52,
+      "end": 516.52,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 244,
+      "start": 516.52,
+      "end": 519.36,
+      "en": "So Marco, when would you use this phrase, get it together?",
+      "zh": "那么马可，你什么时候用这个短语，把它放在一起？"
+    },
+    {
+      "id": 245,
+      "start": 519.36,
+      "end": 526.55,
+      "en": "I guess when somebody is either very emotional, maybe crying or very nervous, you tell the person, oh, get it together, relax.",
+      "zh": "我想当有人非常情绪化，可能是哭泣或非常紧张时，你告诉对方，哦，聚在一起，放松。"
+    },
+    {
+      "id": 246,
+      "start": 527.61,
+      "end": 536.51,
+      "en": "Or when somebody maybe is not doing something good in their life, like making bad decisions or not being responsible, you tell that person, you need to get it together.",
+      "zh": "或者当有人可能没有在他们的生活中做一些好事时，比如做出错误的决定或不负责任，你告诉那个人，你需要把它放在一起。"
+    },
+    {
+      "id": 247,
+      "start": 536.75,
+      "end": 536.91,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 248,
+      "start": 538.04,
+      "end": 539.04,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 249,
+      "start": 539.04,
+      "end": 540.04,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 250,
+      "start": 540.04,
+      "end": 541.04,
+      "en": "I couldn't have said it better myself.",
+      "zh": "我自己说得再好不过了。"
+    },
+    {
+      "id": 251,
+      "start": 541.04,
+      "end": 541.19,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 252,
+      "start": 542.04,
+      "end": 544.53,
+      "en": "So now why don't we move on to our next phrase?",
+      "zh": "那么现在我们为什么不继续我们的下一个短语呢？"
+    },
+    {
+      "id": 253,
+      "start": 544.84,
+      "end": 546.59,
+      "en": "And this is really, really high frequency.",
+      "zh": "这真的，非常高的频率。"
+    },
+    {
+      "id": 254,
+      "start": 546.91,
+      "end": 548.19,
+      "en": "I think you would hear it all the time.",
+      "zh": "我想你会一直听到的。"
+    },
+    {
+      "id": 255,
+      "start": 548.61,
+      "end": 548.95,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 256,
+      "start": 549.48,
+      "end": 550.17,
+      "en": "So what the hell?",
+      "zh": "那么到底是什么？"
+    },
+    {
+      "id": 257,
+      "start": 550.72,
+      "end": 551.13,
+      "en": "What the hell?",
+      "zh": "什么鬼？"
+    },
+    {
+      "id": 258,
+      "start": 551.72,
+      "end": 552.72,
+      "en": "What the hell?",
+      "zh": "什么鬼？"
+    },
+    {
+      "id": 259,
+      "start": 552.72,
+      "end": 553.87,
+      "en": "So why would you say what the hell?",
+      "zh": "那你为什么要说什么鬼？"
+    },
+    {
+      "id": 260,
+      "start": 554.21,
+      "end": 556.17,
+      "en": "Well, obviously you're asking a question, right?",
+      "zh": "好吧，显然你在问一个问题，对吧？"
+    },
+    {
+      "id": 261,
+      "start": 556.28,
+      "end": 559.64,
+      "en": "Because you got your W, you got your what.",
+      "zh": "因为你得到了你的W，你得到了你的什么。"
+    },
+    {
+      "id": 262,
+      "start": 559.64,
+      "end": 563.23,
+      "en": "But when you say the hell, you're putting emphasis on the what.",
+      "zh": "但是当你说地狱时，你会强调什么。"
+    },
+    {
+      "id": 263,
+      "start": 563.44,
+      "end": 564.95,
+      "en": "So you're asking a really strong question.",
+      "zh": "所以你在问一个非常强烈的问题。"
+    },
+    {
+      "id": 264,
+      "start": 565.32,
+      "end": 566.32,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 265,
+      "start": 566.65,
+      "end": 567.17,
+      "en": "It's not polite.",
+      "zh": "这不礼貌。"
+    },
+    {
+      "id": 266,
+      "start": 567.32,
+      "end": 568.32,
+      "en": "It's not polite.",
+      "zh": "这不礼貌。"
+    },
+    {
+      "id": 267,
+      "start": 568.32,
+      "end": 569.32,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 268,
+      "start": 569.32,
+      "end": 570.32,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 269,
+      "start": 570.32,
+      "end": 571.32,
+      "en": "So if I say what the hell is going on?",
+      "zh": "所以如果我说到底发生了什么？"
+    },
+    {
+      "id": 270,
+      "start": 571.32,
+      "end": 571.49,
+      "en": "What's happening?",
+      "zh": "怎么了？"
+    },
+    {
+      "id": 271,
+      "start": 572.32,
+      "end": 572.69,
+      "en": "Really, really what's happening?",
+      "zh": "真的，真的发生了什么？"
+    },
+    {
+      "id": 272,
+      "start": 573.32,
+      "end": 574.32,
+      "en": "Right?",
+      "zh": "对吧？"
+    },
+    {
+      "id": 273,
+      "start": 574.32,
+      "end": 575.32,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 274,
+      "start": 575.32,
+      "end": 576.32,
+      "en": "So, and we can change it a little bit.",
+      "zh": "所以，我们可以稍微改变一下。"
+    },
+    {
+      "id": 275,
+      "start": 576.32,
+      "end": 582.89,
+      "en": "We can replace the what with another WH like why, how, where, where or when.",
+      "zh": "我们可以用另一个 WH 代替 What，例如为什么、如何、在哪里、在哪里或何时。"
+    },
+    {
+      "id": 276,
+      "start": 583.32,
+      "end": 584.32,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 277,
+      "start": 584.32,
+      "end": 585.32,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 278,
+      "start": 585.32,
+      "end": 591.6,
+      "en": "So why don't we hear some examples of how this expression is used using different WH words?",
+      "zh": "那么，为什么我们不听一些如何使用不同的 WH 词来使用此表达式的示例呢？"
+    },
+    {
+      "id": 279,
+      "start": 591.6,
+      "end": 596.77,
+      "en": "Example one, where the hell are you?",
+      "zh": "例子一，你到底在哪里？"
+    },
+    {
+      "id": 280,
+      "start": 597.11,
+      "end": 598.15,
+      "en": "I've been waiting for hours.",
+      "zh": "我已经等了好几个小时了。"
+    },
+    {
+      "id": 281,
+      "start": 603.51,
+      "end": 609.64,
+      "en": "Example two, how the hell did you do that?",
+      "zh": "示例二，你到底是怎么做到的？"
+    },
+    {
+      "id": 282,
+      "start": 610.04,
+      "end": 610.66,
+      "en": "That was amazing.",
+      "zh": "那是惊人的。"
+    },
+    {
+      "id": 283,
+      "start": 615.41,
+      "end": 621.16,
+      "en": "Example three, when the hell are you going to find a job?",
+      "zh": "例子三，你到底打算什么时候找工作？"
+    },
+    {
+      "id": 284,
+      "start": 621.6,
+      "end": 622.84,
+      "en": "I'm tired of paying for everything.",
+      "zh": "我厌倦了为一切付出代价。"
+    },
+    {
+      "id": 285,
+      "start": 627.2,
+      "end": 631.44,
+      "en": "Example four, who the hell are you?",
+      "zh": "例四，你到底是谁？"
+    },
+    {
+      "id": 286,
+      "start": 631.94,
+      "end": 632.66,
+      "en": "I don't know you.",
+      "zh": "我不认识你。"
+    },
+    {
+      "id": 287,
+      "start": 634.76,
+      "end": 637.28,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 288,
+      "start": 637.28,
+      "end": 642.69,
+      "en": "Now our final word, also a little bit strong, but pretty high frequency.",
+      "zh": "现在我们的最后一句话，也有点强，但频率相当高。"
+    },
+    {
+      "id": 289,
+      "start": 643.11,
+      "end": 643.43,
+      "en": "Oh yeah.",
+      "zh": "哦，对。"
+    },
+    {
+      "id": 290,
+      "start": 643.53,
+      "end": 644.33,
+      "en": "Very high frequency.",
+      "zh": "频率很高。"
+    },
+    {
+      "id": 291,
+      "start": 645.07,
+      "end": 645.61,
+      "en": "Oh crap.",
+      "zh": "哦，糟了。"
+    },
+    {
+      "id": 292,
+      "start": 646.03,
+      "end": 646.43,
+      "en": "Oh crap.",
+      "zh": "哦，糟了。"
+    },
+    {
+      "id": 293,
+      "start": 646.67,
+      "end": 647.01,
+      "en": "Oh crap.",
+      "zh": "哦，糟了。"
+    },
+    {
+      "id": 294,
+      "start": 647.47,
+      "end": 652.95,
+      "en": "So it's a little bit strong, but less strong than maybe saying a really bad word.",
+      "zh": "所以它有点强大，但不如说一个非常糟糕的词强。"
+    },
+    {
+      "id": 295,
+      "start": 653.32,
+      "end": 654.32,
+      "en": "Right?",
+      "zh": "对吧？"
+    },
+    {
+      "id": 296,
+      "start": 654.32,
+      "end": 655.32,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 297,
+      "start": 655.32,
+      "end": 657.12,
+      "en": "But it's definitely saying like you made a mistake.",
+      "zh": "但它肯定是在说你犯了一个错误。"
+    },
+    {
+      "id": 298,
+      "start": 657.12,
+      "end": 658.12,
+      "en": "Right?",
+      "zh": "对吧？"
+    },
+    {
+      "id": 299,
+      "start": 658.12,
+      "end": 659.12,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 300,
+      "start": 659.12,
+      "end": 660.12,
+      "en": "It's like a really strong, oh no.",
+      "zh": "这就像一个非常强大的，哦不。"
+    },
+    {
+      "id": 301,
+      "start": 660.12,
+      "end": 661.12,
+      "en": "Oh no.",
+      "zh": "哦，不。"
+    },
+    {
+      "id": 302,
+      "start": 661.12,
+      "end": 662.12,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 303,
+      "start": 662.12,
+      "end": 663.12,
+      "en": "A really strong, oh no.",
+      "zh": "一个非常强大的，哦不。"
+    },
+    {
+      "id": 304,
+      "start": 663.12,
+      "end": 664.12,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 305,
+      "start": 664.12,
+      "end": 665.12,
+      "en": "But I guess not many people say, oh no.",
+      "zh": "但我想没有多少人说，哦不。"
+    },
+    {
+      "id": 306,
+      "start": 665.23,
+      "end": 665.61,
+      "en": "Oh no.",
+      "zh": "哦，不。"
+    },
+    {
+      "id": 307,
+      "start": 666.12,
+      "end": 667.11,
+      "en": "I just lost $10 million.",
+      "zh": "我刚刚损失了 1000 万美元。"
+    },
+    {
+      "id": 308,
+      "start": 667.85,
+      "end": 668.03,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 309,
+      "start": 668.47,
+      "end": 668.61,
+      "en": "Right?",
+      "zh": "对吧？"
+    },
+    {
+      "id": 310,
+      "start": 668.78,
+      "end": 669.59,
+      "en": "You would not say that.",
+      "zh": "你不会这么说。"
+    },
+    {
+      "id": 311,
+      "start": 670.68,
+      "end": 671.68,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 312,
+      "start": 671.68,
+      "end": 674.72,
+      "en": "So it's a very strong, oh no, but it's not as strong as it could be.",
+      "zh": "所以它是一个非常强大的，哦不，但它没有想象的那么强大。"
+    },
+    {
+      "id": 313,
+      "start": 674.72,
+      "end": 677.81,
+      "en": "There are other words out there that are stronger, but we are not going to go into them here.",
+      "zh": "还有其他词更强大，但我们不会在这里讨论它们。"
+    },
+    {
+      "id": 314,
+      "start": 678.15,
+      "end": 679.73,
+      "en": "But maybe you guys know, so let us know.",
+      "zh": "但也许你们知道，所以让我们知道。"
+    },
+    {
+      "id": 315,
+      "start": 679.88,
+      "end": 680.88,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 316,
+      "start": 680.88,
+      "end": 683.52,
+      "en": "We can definitely keep an eye out on the comment section.",
+      "zh": "我们绝对可以关注评论部分。"
+    },
+    {
+      "id": 317,
+      "start": 683.52,
+      "end": 686.88,
+      "en": "But don't write the words in the comment section.",
+      "zh": "但不要在评论部分写下单词。"
+    },
+    {
+      "id": 318,
+      "start": 686.88,
+      "end": 687.88,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 319,
+      "start": 687.88,
+      "end": 696.8,
+      "en": "So we saw some really great phrases, some really great words, a lot of informal language, but it's very high frequency and you'll use that with your friends or you'll see it in movies, TV shows.",
+      "zh": "所以我们看到了一些非常棒的短语，一些非常棒的单词，很多非正式的语言，但它的频率非常高，你会和你的朋友一起使用它，或者你会在电影、电视节目中看到它。"
+    },
+    {
+      "id": 320,
+      "start": 697.16,
+      "end": 698.16,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 321,
+      "start": 698.16,
+      "end": 699.52,
+      "en": "Really common in movies and TV shows.",
+      "zh": "在电影和电视节目中确实很常见。"
+    },
+    {
+      "id": 322,
+      "start": 699.52,
+      "end": 700.52,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 323,
+      "start": 700.52,
+      "end": 704.52,
+      "en": "So let's listen to this dialogue one more time and then we'll come back and talk a little bit more.",
+      "zh": "所以让我们再听一次这个对话，然后我们会回来再谈一点。"
+    },
+    {
+      "id": 324,
+      "start": 707.76,
+      "end": 713.64,
+      "en": "Miss, your salad.",
+      "zh": "小姐，您的沙拉。"
+    },
+    {
+      "id": 325,
+      "start": 713.64,
+      "end": 715.3,
+      "en": "Hmm.",
+      "zh": "嗯。"
+    },
+    {
+      "id": 326,
+      "start": 715.3,
+      "end": 716.3,
+      "en": "Looks good.",
+      "zh": "看起来不错。"
+    },
+    {
+      "id": 327,
+      "start": 716.3,
+      "end": 718.24,
+      "en": "I'm positively famished.",
+      "zh": "我都饿坏了。"
+    },
+    {
+      "id": 328,
+      "start": 718.24,
+      "end": 719.06,
+      "en": "And for you, sir.",
+      "zh": "先生，这是您的。"
+    },
+    {
+      "id": 329,
+      "start": 719.76,
+      "end": 720.34,
+      "en": "Thank you.",
+      "zh": "谢谢。"
+    },
+    {
+      "id": 330,
+      "start": 721.51,
+      "end": 721.93,
+      "en": "Enjoy.",
+      "zh": "请享用。"
+    },
+    {
+      "id": 331,
+      "start": 722.0,
+      "end": 723.0,
+      "en": "Thank you.",
+      "zh": "谢谢。"
+    },
+    {
+      "id": 332,
+      "start": 723.0,
+      "end": 724.66,
+      "en": "I can't believe she's on a date with me.",
+      "zh": "我不敢相信她和我约会。"
+    },
+    {
+      "id": 333,
+      "start": 724.66,
+      "end": 726.62,
+      "en": "I'm so lucky.",
+      "zh": "我真幸运。"
+    },
+    {
+      "id": 334,
+      "start": 730.89,
+      "end": 732.75,
+      "en": "I must be the luckiest guy in the world.",
+      "zh": "我一定是世界上最幸运的人。"
+    },
+    {
+      "id": 335,
+      "start": 732.75,
+      "end": 736.01,
+      "en": "I want to scream at the top of my lungs, 'I'm the luckiest dude in the world!'",
+      "zh": "我真想扯着嗓子大喊：“我是全世界最幸运的家伙！”"
+    },
+    {
+      "id": 336,
+      "start": 736.65,
+      "end": 737.87,
+      "en": "Oh, shut up!",
+      "zh": "闭嘴！"
+    },
+    {
+      "id": 337,
+      "start": 738.21,
+      "end": 739.31,
+      "en": "Don't be such a dumbass.",
+      "zh": "别这么傻。"
+    },
+    {
+      "id": 338,
+      "start": 740.06,
+      "end": 742.06,
+      "en": "She's so hot!",
+      "zh": "她真性感！"
+    },
+    {
+      "id": 339,
+      "start": 742.06,
+      "end": 742.56,
+      "en": "Wait, I can't say that.",
+      "zh": "等等，我不能这么说。"
+    },
+    {
+      "id": 340,
+      "start": 744.06,
+      "end": 746.06,
+      "en": "That's sexist.",
+      "zh": "那是性别歧视。"
+    },
+    {
+      "id": 341,
+      "start": 746.06,
+      "end": 746.61,
+      "en": "She's so hot. She's making me sexist.",
+      "zh": "她太迷人了，害我都说出这种性别歧视的话。"
+    },
+    {
+      "id": 342,
+      "start": 747.05,
+      "end": 747.71,
+      "en": "Oh my god!",
+      "zh": "哦，我的天！"
+    },
+    {
+      "id": 343,
+      "start": 748.17,
+      "end": 748.91,
+      "en": "I'm such a tool!",
+      "zh": "我真是个傻子！"
+    },
+    {
+      "id": 344,
+      "start": 750.06,
+      "end": 752.06,
+      "en": "Okay, get it together.",
+      "zh": "好了，振作点。"
+    },
+    {
+      "id": 345,
+      "start": 752.06,
+      "end": 753.33,
+      "en": "She's eating salad. Oh right.",
+      "zh": "她在吃沙拉。哦，对。"
+    },
+    {
+      "id": 346,
+      "start": 754.06,
+      "end": 756.06,
+      "en": "I have a salad.",
+      "zh": "我也有沙拉。"
+    },
+    {
+      "id": 347,
+      "start": 756.06,
+      "end": 758.06,
+      "en": "Oh crap, which fork do I use?",
+      "zh": "糟了，该用哪把叉子？"
+    },
+    {
+      "id": 348,
+      "start": 758.06,
+      "end": 759.8,
+      "en": "Damn it! She's gonna think I'm a moron.",
+      "zh": "他妈的! 她会认为我是个白痴。"
+    },
+    {
+      "id": 349,
+      "start": 760.28,
+      "end": 761.56,
+      "en": "What the hell are all these forks for?",
+      "zh": "这些叉子到底都是干什么用的？"
+    },
+    {
+      "id": 350,
+      "start": 762.1,
+      "end": 763.28,
+      "en": "Which one did she use?",
+      "zh": "她刚才用的是哪把？"
+    },
+    {
+      "id": 351,
+      "start": 763.86,
+      "end": 764.18,
+      "en": "Okay, chill.",
+      "zh": "好了，别慌。"
+    },
+    {
+      "id": 352,
+      "start": 764.6,
+      "end": 765.24,
+      "en": "Be cool.",
+      "zh": "冷静点。"
+    },
+    {
+      "id": 353,
+      "start": 766.06,
+      "end": 768.06,
+      "en": "Just take a fork.",
+      "zh": "随便拿把叉子。"
+    },
+    {
+      "id": 354,
+      "start": 768.06,
+      "end": 770.06,
+      "en": "Eat your salad.",
+      "zh": "吃你的沙拉。"
+    },
+    {
+      "id": 355,
+      "start": 772.06,
+      "end": 774.06,
+      "en": "Um...",
+      "zh": "嗯..."
+    },
+    {
+      "id": 356,
+      "start": 774.06,
+      "end": 776.06,
+      "en": "Mm?",
+      "zh": "嗯？"
+    },
+    {
+      "id": 357,
+      "start": 776.06,
+      "end": 776.71,
+      "en": "Oh, sorry.",
+      "zh": "哦对不起。"
+    },
+    {
+      "id": 358,
+      "start": 777.13,
+      "end": 777.71,
+      "en": "What were you saying?",
+      "zh": "你刚才说什么？"
+    },
+    {
+      "id": 359,
+      "start": 778.29,
+      "end": 779.41,
+      "en": "You're eating my salad.",
+      "zh": "你吃的是我的沙拉。"
+    },
+    {
+      "id": 360,
+      "start": 780.23,
+      "end": 781.01,
+      "en": "Oh, yes.",
+      "zh": "哦，是的。"
+    },
+    {
+      "id": 361,
+      "start": 781.55,
+      "end": 782.03,
+      "en": "It's delicious.",
+      "zh": "很好吃。"
+    },
+    {
+      "id": 362,
+      "start": 795.02,
+      "end": 798.0,
+      "en": "So these slang words, they're actually very common, right?",
+      "zh": "所以这些俚语，它们实际上很常见，对吧？"
+    },
+    {
+      "id": 363,
+      "start": 798.24,
+      "end": 801.64,
+      "en": "Yeah, I think like you said, it's not likely that you'll find them in a dictionary.",
+      "zh": "是的，我想就像你说的，你不太可能在字典中找到它们。"
+    },
+    {
+      "id": 364,
+      "start": 802.2,
+      "end": 811.4,
+      "en": "Of course. And you can find them in movies, or sometimes when you're having a conversation, a very informal conversation with a native speaker, these words will slip out and these slang terms will come up.",
+      "zh": "当然。 你可以在电影中找到它们，或者有时当你在谈话时，与母语人士进行非常非正式的对话，这些话会漏出来，这些俚语就会出现。"
+    },
+    {
+      "id": 365,
+      "start": 812.06,
+      "end": 812.66,
+      "en": "Exactly. And you know what?",
+      "zh": "没错。 你知道吗？"
+    },
+    {
+      "id": 366,
+      "start": 812.78,
+      "end": 820.06,
+      "en": "There's a great resource out there for wonderful English slang terms, called UrbanDictionary.com.",
+      "zh": "有一个很好的资源可以用于精彩的英语俚语，称为 UrbanDictionary.com。"
+    },
+    {
+      "id": 367,
+      "start": 820.06,
+      "end": 826.06,
+      "en": "Exactly. If you ever see a word that maybe you can't find in the conventional dictionary, you're probably gonna find it there.",
+      "zh": "没错。 如果你在传统词典中看到一个可能找不到的单词，你可能会在那里找到它。"
+    },
+    {
+      "id": 368,
+      "start": 826.06,
+      "end": 828.06,
+      "en": "Yeah, we'll put a link up to it on the site.",
+      "zh": "是的，我们会在网站上放置一个链接。"
+    },
+    {
+      "id": 369,
+      "start": 828.06,
+      "end": 832.06,
+      "en": "Alright. So also, if you have any questions or comments, be sure to come to our website, EnglishPod.com.",
+      "zh": "好的。 同样，如果您有任何问题或意见，请务必访问我们的网站 englishpod.com。"
+    },
+    {
+      "id": 370,
+      "start": 832.06,
+      "end": 840.06,
+      "en": "Marco and I are there to answer all your questions, and we also got lots of resources, like links to Urban Dictionary.",
+      "zh": "Marco 和我在那里回答你所有的问题，我们也有很多资源，比如城市词典的链接。"
+    },
+    {
+      "id": 371,
+      "start": 840.06,
+      "end": 846.06,
+      "en": "Right. And also, if you have any questions on any other slang terms that you may have heard, or how to use them, be sure to post it on the comment section.",
+      "zh": "对。 此外，如果您对您可能听说过的任何其他俚语或如何使用它们有任何疑问，请务必将其发布在评论部分。"
+    },
+    {
+      "id": 372,
+      "start": 846.06,
+      "end": 858.723,
+      "en": "Well guys, thanks for listening to this lesson, and until next time, goodbye!",
+      "zh": "好吧，伙计们，感谢您收听本课，直到下一次，再见！"
+    }
+  ],
+  "dialog": {
+    "start": 707.76,
+    "end": 782.03,
+    "segmentIds": [
+      324,
+      325,
+      326,
+      327,
+      328,
+      329,
+      330,
+      331,
+      332,
+      333,
+      334,
+      335,
+      336,
+      337,
+      338,
+      339,
+      340,
+      341,
+      342,
+      343,
+      344,
+      345,
+      346,
+      347,
+      348,
+      349,
+      350,
+      351,
+      352,
+      353,
+      354,
+      355,
+      356,
+      357,
+      358,
+      359,
+      360,
+      361
+    ]
+  }
+}

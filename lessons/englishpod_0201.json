@@ -1,0 +1,1692 @@
+{
+  "version": 1,
+  "id": 201,
+  "number": "0201",
+  "title": "Daily Life - At The Post Office",
+  "audio": "mp3/201. Daily Life - At The Post Office.mp3",
+  "duration": 677.355125,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.1,
+      "en": "Hello everyone and welcome to EnglishPod.",
+      "zh": "大家好，欢迎来到 EnglishPod。"
+    },
+    {
+      "id": 2,
+      "start": 5.34,
+      "end": 5.74,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 6.32,
+      "end": 8.46,
+      "en": "My name is Catherine and welcome everyone.",
+      "zh": "我的名字是凯瑟琳，欢迎大家。"
+    },
+    {
+      "id": 4,
+      "start": 8.7,
+      "end": 10.9,
+      "en": "Today we've got an elementary level lesson for you.",
+      "zh": "今天我们为您准备了一个小学水平的课程。"
+    },
+    {
+      "id": 5,
+      "start": 11.24,
+      "end": 13.82,
+      "en": "It's all about sending things through the mail.",
+      "zh": "这一切都是通过邮件发送的。"
+    },
+    {
+      "id": 6,
+      "start": 14.26,
+      "end": 14.86,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 7,
+      "start": 15.2,
+      "end": 16.8,
+      "en": "So maybe gifts, maybe letters.",
+      "zh": "所以也许是礼物，也许是信件。"
+    },
+    {
+      "id": 8,
+      "start": 17.52,
+      "end": 21.56,
+      "en": "We're going to the post office so why don't we jump right into this dialogue.",
+      "zh": "我们要去邮局，所以我们为什么不直接进入这个对话。"
+    },
+    {
+      "id": 9,
+      "start": 21.94,
+      "end": 24.62,
+      "en": "Let's listen to it for the first time and we'll be right back.",
+      "zh": "让我们第一次听它，我们会马上回来的。"
+    },
+    {
+      "id": 10,
+      "start": 32.52,
+      "end": 36.06,
+      "en": "Hi I would like to send this package to China and these postcards as well.",
+      "zh": "嗨，我想把这个包裹寄到中国和这些明信片。"
+    },
+    {
+      "id": 11,
+      "start": 36.36,
+      "end": 36.84,
+      "en": "Very well.",
+      "zh": "很好。"
+    },
+    {
+      "id": 12,
+      "start": 37.24,
+      "end": 40.3,
+      "en": "You will need some stamps for the postcards and I need to weigh that package too.",
+      "zh": "你需要一些明信片的邮票，我也需要称重那个包裹。"
+    },
+    {
+      "id": 13,
+      "start": 40.66,
+      "end": 40.9,
+      "en": "Great.",
+      "zh": "太好了。"
+    },
+    {
+      "id": 14,
+      "start": 41.36,
+      "end": 42.56,
+      "en": "How much is this going to cost?",
+      "zh": "这要花多少钱？"
+    },
+    {
+      "id": 15,
+      "start": 43.06,
+      "end": 43.82,
+      "en": "Well it depends.",
+      "zh": "好吧，这取决于。"
+    },
+    {
+      "id": 16,
+      "start": 44.24,
+      "end": 47.16,
+      "en": "Do you want to send it via priority, express or standard mail?",
+      "zh": "您想通过优先邮件、快递或标准邮件发送它吗？"
+    },
+    {
+      "id": 17,
+      "start": 47.52,
+      "end": 48.24,
+      "en": "What's the difference?",
+      "zh": "有什么区别？"
+    },
+    {
+      "id": 18,
+      "start": 48.76,
+      "end": 51.2,
+      "en": "Well standard mail can take up to 15 working days.",
+      "zh": "标准邮件最多可能需要 15 个工作日。"
+    },
+    {
+      "id": 19,
+      "start": 51.94,
+      "end": 54.86,
+      "en": "Priority is a bit faster and will arrive in about 5 to 8 working days.",
+      "zh": "优先邮件稍快一些，大约五到八个工作日送达。"
+    },
+    {
+      "id": 20,
+      "start": 55.74,
+      "end": 57.8,
+      "en": "Express is the fastest but it's also the most expensive.",
+      "zh": "特快专递最快，但也最贵。"
+    },
+    {
+      "id": 21,
+      "start": 58.46,
+      "end": 60.84,
+      "en": "It only takes three days and you can track your package online.",
+      "zh": "只需三天，您就可以在线跟踪您的包裹。"
+    },
+    {
+      "id": 22,
+      "start": 61.54,
+      "end": 61.86,
+      "en": "I see.",
+      "zh": "我明白了。"
+    },
+    {
+      "id": 23,
+      "start": 62.54,
+      "end": 63.18,
+      "en": "Well there's no rush.",
+      "zh": "嗯，我不着急。"
+    },
+    {
+      "id": 24,
+      "start": 63.78,
+      "end": 65.26,
+      "en": "Please send it via priority mail.",
+      "zh": "请通过优先邮件发送。"
+    },
+    {
+      "id": 25,
+      "start": 65.9,
+      "end": 66.92,
+      "en": "Please be extra careful.",
+      "zh": "请格外小心。"
+    },
+    {
+      "id": 26,
+      "start": 66.92,
+      "end": 68.44,
+      "en": "The contents of the package are fragile.",
+      "zh": "包裹里装的是易碎品。"
+    },
+    {
+      "id": 27,
+      "start": 73.58,
+      "end": 75.1,
+      "en": "All right so pretty simple dialogue.",
+      "zh": "好吧，这么简单的对话。"
+    },
+    {
+      "id": 28,
+      "start": 75.12,
+      "end": 77.36,
+      "en": "We want to send a package through the mail.",
+      "zh": "我们想通过邮件发送包裹。"
+    },
+    {
+      "id": 29,
+      "start": 77.96,
+      "end": 82.56,
+      "en": "So why don't we take a look at some of those mail related terms in Language Takeaway.",
+      "zh": "那么我们为什么不看看语言外卖中的一些邮件相关术语。"
+    },
+    {
+      "id": 30,
+      "start": 88.14,
+      "end": 93.54,
+      "en": "Alright so the first item we're going to talk about in today's Language Takeaway is something you can send.",
+      "zh": "好吧，我们将在今天的语言外卖中讨论的第一项是您可以发送的内容。"
+    },
+    {
+      "id": 31,
+      "start": 93.54,
+      "end": 94.68,
+      "en": "It's called a postcard.",
+      "zh": "它被称为明信片。"
+    },
+    {
+      "id": 32,
+      "start": 95.3,
+      "end": 96.12,
+      "en": "A postcard.",
+      "zh": "一张明信片。"
+    },
+    {
+      "id": 33,
+      "start": 96.32,
+      "end": 102.3,
+      "en": "Okay so very popular among people who are traveling and they want to send a postcard back home.",
+      "zh": "好吧，在旅行的人中非常受欢迎，他们想寄一张明信片回家。"
+    },
+    {
+      "id": 34,
+      "start": 102.8,
+      "end": 103.12,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 35,
+      "start": 103.34,
+      "end": 110.56,
+      "en": "So a postcard is something that you usually buy at a tourist destination like Walt Disney World for example.",
+      "zh": "因此，明信片是您通常在沃尔特迪斯尼世界等旅游目的地购买的东西。"
+    },
+    {
+      "id": 36,
+      "start": 111.08,
+      "end": 114.42,
+      "en": "And it has a picture on the front and some words on the back.",
+      "zh": "它的正面有一张照片，背面有一些单词。"
+    },
+    {
+      "id": 37,
+      "start": 114.62,
+      "end": 116.48,
+      "en": "So you can write a letter on the back of this picture.",
+      "zh": "所以你可以在这张照片的背面写一封信。"
+    },
+    {
+      "id": 38,
+      "start": 117.5,
+      "end": 119.86,
+      "en": "So it's very simple.",
+      "zh": "所以这很简单。"
+    },
+    {
+      "id": 39,
+      "start": 119.86,
+      "end": 120.72,
+      "en": "It's not really a letter.",
+      "zh": "这不是一封真正的信。"
+    },
+    {
+      "id": 40,
+      "start": 120.96,
+      "end": 122.04,
+      "en": "You don't put it in an envelope.",
+      "zh": "你不要把它放在信封里。"
+    },
+    {
+      "id": 41,
+      "start": 122.64,
+      "end": 126.22,
+      "en": "You just write whatever you want on the back of the postcard.",
+      "zh": "你只需在明信片背面写任何你想要的东西。"
+    },
+    {
+      "id": 42,
+      "start": 126.64,
+      "end": 130.52,
+      "en": "But you do have to put a stamp on it in order to send it.",
+      "zh": "但是你必须在上面贴上印章才能发送它。"
+    },
+    {
+      "id": 43,
+      "start": 130.7,
+      "end": 130.96,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 44,
+      "start": 131.12,
+      "end": 132.36,
+      "en": "So stamp is our next word.",
+      "zh": "所以邮票是我们的下一个词。"
+    },
+    {
+      "id": 45,
+      "start": 132.6,
+      "end": 135.68,
+      "en": "A stamp comes in different price ranges.",
+      "zh": "邮票有不同的价格范围。"
+    },
+    {
+      "id": 46,
+      "start": 135.94,
+      "end": 139.94,
+      "en": "That means that some stamps are more expensive than other stamps.",
+      "zh": "这意味着有些邮票比其他邮票贵。"
+    },
+    {
+      "id": 47,
+      "start": 139.94,
+      "end": 142.46,
+      "en": "This is like money for the mail.",
+      "zh": "这就像邮件的钱。"
+    },
+    {
+      "id": 48,
+      "start": 143.58,
+      "end": 154.52,
+      "en": "So you have to buy the stamps and in order to prove that you have paid for the letter that you want to send, you must place the stamps on the letter on the envelope or on the postcard, right?",
+      "zh": "所以你必须购买邮票，为了证明你已经支付了你想寄的信，你必须把邮票放在信封上或明信片上，对吧？"
+    },
+    {
+      "id": 49,
+      "start": 154.7,
+      "end": 157.46,
+      "en": "So depending on the size and weight, it costs more.",
+      "zh": "因此，根据尺寸和重量，它的成本更高。"
+    },
+    {
+      "id": 50,
+      "start": 157.82,
+      "end": 158.28,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 51,
+      "start": 158.48,
+      "end": 163.82,
+      "en": "And usually you lick a stamp to place it on the card so it doesn't fall off.",
+      "zh": "通常你舔一个邮票把它放在卡片上，这样它就不会掉下来。"
+    },
+    {
+      "id": 52,
+      "start": 164.04,
+      "end": 164.2,
+      "en": "True.",
+      "zh": "确实。"
+    },
+    {
+      "id": 53,
+      "start": 164.54,
+      "end": 164.82,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 54,
+      "start": 166.14,
+      "end": 167.14,
+      "en": "You gotta lick it.",
+      "zh": "你必须舔它。"
+    },
+    {
+      "id": 55,
+      "start": 167.14,
+      "end": 168.14,
+      "en": "Alright.",
+      "zh": "好的。"
+    },
+    {
+      "id": 56,
+      "start": 168.14,
+      "end": 170.42,
+      "en": "So as we talked about, a package can be a letter, a postcard.",
+      "zh": "所以正如我们所说，一个包裹可以是一封信，一张明信片。"
+    },
+    {
+      "id": 57,
+      "start": 170.42,
+      "end": 177.38,
+      "en": "You place stamps on it and we need to weigh the package to know how much money we have to pay.",
+      "zh": "你在上面贴了邮票，我们需要权衡包裹，知道我们要付多少钱。"
+    },
+    {
+      "id": 58,
+      "start": 177.38,
+      "end": 177.55,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 59,
+      "start": 178.38,
+      "end": 181.57,
+      "en": "So sometimes a package is very heavy if it's filled with books for example.",
+      "zh": "因此，例如，如果一个包裹充满书籍，有时它会非常重。"
+    },
+    {
+      "id": 60,
+      "start": 182.62,
+      "end": 185.91,
+      "en": "Sometimes it's very light if it's filled with clothes or feathers.",
+      "zh": "有时，如果它装满了衣服或羽毛，它会很轻。"
+    },
+    {
+      "id": 61,
+      "start": 186.82,
+      "end": 191.34,
+      "en": "And so to find out how much something weighs, we have to weigh it.",
+      "zh": "因此，要找出有多重的东西，我们必须权衡它。"
+    },
+    {
+      "id": 62,
+      "start": 191.34,
+      "end": 191.77,
+      "en": "This is a verb.",
+      "zh": "这是个动词。"
+    },
+    {
+      "id": 63,
+      "start": 192.34,
+      "end": 193.34,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 64,
+      "start": 193.34,
+      "end": 193.95,
+      "en": "So this is a verb, right?",
+      "zh": "所以这是一个动词，对吧？"
+    },
+    {
+      "id": 65,
+      "start": 194.34,
+      "end": 195.34,
+      "en": "To weigh.",
+      "zh": "称重。"
+    },
+    {
+      "id": 66,
+      "start": 195.34,
+      "end": 200.61,
+      "en": "So you want to know how many kilos or how many pounds this item has.",
+      "zh": "所以你想知道这个项目有多少公斤或多少磅。"
+    },
+    {
+      "id": 67,
+      "start": 201.09,
+      "end": 201.25,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 68,
+      "start": 201.33,
+      "end": 205.47,
+      "en": "So we could say, it weighs a lot or how much do you weigh?",
+      "zh": "所以我们可以说，它很重，或者你有多重？"
+    },
+    {
+      "id": 69,
+      "start": 205.86,
+      "end": 206.15,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 70,
+      "start": 206.86,
+      "end": 207.86,
+      "en": "Things like this.",
+      "zh": "像这样的事情。"
+    },
+    {
+      "id": 71,
+      "start": 207.86,
+      "end": 208.86,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 72,
+      "start": 208.86,
+      "end": 209.86,
+      "en": "Alright.",
+      "zh": "好的。"
+    },
+    {
+      "id": 73,
+      "start": 209.86,
+      "end": 214.14,
+      "en": "Moving on, we have the different types of mailing speeds, I guess, right?",
+      "zh": "继续前进，我们有不同类型的邮寄速度，我猜，对吧？"
+    },
+    {
+      "id": 74,
+      "start": 214.14,
+      "end": 218.97,
+      "en": "So we saw three, via priority mail, express mail or standard mail.",
+      "zh": "所以我们通过优先邮件、特快邮件或标准邮件看到了三个。"
+    },
+    {
+      "id": 75,
+      "start": 219.22,
+      "end": 220.22,
+      "en": "So let's go in parts.",
+      "zh": "所以让我们分部分。"
+    },
+    {
+      "id": 76,
+      "start": 220.22,
+      "end": 222.21,
+      "en": "Let's go with the first one, via priority mail.",
+      "zh": "让我们通过 Priority Mail 进行第一个。"
+    },
+    {
+      "id": 77,
+      "start": 223.1,
+      "end": 224.53,
+      "en": "Priority is fast.",
+      "zh": "优先权是快的。"
+    },
+    {
+      "id": 78,
+      "start": 224.98,
+      "end": 227.22,
+      "en": "It means priority is something that's important.",
+      "zh": "这意味着优先级是重要的事情。"
+    },
+    {
+      "id": 79,
+      "start": 227.22,
+      "end": 229.21,
+      "en": "So I have many priorities at work.",
+      "zh": "所以我在工作中有很多优先事项。"
+    },
+    {
+      "id": 80,
+      "start": 229.74,
+      "end": 230.89,
+      "en": "This means they're important.",
+      "zh": "这意味着它们很重要。"
+    },
+    {
+      "id": 81,
+      "start": 231.44,
+      "end": 232.44,
+      "en": "Very important.",
+      "zh": "非常重要。"
+    },
+    {
+      "id": 82,
+      "start": 232.44,
+      "end": 234.12,
+      "en": "So this letter has a certain importance.",
+      "zh": "所以这封信有一定的重要性。"
+    },
+    {
+      "id": 83,
+      "start": 234.98,
+      "end": 238.06,
+      "en": "It's a little bit more important than for example, the other letters.",
+      "zh": "它比其他字母更重要一点。"
+    },
+    {
+      "id": 84,
+      "start": 238.98,
+      "end": 239.1,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 85,
+      "start": 239.98,
+      "end": 242.38,
+      "en": "But express is the most important, the fastest.",
+      "zh": "但快递是最重要、最快的。"
+    },
+    {
+      "id": 86,
+      "start": 243.34,
+      "end": 245.6,
+      "en": "So something that's express is fast.",
+      "zh": "所以表达的东西很快。"
+    },
+    {
+      "id": 87,
+      "start": 245.84,
+      "end": 248.32,
+      "en": "Like an expressway is the fast highway.",
+      "zh": "就像高速公路是快速的高速公路。"
+    },
+    {
+      "id": 88,
+      "start": 249.1,
+      "end": 249.82,
+      "en": "Express mail.",
+      "zh": "快递邮件。"
+    },
+    {
+      "id": 89,
+      "start": 250.58,
+      "end": 251.58,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 90,
+      "start": 251.58,
+      "end": 252.28,
+      "en": "So express mail is the fastest.",
+      "zh": "所以快递是最快的。"
+    },
+    {
+      "id": 91,
+      "start": 253.26,
+      "end": 257.35,
+      "en": "And now the normal cheapest mail is standard mail.",
+      "zh": "而现在最便宜的邮件是标准邮件。"
+    },
+    {
+      "id": 92,
+      "start": 257.78,
+      "end": 257.95,
+      "en": "Standard.",
+      "zh": "标准。"
+    },
+    {
+      "id": 93,
+      "start": 258.78,
+      "end": 263.57,
+      "en": "So the word standard usually means the average or the normal mail.",
+      "zh": "所以标准一词通常是指平均邮件或普通邮件。"
+    },
+    {
+      "id": 94,
+      "start": 264.26,
+      "end": 266.35,
+      "en": "And in this case, it usually takes the longest.",
+      "zh": "在这种情况下，它通常需要最长的时间。"
+    },
+    {
+      "id": 95,
+      "start": 267.02,
+      "end": 268.02,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 96,
+      "start": 268.02,
+      "end": 269.89,
+      "en": "So obviously standard mail is the cheapest.",
+      "zh": "所以显然标准邮件是最便宜的。"
+    },
+    {
+      "id": 97,
+      "start": 270.51,
+      "end": 273.95,
+      "en": "Express mail is the most expensive because it's the fastest.",
+      "zh": "快递是最贵的，因为它是最快的。"
+    },
+    {
+      "id": 98,
+      "start": 274.41,
+      "end": 275.05,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 99,
+      "start": 275.47,
+      "end": 276.89,
+      "en": "So we've got all of those speeds.",
+      "zh": "所以我们有了所有这些速度。"
+    },
+    {
+      "id": 100,
+      "start": 276.89,
+      "end": 285.41,
+      "en": "Now let's listen again to today's dialogue and try and listen for the words we just talked about and we'll be back in a moment to talk about some important phrases.",
+      "zh": "现在让我们再听一次今天的对话，试着听我们刚才谈到的单词，我们会在一会儿回来谈论一些重要的短语。"
+    },
+    {
+      "id": 101,
+      "start": 290.44,
+      "end": 294.0,
+      "en": "Hi, I would like to send this package to China and these postcards as well.",
+      "zh": "嗨，我想把这个包裹寄到中国和这些明信片。"
+    },
+    {
+      "id": 102,
+      "start": 294.3,
+      "end": 294.78,
+      "en": "Very well.",
+      "zh": "很好。"
+    },
+    {
+      "id": 103,
+      "start": 295.16,
+      "end": 298.24,
+      "en": "You will need some stamps for the postcards and I need to weigh that package too.",
+      "zh": "你需要一些明信片的邮票，我也需要称重那个包裹。"
+    },
+    {
+      "id": 104,
+      "start": 298.64,
+      "end": 298.84,
+      "en": "Great.",
+      "zh": "太好了。"
+    },
+    {
+      "id": 105,
+      "start": 299.3,
+      "end": 300.5,
+      "en": "How much is this going to cost?",
+      "zh": "这要花多少钱？"
+    },
+    {
+      "id": 106,
+      "start": 301.1,
+      "end": 301.78,
+      "en": "Well it depends.",
+      "zh": "好吧，这取决于。"
+    },
+    {
+      "id": 107,
+      "start": 302.2,
+      "end": 305.12,
+      "en": "Do you want to send it via priority, express or standard mail?",
+      "zh": "您想通过优先邮件、快递或标准邮件发送它吗？"
+    },
+    {
+      "id": 108,
+      "start": 305.46,
+      "end": 306.18,
+      "en": "What's the difference?",
+      "zh": "有什么区别？"
+    },
+    {
+      "id": 109,
+      "start": 306.74,
+      "end": 309.14,
+      "en": "Well, standard mail can take up to 15 working days.",
+      "zh": "好吧，标准邮件最多可能需要 15 个工作日。"
+    },
+    {
+      "id": 110,
+      "start": 309.46,
+      "end": 312.82,
+      "en": "Priority is a bit faster and will arrive in about five to eight working days.",
+      "zh": "优先级要快一些，大约在五到八个工作日内到达。"
+    },
+    {
+      "id": 111,
+      "start": 313.3,
+      "end": 315.72,
+      "en": "Express is the fastest but it's also the most expensive.",
+      "zh": "特快专递最快，但也最贵。"
+    },
+    {
+      "id": 112,
+      "start": 316.28,
+      "end": 318.76,
+      "en": "It only takes three days and you can track your package online.",
+      "zh": "只需三天，您就可以在线跟踪您的包裹。"
+    },
+    {
+      "id": 113,
+      "start": 319.34,
+      "end": 319.82,
+      "en": "I see.",
+      "zh": "我明白了。"
+    },
+    {
+      "id": 114,
+      "start": 320.4,
+      "end": 321.14,
+      "en": "Well, there's no rush.",
+      "zh": "好吧，没有匆忙。"
+    },
+    {
+      "id": 115,
+      "start": 321.72,
+      "end": 323.2,
+      "en": "Please send it via priority mail.",
+      "zh": "请通过优先邮件发送。"
+    },
+    {
+      "id": 116,
+      "start": 323.84,
+      "end": 326.38,
+      "en": "Please be extra careful, the contents of the package are fragile.",
+      "zh": "请格外小心，包内内容易碎。"
+    },
+    {
+      "id": 117,
+      "start": 330.11,
+      "end": 335.09,
+      "en": "Alright we're back so now let's take a look at three key phrases on Fluency Builder.",
+      "zh": "好吧，我们回来了，所以现在让我们来看看 Fluency Builder 上的三个关键短语。"
+    },
+    {
+      "id": 118,
+      "start": 336.9,
+      "end": 337.8,
+      "en": "Fluency Builder.",
+      "zh": "流利表达。"
+    },
+    {
+      "id": 119,
+      "start": 338.46,
+      "end": 343.5,
+      "en": "Alright, so the first phrase today is one that I like to use a lot.",
+      "zh": "好吧，所以今天的第一个短语是我经常使用的一个短语。"
+    },
+    {
+      "id": 120,
+      "start": 343.5,
+      "end": 345.31,
+      "en": "We say, it depends.",
+      "zh": "我们说，这取决于。"
+    },
+    {
+      "id": 121,
+      "start": 346.98,
+      "end": 347.87,
+      "en": "How much is this going to cost?",
+      "zh": "这要花多少钱？"
+    },
+    {
+      "id": 122,
+      "start": 348.3,
+      "end": 350.34,
+      "en": "Well, it depends.",
+      "zh": "嗯，这要看情况。"
+    },
+    {
+      "id": 123,
+      "start": 350.34,
+      "end": 351.73,
+      "en": "So the phrase could be, it depends.",
+      "zh": "所以这句话可能是，这取决于。"
+    },
+    {
+      "id": 124,
+      "start": 353.02,
+      "end": 353.99,
+      "en": "So it depends.",
+      "zh": "所以这取决于。"
+    },
+    {
+      "id": 125,
+      "start": 354.7,
+      "end": 355.71,
+      "en": "When do you usually use this?",
+      "zh": "你通常什么时候使用这个？"
+    },
+    {
+      "id": 126,
+      "start": 356.45,
+      "end": 362.69,
+      "en": "Okay, if you ask me a question, I can have one answer but maybe there's another possible answer.",
+      "zh": "好的，如果你问我一个问题，我可以有一个答案，但也许还有另一个可能的答案。"
+    },
+    {
+      "id": 127,
+      "start": 363.24,
+      "end": 366.46,
+      "en": "For example, what are you going to wear tomorrow, Marco?",
+      "zh": "例如，你明天要穿什么，马可？"
+    },
+    {
+      "id": 128,
+      "start": 366.9,
+      "end": 369.2,
+      "en": "It depends if it rains or not.",
+      "zh": "这取决于下雨与否。"
+    },
+    {
+      "id": 129,
+      "start": 369.74,
+      "end": 370.6,
+      "en": "Okay, it depends.",
+      "zh": "好的，这取决于。"
+    },
+    {
+      "id": 130,
+      "start": 371.26,
+      "end": 374.72,
+      "en": "If it rains, I will wear a raincoat.",
+      "zh": "如果下雨，我会穿雨衣。"
+    },
+    {
+      "id": 131,
+      "start": 375.54,
+      "end": 379.92,
+      "en": "If it's sunny, I will wear a normal coat.",
+      "zh": "如果天气晴朗，我会穿普通外套。"
+    },
+    {
+      "id": 132,
+      "start": 379.92,
+      "end": 387.54,
+      "en": "So it depends means there is a situation or a circumstance that might change and if it does, my answer will change.",
+      "zh": "因此，这取决于意味着存在可能发生变化的情况或情况，如果发生了变化，我的答案将发生变化。"
+    },
+    {
+      "id": 133,
+      "start": 387.88,
+      "end": 390.54,
+      "en": "Right, so it is a conditional, it depends.",
+      "zh": "对，所以它是有条件的，这取决于。"
+    },
+    {
+      "id": 134,
+      "start": 390.88,
+      "end": 393.38,
+      "en": "For example, I can ask you, what are you going to eat tonight?",
+      "zh": "例如，我可以问你，你今晚要吃什么？"
+    },
+    {
+      "id": 135,
+      "start": 394.02,
+      "end": 394.54,
+      "en": "It depends.",
+      "zh": "那要看情况。"
+    },
+    {
+      "id": 136,
+      "start": 395.51,
+      "end": 400.99,
+      "en": "If I exercise, I'm going to have a hamburger and if I don't exercise, I'll have a salad.",
+      "zh": "如果我锻炼，我会吃一个汉堡包，如果我不运动，我会吃沙拉。"
+    },
+    {
+      "id": 137,
+      "start": 401.19,
+      "end": 402.07,
+      "en": "Nice, okay.",
+      "zh": "不错，好的。"
+    },
+    {
+      "id": 138,
+      "start": 402.61,
+      "end": 403.25,
+      "en": "So it depends.",
+      "zh": "所以这取决于。"
+    },
+    {
+      "id": 139,
+      "start": 404.07,
+      "end": 410.15,
+      "en": "Now we have another phrase when they were talking about how long it's going to take to mail something.",
+      "zh": "现在，当他们谈论邮寄某些东西需要多长时间时，我们还有另一个短语。"
+    },
+    {
+      "id": 140,
+      "start": 410.91,
+      "end": 415.37,
+      "en": "He said standard mail can take up to 15 working days.",
+      "zh": "他说，标准邮件最多可能需要 15 个工作日。"
+    },
+    {
+      "id": 141,
+      "start": 415.65,
+      "end": 417.85,
+      "en": "So we have this little phrase there, up to.",
+      "zh": "所以我们有这个小短语，直到。"
+    },
+    {
+      "id": 142,
+      "start": 419.02,
+      "end": 419.29,
+      "en": "Up to.",
+      "zh": "至。"
+    },
+    {
+      "id": 143,
+      "start": 420.02,
+      "end": 427.27,
+      "en": "So up to, when you hear this, these two words together, that's an indication, it's a sign that we're talking about the maximum, the most.",
+      "zh": "所以直到，当你听到这个，这两个词在一起，这是一个迹象，它表明我们正在谈论最大，最多。"
+    },
+    {
+      "id": 144,
+      "start": 428.38,
+      "end": 433.9,
+      "en": "Okay so tomorrow, the temperature might go up to 24 degrees Celsius.",
+      "zh": "好的，明天温度可能会升至 24 摄氏度。"
+    },
+    {
+      "id": 145,
+      "start": 433.9,
+      "end": 437.07,
+      "en": "Okay so the temperature maximum will reach 24.",
+      "zh": "好的，温度最高将达到24。"
+    },
+    {
+      "id": 146,
+      "start": 437.3,
+      "end": 439.5,
+      "en": "It could be maybe 22, 21.",
+      "zh": "可能是22、21。"
+    },
+    {
+      "id": 147,
+      "start": 439.5,
+      "end": 440.03,
+      "en": "But not 25.",
+      "zh": "但不是25。"
+    },
+    {
+      "id": 148,
+      "start": 440.5,
+      "end": 441.5,
+      "en": "Not 25.",
+      "zh": "不是25。"
+    },
+    {
+      "id": 149,
+      "start": 441.5,
+      "end": 443.3,
+      "en": "No, because up to means the top.",
+      "zh": "不，因为最多意味着顶部。"
+    },
+    {
+      "id": 150,
+      "start": 443.3,
+      "end": 445.3,
+      "en": "So you're usually dealing with numbers, right?",
+      "zh": "所以你通常会处理数字，对吧？"
+    },
+    {
+      "id": 151,
+      "start": 445.3,
+      "end": 448.99,
+      "en": "For example, this coat can cost up to $150.",
+      "zh": "例如，这件外套的价格可能高达 150 美元。"
+    },
+    {
+      "id": 152,
+      "start": 449.73,
+      "end": 451.93,
+      "en": "Wow, so the most I will spend is $150.",
+      "zh": "哇，所以我花的最多是 150 美元。"
+    },
+    {
+      "id": 153,
+      "start": 453.53,
+      "end": 457.89,
+      "en": "So sometimes you have a number like this when we're talking about sending a package.",
+      "zh": "所以有时当我们谈论发送包裹时，你有一个这样的数字。"
+    },
+    {
+      "id": 154,
+      "start": 458.73,
+      "end": 462.55,
+      "en": "We can send packages that weigh up to 10 kilos.",
+      "zh": "我们可以发送重达 10 公斤的包裹。"
+    },
+    {
+      "id": 155,
+      "start": 462.75,
+      "end": 464.69,
+      "en": "Not more than 10 kilos though.",
+      "zh": "不过不超过10公斤。"
+    },
+    {
+      "id": 156,
+      "start": 464.99,
+      "end": 466.11,
+      "en": "Okay, very good.",
+      "zh": "好，很好。"
+    },
+    {
+      "id": 157,
+      "start": 466.79,
+      "end": 472.65,
+      "en": "And now for our last phrase to close off the dialogue, the guy said, well you know what, there's no rush.",
+      "zh": "现在我们的最后一句话结束对话，那家伙说，你知道吗，不着急。"
+    },
+    {
+      "id": 158,
+      "start": 473.09,
+      "end": 473.91,
+      "en": "No rush.",
+      "zh": "不急。"
+    },
+    {
+      "id": 159,
+      "start": 473.91,
+      "end": 474.63,
+      "en": "There's no rush.",
+      "zh": "没有匆忙。"
+    },
+    {
+      "id": 160,
+      "start": 474.79,
+      "end": 478.17,
+      "en": "Okay, well the first word we want to look at here is the word rush.",
+      "zh": "好吧，我们想在这里看的第一个词是拉什这个词。"
+    },
+    {
+      "id": 161,
+      "start": 479.18,
+      "end": 482.74,
+      "en": "In this case, we're talking about sending a package and the postcard, right?",
+      "zh": "在这种情况下，我们谈论的是发送包裹和明信片，对吧？"
+    },
+    {
+      "id": 162,
+      "start": 482.75,
+      "end": 485.59,
+      "en": "So does this person want it to arrive fast?",
+      "zh": "那么这个人是否希望它快点到达？"
+    },
+    {
+      "id": 163,
+      "start": 485.77,
+      "end": 486.25,
+      "en": "He says no.",
+      "zh": "他说没有。"
+    },
+    {
+      "id": 164,
+      "start": 486.53,
+      "end": 487.91,
+      "en": "No, there's no rush.",
+      "zh": "不，没有匆忙。"
+    },
+    {
+      "id": 165,
+      "start": 488.25,
+      "end": 489.11,
+      "en": "Let's send it standard.",
+      "zh": "让我们标准发送。"
+    },
+    {
+      "id": 166,
+      "start": 489.15,
+      "end": 489.79,
+      "en": "It's cheaper.",
+      "zh": "它更便宜。"
+    },
+    {
+      "id": 167,
+      "start": 490.33,
+      "end": 495.01,
+      "en": "Okay, so maybe your friend is like, come on, we're going to be late.",
+      "zh": "好吧，也许你的朋友会说，来吧，我们会迟到的。"
+    },
+    {
+      "id": 168,
+      "start": 495.18,
+      "end": 496.74,
+      "en": "And you're like, no, there's no rush.",
+      "zh": "你就像，不，没有匆忙。"
+    },
+    {
+      "id": 169,
+      "start": 497.67,
+      "end": 499.77,
+      "en": "We have one hour before the movie starts.",
+      "zh": "我们有一小时的电影开始前。"
+    },
+    {
+      "id": 170,
+      "start": 500.07,
+      "end": 500.69,
+      "en": "Calm down.",
+      "zh": "冷静点。"
+    },
+    {
+      "id": 171,
+      "start": 500.85,
+      "end": 502.59,
+      "en": "Okay, so you're not in a hurry.",
+      "zh": "好吧，所以你不着急。"
+    },
+    {
+      "id": 172,
+      "start": 502.87,
+      "end": 503.83,
+      "en": "No, there's no rush.",
+      "zh": "不，没有匆忙。"
+    },
+    {
+      "id": 173,
+      "start": 504.45,
+      "end": 504.83,
+      "en": "Slow down.",
+      "zh": "慢一点。"
+    },
+    {
+      "id": 174,
+      "start": 505.11,
+      "end": 505.45,
+      "en": "It's okay.",
+      "zh": "没关系。"
+    },
+    {
+      "id": 175,
+      "start": 506.47,
+      "end": 511.15,
+      "en": "This is a good one to talk about with friends or if you're working on a project at work.",
+      "zh": "这是与朋友或工作中的项目合作的好方法。"
+    },
+    {
+      "id": 176,
+      "start": 511.35,
+      "end": 512.59,
+      "en": "You say, listen, there's no rush.",
+      "zh": "你说，听着，不急。"
+    },
+    {
+      "id": 177,
+      "start": 513.17,
+      "end": 513.93,
+      "en": "Take your time.",
+      "zh": "慢慢来。"
+    },
+    {
+      "id": 178,
+      "start": 514.13,
+      "end": 515.25,
+      "en": "Okay, very good.",
+      "zh": "好，很好。"
+    },
+    {
+      "id": 179,
+      "start": 515.77,
+      "end": 518.11,
+      "en": "So let's go back to our dialogue.",
+      "zh": "所以让我们回到我们的对话。"
+    },
+    {
+      "id": 180,
+      "start": 518.41,
+      "end": 521.9,
+      "en": "Let's listen to it for the very last time and we'll be back in a bit.",
+      "zh": "让我们最后一次听，我们会回来的。"
+    },
+    {
+      "id": 181,
+      "start": 530.28,
+      "end": 533.84,
+      "en": "Hi, I would like to send this package to China and these postcards as well.",
+      "zh": "嗨，我想把这个包裹寄到中国和这些明信片。"
+    },
+    {
+      "id": 182,
+      "start": 534.12,
+      "end": 534.6,
+      "en": "Very well.",
+      "zh": "很好。"
+    },
+    {
+      "id": 183,
+      "start": 535.02,
+      "end": 538.08,
+      "en": "You will need some stamps for the postcards and I need to weigh that package too.",
+      "zh": "你需要一些明信片的邮票，我也需要称重那个包裹。"
+    },
+    {
+      "id": 184,
+      "start": 538.44,
+      "end": 538.66,
+      "en": "Great.",
+      "zh": "太好了。"
+    },
+    {
+      "id": 185,
+      "start": 539.12,
+      "end": 540.32,
+      "en": "How much is this going to cost?",
+      "zh": "这要花多少钱？"
+    },
+    {
+      "id": 186,
+      "start": 540.88,
+      "end": 541.6,
+      "en": "Well, it depends.",
+      "zh": "嗯，这要看情况。"
+    },
+    {
+      "id": 187,
+      "start": 542.04,
+      "end": 544.94,
+      "en": "Do you want to send it via priority, express or standard mail?",
+      "zh": "您想通过优先邮件、快递或标准邮件发送它吗？"
+    },
+    {
+      "id": 188,
+      "start": 545.28,
+      "end": 546.02,
+      "en": "What's the difference?",
+      "zh": "有什么区别？"
+    },
+    {
+      "id": 189,
+      "start": 546.58,
+      "end": 548.98,
+      "en": "Well, standard mail can take up to 15 working days.",
+      "zh": "好吧，标准邮件最多可能需要 15 个工作日。"
+    },
+    {
+      "id": 190,
+      "start": 549.3,
+      "end": 552.64,
+      "en": "Priority is a bit faster and will arrive in about five to eight working days.",
+      "zh": "优先级要快一些，大约在五到八个工作日内到达。"
+    },
+    {
+      "id": 191,
+      "start": 553.14,
+      "end": 555.58,
+      "en": "Express is the fastest, but it's also the most expensive.",
+      "zh": "快递是最快的，但也是最贵的。"
+    },
+    {
+      "id": 192,
+      "start": 556.1,
+      "end": 558.6,
+      "en": "It only takes three days and you can track your package online.",
+      "zh": "只需三天，您就可以在线跟踪您的包裹。"
+    },
+    {
+      "id": 193,
+      "start": 559.18,
+      "end": 559.64,
+      "en": "I see.",
+      "zh": "我明白了。"
+    },
+    {
+      "id": 194,
+      "start": 560.24,
+      "end": 560.96,
+      "en": "Well, there's no rush.",
+      "zh": "好吧，没有匆忙。"
+    },
+    {
+      "id": 195,
+      "start": 561.58,
+      "end": 563.04,
+      "en": "Please send it via priority mail.",
+      "zh": "请通过优先邮件发送。"
+    },
+    {
+      "id": 196,
+      "start": 563.7,
+      "end": 564.7,
+      "en": "Please be extra careful.",
+      "zh": "请格外小心。"
+    },
+    {
+      "id": 197,
+      "start": 564.7,
+      "end": 566.26,
+      "en": "The contents of the package are fragile.",
+      "zh": "包裹里装的是易碎品。"
+    },
+    {
+      "id": 198,
+      "start": 572.4,
+      "end": 573.42,
+      "en": "All right, we're back.",
+      "zh": "好了，我们回来了。"
+    },
+    {
+      "id": 199,
+      "start": 573.66,
+      "end": 578.04,
+      "en": "So now, Catherine, do you usually send postcards when you are abroad, when you travel?",
+      "zh": "所以现在，凯瑟琳，你在国外、旅行时通常会寄明信片吗？"
+    },
+    {
+      "id": 200,
+      "start": 578.38,
+      "end": 579.52,
+      "en": "Yes, I love postcards.",
+      "zh": "是的，我喜欢明信片。"
+    },
+    {
+      "id": 201,
+      "start": 579.84,
+      "end": 584.8,
+      "en": "And actually, I have some friends who have an amazing postcard collection.",
+      "zh": "实际上，我有一些朋友有惊人的明信片收藏。"
+    },
+    {
+      "id": 202,
+      "start": 585.28,
+      "end": 585.62,
+      "en": "Oh, really?",
+      "zh": "哦，真的吗？"
+    },
+    {
+      "id": 203,
+      "start": 586.08,
+      "end": 587.38,
+      "en": "But it's not normal postcards.",
+      "zh": "但这不是普通的明信片。"
+    },
+    {
+      "id": 204,
+      "start": 588.7,
+      "end": 594.84,
+      "en": "They find the most ugly postcards and they buy them and they write silly notes and they send them to themselves.",
+      "zh": "他们找到了最丑陋的明信片，然后买了，然后写了愚蠢的笔记，然后把它们寄给自己。"
+    },
+    {
+      "id": 205,
+      "start": 595.42,
+      "end": 595.7,
+      "en": "Oh, really?",
+      "zh": "哦，真的吗？"
+    },
+    {
+      "id": 206,
+      "start": 596.56,
+      "end": 601.44,
+      "en": "I have the tradition of always sending my parents and my grandparents a postcard when I'm abroad.",
+      "zh": "我有在国外时总是给父母和祖父母寄明信片的传统。"
+    },
+    {
+      "id": 207,
+      "start": 601.64,
+      "end": 602.16,
+      "en": "That's so sweet.",
+      "zh": "太甜了。"
+    },
+    {
+      "id": 208,
+      "start": 602.94,
+      "end": 605.0,
+      "en": "They have a collection of all the places you've been.",
+      "zh": "他们有你去过的所有地方的集合。"
+    },
+    {
+      "id": 209,
+      "start": 605.3,
+      "end": 606.3,
+      "en": "Yeah, yeah.",
+      "zh": "对，对。"
+    },
+    {
+      "id": 210,
+      "start": 606.3,
+      "end": 612.3,
+      "en": "So all the time, wherever I am, the first thing that I try to do if I'm in a cool place, I send them a postcard.",
+      "zh": "所以一直，无论我在哪里，如果我在一个凉爽的地方，我会尝试做的第一件事，我会寄给他们一张明信片。"
+    },
+    {
+      "id": 211,
+      "start": 612.3,
+      "end": 619.42,
+      "en": "And sometimes if I'm in a country in various cities and there are some nice things in, for example, two or three cities, I'll send them three postcards.",
+      "zh": "有时，如果我在各个城市的一个国家，例如两三个城市，我会寄给他们三张明信片。"
+    },
+    {
+      "id": 212,
+      "start": 619.81,
+      "end": 620.33,
+      "en": "That's awesome.",
+      "zh": "太棒了。"
+    },
+    {
+      "id": 213,
+      "start": 620.7,
+      "end": 623.1,
+      "en": "So do they have a book at home with all of these postcards?",
+      "zh": "那么他们家里有一本书，里面有所有这些明信片吗？"
+    },
+    {
+      "id": 214,
+      "start": 623.1,
+      "end": 624.1,
+      "en": "Yeah, they do.",
+      "zh": "对，他们会。"
+    },
+    {
+      "id": 215,
+      "start": 624.1,
+      "end": 630.31,
+      "en": "So I just send them a little thing, how I'm doing and how great it is and wish you could be here, little notes.",
+      "zh": "所以我只是给他们发一些东西，我做得如何，它有多棒，希望你能在这里，小笔记。"
+    },
+    {
+      "id": 216,
+      "start": 630.58,
+      "end": 632.27,
+      "en": "And then they have all the collection.",
+      "zh": "然后他们拥有所有的收藏。"
+    },
+    {
+      "id": 217,
+      "start": 632.92,
+      "end": 638.13,
+      "en": "It's really cool because that way I've actually kept track a little bit of what year and what date I was in certain places.",
+      "zh": "这真的很酷，因为这样我实际上一直在跟踪我在某些地方的哪一年和哪个日期。"
+    },
+    {
+      "id": 218,
+      "start": 638.42,
+      "end": 639.42,
+      "en": "Wow.",
+      "zh": "哇。"
+    },
+    {
+      "id": 219,
+      "start": 639.42,
+      "end": 642.41,
+      "en": "Well, it's also nice because postcards, you don't need to write a very long note.",
+      "zh": "嗯，这也很好，因为明信片，你不需要写很长的便条。"
+    },
+    {
+      "id": 220,
+      "start": 642.86,
+      "end": 643.23,
+      "en": "There's no space.",
+      "zh": "没有空间。"
+    },
+    {
+      "id": 221,
+      "start": 643.86,
+      "end": 644.57,
+      "en": "You just write a short note.",
+      "zh": "你只是写一个简短的笔记。"
+    },
+    {
+      "id": 222,
+      "start": 644.86,
+      "end": 645.95,
+      "en": "You say, hi, how's the weather?",
+      "zh": "你说，嗨，天气怎么样？"
+    },
+    {
+      "id": 223,
+      "start": 646.58,
+      "end": 646.77,
+      "en": "Miss you.",
+      "zh": "想念你。"
+    },
+    {
+      "id": 224,
+      "start": 647.58,
+      "end": 648.58,
+      "en": "Wish you were here.",
+      "zh": "希望你在这里。"
+    },
+    {
+      "id": 225,
+      "start": 648.58,
+      "end": 649.58,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 226,
+      "start": 649.58,
+      "end": 650.58,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 227,
+      "start": 650.58,
+      "end": 651.98,
+      "en": "So that's all the time we have for today.",
+      "zh": "好了，今天的节目就到这里。"
+    },
+    {
+      "id": 228,
+      "start": 651.98,
+      "end": 655.2,
+      "en": "But let us know if you've had any inconveniences at the post office.",
+      "zh": "但是，如果您在邮局有任何不便，请告诉我们。"
+    },
+    {
+      "id": 229,
+      "start": 655.42,
+      "end": 657.06,
+      "en": "I actually had one once.",
+      "zh": "我真的有一次。"
+    },
+    {
+      "id": 230,
+      "start": 657.06,
+      "end": 660.46,
+      "en": "I couldn't send batteries through the mail because they have acid apparently.",
+      "zh": "我无法通过邮件发送电池，因为它们显然有酸性。"
+    },
+    {
+      "id": 231,
+      "start": 660.86,
+      "end": 661.22,
+      "en": "Oh, yeah.",
+      "zh": "哦，对。"
+    },
+    {
+      "id": 232,
+      "start": 661.34,
+      "end": 662.58,
+      "en": "It's very difficult to send.",
+      "zh": "发送非常困难。"
+    },
+    {
+      "id": 233,
+      "start": 663.02,
+      "end": 666.2,
+      "en": "So maybe you've had a situation like this before.",
+      "zh": "所以也许你以前有过这样的情况。"
+    },
+    {
+      "id": 234,
+      "start": 666.62,
+      "end": 668.62,
+      "en": "Let us know, EnglishPod.com.",
+      "zh": "让我们知道，Englishpod.com。"
+    },
+    {
+      "id": 235,
+      "start": 668.62,
+      "end": 669.62,
+      "en": "We'll see you guys there.",
+      "zh": "到时候在那里见。"
+    },
+    {
+      "id": 236,
+      "start": 669.62,
+      "end": 669.78,
+      "en": "Bye, everyone.",
+      "zh": "大家再见。"
+    },
+    {
+      "id": 237,
+      "start": 670.62,
+      "end": 677.355,
+      "en": "Bye.",
+      "zh": "再见。"
+    }
+  ],
+  "dialog": {
+    "start": 32.52,
+    "end": 68.44,
+    "segmentIds": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26
+    ]
+  }
+}

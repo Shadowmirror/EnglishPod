@@ -1,0 +1,932 @@
+{
+  "version": 1,
+  "id": 3,
+  "number": "0003",
+  "title": "Daily Life - Hotel Upgrade",
+  "audio": "mp3/3. Daily Life - Hotel Upgrade.mp3",
+  "duration": 539.7420625,
+  "segments": [
+    {
+      "id": 1,
+      "start": 2.13,
+      "end": 5.67,
+      "en": "Hello English learners and welcome to EnglishPod.",
+      "zh": "各位英语学习者，大家好，欢迎来到 EnglishPod。"
+    },
+    {
+      "id": 2,
+      "start": 5.95,
+      "end": 6.63,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 7.09,
+      "end": 7.57,
+      "en": "I'm Amira.",
+      "zh": "我叫 Amira。"
+    },
+    {
+      "id": 4,
+      "start": 7.93,
+      "end": 13.19,
+      "en": "Amira and I are here today with an interesting lesson about a hotel situation.",
+      "zh": "Amira 和我今天在这里提供了关于酒店情况的有趣课程。"
+    },
+    {
+      "id": 5,
+      "start": 13.83,
+      "end": 16.21,
+      "en": "Amira, why don't you give us a little bit more information?",
+      "zh": "Amira，你为什么不给我们更多的信息呢？"
+    },
+    {
+      "id": 6,
+      "start": 16.85,
+      "end": 25.21,
+      "en": "Well, the situation is taking place in a hotel and someone is checking in and is obtaining an upgrade.",
+      "zh": "好吧，情况发生在酒店，有人正在办理登机手续并正在进行升级。"
+    },
+    {
+      "id": 7,
+      "start": 25.71,
+      "end": 28.51,
+      "en": "An upgrade, okay, that's an interesting word.",
+      "zh": "升级，好吧，这是一个有趣的词。"
+    },
+    {
+      "id": 8,
+      "start": 29.09,
+      "end": 34.53,
+      "en": "Why don't we listen to the dialogue and then we'll come back and explain all this vocabulary.",
+      "zh": "我们为什么不听对话，然后我们会回来解释所有这些词汇。"
+    },
+    {
+      "id": 9,
+      "start": 42.86,
+      "end": 43.26,
+      "en": "Good afternoon.",
+      "zh": "下午好。"
+    },
+    {
+      "id": 10,
+      "start": 43.86,
+      "end": 44.74,
+      "en": "What can I do for you?",
+      "zh": "有什么可以帮您？"
+    },
+    {
+      "id": 11,
+      "start": 45.42,
+      "end": 46.4,
+      "en": "I'd like to check in please.",
+      "zh": "我想办理入住。"
+    },
+    {
+      "id": 12,
+      "start": 46.9,
+      "end": 49.2,
+      "en": "I have a reservation under the name Anthony Roberts.",
+      "zh": "我订了房，预订人是安东尼·罗伯茨。"
+    },
+    {
+      "id": 13,
+      "start": 50.11,
+      "end": 50.77,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 14,
+      "start": 51.68,
+      "end": 52.68,
+      "en": "Roberts.",
+      "zh": "罗伯茨。"
+    },
+    {
+      "id": 15,
+      "start": 53.23,
+      "end": 55.85,
+      "en": "Oh, Mr. Roberts, we've been expecting you.",
+      "zh": "哦，罗伯茨先生，我们正等着您呢。"
+    },
+    {
+      "id": 16,
+      "start": 56.6,
+      "end": 58.97,
+      "en": "And here is your key card to the presidential suite.",
+      "zh": "这是您总统套房的房卡。"
+    },
+    {
+      "id": 17,
+      "start": 60.44,
+      "end": 61.81,
+      "en": "But there must be some mistake.",
+      "zh": "可是这一定是弄错了。"
+    },
+    {
+      "id": 18,
+      "start": 62.08,
+      "end": 63.65,
+      "en": "My reservation was for a standard room.",
+      "zh": "我订的是标准间。"
+    },
+    {
+      "id": 19,
+      "start": 64.29,
+      "end": 64.99,
+      "en": "Are you sure?",
+      "zh": "你确定吗？"
+    },
+    {
+      "id": 20,
+      "start": 65.69,
+      "end": 66.47,
+      "en": "Let me double check.",
+      "zh": "让我再确认一下。"
+    },
+    {
+      "id": 21,
+      "start": 67.11,
+      "end": 69.17,
+      "en": "Yeah, here, this is my confirmation number.",
+      "zh": "对，这是我的预订确认号。"
+    },
+    {
+      "id": 22,
+      "start": 70.64,
+      "end": 72.06,
+      "en": "You're right, Mr. Roberts.",
+      "zh": "您说得对，罗伯茨先生。"
+    },
+    {
+      "id": 23,
+      "start": 72.44,
+      "end": 74.26,
+      "en": "There seems to be a mix up.",
+      "zh": "看来是搞错了。"
+    },
+    {
+      "id": 24,
+      "start": 74.56,
+      "end": 76.66,
+      "en": "Unfortunately, we're overbooked at the moment.",
+      "zh": "很抱歉，我们目前客房超额预订了。"
+    },
+    {
+      "id": 25,
+      "start": 79.0,
+      "end": 79.56,
+      "en": "So?",
+      "zh": "所以呢？"
+    },
+    {
+      "id": 26,
+      "start": 80.44,
+      "end": 80.71,
+      "en": "Not to worry.",
+      "zh": "别担心。"
+    },
+    {
+      "id": 27,
+      "start": 81.44,
+      "end": 83.65,
+      "en": "We're pleased to offer you a complimentary upgrade.",
+      "zh": "我们很高兴为您提供免费升级。"
+    },
+    {
+      "id": 28,
+      "start": 85.72,
+      "end": 90.88,
+      "en": "Presidential suite, baby!",
+      "zh": "总统套房，太棒了！"
+    },
+    {
+      "id": 29,
+      "start": 92.96,
+      "end": 96.1,
+      "en": "Okay, everyone, that is nice, huh?",
+      "zh": "好吧，每个人，这很好，嗯？"
+    },
+    {
+      "id": 30,
+      "start": 96.36,
+      "end": 100.62,
+      "en": "Yeah, the guy is really excited that he's gonna get the presidential suite.",
+      "zh": "是的，这家伙真的很兴奋他会得到总统套房。"
+    },
+    {
+      "id": 31,
+      "start": 100.9,
+      "end": 104.64,
+      "en": "Yes, there's some interesting phrases and vocabulary items here.",
+      "zh": "是的，这里有一些有趣的短语和词汇项目。"
+    },
+    {
+      "id": 32,
+      "start": 104.64,
+      "end": 108.0,
+      "en": "And I know, Marco, you want to talk about some of them.",
+      "zh": "我知道，马可，你想谈谈其中的一些。"
+    },
+    {
+      "id": 33,
+      "start": 108.24,
+      "end": 114.52,
+      "en": "Right, the first one, and this is really useful for all of our listeners who travel a lot.",
+      "zh": "对，第一个，这对我们所有经常旅行的听众来说非常有用。"
+    },
+    {
+      "id": 34,
+      "start": 115.06,
+      "end": 120.3,
+      "en": "This phrase will come in handy and it is, I have a reservation under the name.",
+      "zh": "这句话会派上用场，它是，我有一个名字的保留。"
+    },
+    {
+      "id": 35,
+      "start": 120.76,
+      "end": 122.08,
+      "en": "Under the name.",
+      "zh": "以……的名字。"
+    },
+    {
+      "id": 36,
+      "start": 123.08,
+      "end": 123.86,
+      "en": "Under the name.",
+      "zh": "以……的名字。"
+    },
+    {
+      "id": 37,
+      "start": 124.72,
+      "end": 125.52,
+      "en": "Under the name.",
+      "zh": "以……的名字。"
+    },
+    {
+      "id": 38,
+      "start": 126.04,
+      "end": 136.46,
+      "en": "So before we explain this phrase, let's listen to some examples on how it is used in other situations and then we'll come back and give you more information.",
+      "zh": "所以在我们解释这个短语之前，让我们听一些关于它在其他情况下如何使用的例子，然后我们会回来给你更多的信息。"
+    },
+    {
+      "id": 39,
+      "start": 162.52,
+      "end": 168.72,
+      "en": "Alright some really good examples there on how we could use this phrase in other situations.",
+      "zh": "好吧，我们如何在其他情况下使用这个短语的一些非常好的例子。"
+    },
+    {
+      "id": 40,
+      "start": 169.76,
+      "end": 172.38,
+      "en": "But just in case, let me explain it real fast.",
+      "zh": "但以防万一，让我快速解释一下。"
+    },
+    {
+      "id": 41,
+      "start": 173.14,
+      "end": 186.46,
+      "en": "Under the name means that when you go to the restaurant or a hotel and you tell them your name, they know that you are the person that they have been expecting, they have been waiting.",
+      "zh": "下名是指当你去餐厅或酒店告诉他们你的名字时，他们知道你是他们一直期待的人，他们一直在等待。"
+    },
+    {
+      "id": 42,
+      "start": 187.08,
+      "end": 188.08,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 43,
+      "start": 188.08,
+      "end": 193.42,
+      "en": "Well, I have chosen another useful phrase for you and it is mix up.",
+      "zh": "好吧，我为你选择了另一个有用的短语，它是混合的。"
+    },
+    {
+      "id": 44,
+      "start": 194.4,
+      "end": 194.6,
+      "en": "Mix up.",
+      "zh": "弄混。"
+    },
+    {
+      "id": 45,
+      "start": 195.76,
+      "end": 196.1,
+      "en": "Mix up.",
+      "zh": "弄混。"
+    },
+    {
+      "id": 46,
+      "start": 197.08,
+      "end": 198.08,
+      "en": "Mix up.",
+      "zh": "弄混。"
+    },
+    {
+      "id": 47,
+      "start": 198.08,
+      "end": 199.59,
+      "en": "There seems to be a mix up.",
+      "zh": "看来是搞错了。"
+    },
+    {
+      "id": 48,
+      "start": 200.6,
+      "end": 205.67,
+      "en": "Before we talk about this phrase, let's listen to some examples of how it is used.",
+      "zh": "在我们谈论这个短语之前，让我们听听一些关于它如何使用的例子。"
+    },
+    {
+      "id": 49,
+      "start": 214.6,
+      "end": 217.76,
+      "en": "There was a mix up at the airport and my bags were sent to Antarctica.",
+      "zh": "机场有混音，我的行李被送到南极洲。"
+    },
+    {
+      "id": 50,
+      "start": 227.52,
+      "end": 229.72,
+      "en": "I'm sorry sir, there's been a terrible mix up.",
+      "zh": "对不起，先生，有一个可怕的混淆。"
+    },
+    {
+      "id": 51,
+      "start": 230.44,
+      "end": 238.6,
+      "en": "We've given you the wrong baby.",
+      "zh": "我们给了你错误的宝贝。"
+    },
+    {
+      "id": 52,
+      "start": 238.6,
+      "end": 240.41,
+      "en": "Okay that was useful and funny.",
+      "zh": "好吧，这很有用也很有趣。"
+    },
+    {
+      "id": 53,
+      "start": 240.84,
+      "end": 242.69,
+      "en": "Yeah, that's the baby situation.",
+      "zh": "是的，这就是婴儿的情况。"
+    },
+    {
+      "id": 54,
+      "start": 243.2,
+      "end": 243.87,
+      "en": "Oh my god.",
+      "zh": "哦，我的上帝。"
+    },
+    {
+      "id": 55,
+      "start": 244.2,
+      "end": 245.2,
+      "en": "I can't imagine that happening.",
+      "zh": "我无法想象会发生这种情况。"
+    },
+    {
+      "id": 56,
+      "start": 245.47,
+      "end": 246.05,
+      "en": "Yeah, I know.",
+      "zh": "对，我知道。"
+    },
+    {
+      "id": 57,
+      "start": 246.33,
+      "end": 251.37,
+      "en": "Well guys, so a mix up is a confusion or a misunderstanding.",
+      "zh": "好吧，伙计们，所以混淆是混乱或误解。"
+    },
+    {
+      "id": 58,
+      "start": 252.65,
+      "end": 253.73,
+      "en": "Exactly, well put.",
+      "zh": "没错，说得好。"
+    },
+    {
+      "id": 59,
+      "start": 254.2,
+      "end": 256.56,
+      "en": "Alright Marco, what do you have for us?",
+      "zh": "好吧，马可，你有什么给我们的？"
+    },
+    {
+      "id": 60,
+      "start": 256.56,
+      "end": 261.03,
+      "en": "Okay, the next word that we should take a look at is overbooked.",
+      "zh": "好的，我们应该看的下一个词被超额预订了。"
+    },
+    {
+      "id": 61,
+      "start": 262.19,
+      "end": 262.67,
+      "en": "Overbooked.",
+      "zh": "超额预订的。"
+    },
+    {
+      "id": 62,
+      "start": 263.33,
+      "end": 263.81,
+      "en": "Overbooked.",
+      "zh": "超额预订的。"
+    },
+    {
+      "id": 63,
+      "start": 263.92,
+      "end": 264.92,
+      "en": "Overbooked.",
+      "zh": "超额预订的。"
+    },
+    {
+      "id": 64,
+      "start": 264.99,
+      "end": 266.05,
+      "en": "What does that mean?",
+      "zh": "那是什么意思？"
+    },
+    {
+      "id": 65,
+      "start": 266.56,
+      "end": 272.0,
+      "en": "So if a hotel or a flight is overbooked, it means that they are full.",
+      "zh": "因此，如果酒店或航班超额预订，则意味着它们已满员。"
+    },
+    {
+      "id": 66,
+      "start": 272.62,
+      "end": 273.78,
+      "en": "They are more than full.",
+      "zh": "他们超过了饱满。"
+    },
+    {
+      "id": 67,
+      "start": 274.08,
+      "end": 277.08,
+      "en": "Right, so they cannot accept any more people.",
+      "zh": "是的，所以他们不能再接受任何人了。"
+    },
+    {
+      "id": 68,
+      "start": 277.44,
+      "end": 277.86,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 69,
+      "start": 278.48,
+      "end": 281.96,
+      "en": "Okay, now why is this phrase useful?",
+      "zh": "好吧，为什么这句话有用？"
+    },
+    {
+      "id": 70,
+      "start": 282.82,
+      "end": 284.84,
+      "en": "Because it happens all the time.",
+      "zh": "因为它一直在发生。"
+    },
+    {
+      "id": 71,
+      "start": 285.32,
+      "end": 292.59,
+      "en": "There's so many other situations where you can use this word or hear it from other native English speakers.",
+      "zh": "还有很多其他情况，您可以使用这个词或从其他以英语为母语的人那里听到它。"
+    },
+    {
+      "id": 72,
+      "start": 292.59,
+      "end": 297.89,
+      "en": "For example, a bus or a train can be overbooked.",
+      "zh": "例如，公共汽车或火车可能会被超额预订。"
+    },
+    {
+      "id": 73,
+      "start": 298.01,
+      "end": 299.79,
+      "en": "Exactly, that's really common.",
+      "zh": "没错，这真的很常见。"
+    },
+    {
+      "id": 74,
+      "start": 300.48,
+      "end": 306.57,
+      "en": "Okay, let's take a look at the last phrase for today and that is complimentary upgrade.",
+      "zh": "好的，让我们看看今天的最后一句话，那就是免费升级。"
+    },
+    {
+      "id": 75,
+      "start": 310.27,
+      "end": 311.12,
+      "en": "Complimentary upgrade.",
+      "zh": "免费升级。"
+    },
+    {
+      "id": 76,
+      "start": 311.12,
+      "end": 311.57,
+      "en": "Complimentary upgrade.",
+      "zh": "免费升级。"
+    },
+    {
+      "id": 77,
+      "start": 313.28,
+      "end": 313.55,
+      "en": "Complimentary upgrade.",
+      "zh": "免费升级。"
+    },
+    {
+      "id": 78,
+      "start": 314.42,
+      "end": 327.93,
+      "en": "So this means that, for example, when the hotel is overbooked and all of their standard rooms are full, they will give you a better room, a more expensive room, but free.",
+      "zh": "因此，这意味着，例如，当酒店超额预订并且所有标准房间都已满时，它们会给您一个更好的房间，一个更昂贵的房间，但免费。"
+    },
+    {
+      "id": 79,
+      "start": 328.51,
+      "end": 330.23,
+      "en": "Yes, because it was not your fault.",
+      "zh": "是的，因为这不是你的错。"
+    },
+    {
+      "id": 80,
+      "start": 330.99,
+      "end": 336.11,
+      "en": "Right, this also happens sometimes, if you're lucky, on airplane flights.",
+      "zh": "对，如果幸运的话，有时也会在飞机上发生这种情况。"
+    },
+    {
+      "id": 81,
+      "start": 336.51,
+      "end": 336.79,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 82,
+      "start": 337.13,
+      "end": 347.27,
+      "en": "So if you are in economy class and an airplane, but for some reason it's overbooked, they will move you to business class or first class for free.",
+      "zh": "因此，如果您在经济舱和飞机上，但由于某种原因被超额预订，他们将免费将您送到商务舱或头等舱。"
+    },
+    {
+      "id": 83,
+      "start": 347.69,
+      "end": 350.93,
+      "en": "I have a similar story, but I'm not going to tell you about it now.",
+      "zh": "我有一个类似的故事，但我现在不打算告诉你。"
+    },
+    {
+      "id": 84,
+      "start": 351.37,
+      "end": 357.99,
+      "en": "For now, let's go and listen to the dialogue one more time and when we come back, we'll talk some more.",
+      "zh": "现在，让我们再听一次对话，当我们回来时，我们会再谈一些。"
+    },
+    {
+      "id": 85,
+      "start": 365.68,
+      "end": 367.5,
+      "en": "Good afternoon, what can I do for you?",
+      "zh": "下午好，我能为你做什么？"
+    },
+    {
+      "id": 86,
+      "start": 367.92,
+      "end": 369.2,
+      "en": "I'd like to check in, please.",
+      "zh": "我想办理登机手续。"
+    },
+    {
+      "id": 87,
+      "start": 369.68,
+      "end": 371.98,
+      "en": "I have a reservation under the name Anthony Roberts.",
+      "zh": "我订了房，预订人是安东尼·罗伯茨。"
+    },
+    {
+      "id": 88,
+      "start": 372.72,
+      "end": 375.12,
+      "en": "All right, Roberts.",
+      "zh": "好吧，罗伯茨。"
+    },
+    {
+      "id": 89,
+      "start": 375.96,
+      "end": 381.72,
+      "en": "Oh, Mr. Roberts, we've been expecting you and here is your key card to the presidential suite.",
+      "zh": "哦，罗伯茨先生，我们一直在等你，这是你的总统套房的钥匙卡。"
+    },
+    {
+      "id": 90,
+      "start": 382.71,
+      "end": 384.59,
+      "en": "But there must be some mistake.",
+      "zh": "可是这一定是弄错了。"
+    },
+    {
+      "id": 91,
+      "start": 384.83,
+      "end": 386.43,
+      "en": "My reservation was for a standard room.",
+      "zh": "我订的是标准间。"
+    },
+    {
+      "id": 92,
+      "start": 387.09,
+      "end": 387.77,
+      "en": "Are you sure?",
+      "zh": "你确定吗？"
+    },
+    {
+      "id": 93,
+      "start": 388.41,
+      "end": 389.23,
+      "en": "Let me double check.",
+      "zh": "让我再确认一下。"
+    },
+    {
+      "id": 94,
+      "start": 389.81,
+      "end": 391.95,
+      "en": "Yeah, here, this is my confirmation number.",
+      "zh": "对，这是我的预订确认号。"
+    },
+    {
+      "id": 95,
+      "start": 393.8,
+      "end": 397.03,
+      "en": "You're right, Mr. Roberts, there seems to be a mix up.",
+      "zh": "你是对的，罗伯茨先生，似乎有一个混淆。"
+    },
+    {
+      "id": 96,
+      "start": 397.48,
+      "end": 399.41,
+      "en": "Unfortunately, we're overbooked at the moment.",
+      "zh": "很抱歉，我们目前客房超额预订了。"
+    },
+    {
+      "id": 97,
+      "start": 401.84,
+      "end": 402.08,
+      "en": "So?",
+      "zh": "所以呢？"
+    },
+    {
+      "id": 98,
+      "start": 402.55,
+      "end": 406.41,
+      "en": "Not to worry, we're pleased to offer you a complimentary upgrade.",
+      "zh": "不用担心，我们很高兴为您提供免费升级。"
+    },
+    {
+      "id": 99,
+      "start": 407.4,
+      "end": 408.52,
+      "en": "Woohoo!",
+      "zh": "好耶！"
+    },
+    {
+      "id": 100,
+      "start": 408.52,
+      "end": 416.64,
+      "en": "Presidential suite, baby!",
+      "zh": "总统套房，太棒了！"
+    },
+    {
+      "id": 101,
+      "start": 416.64,
+      "end": 418.06,
+      "en": "I love listening to this dialogue.",
+      "zh": "我喜欢听这个对话。"
+    },
+    {
+      "id": 102,
+      "start": 418.64,
+      "end": 424.4,
+      "en": "It's just so nice to see that someone is enjoying his upgrade so much.",
+      "zh": "很高兴看到有人如此享受他的升级。"
+    },
+    {
+      "id": 103,
+      "start": 425.04,
+      "end": 431.94,
+      "en": "Yeah, especially since he was expecting just a really normal room and now he's going to be treated like a king.",
+      "zh": "是的，特别是因为他期待一个非常正常的房间，现在他将被当作国王对待。"
+    },
+    {
+      "id": 104,
+      "start": 432.54,
+      "end": 435.6,
+      "en": "So Marco, have you ever gotten a complimentary upgrade?",
+      "zh": "那么马可，你有没有获得过免费升级？"
+    },
+    {
+      "id": 105,
+      "start": 436.32,
+      "end": 437.7,
+      "en": "Yes, yes, I did.",
+      "zh": "对，对，我做了。"
+    },
+    {
+      "id": 106,
+      "start": 438.16,
+      "end": 443.48,
+      "en": "When I was traveling through India, I bought a normal seat in the train.",
+      "zh": "当我在印度旅行时，我在火车上买了一个普通的座位。"
+    },
+    {
+      "id": 107,
+      "start": 444.12,
+      "end": 447.94,
+      "en": "But for some reason, it was overbooked.",
+      "zh": "但由于某种原因，它被超额预订了。"
+    },
+    {
+      "id": 108,
+      "start": 448.3,
+      "end": 455.94,
+      "en": "So I talked to the station manager and I got a complimentary upgrade to first class.",
+      "zh": "所以我和车站经理谈过，我得到了免费升级到头等舱。"
+    },
+    {
+      "id": 109,
+      "start": 456.5,
+      "end": 458.36,
+      "en": "I had a similar experience as well.",
+      "zh": "我也有类似的经历。"
+    },
+    {
+      "id": 110,
+      "start": 458.82,
+      "end": 468.12,
+      "en": "I was flying from Shanghai to Qatar and I actually had an economy seat, but for some reason they just upgraded me and I was so happy.",
+      "zh": "我从上海飞到卡塔尔，我实际上有一个经济舱，但出于某种原因，他们只是升级了我，我很高兴。"
+    },
+    {
+      "id": 111,
+      "start": 468.24,
+      "end": 469.24,
+      "en": "Oh, really?",
+      "zh": "哦，真的吗？"
+    },
+    {
+      "id": 112,
+      "start": 469.24,
+      "end": 470.44,
+      "en": "Like it wasn't overbooked?",
+      "zh": "好像没有超额预订？"
+    },
+    {
+      "id": 113,
+      "start": 470.62,
+      "end": 479.48,
+      "en": "Well, I'm not sure because normally the night flight is not that full, but they upgraded me for some reason and I was so happy.",
+      "zh": "好吧，我不确定，因为通常夜间航班没有那么满，但他们出于某种原因升级了我，我很高兴。"
+    },
+    {
+      "id": 114,
+      "start": 479.48,
+      "end": 481.62,
+      "en": "It was an upgrade to first class.",
+      "zh": "这是对头等舱的升级。"
+    },
+    {
+      "id": 115,
+      "start": 481.94,
+      "end": 483.44,
+      "en": "Wow, that's really cool.",
+      "zh": "哇，这真的很酷。"
+    },
+    {
+      "id": 116,
+      "start": 484.0,
+      "end": 487.96,
+      "en": "I would prefer a first class upgrade on an airplane, yeah, any day.",
+      "zh": "我更喜欢飞机上的头等舱升级，是的，任何一天。"
+    },
+    {
+      "id": 117,
+      "start": 488.1,
+      "end": 491.64,
+      "en": "Well, you know what really amazed me was like the food you get there.",
+      "zh": "好吧，你知道真正让我惊讶的是你在那里得到的食物。"
+    },
+    {
+      "id": 118,
+      "start": 491.94,
+      "end": 493.7,
+      "en": "You know, you have a five course meal.",
+      "zh": "你知道，你有五道菜的饭菜。"
+    },
+    {
+      "id": 119,
+      "start": 494.06,
+      "end": 494.46,
+      "en": "Oh, really?",
+      "zh": "哦，真的吗？"
+    },
+    {
+      "id": 120,
+      "start": 495.04,
+      "end": 496.04,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 121,
+      "start": 496.04,
+      "end": 497.82,
+      "en": "And you get all the drinks you can get, right?",
+      "zh": "你得到了你能得到的所有饮料，对吧？"
+    },
+    {
+      "id": 122,
+      "start": 498.44,
+      "end": 499.44,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 123,
+      "start": 499.44,
+      "end": 501.44,
+      "en": "Yeah, I would be really happy there.",
+      "zh": "是的，我在那里会很开心。"
+    },
+    {
+      "id": 124,
+      "start": 501.44,
+      "end": 508.32,
+      "en": "All right, everyone, we're out of time today, but be sure to listen tomorrow because we'll be back again with another great podcast.",
+      "zh": "好吧，大家，我们今天没时间了，但一定要明天听，因为我们会再次带着另一个很棒的播客回来。"
+    },
+    {
+      "id": 125,
+      "start": 509.16,
+      "end": 517.78,
+      "en": "And also, don't forget to go to our website at EnglishPod.com and leave us all your questions and comments in our community forum.",
+      "zh": "而且，不要忘记访问我们的网站 englishpod.com 并在我们的社区论坛中留下您的所有问题和评论。"
+    },
+    {
+      "id": 126,
+      "start": 518.2,
+      "end": 521.12,
+      "en": "Yes, and we would also appreciate your suggestions.",
+      "zh": "是的，我们也将感谢您的建议。"
+    },
+    {
+      "id": 127,
+      "start": 522.72,
+      "end": 529.5,
+      "en": "And I hope you enjoyed the lesson today and Marco and I will be back tomorrow with another great lesson for you.",
+      "zh": "我希望你今天喜欢这节课，Marco 和我明天会回来，为你提供另一个重要的课程。"
+    },
+    {
+      "id": 128,
+      "start": 529.84,
+      "end": 531.54,
+      "en": "But for now, it's bye!",
+      "zh": "但现在，这是再见！"
+    }
+  ],
+  "dialog": {
+    "start": 42.86,
+    "end": 90.88,
+    "segmentIds": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28
+    ]
+  }
+}

@@ -1,0 +1,1962 @@
+{
+  "version": 1,
+  "id": 19,
+  "number": "0019",
+  "title": "The Weekend - Christmas Chronicles I",
+  "audio": "mp3/19. The Weekend - Christmas Chronicles I.mp3",
+  "duration": 807.2881875,
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.17,
+      "end": 5.23,
+      "en": "Hello English learners and welcome to another lesson with EnglishPod.",
+      "zh": "您好英语学习者，欢迎使用 EnglishPod 参加另一节课。"
+    },
+    {
+      "id": 2,
+      "start": 5.48,
+      "end": 6.03,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 6.31,
+      "end": 6.83,
+      "en": "And I'm Erica.",
+      "zh": "我叫 Erica。"
+    },
+    {
+      "id": 4,
+      "start": 7.31,
+      "end": 9.87,
+      "en": "And today we're bringing you a great Christmas lesson.",
+      "zh": "今天我们为您带来一个很棒的圣诞节课。"
+    },
+    {
+      "id": 5,
+      "start": 10.21,
+      "end": 10.57,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 6,
+      "start": 10.75,
+      "end": 14.99,
+      "en": "We've got a lot of Christmas vocabulary in today's lesson for you.",
+      "zh": "在今天的课程中，我们为您准备了很多圣诞节词汇。"
+    },
+    {
+      "id": 7,
+      "start": 15.37,
+      "end": 22.17,
+      "en": "Yeah, it's almost Christmas time so everyone is getting into the spirit, especially here at EnglishPod, so we're going to teach you a little bit more about this.",
+      "zh": "是的，快到圣诞节了，所以每个人都在进入精神状态，尤其是在 Englishpod 的地方，所以我们将教你更多关于这个的知识。"
+    },
+    {
+      "id": 8,
+      "start": 22.55,
+      "end": 28.01,
+      "en": "Speaking of the spirit, I think it's time for us to look at our vocabulary preview.",
+      "zh": "说到精神，我想是时候看看我们的词汇预览了。"
+    },
+    {
+      "id": 9,
+      "start": 29.6,
+      "end": 31.08,
+      "en": "Vocabulary preview.",
+      "zh": "词汇预习。"
+    },
+    {
+      "id": 10,
+      "start": 31.08,
+      "end": 37.98,
+      "en": "So in this part of our show, we'll look at some key language in the dialogue that you'll need to know to understand the dialogue.",
+      "zh": "因此，在我们节目的这一部分中，我们将在对话中查看一些关键语言，您需要知道这些语言才能理解对话。"
+    },
+    {
+      "id": 11,
+      "start": 38.32,
+      "end": 41.32,
+      "en": "And actually today we only have one word.",
+      "zh": "实际上，今天我们只有一个字。"
+    },
+    {
+      "id": 12,
+      "start": 41.32,
+      "end": 42.32,
+      "en": "Eggnog.",
+      "zh": "蛋奶酒。"
+    },
+    {
+      "id": 13,
+      "start": 42.32,
+      "end": 43.32,
+      "en": "Eggnog.",
+      "zh": "蛋奶酒。"
+    },
+    {
+      "id": 14,
+      "start": 43.32,
+      "end": 44.32,
+      "en": "Eggnog.",
+      "zh": "蛋奶酒。"
+    },
+    {
+      "id": 15,
+      "start": 44.32,
+      "end": 45.32,
+      "en": "E-G-G-N-O-G.",
+      "zh": "拼写是 E-G-G-N-O-G。"
+    },
+    {
+      "id": 16,
+      "start": 45.32,
+      "end": 46.32,
+      "en": "Eggnog.",
+      "zh": "蛋奶酒。"
+    },
+    {
+      "id": 17,
+      "start": 47.72,
+      "end": 50.94,
+      "en": "So, eggnog is a really popular Christmas drink.",
+      "zh": "所以，蛋酒是一种非常受欢迎的圣诞饮料。"
+    },
+    {
+      "id": 18,
+      "start": 51.4,
+      "end": 52.66,
+      "en": "It's a traditional Christmas drink.",
+      "zh": "这是一种传统的圣诞饮品。"
+    },
+    {
+      "id": 19,
+      "start": 53.04,
+      "end": 54.04,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 20,
+      "start": 54.04,
+      "end": 55.04,
+      "en": "What is it made of?",
+      "zh": "它是由什么组成的？"
+    },
+    {
+      "id": 21,
+      "start": 55.04,
+      "end": 59.8,
+      "en": "It's eggs, cream, sugar, and usually rum.",
+      "zh": "它是鸡蛋、奶油、糖，通常是朗姆酒。"
+    },
+    {
+      "id": 22,
+      "start": 59.8,
+      "end": 60.8,
+      "en": "Rum.",
+      "zh": "朗姆酒。"
+    },
+    {
+      "id": 23,
+      "start": 60.8,
+      "end": 61.43,
+      "en": "Oh, so it has alcohol.",
+      "zh": "哦，所以它有酒精。"
+    },
+    {
+      "id": 24,
+      "start": 62.11,
+      "end": 63.61,
+      "en": "Yeah, normally it has alcohol.",
+      "zh": "是的，通常它有酒精。"
+    },
+    {
+      "id": 25,
+      "start": 64.09,
+      "end": 64.43,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 26,
+      "start": 64.83,
+      "end": 65.09,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 27,
+      "start": 65.31,
+      "end": 65.65,
+      "en": "That's interesting.",
+      "zh": "真有意思。"
+    },
+    {
+      "id": 28,
+      "start": 66.15,
+      "end": 69.15,
+      "en": "There's actually a drink very similar to this in Chile.",
+      "zh": "实际上，智利有一种与此非常相似的饮料。"
+    },
+    {
+      "id": 29,
+      "start": 69.47,
+      "end": 69.67,
+      "en": "Really?",
+      "zh": "真的吗？"
+    },
+    {
+      "id": 30,
+      "start": 70.12,
+      "end": 71.12,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 31,
+      "start": 71.12,
+      "end": 71.99,
+      "en": "They call it monkey tail.",
+      "zh": "他们称之为猴尾。"
+    },
+    {
+      "id": 32,
+      "start": 72.56,
+      "end": 74.21,
+      "en": "So in Spanish that would be...",
+      "zh": "所以在西班牙语中那将是..."
+    },
+    {
+      "id": 33,
+      "start": 74.28,
+      "end": 75.28,
+      "en": "Cola de mono.",
+      "zh": "可乐德莫诺。"
+    },
+    {
+      "id": 34,
+      "start": 75.28,
+      "end": 76.28,
+      "en": "Very nice.",
+      "zh": "很不错。"
+    },
+    {
+      "id": 35,
+      "start": 76.33,
+      "end": 78.39,
+      "en": "Yeah, so it's actually really, really good.",
+      "zh": "是的，所以它实际上非常非常好。"
+    },
+    {
+      "id": 36,
+      "start": 78.48,
+      "end": 80.08,
+      "en": "I mean, it's really similar to eggnog.",
+      "zh": "我的意思是，它真的和蛋酒一样。"
+    },
+    {
+      "id": 37,
+      "start": 80.08,
+      "end": 80.21,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 38,
+      "start": 81.08,
+      "end": 85.72,
+      "en": "So with that in mind, let's take a listen to our dialogue for the first time.",
+      "zh": "所以考虑到这一点，让我们第一次听听我们的对话。"
+    },
+    {
+      "id": 39,
+      "start": 85.72,
+      "end": 94.96,
+      "en": "I hate working on Christmas Eve.",
+      "zh": "我讨厌平安夜还要上班。"
+    },
+    {
+      "id": 40,
+      "start": 96.79,
+      "end": 98.43,
+      "en": "Whoa, get a load of this guy.",
+      "zh": "哇，瞧瞧这家伙。"
+    },
+    {
+      "id": 41,
+      "start": 99.17,
+      "end": 99.57,
+      "en": "Come in, Central.",
+      "zh": "指挥中心，收到请回答。"
+    },
+    {
+      "id": 42,
+      "start": 99.76,
+      "end": 103.24,
+      "en": "I think we got ourselves a situation here.",
+      "zh": "看来碰上状况了。"
+    },
+    {
+      "id": 43,
+      "start": 116.18,
+      "end": 117.72,
+      "en": "License and registration, please.",
+      "zh": "请出示驾照和车辆登记证。"
+    },
+    {
+      "id": 44,
+      "start": 119.2,
+      "end": 120.18,
+      "en": "Have you been drinking tonight, sir?",
+      "zh": "先生，您今晚喝酒了吗？"
+    },
+    {
+      "id": 45,
+      "start": 121.64,
+      "end": 124.97,
+      "en": "I had one or two glasses of eggnog, but nothing else.",
+      "zh": "我就喝了一两杯蛋奶酒，没喝别的。"
+    },
+    {
+      "id": 46,
+      "start": 126.0,
+      "end": 127.07,
+      "en": "Step out of the vehicle, please.",
+      "zh": "请下车。"
+    },
+    {
+      "id": 47,
+      "start": 127.8,
+      "end": 129.05,
+      "en": "Sir, what do you have in the back?",
+      "zh": "先生，车后面装的是什么？"
+    },
+    {
+      "id": 48,
+      "start": 130.52,
+      "end": 131.88,
+      "en": "Just a few Christmas gifts.",
+      "zh": "不过是些圣诞礼物。"
+    },
+    {
+      "id": 49,
+      "start": 132.56,
+      "end": 133.94,
+      "en": "Tis the season, after all.",
+      "zh": "毕竟过圣诞节嘛。"
+    },
+    {
+      "id": 50,
+      "start": 134.46,
+      "end": 135.54,
+      "en": "Don't take that tone with me.",
+      "zh": "别用那种语气跟我说话。"
+    },
+    {
+      "id": 51,
+      "start": 136.26,
+      "end": 137.48,
+      "en": "Do you have an invoice for these items?",
+      "zh": "你有这些项目的发票吗？"
+    },
+    {
+      "id": 52,
+      "start": 138.44,
+      "end": 139.48,
+      "en": "Oh, no.",
+      "zh": "哦，不。"
+    },
+    {
+      "id": 53,
+      "start": 140.22,
+      "end": 143.16,
+      "en": "I make these in my workshop in the North Pole.",
+      "zh": "这些是我在北极的工作室做的。"
+    },
+    {
+      "id": 54,
+      "start": 143.58,
+      "end": 145.24,
+      "en": "You are under arrest, sir.",
+      "zh": "先生，您被捕了。"
+    },
+    {
+      "id": 55,
+      "start": 145.52,
+      "end": 146.96,
+      "en": "You have the right to remain silent.",
+      "zh": "你有权保持沉默。"
+    },
+    {
+      "id": 56,
+      "start": 147.36,
+      "end": 148.36,
+      "en": "You better not pout.",
+      "zh": "你最好别撅嘴。"
+    },
+    {
+      "id": 57,
+      "start": 148.36,
+      "end": 149.06,
+      "en": "You better not cry.",
+      "zh": "你最好别哭。"
+    },
+    {
+      "id": 58,
+      "start": 149.66,
+      "end": 152.16,
+      "en": "Anything you say can and will be used against you.",
+      "zh": "你说的任何话都可以而且会被用来对付你。"
+    },
+    {
+      "id": 59,
+      "start": 152.42,
+      "end": 153.32,
+      "en": "You have the right to an attorney.",
+      "zh": "您有权聘请律师。"
+    },
+    {
+      "id": 60,
+      "start": 153.56,
+      "end": 156.1,
+      "en": "If you can't afford one, the state will appoint one for you.",
+      "zh": "如果请不起律师，政府会给您指派一名。"
+    },
+    {
+      "id": 61,
+      "start": 156.28,
+      "end": 158.32,
+      "en": "Do you understand these rights that have just been read to you?",
+      "zh": "您明白刚才向您宣读的这些权利吗？"
+    },
+    {
+      "id": 62,
+      "start": 158.7,
+      "end": 160.36,
+      "en": "You can't take me to jail.",
+      "zh": "你不能把我送进监狱。"
+    },
+    {
+      "id": 63,
+      "start": 161.32,
+      "end": 162.8,
+      "en": "What about my sleigh?",
+      "zh": "那我的雪橇怎么办？"
+    },
+    {
+      "id": 64,
+      "start": 162.8,
+      "end": 163.5,
+      "en": "It's Christmas Eve.",
+      "zh": "今天是平安夜。"
+    },
+    {
+      "id": 65,
+      "start": 163.8,
+      "end": 166.8,
+      "en": "I have presents to deliver.",
+      "zh": "我还有礼物要送。"
+    },
+    {
+      "id": 66,
+      "start": 166.8,
+      "end": 185.72,
+      "en": "Rudolph, prancer, dancer, get help!",
+      "zh": "鲁道夫！普兰瑟！丹瑟！快去找人帮忙！"
+    },
+    {
+      "id": 67,
+      "start": 185.72,
+      "end": 187.58,
+      "en": "Well I did not see that one coming.",
+      "zh": "好吧，我没有看到那一辆来。"
+    },
+    {
+      "id": 68,
+      "start": 189.36,
+      "end": 190.36,
+      "en": "That was interesting.",
+      "zh": "那很有趣。"
+    },
+    {
+      "id": 69,
+      "start": 190.36,
+      "end": 192.16,
+      "en": "Santa Claus is being taken to jail.",
+      "zh": "圣诞老人被送进监狱。"
+    },
+    {
+      "id": 70,
+      "start": 193.0,
+      "end": 194.02,
+      "en": "What's gonna happen next, Marco?",
+      "zh": "接下来会发生什么，马可？"
+    },
+    {
+      "id": 71,
+      "start": 194.64,
+      "end": 195.04,
+      "en": "I don't know.",
+      "zh": "我不知道。"
+    },
+    {
+      "id": 72,
+      "start": 195.38,
+      "end": 196.58,
+      "en": "We'll talk about that in a little while.",
+      "zh": "我们稍后会讨论这个问题。"
+    },
+    {
+      "id": 73,
+      "start": 196.78,
+      "end": 198.98,
+      "en": "Let's take a look at some language from this dialogue.",
+      "zh": "让我们来看看这个对话中的一些语言。"
+    },
+    {
+      "id": 74,
+      "start": 201.4,
+      "end": 203.6,
+      "en": "Language takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 75,
+      "start": 203.6,
+      "end": 207.6,
+      "en": "So the first word that we have on our language takeaway today is vehicle.",
+      "zh": "因此，我们今天在外卖中的第一个词是车辆。"
+    },
+    {
+      "id": 76,
+      "start": 207.6,
+      "end": 207.96,
+      "en": "Vehicle.",
+      "zh": "车辆。"
+    },
+    {
+      "id": 77,
+      "start": 208.7,
+      "end": 209.04,
+      "en": "Vehicle.",
+      "zh": "车辆。"
+    },
+    {
+      "id": 78,
+      "start": 209.6,
+      "end": 210.6,
+      "en": "Vehicle.",
+      "zh": "车辆。"
+    },
+    {
+      "id": 79,
+      "start": 210.6,
+      "end": 212.3,
+      "en": "So this is a vehicle.",
+      "zh": "所以这是一辆车。"
+    },
+    {
+      "id": 80,
+      "start": 224.28,
+      "end": 225.2,
+      "en": "And this is a vehicle.",
+      "zh": "这是一辆车。"
+    },
+    {
+      "id": 81,
+      "start": 236.56,
+      "end": 237.63,
+      "en": "And this is a vehicle.",
+      "zh": "这是一辆车。"
+    },
+    {
+      "id": 82,
+      "start": 250.72,
+      "end": 251.86,
+      "en": "So all of those are vehicles.",
+      "zh": "所以所有这些都是车辆。"
+    },
+    {
+      "id": 83,
+      "start": 252.58,
+      "end": 255.36,
+      "en": "Now I thought that a vehicle was a car specifically.",
+      "zh": "现在我以为一辆车是专门的汽车。"
+    },
+    {
+      "id": 84,
+      "start": 255.58,
+      "end": 260.16,
+      "en": "No, any machine that carries people from one place to another is a vehicle.",
+      "zh": "不，任何将人从一个地方运送到另一个地方的机器都是车辆。"
+    },
+    {
+      "id": 85,
+      "start": 260.4,
+      "end": 260.7,
+      "en": "Great.",
+      "zh": "太好了。"
+    },
+    {
+      "id": 86,
+      "start": 261.6,
+      "end": 262.6,
+      "en": "Alright.",
+      "zh": "好的。"
+    },
+    {
+      "id": 87,
+      "start": 262.6,
+      "end": 263.96,
+      "en": "Let's take a look now at our second word.",
+      "zh": "现在让我们来看看我们的第二个词。"
+    },
+    {
+      "id": 88,
+      "start": 264.88,
+      "end": 265.88,
+      "en": "Attorney.",
+      "zh": "律师。"
+    },
+    {
+      "id": 89,
+      "start": 265.88,
+      "end": 266.88,
+      "en": "Attorney.",
+      "zh": "律师。"
+    },
+    {
+      "id": 90,
+      "start": 266.88,
+      "end": 267.88,
+      "en": "Attorney.",
+      "zh": "律师。"
+    },
+    {
+      "id": 91,
+      "start": 267.88,
+      "end": 269.64,
+      "en": "So what is an attorney?",
+      "zh": "那么什么是律师？"
+    },
+    {
+      "id": 92,
+      "start": 269.64,
+      "end": 269.9,
+      "en": "A lawyer.",
+      "zh": "律师。"
+    },
+    {
+      "id": 93,
+      "start": 270.6,
+      "end": 271.38,
+      "en": "Well that's simple enough.",
+      "zh": "嗯，这很简单。"
+    },
+    {
+      "id": 94,
+      "start": 271.64,
+      "end": 272.64,
+      "en": "Yep, a lawyer.",
+      "zh": "是的，律师。"
+    },
+    {
+      "id": 95,
+      "start": 272.64,
+      "end": 276.88,
+      "en": "Let's move to our third word which is appoint.",
+      "zh": "让我们转到我们的第三个词，即指定。"
+    },
+    {
+      "id": 96,
+      "start": 276.88,
+      "end": 277.88,
+      "en": "Appoint.",
+      "zh": "任命。"
+    },
+    {
+      "id": 97,
+      "start": 277.88,
+      "end": 278.88,
+      "en": "Appoint.",
+      "zh": "任命。"
+    },
+    {
+      "id": 98,
+      "start": 278.88,
+      "end": 279.88,
+      "en": "Appoint.",
+      "zh": "任命。"
+    },
+    {
+      "id": 99,
+      "start": 279.88,
+      "end": 282.08,
+      "en": "So appoint means choose.",
+      "zh": "所以任命意味着选择。"
+    },
+    {
+      "id": 100,
+      "start": 282.19,
+      "end": 287.15,
+      "en": "Okay, so the president of a country might appoint his chief of staff.",
+      "zh": "好吧，一个国家的总统可以任命他的参谋长。"
+    },
+    {
+      "id": 101,
+      "start": 287.63,
+      "end": 290.95,
+      "en": "Right, or I can appoint my attorney.",
+      "zh": "对，或者我可以任命我的律师。"
+    },
+    {
+      "id": 102,
+      "start": 291.37,
+      "end": 291.57,
+      "en": "True.",
+      "zh": "确实。"
+    },
+    {
+      "id": 103,
+      "start": 291.87,
+      "end": 293.95,
+      "en": "So can you appoint a thing?",
+      "zh": "那么你能指定一件事吗？"
+    },
+    {
+      "id": 104,
+      "start": 294.25,
+      "end": 295.89,
+      "en": "Can I appoint my coffee cup?",
+      "zh": "我可以指定我的咖啡杯吗？"
+    },
+    {
+      "id": 105,
+      "start": 296.29,
+      "end": 297.37,
+      "en": "No, no.",
+      "zh": "不，不。"
+    },
+    {
+      "id": 106,
+      "start": 297.87,
+      "end": 298.95,
+      "en": "You only use it for people.",
+      "zh": "你只为人们使用它。"
+    },
+    {
+      "id": 107,
+      "start": 299.24,
+      "end": 300.24,
+      "en": "You choose someone.",
+      "zh": "你选择一个人。"
+    },
+    {
+      "id": 108,
+      "start": 300.27,
+      "end": 300.69,
+      "en": "Okay, appoint.",
+      "zh": "好的，任命。"
+    },
+    {
+      "id": 109,
+      "start": 301.24,
+      "end": 302.24,
+      "en": "You can't choose something.",
+      "zh": "你不能选择什么。"
+    },
+    {
+      "id": 110,
+      "start": 302.24,
+      "end": 302.43,
+      "en": "So I appoint someone.",
+      "zh": "所以我任命一个人。"
+    },
+    {
+      "id": 111,
+      "start": 303.24,
+      "end": 304.24,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 112,
+      "start": 304.24,
+      "end": 304.91,
+      "en": "Alright, let's move to our final word.",
+      "zh": "好吧，让我们转到最后一句话。"
+    },
+    {
+      "id": 113,
+      "start": 305.24,
+      "end": 306.24,
+      "en": "Sleigh.",
+      "zh": "雪橇。"
+    },
+    {
+      "id": 114,
+      "start": 306.24,
+      "end": 307.24,
+      "en": "Sleigh.",
+      "zh": "雪橇。"
+    },
+    {
+      "id": 115,
+      "start": 307.24,
+      "end": 308.24,
+      "en": "Sleigh.",
+      "zh": "雪橇。"
+    },
+    {
+      "id": 116,
+      "start": 308.24,
+      "end": 309.24,
+      "en": "Sleigh.",
+      "zh": "雪橇。"
+    },
+    {
+      "id": 117,
+      "start": 309.42,
+      "end": 311.08,
+      "en": "So, Erica, you're from Canada.",
+      "zh": "所以，埃里卡，你来自加拿大。"
+    },
+    {
+      "id": 118,
+      "start": 311.4,
+      "end": 312.4,
+      "en": "You can tell us about sleighs.",
+      "zh": "你可以告诉我们关于雪橇的信息。"
+    },
+    {
+      "id": 119,
+      "start": 312.4,
+      "end": 313.4,
+      "en": "Alright.",
+      "zh": "好的。"
+    },
+    {
+      "id": 120,
+      "start": 313.4,
+      "end": 320.72,
+      "en": "A sleigh is a vehicle that is pulled by a horse and travels over snow or ice.",
+      "zh": "雪橇是一种由马拉着并在冰雪中行驶的车辆。"
+    },
+    {
+      "id": 121,
+      "start": 320.72,
+      "end": 320.94,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 122,
+      "start": 321.24,
+      "end": 323.48,
+      "en": "So, you know, like Santa drives a sleigh.",
+      "zh": "所以，你知道，就像圣诞老人开着雪橇一样。"
+    },
+    {
+      "id": 123,
+      "start": 323.68,
+      "end": 324.5,
+      "en": "He drives a sleigh.",
+      "zh": "他开着一辆雪橇。"
+    },
+    {
+      "id": 124,
+      "start": 324.68,
+      "end": 326.38,
+      "en": "So do you drive a sleigh or ride a sleigh?",
+      "zh": "那么你是开雪橇还是骑雪橇？"
+    },
+    {
+      "id": 125,
+      "start": 327.72,
+      "end": 328.37,
+      "en": "Good question.",
+      "zh": "问得好。"
+    },
+    {
+      "id": 126,
+      "start": 329.57,
+      "end": 332.93,
+      "en": "Well, the song says you ride in a one-horse open sleigh.",
+      "zh": "好吧，这首歌说你骑着一匹敞开的雪橇。"
+    },
+    {
+      "id": 127,
+      "start": 333.16,
+      "end": 333.69,
+      "en": "Right, okay.",
+      "zh": "对，好。"
+    },
+    {
+      "id": 128,
+      "start": 334.16,
+      "end": 334.57,
+      "en": "Well, you know what?",
+      "zh": "嗯，你知道吗？"
+    },
+    {
+      "id": 129,
+      "start": 335.16,
+      "end": 339.21,
+      "en": "I think it's time for us to look at some interesting phrases that we found in this dialogue.",
+      "zh": "我认为是时候让我们看看我们在这次对话中发现的一些有趣的短语了。"
+    },
+    {
+      "id": 130,
+      "start": 339.64,
+      "end": 340.99,
+      "en": "So let's look at putting it together.",
+      "zh": "所以让我们看看把它放在一起。"
+    },
+    {
+      "id": 131,
+      "start": 342.72,
+      "end": 343.88,
+      "en": "Putting it together.",
+      "zh": "综合运用。"
+    },
+    {
+      "id": 132,
+      "start": 345.1,
+      "end": 350.3,
+      "en": "Today on Putting it Together, we have two great phrases for you and let's take a look at the first one.",
+      "zh": "今天把它放在一起，我们有两个很棒的短语给你，让我们来看看第一个。"
+    },
+    {
+      "id": 133,
+      "start": 350.64,
+      "end": 351.16,
+      "en": "Step out.",
+      "zh": "走出去。"
+    },
+    {
+      "id": 134,
+      "start": 351.92,
+      "end": 352.32,
+      "en": "Step out.",
+      "zh": "走出去。"
+    },
+    {
+      "id": 135,
+      "start": 354.2,
+      "end": 354.44,
+      "en": "Step out.",
+      "zh": "走出去。"
+    },
+    {
+      "id": 136,
+      "start": 354.44,
+      "end": 358.92,
+      "en": "So step out means to go out of a place for a short period of time.",
+      "zh": "所以走出去意味着在短时间内离开一个地方。"
+    },
+    {
+      "id": 137,
+      "start": 359.48,
+      "end": 359.76,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 138,
+      "start": 360.1,
+      "end": 365.56,
+      "en": "So in our dialogue, for example, the police officer said, step out of the vehicle.",
+      "zh": "因此，例如，在我们的对话中，警官说，走下车。"
+    },
+    {
+      "id": 139,
+      "start": 365.88,
+      "end": 366.9,
+      "en": "Get out of your vehicle.",
+      "zh": "下车。"
+    },
+    {
+      "id": 140,
+      "start": 367.26,
+      "end": 369.88,
+      "en": "You can also say, step out of the office.",
+      "zh": "你也可以说，走出办公室。"
+    },
+    {
+      "id": 141,
+      "start": 370.32,
+      "end": 372.86,
+      "en": "You can say, I just stepped out of the shower.",
+      "zh": "你可以说，我刚从淋浴间走出来。"
+    },
+    {
+      "id": 142,
+      "start": 373.64,
+      "end": 373.81,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 143,
+      "start": 374.64,
+      "end": 376.57,
+      "en": "Now, we can also say, step in.",
+      "zh": "现在，我们也可以说，介入。"
+    },
+    {
+      "id": 144,
+      "start": 377.0,
+      "end": 377.61,
+      "en": "It's the opposite.",
+      "zh": "这是相反的。"
+    },
+    {
+      "id": 145,
+      "start": 377.95,
+      "end": 378.73,
+      "en": "The opposite, right?",
+      "zh": "相反，对吧？"
+    },
+    {
+      "id": 146,
+      "start": 379.01,
+      "end": 382.11,
+      "en": "I can ask Marco, step into my office for a moment.",
+      "zh": "我可以问马可，走进我的办公室一会儿。"
+    },
+    {
+      "id": 147,
+      "start": 382.47,
+      "end": 383.95,
+      "en": "Oh, okay.",
+      "zh": "哦，好吧。"
+    },
+    {
+      "id": 148,
+      "start": 384.51,
+      "end": 386.93,
+      "en": "So that's step out and step in.",
+      "zh": "所以这是走出并介入。"
+    },
+    {
+      "id": 149,
+      "start": 387.21,
+      "end": 387.59,
+      "en": "Great phrases.",
+      "zh": "很实用的短语。"
+    },
+    {
+      "id": 150,
+      "start": 388.11,
+      "end": 389.37,
+      "en": "Let's take a look at our final phrase.",
+      "zh": "让我们来看看我们的最后一句话。"
+    },
+    {
+      "id": 151,
+      "start": 390.02,
+      "end": 391.04,
+      "en": "Get a load of.",
+      "zh": "看看……！"
+    },
+    {
+      "id": 152,
+      "start": 391.8,
+      "end": 392.56,
+      "en": "Get a load of.",
+      "zh": "看看……！"
+    },
+    {
+      "id": 153,
+      "start": 393.56,
+      "end": 394.16,
+      "en": "Get a load of.",
+      "zh": "看看……！"
+    },
+    {
+      "id": 154,
+      "start": 394.92,
+      "end": 398.56,
+      "en": "So when I say get a load of something, I mean look at, right?",
+      "zh": "所以当我说得到一堆东西时，我的意思是看，对吧？"
+    },
+    {
+      "id": 155,
+      "start": 398.96,
+      "end": 399.16,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 156,
+      "start": 399.46,
+      "end": 400.08,
+      "en": "Look at this guy.",
+      "zh": "看看这个人。"
+    },
+    {
+      "id": 157,
+      "start": 400.34,
+      "end": 401.4,
+      "en": "Get a load of this guy.",
+      "zh": "得到这个人的负担。"
+    },
+    {
+      "id": 158,
+      "start": 401.64,
+      "end": 402.88,
+      "en": "Yeah, that's what we heard in the dialogue.",
+      "zh": "是的，这就是我们在对话中听到的。"
+    },
+    {
+      "id": 159,
+      "start": 403.24,
+      "end": 409.24,
+      "en": "Now, you can use this phrase in a number of different ways and we have some examples for you.",
+      "zh": "现在，您可以通过多种不同的方式使用此短语，我们为您提供了一些示例。"
+    },
+    {
+      "id": 160,
+      "start": 409.24,
+      "end": 409.54,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 161,
+      "start": 412.76,
+      "end": 413.31,
+      "en": "Get a load of this.",
+      "zh": "得到一个负载。"
+    },
+    {
+      "id": 162,
+      "start": 413.76,
+      "end": 414.87,
+      "en": "A war has started in Antarctica.",
+      "zh": "南极开始了一场战争。"
+    },
+    {
+      "id": 163,
+      "start": 417.72,
+      "end": 417.96,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 164,
+      "start": 420.76,
+      "end": 421.51,
+      "en": "Get a load of that house.",
+      "zh": "得到那所房子的负载。"
+    },
+    {
+      "id": 165,
+      "start": 422.12,
+      "end": 422.97,
+      "en": "It's so big.",
+      "zh": "它好大。"
+    },
+    {
+      "id": 166,
+      "start": 427.0,
+      "end": 427.34,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 167,
+      "start": 428.0,
+      "end": 432.08,
+      "en": "Get a load of him.",
+      "zh": "得到他的负担。"
+    },
+    {
+      "id": 168,
+      "start": 432.08,
+      "end": 433.01,
+      "en": "He's wearing a pink suit.",
+      "zh": "他穿着粉红色的西装。"
+    },
+    {
+      "id": 169,
+      "start": 435.58,
+      "end": 442.38,
+      "en": "Okay, I think we've covered a lot of interesting words and phrases, so we are ready to listen to our dialogue a second time.",
+      "zh": "好吧，我想我们已经涵盖了很多有趣的单词和短语，所以我们准备再次听我们的对话。"
+    },
+    {
+      "id": 170,
+      "start": 442.84,
+      "end": 446.72,
+      "en": "But this time it's going to be a little bit slower so we can pick up all these great words.",
+      "zh": "但这一次会慢一点，这样我们就可以学到所有这些伟大的词。"
+    },
+    {
+      "id": 171,
+      "start": 449.89,
+      "end": 452.17,
+      "en": "I hate working on Christmas Eve.",
+      "zh": "我讨厌平安夜还要上班。"
+    },
+    {
+      "id": 172,
+      "start": 453.71,
+      "end": 455.47,
+      "en": "Whoa, get a load of this guy.",
+      "zh": "哇，瞧瞧这家伙。"
+    },
+    {
+      "id": 173,
+      "start": 456.37,
+      "end": 457.29,
+      "en": "Come in central.",
+      "zh": "来到中央。"
+    },
+    {
+      "id": 174,
+      "start": 458.09,
+      "end": 460.45,
+      "en": "I think we got ourselves a situation here.",
+      "zh": "看来碰上状况了。"
+    },
+    {
+      "id": 175,
+      "start": 462.92,
+      "end": 465.16,
+      "en": "Passes and registration please.",
+      "zh": "请通行证和注册。"
+    },
+    {
+      "id": 176,
+      "start": 465.16,
+      "end": 466.36,
+      "en": "Have you been drinking tonight, sir?",
+      "zh": "先生，您今晚喝酒了吗？"
+    },
+    {
+      "id": 177,
+      "start": 468.0,
+      "end": 473.71,
+      "en": "I had one or two glasses of eggnog, but nothing else.",
+      "zh": "我就喝了一两杯蛋奶酒，没喝别的。"
+    },
+    {
+      "id": 178,
+      "start": 474.8,
+      "end": 475.85,
+      "en": "Step out of the vehicle, please.",
+      "zh": "请下车。"
+    },
+    {
+      "id": 179,
+      "start": 476.76,
+      "end": 478.19,
+      "en": "Sir, what do you have in the back?",
+      "zh": "先生，车后面装的是什么？"
+    },
+    {
+      "id": 180,
+      "start": 480.0,
+      "end": 481.56,
+      "en": "Just a few Christmas gifts.",
+      "zh": "不过是些圣诞礼物。"
+    },
+    {
+      "id": 181,
+      "start": 482.38,
+      "end": 484.14,
+      "en": "Tis the season, after all.",
+      "zh": "毕竟过圣诞节嘛。"
+    },
+    {
+      "id": 182,
+      "start": 485.09,
+      "end": 486.33,
+      "en": "Don't take that tone with me.",
+      "zh": "别用那种语气跟我说话。"
+    },
+    {
+      "id": 183,
+      "start": 486.85,
+      "end": 488.13,
+      "en": "Do you have an invoice for these items?",
+      "zh": "你有这些项目的发票吗？"
+    },
+    {
+      "id": 184,
+      "start": 490.26,
+      "end": 491.38,
+      "en": "Um, no.",
+      "zh": "嗯，不是。"
+    },
+    {
+      "id": 185,
+      "start": 492.24,
+      "end": 496.1,
+      "en": "I make these in my workshop in the North Pole.",
+      "zh": "这些是我在北极的工作室做的。"
+    },
+    {
+      "id": 186,
+      "start": 497.48,
+      "end": 499.1,
+      "en": "You are under arrest, sir.",
+      "zh": "先生，您被捕了。"
+    },
+    {
+      "id": 187,
+      "start": 499.76,
+      "end": 501.22,
+      "en": "You have the right to remain silent.",
+      "zh": "你有权保持沉默。"
+    },
+    {
+      "id": 188,
+      "start": 501.72,
+      "end": 502.7,
+      "en": "You better not pout.",
+      "zh": "你最好别撅嘴。"
+    },
+    {
+      "id": 189,
+      "start": 502.9,
+      "end": 503.76,
+      "en": "You better not cry.",
+      "zh": "你最好别哭。"
+    },
+    {
+      "id": 190,
+      "start": 504.04,
+      "end": 507.76,
+      "en": "Anything you say can and will be used against you.",
+      "zh": "你说的任何话都可以而且会被用来对付你。"
+    },
+    {
+      "id": 191,
+      "start": 508.2,
+      "end": 509.42,
+      "en": "You have the right to an attorney.",
+      "zh": "您有权聘请律师。"
+    },
+    {
+      "id": 192,
+      "start": 510.28,
+      "end": 513.6,
+      "en": "If you cannot afford one, the state will appoint one for you.",
+      "zh": "如果您负担不起，国家将为您指定一份。"
+    },
+    {
+      "id": 193,
+      "start": 513.72,
+      "end": 517.3,
+      "en": "Do you understand all these rights that have just been read to you?",
+      "zh": "您了解刚刚阅读给您的所有这些权利吗？"
+    },
+    {
+      "id": 194,
+      "start": 518.2,
+      "end": 519.98,
+      "en": "You can't take me to jail.",
+      "zh": "你不能把我送进监狱。"
+    },
+    {
+      "id": 195,
+      "start": 521.0,
+      "end": 522.4,
+      "en": "What about my sleigh?",
+      "zh": "那我的雪橇怎么办？"
+    },
+    {
+      "id": 196,
+      "start": 523.16,
+      "end": 524.08,
+      "en": "It's Christmas Eve.",
+      "zh": "今天是平安夜。"
+    },
+    {
+      "id": 197,
+      "start": 524.82,
+      "end": 526.24,
+      "en": "I have presents to deliver.",
+      "zh": "我还有礼物要送。"
+    },
+    {
+      "id": 198,
+      "start": 527.2,
+      "end": 533.0,
+      "en": "Rudolph, prancer, dancer, get help.",
+      "zh": "鲁道夫，跳马，舞者，寻求帮助。"
+    },
+    {
+      "id": 199,
+      "start": 534.61,
+      "end": 541.23,
+      "en": "Okay, so we noticed some really great words and phrases and with this, now we can start with some Fluency Builder.",
+      "zh": "好的，所以我们注意到了一些非常棒的单词和短语，现在我们可以从一些流畅的构建器开始。"
+    },
+    {
+      "id": 200,
+      "start": 542.38,
+      "end": 543.36,
+      "en": "Fluency Builder.",
+      "zh": "流利表达。"
+    },
+    {
+      "id": 201,
+      "start": 543.95,
+      "end": 551.25,
+      "en": "Today, on Fluency Builder, we have two great phrases that you can use to sound a little bit more natural when you speak.",
+      "zh": "今天，在 Fluency Builder 上，我们有两个很棒的短语，当您说话时，您可以使用它们来听起来更自然一点。"
+    },
+    {
+      "id": 202,
+      "start": 551.57,
+      "end": 551.91,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 203,
+      "start": 552.27,
+      "end": 558.15,
+      "en": "Our first phrase you can use if you want to say, don't speak to me like that.",
+      "zh": "如果您想说，我们可以使用我们的第一个短语，不要那样对我说话。"
+    },
+    {
+      "id": 204,
+      "start": 560.03,
+      "end": 561.47,
+      "en": "Don't take that tone with me.",
+      "zh": "别用那种语气跟我说话。"
+    },
+    {
+      "id": 205,
+      "start": 563.27,
+      "end": 564.61,
+      "en": "Don't take that tone with me.",
+      "zh": "别用那种语气跟我说话。"
+    },
+    {
+      "id": 206,
+      "start": 566.06,
+      "end": 571.0,
+      "en": "So you often hear this phrase coming out of the mouth of a mother or a father.",
+      "zh": "所以你经常听到这句话从母亲或父亲的嘴里说出来。"
+    },
+    {
+      "id": 207,
+      "start": 571.28,
+      "end": 573.92,
+      "en": "Yeah, when their children are maybe talking back.",
+      "zh": "是的，当他们的孩子可能会回话时。"
+    },
+    {
+      "id": 208,
+      "start": 574.4,
+      "end": 574.52,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 209,
+      "start": 575.06,
+      "end": 576.62,
+      "en": "Don't take that tone with me, young man.",
+      "zh": "不要把这种语气带给我，年轻人。"
+    },
+    {
+      "id": 210,
+      "start": 577.18,
+      "end": 577.98,
+      "en": "I used to get that a lot.",
+      "zh": "我曾经得到很多。"
+    },
+    {
+      "id": 211,
+      "start": 578.4,
+      "end": 579.4,
+      "en": "Really?",
+      "zh": "真的吗？"
+    },
+    {
+      "id": 212,
+      "start": 579.4,
+      "end": 580.4,
+      "en": "I'm not sure about that.",
+      "zh": "我不确定。"
+    },
+    {
+      "id": 213,
+      "start": 580.68,
+      "end": 585.08,
+      "en": "Okay, our second phrase, we use it when we have a problem.",
+      "zh": "好的，我们的第二个短语，当我们遇到问题时使用它。"
+    },
+    {
+      "id": 214,
+      "start": 585.5,
+      "end": 591.22,
+      "en": "The phrase we heard in the dialogue was, I think we've got ourselves a situation here.",
+      "zh": "我们在对话中听到的短语是，我想我们在这里遇到了自己的情况。"
+    },
+    {
+      "id": 215,
+      "start": 592.0,
+      "end": 593.76,
+      "en": "Let's listen to another example.",
+      "zh": "让我们听另一个例子。"
+    },
+    {
+      "id": 216,
+      "start": 594.87,
+      "end": 597.37,
+      "en": "Houston, we've got ourselves a situation here.",
+      "zh": "休斯顿，我们这里有一个情况。"
+    },
+    {
+      "id": 217,
+      "start": 599.26,
+      "end": 601.94,
+      "en": "Houston, we've got ourselves a situation here.",
+      "zh": "休斯顿，我们这里有一个情况。"
+    },
+    {
+      "id": 218,
+      "start": 603.53,
+      "end": 608.09,
+      "en": "Sometimes I use this phrase when I want to tell my boss that I have a problem.",
+      "zh": "有时当我想告诉我的老板我有问题时，我会使用这句话。"
+    },
+    {
+      "id": 219,
+      "start": 608.55,
+      "end": 612.15,
+      "en": "I might say, boss, I've got a bit of a situation.",
+      "zh": "我可能会说，老板，我有一点情况。"
+    },
+    {
+      "id": 220,
+      "start": 612.77,
+      "end": 613.63,
+      "en": "Can you help me with it?",
+      "zh": "你能帮我解决吗？"
+    },
+    {
+      "id": 221,
+      "start": 614.11,
+      "end": 614.37,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 222,
+      "start": 614.73,
+      "end": 616.13,
+      "en": "Yeah, I have a little bit of a problem.",
+      "zh": "是的，我有一点问题。"
+    },
+    {
+      "id": 223,
+      "start": 616.64,
+      "end": 617.64,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 224,
+      "start": 617.64,
+      "end": 618.03,
+      "en": "Useful phrases, hey?",
+      "zh": "有用的短语，嘿？"
+    },
+    {
+      "id": 225,
+      "start": 618.64,
+      "end": 619.76,
+      "en": "Really useful phrases.",
+      "zh": "真正有用的短语。"
+    },
+    {
+      "id": 226,
+      "start": 619.76,
+      "end": 620.03,
+      "en": "Great stuff.",
+      "zh": "真不错。"
+    },
+    {
+      "id": 227,
+      "start": 620.76,
+      "end": 635.24,
+      "en": "So now we can listen to our dialogue a final time and this time we can understand everything that's in it.",
+      "zh": "所以现在我们可以最后一次听我们的对话，这次我们可以理解其中的一切。"
+    },
+    {
+      "id": 228,
+      "start": 635.34,
+      "end": 636.5,
+      "en": "I hate working on Christmas Eve.",
+      "zh": "我讨厌平安夜还要上班。"
+    },
+    {
+      "id": 229,
+      "start": 638.23,
+      "end": 639.95,
+      "en": "Whoa, get a load of this guy.",
+      "zh": "哇，瞧瞧这家伙。"
+    },
+    {
+      "id": 230,
+      "start": 640.37,
+      "end": 641.13,
+      "en": "Come in, Central.",
+      "zh": "指挥中心，收到请回答。"
+    },
+    {
+      "id": 231,
+      "start": 641.39,
+      "end": 642.81,
+      "en": "I think we've got ourselves a situation here.",
+      "zh": "我认为我们在这里遇到了一种情况。"
+    },
+    {
+      "id": 232,
+      "start": 657.69,
+      "end": 659.25,
+      "en": "License and registration, please.",
+      "zh": "请出示驾照和车辆登记证。"
+    },
+    {
+      "id": 233,
+      "start": 660.36,
+      "end": 661.68,
+      "en": "Have you been drinking tonight, sir?",
+      "zh": "先生，您今晚喝酒了吗？"
+    },
+    {
+      "id": 234,
+      "start": 662.89,
+      "end": 666.47,
+      "en": "I had one or two glasses of eggnog, but nothing else.",
+      "zh": "我就喝了一两杯蛋奶酒，没喝别的。"
+    },
+    {
+      "id": 235,
+      "start": 667.31,
+      "end": 668.61,
+      "en": "Step out of the vehicle, please.",
+      "zh": "请下车。"
+    },
+    {
+      "id": 236,
+      "start": 669.05,
+      "end": 670.57,
+      "en": "Sir, what do you have in the back?",
+      "zh": "先生，车后面装的是什么？"
+    },
+    {
+      "id": 237,
+      "start": 671.65,
+      "end": 673.39,
+      "en": "Just a few Christmas gifts.",
+      "zh": "不过是些圣诞礼物。"
+    },
+    {
+      "id": 238,
+      "start": 674.09,
+      "end": 675.51,
+      "en": "Tis the season, after all.",
+      "zh": "毕竟过圣诞节嘛。"
+    },
+    {
+      "id": 239,
+      "start": 675.85,
+      "end": 677.07,
+      "en": "Don't take that tone with me.",
+      "zh": "别用那种语气跟我说话。"
+    },
+    {
+      "id": 240,
+      "start": 677.73,
+      "end": 678.99,
+      "en": "Do you have an invoice for these items?",
+      "zh": "你有这些项目的发票吗？"
+    },
+    {
+      "id": 241,
+      "start": 680.02,
+      "end": 681.02,
+      "en": "Oh, no.",
+      "zh": "哦，不。"
+    },
+    {
+      "id": 242,
+      "start": 681.61,
+      "end": 684.73,
+      "en": "I make these in my workshop in the North Pole.",
+      "zh": "这些是我在北极的工作室做的。"
+    },
+    {
+      "id": 243,
+      "start": 685.09,
+      "end": 686.79,
+      "en": "You are under arrest, sir.",
+      "zh": "先生，您被捕了。"
+    },
+    {
+      "id": 244,
+      "start": 687.05,
+      "end": 688.49,
+      "en": "You have the right to remain silent.",
+      "zh": "你有权保持沉默。"
+    },
+    {
+      "id": 245,
+      "start": 688.84,
+      "end": 689.84,
+      "en": "You better not pout.",
+      "zh": "你最好别撅嘴。"
+    },
+    {
+      "id": 246,
+      "start": 689.84,
+      "end": 690.57,
+      "en": "You better not cry.",
+      "zh": "你最好别哭。"
+    },
+    {
+      "id": 247,
+      "start": 691.11,
+      "end": 693.67,
+      "en": "Anything you say can and will be used against you.",
+      "zh": "你说的任何话都可以而且会被用来对付你。"
+    },
+    {
+      "id": 248,
+      "start": 693.91,
+      "end": 694.85,
+      "en": "You have the right to an attorney.",
+      "zh": "您有权聘请律师。"
+    },
+    {
+      "id": 249,
+      "start": 695.09,
+      "end": 697.63,
+      "en": "If you can't afford one, the state will appoint one for you.",
+      "zh": "如果请不起律师，政府会给您指派一名。"
+    },
+    {
+      "id": 250,
+      "start": 697.79,
+      "end": 699.83,
+      "en": "Do you understand these rights that have just been read to you?",
+      "zh": "您明白刚才向您宣读的这些权利吗？"
+    },
+    {
+      "id": 251,
+      "start": 700.27,
+      "end": 701.89,
+      "en": "You can't take me to jail.",
+      "zh": "你不能把我送进监狱。"
+    },
+    {
+      "id": 252,
+      "start": 702.8,
+      "end": 704.28,
+      "en": "What about my sleigh?",
+      "zh": "那我的雪橇怎么办？"
+    },
+    {
+      "id": 253,
+      "start": 704.28,
+      "end": 705.05,
+      "en": "It's Christmas Eve.",
+      "zh": "今天是平安夜。"
+    },
+    {
+      "id": 254,
+      "start": 705.52,
+      "end": 707.4,
+      "en": "I have presents to deliver.",
+      "zh": "我还有礼物要送。"
+    },
+    {
+      "id": 255,
+      "start": 707.4,
+      "end": 727.48,
+      "en": "Rudolph, prancer, dancer, get help.",
+      "zh": "鲁道夫，跳马，舞者，寻求帮助。"
+    },
+    {
+      "id": 256,
+      "start": 727.48,
+      "end": 734.2,
+      "en": "So when the police officer was arresting Santa Claus, he said something a little bit strange, hey?",
+      "zh": "所以当警察逮捕圣诞老人时，他说了一些奇怪的话，嘿？"
+    },
+    {
+      "id": 257,
+      "start": 734.2,
+      "end": 735.31,
+      "en": "Yeah, he said, you better not pout.",
+      "zh": "是的，他说，你最好不要撅嘴。"
+    },
+    {
+      "id": 258,
+      "start": 735.6,
+      "end": 736.21,
+      "en": "You better not cry.",
+      "zh": "你最好别哭。"
+    },
+    {
+      "id": 259,
+      "start": 736.6,
+      "end": 740.47,
+      "en": "Now, are those part of the normal rights that a police officer reads?",
+      "zh": "现在，这些是警察阅读的正常权利的一部分吗？"
+    },
+    {
+      "id": 260,
+      "start": 740.91,
+      "end": 741.69,
+      "en": "No, no.",
+      "zh": "不，不。"
+    },
+    {
+      "id": 261,
+      "start": 742.27,
+      "end": 743.59,
+      "en": "They're not part of the normal rights.",
+      "zh": "他们不是正常权利的一部分。"
+    },
+    {
+      "id": 262,
+      "start": 743.83,
+      "end": 747.31,
+      "en": "It's actually from a Christmas song, so let's listen to how it goes in the song.",
+      "zh": "它实际上来自一首圣诞歌曲，所以让我们听听它在歌曲中的表现。"
+    },
+    {
+      "id": 263,
+      "start": 752.96,
+      "end": 754.96,
+      "en": "You better watch out.",
+      "zh": "你最好小心点。"
+    },
+    {
+      "id": 264,
+      "start": 754.96,
+      "end": 755.96,
+      "en": "You better not cry.",
+      "zh": "你最好别哭。"
+    },
+    {
+      "id": 265,
+      "start": 755.96,
+      "end": 756.96,
+      "en": "You better not pout.",
+      "zh": "你最好别撅嘴。"
+    },
+    {
+      "id": 266,
+      "start": 756.96,
+      "end": 757.96,
+      "en": "I'm telling you why.",
+      "zh": "我告诉你为什么。"
+    },
+    {
+      "id": 267,
+      "start": 757.96,
+      "end": 765.28,
+      "en": "Santa Claus is coming to town.",
+      "zh": "圣诞老人要进城了。"
+    },
+    {
+      "id": 268,
+      "start": 765.28,
+      "end": 768.3,
+      "en": "I'm pretty happy we had a song to play there instead of us having to sing.",
+      "zh": "我很高兴我们在那里播放了一首歌，而不是我们必须唱歌。"
+    },
+    {
+      "id": 269,
+      "start": 768.92,
+      "end": 777.36,
+      "en": "Yeah, but that's great because if the children cry or if they are not good kids, then Santa Claus will not give them presents.",
+      "zh": "是的，但这很好，因为如果孩子们哭了，或者如果他们不是好孩子，那么圣诞老人就不会给他们礼物。"
+    },
+    {
+      "id": 270,
+      "start": 777.36,
+      "end": 778.36,
+      "en": "So that's why.",
+      "zh": "原来是这个原因。"
+    },
+    {
+      "id": 271,
+      "start": 778.96,
+      "end": 780.86,
+      "en": "Okay, listeners, I hope that you're not pouting.",
+      "zh": "好吧，听众，我希望你不要撅嘴。"
+    },
+    {
+      "id": 272,
+      "start": 781.16,
+      "end": 784.62,
+      "en": "I hope you're not crying, but it's time for us to go.",
+      "zh": "我希望你没有哭，但我们该走了。"
+    },
+    {
+      "id": 273,
+      "start": 785.14,
+      "end": 795.05,
+      "en": "So be sure to go to our website at EnglishPod.com and be sure to leave all your questions and comments and maybe some of your Christmas stories.",
+      "zh": "因此，请务必访问我们位于 englishpod.com 的网站，并确保留下您所有的问题和评论，也许还有一些您的圣诞故事。"
+    },
+    {
+      "id": 274,
+      "start": 795.4,
+      "end": 807.288,
+      "en": "All right, thanks for listening and until next time, goodbye.",
+      "zh": "好的，感谢您的收听，直到下一次，再见。"
+    }
+  ],
+  "dialog": {
+    "start": 85.72,
+    "end": 185.72,
+    "segmentIds": [
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66
+    ]
+  }
+}

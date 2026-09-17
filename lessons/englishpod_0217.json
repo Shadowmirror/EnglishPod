@@ -1,0 +1,2078 @@
+{
+  "version": 1,
+  "id": 217,
+  "number": "0217",
+  "title": "Global View - Volunteering",
+  "audio": "mp3/217. Global View - Volunteering.mp3",
+  "duration": 904.5681875,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.31,
+      "en": "Hello everyone and welcome to EnglishPod.",
+      "zh": "大家好，欢迎来到 EnglishPod。"
+    },
+    {
+      "id": 2,
+      "start": 5.55,
+      "end": 5.97,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 6.39,
+      "end": 9.69,
+      "en": "My name is Catherine and today we're talking about helping other people.",
+      "zh": "我的名字是凯瑟琳，今天我们正在谈论帮助他人。"
+    },
+    {
+      "id": 4,
+      "start": 9.99,
+      "end": 10.39,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 5,
+      "start": 10.71,
+      "end": 19.73,
+      "en": "We are going to volunteer and to help other people that maybe don't have as much as we do and so this is a way to give back to the community.",
+      "zh": "我们将志愿服务并帮助其他可能没有我们那么多的人，因此这是回馈社区的一种方式。"
+    },
+    {
+      "id": 6,
+      "start": 20.31,
+      "end": 20.87,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 7,
+      "start": 21.76,
+      "end": 29.36,
+      "en": "So this is an intermediate level lesson and before we get going, we have a phrase to preview in today's vocabulary preview.",
+      "zh": "所以这是一个中级课程，在我们开始之前，我们有一个短语要在今天的词汇预览中预览。"
+    },
+    {
+      "id": 8,
+      "start": 29.36,
+      "end": 30.36,
+      "en": "Vocabulary preview.",
+      "zh": "词汇预习。"
+    },
+    {
+      "id": 9,
+      "start": 30.36,
+      "end": 31.36,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 10,
+      "start": 31.36,
+      "end": 37.24,
+      "en": "So in vocabulary preview today, we have this phrase, a soup kitchen or it's a noun, a soup kitchen.",
+      "zh": "所以在今天的词汇预览中，我们有这个短语，一个汤厨房或一个名词，一个汤厨房。"
+    },
+    {
+      "id": 11,
+      "start": 37.96,
+      "end": 38.96,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 12,
+      "start": 38.96,
+      "end": 39.36,
+      "en": "A soup kitchen is a place.",
+      "zh": "施汤厨房是一个地方。"
+    },
+    {
+      "id": 13,
+      "start": 39.96,
+      "end": 47.76,
+      "en": "Basically, it is a place where volunteers can help cook and serve people who don't have enough money to feed themselves.",
+      "zh": "基本上，这是一个志愿者可以帮助烹饪和服务那些没有足够钱养活自己的人的地方。"
+    },
+    {
+      "id": 14,
+      "start": 48.32,
+      "end": 48.62,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 15,
+      "start": 48.68,
+      "end": 49.94,
+      "en": "So that's a soup kitchen.",
+      "zh": "所以这是一个汤厨房。"
+    },
+    {
+      "id": 16,
+      "start": 50.32,
+      "end": 53.06,
+      "en": "It's basically a place where people can get free food.",
+      "zh": "它基本上是一个人们可以获得免费食物的地方。"
+    },
+    {
+      "id": 17,
+      "start": 53.32,
+      "end": 53.6,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 18,
+      "start": 54.48,
+      "end": 55.48,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 19,
+      "start": 55.48,
+      "end": 56.88,
+      "en": "So this is where we're going to be today.",
+      "zh": "所以这就是我们今天要去的地方。"
+    },
+    {
+      "id": 20,
+      "start": 56.88,
+      "end": 62.2,
+      "en": "We are at a soup kitchen and we're going to hear a couple of people talking about helping out at a soup kitchen.",
+      "zh": "我们在施舍处，我们将听到一些人谈论在施舍厨房帮忙。"
+    },
+    {
+      "id": 21,
+      "start": 62.52,
+      "end": 62.78,
+      "en": "Let's listen.",
+      "zh": "我们来听听。"
+    },
+    {
+      "id": 22,
+      "start": 69.95,
+      "end": 72.01,
+      "en": "Thanks a lot for pitching in once again, Judy.",
+      "zh": "朱迪，真谢谢你又来帮忙。"
+    },
+    {
+      "id": 23,
+      "start": 72.47,
+      "end": 73.69,
+      "en": "We really appreciate your help.",
+      "zh": "我们非常感谢您的帮助。"
+    },
+    {
+      "id": 24,
+      "start": 74.09,
+      "end": 78.93,
+      "en": "It seems that at this time of year, there are more and more people who are struggling to make ends meet.",
+      "zh": "似乎在每年的这个时候，越来越多的人正在努力维持生计。"
+    },
+    {
+      "id": 25,
+      "start": 79.42,
+      "end": 83.48,
+      "en": "There aren't many professional chefs like you who are so generous with their time.",
+      "zh": "像你这样愿意花这么多时间帮忙的专业厨师可不多。"
+    },
+    {
+      "id": 26,
+      "start": 84.02,
+      "end": 84.84,
+      "en": "Don't be silly, Mark.",
+      "zh": "别傻了，马克。"
+    },
+    {
+      "id": 27,
+      "start": 85.08,
+      "end": 87.54,
+      "en": "I'm more than happy to devote my time to a good cause.",
+      "zh": "我很乐意将我的时间投入到一个好的事业上。"
+    },
+    {
+      "id": 28,
+      "start": 88.2,
+      "end": 91.16,
+      "en": "Volunteering at the soup kitchen has been really rewarding for me.",
+      "zh": "在这个慈善食堂做志愿者，让我觉得特别有意义。"
+    },
+    {
+      "id": 29,
+      "start": 91.62,
+      "end": 94.96,
+      "en": "You know, it's satisfying to provide good meals for those who are less fortunate.",
+      "zh": "你知道，为不幸的人提供美食是令人满意的。"
+    },
+    {
+      "id": 30,
+      "start": 95.64,
+      "end": 98.32,
+      "en": "I feel like I'm really making a difference in some small way.",
+      "zh": "我觉得我真的在某种程度上有所作为。"
+    },
+    {
+      "id": 31,
+      "start": 99.2,
+      "end": 101.96,
+      "en": "Well, your skills are definitely appreciated here.",
+      "zh": "好吧，您的技能在这里绝对值得赞赏。"
+    },
+    {
+      "id": 32,
+      "start": 102.62,
+      "end": 107.94,
+      "en": "The people who come here have fallen on hard times and a delicious hot meal can really bolster their spirits.",
+      "zh": "来到这里的人都陷入了困境，一顿美味的热餐真的可以振奋他们的精神。"
+    },
+    {
+      "id": 33,
+      "start": 109.67,
+      "end": 112.23,
+      "en": "Wow, that smells great.",
+      "zh": "哇，闻起来真香。"
+    },
+    {
+      "id": 34,
+      "start": 112.75,
+      "end": 114.71,
+      "en": "The needy are sure lucky to have you.",
+      "zh": "有需要的人肯定很幸运有你。"
+    },
+    {
+      "id": 35,
+      "start": 115.09,
+      "end": 116.07,
+      "en": "Thanks Mark.",
+      "zh": "谢谢，马克。"
+    },
+    {
+      "id": 36,
+      "start": 118.95,
+      "end": 119.83,
+      "en": "Here you go.",
+      "zh": "给你。"
+    },
+    {
+      "id": 37,
+      "start": 120.11,
+      "end": 120.81,
+      "en": "Enjoy your meal.",
+      "zh": "请慢用。"
+    },
+    {
+      "id": 38,
+      "start": 121.49,
+      "end": 122.73,
+      "en": "Thank you, my dear.",
+      "zh": "谢谢你，亲爱的。"
+    },
+    {
+      "id": 39,
+      "start": 123.37,
+      "end": 125.47,
+      "en": "Oh, this looks lovely.",
+      "zh": "哦，这看起来真不错。"
+    },
+    {
+      "id": 40,
+      "start": 126.35,
+      "end": 127.13,
+      "en": "You're welcome.",
+      "zh": "不客气。"
+    },
+    {
+      "id": 41,
+      "start": 129.29,
+      "end": 130.03,
+      "en": "Hello, sir.",
+      "zh": "您好，先生。"
+    },
+    {
+      "id": 42,
+      "start": 130.76,
+      "end": 131.76,
+      "en": "Today we have George.",
+      "zh": "今天我们准备了……乔治？"
+    },
+    {
+      "id": 43,
+      "start": 133.09,
+      "end": 133.93,
+      "en": "What are you doing here?",
+      "zh": "你来这里做什么？"
+    },
+    {
+      "id": 44,
+      "start": 134.47,
+      "end": 135.37,
+      "en": "Hey, Judy.",
+      "zh": "嗨，朱迪。"
+    },
+    {
+      "id": 45,
+      "start": 136.33,
+      "end": 137.99,
+      "en": "I'll have a little of everything.",
+      "zh": "每样都给我来一点。"
+    },
+    {
+      "id": 46,
+      "start": 138.68,
+      "end": 139.68,
+      "en": "Thanks.",
+      "zh": "谢谢。"
+    },
+    {
+      "id": 47,
+      "start": 139.68,
+      "end": 141.4,
+      "en": "Mmm, smells great.",
+      "zh": "嗯，闻起来很香。"
+    },
+    {
+      "id": 48,
+      "start": 141.43,
+      "end": 143.87,
+      "en": "George, seriously, what are you doing here?",
+      "zh": "乔治，说真的，你在这里做什么？"
+    },
+    {
+      "id": 49,
+      "start": 144.48,
+      "end": 147.08,
+      "en": "I haven't seen you since our divorce was finalized.",
+      "zh": "自从我们离婚后，我就没有见过你。"
+    },
+    {
+      "id": 50,
+      "start": 147.08,
+      "end": 148.21,
+      "en": "You've got no right to be here.",
+      "zh": "你没有权利在这里。"
+    },
+    {
+      "id": 51,
+      "start": 148.56,
+      "end": 149.31,
+      "en": "You're hardly homeless.",
+      "zh": "你哪能算无家可归。"
+    },
+    {
+      "id": 52,
+      "start": 150.4,
+      "end": 151.21,
+      "en": "Don't be like that, Judy.",
+      "zh": "不要这样，朱迪。"
+    },
+    {
+      "id": 53,
+      "start": 151.69,
+      "end": 153.01,
+      "en": "I really miss your home cooking.",
+      "zh": "我真的很想念你的家常菜。"
+    },
+    {
+      "id": 54,
+      "start": 154.2,
+      "end": 158.92,
+      "en": "All right, we're back.",
+      "zh": "好了，我们回来了。"
+    },
+    {
+      "id": 55,
+      "start": 158.92,
+      "end": 168.49,
+      "en": "So obviously this person, what was he, George, he didn't really need the food, but apparently I think he's divorced from his wife and he was like, oh, I need your food.",
+      "zh": "很明显这个人，他是什么，乔治，他真的不需要食物，但显然我认为他与妻子离婚了，他就像，哦，我需要你的食物。"
+    },
+    {
+      "id": 56,
+      "start": 169.26,
+      "end": 173.27,
+      "en": "But other people that were there were very much in need of this food.",
+      "zh": "但在那里的其他人非常需要这种食物。"
+    },
+    {
+      "id": 57,
+      "start": 173.44,
+      "end": 177.01,
+      "en": "So why don't we take a look at some of the words and phrases on Language Takeaway.",
+      "zh": "那么我们为什么不看看语言外卖中的一些单词和短语。"
+    },
+    {
+      "id": 58,
+      "start": 179.76,
+      "end": 180.76,
+      "en": "Language Takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 59,
+      "start": 181.61,
+      "end": 188.73,
+      "en": "Well, we've got a couple of interesting words here at the beginning that have to do with volunteering or helping other people.",
+      "zh": "好吧，我们一开始这里有几个有趣的词，这些词与志愿服务或帮助他人有关。"
+    },
+    {
+      "id": 60,
+      "start": 188.73,
+      "end": 192.41,
+      "en": "The first phrase we have actually is to pitch in.",
+      "zh": "我们实际拥有的第一个短语是投入。"
+    },
+    {
+      "id": 61,
+      "start": 192.77,
+      "end": 194.23,
+      "en": "That's right, to pitch in.",
+      "zh": "没错，投球。"
+    },
+    {
+      "id": 62,
+      "start": 194.49,
+      "end": 198.21,
+      "en": "So when you pitch in, that's a way of saying helping, right?",
+      "zh": "所以当你投入时，这是一种说帮助的方式，对吧？"
+    },
+    {
+      "id": 63,
+      "start": 198.57,
+      "end": 199.45,
+      "en": "That's right, to help.",
+      "zh": "没错，帮忙。"
+    },
+    {
+      "id": 64,
+      "start": 201.03,
+      "end": 202.44,
+      "en": "So I could ask you for your help with something.",
+      "zh": "所以我可以向你寻求帮助。"
+    },
+    {
+      "id": 65,
+      "start": 202.6,
+      "end": 206.96,
+      "en": "I could say, hey, Marco, can you pitch in a little of your time with this project I have?",
+      "zh": "我可以说，嘿，Marco，你能在我的这个项目上投入一点时间吗？"
+    },
+    {
+      "id": 66,
+      "start": 206.96,
+      "end": 209.66,
+      "en": "Okay, so dedicate or to help, to pitch in.",
+      "zh": "好的，所以奉献或帮助，投入。"
+    },
+    {
+      "id": 67,
+      "start": 210.12,
+      "end": 212.18,
+      "en": "So when you pitch in, you are helping.",
+      "zh": "所以当你投入时，你正在帮助。"
+    },
+    {
+      "id": 68,
+      "start": 212.64,
+      "end": 215.28,
+      "en": "This is a really common phrase, very colloquial though, right?",
+      "zh": "这是一个非常常见的短语，非常口语，对吧？"
+    },
+    {
+      "id": 69,
+      "start": 215.8,
+      "end": 217.0,
+      "en": "To pitch in, that's right.",
+      "zh": "投入，是对的。"
+    },
+    {
+      "id": 70,
+      "start": 217.42,
+      "end": 217.64,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 71,
+      "start": 218.18,
+      "end": 219.7,
+      "en": "And then moving on, another adjective.",
+      "zh": "然后继续前进，另一个形容词。"
+    },
+    {
+      "id": 72,
+      "start": 219.98,
+      "end": 225.12,
+      "en": "When a person likes to help or gives money to the poor, that person is generous.",
+      "zh": "当一个人喜欢帮助或给穷人钱时，这个人是慷慨的。"
+    },
+    {
+      "id": 73,
+      "start": 225.8,
+      "end": 226.12,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 74,
+      "start": 226.28,
+      "end": 227.3,
+      "en": "So generous is an adjective.",
+      "zh": "所以大方是一个形容词。"
+    },
+    {
+      "id": 75,
+      "start": 228.04,
+      "end": 232.48,
+      "en": "It means a person can be generous or an effort can be generous.",
+      "zh": "这意味着一个人可以慷慨，也可以是慷慨的努力。"
+    },
+    {
+      "id": 76,
+      "start": 232.48,
+      "end": 239.16,
+      "en": "For example, a very famous generous person is Mother Teresa of Calcutta.",
+      "zh": "例如，一个非常有名的慷慨人是加尔各答的特蕾莎修女。"
+    },
+    {
+      "id": 77,
+      "start": 239.16,
+      "end": 243.16,
+      "en": "I was thinking Warren Buffett, but both of them are very generous.",
+      "zh": "我在想沃伦巴菲特，但他们两个都非常慷慨。"
+    },
+    {
+      "id": 78,
+      "start": 243.16,
+      "end": 248.08,
+      "en": "Mother Teresa for giving back to the poor and Warren Buffett for donating most of his money.",
+      "zh": "特蕾莎修女回馈穷人和沃伦巴菲特捐赠了他的大部分钱。"
+    },
+    {
+      "id": 79,
+      "start": 248.08,
+      "end": 248.44,
+      "en": "Okay, very good.",
+      "zh": "好，很好。"
+    },
+    {
+      "id": 80,
+      "start": 249.08,
+      "end": 251.24,
+      "en": "So that is a sign of a person that is generous.",
+      "zh": "所以这是一个人慷慨的标志。"
+    },
+    {
+      "id": 81,
+      "start": 252.34,
+      "end": 258.64,
+      "en": "So usually generous people like Warren Buffett, you say he gave away his fortune to people that didn't have money.",
+      "zh": "所以通常是像沃伦巴菲特这样慷慨的人，你说他把财富给了没有钱的人。"
+    },
+    {
+      "id": 82,
+      "start": 259.12,
+      "end": 261.54,
+      "en": "We call these people the less fortunate.",
+      "zh": "我们称这些人为不幸的人。"
+    },
+    {
+      "id": 83,
+      "start": 262.18,
+      "end": 262.6,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 84,
+      "start": 263.48,
+      "end": 268.4,
+      "en": "So as you said, we've got three words here that mean poor people basically.",
+      "zh": "所以正如你所说，我们这里有三个词，这基本上意味着穷人。"
+    },
+    {
+      "id": 85,
+      "start": 268.4,
+      "end": 272.28,
+      "en": "And we don't like to say poor people in English because it's not very nice.",
+      "zh": "我们不喜欢用英语说穷人，因为它不是很好。"
+    },
+    {
+      "id": 86,
+      "start": 272.28,
+      "end": 278.36,
+      "en": "You know, people can't control their situation in many cases and it's more of a situation of not having what others have.",
+      "zh": "你知道，人们在很多情况下无法控制自己的处境，这更多的是没有别人拥有的情况。"
+    },
+    {
+      "id": 87,
+      "start": 278.36,
+      "end": 280.48,
+      "en": "And so one way to say this is less fortunate.",
+      "zh": "所以说这一点的一种方式就不那么幸运了。"
+    },
+    {
+      "id": 88,
+      "start": 280.48,
+      "end": 284.74,
+      "en": "So a person that's less fortunate is a person that's poor.",
+      "zh": "所以一个不幸的人是一个贫穷的人。"
+    },
+    {
+      "id": 89,
+      "start": 284.74,
+      "end": 285.74,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 90,
+      "start": 285.74,
+      "end": 291.0,
+      "en": "So for example, we often try to help the less fortunate by volunteering our time.",
+      "zh": "因此，例如，我们经常尝试通过志愿服务来帮助不幸的人。"
+    },
+    {
+      "id": 91,
+      "start": 291.0,
+      "end": 295.09,
+      "en": "Okay, so fortunate is a way of saying that you have fortune or you have luck.",
+      "zh": "好吧，所以幸运是一种说你有财富或你有运气的方式。"
+    },
+    {
+      "id": 92,
+      "start": 295.29,
+      "end": 299.05,
+      "en": "So if you say you are very fortunate, that means that you are very lucky.",
+      "zh": "所以如果你说你很幸运，那就意味着你很幸运。"
+    },
+    {
+      "id": 93,
+      "start": 299.49,
+      "end": 299.81,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 94,
+      "start": 300.68,
+      "end": 302.84,
+      "en": "Okay, so less fortunate means poor.",
+      "zh": "好吧，所以不幸的是穷人。"
+    },
+    {
+      "id": 95,
+      "start": 302.84,
+      "end": 307.32,
+      "en": "And another way of saying that somebody is poor, you say that person is needy.",
+      "zh": "另一种说法是某人很穷，你说那个人有需要。"
+    },
+    {
+      "id": 96,
+      "start": 307.32,
+      "end": 308.4,
+      "en": "Needy.",
+      "zh": "需要。"
+    },
+    {
+      "id": 97,
+      "start": 308.45,
+      "end": 311.85,
+      "en": "So this probably makes you think of the word need to need and you're right.",
+      "zh": "所以这可能会让你想到需要这个词，你是对的。"
+    },
+    {
+      "id": 98,
+      "start": 312.25,
+      "end": 313.25,
+      "en": "This comes from need.",
+      "zh": "这来自需要。"
+    },
+    {
+      "id": 99,
+      "start": 313.73,
+      "end": 318.93,
+      "en": "So someone who is needy needs things, needs money, needs help, needs food.",
+      "zh": "所以有需要的人需要东西，需要钱，需要帮助，需要食物。"
+    },
+    {
+      "id": 100,
+      "start": 319.31,
+      "end": 321.03,
+      "en": "Okay, even attention, right?",
+      "zh": "好吧，甚至注意力，对吧？"
+    },
+    {
+      "id": 101,
+      "start": 321.27,
+      "end": 324.23,
+      "en": "Somebody that's needy might need a lot of attention all the time.",
+      "zh": "有需要的人可能一直需要很多关注。"
+    },
+    {
+      "id": 102,
+      "start": 324.24,
+      "end": 325.24,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 103,
+      "start": 325.24,
+      "end": 325.97,
+      "en": "So this could actually be a bad thing.",
+      "zh": "所以这实际上可能是一件坏事。"
+    },
+    {
+      "id": 104,
+      "start": 327.0,
+      "end": 328.53,
+      "en": "Someone who's needy says, look at me, look at me.",
+      "zh": "有需要的人说，看着我，看着我。"
+    },
+    {
+      "id": 105,
+      "start": 328.75,
+      "end": 330.09,
+      "en": "Oh my gosh, look at me, listen to me.",
+      "zh": "哦，我的天哪，看着我，听我的。"
+    },
+    {
+      "id": 106,
+      "start": 330.29,
+      "end": 331.45,
+      "en": "And that can be very annoying.",
+      "zh": "这可能非常烦人。"
+    },
+    {
+      "id": 107,
+      "start": 331.81,
+      "end": 333.42,
+      "en": "Okay, so the needy.",
+      "zh": "好吧，所以有需要的人。"
+    },
+    {
+      "id": 108,
+      "start": 334.02,
+      "end": 340.22,
+      "en": "And now finally, a very common word to say that somebody is very poor, doesn't have a place to live, doesn't have a home.",
+      "zh": "最后，一个很常见的词说某人很穷，没有地方住，没有家。"
+    },
+    {
+      "id": 109,
+      "start": 340.86,
+      "end": 342.58,
+      "en": "You say that person is homeless.",
+      "zh": "你说那个人无家可归。"
+    },
+    {
+      "id": 110,
+      "start": 343.26,
+      "end": 346.02,
+      "en": "Homeless literally means without a home.",
+      "zh": "无家可归者字面意思是没有家。"
+    },
+    {
+      "id": 111,
+      "start": 346.52,
+      "end": 359.62,
+      "en": "And so we often talk about the homeless as being a group of people we want to help in society because the homeless live on the streets, they live in public and in the winter and times when it's really, really cold, it's very dangerous for them.",
+      "zh": "所以我们经常把无家可归者说成是一群我们想在社会上帮助的人，因为无家可归的人生活在街上，他们生活在公共场合，在冬天和寒冷的时候，对他们来说是非常危险的。"
+    },
+    {
+      "id": 112,
+      "start": 360.4,
+      "end": 366.24,
+      "en": "So the homeless are a group that people try to help with these soup kitchens and shelters.",
+      "zh": "所以无家可归者是人们试图帮助这些施粥所和避难所的群体。"
+    },
+    {
+      "id": 113,
+      "start": 366.92,
+      "end": 367.7,
+      "en": "Okay, very good.",
+      "zh": "好，很好。"
+    },
+    {
+      "id": 114,
+      "start": 368.32,
+      "end": 371.16,
+      "en": "So a lot of interesting words, common phrases, they're very useful.",
+      "zh": "所以很多有趣的单词，常用短语，它们非常有用。"
+    },
+    {
+      "id": 115,
+      "start": 371.96,
+      "end": 376.62,
+      "en": "So why don't we go back, listen to this dialogue again and we'll be back in a little bit with Fluency Builder.",
+      "zh": "那么我们为什么不回去，再听一次这个对话，我们会在 Flueny Builder 中回来一点。"
+    },
+    {
+      "id": 116,
+      "start": 382.22,
+      "end": 384.36,
+      "en": "Thanks a lot for pitching in once again, Judy.",
+      "zh": "朱迪，真谢谢你又来帮忙。"
+    },
+    {
+      "id": 117,
+      "start": 384.84,
+      "end": 386.04,
+      "en": "We really appreciate your help.",
+      "zh": "我们非常感谢您的帮助。"
+    },
+    {
+      "id": 118,
+      "start": 386.44,
+      "end": 391.28,
+      "en": "It seems that at this time of year, there are more and more people who are struggling to make ends meet.",
+      "zh": "似乎在每年的这个时候，越来越多的人正在努力维持生计。"
+    },
+    {
+      "id": 119,
+      "start": 391.72,
+      "end": 395.84,
+      "en": "There aren't many professional chefs like you who are so generous with their time.",
+      "zh": "像你这样愿意花这么多时间帮忙的专业厨师可不多。"
+    },
+    {
+      "id": 120,
+      "start": 396.22,
+      "end": 397.16,
+      "en": "Don't be silly, Mark.",
+      "zh": "别傻了，马克。"
+    },
+    {
+      "id": 121,
+      "start": 397.42,
+      "end": 399.88,
+      "en": "I'm more than happy to donate my time to a good cause.",
+      "zh": "我很乐意将我的时间捐给一个好的事业。"
+    },
+    {
+      "id": 122,
+      "start": 400.72,
+      "end": 403.48,
+      "en": "Volunteering at the soup kitchen has been really rewarding for me.",
+      "zh": "在这个慈善食堂做志愿者，让我觉得特别有意义。"
+    },
+    {
+      "id": 123,
+      "start": 403.9,
+      "end": 407.3,
+      "en": "You know, it's satisfying to provide good meals for those who are less fortunate.",
+      "zh": "你知道，为不幸的人提供美食是令人满意的。"
+    },
+    {
+      "id": 124,
+      "start": 407.94,
+      "end": 410.62,
+      "en": "I feel like I'm really making a difference in some small way.",
+      "zh": "我觉得我真的在某种程度上有所作为。"
+    },
+    {
+      "id": 125,
+      "start": 411.34,
+      "end": 414.34,
+      "en": "Well, your skills are definitely appreciated here.",
+      "zh": "好吧，您的技能在这里绝对值得赞赏。"
+    },
+    {
+      "id": 126,
+      "start": 414.9,
+      "end": 420.48,
+      "en": "The people who come here have fallen on hard times and a delicious hot meal can really bolster their spirits.",
+      "zh": "来到这里的人都陷入了困境，一顿美味的热餐真的可以振奋他们的精神。"
+    },
+    {
+      "id": 127,
+      "start": 421.82,
+      "end": 424.54,
+      "en": "Wow, that smells great.",
+      "zh": "哇，闻起来真香。"
+    },
+    {
+      "id": 128,
+      "start": 425.28,
+      "end": 427.04,
+      "en": "The needy are sure lucky to have you.",
+      "zh": "有需要的人肯定很幸运有你。"
+    },
+    {
+      "id": 129,
+      "start": 427.46,
+      "end": 428.38,
+      "en": "Thanks Mark.",
+      "zh": "谢谢，马克。"
+    },
+    {
+      "id": 130,
+      "start": 429.47,
+      "end": 430.45,
+      "en": "Here you go.",
+      "zh": "给你。"
+    },
+    {
+      "id": 131,
+      "start": 430.77,
+      "end": 431.43,
+      "en": "Enjoy your meal.",
+      "zh": "请慢用。"
+    },
+    {
+      "id": 132,
+      "start": 432.15,
+      "end": 433.35,
+      "en": "Thank you, my dear.",
+      "zh": "谢谢你，亲爱的。"
+    },
+    {
+      "id": 133,
+      "start": 433.97,
+      "end": 436.11,
+      "en": "Oh, this looks lovely.",
+      "zh": "哦，这看起来真不错。"
+    },
+    {
+      "id": 134,
+      "start": 437.28,
+      "end": 437.75,
+      "en": "You're welcome.",
+      "zh": "不客气。"
+    },
+    {
+      "id": 135,
+      "start": 438.37,
+      "end": 438.95,
+      "en": "Hello, sir.",
+      "zh": "您好，先生。"
+    },
+    {
+      "id": 136,
+      "start": 439.33,
+      "end": 441.26,
+      "en": "Today, we have George.",
+      "zh": "今天，我们有乔治。"
+    },
+    {
+      "id": 137,
+      "start": 441.87,
+      "end": 442.96,
+      "en": "What are you doing here?",
+      "zh": "你来这里做什么？"
+    },
+    {
+      "id": 138,
+      "start": 443.45,
+      "end": 444.48,
+      "en": "Hey, Judy.",
+      "zh": "嗨，朱迪。"
+    },
+    {
+      "id": 139,
+      "start": 444.93,
+      "end": 447.16,
+      "en": "I'll have a little of everything.",
+      "zh": "我会拥有一点点。"
+    },
+    {
+      "id": 140,
+      "start": 447.46,
+      "end": 447.7,
+      "en": "Thanks.",
+      "zh": "谢谢。"
+    },
+    {
+      "id": 141,
+      "start": 448.12,
+      "end": 449.8,
+      "en": "Mmm, smells great.",
+      "zh": "嗯，闻起来很香。"
+    },
+    {
+      "id": 142,
+      "start": 450.37,
+      "end": 452.88,
+      "en": "George, seriously, what are you doing here?",
+      "zh": "乔治，说真的，你在这里做什么？"
+    },
+    {
+      "id": 143,
+      "start": 453.29,
+      "end": 455.32,
+      "en": "I haven't seen you since our divorce was finalized.",
+      "zh": "自从我们离婚后，我就没有见过你。"
+    },
+    {
+      "id": 144,
+      "start": 455.79,
+      "end": 457.2,
+      "en": "You've got no right to be here.",
+      "zh": "你没有权利在这里。"
+    },
+    {
+      "id": 145,
+      "start": 457.34,
+      "end": 458.44,
+      "en": "You're hardly homeless.",
+      "zh": "你哪能算无家可归。"
+    },
+    {
+      "id": 146,
+      "start": 458.93,
+      "end": 460.32,
+      "en": "Don't be like that, Judy.",
+      "zh": "不要这样，朱迪。"
+    },
+    {
+      "id": 147,
+      "start": 460.52,
+      "end": 462.14,
+      "en": "I really miss your home cooking.",
+      "zh": "我真的很想念你的家常菜。"
+    },
+    {
+      "id": 148,
+      "start": 466.03,
+      "end": 466.93,
+      "en": "All right, we're back.",
+      "zh": "好了，我们回来了。"
+    },
+    {
+      "id": 149,
+      "start": 467.19,
+      "end": 469.71,
+      "en": "So, on Fluency Builder, today we have three key phrases.",
+      "zh": "所以，在 Fluency Builder 上，今天我们有三个关键短语。"
+    },
+    {
+      "id": 150,
+      "start": 470.13,
+      "end": 471.43,
+      "en": "So, we're gonna take a look at those now.",
+      "zh": "所以，我们现在要看看这些。"
+    },
+    {
+      "id": 151,
+      "start": 473.45,
+      "end": 474.19,
+      "en": "Fluency Builder.",
+      "zh": "流利表达。"
+    },
+    {
+      "id": 152,
+      "start": 475.25,
+      "end": 475.75,
+      "en": "OK.",
+      "zh": "好的。"
+    },
+    {
+      "id": 153,
+      "start": 475.95,
+      "end": 477.25,
+      "en": "So, what is that first phrase?",
+      "zh": "那么，第一个短语是什么？"
+    },
+    {
+      "id": 154,
+      "start": 477.89,
+      "end": 484.19,
+      "en": "Our first phrase comes from the starting of the dialogue with Mark who says there are some people who are struggling to make ends meet.",
+      "zh": "我们的第一个短语来自与马克对话的开始，他说有些人正在努力维持生计。"
+    },
+    {
+      "id": 155,
+      "start": 484.48,
+      "end": 487.2,
+      "en": "So, the phrase here is, to make ends meet.",
+      "zh": "所以，这里的短语是，为了维持生计。"
+    },
+    {
+      "id": 156,
+      "start": 487.2,
+      "end": 488.2,
+      "en": "OK.",
+      "zh": "好的。"
+    },
+    {
+      "id": 157,
+      "start": 488.2,
+      "end": 489.57,
+      "en": "Make ends meet.",
+      "zh": "维持生计。"
+    },
+    {
+      "id": 158,
+      "start": 492.09,
+      "end": 496.65,
+      "en": "So, if you take a look at this phrase, it's very hard to determine what that actually means.",
+      "zh": "所以，如果你看一下这句话，很难确定这实际上意味着什么。"
+    },
+    {
+      "id": 159,
+      "start": 497.76,
+      "end": 498.76,
+      "en": "What does it mean?",
+      "zh": "这是什么意思？"
+    },
+    {
+      "id": 160,
+      "start": 498.76,
+      "end": 499.76,
+      "en": "Think about a string.",
+      "zh": "想想一个字符串。"
+    },
+    {
+      "id": 161,
+      "start": 499.76,
+      "end": 502.33,
+      "en": "If you want to make a circle out of that string, you have to connect the ends.",
+      "zh": "如果你想用那个字符串做一个圆圈，你必须连接两端。"
+    },
+    {
+      "id": 162,
+      "start": 503.92,
+      "end": 508.89,
+      "en": "I think of that as being about your income and the money that you spend.",
+      "zh": "我认为这是关于你的收入和你花的钱。"
+    },
+    {
+      "id": 163,
+      "start": 509.96,
+      "end": 516.32,
+      "en": "I cannot make ends meet if I earn $10 every week but I spend $15 on my house and my food.",
+      "zh": "如果我每周赚 10 美元，我就无法维持生计，但我在我的房子和食物上花了 15 美元。"
+    },
+    {
+      "id": 164,
+      "start": 517.76,
+      "end": 522.76,
+      "en": "So, not being able to make ends meet means you spend more than you earn.",
+      "zh": "因此，无法维持生计意味着您的支出超过了您的收入。"
+    },
+    {
+      "id": 165,
+      "start": 522.76,
+      "end": 525.14,
+      "en": "That's not about cars and fancy TVs.",
+      "zh": "这与汽车和花哨的电视无关。"
+    },
+    {
+      "id": 166,
+      "start": 525.6,
+      "end": 529.48,
+      "en": "That's about your house, your heat, your bills, and your food.",
+      "zh": "那是关于你的房子、你的热量、你的账单和你的食物。"
+    },
+    {
+      "id": 167,
+      "start": 530.32,
+      "end": 535.6,
+      "en": "But I say, I've been able to make ends meet for a while now because I have a pretty good job.",
+      "zh": "但我说，我已经能够维持生计了一段时间，因为我的工作很好。"
+    },
+    {
+      "id": 168,
+      "start": 535.7,
+      "end": 539.06,
+      "en": "So, to make ends meet is to be able to pay for your necessities.",
+      "zh": "所以，维持生计就是能够支付你的必需品。"
+    },
+    {
+      "id": 169,
+      "start": 540.06,
+      "end": 544.18,
+      "en": "But he can't make ends meet means he can't support himself financially.",
+      "zh": "但他不能维持生计意味着他无法在经济上支持自己。"
+    },
+    {
+      "id": 170,
+      "start": 544.88,
+      "end": 545.42,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 171,
+      "start": 545.64,
+      "end": 549.32,
+      "en": "To make ends meet is pretty much to satisfy your basic necessities.",
+      "zh": "维持生计几乎是为了满足您的基本必需品。"
+    },
+    {
+      "id": 172,
+      "start": 549.9,
+      "end": 550.32,
+      "en": "Financially.",
+      "zh": "经济上。"
+    },
+    {
+      "id": 173,
+      "start": 550.62,
+      "end": 550.96,
+      "en": "Financially.",
+      "zh": "经济上。"
+    },
+    {
+      "id": 174,
+      "start": 551.72,
+      "end": 552.72,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 175,
+      "start": 552.72,
+      "end": 553.72,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 176,
+      "start": 553.72,
+      "end": 563.36,
+      "en": "And moving on, when we were talking about generosity and people helping out, if you help people that are less fortunate, you are making a difference in a small way.",
+      "zh": "继续前进，当我们谈论慷慨和帮助的人时，如果你帮助那些不幸的人，你就是在做一些小的改变。"
+    },
+    {
+      "id": 177,
+      "start": 564.03,
+      "end": 564.53,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 178,
+      "start": 564.55,
+      "end": 567.77,
+      "en": "So, this is a phrase that we hear all the time in the States.",
+      "zh": "所以，这是我们在美国经常听到的一个短语。"
+    },
+    {
+      "id": 179,
+      "start": 568.39,
+      "end": 573.19,
+      "en": "I'm not sure if it's the same in other English-speaking countries but it's a very popular phrase.",
+      "zh": "我不确定在其他英语国家是否相同，但这是一个非常流行的短语。"
+    },
+    {
+      "id": 180,
+      "start": 573.57,
+      "end": 579.35,
+      "en": "We talk about making a difference or trying to make a difference and it's not very clear what a difference really is.",
+      "zh": "我们谈论做出改变或试图有所作为，目前还不太清楚真正的区别是什么。"
+    },
+    {
+      "id": 181,
+      "start": 579.75,
+      "end": 582.69,
+      "en": "But generally this means doing good things for other people.",
+      "zh": "但一般来说，这意味着为其他人做好事。"
+    },
+    {
+      "id": 182,
+      "start": 583.12,
+      "end": 584.12,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 183,
+      "start": 584.12,
+      "end": 585.12,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 184,
+      "start": 585.12,
+      "end": 588.0,
+      "en": "So, celebrities try to make a difference with their money and their fame.",
+      "zh": "因此，名人试图通过他们的金钱和名声有所作为。"
+    },
+    {
+      "id": 185,
+      "start": 588.0,
+      "end": 591.93,
+      "en": "Some people try to make a difference by working at homeless shelters or at soup kitchens.",
+      "zh": "有些人试图通过在无家可归者收容所或施舍处工作来有所作为。"
+    },
+    {
+      "id": 186,
+      "start": 592.64,
+      "end": 594.77,
+      "en": "And so, there are many different ways to make a difference.",
+      "zh": "因此，有许多不同的方法可以有所作为。"
+    },
+    {
+      "id": 187,
+      "start": 594.99,
+      "end": 599.51,
+      "en": "But it's basically the idea that you volunteer or you give money to help other people.",
+      "zh": "但这基本上是您自愿或捐款帮助他人的想法。"
+    },
+    {
+      "id": 188,
+      "start": 599.8,
+      "end": 600.07,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 189,
+      "start": 600.8,
+      "end": 601.8,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 190,
+      "start": 601.8,
+      "end": 605.08,
+      "en": "And if for example you recycle, you can say you're making a difference in the environment.",
+      "zh": "例如，如果您回收利用，您可以说您正在对环境有所作为。"
+    },
+    {
+      "id": 191,
+      "start": 605.08,
+      "end": 605.21,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 192,
+      "start": 606.08,
+      "end": 607.08,
+      "en": "You're making a difference.",
+      "zh": "你正在做出改变。"
+    },
+    {
+      "id": 193,
+      "start": 607.08,
+      "end": 607.97,
+      "en": "Usually a difference is a positive thing.",
+      "zh": "通常差异是一件积极的事情。"
+    },
+    {
+      "id": 194,
+      "start": 608.24,
+      "end": 609.29,
+      "en": "So, keep that in mind.",
+      "zh": "所以，请记住这一点。"
+    },
+    {
+      "id": 195,
+      "start": 609.84,
+      "end": 610.84,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 196,
+      "start": 610.84,
+      "end": 617.95,
+      "en": "And for the last phrase on Fluency Builder today, we say that people who come here have fallen on hard times.",
+      "zh": "对于今天关于 Fluency Builder 的最后一句话，我们说来这里的人已经陷入了困境。"
+    },
+    {
+      "id": 197,
+      "start": 618.67,
+      "end": 621.79,
+      "en": "So, people that have fallen on hard times.",
+      "zh": "所以，那些陷入困境的人。"
+    },
+    {
+      "id": 198,
+      "start": 622.05,
+      "end": 624.01,
+      "en": "What does it mean if you fall on hard times?",
+      "zh": "如果你遇到困难，这意味着什么？"
+    },
+    {
+      "id": 199,
+      "start": 624.39,
+      "end": 627.61,
+      "en": "Well, basically hard times are difficulties, right?",
+      "zh": "好吧，基本上困难的时期是困难，对吧？"
+    },
+    {
+      "id": 200,
+      "start": 627.92,
+      "end": 633.56,
+      "en": "So, not being able to make ends meet, not being able to pay for your food and your housing.",
+      "zh": "因此，无法维持生计，无法支付您的食物和住房费用。"
+    },
+    {
+      "id": 201,
+      "start": 633.56,
+      "end": 635.31,
+      "en": "And so, we have the verb to fall.",
+      "zh": "所以，我们有动词要倒下。"
+    },
+    {
+      "id": 202,
+      "start": 636.04,
+      "end": 642.19,
+      "en": "You've fallen on hard times because you've gone from a place where you're comfortable to a lower place, a place where life is really hard.",
+      "zh": "你经历了艰难的时期，因为你已经从一个舒适的地方走到了一个更低的地方，一个生活真的很艰难的地方。"
+    },
+    {
+      "id": 203,
+      "start": 643.04,
+      "end": 645.24,
+      "en": "And so, think of this as a fixed phrase.",
+      "zh": "所以，把它想象成一个固定的短语。"
+    },
+    {
+      "id": 204,
+      "start": 645.24,
+      "end": 648.06,
+      "en": "He fell on hard times or they fell on hard times.",
+      "zh": "他在艰难时期跌倒，或者他们陷入困境。"
+    },
+    {
+      "id": 205,
+      "start": 648.4,
+      "end": 654.28,
+      "en": "This means they don't have much money or they can't support themselves or they went bankrupt, for example.",
+      "zh": "这意味着他们没有多少钱，或者他们不能养活自己，或者他们破产了。"
+    },
+    {
+      "id": 206,
+      "start": 654.66,
+      "end": 658.36,
+      "en": "So, somebody that loses their job may have fallen on hard times.",
+      "zh": "所以，失去工作的人可能陷入了困境。"
+    },
+    {
+      "id": 207,
+      "start": 658.82,
+      "end": 659.34,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 208,
+      "start": 659.72,
+      "end": 659.96,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 209,
+      "start": 660.22,
+      "end": 662.32,
+      "en": "And there's one more phrase here that deserves a little attention.",
+      "zh": "这里还有一个短语值得关注。"
+    },
+    {
+      "id": 210,
+      "start": 662.96,
+      "end": 664.32,
+      "en": "We heard this word to bolster.",
+      "zh": "我们听到这个词是为了支持。"
+    },
+    {
+      "id": 211,
+      "start": 665.12,
+      "end": 667.37,
+      "en": "To bolster is a verb that means to improve.",
+      "zh": "支持是一个动词，意思是改进。"
+    },
+    {
+      "id": 212,
+      "start": 667.72,
+      "end": 670.68,
+      "en": "So, a hot meal can really bolster their spirits.",
+      "zh": "所以，一顿热餐真的可以增强他们的精神。"
+    },
+    {
+      "id": 213,
+      "start": 670.68,
+      "end": 672.2,
+      "en": "It means it can make them feel better.",
+      "zh": "这意味着它可以让他们感觉更好。"
+    },
+    {
+      "id": 214,
+      "start": 672.47,
+      "end": 678.29,
+      "en": "So, to bolster their spirits means to make them feel happier, to lift their spirits.",
+      "zh": "所以，振奋他们的精神意味着让他们感到更快乐，振奋精神。"
+    },
+    {
+      "id": 215,
+      "start": 678.57,
+      "end": 678.79,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 216,
+      "start": 679.05,
+      "end": 680.39,
+      "en": "Exactly what you said, to make them feel happier.",
+      "zh": "正是你所说的，让他们感觉更快乐。"
+    },
+    {
+      "id": 217,
+      "start": 680.75,
+      "end": 680.99,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 218,
+      "start": 681.84,
+      "end": 682.84,
+      "en": "Awesome.",
+      "zh": "太棒了。"
+    },
+    {
+      "id": 219,
+      "start": 682.84,
+      "end": 684.64,
+      "en": "So, a lot of interesting phrases there.",
+      "zh": "所以，那里有很多有趣的短语。"
+    },
+    {
+      "id": 220,
+      "start": 684.64,
+      "end": 689.48,
+      "en": "Phrases that you can talk in English about making a difference, about volunteering.",
+      "zh": "您可以用英语谈论有所作为的短语，关于志愿服务。"
+    },
+    {
+      "id": 221,
+      "start": 689.48,
+      "end": 690.92,
+      "en": "Very interesting stuff.",
+      "zh": "非常有趣的东西。"
+    },
+    {
+      "id": 222,
+      "start": 690.92,
+      "end": 694.38,
+      "en": "Very good for conversations between friends and family.",
+      "zh": "非常适合朋友和家人之间的对话。"
+    },
+    {
+      "id": 223,
+      "start": 694.54,
+      "end": 698.04,
+      "en": "So, why don't we go back, listen to the dialogue again and we'll be back to talk a little bit more.",
+      "zh": "所以，我们为什么不回去，再听一次对话，我们会回来多说一点。"
+    },
+    {
+      "id": 224,
+      "start": 705.76,
+      "end": 707.88,
+      "en": "Thanks a lot for pitching in once again, Judy.",
+      "zh": "朱迪，真谢谢你又来帮忙。"
+    },
+    {
+      "id": 225,
+      "start": 708.34,
+      "end": 709.56,
+      "en": "We really appreciate your help.",
+      "zh": "我们非常感谢您的帮助。"
+    },
+    {
+      "id": 226,
+      "start": 709.92,
+      "end": 714.8,
+      "en": "It seems that at this time of year, there are more and more people who are struggling to make ends meet.",
+      "zh": "似乎在每年的这个时候，越来越多的人正在努力维持生计。"
+    },
+    {
+      "id": 227,
+      "start": 715.26,
+      "end": 719.32,
+      "en": "There aren't many professional chefs like you who are so generous with their time.",
+      "zh": "像你这样愿意花这么多时间帮忙的专业厨师可不多。"
+    },
+    {
+      "id": 228,
+      "start": 719.76,
+      "end": 720.7,
+      "en": "Don't be silly, Mark.",
+      "zh": "别傻了，马克。"
+    },
+    {
+      "id": 229,
+      "start": 720.9,
+      "end": 723.38,
+      "en": "I'm more than happy to devote my time to a good cause.",
+      "zh": "我很乐意将我的时间投入到一个好的事业上。"
+    },
+    {
+      "id": 230,
+      "start": 724.08,
+      "end": 727.0,
+      "en": "Volunteering at the Soup Kitchen has been really rewarding for me.",
+      "zh": "在施汤厨房做志愿者对我来说真的很有意义。"
+    },
+    {
+      "id": 231,
+      "start": 727.52,
+      "end": 730.84,
+      "en": "You know, it's satisfying to provide good meals for those who are less fortunate.",
+      "zh": "你知道，为不幸的人提供美食是令人满意的。"
+    },
+    {
+      "id": 232,
+      "start": 731.48,
+      "end": 734.14,
+      "en": "I feel like I'm really making a difference in some small way.",
+      "zh": "我觉得我真的在某种程度上有所作为。"
+    },
+    {
+      "id": 233,
+      "start": 734.86,
+      "end": 737.86,
+      "en": "Well, your skills are definitely appreciated here.",
+      "zh": "好吧，您的技能在这里绝对值得赞赏。"
+    },
+    {
+      "id": 234,
+      "start": 738.42,
+      "end": 744.0,
+      "en": "The people who come here have fallen on hard times and a delicious hot meal can really bolster their spirits.",
+      "zh": "来到这里的人都陷入了困境，一顿美味的热餐真的可以振奋他们的精神。"
+    },
+    {
+      "id": 235,
+      "start": 745.38,
+      "end": 748.08,
+      "en": "Wow, that smells great.",
+      "zh": "哇，闻起来真香。"
+    },
+    {
+      "id": 236,
+      "start": 748.8,
+      "end": 750.56,
+      "en": "The needy are sure lucky to have you.",
+      "zh": "有需要的人肯定很幸运有你。"
+    },
+    {
+      "id": 237,
+      "start": 750.98,
+      "end": 751.92,
+      "en": "Thanks Mark.",
+      "zh": "谢谢，马克。"
+    },
+    {
+      "id": 238,
+      "start": 754.78,
+      "end": 755.68,
+      "en": "Here you go.",
+      "zh": "给你。"
+    },
+    {
+      "id": 239,
+      "start": 756.0,
+      "end": 756.66,
+      "en": "Enjoy your meal.",
+      "zh": "请慢用。"
+    },
+    {
+      "id": 240,
+      "start": 757.42,
+      "end": 758.58,
+      "en": "Thank you, my dear.",
+      "zh": "谢谢你，亲爱的。"
+    },
+    {
+      "id": 241,
+      "start": 759.22,
+      "end": 761.44,
+      "en": "Oh, this looks lovely.",
+      "zh": "哦，这看起来真不错。"
+    },
+    {
+      "id": 242,
+      "start": 762.22,
+      "end": 762.98,
+      "en": "You're welcome.",
+      "zh": "不客气。"
+    },
+    {
+      "id": 243,
+      "start": 765.28,
+      "end": 765.88,
+      "en": "Hello, sir.",
+      "zh": "您好，先生。"
+    },
+    {
+      "id": 244,
+      "start": 766.56,
+      "end": 767.56,
+      "en": "Today we have George.",
+      "zh": "今天我们有乔治。"
+    },
+    {
+      "id": 245,
+      "start": 769.06,
+      "end": 769.8,
+      "en": "What are you doing here?",
+      "zh": "你来这里做什么？"
+    },
+    {
+      "id": 246,
+      "start": 770.3,
+      "end": 771.2,
+      "en": "Hey, Judy.",
+      "zh": "嗨，朱迪。"
+    },
+    {
+      "id": 247,
+      "start": 772.08,
+      "end": 775.44,
+      "en": "I'll have a little of everything, thanks.",
+      "zh": "我什么都有，谢谢。"
+    },
+    {
+      "id": 248,
+      "start": 775.44,
+      "end": 777.24,
+      "en": "Mmm, smells great.",
+      "zh": "嗯，闻起来很香。"
+    },
+    {
+      "id": 249,
+      "start": 777.28,
+      "end": 779.7,
+      "en": "George, seriously, what are you doing here?",
+      "zh": "乔治，说真的，你在这里做什么？"
+    },
+    {
+      "id": 250,
+      "start": 780.32,
+      "end": 782.88,
+      "en": "I haven't seen you since our divorce was finalized.",
+      "zh": "自从我们离婚后，我就没有见过你。"
+    },
+    {
+      "id": 251,
+      "start": 782.88,
+      "end": 784.08,
+      "en": "You've got no right to be here.",
+      "zh": "你没有权利在这里。"
+    },
+    {
+      "id": 252,
+      "start": 784.36,
+      "end": 785.2,
+      "en": "You're hardly homeless.",
+      "zh": "你哪能算无家可归。"
+    },
+    {
+      "id": 253,
+      "start": 785.86,
+      "end": 787.06,
+      "en": "Don't be like that, Judy.",
+      "zh": "不要这样，朱迪。"
+    },
+    {
+      "id": 254,
+      "start": 787.52,
+      "end": 788.84,
+      "en": "I really miss your home cooking.",
+      "zh": "我真的很想念你的家常菜。"
+    },
+    {
+      "id": 255,
+      "start": 795.76,
+      "end": 796.54,
+      "en": "Alright, we're back.",
+      "zh": "好了，我们回来了。"
+    },
+    {
+      "id": 256,
+      "start": 796.8,
+      "end": 799.94,
+      "en": "So talking about volunteering, have you ever done any volunteer work?",
+      "zh": "所以说到志愿服务，你做过志愿者工作吗？"
+    },
+    {
+      "id": 257,
+      "start": 800.14,
+      "end": 800.38,
+      "en": "I have.",
+      "zh": "我有。"
+    },
+    {
+      "id": 258,
+      "start": 800.54,
+      "end": 801.4,
+      "en": "I've done quite a bit, actually.",
+      "zh": "其实我做过不少"
+    },
+    {
+      "id": 259,
+      "start": 802.08,
+      "end": 803.08,
+      "en": "Yeah?",
+      "zh": "怎么了？"
+    },
+    {
+      "id": 260,
+      "start": 803.08,
+      "end": 804.08,
+      "en": "What have you done?",
+      "zh": "你做了什么？"
+    },
+    {
+      "id": 261,
+      "start": 804.08,
+      "end": 810.06,
+      "en": "Back when I was living in the United States, in Chicago, I used to cook for a homeless shelter every week.",
+      "zh": "当我住在美国的芝加哥时，我过去每周都会为无家可归者收容所做饭。"
+    },
+    {
+      "id": 262,
+      "start": 810.52,
+      "end": 811.66,
+      "en": "So I would bring food every Thursday.",
+      "zh": "所以我每周四都会带食物。"
+    },
+    {
+      "id": 263,
+      "start": 812.88,
+      "end": 814.82,
+      "en": "So you cook at home and you bring the food over to the shelter?",
+      "zh": "所以你在家做饭，把食物带到避难所？"
+    },
+    {
+      "id": 264,
+      "start": 815.2,
+      "end": 816.2,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 265,
+      "start": 816.2,
+      "end": 821.84,
+      "en": "So the shelter had a kitchen, but they used donations from people because there are so many people who came there for food.",
+      "zh": "所以避难所有一个厨房，但他们使用了人们的捐款，因为有很多人来这里吃饭。"
+    },
+    {
+      "id": 266,
+      "start": 821.84,
+      "end": 824.26,
+      "en": "And once a month I would volunteer to also serve the food.",
+      "zh": "每月一次，我会自愿提供食物。"
+    },
+    {
+      "id": 267,
+      "start": 825.16,
+      "end": 828.24,
+      "en": "So I would bring lasagna or pasta, things that most people like.",
+      "zh": "所以我会带千层面或意大利面，大多数人喜欢的东西。"
+    },
+    {
+      "id": 268,
+      "start": 828.72,
+      "end": 831.14,
+      "en": "And then once a month I would sit down with people and talk.",
+      "zh": "然后每个月我会和人坐下来谈谈。"
+    },
+    {
+      "id": 269,
+      "start": 831.36,
+      "end": 838.68,
+      "en": "You know, a lot of people are lonely when they're in homeless shelters because they come alone or maybe it's the mother and her child.",
+      "zh": "你知道，很多人在无家可归者收容所时会感到孤独，因为他们是一个人来的，或者可能是母亲和她的孩子。"
+    },
+    {
+      "id": 270,
+      "start": 838.68,
+      "end": 840.56,
+      "en": "It's nice to also come and sit and talk to them.",
+      "zh": "很高兴也能坐下来和他们交谈。"
+    },
+    {
+      "id": 271,
+      "start": 841.29,
+      "end": 850.32,
+      "en": "No, it's very interesting and I think volunteering is a much better solution than, for example, just giving out money to poor people or something like that.",
+      "zh": "不，这很有趣，我认为志愿服务是一个更好的解决方案，例如，将钱捐给穷人或类似的东西。"
+    },
+    {
+      "id": 272,
+      "start": 850.32,
+      "end": 851.48,
+      "en": "I don't think that's really the solution.",
+      "zh": "我不认为这真的是解决方案。"
+    },
+    {
+      "id": 273,
+      "start": 851.48,
+      "end": 856.76,
+      "en": "I think you should dedicate your time and your energy to making a difference, like in the dialogue.",
+      "zh": "我认为你应该把你的时间和精力奉献给改变，就像在对话中一样。"
+    },
+    {
+      "id": 274,
+      "start": 856.76,
+      "end": 864.37,
+      "en": "And I think that the other benefit is for you, the volunteer, because it changes your perspective on poverty and on humanity.",
+      "zh": "我认为另一个好处是给你的志愿者，因为它改变了你对贫困和人类的看法。"
+    },
+    {
+      "id": 275,
+      "start": 864.96,
+      "end": 867.25,
+      "en": "And you think about, well, you know, I could be this person.",
+      "zh": "你想，好吧，你知道，我可以成为这个人。"
+    },
+    {
+      "id": 276,
+      "start": 867.7,
+      "end": 870.31,
+      "en": "He was a banker two years ago and now he doesn't have a house.",
+      "zh": "两年前他是一名银行家，现在他没有房子。"
+    },
+    {
+      "id": 277,
+      "start": 870.88,
+      "end": 873.67,
+      "en": "And so I think it has a positive effect on everybody involved.",
+      "zh": "所以我认为它对所有相关人员都有积极的影响。"
+    },
+    {
+      "id": 278,
+      "start": 874.07,
+      "end": 874.67,
+      "en": "Yeah, for sure.",
+      "zh": "对，当然。"
+    },
+    {
+      "id": 279,
+      "start": 874.87,
+      "end": 876.53,
+      "en": "No, I think it's a very rewarding experience.",
+      "zh": "不，我认为这是一次非常有益的经历。"
+    },
+    {
+      "id": 280,
+      "start": 876.53,
+      "end": 882.61,
+      "en": "And I think EnglishPod definitely supports that you should volunteer, you should make a difference.",
+      "zh": "而且我认为 EnglishPod 绝对支持你应该自愿，你应该有所作为。"
+    },
+    {
+      "id": 281,
+      "start": 883.16,
+      "end": 885.6,
+      "en": "And I think we can all help each other, right?",
+      "zh": "我想我们都可以互相帮助，对吧？"
+    },
+    {
+      "id": 282,
+      "start": 885.6,
+      "end": 885.73,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 283,
+      "start": 886.6,
+      "end": 887.63,
+      "en": "Have you ever volunteered?",
+      "zh": "你曾经自愿过吗？"
+    },
+    {
+      "id": 284,
+      "start": 888.0,
+      "end": 889.39,
+      "en": "What kind of volunteer work have you done?",
+      "zh": "你做了什么样的志愿者工作？"
+    },
+    {
+      "id": 285,
+      "start": 889.59,
+      "end": 891.17,
+      "en": "Has it been environmental or social?",
+      "zh": "它是环境的还是社会的？"
+    },
+    {
+      "id": 286,
+      "start": 891.84,
+      "end": 893.76,
+      "en": "Let us know on our website, EnglishPod.com.",
+      "zh": "请到我们的网站 EnglishPod.com 告诉我们。"
+    },
+    {
+      "id": 287,
+      "start": 893.76,
+      "end": 894.35,
+      "en": "We hope to see you there.",
+      "zh": "希望到时候见到你。"
+    },
+    {
+      "id": 288,
+      "start": 894.53,
+      "end": 894.69,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 289,
+      "start": 895.05,
+      "end": 895.29,
+      "en": "Bye, everyone.",
+      "zh": "大家再见。"
+    },
+    {
+      "id": 290,
+      "start": 895.57,
+      "end": 895.69,
+      "en": "Bye.",
+      "zh": "再见。"
+    }
+  ],
+  "dialog": {
+    "start": 69.95,
+    "end": 153.01,
+    "segmentIds": [
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53
+    ]
+  }
+}

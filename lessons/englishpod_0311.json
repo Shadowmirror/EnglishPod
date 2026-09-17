@@ -1,0 +1,1819 @@
+{
+  "version": 1,
+  "id": 311,
+  "number": "0311",
+  "title": "The Office - Sorry I'm Late",
+  "audio": "mp3/311. The Office - Sorry I'm Late.mp3",
+  "duration": 677.48575,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.52,
+      "end": 3.74,
+      "en": "Hello everyone and welcome to EnglishPod.",
+      "zh": "大家好，欢迎来到 EnglishPod。"
+    },
+    {
+      "id": 2,
+      "start": 4.06,
+      "end": 4.48,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 4.94,
+      "end": 8.84,
+      "en": "My name is Catherine and today we're talking about a very important topic.",
+      "zh": "我的名字是凯瑟琳，今天我们正在谈论一个非常重要的话题。"
+    },
+    {
+      "id": 4,
+      "start": 9.04,
+      "end": 9.96,
+      "en": "This is about time.",
+      "zh": "这是关于时间的。"
+    },
+    {
+      "id": 5,
+      "start": 10.72,
+      "end": 11.12,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 6,
+      "start": 11.46,
+      "end": 17.46,
+      "en": "So sometimes we are a little bit lazy or maybe we sleep too much and we're late to work or a meeting.",
+      "zh": "所以有时我们有点懒惰，或者我们睡得太多了，我们上班或开会迟到了。"
+    },
+    {
+      "id": 7,
+      "start": 18.12,
+      "end": 19.12,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 8,
+      "start": 19.12,
+      "end": 21.04,
+      "en": "So learn many different ways to talk about being late today.",
+      "zh": "所以学习许多不同的方式来谈论今天迟到的事情。"
+    },
+    {
+      "id": 9,
+      "start": 21.42,
+      "end": 22.66,
+      "en": "Let's take a listen to our dialogue.",
+      "zh": "我们来听听对话。"
+    },
+    {
+      "id": 10,
+      "start": 27.99,
+      "end": 28.73,
+      "en": "Okay, everyone.",
+      "zh": "好了，各位。"
+    },
+    {
+      "id": 11,
+      "start": 28.95,
+      "end": 29.61,
+      "en": "Shall we begin?",
+      "zh": "我们要开始吗？"
+    },
+    {
+      "id": 12,
+      "start": 29.85,
+      "end": 31.95,
+      "en": "Sorry Maggie, but we're missing a few people.",
+      "zh": "抱歉，玛吉，还有几个人没到。"
+    },
+    {
+      "id": 13,
+      "start": 32.25,
+      "end": 32.99,
+      "en": "Can we hang on a sec?",
+      "zh": "能稍等一下吗？"
+    },
+    {
+      "id": 14,
+      "start": 33.32,
+      "end": 37.76,
+      "en": "Well, I did say 11 o'clock sharp and it's now five past.",
+      "zh": "好吧，我确实说过 11 点钟，现在已经过去 5 点了。"
+    },
+    {
+      "id": 15,
+      "start": 37.76,
+      "end": 38.45,
+      "en": "So...",
+      "zh": "那么……"
+    },
+    {
+      "id": 16,
+      "start": 38.76,
+      "end": 39.17,
+      "en": "Hi, everyone.",
+      "zh": "大家好。"
+    },
+    {
+      "id": 17,
+      "start": 39.9,
+      "end": 40.89,
+      "en": "I'm so sorry I'm late.",
+      "zh": "我很抱歉我迟到了。"
+    },
+    {
+      "id": 18,
+      "start": 41.52,
+      "end": 45.35,
+      "en": "It's raining cats and dogs outside and I had to wait ages for a taxi.",
+      "zh": "外面下着倾盆大雨，我等了好久才打到车。"
+    },
+    {
+      "id": 19,
+      "start": 45.84,
+      "end": 46.33,
+      "en": "Okay, James.",
+      "zh": "好的，詹姆斯。"
+    },
+    {
+      "id": 20,
+      "start": 46.89,
+      "end": 48.09,
+      "en": "Take a seat quickly, please.",
+      "zh": "请快点坐下。"
+    },
+    {
+      "id": 21,
+      "start": 48.63,
+      "end": 49.05,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 22,
+      "start": 49.07,
+      "end": 50.73,
+      "en": "The subject of the meeting is the importance.",
+      "zh": "这次会议的主题是……的重要性。"
+    },
+    {
+      "id": 23,
+      "start": 51.55,
+      "end": 52.25,
+      "en": "Hi, guys.",
+      "zh": "嗨，各位。"
+    },
+    {
+      "id": 24,
+      "start": 52.87,
+      "end": 53.81,
+      "en": "Please excuse me.",
+      "zh": "请原谅。"
+    },
+    {
+      "id": 25,
+      "start": 54.03,
+      "end": 55.07,
+      "en": "I was held up in traffic.",
+      "zh": "我堵在路上了。"
+    },
+    {
+      "id": 26,
+      "start": 55.9,
+      "end": 56.4,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 27,
+      "start": 57.02,
+      "end": 59.94,
+      "en": "As I was saying, the subject of the meeting is...",
+      "zh": "正如我所说，会议的主题是..."
+    },
+    {
+      "id": 28,
+      "start": 60.0,
+      "end": 61.0,
+      "en": "Hi, Maggie.",
+      "zh": "嗨，玛姬。"
+    },
+    {
+      "id": 29,
+      "start": 61.0,
+      "end": 61.66,
+      "en": "I'm terribly sorry.",
+      "zh": "实在抱歉。"
+    },
+    {
+      "id": 30,
+      "start": 62.0,
+      "end": 63.22,
+      "en": "The traffic is murder out there.",
+      "zh": "外面堵车堵得要命。"
+    },
+    {
+      "id": 31,
+      "start": 63.56,
+      "end": 63.92,
+      "en": "Sit down, Bruno.",
+      "zh": "坐下，布鲁诺。"
+    },
+    {
+      "id": 32,
+      "start": 65.82,
+      "end": 66.32,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 33,
+      "start": 66.32,
+      "end": 71.78,
+      "en": "Now, as you're aware, the topic for the meeting is the importance of being punctual.",
+      "zh": "现在，正如您所知道的，会议的主题是准时的重要性。"
+    },
+    {
+      "id": 34,
+      "start": 72.5,
+      "end": 73.52,
+      "en": "Who would like to start?",
+      "zh": "谁想开始？"
+    },
+    {
+      "id": 35,
+      "start": 74.16,
+      "end": 75.68,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 36,
+      "start": 76.78,
+      "end": 77.02,
+      "en": "We're back.",
+      "zh": "我们回来了。"
+    },
+    {
+      "id": 37,
+      "start": 77.28,
+      "end": 80.0,
+      "en": "So now let's take a look at some of this vocab on Language Takeaway.",
+      "zh": "所以现在让我们来看看一些关于语言外卖的词汇。"
+    },
+    {
+      "id": 38,
+      "start": 83.08,
+      "end": 83.39,
+      "en": "Language Takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 39,
+      "start": 85.46,
+      "end": 87.48,
+      "en": "So first up, we have a word that we heard.",
+      "zh": "所以首先，我们有一个听到的词。"
+    },
+    {
+      "id": 40,
+      "start": 88.0,
+      "end": 91.2,
+      "en": "The phrase was, I did say 11 o'clock sharp.",
+      "zh": "这句话是，我确实说了 11 点钟。"
+    },
+    {
+      "id": 41,
+      "start": 91.4,
+      "end": 92.4,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 42,
+      "start": 92.4,
+      "end": 96.78,
+      "en": "So if you say the time, like 11 o'clock, and then you add sharp at the end, what does that mean?",
+      "zh": "所以如果你说时间，比如 11 点钟，然后你在最后添加了尖锐，那是什么意思？"
+    },
+    {
+      "id": 43,
+      "start": 97.84,
+      "end": 98.84,
+      "en": "That means exactly.",
+      "zh": "这意味着确切地说。"
+    },
+    {
+      "id": 44,
+      "start": 98.84,
+      "end": 102.84,
+      "en": "So, 11 o'clock, exactly 11 o'clock.",
+      "zh": "所以，11点钟，正好11点钟。"
+    },
+    {
+      "id": 45,
+      "start": 102.84,
+      "end": 104.58,
+      "en": "11, zero, zero.",
+      "zh": "11、零、零。"
+    },
+    {
+      "id": 46,
+      "start": 104.58,
+      "end": 107.88,
+      "en": "Not 1101, not 1102, but 11 o'clock.",
+      "zh": "不是 1101，不是 1102，而是 11 点钟。"
+    },
+    {
+      "id": 47,
+      "start": 107.88,
+      "end": 111.78,
+      "en": "So if I say, I'll be there at three o'clock sharp.",
+      "zh": "所以如果我说，我会在三点钟到那里。"
+    },
+    {
+      "id": 48,
+      "start": 112.64,
+      "end": 115.36,
+      "en": "That means you won't be there at 2.58.",
+      "zh": "这意味着你不会在 2.58 时到达那里。"
+    },
+    {
+      "id": 49,
+      "start": 115.36,
+      "end": 118.2,
+      "en": "You will not be there at 3.04.",
+      "zh": "您将在 3.04 时不会在那里。"
+    },
+    {
+      "id": 50,
+      "start": 118.2,
+      "end": 119.82,
+      "en": "You'll be there at three o'clock.",
+      "zh": "你会在三点钟到。"
+    },
+    {
+      "id": 51,
+      "start": 119.82,
+      "end": 119.96,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 52,
+      "start": 120.82,
+      "end": 121.82,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 53,
+      "start": 121.82,
+      "end": 122.82,
+      "en": "So three o'clock sharp.",
+      "zh": "那么三点钟就尖锐了。"
+    },
+    {
+      "id": 54,
+      "start": 122.82,
+      "end": 125.74,
+      "en": "So if you say the time and then you add sharp, it means at that exact time.",
+      "zh": "因此，如果您说时间然后添加尖锐，则意味着在那个确切的时间。"
+    },
+    {
+      "id": 55,
+      "start": 126.96,
+      "end": 128.69,
+      "en": "Now James was late.",
+      "zh": "现在詹姆斯迟到了。"
+    },
+    {
+      "id": 56,
+      "start": 128.81,
+      "end": 132.97,
+      "en": "He said he was late because he had to wait ages for a taxi.",
+      "zh": "他说他迟到了，因为他必须等很长时间才能坐出租车。"
+    },
+    {
+      "id": 57,
+      "start": 133.56,
+      "end": 133.98,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 58,
+      "start": 133.98,
+      "end": 138.48,
+      "en": "So this might be confusing for some people, Marco, because I can say, what's your age?",
+      "zh": "所以这可能会让某些人感到困惑，马可，因为我可以说，你的年龄是多少？"
+    },
+    {
+      "id": 59,
+      "start": 138.96,
+      "end": 139.44,
+      "en": "How old are you?",
+      "zh": "你多大了？"
+    },
+    {
+      "id": 60,
+      "start": 140.06,
+      "end": 142.18,
+      "en": "But here, ages has a different meaning.",
+      "zh": "但在这里，年龄有不同的含义。"
+    },
+    {
+      "id": 61,
+      "start": 142.96,
+      "end": 146.7,
+      "en": "So I had to wait ages means I waited a very long time.",
+      "zh": "所以我不得不等待年龄意味着我等了很长时间。"
+    },
+    {
+      "id": 62,
+      "start": 146.88,
+      "end": 147.44,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 63,
+      "start": 147.96,
+      "end": 150.52,
+      "en": "So the word ages means for a very long time.",
+      "zh": "所以年龄这个词的意思是很长一段时间。"
+    },
+    {
+      "id": 64,
+      "start": 150.64,
+      "end": 152.38,
+      "en": "It's always related to time in this sense.",
+      "zh": "从这个意义上说，它总是与时间有关。"
+    },
+    {
+      "id": 65,
+      "start": 152.74,
+      "end": 153.04,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 66,
+      "start": 153.42,
+      "end": 155.9,
+      "en": "So I could say, Marco, it's so good to see you.",
+      "zh": "所以我可以说，马可，很高兴见到你。"
+    },
+    {
+      "id": 67,
+      "start": 156.04,
+      "end": 157.82,
+      "en": "I haven't seen you in ages.",
+      "zh": "好久没见你了。"
+    },
+    {
+      "id": 68,
+      "start": 158.68,
+      "end": 160.96,
+      "en": "That means I haven't seen you in such a long time.",
+      "zh": "也就是说，好久没见你了。"
+    },
+    {
+      "id": 69,
+      "start": 161.4,
+      "end": 161.91,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 70,
+      "start": 162.07,
+      "end": 162.65,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 71,
+      "start": 163.17,
+      "end": 168.39,
+      "en": "And now the next person, Sally came in and she said she was held up in traffic.",
+      "zh": "现在下一个人，莎莉进来，她说她被拦住了。"
+    },
+    {
+      "id": 72,
+      "start": 169.03,
+      "end": 169.51,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 73,
+      "start": 170.04,
+      "end": 174.68,
+      "en": "So to be held up in traffic means to be stuck in traffic.",
+      "zh": "因此，在交通中被阻挡意味着被堵在交通中。"
+    },
+    {
+      "id": 74,
+      "start": 174.68,
+      "end": 179.59,
+      "en": "That means you were made late because there were so many cars on the road.",
+      "zh": "这意味着你迟到了，因为路上有这么多汽车。"
+    },
+    {
+      "id": 75,
+      "start": 179.91,
+      "end": 180.27,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 76,
+      "start": 180.31,
+      "end": 182.91,
+      "en": "So somebody or something else made you late.",
+      "zh": "所以有人或其他东西让你迟到了。"
+    },
+    {
+      "id": 77,
+      "start": 183.49,
+      "end": 183.81,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 78,
+      "start": 184.72,
+      "end": 186.56,
+      "en": "So to be held up means to be made late.",
+      "zh": "所以被坚持意味着迟到。"
+    },
+    {
+      "id": 79,
+      "start": 186.56,
+      "end": 189.82,
+      "en": "I could ask you, Marco, why are you so late?",
+      "zh": "我可以问你，马可，你怎么这么晚了？"
+    },
+    {
+      "id": 80,
+      "start": 189.82,
+      "end": 191.04,
+      "en": "What held you up?",
+      "zh": "是什么阻碍了你？"
+    },
+    {
+      "id": 81,
+      "start": 191.04,
+      "end": 191.19,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 82,
+      "start": 192.04,
+      "end": 192.31,
+      "en": "What held you up?",
+      "zh": "是什么阻碍了你？"
+    },
+    {
+      "id": 83,
+      "start": 193.04,
+      "end": 194.51,
+      "en": "That means what made me late.",
+      "zh": "这意味着是什么让我迟到了。"
+    },
+    {
+      "id": 84,
+      "start": 195.28,
+      "end": 195.59,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 85,
+      "start": 196.28,
+      "end": 197.28,
+      "en": "It could be many different things.",
+      "zh": "它可能有很多不同的东西。"
+    },
+    {
+      "id": 86,
+      "start": 197.28,
+      "end": 198.28,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 87,
+      "start": 198.28,
+      "end": 199.28,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 88,
+      "start": 199.28,
+      "end": 203.55,
+      "en": "It could be traffic or maybe I could be held up by the doctor.",
+      "zh": "可能是交通，或者我可以被医生拦住。"
+    },
+    {
+      "id": 89,
+      "start": 204.0,
+      "end": 205.89,
+      "en": "Maybe he took longer than what I expected.",
+      "zh": "也许他花的时间比我预期的要长。"
+    },
+    {
+      "id": 90,
+      "start": 206.92,
+      "end": 211.0,
+      "en": "Or there's no elevator and I'm waiting for the elevator and I got held up by the elevator.",
+      "zh": "或者没有电梯，我在等电梯，我被电梯拦住了。"
+    },
+    {
+      "id": 91,
+      "start": 211.4,
+      "end": 211.74,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 92,
+      "start": 211.82,
+      "end": 212.6,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 93,
+      "start": 212.96,
+      "end": 215.96,
+      "en": "And now the importance of being punctual.",
+      "zh": "现在是准时的重要性。"
+    },
+    {
+      "id": 94,
+      "start": 216.16,
+      "end": 217.4,
+      "en": "That's the topic of the meeting.",
+      "zh": "这就是会议的主题。"
+    },
+    {
+      "id": 95,
+      "start": 217.92,
+      "end": 220.12,
+      "en": "And so what is this word, punctual?",
+      "zh": "那么这个词是什么，准时？"
+    },
+    {
+      "id": 96,
+      "start": 220.34,
+      "end": 220.66,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 97,
+      "start": 220.92,
+      "end": 226.66,
+      "en": "So punctual is an adjective and it describes something as being on time.",
+      "zh": "所以准时是一个形容词，它将某事描述为准时。"
+    },
+    {
+      "id": 98,
+      "start": 227.28,
+      "end": 228.28,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 99,
+      "start": 228.28,
+      "end": 230.24,
+      "en": "So the opposite of this word would be what?",
+      "zh": "那么这个词的反义词是什么？"
+    },
+    {
+      "id": 100,
+      "start": 230.52,
+      "end": 231.6,
+      "en": "So the opposite would be late.",
+      "zh": "所以相反的会迟到。"
+    },
+    {
+      "id": 101,
+      "start": 232.16,
+      "end": 233.16,
+      "en": "Late.",
+      "zh": "迟到的。"
+    },
+    {
+      "id": 102,
+      "start": 233.16,
+      "end": 234.16,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 103,
+      "start": 234.16,
+      "end": 236.28,
+      "en": "So she's a very punctual student.",
+      "zh": "所以她是一个非常准时的学生。"
+    },
+    {
+      "id": 104,
+      "start": 236.28,
+      "end": 238.21,
+      "en": "She always comes to class on time.",
+      "zh": "她总是准时来上课。"
+    },
+    {
+      "id": 105,
+      "start": 239.2,
+      "end": 239.87,
+      "en": "She's never late.",
+      "zh": "她从不迟到。"
+    },
+    {
+      "id": 106,
+      "start": 240.52,
+      "end": 240.81,
+      "en": "Punctual.",
+      "zh": "准时。"
+    },
+    {
+      "id": 107,
+      "start": 241.52,
+      "end": 245.91,
+      "en": "So you describe a person as being punctual or not.",
+      "zh": "所以你把一个人描述为准时与否。"
+    },
+    {
+      "id": 108,
+      "start": 246.4,
+      "end": 246.53,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 109,
+      "start": 247.4,
+      "end": 248.4,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 110,
+      "start": 248.4,
+      "end": 249.4,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 111,
+      "start": 249.4,
+      "end": 250.07,
+      "en": "Let's review all this vocab.",
+      "zh": "让我们回顾一下所有这些词汇。"
+    },
+    {
+      "id": 112,
+      "start": 250.4,
+      "end": 251.91,
+      "en": "Let's go back and listen to the dialogue again.",
+      "zh": "让我们回去再听一次对话。"
+    },
+    {
+      "id": 113,
+      "start": 257.13,
+      "end": 258.77,
+      "en": "Okay, everyone, shall we begin?",
+      "zh": "好吧，大家好，我们开始吧？"
+    },
+    {
+      "id": 114,
+      "start": 258.99,
+      "end": 261.09,
+      "en": "Sorry, Maggie, but we're missing a few people.",
+      "zh": "对不起，玛吉，但我们错过了几个人。"
+    },
+    {
+      "id": 115,
+      "start": 261.43,
+      "end": 262.15,
+      "en": "Can we hang on a sec?",
+      "zh": "我们可以坚持一下吗？"
+    },
+    {
+      "id": 116,
+      "start": 262.48,
+      "end": 266.88,
+      "en": "Well, I did say 11 o'clock sharp and it's now five past.",
+      "zh": "好吧，我确实说过 11 点钟，现在已经过去 5 点了。"
+    },
+    {
+      "id": 117,
+      "start": 266.88,
+      "end": 267.73,
+      "en": "So...",
+      "zh": "那么……"
+    },
+    {
+      "id": 118,
+      "start": 267.88,
+      "end": 268.31,
+      "en": "Hi, everyone.",
+      "zh": "大家好。"
+    },
+    {
+      "id": 119,
+      "start": 269.04,
+      "end": 270.05,
+      "en": "I'm so sorry I'm late.",
+      "zh": "我很抱歉我迟到了。"
+    },
+    {
+      "id": 120,
+      "start": 270.64,
+      "end": 274.49,
+      "en": "It's raining cats and dogs outside and I had to wait ages for a taxi.",
+      "zh": "外面下着倾盆大雨，我等了好久才打到车。"
+    },
+    {
+      "id": 121,
+      "start": 274.96,
+      "end": 275.45,
+      "en": "Okay, James.",
+      "zh": "好的，詹姆斯。"
+    },
+    {
+      "id": 122,
+      "start": 276.24,
+      "end": 277.17,
+      "en": "Take a seat quickly, please.",
+      "zh": "请快点坐下。"
+    },
+    {
+      "id": 123,
+      "start": 277.89,
+      "end": 278.21,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 124,
+      "start": 278.8,
+      "end": 281.04,
+      "en": "The subject of the meeting is the importance...",
+      "zh": "会议的主题是重要性..."
+    },
+    {
+      "id": 125,
+      "start": 281.04,
+      "end": 281.41,
+      "en": "Hi, guys.",
+      "zh": "嗨，各位。"
+    },
+    {
+      "id": 126,
+      "start": 282.04,
+      "end": 282.97,
+      "en": "Please excuse me.",
+      "zh": "请原谅。"
+    },
+    {
+      "id": 127,
+      "start": 283.17,
+      "end": 284.27,
+      "en": "I was held up in traffic.",
+      "zh": "我在交通中被拦住了。"
+    },
+    {
+      "id": 128,
+      "start": 285.02,
+      "end": 285.54,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 129,
+      "start": 286.52,
+      "end": 288.8,
+      "en": "As I was saying, the subject of the meeting is...",
+      "zh": "正如我所说，会议的主题是..."
+    },
+    {
+      "id": 130,
+      "start": 289.1,
+      "end": 289.7,
+      "en": "Hi, Maggie.",
+      "zh": "嗨，玛姬。"
+    },
+    {
+      "id": 131,
+      "start": 290.02,
+      "end": 290.8,
+      "en": "I'm terribly sorry.",
+      "zh": "实在抱歉。"
+    },
+    {
+      "id": 132,
+      "start": 291.06,
+      "end": 292.36,
+      "en": "The traffic is murder out there.",
+      "zh": "那里的交通是谋杀。"
+    },
+    {
+      "id": 133,
+      "start": 292.68,
+      "end": 293.06,
+      "en": "Sit down, Bruno.",
+      "zh": "坐下，布鲁诺。"
+    },
+    {
+      "id": 134,
+      "start": 295.06,
+      "end": 300.92,
+      "en": "Okay, now, as you're aware, the topic for the meeting is the importance of being punctual.",
+      "zh": "好的，现在，正如您所知道的，会议的主题是准时的重要性。"
+    },
+    {
+      "id": 135,
+      "start": 301.64,
+      "end": 302.68,
+      "en": "Who would like to start?",
+      "zh": "谁想开始？"
+    },
+    {
+      "id": 136,
+      "start": 303.72,
+      "end": 306.0,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 137,
+      "start": 306.0,
+      "end": 308.3,
+      "en": "Now let's take a look at some phrases on Fluency Builder.",
+      "zh": "现在让我们看一下关于 Fluency Builder 的一些短语。"
+    },
+    {
+      "id": 138,
+      "start": 309.89,
+      "end": 310.75,
+      "en": "Fluency Builder.",
+      "zh": "流利表达。"
+    },
+    {
+      "id": 139,
+      "start": 311.69,
+      "end": 314.63,
+      "en": "We have a lot of really great phrases today that describe...",
+      "zh": "我们今天有很多非常棒的短语来描述..."
+    },
+    {
+      "id": 140,
+      "start": 314.63,
+      "end": 320.33,
+      "en": "Well, that are excuses for not being on time or for not being punctual.",
+      "zh": "好吧，这是不准时或不准时的借口。"
+    },
+    {
+      "id": 141,
+      "start": 320.91,
+      "end": 322.91,
+      "en": "The first one we heard was actually different, though.",
+      "zh": "不过，我们听到的第一个实际上是不同的。"
+    },
+    {
+      "id": 142,
+      "start": 323.27,
+      "end": 325.83,
+      "en": "One of the students said, can we hang on a sec?",
+      "zh": "一位学生说，我们可以坚持一下吗？"
+    },
+    {
+      "id": 143,
+      "start": 326.21,
+      "end": 327.63,
+      "en": "Hang on a sec.",
+      "zh": "挂一秒。"
+    },
+    {
+      "id": 144,
+      "start": 327.89,
+      "end": 328.05,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 145,
+      "start": 329.04,
+      "end": 333.48,
+      "en": "So, if you ask someone to hang on, that means to wait.",
+      "zh": "所以，如果你让别人坚持下去，那就意味着等待。"
+    },
+    {
+      "id": 146,
+      "start": 333.48,
+      "end": 333.69,
+      "en": "Hang on.",
+      "zh": "等一下。"
+    },
+    {
+      "id": 147,
+      "start": 334.48,
+      "end": 335.48,
+      "en": "Wait.",
+      "zh": "等等。"
+    },
+    {
+      "id": 148,
+      "start": 335.48,
+      "end": 336.48,
+      "en": "Yeah, exactly.",
+      "zh": "对，没错。"
+    },
+    {
+      "id": 149,
+      "start": 336.48,
+      "end": 337.48,
+      "en": "So, hang on just means to wait.",
+      "zh": "所以，坚持只是意味着等待。"
+    },
+    {
+      "id": 150,
+      "start": 337.48,
+      "end": 337.79,
+      "en": "It's very casual.",
+      "zh": "这是很随意的说法。"
+    },
+    {
+      "id": 151,
+      "start": 338.48,
+      "end": 338.73,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 152,
+      "start": 339.48,
+      "end": 345.0,
+      "en": "So, if you ask someone to hang on a sec, hang on a sec or hang on a minute, that means wait for a little while.",
+      "zh": "因此，如果您要求某人挂在 Sec 上、挂一秒或挂一分钟，这意味着等待一段时间。"
+    },
+    {
+      "id": 153,
+      "start": 345.0,
+      "end": 345.43,
+      "en": "A little while.",
+      "zh": "一会儿。"
+    },
+    {
+      "id": 154,
+      "start": 346.0,
+      "end": 348.55,
+      "en": "A sec, S-E-C, stands for second.",
+      "zh": "Sec，S-E-C，代表第二个。"
+    },
+    {
+      "id": 155,
+      "start": 349.56,
+      "end": 351.4,
+      "en": "And it's very common in this phrase.",
+      "zh": "这在这句话中很常见。"
+    },
+    {
+      "id": 156,
+      "start": 351.4,
+      "end": 354.76,
+      "en": "We hear, hang on a sec or wait a sec.",
+      "zh": "我们听到，挂在秒或等待一秒钟。"
+    },
+    {
+      "id": 157,
+      "start": 354.76,
+      "end": 355.03,
+      "en": "Wait a sec.",
+      "zh": "等一下。"
+    },
+    {
+      "id": 158,
+      "start": 355.76,
+      "end": 356.76,
+      "en": "Uh-huh.",
+      "zh": "嗯。"
+    },
+    {
+      "id": 159,
+      "start": 356.76,
+      "end": 357.76,
+      "en": "Okay, very good.",
+      "zh": "好，很好。"
+    },
+    {
+      "id": 160,
+      "start": 357.76,
+      "end": 358.59,
+      "en": "So, it's very casual.",
+      "zh": "所以，这很随意。"
+    },
+    {
+      "id": 161,
+      "start": 359.12,
+      "end": 362.75,
+      "en": "It's very spoken English, although the word sec doesn't really exist.",
+      "zh": "这是非常口头的英语，尽管这个词并不真正存在。"
+    },
+    {
+      "id": 162,
+      "start": 363.24,
+      "end": 364.81,
+      "en": "It's just a short way of saying a second.",
+      "zh": "这只是一秒钟的短语。"
+    },
+    {
+      "id": 163,
+      "start": 366.04,
+      "end": 367.04,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 164,
+      "start": 367.04,
+      "end": 374.71,
+      "en": "And later on, we heard James come in, he was one of those people that we had to wait for, and he said, it's raining cats and dogs outside.",
+      "zh": "后来，我们听到詹姆斯进来了，他是我们不得不等待的那些人之一，他说，外面正在下雨猫和狗。"
+    },
+    {
+      "id": 165,
+      "start": 375.88,
+      "end": 376.11,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 166,
+      "start": 376.88,
+      "end": 377.88,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 167,
+      "start": 377.88,
+      "end": 378.88,
+      "en": "It's raining cats and dogs.",
+      "zh": "正在下雨猫和狗。"
+    },
+    {
+      "id": 168,
+      "start": 378.88,
+      "end": 381.28,
+      "en": "So, are cats and dogs falling from the sky?",
+      "zh": "那么，猫和狗会从天而降吗？"
+    },
+    {
+      "id": 169,
+      "start": 381.28,
+      "end": 381.93,
+      "en": "They are not.",
+      "zh": "他们不是。"
+    },
+    {
+      "id": 170,
+      "start": 382.29,
+      "end": 384.35,
+      "en": "So, this might sound very weird to you.",
+      "zh": "所以，这对你来说可能听起来很奇怪。"
+    },
+    {
+      "id": 171,
+      "start": 384.47,
+      "end": 391.11,
+      "en": "This does not mean there are cats and dogs falling down from the clouds, but it does mean that it's raining a lot.",
+      "zh": "这并不意味着有猫和狗从云层上掉下来，但它确实意味着下了很多雨。"
+    },
+    {
+      "id": 172,
+      "start": 391.37,
+      "end": 393.03,
+      "en": "It's raining really hard outside.",
+      "zh": "外面下着大雨。"
+    },
+    {
+      "id": 173,
+      "start": 393.51,
+      "end": 394.57,
+      "en": "Okay, very good.",
+      "zh": "好，很好。"
+    },
+    {
+      "id": 174,
+      "start": 394.75,
+      "end": 398.01,
+      "en": "So, it's a phrase used to say it's raining a lot.",
+      "zh": "所以，这是一个用来说下雨的短语。"
+    },
+    {
+      "id": 175,
+      "start": 398.21,
+      "end": 399.41,
+      "en": "It's raining very, very hard.",
+      "zh": "下着非常非常大的雨。"
+    },
+    {
+      "id": 176,
+      "start": 400.25,
+      "end": 401.11,
+      "en": "Raining cats and dogs.",
+      "zh": "下雨的猫和狗。"
+    },
+    {
+      "id": 177,
+      "start": 401.87,
+      "end": 406.23,
+      "en": "So, Maggie is trying to continue with the meeting as many people keep coming in and disrupting her.",
+      "zh": "所以，玛吉正试图继续会议，因为许多人不断进来并扰乱她。"
+    },
+    {
+      "id": 178,
+      "start": 406.57,
+      "end": 411.27,
+      "en": "So, she says, right, as I was saying, the subject of the meeting.",
+      "zh": "所以，她说，正如我所说，会议的主题。"
+    },
+    {
+      "id": 179,
+      "start": 411.8,
+      "end": 412.8,
+      "en": "As I was saying.",
+      "zh": "正如我所说。"
+    },
+    {
+      "id": 180,
+      "start": 413.16,
+      "end": 420.84,
+      "en": "Now, this is a really important phrase because you're going to hear this a lot in meetings or in conversations where someone is distracted.",
+      "zh": "现在，这是一个非常重要的短语，因为您将在会议或某人分心的对话中经常听到这一点。"
+    },
+    {
+      "id": 181,
+      "start": 421.42,
+      "end": 423.46,
+      "en": "So, okay, we're having, oh wait.",
+      "zh": "所以，好吧，我们有，哦，等等。"
+    },
+    {
+      "id": 182,
+      "start": 423.66,
+      "end": 425.74,
+      "en": "I'm sorry, I have to talk to this person over here.",
+      "zh": "对不起，我必须在这里和这个人谈谈。"
+    },
+    {
+      "id": 183,
+      "start": 426.18,
+      "end": 432.12,
+      "en": "When you want to come back to what you were talking about, you want to return to the topic, you say, as I was saying.",
+      "zh": "当你想回到你所说的话时，你想回到这个话题，你说，正如我所说的那样。"
+    },
+    {
+      "id": 184,
+      "start": 432.4,
+      "end": 432.88,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 185,
+      "start": 433.32,
+      "end": 434.34,
+      "en": "As I was saying.",
+      "zh": "正如我所说。"
+    },
+    {
+      "id": 186,
+      "start": 434.58,
+      "end": 443.81,
+      "en": "So, maybe you were interrupted, maybe you got distracted and you want to continue talking about the same topic as I was saying and then you continue talking.",
+      "zh": "所以，也许你被打断了，也许你分心了，你想继续谈论我所说的相同的话题，然后你继续谈论。"
+    },
+    {
+      "id": 187,
+      "start": 443.91,
+      "end": 446.93,
+      "en": "So, you return to the original point you are making.",
+      "zh": "所以，你回到你正在提出的原点。"
+    },
+    {
+      "id": 188,
+      "start": 447.13,
+      "end": 448.17,
+      "en": "Okay, very good.",
+      "zh": "好，很好。"
+    },
+    {
+      "id": 189,
+      "start": 448.99,
+      "end": 454.35,
+      "en": "And well, Bruno was the last guy to come in and he said that traffic is murder out there.",
+      "zh": "好吧，布鲁诺是最后一个进来的人，他说那里的交通是谋杀。"
+    },
+    {
+      "id": 190,
+      "start": 454.71,
+      "end": 457.72,
+      "en": "Okay, so murder, to murder means to kill someone.",
+      "zh": "好吧，谋杀，谋杀意味着杀死某人。"
+    },
+    {
+      "id": 191,
+      "start": 458.4,
+      "end": 460.18,
+      "en": "But we're not talking about killing people here.",
+      "zh": "但我们不是在这里谈论杀人。"
+    },
+    {
+      "id": 192,
+      "start": 460.28,
+      "end": 462.5,
+      "en": "We're talking about an analogy.",
+      "zh": "我们在谈论一个类比。"
+    },
+    {
+      "id": 193,
+      "start": 462.92,
+      "end": 465.76,
+      "en": "We're saying it's as bad as murder.",
+      "zh": "我们说它和谋杀一样糟糕。"
+    },
+    {
+      "id": 194,
+      "start": 466.28,
+      "end": 470.2,
+      "en": "So, in this case, traffic is murder means traffic is really awful.",
+      "zh": "所以，在这种情况下，交通就是谋杀，意味着交通真的很糟糕。"
+    },
+    {
+      "id": 195,
+      "start": 470.42,
+      "end": 471.74,
+      "en": "It's really terrible outside.",
+      "zh": "外面真的很可怕。"
+    },
+    {
+      "id": 196,
+      "start": 472.26,
+      "end": 479.5,
+      "en": "So, in what other situation or with what other noun instead of traffic can we use this something is murder?",
+      "zh": "那么，在什么其他情况下，或者在其他什么名词而不是交通中，我们可以使用这个东西是谋杀吗？"
+    },
+    {
+      "id": 197,
+      "start": 480.0,
+      "end": 481.0,
+      "en": "The wait is murder.",
+      "zh": "等待是谋杀。"
+    },
+    {
+      "id": 198,
+      "start": 481.62,
+      "end": 481.9,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 199,
+      "start": 482.08,
+      "end": 484.64,
+      "en": "So, that means you have to wait a very, very long time.",
+      "zh": "所以，这意味着你必须等待很长时间。"
+    },
+    {
+      "id": 200,
+      "start": 485.62,
+      "end": 485.92,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 201,
+      "start": 486.0,
+      "end": 487.36,
+      "en": "All right, very good.",
+      "zh": "好，很好。"
+    },
+    {
+      "id": 202,
+      "start": 487.36,
+      "end": 490.24,
+      "en": "So, now why don't we go back to the dialogue.",
+      "zh": "所以，现在我们为什么不回到对话。"
+    },
+    {
+      "id": 203,
+      "start": 490.24,
+      "end": 492.54,
+      "en": "Let's have one last review and we'll be right back.",
+      "zh": "让我们进行最后一次评论，我们会马上回来。"
+    },
+    {
+      "id": 204,
+      "start": 498.0,
+      "end": 499.44,
+      "en": "Okay, everyone, shall we begin?",
+      "zh": "好吧，大家好，我们开始吧？"
+    },
+    {
+      "id": 205,
+      "start": 499.72,
+      "end": 501.78,
+      "en": "Sorry, Maggie, but we're missing a few people.",
+      "zh": "对不起，玛吉，但我们错过了几个人。"
+    },
+    {
+      "id": 206,
+      "start": 502.1,
+      "end": 502.8,
+      "en": "Can we hang on a sec?",
+      "zh": "我们可以坚持一下吗？"
+    },
+    {
+      "id": 207,
+      "start": 503.12,
+      "end": 507.52,
+      "en": "Well, I did say 11 o'clock sharp and it's now five past.",
+      "zh": "好吧，我确实说过 11 点钟，现在已经过去 5 点了。"
+    },
+    {
+      "id": 208,
+      "start": 507.52,
+      "end": 509.02,
+      "en": "So, hi, everyone.",
+      "zh": "所以，大家好。"
+    },
+    {
+      "id": 209,
+      "start": 509.72,
+      "end": 510.74,
+      "en": "I'm so sorry I'm late.",
+      "zh": "我很抱歉我迟到了。"
+    },
+    {
+      "id": 210,
+      "start": 511.2,
+      "end": 515.18,
+      "en": "It's raining cats and dogs outside and I had to wait ages for a taxi.",
+      "zh": "外面下着倾盆大雨，我等了好久才打到车。"
+    },
+    {
+      "id": 211,
+      "start": 515.58,
+      "end": 517.86,
+      "en": "Okay, James, take a seat quickly, please.",
+      "zh": "好的，詹姆斯，请快点坐下。"
+    },
+    {
+      "id": 212,
+      "start": 518.4,
+      "end": 520.58,
+      "en": "Right, the subject of the meeting is the importance.",
+      "zh": "对，会议的主题是重要性。"
+    },
+    {
+      "id": 213,
+      "start": 521.38,
+      "end": 522.1,
+      "en": "Hi, guys.",
+      "zh": "嗨，各位。"
+    },
+    {
+      "id": 214,
+      "start": 522.74,
+      "end": 523.64,
+      "en": "Please excuse me.",
+      "zh": "请原谅。"
+    },
+    {
+      "id": 215,
+      "start": 523.86,
+      "end": 524.92,
+      "en": "I was held up in traffic.",
+      "zh": "我在交通中被拦住了。"
+    },
+    {
+      "id": 216,
+      "start": 525.92,
+      "end": 526.22,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 217,
+      "start": 527.2,
+      "end": 529.52,
+      "en": "As I was saying, the subject of the meeting is...",
+      "zh": "正如我所说，会议的主题是..."
+    },
+    {
+      "id": 218,
+      "start": 529.9,
+      "end": 530.42,
+      "en": "Hi, Maggie.",
+      "zh": "嗨，玛姬。"
+    },
+    {
+      "id": 219,
+      "start": 530.66,
+      "end": 531.46,
+      "en": "I'm terribly sorry.",
+      "zh": "实在抱歉。"
+    },
+    {
+      "id": 220,
+      "start": 531.68,
+      "end": 533.04,
+      "en": "The traffic is murder out there.",
+      "zh": "那里的交通是谋杀。"
+    },
+    {
+      "id": 221,
+      "start": 533.36,
+      "end": 533.76,
+      "en": "Sit down, Bruno.",
+      "zh": "坐下，布鲁诺。"
+    },
+    {
+      "id": 222,
+      "start": 535.72,
+      "end": 536.4,
+      "en": "Okay, now.",
+      "zh": "好的，现在。"
+    },
+    {
+      "id": 223,
+      "start": 536.48,
+      "end": 541.68,
+      "en": "As you're aware, the topic for the meeting is the importance of being punctual.",
+      "zh": "正如您所知道的，会议的主题是准时的重要性。"
+    },
+    {
+      "id": 224,
+      "start": 542.0,
+      "end": 543.38,
+      "en": "Who would like to start?",
+      "zh": "谁想开始？"
+    },
+    {
+      "id": 225,
+      "start": 546.17,
+      "end": 550.17,
+      "en": "So, Marco, are you a punctual person or are you usually late?",
+      "zh": "所以，马可，你是一个准时的人还是通常迟到？"
+    },
+    {
+      "id": 226,
+      "start": 551.88,
+      "end": 555.88,
+      "en": "For social gatherings, I'm usually pretty punctual.",
+      "zh": "对于社交聚会，我通常很准时。"
+    },
+    {
+      "id": 227,
+      "start": 555.88,
+      "end": 557.73,
+      "en": "For work, I'm usually very late.",
+      "zh": "对于工作，我通常很晚。"
+    },
+    {
+      "id": 228,
+      "start": 558.52,
+      "end": 559.32,
+      "en": "I've noticed.",
+      "zh": "我注意到了。"
+    },
+    {
+      "id": 229,
+      "start": 559.36,
+      "end": 562.56,
+      "en": "You're one of the last people to come in in the morning.",
+      "zh": "你是最后一个早上进来的人之一。"
+    },
+    {
+      "id": 230,
+      "start": 562.8,
+      "end": 568.46,
+      "en": "Yeah, usually for work, I arrive late but not like too late.",
+      "zh": "是的，通常是为了工作，我来晚了，但不是太晚了。"
+    },
+    {
+      "id": 231,
+      "start": 569.08,
+      "end": 572.24,
+      "en": "Some people may even be an hour or two or something.",
+      "zh": "有些人甚至可能是一两个小时或其他东西。"
+    },
+    {
+      "id": 232,
+      "start": 572.56,
+      "end": 574.58,
+      "en": "A couple minutes, 15 minutes is all right.",
+      "zh": "几分钟，15分钟就好了。"
+    },
+    {
+      "id": 233,
+      "start": 574.82,
+      "end": 577.18,
+      "en": "But I do hate to wait.",
+      "zh": "但我讨厌等待。"
+    },
+    {
+      "id": 234,
+      "start": 578.0,
+      "end": 587.69,
+      "en": "If we agree to meet up at 2 o'clock and you come in at 2.30, I don't know, let's say to the movies, then I think that's really irritating.",
+      "zh": "如果我们同意在 2 点见面，而你在 2.30 进来，我不知道，让我们对电影说，那么我认为这真的很烦人。"
+    },
+    {
+      "id": 235,
+      "start": 588.32,
+      "end": 588.69,
+      "en": "I agree.",
+      "zh": "我同意。"
+    },
+    {
+      "id": 236,
+      "start": 588.95,
+      "end": 597.53,
+      "en": "I'm a very punctual person and I get very annoyed when people are late to meetings or when people come late to appointments or parties.",
+      "zh": "我是一个非常准时的人，当人们开会迟到或人们迟到约会或聚会时，我会很生气。"
+    },
+    {
+      "id": 237,
+      "start": 598.87,
+      "end": 606.97,
+      "en": "And I think it's different in different countries because in many different places, they have what they call the local time.",
+      "zh": "我认为在不同的国家是不同的，因为在许多不同的地方，他们有他们所谓的当地时间。"
+    },
+    {
+      "id": 238,
+      "start": 607.24,
+      "end": 625.72,
+      "en": "So if you say, okay, the meeting is at 9, then everyone assumes that the meeting is supposed to start at 9 but then everyone comes in at 9 but grabs a cup of coffee, talks at the cooler, gets their seat, checks their email and then the meeting will start at 9.30 instead of 9.",
+      "zh": "所以如果你说，好吧，会议在 9 点，那么每个人都认为会议应该在 9 点开始，但然后每个人都在 9 点进来，但喝了一杯咖啡，在冷却器上交谈，得到他们的座位，检查他们的电子邮件，然后会议将在 9.30 开始 而不是9。"
+    },
+    {
+      "id": 239,
+      "start": 625.72,
+      "end": 626.72,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 240,
+      "start": 626.72,
+      "end": 631.32,
+      "en": "Or for example, the transportation you will find in different countries can be punctual or not punctual.",
+      "zh": "例如，您在不同国家/地区找到的交通工具可以是准时的或不准时的。"
+    },
+    {
+      "id": 241,
+      "start": 631.88,
+      "end": 635.0,
+      "en": "In Germany, their transportation is very famous for being punctual.",
+      "zh": "在德国，他们的交通以准时而闻名。"
+    },
+    {
+      "id": 242,
+      "start": 635.76,
+      "end": 639.9,
+      "en": "But in India, you will find that the trains are not very punctual.",
+      "zh": "但在印度，你会发现火车不是很准时。"
+    },
+    {
+      "id": 243,
+      "start": 640.02,
+      "end": 643.72,
+      "en": "You might wait one or two or six hours for a train.",
+      "zh": "您可能会等待一两个或六个小时的火车。"
+    },
+    {
+      "id": 244,
+      "start": 643.72,
+      "end": 644.72,
+      "en": "Yeah, exactly.",
+      "zh": "对，没错。"
+    },
+    {
+      "id": 245,
+      "start": 644.72,
+      "end": 647.4,
+      "en": "So it's different in different countries.",
+      "zh": "所以在不同的国家是不同的。"
+    },
+    {
+      "id": 246,
+      "start": 647.5,
+      "end": 655.44,
+      "en": "I imagine that in a place like Germany, it would be considered a very bad thing to arrive late to a meeting, for example.",
+      "zh": "我想在像德国这样的地方，例如，迟到会被认为是一件非常糟糕的事情。"
+    },
+    {
+      "id": 247,
+      "start": 655.88,
+      "end": 656.94,
+      "en": "Yeah, I'm curious about that.",
+      "zh": "是的，我对此感到好奇。"
+    },
+    {
+      "id": 248,
+      "start": 657.16,
+      "end": 663.44,
+      "en": "So let us know, is it acceptable in your country to be a little bit late to a meeting or to an appointment?",
+      "zh": "所以让我们知道，在你的国家开会或约会有点晚了是否可以接受？"
+    },
+    {
+      "id": 249,
+      "start": 664.26,
+      "end": 665.72,
+      "en": "Is punctuality important?",
+      "zh": "准时性重要吗？"
+    },
+    {
+      "id": 250,
+      "start": 666.3,
+      "end": 666.8,
+      "en": "Let us know.",
+      "zh": "告诉我们吧。"
+    },
+    {
+      "id": 251,
+      "start": 667.44,
+      "end": 668.44,
+      "en": "Our website is EnglishPod.com.",
+      "zh": "我们的网站是 EnglishPod.com。"
+    },
+    {
+      "id": 252,
+      "start": 668.6,
+      "end": 668.8,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 253,
+      "start": 668.9,
+      "end": 669.38,
+      "en": "We'll see you guys there.",
+      "zh": "到时候在那里见。"
+    },
+    {
+      "id": 254,
+      "start": 669.62,
+      "end": 669.78,
+      "en": "Bye.",
+      "zh": "再见。"
+    }
+  ],
+  "dialog": {
+    "start": 27.99,
+    "end": 73.52,
+    "segmentIds": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+    ]
+  }
+}

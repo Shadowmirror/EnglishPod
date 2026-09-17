@@ -1,0 +1,2626 @@
+{
+  "version": 1,
+  "id": 234,
+  "number": "0234",
+  "title": "Daily Life - Going to the Doctor",
+  "audio": "mp3/234. Daily Life - Going to the Doctor.mp3",
+  "duration": 1005.27025,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.99,
+      "en": "Hello everyone and welcome to EnglishPod.",
+      "zh": "大家好，欢迎来到 EnglishPod。"
+    },
+    {
+      "id": 2,
+      "start": 5.27,
+      "end": 5.73,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 6.13,
+      "end": 10.49,
+      "en": "My name is Kathryn and we're talking today about health and getting sick.",
+      "zh": "我的名字是凯瑟琳，我们今天谈论的是健康和生病。"
+    },
+    {
+      "id": 4,
+      "start": 11.07,
+      "end": 11.39,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 5,
+      "start": 11.65,
+      "end": 22.01,
+      "en": "We are going to visit the doctor so we're feeling a little bit ill and well, we're going to describe some of the symptoms that we have and the doctor is going to recommend some medicine.",
+      "zh": "我们要去看医生，所以我们感觉有点不舒服，我们将描述我们的一些症状，医生会推荐一些药物。"
+    },
+    {
+      "id": 6,
+      "start": 22.84,
+      "end": 23.84,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 7,
+      "start": 23.84,
+      "end": 27.19,
+      "en": "So let's take a listen to today's dialogue and we'll be back in a moment to talk about what's going on.",
+      "zh": "所以让我们听听今天的对话，我们稍后会回来谈论正在发生的事情。"
+    },
+    {
+      "id": 8,
+      "start": 34.19,
+      "end": 35.17,
+      "en": "Good afternoon, Chloe.",
+      "zh": "下午好，克洛伊。"
+    },
+    {
+      "id": 9,
+      "start": 35.45,
+      "end": 35.99,
+      "en": "I'm Dr. Evans.",
+      "zh": "我是埃文斯医生。"
+    },
+    {
+      "id": 10,
+      "start": 36.52,
+      "end": 37.84,
+      "en": "What seems to be the problem?",
+      "zh": "请问有什么问题？"
+    },
+    {
+      "id": 11,
+      "start": 37.84,
+      "end": 38.85,
+      "en": "Hi, Dr. Evans.",
+      "zh": "您好，埃文斯医生。"
+    },
+    {
+      "id": 12,
+      "start": 39.6,
+      "end": 41.51,
+      "en": "Thanks for seeing me on such short notice.",
+      "zh": "谢谢您临时抽空给我看诊。"
+    },
+    {
+      "id": 13,
+      "start": 42.44,
+      "end": 46.75,
+      "en": "When I woke up this morning, I had a really sore throat and a really bad cough.",
+      "zh": "今天早上我醒来时，我的喉咙很痛，咳嗽得很厉害。"
+    },
+    {
+      "id": 14,
+      "start": 47.64,
+      "end": 49.79,
+      "en": "I think I'm coming down with the flu.",
+      "zh": "我想我正在患上流感。"
+    },
+    {
+      "id": 15,
+      "start": 50.91,
+      "end": 51.23,
+      "en": "I see.",
+      "zh": "我明白了。"
+    },
+    {
+      "id": 16,
+      "start": 51.77,
+      "end": 53.67,
+      "en": "Yes, you do sound rather croaky.",
+      "zh": "是的，你听起来确实相当嘶哑。"
+    },
+    {
+      "id": 17,
+      "start": 54.05,
+      "end": 55.43,
+      "en": "Well, let's have a look, shall we?",
+      "zh": "好吧，让我们看看，好吗？"
+    },
+    {
+      "id": 18,
+      "start": 56.0,
+      "end": 59.2,
+      "en": "Would you please open your mouth and say, ah?",
+      "zh": "请你张开嘴说，啊？"
+    },
+    {
+      "id": 19,
+      "start": 59.56,
+      "end": 60.04,
+      "en": "Ah.",
+      "zh": "啊。"
+    },
+    {
+      "id": 20,
+      "start": 60.2,
+      "end": 60.5,
+      "en": "Good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 21,
+      "start": 61.2,
+      "end": 62.2,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 22,
+      "start": 62.2,
+      "end": 62.96,
+      "en": "Your tonsils are a little swollen and red.",
+      "zh": "你的扁桃体有点肿胀和红色。"
+    },
+    {
+      "id": 23,
+      "start": 63.88,
+      "end": 64.35,
+      "en": "How are your ears?",
+      "zh": "你的耳朵怎么样？"
+    },
+    {
+      "id": 24,
+      "start": 65.0,
+      "end": 65.25,
+      "en": "Blocked at all?",
+      "zh": "有堵塞感吗？"
+    },
+    {
+      "id": 25,
+      "start": 66.05,
+      "end": 67.33,
+      "en": "A little, actually.",
+      "zh": "其实有一点。"
+    },
+    {
+      "id": 26,
+      "start": 68.19,
+      "end": 70.47,
+      "en": "My sinuses are a little blocked up as well.",
+      "zh": "我的鼻窦也有点堵塞。"
+    },
+    {
+      "id": 27,
+      "start": 71.25,
+      "end": 72.65,
+      "en": "I really feel terrible.",
+      "zh": "我真的难受极了。"
+    },
+    {
+      "id": 28,
+      "start": 73.45,
+      "end": 74.01,
+      "en": "Okay, Chloe.",
+      "zh": "好吧，克洛伊。"
+    },
+    {
+      "id": 29,
+      "start": 74.35,
+      "end": 77.59,
+      "en": "Can you please breathe in and out slowly for me while I listen to your chest?",
+      "zh": "我听诊一下胸部，请你慢慢吸气、呼气，好吗？"
+    },
+    {
+      "id": 30,
+      "start": 80.72,
+      "end": 82.52,
+      "en": "Wow, you really are all bunged up.",
+      "zh": "哎呀，你这呼吸道确实堵得很厉害。"
+    },
+    {
+      "id": 31,
+      "start": 82.9,
+      "end": 84.18,
+      "en": "You don't sound too good at all.",
+      "zh": "你听起来一点也不好。"
+    },
+    {
+      "id": 32,
+      "start": 84.54,
+      "end": 84.84,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 33,
+      "start": 84.86,
+      "end": 86.94,
+      "en": "I'm going to set you up with a bunch of antibiotics.",
+      "zh": "我会给你开些抗生素。"
+    },
+    {
+      "id": 34,
+      "start": 87.9,
+      "end": 92.18,
+      "en": "You will need to take these orange pills twice a day and these blue pills every evening.",
+      "zh": "这些橙色药片每天吃两次，蓝色药片每晚吃一次。"
+    },
+    {
+      "id": 35,
+      "start": 92.62,
+      "end": 96.16,
+      "en": "You will also have to take this cough medicine three times a day after meals.",
+      "zh": "您还必须在饭后每天服用这种止咳药 3 次。"
+    },
+    {
+      "id": 36,
+      "start": 96.8,
+      "end": 102.14,
+      "en": "Finally, I am giving you an inhaler to use every time you feel breathless, just to clear up your lungs.",
+      "zh": "最后再给你开一个吸入器，感觉喘不过气时就用，帮助呼吸通畅。"
+    },
+    {
+      "id": 37,
+      "start": 102.94,
+      "end": 104.76,
+      "en": "Whoa, so many drugs.",
+      "zh": "哇，这么多药。"
+    },
+    {
+      "id": 38,
+      "start": 106.08,
+      "end": 107.5,
+      "en": "I hate swallowing pills.",
+      "zh": "我讨厌吞服药片。"
+    },
+    {
+      "id": 39,
+      "start": 108.16,
+      "end": 109.36,
+      "en": "Am I able to go to work?",
+      "zh": "我可以去上班吗？"
+    },
+    {
+      "id": 40,
+      "start": 109.93,
+      "end": 110.81,
+      "en": "Absolutely not.",
+      "zh": "绝对不行。"
+    },
+    {
+      "id": 41,
+      "start": 111.24,
+      "end": 113.08,
+      "en": "You are highly contagious.",
+      "zh": "你的传染性很强。"
+    },
+    {
+      "id": 42,
+      "start": 113.08,
+      "end": 115.35,
+      "en": "You don't want to infect the rest of your co-workers, do you?",
+      "zh": "你不想感染你的其他同事，是吗？"
+    },
+    {
+      "id": 43,
+      "start": 116.0,
+      "end": 121.49,
+      "en": "I recommend staying in bed for at least three days and drinking plenty of fluids so you don't get weak and dehydrated.",
+      "zh": "我建议至少在床上待三天，多喝水，这样你就不会变得虚弱和脱水。"
+    },
+    {
+      "id": 44,
+      "start": 122.2,
+      "end": 124.27,
+      "en": "You can catch up on all the latest TV shows and movies.",
+      "zh": "您可以观看所有最新的电视节目和电影。"
+    },
+    {
+      "id": 45,
+      "start": 124.84,
+      "end": 125.09,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 46,
+      "start": 125.49,
+      "end": 127.99,
+      "en": "Would you mind writing me a doctor's note for work?",
+      "zh": "能帮我开张病假证明，交给公司吗？"
+    },
+    {
+      "id": 47,
+      "start": 128.72,
+      "end": 131.1,
+      "en": "Otherwise, they may think I'm faking it.",
+      "zh": "不然他们可能以为我在装病。"
+    },
+    {
+      "id": 48,
+      "start": 131.92,
+      "end": 133.52,
+      "en": "Sure, no problem.",
+      "zh": "当然，没问题。"
+    },
+    {
+      "id": 49,
+      "start": 134.28,
+      "end": 134.68,
+      "en": "Here you are.",
+      "zh": "给你。"
+    },
+    {
+      "id": 50,
+      "start": 135.14,
+      "end": 136.86,
+      "en": "Now, off home and away to bed.",
+      "zh": "好了，回家卧床休息吧。"
+    },
+    {
+      "id": 51,
+      "start": 137.48,
+      "end": 139.34,
+      "en": "If you have any questions, just give me a call.",
+      "zh": "如果您有任何问题，请给我打电话。"
+    },
+    {
+      "id": 52,
+      "start": 139.86,
+      "end": 141.14,
+      "en": "Feel better soon and take care.",
+      "zh": "很快就会好起来，保重。"
+    },
+    {
+      "id": 53,
+      "start": 141.74,
+      "end": 142.42,
+      "en": "Thanks, Doc.",
+      "zh": "谢谢，医生。"
+    },
+    {
+      "id": 54,
+      "start": 143.7,
+      "end": 144.04,
+      "en": "Bye.",
+      "zh": "再见。"
+    },
+    {
+      "id": 55,
+      "start": 145.08,
+      "end": 146.08,
+      "en": "Bye.",
+      "zh": "再见。"
+    },
+    {
+      "id": 56,
+      "start": 146.08,
+      "end": 150.04,
+      "en": "All right, we're back.",
+      "zh": "好了，我们回来了。"
+    },
+    {
+      "id": 57,
+      "start": 150.04,
+      "end": 155.07,
+      "en": "So now let's take a look at six key words that we have prepared for you today on Language Takeaway.",
+      "zh": "所以现在让我们来看看我们今天在语言外卖方面为您准备的六个关键词。"
+    },
+    {
+      "id": 58,
+      "start": 157.44,
+      "end": 158.03,
+      "en": "Language Takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 59,
+      "start": 159.58,
+      "end": 166.6,
+      "en": "So oftentimes in the wintertime when the air is very, very dry and maybe you have a cold, you get this.",
+      "zh": "所以经常在冬天，空气非常非常干燥，也许你感冒了，你会得到这个。"
+    },
+    {
+      "id": 60,
+      "start": 167.22,
+      "end": 168.08,
+      "en": "This is the first thing we're talking about.",
+      "zh": "这是我们谈论的第一件事。"
+    },
+    {
+      "id": 61,
+      "start": 168.4,
+      "end": 168.54,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 62,
+      "start": 169.4,
+      "end": 170.18,
+      "en": "We have a sore throat.",
+      "zh": "我们喉咙痛。"
+    },
+    {
+      "id": 63,
+      "start": 170.4,
+      "end": 177.24,
+      "en": "Okay, so Chloe in the dialogue says, I woke up this morning and I had a really sore throat.",
+      "zh": "好吧，所以对话中的克洛伊说，我今天早上醒来，喉咙很痛。"
+    },
+    {
+      "id": 64,
+      "start": 177.24,
+      "end": 177.52,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 65,
+      "start": 178.04,
+      "end": 179.9,
+      "en": "So let's take a look at those two words.",
+      "zh": "所以让我们来看看这两个词。"
+    },
+    {
+      "id": 66,
+      "start": 180.22,
+      "end": 182.46,
+      "en": "We know throat is the part of your neck, right?",
+      "zh": "我们知道喉咙是你脖子的一部分，对吧？"
+    },
+    {
+      "id": 67,
+      "start": 182.52,
+      "end": 183.52,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 68,
+      "start": 183.52,
+      "end": 183.88,
+      "en": "Connects your head to your body.",
+      "zh": "将您的头连接到您的身体。"
+    },
+    {
+      "id": 69,
+      "start": 184.52,
+      "end": 185.52,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 70,
+      "start": 185.52,
+      "end": 185.9,
+      "en": "And the word sore.",
+      "zh": "和酸痛这个词。"
+    },
+    {
+      "id": 71,
+      "start": 186.84,
+      "end": 188.06,
+      "en": "Sore means it hurts.",
+      "zh": "痛意味着很痛。"
+    },
+    {
+      "id": 72,
+      "start": 188.06,
+      "end": 191.27,
+      "en": "So I could have a sore back or sore knees.",
+      "zh": "所以我的背部可能会酸痛或膝盖酸痛。"
+    },
+    {
+      "id": 73,
+      "start": 192.09,
+      "end": 195.45,
+      "en": "Sore is basically an adjective that describes pain.",
+      "zh": "疼痛基本上是描述疼痛的形容词。"
+    },
+    {
+      "id": 74,
+      "start": 195.81,
+      "end": 196.15,
+      "en": "Pain.",
+      "zh": "痛苦。"
+    },
+    {
+      "id": 75,
+      "start": 196.37,
+      "end": 198.05,
+      "en": "So you have an ache in your throat.",
+      "zh": "所以你的喉咙有疼痛感。"
+    },
+    {
+      "id": 76,
+      "start": 198.48,
+      "end": 199.48,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 77,
+      "start": 199.48,
+      "end": 201.36,
+      "en": "Chloe has a sore throat.",
+      "zh": "克洛伊喉咙痛。"
+    },
+    {
+      "id": 78,
+      "start": 201.36,
+      "end": 205.93,
+      "en": "And well, she said that she has this sore throat and the doctor says, I see.",
+      "zh": "好吧，她说她喉咙痛，医生说，我明白了。"
+    },
+    {
+      "id": 79,
+      "start": 206.63,
+      "end": 208.91,
+      "en": "Yes, you do sound rather croaky.",
+      "zh": "是的，你听起来确实相当嘶哑。"
+    },
+    {
+      "id": 80,
+      "start": 209.37,
+      "end": 209.77,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 81,
+      "start": 210.08,
+      "end": 218.56,
+      "en": "Croaky is a way to describe the way a person sounds, especially when they're talking and maybe their voice I think is very deep or rough.",
+      "zh": "Croaky 是一种描述一个人的声音方式的方式，尤其是当他们说话时，也许他们的声音可能非常深沉或粗糙。"
+    },
+    {
+      "id": 82,
+      "start": 218.59,
+      "end": 218.73,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 83,
+      "start": 219.56,
+      "end": 223.72,
+      "en": "So usually if you have a sore throat or a very bad cough, you sound a little bit croaky.",
+      "zh": "所以通常如果你喉咙痛或咳嗽得很厉害，你听起来有点嘶哑。"
+    },
+    {
+      "id": 84,
+      "start": 223.72,
+      "end": 226.05,
+      "en": "So you're like, hey, my throat hurts a little bit.",
+      "zh": "所以你就像，嘿，我的喉咙有点痛。"
+    },
+    {
+      "id": 85,
+      "start": 226.52,
+      "end": 227.52,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 86,
+      "start": 227.52,
+      "end": 228.51,
+      "en": "Not a very nice way to sound.",
+      "zh": "不是一个很好的发音方式。"
+    },
+    {
+      "id": 87,
+      "start": 228.88,
+      "end": 232.54,
+      "en": "It comes from the way that frogs croak, right?",
+      "zh": "它来自青蛙的叫声的方式，对吧？"
+    },
+    {
+      "id": 88,
+      "start": 232.56,
+      "end": 233.56,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 89,
+      "start": 233.56,
+      "end": 234.4,
+      "en": "That's the sound that frogs make.",
+      "zh": "这就是青蛙发出的声音。"
+    },
+    {
+      "id": 90,
+      "start": 234.6,
+      "end": 235.64,
+      "en": "They croak.",
+      "zh": "他们嘶哑。"
+    },
+    {
+      "id": 91,
+      "start": 235.64,
+      "end": 241.3,
+      "en": "So yeah, sometimes when you do have a sore throat or a very bad cough, people say that you have a frog in your throat.",
+      "zh": "所以，是的，有时当你喉咙痛或咳嗽得很厉害时，人们会说你的喉咙里有一只青蛙。"
+    },
+    {
+      "id": 92,
+      "start": 241.92,
+      "end": 242.92,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 93,
+      "start": 242.92,
+      "end": 243.92,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 94,
+      "start": 243.92,
+      "end": 244.84,
+      "en": "So that's the word croaky.",
+      "zh": "所以这就是喧闹的词。"
+    },
+    {
+      "id": 95,
+      "start": 245.44,
+      "end": 251.96,
+      "en": "Now moving on, if you have a sore throat, it's usually because your tonsils are swollen.",
+      "zh": "现在继续前进，如果您的喉咙痛，通常是因为您的扁桃体肿胀。"
+    },
+    {
+      "id": 96,
+      "start": 252.66,
+      "end": 253.06,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 97,
+      "start": 253.06,
+      "end": 256.1,
+      "en": "So the first word here, tonsils, these are a body part.",
+      "zh": "所以这里的第一个词，扁桃体，这些是身体的一部分。"
+    },
+    {
+      "id": 98,
+      "start": 256.34,
+      "end": 260.4,
+      "en": "They're in your throat, the very back of your throat, and you usually have two of them.",
+      "zh": "它们在你的喉咙里，你的喉咙后面，你通常有两个。"
+    },
+    {
+      "id": 99,
+      "start": 261.04,
+      "end": 262.2,
+      "en": "Some people don't have any though.",
+      "zh": "不过有些人没有。"
+    },
+    {
+      "id": 100,
+      "start": 262.42,
+      "end": 262.62,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 101,
+      "start": 263.52,
+      "end": 264.52,
+      "en": "Some people get them removed.",
+      "zh": "有些人将它们移除。"
+    },
+    {
+      "id": 102,
+      "start": 264.52,
+      "end": 266.34,
+      "en": "They're like little balls in the back of your throat.",
+      "zh": "它们就像你喉咙后部的小球。"
+    },
+    {
+      "id": 103,
+      "start": 267.32,
+      "end": 268.3,
+      "en": "And I don't really know what they do.",
+      "zh": "我真的不知道他们做了什么。"
+    },
+    {
+      "id": 104,
+      "start": 268.4,
+      "end": 271.79,
+      "en": "I think they pick up some, I don't know what they do.",
+      "zh": "我想他们捡到了一些，我不知道他们做了什么。"
+    },
+    {
+      "id": 105,
+      "start": 271.79,
+      "end": 276.59,
+      "en": "I don't think you need them actually, because a lot of people have them taken out when they're young.",
+      "zh": "我不认为你实际上需要它们，因为很多人在年轻的时候就把它们拿走了。"
+    },
+    {
+      "id": 106,
+      "start": 277.15,
+      "end": 281.83,
+      "en": "But tonsils when they are infected or when they are swollen are very, very painful.",
+      "zh": "但是扁桃体被感染或肿胀时会非常非常痛苦。"
+    },
+    {
+      "id": 107,
+      "start": 282.43,
+      "end": 284.37,
+      "en": "You can have really bad sore throats.",
+      "zh": "你可能有非常严重的喉咙痛。"
+    },
+    {
+      "id": 108,
+      "start": 284.67,
+      "end": 284.81,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 109,
+      "start": 285.64,
+      "end": 288.23,
+      "en": "And it can cause fevers and stuff like that.",
+      "zh": "它会导致发烧之类的。"
+    },
+    {
+      "id": 110,
+      "start": 288.44,
+      "end": 290.6,
+      "en": "So some people get them removed.",
+      "zh": "所以有些人把它们移走。"
+    },
+    {
+      "id": 111,
+      "start": 290.6,
+      "end": 293.11,
+      "en": "And well, as we said, your tonsils are swollen.",
+      "zh": "好吧，正如我们所说，你的扁桃体肿胀了。"
+    },
+    {
+      "id": 112,
+      "start": 293.64,
+      "end": 296.37,
+      "en": "So if they are swollen, that means they are big.",
+      "zh": "因此，如果它们肿胀，则意味着它们很大。"
+    },
+    {
+      "id": 113,
+      "start": 296.91,
+      "end": 297.25,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 114,
+      "start": 297.53,
+      "end": 299.91,
+      "en": "So swollen means they're bigger than normal.",
+      "zh": "所以肿胀意味着它们比平时大。"
+    },
+    {
+      "id": 115,
+      "start": 300.71,
+      "end": 302.59,
+      "en": "And you can say this about many different things.",
+      "zh": "你可以说很多不同的事情。"
+    },
+    {
+      "id": 116,
+      "start": 302.87,
+      "end": 308.55,
+      "en": "For example, maybe someone stepped on my toe and my toe really hurts and I looked down and it's swollen.",
+      "zh": "例如，也许有人踩到了我的脚趾，我的脚趾很痛，我低头看着它肿胀。"
+    },
+    {
+      "id": 117,
+      "start": 308.95,
+      "end": 310.07,
+      "en": "That means my toe got bigger.",
+      "zh": "这意味着我的脚趾变大了。"
+    },
+    {
+      "id": 118,
+      "start": 310.55,
+      "end": 310.69,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 119,
+      "start": 310.73,
+      "end": 313.25,
+      "en": "So this is an adjective when something is swollen.",
+      "zh": "因此，当某些东西肿胀时，这是一个形容词。"
+    },
+    {
+      "id": 120,
+      "start": 313.79,
+      "end": 317.13,
+      "en": "But the verb form to say that something swells.",
+      "zh": "但是动词形式说某事膨胀。"
+    },
+    {
+      "id": 121,
+      "start": 319.11,
+      "end": 319.4,
+      "en": "It gets bigger.",
+      "zh": "它变得更大。"
+    },
+    {
+      "id": 122,
+      "start": 319.4,
+      "end": 320.21,
+      "en": "It gets bigger to swell.",
+      "zh": "它变得更大以膨胀。"
+    },
+    {
+      "id": 123,
+      "start": 320.72,
+      "end": 322.83,
+      "en": "Or the adjective, it is swollen.",
+      "zh": "或者形容词，它肿胀。"
+    },
+    {
+      "id": 124,
+      "start": 323.92,
+      "end": 324.92,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 125,
+      "start": 324.92,
+      "end": 328.11,
+      "en": "And now she was talking a little bit about her sinuses.",
+      "zh": "现在她在谈论她的鼻窦。"
+    },
+    {
+      "id": 126,
+      "start": 329.16,
+      "end": 330.85,
+      "en": "Her sinuses are a little blocked up.",
+      "zh": "她的鼻窦有点堵塞。"
+    },
+    {
+      "id": 127,
+      "start": 331.62,
+      "end": 332.92,
+      "en": "So sinuses are in your face.",
+      "zh": "所以鼻窦在你的脸上。"
+    },
+    {
+      "id": 128,
+      "start": 333.6,
+      "end": 337.14,
+      "en": "You have them in your nose and under your eyes.",
+      "zh": "你有它们在你的鼻子和眼睛下面。"
+    },
+    {
+      "id": 129,
+      "start": 337.14,
+      "end": 339.34,
+      "en": "And when they hurt, it's actually quite painful.",
+      "zh": "当他们受伤时，这实际上是相当痛苦的。"
+    },
+    {
+      "id": 130,
+      "start": 340.5,
+      "end": 346.5,
+      "en": "And people say that sometimes their sinuses are aggravated or they have bad sinuses.",
+      "zh": "人们说，有时他们的鼻窦加重或有不良鼻窦。"
+    },
+    {
+      "id": 131,
+      "start": 346.5,
+      "end": 350.86,
+      "en": "This means they're having a hard time breathing or their face is sore, their eyes are sore.",
+      "zh": "这意味着他们呼吸困难或脸部疼痛，他们的眼睛很痛。"
+    },
+    {
+      "id": 132,
+      "start": 351.64,
+      "end": 352.1,
+      "en": "It's very common.",
+      "zh": "这很常见。"
+    },
+    {
+      "id": 133,
+      "start": 352.36,
+      "end": 352.64,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 134,
+      "start": 352.98,
+      "end": 353.94,
+      "en": "So that's sinuses.",
+      "zh": "所以这是鼻窦炎。"
+    },
+    {
+      "id": 135,
+      "start": 354.56,
+      "end": 361.72,
+      "en": "Isn't there actually a condition that if you have blocked sinuses all the time, they call it sinusitis.",
+      "zh": "实际上，如果您一直阻塞鼻窦炎，他们就称之为鼻窦炎。"
+    },
+    {
+      "id": 136,
+      "start": 361.72,
+      "end": 361.95,
+      "en": "Sinusitis.",
+      "zh": "鼻窦炎。"
+    },
+    {
+      "id": 137,
+      "start": 363.35,
+      "end": 363.51,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 138,
+      "start": 363.72,
+      "end": 366.09,
+      "en": "So that's a problem that comes back again and again.",
+      "zh": "所以这是一个反复出现的问题。"
+    },
+    {
+      "id": 139,
+      "start": 366.8,
+      "end": 367.8,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 140,
+      "start": 367.8,
+      "end": 372.11,
+      "en": "And the doctor also recommended her to rest because she is highly contagious.",
+      "zh": "医生还建议她休息，因为她具有高度传染性。"
+    },
+    {
+      "id": 141,
+      "start": 372.63,
+      "end": 373.13,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 142,
+      "start": 373.17,
+      "end": 376.31,
+      "en": "So you want to stay away from people who are contagious.",
+      "zh": "所以你想远离传染病的人。"
+    },
+    {
+      "id": 143,
+      "start": 376.85,
+      "end": 381.57,
+      "en": "This means that what disease they have or what illness they have can affect other people.",
+      "zh": "这意味着他们患有什么疾病或他们患有什么疾病会影响其他人。"
+    },
+    {
+      "id": 144,
+      "start": 382.27,
+      "end": 385.07,
+      "en": "So if I have the flu, Marco, and I come to work, it's pretty contagious.",
+      "zh": "所以如果我得了流感、Marco 和我来上班，那就很有感染力了。"
+    },
+    {
+      "id": 145,
+      "start": 385.47,
+      "end": 387.35,
+      "en": "It's very likely that you will get the flu.",
+      "zh": "你很可能会感染流感。"
+    },
+    {
+      "id": 146,
+      "start": 387.55,
+      "end": 388.05,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 147,
+      "start": 388.35,
+      "end": 393.17,
+      "en": "So a flu is very highly contagious or many other things are highly contagious.",
+      "zh": "所以流感具有高度传染性，或者许多其他东西具有高度传染性。"
+    },
+    {
+      "id": 148,
+      "start": 393.17,
+      "end": 395.76,
+      "en": "For example, pink eye is very contagious.",
+      "zh": "例如，粉红色的眼睛非常具有传染性。"
+    },
+    {
+      "id": 149,
+      "start": 396.82,
+      "end": 398.72,
+      "en": "But you know, cancer is not contagious.",
+      "zh": "但你知道，癌症不是传染性的。"
+    },
+    {
+      "id": 150,
+      "start": 399.36,
+      "end": 402.54,
+      "en": "If you have cancer, I can't get it from touching you.",
+      "zh": "如果你有癌症，我无法从触摸你的地方得到它。"
+    },
+    {
+      "id": 151,
+      "start": 402.78,
+      "end": 402.92,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 152,
+      "start": 404.08,
+      "end": 405.08,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 153,
+      "start": 405.08,
+      "end": 406.08,
+      "en": "So contagious.",
+      "zh": "如此传染。"
+    },
+    {
+      "id": 154,
+      "start": 406.08,
+      "end": 407.08,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 155,
+      "start": 407.08,
+      "end": 411.84,
+      "en": "Why don't we go back and listen to our dialogue again and we'll be back in a little bit to talk about Fluency Builder.",
+      "zh": "我们为什么不回去再听我们的对话，我们会回来谈谈 Fluency Builder。"
+    },
+    {
+      "id": 156,
+      "start": 416.56,
+      "end": 417.2,
+      "en": "Good afternoon, Chloe.",
+      "zh": "下午好，克洛伊。"
+    },
+    {
+      "id": 157,
+      "start": 417.56,
+      "end": 418.56,
+      "en": "I'm Dr. Evans.",
+      "zh": "我是埃文斯博士。"
+    },
+    {
+      "id": 158,
+      "start": 418.56,
+      "end": 419.88,
+      "en": "What seems to be the problem?",
+      "zh": "请问有什么问题？"
+    },
+    {
+      "id": 159,
+      "start": 419.88,
+      "end": 420.9,
+      "en": "Hi, Dr. Evans.",
+      "zh": "嗨，埃文斯博士。"
+    },
+    {
+      "id": 160,
+      "start": 421.48,
+      "end": 423.54,
+      "en": "Thanks for seeing me on such short notice.",
+      "zh": "谢谢您临时抽空给我看诊。"
+    },
+    {
+      "id": 161,
+      "start": 424.18,
+      "end": 428.78,
+      "en": "When I woke up this morning, I had a really sore throat and a really bad cough.",
+      "zh": "今天早上我醒来时，我的喉咙很痛，咳嗽得很厉害。"
+    },
+    {
+      "id": 162,
+      "start": 429.58,
+      "end": 431.8,
+      "en": "I think I'm coming down with the flu.",
+      "zh": "我想我正在患上流感。"
+    },
+    {
+      "id": 163,
+      "start": 432.92,
+      "end": 433.26,
+      "en": "I see.",
+      "zh": "我明白了。"
+    },
+    {
+      "id": 164,
+      "start": 433.9,
+      "end": 435.7,
+      "en": "Yes, you do sound rather croaky.",
+      "zh": "是的，你听起来确实相当嘶哑。"
+    },
+    {
+      "id": 165,
+      "start": 436.12,
+      "end": 437.48,
+      "en": "Well, let's have a look, shall we?",
+      "zh": "好吧，让我们看看，好吗？"
+    },
+    {
+      "id": 166,
+      "start": 438.0,
+      "end": 441.16,
+      "en": "Could you please open your mouth and say, ah?",
+      "zh": "你能张开嘴说，啊？"
+    },
+    {
+      "id": 167,
+      "start": 441.16,
+      "end": 442.16,
+      "en": "Ah.",
+      "zh": "啊。"
+    },
+    {
+      "id": 168,
+      "start": 442.16,
+      "end": 442.52,
+      "en": "Good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 169,
+      "start": 443.16,
+      "end": 444.16,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 170,
+      "start": 444.16,
+      "end": 444.98,
+      "en": "Your tonsils are a little swollen and red.",
+      "zh": "你的扁桃体有点肿胀和红色。"
+    },
+    {
+      "id": 171,
+      "start": 445.84,
+      "end": 446.4,
+      "en": "How are your ears?",
+      "zh": "你的耳朵怎么样？"
+    },
+    {
+      "id": 172,
+      "start": 446.84,
+      "end": 447.28,
+      "en": "Blocked at all?",
+      "zh": "有堵塞感吗？"
+    },
+    {
+      "id": 173,
+      "start": 448.06,
+      "end": 449.34,
+      "en": "A little, actually.",
+      "zh": "其实有一点。"
+    },
+    {
+      "id": 174,
+      "start": 450.22,
+      "end": 452.5,
+      "en": "My sinuses are a little blocked up as well.",
+      "zh": "我的鼻窦也有点堵塞。"
+    },
+    {
+      "id": 175,
+      "start": 453.28,
+      "end": 454.66,
+      "en": "I really feel terrible.",
+      "zh": "我真的难受极了。"
+    },
+    {
+      "id": 176,
+      "start": 455.12,
+      "end": 456.4,
+      "en": "OK, Chloe.",
+      "zh": "好吧，克洛伊。"
+    },
+    {
+      "id": 177,
+      "start": 456.4,
+      "end": 459.6,
+      "en": "Can you please breathe in and out slowly for me while I listen to your chest?",
+      "zh": "我听诊一下胸部，请你慢慢吸气、呼气，好吗？"
+    },
+    {
+      "id": 178,
+      "start": 462.74,
+      "end": 464.54,
+      "en": "Wow, you really are all bunged up.",
+      "zh": "哎呀，你这呼吸道确实堵得很厉害。"
+    },
+    {
+      "id": 179,
+      "start": 465.08,
+      "end": 466.22,
+      "en": "You don't sound too good at all.",
+      "zh": "你听起来一点也不好。"
+    },
+    {
+      "id": 180,
+      "start": 466.64,
+      "end": 470.08,
+      "en": "OK, I'm going to set you up with a bunch of antibiotics.",
+      "zh": "好的，我要给你装一堆抗生素。"
+    },
+    {
+      "id": 181,
+      "start": 470.08,
+      "end": 474.22,
+      "en": "You will need to take these orange pills twice a day and these blue pills every evening.",
+      "zh": "这些橙色药片每天吃两次，蓝色药片每晚吃一次。"
+    },
+    {
+      "id": 182,
+      "start": 474.8,
+      "end": 478.18,
+      "en": "You will also have to take this cough medicine three times a day after meals.",
+      "zh": "您还必须在饭后每天服用这种止咳药 3 次。"
+    },
+    {
+      "id": 183,
+      "start": 478.9,
+      "end": 484.16,
+      "en": "Finally, I am giving you an inhaler to use every time you feel breathless, just to clear up your lungs.",
+      "zh": "最后再给你开一个吸入器，感觉喘不过气时就用，帮助呼吸通畅。"
+    },
+    {
+      "id": 184,
+      "start": 485.02,
+      "end": 486.76,
+      "en": "Whoa, so many drugs.",
+      "zh": "哇，这么多药。"
+    },
+    {
+      "id": 185,
+      "start": 487.36,
+      "end": 490.32,
+      "en": "Ah, I hate swallowing pills.",
+      "zh": "啊，我讨厌吞药。"
+    },
+    {
+      "id": 186,
+      "start": 490.32,
+      "end": 491.4,
+      "en": "Am I able to go to work?",
+      "zh": "我可以去上班吗？"
+    },
+    {
+      "id": 187,
+      "start": 491.95,
+      "end": 492.83,
+      "en": "Absolutely not.",
+      "zh": "绝对不行。"
+    },
+    {
+      "id": 188,
+      "start": 493.28,
+      "end": 495.12,
+      "en": "You are highly contagious.",
+      "zh": "你的传染性很强。"
+    },
+    {
+      "id": 189,
+      "start": 495.12,
+      "end": 497.37,
+      "en": "You don't want to infect the rest of your co-workers, do you?",
+      "zh": "你不想感染你的其他同事，是吗？"
+    },
+    {
+      "id": 190,
+      "start": 497.75,
+      "end": 503.51,
+      "en": "I recommend staying in bed for at least three days and drinking plenty of fluids so you don't get weak and dehydrated.",
+      "zh": "我建议至少在床上待三天，多喝水，这样你就不会变得虚弱和脱水。"
+    },
+    {
+      "id": 191,
+      "start": 504.07,
+      "end": 506.29,
+      "en": "You can catch up on all the latest TV shows and movies.",
+      "zh": "您可以观看所有最新的电视节目和电影。"
+    },
+    {
+      "id": 192,
+      "start": 506.88,
+      "end": 507.88,
+      "en": "OK.",
+      "zh": "好的。"
+    },
+    {
+      "id": 193,
+      "start": 507.88,
+      "end": 510.01,
+      "en": "Would you mind writing me a doctor's note for work?",
+      "zh": "能帮我开张病假证明，交给公司吗？"
+    },
+    {
+      "id": 194,
+      "start": 510.76,
+      "end": 513.14,
+      "en": "Otherwise, they may think I'm faking it.",
+      "zh": "不然他们可能以为我在装病。"
+    },
+    {
+      "id": 195,
+      "start": 513.92,
+      "end": 515.58,
+      "en": "Sure, no problem.",
+      "zh": "当然，没问题。"
+    },
+    {
+      "id": 196,
+      "start": 516.32,
+      "end": 516.72,
+      "en": "Here you are.",
+      "zh": "给你。"
+    },
+    {
+      "id": 197,
+      "start": 517.18,
+      "end": 518.88,
+      "en": "Now, off home and away to bed.",
+      "zh": "好了，回家卧床休息吧。"
+    },
+    {
+      "id": 198,
+      "start": 519.48,
+      "end": 521.36,
+      "en": "If you have any questions, just give me a call.",
+      "zh": "如果您有任何问题，请给我打电话。"
+    },
+    {
+      "id": 199,
+      "start": 521.9,
+      "end": 523.16,
+      "en": "Feel better soon and take care.",
+      "zh": "很快就会好起来，保重。"
+    },
+    {
+      "id": 200,
+      "start": 523.8,
+      "end": 524.44,
+      "en": "Thanks doc.",
+      "zh": "谢谢医生。"
+    },
+    {
+      "id": 201,
+      "start": 525.1,
+      "end": 525.38,
+      "en": "Bye.",
+      "zh": "再见。"
+    },
+    {
+      "id": 202,
+      "start": 526.24,
+      "end": 527.24,
+      "en": "Bye.",
+      "zh": "再见。"
+    },
+    {
+      "id": 203,
+      "start": 527.24,
+      "end": 531.24,
+      "en": "All right, we're back.",
+      "zh": "好了，我们回来了。"
+    },
+    {
+      "id": 204,
+      "start": 531.24,
+      "end": 535.74,
+      "en": "So now let's take a look at four key phrases that we have prepared for you on Fluency Builder.",
+      "zh": "所以现在让我们来看看我们在 Fluency Builder 上为您准备的四个关键短语。"
+    },
+    {
+      "id": 205,
+      "start": 539.24,
+      "end": 546.32,
+      "en": "So, Chloe goes in to see her doctor, Dr. Evans, and she says, thanks for seeing me on such short notice.",
+      "zh": "所以，克洛伊去看了她的医生埃文斯博士，她说，感谢您在这么短的时间内见到我。"
+    },
+    {
+      "id": 206,
+      "start": 546.68,
+      "end": 547.36,
+      "en": "What's short notice?",
+      "zh": "什么是短期通知？"
+    },
+    {
+      "id": 207,
+      "start": 547.76,
+      "end": 548.76,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 208,
+      "start": 548.76,
+      "end": 554.32,
+      "en": "So basically, Chloe made an appointment with the doctor very late or very suddenly.",
+      "zh": "所以基本上，克洛伊很晚或非常突然地与医生预约。"
+    },
+    {
+      "id": 209,
+      "start": 555.68,
+      "end": 556.74,
+      "en": "So that's a short notice.",
+      "zh": "所以这是一个很短的通知。"
+    },
+    {
+      "id": 210,
+      "start": 557.0,
+      "end": 558.0,
+      "en": "Great.",
+      "zh": "太好了。"
+    },
+    {
+      "id": 211,
+      "start": 558.0,
+      "end": 563.8,
+      "en": "So, for example, it's Friday night and she needs to make an appointment for Saturday morning.",
+      "zh": "所以，例如，现在是星期五晚上，她需要在周六早上预约。"
+    },
+    {
+      "id": 212,
+      "start": 563.8,
+      "end": 564.62,
+      "en": "That's pretty short notice.",
+      "zh": "这是很短的通知。"
+    },
+    {
+      "id": 213,
+      "start": 564.96,
+      "end": 566.5,
+      "en": "That's not calling the doctor in advance.",
+      "zh": "这不是提前打电话给医生。"
+    },
+    {
+      "id": 214,
+      "start": 567.2,
+      "end": 568.82,
+      "en": "You can say this also when you're talking to friends.",
+      "zh": "当您与朋友交谈时，您也可以这么说。"
+    },
+    {
+      "id": 215,
+      "start": 569.88,
+      "end": 574.32,
+      "en": "You know, I'm really sorry to cancel on such short notice, but I can't go to dinner tonight.",
+      "zh": "你知道，我真的很抱歉在这么短的时间内取消，但我今晚不能去吃饭。"
+    },
+    {
+      "id": 216,
+      "start": 574.8,
+      "end": 575.8,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 217,
+      "start": 575.8,
+      "end": 580.4,
+      "en": "So I think it's very interesting, the whole structure as you see on such short notice.",
+      "zh": "所以我认为这很有趣，你在这么短的时间内看到的整个结构。"
+    },
+    {
+      "id": 218,
+      "start": 580.6,
+      "end": 585.08,
+      "en": "So as you said, your example, I'm really sorry to cancel on such short notice.",
+      "zh": "正如你所说，你的例子，我真的很抱歉在这么短的时间内取消。"
+    },
+    {
+      "id": 219,
+      "start": 586.04,
+      "end": 586.84,
+      "en": "On short notice.",
+      "zh": "在短时间内通知。"
+    },
+    {
+      "id": 220,
+      "start": 587.32,
+      "end": 588.54,
+      "en": "On such short notice.",
+      "zh": "在这么短的通知下。"
+    },
+    {
+      "id": 221,
+      "start": 589.8,
+      "end": 590.0,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 222,
+      "start": 590.8,
+      "end": 590.98,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 223,
+      "start": 591.8,
+      "end": 599.82,
+      "en": "So moving on to our second phrase, Chloe was explaining that she doesn't feel very well and she said, I think I'm coming down with the flu.",
+      "zh": "所以继续我们的第二个短语，克洛伊解释说她感觉不太好，她说，我想我正在患上流感。"
+    },
+    {
+      "id": 224,
+      "start": 600.28,
+      "end": 600.66,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 225,
+      "start": 601.04,
+      "end": 604.24,
+      "en": "So let's look at this verbal phrase here, coming down with.",
+      "zh": "所以让我们在这里看看这个口头短语，下来。"
+    },
+    {
+      "id": 226,
+      "start": 604.76,
+      "end": 605.28,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 227,
+      "start": 605.34,
+      "end": 611.92,
+      "en": "So you can come down with many different illnesses, but the verb here means, this is the beginning of my illness.",
+      "zh": "所以你可能会患上许多不同的疾病，但这里的动词是指，这是我疾病的开始。"
+    },
+    {
+      "id": 228,
+      "start": 612.68,
+      "end": 614.58,
+      "en": "So I'm starting to feel the effects.",
+      "zh": "所以我开始感受到效果。"
+    },
+    {
+      "id": 229,
+      "start": 614.8,
+      "end": 616.72,
+      "en": "Like you said, Marco, I'm feeling some symptoms.",
+      "zh": "就像你说的，马可，我感觉到了一些症状。"
+    },
+    {
+      "id": 230,
+      "start": 617.32,
+      "end": 619.79,
+      "en": "So I'm starting to get sick, right?",
+      "zh": "所以我开始生病了，对吧？"
+    },
+    {
+      "id": 231,
+      "start": 620.09,
+      "end": 622.81,
+      "en": "I'm coming down with a fever.",
+      "zh": "我发烧了。"
+    },
+    {
+      "id": 232,
+      "start": 624.35,
+      "end": 626.35,
+      "en": "Or I think I'm coming down with a cold.",
+      "zh": "或者我想我要感冒了。"
+    },
+    {
+      "id": 233,
+      "start": 626.92,
+      "end": 628.48,
+      "en": "Very common.",
+      "zh": "很常见。"
+    },
+    {
+      "id": 234,
+      "start": 628.48,
+      "end": 629.52,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 235,
+      "start": 629.52,
+      "end": 634.25,
+      "en": "And the doctor started to check Chloe, how she was breathing.",
+      "zh": "医生开始检查克洛伊，她的呼吸情况。"
+    },
+    {
+      "id": 236,
+      "start": 634.88,
+      "end": 637.63,
+      "en": "And I think he listened to her lungs with his, what is it called?",
+      "zh": "我想他用他的肺听她的，它叫什么？"
+    },
+    {
+      "id": 237,
+      "start": 638.2,
+      "end": 639.2,
+      "en": "A stethoscope.",
+      "zh": "听诊器。"
+    },
+    {
+      "id": 238,
+      "start": 639.2,
+      "end": 639.57,
+      "en": "Stethoscope.",
+      "zh": "听诊器。"
+    },
+    {
+      "id": 239,
+      "start": 640.2,
+      "end": 641.2,
+      "en": "Stethoscope.",
+      "zh": "听诊器。"
+    },
+    {
+      "id": 240,
+      "start": 641.24,
+      "end": 645.04,
+      "en": "And he said, wow, you are really all bunged up.",
+      "zh": "他说，哇，你们真的都搞砸了。"
+    },
+    {
+      "id": 241,
+      "start": 645.44,
+      "end": 645.88,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 242,
+      "start": 646.24,
+      "end": 649.46,
+      "en": "So here he's basically saying that she's very congested.",
+      "zh": "所以在这里他基本上是在说她很拥挤。"
+    },
+    {
+      "id": 243,
+      "start": 649.96,
+      "end": 656.16,
+      "en": "That means that her breathing passageways, like in her nose and her throat and her chest, are very stuffy.",
+      "zh": "这意味着她的呼吸道，就像在她的鼻子、她的喉咙和她的胸部一样，非常闷热。"
+    },
+    {
+      "id": 244,
+      "start": 656.36,
+      "end": 657.08,
+      "en": "There's things in them.",
+      "zh": "他们里面有东西。"
+    },
+    {
+      "id": 245,
+      "start": 657.92,
+      "end": 658.92,
+      "en": "Usually mucus.",
+      "zh": "通常粘液。"
+    },
+    {
+      "id": 246,
+      "start": 658.92,
+      "end": 659.92,
+      "en": "Yeah, phlegm.",
+      "zh": "是的，痰。"
+    },
+    {
+      "id": 247,
+      "start": 659.92,
+      "end": 660.92,
+      "en": "Phlegm.",
+      "zh": "痰。"
+    },
+    {
+      "id": 248,
+      "start": 661.24,
+      "end": 665.36,
+      "en": "These are things that, you know what's in your nose when you have a cold and you have to blow it out?",
+      "zh": "这些东西，你知道当你感冒时你的鼻子里有什么，你必须把它吹掉吗？"
+    },
+    {
+      "id": 249,
+      "start": 665.88,
+      "end": 667.36,
+      "en": "That's phlegm and mucus.",
+      "zh": "那是痰和粘液。"
+    },
+    {
+      "id": 250,
+      "start": 667.39,
+      "end": 667.73,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 251,
+      "start": 668.36,
+      "end": 669.89,
+      "en": "Not a very pretty thing.",
+      "zh": "不是很漂亮的东西。"
+    },
+    {
+      "id": 252,
+      "start": 670.16,
+      "end": 671.16,
+      "en": "No.",
+      "zh": "不。"
+    },
+    {
+      "id": 253,
+      "start": 671.16,
+      "end": 672.16,
+      "en": "Very disgusting, actually.",
+      "zh": "其实很恶心。"
+    },
+    {
+      "id": 254,
+      "start": 672.16,
+      "end": 674.16,
+      "en": "So maybe we should move on to our next item.",
+      "zh": "所以也许我们应该继续我们的下一个项目。"
+    },
+    {
+      "id": 255,
+      "start": 674.21,
+      "end": 674.51,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 256,
+      "start": 675.16,
+      "end": 676.03,
+      "en": "So she's all bunged up.",
+      "zh": "所以她都被搞砸了。"
+    },
+    {
+      "id": 257,
+      "start": 677.04,
+      "end": 679.12,
+      "en": "And clear up.",
+      "zh": "并清除。"
+    },
+    {
+      "id": 258,
+      "start": 679.12,
+      "end": 689.17,
+      "en": "And so he recommended a couple of different medicine, such as antibiotics, some pills, and he also gave her an inhaler to clear up her lungs.",
+      "zh": "所以他推荐了几种不同的药物，比如抗生素、一些药片，他还给了她一个吸入器来清理她的肺部。"
+    },
+    {
+      "id": 259,
+      "start": 689.83,
+      "end": 690.13,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 260,
+      "start": 690.6,
+      "end": 699.05,
+      "en": "So an inhaler is basically a device that you use to put steroids in your lungs that will help you breathe.",
+      "zh": "因此，吸入器基本上是一种用于将类固醇放入肺部的设备，可以帮助您呼吸。"
+    },
+    {
+      "id": 261,
+      "start": 699.67,
+      "end": 704.67,
+      "en": "So some people, when they're running or they're walking, they're very short of breath and they can't breathe.",
+      "zh": "所以有些人，当他们跑步或走路时，他们呼吸急促，无法呼吸。"
+    },
+    {
+      "id": 262,
+      "start": 705.12,
+      "end": 711.06,
+      "en": "Well, there's a problem with this, like asthma, and they need to breathe this little inhaler.",
+      "zh": "嗯，这有一个问题，比如哮喘，他们需要呼吸这个小吸入器。"
+    },
+    {
+      "id": 263,
+      "start": 711.28,
+      "end": 713.24,
+      "en": "It's like a little tube.",
+      "zh": "它就像一个小管子。"
+    },
+    {
+      "id": 264,
+      "start": 713.58,
+      "end": 716.38,
+      "en": "I think you inhale medicine from this little tube.",
+      "zh": "我想你从这个小管中吸入药物。"
+    },
+    {
+      "id": 265,
+      "start": 716.56,
+      "end": 717.56,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 266,
+      "start": 717.56,
+      "end": 720.16,
+      "en": "So the medicine helps open up your passageways.",
+      "zh": "所以药物有助于打开你的通道。"
+    },
+    {
+      "id": 267,
+      "start": 720.16,
+      "end": 723.76,
+      "en": "It helps you breathe and it's very important for some people.",
+      "zh": "它可以帮助您呼吸，这对某些人来说非常重要。"
+    },
+    {
+      "id": 268,
+      "start": 723.92,
+      "end": 730.24,
+      "en": "But in the case of an illness, like your lungs are very congested, this helps you breathe on the short term.",
+      "zh": "但在疾病的情况下，您的肺部非常拥挤，这可以帮助您在短期内呼吸。"
+    },
+    {
+      "id": 269,
+      "start": 730.36,
+      "end": 731.36,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 270,
+      "start": 731.36,
+      "end": 737.55,
+      "en": "So to clear up is to allow air or the movement of something within your body, usually, I think.",
+      "zh": "所以清理就是让空气或你体内的东西在你体内的运动，我想。"
+    },
+    {
+      "id": 271,
+      "start": 738.6,
+      "end": 739.6,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 272,
+      "start": 739.6,
+      "end": 740.6,
+      "en": "But to clear up isn't necessarily about air.",
+      "zh": "但清理不一定与空气有关。"
+    },
+    {
+      "id": 273,
+      "start": 740.6,
+      "end": 743.87,
+      "en": "It's basically a way to say that it will make this problem go away.",
+      "zh": "这基本上是一种说它会让这个问题消失的方式。"
+    },
+    {
+      "id": 274,
+      "start": 744.16,
+      "end": 747.16,
+      "en": "To clear something up is to make the problem go.",
+      "zh": "澄清一些事情就是让问题消失。"
+    },
+    {
+      "id": 275,
+      "start": 747.16,
+      "end": 748.16,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 276,
+      "start": 748.16,
+      "end": 753.71,
+      "en": "So I guess if you get medicine from a doctor, he'll say, okay, this will help you clear up your throat.",
+      "zh": "所以我想如果你从医生那里得到药物，他会说，好吧，这将帮助你清除喉咙。"
+    },
+    {
+      "id": 277,
+      "start": 754.31,
+      "end": 754.55,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 278,
+      "start": 754.55,
+      "end": 760.69,
+      "en": "Or if you have a problem with acne, maybe your doctor will give you some cream to help clear up your acne, make it go away.",
+      "zh": "或者，如果您有痤疮问题，也许您的医生会给您一些乳霜来帮助您清除痤疮，使其消失。"
+    },
+    {
+      "id": 279,
+      "start": 761.0,
+      "end": 762.0,
+      "en": "Clear up your skin.",
+      "zh": "清理你的皮肤。"
+    },
+    {
+      "id": 280,
+      "start": 762.0,
+      "end": 762.31,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 281,
+      "start": 763.07,
+      "end": 764.37,
+      "en": "So a lot of great examples there.",
+      "zh": "所以那里有很多很棒的例子。"
+    },
+    {
+      "id": 282,
+      "start": 764.52,
+      "end": 775.16,
+      "en": "Why don't we go back and listen to the dialogue one last time.",
+      "zh": "我们为什么不回去听一次对话。"
+    },
+    {
+      "id": 283,
+      "start": 775.16,
+      "end": 775.77,
+      "en": "Good afternoon, Chloe.",
+      "zh": "下午好，克洛伊。"
+    },
+    {
+      "id": 284,
+      "start": 776.16,
+      "end": 777.16,
+      "en": "I'm Dr. Evans.",
+      "zh": "我是埃文斯博士。"
+    },
+    {
+      "id": 285,
+      "start": 777.16,
+      "end": 778.05,
+      "en": "What seems to be the problem?",
+      "zh": "请问有什么问题？"
+    },
+    {
+      "id": 286,
+      "start": 778.52,
+      "end": 779.49,
+      "en": "Hi, Dr. Evans.",
+      "zh": "嗨，埃文斯博士。"
+    },
+    {
+      "id": 287,
+      "start": 780.05,
+      "end": 782.11,
+      "en": "Thanks for seeing me on such short notice.",
+      "zh": "谢谢您临时抽空给我看诊。"
+    },
+    {
+      "id": 288,
+      "start": 782.77,
+      "end": 787.37,
+      "en": "When I woke up this morning, I had a really sore throat and a really bad cough.",
+      "zh": "今天早上我醒来时，我的喉咙很痛，咳嗽得很厉害。"
+    },
+    {
+      "id": 289,
+      "start": 788.17,
+      "end": 790.41,
+      "en": "I think I'm coming down with the flu.",
+      "zh": "我想我正在患上流感。"
+    },
+    {
+      "id": 290,
+      "start": 791.49,
+      "end": 791.87,
+      "en": "I see.",
+      "zh": "我明白了。"
+    },
+    {
+      "id": 291,
+      "start": 792.42,
+      "end": 794.3,
+      "en": "Yes, you do sound rather croaky.",
+      "zh": "是的，你听起来确实相当嘶哑。"
+    },
+    {
+      "id": 292,
+      "start": 794.68,
+      "end": 796.48,
+      "en": "Well, let's have a look, shall we?",
+      "zh": "好吧，让我们看看，好吗？"
+    },
+    {
+      "id": 293,
+      "start": 796.6,
+      "end": 799.92,
+      "en": "Could you please open your mouth and say, ah?",
+      "zh": "你能张开嘴说，啊？"
+    },
+    {
+      "id": 294,
+      "start": 800.08,
+      "end": 800.56,
+      "en": "Ah.",
+      "zh": "啊。"
+    },
+    {
+      "id": 295,
+      "start": 800.92,
+      "end": 801.1,
+      "en": "Good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 296,
+      "start": 801.92,
+      "end": 802.92,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 297,
+      "start": 802.92,
+      "end": 804.44,
+      "en": "Your tonsils are a little swollen and red.",
+      "zh": "你的扁桃体有点肿胀和红色。"
+    },
+    {
+      "id": 298,
+      "start": 804.44,
+      "end": 804.96,
+      "en": "How are your ears?",
+      "zh": "你的耳朵怎么样？"
+    },
+    {
+      "id": 299,
+      "start": 805.44,
+      "end": 805.86,
+      "en": "Blocked at all?",
+      "zh": "有堵塞感吗？"
+    },
+    {
+      "id": 300,
+      "start": 806.76,
+      "end": 807.85,
+      "en": "A little, actually.",
+      "zh": "其实有一点。"
+    },
+    {
+      "id": 301,
+      "start": 808.8,
+      "end": 811.09,
+      "en": "My sinuses are a little blocked up as well.",
+      "zh": "我的鼻窦也有点堵塞。"
+    },
+    {
+      "id": 302,
+      "start": 811.75,
+      "end": 813.25,
+      "en": "I really feel terrible.",
+      "zh": "我真的难受极了。"
+    },
+    {
+      "id": 303,
+      "start": 814.05,
+      "end": 814.65,
+      "en": "Okay, Chloe.",
+      "zh": "好吧，克洛伊。"
+    },
+    {
+      "id": 304,
+      "start": 814.93,
+      "end": 818.19,
+      "en": "Can you please breathe in and out slowly for me while I listen to your chest?",
+      "zh": "我听诊一下胸部，请你慢慢吸气、呼气，好吗？"
+    },
+    {
+      "id": 305,
+      "start": 821.33,
+      "end": 823.13,
+      "en": "Wow, you really are all bunged up.",
+      "zh": "哎呀，你这呼吸道确实堵得很厉害。"
+    },
+    {
+      "id": 306,
+      "start": 823.68,
+      "end": 824.79,
+      "en": "You don't sound too good at all.",
+      "zh": "你听起来一点也不好。"
+    },
+    {
+      "id": 307,
+      "start": 825.24,
+      "end": 827.47,
+      "en": "Okay, I'm going to set you up with a bunch of antibiotics.",
+      "zh": "好吧，我要给你装一堆抗生素。"
+    },
+    {
+      "id": 308,
+      "start": 828.51,
+      "end": 832.77,
+      "en": "You will need to take these orange pills twice a day and these blue pills every evening.",
+      "zh": "这些橙色药片每天吃两次，蓝色药片每晚吃一次。"
+    },
+    {
+      "id": 309,
+      "start": 833.25,
+      "end": 836.79,
+      "en": "You will also have to take this cough medicine three times a day after meals.",
+      "zh": "您还必须在饭后每天服用这种止咳药 3 次。"
+    },
+    {
+      "id": 310,
+      "start": 837.41,
+      "end": 842.75,
+      "en": "Finally, I am giving you an inhaler to use every time you feel breathless, just to clear up your lungs.",
+      "zh": "最后再给你开一个吸入器，感觉喘不过气时就用，帮助呼吸通畅。"
+    },
+    {
+      "id": 311,
+      "start": 843.57,
+      "end": 845.33,
+      "en": "Whoa, so many drugs.",
+      "zh": "哇，这么多药。"
+    },
+    {
+      "id": 312,
+      "start": 846.23,
+      "end": 848.11,
+      "en": "Ah, I hate swallowing pills.",
+      "zh": "啊，我讨厌吞药。"
+    },
+    {
+      "id": 313,
+      "start": 848.88,
+      "end": 849.99,
+      "en": "Am I able to go to work?",
+      "zh": "我可以去上班吗？"
+    },
+    {
+      "id": 314,
+      "start": 850.56,
+      "end": 851.4,
+      "en": "Absolutely not.",
+      "zh": "绝对不行。"
+    },
+    {
+      "id": 315,
+      "start": 851.84,
+      "end": 853.68,
+      "en": "You are highly contagious.",
+      "zh": "你的传染性很强。"
+    },
+    {
+      "id": 316,
+      "start": 853.68,
+      "end": 855.96,
+      "en": "You don't want to infect the rest of your co-workers, do you?",
+      "zh": "你不想感染你的其他同事，是吗？"
+    },
+    {
+      "id": 317,
+      "start": 856.28,
+      "end": 862.14,
+      "en": "I recommend staying in bed for at least three days and drinking plenty of fluids so you don't get weak and dehydrated.",
+      "zh": "我建议至少在床上待三天，多喝水，这样你就不会变得虚弱和脱水。"
+    },
+    {
+      "id": 318,
+      "start": 862.51,
+      "end": 864.91,
+      "en": "You can catch up on all the latest TV shows and movies.",
+      "zh": "您可以观看所有最新的电视节目和电影。"
+    },
+    {
+      "id": 319,
+      "start": 865.35,
+      "end": 865.71,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 320,
+      "start": 866.09,
+      "end": 868.63,
+      "en": "Would you mind writing me a doctor's note for work?",
+      "zh": "能帮我开张病假证明，交给公司吗？"
+    },
+    {
+      "id": 321,
+      "start": 869.27,
+      "end": 871.71,
+      "en": "Otherwise, they may think I'm faking it.",
+      "zh": "不然他们可能以为我在装病。"
+    },
+    {
+      "id": 322,
+      "start": 872.25,
+      "end": 874.15,
+      "en": "Sure, no problem.",
+      "zh": "当然，没问题。"
+    },
+    {
+      "id": 323,
+      "start": 874.81,
+      "end": 875.29,
+      "en": "Here you are.",
+      "zh": "给你。"
+    },
+    {
+      "id": 324,
+      "start": 875.63,
+      "end": 877.47,
+      "en": "Now, off home and away to bed.",
+      "zh": "好了，回家卧床休息吧。"
+    },
+    {
+      "id": 325,
+      "start": 878.05,
+      "end": 879.95,
+      "en": "If you have any questions, just give me a call.",
+      "zh": "如果您有任何问题，请给我打电话。"
+    },
+    {
+      "id": 326,
+      "start": 880.49,
+      "end": 881.75,
+      "en": "Feel better soon and take care.",
+      "zh": "很快就会好起来，保重。"
+    },
+    {
+      "id": 327,
+      "start": 882.25,
+      "end": 883.03,
+      "en": "Thanks doc.",
+      "zh": "谢谢医生。"
+    },
+    {
+      "id": 328,
+      "start": 883.8,
+      "end": 884.01,
+      "en": "Bye.",
+      "zh": "再见。"
+    },
+    {
+      "id": 329,
+      "start": 884.8,
+      "end": 885.8,
+      "en": "Bye.",
+      "zh": "再见。"
+    },
+    {
+      "id": 330,
+      "start": 890.92,
+      "end": 898.0,
+      "en": "All right, so talking about illnesses and being contagious, we mentioned this pink eye illness before.",
+      "zh": "好吧，所以谈到疾病和传染性，我们之前提到过这种粉红眼病。"
+    },
+    {
+      "id": 331,
+      "start": 898.72,
+      "end": 909.36,
+      "en": "So this is the colloquial way of saying conjunctivitis, which is, I don't know if anyone has ever gotten it, your eye gets very, very red for a prolonged period of time.",
+      "zh": "所以这是说结膜炎的口语方式，也就是说，我不知道是否有人得到过它，你的眼睛会在很长一段时间内变得非常非常红。"
+    },
+    {
+      "id": 332,
+      "start": 909.36,
+      "end": 909.55,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 333,
+      "start": 910.36,
+      "end": 911.01,
+      "en": "And it itches a lot.",
+      "zh": "它很痒。"
+    },
+    {
+      "id": 334,
+      "start": 911.36,
+      "end": 912.36,
+      "en": "It itches.",
+      "zh": "它发痒。"
+    },
+    {
+      "id": 335,
+      "start": 912.36,
+      "end": 919.27,
+      "en": "And so already your eye is very red or very pink, like the name says, but you really want to scratch it and itch it and it's really hard not to.",
+      "zh": "所以你的眼睛已经很红或很粉红色了，就像名字所说的那样，但你真的想抓挠它并发痒，真的很难不。"
+    },
+    {
+      "id": 336,
+      "start": 919.8,
+      "end": 920.8,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 337,
+      "start": 920.8,
+      "end": 923.25,
+      "en": "And I think you treat it by means of some eye drops.",
+      "zh": "我认为你通过一些眼药水来治疗它。"
+    },
+    {
+      "id": 338,
+      "start": 923.68,
+      "end": 924.05,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 339,
+      "start": 924.05,
+      "end": 924.97,
+      "en": "And you have to wait.",
+      "zh": "你必须等待。"
+    },
+    {
+      "id": 340,
+      "start": 925.31,
+      "end": 931.13,
+      "en": "I actually had a very bad case of pink eye once that I couldn't just clear up with drops.",
+      "zh": "实际上，我曾经有过一个非常糟糕的粉红色眼睛，我无法用滴剂清除。"
+    },
+    {
+      "id": 341,
+      "start": 931.47,
+      "end": 933.43,
+      "en": "The doctor gave me some eye drops.",
+      "zh": "医生给了我一些眼药水。"
+    },
+    {
+      "id": 342,
+      "start": 933.68,
+      "end": 938.8,
+      "en": "They were so strong that I put them in my eye and I can taste them.",
+      "zh": "它们太强了，我把它们放在我的眼睛里，我可以尝到它们的味道。"
+    },
+    {
+      "id": 343,
+      "start": 938.8,
+      "end": 939.8,
+      "en": "Oh, wow.",
+      "zh": "哦，哇。"
+    },
+    {
+      "id": 344,
+      "start": 939.8,
+      "end": 940.8,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 345,
+      "start": 940.8,
+      "end": 944.74,
+      "en": "So apparently, yeah, it's very strange and it wouldn't clear up.",
+      "zh": "所以显然，是的，这很奇怪，而且不会清理。"
+    },
+    {
+      "id": 346,
+      "start": 944.74,
+      "end": 951.32,
+      "en": "So then I had to get some kind of like a clear gel put in my eye and my eye patched up for like two days.",
+      "zh": "所以我不得不在我的眼睛里放一些像透明凝胶一样的凝胶，我的眼睛修补了两天。"
+    },
+    {
+      "id": 347,
+      "start": 951.32,
+      "end": 952.32,
+      "en": "Oh wow.",
+      "zh": "哦，哇。"
+    },
+    {
+      "id": 348,
+      "start": 952.32,
+      "end": 953.32,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 349,
+      "start": 953.32,
+      "end": 954.32,
+      "en": "So I was running around with one eye.",
+      "zh": "所以我用一只眼睛跑来跑去。"
+    },
+    {
+      "id": 350,
+      "start": 954.32,
+      "end": 955.32,
+      "en": "It was crazy.",
+      "zh": "太疯狂了。"
+    },
+    {
+      "id": 351,
+      "start": 955.32,
+      "end": 959.68,
+      "en": "I've never had it, but I know that it's very, very contagious, like we were saying earlier.",
+      "zh": "我从来没有吃过它，但我知道它非常非常具有传染性，就像我们之前所说的那样。"
+    },
+    {
+      "id": 352,
+      "start": 959.68,
+      "end": 968.22,
+      "en": "And so if a student at a school gets pink eye, all the parents get very nervous because it's very, very likely that he or she will give it to another person.",
+      "zh": "因此，如果一所学校的学生得到了粉红色的眼睛，所有的家长都会非常紧张，因为他或她很可能会把它给另一个人。"
+    },
+    {
+      "id": 353,
+      "start": 968.36,
+      "end": 969.36,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 354,
+      "start": 969.36,
+      "end": 972.72,
+      "en": "Because, you know, kids, if you touch your eye and you touch someone else, all of a sudden they have this disease.",
+      "zh": "因为，你知道，孩子们，如果你触摸你的眼睛并触摸别人，他们突然间就会患上这种疾病。"
+    },
+    {
+      "id": 355,
+      "start": 973.32,
+      "end": 974.32,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 356,
+      "start": 974.32,
+      "end": 975.8,
+      "en": "So, yeah, it's very common thing.",
+      "zh": "所以，是的，这是很常见的事情。"
+    },
+    {
+      "id": 357,
+      "start": 976.44,
+      "end": 983.68,
+      "en": "And I think with especially with kids, they always get all these things, pink eye, measles.",
+      "zh": "我认为特别是和孩子们在一起，他们总是得到所有这些东西，粉红色的眼睛，麻疹。"
+    },
+    {
+      "id": 358,
+      "start": 983.68,
+      "end": 984.68,
+      "en": "They get chickenpox.",
+      "zh": "他们得水痘。"
+    },
+    {
+      "id": 359,
+      "start": 984.68,
+      "end": 985.68,
+      "en": "Chickenpox.",
+      "zh": "水痘。"
+    },
+    {
+      "id": 360,
+      "start": 985.68,
+      "end": 987.32,
+      "en": "A lot of different diseases.",
+      "zh": "许多不同的疾病。"
+    },
+    {
+      "id": 361,
+      "start": 987.32,
+      "end": 988.8,
+      "en": "We actually have a lesson on chickenpox.",
+      "zh": "我们实际上有一个关于水痘的教训。"
+    },
+    {
+      "id": 362,
+      "start": 988.8,
+      "end": 990.2,
+      "en": "You guys should check that one out.",
+      "zh": "你们应该检查一下。"
+    },
+    {
+      "id": 363,
+      "start": 990.2,
+      "end": 995.6,
+      "en": "But if you have any questions, any comments or any other doubts, please come to EnglishPod.com where we're there to answer them.",
+      "zh": "但是，如果您有任何问题、任何意见或任何其他疑问，请访问 englishpod.com 我们在那里回答。"
+    },
+    {
+      "id": 364,
+      "start": 995.78,
+      "end": 996.34,
+      "en": "We'll see you there.",
+      "zh": "到时候见。"
+    },
+    {
+      "id": 365,
+      "start": 996.84,
+      "end": 997.84,
+      "en": "Bye.",
+      "zh": "再见。"
+    },
+    {
+      "id": 366,
+      "start": 997.84,
+      "end": 1005.27,
+      "en": "Bye.",
+      "zh": "再见。"
+    }
+  ],
+  "dialog": {
+    "start": 34.19,
+    "end": 146.08,
+    "segmentIds": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55
+    ]
+  }
+}

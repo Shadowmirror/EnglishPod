@@ -1,0 +1,1920 @@
+{
+  "version": 1,
+  "id": 122,
+  "number": "0122",
+  "title": "Daily Life - Supermarket Cashier",
+  "audio": "mp3/122. Daily Life - Supermarket Cashier.mp3",
+  "duration": 814.44575,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 0.96,
+      "en": "Hello English learners.",
+      "zh": "各位英语学习者，大家好。"
+    },
+    {
+      "id": 2,
+      "start": 1.3,
+      "end": 2.0,
+      "en": "Welcome back to EnglishPod.",
+      "zh": "欢迎回到 EnglishPod。"
+    },
+    {
+      "id": 3,
+      "start": 3.16,
+      "end": 3.76,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 4,
+      "start": 4.0,
+      "end": 4.72,
+      "en": "And I'm Erica.",
+      "zh": "我叫 Erica。"
+    },
+    {
+      "id": 5,
+      "start": 5.5,
+      "end": 9.78,
+      "en": "And today we have an elementary lesson for you and we are at the supermarket.",
+      "zh": "今天我们为您准备了一个小学课程，我们在超市。"
+    },
+    {
+      "id": 6,
+      "start": 10.38,
+      "end": 10.8,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 7,
+      "start": 10.94,
+      "end": 18.42,
+      "en": "We're at the grocery store and we're going to learn some language you can use when you want to pay for your groceries.",
+      "zh": "我们在杂货店，我们将学习一些当您想支付杂货时可以使用的语言。"
+    },
+    {
+      "id": 8,
+      "start": 19.18,
+      "end": 31.34,
+      "en": "So this lesson was requested by one of our users that wanted vocabulary and different phrases that are used in the supermarket when the person is about to pay for all the things they need.",
+      "zh": "因此，我们的一位用户要求在超市中使用的词汇和不同的短语，当该人即将为他们需要的所有东西付费时使用的不同短语。"
+    },
+    {
+      "id": 9,
+      "start": 31.68,
+      "end": 31.98,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 10,
+      "start": 31.98,
+      "end": 39.64,
+      "en": "And we also have some great language that the person who is actually selling the groceries can use.",
+      "zh": "我们也有一些很棒的语言供实际销售杂货的人可以使用。"
+    },
+    {
+      "id": 11,
+      "start": 40.12,
+      "end": 41.12,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 12,
+      "start": 41.12,
+      "end": 45.14,
+      "en": "So let's listen to our dialogue for the first time and see what happens.",
+      "zh": "所以让我们第一次听我们的对话，看看会发生什么。"
+    },
+    {
+      "id": 13,
+      "start": 52.64,
+      "end": 53.24,
+      "en": "Excuse me, sir.",
+      "zh": "打扰一下，先生。"
+    },
+    {
+      "id": 14,
+      "start": 54.24,
+      "end": 57.76,
+      "en": "This is the express checkout lane for people who have 15 items or fewer.",
+      "zh": "这是快速结账通道，只供购买十五件及以下商品的顾客使用。"
+    },
+    {
+      "id": 15,
+      "start": 59.0,
+      "end": 61.02,
+      "en": "It looks like you have more than 15 items there.",
+      "zh": "看起来你那里有超过 15 个项目。"
+    },
+    {
+      "id": 16,
+      "start": 61.32,
+      "end": 62.0,
+      "en": "Oh, come on.",
+      "zh": "哦，拜托。"
+    },
+    {
+      "id": 17,
+      "start": 62.3,
+      "end": 63.46,
+      "en": "I have 16 items.",
+      "zh": "我有十六件商品。"
+    },
+    {
+      "id": 18,
+      "start": 63.88,
+      "end": 65.96,
+      "en": "Cut me some slack, will you?",
+      "zh": "通融一下，好吗？"
+    },
+    {
+      "id": 19,
+      "start": 65.96,
+      "end": 66.96,
+      "en": "Fine.",
+      "zh": "好吧。"
+    },
+    {
+      "id": 20,
+      "start": 66.96,
+      "end": 69.22,
+      "en": "Please place your items on the belt and push your shopping cart through.",
+      "zh": "请把商品放到传送带上，再把购物车推过去。"
+    },
+    {
+      "id": 21,
+      "start": 78.28,
+      "end": 79.88,
+      "en": "Do you prefer paper or plastic?",
+      "zh": "您要纸袋还是塑料袋？"
+    },
+    {
+      "id": 22,
+      "start": 80.54,
+      "end": 80.8,
+      "en": "Plastic.",
+      "zh": "塑料袋。"
+    },
+    {
+      "id": 23,
+      "start": 81.44,
+      "end": 82.58,
+      "en": "I also have a couple of coupons.",
+      "zh": "我还有几张优惠券。"
+    },
+    {
+      "id": 24,
+      "start": 83.96,
+      "end": 84.24,
+      "en": "No problem.",
+      "zh": "没问题。"
+    },
+    {
+      "id": 25,
+      "start": 84.96,
+      "end": 88.76,
+      "en": "I'll take those.",
+      "zh": "把优惠券给我吧。"
+    },
+    {
+      "id": 26,
+      "start": 90.77,
+      "end": 92.99,
+      "en": "Sir, these coupons expired yesterday.",
+      "zh": "先生，这些优惠券昨天就过期了。"
+    },
+    {
+      "id": 27,
+      "start": 93.73,
+      "end": 93.97,
+      "en": "Darn.",
+      "zh": "该死。"
+    },
+    {
+      "id": 28,
+      "start": 94.67,
+      "end": 96.75,
+      "en": "Oh, well, I guess it's just not my day.",
+      "zh": "唉，看来我今天真不走运。"
+    },
+    {
+      "id": 29,
+      "start": 97.17,
+      "end": 97.71,
+      "en": "Thanks anyway.",
+      "zh": "还是谢谢你。"
+    },
+    {
+      "id": 30,
+      "start": 98.03,
+      "end": 100.27,
+      "en": "Do you have a club card or will it be cash?",
+      "zh": "您有会员卡吗，还是付现金？"
+    },
+    {
+      "id": 31,
+      "start": 100.85,
+      "end": 101.85,
+      "en": "Yeah, I got a club card.",
+      "zh": "有，我有会员卡。"
+    },
+    {
+      "id": 32,
+      "start": 102.29,
+      "end": 102.65,
+      "en": "Here you go.",
+      "zh": "给你。"
+    },
+    {
+      "id": 33,
+      "start": 103.19,
+      "end": 104.63,
+      "en": "Will this be debit or credit?",
+      "zh": "刷借记卡还是信用卡？"
+    },
+    {
+      "id": 34,
+      "start": 105.01,
+      "end": 105.75,
+      "en": "Debit, please.",
+      "zh": "借记卡，谢谢。"
+    },
+    {
+      "id": 35,
+      "start": 106.44,
+      "end": 107.95,
+      "en": "Also, can I get cash back?",
+      "zh": "另外，我能在结账时顺便取点现金吗？"
+    },
+    {
+      "id": 36,
+      "start": 108.48,
+      "end": 110.08,
+      "en": "$50 would be great.",
+      "zh": "给我五十美元就好。"
+    },
+    {
+      "id": 37,
+      "start": 110.08,
+      "end": 110.37,
+      "en": "Yeah, sure.",
+      "zh": "好啊，当然。"
+    },
+    {
+      "id": 38,
+      "start": 111.88,
+      "end": 116.12,
+      "en": "Your total is $78.33.",
+      "zh": "总共是 78.33 美元。"
+    },
+    {
+      "id": 39,
+      "start": 116.12,
+      "end": 117.12,
+      "en": "Here's your receipt.",
+      "zh": "这是你的收据。"
+    },
+    {
+      "id": 40,
+      "start": 117.12,
+      "end": 117.36,
+      "en": "Have a nice day.",
+      "zh": "祝你今天愉快。"
+    },
+    {
+      "id": 41,
+      "start": 124.3,
+      "end": 132.54,
+      "en": "Well, we can see in this dialogue that the guy was able to buy his food and, you know, they were using some really interesting, helpful language.",
+      "zh": "好吧，我们可以在这次对话中看到，这家伙能够购买他的食物，而且，你知道，他们使用了一些非常有趣、有用的语言。"
+    },
+    {
+      "id": 42,
+      "start": 133.04,
+      "end": 133.68,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 43,
+      "start": 134.18,
+      "end": 137.76,
+      "en": "So why don't we look at this language now in Language Takeaway.",
+      "zh": "那么我们为什么不现在在语言外卖中看看这种语言。"
+    },
+    {
+      "id": 44,
+      "start": 140.48,
+      "end": 141.48,
+      "en": "Language Takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 45,
+      "start": 142.09,
+      "end": 144.71,
+      "en": "Okay, we have six words for you today.",
+      "zh": "好的，我们今天有六个字给你。"
+    },
+    {
+      "id": 46,
+      "start": 145.21,
+      "end": 152.95,
+      "en": "And the first one, the girl, the cashier says, this is the express checkout lane.",
+      "zh": "第一个，女孩，收银员说，这是 Express Checkout 车道。"
+    },
+    {
+      "id": 47,
+      "start": 153.54,
+      "end": 155.06,
+      "en": "All right, so checkout lane.",
+      "zh": "好吧，所以结账车道。"
+    },
+    {
+      "id": 48,
+      "start": 155.56,
+      "end": 156.47,
+      "en": "The checkout lane.",
+      "zh": "结账车道。"
+    },
+    {
+      "id": 49,
+      "start": 157.24,
+      "end": 162.99,
+      "en": "So the checkout lane is the place where you get in line to pay for all the goods you bought.",
+      "zh": "因此，结账通道是您排队支付您购买的所有商品的地方。"
+    },
+    {
+      "id": 50,
+      "start": 163.56,
+      "end": 165.08,
+      "en": "Right, so the checkout lane.",
+      "zh": "对了，所以结账通道。"
+    },
+    {
+      "id": 51,
+      "start": 165.4,
+      "end": 169.0,
+      "en": "Now, why did she say express checkout lane?",
+      "zh": "现在，她为什么说 Express Checkout Lane？"
+    },
+    {
+      "id": 52,
+      "start": 169.0,
+      "end": 175.34,
+      "en": "So in grocery stores or in supermarkets, sometimes you have a specific checkout lane that's faster.",
+      "zh": "因此，在杂货店或超市中，有时您的特定结账通道更快。"
+    },
+    {
+      "id": 53,
+      "start": 175.88,
+      "end": 176.04,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 54,
+      "start": 176.88,
+      "end": 177.8,
+      "en": "Because people have less things.",
+      "zh": "因为人的东西更少。"
+    },
+    {
+      "id": 55,
+      "start": 178.4,
+      "end": 180.74,
+      "en": "So express is the faster checkout lane.",
+      "zh": "所以 Express 是更快的结账通道。"
+    },
+    {
+      "id": 56,
+      "start": 180.92,
+      "end": 181.8,
+      "en": "Right, the faster one.",
+      "zh": "对了，快一。"
+    },
+    {
+      "id": 57,
+      "start": 182.14,
+      "end": 187.5,
+      "en": "All right, so next she tells the guy to put your items on the belt.",
+      "zh": "好吧，接下来她告诉那个人把你的物品放在腰带上。"
+    },
+    {
+      "id": 58,
+      "start": 188.22,
+      "end": 189.66,
+      "en": "Okay, the belt.",
+      "zh": "好吧，腰带。"
+    },
+    {
+      "id": 59,
+      "start": 189.98,
+      "end": 190.34,
+      "en": "The belt.",
+      "zh": "腰带。"
+    },
+    {
+      "id": 60,
+      "start": 191.08,
+      "end": 191.39,
+      "en": "A belt.",
+      "zh": "一条腰带。"
+    },
+    {
+      "id": 61,
+      "start": 192.08,
+      "end": 194.84,
+      "en": "So you think about belt as the thing you put around your waist.",
+      "zh": "所以你把腰带当作你腰间的东西。"
+    },
+    {
+      "id": 62,
+      "start": 194.84,
+      "end": 195.87,
+      "en": "To keep your pants up.",
+      "zh": "保持你的裤子。"
+    },
+    {
+      "id": 63,
+      "start": 196.23,
+      "end": 205.07,
+      "en": "Right, but in a supermarket, the belt is the moving table that you put your groceries on so the cashier starts to pass them through.",
+      "zh": "是的，但在超市里，皮带是你放杂货的移动桌子，这样收银员就开始把它们通过了。"
+    },
+    {
+      "id": 64,
+      "start": 205.45,
+      "end": 206.55,
+      "en": "Okay, so the belt.",
+      "zh": "好吧，那腰带。"
+    },
+    {
+      "id": 65,
+      "start": 207.11,
+      "end": 208.07,
+      "en": "Okay, the belt.",
+      "zh": "好吧，腰带。"
+    },
+    {
+      "id": 66,
+      "start": 208.36,
+      "end": 210.52,
+      "en": "Put your groceries on the belt.",
+      "zh": "把你的杂货放在腰带上。"
+    },
+    {
+      "id": 67,
+      "start": 210.52,
+      "end": 213.97,
+      "en": "And then the guy said that he had a couple of coupons.",
+      "zh": "然后那家伙说他有几张优惠券。"
+    },
+    {
+      "id": 68,
+      "start": 214.67,
+      "end": 215.16,
+      "en": "Coupons.",
+      "zh": "优惠券。"
+    },
+    {
+      "id": 69,
+      "start": 215.16,
+      "end": 216.16,
+      "en": "Coupons.",
+      "zh": "优惠券。"
+    },
+    {
+      "id": 70,
+      "start": 216.75,
+      "end": 217.15,
+      "en": "A coupon.",
+      "zh": "优惠券。"
+    },
+    {
+      "id": 71,
+      "start": 217.85,
+      "end": 219.73,
+      "en": "Okay, so what is a coupon?",
+      "zh": "好的，那么什么是优惠券？"
+    },
+    {
+      "id": 72,
+      "start": 220.23,
+      "end": 224.51,
+      "en": "A coupon is a piece of paper you can use to get a discount.",
+      "zh": "优惠券是一张纸，您可以用来获得折扣。"
+    },
+    {
+      "id": 73,
+      "start": 225.17,
+      "end": 227.43,
+      "en": "All right, so it has a discount on it.",
+      "zh": "好吧，所以它有折扣。"
+    },
+    {
+      "id": 74,
+      "start": 227.72,
+      "end": 228.93,
+      "en": "A discount for one thing.",
+      "zh": "一件事的折扣。"
+    },
+    {
+      "id": 75,
+      "start": 229.83,
+      "end": 234.71,
+      "en": "So maybe you buy some apples and you get 10% off one kind of apple.",
+      "zh": "所以也许你买了一些苹果，你可以获得 10% 的苹果折扣。"
+    },
+    {
+      "id": 76,
+      "start": 234.95,
+      "end": 236.01,
+      "en": "Very good, coupons.",
+      "zh": "非常好，优惠券。"
+    },
+    {
+      "id": 77,
+      "start": 237.03,
+      "end": 241.08,
+      "en": "Now he presented these coupons and she said they were expired.",
+      "zh": "现在他出示了这些优惠券，她说它们已经过期了。"
+    },
+    {
+      "id": 78,
+      "start": 241.48,
+      "end": 243.96,
+      "en": "The coupons expired yesterday.",
+      "zh": "优惠券昨天到期。"
+    },
+    {
+      "id": 79,
+      "start": 244.48,
+      "end": 245.08,
+      "en": "Expired.",
+      "zh": "过期。"
+    },
+    {
+      "id": 80,
+      "start": 245.42,
+      "end": 245.88,
+      "en": "To expire.",
+      "zh": "到期。"
+    },
+    {
+      "id": 81,
+      "start": 246.64,
+      "end": 248.1,
+      "en": "All right, so to expire.",
+      "zh": "好吧，所以到期。"
+    },
+    {
+      "id": 82,
+      "start": 248.6,
+      "end": 253.58,
+      "en": "That means to be older than the date when you can use them.",
+      "zh": "这意味着比您可以使用它们的日期要长。"
+    },
+    {
+      "id": 83,
+      "start": 254.04,
+      "end": 261.28,
+      "en": "Right, so why don't we listen to some other examples of how we can use expired so we can understand a little bit better.",
+      "zh": "对，那么我们为什么不听一些其他一些关于我们如何使用过期的例子，以便我们可以更好地理解一点。"
+    },
+    {
+      "id": 84,
+      "start": 262.76,
+      "end": 263.09,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 85,
+      "start": 265.28,
+      "end": 266.23,
+      "en": "I'm sorry, sir.",
+      "zh": "对不起，先生。"
+    },
+    {
+      "id": 86,
+      "start": 266.74,
+      "end": 268.85,
+      "en": "This credit card expired five years ago.",
+      "zh": "这张信用卡在五年前到期。"
+    },
+    {
+      "id": 87,
+      "start": 269.18,
+      "end": 270.05,
+      "en": "You can't use it anymore.",
+      "zh": "你不能再使用它了。"
+    },
+    {
+      "id": 88,
+      "start": 272.6,
+      "end": 275.36,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 89,
+      "start": 275.36,
+      "end": 278.14,
+      "en": "My driver's license expires in a month, so I have to get it renewed.",
+      "zh": "我的驾照在一个月内到期，所以我必须更新它。"
+    },
+    {
+      "id": 90,
+      "start": 281.24,
+      "end": 284.12,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 91,
+      "start": 284.12,
+      "end": 285.12,
+      "en": "Don't drink that.",
+      "zh": "不要喝那个。"
+    },
+    {
+      "id": 92,
+      "start": 285.12,
+      "end": 287.12,
+      "en": "The milk has expired.",
+      "zh": "牛奶已经过期了。"
+    },
+    {
+      "id": 93,
+      "start": 287.12,
+      "end": 295.28,
+      "en": "Okay, so we can see his coupons expired, so they were too old and he couldn't use them anymore.",
+      "zh": "好的，所以我们可以看到他的优惠券过期了，所以它们太老了，他不能再使用它们了。"
+    },
+    {
+      "id": 94,
+      "start": 295.28,
+      "end": 296.28,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 95,
+      "start": 296.28,
+      "end": 302.44,
+      "en": "And now, finally, she asked him if he wants to pay with his club card or cash.",
+      "zh": "现在，最后，她问他是想用他的俱乐部卡还是现金付款。"
+    },
+    {
+      "id": 96,
+      "start": 303.2,
+      "end": 304.26,
+      "en": "So club card.",
+      "zh": "所以俱乐部卡。"
+    },
+    {
+      "id": 97,
+      "start": 305.32,
+      "end": 305.66,
+      "en": "Club card.",
+      "zh": "俱乐部卡。"
+    },
+    {
+      "id": 98,
+      "start": 306.32,
+      "end": 306.88,
+      "en": "What's a club card?",
+      "zh": "什么是俱乐部卡？"
+    },
+    {
+      "id": 99,
+      "start": 307.48,
+      "end": 315.24,
+      "en": "So in some supermarkets, you can receive a special type of credit card that you can only use for grocery shopping.",
+      "zh": "所以在一些超市，您可以收到一种特殊类型的信用卡，您只能将其用于杂货店购物。"
+    },
+    {
+      "id": 100,
+      "start": 315.68,
+      "end": 316.4,
+      "en": "And only in that store.",
+      "zh": "只有在那家商店。"
+    },
+    {
+      "id": 101,
+      "start": 317.16,
+      "end": 318.16,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 102,
+      "start": 318.16,
+      "end": 319.32,
+      "en": "So that is a club card.",
+      "zh": "所以这是一张俱乐部卡。"
+    },
+    {
+      "id": 103,
+      "start": 319.56,
+      "end": 321.44,
+      "en": "All right, so a club card.",
+      "zh": "好吧，所以一张俱乐部卡。"
+    },
+    {
+      "id": 104,
+      "start": 321.44,
+      "end": 328.12,
+      "en": "Okay, so he's going to pay with a card, but he also asked for some cash back.",
+      "zh": "好吧，所以他打算用卡付款，但他也要求一些现金返还。"
+    },
+    {
+      "id": 105,
+      "start": 328.12,
+      "end": 329.12,
+      "en": "Cash back.",
+      "zh": "现金返还。"
+    },
+    {
+      "id": 106,
+      "start": 329.12,
+      "end": 330.64,
+      "en": "Could I get cash back?",
+      "zh": "我可以拿回现金吗？"
+    },
+    {
+      "id": 107,
+      "start": 330.64,
+      "end": 331.64,
+      "en": "Cash back.",
+      "zh": "现金返还。"
+    },
+    {
+      "id": 108,
+      "start": 331.64,
+      "end": 333.12,
+      "en": "Now, what's he talking about?",
+      "zh": "现在，他在说什么？"
+    },
+    {
+      "id": 109,
+      "start": 333.44,
+      "end": 334.22,
+      "en": "Can he get cash back?",
+      "zh": "他能拿回现金吗？"
+    },
+    {
+      "id": 110,
+      "start": 334.52,
+      "end": 335.28,
+      "en": "He's paying with a card.",
+      "zh": "他用卡付款。"
+    },
+    {
+      "id": 111,
+      "start": 335.5,
+      "end": 336.14,
+      "en": "What does he want to do?",
+      "zh": "他想做什么？"
+    },
+    {
+      "id": 112,
+      "start": 336.6,
+      "end": 341.32,
+      "en": "Well, what happens is sometimes, suppose your groceries cost $20.",
+      "zh": "好吧，有时会发生的事情是，假设您的杂货要花 20 美元。"
+    },
+    {
+      "id": 113,
+      "start": 342.6,
+      "end": 350.2,
+      "en": "So instead of charging $20 to your credit card or your club card, you say, okay, put $70.",
+      "zh": "因此，与其在信用卡或俱乐部卡上收取 20 美元，不如说，好吧，放 70 美元。"
+    },
+    {
+      "id": 114,
+      "start": 350.2,
+      "end": 352.98,
+      "en": "So then the cashier can give you $50 back.",
+      "zh": "那么收银员可以给你50美元的回报。"
+    },
+    {
+      "id": 115,
+      "start": 352.98,
+      "end": 354.3,
+      "en": "So you can have cash in your pocket.",
+      "zh": "所以你可以在你的口袋里有现金。"
+    },
+    {
+      "id": 116,
+      "start": 354.92,
+      "end": 358.27,
+      "en": "So instead of going to the ATM, you can get your money in one spot.",
+      "zh": "因此，您可以在一处获得您的钱，而不是去自动取款机。"
+    },
+    {
+      "id": 117,
+      "start": 358.72,
+      "end": 359.72,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 118,
+      "start": 359.72,
+      "end": 360.72,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 119,
+      "start": 360.72,
+      "end": 361.72,
+      "en": "So that's cash back.",
+      "zh": "所以这是现金返还。"
+    },
+    {
+      "id": 120,
+      "start": 361.72,
+      "end": 362.72,
+      "en": "Interesting.",
+      "zh": "有意思。"
+    },
+    {
+      "id": 121,
+      "start": 362.72,
+      "end": 373.76,
+      "en": "We're going to hear this one more time in the dialogue, but let's slow it down a little so we can understand better.",
+      "zh": "我们将在对话中再听到一次，但让我们放慢速度，以便我们更好地理解。"
+    },
+    {
+      "id": 122,
+      "start": 373.76,
+      "end": 374.49,
+      "en": "Excuse me, sir.",
+      "zh": "打扰一下，先生。"
+    },
+    {
+      "id": 123,
+      "start": 375.28,
+      "end": 380.43,
+      "en": "This is the express checkout lane for people that have 15 items or fewer.",
+      "zh": "这是 15 个或更少的人的快速结账通道。"
+    },
+    {
+      "id": 124,
+      "start": 381.8,
+      "end": 385.03,
+      "en": "It looks like you have more than 15 items there.",
+      "zh": "看起来你那里有超过 15 个项目。"
+    },
+    {
+      "id": 125,
+      "start": 385.88,
+      "end": 387.39,
+      "en": "Oh, come on.",
+      "zh": "哦，拜托。"
+    },
+    {
+      "id": 126,
+      "start": 388.2,
+      "end": 390.01,
+      "en": "I have 16 items.",
+      "zh": "我有十六件商品。"
+    },
+    {
+      "id": 127,
+      "start": 391.12,
+      "end": 394.04,
+      "en": "Get me some slack, will you?",
+      "zh": "给我一些松懈，好吗？"
+    },
+    {
+      "id": 128,
+      "start": 394.04,
+      "end": 395.04,
+      "en": "Fine.",
+      "zh": "好吧。"
+    },
+    {
+      "id": 129,
+      "start": 395.04,
+      "end": 398.93,
+      "en": "Please place your items on the belt and push your shopping cart through.",
+      "zh": "请把商品放到传送带上，再把购物车推过去。"
+    },
+    {
+      "id": 130,
+      "start": 399.8,
+      "end": 401.71,
+      "en": "Do you prefer paper or plastic?",
+      "zh": "你喜欢纸还是塑料？"
+    },
+    {
+      "id": 131,
+      "start": 402.68,
+      "end": 403.68,
+      "en": "Plastic.",
+      "zh": "塑料。"
+    },
+    {
+      "id": 132,
+      "start": 403.87,
+      "end": 405.91,
+      "en": "I also have a couple of coupons.",
+      "zh": "我还有几张优惠券。"
+    },
+    {
+      "id": 133,
+      "start": 407.17,
+      "end": 407.89,
+      "en": "No problem.",
+      "zh": "没问题。"
+    },
+    {
+      "id": 134,
+      "start": 408.47,
+      "end": 409.07,
+      "en": "I'll take those.",
+      "zh": "这些我要了。"
+    },
+    {
+      "id": 135,
+      "start": 410.27,
+      "end": 413.21,
+      "en": "Sir, these coupons expired yesterday.",
+      "zh": "先生，这些优惠券昨天到期了。"
+    },
+    {
+      "id": 136,
+      "start": 414.36,
+      "end": 415.04,
+      "en": "Darn.",
+      "zh": "该死。"
+    },
+    {
+      "id": 137,
+      "start": 415.8,
+      "end": 418.88,
+      "en": "Oh, well, I guess it's just not my day.",
+      "zh": "唉，看来我今天真不走运。"
+    },
+    {
+      "id": 138,
+      "start": 419.52,
+      "end": 420.28,
+      "en": "Thanks, anyway.",
+      "zh": "无论如何，谢谢。"
+    },
+    {
+      "id": 139,
+      "start": 421.18,
+      "end": 424.46,
+      "en": "Do you have a club card or will it be cash?",
+      "zh": "您有会员卡吗，还是付现金？"
+    },
+    {
+      "id": 140,
+      "start": 425.06,
+      "end": 426.84,
+      "en": "Yeah, I got a club card.",
+      "zh": "是的，我有一张俱乐部卡。"
+    },
+    {
+      "id": 141,
+      "start": 427.54,
+      "end": 428.04,
+      "en": "Here you go.",
+      "zh": "给你。"
+    },
+    {
+      "id": 142,
+      "start": 428.66,
+      "end": 430.72,
+      "en": "Will this be debit or credit?",
+      "zh": "这会是借记还是贷方？"
+    },
+    {
+      "id": 143,
+      "start": 431.4,
+      "end": 432.08,
+      "en": "Debit, please.",
+      "zh": "请给我借记。"
+    },
+    {
+      "id": 144,
+      "start": 432.84,
+      "end": 434.7,
+      "en": "Also, can I get cash back?",
+      "zh": "还有，我可以拿回现金吗？"
+    },
+    {
+      "id": 145,
+      "start": 435.52,
+      "end": 437.0,
+      "en": "$50 would be great.",
+      "zh": "给我五十美元就好。"
+    },
+    {
+      "id": 146,
+      "start": 437.72,
+      "end": 438.62,
+      "en": "Yeah, sure.",
+      "zh": "好啊，当然。"
+    },
+    {
+      "id": 147,
+      "start": 439.64,
+      "end": 443.2,
+      "en": "Your total is $78.33.",
+      "zh": "总共是 78.33 美元。"
+    },
+    {
+      "id": 148,
+      "start": 443.2,
+      "end": 444.56,
+      "en": "Here is your receipt.",
+      "zh": "这是你的收据。"
+    },
+    {
+      "id": 149,
+      "start": 444.56,
+      "end": 445.06,
+      "en": "Have a nice day.",
+      "zh": "祝你今天愉快。"
+    },
+    {
+      "id": 150,
+      "start": 445.74,
+      "end": 446.18,
+      "en": "Thank you.",
+      "zh": "谢谢。"
+    },
+    {
+      "id": 151,
+      "start": 449.96,
+      "end": 450.96,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 152,
+      "start": 450.96,
+      "end": 456.98,
+      "en": "So now that we've listened to the dialogue for the second time, it's time for us to take a look at some phrases in Fluency Builder.",
+      "zh": "所以现在我们已经第二次听了对话，是时候让我们看看 Fluency Builder 中的一些短语了。"
+    },
+    {
+      "id": 153,
+      "start": 458.88,
+      "end": 459.15,
+      "en": "Fluency Builder.",
+      "zh": "流利表达。"
+    },
+    {
+      "id": 154,
+      "start": 459.88,
+      "end": 462.46,
+      "en": "Okay, we have three phrases for you now.",
+      "zh": "好的，我们现在为您准备了三个短语。"
+    },
+    {
+      "id": 155,
+      "start": 463.12,
+      "end": 466.48,
+      "en": "Well, the guy was not having a very good day, was he?",
+      "zh": "好吧，这家伙的日子不是很好，是吗？"
+    },
+    {
+      "id": 156,
+      "start": 466.74,
+      "end": 472.28,
+      "en": "So he couldn't go in the express checkout lane and he says, cut me some slack.",
+      "zh": "所以他不能进入 Express Checkout 车道，他说，让我放松一下。"
+    },
+    {
+      "id": 157,
+      "start": 473.36,
+      "end": 474.18,
+      "en": "Cut me some slack.",
+      "zh": "放我一马吧。"
+    },
+    {
+      "id": 158,
+      "start": 474.64,
+      "end": 476.54,
+      "en": "To cut someone some slack.",
+      "zh": "让某人松懈。"
+    },
+    {
+      "id": 159,
+      "start": 476.88,
+      "end": 477.88,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 160,
+      "start": 477.88,
+      "end": 480.32,
+      "en": "Now, this is an interesting and very informal phrase.",
+      "zh": "现在，这是一个有趣且非常非正式的短语。"
+    },
+    {
+      "id": 161,
+      "start": 480.64,
+      "end": 484.72,
+      "en": "So before we explain it, why don't we listen to a couple of other examples?",
+      "zh": "所以在我们解释之前，我们为什么不听一些其他的例子呢？"
+    },
+    {
+      "id": 162,
+      "start": 486.88,
+      "end": 487.12,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 163,
+      "start": 489.68,
+      "end": 490.22,
+      "en": "Cut me some slack.",
+      "zh": "放我一马吧。"
+    },
+    {
+      "id": 164,
+      "start": 490.7,
+      "end": 491.9,
+      "en": "I'm only two minutes late.",
+      "zh": "我只迟到了两分钟。"
+    },
+    {
+      "id": 165,
+      "start": 494.44,
+      "end": 497.04,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 166,
+      "start": 497.04,
+      "end": 500.48,
+      "en": "My wife just had a baby and I'm so tired.",
+      "zh": "我的妻子刚生了一个孩子，我很累。"
+    },
+    {
+      "id": 167,
+      "start": 500.48,
+      "end": 501.1,
+      "en": "Cut me some slack.",
+      "zh": "放我一马吧。"
+    },
+    {
+      "id": 168,
+      "start": 501.74,
+      "end": 503.02,
+      "en": "I'll send you the report tomorrow.",
+      "zh": "明天我会把报告寄给你。"
+    },
+    {
+      "id": 169,
+      "start": 505.72,
+      "end": 508.76,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 170,
+      "start": 508.76,
+      "end": 510.68,
+      "en": "Emily had a really bad week.",
+      "zh": "艾米丽度过了非常糟糕的一周。"
+    },
+    {
+      "id": 171,
+      "start": 510.68,
+      "end": 512.1,
+      "en": "I think you should cut her some slack.",
+      "zh": "我想你应该让她放松一下。"
+    },
+    {
+      "id": 172,
+      "start": 515.21,
+      "end": 520.83,
+      "en": "Okay, I think I can understand it means relax the rules a little bit.",
+      "zh": "好吧，我想我能理解这意味着稍微放松一下规则。"
+    },
+    {
+      "id": 173,
+      "start": 521.03,
+      "end": 521.43,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 174,
+      "start": 521.45,
+      "end": 523.25,
+      "en": "So don't be so strict on me.",
+      "zh": "所以不要对我那么严格。"
+    },
+    {
+      "id": 175,
+      "start": 523.41,
+      "end": 524.35,
+      "en": "Yeah, don't be so hard.",
+      "zh": "是的，不要那么难。"
+    },
+    {
+      "id": 176,
+      "start": 524.87,
+      "end": 529.63,
+      "en": "Now, I know this phrase actually comes from mountain climbing.",
+      "zh": "现在，我知道这句话实际上来自登山。"
+    },
+    {
+      "id": 177,
+      "start": 530.05,
+      "end": 531.37,
+      "en": "Oh, because of the rope.",
+      "zh": "哦，因为绳子。"
+    },
+    {
+      "id": 178,
+      "start": 531.68,
+      "end": 532.68,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 179,
+      "start": 532.68,
+      "end": 536.41,
+      "en": "So it's just, it's like saying the slack is loose rope.",
+      "zh": "所以这就像说松弛是松散的绳子一样。"
+    },
+    {
+      "id": 180,
+      "start": 537.2,
+      "end": 539.33,
+      "en": "So he's just saying, give me a little bit more freedom.",
+      "zh": "所以他只是说，给我更多的自由。"
+    },
+    {
+      "id": 181,
+      "start": 539.76,
+      "end": 540.29,
+      "en": "Give me more freedom.",
+      "zh": "给我更多的自由。"
+    },
+    {
+      "id": 182,
+      "start": 540.76,
+      "end": 541.76,
+      "en": "Oh, interesting.",
+      "zh": "哦，有趣。"
+    },
+    {
+      "id": 183,
+      "start": 541.76,
+      "end": 542.76,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 184,
+      "start": 542.76,
+      "end": 543.25,
+      "en": "To cut somebody some slack.",
+      "zh": "让某人松懈。"
+    },
+    {
+      "id": 185,
+      "start": 543.81,
+      "end": 545.73,
+      "en": "Well, now the cashier asked him a question.",
+      "zh": "好吧，现在收银员问了他一个问题。"
+    },
+    {
+      "id": 186,
+      "start": 546.03,
+      "end": 548.55,
+      "en": "She says, do you prefer paper or plastic?",
+      "zh": "她说，你喜欢纸还是塑料？"
+    },
+    {
+      "id": 187,
+      "start": 549.48,
+      "end": 551.59,
+      "en": "Do you prefer paper or plastic?",
+      "zh": "你喜欢纸还是塑料？"
+    },
+    {
+      "id": 188,
+      "start": 552.44,
+      "end": 552.93,
+      "en": "Paper or plastic.",
+      "zh": "纸或塑料。"
+    },
+    {
+      "id": 189,
+      "start": 553.44,
+      "end": 559.73,
+      "en": "Now, this is the common cliche phrase that any grocery store cashier will use, right?",
+      "zh": "现在，这是任何杂货店收银员都会使用的常见陈词滥调，对吧？"
+    },
+    {
+      "id": 190,
+      "start": 559.95,
+      "end": 560.07,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 191,
+      "start": 561.08,
+      "end": 561.63,
+      "en": "Paper or plastic what?",
+      "zh": "纸还是塑料什么？"
+    },
+    {
+      "id": 192,
+      "start": 562.11,
+      "end": 562.33,
+      "en": "Bags.",
+      "zh": "袋子。"
+    },
+    {
+      "id": 193,
+      "start": 562.61,
+      "end": 563.57,
+      "en": "Paper or plastic bags.",
+      "zh": "纸或塑料袋。"
+    },
+    {
+      "id": 194,
+      "start": 564.08,
+      "end": 565.08,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 195,
+      "start": 565.08,
+      "end": 566.56,
+      "en": "So you'll hear this all the time in every grocery store.",
+      "zh": "所以你会一直在每个杂货店听到这个。"
+    },
+    {
+      "id": 196,
+      "start": 566.56,
+      "end": 567.55,
+      "en": "Do you want paper or plastic?",
+      "zh": "你想要纸还是塑料？"
+    },
+    {
+      "id": 197,
+      "start": 567.91,
+      "end": 568.03,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 198,
+      "start": 568.09,
+      "end": 571.45,
+      "en": "So you can choose plastic bags or paper bags.",
+      "zh": "所以你可以选择塑料袋或纸袋。"
+    },
+    {
+      "id": 199,
+      "start": 571.79,
+      "end": 572.03,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 200,
+      "start": 572.84,
+      "end": 577.44,
+      "en": "Remember this one because when you get it right, you'll sound really native-like.",
+      "zh": "记住这一点，因为当你做对了，你会听起来很像本地人。"
+    },
+    {
+      "id": 201,
+      "start": 577.44,
+      "end": 577.65,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 202,
+      "start": 578.56,
+      "end": 584.93,
+      "en": "And our last phrase, since he wasn't really having a good day, he said, it's just not my day.",
+      "zh": "而我们的最后一句话，因为他的日子并不好，他说，这不是我的一天。"
+    },
+    {
+      "id": 203,
+      "start": 585.48,
+      "end": 586.89,
+      "en": "It's just not my day.",
+      "zh": "这不是我的一天。"
+    },
+    {
+      "id": 204,
+      "start": 587.42,
+      "end": 588.29,
+      "en": "It's not my day.",
+      "zh": "这不是我的一天。"
+    },
+    {
+      "id": 205,
+      "start": 588.55,
+      "end": 593.03,
+      "en": "Okay, so when it's not your day, it means the day has been hard.",
+      "zh": "好吧，当这不是你的一天时，这意味着这一天一直很艰难。"
+    },
+    {
+      "id": 206,
+      "start": 593.27,
+      "end": 594.25,
+      "en": "You've not really lucky.",
+      "zh": "你真的不是很幸运。"
+    },
+    {
+      "id": 207,
+      "start": 594.67,
+      "end": 594.83,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 208,
+      "start": 594.91,
+      "end": 596.69,
+      "en": "It's not a good day for you.",
+      "zh": "这对你来说不是好日子。"
+    },
+    {
+      "id": 209,
+      "start": 596.83,
+      "end": 597.55,
+      "en": "Not a good day.",
+      "zh": "不是一个好日子。"
+    },
+    {
+      "id": 210,
+      "start": 598.08,
+      "end": 599.08,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 211,
+      "start": 599.08,
+      "end": 604.78,
+      "en": "So let's listen to the dialogue for the last time and then we'll come back and talk a little bit about grocery stores in America.",
+      "zh": "所以让我们最后一次听对话，然后我们会回来谈谈美国的杂货店。"
+    },
+    {
+      "id": 212,
+      "start": 614.12,
+      "end": 614.75,
+      "en": "Excuse me, sir.",
+      "zh": "打扰一下，先生。"
+    },
+    {
+      "id": 213,
+      "start": 615.76,
+      "end": 619.23,
+      "en": "This is the express checkout lane for people that have 15 items or fewer.",
+      "zh": "这是 15 个或更少的人的快速结账通道。"
+    },
+    {
+      "id": 214,
+      "start": 620.52,
+      "end": 622.51,
+      "en": "It looks like you have more than 15 items there.",
+      "zh": "看起来你那里有超过 15 个项目。"
+    },
+    {
+      "id": 215,
+      "start": 622.84,
+      "end": 623.49,
+      "en": "Oh, come on.",
+      "zh": "哦，拜托。"
+    },
+    {
+      "id": 216,
+      "start": 623.83,
+      "end": 624.95,
+      "en": "I have 16 items.",
+      "zh": "我有十六件商品。"
+    },
+    {
+      "id": 217,
+      "start": 625.4,
+      "end": 627.44,
+      "en": "Cut me some slack, will you?",
+      "zh": "让我放松一下，好吗？"
+    },
+    {
+      "id": 218,
+      "start": 627.44,
+      "end": 628.44,
+      "en": "Fine.",
+      "zh": "好吧。"
+    },
+    {
+      "id": 219,
+      "start": 628.44,
+      "end": 639.8,
+      "en": "Please place your items on the belt and push your shopping cart through.",
+      "zh": "请把商品放到传送带上，再把购物车推过去。"
+    },
+    {
+      "id": 220,
+      "start": 639.8,
+      "end": 641.38,
+      "en": "Do you prefer paper or plastic?",
+      "zh": "你喜欢纸还是塑料？"
+    },
+    {
+      "id": 221,
+      "start": 642.0,
+      "end": 642.32,
+      "en": "Plastic.",
+      "zh": "塑料。"
+    },
+    {
+      "id": 222,
+      "start": 642.96,
+      "end": 644.06,
+      "en": "I also have a couple of coupons.",
+      "zh": "我还有几张优惠券。"
+    },
+    {
+      "id": 223,
+      "start": 644.94,
+      "end": 645.68,
+      "en": "No problem.",
+      "zh": "没问题。"
+    },
+    {
+      "id": 224,
+      "start": 645.68,
+      "end": 646.38,
+      "en": "I'll take those.",
+      "zh": "这些我要了。"
+    },
+    {
+      "id": 225,
+      "start": 652.14,
+      "end": 654.66,
+      "en": "Sir, these coupons expired yesterday.",
+      "zh": "先生，这些优惠券昨天到期了。"
+    },
+    {
+      "id": 226,
+      "start": 655.06,
+      "end": 655.44,
+      "en": "Darn.",
+      "zh": "该死。"
+    },
+    {
+      "id": 227,
+      "start": 656.06,
+      "end": 658.22,
+      "en": "Oh, well, I guess it's just not my day.",
+      "zh": "唉，看来我今天真不走运。"
+    },
+    {
+      "id": 228,
+      "start": 658.48,
+      "end": 659.48,
+      "en": "Thanks anyway.",
+      "zh": "还是谢谢你。"
+    },
+    {
+      "id": 229,
+      "start": 659.54,
+      "end": 661.76,
+      "en": "Do you have a club card or will it be cash?",
+      "zh": "您有会员卡吗，还是付现金？"
+    },
+    {
+      "id": 230,
+      "start": 662.34,
+      "end": 663.34,
+      "en": "Yeah, I got a club card.",
+      "zh": "是的，我有一张俱乐部卡。"
+    },
+    {
+      "id": 231,
+      "start": 663.8,
+      "end": 664.12,
+      "en": "Here you go.",
+      "zh": "给你。"
+    },
+    {
+      "id": 232,
+      "start": 664.7,
+      "end": 666.12,
+      "en": "Will this be debit or credit?",
+      "zh": "这会是借记还是贷方？"
+    },
+    {
+      "id": 233,
+      "start": 666.54,
+      "end": 667.24,
+      "en": "Debit please.",
+      "zh": "请借记。"
+    },
+    {
+      "id": 234,
+      "start": 667.96,
+      "end": 669.42,
+      "en": "Also, can I get cash back?",
+      "zh": "还有，我可以拿回现金吗？"
+    },
+    {
+      "id": 235,
+      "start": 669.96,
+      "end": 671.96,
+      "en": "$50 would be great.",
+      "zh": "给我五十美元就好。"
+    },
+    {
+      "id": 236,
+      "start": 671.96,
+      "end": 673.76,
+      "en": "Yeah, sure.",
+      "zh": "好啊，当然。"
+    },
+    {
+      "id": 237,
+      "start": 673.76,
+      "end": 677.64,
+      "en": "Your total is $78.33.",
+      "zh": "总共是 78.33 美元。"
+    },
+    {
+      "id": 238,
+      "start": 677.64,
+      "end": 678.64,
+      "en": "Here's your receipt.",
+      "zh": "这是你的收据。"
+    },
+    {
+      "id": 239,
+      "start": 678.64,
+      "end": 678.87,
+      "en": "Have a nice day.",
+      "zh": "祝你今天愉快。"
+    },
+    {
+      "id": 240,
+      "start": 687.52,
+      "end": 694.39,
+      "en": "One interesting thing I know about grocery stores in America is that the people who are the cashiers are very often students.",
+      "zh": "关于美国的杂货店，我知道的一件有趣的事情是，收银员通常是学生。"
+    },
+    {
+      "id": 241,
+      "start": 694.89,
+      "end": 695.21,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 242,
+      "start": 695.72,
+      "end": 699.93,
+      "en": "It's a very popular summer job or part-time job of college students.",
+      "zh": "这是一个非常受欢迎的暑期工作或大学生的兼职工作。"
+    },
+    {
+      "id": 243,
+      "start": 700.61,
+      "end": 705.55,
+      "en": "Or even in my hometown, it was the most common job for high school students.",
+      "zh": "甚至在我的家乡，这是高中生最常见的工作。"
+    },
+    {
+      "id": 244,
+      "start": 706.04,
+      "end": 713.37,
+      "en": "After school, if you went to the grocery store between 4 o'clock and 9 o'clock at night, every single cashier would be a high school student.",
+      "zh": "放学后，如果你在 4 点到晚上 9 点之间去杂货店，每个收银员都会是一名高中生。"
+    },
+    {
+      "id": 245,
+      "start": 714.04,
+      "end": 717.37,
+      "en": "And the interesting thing is that the cashiers are usually women, right?",
+      "zh": "有趣的是，收银员通常是女性，对吧？"
+    },
+    {
+      "id": 246,
+      "start": 717.76,
+      "end": 720.19,
+      "en": "Yeah, always the high school girls who are the cashiers.",
+      "zh": "是的，总是那些收银员的高中女生。"
+    },
+    {
+      "id": 247,
+      "start": 720.58,
+      "end": 727.93,
+      "en": "And so the high school boys would be working in the back, maybe in the warehouse carrying boxes or stocking the shelves.",
+      "zh": "所以高中男生会在后面工作，可能在仓库里拿着盒子或放货架子。"
+    },
+    {
+      "id": 248,
+      "start": 728.22,
+      "end": 730.03,
+      "en": "So putting the cans on the shelves, right?",
+      "zh": "所以把罐头放在架子上，对吧？"
+    },
+    {
+      "id": 249,
+      "start": 730.48,
+      "end": 731.48,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 250,
+      "start": 731.48,
+      "end": 738.57,
+      "en": "It's a very popular part-time job for students in the United States, but also coupons are very popular in America.",
+      "zh": "对于美国的学生来说，这是一份非常受欢迎的兼职工作，但优惠券在美国也很受欢迎。"
+    },
+    {
+      "id": 251,
+      "start": 739.28,
+      "end": 740.28,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 252,
+      "start": 740.28,
+      "end": 742.08,
+      "en": "What is it about coupons?",
+      "zh": "优惠券是什么？"
+    },
+    {
+      "id": 253,
+      "start": 742.08,
+      "end": 746.99,
+      "en": "Well, usually, for example, in the Sunday newspaper, you will receive a lot of coupons.",
+      "zh": "好吧，通常，例如，在周日报纸上，您会收到很多优惠券。"
+    },
+    {
+      "id": 254,
+      "start": 748.72,
+      "end": 756.32,
+      "en": "You go to the grocery store and you have all these coupons for like cookies or a promotion on some type of soda or drink.",
+      "zh": "你去杂货店，你有所有这些优惠券，比如饼干或某种类型的苏打水或饮料的促销活动。"
+    },
+    {
+      "id": 255,
+      "start": 756.32,
+      "end": 758.04,
+      "en": "So it's very popular.",
+      "zh": "所以很受欢迎。"
+    },
+    {
+      "id": 256,
+      "start": 758.04,
+      "end": 760.47,
+      "en": "People go grocery shopping and then present all these coupons.",
+      "zh": "人们去杂货店购物，然后出示所有这些优惠券。"
+    },
+    {
+      "id": 257,
+      "start": 760.88,
+      "end": 764.4,
+      "en": "And actually, you can end up saving a good amount of money.",
+      "zh": "实际上，您最终可以节省大量资金。"
+    },
+    {
+      "id": 258,
+      "start": 764.61,
+      "end": 769.09,
+      "en": "I know the coupons are usually like, save two cents or save 25 cents.",
+      "zh": "我知道优惠券通常是这样的，节省 2 美分或节省 25 美分。"
+    },
+    {
+      "id": 259,
+      "start": 769.27,
+      "end": 772.57,
+      "en": "But I guess if you put all of those together, you can save money.",
+      "zh": "但我想如果你把所有这些放在一起，你可以省钱。"
+    },
+    {
+      "id": 260,
+      "start": 772.73,
+      "end": 777.15,
+      "en": "It's interesting because people actually will buy that product just because they have a coupon for it.",
+      "zh": "这很有趣，因为人们实际上会因为他们有优惠券而购买该产品。"
+    },
+    {
+      "id": 261,
+      "start": 777.63,
+      "end": 780.61,
+      "en": "Coupons and high school checkout girls.",
+      "zh": "优惠券和高中结账女孩。"
+    },
+    {
+      "id": 262,
+      "start": 781.55,
+      "end": 784.81,
+      "en": "Well, guys, thanks for listening to this show.",
+      "zh": "好吧，伙计们，感谢收听这个节目。"
+    },
+    {
+      "id": 263,
+      "start": 785.04,
+      "end": 792.84,
+      "en": "Now, remember, if you have any questions about the language we were talking about in this show, please visit our website at EnglishPod.com.",
+      "zh": "现在，请记住，如果您对我们在此节目中谈论的语言有任何疑问，请访问我们的网站 englishpod.com。"
+    },
+    {
+      "id": 264,
+      "start": 793.43,
+      "end": 793.71,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 265,
+      "start": 793.99,
+      "end": 795.55,
+      "en": "Leave all your questions and comments there.",
+      "zh": "把你所有的问题和评论留在那里。"
+    },
+    {
+      "id": 266,
+      "start": 795.79,
+      "end": 802.03,
+      "en": "And also, if you have any other suggestions or any doubts, please let us know and we'll see you guys there.",
+      "zh": "另外，如果您有任何其他建议或任何疑问，请告诉我们，我们将在那里见到你们。"
+    },
+    {
+      "id": 267,
+      "start": 802.55,
+      "end": 804.53,
+      "en": "So thanks for listening and until next time.",
+      "zh": "所以感谢您的收听，直到下一次。"
+    },
+    {
+      "id": 268,
+      "start": 804.72,
+      "end": 814.446,
+      "en": "Goodbye.",
+      "zh": "再见。"
+    }
+  ],
+  "dialog": {
+    "start": 52.64,
+    "end": 117.36,
+    "segmentIds": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40
+    ]
+  }
+}

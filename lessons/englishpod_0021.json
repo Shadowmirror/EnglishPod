@@ -1,0 +1,1834 @@
+{
+  "version": 1,
+  "id": 21,
+  "number": "0021",
+  "title": "The Office - What Do You Do",
+  "audio": "mp3/21. The Office - What Do You Do.mp3",
+  "duration": 768.6530625,
+  "segments": [
+    {
+      "id": 1,
+      "start": 2.96,
+      "end": 6.38,
+      "en": "Hello, English learners and welcome back to another great lesson with EnglishPod.",
+      "zh": "您好，英语学习者，欢迎回到 EnglishPod 的另一个精彩课程。"
+    },
+    {
+      "id": 2,
+      "start": 6.6,
+      "end": 7.18,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 7.44,
+      "end": 7.98,
+      "en": "And I'm Erica.",
+      "zh": "我叫 Erica。"
+    },
+    {
+      "id": 4,
+      "start": 8.56,
+      "end": 12.94,
+      "en": "And today we're bringing you a great intermediate lesson with some really useful vocabulary.",
+      "zh": "今天我们为您带来一个很棒的中级课程，其中包含一些非常有用的词汇。"
+    },
+    {
+      "id": 5,
+      "start": 13.44,
+      "end": 16.36,
+      "en": "Some vocabulary you can use to describe your job.",
+      "zh": "您可以使用一些词汇来描述您的工作。"
+    },
+    {
+      "id": 6,
+      "start": 16.68,
+      "end": 16.94,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 7,
+      "start": 17.36,
+      "end": 23.06,
+      "en": "This is a really common situation when someone asks you what you do and you have to tell them.",
+      "zh": "当有人问你做什么并且你必须告诉他们时，这是一个非常常见的情况。"
+    },
+    {
+      "id": 8,
+      "start": 23.92,
+      "end": 24.92,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 9,
+      "start": 24.92,
+      "end": 26.46,
+      "en": "So today's lesson is all about that.",
+      "zh": "所以今天的课程就是关于这一点的。"
+    },
+    {
+      "id": 10,
+      "start": 26.48,
+      "end": 30.54,
+      "en": "So before we jump into our dialogue, let's start with our vocabulary preview.",
+      "zh": "因此，在我们开始对话之前，让我们先从我们的词汇预览开始。"
+    },
+    {
+      "id": 11,
+      "start": 32.32,
+      "end": 32.67,
+      "en": "Vocabulary preview.",
+      "zh": "词汇预习。"
+    },
+    {
+      "id": 12,
+      "start": 33.62,
+      "end": 38.15,
+      "en": "We have two simple phrases today that you'll hear in our dialogue for our vocabulary preview.",
+      "zh": "我们今天有两个简单的短语，您将在我们的对话中听到我们的词汇预览。"
+    },
+    {
+      "id": 13,
+      "start": 39.02,
+      "end": 40.87,
+      "en": "The first one is VP.",
+      "zh": "第一个是副总裁。"
+    },
+    {
+      "id": 14,
+      "start": 41.02,
+      "end": 42.02,
+      "en": "VP.",
+      "zh": "副总裁。"
+    },
+    {
+      "id": 15,
+      "start": 42.02,
+      "end": 43.02,
+      "en": "VP.",
+      "zh": "副总裁。"
+    },
+    {
+      "id": 16,
+      "start": 43.02,
+      "end": 46.42,
+      "en": "So the VP of a company is?",
+      "zh": "那么公司的副总裁是？"
+    },
+    {
+      "id": 17,
+      "start": 46.42,
+      "end": 47.01,
+      "en": "The vice president.",
+      "zh": "副总裁。"
+    },
+    {
+      "id": 18,
+      "start": 47.42,
+      "end": 48.37,
+      "en": "The vice president.",
+      "zh": "副总裁。"
+    },
+    {
+      "id": 19,
+      "start": 48.74,
+      "end": 49.74,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 20,
+      "start": 49.74,
+      "end": 50.74,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 21,
+      "start": 50.74,
+      "end": 51.74,
+      "en": "Simple little acronym.",
+      "zh": "简单的小缩写。"
+    },
+    {
+      "id": 22,
+      "start": 51.74,
+      "end": 55.58,
+      "en": "And the next word is Fortune 500 company.",
+      "zh": "下一个词是财富 500 强公司。"
+    },
+    {
+      "id": 23,
+      "start": 55.58,
+      "end": 57.11,
+      "en": "Fortune 500 company.",
+      "zh": "《财富》500强公司。"
+    },
+    {
+      "id": 24,
+      "start": 57.54,
+      "end": 58.91,
+      "en": "Fortune 500 company.",
+      "zh": "《财富》500强公司。"
+    },
+    {
+      "id": 25,
+      "start": 59.82,
+      "end": 62.39,
+      "en": "So a Fortune 500 company is?",
+      "zh": "那么财富500强公司是什么？"
+    },
+    {
+      "id": 26,
+      "start": 63.02,
+      "end": 63.65,
+      "en": "I'll let you explain.",
+      "zh": "我会让你解释的。"
+    },
+    {
+      "id": 27,
+      "start": 64.58,
+      "end": 70.23,
+      "en": "Well, Fortune magazine ranks the 500 biggest companies in the US.",
+      "zh": "好吧，《财富》杂志对美国最大的 500 家公司进行了排名。"
+    },
+    {
+      "id": 28,
+      "start": 70.98,
+      "end": 73.57,
+      "en": "So a Fortune 500 company basically is?",
+      "zh": "那么财富500强公司基本上是？"
+    },
+    {
+      "id": 29,
+      "start": 73.84,
+      "end": 75.67,
+      "en": "One of the 500 biggest companies in the US.",
+      "zh": "美国500家最大的公司之一。"
+    },
+    {
+      "id": 30,
+      "start": 76.06,
+      "end": 76.29,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 31,
+      "start": 76.45,
+      "end": 76.75,
+      "en": "That's simple.",
+      "zh": "那很简单。"
+    },
+    {
+      "id": 32,
+      "start": 78.06,
+      "end": 79.06,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 33,
+      "start": 79.06,
+      "end": 80.06,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 34,
+      "start": 80.06,
+      "end": 83.66,
+      "en": "Well, with those words, it sounds like we're going to be talking to some important people today.",
+      "zh": "好吧，有了这些话，听起来我们今天要和一些重要的人交谈。"
+    },
+    {
+      "id": 35,
+      "start": 83.66,
+      "end": 85.41,
+      "en": "We are going to be talking to some important people.",
+      "zh": "我们将与一些重要的人交谈。"
+    },
+    {
+      "id": 36,
+      "start": 86.1,
+      "end": 88.99,
+      "en": "So let's listen to our dialogue for the first time.",
+      "zh": "所以让我们第一次听我们的对话。"
+    },
+    {
+      "id": 37,
+      "start": 89.27,
+      "end": 92.29,
+      "en": "Now it's going to be a little bit fast, but you don't have to worry about it.",
+      "zh": "现在它会有点快，但你不必担心它。"
+    },
+    {
+      "id": 38,
+      "start": 92.58,
+      "end": 95.55,
+      "en": "Because we'll come back and explain all of the important vocabulary.",
+      "zh": "因为我们会回来解释所有重要的词汇。"
+    },
+    {
+      "id": 39,
+      "start": 104.44,
+      "end": 105.34,
+      "en": "Oh, look.",
+      "zh": "哦，快看。"
+    },
+    {
+      "id": 40,
+      "start": 106.18,
+      "end": 107.32,
+      "en": "There's Caroline and her boyfriend.",
+      "zh": "有卡罗琳和她的男朋友。"
+    },
+    {
+      "id": 41,
+      "start": 108.16,
+      "end": 110.36,
+      "en": "She's always going on about him at the office.",
+      "zh": "她在办公室里总提起他。"
+    },
+    {
+      "id": 42,
+      "start": 112.63,
+      "end": 113.07,
+      "en": "Great.",
+      "zh": "太好了。"
+    },
+    {
+      "id": 43,
+      "start": 113.07,
+      "end": 114.39,
+      "en": "They saw us.",
+      "zh": "他们看到我们了。"
+    },
+    {
+      "id": 44,
+      "start": 115.21,
+      "end": 115.91,
+      "en": "They're coming this way.",
+      "zh": "他们正往这边来。"
+    },
+    {
+      "id": 45,
+      "start": 116.63,
+      "end": 117.53,
+      "en": "Oh, man.",
+      "zh": "哎呀。"
+    },
+    {
+      "id": 46,
+      "start": 118.17,
+      "end": 120.31,
+      "en": "Jessica, Arthur. Hi.",
+      "zh": "杰西卡，亚瑟。 你好。"
+    },
+    {
+      "id": 47,
+      "start": 121.28,
+      "end": 123.32,
+      "en": "I'd like you to meet my boyfriend, Greg.",
+      "zh": "给你们介绍一下我的男朋友格雷格。"
+    },
+    {
+      "id": 48,
+      "start": 124.22,
+      "end": 129.58,
+      "en": "He's the VP of quality and safety for a top Fortune 500 food company.",
+      "zh": "他是《财富》500强一家食品企业负责质量与安全的副总裁。"
+    },
+    {
+      "id": 49,
+      "start": 130.36,
+      "end": 131.28,
+      "en": "Nice to meet you.",
+      "zh": "很高兴认识你。"
+    },
+    {
+      "id": 50,
+      "start": 132.0,
+      "end": 133.62,
+      "en": "This is my husband, Arthur.",
+      "zh": "这是我的丈夫亚瑟。"
+    },
+    {
+      "id": 51,
+      "start": 134.18,
+      "end": 135.46,
+      "en": "Hey, how's it going?",
+      "zh": "嘿，最近怎么样？"
+    },
+    {
+      "id": 52,
+      "start": 135.64,
+      "end": 135.78,
+      "en": "Hello.",
+      "zh": "你好。"
+    },
+    {
+      "id": 53,
+      "start": 136.61,
+      "end": 138.83,
+      "en": "Caroline talks about you all the time.",
+      "zh": "卡罗琳总提起你。"
+    },
+    {
+      "id": 54,
+      "start": 139.65,
+      "end": 140.91,
+      "en": "I guess he must be pretty busy at work.",
+      "zh": "我猜他一定是工作很忙。"
+    },
+    {
+      "id": 55,
+      "start": 141.21,
+      "end": 142.29,
+      "en": "Well, yeah.",
+      "zh": "嗯，是的。"
+    },
+    {
+      "id": 56,
+      "start": 142.55,
+      "end": 144.47,
+      "en": "VP position is not easy, you know.",
+      "zh": "副总裁可不好当，你知道的。"
+    },
+    {
+      "id": 57,
+      "start": 146.1,
+      "end": 153.7,
+      "en": "I implement policies and procedures nationwide in various departments, as well as trained junior managers in FDA and EPA regulations.",
+      "zh": "我负责在全国各部门推行规章制度，还要培训基层经理，确保他们熟悉美国食品药品管理局和环保署的规定。"
+    },
+    {
+      "id": 58,
+      "start": 153.83,
+      "end": 158.23,
+      "en": "I also have to oversee daily operations of our quality control for the entire East Coast.",
+      "zh": "我还得监督整个东海岸地区的日常质量控制工作。"
+    },
+    {
+      "id": 59,
+      "start": 159.22,
+      "end": 161.85,
+      "en": "That alone means I have 1,500 employees under me.",
+      "zh": "仅此一项就意味着我有 1,500 名员工。"
+    },
+    {
+      "id": 60,
+      "start": 162.7,
+      "end": 163.7,
+      "en": "Wow.",
+      "zh": "哇。"
+    },
+    {
+      "id": 61,
+      "start": 163.96,
+      "end": 165.92,
+      "en": "Yeah, that sounds exciting.",
+      "zh": "听起来真厉害。"
+    },
+    {
+      "id": 62,
+      "start": 166.18,
+      "end": 167.42,
+      "en": "And what about you, Arthur?",
+      "zh": "你呢，亚瑟？"
+    },
+    {
+      "id": 63,
+      "start": 167.78,
+      "end": 168.54,
+      "en": "What do you do for a living?",
+      "zh": "你是做什么工作的？"
+    },
+    {
+      "id": 64,
+      "start": 170.08,
+      "end": 172.32,
+      "en": "I'm a top gun pilot.",
+      "zh": "我是王牌战斗机飞行员。"
+    },
+    {
+      "id": 65,
+      "start": 177.58,
+      "end": 188.18,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 66,
+      "start": 188.18,
+      "end": 190.01,
+      "en": "Great music for our dialogue again, huh?",
+      "zh": "我们再次对话的好音乐，嗯？"
+    },
+    {
+      "id": 67,
+      "start": 190.38,
+      "end": 190.95,
+      "en": "Chosen by?",
+      "zh": "由？"
+    },
+    {
+      "id": 68,
+      "start": 191.47,
+      "end": 192.11,
+      "en": "By moi.",
+      "zh": "由莫伊。"
+    },
+    {
+      "id": 69,
+      "start": 192.33,
+      "end": 192.71,
+      "en": "Of course.",
+      "zh": "当然。"
+    },
+    {
+      "id": 70,
+      "start": 193.59,
+      "end": 196.27,
+      "en": "Yeah, Top Gun is one of my all-time favorite movies.",
+      "zh": "是的，Top Gun 是我一直以来最喜欢的电影之一。"
+    },
+    {
+      "id": 71,
+      "start": 196.78,
+      "end": 198.55,
+      "en": "And top gun pilot, what a cool profession.",
+      "zh": "和高炮飞行员，多么酷的职业。"
+    },
+    {
+      "id": 72,
+      "start": 199.08,
+      "end": 199.83,
+      "en": "An excellent profession.",
+      "zh": "一个优秀的职业。"
+    },
+    {
+      "id": 73,
+      "start": 200.34,
+      "end": 202.05,
+      "en": "Much cooler than being like the VP.",
+      "zh": "比像副总裁要酷得多。"
+    },
+    {
+      "id": 74,
+      "start": 202.34,
+      "end": 203.34,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 75,
+      "start": 203.34,
+      "end": 204.34,
+      "en": "How boring is that?",
+      "zh": "这有多无聊？"
+    },
+    {
+      "id": 76,
+      "start": 204.34,
+      "end": 205.34,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 77,
+      "start": 205.34,
+      "end": 206.34,
+      "en": "Anyway, this guy was a bit of a jerk, don't you think?",
+      "zh": "不管怎样，这家伙有点混蛋，你不觉得吗？"
+    },
+    {
+      "id": 78,
+      "start": 206.34,
+      "end": 210.71,
+      "en": "Yeah, you can tell a little bit of the sarcastic tone he had in his voice.",
+      "zh": "是的，你可以说出他的声音中的一些讽刺语气。"
+    },
+    {
+      "id": 79,
+      "start": 211.34,
+      "end": 212.34,
+      "en": "Definitely.",
+      "zh": "当然。"
+    },
+    {
+      "id": 80,
+      "start": 212.34,
+      "end": 215.17,
+      "en": "But he did use some interesting phrases and we can talk about those now.",
+      "zh": "但他确实使用了一些有趣的短语，我们现在可以谈论这些。"
+    },
+    {
+      "id": 81,
+      "start": 215.5,
+      "end": 215.71,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 82,
+      "start": 215.71,
+      "end": 217.67,
+      "en": "So let's take a look at language takeaway.",
+      "zh": "那么让我们来看看语言外卖。"
+    },
+    {
+      "id": 83,
+      "start": 220.06,
+      "end": 220.41,
+      "en": "Language takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 84,
+      "start": 222.14,
+      "end": 224.82,
+      "en": "Our first word for language takeaways is implement.",
+      "zh": "我们的语言外卖的第一个词是实现。"
+    },
+    {
+      "id": 85,
+      "start": 225.26,
+      "end": 226.26,
+      "en": "Implement.",
+      "zh": "实施。"
+    },
+    {
+      "id": 86,
+      "start": 226.26,
+      "end": 227.26,
+      "en": "Implement.",
+      "zh": "实施。"
+    },
+    {
+      "id": 87,
+      "start": 227.26,
+      "end": 228.26,
+      "en": "Implement.",
+      "zh": "实施。"
+    },
+    {
+      "id": 88,
+      "start": 228.26,
+      "end": 234.86,
+      "en": "Let's listen to some examples of this word to help us understand its meaning.",
+      "zh": "让我们听听这个词的一些例子，以帮助我们理解它的含义。"
+    },
+    {
+      "id": 89,
+      "start": 234.86,
+      "end": 235.15,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 90,
+      "start": 238.22,
+      "end": 241.46,
+      "en": "Our company has to implement this sales strategy.",
+      "zh": "我们公司必须实施此销售策略。"
+    },
+    {
+      "id": 91,
+      "start": 245.62,
+      "end": 245.9,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 92,
+      "start": 249.78,
+      "end": 251.78,
+      "en": "Sarah will be responsible for implementing the plan.",
+      "zh": "莎拉将负责实施该计划。"
+    },
+    {
+      "id": 93,
+      "start": 256.1,
+      "end": 259.14,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 94,
+      "start": 259.14,
+      "end": 262.94,
+      "en": "I implemented several new policies.",
+      "zh": "我实施了几项新政策。"
+    },
+    {
+      "id": 95,
+      "start": 263.88,
+      "end": 265.66,
+      "en": "Okay, great examples.",
+      "zh": "好，这些例子很棒。"
+    },
+    {
+      "id": 96,
+      "start": 266.18,
+      "end": 270.18,
+      "en": "And just in case, to implement means to put into action.",
+      "zh": "而以防万一，实施手段意味着付诸行动。"
+    },
+    {
+      "id": 97,
+      "start": 270.18,
+      "end": 271.18,
+      "en": "Put into action.",
+      "zh": "付诸行动。"
+    },
+    {
+      "id": 98,
+      "start": 271.18,
+      "end": 272.18,
+      "en": "Great.",
+      "zh": "太好了。"
+    },
+    {
+      "id": 99,
+      "start": 272.18,
+      "end": 273.18,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 100,
+      "start": 273.18,
+      "end": 275.18,
+      "en": "Our second word for language takeaway, policies.",
+      "zh": "我们的第二个语言外卖，政策。"
+    },
+    {
+      "id": 101,
+      "start": 275.18,
+      "end": 276.18,
+      "en": "Policies.",
+      "zh": "政策。"
+    },
+    {
+      "id": 102,
+      "start": 276.18,
+      "end": 277.18,
+      "en": "Policies.",
+      "zh": "政策。"
+    },
+    {
+      "id": 103,
+      "start": 277.18,
+      "end": 278.18,
+      "en": "Policies.",
+      "zh": "政策。"
+    },
+    {
+      "id": 104,
+      "start": 278.18,
+      "end": 283.02,
+      "en": "So, policies are basically rules and regulations.",
+      "zh": "所以，政策基本上是规章制度。"
+    },
+    {
+      "id": 105,
+      "start": 283.02,
+      "end": 283.16,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 106,
+      "start": 284.02,
+      "end": 285.02,
+      "en": "Formal rules.",
+      "zh": "正式规则。"
+    },
+    {
+      "id": 107,
+      "start": 285.02,
+      "end": 286.32,
+      "en": "For a company or an organization.",
+      "zh": "对于公司或组织。"
+    },
+    {
+      "id": 108,
+      "start": 286.9,
+      "end": 287.9,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 109,
+      "start": 287.9,
+      "end": 288.9,
+      "en": "Policies.",
+      "zh": "政策。"
+    },
+    {
+      "id": 110,
+      "start": 288.9,
+      "end": 289.9,
+      "en": "Great.",
+      "zh": "太好了。"
+    },
+    {
+      "id": 111,
+      "start": 289.9,
+      "end": 290.9,
+      "en": "Third word.",
+      "zh": "第三个字。"
+    },
+    {
+      "id": 112,
+      "start": 290.9,
+      "end": 291.9,
+      "en": "Oversee.",
+      "zh": "监督。"
+    },
+    {
+      "id": 113,
+      "start": 291.9,
+      "end": 292.9,
+      "en": "Oversee.",
+      "zh": "监督。"
+    },
+    {
+      "id": 114,
+      "start": 292.9,
+      "end": 293.9,
+      "en": "Oversee.",
+      "zh": "监督。"
+    },
+    {
+      "id": 115,
+      "start": 293.9,
+      "end": 294.9,
+      "en": "Oversee.",
+      "zh": "监督。"
+    },
+    {
+      "id": 116,
+      "start": 295.0,
+      "end": 298.9,
+      "en": "So, when you oversee operations, it means?",
+      "zh": "那么，当你监督运营时，这意味着什么？"
+    },
+    {
+      "id": 117,
+      "start": 298.92,
+      "end": 300.86,
+      "en": "Like, you watch it to make sure it's okay.",
+      "zh": "就像，你看它以确保它没事。"
+    },
+    {
+      "id": 118,
+      "start": 301.14,
+      "end": 301.96,
+      "en": "You supervise it.",
+      "zh": "你监督它。"
+    },
+    {
+      "id": 119,
+      "start": 302.24,
+      "end": 306.46,
+      "en": "This is an excellent word to use when you want to talk about your job responsibilities.",
+      "zh": "当您想谈论您的工作职责时，这是一个很好的词。"
+    },
+    {
+      "id": 120,
+      "start": 306.98,
+      "end": 307.12,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 121,
+      "start": 307.9,
+      "end": 308.9,
+      "en": "Oversee.",
+      "zh": "监督。"
+    },
+    {
+      "id": 122,
+      "start": 308.9,
+      "end": 309.9,
+      "en": "Mm-hmm.",
+      "zh": "嗯。"
+    },
+    {
+      "id": 123,
+      "start": 309.9,
+      "end": 310.9,
+      "en": "Great.",
+      "zh": "太好了。"
+    },
+    {
+      "id": 124,
+      "start": 310.9,
+      "end": 319.48,
+      "en": "And our last word for language takeaway, it's kind of tricky, so let's listen to how it was used in our dialogue.",
+      "zh": "而我们对语言外卖的最后一个词，这有点棘手，所以让我们听听它在我们的对话中是如何被使用的。"
+    },
+    {
+      "id": 125,
+      "start": 319.48,
+      "end": 322.11,
+      "en": "That alone means I have 1,500 employees under me.",
+      "zh": "仅此一项就意味着我有 1,500 名员工。"
+    },
+    {
+      "id": 126,
+      "start": 325.42,
+      "end": 330.86,
+      "en": "That alone means I have 1,500 employees under me.",
+      "zh": "仅此一项就意味着我有 1,500 名员工。"
+    },
+    {
+      "id": 127,
+      "start": 330.86,
+      "end": 336.7,
+      "en": "So this guy has 1,500 employees under him, meaning he supervises 1,500 employees.",
+      "zh": "所以这家伙有 1,500 名员工，这意味着他监督 1,500 名员工。"
+    },
+    {
+      "id": 128,
+      "start": 336.88,
+      "end": 337.0,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 129,
+      "start": 337.7,
+      "end": 338.98,
+      "en": "He manages 1,500 employees.",
+      "zh": "他管理着 1,500 名员工。"
+    },
+    {
+      "id": 130,
+      "start": 338.98,
+      "end": 340.04,
+      "en": "He must be a busy man.",
+      "zh": "他一定是个忙碌的人。"
+    },
+    {
+      "id": 131,
+      "start": 340.54,
+      "end": 340.76,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 132,
+      "start": 341.54,
+      "end": 342.54,
+      "en": "For 1,500 employees.",
+      "zh": "为 1,500 名员工。"
+    },
+    {
+      "id": 133,
+      "start": 342.54,
+      "end": 344.64,
+      "en": "How many employees do you have under you, Erica?",
+      "zh": "埃里卡，你手下有多少员工？"
+    },
+    {
+      "id": 134,
+      "start": 345.46,
+      "end": 345.72,
+      "en": "Two.",
+      "zh": "二。"
+    },
+    {
+      "id": 135,
+      "start": 346.46,
+      "end": 347.46,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 136,
+      "start": 347.46,
+      "end": 348.46,
+      "en": "Not quite as much as 1,500.",
+      "zh": "不如1,500。"
+    },
+    {
+      "id": 137,
+      "start": 348.46,
+      "end": 351.38,
+      "en": "I guess I'm not a VP right yet, hey?",
+      "zh": "我想我还不是副总裁，嘿？"
+    },
+    {
+      "id": 138,
+      "start": 351.38,
+      "end": 352.42,
+      "en": "Not yet, but you will.",
+      "zh": "还没有，但你会的。"
+    },
+    {
+      "id": 139,
+      "start": 352.86,
+      "end": 353.86,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 140,
+      "start": 353.86,
+      "end": 354.86,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 141,
+      "start": 354.86,
+      "end": 360.86,
+      "en": "So, with this in mind, we are ready to listen to our dialogue for a second time, and this time it's going to be slower.",
+      "zh": "所以，考虑到这一点，我们准备第二次听我们的对话，这一次会更慢。"
+    },
+    {
+      "id": 142,
+      "start": 363.11,
+      "end": 363.91,
+      "en": "Oh, look.",
+      "zh": "哦，快看。"
+    },
+    {
+      "id": 143,
+      "start": 364.59,
+      "end": 366.19,
+      "en": "There's Caroline and her boyfriend.",
+      "zh": "有卡罗琳和她的男朋友。"
+    },
+    {
+      "id": 144,
+      "start": 367.11,
+      "end": 369.49,
+      "en": "She's always going on about him at the office.",
+      "zh": "她在办公室里总提起他。"
+    },
+    {
+      "id": 145,
+      "start": 370.61,
+      "end": 371.55,
+      "en": "Oh, great.",
+      "zh": "哦，太好了。"
+    },
+    {
+      "id": 146,
+      "start": 371.57,
+      "end": 372.71,
+      "en": "They saw us.",
+      "zh": "他们看到我们了。"
+    },
+    {
+      "id": 147,
+      "start": 373.31,
+      "end": 374.59,
+      "en": "They're coming this way.",
+      "zh": "他们正往这边来。"
+    },
+    {
+      "id": 148,
+      "start": 376.17,
+      "end": 377.23,
+      "en": "Oh, man.",
+      "zh": "哎呀。"
+    },
+    {
+      "id": 149,
+      "start": 378.5,
+      "end": 381.08,
+      "en": "Jessica, Arthur, hi.",
+      "zh": "杰西卡，亚瑟，嗨。"
+    },
+    {
+      "id": 150,
+      "start": 381.92,
+      "end": 384.36,
+      "en": "I'd like you to meet my boyfriend, Greg.",
+      "zh": "给你们介绍一下我的男朋友格雷格。"
+    },
+    {
+      "id": 151,
+      "start": 385.44,
+      "end": 390.42,
+      "en": "He's the VP of quality and safety for a top Fortune 500 food company.",
+      "zh": "他是《财富》500强一家食品企业负责质量与安全的副总裁。"
+    },
+    {
+      "id": 152,
+      "start": 391.41,
+      "end": 392.93,
+      "en": "Nice to meet you.",
+      "zh": "很高兴认识你。"
+    },
+    {
+      "id": 153,
+      "start": 393.71,
+      "end": 395.27,
+      "en": "This is my husband, Arthur.",
+      "zh": "这是我的丈夫亚瑟。"
+    },
+    {
+      "id": 154,
+      "start": 395.95,
+      "end": 396.95,
+      "en": "Hey, how's it going?",
+      "zh": "嘿，最近怎么样？"
+    },
+    {
+      "id": 155,
+      "start": 398.3,
+      "end": 399.3,
+      "en": "Hello.",
+      "zh": "你好。"
+    },
+    {
+      "id": 156,
+      "start": 399.3,
+      "end": 400.87,
+      "en": "Caroline talks about you all the time.",
+      "zh": "卡罗琳总提起你。"
+    },
+    {
+      "id": 157,
+      "start": 401.58,
+      "end": 403.23,
+      "en": "I guess you must be pretty busy at work.",
+      "zh": "我想你一定很忙工作。"
+    },
+    {
+      "id": 158,
+      "start": 404.14,
+      "end": 405.18,
+      "en": "Well, yeah.",
+      "zh": "嗯，是的。"
+    },
+    {
+      "id": 159,
+      "start": 405.82,
+      "end": 408.74,
+      "en": "A VP position is not easy, you know.",
+      "zh": "你知道，VP 职位并不容易。"
+    },
+    {
+      "id": 160,
+      "start": 408.74,
+      "end": 419.2,
+      "en": "I implement policies and procedures nationwide of various departments, as well as train junior managers in FDA and EPA regulations.",
+      "zh": "我在全国范围内实施各个部门的政策和程序，并在 FDA 和 EPA 法规中培训初级管理人员。"
+    },
+    {
+      "id": 161,
+      "start": 420.26,
+      "end": 425.92,
+      "en": "I also have to oversee daily operations of our quality control for the entire East Coast.",
+      "zh": "我还得监督整个东海岸地区的日常质量控制工作。"
+    },
+    {
+      "id": 162,
+      "start": 427.02,
+      "end": 430.14,
+      "en": "That alone means I have 1,500 employees under me.",
+      "zh": "仅此一项就意味着我有 1,500 名员工。"
+    },
+    {
+      "id": 163,
+      "start": 431.38,
+      "end": 431.61,
+      "en": "Wow.",
+      "zh": "哇。"
+    },
+    {
+      "id": 164,
+      "start": 432.74,
+      "end": 434.06,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 165,
+      "start": 434.06,
+      "end": 435.05,
+      "en": "That sounds exciting.",
+      "zh": "这听起来令人兴奋。"
+    },
+    {
+      "id": 166,
+      "start": 436.45,
+      "end": 437.51,
+      "en": "And what about you, Arthur?",
+      "zh": "你呢，亚瑟？"
+    },
+    {
+      "id": 167,
+      "start": 438.05,
+      "end": 439.25,
+      "en": "What do you do for a living?",
+      "zh": "你是做什么工作的？"
+    },
+    {
+      "id": 168,
+      "start": 440.46,
+      "end": 443.18,
+      "en": "Oh, I'm a top gun pilot.",
+      "zh": "哦，我是一名顶级枪手。"
+    },
+    {
+      "id": 169,
+      "start": 446.6,
+      "end": 447.76,
+      "en": "Okay, great stuff.",
+      "zh": "好，讲得很不错。"
+    },
+    {
+      "id": 170,
+      "start": 448.22,
+      "end": 451.96,
+      "en": "With this, now we can start with our fluency builder for today.",
+      "zh": "有了这个，现在我们可以从我们今天的 Fluency Builder 开始。"
+    },
+    {
+      "id": 171,
+      "start": 453.9,
+      "end": 454.13,
+      "en": "Fluency Builder.",
+      "zh": "流利表达。"
+    },
+    {
+      "id": 172,
+      "start": 455.1,
+      "end": 460.8,
+      "en": "We heard some excellent phrases in this dialogue, some phrases that sound really natural, hey?",
+      "zh": "我们在这次对话中听到了一些很棒的短语，一些听起来很自然的短语，嘿？"
+    },
+    {
+      "id": 173,
+      "start": 461.46,
+      "end": 471.16,
+      "en": "Yes, especially the first one that we have today is whenever someone talks and talks and talks and just, and continuously talks without stopping, you would say...",
+      "zh": "是的，尤其是我们今天的第一个是，每当有人说话、说话、谈论、公正、不断地说话时，你会说……"
+    },
+    {
+      "id": 174,
+      "start": 473.1,
+      "end": 474.91,
+      "en": "She's always going on about him at the office.",
+      "zh": "她在办公室里总提起他。"
+    },
+    {
+      "id": 175,
+      "start": 478.34,
+      "end": 480.22,
+      "en": "She's always going on about him at the office.",
+      "zh": "她在办公室里总提起他。"
+    },
+    {
+      "id": 176,
+      "start": 482.82,
+      "end": 486.07,
+      "en": "This is a really natural way of saying keeps talking about.",
+      "zh": "这是一种非常自然的说法，一直在谈论。"
+    },
+    {
+      "id": 177,
+      "start": 486.38,
+      "end": 487.61,
+      "en": "Right, keeps talking about him.",
+      "zh": "对，一直在说他。"
+    },
+    {
+      "id": 178,
+      "start": 488.14,
+      "end": 491.57,
+      "en": "So we have a few examples of how this phrase works.",
+      "zh": "因此，我们有一些关于这个短语如何工作的例子。"
+    },
+    {
+      "id": 179,
+      "start": 492.62,
+      "end": 492.87,
+      "en": "Let's listen.",
+      "zh": "我们来听听。"
+    },
+    {
+      "id": 180,
+      "start": 494.34,
+      "end": 497.78,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 181,
+      "start": 497.78,
+      "end": 501.72,
+      "en": "My boss is always going on about how we need to save money.",
+      "zh": "我的老板总是在谈论我们需要如何省钱。"
+    },
+    {
+      "id": 182,
+      "start": 502.46,
+      "end": 503.76,
+      "en": "It's all he talks about.",
+      "zh": "这就是他所说的一切。"
+    },
+    {
+      "id": 183,
+      "start": 507.31,
+      "end": 508.01,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 184,
+      "start": 511.51,
+      "end": 513.79,
+      "en": "Gary is always going on about his kids.",
+      "zh": "加里总是在谈论他的孩子。"
+    },
+    {
+      "id": 185,
+      "start": 514.35,
+      "end": 516.37,
+      "en": "He's always talking about how smart they are.",
+      "zh": "他总是在谈论他们有多聪明。"
+    },
+    {
+      "id": 186,
+      "start": 520.4,
+      "end": 521.32,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 187,
+      "start": 524.23,
+      "end": 528.37,
+      "en": "My mom is always going on about how I should get married.",
+      "zh": "我妈妈总是在谈论我应该如何结婚。"
+    },
+    {
+      "id": 188,
+      "start": 531.43,
+      "end": 532.03,
+      "en": "Okay, excellent.",
+      "zh": "好，太棒了。"
+    },
+    {
+      "id": 189,
+      "start": 532.62,
+      "end": 533.05,
+      "en": "It's clear now.",
+      "zh": "现在清楚了。"
+    },
+    {
+      "id": 190,
+      "start": 533.39,
+      "end": 533.51,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 191,
+      "start": 534.62,
+      "end": 540.74,
+      "en": "Okay, so let's move on to our second phrase for today and this is a great one to use whenever you meet someone for the first time.",
+      "zh": "好的，所以让我们继续我们今天的第二个短语，当你第一次见到某人时，这是一个很好的使用。"
+    },
+    {
+      "id": 192,
+      "start": 540.74,
+      "end": 542.93,
+      "en": "Or when you start to talk to someone for the first time.",
+      "zh": "或者当您第一次开始与某人交谈时。"
+    },
+    {
+      "id": 193,
+      "start": 544.96,
+      "end": 545.76,
+      "en": "Hey, how's it going?",
+      "zh": "嘿，最近怎么样？"
+    },
+    {
+      "id": 194,
+      "start": 547.5,
+      "end": 548.52,
+      "en": "Hey, how's it going?",
+      "zh": "嘿，最近怎么样？"
+    },
+    {
+      "id": 195,
+      "start": 549.45,
+      "end": 555.13,
+      "en": "So this is a really relaxed and natural way of saying how are you?",
+      "zh": "所以这是一种非常轻松和自然的表达方式，你好吗？"
+    },
+    {
+      "id": 196,
+      "start": 555.34,
+      "end": 556.34,
+      "en": "How are you?",
+      "zh": "你好吗？"
+    },
+    {
+      "id": 197,
+      "start": 556.45,
+      "end": 556.57,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 198,
+      "start": 557.34,
+      "end": 558.25,
+      "en": "So yeah, you can just say, hey, how's it going?",
+      "zh": "所以，是的，你可以说，嘿，进展如何？"
+    },
+    {
+      "id": 199,
+      "start": 558.82,
+      "end": 559.82,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 200,
+      "start": 559.82,
+      "end": 560.82,
+      "en": "Great.",
+      "zh": "太好了。"
+    },
+    {
+      "id": 201,
+      "start": 560.82,
+      "end": 561.82,
+      "en": "Really natural sounding.",
+      "zh": "听起来很自然。"
+    },
+    {
+      "id": 202,
+      "start": 561.82,
+      "end": 564.78,
+      "en": "Now, our third phrase is the most important one of our dialogue.",
+      "zh": "现在，我们的第三个短语是我们对话中最重要的一句话。"
+    },
+    {
+      "id": 203,
+      "start": 564.78,
+      "end": 565.78,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 204,
+      "start": 565.78,
+      "end": 567.29,
+      "en": "And it's a really common situation.",
+      "zh": "这是一个非常普遍的情况。"
+    },
+    {
+      "id": 205,
+      "start": 568.26,
+      "end": 572.41,
+      "en": "When someone asks you about your job, they might say this.",
+      "zh": "当有人问你关于你的工作时，他们可能会这么说。"
+    },
+    {
+      "id": 206,
+      "start": 573.58,
+      "end": 576.14,
+      "en": "Arthur, what do you do for a living?",
+      "zh": "亚瑟，你以什么为生？"
+    },
+    {
+      "id": 207,
+      "start": 576.14,
+      "end": 580.02,
+      "en": "Arthur, what do you do for a living?",
+      "zh": "亚瑟，你以什么为生？"
+    },
+    {
+      "id": 208,
+      "start": 580.02,
+      "end": 585.11,
+      "en": "So this is a really great way of asking what work do you do or what is your job?",
+      "zh": "所以这是一个非常好的方式来询问你做什么工作或你的工作是什么？"
+    },
+    {
+      "id": 209,
+      "start": 585.46,
+      "end": 585.63,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 210,
+      "start": 585.97,
+      "end": 590.07,
+      "en": "I know a lot of students sometimes say, what is your job?",
+      "zh": "我知道很多学生有时会说，你的工作是什么？"
+    },
+    {
+      "id": 211,
+      "start": 590.57,
+      "end": 590.69,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 212,
+      "start": 590.89,
+      "end": 594.01,
+      "en": "And that is, it's kind of correct, but not really.",
+      "zh": "也就是说，这是正确的，但不是真的。"
+    },
+    {
+      "id": 213,
+      "start": 594.53,
+      "end": 596.09,
+      "en": "It doesn't sound very natural.",
+      "zh": "听起来不是很自然。"
+    },
+    {
+      "id": 214,
+      "start": 596.38,
+      "end": 597.38,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 215,
+      "start": 597.38,
+      "end": 598.35,
+      "en": "So you can use, what do you do?",
+      "zh": "所以你可以使用，你做什么？"
+    },
+    {
+      "id": 216,
+      "start": 598.82,
+      "end": 600.59,
+      "en": "Or what do you do for a living?",
+      "zh": "或者你以什么为生？"
+    },
+    {
+      "id": 217,
+      "start": 601.34,
+      "end": 601.51,
+      "en": "Sounds great.",
+      "zh": "听起来很棒。"
+    },
+    {
+      "id": 218,
+      "start": 602.34,
+      "end": 603.83,
+      "en": "That's the way you ask someone what is their job.",
+      "zh": "这就是你问别人他们的工作是什么的方式。"
+    },
+    {
+      "id": 219,
+      "start": 604.06,
+      "end": 605.82,
+      "en": "And that's how you sound super natural.",
+      "zh": "这就是你听起来超级自然的方式。"
+    },
+    {
+      "id": 220,
+      "start": 606.05,
+      "end": 606.53,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 221,
+      "start": 606.53,
+      "end": 609.45,
+      "en": "So we're ready now to listen to our dialogue a last time.",
+      "zh": "所以我们现在准备好听我们上次的对话了。"
+    },
+    {
+      "id": 222,
+      "start": 609.95,
+      "end": 613.01,
+      "en": "And now you are ready to understand everything.",
+      "zh": "现在你已经准备好了解一切了。"
+    },
+    {
+      "id": 223,
+      "start": 620.33,
+      "end": 623.23,
+      "en": "Oh, look, there's Caroline and her boyfriend.",
+      "zh": "哦，看，有卡罗琳和她的男朋友。"
+    },
+    {
+      "id": 224,
+      "start": 624.42,
+      "end": 631.42,
+      "en": "Oh man.",
+      "zh": "天哪。"
+    },
+    {
+      "id": 225,
+      "start": 650.12,
+      "end": 651.34,
+      "en": "Hey, how's it going?",
+      "zh": "嘿，最近怎么样？"
+    },
+    {
+      "id": 226,
+      "start": 652.5,
+      "end": 654.72,
+      "en": "Caroline talks about you all the time.",
+      "zh": "卡罗琳总提起你。"
+    },
+    {
+      "id": 227,
+      "start": 655.5,
+      "end": 657.5,
+      "en": "I guess you must be pretty busy at work.",
+      "zh": "我想你一定很忙工作。"
+    },
+    {
+      "id": 228,
+      "start": 657.5,
+      "end": 660.38,
+      "en": "Well, yeah, VP position is not easy to know.",
+      "zh": "嗯，是的，VP 职位不容易知道。"
+    },
+    {
+      "id": 229,
+      "start": 661.98,
+      "end": 669.62,
+      "en": "I implement policies and procedures nationwide, various departments, as well as trained junior managers in FDA and EPA regulations.",
+      "zh": "我在全国范围内实施政策和程序，并在 FDA 和 EPA 法规中实施训练有素的初级管理人员。"
+    },
+    {
+      "id": 230,
+      "start": 669.76,
+      "end": 674.12,
+      "en": "I also have to oversee daily operations of our quality control for the entire East Coast.",
+      "zh": "我还得监督整个东海岸地区的日常质量控制工作。"
+    },
+    {
+      "id": 231,
+      "start": 675.1,
+      "end": 677.76,
+      "en": "That alone means I have 1500 employees under me.",
+      "zh": "仅此一项就意味着我有 1500 名员工。"
+    },
+    {
+      "id": 232,
+      "start": 678.62,
+      "end": 682.46,
+      "en": "Wow, yeah, that sounds exciting.",
+      "zh": "哇，这听起来令人兴奋。"
+    },
+    {
+      "id": 233,
+      "start": 682.46,
+      "end": 683.32,
+      "en": "And what about you, Arthur?",
+      "zh": "你呢，亚瑟？"
+    },
+    {
+      "id": 234,
+      "start": 683.74,
+      "end": 684.44,
+      "en": "What do you do for a living?",
+      "zh": "你是做什么工作的？"
+    },
+    {
+      "id": 235,
+      "start": 686.0,
+      "end": 688.24,
+      "en": "I'm a top gun pilot.",
+      "zh": "我是王牌战斗机飞行员。"
+    },
+    {
+      "id": 236,
+      "start": 703.56,
+      "end": 706.9,
+      "en": "Okay so I have a little challenge for our listeners today.",
+      "zh": "好的，所以我今天对我们的听众有一点挑战。"
+    },
+    {
+      "id": 237,
+      "start": 707.18,
+      "end": 707.72,
+      "en": "What is it?",
+      "zh": "怎么了？"
+    },
+    {
+      "id": 238,
+      "start": 708.44,
+      "end": 709.44,
+      "en": "I have two challenges.",
+      "zh": "我有两个挑战。"
+    },
+    {
+      "id": 239,
+      "start": 709.44,
+      "end": 710.44,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 240,
+      "start": 710.44,
+      "end": 715.04,
+      "en": "The first one, who performs the song that you heard and what is the song called?",
+      "zh": "第一个，谁演奏你听到的歌曲，这首歌叫什么？"
+    },
+    {
+      "id": 241,
+      "start": 715.56,
+      "end": 717.18,
+      "en": "Okay, I don't know the answer.",
+      "zh": "好吧，我不知道答案。"
+    },
+    {
+      "id": 242,
+      "start": 717.34,
+      "end": 720.62,
+      "en": "So I'm looking forward to seeing what users do.",
+      "zh": "所以我很期待看到用户做什么。"
+    },
+    {
+      "id": 243,
+      "start": 720.62,
+      "end": 725.48,
+      "en": "And the second one is, what is the number one company in the Fortune 500?",
+      "zh": "第二个是，财富500强的第一家公司是什么？"
+    },
+    {
+      "id": 244,
+      "start": 726.16,
+      "end": 727.84,
+      "en": "Oh, I also don't know this answer.",
+      "zh": "哦，我也不知道这个答案。"
+    },
+    {
+      "id": 245,
+      "start": 728.86,
+      "end": 729.54,
+      "en": "Two great questions.",
+      "zh": "两个很棒的问题。"
+    },
+    {
+      "id": 246,
+      "start": 729.86,
+      "end": 732.7,
+      "en": "So I expect to see your answers on the comments page.",
+      "zh": "所以我希望在评论页面上看到你的答案。"
+    },
+    {
+      "id": 247,
+      "start": 732.98,
+      "end": 735.46,
+      "en": "But also we want to know about your profession.",
+      "zh": "但我们也想知道你的职业。"
+    },
+    {
+      "id": 248,
+      "start": 735.8,
+      "end": 735.94,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 249,
+      "start": 735.94,
+      "end": 737.82,
+      "en": "Tell us about your job.",
+      "zh": "告诉我们你的工作。"
+    },
+    {
+      "id": 250,
+      "start": 738.26,
+      "end": 744.1,
+      "en": "Tell us what you do and use some of the great phrases you learned today to describe your answer.",
+      "zh": "告诉我们你做了什么，并用你今天学到的一些很棒的短语来描述你的答案。"
+    },
+    {
+      "id": 251,
+      "start": 744.56,
+      "end": 744.78,
+      "en": "Great.",
+      "zh": "太好了。"
+    },
+    {
+      "id": 252,
+      "start": 745.22,
+      "end": 747.46,
+      "en": "So we hope to see you there but we're out of time now.",
+      "zh": "所以我们希望在那里见到你，但我们现在没有时间了。"
+    },
+    {
+      "id": 253,
+      "start": 748.14,
+      "end": 751.38,
+      "en": "So we'll see everyone at EnglishPod.com.",
+      "zh": "因此，我们将在 Englishpod.com 上见到每个人。"
+    },
+    {
+      "id": 254,
+      "start": 751.38,
+      "end": 753.56,
+      "en": "Leave all your questions and of course all the comments.",
+      "zh": "留下你所有的问题，当然还有所有的评论。"
+    },
+    {
+      "id": 255,
+      "start": 754.34,
+      "end": 757.13,
+      "en": "And Marco and I are always around to answer your questions.",
+      "zh": "马可和我总是在回答你的问题。"
+    },
+    {
+      "id": 256,
+      "start": 757.74,
+      "end": 768.653,
+      "en": "So until then, it's goodbye.",
+      "zh": "所以在那之前，这是再见。"
+    }
+  ],
+  "dialog": {
+    "start": 104.44,
+    "end": 172.32,
+    "segmentIds": [
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64
+    ]
+  }
+}

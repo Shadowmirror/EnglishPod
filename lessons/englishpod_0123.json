@@ -1,0 +1,2517 @@
+{
+  "version": 1,
+  "id": 123,
+  "number": "0123",
+  "title": "The Weekend - 1990's",
+  "audio": "mp3/123. The Weekend - 1990's.mp3",
+  "duration": 988.8914375,
+  "segments": [
+    {
+      "id": 1,
+      "start": 2.45,
+      "end": 3.33,
+      "en": "Hello, everyone.",
+      "zh": "大家好。"
+    },
+    {
+      "id": 2,
+      "start": 3.93,
+      "end": 6.91,
+      "en": "Welcome back to another podcast here at EnglishPod.",
+      "zh": "欢迎回到 Englishpod 的另一个播客。"
+    },
+    {
+      "id": 3,
+      "start": 7.24,
+      "end": 7.67,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 4,
+      "start": 7.99,
+      "end": 8.69,
+      "en": "And I'm Erica.",
+      "zh": "我叫 Erica。"
+    },
+    {
+      "id": 5,
+      "start": 9.37,
+      "end": 14.53,
+      "en": "And today we're looking at another one of our lessons for English of the past decades.",
+      "zh": "今天，我们正在研究过去几十年英语的另一堂课。"
+    },
+    {
+      "id": 6,
+      "start": 15.15,
+      "end": 17.67,
+      "en": "And this time, it's the 1990s.",
+      "zh": "而这一次，是1990年代。"
+    },
+    {
+      "id": 7,
+      "start": 17.79,
+      "end": 22.59,
+      "en": "Well, you know, the 1990s is a little easier for most of us to remember.",
+      "zh": "好吧，你知道，1990 年代对我们大多数人来说更容易记住。"
+    },
+    {
+      "id": 8,
+      "start": 23.03,
+      "end": 24.69,
+      "en": "Yeah, I guess it's a little bit more recent.",
+      "zh": "是的，我想这是最近的一点。"
+    },
+    {
+      "id": 9,
+      "start": 24.69,
+      "end": 29.22,
+      "en": "We're going to be looking at a lot of language that is still used today.",
+      "zh": "我们将研究许多今天仍在使用的语言。"
+    },
+    {
+      "id": 10,
+      "start": 29.64,
+      "end": 32.24,
+      "en": "Most of these words and phrases are still used today.",
+      "zh": "这些单词和短语中的大多数至今仍在使用。"
+    },
+    {
+      "id": 11,
+      "start": 32.24,
+      "end": 34.24,
+      "en": "So they're going to be very useful.",
+      "zh": "所以它们会非常有用。"
+    },
+    {
+      "id": 12,
+      "start": 34.64,
+      "end": 36.18,
+      "en": "And you're going to sound a lot more native.",
+      "zh": "你会听起来更本土。"
+    },
+    {
+      "id": 13,
+      "start": 37.0,
+      "end": 38.4,
+      "en": "A lot cooler as well, huh?",
+      "zh": "还要凉爽很多吧？"
+    },
+    {
+      "id": 14,
+      "start": 38.84,
+      "end": 39.84,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 15,
+      "start": 39.84,
+      "end": 43.92,
+      "en": "So before we get started with this lesson, why don't we take a look at vocabulary preview?",
+      "zh": "所以在我们开始本课程之前，我们为什么不看看词汇预览呢？"
+    },
+    {
+      "id": 16,
+      "start": 45.8,
+      "end": 46.11,
+      "en": "Vocabulary preview.",
+      "zh": "词汇预习。"
+    },
+    {
+      "id": 17,
+      "start": 47.4,
+      "end": 50.04,
+      "en": "We have two words we're going to hear in the dialogue.",
+      "zh": "我们将在对话中听到两个词。"
+    },
+    {
+      "id": 18,
+      "start": 50.56,
+      "end": 52.68,
+      "en": "Now the first one is a mall.",
+      "zh": "现在第一个是商场。"
+    },
+    {
+      "id": 19,
+      "start": 53.96,
+      "end": 54.42,
+      "en": "A mall.",
+      "zh": "一个商场。"
+    },
+    {
+      "id": 20,
+      "start": 54.96,
+      "end": 55.96,
+      "en": "M-A-L-L, mall.",
+      "zh": "M-A-L-L，购物中心。"
+    },
+    {
+      "id": 21,
+      "start": 55.96,
+      "end": 61.36,
+      "en": "All right, so a mall is basically short for shopping mall.",
+      "zh": "好吧，所以商场基本上是购物中心的缩写。"
+    },
+    {
+      "id": 22,
+      "start": 61.36,
+      "end": 65.34,
+      "en": "And a shopping mall is a big building with many stores inside.",
+      "zh": "购物中心是一座大楼，里面有很多商店。"
+    },
+    {
+      "id": 23,
+      "start": 65.68,
+      "end": 66.68,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 24,
+      "start": 66.68,
+      "end": 67.46,
+      "en": "So it's like a shopping center.",
+      "zh": "所以它就像一个购物中心。"
+    },
+    {
+      "id": 25,
+      "start": 68.46,
+      "end": 72.48,
+      "en": "And our last word for vocabulary preview is gang.",
+      "zh": "我们的词汇预览的最后一个词是帮派。"
+    },
+    {
+      "id": 26,
+      "start": 72.48,
+      "end": 72.87,
+      "en": "The gang.",
+      "zh": "帮派。"
+    },
+    {
+      "id": 27,
+      "start": 73.48,
+      "end": 73.89,
+      "en": "The gang.",
+      "zh": "帮派。"
+    },
+    {
+      "id": 28,
+      "start": 74.48,
+      "end": 77.75,
+      "en": "Okay, so a gang is a group of people, right?",
+      "zh": "好吧，一个团伙是一群人，对吧？"
+    },
+    {
+      "id": 29,
+      "start": 78.11,
+      "end": 79.81,
+      "en": "Yeah, it's a group of people.",
+      "zh": "是的，这是一群人。"
+    },
+    {
+      "id": 30,
+      "start": 79.97,
+      "end": 81.63,
+      "en": "You can call your friends the gang.",
+      "zh": "你可以称你的朋友为团伙。"
+    },
+    {
+      "id": 31,
+      "start": 81.93,
+      "end": 83.27,
+      "en": "We're going to go out with the gang tonight.",
+      "zh": "今晚我们要和帮派出去。"
+    },
+    {
+      "id": 32,
+      "start": 83.64,
+      "end": 84.64,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 33,
+      "start": 84.64,
+      "end": 89.08,
+      "en": "And we sometimes hear this word and it has a negative meaning, right?",
+      "zh": "我们有时会听到这个词，它有负面的含义，对吧？"
+    },
+    {
+      "id": 34,
+      "start": 89.08,
+      "end": 90.84,
+      "en": "Right, like street gang.",
+      "zh": "对，就像街头帮派。"
+    },
+    {
+      "id": 35,
+      "start": 90.95,
+      "end": 94.97,
+      "en": "Yeah, so people who fight and deal drugs and all that sort of stuff.",
+      "zh": "是的，所以那些打架和交易毒品之类的人。"
+    },
+    {
+      "id": 36,
+      "start": 95.17,
+      "end": 95.33,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 37,
+      "start": 95.45,
+      "end": 100.47,
+      "en": "So it can have a negative and a positive meaning, but it just depends on how you use it.",
+      "zh": "所以它可以有负面和积极的含义，但这取决于你如何使用它。"
+    },
+    {
+      "id": 38,
+      "start": 100.53,
+      "end": 102.77,
+      "en": "Yeah, but in the dialogue we'll hear it with a positive meaning.",
+      "zh": "是的，但在对话中，我们会以积极的含义听到它。"
+    },
+    {
+      "id": 39,
+      "start": 103.11,
+      "end": 103.23,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 40,
+      "start": 103.55,
+      "end": 106.79,
+      "en": "So that's all the words we have for vocabulary preview.",
+      "zh": "这就是我们对词汇预览的所有词。"
+    },
+    {
+      "id": 41,
+      "start": 107.63,
+      "end": 114.21,
+      "en": "Let's listen to this cool and hip dialogue from the 1990s and we'll come back later and explain some words.",
+      "zh": "让我们听听 1990 年代酷炫时尚的对话，我们稍后会回来解释一些单词。"
+    },
+    {
+      "id": 42,
+      "start": 115.36,
+      "end": 118.92,
+      "en": "Hey, Four Eyes.",
+      "zh": "嘿，四眼仔。"
+    },
+    {
+      "id": 43,
+      "start": 118.92,
+      "end": 122.2,
+      "en": "What's up, man?",
+      "zh": "嘿，伙计，最近怎么样？"
+    },
+    {
+      "id": 44,
+      "start": 122.2,
+      "end": 126.36,
+      "en": "How have you been?",
+      "zh": "你最近怎么样？"
+    },
+    {
+      "id": 45,
+      "start": 134.32,
+      "end": 135.14,
+      "en": "Not bad.",
+      "zh": "还不错。"
+    },
+    {
+      "id": 46,
+      "start": 135.82,
+      "end": 138.22,
+      "en": "Just went to the mall and picked up some junk.",
+      "zh": "刚去商场买了些杂七杂八的东西。"
+    },
+    {
+      "id": 47,
+      "start": 138.7,
+      "end": 140.0,
+      "en": "Check out my new Adidas.",
+      "zh": "看看我的新阿迪达斯。"
+    },
+    {
+      "id": 48,
+      "start": 140.78,
+      "end": 141.72,
+      "en": "Those are dope.",
+      "zh": "那些东西真酷。"
+    },
+    {
+      "id": 49,
+      "start": 142.76,
+      "end": 146.4,
+      "en": "You are going to be getting mad props from the gang, man.",
+      "zh": "哥们，那帮朋友肯定会对你赞不绝口的。"
+    },
+    {
+      "id": 50,
+      "start": 147.36,
+      "end": 149.42,
+      "en": "Anyways, have you seen Betty lately?",
+      "zh": "不管怎样，你最近见过贝蒂吗？"
+    },
+    {
+      "id": 51,
+      "start": 150.2,
+      "end": 152.18,
+      "en": "Dude, don't even go there.",
+      "zh": "哥们，别提那事了。"
+    },
+    {
+      "id": 52,
+      "start": 153.04,
+      "end": 157.0,
+      "en": "That girl started tripping because I went to the movies with Veronica the other day.",
+      "zh": "前几天我和维罗妮卡去看电影，那女孩就大发脾气。"
+    },
+    {
+      "id": 53,
+      "start": 157.64,
+      "end": 162.88,
+      "en": "I was like, look, you knew how I was before you got with me.",
+      "zh": "我就说，听着，你跟我在一起之前就知道我是什么样的人。"
+    },
+    {
+      "id": 54,
+      "start": 162.88,
+      "end": 163.08,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 55,
+      "start": 163.88,
+      "end": 166.28,
+      "en": "You are such a player, man.",
+      "zh": "哥们，你真是个花花公子。"
+    },
+    {
+      "id": 56,
+      "start": 166.28,
+      "end": 167.66,
+      "en": "Dude, there's Mad Max.",
+      "zh": "哥们，疯子麦克斯在那儿。"
+    },
+    {
+      "id": 57,
+      "start": 168.52,
+      "end": 169.28,
+      "en": "Let's go say hi.",
+      "zh": "我们去打个招呼。"
+    },
+    {
+      "id": 58,
+      "start": 171.52,
+      "end": 173.44,
+      "en": "Mad Max, what's up?",
+      "zh": "疯子麦克斯，怎么了？"
+    },
+    {
+      "id": 59,
+      "start": 173.44,
+      "end": 173.88,
+      "en": "Are you okay?",
+      "zh": "你还好吗？"
+    },
+    {
+      "id": 60,
+      "start": 174.64,
+      "end": 176.06,
+      "en": "You look like you just saw a ghost.",
+      "zh": "你看起来就像刚刚看到了一个鬼。"
+    },
+    {
+      "id": 61,
+      "start": 176.6,
+      "end": 178.24,
+      "en": "I got an F in English class.",
+      "zh": "我英语得了个 F，不及格。"
+    },
+    {
+      "id": 62,
+      "start": 178.96,
+      "end": 179.82,
+      "en": "My life is over.",
+      "zh": "我的人生完了。"
+    },
+    {
+      "id": 63,
+      "start": 179.96,
+      "end": 182.84,
+      "en": "Dude, you're over it.",
+      "zh": "伙计，你太紧张了。"
+    },
+    {
+      "id": 64,
+      "start": 182.84,
+      "end": 186.14,
+      "en": "You need to lay off the books for a while and have some fun.",
+      "zh": "你得暂时放下书本，出去玩玩。"
+    },
+    {
+      "id": 65,
+      "start": 186.96,
+      "end": 188.34,
+      "en": "Come on, let's bounce.",
+      "zh": "来吧，我们走。"
+    },
+    {
+      "id": 66,
+      "start": 189.28,
+      "end": 189.7,
+      "en": "Where are we going?",
+      "zh": "我们要去哪儿？"
+    },
+    {
+      "id": 67,
+      "start": 190.4,
+      "end": 190.88,
+      "en": "Oh, crap.",
+      "zh": "哦，糟了。"
+    },
+    {
+      "id": 68,
+      "start": 191.64,
+      "end": 195.0,
+      "en": "My dad is going to go postal when he finds out about this.",
+      "zh": "我爸要是知道了，肯定会大发雷霆。"
+    },
+    {
+      "id": 69,
+      "start": 195.0,
+      "end": 200.05,
+      "en": "I'm going to open the can of whoop ass on you if you don't come with me right now.",
+      "zh": "你现在要是不跟我走，我就揍你一顿。"
+    },
+    {
+      "id": 70,
+      "start": 200.51,
+      "end": 201.49,
+      "en": "Okay, okay.",
+      "zh": "好，好。"
+    },
+    {
+      "id": 71,
+      "start": 202.08,
+      "end": 203.08,
+      "en": "Geez.",
+      "zh": "天哪。"
+    },
+    {
+      "id": 72,
+      "start": 211.01,
+      "end": 214.09,
+      "en": "Well, it sounds like this guy's got some problems at school, huh?",
+      "zh": "好吧，听起来这家伙在学校有一些问题，对吧？"
+    },
+    {
+      "id": 73,
+      "start": 214.39,
+      "end": 220.97,
+      "en": "Yeah, he got an F on his paper, but you always can count on your friends to try and cheer you up by doing something.",
+      "zh": "是的，他的报纸上有一个 F，但你总是可以指望你的朋友尝试通过做某事来让你振作起来。"
+    },
+    {
+      "id": 74,
+      "start": 221.23,
+      "end": 228.35,
+      "en": "Yeah, but they use some really great phrases and vocabulary words, so why don't we look at those now in Language Takeaway.",
+      "zh": "是的，但他们使用了一些非常棒的短语和词汇单词，所以我们为什么不看看现在的语言外卖。"
+    },
+    {
+      "id": 75,
+      "start": 230.05,
+      "end": 231.29,
+      "en": "Language Takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 76,
+      "start": 231.72,
+      "end": 239.4,
+      "en": "All right, on Language Takeaway we're going to be looking at five words and well, let's start with the first one.",
+      "zh": "好吧，在语言外卖方面，我们将看五个单词，好吧，让我们从第一个开始。"
+    },
+    {
+      "id": 77,
+      "start": 239.4,
+      "end": 244.26,
+      "en": "So the guy was talking about his really cool new shoes, his new Adidas, right?",
+      "zh": "所以这家伙在谈论他非常酷的新鞋，他的新阿迪达斯，对吧？"
+    },
+    {
+      "id": 78,
+      "start": 245.12,
+      "end": 247.96,
+      "en": "And his friend said, those are dope.",
+      "zh": "他的朋友说，那些是涂料。"
+    },
+    {
+      "id": 79,
+      "start": 247.96,
+      "end": 248.28,
+      "en": "Dope.",
+      "zh": "毒品。"
+    },
+    {
+      "id": 80,
+      "start": 248.96,
+      "end": 249.96,
+      "en": "Dope.",
+      "zh": "毒品。"
+    },
+    {
+      "id": 81,
+      "start": 249.96,
+      "end": 252.9,
+      "en": "Okay, so it's pretty easy to understand when something is dope.",
+      "zh": "好的，所以当某些东西是 DOPE 时，很容易理解。"
+    },
+    {
+      "id": 82,
+      "start": 253.6,
+      "end": 254.4,
+      "en": "It's really awesome.",
+      "zh": "它真的很棒。"
+    },
+    {
+      "id": 83,
+      "start": 254.76,
+      "end": 254.98,
+      "en": "It's cool.",
+      "zh": "它很酷。"
+    },
+    {
+      "id": 84,
+      "start": 255.76,
+      "end": 256.04,
+      "en": "It's great.",
+      "zh": "太好了。"
+    },
+    {
+      "id": 85,
+      "start": 256.76,
+      "end": 257.08,
+      "en": "Right, it's great.",
+      "zh": "对，太好了。"
+    },
+    {
+      "id": 86,
+      "start": 257.76,
+      "end": 258.5,
+      "en": "So that's dope.",
+      "zh": "所以这就是毒品。"
+    },
+    {
+      "id": 87,
+      "start": 259.28,
+      "end": 260.2,
+      "en": "And it's an adjective, right?",
+      "zh": "而且是形容词，对吧？"
+    },
+    {
+      "id": 88,
+      "start": 261.24,
+      "end": 262.88,
+      "en": "So his friend said, those are dope.",
+      "zh": "所以他的朋友说，那些是涂料。"
+    },
+    {
+      "id": 89,
+      "start": 262.88,
+      "end": 265.94,
+      "en": "And he said, you're going to be getting mad props from the gang.",
+      "zh": "他说，你会从帮派那里得到疯狂的道具。"
+    },
+    {
+      "id": 90,
+      "start": 266.48,
+      "end": 268.72,
+      "en": "Okay, so mad props.",
+      "zh": "好吧，所以疯狂的道具。"
+    },
+    {
+      "id": 91,
+      "start": 269.02,
+      "end": 269.58,
+      "en": "Mad props.",
+      "zh": "大力称赞。"
+    },
+    {
+      "id": 92,
+      "start": 270.14,
+      "end": 271.82,
+      "en": "We can divide this word in two.",
+      "zh": "我们可以把这个词一分为二。"
+    },
+    {
+      "id": 93,
+      "start": 272.02,
+      "end": 274.14,
+      "en": "So let's take a look at the first part, mad.",
+      "zh": "所以让我们来看看第一部分，疯狂。"
+    },
+    {
+      "id": 94,
+      "start": 275.12,
+      "end": 277.0,
+      "en": "So we understand that mad is angry, right?",
+      "zh": "所以我们知道 MAD 很生气，对吧？"
+    },
+    {
+      "id": 95,
+      "start": 277.22,
+      "end": 279.68,
+      "en": "Yeah, but it can also mean a lot, right?",
+      "zh": "是的，但它也可能意味着很多，对吧？"
+    },
+    {
+      "id": 96,
+      "start": 279.88,
+      "end": 280.88,
+      "en": "Or like amazing.",
+      "zh": "或者喜欢惊人的。"
+    },
+    {
+      "id": 97,
+      "start": 280.88,
+      "end": 281.2,
+      "en": "Or really.",
+      "zh": "或者真的。"
+    },
+    {
+      "id": 98,
+      "start": 282.08,
+      "end": 283.96,
+      "en": "So if I say, you have mad skills.",
+      "zh": "所以如果我说，你有疯狂的技能。"
+    },
+    {
+      "id": 99,
+      "start": 284.52,
+      "end": 285.5,
+      "en": "You're really good at something.",
+      "zh": "你真的很擅长某事。"
+    },
+    {
+      "id": 100,
+      "start": 286.48,
+      "end": 289.36,
+      "en": "Or you can say, she has a mad amount of shoes.",
+      "zh": "或者你可以说，她有大量的鞋子。"
+    },
+    {
+      "id": 101,
+      "start": 289.36,
+      "end": 289.52,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 102,
+      "start": 290.36,
+      "end": 291.98,
+      "en": "So he's going to get mad props.",
+      "zh": "所以他会得到疯狂的道具。"
+    },
+    {
+      "id": 103,
+      "start": 292.32,
+      "end": 295.02,
+      "en": "Now props is like respect or compliments.",
+      "zh": "现在道具就像尊重或赞美。"
+    },
+    {
+      "id": 104,
+      "start": 295.48,
+      "end": 295.62,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 105,
+      "start": 296.16,
+      "end": 301.7,
+      "en": "So his shoes are so cool that he's going to get a lot of respect or a lot of compliments from his friends.",
+      "zh": "所以他的鞋子太酷了，他会得到很多尊重或朋友的赞美。"
+    },
+    {
+      "id": 106,
+      "start": 302.02,
+      "end": 302.28,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 107,
+      "start": 303.22,
+      "end": 303.6,
+      "en": "Mad props.",
+      "zh": "大力称赞。"
+    },
+    {
+      "id": 108,
+      "start": 304.22,
+      "end": 304.7,
+      "en": "Mad props.",
+      "zh": "大力称赞。"
+    },
+    {
+      "id": 109,
+      "start": 305.62,
+      "end": 312.28,
+      "en": "So they started talking about girls and he mentioned that this girl started tripping.",
+      "zh": "所以他们开始谈论女孩，他提到这个女孩开始绊倒。"
+    },
+    {
+      "id": 110,
+      "start": 312.28,
+      "end": 313.28,
+      "en": "Tripping.",
+      "zh": "绊倒。"
+    },
+    {
+      "id": 111,
+      "start": 313.28,
+      "end": 314.28,
+      "en": "Tripping.",
+      "zh": "绊倒。"
+    },
+    {
+      "id": 112,
+      "start": 314.4,
+      "end": 315.26,
+      "en": "So to trip.",
+      "zh": "所以去旅行。"
+    },
+    {
+      "id": 113,
+      "start": 315.89,
+      "end": 316.29,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 114,
+      "start": 316.84,
+      "end": 318.63,
+      "en": "As you notice, it's trippin'.",
+      "zh": "正如你所注意到的，它是绊倒的。"
+    },
+    {
+      "id": 115,
+      "start": 318.88,
+      "end": 324.53,
+      "en": "It doesn't have the G at the end, which isn't really grammatically correct, but that's kind of the way it's pronounced.",
+      "zh": "它没有最后的 G，这在语法上并不正确，但这就是它的发音方式。"
+    },
+    {
+      "id": 116,
+      "start": 324.64,
+      "end": 325.64,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 117,
+      "start": 325.64,
+      "end": 326.77,
+      "en": "We would never say the G. Right.",
+      "zh": "我们永远不会说 G. 对。"
+    },
+    {
+      "id": 118,
+      "start": 327.44,
+      "end": 329.61,
+      "en": "So if somebody is trippin'.",
+      "zh": "所以如果有人绊倒了。"
+    },
+    {
+      "id": 119,
+      "start": 331.0,
+      "end": 332.3,
+      "en": "They're getting really upset.",
+      "zh": "他们真的很沮丧。"
+    },
+    {
+      "id": 120,
+      "start": 332.3,
+      "end": 333.11,
+      "en": "They're getting really angry.",
+      "zh": "他们真的很生气。"
+    },
+    {
+      "id": 121,
+      "start": 333.75,
+      "end": 333.87,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 122,
+      "start": 334.09,
+      "end": 334.93,
+      "en": "They're causing trouble.",
+      "zh": "他们在制造麻烦。"
+    },
+    {
+      "id": 123,
+      "start": 335.78,
+      "end": 343.0,
+      "en": "So why don't we listen to a couple of examples of how we could use trippin' for different situations.",
+      "zh": "那么，我们为什么不听一些关于如何在不同情况下使用 Trippin' 的例子。"
+    },
+    {
+      "id": 124,
+      "start": 343.0,
+      "end": 345.76,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 125,
+      "start": 345.76,
+      "end": 348.82,
+      "en": "Leanne was trippin' because I got dirt on her car.",
+      "zh": "Leanne 被绊倒了，因为我的车上沾满了污垢。"
+    },
+    {
+      "id": 126,
+      "start": 351.4,
+      "end": 353.88,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 127,
+      "start": 353.88,
+      "end": 360.48,
+      "en": "Even though I apologized for calling her fat, Jeannie was trippin' all night.",
+      "zh": "尽管我为她说她胖而道歉，但珍妮整晚都被绊倒了。"
+    },
+    {
+      "id": 128,
+      "start": 360.48,
+      "end": 363.72,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 129,
+      "start": 363.72,
+      "end": 367.54,
+      "en": "He sent me 43 text messages and called me about 20 times.",
+      "zh": "他给我发了 43 条短信，给我打了大约 20 次。"
+    },
+    {
+      "id": 130,
+      "start": 367.54,
+      "end": 369.19,
+      "en": "That guy is trippin' over me.",
+      "zh": "那家伙被我绊倒了。"
+    },
+    {
+      "id": 131,
+      "start": 370.95,
+      "end": 372.63,
+      "en": "Okay, so that's pretty clear.",
+      "zh": "好吧，这很清楚。"
+    },
+    {
+      "id": 132,
+      "start": 373.61,
+      "end": 374.13,
+      "en": "Trippin'.",
+      "zh": "绊倒。"
+    },
+    {
+      "id": 133,
+      "start": 374.44,
+      "end": 375.44,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 134,
+      "start": 375.44,
+      "end": 377.45,
+      "en": "Now, moving on to our next word.",
+      "zh": "现在，继续我们的下一个词。"
+    },
+    {
+      "id": 135,
+      "start": 378.12,
+      "end": 382.01,
+      "en": "They wanted to go somewhere and he said, come on, let's bounce.",
+      "zh": "他们想去某个地方，他说，来吧，让我们反弹。"
+    },
+    {
+      "id": 136,
+      "start": 382.43,
+      "end": 382.87,
+      "en": "Let's bounce.",
+      "zh": "我们走吧。"
+    },
+    {
+      "id": 137,
+      "start": 383.37,
+      "end": 383.89,
+      "en": "Let's bounce.",
+      "zh": "我们走吧。"
+    },
+    {
+      "id": 138,
+      "start": 384.09,
+      "end": 384.63,
+      "en": "I'm gonna bounce.",
+      "zh": "我要弹跳。"
+    },
+    {
+      "id": 139,
+      "start": 385.23,
+      "end": 388.37,
+      "en": "Now, bounce basically means let's leave.",
+      "zh": "现在，Bounce 基本上意味着让我们离开。"
+    },
+    {
+      "id": 140,
+      "start": 388.81,
+      "end": 388.97,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 141,
+      "start": 389.13,
+      "end": 389.87,
+      "en": "Let's get out of here.",
+      "zh": "让我们离开这里。"
+    },
+    {
+      "id": 142,
+      "start": 390.03,
+      "end": 394.29,
+      "en": "But we might be more familiar with this word as in like a ball, right?",
+      "zh": "但我们可能更熟悉这个词，就像一个球一样，对吧？"
+    },
+    {
+      "id": 143,
+      "start": 394.4,
+      "end": 396.13,
+      "en": "A ball bounces off the floor.",
+      "zh": "一个球从地板上弹起。"
+    },
+    {
+      "id": 144,
+      "start": 396.8,
+      "end": 396.95,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 145,
+      "start": 397.8,
+      "end": 398.89,
+      "en": "So I guess it's kind of the same.",
+      "zh": "所以我想这是一样的。"
+    },
+    {
+      "id": 146,
+      "start": 399.04,
+      "end": 401.29,
+      "en": "You kind of bounce off the floor and leave that place.",
+      "zh": "你有点从地板上弹下来，然后离开那个地方。"
+    },
+    {
+      "id": 147,
+      "start": 401.55,
+      "end": 401.75,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 148,
+      "start": 402.17,
+      "end": 402.77,
+      "en": "Let's bounce.",
+      "zh": "我们走吧。"
+    },
+    {
+      "id": 149,
+      "start": 403.37,
+      "end": 405.15,
+      "en": "Okay, so for our final word.",
+      "zh": "好吧，我们的最后一句话。"
+    },
+    {
+      "id": 150,
+      "start": 405.21,
+      "end": 411.33,
+      "en": "Now, this guy who got a bad mark on his paper, he was nervous about what his dad would say, right?",
+      "zh": "现在，这个在他的报纸上有不好的人的人，他对他父亲会说什么感到紧张，对吧？"
+    },
+    {
+      "id": 151,
+      "start": 411.69,
+      "end": 412.03,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 152,
+      "start": 412.53,
+      "end": 414.83,
+      "en": "Because his dad was going to go postal.",
+      "zh": "因为他爸爸要去邮政。"
+    },
+    {
+      "id": 153,
+      "start": 415.65,
+      "end": 418.33,
+      "en": "He said, my dad is gonna go postal.",
+      "zh": "他说，我爸要去邮寄。"
+    },
+    {
+      "id": 154,
+      "start": 418.92,
+      "end": 419.55,
+      "en": "To go postal.",
+      "zh": "去邮政。"
+    },
+    {
+      "id": 155,
+      "start": 420.13,
+      "end": 422.31,
+      "en": "Now, if you go postal, it means you go crazy.",
+      "zh": "现在，如果你去邮政，这意味着你会发疯。"
+    },
+    {
+      "id": 156,
+      "start": 422.83,
+      "end": 424.15,
+      "en": "Yeah, you really freak out.",
+      "zh": "是的，你真的吓坏了。"
+    },
+    {
+      "id": 157,
+      "start": 424.41,
+      "end": 426.11,
+      "en": "You get very angry.",
+      "zh": "你会很生气。"
+    },
+    {
+      "id": 158,
+      "start": 426.2,
+      "end": 428.32,
+      "en": "Yeah, like really angry.",
+      "zh": "是的，真的很生气。"
+    },
+    {
+      "id": 159,
+      "start": 428.32,
+      "end": 442.3,
+      "en": "This word comes from the 90s because during a time, it was very common in the United States that postal workers, mailmen, were going a little bit crazy and they started shooting people and delivering some strange packages.",
+      "zh": "这个词来自 90 年代，因为在美国，邮政工人、邮递员有点疯狂，他们开始射人并运送一些奇怪的包裹是很常见的。"
+    },
+    {
+      "id": 160,
+      "start": 442.8,
+      "end": 449.48,
+      "en": "Well, I guess so people who work in the post office maybe don't have the most exciting jobs and that drives them a little crazy.",
+      "zh": "好吧，我想在邮局工作的人可能没有最令人兴奋的工作，这让他们有点发疯。"
+    },
+    {
+      "id": 161,
+      "start": 449.68,
+      "end": 450.2,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 162,
+      "start": 451.32,
+      "end": 454.36,
+      "en": "But now they have a term named after them.",
+      "zh": "但现在他们有一个以他们命名的术语。"
+    },
+    {
+      "id": 163,
+      "start": 454.36,
+      "end": 455.36,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 164,
+      "start": 455.36,
+      "end": 458.02,
+      "en": "So why don't we listen to our dialogue for the second time?",
+      "zh": "那么我们为什么不第二次听我们的对话呢？"
+    },
+    {
+      "id": 165,
+      "start": 458.24,
+      "end": 460.84,
+      "en": "We're going to slow it down a little bit and then we'll come back.",
+      "zh": "我们要慢一点，然后我们会回来。"
+    },
+    {
+      "id": 166,
+      "start": 465.71,
+      "end": 467.29,
+      "en": "Hey, Four Eyes.",
+      "zh": "嘿，四眼仔。"
+    },
+    {
+      "id": 167,
+      "start": 468.01,
+      "end": 468.73,
+      "en": "What's up, man?",
+      "zh": "嘿，伙计，最近怎么样？"
+    },
+    {
+      "id": 168,
+      "start": 469.43,
+      "end": 470.25,
+      "en": "How have you been?",
+      "zh": "你最近怎么样？"
+    },
+    {
+      "id": 169,
+      "start": 470.85,
+      "end": 471.89,
+      "en": "Not bad.",
+      "zh": "还不错。"
+    },
+    {
+      "id": 170,
+      "start": 472.53,
+      "end": 474.99,
+      "en": "Just went to the mall and picked up some junk.",
+      "zh": "刚去商场买了些杂七杂八的东西。"
+    },
+    {
+      "id": 171,
+      "start": 475.56,
+      "end": 476.94,
+      "en": "Check out my new Adidas.",
+      "zh": "看看我的新阿迪达斯。"
+    },
+    {
+      "id": 172,
+      "start": 477.66,
+      "end": 478.78,
+      "en": "Those are dope.",
+      "zh": "那些东西真酷。"
+    },
+    {
+      "id": 173,
+      "start": 479.8,
+      "end": 483.46,
+      "en": "You are going to be getting mad props from the gang, man.",
+      "zh": "哥们，那帮朋友肯定会对你赞不绝口的。"
+    },
+    {
+      "id": 174,
+      "start": 484.36,
+      "end": 486.56,
+      "en": "Anyways, have you seen Betty lately?",
+      "zh": "不管怎样，你最近见过贝蒂吗？"
+    },
+    {
+      "id": 175,
+      "start": 487.32,
+      "end": 489.24,
+      "en": "Dude, don't even go there.",
+      "zh": "伙计，甚至不要去那里。"
+    },
+    {
+      "id": 176,
+      "start": 490.08,
+      "end": 494.06,
+      "en": "That girl started tripping because I went to the movies with Veronica the other day.",
+      "zh": "前几天我和维罗妮卡去看电影，那女孩就大发脾气。"
+    },
+    {
+      "id": 177,
+      "start": 494.68,
+      "end": 499.0,
+      "en": "I was like, look, you knew how I was before you got with me.",
+      "zh": "我就说，听着，你跟我在一起之前就知道我是什么样的人。"
+    },
+    {
+      "id": 178,
+      "start": 499.88,
+      "end": 500.16,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 179,
+      "start": 500.88,
+      "end": 502.44,
+      "en": "You are such a player, man.",
+      "zh": "你就是这样的球员，伙计。"
+    },
+    {
+      "id": 180,
+      "start": 503.36,
+      "end": 504.7,
+      "en": "Dude, there's Mad Max.",
+      "zh": "伙计，那是 Mad Max。"
+    },
+    {
+      "id": 181,
+      "start": 505.56,
+      "end": 506.3,
+      "en": "Let's go say hi.",
+      "zh": "我们去打个招呼。"
+    },
+    {
+      "id": 182,
+      "start": 506.56,
+      "end": 507.56,
+      "en": "Max, what's up?",
+      "zh": "麦克斯，怎么了？"
+    },
+    {
+      "id": 183,
+      "start": 509.41,
+      "end": 510.51,
+      "en": "Are you okay?",
+      "zh": "你还好吗？"
+    },
+    {
+      "id": 184,
+      "start": 511.09,
+      "end": 513.01,
+      "en": "You look like you just saw a ghost.",
+      "zh": "你看起来就像刚刚看到了一个鬼。"
+    },
+    {
+      "id": 185,
+      "start": 514.41,
+      "end": 516.25,
+      "en": "I got an F in English class.",
+      "zh": "我英语得了个 F，不及格。"
+    },
+    {
+      "id": 186,
+      "start": 516.85,
+      "end": 517.79,
+      "en": "My life is over.",
+      "zh": "我的人生完了。"
+    },
+    {
+      "id": 187,
+      "start": 518.47,
+      "end": 520.65,
+      "en": "Dude, you're over it.",
+      "zh": "伙计，你太紧张了。"
+    },
+    {
+      "id": 188,
+      "start": 521.03,
+      "end": 524.67,
+      "en": "You need to lay off the books for a while and have some fun.",
+      "zh": "你得暂时放下书本，出去玩玩。"
+    },
+    {
+      "id": 189,
+      "start": 525.07,
+      "end": 526.89,
+      "en": "Come on, let's bounce.",
+      "zh": "来吧，我们走。"
+    },
+    {
+      "id": 190,
+      "start": 527.47,
+      "end": 528.25,
+      "en": "Where are we going?",
+      "zh": "我们要去哪儿？"
+    },
+    {
+      "id": 191,
+      "start": 528.93,
+      "end": 529.41,
+      "en": "Oh, crap.",
+      "zh": "哦，糟了。"
+    },
+    {
+      "id": 192,
+      "start": 530.2,
+      "end": 533.56,
+      "en": "My dad is going to go postal when he finds out about this.",
+      "zh": "我爸要是知道了，肯定会大发雷霆。"
+    },
+    {
+      "id": 193,
+      "start": 533.56,
+      "end": 539.08,
+      "en": "I'm going to open a can of whoop-ass on you if you don't come with me right now.",
+      "zh": "如果你现在不和我一起来，我会在你身上打开一罐大喊大叫。"
+    },
+    {
+      "id": 194,
+      "start": 539.08,
+      "end": 539.83,
+      "en": "Okay, okay.",
+      "zh": "好，好。"
+    },
+    {
+      "id": 195,
+      "start": 540.45,
+      "end": 540.75,
+      "en": "Jeez.",
+      "zh": "天哪。"
+    },
+    {
+      "id": 196,
+      "start": 544.79,
+      "end": 547.83,
+      "en": "Okay, so I think that was a little easier to understand.",
+      "zh": "好的，所以我认为这更容易理解。"
+    },
+    {
+      "id": 197,
+      "start": 548.41,
+      "end": 552.53,
+      "en": "You know, we've got a lot of pretty strange words and phrases, some interesting slang.",
+      "zh": "你知道，我们有很多非常奇怪的单词和短语，一些有趣的俚语。"
+    },
+    {
+      "id": 198,
+      "start": 553.09,
+      "end": 557.73,
+      "en": "Yeah, and I want to take a look at this slang now, so let's get started with Fluency Builder.",
+      "zh": "是的，我现在想看看这个俚语，所以让我们开始使用 Fluency Builder。"
+    },
+    {
+      "id": 199,
+      "start": 558.96,
+      "end": 559.8,
+      "en": "Fluency Builder.",
+      "zh": "流利表达。"
+    },
+    {
+      "id": 200,
+      "start": 560.47,
+      "end": 565.33,
+      "en": "Okay, so the guy with the new shoes, he asked his friends, have you seen Betty lately, right?",
+      "zh": "好吧，那个穿新鞋的人，他问他的朋友们，你最近见过贝蒂，对吧？"
+    },
+    {
+      "id": 201,
+      "start": 565.61,
+      "end": 565.95,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 202,
+      "start": 566.25,
+      "end": 569.37,
+      "en": "And his friend replied, don't even go there.",
+      "zh": "他的朋友回答说，甚至不要去那里。"
+    },
+    {
+      "id": 203,
+      "start": 569.63,
+      "end": 569.77,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 204,
+      "start": 570.68,
+      "end": 572.8,
+      "en": "And he said, dude, don't even go there.",
+      "zh": "他说，伙计，甚至不要去那里。"
+    },
+    {
+      "id": 205,
+      "start": 572.8,
+      "end": 573.45,
+      "en": "Don't even go there.",
+      "zh": "甚至不要去那里。"
+    },
+    {
+      "id": 206,
+      "start": 573.84,
+      "end": 576.21,
+      "en": "So what does he mean when he says, don't even go there?",
+      "zh": "那么当他说，甚至不要去那里时，他是什么意思？"
+    },
+    {
+      "id": 207,
+      "start": 576.49,
+      "end": 577.95,
+      "en": "He means, don't talk about it.",
+      "zh": "他的意思是，不要谈论它。"
+    },
+    {
+      "id": 208,
+      "start": 578.07,
+      "end": 579.43,
+      "en": "I don't want to talk about it.",
+      "zh": "我不想谈论它。"
+    },
+    {
+      "id": 209,
+      "start": 579.57,
+      "end": 579.75,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 210,
+      "start": 580.05,
+      "end": 581.49,
+      "en": "Don't even touch that subject.",
+      "zh": "甚至不要碰那个话题。"
+    },
+    {
+      "id": 211,
+      "start": 581.71,
+      "end": 582.41,
+      "en": "Don't even mention it.",
+      "zh": "甚至不要提及它。"
+    },
+    {
+      "id": 212,
+      "start": 582.76,
+      "end": 583.76,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 213,
+      "start": 583.76,
+      "end": 589.89,
+      "en": "So if somebody wants to talk about a topic that you think is sensitive or you don't want to talk about, just say, hey, don't even go there.",
+      "zh": "因此，如果有人想谈论您认为敏感或不想谈论的话题，请说，嘿，甚至不要去那里。"
+    },
+    {
+      "id": 214,
+      "start": 590.16,
+      "end": 592.75,
+      "en": "So Marco, what do you think about the new tax law?",
+      "zh": "那么马可，您如何看待新的税法？"
+    },
+    {
+      "id": 215,
+      "start": 593.6,
+      "end": 594.21,
+      "en": "Don't even go there.",
+      "zh": "甚至不要去那里。"
+    },
+    {
+      "id": 216,
+      "start": 594.6,
+      "end": 596.28,
+      "en": "I don't even want to talk about politics.",
+      "zh": "我什至不想谈论政治。"
+    },
+    {
+      "id": 217,
+      "start": 596.47,
+      "end": 596.77,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 218,
+      "start": 597.09,
+      "end": 603.65,
+      "en": "I think that's a really actually quite helpful phrase to avoid talking about an uncomfortable subject.",
+      "zh": "我认为这实际上是一个非常有用的短语，可以避免谈论一个不舒服的话题。"
+    },
+    {
+      "id": 219,
+      "start": 604.03,
+      "end": 604.31,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 220,
+      "start": 604.65,
+      "end": 606.29,
+      "en": "So he said, don't even go there.",
+      "zh": "所以他说，甚至不要去那里。"
+    },
+    {
+      "id": 221,
+      "start": 606.37,
+      "end": 609.13,
+      "en": "And he started talking about the girl and she was tripping.",
+      "zh": "他开始谈论那个女孩，她正在绊倒。"
+    },
+    {
+      "id": 222,
+      "start": 609.83,
+      "end": 611.15,
+      "en": "And then he said something interesting.",
+      "zh": "然后他说了一些有趣的话。"
+    },
+    {
+      "id": 223,
+      "start": 611.91,
+      "end": 616.61,
+      "en": "He said, I was like, look, you knew how I was before you got with me.",
+      "zh": "他说，我就像，看，在你和我在一起之前，你知道我的情况。"
+    },
+    {
+      "id": 224,
+      "start": 617.0,
+      "end": 618.5,
+      "en": "Yeah, I really like this phrase.",
+      "zh": "是的，我真的很喜欢这句话。"
+    },
+    {
+      "id": 225,
+      "start": 618.94,
+      "end": 621.24,
+      "en": "Now, I want to focus on the first part.",
+      "zh": "现在，我想专注于第一部分。"
+    },
+    {
+      "id": 226,
+      "start": 621.76,
+      "end": 622.68,
+      "en": "I was like.",
+      "zh": "我当时就说……"
+    },
+    {
+      "id": 227,
+      "start": 623.06,
+      "end": 623.74,
+      "en": "I was like.",
+      "zh": "我当时就说……"
+    },
+    {
+      "id": 228,
+      "start": 624.26,
+      "end": 624.9,
+      "en": "I was like.",
+      "zh": "我当时就说……"
+    },
+    {
+      "id": 229,
+      "start": 625.26,
+      "end": 633.08,
+      "en": "Now, you might hear a lot of native English speakers use these three words before they start telling you what they said.",
+      "zh": "现在，您可能会听到很多以英语为母语的人在开始告诉您他们所说的内容之前使用这三个词。"
+    },
+    {
+      "id": 230,
+      "start": 633.96,
+      "end": 638.28,
+      "en": "So it's like saying, I said or I told him.",
+      "zh": "所以这就像说，我说或我告诉他。"
+    },
+    {
+      "id": 231,
+      "start": 638.28,
+      "end": 639.28,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 232,
+      "start": 639.28,
+      "end": 645.08,
+      "en": "So this actually is really common, especially with people under the age of 30.",
+      "zh": "所以这实际上很常见，尤其是对于30岁以下的人。"
+    },
+    {
+      "id": 233,
+      "start": 645.08,
+      "end": 649.48,
+      "en": "So why don't we hear a few more examples of how it's used now.",
+      "zh": "那么我们为什么不听听更多关于它现在如何使用的例子。"
+    },
+    {
+      "id": 234,
+      "start": 649.48,
+      "end": 649.79,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 235,
+      "start": 652.0,
+      "end": 653.32,
+      "en": "This guy caused a car accident.",
+      "zh": "这家伙造成了车祸。"
+    },
+    {
+      "id": 236,
+      "start": 653.56,
+      "end": 655.24,
+      "en": "I was like, you idiot.",
+      "zh": "我就像，你这个白痴。"
+    },
+    {
+      "id": 237,
+      "start": 655.24,
+      "end": 657.16,
+      "en": "You can kill people by driving like that.",
+      "zh": "你可以这样开车杀人。"
+    },
+    {
+      "id": 238,
+      "start": 659.4,
+      "end": 661.96,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 239,
+      "start": 661.96,
+      "end": 663.62,
+      "en": "And then I was like, I hate you.",
+      "zh": "然后我就像，我恨你。"
+    },
+    {
+      "id": 240,
+      "start": 664.12,
+      "end": 665.82,
+      "en": "And she was all like, I hate you more.",
+      "zh": "她就像，我更恨你。"
+    },
+    {
+      "id": 241,
+      "start": 667.88,
+      "end": 668.26,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 242,
+      "start": 670.88,
+      "end": 674.95,
+      "en": "I told the teacher that I didn't finish my homework and he was like, I'll see you after school.",
+      "zh": "我告诉老师我没有完成我的作业，他说，放学后见。"
+    },
+    {
+      "id": 243,
+      "start": 677.36,
+      "end": 685.21,
+      "en": "So if you're telling a story or you're maybe talking to somebody and you want to explain what you said, you can say, I was like, hey, what are you doing?",
+      "zh": "所以如果你在讲故事，或者你可能在和某人说话，你想解释你说的话，你可以说，我就像，嘿，你在做什么？"
+    },
+    {
+      "id": 244,
+      "start": 685.44,
+      "end": 686.19,
+      "en": "And she was like, what?",
+      "zh": "她就像，什么？"
+    },
+    {
+      "id": 245,
+      "start": 686.76,
+      "end": 691.23,
+      "en": "So you can have an entire dialogue based with I was like, she was like, we were like.",
+      "zh": "所以你可以和我有一个完整的对话，她就像，我们就像。"
+    },
+    {
+      "id": 246,
+      "start": 691.96,
+      "end": 692.96,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 247,
+      "start": 692.96,
+      "end": 695.19,
+      "en": "So I was like, it's super, super useful.",
+      "zh": "所以我想，它超级，超级有用。"
+    },
+    {
+      "id": 248,
+      "start": 695.68,
+      "end": 696.47,
+      "en": "So now our next word.",
+      "zh": "所以现在我们的下一个词。"
+    },
+    {
+      "id": 249,
+      "start": 696.68,
+      "end": 703.39,
+      "en": "Now, they saw their friend who got the bad marking in school and the guy said, dude, get over it.",
+      "zh": "现在，他们看到他们的朋友在学校得到了不好的标记，那家伙说，伙计，克服它。"
+    },
+    {
+      "id": 250,
+      "start": 704.28,
+      "end": 704.89,
+      "en": "Get over it.",
+      "zh": "别再纠结了。"
+    },
+    {
+      "id": 251,
+      "start": 705.28,
+      "end": 705.65,
+      "en": "Get over it.",
+      "zh": "别再纠结了。"
+    },
+    {
+      "id": 252,
+      "start": 706.4,
+      "end": 708.62,
+      "en": "So if somebody tells you to get over it.",
+      "zh": "所以如果有人告诉你克服它。"
+    },
+    {
+      "id": 253,
+      "start": 709.56,
+      "end": 710.38,
+      "en": "Stop worrying about it.",
+      "zh": "别担心它。"
+    },
+    {
+      "id": 254,
+      "start": 711.0,
+      "end": 712.0,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 255,
+      "start": 712.0,
+      "end": 713.4,
+      "en": "Or stop thinking about it.",
+      "zh": "或者停止思考它。"
+    },
+    {
+      "id": 256,
+      "start": 713.4,
+      "end": 714.4,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 257,
+      "start": 714.4,
+      "end": 719.83,
+      "en": "So if somebody is sad because maybe his girlfriend broke up with him, you would say, get over it.",
+      "zh": "所以如果有人因为他的女朋友和他分手而感到难过，你会说，克服它。"
+    },
+    {
+      "id": 258,
+      "start": 720.64,
+      "end": 721.05,
+      "en": "Stop thinking about it.",
+      "zh": "别再想了。"
+    },
+    {
+      "id": 259,
+      "start": 721.64,
+      "end": 722.64,
+      "en": "Let it go.",
+      "zh": "放手。"
+    },
+    {
+      "id": 260,
+      "start": 722.64,
+      "end": 723.64,
+      "en": "It's in the past.",
+      "zh": "这是过去的。"
+    },
+    {
+      "id": 261,
+      "start": 723.64,
+      "end": 724.64,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 262,
+      "start": 724.64,
+      "end": 730.76,
+      "en": "And you commonly use this for when somebody is upset about a small thing, something they shouldn't worry about.",
+      "zh": "当有人对一件小事感到不安时，你通常会用它来做他们不应该担心的事情。"
+    },
+    {
+      "id": 263,
+      "start": 730.76,
+      "end": 731.23,
+      "en": "Get over it.",
+      "zh": "别再纠结了。"
+    },
+    {
+      "id": 264,
+      "start": 731.76,
+      "end": 732.76,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 265,
+      "start": 732.76,
+      "end": 733.33,
+      "en": "Now, why don't we go on to our final word?",
+      "zh": "现在，我们为什么不继续我们的最后一句话？"
+    },
+    {
+      "id": 266,
+      "start": 733.76,
+      "end": 737.77,
+      "en": "At the end of the dialogue, they said, I'm going to open a can of whoop ass.",
+      "zh": "在对话结束时，他们说，我要打开一罐大喊大叫。"
+    },
+    {
+      "id": 267,
+      "start": 738.2,
+      "end": 738.49,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 268,
+      "start": 738.59,
+      "end": 741.77,
+      "en": "So to open a can of whoop ass on somebody.",
+      "zh": "所以要对某人打开一罐大喊大叫。"
+    },
+    {
+      "id": 269,
+      "start": 742.09,
+      "end": 743.47,
+      "en": "To open a can of whoop ass.",
+      "zh": "打开一罐大喊大叫。"
+    },
+    {
+      "id": 270,
+      "start": 743.81,
+      "end": 746.47,
+      "en": "So again, let's break this down before we explain it.",
+      "zh": "再说一次，让我们在解释之前分解一下。"
+    },
+    {
+      "id": 271,
+      "start": 746.68,
+      "end": 746.94,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 272,
+      "start": 747.1,
+      "end": 748.98,
+      "en": "I think we have to take one step back here.",
+      "zh": "我认为我们必须在这里退一步。"
+    },
+    {
+      "id": 273,
+      "start": 749.62,
+      "end": 753.28,
+      "en": "To whoop someone's ass is to beat them up, right?",
+      "zh": "对某人的屁股大喊大叫是为了殴打他们，对吧？"
+    },
+    {
+      "id": 274,
+      "start": 753.76,
+      "end": 754.76,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 275,
+      "start": 754.76,
+      "end": 755.76,
+      "en": "To punch them and hurt them.",
+      "zh": "打他们并伤害他们。"
+    },
+    {
+      "id": 276,
+      "start": 755.76,
+      "end": 755.96,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 277,
+      "start": 756.08,
+      "end": 757.7,
+      "en": "So to whoop somebody's ass.",
+      "zh": "所以要呼呼某人的屁股。"
+    },
+    {
+      "id": 278,
+      "start": 758.64,
+      "end": 761.8,
+      "en": "So if I open a can of whoop ass, what does that mean?",
+      "zh": "那么，如果我打开一罐 Whoop Ass，那是什么意思？"
+    },
+    {
+      "id": 279,
+      "start": 761.8,
+      "end": 763.8,
+      "en": "It means you're going to beat them up.",
+      "zh": "这意味着你要打败他们。"
+    },
+    {
+      "id": 280,
+      "start": 763.8,
+      "end": 770.22,
+      "en": "So it's just a funny, very informal way of saying like, in this can, I'm going to open it and I'm going to start hitting you or something like that.",
+      "zh": "所以这只是一种有趣、非常非正式的说法，比如，在这个罐头里，我要打开它，我将开始打你或类似的东西。"
+    },
+    {
+      "id": 281,
+      "start": 770.52,
+      "end": 773.86,
+      "en": "Some sort of small man is going to jump out of the can and start hitting you.",
+      "zh": "某种小人会从罐子里跳出来开始打你。"
+    },
+    {
+      "id": 282,
+      "start": 774.52,
+      "end": 775.52,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 283,
+      "start": 775.52,
+      "end": 776.48,
+      "en": "But it's never literal.",
+      "zh": "但它从来都不是字面的。"
+    },
+    {
+      "id": 284,
+      "start": 777.04,
+      "end": 779.14,
+      "en": "It's not like you're actually going to beat somebody up.",
+      "zh": "这不像你真的会打人。"
+    },
+    {
+      "id": 285,
+      "start": 779.86,
+      "end": 780.86,
+      "en": "It's just kind of like a joke.",
+      "zh": "这有点像一个笑话。"
+    },
+    {
+      "id": 286,
+      "start": 780.86,
+      "end": 781.86,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 287,
+      "start": 781.86,
+      "end": 782.86,
+      "en": "It's an empty threat.",
+      "zh": "这是一个空洞的威胁。"
+    },
+    {
+      "id": 288,
+      "start": 782.86,
+      "end": 783.86,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 289,
+      "start": 783.86,
+      "end": 784.86,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 290,
+      "start": 784.86,
+      "end": 786.86,
+      "en": "So some really interesting words and phrases in this dialogue.",
+      "zh": "所以在这个对话中有一些非常有趣的单词和短语。"
+    },
+    {
+      "id": 291,
+      "start": 787.12,
+      "end": 793.38,
+      "en": "I think we should listen to it for the last time and then we'll come back and talk a little bit more about this great decade.",
+      "zh": "我认为我们应该最后一次听它，然后我们会回来再谈谈这个伟大的十年。"
+    },
+    {
+      "id": 292,
+      "start": 808.94,
+      "end": 810.4,
+      "en": "Hey, Four Eyes.",
+      "zh": "嘿，四眼仔。"
+    },
+    {
+      "id": 293,
+      "start": 811.36,
+      "end": 811.88,
+      "en": "What's up, man?",
+      "zh": "嘿，伙计，最近怎么样？"
+    },
+    {
+      "id": 294,
+      "start": 812.64,
+      "end": 813.46,
+      "en": "How have you been?",
+      "zh": "你最近怎么样？"
+    },
+    {
+      "id": 295,
+      "start": 813.88,
+      "end": 814.78,
+      "en": "Not bad.",
+      "zh": "还不错。"
+    },
+    {
+      "id": 296,
+      "start": 815.56,
+      "end": 817.84,
+      "en": "Just went to the mall and picked up some junk.",
+      "zh": "刚去商场买了些杂七杂八的东西。"
+    },
+    {
+      "id": 297,
+      "start": 818.3,
+      "end": 819.62,
+      "en": "Check out my new Adidas.",
+      "zh": "看看我的新阿迪达斯。"
+    },
+    {
+      "id": 298,
+      "start": 820.38,
+      "end": 821.34,
+      "en": "Those are dope.",
+      "zh": "那些东西真酷。"
+    },
+    {
+      "id": 299,
+      "start": 822.36,
+      "end": 826.02,
+      "en": "You are going to be getting mad props from the gang, man.",
+      "zh": "哥们，那帮朋友肯定会对你赞不绝口的。"
+    },
+    {
+      "id": 300,
+      "start": 827.0,
+      "end": 829.05,
+      "en": "Anyways, have you seen Betty lately?",
+      "zh": "不管怎样，你最近见过贝蒂吗？"
+    },
+    {
+      "id": 301,
+      "start": 829.88,
+      "end": 832.64,
+      "en": "Dude, don't even go there.",
+      "zh": "伙计，甚至不要去那里。"
+    },
+    {
+      "id": 302,
+      "start": 832.64,
+      "end": 836.63,
+      "en": "That girl started tripping because I went to the movies with Veronica the other day.",
+      "zh": "前几天我和维罗妮卡去看电影，那女孩就大发脾气。"
+    },
+    {
+      "id": 303,
+      "start": 837.24,
+      "end": 841.57,
+      "en": "I was like, look, you knew how I was before you got with me.",
+      "zh": "我就说，听着，你跟我在一起之前就知道我是什么样的人。"
+    },
+    {
+      "id": 304,
+      "start": 842.44,
+      "end": 842.71,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 305,
+      "start": 843.44,
+      "end": 846.04,
+      "en": "You are such a player, man.",
+      "zh": "你就是这样的球员，伙计。"
+    },
+    {
+      "id": 306,
+      "start": 846.04,
+      "end": 847.29,
+      "en": "Dude, there's Mad Max.",
+      "zh": "伙计，那是 Mad Max。"
+    },
+    {
+      "id": 307,
+      "start": 848.12,
+      "end": 848.89,
+      "en": "Let's go say hi.",
+      "zh": "我们去打个招呼。"
+    },
+    {
+      "id": 308,
+      "start": 851.08,
+      "end": 853.04,
+      "en": "Max, what's up?",
+      "zh": "麦克斯，怎么了？"
+    },
+    {
+      "id": 309,
+      "start": 853.04,
+      "end": 853.5,
+      "en": "Are you okay?",
+      "zh": "你还好吗？"
+    },
+    {
+      "id": 310,
+      "start": 854.24,
+      "end": 855.66,
+      "en": "You look like you just saw a ghost.",
+      "zh": "你看起来就像刚刚看到了一个鬼。"
+    },
+    {
+      "id": 311,
+      "start": 856.2,
+      "end": 857.86,
+      "en": "I got an F in English class.",
+      "zh": "我英语得了个 F，不及格。"
+    },
+    {
+      "id": 312,
+      "start": 858.42,
+      "end": 859.42,
+      "en": "My life is over.",
+      "zh": "我的人生完了。"
+    },
+    {
+      "id": 313,
+      "start": 859.96,
+      "end": 862.48,
+      "en": "Dude, you're over it.",
+      "zh": "伙计，你太紧张了。"
+    },
+    {
+      "id": 314,
+      "start": 862.48,
+      "end": 865.76,
+      "en": "You need to lay off the books for a while and have some fun.",
+      "zh": "你得暂时放下书本，出去玩玩。"
+    },
+    {
+      "id": 315,
+      "start": 866.6,
+      "end": 867.96,
+      "en": "Come on, let's bounce.",
+      "zh": "来吧，我们走。"
+    },
+    {
+      "id": 316,
+      "start": 868.88,
+      "end": 869.32,
+      "en": "Where are we going?",
+      "zh": "我们要去哪儿？"
+    },
+    {
+      "id": 317,
+      "start": 870.04,
+      "end": 870.5,
+      "en": "Oh, crap.",
+      "zh": "哦，糟了。"
+    },
+    {
+      "id": 318,
+      "start": 870.88,
+      "end": 874.6,
+      "en": "My dad is going to go postal when he finds out about this.",
+      "zh": "我爸要是知道了，肯定会大发雷霆。"
+    },
+    {
+      "id": 319,
+      "start": 874.6,
+      "end": 880.0,
+      "en": "I'm going to open a can of whoop-ass on you if you don't come with me right now.",
+      "zh": "如果你现在不和我一起来，我会在你身上打开一罐大喊大叫。"
+    },
+    {
+      "id": 320,
+      "start": 880.18,
+      "end": 881.0,
+      "en": "Okay, okay.",
+      "zh": "好，好。"
+    },
+    {
+      "id": 321,
+      "start": 881.0,
+      "end": 882.0,
+      "en": "Geez.",
+      "zh": "天哪。"
+    },
+    {
+      "id": 322,
+      "start": 891.49,
+      "end": 896.13,
+      "en": "Well, Marco, in the dialogue, I heard one of the guys say, what's up?",
+      "zh": "好吧，马可，在对话中，我听到其中一位人说，怎么了？"
+    },
+    {
+      "id": 323,
+      "start": 896.31,
+      "end": 898.47,
+      "en": "But he said it in a really strange way, didn't he?",
+      "zh": "但他说的很奇怪，不是吗？"
+    },
+    {
+      "id": 324,
+      "start": 899.01,
+      "end": 899.45,
+      "en": "Yeah, exactly.",
+      "zh": "对，没错。"
+    },
+    {
+      "id": 325,
+      "start": 899.83,
+      "end": 900.93,
+      "en": "He said, what's up?",
+      "zh": "他说，怎么了？"
+    },
+    {
+      "id": 326,
+      "start": 901.45,
+      "end": 901.91,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 327,
+      "start": 902.15,
+      "end": 903.91,
+      "en": "So what's up with that?",
+      "zh": "那么这是怎么回事？"
+    },
+    {
+      "id": 328,
+      "start": 904.39,
+      "end": 910.67,
+      "en": "So in the 90s, it was popular instead of saying what's up, you would just kind of double the S and just say what's up.",
+      "zh": "所以在 90 年代，它很受欢迎，而不是说出了什么，你只会把 S 加倍，然后说出什么来了。"
+    },
+    {
+      "id": 329,
+      "start": 911.36,
+      "end": 916.12,
+      "en": "And then it became very famous with a TV commercial for a certain beer.",
+      "zh": "然后它因某种啤酒的电视广告而变得非常有名。"
+    },
+    {
+      "id": 330,
+      "start": 916.64,
+      "end": 919.88,
+      "en": "And actually, I remember this commercial during the Super Bowl.",
+      "zh": "实际上，我记得在超级碗期间的这个广告。"
+    },
+    {
+      "id": 331,
+      "start": 920.2,
+      "end": 926.68,
+      "en": "They had this big commercial where everyone was saying what's up in this really strange way, right?",
+      "zh": "他们有这个大广告，每个人都以这种非常奇怪的方式说出了什么，对吧？"
+    },
+    {
+      "id": 332,
+      "start": 926.68,
+      "end": 928.66,
+      "en": "It's still used today informally between friends.",
+      "zh": "它今天仍然在朋友之间非正式地使用。"
+    },
+    {
+      "id": 333,
+      "start": 928.96,
+      "end": 930.32,
+      "en": "You'll go ahead, hey, what's up?",
+      "zh": "你会继续，嘿，怎么了？"
+    },
+    {
+      "id": 334,
+      "start": 930.96,
+      "end": 931.26,
+      "en": "What's up?",
+      "zh": "最近怎么样？"
+    },
+    {
+      "id": 335,
+      "start": 931.96,
+      "end": 932.94,
+      "en": "Yeah, you'll use it.",
+      "zh": "是的，你会使用它。"
+    },
+    {
+      "id": 336,
+      "start": 933.18,
+      "end": 936.58,
+      "en": "Yeah, so that commercial made it actually quite cool and famous to talk like that.",
+      "zh": "是的，所以这个广告实际上让它变得很酷而且很有名。"
+    },
+    {
+      "id": 337,
+      "start": 937.04,
+      "end": 942.26,
+      "en": "Actually in SpanishPod, they have a show called Que Pasa, which is like the translation of what's up.",
+      "zh": "实际上，在 Spanishpod 中，他们有一个名为 Que Pasa 的节目，就像 What's Up 的翻译一样。"
+    },
+    {
+      "id": 338,
+      "start": 942.88,
+      "end": 943.88,
+      "en": "Oh, right.",
+      "zh": "哦，对了。"
+    },
+    {
+      "id": 339,
+      "start": 943.88,
+      "end": 947.64,
+      "en": "They start each show with like saying, Que Pasa, but it's exactly the same.",
+      "zh": "他们以 Like Say, que pasa 开始每个节目，但完全相同。"
+    },
+    {
+      "id": 340,
+      "start": 947.64,
+      "end": 949.78,
+      "en": "So maybe it will become popular in Spanish.",
+      "zh": "所以也许它会在西班牙语中流行起来。"
+    },
+    {
+      "id": 341,
+      "start": 950.48,
+      "end": 951.42,
+      "en": "Maybe but I guess only...",
+      "zh": "也许，但我想只有..."
+    },
+    {
+      "id": 342,
+      "start": 952.6,
+      "end": 952.97,
+      "en": "Time will tell.",
+      "zh": "时间会证明。"
+    },
+    {
+      "id": 343,
+      "start": 953.6,
+      "end": 954.6,
+      "en": "Yeah, that's right.",
+      "zh": "对，没错。"
+    },
+    {
+      "id": 344,
+      "start": 954.6,
+      "end": 955.6,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 345,
+      "start": 955.6,
+      "end": 955.89,
+      "en": "So really cool stuff.",
+      "zh": "太酷的东西。"
+    },
+    {
+      "id": 346,
+      "start": 956.6,
+      "end": 958.99,
+      "en": "And as we heard typical music from the 90s.",
+      "zh": "正如我们听到的 90 年代典型的音乐。"
+    },
+    {
+      "id": 347,
+      "start": 959.24,
+      "end": 964.45,
+      "en": "And another interesting thing was the nicknames, Four Eyes, Mad Max, very popular among young kids.",
+      "zh": "另一个有趣的事情是昵称，四眼，疯狂的麦克斯，在小孩中非常受欢迎。"
+    },
+    {
+      "id": 348,
+      "start": 965.16,
+      "end": 972.4,
+      "en": "So remember, if you have any questions about this language or anything else about this lesson, come to our website at EnglishPod.com.",
+      "zh": "所以请记住，如果您对这种语言或本课程有任何其他问题，请访问我们的网站 englishpod.com。"
+    },
+    {
+      "id": 349,
+      "start": 972.89,
+      "end": 973.13,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 350,
+      "start": 973.31,
+      "end": 977.03,
+      "en": "You can leave all your questions and comments there and we hope to see you guys there.",
+      "zh": "您可以将所有问题和评论留在那里，我们希望在那里见到你们。"
+    },
+    {
+      "id": 351,
+      "start": 977.27,
+      "end": 978.95,
+      "en": "So thanks for listening and until next time.",
+      "zh": "所以感谢您的收听，直到下一次。"
+    },
+    {
+      "id": 352,
+      "start": 979.33,
+      "end": 979.53,
+      "en": "Goodbye.",
+      "zh": "再见。"
+    },
+    {
+      "id": 353,
+      "start": 980.16,
+      "end": 988.891,
+      "en": "Bye.",
+      "zh": "再见。"
+    }
+  ],
+  "dialog": {
+    "start": 115.36,
+    "end": 203.08,
+    "segmentIds": [
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71
+    ]
+  }
+}

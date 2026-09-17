@@ -1,0 +1,1844 @@
+{
+  "version": 1,
+  "id": 116,
+  "number": "0116",
+  "title": "The Office - You Missed The Deadline!",
+  "audio": "mp3/116. The Office - You Missed The Deadline!.mp3",
+  "duration": 908.266,
+  "segments": [
+    {
+      "id": 1,
+      "start": 3.28,
+      "end": 3.92,
+      "en": "Hello English learners.",
+      "zh": "各位英语学习者，大家好。"
+    },
+    {
+      "id": 2,
+      "start": 4.32,
+      "end": 7.92,
+      "en": "Welcome back to another advanced lesson here at EnglishPod.",
+      "zh": "欢迎回到 Englishpod 的另一个高级课程。"
+    },
+    {
+      "id": 3,
+      "start": 7.92,
+      "end": 8.44,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 4,
+      "start": 8.74,
+      "end": 9.38,
+      "en": "And I'm Erica.",
+      "zh": "我叫 Erica。"
+    },
+    {
+      "id": 5,
+      "start": 10.0,
+      "end": 12.1,
+      "en": "And today we're going to be back in the office.",
+      "zh": "今天我们要回到办公室。"
+    },
+    {
+      "id": 6,
+      "start": 12.66,
+      "end": 13.04,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 7,
+      "start": 13.44,
+      "end": 20.5,
+      "en": "We are listening in as somebody gets a little bit of trouble from their boss for being a bit late on a project.",
+      "zh": "我们正在倾听，因为有人因为某人在一个项目上有点晚而从他们的老板那里得到了一些麻烦。"
+    },
+    {
+      "id": 8,
+      "start": 21.28,
+      "end": 23.48,
+      "en": "Alright so we're going to be at the office.",
+      "zh": "好吧，我们将在办公室。"
+    },
+    {
+      "id": 9,
+      "start": 23.48,
+      "end": 27.6,
+      "en": "Somebody misses a deadline and so well how do you handle the situation?",
+      "zh": "有人错过了最后期限，那么你如何处理这种情况？"
+    },
+    {
+      "id": 10,
+      "start": 28.16,
+      "end": 30.92,
+      "en": "What can you do to explain yourself?",
+      "zh": "你能做些什么来解释自己？"
+    },
+    {
+      "id": 11,
+      "start": 30.92,
+      "end": 35.3,
+      "en": "And what language can you actually use to talk about missed deadlines and late work?",
+      "zh": "你实际上可以用什么语言来谈论错过的最后期限和迟到的工作？"
+    },
+    {
+      "id": 12,
+      "start": 36.24,
+      "end": 41.76,
+      "en": "Alright so let's see why this person missed the deadline and let's find out what happens.",
+      "zh": "好吧，让我们看看为什么这个人错过了最后期限，让我们看看会发生什么。"
+    },
+    {
+      "id": 13,
+      "start": 51.96,
+      "end": 55.94,
+      "en": "And so I just wanted to check in with you and find out where we are with this project.",
+      "zh": "我想跟你核对一下，了解项目进展到哪儿了。"
+    },
+    {
+      "id": 14,
+      "start": 56.88,
+      "end": 65.68,
+      "en": "As you know, you missed a fairly significant deadline last week and this will negatively impact the team's ability to move forward with the next stages of this project.",
+      "zh": "你上周错过了一个很重要的截止日期，这会拖慢团队推进下一阶段的工作。"
+    },
+    {
+      "id": 15,
+      "start": 66.53,
+      "end": 67.15,
+      "en": "I know.",
+      "zh": "我知道。"
+    },
+    {
+      "id": 16,
+      "start": 67.39,
+      "end": 68.67,
+      "en": "I'm really sorry that I missed the deadline.",
+      "zh": "我真的很抱歉我错过了最后期限。"
+    },
+    {
+      "id": 17,
+      "start": 68.89,
+      "end": 70.55,
+      "en": "But really it wasn't my fault.",
+      "zh": "但实际上这不是我的错。"
+    },
+    {
+      "id": 18,
+      "start": 70.89,
+      "end": 80.27,
+      "en": "You see we had all of these unexpected technical problems at the last minute and I couldn't get into the database and extract the kind of information that I needed for the data analysis.",
+      "zh": "最后关头突然出了不少技术问题，我进不了数据库，也提取不到数据分析需要的信息。"
+    },
+    {
+      "id": 19,
+      "start": 80.85,
+      "end": 87.17,
+      "en": "You know if the tech guys would have done their job and kept the CRM stable then I wouldn't have missed my deadline.",
+      "zh": "要是技术团队做好本职工作，保证客户关系管理系统稳定，我就不会错过期限了。"
+    },
+    {
+      "id": 20,
+      "start": 87.71,
+      "end": 88.65,
+      "en": "Oh come on!",
+      "zh": "得了吧！"
+    },
+    {
+      "id": 21,
+      "start": 89.09,
+      "end": 91.35,
+      "en": "An excuse like that is tantamount to lying.",
+      "zh": "这种借口跟说谎没什么两样。"
+    },
+    {
+      "id": 22,
+      "start": 91.98,
+      "end": 101.14,
+      "en": "You're essentially blaming the tech team for your time management issues rather than accepting responsibility for the fact that you were procrastinating for the past two weeks.",
+      "zh": "你过去两周一直拖延，却把自己的时间管理问题怪到技术团队头上，不肯担责。"
+    },
+    {
+      "id": 23,
+      "start": 101.5,
+      "end": 103.44,
+      "en": "No I'm not trying to pass the buck here.",
+      "zh": "不，我不是想推卸责任。"
+    },
+    {
+      "id": 24,
+      "start": 103.88,
+      "end": 107.1,
+      "en": "I know it was me who was ultimately responsible for getting this done.",
+      "zh": "我知道最终负责完成这项工作的人是我。"
+    },
+    {
+      "id": 25,
+      "start": 107.52,
+      "end": 112.06,
+      "en": "But the thing is I could have finished on time if the system hadn't gone down.",
+      "zh": "可要是系统没有瘫痪，我就能按时做完。"
+    },
+    {
+      "id": 26,
+      "start": 112.68,
+      "end": 117.8,
+      "en": "And you know with everything I've got going on now I can't afford to waste time dealing with technical problems.",
+      "zh": "我现在忙的事太多，实在没时间耗在技术故障上。"
+    },
+    {
+      "id": 27,
+      "start": 118.35,
+      "end": 121.43,
+      "en": "I've got a lot on my plate and there are only 24 hours in a day.",
+      "zh": "我手头的事一大堆，一天却只有二十四小时。"
+    },
+    {
+      "id": 28,
+      "start": 121.83,
+      "end": 123.89,
+      "en": "I'm not going to accept this excuse.",
+      "zh": "我不会接受这个借口。"
+    },
+    {
+      "id": 29,
+      "start": 124.81,
+      "end": 130.63,
+      "en": "You're using these small technical glitches as a crutch and trying to rationalize the fact that you've missed your deadline.",
+      "zh": "你拿这些小技术故障当挡箭牌，替错过截止日期找理由。"
+    },
+    {
+      "id": 30,
+      "start": 131.37,
+      "end": 135.37,
+      "en": "Look we have standards and I expect you to live up to those standards.",
+      "zh": "我们有工作标准，我希望你能达到。"
+    },
+    {
+      "id": 31,
+      "start": 135.99,
+      "end": 137.07,
+      "en": "No more phony excuses.",
+      "zh": "别再编借口了。"
+    },
+    {
+      "id": 32,
+      "start": 138.01,
+      "end": 140.05,
+      "en": "If you're in over your head you tell me.",
+      "zh": "如果工作已经超出你的能力，就告诉我。"
+    },
+    {
+      "id": 33,
+      "start": 140.55,
+      "end": 141.33,
+      "en": "No more missed deadlines.",
+      "zh": "以后不能再误期。"
+    },
+    {
+      "id": 34,
+      "start": 142.16,
+      "end": 153.64,
+      "en": "Now I want that data on my desk by 9 a.m.",
+      "zh": "明早九点前把数据放到我桌上。"
+    },
+    {
+      "id": 35,
+      "start": 153.64,
+      "end": 158.94,
+      "en": "Well it sounds like this guy isn't really accepting a lot of the responsibility for his missed deadline.",
+      "zh": "好吧，听起来这个人并没有真正为他错过的最后期限承担很多责任。"
+    },
+    {
+      "id": 36,
+      "start": 159.74,
+      "end": 160.0,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 37,
+      "start": 160.62,
+      "end": 163.72,
+      "en": "Well apparently he's explaining that it wasn't only his fault.",
+      "zh": "显然他在解释这不仅仅是他的错。"
+    },
+    {
+      "id": 38,
+      "start": 164.16,
+      "end": 165.16,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 39,
+      "start": 165.16,
+      "end": 173.1,
+      "en": "So some technical problems but you know he used a lot of pretty pretty interesting language and I think it'll help us to look at that now in Language Takeaway.",
+      "zh": "所以一些技术问题，但你知道他使用了很多非常有趣的语言，我认为这将有助于我们现在在语言外卖中看到它。"
+    },
+    {
+      "id": 40,
+      "start": 175.04,
+      "end": 175.65,
+      "en": "Language Takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 41,
+      "start": 176.04,
+      "end": 177.04,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 42,
+      "start": 177.04,
+      "end": 181.86,
+      "en": "So on Language Takeaway today we have five words and let's start with the first one.",
+      "zh": "所以在今天的语言外卖中，我们有五个单词，让我们从第一个开始。"
+    },
+    {
+      "id": 43,
+      "start": 182.36,
+      "end": 183.36,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 44,
+      "start": 183.36,
+      "end": 191.78,
+      "en": "Well the boss is not really happy with the excuse that the employee was giving and he said an excuse like that is tantamount to lying.",
+      "zh": "好吧，老板对员工给出的借口并不满意，他说这样的借口等于撒谎。"
+    },
+    {
+      "id": 45,
+      "start": 193.08,
+      "end": 193.3,
+      "en": "Tantamount.",
+      "zh": "无边际。"
+    },
+    {
+      "id": 46,
+      "start": 194.56,
+      "end": 195.42,
+      "en": "Tantamount to something.",
+      "zh": "相当于某事。"
+    },
+    {
+      "id": 47,
+      "start": 196.4,
+      "end": 202.52,
+      "en": "OK so if an excuse like that is tantamount to lying what is what is he trying to say here.",
+      "zh": "好吧，如果这样的借口等于说谎他在这里想说什么。"
+    },
+    {
+      "id": 48,
+      "start": 202.52,
+      "end": 205.05,
+      "en": "Basically it's the same as or it's almost the same as.",
+      "zh": "基本上它与相同或几乎相同。"
+    },
+    {
+      "id": 49,
+      "start": 205.2,
+      "end": 205.81,
+      "en": "So similar to.",
+      "zh": "如此类似。"
+    },
+    {
+      "id": 50,
+      "start": 206.8,
+      "end": 210.21,
+      "en": "So if I say tantamount to something else how would I use it.",
+      "zh": "所以如果我说等于别的东西，我将如何使用它。"
+    },
+    {
+      "id": 51,
+      "start": 210.52,
+      "end": 214.23,
+      "en": "You know Marco taking my computer without asking is tantamount to stealing.",
+      "zh": "你知道马可不问就拿我的电脑无异于偷窃。"
+    },
+    {
+      "id": 52,
+      "start": 214.94,
+      "end": 218.96,
+      "en": "OK so even though I'm not actually stealing it or taking it home with me.",
+      "zh": "好的，即使我实际上并没有偷它或把它带回家。"
+    },
+    {
+      "id": 53,
+      "start": 218.96,
+      "end": 219.96,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 54,
+      "start": 219.96,
+      "end": 221.12,
+      "en": "It is almost like stealing.",
+      "zh": "这几乎就像偷窃一样。"
+    },
+    {
+      "id": 55,
+      "start": 221.12,
+      "end": 222.12,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 56,
+      "start": 222.12,
+      "end": 229.04,
+      "en": "And the interesting grammatical thing here is that we almost always use a gerund right after so tantamount to verb ing.",
+      "zh": "这里有趣的语法是我们几乎总是在等同于动词后立即使用动名词。"
+    },
+    {
+      "id": 57,
+      "start": 229.04,
+      "end": 234.08,
+      "en": "OK tantamount to stealing tantamount to lying tantamount to killing.",
+      "zh": "好吧，等同于偷窃等同于杀戮。"
+    },
+    {
+      "id": 58,
+      "start": 234.08,
+      "end": 235.08,
+      "en": "OK.",
+      "zh": "好的。"
+    },
+    {
+      "id": 59,
+      "start": 235.08,
+      "end": 237.81,
+      "en": "Well on that happy note let's go on to our next word.",
+      "zh": "好吧，在那个快乐的笔记上，让我们继续我们的下一个词。"
+    },
+    {
+      "id": 60,
+      "start": 238.17,
+      "end": 242.83,
+      "en": "Now the boss was really unhappy with the employee for procrastinating.",
+      "zh": "现在老板真的对员工拖延症很不满意。"
+    },
+    {
+      "id": 61,
+      "start": 245.81,
+      "end": 246.39,
+      "en": "Procrastinating.",
+      "zh": "拖延。"
+    },
+    {
+      "id": 62,
+      "start": 246.68,
+      "end": 247.68,
+      "en": "Procrastinating.",
+      "zh": "拖延。"
+    },
+    {
+      "id": 63,
+      "start": 247.68,
+      "end": 248.57,
+      "en": "So the verb is to procrastinate.",
+      "zh": "所以动词是拖延。"
+    },
+    {
+      "id": 64,
+      "start": 249.72,
+      "end": 254.05,
+      "en": "And when you procrastinate you say I'll do it later I'll do it tomorrow.",
+      "zh": "当你拖延时，你说我稍后会做，我明天会做。"
+    },
+    {
+      "id": 65,
+      "start": 255.0,
+      "end": 258.68,
+      "en": "OK so you kind of delay things or you leave it for another day.",
+      "zh": "好的，所以你有点延迟或你把它留到另一天。"
+    },
+    {
+      "id": 66,
+      "start": 258.68,
+      "end": 259.68,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 67,
+      "start": 259.68,
+      "end": 260.68,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 68,
+      "start": 260.68,
+      "end": 261.68,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 69,
+      "start": 261.68,
+      "end": 262.68,
+      "en": "So to procrastinate.",
+      "zh": "所以要拖延。"
+    },
+    {
+      "id": 70,
+      "start": 262.68,
+      "end": 265.36,
+      "en": "A favorite verb amongst college students.",
+      "zh": "大学生最喜欢的动词。"
+    },
+    {
+      "id": 71,
+      "start": 265.86,
+      "end": 271.66,
+      "en": "I actually thought for a little while that procrastinate was to have babies.",
+      "zh": "实际上，我有一段时间想，拖延症是生孩子。"
+    },
+    {
+      "id": 72,
+      "start": 272.18,
+      "end": 272.3,
+      "en": "Oh.",
+      "zh": "哦。"
+    },
+    {
+      "id": 73,
+      "start": 273.04,
+      "end": 274.04,
+      "en": "Oh.",
+      "zh": "哦。"
+    },
+    {
+      "id": 74,
+      "start": 274.04,
+      "end": 275.04,
+      "en": "OK.",
+      "zh": "好的。"
+    },
+    {
+      "id": 75,
+      "start": 275.04,
+      "end": 276.04,
+      "en": "It's kind of similar.",
+      "zh": "它有点相似。"
+    },
+    {
+      "id": 76,
+      "start": 276.04,
+      "end": 277.04,
+      "en": "What's the word.",
+      "zh": "是什么词。"
+    },
+    {
+      "id": 77,
+      "start": 277.04,
+      "end": 278.04,
+      "en": "Procreate.",
+      "zh": "生育。"
+    },
+    {
+      "id": 78,
+      "start": 278.04,
+      "end": 279.04,
+      "en": "Procreate.",
+      "zh": "生育。"
+    },
+    {
+      "id": 79,
+      "start": 279.04,
+      "end": 281.84,
+      "en": "So I thought procrastinate was like having babies like why are you procrastinating.",
+      "zh": "所以我认为拖延就像生孩子一样，你为什么要拖延。"
+    },
+    {
+      "id": 80,
+      "start": 281.84,
+      "end": 283.8,
+      "en": "And I'm like I'm not.",
+      "zh": "我就像我不是。"
+    },
+    {
+      "id": 81,
+      "start": 283.8,
+      "end": 285.16,
+      "en": "Well glad you got that straight.",
+      "zh": "很高兴你明白了。"
+    },
+    {
+      "id": 82,
+      "start": 285.48,
+      "end": 289.8,
+      "en": "So yes our listeners procrastinate is not the same as procreate.",
+      "zh": "所以是的，我们的听众拖延与 Procreate 不同。"
+    },
+    {
+      "id": 83,
+      "start": 289.8,
+      "end": 290.8,
+      "en": "OK.",
+      "zh": "好的。"
+    },
+    {
+      "id": 84,
+      "start": 290.8,
+      "end": 292.76,
+      "en": "I learned that the hard way.",
+      "zh": "我学会了这一点。"
+    },
+    {
+      "id": 85,
+      "start": 292.76,
+      "end": 293.76,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 86,
+      "start": 293.76,
+      "end": 298.77,
+      "en": "Well it sounds like you had a little bit of a glitch in your understanding of language and that's our next phrase.",
+      "zh": "听起来你对语言的理解有点小故障，这是我们的下一个短语。"
+    },
+    {
+      "id": 87,
+      "start": 299.16,
+      "end": 303.19,
+      "en": "So in the dialogue they were talking about some glitches with the system.",
+      "zh": "所以在对话中，他们谈论的是系统的一些故障。"
+    },
+    {
+      "id": 88,
+      "start": 303.53,
+      "end": 305.03,
+      "en": "A glitch in the system.",
+      "zh": "系统中的故障。"
+    },
+    {
+      "id": 89,
+      "start": 305.6,
+      "end": 306.6,
+      "en": "OK.",
+      "zh": "好的。"
+    },
+    {
+      "id": 90,
+      "start": 306.6,
+      "end": 307.6,
+      "en": "So a glitch.",
+      "zh": "所以一个故障。"
+    },
+    {
+      "id": 91,
+      "start": 307.6,
+      "end": 309.82,
+      "en": "Now this is common among computers right.",
+      "zh": "现在这在计算机中很常见。"
+    },
+    {
+      "id": 92,
+      "start": 310.0,
+      "end": 311.92,
+      "en": "A glitch is an error.",
+      "zh": "故障是错误。"
+    },
+    {
+      "id": 93,
+      "start": 312.24,
+      "end": 312.42,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 94,
+      "start": 312.6,
+      "end": 316.68,
+      "en": "So when you're talking about a glitch and you're talking about computers it's an error a mistake.",
+      "zh": "因此，当您谈论故障并谈论计算机时，这是一个错误。"
+    },
+    {
+      "id": 95,
+      "start": 317.08,
+      "end": 320.3,
+      "en": "But we also use it to talk about any unexpected problem.",
+      "zh": "但我们也用它来谈论任何意想不到的问题。"
+    },
+    {
+      "id": 96,
+      "start": 320.72,
+      "end": 322.18,
+      "en": "A small unexpected problem.",
+      "zh": "一个小小的意外问题。"
+    },
+    {
+      "id": 97,
+      "start": 322.44,
+      "end": 323.44,
+      "en": "OK.",
+      "zh": "好的。"
+    },
+    {
+      "id": 98,
+      "start": 323.44,
+      "end": 324.3,
+      "en": "So a small glitch.",
+      "zh": "所以一个小故障。"
+    },
+    {
+      "id": 99,
+      "start": 324.44,
+      "end": 325.44,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 100,
+      "start": 325.44,
+      "end": 327.86,
+      "en": "There was a glitch in our plan and we arrived 10 minutes late.",
+      "zh": "我们的计划有一个故障，我们迟到了 10 分钟。"
+    },
+    {
+      "id": 101,
+      "start": 328.7,
+      "end": 332.25,
+      "en": "Or I can say this movie has a glitch in the story.",
+      "zh": "或者我可以说这部电影在故事中有一个小故障。"
+    },
+    {
+      "id": 102,
+      "start": 332.58,
+      "end": 335.03,
+      "en": "So there's a small problem in the story that doesn't make sense.",
+      "zh": "所以故事中有一个没有意义的小问题。"
+    },
+    {
+      "id": 103,
+      "start": 335.39,
+      "end": 335.61,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 104,
+      "start": 336.48,
+      "end": 337.48,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 105,
+      "start": 337.48,
+      "end": 342.83,
+      "en": "So the boss was blaming his lateness on these small technical glitches.",
+      "zh": "所以老板把他的迟到归咎于这些小小的技术故障。"
+    },
+    {
+      "id": 106,
+      "start": 343.32,
+      "end": 345.76,
+      "en": "But the boss didn't believe this right.",
+      "zh": "但老板不相信这一点。"
+    },
+    {
+      "id": 107,
+      "start": 345.76,
+      "end": 350.8,
+      "en": "The boss said you're trying to rationalize the fact that you missed the deadline.",
+      "zh": "老板说你试图合理化你错过最后期限的事实。"
+    },
+    {
+      "id": 108,
+      "start": 350.8,
+      "end": 351.8,
+      "en": "OK.",
+      "zh": "好的。"
+    },
+    {
+      "id": 109,
+      "start": 351.8,
+      "end": 352.83,
+      "en": "To rationalize.",
+      "zh": "合理化。"
+    },
+    {
+      "id": 110,
+      "start": 353.24,
+      "end": 354.13,
+      "en": "To rationalize.",
+      "zh": "合理化。"
+    },
+    {
+      "id": 111,
+      "start": 354.7,
+      "end": 357.73,
+      "en": "So the boss is saying that he's trying to rationalize.",
+      "zh": "所以老板说他正试图合理化。"
+    },
+    {
+      "id": 112,
+      "start": 358.16,
+      "end": 361.2,
+      "en": "So that means is he trying to make sense of it.",
+      "zh": "所以这意味着他试图理解它。"
+    },
+    {
+      "id": 113,
+      "start": 362.08,
+      "end": 364.6,
+      "en": "Well this is an interesting psychological word.",
+      "zh": "嗯，这是一个有趣的心理词。"
+    },
+    {
+      "id": 114,
+      "start": 365.68,
+      "end": 377.9,
+      "en": "Because when you rationalize something you think about it or describe it like especially some bad behavior in a way that makes it seem better or proper or more sensible.",
+      "zh": "因为当你合理化某事时，你会思考它或将其描述为，尤其是一些不良行为，使它看起来更好、正确或更明智。"
+    },
+    {
+      "id": 115,
+      "start": 377.9,
+      "end": 380.0,
+      "en": "So you're trying to convince yourself.",
+      "zh": "所以你试图说服自己。"
+    },
+    {
+      "id": 116,
+      "start": 380.5,
+      "end": 380.66,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 117,
+      "start": 380.86,
+      "end": 383.94,
+      "en": "You're telling other people but you're also telling yourself that it's better.",
+      "zh": "你在告诉其他人，但你也告诉自己这更好。"
+    },
+    {
+      "id": 118,
+      "start": 384.44,
+      "end": 385.44,
+      "en": "OK.",
+      "zh": "好的。"
+    },
+    {
+      "id": 119,
+      "start": 385.44,
+      "end": 386.66,
+      "en": "Or that you're right when you're actually wrong.",
+      "zh": "或者当你实际上错了时，你是对的。"
+    },
+    {
+      "id": 120,
+      "start": 387.08,
+      "end": 387.2,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 121,
+      "start": 388.08,
+      "end": 389.08,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 122,
+      "start": 389.08,
+      "end": 390.08,
+      "en": "OK.",
+      "zh": "好的。"
+    },
+    {
+      "id": 123,
+      "start": 390.08,
+      "end": 391.78,
+      "en": "So he was trying to rationalize the fact that he missed the deadline.",
+      "zh": "所以他试图合理化他错过最后期限的事实。"
+    },
+    {
+      "id": 124,
+      "start": 391.78,
+      "end": 398.46,
+      "en": "So he was trying to explain to the boss and also kind of make himself believe that it wasn't really his fault when it was.",
+      "zh": "所以他试图向老板解释，也让自己相信这不是他的错。"
+    },
+    {
+      "id": 125,
+      "start": 398.76,
+      "end": 404.44,
+      "en": "Now because this is a little bit of a difficult concept to understand I think we should hear some examples.",
+      "zh": "现在因为这是一个难以理解的概念，我认为我们应该听到一些例子。"
+    },
+    {
+      "id": 126,
+      "start": 405.68,
+      "end": 407.46,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 127,
+      "start": 407.46,
+      "end": 413.68,
+      "en": "You can't rationalize your son's behavior by saying he's going through a hard time.",
+      "zh": "你不能通过说他正在经历一个艰难的时期来合理化你儿子的行为。"
+    },
+    {
+      "id": 128,
+      "start": 413.68,
+      "end": 413.95,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 129,
+      "start": 416.12,
+      "end": 419.85,
+      "en": "As much as I tried I couldn't rationalize buying such an expensive pair of shoes.",
+      "zh": "尽管我尝试过，但我无法合理化购买如此昂贵的鞋子。"
+    },
+    {
+      "id": 130,
+      "start": 422.44,
+      "end": 425.14,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 131,
+      "start": 425.14,
+      "end": 426.52,
+      "en": "You know it was the wrong thing to do.",
+      "zh": "你知道这是错误的事情。"
+    },
+    {
+      "id": 132,
+      "start": 426.92,
+      "end": 429.52,
+      "en": "Stop trying to rationalize it.",
+      "zh": "停止尝试合理化它。"
+    },
+    {
+      "id": 133,
+      "start": 429.52,
+      "end": 430.52,
+      "en": "OK.",
+      "zh": "好的。"
+    },
+    {
+      "id": 134,
+      "start": 430.52,
+      "end": 433.48,
+      "en": "So clear as daylight now this word rationalize.",
+      "zh": "现在像白天一样清晰，这个词合理化。"
+    },
+    {
+      "id": 135,
+      "start": 433.48,
+      "end": 434.96,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 136,
+      "start": 434.96,
+      "end": 436.28,
+      "en": "In our final word.",
+      "zh": "在我们的最后一句话中。"
+    },
+    {
+      "id": 137,
+      "start": 436.31,
+      "end": 442.77,
+      "en": "So the boss really wasn't happy with these excuses and he said no more phony excuses.",
+      "zh": "所以老板真的对这些借口不满意，他说不再有虚假的借口。"
+    },
+    {
+      "id": 138,
+      "start": 443.08,
+      "end": 444.08,
+      "en": "OK.",
+      "zh": "好的。"
+    },
+    {
+      "id": 139,
+      "start": 444.08,
+      "end": 444.21,
+      "en": "Phony.",
+      "zh": "假的。"
+    },
+    {
+      "id": 140,
+      "start": 445.08,
+      "end": 446.08,
+      "en": "Phony.",
+      "zh": "假的。"
+    },
+    {
+      "id": 141,
+      "start": 446.08,
+      "end": 447.08,
+      "en": "P-H-O-N-Y.",
+      "zh": "拼写是 P-H-O-N-Y。"
+    },
+    {
+      "id": 142,
+      "start": 447.08,
+      "end": 448.08,
+      "en": "Phony.",
+      "zh": "假的。"
+    },
+    {
+      "id": 143,
+      "start": 448.63,
+      "end": 451.23,
+      "en": "So phony is basically false or fake.",
+      "zh": "所以虚假基本上是假的或假的。"
+    },
+    {
+      "id": 144,
+      "start": 451.68,
+      "end": 452.02,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 145,
+      "start": 452.02,
+      "end": 453.26,
+      "en": "So a phony statement.",
+      "zh": "所以是一个虚假的声明。"
+    },
+    {
+      "id": 146,
+      "start": 453.92,
+      "end": 454.92,
+      "en": "A phony watch.",
+      "zh": "一个假手表。"
+    },
+    {
+      "id": 147,
+      "start": 455.24,
+      "end": 456.24,
+      "en": "OK.",
+      "zh": "好的。"
+    },
+    {
+      "id": 148,
+      "start": 456.24,
+      "end": 457.24,
+      "en": "A fake watch.",
+      "zh": "假手表。"
+    },
+    {
+      "id": 149,
+      "start": 457.24,
+      "end": 458.24,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 150,
+      "start": 458.24,
+      "end": 459.24,
+      "en": "Not a Sony watch but a phony watch.",
+      "zh": "不是索尼手表，而是假手表。"
+    },
+    {
+      "id": 151,
+      "start": 459.46,
+      "end": 459.82,
+      "en": "A phony.",
+      "zh": "一个假的。"
+    },
+    {
+      "id": 152,
+      "start": 460.28,
+      "end": 468.5,
+      "en": "So a lot of great words in this dialogue but as you mentioned we also saw some very interesting phrases that we can use in situations like this.",
+      "zh": "所以在这个对话中有很多很棒的词，但正如你提到的，我们也看到了一些非常有趣的短语，我们可以在这种情况下使用。"
+    },
+    {
+      "id": 153,
+      "start": 468.86,
+      "end": 471.76,
+      "en": "So why don't we start now with Fluency Builder.",
+      "zh": "那么我们为什么不现在从 Fluency Builder 开始。"
+    },
+    {
+      "id": 154,
+      "start": 473.54,
+      "end": 474.5,
+      "en": "Fluency Builder.",
+      "zh": "流利表达。"
+    },
+    {
+      "id": 155,
+      "start": 475.09,
+      "end": 493.93,
+      "en": "Well you know one of the interesting things about English is that we have a lot of ways to make things sound more direct less direct harder or softer and in this dialogue there are a few examples of how we use softening words to but just to do the opposite to actually make it a little strong.",
+      "zh": "好吧，您知道有关英语的有趣之处之一是，我们有很多方法可以让事情听起来更直接更不直接或更柔和，在这个对话中，有一些例子说明我们如何使用软化词来做相反的事情，但实际上却只是为了让它变得有点强。"
+    },
+    {
+      "id": 156,
+      "start": 494.56,
+      "end": 495.56,
+      "en": "OK.",
+      "zh": "好的。"
+    },
+    {
+      "id": 157,
+      "start": 495.56,
+      "end": 499.35,
+      "en": "So why don't we start with the first paragraph in the first part of the dialogue.",
+      "zh": "那么我们为什么不从对话第一部分的第一段开始。"
+    },
+    {
+      "id": 158,
+      "start": 499.64,
+      "end": 502.73,
+      "en": "He said you missed a fairly significant deadline.",
+      "zh": "他说你错过了一个相当重要的最后期限。"
+    },
+    {
+      "id": 159,
+      "start": 503.17,
+      "end": 504.57,
+      "en": "A fairly significant deadline.",
+      "zh": "一个相当重要的最后期限。"
+    },
+    {
+      "id": 160,
+      "start": 504.97,
+      "end": 508.0,
+      "en": "Now this word fairly kind of sort of.",
+      "zh": "现在这个词有点像。"
+    },
+    {
+      "id": 161,
+      "start": 508.26,
+      "end": 509.8,
+      "en": "So it's not very significant.",
+      "zh": "所以它不是很重要。"
+    },
+    {
+      "id": 162,
+      "start": 510.08,
+      "end": 510.88,
+      "en": "It's kind of significant.",
+      "zh": "这有点重要。"
+    },
+    {
+      "id": 163,
+      "start": 511.16,
+      "end": 512.16,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 164,
+      "start": 512.16,
+      "end": 520.48,
+      "en": "But in this context when when the person is saying it it just sounds a little bit softer but your understanding is it's a very important deadline.",
+      "zh": "但是在这种情况下，当这个人说它时，它听起来有点柔和，但你的理解是这是一个非常重要的最后期限。"
+    },
+    {
+      "id": 165,
+      "start": 520.48,
+      "end": 521.48,
+      "en": "OK.",
+      "zh": "好的。"
+    },
+    {
+      "id": 166,
+      "start": 521.48,
+      "end": 522.2,
+      "en": "A very important deadline.",
+      "zh": "一个非常重要的最后期限。"
+    },
+    {
+      "id": 167,
+      "start": 522.72,
+      "end": 530.07,
+      "en": "So another similar example of this is the boss was saying you're essentially blaming the tech team.",
+      "zh": "所以另一个类似的例子是老板说你基本上是在指责技术团队。"
+    },
+    {
+      "id": 168,
+      "start": 530.48,
+      "end": 531.48,
+      "en": "OK.",
+      "zh": "好的。"
+    },
+    {
+      "id": 169,
+      "start": 531.48,
+      "end": 532.21,
+      "en": "You're essentially blaming.",
+      "zh": "你本质上是在责备。"
+    },
+    {
+      "id": 170,
+      "start": 532.78,
+      "end": 536.47,
+      "en": "So essentially is like basically or pretty much.",
+      "zh": "所以基本上就像基本上或几乎一样。"
+    },
+    {
+      "id": 171,
+      "start": 537.8,
+      "end": 542.29,
+      "en": "So it sounds a little softer but what he's actually really saying is you're doing this.",
+      "zh": "所以听起来有点柔和，但他实际上所说的是你正在这样做。"
+    },
+    {
+      "id": 172,
+      "start": 542.84,
+      "end": 543.84,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 173,
+      "start": 543.84,
+      "end": 550.23,
+      "en": "So instead of saying you're blaming the tech team he adds this word essentially to kind of say well basically you're saying it's their fault.",
+      "zh": "因此，与其说您指责技术团队不同，他本质上添加了这个词，基本上是在说，基本上您是说这是他们的错。"
+    },
+    {
+      "id": 174,
+      "start": 550.64,
+      "end": 551.64,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 175,
+      "start": 551.64,
+      "end": 556.88,
+      "en": "But the context or you understand that it's actually very direct and he's saying it's your fault.",
+      "zh": "但是上下文或你明白它实际上是非常直接的，他说这是你的错。"
+    },
+    {
+      "id": 176,
+      "start": 556.88,
+      "end": 557.88,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 177,
+      "start": 557.88,
+      "end": 563.2,
+      "en": "So he's he's he's saying you're almost blaming the tech team but what he means is you're blaming the tech team.",
+      "zh": "所以他是他在说你几乎指责技术团队，但他的意思是你指责技术团队。"
+    },
+    {
+      "id": 178,
+      "start": 563.2,
+      "end": 567.33,
+      "en": "Now our third phrase is very interesting because it's kind of like a saying.",
+      "zh": "现在我们的第三个短语非常有趣，因为它有点像一句话。"
+    },
+    {
+      "id": 179,
+      "start": 567.88,
+      "end": 568.88,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 180,
+      "start": 568.88,
+      "end": 571.51,
+      "en": "So the employee says I'm not trying to pass the buck here.",
+      "zh": "所以员工说我不想在这里推卸责任。"
+    },
+    {
+      "id": 181,
+      "start": 572.04,
+      "end": 573.89,
+      "en": "I'm not trying to pass the buck here.",
+      "zh": "我不是想在这里推卸责任。"
+    },
+    {
+      "id": 182,
+      "start": 574.04,
+      "end": 575.13,
+      "en": "I'm not trying to pass the buck.",
+      "zh": "我不是想推卸责任。"
+    },
+    {
+      "id": 183,
+      "start": 575.51,
+      "end": 576.69,
+      "en": "Now what's the buck.",
+      "zh": "现在是什么。"
+    },
+    {
+      "id": 184,
+      "start": 577.25,
+      "end": 577.75,
+      "en": "A dollar bill.",
+      "zh": "一张美元钞票。"
+    },
+    {
+      "id": 185,
+      "start": 578.25,
+      "end": 579.01,
+      "en": "A dollar bill.",
+      "zh": "一张美元钞票。"
+    },
+    {
+      "id": 186,
+      "start": 579.43,
+      "end": 585.71,
+      "en": "So he's well I understand that he's saying I'm not trying to blame somebody else or pass the blame on to someone else.",
+      "zh": "所以他很好，我理解他是说我不是要责备别人，也不是把责任推给别人。"
+    },
+    {
+      "id": 187,
+      "start": 586.78,
+      "end": 588.12,
+      "en": "But you can think about it like this.",
+      "zh": "但你可以这样想。"
+    },
+    {
+      "id": 188,
+      "start": 588.32,
+      "end": 591.0,
+      "en": "Like imagine he had some fake or phony money right.",
+      "zh": "就像想象他有一些假钱或假钱。"
+    },
+    {
+      "id": 189,
+      "start": 591.64,
+      "end": 595.16,
+      "en": "And he wants to pass that on to the next person so he doesn't get in trouble.",
+      "zh": "他想把它传给下一个人，这样他就不会遇到麻烦。"
+    },
+    {
+      "id": 190,
+      "start": 595.16,
+      "end": 596.16,
+      "en": "OK.",
+      "zh": "好的。"
+    },
+    {
+      "id": 191,
+      "start": 596.16,
+      "end": 597.12,
+      "en": "So I'm not trying to pass the buck.",
+      "zh": "所以我不是想推卸责任。"
+    },
+    {
+      "id": 192,
+      "start": 597.34,
+      "end": 601.64,
+      "en": "I'm not trying to pass the blame put the responsibility on someone else.",
+      "zh": "我不是想把责任推给别人。"
+    },
+    {
+      "id": 193,
+      "start": 602.06,
+      "end": 602.62,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 194,
+      "start": 602.84,
+      "end": 604.66,
+      "en": "But you know what you know what he really means here.",
+      "zh": "但你知道你知道他在这里的真正含义。"
+    },
+    {
+      "id": 195,
+      "start": 605.57,
+      "end": 608.43,
+      "en": "What I am trying to do that because he knew.",
+      "zh": "我想这样做是因为他知道。"
+    },
+    {
+      "id": 196,
+      "start": 609.09,
+      "end": 610.87,
+      "en": "He knew that it was a fake dollar bill.",
+      "zh": "他知道那是一张假的美元钞票。"
+    },
+    {
+      "id": 197,
+      "start": 611.12,
+      "end": 612.12,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 198,
+      "start": 612.12,
+      "end": 613.12,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 199,
+      "start": 613.12,
+      "end": 614.12,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 200,
+      "start": 614.12,
+      "end": 618.72,
+      "en": "And this is interesting as well because it's kind of like a metaphor.",
+      "zh": "这也很有趣，因为它有点像一个隐喻。"
+    },
+    {
+      "id": 201,
+      "start": 618.72,
+      "end": 623.93,
+      "en": "He said the boss said you're using the small technical glitches as a crutch.",
+      "zh": "他说老板说你用的是小技术故障作为拐杖。"
+    },
+    {
+      "id": 202,
+      "start": 624.34,
+      "end": 626.19,
+      "en": "So using something as a crutch.",
+      "zh": "所以用东西当拐杖。"
+    },
+    {
+      "id": 203,
+      "start": 626.68,
+      "end": 634.72,
+      "en": "Now the crutch is a you know when you when you break your leg you use those wooden or metal sticks to walk with.",
+      "zh": "现在拐杖是你知道的时候，当你折断腿时，你会用那些木棍或金属棍子走路。"
+    },
+    {
+      "id": 204,
+      "start": 634.72,
+      "end": 635.72,
+      "en": "OK to help you walk.",
+      "zh": "可以帮你走路。"
+    },
+    {
+      "id": 205,
+      "start": 635.72,
+      "end": 636.72,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 206,
+      "start": 636.72,
+      "end": 644.4,
+      "en": "So the boss is basically saying you're using these technical glitches as an excuse or as an aid to why you missed the deadline.",
+      "zh": "所以老板基本上是在说你用这些技术故障作为借口或帮助你错过最后期限的原因。"
+    },
+    {
+      "id": 207,
+      "start": 644.48,
+      "end": 644.78,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 208,
+      "start": 644.78,
+      "end": 651.12,
+      "en": "So if you think about it like this some people might say OK if you walk with a crutch then you you won't succeed.",
+      "zh": "所以如果你这样想，有些人可能会说如果你拄着拐杖走路，你就不会成功。"
+    },
+    {
+      "id": 209,
+      "start": 651.54,
+      "end": 651.68,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 210,
+      "start": 653.3,
+      "end": 653.74,
+      "en": "Because whatever.",
+      "zh": "因为无论如何。"
+    },
+    {
+      "id": 211,
+      "start": 654.76,
+      "end": 664.62,
+      "en": "So this guy this employee is basically saying yes I know that I should meet deadlines but these these problems these glitches are like my crutch that make me not succeed.",
+      "zh": "所以这个员工基本上是在说是的，我知道我应该按时完成，但这些问题就像我的拐杖，让我没有成功。"
+    },
+    {
+      "id": 212,
+      "start": 665.08,
+      "end": 666.08,
+      "en": "OK.",
+      "zh": "好的。"
+    },
+    {
+      "id": 213,
+      "start": 666.08,
+      "end": 667.34,
+      "en": "So he's trying to just make excuses.",
+      "zh": "所以他只是想找借口。"
+    },
+    {
+      "id": 214,
+      "start": 668.52,
+      "end": 671.52,
+      "en": "So God Marco that is a little bit difficult to understand.",
+      "zh": "所以上帝马可有点难以理解。"
+    },
+    {
+      "id": 215,
+      "start": 671.74,
+      "end": 673.26,
+      "en": "Do you think we should give a couple more examples.",
+      "zh": "你认为我们应该再举几个例子。"
+    },
+    {
+      "id": 216,
+      "start": 674.12,
+      "end": 677.12,
+      "en": "Yeah I think I think some more examples would be very useful.",
+      "zh": "是的，我认为更多的例子会非常有用。"
+    },
+    {
+      "id": 217,
+      "start": 677.44,
+      "end": 679.12,
+      "en": "So let's listen to a couple of them now.",
+      "zh": "所以让我们现在听听他们中的几个。"
+    },
+    {
+      "id": 218,
+      "start": 681.16,
+      "end": 683.68,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 219,
+      "start": 683.68,
+      "end": 686.52,
+      "en": "I realized that I was using alcohol as a crutch to get through the day.",
+      "zh": "我意识到我用酒精作为拐杖来度过这一天。"
+    },
+    {
+      "id": 220,
+      "start": 688.72,
+      "end": 688.99,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 221,
+      "start": 690.92,
+      "end": 701.6,
+      "en": "I think Bill's very capable of being successful but he uses his disability as a crutch example three.",
+      "zh": "我认为比尔非常有能力取得成功，但他将他的残疾作为拐杖示例三。"
+    },
+    {
+      "id": 222,
+      "start": 701.6,
+      "end": 706.72,
+      "en": "Stop using your weight as a crutch just because you're a bit fat doesn't mean you can't get a great job.",
+      "zh": "仅仅因为你有点胖就停止把你的体重当作拐杖，并不意味着你找不到一份好工作。"
+    },
+    {
+      "id": 223,
+      "start": 708.48,
+      "end": 709.48,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 224,
+      "start": 709.48,
+      "end": 720.59,
+      "en": "So a lot of great phrases great words and well I think it's time for us to listen to this dialogue for the last time and then we'll come back and talk about this aspect of meeting deadlines.",
+      "zh": "所以很多很棒的短语很棒的词，我认为是时候让我们最后一次听这个对话了，然后我们会回来讨论在最后期限之前的这方面。"
+    },
+    {
+      "id": 225,
+      "start": 728.16,
+      "end": 732.09,
+      "en": "And so I just wanted to check in with you and find out where we are with this project.",
+      "zh": "我想跟你核对一下，了解项目进展到哪儿了。"
+    },
+    {
+      "id": 226,
+      "start": 733.08,
+      "end": 741.93,
+      "en": "As you know you've missed a fairly significant deadline last week and this will negatively impact the team's ability to move forward with the next stages of this project.",
+      "zh": "如您所知，上周您错过了相当重要的最后期限，这将对团队在该项目的下一阶段继续前进的能力产生负面影响。"
+    },
+    {
+      "id": 227,
+      "start": 742.7,
+      "end": 746.76,
+      "en": "I know I'm really sorry that I missed the deadline but really it wasn't my fault.",
+      "zh": "我知道我真的很抱歉我错过了最后期限，但这真的不是我的错。"
+    },
+    {
+      "id": 228,
+      "start": 747.12,
+      "end": 756.46,
+      "en": "You see we had all of these unexpected technical problems at the last minute and I couldn't get into the database and extract the kind of information that I needed for the data analysis.",
+      "zh": "最后关头突然出了不少技术问题，我进不了数据库，也提取不到数据分析需要的信息。"
+    },
+    {
+      "id": 229,
+      "start": 757.08,
+      "end": 763.4,
+      "en": "You know if the tech guys would have done their job and kept the CRM stable then I wouldn't have missed my deadline.",
+      "zh": "要是技术团队做好本职工作，保证客户关系管理系统稳定，我就不会错过期限了。"
+    },
+    {
+      "id": 230,
+      "start": 763.94,
+      "end": 764.86,
+      "en": "Oh come on.",
+      "zh": "哦，来吧。"
+    },
+    {
+      "id": 231,
+      "start": 765.3,
+      "end": 767.56,
+      "en": "An excuse like that is tantamount to lying.",
+      "zh": "这种借口跟说谎没什么两样。"
+    },
+    {
+      "id": 232,
+      "start": 768.21,
+      "end": 777.35,
+      "en": "You're essentially blaming the tech team for your time management issues rather than accepting responsibility for the fact that you were procrastinating for the past two weeks.",
+      "zh": "你过去两周一直拖延，却把自己的时间管理问题怪到技术团队头上，不肯担责。"
+    },
+    {
+      "id": 233,
+      "start": 777.71,
+      "end": 779.65,
+      "en": "No I'm not trying to pass the buck here.",
+      "zh": "不，我不是想推卸责任。"
+    },
+    {
+      "id": 234,
+      "start": 780.15,
+      "end": 783.33,
+      "en": "I know it was me who was ultimately responsible for getting this done.",
+      "zh": "我知道最终负责完成这项工作的人是我。"
+    },
+    {
+      "id": 235,
+      "start": 783.73,
+      "end": 788.27,
+      "en": "But the thing is I could have finished on time if the system hadn't gone down.",
+      "zh": "可要是系统没有瘫痪，我就能按时做完。"
+    },
+    {
+      "id": 236,
+      "start": 788.89,
+      "end": 794.03,
+      "en": "And you know with everything I've got going on now I can't afford to waste time dealing with technical problems.",
+      "zh": "我现在忙的事太多，实在没时间耗在技术故障上。"
+    },
+    {
+      "id": 237,
+      "start": 794.57,
+      "end": 797.61,
+      "en": "I've got a lot on my plate and there are only 24 hours in a day.",
+      "zh": "我手头的事一大堆，一天却只有二十四小时。"
+    },
+    {
+      "id": 238,
+      "start": 798.01,
+      "end": 800.07,
+      "en": "I'm not going to accept this excuse.",
+      "zh": "我不会接受这个借口。"
+    },
+    {
+      "id": 239,
+      "start": 801.03,
+      "end": 806.81,
+      "en": "You're using these small technical glitches as a crutch and trying to rationalize the fact that you've missed your deadline.",
+      "zh": "你拿这些小技术故障当挡箭牌，替错过截止日期找理由。"
+    },
+    {
+      "id": 240,
+      "start": 807.57,
+      "end": 811.57,
+      "en": "Look we have standards and I expect you to live up to those standards.",
+      "zh": "我们有工作标准，我希望你能达到。"
+    },
+    {
+      "id": 241,
+      "start": 812.17,
+      "end": 813.27,
+      "en": "No more phony excuses.",
+      "zh": "别再编借口了。"
+    },
+    {
+      "id": 242,
+      "start": 814.21,
+      "end": 816.25,
+      "en": "If you're in over your head you tell me.",
+      "zh": "如果工作已经超出你的能力，就告诉我。"
+    },
+    {
+      "id": 243,
+      "start": 816.75,
+      "end": 817.53,
+      "en": "No more missed deadlines.",
+      "zh": "以后不能再误期。"
+    },
+    {
+      "id": 244,
+      "start": 818.4,
+      "end": 827.68,
+      "en": "Now I want that data on my desk by 9 a.m.",
+      "zh": "明早九点前把数据放到我桌上。"
+    },
+    {
+      "id": 245,
+      "start": 827.68,
+      "end": 830.35,
+      "en": "This employee got in a lot of trouble for missing his deadline.",
+      "zh": "这位员工因错过最后期限而陷入了很多麻烦。"
+    },
+    {
+      "id": 246,
+      "start": 830.96,
+      "end": 831.19,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 247,
+      "start": 831.96,
+      "end": 841.48,
+      "en": "I think it's a very important aspect of not only Western culture but also in general assuming guilt when it's your fault.",
+      "zh": "我认为这不仅是西方文化的一个非常重要的方面，而且在你的错时一般会假设内疚。"
+    },
+    {
+      "id": 248,
+      "start": 841.48,
+      "end": 848.24,
+      "en": "In this case we saw that the employee didn't really want to accept the fact that it was his fault.",
+      "zh": "在这种情况下，我们看到员工真的不想接受这是他的错的事实。"
+    },
+    {
+      "id": 249,
+      "start": 848.24,
+      "end": 852.72,
+      "en": "He didn't say yeah I know it was me I'm sorry and this is my plan to fix it.",
+      "zh": "他没有说是的，我知道这是我，我很抱歉，这是我修复它的计划。"
+    },
+    {
+      "id": 250,
+      "start": 853.28,
+      "end": 860.0,
+      "en": "Now this is very important among cultures because in some cultures the aspect of losing face is so important right?",
+      "zh": "现在这在文化中非常重要，因为在某些文化中，丢脸的方面如此重要，对吧？"
+    },
+    {
+      "id": 251,
+      "start": 860.64,
+      "end": 861.64,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 252,
+      "start": 861.64,
+      "end": 866.14,
+      "en": "So somebody may not really want to assume guilt or they have to because it's part of the culture.",
+      "zh": "所以有人可能真的不想承担内疚，或者他们不得不这样做，因为这是文化的一部分。"
+    },
+    {
+      "id": 253,
+      "start": 866.76,
+      "end": 869.32,
+      "en": "But what's the standard in North American business practice?",
+      "zh": "但是北美商业实践的标准是什么？"
+    },
+    {
+      "id": 254,
+      "start": 870.04,
+      "end": 881.12,
+      "en": "I would say that you would have to assume responsibility and take responsibility for your actions right and say yes it's my fault I did it but I'm going to get it fixed or I'll do it or I'll make up for it.",
+      "zh": "我会说你必须承担责任并为你的行为承担责任，并说是的，这是我的错，我做到了，但我会解决它，否则我会去做，否则我会弥补。"
+    },
+    {
+      "id": 255,
+      "start": 882.2,
+      "end": 886.51,
+      "en": "So some good business tips here today in this lesson.",
+      "zh": "所以今天在本课中有一些很好的商业技巧。"
+    },
+    {
+      "id": 256,
+      "start": 887.16,
+      "end": 897.92,
+      "en": "Now remember if you have any questions about the language or want to tell us a little bit about how you assume responsibility in your culture visit our website at EnglishPod.com.",
+      "zh": "现在请记住，如果您对该语言有任何疑问，或者想告诉我们一些关于您如何在您的文化中承担责任的信息，请访问我们的网站 englishpod.com。"
+    },
+    {
+      "id": 257,
+      "start": 897.92,
+      "end": 900.63,
+      "en": "Right we're always there to help you out and until next time.",
+      "zh": "是的，我们随时为您提供帮助，直到下一次。"
+    },
+    {
+      "id": 258,
+      "start": 901.27,
+      "end": 902.79,
+      "en": "Thanks for listening and goodbye!",
+      "zh": "感谢您的收听和再见！"
+    }
+  ],
+  "dialog": {
+    "start": 51.96,
+    "end": 153.64,
+    "segmentIds": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+    ]
+  }
+}

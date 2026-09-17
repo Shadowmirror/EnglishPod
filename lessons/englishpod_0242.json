@@ -1,0 +1,2092 @@
+{
+  "version": 1,
+  "id": 242,
+  "number": "0242",
+  "title": "Global View - Learning The Piano",
+  "audio": "mp3/242. Global View - Learning The Piano.mp3",
+  "duration": 865.1233125,
+  "segments": [
+    {
+      "id": 1,
+      "start": 2.82,
+      "end": 5.08,
+      "en": "Hello everyone and welcome to EnglishPod.",
+      "zh": "大家好，欢迎来到 EnglishPod。"
+    },
+    {
+      "id": 2,
+      "start": 5.36,
+      "end": 5.78,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 6.18,
+      "end": 11.02,
+      "en": "My name is Catherine and today we have a very technical, very advanced lesson for you.",
+      "zh": "我的名字是凯瑟琳，今天我们为您准备了一个非常技术性、非常先进的课程。"
+    },
+    {
+      "id": 4,
+      "start": 11.36,
+      "end": 13.52,
+      "en": "This is all about one of my favorite subjects.",
+      "zh": "这都是关于我最喜欢的科目之一。"
+    },
+    {
+      "id": 5,
+      "start": 13.98,
+      "end": 14.3,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 6,
+      "start": 14.46,
+      "end": 20.98,
+      "en": "We're going to talk about music, but specifically we're going to talk about the piano and learning how to play the piano.",
+      "zh": "我们将谈论音乐，但具体来说，我们将谈论钢琴并学习如何弹钢琴。"
+    },
+    {
+      "id": 7,
+      "start": 21.24,
+      "end": 25.16,
+      "en": "So we're going to talk about very specific vocab related to this instrument.",
+      "zh": "所以我们将讨论与该仪器相关的非常具体的词汇。"
+    },
+    {
+      "id": 8,
+      "start": 25.26,
+      "end": 25.44,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 9,
+      "start": 26.16,
+      "end": 28.88,
+      "en": "So piano and playing music, not listening to music.",
+      "zh": "所以钢琴和演奏音乐，不听音乐。"
+    },
+    {
+      "id": 10,
+      "start": 28.88,
+      "end": 29.88,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 11,
+      "start": 29.88,
+      "end": 32.32,
+      "en": "And there are a lot of interesting words and phrases here.",
+      "zh": "这里有很多有趣的单词和短语。"
+    },
+    {
+      "id": 12,
+      "start": 32.32,
+      "end": 34.42,
+      "en": "Some of them actually come from foreign languages like Italian.",
+      "zh": "其中一些实际上来自意大利语等外语。"
+    },
+    {
+      "id": 13,
+      "start": 35.04,
+      "end": 36.02,
+      "en": "So listen up.",
+      "zh": "所以听着。"
+    },
+    {
+      "id": 14,
+      "start": 36.3,
+      "end": 37.08,
+      "en": "We'll be back in a moment.",
+      "zh": "我们马上回来。"
+    },
+    {
+      "id": 15,
+      "start": 37.38,
+      "end": 40.26,
+      "en": "And when we come back, we'll be talking about what these words and phrases mean.",
+      "zh": "当我们回来时，我们将谈论这些单词和短语的含义。"
+    },
+    {
+      "id": 16,
+      "start": 46.98,
+      "end": 47.2,
+      "en": "Hi Cody.",
+      "zh": "嗨科迪。"
+    },
+    {
+      "id": 17,
+      "start": 47.52,
+      "end": 48.72,
+      "en": "How did practicing go this week?",
+      "zh": "这周的练习进展如何？"
+    },
+    {
+      "id": 18,
+      "start": 49.21,
+      "end": 57.49,
+      "en": "Well, I had several tests and an oral presentation this week, so I didn't get a chance to memorize the second page, but I think I mastered the tricky section.",
+      "zh": "这周我有几场考试和一次口头报告，所以没来得及背熟第二页的谱子，不过我觉得那个难点已经练熟了。"
+    },
+    {
+      "id": 19,
+      "start": 57.73,
+      "end": 57.99,
+      "en": "Great.",
+      "zh": "太好了。"
+    },
+    {
+      "id": 20,
+      "start": 59.16,
+      "end": 63.24,
+      "en": "Let's start with some scales and arpeggios first.",
+      "zh": "让我们先从一些音阶和琶音开始。"
+    },
+    {
+      "id": 21,
+      "start": 65.87,
+      "end": 66.31,
+      "en": "Good, good.",
+      "zh": "不错，不错。"
+    },
+    {
+      "id": 22,
+      "start": 67.24,
+      "end": 73.44,
+      "en": "This week, work on keeping the rhythm steady when you play the last part with the 16th notes.",
+      "zh": "这周重点练习最后那段十六分音符，演奏时要保持节奏稳定。"
+    },
+    {
+      "id": 23,
+      "start": 73.44,
+      "end": 74.71,
+      "en": "Now let's take a look at this tricky section.",
+      "zh": "现在让我们来看看这个棘手的部分。"
+    },
+    {
+      "id": 24,
+      "start": 75.24,
+      "end": 84.03,
+      "en": "Charlene, before I start, I was wondering if it was okay if I put a small crescendo in here and then a decrescendo back to pianissimo again over here.",
+      "zh": "夏琳，开始之前我想问问，能不能在这里稍微渐强，然后到这里再渐弱回到极弱？"
+    },
+    {
+      "id": 25,
+      "start": 84.4,
+      "end": 86.4,
+      "en": "Hmm, it might work.",
+      "zh": "嗯，可能会起作用。"
+    },
+    {
+      "id": 26,
+      "start": 86.41,
+      "end": 87.21,
+      "en": "I'll have to hear it.",
+      "zh": "我得先听听效果。"
+    },
+    {
+      "id": 27,
+      "start": 87.71,
+      "end": 88.41,
+      "en": "Show me what you've done.",
+      "zh": "把你练习的成果演奏给我听听。"
+    },
+    {
+      "id": 28,
+      "start": 102.58,
+      "end": 103.18,
+      "en": "Not bad.",
+      "zh": "还不错。"
+    },
+    {
+      "id": 29,
+      "start": 103.8,
+      "end": 104.46,
+      "en": "It was horrible.",
+      "zh": "这太可怕了。"
+    },
+    {
+      "id": 30,
+      "start": 105.21,
+      "end": 106.67,
+      "en": "I played it much better at home.",
+      "zh": "我在家里弹得比这好多了。"
+    },
+    {
+      "id": 31,
+      "start": 107.07,
+      "end": 108.01,
+      "en": "It's just nerves.",
+      "zh": "只是有点紧张而已。"
+    },
+    {
+      "id": 32,
+      "start": 108.75,
+      "end": 110.43,
+      "en": "Just play the right hand for now.",
+      "zh": "现在先只弹右手的部分。"
+    },
+    {
+      "id": 33,
+      "start": 111.08,
+      "end": 116.84,
+      "en": "One, two, three, four, five, six, ta, ti, triple e, ti.",
+      "zh": "一、二、三、四、五、六、Ta、Ti、Triple E、Ti。"
+    },
+    {
+      "id": 34,
+      "start": 116.84,
+      "end": 117.41,
+      "en": "Good, good.",
+      "zh": "不错，不错。"
+    },
+    {
+      "id": 35,
+      "start": 118.16,
+      "end": 119.23,
+      "en": "Don't forget the accidentals.",
+      "zh": "别忘了临时升降记号。"
+    },
+    {
+      "id": 36,
+      "start": 119.85,
+      "end": 124.01,
+      "en": "The key signature says that note should be a G sharp, but now it's a G natural.",
+      "zh": "按调号，那个音本来应该是升 G，但这里要弹还原 G。"
+    },
+    {
+      "id": 37,
+      "start": 124.95,
+      "end": 126.45,
+      "en": "Now add the bass clef.",
+      "zh": "现在把低音谱表的声部也加进来。"
+    },
+    {
+      "id": 38,
+      "start": 127.97,
+      "end": 129.43,
+      "en": "You're going too fast.",
+      "zh": "你弹得太快了。"
+    },
+    {
+      "id": 39,
+      "start": 130.76,
+      "end": 137.16,
+      "en": "Remember the tempo for this piece is andante.",
+      "zh": "记住，这首曲子的速度是行板。"
+    },
+    {
+      "id": 40,
+      "start": 137.16,
+      "end": 137.64,
+      "en": "Is that better?",
+      "zh": "那更好吗？"
+    },
+    {
+      "id": 41,
+      "start": 138.16,
+      "end": 139.22,
+      "en": "Yes, much better.",
+      "zh": "是的，好多了。"
+    },
+    {
+      "id": 42,
+      "start": 140.16,
+      "end": 141.74,
+      "en": "Watch where you lift your foot off the pedal.",
+      "zh": "注意松开踏板的时机。"
+    },
+    {
+      "id": 43,
+      "start": 142.56,
+      "end": 142.98,
+      "en": "What was that?",
+      "zh": "刚才那是什么？"
+    },
+    {
+      "id": 44,
+      "start": 143.72,
+      "end": 144.1,
+      "en": "Sorry.",
+      "zh": "抱歉。"
+    },
+    {
+      "id": 45,
+      "start": 144.72,
+      "end": 146.46,
+      "en": "The stretch for that octave is always hard to make.",
+      "zh": "手指要伸开跨到那个八度，总是很难。"
+    },
+    {
+      "id": 46,
+      "start": 147.24,
+      "end": 147.46,
+      "en": "That's okay.",
+      "zh": "没关系。"
+    },
+    {
+      "id": 47,
+      "start": 148.24,
+      "end": 149.24,
+      "en": "Keep going.",
+      "zh": "继续前进。"
+    },
+    {
+      "id": 48,
+      "start": 149.24,
+      "end": 150.28,
+      "en": "You're moving ahead by leaps and bounds.",
+      "zh": "你进步得很快。"
+    },
+    {
+      "id": 49,
+      "start": 151.6,
+      "end": 152.14,
+      "en": "Watch your dynamics.",
+      "zh": "注意演奏的强弱变化。"
+    },
+    {
+      "id": 50,
+      "start": 153.44,
+      "end": 154.4,
+      "en": "Keep your elbows lifted.",
+      "zh": "保持肘部抬起。"
+    },
+    {
+      "id": 51,
+      "start": 155.4,
+      "end": 156.78,
+      "en": "Remember to stroke the keys.",
+      "zh": "记得柔和地触键。"
+    },
+    {
+      "id": 52,
+      "start": 157.2,
+      "end": 157.58,
+      "en": "Don't pound.",
+      "zh": "别用力砸琴键。"
+    },
+    {
+      "id": 53,
+      "start": 158.68,
+      "end": 159.18,
+      "en": "That's better.",
+      "zh": "那更好。"
+    },
+    {
+      "id": 54,
+      "start": 159.91,
+      "end": 168.99,
+      "en": "Remember that as a pianist or any other musician, your technique will be what separates you from the pack just as much or as more so as your musicianship.",
+      "zh": "记住，无论是钢琴家还是其他音乐家，演奏技巧都和音乐素养一样重要，甚至更能让你脱颖而出。"
+    },
+    {
+      "id": 55,
+      "start": 170.08,
+      "end": 175.4,
+      "en": "All right, we're back.",
+      "zh": "好了，我们回来了。"
+    },
+    {
+      "id": 56,
+      "start": 175.4,
+      "end": 180.66,
+      "en": "You probably noticed that there are a lot of ways to describe certain aspects of playing the piano.",
+      "zh": "您可能注意到有很多方法可以描述弹奏钢琴的某些方面。"
+    },
+    {
+      "id": 57,
+      "start": 181.32,
+      "end": 183.24,
+      "en": "They talked about scales and all that stuff.",
+      "zh": "他们谈到了规模和所有这些东西。"
+    },
+    {
+      "id": 58,
+      "start": 183.36,
+      "end": 187.66,
+      "en": "Why don't we take a deeper look at this vocab in Language Takeaway Part 1.",
+      "zh": "我们为什么不深入了解一下语言外卖第 1 部分中的这个词汇。"
+    },
+    {
+      "id": 59,
+      "start": 190.31,
+      "end": 191.51,
+      "en": "Language Takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 60,
+      "start": 194.2,
+      "end": 196.52,
+      "en": "The first part of the lesson is the warm-up.",
+      "zh": "课程的第一部分是热身。"
+    },
+    {
+      "id": 61,
+      "start": 196.52,
+      "end": 200.5,
+      "en": "That's when we start to get our fingers moving and really stretch out.",
+      "zh": "那是我们开始让我们的手指移动并真正伸展的时候。"
+    },
+    {
+      "id": 62,
+      "start": 201.04,
+      "end": 207.76,
+      "en": "This is an important part of any musician's routine because it's also a way to practice some very basic, very fundamental things.",
+      "zh": "这是任何音乐家日常生活的重要组成部分，因为它也是练习一些非常基本、非常基本的事物的一种方式。"
+    },
+    {
+      "id": 63,
+      "start": 208.8,
+      "end": 210.02,
+      "en": "The first of which is a scale.",
+      "zh": "第一个是规模。"
+    },
+    {
+      "id": 64,
+      "start": 210.52,
+      "end": 210.76,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 65,
+      "start": 210.8,
+      "end": 214.34,
+      "en": "So actually, Cody started warming up with some scales.",
+      "zh": "所以实际上，科迪开始用一些鳞片热身。"
+    },
+    {
+      "id": 66,
+      "start": 214.72,
+      "end": 216.34,
+      "en": "So what exactly are scales?",
+      "zh": "那么究竟什么是尺度呢？"
+    },
+    {
+      "id": 67,
+      "start": 217.23,
+      "end": 220.17,
+      "en": "Well, basically, there are different musical notes.",
+      "zh": "好吧，基本上，有不同的音符。"
+    },
+    {
+      "id": 68,
+      "start": 220.56,
+      "end": 223.6,
+      "en": "Some people know them as do, re, mi, fa, sol, la, ti, do.",
+      "zh": "有些人知道他们 do, re, mi, fa, sol, la, ti, do。"
+    },
+    {
+      "id": 69,
+      "start": 223.6,
+      "end": 230.69,
+      "en": "Some people call them C, D, E, F, G, A, B, C. But each of those and many others have scales.",
+      "zh": "有些人称它们为 C、D、E、F、G、A、B、C。但这些和许多其他人都有尺度。"
+    },
+    {
+      "id": 70,
+      "start": 231.92,
+      "end": 232.53,
+      "en": "So that's eight notes together.",
+      "zh": "所以这是八个音符。"
+    },
+    {
+      "id": 71,
+      "start": 233.12,
+      "end": 234.12,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 72,
+      "start": 234.12,
+      "end": 238.96,
+      "en": "So basically, when you're playing scales, you're just playing a sequence of these eight notes.",
+      "zh": "所以基本上，当你演奏音阶时，你只是在演奏这八个音符的序列。"
+    },
+    {
+      "id": 73,
+      "start": 239.72,
+      "end": 240.72,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 74,
+      "start": 240.72,
+      "end": 241.72,
+      "en": "Going up or down.",
+      "zh": "向上或向下。"
+    },
+    {
+      "id": 75,
+      "start": 241.72,
+      "end": 242.72,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 76,
+      "start": 242.72,
+      "end": 243.72,
+      "en": "To warm up.",
+      "zh": "热身。"
+    },
+    {
+      "id": 77,
+      "start": 243.72,
+      "end": 244.72,
+      "en": "And what about an arpeggio?",
+      "zh": "琶音呢？"
+    },
+    {
+      "id": 78,
+      "start": 244.72,
+      "end": 245.1,
+      "en": "I think this is Italian, right?",
+      "zh": "我觉得这是意大利语，对吧？"
+    },
+    {
+      "id": 79,
+      "start": 245.72,
+      "end": 246.72,
+      "en": "Definitely.",
+      "zh": "当然。"
+    },
+    {
+      "id": 80,
+      "start": 246.72,
+      "end": 250.28,
+      "en": "Arpeggio is another kind of warm-up where you're not playing every single note.",
+      "zh": "Arpeggio 是另一种热身，您不会播放每个音符。"
+    },
+    {
+      "id": 81,
+      "start": 250.48,
+      "end": 252.32,
+      "en": "You're playing some notes in a scale.",
+      "zh": "你在演奏一些音阶的音符。"
+    },
+    {
+      "id": 82,
+      "start": 252.38,
+      "end": 252.8,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 83,
+      "start": 253.32,
+      "end": 255.76,
+      "en": "So, la, da, da, da, da, da, da, da.",
+      "zh": "所以，洛杉矶，DA，DA，DA，DA，DA，DA，DA，DA。"
+    },
+    {
+      "id": 84,
+      "start": 255.76,
+      "end": 256.32,
+      "en": "That's an arpeggio.",
+      "zh": "那是琶音。"
+    },
+    {
+      "id": 85,
+      "start": 256.76,
+      "end": 257.0,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 86,
+      "start": 257.76,
+      "end": 258.76,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 87,
+      "start": 258.76,
+      "end": 261.18,
+      "en": "So, and as you said, these are usually for warm-ups, right?",
+      "zh": "所以，正如你所说，这些通常是为了热身，对吧？"
+    },
+    {
+      "id": 88,
+      "start": 261.66,
+      "end": 261.94,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 89,
+      "start": 261.98,
+      "end": 269.6,
+      "en": "They're also very important because they come into play later when you're talking about the key that a song or a piece of music is in.",
+      "zh": "它们也非常重要，因为当您谈论一首歌曲或一段音乐的关键时，它们会在以后发挥作用。"
+    },
+    {
+      "id": 90,
+      "start": 269.68,
+      "end": 272.62,
+      "en": "So this helps you memorize the key that some music is in.",
+      "zh": "因此，这可以帮助您记住某些音乐所在的关键。"
+    },
+    {
+      "id": 91,
+      "start": 272.84,
+      "end": 273.12,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 92,
+      "start": 273.22,
+      "end": 273.68,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 93,
+      "start": 274.26,
+      "end": 278.98,
+      "en": "So I think related to this is the rhythm of the piece that you're playing.",
+      "zh": "所以我认为与此相关的是您正在演奏的作品的节奏。"
+    },
+    {
+      "id": 94,
+      "start": 279.57,
+      "end": 280.05,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 95,
+      "start": 280.21,
+      "end": 281.21,
+      "en": "So rhythm is really important.",
+      "zh": "所以节奏真的很重要。"
+    },
+    {
+      "id": 96,
+      "start": 281.96,
+      "end": 285.6,
+      "en": "You can even say, you know, he's got rhythm or they have rhythm.",
+      "zh": "你甚至可以说，你知道，他有节奏，或者他们有节奏。"
+    },
+    {
+      "id": 97,
+      "start": 285.6,
+      "end": 287.95,
+      "en": "It's a way to describe the beat of a kind of music.",
+      "zh": "这是一种描述一种音乐节拍的方式。"
+    },
+    {
+      "id": 98,
+      "start": 288.32,
+      "end": 292.84,
+      "en": "So sometimes it has to do with how fast or how slow something is.",
+      "zh": "所以有时它与某物的速度或速度有关。"
+    },
+    {
+      "id": 99,
+      "start": 292.84,
+      "end": 295.21,
+      "en": "Other times it has to do with the way that the notes work together.",
+      "zh": "其他时候，它与音符协同工作的方式有关。"
+    },
+    {
+      "id": 100,
+      "start": 296.24,
+      "end": 302.71,
+      "en": "For example, a steady beat would be one, two, three, four, one, two, three, four.",
+      "zh": "例如，一个稳定的节拍是一、二、三、四、一、二、三、四。"
+    },
+    {
+      "id": 101,
+      "start": 303.32,
+      "end": 304.25,
+      "en": "This is a complicated beat.",
+      "zh": "这是一个复杂的节拍。"
+    },
+    {
+      "id": 102,
+      "start": 304.44,
+      "end": 308.56,
+      "en": "It goes ta, ti, tri, po, li, ta, ti, tri, po, li.",
+      "zh": "它去 ta、ti、tri、po、li、ta、ti、tri、po、li。"
+    },
+    {
+      "id": 103,
+      "start": 308.56,
+      "end": 310.68,
+      "en": "So this is a very difficult kind of rhythm.",
+      "zh": "所以这是一种非常困难的节奏。"
+    },
+    {
+      "id": 104,
+      "start": 310.68,
+      "end": 311.68,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 105,
+      "start": 311.68,
+      "end": 315.81,
+      "en": "So the rhythm is just kind of, it gives you how fast, how slow it is.",
+      "zh": "所以节奏只是一种，它给你有多快，有多慢。"
+    },
+    {
+      "id": 106,
+      "start": 316.12,
+      "end": 322.69,
+      "en": "And I guess if you can take a look at notes and you can play it in many different rhythms, but not necessarily they're going to sound correct.",
+      "zh": "我想如果你能看一看音符，你可以以许多不同的节奏演奏它，但不一定它们听起来会正确。"
+    },
+    {
+      "id": 107,
+      "start": 323.09,
+      "end": 323.37,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 108,
+      "start": 323.81,
+      "end": 324.65,
+      "en": "And actually it's interesting.",
+      "zh": "实际上它很有趣。"
+    },
+    {
+      "id": 109,
+      "start": 324.96,
+      "end": 329.36,
+      "en": "In English we also have a group of instruments that are called rhythm instruments.",
+      "zh": "在英语中，我们还有一组称为节奏乐器的乐器。"
+    },
+    {
+      "id": 110,
+      "start": 329.36,
+      "end": 330.64,
+      "en": "So this would be like the drums.",
+      "zh": "所以这就像鼓一样。"
+    },
+    {
+      "id": 111,
+      "start": 330.65,
+      "end": 330.79,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 112,
+      "start": 331.13,
+      "end": 331.73,
+      "en": "So it gives the beat.",
+      "zh": "所以它给了节拍。"
+    },
+    {
+      "id": 113,
+      "start": 332.64,
+      "end": 333.64,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 114,
+      "start": 333.64,
+      "end": 334.64,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 115,
+      "start": 334.64,
+      "end": 340.72,
+      "en": "And well, moving on, I think some other Italian words popped up in here when they talked about crescendo and decrescendo.",
+      "zh": "好吧，继续前进，我想当他们谈论渐强和下降时，这里出现了其他一些意大利语单词。"
+    },
+    {
+      "id": 116,
+      "start": 341.26,
+      "end": 341.7,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 117,
+      "start": 341.88,
+      "end": 345.18,
+      "en": "So crescendo is when something becomes louder.",
+      "zh": "所以渐强是当某事变得更响亮的时候。"
+    },
+    {
+      "id": 118,
+      "start": 345.84,
+      "end": 347.58,
+      "en": "So I can make a crescendo.",
+      "zh": "所以我可以做一个高潮。"
+    },
+    {
+      "id": 119,
+      "start": 348.84,
+      "end": 353.02,
+      "en": "But a decrescendo, de in Italian, just like in English means it's the opposite.",
+      "zh": "但在意大利语中，decrescendo，就像在英语中一样，意味着情况正好相反。"
+    },
+    {
+      "id": 120,
+      "start": 353.8,
+      "end": 355.38,
+      "en": "So it means it's getting really softer.",
+      "zh": "所以这意味着它变得更加柔软。"
+    },
+    {
+      "id": 121,
+      "start": 356.1,
+      "end": 356.24,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 122,
+      "start": 357.0,
+      "end": 358.0,
+      "en": "And what about pianissimo?",
+      "zh": "那么钢琴呢？"
+    },
+    {
+      "id": 123,
+      "start": 358.0,
+      "end": 361.28,
+      "en": "Pianissimo is basically an indication.",
+      "zh": "Pianissimo 基本上是一个迹象。"
+    },
+    {
+      "id": 124,
+      "start": 361.28,
+      "end": 362.76,
+      "en": "It also comes from Italian.",
+      "zh": "它也来自意大利语。"
+    },
+    {
+      "id": 125,
+      "start": 362.76,
+      "end": 367.62,
+      "en": "It's an indication that a player, a musician should play something very, very, very quietly.",
+      "zh": "这表明演奏者、音乐家应该非常、非常、非常安静地演奏一些东西。"
+    },
+    {
+      "id": 126,
+      "start": 368.22,
+      "end": 369.38,
+      "en": "It's almost like a whisper.",
+      "zh": "这几乎就像一个耳语。"
+    },
+    {
+      "id": 127,
+      "start": 369.73,
+      "end": 370.21,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 128,
+      "start": 370.63,
+      "end": 378.19,
+      "en": "So all these three words have to do with the volume of or how loud or not so loud you play the instrument.",
+      "zh": "所以这三个词都与你演奏乐器的音量或声音有多大有关。"
+    },
+    {
+      "id": 129,
+      "start": 378.51,
+      "end": 378.85,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 130,
+      "start": 379.15,
+      "end": 379.39,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 131,
+      "start": 379.41,
+      "end": 379.87,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 132,
+      "start": 380.61,
+      "end": 384.93,
+      "en": "And well, moving on now, we talk about accidentals.",
+      "zh": "好吧，现在继续，我们谈论偶然。"
+    },
+    {
+      "id": 133,
+      "start": 385.73,
+      "end": 386.03,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 134,
+      "start": 386.09,
+      "end": 386.55,
+      "en": "This is important.",
+      "zh": "这很重要。"
+    },
+    {
+      "id": 135,
+      "start": 386.85,
+      "end": 388.45,
+      "en": "Remember earlier we were talking about scales.",
+      "zh": "请记住，我们之前谈论的是规模。"
+    },
+    {
+      "id": 136,
+      "start": 389.35,
+      "end": 392.95,
+      "en": "Well, for example, the G scale has one sharp.",
+      "zh": "好吧，例如，G 尺度有 1 个尖锐。"
+    },
+    {
+      "id": 137,
+      "start": 393.72,
+      "end": 394.62,
+      "en": "So that's an F sharp.",
+      "zh": "所以这是一个 f 锐利。"
+    },
+    {
+      "id": 138,
+      "start": 395.0,
+      "end": 400.44,
+      "en": "So if I'm playing it on the piano, there are seven white keys and one black key.",
+      "zh": "所以如果我在钢琴上弹奏它，有七个白键和一把黑键。"
+    },
+    {
+      "id": 139,
+      "start": 400.86,
+      "end": 401.14,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 140,
+      "start": 401.28,
+      "end": 406.16,
+      "en": "So actually here they mentioned G sharp and then something like G natural.",
+      "zh": "所以实际上在这里他们提到了 G Sharp，然后是 G Natural 之类的东西。"
+    },
+    {
+      "id": 141,
+      "start": 406.52,
+      "end": 410.24,
+      "en": "All this, just like for everyone that's out there is complete Chinese to me.",
+      "zh": "所有这一切，就像所有在外面的人对我来说都是完整的中文一样。"
+    },
+    {
+      "id": 142,
+      "start": 410.24,
+      "end": 412.72,
+      "en": "I have no idea what this is all about.",
+      "zh": "我不知道这是怎么回事。"
+    },
+    {
+      "id": 143,
+      "start": 412.72,
+      "end": 418.15,
+      "en": "So you have the accidentals and G sharp and you're describing something about sharpness with accidentals.",
+      "zh": "所以你有意外和 g sharp，你正在描述一些关于意外的锐度。"
+    },
+    {
+      "id": 144,
+      "start": 418.39,
+      "end": 418.79,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 145,
+      "start": 419.05,
+      "end": 421.41,
+      "en": "So basically if you look at a piano, you have white keys.",
+      "zh": "所以基本上，如果你看一架钢琴，你就有了白键。"
+    },
+    {
+      "id": 146,
+      "start": 422.44,
+      "end": 424.16,
+      "en": "Those are natural.",
+      "zh": "那些是自然的。"
+    },
+    {
+      "id": 147,
+      "start": 424.16,
+      "end": 426.36,
+      "en": "They don't have a sharp or a flat.",
+      "zh": "他们没有尖锐或平坦的。"
+    },
+    {
+      "id": 148,
+      "start": 426.36,
+      "end": 431.2,
+      "en": "The sharps and flats are actually played on the black keys.",
+      "zh": "锐器和平底鞋实际上是在黑键上播放的。"
+    },
+    {
+      "id": 149,
+      "start": 431.2,
+      "end": 434.24,
+      "en": "Usually it's a half step from a normal note.",
+      "zh": "通常它比普通音符半步。"
+    },
+    {
+      "id": 150,
+      "start": 434.24,
+      "end": 437.96,
+      "en": "So G, it's a half step.",
+      "zh": "那么G，这是半步。"
+    },
+    {
+      "id": 151,
+      "start": 437.96,
+      "end": 439.95,
+      "en": "We're talking about different keys.",
+      "zh": "我们在谈论不同的键。"
+    },
+    {
+      "id": 152,
+      "start": 440.2,
+      "end": 447.44,
+      "en": "So if something is in the key of G, all of you music people know what this is, key of G, there's one accidental.",
+      "zh": "因此，如果 G 的键中有什么东西，你们所有的音乐人都知道这是什么，G 的关键，这是一个偶然的。"
+    },
+    {
+      "id": 153,
+      "start": 447.44,
+      "end": 447.75,
+      "en": "What's the accidental?",
+      "zh": "什么是偶然？"
+    },
+    {
+      "id": 154,
+      "start": 448.44,
+      "end": 448.95,
+      "en": "It's always F sharp.",
+      "zh": "它总是锋利的。"
+    },
+    {
+      "id": 155,
+      "start": 449.56,
+      "end": 452.96,
+      "en": "And so an accidental means a sharp or a flat in that key.",
+      "zh": "因此，偶然的意思是该键中的尖锐或扁平。"
+    },
+    {
+      "id": 156,
+      "start": 453.17,
+      "end": 453.37,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 157,
+      "start": 453.96,
+      "end": 457.32,
+      "en": "So when we talk about sharps on the piano, they're basically the black keys.",
+      "zh": "所以当我们谈论钢琴上的尖利时，它们基本上是黑键。"
+    },
+    {
+      "id": 158,
+      "start": 457.53,
+      "end": 457.69,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 159,
+      "start": 457.69,
+      "end": 459.71,
+      "en": "Well, sharps and flats can both be black keys.",
+      "zh": "好吧，锐器和平底鞋都可以是黑键。"
+    },
+    {
+      "id": 160,
+      "start": 459.95,
+      "end": 460.23,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 161,
+      "start": 460.35,
+      "end": 460.79,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 162,
+      "start": 461.49,
+      "end": 468.09,
+      "en": "And well, apart from accidentals and G sharp, G natural, the teacher also talked about a bass clef.",
+      "zh": "好吧，除了偶然和 G Sharp、G Natural 之外，老师还谈到了一个低音谱号。"
+    },
+    {
+      "id": 163,
+      "start": 468.9,
+      "end": 469.46,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 164,
+      "start": 469.48,
+      "end": 481.9,
+      "en": "This is important for people who play lower instruments like the bass, you know, the upright bass that big one or people who play the piano, obviously, this represents a way of writing the lower notes.",
+      "zh": "这对于演奏低音乐器的人来说很重要，你知道，大个子的直立低音或弹钢琴的人，显然，这代表了一种写下音符的方式。"
+    },
+    {
+      "id": 165,
+      "start": 482.44,
+      "end": 483.44,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 166,
+      "start": 483.44,
+      "end": 487.24,
+      "en": "So you see the lines, those five lines on paper and people write the notes.",
+      "zh": "所以你会看到线条、纸上的那五行和人们写笔记。"
+    },
+    {
+      "id": 167,
+      "start": 487.24,
+      "end": 491.72,
+      "en": "Well, sometimes they're for higher instruments, you know, the flute or the trumpet.",
+      "zh": "好吧，有时它们是为了更高的乐器，你知道的，长笛或小号。"
+    },
+    {
+      "id": 168,
+      "start": 491.72,
+      "end": 502.0,
+      "en": "But sometimes when they're for lower instruments, like the left hand of a piano or for the upright bass, you have to write it in a special register, a special part of the sound kind of continuum.",
+      "zh": "但有时当它们用于较低的乐器时，例如钢琴的左手或直立的低音，您必须将其写在一个特殊的寄存器中，这是声音连续的特殊部分。"
+    },
+    {
+      "id": 169,
+      "start": 502.44,
+      "end": 503.32,
+      "en": "And that's the treble.",
+      "zh": "这就是高音。"
+    },
+    {
+      "id": 170,
+      "start": 503.96,
+      "end": 504.62,
+      "en": "That's the bass clef.",
+      "zh": "这就是低音谱号。"
+    },
+    {
+      "id": 171,
+      "start": 505.08,
+      "end": 506.08,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 172,
+      "start": 506.08,
+      "end": 512.92,
+      "en": "So basically, if anyone has ever seen piano notes, it tells you what to play with your left hand and your right hand.",
+      "zh": "所以基本上，如果有人看过钢琴音符，它会告诉你用左手和右手弹什么。"
+    },
+    {
+      "id": 173,
+      "start": 513.16,
+      "end": 519.43,
+      "en": "So I imagine the bass clef will be everything that's on your left hand because that sounds like deeper, graver, right?",
+      "zh": "所以我想低音谱号将是你左手的一切，因为这听起来更深、更深，对吧？"
+    },
+    {
+      "id": 174,
+      "start": 519.59,
+      "end": 520.17,
+      "en": "Yeah, it's lower.",
+      "zh": "是的，它更低。"
+    },
+    {
+      "id": 175,
+      "start": 520.63,
+      "end": 524.71,
+      "en": "So it's lower on the scale instead of like up high up here where it's on the treble clef.",
+      "zh": "所以它在音阶上较低，而不是像高音一样在高音谱号上的位置。"
+    },
+    {
+      "id": 176,
+      "start": 524.92,
+      "end": 525.92,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 177,
+      "start": 525.92,
+      "end": 527.67,
+      "en": "So, oh, so the opposite would be the treble clef.",
+      "zh": "所以，哦，相反的是高音谱号。"
+    },
+    {
+      "id": 178,
+      "start": 528.04,
+      "end": 529.04,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 179,
+      "start": 529.04,
+      "end": 530.04,
+      "en": "The treble clef is up higher.",
+      "zh": "高音谱号更高。"
+    },
+    {
+      "id": 180,
+      "start": 530.04,
+      "end": 531.15,
+      "en": "It's most other instruments like the trumpet.",
+      "zh": "它是大多数其他乐器，如小号。"
+    },
+    {
+      "id": 181,
+      "start": 532.08,
+      "end": 533.49,
+      "en": "The bass clef is for lower instruments.",
+      "zh": "低音谱号适用于较低的乐器。"
+    },
+    {
+      "id": 182,
+      "start": 533.92,
+      "end": 537.67,
+      "en": "And that just means that the way that you read the music on the page is a little bit different.",
+      "zh": "这只是意味着您在页面上阅读音乐的方式有点不同。"
+    },
+    {
+      "id": 183,
+      "start": 538.4,
+      "end": 538.77,
+      "en": "Okay, very good.",
+      "zh": "好，很好。"
+    },
+    {
+      "id": 184,
+      "start": 539.68,
+      "end": 546.72,
+      "en": "And well, we also got into things like tempo and the piece was described as andante.",
+      "zh": "好吧，我们也进入了 Tempo 之类的东西，这件作品被描述为 Andante。"
+    },
+    {
+      "id": 185,
+      "start": 546.72,
+      "end": 547.72,
+      "en": "Andante.",
+      "zh": "安达特。"
+    },
+    {
+      "id": 186,
+      "start": 548.16,
+      "end": 549.5,
+      "en": "This is a very Italian word.",
+      "zh": "这是一个非常意大利语的词。"
+    },
+    {
+      "id": 187,
+      "start": 549.84,
+      "end": 553.24,
+      "en": "Okay, so andante means that something is played slowly.",
+      "zh": "好的，所以安达特意味着某些东西播放得很慢。"
+    },
+    {
+      "id": 188,
+      "start": 553.24,
+      "end": 553.48,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 189,
+      "start": 554.24,
+      "end": 558.28,
+      "en": "So apart from andante, if so, it's a style or a tempo.",
+      "zh": "所以除了安达特，如果是这样，它是一种风格或节奏。"
+    },
+    {
+      "id": 190,
+      "start": 558.3,
+      "end": 561.1,
+      "en": "I guess tempo is the speed of which is played, right?",
+      "zh": "我猜速度是播放速度，对吧？"
+    },
+    {
+      "id": 191,
+      "start": 561.28,
+      "end": 561.6,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 192,
+      "start": 562.48,
+      "end": 570.72,
+      "en": "But you're right to say that it's also a style because in many symphonies, for example, there's a movement, a part of the symphony that's called the andante.",
+      "zh": "但你说它也是一种风格是对的，因为在许多交响乐中，例如，有一个乐章，一个被称为行星的交响曲的一部分。"
+    },
+    {
+      "id": 193,
+      "start": 570.72,
+      "end": 575.04,
+      "en": "And that's when everything starts to get slow and serious or pretty.",
+      "zh": "那是一切开始变得缓慢、严肃或漂亮的时候。"
+    },
+    {
+      "id": 194,
+      "start": 575.05,
+      "end": 578.65,
+      "en": "I've heard, I don't know, in piano, I've heard of something called staccato.",
+      "zh": "我听说过，我不知道，在钢琴中，我听说过一种叫做断奏的东西。"
+    },
+    {
+      "id": 195,
+      "start": 579.45,
+      "end": 581.75,
+      "en": "And I think this is also related to tempo, right?",
+      "zh": "而且我认为这也与节奏有关，对吧？"
+    },
+    {
+      "id": 196,
+      "start": 582.29,
+      "end": 584.09,
+      "en": "Staccato is the way that you play something.",
+      "zh": "断断续续是你演奏某物的方式。"
+    },
+    {
+      "id": 197,
+      "start": 584.37,
+      "end": 588.81,
+      "en": "So instead of having these long, pretty notes, you're playing them like this.",
+      "zh": "因此，您没有像这样播放这些长而漂亮的音符，而是像这样播放它们。"
+    },
+    {
+      "id": 198,
+      "start": 589.11,
+      "end": 589.99,
+      "en": "They're very, very sharp.",
+      "zh": "它们非常非常锋利。"
+    },
+    {
+      "id": 199,
+      "start": 591.28,
+      "end": 592.28,
+      "en": "Like a machine gun.",
+      "zh": "就像机枪一样。"
+    },
+    {
+      "id": 200,
+      "start": 592.89,
+      "end": 595.15,
+      "en": "Okay, so but it's not related to the tempo.",
+      "zh": "好吧，但它与节奏无关。"
+    },
+    {
+      "id": 201,
+      "start": 595.8,
+      "end": 598.23,
+      "en": "It's kind of more just like the way that you press the keys.",
+      "zh": "这有点像你按下按键的方式。"
+    },
+    {
+      "id": 202,
+      "start": 598.45,
+      "end": 598.63,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 203,
+      "start": 598.93,
+      "end": 600.09,
+      "en": "It's a style for playing.",
+      "zh": "这是一种玩耍的风格。"
+    },
+    {
+      "id": 204,
+      "start": 600.47,
+      "end": 600.77,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 205,
+      "start": 601.45,
+      "end": 601.71,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 206,
+      "start": 602.4,
+      "end": 606.09,
+      "en": "Well, the teacher also told the student to be careful where they lift the foot off the pedal.",
+      "zh": "好吧，老师还告诉学生要小心他们将脚从踏板上抬起的地方。"
+    },
+    {
+      "id": 207,
+      "start": 607.08,
+      "end": 610.21,
+      "en": "And the student said, I'm just so sorry.",
+      "zh": "学生说，我很抱歉。"
+    },
+    {
+      "id": 208,
+      "start": 610.4,
+      "end": 612.65,
+      "en": "The stretch for that octave is always hard to make.",
+      "zh": "手指要伸开跨到那个八度，总是很难。"
+    },
+    {
+      "id": 209,
+      "start": 613.12,
+      "end": 617.48,
+      "en": "Okay, so an octave is really, really important in music.",
+      "zh": "好吧，所以八度在音乐中非常非常重要。"
+    },
+    {
+      "id": 210,
+      "start": 617.48,
+      "end": 620.15,
+      "en": "Like we were talking about earlier with a scale, a scale is eight notes.",
+      "zh": "就像我们之前用音阶讨论的那样，音阶是八个音符。"
+    },
+    {
+      "id": 211,
+      "start": 620.61,
+      "end": 627.03,
+      "en": "Well, the root, the place the word octave comes from is the number eight, like an octagon.",
+      "zh": "好吧，词根，八度这个词的来源是数字八，就像一个八角形。"
+    },
+    {
+      "id": 212,
+      "start": 628.25,
+      "end": 635.76,
+      "en": "So octave means eight notes together, or like low C, high C, that's an octave.",
+      "zh": "所以八度音表示八音音，或者像低C、高C一样，这是一个八度音阶。"
+    },
+    {
+      "id": 213,
+      "start": 636.56,
+      "end": 643.84,
+      "en": "So think about the piano, when you're putting your fingers on the keys, covering eight keys means you have to stretch your thumb and your pinky out really, really far.",
+      "zh": "所以想想钢琴，当你把手指放在琴键上时，覆盖八个键意味着你必须拉伸你的拇指和你的小指，真的，真的很远。"
+    },
+    {
+      "id": 214,
+      "start": 644.68,
+      "end": 651.72,
+      "en": "And so he's saying, sorry, it's hard for me to do this because the octave, that stretch is really hard for my hand.",
+      "zh": "所以他说，对不起，我很难做到这一点，因为八度音程，这对我的手来说真的很难。"
+    },
+    {
+      "id": 215,
+      "start": 651.72,
+      "end": 652.72,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 216,
+      "start": 652.72,
+      "end": 653.72,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 217,
+      "start": 653.72,
+      "end": 654.72,
+      "en": "So this is different from an eighth, right?",
+      "zh": "所以这与第八个不同，对吧？"
+    },
+    {
+      "id": 218,
+      "start": 654.98,
+      "end": 655.68,
+      "en": "Well, it depends.",
+      "zh": "嗯，这要看情况。"
+    },
+    {
+      "id": 219,
+      "start": 655.86,
+      "end": 656.74,
+      "en": "Are you talking about eighth note?",
+      "zh": "你说的是第八个音符吗？"
+    },
+    {
+      "id": 220,
+      "start": 656.84,
+      "end": 657.14,
+      "en": "I don't know.",
+      "zh": "我不知道。"
+    },
+    {
+      "id": 221,
+      "start": 657.72,
+      "end": 662.32,
+      "en": "Because I just came into the night because an octave is eight and an eighth note is different, I imagine.",
+      "zh": "因为我只是来了，因为八度是八音，而八分音是不同的，我想。"
+    },
+    {
+      "id": 222,
+      "start": 662.76,
+      "end": 663.76,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 223,
+      "start": 663.76,
+      "end": 665.26,
+      "en": "Well, you heard in the dialogue, 16th note, eighth note.",
+      "zh": "好吧，你在对话中听到的，第 16 分音符，第八个音符。"
+    },
+    {
+      "id": 224,
+      "start": 665.84,
+      "end": 668.72,
+      "en": "That's actually talking about the length of a note, how long you hold it.",
+      "zh": "这实际上是在谈论音符的长度，您持有它的时间。"
+    },
+    {
+      "id": 225,
+      "start": 669.36,
+      "end": 669.54,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 226,
+      "start": 670.36,
+      "end": 674.28,
+      "en": "So basically you're saying it's the way you measure the music.",
+      "zh": "所以基本上你是说这是你衡量音乐的方式。"
+    },
+    {
+      "id": 227,
+      "start": 674.28,
+      "end": 678.66,
+      "en": "You can have four count or three count, but you divide that into pieces.",
+      "zh": "你可以有四个或三个数，但你把它分成几块。"
+    },
+    {
+      "id": 228,
+      "start": 678.66,
+      "end": 680.86,
+      "en": "It's like a pie in math where you divide it into pieces.",
+      "zh": "这就像数学中的馅饼，你把它分成几块。"
+    },
+    {
+      "id": 229,
+      "start": 681.7,
+      "end": 686.4,
+      "en": "So if it's a 16th note or an eighth note, that's the length based on the kind of music you're playing.",
+      "zh": "因此，如果它是 16 分音符或八分音符，那就是基于您正在播放的音乐类型的长度。"
+    },
+    {
+      "id": 230,
+      "start": 686.6,
+      "end": 688.56,
+      "en": "So I imagine 16th note is shorter than eighth.",
+      "zh": "所以我想 16 分音符比第 8 个短。"
+    },
+    {
+      "id": 231,
+      "start": 688.84,
+      "end": 689.04,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 232,
+      "start": 689.92,
+      "end": 690.92,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 233,
+      "start": 690.92,
+      "end": 691.92,
+      "en": "At least I got that one right.",
+      "zh": "至少我做对了。"
+    },
+    {
+      "id": 234,
+      "start": 691.92,
+      "end": 693.76,
+      "en": "And 32nd note is shorter than a 16th note.",
+      "zh": "第 32 音符短于 16 音符。"
+    },
+    {
+      "id": 235,
+      "start": 693.82,
+      "end": 693.96,
+      "en": "Wow.",
+      "zh": "哇。"
+    },
+    {
+      "id": 236,
+      "start": 694.04,
+      "end": 695.22,
+      "en": "You have all the way up to 32nd.",
+      "zh": "你一直到第 32 位。"
+    },
+    {
+      "id": 237,
+      "start": 695.44,
+      "end": 696.48,
+      "en": "64th note is shorter.",
+      "zh": "64 音符较短。"
+    },
+    {
+      "id": 238,
+      "start": 696.76,
+      "end": 697.76,
+      "en": "Oh, wow.",
+      "zh": "哦，哇。"
+    },
+    {
+      "id": 239,
+      "start": 697.76,
+      "end": 698.76,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 240,
+      "start": 698.76,
+      "end": 699.68,
+      "en": "It gets very complicated, very mathy.",
+      "zh": "它变得非常复杂，非常数学。"
+    },
+    {
+      "id": 241,
+      "start": 699.99,
+      "end": 700.29,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 242,
+      "start": 700.76,
+      "end": 704.17,
+      "en": "And towards the end, the teacher recommended for Cody to watch his dynamics.",
+      "zh": "最后，老师建议科迪观看他的动态。"
+    },
+    {
+      "id": 243,
+      "start": 704.96,
+      "end": 706.65,
+      "en": "What does she mean with watch your dynamics?",
+      "zh": "看你的动态是什么意思？"
+    },
+    {
+      "id": 244,
+      "start": 707.15,
+      "end": 708.47,
+      "en": "I used to get this all the time in music.",
+      "zh": "我曾经在音乐中一直得到这个。"
+    },
+    {
+      "id": 245,
+      "start": 709.09,
+      "end": 714.11,
+      "en": "So you're concentrating on your music, you're playing, you're getting the notes and Cody is stretching his hands.",
+      "zh": "所以你专注于你的音乐，你在演奏，你得到了音符，而科迪正在伸手。"
+    },
+    {
+      "id": 246,
+      "start": 714.36,
+      "end": 723.3,
+      "en": "The octaves are so far away and he forgets to play it loud or soft because on the page it says like we heard earlier, decrescendo.",
+      "zh": "八度音程很远，他忘记大声或柔软地播放它，因为在页面上它说的就像我们之前听到的那样，下降。"
+    },
+    {
+      "id": 247,
+      "start": 723.3,
+      "end": 724.55,
+      "en": "So get much, much softer.",
+      "zh": "所以得到很多，更柔软。"
+    },
+    {
+      "id": 248,
+      "start": 725.32,
+      "end": 726.31,
+      "en": "So Cody completely forgot.",
+      "zh": "所以科迪完全忘记了。"
+    },
+    {
+      "id": 249,
+      "start": 726.68,
+      "end": 727.29,
+      "en": "He's not listening.",
+      "zh": "他不听。"
+    },
+    {
+      "id": 250,
+      "start": 727.59,
+      "end": 732.61,
+      "en": "He's not reading the page and seeing what it says about the volume of the music.",
+      "zh": "他不是在阅读页面，而是看到它对音乐音量的看法。"
+    },
+    {
+      "id": 251,
+      "start": 733.01,
+      "end": 739.23,
+      "en": "So basically the dynamics are like the instructions of how loud to play it or not so loud.",
+      "zh": "所以基本上动态就像播放它的响亮或不那么响亮的说明。"
+    },
+    {
+      "id": 252,
+      "start": 739.39,
+      "end": 739.75,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 253,
+      "start": 740.13,
+      "end": 742.39,
+      "en": "So does it say pianissimo or the opposite?",
+      "zh": "那么它是说 Pianissimo 还是相反的？"
+    },
+    {
+      "id": 254,
+      "start": 743.05,
+      "end": 744.09,
+      "en": "Does it say forte?",
+      "zh": "是说强力吗？"
+    },
+    {
+      "id": 255,
+      "start": 744.12,
+      "end": 747.24,
+      "en": "And it will actually say this on the notes.",
+      "zh": "它实际上会在笔记上这么说。"
+    },
+    {
+      "id": 256,
+      "start": 747.24,
+      "end": 748.24,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 257,
+      "start": 748.24,
+      "end": 749.09,
+      "en": "Forte, it'll say that.",
+      "zh": "福特，它会这么说。"
+    },
+    {
+      "id": 258,
+      "start": 749.24,
+      "end": 751.08,
+      "en": "F-O-R-T-E or sometimes just F.",
+      "zh": "F-O-R-T-E 或有时只是 f。"
+    },
+    {
+      "id": 259,
+      "start": 751.08,
+      "end": 752.08,
+      "en": "Oh, okay.",
+      "zh": "哦，好吧。"
+    },
+    {
+      "id": 260,
+      "start": 752.29,
+      "end": 754.03,
+      "en": "So P is piano.",
+      "zh": "P是钢琴。"
+    },
+    {
+      "id": 261,
+      "start": 754.05,
+      "end": 755.83,
+      "en": "That means like we said earlier, quiet.",
+      "zh": "这意味着就像我们之前说的那样，安静。"
+    },
+    {
+      "id": 262,
+      "start": 756.28,
+      "end": 759.28,
+      "en": "Pianissimo is P, P, P. It's very, very quiet.",
+      "zh": "Pianissimo 是 P、P、P。它非常非常安静。"
+    },
+    {
+      "id": 263,
+      "start": 759.28,
+      "end": 760.75,
+      "en": "F is forte, loud.",
+      "zh": "f 是强项，响亮。"
+    },
+    {
+      "id": 264,
+      "start": 761.56,
+      "end": 762.56,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 265,
+      "start": 762.56,
+      "end": 772.21,
+      "en": "So I think, well, if anyone out there plays an instrument you can relate and you can maybe know about these things that you may know it in your original language.",
+      "zh": "所以我认为，好吧，如果有人演奏一种乐器，你可以了解这些事情，你可能会用你的原始语言知道这些事情。"
+    },
+    {
+      "id": 266,
+      "start": 772.73,
+      "end": 779.15,
+      "en": "I know many people who play musical instruments and don't really know the technical words in their original language.",
+      "zh": "我认识很多演奏乐器的人，并不真正了解他们原始语言的技术单词。"
+    },
+    {
+      "id": 267,
+      "start": 779.35,
+      "end": 782.99,
+      "en": "I mean, things like Andante and pianissimo, things like this, I think are universal, right?",
+      "zh": "我的意思是，像安达特和皮亚尼西莫这样的东西，我认为这样的东西是普遍的，对吧？"
+    },
+    {
+      "id": 268,
+      "start": 783.09,
+      "end": 784.49,
+      "en": "They're used in whatever language.",
+      "zh": "它们以任何语言使用。"
+    },
+    {
+      "id": 269,
+      "start": 784.67,
+      "end": 784.89,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 270,
+      "start": 785.84,
+      "end": 786.96,
+      "en": "Very, very widely used.",
+      "zh": "非常非常广泛使用。"
+    },
+    {
+      "id": 271,
+      "start": 786.96,
+      "end": 796.36,
+      "en": "But things like the accidentals or bass clef or scales and stuff like that, I think it's obviously different languages.",
+      "zh": "但是像意外或低音谱号或音阶之类的东西，我认为它显然是不同的语言。"
+    },
+    {
+      "id": 272,
+      "start": 796.36,
+      "end": 800.08,
+      "en": "For example, you know Italian, like scales or accidentals, are they?",
+      "zh": "例如，您了解意大利语，例如音阶或意外，是吗？"
+    },
+    {
+      "id": 273,
+      "start": 800.08,
+      "end": 800.51,
+      "en": "They're different.",
+      "zh": "他们不一样。"
+    },
+    {
+      "id": 274,
+      "start": 801.08,
+      "end": 801.31,
+      "en": "They're different, right?",
+      "zh": "他们不一样，对吧？"
+    },
+    {
+      "id": 275,
+      "start": 802.08,
+      "end": 803.08,
+      "en": "They're different.",
+      "zh": "他们不一样。"
+    },
+    {
+      "id": 276,
+      "start": 803.08,
+      "end": 804.08,
+      "en": "All of the other words.",
+      "zh": "其他所有的词。"
+    },
+    {
+      "id": 277,
+      "start": 804.08,
+      "end": 812.68,
+      "en": "So the instructions on the page, because music is shared all over the world, the instructions on the page are almost always in Italian, so piano, andante, or they're in German.",
+      "zh": "所以页面上的说明，因为音乐在世界各地共享，页面上的说明几乎总是用意大利语、钢琴、安达特语，或者它们是德语的。"
+    },
+    {
+      "id": 278,
+      "start": 813.16,
+      "end": 814.16,
+      "en": "Oh, really?",
+      "zh": "哦，真的吗？"
+    },
+    {
+      "id": 279,
+      "start": 814.16,
+      "end": 815.16,
+      "en": "Some music.",
+      "zh": "一些音乐。"
+    },
+    {
+      "id": 280,
+      "start": 815.16,
+      "end": 819.52,
+      "en": "And everything else, scales, octaves, these are all in your native language.",
+      "zh": "其他一切，音阶，八度音阶，这些都是你的母语。"
+    },
+    {
+      "id": 281,
+      "start": 819.52,
+      "end": 824.44,
+      "en": "And so they're very, very important to study if you want to play and I think very, very useful if you want to study an instrument.",
+      "zh": "因此，如果您想演奏，它们非常非常重要，如果您想学习乐器，我认为非常非常有用。"
+    },
+    {
+      "id": 282,
+      "start": 824.44,
+      "end": 824.88,
+      "en": "Yeah, of course.",
+      "zh": "对，当然。"
+    },
+    {
+      "id": 283,
+      "start": 825.44,
+      "end": 839.04,
+      "en": "I think it's also a very good idea to just have a general knowledge about these things because sometimes it's nice to know a little bit about it and maybe if a friend is talking about music, you can maybe understand a little bit more about what it's like.",
+      "zh": "我认为仅仅了解这些事情也是一个非常好的主意，因为有时很高兴了解它，也许如果朋友在谈论音乐，您也许可以更多地了解它是什么样的。"
+    },
+    {
+      "id": 284,
+      "start": 839.04,
+      "end": 845.76,
+      "en": "Or if you see music, a sheet of music, you can now more or less know what's going on with all those drawings and little scribbles there.",
+      "zh": "或者，如果您看到音乐，一张音乐，您现在或多或少可以知道那里的所有这些图纸和小涂鸦发生了什么。"
+    },
+    {
+      "id": 285,
+      "start": 845.76,
+      "end": 846.76,
+      "en": "Absolutely.",
+      "zh": "当然。"
+    },
+    {
+      "id": 286,
+      "start": 846.76,
+      "end": 852.08,
+      "en": "And if you have any questions, of course, you're welcome to come to our website and ask or share your experiences as Marco has just said.",
+      "zh": "当然，如果您有任何问题，欢迎您访问我们的网站，询问或分享您的经验，正如 Marco 刚才所说的那样。"
+    },
+    {
+      "id": 287,
+      "start": 852.08,
+      "end": 854.2,
+      "en": "So please come to EnglishPod.com.",
+      "zh": "所以请来englishpod.com。"
+    },
+    {
+      "id": 288,
+      "start": 854.2,
+      "end": 854.87,
+      "en": "We hope to see you there.",
+      "zh": "希望到时候见到你。"
+    },
+    {
+      "id": 289,
+      "start": 855.2,
+      "end": 856.2,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 290,
+      "start": 856.2,
+      "end": 857.2,
+      "en": "We'll see you guys next time.",
+      "zh": "下次见，各位。"
+    },
+    {
+      "id": 291,
+      "start": 857.2,
+      "end": 858.2,
+      "en": "Bye.",
+      "zh": "再见。"
+    }
+  ],
+  "dialog": {
+    "start": 46.98,
+    "end": 168.99,
+    "segmentIds": [
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54
+    ]
+  }
+}

@@ -1,0 +1,1772 @@
+{
+  "version": 1,
+  "id": 343,
+  "number": "0343",
+  "title": "Daily Life - Seafood Dinner",
+  "audio": "mp3/343. Daily Life - Seafood Dinner.mp3",
+  "duration": 748.6433125,
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.01,
+      "end": 3.31,
+      "en": "Hello everyone and welcome to EnglishPod.",
+      "zh": "大家好，欢迎来到 EnglishPod。"
+    },
+    {
+      "id": 2,
+      "start": 3.56,
+      "end": 4.56,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 4.56,
+      "end": 8.51,
+      "en": "My name is Catherine and we're here talking about some special foods today.",
+      "zh": "我的名字是凯瑟琳，我们今天在这里谈论一些特殊的食物。"
+    },
+    {
+      "id": 4,
+      "start": 8.85,
+      "end": 9.09,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 5,
+      "start": 9.13,
+      "end": 10.73,
+      "en": "Today we're going to talk about seafood.",
+      "zh": "今天我们就来谈谈海鲜。"
+    },
+    {
+      "id": 6,
+      "start": 11.19,
+      "end": 14.05,
+      "en": "So everything that comes from the sea that we eat.",
+      "zh": "所以我们吃的来自大海的一切。"
+    },
+    {
+      "id": 7,
+      "start": 14.45,
+      "end": 14.69,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 8,
+      "start": 14.69,
+      "end": 19.15,
+      "en": "So we're in a restaurant and we're going to hear about the different options this restaurant offers.",
+      "zh": "所以我们在一家餐厅，我们将听到这家餐厅提供的不同选择。"
+    },
+    {
+      "id": 9,
+      "start": 19.43,
+      "end": 20.39,
+      "en": "Let's take a listen to the dialogue.",
+      "zh": "让我们听听对话。"
+    },
+    {
+      "id": 10,
+      "start": 28.66,
+      "end": 30.26,
+      "en": "This is such a nice restaurant.",
+      "zh": "这家餐厅真不错。"
+    },
+    {
+      "id": 11,
+      "start": 30.52,
+      "end": 31.52,
+      "en": "I feel so classy.",
+      "zh": "感觉好有档次。"
+    },
+    {
+      "id": 12,
+      "start": 32.06,
+      "end": 35.28,
+      "en": "Yeah, it's a little bit pricey, but they serve the best seafood in town.",
+      "zh": "是有点贵，不过他们家的海鲜是全城最好的。"
+    },
+    {
+      "id": 13,
+      "start": 35.7,
+      "end": 36.78,
+      "en": "May I take your order?",
+      "zh": "请问您要点什么？"
+    },
+    {
+      "id": 14,
+      "start": 37.34,
+      "end": 41.96,
+      "en": "Yes, I would like some marinated grilled shrimp for starters and I'll also have the lobster.",
+      "zh": "我先要一份腌制烤虾，再来只龙虾。"
+    },
+    {
+      "id": 15,
+      "start": 42.72,
+      "end": 43.96,
+      "en": "Excellent choice, sir.",
+      "zh": "您选得真好，先生。"
+    },
+    {
+      "id": 16,
+      "start": 44.48,
+      "end": 46.32,
+      "en": "And for you, madam?",
+      "zh": "女士，您要点什么？"
+    },
+    {
+      "id": 17,
+      "start": 46.32,
+      "end": 48.82,
+      "en": "I would like the baked oysters and the seafood platter.",
+      "zh": "我要烤牡蛎和海鲜拼盘。"
+    },
+    {
+      "id": 18,
+      "start": 49.76,
+      "end": 50.76,
+      "en": "Very good, madam.",
+      "zh": "好的，女士。"
+    },
+    {
+      "id": 19,
+      "start": 50.78,
+      "end": 52.36,
+      "en": "That seafood platter sounds good.",
+      "zh": "那个海鲜拼盘听起来不错。"
+    },
+    {
+      "id": 20,
+      "start": 52.86,
+      "end": 54.44,
+      "en": "Excuse me, what does the platter have?",
+      "zh": "请问拼盘里都有什么？"
+    },
+    {
+      "id": 21,
+      "start": 54.86,
+      "end": 60.92,
+      "en": "It's a great combination of clams, scallops, mussels, calamari and filet of salmon and tuna.",
+      "zh": "有蛤蜊、扇贝、贻贝、鱿鱼，还有三文鱼和金枪鱼鱼排。"
+    },
+    {
+      "id": 22,
+      "start": 61.72,
+      "end": 63.74,
+      "en": "It comes with a side of butter sauce and French fries.",
+      "zh": "还配黄油酱和薯条。"
+    },
+    {
+      "id": 23,
+      "start": 64.64,
+      "end": 65.34,
+      "en": "That sounds great.",
+      "zh": "听起来很棒。"
+    },
+    {
+      "id": 24,
+      "start": 65.64,
+      "end": 68.16,
+      "en": "Cancel the lobster and give me one of the same, please.",
+      "zh": "那听着真不错。龙虾不要了，给我也来一份拼盘。"
+    },
+    {
+      "id": 25,
+      "start": 68.16,
+      "end": 68.58,
+      "en": "Very well, sir.",
+      "zh": "好的，先生。"
+    },
+    {
+      "id": 26,
+      "start": 69.16,
+      "end": 69.54,
+      "en": "Anything to drink?",
+      "zh": "喝点什么？"
+    },
+    {
+      "id": 27,
+      "start": 70.16,
+      "end": 72.6,
+      "en": "Can we get a bottle of your house white wine, please?",
+      "zh": "请给我们一瓶本店的白葡萄酒。"
+    },
+    {
+      "id": 28,
+      "start": 73.32,
+      "end": 73.96,
+      "en": "Superb choice.",
+      "zh": "选得好。"
+    },
+    {
+      "id": 29,
+      "start": 74.5,
+      "end": 75.98,
+      "en": "I will be back shortly with the wine.",
+      "zh": "我马上把酒送来。"
+    },
+    {
+      "id": 30,
+      "start": 77.84,
+      "end": 82.36,
+      "en": "All right, we're back.",
+      "zh": "好了，我们回来了。"
+    },
+    {
+      "id": 31,
+      "start": 82.37,
+      "end": 88.49,
+      "en": "So today we're going to take a look at a lot of vocab, so we're going to have two parts of language takeaway and let's start with the first one.",
+      "zh": "所以今天我们要看很多词汇，所以我们将有两个部分的语言外卖，让我们从第一个开始。"
+    },
+    {
+      "id": 32,
+      "start": 90.83,
+      "end": 91.67,
+      "en": "Language takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 33,
+      "start": 93.42,
+      "end": 98.9,
+      "en": "Now, in language takeaway part one today, we have a number of really important and useful adjectives.",
+      "zh": "现在，在今天的语言外卖第一部分中，我们有许多非常重要和有用的形容词。"
+    },
+    {
+      "id": 34,
+      "start": 99.4,
+      "end": 100.46,
+      "en": "The first one is classy.",
+      "zh": "第一个是优雅的。"
+    },
+    {
+      "id": 35,
+      "start": 101.1,
+      "end": 101.52,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 36,
+      "start": 101.74,
+      "end": 106.9,
+      "en": "So we're going to a nice restaurant and so you feel like you're in a classy place.",
+      "zh": "所以我们要去一家不错的餐厅，所以你觉得你在一个优雅的地方。"
+    },
+    {
+      "id": 37,
+      "start": 107.54,
+      "end": 109.76,
+      "en": "Now, a classy place is a nice place.",
+      "zh": "现在，一个优雅的地方是个好地方。"
+    },
+    {
+      "id": 38,
+      "start": 110.46,
+      "end": 112.32,
+      "en": "You might be expected to dress nicely.",
+      "zh": "你可能会穿得很好。"
+    },
+    {
+      "id": 39,
+      "start": 112.76,
+      "end": 114.02,
+      "en": "It might be a little bit fancy.",
+      "zh": "这可能有点花哨。"
+    },
+    {
+      "id": 40,
+      "start": 115.08,
+      "end": 115.32,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 41,
+      "start": 115.4,
+      "end": 119.44,
+      "en": "So, classy is kind of a synonym of fancy or luxurious.",
+      "zh": "所以，优雅是花哨或豪华的代名词。"
+    },
+    {
+      "id": 42,
+      "start": 119.95,
+      "end": 120.17,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 43,
+      "start": 120.44,
+      "end": 126.12,
+      "en": "So if you're going on a date with someone, it might be a good idea to go to a classy restaurant.",
+      "zh": "因此，如果您要与某人约会，那么去一家优雅的餐厅可能是个好主意。"
+    },
+    {
+      "id": 44,
+      "start": 126.12,
+      "end": 127.12,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 45,
+      "start": 127.12,
+      "end": 130.57,
+      "en": "But usually if a restaurant is classy, it also means that it's a little bit pricey.",
+      "zh": "但通常如果一家餐厅是优雅的，这也意味着它有点贵。"
+    },
+    {
+      "id": 46,
+      "start": 131.39,
+      "end": 131.81,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 47,
+      "start": 132.28,
+      "end": 139.68,
+      "en": "So something that is pricey is expensive and seafood is famous in America for being very pricey.",
+      "zh": "因此，昂贵的东西很贵，海鲜在美国以非常昂贵而闻名。"
+    },
+    {
+      "id": 48,
+      "start": 139.68,
+      "end": 140.68,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 49,
+      "start": 140.68,
+      "end": 143.21,
+      "en": "So pricey means that it's a little bit expensive.",
+      "zh": "这么贵，意味着它有点贵。"
+    },
+    {
+      "id": 50,
+      "start": 144.2,
+      "end": 151.87,
+      "en": "Now going to the food that we're going to get today, we had a couple of different ways of describing how the food was prepared.",
+      "zh": "现在去我们今天要买的食物，我们有几种不同的方式来描述食物是如何准备的。"
+    },
+    {
+      "id": 51,
+      "start": 152.2,
+      "end": 156.24,
+      "en": "So for example, the first one is marinated grilled shrimp.",
+      "zh": "例如，第一个是腌制的烤虾。"
+    },
+    {
+      "id": 52,
+      "start": 156.47,
+      "end": 156.91,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 53,
+      "start": 157.24,
+      "end": 162.35,
+      "en": "Now, something that is marinated is covered in a sauce or a liquid before it's cooked.",
+      "zh": "现在，腌制的东西在煮熟之前就被酱汁或液体覆盖。"
+    },
+    {
+      "id": 54,
+      "start": 162.77,
+      "end": 163.33,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 55,
+      "start": 163.33,
+      "end": 174.27,
+      "en": "So you can have maybe a regular steak, but you can also have a marinated steak, which would be marinated in some kind of flavor like garlic or yogurt.",
+      "zh": "所以你可以吃普通的牛排，但你也可以吃一块腌制的牛排，它会用大蒜或酸奶等某种味道腌制。"
+    },
+    {
+      "id": 56,
+      "start": 174.81,
+      "end": 175.33,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 57,
+      "start": 175.33,
+      "end": 183.37,
+      "en": "So usually you leave it in maybe some sauce like garlic sauce for a couple of hours or a couple of minutes before you cook it.",
+      "zh": "所以通常你在煮之前把它放在一些酱汁里，比如大蒜酱几个小时或几分钟。"
+    },
+    {
+      "id": 58,
+      "start": 183.51,
+      "end": 186.37,
+      "en": "Now when we cook it, there are different ways of cooking things.",
+      "zh": "现在当我们做饭的时候，有不同的烹饪方式。"
+    },
+    {
+      "id": 59,
+      "start": 186.77,
+      "end": 188.73,
+      "en": "In this case, we're having grilled shrimp.",
+      "zh": "在这种情况下，我们有烤虾。"
+    },
+    {
+      "id": 60,
+      "start": 189.15,
+      "end": 189.37,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 61,
+      "start": 189.76,
+      "end": 191.47,
+      "en": "Now grilled is different from fried.",
+      "zh": "现在烧烤不同于油炸。"
+    },
+    {
+      "id": 62,
+      "start": 192.16,
+      "end": 197.41,
+      "en": "Fried we do in a pan with some oil, but a grill, usually there's no pan, no oil.",
+      "zh": "油炸我们在平底锅里加点油，但烤架，通常没有平底锅，没有油。"
+    },
+    {
+      "id": 63,
+      "start": 197.76,
+      "end": 198.65,
+      "en": "There's just a grill.",
+      "zh": "只有一个烤架。"
+    },
+    {
+      "id": 64,
+      "start": 199.17,
+      "end": 200.49,
+      "en": "So grill, grilled.",
+      "zh": "所以烧烤，烤。"
+    },
+    {
+      "id": 65,
+      "start": 201.72,
+      "end": 203.96,
+      "en": "Grill is the tool that we use.",
+      "zh": "烤架是我们使用的工具。"
+    },
+    {
+      "id": 66,
+      "start": 204.76,
+      "end": 206.24,
+      "en": "Grilled food tends to be quite healthy.",
+      "zh": "烤的食物往往很健康。"
+    },
+    {
+      "id": 67,
+      "start": 206.6,
+      "end": 207.32,
+      "en": "There's very little oil.",
+      "zh": "油很少。"
+    },
+    {
+      "id": 68,
+      "start": 207.58,
+      "end": 208.34,
+      "en": "It's a bit more dry.",
+      "zh": "它有点干燥。"
+    },
+    {
+      "id": 69,
+      "start": 209.12,
+      "end": 212.8,
+      "en": "And oftentimes we do grilling outside because there's lots of smoke.",
+      "zh": "我们经常在外面烧烤，因为有很多烟。"
+    },
+    {
+      "id": 70,
+      "start": 212.8,
+      "end": 213.8,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 71,
+      "start": 213.8,
+      "end": 220.16,
+      "en": "Because usually you have like maybe a barbecue and you have some charcoal in there or some wood and that's what you use to cook the food with.",
+      "zh": "因为通常你可能喜欢烧烤，那里有一些木炭或一些木头，这就是你用来烹饪食物的东西。"
+    },
+    {
+      "id": 72,
+      "start": 220.4,
+      "end": 221.4,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 73,
+      "start": 221.4,
+      "end": 226.42,
+      "en": "And grilled food is very easy to notice because there are usually black lines on top and bottom.",
+      "zh": "烧烤食物很容易注意到，因为顶部和底部通常有黑色线条。"
+    },
+    {
+      "id": 74,
+      "start": 226.42,
+      "end": 226.98,
+      "en": "That's from the grill.",
+      "zh": "那是烤架上的。"
+    },
+    {
+      "id": 75,
+      "start": 227.56,
+      "end": 227.68,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 76,
+      "start": 228.56,
+      "end": 231.0,
+      "en": "So we've eliminated grilled shrimp for starters.",
+      "zh": "所以我们已经取消了烤虾的开胃菜。"
+    },
+    {
+      "id": 77,
+      "start": 231.0,
+      "end": 232.8,
+      "en": "So what is a starter?",
+      "zh": "那么什么是首发？"
+    },
+    {
+      "id": 78,
+      "start": 232.8,
+      "end": 234.2,
+      "en": "Well think about the word starter.",
+      "zh": "好好想想开头这个词。"
+    },
+    {
+      "id": 79,
+      "start": 234.94,
+      "end": 235.34,
+      "en": "Start.",
+      "zh": "开始。"
+    },
+    {
+      "id": 80,
+      "start": 235.68,
+      "end": 239.36,
+      "en": "Now a starter is something you eat at the start of your meal, at the beginning.",
+      "zh": "现在，开胃菜是您在用餐开始时吃的东西，在开始时。"
+    },
+    {
+      "id": 81,
+      "start": 239.86,
+      "end": 242.3,
+      "en": "You eat it before you eat the main course.",
+      "zh": "你在吃主菜之前吃它。"
+    },
+    {
+      "id": 82,
+      "start": 243.08,
+      "end": 244.08,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 83,
+      "start": 244.08,
+      "end": 245.1,
+      "en": "So it's also known as an appetizer.",
+      "zh": "所以它也被称为开胃菜。"
+    },
+    {
+      "id": 84,
+      "start": 245.56,
+      "end": 246.56,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 85,
+      "start": 246.56,
+      "end": 248.34,
+      "en": "Starters and appetizers are the same thing.",
+      "zh": "开胃菜和开胃菜是一样的。"
+    },
+    {
+      "id": 86,
+      "start": 248.62,
+      "end": 252.24,
+      "en": "And these are small things you eat before you start to eat your main meal.",
+      "zh": "这些是你在开始吃主餐之前吃的小东西。"
+    },
+    {
+      "id": 87,
+      "start": 252.24,
+      "end": 253.28,
+      "en": "So they're not very filling.",
+      "zh": "所以它们不是很充实。"
+    },
+    {
+      "id": 88,
+      "start": 253.9,
+      "end": 254.3,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 89,
+      "start": 254.8,
+      "end": 259.18,
+      "en": "So yeah, it'll be something small like a soup or maybe like in this case some marinated grilled shrimp.",
+      "zh": "所以，是的，它会是像汤一样的小东西，或者在这种情况下可能是一些腌制的烤虾。"
+    },
+    {
+      "id": 90,
+      "start": 259.44,
+      "end": 259.64,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 91,
+      "start": 260.72,
+      "end": 261.72,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 92,
+      "start": 261.72,
+      "end": 262.72,
+      "en": "So great vocab there.",
+      "zh": "那里的词汇太好了。"
+    },
+    {
+      "id": 93,
+      "start": 262.72,
+      "end": 264.83,
+      "en": "Why don't we review that part and we'll be back in a bit.",
+      "zh": "我们为什么不回顾那部分，我们会回来一点。"
+    },
+    {
+      "id": 94,
+      "start": 273.4,
+      "end": 274.56,
+      "en": "This is such a nice restaurant.",
+      "zh": "这家餐厅真不错。"
+    },
+    {
+      "id": 95,
+      "start": 274.84,
+      "end": 275.82,
+      "en": "I feel so classy.",
+      "zh": "感觉好有档次。"
+    },
+    {
+      "id": 96,
+      "start": 276.48,
+      "end": 276.72,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 97,
+      "start": 276.74,
+      "end": 279.56,
+      "en": "It's a little bit pricey but they serve the best seafood in town.",
+      "zh": "它有点贵，但它们提供城里最好的海鲜。"
+    },
+    {
+      "id": 98,
+      "start": 280.04,
+      "end": 281.06,
+      "en": "May I take your order?",
+      "zh": "请问您要点什么？"
+    },
+    {
+      "id": 99,
+      "start": 281.76,
+      "end": 282.22,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 100,
+      "start": 282.26,
+      "end": 286.26,
+      "en": "I would like some marinated grilled shrimp for starters and I'll also have the lobster.",
+      "zh": "我想要一些腌制的烤虾作为开胃菜，我也会吃龙虾。"
+    },
+    {
+      "id": 101,
+      "start": 287.52,
+      "end": 288.84,
+      "en": "Excellent choice, sir.",
+      "zh": "您选得真好，先生。"
+    },
+    {
+      "id": 102,
+      "start": 288.84,
+      "end": 290.66,
+      "en": "And for you, madam?",
+      "zh": "女士，您要点什么？"
+    },
+    {
+      "id": 103,
+      "start": 290.66,
+      "end": 293.1,
+      "en": "I would like the baked oysters and the seafood platter.",
+      "zh": "我要烤牡蛎和海鲜拼盘。"
+    },
+    {
+      "id": 104,
+      "start": 294.12,
+      "end": 295.12,
+      "en": "Very good, madam.",
+      "zh": "好的，女士。"
+    },
+    {
+      "id": 105,
+      "start": 295.12,
+      "end": 296.66,
+      "en": "That seafood platter sounds good.",
+      "zh": "那个海鲜拼盘听起来不错。"
+    },
+    {
+      "id": 106,
+      "start": 297.16,
+      "end": 298.76,
+      "en": "Excuse me, what does the platter have?",
+      "zh": "请问拼盘里都有什么？"
+    },
+    {
+      "id": 107,
+      "start": 299.16,
+      "end": 305.22,
+      "en": "It's a great combination of clams, scallops, mussels, calamari and filet of salmon and tuna.",
+      "zh": "有蛤蜊、扇贝、贻贝、鱿鱼，还有三文鱼和金枪鱼鱼排。"
+    },
+    {
+      "id": 108,
+      "start": 306.04,
+      "end": 308.04,
+      "en": "It comes with a side of butter sauce and French fries.",
+      "zh": "还配黄油酱和薯条。"
+    },
+    {
+      "id": 109,
+      "start": 308.96,
+      "end": 309.64,
+      "en": "That sounds great.",
+      "zh": "听起来很棒。"
+    },
+    {
+      "id": 110,
+      "start": 309.96,
+      "end": 312.48,
+      "en": "Cancel the lobster and give me one of the same, please.",
+      "zh": "那听着真不错。龙虾不要了，给我也来一份拼盘。"
+    },
+    {
+      "id": 111,
+      "start": 312.48,
+      "end": 312.9,
+      "en": "Very well, sir.",
+      "zh": "好的，先生。"
+    },
+    {
+      "id": 112,
+      "start": 313.48,
+      "end": 313.86,
+      "en": "Anything to drink?",
+      "zh": "喝点什么？"
+    },
+    {
+      "id": 113,
+      "start": 314.48,
+      "end": 316.9,
+      "en": "Can we get a bottle of your house white wine, please?",
+      "zh": "请给我们一瓶本店的白葡萄酒。"
+    },
+    {
+      "id": 114,
+      "start": 317.58,
+      "end": 318.28,
+      "en": "Superb choice.",
+      "zh": "选得好。"
+    },
+    {
+      "id": 115,
+      "start": 318.8,
+      "end": 320.28,
+      "en": "I will be back shortly with the wine.",
+      "zh": "我马上把酒送来。"
+    },
+    {
+      "id": 116,
+      "start": 326.08,
+      "end": 327.08,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 117,
+      "start": 327.08,
+      "end": 333.16,
+      "en": "So now let's take a look at all the exquisite types of seafood that we have here on Language Takeaway Part 2.",
+      "zh": "所以现在让我们来看看我们在语言外卖第 2 部分中的所有精致海鲜类型。"
+    },
+    {
+      "id": 118,
+      "start": 333.32,
+      "end": 334.32,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 119,
+      "start": 334.32,
+      "end": 339.4,
+      "en": "Now the first thing we have in Language Takeaway Part 2 is a very distinctive animal from the ocean.",
+      "zh": "现在，我们在《语言外卖》第 2 部分中的第一件事是一种非常独特的海洋动物。"
+    },
+    {
+      "id": 120,
+      "start": 340.1,
+      "end": 342.26,
+      "en": "It's bright red and it has two claws.",
+      "zh": "它是鲜红色的，有两个爪子。"
+    },
+    {
+      "id": 121,
+      "start": 342.94,
+      "end": 343.14,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 122,
+      "start": 343.38,
+      "end": 344.66,
+      "en": "We're talking about a lobster.",
+      "zh": "我们说的是龙虾。"
+    },
+    {
+      "id": 123,
+      "start": 345.8,
+      "end": 348.22,
+      "en": "Now lobsters, you don't find everywhere.",
+      "zh": "现在龙虾，你在任何地方都找不到。"
+    },
+    {
+      "id": 124,
+      "start": 348.64,
+      "end": 353.48,
+      "en": "In fact, there are some parts of America where they're very famous for their lobster like Maine.",
+      "zh": "事实上，在美国的某些地方，他们以像缅因州的龙虾而闻名。"
+    },
+    {
+      "id": 125,
+      "start": 354.3,
+      "end": 360.94,
+      "en": "Now these are animals that are hard on the outside and soft and white on the inside and they're quite difficult to eat.",
+      "zh": "现在这些动物是外在坚硬的，里面柔软而白色的动物，它们很难吃。"
+    },
+    {
+      "id": 126,
+      "start": 361.4,
+      "end": 361.92,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 127,
+      "start": 362.38,
+      "end": 368.22,
+      "en": "So they look kind of like crabs because they also have the claws and everything but they're a lot longer, right?",
+      "zh": "所以它们看起来有点像螃蟹，因为它们也有爪子和所有东西，但它们更长，对吧？"
+    },
+    {
+      "id": 128,
+      "start": 368.42,
+      "end": 368.72,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 129,
+      "start": 369.64,
+      "end": 375.32,
+      "en": "They're round and a lobster is long and lobsters are also famous for one part, for their tails.",
+      "zh": "它们是圆形的，龙虾很长，龙虾也因其尾巴而闻名。"
+    },
+    {
+      "id": 130,
+      "start": 375.32,
+      "end": 376.32,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 131,
+      "start": 376.32,
+      "end": 377.18,
+      "en": "The tails are full of meat.",
+      "zh": "尾巴上满是肉。"
+    },
+    {
+      "id": 132,
+      "start": 377.68,
+      "end": 378.96,
+      "en": "They're very delicate, very delicious.",
+      "zh": "它们非常精致，非常美味。"
+    },
+    {
+      "id": 133,
+      "start": 379.68,
+      "end": 379.9,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 134,
+      "start": 380.68,
+      "end": 384.42,
+      "en": "So we're having some lobster and we also ordered some baked oysters.",
+      "zh": "所以我们有一些龙虾，我们还点了一些烤牡蛎。"
+    },
+    {
+      "id": 135,
+      "start": 385.2,
+      "end": 388.08,
+      "en": "Now oysters are another kind of thing that comes from the ocean.",
+      "zh": "现在牡蛎是另一种来自海洋的东西。"
+    },
+    {
+      "id": 136,
+      "start": 389.0,
+      "end": 390.66,
+      "en": "They come in a shell, all right?",
+      "zh": "他们装在外壳里，好吗？"
+    },
+    {
+      "id": 137,
+      "start": 391.6,
+      "end": 398.8,
+      "en": "And you might hear about oysters because some people, some restaurants like to have an oyster bar where they serve raw oysters over ice.",
+      "zh": "你可能会听说牡蛎，因为有些人，有些餐馆喜欢有一个牡蛎酒吧，在那里他们提供冰上的生牡蛎。"
+    },
+    {
+      "id": 138,
+      "start": 399.6,
+      "end": 399.82,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 139,
+      "start": 400.6,
+      "end": 404.52,
+      "en": "So they look like big rocks basically and when you open them inside, you have meat.",
+      "zh": "所以它们基本上看起来像大石头，当你在里面打开它们时，你就有了肉。"
+    },
+    {
+      "id": 140,
+      "start": 405.0,
+      "end": 407.36,
+      "en": "And actually I think you get pearls from oysters, right?",
+      "zh": "实际上我想你从牡蛎中得到珍珠，对吧？"
+    },
+    {
+      "id": 141,
+      "start": 407.66,
+      "end": 408.04,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 142,
+      "start": 408.44,
+      "end": 409.9,
+      "en": "So these two are special.",
+      "zh": "所以这两个很特别。"
+    },
+    {
+      "id": 143,
+      "start": 410.12,
+      "end": 411.08,
+      "en": "They have a nice relationship.",
+      "zh": "他们的关系很好。"
+    },
+    {
+      "id": 144,
+      "start": 411.3,
+      "end": 414.18,
+      "en": "The pearl forms inside, it grows inside of the oyster.",
+      "zh": "珍珠在里面形成，它在牡蛎内部生长。"
+    },
+    {
+      "id": 145,
+      "start": 414.44,
+      "end": 414.9,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 146,
+      "start": 415.74,
+      "end": 422.08,
+      "en": "So now we've taken a look at some oysters and talking about these things that have shells, we also have clams.",
+      "zh": "所以现在我们看了一些牡蛎，谈论这些有贝壳的东西，我们也有蛤蜊。"
+    },
+    {
+      "id": 147,
+      "start": 422.08,
+      "end": 434.1,
+      "en": "Now while oysters are big and sometimes quite shiny, clams are smaller, usually white or gray and they have lines on them and they're shells that you open up and you eat the meat from inside.",
+      "zh": "现在，虽然牡蛎很大，有时很有光泽，但蛤蜊更小，通常是白色或灰色，它们上有线条，它们是你打开的贝壳，你从里面吃肉。"
+    },
+    {
+      "id": 148,
+      "start": 434.6,
+      "end": 435.6,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 149,
+      "start": 435.6,
+      "end": 441.12,
+      "en": "So I guess if you've ever been on the beach and you're collecting little seashells, usually those are kind of like clams.",
+      "zh": "所以我想如果你曾经在海滩上收集过小贝壳，通常这些就像蛤蜊一样。"
+    },
+    {
+      "id": 150,
+      "start": 441.12,
+      "end": 441.26,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 151,
+      "start": 442.12,
+      "end": 443.12,
+      "en": "They're quite small.",
+      "zh": "它们很小。"
+    },
+    {
+      "id": 152,
+      "start": 443.12,
+      "end": 445.86,
+      "en": "They can be about the size of an American quarter, 25 cents.",
+      "zh": "它们的大小大约是美国季度，25美分。"
+    },
+    {
+      "id": 153,
+      "start": 446.64,
+      "end": 446.76,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 154,
+      "start": 447.64,
+      "end": 451.68,
+      "en": "So now in this seafood platter that we're ordering, we have clams, we have scallops.",
+      "zh": "所以现在在我们订购的这个海鲜拼盘中，我们有蛤蜊，我们有扇贝。"
+    },
+    {
+      "id": 155,
+      "start": 452.2,
+      "end": 454.92,
+      "en": "Ooh, scallops are one of my favorite kinds of seafood.",
+      "zh": "哦，扇贝是我最喜欢的海鲜之一。"
+    },
+    {
+      "id": 156,
+      "start": 455.3,
+      "end": 459.14,
+      "en": "They're quite soft and chewy and they're usually white.",
+      "zh": "它们非常柔软和耐嚼，通常是白色的。"
+    },
+    {
+      "id": 157,
+      "start": 459.6,
+      "end": 460.08,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 158,
+      "start": 460.96,
+      "end": 462.48,
+      "en": "And then we have some mussels also.",
+      "zh": "然后我们也有一些贻贝。"
+    },
+    {
+      "id": 159,
+      "start": 463.04,
+      "end": 464.72,
+      "en": "Now mussels are much different looking.",
+      "zh": "现在贻贝看起来很不一样。"
+    },
+    {
+      "id": 160,
+      "start": 465.28,
+      "end": 468.18,
+      "en": "They're also in shells, but they're long and the shells are black.",
+      "zh": "它们也在贝壳中，但它们很长，贝壳是黑色的。"
+    },
+    {
+      "id": 161,
+      "start": 468.96,
+      "end": 469.14,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 162,
+      "start": 469.96,
+      "end": 471.74,
+      "en": "So clams are kind of small and round.",
+      "zh": "所以蛤蜊有点小而圆。"
+    },
+    {
+      "id": 163,
+      "start": 472.52,
+      "end": 474.38,
+      "en": "The oysters are pretty big and look like rocks.",
+      "zh": "牡蛎很大，看起来像岩石。"
+    },
+    {
+      "id": 164,
+      "start": 475.4,
+      "end": 480.44,
+      "en": "Mussels on the other hand are long and black and when you open them inside, they're shiny also.",
+      "zh": "另一方面，贻贝又长又黑，当你打开它们时，它们也很有光泽。"
+    },
+    {
+      "id": 165,
+      "start": 480.44,
+      "end": 492.06,
+      "en": "They're orange on the inside or yellow and so they're quite interesting looking, but they're also very famous for the French or Belgian rather, the Belgian dish, Moules Frites, which is a nice specialty.",
+      "zh": "它们的内部是橙色的或黄色的，所以它们看起来很有趣，但它们也以法国或比利时的菜肴而闻名，比利时菜肴 Moules Frites，这是一个不错的特色菜。"
+    },
+    {
+      "id": 166,
+      "start": 492.28,
+      "end": 493.4,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 167,
+      "start": 493.4,
+      "end": 497.08,
+      "en": "And lastly, we are also having some calamari in this seafood platter.",
+      "zh": "最后，我们在这个海鲜拼盘中也有一些鱿鱼。"
+    },
+    {
+      "id": 168,
+      "start": 497.56,
+      "end": 498.98,
+      "en": "Oh, this is another one of my favorites.",
+      "zh": "哦，这是我最喜欢的另一个。"
+    },
+    {
+      "id": 169,
+      "start": 499.48,
+      "end": 503.84,
+      "en": "Now calamari is a kind of food, but the animal is the squid.",
+      "zh": "现在鱿鱼是一种食物，但动物是鱿鱼。"
+    },
+    {
+      "id": 170,
+      "start": 503.84,
+      "end": 504.22,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 171,
+      "start": 504.34,
+      "end": 506.04,
+      "en": "So why is it called calamari?",
+      "zh": "那么为什么叫卡拉玛里呢？"
+    },
+    {
+      "id": 172,
+      "start": 506.36,
+      "end": 509.7,
+      "en": "Well calamari, I believe, comes from the Italian word calamaro.",
+      "zh": "我相信卡拉马里来自意大利语单词卡拉马罗。"
+    },
+    {
+      "id": 173,
+      "start": 510.32,
+      "end": 514.06,
+      "en": "Calamari means that it's squid that's been cooked so that people can eat it.",
+      "zh": "Calamari 的意思是鱿鱼是煮熟的，所以人们可以吃它。"
+    },
+    {
+      "id": 174,
+      "start": 514.3,
+      "end": 514.62,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 175,
+      "start": 514.64,
+      "end": 517.8,
+      "en": "So basically calamari and squid are the same thing.",
+      "zh": "所以基本上鱿鱼和鱿鱼是一回事。"
+    },
+    {
+      "id": 176,
+      "start": 517.96,
+      "end": 522.56,
+      "en": "They are the same animal, but calamari means that it's prepared to eat.",
+      "zh": "它们是同一种动物，但 calamari 的意思是它准备吃东西。"
+    },
+    {
+      "id": 177,
+      "start": 522.9,
+      "end": 523.14,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 178,
+      "start": 523.14,
+      "end": 524.02,
+      "en": "And usually it's fried.",
+      "zh": "通常它是油炸的。"
+    },
+    {
+      "id": 179,
+      "start": 524.16,
+      "end": 527.08,
+      "en": "So when squid is fried, it becomes hard, chewy.",
+      "zh": "所以当鱿鱼被油炸时，它会变得坚硬，有嚼劲。"
+    },
+    {
+      "id": 180,
+      "start": 527.84,
+      "end": 529.32,
+      "en": "And that's what calamari tastes like.",
+      "zh": "这就是卡拉马里的味道。"
+    },
+    {
+      "id": 181,
+      "start": 529.32,
+      "end": 529.88,
+      "en": "It's quite chewy.",
+      "zh": "它很有嚼劲。"
+    },
+    {
+      "id": 182,
+      "start": 530.32,
+      "end": 531.32,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 183,
+      "start": 531.32,
+      "end": 532.32,
+      "en": "Great stuff.",
+      "zh": "真不错。"
+    },
+    {
+      "id": 184,
+      "start": 532.32,
+      "end": 544.2,
+      "en": "Let's review everything one last time with this exquisite lesson.",
+      "zh": "让我们最后一次用这个精致的课程回顾一切。"
+    },
+    {
+      "id": 185,
+      "start": 544.2,
+      "end": 545.34,
+      "en": "This is such a nice restaurant.",
+      "zh": "这家餐厅真不错。"
+    },
+    {
+      "id": 186,
+      "start": 545.64,
+      "end": 546.66,
+      "en": "I feel so classy.",
+      "zh": "感觉好有档次。"
+    },
+    {
+      "id": 187,
+      "start": 547.22,
+      "end": 550.32,
+      "en": "Yeah, it's a little bit pricey, but they serve the best seafood in town.",
+      "zh": "是有点贵，不过他们家的海鲜是全城最好的。"
+    },
+    {
+      "id": 188,
+      "start": 550.82,
+      "end": 551.82,
+      "en": "May I take your order?",
+      "zh": "请问您要点什么？"
+    },
+    {
+      "id": 189,
+      "start": 552.48,
+      "end": 552.98,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 190,
+      "start": 552.98,
+      "end": 557.0,
+      "en": "I would like some marinated grilled shrimp for starters and I'll also have the lobster.",
+      "zh": "我想要一些腌制的烤虾作为开胃菜，我也会吃龙虾。"
+    },
+    {
+      "id": 191,
+      "start": 557.9,
+      "end": 559.02,
+      "en": "Excellent choice, sir.",
+      "zh": "您选得真好，先生。"
+    },
+    {
+      "id": 192,
+      "start": 559.6,
+      "end": 561.44,
+      "en": "And for you, madam?",
+      "zh": "女士，您要点什么？"
+    },
+    {
+      "id": 193,
+      "start": 561.44,
+      "end": 563.88,
+      "en": "I would like the baked oysters and the seafood platter.",
+      "zh": "我要烤牡蛎和海鲜拼盘。"
+    },
+    {
+      "id": 194,
+      "start": 564.88,
+      "end": 565.88,
+      "en": "Very good, madam.",
+      "zh": "好的，女士。"
+    },
+    {
+      "id": 195,
+      "start": 565.88,
+      "end": 567.44,
+      "en": "That seafood platter sounds good.",
+      "zh": "那个海鲜拼盘听起来不错。"
+    },
+    {
+      "id": 196,
+      "start": 567.92,
+      "end": 569.52,
+      "en": "Excuse me, what does the platter have?",
+      "zh": "请问拼盘里都有什么？"
+    },
+    {
+      "id": 197,
+      "start": 569.92,
+      "end": 576.0,
+      "en": "It's a great combination of clams, scallops, mussels, calamari, and filet of salmon and tuna.",
+      "zh": "它是蛤蜊、扇贝、贻贝、鱿鱼和鲑鱼和金枪鱼片的完美组合。"
+    },
+    {
+      "id": 198,
+      "start": 576.92,
+      "end": 578.82,
+      "en": "It comes with a side of butter sauce and French fries.",
+      "zh": "还配黄油酱和薯条。"
+    },
+    {
+      "id": 199,
+      "start": 579.74,
+      "end": 580.42,
+      "en": "That sounds great.",
+      "zh": "听起来很棒。"
+    },
+    {
+      "id": 200,
+      "start": 580.74,
+      "end": 583.26,
+      "en": "Cancel the lobster and give me one of the same, please.",
+      "zh": "那听着真不错。龙虾不要了，给我也来一份拼盘。"
+    },
+    {
+      "id": 201,
+      "start": 583.26,
+      "end": 583.68,
+      "en": "Very well, sir.",
+      "zh": "好的，先生。"
+    },
+    {
+      "id": 202,
+      "start": 584.32,
+      "end": 584.62,
+      "en": "Anything to drink?",
+      "zh": "喝点什么？"
+    },
+    {
+      "id": 203,
+      "start": 585.38,
+      "end": 587.68,
+      "en": "Can we get a bottle of your house white wine, please?",
+      "zh": "请给我们一瓶本店的白葡萄酒。"
+    },
+    {
+      "id": 204,
+      "start": 588.48,
+      "end": 589.06,
+      "en": "Superb choice.",
+      "zh": "选得好。"
+    },
+    {
+      "id": 205,
+      "start": 589.64,
+      "end": 591.06,
+      "en": "I will be back shortly with the wine.",
+      "zh": "我马上把酒送来。"
+    },
+    {
+      "id": 206,
+      "start": 592.44,
+      "end": 600.56,
+      "en": "All right, so seafood, we said, usually has the connotation of being a little bit pricey.",
+      "zh": "好吧，所以我们说，海鲜通常具有有点贵的含义。"
+    },
+    {
+      "id": 207,
+      "start": 600.56,
+      "end": 602.2,
+      "en": "Why do you think that is?",
+      "zh": "为什么你认为这是？"
+    },
+    {
+      "id": 208,
+      "start": 602.2,
+      "end": 607.15,
+      "en": "I think it's pricey because the best seafood doesn't come from seafood farms.",
+      "zh": "我认为它很贵，因为最好的海鲜不是来自海鲜农场。"
+    },
+    {
+      "id": 209,
+      "start": 607.48,
+      "end": 611.27,
+      "en": "It comes from people who go in boats and they collect the seafood in nets.",
+      "zh": "它来自乘船的人，他们用网收集海鲜。"
+    },
+    {
+      "id": 210,
+      "start": 612.28,
+      "end": 620.67,
+      "en": "And also, there are fewer and fewer places now in America where you can find this kind of food because some places have experienced overfishing.",
+      "zh": "而且，现在美国有越来越少的地方可以找到这种食物，因为有些地方经历了过度捕捞。"
+    },
+    {
+      "id": 211,
+      "start": 621.16,
+      "end": 622.43,
+      "en": "Too many people are trying to fish.",
+      "zh": "太多人想钓鱼。"
+    },
+    {
+      "id": 212,
+      "start": 623.12,
+      "end": 626.33,
+      "en": "And also, some places just don't have the right climate for certain animals.",
+      "zh": "而且，有些地方只是没有适合某些动物的气候。"
+    },
+    {
+      "id": 213,
+      "start": 626.88,
+      "end": 627.88,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 214,
+      "start": 627.88,
+      "end": 634.34,
+      "en": "So, for example, in the United States, you do have, well, the whole country is covered in the West Coast by the Pacific Ocean.",
+      "zh": "因此，例如，在美国，整个国家都被太平洋覆盖在西海岸。"
+    },
+    {
+      "id": 215,
+      "start": 635.0,
+      "end": 636.12,
+      "en": "The East Coast, you have the Atlantic.",
+      "zh": "东海岸，你有大西洋。"
+    },
+    {
+      "id": 216,
+      "start": 636.96,
+      "end": 639.46,
+      "en": "So obviously, you do have some coasts.",
+      "zh": "所以很明显，你确实有一些海岸。"
+    },
+    {
+      "id": 217,
+      "start": 639.46,
+      "end": 643.61,
+      "en": "But if you're in the middle of the United States, it's probably hard to get seafood.",
+      "zh": "但如果你在美国中部，可能很难买到海鲜。"
+    },
+    {
+      "id": 218,
+      "start": 643.72,
+      "end": 645.05,
+      "en": "So, I imagine it's very expensive.",
+      "zh": "所以，我想它非常昂贵。"
+    },
+    {
+      "id": 219,
+      "start": 645.56,
+      "end": 646.67,
+      "en": "It can be very, very expensive.",
+      "zh": "它可以非常非常昂贵。"
+    },
+    {
+      "id": 220,
+      "start": 647.24,
+      "end": 650.87,
+      "en": "So oftentimes, we get lake food.",
+      "zh": "所以很多时候，我们会得到湖中的食物。"
+    },
+    {
+      "id": 221,
+      "start": 651.36,
+      "end": 653.43,
+      "en": "It's different kind of fish, but we don't have lobsters.",
+      "zh": "这是不同种类的鱼，但我们没有龙虾。"
+    },
+    {
+      "id": 222,
+      "start": 654.64,
+      "end": 662.29,
+      "en": "But you'll find that in the West, you get very good salmon because Alaska in the Northwest is very famous for salmon from the Pacific.",
+      "zh": "但你会发现在西方，你会得到非常好的鲑鱼，因为西北部的阿拉斯加以太平洋的鲑鱼而闻名。"
+    },
+    {
+      "id": 223,
+      "start": 663.08,
+      "end": 668.03,
+      "en": "And in the East, it's very famous for lobster and crab, which are delicious.",
+      "zh": "而在东方，它以龙虾和螃蟹而闻名，味道鲜美。"
+    },
+    {
+      "id": 224,
+      "start": 668.72,
+      "end": 675.56,
+      "en": "Now, even though you have, it's famous for lobster and crab, it's still relatively expensive compared to other dishes.",
+      "zh": "现在，即使你有，它以龙虾和螃蟹而闻名，与其他菜肴相比，它仍然相对昂贵。"
+    },
+    {
+      "id": 225,
+      "start": 675.56,
+      "end": 679.84,
+      "en": "Like for example, I think a lobster, how much would a lobster dinner cost?",
+      "zh": "例如，我想龙虾，龙虾晚餐要多少钱？"
+    },
+    {
+      "id": 226,
+      "start": 679.84,
+      "end": 682.22,
+      "en": "A lobster dinner could cost you $150.",
+      "zh": "一顿龙虾晚餐可能要花 150 美元。"
+    },
+    {
+      "id": 227,
+      "start": 682.88,
+      "end": 683.24,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 228,
+      "start": 683.36,
+      "end": 687.78,
+      "en": "And you're getting almost the same amount of meat as maybe having a steak that would be $20.",
+      "zh": "而且你得到的肉量几乎和吃 20 美元的牛排差不多。"
+    },
+    {
+      "id": 229,
+      "start": 688.24,
+      "end": 688.85,
+      "en": "Yeah, less meat.",
+      "zh": "是的，少肉。"
+    },
+    {
+      "id": 230,
+      "start": 689.48,
+      "end": 691.83,
+      "en": "But we have more cows than we have lobsters.",
+      "zh": "但我们的奶牛比龙虾还多。"
+    },
+    {
+      "id": 231,
+      "start": 692.09,
+      "end": 695.67,
+      "en": "And also, lobsters are famous for being pretty expensive.",
+      "zh": "而且，龙虾以非常昂贵而闻名。"
+    },
+    {
+      "id": 232,
+      "start": 696.05,
+      "end": 698.09,
+      "en": "It's a very fancy meal to have lobsters.",
+      "zh": "吃龙虾是一顿非常花哨的饭菜。"
+    },
+    {
+      "id": 233,
+      "start": 698.64,
+      "end": 699.64,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 234,
+      "start": 699.64,
+      "end": 700.64,
+      "en": "So, it's very interesting.",
+      "zh": "所以，这非常有趣。"
+    },
+    {
+      "id": 235,
+      "start": 700.64,
+      "end": 707.13,
+      "en": "Some countries, for example, so it's very interesting, but some countries, seafood is very, very inexpensive.",
+      "zh": "例如，有些国家很有趣，但有些国家，海鲜非常非常便宜。"
+    },
+    {
+      "id": 236,
+      "start": 707.8,
+      "end": 715.32,
+      "en": "Some communities or some countries or communities that fish or have, for example, shrimp farms, it's very inexpensive.",
+      "zh": "一些社区或一些捕鱼或拥有虾类农场的国家或社区，它非常便宜。"
+    },
+    {
+      "id": 237,
+      "start": 715.32,
+      "end": 721.29,
+      "en": "So, it's such a treat to be able to go there and have seafood all you want and not have to spend $300 on a meal.",
+      "zh": "所以，能够随心所欲地吃海鲜，而不必花 300 美元买一顿饭，真是一种享受。"
+    },
+    {
+      "id": 238,
+      "start": 721.84,
+      "end": 722.25,
+      "en": "It is indeed.",
+      "zh": "确实是。"
+    },
+    {
+      "id": 239,
+      "start": 722.37,
+      "end": 730.38,
+      "en": "And it's really nice to be able to get these big prawns, these big shrimp or lobsters and eat them without worrying about the price.",
+      "zh": "能够得到这些大虾，这些大虾或龙虾，不用担心价格，真的很好。"
+    },
+    {
+      "id": 240,
+      "start": 730.72,
+      "end": 734.2,
+      "en": "But I'm curious, in your country, do you have seafood?",
+      "zh": "但我很好奇，在你的国家，你有海鲜吗？"
+    },
+    {
+      "id": 241,
+      "start": 734.2,
+      "end": 735.22,
+      "en": "And if so, what kind?",
+      "zh": "如果是这样，什么样的？"
+    },
+    {
+      "id": 242,
+      "start": 735.48,
+      "end": 736.48,
+      "en": "Is it cheap?",
+      "zh": "它便宜吗?"
+    },
+    {
+      "id": 243,
+      "start": 736.48,
+      "end": 737.48,
+      "en": "Is it expensive?",
+      "zh": "贵吗？"
+    },
+    {
+      "id": 244,
+      "start": 737.48,
+      "end": 738.48,
+      "en": "Is it pricey?",
+      "zh": "贵吗？"
+    },
+    {
+      "id": 245,
+      "start": 738.48,
+      "end": 739.48,
+      "en": "Let us know.",
+      "zh": "告诉我们吧。"
+    },
+    {
+      "id": 246,
+      "start": 739.48,
+      "end": 740.48,
+      "en": "Our website is EnglishPod.com.",
+      "zh": "我们的网站是 EnglishPod.com。"
+    },
+    {
+      "id": 247,
+      "start": 740.48,
+      "end": 741.48,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 248,
+      "start": 741.48,
+      "end": 742.48,
+      "en": "We'll see you guys there.",
+      "zh": "到时候在那里见。"
+    }
+  ],
+  "dialog": {
+    "start": 28.66,
+    "end": 75.98,
+    "segmentIds": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ]
+  }
+}

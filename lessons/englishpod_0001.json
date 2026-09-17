@@ -1,0 +1,999 @@
+{
+  "version": 1,
+  "id": 1,
+  "number": "0001",
+  "title": "Elementary - Difficult Customer",
+  "audio": "mp3/1. Elementary - Difficult Customer.mp3",
+  "duration": 444.577625,
+  "segments": [
+    {
+      "id": 1,
+      "start": 3.6,
+      "end": 6.66,
+      "en": "Hello English learners and welcome to EnglishPod.",
+      "zh": "各位英语学习者，大家好，欢迎来到 EnglishPod。"
+    },
+    {
+      "id": 2,
+      "start": 6.8,
+      "end": 7.64,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 8.12,
+      "end": 8.64,
+      "en": "I'm Amira.",
+      "zh": "我叫 Amira。"
+    },
+    {
+      "id": 4,
+      "start": 9.08,
+      "end": 14.26,
+      "en": "And Amira and I are here today with a great, great lesson for you.",
+      "zh": "今天，Amira 和我为大家带来一节非常精彩的课。"
+    },
+    {
+      "id": 5,
+      "start": 14.58,
+      "end": 15.28,
+      "en": "Yes, we are.",
+      "zh": "是的，我们是。"
+    },
+    {
+      "id": 6,
+      "start": 15.7,
+      "end": 18.22,
+      "en": "Today we're going to be talking about a restaurant.",
+      "zh": "今天我们要聊一个发生在餐厅里的场景。"
+    },
+    {
+      "id": 7,
+      "start": 18.62,
+      "end": 20.98,
+      "en": "Amira, why don't you give us a little bit more details?",
+      "zh": "Amira，你来给大家多介绍一点吧？"
+    },
+    {
+      "id": 8,
+      "start": 21.48,
+      "end": 29.0,
+      "en": "Well, we're talking about a situation in a restaurant and two people are involved, the waiter and the customer.",
+      "zh": "我们要讲的是餐厅里发生的一件事，涉及两个人：服务员和顾客。"
+    },
+    {
+      "id": 9,
+      "start": 29.39,
+      "end": 30.87,
+      "en": "And I don't want to say any more.",
+      "zh": "而且我不想再说了。"
+    },
+    {
+      "id": 10,
+      "start": 31.03,
+      "end": 32.33,
+      "en": "Okay, don't say any more.",
+      "zh": "好吧，别再说了。"
+    },
+    {
+      "id": 11,
+      "start": 32.49,
+      "end": 37.61,
+      "en": "Let's just listen to this dialogue and we'll be back later to explain it.",
+      "zh": "我们先听这段对话，稍后再回来讲解。"
+    },
+    {
+      "id": 12,
+      "start": 44.66,
+      "end": 45.1,
+      "en": "Good evening.",
+      "zh": "晚上好。"
+    },
+    {
+      "id": 13,
+      "start": 45.6,
+      "end": 46.5,
+      "en": "My name is Fabio.",
+      "zh": "我叫 Fabio。"
+    },
+    {
+      "id": 14,
+      "start": 46.62,
+      "end": 47.8,
+      "en": "I'll be your waiter for tonight.",
+      "zh": "今晚由我为您服务。"
+    },
+    {
+      "id": 15,
+      "start": 48.08,
+      "end": 49.0,
+      "en": "May I take your order?",
+      "zh": "请问您要点什么？"
+    },
+    {
+      "id": 16,
+      "start": 49.99,
+      "end": 51.51,
+      "en": "No, I'm still working on it.",
+      "zh": "还没有，我还没选好。"
+    },
+    {
+      "id": 17,
+      "start": 51.83,
+      "end": 53.09,
+      "en": "This menu is not even in English.",
+      "zh": "这份菜单居然连英文都没有。"
+    },
+    {
+      "id": 18,
+      "start": 53.95,
+      "end": 54.63,
+      "en": "What's good here?",
+      "zh": "这里有什么好吃的？"
+    },
+    {
+      "id": 19,
+      "start": 55.92,
+      "end": 59.74,
+      "en": "For you, sir, I would recommend spaghetti and meatballs.",
+      "zh": "先生，我推荐您点肉丸意大利面。"
+    },
+    {
+      "id": 20,
+      "start": 60.62,
+      "end": 62.12,
+      "en": "Does it come with coke and fries?",
+      "zh": "配可乐和薯条吗？"
+    },
+    {
+      "id": 21,
+      "start": 63.18,
+      "end": 69.12,
+      "en": "It comes with either soup or salad and a complimentary glass of wine, sir.",
+      "zh": "先生，这道菜配有汤或沙拉，二选一，还免费赠送一杯葡萄酒。"
+    },
+    {
+      "id": 22,
+      "start": 70.67,
+      "end": 74.79,
+      "en": "I'll go with the spaghetti and meatballs, salad and the wine.",
+      "zh": "那我就要肉丸意大利面、沙拉和葡萄酒。"
+    },
+    {
+      "id": 23,
+      "start": 75.53,
+      "end": 76.65,
+      "en": "Excellent choice.",
+      "zh": "选得真好。"
+    },
+    {
+      "id": 24,
+      "start": 77.19,
+      "end": 79.47,
+      "en": "Your order will be ready soon.",
+      "zh": "您的餐点很快就好。"
+    },
+    {
+      "id": 25,
+      "start": 80.15,
+      "end": 81.35,
+      "en": "How soon is soon?",
+      "zh": "你说的很快是多久？"
+    },
+    {
+      "id": 26,
+      "start": 82.56,
+      "end": 84.48,
+      "en": "Twenty minutes.",
+      "zh": "二十分钟。"
+    },
+    {
+      "id": 27,
+      "start": 84.48,
+      "end": 84.77,
+      "en": "You know what?",
+      "zh": "这样吧。"
+    },
+    {
+      "id": 28,
+      "start": 85.48,
+      "end": 86.77,
+      "en": "I'll go grab a burger across the street.",
+      "zh": "我还是去街对面买个汉堡吧。"
+    },
+    {
+      "id": 29,
+      "start": 87.4,
+      "end": 90.16,
+      "en": "What a waiter!",
+      "zh": "这服务员真行！"
+    },
+    {
+      "id": 30,
+      "start": 95.71,
+      "end": 96.27,
+      "en": "What a waiter!",
+      "zh": "这服务员真行！"
+    },
+    {
+      "id": 31,
+      "start": 98.05,
+      "end": 102.63,
+      "en": "He is really angry at this customer and I can't blame him.",
+      "zh": "他对这位顾客很生气，这也不能怪他。"
+    },
+    {
+      "id": 32,
+      "start": 102.83,
+      "end": 103.95,
+      "en": "I would be angry too.",
+      "zh": "我也会生气。"
+    },
+    {
+      "id": 33,
+      "start": 104.76,
+      "end": 105.76,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 34,
+      "start": 105.76,
+      "end": 110.75,
+      "en": "So, I think, Marco, you have chosen some interesting expressions for us here.",
+      "zh": "Marco，我想你给大家挑选了一些很有意思的表达。"
+    },
+    {
+      "id": 35,
+      "start": 111.48,
+      "end": 112.17,
+      "en": "What is the first one?",
+      "zh": "第一个是什么？"
+    },
+    {
+      "id": 36,
+      "start": 112.55,
+      "end": 116.25,
+      "en": "Well, the first one is I'm still working on it.",
+      "zh": "第一个表达是“I'm still working on it”，意思是“我还在弄，还没完成”。"
+    },
+    {
+      "id": 37,
+      "start": 116.49,
+      "end": 118.15,
+      "en": "I'm still working on it.",
+      "zh": "我还在处理。"
+    },
+    {
+      "id": 38,
+      "start": 118.39,
+      "end": 120.41,
+      "en": "I'm still working on it.",
+      "zh": "我还在处理。"
+    },
+    {
+      "id": 39,
+      "start": 120.64,
+      "end": 122.42,
+      "en": "I'm still working on it.",
+      "zh": "我还在处理。"
+    },
+    {
+      "id": 40,
+      "start": 122.72,
+      "end": 129.2,
+      "en": "Why don't we listen to some other examples on how you can use this word and then we'll come back and explain it.",
+      "zh": "我们再听几个例子，看看这个表达怎么用，然后回来讲解。"
+    },
+    {
+      "id": 41,
+      "start": 135.28,
+      "end": 136.88,
+      "en": "Did you finish reading the magazine?",
+      "zh": "你读完杂志了吗？"
+    },
+    {
+      "id": 42,
+      "start": 137.8,
+      "end": 138.74,
+      "en": "I'm still working on it.",
+      "zh": "我还在处理。"
+    },
+    {
+      "id": 43,
+      "start": 142.8,
+      "end": 143.54,
+      "en": "Did you fix my car?",
+      "zh": "你修好我的车了吗？"
+    },
+    {
+      "id": 44,
+      "start": 143.8,
+      "end": 148.8,
+      "en": "I'm still working on it.",
+      "zh": "我还在处理。"
+    },
+    {
+      "id": 45,
+      "start": 148.8,
+      "end": 160.0,
+      "en": "Ah, so you could say I'm still working on it means I still need more time.",
+      "zh": "所以，“I'm still working on it”也可以理解为“我还需要一点时间”。"
+    },
+    {
+      "id": 46,
+      "start": 160.0,
+      "end": 160.15,
+      "en": "Fantastic.",
+      "zh": "太棒了。"
+    },
+    {
+      "id": 47,
+      "start": 161.0,
+      "end": 162.0,
+      "en": "Great.",
+      "zh": "太好了。"
+    },
+    {
+      "id": 48,
+      "start": 162.0,
+      "end": 163.0,
+      "en": "OK, it's clear.",
+      "zh": "好的，很清楚。"
+    },
+    {
+      "id": 49,
+      "start": 163.0,
+      "end": 164.33,
+      "en": "I have another one for you guys.",
+      "zh": "我又给你们一台。"
+    },
+    {
+      "id": 50,
+      "start": 164.72,
+      "end": 168.03,
+      "en": "It's a phrase commonly used and you'll hear it all the time.",
+      "zh": "这是一个常用表达，你会经常听到。"
+    },
+    {
+      "id": 51,
+      "start": 168.52,
+      "end": 169.41,
+      "en": "Coke and fries.",
+      "zh": "可乐和薯条。"
+    },
+    {
+      "id": 52,
+      "start": 170.0,
+      "end": 170.71,
+      "en": "Coke and fries.",
+      "zh": "可乐和薯条。"
+    },
+    {
+      "id": 53,
+      "start": 171.4,
+      "end": 172.23,
+      "en": "Coke and fries.",
+      "zh": "可乐和薯条。"
+    },
+    {
+      "id": 54,
+      "start": 172.76,
+      "end": 173.43,
+      "en": "Coke and fries.",
+      "zh": "可乐和薯条。"
+    },
+    {
+      "id": 55,
+      "start": 173.84,
+      "end": 177.69,
+      "en": "It's a short way of saying Coca-Cola and French fries.",
+      "zh": "这是 Coca-Cola（可口可乐）和 French fries（炸薯条）的简略说法。"
+    },
+    {
+      "id": 56,
+      "start": 178.6,
+      "end": 181.23,
+      "en": "So that's basically America's fast food.",
+      "zh": "这基本上就是美国快餐的典型搭配。"
+    },
+    {
+      "id": 57,
+      "start": 181.76,
+      "end": 183.66,
+      "en": "Yeah, burger, coke and fries.",
+      "zh": "是的，汉堡、可乐和薯条。"
+    },
+    {
+      "id": 58,
+      "start": 184.36,
+      "end": 185.52,
+      "en": "OK.",
+      "zh": "好的。"
+    },
+    {
+      "id": 59,
+      "start": 185.52,
+      "end": 186.44,
+      "en": "What's next on the menu?",
+      "zh": "菜单上的下一步是什么？"
+    },
+    {
+      "id": 60,
+      "start": 186.92,
+      "end": 190.18,
+      "en": "On the menu we have a complimentary glass of wine.",
+      "zh": "菜单上写着免费赠送一杯葡萄酒。"
+    },
+    {
+      "id": 61,
+      "start": 191.52,
+      "end": 193.88,
+      "en": "Complimentary glass of wine.",
+      "zh": "免费赠送的一杯葡萄酒。"
+    },
+    {
+      "id": 62,
+      "start": 193.88,
+      "end": 196.64,
+      "en": "Complimentary glass of wine.",
+      "zh": "免费赠送的一杯葡萄酒。"
+    },
+    {
+      "id": 63,
+      "start": 196.64,
+      "end": 197.14,
+      "en": "Complementary means?",
+      "zh": "互补是什么意思？"
+    },
+    {
+      "id": 64,
+      "start": 197.84,
+      "end": 198.6,
+      "en": "That it's free.",
+      "zh": "它是免费的。"
+    },
+    {
+      "id": 65,
+      "start": 198.84,
+      "end": 199.84,
+      "en": "Free.",
+      "zh": "免费。"
+    },
+    {
+      "id": 66,
+      "start": 199.84,
+      "end": 200.84,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 67,
+      "start": 200.84,
+      "end": 201.84,
+      "en": "We love that, huh?",
+      "zh": "我们喜欢那个，嗯？"
+    },
+    {
+      "id": 68,
+      "start": 201.84,
+      "end": 203.2,
+      "en": "Yeah, we definitely like free things.",
+      "zh": "是的，我们绝对喜欢免费的东西。"
+    },
+    {
+      "id": 69,
+      "start": 203.32,
+      "end": 207.24,
+      "en": "Well, I have another one for us here, another interesting phrase.",
+      "zh": "我这里还有一个很有意思的表达。"
+    },
+    {
+      "id": 70,
+      "start": 207.92,
+      "end": 208.98,
+      "en": "I'll go with.",
+      "zh": "我选……"
+    },
+    {
+      "id": 71,
+      "start": 209.3,
+      "end": 210.1,
+      "en": "I'll go with.",
+      "zh": "我选……"
+    },
+    {
+      "id": 72,
+      "start": 210.46,
+      "end": 211.48,
+      "en": "I'll go with.",
+      "zh": "我选……"
+    },
+    {
+      "id": 73,
+      "start": 211.74,
+      "end": 213.06,
+      "en": "I'll go with.",
+      "zh": "我选……"
+    },
+    {
+      "id": 74,
+      "start": 213.82,
+      "end": 216.38,
+      "en": "So basically it's another way of saying I'm choosing.",
+      "zh": "所以，它基本上就是“我选择……”的另一种说法。"
+    },
+    {
+      "id": 75,
+      "start": 216.92,
+      "end": 218.56,
+      "en": "Yeah, I'll choose or I'll take.",
+      "zh": "是的，我会选择，否则我会接受。"
+    },
+    {
+      "id": 76,
+      "start": 218.94,
+      "end": 219.3,
+      "en": "I'll take.",
+      "zh": "我会拿的。"
+    },
+    {
+      "id": 77,
+      "start": 219.84,
+      "end": 221.56,
+      "en": "OK, very good.",
+      "zh": "好，很好。"
+    },
+    {
+      "id": 78,
+      "start": 221.56,
+      "end": 226.0,
+      "en": "Alright, the next word that I want to take a look at is grab.",
+      "zh": "好，接下来我们看看 grab 这个词。"
+    },
+    {
+      "id": 79,
+      "start": 226.72,
+      "end": 226.88,
+      "en": "Grab.",
+      "zh": "抓住。"
+    },
+    {
+      "id": 80,
+      "start": 227.0,
+      "end": 228.0,
+      "en": "Grab.",
+      "zh": "抓住。"
+    },
+    {
+      "id": 81,
+      "start": 228.0,
+      "end": 228.16,
+      "en": "Grab.",
+      "zh": "抓住。"
+    },
+    {
+      "id": 82,
+      "start": 229.0,
+      "end": 246.68,
+      "en": "OK, now let's listen to some other examples of how we could use grab in different situations and then we'll come back and explain it.",
+      "zh": "好，我们再听几个例子，看看 grab 在不同情境下怎么用，然后回来讲解。"
+    },
+    {
+      "id": 83,
+      "start": 246.68,
+      "end": 247.86,
+      "en": "On your way home, can you grab some milk?",
+      "zh": "你回家的路上能顺便买点牛奶吗？"
+    },
+    {
+      "id": 84,
+      "start": 250.8,
+      "end": 251.8,
+      "en": "Wait for me, please.",
+      "zh": "请等我。"
+    },
+    {
+      "id": 85,
+      "start": 251.8,
+      "end": 252.65,
+      "en": "I need to grab my coat.",
+      "zh": "我需要抓住我的外套。"
+    },
+    {
+      "id": 86,
+      "start": 257.4,
+      "end": 258.34,
+      "en": "Let's grab a cup of coffee.",
+      "zh": "让我们喝杯咖啡。"
+    },
+    {
+      "id": 87,
+      "start": 264.14,
+      "end": 269.36,
+      "en": "All right, well, I would understand that go grab means go get quickly.",
+      "zh": "我理解 go grab 就是“赶快去拿或买”的意思。"
+    },
+    {
+      "id": 88,
+      "start": 269.96,
+      "end": 270.96,
+      "en": "To go get quickly, yeah.",
+      "zh": "快点去，是的。"
+    },
+    {
+      "id": 89,
+      "start": 271.32,
+      "end": 272.32,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 90,
+      "start": 272.32,
+      "end": 272.54,
+      "en": "All right, everyone.",
+      "zh": "好了，各位。"
+    },
+    {
+      "id": 91,
+      "start": 273.32,
+      "end": 281.86,
+      "en": "So now it's time to listen one more time to the dialogue and listen carefully and try to understand why the waiter doesn't like the customer.",
+      "zh": "现在再听一遍对话，仔细听，试着弄明白服务员为什么不喜欢这位顾客。"
+    },
+    {
+      "id": 92,
+      "start": 282.4,
+      "end": 282.8,
+      "en": "Let's listen.",
+      "zh": "我们来听听。"
+    },
+    {
+      "id": 93,
+      "start": 290.88,
+      "end": 291.21,
+      "en": "Good evening.",
+      "zh": "晚上好。"
+    },
+    {
+      "id": 94,
+      "start": 291.88,
+      "end": 292.63,
+      "en": "My name is Fabio.",
+      "zh": "我叫 Fabio。"
+    },
+    {
+      "id": 95,
+      "start": 292.88,
+      "end": 293.91,
+      "en": "I'll be your waiter for tonight.",
+      "zh": "今晚由我为您服务。"
+    },
+    {
+      "id": 96,
+      "start": 294.24,
+      "end": 295.15,
+      "en": "May I take your order?",
+      "zh": "请问您要点什么？"
+    },
+    {
+      "id": 97,
+      "start": 296.18,
+      "end": 297.6,
+      "en": "No, I'm still working on it.",
+      "zh": "还没有，我还没选好。"
+    },
+    {
+      "id": 98,
+      "start": 298.04,
+      "end": 299.24,
+      "en": "This menu is not even in English.",
+      "zh": "这份菜单居然连英文都没有。"
+    },
+    {
+      "id": 99,
+      "start": 299.98,
+      "end": 300.72,
+      "en": "What's good here?",
+      "zh": "这里有什么好吃的？"
+    },
+    {
+      "id": 100,
+      "start": 301.71,
+      "end": 305.87,
+      "en": "For you, sir, I would recommend spaghetti and meatballs.",
+      "zh": "先生，我推荐您点肉丸意大利面。"
+    },
+    {
+      "id": 101,
+      "start": 306.27,
+      "end": 308.23,
+      "en": "Does it come with Coke and fries?",
+      "zh": "它有可乐和薯条吗？"
+    },
+    {
+      "id": 102,
+      "start": 309.69,
+      "end": 315.21,
+      "en": "It comes with either soup or salad and a complimentary glass of wine, sir.",
+      "zh": "先生，这道菜配有汤或沙拉，二选一，还免费赠送一杯葡萄酒。"
+    },
+    {
+      "id": 103,
+      "start": 316.74,
+      "end": 320.92,
+      "en": "I'll go with the spaghetti and meatballs, salad and the wine.",
+      "zh": "那我就要肉丸意大利面、沙拉和葡萄酒。"
+    },
+    {
+      "id": 104,
+      "start": 321.72,
+      "end": 322.82,
+      "en": "Excellent choice.",
+      "zh": "选得真好。"
+    },
+    {
+      "id": 105,
+      "start": 323.4,
+      "end": 325.58,
+      "en": "Your order will be ready soon.",
+      "zh": "您的餐点很快就好。"
+    },
+    {
+      "id": 106,
+      "start": 326.28,
+      "end": 327.48,
+      "en": "How soon is soon?",
+      "zh": "你说的很快是多久？"
+    },
+    {
+      "id": 107,
+      "start": 328.64,
+      "end": 330.56,
+      "en": "Twenty minutes.",
+      "zh": "二十分钟。"
+    },
+    {
+      "id": 108,
+      "start": 330.56,
+      "end": 330.88,
+      "en": "You know what?",
+      "zh": "你知道吗？"
+    },
+    {
+      "id": 109,
+      "start": 331.56,
+      "end": 332.96,
+      "en": "I'll just go grab a burger across the street.",
+      "zh": "我还是去街对面买个汉堡吧。"
+    },
+    {
+      "id": 110,
+      "start": 337.82,
+      "end": 345.12,
+      "en": "Marco, why did this waiter get angry at the customer?",
+      "zh": "Marco，服务员为什么生这位顾客的气？"
+    },
+    {
+      "id": 111,
+      "start": 345.68,
+      "end": 348.98,
+      "en": "Well, he basically wasted the waiter's time.",
+      "zh": "因为这位顾客基本上是在浪费服务员的时间。"
+    },
+    {
+      "id": 112,
+      "start": 349.34,
+      "end": 351.5,
+      "en": "I mean, this guy comes into the restaurant.",
+      "zh": "你想想，这个人走进餐厅。"
+    },
+    {
+      "id": 113,
+      "start": 351.84,
+      "end": 356.72,
+      "en": "He is not very polite and he's asking all these questions.",
+      "zh": "他不怎么有礼貌，还问了一大堆问题。"
+    },
+    {
+      "id": 114,
+      "start": 356.72,
+      "end": 362.2,
+      "en": "In the end, he just gets up and says, I'll just go grab a burger across the street.",
+      "zh": "结果最后他站起来说：“我还是去街对面买个汉堡吧。”"
+    },
+    {
+      "id": 115,
+      "start": 362.2,
+      "end": 367.26,
+      "en": "Yeah, and I also think that this guy was a lot more casual than the place he was in, right?",
+      "zh": "是啊，而且我觉得这个人的做派比他所在的餐厅随便多了，对吧？"
+    },
+    {
+      "id": 116,
+      "start": 368.12,
+      "end": 369.12,
+      "en": "Yeah, yeah.",
+      "zh": "对，对。"
+    },
+    {
+      "id": 117,
+      "start": 369.12,
+      "end": 370.9,
+      "en": "I think this was a nice, fancy restaurant.",
+      "zh": "我觉得那是一家很不错的高档餐厅。"
+    },
+    {
+      "id": 118,
+      "start": 371.24,
+      "end": 373.24,
+      "en": "So I think he was in the wrong place.",
+      "zh": "所以我认为他在错误的地方。"
+    },
+    {
+      "id": 119,
+      "start": 373.68,
+      "end": 373.84,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 120,
+      "start": 374.28,
+      "end": 378.86,
+      "en": "So how many times, Marco, tell me, do you really have fast food a week?",
+      "zh": "Marco，告诉我，你一周到底吃几次快餐？"
+    },
+    {
+      "id": 121,
+      "start": 379.88,
+      "end": 384.36,
+      "en": "Fast food, let's see, Monday, Tuesday, Wednesday.",
+      "zh": "快餐啊，让我想想，周一、周二、周三……"
+    },
+    {
+      "id": 122,
+      "start": 384.36,
+      "end": 386.36,
+      "en": "No, I'm just kidding.",
+      "zh": "没有，我只是在开玩笑。"
+    },
+    {
+      "id": 123,
+      "start": 386.36,
+      "end": 387.36,
+      "en": "Oh my God.",
+      "zh": "我的天哪。"
+    },
+    {
+      "id": 124,
+      "start": 387.36,
+      "end": 388.36,
+      "en": "No, no.",
+      "zh": "不，不。"
+    },
+    {
+      "id": 125,
+      "start": 388.36,
+      "end": 392.1,
+      "en": "I think I get fast food maybe once a week, once or twice a week.",
+      "zh": "我想我大概一周吃一次，或者一到两次快餐。"
+    },
+    {
+      "id": 126,
+      "start": 392.34,
+      "end": 394.64,
+      "en": "All right, talking about fast food made me hungry.",
+      "zh": "好了，聊快餐把我都说饿了。"
+    },
+    {
+      "id": 127,
+      "start": 394.76,
+      "end": 397.48,
+      "en": "So I think I'm going to go grab something to eat myself.",
+      "zh": "所以我想去买点东西吃。"
+    },
+    {
+      "id": 128,
+      "start": 397.86,
+      "end": 398.4,
+      "en": "Yeah, me too.",
+      "zh": "对，我也是。"
+    },
+    {
+      "id": 129,
+      "start": 398.7,
+      "end": 399.04,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 130,
+      "start": 399.32,
+      "end": 406.76,
+      "en": "I hope you guys enjoyed the lesson today and remember that all of this vocabulary is useful for your everyday needs.",
+      "zh": "希望大家喜欢今天的课，也别忘了，这些词汇在日常生活中都用得上。"
+    },
+    {
+      "id": 131,
+      "start": 407.18,
+      "end": 407.4,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 132,
+      "start": 407.98,
+      "end": 417.36,
+      "en": "Well, actually here in EnglishPod, we focus on phrases and words that are high frequency and that means that you can use them every day in your practical life.",
+      "zh": "EnglishPod 着重讲解高频词汇和短语，也就是你每天在实际生活中都能用到的表达。"
+    },
+    {
+      "id": 133,
+      "start": 417.56,
+      "end": 418.06,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 134,
+      "start": 418.4,
+      "end": 429.54,
+      "en": "And be sure to go to our website at EnglishPod.com where you can find many other resources and you can leave your questions and comments at our community forum.",
+      "zh": "记得访问 EnglishPod.com，那里有更多学习资源，你也可以在社区论坛留言提问、发表意见。"
+    },
+    {
+      "id": 135,
+      "start": 430.12,
+      "end": 432.0,
+      "en": "So thank you very much for listening.",
+      "zh": "所以非常感谢你的收听。"
+    },
+    {
+      "id": 136,
+      "start": 432.02,
+      "end": 434.4,
+      "en": "We'll be back tomorrow with another great lesson for you.",
+      "zh": "明天我们会再为大家带来一节精彩的课。"
+    },
+    {
+      "id": 137,
+      "start": 434.9,
+      "end": 435.9,
+      "en": "So until then, bye.",
+      "zh": "所以在那之前，再见。"
+    },
+    {
+      "id": 138,
+      "start": 435.92,
+      "end": 436.18,
+      "en": "Bye.",
+      "zh": "再见。"
+    }
+  ],
+  "dialog": {
+    "start": 44.66,
+    "end": 86.77,
+    "segmentIds": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28
+    ]
+  }
+}

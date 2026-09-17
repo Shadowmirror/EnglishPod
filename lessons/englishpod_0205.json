@@ -1,0 +1,2317 @@
+{
+  "version": 1,
+  "id": 205,
+  "number": "0205",
+  "title": "The Office - Closing The Deal",
+  "audio": "mp3/205. The Office - Closing The Deal.mp3",
+  "duration": 984.1110625,
+  "segments": [
+    {
+      "id": 1,
+      "start": 3.7,
+      "end": 7.26,
+      "en": "Hello everyone and welcome to another great lesson here at EnglishPod.",
+      "zh": "大家好，欢迎在 Englishpod 参加另一个精彩的课程。"
+    },
+    {
+      "id": 2,
+      "start": 7.56,
+      "end": 8.04,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 8.44,
+      "end": 12.82,
+      "en": "My name is Catherine and today we've got an upper intermediate level lesson for you all.",
+      "zh": "我的名字是凯瑟琳，今天我们为大家准备了一个中级中级课程。"
+    },
+    {
+      "id": 4,
+      "start": 13.12,
+      "end": 13.52,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 5,
+      "start": 13.74,
+      "end": 21.78,
+      "en": "We're going to talk a little bit about business and specifically we are in a business meeting where we're trying to sell something to someone.",
+      "zh": "我们将谈谈商业，特别是我们正在参加一个商务会议，我们试图向某人出售东西。"
+    },
+    {
+      "id": 6,
+      "start": 22.0,
+      "end": 22.26,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 7,
+      "start": 23.2,
+      "end": 28.16,
+      "en": "So you're going to hear a lot of talk about chocolate or in this case gourmet bonbons.",
+      "zh": "所以你会听到很多关于巧克力或在这种情况下美食糖果的讨论。"
+    },
+    {
+      "id": 8,
+      "start": 28.84,
+      "end": 29.28,
+      "en": "Gourmet bonbons.",
+      "zh": "美食甜品。"
+    },
+    {
+      "id": 9,
+      "start": 29.84,
+      "end": 32.76,
+      "en": "This is another word for chocolate candies or candies.",
+      "zh": "这是巧克力糖果或糖果的另一个词。"
+    },
+    {
+      "id": 10,
+      "start": 32.76,
+      "end": 33.0,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 11,
+      "start": 33.76,
+      "end": 36.6,
+      "en": "So a bonbon is kind of like round usually, right?",
+      "zh": "所以bonbon通常有点像圆形，对吧？"
+    },
+    {
+      "id": 12,
+      "start": 36.6,
+      "end": 36.94,
+      "en": "Usually, yes.",
+      "zh": "通常，是的。"
+    },
+    {
+      "id": 13,
+      "start": 37.6,
+      "end": 38.6,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 14,
+      "start": 38.6,
+      "end": 39.6,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 15,
+      "start": 39.6,
+      "end": 40.72,
+      "en": "So let's get started and listen to today's dialogue.",
+      "zh": "所以让我们开始吧，听听今天的对话。"
+    },
+    {
+      "id": 16,
+      "start": 40.96,
+      "end": 41.98,
+      "en": "We'll be back in a moment.",
+      "zh": "我们马上回来。"
+    },
+    {
+      "id": 17,
+      "start": 49.82,
+      "end": 52.36,
+      "en": "I'm glad you could find time to meet with me, Mr. Johnson.",
+      "zh": "我很高兴你能抽出时间与我见面，约翰逊先生。"
+    },
+    {
+      "id": 18,
+      "start": 53.14,
+      "end": 55.94,
+      "en": "I can't think of a nicer environment for our meeting today.",
+      "zh": "今天谈生意，真找不到比这里更好的环境了。"
+    },
+    {
+      "id": 19,
+      "start": 56.3,
+      "end": 57.28,
+      "en": "The ambience here is lovely.",
+      "zh": "这里的氛围很可爱。"
+    },
+    {
+      "id": 20,
+      "start": 58.36,
+      "end": 59.44,
+      "en": "No problem.",
+      "zh": "没问题。"
+    },
+    {
+      "id": 21,
+      "start": 59.44,
+      "end": 61.88,
+      "en": "If possible, I always combine business with pleasure.",
+      "zh": "如果可能的话，我总是将商业与快乐相结合。"
+    },
+    {
+      "id": 22,
+      "start": 62.76,
+      "end": 64.78,
+      "en": "Now let's hear more about these chocolates you're offering.",
+      "zh": "现在让我们更多地了解您提供的这些巧克力。"
+    },
+    {
+      "id": 23,
+      "start": 65.37,
+      "end": 72.49,
+      "en": "Well, as you know, I have recently become the sole distributor for Granger's gourmet bonbons here in the United States.",
+      "zh": "您知道，我最近成为了格兰杰精品夹心巧克力在美国的独家经销商。"
+    },
+    {
+      "id": 24,
+      "start": 73.11,
+      "end": 76.97,
+      "en": "They're a new manufacturer and are looking to break into the luxury market.",
+      "zh": "他们是一家新制造商，正在寻求打入奢侈品市场。"
+    },
+    {
+      "id": 25,
+      "start": 77.55,
+      "end": 80.15,
+      "en": "Naturally, your restaurant sprang into my mind immediately.",
+      "zh": "自然地，你的餐厅立刻浮现在我的脑海里。"
+    },
+    {
+      "id": 26,
+      "start": 80.89,
+      "end": 92.11,
+      "en": "I think your brand exemplifies many of the same traits as Granger's and serving these chocolates would really add to your reputation for providing elegant, luxurious, first-class dining.",
+      "zh": "我认为您的品牌体现了与 Granger 相同的许多特征，供应这些巧克力确实会增加您提供优雅、豪华的一流餐饮的声誉。"
+    },
+    {
+      "id": 27,
+      "start": 93.0,
+      "end": 93.43,
+      "en": "Hmm.",
+      "zh": "嗯。"
+    },
+    {
+      "id": 28,
+      "start": 94.0,
+      "end": 94.53,
+      "en": "Sounds interesting.",
+      "zh": "听起来很有趣。"
+    },
+    {
+      "id": 29,
+      "start": 95.16,
+      "end": 95.89,
+      "en": "Gourmet chocolates.",
+      "zh": "精品巧克力。"
+    },
+    {
+      "id": 30,
+      "start": 96.76,
+      "end": 97.27,
+      "en": "Where are they produced?",
+      "zh": "它们在哪里生产？"
+    },
+    {
+      "id": 31,
+      "start": 97.76,
+      "end": 98.76,
+      "en": "Belgium?",
+      "zh": "比利时？"
+    },
+    {
+      "id": 32,
+      "start": 98.76,
+      "end": 101.0,
+      "en": "Actually, the factory is located in Scotland.",
+      "zh": "实际上，工厂位于苏格兰。"
+    },
+    {
+      "id": 33,
+      "start": 101.64,
+      "end": 102.12,
+      "en": "Really?",
+      "zh": "真的吗？"
+    },
+    {
+      "id": 34,
+      "start": 102.68,
+      "end": 105.6,
+      "en": "I didn't think they were known for their luxury chocolate production.",
+      "zh": "我不认为他们以奢华巧克力生产而闻名。"
+    },
+    {
+      "id": 35,
+      "start": 106.1,
+      "end": 109.32,
+      "en": "That's what makes this such a fantastic opportunity.",
+      "zh": "这就是使这成为一个绝佳机会的原因。"
+    },
+    {
+      "id": 36,
+      "start": 109.98,
+      "end": 119.8,
+      "en": "The government is 100% supportive of creating new export markets and has guaranteed a low tariff for all wholesale orders of over 1,000 units.",
+      "zh": "政府全力支持开拓新的出口市场，并保证超过一千件的批发订单都能享受低关税。"
+    },
+    {
+      "id": 37,
+      "start": 120.6,
+      "end": 123.36,
+      "en": "They've also reduced the red tape involved at customs as well.",
+      "zh": "他们还减少了海关所涉及的繁文缛节。"
+    },
+    {
+      "id": 38,
+      "start": 124.0,
+      "end": 126.0,
+      "en": "Here, I brought these especially for you.",
+      "zh": "在这里，我特别为您带来了这些。"
+    },
+    {
+      "id": 39,
+      "start": 126.28,
+      "end": 126.7,
+      "en": "Try one.",
+      "zh": "试一试。"
+    },
+    {
+      "id": 40,
+      "start": 127.1,
+      "end": 127.96,
+      "en": "Oh, thanks.",
+      "zh": "哦，谢谢。"
+    },
+    {
+      "id": 41,
+      "start": 128.36,
+      "end": 129.36,
+      "en": "Hmm.",
+      "zh": "嗯。"
+    },
+    {
+      "id": 42,
+      "start": 129.36,
+      "end": 130.36,
+      "en": "Hmm.",
+      "zh": "嗯。"
+    },
+    {
+      "id": 43,
+      "start": 131.28,
+      "end": 132.0,
+      "en": "Creamy texture.",
+      "zh": "口感绵密。"
+    },
+    {
+      "id": 44,
+      "start": 132.88,
+      "end": 133.7,
+      "en": "Very smooth.",
+      "zh": "非常顺滑。"
+    },
+    {
+      "id": 45,
+      "start": 134.1,
+      "end": 135.1,
+      "en": "Unique, aren't they?",
+      "zh": "独特的，不是吗？"
+    },
+    {
+      "id": 46,
+      "start": 135.42,
+      "end": 137.52,
+      "en": "I bet you've never tasted anything like it.",
+      "zh": "我敢打赌你从来没有尝过类似的东西。"
+    },
+    {
+      "id": 47,
+      "start": 137.92,
+      "end": 143.92,
+      "en": "Quality is assured as I personally visit the factory to make sure no one's cutting corners with the ingredients.",
+      "zh": "质量是有保证的，因为我亲自参观了工厂，以确保没有人在食材上偷工减料。"
+    },
+    {
+      "id": 48,
+      "start": 143.92,
+      "end": 146.2,
+      "en": "Only the creme de la creme make it through inspection.",
+      "zh": "只有最上乘的产品才能通过检验。"
+    },
+    {
+      "id": 49,
+      "start": 146.84,
+      "end": 147.1,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 50,
+      "start": 147.84,
+      "end": 148.4,
+      "en": "Very interesting flavors.",
+      "zh": "非常有趣的口味。"
+    },
+    {
+      "id": 51,
+      "start": 149.14,
+      "end": 149.84,
+      "en": "Slightly spicy.",
+      "zh": "有点辣。"
+    },
+    {
+      "id": 52,
+      "start": 150.72,
+      "end": 150.84,
+      "en": "Hmm.",
+      "zh": "嗯。"
+    },
+    {
+      "id": 53,
+      "start": 151.32,
+      "end": 152.56,
+      "en": "Very unique, that's for sure.",
+      "zh": "非常独特，这是肯定的。"
+    },
+    {
+      "id": 54,
+      "start": 153.0,
+      "end": 154.64,
+      "en": "Exactly what are the ingredients?",
+      "zh": "具体是什么成分？"
+    },
+    {
+      "id": 55,
+      "start": 155.3,
+      "end": 162.66,
+      "en": "I have it on highest authority that this traditional secret recipe has been handed down in the Granger family for generations.",
+      "zh": "我从最可靠的渠道得知，这份传统秘方在格兰杰家族已经传承了好几代。"
+    },
+    {
+      "id": 56,
+      "start": 163.54,
+      "end": 164.88,
+      "en": "I'm sure you can keep a secret.",
+      "zh": "我相信你可以保守秘密。"
+    },
+    {
+      "id": 57,
+      "start": 166.68,
+      "end": 172.84,
+      "en": "Buttermilk, cacao beans, sugar, and haggis.",
+      "zh": "酪乳、可可豆、糖和羊杂碎。"
+    },
+    {
+      "id": 58,
+      "start": 172.84,
+      "end": 175.96,
+      "en": "What's haggis?",
+      "zh": "什么是哈吉斯？"
+    },
+    {
+      "id": 59,
+      "start": 175.96,
+      "end": 177.79,
+      "en": "It's a traditional Scottish delicacy.",
+      "zh": "这是一种传统的苏格兰美食。"
+    },
+    {
+      "id": 60,
+      "start": 178.36,
+      "end": 182.73,
+      "en": "You take sheep's liver, heart, and lung and stuff it inside the sheep's stomach.",
+      "zh": "你拿羊的肝脏、心脏和肺，把它塞进羊的胃里。"
+    },
+    {
+      "id": 61,
+      "start": 187.42,
+      "end": 189.06,
+      "en": "I'll get back to you.",
+      "zh": "我会回复你的。"
+    },
+    {
+      "id": 62,
+      "start": 189.18,
+      "end": 189.68,
+      "en": "Mr. Johnson.",
+      "zh": "约翰逊先生。"
+    },
+    {
+      "id": 63,
+      "start": 190.32,
+      "end": 190.82,
+      "en": "Mr. Johnson.",
+      "zh": "约翰逊先生。"
+    },
+    {
+      "id": 64,
+      "start": 191.28,
+      "end": 192.28,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 65,
+      "start": 199.91,
+      "end": 200.29,
+      "en": "We're back.",
+      "zh": "我们回来了。"
+    },
+    {
+      "id": 66,
+      "start": 200.57,
+      "end": 202.47,
+      "en": "So a lot of interesting vocab there.",
+      "zh": "所以那里有很多有趣的词汇。"
+    },
+    {
+      "id": 67,
+      "start": 202.6,
+      "end": 211.04,
+      "en": "The guy was trying to convince them about these chocolates but it turned out to be something a little bit strange and we'll talk about that in a little while.",
+      "zh": "这家伙试图说服他们相信这些巧克力，但结果有点奇怪，我们稍后会讨论。"
+    },
+    {
+      "id": 68,
+      "start": 211.04,
+      "end": 217.45,
+      "en": "Before we get into that, why don't we take a look at seven key words that we have prepared for you today on Language Takeaway.",
+      "zh": "在我们开始讨论之前，我们为什么不看看我们今天为您准备的关于语言外卖的七个关键词。"
+    },
+    {
+      "id": 69,
+      "start": 220.0,
+      "end": 221.0,
+      "en": "Language Takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 70,
+      "start": 221.0,
+      "end": 222.0,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 71,
+      "start": 222.84,
+      "end": 225.44,
+      "en": "So we've divided Language Takeaway into two parts today.",
+      "zh": "所以我们今天将语言外卖分为两部分。"
+    },
+    {
+      "id": 72,
+      "start": 225.6,
+      "end": 229.32,
+      "en": "The first part is all about business and manufacturing.",
+      "zh": "第一部分是关于商业和制造的。"
+    },
+    {
+      "id": 73,
+      "start": 229.32,
+      "end": 230.34,
+      "en": "So what's our first word, Marco?",
+      "zh": "那么我们的第一个词是什么，马可？"
+    },
+    {
+      "id": 74,
+      "start": 230.74,
+      "end": 231.04,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 75,
+      "start": 231.68,
+      "end": 237.6,
+      "en": "So I talked about being the sole distributor for this company called Granger's Gourmet Bonbons.",
+      "zh": "所以我谈到成为这家名为 Granger's Gourmet Bonbons 的公司的唯一经销商。"
+    },
+    {
+      "id": 76,
+      "start": 237.6,
+      "end": 237.92,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 77,
+      "start": 238.6,
+      "end": 238.74,
+      "en": "A distributor.",
+      "zh": "经销商。"
+    },
+    {
+      "id": 78,
+      "start": 239.6,
+      "end": 240.6,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 79,
+      "start": 240.6,
+      "end": 248.88,
+      "en": "This is a person or a company and the distributor is someone who distributes or sells a product, right?",
+      "zh": "这是个人或公司，分销商是分销或销售产品的人，对吧？"
+    },
+    {
+      "id": 80,
+      "start": 248.88,
+      "end": 249.88,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 81,
+      "start": 249.88,
+      "end": 250.88,
+      "en": "So the factory will make them.",
+      "zh": "所以工厂会制造它们。"
+    },
+    {
+      "id": 82,
+      "start": 250.88,
+      "end": 258.16,
+      "en": "He will get all these goods from the factory and then he will be the one that gives it to the different retail stores.",
+      "zh": "他将从工厂获得所有这些商品，然后他将成为将其提供给不同零售店的人。"
+    },
+    {
+      "id": 83,
+      "start": 258.72,
+      "end": 262.94,
+      "en": "So he can have many clients and he is the main person who you get it from.",
+      "zh": "所以他可以有很多客户，他是你得到它的主要人。"
+    },
+    {
+      "id": 84,
+      "start": 263.1,
+      "end": 265.0,
+      "en": "So obviously they don't get it directly from the factory.",
+      "zh": "很明显，他们不会直接从工厂得到它。"
+    },
+    {
+      "id": 85,
+      "start": 265.34,
+      "end": 265.64,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 86,
+      "start": 265.7,
+      "end": 270.48,
+      "en": "So this person, a distributor or a company, is in the middle of the transaction.",
+      "zh": "所以这个人，一个分销商或一个公司，在交易的中间。"
+    },
+    {
+      "id": 87,
+      "start": 271.04,
+      "end": 275.92,
+      "en": "On one side there is the manufacturer and on the other side there is the retail market or stores.",
+      "zh": "一方面是制造商，另一方面是零售市场或商店。"
+    },
+    {
+      "id": 88,
+      "start": 276.36,
+      "end": 276.72,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 89,
+      "start": 277.6,
+      "end": 280.7,
+      "en": "And as you said, that's our second key word today, manufacturer.",
+      "zh": "正如你所说，这是我们今天的第二个关键词，制造商。"
+    },
+    {
+      "id": 90,
+      "start": 281.0,
+      "end": 282.0,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 91,
+      "start": 282.0,
+      "end": 285.86,
+      "en": "Manufacturer, again, is a person or a company that makes a good.",
+      "zh": "同样，制造商是一个人或一个公司。"
+    },
+    {
+      "id": 92,
+      "start": 286.32,
+      "end": 289.72,
+      "en": "So for example, a television manufacturer makes TV.",
+      "zh": "因此，例如，电视制造商制造电视。"
+    },
+    {
+      "id": 93,
+      "start": 290.0,
+      "end": 290.66,
+      "en": "It's like a factory.",
+      "zh": "这就像一个工厂。"
+    },
+    {
+      "id": 94,
+      "start": 290.94,
+      "end": 291.3,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 95,
+      "start": 291.94,
+      "end": 293.52,
+      "en": "So they manufacture things.",
+      "zh": "所以他们制造东西。"
+    },
+    {
+      "id": 96,
+      "start": 293.72,
+      "end": 294.32,
+      "en": "They make them.",
+      "zh": "他们制造它们。"
+    },
+    {
+      "id": 97,
+      "start": 294.68,
+      "end": 295.68,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 98,
+      "start": 295.68,
+      "end": 297.8,
+      "en": "So we've got distributors who are moving goods.",
+      "zh": "所以我们有分销商正在搬运货物。"
+    },
+    {
+      "id": 99,
+      "start": 298.0,
+      "end": 300.76,
+      "en": "We have manufacturers who are making them.",
+      "zh": "我们有制造商正在制造它们。"
+    },
+    {
+      "id": 100,
+      "start": 300.78,
+      "end": 303.38,
+      "en": "But what happens when we want to move a good out of a country?",
+      "zh": "但是，当我们想将一个好人搬出一个国家时会发生什么？"
+    },
+    {
+      "id": 101,
+      "start": 303.8,
+      "end": 304.16,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 102,
+      "start": 304.18,
+      "end": 306.74,
+      "en": "So that is our third word for today.",
+      "zh": "所以这是我们今天的第三个词。"
+    },
+    {
+      "id": 103,
+      "start": 307.3,
+      "end": 312.58,
+      "en": "Usually in customs, we have to pay a tariff for these goods or a tax.",
+      "zh": "通常在海关，我们必须为这些商品或税收支付关税。"
+    },
+    {
+      "id": 104,
+      "start": 313.14,
+      "end": 313.4,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 105,
+      "start": 313.46,
+      "end": 322.22,
+      "en": "So a tariff is a special kind of tax that you pay when you are trying to export or send outside of your country goods that you've made in that country.",
+      "zh": "因此，关税是您在尝试出口或发送您在该国制造的商品之外的商品时支付的一种特殊税。"
+    },
+    {
+      "id": 106,
+      "start": 322.8,
+      "end": 330.6,
+      "en": "So for example, if I make 100 TVs in America, but I want to sell these TVs to someone in Mexico, I have to pay a tariff.",
+      "zh": "例如，如果我在美国制造 100 台电视，但我想将这些电视卖给墨西哥的某个人，我必须支付关税。"
+    },
+    {
+      "id": 107,
+      "start": 331.42,
+      "end": 338.24,
+      "en": "I have to pay like $10 to the government that allows me to send these out of the country.",
+      "zh": "我必须向政府支付 10 美元，这让我可以将这些送出国外。"
+    },
+    {
+      "id": 108,
+      "start": 338.46,
+      "end": 338.98,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 109,
+      "start": 339.52,
+      "end": 340.54,
+      "en": "So that is a tariff.",
+      "zh": "所以这是一个关税。"
+    },
+    {
+      "id": 110,
+      "start": 341.24,
+      "end": 353.12,
+      "en": "And now when he was talking about tariffs and how the government is reducing the tariffs in order to motivate a business, he talked about also that the government is reducing or cutting the red tape.",
+      "zh": "现在，当他谈论关税以及政府如何降低关税以激励企业时，他还谈到政府正在减少或减少繁文缛节。"
+    },
+    {
+      "id": 111,
+      "start": 353.52,
+      "end": 353.84,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 112,
+      "start": 353.94,
+      "end": 358.22,
+      "en": "So he says, listen, they've also reduced the red tape involved at customs.",
+      "zh": "所以他说，听着，他们还减少了海关所涉及的繁文缛节。"
+    },
+    {
+      "id": 113,
+      "start": 358.58,
+      "end": 369.12,
+      "en": "So this means that before they were encountering some problems at customs, because customs, you know, there's a lot of paperwork, there's a lot of taxes, there's a lot of information you have to provide.",
+      "zh": "所以这意味着在他们在海关遇到一些问题之前，因为海关，你知道，有很多文书工作，有很多税收，你必须提供很多信息。"
+    },
+    {
+      "id": 114,
+      "start": 369.44,
+      "end": 370.44,
+      "en": "It's a hassle.",
+      "zh": "这是一个麻烦。"
+    },
+    {
+      "id": 115,
+      "start": 371.12,
+      "end": 371.88,
+      "en": "A lot of paperwork.",
+      "zh": "很多文书工作。"
+    },
+    {
+      "id": 116,
+      "start": 372.28,
+      "end": 372.4,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 117,
+      "start": 372.62,
+      "end": 376.94,
+      "en": "So this kind of paperwork, bureaucracy, this is called red tape in English.",
+      "zh": "所以这种文书工作，官僚主义，这在英语中被称为繁文缛节。"
+    },
+    {
+      "id": 118,
+      "start": 377.64,
+      "end": 387.66,
+      "en": "For example, I would love to get a visa for my foreign husband, but there's a lot of red tape.",
+      "zh": "例如，我很想为我的外国丈夫获得签证，但有很多繁文缛节。"
+    },
+    {
+      "id": 119,
+      "start": 388.0,
+      "end": 389.54,
+      "en": "There's a lot of work that we have to do.",
+      "zh": "我们必须做很多工作。"
+    },
+    {
+      "id": 120,
+      "start": 389.56,
+      "end": 392.12,
+      "en": "There's a lot of bureaucratic processes that you have to do.",
+      "zh": "你必须做很多官僚程序。"
+    },
+    {
+      "id": 121,
+      "start": 392.38,
+      "end": 392.68,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 122,
+      "start": 393.32,
+      "end": 398.08,
+      "en": "So red tape, this means a lot of paperwork, a lot of work that you have to do.",
+      "zh": "所以繁文缛节，这意味着大量的文书工作，你必须做的很多工作。"
+    },
+    {
+      "id": 123,
+      "start": 398.08,
+      "end": 399.08,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 124,
+      "start": 399.08,
+      "end": 401.24,
+      "en": "So those are our key words that are related to business.",
+      "zh": "所以这些是我们与业务相关的关键词。"
+    },
+    {
+      "id": 125,
+      "start": 402.04,
+      "end": 404.72,
+      "en": "Now let's move on to a couple of different adjectives.",
+      "zh": "现在让我们继续讨论几个不同的形容词。"
+    },
+    {
+      "id": 126,
+      "start": 405.12,
+      "end": 408.36,
+      "en": "The first one, when he talked about chocolates, he said elegant.",
+      "zh": "第一个，当他谈到巧克力时，他说优雅。"
+    },
+    {
+      "id": 127,
+      "start": 408.84,
+      "end": 410.2,
+      "en": "He said that something is elegant.",
+      "zh": "他说有些东西很优雅。"
+    },
+    {
+      "id": 128,
+      "start": 410.94,
+      "end": 411.34,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 129,
+      "start": 411.66,
+      "end": 411.82,
+      "en": "Elegant.",
+      "zh": "优雅。"
+    },
+    {
+      "id": 130,
+      "start": 412.22,
+      "end": 413.08,
+      "en": "This is a great adjective.",
+      "zh": "这是一个很好的形容词。"
+    },
+    {
+      "id": 131,
+      "start": 413.5,
+      "end": 417.66,
+      "en": "You're going to see this on a lot of luxury brand items.",
+      "zh": "你会在很多奢侈品牌商品上看到这一点。"
+    },
+    {
+      "id": 132,
+      "start": 418.02,
+      "end": 423.12,
+      "en": "Elegance means something is elegant if it is classy, if it looks really good and rich.",
+      "zh": "优雅意味着如果它是优雅的，则它是优雅的，如果它看起来非常好和丰富。"
+    },
+    {
+      "id": 133,
+      "start": 423.14,
+      "end": 429.3,
+      "en": "Or you could say that dress is very elegant, that mink coat is very elegant.",
+      "zh": "或者你可以说那件衣服很优雅，那件水貂外套很优雅。"
+    },
+    {
+      "id": 134,
+      "start": 429.56,
+      "end": 429.76,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 135,
+      "start": 430.36,
+      "end": 431.4,
+      "en": "This is a positive thing.",
+      "zh": "这是一件积极的事情。"
+    },
+    {
+      "id": 136,
+      "start": 431.4,
+      "end": 434.42,
+      "en": "So something that looks kind of expensive at times as well.",
+      "zh": "所以有时看起来也有点贵的东西。"
+    },
+    {
+      "id": 137,
+      "start": 434.62,
+      "end": 435.2,
+      "en": "Yeah, that's right.",
+      "zh": "对，没错。"
+    },
+    {
+      "id": 138,
+      "start": 435.79,
+      "end": 440.29,
+      "en": "Another word that means looking expensive or elegant is luxurious.",
+      "zh": "另一个意味着看起来昂贵或优雅的词是豪华的。"
+    },
+    {
+      "id": 139,
+      "start": 441.13,
+      "end": 441.41,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 140,
+      "start": 441.45,
+      "end": 445.81,
+      "en": "So luxurious comes from the noun luxury.",
+      "zh": "如此奢华来自名词奢侈品。"
+    },
+    {
+      "id": 141,
+      "start": 446.23,
+      "end": 446.69,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 142,
+      "start": 446.69,
+      "end": 447.87,
+      "en": "Luxury, luxurious.",
+      "zh": "豪华，奢华。"
+    },
+    {
+      "id": 143,
+      "start": 448.91,
+      "end": 453.29,
+      "en": "So we can say that the executive suites at this hotel are very luxurious.",
+      "zh": "所以我们可以说这家酒店的行政套房非常豪华。"
+    },
+    {
+      "id": 144,
+      "start": 453.76,
+      "end": 458.37,
+      "en": "They have a jacuzzi, a king-size bed, expensive silk sheets.",
+      "zh": "他们有一个按摩浴缸，一张特大号床，昂贵的丝绸床单。"
+    },
+    {
+      "id": 145,
+      "start": 459.8,
+      "end": 461.04,
+      "en": "The best quality materials.",
+      "zh": "最优质的材料。"
+    },
+    {
+      "id": 146,
+      "start": 461.6,
+      "end": 465.12,
+      "en": "So you can say that elegant and luxurious kind of go hand in hand.",
+      "zh": "所以你可以说优雅和奢华的方式是齐头并进的。"
+    },
+    {
+      "id": 147,
+      "start": 465.48,
+      "end": 465.98,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 148,
+      "start": 466.56,
+      "end": 476.42,
+      "en": "Although elegant, you usually say about someone or their clothing or even a car, but luxurious is more like a place or an object.",
+      "zh": "虽然优雅，但你通常会说某人或他们的衣服甚至是一辆车，但豪华更像是一个地方或一个物体。"
+    },
+    {
+      "id": 149,
+      "start": 477.12,
+      "end": 477.6,
+      "en": "Okay, good.",
+      "zh": "好，很好。"
+    },
+    {
+      "id": 150,
+      "start": 478.24,
+      "end": 485.6,
+      "en": "And then we have one final word that also describes something that is very rare or very good and rich, a delicacy.",
+      "zh": "然后我们有一个最后一个词，它也描述了一些非常罕见或非常好的和丰富的东西，一种美味。"
+    },
+    {
+      "id": 151,
+      "start": 486.08,
+      "end": 488.0,
+      "en": "Yeah, actually this one is a noun, it's a thing.",
+      "zh": "是的，实际上这个是名词，它是一回事。"
+    },
+    {
+      "id": 152,
+      "start": 488.0,
+      "end": 493.76,
+      "en": "So we can say that this is a Scottish delicacy or what are the delicacies in your country?",
+      "zh": "所以我们可以说这是苏格兰美食还是贵国的美食是什么？"
+    },
+    {
+      "id": 153,
+      "start": 494.36,
+      "end": 496.88,
+      "en": "So delicacy is something that's special.",
+      "zh": "所以精致是特别的东西。"
+    },
+    {
+      "id": 154,
+      "start": 496.88,
+      "end": 497.14,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 155,
+      "start": 497.64,
+      "end": 503.19,
+      "en": "So for example, you've told me that in Ecuador, there are some interesting food delicacies.",
+      "zh": "例如，你告诉我在厄瓜多尔，有一些有趣的美食。"
+    },
+    {
+      "id": 156,
+      "start": 503.24,
+      "end": 504.24,
+      "en": "Delicacies?",
+      "zh": "美食？"
+    },
+    {
+      "id": 157,
+      "start": 504.24,
+      "end": 505.24,
+      "en": "Little animals.",
+      "zh": "小动物。"
+    },
+    {
+      "id": 158,
+      "start": 505.24,
+      "end": 505.41,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 159,
+      "start": 506.24,
+      "end": 506.55,
+      "en": "For example, guinea pigs.",
+      "zh": "例如，豚鼠。"
+    },
+    {
+      "id": 160,
+      "start": 507.24,
+      "end": 513.96,
+      "en": "So it's not really a delicacy, although kind of because guinea pigs are expensive comparatively to chickens, for example.",
+      "zh": "所以这并不是真正的美味，尽管这有点像豚鼠相对于鸡的价格相对昂贵。"
+    },
+    {
+      "id": 161,
+      "start": 513.96,
+      "end": 518.36,
+      "en": "So it is considered to be something that you only eat on special occasions.",
+      "zh": "所以它被认为是你只在特殊场合吃的东西。"
+    },
+    {
+      "id": 162,
+      "start": 518.39,
+      "end": 518.57,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 163,
+      "start": 519.36,
+      "end": 524.12,
+      "en": "And in East Asia, many people consider shark's fin soup to be a delicacy.",
+      "zh": "在东亚，许多人认为鲨鱼鳍汤是一种美味佳肴。"
+    },
+    {
+      "id": 164,
+      "start": 524.12,
+      "end": 525.12,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 165,
+      "start": 525.12,
+      "end": 526.64,
+      "en": "It's a special dish.",
+      "zh": "这是一道特别的菜。"
+    },
+    {
+      "id": 166,
+      "start": 526.64,
+      "end": 534.26,
+      "en": "So we can say that it's usually about food and it's rare, something that's rare or special or also can be very expensive.",
+      "zh": "所以我们可以说它通常是关于食物的，而且很罕见，一些稀有或特殊的东西，也可能非常昂贵。"
+    },
+    {
+      "id": 167,
+      "start": 535.0,
+      "end": 535.92,
+      "en": "That's right, a delicacy.",
+      "zh": "没错，是一种美味。"
+    },
+    {
+      "id": 168,
+      "start": 536.68,
+      "end": 537.68,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 169,
+      "start": 537.68,
+      "end": 539.92,
+      "en": "So a lot of great interesting words on language takeaway.",
+      "zh": "所以很多关于语言外卖的有趣词。"
+    },
+    {
+      "id": 170,
+      "start": 540.12,
+      "end": 544.68,
+      "en": "Why don't we move on now to fluency builder?",
+      "zh": "为什么我们现在不转向 Fluency Builder？"
+    },
+    {
+      "id": 171,
+      "start": 544.68,
+      "end": 544.99,
+      "en": "Fluency builder.",
+      "zh": "流利表达。"
+    },
+    {
+      "id": 172,
+      "start": 545.96,
+      "end": 550.9,
+      "en": "This first phrase is actually something I try to do as often as possible, but it's usually very difficult.",
+      "zh": "第一个短语实际上是我尽可能多地尝试做的事情，但这通常非常困难。"
+    },
+    {
+      "id": 173,
+      "start": 551.38,
+      "end": 553.26,
+      "en": "I combine business with pleasure.",
+      "zh": "我将商务与快乐相结合。"
+    },
+    {
+      "id": 174,
+      "start": 553.54,
+      "end": 553.8,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 175,
+      "start": 554.04,
+      "end": 555.66,
+      "en": "To combine business with pleasure.",
+      "zh": "将商务与乐趣结合起来。"
+    },
+    {
+      "id": 176,
+      "start": 556.18,
+      "end": 565.12,
+      "en": "Now this is a whole phrase and this talks about doing business, but at the same time, doing it in a fun way or an interesting way.",
+      "zh": "现在这是一个完整的短语，这是关于做生意的，但同时，以有趣或有趣的方式做这件事。"
+    },
+    {
+      "id": 177,
+      "start": 565.36,
+      "end": 565.62,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 178,
+      "start": 566.44,
+      "end": 570.56,
+      "en": "And pleasure here means something that is fun or entertainment even.",
+      "zh": "这里的快乐意味着有趣或娱乐的东西。"
+    },
+    {
+      "id": 179,
+      "start": 570.56,
+      "end": 576.29,
+      "en": "So for example, going out to dinner with your company is a way to combine business with pleasure.",
+      "zh": "因此，例如，与您的公司共进晚餐是将商业与乐趣结合起来的一种方式。"
+    },
+    {
+      "id": 180,
+      "start": 577.08,
+      "end": 578.12,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 181,
+      "start": 578.12,
+      "end": 584.04,
+      "en": "Or meeting a client at a bar is combining business with pleasure.",
+      "zh": "或者在酒吧与客户会面是将商业与乐趣相结合。"
+    },
+    {
+      "id": 182,
+      "start": 584.04,
+      "end": 587.25,
+      "en": "So you're combining things that are fun and things that are work related.",
+      "zh": "因此，您将有趣的事物和与工作相关的事物结合起来。"
+    },
+    {
+      "id": 183,
+      "start": 587.28,
+      "end": 588.28,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 184,
+      "start": 588.28,
+      "end": 600.41,
+      "en": "Because you can have a business meeting in a boardroom or in a business or in a meeting room, but if you have the same business meeting at a bar where you're talking and laughing, but also at the same time talking business, then you're combining business with pleasure.",
+      "zh": "因为您可以在会议室、企业或会议室举行商务会议，但如果您在聊天和大笑的酒吧举行相同的商务会议，但同时也可以在谈业务时进行商务会议，那么您将业务与乐趣相结合。"
+    },
+    {
+      "id": 185,
+      "start": 600.96,
+      "end": 601.15,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 186,
+      "start": 601.96,
+      "end": 605.03,
+      "en": "And now for our second phrase, it's more about cheating, right?",
+      "zh": "现在我们的第二个短语，更多的是作弊，对吧？"
+    },
+    {
+      "id": 187,
+      "start": 605.84,
+      "end": 608.97,
+      "en": "Somebody that is cheating or maybe not doing things correctly.",
+      "zh": "作弊的人，或者可能没有正确地做事。"
+    },
+    {
+      "id": 188,
+      "start": 609.84,
+      "end": 610.95,
+      "en": "They are cutting corners.",
+      "zh": "他们正在偷工减料。"
+    },
+    {
+      "id": 189,
+      "start": 611.56,
+      "end": 611.69,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 190,
+      "start": 612.56,
+      "end": 614.59,
+      "en": "So cutting corners is another way to say cheating.",
+      "zh": "所以偷工减料是说作弊的另一种方式。"
+    },
+    {
+      "id": 191,
+      "start": 615.8,
+      "end": 621.17,
+      "en": "For example, I've seen people, students cutting corners with their studies.",
+      "zh": "例如，我见过人们，学生在学习中偷工减料。"
+    },
+    {
+      "id": 192,
+      "start": 622.32,
+      "end": 625.33,
+      "en": "You think about cutting corners, it means that you're not going the long way.",
+      "zh": "你考虑偷工减料，这意味着你不会走太远。"
+    },
+    {
+      "id": 193,
+      "start": 625.56,
+      "end": 628.52,
+      "en": "You're cutting, you're cheating by going the shorter way.",
+      "zh": "你在削减，你通过更短的方式来作弊。"
+    },
+    {
+      "id": 194,
+      "start": 628.52,
+      "end": 629.05,
+      "en": "You're taking a shortcut.",
+      "zh": "你走捷径。"
+    },
+    {
+      "id": 195,
+      "start": 629.52,
+      "end": 630.52,
+      "en": "Taking a shortcut.",
+      "zh": "走捷径。"
+    },
+    {
+      "id": 196,
+      "start": 630.52,
+      "end": 637.69,
+      "en": "So for example, instead of studying for that final test in math, some people write the formulas on their hands.",
+      "zh": "因此，例如，有些人没有在数学中学习最后的测试，而是在他们手上写下公式。"
+    },
+    {
+      "id": 197,
+      "start": 638.4,
+      "end": 639.55,
+      "en": "This is a way to cut corners.",
+      "zh": "这是一种切割角落的方式。"
+    },
+    {
+      "id": 198,
+      "start": 639.96,
+      "end": 643.75,
+      "en": "Instead of studying, you actually cheat by putting it on your hand, making it easier.",
+      "zh": "而不是学习，你实际上是把它放在手上作弊，让它更容易。"
+    },
+    {
+      "id": 199,
+      "start": 644.38,
+      "end": 649.8,
+      "en": "So to cut corners is to cheat or to try to take the shortcut, but it kind of has a negative connotation, right?",
+      "zh": "所以偷工减料就是作弊还是试图走捷径，但它有一种负面的含义，对吧？"
+    },
+    {
+      "id": 200,
+      "start": 649.92,
+      "end": 650.24,
+      "en": "Oh, definitely.",
+      "zh": "哦，当然。"
+    },
+    {
+      "id": 201,
+      "start": 650.64,
+      "end": 653.18,
+      "en": "So most people will say, don't cut corners.",
+      "zh": "所以大多数人会说，不要偷工减料。"
+    },
+    {
+      "id": 202,
+      "start": 653.42,
+      "end": 654.76,
+      "en": "In the end, it's not worth it.",
+      "zh": "最后，这不值得。"
+    },
+    {
+      "id": 203,
+      "start": 655.4,
+      "end": 656.4,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 204,
+      "start": 656.4,
+      "end": 658.8,
+      "en": "And for our final phrase, we have one that it's in French.",
+      "zh": "对于我们的最后一句话，我们有一个是法语。"
+    },
+    {
+      "id": 205,
+      "start": 659.74,
+      "end": 663.32,
+      "en": "So this one is in French, but it's also a very common English phrase.",
+      "zh": "所以这个是法语，但它也是一个非常常见的英语短语。"
+    },
+    {
+      "id": 206,
+      "start": 663.46,
+      "end": 664.9,
+      "en": "That's why we're going to teach it to you.",
+      "zh": "这就是为什么我们要教给你的。"
+    },
+    {
+      "id": 207,
+      "start": 665.24,
+      "end": 667.08,
+      "en": "The creme de la creme.",
+      "zh": "奶油色。"
+    },
+    {
+      "id": 208,
+      "start": 667.08,
+      "end": 668.08,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 209,
+      "start": 668.08,
+      "end": 672.38,
+      "en": "So literally, in translated from French, that means the cream of the cream.",
+      "zh": "从字面上看，用法语翻译，这意味着奶油的奶油。"
+    },
+    {
+      "id": 210,
+      "start": 672.72,
+      "end": 673.72,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 211,
+      "start": 673.72,
+      "end": 676.12,
+      "en": "In English, we would say that it's the best of the best.",
+      "zh": "在英语中，我们会说它是最好的。"
+    },
+    {
+      "id": 212,
+      "start": 676.32,
+      "end": 676.85,
+      "en": "The best of the best.",
+      "zh": "最好的。"
+    },
+    {
+      "id": 213,
+      "start": 677.32,
+      "end": 677.73,
+      "en": "The very top.",
+      "zh": "最顶层。"
+    },
+    {
+      "id": 214,
+      "start": 679.0,
+      "end": 679.85,
+      "en": "So that's what this phrase means.",
+      "zh": "这就是这句话的意思。"
+    },
+    {
+      "id": 215,
+      "start": 680.12,
+      "end": 681.23,
+      "en": "The best of the best.",
+      "zh": "最好的。"
+    },
+    {
+      "id": 216,
+      "start": 681.43,
+      "end": 682.01,
+      "en": "The very top.",
+      "zh": "最顶层。"
+    },
+    {
+      "id": 217,
+      "start": 682.01,
+      "end": 683.89,
+      "en": "The most excellent.",
+      "zh": "最优秀的。"
+    },
+    {
+      "id": 218,
+      "start": 684.49,
+      "end": 690.61,
+      "en": "So you could say, Harvard University attracts the creme de la creme of American high school students.",
+      "zh": "所以你可以说，哈佛大学吸引了美国高中生的奶油色。"
+    },
+    {
+      "id": 219,
+      "start": 691.64,
+      "end": 692.64,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 220,
+      "start": 692.64,
+      "end": 694.0,
+      "en": "So the very best of American high school students.",
+      "zh": "所以美国最好的高中生。"
+    },
+    {
+      "id": 221,
+      "start": 694.17,
+      "end": 694.57,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 222,
+      "start": 695.0,
+      "end": 698.88,
+      "en": "So that phrase, it's in French, but you can say it in English, right?",
+      "zh": "所以这句话，是法语，但你可以用英语说，对吧？"
+    },
+    {
+      "id": 223,
+      "start": 698.88,
+      "end": 700.56,
+      "en": "Like fiance, for example.",
+      "zh": "比如，未婚夫。"
+    },
+    {
+      "id": 224,
+      "start": 700.56,
+      "end": 701.56,
+      "en": "Fiance.",
+      "zh": "未婚夫。"
+    },
+    {
+      "id": 225,
+      "start": 701.56,
+      "end": 701.99,
+      "en": "Creme de la creme.",
+      "zh": "奶油色。"
+    },
+    {
+      "id": 226,
+      "start": 702.56,
+      "end": 705.64,
+      "en": "So those are the words that we've stolen from French and we use in English.",
+      "zh": "所以这些是我们从法语中窃取的单词，我们用英语使用。"
+    },
+    {
+      "id": 227,
+      "start": 705.64,
+      "end": 707.55,
+      "en": "So don't worry about how you pronounce it in English.",
+      "zh": "所以不要担心你如何用英语发音。"
+    },
+    {
+      "id": 228,
+      "start": 707.59,
+      "end": 709.23,
+      "en": "We just say creme de la creme.",
+      "zh": "我们只是说奶油色。"
+    },
+    {
+      "id": 229,
+      "start": 709.29,
+      "end": 709.71,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 230,
+      "start": 709.79,
+      "end": 714.55,
+      "en": "So why don't we listen to this dialogue for the last time, and we'll be back in just a bit.",
+      "zh": "那么我们为什么不最后一次听这个对话，我们会回来的。"
+    },
+    {
+      "id": 231,
+      "start": 721.56,
+      "end": 724.76,
+      "en": "I'm glad you could find time to meet with me, Mr. Johnson.",
+      "zh": "我很高兴你能抽出时间与我见面，约翰逊先生。"
+    },
+    {
+      "id": 232,
+      "start": 724.82,
+      "end": 727.56,
+      "en": "I can't think of a nicer environment for our meeting today.",
+      "zh": "今天谈生意，真找不到比这里更好的环境了。"
+    },
+    {
+      "id": 233,
+      "start": 727.82,
+      "end": 728.9,
+      "en": "The ambience here is lovely.",
+      "zh": "这里的氛围很可爱。"
+    },
+    {
+      "id": 234,
+      "start": 729.58,
+      "end": 730.24,
+      "en": "No problem.",
+      "zh": "没问题。"
+    },
+    {
+      "id": 235,
+      "start": 730.9,
+      "end": 733.46,
+      "en": "If possible, I always combine business with pleasure.",
+      "zh": "如果可能的话，我总是将商业与快乐相结合。"
+    },
+    {
+      "id": 236,
+      "start": 734.28,
+      "end": 736.34,
+      "en": "Now let's hear more about these chocolates you're offering.",
+      "zh": "现在让我们更多地了解您提供的这些巧克力。"
+    },
+    {
+      "id": 237,
+      "start": 737.04,
+      "end": 744.04,
+      "en": "Well, as you know, I have recently become the sole distributor for Granger's Gourmet Bonbons here in the United States.",
+      "zh": "好吧，如您所知，我最近成为美国格兰杰美食美食的唯一经销商。"
+    },
+    {
+      "id": 238,
+      "start": 744.58,
+      "end": 748.54,
+      "en": "They're a new manufacturer and are looking to break into the luxury market.",
+      "zh": "他们是一家新制造商，正在寻求打入奢侈品市场。"
+    },
+    {
+      "id": 239,
+      "start": 749.16,
+      "end": 751.72,
+      "en": "Naturally, your restaurant sprang into my mind immediately.",
+      "zh": "自然地，你的餐厅立刻浮现在我的脑海里。"
+    },
+    {
+      "id": 240,
+      "start": 752.48,
+      "end": 763.68,
+      "en": "I think your brand exemplifies many of the same traits as Granger's, and serving these chocolates would really add to your reputation for providing elegant, luxurious, first-class dining.",
+      "zh": "我认为您的品牌体现了与 Granger 相同的许多特征，提供这些巧克力确实会增加您提供优雅、奢华的一流餐饮的声誉。"
+    },
+    {
+      "id": 241,
+      "start": 764.62,
+      "end": 766.14,
+      "en": "Hmm, sounds interesting.",
+      "zh": "嗯，听起来很有趣。"
+    },
+    {
+      "id": 242,
+      "start": 766.72,
+      "end": 767.4,
+      "en": "Gourmet chocolates.",
+      "zh": "美食巧克力。"
+    },
+    {
+      "id": 243,
+      "start": 768.32,
+      "end": 768.85,
+      "en": "Where are they produced?",
+      "zh": "它们在哪里生产？"
+    },
+    {
+      "id": 244,
+      "start": 769.32,
+      "end": 770.32,
+      "en": "Belgium?",
+      "zh": "比利时？"
+    },
+    {
+      "id": 245,
+      "start": 770.32,
+      "end": 772.59,
+      "en": "Actually, the factory is located in Scotland.",
+      "zh": "实际上，工厂位于苏格兰。"
+    },
+    {
+      "id": 246,
+      "start": 773.25,
+      "end": 773.69,
+      "en": "Really?",
+      "zh": "真的吗？"
+    },
+    {
+      "id": 247,
+      "start": 774.25,
+      "end": 777.19,
+      "en": "I didn't think they were known for their luxury chocolate production.",
+      "zh": "我不认为他们以奢华巧克力生产而闻名。"
+    },
+    {
+      "id": 248,
+      "start": 777.65,
+      "end": 780.87,
+      "en": "That's what makes this such a fantastic opportunity.",
+      "zh": "这就是使这成为一个绝佳机会的原因。"
+    },
+    {
+      "id": 249,
+      "start": 781.54,
+      "end": 791.39,
+      "en": "The government is 100% supportive of creating new export markets and has guaranteed a low tariff for all wholesale orders of over 1,000 units.",
+      "zh": "政府全力支持开拓新的出口市场，并保证超过一千件的批发订单都能享受低关税。"
+    },
+    {
+      "id": 250,
+      "start": 792.24,
+      "end": 794.95,
+      "en": "They've also reduced the red tape involved at customs as well.",
+      "zh": "他们还减少了海关所涉及的繁文缛节。"
+    },
+    {
+      "id": 251,
+      "start": 795.59,
+      "end": 797.54,
+      "en": "Here, I brought these especially for you.",
+      "zh": "在这里，我特别为您带来了这些。"
+    },
+    {
+      "id": 252,
+      "start": 797.86,
+      "end": 798.26,
+      "en": "Try one.",
+      "zh": "试一试。"
+    },
+    {
+      "id": 253,
+      "start": 798.84,
+      "end": 799.54,
+      "en": "Oh, thanks.",
+      "zh": "哦，谢谢。"
+    },
+    {
+      "id": 254,
+      "start": 800.0,
+      "end": 801.0,
+      "en": "Hmm, hmm.",
+      "zh": "嗯嗯嗯。"
+    },
+    {
+      "id": 255,
+      "start": 802.98,
+      "end": 803.54,
+      "en": "Creamy texture.",
+      "zh": "奶油质地。"
+    },
+    {
+      "id": 256,
+      "start": 804.46,
+      "end": 805.22,
+      "en": "Very smooth.",
+      "zh": "非常顺畅。"
+    },
+    {
+      "id": 257,
+      "start": 805.64,
+      "end": 806.66,
+      "en": "Unique, aren't they?",
+      "zh": "独特的，不是吗？"
+    },
+    {
+      "id": 258,
+      "start": 806.96,
+      "end": 809.08,
+      "en": "I bet you've never tasted anything like it.",
+      "zh": "我敢打赌你从来没有尝过类似的东西。"
+    },
+    {
+      "id": 259,
+      "start": 809.56,
+      "end": 815.56,
+      "en": "Quality is assured as I personally visit the factory to make sure no one's cutting corners with the ingredients.",
+      "zh": "质量是有保证的，因为我亲自参观了工厂，以确保没有人在食材上偷工减料。"
+    },
+    {
+      "id": 260,
+      "start": 815.56,
+      "end": 817.7,
+      "en": "Only the creme de la creme make it through inspection.",
+      "zh": "只有最上乘的产品才能通过检验。"
+    },
+    {
+      "id": 261,
+      "start": 818.4,
+      "end": 819.92,
+      "en": "Yes, very interesting flavors.",
+      "zh": "是的，非常有趣的口味。"
+    },
+    {
+      "id": 262,
+      "start": 820.92,
+      "end": 821.4,
+      "en": "Slightly spicy.",
+      "zh": "有点辣。"
+    },
+    {
+      "id": 263,
+      "start": 822.28,
+      "end": 824.12,
+      "en": "Hmm, very unique, that's for sure.",
+      "zh": "嗯，非常独特，这是肯定的。"
+    },
+    {
+      "id": 264,
+      "start": 825.04,
+      "end": 826.2,
+      "en": "Exactly what are the ingredients?",
+      "zh": "具体是什么成分？"
+    },
+    {
+      "id": 265,
+      "start": 826.88,
+      "end": 834.24,
+      "en": "I have it on highest authority that this traditional secret recipe has been handed down in the Granger family for generations.",
+      "zh": "我从最可靠的渠道得知，这份传统秘方在格兰杰家族已经传承了好几代。"
+    },
+    {
+      "id": 266,
+      "start": 835.14,
+      "end": 836.42,
+      "en": "I'm sure you can keep a secret.",
+      "zh": "我相信你可以保守秘密。"
+    },
+    {
+      "id": 267,
+      "start": 838.2,
+      "end": 844.48,
+      "en": "Buttermilk, cacao beans, sugar, and haggis.",
+      "zh": "酪乳、可可豆、糖和羊杂碎。"
+    },
+    {
+      "id": 268,
+      "start": 844.48,
+      "end": 846.0,
+      "en": "Haggis.",
+      "zh": "哈吉斯，苏格兰羊杂肚。"
+    },
+    {
+      "id": 269,
+      "start": 846.0,
+      "end": 847.52,
+      "en": "What's haggis?",
+      "zh": "什么是哈吉斯？"
+    },
+    {
+      "id": 270,
+      "start": 847.52,
+      "end": 849.36,
+      "en": "It's a traditional Scottish delicacy.",
+      "zh": "这是一种传统的苏格兰美食。"
+    },
+    {
+      "id": 271,
+      "start": 849.92,
+      "end": 854.3,
+      "en": "You take sheep's liver, heart, and lung and stuff it inside the sheep's stomach.",
+      "zh": "你拿羊的肝脏、心脏和肺，把它塞进羊的胃里。"
+    },
+    {
+      "id": 272,
+      "start": 858.99,
+      "end": 860.59,
+      "en": "I'll get back to you.",
+      "zh": "我会回复你的。"
+    },
+    {
+      "id": 273,
+      "start": 860.75,
+      "end": 861.27,
+      "en": "Mr. Johnson?",
+      "zh": "约翰逊先生？"
+    },
+    {
+      "id": 274,
+      "start": 861.89,
+      "end": 862.37,
+      "en": "Mr. Johnson?",
+      "zh": "约翰逊先生？"
+    },
+    {
+      "id": 275,
+      "start": 866.66,
+      "end": 867.62,
+      "en": "All right, we're back.",
+      "zh": "好了，我们回来了。"
+    },
+    {
+      "id": 276,
+      "start": 867.84,
+      "end": 870.2,
+      "en": "So now this Scottish delicacy.",
+      "zh": "所以现在这个苏格兰美食。"
+    },
+    {
+      "id": 277,
+      "start": 870.2,
+      "end": 871.2,
+      "en": "What is this haggis?",
+      "zh": "这是什么哈吉斯？"
+    },
+    {
+      "id": 278,
+      "start": 871.2,
+      "end": 871.32,
+      "en": "Haggis.",
+      "zh": "哈吉斯，苏格兰羊杂肚。"
+    },
+    {
+      "id": 279,
+      "start": 872.2,
+      "end": 872.38,
+      "en": "Haggis.",
+      "zh": "哈吉斯，苏格兰羊杂肚。"
+    },
+    {
+      "id": 280,
+      "start": 873.58,
+      "end": 876.48,
+      "en": "Okay, haggis, I've never actually eaten it.",
+      "zh": "好吧，哈吉斯，我从来没有真正吃过它。"
+    },
+    {
+      "id": 281,
+      "start": 876.54,
+      "end": 877.88,
+      "en": "It does sound pretty disgusting.",
+      "zh": "听起来确实很恶心。"
+    },
+    {
+      "id": 282,
+      "start": 878.84,
+      "end": 885.24,
+      "en": "It's a Scottish delicacy that I think involves stuffing like what?",
+      "zh": "这是一种苏格兰美食，我认为它涉及填充物之类的东西？"
+    },
+    {
+      "id": 283,
+      "start": 885.4,
+      "end": 885.76,
+      "en": "What do we hear?",
+      "zh": "我们听到了什么？"
+    },
+    {
+      "id": 284,
+      "start": 885.94,
+      "end": 886.36,
+      "en": "Pig liver?",
+      "zh": "猪肝？"
+    },
+    {
+      "id": 285,
+      "start": 886.68,
+      "end": 887.58,
+      "en": "Let's see this again.",
+      "zh": "让我们再看一遍。"
+    },
+    {
+      "id": 286,
+      "start": 888.0,
+      "end": 895.26,
+      "en": "So basically you take a sheep's liver, a heart, and a lung, and you put it inside the sheep's stomach and you serve that.",
+      "zh": "所以基本上你把羊的肝脏、心脏和肺都拿走，然后把它放在羊的胃里，你就上当了。"
+    },
+    {
+      "id": 287,
+      "start": 895.56,
+      "end": 896.26,
+      "en": "And you cook it.",
+      "zh": "你煮它。"
+    },
+    {
+      "id": 288,
+      "start": 896.56,
+      "end": 897.16,
+      "en": "Yeah, you cook it like that.",
+      "zh": "是的，你就是这样煮的。"
+    },
+    {
+      "id": 289,
+      "start": 897.56,
+      "end": 898.56,
+      "en": "You cook it.",
+      "zh": "你煮它。"
+    },
+    {
+      "id": 290,
+      "start": 898.56,
+      "end": 901.28,
+      "en": "And so it's like all the insides of a sheep.",
+      "zh": "所以它就像一只羊的所有内部。"
+    },
+    {
+      "id": 291,
+      "start": 902.2,
+      "end": 903.2,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 292,
+      "start": 903.2,
+      "end": 907.92,
+      "en": "It kind of sounds disgusting, but I'm pretty sure it tastes pretty good.",
+      "zh": "这听起来有点恶心，但我很确定它的味道很好。"
+    },
+    {
+      "id": 293,
+      "start": 908.04,
+      "end": 909.04,
+      "en": "It probably tastes good.",
+      "zh": "可能味道不错。"
+    },
+    {
+      "id": 294,
+      "start": 909.04,
+      "end": 911.04,
+      "en": "Because it's a Scottish delicacy, so eh.",
+      "zh": "因为它是苏格兰美食，所以嗯。"
+    },
+    {
+      "id": 295,
+      "start": 911.04,
+      "end": 911.89,
+      "en": "Yeah, I don't know.",
+      "zh": "是的，我不知道。"
+    },
+    {
+      "id": 296,
+      "start": 912.52,
+      "end": 915.41,
+      "en": "Although I cannot imagine eating it in a chocolate.",
+      "zh": "虽然我无法想象在巧克力中吃它。"
+    },
+    {
+      "id": 297,
+      "start": 916.04,
+      "end": 916.77,
+      "en": "This is disgusting.",
+      "zh": "这很恶心。"
+    },
+    {
+      "id": 298,
+      "start": 917.15,
+      "end": 930.79,
+      "en": "I've heard of countries where they take a chicken, they stuff it with something, like they have a stuffing, and then they put the chicken inside a goat, and then the goat inside a bigger animal, and then they cook all that together.",
+      "zh": "我听说过他们吃鸡肉的国家，他们把它塞进去，就像他们有馅料一样，然后他们把鸡肉放在山羊里，然后把山羊放在一个更大的动物里面，然后他们一起煮。"
+    },
+    {
+      "id": 299,
+      "start": 931.05,
+      "end": 931.45,
+      "en": "Oh, wow.",
+      "zh": "哦，哇。"
+    },
+    {
+      "id": 300,
+      "start": 931.96,
+      "end": 941.15,
+      "en": "And then you have this amazing, obviously it's huge, they use these big brick ovens to cook them, but you have this platter with three different types of meats.",
+      "zh": "然后你有这个惊人的，显然它很大，他们用这些大砖烤箱来煮它们，但是你有这个拼盘和三种不同类型的肉。"
+    },
+    {
+      "id": 301,
+      "start": 941.43,
+      "end": 941.69,
+      "en": "Oh, wow.",
+      "zh": "哦，哇。"
+    },
+    {
+      "id": 302,
+      "start": 941.79,
+      "end": 942.57,
+      "en": "We have that in America.",
+      "zh": "我们在美国有。"
+    },
+    {
+      "id": 303,
+      "start": 943.01,
+      "end": 943.23,
+      "en": "Really?",
+      "zh": "真的吗？"
+    },
+    {
+      "id": 304,
+      "start": 944.4,
+      "end": 945.4,
+      "en": "It's called a turducken.",
+      "zh": "它被称为土鸭。"
+    },
+    {
+      "id": 305,
+      "start": 945.4,
+      "end": 946.4,
+      "en": "Turducken.",
+      "zh": "土耳其人。"
+    },
+    {
+      "id": 306,
+      "start": 946.4,
+      "end": 948.09,
+      "en": "Turkey, ducken, turkey, duck, and chicken.",
+      "zh": "火鸡、鸭子、火鸡、鸭子和鸡肉。"
+    },
+    {
+      "id": 307,
+      "start": 948.8,
+      "end": 953.2,
+      "en": "So you have a chicken inside of a duck, which you put inside of a turkey.",
+      "zh": "所以你在鸭子里有一只鸡，你把它放在火鸡里。"
+    },
+    {
+      "id": 308,
+      "start": 953.2,
+      "end": 954.2,
+      "en": "Turkey, wow.",
+      "zh": "土耳其，哇。"
+    },
+    {
+      "id": 309,
+      "start": 954.2,
+      "end": 955.2,
+      "en": "And you bake it.",
+      "zh": "你烤它。"
+    },
+    {
+      "id": 310,
+      "start": 955.2,
+      "end": 956.07,
+      "en": "Wow, how does it taste?",
+      "zh": "哇，味道怎么样？"
+    },
+    {
+      "id": 311,
+      "start": 956.35,
+      "end": 956.51,
+      "en": "Delicious.",
+      "zh": "美味的。"
+    },
+    {
+      "id": 312,
+      "start": 957.2,
+      "end": 958.2,
+      "en": "It's a very special taste.",
+      "zh": "这是一种非常特别的味道。"
+    },
+    {
+      "id": 313,
+      "start": 958.2,
+      "end": 959.2,
+      "en": "See?",
+      "zh": "看到了吧？"
+    },
+    {
+      "id": 314,
+      "start": 959.2,
+      "end": 960.2,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 315,
+      "start": 960.2,
+      "end": 965.44,
+      "en": "So if you want to know what your national delicacy is, do you have a delicacy in your home country?",
+      "zh": "所以如果你想知道你的民族美食是什么，你在你的祖国有美味吗？"
+    },
+    {
+      "id": 316,
+      "start": 965.44,
+      "end": 967.16,
+      "en": "Let us know on EnglishPod.com.",
+      "zh": "在 Englishpod.com 上告诉我们。"
+    },
+    {
+      "id": 317,
+      "start": 967.16,
+      "end": 973.39,
+      "en": "We're always curious to talk about food, but we would love to have you practicing on the website and asking any questions that you may have.",
+      "zh": "我们总是很想谈论食物，但我们很乐意让您在网站上练习并提出您可能遇到的任何问题。"
+    },
+    {
+      "id": 318,
+      "start": 973.53,
+      "end": 973.87,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 319,
+      "start": 974.05,
+      "end": 974.87,
+      "en": "So we'll see everyone there.",
+      "zh": "所以我们会在那里见到每个人。"
+    },
+    {
+      "id": 320,
+      "start": 975.17,
+      "end": 975.89,
+      "en": "Until next time.",
+      "zh": "下次再见。"
+    },
+    {
+      "id": 321,
+      "start": 976.31,
+      "end": 976.45,
+      "en": "Bye.",
+      "zh": "再见。"
+    },
+    {
+      "id": 322,
+      "start": 977.72,
+      "end": 984.111,
+      "en": "Bye.",
+      "zh": "再见。"
+    }
+  ],
+  "dialog": {
+    "start": 49.82,
+    "end": 190.82,
+    "segmentIds": [
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63
+    ]
+  }
+}

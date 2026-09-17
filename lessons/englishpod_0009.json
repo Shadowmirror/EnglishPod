@@ -1,0 +1,1664 @@
+{
+  "version": 1,
+  "id": 9,
+  "number": "0009",
+  "title": "The Weekend - Silence please!",
+  "audio": "mp3/9. The Weekend - Silence please!.mp3",
+  "duration": 700.8914375,
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.9,
+      "end": 4.96,
+      "en": "Hello English learners and welcome to EnglishPod.",
+      "zh": "各位英语学习者，大家好，欢迎来到 EnglishPod。"
+    },
+    {
+      "id": 2,
+      "start": 5.24,
+      "end": 5.88,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 6.26,
+      "end": 6.78,
+      "en": "And I'm Erica.",
+      "zh": "我叫 Erica。"
+    },
+    {
+      "id": 4,
+      "start": 7.38,
+      "end": 9.44,
+      "en": "Erica, today we are really excited, right?",
+      "zh": "埃里卡，今天我们真的很兴奋，对吧？"
+    },
+    {
+      "id": 5,
+      "start": 9.7,
+      "end": 13.66,
+      "en": "Yeah, we've got a great lesson today, all about real English.",
+      "zh": "是的，我们今天有一个很棒的教训，都是关于真正的英语。"
+    },
+    {
+      "id": 6,
+      "start": 14.02,
+      "end": 17.0,
+      "en": "Exactly, English that you hear in movies and TV shows.",
+      "zh": "没错，你在电影和电视节目中听到的英语。"
+    },
+    {
+      "id": 7,
+      "start": 17.36,
+      "end": 23.04,
+      "en": "Yeah, speaking of movies, today's podcast takes place at the movies.",
+      "zh": "是的，说到电影，今天的播客发生在电影中。"
+    },
+    {
+      "id": 8,
+      "start": 23.04,
+      "end": 24.81,
+      "en": "Exactly, and that's why it's so fun today.",
+      "zh": "没错，这就是为什么它今天如此有趣。"
+    },
+    {
+      "id": 9,
+      "start": 25.44,
+      "end": 26.44,
+      "en": "Uh-huh.",
+      "zh": "嗯。"
+    },
+    {
+      "id": 10,
+      "start": 26.44,
+      "end": 33.32,
+      "en": "And so before we listen to our dialogue, let's take a look at our vocabulary preview.",
+      "zh": "所以在我们听我们的对话之前，让我们来看看我们的词汇预览。"
+    },
+    {
+      "id": 11,
+      "start": 33.32,
+      "end": 34.96,
+      "en": "Vocabulary preview.",
+      "zh": "词汇预习。"
+    },
+    {
+      "id": 12,
+      "start": 34.96,
+      "end": 38.22,
+      "en": "In today's vocabulary preview, we have two words.",
+      "zh": "在今天的词汇预览中，我们有两个词。"
+    },
+    {
+      "id": 13,
+      "start": 38.92,
+      "end": 41.2,
+      "en": "And the first word is inconsiderate.",
+      "zh": "第一个词是不体贴的。"
+    },
+    {
+      "id": 14,
+      "start": 41.2,
+      "end": 41.44,
+      "en": "Inconsiderate.",
+      "zh": "不体谅人的。"
+    },
+    {
+      "id": 15,
+      "start": 42.2,
+      "end": 43.2,
+      "en": "Inconsiderate.",
+      "zh": "不体谅人的。"
+    },
+    {
+      "id": 16,
+      "start": 44.3,
+      "end": 47.32,
+      "en": "So, Erica, what is it when someone is inconsiderate?",
+      "zh": "那么，埃里卡，当一个人不体贴时是什么？"
+    },
+    {
+      "id": 17,
+      "start": 47.56,
+      "end": 52.94,
+      "en": "If someone's inconsiderate, they're not thinking about the feelings of other people.",
+      "zh": "如果某人不体谅，他们不会考虑其他人的感受。"
+    },
+    {
+      "id": 18,
+      "start": 53.2,
+      "end": 54.2,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 19,
+      "start": 54.2,
+      "end": 56.78,
+      "en": "For example, yesterday, I was on the subway and it was full.",
+      "zh": "例如，昨天，我在地铁上，它已经满了。"
+    },
+    {
+      "id": 20,
+      "start": 57.24,
+      "end": 58.24,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 21,
+      "start": 58.24,
+      "end": 62.15,
+      "en": "And an old lady was standing there and no one got up to give her their seat.",
+      "zh": "一位老太太站在那里，没有人起身让她坐下。"
+    },
+    {
+      "id": 22,
+      "start": 62.8,
+      "end": 64.0,
+      "en": "That was pretty inconsiderate.",
+      "zh": "那是相当不体贴的。"
+    },
+    {
+      "id": 23,
+      "start": 64.41,
+      "end": 64.53,
+      "en": "Great.",
+      "zh": "太好了。"
+    },
+    {
+      "id": 24,
+      "start": 64.71,
+      "end": 68.67,
+      "en": "So now let's take a look at our second word and it's keep it down.",
+      "zh": "所以现在让我们来看看我们的第二个词，它把它记下来了。"
+    },
+    {
+      "id": 25,
+      "start": 69.01,
+      "end": 69.79,
+      "en": "Keep it down.",
+      "zh": "小声点。"
+    },
+    {
+      "id": 26,
+      "start": 70.52,
+      "end": 71.52,
+      "en": "Keep it down.",
+      "zh": "小声点。"
+    },
+    {
+      "id": 27,
+      "start": 71.52,
+      "end": 72.52,
+      "en": "Keep it down.",
+      "zh": "小声点。"
+    },
+    {
+      "id": 28,
+      "start": 72.52,
+      "end": 81.0,
+      "en": "So, why don't we listen to some examples on how we use keep it down so we can understand.",
+      "zh": "所以，我们为什么不听一些关于我们如何使用它的例子，这样我们才能理解。"
+    },
+    {
+      "id": 29,
+      "start": 81.0,
+      "end": 88.24,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 30,
+      "start": 88.24,
+      "end": 88.82,
+      "en": "Excuse me.",
+      "zh": "打扰一下。"
+    },
+    {
+      "id": 31,
+      "start": 89.24,
+      "end": 90.24,
+      "en": "Do you mind keeping it down?",
+      "zh": "你介意把它压下来吗？"
+    },
+    {
+      "id": 32,
+      "start": 90.52,
+      "end": 91.5,
+      "en": "It's after midnight.",
+      "zh": "是午夜过后。"
+    },
+    {
+      "id": 33,
+      "start": 92.54,
+      "end": 92.9,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 34,
+      "start": 93.2,
+      "end": 93.56,
+      "en": "Sorry.",
+      "zh": "抱歉。"
+    },
+    {
+      "id": 35,
+      "start": 94.28,
+      "end": 103.96,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 36,
+      "start": 103.96,
+      "end": 104.77,
+      "en": "I'm trying to study.",
+      "zh": "我正在努力学习。"
+    },
+    {
+      "id": 37,
+      "start": 105.28,
+      "end": 110.88,
+      "en": "Do you mind keeping it down?",
+      "zh": "你介意把它压下来吗？"
+    },
+    {
+      "id": 38,
+      "start": 110.88,
+      "end": 116.2,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 39,
+      "start": 116.2,
+      "end": 116.98,
+      "en": "You mind keeping it down?",
+      "zh": "麻烦你小点声好吗？"
+    },
+    {
+      "id": 40,
+      "start": 117.2,
+      "end": 122.72,
+      "en": "I'm trying to watch the game.",
+      "zh": "我正在尝试观看比赛。"
+    },
+    {
+      "id": 41,
+      "start": 122.72,
+      "end": 124.23,
+      "en": "So that means be quiet.",
+      "zh": "所以这意味着保持安静。"
+    },
+    {
+      "id": 42,
+      "start": 124.59,
+      "end": 124.85,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 43,
+      "start": 124.85,
+      "end": 125.91,
+      "en": "Don't make so much noise.",
+      "zh": "不要制造那么多噪音。"
+    },
+    {
+      "id": 44,
+      "start": 126.23,
+      "end": 128.81,
+      "en": "I used to hear this one all the time from my mother.",
+      "zh": "我以前一直从妈妈那里听到这个。"
+    },
+    {
+      "id": 45,
+      "start": 129.09,
+      "end": 131.27,
+      "en": "I think we all did when we were children.",
+      "zh": "我想我们小时候都这样做过。"
+    },
+    {
+      "id": 46,
+      "start": 131.64,
+      "end": 132.64,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 47,
+      "start": 132.64,
+      "end": 133.64,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 48,
+      "start": 133.64,
+      "end": 135.76,
+      "en": "So now let's listen to the dialogue for the first time.",
+      "zh": "所以现在让我们第一次听对话。"
+    },
+    {
+      "id": 49,
+      "start": 135.76,
+      "end": 137.76,
+      "en": "It's going to be kind of fast.",
+      "zh": "它会很快。"
+    },
+    {
+      "id": 50,
+      "start": 137.76,
+      "end": 140.31,
+      "en": "But don't worry about it if you can't understand everything.",
+      "zh": "但是，如果您无法理解所有内容，请不要担心。"
+    },
+    {
+      "id": 51,
+      "start": 140.95,
+      "end": 143.99,
+      "en": "By the end of today's lesson, you will understand this dialogue.",
+      "zh": "在今天的课程结束时，您将了解这种对话。"
+    },
+    {
+      "id": 52,
+      "start": 163.47,
+      "end": 165.77,
+      "en": "Those people in front of us are making so much noise.",
+      "zh": "前面那些人太吵了。"
+    },
+    {
+      "id": 53,
+      "start": 166.53,
+      "end": 167.61,
+      "en": "It's so inconsiderate.",
+      "zh": "太不替别人着想了。"
+    },
+    {
+      "id": 54,
+      "start": 167.85,
+      "end": 169.01,
+      "en": "Don't worry about it.",
+      "zh": "别担心。"
+    },
+    {
+      "id": 55,
+      "start": 169.07,
+      "end": 170.21,
+      "en": "It's not such a big deal.",
+      "zh": "没那么严重。"
+    },
+    {
+      "id": 56,
+      "start": 170.43,
+      "end": 172.69,
+      "en": "I can't hear a thing.",
+      "zh": "我什么也听不见。"
+    },
+    {
+      "id": 57,
+      "start": 173.3,
+      "end": 173.91,
+      "en": "Excuse me.",
+      "zh": "打扰一下。"
+    },
+    {
+      "id": 58,
+      "start": 174.05,
+      "end": 174.89,
+      "en": "Can you keep it down?",
+      "zh": "能小点声吗？"
+    },
+    {
+      "id": 59,
+      "start": 175.67,
+      "end": 176.01,
+      "en": "Sure.",
+      "zh": "当然。"
+    },
+    {
+      "id": 60,
+      "start": 176.53,
+      "end": 177.11,
+      "en": "Sorry about that.",
+      "zh": "抱歉。"
+    },
+    {
+      "id": 61,
+      "start": 183.97,
+      "end": 185.17,
+      "en": "Someone's phone is ringing.",
+      "zh": "有人手机响了。"
+    },
+    {
+      "id": 62,
+      "start": 185.93,
+      "end": 187.95,
+      "en": "Honey, I think it's your phone.",
+      "zh": "亲爱的，我觉得是你的手机在响。"
+    },
+    {
+      "id": 63,
+      "start": 188.29,
+      "end": 189.39,
+      "en": "Did you forget to switch it off?",
+      "zh": "你忘了关掉它吗？"
+    },
+    {
+      "id": 64,
+      "start": 192.43,
+      "end": 192.83,
+      "en": "Oh no.",
+      "zh": "哦，不。"
+    },
+    {
+      "id": 65,
+      "start": 193.8,
+      "end": 194.09,
+      "en": "You're right.",
+      "zh": "你说得对。"
+    },
+    {
+      "id": 66,
+      "start": 195.36,
+      "end": 196.68,
+      "en": "It's so embarrassing.",
+      "zh": "太尴尬了。"
+    },
+    {
+      "id": 67,
+      "start": 196.68,
+      "end": 197.53,
+      "en": "You mind keeping it down?",
+      "zh": "麻烦你小点声好吗？"
+    },
+    {
+      "id": 68,
+      "start": 198.05,
+      "end": 199.11,
+      "en": "I'm trying to watch a movie here.",
+      "zh": "我还要看电影呢。"
+    },
+    {
+      "id": 69,
+      "start": 207.24,
+      "end": 210.53,
+      "en": "I hate it when people's phones ring when I'm watching a movie.",
+      "zh": "我讨厌看电影时人们的电话响了。"
+    },
+    {
+      "id": 70,
+      "start": 211.56,
+      "end": 215.93,
+      "en": "I think everyone gets kind of angry, but we're going to talk about this a little bit later.",
+      "zh": "我想每个人都会生气，但我们稍后会谈谈这个。"
+    },
+    {
+      "id": 71,
+      "start": 216.36,
+      "end": 218.91,
+      "en": "Why don't we take a look now at our language takeaway?",
+      "zh": "为什么我们现在不看看我们的语言外卖？"
+    },
+    {
+      "id": 72,
+      "start": 220.93,
+      "end": 221.97,
+      "en": "Language takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 73,
+      "start": 223.34,
+      "end": 228.54,
+      "en": "So the language takeaway is our most important words for today's lesson.",
+      "zh": "所以语言要点是我们今天课程中最重要的词。"
+    },
+    {
+      "id": 74,
+      "start": 228.92,
+      "end": 233.06,
+      "en": "And our first word today is not such a big deal.",
+      "zh": "我们今天的第一个词并不是什么大不了的。"
+    },
+    {
+      "id": 75,
+      "start": 233.84,
+      "end": 235.3,
+      "en": "Not such a big deal.",
+      "zh": "没什么大不了的。"
+    },
+    {
+      "id": 76,
+      "start": 236.08,
+      "end": 237.97,
+      "en": "Not such a big deal.",
+      "zh": "没什么大不了的。"
+    },
+    {
+      "id": 77,
+      "start": 238.64,
+      "end": 242.0,
+      "en": "So when something is not a big deal, it's not a big problem.",
+      "zh": "因此，当某事不是什么大问题时，这不是一个大问题。"
+    },
+    {
+      "id": 78,
+      "start": 242.36,
+      "end": 243.2,
+      "en": "It's not important, right?",
+      "zh": "这不重要，对吧？"
+    },
+    {
+      "id": 79,
+      "start": 243.42,
+      "end": 243.56,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 80,
+      "start": 244.18,
+      "end": 245.76,
+      "en": "Okay, let's listen to some examples.",
+      "zh": "好吧，让我们听听一些例子。"
+    },
+    {
+      "id": 81,
+      "start": 247.21,
+      "end": 247.87,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 82,
+      "start": 250.96,
+      "end": 252.57,
+      "en": "I can't get these files due by tomorrow.",
+      "zh": "我无法在明天收到这些文件。"
+    },
+    {
+      "id": 83,
+      "start": 253.36,
+      "end": 253.61,
+      "en": "It's okay.",
+      "zh": "没关系。"
+    },
+    {
+      "id": 84,
+      "start": 254.36,
+      "end": 258.44,
+      "en": "It's not such a big deal.",
+      "zh": "没那么严重。"
+    },
+    {
+      "id": 85,
+      "start": 258.44,
+      "end": 263.36,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 86,
+      "start": 263.36,
+      "end": 264.36,
+      "en": "I'm really sorry.",
+      "zh": "我真的很抱歉。"
+    },
+    {
+      "id": 87,
+      "start": 264.88,
+      "end": 266.66,
+      "en": "I'm going to be 10 minutes late for the meeting.",
+      "zh": "我将迟到 10 分钟的会议。"
+    },
+    {
+      "id": 88,
+      "start": 267.34,
+      "end": 268.42,
+      "en": "It's not such a big deal.",
+      "zh": "没那么严重。"
+    },
+    {
+      "id": 89,
+      "start": 268.96,
+      "end": 269.98,
+      "en": "Peter and Liam are late too.",
+      "zh": "彼得和利亚姆也迟到了。"
+    },
+    {
+      "id": 90,
+      "start": 274.63,
+      "end": 279.15,
+      "en": "Now let's look at our second word and it's switch it off.",
+      "zh": "现在让我们看看我们的第二个词，它将其关闭。"
+    },
+    {
+      "id": 91,
+      "start": 279.51,
+      "end": 280.31,
+      "en": "Switch it off.",
+      "zh": "把它关掉。"
+    },
+    {
+      "id": 92,
+      "start": 280.79,
+      "end": 281.79,
+      "en": "Switch it off.",
+      "zh": "把它关掉。"
+    },
+    {
+      "id": 93,
+      "start": 282.09,
+      "end": 283.17,
+      "en": "Switch it off.",
+      "zh": "把它关掉。"
+    },
+    {
+      "id": 94,
+      "start": 283.65,
+      "end": 285.85,
+      "en": "So this word means to turn it off.",
+      "zh": "所以这个词的意思是把它关掉。"
+    },
+    {
+      "id": 95,
+      "start": 286.09,
+      "end": 287.13,
+      "en": "To turn something off.",
+      "zh": "关闭某物。"
+    },
+    {
+      "id": 96,
+      "start": 287.41,
+      "end": 289.79,
+      "en": "Now we can use it in three different ways.",
+      "zh": "现在我们可以用三种不同的方式使用它。"
+    },
+    {
+      "id": 97,
+      "start": 290.17,
+      "end": 296.01,
+      "en": "Yeah, this one is a little bit complicated because it changes a little bit depending on how you use it.",
+      "zh": "是的，这个有点复杂，因为它会根据你的使用方式而改变一点。"
+    },
+    {
+      "id": 98,
+      "start": 296.21,
+      "end": 298.47,
+      "en": "So Marco, I think you've got some examples for us.",
+      "zh": "所以马可，我想你有一些例子给我们。"
+    },
+    {
+      "id": 99,
+      "start": 298.71,
+      "end": 298.91,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 100,
+      "start": 299.05,
+      "end": 303.31,
+      "en": "So for example, I can say, did you switch off your phone?",
+      "zh": "例如，我可以说，你关掉手机了吗？"
+    },
+    {
+      "id": 101,
+      "start": 303.69,
+      "end": 306.51,
+      "en": "Or you could say, did you switch your phone off?",
+      "zh": "或者你可以说，你关掉手机了吗？"
+    },
+    {
+      "id": 102,
+      "start": 307.06,
+      "end": 307.54,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 103,
+      "start": 307.54,
+      "end": 310.6,
+      "en": "Or simply you can ask, did you switch it off?",
+      "zh": "或者只是你可以问，你把它关掉了吗？"
+    },
+    {
+      "id": 104,
+      "start": 310.94,
+      "end": 312.88,
+      "en": "I think this one is a little bit hard.",
+      "zh": "我觉得这一款有点难。"
+    },
+    {
+      "id": 105,
+      "start": 313.24,
+      "end": 315.3,
+      "en": "Let's look at a couple more examples.",
+      "zh": "让我们再看几个例子。"
+    },
+    {
+      "id": 106,
+      "start": 315.9,
+      "end": 316.1,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 107,
+      "start": 316.54,
+      "end": 319.7,
+      "en": "So I can say, for example, switch off the TV.",
+      "zh": "所以我可以说，例如，关掉电视。"
+    },
+    {
+      "id": 108,
+      "start": 320.26,
+      "end": 321.52,
+      "en": "Switch the TV off.",
+      "zh": "关闭电视。"
+    },
+    {
+      "id": 109,
+      "start": 321.94,
+      "end": 323.16,
+      "en": "Or switch it off.",
+      "zh": "或关闭它。"
+    },
+    {
+      "id": 110,
+      "start": 323.48,
+      "end": 324.48,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 111,
+      "start": 324.48,
+      "end": 325.18,
+      "en": "I think that's a little bit more clear.",
+      "zh": "我认为这更清楚一点。"
+    },
+    {
+      "id": 112,
+      "start": 325.48,
+      "end": 326.48,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 113,
+      "start": 326.48,
+      "end": 327.48,
+      "en": "But you know what?",
+      "zh": "不过你知道吗？"
+    },
+    {
+      "id": 114,
+      "start": 327.48,
+      "end": 328.84,
+      "en": "We even had trouble with that one, didn't we?",
+      "zh": "我们甚至在那一方面遇到了麻烦，不是吗？"
+    },
+    {
+      "id": 115,
+      "start": 328.84,
+      "end": 329.84,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 116,
+      "start": 329.84,
+      "end": 331.56,
+      "en": "We had to do it a couple of times.",
+      "zh": "我们不得不这样做几次。"
+    },
+    {
+      "id": 117,
+      "start": 331.56,
+      "end": 331.8,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 118,
+      "start": 332.14,
+      "end": 336.25,
+      "en": "Now let's look at our last word and it's can't hear a thing.",
+      "zh": "现在让我们看看我们的最后一个字，它什么都听不到。"
+    },
+    {
+      "id": 119,
+      "start": 336.81,
+      "end": 337.79,
+      "en": "Can't hear a thing.",
+      "zh": "什么都听不见。"
+    },
+    {
+      "id": 120,
+      "start": 338.35,
+      "end": 339.55,
+      "en": "I can't hear a thing.",
+      "zh": "我什么也听不见。"
+    },
+    {
+      "id": 121,
+      "start": 339.93,
+      "end": 340.89,
+      "en": "Can't hear a thing.",
+      "zh": "什么都听不见。"
+    },
+    {
+      "id": 122,
+      "start": 341.25,
+      "end": 341.53,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 123,
+      "start": 341.63,
+      "end": 344.15,
+      "en": "We have some examples for this phrase, so let's listen.",
+      "zh": "我们有这个短语的一些例子，所以让我们听听。"
+    },
+    {
+      "id": 124,
+      "start": 346.12,
+      "end": 346.34,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 125,
+      "start": 347.12,
+      "end": 352.2,
+      "en": "What's going on in there?",
+      "zh": "里面发生了什么？"
+    },
+    {
+      "id": 126,
+      "start": 352.26,
+      "end": 352.7,
+      "en": "I don't know.",
+      "zh": "我不知道。"
+    },
+    {
+      "id": 127,
+      "start": 353.04,
+      "end": 354.2,
+      "en": "I can't hear a thing.",
+      "zh": "我什么也听不见。"
+    },
+    {
+      "id": 128,
+      "start": 357.24,
+      "end": 357.9,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 129,
+      "start": 360.39,
+      "end": 360.77,
+      "en": "What?",
+      "zh": "什么？"
+    },
+    {
+      "id": 130,
+      "start": 361.35,
+      "end": 361.93,
+      "en": "I'm sorry.",
+      "zh": "对不起。"
+    },
+    {
+      "id": 131,
+      "start": 361.97,
+      "end": 363.01,
+      "en": "This music is too loud.",
+      "zh": "这音乐太响了。"
+    },
+    {
+      "id": 132,
+      "start": 363.53,
+      "end": 364.45,
+      "en": "I can't hear a thing.",
+      "zh": "我什么也听不见。"
+    },
+    {
+      "id": 133,
+      "start": 368.65,
+      "end": 371.07,
+      "en": "So that's like saying, I can't hear.",
+      "zh": "所以这就像说，我听不见。"
+    },
+    {
+      "id": 134,
+      "start": 371.55,
+      "end": 371.83,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 135,
+      "start": 372.6,
+      "end": 373.6,
+      "en": "I can't hear anything.",
+      "zh": "我什么都听不见。"
+    },
+    {
+      "id": 136,
+      "start": 373.6,
+      "end": 374.09,
+      "en": "It's too loud.",
+      "zh": "它太响亮。"
+    },
+    {
+      "id": 137,
+      "start": 374.6,
+      "end": 375.6,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 138,
+      "start": 375.6,
+      "end": 378.77,
+      "en": "So now we are ready to listen to our dialogue a second time.",
+      "zh": "所以现在我们准备第二次听我们的对话。"
+    },
+    {
+      "id": 139,
+      "start": 379.28,
+      "end": 379.87,
+      "en": "It's going to be slower.",
+      "zh": "它会更慢。"
+    },
+    {
+      "id": 140,
+      "start": 380.44,
+      "end": 383.33,
+      "en": "This time listen for some of the key words we were explaining.",
+      "zh": "这次听我们解释的一些关键词。"
+    },
+    {
+      "id": 141,
+      "start": 387.28,
+      "end": 390.5,
+      "en": "Those people in front of us are making so much noise.",
+      "zh": "前面那些人太吵了。"
+    },
+    {
+      "id": 142,
+      "start": 391.24,
+      "end": 393.12,
+      "en": "It's so inconsiderate.",
+      "zh": "太不替别人着想了。"
+    },
+    {
+      "id": 143,
+      "start": 394.52,
+      "end": 395.63,
+      "en": "Don't worry about it.",
+      "zh": "别担心。"
+    },
+    {
+      "id": 144,
+      "start": 396.0,
+      "end": 397.35,
+      "en": "It's not such a big deal.",
+      "zh": "没那么严重。"
+    },
+    {
+      "id": 145,
+      "start": 398.56,
+      "end": 399.97,
+      "en": "I can't hear a thing.",
+      "zh": "我什么也听不见。"
+    },
+    {
+      "id": 146,
+      "start": 400.96,
+      "end": 401.65,
+      "en": "Excuse me.",
+      "zh": "打扰一下。"
+    },
+    {
+      "id": 147,
+      "start": 402.44,
+      "end": 403.53,
+      "en": "Can you keep it down?",
+      "zh": "能小点声吗？"
+    },
+    {
+      "id": 148,
+      "start": 404.92,
+      "end": 405.27,
+      "en": "Sure.",
+      "zh": "当然。"
+    },
+    {
+      "id": 149,
+      "start": 406.28,
+      "end": 407.41,
+      "en": "Sorry about that.",
+      "zh": "抱歉。"
+    },
+    {
+      "id": 150,
+      "start": 409.28,
+      "end": 410.42,
+      "en": "Someone's phone is ringing.",
+      "zh": "有人手机响了。"
+    },
+    {
+      "id": 151,
+      "start": 411.33,
+      "end": 414.05,
+      "en": "Honey, I think it's your phone.",
+      "zh": "亲爱的，我觉得是你的手机在响。"
+    },
+    {
+      "id": 152,
+      "start": 414.65,
+      "end": 416.41,
+      "en": "Did you forget to switch it off?",
+      "zh": "你忘了关掉它吗？"
+    },
+    {
+      "id": 153,
+      "start": 417.21,
+      "end": 417.99,
+      "en": "Oh no.",
+      "zh": "哦，不。"
+    },
+    {
+      "id": 154,
+      "start": 418.81,
+      "end": 419.55,
+      "en": "You're right.",
+      "zh": "你说得对。"
+    },
+    {
+      "id": 155,
+      "start": 420.49,
+      "end": 422.23,
+      "en": "That's so embarrassing.",
+      "zh": "太尴尬了。"
+    },
+    {
+      "id": 156,
+      "start": 422.91,
+      "end": 424.85,
+      "en": "Do you mind keeping it down?",
+      "zh": "你介意把它压下来吗？"
+    },
+    {
+      "id": 157,
+      "start": 425.45,
+      "end": 427.73,
+      "en": "I'm trying to watch a movie here.",
+      "zh": "我还要看电影呢。"
+    },
+    {
+      "id": 158,
+      "start": 429.21,
+      "end": 430.17,
+      "en": "Okay, great.",
+      "zh": "好，太好了。"
+    },
+    {
+      "id": 159,
+      "start": 430.43,
+      "end": 433.01,
+      "en": "Now with the dialogue slower, it's really understandable.",
+      "zh": "现在对话慢了，真的是可以理解的。"
+    },
+    {
+      "id": 160,
+      "start": 433.35,
+      "end": 435.81,
+      "en": "Yeah, I think you could catch those key words a lot better.",
+      "zh": "是的，我认为你可以更好地捕捉到这些关键词。"
+    },
+    {
+      "id": 161,
+      "start": 436.09,
+      "end": 436.29,
+      "en": "Perfect.",
+      "zh": "太好了。"
+    },
+    {
+      "id": 162,
+      "start": 436.51,
+      "end": 439.75,
+      "en": "So now we are ready to look at putting it together.",
+      "zh": "所以现在我们准备好看看把它放在一起。"
+    },
+    {
+      "id": 163,
+      "start": 441.82,
+      "end": 442.98,
+      "en": "Putting it together.",
+      "zh": "综合运用。"
+    },
+    {
+      "id": 164,
+      "start": 443.76,
+      "end": 449.18,
+      "en": "So in putting it together, we help you use a great phrase in different ways.",
+      "zh": "因此，在将其组合在一起时，我们可以帮助您以不同的方式使用一个很棒的短语。"
+    },
+    {
+      "id": 165,
+      "start": 449.88,
+      "end": 452.8,
+      "en": "And today's phrase is, do you mind?",
+      "zh": "而今天的短语是，你介意吗？"
+    },
+    {
+      "id": 166,
+      "start": 453.22,
+      "end": 454.1,
+      "en": "Do you mind?",
+      "zh": "你介意吗？"
+    },
+    {
+      "id": 167,
+      "start": 454.58,
+      "end": 455.24,
+      "en": "Do you mind?",
+      "zh": "你介意吗？"
+    },
+    {
+      "id": 168,
+      "start": 455.84,
+      "end": 461.74,
+      "en": "Okay, so let's listen to some examples on how you can use this phrase in different situations.",
+      "zh": "好的，让我们听听一些关于如何在不同情况下使用这个短语的例子。"
+    },
+    {
+      "id": 169,
+      "start": 463.04,
+      "end": 463.34,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 170,
+      "start": 467.16,
+      "end": 468.53,
+      "en": "Do you mind holding my coat for me?",
+      "zh": "你介意为我拿着我的外套吗？"
+    },
+    {
+      "id": 171,
+      "start": 471.2,
+      "end": 471.46,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 172,
+      "start": 473.4,
+      "end": 477.16,
+      "en": "Oh, I forgot my wallet.",
+      "zh": "哦，我忘了我的钱包。"
+    },
+    {
+      "id": 173,
+      "start": 477.16,
+      "end": 477.9,
+      "en": "Do you mind paying for dinner?",
+      "zh": "你介意支付晚餐吗？"
+    },
+    {
+      "id": 174,
+      "start": 481.23,
+      "end": 482.21,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 175,
+      "start": 491.05,
+      "end": 492.69,
+      "en": "Do you mind turning off your phone?",
+      "zh": "你介意关掉手机吗？"
+    },
+    {
+      "id": 176,
+      "start": 494.48,
+      "end": 496.6,
+      "en": "So this phrase is usually pretty polite.",
+      "zh": "所以这句话通常很有礼貌。"
+    },
+    {
+      "id": 177,
+      "start": 496.96,
+      "end": 501.04,
+      "en": "I could say to you, Marco, do you mind holding my coat for me?",
+      "zh": "我可以对你说，马可，你介意为我拿着我的外套吗？"
+    },
+    {
+      "id": 178,
+      "start": 501.04,
+      "end": 502.04,
+      "en": "And that's really polite.",
+      "zh": "这真的很有礼貌。"
+    },
+    {
+      "id": 179,
+      "start": 502.04,
+      "end": 503.04,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 180,
+      "start": 503.04,
+      "end": 505.14,
+      "en": "So would you mind, do you mind are very polite phrases.",
+      "zh": "你也介意，你介意是非常有礼貌的短语。"
+    },
+    {
+      "id": 181,
+      "start": 506.12,
+      "end": 511.68,
+      "en": "But depending on your voice and how you use your tone, it could be a little bit sarcastic, right?",
+      "zh": "但取决于你的声音以及你如何使用你的语气，它可能有点讽刺，对吧？"
+    },
+    {
+      "id": 182,
+      "start": 512.28,
+      "end": 516.31,
+      "en": "Yeah, it could be a little bit rude if you say, would you mind keeping it down?",
+      "zh": "是的，如果你说，你介意把它压下来可能会有点粗鲁吗？"
+    },
+    {
+      "id": 183,
+      "start": 516.79,
+      "end": 516.99,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 184,
+      "start": 517.43,
+      "end": 518.55,
+      "en": "Like we heard in our dialogue.",
+      "zh": "就像我们在对话中听到的那样。"
+    },
+    {
+      "id": 185,
+      "start": 518.89,
+      "end": 519.03,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 186,
+      "start": 519.09,
+      "end": 520.33,
+      "en": "So that's not so polite.",
+      "zh": "所以这不是那么礼貌。"
+    },
+    {
+      "id": 187,
+      "start": 520.65,
+      "end": 521.11,
+      "en": "Yeah, exactly.",
+      "zh": "对，没错。"
+    },
+    {
+      "id": 188,
+      "start": 521.72,
+      "end": 527.24,
+      "en": "I mean, in English, you have to be careful because your tone of voice tells the other person how you're feeling.",
+      "zh": "我的意思是，在英语中，你必须小心，因为你的语气告诉对方你的感受。"
+    },
+    {
+      "id": 189,
+      "start": 527.24,
+      "end": 529.72,
+      "en": "If you're angry, sad, or just like in any other language.",
+      "zh": "如果你生气、悲伤，或者就像任何其他语言一样。"
+    },
+    {
+      "id": 190,
+      "start": 530.02,
+      "end": 530.68,
+      "en": "Yeah, that's true.",
+      "zh": "对，确实如此。"
+    },
+    {
+      "id": 191,
+      "start": 531.0,
+      "end": 538.04,
+      "en": "So I mean, using a phrase like, do you mind is a great phrase, but make sure you keep a positive tone in your voice.",
+      "zh": "所以我的意思是，使用类似的短语，Do You Mind 是一个很好的短语，但要确保你的声音中保持积极的语气。"
+    },
+    {
+      "id": 192,
+      "start": 538.04,
+      "end": 539.04,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 193,
+      "start": 539.04,
+      "end": 546.6,
+      "en": "So now that we've talked about all these great things, we can listen to the dialogue a third time, but it'll be at its normal speed.",
+      "zh": "所以现在我们已经讨论了所有这些伟大的事情，我们可以第三次听对话，但它会以正常的速度。"
+    },
+    {
+      "id": 194,
+      "start": 561.2,
+      "end": 563.36,
+      "en": "Those people in front of us are making so much noise.",
+      "zh": "前面那些人太吵了。"
+    },
+    {
+      "id": 195,
+      "start": 564.12,
+      "end": 565.14,
+      "en": "It's so inconsiderate.",
+      "zh": "太不替别人着想了。"
+    },
+    {
+      "id": 196,
+      "start": 565.8,
+      "end": 566.54,
+      "en": "Don't worry about it.",
+      "zh": "别担心。"
+    },
+    {
+      "id": 197,
+      "start": 566.8,
+      "end": 567.8,
+      "en": "It's not such a big deal.",
+      "zh": "没那么严重。"
+    },
+    {
+      "id": 198,
+      "start": 568.48,
+      "end": 570.24,
+      "en": "Oh, I can't hear a thing.",
+      "zh": "哦，我什么都听不见。"
+    },
+    {
+      "id": 199,
+      "start": 570.88,
+      "end": 571.44,
+      "en": "Excuse me.",
+      "zh": "打扰一下。"
+    },
+    {
+      "id": 200,
+      "start": 571.58,
+      "end": 572.44,
+      "en": "Can you keep it down?",
+      "zh": "能小点声吗？"
+    },
+    {
+      "id": 201,
+      "start": 573.12,
+      "end": 573.56,
+      "en": "Sure.",
+      "zh": "当然。"
+    },
+    {
+      "id": 202,
+      "start": 573.96,
+      "end": 574.64,
+      "en": "Sorry about that.",
+      "zh": "抱歉。"
+    },
+    {
+      "id": 203,
+      "start": 581.51,
+      "end": 582.71,
+      "en": "Someone's phone is ringing.",
+      "zh": "有人手机响了。"
+    },
+    {
+      "id": 204,
+      "start": 583.47,
+      "end": 585.49,
+      "en": "Honey, I think it's your phone.",
+      "zh": "亲爱的，我觉得是你的手机在响。"
+    },
+    {
+      "id": 205,
+      "start": 585.83,
+      "end": 586.95,
+      "en": "Did you forget to switch it off?",
+      "zh": "你忘了关掉它吗？"
+    },
+    {
+      "id": 206,
+      "start": 589.9,
+      "end": 590.34,
+      "en": "Oh, no.",
+      "zh": "哦，不。"
+    },
+    {
+      "id": 207,
+      "start": 591.2,
+      "end": 591.62,
+      "en": "You're right.",
+      "zh": "你说得对。"
+    },
+    {
+      "id": 208,
+      "start": 592.64,
+      "end": 593.82,
+      "en": "That's so embarrassing.",
+      "zh": "太尴尬了。"
+    },
+    {
+      "id": 209,
+      "start": 594.18,
+      "end": 595.1,
+      "en": "Do you mind keeping it down?",
+      "zh": "你介意把它压下来吗？"
+    },
+    {
+      "id": 210,
+      "start": 595.6,
+      "end": 596.66,
+      "en": "I'm trying to watch a movie here.",
+      "zh": "我还要看电影呢。"
+    },
+    {
+      "id": 211,
+      "start": 602.73,
+      "end": 607.97,
+      "en": "So I know that in different countries, there are different habits about watching movies.",
+      "zh": "所以我知道在不同的国家，看电影有不同的习惯。"
+    },
+    {
+      "id": 212,
+      "start": 608.53,
+      "end": 609.85,
+      "en": "Yeah, that's definitely true.",
+      "zh": "是的，这绝对是真的。"
+    },
+    {
+      "id": 213,
+      "start": 610.03,
+      "end": 611.23,
+      "en": "Erica, what's it like in Canada?",
+      "zh": "埃里卡，加拿大是什么样的？"
+    },
+    {
+      "id": 214,
+      "start": 611.59,
+      "end": 618.35,
+      "en": "Well, in Canada, it's really common to eat popcorn and candy and maybe chips while you're watching a movie.",
+      "zh": "好吧，在加拿大，在你看电影的时候吃爆米花和糖果，也许还有薯条真的很常见。"
+    },
+    {
+      "id": 215,
+      "start": 618.63,
+      "end": 622.95,
+      "en": "But if your phone rings in the movie theater, this is a big problem.",
+      "zh": "但如果你的手机在电影院响起，这是一个大问题。"
+    },
+    {
+      "id": 216,
+      "start": 623.75,
+      "end": 625.15,
+      "en": "I imagine it is.",
+      "zh": "我想是的。"
+    },
+    {
+      "id": 217,
+      "start": 625.37,
+      "end": 626.89,
+      "en": "I mean, I would be upset also.",
+      "zh": "我的意思是，我也会心烦意乱。"
+    },
+    {
+      "id": 218,
+      "start": 627.32,
+      "end": 628.32,
+      "en": "What about in Ecuador?",
+      "zh": "那厄瓜多尔呢？"
+    },
+    {
+      "id": 219,
+      "start": 628.37,
+      "end": 634.58,
+      "en": "Well, in Ecuador and in South America, usually people can bring in food from the outside.",
+      "zh": "好吧，在厄瓜多尔和南美，人们通常可以从外面带来食物。"
+    },
+    {
+      "id": 220,
+      "start": 634.98,
+      "end": 635.24,
+      "en": "Really?",
+      "zh": "真的吗？"
+    },
+    {
+      "id": 221,
+      "start": 635.7,
+      "end": 644.3,
+      "en": "Yeah, so it's not really uncommon, depending on the city, to find people bringing in chicken or some sort of like really smelly food.",
+      "zh": "是的，所以根据城市的不同，找人带来鸡肉或某种像真正有臭味的食物的情况并不少见。"
+    },
+    {
+      "id": 222,
+      "start": 644.5,
+      "end": 644.94,
+      "en": "No way!",
+      "zh": "不会吧！"
+    },
+    {
+      "id": 223,
+      "start": 645.5,
+      "end": 649.96,
+      "en": "So, you get either really hungry or really upset, but that's what happens.",
+      "zh": "所以，你要么真的很饿，要么真的很沮丧，但这就是发生的事情。"
+    },
+    {
+      "id": 224,
+      "start": 650.22,
+      "end": 655.04,
+      "en": "You know, I used to live in Switzerland, and in Switzerland you would have to eat before you watch the movie.",
+      "zh": "你知道，我曾经住在瑞士，在瑞士，你必须在看电影之前吃饭。"
+    },
+    {
+      "id": 225,
+      "start": 655.4,
+      "end": 660.0,
+      "en": "There was no popcorn, no soda, no candy inside the movie theater.",
+      "zh": "电影院里没有爆米花，没有苏打水，没有糖果。"
+    },
+    {
+      "id": 226,
+      "start": 660.0,
+      "end": 660.62,
+      "en": "Can you imagine that?",
+      "zh": "你能想象吗？"
+    },
+    {
+      "id": 227,
+      "start": 660.84,
+      "end": 667.68,
+      "en": "I could not live with that because the whole purpose of going to the movies is to have some popcorn and relax and have a good time.",
+      "zh": "我无法忍受，因为去看电影的全部目的是吃点爆米花，放松一下，玩得开心。"
+    },
+    {
+      "id": 228,
+      "start": 667.8,
+      "end": 669.32,
+      "en": "You can't have a movie without popcorn.",
+      "zh": "没有爆米花就不能拍电影。"
+    },
+    {
+      "id": 229,
+      "start": 669.42,
+      "end": 669.62,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 230,
+      "start": 670.58,
+      "end": 679.04,
+      "en": "Okay, so we've talked a lot about how to ask someone to be quiet today, and I hope that you'll go out and try a few of these phrases in your daily life.",
+      "zh": "好的，所以我们已经谈了很多关于如何让某人保持安静的话题，我希望你能在日常生活中尝试一些这样的短语。"
+    },
+    {
+      "id": 231,
+      "start": 679.32,
+      "end": 685.78,
+      "en": "Yes, and I hope also that you visit our website at EnglishPod.com and leave all your questions and comments.",
+      "zh": "是的，我也希望您访问我们的网站 englishpod.com 并留下您的所有问题和意见。"
+    },
+    {
+      "id": 232,
+      "start": 686.36,
+      "end": 691.68,
+      "en": "Marco and I are there every day, so we'll be happy to answer your questions, but until next time, bye!",
+      "zh": "Marco 和我每天都在那里，所以我们很乐意回答您的问题，但直到下一次，再见！"
+    },
+    {
+      "id": 233,
+      "start": 691.68,
+      "end": 700.891,
+      "en": "Bye!",
+      "zh": "再见！"
+    }
+  ],
+  "dialog": {
+    "start": 163.47,
+    "end": 199.11,
+    "segmentIds": [
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68
+    ]
+  }
+}

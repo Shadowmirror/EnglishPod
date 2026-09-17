@@ -1,0 +1,1877 @@
+{
+  "version": 1,
+  "id": 152,
+  "number": "0152",
+  "title": "The Office - Cut It Out",
+  "audio": "mp3/152. The Office - Cut It Out.mp3",
+  "duration": 713.9265625,
+  "segments": [
+    {
+      "id": 1,
+      "start": 3.66,
+      "end": 6.14,
+      "en": "Hello, everyone, and welcome back to EnglishPod.",
+      "zh": "大家好，欢迎回到 Englishpod。"
+    },
+    {
+      "id": 2,
+      "start": 6.42,
+      "end": 6.84,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 7.48,
+      "end": 8.64,
+      "en": "And my name is Catherine.",
+      "zh": "我叫 Catherine。"
+    },
+    {
+      "id": 4,
+      "start": 9.06,
+      "end": 11.7,
+      "en": "So, as usual, we've got a great dialogue for you today.",
+      "zh": "所以，像往常一样，我们今天为您提供了精彩的对话。"
+    },
+    {
+      "id": 5,
+      "start": 12.14,
+      "end": 14.24,
+      "en": "And before we get going, I should mention what the topic is.",
+      "zh": "在我们开始之前，我应该提一下主题是什么。"
+    },
+    {
+      "id": 6,
+      "start": 14.38,
+      "end": 15.22,
+      "en": "So, Marco, take it away.",
+      "zh": "所以，马可，把它拿走。"
+    },
+    {
+      "id": 7,
+      "start": 15.42,
+      "end": 18.4,
+      "en": "We are actually having a small fight at the office.",
+      "zh": "我们实际上在办公室里发生了一场小小的战斗。"
+    },
+    {
+      "id": 8,
+      "start": 18.7,
+      "end": 21.26,
+      "en": "Somebody or a coworker is annoying us.",
+      "zh": "某人或同事让我们烦恼。"
+    },
+    {
+      "id": 9,
+      "start": 21.26,
+      "end": 26.94,
+      "en": "So, you know, sometimes coworkers, you see them every day, they're doing something that's maybe getting on your nerves.",
+      "zh": "所以，你知道，有时同事，你每天都看到他们，他们正在做一些可能会让你紧张的事情。"
+    },
+    {
+      "id": 10,
+      "start": 27.3,
+      "end": 32.62,
+      "en": "And you practically live together because you're with each other for eight, nine, ten hours every day.",
+      "zh": "你们实际上住在一起，因为你们每天都在一起八、九、十个小时。"
+    },
+    {
+      "id": 11,
+      "start": 33.0,
+      "end": 34.0,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 12,
+      "start": 34.0,
+      "end": 36.1,
+      "en": "So that's what we're going to be looking at today.",
+      "zh": "这就是我们今天要关注的内容。"
+    },
+    {
+      "id": 13,
+      "start": 36.1,
+      "end": 37.46,
+      "en": "Some language related to this topic.",
+      "zh": "与此主题相关的一些语言。"
+    },
+    {
+      "id": 14,
+      "start": 37.84,
+      "end": 39.68,
+      "en": "So let's listen to the dialogue for the first time.",
+      "zh": "所以让我们第一次听对话。"
+    },
+    {
+      "id": 15,
+      "start": 46.27,
+      "end": 48.15,
+      "en": "Hey, Mary, can you cut that out?",
+      "zh": "嘿，玛丽，你能不能别敲了？"
+    },
+    {
+      "id": 16,
+      "start": 48.67,
+      "end": 49.25,
+      "en": "Cut what out?",
+      "zh": "别干什么？"
+    },
+    {
+      "id": 17,
+      "start": 49.69,
+      "end": 50.41,
+      "en": "I'm not doing anything.",
+      "zh": "我什么都没做。"
+    },
+    {
+      "id": 18,
+      "start": 50.97,
+      "end": 53.11,
+      "en": "The tapping of your pen on your desk.",
+      "zh": "就是用笔敲桌子啊。"
+    },
+    {
+      "id": 19,
+      "start": 53.95,
+      "end": 54.71,
+      "en": "It's driving me crazy.",
+      "zh": "这快把我逼疯了。"
+    },
+    {
+      "id": 20,
+      "start": 55.61,
+      "end": 55.91,
+      "en": "Fine.",
+      "zh": "好吧。"
+    },
+    {
+      "id": 21,
+      "start": 56.45,
+      "end": 60.59,
+      "en": "By the way, would you mind not slurping your coffee every time you have a cup?",
+      "zh": "顺便说一句，你每次喝咖啡能不能别喝得那么响？"
+    },
+    {
+      "id": 22,
+      "start": 61.17,
+      "end": 62.37,
+      "en": "I don't slurp my coffee.",
+      "zh": "我喝咖啡才没出声呢。"
+    },
+    {
+      "id": 23,
+      "start": 63.36,
+      "end": 66.91,
+      "en": "And plus, how can you hear it when you're shouting into your phone all the time?",
+      "zh": "另外，当你一直对着手机大喊大叫时，你怎么能听到呢？"
+    },
+    {
+      "id": 24,
+      "start": 68.04,
+      "end": 69.13,
+      "en": "You've got to be kidding me.",
+      "zh": "你一定是在开玩笑吧。"
+    },
+    {
+      "id": 25,
+      "start": 69.68,
+      "end": 75.83,
+      "en": "You're complaining about me talking on the phone when you go out for a cigarette break ten times a day to shoot the breeze?",
+      "zh": "你每天出去抽十次烟，顺便闲聊，还好意思抱怨我打电话？"
+    },
+    {
+      "id": 26,
+      "start": 76.61,
+      "end": 80.53,
+      "en": "Look, we have a lot of accumulated anger from working in these conditions.",
+      "zh": "听着，在这种环境里工作，我们都积攒了不少怨气。"
+    },
+    {
+      "id": 27,
+      "start": 80.8,
+      "end": 83.85,
+      "en": "And it's probably okay to let off steam once in a while.",
+      "zh": "偶尔发泄一下可能是可以的。"
+    },
+    {
+      "id": 28,
+      "start": 84.3,
+      "end": 86.34,
+      "en": "But it's probably not a good idea to keep it up.",
+      "zh": "但一直这样吵下去也不太好。"
+    },
+    {
+      "id": 29,
+      "start": 86.86,
+      "end": 89.28,
+      "en": "I'm willing to forgive and forget if you are.",
+      "zh": "只要你愿意，我也愿意不再计较，把这事翻篇。"
+    },
+    {
+      "id": 30,
+      "start": 89.62,
+      "end": 89.84,
+      "en": "Fine.",
+      "zh": "好吧。"
+    },
+    {
+      "id": 31,
+      "start": 90.88,
+      "end": 91.2,
+      "en": "Let's call it truce.",
+      "zh": "咱们停战吧。"
+    },
+    {
+      "id": 32,
+      "start": 92.0,
+      "end": 94.68,
+      "en": "I'll try to be more considerate and keep the noise down.",
+      "zh": "我会尽量更加体贴并降低噪音。"
+    },
+    {
+      "id": 33,
+      "start": 95.1,
+      "end": 96.64,
+      "en": "Yeah, I'll try to do the same.",
+      "zh": "是的，我会尝试做同样的事情。"
+    },
+    {
+      "id": 34,
+      "start": 97.42,
+      "end": 101.05,
+      "en": "So I was wondering, you want to go out to dinner Friday night?",
+      "zh": "所以我想知道，你想星期五晚上出去吃饭吗？"
+    },
+    {
+      "id": 35,
+      "start": 107.94,
+      "end": 108.8,
+      "en": "All right, we're back.",
+      "zh": "好了，我们回来了。"
+    },
+    {
+      "id": 36,
+      "start": 109.08,
+      "end": 112.6,
+      "en": "So yeah, I think this is a common situation, right?",
+      "zh": "所以，是的，我认为这是一个常见的情况，对吧？"
+    },
+    {
+      "id": 37,
+      "start": 112.6,
+      "end": 115.36,
+      "en": "So common, this might even be based on our own lives.",
+      "zh": "如此普遍，这甚至可能基于我们自己的生活。"
+    },
+    {
+      "id": 38,
+      "start": 116.72,
+      "end": 116.88,
+      "en": "It is.",
+      "zh": "确实是。"
+    },
+    {
+      "id": 39,
+      "start": 117.72,
+      "end": 120.34,
+      "en": "You may not know, but Catherine and I get into fights all the time.",
+      "zh": "你可能不知道，但凯瑟琳和我一直在打架。"
+    },
+    {
+      "id": 40,
+      "start": 120.72,
+      "end": 121.28,
+      "en": "All the time.",
+      "zh": "一直。"
+    },
+    {
+      "id": 41,
+      "start": 121.72,
+      "end": 122.36,
+      "en": "No, not really.",
+      "zh": "不，也不完全是。"
+    },
+    {
+      "id": 42,
+      "start": 122.82,
+      "end": 126.7,
+      "en": "All right, so I think there was some interesting words here, but mostly phrases.",
+      "zh": "好吧，所以我认为这里有一些有趣的词，但主要是短语。"
+    },
+    {
+      "id": 43,
+      "start": 127.12,
+      "end": 133.2,
+      "en": "So let's start with the words first on language takeaway.",
+      "zh": "所以让我们先从语言外卖的单词开始。"
+    },
+    {
+      "id": 44,
+      "start": 133.2,
+      "end": 133.51,
+      "en": "Language takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 45,
+      "start": 135.3,
+      "end": 139.6,
+      "en": "All right, so the first word, as you might have guessed, has to do with eating and drinking.",
+      "zh": "好吧，正如您可能已经猜到的那样，第一个词与饮食和饮食有关。"
+    },
+    {
+      "id": 46,
+      "start": 139.96,
+      "end": 141.0,
+      "en": "This is called slurping.",
+      "zh": "这叫做吞噬。"
+    },
+    {
+      "id": 47,
+      "start": 141.98,
+      "end": 142.84,
+      "en": "To slurp.",
+      "zh": "啜饮。"
+    },
+    {
+      "id": 48,
+      "start": 142.84,
+      "end": 143.28,
+      "en": "To slurp.",
+      "zh": "啜饮。"
+    },
+    {
+      "id": 49,
+      "start": 143.84,
+      "end": 146.16,
+      "en": "So the noun, the thing is slurping.",
+      "zh": "所以名词，这东西在吞噬。"
+    },
+    {
+      "id": 50,
+      "start": 146.16,
+      "end": 150.78,
+      "en": "And it's very common with people who eat their food quickly.",
+      "zh": "这在快速吃食物的人中很常见。"
+    },
+    {
+      "id": 51,
+      "start": 151.92,
+      "end": 152.1,
+      "en": "Like soup.",
+      "zh": "像汤。"
+    },
+    {
+      "id": 52,
+      "start": 152.92,
+      "end": 156.82,
+      "en": "Yeah, soup or, you know, yeah, or when they're eating soup noodles.",
+      "zh": "是的，汤，或者，你知道，是的，或者当他们吃汤面时。"
+    },
+    {
+      "id": 53,
+      "start": 158.3,
+      "end": 167.46,
+      "en": "Or sometimes when you have a drink and you're drinking it through a straw, towards the end, you're just like trying to get the very last part at the bottom.",
+      "zh": "或者有时当你喝了一杯并且你通过吸管喝它时，你就像试图把最后一部分放在底部。"
+    },
+    {
+      "id": 54,
+      "start": 167.76,
+      "end": 169.52,
+      "en": "So yeah, the straw slurps.",
+      "zh": "所以，是的，稻草啜饮。"
+    },
+    {
+      "id": 55,
+      "start": 169.77,
+      "end": 172.77,
+      "en": "Yeah, so slurping, some people really can't stand it.",
+      "zh": "是的，这么吃力，有些人真的受不了了。"
+    },
+    {
+      "id": 56,
+      "start": 174.4,
+      "end": 175.69,
+      "en": "Sometimes you don't even notice that you're doing it.",
+      "zh": "有时你甚至没有注意到你正在这样做。"
+    },
+    {
+      "id": 57,
+      "start": 176.08,
+      "end": 176.81,
+      "en": "No, absolutely not.",
+      "zh": "不，绝对不是。"
+    },
+    {
+      "id": 58,
+      "start": 177.36,
+      "end": 180.44,
+      "en": "All right, so apart from slurping, what else do we have?",
+      "zh": "好吧，除了啜饮之外，我们还有什么？"
+    },
+    {
+      "id": 59,
+      "start": 180.44,
+      "end": 182.01,
+      "en": "We've got a great word here, accumulated.",
+      "zh": "我们在这里有一个很好的词，积累。"
+    },
+    {
+      "id": 60,
+      "start": 183.0,
+      "end": 184.89,
+      "en": "So a lot of accumulated anger.",
+      "zh": "于是就积累了不少的愤怒。"
+    },
+    {
+      "id": 61,
+      "start": 185.09,
+      "end": 187.17,
+      "en": "The word is a verb, to accumulate.",
+      "zh": "词是动词，累积。"
+    },
+    {
+      "id": 62,
+      "start": 187.67,
+      "end": 188.65,
+      "en": "And what does that mean?",
+      "zh": "那是什么意思？"
+    },
+    {
+      "id": 63,
+      "start": 188.95,
+      "end": 192.55,
+      "en": "It means to kind of grow or to become more and more.",
+      "zh": "这意味着成长或变得越来越多。"
+    },
+    {
+      "id": 64,
+      "start": 192.92,
+      "end": 193.92,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 65,
+      "start": 193.92,
+      "end": 194.87,
+      "en": "So you're like saving it.",
+      "zh": "所以你喜欢保存它。"
+    },
+    {
+      "id": 66,
+      "start": 195.36,
+      "end": 196.36,
+      "en": "Or even it's like building up.",
+      "zh": "甚至就像建立起来一样。"
+    },
+    {
+      "id": 67,
+      "start": 196.6,
+      "end": 204.68,
+      "en": "You know, we say this oftentimes in Chicago where it snows a lot in the winter, that there's a foot of snow accumulated on the ground.",
+      "zh": "你知道，我们经常在芝加哥说，冬天会下很多雪，地上积聚了一英尺的雪。"
+    },
+    {
+      "id": 68,
+      "start": 204.68,
+      "end": 208.4,
+      "en": "That means there's a lot of snow and every time it snows, it keeps getting bigger.",
+      "zh": "这意味着有很多雪，每次下雪时，它都会变得越来越大。"
+    },
+    {
+      "id": 69,
+      "start": 208.8,
+      "end": 209.8,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 70,
+      "start": 209.8,
+      "end": 210.66,
+      "en": "So to accumulate.",
+      "zh": "所以要积累。"
+    },
+    {
+      "id": 71,
+      "start": 211.04,
+      "end": 213.8,
+      "en": "So accumulated anger, your anger is getting bigger and bigger.",
+      "zh": "所以积累的愤怒，你的愤怒越来越大。"
+    },
+    {
+      "id": 72,
+      "start": 213.96,
+      "end": 216.08,
+      "en": "Right, because you never tell anyone about your anger.",
+      "zh": "对，因为你永远不会告诉任何人你的愤怒。"
+    },
+    {
+      "id": 73,
+      "start": 216.08,
+      "end": 218.4,
+      "en": "So it keeps building and it keeps piling up.",
+      "zh": "所以它一直在建设，它不断堆积起来。"
+    },
+    {
+      "id": 74,
+      "start": 218.76,
+      "end": 219.2,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 75,
+      "start": 219.76,
+      "end": 222.4,
+      "en": "Well, towards the end, they said, well, let's call a truce.",
+      "zh": "好吧，在接近尾声时，他们说，好吧，让我们称之为休战。"
+    },
+    {
+      "id": 76,
+      "start": 223.06,
+      "end": 224.36,
+      "en": "So they want to call a truce.",
+      "zh": "所以他们想叫休战。"
+    },
+    {
+      "id": 77,
+      "start": 224.36,
+      "end": 227.16,
+      "en": "All right, a truce is another word for a peace.",
+      "zh": "好吧，休战是和平的另一个词。"
+    },
+    {
+      "id": 78,
+      "start": 227.16,
+      "end": 232.66,
+      "en": "And so this is a way that you can stop fighting and say that you and I have been fighting for a long time.",
+      "zh": "所以这是一种你可以停止战斗并说你和我已经战斗了很长时间的方式。"
+    },
+    {
+      "id": 79,
+      "start": 232.96,
+      "end": 236.84,
+      "en": "We may not come to a deal, but we'll say truce from now on.",
+      "zh": "我们可能不会达成协议，但我们会说从现在开始休战。"
+    },
+    {
+      "id": 80,
+      "start": 236.84,
+      "end": 237.53,
+      "en": "We just won't fight.",
+      "zh": "我们只是不会打架。"
+    },
+    {
+      "id": 81,
+      "start": 237.84,
+      "end": 238.84,
+      "en": "We won't fight about it.",
+      "zh": "我们不会为此而战。"
+    },
+    {
+      "id": 82,
+      "start": 238.84,
+      "end": 238.97,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 83,
+      "start": 239.84,
+      "end": 240.87,
+      "en": "Brothers and sisters often call truces.",
+      "zh": "兄弟姐妹经常叫休战。"
+    },
+    {
+      "id": 84,
+      "start": 241.56,
+      "end": 242.56,
+      "en": "Truce.",
+      "zh": "休战。"
+    },
+    {
+      "id": 85,
+      "start": 242.56,
+      "end": 246.24,
+      "en": "And well, if you're calling a truce, you're trying to be more considerate.",
+      "zh": "好吧，如果你叫休战，你就是在努力变得更加体贴。"
+    },
+    {
+      "id": 86,
+      "start": 246.43,
+      "end": 246.67,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 87,
+      "start": 246.93,
+      "end": 250.19,
+      "en": "Considerate, like you're saying, is a way to be or a way to act.",
+      "zh": "体贴，就像你说的那样，是一种成为或采取行动的方式。"
+    },
+    {
+      "id": 88,
+      "start": 250.19,
+      "end": 254.65,
+      "en": "And considerate often has to do with how you act towards other people.",
+      "zh": "体贴与体贴通常与您如何对待他人有关。"
+    },
+    {
+      "id": 89,
+      "start": 254.95,
+      "end": 259.45,
+      "en": "So it's being nice to other people or thinking about other people's feelings before yourself.",
+      "zh": "所以它是对他人友善或在自己面前思考别人的感受。"
+    },
+    {
+      "id": 90,
+      "start": 259.83,
+      "end": 260.09,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 91,
+      "start": 260.6,
+      "end": 263.87,
+      "en": "So if you're considerate, then you are maybe more polite.",
+      "zh": "所以如果你体贴的，那么你可能会更有礼貌。"
+    },
+    {
+      "id": 92,
+      "start": 264.36,
+      "end": 266.93,
+      "en": "You think about the other person's feelings before you do anything.",
+      "zh": "在你做任何事情之前，你会考虑对方的感受。"
+    },
+    {
+      "id": 93,
+      "start": 267.31,
+      "end": 267.53,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 94,
+      "start": 268.04,
+      "end": 270.99,
+      "en": "You just say nice little things like please and thank you and I'm sorry.",
+      "zh": "你只是说好话，谢谢你，我很抱歉。"
+    },
+    {
+      "id": 95,
+      "start": 271.44,
+      "end": 274.15,
+      "en": "And these things are all ways of being considerate.",
+      "zh": "这些东西都是体贴的方式。"
+    },
+    {
+      "id": 96,
+      "start": 274.6,
+      "end": 274.79,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 97,
+      "start": 275.6,
+      "end": 276.6,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 98,
+      "start": 276.6,
+      "end": 277.75,
+      "en": "So four great words on language takeaway.",
+      "zh": "所以关于语言外卖的四个很棒的词。"
+    },
+    {
+      "id": 99,
+      "start": 278.72,
+      "end": 281.19,
+      "en": "Why don't we move on now to Fluency Builder.",
+      "zh": "我们为什么不现在继续讨论 Fluency Builder。"
+    },
+    {
+      "id": 100,
+      "start": 283.44,
+      "end": 283.73,
+      "en": "Fluency Builder.",
+      "zh": "流利表达。"
+    },
+    {
+      "id": 101,
+      "start": 284.44,
+      "end": 285.96,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 102,
+      "start": 285.96,
+      "end": 291.26,
+      "en": "So as we mentioned, this dialogue is very, very rich in a lot of different phrases.",
+      "zh": "正如我们所提到的，这种对话非常非常丰富，有很多不同的短语。"
+    },
+    {
+      "id": 103,
+      "start": 291.62,
+      "end": 292.88,
+      "en": "So let's start with a couple of them.",
+      "zh": "所以让我们从其中几个开始。"
+    },
+    {
+      "id": 104,
+      "start": 293.32,
+      "end": 296.06,
+      "en": "The very first one and the title of the lesson, cut it out.",
+      "zh": "第一个和课程的标题，把它剪掉。"
+    },
+    {
+      "id": 105,
+      "start": 296.42,
+      "end": 297.14,
+      "en": "Cut that out.",
+      "zh": "剪掉那个。"
+    },
+    {
+      "id": 106,
+      "start": 297.73,
+      "end": 299.71,
+      "en": "Hey, Mary, can you cut that out?",
+      "zh": "嘿，玛丽，你能不能别敲了？"
+    },
+    {
+      "id": 107,
+      "start": 300.16,
+      "end": 300.35,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 108,
+      "start": 301.16,
+      "end": 304.72,
+      "en": "So you're not actually saying to cut something with scissors or something.",
+      "zh": "所以你实际上并不是说用剪刀或其他东西剪东西。"
+    },
+    {
+      "id": 109,
+      "start": 304.72,
+      "end": 308.23,
+      "en": "No, this is, it's a way of saying, can you stop that?",
+      "zh": "不，这是，这是一种说法，你能阻止吗？"
+    },
+    {
+      "id": 110,
+      "start": 308.6,
+      "end": 309.07,
+      "en": "Stop it.",
+      "zh": "住手。"
+    },
+    {
+      "id": 111,
+      "start": 309.19,
+      "end": 309.87,
+      "en": "Stop doing that.",
+      "zh": "停止这样做。"
+    },
+    {
+      "id": 112,
+      "start": 310.01,
+      "end": 310.39,
+      "en": "Stop it.",
+      "zh": "住手。"
+    },
+    {
+      "id": 113,
+      "start": 310.57,
+      "end": 310.95,
+      "en": "Quit it.",
+      "zh": "退出它。"
+    },
+    {
+      "id": 114,
+      "start": 312.6,
+      "end": 313.6,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 115,
+      "start": 313.6,
+      "end": 314.6,
+      "en": "Cut that out.",
+      "zh": "剪掉那个。"
+    },
+    {
+      "id": 116,
+      "start": 314.6,
+      "end": 315.6,
+      "en": "Cut it out.",
+      "zh": "把它剪掉。"
+    },
+    {
+      "id": 117,
+      "start": 315.6,
+      "end": 320.64,
+      "en": "So if someone's doing something that's really annoying to you, it's not very nice to say, but you can say, hey, cut that out.",
+      "zh": "因此，如果有人在做一些对你来说真的很烦人的事情，那就不是很好说，但你可以说，嘿，把它剪掉。"
+    },
+    {
+      "id": 118,
+      "start": 320.64,
+      "end": 320.87,
+      "en": "Cut it out.",
+      "zh": "把它剪掉。"
+    },
+    {
+      "id": 119,
+      "start": 321.64,
+      "end": 326.46,
+      "en": "Or if someone's doing something mean to someone, like my brother used to hit me, my mom would say, Peter, cut that out.",
+      "zh": "或者，如果有人对某人做某事，就像我哥哥过去打我一样，我妈妈会说，彼得，把它剪掉。"
+    },
+    {
+      "id": 120,
+      "start": 327.26,
+      "end": 327.94,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 121,
+      "start": 328.16,
+      "end": 329.82,
+      "en": "So it is a good mom phrase as well.",
+      "zh": "所以这也是一个很好的妈妈短语。"
+    },
+    {
+      "id": 122,
+      "start": 330.36,
+      "end": 330.92,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 123,
+      "start": 331.36,
+      "end": 332.78,
+      "en": "Moving on to our next phrase.",
+      "zh": "继续我们的下一个短语。"
+    },
+    {
+      "id": 124,
+      "start": 333.36,
+      "end": 337.24,
+      "en": "The guy said that the tapping on the desk was driving him crazy.",
+      "zh": "那家伙说，桌子上的敲击让他发疯了。"
+    },
+    {
+      "id": 125,
+      "start": 337.5,
+      "end": 338.9,
+      "en": "It's driving me crazy.",
+      "zh": "这快把我逼疯了。"
+    },
+    {
+      "id": 126,
+      "start": 339.68,
+      "end": 339.98,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 127,
+      "start": 340.16,
+      "end": 351.16,
+      "en": "To drive someone crazy means to make someone just feel like they're going nuts or, you know, it just, it makes you kind of angry or frustrated or tense.",
+      "zh": "让某人发疯意味着让某人觉得他们快疯了，或者，你知道，这只是，它让你有点生气、沮丧或紧张。"
+    },
+    {
+      "id": 128,
+      "start": 351.16,
+      "end": 354.35,
+      "en": "But it can also be used like in a romantic sense, right?",
+      "zh": "但它也可以像浪漫一样使用，对吧？"
+    },
+    {
+      "id": 129,
+      "start": 354.6,
+      "end": 355.55,
+      "en": "That girl drives me crazy.",
+      "zh": "那个女孩让我发疯。"
+    },
+    {
+      "id": 130,
+      "start": 355.89,
+      "end": 358.75,
+      "en": "It means like he can't even think about anything else.",
+      "zh": "这意味着他甚至不能考虑其他任何事情。"
+    },
+    {
+      "id": 131,
+      "start": 359.12,
+      "end": 360.12,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 132,
+      "start": 360.12,
+      "end": 361.71,
+      "en": "So in this case, what drives you crazy?",
+      "zh": "那么在这种情况下，是什么让你发疯？"
+    },
+    {
+      "id": 133,
+      "start": 363.28,
+      "end": 364.52,
+      "en": "When...",
+      "zh": "当..."
+    },
+    {
+      "id": 134,
+      "start": 364.52,
+      "end": 365.47,
+      "en": "I'll tell you what drives me crazy.",
+      "zh": "我会告诉你是什么让我发疯。"
+    },
+    {
+      "id": 135,
+      "start": 366.68,
+      "end": 370.3,
+      "en": "When people clip their fingernails and toenails at the office.",
+      "zh": "当人们在办公室夹住指甲和脚趾甲时。"
+    },
+    {
+      "id": 136,
+      "start": 370.84,
+      "end": 372.8,
+      "en": "I can't believe.",
+      "zh": "我不敢相信。"
+    },
+    {
+      "id": 137,
+      "start": 372.94,
+      "end": 374.16,
+      "en": "Well, it drives me crazy.",
+      "zh": "好吧，它让我发疯。"
+    },
+    {
+      "id": 138,
+      "start": 374.16,
+      "end": 379.02,
+      "en": "Like for example, when somebody or my brother leaves his clothes lying on the floor in the living room.",
+      "zh": "例如，当某人或我的兄弟将他的衣服留在客厅的地板上时。"
+    },
+    {
+      "id": 139,
+      "start": 379.68,
+      "end": 380.46,
+      "en": "That's annoying too.",
+      "zh": "这也很烦人。"
+    },
+    {
+      "id": 140,
+      "start": 380.8,
+      "end": 381.8,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 141,
+      "start": 381.8,
+      "end": 382.8,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 142,
+      "start": 382.8,
+      "end": 383.8,
+      "en": "So that drives me crazy.",
+      "zh": "所以这让我发疯。"
+    },
+    {
+      "id": 143,
+      "start": 383.8,
+      "end": 384.8,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 144,
+      "start": 384.8,
+      "end": 389.0,
+      "en": "So moving on to our third phrase, this is a pretty big one, but take it as a whole.",
+      "zh": "所以继续我们的第三个短语，这是一个相当大的短语，但把它作为一个整体。"
+    },
+    {
+      "id": 145,
+      "start": 389.0,
+      "end": 390.26,
+      "en": "You've got to be kidding me.",
+      "zh": "你一定是在开玩笑吧。"
+    },
+    {
+      "id": 146,
+      "start": 390.52,
+      "end": 391.52,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 147,
+      "start": 391.52,
+      "end": 393.68,
+      "en": "So this is, as you said, a fixed phrase.",
+      "zh": "所以，正如你所说，这是一个固定的短语。"
+    },
+    {
+      "id": 148,
+      "start": 394.0,
+      "end": 397.9,
+      "en": "These words usually go together and it is a perfect example of sarcasm.",
+      "zh": "这些词通常并存，它是讽刺的完美例子。"
+    },
+    {
+      "id": 149,
+      "start": 398.7,
+      "end": 399.22,
+      "en": "So it's a way...",
+      "zh": "所以这是一种方式..."
+    },
+    {
+      "id": 150,
+      "start": 399.4,
+      "end": 400.98,
+      "en": "The way you say it is very important.",
+      "zh": "你说的方式非常重要。"
+    },
+    {
+      "id": 151,
+      "start": 401.32,
+      "end": 405.36,
+      "en": "So I could say, you've got to be kidding me.",
+      "zh": "所以我可以说，你一定是在开玩笑。"
+    },
+    {
+      "id": 152,
+      "start": 405.66,
+      "end": 407.86,
+      "en": "What's a good situation for this?",
+      "zh": "这有什么好的情况？"
+    },
+    {
+      "id": 153,
+      "start": 408.24,
+      "end": 418.0,
+      "en": "Maybe I get to the airport and I'm running late and I'm really happy that I get there on time and then I see the flight is delayed seven hours.",
+      "zh": "也许我到了机场，我迟到了，我很高兴我准时到达那里，然后我看到航班延误了七个小时。"
+    },
+    {
+      "id": 154,
+      "start": 418.0,
+      "end": 419.66,
+      "en": "You've got to be kidding me.",
+      "zh": "你一定是在开玩笑吧。"
+    },
+    {
+      "id": 155,
+      "start": 419.68,
+      "end": 420.68,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 156,
+      "start": 420.68,
+      "end": 424.28,
+      "en": "so it's a way of saying I can't believe it or seriously, this isn't... yeah.",
+      "zh": "所以这是一种说我无法相信或说真的，这不是......是的。"
+    },
+    {
+      "id": 157,
+      "start": 424.28,
+      "end": 424.62,
+      "en": "What's happening?",
+      "zh": "怎么了？"
+    },
+    {
+      "id": 158,
+      "start": 425.28,
+      "end": 426.28,
+      "en": "Or what bad luck.",
+      "zh": "或者什么坏运气。"
+    },
+    {
+      "id": 159,
+      "start": 426.28,
+      "end": 426.4,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 160,
+      "start": 426.76,
+      "end": 429.42,
+      "en": "So it is a sarcastic phrase, but use it as a whole.",
+      "zh": "所以它是一个讽刺的短语，但作为一个整体使用它。"
+    },
+    {
+      "id": 161,
+      "start": 429.54,
+      "end": 431.28,
+      "en": "Usually you don't change the subject.",
+      "zh": "通常你不会改变主题。"
+    },
+    {
+      "id": 162,
+      "start": 431.28,
+      "end": 433.02,
+      "en": "You don't say, you've got to be kidding him.",
+      "zh": "你不说，你一定是在跟他开玩笑。"
+    },
+    {
+      "id": 163,
+      "start": 433.4,
+      "end": 434.16,
+      "en": "No, it's always this.",
+      "zh": "不，总是这样。"
+    },
+    {
+      "id": 164,
+      "start": 434.48,
+      "end": 436.02,
+      "en": "You've got to be kidding me.",
+      "zh": "你一定是在开玩笑吧。"
+    },
+    {
+      "id": 165,
+      "start": 436.28,
+      "end": 436.64,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 166,
+      "start": 436.96,
+      "end": 438.32,
+      "en": "Or you've got to be kidding me.",
+      "zh": "或者你一定是在开玩笑。"
+    },
+    {
+      "id": 167,
+      "start": 439.08,
+      "end": 439.56,
+      "en": "See?",
+      "zh": "看到了吧？"
+    },
+    {
+      "id": 168,
+      "start": 440.4,
+      "end": 442.16,
+      "en": "Different meetings with different inflections.",
+      "zh": "不同的会议具有不同的变化。"
+    },
+    {
+      "id": 169,
+      "start": 442.16,
+      "end": 442.6,
+      "en": "Different inflections.",
+      "zh": "不同的变形。"
+    },
+    {
+      "id": 170,
+      "start": 443.16,
+      "end": 444.24,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 171,
+      "start": 444.24,
+      "end": 444.76,
+      "en": "What's our next phrase?",
+      "zh": "下一个短语是什么？"
+    },
+    {
+      "id": 172,
+      "start": 445.8,
+      "end": 450.31,
+      "en": "Our next phrase is a good one because it doesn't mean what it sounds like.",
+      "zh": "我们的下一个短语是好的，因为它并不意味着它听起来像什么。"
+    },
+    {
+      "id": 173,
+      "start": 450.76,
+      "end": 451.76,
+      "en": "Okay?",
+      "zh": "好吗?"
+    },
+    {
+      "id": 174,
+      "start": 451.76,
+      "end": 452.85,
+      "en": "So, to shoot the breeze.",
+      "zh": "于是，吹风。"
+    },
+    {
+      "id": 175,
+      "start": 453.39,
+      "end": 453.97,
+      "en": "All right?",
+      "zh": "好吗？"
+    },
+    {
+      "id": 176,
+      "start": 454.92,
+      "end": 457.85,
+      "en": "Shoot means like you can shoot a gun and breeze is like the wind.",
+      "zh": "射击意味着你可以射击枪，微风就像风一样。"
+    },
+    {
+      "id": 177,
+      "start": 458.84,
+      "end": 462.79,
+      "en": "But here to shoot the breeze is to have a nice little conversation, just to talk about nothing.",
+      "zh": "但在这里拍摄微风就是进行一次愉快的小谈话，只是为了什么都不说。"
+    },
+    {
+      "id": 178,
+      "start": 463.64,
+      "end": 464.64,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 179,
+      "start": 464.64,
+      "end": 466.16,
+      "en": "So not really do anything, just talk a little bit.",
+      "zh": "所以没有真正做任何事情，只是说一点点。"
+    },
+    {
+      "id": 180,
+      "start": 466.37,
+      "end": 466.57,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 181,
+      "start": 466.59,
+      "end": 473.65,
+      "en": "So if we think about this in the context of this sentence, it's, you know, you go out for your cigarette break 10 times a day to shoot the breeze.",
+      "zh": "因此，如果我们在这句话的上下文中考虑这一点，那就是，你知道，你每天出去抽烟 10 次来吹微风。"
+    },
+    {
+      "id": 182,
+      "start": 474.37,
+      "end": 474.73,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 183,
+      "start": 474.96,
+      "end": 480.44,
+      "en": "So shoot means you go outside, you just talk about nothing and whatever and it's almost like you're wasting time just talking.",
+      "zh": "所以拍摄意味着你去外面，你什么都不说什么，这几乎就像你只是在浪费时间说话。"
+    },
+    {
+      "id": 184,
+      "start": 480.44,
+      "end": 480.69,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 185,
+      "start": 480.73,
+      "end": 481.51,
+      "en": "So shooting the breeze.",
+      "zh": "于是吹风。"
+    },
+    {
+      "id": 186,
+      "start": 482.44,
+      "end": 483.76,
+      "en": "You can say, oh, we were just shooting the breeze.",
+      "zh": "你可以说，哦，我们只是在吹微风。"
+    },
+    {
+      "id": 187,
+      "start": 484.17,
+      "end": 485.21,
+      "en": "Just have a nice little conversation.",
+      "zh": "只是有一个愉快的小对话。"
+    },
+    {
+      "id": 188,
+      "start": 485.72,
+      "end": 486.09,
+      "en": "Nothing important.",
+      "zh": "没什么重要的。"
+    },
+    {
+      "id": 189,
+      "start": 486.72,
+      "end": 487.72,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 190,
+      "start": 487.72,
+      "end": 489.73,
+      "en": "And our last phrase for today.",
+      "zh": "以及我们今天的最后一句话。"
+    },
+    {
+      "id": 191,
+      "start": 490.8,
+      "end": 491.42,
+      "en": "Forgive and forget.",
+      "zh": "既往不咎。"
+    },
+    {
+      "id": 192,
+      "start": 491.88,
+      "end": 492.58,
+      "en": "Let's forgive and forget.",
+      "zh": "让我们原谅和忘记。"
+    },
+    {
+      "id": 193,
+      "start": 493.48,
+      "end": 494.16,
+      "en": "Let's forgive and forget.",
+      "zh": "让我们原谅和忘记。"
+    },
+    {
+      "id": 194,
+      "start": 494.48,
+      "end": 498.84,
+      "en": "This is, these words again, like the last phrases go together.",
+      "zh": "这又是这些词，就像最后一个短语并存的一样。"
+    },
+    {
+      "id": 195,
+      "start": 498.84,
+      "end": 499.22,
+      "en": "Forgive and forget.",
+      "zh": "既往不咎。"
+    },
+    {
+      "id": 196,
+      "start": 499.84,
+      "end": 500.68,
+      "en": "So I could say this to you, Marco.",
+      "zh": "所以我可以对你说，马可。"
+    },
+    {
+      "id": 197,
+      "start": 500.84,
+      "end": 503.72,
+      "en": "I say, I know you've been fighting with your brother for 10 years.",
+      "zh": "我说，我知道你和你哥哥吵了 10 年。"
+    },
+    {
+      "id": 198,
+      "start": 503.8,
+      "end": 505.96,
+      "en": "I say finally just forgive and forget.",
+      "zh": "我说最后只是原谅和忘记。"
+    },
+    {
+      "id": 199,
+      "start": 506.28,
+      "end": 510.1,
+      "en": "It means just put everything behind you and try and start again.",
+      "zh": "这意味着把一切都抛在脑后，尝试重新开始。"
+    },
+    {
+      "id": 200,
+      "start": 510.52,
+      "end": 510.78,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 201,
+      "start": 510.98,
+      "end": 511.38,
+      "en": "Let it go.",
+      "zh": "放手。"
+    },
+    {
+      "id": 202,
+      "start": 512.52,
+      "end": 513.52,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 203,
+      "start": 513.52,
+      "end": 514.52,
+      "en": "Forgive the person, forget about it, move on.",
+      "zh": "原谅这个人，忘记它，继续前进。"
+    },
+    {
+      "id": 204,
+      "start": 514.52,
+      "end": 515.52,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 205,
+      "start": 515.52,
+      "end": 515.78,
+      "en": "Forgive and forget.",
+      "zh": "既往不咎。"
+    },
+    {
+      "id": 206,
+      "start": 516.68,
+      "end": 516.85,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 207,
+      "start": 517.68,
+      "end": 518.25,
+      "en": "So very interesting phrases.",
+      "zh": "非常有趣的短语。"
+    },
+    {
+      "id": 208,
+      "start": 518.68,
+      "end": 523.12,
+      "en": "I think they're very useful and this is very colloquial English, right?",
+      "zh": "我认为它们非常有用，这是非常口语的英语，对吧？"
+    },
+    {
+      "id": 209,
+      "start": 523.12,
+      "end": 523.25,
+      "en": "Absolutely.",
+      "zh": "当然。"
+    },
+    {
+      "id": 210,
+      "start": 524.12,
+      "end": 528.27,
+      "en": "This is stuff that you're going to hear all the time, but maybe not all together at the same time.",
+      "zh": "这是你会一直听到的东西，但也许不是同时在一起。"
+    },
+    {
+      "id": 211,
+      "start": 528.8,
+      "end": 532.43,
+      "en": "Definitely though, very helpful for interacting with foreign friends and colleagues.",
+      "zh": "当然，非常有助于与外国朋友和同事互动。"
+    },
+    {
+      "id": 212,
+      "start": 533.08,
+      "end": 533.21,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 213,
+      "start": 534.08,
+      "end": 536.69,
+      "en": "So let's listen to the dialogue for the last time and we'll be right back.",
+      "zh": "所以让我们最后一次听对话，我们会马上回来的。"
+    },
+    {
+      "id": 214,
+      "start": 543.87,
+      "end": 545.69,
+      "en": "Hey, Mary, can you cut that out?",
+      "zh": "嘿，玛丽，你能不能别敲了？"
+    },
+    {
+      "id": 215,
+      "start": 546.23,
+      "end": 546.81,
+      "en": "Cut what out?",
+      "zh": "剪掉什么？"
+    },
+    {
+      "id": 216,
+      "start": 547.27,
+      "end": 547.95,
+      "en": "I'm not doing anything.",
+      "zh": "我什么都没做。"
+    },
+    {
+      "id": 217,
+      "start": 548.47,
+      "end": 550.67,
+      "en": "The tapping of your pen on your desk.",
+      "zh": "就是用笔敲桌子啊。"
+    },
+    {
+      "id": 218,
+      "start": 551.24,
+      "end": 552.24,
+      "en": "It's driving me crazy.",
+      "zh": "这快把我逼疯了。"
+    },
+    {
+      "id": 219,
+      "start": 553.16,
+      "end": 553.46,
+      "en": "Fine.",
+      "zh": "好吧。"
+    },
+    {
+      "id": 220,
+      "start": 554.04,
+      "end": 558.14,
+      "en": "By the way, would you mind not slurping your coffee every time you have a cup?",
+      "zh": "顺便说一句，你每次喝咖啡能不能别喝得那么响？"
+    },
+    {
+      "id": 221,
+      "start": 558.7,
+      "end": 560.04,
+      "en": "I don't slurp my coffee.",
+      "zh": "我不啜饮我的咖啡。"
+    },
+    {
+      "id": 222,
+      "start": 560.88,
+      "end": 564.48,
+      "en": "Plus, how can you hear it when you're shouting into your phone all the time?",
+      "zh": "另外，当你一直对着手机大喊大叫时，你怎么能听到呢？"
+    },
+    {
+      "id": 223,
+      "start": 565.22,
+      "end": 566.66,
+      "en": "You've got to be kidding me.",
+      "zh": "你一定是在开玩笑吧。"
+    },
+    {
+      "id": 224,
+      "start": 567.0,
+      "end": 573.34,
+      "en": "You're complaining about me talking on the phone when you go out for a cigarette break 10 times a day to shoot the breeze?",
+      "zh": "你在抱怨我每天出去抽烟 10 次打电话来吹微风吗？"
+    },
+    {
+      "id": 225,
+      "start": 574.26,
+      "end": 583.89,
+      "en": "Look, we have a lot of accumulated anger from working in these conditions and it's probably okay to let off steam once in a while, but it's probably not a good idea to keep it up.",
+      "zh": "看，我们在这些条件下工作有很多积累的愤怒，偶尔发泄一下可能是可以的，但保持它可能不是一个好主意。"
+    },
+    {
+      "id": 226,
+      "start": 584.47,
+      "end": 586.81,
+      "en": "I'm willing to forgive and forget if you are.",
+      "zh": "只要你愿意，我也愿意不再计较，把这事翻篇。"
+    },
+    {
+      "id": 227,
+      "start": 587.17,
+      "end": 587.41,
+      "en": "Fine.",
+      "zh": "好吧。"
+    },
+    {
+      "id": 228,
+      "start": 588.4,
+      "end": 588.75,
+      "en": "Let's call it truce.",
+      "zh": "让我们称之为休战。"
+    },
+    {
+      "id": 229,
+      "start": 589.55,
+      "end": 592.21,
+      "en": "I'll try to be more considerate and keep the noise down.",
+      "zh": "我会尽量更加体贴并降低噪音。"
+    },
+    {
+      "id": 230,
+      "start": 592.65,
+      "end": 594.19,
+      "en": "Yeah, I'll try to do the same.",
+      "zh": "是的，我会尝试做同样的事情。"
+    },
+    {
+      "id": 231,
+      "start": 594.97,
+      "end": 598.56,
+      "en": "So I was wondering, you want to go out to dinner Friday night?",
+      "zh": "所以我想知道，你想星期五晚上出去吃饭吗？"
+    },
+    {
+      "id": 232,
+      "start": 606.99,
+      "end": 609.33,
+      "en": "So did you ever see the TV show Full House when you were a kid?",
+      "zh": "那么你小时候有没有看过电视节目 Full House？"
+    },
+    {
+      "id": 233,
+      "start": 609.85,
+      "end": 610.53,
+      "en": "I did.",
+      "zh": "我看过。"
+    },
+    {
+      "id": 234,
+      "start": 610.83,
+      "end": 611.03,
+      "en": "I did.",
+      "zh": "我看过。"
+    },
+    {
+      "id": 235,
+      "start": 612.08,
+      "end": 618.08,
+      "en": "It was popular with the Olsen twins and all of those, right?",
+      "zh": "它在奥尔森双胞胎和所有这些中都很受欢迎，对吧？"
+    },
+    {
+      "id": 236,
+      "start": 618.08,
+      "end": 619.08,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 237,
+      "start": 619.08,
+      "end": 626.2,
+      "en": "I think it, so there was an uncle on the show, Uncle Joey, and he always used to say, cut it out.",
+      "zh": "我想，所以节目中有一个叔叔，乔伊叔叔，他总是说，把它剪掉。"
+    },
+    {
+      "id": 238,
+      "start": 626.2,
+      "end": 629.2,
+      "en": "And he had like hand motions for it.",
+      "zh": "他有类似的手感。"
+    },
+    {
+      "id": 239,
+      "start": 629.2,
+      "end": 633.12,
+      "en": "And so cut it out as a way to say kind of stop it, quit it.",
+      "zh": "所以把它剪下来作为一种说停止它的方式，退出它。"
+    },
+    {
+      "id": 240,
+      "start": 633.12,
+      "end": 633.65,
+      "en": "You're killing me.",
+      "zh": "你在杀我。"
+    },
+    {
+      "id": 241,
+      "start": 633.75,
+      "end": 635.65,
+      "en": "It's like he was saying too funny.",
+      "zh": "就好像他说的太搞笑了。"
+    },
+    {
+      "id": 242,
+      "start": 636.64,
+      "end": 641.64,
+      "en": "And so whenever I hear this phrase, I always think of that early 90s TV show.",
+      "zh": "所以每当我听到这句话时，我总是会想到那个 90 年代初的电视节目。"
+    },
+    {
+      "id": 243,
+      "start": 641.64,
+      "end": 642.92,
+      "en": "Very early 90s.",
+      "zh": "90年代初。"
+    },
+    {
+      "id": 244,
+      "start": 642.92,
+      "end": 648.21,
+      "en": "Well, this whole situation with The Office as well, I think there was a TV show called The Office, right?",
+      "zh": "好吧，整个办公室的情况也一样，我想有一个叫做办公室的电视节目，对吧？"
+    },
+    {
+      "id": 245,
+      "start": 648.61,
+      "end": 651.47,
+      "en": "Yeah, there was the British Office and then there was an American version.",
+      "zh": "是的，有英国办公室，然后是美国版。"
+    },
+    {
+      "id": 246,
+      "start": 652.35,
+      "end": 660.15,
+      "en": "And it's also something about office life and how colleagues get on each other's nerves and they play pranks on each other and everyone's kind of weird.",
+      "zh": "这也是关于办公室生活以及同事如何让彼此紧张的事情，他们互相恶作剧，每个人都有点奇怪。"
+    },
+    {
+      "id": 247,
+      "start": 660.76,
+      "end": 663.02,
+      "en": "And everyone drives everyone else crazy.",
+      "zh": "每个人都让其他人发疯。"
+    },
+    {
+      "id": 248,
+      "start": 663.28,
+      "end": 663.7,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 249,
+      "start": 664.28,
+      "end": 675.53,
+      "en": "No, it's funny because once you start working in an office full time, I mean, everyone's maybe had a little bit of office experience, but when it's full time, you spend more time with your colleagues than you do with your family.",
+      "zh": "不，这很有趣，因为一旦你开始全职工作，我的意思是，每个人都可能有一点办公室经验，但是当它是全职工作时，你花在同事身上的时间比和家人在一起的时间更多。"
+    },
+    {
+      "id": 250,
+      "start": 675.77,
+      "end": 682.13,
+      "en": "It's really amazing what makes you crazy, what drives you crazy and what stuff just doesn't matter.",
+      "zh": "是什么让你发疯，是什么让你发疯，什么东西并不重要，这真是令人惊讶。"
+    },
+    {
+      "id": 251,
+      "start": 682.45,
+      "end": 683.77,
+      "en": "So this is an interesting topic.",
+      "zh": "所以这是一个有趣的话题。"
+    },
+    {
+      "id": 252,
+      "start": 683.77,
+      "end": 685.31,
+      "en": "We really want to hear from you guys.",
+      "zh": "我们真的很想听听你们的意见。"
+    },
+    {
+      "id": 253,
+      "start": 685.87,
+      "end": 688.17,
+      "en": "Many of you probably work at an office, so tell us.",
+      "zh": "你们中的许多人可能在办公室工作，所以告诉我们。"
+    },
+    {
+      "id": 254,
+      "start": 688.72,
+      "end": 691.68,
+      "en": "So come and tell us what drives you crazier.",
+      "zh": "所以来告诉我们是什么让你更疯狂。"
+    },
+    {
+      "id": 255,
+      "start": 691.68,
+      "end": 693.71,
+      "en": "Maybe what colleague is driving you mad.",
+      "zh": "也许是什么同事让你发疯。"
+    },
+    {
+      "id": 256,
+      "start": 694.16,
+      "end": 694.95,
+      "en": "You don't have to use names.",
+      "zh": "您不必使用名称。"
+    },
+    {
+      "id": 257,
+      "start": 694.97,
+      "end": 698.01,
+      "en": "You can just use nicknames if you want.",
+      "zh": "如果需要，您可以使用昵称。"
+    },
+    {
+      "id": 258,
+      "start": 698.63,
+      "end": 698.79,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 259,
+      "start": 699.56,
+      "end": 701.92,
+      "en": "So we'll be waiting for you at EnglishPod.com.",
+      "zh": "所以我们将在 Englishpod.com 等您。"
+    },
+    {
+      "id": 260,
+      "start": 701.92,
+      "end": 704.21,
+      "en": "Leave questions and comments and we'll see you guys next time.",
+      "zh": "留下问题和评论，我们下次再见。"
+    },
+    {
+      "id": 261,
+      "start": 704.56,
+      "end": 705.56,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 262,
+      "start": 705.56,
+      "end": 706.56,
+      "en": "Bye.",
+      "zh": "再见。"
+    },
+    {
+      "id": 263,
+      "start": 706.56,
+      "end": 713.927,
+      "en": "Bye.",
+      "zh": "再见。"
+    }
+  ],
+  "dialog": {
+    "start": 46.27,
+    "end": 101.05,
+    "segmentIds": [
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+    ]
+  }
+}

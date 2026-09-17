@@ -1,0 +1,2257 @@
+{
+  "version": 1,
+  "id": 37,
+  "number": "0037",
+  "title": "Intermediate - Chinese New Year",
+  "audio": "mp3/37. Intermediate - Chinese New Year.mp3",
+  "duration": 823.170625,
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.26,
+      "end": 3.76,
+      "en": "Hello English learners, welcome to EnglishPod.",
+      "zh": "您好英语学习者，欢迎来到 Englishpod。"
+    },
+    {
+      "id": 2,
+      "start": 3.94,
+      "end": 4.48,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 4.82,
+      "end": 5.5,
+      "en": "And I'm Erica.",
+      "zh": "我叫 Erica。"
+    },
+    {
+      "id": 4,
+      "start": 6.34,
+      "end": 9.14,
+      "en": "And today we have a very special guest in our studio, Daini.",
+      "zh": "今天我们的工作室有一位非常特别的客人，戴尼。"
+    },
+    {
+      "id": 5,
+      "start": 9.6,
+      "end": 11.04,
+      "en": "Hi everyone, I'm Daini.",
+      "zh": "大家好，我是戴尼。"
+    },
+    {
+      "id": 6,
+      "start": 11.04,
+      "end": 16.46,
+      "en": "Daini is part of our EnglishPod team and today she's going to help us with this Chinese New Year's lesson.",
+      "zh": "Daini 是我们 EnglishPod 团队的一员，今天她将帮助我们完成这个农历新年课程。"
+    },
+    {
+      "id": 7,
+      "start": 17.1,
+      "end": 21.16,
+      "en": "It's an intermediate lesson but it has a lot of cultural aspects about Chinese New Year.",
+      "zh": "这是一个中级课程，但它有很多关于农历新年的文化方面。"
+    },
+    {
+      "id": 8,
+      "start": 21.72,
+      "end": 24.08,
+      "en": "So that's what Daini is going to help us out with today.",
+      "zh": "所以这就是戴尼今天要帮助我们解决的问题。"
+    },
+    {
+      "id": 9,
+      "start": 24.08,
+      "end": 33.53,
+      "en": "Yes, today we're going to learn a little bit about Chinese New Year in English and we're also going to learn some language for describing things that we're excited about.",
+      "zh": "是的，今天我们将用英语学习一些关于中国新年的知识，我们还将学习一些语言来描述我们兴奋的事情。"
+    },
+    {
+      "id": 10,
+      "start": 33.95,
+      "end": 35.79,
+      "en": "Okay, yeah, I'm excited to hear the show.",
+      "zh": "好的，是的，我很高兴听到这个节目。"
+    },
+    {
+      "id": 11,
+      "start": 36.25,
+      "end": 40.07,
+      "en": "Okay, so let's listen to the dialogue now and then when we come back we'll explain everything.",
+      "zh": "好的，让我们不时听对话，当我们回来时，我们会解释一切。"
+    },
+    {
+      "id": 12,
+      "start": 47.46,
+      "end": 50.18,
+      "en": "I'm so excited about Chinese New Year.",
+      "zh": "我太期待过年了。"
+    },
+    {
+      "id": 13,
+      "start": 50.7,
+      "end": 51.84,
+      "en": "When do I get to visit grandma?",
+      "zh": "我什么时候可以去拜访奶奶？"
+    },
+    {
+      "id": 14,
+      "start": 52.56,
+      "end": 54.2,
+      "en": "Grandma makes the best dumplings in the world.",
+      "zh": "奶奶包的饺子天下第一。"
+    },
+    {
+      "id": 15,
+      "start": 54.96,
+      "end": 60.72,
+      "en": "Ah, right, sounds to me like you're more excited about dumplings than seeing your grandma.",
+      "zh": "啊，对了，在我看来，你对饺子比见奶奶更兴奋。"
+    },
+    {
+      "id": 16,
+      "start": 60.72,
+      "end": 61.85,
+      "en": "Of course I miss grandma too.",
+      "zh": "我当然也想念奶奶。"
+    },
+    {
+      "id": 17,
+      "start": 62.44,
+      "end": 64.01,
+      "en": "I bet she's going to teach me how to play mahjong.",
+      "zh": "我敢打赌她会教我如何打麻将。"
+    },
+    {
+      "id": 18,
+      "start": 64.59,
+      "end": 67.25,
+      "en": "Hey, dad, are you going to buy me firecrackers this year?",
+      "zh": "嘿，爸爸，你今年要给我买鞭炮吗？"
+    },
+    {
+      "id": 19,
+      "start": 67.84,
+      "end": 69.44,
+      "en": "We're going to have the best fireworks.",
+      "zh": "我们要放最漂亮的烟花。"
+    },
+    {
+      "id": 20,
+      "start": 69.44,
+      "end": 70.89,
+      "en": "I'm really looking forward to lighting them.",
+      "zh": "我真想赶快点燃它们。"
+    },
+    {
+      "id": 21,
+      "start": 71.35,
+      "end": 73.61,
+      "en": "Son, firecrackers aren't toys.",
+      "zh": "儿子，鞭炮不是玩具。"
+    },
+    {
+      "id": 22,
+      "start": 74.27,
+      "end": 74.79,
+      "en": "They are dangerous.",
+      "zh": "它们很危险。"
+    },
+    {
+      "id": 23,
+      "start": 75.72,
+      "end": 77.27,
+      "en": "No, fireworks are awesome.",
+      "zh": "不，烟花可棒了。"
+    },
+    {
+      "id": 24,
+      "start": 77.87,
+      "end": 79.57,
+      "en": "Wow, don't you remember?",
+      "zh": "哇，你不记得了吗？"
+    },
+    {
+      "id": 25,
+      "start": 80.37,
+      "end": 85.61,
+      "en": "Last year when I set off the firecrackers, you covered both your ears and hid behind your mother.",
+      "zh": "去年我放鞭炮的时候，你捂住了耳朵，躲在妈妈身后。"
+    },
+    {
+      "id": 26,
+      "start": 86.37,
+      "end": 89.35,
+      "en": "Dad, I was scared because I saw a bug, that's all.",
+      "zh": "爸爸，我很害怕，因为我看到了一个错误，仅此而已。"
+    },
+    {
+      "id": 27,
+      "start": 90.32,
+      "end": 90.67,
+      "en": "Really?",
+      "zh": "真的吗？"
+    },
+    {
+      "id": 28,
+      "start": 91.45,
+      "end": 94.07,
+      "en": "Oh, and I can't wait to watch the dragon dance.",
+      "zh": "我还迫不及待想看舞龙呢。"
+    },
+    {
+      "id": 29,
+      "start": 94.61,
+      "end": 96.57,
+      "en": "Dad, can I sit on your shoulders this time?",
+      "zh": "爸，这次我能骑在你肩上吗？"
+    },
+    {
+      "id": 30,
+      "start": 96.81,
+      "end": 98.27,
+      "en": "Hey, I offered last year.",
+      "zh": "嘿，去年我就说可以了。"
+    },
+    {
+      "id": 31,
+      "start": 98.93,
+      "end": 99.76,
+      "en": "Well, I...",
+      "zh": "嗯，我……"
+    },
+    {
+      "id": 32,
+      "start": 99.76,
+      "end": 101.91,
+      "en": "Anyways, I was just thinking of the red envelopes.",
+      "zh": "反正我刚才在想红包。"
+    },
+    {
+      "id": 33,
+      "start": 102.28,
+      "end": 105.11,
+      "en": "I want to make a list of all the things I'm going to buy with my red envelope money.",
+      "zh": "我要列个清单，看看红包钱都买些什么。"
+    },
+    {
+      "id": 34,
+      "start": 105.52,
+      "end": 105.99,
+      "en": "I can't wait.",
+      "zh": "我等不及了。"
+    },
+    {
+      "id": 35,
+      "start": 106.52,
+      "end": 107.59,
+      "en": "I'm going to have so much money.",
+      "zh": "我会有好多钱！"
+    },
+    {
+      "id": 36,
+      "start": 108.07,
+      "end": 109.87,
+      "en": "Mom, can I get a pen and a piece of paper?",
+      "zh": "妈妈，我可以买一支笔和一张纸吗？"
+    },
+    {
+      "id": 37,
+      "start": 110.69,
+      "end": 111.41,
+      "en": "I want a new transformer.",
+      "zh": "我想要一个新的变形金刚。"
+    },
+    {
+      "id": 38,
+      "start": 111.75,
+      "end": 112.69,
+      "en": "No, two transformers.",
+      "zh": "不，是两个变形金刚。"
+    },
+    {
+      "id": 39,
+      "start": 112.72,
+      "end": 113.72,
+      "en": "I'm going to surprise.",
+      "zh": "我会出人意料的。"
+    },
+    {
+      "id": 40,
+      "start": 113.9,
+      "end": 114.32,
+      "en": "Wheeljack.",
+      "zh": "千斤顶，变形金刚中的角色。"
+    },
+    {
+      "id": 41,
+      "start": 114.66,
+      "end": 115.62,
+      "en": "I'll get a PSP game.",
+      "zh": "我还要买一款PSP游戏。"
+    },
+    {
+      "id": 42,
+      "start": 115.72,
+      "end": 130.08,
+      "en": "Okay, so Chinese New Year.",
+      "zh": "好吧，那么中国新年。"
+    },
+    {
+      "id": 43,
+      "start": 130.1,
+      "end": 131.62,
+      "en": "A lot of exciting vocabulary here.",
+      "zh": "这里有很多令人兴奋的词汇。"
+    },
+    {
+      "id": 44,
+      "start": 132.8,
+      "end": 136.48,
+      "en": "Before we get into describing it, let's look at the vocabulary that we saw.",
+      "zh": "在我们描述它之前，让我们看看我们看到的词汇。"
+    },
+    {
+      "id": 45,
+      "start": 136.48,
+      "end": 137.22,
+      "en": "In language takeaway.",
+      "zh": "在语言外卖中。"
+    },
+    {
+      "id": 46,
+      "start": 139.28,
+      "end": 139.88,
+      "en": "Language takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 47,
+      "start": 141.32,
+      "end": 143.45,
+      "en": "The first word on language takeaway, dumplings.",
+      "zh": "关于语言外卖的第一个词，饺子。"
+    },
+    {
+      "id": 48,
+      "start": 144.16,
+      "end": 144.33,
+      "en": "Dumplings.",
+      "zh": "饺子。"
+    },
+    {
+      "id": 49,
+      "start": 145.16,
+      "end": 145.67,
+      "en": "Dumplings.",
+      "zh": "饺子。"
+    },
+    {
+      "id": 50,
+      "start": 146.03,
+      "end": 146.41,
+      "en": "Dumplings.",
+      "zh": "饺子。"
+    },
+    {
+      "id": 51,
+      "start": 147.05,
+      "end": 154.19,
+      "en": "Well, in Chinese, we call it shuǐjiǎo, and it's a very traditional Chinese food and it's getting very famous now.",
+      "zh": "好吧，在中文中，我们称之为 shuǐjiǎo，它是一种非常传统的中国菜，现在变得非常有名。"
+    },
+    {
+      "id": 52,
+      "start": 154.92,
+      "end": 161.08,
+      "en": "Yes, so it's basically small pieces of dough with maybe some meat or some vegetables inside.",
+      "zh": "是的，所以它基本上是小块面团，里面可能有一些肉或一些蔬菜。"
+    },
+    {
+      "id": 53,
+      "start": 161.52,
+      "end": 162.74,
+      "en": "And then they are boiled.",
+      "zh": "然后它们被煮沸。"
+    },
+    {
+      "id": 54,
+      "start": 163.2,
+      "end": 163.84,
+      "en": "Usually in a soup.",
+      "zh": "通常在汤中。"
+    },
+    {
+      "id": 55,
+      "start": 164.2,
+      "end": 164.6,
+      "en": "In a soup.",
+      "zh": "在汤中。"
+    },
+    {
+      "id": 56,
+      "start": 165.48,
+      "end": 166.48,
+      "en": "And then they also have fried dumplings.",
+      "zh": "然后他们还有炸饺子。"
+    },
+    {
+      "id": 57,
+      "start": 166.48,
+      "end": 167.48,
+      "en": "Yeah, yeah, that's right.",
+      "zh": "是的，是的，没错。"
+    },
+    {
+      "id": 58,
+      "start": 167.48,
+      "end": 168.02,
+      "en": "Which are really good.",
+      "zh": "这真的很好。"
+    },
+    {
+      "id": 59,
+      "start": 168.48,
+      "end": 172.54,
+      "en": "So, if you know Italian food, they're really similar to a tortellini.",
+      "zh": "所以，如果你知道意大利菜，它们真的很像意大利饺子。"
+    },
+    {
+      "id": 60,
+      "start": 173.06,
+      "end": 173.36,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 61,
+      "start": 174.52,
+      "end": 177.4,
+      "en": "Or in Latin America, it's very similar to maybe an empanada.",
+      "zh": "或者在拉丁美洲，它可能非常类似于肉馅卷饼。"
+    },
+    {
+      "id": 62,
+      "start": 177.4,
+      "end": 179.92,
+      "en": "It's like a small little empanada.",
+      "zh": "它就像一个小肉馅卷饼。"
+    },
+    {
+      "id": 63,
+      "start": 180.8,
+      "end": 182.16,
+      "en": "Marco, what's our next word?",
+      "zh": "马可，我们的下一个词是什么？"
+    },
+    {
+      "id": 64,
+      "start": 182.52,
+      "end": 186.16,
+      "en": "All right, our next word, firecrackers.",
+      "zh": "好吧，我们的下一个词，鞭炮。"
+    },
+    {
+      "id": 65,
+      "start": 186.16,
+      "end": 187.16,
+      "en": "Firecrackers.",
+      "zh": "鞭炮。"
+    },
+    {
+      "id": 66,
+      "start": 187.71,
+      "end": 188.16,
+      "en": "Firecrackers.",
+      "zh": "鞭炮。"
+    },
+    {
+      "id": 67,
+      "start": 188.16,
+      "end": 188.55,
+      "en": "Firecrackers.",
+      "zh": "鞭炮。"
+    },
+    {
+      "id": 68,
+      "start": 189.96,
+      "end": 191.11,
+      "en": "This is a firecracker.",
+      "zh": "这是一个鞭炮。"
+    },
+    {
+      "id": 69,
+      "start": 199.04,
+      "end": 200.62,
+      "en": "Firecrackers are so common in China.",
+      "zh": "爆竹在中国很常见。"
+    },
+    {
+      "id": 70,
+      "start": 201.04,
+      "end": 203.88,
+      "en": "We use it all the time in all occasions.",
+      "zh": "我们在所有场合都使用它。"
+    },
+    {
+      "id": 71,
+      "start": 203.88,
+      "end": 210.6,
+      "en": "And especially on the New Year's Eve, traditionally people use it to scare off the evil.",
+      "zh": "尤其是在新年前夜，人们传统上用它来吓唬邪恶。"
+    },
+    {
+      "id": 72,
+      "start": 210.6,
+      "end": 210.92,
+      "en": "Evil spirits.",
+      "zh": "邪恶的灵魂。"
+    },
+    {
+      "id": 73,
+      "start": 211.6,
+      "end": 211.88,
+      "en": "The evil spirits.",
+      "zh": "邪恶的灵魂。"
+    },
+    {
+      "id": 74,
+      "start": 212.6,
+      "end": 213.6,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 75,
+      "start": 213.6,
+      "end": 214.6,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 76,
+      "start": 214.6,
+      "end": 218.28,
+      "en": "So on Chinese New Year, there are millions of firecrackers.",
+      "zh": "所以在中国新年，有数以百万计的鞭炮。"
+    },
+    {
+      "id": 77,
+      "start": 218.28,
+      "end": 218.8,
+      "en": "Millions of firecrackers.",
+      "zh": "数以百万计的鞭炮。"
+    },
+    {
+      "id": 78,
+      "start": 219.28,
+      "end": 221.68,
+      "en": "Now, there are also a lot of fireworks.",
+      "zh": "现在，还有很多烟花。"
+    },
+    {
+      "id": 79,
+      "start": 222.34,
+      "end": 222.82,
+      "en": "Fireworks.",
+      "zh": "烟花。"
+    },
+    {
+      "id": 80,
+      "start": 223.0,
+      "end": 224.0,
+      "en": "Fireworks.",
+      "zh": "烟花。"
+    },
+    {
+      "id": 81,
+      "start": 224.0,
+      "end": 224.26,
+      "en": "Fireworks.",
+      "zh": "烟花。"
+    },
+    {
+      "id": 82,
+      "start": 225.63,
+      "end": 228.55,
+      "en": "So, fireworks are similar to firecrackers.",
+      "zh": "因此，烟花类似于鞭炮。"
+    },
+    {
+      "id": 83,
+      "start": 228.96,
+      "end": 229.96,
+      "en": "But they have lots of light.",
+      "zh": "但他们有很多光。"
+    },
+    {
+      "id": 84,
+      "start": 229.96,
+      "end": 230.96,
+      "en": "A light.",
+      "zh": "一盏灯。"
+    },
+    {
+      "id": 85,
+      "start": 230.96,
+      "end": 231.96,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 86,
+      "start": 231.96,
+      "end": 235.24,
+      "en": "They go up in the air and explode and you see lots of nice colors.",
+      "zh": "它们在空中升起并爆炸，你会看到很多漂亮的颜色。"
+    },
+    {
+      "id": 87,
+      "start": 235.24,
+      "end": 236.24,
+      "en": "Beautiful colors.",
+      "zh": "美丽的色彩。"
+    },
+    {
+      "id": 88,
+      "start": 236.24,
+      "end": 237.24,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 89,
+      "start": 237.24,
+      "end": 239.29,
+      "en": "Very popular in 4th of July in the United States.",
+      "zh": "7月4日在美国非常受欢迎。"
+    },
+    {
+      "id": 90,
+      "start": 239.56,
+      "end": 240.07,
+      "en": "Or New Year's Eve.",
+      "zh": "或除夕。"
+    },
+    {
+      "id": 91,
+      "start": 240.56,
+      "end": 240.75,
+      "en": "New Year's Eve.",
+      "zh": "除夕。"
+    },
+    {
+      "id": 92,
+      "start": 241.56,
+      "end": 242.56,
+      "en": "Mm-hmm.",
+      "zh": "嗯。"
+    },
+    {
+      "id": 93,
+      "start": 242.56,
+      "end": 243.56,
+      "en": "Mm-hmm.",
+      "zh": "嗯。"
+    },
+    {
+      "id": 94,
+      "start": 243.56,
+      "end": 244.56,
+      "en": "Fireworks.",
+      "zh": "烟花。"
+    },
+    {
+      "id": 95,
+      "start": 244.56,
+      "end": 246.48,
+      "en": "Okay, now let's look at our last word.",
+      "zh": "好的，现在让我们看看我们的最后一个字。"
+    },
+    {
+      "id": 96,
+      "start": 246.48,
+      "end": 246.69,
+      "en": "Set off.",
+      "zh": "点燃。"
+    },
+    {
+      "id": 97,
+      "start": 247.88,
+      "end": 248.15,
+      "en": "Set off.",
+      "zh": "点燃。"
+    },
+    {
+      "id": 98,
+      "start": 248.96,
+      "end": 249.33,
+      "en": "Set off.",
+      "zh": "点燃。"
+    },
+    {
+      "id": 99,
+      "start": 249.96,
+      "end": 250.27,
+      "en": "Set off.",
+      "zh": "点燃。"
+    },
+    {
+      "id": 100,
+      "start": 250.96,
+      "end": 253.08,
+      "en": "So, this is the verb you would use with firecrackers.",
+      "zh": "所以，这是你将与鞭炮一起使用的动词。"
+    },
+    {
+      "id": 101,
+      "start": 253.08,
+      "end": 254.08,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 102,
+      "start": 254.08,
+      "end": 255.56,
+      "en": "It means like explode the firecracker.",
+      "zh": "这意味着像爆炸鞭炮一样。"
+    },
+    {
+      "id": 103,
+      "start": 255.64,
+      "end": 255.78,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 104,
+      "start": 256.08,
+      "end": 257.26,
+      "en": "Set off the firecracker.",
+      "zh": "引爆了鞭炮。"
+    },
+    {
+      "id": 105,
+      "start": 257.44,
+      "end": 258.3,
+      "en": "Set off the bomb.",
+      "zh": "引爆炸弹。"
+    },
+    {
+      "id": 106,
+      "start": 258.74,
+      "end": 259.38,
+      "en": "Set off fireworks.",
+      "zh": "放烟花。"
+    },
+    {
+      "id": 107,
+      "start": 260.04,
+      "end": 262.18,
+      "en": "Well, let's listen to our dialogue a second time.",
+      "zh": "好吧，让我们再听一次我们的对话。"
+    },
+    {
+      "id": 108,
+      "start": 262.32,
+      "end": 267.48,
+      "en": "And this time, it'll be a little bit slower so that you can understand the language a bit better.",
+      "zh": "而这一次，它会有点慢，这样你就可以更好地理解语言。"
+    },
+    {
+      "id": 109,
+      "start": 272.69,
+      "end": 276.05,
+      "en": "I'm so excited about Chinese New Year.",
+      "zh": "我太期待过年了。"
+    },
+    {
+      "id": 110,
+      "start": 276.69,
+      "end": 278.15,
+      "en": "When do I get to visit Grandma?",
+      "zh": "什么时候去看奶奶？"
+    },
+    {
+      "id": 111,
+      "start": 279.07,
+      "end": 281.41,
+      "en": "Grandma makes the best dumplings in the world.",
+      "zh": "奶奶包的饺子天下第一。"
+    },
+    {
+      "id": 112,
+      "start": 281.96,
+      "end": 282.96,
+      "en": "Ha-ha.",
+      "zh": "哈哈。"
+    },
+    {
+      "id": 113,
+      "start": 282.96,
+      "end": 283.96,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 114,
+      "start": 283.96,
+      "end": 290.28,
+      "en": "Sounds to me like you are more excited about dumplings than seeing your grandma.",
+      "zh": "听起来你盼着吃饺子，比盼着见奶奶还厉害。"
+    },
+    {
+      "id": 115,
+      "start": 290.28,
+      "end": 292.08,
+      "en": "Of course, I miss Grandma, too.",
+      "zh": "当然，我也想念奶奶。"
+    },
+    {
+      "id": 116,
+      "start": 292.64,
+      "end": 295.3,
+      "en": "I bet she's going to teach me how to play Mahjong.",
+      "zh": "我敢说奶奶会教我打麻将。"
+    },
+    {
+      "id": 117,
+      "start": 296.0,
+      "end": 299.42,
+      "en": "Hey, Dad, are you going to buy me firecrackers this year?",
+      "zh": "嘿，爸爸，你今年要给我买鞭炮吗？"
+    },
+    {
+      "id": 118,
+      "start": 299.92,
+      "end": 301.58,
+      "en": "We're going to have the best fireworks.",
+      "zh": "我们要放最漂亮的烟花。"
+    },
+    {
+      "id": 119,
+      "start": 302.2,
+      "end": 304.36,
+      "en": "I'm really looking forward to lighting them.",
+      "zh": "我真想赶快点燃它们。"
+    },
+    {
+      "id": 120,
+      "start": 304.76,
+      "end": 307.18,
+      "en": "Son, firecrackers aren't toys.",
+      "zh": "儿子，鞭炮不是玩具。"
+    },
+    {
+      "id": 121,
+      "start": 307.96,
+      "end": 308.66,
+      "en": "They're dangerous.",
+      "zh": "那很危险。"
+    },
+    {
+      "id": 122,
+      "start": 309.46,
+      "end": 311.48,
+      "en": "No, fireworks are awesome.",
+      "zh": "不，烟花可棒了。"
+    },
+    {
+      "id": 123,
+      "start": 312.0,
+      "end": 312.42,
+      "en": "Whoa.",
+      "zh": "哇。"
+    },
+    {
+      "id": 124,
+      "start": 312.84,
+      "end": 317.04,
+      "en": "Don't you remember last year when I set off the firecrackers?",
+      "zh": "你不记得去年我放鞭炮的时候吗？"
+    },
+    {
+      "id": 125,
+      "start": 317.62,
+      "end": 321.32,
+      "en": "You covered both your ears and hid behind your mother.",
+      "zh": "你捂着两只耳朵，躲在妈妈身后。"
+    },
+    {
+      "id": 126,
+      "start": 321.86,
+      "end": 325.5,
+      "en": "Dad, I was scared because I saw a bug.",
+      "zh": "爸，我是看见虫子才吓着的。"
+    },
+    {
+      "id": 127,
+      "start": 325.88,
+      "end": 326.12,
+      "en": "That's all.",
+      "zh": "就这些。"
+    },
+    {
+      "id": 128,
+      "start": 326.92,
+      "end": 327.92,
+      "en": "Ha-ha.",
+      "zh": "哈哈。"
+    },
+    {
+      "id": 129,
+      "start": 327.92,
+      "end": 328.92,
+      "en": "Really?",
+      "zh": "真的吗？"
+    },
+    {
+      "id": 130,
+      "start": 328.92,
+      "end": 331.02,
+      "en": "Oh, and I can't wait to watch the dragon dance.",
+      "zh": "我还迫不及待想看舞龙呢。"
+    },
+    {
+      "id": 131,
+      "start": 331.6,
+      "end": 333.7,
+      "en": "Dad, can I sit on your shoulders this time?",
+      "zh": "爸，这次我能骑在你肩上吗？"
+    },
+    {
+      "id": 132,
+      "start": 334.04,
+      "end": 336.02,
+      "en": "Hey, I offered last year.",
+      "zh": "嘿，去年我就说可以了。"
+    },
+    {
+      "id": 133,
+      "start": 336.62,
+      "end": 338.34,
+      "en": "Well, I...",
+      "zh": "嗯，我……"
+    },
+    {
+      "id": 134,
+      "start": 338.34,
+      "end": 340.76,
+      "en": "Anyways, I was just thinking of the red envelopes.",
+      "zh": "反正我刚才在想红包。"
+    },
+    {
+      "id": 135,
+      "start": 341.06,
+      "end": 344.12,
+      "en": "I want to make a list of all the things I'm going to buy with my red envelope money.",
+      "zh": "我要列个清单，看看红包钱都买些什么。"
+    },
+    {
+      "id": 136,
+      "start": 344.56,
+      "end": 345.28,
+      "en": "I can't wait.",
+      "zh": "我等不及了。"
+    },
+    {
+      "id": 137,
+      "start": 345.72,
+      "end": 347.12,
+      "en": "I'm going to have so much money.",
+      "zh": "我会有好多钱！"
+    },
+    {
+      "id": 138,
+      "start": 347.64,
+      "end": 349.66,
+      "en": "Mom, can I get a pen and a piece of paper?",
+      "zh": "妈妈，我可以买一支笔和一张纸吗？"
+    },
+    {
+      "id": 139,
+      "start": 350.48,
+      "end": 351.5,
+      "en": "I want a new transformer.",
+      "zh": "我想要一个新的变形金刚。"
+    },
+    {
+      "id": 140,
+      "start": 352.28,
+      "end": 353.74,
+      "en": "No, two transformers.",
+      "zh": "不，是两个变形金刚。"
+    },
+    {
+      "id": 141,
+      "start": 354.12,
+      "end": 356.18,
+      "en": "The Optimus Prime and maybe the Wheeljack.",
+      "zh": "擎天柱，也许再买个千斤顶。"
+    },
+    {
+      "id": 142,
+      "start": 356.61,
+      "end": 357.75,
+      "en": "I'll get a PSP game.",
+      "zh": "我还要买一款PSP游戏。"
+    },
+    {
+      "id": 143,
+      "start": 358.28,
+      "end": 359.28,
+      "en": "Ha-ha.",
+      "zh": "哈哈。"
+    },
+    {
+      "id": 144,
+      "start": 359.28,
+      "end": 361.35,
+      "en": "I'll buy the entire class lunch at McDonald's.",
+      "zh": "我要请全班去麦当劳吃午饭。"
+    },
+    {
+      "id": 145,
+      "start": 365.7,
+      "end": 370.3,
+      "en": "Okay, so we saw some really great phrases of describing excitement, right?",
+      "zh": "好的，所以我们看到了一些非常棒的描述兴奋的短语，对吧？"
+    },
+    {
+      "id": 146,
+      "start": 371.0,
+      "end": 374.56,
+      "en": "So let's start with Fluency Builder.",
+      "zh": "所以让我们从 Fluency Builder 开始。"
+    },
+    {
+      "id": 147,
+      "start": 374.56,
+      "end": 374.87,
+      "en": "Fluency Builder.",
+      "zh": "流利表达。"
+    },
+    {
+      "id": 148,
+      "start": 375.96,
+      "end": 381.22,
+      "en": "We have four phrases for you today and the first one is, I'm so excited about.",
+      "zh": "我们今天有四个短语给你，第一个是，我很兴奋。"
+    },
+    {
+      "id": 149,
+      "start": 381.92,
+      "end": 383.48,
+      "en": "I'm so excited about.",
+      "zh": "我对……非常兴奋。"
+    },
+    {
+      "id": 150,
+      "start": 383.48,
+      "end": 385.72,
+      "en": "I'm so excited about.",
+      "zh": "我对……非常兴奋。"
+    },
+    {
+      "id": 151,
+      "start": 385.72,
+      "end": 388.06,
+      "en": "So when you say, I'm so excited, it means that you are...",
+      "zh": "所以当你说的时候，我很兴奋，这意味着你..."
+    },
+    {
+      "id": 152,
+      "start": 388.36,
+      "end": 389.96,
+      "en": "I'm really happy.",
+      "zh": "我真的很高兴。"
+    },
+    {
+      "id": 153,
+      "start": 389.96,
+      "end": 390.84,
+      "en": "That something is going to happen.",
+      "zh": "事情会发生。"
+    },
+    {
+      "id": 154,
+      "start": 390.96,
+      "end": 392.44,
+      "en": "Yeah, so happy you can't relax.",
+      "zh": "是的，很高兴你不能放松。"
+    },
+    {
+      "id": 155,
+      "start": 392.9,
+      "end": 397.7,
+      "en": "Right, so you could say, I'm so excited about our vacation next month.",
+      "zh": "对，所以你可以说，我对下个月的假期感到非常兴奋。"
+    },
+    {
+      "id": 156,
+      "start": 397.9,
+      "end": 400.12,
+      "en": "I'm so excited about opening all my presents.",
+      "zh": "我很高兴打开我所有的礼物。"
+    },
+    {
+      "id": 157,
+      "start": 400.58,
+      "end": 402.36,
+      "en": "Exactly, so excited.",
+      "zh": "没错，太激动了。"
+    },
+    {
+      "id": 158,
+      "start": 402.9,
+      "end": 406.66,
+      "en": "Now we also saw another really great word, very similar to I'm so excited.",
+      "zh": "现在我们还看到了另一个非常棒的词，与我非常兴奋非常相似。"
+    },
+    {
+      "id": 159,
+      "start": 407.08,
+      "end": 408.08,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 160,
+      "start": 408.08,
+      "end": 409.5,
+      "en": "I'm really looking forward to.",
+      "zh": "我真的很期待。"
+    },
+    {
+      "id": 161,
+      "start": 409.88,
+      "end": 411.86,
+      "en": "I'm really looking forward to.",
+      "zh": "我真的很期待。"
+    },
+    {
+      "id": 162,
+      "start": 412.36,
+      "end": 414.28,
+      "en": "I'm really looking forward to.",
+      "zh": "我真的很期待。"
+    },
+    {
+      "id": 163,
+      "start": 414.28,
+      "end": 416.52,
+      "en": "I'm really looking forward to.",
+      "zh": "我真的很期待。"
+    },
+    {
+      "id": 164,
+      "start": 416.52,
+      "end": 419.18,
+      "en": "So this is a little bit less than excited, right?",
+      "zh": "所以这有点不兴奋，对吧？"
+    },
+    {
+      "id": 165,
+      "start": 419.32,
+      "end": 420.52,
+      "en": "A bit less strong.",
+      "zh": "不那么强壮了。"
+    },
+    {
+      "id": 166,
+      "start": 420.54,
+      "end": 420.74,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 167,
+      "start": 421.52,
+      "end": 426.56,
+      "en": "So you would say, oh, I'm really looking forward to meeting your new girlfriend.",
+      "zh": "所以你会说，哦，我真的很期待见到你的新女友。"
+    },
+    {
+      "id": 168,
+      "start": 426.56,
+      "end": 429.72,
+      "en": "Or you can say, I'm really looking forward to seeing that movie.",
+      "zh": "或者你可以说，我真的很期待看到那部电影。"
+    },
+    {
+      "id": 169,
+      "start": 430.32,
+      "end": 430.46,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 170,
+      "start": 431.44,
+      "end": 433.99,
+      "en": "So it means you're a little bit excited but not so excited.",
+      "zh": "所以这意味着你有点兴奋，但没有那么兴奋。"
+    },
+    {
+      "id": 171,
+      "start": 434.56,
+      "end": 437.27,
+      "en": "Yeah, you're happy about something that's going to happen in the future.",
+      "zh": "是的，你对未来会发生的事情感到高兴。"
+    },
+    {
+      "id": 172,
+      "start": 438.06,
+      "end": 440.99,
+      "en": "Now let's look at our next phrase and it's very similar to excited.",
+      "zh": "现在让我们看看我们的下一个短语，它与兴奋非常相似。"
+    },
+    {
+      "id": 173,
+      "start": 442.04,
+      "end": 442.93,
+      "en": "I can't wait.",
+      "zh": "我等不及了。"
+    },
+    {
+      "id": 174,
+      "start": 443.4,
+      "end": 444.33,
+      "en": "I can't wait.",
+      "zh": "我等不及了。"
+    },
+    {
+      "id": 175,
+      "start": 444.8,
+      "end": 445.87,
+      "en": "I can't wait.",
+      "zh": "我等不及了。"
+    },
+    {
+      "id": 176,
+      "start": 446.08,
+      "end": 447.36,
+      "en": "I can't wait.",
+      "zh": "我等不及了。"
+    },
+    {
+      "id": 177,
+      "start": 447.36,
+      "end": 449.89,
+      "en": "So this is very, very similar to I'm so excited.",
+      "zh": "所以这非常非常相似，我很兴奋。"
+    },
+    {
+      "id": 178,
+      "start": 450.23,
+      "end": 453.15,
+      "en": "Yes, when you're so excited for something, you can't wait for it.",
+      "zh": "是的，当你对某事如此兴奋时，你不能等待它。"
+    },
+    {
+      "id": 179,
+      "start": 453.32,
+      "end": 454.32,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 180,
+      "start": 454.32,
+      "end": 455.97,
+      "en": "Let's listen to some more examples of I can't wait.",
+      "zh": "让我们听听更多我等不及的例子。"
+    },
+    {
+      "id": 181,
+      "start": 457.84,
+      "end": 458.84,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 182,
+      "start": 460.56,
+      "end": 461.42,
+      "en": "I'm so excited.",
+      "zh": "我太兴奋了。"
+    },
+    {
+      "id": 183,
+      "start": 461.84,
+      "end": 467.48,
+      "en": "I can't wait to see you.",
+      "zh": "我迫不及待地想见到你。"
+    },
+    {
+      "id": 184,
+      "start": 467.48,
+      "end": 467.76,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 185,
+      "start": 472.12,
+      "end": 473.4,
+      "en": "Mmm, smells delicious.",
+      "zh": "嗯，闻起来很香。"
+    },
+    {
+      "id": 186,
+      "start": 473.96,
+      "end": 480.28,
+      "en": "I can't wait for dinner.",
+      "zh": "我等不及吃晚饭了。"
+    },
+    {
+      "id": 187,
+      "start": 480.28,
+      "end": 480.66,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 188,
+      "start": 484.8,
+      "end": 486.35,
+      "en": "I can't wait to open my presents.",
+      "zh": "我迫不及待地想打开我的礼物。"
+    },
+    {
+      "id": 189,
+      "start": 490.3,
+      "end": 491.74,
+      "en": "So we can use it again the same way.",
+      "zh": "所以我们可以以同样的方式再次使用它。"
+    },
+    {
+      "id": 190,
+      "start": 491.9,
+      "end": 494.48,
+      "en": "I can't wait to go on vacation next month.",
+      "zh": "我迫不及待地想下个月去度假。"
+    },
+    {
+      "id": 191,
+      "start": 494.68,
+      "end": 496.5,
+      "en": "I can't wait to open all my presents.",
+      "zh": "我迫不及待地想打开我所有的礼物。"
+    },
+    {
+      "id": 192,
+      "start": 496.7,
+      "end": 496.9,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 193,
+      "start": 497.66,
+      "end": 498.82,
+      "en": "Now our last phrase.",
+      "zh": "现在是我们的最后一句话。"
+    },
+    {
+      "id": 194,
+      "start": 499.42,
+      "end": 499.76,
+      "en": "I bet.",
+      "zh": "我敢打赌。"
+    },
+    {
+      "id": 195,
+      "start": 500.18,
+      "end": 500.78,
+      "en": "I bet.",
+      "zh": "我敢打赌。"
+    },
+    {
+      "id": 196,
+      "start": 501.36,
+      "end": 502.2,
+      "en": "I bet.",
+      "zh": "我敢打赌。"
+    },
+    {
+      "id": 197,
+      "start": 502.66,
+      "end": 503.18,
+      "en": "I bet.",
+      "zh": "我敢打赌。"
+    },
+    {
+      "id": 198,
+      "start": 503.8,
+      "end": 504.8,
+      "en": "B-E-T.",
+      "zh": "拼写是 B-E-T。"
+    },
+    {
+      "id": 199,
+      "start": 504.8,
+      "end": 505.8,
+      "en": "Bet.",
+      "zh": "敢肯定。"
+    },
+    {
+      "id": 200,
+      "start": 505.8,
+      "end": 506.8,
+      "en": "Bet.",
+      "zh": "敢肯定。"
+    },
+    {
+      "id": 201,
+      "start": 506.8,
+      "end": 510.66,
+      "en": "So when you say I bet, it means that you're pretty sure about something.",
+      "zh": "所以当你说我打赌时，这意味着你很确定某事。"
+    },
+    {
+      "id": 202,
+      "start": 511.36,
+      "end": 512.54,
+      "en": "You predict it will happen.",
+      "zh": "你预测它会发生。"
+    },
+    {
+      "id": 203,
+      "start": 512.92,
+      "end": 513.06,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 204,
+      "start": 513.14,
+      "end": 516.32,
+      "en": "So let's listen to some more examples of I bet.",
+      "zh": "所以让我们听听更多我打赌的例子。"
+    },
+    {
+      "id": 205,
+      "start": 519.0,
+      "end": 519.26,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 206,
+      "start": 522.36,
+      "end": 525.0,
+      "en": "I bet I'm going to get so much money for Chinese New Year.",
+      "zh": "我敢打赌，我会为中国新年买到这么多钱。"
+    },
+    {
+      "id": 207,
+      "start": 529.44,
+      "end": 529.69,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 208,
+      "start": 534.04,
+      "end": 534.59,
+      "en": "Robert Slade.",
+      "zh": "罗伯特·斯莱德。"
+    },
+    {
+      "id": 209,
+      "start": 535.08,
+      "end": 536.12,
+      "en": "Where do you think he is?",
+      "zh": "你认为他在哪里？"
+    },
+    {
+      "id": 210,
+      "start": 536.37,
+      "end": 537.57,
+      "en": "I bet he's stuck in traffic.",
+      "zh": "我敢打赌他堵车了。"
+    },
+    {
+      "id": 211,
+      "start": 541.13,
+      "end": 542.09,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 212,
+      "start": 545.4,
+      "end": 547.88,
+      "en": "I bet the boss is going to give us a big bonus this year.",
+      "zh": "我敢打赌，老板今年会给我们一大笔奖金。"
+    },
+    {
+      "id": 213,
+      "start": 551.06,
+      "end": 554.34,
+      "en": "Well, I guess we're ready to listen to our dialogue for the third time.",
+      "zh": "好吧，我想我们已经准备好第三次听我们的对话了。"
+    },
+    {
+      "id": 214,
+      "start": 554.68,
+      "end": 558.0,
+      "en": "And then when we come back, Danny's going to tell us all about Chinese New Year.",
+      "zh": "然后当我们回来时，丹尼会告诉我们所有关于中国新年的事情。"
+    },
+    {
+      "id": 215,
+      "start": 564.59,
+      "end": 567.41,
+      "en": "I'm so excited about Chinese New Year.",
+      "zh": "我太期待过年了。"
+    },
+    {
+      "id": 216,
+      "start": 567.89,
+      "end": 569.05,
+      "en": "When do I get to visit grandma?",
+      "zh": "我什么时候可以去拜访奶奶？"
+    },
+    {
+      "id": 217,
+      "start": 569.71,
+      "end": 571.45,
+      "en": "Grandma makes the best dumplings in the world.",
+      "zh": "奶奶包的饺子天下第一。"
+    },
+    {
+      "id": 218,
+      "start": 572.12,
+      "end": 573.12,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 219,
+      "start": 573.12,
+      "end": 577.92,
+      "en": "Sounds to me like you're more excited about dumplings than seeing your grandma.",
+      "zh": "在我看来，你对饺子比见奶奶更兴奋。"
+    },
+    {
+      "id": 220,
+      "start": 577.92,
+      "end": 579.05,
+      "en": "Of course I miss grandma too.",
+      "zh": "我当然也想念奶奶。"
+    },
+    {
+      "id": 221,
+      "start": 579.64,
+      "end": 581.25,
+      "en": "I bet she's going to teach me how to play Mahjong.",
+      "zh": "我敢说奶奶会教我打麻将。"
+    },
+    {
+      "id": 222,
+      "start": 581.85,
+      "end": 582.43,
+      "en": "Hey, dad.",
+      "zh": "嘿，爸爸。"
+    },
+    {
+      "id": 223,
+      "start": 582.6,
+      "end": 585.04,
+      "en": "Are you going to buy me firecrackers this year?",
+      "zh": "今年你要给我买鞭炮吗？"
+    },
+    {
+      "id": 224,
+      "start": 585.04,
+      "end": 586.64,
+      "en": "We're going to have the best fireworks.",
+      "zh": "我们要放最漂亮的烟花。"
+    },
+    {
+      "id": 225,
+      "start": 586.64,
+      "end": 588.11,
+      "en": "I'm really looking forward to lighting them.",
+      "zh": "我真想赶快点燃它们。"
+    },
+    {
+      "id": 226,
+      "start": 588.57,
+      "end": 590.83,
+      "en": "Son, firecrackers aren't toys.",
+      "zh": "儿子，鞭炮不是玩具。"
+    },
+    {
+      "id": 227,
+      "start": 591.53,
+      "end": 592.01,
+      "en": "They are dangerous.",
+      "zh": "它们很危险。"
+    },
+    {
+      "id": 228,
+      "start": 593.0,
+      "end": 595.0,
+      "en": "No, fireworks are awesome.",
+      "zh": "不，烟花可棒了。"
+    },
+    {
+      "id": 229,
+      "start": 595.07,
+      "end": 595.45,
+      "en": "Wow.",
+      "zh": "哇。"
+    },
+    {
+      "id": 230,
+      "start": 596.13,
+      "end": 596.81,
+      "en": "Don't you remember?",
+      "zh": "你不记得了吗？"
+    },
+    {
+      "id": 231,
+      "start": 597.57,
+      "end": 602.83,
+      "en": "Last year when I set out the firecrackers, you covered both your ears and hid behind your mother.",
+      "zh": "去年我放鞭炮的时候，你捂住了耳朵，躲在妈妈身后。"
+    },
+    {
+      "id": 232,
+      "start": 603.44,
+      "end": 606.4,
+      "en": "Dad, I was scared because I saw a bug.",
+      "zh": "爸，我是看见虫子才吓着的。"
+    },
+    {
+      "id": 233,
+      "start": 606.4,
+      "end": 606.57,
+      "en": "That's all.",
+      "zh": "就这些。"
+    },
+    {
+      "id": 234,
+      "start": 607.4,
+      "end": 607.85,
+      "en": "Really?",
+      "zh": "真的吗？"
+    },
+    {
+      "id": 235,
+      "start": 608.62,
+      "end": 611.3,
+      "en": "Oh, and I can't wait to watch the dragon dance.",
+      "zh": "我还迫不及待想看舞龙呢。"
+    },
+    {
+      "id": 236,
+      "start": 611.8,
+      "end": 613.8,
+      "en": "Dad, can I sit on your shoulders this time?",
+      "zh": "爸，这次我能骑在你肩上吗？"
+    },
+    {
+      "id": 237,
+      "start": 614.02,
+      "end": 615.52,
+      "en": "Hey, I offered last year.",
+      "zh": "嘿，去年我就说可以了。"
+    },
+    {
+      "id": 238,
+      "start": 616.1,
+      "end": 617.0,
+      "en": "Well, I...",
+      "zh": "嗯，我……"
+    },
+    {
+      "id": 239,
+      "start": 617.0,
+      "end": 619.12,
+      "en": "Anyways, I was just thinking of the red envelopes.",
+      "zh": "反正我刚才在想红包。"
+    },
+    {
+      "id": 240,
+      "start": 619.52,
+      "end": 622.34,
+      "en": "I want to make a list of all the things I'm going to buy with my red envelope money.",
+      "zh": "我要列个清单，看看红包钱都买些什么。"
+    },
+    {
+      "id": 241,
+      "start": 622.76,
+      "end": 623.2,
+      "en": "I can't wait.",
+      "zh": "我等不及了。"
+    },
+    {
+      "id": 242,
+      "start": 623.76,
+      "end": 624.82,
+      "en": "I'm going to have so much money.",
+      "zh": "我会有好多钱！"
+    },
+    {
+      "id": 243,
+      "start": 625.2,
+      "end": 627.06,
+      "en": "Mom, can I get a pen and a piece of paper?",
+      "zh": "妈妈，我可以买一支笔和一张纸吗？"
+    },
+    {
+      "id": 244,
+      "start": 627.9,
+      "end": 628.62,
+      "en": "I want a new transformer.",
+      "zh": "我想要一个新的变形金刚。"
+    },
+    {
+      "id": 245,
+      "start": 628.94,
+      "end": 629.92,
+      "en": "No, two transformers.",
+      "zh": "不，是两个变形金刚。"
+    },
+    {
+      "id": 246,
+      "start": 629.92,
+      "end": 630.92,
+      "en": "Optimus Prime.",
+      "zh": "擎天柱。"
+    },
+    {
+      "id": 247,
+      "start": 631.24,
+      "end": 631.42,
+      "en": "Wheeljack.",
+      "zh": "千斤顶，变形金刚中的角色。"
+    },
+    {
+      "id": 248,
+      "start": 631.88,
+      "end": 632.68,
+      "en": "I'll get a PSP game.",
+      "zh": "我还要买一款PSP游戏。"
+    },
+    {
+      "id": 249,
+      "start": 632.92,
+      "end": 633.92,
+      "en": "Ha ha.",
+      "zh": "哈哈。"
+    },
+    {
+      "id": 250,
+      "start": 633.92,
+      "end": 647.2,
+      "en": "I'm going to get a new game.",
+      "zh": "我要买一个新游戏。"
+    },
+    {
+      "id": 251,
+      "start": 647.2,
+      "end": 650.49,
+      "en": "So Daini, what are these red packets of money about?",
+      "zh": "那么戴尼，这些红包钱是关于什么的？"
+    },
+    {
+      "id": 252,
+      "start": 651.26,
+      "end": 656.35,
+      "en": "So in Chinese, we call it 紅包 hóngbāo, and it's basically a bag full of money.",
+      "zh": "所以在中文中，我们称它为红包，它基本上是一个装满金钱的袋子。"
+    },
+    {
+      "id": 253,
+      "start": 657.0,
+      "end": 657.67,
+      "en": "Why do you get money?",
+      "zh": "你为什么要钱？"
+    },
+    {
+      "id": 254,
+      "start": 658.32,
+      "end": 658.57,
+      "en": "As a gift.",
+      "zh": "作为礼物。"
+    },
+    {
+      "id": 255,
+      "start": 659.32,
+      "end": 660.32,
+      "en": "As a gift.",
+      "zh": "作为礼物。"
+    },
+    {
+      "id": 256,
+      "start": 660.32,
+      "end": 661.32,
+      "en": "Wow.",
+      "zh": "哇。"
+    },
+    {
+      "id": 257,
+      "start": 661.32,
+      "end": 662.68,
+      "en": "Do children get it though?",
+      "zh": "孩子们会得到它吗？"
+    },
+    {
+      "id": 258,
+      "start": 662.68,
+      "end": 663.71,
+      "en": "Only children get it.",
+      "zh": "只有孩子才能得到它。"
+    },
+    {
+      "id": 259,
+      "start": 664.16,
+      "end": 665.16,
+      "en": "Wow.",
+      "zh": "哇。"
+    },
+    {
+      "id": 260,
+      "start": 665.16,
+      "end": 672.11,
+      "en": "If you're a university student and you haven't got a job yet, then you can still ask for 紅包 hóngbāo from your parents or your relatives.",
+      "zh": "如果你是一名大学生，你还没有找到工作，那么你仍然可以向你的父母或你的亲戚索要红包。"
+    },
+    {
+      "id": 261,
+      "start": 672.84,
+      "end": 676.15,
+      "en": "So is there some meaning to this gift of money?",
+      "zh": "那么这笔钱的礼物有什么意义吗？"
+    },
+    {
+      "id": 262,
+      "start": 676.45,
+      "end": 685.03,
+      "en": "Well, it is believed that children have to put these red envelopes under their pillow on New Year's Eve to scare away the evil spirits.",
+      "zh": "好吧，据信孩子们在除夕夜必须把这些红包放在枕头下，以吓跑邪灵。"
+    },
+    {
+      "id": 263,
+      "start": 685.28,
+      "end": 686.76,
+      "en": "Again, like the firecrackers.",
+      "zh": "再次，就像鞭炮一样。"
+    },
+    {
+      "id": 264,
+      "start": 686.76,
+      "end": 687.76,
+      "en": "Again, evil spirits.",
+      "zh": "再次，邪恶的灵魂。"
+    },
+    {
+      "id": 265,
+      "start": 687.76,
+      "end": 688.81,
+      "en": "A lot of evil spirits in China.",
+      "zh": "中国有很多邪恶的灵魂。"
+    },
+    {
+      "id": 266,
+      "start": 691.36,
+      "end": 694.51,
+      "en": "So Daini, how much money would a kid get for Chinese New Year?",
+      "zh": "那么戴尼，一个孩子的中国新年能得到多少钱？"
+    },
+    {
+      "id": 267,
+      "start": 694.79,
+      "end": 699.21,
+      "en": "Well, when I was little, the best year I got was 3000 RMB.",
+      "zh": "嗯，小时候，我得到的最好的一年是 3000 元。"
+    },
+    {
+      "id": 268,
+      "start": 699.68,
+      "end": 701.13,
+      "en": "Which is like almost...",
+      "zh": "这几乎就像..."
+    },
+    {
+      "id": 269,
+      "start": 701.28,
+      "end": 701.81,
+      "en": "500 dollars.",
+      "zh": "500美元。"
+    },
+    {
+      "id": 270,
+      "start": 702.28,
+      "end": 703.28,
+      "en": "Wow.",
+      "zh": "哇。"
+    },
+    {
+      "id": 271,
+      "start": 703.28,
+      "end": 704.28,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 272,
+      "start": 704.28,
+      "end": 706.96,
+      "en": "I was so rich at that time.",
+      "zh": "那时我太有钱了。"
+    },
+    {
+      "id": 273,
+      "start": 706.96,
+      "end": 709.0,
+      "en": "Wow, amazing.",
+      "zh": "哇，太棒了。"
+    },
+    {
+      "id": 274,
+      "start": 709.0,
+      "end": 712.76,
+      "en": "What about this game, 麻將 mājiǎng?",
+      "zh": "这游戏怎么样呢？"
+    },
+    {
+      "id": 275,
+      "start": 712.76,
+      "end": 713.23,
+      "en": "Have you played it?",
+      "zh": "你玩过吗？"
+    },
+    {
+      "id": 276,
+      "start": 713.76,
+      "end": 714.76,
+      "en": "No.",
+      "zh": "不。"
+    },
+    {
+      "id": 277,
+      "start": 714.76,
+      "end": 715.76,
+      "en": "No.",
+      "zh": "不。"
+    },
+    {
+      "id": 278,
+      "start": 715.76,
+      "end": 723.84,
+      "en": "And again, it's a very traditional Chinese game and you will see senior people always gathering along the table.",
+      "zh": "再说一次，这是一个非常传统的中国游戏，你会看到老人总是聚集在桌子旁。"
+    },
+    {
+      "id": 279,
+      "start": 723.84,
+      "end": 724.47,
+      "en": "So old people.",
+      "zh": "这么老人。"
+    },
+    {
+      "id": 280,
+      "start": 724.84,
+      "end": 725.84,
+      "en": "Old people.",
+      "zh": "老人。"
+    },
+    {
+      "id": 281,
+      "start": 725.84,
+      "end": 727.72,
+      "en": "So it's like a board game, kind of like chess?",
+      "zh": "所以这就像棋盘游戏，有点像国际象棋？"
+    },
+    {
+      "id": 282,
+      "start": 727.72,
+      "end": 731.07,
+      "en": "It's kind of like chess, but they have like specially made chess.",
+      "zh": "这有点像国际象棋，但他们喜欢特制的国际象棋。"
+    },
+    {
+      "id": 283,
+      "start": 731.84,
+      "end": 732.27,
+      "en": "It's very different.",
+      "zh": "这是非常不同的。"
+    },
+    {
+      "id": 284,
+      "start": 732.84,
+      "end": 733.05,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 285,
+      "start": 733.84,
+      "end": 738.8,
+      "en": "So I want to know more about the fireworks and firecrackers on Chinese New Year.",
+      "zh": "所以我想更多地了解农历新年的烟花和鞭炮。"
+    },
+    {
+      "id": 286,
+      "start": 739.01,
+      "end": 741.35,
+      "en": "Okay, usually we buy firecrackers.",
+      "zh": "好吧，通常我们会买鞭炮。"
+    },
+    {
+      "id": 287,
+      "start": 742.13,
+      "end": 744.47,
+      "en": "I believe fireworks are more expensive.",
+      "zh": "我相信烟花更贵。"
+    },
+    {
+      "id": 288,
+      "start": 745.04,
+      "end": 748.08,
+      "en": "So we play firecrackers, 炮仗 pàozhàng.",
+      "zh": "于是我们玩了鞭炮，火爆。"
+    },
+    {
+      "id": 289,
+      "start": 748.08,
+      "end": 751.24,
+      "en": "And usually we do it right after midnight.",
+      "zh": "通常我们会在午夜之后做。"
+    },
+    {
+      "id": 290,
+      "start": 752.12,
+      "end": 754.32,
+      "en": "So 12 o'clock.",
+      "zh": "所以12点。"
+    },
+    {
+      "id": 291,
+      "start": 754.32,
+      "end": 754.96,
+      "en": "It's very loud.",
+      "zh": "声音很大。"
+    },
+    {
+      "id": 292,
+      "start": 755.32,
+      "end": 766.6,
+      "en": "And say for example, I personally don't even dare to stay close when they set off the firecrackers because it's just way too loud.",
+      "zh": "比如说，当他们放鞭炮时，我个人什至不敢靠近，因为它太响了。"
+    },
+    {
+      "id": 293,
+      "start": 766.6,
+      "end": 767.96,
+      "en": "And everyone starts to light them.",
+      "zh": "每个人都开始点亮它们。"
+    },
+    {
+      "id": 294,
+      "start": 767.96,
+      "end": 768.96,
+      "en": "So it's like...",
+      "zh": "所以就像..."
+    },
+    {
+      "id": 295,
+      "start": 768.96,
+      "end": 769.96,
+      "en": "No, it's amazing.",
+      "zh": "不，这是惊人的。"
+    },
+    {
+      "id": 296,
+      "start": 770.26,
+      "end": 773.28,
+      "en": "I've seen Chinese New Year three times in China.",
+      "zh": "我在中国看过三遍中国新年。"
+    },
+    {
+      "id": 297,
+      "start": 773.76,
+      "end": 775.34,
+      "en": "And each time I've just been amazed.",
+      "zh": "每次我都感到惊讶。"
+    },
+    {
+      "id": 298,
+      "start": 776.6,
+      "end": 779.44,
+      "en": "It's so cool and so noisy and so awesome.",
+      "zh": "它是如此酷，如此嘈杂，如此令人敬畏。"
+    },
+    {
+      "id": 299,
+      "start": 779.68,
+      "end": 781.76,
+      "en": "I mean, you've got to visit China to see this.",
+      "zh": "我的意思是，你必须访问中国才能看到这个。"
+    },
+    {
+      "id": 300,
+      "start": 781.88,
+      "end": 783.14,
+      "en": "Yeah, it's a really cool festival.",
+      "zh": "是的，这是一个非常酷的节日。"
+    },
+    {
+      "id": 301,
+      "start": 783.76,
+      "end": 786.0,
+      "en": "And definitely playing with firecrackers is always fun.",
+      "zh": "绝对玩鞭炮总是很有趣。"
+    },
+    {
+      "id": 302,
+      "start": 786.66,
+      "end": 788.2,
+      "en": "Yeah, maybe a little bit dangerous.",
+      "zh": "是的，也许有点危险。"
+    },
+    {
+      "id": 303,
+      "start": 788.98,
+      "end": 793.28,
+      "en": "Well everyone, we've just learned about how New Year's is celebrated in China.",
+      "zh": "大家好，我们刚刚了解到新年是如何在中国庆祝的。"
+    },
+    {
+      "id": 304,
+      "start": 793.28,
+      "end": 796.62,
+      "en": "And we want to know how do you celebrate New Year's in your country?",
+      "zh": "我们想知道你如何在你的国家庆祝新年？"
+    },
+    {
+      "id": 305,
+      "start": 796.92,
+      "end": 797.12,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 306,
+      "start": 797.56,
+      "end": 799.02,
+      "en": "How do you welcome the New Year?",
+      "zh": "你如何迎接新的一年？"
+    },
+    {
+      "id": 307,
+      "start": 799.18,
+      "end": 800.54,
+      "en": "How do you scare away evil spirits?",
+      "zh": "你如何吓跑邪灵？"
+    },
+    {
+      "id": 308,
+      "start": 802.44,
+      "end": 806.58,
+      "en": "So come to our website at EnglishPod.com and leave us your comments.",
+      "zh": "因此，请访问我们的网站 englishpod.com 并留下您的意见。"
+    },
+    {
+      "id": 309,
+      "start": 807.44,
+      "end": 808.44,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 310,
+      "start": 808.44,
+      "end": 809.9,
+      "en": "Daini, Erica and I will be there to answer all your questions.",
+      "zh": "戴尼、埃里卡和我会在那里回答你所有的问题。"
+    },
+    {
+      "id": 311,
+      "start": 810.28,
+      "end": 811.74,
+      "en": "So be sure to send us some comments.",
+      "zh": "所以一定要给我们发一些评论。"
+    },
+    {
+      "id": 312,
+      "start": 812.44,
+      "end": 813.44,
+      "en": "Well everyone, thanks for listening.",
+      "zh": "大家好，感谢收听。"
+    },
+    {
+      "id": 313,
+      "start": 813.98,
+      "end": 814.98,
+      "en": "And until next time, bye.",
+      "zh": "直到下一次，再见。"
+    },
+    {
+      "id": 314,
+      "start": 814.98,
+      "end": 815.98,
+      "en": "Bye.",
+      "zh": "再见。"
+    },
+    {
+      "id": 315,
+      "start": 815.98,
+      "end": 823.171,
+      "en": "Hi, bye.",
+      "zh": "你好，再见。"
+    }
+  ],
+  "dialog": {
+    "start": 272.69,
+    "end": 361.35,
+    "segmentIds": [
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
+    ]
+  }
+}

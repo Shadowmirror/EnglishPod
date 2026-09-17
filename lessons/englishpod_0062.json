@@ -1,0 +1,2737 @@
+{
+  "version": 1,
+  "id": 62,
+  "number": "0062",
+  "title": "The Office - Job Interview II",
+  "audio": "mp3/62. The Office - Job Interview II.mp3",
+  "duration": 1016.346125,
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.94,
+      "end": 4.7,
+      "en": "Hello English learners, welcome back to EnglishPod.",
+      "zh": "您好英语学习者，欢迎回到 EnglishPod。"
+    },
+    {
+      "id": 2,
+      "start": 4.96,
+      "end": 5.54,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 6.06,
+      "end": 6.48,
+      "en": "And I'm Erica.",
+      "zh": "我叫 Erica。"
+    },
+    {
+      "id": 4,
+      "start": 7.08,
+      "end": 11.42,
+      "en": "And today we're going to be bringing you the second part of our job interview series.",
+      "zh": "今天我们将为您带来我们求职面试系列的第二部分。"
+    },
+    {
+      "id": 5,
+      "start": 11.72,
+      "end": 12.06,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 6,
+      "start": 12.18,
+      "end": 17.58,
+      "en": "So this is an advanced lesson and we're going to be talking about educational background and experience.",
+      "zh": "所以这是一个高级课程，我们将讨论教育背景和经验。"
+    },
+    {
+      "id": 7,
+      "start": 18.06,
+      "end": 18.28,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 8,
+      "start": 18.28,
+      "end": 21.8,
+      "en": "So in the first part we saw preparing for a job interview.",
+      "zh": "所以在第一部分我们看到了准备工作面试。"
+    },
+    {
+      "id": 9,
+      "start": 22.58,
+      "end": 30.22,
+      "en": "Now we are at the job interview and we're just going to be talking about your educational background and your job experience.",
+      "zh": "现在我们正在面试工作，我们将谈论您的教育背景和工作经验。"
+    },
+    {
+      "id": 10,
+      "start": 30.78,
+      "end": 31.04,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 11,
+      "start": 31.06,
+      "end": 34.92,
+      "en": "And the language we're going to learn is going to focus mostly on these two areas.",
+      "zh": "我们要学习的语言将主要集中在这两个领域。"
+    },
+    {
+      "id": 12,
+      "start": 35.64,
+      "end": 36.48,
+      "en": "Okay, perfect.",
+      "zh": "好，太好了。"
+    },
+    {
+      "id": 13,
+      "start": 36.88,
+      "end": 45.2,
+      "en": "So let's take a look at some of the difficult words before we listen to the dialogue in vocabulary preview.",
+      "zh": "因此，在听取词汇预览中的对话之前，让我们先看看一些困难的词。"
+    },
+    {
+      "id": 14,
+      "start": 45.2,
+      "end": 46.2,
+      "en": "Vocabulary preview.",
+      "zh": "词汇预习。"
+    },
+    {
+      "id": 15,
+      "start": 46.2,
+      "end": 47.2,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 16,
+      "start": 47.2,
+      "end": 51.09,
+      "en": "So we're going to talk about a few common words that have to do with education.",
+      "zh": "所以我们将讨论一些与教育有关的常用词。"
+    },
+    {
+      "id": 17,
+      "start": 52.32,
+      "end": 57.51,
+      "en": "Now the first word, I think we might know this one, but there's a little trick to it.",
+      "zh": "现在第一个字，我想我们可能知道这个，但有一个小技巧。"
+    },
+    {
+      "id": 18,
+      "start": 57.77,
+      "end": 59.69,
+      "en": "So the first one is major.",
+      "zh": "所以第一个是主要的。"
+    },
+    {
+      "id": 19,
+      "start": 60.04,
+      "end": 61.04,
+      "en": "Major.",
+      "zh": "少校。"
+    },
+    {
+      "id": 20,
+      "start": 61.04,
+      "end": 62.04,
+      "en": "Major.",
+      "zh": "少校。"
+    },
+    {
+      "id": 21,
+      "start": 62.18,
+      "end": 65.68,
+      "en": "So, yeah, I guess everyone knows what a major is, right?",
+      "zh": "所以，是的，我想每个人都知道什么是专业，对吧？"
+    },
+    {
+      "id": 22,
+      "start": 65.92,
+      "end": 69.72,
+      "en": "Yeah, it's the main subject that you study in university.",
+      "zh": "是的，这是你在大学学习的主要科目。"
+    },
+    {
+      "id": 23,
+      "start": 69.78,
+      "end": 70.34,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 24,
+      "start": 70.4,
+      "end": 73.52,
+      "en": "So you can study business as a major or...",
+      "zh": "所以你可以把商学当成专业或..."
+    },
+    {
+      "id": 25,
+      "start": 73.52,
+      "end": 73.64,
+      "en": "History.",
+      "zh": "历史。"
+    },
+    {
+      "id": 26,
+      "start": 74.46,
+      "end": 74.6,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 27,
+      "start": 75.8,
+      "end": 76.8,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 28,
+      "start": 76.8,
+      "end": 78.52,
+      "en": "So, but you can also use it as a verb, right?",
+      "zh": "所以，但你也可以用它作为动词，对吧？"
+    },
+    {
+      "id": 29,
+      "start": 78.52,
+      "end": 78.64,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 30,
+      "start": 79.52,
+      "end": 81.16,
+      "en": "I majored in history.",
+      "zh": "我主修历史。"
+    },
+    {
+      "id": 31,
+      "start": 81.16,
+      "end": 81.6,
+      "en": "Majored in.",
+      "zh": "主修。"
+    },
+    {
+      "id": 32,
+      "start": 82.22,
+      "end": 85.4,
+      "en": "So usually it's followed by the preposition in.",
+      "zh": "所以通常它后面是介词。"
+    },
+    {
+      "id": 33,
+      "start": 85.72,
+      "end": 86.14,
+      "en": "Yes, always.",
+      "zh": "是的，总是。"
+    },
+    {
+      "id": 34,
+      "start": 86.44,
+      "end": 87.44,
+      "en": "In fact.",
+      "zh": "其实。"
+    },
+    {
+      "id": 35,
+      "start": 87.44,
+      "end": 88.44,
+      "en": "So it's used as a verb.",
+      "zh": "所以它被用作动词。"
+    },
+    {
+      "id": 36,
+      "start": 88.44,
+      "end": 89.76,
+      "en": "I majored in science.",
+      "zh": "我主修科学。"
+    },
+    {
+      "id": 37,
+      "start": 90.44,
+      "end": 92.01,
+      "en": "I majored in business.",
+      "zh": "我主修商业。"
+    },
+    {
+      "id": 38,
+      "start": 92.28,
+      "end": 93.28,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 39,
+      "start": 93.28,
+      "end": 94.28,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 40,
+      "start": 94.28,
+      "end": 100.81,
+      "en": "So you can say my major is business administration or history, or you can say I majored in business.",
+      "zh": "所以你可以说我的专业是工商管理或历史，或者你可以说我主修商业。"
+    },
+    {
+      "id": 41,
+      "start": 101.21,
+      "end": 101.39,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 42,
+      "start": 101.49,
+      "end": 104.33,
+      "en": "And the same pattern applies to minor.",
+      "zh": "同样的模式也适用于小调。"
+    },
+    {
+      "id": 43,
+      "start": 105.09,
+      "end": 105.37,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 44,
+      "start": 105.41,
+      "end": 105.89,
+      "en": "So minor.",
+      "zh": "太小了。"
+    },
+    {
+      "id": 45,
+      "start": 106.05,
+      "end": 110.09,
+      "en": "This is really interesting because this is more common in English speaking countries, right?",
+      "zh": "这真的很有趣，因为这在英语国家更常见，对吧？"
+    },
+    {
+      "id": 46,
+      "start": 110.27,
+      "end": 110.53,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 47,
+      "start": 111.09,
+      "end": 112.57,
+      "en": "So what exactly is a minor?",
+      "zh": "那么究竟什么是未成年人？"
+    },
+    {
+      "id": 48,
+      "start": 113.03,
+      "end": 115.41,
+      "en": "Well, just like your major, but smaller.",
+      "zh": "好吧，就像你的专业一样，但更小。"
+    },
+    {
+      "id": 49,
+      "start": 115.93,
+      "end": 116.41,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 50,
+      "start": 117.07,
+      "end": 126.13,
+      "en": "So if you major in history, maybe 60% of your classes are in history and you minor in French, maybe 30 or 40% of your classes are in French.",
+      "zh": "因此，如果您主修历史，您的课程中可能有 60% 是历史，而您是法语，可能有 30% 或 40% 的课程是法语。"
+    },
+    {
+      "id": 51,
+      "start": 126.51,
+      "end": 128.57,
+      "en": "So basically you can have two subjects in your degree.",
+      "zh": "所以基本上你的学位可以有两个科目。"
+    },
+    {
+      "id": 52,
+      "start": 128.8,
+      "end": 131.36,
+      "en": "You can have a major in business with a minor in art.",
+      "zh": "您可以主修商业，辅修艺术。"
+    },
+    {
+      "id": 53,
+      "start": 131.91,
+      "end": 132.05,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 54,
+      "start": 132.47,
+      "end": 132.71,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 55,
+      "start": 132.87,
+      "end": 133.27,
+      "en": "That's interesting.",
+      "zh": "真有意思。"
+    },
+    {
+      "id": 56,
+      "start": 134.36,
+      "end": 135.36,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 57,
+      "start": 135.36,
+      "end": 138.53,
+      "en": "And another two simple words, a bachelor's degree.",
+      "zh": "还有两个简单的词，一个学士学位。"
+    },
+    {
+      "id": 58,
+      "start": 139.84,
+      "end": 140.03,
+      "en": "Bachelor's degree.",
+      "zh": "学士学位。"
+    },
+    {
+      "id": 59,
+      "start": 140.84,
+      "end": 141.84,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 60,
+      "start": 141.84,
+      "end": 145.76,
+      "en": "A bachelor's degree is what you get after going to university for four years.",
+      "zh": "学士学位是你上大学四年后得到的。"
+    },
+    {
+      "id": 61,
+      "start": 145.76,
+      "end": 146.76,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 62,
+      "start": 146.76,
+      "end": 149.4,
+      "en": "So you get a master's degree after four years, you get that.",
+      "zh": "所以你在四年后获得了硕士学位，你会得到那个。"
+    },
+    {
+      "id": 63,
+      "start": 149.4,
+      "end": 151.01,
+      "en": "After that you get a master's degree.",
+      "zh": "之后你获得硕士学位。"
+    },
+    {
+      "id": 64,
+      "start": 151.6,
+      "end": 152.6,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 65,
+      "start": 152.6,
+      "end": 155.17,
+      "en": "So that's another two years after your bachelor's degree.",
+      "zh": "所以这又是你学士学位之后的两年。"
+    },
+    {
+      "id": 66,
+      "start": 155.6,
+      "end": 156.6,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 67,
+      "start": 156.6,
+      "end": 160.35,
+      "en": "And I guess a master's is more focused on an area, right?",
+      "zh": "而且我猜硕士学位更专注于一个领域，对吧？"
+    },
+    {
+      "id": 68,
+      "start": 160.68,
+      "end": 161.68,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 69,
+      "start": 161.77,
+      "end": 162.21,
+      "en": "More specialized.",
+      "zh": "更专业。"
+    },
+    {
+      "id": 70,
+      "start": 162.68,
+      "end": 163.68,
+      "en": "More specialized.",
+      "zh": "更专业。"
+    },
+    {
+      "id": 71,
+      "start": 163.68,
+      "end": 166.66,
+      "en": "And then the highest degree you can get is a PhD.",
+      "zh": "然后你可以获得的最高学位是博士学位。"
+    },
+    {
+      "id": 72,
+      "start": 167.14,
+      "end": 167.3,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 73,
+      "start": 167.72,
+      "end": 169.14,
+      "en": "Which is a philosophy doctorate, right?",
+      "zh": "哪个是哲学博士，对吧？"
+    },
+    {
+      "id": 74,
+      "start": 169.88,
+      "end": 172.9,
+      "en": "But you're not actually getting a degree in philosophy.",
+      "zh": "但你实际上并没有获得哲学学位。"
+    },
+    {
+      "id": 75,
+      "start": 173.36,
+      "end": 173.6,
+      "en": "No.",
+      "zh": "不。"
+    },
+    {
+      "id": 76,
+      "start": 174.36,
+      "end": 177.44,
+      "en": "You're getting a PhD in international relations.",
+      "zh": "你正在获得国际关系博士学位。"
+    },
+    {
+      "id": 77,
+      "start": 177.46,
+      "end": 177.6,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 78,
+      "start": 178.02,
+      "end": 179.44,
+      "en": "But this is really hard to get.",
+      "zh": "但这真的很难得到。"
+    },
+    {
+      "id": 79,
+      "start": 179.6,
+      "end": 182.16,
+      "en": "You have to go to school for another five or six years, right?",
+      "zh": "你必须再上学五六年，对吧？"
+    },
+    {
+      "id": 80,
+      "start": 182.36,
+      "end": 182.5,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 81,
+      "start": 183.32,
+      "end": 185.68,
+      "en": "And it's a lot of research and not many people have it.",
+      "zh": "这是大量的研究，没有多少人拥有它。"
+    },
+    {
+      "id": 82,
+      "start": 186.16,
+      "end": 187.16,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 83,
+      "start": 187.16,
+      "end": 187.8,
+      "en": "Anyway, some simple words.",
+      "zh": "无论如何，一些简单的词。"
+    },
+    {
+      "id": 84,
+      "start": 188.56,
+      "end": 188.88,
+      "en": "But you know what?",
+      "zh": "不过你知道吗？"
+    },
+    {
+      "id": 85,
+      "start": 189.56,
+      "end": 192.2,
+      "en": "It's quite unique to the English speaking world, this system.",
+      "zh": "它对于说英语的世界来说是独一无二的，这个系统。"
+    },
+    {
+      "id": 86,
+      "start": 192.52,
+      "end": 194.0,
+      "en": "So we thought we'd bring it to you now.",
+      "zh": "所以我们认为我们现在会把它带给你。"
+    },
+    {
+      "id": 87,
+      "start": 194.16,
+      "end": 195.16,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 88,
+      "start": 195.16,
+      "end": 196.16,
+      "en": "Perfect.",
+      "zh": "太好了。"
+    },
+    {
+      "id": 89,
+      "start": 196.16,
+      "end": 202.02,
+      "en": "So now let's listen to this guy who is at an interview and he's going to be talking about his education and work experience.",
+      "zh": "所以现在让我们听听这个正在接受采访的人，他将谈论他的教育和工作经验。"
+    },
+    {
+      "id": 90,
+      "start": 215.6,
+      "end": 216.38,
+      "en": "Thanks for coming in today.",
+      "zh": "感谢您今天的光临。"
+    },
+    {
+      "id": 91,
+      "start": 216.78,
+      "end": 218.14,
+      "en": "Did you have any trouble finding us?",
+      "zh": "您在找到我们时遇到任何困难吗？"
+    },
+    {
+      "id": 92,
+      "start": 218.5,
+      "end": 219.52,
+      "en": "Please, take a seat.",
+      "zh": "请坐。"
+    },
+    {
+      "id": 93,
+      "start": 219.9,
+      "end": 220.32,
+      "en": "Thank you.",
+      "zh": "谢谢。"
+    },
+    {
+      "id": 94,
+      "start": 221.16,
+      "end": 223.04,
+      "en": "So let's get started.",
+      "zh": "那么开始吧。"
+    },
+    {
+      "id": 95,
+      "start": 223.04,
+      "end": 224.84,
+      "en": "Tell me a bit about your educational background.",
+      "zh": "先说说你的教育背景吧。"
+    },
+    {
+      "id": 96,
+      "start": 225.69,
+      "end": 226.17,
+      "en": "Sure.",
+      "zh": "当然。"
+    },
+    {
+      "id": 97,
+      "start": 226.29,
+      "end": 235.31,
+      "en": "Well, I graduated with honors from Chesterson University with a major in business administration with a specialization in information management and I minored in psychology.",
+      "zh": "我以优异成绩毕业于切斯特森大学，主修工商管理，专攻信息管理，辅修心理学。"
+    },
+    {
+      "id": 98,
+      "start": 235.99,
+      "end": 237.73,
+      "en": "I chose this course of study for two reasons.",
+      "zh": "我选这个专业方向有两个原因。"
+    },
+    {
+      "id": 99,
+      "start": 238.07,
+      "end": 242.33,
+      "en": "I wanted to gain some practical marketable skills, which the information management track provided.",
+      "zh": "一是想学一些实用、就业时有竞争力的技能，信息管理方向正好能提供这些。"
+    },
+    {
+      "id": 100,
+      "start": 242.69,
+      "end": 246.63,
+      "en": "And I also feel that the interpersonal skills are essential for professional success.",
+      "zh": "而且我也觉得人际交往能力对于职业成功至关重要。"
+    },
+    {
+      "id": 101,
+      "start": 247.19,
+      "end": 248.09,
+      "en": "Hence the minor in psychology.",
+      "zh": "所以我辅修了心理学。"
+    },
+    {
+      "id": 102,
+      "start": 248.7,
+      "end": 249.28,
+      "en": "Interesting.",
+      "zh": "有意思。"
+    },
+    {
+      "id": 103,
+      "start": 250.0,
+      "end": 251.42,
+      "en": "And your postgraduate studies?",
+      "zh": "那研究生阶段呢？"
+    },
+    {
+      "id": 104,
+      "start": 252.0,
+      "end": 254.78,
+      "en": "Well, I am really passionate about consumer behavior.",
+      "zh": "我对消费者行为特别感兴趣。"
+    },
+    {
+      "id": 105,
+      "start": 255.44,
+      "end": 256.96,
+      "en": "So I pursued a master's in that area.",
+      "zh": "所以我在那个领域攻读了硕士学位。"
+    },
+    {
+      "id": 106,
+      "start": 257.62,
+      "end": 259.68,
+      "en": "I also strive to keep my professional skills current.",
+      "zh": "我也努力让自己的专业技能跟上发展。"
+    },
+    {
+      "id": 107,
+      "start": 259.68,
+      "end": 264.46,
+      "en": "So I continuously attend seminars and conferences related to management and customer service.",
+      "zh": "所以我经常参加管理和客户服务方面的研讨会。"
+    },
+    {
+      "id": 108,
+      "start": 266.8,
+      "end": 268.92,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 109,
+      "start": 269.9,
+      "end": 272.64,
+      "en": "Now, tell me a little bit about your work experience.",
+      "zh": "现在谈谈你的工作经历。"
+    },
+    {
+      "id": 110,
+      "start": 273.32,
+      "end": 275.64,
+      "en": "I see here that you previously worked at Oracle.",
+      "zh": "我在这里看到您以前在 Oracle 工作过。"
+    },
+    {
+      "id": 111,
+      "start": 276.52,
+      "end": 282.7,
+      "en": "Yeah, I worked as their customer support manager, which brought me a breadth of experience in both client care and process management.",
+      "zh": "我在那里担任客户支持经理，积累了客户服务和流程管理方面的丰富经验。"
+    },
+    {
+      "id": 112,
+      "start": 283.24,
+      "end": 289.66,
+      "en": "I supervised and coordinated the customer support team as well as implemented new strategies to achieve better customer satisfaction.",
+      "zh": "我负责管理、协调客户支持团队，还推行了提高客户满意度的新策略。"
+    },
+    {
+      "id": 113,
+      "start": 290.7,
+      "end": 291.26,
+      "en": "Interesting.",
+      "zh": "有意思。"
+    },
+    {
+      "id": 114,
+      "start": 292.42,
+      "end": 297.7,
+      "en": "Yes, in this position, I was able to make some pretty significant contributions to the overall success of the company.",
+      "zh": "是的，在这个职位上，我能够为公司的整体成功做出一些相当大的贡献。"
+    },
+    {
+      "id": 115,
+      "start": 298.2,
+      "end": 304.94,
+      "en": "With the different initiatives that we implemented, we lowered our churn rate to about 5%, which had a direct impact on revenue.",
+      "zh": "通过这些举措，我们把客户流失率降到了约百分之五，直接带动了营收。"
+    },
+    {
+      "id": 116,
+      "start": 313.55,
+      "end": 318.55,
+      "en": "Well those are some pretty good answers to those questions, but I don't know, Marco.",
+      "zh": "好吧，这些是这些问题的一些很好的答案，但我不知道，马可。"
+    },
+    {
+      "id": 117,
+      "start": 319.29,
+      "end": 321.13,
+      "en": "There was a little awkward moment.",
+      "zh": "有一点尴尬的时刻。"
+    },
+    {
+      "id": 118,
+      "start": 321.31,
+      "end": 322.51,
+      "en": "I don't know if you guys heard it.",
+      "zh": "不知道你们有没有听说过。"
+    },
+    {
+      "id": 119,
+      "start": 323.75,
+      "end": 324.73,
+      "en": "Natural body...",
+      "zh": "自然身体..."
+    },
+    {
+      "id": 120,
+      "start": 325.36,
+      "end": 326.36,
+      "en": "Functions.",
+      "zh": "功能。"
+    },
+    {
+      "id": 121,
+      "start": 326.36,
+      "end": 327.36,
+      "en": "Functions.",
+      "zh": "功能。"
+    },
+    {
+      "id": 122,
+      "start": 327.55,
+      "end": 327.69,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 123,
+      "start": 328.36,
+      "end": 329.36,
+      "en": "Oh dear.",
+      "zh": "哎呀。"
+    },
+    {
+      "id": 124,
+      "start": 329.36,
+      "end": 331.37,
+      "en": "Well, making the interview a little bit more interesting, right?",
+      "zh": "好吧，让采访变得更有趣，对吧？"
+    },
+    {
+      "id": 125,
+      "start": 331.52,
+      "end": 332.88,
+      "en": "It doesn't have to be boring.",
+      "zh": "它不必很无聊。"
+    },
+    {
+      "id": 126,
+      "start": 332.88,
+      "end": 333.88,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 127,
+      "start": 333.88,
+      "end": 339.37,
+      "en": "But what is really interesting is some of the language he used to describe his educational background and work experience.",
+      "zh": "但真正有趣的是他用来描述他的教育背景和工作经验的一些语言。"
+    },
+    {
+      "id": 128,
+      "start": 339.72,
+      "end": 341.69,
+      "en": "So let's look at that now in Language Takeaway.",
+      "zh": "所以让我们现在在语言外卖中看看。"
+    },
+    {
+      "id": 129,
+      "start": 344.44,
+      "end": 344.75,
+      "en": "Language Takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 130,
+      "start": 346.78,
+      "end": 353.08,
+      "en": "Okay, so in Language Takeaway today, we have seven words that we want to focus on before we give you some tips about doing well on a job interview.",
+      "zh": "好吧，在今天的语言外卖中，我们有七个词要集中在我们为您提供一些关于在工作面试中取得好成绩的提示。"
+    },
+    {
+      "id": 131,
+      "start": 353.76,
+      "end": 355.22,
+      "en": "So let's take a look at the first word.",
+      "zh": "所以让我们来看看第一个字。"
+    },
+    {
+      "id": 132,
+      "start": 356.4,
+      "end": 356.96,
+      "en": "Course of study.",
+      "zh": "专业课程。"
+    },
+    {
+      "id": 133,
+      "start": 357.64,
+      "end": 358.2,
+      "en": "Course of study.",
+      "zh": "专业课程。"
+    },
+    {
+      "id": 134,
+      "start": 359.32,
+      "end": 360.32,
+      "en": "Course of study.",
+      "zh": "专业课程。"
+    },
+    {
+      "id": 135,
+      "start": 360.32,
+      "end": 361.9,
+      "en": "A course of study.",
+      "zh": "学习课程。"
+    },
+    {
+      "id": 136,
+      "start": 361.9,
+      "end": 363.78,
+      "en": "So what is a course of study exactly?",
+      "zh": "那么究竟什么是学习课程呢？"
+    },
+    {
+      "id": 137,
+      "start": 364.28,
+      "end": 369.26,
+      "en": "Basically, it's like a plan of study or a path of study.",
+      "zh": "基本上，这就像一个学习计划或一条学习之路。"
+    },
+    {
+      "id": 138,
+      "start": 369.92,
+      "end": 374.08,
+      "en": "Okay, so his course of study was...",
+      "zh": "好吧，他的学习课程是..."
+    },
+    {
+      "id": 139,
+      "start": 374.24,
+      "end": 375.24,
+      "en": "Business administration.",
+      "zh": "工商管理。"
+    },
+    {
+      "id": 140,
+      "start": 375.24,
+      "end": 375.36,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 141,
+      "start": 375.74,
+      "end": 377.92,
+      "en": "So that is his course of study.",
+      "zh": "所以这是他的学习课程。"
+    },
+    {
+      "id": 142,
+      "start": 378.38,
+      "end": 380.58,
+      "en": "Now let's take a look at our second word.",
+      "zh": "现在让我们来看看我们的第二个词。"
+    },
+    {
+      "id": 143,
+      "start": 381.28,
+      "end": 382.28,
+      "en": "Track.",
+      "zh": "轨道；跑道。"
+    },
+    {
+      "id": 144,
+      "start": 382.28,
+      "end": 383.28,
+      "en": "Track.",
+      "zh": "轨道；跑道。"
+    },
+    {
+      "id": 145,
+      "start": 383.28,
+      "end": 383.49,
+      "en": "Track.",
+      "zh": "轨道；跑道。"
+    },
+    {
+      "id": 146,
+      "start": 384.28,
+      "end": 385.28,
+      "en": "Track.",
+      "zh": "轨道；跑道。"
+    },
+    {
+      "id": 147,
+      "start": 385.28,
+      "end": 391.89,
+      "en": "So he said he wanted to gain some practical, markable skills that the information management track provided.",
+      "zh": "所以他说他想获得一些实用的、可标记的技能，这些技能是信息管理跟踪提供的。"
+    },
+    {
+      "id": 148,
+      "start": 392.88,
+      "end": 393.88,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 149,
+      "start": 393.88,
+      "end": 395.55,
+      "en": "So what does he mean by this track?",
+      "zh": "那么他所说的这首歌是什么意思呢？"
+    },
+    {
+      "id": 150,
+      "start": 396.07,
+      "end": 400.57,
+      "en": "Again, basically, the track of study is like the path of study.",
+      "zh": "同样，基本上，学习的轨迹就像学习的路径。"
+    },
+    {
+      "id": 151,
+      "start": 400.93,
+      "end": 401.23,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 152,
+      "start": 401.73,
+      "end": 403.67,
+      "en": "So the direction of your study.",
+      "zh": "所以你的学习方向。"
+    },
+    {
+      "id": 153,
+      "start": 403.97,
+      "end": 408.21,
+      "en": "Okay, so I guess it would be like, think of a train and the train tracks, right?",
+      "zh": "好吧，所以我想这就像，想一列火车和火车轨道，对吧？"
+    },
+    {
+      "id": 154,
+      "start": 408.45,
+      "end": 408.63,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 155,
+      "start": 409.6,
+      "end": 410.6,
+      "en": "Where the train travels.",
+      "zh": "火车行驶的地方。"
+    },
+    {
+      "id": 156,
+      "start": 410.6,
+      "end": 411.58,
+      "en": "So that's where it's taking you.",
+      "zh": "所以这就是它带你去的地方。"
+    },
+    {
+      "id": 157,
+      "start": 411.84,
+      "end": 414.94,
+      "en": "That's the path that he followed or you should follow or you want to follow.",
+      "zh": "那是他遵循或您应该遵循或您想遵循的道路。"
+    },
+    {
+      "id": 158,
+      "start": 415.48,
+      "end": 416.48,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 159,
+      "start": 416.48,
+      "end": 417.48,
+      "en": "Okay, that's pretty interesting.",
+      "zh": "好吧，这很有趣。"
+    },
+    {
+      "id": 160,
+      "start": 418.92,
+      "end": 421.74,
+      "en": "Now let's take a look at our third word and it's a really nice conjunction.",
+      "zh": "现在让我们来看看我们的第三个词，这是一个非常好的连词。"
+    },
+    {
+      "id": 161,
+      "start": 422.88,
+      "end": 423.18,
+      "en": "Hence.",
+      "zh": "因此。"
+    },
+    {
+      "id": 162,
+      "start": 423.88,
+      "end": 424.88,
+      "en": "Hence.",
+      "zh": "因此。"
+    },
+    {
+      "id": 163,
+      "start": 425.01,
+      "end": 425.49,
+      "en": "Hence.",
+      "zh": "因此。"
+    },
+    {
+      "id": 164,
+      "start": 425.88,
+      "end": 426.88,
+      "en": "H-E-N-C-E.",
+      "zh": "拼写是 H-E-N-C-E。"
+    },
+    {
+      "id": 165,
+      "start": 426.88,
+      "end": 427.88,
+      "en": "Hence.",
+      "zh": "因此。"
+    },
+    {
+      "id": 166,
+      "start": 427.88,
+      "end": 428.88,
+      "en": "Hence.",
+      "zh": "因此。"
+    },
+    {
+      "id": 167,
+      "start": 428.88,
+      "end": 430.85,
+      "en": "So it sounds fancy, but what does it mean?",
+      "zh": "所以听起来很花哨，但它是什么意思？"
+    },
+    {
+      "id": 168,
+      "start": 431.48,
+      "end": 433.16,
+      "en": "So therefore.",
+      "zh": "因此。"
+    },
+    {
+      "id": 169,
+      "start": 433.16,
+      "end": 434.2,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 170,
+      "start": 434.2,
+      "end": 436.53,
+      "en": "So you can use it as a conjunction between two ideas.",
+      "zh": "因此，您可以将其用作两个想法之间的结合。"
+    },
+    {
+      "id": 171,
+      "start": 437.18,
+      "end": 440.76,
+      "en": "So he said, what would be an example of how you could use hence?",
+      "zh": "所以他说，你如何使用这一点的例子是什么？"
+    },
+    {
+      "id": 172,
+      "start": 440.76,
+      "end": 445.19,
+      "en": "You could say, the economy is doing poorly, hence people are losing their jobs.",
+      "zh": "你可以说，经济表现不佳，因此人们正在失去工作。"
+    },
+    {
+      "id": 173,
+      "start": 445.76,
+      "end": 446.76,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 174,
+      "start": 446.76,
+      "end": 447.76,
+      "en": "Hence.",
+      "zh": "因此。"
+    },
+    {
+      "id": 175,
+      "start": 447.76,
+      "end": 449.0,
+      "en": "Hence.",
+      "zh": "因此。"
+    },
+    {
+      "id": 176,
+      "start": 449.0,
+      "end": 450.0,
+      "en": "Therefore, in consequence.",
+      "zh": "因此，因此。"
+    },
+    {
+      "id": 177,
+      "start": 450.0,
+      "end": 451.0,
+      "en": "So.",
+      "zh": "那么。"
+    },
+    {
+      "id": 178,
+      "start": 451.0,
+      "end": 452.0,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 179,
+      "start": 452.0,
+      "end": 453.44,
+      "en": "But it just sounds a lot more like professional.",
+      "zh": "但这听起来更像专业。"
+    },
+    {
+      "id": 180,
+      "start": 453.81,
+      "end": 454.01,
+      "en": "Informal.",
+      "zh": "非正式的。"
+    },
+    {
+      "id": 181,
+      "start": 454.31,
+      "end": 454.55,
+      "en": "Formal.",
+      "zh": "正式的。"
+    },
+    {
+      "id": 182,
+      "start": 455.44,
+      "end": 456.44,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 183,
+      "start": 456.44,
+      "end": 457.44,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 184,
+      "start": 457.44,
+      "end": 458.76,
+      "en": "So try and use this conjunction hence, right?",
+      "zh": "所以试着使用这个连词，对吧？"
+    },
+    {
+      "id": 185,
+      "start": 458.76,
+      "end": 460.12,
+      "en": "Instead of saying so, therefore.",
+      "zh": "因此，而不是这么说。"
+    },
+    {
+      "id": 186,
+      "start": 460.12,
+      "end": 461.12,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 187,
+      "start": 461.12,
+      "end": 462.12,
+      "en": "Use it.",
+      "zh": "使用它。"
+    },
+    {
+      "id": 188,
+      "start": 462.12,
+      "end": 462.39,
+      "en": "Okay, our fourth word.",
+      "zh": "好吧，我们的第四个字。"
+    },
+    {
+      "id": 189,
+      "start": 463.64,
+      "end": 464.1,
+      "en": "Pursued.",
+      "zh": "追求。"
+    },
+    {
+      "id": 190,
+      "start": 465.02,
+      "end": 465.54,
+      "en": "Pursued.",
+      "zh": "追求。"
+    },
+    {
+      "id": 191,
+      "start": 465.94,
+      "end": 467.6,
+      "en": "He pursued a master's.",
+      "zh": "他追求硕士学位。"
+    },
+    {
+      "id": 192,
+      "start": 467.7,
+      "end": 467.9,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 193,
+      "start": 468.32,
+      "end": 469.5,
+      "en": "So to pursue.",
+      "zh": "所以追求。"
+    },
+    {
+      "id": 194,
+      "start": 470.14,
+      "end": 471.56,
+      "en": "To chase after something.",
+      "zh": "追逐某事。"
+    },
+    {
+      "id": 195,
+      "start": 471.84,
+      "end": 472.3,
+      "en": "To chase after.",
+      "zh": "追逐。"
+    },
+    {
+      "id": 196,
+      "start": 473.26,
+      "end": 475.74,
+      "en": "So you can pursue a master's degree like he did?",
+      "zh": "所以你可以像他一样攻读硕士学位吗？"
+    },
+    {
+      "id": 197,
+      "start": 475.98,
+      "end": 476.12,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 198,
+      "start": 476.12,
+      "end": 477.48,
+      "en": "you can pursue a promotion.",
+      "zh": "你可以追求升职。"
+    },
+    {
+      "id": 199,
+      "start": 478.02,
+      "end": 478.42,
+      "en": "A dream.",
+      "zh": "一个梦想。"
+    },
+    {
+      "id": 200,
+      "start": 479.5,
+      "end": 479.86,
+      "en": "Nice one.",
+      "zh": "不错的一。"
+    },
+    {
+      "id": 201,
+      "start": 480.2,
+      "end": 481.28,
+      "en": "Can you pursue a girl?",
+      "zh": "你能追求一个女孩吗？"
+    },
+    {
+      "id": 202,
+      "start": 481.58,
+      "end": 482.2,
+      "en": "Yes, you can.",
+      "zh": "是的，你可以。"
+    },
+    {
+      "id": 203,
+      "start": 482.38,
+      "end": 482.64,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 204,
+      "start": 482.64,
+      "end": 484.3,
+      "en": "So pursue, to chase.",
+      "zh": "所以追求，追逐。"
+    },
+    {
+      "id": 205,
+      "start": 484.76,
+      "end": 484.92,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 206,
+      "start": 485.36,
+      "end": 485.66,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 207,
+      "start": 486.19,
+      "end": 487.53,
+      "en": "Now, let's look at our next word.",
+      "zh": "现在，让我们看看我们的下一个词。"
+    },
+    {
+      "id": 208,
+      "start": 487.91,
+      "end": 488.27,
+      "en": "Strive.",
+      "zh": "争取。"
+    },
+    {
+      "id": 209,
+      "start": 488.65,
+      "end": 491.13,
+      "en": "Another great word you can use in talking about your experience.",
+      "zh": "另一个很棒的词，你可以用来谈论你的经历。"
+    },
+    {
+      "id": 210,
+      "start": 491.49,
+      "end": 494.19,
+      "en": "To strive is to try really hard.",
+      "zh": "努力是真的很努力。"
+    },
+    {
+      "id": 211,
+      "start": 494.39,
+      "end": 495.35,
+      "en": "To try really hard.",
+      "zh": "真的很努力。"
+    },
+    {
+      "id": 212,
+      "start": 495.48,
+      "end": 496.48,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 213,
+      "start": 496.48,
+      "end": 497.48,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 214,
+      "start": 497.48,
+      "end": 498.88,
+      "en": "So I know we have some examples for strive.",
+      "zh": "所以我知道我们有一些努力的例子。"
+    },
+    {
+      "id": 215,
+      "start": 498.88,
+      "end": 499.88,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 216,
+      "start": 499.88,
+      "end": 500.01,
+      "en": "Let's take a listen.",
+      "zh": "让我们听一听。"
+    },
+    {
+      "id": 217,
+      "start": 502.12,
+      "end": 511.6,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 218,
+      "start": 511.6,
+      "end": 511.95,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 219,
+      "start": 521.12,
+      "end": 522.72,
+      "en": "Okay great examples of strive.",
+      "zh": "好的，努力的好例子。"
+    },
+    {
+      "id": 220,
+      "start": 522.72,
+      "end": 523.34,
+      "en": "To fight.",
+      "zh": "战斗。"
+    },
+    {
+      "id": 221,
+      "start": 523.76,
+      "end": 524.84,
+      "en": "To try really hard.",
+      "zh": "真的很努力。"
+    },
+    {
+      "id": 222,
+      "start": 525.16,
+      "end": 526.16,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 223,
+      "start": 526.16,
+      "end": 527.16,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 224,
+      "start": 527.16,
+      "end": 528.16,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 225,
+      "start": 528.16,
+      "end": 529.66,
+      "en": "Now, the next word, I didn't really know what it meant.",
+      "zh": "现在，下一个字，我真的不知道这意味着什么。"
+    },
+    {
+      "id": 226,
+      "start": 530.0,
+      "end": 531.16,
+      "en": "So this is really interesting.",
+      "zh": "所以这真的很有趣。"
+    },
+    {
+      "id": 227,
+      "start": 532.24,
+      "end": 533.24,
+      "en": "Breadth.",
+      "zh": "广度。"
+    },
+    {
+      "id": 228,
+      "start": 533.24,
+      "end": 534.24,
+      "en": "Breadth.",
+      "zh": "广度。"
+    },
+    {
+      "id": 229,
+      "start": 534.24,
+      "end": 537.16,
+      "en": "So it's kind of like saying bread, but adding a th at the end.",
+      "zh": "所以这有点像说面包，但在最后添加一个 th 。"
+    },
+    {
+      "id": 230,
+      "start": 537.72,
+      "end": 538.72,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 231,
+      "start": 538.72,
+      "end": 539.72,
+      "en": "Breadth.",
+      "zh": "广度。"
+    },
+    {
+      "id": 232,
+      "start": 539.72,
+      "end": 540.72,
+      "en": "Breadth of experience.",
+      "zh": "经验的广度。"
+    },
+    {
+      "id": 233,
+      "start": 540.72,
+      "end": 541.07,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 234,
+      "start": 541.15,
+      "end": 543.43,
+      "en": "So this basically means it's wide.",
+      "zh": "所以这基本上意味着它很宽。"
+    },
+    {
+      "id": 235,
+      "start": 543.79,
+      "end": 544.21,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 236,
+      "start": 544.67,
+      "end": 550.99,
+      "en": "So when you have a great breadth of experience, you have a wide variety of experience.",
+      "zh": "因此，当您拥有丰富的经验时，您将拥有各种各样的经验。"
+    },
+    {
+      "id": 237,
+      "start": 551.45,
+      "end": 551.71,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 238,
+      "start": 551.81,
+      "end": 554.05,
+      "en": "So maybe in different fields or in different jobs.",
+      "zh": "所以也许在不同的领域或不同的工作中。"
+    },
+    {
+      "id": 239,
+      "start": 554.28,
+      "end": 559.96,
+      "en": "So you can have experience like in marketing and in a little bit in finance and a little bit in management.",
+      "zh": "因此，您可以拥有营销经验和金融领域的经验和管理方面的经验。"
+    },
+    {
+      "id": 240,
+      "start": 559.96,
+      "end": 560.96,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 241,
+      "start": 560.96,
+      "end": 561.35,
+      "en": "A breadth of experience.",
+      "zh": "丰富的经验。"
+    },
+    {
+      "id": 242,
+      "start": 562.53,
+      "end": 562.75,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 243,
+      "start": 562.96,
+      "end": 563.96,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 244,
+      "start": 563.96,
+      "end": 565.64,
+      "en": "And now for the last word, it's actually three in one.",
+      "zh": "现在说到最后一个字，它实际上是三合一的。"
+    },
+    {
+      "id": 245,
+      "start": 565.64,
+      "end": 566.5,
+      "en": "A three in one deal.",
+      "zh": "三合一交易。"
+    },
+    {
+      "id": 246,
+      "start": 566.64,
+      "end": 567.64,
+      "en": "A three in one deal.",
+      "zh": "三合一交易。"
+    },
+    {
+      "id": 247,
+      "start": 567.64,
+      "end": 568.86,
+      "en": "That actually they are very related.",
+      "zh": "实际上，它们非常相关。"
+    },
+    {
+      "id": 248,
+      "start": 569.28,
+      "end": 570.28,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 249,
+      "start": 570.28,
+      "end": 578.66,
+      "en": "So when he talked about his work experience, he was saying he supervised and coordinated the customer support team.",
+      "zh": "所以当他谈到他的工作经验时，他说他监督和协调了客户支持团队。"
+    },
+    {
+      "id": 250,
+      "start": 579.08,
+      "end": 580.08,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 251,
+      "start": 580.08,
+      "end": 581.96,
+      "en": "So he watched over, right?",
+      "zh": "于是他看了看，对吧？"
+    },
+    {
+      "id": 252,
+      "start": 582.6,
+      "end": 584.72,
+      "en": "And made things work together well.",
+      "zh": "并使事情协同工作。"
+    },
+    {
+      "id": 253,
+      "start": 584.72,
+      "end": 585.72,
+      "en": "To coordinate.",
+      "zh": "协调。"
+    },
+    {
+      "id": 254,
+      "start": 585.72,
+      "end": 586.72,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 255,
+      "start": 586.72,
+      "end": 589.88,
+      "en": "So there are really great verbs that you can use when you're talking about your job responsibilities.",
+      "zh": "因此，当您谈论您的工作职责时，您可以使用非常棒的动词。"
+    },
+    {
+      "id": 256,
+      "start": 590.24,
+      "end": 591.24,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 257,
+      "start": 591.24,
+      "end": 592.24,
+      "en": "I supervised.",
+      "zh": "我监督了。"
+    },
+    {
+      "id": 258,
+      "start": 592.24,
+      "end": 593.24,
+      "en": "I coordinated.",
+      "zh": "我协调了。"
+    },
+    {
+      "id": 259,
+      "start": 593.24,
+      "end": 594.24,
+      "en": "Mm-hmm.",
+      "zh": "嗯。"
+    },
+    {
+      "id": 260,
+      "start": 594.24,
+      "end": 597.29,
+      "en": "And here's another really great one that said to implement.",
+      "zh": "这是另一款非常棒的说要实施的东西。"
+    },
+    {
+      "id": 261,
+      "start": 597.92,
+      "end": 598.27,
+      "en": "To implement.",
+      "zh": "实施。"
+    },
+    {
+      "id": 262,
+      "start": 599.52,
+      "end": 600.91,
+      "en": "To make something happen.",
+      "zh": "让某事发生。"
+    },
+    {
+      "id": 263,
+      "start": 601.2,
+      "end": 601.81,
+      "en": "To put it in place.",
+      "zh": "将其放置到位。"
+    },
+    {
+      "id": 264,
+      "start": 602.2,
+      "end": 603.2,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 265,
+      "start": 603.2,
+      "end": 605.44,
+      "en": "So he implemented new strategies.",
+      "zh": "于是他实施了新的战略。"
+    },
+    {
+      "id": 266,
+      "start": 605.44,
+      "end": 605.95,
+      "en": "Implemented new policies.",
+      "zh": "实施新政策。"
+    },
+    {
+      "id": 267,
+      "start": 606.44,
+      "end": 607.44,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 268,
+      "start": 607.44,
+      "end": 608.19,
+      "en": "To set in action.",
+      "zh": "开始行动。"
+    },
+    {
+      "id": 269,
+      "start": 608.8,
+      "end": 609.03,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 270,
+      "start": 609.65,
+      "end": 610.05,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 271,
+      "start": 610.65,
+      "end": 613.67,
+      "en": "So a lot of great vocabulary, a lot of great stuff.",
+      "zh": "所以很多很棒的词汇，很多很棒的东西。"
+    },
+    {
+      "id": 272,
+      "start": 614.08,
+      "end": 617.27,
+      "en": "And well, you can use it for when you are at a job interview.",
+      "zh": "好吧，当你在求职面试时，你可以用它。"
+    },
+    {
+      "id": 273,
+      "start": 618.16,
+      "end": 620.19,
+      "en": "So let's listen to this dialogue again.",
+      "zh": "所以让我们再听一次这个对话。"
+    },
+    {
+      "id": 274,
+      "start": 620.76,
+      "end": 625.48,
+      "en": "And when we come back, we're going to give you some tips so you'll do well in this part of the job interview.",
+      "zh": "当我们回来时，我们将为您提供一些提示，以便您在工作面试的这一部分做得很好。"
+    },
+    {
+      "id": 275,
+      "start": 637.84,
+      "end": 638.57,
+      "en": "Thanks for coming in today.",
+      "zh": "感谢您今天的光临。"
+    },
+    {
+      "id": 276,
+      "start": 638.95,
+      "end": 640.29,
+      "en": "Did you have any trouble finding us?",
+      "zh": "您在找到我们时遇到任何困难吗？"
+    },
+    {
+      "id": 277,
+      "start": 640.71,
+      "end": 641.73,
+      "en": "Please take a seat.",
+      "zh": "请坐。"
+    },
+    {
+      "id": 278,
+      "start": 642.15,
+      "end": 642.51,
+      "en": "Thank you.",
+      "zh": "谢谢。"
+    },
+    {
+      "id": 279,
+      "start": 643.4,
+      "end": 644.4,
+      "en": "So let's get started.",
+      "zh": "那么开始吧。"
+    },
+    {
+      "id": 280,
+      "start": 645.17,
+      "end": 647.09,
+      "en": "Tell me a bit about your educational background.",
+      "zh": "先说说你的教育背景吧。"
+    },
+    {
+      "id": 281,
+      "start": 647.87,
+      "end": 648.35,
+      "en": "Sure.",
+      "zh": "当然。"
+    },
+    {
+      "id": 282,
+      "start": 648.47,
+      "end": 655.83,
+      "en": "Well, I graduated with honors from Chesterson University with a major in business administration with a specialization in information management.",
+      "zh": "好吧，我以优异的成绩毕业于切斯特森大学，主修工商管理，主修信息管理。"
+    },
+    {
+      "id": 283,
+      "start": 656.43,
+      "end": 657.51,
+      "en": "And I minored in psychology.",
+      "zh": "我辅修心理学。"
+    },
+    {
+      "id": 284,
+      "start": 658.17,
+      "end": 659.91,
+      "en": "I chose this course of study for two reasons.",
+      "zh": "我选这个专业方向有两个原因。"
+    },
+    {
+      "id": 285,
+      "start": 660.25,
+      "end": 664.51,
+      "en": "I wanted to gain some practical, marketable skills, which the information management track provided.",
+      "zh": "我想获得一些信息管理跟踪提供的实用、适销对路的技能。"
+    },
+    {
+      "id": 286,
+      "start": 665.33,
+      "end": 670.29,
+      "en": "And I also feel that the interpersonal skills are essential for professional success, hence the minor in psychology.",
+      "zh": "而且我也觉得人际交往能力对职业成功至关重要，因此心理学是次要的。"
+    },
+    {
+      "id": 287,
+      "start": 670.98,
+      "end": 671.46,
+      "en": "Interesting.",
+      "zh": "有意思。"
+    },
+    {
+      "id": 288,
+      "start": 672.18,
+      "end": 673.6,
+      "en": "And your postgraduate studies?",
+      "zh": "那研究生阶段呢？"
+    },
+    {
+      "id": 289,
+      "start": 674.16,
+      "end": 676.98,
+      "en": "Well, I am really passionate about consumer behavior.",
+      "zh": "我对消费者行为特别感兴趣。"
+    },
+    {
+      "id": 290,
+      "start": 677.64,
+      "end": 679.16,
+      "en": "So I pursued a master's in that area.",
+      "zh": "所以我在那个领域攻读了硕士学位。"
+    },
+    {
+      "id": 291,
+      "start": 679.84,
+      "end": 681.88,
+      "en": "I also strive to keep my professional skills current.",
+      "zh": "我也努力让自己的专业技能跟上发展。"
+    },
+    {
+      "id": 292,
+      "start": 681.88,
+      "end": 686.66,
+      "en": "So I continuously attend seminars and conferences related to management and customer service.",
+      "zh": "所以我经常参加管理和客户服务方面的研讨会。"
+    },
+    {
+      "id": 293,
+      "start": 687.6,
+      "end": 690.32,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 294,
+      "start": 692.1,
+      "end": 694.86,
+      "en": "Now, tell me a little bit about your work experience.",
+      "zh": "现在谈谈你的工作经历。"
+    },
+    {
+      "id": 295,
+      "start": 695.52,
+      "end": 697.84,
+      "en": "I see here that you previously worked at Oracle.",
+      "zh": "我在这里看到您以前在 Oracle 工作过。"
+    },
+    {
+      "id": 296,
+      "start": 698.73,
+      "end": 699.23,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 297,
+      "start": 699.23,
+      "end": 704.89,
+      "en": "I worked as their customer support manager, which brought me a breadth of experience in both client care and process management.",
+      "zh": "我担任他们的客户支持经理，这为我带来了客户服务和流程管理方面的丰富经验。"
+    },
+    {
+      "id": 298,
+      "start": 705.43,
+      "end": 711.85,
+      "en": "I supervised and coordinated the customer support team, as well as implemented new strategies to achieve better customer satisfaction.",
+      "zh": "我监督和协调了客户支持团队，并实施了新的策略以实现更好的客户满意度。"
+    },
+    {
+      "id": 299,
+      "start": 712.89,
+      "end": 713.45,
+      "en": "Interesting.",
+      "zh": "有意思。"
+    },
+    {
+      "id": 300,
+      "start": 714.67,
+      "end": 715.03,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 301,
+      "start": 715.03,
+      "end": 719.91,
+      "en": "In this position, I was able to make some pretty significant contributions to the overall success of the company.",
+      "zh": "在这个职位上，我能够为公司的整体成功做出一些相当重大的贡献。"
+    },
+    {
+      "id": 302,
+      "start": 720.37,
+      "end": 727.13,
+      "en": "With the different initiatives that we implemented, we lowered our churn rate to about 5%, which had a direct impact on revenue.",
+      "zh": "通过这些举措，我们把客户流失率降到了约百分之五，直接带动了营收。"
+    },
+    {
+      "id": 303,
+      "start": 734.83,
+      "end": 735.27,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 304,
+      "start": 735.4,
+      "end": 737.21,
+      "en": "Well, I want to talk about two main things.",
+      "zh": "好吧，我想谈谈两个主要的事情。"
+    },
+    {
+      "id": 305,
+      "start": 737.72,
+      "end": 742.95,
+      "en": "And the first thing I want to talk about is how you address this question about your educational background.",
+      "zh": "我想谈的第一件事是你如何解决这个关于你的教育背景的问题。"
+    },
+    {
+      "id": 306,
+      "start": 743.64,
+      "end": 746.28,
+      "en": "Like, what is the interviewer looking to find out?",
+      "zh": "比如，面试官想知道什么？"
+    },
+    {
+      "id": 307,
+      "start": 746.28,
+      "end": 747.07,
+      "en": "Okay, perfect.",
+      "zh": "好，太好了。"
+    },
+    {
+      "id": 308,
+      "start": 747.43,
+      "end": 753.91,
+      "en": "So when you are talking about your educational background, you shouldn't only talk about your college degree, right?",
+      "zh": "所以当你谈论你的教育背景时，你不应该只谈论你的大学学位，对吧？"
+    },
+    {
+      "id": 309,
+      "start": 754.2,
+      "end": 755.2,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 310,
+      "start": 755.2,
+      "end": 758.44,
+      "en": "You should talk about any type of training that you've had.",
+      "zh": "你应该谈谈你接受过的任何类型的培训。"
+    },
+    {
+      "id": 311,
+      "start": 758.49,
+      "end": 758.85,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 312,
+      "start": 758.85,
+      "end": 766.67,
+      "en": "I think it's really important to let the interviewer know that you're continually trying to update your skills and improve your knowledge.",
+      "zh": "我认为让面试官知道您不断尝试更新您的技能并提高您的知识非常重要。"
+    },
+    {
+      "id": 313,
+      "start": 767.13,
+      "end": 772.45,
+      "en": "So any sort of courses or seminars that you might attend, this is a great chance to highlight those.",
+      "zh": "因此，您可能参加的任何类型的课程或研讨会，这是突出这些的好机会。"
+    },
+    {
+      "id": 314,
+      "start": 772.81,
+      "end": 774.55,
+      "en": "And that's what the interviewer is looking for, right?",
+      "zh": "这就是面试官正在寻找的，对吧？"
+    },
+    {
+      "id": 315,
+      "start": 775.07,
+      "end": 783.53,
+      "en": "Also, any trade publications, any magazines that you read related to your job is a great way to sort of highlight your desire to keep learning.",
+      "zh": "此外，任何行业出版物、与您的工作相关的任何杂志都是突出您继续学习的愿望的好方法。"
+    },
+    {
+      "id": 316,
+      "start": 783.91,
+      "end": 804.07,
+      "en": "Well, I think that's really important because it's good that you went to a good university, you got this degree and everything, but continuously training yourself and maybe just by listening to business podcasts or reading specific magazines or stuff like that, that is demonstrating that you care about what you do and that you are continuously learning, right?",
+      "zh": "好吧，我认为这真的很重要，因为你上了一所好大学，你获得了这个学位和一切，这很好，但不断地训练自己，也许只是通过听商业播客或阅读特定的杂志或类似的东西，这表明你在乎你所做的事情和你在不断 学习对吧？"
+    },
+    {
+      "id": 317,
+      "start": 804.25,
+      "end": 804.43,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 318,
+      "start": 805.68,
+      "end": 806.68,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 319,
+      "start": 806.68,
+      "end": 810.28,
+      "en": "So those are the main things to talk about in your educational background.",
+      "zh": "所以这些是你的教育背景中要谈论的主要内容。"
+    },
+    {
+      "id": 320,
+      "start": 810.28,
+      "end": 814.49,
+      "en": "Now when this work experience question pops up, what should you really say?",
+      "zh": "现在，当这个工作经验问题出现时，你真的应该说什么？"
+    },
+    {
+      "id": 321,
+      "start": 815.4,
+      "end": 819.09,
+      "en": "When you're answering this question, I think there's something really important to keep in mind.",
+      "zh": "当你回答这个问题时，我认为有一些非常重要的事情要记住。"
+    },
+    {
+      "id": 322,
+      "start": 819.8,
+      "end": 820.23,
+      "en": "What's that?",
+      "zh": "那是什么？"
+    },
+    {
+      "id": 323,
+      "start": 820.8,
+      "end": 824.17,
+      "en": "You want to make sure that you're being as specific as possible, right?",
+      "zh": "你想确保你尽可能具体，对吧？"
+    },
+    {
+      "id": 324,
+      "start": 824.64,
+      "end": 825.64,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 325,
+      "start": 825.64,
+      "end": 828.28,
+      "en": "So giving examples of what you've done.",
+      "zh": "所以举例说明你所做的事情。"
+    },
+    {
+      "id": 326,
+      "start": 828.28,
+      "end": 834.05,
+      "en": "Like really specifically what you did, all of the sort of the main achievements you have.",
+      "zh": "就像你所做的那样，特别是你所做的所有主要成就。"
+    },
+    {
+      "id": 327,
+      "start": 834.63,
+      "end": 835.03,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 328,
+      "start": 835.05,
+      "end": 845.08,
+      "en": "So like for example, we saw in our dialogue that he talked about specific strategies that he implemented to improve customer support in that company.",
+      "zh": "例如，我们在对话中看到他谈到了他为改善该公司的客户支持而实施的具体策略。"
+    },
+    {
+      "id": 329,
+      "start": 845.28,
+      "end": 845.44,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 330,
+      "start": 845.56,
+      "end": 846.74,
+      "en": "And then he gave some numbers.",
+      "zh": "然后他给出了一些数字。"
+    },
+    {
+      "id": 331,
+      "start": 847.36,
+      "end": 848.36,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 332,
+      "start": 848.36,
+      "end": 851.58,
+      "en": "He said, yeah, he lowered the churn rate to about 5%.",
+      "zh": "他说，是的，他将流失率降低到了 5% 左右。"
+    },
+    {
+      "id": 333,
+      "start": 851.58,
+      "end": 862.75,
+      "en": "So it's so important whenever you can attach a number to your success or your achievement to be able to do that in the interview really, really demonstrates your achievement.",
+      "zh": "因此，每当您可以为您的成功或您的成就附加一个数字时，能够在面试中做到这一点，真正展示您的成就，这一点非常重要。"
+    },
+    {
+      "id": 334,
+      "start": 863.32,
+      "end": 864.32,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 335,
+      "start": 864.32,
+      "end": 865.39,
+      "en": "I think that's really important.",
+      "zh": "我认为这真的很重要。"
+    },
+    {
+      "id": 336,
+      "start": 866.2,
+      "end": 873.04,
+      "en": "And another thing when you're talking about previous jobs is make sure you keep it on a positive note.",
+      "zh": "当你谈论以前的工作时，另一件事是确保你保持积极的态度。"
+    },
+    {
+      "id": 337,
+      "start": 873.04,
+      "end": 881.71,
+      "en": "Even if your experience was not very good or you didn't like the company or you had problems, you should avoid talking about that and always keep it on a positive note.",
+      "zh": "即使你的经历不是很好，或者你不喜欢这家公司或者你有问题，你也应该避免谈论这个，并始终保持积极的态度。"
+    },
+    {
+      "id": 338,
+      "start": 881.99,
+      "end": 882.13,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 339,
+      "start": 882.43,
+      "end": 891.41,
+      "en": "So if the interviewer asks you why you want to join this company, why you're looking to leave your current job, you want to give these positive reasons.",
+      "zh": "因此，如果面试官问你为什么要加入这家公司，你为什么要离开你目前的工作，你想给出这些积极的理由。"
+    },
+    {
+      "id": 340,
+      "start": 891.52,
+      "end": 892.52,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 341,
+      "start": 892.52,
+      "end": 897.68,
+      "en": "I didn't do well because my boss was a jerk or I didn't like the company anymore.",
+      "zh": "我做得不好，因为我的老板是个混蛋，或者我不再喜欢这家公司了。"
+    },
+    {
+      "id": 342,
+      "start": 897.68,
+      "end": 906.92,
+      "en": "You know, you should answer it with something positive like, well, I think I need a change or this job opportunity is more aligned with what I want to do in the future, etc.",
+      "zh": "你知道，你应该用积极的东西来回答它，好吧，我认为我需要改变，否则这个工作机会更符合我未来想做的事情，等等。"
+    },
+    {
+      "id": 343,
+      "start": 906.92,
+      "end": 907.92,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 344,
+      "start": 907.92,
+      "end": 913.31,
+      "en": "So positive always on your interviews and just again, prepare for these questions that are always going to be there.",
+      "zh": "在你的面试中总是如此积极，然后再次为这些总是存在的问题做好准备。"
+    },
+    {
+      "id": 345,
+      "start": 913.72,
+      "end": 914.72,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 346,
+      "start": 914.72,
+      "end": 921.04,
+      "en": "So Erica, I know that you've done a lot of interviews and I understand that you've had a really weird question.",
+      "zh": "所以埃里卡，我知道你做了很多采访，我知道你有一个非常奇怪的问题。"
+    },
+    {
+      "id": 347,
+      "start": 921.04,
+      "end": 921.37,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 348,
+      "start": 921.73,
+      "end": 923.99,
+      "en": "In an interview, I once got this question.",
+      "zh": "在一次采访中，我曾经收到过这个问题。"
+    },
+    {
+      "id": 349,
+      "start": 925.24,
+      "end": 928.25,
+      "en": "If you were a tree, what kind of tree would you be?",
+      "zh": "如果你是一棵树，你会是什么样的树？"
+    },
+    {
+      "id": 350,
+      "start": 928.81,
+      "end": 929.17,
+      "en": "Really?",
+      "zh": "真的吗？"
+    },
+    {
+      "id": 351,
+      "start": 929.47,
+      "end": 930.05,
+      "en": "Yeah, I'm not kidding.",
+      "zh": "是的，我不是在开玩笑。"
+    },
+    {
+      "id": 352,
+      "start": 930.68,
+      "end": 931.68,
+      "en": "I really was asked that question.",
+      "zh": "我真的被问到这个问题。"
+    },
+    {
+      "id": 353,
+      "start": 931.68,
+      "end": 932.15,
+      "en": "What did you answer?",
+      "zh": "你回答了什么？"
+    },
+    {
+      "id": 354,
+      "start": 932.96,
+      "end": 936.85,
+      "en": "I think I said that I would want to be a willow tree because they're really beautiful.",
+      "zh": "我想我说过我想成为一棵柳树，因为它们真的很漂亮。"
+    },
+    {
+      "id": 355,
+      "start": 938.24,
+      "end": 939.03,
+      "en": "Was that the right answer?",
+      "zh": "这是正确的答案吗？"
+    },
+    {
+      "id": 356,
+      "start": 939.37,
+      "end": 939.99,
+      "en": "I don't know.",
+      "zh": "我不知道。"
+    },
+    {
+      "id": 357,
+      "start": 940.24,
+      "end": 941.97,
+      "en": "Like, what are you supposed to answer to that question?",
+      "zh": "比如，你应该回答这个问题什么？"
+    },
+    {
+      "id": 358,
+      "start": 942.24,
+      "end": 944.04,
+      "en": "I really don't know what the right answer was.",
+      "zh": "我真的不知道正确的答案是什么。"
+    },
+    {
+      "id": 359,
+      "start": 944.04,
+      "end": 949.48,
+      "en": "Well, some people, yeah, they'll ask you just, I don't know, random questions just to see what your response is.",
+      "zh": "好吧，有些人，是的，他们会问你，我不知道，随机的问题只是为了看看你的回答是什么。"
+    },
+    {
+      "id": 360,
+      "start": 949.88,
+      "end": 954.38,
+      "en": "I think also maybe it's just how you deal with the pressure.",
+      "zh": "我想也许这只是你如何应对压力。"
+    },
+    {
+      "id": 361,
+      "start": 954.9,
+      "end": 956.14,
+      "en": "With the unexpected questions.",
+      "zh": "带着意想不到的问题。"
+    },
+    {
+      "id": 362,
+      "start": 956.52,
+      "end": 957.52,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 363,
+      "start": 957.52,
+      "end": 960.92,
+      "en": "So it's like, that is pretty unexpected, but I guess you handle it pretty well.",
+      "zh": "所以就像，这很出乎意料，但我想你处理得很好。"
+    },
+    {
+      "id": 364,
+      "start": 960.96,
+      "end": 961.14,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 365,
+      "start": 961.92,
+      "end": 962.92,
+      "en": "Well, I mean, I got the job, so.",
+      "zh": "好吧，我的意思是，我得到了这份工作，所以。"
+    },
+    {
+      "id": 366,
+      "start": 962.92,
+      "end": 963.12,
+      "en": "Oh, nice.",
+      "zh": "哦，真不错。"
+    },
+    {
+      "id": 367,
+      "start": 963.92,
+      "end": 964.92,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 368,
+      "start": 964.92,
+      "end": 965.92,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 369,
+      "start": 965.92,
+      "end": 969.88,
+      "en": "I want to know from our listeners, if they were a tree, what kind of tree they would be?",
+      "zh": "我想从我们的听众那里知道，如果他们是一棵树，他们会是什么样的树？"
+    },
+    {
+      "id": 370,
+      "start": 969.88,
+      "end": 971.16,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 371,
+      "start": 971.16,
+      "end": 975.38,
+      "en": "And also tell us about, well, your job experience or your educational background.",
+      "zh": "并告诉我们，嗯，你的工作经验或你的教育背景。"
+    },
+    {
+      "id": 372,
+      "start": 976.46,
+      "end": 979.5,
+      "en": "Well, I know for example, that I've had a lot of different types of jobs.",
+      "zh": "好吧，例如，我知道我有很多不同类型的工作。"
+    },
+    {
+      "id": 373,
+      "start": 979.72,
+      "end": 983.26,
+      "en": "I've even been that person that gets on the bus and charges people the money.",
+      "zh": "我什至是那个上公共汽车并向人们收取钱的人。"
+    },
+    {
+      "id": 374,
+      "start": 983.52,
+      "end": 983.82,
+      "en": "I know.",
+      "zh": "我知道。"
+    },
+    {
+      "id": 375,
+      "start": 984.52,
+      "end": 989.2,
+      "en": "Like, you've had every job under the sun.",
+      "zh": "就像，你在阳光下完成了每一项工作。"
+    },
+    {
+      "id": 376,
+      "start": 989.2,
+      "end": 990.16,
+      "en": "So, but it's great.",
+      "zh": "所以，但它很棒。"
+    },
+    {
+      "id": 377,
+      "start": 990.4,
+      "end": 993.02,
+      "en": "So tell us, what's the weirdest job you've had?",
+      "zh": "那么告诉我们，你做过的最奇怪的工作是什么？"
+    },
+    {
+      "id": 378,
+      "start": 993.2,
+      "end": 996.67,
+      "en": "What's the craziest or the best job or any experiences?",
+      "zh": "什么是最疯狂或最好的工作或任何经历？"
+    },
+    {
+      "id": 379,
+      "start": 997.13,
+      "end": 997.25,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 380,
+      "start": 998.04,
+      "end": 999.88,
+      "en": "So visit our website, EnglishPod.com.",
+      "zh": "因此，请访问我们的网站 englishpod.com。"
+    },
+    {
+      "id": 381,
+      "start": 999.88,
+      "end": 1001.65,
+      "en": "Leave your questions and comments there on the website.",
+      "zh": "在网站上留下您的问题和评论。"
+    },
+    {
+      "id": 382,
+      "start": 1002.88,
+      "end": 1004.55,
+      "en": "And we'll definitely be there to answer them.",
+      "zh": "我们肯定会在那里回答他们。"
+    },
+    {
+      "id": 383,
+      "start": 1005.08,
+      "end": 1005.77,
+      "en": "And we hope to see you there.",
+      "zh": "我们希望在那里见到你。"
+    },
+    {
+      "id": 384,
+      "start": 1006.08,
+      "end": 1007.08,
+      "en": "Thanks for listening and goodbye.",
+      "zh": "感谢收听，再见。"
+    },
+    {
+      "id": 385,
+      "start": 1007.08,
+      "end": 1012.08,
+      "en": "Bye.",
+      "zh": "再见。"
+    }
+  ],
+  "dialog": {
+    "start": 215.6,
+    "end": 304.94,
+    "segmentIds": [
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115
+    ]
+  }
+}

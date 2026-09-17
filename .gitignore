@@ -1,0 +1,42 @@
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+Desktop.ini
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Dependencies, caches and test artifacts
+node_modules/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+coverage/
+playwright-report/
+test-results/
+*.log
+*.tmp
+
+# Local credentials and deployment files
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.pfx
+*.p12
+*.crt
+/certificate-setup.html
+
+# Local assistant state and generated audit intermediates
+.claude/
+.cluade/
+.codex/
+.codegraph/
+/docs/superpowers/
+/audit.json
+
+# Course resources (mp3, lessons, srt, txt, md, pdf) remain tracked.

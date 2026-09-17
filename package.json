@@ -1,0 +1,12 @@
+{
+  "name": "englishpod-player",
+  "version": "1.0.0",
+  "private": true,
+  "description": "EnglishPod 365 bilingual learning player",
+  "scripts": {
+    "test": "node --test tests/player-core.test.js tests/player-browser.test.js"
+  },
+  "devDependencies": {
+    "playwright": "1.63.0"
+  }
+}

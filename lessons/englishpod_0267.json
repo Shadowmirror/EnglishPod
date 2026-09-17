@@ -1,0 +1,1831 @@
+{
+  "version": 1,
+  "id": 267,
+  "number": "0267",
+  "title": "Daily Life - Making A Bank Transfer",
+  "audio": "mp3/267. Daily Life - Making A Bank Transfer.mp3",
+  "duration": 770.2988125,
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.3,
+      "end": 3.2,
+      "en": "Hello everyone and welcome to EnglishPod.",
+      "zh": "大家好，欢迎来到 EnglishPod。"
+    },
+    {
+      "id": 2,
+      "start": 3.46,
+      "end": 3.86,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 4.32,
+      "end": 8.66,
+      "en": "My name is Catherine and today we have an intermediate level lesson about going to the bank.",
+      "zh": "我的名字是凯瑟琳，今天我们有一个关于去银行的中级课程。"
+    },
+    {
+      "id": 4,
+      "start": 9.02,
+      "end": 9.36,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 5,
+      "start": 9.38,
+      "end": 13.1,
+      "en": "Today we're going to go to the bank and we need to do something there.",
+      "zh": "今天我们要去银行，我们需要在那里做点什么。"
+    },
+    {
+      "id": 6,
+      "start": 13.24,
+      "end": 15.24,
+      "en": "We're not going to put money in the bank actually.",
+      "zh": "我们实际上不会把钱存入银行。"
+    },
+    {
+      "id": 7,
+      "start": 15.24,
+      "end": 16.48,
+      "en": "We're going to make a transfer.",
+      "zh": "我们要进行转移。"
+    },
+    {
+      "id": 8,
+      "start": 17.32,
+      "end": 19.22,
+      "en": "Okay, so you'll learn all about this in a minute.",
+      "zh": "好的，所以你会在一分钟内了解这一切。"
+    },
+    {
+      "id": 9,
+      "start": 19.72,
+      "end": 21.32,
+      "en": "Let's take a listen to the dialogue first.",
+      "zh": "让我们先听对话。"
+    },
+    {
+      "id": 10,
+      "start": 27.73,
+      "end": 28.43,
+      "en": "Good morning.",
+      "zh": "早上好。"
+    },
+    {
+      "id": 11,
+      "start": 28.95,
+      "end": 30.43,
+      "en": "Welcome to Bank of the USA.",
+      "zh": "欢迎来到美国银行。"
+    },
+    {
+      "id": 12,
+      "start": 31.03,
+      "end": 31.95,
+      "en": "How may I help you today?",
+      "zh": "我今天有什么可以帮助你的吗？"
+    },
+    {
+      "id": 13,
+      "start": 32.53,
+      "end": 34.69,
+      "en": "Hi, I need to transfer some money to another account.",
+      "zh": "嗨，我需要把一些钱转移到另一个账户。"
+    },
+    {
+      "id": 14,
+      "start": 35.21,
+      "end": 35.43,
+      "en": "It's urgent.",
+      "zh": "这事很急。"
+    },
+    {
+      "id": 15,
+      "start": 36.04,
+      "end": 36.56,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 16,
+      "start": 36.8,
+      "end": 38.94,
+      "en": "Have you made a wire transfer at our bank before?",
+      "zh": "您以前在我们的银行进行过电汇吗？"
+    },
+    {
+      "id": 17,
+      "start": 39.34,
+      "end": 41.36,
+      "en": "No, I've never made a transfer before.",
+      "zh": "没有，我以前从没办过转账。"
+    },
+    {
+      "id": 18,
+      "start": 42.5,
+      "end": 43.5,
+      "en": "It's all right.",
+      "zh": "没关系。"
+    },
+    {
+      "id": 19,
+      "start": 43.5,
+      "end": 44.36,
+      "en": "I will take you through the procedure.",
+      "zh": "我会带你完成整个过程。"
+    },
+    {
+      "id": 20,
+      "start": 45.12,
+      "end": 48.04,
+      "en": "Are you transferring funds to a company or an individual account?",
+      "zh": "您是将资金转移到公司还是个人账户？"
+    },
+    {
+      "id": 21,
+      "start": 48.64,
+      "end": 49.6,
+      "en": "A company account.",
+      "zh": "公司账户。"
+    },
+    {
+      "id": 22,
+      "start": 50.08,
+      "end": 50.8,
+      "en": "I need to pay a bill.",
+      "zh": "我需要付账单。"
+    },
+    {
+      "id": 23,
+      "start": 51.58,
+      "end": 51.94,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 24,
+      "start": 52.36,
+      "end": 58.22,
+      "en": "I'll need the name of the company and their bank routing number as well as their bank's address and phone number.",
+      "zh": "我需要公司名称、收款银行的路由号码，以及银行的地址和电话号码。"
+    },
+    {
+      "id": 25,
+      "start": 58.86,
+      "end": 60.94,
+      "en": "I have all the information in this folder.",
+      "zh": "我有这个文件夹中的所有信息。"
+    },
+    {
+      "id": 26,
+      "start": 61.74,
+      "end": 63.22,
+      "en": "Well, you've come prepared.",
+      "zh": "看来你准备得很充分。"
+    },
+    {
+      "id": 27,
+      "start": 67.84,
+      "end": 72.34,
+      "en": "I have all the necessary materials so we can go ahead and make the transfer right now.",
+      "zh": "所需资料都齐了，现在就可以办理转账。"
+    },
+    {
+      "id": 28,
+      "start": 72.96,
+      "end": 75.68,
+      "en": "It's a simple transaction and we can process it today.",
+      "zh": "这是一个简单的交易，我们今天可以处理它。"
+    },
+    {
+      "id": 29,
+      "start": 76.78,
+      "end": 78.06,
+      "en": "Oh, that's such a relief.",
+      "zh": "哦，这真是一种解脱。"
+    },
+    {
+      "id": 30,
+      "start": 78.74,
+      "end": 80.28,
+      "en": "I didn't want the payment to be overdue.",
+      "zh": "我不希望付款逾期。"
+    },
+    {
+      "id": 31,
+      "start": 80.66,
+      "end": 81.58,
+      "en": "Thank you so much.",
+      "zh": "非常感谢。"
+    },
+    {
+      "id": 32,
+      "start": 81.96,
+      "end": 82.78,
+      "en": "It's my pleasure.",
+      "zh": "这是我的荣幸。"
+    },
+    {
+      "id": 33,
+      "start": 83.28,
+      "end": 87.62,
+      "en": "All right, we're back.",
+      "zh": "好了，我们回来了。"
+    },
+    {
+      "id": 34,
+      "start": 87.98,
+      "end": 90.26,
+      "en": "So interesting dialogue, very common situation.",
+      "zh": "如此有趣的对话，非常普遍的情况。"
+    },
+    {
+      "id": 35,
+      "start": 90.72,
+      "end": 92.72,
+      "en": "We need to transfer money to another account.",
+      "zh": "我们需要将资金转移到另一个帐户。"
+    },
+    {
+      "id": 36,
+      "start": 93.34,
+      "end": 95.6,
+      "en": "So we have some very interesting vocab words right there.",
+      "zh": "所以我们有一些非常有趣的词汇词。"
+    },
+    {
+      "id": 37,
+      "start": 95.68,
+      "end": 98.04,
+      "en": "Why don't we take a look at those on Language Takeaway.",
+      "zh": "我们为什么不看看那些关于语言外卖的东西。"
+    },
+    {
+      "id": 38,
+      "start": 100.05,
+      "end": 101.21,
+      "en": "Language Takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 39,
+      "start": 102.51,
+      "end": 106.51,
+      "en": "So Marco, the first word is one that you've already said a couple of times in today's lesson.",
+      "zh": "所以马可，第一个词是你在今天的课程中已经说过几次了。"
+    },
+    {
+      "id": 40,
+      "start": 106.73,
+      "end": 107.67,
+      "en": "It is to transfer.",
+      "zh": "这是转移。"
+    },
+    {
+      "id": 41,
+      "start": 108.13,
+      "end": 108.93,
+      "en": "Okay, that's right.",
+      "zh": "好吧，没错。"
+    },
+    {
+      "id": 42,
+      "start": 109.15,
+      "end": 110.51,
+      "en": "We need to transfer money.",
+      "zh": "我们需要转账。"
+    },
+    {
+      "id": 43,
+      "start": 111.13,
+      "end": 113.21,
+      "en": "So to transfer, what does this verb mean?",
+      "zh": "那么转移，这个动词是什么意思？"
+    },
+    {
+      "id": 44,
+      "start": 113.65,
+      "end": 116.59,
+      "en": "So to transfer means to move from one place to another.",
+      "zh": "所以转移意味着从一个地方转移到另一个地方。"
+    },
+    {
+      "id": 45,
+      "start": 116.85,
+      "end": 123.31,
+      "en": "In the case of money, you're moving money from one bank to another bank or from one account to another account.",
+      "zh": "在金钱的情况下，您将资金从一家银行转移到另一家银行或从一个账户转移到另一个账户。"
+    },
+    {
+      "id": 46,
+      "start": 123.55,
+      "end": 125.47,
+      "en": "So just think of transferring as moving.",
+      "zh": "所以只是把转移作为移动。"
+    },
+    {
+      "id": 47,
+      "start": 126.0,
+      "end": 126.46,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 48,
+      "start": 126.9,
+      "end": 130.4,
+      "en": "But the bank teller also mentioned something about a wire transfer.",
+      "zh": "但银行出纳员也提到了一些关于电汇的事情。"
+    },
+    {
+      "id": 49,
+      "start": 130.86,
+      "end": 132.38,
+      "en": "So that's basically the same thing, right?",
+      "zh": "所以这基本上是一样的，对吧？"
+    },
+    {
+      "id": 50,
+      "start": 132.74,
+      "end": 133.14,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 51,
+      "start": 133.3,
+      "end": 139.22,
+      "en": "So when you're talking about money, you don't actually take a bag of money and you don't walk to another bank to put it in the account.",
+      "zh": "因此，当您谈论金钱时，您实际上并没有拿一袋钱，也不会走到另一家银行将其存入账户。"
+    },
+    {
+      "id": 52,
+      "start": 139.6,
+      "end": 142.76,
+      "en": "A wire transfer means that the transfer is electronic.",
+      "zh": "电汇意味着传输是电子的。"
+    },
+    {
+      "id": 53,
+      "start": 142.76,
+      "end": 146.82,
+      "en": "One bank tells another bank that you're going to exchange this money.",
+      "zh": "一家银行告诉另一家银行你要兑换这笔钱。"
+    },
+    {
+      "id": 54,
+      "start": 146.82,
+      "end": 151.0,
+      "en": "So it's going to move from one person to another person or from one company to another company.",
+      "zh": "因此，它将从一个人转移到另一个人或从一个公司转移到另一家公司。"
+    },
+    {
+      "id": 55,
+      "start": 151.0,
+      "end": 152.8,
+      "en": "But it's never actually the money itself.",
+      "zh": "但它从来都不是钱本身。"
+    },
+    {
+      "id": 56,
+      "start": 152.8,
+      "end": 155.72,
+      "en": "It's always just the number of funds in the account.",
+      "zh": "它总是只是账户中的资金数量。"
+    },
+    {
+      "id": 57,
+      "start": 155.72,
+      "end": 156.06,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 58,
+      "start": 156.72,
+      "end": 161.44,
+      "en": "Okay, so a wire transfer, to transfer money electronically from one account to another.",
+      "zh": "好的，所以电汇，以电子方式将资金从一个帐户转移到另一个帐户。"
+    },
+    {
+      "id": 59,
+      "start": 162.1,
+      "end": 166.28,
+      "en": "And talking about this word account, we're talking about a bank account.",
+      "zh": "说到这个词帐户，我们谈论的是一个银行帐户。"
+    },
+    {
+      "id": 60,
+      "start": 166.28,
+      "end": 167.28,
+      "en": "What is this?",
+      "zh": "这是什么？"
+    },
+    {
+      "id": 61,
+      "start": 167.28,
+      "end": 172.52,
+      "en": "Well, this is really important even if you're not making a wire transfer or if you're not working at a bank.",
+      "zh": "好吧，即使您没有进行电汇或您不在银行工作，这也非常重要。"
+    },
+    {
+      "id": 62,
+      "start": 172.52,
+      "end": 176.2,
+      "en": "This is something that most people have for their personal use.",
+      "zh": "这是大多数人为个人使用而拥有的东西。"
+    },
+    {
+      "id": 63,
+      "start": 176.2,
+      "end": 181.72,
+      "en": "So an account is a space for money in a bank that's kind of registered to one person or one company.",
+      "zh": "因此，一个账户是在向一个人或一家公司注册的银行中的钱空间。"
+    },
+    {
+      "id": 64,
+      "start": 182.28,
+      "end": 184.24,
+      "en": "And there are many, many different kinds of accounts.",
+      "zh": "并且有许多不同类型的帐户。"
+    },
+    {
+      "id": 65,
+      "start": 184.92,
+      "end": 185.08,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 66,
+      "start": 185.92,
+      "end": 187.54,
+      "en": "Many of you probably have a savings account.",
+      "zh": "你们中的许多人可能有一个储蓄账户。"
+    },
+    {
+      "id": 67,
+      "start": 187.88,
+      "end": 190.64,
+      "en": "This is where you keep your money to save for the future.",
+      "zh": "这是您存钱以备将来存钱的地方。"
+    },
+    {
+      "id": 68,
+      "start": 191.24,
+      "end": 201.46,
+      "en": "Or many companies or people have a checking account or a default account where basically you put money in, but you're also taking money out and paying for bills and paying to go to the movies, etc.",
+      "zh": "或者很多公司或人都有一个支票账户或一个默认账户，你基本上把钱存进去，但你也在取钱支付账单和付钱去看电影等。"
+    },
+    {
+      "id": 69,
+      "start": 201.92,
+      "end": 203.8,
+      "en": "Yeah, so these different accounts have different rules.",
+      "zh": "是的，所以这些不同的帐户有不同的规则。"
+    },
+    {
+      "id": 70,
+      "start": 204.6,
+      "end": 209.02,
+      "en": "They have rules about how much money you can keep in them or how much money you need to open them.",
+      "zh": "他们有关于你可以在其中保留多少钱或你需要多少钱来打开它们的规则。"
+    },
+    {
+      "id": 71,
+      "start": 209.6,
+      "end": 211.6,
+      "en": "So the basic word here is account.",
+      "zh": "所以这里的基本词是帐户。"
+    },
+    {
+      "id": 72,
+      "start": 211.6,
+      "end": 215.44,
+      "en": "And just remember that companies and people can all have accounts at a bank.",
+      "zh": "请记住，公司和人员都可以在银行拥有账户。"
+    },
+    {
+      "id": 73,
+      "start": 215.44,
+      "end": 215.74,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 74,
+      "start": 216.44,
+      "end": 220.4,
+      "en": "Okay, so when talking about an account, we're talking about transferring money to another account.",
+      "zh": "好的，所以在谈论帐户时，我们谈论的是将资金转移到另一个帐户。"
+    },
+    {
+      "id": 75,
+      "start": 221.44,
+      "end": 222.74,
+      "en": "We don't say we want to transfer money.",
+      "zh": "我们不是说我们要转账。"
+    },
+    {
+      "id": 76,
+      "start": 222.92,
+      "end": 224.6,
+      "en": "We say we want to transfer funds.",
+      "zh": "我们说我们想转移资金。"
+    },
+    {
+      "id": 77,
+      "start": 225.2,
+      "end": 226.6,
+      "en": "Funds.",
+      "zh": "资金。"
+    },
+    {
+      "id": 78,
+      "start": 226.6,
+      "end": 230.64,
+      "en": "So funds, we usually say in the plural, funds, with an S. This means money.",
+      "zh": "所以基金，我们通常在复数中说，基金，带有 S。这意味着金钱。"
+    },
+    {
+      "id": 79,
+      "start": 231.24,
+      "end": 237.62,
+      "en": "So we're talking about transferring funds from one company to another or I could say I need to deposit funds in my account.",
+      "zh": "所以我们谈论的是将资金从一家公司转移到另一家公司，或者我可以说我需要将资金存入我的账户。"
+    },
+    {
+      "id": 80,
+      "start": 238.04,
+      "end": 238.24,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 81,
+      "start": 239.04,
+      "end": 246.9,
+      "en": "Now an interesting word because funds with an S at the end, that's a plural noun as you said, but if we use it in the singular, it could also be a verb, to fund.",
+      "zh": "现在是一个有趣的词，因为最后带有 s 的资金，正如你所说的，这是一个复数名词，但如果我们在单数中使用它，它也可能是一个动词，来资助。"
+    },
+    {
+      "id": 82,
+      "start": 247.74,
+      "end": 247.86,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 83,
+      "start": 248.74,
+      "end": 250.3,
+      "en": "And that means to pay for something or someone.",
+      "zh": "这意味着为某事或某人付费。"
+    },
+    {
+      "id": 84,
+      "start": 250.8,
+      "end": 254.28,
+      "en": "So my grandfather funded my college education.",
+      "zh": "所以我的祖父资助了我的大学教育。"
+    },
+    {
+      "id": 85,
+      "start": 254.68,
+      "end": 257.32,
+      "en": "He paid money for my college education.",
+      "zh": "他为我的大学教育付了钱。"
+    },
+    {
+      "id": 86,
+      "start": 257.32,
+      "end": 257.51,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 87,
+      "start": 258.32,
+      "end": 262.52,
+      "en": "So both words, either the verb or the noun, have to do with money.",
+      "zh": "所以这两个词，无论是动词还是名词，都与金钱有关。"
+    },
+    {
+      "id": 88,
+      "start": 262.52,
+      "end": 268.4,
+      "en": "And when we're talking about transferring money, we're talking about a type of transaction, right?",
+      "zh": "当我们谈论转移资金时，我们谈论的是一种交易，对吧？"
+    },
+    {
+      "id": 89,
+      "start": 268.4,
+      "end": 272.8,
+      "en": "Where a bank transfer or a wire transfer is a type of transaction.",
+      "zh": "银行转账或电汇是一种交易。"
+    },
+    {
+      "id": 90,
+      "start": 272.8,
+      "end": 273.8,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 91,
+      "start": 273.8,
+      "end": 281.94,
+      "en": "So a transaction is a noun and it's something that you do at a bank, for example, usually involving the exchange of money.",
+      "zh": "所以交易是一个名词，它是你在银行做的事情，例如，通常涉及货币交换。"
+    },
+    {
+      "id": 92,
+      "start": 281.94,
+      "end": 290.8,
+      "en": "So a wire transfer is a kind of transaction, but also depositing or putting money into my savings account is also a kind of transaction.",
+      "zh": "所以电汇是一种交易，但也是把钱存入我的储蓄账户也是一种交易。"
+    },
+    {
+      "id": 93,
+      "start": 290.8,
+      "end": 290.99,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 94,
+      "start": 291.8,
+      "end": 295.71,
+      "en": "So a transaction is kind of like a business move or a business deal involving money.",
+      "zh": "因此，交易有点像商业举措或涉及金钱的商业交易。"
+    },
+    {
+      "id": 95,
+      "start": 295.92,
+      "end": 299.41,
+      "en": "For example, a transaction can also be buying a car.",
+      "zh": "例如，交易也可以是购买汽车。"
+    },
+    {
+      "id": 96,
+      "start": 299.69,
+      "end": 299.99,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 97,
+      "start": 300.19,
+      "end": 307.23,
+      "en": "So the transaction is I give my money to Marco, the car salesperson, and the transaction is exchanging that money for the car.",
+      "zh": "所以交易是我把我的钱给了汽车销售人员Marco，交易是把这笔钱换成了汽车。"
+    },
+    {
+      "id": 98,
+      "start": 307.41,
+      "end": 307.91,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 99,
+      "start": 308.39,
+      "end": 308.75,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 100,
+      "start": 309.33,
+      "end": 317.01,
+      "en": "And lastly, since we needed to pay a bill, we were worried that the bill will be overdue and that's why we really needed to make this wire transfer.",
+      "zh": "最后，由于我们需要支付账单，我们担心账单会迟到，这就是我们真正需要进行电汇的原因。"
+    },
+    {
+      "id": 101,
+      "start": 317.39,
+      "end": 317.69,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 102,
+      "start": 318.01,
+      "end": 320.69,
+      "en": "So to be overdue is to be late.",
+      "zh": "所以迟到就是迟到。"
+    },
+    {
+      "id": 103,
+      "start": 321.32,
+      "end": 322.32,
+      "en": "So think about due.",
+      "zh": "所以想想应有的。"
+    },
+    {
+      "id": 104,
+      "start": 322.32,
+      "end": 324.37,
+      "en": "This is the time when something has to be done by.",
+      "zh": "这是必须完成某事的时候。"
+    },
+    {
+      "id": 105,
+      "start": 325.24,
+      "end": 332.35,
+      "en": "So for example, if the bill for the electricity is due on Wednesday, but I pay it on Thursday, it's overdue.",
+      "zh": "因此，例如，如果周三到期的电费，但我在星期四支付，那就到期了。"
+    },
+    {
+      "id": 106,
+      "start": 332.96,
+      "end": 333.25,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 107,
+      "start": 333.61,
+      "end": 337.63,
+      "en": "So it not only has to do with money, it could also be something that is late.",
+      "zh": "所以它不仅与金钱有关，也可能是迟到的事情。"
+    },
+    {
+      "id": 108,
+      "start": 337.83,
+      "end": 344.57,
+      "en": "For example, if I visit my grandma after not going there for three months, you would say this visit is long overdue.",
+      "zh": "例如，如果我在三个月内没有去那里拜访我的奶奶，你会说这次访问早就应该了。"
+    },
+    {
+      "id": 109,
+      "start": 344.97,
+      "end": 349.21,
+      "en": "That means Marco should have visited his grandmother earlier, but he didn't.",
+      "zh": "这意味着马可应该早点去拜访他的祖母，但他没有。"
+    },
+    {
+      "id": 110,
+      "start": 349.33,
+      "end": 349.77,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 111,
+      "start": 350.23,
+      "end": 350.63,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 112,
+      "start": 350.85,
+      "end": 356.9,
+      "en": "So a lot of great vocab there all involving banks and different types of words you may find when transferring funds.",
+      "zh": "因此，很多很棒的词汇都涉及银行和您在转移资金时可能会发现的不同类型的单词。"
+    },
+    {
+      "id": 113,
+      "start": 357.6,
+      "end": 361.1,
+      "en": "So why don't we listen to the dialogue again and we'll be back in a bit with Fluency Builder.",
+      "zh": "那么我们为什么不再听一次对话，我们会回到 Flueny Builder 中。"
+    },
+    {
+      "id": 114,
+      "start": 369.04,
+      "end": 369.32,
+      "en": "Good morning.",
+      "zh": "早上好。"
+    },
+    {
+      "id": 115,
+      "start": 370.04,
+      "end": 371.34,
+      "en": "Welcome to Bank of the USA.",
+      "zh": "欢迎来到美国银行。"
+    },
+    {
+      "id": 116,
+      "start": 372.0,
+      "end": 372.88,
+      "en": "How may I help you today?",
+      "zh": "我今天有什么可以帮助你的吗？"
+    },
+    {
+      "id": 117,
+      "start": 373.4,
+      "end": 373.58,
+      "en": "Hi.",
+      "zh": "嗨。"
+    },
+    {
+      "id": 118,
+      "start": 374.0,
+      "end": 376.2,
+      "en": "I'm here to transfer some money to another account.",
+      "zh": "我来这里是为了转移一些钱到另一个账户。"
+    },
+    {
+      "id": 119,
+      "start": 376.2,
+      "end": 376.34,
+      "en": "It's urgent.",
+      "zh": "这事很急。"
+    },
+    {
+      "id": 120,
+      "start": 377.2,
+      "end": 377.46,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 121,
+      "start": 377.8,
+      "end": 379.84,
+      "en": "Have you made a wire transfer at our bank before?",
+      "zh": "您以前在我们的银行进行过电汇吗？"
+    },
+    {
+      "id": 122,
+      "start": 380.24,
+      "end": 382.26,
+      "en": "No, I've never made a transfer before.",
+      "zh": "没有，我以前从没办过转账。"
+    },
+    {
+      "id": 123,
+      "start": 383.4,
+      "end": 384.4,
+      "en": "It's all right.",
+      "zh": "没关系。"
+    },
+    {
+      "id": 124,
+      "start": 384.4,
+      "end": 385.32,
+      "en": "I will take you through the procedure.",
+      "zh": "我会带你完成整个过程。"
+    },
+    {
+      "id": 125,
+      "start": 386.04,
+      "end": 388.92,
+      "en": "Are you transferring funds to a company or an individual account?",
+      "zh": "您是将资金转移到公司还是个人账户？"
+    },
+    {
+      "id": 126,
+      "start": 389.84,
+      "end": 390.52,
+      "en": "A company account.",
+      "zh": "公司账户。"
+    },
+    {
+      "id": 127,
+      "start": 390.84,
+      "end": 392.44,
+      "en": "I need to pay a bill.",
+      "zh": "我需要付账单。"
+    },
+    {
+      "id": 128,
+      "start": 392.44,
+      "end": 392.86,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 129,
+      "start": 393.42,
+      "end": 399.16,
+      "en": "I'll need the name of the company and their bank routing number, as well as their bank's address and phone number.",
+      "zh": "我需要公司的名称和他们的银行路由号码，以及他们的银行地址和电话号码。"
+    },
+    {
+      "id": 130,
+      "start": 399.7,
+      "end": 401.9,
+      "en": "I have all the information in this folder.",
+      "zh": "我有这个文件夹中的所有信息。"
+    },
+    {
+      "id": 131,
+      "start": 402.56,
+      "end": 408.76,
+      "en": "Well, you've come prepared.",
+      "zh": "看来你准备得很充分。"
+    },
+    {
+      "id": 132,
+      "start": 408.76,
+      "end": 413.24,
+      "en": "I have all the necessary materials so we can go ahead and make the transfer right now.",
+      "zh": "所需资料都齐了，现在就可以办理转账。"
+    },
+    {
+      "id": 133,
+      "start": 413.92,
+      "end": 416.6,
+      "en": "It's a simple transaction and we can process it today.",
+      "zh": "这是一个简单的交易，我们今天可以处理它。"
+    },
+    {
+      "id": 134,
+      "start": 417.81,
+      "end": 418.99,
+      "en": "Oh, that's such a relief.",
+      "zh": "哦，这真是一种解脱。"
+    },
+    {
+      "id": 135,
+      "start": 419.56,
+      "end": 421.22,
+      "en": "I didn't want the payment to be overdue.",
+      "zh": "我不希望付款逾期。"
+    },
+    {
+      "id": 136,
+      "start": 421.62,
+      "end": 422.5,
+      "en": "Thank you so much.",
+      "zh": "非常感谢。"
+    },
+    {
+      "id": 137,
+      "start": 422.82,
+      "end": 423.68,
+      "en": "It's my pleasure.",
+      "zh": "这是我的荣幸。"
+    },
+    {
+      "id": 138,
+      "start": 424.2,
+      "end": 425.2,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 139,
+      "start": 425.2,
+      "end": 426.2,
+      "en": "We're back.",
+      "zh": "我们回来了。"
+    },
+    {
+      "id": 140,
+      "start": 428.08,
+      "end": 429.92,
+      "en": "So we have three key phrases for you.",
+      "zh": "所以我们为您准备了三个关键短语。"
+    },
+    {
+      "id": 141,
+      "start": 430.12,
+      "end": 431.72,
+      "en": "Let's take a look at those now on Fluency Builder.",
+      "zh": "现在来看看“流利表达”里的这些内容。"
+    },
+    {
+      "id": 142,
+      "start": 433.39,
+      "end": 434.15,
+      "en": "Fluency Builder.",
+      "zh": "流利表达。"
+    },
+    {
+      "id": 143,
+      "start": 435.48,
+      "end": 439.84,
+      "en": "So our first phrase comes from something that the person at the bank told the client.",
+      "zh": "所以我们的第一个短语来自银行的人告诉客户的事情。"
+    },
+    {
+      "id": 144,
+      "start": 439.84,
+      "end": 440.93,
+      "en": "That person said, it's all right.",
+      "zh": "那个人说，没关系。"
+    },
+    {
+      "id": 145,
+      "start": 441.48,
+      "end": 443.55,
+      "en": "I will take you through the procedure.",
+      "zh": "我会带你完成整个过程。"
+    },
+    {
+      "id": 146,
+      "start": 443.96,
+      "end": 444.96,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 147,
+      "start": 444.96,
+      "end": 447.08,
+      "en": "So let's look at this word procedure.",
+      "zh": "所以让我们看看这个单词程序。"
+    },
+    {
+      "id": 148,
+      "start": 447.08,
+      "end": 450.36,
+      "en": "Procedure can be many different things, but what is it in this case?",
+      "zh": "过程可以有很多不同的东西，但在这种情况下它是什么？"
+    },
+    {
+      "id": 149,
+      "start": 450.36,
+      "end": 456.65,
+      "en": "It's basically the steps or the process of taking money from the account and transferring it to another one.",
+      "zh": "这基本上是从帐户中取钱并将其转移到另一个帐户的步骤或过程。"
+    },
+    {
+      "id": 150,
+      "start": 456.96,
+      "end": 457.55,
+      "en": "That's the procedure.",
+      "zh": "这就是程序。"
+    },
+    {
+      "id": 151,
+      "start": 457.96,
+      "end": 464.08,
+      "en": "So we have to do all the steps, you have to fill out the paperwork, you have to sign here and all these things.",
+      "zh": "所以我们必须做所有的步骤，你必须填写文书工作，你必须在这里签名和所有这些事情。"
+    },
+    {
+      "id": 152,
+      "start": 464.08,
+      "end": 465.08,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 153,
+      "start": 465.08,
+      "end": 466.96,
+      "en": "So we're talking about a wire transfer.",
+      "zh": "所以我们谈论的是电汇。"
+    },
+    {
+      "id": 154,
+      "start": 466.96,
+      "end": 469.61,
+      "en": "So there is a procedure for doing a wire transfer.",
+      "zh": "所以有一个进行电汇的程序。"
+    },
+    {
+      "id": 155,
+      "start": 469.77,
+      "end": 473.91,
+      "en": "That means like you say, there are steps that we have to go through to complete this action.",
+      "zh": "这意味着就像您说的那样，我们必须完成一些步骤才能完成此操作。"
+    },
+    {
+      "id": 156,
+      "start": 474.47,
+      "end": 476.69,
+      "en": "But we can also have a medical procedure.",
+      "zh": "但我们也可以进行医疗程序。"
+    },
+    {
+      "id": 157,
+      "start": 477.2,
+      "end": 482.8,
+      "en": "So a heart surgery has its own procedure, but that's very different from a wire transfer procedure.",
+      "zh": "所以心脏手术有自己的程序，但这与电线转移程序非常不同。"
+    },
+    {
+      "id": 158,
+      "start": 482.8,
+      "end": 483.8,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 159,
+      "start": 483.8,
+      "end": 487.18,
+      "en": "But it's still, it has different steps and different things that you must do in order to operate.",
+      "zh": "但它仍然是，它有不同的步骤和不同的事情，你必须做才能操作。"
+    },
+    {
+      "id": 160,
+      "start": 487.18,
+      "end": 495.04,
+      "en": "But when we have a bank teller who will take us through the procedure, this means that he or she will help us understand the steps we need to complete.",
+      "zh": "但是，当我们有一位银行出纳员将带我们完成该程序时，这意味着他或她将帮助我们了解我们需要完成的步骤。"
+    },
+    {
+      "id": 161,
+      "start": 495.04,
+      "end": 495.21,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 162,
+      "start": 496.04,
+      "end": 502.07,
+      "en": "So this, we could also use this in another bank scenario if maybe my little brother wants to open a bank account.",
+      "zh": "所以这一点，如果我的弟弟想开一个银行账户，我们也可以在另一个银行场景中使用它。"
+    },
+    {
+      "id": 163,
+      "start": 502.64,
+      "end": 505.59,
+      "en": "So I'm going to take him through the procedure of what he needs.",
+      "zh": "所以我要带他完成他需要的程序。"
+    },
+    {
+      "id": 164,
+      "start": 506.07,
+      "end": 508.99,
+      "en": "He needs to maybe get a copy of his ID.",
+      "zh": "他可能需要获得他的身份证件的副本。"
+    },
+    {
+      "id": 165,
+      "start": 509.48,
+      "end": 512.64,
+      "en": "He needs to have $20, etc.",
+      "zh": "他需要20美元等。"
+    },
+    {
+      "id": 166,
+      "start": 512.64,
+      "end": 513.57,
+      "en": "Take him through the procedure.",
+      "zh": "带他完成程序。"
+    },
+    {
+      "id": 167,
+      "start": 513.97,
+      "end": 514.79,
+      "en": "So you're going to help him.",
+      "zh": "所以你会帮助他。"
+    },
+    {
+      "id": 168,
+      "start": 515.04,
+      "end": 516.04,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 169,
+      "start": 516.04,
+      "end": 517.04,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 170,
+      "start": 517.04,
+      "end": 521.44,
+      "en": "So this is something we say about why the person is so anxious to transfer this money.",
+      "zh": "所以这是我们所说的为什么这个人如此急于转移这笔钱。"
+    },
+    {
+      "id": 171,
+      "start": 521.44,
+      "end": 523.3,
+      "en": "The person says, I have a company account.",
+      "zh": "那个人说，我有一个公司账户。"
+    },
+    {
+      "id": 172,
+      "start": 523.68,
+      "end": 525.22,
+      "en": "I need to pay a bill.",
+      "zh": "我需要付账单。"
+    },
+    {
+      "id": 173,
+      "start": 525.52,
+      "end": 530.68,
+      "en": "So this is why the money is going to be transferred from one place to another to pay the bill.",
+      "zh": "所以这就是为什么这笔钱将从一个地方转移到另一个地方来支付账单的原因。"
+    },
+    {
+      "id": 174,
+      "start": 530.68,
+      "end": 535.16,
+      "en": "So this is something we say not just about, you know, company things or business things.",
+      "zh": "所以这是我们所说的不仅仅是，你知道的，公司的事情或商业的事情。"
+    },
+    {
+      "id": 175,
+      "start": 535.28,
+      "end": 538.0,
+      "en": "We say about our things at home, like the electricity bill.",
+      "zh": "我们在家里说我们的东西，比如电费。"
+    },
+    {
+      "id": 176,
+      "start": 538.4,
+      "end": 538.62,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 177,
+      "start": 539.4,
+      "end": 540.56,
+      "en": "And actually this is more and more common.",
+      "zh": "实际上，这越来越普遍。"
+    },
+    {
+      "id": 178,
+      "start": 540.86,
+      "end": 545.09,
+      "en": "We pay our bills using our electronic banking services.",
+      "zh": "我们使用电子银行服务支付账单。"
+    },
+    {
+      "id": 179,
+      "start": 545.36,
+      "end": 551.56,
+      "en": "So for example, maybe he needs to pay the electricity bill or the telephone bill and this is why we're transferring money.",
+      "zh": "例如，也许他需要支付电费或电话费，这就是我们转移资金的原因。"
+    },
+    {
+      "id": 180,
+      "start": 551.56,
+      "end": 554.47,
+      "en": "So to pay a bill is to cancel the bill.",
+      "zh": "所以支付账单就是取消账单。"
+    },
+    {
+      "id": 181,
+      "start": 554.93,
+      "end": 555.21,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 182,
+      "start": 555.39,
+      "end": 556.91,
+      "en": "So I could say, it's time to pay the bills.",
+      "zh": "所以我可以说，是时候支付账单了。"
+    },
+    {
+      "id": 183,
+      "start": 557.17,
+      "end": 557.89,
+      "en": "It's the end of the month.",
+      "zh": "这是月底。"
+    },
+    {
+      "id": 184,
+      "start": 558.39,
+      "end": 560.79,
+      "en": "Or, oh shoot, I forgot to pay the bills again.",
+      "zh": "或者，哦，拍摄，我忘了再次支付账单。"
+    },
+    {
+      "id": 185,
+      "start": 561.13,
+      "end": 562.65,
+      "en": "They're going to turn my electricity off.",
+      "zh": "他们会关掉我的电源。"
+    },
+    {
+      "id": 186,
+      "start": 562.79,
+      "end": 563.27,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 187,
+      "start": 563.71,
+      "end": 568.91,
+      "en": "And now an interesting phrase here, very specific to making transfers.",
+      "zh": "现在这里有一个有趣的短语，非常适合进行转移。"
+    },
+    {
+      "id": 188,
+      "start": 569.72,
+      "end": 572.95,
+      "en": "When we talk about bank routing number, a bank routing number.",
+      "zh": "当我们谈论银行路由号码时，一个银行路由号码。"
+    },
+    {
+      "id": 189,
+      "start": 573.44,
+      "end": 574.55,
+      "en": "Well this is pretty simple actually.",
+      "zh": "好吧，这实际上很简单。"
+    },
+    {
+      "id": 190,
+      "start": 575.0,
+      "end": 579.15,
+      "en": "If you're going to transfer money, you need to be able to tell the bank where the money will go.",
+      "zh": "如果你要转账，你需要能够告诉银行钱的去向。"
+    },
+    {
+      "id": 191,
+      "start": 579.67,
+      "end": 581.11,
+      "en": "So you can't just say Mr. Smith.",
+      "zh": "所以你不能只说史密斯先生。"
+    },
+    {
+      "id": 192,
+      "start": 581.37,
+      "end": 584.23,
+      "en": "You have to have a number for the account and each number is unique.",
+      "zh": "您必须有一个帐户的号码，每个号码都是唯一的。"
+    },
+    {
+      "id": 193,
+      "start": 584.53,
+      "end": 587.27,
+      "en": "It's special and it's usually very, very long.",
+      "zh": "它很特别，通常非常非常长。"
+    },
+    {
+      "id": 194,
+      "start": 587.85,
+      "end": 588.25,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 195,
+      "start": 589.08,
+      "end": 603.2,
+      "en": "And actually it also has to do with what bank it is because obviously you can't just say, oh, Bank of USA because, you know, maybe there are two banks with the same name or maybe there's one Bank of USA in the United States and there's another one in, I don't know, in Europe.",
+      "zh": "实际上它也与它是什么银行有关，因为显然你不能只是说，哦，美国银行，因为，你知道，也许有两家同名银行，或者美国有一家美国银行，我不知道，在欧洲还有另一家银行。"
+    },
+    {
+      "id": 196,
+      "start": 603.2,
+      "end": 604.2,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 197,
+      "start": 604.2,
+      "end": 607.32,
+      "en": "So you have to have a certain number or letter combination in the bank routing number.",
+      "zh": "所以你必须在银行路由号码中有一个特定的数字或字母组合。"
+    },
+    {
+      "id": 198,
+      "start": 607.32,
+      "end": 616.0,
+      "en": "And so the kind of account, is it savings or is it a business account and so on and so forth so that you know exactly where the money will go because you don't want to give the money to the wrong person.",
+      "zh": "所以那种账户，是储蓄还是商业账户等等，这样你就知道钱会去哪里，因为你不想把钱给错的人。"
+    },
+    {
+      "id": 199,
+      "start": 616.36,
+      "end": 616.62,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 200,
+      "start": 617.36,
+      "end": 617.58,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 201,
+      "start": 618.36,
+      "end": 619.5,
+      "en": "So a lot of great things on this lesson.",
+      "zh": "所以在这节课上有很多很棒的东西。"
+    },
+    {
+      "id": 202,
+      "start": 619.7,
+      "end": 621.96,
+      "en": "Why don't we listen to the dialogue for one last time.",
+      "zh": "我们为什么不听最后一次对话。"
+    },
+    {
+      "id": 203,
+      "start": 629.76,
+      "end": 630.44,
+      "en": "Good morning.",
+      "zh": "早上好。"
+    },
+    {
+      "id": 204,
+      "start": 630.94,
+      "end": 632.44,
+      "en": "Welcome to Bank of the USA.",
+      "zh": "欢迎来到美国银行。"
+    },
+    {
+      "id": 205,
+      "start": 633.02,
+      "end": 633.98,
+      "en": "How may I help you today?",
+      "zh": "我今天有什么可以帮助你的吗？"
+    },
+    {
+      "id": 206,
+      "start": 634.52,
+      "end": 636.7,
+      "en": "Hi, I need to transfer some money to another account.",
+      "zh": "嗨，我需要把一些钱转移到另一个账户。"
+    },
+    {
+      "id": 207,
+      "start": 637.2,
+      "end": 637.42,
+      "en": "It's urgent.",
+      "zh": "这事很急。"
+    },
+    {
+      "id": 208,
+      "start": 638.05,
+      "end": 638.57,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 209,
+      "start": 638.83,
+      "end": 640.97,
+      "en": "Have you made a wire transfer at our bank before?",
+      "zh": "您以前在我们的银行进行过电汇吗？"
+    },
+    {
+      "id": 210,
+      "start": 641.37,
+      "end": 643.39,
+      "en": "No, I've never made a transfer before.",
+      "zh": "没有，我以前从没办过转账。"
+    },
+    {
+      "id": 211,
+      "start": 644.48,
+      "end": 645.48,
+      "en": "It's all right.",
+      "zh": "没关系。"
+    },
+    {
+      "id": 212,
+      "start": 645.48,
+      "end": 646.39,
+      "en": "I will take you through the procedure.",
+      "zh": "我会带你完成整个过程。"
+    },
+    {
+      "id": 213,
+      "start": 647.12,
+      "end": 650.05,
+      "en": "Are you transferring funds to a company or an individual account?",
+      "zh": "您是将资金转移到公司还是个人账户？"
+    },
+    {
+      "id": 214,
+      "start": 650.69,
+      "end": 651.61,
+      "en": "A company account.",
+      "zh": "公司账户。"
+    },
+    {
+      "id": 215,
+      "start": 652.09,
+      "end": 652.81,
+      "en": "I need to pay a bill.",
+      "zh": "我需要付账单。"
+    },
+    {
+      "id": 216,
+      "start": 653.57,
+      "end": 653.95,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 217,
+      "start": 654.43,
+      "end": 660.23,
+      "en": "I'll need the name of the company and their bank routing number as well as their bank's address and phone number.",
+      "zh": "我需要公司名称、收款银行的路由号码，以及银行的地址和电话号码。"
+    },
+    {
+      "id": 218,
+      "start": 660.91,
+      "end": 662.99,
+      "en": "I have all the information in this folder.",
+      "zh": "我有这个文件夹中的所有信息。"
+    },
+    {
+      "id": 219,
+      "start": 663.79,
+      "end": 665.23,
+      "en": "Well, you've come prepared.",
+      "zh": "看来你准备得很充分。"
+    },
+    {
+      "id": 220,
+      "start": 669.84,
+      "end": 674.33,
+      "en": "I have all the necessary materials so we can go ahead and make the transfer right now.",
+      "zh": "所需资料都齐了，现在就可以办理转账。"
+    },
+    {
+      "id": 221,
+      "start": 674.98,
+      "end": 677.71,
+      "en": "It's a simple transaction and we can process it today.",
+      "zh": "这是一个简单的交易，我们今天可以处理它。"
+    },
+    {
+      "id": 222,
+      "start": 678.77,
+      "end": 680.05,
+      "en": "Oh, that's such a relief.",
+      "zh": "哦，这真是一种解脱。"
+    },
+    {
+      "id": 223,
+      "start": 680.85,
+      "end": 682.29,
+      "en": "I didn't want the payment to be overdue.",
+      "zh": "我不希望付款逾期。"
+    },
+    {
+      "id": 224,
+      "start": 682.69,
+      "end": 683.59,
+      "en": "Thank you so much.",
+      "zh": "非常感谢。"
+    },
+    {
+      "id": 225,
+      "start": 683.99,
+      "end": 684.73,
+      "en": "It's my pleasure.",
+      "zh": "这是我的荣幸。"
+    },
+    {
+      "id": 226,
+      "start": 687.41,
+      "end": 689.39,
+      "en": "So Marco, this is really, really important stuff.",
+      "zh": "所以马可，这是非常非常重要的东西。"
+    },
+    {
+      "id": 227,
+      "start": 689.65,
+      "end": 694.45,
+      "en": "Even if you're not talking about the business context, but you're trying to make transactions for your personal life.",
+      "zh": "即使您不是在谈论业务环境，而是在尝试为您的个人生活进行交易。"
+    },
+    {
+      "id": 228,
+      "start": 694.71,
+      "end": 694.99,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 229,
+      "start": 695.17,
+      "end": 700.29,
+      "en": "Just imagine maybe you're abroad, you're in the United States and maybe your parents need to send you money.",
+      "zh": "想象一下，也许你在国外，你在美国，也许你的父母需要给你寄钱。"
+    },
+    {
+      "id": 230,
+      "start": 700.81,
+      "end": 703.49,
+      "en": "So maybe you need to go to the bank and receive those funds.",
+      "zh": "所以也许你需要去银行接收这些资金。"
+    },
+    {
+      "id": 231,
+      "start": 703.79,
+      "end": 708.37,
+      "en": "So now you have the language and the vocab necessary to more or less talk about a bank transfer.",
+      "zh": "所以现在你有了或多或少谈论银行转账所必需的语言和词汇。"
+    },
+    {
+      "id": 232,
+      "start": 709.48,
+      "end": 712.36,
+      "en": "You can say, I was wired money from Spain, for example.",
+      "zh": "例如，我是来自西班牙的电汇资金。"
+    },
+    {
+      "id": 233,
+      "start": 712.64,
+      "end": 712.96,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 234,
+      "start": 713.36,
+      "end": 717.58,
+      "en": "And one of the most famous places to do this that you'll find all over the United States is Western Union.",
+      "zh": "西联汇款是您在美国各地找到的最著名的地方之一。"
+    },
+    {
+      "id": 235,
+      "start": 718.28,
+      "end": 718.42,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 236,
+      "start": 719.28,
+      "end": 721.82,
+      "en": "You can go to them and say, I need to transfer money or I need to transfer funds.",
+      "zh": "你可以去找他们说，我需要转账，或者我需要转移资金。"
+    },
+    {
+      "id": 237,
+      "start": 722.44,
+      "end": 725.72,
+      "en": "And so they will send the money from one Western Union to another Western Union.",
+      "zh": "所以他们会把钱从一个西方联盟寄给另一个西方联盟。"
+    },
+    {
+      "id": 238,
+      "start": 725.98,
+      "end": 729.3,
+      "en": "And then the person at home or wherever will pick up your money.",
+      "zh": "然后是家里或任何地方的人会拿起你的钱。"
+    },
+    {
+      "id": 239,
+      "start": 729.56,
+      "end": 732.3,
+      "en": "And so they will wire the money from one place to another.",
+      "zh": "所以他们会把钱从一个地方电汇到另一个地方。"
+    },
+    {
+      "id": 240,
+      "start": 732.3,
+      "end": 733.3,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 241,
+      "start": 733.3,
+      "end": 733.76,
+      "en": "And I think this is how it started.",
+      "zh": "我认为这就是它的开始方式。"
+    },
+    {
+      "id": 242,
+      "start": 734.3,
+      "end": 737.88,
+      "en": "The wire transferring was, I don't think it was originally with banks.",
+      "zh": "电汇是，我不认为它最初是在银行。"
+    },
+    {
+      "id": 243,
+      "start": 737.88,
+      "end": 742.04,
+      "en": "I think it was something, some sort of service similar to Western Union or maybe Western Union started it.",
+      "zh": "我认为这是一些类似于西联或西联的服务，可能是启动它。"
+    },
+    {
+      "id": 244,
+      "start": 742.36,
+      "end": 743.36,
+      "en": "You mean it was like telegraphs?",
+      "zh": "你的意思是它就像电报？"
+    },
+    {
+      "id": 245,
+      "start": 743.36,
+      "end": 744.0,
+      "en": "Yeah, something like this.",
+      "zh": "是的，这样的东西。"
+    },
+    {
+      "id": 246,
+      "start": 744.36,
+      "end": 746.08,
+      "en": "But I don't know if it was from bank to bank.",
+      "zh": "但我不知道是不是从银行到银行。"
+    },
+    {
+      "id": 247,
+      "start": 746.36,
+      "end": 747.36,
+      "en": "It's an interesting story though.",
+      "zh": "不过，这是一个有趣的故事。"
+    },
+    {
+      "id": 248,
+      "start": 747.62,
+      "end": 748.96,
+      "en": "We'll have to look it up and let you know.",
+      "zh": "我们必须查一下，让你知道。"
+    },
+    {
+      "id": 249,
+      "start": 749.04,
+      "end": 750.4,
+      "en": "I'm not sure of the story either.",
+      "zh": "我也不确定这个故事。"
+    },
+    {
+      "id": 250,
+      "start": 750.4,
+      "end": 753.48,
+      "en": "But if you're out there and you need to wire some money now you know how to do it.",
+      "zh": "但是，如果您在外面并且您现在需要电汇一些钱，您就知道如何做到这一点。"
+    },
+    {
+      "id": 251,
+      "start": 753.88,
+      "end": 756.16,
+      "en": "Well, not how to do it, but you have to talk about it.",
+      "zh": "好吧，不是怎么做，但你必须谈论它。"
+    },
+    {
+      "id": 252,
+      "start": 756.46,
+      "end": 757.58,
+      "en": "We hope you have luck with this.",
+      "zh": "我们希望你有这方面的运气。"
+    },
+    {
+      "id": 253,
+      "start": 757.96,
+      "end": 760.32,
+      "en": "And if you have any questions, you know where to find us, EnglishPod.com.",
+      "zh": "如果您有任何问题，您知道在哪里可以找到我们，Englishpod.com。"
+    },
+    {
+      "id": 254,
+      "start": 760.32,
+      "end": 761.32,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 255,
+      "start": 761.32,
+      "end": 762.32,
+      "en": "We'll see you guys there.",
+      "zh": "到时候在那里见。"
+    },
+    {
+      "id": 256,
+      "start": 762.32,
+      "end": 763.32,
+      "en": "Bye.",
+      "zh": "再见。"
+    }
+  ],
+  "dialog": {
+    "start": 27.73,
+    "end": 82.78,
+    "segmentIds": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32
+    ]
+  }
+}

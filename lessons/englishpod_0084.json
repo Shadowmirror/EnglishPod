@@ -1,0 +1,2077 @@
+{
+  "version": 1,
+  "id": 84,
+  "number": "0084",
+  "title": "Daily Life - At The Pharmacy",
+  "audio": "mp3/84. Daily Life - At The Pharmacy.mp3",
+  "duration": 684.878375,
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.81,
+      "end": 3.89,
+      "en": "Hello everyone, welcome back to EnglishPod.",
+      "zh": "大家好，欢迎回到 EnglishPod。"
+    },
+    {
+      "id": 2,
+      "start": 4.15,
+      "end": 4.61,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 4.97,
+      "end": 5.55,
+      "en": "And I'm Erica.",
+      "zh": "我叫 Erica。"
+    },
+    {
+      "id": 4,
+      "start": 6.21,
+      "end": 8.31,
+      "en": "And where are we going today, Erica?",
+      "zh": "埃里卡，我们今天要去哪里？"
+    },
+    {
+      "id": 5,
+      "start": 8.51,
+      "end": 9.19,
+      "en": "To the pharmacy.",
+      "zh": "去药房。"
+    },
+    {
+      "id": 6,
+      "start": 9.64,
+      "end": 12.52,
+      "en": "All right, to the pharmacy or drugstore?",
+      "zh": "好吧，去药房或药店？"
+    },
+    {
+      "id": 7,
+      "start": 12.54,
+      "end": 12.78,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 8,
+      "start": 13.28,
+      "end": 16.58,
+      "en": "Or also in British English, sometimes people say the chemist.",
+      "zh": "或者也用英式英语，有时人们会说化学家。"
+    },
+    {
+      "id": 9,
+      "start": 17.16,
+      "end": 17.38,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 10,
+      "start": 18.24,
+      "end": 25.2,
+      "en": "So as you know, at the pharmacy you get medicine, but there are certain vocabulary words that are related to this place that we need to learn.",
+      "zh": "如您所知，在药房您可以获得药物，但有些词汇与我们需要学习的地方有关。"
+    },
+    {
+      "id": 11,
+      "start": 25.2,
+      "end": 26.2,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 12,
+      "start": 26.2,
+      "end": 30.84,
+      "en": "And then some vocabulary about medicine and also some interesting phrases.",
+      "zh": "然后是一些关于医学的词汇和一些有趣的短语。"
+    },
+    {
+      "id": 13,
+      "start": 30.84,
+      "end": 34.26,
+      "en": "So before we listen to the dialogue, let's take a look at vocabulary preview.",
+      "zh": "所以在我们听对话之前，让我们看一下词汇预览。"
+    },
+    {
+      "id": 14,
+      "start": 36.12,
+      "end": 37.76,
+      "en": "Vocabulary preview.",
+      "zh": "词汇预习。"
+    },
+    {
+      "id": 15,
+      "start": 37.76,
+      "end": 40.61,
+      "en": "We're going to look at two words today that you'll hear in the dialogue.",
+      "zh": "我们今天将在对话中看到你会听到的两个词。"
+    },
+    {
+      "id": 16,
+      "start": 41.32,
+      "end": 43.27,
+      "en": "And the first one, milligrams.",
+      "zh": "第一个，毫克。"
+    },
+    {
+      "id": 17,
+      "start": 44.13,
+      "end": 44.32,
+      "en": "Milligrams.",
+      "zh": "毫克。"
+    },
+    {
+      "id": 18,
+      "start": 44.32,
+      "end": 44.69,
+      "en": "Milligrams.",
+      "zh": "毫克。"
+    },
+    {
+      "id": 19,
+      "start": 46.03,
+      "end": 48.71,
+      "en": "Also, the abbreviation for this is MG.",
+      "zh": "此外，该缩写为毫克。"
+    },
+    {
+      "id": 20,
+      "start": 49.68,
+      "end": 50.68,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 21,
+      "start": 50.68,
+      "end": 51.68,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 22,
+      "start": 51.68,
+      "end": 52.68,
+      "en": "So a milligram is?",
+      "zh": "那么一毫克是？"
+    },
+    {
+      "id": 23,
+      "start": 52.68,
+      "end": 53.33,
+      "en": "A hundredth of a gram.",
+      "zh": "百分之一克。"
+    },
+    {
+      "id": 24,
+      "start": 53.76,
+      "end": 56.63,
+      "en": "So there are 100 milligrams in a gram.",
+      "zh": "所以一克有100毫克。"
+    },
+    {
+      "id": 25,
+      "start": 56.93,
+      "end": 57.19,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 26,
+      "start": 57.63,
+      "end": 60.09,
+      "en": "And it's very common to be used with medicine, right?",
+      "zh": "和药物一起使用是很常见的，对吧？"
+    },
+    {
+      "id": 27,
+      "start": 60.29,
+      "end": 60.49,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 28,
+      "start": 61.36,
+      "end": 62.36,
+      "en": "We buy medicine in milligrams.",
+      "zh": "我们以毫克为单位购买药品。"
+    },
+    {
+      "id": 29,
+      "start": 63.03,
+      "end": 63.25,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 30,
+      "start": 63.41,
+      "end": 64.19,
+      "en": "And what's our next word?",
+      "zh": "我们的下一个词是什么？"
+    },
+    {
+      "id": 31,
+      "start": 64.9,
+      "end": 65.37,
+      "en": "Price check.",
+      "zh": "价格检查。"
+    },
+    {
+      "id": 32,
+      "start": 66.04,
+      "end": 66.97,
+      "en": "A price check.",
+      "zh": "价格检查。"
+    },
+    {
+      "id": 33,
+      "start": 67.25,
+      "end": 67.89,
+      "en": "A price check.",
+      "zh": "价格检查。"
+    },
+    {
+      "id": 34,
+      "start": 68.29,
+      "end": 68.55,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 35,
+      "start": 68.75,
+      "end": 75.67,
+      "en": "So at the pharmacy or at the supermarket, sometimes the cashier will ask for a price check.",
+      "zh": "所以在药房或超市，有时收银员会要求提供价格支票。"
+    },
+    {
+      "id": 36,
+      "start": 76.05,
+      "end": 80.13,
+      "en": "And that is the action of checking to find out the price.",
+      "zh": "这就是检查以找出价格的行动。"
+    },
+    {
+      "id": 37,
+      "start": 80.69,
+      "end": 81.13,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 38,
+      "start": 81.29,
+      "end": 82.53,
+      "en": "So a price check.",
+      "zh": "所以价格检查。"
+    },
+    {
+      "id": 39,
+      "start": 83.05,
+      "end": 86.57,
+      "en": "With this, I think we're ready now to listen to our dialogue for the first time.",
+      "zh": "有了这个，我想我们现在已经准备好第一次听我们的对话了。"
+    },
+    {
+      "id": 40,
+      "start": 87.07,
+      "end": 89.73,
+      "en": "And let's see what our shopper is buying at the pharmacy.",
+      "zh": "让我们看看我们的购物者在药房购买了什么。"
+    },
+    {
+      "id": 41,
+      "start": 98.96,
+      "end": 99.64,
+      "en": "Hello, sir.",
+      "zh": "您好，先生。"
+    },
+    {
+      "id": 42,
+      "start": 100.02,
+      "end": 100.86,
+      "en": "How can I help you?",
+      "zh": "有什么可以帮您？"
+    },
+    {
+      "id": 43,
+      "start": 101.26,
+      "end": 101.7,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 44,
+      "start": 101.84,
+      "end": 104.0,
+      "en": "I need this prescription, please.",
+      "zh": "我来按处方取药。"
+    },
+    {
+      "id": 45,
+      "start": 104.44,
+      "end": 105.1,
+      "en": "Let's see.",
+      "zh": "我们来看看。"
+    },
+    {
+      "id": 46,
+      "start": 105.44,
+      "end": 105.72,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 47,
+      "start": 106.72,
+      "end": 108.92,
+      "en": "So 50 milligrams of Prozac.",
+      "zh": "百忧解，每粒五十毫克。"
+    },
+    {
+      "id": 48,
+      "start": 108.92,
+      "end": 110.56,
+      "en": "Would you prefer this in capsule or tablet?",
+      "zh": "您要胶囊还是片剂？"
+    },
+    {
+      "id": 49,
+      "start": 111.44,
+      "end": 112.44,
+      "en": "Capsules are fine.",
+      "zh": "胶囊就行。"
+    },
+    {
+      "id": 50,
+      "start": 112.44,
+      "end": 112.74,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 51,
+      "start": 113.44,
+      "end": 115.42,
+      "en": "You should take one capsule three times a day.",
+      "zh": "每天服用三次，每次一粒胶囊。"
+    },
+    {
+      "id": 52,
+      "start": 116.04,
+      "end": 120.42,
+      "en": "Be sure not to take it on an empty stomach and also don't ever mix it with alcohol.",
+      "zh": "不要空腹服药，也绝对不要与酒同服。"
+    },
+    {
+      "id": 53,
+      "start": 120.96,
+      "end": 121.9,
+      "en": "Yes, I know.",
+      "zh": "是的，我知道。"
+    },
+    {
+      "id": 54,
+      "start": 122.3,
+      "end": 123.56,
+      "en": "It's not the first time I'm taking this.",
+      "zh": "我不是第一次服用这种药了。"
+    },
+    {
+      "id": 55,
+      "start": 123.9,
+      "end": 124.36,
+      "en": "Don't worry.",
+      "zh": "别担心。"
+    },
+    {
+      "id": 56,
+      "start": 125.16,
+      "end": 126.16,
+      "en": "I won't overdose.",
+      "zh": "我不会服药过量的。"
+    },
+    {
+      "id": 57,
+      "start": 126.16,
+      "end": 127.16,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 58,
+      "start": 127.16,
+      "end": 128.22,
+      "en": "Anything else I can get you?",
+      "zh": "还需要别的吗？"
+    },
+    {
+      "id": 59,
+      "start": 129.36,
+      "end": 130.02,
+      "en": "Oh, yes.",
+      "zh": "哦，是的。"
+    },
+    {
+      "id": 60,
+      "start": 130.28,
+      "end": 130.94,
+      "en": "I almost forgot.",
+      "zh": "我差点忘了。"
+    },
+    {
+      "id": 61,
+      "start": 131.36,
+      "end": 134.32,
+      "en": "Can I also get some eye drops and some condoms?",
+      "zh": "我也可以买一些眼药水和一些避孕套吗？"
+    },
+    {
+      "id": 62,
+      "start": 135.32,
+      "end": 136.32,
+      "en": "Sure.",
+      "zh": "当然。"
+    },
+    {
+      "id": 63,
+      "start": 136.95,
+      "end": 139.29,
+      "en": "Darn, condoms aren't registered in our system.",
+      "zh": "糟了，避孕套没录入系统。"
+    },
+    {
+      "id": 64,
+      "start": 139.73,
+      "end": 140.73,
+      "en": "Oh, well, that's okay.",
+      "zh": "哦，那好吧。"
+    },
+    {
+      "id": 65,
+      "start": 140.99,
+      "end": 141.53,
+      "en": "I'll get some later.",
+      "zh": "我回头再买。"
+    },
+    {
+      "id": 66,
+      "start": 141.69,
+      "end": 141.91,
+      "en": "Thanks.",
+      "zh": "谢谢。"
+    },
+    {
+      "id": 67,
+      "start": 142.27,
+      "end": 143.17,
+      "en": "Really, it's no problem.",
+      "zh": "真的，没问题。"
+    },
+    {
+      "id": 68,
+      "start": 143.69,
+      "end": 145.17,
+      "en": "Just hang on there a sec.",
+      "zh": "请稍等一下。"
+    },
+    {
+      "id": 69,
+      "start": 147.09,
+      "end": 150.07,
+      "en": "Can I get a price check on Funtime's ribbed condoms, please?",
+      "zh": "请帮忙查一下Funtime牌螺纹避孕套的价格！"
+    },
+    {
+      "id": 70,
+      "start": 157.51,
+      "end": 158.09,
+      "en": "Oh, no.",
+      "zh": "哦，不。"
+    },
+    {
+      "id": 71,
+      "start": 158.33,
+      "end": 159.05,
+      "en": "How embarrassing.",
+      "zh": "太丢人了。"
+    },
+    {
+      "id": 72,
+      "start": 159.77,
+      "end": 165.37,
+      "en": "A little bit embarrassing that she asked for a price check on these condoms, right?",
+      "zh": "有点尴尬，她要求对这些避孕套进行价格检查，对吧？"
+    },
+    {
+      "id": 73,
+      "start": 165.63,
+      "end": 165.87,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 74,
+      "start": 166.11,
+      "end": 166.97,
+      "en": "But you know what?",
+      "zh": "不过你知道吗？"
+    },
+    {
+      "id": 75,
+      "start": 167.72,
+      "end": 172.21,
+      "en": "It seems like every time you have to buy something embarrassing at the pharmacy, there's a million people watching you.",
+      "zh": "似乎每次你在药房买一些令人尴尬的东西时，都有一百万人在看着你。"
+    },
+    {
+      "id": 76,
+      "start": 172.64,
+      "end": 173.64,
+      "en": "Yeah, yeah.",
+      "zh": "对，对。"
+    },
+    {
+      "id": 77,
+      "start": 173.64,
+      "end": 173.89,
+      "en": "It never fails.",
+      "zh": "它永远不会失败。"
+    },
+    {
+      "id": 78,
+      "start": 174.64,
+      "end": 175.64,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 79,
+      "start": 175.64,
+      "end": 182.72,
+      "en": "Well, let's take a look at some of those words that we were talking about related to medicine in Language Takeaway.",
+      "zh": "好吧，让我们来看看我们在语言外卖中谈论的与医学相关的一些词。"
+    },
+    {
+      "id": 80,
+      "start": 182.72,
+      "end": 183.0,
+      "en": "Language Takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 81,
+      "start": 183.72,
+      "end": 184.72,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 82,
+      "start": 185.31,
+      "end": 187.55,
+      "en": "Well, the first word, a prescription.",
+      "zh": "好吧，第一个词，一个处方。"
+    },
+    {
+      "id": 83,
+      "start": 187.8,
+      "end": 188.8,
+      "en": "Prescription.",
+      "zh": "处方。"
+    },
+    {
+      "id": 84,
+      "start": 188.8,
+      "end": 189.32,
+      "en": "Prescription.",
+      "zh": "处方。"
+    },
+    {
+      "id": 85,
+      "start": 189.8,
+      "end": 191.12,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 86,
+      "start": 191.12,
+      "end": 192.22,
+      "en": "So what is a prescription?",
+      "zh": "那么什么是处方？"
+    },
+    {
+      "id": 87,
+      "start": 192.7,
+      "end": 197.5,
+      "en": "Well, a prescription is a note from your doctor explaining what medicine you need.",
+      "zh": "好吧，处方是您的医生的说明，说明您需要什么药物。"
+    },
+    {
+      "id": 88,
+      "start": 197.78,
+      "end": 202.16,
+      "en": "So this note from your doctor is necessary to buy that medicine, right?",
+      "zh": "所以你的医生的这张说明是购买该药的必要条件，对吧？"
+    },
+    {
+      "id": 89,
+      "start": 202.16,
+      "end": 202.36,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 90,
+      "start": 203.84,
+      "end": 204.84,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 91,
+      "start": 204.84,
+      "end": 205.84,
+      "en": "Prescription.",
+      "zh": "处方。"
+    },
+    {
+      "id": 92,
+      "start": 205.84,
+      "end": 212.4,
+      "en": "Well, this shopper was getting some medicine and, well, the chemist or the pharmacist asked if he wanted it in capsules or tablets.",
+      "zh": "好吧，这个购物者正在买一些药，好吧，化学家或药剂师问他是否想要胶囊或药片。"
+    },
+    {
+      "id": 93,
+      "start": 212.4,
+      "end": 213.56,
+      "en": "So let's look at those two words.",
+      "zh": "所以让我们看看这两个词。"
+    },
+    {
+      "id": 94,
+      "start": 213.92,
+      "end": 214.92,
+      "en": "A capsule.",
+      "zh": "胶囊。"
+    },
+    {
+      "id": 95,
+      "start": 215.41,
+      "end": 215.97,
+      "en": "Capsule.",
+      "zh": "胶囊。"
+    },
+    {
+      "id": 96,
+      "start": 216.11,
+      "end": 216.57,
+      "en": "Capsule.",
+      "zh": "胶囊。"
+    },
+    {
+      "id": 97,
+      "start": 216.81,
+      "end": 220.23,
+      "en": "Now, a capsule is like a small tube, right?",
+      "zh": "现在，胶囊就像一根小管，对吧？"
+    },
+    {
+      "id": 98,
+      "start": 220.32,
+      "end": 221.32,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 99,
+      "start": 221.32,
+      "end": 222.15,
+      "en": "It's a form of a pill.",
+      "zh": "这是药丸的一种形式。"
+    },
+    {
+      "id": 100,
+      "start": 223.24,
+      "end": 226.08,
+      "en": "And it's shaped like a tube with the medicine inside.",
+      "zh": "它的形状像一根管子，里面有药。"
+    },
+    {
+      "id": 101,
+      "start": 226.08,
+      "end": 227.08,
+      "en": "Inside.",
+      "zh": "里面。"
+    },
+    {
+      "id": 102,
+      "start": 227.08,
+      "end": 228.36,
+      "en": "Inside, inside inside, in plastic, right?",
+      "zh": "里面，里面，用塑料，对吧？"
+    },
+    {
+      "id": 103,
+      "start": 228.36,
+      "end": 229.36,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 104,
+      "start": 229.36,
+      "end": 230.13,
+      "en": "Now, you swallow the capsule.",
+      "zh": "现在，你吞下了胶囊。"
+    },
+    {
+      "id": 105,
+      "start": 230.4,
+      "end": 231.4,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 106,
+      "start": 231.4,
+      "end": 232.4,
+      "en": "And the tablet?",
+      "zh": "还有平板电脑？"
+    },
+    {
+      "id": 107,
+      "start": 232.4,
+      "end": 235.03,
+      "en": "Is like a pill that is round and flat.",
+      "zh": "就像是圆形和扁平的药丸。"
+    },
+    {
+      "id": 108,
+      "start": 235.6,
+      "end": 236.6,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 109,
+      "start": 236.6,
+      "end": 237.59,
+      "en": "So tablet and capsule.",
+      "zh": "所以片剂和胶囊。"
+    },
+    {
+      "id": 110,
+      "start": 238.24,
+      "end": 242.68,
+      "en": "Both are the same thing basically, but just different presentations.",
+      "zh": "两者基本上都是相同的，但只是不同的演示。"
+    },
+    {
+      "id": 111,
+      "start": 243.28,
+      "end": 243.68,
+      "en": "Different shapes.",
+      "zh": "不同的形状。"
+    },
+    {
+      "id": 112,
+      "start": 243.68,
+      "end": 244.68,
+      "en": "Different shapes.",
+      "zh": "不同的形状。"
+    },
+    {
+      "id": 113,
+      "start": 244.68,
+      "end": 245.68,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 114,
+      "start": 245.68,
+      "end": 247.4,
+      "en": "It's easier maybe for some people to swallow a capsule.",
+      "zh": "有些人可能更容易吞下胶囊。"
+    },
+    {
+      "id": 115,
+      "start": 247.4,
+      "end": 247.76,
+      "en": "You think so?",
+      "zh": "你觉得呢？"
+    },
+    {
+      "id": 116,
+      "start": 248.06,
+      "end": 248.54,
+      "en": "I don't know.",
+      "zh": "我不知道。"
+    },
+    {
+      "id": 117,
+      "start": 248.6,
+      "end": 249.18,
+      "en": "I think so.",
+      "zh": "我想是的。"
+    },
+    {
+      "id": 118,
+      "start": 250.4,
+      "end": 251.4,
+      "en": "Well, like-",
+      "zh": "嗯，喜欢——"
+    },
+    {
+      "id": 119,
+      "start": 251.4,
+      "end": 254.56,
+      "en": "Because sometimes tablets are a little bit like big circles and it's hard to swallow.",
+      "zh": "因为有时平板电脑有点像大圆圈，很难吞下。"
+    },
+    {
+      "id": 120,
+      "start": 254.56,
+      "end": 255.56,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 121,
+      "start": 255.56,
+      "end": 257.72,
+      "en": "And I guess capsules are smoother.",
+      "zh": "我猜胶囊更光滑。"
+    },
+    {
+      "id": 122,
+      "start": 258.08,
+      "end": 258.78,
+      "en": "Yeah, exactly.",
+      "zh": "对，没错。"
+    },
+    {
+      "id": 123,
+      "start": 259.06,
+      "end": 265.02,
+      "en": "But we're not pharmacists, so let's move on and focus on the language, which is what we do know about.",
+      "zh": "但我们不是药剂师，所以让我们继续关注语言，这就是我们所知道的。"
+    },
+    {
+      "id": 124,
+      "start": 265.02,
+      "end": 269.27,
+      "en": "So the pharmacist warned the patient not to take too much medicine, right?",
+      "zh": "所以药剂师警告病人不要吃太多药，对吧？"
+    },
+    {
+      "id": 125,
+      "start": 270.6,
+      "end": 271.6,
+      "en": "Because he might overdose.",
+      "zh": "因为他可能过量服用。"
+    },
+    {
+      "id": 126,
+      "start": 271.6,
+      "end": 272.6,
+      "en": "Overdose.",
+      "zh": "过量。"
+    },
+    {
+      "id": 127,
+      "start": 272.6,
+      "end": 273.6,
+      "en": "Overdose.",
+      "zh": "过量。"
+    },
+    {
+      "id": 128,
+      "start": 273.6,
+      "end": 276.43,
+      "en": "Okay, so to overdose, like you said...",
+      "zh": "好吧，所以要过量服用，就像你说的......"
+    },
+    {
+      "id": 129,
+      "start": 277.34,
+      "end": 281.09,
+      "en": "Is to take too much medicine and get really sick or even die.",
+      "zh": "是吃太多药，真的生病甚至死了。"
+    },
+    {
+      "id": 130,
+      "start": 282.44,
+      "end": 286.64,
+      "en": "So if you overdose on medicine, it could be bad for you instead of good.",
+      "zh": "所以如果你服药过量，它可能对你有害而不是好。"
+    },
+    {
+      "id": 131,
+      "start": 286.64,
+      "end": 287.87,
+      "en": "Well, obviously very bad.",
+      "zh": "嗯，显然非常糟糕。"
+    },
+    {
+      "id": 132,
+      "start": 288.96,
+      "end": 291.45,
+      "en": "And what about our last word for today?",
+      "zh": "那么我们今天的最后一句话呢？"
+    },
+    {
+      "id": 133,
+      "start": 291.73,
+      "end": 294.51,
+      "en": "Well, the shopper also asked for some eye drops.",
+      "zh": "好吧，购物者还要了一些眼药水。"
+    },
+    {
+      "id": 134,
+      "start": 295.13,
+      "end": 295.73,
+      "en": "Eye drops.",
+      "zh": "眼药水。"
+    },
+    {
+      "id": 135,
+      "start": 296.07,
+      "end": 296.47,
+      "en": "Eye drops.",
+      "zh": "眼药水。"
+    },
+    {
+      "id": 136,
+      "start": 297.07,
+      "end": 299.15,
+      "en": "So this is medicine for your eyes.",
+      "zh": "所以这是你眼睛的药。"
+    },
+    {
+      "id": 137,
+      "start": 299.43,
+      "end": 302.11,
+      "en": "Yeah, usually liquid, like water that you put in your eyes.",
+      "zh": "是的，通常是液体，就像你放在眼睛里的水一样。"
+    },
+    {
+      "id": 138,
+      "start": 302.29,
+      "end": 302.53,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 139,
+      "start": 303.01,
+      "end": 309.29,
+      "en": "So I think now with this medicine language clear, we can listen to our dialogue again, but it's going to be slowed down a little bit.",
+      "zh": "所以我认为现在有了这种医学语言的清晰，我们可以再次聆听我们的对话，但它会放慢一点。"
+    },
+    {
+      "id": 140,
+      "start": 309.8,
+      "end": 313.92,
+      "en": "It'll help us understand these phrases just a little bit better.",
+      "zh": "它会帮助我们更好地理解这些短语。"
+    },
+    {
+      "id": 141,
+      "start": 321.75,
+      "end": 322.39,
+      "en": "Hello, sir.",
+      "zh": "您好，先生。"
+    },
+    {
+      "id": 142,
+      "start": 322.97,
+      "end": 324.11,
+      "en": "How can I help you?",
+      "zh": "有什么可以帮您？"
+    },
+    {
+      "id": 143,
+      "start": 324.71,
+      "end": 327.45,
+      "en": "Yes, I need this prescription, please.",
+      "zh": "是的，我需要这个处方，拜托。"
+    },
+    {
+      "id": 144,
+      "start": 328.01,
+      "end": 328.71,
+      "en": "Let's see.",
+      "zh": "我们来看看。"
+    },
+    {
+      "id": 145,
+      "start": 329.26,
+      "end": 329.8,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 146,
+      "start": 330.2,
+      "end": 333.06,
+      "en": "So, 50 milligrams of Prozac.",
+      "zh": "所以，50毫克百忧解。"
+    },
+    {
+      "id": 147,
+      "start": 333.84,
+      "end": 336.06,
+      "en": "Would you prefer this in capsule or tablet?",
+      "zh": "您要胶囊还是片剂？"
+    },
+    {
+      "id": 148,
+      "start": 337.1,
+      "end": 338.14,
+      "en": "Capsules are fine.",
+      "zh": "胶囊就行。"
+    },
+    {
+      "id": 149,
+      "start": 338.78,
+      "end": 339.36,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 150,
+      "start": 339.7,
+      "end": 342.98,
+      "en": "You should take one capsule three times a day.",
+      "zh": "每天服用三次，每次一粒胶囊。"
+    },
+    {
+      "id": 151,
+      "start": 343.52,
+      "end": 346.46,
+      "en": "Be sure not to take it on an empty stomach.",
+      "zh": "一定不要空腹服用。"
+    },
+    {
+      "id": 152,
+      "start": 347.06,
+      "end": 350.12,
+      "en": "And also, don't ever mix it with alcohol.",
+      "zh": "而且，永远不要将其与酒精混合。"
+    },
+    {
+      "id": 153,
+      "start": 350.72,
+      "end": 352.16,
+      "en": "Yes, I know.",
+      "zh": "是的，我知道。"
+    },
+    {
+      "id": 154,
+      "start": 352.88,
+      "end": 354.48,
+      "en": "It's not the first time I'm taking this.",
+      "zh": "我不是第一次服用这种药了。"
+    },
+    {
+      "id": 155,
+      "start": 355.52,
+      "end": 355.74,
+      "en": "Don't worry.",
+      "zh": "别担心。"
+    },
+    {
+      "id": 156,
+      "start": 356.52,
+      "end": 357.02,
+      "en": "I won't overdose.",
+      "zh": "我不会服药过量的。"
+    },
+    {
+      "id": 157,
+      "start": 358.16,
+      "end": 359.28,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 158,
+      "start": 359.28,
+      "end": 360.44,
+      "en": "Anything else I can get you?",
+      "zh": "还需要别的吗？"
+    },
+    {
+      "id": 159,
+      "start": 361.04,
+      "end": 361.68,
+      "en": "Oh, yes.",
+      "zh": "哦，是的。"
+    },
+    {
+      "id": 160,
+      "start": 362.1,
+      "end": 362.82,
+      "en": "I almost forgot.",
+      "zh": "我差点忘了。"
+    },
+    {
+      "id": 161,
+      "start": 363.66,
+      "end": 367.08,
+      "en": "Can I get some eye drops and some condoms?",
+      "zh": "我可以买一些眼药水和一些避孕套吗？"
+    },
+    {
+      "id": 162,
+      "start": 367.92,
+      "end": 368.24,
+      "en": "Sure.",
+      "zh": "当然。"
+    },
+    {
+      "id": 163,
+      "start": 369.11,
+      "end": 372.25,
+      "en": "Darn condoms aren't registered in our system.",
+      "zh": "DARN 避孕套未在我们的系统中注册。"
+    },
+    {
+      "id": 164,
+      "start": 372.57,
+      "end": 374.57,
+      "en": "Oh, well, that's okay.",
+      "zh": "哦，那好吧。"
+    },
+    {
+      "id": 165,
+      "start": 374.97,
+      "end": 376.09,
+      "en": "I'll get some later.",
+      "zh": "我回头再买。"
+    },
+    {
+      "id": 166,
+      "start": 376.64,
+      "end": 377.64,
+      "en": "Thanks.",
+      "zh": "谢谢。"
+    },
+    {
+      "id": 167,
+      "start": 377.64,
+      "end": 378.49,
+      "en": "Really, it's no problem.",
+      "zh": "真的，没问题。"
+    },
+    {
+      "id": 168,
+      "start": 379.68,
+      "end": 380.93,
+      "en": "Just hang on there a sec.",
+      "zh": "请稍等一下。"
+    },
+    {
+      "id": 169,
+      "start": 382.28,
+      "end": 386.4,
+      "en": "Can I get a price check on Funtime's ribbed condoms, please?",
+      "zh": "请问我可以在 Funtime 的罗纹避孕套上获得价格检查吗？"
+    },
+    {
+      "id": 170,
+      "start": 393.02,
+      "end": 400.34,
+      "en": "Okay, so now it's time for us to take a look at some of the phrases that we saw in this dialogue in Putting It Together.",
+      "zh": "好的，现在是时候让我们看看我们在这次对话中看到的一些短语，以将其组合在一起。"
+    },
+    {
+      "id": 171,
+      "start": 402.86,
+      "end": 403.6,
+      "en": "Putting It Together.",
+      "zh": "综合运用。"
+    },
+    {
+      "id": 172,
+      "start": 405.64,
+      "end": 410.64,
+      "en": "We're going to look at two phrases here and we're going to see how we can use them in different situations.",
+      "zh": "我们将在这里查看两个短语，我们将看看如何在不同的情况下使用它们。"
+    },
+    {
+      "id": 173,
+      "start": 411.28,
+      "end": 415.94,
+      "en": "The pharmacist warned, be sure not to take it on an empty stomach.",
+      "zh": "药剂师警告，一定不要空腹服用。"
+    },
+    {
+      "id": 174,
+      "start": 416.24,
+      "end": 418.36,
+      "en": "Okay, so be sure not to.",
+      "zh": "好的，所以一定不要。"
+    },
+    {
+      "id": 175,
+      "start": 418.6,
+      "end": 419.76,
+      "en": "Be sure not to.",
+      "zh": "一定不要。"
+    },
+    {
+      "id": 176,
+      "start": 420.38,
+      "end": 421.84,
+      "en": "What does he mean by this?",
+      "zh": "他这是什么意思？"
+    },
+    {
+      "id": 177,
+      "start": 422.14,
+      "end": 423.48,
+      "en": "He just means don't do this.",
+      "zh": "他只是说不要这样做。"
+    },
+    {
+      "id": 178,
+      "start": 423.9,
+      "end": 424.12,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 179,
+      "start": 424.92,
+      "end": 427.04,
+      "en": "So don't take the medicine without eating.",
+      "zh": "所以不要不吃就吃药。"
+    },
+    {
+      "id": 180,
+      "start": 427.04,
+      "end": 428.48,
+      "en": "We can mix it up a little bit.",
+      "zh": "我们可以把它混合一点。"
+    },
+    {
+      "id": 181,
+      "start": 428.62,
+      "end": 432.52,
+      "en": "Why don't we listen to some examples of how we can use this in different situations.",
+      "zh": "我们为什么不听一些我们如何在不同情况下使用它的例子。"
+    },
+    {
+      "id": 182,
+      "start": 434.8,
+      "end": 438.02,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 183,
+      "start": 438.02,
+      "end": 440.31,
+      "en": "Be sure not to leave your bike outside or it will be stolen.",
+      "zh": "一定不要把你的自行车放在外面，否则它会被偷走。"
+    },
+    {
+      "id": 184,
+      "start": 444.32,
+      "end": 447.12,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 185,
+      "start": 447.12,
+      "end": 448.27,
+      "en": "Be sure not to forget your umbrella.",
+      "zh": "一定不要忘记你的雨伞。"
+    },
+    {
+      "id": 186,
+      "start": 448.84,
+      "end": 449.47,
+      "en": "It's raining today.",
+      "zh": "今天下雨了。"
+    },
+    {
+      "id": 187,
+      "start": 453.28,
+      "end": 456.28,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 188,
+      "start": 456.28,
+      "end": 459.31,
+      "en": "I told him to be sure not to do anything stupid, but he did.",
+      "zh": "我告诉他一定不要做任何愚蠢的事情，但他做到了。"
+    },
+    {
+      "id": 189,
+      "start": 463.72,
+      "end": 468.37,
+      "en": "So Marco, why should we say be sure not to instead of don't?",
+      "zh": "所以马可，我们为什么要说一定不要而不是不呢？"
+    },
+    {
+      "id": 190,
+      "start": 468.76,
+      "end": 471.29,
+      "en": "I think don't sounds more like an order.",
+      "zh": "我认为听起来不像是一个订单。"
+    },
+    {
+      "id": 191,
+      "start": 471.64,
+      "end": 472.64,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 192,
+      "start": 472.64,
+      "end": 473.64,
+      "en": "Very direct.",
+      "zh": "很直接。"
+    },
+    {
+      "id": 193,
+      "start": 473.64,
+      "end": 476.85,
+      "en": "Maybe be sure not to is a little bit softer, a little bit more friendly.",
+      "zh": "也许一定不要更柔软一点，更友好一点。"
+    },
+    {
+      "id": 194,
+      "start": 477.42,
+      "end": 478.37,
+      "en": "So be sure not to.",
+      "zh": "所以一定不要。"
+    },
+    {
+      "id": 195,
+      "start": 478.91,
+      "end": 480.51,
+      "en": "Now for our last phrase.",
+      "zh": "现在是我们的最后一句话。"
+    },
+    {
+      "id": 196,
+      "start": 480.95,
+      "end": 486.99,
+      "en": "So the pharmacist in the end wanted to check for the price and he said, just hang on there a sec.",
+      "zh": "所以药剂师最终想检查价格，他说，等一下。"
+    },
+    {
+      "id": 197,
+      "start": 487.67,
+      "end": 488.41,
+      "en": "So that's interesting.",
+      "zh": "所以这很有趣。"
+    },
+    {
+      "id": 198,
+      "start": 489.07,
+      "end": 489.57,
+      "en": "Hang on.",
+      "zh": "等一下。"
+    },
+    {
+      "id": 199,
+      "start": 490.29,
+      "end": 490.65,
+      "en": "Hang on.",
+      "zh": "等一下。"
+    },
+    {
+      "id": 200,
+      "start": 491.28,
+      "end": 492.28,
+      "en": "Hang on.",
+      "zh": "等一下。"
+    },
+    {
+      "id": 201,
+      "start": 492.28,
+      "end": 492.65,
+      "en": "Well, hang on.",
+      "zh": "好吧，坚持住。"
+    },
+    {
+      "id": 202,
+      "start": 493.28,
+      "end": 494.17,
+      "en": "What does he mean by hang on?",
+      "zh": "他说的是什么意思？"
+    },
+    {
+      "id": 203,
+      "start": 494.48,
+      "end": 494.97,
+      "en": "He means wait.",
+      "zh": "他的意思是等待。"
+    },
+    {
+      "id": 204,
+      "start": 495.48,
+      "end": 496.48,
+      "en": "Wait.",
+      "zh": "等等。"
+    },
+    {
+      "id": 205,
+      "start": 496.48,
+      "end": 497.79,
+      "en": "It's an informal way of saying wait.",
+      "zh": "这是一种非正式的表达方式。"
+    },
+    {
+      "id": 206,
+      "start": 498.21,
+      "end": 498.43,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 207,
+      "start": 498.63,
+      "end": 501.15,
+      "en": "It's also a little bit more friendly than just saying wait.",
+      "zh": "它也比仅仅说等待更友好一点。"
+    },
+    {
+      "id": 208,
+      "start": 501.53,
+      "end": 501.73,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 209,
+      "start": 501.97,
+      "end": 502.23,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 210,
+      "start": 502.69,
+      "end": 505.53,
+      "en": "And we can change the time a little bit, right?",
+      "zh": "我们可以稍微改变一下时间，对吧？"
+    },
+    {
+      "id": 211,
+      "start": 505.69,
+      "end": 505.83,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 212,
+      "start": 506.01,
+      "end": 507.85,
+      "en": "So we can say hang on a second.",
+      "zh": "所以我们可以说等一下。"
+    },
+    {
+      "id": 213,
+      "start": 508.47,
+      "end": 509.95,
+      "en": "Or hang on a moment.",
+      "zh": "或坚持一会儿。"
+    },
+    {
+      "id": 214,
+      "start": 510.31,
+      "end": 511.03,
+      "en": "Hang on a minute.",
+      "zh": "等一下。"
+    },
+    {
+      "id": 215,
+      "start": 511.41,
+      "end": 511.75,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 216,
+      "start": 512.03,
+      "end": 513.05,
+      "en": "What about hang on an hour?",
+      "zh": "坚持一个小时呢？"
+    },
+    {
+      "id": 217,
+      "start": 513.43,
+      "end": 516.93,
+      "en": "Well, maybe if you're telling someone to wait for an hour, just hang on there for an hour.",
+      "zh": "好吧，也许如果你告诉某人等待一个小时，那就在那里呆一个小时。"
+    },
+    {
+      "id": 218,
+      "start": 517.07,
+      "end": 517.77,
+      "en": "I'll be there soon.",
+      "zh": "我很快就会到那里。"
+    },
+    {
+      "id": 219,
+      "start": 517.99,
+      "end": 518.15,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 220,
+      "start": 518.15,
+      "end": 519.97,
+      "en": "But I guess it's more common hang on a minute.",
+      "zh": "但我想这是更常见的问题。"
+    },
+    {
+      "id": 221,
+      "start": 520.17,
+      "end": 520.29,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 222,
+      "start": 521.32,
+      "end": 522.68,
+      "en": "Maybe for shorter periods of time.",
+      "zh": "也许是较短的时间。"
+    },
+    {
+      "id": 223,
+      "start": 522.68,
+      "end": 523.68,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 224,
+      "start": 523.68,
+      "end": 530.36,
+      "en": "So with these phrases, I think now we can use them in different circumstances, obviously not only in the pharmacy.",
+      "zh": "所以有了这些短语，我想现在我们可以在不同的情况下使用它们，显然不仅仅是在药房中。"
+    },
+    {
+      "id": 225,
+      "start": 530.36,
+      "end": 540.76,
+      "en": "But let's listen to our dialogue for the last time.",
+      "zh": "但让我们最后一次听我们的对话。"
+    },
+    {
+      "id": 226,
+      "start": 540.76,
+      "end": 541.76,
+      "en": "Hello sir.",
+      "zh": "您好，先生。"
+    },
+    {
+      "id": 227,
+      "start": 541.76,
+      "end": 542.43,
+      "en": "How can I help you?",
+      "zh": "有什么可以帮您？"
+    },
+    {
+      "id": 228,
+      "start": 542.87,
+      "end": 543.21,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 229,
+      "start": 543.47,
+      "end": 545.65,
+      "en": "I need this prescription, please.",
+      "zh": "我来按处方取药。"
+    },
+    {
+      "id": 230,
+      "start": 545.89,
+      "end": 546.65,
+      "en": "Let's see.",
+      "zh": "我们来看看。"
+    },
+    {
+      "id": 231,
+      "start": 547.32,
+      "end": 548.32,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 232,
+      "start": 548.32,
+      "end": 549.65,
+      "en": "So 50 milligrams of Prozac.",
+      "zh": "所以50毫克百忧解。"
+    },
+    {
+      "id": 233,
+      "start": 550.52,
+      "end": 552.13,
+      "en": "Would you prefer this in capsule or tablet?",
+      "zh": "您要胶囊还是片剂？"
+    },
+    {
+      "id": 234,
+      "start": 553.04,
+      "end": 554.44,
+      "en": "Capsules are fine.",
+      "zh": "胶囊就行。"
+    },
+    {
+      "id": 235,
+      "start": 554.44,
+      "end": 555.44,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 236,
+      "start": 555.44,
+      "end": 556.97,
+      "en": "You should take one capsule three times a day.",
+      "zh": "每天服用三次，每次一粒胶囊。"
+    },
+    {
+      "id": 237,
+      "start": 557.64,
+      "end": 561.97,
+      "en": "Be sure not to take it on an empty stomach and also don't ever mix it with alcohol.",
+      "zh": "不要空腹服药，也绝对不要与酒同服。"
+    },
+    {
+      "id": 238,
+      "start": 562.53,
+      "end": 563.45,
+      "en": "Yes, I know.",
+      "zh": "是的，我知道。"
+    },
+    {
+      "id": 239,
+      "start": 563.85,
+      "end": 565.11,
+      "en": "It's not the first time I'm taking this.",
+      "zh": "我不是第一次服用这种药了。"
+    },
+    {
+      "id": 240,
+      "start": 565.43,
+      "end": 565.95,
+      "en": "Don't worry.",
+      "zh": "别担心。"
+    },
+    {
+      "id": 241,
+      "start": 566.76,
+      "end": 567.76,
+      "en": "I won't overdose.",
+      "zh": "我不会服药过量的。"
+    },
+    {
+      "id": 242,
+      "start": 567.76,
+      "end": 568.92,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 243,
+      "start": 568.92,
+      "end": 569.75,
+      "en": "Anything else I can get you?",
+      "zh": "还需要别的吗？"
+    },
+    {
+      "id": 244,
+      "start": 570.91,
+      "end": 571.57,
+      "en": "Oh, yes.",
+      "zh": "哦，是的。"
+    },
+    {
+      "id": 245,
+      "start": 571.75,
+      "end": 572.49,
+      "en": "I almost forgot.",
+      "zh": "我差点忘了。"
+    },
+    {
+      "id": 246,
+      "start": 572.91,
+      "end": 575.89,
+      "en": "Can I also get some eye drops and some condoms?",
+      "zh": "我也可以买一些眼药水和一些避孕套吗？"
+    },
+    {
+      "id": 247,
+      "start": 576.63,
+      "end": 576.95,
+      "en": "Sure.",
+      "zh": "当然。"
+    },
+    {
+      "id": 248,
+      "start": 578.6,
+      "end": 580.86,
+      "en": "Darn, condoms aren't registered in our system.",
+      "zh": "糟了，避孕套没录入系统。"
+    },
+    {
+      "id": 249,
+      "start": 581.36,
+      "end": 582.28,
+      "en": "Oh, well, that's okay.",
+      "zh": "哦，那好吧。"
+    },
+    {
+      "id": 250,
+      "start": 582.56,
+      "end": 583.1,
+      "en": "I'll get some later.",
+      "zh": "我回头再买。"
+    },
+    {
+      "id": 251,
+      "start": 583.32,
+      "end": 583.48,
+      "en": "Thanks.",
+      "zh": "谢谢。"
+    },
+    {
+      "id": 252,
+      "start": 583.78,
+      "end": 584.74,
+      "en": "Really, it's no problem.",
+      "zh": "真的，没问题。"
+    },
+    {
+      "id": 253,
+      "start": 585.22,
+      "end": 586.7,
+      "en": "Just hang on there a sec.",
+      "zh": "请稍等一下。"
+    },
+    {
+      "id": 254,
+      "start": 589.08,
+      "end": 591.63,
+      "en": "Can I get a price check on Funtimes Ribbed Condoms, please?",
+      "zh": "请问我可以在 FunTimes 罗纹避孕套上获得价格检查吗？"
+    },
+    {
+      "id": 255,
+      "start": 597.8,
+      "end": 598.28,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 256,
+      "start": 598.5,
+      "end": 601.78,
+      "en": "So with medicine, an interesting thing comes up, right?",
+      "zh": "所以有了医学，一个有趣的事情出现了，对吧？"
+    },
+    {
+      "id": 257,
+      "start": 602.2,
+      "end": 602.5,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 258,
+      "start": 602.84,
+      "end": 605.42,
+      "en": "A lot of people think that you eat medicine.",
+      "zh": "很多人认为你吃药。"
+    },
+    {
+      "id": 259,
+      "start": 605.93,
+      "end": 606.27,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 260,
+      "start": 606.76,
+      "end": 607.09,
+      "en": "Or drink medicine?",
+      "zh": "还是喝药？"
+    },
+    {
+      "id": 261,
+      "start": 607.76,
+      "end": 608.76,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 262,
+      "start": 608.76,
+      "end": 610.09,
+      "en": "But in English, you always take medicine.",
+      "zh": "但用英语，你总是吃药。"
+    },
+    {
+      "id": 263,
+      "start": 610.92,
+      "end": 611.61,
+      "en": "Always take medicine.",
+      "zh": "总是吃药。"
+    },
+    {
+      "id": 264,
+      "start": 611.92,
+      "end": 612.92,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 265,
+      "start": 612.92,
+      "end": 614.59,
+      "en": "So you never can say, oh, I ate my medicine yesterday.",
+      "zh": "所以你永远不能说，哦，我昨天吃了我的药。"
+    },
+    {
+      "id": 266,
+      "start": 615.13,
+      "end": 616.95,
+      "en": "It always has to be, I took my medicine.",
+      "zh": "它总是必须的，我吃了我的药。"
+    },
+    {
+      "id": 267,
+      "start": 617.17,
+      "end": 617.37,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 268,
+      "start": 618.2,
+      "end": 619.2,
+      "en": "So you take the capsules.",
+      "zh": "所以你服用胶囊。"
+    },
+    {
+      "id": 269,
+      "start": 619.2,
+      "end": 620.2,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 270,
+      "start": 620.2,
+      "end": 620.33,
+      "en": "Or take the tablets.",
+      "zh": "或服用药片。"
+    },
+    {
+      "id": 271,
+      "start": 621.2,
+      "end": 622.2,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 272,
+      "start": 622.2,
+      "end": 622.43,
+      "en": "So you take medicine.",
+      "zh": "所以你吃药。"
+    },
+    {
+      "id": 273,
+      "start": 623.2,
+      "end": 628.96,
+      "en": "Now, an interesting thing in the United States, for example, it's very hard to get medicine without a prescription.",
+      "zh": "现在，在美国，一件有趣的事情，没有处方就很难获得药物。"
+    },
+    {
+      "id": 274,
+      "start": 628.96,
+      "end": 629.96,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 275,
+      "start": 629.96,
+      "end": 635.12,
+      "en": "So we always talk about prescription medicine and OTC medicine or over-the-counter medicine.",
+      "zh": "所以我们总是谈论处方药和非处方药或非处方药。"
+    },
+    {
+      "id": 276,
+      "start": 635.68,
+      "end": 637.68,
+      "en": "So over-the-counter medicine is?",
+      "zh": "那么非处方药是什么？"
+    },
+    {
+      "id": 277,
+      "start": 637.68,
+      "end": 641.42,
+      "en": "Is medicine you can just buy without that prescription or note from your doctor.",
+      "zh": "您可以在没有医生处方或说明的情况下购买药物吗？"
+    },
+    {
+      "id": 278,
+      "start": 641.76,
+      "end": 641.94,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 279,
+      "start": 641.96,
+      "end": 646.6,
+      "en": "So for example, if you have a headache, you can go to the pharmacy and buy aspirin.",
+      "zh": "例如，如果你头疼，你可以去药房买阿司匹林。"
+    },
+    {
+      "id": 280,
+      "start": 646.76,
+      "end": 647.76,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 281,
+      "start": 647.76,
+      "end": 649.64,
+      "en": "And that's over-the-counter medicine.",
+      "zh": "那是非处方药。"
+    },
+    {
+      "id": 282,
+      "start": 649.64,
+      "end": 652.87,
+      "en": "But prescription medicine, you can't get it without the doctor's note.",
+      "zh": "但是处方药，没有医生的说明你就无法得到它。"
+    },
+    {
+      "id": 283,
+      "start": 653.16,
+      "end": 654.16,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 284,
+      "start": 654.16,
+      "end": 656.63,
+      "en": "And like you said, in America, you almost have to have a prescription for everything.",
+      "zh": "就像你说的，在美国，你几乎必须为所有事情开具处方。"
+    },
+    {
+      "id": 285,
+      "start": 657.08,
+      "end": 659.77,
+      "en": "Which is strange because people can overdose on aspirin.",
+      "zh": "这很奇怪，因为人们可以过量服用阿司匹林。"
+    },
+    {
+      "id": 286,
+      "start": 661.36,
+      "end": 665.09,
+      "en": "So tell us how medicine and pharmacies work in your countries.",
+      "zh": "因此，请告诉我们您所在国家/地区的药品和药房如何运作。"
+    },
+    {
+      "id": 287,
+      "start": 665.74,
+      "end": 672.36,
+      "en": "And also if you have questions or comments, our website, EnglishPod.com is always open and ready for you.",
+      "zh": "此外，如果您有任何问题或意见，我们的网站 Englishpod.com 始终开放并为您准备好。"
+    },
+    {
+      "id": 288,
+      "start": 672.36,
+      "end": 674.36,
+      "en": "So thanks for downloading this lesson, you guys.",
+      "zh": "所以谢谢你下载本课，你们。"
+    },
+    {
+      "id": 289,
+      "start": 674.36,
+      "end": 675.36,
+      "en": "And until next time, goodbye.",
+      "zh": "下次再见，拜拜。"
+    },
+    {
+      "id": 290,
+      "start": 675.36,
+      "end": 684.878,
+      "en": "We'll see you guys out there.",
+      "zh": "我们会在那里见到你们。"
+    }
+  ],
+  "dialog": {
+    "start": 98.96,
+    "end": 159.05,
+    "segmentIds": [
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71
+    ]
+  }
+}

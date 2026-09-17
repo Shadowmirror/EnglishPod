@@ -1,0 +1,1263 @@
+{
+  "version": 1,
+  "id": 176,
+  "number": "0176",
+  "title": "Daily Life - Heating",
+  "audio": "mp3/176. Daily Life - Heating.mp3",
+  "duration": 575.8694375,
+  "segments": [
+    {
+      "id": 1,
+      "start": 2.76,
+      "end": 4.94,
+      "en": "Hello everyone and welcome back to EnglishPod.",
+      "zh": "大家好，欢迎回到 EnglishPod。"
+    },
+    {
+      "id": 2,
+      "start": 5.16,
+      "end": 5.56,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 6.08,
+      "end": 10.02,
+      "en": "And my name is Catherine and today we have a cold lesson.",
+      "zh": "我的名字是凯瑟琳，今天我们有一个冷课。"
+    },
+    {
+      "id": 4,
+      "start": 10.42,
+      "end": 10.86,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 5,
+      "start": 11.34,
+      "end": 18.18,
+      "en": "It's the winter season and of course it gets cold in a lot of different places around the world and so we're going to talk about heating.",
+      "zh": "现在是冬季，世界上许多不同的地方都会变冷，所以我们要谈谈暖气。"
+    },
+    {
+      "id": 6,
+      "start": 18.82,
+      "end": 25.48,
+      "en": "Okay, this is very important but before we do get started, we have a very important word to preview in Vocabulary Preview.",
+      "zh": "好的，这很重要，但在我们开始之前，我们有一个非常重要的词来预览词汇预览。"
+    },
+    {
+      "id": 7,
+      "start": 27.2,
+      "end": 27.49,
+      "en": "Vocabulary Preview.",
+      "zh": "词汇预习。"
+    },
+    {
+      "id": 8,
+      "start": 28.2,
+      "end": 34.08,
+      "en": "Alright, so we're going to preview the word freezing.",
+      "zh": "好的，所以我们要预览冻结这个词。"
+    },
+    {
+      "id": 9,
+      "start": 34.08,
+      "end": 36.75,
+      "en": "It is freezing today by the way so this is very appropriate.",
+      "zh": "顺便说一句，今天很冷，所以这是非常合适的。"
+    },
+    {
+      "id": 10,
+      "start": 38.04,
+      "end": 39.75,
+      "en": "Freezing means very, very, very cold.",
+      "zh": "冷冻意味着非常非常非常冷。"
+    },
+    {
+      "id": 11,
+      "start": 40.25,
+      "end": 41.49,
+      "en": "Okay, it is freezing.",
+      "zh": "好吧，它正在冻结。"
+    },
+    {
+      "id": 12,
+      "start": 42.01,
+      "end": 43.21,
+      "en": "Okay, so it's very cold.",
+      "zh": "好吧，所以很冷。"
+    },
+    {
+      "id": 13,
+      "start": 43.57,
+      "end": 44.41,
+      "en": "It's freezing today.",
+      "zh": "今天很冷。"
+    },
+    {
+      "id": 14,
+      "start": 44.91,
+      "end": 49.89,
+      "en": "It's so cold in fact you can't have water outside because the water will become ice.",
+      "zh": "天气太冷了，你不能在外面有水，因为水会变成冰。"
+    },
+    {
+      "id": 15,
+      "start": 50.17,
+      "end": 50.69,
+      "en": "It will freeze.",
+      "zh": "它会冻结。"
+    },
+    {
+      "id": 16,
+      "start": 51.28,
+      "end": 53.04,
+      "en": "Okay, great word.",
+      "zh": "好，这个词很棒。"
+    },
+    {
+      "id": 17,
+      "start": 53.04,
+      "end": 55.67,
+      "en": "So let's listen to our dialogue for the very first time.",
+      "zh": "所以让我们第一次听我们的对话。"
+    },
+    {
+      "id": 18,
+      "start": 62.2,
+      "end": 63.48,
+      "en": "It's freezing in here.",
+      "zh": "这里冷死了。"
+    },
+    {
+      "id": 19,
+      "start": 63.68,
+      "end": 64.5,
+      "en": "Can I turn up the heat?",
+      "zh": "我能把暖气调高一点吗？"
+    },
+    {
+      "id": 20,
+      "start": 65.22,
+      "end": 66.5,
+      "en": "Don't touch that thermostat.",
+      "zh": "别动那个温控器。"
+    },
+    {
+      "id": 21,
+      "start": 67.04,
+      "end": 68.46,
+      "en": "You don't pay the bills around here.",
+      "zh": "家里的账单又不是你付的。"
+    },
+    {
+      "id": 22,
+      "start": 68.86,
+      "end": 69.98,
+      "en": "Dad, are you serious?",
+      "zh": "爸，你认真的吗？"
+    },
+    {
+      "id": 23,
+      "start": 70.44,
+      "end": 72.72,
+      "en": "What's the point of having central heating if we can't use it?",
+      "zh": "如果我们不能使用中央供暖，有什么意义？"
+    },
+    {
+      "id": 24,
+      "start": 73.22,
+      "end": 75.73,
+      "en": "Look, I can see my breath.",
+      "zh": "你看，我呼出的气都成白雾了。"
+    },
+    {
+      "id": 25,
+      "start": 76.27,
+      "end": 77.23,
+      "en": "Put on a sweater.",
+      "zh": "穿件毛衣。"
+    },
+    {
+      "id": 26,
+      "start": 77.89,
+      "end": 81.25,
+      "en": "I'm not going to let you run up my heating bill just because it's a bit chilly.",
+      "zh": "我可不会因为有点冷，就让你把我的取暖账单弄得那么高。"
+    },
+    {
+      "id": 27,
+      "start": 81.56,
+      "end": 84.16,
+      "en": "Dad, I'm going to catch a cold.",
+      "zh": "爸爸，我要感冒了。"
+    },
+    {
+      "id": 28,
+      "start": 84.16,
+      "end": 88.15,
+      "en": "When I was your age, my parents didn't have central heating like you do.",
+      "zh": "当我和你一样大的时候，我的父母没有像你那样有中央供暖。"
+    },
+    {
+      "id": 29,
+      "start": 88.76,
+      "end": 91.31,
+      "en": "We had a furnace in the center of the living room and that was it.",
+      "zh": "我们在客厅的中央有一个炉子，就是这样。"
+    },
+    {
+      "id": 30,
+      "start": 91.96,
+      "end": 94.75,
+      "en": "We used it to cook, heat the house, and even dry our clothes.",
+      "zh": "我们用它来做饭、加热房子，甚至晾干我们的衣服。"
+    },
+    {
+      "id": 31,
+      "start": 95.6,
+      "end": 96.39,
+      "en": "We never caught a cold.",
+      "zh": "我们从来没有感冒过。"
+    },
+    {
+      "id": 32,
+      "start": 97.1,
+      "end": 97.81,
+      "en": "You should be grateful.",
+      "zh": "你应该知足。"
+    },
+    {
+      "id": 33,
+      "start": 101.33,
+      "end": 106.45,
+      "en": "Alright, we're back and this is actually what a lot of dads are like I think around the world.",
+      "zh": "好吧，我们回来了，这实际上是我在世界各地的许多爸爸的想法。"
+    },
+    {
+      "id": 34,
+      "start": 107.16,
+      "end": 110.84,
+      "en": "Yep, my dad definitely liked to keep the heat low in the house.",
+      "zh": "是的，我爸爸绝对喜欢把房子里的热量保持低。"
+    },
+    {
+      "id": 35,
+      "start": 110.93,
+      "end": 117.75,
+      "en": "Alright, so we'll talk about that a little bit later but let's take a look at some four words on Language Takeaway today.",
+      "zh": "好吧，我们稍后再谈，但让我们看看今天关于语言外卖的四个词。"
+    },
+    {
+      "id": 36,
+      "start": 119.82,
+      "end": 120.8,
+      "en": "Language Takeaway",
+      "zh": "语言要点"
+    },
+    {
+      "id": 37,
+      "start": 121.93,
+      "end": 126.03,
+      "en": "Well, this first word is important for anyone who has a home with heating.",
+      "zh": "好吧，第一个词对任何有暖气的人来说都很重要。"
+    },
+    {
+      "id": 38,
+      "start": 126.79,
+      "end": 128.01,
+      "en": "It's called a thermostat.",
+      "zh": "它被称为恒温器。"
+    },
+    {
+      "id": 39,
+      "start": 128.21,
+      "end": 129.71,
+      "en": "Alright, a thermostat.",
+      "zh": "好吧，恒温器。"
+    },
+    {
+      "id": 40,
+      "start": 130.17,
+      "end": 131.49,
+      "en": "What is a thermostat?",
+      "zh": "什么是恒温器？"
+    },
+    {
+      "id": 41,
+      "start": 131.8,
+      "end": 141.67,
+      "en": "A thermostat is a dial or like a device on the wall that tells you how hot or how cold the house is.",
+      "zh": "恒温器是一个表盘或墙上的设备，可以告诉您房屋有多热或多冷。"
+    },
+    {
+      "id": 42,
+      "start": 141.83,
+      "end": 143.55,
+      "en": "It's like a thermometer for your house.",
+      "zh": "这就像你家的温度计。"
+    },
+    {
+      "id": 43,
+      "start": 143.83,
+      "end": 148.97,
+      "en": "Okay, so you can move the thermostat, the temperature to make the house warmer or colder, right?",
+      "zh": "好的，所以你可以移动恒温器，使房子变暖或变冷的温度，对吧？"
+    },
+    {
+      "id": 44,
+      "start": 149.11,
+      "end": 156.56,
+      "en": "Right, so if it says it's 20 degrees and I think that's too cold, I can turn the thermostat up to 23 degrees.",
+      "zh": "是的，所以如果它说它是 20 度并且我认为这太冷了，我可以将恒温器转到 23 度。"
+    },
+    {
+      "id": 45,
+      "start": 157.24,
+      "end": 165.02,
+      "en": "Alright, and well very much related to a thermostat and what this device does is our next word, central heating.",
+      "zh": "好吧，而且与恒温器非常相关，这个设备的作用是我们的下一个词，中央供暖。"
+    },
+    {
+      "id": 46,
+      "start": 165.76,
+      "end": 167.98,
+      "en": "Right, so if you have central heating, you have a thermostat.",
+      "zh": "对，所以如果你有中央供暖，你就有一个恒温器。"
+    },
+    {
+      "id": 47,
+      "start": 168.28,
+      "end": 178.88,
+      "en": "It's the way to control the heat and central heating means that you have one heater for the whole house and so the air comes into all the different rooms.",
+      "zh": "这是控制热量和中央供暖的方法，这意味着您可以为整个房屋配备一个加热器，因此空气进入所有不同的房间。"
+    },
+    {
+      "id": 48,
+      "start": 178.88,
+      "end": 185.61,
+      "en": "So not many places in China have this but for example in the United States, in Canada, it is very common.",
+      "zh": "所以在中国没有多少地方有这个，但例如在美国，在加拿大，这很常见。"
+    },
+    {
+      "id": 49,
+      "start": 185.84,
+      "end": 193.76,
+      "en": "Okay, so your house or your apartment building will have central heating and then you can control how cold or warm the house is with thermostats.",
+      "zh": "好的，所以你的房子或你的公寓楼会有中央供暖，然后你可以用恒温器控制房子的冷度或温暖程度。"
+    },
+    {
+      "id": 50,
+      "start": 193.85,
+      "end": 194.13,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 51,
+      "start": 194.76,
+      "end": 200.08,
+      "en": "Very good and well our next word is related to temperature and it's chilly.",
+      "zh": "非常好，我们的下一个词与温度有关，而且很冷。"
+    },
+    {
+      "id": 52,
+      "start": 200.08,
+      "end": 206.2,
+      "en": "Chilly, okay, so there's a big difference between chilly and freezing.",
+      "zh": "寒冷，好吧，所以寒冷和冷冻之间有很大的区别。"
+    },
+    {
+      "id": 53,
+      "start": 206.2,
+      "end": 207.45,
+      "en": "Freezing means very very very cold.",
+      "zh": "冷冻意味着非常非常非常冷。"
+    },
+    {
+      "id": 54,
+      "start": 208.44,
+      "end": 210.0,
+      "en": "Chilly means a little cold.",
+      "zh": "寒冷的意思是有点冷。"
+    },
+    {
+      "id": 55,
+      "start": 210.01,
+      "end": 211.55,
+      "en": "Right, so it's a little cold.",
+      "zh": "对，所以有点冷。"
+    },
+    {
+      "id": 56,
+      "start": 211.73,
+      "end": 212.31,
+      "en": "It's a bit chilly.",
+      "zh": "它有点冷。"
+    },
+    {
+      "id": 57,
+      "start": 213.01,
+      "end": 215.41,
+      "en": "Right, so it's a bit chilly today, I'm going to wear a hat.",
+      "zh": "对，所以今天有点冷，我要戴帽子。"
+    },
+    {
+      "id": 58,
+      "start": 215.8,
+      "end": 221.57,
+      "en": "Okay, if it's freezing, I'm going to wear a hat and mittens and a scarf and coat and boots.",
+      "zh": "好吧，如果它很冷，我会戴上帽子、手套、围巾、外套和靴子。"
+    },
+    {
+      "id": 59,
+      "start": 222.48,
+      "end": 232.16,
+      "en": "Right, so if it's a bit chilly, it's not very cold and well moving on, the dad mentioned about him having a furnace when he was young.",
+      "zh": "对，所以如果有点冷，不是很冷，继续前进，爸爸提到他年轻时有炉子。"
+    },
+    {
+      "id": 60,
+      "start": 232.16,
+      "end": 237.55,
+      "en": "That's right, the dad had a furnace in his house and the furnace is a way to heat your house.",
+      "zh": "没错，爸爸家里有炉子，炉子是给你家取暖的一种方式。"
+    },
+    {
+      "id": 61,
+      "start": 238.28,
+      "end": 238.83,
+      "en": "It's like a stove.",
+      "zh": "它就像一个炉子。"
+    },
+    {
+      "id": 62,
+      "start": 240.2,
+      "end": 242.37,
+      "en": "So yeah, just consider it like a big oven, right?",
+      "zh": "所以，只是把它当作一个大烤箱，对吧？"
+    },
+    {
+      "id": 63,
+      "start": 242.76,
+      "end": 248.96,
+      "en": "Maybe you've seen it in the old movies where you would have to throw firewood into the furnace to make it heat up the house.",
+      "zh": "也许你在老电影中看过它，你必须把柴火扔进炉子里才能让房子变暖。"
+    },
+    {
+      "id": 64,
+      "start": 248.96,
+      "end": 254.35,
+      "en": "Exactly, and so this is very common in older homes and not very common in apartments.",
+      "zh": "确切地说，这在老房子中很常见，在公寓里并不常见。"
+    },
+    {
+      "id": 65,
+      "start": 255.4,
+      "end": 260.15,
+      "en": "Right, and well, that's all the words we have for language takeaway today.",
+      "zh": "是的，这就是我们今天为语言外卖所用的所有词。"
+    },
+    {
+      "id": 66,
+      "start": 260.79,
+      "end": 262.47,
+      "en": "Why don't we listen to this chilly dialogue again.",
+      "zh": "我们为什么不再听一次冷酷的对话。"
+    },
+    {
+      "id": 67,
+      "start": 268.52,
+      "end": 269.52,
+      "en": "It's freezing in here.",
+      "zh": "这里冷死了。"
+    },
+    {
+      "id": 68,
+      "start": 269.54,
+      "end": 270.36,
+      "en": "Can I turn up the heat?",
+      "zh": "我可以调高热量吗？"
+    },
+    {
+      "id": 69,
+      "start": 270.88,
+      "end": 272.42,
+      "en": "Don't touch that thermostat.",
+      "zh": "别动那个温控器。"
+    },
+    {
+      "id": 70,
+      "start": 272.8,
+      "end": 274.4,
+      "en": "You don't pay the bills around here.",
+      "zh": "家里的账单又不是你付的。"
+    },
+    {
+      "id": 71,
+      "start": 274.82,
+      "end": 275.92,
+      "en": "Dad, are you serious?",
+      "zh": "爸，你认真的吗？"
+    },
+    {
+      "id": 72,
+      "start": 276.34,
+      "end": 278.66,
+      "en": "What's the point of having central heating if we can't use it?",
+      "zh": "如果我们不能使用中央供暖，有什么意义？"
+    },
+    {
+      "id": 73,
+      "start": 279.22,
+      "end": 281.69,
+      "en": "Look, I can see my breath.",
+      "zh": "看，我可以看到我的呼吸。"
+    },
+    {
+      "id": 74,
+      "start": 282.19,
+      "end": 283.17,
+      "en": "Put on a sweater.",
+      "zh": "穿件毛衣。"
+    },
+    {
+      "id": 75,
+      "start": 283.79,
+      "end": 287.17,
+      "en": "I'm not going to let you run up my heating bill just because it's a bit chilly.",
+      "zh": "我可不会因为有点冷，就让你把我的取暖账单弄得那么高。"
+    },
+    {
+      "id": 76,
+      "start": 287.48,
+      "end": 290.08,
+      "en": "Dad, I'm going to catch a cold.",
+      "zh": "爸爸，我要感冒了。"
+    },
+    {
+      "id": 77,
+      "start": 290.08,
+      "end": 294.05,
+      "en": "When I was your age, my parents didn't have central heating like you do.",
+      "zh": "当我和你一样大的时候，我的父母没有像你那样有中央供暖。"
+    },
+    {
+      "id": 78,
+      "start": 294.7,
+      "end": 297.23,
+      "en": "We had a furnace in the center of the living room and that was it.",
+      "zh": "我们在客厅的中央有一个炉子，就是这样。"
+    },
+    {
+      "id": 79,
+      "start": 297.88,
+      "end": 300.69,
+      "en": "We used it to cook, heat the house, and even dry our clothes.",
+      "zh": "我们用它来做饭、加热房子，甚至晾干我们的衣服。"
+    },
+    {
+      "id": 80,
+      "start": 301.56,
+      "end": 302.31,
+      "en": "We never caught a cold.",
+      "zh": "我们从来没有感冒过。"
+    },
+    {
+      "id": 81,
+      "start": 303.04,
+      "end": 303.73,
+      "en": "You should be grateful.",
+      "zh": "你应该知足。"
+    },
+    {
+      "id": 82,
+      "start": 308.32,
+      "end": 308.83,
+      "en": "Alright we're back.",
+      "zh": "好了，我们回来了。"
+    },
+    {
+      "id": 83,
+      "start": 309.32,
+      "end": 313.33,
+      "en": "So now we have prepared for you three key phrases on Fluency Builder.",
+      "zh": "所以现在我们已经为您准备了关于 Fluency Builder 的三个关键短语。"
+    },
+    {
+      "id": 84,
+      "start": 315.44,
+      "end": 315.82,
+      "en": "Fluency Builder.",
+      "zh": "流利表达。"
+    },
+    {
+      "id": 85,
+      "start": 317.17,
+      "end": 321.25,
+      "en": "Okay, so this first phrase is related to thermostat.",
+      "zh": "好的，所以第一个短语与恒温器有关。"
+    },
+    {
+      "id": 86,
+      "start": 322.05,
+      "end": 325.77,
+      "en": "So thermostat like we said is like a thermometer but we can control the temperature.",
+      "zh": "所以我们说的恒温器就像一个温度计，但我们可以控制温度。"
+    },
+    {
+      "id": 87,
+      "start": 326.2,
+      "end": 331.54,
+      "en": "So if we want to make the temperature hotter, we turn up the thermostat.",
+      "zh": "因此，如果我们想使温度更热，我们会打开恒温器。"
+    },
+    {
+      "id": 88,
+      "start": 331.54,
+      "end": 334.69,
+      "en": "So this is a phrasal verb, to turn up the heat.",
+      "zh": "所以这是一个短语动词，调高热量。"
+    },
+    {
+      "id": 89,
+      "start": 335.2,
+      "end": 336.17,
+      "en": "You could say this about heat.",
+      "zh": "你可以这样说关于热量。"
+    },
+    {
+      "id": 90,
+      "start": 336.88,
+      "end": 338.05,
+      "en": "You could say this about noise too.",
+      "zh": "你也可以这样说噪音。"
+    },
+    {
+      "id": 91,
+      "start": 338.24,
+      "end": 339.27,
+      "en": "Can you turn up the radio?",
+      "zh": "你能打开收音机吗？"
+    },
+    {
+      "id": 92,
+      "start": 339.72,
+      "end": 340.29,
+      "en": "Turn up the volume.",
+      "zh": "调高音量。"
+    },
+    {
+      "id": 93,
+      "start": 341.16,
+      "end": 342.4,
+      "en": "So it's to increase.",
+      "zh": "所以要增加。"
+    },
+    {
+      "id": 94,
+      "start": 342.4,
+      "end": 345.75,
+      "en": "To increase, to make bigger or warmer or louder.",
+      "zh": "增加，使更大或更温暖或更响亮。"
+    },
+    {
+      "id": 95,
+      "start": 346.08,
+      "end": 350.8,
+      "en": "Alright and if we wanted to decrease the temperature in the thermostat, you would say...",
+      "zh": "好吧，如果我们想降低恒温器中的温度，你会说..."
+    },
+    {
+      "id": 96,
+      "start": 350.8,
+      "end": 351.33,
+      "en": "Turn down.",
+      "zh": "拒绝。"
+    },
+    {
+      "id": 97,
+      "start": 351.96,
+      "end": 352.51,
+      "en": "Turn down the heat.",
+      "zh": "调低热量。"
+    },
+    {
+      "id": 98,
+      "start": 352.96,
+      "end": 353.96,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 99,
+      "start": 353.96,
+      "end": 354.96,
+      "en": "So it's too hot in here.",
+      "zh": "所以这里太热了。"
+    },
+    {
+      "id": 100,
+      "start": 354.96,
+      "end": 356.41,
+      "en": "Can you please turn down the heat?",
+      "zh": "你能关掉暖气吗？"
+    },
+    {
+      "id": 101,
+      "start": 356.8,
+      "end": 358.56,
+      "en": "Alright, very good.",
+      "zh": "好，很好。"
+    },
+    {
+      "id": 102,
+      "start": 358.56,
+      "end": 369.19,
+      "en": "And our next phrase is, well the dad was talking about the bills and how expensive it is to use the thermostat and he said, I'm not going to let you run up my heating bill.",
+      "zh": "我们的下一个短语是，爸爸在谈论账单以及使用恒温器有多贵，他说，我不会让你用我的取暖费。"
+    },
+    {
+      "id": 103,
+      "start": 369.68,
+      "end": 372.52,
+      "en": "Okay, so a bill is like you know, something that you pay.",
+      "zh": "好的，所以一张账单就像你知道的那样，你付的钱。"
+    },
+    {
+      "id": 104,
+      "start": 372.52,
+      "end": 372.81,
+      "en": "It's money.",
+      "zh": "这是钱。"
+    },
+    {
+      "id": 105,
+      "start": 373.6,
+      "end": 375.86,
+      "en": "And so in this case, I don't want you to run up the bill.",
+      "zh": "所以在这种情况下，我不希望你把账单付诸东流。"
+    },
+    {
+      "id": 106,
+      "start": 376.12,
+      "end": 380.36,
+      "en": "That means to increase the amount of money I have to spend.",
+      "zh": "这意味着增加我必须花费的金额。"
+    },
+    {
+      "id": 107,
+      "start": 380.36,
+      "end": 385.46,
+      "en": "So maybe if you leave your television on all night, you're running up your electricity bill.",
+      "zh": "所以也许如果你整晚都开着电视，你的电费就要用完了。"
+    },
+    {
+      "id": 108,
+      "start": 386.44,
+      "end": 387.44,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 109,
+      "start": 387.44,
+      "end": 391.84,
+      "en": "And if you leave it on 10 hours a day, you run up the phone bill and your mother kills you.",
+      "zh": "如果你每天保持 10 小时，你会把电话费挂起来，你的母亲会杀了你。"
+    },
+    {
+      "id": 110,
+      "start": 391.84,
+      "end": 392.84,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 111,
+      "start": 392.84,
+      "end": 396.32,
+      "en": "Alright and well the daughter was complaining about her catching a cold.",
+      "zh": "好吧，女儿抱怨她感冒了。"
+    },
+    {
+      "id": 112,
+      "start": 396.32,
+      "end": 397.4,
+      "en": "To catch a cold.",
+      "zh": "感冒。"
+    },
+    {
+      "id": 113,
+      "start": 397.64,
+      "end": 398.92,
+      "en": "Alright, so remember this.",
+      "zh": "好吧，请记住这一点。"
+    },
+    {
+      "id": 114,
+      "start": 398.92,
+      "end": 404.33,
+      "en": "A cold is when you have maybe a runny nose and a cough and a sore throat.",
+      "zh": "感冒是指您可能流鼻涕、咳嗽和喉咙痛。"
+    },
+    {
+      "id": 115,
+      "start": 404.68,
+      "end": 406.25,
+      "en": "It usually happens when the weather changes.",
+      "zh": "它通常发生在天气变化时。"
+    },
+    {
+      "id": 116,
+      "start": 407.02,
+      "end": 407.95,
+      "en": "But we don't get a cold.",
+      "zh": "但我们不会感冒。"
+    },
+    {
+      "id": 117,
+      "start": 408.6,
+      "end": 409.33,
+      "en": "You catch a cold.",
+      "zh": "你感冒了。"
+    },
+    {
+      "id": 118,
+      "start": 409.67,
+      "end": 409.97,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 119,
+      "start": 410.6,
+      "end": 412.59,
+      "en": "And remember like in baseball, you throw and catch.",
+      "zh": "记住就像在棒球中一样，你投掷和接球。"
+    },
+    {
+      "id": 120,
+      "start": 413.88,
+      "end": 414.65,
+      "en": "It's something that's fast.",
+      "zh": "这是快速的东西。"
+    },
+    {
+      "id": 121,
+      "start": 415.21,
+      "end": 416.41,
+      "en": "Alright, so you catch a cold.",
+      "zh": "好吧，所以你感冒了。"
+    },
+    {
+      "id": 122,
+      "start": 416.72,
+      "end": 417.72,
+      "en": "What about the flu?",
+      "zh": "流感呢？"
+    },
+    {
+      "id": 123,
+      "start": 417.72,
+      "end": 418.87,
+      "en": "Do you get the flu or catch the flu?",
+      "zh": "你得了流感还是感染了流感？"
+    },
+    {
+      "id": 124,
+      "start": 419.4,
+      "end": 421.83,
+      "en": "So you can't catch a flu but you can catch a cold.",
+      "zh": "所以你不能感染流感，但你会感冒。"
+    },
+    {
+      "id": 125,
+      "start": 422.58,
+      "end": 423.68,
+      "en": "Just remember this phrase.",
+      "zh": "只要记住这句话。"
+    },
+    {
+      "id": 126,
+      "start": 423.68,
+      "end": 425.01,
+      "en": "To catch a cold.",
+      "zh": "感冒。"
+    },
+    {
+      "id": 127,
+      "start": 425.4,
+      "end": 428.0,
+      "en": "I caught the cold.",
+      "zh": "我感冒了。"
+    },
+    {
+      "id": 128,
+      "start": 428.0,
+      "end": 430.15,
+      "en": "To catch a cold or I caught a cold.",
+      "zh": "感冒了还是我感冒了。"
+    },
+    {
+      "id": 129,
+      "start": 430.81,
+      "end": 433.69,
+      "en": "It's almost like if I have it, I can throw it to you Marco.",
+      "zh": "几乎就像我有它一样，我可以把它扔给你，马可。"
+    },
+    {
+      "id": 130,
+      "start": 434.08,
+      "end": 435.08,
+      "en": "Achoo!",
+      "zh": "阿乔！"
+    },
+    {
+      "id": 131,
+      "start": 435.08,
+      "end": 435.54,
+      "en": "And you catch it.",
+      "zh": "而你抓住了它。"
+    },
+    {
+      "id": 132,
+      "start": 436.08,
+      "end": 437.43,
+      "en": "Right, because it's in the air, the virus.",
+      "zh": "对，因为它在空气中，病毒。"
+    },
+    {
+      "id": 133,
+      "start": 437.72,
+      "end": 439.48,
+      "en": "Yeah, it passes very quickly.",
+      "zh": "是的，它很快就过去了。"
+    },
+    {
+      "id": 134,
+      "start": 439.48,
+      "end": 440.56,
+      "en": "Alright, very good.",
+      "zh": "好，很好。"
+    },
+    {
+      "id": 135,
+      "start": 440.56,
+      "end": 441.63,
+      "en": "So an interesting dialogue.",
+      "zh": "所以一个有趣的对话。"
+    },
+    {
+      "id": 136,
+      "start": 442.02,
+      "end": 443.65,
+      "en": "Let's listen to it one last time.",
+      "zh": "让我们最后一次听一听。"
+    },
+    {
+      "id": 137,
+      "start": 451.0,
+      "end": 452.0,
+      "en": "It's freezing in here.",
+      "zh": "这里冷死了。"
+    },
+    {
+      "id": 138,
+      "start": 452.04,
+      "end": 452.84,
+      "en": "Can I turn up the heat?",
+      "zh": "我可以调高热量吗？"
+    },
+    {
+      "id": 139,
+      "start": 453.62,
+      "end": 454.9,
+      "en": "Don't touch that thermostat.",
+      "zh": "别动那个温控器。"
+    },
+    {
+      "id": 140,
+      "start": 455.22,
+      "end": 456.82,
+      "en": "You don't pay the bills around here.",
+      "zh": "家里的账单又不是你付的。"
+    },
+    {
+      "id": 141,
+      "start": 457.38,
+      "end": 458.42,
+      "en": "Dad, are you serious?",
+      "zh": "爸，你认真的吗？"
+    },
+    {
+      "id": 142,
+      "start": 458.84,
+      "end": 461.14,
+      "en": "What's the point of having central heating if we can't use it?",
+      "zh": "如果我们不能使用中央供暖，有什么意义？"
+    },
+    {
+      "id": 143,
+      "start": 461.7,
+      "end": 464.17,
+      "en": "Look, I can see my breath.",
+      "zh": "看，我可以看到我的呼吸。"
+    },
+    {
+      "id": 144,
+      "start": 464.69,
+      "end": 465.63,
+      "en": "Put on a sweater.",
+      "zh": "穿件毛衣。"
+    },
+    {
+      "id": 145,
+      "start": 466.29,
+      "end": 469.65,
+      "en": "I'm not going to let you run up my heating bill just because it's a bit chilly.",
+      "zh": "我可不会因为有点冷，就让你把我的取暖账单弄得那么高。"
+    },
+    {
+      "id": 146,
+      "start": 470.0,
+      "end": 472.56,
+      "en": "Dad, I'm going to catch a cold.",
+      "zh": "爸爸，我要感冒了。"
+    },
+    {
+      "id": 147,
+      "start": 472.56,
+      "end": 476.53,
+      "en": "When I was your age, my parents didn't have central heating like you do.",
+      "zh": "当我和你一样大的时候，我的父母没有像你那样有中央供暖。"
+    },
+    {
+      "id": 148,
+      "start": 477.16,
+      "end": 479.71,
+      "en": "We had a furnace in the center of the living room and that was it.",
+      "zh": "我们在客厅的中央有一个炉子，就是这样。"
+    },
+    {
+      "id": 149,
+      "start": 480.36,
+      "end": 483.15,
+      "en": "We used it to cook, heat the house and even dry our clothes.",
+      "zh": "我们用它来做饭、加热房子，甚至晾干我们的衣服。"
+    },
+    {
+      "id": 150,
+      "start": 484.02,
+      "end": 484.79,
+      "en": "We never caught a cold.",
+      "zh": "我们从来没有感冒过。"
+    },
+    {
+      "id": 151,
+      "start": 485.5,
+      "end": 486.21,
+      "en": "You should be grateful.",
+      "zh": "你应该知足。"
+    },
+    {
+      "id": 152,
+      "start": 487.12,
+      "end": 497.28,
+      "en": "Alright, we're back and well you mentioned about the thermostat and your dad actually controlling the heating at home.",
+      "zh": "好吧，我们回来了，你提到了恒温器，你爸爸实际上在家里控制供暖。"
+    },
+    {
+      "id": 153,
+      "start": 497.28,
+      "end": 499.03,
+      "en": "Was this the case like this in this scenario?",
+      "zh": "在这种情况下会是这样吗？"
+    },
+    {
+      "id": 154,
+      "start": 499.97,
+      "end": 500.75,
+      "en": "It was.",
+      "zh": "确实如此。"
+    },
+    {
+      "id": 155,
+      "start": 500.75,
+      "end": 505.21,
+      "en": "Sometimes we would have to wear more clothes because we didn't want to run up the bill.",
+      "zh": "有时我们不得不穿更多的衣服，因为我们不想把账单拿起来。"
+    },
+    {
+      "id": 156,
+      "start": 505.98,
+      "end": 513.28,
+      "en": "We had a special situation in my house because I'm from Chicago and it's very cold in the winters in Chicago but we had a fireplace.",
+      "zh": "我们家有特殊情况，因为我来自芝加哥，冬天很冷，但我们有一个壁炉。"
+    },
+    {
+      "id": 157,
+      "start": 515.44,
+      "end": 526.8,
+      "en": "Even if it was very cold, we always had firewood and we could put on the fire in the fireplace to keep warm so everyone would stay in the living room and read and listen to music and just relax.",
+      "zh": "即使天气很冷，我们也总是有柴火，我们可以在壁炉里放火来取暖，这样每个人都可以呆在客厅里读书和听音乐，然后放松一下。"
+    },
+    {
+      "id": 158,
+      "start": 527.18,
+      "end": 531.12,
+      "en": "Now I heard that because when you're burning wood, it causes some pollution.",
+      "zh": "现在我听说是因为当你燃烧木头时，它会造成一些污染。"
+    },
+    {
+      "id": 159,
+      "start": 531.44,
+      "end": 535.75,
+      "en": "In some cities, it's banned to actually turn on or to have a fireplace.",
+      "zh": "在一些城市，它被禁止实际打开或安装壁炉。"
+    },
+    {
+      "id": 160,
+      "start": 536.09,
+      "end": 536.53,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 161,
+      "start": 537.25,
+      "end": 538.63,
+      "en": "But in Chicago, you can still do it.",
+      "zh": "但在芝加哥，你仍然可以做到。"
+    },
+    {
+      "id": 162,
+      "start": 538.69,
+      "end": 538.97,
+      "en": "Absolutely.",
+      "zh": "当然。"
+    },
+    {
+      "id": 163,
+      "start": 539.33,
+      "end": 540.67,
+      "en": "And in most of the states, you can.",
+      "zh": "在大多数州，你可以。"
+    },
+    {
+      "id": 164,
+      "start": 541.15,
+      "end": 544.43,
+      "en": "Although a lot of people in new houses, they don't have real fireplaces.",
+      "zh": "虽然很多人在新房子里，但他们没有真正的壁炉。"
+    },
+    {
+      "id": 165,
+      "start": 544.43,
+      "end": 545.87,
+      "en": "They have electric fireplaces.",
+      "zh": "他们有电壁炉。"
+    },
+    {
+      "id": 166,
+      "start": 546.19,
+      "end": 548.87,
+      "en": "So you can use a light switch to turn on your fire.",
+      "zh": "因此，您可以使用电灯开关打开您的火。"
+    },
+    {
+      "id": 167,
+      "start": 549.11,
+      "end": 549.81,
+      "en": "It's not a real fire.",
+      "zh": "这不是真正的火。"
+    },
+    {
+      "id": 168,
+      "start": 549.95,
+      "end": 550.99,
+      "en": "It's just a glowing light.",
+      "zh": "这只是一道发光的光。"
+    },
+    {
+      "id": 169,
+      "start": 551.16,
+      "end": 552.16,
+      "en": "It's very fancy.",
+      "zh": "这是非常花哨的。"
+    },
+    {
+      "id": 170,
+      "start": 552.16,
+      "end": 553.56,
+      "en": "Alright, well very good.",
+      "zh": "好的，非常好。"
+    },
+    {
+      "id": 171,
+      "start": 553.56,
+      "end": 558.71,
+      "en": "This is an interesting lesson especially because the winter season is coming up and well everyone is cold.",
+      "zh": "这是一个有趣的教训，特别是因为冬季即将到来，每个人都很冷。"
+    },
+    {
+      "id": 172,
+      "start": 559.4,
+      "end": 564.6,
+      "en": "So we hope you enjoyed it and if you have any questions, any doubts, you can come to our website EnglishPod.com.",
+      "zh": "因此，我们希望您喜欢它，如果您有任何疑问，任何疑问，您可以访问我们的网站 englishpod.com。"
+    },
+    {
+      "id": 173,
+      "start": 564.6,
+      "end": 565.31,
+      "en": "We hope to see you there.",
+      "zh": "希望到时候见到你。"
+    },
+    {
+      "id": 174,
+      "start": 565.6,
+      "end": 566.6,
+      "en": "Happy studies and stay warm.",
+      "zh": "快乐的学习和保持温暖。"
+    },
+    {
+      "id": 175,
+      "start": 566.6,
+      "end": 567.6,
+      "en": "Alright.",
+      "zh": "好的。"
+    },
+    {
+      "id": 176,
+      "start": 567.6,
+      "end": 575.869,
+      "en": "See you soon.",
+      "zh": "回头见。"
+    }
+  ],
+  "dialog": {
+    "start": 62.2,
+    "end": 97.81,
+    "segmentIds": [
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32
+    ]
+  }
+}

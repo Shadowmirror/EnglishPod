@@ -1,0 +1,1760 @@
+{
+  "version": 1,
+  "id": 110,
+  "number": "0110",
+  "title": "Daily Life - Registering for University",
+  "audio": "mp3/110. Daily Life - Registering for University.mp3",
+  "duration": 759.327375,
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.52,
+      "end": 6.7,
+      "en": "Hello English learners, welcome back to another lesson with us here at EnglishPod.",
+      "zh": "您好英语学习者，欢迎在 Englishpod 与我们一起回到另一节课。"
+    },
+    {
+      "id": 2,
+      "start": 7.34,
+      "end": 7.84,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 8.34,
+      "end": 10.08,
+      "en": "And I'm Erika.",
+      "zh": "我叫 Erika。"
+    },
+    {
+      "id": 4,
+      "start": 10.08,
+      "end": 14.02,
+      "en": "And today we have a lesson for all our university students out there.",
+      "zh": "今天我们为所有大学生提供了一堂课程。"
+    },
+    {
+      "id": 5,
+      "start": 14.52,
+      "end": 14.7,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 6,
+      "start": 15.52,
+      "end": 19.06,
+      "en": "We're talking about registering for university.",
+      "zh": "我们正在谈论注册大学。"
+    },
+    {
+      "id": 7,
+      "start": 19.94,
+      "end": 32.07,
+      "en": "Okay, so it's a difficult process sometimes even in your own language, so we're going to try and make it a little bit easier by giving you some of the common words you would need to register at a university.",
+      "zh": "好吧，所以有时即使用您自己的语言也是一个困难的过程，所以我们将尝试通过给您一些您需要在大学注册的常用词来让它变得更容易一些。"
+    },
+    {
+      "id": 8,
+      "start": 32.28,
+      "end": 37.84,
+      "en": "Alright, well I think it's time we get started by listening to the dialogue.",
+      "zh": "好吧，我想是时候开始听对话了。"
+    },
+    {
+      "id": 9,
+      "start": 37.84,
+      "end": 44.01,
+      "en": "And we're going to listen to a young female student as she tries to choose her classes.",
+      "zh": "当一个年轻的女学生试图选择她的课程时，我们将听她的话。"
+    },
+    {
+      "id": 10,
+      "start": 53.96,
+      "end": 55.36,
+      "en": "Excuse me, is this where I register?",
+      "zh": "请问是在这里选课吗？"
+    },
+    {
+      "id": 11,
+      "start": 55.92,
+      "end": 58.0,
+      "en": "I'd like to sign up for my courses for next semester.",
+      "zh": "我想选下学期的课程。"
+    },
+    {
+      "id": 12,
+      "start": 58.55,
+      "end": 59.41,
+      "en": "Yes, of course.",
+      "zh": "是的，当然。"
+    },
+    {
+      "id": 13,
+      "start": 59.95,
+      "end": 61.89,
+      "en": "I need your student ID please.",
+      "zh": "请出示学生证。"
+    },
+    {
+      "id": 14,
+      "start": 62.23,
+      "end": 62.87,
+      "en": "Here you are.",
+      "zh": "给你。"
+    },
+    {
+      "id": 15,
+      "start": 63.35,
+      "end": 64.63,
+      "en": "Okay, Susan.",
+      "zh": "好吧，苏珊。"
+    },
+    {
+      "id": 16,
+      "start": 65.97,
+      "end": 69.61,
+      "en": "It says here that you are a business major and that you're in your second year.",
+      "zh": "这里显示你主修商科，现在读大二。"
+    },
+    {
+      "id": 17,
+      "start": 69.85,
+      "end": 70.97,
+      "en": "Is this information correct?",
+      "zh": "这些信息对吗？"
+    },
+    {
+      "id": 18,
+      "start": 71.43,
+      "end": 71.83,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 19,
+      "start": 72.67,
+      "end": 75.97,
+      "en": "I do want to take some additional credits this year to get a minor in psychology.",
+      "zh": "今年我想多修些学分，辅修心理学。"
+    },
+    {
+      "id": 20,
+      "start": 76.55,
+      "end": 77.57,
+      "en": "Sure, that's not a problem.",
+      "zh": "当然，这不是问题。"
+    },
+    {
+      "id": 21,
+      "start": 78.17,
+      "end": 80.45,
+      "en": "Do you have a list of courses that you want to take this semester?",
+      "zh": "有这学期想选的课程清单吗？"
+    },
+    {
+      "id": 22,
+      "start": 80.91,
+      "end": 82.27,
+      "en": "Yeah, here's my list.",
+      "zh": "是的，这是我的清单。"
+    },
+    {
+      "id": 23,
+      "start": 83.07,
+      "end": 86.25,
+      "en": "I'm not sure if the class schedule will allow me to take all of them though.",
+      "zh": "不过不知道上课时间会不会冲突，能不能全部选上。"
+    },
+    {
+      "id": 24,
+      "start": 86.63,
+      "end": 87.35,
+      "en": "Yeah, that's perfect.",
+      "zh": "对，完全正确。"
+    },
+    {
+      "id": 25,
+      "start": 88.09,
+      "end": 89.49,
+      "en": "What about the subjects for your minor?",
+      "zh": "那辅修专业的课程呢？"
+    },
+    {
+      "id": 26,
+      "start": 90.01,
+      "end": 91.39,
+      "en": "Oh yeah, I almost forgot.",
+      "zh": "哦，是的，我差点忘了。"
+    },
+    {
+      "id": 27,
+      "start": 92.25,
+      "end": 96.91,
+      "en": "I need to take fundamental linguistics, consumer psychology, and neuroanatomy.",
+      "zh": "我得修基础语言学、消费心理学和神经解剖学。"
+    },
+    {
+      "id": 28,
+      "start": 97.35,
+      "end": 98.97,
+      "en": "Wow, you're going to be busy this semester.",
+      "zh": "哇，这个学期你会很忙。"
+    },
+    {
+      "id": 29,
+      "start": 103.32,
+      "end": 104.08,
+      "en": "Okay, here you go.",
+      "zh": "好，给你。"
+    },
+    {
+      "id": 30,
+      "start": 104.68,
+      "end": 105.5,
+      "en": "You're registered now.",
+      "zh": "好了，选课成功。"
+    },
+    {
+      "id": 31,
+      "start": 105.7,
+      "end": 108.28,
+      "en": "You have to make your first tuition payment before classes start.",
+      "zh": "开课前要先缴第一笔学费。"
+    },
+    {
+      "id": 32,
+      "start": 113.61,
+      "end": 118.25,
+      "en": "All right, great, a very good student taking a lot of classes this semester.",
+      "zh": "好吧，太好了，一个非常好的学生这个学期上了很多课。"
+    },
+    {
+      "id": 33,
+      "start": 118.43,
+      "end": 121.73,
+      "en": "I know, and it sounds like some of them are pretty hard as well.",
+      "zh": "我知道，听起来其中一些也很困难。"
+    },
+    {
+      "id": 34,
+      "start": 122.03,
+      "end": 122.67,
+      "en": "Yeah, they are.",
+      "zh": "是的，他们是。"
+    },
+    {
+      "id": 35,
+      "start": 123.21,
+      "end": 129.49,
+      "en": "Well, she used some of those very common phrases that we would need when we are registering at university.",
+      "zh": "好吧，她使用了我们在大学注册时需要的一些非常常见的短语。"
+    },
+    {
+      "id": 36,
+      "start": 130.08,
+      "end": 135.4,
+      "en": "So let's take a look at them now in Language Takeaway.",
+      "zh": "所以让我们现在在语言外卖中看看它们。"
+    },
+    {
+      "id": 37,
+      "start": 135.4,
+      "end": 136.0,
+      "en": "Language Takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 38,
+      "start": 136.77,
+      "end": 137.33,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 39,
+      "start": 137.45,
+      "end": 141.87,
+      "en": "So, the first thing, I think we need to deal with this word to register.",
+      "zh": "所以，第一件事，我认为我们需要处理这个词来注册。"
+    },
+    {
+      "id": 40,
+      "start": 143.05,
+      "end": 143.51,
+      "en": "Register.",
+      "zh": "注册。"
+    },
+    {
+      "id": 41,
+      "start": 144.2,
+      "end": 145.96,
+      "en": "So register for university.",
+      "zh": "所以报名上大学。"
+    },
+    {
+      "id": 42,
+      "start": 146.05,
+      "end": 156.1,
+      "en": "Okay, so we've mentioned this word many times, so I think it would be a good idea to listen to some examples and then we'll come back and explain it.",
+      "zh": "好的，所以我们已经多次提到这个词，所以我认为听一些例子是个好主意，然后我们会回来解释它。"
+    },
+    {
+      "id": 43,
+      "start": 156.1,
+      "end": 159.52,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 44,
+      "start": 159.52,
+      "end": 162.95,
+      "en": "I registered to attend the conference on international trade this month.",
+      "zh": "我注册了本月参加国际贸易会议。"
+    },
+    {
+      "id": 45,
+      "start": 165.92,
+      "end": 168.68,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 46,
+      "start": 168.68,
+      "end": 172.16,
+      "en": "It is your obligation as a good citizen to register to vote.",
+      "zh": "作为一个好公民，您有义务登记投票。"
+    },
+    {
+      "id": 47,
+      "start": 174.6,
+      "end": 177.56,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 48,
+      "start": 177.56,
+      "end": 182.72,
+      "en": "It is necessary to register on our website before joining the conference.",
+      "zh": "在加入会议之前，必须在我们的网站上注册。"
+    },
+    {
+      "id": 49,
+      "start": 182.72,
+      "end": 187.3,
+      "en": "So when you register for something, you put your name down on a list, right?",
+      "zh": "所以当你注册某事时，你把你的名字放在一个清单上，对吧？"
+    },
+    {
+      "id": 50,
+      "start": 188.12,
+      "end": 195.92,
+      "en": "So in this case, when you register for university, you officially put your name on the list of students in that course.",
+      "zh": "因此，在这种情况下，当您注册大学时，您会正式将您的名字放在该课程的学生名单上。"
+    },
+    {
+      "id": 51,
+      "start": 195.98,
+      "end": 198.16,
+      "en": "Okay, so you can register for university.",
+      "zh": "好吧，你可以报名上大学。"
+    },
+    {
+      "id": 52,
+      "start": 199.28,
+      "end": 200.54,
+      "en": "What else can you register for?",
+      "zh": "你还可以注册什么？"
+    },
+    {
+      "id": 53,
+      "start": 200.76,
+      "end": 202.0,
+      "en": "Register for a class.",
+      "zh": "注册一个课程。"
+    },
+    {
+      "id": 54,
+      "start": 202.64,
+      "end": 204.88,
+      "en": "You can even register to vote.",
+      "zh": "您甚至可以注册投票。"
+    },
+    {
+      "id": 55,
+      "start": 205.28,
+      "end": 206.99,
+      "en": "Okay, so register.",
+      "zh": "好的，所以注册。"
+    },
+    {
+      "id": 56,
+      "start": 208.36,
+      "end": 216.21,
+      "en": "Now she was registering for her classes and we saw these words that we know already, but it's a good idea to take a look at them.",
+      "zh": "现在她正在注册她的课程，我们看到了我们已经知道的这些词，但看看它们是个好主意。"
+    },
+    {
+      "id": 57,
+      "start": 217.04,
+      "end": 219.35,
+      "en": "We heard that she is a business major.",
+      "zh": "我们听说她是商科专业的。"
+    },
+    {
+      "id": 58,
+      "start": 220.08,
+      "end": 220.91,
+      "en": "So a major.",
+      "zh": "所以是一个专业。"
+    },
+    {
+      "id": 59,
+      "start": 221.31,
+      "end": 222.08,
+      "en": "A major.",
+      "zh": "一个专业。"
+    },
+    {
+      "id": 60,
+      "start": 222.59,
+      "end": 223.08,
+      "en": "A business major.",
+      "zh": "商科专业。"
+    },
+    {
+      "id": 61,
+      "start": 223.08,
+      "end": 223.29,
+      "en": "A business major.",
+      "zh": "商科专业。"
+    },
+    {
+      "id": 62,
+      "start": 224.4,
+      "end": 225.15,
+      "en": "And what is your major?",
+      "zh": "你的专业是什么？"
+    },
+    {
+      "id": 63,
+      "start": 226.44,
+      "end": 232.25,
+      "en": "The major is the major area that you study, the most important area that you study.",
+      "zh": "专业是你学习的主要领域，你学习的最重要的领域。"
+    },
+    {
+      "id": 64,
+      "start": 232.64,
+      "end": 233.89,
+      "en": "The area where you are specialized.",
+      "zh": "您专业的区域。"
+    },
+    {
+      "id": 65,
+      "start": 234.53,
+      "end": 236.03,
+      "en": "Yeah, the area that you focus on.",
+      "zh": "是的，你关注的领域。"
+    },
+    {
+      "id": 66,
+      "start": 236.21,
+      "end": 239.29,
+      "en": "Okay, now we heard another one that's called a minor.",
+      "zh": "好的，现在我们听到了另一个叫做未成年人的消息。"
+    },
+    {
+      "id": 67,
+      "start": 239.93,
+      "end": 246.27,
+      "en": "So this is another area that you study, but it is less important than your major.",
+      "zh": "所以这是你学习的另一个领域，但它不如你的专业重要。"
+    },
+    {
+      "id": 68,
+      "start": 246.73,
+      "end": 249.73,
+      "en": "Okay, so major and your minor.",
+      "zh": "好的，所以主要和你的未成年人。"
+    },
+    {
+      "id": 69,
+      "start": 250.09,
+      "end": 251.09,
+      "en": "So let's give an example.",
+      "zh": "所以让我们举个例子。"
+    },
+    {
+      "id": 70,
+      "start": 251.42,
+      "end": 256.2,
+      "en": "Imagine you must take 100 classes to graduate from university.",
+      "zh": "想象一下，你必须参加 100 节课才能从大学毕业。"
+    },
+    {
+      "id": 71,
+      "start": 257.32,
+      "end": 261.8,
+      "en": "Maybe you have to take 50 for your major and maybe 30 for your minor.",
+      "zh": "也许你必须花 50 分的专业，也许你的未成年人需要 30 个。"
+    },
+    {
+      "id": 72,
+      "start": 261.8,
+      "end": 262.72,
+      "en": "Okay, very good.",
+      "zh": "好，很好。"
+    },
+    {
+      "id": 73,
+      "start": 263.1,
+      "end": 267.86,
+      "en": "And now on your degree, on your title, does it say what is your major and minor?",
+      "zh": "现在在你的学位上，在你的头衔上，它是否说明你的专业和次要是什么？"
+    },
+    {
+      "id": 74,
+      "start": 268.42,
+      "end": 272.2,
+      "en": "Well, I think it depends on the university, but in my case, yes.",
+      "zh": "好吧，我认为这取决于大学，但就我而言，是的。"
+    },
+    {
+      "id": 75,
+      "start": 272.53,
+      "end": 273.43,
+      "en": "Okay, very good.",
+      "zh": "好，很好。"
+    },
+    {
+      "id": 76,
+      "start": 273.79,
+      "end": 274.95,
+      "en": "So major and minor.",
+      "zh": "如此主要和次要。"
+    },
+    {
+      "id": 77,
+      "start": 275.64,
+      "end": 283.6,
+      "en": "Now related to this and what you were saying about your classes, it takes us to our next word, which is credits.",
+      "zh": "现在与您对课程的评价有关，它将我们带到我们的下一个词，即学分。"
+    },
+    {
+      "id": 78,
+      "start": 283.6,
+      "end": 283.73,
+      "en": "Credits.",
+      "zh": "学分。"
+    },
+    {
+      "id": 79,
+      "start": 284.6,
+      "end": 285.6,
+      "en": "Credits.",
+      "zh": "学分。"
+    },
+    {
+      "id": 80,
+      "start": 285.6,
+      "end": 286.6,
+      "en": "Credits.",
+      "zh": "学分。"
+    },
+    {
+      "id": 81,
+      "start": 286.6,
+      "end": 291.12,
+      "en": "Now, this is easily confused with classes sometimes.",
+      "zh": "现在，有时这很容易与类混淆。"
+    },
+    {
+      "id": 82,
+      "start": 291.12,
+      "end": 291.27,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 83,
+      "start": 292.12,
+      "end": 294.45,
+      "en": "Well, a credit is kind of a point.",
+      "zh": "好吧，信用是一种观点。"
+    },
+    {
+      "id": 84,
+      "start": 295.04,
+      "end": 301.56,
+      "en": "So like maybe, so in university, you need a certain number of credits or points to graduate.",
+      "zh": "所以像也许，在大学里，你需要一定数量的学分或分数才能毕业。"
+    },
+    {
+      "id": 85,
+      "start": 302.1,
+      "end": 306.1,
+      "en": "Okay, so suppose you need 100 credits to graduate.",
+      "zh": "好吧，假设你需要 100 个学分才能毕业。"
+    },
+    {
+      "id": 86,
+      "start": 306.7,
+      "end": 315.44,
+      "en": "So that's not 100 courses because each course might be worth four or six or eight credits depending on how important it is.",
+      "zh": "所以这不是 100 门课程，因为每门课程可能价值四、六或八个学分，具体取决于它的重要性。"
+    },
+    {
+      "id": 87,
+      "start": 315.6,
+      "end": 316.14,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 88,
+      "start": 316.28,
+      "end": 320.22,
+      "en": "So maybe the classes that are part of your major will have more credits.",
+      "zh": "所以也许作为你专业一部分的课程会有更多的学分。"
+    },
+    {
+      "id": 89,
+      "start": 320.64,
+      "end": 322.0,
+      "en": "All right, very good.",
+      "zh": "好，很好。"
+    },
+    {
+      "id": 90,
+      "start": 322.0,
+      "end": 326.86,
+      "en": "So, and now we have our last word in this dialogue and it was tuition.",
+      "zh": "所以，现在我们在这次对话中有了最后一句话，这是学费。"
+    },
+    {
+      "id": 91,
+      "start": 327.3,
+      "end": 327.6,
+      "en": "Tuition.",
+      "zh": "学费。"
+    },
+    {
+      "id": 92,
+      "start": 328.44,
+      "end": 329.74,
+      "en": "She had to pay her tuition.",
+      "zh": "她不得不支付她的学费。"
+    },
+    {
+      "id": 93,
+      "start": 330.8,
+      "end": 335.0,
+      "en": "So tuition is the money that you must pay for education.",
+      "zh": "所以学费是你必须为教育支付的钱。"
+    },
+    {
+      "id": 94,
+      "start": 335.16,
+      "end": 336.5,
+      "en": "Okay, only for education.",
+      "zh": "好吧，只为教育。"
+    },
+    {
+      "id": 95,
+      "start": 336.9,
+      "end": 337.14,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 96,
+      "start": 337.8,
+      "end": 343.56,
+      "en": "So, university tuition, private school tuition or even language course tuition.",
+      "zh": "所以，大学学费，私立学校学费甚至语言课程学费。"
+    },
+    {
+      "id": 97,
+      "start": 343.56,
+      "end": 347.64,
+      "en": "Okay, so a tuition is the money you must pay for school only.",
+      "zh": "好吧，所以学费是你必须支付的学费。"
+    },
+    {
+      "id": 98,
+      "start": 347.64,
+      "end": 348.64,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 99,
+      "start": 348.64,
+      "end": 352.22,
+      "en": "So we've seen a lot of great words used for registering at university.",
+      "zh": "所以我们看到了很多用于在大学注册的好词。"
+    },
+    {
+      "id": 100,
+      "start": 353.2,
+      "end": 360.5,
+      "en": "So I think it's time to listen to the dialogue for the second time a little bit slower and then we'll come back and take a look at some phrases.",
+      "zh": "所以我认为是时候再慢一点听对话了，然后我们会回来看看一些短语。"
+    },
+    {
+      "id": 101,
+      "start": 366.21,
+      "end": 367.99,
+      "en": "Excuse me, is this where I register?",
+      "zh": "请问是在这里选课吗？"
+    },
+    {
+      "id": 102,
+      "start": 368.85,
+      "end": 371.13,
+      "en": "I'd like to sign up for my courses for next semester.",
+      "zh": "我想选下学期的课程。"
+    },
+    {
+      "id": 103,
+      "start": 372.18,
+      "end": 372.92,
+      "en": "Yes, of course.",
+      "zh": "是的，当然。"
+    },
+    {
+      "id": 104,
+      "start": 373.66,
+      "end": 375.4,
+      "en": "I need your student ID, please.",
+      "zh": "我需要你的学生证，拜托。"
+    },
+    {
+      "id": 105,
+      "start": 376.06,
+      "end": 376.58,
+      "en": "Here you are.",
+      "zh": "给你。"
+    },
+    {
+      "id": 106,
+      "start": 377.32,
+      "end": 382.92,
+      "en": "Okay, Susan, it says here that you are a business major and that you're in your second year.",
+      "zh": "好吧，苏珊，这里说你是商科专业的，你在第二年。"
+    },
+    {
+      "id": 107,
+      "start": 382.92,
+      "end": 383.96,
+      "en": "Is this information correct?",
+      "zh": "这些信息对吗？"
+    },
+    {
+      "id": 108,
+      "start": 384.76,
+      "end": 385.16,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 109,
+      "start": 386.02,
+      "end": 389.56,
+      "en": "I do want to take some additional credits this year to get a minor in psychology.",
+      "zh": "今年我想多修些学分，辅修心理学。"
+    },
+    {
+      "id": 110,
+      "start": 390.44,
+      "end": 391.5,
+      "en": "Sure, that's not a problem.",
+      "zh": "当然，这不是问题。"
+    },
+    {
+      "id": 111,
+      "start": 392.3,
+      "end": 394.58,
+      "en": "Do you have a list of courses that you want to take this semester?",
+      "zh": "有这学期想选的课程清单吗？"
+    },
+    {
+      "id": 112,
+      "start": 395.16,
+      "end": 395.56,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 113,
+      "start": 395.94,
+      "end": 396.46,
+      "en": "Here's my list.",
+      "zh": "这是我的清单。"
+    },
+    {
+      "id": 114,
+      "start": 397.2,
+      "end": 400.08,
+      "en": "I'm not sure if the class schedule will allow me to take all of them though.",
+      "zh": "不过不知道上课时间会不会冲突，能不能全部选上。"
+    },
+    {
+      "id": 115,
+      "start": 400.48,
+      "end": 401.2,
+      "en": "Yeah, that's perfect.",
+      "zh": "对，完全正确。"
+    },
+    {
+      "id": 116,
+      "start": 401.92,
+      "end": 403.32,
+      "en": "What about the subjects for your minor?",
+      "zh": "那辅修专业的课程呢？"
+    },
+    {
+      "id": 117,
+      "start": 404.06,
+      "end": 404.4,
+      "en": "Oh, yeah.",
+      "zh": "哦，对。"
+    },
+    {
+      "id": 118,
+      "start": 404.9,
+      "end": 405.46,
+      "en": "I almost forgot.",
+      "zh": "我差点忘了。"
+    },
+    {
+      "id": 119,
+      "start": 406.06,
+      "end": 410.96,
+      "en": "I need to take fundamental linguistics, consumer psychology and neuroanatomy.",
+      "zh": "我需要学习基本的语言学、消费者心理学和神经解剖学。"
+    },
+    {
+      "id": 120,
+      "start": 411.32,
+      "end": 413.16,
+      "en": "Wow, you're going to be busy this semester.",
+      "zh": "哇，这个学期你会很忙。"
+    },
+    {
+      "id": 121,
+      "start": 414.23,
+      "end": 414.99,
+      "en": "Okay, here you go.",
+      "zh": "好，给你。"
+    },
+    {
+      "id": 122,
+      "start": 415.63,
+      "end": 416.39,
+      "en": "You're registered now.",
+      "zh": "好了，选课成功。"
+    },
+    {
+      "id": 123,
+      "start": 416.63,
+      "end": 419.17,
+      "en": "You have to make your first tuition payment before classes start.",
+      "zh": "开课前要先缴第一笔学费。"
+    },
+    {
+      "id": 124,
+      "start": 420.49,
+      "end": 423.09,
+      "en": "All right, so it's time for putting it together.",
+      "zh": "好吧，是时候把它放在一起了。"
+    },
+    {
+      "id": 125,
+      "start": 425.64,
+      "end": 426.32,
+      "en": "Putting it together.",
+      "zh": "综合运用。"
+    },
+    {
+      "id": 126,
+      "start": 428.02,
+      "end": 435.54,
+      "en": "And we're going to look at some phrases here that we can use to talk about education and university and we can use them in different ways.",
+      "zh": "我们将在这里查看一些短语，我们可以用它们来谈论教育和大学，我们可以以不同的方式使用它们。"
+    },
+    {
+      "id": 127,
+      "start": 436.04,
+      "end": 440.88,
+      "en": "All right, and our first phrase is actually very similar to register.",
+      "zh": "好吧，我们的第一个短语实际上与register非常相似。"
+    },
+    {
+      "id": 128,
+      "start": 440.88,
+      "end": 442.55,
+      "en": "To sign up for something.",
+      "zh": "注册某事。"
+    },
+    {
+      "id": 129,
+      "start": 443.05,
+      "end": 445.19,
+      "en": "Okay, I want to sign up for.",
+      "zh": "好的，我想注册。"
+    },
+    {
+      "id": 130,
+      "start": 445.55,
+      "end": 447.31,
+      "en": "I'd like to sign up for my courses.",
+      "zh": "我想报名参加我的课程。"
+    },
+    {
+      "id": 131,
+      "start": 447.95,
+      "end": 452.29,
+      "en": "I think it would be a good idea if we listen to some examples of how we can use this phrase.",
+      "zh": "我认为如果我们听一些关于如何使用这个短语的例子，那将是一个好主意。"
+    },
+    {
+      "id": 132,
+      "start": 453.24,
+      "end": 456.56,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 133,
+      "start": 456.56,
+      "end": 459.18,
+      "en": "I signed up for a one-year gym membership.",
+      "zh": "我注册了一年的健身房会员资格。"
+    },
+    {
+      "id": 134,
+      "start": 461.64,
+      "end": 464.12,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 135,
+      "start": 464.12,
+      "end": 468.48,
+      "en": "If you want to assist our meeting, you need to sign up first.",
+      "zh": "如果您想协助我们的会议，您需要先注册。"
+    },
+    {
+      "id": 136,
+      "start": 468.48,
+      "end": 471.36,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 137,
+      "start": 471.36,
+      "end": 475.26,
+      "en": "I hate signing up for things online because they just send you spam emails.",
+      "zh": "我讨厌在线注册东西，因为他们只是向您发送垃圾邮件。"
+    },
+    {
+      "id": 138,
+      "start": 477.27,
+      "end": 483.49,
+      "en": "Okay, so I can see that to sign up for something is to agree to take part in it.",
+      "zh": "好的，所以我可以看到注册某事就是同意参与其中。"
+    },
+    {
+      "id": 139,
+      "start": 483.75,
+      "end": 486.49,
+      "en": "Okay, so it's a little bit more informal than register.",
+      "zh": "好吧，所以它比寄存器更非正式。"
+    },
+    {
+      "id": 140,
+      "start": 486.85,
+      "end": 487.25,
+      "en": "Yeah, exactly.",
+      "zh": "对，没错。"
+    },
+    {
+      "id": 141,
+      "start": 487.65,
+      "end": 488.17,
+      "en": "Less formal.",
+      "zh": "不那么正式。"
+    },
+    {
+      "id": 142,
+      "start": 488.88,
+      "end": 489.88,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 143,
+      "start": 489.88,
+      "end": 492.69,
+      "en": "So, moving on to our second phrase.",
+      "zh": "所以，继续我们的第二个短语。"
+    },
+    {
+      "id": 144,
+      "start": 493.32,
+      "end": 496.99,
+      "en": "This is very important because it's often used improperly, right?",
+      "zh": "这很重要，因为它经常使用不当，对吧？"
+    },
+    {
+      "id": 145,
+      "start": 497.11,
+      "end": 499.95,
+      "en": "Yeah, people often make mistakes with this phrase.",
+      "zh": "是的，人们经常用这个短语犯错误。"
+    },
+    {
+      "id": 146,
+      "start": 500.16,
+      "end": 503.32,
+      "en": "All right, so let's look at this phrase.",
+      "zh": "好吧，让我们看看这个短语。"
+    },
+    {
+      "id": 147,
+      "start": 503.32,
+      "end": 503.63,
+      "en": "Second year.",
+      "zh": "第二年。"
+    },
+    {
+      "id": 148,
+      "start": 504.32,
+      "end": 506.39,
+      "en": "So, she is in her second year.",
+      "zh": "于是，她就在第二年了。"
+    },
+    {
+      "id": 149,
+      "start": 506.79,
+      "end": 508.21,
+      "en": "Now, it seems very simple.",
+      "zh": "现在，看起来很简单。"
+    },
+    {
+      "id": 150,
+      "start": 508.35,
+      "end": 510.09,
+      "en": "So, why are we explaining this?",
+      "zh": "那么，我们为什么要解释这一点呢？"
+    },
+    {
+      "id": 151,
+      "start": 510.6,
+      "end": 514.0,
+      "en": "Well, it often gets confused with grade.",
+      "zh": "好吧，它经常与成绩混淆。"
+    },
+    {
+      "id": 152,
+      "start": 514.0,
+      "end": 519.8,
+      "en": "So, when we talk about university, we talk about first year, second year, third year, fourth year.",
+      "zh": "所以，当我们谈论大学时，我们谈论第一年、第二年、第三年、第四年。"
+    },
+    {
+      "id": 153,
+      "start": 519.8,
+      "end": 523.64,
+      "en": "We cannot say grade one, grade two, grade three, grade four.",
+      "zh": "我们不能说一年级、二年级、三年级、四年级。"
+    },
+    {
+      "id": 154,
+      "start": 523.64,
+      "end": 524.93,
+      "en": "Or year one, year two.",
+      "zh": "或第一年，第二年。"
+    },
+    {
+      "id": 155,
+      "start": 525.4,
+      "end": 528.49,
+      "en": "No, it's always first year, second year, third year, fourth year.",
+      "zh": "不，它总是第一年，第二年，第三年，第四年。"
+    },
+    {
+      "id": 156,
+      "start": 528.96,
+      "end": 529.73,
+      "en": "Okay, very good.",
+      "zh": "好，很好。"
+    },
+    {
+      "id": 157,
+      "start": 530.04,
+      "end": 530.65,
+      "en": "Or last year.",
+      "zh": "或去年。"
+    },
+    {
+      "id": 158,
+      "start": 530.89,
+      "end": 531.49,
+      "en": "Yeah, last year.",
+      "zh": "是的，去年。"
+    },
+    {
+      "id": 159,
+      "start": 531.77,
+      "end": 532.95,
+      "en": "My last year of college.",
+      "zh": "我大学的最后一年。"
+    },
+    {
+      "id": 160,
+      "start": 533.31,
+      "end": 533.47,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 161,
+      "start": 534.14,
+      "end": 534.58,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 162,
+      "start": 535.56,
+      "end": 540.72,
+      "en": "So, now you know how you can explain to someone what year of college or university you're in.",
+      "zh": "所以，现在你知道如何向某人解释你所在的大学或大学是哪一年了。"
+    },
+    {
+      "id": 163,
+      "start": 540.72,
+      "end": 540.92,
+      "en": "Yes, that's right.",
+      "zh": "对，没错。"
+    },
+    {
+      "id": 164,
+      "start": 541.72,
+      "end": 542.72,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 165,
+      "start": 542.72,
+      "end": 543.26,
+      "en": "And we have one more phrase to you.",
+      "zh": "我们还有一句话要告诉你。"
+    },
+    {
+      "id": 166,
+      "start": 543.88,
+      "end": 546.92,
+      "en": "And it was when she was getting her class schedule.",
+      "zh": "这是她上课时间表的时候。"
+    },
+    {
+      "id": 167,
+      "start": 547.3,
+      "end": 548.94,
+      "en": "So, class schedule.",
+      "zh": "所以，上课时间表。"
+    },
+    {
+      "id": 168,
+      "start": 549.96,
+      "end": 550.52,
+      "en": "Class schedule.",
+      "zh": "上课时间表。"
+    },
+    {
+      "id": 169,
+      "start": 551.14,
+      "end": 555.74,
+      "en": "Now, a schedule is the list of things you do at what time.",
+      "zh": "现在，时间表是您在什么时间做的事情的列表。"
+    },
+    {
+      "id": 170,
+      "start": 556.44,
+      "end": 560.04,
+      "en": "Right, so it's the timetable of your day or your week.",
+      "zh": "是的，所以这是你一天或一周的时间表。"
+    },
+    {
+      "id": 171,
+      "start": 560.56,
+      "end": 561.56,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 172,
+      "start": 561.56,
+      "end": 562.56,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 173,
+      "start": 562.56,
+      "end": 566.56,
+      "en": "So, your class schedule will say all the classes that you have and what time they're at.",
+      "zh": "因此，您的课程表会说明您拥有的所有课程以及他们在什么时间。"
+    },
+    {
+      "id": 174,
+      "start": 566.87,
+      "end": 569.77,
+      "en": "So, what other types of schedules can we have?",
+      "zh": "那么，我们还能拥有哪些其他类型的时间表呢？"
+    },
+    {
+      "id": 175,
+      "start": 570.17,
+      "end": 572.19,
+      "en": "You also have maybe a gym schedule.",
+      "zh": "你也可能有健身房的时间表。"
+    },
+    {
+      "id": 176,
+      "start": 572.39,
+      "end": 572.73,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 177,
+      "start": 573.64,
+      "end": 575.16,
+      "en": "Or even a work schedule.",
+      "zh": "甚至是工作时间表。"
+    },
+    {
+      "id": 178,
+      "start": 575.31,
+      "end": 575.47,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 179,
+      "start": 575.79,
+      "end": 579.91,
+      "en": "So, we have different types of schedules and you can use it depending on what you are doing.",
+      "zh": "因此，我们有不同类型的时间表，您可以根据您正在做的事情使用它。"
+    },
+    {
+      "id": 180,
+      "start": 580.47,
+      "end": 583.29,
+      "en": "Those are all the phrases we have for putting it together today.",
+      "zh": "这些是我们今天将其组合在一起的所有短语。"
+    },
+    {
+      "id": 181,
+      "start": 583.83,
+      "end": 588.47,
+      "en": "And now, let's listen to the dialogue for the last time and then we'll come back.",
+      "zh": "现在，让我们最后一次听对话，然后我们会回来。"
+    },
+    {
+      "id": 182,
+      "start": 597.69,
+      "end": 598.25,
+      "en": "Excuse me.",
+      "zh": "打扰一下。"
+    },
+    {
+      "id": 183,
+      "start": 598.45,
+      "end": 599.23,
+      "en": "Is this where I register?",
+      "zh": "这是我注册的地方吗？"
+    },
+    {
+      "id": 184,
+      "start": 599.79,
+      "end": 601.95,
+      "en": "I'd like to sign up for my courses for next semester.",
+      "zh": "我想选下学期的课程。"
+    },
+    {
+      "id": 185,
+      "start": 602.53,
+      "end": 603.27,
+      "en": "Yes, of course.",
+      "zh": "是的，当然。"
+    },
+    {
+      "id": 186,
+      "start": 603.81,
+      "end": 605.51,
+      "en": "I need your student ID, please.",
+      "zh": "我需要你的学生证，拜托。"
+    },
+    {
+      "id": 187,
+      "start": 606.11,
+      "end": 606.71,
+      "en": "Here you are.",
+      "zh": "给你。"
+    },
+    {
+      "id": 188,
+      "start": 607.88,
+      "end": 608.49,
+      "en": "Okay, Susan.",
+      "zh": "好吧，苏珊。"
+    },
+    {
+      "id": 189,
+      "start": 610.32,
+      "end": 613.5,
+      "en": "It says here that you are a business major and that you're in your second year.",
+      "zh": "这里显示你主修商科，现在读大二。"
+    },
+    {
+      "id": 190,
+      "start": 613.8,
+      "end": 614.82,
+      "en": "Is this information correct?",
+      "zh": "这些信息对吗？"
+    },
+    {
+      "id": 191,
+      "start": 615.32,
+      "end": 615.72,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 192,
+      "start": 616.3,
+      "end": 619.82,
+      "en": "I do want to take some additional credits this year to get a minor in psychology.",
+      "zh": "今年我想多修些学分，辅修心理学。"
+    },
+    {
+      "id": 193,
+      "start": 620.46,
+      "end": 620.66,
+      "en": "Sure.",
+      "zh": "当然。"
+    },
+    {
+      "id": 194,
+      "start": 620.88,
+      "end": 621.46,
+      "en": "That's not a problem.",
+      "zh": "这不是问题。"
+    },
+    {
+      "id": 195,
+      "start": 622.04,
+      "end": 624.34,
+      "en": "Do you have a list of courses that you want to take this semester?",
+      "zh": "有这学期想选的课程清单吗？"
+    },
+    {
+      "id": 196,
+      "start": 624.82,
+      "end": 625.22,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 197,
+      "start": 625.64,
+      "end": 626.12,
+      "en": "Here's my list.",
+      "zh": "这是我的清单。"
+    },
+    {
+      "id": 198,
+      "start": 626.94,
+      "end": 630.12,
+      "en": "I'm not sure if the class schedule will allow me to take all of them, though.",
+      "zh": "不过，我不确定课程表是否可以让我全部接受。"
+    },
+    {
+      "id": 199,
+      "start": 630.5,
+      "end": 631.24,
+      "en": "Yeah, that's perfect.",
+      "zh": "对，完全正确。"
+    },
+    {
+      "id": 200,
+      "start": 631.96,
+      "end": 633.34,
+      "en": "What about the subjects for your minor?",
+      "zh": "那辅修专业的课程呢？"
+    },
+    {
+      "id": 201,
+      "start": 633.88,
+      "end": 634.24,
+      "en": "Oh, yeah.",
+      "zh": "哦，对。"
+    },
+    {
+      "id": 202,
+      "start": 634.76,
+      "end": 635.28,
+      "en": "I almost forgot.",
+      "zh": "我差点忘了。"
+    },
+    {
+      "id": 203,
+      "start": 636.16,
+      "end": 640.78,
+      "en": "I need to take fundamental linguistics, consumer psychology, and neuroanatomy.",
+      "zh": "我得修基础语言学、消费心理学和神经解剖学。"
+    },
+    {
+      "id": 204,
+      "start": 641.24,
+      "end": 641.42,
+      "en": "Wow.",
+      "zh": "哇。"
+    },
+    {
+      "id": 205,
+      "start": 641.62,
+      "end": 642.84,
+      "en": "You're going to be busy this semester.",
+      "zh": "这个学期你会很忙。"
+    },
+    {
+      "id": 206,
+      "start": 647.19,
+      "end": 647.95,
+      "en": "Okay, here you go.",
+      "zh": "好，给你。"
+    },
+    {
+      "id": 207,
+      "start": 648.57,
+      "end": 649.37,
+      "en": "You're registered now.",
+      "zh": "好了，选课成功。"
+    },
+    {
+      "id": 208,
+      "start": 649.59,
+      "end": 652.15,
+      "en": "You have to make your first tuition payment before classes start.",
+      "zh": "开课前要先缴第一笔学费。"
+    },
+    {
+      "id": 209,
+      "start": 658.73,
+      "end": 659.15,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 210,
+      "start": 659.36,
+      "end": 663.08,
+      "en": "So we were talking about second year, first year, third year, etc.",
+      "zh": "所以我们谈论的是第二年，第一年，第三年等。"
+    },
+    {
+      "id": 211,
+      "start": 663.08,
+      "end": 664.08,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 212,
+      "start": 664.08,
+      "end": 669.96,
+      "en": "Now, there are also other names that we give to each year, both for high school and university.",
+      "zh": "现在，我们每年还为高中和大学提供其他名称。"
+    },
+    {
+      "id": 213,
+      "start": 669.96,
+      "end": 673.31,
+      "en": "And I think this is only for America.",
+      "zh": "我认为这仅适用于美国。"
+    },
+    {
+      "id": 214,
+      "start": 673.89,
+      "end": 677.83,
+      "en": "Like in the United States, we don't do this in Canada, and I always get so confused.",
+      "zh": "就像在美国一样，我们在加拿大不这样做，我总是很困惑。"
+    },
+    {
+      "id": 215,
+      "start": 678.44,
+      "end": 682.76,
+      "en": "So Marco, what is the name you give to first year students?",
+      "zh": "那么马可，你给一年级学生的名字是什么？"
+    },
+    {
+      "id": 216,
+      "start": 682.76,
+      "end": 685.51,
+      "en": "Okay, so first year students are called freshmen.",
+      "zh": "好的，所以一年级学生被称为新生。"
+    },
+    {
+      "id": 217,
+      "start": 686.03,
+      "end": 686.81,
+      "en": "Okay, because they're fresh.",
+      "zh": "好吧，因为它们很新鲜。"
+    },
+    {
+      "id": 218,
+      "start": 687.07,
+      "end": 687.59,
+      "en": "Because they're fresh.",
+      "zh": "因为它们很新鲜。"
+    },
+    {
+      "id": 219,
+      "start": 688.2,
+      "end": 690.44,
+      "en": "Yeah, they just came from middle school, they just came from high school.",
+      "zh": "是的，他们刚从中学来，他们刚从高中来。"
+    },
+    {
+      "id": 220,
+      "start": 690.44,
+      "end": 691.44,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 221,
+      "start": 691.44,
+      "end": 692.01,
+      "en": "And what about the second year students?",
+      "zh": "那么二年级学生呢？"
+    },
+    {
+      "id": 222,
+      "start": 692.44,
+      "end": 693.44,
+      "en": "They're called sophomores.",
+      "zh": "他们被称为大二学生。"
+    },
+    {
+      "id": 223,
+      "start": 693.44,
+      "end": 694.44,
+      "en": "Okay, because they're soft.",
+      "zh": "好吧，因为它们很软。"
+    },
+    {
+      "id": 224,
+      "start": 694.44,
+      "end": 695.44,
+      "en": "Well, it's not soft.",
+      "zh": "好吧，它并不柔软。"
+    },
+    {
+      "id": 225,
+      "start": 695.44,
+      "end": 696.44,
+      "en": "It's a sophomore.",
+      "zh": "这是一个大二学生。"
+    },
+    {
+      "id": 226,
+      "start": 696.44,
+      "end": 702.44,
+      "en": "Like S-O-P-H.",
+      "zh": "像S-O-P-H。"
+    },
+    {
+      "id": 227,
+      "start": 702.79,
+      "end": 703.11,
+      "en": "Sophomore.",
+      "zh": "大二学生。"
+    },
+    {
+      "id": 228,
+      "start": 703.44,
+      "end": 704.44,
+      "en": "Sophomore.",
+      "zh": "大二学生。"
+    },
+    {
+      "id": 229,
+      "start": 704.44,
+      "end": 705.92,
+      "en": "And then third year students are called juniors.",
+      "zh": "然后三年级的学生被称为大三学生。"
+    },
+    {
+      "id": 230,
+      "start": 706.39,
+      "end": 709.31,
+      "en": "Okay, because they're almost the, like junior manager.",
+      "zh": "好吧，因为他们几乎是初级经理。"
+    },
+    {
+      "id": 231,
+      "start": 709.61,
+      "end": 709.87,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 232,
+      "start": 710.96,
+      "end": 714.04,
+      "en": "Because then last year students are called seniors.",
+      "zh": "因为去年的学生被称为老年人。"
+    },
+    {
+      "id": 233,
+      "start": 714.04,
+      "end": 715.99,
+      "en": "So the oldest guys in the school.",
+      "zh": "所以学校里最年长的人。"
+    },
+    {
+      "id": 234,
+      "start": 716.64,
+      "end": 717.64,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 235,
+      "start": 717.64,
+      "end": 721.27,
+      "en": "So you can say, yeah, I'm a sophomore at Arizona State University.",
+      "zh": "所以你可以说，是的，我是亚利桑那州立大学的二年级学生。"
+    },
+    {
+      "id": 236,
+      "start": 721.59,
+      "end": 724.01,
+      "en": "Okay, so we only use this in America though, right?",
+      "zh": "好吧，所以我们只在美国使用它，对吧？"
+    },
+    {
+      "id": 237,
+      "start": 724.2,
+      "end": 724.59,
+      "en": "Yes, yes.",
+      "zh": "对，对。"
+    },
+    {
+      "id": 238,
+      "start": 725.45,
+      "end": 729.27,
+      "en": "And not only for university, but also for high school.",
+      "zh": "不仅是为了大学，也适用于高中。"
+    },
+    {
+      "id": 239,
+      "start": 729.56,
+      "end": 729.98,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 240,
+      "start": 730.6,
+      "end": 733.0,
+      "en": "All right, guys, that's all the time we have for today.",
+      "zh": "好吧，伙计们，这就是我们今天所拥有的所有时间。"
+    },
+    {
+      "id": 241,
+      "start": 733.08,
+      "end": 734.52,
+      "en": "I hope you enjoyed this lesson.",
+      "zh": "我希望你喜欢这一课。"
+    },
+    {
+      "id": 242,
+      "start": 734.84,
+      "end": 745.0,
+      "en": "And if you have any questions or comments or you want to share with us your experiences in high school or university, please come to the website at EnglishPod.com.",
+      "zh": "如果您有任何问题或意见，或者您想与我们分享您在高中或大学的经历，请访问 englishpod.com 的网站。"
+    },
+    {
+      "id": 243,
+      "start": 745.0,
+      "end": 746.0,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 244,
+      "start": 746.0,
+      "end": 747.3,
+      "en": "So Marco and I are there to answer your questions.",
+      "zh": "所以马可和我在那里回答你的问题。"
+    },
+    {
+      "id": 245,
+      "start": 748.0,
+      "end": 751.0,
+      "en": "And until next time, thanks for listening and goodbye.",
+      "zh": "直到下一次，感谢您的聆听和再见。"
+    },
+    {
+      "id": 246,
+      "start": 751.0,
+      "end": 756.0,
+      "en": "Bye.",
+      "zh": "再见。"
+    }
+  ],
+  "dialog": {
+    "start": 53.96,
+    "end": 108.28,
+    "segmentIds": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31
+    ]
+  }
+}

@@ -1,0 +1,1754 @@
+{
+  "version": 1,
+  "id": 108,
+  "number": "0108",
+  "title": "The Office - Bad news, boss",
+  "audio": "mp3/108. The Office - Bad news, boss.mp3",
+  "duration": 789.81225,
+  "segments": [
+    {
+      "id": 1,
+      "start": 3.25,
+      "end": 4.27,
+      "en": "Hello, English learners.",
+      "zh": "各位英语学习者，大家好。"
+    },
+    {
+      "id": 2,
+      "start": 4.6,
+      "end": 7.88,
+      "en": "Welcome back to another great podcast here at EnglishPod.",
+      "zh": "欢迎回到 Englishpod 的另一个很棒的播客。"
+    },
+    {
+      "id": 3,
+      "start": 7.88,
+      "end": 8.27,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 4,
+      "start": 8.59,
+      "end": 9.09,
+      "en": "And I'm Erica.",
+      "zh": "我叫 Erica。"
+    },
+    {
+      "id": 5,
+      "start": 9.59,
+      "end": 11.77,
+      "en": "And today we're going to be bringing you bad news.",
+      "zh": "今天我们将为您带来坏消息。"
+    },
+    {
+      "id": 6,
+      "start": 12.51,
+      "end": 13.13,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 7,
+      "start": 13.51,
+      "end": 17.35,
+      "en": "Actually, what we're really going to be bringing you is language to talk about bad news.",
+      "zh": "实际上，我们真正要带给你的是谈论坏消息的语言。"
+    },
+    {
+      "id": 8,
+      "start": 17.93,
+      "end": 18.29,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 9,
+      "start": 18.63,
+      "end": 25.44,
+      "en": "So maybe you have to give bad news to your boss, to your parents, I don't know, somebody, and we're going to be teaching you how to do this in English.",
+      "zh": "所以也许你必须把坏消息给你的老板，给你的父母，我不知道，某人，我们将教你如何用英语做这件事。"
+    },
+    {
+      "id": 10,
+      "start": 25.72,
+      "end": 31.14,
+      "en": "Well, obviously, it's always difficult to tell somebody bad news, but in your second language, it's even harder.",
+      "zh": "好吧，很明显，告诉别人坏消息总是很困难，但用你的第二语言，这就更难了。"
+    },
+    {
+      "id": 11,
+      "start": 31.48,
+      "end": 35.2,
+      "en": "So we're going to try and help you today with some great phrases and vocabulary items.",
+      "zh": "所以我们今天将尝试帮助您提供一些很棒的短语和词汇项目。"
+    },
+    {
+      "id": 12,
+      "start": 35.6,
+      "end": 37.1,
+      "en": "We're not going to preview anything today.",
+      "zh": "我们今天不会预览任何东西。"
+    },
+    {
+      "id": 13,
+      "start": 37.3,
+      "end": 45.2,
+      "en": "Let's go directly to our dialogue where we will be in a company and one of the employees is going to be giving bad news to his boss.",
+      "zh": "让我们直接进入我们的对话，我们将在一家公司，其中一名员工将向他的老板提供坏消息。"
+    },
+    {
+      "id": 14,
+      "start": 45.58,
+      "end": 46.44,
+      "en": "So let's listen.",
+      "zh": "那么我们来听听。"
+    },
+    {
+      "id": 15,
+      "start": 54.25,
+      "end": 60.05,
+      "en": "Now that we've been over the gory details of our disastrous first quarter, Ed, give us some good news.",
+      "zh": "第一季度惨不忍睹的细节我们都听完了。埃德，说点好消息吧。"
+    },
+    {
+      "id": 16,
+      "start": 60.59,
+      "end": 62.31,
+      "en": "How are things looking for us in terms of sales this month?",
+      "zh": "本月销售情况怎么样？"
+    },
+    {
+      "id": 17,
+      "start": 63.31,
+      "end": 66.87,
+      "en": "Well, would you like the bad news first or the really bad news?",
+      "zh": "您想先听坏消息，还是更坏的消息？"
+    },
+    {
+      "id": 18,
+      "start": 67.56,
+      "end": 68.56,
+      "en": "What?",
+      "zh": "什么？"
+    },
+    {
+      "id": 19,
+      "start": 68.56,
+      "end": 70.23,
+      "en": "Ed, don't tell me you only have bad news.",
+      "zh": "埃德，不要告诉我你只有坏消息。"
+    },
+    {
+      "id": 20,
+      "start": 70.95,
+      "end": 76.15,
+      "en": "Well, sir, our sales have dropped, no plunged, 50% in the past month alone.",
+      "zh": "先生，单是上个月，销售额就跌了——不，是暴跌了百分之五十。"
+    },
+    {
+      "id": 21,
+      "start": 76.85,
+      "end": 80.01,
+      "en": "We are currently overstocked and overstaffed and our profits are falling fast.",
+      "zh": "我们现在库存积压、人员过剩，利润还在快速下滑。"
+    },
+    {
+      "id": 22,
+      "start": 80.73,
+      "end": 84.75,
+      "en": "The market is in recession and we have no way of moving our inventory or getting rid of our staff.",
+      "zh": "市场不景气，存货卖不出去，员工也难以裁掉。"
+    },
+    {
+      "id": 23,
+      "start": 85.26,
+      "end": 90.98,
+      "en": "If we consider redundancies, it costs us a fortune because of the new regulations governing compensation packages.",
+      "zh": "若要裁员，新出台的离职补偿规定会让我们付出一大笔钱。"
+    },
+    {
+      "id": 24,
+      "start": 91.44,
+      "end": 92.22,
+      "en": "It's a real mess.",
+      "zh": "真是一团糟。"
+    },
+    {
+      "id": 25,
+      "start": 92.56,
+      "end": 93.76,
+      "en": "You're crying out loud.",
+      "zh": "真是见鬼了！"
+    },
+    {
+      "id": 26,
+      "start": 93.76,
+      "end": 94.52,
+      "en": "How fast are we losing money?",
+      "zh": "我们赔钱的速度有多快？"
+    },
+    {
+      "id": 27,
+      "start": 97.0,
+      "end": 97.54,
+      "en": "How can I put this?",
+      "zh": "这让我怎么说呢？"
+    },
+    {
+      "id": 28,
+      "start": 98.54,
+      "end": 102.86,
+      "en": "Let's just say that at this pace, we will be filing for Chapter 11 in less than three months.",
+      "zh": "照这个速度，不出三个月我们就得申请破产保护。"
+    },
+    {
+      "id": 29,
+      "start": 103.92,
+      "end": 104.92,
+      "en": "What?",
+      "zh": "什么？"
+    },
+    {
+      "id": 30,
+      "start": 104.92,
+      "end": 105.86,
+      "en": "Jeez, how could this have happened?",
+      "zh": "天哪，这怎么会发生？"
+    },
+    {
+      "id": 31,
+      "start": 107.0,
+      "end": 107.94,
+      "en": "So what's the bad news?",
+      "zh": "那么坏消息是什么？"
+    },
+    {
+      "id": 32,
+      "start": 108.36,
+      "end": 109.78,
+      "en": "Oh, that's the really bad news.",
+      "zh": "哦，这真是个坏消息。"
+    },
+    {
+      "id": 33,
+      "start": 110.26,
+      "end": 114.08,
+      "en": "Our supplier suffered QC problems and, well, half of our production is faulty.",
+      "zh": "供应商出了质量控制问题，我们生产的产品有一半存在缺陷。"
+    },
+    {
+      "id": 34,
+      "start": 114.84,
+      "end": 120.22,
+      "en": "We're going to have to recall all items sold in the last quarter and the worst part, we're going to have to shoulder this cost.",
+      "zh": "上季度卖出的所有产品都得召回，更糟的是费用还得由我们承担。"
+    },
+    {
+      "id": 35,
+      "start": 120.86,
+      "end": 121.5,
+      "en": "Are you joking?",
+      "zh": "你在开玩笑吗？"
+    },
+    {
+      "id": 36,
+      "start": 122.6,
+      "end": 124.44,
+      "en": "Get the supplier on the line now.",
+      "zh": "立刻接通供应商的电话。"
+    },
+    {
+      "id": 37,
+      "start": 124.44,
+      "end": 125.96,
+      "en": "They have to assume the cost of this mess.",
+      "zh": "这烂摊子的费用该由他们出。"
+    },
+    {
+      "id": 38,
+      "start": 126.32,
+      "end": 127.26,
+      "en": "We tried that, sir.",
+      "zh": "我们试过了，先生。"
+    },
+    {
+      "id": 39,
+      "start": 127.8,
+      "end": 130.94,
+      "en": "The factory has gone under and the owner apparently has fled the country.",
+      "zh": "那家工厂已经倒闭，老板似乎也逃到国外去了。"
+    },
+    {
+      "id": 40,
+      "start": 131.16,
+      "end": 131.72,
+      "en": "Oh, we're doomed.",
+      "zh": "完了，我们没救了。"
+    },
+    {
+      "id": 41,
+      "start": 132.8,
+      "end": 133.82,
+      "en": "There's some really good news, though.",
+      "zh": "不过我还有个好消息。"
+    },
+    {
+      "id": 42,
+      "start": 134.44,
+      "end": 135.44,
+      "en": "Really?",
+      "zh": "真的吗？"
+    },
+    {
+      "id": 43,
+      "start": 135.44,
+      "end": 136.44,
+      "en": "What?",
+      "zh": "什么？"
+    },
+    {
+      "id": 44,
+      "start": 136.44,
+      "end": 137.44,
+      "en": "I got offered a new job.",
+      "zh": "我找到一份新工作。"
+    },
+    {
+      "id": 45,
+      "start": 137.44,
+      "end": 145.04,
+      "en": "All right, it sounds like a pretty tough time for this company, doesn't it?",
+      "zh": "好吧，这对这家公司来说听起来很艰难，不是吗？"
+    },
+    {
+      "id": 46,
+      "start": 145.04,
+      "end": 145.91,
+      "en": "But good news for the employee.",
+      "zh": "但对员工来说是个好消息。"
+    },
+    {
+      "id": 47,
+      "start": 146.08,
+      "end": 147.03,
+      "en": "He won't be jobless.",
+      "zh": "他不会失业。"
+    },
+    {
+      "id": 48,
+      "start": 147.49,
+      "end": 149.01,
+      "en": "Well, I guess he knows when to get out.",
+      "zh": "好吧，我猜他知道什么时候出去。"
+    },
+    {
+      "id": 49,
+      "start": 149.37,
+      "end": 153.15,
+      "en": "But why don't we take a look at some of the language now in Language Takeaway.",
+      "zh": "但是我们为什么不看看现在语言外卖中的一些语言。"
+    },
+    {
+      "id": 50,
+      "start": 157.62,
+      "end": 162.76,
+      "en": "So in Language Takeaway today, we have five vocabulary items and, well, let's start with the first one.",
+      "zh": "所以在今天的语言外卖中，我们有五个词汇项目，好吧，让我们从第一个开始。"
+    },
+    {
+      "id": 51,
+      "start": 163.32,
+      "end": 170.18,
+      "en": "All right, so the boss, he's talking about the gory details of our disastrous first quarter.",
+      "zh": "好吧，老板，他在谈论我们灾难性的第一季度的血腥细节。"
+    },
+    {
+      "id": 52,
+      "start": 170.56,
+      "end": 172.62,
+      "en": "So let's look at the phrase gory details.",
+      "zh": "所以让我们看看 GORY 的细节。"
+    },
+    {
+      "id": 53,
+      "start": 173.26,
+      "end": 174.78,
+      "en": "All right, so gory details.",
+      "zh": "好吧，如此血腥的细节。"
+    },
+    {
+      "id": 54,
+      "start": 175.06,
+      "end": 175.68,
+      "en": "Gory details.",
+      "zh": "血腥的细节。"
+    },
+    {
+      "id": 55,
+      "start": 176.2,
+      "end": 178.08,
+      "en": "This sounds kind of strange, gory details.",
+      "zh": "这听起来有点奇怪，血腥的细节。"
+    },
+    {
+      "id": 56,
+      "start": 178.34,
+      "end": 179.22,
+      "en": "It seems very scary.",
+      "zh": "这似乎很可怕。"
+    },
+    {
+      "id": 57,
+      "start": 179.56,
+      "end": 183.56,
+      "en": "Well, the word gory comes from gore, like blood and guts, right?",
+      "zh": "好吧，血腥这个词来自血腥，就像血和内脏一样，对吧？"
+    },
+    {
+      "id": 58,
+      "start": 183.78,
+      "end": 183.96,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 59,
+      "start": 184.76,
+      "end": 186.44,
+      "en": "That's why it sounds a little bit scary to me.",
+      "zh": "这就是为什么这对我来说听起来有点吓人。"
+    },
+    {
+      "id": 60,
+      "start": 186.44,
+      "end": 195.48,
+      "en": "So gory details mean all the little details of a negative or shocking or bad situation.",
+      "zh": "因此，血腥的细节意味着负面或令人震惊或糟糕的情况的所有小细节。"
+    },
+    {
+      "id": 61,
+      "start": 195.48,
+      "end": 200.51,
+      "en": "Okay, so the gory details of the meeting, so all the nasty negative stuff.",
+      "zh": "好的，所以会议的血腥细节，所以所有令人讨厌的负面东西。"
+    },
+    {
+      "id": 62,
+      "start": 200.76,
+      "end": 205.33,
+      "en": "Or the gory detail, or you could say the newspaper reported all the gory details of the murder.",
+      "zh": "或者血腥的细节，或者你可以说报纸报道了谋杀的所有血腥细节。"
+    },
+    {
+      "id": 63,
+      "start": 205.71,
+      "end": 207.29,
+      "en": "Okay, very good.",
+      "zh": "好，很好。"
+    },
+    {
+      "id": 64,
+      "start": 207.39,
+      "end": 208.37,
+      "en": "So gory details.",
+      "zh": "如此血腥的细节。"
+    },
+    {
+      "id": 65,
+      "start": 208.81,
+      "end": 214.79,
+      "en": "So the employee was talking about how bad the company was doing and he mentioned this word redundancies.",
+      "zh": "所以员工在谈论公司做得有多糟糕，他提到了这个词的冗余。"
+    },
+    {
+      "id": 66,
+      "start": 214.84,
+      "end": 216.68,
+      "en": "Redundancies.",
+      "zh": "裁员。"
+    },
+    {
+      "id": 67,
+      "start": 216.68,
+      "end": 218.72,
+      "en": "They are considering redundancies.",
+      "zh": "他们正在考虑裁员。"
+    },
+    {
+      "id": 68,
+      "start": 218.72,
+      "end": 223.8,
+      "en": "Okay, so redundancies, again, it's based on the word to be redundant.",
+      "zh": "好的，冗余，再次，它基于单词是多余的。"
+    },
+    {
+      "id": 69,
+      "start": 223.97,
+      "end": 225.75,
+      "en": "All right, and that means?",
+      "zh": "好吧，这意味着？"
+    },
+    {
+      "id": 70,
+      "start": 226.04,
+      "end": 227.09,
+      "en": "To not be needed anymore.",
+      "zh": "不再需要。"
+    },
+    {
+      "id": 71,
+      "start": 227.45,
+      "end": 230.59,
+      "en": "Okay, so redundancies are basically firing people.",
+      "zh": "好吧，所以冗余基本上是在解雇人们。"
+    },
+    {
+      "id": 72,
+      "start": 230.85,
+      "end": 233.67,
+      "en": "It's well, laying people off, people that you don't need anymore.",
+      "zh": "很好，解雇人们，你不再需要的人。"
+    },
+    {
+      "id": 73,
+      "start": 233.89,
+      "end": 235.25,
+      "en": "They are redundancies.",
+      "zh": "它们是冗余。"
+    },
+    {
+      "id": 74,
+      "start": 235.81,
+      "end": 243.25,
+      "en": "All right, so this is actually a British term, redundancies, to become redundant, because in American English, you would just say layoffs.",
+      "zh": "好吧，所以这实际上是一个英国术语，冗余，变得多余，因为在美式英语中，你只会说裁员。"
+    },
+    {
+      "id": 75,
+      "start": 243.89,
+      "end": 244.01,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 76,
+      "start": 244.64,
+      "end": 245.64,
+      "en": "Okay, very good.",
+      "zh": "好，很好。"
+    },
+    {
+      "id": 77,
+      "start": 245.96,
+      "end": 246.78,
+      "en": "All right, so moving on.",
+      "zh": "好吧，所以继续前进。"
+    },
+    {
+      "id": 78,
+      "start": 247.12,
+      "end": 256.82,
+      "en": "They were talking about redundancies and maybe they should or shouldn't lay some people off, but one of the problems were the regulations governing compensation packages.",
+      "zh": "他们在谈论裁员，也许他们应该或不应该解雇一些人，但问题之一是管理薪酬方案的规定。"
+    },
+    {
+      "id": 79,
+      "start": 257.42,
+      "end": 261.62,
+      "en": "Okay, so regulations governing compensation packages.",
+      "zh": "好的，所以管理薪酬方案的规定。"
+    },
+    {
+      "id": 80,
+      "start": 262.04,
+      "end": 263.5,
+      "en": "Regulations governing something.",
+      "zh": "管理某事的法规。"
+    },
+    {
+      "id": 81,
+      "start": 263.88,
+      "end": 265.82,
+      "en": "So we have a noun governing noun.",
+      "zh": "所以我们有一个名词主导名词。"
+    },
+    {
+      "id": 82,
+      "start": 266.84,
+      "end": 267.2,
+      "en": "What does that mean?",
+      "zh": "那是什么意思？"
+    },
+    {
+      "id": 83,
+      "start": 267.84,
+      "end": 276.24,
+      "en": "All right, so I think it would help us to understand this a little better if we listen to some examples of this pattern, noun governing noun.",
+      "zh": "好吧，所以我认为如果我们听一些这种模式的例子，名词支配名词，这将有助于我们更好地理解这一点。"
+    },
+    {
+      "id": 84,
+      "start": 276.24,
+      "end": 277.24,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 85,
+      "start": 277.24,
+      "end": 281.4,
+      "en": "I don't agree with the regulations governing income taxes.",
+      "zh": "我不同意管理所得税的规定。"
+    },
+    {
+      "id": 86,
+      "start": 281.4,
+      "end": 283.5,
+      "en": "People shouldn't have to give away their hard-earned money.",
+      "zh": "人们不应该放弃他们辛苦赚来的钱。"
+    },
+    {
+      "id": 87,
+      "start": 285.4,
+      "end": 288.08,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 88,
+      "start": 288.08,
+      "end": 290.08,
+      "en": "We need to protect the environment.",
+      "zh": "我们需要保护环境。"
+    },
+    {
+      "id": 89,
+      "start": 290.29,
+      "end": 295.71,
+      "en": "Therefore, there will be new policies governing corporate levels of pollution starting next month.",
+      "zh": "因此，从下个月开始，将有管理企业污染水平的新政策。"
+    },
+    {
+      "id": 90,
+      "start": 298.6,
+      "end": 300.96,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 91,
+      "start": 300.96,
+      "end": 306.68,
+      "en": "The lack of regulations governing city transportation has led to many traffic accidents.",
+      "zh": "缺乏管理城市交通的法规导致了许多交通事故。"
+    },
+    {
+      "id": 92,
+      "start": 307.36,
+      "end": 308.56,
+      "en": "Okay, great examples.",
+      "zh": "好，这些例子很棒。"
+    },
+    {
+      "id": 93,
+      "start": 309.16,
+      "end": 316.76,
+      "en": "And well, before we move on, this compensation packages, I guess it's all the things that the company gives you when they lay you off, right?",
+      "zh": "好吧，在我们继续前进之前，我想这是公司解雇你时给你的所有东西，对吧？"
+    },
+    {
+      "id": 94,
+      "start": 316.76,
+      "end": 321.6,
+      "en": "Right, maybe a certain portion of your retirement benefits or...",
+      "zh": "对，也许您的退休福利的一部分或..."
+    },
+    {
+      "id": 95,
+      "start": 321.6,
+      "end": 323.76,
+      "en": "Like a month's pay, etc.",
+      "zh": "比如一个月的工资等。"
+    },
+    {
+      "id": 96,
+      "start": 323.76,
+      "end": 326.0,
+      "en": "Okay, compensation packages.",
+      "zh": "好的，赔偿方案。"
+    },
+    {
+      "id": 97,
+      "start": 326.0,
+      "end": 332.48,
+      "en": "All right, so moving on to our next item on Language Takeaway, we have to shoulder the cost.",
+      "zh": "好吧，所以继续我们的下一个语言外卖项目，我们必须承担成本。"
+    },
+    {
+      "id": 98,
+      "start": 332.48,
+      "end": 333.87,
+      "en": "To shoulder the cost.",
+      "zh": "承担成本。"
+    },
+    {
+      "id": 99,
+      "start": 334.53,
+      "end": 337.11,
+      "en": "All right, so if I shoulder something...",
+      "zh": "好吧，所以如果我肩负什么..."
+    },
+    {
+      "id": 100,
+      "start": 337.28,
+      "end": 338.33,
+      "en": "You have to carry it.",
+      "zh": "你必须携带它。"
+    },
+    {
+      "id": 101,
+      "start": 338.64,
+      "end": 339.25,
+      "en": "I carry it.",
+      "zh": "我带着它。"
+    },
+    {
+      "id": 102,
+      "start": 339.64,
+      "end": 340.64,
+      "en": "Yeah, that's a good one.",
+      "zh": "是的，这是一件好事。"
+    },
+    {
+      "id": 103,
+      "start": 340.64,
+      "end": 343.19,
+      "en": "So basically, it's the same as the shoulder, your body.",
+      "zh": "所以基本上，它和肩膀，你的身体一样。"
+    },
+    {
+      "id": 104,
+      "start": 343.64,
+      "end": 345.91,
+      "en": "So you carry this cost or you carry this responsibility.",
+      "zh": "所以你承担了这个成本，或者你承担了这个责任。"
+    },
+    {
+      "id": 105,
+      "start": 347.21,
+      "end": 349.65,
+      "en": "So you might also hear shoulder the burden.",
+      "zh": "所以你也可能听到肩负重担。"
+    },
+    {
+      "id": 106,
+      "start": 350.39,
+      "end": 351.61,
+      "en": "To shoulder the burden.",
+      "zh": "来承担负担。"
+    },
+    {
+      "id": 107,
+      "start": 352.51,
+      "end": 354.27,
+      "en": "So it just means to carry the responsibility.",
+      "zh": "所以它只是意味着承担责任。"
+    },
+    {
+      "id": 108,
+      "start": 354.89,
+      "end": 355.97,
+      "en": "Okay, to share it.",
+      "zh": "好吧，分享一下。"
+    },
+    {
+      "id": 109,
+      "start": 356.4,
+      "end": 357.4,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 110,
+      "start": 357.4,
+      "end": 358.48,
+      "en": "All right, interesting.",
+      "zh": "好吧，有趣。"
+    },
+    {
+      "id": 111,
+      "start": 358.48,
+      "end": 360.31,
+      "en": "And we have one more word on Language Takeaway.",
+      "zh": "我们还有一个关于语言外卖的词。"
+    },
+    {
+      "id": 112,
+      "start": 361.2,
+      "end": 364.16,
+      "en": "And the factory has gone under.",
+      "zh": "工厂倒塌了。"
+    },
+    {
+      "id": 113,
+      "start": 364.16,
+      "end": 364.93,
+      "en": "To go under.",
+      "zh": "下去。"
+    },
+    {
+      "id": 114,
+      "start": 365.41,
+      "end": 366.81,
+      "en": "All right, to go under.",
+      "zh": "好吧，下去。"
+    },
+    {
+      "id": 115,
+      "start": 367.19,
+      "end": 371.57,
+      "en": "When something goes under, a company goes under, it goes bankrupt.",
+      "zh": "当某事倒闭时，一家公司倒闭了，它破产了。"
+    },
+    {
+      "id": 116,
+      "start": 372.11,
+      "end": 372.85,
+      "en": "It goes bankrupt.",
+      "zh": "它破产了。"
+    },
+    {
+      "id": 117,
+      "start": 373.2,
+      "end": 375.56,
+      "en": "So it's not working anymore.",
+      "zh": "所以它不再工作了。"
+    },
+    {
+      "id": 118,
+      "start": 375.56,
+      "end": 376.56,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 119,
+      "start": 376.56,
+      "end": 377.67,
+      "en": "All right, so to go under.",
+      "zh": "好吧，所以下去。"
+    },
+    {
+      "id": 120,
+      "start": 378.32,
+      "end": 380.7,
+      "en": "Great vocabulary items here on Language Takeaway today.",
+      "zh": "今天在语言外卖上的精彩词汇项目。"
+    },
+    {
+      "id": 121,
+      "start": 381.32,
+      "end": 385.02,
+      "en": "It's time for us to move on to the next segment of our show where we're going to look at some phrases.",
+      "zh": "是时候进入我们节目的下一部分了，我们将看到一些短语。"
+    },
+    {
+      "id": 122,
+      "start": 385.64,
+      "end": 390.04,
+      "en": "So let's start now with Fluency Builder.",
+      "zh": "所以让我们现在从 Flueny Builder 开始。"
+    },
+    {
+      "id": 123,
+      "start": 390.04,
+      "end": 390.34,
+      "en": "Fluency Builder.",
+      "zh": "流利表达。"
+    },
+    {
+      "id": 124,
+      "start": 391.04,
+      "end": 399.84,
+      "en": "All right, so we've got some phrases that you can use when somebody is going to tell you some bad news, but also some phrases you can use to deliver bad news.",
+      "zh": "好吧，所以我们有一些短语，当有人要告诉你一些坏消息时，你可以使用一些短语，还有一些你可以用来传递坏消息的短语。"
+    },
+    {
+      "id": 125,
+      "start": 399.84,
+      "end": 403.52,
+      "en": "All right, so let's start with our first phrase.",
+      "zh": "好吧，让我们从我们的第一个短语开始。"
+    },
+    {
+      "id": 126,
+      "start": 403.52,
+      "end": 409.0,
+      "en": "So the boss is getting ready to prepare for this bad news and he says, lay it on me.",
+      "zh": "所以老板正准备为这个坏消息做准备，他说，把它放在我身上。"
+    },
+    {
+      "id": 127,
+      "start": 409.32,
+      "end": 411.38,
+      "en": "He's like, okay, lay it on me.",
+      "zh": "他就像，好吧，把它放在我身上。"
+    },
+    {
+      "id": 128,
+      "start": 411.64,
+      "end": 412.26,
+      "en": "Lay it on me.",
+      "zh": "把它放在我身上。"
+    },
+    {
+      "id": 129,
+      "start": 412.76,
+      "end": 415.84,
+      "en": "So if I say this, lay it on me, I'm just saying, tell me.",
+      "zh": "所以如果我这么说，把它放在我身上，我只是说，告诉我。"
+    },
+    {
+      "id": 130,
+      "start": 416.04,
+      "end": 416.28,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 131,
+      "start": 416.86,
+      "end": 417.92,
+      "en": "So give me the bad news.",
+      "zh": "所以给我一个坏消息。"
+    },
+    {
+      "id": 132,
+      "start": 418.44,
+      "end": 421.04,
+      "en": "All right, so lay it on me.",
+      "zh": "好吧，把它放在我身上。"
+    },
+    {
+      "id": 133,
+      "start": 421.04,
+      "end": 422.04,
+      "en": "Very informal though.",
+      "zh": "虽然很随意。"
+    },
+    {
+      "id": 134,
+      "start": 422.04,
+      "end": 422.4,
+      "en": "Yeah, you're right.",
+      "zh": "对，你说得对。"
+    },
+    {
+      "id": 135,
+      "start": 423.04,
+      "end": 424.04,
+      "en": "It is kind of informal.",
+      "zh": "这是一种非正式的。"
+    },
+    {
+      "id": 136,
+      "start": 424.04,
+      "end": 430.5,
+      "en": "But our next phrase, the boss is hearing about all this bad news and he says, for crying out loud.",
+      "zh": "但我们的下一句话，老板听到了所有这些坏消息，他说，因为大声哭泣。"
+    },
+    {
+      "id": 137,
+      "start": 431.56,
+      "end": 433.04,
+      "en": "For crying out loud.",
+      "zh": "真是的！"
+    },
+    {
+      "id": 138,
+      "start": 433.04,
+      "end": 434.52,
+      "en": "For crying out loud.",
+      "zh": "真是的！"
+    },
+    {
+      "id": 139,
+      "start": 434.52,
+      "end": 439.84,
+      "en": "All right, so this is a very common phrase of frustration.",
+      "zh": "好吧，所以这是一个非常常见的挫败词。"
+    },
+    {
+      "id": 140,
+      "start": 439.84,
+      "end": 444.32,
+      "en": "So why don't we listen to some examples to kind of understand how we use this phrase.",
+      "zh": "那么我们为什么不听一些例子来理解我们如何使用这个短语。"
+    },
+    {
+      "id": 141,
+      "start": 445.43,
+      "end": 446.29,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 142,
+      "start": 447.5,
+      "end": 455.08,
+      "en": "For crying out loud, when I tell you to have the report done by Wednesday, that means I expect it to be on my desk by the end of the day.",
+      "zh": "因为大声哭泣，当我告诉你在星期三之前完成报告时，这意味着我希望它在一天结束时就在我的办公桌上。"
+    },
+    {
+      "id": 143,
+      "start": 457.36,
+      "end": 459.72,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 144,
+      "start": 459.72,
+      "end": 462.77,
+      "en": "We've got to figure out a new marketing strategy for crying out loud.",
+      "zh": "我们必须想出一个新的营销策略来大声哭泣。"
+    },
+    {
+      "id": 145,
+      "start": 465.08,
+      "end": 467.68,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 146,
+      "start": 467.68,
+      "end": 473.76,
+      "en": "For crying out loud, you just got your driving license and you already got in an accident.",
+      "zh": "因为大声哭泣，你刚拿到驾驶执照，你就已经出事了。"
+    },
+    {
+      "id": 147,
+      "start": 473.76,
+      "end": 475.56,
+      "en": "So it kind of reminds me of, oh my God.",
+      "zh": "所以它让我想起了，哦，我的上帝。"
+    },
+    {
+      "id": 148,
+      "start": 476.26,
+      "end": 479.98,
+      "en": "So you're frustrated, you're just saying this phrase as, oh my God, or something like this.",
+      "zh": "所以你很沮丧，你只是说这句话，哦，我的上帝，或者类似的东西。"
+    },
+    {
+      "id": 149,
+      "start": 480.36,
+      "end": 482.48,
+      "en": "Yeah, it's like, oh, this is so annoying.",
+      "zh": "是的，就像，哦，这太烦人了。"
+    },
+    {
+      "id": 150,
+      "start": 483.04,
+      "end": 483.2,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 151,
+      "start": 484.04,
+      "end": 485.04,
+      "en": "For crying out loud.",
+      "zh": "真是的！"
+    },
+    {
+      "id": 152,
+      "start": 485.04,
+      "end": 486.04,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 153,
+      "start": 486.04,
+      "end": 488.68,
+      "en": "All right, moving on to our third phrase.",
+      "zh": "好吧，继续我们的第三个短语。"
+    },
+    {
+      "id": 154,
+      "start": 488.68,
+      "end": 489.61,
+      "en": "How can I put this?",
+      "zh": "这让我怎么说呢？"
+    },
+    {
+      "id": 155,
+      "start": 490.08,
+      "end": 491.05,
+      "en": "How can I put this?",
+      "zh": "这让我怎么说呢？"
+    },
+    {
+      "id": 156,
+      "start": 491.44,
+      "end": 495.79,
+      "en": "So the boss asked him a direct question and he said, well, how can I put this?",
+      "zh": "所以老板问他一个直接的问题，他说，好吧，我该怎么说呢？"
+    },
+    {
+      "id": 157,
+      "start": 496.48,
+      "end": 500.73,
+      "en": "So we use this phrase, we want to say something maybe a little bit more indirectly.",
+      "zh": "所以我们使用这个短语，我们想说一些间接的东西。"
+    },
+    {
+      "id": 158,
+      "start": 501.47,
+      "end": 505.45,
+      "en": "Right, so you're looking for words of how you can make it softer or more polite.",
+      "zh": "是的，所以你正在寻找如何让它变得更柔和或更有礼貌的词。"
+    },
+    {
+      "id": 159,
+      "start": 505.83,
+      "end": 511.17,
+      "en": "Maybe the truth or what you're about to say is a little bit strong, so you want to soften it up a bit.",
+      "zh": "也许真相或你要说的有点强烈，所以你想把它软化一点。"
+    },
+    {
+      "id": 160,
+      "start": 511.43,
+      "end": 511.69,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 161,
+      "start": 512.24,
+      "end": 514.92,
+      "en": "Okay, so you say, how can I put this?",
+      "zh": "好吧，你说，我该怎么说呢？"
+    },
+    {
+      "id": 162,
+      "start": 515.38,
+      "end": 520.3,
+      "en": "But then you have to complement it with, let's just say that.",
+      "zh": "但是你必须补充它，让我们这么说。"
+    },
+    {
+      "id": 163,
+      "start": 520.7,
+      "end": 522.54,
+      "en": "Let's just say that.",
+      "zh": "让我们这么说吧。"
+    },
+    {
+      "id": 164,
+      "start": 523.72,
+      "end": 525.0,
+      "en": "Let's just say that.",
+      "zh": "让我们这么说吧。"
+    },
+    {
+      "id": 165,
+      "start": 525.0,
+      "end": 525.96,
+      "en": "So how do we use this phrase?",
+      "zh": "那么我们如何使用这个短语呢？"
+    },
+    {
+      "id": 166,
+      "start": 526.56,
+      "end": 529.52,
+      "en": "So for example, somebody asks me, well, what do you mean?",
+      "zh": "例如，有人问我，嗯，你是什么意思？"
+    },
+    {
+      "id": 167,
+      "start": 529.8,
+      "end": 531.42,
+      "en": "Why can't you come on vacation with us?",
+      "zh": "你为什么不能和我们一起度假？"
+    },
+    {
+      "id": 168,
+      "start": 532.26,
+      "end": 534.24,
+      "en": "And I would say, how can I put this?",
+      "zh": "我会说，我该怎么说呢？"
+    },
+    {
+      "id": 169,
+      "start": 534.9,
+      "end": 540.11,
+      "en": "Let's just say that in nine months you will hear the pitter patter of little feet.",
+      "zh": "假设在九个月后你会听到小脚的沉痛声。"
+    },
+    {
+      "id": 170,
+      "start": 540.39,
+      "end": 541.85,
+      "en": "Okay, so your girlfriend's pregnant.",
+      "zh": "好吧，你女朋友怀孕了。"
+    },
+    {
+      "id": 171,
+      "start": 542.15,
+      "end": 542.35,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 172,
+      "start": 543.52,
+      "end": 545.72,
+      "en": "So you're not saying, my girlfriend is pregnant.",
+      "zh": "所以你不是说，我的女朋友怀孕了。"
+    },
+    {
+      "id": 173,
+      "start": 545.72,
+      "end": 546.47,
+      "en": "You're giving like a metaphor.",
+      "zh": "你像一个比喻一样给予。"
+    },
+    {
+      "id": 174,
+      "start": 546.72,
+      "end": 549.49,
+      "en": "A metaphor of what's going on, but you don't want to say it directly.",
+      "zh": "对正在发生的事情的隐喻，但你不想直接说出来。"
+    },
+    {
+      "id": 175,
+      "start": 550.04,
+      "end": 551.04,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 176,
+      "start": 551.04,
+      "end": 557.76,
+      "en": "So for example, I might say, let's just say that Michael isn't doing a great job.",
+      "zh": "例如，我可能会说，让我们说迈克尔做得不好。"
+    },
+    {
+      "id": 177,
+      "start": 557.76,
+      "end": 558.76,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 178,
+      "start": 558.76,
+      "end": 562.39,
+      "en": "So maybe there are very strong reasons or he's doing very, very poorly.",
+      "zh": "所以也许有非常有力的原因，或者他做得非常非常糟糕。"
+    },
+    {
+      "id": 179,
+      "start": 562.87,
+      "end": 563.01,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 180,
+      "start": 563.05,
+      "end": 567.74,
+      "en": "But I'm just sort of not saying it exactly directly that he's doing bad.",
+      "zh": "但我只是不直接说他做得不好。"
+    },
+    {
+      "id": 181,
+      "start": 568.0,
+      "end": 569.08,
+      "en": "Okay, very good.",
+      "zh": "好，很好。"
+    },
+    {
+      "id": 182,
+      "start": 569.34,
+      "end": 577.02,
+      "en": "So it's a phrase that you can actually use a lot and to be a little bit more polite or a little bit more indirect when you're giving somebody some bad news.",
+      "zh": "因此，当您给某人一些坏消息时，您实际上可以使用很多并且变得更有礼貌或更间接。"
+    },
+    {
+      "id": 183,
+      "start": 577.36,
+      "end": 577.88,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 184,
+      "start": 578.64,
+      "end": 592.4,
+      "en": "So we have two nice sort of complimenting phrases for delivering bad news and why don't we hear them one more time in the dialogue.",
+      "zh": "所以我们有两种很好的赞美短语来传递坏消息，为什么我们在对话中没有再听到一次。"
+    },
+    {
+      "id": 185,
+      "start": 592.4,
+      "end": 597.77,
+      "en": "Now that we've been over the gory details of our disastrous first quarter, Ed, give us some good news.",
+      "zh": "第一季度惨不忍睹的细节我们都听完了。埃德，说点好消息吧。"
+    },
+    {
+      "id": 186,
+      "start": 598.33,
+      "end": 600.05,
+      "en": "How are things looking for us in terms of sales this month?",
+      "zh": "本月销售情况怎么样？"
+    },
+    {
+      "id": 187,
+      "start": 601.07,
+      "end": 604.61,
+      "en": "Well, would you like the bad news first or the really bad news?",
+      "zh": "您想先听坏消息，还是更坏的消息？"
+    },
+    {
+      "id": 188,
+      "start": 605.28,
+      "end": 606.28,
+      "en": "What?",
+      "zh": "什么？"
+    },
+    {
+      "id": 189,
+      "start": 606.45,
+      "end": 607.97,
+      "en": "Don't tell me you only have bad news.",
+      "zh": "不要告诉我你只有坏消息。"
+    },
+    {
+      "id": 190,
+      "start": 608.65,
+      "end": 610.39,
+      "en": "Well, sir, our sales have dropped.",
+      "zh": "好吧，先生，我们的销售额下降了。"
+    },
+    {
+      "id": 191,
+      "start": 611.08,
+      "end": 614.16,
+      "en": "No plunged 50% in the past month alone.",
+      "zh": "仅在过去的一个月中，就没有暴跌 50%。"
+    },
+    {
+      "id": 192,
+      "start": 614.55,
+      "end": 617.77,
+      "en": "We are currently overstocked and overstaffed and our profits are falling fast.",
+      "zh": "我们现在库存积压、人员过剩，利润还在快速下滑。"
+    },
+    {
+      "id": 193,
+      "start": 618.47,
+      "end": 622.51,
+      "en": "The market is in recession and we have no way of moving our inventory or getting rid of our staff.",
+      "zh": "市场不景气，存货卖不出去，员工也难以裁掉。"
+    },
+    {
+      "id": 194,
+      "start": 622.99,
+      "end": 628.71,
+      "en": "If we consider redundancies, it costs us a fortune because of the new regulations governing compensation packages.",
+      "zh": "若要裁员，新出台的离职补偿规定会让我们付出一大笔钱。"
+    },
+    {
+      "id": 195,
+      "start": 629.19,
+      "end": 629.97,
+      "en": "It's a real mess.",
+      "zh": "真是一团糟。"
+    },
+    {
+      "id": 196,
+      "start": 630.24,
+      "end": 631.44,
+      "en": "You're coming out loud.",
+      "zh": "你大声说出来。"
+    },
+    {
+      "id": 197,
+      "start": 631.44,
+      "end": 632.27,
+      "en": "How fast are we losing money?",
+      "zh": "我们赔钱的速度有多快？"
+    },
+    {
+      "id": 198,
+      "start": 634.55,
+      "end": 635.27,
+      "en": "How can I put this?",
+      "zh": "这让我怎么说呢？"
+    },
+    {
+      "id": 199,
+      "start": 635.89,
+      "end": 640.59,
+      "en": "Let's just say that at this pace, we will be filing for Chapter 11 in less than three months.",
+      "zh": "假设以这个速度，我们将在不到三个月的时间内申请第 11 章。"
+    },
+    {
+      "id": 200,
+      "start": 640.79,
+      "end": 640.97,
+      "en": "What?",
+      "zh": "什么？"
+    },
+    {
+      "id": 201,
+      "start": 642.28,
+      "end": 643.61,
+      "en": "Jeez, how could this have happened?",
+      "zh": "天哪，这怎么会发生？"
+    },
+    {
+      "id": 202,
+      "start": 644.72,
+      "end": 645.67,
+      "en": "So what's the bad news?",
+      "zh": "那么坏消息是什么？"
+    },
+    {
+      "id": 203,
+      "start": 646.09,
+      "end": 647.51,
+      "en": "Oh, that's the really bad news.",
+      "zh": "哦，这真是个坏消息。"
+    },
+    {
+      "id": 204,
+      "start": 647.97,
+      "end": 651.79,
+      "en": "Our suppliers suffered QC problems and well, half of our production is faulty.",
+      "zh": "我们的供应商遇到了 QC 问题，而且我们的一半生产有问题。"
+    },
+    {
+      "id": 205,
+      "start": 652.52,
+      "end": 657.95,
+      "en": "We're going to have to recall all items sold in the last quarter and the worst part, we're going to have to shoulder this cost.",
+      "zh": "上季度卖出的所有产品都得召回，更糟的是费用还得由我们承担。"
+    },
+    {
+      "id": 206,
+      "start": 658.59,
+      "end": 659.25,
+      "en": "Are you joking?",
+      "zh": "你在开玩笑吗？"
+    },
+    {
+      "id": 207,
+      "start": 660.25,
+      "end": 661.61,
+      "en": "Get the supplier on the line now.",
+      "zh": "立刻接通供应商的电话。"
+    },
+    {
+      "id": 208,
+      "start": 662.11,
+      "end": 663.69,
+      "en": "They have to assume the cost of this mess.",
+      "zh": "这烂摊子的费用该由他们出。"
+    },
+    {
+      "id": 209,
+      "start": 664.05,
+      "end": 664.99,
+      "en": "We tried that, sir.",
+      "zh": "我们试过了，先生。"
+    },
+    {
+      "id": 210,
+      "start": 665.51,
+      "end": 668.69,
+      "en": "The factory has gone under and the owner apparently has fled the country.",
+      "zh": "那家工厂已经倒闭，老板似乎也逃到国外去了。"
+    },
+    {
+      "id": 211,
+      "start": 669.23,
+      "end": 669.45,
+      "en": "We're doomed.",
+      "zh": "我们注定要失败。"
+    },
+    {
+      "id": 212,
+      "start": 670.12,
+      "end": 671.54,
+      "en": "There's some really good news though.",
+      "zh": "不过有一些非常好的消息。"
+    },
+    {
+      "id": 213,
+      "start": 672.04,
+      "end": 673.04,
+      "en": "Really?",
+      "zh": "真的吗？"
+    },
+    {
+      "id": 214,
+      "start": 673.04,
+      "end": 674.04,
+      "en": "What?",
+      "zh": "什么？"
+    },
+    {
+      "id": 215,
+      "start": 674.04,
+      "end": 675.04,
+      "en": "I got offered a new job.",
+      "zh": "我找到一份新工作。"
+    },
+    {
+      "id": 216,
+      "start": 680.46,
+      "end": 681.08,
+      "en": "All right, great.",
+      "zh": "好，太好了。"
+    },
+    {
+      "id": 217,
+      "start": 681.32,
+      "end": 691.88,
+      "en": "So this topic of filing for Chapter 11 is actually very recent, very common now because recently one of the biggest companies filed for Chapter 11 in the US.",
+      "zh": "所以第 11 章的这个主题实际上是最近的，现在很常见，因为最近在美国申请第 11 章的最大公司之一。"
+    },
+    {
+      "id": 218,
+      "start": 691.96,
+      "end": 692.56,
+      "en": "Yeah, that's right.",
+      "zh": "对，没错。"
+    },
+    {
+      "id": 219,
+      "start": 692.96,
+      "end": 699.24,
+      "en": "But I often get confused by the phrase to file for Chapter 11 versus to file for Chapter 13.",
+      "zh": "但我经常对第 11 章提交的短语感到困惑，而不是提交第 13 章。"
+    },
+    {
+      "id": 220,
+      "start": 699.7,
+      "end": 705.84,
+      "en": "All right, so in the United States, the bankruptcy law has different chapters or different sections, right?",
+      "zh": "好吧，所以在美国，破产法有不同的章节或不同的部分，对吧？"
+    },
+    {
+      "id": 221,
+      "start": 706.88,
+      "end": 717.36,
+      "en": "And Chapter 11 is basically for companies that run out of money, that go bankrupt, so they have to declare themselves in bankruptcy and so they file for Chapter 11.",
+      "zh": "第 11 章基本上适用于没钱、破产的公司，因此他们必须宣布自己破产，因此他们申请第 11 章。"
+    },
+    {
+      "id": 222,
+      "start": 717.36,
+      "end": 719.08,
+      "en": "But what about Chapter 13?",
+      "zh": "但是第 13 章呢？"
+    },
+    {
+      "id": 223,
+      "start": 719.08,
+      "end": 721.8,
+      "en": "Chapter 13 is for people.",
+      "zh": "第 13 章是给人的。"
+    },
+    {
+      "id": 224,
+      "start": 721.8,
+      "end": 729.16,
+      "en": "So people who have large debts, maybe with the car company or the telephone company and they can't pay, they file for Chapter 13.",
+      "zh": "所以那些负债累累的人，可能是在汽车公司或电话公司，他们无法付款，他们申请了第 13 章。"
+    },
+    {
+      "id": 225,
+      "start": 729.16,
+      "end": 732.12,
+      "en": "They say, hey, I don't have money, I can't pay.",
+      "zh": "他们说，嘿，我没有钱，我付不起。"
+    },
+    {
+      "id": 226,
+      "start": 732.12,
+      "end": 735.16,
+      "en": "So I guess here it's kind of a metaphor again.",
+      "zh": "所以我想这里又是一个隐喻。"
+    },
+    {
+      "id": 227,
+      "start": 737.4,
+      "end": 740.41,
+      "en": "This phrase to file for Chapter 11 or Chapter 13 meaning bankruptcy.",
+      "zh": "该短语为第 11 章或第 13 章申请破产。"
+    },
+    {
+      "id": 228,
+      "start": 741.48,
+      "end": 745.76,
+      "en": "And people will say personally that they're filing for Chapter 11.",
+      "zh": "人们会亲自说他们正在申请第 11 章。"
+    },
+    {
+      "id": 229,
+      "start": 745.76,
+      "end": 746.76,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 230,
+      "start": 746.76,
+      "end": 753.07,
+      "en": "Right, so this is an interesting situation because if you file for bankruptcy in some countries, you can go to jail.",
+      "zh": "对，所以这是一个有趣的情况，因为如果你在某些国家申请破产，你可能会进监狱。"
+    },
+    {
+      "id": 231,
+      "start": 753.48,
+      "end": 756.56,
+      "en": "I read recently about this happening in Dubai actually.",
+      "zh": "我最近读到了迪拜发生的这件事。"
+    },
+    {
+      "id": 232,
+      "start": 756.56,
+      "end": 756.77,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 233,
+      "start": 757.56,
+      "end": 759.28,
+      "en": "So there is prison for debts.",
+      "zh": "所以有债务监狱。"
+    },
+    {
+      "id": 234,
+      "start": 759.29,
+      "end": 761.69,
+      "en": "In the US, you don't go to prison for debts.",
+      "zh": "在美国，你不会因为债务而入狱。"
+    },
+    {
+      "id": 235,
+      "start": 762.04,
+      "end": 765.64,
+      "en": "But what about in your country's listeners?",
+      "zh": "但是在贵国的听众中呢？"
+    },
+    {
+      "id": 236,
+      "start": 765.64,
+      "end": 767.44,
+      "en": "What happens when you go into debt in your country?",
+      "zh": "当你在你的国家负债时会发生什么？"
+    },
+    {
+      "id": 237,
+      "start": 767.44,
+      "end": 769.47,
+      "en": "Or what happens when a company goes into bankruptcy?",
+      "zh": "或者当一家公司破产时会发生什么？"
+    },
+    {
+      "id": 238,
+      "start": 770.64,
+      "end": 771.64,
+      "en": "Let us know.",
+      "zh": "告诉我们吧。"
+    },
+    {
+      "id": 239,
+      "start": 771.64,
+      "end": 772.64,
+      "en": "Come to our website, EnglishPod.com.",
+      "zh": "来我们的网站，englishpod.com。"
+    },
+    {
+      "id": 240,
+      "start": 773.29,
+      "end": 774.31,
+      "en": "Leave your questions and comments.",
+      "zh": "留下您的问题和意见。"
+    },
+    {
+      "id": 241,
+      "start": 774.68,
+      "end": 777.09,
+      "en": "And of course, Erica and I are always there to help you out.",
+      "zh": "当然，埃里卡和我总是在那里帮助你。"
+    },
+    {
+      "id": 242,
+      "start": 777.64,
+      "end": 780.09,
+      "en": "Thanks for downloading you guys and until next time, goodbye.",
+      "zh": "感谢您下载你们，直到下一次，再见。"
+    },
+    {
+      "id": 243,
+      "start": 780.16,
+      "end": 781.16,
+      "en": "Bye.",
+      "zh": "再见。"
+    },
+    {
+      "id": 244,
+      "start": 781.16,
+      "end": 789.812,
+      "en": "Bye-bye.",
+      "zh": "拜拜。"
+    }
+  ],
+  "dialog": {
+    "start": 54.25,
+    "end": 137.44,
+    "segmentIds": [
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44
+    ]
+  }
+}

@@ -1,0 +1,1474 @@
+{
+  "version": 1,
+  "id": 194,
+  "number": "0194",
+  "title": "The Weekend - Stir Fry",
+  "audio": "mp3/194. The Weekend - Stir Fry.mp3",
+  "duration": 678.2955625,
+  "segments": [
+    {
+      "id": 1,
+      "start": 2.77,
+      "end": 5.03,
+      "en": "Hello everyone and welcome back to EnglishPod.",
+      "zh": "大家好，欢迎回到 EnglishPod。"
+    },
+    {
+      "id": 2,
+      "start": 5.28,
+      "end": 6.28,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 6.28,
+      "end": 10.59,
+      "en": "My name is Catherine and today we're talking about one of our favorite subjects, food.",
+      "zh": "我的名字是凯瑟琳，今天我们谈论的是我们最喜欢的主题之一，食物。"
+    },
+    {
+      "id": 4,
+      "start": 11.4,
+      "end": 16.83,
+      "en": "That's right and on this occasion we are going to talk about Chinese food, specifically stir fry.",
+      "zh": "没错，这次我们将谈论中国菜，特别是炒菜。"
+    },
+    {
+      "id": 5,
+      "start": 17.56,
+      "end": 28.01,
+      "en": "This is a common dish in America and all over the world thanks to the many Cantonese people who came over from Hong Kong or southern China and brought these delicious foods to our cities.",
+      "zh": "这在美国和世界各地都是一道常见的菜肴，这要归功于许多来自香港或中国南方的广东人，将这些美味的食物带到了我们的城市。"
+    },
+    {
+      "id": 6,
+      "start": 28.53,
+      "end": 31.39,
+      "en": "So this is a very popular dish you'll be learning more about.",
+      "zh": "所以这是一道非常受欢迎的菜，你会更多地了解。"
+    },
+    {
+      "id": 7,
+      "start": 31.72,
+      "end": 36.84,
+      "en": "So let's jump right in and listen to today's dialogue and don't be worried if you don't understand everything.",
+      "zh": "因此，让我们立即进入并聆听今天的对话，如果您不了解所有内容，请不要担心。"
+    },
+    {
+      "id": 8,
+      "start": 37.08,
+      "end": 37.98,
+      "en": "We'll be back in a moment.",
+      "zh": "我们马上回来。"
+    },
+    {
+      "id": 9,
+      "start": 45.35,
+      "end": 48.37,
+      "en": "Oh man, I had the best supper last night.",
+      "zh": "哦，伙计，我昨晚吃了最好的晚餐。"
+    },
+    {
+      "id": 10,
+      "start": 48.73,
+      "end": 50.99,
+      "en": "My wife made a stir fry and it was amazing.",
+      "zh": "我的妻子做了一个炒菜，这太棒了。"
+    },
+    {
+      "id": 11,
+      "start": 52.11,
+      "end": 53.27,
+      "en": "I love stir fry.",
+      "zh": "我喜欢炒菜。"
+    },
+    {
+      "id": 12,
+      "start": 54.05,
+      "end": 60.73,
+      "en": "Crispy bite-sized vegetables covered in a mixture of soy sauce and oyster sauce, wilted greens and fresh bean sprouts.",
+      "zh": "切成一口大小的脆嫩蔬菜，裹上酱油和蚝油调成的酱汁，再配上炒软的青菜和新鲜豆芽。"
+    },
+    {
+      "id": 13,
+      "start": 61.11,
+      "end": 62.55,
+      "en": "Throw in some onion and garlic and ginger.",
+      "zh": "加入一些洋葱、大蒜和生姜。"
+    },
+    {
+      "id": 14,
+      "start": 63.44,
+      "end": 65.84,
+      "en": "Mmm, it's almost lunch time.",
+      "zh": "嗯，快到午餐时间了。"
+    },
+    {
+      "id": 15,
+      "start": 65.84,
+      "end": 67.88,
+      "en": "I would die for a plate of stir fry right now.",
+      "zh": "现在能来一盘炒菜就太好了，我馋死了。"
+    },
+    {
+      "id": 16,
+      "start": 68.32,
+      "end": 70.06,
+      "en": "Well, you can keep the vegetables.",
+      "zh": "那蔬菜都留给你吃吧。"
+    },
+    {
+      "id": 17,
+      "start": 70.44,
+      "end": 71.02,
+      "en": "I'll take the meat.",
+      "zh": "我要肉。"
+    },
+    {
+      "id": 18,
+      "start": 71.68,
+      "end": 77.32,
+      "en": "The stir fry my wife made was really hearty with chunks of beef and slivers of bell peppers and onion.",
+      "zh": "我老婆做的炒菜很实在，里面有大块牛肉，还有切成细条的甜椒和洋葱。"
+    },
+    {
+      "id": 19,
+      "start": 77.86,
+      "end": 78.86,
+      "en": "What?",
+      "zh": "什么？"
+    },
+    {
+      "id": 20,
+      "start": 78.86,
+      "end": 79.62,
+      "en": "You call that a stir fry?",
+      "zh": "你称之为炒菜？"
+    },
+    {
+      "id": 21,
+      "start": 80.36,
+      "end": 81.08,
+      "en": "More meat than vegetables?",
+      "zh": "肉比蔬菜还多？"
+    },
+    {
+      "id": 22,
+      "start": 82.04,
+      "end": 85.6,
+      "en": "It's the worst insult you could throw at a Chinese stir fry.",
+      "zh": "这是你可以对中国炒菜造成的最严重的侮辱。"
+    },
+    {
+      "id": 23,
+      "start": 85.6,
+      "end": 87.88,
+      "en": "What a disgrace to the wok she fried it in.",
+      "zh": "简直对不起她用的那口炒锅。"
+    },
+    {
+      "id": 24,
+      "start": 88.6,
+      "end": 91.18,
+      "en": "What you had is equivalent to a fajita without the wrap.",
+      "zh": "你吃的那东西，就是墨西哥铁板肉少了张饼而已。"
+    },
+    {
+      "id": 25,
+      "start": 95.88,
+      "end": 96.49,
+      "en": "Alright we're back.",
+      "zh": "好了，我们回来了。"
+    },
+    {
+      "id": 26,
+      "start": 96.88,
+      "end": 100.41,
+      "en": "So you probably heard a lot of different vegetables and ingredients in this dish.",
+      "zh": "所以你可能在这道菜中听到了很多不同的蔬菜和食材。"
+    },
+    {
+      "id": 27,
+      "start": 100.68,
+      "end": 103.53,
+      "en": "So why don't we take a look at some of those now in Language Takeaway.",
+      "zh": "那么我们为什么不看看现在语言外卖中的一些。"
+    },
+    {
+      "id": 28,
+      "start": 105.85,
+      "end": 107.13,
+      "en": "Language Takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 29,
+      "start": 107.73,
+      "end": 116.15,
+      "en": "The first two phrases that we have actually, they're not words, they're phrases, are the names of sauces that are very, very important to Chinese food.",
+      "zh": "我们实际上拥有的前两个短语不是单词，而是短语，是对中国菜非常非常重要的酱汁的名称。"
+    },
+    {
+      "id": 30,
+      "start": 116.28,
+      "end": 117.84,
+      "en": "The first one is soy sauce.",
+      "zh": "第一种是酱油。"
+    },
+    {
+      "id": 31,
+      "start": 117.84,
+      "end": 119.05,
+      "en": "Okay, soy sauce.",
+      "zh": "好吧，酱油。"
+    },
+    {
+      "id": 32,
+      "start": 119.25,
+      "end": 121.83,
+      "en": "And it's this black sauce, right?",
+      "zh": "而这就是黑酱，对吧？"
+    },
+    {
+      "id": 33,
+      "start": 122.41,
+      "end": 123.08,
+      "en": "Very salty.",
+      "zh": "很咸。"
+    },
+    {
+      "id": 34,
+      "start": 123.08,
+      "end": 123.39,
+      "en": "Very salty.",
+      "zh": "很咸。"
+    },
+    {
+      "id": 35,
+      "start": 124.08,
+      "end": 125.08,
+      "en": "And it's made from?",
+      "zh": "它是由什么制成的？"
+    },
+    {
+      "id": 36,
+      "start": 125.49,
+      "end": 126.05,
+      "en": "Soy beans.",
+      "zh": "大豆。"
+    },
+    {
+      "id": 37,
+      "start": 126.08,
+      "end": 126.45,
+      "en": "Soy beans, okay.",
+      "zh": "大豆，好吧。"
+    },
+    {
+      "id": 38,
+      "start": 127.08,
+      "end": 128.08,
+      "en": "Soy.",
+      "zh": "大豆。"
+    },
+    {
+      "id": 39,
+      "start": 128.08,
+      "end": 131.45,
+      "en": "So soy is a bean, a vegetable product.",
+      "zh": "所以大豆是豆子，一种蔬菜产品。"
+    },
+    {
+      "id": 40,
+      "start": 131.88,
+      "end": 136.23,
+      "en": "But soy sauce is a thin, black, salty sauce.",
+      "zh": "但酱油是一种稀薄的、黑色的、咸味的酱汁。"
+    },
+    {
+      "id": 41,
+      "start": 137.15,
+      "end": 141.13,
+      "en": "Okay, and it's very, very common to use it with Chinese dishes especially.",
+      "zh": "好的，特别是在中国菜中使用它是非常非常常见的。"
+    },
+    {
+      "id": 42,
+      "start": 141.37,
+      "end": 143.03,
+      "en": "It's very related.",
+      "zh": "这是非常相关的。"
+    },
+    {
+      "id": 43,
+      "start": 143.43,
+      "end": 144.99,
+      "en": "You usually have sushi with soy sauce.",
+      "zh": "你通常有酱油寿司。"
+    },
+    {
+      "id": 44,
+      "start": 145.29,
+      "end": 147.23,
+      "en": "Exactly, so Japanese food uses a lot of this too.",
+      "zh": "没错，所以日本料理也使用了很多。"
+    },
+    {
+      "id": 45,
+      "start": 148.04,
+      "end": 153.44,
+      "en": "Alright and the other sauce that's not very common in our countries is oyster sauce.",
+      "zh": "好吧，在我们国家不太常见的其他酱汁是牡蛎酱。"
+    },
+    {
+      "id": 46,
+      "start": 153.44,
+      "end": 156.91,
+      "en": "Okay, an oyster is an animal that lives in the sea.",
+      "zh": "好吧，牡蛎是一种生活在海里的动物。"
+    },
+    {
+      "id": 47,
+      "start": 157.56,
+      "end": 161.07,
+      "en": "It lives in a shell and we often eat oysters as a dish.",
+      "zh": "它生活在贝壳中，我们经常将牡蛎作为菜肴食用。"
+    },
+    {
+      "id": 48,
+      "start": 161.4,
+      "end": 173.16,
+      "en": "But oyster sauce is stinky, thick, dark sauce that is very popular in Southeast Asian, so Vietnamese food as well, and Chinese food.",
+      "zh": "但牡蛎酱是东南亚很受欢迎的臭、浓稠、深色的酱汁，所以越南菜和中国菜也很受欢迎。"
+    },
+    {
+      "id": 49,
+      "start": 173.16,
+      "end": 175.75,
+      "en": "Okay, so it's part of the ingredients of Chinese food.",
+      "zh": "好吧，所以它是中餐成分的一部分。"
+    },
+    {
+      "id": 50,
+      "start": 176.08,
+      "end": 176.75,
+      "en": "It's really good.",
+      "zh": "真的很不错。"
+    },
+    {
+      "id": 51,
+      "start": 177.08,
+      "end": 178.08,
+      "en": "It smells terrible.",
+      "zh": "它闻起来很糟糕。"
+    },
+    {
+      "id": 52,
+      "start": 178.08,
+      "end": 179.08,
+      "en": "It's stinky.",
+      "zh": "它很臭。"
+    },
+    {
+      "id": 53,
+      "start": 179.08,
+      "end": 183.04,
+      "en": "But when you mix it with food and you cook it, it smells, it adds a very, very good flavor.",
+      "zh": "但是当你将它与食物混合并烹饪时，它会闻起来，它会增加一种非常非常好的味道。"
+    },
+    {
+      "id": 54,
+      "start": 183.04,
+      "end": 183.19,
+      "en": "Absolutely.",
+      "zh": "当然。"
+    },
+    {
+      "id": 55,
+      "start": 184.04,
+      "end": 185.72,
+      "en": "Alright, so that's the sauces.",
+      "zh": "好吧，这就是酱汁。"
+    },
+    {
+      "id": 56,
+      "start": 185.72,
+      "end": 190.61,
+      "en": "Now apart from sauces, we have some vegetables and some of those are bean sprouts.",
+      "zh": "现在除了酱汁，我们还有一些蔬菜，其中一些是豆芽。"
+    },
+    {
+      "id": 57,
+      "start": 191.44,
+      "end": 194.91,
+      "en": "Bean sprouts are very common vegetables, especially in Asian food.",
+      "zh": "豆芽是非常常见的蔬菜，尤其是在亚洲食品中。"
+    },
+    {
+      "id": 58,
+      "start": 195.32,
+      "end": 196.88,
+      "en": "So you see a lot of these.",
+      "zh": "所以你看到很多这些。"
+    },
+    {
+      "id": 59,
+      "start": 196.88,
+      "end": 204.43,
+      "en": "They're usually almost white, almost clear and they're crunchy and they have a little green part at the end.",
+      "zh": "它们通常几乎是白色的，几乎是透明的，它们很脆，最后有一点绿色的部分。"
+    },
+    {
+      "id": 60,
+      "start": 204.63,
+      "end": 209.05,
+      "en": "Right, so they're like little straws with a little green point at the end.",
+      "zh": "是的，所以它们就像小吸管，末端有一个小绿点。"
+    },
+    {
+      "id": 61,
+      "start": 209.96,
+      "end": 214.0,
+      "en": "So usually those go into your dish at the very end because they cook quickly.",
+      "zh": "所以通常那些最后会进入你的菜，因为它们煮得很快。"
+    },
+    {
+      "id": 62,
+      "start": 214.0,
+      "end": 215.0,
+      "en": "Bean sprouts.",
+      "zh": "豆芽。"
+    },
+    {
+      "id": 63,
+      "start": 215.0,
+      "end": 216.0,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 64,
+      "start": 216.0,
+      "end": 222.1,
+      "en": "Now if you're cooking stir-fry, what you need is the correct tools and the main tool that you need is a wok.",
+      "zh": "现在，如果您正在烹饪炒菜，您需要的是正确的工具，您需要的主要工具是炒锅。"
+    },
+    {
+      "id": 65,
+      "start": 222.96,
+      "end": 223.96,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 66,
+      "start": 223.96,
+      "end": 227.51,
+      "en": "So a wok is actually a word that we take from, I think, Cantonese.",
+      "zh": "所以我认为，炒锅实际上是我们从粤语中获取的一个词。"
+    },
+    {
+      "id": 67,
+      "start": 227.61,
+      "end": 228.25,
+      "en": "I'm not positive.",
+      "zh": "我不积极。"
+    },
+    {
+      "id": 68,
+      "start": 228.56,
+      "end": 230.08,
+      "en": "I don't speak Cantonese.",
+      "zh": "我不会说粤语。"
+    },
+    {
+      "id": 69,
+      "start": 230.08,
+      "end": 231.73,
+      "en": "But in English, we normally say frying pan.",
+      "zh": "但在英语中，我们通常说煎锅。"
+    },
+    {
+      "id": 70,
+      "start": 232.36,
+      "end": 236.85,
+      "en": "But this is a special Asian frying pan that's very, very large and very thin.",
+      "zh": "但这是一个特殊的亚洲煎锅，非常、非常大而且非常薄。"
+    },
+    {
+      "id": 71,
+      "start": 237.16,
+      "end": 239.88,
+      "en": "So foods cook quickly in a wok.",
+      "zh": "所以食物在锅里煮得很快。"
+    },
+    {
+      "id": 72,
+      "start": 239.88,
+      "end": 240.88,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 73,
+      "start": 240.88,
+      "end": 244.79,
+      "en": "It's not like the other pans where it has a big flat part.",
+      "zh": "它不像其他平底锅，它有一个大平坦的部分。"
+    },
+    {
+      "id": 74,
+      "start": 245.12,
+      "end": 246.87,
+      "en": "It's very, very round all over.",
+      "zh": "它非常非常圆。"
+    },
+    {
+      "id": 75,
+      "start": 247.13,
+      "end": 247.43,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 76,
+      "start": 248.32,
+      "end": 251.6,
+      "en": "It's almost like a bowl that sits on your stove and you cook quickly in a wok.",
+      "zh": "它几乎就像一个放在炉子上的碗，你在锅里快速煮熟。"
+    },
+    {
+      "id": 77,
+      "start": 251.6,
+      "end": 252.6,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 78,
+      "start": 252.6,
+      "end": 253.6,
+      "en": "So that's a wok.",
+      "zh": "所以这是一个炒锅。"
+    },
+    {
+      "id": 79,
+      "start": 253.89,
+      "end": 257.35,
+      "en": "Well, the guy compared his stir-fry to a fajita.",
+      "zh": "好吧，这家伙将他的炒菜比作法吉塔。"
+    },
+    {
+      "id": 80,
+      "start": 257.8,
+      "end": 259.69,
+      "en": "Now fajita, that's not Chinese.",
+      "zh": "现在法吉塔，那不是中国人。"
+    },
+    {
+      "id": 81,
+      "start": 260.31,
+      "end": 260.99,
+      "en": "And it's not English.",
+      "zh": "而且它不是英语。"
+    },
+    {
+      "id": 82,
+      "start": 261.35,
+      "end": 261.69,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 83,
+      "start": 262.23,
+      "end": 263.25,
+      "en": "Well, it is English now.",
+      "zh": "嗯，现在是英语。"
+    },
+    {
+      "id": 84,
+      "start": 263.43,
+      "end": 266.05,
+      "en": "It's actually the name of a food from Latin America.",
+      "zh": "它实际上是来自拉丁美洲的食物的名称。"
+    },
+    {
+      "id": 85,
+      "start": 267.07,
+      "end": 272.13,
+      "en": "So South America and Mexico and Central America, I think more Mexican than anything.",
+      "zh": "所以南美洲、墨西哥和中美洲，我认为墨西哥比什么都重要。"
+    },
+    {
+      "id": 86,
+      "start": 273.0,
+      "end": 280.08,
+      "en": "And it's like slivers of meat, so thin strips of meat and vegetables that you eat in a tortilla bread.",
+      "zh": "它就像一小块肉，薄薄的肉和蔬菜条，你在玉米饼面包中吃。"
+    },
+    {
+      "id": 87,
+      "start": 280.08,
+      "end": 281.08,
+      "en": "Almost.",
+      "zh": "差一点。"
+    },
+    {
+      "id": 88,
+      "start": 281.08,
+      "end": 285.56,
+      "en": "A tortilla is like very thin corn or flour pancake.",
+      "zh": "玉米饼就像非常薄的玉米或面粉煎饼。"
+    },
+    {
+      "id": 89,
+      "start": 285.56,
+      "end": 285.95,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 90,
+      "start": 286.56,
+      "end": 287.51,
+      "en": "So that's a fajita.",
+      "zh": "所以这是法吉塔。"
+    },
+    {
+      "id": 91,
+      "start": 287.56,
+      "end": 296.04,
+      "en": "It's kind of, you've probably seen it, a fajita or maybe what's commonly known as well as a burrito, which actually is also an American invention.",
+      "zh": "它有点，你可能已经看过它，一种法吉塔，或者可能是通常所说的墨西哥卷饼，这实际上也是美国的发明。"
+    },
+    {
+      "id": 92,
+      "start": 296.09,
+      "end": 298.35,
+      "en": "I don't think that exists in Mexico.",
+      "zh": "我不认为这存在于墨西哥。"
+    },
+    {
+      "id": 93,
+      "start": 298.89,
+      "end": 300.25,
+      "en": "No, but they are delicious.",
+      "zh": "不，但它们很好吃。"
+    },
+    {
+      "id": 94,
+      "start": 300.56,
+      "end": 304.2,
+      "en": "I think the word is Tex-Mex, Texas Mexican.",
+      "zh": "我认为这个词是德克萨斯州墨西哥的德克萨斯州墨西哥。"
+    },
+    {
+      "id": 95,
+      "start": 304.2,
+      "end": 305.2,
+      "en": "So Tex-Mex.",
+      "zh": "所以德克萨斯州。"
+    },
+    {
+      "id": 96,
+      "start": 305.2,
+      "end": 305.51,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 97,
+      "start": 306.2,
+      "end": 307.88,
+      "en": "So that's what we have for you on Language Takeaway.",
+      "zh": "这就是我们为您提供的语言外卖。"
+    },
+    {
+      "id": 98,
+      "start": 308.24,
+      "end": 314.96,
+      "en": "Why don't we go back to our dialogue, listen to it again, and we'll be back shortly.",
+      "zh": "我们为什么不回到我们的对话，再听一次，我们很快就会回来。"
+    },
+    {
+      "id": 99,
+      "start": 317.47,
+      "end": 320.37,
+      "en": "Oh man, I had the best supper last night.",
+      "zh": "哦，伙计，我昨晚吃了最好的晚餐。"
+    },
+    {
+      "id": 100,
+      "start": 320.82,
+      "end": 323.11,
+      "en": "My wife made a stir-fry and it was amazing.",
+      "zh": "我的妻子做了一个炒菜，这太棒了。"
+    },
+    {
+      "id": 101,
+      "start": 324.0,
+      "end": 334.53,
+      "en": "I love stir-fry, crispy bite-sized vegetables covered in a mixture of soy sauce and oyster sauce, wilted greens and fresh bean sprouts, throw in some onion and garlic and ginger.",
+      "zh": "我喜欢炒，脆脆的一口大小的蔬菜，上面覆盖着酱油和牡蛎酱、枯萎的蔬菜和新鲜的豆芽，加入一些洋葱、大蒜和生姜。"
+    },
+    {
+      "id": 102,
+      "start": 336.4,
+      "end": 337.76,
+      "en": "It's almost lunchtime.",
+      "zh": "快到午餐时间了。"
+    },
+    {
+      "id": 103,
+      "start": 337.76,
+      "end": 339.89,
+      "en": "I would die for a plate of stir-fry right now.",
+      "zh": "我现在会为一盘炒菜而死。"
+    },
+    {
+      "id": 104,
+      "start": 340.32,
+      "end": 341.9,
+      "en": "Well, you can keep the vegetables.",
+      "zh": "好吧，你可以保留蔬菜。"
+    },
+    {
+      "id": 105,
+      "start": 342.44,
+      "end": 342.98,
+      "en": "I'll take the meat.",
+      "zh": "我要肉。"
+    },
+    {
+      "id": 106,
+      "start": 343.6,
+      "end": 349.3,
+      "en": "The stir-fry my wife made was really hearty with chunks of beef and slivers of bell peppers and onion.",
+      "zh": "我妻子做的炒菜真的很丰盛，里面有大块牛肉和甜椒和洋葱的碎片。"
+    },
+    {
+      "id": 107,
+      "start": 349.8,
+      "end": 350.8,
+      "en": "What?",
+      "zh": "什么？"
+    },
+    {
+      "id": 108,
+      "start": 350.8,
+      "end": 352.32,
+      "en": "You call that a stir-fry?",
+      "zh": "你称之为炒菜？"
+    },
+    {
+      "id": 109,
+      "start": 352.32,
+      "end": 353.06,
+      "en": "More meat than vegetables?",
+      "zh": "肉比蔬菜还多？"
+    },
+    {
+      "id": 110,
+      "start": 353.96,
+      "end": 357.6,
+      "en": "That's the worst insult you could throw at a Chinese stir-fry.",
+      "zh": "这是你可以对中国炒菜造成的最严重的侮辱。"
+    },
+    {
+      "id": 111,
+      "start": 357.6,
+      "end": 359.9,
+      "en": "What a disgrace to the wok she fried it in.",
+      "zh": "简直对不起她用的那口炒锅。"
+    },
+    {
+      "id": 112,
+      "start": 360.48,
+      "end": 363.16,
+      "en": "What you had is equivalent to a fajita without the wrap.",
+      "zh": "你吃的那东西，就是墨西哥铁板肉少了张饼而已。"
+    },
+    {
+      "id": 113,
+      "start": 367.04,
+      "end": 368.04,
+      "en": "All right, we're back.",
+      "zh": "好了，我们回来了。"
+    },
+    {
+      "id": 114,
+      "start": 368.04,
+      "end": 376.36,
+      "en": "So now I think we should take a look at some of those phrases that were used in this dialogue in Fluency Builder.",
+      "zh": "所以现在我认为我们应该看看在 Fluency Builder 中的对话中使用的一些短语。"
+    },
+    {
+      "id": 115,
+      "start": 376.36,
+      "end": 377.98,
+      "en": "Fluency Builder.",
+      "zh": "流利表达。"
+    },
+    {
+      "id": 116,
+      "start": 377.98,
+      "end": 384.01,
+      "en": "The first phrase we have in Fluency Builder is a phrase that you will hear very often when you watch cooking shows.",
+      "zh": "我们在 Fluency Builder 中的第一个短语是您在观看烹饪节目时经常听到的短语。"
+    },
+    {
+      "id": 117,
+      "start": 384.6,
+      "end": 389.11,
+      "en": "So this is a term we say throw in, to throw in.",
+      "zh": "所以这是我们说的一个术语，扔进去。"
+    },
+    {
+      "id": 118,
+      "start": 389.37,
+      "end": 393.23,
+      "en": "Okay, so throw in some vegetables or throw in some onion and garlic.",
+      "zh": "好吧，那就扔一些蔬菜或加入一些洋葱和大蒜。"
+    },
+    {
+      "id": 119,
+      "start": 394.16,
+      "end": 397.29,
+      "en": "And that means to just put it into the pan, put it into the pot.",
+      "zh": "这意味着只需将其放入锅中，将其放入锅中。"
+    },
+    {
+      "id": 120,
+      "start": 397.68,
+      "end": 401.07,
+      "en": "That's right, but it's very general or casual or easy.",
+      "zh": "没错，但它非常笼统、随意或容易。"
+    },
+    {
+      "id": 121,
+      "start": 401.78,
+      "end": 403.24,
+      "en": "You just add some.",
+      "zh": "你只是添加一些。"
+    },
+    {
+      "id": 122,
+      "start": 403.24,
+      "end": 408.67,
+      "en": "If you want to be specific, we can say, please add one cup chopped onion.",
+      "zh": "如果你想具体，我们可以说，请加一杯切碎的洋葱。"
+    },
+    {
+      "id": 123,
+      "start": 409.92,
+      "end": 410.67,
+      "en": "One cup of chopped onion.",
+      "zh": "一杯切碎的洋葱。"
+    },
+    {
+      "id": 124,
+      "start": 410.92,
+      "end": 413.45,
+      "en": "But here, throw in just means add casually.",
+      "zh": "但是在这里，投入只是意味着随便添加。"
+    },
+    {
+      "id": 125,
+      "start": 413.69,
+      "end": 414.81,
+      "en": "Okay, add some onion.",
+      "zh": "好吧，加点葱。"
+    },
+    {
+      "id": 126,
+      "start": 415.26,
+      "end": 422.46,
+      "en": "So we throw in all these ingredients and it sounds so delicious that the guy says, I would die for a plate of stir-fry right about now.",
+      "zh": "所以我们加入了所有这些成分，听起来很美味，那家伙说，我现在会为一盘炒菜而死。"
+    },
+    {
+      "id": 127,
+      "start": 423.72,
+      "end": 425.8,
+      "en": "So that means he wants some stir-fry.",
+      "zh": "所以这意味着他想要一些炒菜。"
+    },
+    {
+      "id": 128,
+      "start": 425.82,
+      "end": 427.3,
+      "en": "I would die for is a good thing.",
+      "zh": "我会为之而死是一件好事。"
+    },
+    {
+      "id": 129,
+      "start": 428.16,
+      "end": 429.64,
+      "en": "It's a way to say I really want something.",
+      "zh": "这是一种说我真的想要一些东西的方式。"
+    },
+    {
+      "id": 130,
+      "start": 429.64,
+      "end": 430.04,
+      "en": "It's an exaggeration.",
+      "zh": "这是夸张。"
+    },
+    {
+      "id": 131,
+      "start": 430.64,
+      "end": 435.12,
+      "en": "It's not like you would actually die for it or you are dying to eat it.",
+      "zh": "这不像你真的会为它而死，或者你渴望吃它。"
+    },
+    {
+      "id": 132,
+      "start": 435.12,
+      "end": 438.84,
+      "en": "It's just that it's an exaggeration means that you really, really want it.",
+      "zh": "只是夸张意味着你真的，真的想要它。"
+    },
+    {
+      "id": 133,
+      "start": 438.84,
+      "end": 440.19,
+      "en": "I would die for a new car.",
+      "zh": "我会为一辆新车而死。"
+    },
+    {
+      "id": 134,
+      "start": 440.6,
+      "end": 442.93,
+      "en": "My car is old and it never really works.",
+      "zh": "我的车很旧，它从来没有真正工作过。"
+    },
+    {
+      "id": 135,
+      "start": 443.0,
+      "end": 445.76,
+      "en": "All right, so you really want a new car.",
+      "zh": "好吧，所以你真的想要一辆新车。"
+    },
+    {
+      "id": 136,
+      "start": 445.76,
+      "end": 456.68,
+      "en": "Okay, and well, the guy obviously didn't really like what he was talking about and how he cooked this stir-fry and he said, what a disgrace to the wok she fried it in.",
+      "zh": "好吧，好吧，这家伙显然不太喜欢他在说什么，也不喜欢他是如何炒的，他说，她把它炸进去是多么的耻辱。"
+    },
+    {
+      "id": 137,
+      "start": 457.43,
+      "end": 460.59,
+      "en": "Okay, this is a way to say that something is bad.",
+      "zh": "好吧，这是一种说某事不好的方式。"
+    },
+    {
+      "id": 138,
+      "start": 461.24,
+      "end": 462.21,
+      "en": "It's embarrassing.",
+      "zh": "这很尴尬。"
+    },
+    {
+      "id": 139,
+      "start": 463.64,
+      "end": 471.61,
+      "en": "So we can say that this food is a disgrace to Chinese food because Chinese food is one way but this doesn't even look like Chinese food.",
+      "zh": "所以我们可以说这种食物是中国菜的耻辱，因为中国菜是一种方式，但这甚至看起来不像中国菜。"
+    },
+    {
+      "id": 140,
+      "start": 471.61,
+      "end": 473.73,
+      "en": "So a disgrace, a disgrace.",
+      "zh": "所以是耻辱，是耻辱。"
+    },
+    {
+      "id": 141,
+      "start": 474.11,
+      "end": 477.91,
+      "en": "So the word disgrace, it means that something is bad.",
+      "zh": "所以耻辱这个词，它意味着有些东西是坏的。"
+    },
+    {
+      "id": 142,
+      "start": 478.49,
+      "end": 479.87,
+      "en": "Or embarrassing to something else.",
+      "zh": "或尴尬到别的东西。"
+    },
+    {
+      "id": 143,
+      "start": 480.5,
+      "end": 484.12,
+      "en": "So a parent can say you're a disgrace to this family.",
+      "zh": "所以父母可以说你是这个家庭的耻辱。"
+    },
+    {
+      "id": 144,
+      "start": 484.94,
+      "end": 490.42,
+      "en": "That means this family has a good reputation but what you did, what you do, these are bad things.",
+      "zh": "这意味着这个家庭有很好的声誉，但你做了什么，你做了什么，这些都是坏事。"
+    },
+    {
+      "id": 145,
+      "start": 490.42,
+      "end": 491.34,
+      "en": "They make us look bad.",
+      "zh": "他们让我们看起来很糟糕。"
+    },
+    {
+      "id": 146,
+      "start": 491.42,
+      "end": 492.42,
+      "en": "They are embarrassing.",
+      "zh": "他们很尴尬。"
+    },
+    {
+      "id": 147,
+      "start": 492.42,
+      "end": 494.5,
+      "en": "They are embarrassing to us.",
+      "zh": "他们让我们感到尴尬。"
+    },
+    {
+      "id": 148,
+      "start": 494.5,
+      "end": 496.02,
+      "en": "So it's a very strong phrase.",
+      "zh": "所以这是一个非常有力的短语。"
+    },
+    {
+      "id": 149,
+      "start": 496.2,
+      "end": 496.98,
+      "en": "This is a disgrace.",
+      "zh": "这是一种耻辱。"
+    },
+    {
+      "id": 150,
+      "start": 497.64,
+      "end": 499.48,
+      "en": "Okay, a disgrace, very good.",
+      "zh": "好吧，耻辱，非常好。"
+    },
+    {
+      "id": 151,
+      "start": 499.6,
+      "end": 504.32,
+      "en": "A strong phrase and you can use it if you ever want to talk about someone or something in this way.",
+      "zh": "一个强有力的短语，如果你想以这种方式谈论某人或某事，你可以使用它。"
+    },
+    {
+      "id": 152,
+      "start": 504.32,
+      "end": 505.52,
+      "en": "But remember, it is pretty strong.",
+      "zh": "但请记住，它非常强大。"
+    },
+    {
+      "id": 153,
+      "start": 505.9,
+      "end": 508.36,
+      "en": "If you say somebody is a disgrace, it's pretty insulting.",
+      "zh": "如果你说某人是耻辱，那是相当侮辱性的。"
+    },
+    {
+      "id": 154,
+      "start": 508.68,
+      "end": 509.12,
+      "en": "It's hurtful.",
+      "zh": "很伤人。"
+    },
+    {
+      "id": 155,
+      "start": 509.36,
+      "end": 513.58,
+      "en": "Okay, so why don't we listen to our dialogue for one last time and we'll be back.",
+      "zh": "好吧，我们为什么不最后一次听我们的对话，我们会回来的。"
+    },
+    {
+      "id": 156,
+      "start": 521.28,
+      "end": 524.24,
+      "en": "Oh man, I had the best supper last night.",
+      "zh": "哦，伙计，我昨晚吃了最好的晚餐。"
+    },
+    {
+      "id": 157,
+      "start": 524.58,
+      "end": 526.9,
+      "en": "My wife made a stir fry and it was amazing.",
+      "zh": "我的妻子做了一个炒菜，这太棒了。"
+    },
+    {
+      "id": 158,
+      "start": 527.9,
+      "end": 529.16,
+      "en": "I love stir fry.",
+      "zh": "我喜欢炒菜。"
+    },
+    {
+      "id": 159,
+      "start": 529.72,
+      "end": 534.0,
+      "en": "Crispy bite-sized vegetables covered in a mixture of soy sauce and oyster sauce.",
+      "zh": "脆皮一口大小的蔬菜，上面覆盖着酱油和牡蛎酱的混合物。"
+    },
+    {
+      "id": 160,
+      "start": 534.58,
+      "end": 536.56,
+      "en": "Wilted greens and fresh bean sprouts.",
+      "zh": "枯萎的蔬菜和新鲜的豆芽。"
+    },
+    {
+      "id": 161,
+      "start": 536.94,
+      "end": 538.4,
+      "en": "Throw in some onion and garlic and ginger.",
+      "zh": "加入一些洋葱、大蒜和生姜。"
+    },
+    {
+      "id": 162,
+      "start": 539.16,
+      "end": 541.68,
+      "en": "Mmm, it's almost lunch time.",
+      "zh": "嗯，快到午餐时间了。"
+    },
+    {
+      "id": 163,
+      "start": 541.68,
+      "end": 543.72,
+      "en": "I would die for a plate of stir fry right now.",
+      "zh": "现在能来一盘炒菜就太好了，我馋死了。"
+    },
+    {
+      "id": 164,
+      "start": 544.2,
+      "end": 545.86,
+      "en": "Well, you can keep the vegetables.",
+      "zh": "好吧，你可以保留蔬菜。"
+    },
+    {
+      "id": 165,
+      "start": 546.28,
+      "end": 546.88,
+      "en": "I'll take the meat.",
+      "zh": "我要肉。"
+    },
+    {
+      "id": 166,
+      "start": 547.52,
+      "end": 553.18,
+      "en": "The stir fry my wife made was really hearty with chunks of beef and slivers of bell peppers and onion.",
+      "zh": "我老婆做的炒菜很实在，里面有大块牛肉，还有切成细条的甜椒和洋葱。"
+    },
+    {
+      "id": 167,
+      "start": 553.72,
+      "end": 554.72,
+      "en": "Meat?",
+      "zh": "肉？"
+    },
+    {
+      "id": 168,
+      "start": 554.72,
+      "end": 555.46,
+      "en": "You call that a stir fry?",
+      "zh": "你称之为炒菜？"
+    },
+    {
+      "id": 169,
+      "start": 556.24,
+      "end": 556.92,
+      "en": "More meat than vegetables?",
+      "zh": "肉比蔬菜还多？"
+    },
+    {
+      "id": 170,
+      "start": 557.92,
+      "end": 560.68,
+      "en": "That's the worst insult you could throw at a Chinese stir fry.",
+      "zh": "这是你可以对中国炒菜造成的最严重的侮辱。"
+    },
+    {
+      "id": 171,
+      "start": 561.44,
+      "end": 563.72,
+      "en": "What a disgrace to the wok she fried it in.",
+      "zh": "简直对不起她用的那口炒锅。"
+    },
+    {
+      "id": 172,
+      "start": 564.44,
+      "end": 567.02,
+      "en": "What you had is equivalent to a fajita without the wrap.",
+      "zh": "你吃的那东西，就是墨西哥铁板肉少了张饼而已。"
+    },
+    {
+      "id": 173,
+      "start": 574.2,
+      "end": 582.24,
+      "en": "Alright so, talking about Chinese food, there are a lot of American inventions around Chinese food as well, not only Mexican food.",
+      "zh": "好吧，说到中国菜，还有很多关于中国菜的美国发明，不仅仅是墨西哥菜。"
+    },
+    {
+      "id": 174,
+      "start": 582.24,
+      "end": 586.0,
+      "en": "For example, it's very popular this dish, chopped suey.",
+      "zh": "例如，这道菜很受欢迎，切碎的苏伊。"
+    },
+    {
+      "id": 175,
+      "start": 586.0,
+      "end": 587.6,
+      "en": "That's right, chopped suey.",
+      "zh": "没错，切碎的苏伊。"
+    },
+    {
+      "id": 176,
+      "start": 587.6,
+      "end": 597.29,
+      "en": "And I think I read somewhere that chopped suey is actually, might have been a Cantonese dish that came from all of the leftovers and garbage in the kitchen.",
+      "zh": "而且我想我在某处读到，切碎的 Suey 实际上可能是一道粤菜，它来自厨房里所有的剩菜和垃圾。"
+    },
+    {
+      "id": 177,
+      "start": 597.55,
+      "end": 600.43,
+      "en": "You would just fry it together and it was a cheap, easy meal.",
+      "zh": "你会把它一起煎，这是一顿便宜、简单的饭菜。"
+    },
+    {
+      "id": 178,
+      "start": 600.84,
+      "end": 602.04,
+      "en": "So, chopped suey.",
+      "zh": "所以，切碎的苏伊。"
+    },
+    {
+      "id": 179,
+      "start": 602.19,
+      "end": 604.73,
+      "en": "It's kind of like an English, it's like a pigeon English.",
+      "zh": "它有点像英语，就像鸽子英语。"
+    },
+    {
+      "id": 180,
+      "start": 605.55,
+      "end": 607.99,
+      "en": "And well, this dish is basically that, right?",
+      "zh": "好吧，这道菜基本上就是这样，对吧？"
+    },
+    {
+      "id": 181,
+      "start": 608.2,
+      "end": 613.24,
+      "en": "It's just a lot of meat chunks mixed with some vegetables and you have some chopped suey.",
+      "zh": "它只是很多肉块和一些蔬菜混合，你有一些切碎的小苏。"
+    },
+    {
+      "id": 182,
+      "start": 613.24,
+      "end": 614.24,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 183,
+      "start": 614.24,
+      "end": 616.04,
+      "en": "And there's also this other thing that's very common.",
+      "zh": "还有其他很常见的事情。"
+    },
+    {
+      "id": 184,
+      "start": 616.04,
+      "end": 617.04,
+      "en": "People think about fortune cookies.",
+      "zh": "人们想到幸运饼干。"
+    },
+    {
+      "id": 185,
+      "start": 617.36,
+      "end": 621.04,
+      "en": "You think of Chinese restaurants and Chinese food, you think of fortune cookies.",
+      "zh": "你想到中国餐馆和中国菜，你想到幸运饼干。"
+    },
+    {
+      "id": 186,
+      "start": 621.04,
+      "end": 623.12,
+      "en": "That's right, but they don't have fortune cookies in China.",
+      "zh": "没错，但他们在中国没有幸运饼干。"
+    },
+    {
+      "id": 187,
+      "start": 623.28,
+      "end": 624.28,
+      "en": "No, they don't.",
+      "zh": "不，并不是。"
+    },
+    {
+      "id": 188,
+      "start": 624.28,
+      "end": 625.28,
+      "en": "One of my biggest disappointments.",
+      "zh": "我最大的失望之一。"
+    },
+    {
+      "id": 189,
+      "start": 626.16,
+      "end": 630.28,
+      "en": "So fortune cookie is a small cookie with a message inside.",
+      "zh": "所以幸运饼干是一个小饼干，里面有一条消息。"
+    },
+    {
+      "id": 190,
+      "start": 630.28,
+      "end": 632.44,
+      "en": "So you have a piece of paper.",
+      "zh": "所以你有一张纸。"
+    },
+    {
+      "id": 191,
+      "start": 632.44,
+      "end": 633.56,
+      "en": "Be careful when you're eating these.",
+      "zh": "吃这些的时候要小心。"
+    },
+    {
+      "id": 192,
+      "start": 633.76,
+      "end": 635.32,
+      "en": "You don't want to eat the paper.",
+      "zh": "你不想吃纸。"
+    },
+    {
+      "id": 193,
+      "start": 635.32,
+      "end": 640.52,
+      "en": "But the paper sometimes says very strange things like, you will have a terrific number seven.",
+      "zh": "但是报纸有时会说非常奇怪的事情，比如，你会有一个了不起的第七个。"
+    },
+    {
+      "id": 194,
+      "start": 640.82,
+      "end": 641.9,
+      "en": "Right, or something like that.",
+      "zh": "对，或者类似的东西。"
+    },
+    {
+      "id": 195,
+      "start": 642.32,
+      "end": 643.46,
+      "en": "So that's why they're fortune cookies.",
+      "zh": "所以这就是为什么它们是幸运饼干。"
+    },
+    {
+      "id": 196,
+      "start": 643.68,
+      "end": 645.68,
+      "en": "They usually talk about your future or what's going to happen.",
+      "zh": "他们通常会谈论您的未来或将要发生的事情。"
+    },
+    {
+      "id": 197,
+      "start": 645.68,
+      "end": 646.2,
+      "en": "Beware of whales.",
+      "zh": "小心鲸鱼。"
+    },
+    {
+      "id": 198,
+      "start": 648.8,
+      "end": 651.84,
+      "en": "But that's also an American invention that doesn't exist in China.",
+      "zh": "但这也是美国不存在的美国发明。"
+    },
+    {
+      "id": 199,
+      "start": 651.84,
+      "end": 653.3,
+      "en": "It doesn't really come from China, right?",
+      "zh": "它不是真正来自中国的，对吧？"
+    },
+    {
+      "id": 200,
+      "start": 653.52,
+      "end": 653.66,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 201,
+      "start": 655.08,
+      "end": 660.38,
+      "en": "So if you have any other information about food, we're always glad to hear it.",
+      "zh": "因此，如果您有任何其他有关食物的信息，我们总是很高兴听到它。"
+    },
+    {
+      "id": 202,
+      "start": 660.64,
+      "end": 661.42,
+      "en": "Because we're always hungry.",
+      "zh": "因为我们总是饿。"
+    },
+    {
+      "id": 203,
+      "start": 662.28,
+      "end": 664.98,
+      "en": "Or if you have a favorite Chinese food, please let us know.",
+      "zh": "或者如果你有最喜欢的中国菜，请告诉我们。"
+    },
+    {
+      "id": 204,
+      "start": 665.36,
+      "end": 666.88,
+      "en": "Our website is EnglishPod.com.",
+      "zh": "我们的网站是 EnglishPod.com。"
+    },
+    {
+      "id": 205,
+      "start": 666.88,
+      "end": 669.54,
+      "en": "We can't wait to hear from you and we will talk to you next time.",
+      "zh": "我们迫不及待地想收到您的来信，下次我们将与您交谈。"
+    },
+    {
+      "id": 206,
+      "start": 669.88,
+      "end": 670.88,
+      "en": "All right, bye.",
+      "zh": "好，再见。"
+    }
+  ],
+  "dialog": {
+    "start": 45.35,
+    "end": 91.18,
+    "segmentIds": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+    ]
+  }
+}

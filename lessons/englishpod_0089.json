@@ -1,0 +1,2187 @@
+{
+  "version": 1,
+  "id": 89,
+  "number": "0089",
+  "title": "Daily Life - At The Airport",
+  "audio": "mp3/89. Daily Life - At The Airport.mp3",
+  "duration": 812.826125,
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.94,
+      "end": 3.0,
+      "en": "Hello English learners.",
+      "zh": "各位英语学习者，大家好。"
+    },
+    {
+      "id": 2,
+      "start": 3.36,
+      "end": 4.64,
+      "en": "Welcome back to EnglishPod.",
+      "zh": "欢迎回到 EnglishPod。"
+    },
+    {
+      "id": 3,
+      "start": 4.64,
+      "end": 5.16,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 4,
+      "start": 5.5,
+      "end": 6.3,
+      "en": "And I'm Erica.",
+      "zh": "我叫 Erica。"
+    },
+    {
+      "id": 5,
+      "start": 6.98,
+      "end": 8.96,
+      "en": "And today we're going to be taking you to the airport.",
+      "zh": "今天我们要带你去机场。"
+    },
+    {
+      "id": 6,
+      "start": 9.56,
+      "end": 9.92,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 7,
+      "start": 10.26,
+      "end": 16.06,
+      "en": "We're going to listen as a man checks in at the airport and deals with his luggage.",
+      "zh": "我们要听一个人在机场办理登机手续并处理他的行李。"
+    },
+    {
+      "id": 8,
+      "start": 16.8,
+      "end": 17.26,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 9,
+      "start": 18.12,
+      "end": 23.2,
+      "en": "So we're going to be looking at a lot of great stuff that can help you the next time you are at the airport at the check-in counter.",
+      "zh": "所以我们将看到很多很棒的东西，可以在您下次在机场值机柜台时为您提供帮助。"
+    },
+    {
+      "id": 10,
+      "start": 24.04,
+      "end": 28.76,
+      "en": "So why don't we take a look at one word that we're going to preview today in Vocabulary Preview.",
+      "zh": "那么我们为什么不看看我们今天将在词汇预览中预览的一个词。"
+    },
+    {
+      "id": 11,
+      "start": 30.1,
+      "end": 30.9,
+      "en": "Vocabulary Preview.",
+      "zh": "词汇预习。"
+    },
+    {
+      "id": 12,
+      "start": 32.54,
+      "end": 35.65,
+      "en": "We're going to hear this guy say, I'd like to check three pieces.",
+      "zh": "我们要听这家伙说，我想检查三块。"
+    },
+    {
+      "id": 13,
+      "start": 36.48,
+      "end": 39.8,
+      "en": "He's going to check three pieces of what?",
+      "zh": "他要检查三块什么？"
+    },
+    {
+      "id": 14,
+      "start": 39.8,
+      "end": 40.77,
+      "en": "Pieces of luggage.",
+      "zh": "行李件。"
+    },
+    {
+      "id": 15,
+      "start": 41.66,
+      "end": 45.01,
+      "en": "So when we talk about luggage, we can say pieces of luggage.",
+      "zh": "所以当我们谈论行李时，我们可以说行李块。"
+    },
+    {
+      "id": 16,
+      "start": 45.56,
+      "end": 46.56,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 17,
+      "start": 46.56,
+      "end": 48.49,
+      "en": "Luggage is a non-count noun.",
+      "zh": "行李是非计数名词。"
+    },
+    {
+      "id": 18,
+      "start": 48.94,
+      "end": 52.18,
+      "en": "So you can't say one luggage, two luggages, three luggages.",
+      "zh": "所以你不能说一件行李，两件行李，三件行李。"
+    },
+    {
+      "id": 19,
+      "start": 52.18,
+      "end": 52.33,
+      "en": "That's wrong.",
+      "zh": "那不对。"
+    },
+    {
+      "id": 20,
+      "start": 52.67,
+      "end": 52.87,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 21,
+      "start": 53.04,
+      "end": 56.0,
+      "en": "So we use pieces of luggage.",
+      "zh": "所以我们使用行李块。"
+    },
+    {
+      "id": 22,
+      "start": 56.48,
+      "end": 57.48,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 23,
+      "start": 57.48,
+      "end": 58.67,
+      "en": "So three pieces of luggage.",
+      "zh": "于是三件行李。"
+    },
+    {
+      "id": 24,
+      "start": 60.08,
+      "end": 60.24,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 25,
+      "start": 61.08,
+      "end": 62.64,
+      "en": "Let's listen to our dialogue for the first time.",
+      "zh": "让我们第一次听我们的对话。"
+    },
+    {
+      "id": 26,
+      "start": 62.84,
+      "end": 68.0,
+      "en": "We're going to see what happens with this guy at the airport and with his pieces of luggage.",
+      "zh": "我们将看看这个人在机场和他的行李中会发生什么。"
+    },
+    {
+      "id": 27,
+      "start": 76.84,
+      "end": 77.68,
+      "en": "Next please.",
+      "zh": "下一位，请。"
+    },
+    {
+      "id": 28,
+      "start": 78.49,
+      "end": 79.33,
+      "en": "Hello, sir.",
+      "zh": "您好，先生。"
+    },
+    {
+      "id": 29,
+      "start": 79.55,
+      "end": 80.69,
+      "en": "May I see your passport, please?",
+      "zh": "我可以看你的护照吗?"
+    },
+    {
+      "id": 30,
+      "start": 81.01,
+      "end": 81.25,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 31,
+      "start": 82.05,
+      "end": 82.59,
+      "en": "Here you go.",
+      "zh": "给你。"
+    },
+    {
+      "id": 32,
+      "start": 83.01,
+      "end": 84.71,
+      "en": "Will you be checking any bags today?",
+      "zh": "您今天有行李要托运吗？"
+    },
+    {
+      "id": 33,
+      "start": 85.09,
+      "end": 85.35,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 34,
+      "start": 85.65,
+      "end": 86.61,
+      "en": "I'd like to check three pieces.",
+      "zh": "我想托运三件。"
+    },
+    {
+      "id": 35,
+      "start": 87.34,
+      "end": 88.38,
+      "en": "I'm sorry, sir.",
+      "zh": "对不起，先生。"
+    },
+    {
+      "id": 36,
+      "start": 89.12,
+      "end": 95.48,
+      "en": "Airline policy only allows two pieces of checked luggage at 20 kilograms each plus one piece of carry-on luggage.",
+      "zh": "航空公司规定每人只能托运两件行李，每件不超过二十公斤，另可携带一件随身行李。"
+    },
+    {
+      "id": 37,
+      "start": 96.16,
+      "end": 98.24,
+      "en": "I will have to charge you extra for the additional suitcase.",
+      "zh": "第三件行李要额外收费。"
+    },
+    {
+      "id": 38,
+      "start": 98.8,
+      "end": 99.8,
+      "en": "What?",
+      "zh": "什么？"
+    },
+    {
+      "id": 39,
+      "start": 99.8,
+      "end": 100.8,
+      "en": "Why?",
+      "zh": "为什么？"
+    },
+    {
+      "id": 40,
+      "start": 100.8,
+      "end": 101.62,
+      "en": "I'm taking an intercontinental flight.",
+      "zh": "我坐的可是洲际航班。"
+    },
+    {
+      "id": 41,
+      "start": 101.92,
+      "end": 104.32,
+      "en": "I'm flying 16,000 kilometers.",
+      "zh": "我要飞行一万六千公里。"
+    },
+    {
+      "id": 42,
+      "start": 104.32,
+      "end": 107.52,
+      "en": "How am I supposed to take only two 20 kilo bags?",
+      "zh": "只带两件二十公斤的行李怎么够？"
+    },
+    {
+      "id": 43,
+      "start": 107.52,
+      "end": 108.52,
+      "en": "That's absurd.",
+      "zh": "太荒唐了。"
+    },
+    {
+      "id": 44,
+      "start": 108.52,
+      "end": 109.51,
+      "en": "I'm sorry, sir.",
+      "zh": "对不起，先生。"
+    },
+    {
+      "id": 45,
+      "start": 109.73,
+      "end": 110.51,
+      "en": "There's nothing I can do.",
+      "zh": "我也无能为力。"
+    },
+    {
+      "id": 46,
+      "start": 111.03,
+      "end": 113.79,
+      "en": "You cannot board the flight with that large bag either.",
+      "zh": "那个大包也不能带上飞机。"
+    },
+    {
+      "id": 47,
+      "start": 114.4,
+      "end": 118.4,
+      "en": "Carry-on bags must fit in the overhead compartment or under your seat.",
+      "zh": "随身行李必须放得进头顶行李舱或前排座椅下方。"
+    },
+    {
+      "id": 48,
+      "start": 118.4,
+      "end": 120.13,
+      "en": "That bag is clearly too big.",
+      "zh": "那个包显然太大了。"
+    },
+    {
+      "id": 49,
+      "start": 120.76,
+      "end": 121.07,
+      "en": "Now I see.",
+      "zh": "我明白了。"
+    },
+    {
+      "id": 50,
+      "start": 121.76,
+      "end": 123.47,
+      "en": "You charge next to nothing for an international ticket.",
+      "zh": "国际机票卖得几乎不赚钱。"
+    },
+    {
+      "id": 51,
+      "start": 123.64,
+      "end": 127.88,
+      "en": "When it comes to charging for any other small thing, you charge an arm and a leg.",
+      "zh": "其他一点小事却收费贵得离谱。"
+    },
+    {
+      "id": 52,
+      "start": 127.88,
+      "end": 130.67,
+      "en": "So tell me, miss, how much will I have to pay for all of this?",
+      "zh": "小姐，你说吧，这些一共要付多少钱？"
+    },
+    {
+      "id": 53,
+      "start": 131.67,
+      "end": 132.49,
+      "en": "Let's see.",
+      "zh": "我们来看看。"
+    },
+    {
+      "id": 54,
+      "start": 132.92,
+      "end": 133.92,
+      "en": "$625 US dollars.",
+      "zh": "625美元。"
+    },
+    {
+      "id": 55,
+      "start": 133.92,
+      "end": 145.2,
+      "en": "That's more than my round-trip ticket!",
+      "zh": "这都比我的往返机票还贵！"
+    },
+    {
+      "id": 56,
+      "start": 145.2,
+      "end": 147.62,
+      "en": "All right, well, that's a whole lot of money, isn't it?",
+      "zh": "好吧，那是一大笔钱，不是吗？"
+    },
+    {
+      "id": 57,
+      "start": 148.0,
+      "end": 150.16,
+      "en": "Well, I think it's a very common situation.",
+      "zh": "嗯，我认为这是一个非常常见的情况。"
+    },
+    {
+      "id": 58,
+      "start": 150.56,
+      "end": 154.68,
+      "en": "I'm sure many of our listeners can relate to this situation.",
+      "zh": "我相信我们的许多听众都可以与这种情况联系起来。"
+    },
+    {
+      "id": 59,
+      "start": 154.68,
+      "end": 156.72,
+      "en": "Overweight charges are pretty expensive.",
+      "zh": "超重费用相当昂贵。"
+    },
+    {
+      "id": 60,
+      "start": 157.48,
+      "end": 157.74,
+      "en": "Very high.",
+      "zh": "非常高。"
+    },
+    {
+      "id": 61,
+      "start": 158.48,
+      "end": 159.24,
+      "en": "I know from personal experience.",
+      "zh": "我从个人经验中知道。"
+    },
+    {
+      "id": 62,
+      "start": 160.0,
+      "end": 161.34,
+      "en": "But that's not what we want to talk about now.",
+      "zh": "但这不是我们现在想谈的。"
+    },
+    {
+      "id": 63,
+      "start": 161.5,
+      "end": 165.56,
+      "en": "We want to talk about some really useful vocabulary in Language Takeaway.",
+      "zh": "我们想在语言外卖中讨论一些非常有用的词汇。"
+    },
+    {
+      "id": 64,
+      "start": 168.28,
+      "end": 168.66,
+      "en": "Language Takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 65,
+      "start": 169.28,
+      "end": 173.96,
+      "en": "All right, on Language Takeaway today, we have five words.",
+      "zh": "好吧，关于今天的语言外卖，我们有五个词。"
+    },
+    {
+      "id": 66,
+      "start": 173.96,
+      "end": 175.3,
+      "en": "So why don't we start with the first one?",
+      "zh": "那么我们为什么不从第一个开始呢？"
+    },
+    {
+      "id": 67,
+      "start": 175.88,
+      "end": 179.28,
+      "en": "So the woman asked, will you be checking any bags today?",
+      "zh": "所以女人问，你今天会检查任何行李吗？"
+    },
+    {
+      "id": 68,
+      "start": 180.0,
+      "end": 182.34,
+      "en": "Will you be checking any bags today?",
+      "zh": "您今天有行李要托运吗？"
+    },
+    {
+      "id": 69,
+      "start": 182.68,
+      "end": 183.94,
+      "en": "To check bags.",
+      "zh": "检查行李。"
+    },
+    {
+      "id": 70,
+      "start": 184.0,
+      "end": 185.0,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 71,
+      "start": 185.0,
+      "end": 186.1,
+      "en": "So the verb to check.",
+      "zh": "所以动词要检查。"
+    },
+    {
+      "id": 72,
+      "start": 186.84,
+      "end": 192.25,
+      "en": "It means to give your bags to the airline, to register them.",
+      "zh": "这意味着将您的行李交给航空公司，进行注册。"
+    },
+    {
+      "id": 73,
+      "start": 192.72,
+      "end": 194.89,
+      "en": "Okay, so that's what happens with your luggage.",
+      "zh": "好的，这就是你的行李发生的事情。"
+    },
+    {
+      "id": 74,
+      "start": 195.28,
+      "end": 198.65,
+      "en": "You check them, so basically they become responsible for your bags.",
+      "zh": "你检查它们，所以基本上它们对你的包负责。"
+    },
+    {
+      "id": 75,
+      "start": 198.96,
+      "end": 199.96,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 76,
+      "start": 199.96,
+      "end": 202.68,
+      "en": "It reminds me of checking in to a hotel.",
+      "zh": "它让我想起了入住酒店。"
+    },
+    {
+      "id": 77,
+      "start": 202.73,
+      "end": 203.63,
+      "en": "Right, very similar.",
+      "zh": "对，非常相似。"
+    },
+    {
+      "id": 78,
+      "start": 203.83,
+      "end": 206.29,
+      "en": "When you go to a hotel, you register at the hotel.",
+      "zh": "当你去酒店时，你在酒店注册。"
+    },
+    {
+      "id": 79,
+      "start": 206.53,
+      "end": 207.33,
+      "en": "You check in.",
+      "zh": "你入住。"
+    },
+    {
+      "id": 80,
+      "start": 207.85,
+      "end": 210.29,
+      "en": "In this case, you just check your luggage.",
+      "zh": "在这种情况下，您只需检查您的行李。"
+    },
+    {
+      "id": 81,
+      "start": 210.48,
+      "end": 211.64,
+      "en": "You don't check in your luggage.",
+      "zh": "你不托运行李。"
+    },
+    {
+      "id": 82,
+      "start": 211.67,
+      "end": 211.81,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 83,
+      "start": 212.19,
+      "end": 213.57,
+      "en": "Okay, so check luggage.",
+      "zh": "好的，所以托运行李。"
+    },
+    {
+      "id": 84,
+      "start": 214.4,
+      "end": 219.66,
+      "en": "So he wanted to check three pieces of luggage, and he also had carry-on luggage.",
+      "zh": "所以他想检查三件行李，还带着随身行李。"
+    },
+    {
+      "id": 85,
+      "start": 220.4,
+      "end": 221.84,
+      "en": "Carry-on luggage.",
+      "zh": "随身行李。"
+    },
+    {
+      "id": 86,
+      "start": 221.84,
+      "end": 223.2,
+      "en": "Carry-on.",
+      "zh": "随身携带。"
+    },
+    {
+      "id": 87,
+      "start": 223.2,
+      "end": 225.19,
+      "en": "So carry-on luggage, it's pretty simple.",
+      "zh": "所以随身携带的行李，很简单。"
+    },
+    {
+      "id": 88,
+      "start": 225.6,
+      "end": 227.31,
+      "en": "That's right, you carry it on yourself.",
+      "zh": "没错，你自己承担。"
+    },
+    {
+      "id": 89,
+      "start": 227.68,
+      "end": 229.89,
+      "en": "Exactly, you carry it on to the plane.",
+      "zh": "没错，你把它带到飞机上。"
+    },
+    {
+      "id": 90,
+      "start": 230.32,
+      "end": 233.15,
+      "en": "Now we can talk about carry-on luggage, right?",
+      "zh": "现在我们可以谈谈随身行李，对吧？"
+    },
+    {
+      "id": 91,
+      "start": 234.2,
+      "end": 235.68,
+      "en": "Or carry-on bag.",
+      "zh": "或随身携带的包。"
+    },
+    {
+      "id": 92,
+      "start": 235.68,
+      "end": 237.96,
+      "en": "Right, or a carry-on suitcase.",
+      "zh": "对，或随身携带的手提箱。"
+    },
+    {
+      "id": 93,
+      "start": 237.96,
+      "end": 240.64,
+      "en": "A very small suitcase that can fit under your seat.",
+      "zh": "一个非常小的手提箱，可以放在您的座位下。"
+    },
+    {
+      "id": 94,
+      "start": 240.64,
+      "end": 241.64,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 95,
+      "start": 241.64,
+      "end": 243.56,
+      "en": "All right, so carry-on luggage.",
+      "zh": "好吧，随身携带行李。"
+    },
+    {
+      "id": 96,
+      "start": 243.56,
+      "end": 248.52,
+      "en": "Now he was traveling on an intercontinental flight.",
+      "zh": "现在他乘坐洲际航班旅行。"
+    },
+    {
+      "id": 97,
+      "start": 248.52,
+      "end": 249.05,
+      "en": "Intercontinental.",
+      "zh": "洲际。"
+    },
+    {
+      "id": 98,
+      "start": 249.99,
+      "end": 250.63,
+      "en": "Intercontinental.",
+      "zh": "洲际。"
+    },
+    {
+      "id": 99,
+      "start": 251.6,
+      "end": 252.75,
+      "en": "We have two words there, inter.",
+      "zh": "我们有两个词，国际米兰。"
+    },
+    {
+      "id": 100,
+      "start": 253.99,
+      "end": 254.19,
+      "en": "Between.",
+      "zh": "之间。"
+    },
+    {
+      "id": 101,
+      "start": 254.6,
+      "end": 254.73,
+      "en": "Between, right?",
+      "zh": "之间，对吧？"
+    },
+    {
+      "id": 102,
+      "start": 255.6,
+      "end": 256.6,
+      "en": "And continental.",
+      "zh": "和大陆。"
+    },
+    {
+      "id": 103,
+      "start": 256.6,
+      "end": 257.85,
+      "en": "So this sounds like continent.",
+      "zh": "所以这听起来像大陆。"
+    },
+    {
+      "id": 104,
+      "start": 258.55,
+      "end": 264.13,
+      "en": "Okay, so he's traveling maybe from Asia to North America.",
+      "zh": "好吧，所以他可能从亚洲到北美旅行。"
+    },
+    {
+      "id": 105,
+      "start": 264.55,
+      "end": 265.81,
+      "en": "Okay, intercontinental.",
+      "zh": "好吧，洲际。"
+    },
+    {
+      "id": 106,
+      "start": 266.53,
+      "end": 269.37,
+      "en": "He's trying to board this intercontinental flight.",
+      "zh": "他正试图登上这次洲际飞行。"
+    },
+    {
+      "id": 107,
+      "start": 269.93,
+      "end": 272.07,
+      "en": "So to board a flight.",
+      "zh": "所以要登机。"
+    },
+    {
+      "id": 108,
+      "start": 272.88,
+      "end": 273.49,
+      "en": "Board a plane.",
+      "zh": "登机。"
+    },
+    {
+      "id": 109,
+      "start": 274.4,
+      "end": 274.81,
+      "en": "Board a train.",
+      "zh": "登上火车。"
+    },
+    {
+      "id": 110,
+      "start": 275.4,
+      "end": 277.6,
+      "en": "All right, so basically it means to...",
+      "zh": "好吧，所以基本上它的意思是..."
+    },
+    {
+      "id": 111,
+      "start": 277.6,
+      "end": 278.01,
+      "en": "To get on.",
+      "zh": "上车。"
+    },
+    {
+      "id": 112,
+      "start": 278.6,
+      "end": 279.6,
+      "en": "To get on.",
+      "zh": "上车。"
+    },
+    {
+      "id": 113,
+      "start": 279.6,
+      "end": 280.6,
+      "en": "To get on a vehicle.",
+      "zh": "上车。"
+    },
+    {
+      "id": 114,
+      "start": 280.6,
+      "end": 283.47,
+      "en": "Okay, so I can say board the ship, board the car.",
+      "zh": "好吧，我可以说登船，上车。"
+    },
+    {
+      "id": 115,
+      "start": 284.36,
+      "end": 285.36,
+      "en": "No.",
+      "zh": "不。"
+    },
+    {
+      "id": 116,
+      "start": 285.36,
+      "end": 286.36,
+      "en": "No?",
+      "zh": "不是吗？"
+    },
+    {
+      "id": 117,
+      "start": 286.36,
+      "end": 287.36,
+      "en": "No.",
+      "zh": "不。"
+    },
+    {
+      "id": 118,
+      "start": 287.36,
+      "end": 288.36,
+      "en": "But board the train.",
+      "zh": "但是登上火车。"
+    },
+    {
+      "id": 119,
+      "start": 288.36,
+      "end": 288.49,
+      "en": "Board the train.",
+      "zh": "登上火车。"
+    },
+    {
+      "id": 120,
+      "start": 289.36,
+      "end": 290.36,
+      "en": "Board the bus.",
+      "zh": "登上巴士。"
+    },
+    {
+      "id": 121,
+      "start": 290.36,
+      "end": 291.96,
+      "en": "All aboard.",
+      "zh": "全部上船。"
+    },
+    {
+      "id": 122,
+      "start": 291.96,
+      "end": 295.03,
+      "en": "That's right, that's why in movies you see that somebody will yell all aboard.",
+      "zh": "没错，这就是为什么在电影中你看到有人会在船上大喊大叫的原因。"
+    },
+    {
+      "id": 123,
+      "start": 295.56,
+      "end": 296.56,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 124,
+      "start": 296.56,
+      "end": 297.56,
+      "en": "In the train station, right?",
+      "zh": "在火车站，对吧？"
+    },
+    {
+      "id": 125,
+      "start": 297.56,
+      "end": 298.56,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 126,
+      "start": 298.56,
+      "end": 299.56,
+      "en": "All aboard.",
+      "zh": "全部上船。"
+    },
+    {
+      "id": 127,
+      "start": 299.56,
+      "end": 306.44,
+      "en": "Okay, so board a vehicle and our last phrase for today, overhead compartment.",
+      "zh": "好的，所以登上一辆车和我们今天的最后一句话，头顶隔间。"
+    },
+    {
+      "id": 128,
+      "start": 306.44,
+      "end": 306.99,
+      "en": "Overhead compartment.",
+      "zh": "架空隔间。"
+    },
+    {
+      "id": 129,
+      "start": 308.48,
+      "end": 308.73,
+      "en": "Overhead compartment.",
+      "zh": "架空隔间。"
+    },
+    {
+      "id": 130,
+      "start": 309.63,
+      "end": 312.13,
+      "en": "All right, let's break this phrase down.",
+      "zh": "好吧，让我们分解这句话。"
+    },
+    {
+      "id": 131,
+      "start": 312.91,
+      "end": 313.51,
+      "en": "Overhead.",
+      "zh": "开销。"
+    },
+    {
+      "id": 132,
+      "start": 314.15,
+      "end": 316.37,
+      "en": "So that's on top of your head, right?",
+      "zh": "所以这在你的头顶，对吧？"
+    },
+    {
+      "id": 133,
+      "start": 316.55,
+      "end": 316.75,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 134,
+      "start": 317.57,
+      "end": 317.83,
+      "en": "Above you.",
+      "zh": "在你之上。"
+    },
+    {
+      "id": 135,
+      "start": 318.21,
+      "end": 323.39,
+      "en": "Yeah, and the compartment is a place where you can put something and store it.",
+      "zh": "是的，隔间是你可以放东西和存放的地方。"
+    },
+    {
+      "id": 136,
+      "start": 323.98,
+      "end": 324.64,
+      "en": "Kind of like a box.",
+      "zh": "有点像一个盒子。"
+    },
+    {
+      "id": 137,
+      "start": 325.1,
+      "end": 325.32,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 138,
+      "start": 326.12,
+      "end": 327.12,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 139,
+      "start": 327.12,
+      "end": 332.38,
+      "en": "So overhead compartment, that big box where you put your bags and your purse or whatever on an airplane.",
+      "zh": "所以头顶隔间，你把包和钱包或任何东西放在飞机上的那个大盒子。"
+    },
+    {
+      "id": 140,
+      "start": 332.88,
+      "end": 333.88,
+      "en": "Mm-hmm.",
+      "zh": "嗯。"
+    },
+    {
+      "id": 141,
+      "start": 333.88,
+      "end": 336.16,
+      "en": "Very similar to, for example, an overhead projector.",
+      "zh": "非常类似于，例如，投影仪。"
+    },
+    {
+      "id": 142,
+      "start": 336.5,
+      "end": 341.72,
+      "en": "Right, so that's the machine that puts an image or a picture on a wall, like sometimes you see them in meetings.",
+      "zh": "是的，这就是将图像或图片放在墙上的机器，就像有时您在会议中看到它们一样。"
+    },
+    {
+      "id": 143,
+      "start": 342.22,
+      "end": 346.32,
+      "en": "Right, so because the image is over your head and it's big, it's called an overhead projector.",
+      "zh": "对，所以因为图像在您的头上并且很大，因此称为投影仪。"
+    },
+    {
+      "id": 144,
+      "start": 346.71,
+      "end": 348.69,
+      "en": "Okay, so some great language.",
+      "zh": "好吧，那么一些很棒的语言。"
+    },
+    {
+      "id": 145,
+      "start": 349.16,
+      "end": 354.52,
+      "en": "Why don't we hear it again in context by listening to the dialogue for the second time?",
+      "zh": "为什么我们不通过第二次聆听对话在上下文中再次听到它？"
+    },
+    {
+      "id": 146,
+      "start": 359.91,
+      "end": 360.93,
+      "en": "Next, please.",
+      "zh": "下一位，请。"
+    },
+    {
+      "id": 147,
+      "start": 361.77,
+      "end": 362.77,
+      "en": "Hello, sir.",
+      "zh": "您好，先生。"
+    },
+    {
+      "id": 148,
+      "start": 363.45,
+      "end": 365.31,
+      "en": "May I see your passport, please?",
+      "zh": "我可以看你的护照吗?"
+    },
+    {
+      "id": 149,
+      "start": 365.81,
+      "end": 367.17,
+      "en": "Yes, here you go.",
+      "zh": "是的，给你。"
+    },
+    {
+      "id": 150,
+      "start": 367.78,
+      "end": 370.36,
+      "en": "Will you be checking any bags today?",
+      "zh": "您今天有行李要托运吗？"
+    },
+    {
+      "id": 151,
+      "start": 370.86,
+      "end": 373.82,
+      "en": "Yes, I'd like to check three pieces.",
+      "zh": "是的，我想检查三块。"
+    },
+    {
+      "id": 152,
+      "start": 374.61,
+      "end": 375.91,
+      "en": "I'm sorry, sir.",
+      "zh": "对不起，先生。"
+    },
+    {
+      "id": 153,
+      "start": 376.88,
+      "end": 384.85,
+      "en": "Airline policy allows only two pieces of checked luggage at 20 kilograms each, plus one piece of carry-on luggage.",
+      "zh": "航空公司政策只允许两件托运行李，每件 20 公斤，外加一件随身行李。"
+    },
+    {
+      "id": 154,
+      "start": 385.72,
+      "end": 389.06,
+      "en": "I will have to charge you extra for the additional suitcase.",
+      "zh": "第三件行李要额外收费。"
+    },
+    {
+      "id": 155,
+      "start": 389.88,
+      "end": 390.14,
+      "en": "What?",
+      "zh": "什么？"
+    },
+    {
+      "id": 156,
+      "start": 390.72,
+      "end": 391.12,
+      "en": "Why?",
+      "zh": "为什么？"
+    },
+    {
+      "id": 157,
+      "start": 391.86,
+      "end": 394.32,
+      "en": "I'm taking an intercontinental flight.",
+      "zh": "我坐的可是洲际航班。"
+    },
+    {
+      "id": 158,
+      "start": 395.08,
+      "end": 398.28,
+      "en": "I'm flying 16,000 kilometers.",
+      "zh": "我要飞行一万六千公里。"
+    },
+    {
+      "id": 159,
+      "start": 398.28,
+      "end": 401.48,
+      "en": "How am I supposed to take only two 20-kilo bags?",
+      "zh": "我应该怎么只拿两个 20 公斤的袋子？"
+    },
+    {
+      "id": 160,
+      "start": 402.16,
+      "end": 402.28,
+      "en": "That's absurd.",
+      "zh": "太荒唐了。"
+    },
+    {
+      "id": 161,
+      "start": 403.16,
+      "end": 404.3,
+      "en": "I'm sorry, sir.",
+      "zh": "对不起，先生。"
+    },
+    {
+      "id": 162,
+      "start": 404.76,
+      "end": 406.24,
+      "en": "There's nothing I can do.",
+      "zh": "我也无能为力。"
+    },
+    {
+      "id": 163,
+      "start": 406.82,
+      "end": 409.7,
+      "en": "You cannot board the flight with that large bag either.",
+      "zh": "那个大包也不能带上飞机。"
+    },
+    {
+      "id": 164,
+      "start": 410.96,
+      "end": 416.08,
+      "en": "Carry-on bags must fit in the overhead compartment or under your seat.",
+      "zh": "随身行李必须放得进头顶行李舱或前排座椅下方。"
+    },
+    {
+      "id": 165,
+      "start": 416.08,
+      "end": 417.89,
+      "en": "That bag is clearly too big.",
+      "zh": "那个包显然太大了。"
+    },
+    {
+      "id": 166,
+      "start": 418.68,
+      "end": 419.21,
+      "en": "Now I see.",
+      "zh": "我明白了。"
+    },
+    {
+      "id": 167,
+      "start": 420.2,
+      "end": 423.83,
+      "en": "You charge next to nothing for an international ticket.",
+      "zh": "国际机票几乎不收取任何费用。"
+    },
+    {
+      "id": 168,
+      "start": 424.86,
+      "end": 430.15,
+      "en": "But when it comes to charging for any other small thing, you charge an arm and a leg.",
+      "zh": "但是，当涉及到任何其他小事充电时，您会为手臂和腿充电。"
+    },
+    {
+      "id": 169,
+      "start": 431.08,
+      "end": 434.69,
+      "en": "So tell me, miss, how much will I have to pay for all this?",
+      "zh": "所以告诉我，小姐，我要为这一切付出多少？"
+    },
+    {
+      "id": 170,
+      "start": 435.71,
+      "end": 436.51,
+      "en": "Let's see.",
+      "zh": "我们来看看。"
+    },
+    {
+      "id": 171,
+      "start": 437.2,
+      "end": 438.2,
+      "en": "$625 US dollars.",
+      "zh": "625美元。"
+    },
+    {
+      "id": 172,
+      "start": 438.2,
+      "end": 439.2,
+      "en": "No.",
+      "zh": "不。"
+    },
+    {
+      "id": 173,
+      "start": 441.24,
+      "end": 443.2,
+      "en": "That's more than my round-trip ticket.",
+      "zh": "这不仅仅是我的往返票。"
+    },
+    {
+      "id": 174,
+      "start": 443.44,
+      "end": 445.36,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 175,
+      "start": 448.34,
+      "end": 450.4,
+      "en": "So I think it's a little bit more clear now.",
+      "zh": "所以我认为现在更清楚一点。"
+    },
+    {
+      "id": 176,
+      "start": 450.98,
+      "end": 455.96,
+      "en": "And with this, it's time for us to take a look at some great phrases in putting it together.",
+      "zh": "有了这个，是时候让我们看看把它放在一起的一些很棒的短语了。"
+    },
+    {
+      "id": 177,
+      "start": 457.8,
+      "end": 458.94,
+      "en": "Putting it together.",
+      "zh": "综合运用。"
+    },
+    {
+      "id": 178,
+      "start": 460.27,
+      "end": 464.75,
+      "en": "So this guy was pretty angry about this airline policy.",
+      "zh": "所以这家伙对这个航空公司的政策很生气。"
+    },
+    {
+      "id": 179,
+      "start": 464.75,
+      "end": 468.07,
+      "en": "And he said, how am I supposed to?",
+      "zh": "他说，我该怎么办？"
+    },
+    {
+      "id": 180,
+      "start": 468.79,
+      "end": 470.59,
+      "en": "How am I supposed to?",
+      "zh": "我应该怎么做？"
+    },
+    {
+      "id": 181,
+      "start": 470.87,
+      "end": 471.95,
+      "en": "How am I supposed to?",
+      "zh": "我应该怎么做？"
+    },
+    {
+      "id": 182,
+      "start": 472.33,
+      "end": 472.57,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 183,
+      "start": 472.73,
+      "end": 479.59,
+      "en": "So before we get into explaining this, why don't we listen to a couple of examples so we can try and understand what it means.",
+      "zh": "因此，在我们开始解释之前，我们为什么不听几个例子，以便我们可以尝试理解它的含义。"
+    },
+    {
+      "id": 184,
+      "start": 481.64,
+      "end": 481.94,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 185,
+      "start": 484.84,
+      "end": 486.46,
+      "en": "How am I supposed to fit the dog in the car?",
+      "zh": "我应该如何将狗放入车内？"
+    },
+    {
+      "id": 186,
+      "start": 486.88,
+      "end": 491.08,
+      "en": "There are 10 people in there already.",
+      "zh": "里面已经有10人了。"
+    },
+    {
+      "id": 187,
+      "start": 491.08,
+      "end": 491.34,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 188,
+      "start": 494.32,
+      "end": 496.19,
+      "en": "How is she supposed to get to work if her car's in the shop?",
+      "zh": "如果她的车在商店里，她应该怎么去上班？"
+    },
+    {
+      "id": 189,
+      "start": 500.04,
+      "end": 501.04,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 190,
+      "start": 503.0,
+      "end": 505.1,
+      "en": "How are we supposed to know the answer to that?",
+      "zh": "我们应该如何知道答案？"
+    },
+    {
+      "id": 191,
+      "start": 505.48,
+      "end": 506.0,
+      "en": "It's impossible.",
+      "zh": "这是不可能的。"
+    },
+    {
+      "id": 192,
+      "start": 508.18,
+      "end": 508.62,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 193,
+      "start": 508.8,
+      "end": 512.56,
+      "en": "So I can understand that it means, how can I do this?",
+      "zh": "所以我可以理解这意味着，我该怎么做？"
+    },
+    {
+      "id": 194,
+      "start": 513.12,
+      "end": 514.12,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 195,
+      "start": 514.12,
+      "end": 515.1,
+      "en": "How do you expect me to do this?",
+      "zh": "你希望我怎么做？"
+    },
+    {
+      "id": 196,
+      "start": 515.36,
+      "end": 517.04,
+      "en": "How is it possible for me to do this?",
+      "zh": "我怎么可能做到这一点？"
+    },
+    {
+      "id": 197,
+      "start": 517.64,
+      "end": 517.84,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 198,
+      "start": 518.64,
+      "end": 520.28,
+      "en": "It's a phrase you use when you're frustrated, right?",
+      "zh": "这是你在沮丧时使用的短语，对吧？"
+    },
+    {
+      "id": 199,
+      "start": 520.68,
+      "end": 521.08,
+      "en": "Yeah, exactly.",
+      "zh": "对，没错。"
+    },
+    {
+      "id": 200,
+      "start": 521.68,
+      "end": 527.2,
+      "en": "When you're maybe a little bit frustrated or you're maybe nervous of something that you can't do or don't know how.",
+      "zh": "当您可能有点沮丧或您可能对自己做不到或不知道如何做的事情感到紧张时。"
+    },
+    {
+      "id": 201,
+      "start": 527.2,
+      "end": 528.2,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 202,
+      "start": 528.2,
+      "end": 533.82,
+      "en": "This phrase, it's not impolite, but it sort of gives the idea that you're challenging the other person a little bit.",
+      "zh": "这句话，它不是不礼貌的，但它有点让你有点挑战对方的想法。"
+    },
+    {
+      "id": 203,
+      "start": 534.36,
+      "end": 535.36,
+      "en": "Maybe.",
+      "zh": "也许吧。"
+    },
+    {
+      "id": 204,
+      "start": 535.36,
+      "end": 536.36,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 205,
+      "start": 536.36,
+      "end": 537.36,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 206,
+      "start": 537.36,
+      "end": 542.24,
+      "en": "So a good phrase that you can use in different situations and you can try and mix it up with different verbs, right?",
+      "zh": "所以一个好短语，你可以在不同的情况下使用，你可以尝试将它与不同的动词混合，对吧？"
+    },
+    {
+      "id": 207,
+      "start": 542.24,
+      "end": 543.24,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 208,
+      "start": 543.24,
+      "end": 544.24,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 209,
+      "start": 544.24,
+      "end": 544.85,
+      "en": "Now let's take a look at our next phrase.",
+      "zh": "现在让我们来看看我们的下一个短语。"
+    },
+    {
+      "id": 210,
+      "start": 546.04,
+      "end": 546.8,
+      "en": "I'm sorry, sir.",
+      "zh": "对不起，先生。"
+    },
+    {
+      "id": 211,
+      "start": 547.44,
+      "end": 548.62,
+      "en": "There's nothing I can do.",
+      "zh": "我也无能为力。"
+    },
+    {
+      "id": 212,
+      "start": 549.24,
+      "end": 550.38,
+      "en": "There's nothing I can do.",
+      "zh": "我也无能为力。"
+    },
+    {
+      "id": 213,
+      "start": 551.16,
+      "end": 552.42,
+      "en": "There's nothing I can do.",
+      "zh": "我也无能为力。"
+    },
+    {
+      "id": 214,
+      "start": 552.68,
+      "end": 553.38,
+      "en": "There's nothing I can do.",
+      "zh": "我也无能为力。"
+    },
+    {
+      "id": 215,
+      "start": 553.8,
+      "end": 560.5,
+      "en": "So basically, the woman can't help the man, even though he's insisting and he's pushing that he wants another solution.",
+      "zh": "所以基本上，女人不能帮助这个男人，即使他坚持并且他在推动他想要另一个解决方案。"
+    },
+    {
+      "id": 216,
+      "start": 560.76,
+      "end": 561.76,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 217,
+      "start": 561.76,
+      "end": 562.76,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 218,
+      "start": 562.76,
+      "end": 566.34,
+      "en": "So finally, she says, I'm sorry, there's nothing I can do.",
+      "zh": "所以最后，她说，对不起，我无能为力。"
+    },
+    {
+      "id": 219,
+      "start": 566.34,
+      "end": 570.54,
+      "en": "So we use this phrase when someone's pushing you too much, right?",
+      "zh": "所以当有人推你太多时，我们使用这个短语，对吧？"
+    },
+    {
+      "id": 220,
+      "start": 570.84,
+      "end": 571.02,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 221,
+      "start": 571.14,
+      "end": 575.46,
+      "en": "And you would use it only in that situation towards the end because it is a little bit...",
+      "zh": "你只会在最后的情况下使用它，因为它有点..."
+    },
+    {
+      "id": 222,
+      "start": 575.46,
+      "end": 576.14,
+      "en": "It's strong.",
+      "zh": "语气很强硬。"
+    },
+    {
+      "id": 223,
+      "start": 576.92,
+      "end": 581.74,
+      "en": "It's not in plight, but it's just, you're saying, you know what, I'm sorry, there's I can't do anything about it.",
+      "zh": "这不是陷入困境，但它只是，你在说，你知道什么，对不起，我对此无能为力。"
+    },
+    {
+      "id": 224,
+      "start": 581.96,
+      "end": 584.0,
+      "en": "Now let's move on to our third phrase.",
+      "zh": "现在让我们继续我们的第三个短语。"
+    },
+    {
+      "id": 225,
+      "start": 585.16,
+      "end": 588.16,
+      "en": "You charge next to nothing.",
+      "zh": "你几乎没有收费。"
+    },
+    {
+      "id": 226,
+      "start": 588.16,
+      "end": 588.6,
+      "en": "Next to nothing.",
+      "zh": "几乎没有。"
+    },
+    {
+      "id": 227,
+      "start": 589.84,
+      "end": 590.62,
+      "en": "Next to nothing.",
+      "zh": "几乎没有。"
+    },
+    {
+      "id": 228,
+      "start": 591.0,
+      "end": 592.0,
+      "en": "Next to nothing.",
+      "zh": "几乎没有。"
+    },
+    {
+      "id": 229,
+      "start": 592.0,
+      "end": 593.0,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 230,
+      "start": 593.0,
+      "end": 593.47,
+      "en": "So we're talking about charging.",
+      "zh": "所以我们在谈论充电。"
+    },
+    {
+      "id": 231,
+      "start": 594.0,
+      "end": 595.92,
+      "en": "We're talking about money.",
+      "zh": "我们在谈论金钱。"
+    },
+    {
+      "id": 232,
+      "start": 595.92,
+      "end": 602.24,
+      "en": "Why don't we listen to some examples of what this next to nothing phrase means?",
+      "zh": "为什么我们不听一些关于这句话几乎没有意义的例子？"
+    },
+    {
+      "id": 233,
+      "start": 602.24,
+      "end": 602.59,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 234,
+      "start": 606.28,
+      "end": 607.0,
+      "en": "Do you like my new house?",
+      "zh": "你喜欢我的新房子吗？"
+    },
+    {
+      "id": 235,
+      "start": 607.44,
+      "end": 609.34,
+      "en": "It was so cheap that it almost cost next to nothing.",
+      "zh": "它是如此便宜，几乎没有任何东西。"
+    },
+    {
+      "id": 236,
+      "start": 613.28,
+      "end": 614.28,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 237,
+      "start": 614.28,
+      "end": 618.88,
+      "en": "Let's go to Thailand.",
+      "zh": "我们去泰国吧。"
+    },
+    {
+      "id": 238,
+      "start": 618.88,
+      "end": 620.11,
+      "en": "Tickets cost next to nothing right now.",
+      "zh": "门票现在几乎没有任何费用。"
+    },
+    {
+      "id": 239,
+      "start": 624.56,
+      "end": 624.95,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 240,
+      "start": 628.12,
+      "end": 632.08,
+      "en": "The real estate agent charged me next to nothing for his commission, so I got a really good deal.",
+      "zh": "房地产经纪人几乎没有向我收取佣金，所以我得到了一个非常好的交易。"
+    },
+    {
+      "id": 241,
+      "start": 634.03,
+      "end": 637.37,
+      "en": "So when something costs next to nothing, it's really cheap, right?",
+      "zh": "因此，当某些东西几乎没有成本时，它真的很便宜，对吧？"
+    },
+    {
+      "id": 242,
+      "start": 637.37,
+      "end": 639.43,
+      "en": "It's really cheap, or you consider it to be cheap.",
+      "zh": "它真的很便宜，或者你认为它很便宜。"
+    },
+    {
+      "id": 243,
+      "start": 640.25,
+      "end": 644.01,
+      "en": "And now for our last phrase, it's the complete opposite of next to nothing.",
+      "zh": "现在对于我们的最后一句话，它完全相反。"
+    },
+    {
+      "id": 244,
+      "start": 644.8,
+      "end": 645.8,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 245,
+      "start": 645.8,
+      "end": 646.83,
+      "en": "Charge an arm and a leg.",
+      "zh": "充电一条胳膊和一条腿。"
+    },
+    {
+      "id": 246,
+      "start": 647.6,
+      "end": 648.81,
+      "en": "An arm and a leg.",
+      "zh": "一条胳膊和一条腿。"
+    },
+    {
+      "id": 247,
+      "start": 649.08,
+      "end": 650.09,
+      "en": "An arm and a leg.",
+      "zh": "一条胳膊和一条腿。"
+    },
+    {
+      "id": 248,
+      "start": 650.51,
+      "end": 651.03,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 249,
+      "start": 651.48,
+      "end": 653.23,
+      "en": "So this means it's really expensive.",
+      "zh": "所以这意味着它真的很贵。"
+    },
+    {
+      "id": 250,
+      "start": 653.8,
+      "end": 654.47,
+      "en": "It's so expensive.",
+      "zh": "它太贵了。"
+    },
+    {
+      "id": 251,
+      "start": 654.88,
+      "end": 656.81,
+      "en": "It's like giving your arm and your leg.",
+      "zh": "这就像给你的手臂和腿。"
+    },
+    {
+      "id": 252,
+      "start": 657.21,
+      "end": 657.41,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 253,
+      "start": 657.53,
+      "end": 658.15,
+      "en": "To pay for it.",
+      "zh": "为此付出代价。"
+    },
+    {
+      "id": 254,
+      "start": 659.16,
+      "end": 660.16,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 255,
+      "start": 660.16,
+      "end": 661.16,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 256,
+      "start": 661.16,
+      "end": 662.16,
+      "en": "So next to nothing, really cheap.",
+      "zh": "所以几乎没有，真的很便宜。"
+    },
+    {
+      "id": 257,
+      "start": 662.16,
+      "end": 664.19,
+      "en": "An arm and a leg, really expensive.",
+      "zh": "一条胳膊和一条腿，真的很贵。"
+    },
+    {
+      "id": 258,
+      "start": 664.92,
+      "end": 665.75,
+      "en": "Can we look at the use here?",
+      "zh": "我们可以看看这里的用途吗？"
+    },
+    {
+      "id": 259,
+      "start": 666.27,
+      "end": 666.85,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 260,
+      "start": 666.95,
+      "end": 673.45,
+      "en": "So in the dialogue we heard, you charge an arm and a leg, but we can also say it costs an arm and a leg.",
+      "zh": "所以在我们听到的对话中，你充电一条胳膊和一条腿，但我们也可以说它需要一条胳膊和一条腿。"
+    },
+    {
+      "id": 261,
+      "start": 673.77,
+      "end": 673.93,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 262,
+      "start": 673.99,
+      "end": 675.67,
+      "en": "Because we are referring to money.",
+      "zh": "因为我们指的是金钱。"
+    },
+    {
+      "id": 263,
+      "start": 676.27,
+      "end": 676.39,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 264,
+      "start": 676.8,
+      "end": 676.97,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 265,
+      "start": 677.8,
+      "end": 678.15,
+      "en": "So some great phrases here.",
+      "zh": "所以这里有一些很棒的短语。"
+    },
+    {
+      "id": 266,
+      "start": 678.8,
+      "end": 681.57,
+      "en": "Now I think it's time we listen to our dialogue one more time.",
+      "zh": "现在我想是时候再听一次我们的对话了。"
+    },
+    {
+      "id": 267,
+      "start": 690.88,
+      "end": 693.12,
+      "en": "What?",
+      "zh": "什么？"
+    },
+    {
+      "id": 268,
+      "start": 693.12,
+      "end": 695.12,
+      "en": "Why?",
+      "zh": "为什么？"
+    },
+    {
+      "id": 269,
+      "start": 713.45,
+      "end": 715.01,
+      "en": "I'm taking an intercontinental flight.",
+      "zh": "我坐的可是洲际航班。"
+    },
+    {
+      "id": 270,
+      "start": 715.36,
+      "end": 717.72,
+      "en": "I'm flying 16,000 kilometers.",
+      "zh": "我要飞行一万六千公里。"
+    },
+    {
+      "id": 271,
+      "start": 717.72,
+      "end": 720.92,
+      "en": "How am I supposed to take only two 20 kilo bags?",
+      "zh": "只带两件二十公斤的行李怎么够？"
+    },
+    {
+      "id": 272,
+      "start": 720.92,
+      "end": 721.09,
+      "en": "That's absurd.",
+      "zh": "太荒唐了。"
+    },
+    {
+      "id": 273,
+      "start": 721.92,
+      "end": 722.89,
+      "en": "I'm sorry, sir.",
+      "zh": "对不起，先生。"
+    },
+    {
+      "id": 274,
+      "start": 723.2,
+      "end": 723.91,
+      "en": "There's nothing I can do.",
+      "zh": "我也无能为力。"
+    },
+    {
+      "id": 275,
+      "start": 724.66,
+      "end": 727.17,
+      "en": "You cannot board the flight with that large bag either.",
+      "zh": "那个大包也不能带上飞机。"
+    },
+    {
+      "id": 276,
+      "start": 727.68,
+      "end": 731.84,
+      "en": "Carry-on bags must fit in the overhead compartment or under your seat.",
+      "zh": "随身行李必须放得进头顶行李舱或前排座椅下方。"
+    },
+    {
+      "id": 277,
+      "start": 731.84,
+      "end": 733.51,
+      "en": "That bag is clearly too big.",
+      "zh": "那个包显然太大了。"
+    },
+    {
+      "id": 278,
+      "start": 734.16,
+      "end": 734.45,
+      "en": "Now I see.",
+      "zh": "我明白了。"
+    },
+    {
+      "id": 279,
+      "start": 735.16,
+      "end": 736.85,
+      "en": "You charge next to nothing for an international ticket.",
+      "zh": "国际机票几乎不收取任何费用。"
+    },
+    {
+      "id": 280,
+      "start": 737.52,
+      "end": 740.63,
+      "en": "When it comes to charging for any other small thing, you charge an arm and a leg.",
+      "zh": "其他一点小事却收费贵得离谱。"
+    },
+    {
+      "id": 281,
+      "start": 741.23,
+      "end": 744.05,
+      "en": "So tell me, miss, how much will I have to pay for all of this?",
+      "zh": "小姐，你说吧，这些一共要付多少钱？"
+    },
+    {
+      "id": 282,
+      "start": 745.01,
+      "end": 745.87,
+      "en": "Let's see.",
+      "zh": "我们来看看。"
+    },
+    {
+      "id": 283,
+      "start": 746.32,
+      "end": 747.84,
+      "en": "625 US dollars.",
+      "zh": "625美元。"
+    },
+    {
+      "id": 284,
+      "start": 749.36,
+      "end": 750.82,
+      "en": "That's more than my round trip ticket.",
+      "zh": "这不仅仅是我的往返票。"
+    },
+    {
+      "id": 285,
+      "start": 753.23,
+      "end": 753.71,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 286,
+      "start": 753.75,
+      "end": 757.35,
+      "en": "So airline policies, luggage, it's always a problem, right?",
+      "zh": "所以航空公司的政策，行李，这总是一个问题，对吧？"
+    },
+    {
+      "id": 287,
+      "start": 757.73,
+      "end": 760.85,
+      "en": "Most of the time you always end up paying overweight when you travel.",
+      "zh": "大多数时候，你总是在旅行时付出超重的代价。"
+    },
+    {
+      "id": 288,
+      "start": 761.27,
+      "end": 761.43,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 289,
+      "start": 761.65,
+      "end": 766.33,
+      "en": "I know that this happened to me once and it was really expensive.",
+      "zh": "我知道这发生在我身上一次，而且真的很贵。"
+    },
+    {
+      "id": 290,
+      "start": 767.01,
+      "end": 767.25,
+      "en": "Really?",
+      "zh": "真的吗？"
+    },
+    {
+      "id": 291,
+      "start": 767.6,
+      "end": 768.6,
+      "en": "What happened?",
+      "zh": "发生什么事了？"
+    },
+    {
+      "id": 292,
+      "start": 768.6,
+      "end": 776.27,
+      "en": "I was flying on an intercontinental flight from India back to Europe and I had too many extra bags, but I really needed to bring them.",
+      "zh": "我乘坐洲际航班从印度飞回欧洲，我有太多额外的行李，但我真的需要带上它们。"
+    },
+    {
+      "id": 293,
+      "start": 776.44,
+      "end": 778.44,
+      "en": "And so it cost me $6,000.",
+      "zh": "所以它花了我 6,000 美元。"
+    },
+    {
+      "id": 294,
+      "start": 778.44,
+      "end": 779.44,
+      "en": "$6,000.",
+      "zh": "6,000 美元。"
+    },
+    {
+      "id": 295,
+      "start": 779.44,
+      "end": 780.44,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 296,
+      "start": 780.44,
+      "end": 781.44,
+      "en": "Wow.",
+      "zh": "哇。"
+    },
+    {
+      "id": 297,
+      "start": 781.81,
+      "end": 785.09,
+      "en": "So my credit card was pretty maxed out after that.",
+      "zh": "所以在那之后我的信用卡已经用完了。"
+    },
+    {
+      "id": 298,
+      "start": 786.12,
+      "end": 786.51,
+      "en": "That's incredible.",
+      "zh": "这太不可思议了。"
+    },
+    {
+      "id": 299,
+      "start": 787.12,
+      "end": 788.12,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 300,
+      "start": 788.12,
+      "end": 791.89,
+      "en": "Well, I'm sure many of our users probably suffered similar experiences like this.",
+      "zh": "好吧，我敢肯定我们的许多用户可能遭受了类似的经历。"
+    },
+    {
+      "id": 301,
+      "start": 792.04,
+      "end": 796.28,
+      "en": "So please come to our website and share it with us at EnglishPod.com.",
+      "zh": "因此，请访问我们的网站并在 Englishpod.com 上与我们分享。"
+    },
+    {
+      "id": 302,
+      "start": 796.28,
+      "end": 796.45,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 303,
+      "start": 797.28,
+      "end": 798.95,
+      "en": "Marco and I are always around to answer your questions.",
+      "zh": "马可和我总是在身边回答你的问题。"
+    },
+    {
+      "id": 304,
+      "start": 799.37,
+      "end": 802.27,
+      "en": "So please check us out and thanks for downloading you guys.",
+      "zh": "所以请查看我们，感谢您下载你们。"
+    },
+    {
+      "id": 305,
+      "start": 802.76,
+      "end": 803.31,
+      "en": "Until next time.",
+      "zh": "下次再见。"
+    },
+    {
+      "id": 306,
+      "start": 803.76,
+      "end": 804.26,
+      "en": "Goodbye.",
+      "zh": "再见。"
+    }
+  ],
+  "dialog": {
+    "start": 76.84,
+    "end": 145.2,
+    "segmentIds": [
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55
+    ]
+  }
+}

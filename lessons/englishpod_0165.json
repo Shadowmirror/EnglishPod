@@ -1,0 +1,1511 @@
+{
+  "version": 1,
+  "id": 165,
+  "number": "0165",
+  "title": "Daily Life - Asking For A Loan",
+  "audio": "mp3/165. Daily Life - Asking For A Loan.mp3",
+  "duration": 762.6710625,
+  "segments": [
+    {
+      "id": 1,
+      "start": 3.15,
+      "end": 5.69,
+      "en": "Hello, English learners and welcome back to EnglishPod.",
+      "zh": "您好，英语学习者，欢迎回到 Englishpod。"
+    },
+    {
+      "id": 2,
+      "start": 5.98,
+      "end": 6.98,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 6.98,
+      "end": 12.92,
+      "en": "And my name is Catherine and today we're talking about money, but this time we're talking about borrowing money.",
+      "zh": "我的名字是凯瑟琳，今天我们在谈论金钱，但这次我们谈论的是借钱。"
+    },
+    {
+      "id": 4,
+      "start": 13.15,
+      "end": 13.35,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 5,
+      "start": 13.35,
+      "end": 14.93,
+      "en": "So, we're asking for money.",
+      "zh": "所以，我们要钱。"
+    },
+    {
+      "id": 6,
+      "start": 15.07,
+      "end": 18.03,
+      "en": "We're going to the bank and we are asking for a loan.",
+      "zh": "我们要去银行，我们要贷款。"
+    },
+    {
+      "id": 7,
+      "start": 18.27,
+      "end": 21.67,
+      "en": "But before we go, why don't we take a look at vocabulary preview.",
+      "zh": "但在我们走之前，我们为什么不看看词汇预览。"
+    },
+    {
+      "id": 8,
+      "start": 23.84,
+      "end": 24.19,
+      "en": "Vocabulary preview.",
+      "zh": "词汇预习。"
+    },
+    {
+      "id": 9,
+      "start": 25.88,
+      "end": 29.08,
+      "en": "Okay, so a loan is some money that you get from the bank.",
+      "zh": "好的，所以贷款是你从银行得到的一些钱。"
+    },
+    {
+      "id": 10,
+      "start": 29.32,
+      "end": 31.74,
+      "en": "So we're talking about requesting a loan today.",
+      "zh": "所以我们今天谈论的是申请贷款。"
+    },
+    {
+      "id": 11,
+      "start": 32.22,
+      "end": 35.54,
+      "en": "Alright, so you request for a loan or you ask for a loan.",
+      "zh": "好吧，所以你要求贷款或你要求贷款。"
+    },
+    {
+      "id": 12,
+      "start": 35.7,
+      "end": 35.84,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 13,
+      "start": 36.22,
+      "end": 37.46,
+      "en": "So to request is to ask.",
+      "zh": "所以要求就是问。"
+    },
+    {
+      "id": 14,
+      "start": 37.82,
+      "end": 38.66,
+      "en": "Okay, very good.",
+      "zh": "好，很好。"
+    },
+    {
+      "id": 15,
+      "start": 39.32,
+      "end": 42.12,
+      "en": "And that's the word that we have for vocabulary preview.",
+      "zh": "这就是我们在词汇预览中的单词。"
+    },
+    {
+      "id": 16,
+      "start": 42.12,
+      "end": 44.3,
+      "en": "So let's listen to the dialogue for the first time.",
+      "zh": "所以让我们第一次听对话。"
+    },
+    {
+      "id": 17,
+      "start": 52.44,
+      "end": 53.85,
+      "en": "Hello sir, may I help you?",
+      "zh": "你好先生，我可以帮你吗？"
+    },
+    {
+      "id": 18,
+      "start": 54.52,
+      "end": 57.59,
+      "en": "Yes, I would like some information for requesting a loan.",
+      "zh": "是的，我想要一些关于申请贷款的信息。"
+    },
+    {
+      "id": 19,
+      "start": 58.88,
+      "end": 59.09,
+      "en": "Very well.",
+      "zh": "很好。"
+    },
+    {
+      "id": 20,
+      "start": 59.88,
+      "end": 62.18,
+      "en": "Here are the general terms of our loan policies.",
+      "zh": "以下是我们的贷款政策的一般条款。"
+    },
+    {
+      "id": 21,
+      "start": 63.14,
+      "end": 68.16,
+      "en": "We pride ourselves in having the lowest interest rate in the country for personal loans.",
+      "zh": "我们很自豪，我们的个人贷款利率是全国最低的。"
+    },
+    {
+      "id": 22,
+      "start": 68.16,
+      "end": 68.6,
+      "en": "I see.",
+      "zh": "我明白了。"
+    },
+    {
+      "id": 23,
+      "start": 69.64,
+      "end": 70.6,
+      "en": "So let me get this straight.",
+      "zh": "让我确认一下我有没有理解对。"
+    },
+    {
+      "id": 24,
+      "start": 71.44,
+      "end": 76.02,
+      "en": "If I borrow, let's say, $10,000, how much will I have to pay each month?",
+      "zh": "如果我借钱，比如说，10,000 美元，我每个月要付多少钱？"
+    },
+    {
+      "id": 25,
+      "start": 76.54,
+      "end": 79.22,
+      "en": "It depends on how long you take to pay it back.",
+      "zh": "这取决于您需要多长时间才能偿还。"
+    },
+    {
+      "id": 26,
+      "start": 79.75,
+      "end": 93.59,
+      "en": "If we lend you $10,000 at an annual interest rate of 10% for 48 months, you would have to pay each month a portion of the loan, which is called the principal, and another small portion of the annual interest rate.",
+      "zh": "如果我们以百分之十的年利率借给您一万美元，分四十八个月偿还，您每个月都要还一部分贷款，也就是本金，另外再支付一些利息。"
+    },
+    {
+      "id": 27,
+      "start": 94.37,
+      "end": 97.37,
+      "en": "This of course is considering that you don't default on a payment.",
+      "zh": "当然，前提是您每期都按时还款。"
+    },
+    {
+      "id": 28,
+      "start": 98.11,
+      "end": 101.15,
+      "en": "It sounds good, but there's just one problem.",
+      "zh": "听起来不错，但只有一个问题。"
+    },
+    {
+      "id": 29,
+      "start": 101.74,
+      "end": 103.56,
+      "en": "I have a terrible credit score.",
+      "zh": "我的信用评分很差。"
+    },
+    {
+      "id": 30,
+      "start": 104.18,
+      "end": 106.18,
+      "en": "That is a very serious problem, you see.",
+      "zh": "这是一个非常严重的问题，你看。"
+    },
+    {
+      "id": 31,
+      "start": 106.78,
+      "end": 115.92,
+      "en": "The bank must assess your personal information, past loans, assets, and any other relevant information, such as your credit score, in order to approve your loan.",
+      "zh": "银行必须评估您的个人信息、过去的贷款、资产以及任何其他相关信息，例如您的信用评分，以便批准您的贷款。"
+    },
+    {
+      "id": 32,
+      "start": 116.54,
+      "end": 117.06,
+      "en": "You know what?",
+      "zh": "你知道吗？"
+    },
+    {
+      "id": 33,
+      "start": 118.02,
+      "end": 119.06,
+      "en": "I don't really need the money.",
+      "zh": "我真的不需要钱。"
+    },
+    {
+      "id": 34,
+      "start": 119.56,
+      "end": 119.86,
+      "en": "Thanks anyways.",
+      "zh": "不管怎样，还是谢谢你。"
+    },
+    {
+      "id": 35,
+      "start": 120.72,
+      "end": 125.12,
+      "en": "All right, we're back.",
+      "zh": "好了，我们回来了。"
+    },
+    {
+      "id": 36,
+      "start": 125.12,
+      "end": 130.71,
+      "en": "So now why don't we take a look at some of the key words that we'll find in Language Takeaway.",
+      "zh": "所以现在我们为什么不看看我们将在语言外卖中找到的一些关键词。"
+    },
+    {
+      "id": 37,
+      "start": 133.56,
+      "end": 134.1,
+      "en": "Language Takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 38,
+      "start": 135.37,
+      "end": 139.63,
+      "en": "All right, so on Language Takeaway today, we have a couple of different words.",
+      "zh": "好吧，所以今天的语言外卖，我们有几个不同的词。"
+    },
+    {
+      "id": 39,
+      "start": 140.16,
+      "end": 143.21,
+      "en": "Why don't we start off with the loan policies?",
+      "zh": "为什么我们不从贷款政策开始？"
+    },
+    {
+      "id": 40,
+      "start": 144.05,
+      "end": 146.63,
+      "en": "Okay, so a policy is like a rule.",
+      "zh": "好的，所以政策就像一条规则。"
+    },
+    {
+      "id": 41,
+      "start": 148.04,
+      "end": 154.33,
+      "en": "For example, a government can have policies, but in this case, a loan policy is the rules regarding the loan that you have.",
+      "zh": "例如，政府可以有政策，但在这种情况下，贷款政策是关于您拥有的贷款的规则。"
+    },
+    {
+      "id": 42,
+      "start": 154.68,
+      "end": 165.1,
+      "en": "Right, so maybe the loan policies could include what's the maximum length of your loan, or maybe what's the annual interest rate, et cetera.",
+      "zh": "是的，所以贷款政策可能包括你的贷款的最大长度，或者年利率是多少，等等。"
+    },
+    {
+      "id": 43,
+      "start": 165.32,
+      "end": 167.5,
+      "en": "How much you have to pay each month, like that.",
+      "zh": "你每个月要付多少钱，这样。"
+    },
+    {
+      "id": 44,
+      "start": 167.68,
+      "end": 168.68,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 45,
+      "start": 168.68,
+      "end": 173.56,
+      "en": "So a policy is the rules related to the loan that you've taken out.",
+      "zh": "因此，保单是与您获得的贷款相关的规则。"
+    },
+    {
+      "id": 46,
+      "start": 173.56,
+      "end": 177.52,
+      "en": "And we have some very, very important words following this, and they go together.",
+      "zh": "我们在这之后有一些非常非常重要的词，它们会在一起。"
+    },
+    {
+      "id": 47,
+      "start": 177.52,
+      "end": 178.7,
+      "en": "So the first word is to borrow.",
+      "zh": "所以第一个词是借。"
+    },
+    {
+      "id": 48,
+      "start": 179.08,
+      "end": 182.48,
+      "en": "Okay, so you probably know this word already, to borrow.",
+      "zh": "好吧，所以你可能已经知道这个词了，借用。"
+    },
+    {
+      "id": 49,
+      "start": 182.48,
+      "end": 183.6,
+      "en": "So can I borrow your pen?",
+      "zh": "那我可以借你的笔吗？"
+    },
+    {
+      "id": 50,
+      "start": 183.78,
+      "end": 184.66,
+      "en": "Can I borrow some money?",
+      "zh": "我可以借点钱吗？"
+    },
+    {
+      "id": 51,
+      "start": 184.92,
+      "end": 186.44,
+      "en": "Sure, let me give you my pen.",
+      "zh": "当然，让我给你我的笔。"
+    },
+    {
+      "id": 52,
+      "start": 186.62,
+      "end": 187.52,
+      "en": "Let me give you my money.",
+      "zh": "让我给你我的钱。"
+    },
+    {
+      "id": 53,
+      "start": 187.64,
+      "end": 188.64,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 54,
+      "start": 188.64,
+      "end": 192.72,
+      "en": "But wait, giving is different, because giving means I don't have to get it back.",
+      "zh": "但是等等，给予是不同的，因为给予意味着我不必把它拿回来。"
+    },
+    {
+      "id": 55,
+      "start": 192.8,
+      "end": 192.96,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 56,
+      "start": 193.4,
+      "end": 200.56,
+      "en": "So if you want to give it to someone temporarily, then you lend them your pen, or you lend them some money.",
+      "zh": "所以如果你想暂时把它给某人，那么你把你的笔借给他们，或者你借给他们一些钱。"
+    },
+    {
+      "id": 57,
+      "start": 200.66,
+      "end": 201.0,
+      "en": "Great.",
+      "zh": "太好了。"
+    },
+    {
+      "id": 58,
+      "start": 201.4,
+      "end": 207.5,
+      "en": "So to borrow is to take something from someone, knowing that you will have to give it back later.",
+      "zh": "所以借钱就是从某人那里拿东西，知道你以后必须把它还给你。"
+    },
+    {
+      "id": 59,
+      "start": 207.74,
+      "end": 207.94,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 60,
+      "start": 208.24,
+      "end": 212.02,
+      "en": "And to lend is to give it to someone, right?",
+      "zh": "贷款就是把它给某人，对吧？"
+    },
+    {
+      "id": 61,
+      "start": 212.36,
+      "end": 215.16,
+      "en": "So can you lend me your pen?",
+      "zh": "那你能把你的笔借给我吗？"
+    },
+    {
+      "id": 62,
+      "start": 215.16,
+      "end": 216.92,
+      "en": "That means can you give it to me, please?",
+      "zh": "这意味着你能把它给我吗？"
+    },
+    {
+      "id": 63,
+      "start": 216.92,
+      "end": 217.92,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 64,
+      "start": 217.92,
+      "end": 225.56,
+      "en": "And this is a common mistake with language learners, especially English learners, that they make the mistake of using borrow instead of lend.",
+      "zh": "这是语言学习者，尤其是英语学习者的一个常见错误，他们犯了使用 Borrow 而不是 Lend 的错误。"
+    },
+    {
+      "id": 65,
+      "start": 225.56,
+      "end": 227.77,
+      "en": "So can you borrow me some money?",
+      "zh": "那你能借我一些钱吗？"
+    },
+    {
+      "id": 66,
+      "start": 228.6,
+      "end": 229.6,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 67,
+      "start": 229.6,
+      "end": 230.92,
+      "en": "So can you lend me some money?",
+      "zh": "那你能借我一些钱吗？"
+    },
+    {
+      "id": 68,
+      "start": 231.2,
+      "end": 233.26,
+      "en": "Sure, but I expect you to pay me back later.",
+      "zh": "当然，但我希望你以后还给我。"
+    },
+    {
+      "id": 69,
+      "start": 233.64,
+      "end": 234.44,
+      "en": "Okay, very good.",
+      "zh": "好，很好。"
+    },
+    {
+      "id": 70,
+      "start": 235.0,
+      "end": 238.12,
+      "en": "And if I pay you back later, I'll include an interest rate.",
+      "zh": "如果我稍后还款，我将包括利率。"
+    },
+    {
+      "id": 71,
+      "start": 238.4,
+      "end": 238.86,
+      "en": "Will you really?",
+      "zh": "你真的会吗？"
+    },
+    {
+      "id": 72,
+      "start": 239.4,
+      "end": 240.4,
+      "en": "No, not really.",
+      "zh": "不，也不完全是。"
+    },
+    {
+      "id": 73,
+      "start": 240.4,
+      "end": 241.4,
+      "en": "No, not really.",
+      "zh": "不，也不完全是。"
+    },
+    {
+      "id": 74,
+      "start": 241.4,
+      "end": 243.96,
+      "en": "Mostly it's banks that ask for an interest rate.",
+      "zh": "大多数是要求利率的银行。"
+    },
+    {
+      "id": 75,
+      "start": 244.26,
+      "end": 252.7,
+      "en": "So in this case, an interest rate means the amount of money that a bank will charge you in addition to the money that you owe them.",
+      "zh": "因此，在这种情况下，利率意味着银行将向您收取的金额以及您欠他们的钱。"
+    },
+    {
+      "id": 76,
+      "start": 252.93,
+      "end": 253.47,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 77,
+      "start": 253.95,
+      "end": 257.45,
+      "en": "So it's called an interest rate and it's a rate because it's a percentage.",
+      "zh": "所以它被称为利率，它是一个利率，因为它是一个百分比。"
+    },
+    {
+      "id": 78,
+      "start": 257.92,
+      "end": 258.92,
+      "en": "So it's like 5%.",
+      "zh": "所以它就像5%。"
+    },
+    {
+      "id": 79,
+      "start": 258.92,
+      "end": 259.43,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 80,
+      "start": 259.95,
+      "end": 260.81,
+      "en": "5, 10%.",
+      "zh": "百分之五、百分之十。"
+    },
+    {
+      "id": 81,
+      "start": 260.81,
+      "end": 262.91,
+      "en": "That is an interest rate.",
+      "zh": "那是利率。"
+    },
+    {
+      "id": 82,
+      "start": 263.79,
+      "end": 270.09,
+      "en": "And now moving on, if you have a loan and you have to pay each month, be careful to not default on your payments.",
+      "zh": "现在继续前进，如果您有贷款并且必须每月付款，请注意不要拖欠您的付款。"
+    },
+    {
+      "id": 83,
+      "start": 270.72,
+      "end": 271.46,
+      "en": "Okay, default.",
+      "zh": "好的，默认。"
+    },
+    {
+      "id": 84,
+      "start": 272.04,
+      "end": 276.24,
+      "en": "In the banking world, this means to not be able to pay your loan.",
+      "zh": "在银行业，这意味着无法支付您的贷款。"
+    },
+    {
+      "id": 85,
+      "start": 277.14,
+      "end": 286.96,
+      "en": "So that means that if I owe $1,000 to you, Bank of Marco, and I don't have the money, I can't pay for it, then I default.",
+      "zh": "所以这意味着如果我欠你 1,000 美元，马可银行，我没有钱，我付不起钱，那我就默认了。"
+    },
+    {
+      "id": 86,
+      "start": 286.96,
+      "end": 289.06,
+      "en": "So to be late or to not make the payment.",
+      "zh": "所以迟到或不付款。"
+    },
+    {
+      "id": 87,
+      "start": 289.84,
+      "end": 290.68,
+      "en": "It's a verb, to default.",
+      "zh": "这是一个动词，默认。"
+    },
+    {
+      "id": 88,
+      "start": 291.28,
+      "end": 292.28,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 89,
+      "start": 292.28,
+      "end": 295.08,
+      "en": "And Will, the person asking for the loan has a small problem.",
+      "zh": "和威尔，要求贷款的人有一个小问题。"
+    },
+    {
+      "id": 90,
+      "start": 295.44,
+      "end": 297.5,
+      "en": "His credit score is not very good.",
+      "zh": "他的信用评分不是很好。"
+    },
+    {
+      "id": 91,
+      "start": 297.82,
+      "end": 299.32,
+      "en": "Okay, I think he calls it terrible.",
+      "zh": "好吧，我认为他称之为可怕。"
+    },
+    {
+      "id": 92,
+      "start": 300.04,
+      "end": 304.24,
+      "en": "And one of the ways that you get a terrible credit score is by defaulting on a loan.",
+      "zh": "您获得糟糕信用评分的方法之一是拖欠贷款。"
+    },
+    {
+      "id": 93,
+      "start": 304.68,
+      "end": 309.82,
+      "en": "But it also means that maybe you borrow money or you have credit cards and you can't pay off your bills.",
+      "zh": "但这也意味着也许你借钱或者你有信用卡，你不能还清账单。"
+    },
+    {
+      "id": 94,
+      "start": 310.6,
+      "end": 316.16,
+      "en": "And so a credit score is very important in America and it's like a report card for your finances.",
+      "zh": "因此，信用评分在美国非常重要，它就像您的财务报告卡。"
+    },
+    {
+      "id": 95,
+      "start": 316.16,
+      "end": 317.16,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 96,
+      "start": 317.16,
+      "end": 325.22,
+      "en": "So for example, if your credit score is a report card and you have an A credit score, that means that the banks won't have a problem with lending you money.",
+      "zh": "因此，例如，如果您的信用评分是成绩单并且您有信用评分，这意味着银行不会有借贷的问题。"
+    },
+    {
+      "id": 97,
+      "start": 325.36,
+      "end": 327.24,
+      "en": "Or if you want to buy a new car, it'll be okay.",
+      "zh": "或者如果你想买一辆新车，那就没问题了。"
+    },
+    {
+      "id": 98,
+      "start": 327.74,
+      "end": 337.32,
+      "en": "But if you don't pay your bills on time or you default on your loans, then maybe you'll have a C or a D and then people will not really lend you money in the future.",
+      "zh": "但是，如果您没有按时支付账单或拖欠贷款，那么您可能会获得 C 或 D，然后人们将来不会真正借给您钱。"
+    },
+    {
+      "id": 99,
+      "start": 337.56,
+      "end": 338.48,
+      "en": "They won't trust you.",
+      "zh": "他们不会相信你。"
+    },
+    {
+      "id": 100,
+      "start": 338.6,
+      "end": 338.8,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 101,
+      "start": 340.0,
+      "end": 342.28,
+      "en": "All right, so that's credit score.",
+      "zh": "好吧，这就是信用评分。"
+    },
+    {
+      "id": 102,
+      "start": 342.28,
+      "end": 343.86,
+      "en": "That's all the words we have for Fluency Builder.",
+      "zh": "这就是我们对 Fluency Builder 的所有措辞。"
+    },
+    {
+      "id": 103,
+      "start": 344.12,
+      "end": 347.0,
+      "en": "Why don't we listen to the dialogue again and we'll be back shortly.",
+      "zh": "我们为什么不再听一次对话，我们很快就会回来。"
+    },
+    {
+      "id": 104,
+      "start": 348.24,
+      "end": 350.68,
+      "en": "Hello, sir.",
+      "zh": "您好，先生。"
+    },
+    {
+      "id": 105,
+      "start": 353.92,
+      "end": 354.56,
+      "en": "May I help you?",
+      "zh": "有什么可以帮您？"
+    },
+    {
+      "id": 106,
+      "start": 355.04,
+      "end": 358.3,
+      "en": "Yes, I would like some information for requesting a loan.",
+      "zh": "是的，我想要一些关于申请贷款的信息。"
+    },
+    {
+      "id": 107,
+      "start": 359.24,
+      "end": 359.82,
+      "en": "Very well.",
+      "zh": "很好。"
+    },
+    {
+      "id": 108,
+      "start": 360.27,
+      "end": 362.89,
+      "en": "Here are the general terms of our loan policies.",
+      "zh": "以下是我们的贷款政策的一般条款。"
+    },
+    {
+      "id": 109,
+      "start": 363.79,
+      "end": 368.15,
+      "en": "We pride ourselves in having the lowest interest rate in the country for personal loans.",
+      "zh": "我们很自豪，我们的个人贷款利率是全国最低的。"
+    },
+    {
+      "id": 110,
+      "start": 368.59,
+      "end": 369.31,
+      "en": "I see.",
+      "zh": "我明白了。"
+    },
+    {
+      "id": 111,
+      "start": 369.83,
+      "end": 371.31,
+      "en": "So let me get this straight.",
+      "zh": "所以让我直截了当地说。"
+    },
+    {
+      "id": 112,
+      "start": 372.11,
+      "end": 376.73,
+      "en": "If I borrow, let's say, $10,000, how much will I have to pay each month?",
+      "zh": "如果我借钱，比如说，10,000 美元，我每个月要付多少钱？"
+    },
+    {
+      "id": 113,
+      "start": 377.27,
+      "end": 379.95,
+      "en": "It depends on how long you take to pay it back.",
+      "zh": "这取决于您需要多长时间才能偿还。"
+    },
+    {
+      "id": 114,
+      "start": 380.46,
+      "end": 394.38,
+      "en": "If we lend you $10,000 at an annual interest rate of 10% for 48 months, you would have to pay each month a portion of the loan, which is called the principal, and another small portion of the annual interest rate.",
+      "zh": "如果我们以百分之十的年利率借给您一万美元，分四十八个月偿还，您每个月都要还一部分贷款，也就是本金，另外再支付一些利息。"
+    },
+    {
+      "id": 115,
+      "start": 394.89,
+      "end": 398.13,
+      "en": "This of course is considering that you don't default on a payment.",
+      "zh": "当然，前提是您每期都按时还款。"
+    },
+    {
+      "id": 116,
+      "start": 398.77,
+      "end": 401.91,
+      "en": "It sounds good, but there's just one problem.",
+      "zh": "听起来不错，但只有一个问题。"
+    },
+    {
+      "id": 117,
+      "start": 402.49,
+      "end": 404.27,
+      "en": "I have a terrible credit score.",
+      "zh": "我的信用评分很差。"
+    },
+    {
+      "id": 118,
+      "start": 404.83,
+      "end": 406.89,
+      "en": "That is a very serious problem, you see.",
+      "zh": "这是一个非常严重的问题，你看。"
+    },
+    {
+      "id": 119,
+      "start": 407.43,
+      "end": 416.61,
+      "en": "The bank must assess your personal information, past loans, assets, and any other relevant information such as your credit score in order to approve your loan.",
+      "zh": "银行必须评估您的个人信息、过去的贷款、资产和任何其他相关信息，例如您的信用评分，以批准您的贷款。"
+    },
+    {
+      "id": 120,
+      "start": 417.25,
+      "end": 417.77,
+      "en": "You know what?",
+      "zh": "你知道吗？"
+    },
+    {
+      "id": 121,
+      "start": 418.29,
+      "end": 419.07,
+      "en": "I don't really need the money.",
+      "zh": "我真的不需要钱。"
+    },
+    {
+      "id": 122,
+      "start": 419.51,
+      "end": 419.91,
+      "en": "Thanks anyways.",
+      "zh": "不管怎样，还是谢谢你。"
+    },
+    {
+      "id": 123,
+      "start": 420.52,
+      "end": 421.52,
+      "en": "Alright, we're back.",
+      "zh": "好了，我们回来了。"
+    },
+    {
+      "id": 124,
+      "start": 424.55,
+      "end": 428.47,
+      "en": "So now, why don't we take a look at three key phrases on Fluency Builder.",
+      "zh": "那么现在，我们为什么不看看 Fluency Builder 上的三个关键短语。"
+    },
+    {
+      "id": 125,
+      "start": 433.0,
+      "end": 433.98,
+      "en": "Let me get this straight.",
+      "zh": "让我直截了当。"
+    },
+    {
+      "id": 126,
+      "start": 434.1,
+      "end": 435.18,
+      "en": "We're going to do Fluency Builder?",
+      "zh": "我们要做流利建设者？"
+    },
+    {
+      "id": 127,
+      "start": 435.64,
+      "end": 436.36,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 128,
+      "start": 436.66,
+      "end": 437.48,
+      "en": "Wait, I don't.",
+      "zh": "等等，我没有。"
+    },
+    {
+      "id": 129,
+      "start": 438.08,
+      "end": 439.08,
+      "en": "Wait.",
+      "zh": "等等。"
+    },
+    {
+      "id": 130,
+      "start": 439.08,
+      "end": 440.08,
+      "en": "So, okay.",
+      "zh": "那么，好吧。"
+    },
+    {
+      "id": 131,
+      "start": 440.08,
+      "end": 441.08,
+      "en": "So this is our first phrase.",
+      "zh": "所以这是我们的第一个短语。"
+    },
+    {
+      "id": 132,
+      "start": 441.08,
+      "end": 444.66,
+      "en": "Let me get this straight, and this is a fixed phrase that means we always say it the same way.",
+      "zh": "让我直截了当地说，这是一个固定的短语，意味着我们总是以同样的方式说出来。"
+    },
+    {
+      "id": 133,
+      "start": 445.56,
+      "end": 446.9,
+      "en": "Wait, let me get this straight.",
+      "zh": "等等，让我直截了当地说。"
+    },
+    {
+      "id": 134,
+      "start": 447.24,
+      "end": 448.38,
+      "en": "We always say it the same way?",
+      "zh": "我们总是以同样的方式说？"
+    },
+    {
+      "id": 135,
+      "start": 449.34,
+      "end": 455.74,
+      "en": "Right, so you're asking for a confirmation or you're repeating what that person said just to be sure that it's correct.",
+      "zh": "对，所以你要求确认，或者你重复那个人所说的只是为了确保它是正确的。"
+    },
+    {
+      "id": 136,
+      "start": 456.02,
+      "end": 456.34,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 137,
+      "start": 456.7,
+      "end": 461.02,
+      "en": "So, maybe you don't understand something or maybe you think you might have misunderstood.",
+      "zh": "所以，也许你不明白某事，或者你认为你可能误解了。"
+    },
+    {
+      "id": 138,
+      "start": 461.64,
+      "end": 466.88,
+      "en": "You say, hey, so let me get this straight, and you repeat what the person just said.",
+      "zh": "你说，嘿，所以让我直截了当地说，然后你重复对方所说的话。"
+    },
+    {
+      "id": 139,
+      "start": 467.38,
+      "end": 470.56,
+      "en": "It's a way for you to, like you say, get confirmation on what you've heard.",
+      "zh": "就像你说的那样，这是一种让你确认你所听到的东西的方式。"
+    },
+    {
+      "id": 140,
+      "start": 470.78,
+      "end": 471.28,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 141,
+      "start": 471.86,
+      "end": 472.86,
+      "en": "Let me get this straight.",
+      "zh": "让我直截了当。"
+    },
+    {
+      "id": 142,
+      "start": 473.44,
+      "end": 475.88,
+      "en": "And now, moving on, we have the phrase, pay it back.",
+      "zh": "现在，继续前进，我们有了这句话，还清了它。"
+    },
+    {
+      "id": 143,
+      "start": 475.88,
+      "end": 476.86,
+      "en": "You have to pay it back.",
+      "zh": "你必须偿还它。"
+    },
+    {
+      "id": 144,
+      "start": 477.68,
+      "end": 482.66,
+      "en": "Okay, and so in this case, we have the verb to pay, but we also have the word back.",
+      "zh": "好的，在这种情况下，我们有动词要付费，但我们也有这个词。"
+    },
+    {
+      "id": 145,
+      "start": 482.88,
+      "end": 484.78,
+      "en": "So pay it back means to repay.",
+      "zh": "所以偿还它的意思是偿还。"
+    },
+    {
+      "id": 146,
+      "start": 485.54,
+      "end": 489.68,
+      "en": "So if we take out a loan, we obviously have to pay it back to the bank.",
+      "zh": "因此，如果我们贷款，我们显然必须将其偿还给银行。"
+    },
+    {
+      "id": 147,
+      "start": 489.8,
+      "end": 491.56,
+      "en": "Right, so you have to pay the loan back.",
+      "zh": "对，所以你必须偿还贷款。"
+    },
+    {
+      "id": 148,
+      "start": 492.06,
+      "end": 495.26,
+      "en": "Okay, so just remember that these words often go together, to pay it back.",
+      "zh": "好吧，所以请记住，这些话经常并存，以偿还。"
+    },
+    {
+      "id": 149,
+      "start": 495.5,
+      "end": 496.92,
+      "en": "I'll pay you back, I promise.",
+      "zh": "我会还给你的，我保证。"
+    },
+    {
+      "id": 150,
+      "start": 497.08,
+      "end": 498.02,
+      "en": "Right, can you lend me a dollar?",
+      "zh": "对，你能借我一美元吗？"
+    },
+    {
+      "id": 151,
+      "start": 498.2,
+      "end": 498.82,
+      "en": "I'll pay you back tomorrow.",
+      "zh": "我明天还给你。"
+    },
+    {
+      "id": 152,
+      "start": 499.16,
+      "end": 501.04,
+      "en": "Nah, don't worry about it.",
+      "zh": "不，不要担心。"
+    },
+    {
+      "id": 153,
+      "start": 501.04,
+      "end": 507.6,
+      "en": "Alright, and the bank started off saying, we pride ourselves in having the lowest interest rate in the country.",
+      "zh": "好吧，银行开始说，我们为拥有该国最低的利率而自豪。"
+    },
+    {
+      "id": 154,
+      "start": 507.6,
+      "end": 508.33,
+      "en": "Yeah, right.",
+      "zh": "是啊，可不是嘛。"
+    },
+    {
+      "id": 155,
+      "start": 508.6,
+      "end": 510.68,
+      "en": "Alright, so we pride ourselves.",
+      "zh": "好吧，所以我们为自己感到骄傲。"
+    },
+    {
+      "id": 156,
+      "start": 510.68,
+      "end": 513.97,
+      "en": "What does it mean if I pride myself in something?",
+      "zh": "如果我为某事感到自豪，这意味着什么？"
+    },
+    {
+      "id": 157,
+      "start": 514.33,
+      "end": 520.39,
+      "en": "The word pride means to be really happy about something that has to do with yourself.",
+      "zh": "骄傲这个词意味着对与自己有关的事情感到非常高兴。"
+    },
+    {
+      "id": 158,
+      "start": 521.22,
+      "end": 524.92,
+      "en": "So something that you're proud of is something that you want to tell a lot of other people about.",
+      "zh": "所以你引以为豪的东西是你想告诉很多其他人的事情。"
+    },
+    {
+      "id": 159,
+      "start": 525.16,
+      "end": 533.3,
+      "en": "For example, a father may say, my son just got straight A's and he's an excellent soccer player and so he's proud of his son.",
+      "zh": "例如，一位父亲可能会说，我的儿子刚刚获得了 A 分，他是一名出色的足球运动员，因此他为儿子感到自豪。"
+    },
+    {
+      "id": 160,
+      "start": 533.86,
+      "end": 539.52,
+      "en": "But to pride oneself means to be really happy with the way that you do something.",
+      "zh": "但自豪意味着对你做某事的方式感到非常满意。"
+    },
+    {
+      "id": 161,
+      "start": 539.7,
+      "end": 543.02,
+      "en": "Right, so for example, if I've never smoked, right?",
+      "zh": "对，例如，如果我从未吸烟，对吧？"
+    },
+    {
+      "id": 162,
+      "start": 543.52,
+      "end": 546.44,
+      "en": "So I can say, I pride myself in being a non-smoker.",
+      "zh": "所以我可以说，我为自己是一个不吸烟者而自豪。"
+    },
+    {
+      "id": 163,
+      "start": 547.34,
+      "end": 552.26,
+      "en": "Or I could say, I pride myself in always saving lots of money for my paycheck.",
+      "zh": "或者我可以说，我为自己总是为我的薪水节省很多钱而感到自豪。"
+    },
+    {
+      "id": 164,
+      "start": 552.84,
+      "end": 553.84,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 165,
+      "start": 553.84,
+      "end": 555.4,
+      "en": "So it means I try to do this because I know it's a good thing.",
+      "zh": "所以这意味着我尝试这样做，因为我知道这是一件好事。"
+    },
+    {
+      "id": 166,
+      "start": 555.64,
+      "end": 559.42,
+      "en": "But you feel very good about this and you feel that people should be proud of you as well.",
+      "zh": "但是你对此感觉非常好，你觉得人们也应该为你感到骄傲。"
+    },
+    {
+      "id": 167,
+      "start": 560.05,
+      "end": 564.79,
+      "en": "So we could ask our students here, what do you pride yourselves in as a challenge?",
+      "zh": "所以我们可以在这里问我们的学生，作为一个挑战，你为自己感到自豪的是什么？"
+    },
+    {
+      "id": 168,
+      "start": 564.79,
+      "end": 565.93,
+      "en": "As a challenge for the website.",
+      "zh": "作为网站的挑战。"
+    },
+    {
+      "id": 169,
+      "start": 566.57,
+      "end": 570.27,
+      "en": "Alright, so why don't we listen to the dialogue for the last time and we'll be back.",
+      "zh": "好吧，我们为什么不最后一次听对话，我们会回来的。"
+    },
+    {
+      "id": 170,
+      "start": 579.58,
+      "end": 580.92,
+      "en": "Hello sir, may I help you?",
+      "zh": "你好先生，我可以帮你吗？"
+    },
+    {
+      "id": 171,
+      "start": 581.44,
+      "end": 581.88,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 172,
+      "start": 582.4,
+      "end": 584.7,
+      "en": "Would you like some information for requesting a loan?",
+      "zh": "您想要一些申请贷款的信息吗？"
+    },
+    {
+      "id": 173,
+      "start": 585.36,
+      "end": 586.18,
+      "en": "Very well.",
+      "zh": "很好。"
+    },
+    {
+      "id": 174,
+      "start": 586.68,
+      "end": 589.26,
+      "en": "Here are the general terms of our loan policies.",
+      "zh": "以下是我们的贷款政策的一般条款。"
+    },
+    {
+      "id": 175,
+      "start": 590.2,
+      "end": 594.52,
+      "en": "We pride ourselves in having the lowest interest rate in the country for personal loans.",
+      "zh": "我们很自豪，我们的个人贷款利率是全国最低的。"
+    },
+    {
+      "id": 176,
+      "start": 594.88,
+      "end": 595.66,
+      "en": "I see.",
+      "zh": "我明白了。"
+    },
+    {
+      "id": 177,
+      "start": 596.18,
+      "end": 597.66,
+      "en": "So let me get this straight.",
+      "zh": "所以让我直截了当地说。"
+    },
+    {
+      "id": 178,
+      "start": 598.46,
+      "end": 603.08,
+      "en": "If I borrow, let's say, $10,000, how much will I have to pay each month?",
+      "zh": "如果我借钱，比如说，10,000 美元，我每个月要付多少钱？"
+    },
+    {
+      "id": 179,
+      "start": 603.62,
+      "end": 606.28,
+      "en": "It depends on how long you take to pay it back.",
+      "zh": "这取决于您需要多长时间才能偿还。"
+    },
+    {
+      "id": 180,
+      "start": 606.77,
+      "end": 620.67,
+      "en": "If we lend you $10,000 at an annual interest rate of 10% for 48 months, you would have to pay each month a portion of the loan, which is called the principal, and another small portion of the annual interest rate.",
+      "zh": "如果我们以百分之十的年利率借给您一万美元，分四十八个月偿还，您每个月都要还一部分贷款，也就是本金，另外再支付一些利息。"
+    },
+    {
+      "id": 181,
+      "start": 621.49,
+      "end": 624.45,
+      "en": "This of course is considering that you don't default on a payment.",
+      "zh": "当然，前提是您每期都按时还款。"
+    },
+    {
+      "id": 182,
+      "start": 625.19,
+      "end": 628.27,
+      "en": "It sounds good, but there's just one problem.",
+      "zh": "听起来不错，但只有一个问题。"
+    },
+    {
+      "id": 183,
+      "start": 628.8,
+      "end": 630.64,
+      "en": "I have a terrible credit score.",
+      "zh": "我的信用评分很差。"
+    },
+    {
+      "id": 184,
+      "start": 631.28,
+      "end": 633.26,
+      "en": "That is a very serious problem, you see.",
+      "zh": "这是一个非常严重的问题，你看。"
+    },
+    {
+      "id": 185,
+      "start": 633.84,
+      "end": 643.84,
+      "en": "The bank must assess your personal information, past loans, assets, and any other relevant information, such as your credit score, in order to approve your loan.",
+      "zh": "银行必须评估您的个人信息、过去的贷款、资产以及任何其他相关信息，例如您的信用评分，以便批准您的贷款。"
+    },
+    {
+      "id": 186,
+      "start": 643.84,
+      "end": 644.14,
+      "en": "You know what?",
+      "zh": "你知道吗？"
+    },
+    {
+      "id": 187,
+      "start": 645.22,
+      "end": 646.12,
+      "en": "I don't really need the money.",
+      "zh": "我真的不需要钱。"
+    },
+    {
+      "id": 188,
+      "start": 646.62,
+      "end": 646.98,
+      "en": "Thanks anyways.",
+      "zh": "不管怎样，还是谢谢你。"
+    },
+    {
+      "id": 189,
+      "start": 652.62,
+      "end": 653.4,
+      "en": "Alright, very good.",
+      "zh": "好，很好。"
+    },
+    {
+      "id": 190,
+      "start": 653.52,
+      "end": 655.64,
+      "en": "So as you say, saving is important.",
+      "zh": "所以你说，储蓄很重要。"
+    },
+    {
+      "id": 191,
+      "start": 655.64,
+      "end": 658.36,
+      "en": "And well, sometimes, do you think you need a loan?",
+      "zh": "好吧，有时，您认为您需要贷款吗？"
+    },
+    {
+      "id": 192,
+      "start": 659.16,
+      "end": 662.63,
+      "en": "I think sometimes people need loans because they want to go into business, for example.",
+      "zh": "我认为有时人们需要贷款是因为他们想创业，例如。"
+    },
+    {
+      "id": 193,
+      "start": 663.04,
+      "end": 668.83,
+      "en": "So people who want to go into small businesses or open their own companies need startup capital.",
+      "zh": "因此，想要进入小企业或开设自己公司的人需要启动资金。"
+    },
+    {
+      "id": 194,
+      "start": 669.36,
+      "end": 675.79,
+      "en": "This is a really great example of when people don't have the money lying around and will go to find a bank that will give them a loan.",
+      "zh": "这是一个很好的例子，说明人们没有钱，会去找一家可以给他们贷款的银行。"
+    },
+    {
+      "id": 195,
+      "start": 676.41,
+      "end": 689.59,
+      "en": "So yeah, I think it's really important, especially for the economy of a country, for business loans or small business loans to be available because sometimes it's very difficult to find a bank that will actually lend a person money to start a business.",
+      "zh": "所以，是的，我认为非常重要的是，特别是对于一个国家的经济来说，商业贷款或小企业贷款是可用的，因为有时很难找到一家能够真正借出一个人创业的银行。"
+    },
+    {
+      "id": 196,
+      "start": 690.25,
+      "end": 696.67,
+      "en": "Usually they won't have a problem with lending them money to buy a new car, but to start up a business, it's completely the opposite.",
+      "zh": "通常他们不会有钱借钱买新车，但要创业，情况完全相反。"
+    },
+    {
+      "id": 197,
+      "start": 697.27,
+      "end": 697.49,
+      "en": "It is.",
+      "zh": "确实是这样。"
+    },
+    {
+      "id": 198,
+      "start": 698.28,
+      "end": 704.36,
+      "en": "And one of the really popular trends in foreign investment right now is called micro-lending, so micro-loans.",
+      "zh": "而目前外商投资中真正流行的趋势之一是小额贷款和小额贷款。"
+    },
+    {
+      "id": 199,
+      "start": 704.36,
+      "end": 723.2,
+      "en": "And that means that if I want to help people in a very poor country, I can lend $100 for someone to buy a sewing machine or for someone to buy a small computer, $500 for a small computer, and that is a micro-loan.",
+      "zh": "这意味着如果我想帮助一个非常贫穷的国家的人，我可以借 100 美元让某人购买缝纫机或让某人购买一台小型电脑，500 美元购买小型电脑，那就是小额贷款。"
+    },
+    {
+      "id": 200,
+      "start": 723.3,
+      "end": 729.22,
+      "en": "It's a very, very small loan for one thing, and that can help them towards their goal of being a business person.",
+      "zh": "一方面，这是一笔非常非常小的贷款，可以帮助他们实现成为一名商人的目标。"
+    },
+    {
+      "id": 201,
+      "start": 729.52,
+      "end": 729.68,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 202,
+      "start": 730.52,
+      "end": 731.74,
+      "en": "And you're not really getting money out of it, though.",
+      "zh": "不过，你并没有真正从中赚钱。"
+    },
+    {
+      "id": 203,
+      "start": 731.92,
+      "end": 734.02,
+      "en": "You're not charging like 100% interest rate.",
+      "zh": "您不会像 100% 利率那样收取费用。"
+    },
+    {
+      "id": 204,
+      "start": 734.24,
+      "end": 734.64,
+      "en": "You're not.",
+      "zh": "你不是。"
+    },
+    {
+      "id": 205,
+      "start": 734.86,
+      "end": 743.19,
+      "en": "You're charging like 1 or 2% interest, very low interest, and you're giving people a chance to pay the money back because it's such a small amount.",
+      "zh": "您收取的利息为 1% 或 2%，利息非常低，而且您让人们有机会偿还这笔钱，因为它的金额太小了。"
+    },
+    {
+      "id": 206,
+      "start": 743.37,
+      "end": 744.21,
+      "en": "Wow, that's really good.",
+      "zh": "哇，真的很好。"
+    },
+    {
+      "id": 207,
+      "start": 744.32,
+      "end": 746.12,
+      "en": "A really positive thing.",
+      "zh": "一件非常积极的事情。"
+    },
+    {
+      "id": 208,
+      "start": 746.12,
+      "end": 747.12,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 209,
+      "start": 747.12,
+      "end": 752.95,
+      "en": "So if you have any questions, any comments, or any suggestions, please come to our website at EnglishPod.com, and we'll see you guys there.",
+      "zh": "因此，如果您有任何问题、任何意见或任何建议，请访问我们的网站 englishpod.com，我们将在那里见到你们。"
+    },
+    {
+      "id": 210,
+      "start": 753.67,
+      "end": 753.95,
+      "en": "Bye, everyone.",
+      "zh": "大家再见。"
+    },
+    {
+      "id": 211,
+      "start": 754.28,
+      "end": 762.671,
+      "en": "See you next time.",
+      "zh": "下次见。"
+    }
+  ],
+  "dialog": {
+    "start": 52.44,
+    "end": 119.86,
+    "segmentIds": [
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+    ]
+  }
+}

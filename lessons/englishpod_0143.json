@@ -1,0 +1,2179 @@
+{
+  "version": 1,
+  "id": 143,
+  "number": "0143",
+  "title": "Daily Life - The Butcher",
+  "audio": "mp3/143. Daily Life - The Butcher.mp3",
+  "duration": 956.787,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.68,
+      "en": "Hello everyone and welcome back to EnglishPod.",
+      "zh": "大家好，欢迎回到 EnglishPod。"
+    },
+    {
+      "id": 2,
+      "start": 5.96,
+      "end": 6.44,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 6.96,
+      "end": 7.98,
+      "en": "And my name is Catherine.",
+      "zh": "我叫 Catherine。"
+    },
+    {
+      "id": 4,
+      "start": 9.02,
+      "end": 12.25,
+      "en": "And today we're going to be visiting one of my favorite places, I must say.",
+      "zh": "今天我们将参观我最喜欢的地方之一，我必须说。"
+    },
+    {
+      "id": 5,
+      "start": 12.69,
+      "end": 13.03,
+      "en": "Really?",
+      "zh": "真的吗？"
+    },
+    {
+      "id": 6,
+      "start": 13.64,
+      "end": 15.16,
+      "en": "So you're a big meat eater?",
+      "zh": "所以你是一个大肉食者？"
+    },
+    {
+      "id": 7,
+      "start": 15.21,
+      "end": 15.59,
+      "en": "I am.",
+      "zh": "我是。"
+    },
+    {
+      "id": 8,
+      "start": 15.73,
+      "end": 20.07,
+      "en": "I have to have meat every day, so that's why I usually go to the butcher.",
+      "zh": "我必须每天吃肉，所以这就是我通常去找屠夫的原因。"
+    },
+    {
+      "id": 9,
+      "start": 20.67,
+      "end": 20.85,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 10,
+      "start": 21.36,
+      "end": 26.79,
+      "en": "So vegetarians be warned, today's dialogue is all about eating meat and where to go to get meat.",
+      "zh": "所以素食者要注意，今天的对话就是吃肉和去哪里买肉。"
+    },
+    {
+      "id": 11,
+      "start": 27.32,
+      "end": 29.01,
+      "en": "So as Marco said, that place is called the butcher's.",
+      "zh": "正如马可所说，那个地方被称为屠夫。"
+    },
+    {
+      "id": 12,
+      "start": 29.44,
+      "end": 34.01,
+      "en": "So we're going to be visiting the butcher and we're going to learn all the different types of meat you can find there.",
+      "zh": "所以我们将去拜访屠夫，我们将学习你在那里找到的所有不同类型的肉类。"
+    },
+    {
+      "id": 13,
+      "start": 34.52,
+      "end": 35.52,
+      "en": "Great.",
+      "zh": "太好了。"
+    },
+    {
+      "id": 14,
+      "start": 35.52,
+      "end": 44.36,
+      "en": "So we don't have anything to preview, but before we get started, just like to mention that you're going to hear a lot of different kinds of words and we'll be back in a minute to talk about what they mean.",
+      "zh": "所以我们没有任何东西可以预览，但在我们开始之前，只是想提一下你会听到很多不同类型的单词，我们会在一分钟内回来讨论它们的含义。"
+    },
+    {
+      "id": 15,
+      "start": 46.44,
+      "end": 57.68,
+      "en": "Hi, what can I get for you?",
+      "zh": "你好，我能给你买什么？"
+    },
+    {
+      "id": 16,
+      "start": 57.68,
+      "end": 59.52,
+      "en": "I'd like half pound of ground beef, please.",
+      "zh": "请给我半磅牛肉馅。"
+    },
+    {
+      "id": 17,
+      "start": 60.48,
+      "end": 60.98,
+      "en": "Good choice.",
+      "zh": "不错的选择。"
+    },
+    {
+      "id": 18,
+      "start": 61.86,
+      "end": 66.48,
+      "en": "Our ground beef is extra lean, if you know what I mean.",
+      "zh": "我们的牛肉馅脂肪特别少，你懂我的意思吧。"
+    },
+    {
+      "id": 19,
+      "start": 67.92,
+      "end": 71.94,
+      "en": "Could I also have half a dozen pork chops and two pounds of boneless chicken breast?",
+      "zh": "再给我六块猪排和两磅去骨鸡胸肉，好吗？"
+    },
+    {
+      "id": 20,
+      "start": 72.6,
+      "end": 77.54,
+      "en": "No, no, no chicken breasts at the moment.",
+      "zh": "不，不，目前没有鸡胸肉。"
+    },
+    {
+      "id": 21,
+      "start": 78.4,
+      "end": 81.96,
+      "en": "But we have some nice chicken thighs.",
+      "zh": "不过我们有些很不错的鸡腿肉。"
+    },
+    {
+      "id": 22,
+      "start": 82.52,
+      "end": 83.82,
+      "en": "No, that won't do.",
+      "zh": "不，那不合适。"
+    },
+    {
+      "id": 23,
+      "start": 84.32,
+      "end": 86.14,
+      "en": "I'll take this smoked ham you have here.",
+      "zh": "那我要这里的烟熏火腿吧。"
+    },
+    {
+      "id": 24,
+      "start": 87.08,
+      "end": 89.96,
+      "en": "Sorry, is there anything else?",
+      "zh": "对不起，还有什么吗？"
+    },
+    {
+      "id": 25,
+      "start": 89.96,
+      "end": 92.34,
+      "en": "Is this salami and bologna you have here?",
+      "zh": "这里的是萨拉米香肠和博洛尼亚香肠吗？"
+    },
+    {
+      "id": 26,
+      "start": 93.44,
+      "end": 96.66,
+      "en": "Yes, it's very fine meat.",
+      "zh": "是的，这是非常好的肉。"
+    },
+    {
+      "id": 27,
+      "start": 97.72,
+      "end": 98.2,
+      "en": "Made it myself.",
+      "zh": "自己做的。"
+    },
+    {
+      "id": 28,
+      "start": 99.96,
+      "end": 100.1,
+      "en": "Sounds good.",
+      "zh": "听起来不错。"
+    },
+    {
+      "id": 29,
+      "start": 100.96,
+      "end": 101.22,
+      "en": "Okay, that's it.",
+      "zh": "好吧，就是这样。"
+    },
+    {
+      "id": 30,
+      "start": 101.96,
+      "end": 106.96,
+      "en": "Wait, we have T-bone, rib eye and sirloin steaks.",
+      "zh": "等等，我们有 T 骨、肋眼和沙朗牛排。"
+    },
+    {
+      "id": 31,
+      "start": 107.92,
+      "end": 109.16,
+      "en": "They are very fresh.",
+      "zh": "它们非常新鲜。"
+    },
+    {
+      "id": 32,
+      "start": 109.86,
+      "end": 111.7,
+      "en": "Just came from the slaughterhouse.",
+      "zh": "刚从屠宰场来。"
+    },
+    {
+      "id": 33,
+      "start": 112.69,
+      "end": 114.48,
+      "en": "No, that's okay.",
+      "zh": "不，没关系。"
+    },
+    {
+      "id": 34,
+      "start": 115.17,
+      "end": 116.75,
+      "en": "Really, I think that's all for today.",
+      "zh": "真的，我想这就是今天的全部内容。"
+    },
+    {
+      "id": 35,
+      "start": 120.24,
+      "end": 126.16,
+      "en": "Okay, that'll be $34.50.",
+      "zh": "好的，那将是 34.50 美元。"
+    },
+    {
+      "id": 36,
+      "start": 129.9,
+      "end": 130.92,
+      "en": "All right, we're back.",
+      "zh": "好了，我们回来了。"
+    },
+    {
+      "id": 37,
+      "start": 131.2,
+      "end": 133.34,
+      "en": "So this butcher was kind of creepy in the beginning.",
+      "zh": "所以这个屠夫一开始有点令人毛骨悚然。"
+    },
+    {
+      "id": 38,
+      "start": 133.58,
+      "end": 135.56,
+      "en": "Very creepy in the beginning.",
+      "zh": "一开始非常令人毛骨悚然。"
+    },
+    {
+      "id": 39,
+      "start": 136.02,
+      "end": 143.99,
+      "en": "I think that's usually the conception that you have of butchers because they always have a knife and they're always covered in blood, but it's not human blood.",
+      "zh": "我认为这通常是你对屠夫的概念，因为他们总是有一把刀，而且他们总是被血覆盖，但这不是人类的血液。"
+    },
+    {
+      "id": 40,
+      "start": 144.2,
+      "end": 146.13,
+      "en": "Right, like the movie Sweeney Todd.",
+      "zh": "对，就像电影斯威尼托德一样。"
+    },
+    {
+      "id": 41,
+      "start": 146.47,
+      "end": 146.89,
+      "en": "Did you see that?",
+      "zh": "你看到了吗？"
+    },
+    {
+      "id": 42,
+      "start": 146.89,
+      "end": 147.85,
+      "en": "Yeah, like Sweeney Todd.",
+      "zh": "是的，就像斯威尼托德一样。"
+    },
+    {
+      "id": 43,
+      "start": 148.24,
+      "end": 152.24,
+      "en": "The butcher of Fleet Street.",
+      "zh": "舰队街的屠夫。"
+    },
+    {
+      "id": 44,
+      "start": 152.24,
+      "end": 158.0,
+      "en": "But we actually took a look at a lot of different types of meat that the woman was ordering.",
+      "zh": "但我们实际上看了很多不同类型的女人点的肉。"
+    },
+    {
+      "id": 45,
+      "start": 158.0,
+      "end": 160.43,
+      "en": "So why don't we take a look at these now in Language Takeaway.",
+      "zh": "那么我们为什么不现在在语言外卖中看看这些。"
+    },
+    {
+      "id": 46,
+      "start": 162.6,
+      "end": 163.18,
+      "en": "Language Takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 47,
+      "start": 164.3,
+      "end": 167.4,
+      "en": "Okay, so the first is a classic cut.",
+      "zh": "好吧，第一个是经典剪裁。"
+    },
+    {
+      "id": 48,
+      "start": 167.6,
+      "end": 170.36,
+      "en": "This is something that we had at my house about once a week growing up.",
+      "zh": "这是我们在我家长大一周一次的东西。"
+    },
+    {
+      "id": 49,
+      "start": 170.48,
+      "end": 171.28,
+      "en": "It's called a pork chop.",
+      "zh": "它被称为猪排。"
+    },
+    {
+      "id": 50,
+      "start": 171.58,
+      "end": 172.32,
+      "en": "Pork chop.",
+      "zh": "猪排。"
+    },
+    {
+      "id": 51,
+      "start": 172.98,
+      "end": 176.68,
+      "en": "So a pork chop comes from the animal, the pork or pig.",
+      "zh": "所以猪排来自动物、猪肉或猪。"
+    },
+    {
+      "id": 52,
+      "start": 177.06,
+      "end": 178.9,
+      "en": "Yeah, we actually don't say pork to mean the animal.",
+      "zh": "是的，我们实际上并不是说猪肉是指动物。"
+    },
+    {
+      "id": 53,
+      "start": 179.18,
+      "end": 181.66,
+      "en": "Pork just means the kind of meat that comes from a pig.",
+      "zh": "猪肉只是指来自猪的那种肉。"
+    },
+    {
+      "id": 54,
+      "start": 181.96,
+      "end": 185.52,
+      "en": "So big difference there when we're talking about food, we say pork.",
+      "zh": "当我们谈论食物时，那里的差异很大，我们说猪肉。"
+    },
+    {
+      "id": 55,
+      "start": 185.52,
+      "end": 186.52,
+      "en": "Oh, wow.",
+      "zh": "哦，哇。"
+    },
+    {
+      "id": 56,
+      "start": 186.52,
+      "end": 188.0,
+      "en": "And what about a pork chop?",
+      "zh": "那么猪排呢？"
+    },
+    {
+      "id": 57,
+      "start": 188.24,
+      "end": 189.36,
+      "en": "So what exactly is that?",
+      "zh": "那究竟是什么？"
+    },
+    {
+      "id": 58,
+      "start": 189.71,
+      "end": 201.95,
+      "en": "Chop is usually just on the bone and oftentimes it's fried or baked, I guess, but it's just a piece of pork on the bone and a chop, you just imagine a knife chopping something.",
+      "zh": "我猜，排骨通常只是在骨头上，而且通常是油炸或烤制的，但它只是骨头上的一块猪肉和一块碎片，你只是想象一把刀在砍东西。"
+    },
+    {
+      "id": 59,
+      "start": 202.52,
+      "end": 205.88,
+      "en": "All right, so a pork chop, very good.",
+      "zh": "好吧，所以猪排，非常好。"
+    },
+    {
+      "id": 60,
+      "start": 205.88,
+      "end": 209.17,
+      "en": "And after pork chops, we were ordering some ground beef.",
+      "zh": "在猪排之后，我们点了一些碎牛肉。"
+    },
+    {
+      "id": 61,
+      "start": 209.44,
+      "end": 213.04,
+      "en": "All right, so ground beef is another important one.",
+      "zh": "好吧，所以碎牛肉是另一件重要的事情。"
+    },
+    {
+      "id": 62,
+      "start": 213.04,
+      "end": 223.4,
+      "en": "Ground beef is beef that's been chopped up and pushed through a machine that kind of pushes it out in very, very small bits and pieces.",
+      "zh": "碎牛肉是被切碎并推过一台机器的牛肉，它将其推出非常非常小的碎片。"
+    },
+    {
+      "id": 63,
+      "start": 223.4,
+      "end": 223.65,
+      "en": "There's no bones.",
+      "zh": "没有骨头。"
+    },
+    {
+      "id": 64,
+      "start": 224.4,
+      "end": 226.25,
+      "en": "So ground comes from the verb to grind.",
+      "zh": "所以磨碎来自动词到磨牙。"
+    },
+    {
+      "id": 65,
+      "start": 227.24,
+      "end": 230.43,
+      "en": "So to grind up meat, to make it very, very small pieces.",
+      "zh": "所以把肉磨起来，把它做得很小，很小的。"
+    },
+    {
+      "id": 66,
+      "start": 231.27,
+      "end": 236.93,
+      "en": "Right, so if you want to make a spaghetti bolognese, the kind of beef you use is ground beef or even hamburgers.",
+      "zh": "对，所以如果你想做意大利面条，你用的牛肉是碎牛肉甚至汉堡包。"
+    },
+    {
+      "id": 67,
+      "start": 237.32,
+      "end": 238.84,
+      "en": "Oh, yeah, exactly.",
+      "zh": "哦，是的，没错。"
+    },
+    {
+      "id": 68,
+      "start": 238.84,
+      "end": 241.42,
+      "en": "So ground beef, you ground up beef.",
+      "zh": "所以碎牛肉，你把牛肉磨碎。"
+    },
+    {
+      "id": 69,
+      "start": 241.42,
+      "end": 242.45,
+      "en": "What other things would you grind?",
+      "zh": "你还会磨什么？"
+    },
+    {
+      "id": 70,
+      "start": 243.6,
+      "end": 245.81,
+      "en": "You could grind your teeth.",
+      "zh": "你可以磨牙。"
+    },
+    {
+      "id": 71,
+      "start": 247.28,
+      "end": 249.65,
+      "en": "Some people do that when they're sleeping, they grind their teeth.",
+      "zh": "有些人在睡觉时会这样做，他们会磨牙。"
+    },
+    {
+      "id": 72,
+      "start": 250.64,
+      "end": 253.49,
+      "en": "You can grind, you have pepper grinders.",
+      "zh": "你可以磨，你有胡椒粉。"
+    },
+    {
+      "id": 73,
+      "start": 253.68,
+      "end": 258.76,
+      "en": "You know, peppers sometimes come in balls and you have to grind them to make them smaller and broken down.",
+      "zh": "你知道，辣椒有时会成球，你必须研磨它们以使它们变小并分解。"
+    },
+    {
+      "id": 74,
+      "start": 258.76,
+      "end": 259.11,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 75,
+      "start": 259.76,
+      "end": 263.19,
+      "en": "So that's ground beef and from the verb to grind.",
+      "zh": "所以这是碎牛肉和从动词到研磨。"
+    },
+    {
+      "id": 76,
+      "start": 264.44,
+      "end": 267.75,
+      "en": "Now we are buying some boneless chicken breasts.",
+      "zh": "现在我们要买一些无骨鸡胸肉。"
+    },
+    {
+      "id": 77,
+      "start": 268.28,
+      "end": 273.44,
+      "en": "All right, so boneless, as you have guessed, means without bones.",
+      "zh": "好吧，正如你所猜测的那样，无骨的意思是没有骨头。"
+    },
+    {
+      "id": 78,
+      "start": 273.44,
+      "end": 286.72,
+      "en": "And chicken breasts are usually just a really nice, juicy, kind of tender cut of meat from the chicken, from the underside of the chicken where obviously, yeah, they have it.",
+      "zh": "鸡胸肉通常只是一种非常美味、多汁、嫩嫩的肉块，从鸡肉的下面，显然，是的，他们有它。"
+    },
+    {
+      "id": 79,
+      "start": 286.72,
+      "end": 288.83,
+      "en": "It's not a wing, it's not a leg, it's just a chicken breast.",
+      "zh": "它不是翅膀，不是腿，只是鸡胸肉。"
+    },
+    {
+      "id": 80,
+      "start": 289.24,
+      "end": 291.12,
+      "en": "All right, so boneless chicken breast.",
+      "zh": "好吧，所以去骨鸡胸肉。"
+    },
+    {
+      "id": 81,
+      "start": 291.12,
+      "end": 293.79,
+      "en": "Now usually it is boneless, right, when you buy it at the supermarket.",
+      "zh": "现在通常它是无骨的，对了，当你在超市买的时候。"
+    },
+    {
+      "id": 82,
+      "start": 294.4,
+      "end": 295.56,
+      "en": "Yeah, yeah.",
+      "zh": "对，对。"
+    },
+    {
+      "id": 83,
+      "start": 295.56,
+      "end": 299.36,
+      "en": "Next up, we've got some classic deli counter favorites.",
+      "zh": "接下来，我们有一些经典的熟食柜台收藏夹。"
+    },
+    {
+      "id": 84,
+      "start": 299.36,
+      "end": 300.61,
+      "en": "These are our cold cuts.",
+      "zh": "这些是我们的冷切。"
+    },
+    {
+      "id": 85,
+      "start": 301.23,
+      "end": 302.67,
+      "en": "All right, so cold cuts.",
+      "zh": "好吧，所以冷切。"
+    },
+    {
+      "id": 86,
+      "start": 303.13,
+      "end": 304.97,
+      "en": "Now this means that they are cold?",
+      "zh": "现在这意味着他们很冷？"
+    },
+    {
+      "id": 87,
+      "start": 305.52,
+      "end": 307.6,
+      "en": "Oh, well, yeah, they're cold.",
+      "zh": "哦，是的，他们很冷。"
+    },
+    {
+      "id": 88,
+      "start": 308.0,
+      "end": 315.38,
+      "en": "But I think cold cuts, the most important thing to remember here is that they're mostly like kinds of salami or cured meats.",
+      "zh": "但我认为冷切，这里最重要的是要记住的是它们大多像香肠或腌肉。"
+    },
+    {
+      "id": 89,
+      "start": 315.9,
+      "end": 318.92,
+      "en": "So these are salt cured or they're dried meats.",
+      "zh": "所以这些是盐腌制的，或者它们是干肉。"
+    },
+    {
+      "id": 90,
+      "start": 319.56,
+      "end": 322.46,
+      "en": "And you usually have them on sandwiches, so like a salami sandwich.",
+      "zh": "你通常把它们放在三明治上，就像意大利腊肠三明治一样。"
+    },
+    {
+      "id": 91,
+      "start": 322.68,
+      "end": 325.72,
+      "en": "So like cured meat, you mean that meat hasn't been cooked?",
+      "zh": "所以就像腌肉一样，你的意思是肉没有煮熟？"
+    },
+    {
+      "id": 92,
+      "start": 326.33,
+      "end": 331.17,
+      "en": "Oh, no, it's not been cooked, but it's treated in a way that allows it to last for a very long time.",
+      "zh": "哦，不，它没有煮熟，但它的处理方式可以让它持续很长时间。"
+    },
+    {
+      "id": 93,
+      "start": 331.61,
+      "end": 335.21,
+      "en": "So they look like long, long tubes of meat.",
+      "zh": "所以它们看起来像长而长的肉管。"
+    },
+    {
+      "id": 94,
+      "start": 335.75,
+      "end": 336.97,
+      "en": "They look very dry.",
+      "zh": "它们看起来非常干燥。"
+    },
+    {
+      "id": 95,
+      "start": 337.31,
+      "end": 339.11,
+      "en": "They look very dry, like beef jerky, for example.",
+      "zh": "例如，它们看起来非常干燥，就像牛肉干。"
+    },
+    {
+      "id": 96,
+      "start": 339.44,
+      "end": 340.84,
+      "en": "All right, so cured meat.",
+      "zh": "好吧，所以腌肉。"
+    },
+    {
+      "id": 97,
+      "start": 340.84,
+      "end": 345.16,
+      "en": "Now, for example, we have salami and bologna.",
+      "zh": "例如，我们有意大利腊肠和博洛尼亚。"
+    },
+    {
+      "id": 98,
+      "start": 345.16,
+      "end": 346.16,
+      "en": "Bologna.",
+      "zh": "博洛尼亚。"
+    },
+    {
+      "id": 99,
+      "start": 346.55,
+      "end": 352.44,
+      "en": "Now, it's interesting because bologna is actually spelled B-O-L-O-G-N-A.",
+      "zh": "现在，这很有趣，因为博洛尼亚实际上拼写为 B-O-L-O-G-N-A。"
+    },
+    {
+      "id": 100,
+      "start": 352.44,
+      "end": 355.08,
+      "en": "So you would say bologna or something like that.",
+      "zh": "所以你会说博洛尼亚或类似的东西。"
+    },
+    {
+      "id": 101,
+      "start": 355.08,
+      "end": 357.05,
+      "en": "Well, I think it comes from the Italian bologna.",
+      "zh": "嗯，我认为它来自意大利博洛尼亚。"
+    },
+    {
+      "id": 102,
+      "start": 358.44,
+      "end": 363.28,
+      "en": "But it's definitely a change that happened in the English language when it came over from Italy.",
+      "zh": "但这绝对是当它来自意大利时在英语中发生的变化。"
+    },
+    {
+      "id": 103,
+      "start": 363.28,
+      "end": 367.84,
+      "en": "But bologna is a kind of meat that's got a very funny looking name.",
+      "zh": "但博洛尼亚是一种肉，看起来很有趣。"
+    },
+    {
+      "id": 104,
+      "start": 367.84,
+      "end": 370.16,
+      "en": "Yeah, see, you're more sophisticated than I am.",
+      "zh": "是的，看，你比我更老练。"
+    },
+    {
+      "id": 105,
+      "start": 370.16,
+      "end": 371.16,
+      "en": "That's why you know this difference.",
+      "zh": "这就是为什么你知道这种区别。"
+    },
+    {
+      "id": 106,
+      "start": 371.16,
+      "end": 372.16,
+      "en": "I just speak Italian.",
+      "zh": "我只会说意大利语。"
+    },
+    {
+      "id": 107,
+      "start": 372.16,
+      "end": 377.68,
+      "en": "All right, so you have salami, bologna, and...",
+      "zh": "好吧，所以你有意大利腊肠、博洛尼亚和..."
+    },
+    {
+      "id": 108,
+      "start": 378.12,
+      "end": 378.6,
+      "en": "Pastrami.",
+      "zh": "帕斯拉米。"
+    },
+    {
+      "id": 109,
+      "start": 378.6,
+      "end": 379.08,
+      "en": "Pastrami.",
+      "zh": "帕斯拉米。"
+    },
+    {
+      "id": 110,
+      "start": 379.68,
+      "end": 380.68,
+      "en": "What about ham?",
+      "zh": "火腿呢？"
+    },
+    {
+      "id": 111,
+      "start": 380.68,
+      "end": 381.68,
+      "en": "Is that considered a cold cut?",
+      "zh": "这被认为是冷切吗？"
+    },
+    {
+      "id": 112,
+      "start": 381.68,
+      "end": 386.56,
+      "en": "You can have ham in the cold cut section because ham sometimes comes in tubes that you slice.",
+      "zh": "你可以在冷切部分有火腿，因为火腿有时会装在你切片的管子里。"
+    },
+    {
+      "id": 113,
+      "start": 386.56,
+      "end": 389.88,
+      "en": "But ham is also just a normal kind of pork.",
+      "zh": "但火腿也只是一种普通的猪肉。"
+    },
+    {
+      "id": 114,
+      "start": 390.24,
+      "end": 391.52,
+      "en": "But ham is cured, you know.",
+      "zh": "但火腿已经治愈了，你知道的。"
+    },
+    {
+      "id": 115,
+      "start": 391.52,
+      "end": 392.28,
+      "en": "Like a smoked ham.",
+      "zh": "像烟熏火腿。"
+    },
+    {
+      "id": 116,
+      "start": 392.62,
+      "end": 392.92,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 117,
+      "start": 393.52,
+      "end": 394.96,
+      "en": "Or smoked turkey, one of my favorites.",
+      "zh": "或者烟熏火鸡，我的最爱之一。"
+    },
+    {
+      "id": 118,
+      "start": 395.88,
+      "end": 396.14,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 119,
+      "start": 396.88,
+      "end": 401.48,
+      "en": "And, well, now moving on from the cold cuts, we're going to concentrate on steaks.",
+      "zh": "而且，好吧，现在从冷盘中继续前进，我们将专注于牛排。"
+    },
+    {
+      "id": 120,
+      "start": 401.94,
+      "end": 402.98,
+      "en": "Ooh, steaks.",
+      "zh": "哦，牛排。"
+    },
+    {
+      "id": 121,
+      "start": 403.2,
+      "end": 408.24,
+      "en": "So there are a thousand kinds of steaks in this world and every city seems to have its own kind.",
+      "zh": "所以这个世界上有一千种牛排，每个城市似乎都有自己的种类。"
+    },
+    {
+      "id": 122,
+      "start": 408.24,
+      "end": 411.52,
+      "en": "But here we're only looking at three, the first of which is the T-bone.",
+      "zh": "但在这里我们只看三个，其中第一个是 T 骨。"
+    },
+    {
+      "id": 123,
+      "start": 412.16,
+      "end": 415.24,
+      "en": "All right, the T-bone steak, I think, is one of the most popular ones.",
+      "zh": "好吧，我认为 T 骨牛排是最受欢迎的牛排之一。"
+    },
+    {
+      "id": 124,
+      "start": 415.44,
+      "end": 415.64,
+      "en": "Definitely.",
+      "zh": "当然。"
+    },
+    {
+      "id": 125,
+      "start": 416.48,
+      "end": 418.22,
+      "en": "It's a steak that's pretty big, right?",
+      "zh": "这是一块相当大的牛排，对吧？"
+    },
+    {
+      "id": 126,
+      "start": 418.56,
+      "end": 420.14,
+      "en": "Yeah, well, yeah, it can be.",
+      "zh": "是的，是的，可以。"
+    },
+    {
+      "id": 127,
+      "start": 421.2,
+      "end": 424.48,
+      "en": "And it has a bone inside that looks like a T.",
+      "zh": "它里面有一块看起来像T的骨头。"
+    },
+    {
+      "id": 128,
+      "start": 424.52,
+      "end": 430.88,
+      "en": "All right, so you're saying, Marco, that the T-bone is named after the shape and the look of this steak.",
+      "zh": "好吧，所以你是说，Marco，T 骨是以这种牛排的形状和外观命名的。"
+    },
+    {
+      "id": 129,
+      "start": 431.3,
+      "end": 433.16,
+      "en": "Yeah, T-bone steak.",
+      "zh": "是的，T骨牛排。"
+    },
+    {
+      "id": 130,
+      "start": 433.16,
+      "end": 433.38,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 131,
+      "start": 434.16,
+      "end": 436.64,
+      "en": "And as well as our next one is also a rib eye.",
+      "zh": "以及我们的下一个也是肋眼。"
+    },
+    {
+      "id": 132,
+      "start": 436.92,
+      "end": 441.12,
+      "en": "Okay, so the rib eye, I think, actually has a piece of the rib in it.",
+      "zh": "好吧，我想，肋眼实际上有一块肋骨。"
+    },
+    {
+      "id": 133,
+      "start": 441.12,
+      "end": 448.38,
+      "en": "So the rib is the bone and there's a circle, which is kind of a, it's, it's a, the piece of meat is sliced off the rib and the circle is actually part of that rib.",
+      "zh": "所以肋骨是骨头，有一个圆，它是一种，它是一个，这块肉被从肋骨上切下来，圆圈实际上是那个肋骨的一部分。"
+    },
+    {
+      "id": 134,
+      "start": 448.6,
+      "end": 449.88,
+      "en": "So there's a little bit of bone in it.",
+      "zh": "所以里面有一点骨头。"
+    },
+    {
+      "id": 135,
+      "start": 451.56,
+      "end": 453.92,
+      "en": "But it's not as bony as the T-bone.",
+      "zh": "但它不像 T 骨那样有骨感。"
+    },
+    {
+      "id": 136,
+      "start": 453.92,
+      "end": 454.04,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 137,
+      "start": 454.68,
+      "end": 458.42,
+      "en": "So it does have one small bone that kind of looks like an eye because you can see through it.",
+      "zh": "所以它确实有一根看起来像眼睛的小骨头，因为你可以看穿它。"
+    },
+    {
+      "id": 138,
+      "start": 459.3,
+      "end": 465.66,
+      "en": "And our next steak has no bone and is the most tender and the best steak you can have, sirloin steak.",
+      "zh": "我们的下一块牛排没有骨头，是你能吃的最嫩和最好的牛排，沙朗牛排。"
+    },
+    {
+      "id": 139,
+      "start": 465.94,
+      "end": 469.02,
+      "en": "So I think the, the sirloin is definitely the most expensive if you're in a restaurant.",
+      "zh": "所以我认为，如果你在餐厅里，牛腩绝对是最贵的。"
+    },
+    {
+      "id": 140,
+      "start": 470.08,
+      "end": 472.0,
+      "en": "Definitely the most tender, I think, of all those.",
+      "zh": "我认为，在所有这些中，绝对是最温柔的。"
+    },
+    {
+      "id": 141,
+      "start": 472.32,
+      "end": 473.32,
+      "en": "It's delicious.",
+      "zh": "很好吃。"
+    },
+    {
+      "id": 142,
+      "start": 473.32,
+      "end": 478.74,
+      "en": "And usually you can have like a big sirloin steak, like a half a kilo, like a 400 gram sirloin steak.",
+      "zh": "通常你可以吃像一块大沙朗牛排，像半公斤，像400克的沙朗牛排。"
+    },
+    {
+      "id": 143,
+      "start": 478.84,
+      "end": 480.6,
+      "en": "I had a friend who ate a full kilo.",
+      "zh": "我有一个朋友吃了整整一公斤。"
+    },
+    {
+      "id": 144,
+      "start": 480.72,
+      "end": 480.98,
+      "en": "Really?",
+      "zh": "真的吗？"
+    },
+    {
+      "id": 145,
+      "start": 481.28,
+      "end": 481.88,
+      "en": "Sirloin steak.",
+      "zh": "牛排牛排。"
+    },
+    {
+      "id": 146,
+      "start": 482.28,
+      "end": 482.4,
+      "en": "Wow.",
+      "zh": "哇。"
+    },
+    {
+      "id": 147,
+      "start": 483.6,
+      "end": 484.34,
+      "en": "Is there a competition or?",
+      "zh": "有比赛还是？"
+    },
+    {
+      "id": 148,
+      "start": 484.6,
+      "end": 489.1,
+      "en": "No, there's a kind of steak called la bistecca alla fiorentina in Italy.",
+      "zh": "不，意大利有一种叫做 La Bistecca Alla Fiorentina 的牛排。"
+    },
+    {
+      "id": 149,
+      "start": 489.52,
+      "end": 494.32,
+      "en": "It's the Florentine beef steak and it is, it can be about a kilo of meat.",
+      "zh": "这是佛罗伦萨牛排，它可以是一公斤肉。"
+    },
+    {
+      "id": 150,
+      "start": 494.68,
+      "end": 495.0,
+      "en": "Wow.",
+      "zh": "哇。"
+    },
+    {
+      "id": 151,
+      "start": 495.8,
+      "end": 496.8,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 152,
+      "start": 496.8,
+      "end": 498.12,
+      "en": "I bet you can't even move after that.",
+      "zh": "我敢打赌，在那之后你甚至不能移动。"
+    },
+    {
+      "id": 153,
+      "start": 498.12,
+      "end": 502.24,
+      "en": "No, you're, no, you fall asleep with your head in your soup on the table.",
+      "zh": "不，你是，不，你的头在桌子上的汤里睡着了。"
+    },
+    {
+      "id": 154,
+      "start": 502.28,
+      "end": 502.56,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 155,
+      "start": 503.24,
+      "end": 506.58,
+      "en": "So that's all the meat related words that we have for you today.",
+      "zh": "这就是我们今天为您准备的所有与肉类相关的词。"
+    },
+    {
+      "id": 156,
+      "start": 506.96,
+      "end": 512.04,
+      "en": "So why don't we move on now to Fluency Builder where we're going to take a look at some of the phrases in this dialogue.",
+      "zh": "那么，我们为什么不现在继续讨论 Fluency Builder，我们将在其中查看此对话中的一些短语。"
+    },
+    {
+      "id": 157,
+      "start": 514.04,
+      "end": 514.33,
+      "en": "Fluency Builder.",
+      "zh": "流利表达。"
+    },
+    {
+      "id": 158,
+      "start": 515.7,
+      "end": 518.09,
+      "en": "We're going to look at the phrases if you know what I mean.",
+      "zh": "如果你明白我的意思，我们会看看这些短语。"
+    },
+    {
+      "id": 159,
+      "start": 518.52,
+      "end": 519.31,
+      "en": "If you know what I mean.",
+      "zh": "如果你明白我的意思。"
+    },
+    {
+      "id": 160,
+      "start": 520.0,
+      "end": 522.43,
+      "en": "Now I love this phrase, if you know what I mean.",
+      "zh": "现在我喜欢这句话，如果你明白我的意思的话。"
+    },
+    {
+      "id": 161,
+      "start": 523.2,
+      "end": 524.03,
+      "en": "I do know what you mean.",
+      "zh": "我知道你的意思。"
+    },
+    {
+      "id": 162,
+      "start": 524.2,
+      "end": 525.2,
+      "en": "Well, it's weird.",
+      "zh": "嗯，很奇怪。"
+    },
+    {
+      "id": 163,
+      "start": 525.2,
+      "end": 526.76,
+      "en": "I like it too.",
+      "zh": "我也喜欢。"
+    },
+    {
+      "id": 164,
+      "start": 526.76,
+      "end": 528.55,
+      "en": "So you can use it for sarcasm.",
+      "zh": "所以你可以用它来讽刺。"
+    },
+    {
+      "id": 165,
+      "start": 528.96,
+      "end": 529.96,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 166,
+      "start": 529.96,
+      "end": 530.96,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 167,
+      "start": 530.96,
+      "end": 532.35,
+      "en": "Or you can use it to kind of insinuate something.",
+      "zh": "或者你可以用它来暗示一些东西。"
+    },
+    {
+      "id": 168,
+      "start": 532.72,
+      "end": 533.72,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 169,
+      "start": 533.72,
+      "end": 534.72,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 170,
+      "start": 534.72,
+      "end": 535.72,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 171,
+      "start": 535.72,
+      "end": 536.72,
+      "en": "So here's what you're saying.",
+      "zh": "所以这就是你要说的。"
+    },
+    {
+      "id": 172,
+      "start": 536.72,
+      "end": 538.9,
+      "en": "You're saying there's a double meaning in what I want to say.",
+      "zh": "你是说我想说的话有双重含义。"
+    },
+    {
+      "id": 173,
+      "start": 538.9,
+      "end": 546.6,
+      "en": "So there's two things I could say and I'm not going to say it outright, but you know, this thing that we can't really say.",
+      "zh": "所以有两件事我可以说，我不会直截了当地说，但你知道，这件事我们真的不能说。"
+    },
+    {
+      "id": 174,
+      "start": 546.6,
+      "end": 551.8,
+      "en": "So for example, we can say she likes to go out if you know what I mean.",
+      "zh": "例如，如果你知道我的意思，我们可以说她喜欢出去。"
+    },
+    {
+      "id": 175,
+      "start": 552.2,
+      "end": 552.4,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 176,
+      "start": 553.2,
+      "end": 560.24,
+      "en": "So you're insinuating that not only does she like to go out, but maybe, maybe she goes out a lot, a lot, or maybe she gets drunk or something like that.",
+      "zh": "所以你在暗示她不仅喜欢出去，而且也许，也许她经常出去，很多，或者她喝醉了或类似的东西。"
+    },
+    {
+      "id": 177,
+      "start": 560.6,
+      "end": 561.6,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 178,
+      "start": 561.6,
+      "end": 564.14,
+      "en": "So it's kind of like a double meaning, but you're trying to be subtle.",
+      "zh": "所以这有点像双重含义，但你试图变得微妙。"
+    },
+    {
+      "id": 179,
+      "start": 564.76,
+      "end": 564.88,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 180,
+      "start": 564.98,
+      "end": 568.74,
+      "en": "But it's not so subtle because you're actually saying like, this is not what I mean.",
+      "zh": "但这并不是那么微妙，因为你实际上是在说，这不是我的意思。"
+    },
+    {
+      "id": 181,
+      "start": 570.04,
+      "end": 572.54,
+      "en": "Or she's eating for two if you know what I mean.",
+      "zh": "或者如果你知道我的意思，她会吃两个人。"
+    },
+    {
+      "id": 182,
+      "start": 572.94,
+      "end": 573.44,
+      "en": "There we go.",
+      "zh": "好了。"
+    },
+    {
+      "id": 183,
+      "start": 573.84,
+      "end": 577.48,
+      "en": "So you're insinuating that, well, you're not really insinuating, you're telling me that.",
+      "zh": "所以你在暗示这一点，好吧，你不是真的在暗示，你是在告诉我。"
+    },
+    {
+      "id": 184,
+      "start": 577.5,
+      "end": 577.96,
+      "en": "She's pregnant.",
+      "zh": "她怀孕了。"
+    },
+    {
+      "id": 185,
+      "start": 579.08,
+      "end": 585.72,
+      "en": "Eating for two is a common idiom in English that means that a person, a woman has a, well, is going to have a baby.",
+      "zh": "两个人吃饭是英语中的一个常见成语，这意味着一个人，一个女人有一个，嗯，要生孩子。"
+    },
+    {
+      "id": 186,
+      "start": 586.16,
+      "end": 588.06,
+      "en": "So here I'm saying, hey, do you know this idiom?",
+      "zh": "所以我在这里说，嘿，你知道这个成语吗？"
+    },
+    {
+      "id": 187,
+      "start": 588.64,
+      "end": 590.56,
+      "en": "She's eating for two if you know what I mean.",
+      "zh": "如果你明白我的意思，她会吃两个人。"
+    },
+    {
+      "id": 188,
+      "start": 590.88,
+      "end": 591.88,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 189,
+      "start": 591.88,
+      "end": 592.88,
+      "en": "Wink, wink, wink.",
+      "zh": "眨眼，眨眼，眨眼。"
+    },
+    {
+      "id": 190,
+      "start": 592.88,
+      "end": 593.88,
+      "en": "Wink, wink.",
+      "zh": "眨眼，眨眼。"
+    },
+    {
+      "id": 191,
+      "start": 593.88,
+      "end": 603.72,
+      "en": "So now why don't we take a look at some other examples of how we could use if you know what I mean in different circumstances when you're trying to insinuate something.",
+      "zh": "所以现在我们为什么不看看其他一些例子来说明如果你在试图暗示某些东西时知道我的意思，我们可以如何使用。"
+    },
+    {
+      "id": 192,
+      "start": 603.72,
+      "end": 605.76,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 193,
+      "start": 605.76,
+      "end": 609.92,
+      "en": "She's eating for two now, if you know what I mean.",
+      "zh": "如果你明白我的意思，她现在正在吃两个人。"
+    },
+    {
+      "id": 194,
+      "start": 609.92,
+      "end": 610.92,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 195,
+      "start": 610.92,
+      "end": 616.52,
+      "en": "Tim hit a home run today, if you know what I mean.",
+      "zh": "如果你明白我的意思，蒂姆今天打出了本垒打。"
+    },
+    {
+      "id": 196,
+      "start": 616.52,
+      "end": 619.0,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 197,
+      "start": 619.0,
+      "end": 622.32,
+      "en": "Jim and Laura are going their separate ways, if you know what I mean.",
+      "zh": "如果你明白我的意思，吉姆和劳拉正在分道扬镳。"
+    },
+    {
+      "id": 198,
+      "start": 623.0,
+      "end": 624.36,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 199,
+      "start": 624.87,
+      "end": 625.23,
+      "en": "We're back.",
+      "zh": "我们回来了。"
+    },
+    {
+      "id": 200,
+      "start": 625.45,
+      "end": 628.67,
+      "en": "So now that that's clear, why don't we move on to our next phrase?",
+      "zh": "既然这很清楚，我们为什么不继续我们的下一个短语呢？"
+    },
+    {
+      "id": 201,
+      "start": 629.23,
+      "end": 630.67,
+      "en": "So this one is a counting phrase.",
+      "zh": "所以这是一个计数短语。"
+    },
+    {
+      "id": 202,
+      "start": 630.87,
+      "end": 633.89,
+      "en": "And for those of you who have heard the word dozen before, it might not be so new.",
+      "zh": "对于那些以前听过十字的人来说，它可能不是那么新。"
+    },
+    {
+      "id": 203,
+      "start": 634.37,
+      "end": 635.71,
+      "en": "The phrase is half a dozen.",
+      "zh": "这句话是半打。"
+    },
+    {
+      "id": 204,
+      "start": 635.89,
+      "end": 636.55,
+      "en": "Half a dozen.",
+      "zh": "半打。"
+    },
+    {
+      "id": 205,
+      "start": 637.16,
+      "end": 639.3,
+      "en": "So that means half of 12.",
+      "zh": "所以这意味着12的一半。"
+    },
+    {
+      "id": 206,
+      "start": 639.68,
+      "end": 640.68,
+      "en": "12.",
+      "zh": "十二。"
+    },
+    {
+      "id": 207,
+      "start": 640.68,
+      "end": 641.24,
+      "en": "So a dozen is 12.",
+      "zh": "所以一打是12。"
+    },
+    {
+      "id": 208,
+      "start": 642.86,
+      "end": 649.72,
+      "en": "And it's, I'm not really sure when this started being used in English, but a dozen is 12 and half a dozen is then six.",
+      "zh": "是的，我不太确定这什么时候开始用英语，但一打是 12，半打是六。"
+    },
+    {
+      "id": 209,
+      "start": 651.0,
+      "end": 654.86,
+      "en": "Now there's another phrase or another saying that's very common, a dime a dozen.",
+      "zh": "现在有另一个短语或另一个很常见的说法，一角钱。"
+    },
+    {
+      "id": 210,
+      "start": 655.64,
+      "end": 656.7,
+      "en": "He's a dime a dozen.",
+      "zh": "他是一毛钱。"
+    },
+    {
+      "id": 211,
+      "start": 657.36,
+      "end": 661.38,
+      "en": "So that means you can get 12 of the same type of guys for 10 cents.",
+      "zh": "所以这意味着你可以花 10 美分得到 12 个相同类型的人。"
+    },
+    {
+      "id": 212,
+      "start": 662.12,
+      "end": 663.12,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 213,
+      "start": 663.12,
+      "end": 664.13,
+      "en": "So they're easy to find.",
+      "zh": "所以很容易找到。"
+    },
+    {
+      "id": 214,
+      "start": 664.36,
+      "end": 665.01,
+      "en": "They're easy to find.",
+      "zh": "它们很容易找到。"
+    },
+    {
+      "id": 215,
+      "start": 665.36,
+      "end": 666.36,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 216,
+      "start": 666.36,
+      "end": 667.36,
+      "en": "The dime a dozen.",
+      "zh": "一角钱。"
+    },
+    {
+      "id": 217,
+      "start": 667.36,
+      "end": 668.36,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 218,
+      "start": 668.36,
+      "end": 669.36,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 219,
+      "start": 669.36,
+      "end": 670.36,
+      "en": "And moving on to our last one.",
+      "zh": "并继续我们的最后一张。"
+    },
+    {
+      "id": 220,
+      "start": 670.36,
+      "end": 674.45,
+      "en": "When they were talking, they said something about the meat being lean, extra lean.",
+      "zh": "当他们说话时，他们说了一些关于肉瘦的，特别瘦的。"
+    },
+    {
+      "id": 221,
+      "start": 675.09,
+      "end": 675.25,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 222,
+      "start": 675.53,
+      "end": 678.45,
+      "en": "Lean, this does not mean lean on a door.",
+      "zh": "精益，这并不意味着靠在门上。"
+    },
+    {
+      "id": 223,
+      "start": 678.72,
+      "end": 681.16,
+      "en": "This is not like resting on something.",
+      "zh": "这不像休息在某物上。"
+    },
+    {
+      "id": 224,
+      "start": 681.16,
+      "end": 684.96,
+      "en": "This is actually a kind of way to describe food.",
+      "zh": "这实际上是一种描述食物的方式。"
+    },
+    {
+      "id": 225,
+      "start": 684.96,
+      "end": 689.6,
+      "en": "And so food is lean if it's not got much fat, it's not fatty.",
+      "zh": "所以如果食物没有太多脂肪，它是瘦的，它不是脂肪的。"
+    },
+    {
+      "id": 226,
+      "start": 689.73,
+      "end": 689.95,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 227,
+      "start": 689.99,
+      "end": 692.78,
+      "en": "So if it's lean, it doesn't have much fat.",
+      "zh": "所以如果是瘦的话，它就没有多少脂肪了。"
+    },
+    {
+      "id": 228,
+      "start": 693.12,
+      "end": 693.48,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 229,
+      "start": 694.12,
+      "end": 695.68,
+      "en": "So I prefer to eat lean meats.",
+      "zh": "所以我更喜欢吃瘦肉。"
+    },
+    {
+      "id": 230,
+      "start": 695.68,
+      "end": 698.64,
+      "en": "So I often eat birds and poultry.",
+      "zh": "所以我经常吃鸟和家禽。"
+    },
+    {
+      "id": 231,
+      "start": 698.64,
+      "end": 700.76,
+      "en": "So chicken, I like it pretty lean.",
+      "zh": "所以鸡，我喜欢它很瘦。"
+    },
+    {
+      "id": 232,
+      "start": 700.76,
+      "end": 702.76,
+      "en": "And if it's got fat on it, I'll cut the fat off.",
+      "zh": "如果上面有脂肪，我会切掉脂肪。"
+    },
+    {
+      "id": 233,
+      "start": 703.12,
+      "end": 704.12,
+      "en": "Oh, okay.",
+      "zh": "哦，好吧。"
+    },
+    {
+      "id": 234,
+      "start": 704.12,
+      "end": 705.12,
+      "en": "Like the skin.",
+      "zh": "喜欢皮肤。"
+    },
+    {
+      "id": 235,
+      "start": 705.12,
+      "end": 705.82,
+      "en": "The skin is fat, right?",
+      "zh": "皮肤很胖，对吧？"
+    },
+    {
+      "id": 236,
+      "start": 706.12,
+      "end": 707.12,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 237,
+      "start": 707.12,
+      "end": 708.12,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 238,
+      "start": 708.12,
+      "end": 709.12,
+      "en": "So you can have lean beef.",
+      "zh": "所以你可以吃瘦牛肉。"
+    },
+    {
+      "id": 239,
+      "start": 709.12,
+      "end": 710.68,
+      "en": "It doesn't have much fat around it.",
+      "zh": "它周围没有太多脂肪。"
+    },
+    {
+      "id": 240,
+      "start": 710.84,
+      "end": 710.96,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 241,
+      "start": 711.68,
+      "end": 717.64,
+      "en": "And in America actually on the packages at the supermarket, it often says the percentage of meat that you have.",
+      "zh": "而在美国，实际上在超市的包装上，它经常说你有的肉的百分比。"
+    },
+    {
+      "id": 242,
+      "start": 717.64,
+      "end": 720.62,
+      "en": "So it's 95% lean or 98% lean.",
+      "zh": "所以它是 95% 的精益或 98% 的瘦。"
+    },
+    {
+      "id": 243,
+      "start": 721.1,
+      "end": 722.66,
+      "en": "So that means you have 3% fat in there.",
+      "zh": "所以这意味着你那里有 3% 的脂肪。"
+    },
+    {
+      "id": 244,
+      "start": 722.8,
+      "end": 723.08,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 245,
+      "start": 724.44,
+      "end": 725.44,
+      "en": "Or 2%.",
+      "zh": "或 2%。"
+    },
+    {
+      "id": 246,
+      "start": 725.44,
+      "end": 726.84,
+      "en": "My math skills are amazing.",
+      "zh": "我的数学技能是惊人的。"
+    },
+    {
+      "id": 247,
+      "start": 726.84,
+      "end": 727.84,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 248,
+      "start": 727.84,
+      "end": 733.98,
+      "en": "So now that we've finished with all of these words on Fluency Builder, let's take a look at our dialogue for the last time.",
+      "zh": "所以现在我们已经完成了关于 Fluency Builder 的所有这些词，让我们看一下我们最后一次的对话。"
+    },
+    {
+      "id": 249,
+      "start": 742.32,
+      "end": 762.56,
+      "en": "Hi, what can I get for you?",
+      "zh": "你好，我能给你买什么？"
+    },
+    {
+      "id": 250,
+      "start": 762.56,
+      "end": 772.64,
+      "en": "No, no, no chicken breasts at the moment, but we have some nice chicken thighs.",
+      "zh": "不，不，现在没有鸡胸肉，但我们有一些不错的鸡腿。"
+    },
+    {
+      "id": 251,
+      "start": 772.64,
+      "end": 773.49,
+      "en": "No that won't do.",
+      "zh": "不，那不行。"
+    },
+    {
+      "id": 252,
+      "start": 774.16,
+      "end": 775.83,
+      "en": "I'll take this smoked ham you have here.",
+      "zh": "那我要这里的烟熏火腿吧。"
+    },
+    {
+      "id": 253,
+      "start": 776.56,
+      "end": 777.56,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 254,
+      "start": 777.56,
+      "end": 778.55,
+      "en": "Is there anything else?",
+      "zh": "还有别的吗？"
+    },
+    {
+      "id": 255,
+      "start": 779.64,
+      "end": 782.03,
+      "en": "Is this salami and bologna you have here?",
+      "zh": "这里的是萨拉米香肠和博洛尼亚香肠吗？"
+    },
+    {
+      "id": 256,
+      "start": 783.2,
+      "end": 784.68,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 257,
+      "start": 784.68,
+      "end": 787.4,
+      "en": "It's very fine meat.",
+      "zh": "这是非常好的肉。"
+    },
+    {
+      "id": 258,
+      "start": 787.4,
+      "end": 787.95,
+      "en": "Made it myself.",
+      "zh": "自己做的。"
+    },
+    {
+      "id": 259,
+      "start": 789.64,
+      "end": 789.79,
+      "en": "Sounds good.",
+      "zh": "听起来不错。"
+    },
+    {
+      "id": 260,
+      "start": 790.64,
+      "end": 790.91,
+      "en": "Okay, that's it.",
+      "zh": "好吧，就是这样。"
+    },
+    {
+      "id": 261,
+      "start": 791.64,
+      "end": 792.72,
+      "en": "Great.",
+      "zh": "太好了。"
+    },
+    {
+      "id": 262,
+      "start": 792.72,
+      "end": 797.24,
+      "en": "We have T-bone, rib eye, and sirloin steaks.",
+      "zh": "我们有 T 骨、肋眼和沙朗牛排。"
+    },
+    {
+      "id": 263,
+      "start": 797.58,
+      "end": 798.68,
+      "en": "They are very fresh.",
+      "zh": "它们非常新鲜。"
+    },
+    {
+      "id": 264,
+      "start": 799.88,
+      "end": 802.24,
+      "en": "Just came from the slaughterhouse.",
+      "zh": "刚从屠宰场来。"
+    },
+    {
+      "id": 265,
+      "start": 802.28,
+      "end": 805.1,
+      "en": "No, that's okay, really.",
+      "zh": "不，没关系，真的。"
+    },
+    {
+      "id": 266,
+      "start": 805.6,
+      "end": 806.4,
+      "en": "I think that's all for today.",
+      "zh": "我想这就是今天的全部内容。"
+    },
+    {
+      "id": 267,
+      "start": 810.68,
+      "end": 815.6,
+      "en": "Okay, that'll be $34.50.",
+      "zh": "好的，那将是 34.50 美元。"
+    },
+    {
+      "id": 268,
+      "start": 815.6,
+      "end": 821.88,
+      "en": "Alright, we're back.",
+      "zh": "好了，我们回来了。"
+    },
+    {
+      "id": 269,
+      "start": 821.88,
+      "end": 824.97,
+      "en": "So Catherine, are you a big beef or meat eater?",
+      "zh": "那么凯瑟琳，你是大牛肉还是肉食者？"
+    },
+    {
+      "id": 270,
+      "start": 825.35,
+      "end": 826.11,
+      "en": "Definitely am.",
+      "zh": "肯定是。"
+    },
+    {
+      "id": 271,
+      "start": 826.33,
+      "end": 835.11,
+      "en": "It helps that my partner in crime is from Kansas City and they have the best, among the best steaks in our entire country in Kansas City.",
+      "zh": "这有助于我的犯罪伙伴来自堪萨斯城，他们拥有最好的，在我们整个国家的堪萨斯城最好的牛排中。"
+    },
+    {
+      "id": 272,
+      "start": 835.52,
+      "end": 836.52,
+      "en": "Wow.",
+      "zh": "哇。"
+    },
+    {
+      "id": 273,
+      "start": 836.52,
+      "end": 841.8,
+      "en": "I actually miss, there was back in California, we had the $6 burger from Carl's Jr.",
+      "zh": "我真的很想念，回到加利福尼亚，我们有 Carl's Jr 的 6 美元汉堡。"
+    },
+    {
+      "id": 274,
+      "start": 841.8,
+      "end": 851.24,
+      "en": "It was just basically beef, bacon, cheese, it was just like this huge burger full of meat and obviously a lot of calories.",
+      "zh": "它基本上只是牛肉、培根、奶酪，就像这个装满肉的汉堡和显然有很多卡路里一样。"
+    },
+    {
+      "id": 275,
+      "start": 851.24,
+      "end": 851.93,
+      "en": "But it was delicious.",
+      "zh": "但它很好吃。"
+    },
+    {
+      "id": 276,
+      "start": 853.48,
+      "end": 858.12,
+      "en": "In Ecuador we are very used to having some meat product every day with our food.",
+      "zh": "在厄瓜多尔，我们非常习惯每天在食物中吃一些肉类产品。"
+    },
+    {
+      "id": 277,
+      "start": 858.12,
+      "end": 863.64,
+      "en": "Yeah, well it's the same in the Midwest actually from where we're from.",
+      "zh": "是的，中西部实际上是一样的，我们来自哪里。"
+    },
+    {
+      "id": 278,
+      "start": 863.64,
+      "end": 870.04,
+      "en": "It's the same in the Midwest because people in the Midwest generally think that if you're not eating meat then what are you eating?",
+      "zh": "中西部也是如此，因为中西部的人通常认为如果你不吃肉，那你在吃什么？"
+    },
+    {
+      "id": 279,
+      "start": 870.8,
+      "end": 871.8,
+      "en": "Bread?",
+      "zh": "面包？"
+    },
+    {
+      "id": 280,
+      "start": 871.8,
+      "end": 872.8,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 281,
+      "start": 872.8,
+      "end": 873.8,
+      "en": "Corn?",
+      "zh": "玉米？"
+    },
+    {
+      "id": 282,
+      "start": 873.8,
+      "end": 874.8,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 283,
+      "start": 874.8,
+      "end": 878.36,
+      "en": "So meat is considered a healthy part of the day and you definitely eat it with your meals.",
+      "zh": "因此，肉类被认为是一天中健康的一部分，您肯定会在饭菜中食用。"
+    },
+    {
+      "id": 284,
+      "start": 878.36,
+      "end": 884.56,
+      "en": "Yeah, and I'm sure our vegetarian listeners might not appreciate this but it's just kind of different diets.",
+      "zh": "是的，我相信我们的素食听众可能不欣赏这一点，但这只是一种不同的饮食方式。"
+    },
+    {
+      "id": 285,
+      "start": 885.0,
+      "end": 887.64,
+      "en": "Some people eat, for example, rice every day.",
+      "zh": "例如，有些人每天都吃米饭。"
+    },
+    {
+      "id": 286,
+      "start": 887.64,
+      "end": 890.96,
+      "en": "So where in other countries you wouldn't really have rice every day.",
+      "zh": "那么在其他国家，你不会真的每天都吃米饭。"
+    },
+    {
+      "id": 287,
+      "start": 890.96,
+      "end": 894.24,
+      "en": "Or for example, when I was in Chile, I had a lot of potatoes.",
+      "zh": "或者，例如，当我在智利时，我有很多土豆。"
+    },
+    {
+      "id": 288,
+      "start": 894.58,
+      "end": 894.92,
+      "en": "Really?",
+      "zh": "真的吗？"
+    },
+    {
+      "id": 289,
+      "start": 895.1,
+      "end": 895.78,
+      "en": "A lot of potatoes.",
+      "zh": "很多土豆。"
+    },
+    {
+      "id": 290,
+      "start": 896.32,
+      "end": 897.66,
+      "en": "Have you ever had an Argentine steak?",
+      "zh": "你吃过阿根廷牛排吗？"
+    },
+    {
+      "id": 291,
+      "start": 897.8,
+      "end": 899.8,
+      "en": "I hear they have the best beef in the world.",
+      "zh": "我听说他们有世界上最好的牛肉。"
+    },
+    {
+      "id": 292,
+      "start": 899.94,
+      "end": 903.84,
+      "en": "They are not only delicious but they are very inexpensive and it's amazing.",
+      "zh": "它们不仅美味，而且非常便宜，而且令人惊叹。"
+    },
+    {
+      "id": 293,
+      "start": 904.32,
+      "end": 915.52,
+      "en": "You can have a complete steak buffet for like, I don't know, I can't even remember but I sat there for three hours and couldn't move and kept eating.",
+      "zh": "你可以吃完整的牛排自助餐，我不知道，我什至不记得，但我在那里坐了三个小时，动弹不得，继续吃饭。"
+    },
+    {
+      "id": 294,
+      "start": 915.52,
+      "end": 917.02,
+      "en": "Is it true you can eat it with a spoon?",
+      "zh": "你可以用勺子吃它是真的吗？"
+    },
+    {
+      "id": 295,
+      "start": 917.68,
+      "end": 918.14,
+      "en": "It's so soft?",
+      "zh": "这么软？"
+    },
+    {
+      "id": 296,
+      "start": 918.68,
+      "end": 920.48,
+      "en": "Some of the meat is very, very tender.",
+      "zh": "有些肉非常非常嫩。"
+    },
+    {
+      "id": 297,
+      "start": 920.48,
+      "end": 924.22,
+      "en": "Not if it's grilled, you can't really do that, but in other preparations it's almost like that.",
+      "zh": "不是如果它是烤的，你就不能真正做到这一点，但在其他准备工作中，它几乎是这样的。"
+    },
+    {
+      "id": 298,
+      "start": 925.0,
+      "end": 925.38,
+      "en": "With a nice butter sauce.",
+      "zh": "配上美味的黄油酱。"
+    },
+    {
+      "id": 299,
+      "start": 926.0,
+      "end": 927.0,
+      "en": "Mmm, herbs.",
+      "zh": "嗯，草药。"
+    },
+    {
+      "id": 300,
+      "start": 927.0,
+      "end": 928.0,
+      "en": "Making me hungry.",
+      "zh": "让我饿了。"
+    },
+    {
+      "id": 301,
+      "start": 928.0,
+      "end": 930.8,
+      "en": "I know, you've made me hungry.",
+      "zh": "我知道，你让我饿了。"
+    },
+    {
+      "id": 302,
+      "start": 930.8,
+      "end": 935.72,
+      "en": "I think we're going to take off and have some burgers.",
+      "zh": "我想我们要起飞并吃一些汉堡。"
+    },
+    {
+      "id": 303,
+      "start": 935.72,
+      "end": 941.79,
+      "en": "If you have any questions, any comments, please come to our website at EnglishPod.com and we're there to answer any doubts.",
+      "zh": "如果您有任何问题，任何意见，请访问我们的网站 englishpod.com，我们在那里回答任何疑问。"
+    },
+    {
+      "id": 304,
+      "start": 942.52,
+      "end": 946.49,
+      "en": "And we'd love to know what your favorite foods are, meat or otherwise, so post something on our website.",
+      "zh": "我们很想知道你最喜欢的食物是什么，肉类或其他食物，所以在我们的网站上发布一些东西。"
+    },
+    {
+      "id": 305,
+      "start": 947.08,
+      "end": 947.59,
+      "en": "Hope to see you there soon.",
+      "zh": "希望很快在那里见到你。"
+    },
+    {
+      "id": 306,
+      "start": 948.08,
+      "end": 949.08,
+      "en": "Bye.",
+      "zh": "再见。"
+    }
+  ],
+  "dialog": {
+    "start": 46.44,
+    "end": 126.16,
+    "segmentIds": [
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35
+    ]
+  }
+}

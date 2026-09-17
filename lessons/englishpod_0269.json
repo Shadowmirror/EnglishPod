@@ -1,0 +1,1806 @@
+{
+  "version": 1,
+  "id": 269,
+  "number": "0269",
+  "title": "The Office - Marketing Plan",
+  "audio": "mp3/269. The Office - Marketing Plan.mp3",
+  "duration": 1059.4743125,
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.42,
+      "end": 3.64,
+      "en": "Hello everyone and welcome to EnglishPod.",
+      "zh": "大家好，欢迎来到 EnglishPod。"
+    },
+    {
+      "id": 2,
+      "start": 3.92,
+      "end": 4.34,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 4.78,
+      "end": 10.5,
+      "en": "My name is Catherine and today we have an upper intermediate level lesson about something very technical.",
+      "zh": "我的名字是凯瑟琳，今天我们有一个关于一些非常技术性的中级课程。"
+    },
+    {
+      "id": 4,
+      "start": 10.54,
+      "end": 12.96,
+      "en": "We're talking about marketing strategies here today.",
+      "zh": "我们今天在这里谈论营销策略。"
+    },
+    {
+      "id": 5,
+      "start": 13.14,
+      "end": 13.54,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 6,
+      "start": 13.74,
+      "end": 17.28,
+      "en": "Today we have an upper intermediate lesson at the office.",
+      "zh": "今天我们在办公室上了中级中级课程。"
+    },
+    {
+      "id": 7,
+      "start": 17.64,
+      "end": 27.28,
+      "en": "That is the category of this lesson and we're basically talking about marketing, a marketing plan and a lot of technical words around this part of business.",
+      "zh": "这就是本课的类别，我们基本上是在谈论营销、营销计划和围绕这部分业务的许多技术词语。"
+    },
+    {
+      "id": 8,
+      "start": 27.4,
+      "end": 34.4,
+      "en": "All right, so let's take a listen to today's dialogue and we'll be back in just a moment to talk about what's going on.",
+      "zh": "好吧，让我们听听今天的对话，我们稍后会回来谈谈正在发生的事情。"
+    },
+    {
+      "id": 9,
+      "start": 34.4,
+      "end": 41.2,
+      "en": "Okay, everyone, let's begin.",
+      "zh": "好吧，大家开始吧。"
+    },
+    {
+      "id": 10,
+      "start": 41.23,
+      "end": 44.57,
+      "en": "I called you here today to evaluate our marketing strategy during this recession.",
+      "zh": "今天召集大家，是想评估一下经济衰退期间我们的营销策略。"
+    },
+    {
+      "id": 11,
+      "start": 45.31,
+      "end": 52.55,
+      "en": "I wanted to reemphasize our corporate mission of aiming to give our customers the best coffee and service in a clean and welcoming atmosphere.",
+      "zh": "我想再次强调我们的企业使命，旨在在干净和热情的氛围中为我们的客户提供最好的咖啡和服务。"
+    },
+    {
+      "id": 12,
+      "start": 53.13,
+      "end": 57.89,
+      "en": "Several other shops have been reducing their prices for their coffees and they are drawing in more customers.",
+      "zh": "其他几家商店一直在降低他们的咖啡价格，他们吸引了更多的顾客。"
+    },
+    {
+      "id": 13,
+      "start": 58.57,
+      "end": 59.87,
+      "en": "Why aren't we doing the same thing?",
+      "zh": "为什么我们不做同样的事情？"
+    },
+    {
+      "id": 14,
+      "start": 60.36,
+      "end": 65.5,
+      "en": "I know that recent sales have been slow, but we are not going to reduce our prices to the level of our competitors.",
+      "zh": "我知道最近销售不景气，但我们不会把价格降到竞争对手的水平。"
+    },
+    {
+      "id": 15,
+      "start": 66.4,
+      "end": 71.26,
+      "en": "We offer a superior product and our focus is on long-term growth rather than short-term sales.",
+      "zh": "我们提供优质的产品，我们的重点是长期增长而不是短期销售。"
+    },
+    {
+      "id": 16,
+      "start": 72.12,
+      "end": 75.02,
+      "en": "If we lower our prices, we run the risk of devaluing our product.",
+      "zh": "如果我们降低价格，我们将冒着贬值我们产品的风险。"
+    },
+    {
+      "id": 17,
+      "start": 76.24,
+      "end": 77.55,
+      "en": "Customers don't care about coffee anymore.",
+      "zh": "顾客不再关心咖啡。"
+    },
+    {
+      "id": 18,
+      "start": 78.21,
+      "end": 79.03,
+      "en": "They only care about price.",
+      "zh": "他们只关心价格。"
+    },
+    {
+      "id": 19,
+      "start": 79.67,
+      "end": 80.19,
+      "en": "I disagree.",
+      "zh": "我不同意。"
+    },
+    {
+      "id": 20,
+      "start": 80.87,
+      "end": 85.47,
+      "en": "Highly discerning customers know that our coffee is far better than the coffee you buy at the other places.",
+      "zh": "高度挑剔的客户知道我们的咖啡比您在其他地方购买的咖啡要好得多。"
+    },
+    {
+      "id": 21,
+      "start": 86.24,
+      "end": 90.31,
+      "en": "Our coffee beans are artisan roasted and we use state-of-the-art equipment to brew our coffees.",
+      "zh": "我们的咖啡豆是工匠烘焙的，我们使用最先进的设备来冲泡我们的咖啡。"
+    },
+    {
+      "id": 22,
+      "start": 91.28,
+      "end": 95.29,
+      "en": "When you compare the coffees side by side, our coffee wins the taste test every time.",
+      "zh": "当您并排比较咖啡时，我们的咖啡每次都会赢得口味测试。"
+    },
+    {
+      "id": 23,
+      "start": 96.52,
+      "end": 101.44,
+      "en": "We have never sought to appeal to the mass market with cheap coffee drinks and we will not do so now.",
+      "zh": "我们从来没有试图用便宜的咖啡饮料吸引大众市场，我们现在也不会这样做。"
+    },
+    {
+      "id": 24,
+      "start": 102.32,
+      "end": 102.56,
+      "en": "That's true.",
+      "zh": "确实如此。"
+    },
+    {
+      "id": 25,
+      "start": 103.32,
+      "end": 109.36,
+      "en": "We've certainly achieved top-of-mind awareness when it comes to the best tasting brews and it's important to distinguish ourselves from the competitors.",
+      "zh": "提到口味最好的咖啡，顾客首先想到的已经是我们；保持与竞争对手的差异很重要。"
+    },
+    {
+      "id": 26,
+      "start": 110.38,
+      "end": 114.7,
+      "en": "I think the main question is, how can we show our appreciation to our customers?",
+      "zh": "我认为主要问题是，我们如何向客户表达我们的感激之情？"
+    },
+    {
+      "id": 27,
+      "start": 115.32,
+      "end": 118.0,
+      "en": "That's the main question I would like to discuss today.",
+      "zh": "这是我今天要讨论的主要问题。"
+    },
+    {
+      "id": 28,
+      "start": 119.01,
+      "end": 120.97,
+      "en": "Money is tight for everyone these days.",
+      "zh": "这些天每个人的钱都很紧。"
+    },
+    {
+      "id": 29,
+      "start": 121.6,
+      "end": 126.16,
+      "en": "So even our most loyal customers may be reconsidering the money they pay for their morning coffee.",
+      "zh": "因此，即使是我们最忠实的客户也可能会重新考虑他们为早上咖啡支付的钱。"
+    },
+    {
+      "id": 30,
+      "start": 126.25,
+      "end": 132.83,
+      "en": "Since the superiority of our coffee beans is one of our core competencies, why don't we sell the beans for people to brew coffee at home?",
+      "zh": "既然优质咖啡豆是我们的核心竞争力之一，为什么不把豆子卖给顾客，让他们在家冲泡呢？"
+    },
+    {
+      "id": 31,
+      "start": 133.25,
+      "end": 139.61,
+      "en": "That could definitely be a way we could expand our company, but would we be undermining the essence of the company that way?",
+      "zh": "这绝对是我们扩大公司的一种方式，但我们会以这种方式破坏公司的精髓吗？"
+    },
+    {
+      "id": 32,
+      "start": 140.03,
+      "end": 142.45,
+      "en": "Let's brainstorm some more ideas and do some research.",
+      "zh": "让我们集思广益并进行一些研究。"
+    },
+    {
+      "id": 33,
+      "start": 142.93,
+      "end": 146.25,
+      "en": "The customer always comes first and what the customer wants, the customer gets.",
+      "zh": "客户永远是第一位的，客户想要什么，客户就会得到。"
+    },
+    {
+      "id": 34,
+      "start": 146.72,
+      "end": 148.68,
+      "en": "Maybe it's time we started selling coffee beans.",
+      "zh": "也许是时候开始销售咖啡豆了。"
+    },
+    {
+      "id": 35,
+      "start": 149.92,
+      "end": 155.12,
+      "en": "All right, we're back.",
+      "zh": "好了，我们回来了。"
+    },
+    {
+      "id": 36,
+      "start": 155.12,
+      "end": 159.0,
+      "en": "So a very interesting dialogue.",
+      "zh": "所以一个非常有趣的对话。"
+    },
+    {
+      "id": 37,
+      "start": 159.0,
+      "end": 167.28,
+      "en": "I think this is something very common that would go on in a meeting room when the marketing department is talking about prices and how do we increase sales, etc.",
+      "zh": "我认为当营销部门谈论价格以及我们如何增加销售额等时，在会议室中会发生这种情况。"
+    },
+    {
+      "id": 38,
+      "start": 167.28,
+      "end": 173.37,
+      "en": "So I think we had a lot of difficult words or maybe words that we didn't really understand well.",
+      "zh": "所以我认为我们有很多困难的词，或者可能是我们不太了解的词。"
+    },
+    {
+      "id": 39,
+      "start": 173.53,
+      "end": 175.77,
+      "en": "So let's take a look at some of those in Language Takeaway.",
+      "zh": "所以让我们来看看一些语言外卖中的一些。"
+    },
+    {
+      "id": 40,
+      "start": 178.79,
+      "end": 179.75,
+      "en": "Language Takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 41,
+      "start": 182.24,
+      "end": 185.03,
+      "en": "So the first word on the top of our list today is recession.",
+      "zh": "因此，我们今天在列表顶部的第一个词是经济衰退。"
+    },
+    {
+      "id": 42,
+      "start": 185.76,
+      "end": 191.77,
+      "en": "Anyone looking at the news this year or last year probably knows what this word means, but let's talk about it anyway.",
+      "zh": "今年或去年看新闻的人可能都知道这个词的含义，但无论如何让我们谈谈它。"
+    },
+    {
+      "id": 43,
+      "start": 192.0,
+      "end": 192.53,
+      "en": "What is a recession?",
+      "zh": "什么是衰退？"
+    },
+    {
+      "id": 44,
+      "start": 192.85,
+      "end": 193.29,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 45,
+      "start": 193.53,
+      "end": 197.87,
+      "en": "So someone was talking about the recession and basically it is a noun.",
+      "zh": "所以有人在谈论经济衰退，基本上它是一个名词。"
+    },
+    {
+      "id": 46,
+      "start": 199.48,
+      "end": 215.24,
+      "en": "And it means that people don't have enough money like before and so consequently services are decreased, people aren't buying as much, so there is a lack of commerce going on in a country, a region, or a city, etc.",
+      "zh": "这意味着人们没有像以前那样有足够的钱，因此服务减少了，人们没有那么多，所以一个国家、一个地区或一个城市等缺乏商业。"
+    },
+    {
+      "id": 47,
+      "start": 215.3,
+      "end": 217.86,
+      "en": "So basically in economics you have these different cycles.",
+      "zh": "所以基本上在经济学中，你有这些不同的周期。"
+    },
+    {
+      "id": 48,
+      "start": 218.48,
+      "end": 220.42,
+      "en": "It's not like the economy is always the same.",
+      "zh": "这不像经济总是一样的。"
+    },
+    {
+      "id": 49,
+      "start": 220.62,
+      "end": 228.36,
+      "en": "And so sometimes when there's not enough money we call it a recession and we can say, hey, I don't have much money to spend right now, we are in a recession.",
+      "zh": "所以有时当没有足够的钱时，我们称之为经济衰退，我们可以说，嘿，我现在没有多少钱可以花，我们正处于衰退中。"
+    },
+    {
+      "id": 50,
+      "start": 228.8,
+      "end": 231.12,
+      "en": "So that's a very common way to use the term.",
+      "zh": "因此，这是使用该术语的一种非常常见的方式。"
+    },
+    {
+      "id": 51,
+      "start": 231.12,
+      "end": 231.24,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 52,
+      "start": 232.12,
+      "end": 237.36,
+      "en": "So as you said, it's an economic term and many consequences because of this lack of jobs.",
+      "zh": "正如你所说，这是一个经济术语和许多后果，因为缺乏工作。"
+    },
+    {
+      "id": 53,
+      "start": 237.7,
+      "end": 239.2,
+      "en": "It's just, as you said, a cycle.",
+      "zh": "正如你所说，这只是一个循环。"
+    },
+    {
+      "id": 54,
+      "start": 239.96,
+      "end": 247.54,
+      "en": "And so apart from a recession, that's why they are brainstorming to see how they can increase sales despite the recession.",
+      "zh": "因此，除了经济衰退之外，这就是为什么他们集思广益，看看他们如何在经济衰退的情况下增加销售额。"
+    },
+    {
+      "id": 55,
+      "start": 248.36,
+      "end": 252.84,
+      "en": "They also talked about their customers and that their customers are highly discerning.",
+      "zh": "他们还谈到了他们的客户，他们的客户非常挑剔。"
+    },
+    {
+      "id": 56,
+      "start": 253.28,
+      "end": 257.0,
+      "en": "Alright so this word discerning comes from the verb to discern.",
+      "zh": "好吧，这个词辨别来自动词到辨别。"
+    },
+    {
+      "id": 57,
+      "start": 257.5,
+      "end": 264.34,
+      "en": "And it's a really important one because it means to be able to tell the difference, to understand the difference between two different things.",
+      "zh": "这是一个非常重要的事情，因为它意味着能够分辨出不同，了解两种不同事物之间的区别。"
+    },
+    {
+      "id": 58,
+      "start": 265.08,
+      "end": 268.06,
+      "en": "Okay so let's say we have two cups of soda.",
+      "zh": "好吧，假设我们有两杯苏打水。"
+    },
+    {
+      "id": 59,
+      "start": 269.44,
+      "end": 273.4,
+      "en": "I'm very good at tasting things so I can discern the difference.",
+      "zh": "我非常擅长品尝东西，这样我就可以辨别差异。"
+    },
+    {
+      "id": 60,
+      "start": 273.8,
+      "end": 276.02,
+      "en": "I can discern the difference between these two.",
+      "zh": "我可以辨别这两者的区别。"
+    },
+    {
+      "id": 61,
+      "start": 276.12,
+      "end": 279.04,
+      "en": "I can say one is Coca-Cola and one is Pepsi.",
+      "zh": "我可以说一种是可口可乐，一种是百事可乐。"
+    },
+    {
+      "id": 62,
+      "start": 279.04,
+      "end": 285.76,
+      "en": "Okay so to discern is to be able to tell the difference or to notice the difference between many things.",
+      "zh": "好吧，辨别就是能够区分或注意到许多事情之间的区别。"
+    },
+    {
+      "id": 63,
+      "start": 286.68,
+      "end": 289.36,
+      "en": "And so obviously you are a discerning person.",
+      "zh": "很明显，你是一个有眼光的人。"
+    },
+    {
+      "id": 64,
+      "start": 290.44,
+      "end": 291.6,
+      "en": "Or you have discerning taste.",
+      "zh": "或者你有挑剔的品味。"
+    },
+    {
+      "id": 65,
+      "start": 291.96,
+      "end": 297.64,
+      "en": "This means that you're very good at telling when something is high quality and when it's not high quality.",
+      "zh": "这意味着您非常擅长判断何时质量高，何时质量不高。"
+    },
+    {
+      "id": 66,
+      "start": 298.82,
+      "end": 303.2,
+      "en": "And well talking about discerning customers who know what they want.",
+      "zh": "以及谈论知道自己想要什么的有眼光的客户。"
+    },
+    {
+      "id": 67,
+      "start": 303.8,
+      "end": 308.88,
+      "en": "And so they talked about their coffee beans and it's one of their core competencies.",
+      "zh": "所以他们谈到了他们的咖啡豆，这是他们的核心竞争力之一。"
+    },
+    {
+      "id": 68,
+      "start": 309.56,
+      "end": 313.82,
+      "en": "Okay so this is something you might actually hear in education as well as in business.",
+      "zh": "好吧，这是您在教育和商业中实际听到的内容。"
+    },
+    {
+      "id": 69,
+      "start": 314.22,
+      "end": 318.48,
+      "en": "Something is your competency if you are able to do it.",
+      "zh": "如果您能够做到，某事就是您的能力。"
+    },
+    {
+      "id": 70,
+      "start": 318.88,
+      "end": 324.4,
+      "en": "Alright so I am able to write Chinese characters.",
+      "zh": "好吧，我可以写汉字。"
+    },
+    {
+      "id": 71,
+      "start": 324.4,
+      "end": 325.98,
+      "en": "It's one of my core competencies.",
+      "zh": "这是我的核心能力之一。"
+    },
+    {
+      "id": 72,
+      "start": 326.2,
+      "end": 331.94,
+      "en": "Okay so that's something that I'm able to do so I consider it one of these central or important abilities.",
+      "zh": "好吧，这是我能够做到的事情，所以我认为它是这些核心或重要的能力之一。"
+    },
+    {
+      "id": 73,
+      "start": 332.14,
+      "end": 336.34,
+      "en": "But you always talk about competencies within the context of some area.",
+      "zh": "但你总是在某个领域的背景下谈论能力。"
+    },
+    {
+      "id": 74,
+      "start": 336.34,
+      "end": 342.56,
+      "en": "So my language skills or in this case at a company we're talking about making a coffee.",
+      "zh": "所以我的语言技能，或者在这种情况下，我们正在谈论煮咖啡。"
+    },
+    {
+      "id": 75,
+      "start": 342.56,
+      "end": 346.56,
+      "en": "One of the company's core competencies is making their coffee beans.",
+      "zh": "该公司的核心竞争力之一是制作咖啡豆。"
+    },
+    {
+      "id": 76,
+      "start": 346.78,
+      "end": 347.66,
+      "en": "That's something they're good at.",
+      "zh": "这是他们擅长的事情。"
+    },
+    {
+      "id": 77,
+      "start": 347.82,
+      "end": 351.66,
+      "en": "That's right and core when we talk about core we talk about the center.",
+      "zh": "当我们谈论核心时，这是正确的和核心，我们谈论中心。"
+    },
+    {
+      "id": 78,
+      "start": 351.9,
+      "end": 354.22,
+      "en": "We talk about one of the most important things.",
+      "zh": "我们谈论最重要的事情之一。"
+    },
+    {
+      "id": 79,
+      "start": 354.5,
+      "end": 354.94,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 80,
+      "start": 355.32,
+      "end": 368.44,
+      "en": "Okay and well for the last word that we've prepared to you on Language Takeaway we talked about them worrying that you know selling the coffee beans might undermine the essence of the company.",
+      "zh": "好吧，对于我们在外卖方面为您准备的最后一句话，我们谈到了他们担心您知道出售咖啡豆可能会破坏公司的精髓。"
+    },
+    {
+      "id": 81,
+      "start": 368.96,
+      "end": 369.62,
+      "en": "To undermine.",
+      "zh": "破坏。"
+    },
+    {
+      "id": 82,
+      "start": 370.04,
+      "end": 376.2,
+      "en": "Okay this is a really important verb and you'll hear this a lot actually in TV shows and especially in dramas.",
+      "zh": "好吧，这是一个非常重要的动词，你会在电视节目中，尤其是在电视剧中听到很多。"
+    },
+    {
+      "id": 83,
+      "start": 376.68,
+      "end": 381.32,
+      "en": "Say he's undermining my authority or he's undermining my power.",
+      "zh": "假设他正在破坏我的权威，或者他正在破坏我的力量。"
+    },
+    {
+      "id": 84,
+      "start": 381.32,
+      "end": 386.26,
+      "en": "This means that someone is challenging it or someone is kind of taking it away from you.",
+      "zh": "这意味着有人在挑战它，或者有人有点把它从你身上拿走。"
+    },
+    {
+      "id": 85,
+      "start": 387.2,
+      "end": 395.13,
+      "en": "So to undermine is to as you said challenge or try to take something from you very sneaky in a sneaky way sometimes.",
+      "zh": "所以破坏就像你所说的挑战，或者尝试以一种偷偷摸摸的方式从你身上拿走一些东西。"
+    },
+    {
+      "id": 86,
+      "start": 395.72,
+      "end": 396.72,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 87,
+      "start": 396.72,
+      "end": 405.99,
+      "en": "So for example if I'm the president of a country and someone is trying to take that away from me someone is trying to be the president and trying to take down my government.",
+      "zh": "因此，例如，如果我是一个国家的总统并且有人试图从我这里夺走它，有人正试图成为总统并试图推翻我的政府。"
+    },
+    {
+      "id": 88,
+      "start": 406.6,
+      "end": 408.85,
+      "en": "He is trying to undermine my power.",
+      "zh": "他试图破坏我的力量。"
+    },
+    {
+      "id": 89,
+      "start": 409.05,
+      "end": 410.33,
+      "en": "Okay very good.",
+      "zh": "好，很好。"
+    },
+    {
+      "id": 90,
+      "start": 411.01,
+      "end": 413.67,
+      "en": "So four key words there on Language Takeaway.",
+      "zh": "所以在语言外卖上有四个关键词。"
+    },
+    {
+      "id": 91,
+      "start": 414.05,
+      "end": 419.85,
+      "en": "Now we're going to move on to Fluency Builder where we prepared a lot of nice and very good phrases.",
+      "zh": "现在我们将转向 Flueny Builder，在那里我们准备了很多好听且非常好的短语。"
+    },
+    {
+      "id": 92,
+      "start": 421.64,
+      "end": 422.8,
+      "en": "Fluency Builder.",
+      "zh": "流利表达。"
+    },
+    {
+      "id": 93,
+      "start": 424.84,
+      "end": 437.97,
+      "en": "All right so on Fluency Builder why don't we start up from the beginning of the dialogue when they were talking about the prices of the coffee and that other shops have reduced their prices and so they're drawing in more customers.",
+      "zh": "好吧，关于 Fluency Builder，为什么我们不从对话的开始就开始谈论咖啡的价格，而其他商店已经降低了价格，因此他们吸引了更多的客户。"
+    },
+    {
+      "id": 94,
+      "start": 438.8,
+      "end": 441.35,
+      "en": "All right so the key here is to draw in.",
+      "zh": "好吧，所以这里的关键是吸引。"
+    },
+    {
+      "id": 95,
+      "start": 441.36,
+      "end": 442.92,
+      "en": "This is a phrase.",
+      "zh": "这是一个短语。"
+    },
+    {
+      "id": 96,
+      "start": 442.92,
+      "end": 446.89,
+      "en": "Most people will know the word to draw you know to make a design on a page.",
+      "zh": "大多数人会知道在页面上绘制您知道的字。"
+    },
+    {
+      "id": 97,
+      "start": 447.8,
+      "end": 449.79,
+      "en": "But to draw in has a very special meaning.",
+      "zh": "但吸引人有一个非常特殊的含义。"
+    },
+    {
+      "id": 98,
+      "start": 450.12,
+      "end": 450.89,
+      "en": "It means to attract.",
+      "zh": "它的意思是吸引。"
+    },
+    {
+      "id": 99,
+      "start": 451.43,
+      "end": 453.85,
+      "en": "Okay so you want to attract more customers.",
+      "zh": "好的，所以你想吸引更多的客户。"
+    },
+    {
+      "id": 100,
+      "start": 454.24,
+      "end": 456.4,
+      "en": "You want to bring them into the shop.",
+      "zh": "你想把它们带进商店。"
+    },
+    {
+      "id": 101,
+      "start": 456.4,
+      "end": 458.88,
+      "en": "So you're trying to draw them in.",
+      "zh": "所以你想把它们拉进来。"
+    },
+    {
+      "id": 102,
+      "start": 458.88,
+      "end": 464.63,
+      "en": "So Marco what's a good example of something that a company will do to try and draw in customers.",
+      "zh": "马可 有什么好的例子来说明公司会做些什么来吸引客户。"
+    },
+    {
+      "id": 103,
+      "start": 465.2,
+      "end": 473.15,
+      "en": "For example many of you maybe have seen in fast food restaurants when they have a promotion like you buy one hamburger and you get another one for free.",
+      "zh": "例如，你们中的许多人可能在快餐店看到过促销活动，例如您买了一个汉堡包，然后免费获得了一份。"
+    },
+    {
+      "id": 104,
+      "start": 473.47,
+      "end": 482.71,
+      "en": "So that's maybe one of the strategies that they're trying to do to draw in customers and maybe not make money but give people the opportunity to taste their good food.",
+      "zh": "所以这可能是他们试图吸引顾客而不是赚钱的策略之一，但让人们有机会品尝他们的美食。"
+    },
+    {
+      "id": 105,
+      "start": 482.94,
+      "end": 483.3,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 106,
+      "start": 484.12,
+      "end": 486.6,
+      "en": "All right so the next phrase we've got here is a little bit different.",
+      "zh": "好吧，我们这里的下一个短语有点不同。"
+    },
+    {
+      "id": 107,
+      "start": 487.24,
+      "end": 489.7,
+      "en": "It's talking about the kind of product that they have.",
+      "zh": "它在谈论他们拥有的产品类型。"
+    },
+    {
+      "id": 108,
+      "start": 490.1,
+      "end": 496.86,
+      "en": "They're talking about their coffee beans and they say that they're roasted and that they use state of the art equipment to brew the coffee.",
+      "zh": "他们在谈论他们的咖啡豆，他们说他们是烘焙的，他们使用最先进的设备来冲泡咖啡。"
+    },
+    {
+      "id": 109,
+      "start": 497.44,
+      "end": 498.78,
+      "en": "So this phrase state of the art.",
+      "zh": "所以这句话的艺术现状。"
+    },
+    {
+      "id": 110,
+      "start": 498.9,
+      "end": 499.38,
+      "en": "What does this mean?",
+      "zh": "这是什么意思？"
+    },
+    {
+      "id": 111,
+      "start": 499.98,
+      "end": 507.74,
+      "en": "Okay if something is state of the art, okay, we're usually talking about a machine and we're saying that it's the latest in technology.",
+      "zh": "好吧，如果某些东西是最先进的，好吧，我们通常在谈论一台机器，我们说它是最新的技术。"
+    },
+    {
+      "id": 112,
+      "start": 508.28,
+      "end": 509.28,
+      "en": "It's very very new.",
+      "zh": "这是非常非常新的。"
+    },
+    {
+      "id": 113,
+      "start": 509.54,
+      "end": 510.86,
+      "en": "It's highly advanced.",
+      "zh": "它非常先进。"
+    },
+    {
+      "id": 114,
+      "start": 511.38,
+      "end": 514.12,
+      "en": "It's a very technologically advanced machine.",
+      "zh": "这是一台技术先进的机器。"
+    },
+    {
+      "id": 115,
+      "start": 514.6,
+      "end": 519.7,
+      "en": "So for example the new iPhone 4 is a state of the art cell phone.",
+      "zh": "因此，例如新的 iPhone 4 是最先进的手机。"
+    },
+    {
+      "id": 116,
+      "start": 520.2,
+      "end": 524.44,
+      "en": "That means it's the very highest that technology has to offer.",
+      "zh": "这意味着它是技术所提供的最高水平。"
+    },
+    {
+      "id": 117,
+      "start": 524.44,
+      "end": 533.08,
+      "en": "And obviously something that is state of the art is not state of the art forever because technology changes and so maybe next year there will be a new state of the art telephone.",
+      "zh": "显然，最先进的东西并不是永远的最先进的东西，因为技术发生了变化，因此明年可能会有一个新的最先进的电话。"
+    },
+    {
+      "id": 118,
+      "start": 533.08,
+      "end": 533.31,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 119,
+      "start": 534.08,
+      "end": 537.57,
+      "en": "So if you notice the spelling as well we have little hyphens between each word.",
+      "zh": "因此，如果您也注意到拼写，我们每个单词之间几乎没有连字符。"
+    },
+    {
+      "id": 120,
+      "start": 537.96,
+      "end": 541.23,
+      "en": "State of the art because we take it as a chunk all together, right?",
+      "zh": "最先进的技术，因为我们把它作为一个大块，对吧？"
+    },
+    {
+      "id": 121,
+      "start": 541.68,
+      "end": 541.85,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 122,
+      "start": 542.68,
+      "end": 544.77,
+      "en": "And following that we have another phrase that is used to talk about products.",
+      "zh": "之后，我们有另一个用于谈论产品的短语。"
+    },
+    {
+      "id": 123,
+      "start": 544.97,
+      "end": 551.09,
+      "en": "They say when you compare the coffees we have side by side, our coffee wins against our competitors.",
+      "zh": "他们说，当您比较我们并排的咖啡时，我们的咖啡会战胜竞争对手。"
+    },
+    {
+      "id": 124,
+      "start": 551.55,
+      "end": 552.83,
+      "en": "So side by side.",
+      "zh": "所以并排。"
+    },
+    {
+      "id": 125,
+      "start": 553.32,
+      "end": 560.12,
+      "en": "In this case the phrase there is side by side and they're talking about comparing coffees side by side.",
+      "zh": "在这种情况下，这句话是并排的，他们谈论的是并排比较咖啡。"
+    },
+    {
+      "id": 126,
+      "start": 560.12,
+      "end": 561.73,
+      "en": "So I think this is pretty literal.",
+      "zh": "所以我认为这是非常字面的。"
+    },
+    {
+      "id": 127,
+      "start": 562.32,
+      "end": 571.05,
+      "en": "It's basically saying you put two coffee mugs or coffee cups together side by side and you have people taste and then you see which one they prefer.",
+      "zh": "它基本上是说你把两个咖啡杯或咖啡杯并排放在一起，你有人们的味道，然后你看看他们更喜欢哪一个。"
+    },
+    {
+      "id": 128,
+      "start": 571.8,
+      "end": 572.8,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 129,
+      "start": 572.8,
+      "end": 573.79,
+      "en": "So you can say this when you're making comparisons.",
+      "zh": "所以你在做比较的时候可以这么说。"
+    },
+    {
+      "id": 130,
+      "start": 575.68,
+      "end": 579.89,
+      "en": "When I look at them side by side I think I like the pink one more than the red one.",
+      "zh": "当我并排看它们时，我想我更喜欢粉红色的而不是红色的。"
+    },
+    {
+      "id": 131,
+      "start": 581.22,
+      "end": 587.12,
+      "en": "So you are comparing, you are literally putting them next to each other to make a choice of which one is your preference.",
+      "zh": "所以你是在比较，你实际上是把它们放在彼此旁边，以选择你喜欢哪一个。"
+    },
+    {
+      "id": 132,
+      "start": 587.8,
+      "end": 587.96,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 133,
+      "start": 588.8,
+      "end": 599.85,
+      "en": "Okay now moving on we have a very interesting phrase when they were talking about the company and they've achieved top of mind awareness when it comes to best tasting brews.",
+      "zh": "好的，现在继续，当他们谈论公司时，我们有一个非常有趣的短语，他们在最好的品尝啤酒方面已经达到了最高的意识。"
+    },
+    {
+      "id": 134,
+      "start": 600.36,
+      "end": 603.87,
+      "en": "So this phrase top of mind awareness very closely related to marketing.",
+      "zh": "所以这句话的头脑意识与营销非常密切相关。"
+    },
+    {
+      "id": 135,
+      "start": 604.9,
+      "end": 605.69,
+      "en": "What are we talking about here?",
+      "zh": "我们在这里谈论什么？"
+    },
+    {
+      "id": 136,
+      "start": 606.12,
+      "end": 607.41,
+      "en": "Well let's look at the individual words.",
+      "zh": "好吧，让我们看看单个单词。"
+    },
+    {
+      "id": 137,
+      "start": 607.64,
+      "end": 614.51,
+      "en": "We have top which is on top not on bottom, mind which is your head or your thinking and awareness which is the way that you see things.",
+      "zh": "我们的顶部在顶部而不是底部，注意这是您的头脑或您的思想和意识，这是您看待事物的方式。"
+    },
+    {
+      "id": 138,
+      "start": 614.8,
+      "end": 625.68,
+      "en": "And so let's take a guess here and say that when I think of a category of product like coffee for example, what is the first thing that comes into my mind?",
+      "zh": "因此，让我们在这里猜一个，说当我想到像咖啡这样的产品类别时，我首先想到的是什么？"
+    },
+    {
+      "id": 139,
+      "start": 625.68,
+      "end": 625.85,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 140,
+      "start": 626.68,
+      "end": 630.57,
+      "en": "So it's actually a very cool game that you can sometimes play with friends.",
+      "zh": "所以它实际上是一个非常酷的游戏，你有时可以和朋友一起玩。"
+    },
+    {
+      "id": 141,
+      "start": 631.72,
+      "end": 637.88,
+      "en": "Basically just say okay when you think of coffee what is the first brand that comes into your mind?",
+      "zh": "基本上只是说好吧，当您想到咖啡时，您想到的第一个品牌是什么？"
+    },
+    {
+      "id": 142,
+      "start": 637.88,
+      "end": 638.88,
+      "en": "Starbucks.",
+      "zh": "星巴克。"
+    },
+    {
+      "id": 143,
+      "start": 638.88,
+      "end": 639.88,
+      "en": "Starbucks.",
+      "zh": "星巴克。"
+    },
+    {
+      "id": 144,
+      "start": 639.88,
+      "end": 646.48,
+      "en": "So that for example shows that Starbucks has put in you a certain top of mind awareness.",
+      "zh": "例如，这表明星巴克已经为您提供了某种高级意识。"
+    },
+    {
+      "id": 145,
+      "start": 646.48,
+      "end": 649.11,
+      "en": "You associate coffee with Starbucks immediately.",
+      "zh": "您立即将咖啡与星巴克联系起来。"
+    },
+    {
+      "id": 146,
+      "start": 649.83,
+      "end": 653.41,
+      "en": "You don't say Costa Coffee, you don't say Coffee Bean or any other brand.",
+      "zh": "你不是说Costa Coffee，也不是说Coffee Bean或任何其他品牌。"
+    },
+    {
+      "id": 147,
+      "start": 653.63,
+      "end": 653.81,
+      "en": "Right?",
+      "zh": "对吧？"
+    },
+    {
+      "id": 148,
+      "start": 654.21,
+      "end": 665.31,
+      "en": "Yeah, no definitely this is a way for you to really test what companies, what corporations have the most effective marketing because obviously they're the ones who make you think of this thing.",
+      "zh": "是的，不，这绝对是您真正测试哪些公司，哪些公司具有最有效的营销方式的一种方式，因为显然他们是让您想到这件事的人。"
+    },
+    {
+      "id": 149,
+      "start": 665.84,
+      "end": 666.84,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 150,
+      "start": 666.84,
+      "end": 668.2,
+      "en": "They have lots of marketing campaigns.",
+      "zh": "他们有很多营销活动。"
+    },
+    {
+      "id": 151,
+      "start": 668.2,
+      "end": 669.2,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 152,
+      "start": 669.2,
+      "end": 670.32,
+      "en": "So it's actually very interesting.",
+      "zh": "所以它实际上非常有趣。"
+    },
+    {
+      "id": 153,
+      "start": 670.32,
+      "end": 674.28,
+      "en": "So you can say top of mind or you can say top of mind awareness.",
+      "zh": "所以你可以说是头脑中的，或者你可以说是头脑的意识。"
+    },
+    {
+      "id": 154,
+      "start": 674.28,
+      "end": 677.92,
+      "en": "You can say Honda has great top of mind among their clients.",
+      "zh": "你可以说本田在他们的客户中非常注重。"
+    },
+    {
+      "id": 155,
+      "start": 677.92,
+      "end": 681.44,
+      "en": "Or Ferrari has great top of mind among luxury vehicles.",
+      "zh": "或者法拉利在豪华车中拥有出色的头脑。"
+    },
+    {
+      "id": 156,
+      "start": 681.44,
+      "end": 682.44,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 157,
+      "start": 682.44,
+      "end": 683.44,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 158,
+      "start": 683.44,
+      "end": 692.8,
+      "en": "And now for the last phrase when we talked about money again, this is a very nice colloquial way of saying that you don't have a lot of money or money is very scarce right now.",
+      "zh": "而现在，当我们再次谈论金钱时，这是一种非常好的口语方式，说你现在没有很多钱或钱，非常稀缺。"
+    },
+    {
+      "id": 159,
+      "start": 692.8,
+      "end": 695.0,
+      "en": "Alright, so the phrase is money is tight.",
+      "zh": "好吧，所以这句话是钱很紧。"
+    },
+    {
+      "id": 160,
+      "start": 695.0,
+      "end": 696.0,
+      "en": "Alright?",
+      "zh": "好吗?"
+    },
+    {
+      "id": 161,
+      "start": 696.0,
+      "end": 701.17,
+      "en": "So you know the word tight, you can hold something tightly or this belt is tight, I'm gaining weight.",
+      "zh": "所以你知道这个词，你可以紧紧地握着什么东西，或者这条腰带很紧，我正在增加体重。"
+    },
+    {
+      "id": 162,
+      "start": 702.16,
+      "end": 708.15,
+      "en": "But in this case, money is tight, that's a phrase we take as a chunk and it means like you say Marco, I just don't have much money right now.",
+      "zh": "但在这种情况下，金钱很紧，这是我们认为的一句话，这意味着就像你说马可一样，我现在没有多少钱。"
+    },
+    {
+      "id": 163,
+      "start": 708.29,
+      "end": 709.49,
+      "en": "So money is tight right now.",
+      "zh": "所以现在钱很紧。"
+    },
+    {
+      "id": 164,
+      "start": 710.36,
+      "end": 713.71,
+      "en": "Now it's interesting because you can say it money is tight and then the subject.",
+      "zh": "现在很有趣，因为你可以说钱很紧，然后是主题。"
+    },
+    {
+      "id": 165,
+      "start": 714.16,
+      "end": 715.51,
+      "en": "Money is tight for Bill right now.",
+      "zh": "比尔现在的钱很紧。"
+    },
+    {
+      "id": 166,
+      "start": 716.16,
+      "end": 719.55,
+      "en": "Or you can say Bill is tight for money at the moment.",
+      "zh": "或者你可以说比尔现在很紧张。"
+    },
+    {
+      "id": 167,
+      "start": 720.18,
+      "end": 725.56,
+      "en": "So you can switch it up depending on where you put the subject, towards the end or in the beginning.",
+      "zh": "因此，您可以根据您放置主题的位置、结尾或开始将其切换。"
+    },
+    {
+      "id": 168,
+      "start": 725.56,
+      "end": 734.56,
+      "en": "Alright, so usually you hear the phrase money is tight right now or money is really tight, just kind of on its own and it's a way to say I don't have much cash.",
+      "zh": "好吧，所以通常你会听到钱现在很紧，或者钱真的很紧，只是靠它自己，这是一种说我没有多少现金的方式。"
+    },
+    {
+      "id": 169,
+      "start": 734.56,
+      "end": 735.56,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 170,
+      "start": 735.56,
+      "end": 736.56,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 171,
+      "start": 736.56,
+      "end": 738.76,
+      "en": "So we've taken a look at a lot of words and phrases here.",
+      "zh": "所以我们在这里看了很多单词和短语。"
+    },
+    {
+      "id": 172,
+      "start": 738.76,
+      "end": 749.84,
+      "en": "Let's listen to our dialogue again and we'll be back to talk a little bit more.",
+      "zh": "让我们再听一次我们的对话，我们会回来多说一点。"
+    },
+    {
+      "id": 173,
+      "start": 749.84,
+      "end": 750.68,
+      "en": "Okay everyone, let's begin.",
+      "zh": "好吧，大家开始吧。"
+    },
+    {
+      "id": 174,
+      "start": 751.3,
+      "end": 754.6,
+      "en": "I called you here today to evaluate our marketing strategy during this recession.",
+      "zh": "今天召集大家，是想评估一下经济衰退期间我们的营销策略。"
+    },
+    {
+      "id": 175,
+      "start": 755.13,
+      "end": 762.51,
+      "en": "I wanted to reemphasize our corporate mission of aiming to give our customers the best coffee and service in a clean and welcoming atmosphere.",
+      "zh": "我想再次强调我们的企业使命，旨在在干净和热情的氛围中为我们的客户提供最好的咖啡和服务。"
+    },
+    {
+      "id": 176,
+      "start": 763.19,
+      "end": 767.93,
+      "en": "Several other shops have been reducing their prices for their coffees and they are drawing in more customers.",
+      "zh": "其他几家商店一直在降低他们的咖啡价格，他们吸引了更多的顾客。"
+    },
+    {
+      "id": 177,
+      "start": 768.63,
+      "end": 769.91,
+      "en": "Why aren't we doing the same thing?",
+      "zh": "为什么我们不做同样的事情？"
+    },
+    {
+      "id": 178,
+      "start": 770.41,
+      "end": 775.55,
+      "en": "I know that recent sales have been slow, but we are not going to reduce our prices to the level of our competitors.",
+      "zh": "我知道最近销售不景气，但我们不会把价格降到竞争对手的水平。"
+    },
+    {
+      "id": 179,
+      "start": 776.44,
+      "end": 781.31,
+      "en": "We offer a superior product and our focus is on long-term growth rather than short-term sales.",
+      "zh": "我们提供优质的产品，我们的重点是长期增长而不是短期销售。"
+    },
+    {
+      "id": 180,
+      "start": 782.24,
+      "end": 785.09,
+      "en": "If we lower our prices, we run the risk of devaluing our product.",
+      "zh": "如果我们降低价格，我们将冒着贬值我们产品的风险。"
+    },
+    {
+      "id": 181,
+      "start": 786.28,
+      "end": 787.6,
+      "en": "Customers don't care about coffee anymore.",
+      "zh": "顾客不再关心咖啡。"
+    },
+    {
+      "id": 182,
+      "start": 788.26,
+      "end": 789.08,
+      "en": "They only care about price.",
+      "zh": "他们只关心价格。"
+    },
+    {
+      "id": 183,
+      "start": 789.7,
+      "end": 790.24,
+      "en": "I disagree.",
+      "zh": "我不同意。"
+    },
+    {
+      "id": 184,
+      "start": 790.92,
+      "end": 795.52,
+      "en": "Highly discerning customers know that our coffee is far better than the coffee you buy at the other places.",
+      "zh": "高度挑剔的客户知道我们的咖啡比您在其他地方购买的咖啡要好得多。"
+    },
+    {
+      "id": 185,
+      "start": 796.24,
+      "end": 800.36,
+      "en": "Our coffee beans are artisan roasted and we use state-of-the-art equipment to brew our coffees.",
+      "zh": "我们的咖啡豆是工匠烘焙的，我们使用最先进的设备来冲泡我们的咖啡。"
+    },
+    {
+      "id": 186,
+      "start": 801.32,
+      "end": 805.34,
+      "en": "When you compare the coffees side by side, our coffee wins the taste test every time.",
+      "zh": "当您并排比较咖啡时，我们的咖啡每次都会赢得口味测试。"
+    },
+    {
+      "id": 187,
+      "start": 806.52,
+      "end": 811.48,
+      "en": "We have never sought to appeal to the mass market with cheap coffee drinks and we will not do so now.",
+      "zh": "我们从来没有试图用便宜的咖啡饮料吸引大众市场，我们现在也不会这样做。"
+    },
+    {
+      "id": 188,
+      "start": 812.32,
+      "end": 812.61,
+      "en": "That's true.",
+      "zh": "确实如此。"
+    },
+    {
+      "id": 189,
+      "start": 813.32,
+      "end": 819.43,
+      "en": "We've certainly achieved top-of-mind awareness when it comes to the best tasting brews and it's important to distinguish ourselves from the competitors.",
+      "zh": "提到口味最好的咖啡，顾客首先想到的已经是我们；保持与竞争对手的差异很重要。"
+    },
+    {
+      "id": 190,
+      "start": 820.43,
+      "end": 824.77,
+      "en": "I think the main question is, how can we show our appreciation to our customers?",
+      "zh": "我认为主要问题是，我们如何向客户表达我们的感激之情？"
+    },
+    {
+      "id": 191,
+      "start": 825.37,
+      "end": 828.05,
+      "en": "That's the main question I would like to discuss today.",
+      "zh": "这是我今天要讨论的主要问题。"
+    },
+    {
+      "id": 192,
+      "start": 829.05,
+      "end": 835.75,
+      "en": "Money is tight for everyone these days, so even our most loyal customers may be reconsidering the money they pay for their morning coffee.",
+      "zh": "这些天每个人的钱都很紧，所以即使是我们最忠实的客户也可能会重新考虑他们为早上咖啡支付的钱。"
+    },
+    {
+      "id": 193,
+      "start": 836.27,
+      "end": 842.87,
+      "en": "Since the superiority of our coffee beans is one of our core competencies, why don't we sell the beans for people to brew coffee at home?",
+      "zh": "既然优质咖啡豆是我们的核心竞争力之一，为什么不把豆子卖给顾客，让他们在家冲泡呢？"
+    },
+    {
+      "id": 194,
+      "start": 843.29,
+      "end": 849.65,
+      "en": "That could definitely be a way we could expand our company, but would we be undermining the essence of the company that way?",
+      "zh": "这绝对是我们扩大公司的一种方式，但我们会以这种方式破坏公司的精髓吗？"
+    },
+    {
+      "id": 195,
+      "start": 850.07,
+      "end": 852.49,
+      "en": "Let's brainstorm some more ideas and do some research.",
+      "zh": "让我们集思广益并进行一些研究。"
+    },
+    {
+      "id": 196,
+      "start": 852.97,
+      "end": 856.29,
+      "en": "The customer always comes first and what the customer wants, the customer gets.",
+      "zh": "客户永远是第一位的，客户想要什么，客户就会得到。"
+    },
+    {
+      "id": 197,
+      "start": 856.76,
+      "end": 858.72,
+      "en": "Maybe it's time we started selling coffee beans.",
+      "zh": "也许是时候开始销售咖啡豆了。"
+    },
+    {
+      "id": 198,
+      "start": 863.88,
+      "end": 872.32,
+      "en": "All right, so going back to top-of-mind awareness, let's test what brands are in your head.",
+      "zh": "好吧，回到脑海中的意识，让我们测试一下你脑海中的品牌。"
+    },
+    {
+      "id": 199,
+      "start": 872.32,
+      "end": 877.69,
+      "en": "For example, when you think of a luxury sports car, what do you think?",
+      "zh": "例如，当您想到豪华跑车时，您会怎么想？"
+    },
+    {
+      "id": 200,
+      "start": 878.97,
+      "end": 879.15,
+      "en": "Ferrari.",
+      "zh": "法拉利。"
+    },
+    {
+      "id": 201,
+      "start": 879.32,
+      "end": 880.21,
+      "en": "Ferrari, you mentioned it before.",
+      "zh": "法拉利，你之前提到过。"
+    },
+    {
+      "id": 202,
+      "start": 880.63,
+      "end": 881.13,
+      "en": "Or Lamborghini.",
+      "zh": "或兰博基尼。"
+    },
+    {
+      "id": 203,
+      "start": 881.39,
+      "end": 882.83,
+      "en": "Or Lamborghini, but you said Ferrari first.",
+      "zh": "或者兰博基尼，但你首先说的是法拉利。"
+    },
+    {
+      "id": 204,
+      "start": 883.71,
+      "end": 885.93,
+      "en": "When you think of a brand of cigarettes, what do you think?",
+      "zh": "当你想到一个品牌的香烟时，你怎么看？"
+    },
+    {
+      "id": 205,
+      "start": 887.01,
+      "end": 887.41,
+      "en": "Camel.",
+      "zh": "骆驼。"
+    },
+    {
+      "id": 206,
+      "start": 887.64,
+      "end": 887.97,
+      "en": "Camel, okay.",
+      "zh": "骆驼，好吧。"
+    },
+    {
+      "id": 207,
+      "start": 888.64,
+      "end": 889.64,
+      "en": "This is an American brand.",
+      "zh": "这是美国品牌。"
+    },
+    {
+      "id": 208,
+      "start": 889.64,
+      "end": 891.88,
+      "en": "I don't think it's found very commonly in other places.",
+      "zh": "我不认为它在其他地方很常见。"
+    },
+    {
+      "id": 209,
+      "start": 891.88,
+      "end": 892.88,
+      "en": "They have it in Europe.",
+      "zh": "他们在欧洲有它。"
+    },
+    {
+      "id": 210,
+      "start": 892.88,
+      "end": 893.13,
+      "en": "It's very popular.",
+      "zh": "它非常受欢迎。"
+    },
+    {
+      "id": 211,
+      "start": 893.88,
+      "end": 894.88,
+      "en": "Oh, really?",
+      "zh": "哦，真的吗？"
+    },
+    {
+      "id": 212,
+      "start": 894.88,
+      "end": 895.88,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 213,
+      "start": 895.88,
+      "end": 896.88,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 214,
+      "start": 896.88,
+      "end": 898.88,
+      "en": "What about when you think of computers, what do you think?",
+      "zh": "当你想到计算机时，你怎么看？"
+    },
+    {
+      "id": 215,
+      "start": 898.88,
+      "end": 899.79,
+      "en": "For some reason, IBM.",
+      "zh": "出于某种原因，IBM。"
+    },
+    {
+      "id": 216,
+      "start": 900.35,
+      "end": 902.31,
+      "en": "IBM, even though you don't own an IBM.",
+      "zh": "IBM，即使您没有 IBM。"
+    },
+    {
+      "id": 217,
+      "start": 902.72,
+      "end": 906.17,
+      "en": "I don't, but I grew up around the IBM revolution.",
+      "zh": "我没有，但我是在 IBM 革命周围长大的。"
+    },
+    {
+      "id": 218,
+      "start": 906.32,
+      "end": 908.48,
+      "en": "Okay, see, this is interesting.",
+      "zh": "好吧，看，这很有趣。"
+    },
+    {
+      "id": 219,
+      "start": 908.48,
+      "end": 928.2,
+      "en": "So actually, it doesn't always work that way, that because you have a brand in your mind, it doesn't necessarily mean that you will purchase it in the future if you have the power to, but at least you are aware of the brand and you recognize it, and the chances are that you will buy it.",
+      "zh": "所以实际上，它并不总是那样工作，因为你的脑海中有一个品牌，这并不一定意味着如果你有能力的话，你将来会购买它，但至少你知道这个品牌并认识到它，你有可能会购买它。"
+    },
+    {
+      "id": 220,
+      "start": 928.2,
+      "end": 933.34,
+      "en": "That's right, and you're going to be familiar with it when you read about it or when people talk about it.",
+      "zh": "没错，当你读到它或人们谈论它时，你会熟悉它。"
+    },
+    {
+      "id": 221,
+      "start": 933.68,
+      "end": 942.04,
+      "en": "So for example, I own a Mac computer, Apple, but when I think of computers, I just think of IBM because we used to say, remember, IBM compatible.",
+      "zh": "举个例子，我拥有一台Mac电脑，苹果，但是当我想到电脑时，我只是想到IBM，因为我们曾经说过，记住，IBM兼容。"
+    },
+    {
+      "id": 222,
+      "start": 942.64,
+      "end": 946.04,
+      "en": "Nah, that's right, IBM compatible, because before it was usually just Mac.",
+      "zh": "不，是的，IBM 兼容，因为它通常只是 Mac。"
+    },
+    {
+      "id": 223,
+      "start": 946.88,
+      "end": 947.4,
+      "en": "Everything was for Mac.",
+      "zh": "一切都是为了 Mac。"
+    },
+    {
+      "id": 224,
+      "start": 947.88,
+      "end": 948.32,
+      "en": "Mac or IBM.",
+      "zh": "Mac 或 IBM。"
+    },
+    {
+      "id": 225,
+      "start": 949.04,
+      "end": 950.64,
+      "en": "And then all of a sudden, it's PC or Mac.",
+      "zh": "然后突然间，它是 PC 或 Mac。"
+    },
+    {
+      "id": 226,
+      "start": 951.04,
+      "end": 952.04,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 227,
+      "start": 952.04,
+      "end": 960.78,
+      "en": "Actually, that's interesting, though, because if probably, if I say, what do you think of when you think of, what brand comes to mind when you think of MP3 players?",
+      "zh": "实际上，这很有趣，因为如果我说，当你想到 MP3 播放器时，你会想到什么品牌？"
+    },
+    {
+      "id": 228,
+      "start": 961.04,
+      "end": 962.64,
+      "en": "Apple, the iPod.",
+      "zh": "苹果，iPod。"
+    },
+    {
+      "id": 229,
+      "start": 963.16,
+      "end": 964.06,
+      "en": "You probably think iPod.",
+      "zh": "你可能认为 ipod。"
+    },
+    {
+      "id": 230,
+      "start": 964.26,
+      "end": 972.86,
+      "en": "That's probably one of the most famous ones, but maybe if you ask somebody about 10 years ago, when you think about a music player, what do you think about?",
+      "zh": "这可能是最著名的之一，但如果你在大约 10 年前问某人，当你想到一个音乐播放器时，你会怎么想？"
+    },
+    {
+      "id": 231,
+      "start": 973.04,
+      "end": 974.22,
+      "en": "Sony, the Sony Walkman.",
+      "zh": "索尼，索尼随身听。"
+    },
+    {
+      "id": 232,
+      "start": 974.3,
+      "end": 976.4,
+      "en": "The Sony Walkman, right, or the Sony Discman.",
+      "zh": "索尼随身听，对，或索尼唱片人。"
+    },
+    {
+      "id": 233,
+      "start": 976.62,
+      "end": 977.52,
+      "en": "That's right, had both.",
+      "zh": "没错，两者都有。"
+    },
+    {
+      "id": 234,
+      "start": 978.64,
+      "end": 980.8,
+      "en": "It was like I had a Walkman, it was bright yellow.",
+      "zh": "就像我有一个随身听，它是亮黄色的。"
+    },
+    {
+      "id": 235,
+      "start": 982.18,
+      "end": 983.26,
+      "en": "So this is really interesting.",
+      "zh": "所以这真的很有趣。"
+    },
+    {
+      "id": 236,
+      "start": 983.52,
+      "end": 996.4,
+      "en": "This is the way that you see more or less, you can start to realize what brands are in your mind and maybe unconsciously, you may not even be a smoker, but maybe some sort of cigarette brand will be in your mind.",
+      "zh": "这是你或多或少看到的方式，你可以开始意识到你的想法是什么品牌，也许你甚至可能不是吸烟者，但也许你会想到某种香烟品牌。"
+    },
+    {
+      "id": 237,
+      "start": 996.4,
+      "end": 1001.32,
+      "en": "Or maybe you don't even really like sports cars, but you will have a sports car brand in your mind.",
+      "zh": "或者你甚至不喜欢跑车，但你的脑海中会有一个跑车品牌。"
+    },
+    {
+      "id": 238,
+      "start": 1001.62,
+      "end": 1013.26,
+      "en": "I'm very curious to hear what you guys have to say, because obviously, the brands that we're aware of are dependent on where we come from and the marketing campaigns in our home countries and also our age.",
+      "zh": "我很想知道你们要说什么，因为显然，我们所知道的品牌取决于我们来自哪里以及我们本国的营销活动以及我们的年龄。"
+    },
+    {
+      "id": 239,
+      "start": 1013.86,
+      "end": 1018.72,
+      "en": "I was a teenager when I had the Sony Discman, so that made an impact on me.",
+      "zh": "当我拥有索尼唱片人时，我还是个青少年，所以这对我产生了影响。"
+    },
+    {
+      "id": 240,
+      "start": 1018.94,
+      "end": 1021.42,
+      "en": "But let's throw that out to you guys.",
+      "zh": "但是让我们把它扔给你们。"
+    },
+    {
+      "id": 241,
+      "start": 1021.83,
+      "end": 1028.67,
+      "en": "Let us know what you think of when we say luxury cars or MP3 players or computers.",
+      "zh": "当我们说豪华汽车或 MP3 播放器或计算机时，让我们知道您的想法。"
+    },
+    {
+      "id": 242,
+      "start": 1028.97,
+      "end": 1031.29,
+      "en": "Or maybe even basic things like detergents.",
+      "zh": "或者甚至可能是洗涤剂等基本的东西。"
+    },
+    {
+      "id": 243,
+      "start": 1031.88,
+      "end": 1034.69,
+      "en": "For example, if you ask somebody in the United States, they might say Tide.",
+      "zh": "例如，如果你在美国问某人，他们可能会说潮汐。"
+    },
+    {
+      "id": 244,
+      "start": 1035.58,
+      "end": 1038.89,
+      "en": "But if you ask somebody in South America, they might say, I don't know, Omo.",
+      "zh": "但如果你问南美人，他们可能会说，我不知道，Omo。"
+    },
+    {
+      "id": 245,
+      "start": 1040.64,
+      "end": 1041.37,
+      "en": "It's some type of brand.",
+      "zh": "这是某种类型的品牌。"
+    },
+    {
+      "id": 246,
+      "start": 1041.64,
+      "end": 1044.57,
+      "en": "So, this is also very interesting to see what your local brands have been doing.",
+      "zh": "因此，看看您的本地品牌一直在做什么，这也很有趣。"
+    },
+    {
+      "id": 247,
+      "start": 1044.87,
+      "end": 1045.19,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 248,
+      "start": 1045.41,
+      "end": 1046.71,
+      "en": "So, let us know what you're thinking.",
+      "zh": "所以，让我们知道你在想什么。"
+    },
+    {
+      "id": 249,
+      "start": 1047.08,
+      "end": 1049.2,
+      "en": "We're on EnglishPod.com.",
+      "zh": "我们在 Englishpod.com 上。"
+    },
+    {
+      "id": 250,
+      "start": 1049.21,
+      "end": 1049.91,
+      "en": "We hope to see you there.",
+      "zh": "希望到时候见到你。"
+    },
+    {
+      "id": 251,
+      "start": 1050.11,
+      "end": 1050.35,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 252,
+      "start": 1051.2,
+      "end": 1059.474,
+      "en": "Take care.",
+      "zh": "保重。"
+    }
+  ],
+  "dialog": {
+    "start": 34.4,
+    "end": 148.68,
+    "segmentIds": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+    ]
+  }
+}

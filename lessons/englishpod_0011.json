@@ -1,0 +1,2444 @@
+{
+  "version": 1,
+  "id": 11,
+  "number": "0011",
+  "title": "Daily Life - New Guy in Town",
+  "audio": "mp3/11. Daily Life - New Guy in Town.mp3",
+  "duration": 966.66125,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.76,
+      "en": "Hello everyone and welcome back to EnglishPod.",
+      "zh": "大家好，欢迎回到 EnglishPod。"
+    },
+    {
+      "id": 2,
+      "start": 4.76,
+      "end": 5.33,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 5.55,
+      "end": 6.01,
+      "en": "And I'm Erica.",
+      "zh": "我叫 Erica。"
+    },
+    {
+      "id": 4,
+      "start": 6.53,
+      "end": 9.63,
+      "en": "And today with Erica we have an upper intermediate lesson.",
+      "zh": "今天和 Erica 一起，我们有一个高中的中级课程。"
+    },
+    {
+      "id": 5,
+      "start": 9.85,
+      "end": 12.61,
+      "en": "That's right, an upper intermediate lesson that's a little bit strange.",
+      "zh": "没错，上级中级课有点奇怪。"
+    },
+    {
+      "id": 6,
+      "start": 13.15,
+      "end": 18.51,
+      "en": "It's a little bit strange but it's a real English lesson because that's what we give you here at EnglishPod.",
+      "zh": "这有点奇怪，但这是一个真正的英语课，因为这是我们在 Englishpod 给你的。"
+    },
+    {
+      "id": 7,
+      "start": 18.77,
+      "end": 22.33,
+      "en": "So in today's lesson we've got a lot of really great language for you.",
+      "zh": "所以在今天的课程中，我们为您准备了很多非常棒的语言。"
+    },
+    {
+      "id": 8,
+      "start": 22.35,
+      "end": 25.97,
+      "en": "We've got language to help you to gossip better.",
+      "zh": "我们有语言可以帮助您更好地八卦。"
+    },
+    {
+      "id": 9,
+      "start": 26.41,
+      "end": 29.21,
+      "en": "Gossip, why don't you explain it a little bit just in case.",
+      "zh": "八卦，你为什么不稍微解释一下以防万一。"
+    },
+    {
+      "id": 10,
+      "start": 29.53,
+      "end": 37.27,
+      "en": "Okay so if I gossip, I maybe share news or information about other people with my friends.",
+      "zh": "好吧，如果我八卦，我可能会与朋友分享有关其他人的新闻或信息。"
+    },
+    {
+      "id": 11,
+      "start": 37.6,
+      "end": 42.68,
+      "en": "Like I might say something like, Marco, did you see what happened in ChinesePod today?",
+      "zh": "就像我可能会说的那样，马可，你看到今天 ChinesePod 发生了什么吗？"
+    },
+    {
+      "id": 12,
+      "start": 42.68,
+      "end": 44.15,
+      "en": "You'll never guess what I saw.",
+      "zh": "你永远猜不到我看到了什么。"
+    },
+    {
+      "id": 13,
+      "start": 44.61,
+      "end": 45.95,
+      "en": "Exactly, that's gossip.",
+      "zh": "没错，这就是流言蜚语。"
+    },
+    {
+      "id": 14,
+      "start": 46.43,
+      "end": 49.93,
+      "en": "And we also have language today to describe things.",
+      "zh": "我们今天也有语言来描述事物。"
+    },
+    {
+      "id": 15,
+      "start": 50.33,
+      "end": 51.91,
+      "en": "To describe strange things.",
+      "zh": "描述奇怪的事情。"
+    },
+    {
+      "id": 16,
+      "start": 52.33,
+      "end": 52.99,
+      "en": "Strange things.",
+      "zh": "奇怪的事情。"
+    },
+    {
+      "id": 17,
+      "start": 53.76,
+      "end": 58.6,
+      "en": "Alright so let's take a look at our vocabulary preview.",
+      "zh": "好吧，让我们来看看我们的词汇预览。"
+    },
+    {
+      "id": 18,
+      "start": 58.6,
+      "end": 59.0,
+      "en": "Vocabulary preview.",
+      "zh": "词汇预习。"
+    },
+    {
+      "id": 19,
+      "start": 60.16,
+      "end": 67.25,
+      "en": "So in our vocabulary preview we'll look at a few important words that will help you to understand the dialogue a little bit better.",
+      "zh": "因此，在我们的词汇预览中，我们将查看一些重要的词，这些词将帮助您更好地理解对话。"
+    },
+    {
+      "id": 20,
+      "start": 68.6,
+      "end": 70.99,
+      "en": "Exactly and the first word is weird.",
+      "zh": "确切地说，第一个词很奇怪。"
+    },
+    {
+      "id": 21,
+      "start": 71.65,
+      "end": 72.01,
+      "en": "Weird.",
+      "zh": "真奇怪。"
+    },
+    {
+      "id": 22,
+      "start": 72.75,
+      "end": 72.95,
+      "en": "Weird.",
+      "zh": "真奇怪。"
+    },
+    {
+      "id": 23,
+      "start": 73.44,
+      "end": 74.44,
+      "en": "Weird.",
+      "zh": "真奇怪。"
+    },
+    {
+      "id": 24,
+      "start": 74.44,
+      "end": 79.45,
+      "en": "Now this is a common word you probably hear all the time and in a lot of different situations.",
+      "zh": "现在这是一个常见的词，你可能会一直听到，在很多不同的情况下。"
+    },
+    {
+      "id": 25,
+      "start": 80.31,
+      "end": 81.89,
+      "en": "So we wanted to explain it today.",
+      "zh": "所以我们今天想解释一下。"
+    },
+    {
+      "id": 26,
+      "start": 82.27,
+      "end": 84.17,
+      "en": "Yeah, this word just means strange.",
+      "zh": "是的，这个词只是奇怪的意思。"
+    },
+    {
+      "id": 27,
+      "start": 84.7,
+      "end": 85.22,
+      "en": "It's strange.",
+      "zh": "这很奇怪。"
+    },
+    {
+      "id": 28,
+      "start": 85.96,
+      "end": 86.96,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 29,
+      "start": 86.96,
+      "end": 87.96,
+      "en": "Weird person is a strange person.",
+      "zh": "奇怪的人是一个奇怪的人。"
+    },
+    {
+      "id": 30,
+      "start": 87.96,
+      "end": 88.96,
+      "en": "Yeah, exactly.",
+      "zh": "对，没错。"
+    },
+    {
+      "id": 31,
+      "start": 88.96,
+      "end": 97.44,
+      "en": "But the thing about this word is if you are a young person, let's say under the age of 35, you'll probably use it about a hundred times a day.",
+      "zh": "但关于这个词的问题是，如果你是一个年轻人，假设你在 35 岁以下，你可能每天会使用它大约一百次。"
+    },
+    {
+      "id": 32,
+      "start": 97.44,
+      "end": 97.76,
+      "en": "Weird.",
+      "zh": "真奇怪。"
+    },
+    {
+      "id": 33,
+      "start": 98.44,
+      "end": 99.44,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 34,
+      "start": 99.44,
+      "end": 100.98,
+      "en": "It's just such a good sounding word, weird.",
+      "zh": "这只是一个好听的词，很奇怪。"
+    },
+    {
+      "id": 35,
+      "start": 101.64,
+      "end": 102.0,
+      "en": "It is.",
+      "zh": "确实很好听。"
+    },
+    {
+      "id": 36,
+      "start": 102.64,
+      "end": 111.0,
+      "en": "Okay but the thing is that even though it is probably more commonly used in American English, it's still widely used for British English as well.",
+      "zh": "好吧，但问题是，尽管它可能更常用于美式英语，但它仍然广泛用于英式英语。"
+    },
+    {
+      "id": 37,
+      "start": 111.34,
+      "end": 111.96,
+      "en": "Yeah, that's true.",
+      "zh": "对，确实如此。"
+    },
+    {
+      "id": 38,
+      "start": 112.52,
+      "end": 116.02,
+      "en": "So but maybe in British English you would say something like...",
+      "zh": "所以，但也许用英式英语说，你会说类似的话..."
+    },
+    {
+      "id": 39,
+      "start": 116.16,
+      "end": 117.16,
+      "en": "Odd.",
+      "zh": "奇怪的。"
+    },
+    {
+      "id": 40,
+      "start": 117.16,
+      "end": 118.16,
+      "en": "Odd.",
+      "zh": "奇怪的。"
+    },
+    {
+      "id": 41,
+      "start": 118.16,
+      "end": 119.16,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 42,
+      "start": 119.16,
+      "end": 120.16,
+      "en": "That's more common.",
+      "zh": "这更常见。"
+    },
+    {
+      "id": 43,
+      "start": 120.16,
+      "end": 122.16,
+      "en": "Okay, let's look at our second word.",
+      "zh": "好吧，让我们看看我们的第二个词。"
+    },
+    {
+      "id": 44,
+      "start": 122.16,
+      "end": 122.4,
+      "en": "Housewarming gift.",
+      "zh": "乔迁礼物。"
+    },
+    {
+      "id": 45,
+      "start": 123.44,
+      "end": 123.7,
+      "en": "Housewarming gift.",
+      "zh": "乔迁礼物。"
+    },
+    {
+      "id": 46,
+      "start": 125.16,
+      "end": 125.44,
+      "en": "Housewarming gift.",
+      "zh": "乔迁礼物。"
+    },
+    {
+      "id": 47,
+      "start": 126.4,
+      "end": 126.66,
+      "en": "Housewarming gift.",
+      "zh": "乔迁礼物。"
+    },
+    {
+      "id": 48,
+      "start": 127.4,
+      "end": 128.32,
+      "en": "Now this is a cultural thing.",
+      "zh": "现在这是一个文化问题。"
+    },
+    {
+      "id": 49,
+      "start": 128.52,
+      "end": 132.58,
+      "en": "It's really common in North America to give a housewarming gift to someone.",
+      "zh": "在北美，给某人送乔迁礼物真的很常见。"
+    },
+    {
+      "id": 50,
+      "start": 132.84,
+      "end": 140.32,
+      "en": "Yeah, if I move into a new house, maybe some of my friends or family will bring a gift over to make my house a little bit more beautiful.",
+      "zh": "是的，如果我搬进新房子，也许我的一些朋友或家人会带来一份礼物，让我的房子更漂亮一点。"
+    },
+    {
+      "id": 51,
+      "start": 140.86,
+      "end": 143.46,
+      "en": "So something like a photo frame or...",
+      "zh": "所以像相框或..."
+    },
+    {
+      "id": 52,
+      "start": 143.46,
+      "end": 148.4,
+      "en": "Or maybe a plant or sometimes even like maybe a basket of pastries or something.",
+      "zh": "或者也许是一种植物，有时甚至像一篮糕点之类的东西。"
+    },
+    {
+      "id": 53,
+      "start": 148.58,
+      "end": 148.9,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 54,
+      "start": 149.24,
+      "end": 149.38,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 55,
+      "start": 149.88,
+      "end": 151.84,
+      "en": "I've never gotten one of those because I don't have a home.",
+      "zh": "我从来没有得到其中一个，因为我没有家。"
+    },
+    {
+      "id": 56,
+      "start": 151.84,
+      "end": 152.84,
+      "en": "Oh.",
+      "zh": "哦。"
+    },
+    {
+      "id": 57,
+      "start": 152.84,
+      "end": 153.13,
+      "en": "Where do you live?",
+      "zh": "你住在哪里？"
+    },
+    {
+      "id": 58,
+      "start": 153.84,
+      "end": 154.84,
+      "en": "On the street?",
+      "zh": "在街上？"
+    },
+    {
+      "id": 59,
+      "start": 154.84,
+      "end": 157.25,
+      "en": "Well, I don't have my own home so I have never gotten one of those.",
+      "zh": "好吧，我没有自己的家，所以我从来没有得到过其中之一。"
+    },
+    {
+      "id": 60,
+      "start": 158.11,
+      "end": 158.43,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 61,
+      "start": 159.0,
+      "end": 161.11,
+      "en": "Okay, so we're ready now to listen to our dialogue.",
+      "zh": "好的，我们现在准备好听我们的对话了。"
+    },
+    {
+      "id": 62,
+      "start": 161.68,
+      "end": 167.59,
+      "en": "So we've got two housewives who are gossiping about what's going on in the neighborhood and let's listen to what happens.",
+      "zh": "所以我们有两个家庭主妇在附近发生了什么事，让我们听听发生了什么。"
+    },
+    {
+      "id": 63,
+      "start": 169.56,
+      "end": 179.4,
+      "en": "Oh, I don't know if you've heard, but someone moved into that old house down the road.",
+      "zh": "哦，我不知道你是否听说过，但有人搬进了路边的那所老房子。"
+    },
+    {
+      "id": 64,
+      "start": 179.4,
+      "end": 180.39,
+      "en": "Yeah, I know.",
+      "zh": "对，我知道。"
+    },
+    {
+      "id": 65,
+      "start": 180.69,
+      "end": 182.97,
+      "en": "I met the owner of the house yesterday as he was moving in.",
+      "zh": "昨天他搬进来的时候我遇到了房子的主人。"
+    },
+    {
+      "id": 66,
+      "start": 183.56,
+      "end": 184.56,
+      "en": "His name is Armand.",
+      "zh": "他叫阿尔芒。"
+    },
+    {
+      "id": 67,
+      "start": 185.07,
+      "end": 185.39,
+      "en": "Really?",
+      "zh": "真的吗？"
+    },
+    {
+      "id": 68,
+      "start": 186.05,
+      "end": 186.56,
+      "en": "What's he like?",
+      "zh": "他是个什么样的人？"
+    },
+    {
+      "id": 69,
+      "start": 186.56,
+      "end": 188.48,
+      "en": "You have to fill me in.",
+      "zh": "你得把情况告诉我。"
+    },
+    {
+      "id": 70,
+      "start": 188.48,
+      "end": 190.21,
+      "en": "Actually, he's a bit strange.",
+      "zh": "其实他有点古怪。"
+    },
+    {
+      "id": 71,
+      "start": 190.61,
+      "end": 191.03,
+      "en": "I don't know.",
+      "zh": "我不知道。"
+    },
+    {
+      "id": 72,
+      "start": 191.49,
+      "end": 193.45,
+      "en": "I've just got a bad feeling about him.",
+      "zh": "我总觉得他这个人不太对劲。"
+    },
+    {
+      "id": 73,
+      "start": 193.83,
+      "end": 194.05,
+      "en": "Really?",
+      "zh": "真的吗？"
+    },
+    {
+      "id": 74,
+      "start": 195.04,
+      "end": 196.04,
+      "en": "Why?",
+      "zh": "为什么？"
+    },
+    {
+      "id": 75,
+      "start": 196.21,
+      "end": 202.61,
+      "en": "Yesterday I brought over a housewarming gift, but Armand started acting really weird and then he practically kicked me out.",
+      "zh": "昨天我带了份乔迁礼物过去，阿尔芒却举止怪异，几乎把我赶了出来。"
+    },
+    {
+      "id": 76,
+      "start": 203.33,
+      "end": 208.43,
+      "en": "I tried to sort of peek into his house, but everything was so dark inside that I couldn't really get a good look.",
+      "zh": "我想往他屋里瞄一眼，可里面太暗了，根本看不清。"
+    },
+    {
+      "id": 77,
+      "start": 208.92,
+      "end": 210.27,
+      "en": "The whole thing really creeped me out.",
+      "zh": "整件事让我心里发毛。"
+    },
+    {
+      "id": 78,
+      "start": 210.61,
+      "end": 212.49,
+      "en": "Well, you'll never guess what I saw this morning.",
+      "zh": "你绝对猜不到我今天早上看到了什么。"
+    },
+    {
+      "id": 79,
+      "start": 212.87,
+      "end": 217.53,
+      "en": "A delivery truck pulled into his driveway and it dropped off a long rectangular box.",
+      "zh": "一辆送货车开进他家的车道，卸下了一个长方形的箱子。"
+    },
+    {
+      "id": 80,
+      "start": 218.15,
+      "end": 219.53,
+      "en": "It almost looked like a coffin.",
+      "zh": "看着简直像口棺材。"
+    },
+    {
+      "id": 81,
+      "start": 220.27,
+      "end": 220.93,
+      "en": "You see?",
+      "zh": "明白了吗？"
+    },
+    {
+      "id": 82,
+      "start": 221.59,
+      "end": 222.64,
+      "en": "Why would he?",
+      "zh": "他为什么会……"
+    },
+    {
+      "id": 83,
+      "start": 222.64,
+      "end": 223.64,
+      "en": "Hello, ladies.",
+      "zh": "女士们，你们好。"
+    },
+    {
+      "id": 84,
+      "start": 223.67,
+      "end": 224.11,
+      "en": "Armand!",
+      "zh": "阿尔芒！"
+    },
+    {
+      "id": 85,
+      "start": 224.64,
+      "end": 226.92,
+      "en": "Oh, you scared the heck out of me.",
+      "zh": "哎呀，你吓死我了。"
+    },
+    {
+      "id": 86,
+      "start": 226.92,
+      "end": 227.92,
+      "en": "This is my friend Doris.",
+      "zh": "这是我的朋友多丽丝。"
+    },
+    {
+      "id": 87,
+      "start": 228.63,
+      "end": 229.51,
+      "en": "Pleasure to meet you.",
+      "zh": "很高兴认识你。"
+    },
+    {
+      "id": 88,
+      "start": 230.07,
+      "end": 233.49,
+      "en": "If you're not doing anything tonight, I'd like to have you both for dinner.",
+      "zh": "如果你们今晚有空，我想把你们俩当晚餐。"
+    },
+    {
+      "id": 89,
+      "start": 233.99,
+      "end": 238.54,
+      "en": "I mean, I'd like to have you both over for dinner.",
+      "zh": "我是说，想请你们俩来我家吃晚饭。"
+    },
+    {
+      "id": 90,
+      "start": 248.14,
+      "end": 250.04,
+      "en": "Ooh, that guy seems kind of weird.",
+      "zh": "哦，那家伙看起来有点奇怪。"
+    },
+    {
+      "id": 91,
+      "start": 251.52,
+      "end": 254.04,
+      "en": "You can hear his voice is like a weird guy, right?",
+      "zh": "你可以听到他的声音就像一个奇怪的人，对吧？"
+    },
+    {
+      "id": 92,
+      "start": 254.52,
+      "end": 255.52,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 93,
+      "start": 255.52,
+      "end": 262.96,
+      "en": "All right, let's take a look at our language takeaway and look at some of these great words.",
+      "zh": "好吧，让我们看看我们的语言外卖，看看其中一些很棒的词。"
+    },
+    {
+      "id": 94,
+      "start": 262.96,
+      "end": 263.96,
+      "en": "Language takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 95,
+      "start": 264.75,
+      "end": 272.27,
+      "en": "So, our language takeaway focuses on several words from the dialogue that we feel are really important for you to know.",
+      "zh": "因此，我们的语言要点集中在我们认为对您非常重要的对话中的几个单词。"
+    },
+    {
+      "id": 96,
+      "start": 272.53,
+      "end": 274.77,
+      "en": "Exactly, and we have four of them for you today.",
+      "zh": "没错，我们今天为您准备了四个。"
+    },
+    {
+      "id": 97,
+      "start": 275.03,
+      "end": 276.23,
+      "en": "Why don't we look at the first one?",
+      "zh": "我们为什么不看第一个？"
+    },
+    {
+      "id": 98,
+      "start": 276.51,
+      "end": 279.29,
+      "en": "Okay, so the first word is a bad feeling.",
+      "zh": "好吧，所以第一个词是一种不好的感觉。"
+    },
+    {
+      "id": 99,
+      "start": 280.48,
+      "end": 280.75,
+      "en": "Bad feeling.",
+      "zh": "不好的感觉。"
+    },
+    {
+      "id": 100,
+      "start": 281.48,
+      "end": 281.91,
+      "en": "A bad feeling.",
+      "zh": "一种不好的感觉。"
+    },
+    {
+      "id": 101,
+      "start": 282.48,
+      "end": 283.48,
+      "en": "A bad feeling.",
+      "zh": "一种不好的感觉。"
+    },
+    {
+      "id": 102,
+      "start": 283.48,
+      "end": 288.75,
+      "en": "So, we've got a few examples that will help you to understand how this phrase works.",
+      "zh": "因此，我们有一些示例可以帮助您理解这句话的工作原理。"
+    },
+    {
+      "id": 103,
+      "start": 291.08,
+      "end": 294.72,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 104,
+      "start": 294.72,
+      "end": 296.11,
+      "en": "I don't like Kelly's new boyfriend.",
+      "zh": "我不喜欢凯利的新男友。"
+    },
+    {
+      "id": 105,
+      "start": 296.72,
+      "end": 298.17,
+      "en": "I've got a bad feeling about him.",
+      "zh": "我对他有一种不好的感觉。"
+    },
+    {
+      "id": 106,
+      "start": 302.44,
+      "end": 305.96,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 107,
+      "start": 305.96,
+      "end": 307.4,
+      "en": "It's so dark.",
+      "zh": "太黑了。"
+    },
+    {
+      "id": 108,
+      "start": 307.4,
+      "end": 308.18,
+      "en": "We shouldn't be out here.",
+      "zh": "我们不应该在这里。"
+    },
+    {
+      "id": 109,
+      "start": 308.84,
+      "end": 314.84,
+      "en": "I've got a bad feeling about this.",
+      "zh": "我对此有一种不好的感觉。"
+    },
+    {
+      "id": 110,
+      "start": 314.84,
+      "end": 319.52,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 111,
+      "start": 319.52,
+      "end": 321.2,
+      "en": "I've got a bad feeling about this trip.",
+      "zh": "我对这次旅行有一种不好的感觉。"
+    },
+    {
+      "id": 112,
+      "start": 321.39,
+      "end": 322.69,
+      "en": "I feel like something's going to happen.",
+      "zh": "我觉得有些事情会发生。"
+    },
+    {
+      "id": 113,
+      "start": 323.46,
+      "end": 324.33,
+      "en": "Maybe we shouldn't go.",
+      "zh": "也许我们不应该去。"
+    },
+    {
+      "id": 114,
+      "start": 328.97,
+      "end": 332.65,
+      "en": "Okay, so basically you think something bad is going to happen.",
+      "zh": "好的，所以基本上你认为会发生一些不好的事情。"
+    },
+    {
+      "id": 115,
+      "start": 332.81,
+      "end": 335.59,
+      "en": "Yeah, you have a sort of uncomfortable feeling.",
+      "zh": "是的，你有一种不舒服的感觉。"
+    },
+    {
+      "id": 116,
+      "start": 335.91,
+      "end": 337.07,
+      "en": "Okay, that makes sense.",
+      "zh": "好吧，这是有道理的。"
+    },
+    {
+      "id": 117,
+      "start": 337.28,
+      "end": 339.32,
+      "en": "You have a bad feeling about something.",
+      "zh": "你对某事有不好的感觉。"
+    },
+    {
+      "id": 118,
+      "start": 339.32,
+      "end": 340.32,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 119,
+      "start": 340.32,
+      "end": 341.93,
+      "en": "Okay, let's look at our second word now.",
+      "zh": "好吧，让我们现在看看我们的第二个字。"
+    },
+    {
+      "id": 120,
+      "start": 342.44,
+      "end": 342.83,
+      "en": "Kicked me out.",
+      "zh": "把我赶出去了。"
+    },
+    {
+      "id": 121,
+      "start": 343.44,
+      "end": 343.93,
+      "en": "Kicked me out.",
+      "zh": "把我赶出去了。"
+    },
+    {
+      "id": 122,
+      "start": 344.44,
+      "end": 345.07,
+      "en": "Kicked me out.",
+      "zh": "把我赶出去了。"
+    },
+    {
+      "id": 123,
+      "start": 345.37,
+      "end": 346.91,
+      "en": "Kicked me out.",
+      "zh": "把我赶出去了。"
+    },
+    {
+      "id": 124,
+      "start": 347.55,
+      "end": 350.71,
+      "en": "So when someone kicks you out, it's they force you to leave.",
+      "zh": "所以当有人把你踢出去时，他们会强迫你离开。"
+    },
+    {
+      "id": 125,
+      "start": 351.04,
+      "end": 353.04,
+      "en": "You don't want to leave, but they force you to.",
+      "zh": "你不想离开，但他们强迫你离开。"
+    },
+    {
+      "id": 126,
+      "start": 353.04,
+      "end": 354.04,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 127,
+      "start": 354.04,
+      "end": 355.65,
+      "en": "Marco, have you ever kicked someone out of your class?",
+      "zh": "马可，你有没有把某人踢出你的课堂？"
+    },
+    {
+      "id": 128,
+      "start": 356.56,
+      "end": 357.54,
+      "en": "Yes, I have.",
+      "zh": "是的，我有。"
+    },
+    {
+      "id": 129,
+      "start": 357.96,
+      "end": 358.96,
+      "en": "Really?",
+      "zh": "真的吗？"
+    },
+    {
+      "id": 130,
+      "start": 358.96,
+      "end": 361.32,
+      "en": "Yeah, if you misbehave in my class, you're kicked out.",
+      "zh": "是的，如果你在我的课堂上行为不端，你就会被踢出去。"
+    },
+    {
+      "id": 131,
+      "start": 361.32,
+      "end": 363.64,
+      "en": "So you're pretty strict, huh?",
+      "zh": "所以你很严格吧？"
+    },
+    {
+      "id": 132,
+      "start": 363.64,
+      "end": 363.88,
+      "en": "Sometimes I am.",
+      "zh": "有时我是。"
+    },
+    {
+      "id": 133,
+      "start": 365.0,
+      "end": 365.3,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 134,
+      "start": 366.0,
+      "end": 368.48,
+      "en": "So maybe you've kicked your husband out of bed.",
+      "zh": "所以也许你把你丈夫踢下床了。"
+    },
+    {
+      "id": 135,
+      "start": 368.48,
+      "end": 370.96,
+      "en": "I might have done that once or twice or more.",
+      "zh": "我可能已经这样做了一次或两次或更多。"
+    },
+    {
+      "id": 136,
+      "start": 371.24,
+      "end": 372.08,
+      "en": "We'll have to ask him.",
+      "zh": "我们得问问他。"
+    },
+    {
+      "id": 137,
+      "start": 372.18,
+      "end": 372.76,
+      "en": "I'm sure he has.",
+      "zh": "我确定他有。"
+    },
+    {
+      "id": 138,
+      "start": 373.24,
+      "end": 374.44,
+      "en": "All right, so that's what it means.",
+      "zh": "好吧，这就是它的意思。"
+    },
+    {
+      "id": 139,
+      "start": 374.68,
+      "end": 378.42,
+      "en": "You force someone to leave the house, leave the class, leave the bed.",
+      "zh": "你强迫某人离开家，离开教室，离开床。"
+    },
+    {
+      "id": 140,
+      "start": 378.72,
+      "end": 381.48,
+      "en": "So kicked out of class, kicked out of the house, kicked out of bed.",
+      "zh": "于是被踢出课堂，被踢出屋子，被踢下床。"
+    },
+    {
+      "id": 141,
+      "start": 381.84,
+      "end": 382.14,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 142,
+      "start": 383.36,
+      "end": 384.36,
+      "en": "Great.",
+      "zh": "太好了。"
+    },
+    {
+      "id": 143,
+      "start": 384.36,
+      "end": 385.38,
+      "en": "Let's look at our third word now.",
+      "zh": "现在让我们看看我们的第三个词。"
+    },
+    {
+      "id": 144,
+      "start": 386.52,
+      "end": 387.11,
+      "en": "Creeped me out.",
+      "zh": "把我吓得不轻。"
+    },
+    {
+      "id": 145,
+      "start": 387.96,
+      "end": 388.57,
+      "en": "Creeped me out.",
+      "zh": "把我吓得不轻。"
+    },
+    {
+      "id": 146,
+      "start": 389.6,
+      "end": 390.35,
+      "en": "Creeped me out.",
+      "zh": "把我吓得不轻。"
+    },
+    {
+      "id": 147,
+      "start": 390.88,
+      "end": 391.57,
+      "en": "Creeped me out.",
+      "zh": "把我吓得不轻。"
+    },
+    {
+      "id": 148,
+      "start": 392.32,
+      "end": 393.77,
+      "en": "Now this is a really common phrase.",
+      "zh": "现在这是一个非常常见的短语。"
+    },
+    {
+      "id": 149,
+      "start": 394.36,
+      "end": 400.45,
+      "en": "I like this phrase a lot, and we've got some examples for you to listen to to help you understand this word a little bit better.",
+      "zh": "我非常喜欢这句话，我们有一些例子供您听，以帮助您更好地理解这个词。"
+    },
+    {
+      "id": 150,
+      "start": 402.64,
+      "end": 402.98,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 151,
+      "start": 403.64,
+      "end": 404.64,
+      "en": "Shh.",
+      "zh": "嘘。"
+    },
+    {
+      "id": 152,
+      "start": 404.64,
+      "end": 405.64,
+      "en": "Did you hear that?",
+      "zh": "你听见了吗？"
+    },
+    {
+      "id": 153,
+      "start": 405.64,
+      "end": 413.76,
+      "en": "Oh, I think I saw something.",
+      "zh": "哦，我想我看到了一些东西。"
+    },
+    {
+      "id": 154,
+      "start": 413.76,
+      "end": 413.9,
+      "en": "Stop it.",
+      "zh": "住手。"
+    },
+    {
+      "id": 155,
+      "start": 414.76,
+      "end": 415.18,
+      "en": "You're really creeping me out.",
+      "zh": "你真的让我毛骨悚然。"
+    },
+    {
+      "id": 156,
+      "start": 420.84,
+      "end": 421.05,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 157,
+      "start": 424.52,
+      "end": 425.93,
+      "en": "This place really creeps me out.",
+      "zh": "这个地方真的让我毛骨悚然。"
+    },
+    {
+      "id": 158,
+      "start": 426.96,
+      "end": 427.53,
+      "en": "Let's get out of here.",
+      "zh": "让我们离开这里。"
+    },
+    {
+      "id": 159,
+      "start": 430.38,
+      "end": 432.4,
+      "en": "All right, well, I have a confession to make.",
+      "zh": "好吧，好吧，我要坦白。"
+    },
+    {
+      "id": 160,
+      "start": 432.8,
+      "end": 435.12,
+      "en": "I'm kind of creeped out by clowns.",
+      "zh": "我有点被小丑吓坏了。"
+    },
+    {
+      "id": 161,
+      "start": 435.52,
+      "end": 435.86,
+      "en": "You are?",
+      "zh": "你是？"
+    },
+    {
+      "id": 162,
+      "start": 436.52,
+      "end": 437.52,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 163,
+      "start": 437.52,
+      "end": 438.52,
+      "en": "I don't know.",
+      "zh": "我不知道。"
+    },
+    {
+      "id": 164,
+      "start": 438.52,
+      "end": 439.52,
+      "en": "They're just creepy.",
+      "zh": "他们只是令人毛骨悚然。"
+    },
+    {
+      "id": 165,
+      "start": 439.52,
+      "end": 440.52,
+      "en": "They scare me.",
+      "zh": "他们吓到我了。"
+    },
+    {
+      "id": 166,
+      "start": 440.52,
+      "end": 441.52,
+      "en": "Really?",
+      "zh": "真的吗？"
+    },
+    {
+      "id": 167,
+      "start": 441.52,
+      "end": 442.52,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 168,
+      "start": 442.52,
+      "end": 443.52,
+      "en": "What is it about clowns that scare you so much?",
+      "zh": "小丑是什么让你如此害怕？"
+    },
+    {
+      "id": 169,
+      "start": 443.52,
+      "end": 444.52,
+      "en": "I don't know.",
+      "zh": "我不知道。"
+    },
+    {
+      "id": 170,
+      "start": 444.52,
+      "end": 446.72,
+      "en": "They're just white faces and weird paint.",
+      "zh": "他们只是白脸和奇怪的油漆。"
+    },
+    {
+      "id": 171,
+      "start": 447.0,
+      "end": 447.34,
+      "en": "I don't know.",
+      "zh": "我不知道。"
+    },
+    {
+      "id": 172,
+      "start": 447.38,
+      "end": 447.94,
+      "en": "It's just creepy.",
+      "zh": "这只是令人毛骨悚然。"
+    },
+    {
+      "id": 173,
+      "start": 448.96,
+      "end": 449.96,
+      "en": "And the way they laugh.",
+      "zh": "以及他们笑的方式。"
+    },
+    {
+      "id": 174,
+      "start": 449.96,
+      "end": 450.96,
+      "en": "I don't know.",
+      "zh": "我不知道。"
+    },
+    {
+      "id": 175,
+      "start": 450.96,
+      "end": 452.3,
+      "en": "Maybe you had a bad experience with clowns as a child.",
+      "zh": "也许你小时候对小丑的经历很糟糕。"
+    },
+    {
+      "id": 176,
+      "start": 452.68,
+      "end": 453.68,
+      "en": "Probably.",
+      "zh": "大概吧。"
+    },
+    {
+      "id": 177,
+      "start": 453.68,
+      "end": 455.22,
+      "en": "I watched a scary movie about clowns or something.",
+      "zh": "我看了一部关于小丑之类的恐怖电影。"
+    },
+    {
+      "id": 178,
+      "start": 455.64,
+      "end": 456.64,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 179,
+      "start": 456.64,
+      "end": 457.64,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 180,
+      "start": 457.64,
+      "end": 460.28,
+      "en": "So, creeped me out basically means made me feel uncomfortable.",
+      "zh": "所以，让我毛骨悚然，基本上意味着让我感到不舒服。"
+    },
+    {
+      "id": 181,
+      "start": 460.4,
+      "end": 460.58,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 182,
+      "start": 460.84,
+      "end": 461.96,
+      "en": "It scares you.",
+      "zh": "它吓到你了。"
+    },
+    {
+      "id": 183,
+      "start": 462.32,
+      "end": 462.44,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 184,
+      "start": 463.0,
+      "end": 471.72,
+      "en": "Well, speaking of being scared, we have our final word for language takeaway, and it is scared the heck out of me.",
+      "zh": "好吧，说到害怕，我们对语言的外卖有了最后的决定权，这让我很害怕。"
+    },
+    {
+      "id": 185,
+      "start": 471.92,
+      "end": 473.74,
+      "en": "You scared the heck out of me.",
+      "zh": "你吓坏了我。"
+    },
+    {
+      "id": 186,
+      "start": 473.9,
+      "end": 475.86,
+      "en": "Scared the heck out of me.",
+      "zh": "吓坏了我。"
+    },
+    {
+      "id": 187,
+      "start": 476.2,
+      "end": 477.16,
+      "en": "You got really scared.",
+      "zh": "你真的很害怕。"
+    },
+    {
+      "id": 188,
+      "start": 477.4,
+      "end": 481.12,
+      "en": "Yeah, I think this is a quite common way of saying, you really, really scared me.",
+      "zh": "是的，我认为这是一种很常见的说法，你真的非常害怕我。"
+    },
+    {
+      "id": 189,
+      "start": 481.3,
+      "end": 481.46,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 190,
+      "start": 481.68,
+      "end": 481.84,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 191,
+      "start": 481.96,
+      "end": 483.82,
+      "en": "We're ready to listen to our dialogue again.",
+      "zh": "我们准备再次聆听我们的对话。"
+    },
+    {
+      "id": 192,
+      "start": 484.12,
+      "end": 488.48,
+      "en": "Now, try and see if you can catch all these phrases that we just talked about.",
+      "zh": "现在，试着看看你是否能捕捉到我们刚刚谈到的所有这些短语。"
+    },
+    {
+      "id": 193,
+      "start": 490.6,
+      "end": 499.56,
+      "en": "Oh, I don't know if you've heard, but someone moved into that old house down the road.",
+      "zh": "哦，我不知道你是否听说过，但有人搬进了路边的那所老房子。"
+    },
+    {
+      "id": 194,
+      "start": 499.56,
+      "end": 500.8,
+      "en": "Yeah, I know.",
+      "zh": "对，我知道。"
+    },
+    {
+      "id": 195,
+      "start": 501.36,
+      "end": 505.08,
+      "en": "I met the owner of the house yesterday as he was moving in.",
+      "zh": "昨天他搬进来的时候我遇到了房子的主人。"
+    },
+    {
+      "id": 196,
+      "start": 505.5,
+      "end": 507.46,
+      "en": "His name is Armand.",
+      "zh": "他叫阿尔芒。"
+    },
+    {
+      "id": 197,
+      "start": 508.06,
+      "end": 508.6,
+      "en": "Really?",
+      "zh": "真的吗？"
+    },
+    {
+      "id": 198,
+      "start": 509.7,
+      "end": 510.3,
+      "en": "What's he like?",
+      "zh": "他是个什么样的人？"
+    },
+    {
+      "id": 199,
+      "start": 510.98,
+      "end": 512.5,
+      "en": "You have to fill me in.",
+      "zh": "你得把情况告诉我。"
+    },
+    {
+      "id": 200,
+      "start": 513.18,
+      "end": 515.74,
+      "en": "Actually, he's a bit strange.",
+      "zh": "其实他有点古怪。"
+    },
+    {
+      "id": 201,
+      "start": 516.64,
+      "end": 517.32,
+      "en": "I don't know.",
+      "zh": "我不知道。"
+    },
+    {
+      "id": 202,
+      "start": 517.92,
+      "end": 520.22,
+      "en": "I've just got a bad feeling about him.",
+      "zh": "我总觉得他这个人不太对劲。"
+    },
+    {
+      "id": 203,
+      "start": 520.82,
+      "end": 521.14,
+      "en": "Really?",
+      "zh": "真的吗？"
+    },
+    {
+      "id": 204,
+      "start": 522.12,
+      "end": 523.12,
+      "en": "Why?",
+      "zh": "为什么？"
+    },
+    {
+      "id": 205,
+      "start": 523.25,
+      "end": 534.13,
+      "en": "Well, yesterday I brought over a housewarming gift, but Armand started acting really weird, and then he practically kicked me out.",
+      "zh": "好吧，昨天我带来了一份乔迁礼物，但阿蒙德开始表现得很奇怪，然后他几乎把我踢了出去。"
+    },
+    {
+      "id": 206,
+      "start": 534.75,
+      "end": 542.95,
+      "en": "I tried to sort of peek into his house, but everything was so dark inside that I couldn't really get a good look.",
+      "zh": "我想往他屋里瞄一眼，可里面太暗了，根本看不清。"
+    },
+    {
+      "id": 207,
+      "start": 543.56,
+      "end": 546.8,
+      "en": "The whole thing really creeped me out.",
+      "zh": "整件事让我心里发毛。"
+    },
+    {
+      "id": 208,
+      "start": 547.47,
+      "end": 550.69,
+      "en": "Well, you'll never guess what I saw this morning.",
+      "zh": "你绝对猜不到我今天早上看到了什么。"
+    },
+    {
+      "id": 209,
+      "start": 551.43,
+      "end": 558.77,
+      "en": "A delivery truck pulled into his driveway and it dropped off a long rectangular box.",
+      "zh": "一辆送货车开进他家的车道，卸下了一个长方形的箱子。"
+    },
+    {
+      "id": 210,
+      "start": 559.43,
+      "end": 561.73,
+      "en": "It almost looked like a coffin.",
+      "zh": "看着简直像口棺材。"
+    },
+    {
+      "id": 211,
+      "start": 562.69,
+      "end": 564.97,
+      "en": "You see, why would he—",
+      "zh": "你看，他为什么要——"
+    },
+    {
+      "id": 212,
+      "start": 565.13,
+      "end": 565.97,
+      "en": "Hello, ladies.",
+      "zh": "女士们，你们好。"
+    },
+    {
+      "id": 213,
+      "start": 566.71,
+      "end": 568.39,
+      "en": "Ah, Armand.",
+      "zh": "啊，阿曼德。"
+    },
+    {
+      "id": 214,
+      "start": 569.57,
+      "end": 571.37,
+      "en": "You scared the heck out of me.",
+      "zh": "你吓坏了我。"
+    },
+    {
+      "id": 215,
+      "start": 571.87,
+      "end": 574.01,
+      "en": "This is my friend, Doris.",
+      "zh": "这是我的朋友，多丽丝。"
+    },
+    {
+      "id": 216,
+      "start": 575.05,
+      "end": 576.29,
+      "en": "A pleasure to meet you.",
+      "zh": "很高兴认识你。"
+    },
+    {
+      "id": 217,
+      "start": 577.75,
+      "end": 583.11,
+      "en": "If you are not doing anything tonight, I would like to have you both for dinner.",
+      "zh": "如果你今晚什么都不做，我想请你们俩一起吃晚饭。"
+    },
+    {
+      "id": 218,
+      "start": 583.75,
+      "end": 588.21,
+      "en": "I mean, I would like to have you both over for dinner.",
+      "zh": "我的意思是，我想请你们俩过来吃饭。"
+    },
+    {
+      "id": 219,
+      "start": 594.21,
+      "end": 600.79,
+      "en": "You know, one of the things I really like about this dialogue is there's a lot of great phrases that will help you to gossip.",
+      "zh": "你知道，我真正喜欢这个对话的一件事是有很多很棒的短语可以帮助你八卦。"
+    },
+    {
+      "id": 220,
+      "start": 601.63,
+      "end": 603.01,
+      "en": "That's a good observation.",
+      "zh": "这是一个很好的观察。"
+    },
+    {
+      "id": 221,
+      "start": 603.01,
+      "end": 606.17,
+      "en": "So I think it's time for Fluency Builder.",
+      "zh": "所以我认为是时候进行 Fluency Builder 了。"
+    },
+    {
+      "id": 222,
+      "start": 607.57,
+      "end": 608.43,
+      "en": "Fluency Builder.",
+      "zh": "流利表达。"
+    },
+    {
+      "id": 223,
+      "start": 609.6,
+      "end": 618.07,
+      "en": "In Fluency Builder, we take a simple phrase or a simple word you already know and show you how to express the same idea a little bit more naturally.",
+      "zh": "在 Fluency Builder 中，我们采用一个简单的短语或一个您已经知道的简单单词，并向您展示如何更自然地表达相同的想法。"
+    },
+    {
+      "id": 224,
+      "start": 618.81,
+      "end": 619.31,
+      "en": "Okay, great.",
+      "zh": "好，太好了。"
+    },
+    {
+      "id": 225,
+      "start": 619.59,
+      "end": 622.27,
+      "en": "So let's take a look at our first item for Fluency Builder.",
+      "zh": "所以让我们来看看我们的 Flueny Builder 的第一个项目。"
+    },
+    {
+      "id": 226,
+      "start": 622.75,
+      "end": 628.83,
+      "en": "So when you gossip with somebody, you often tell them news or information that they don't know already.",
+      "zh": "因此，当您与某人八卦时，您经常会告诉他们他们还不知道的新闻或信息。"
+    },
+    {
+      "id": 227,
+      "start": 629.61,
+      "end": 632.41,
+      "en": "And you might start by saying, did you know that?",
+      "zh": "你可能会说，你知道吗？"
+    },
+    {
+      "id": 228,
+      "start": 633.19,
+      "end": 635.25,
+      "en": "Or you can say, did you hear?",
+      "zh": "或者你可以说，你听到了吗？"
+    },
+    {
+      "id": 229,
+      "start": 635.66,
+      "end": 646.7,
+      "en": "Yeah, both of those phrases are perfectly fine, but if you want to sound a little bit more native-like when you're gossiping, you might try out this phrase from the dialogue.",
+      "zh": "是的，这两个短语都很好，但是如果你想在闲聊时听起来更像本地人，你可以尝试对话中的这个短语。"
+    },
+    {
+      "id": 230,
+      "start": 646.7,
+      "end": 647.96,
+      "en": "I don't know if you've heard.",
+      "zh": "不知道你有没有听说过。"
+    },
+    {
+      "id": 231,
+      "start": 649.74,
+      "end": 651.08,
+      "en": "I don't know if you've heard.",
+      "zh": "不知道你有没有听说过。"
+    },
+    {
+      "id": 232,
+      "start": 652.15,
+      "end": 653.63,
+      "en": "Yeah, that's a really good phrase.",
+      "zh": "是的，这是一个非常好的短语。"
+    },
+    {
+      "id": 233,
+      "start": 654.01,
+      "end": 657.53,
+      "en": "You're saying exactly the same thing, but in a really natural way.",
+      "zh": "你说的是完全一样的话，但以一种非常自然的方式。"
+    },
+    {
+      "id": 234,
+      "start": 657.75,
+      "end": 659.15,
+      "en": "It's a great one for gossiping.",
+      "zh": "这是一个很棒的八卦。"
+    },
+    {
+      "id": 235,
+      "start": 659.33,
+      "end": 664.49,
+      "en": "So Marco, I don't know if you've heard, but ChinesePod is up to some pretty crazy things.",
+      "zh": "所以马可，我不知道你是否听说过，但 ChinesePod 做了一些非常疯狂的事情。"
+    },
+    {
+      "id": 236,
+      "start": 665.49,
+      "end": 668.05,
+      "en": "See, that's exactly how you would use that phrase.",
+      "zh": "看，这正是您使用该短语的方式。"
+    },
+    {
+      "id": 237,
+      "start": 668.59,
+      "end": 670.17,
+      "en": "So now let's take a look at our second item.",
+      "zh": "所以现在让我们来看看我们的第二个项目。"
+    },
+    {
+      "id": 238,
+      "start": 670.65,
+      "end": 672.57,
+      "en": "Now when you're gossiping, you want information.",
+      "zh": "现在，当你在闲聊时，你需要信息。"
+    },
+    {
+      "id": 239,
+      "start": 673.25,
+      "end": 673.57,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 240,
+      "start": 673.87,
+      "end": 676.45,
+      "en": "So you might say, oh, tell me about it.",
+      "zh": "所以你可能会说，哦，告诉我这件事。"
+    },
+    {
+      "id": 241,
+      "start": 676.87,
+      "end": 679.37,
+      "en": "Or something like, give me the details.",
+      "zh": "或者类似的东西，给我细节。"
+    },
+    {
+      "id": 242,
+      "start": 680.11,
+      "end": 686.59,
+      "en": "Yeah, and again, both of these examples are perfectly fine, but when you're gossiping, you might want to try something like this.",
+      "zh": "是的，再一次，这两个例子都很好，但是当你八卦时，你可能想尝试这样的事情。"
+    },
+    {
+      "id": 243,
+      "start": 688.42,
+      "end": 689.85,
+      "en": "You have to fill me in.",
+      "zh": "你得把情况告诉我。"
+    },
+    {
+      "id": 244,
+      "start": 692.26,
+      "end": 693.68,
+      "en": "You have to fill me in.",
+      "zh": "你得把情况告诉我。"
+    },
+    {
+      "id": 245,
+      "start": 695.86,
+      "end": 697.96,
+      "en": "Fill me in, yeah, that's what I would say.",
+      "zh": "填写我，是的，这就是我要说的。"
+    },
+    {
+      "id": 246,
+      "start": 698.26,
+      "end": 699.52,
+      "en": "Fill me in, you know, give me the details.",
+      "zh": "填写我，你知道，给我详细信息。"
+    },
+    {
+      "id": 247,
+      "start": 699.86,
+      "end": 700.12,
+      "en": "Fill me in.",
+      "zh": "跟我说说情况。"
+    },
+    {
+      "id": 248,
+      "start": 700.86,
+      "end": 701.68,
+      "en": "Fill me in on today's gossip.",
+      "zh": "让我了解今天的八卦。"
+    },
+    {
+      "id": 249,
+      "start": 702.08,
+      "end": 704.02,
+      "en": "Okay, so let's take a look at our third item.",
+      "zh": "好吧，让我们来看看我们的第三个项目。"
+    },
+    {
+      "id": 250,
+      "start": 704.34,
+      "end": 712.12,
+      "en": "Now if you have some juicy gossipy news and you want to start up a conversation, you might use this phrase here.",
+      "zh": "现在，如果您有一些多汁的八卦新闻并且您想开始对话，您可以在这里使用这句话。"
+    },
+    {
+      "id": 251,
+      "start": 713.93,
+      "end": 717.17,
+      "en": "Well, you'll never guess what I saw this morning.",
+      "zh": "你绝对猜不到我今天早上看到了什么。"
+    },
+    {
+      "id": 252,
+      "start": 719.73,
+      "end": 722.97,
+      "en": "Well, you'll never guess what I saw this morning.",
+      "zh": "你绝对猜不到我今天早上看到了什么。"
+    },
+    {
+      "id": 253,
+      "start": 725.3,
+      "end": 726.52,
+      "en": "That's a really good phrase.",
+      "zh": "这是一个非常好的短语。"
+    },
+    {
+      "id": 254,
+      "start": 726.74,
+      "end": 728.06,
+      "en": "You can change it a little bit.",
+      "zh": "你可以稍微改变一下。"
+    },
+    {
+      "id": 255,
+      "start": 728.06,
+      "end": 731.18,
+      "en": "You can say, you'll never guess who I saw.",
+      "zh": "你可以说，你永远猜不到我看到了谁。"
+    },
+    {
+      "id": 256,
+      "start": 731.18,
+      "end": 732.68,
+      "en": "Or you'll never guess what I heard.",
+      "zh": "或者你永远猜不到我听到了什么。"
+    },
+    {
+      "id": 257,
+      "start": 733.46,
+      "end": 734.46,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 258,
+      "start": 734.46,
+      "end": 736.78,
+      "en": "Very excellent gossip phrases.",
+      "zh": "非常优秀的八卦短语。"
+    },
+    {
+      "id": 259,
+      "start": 736.78,
+      "end": 739.2,
+      "en": "We're teaching you how to gossip because that's real English.",
+      "zh": "我们正在教您如何八卦，因为那是真正的英语。"
+    },
+    {
+      "id": 260,
+      "start": 739.66,
+      "end": 742.06,
+      "en": "People really do it, so you've got to know the language for it.",
+      "zh": "人们真的这样做，所以你必须了解它的语言。"
+    },
+    {
+      "id": 261,
+      "start": 742.06,
+      "end": 744.34,
+      "en": "All right, so enough of our gossip.",
+      "zh": "好吧，我们的八卦就够了。"
+    },
+    {
+      "id": 262,
+      "start": 744.34,
+      "end": 749.18,
+      "en": "I think it's time for us to listen to the dialogue one last time.",
+      "zh": "我认为是时候让我们上一次听对话了。"
+    },
+    {
+      "id": 263,
+      "start": 749.18,
+      "end": 757.43,
+      "en": "Oh, I don't know if you've heard, but someone moved into that old house down the road.",
+      "zh": "哦，我不知道你是否听说过，但有人搬进了路边的那所老房子。"
+    },
+    {
+      "id": 264,
+      "start": 758.14,
+      "end": 758.91,
+      "en": "Yeah, I know.",
+      "zh": "对，我知道。"
+    },
+    {
+      "id": 265,
+      "start": 759.23,
+      "end": 761.51,
+      "en": "I met the owner of the house yesterday as he was moving in.",
+      "zh": "昨天他搬进来的时候我遇到了房子的主人。"
+    },
+    {
+      "id": 266,
+      "start": 762.06,
+      "end": 763.06,
+      "en": "His name is Armand.",
+      "zh": "他叫阿尔芒。"
+    },
+    {
+      "id": 267,
+      "start": 763.63,
+      "end": 763.93,
+      "en": "Really?",
+      "zh": "真的吗？"
+    },
+    {
+      "id": 268,
+      "start": 764.59,
+      "end": 765.06,
+      "en": "What's he like?",
+      "zh": "他是个什么样的人？"
+    },
+    {
+      "id": 269,
+      "start": 765.06,
+      "end": 767.06,
+      "en": "You have to fill me in.",
+      "zh": "你得把情况告诉我。"
+    },
+    {
+      "id": 270,
+      "start": 767.06,
+      "end": 768.75,
+      "en": "Actually, he's a bit strange.",
+      "zh": "其实他有点古怪。"
+    },
+    {
+      "id": 271,
+      "start": 769.15,
+      "end": 769.57,
+      "en": "I don't know.",
+      "zh": "我不知道。"
+    },
+    {
+      "id": 272,
+      "start": 770.05,
+      "end": 771.97,
+      "en": "I've just got a bad feeling about him.",
+      "zh": "我总觉得他这个人不太对劲。"
+    },
+    {
+      "id": 273,
+      "start": 772.39,
+      "end": 772.59,
+      "en": "Really?",
+      "zh": "真的吗？"
+    },
+    {
+      "id": 274,
+      "start": 773.21,
+      "end": 773.51,
+      "en": "Why?",
+      "zh": "为什么？"
+    },
+    {
+      "id": 275,
+      "start": 774.13,
+      "end": 781.15,
+      "en": "Well, yesterday I brought over a housewarming gift, but Armand started acting really weird, and then he practically kicked me out.",
+      "zh": "好吧，昨天我带来了一份乔迁礼物，但阿蒙德开始表现得很奇怪，然后他几乎把我踢了出去。"
+    },
+    {
+      "id": 276,
+      "start": 781.87,
+      "end": 786.95,
+      "en": "I tried to sort of peek into his house, but everything was so dark inside that I couldn't really get a good look.",
+      "zh": "我想往他屋里瞄一眼，可里面太暗了，根本看不清。"
+    },
+    {
+      "id": 277,
+      "start": 787.29,
+      "end": 788.79,
+      "en": "The whole thing really creeped me out.",
+      "zh": "整件事让我心里发毛。"
+    },
+    {
+      "id": 278,
+      "start": 789.15,
+      "end": 791.01,
+      "en": "Well, you'll never guess what I saw this morning.",
+      "zh": "你绝对猜不到我今天早上看到了什么。"
+    },
+    {
+      "id": 279,
+      "start": 791.37,
+      "end": 796.07,
+      "en": "A delivery truck pulled into his driveway, and it dropped off a long rectangular box.",
+      "zh": "一辆送货卡车驶入他的车道，它掉下了一个长长的长方形盒子。"
+    },
+    {
+      "id": 280,
+      "start": 796.79,
+      "end": 798.07,
+      "en": "It almost looked like a coffin.",
+      "zh": "看着简直像口棺材。"
+    },
+    {
+      "id": 281,
+      "start": 799.22,
+      "end": 799.47,
+      "en": "You see?",
+      "zh": "明白了吗？"
+    },
+    {
+      "id": 282,
+      "start": 800.22,
+      "end": 801.17,
+      "en": "Why would he?",
+      "zh": "他为什么要那样做？"
+    },
+    {
+      "id": 283,
+      "start": 801.22,
+      "end": 802.22,
+      "en": "Hello, ladies.",
+      "zh": "女士们，你们好。"
+    },
+    {
+      "id": 284,
+      "start": 802.22,
+      "end": 802.63,
+      "en": "Armand!",
+      "zh": "阿尔芒！"
+    },
+    {
+      "id": 285,
+      "start": 803.53,
+      "end": 804.91,
+      "en": "You scared the heck out of me.",
+      "zh": "你吓坏了我。"
+    },
+    {
+      "id": 286,
+      "start": 805.23,
+      "end": 806.46,
+      "en": "This is my friend Doris.",
+      "zh": "这是我的朋友多丽丝。"
+    },
+    {
+      "id": 287,
+      "start": 806.99,
+      "end": 808.03,
+      "en": "A pleasure to meet you.",
+      "zh": "很高兴认识你。"
+    },
+    {
+      "id": 288,
+      "start": 808.94,
+      "end": 812.03,
+      "en": "If you're not doing anything tonight, I'd like to have you both for dinner.",
+      "zh": "如果你今晚什么都不做，我想请你们两个吃晚饭。"
+    },
+    {
+      "id": 289,
+      "start": 812.66,
+      "end": 817.08,
+      "en": "I mean, I'd like to have you both over for dinner.",
+      "zh": "我是说，想请你们俩来我家吃晚饭。"
+    },
+    {
+      "id": 290,
+      "start": 825.06,
+      "end": 828.72,
+      "en": "Okay, Markle, I have a true story for you.",
+      "zh": "好吧，马克尔，我有一个真实的故事给你。"
+    },
+    {
+      "id": 291,
+      "start": 829.02,
+      "end": 830.4,
+      "en": "Is it kind of like a creepy story?",
+      "zh": "这有点像一个令人毛骨悚然的故事吗？"
+    },
+    {
+      "id": 292,
+      "start": 830.66,
+      "end": 832.46,
+      "en": "It is a creepy story indeed.",
+      "zh": "这确实是一个令人毛骨悚然的故事。"
+    },
+    {
+      "id": 293,
+      "start": 833.06,
+      "end": 833.9,
+      "en": "Is it a true story?",
+      "zh": "这是一个真实的故事吗？"
+    },
+    {
+      "id": 294,
+      "start": 834.06,
+      "end": 834.66,
+      "en": "No, it's really true.",
+      "zh": "不，这是真的。"
+    },
+    {
+      "id": 295,
+      "start": 835.02,
+      "end": 837.3,
+      "en": "So, when I was young, I used to live in the country.",
+      "zh": "所以，在我年轻的时候，我曾经住在乡下。"
+    },
+    {
+      "id": 296,
+      "start": 838.06,
+      "end": 841.72,
+      "en": "And you know, in the country, all of the neighbors know each other.",
+      "zh": "你知道，在这个国家，所有的邻居都互相认识。"
+    },
+    {
+      "id": 297,
+      "start": 842.24,
+      "end": 845.3,
+      "en": "It's a small community, so everyone knows what's happening all the time.",
+      "zh": "这是一个小社区，所以每个人都知道发生了什么。"
+    },
+    {
+      "id": 298,
+      "start": 846.82,
+      "end": 854.18,
+      "en": "And there was some gossip going on in our community about a guy who lived at the end of the road.",
+      "zh": "我们的社区里发生了一些关于住在路尽头的人的流言蜚语。"
+    },
+    {
+      "id": 299,
+      "start": 854.18,
+      "end": 857.97,
+      "en": "And he was the owner of a car wrecking yard.",
+      "zh": "他是一个汽车破坏场的主人。"
+    },
+    {
+      "id": 300,
+      "start": 858.5,
+      "end": 863.37,
+      "en": "So a place where you take old broken down cars and take the parts apart to sell.",
+      "zh": "因此，您可以将旧的破旧汽车拆开并拆开出售。"
+    },
+    {
+      "id": 301,
+      "start": 863.9,
+      "end": 864.9,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 302,
+      "start": 864.9,
+      "end": 865.51,
+      "en": "And anyway, a scrap yard.",
+      "zh": "无论如何，一个废品场。"
+    },
+    {
+      "id": 303,
+      "start": 865.9,
+      "end": 866.39,
+      "en": "Yeah, a scrap yard.",
+      "zh": "是的，一个废料场。"
+    },
+    {
+      "id": 304,
+      "start": 866.9,
+      "end": 867.9,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 305,
+      "start": 867.9,
+      "end": 869.99,
+      "en": "Okay, so, you know, he had a wife and a couple of kids.",
+      "zh": "好吧，所以，你知道，他有一个妻子和几个孩子。"
+    },
+    {
+      "id": 306,
+      "start": 871.22,
+      "end": 872.72,
+      "en": "And suddenly his wife disappeared.",
+      "zh": "突然，他的妻子消失了。"
+    },
+    {
+      "id": 307,
+      "start": 873.34,
+      "end": 874.34,
+      "en": "Wow.",
+      "zh": "哇。"
+    },
+    {
+      "id": 308,
+      "start": 874.34,
+      "end": 875.34,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 309,
+      "start": 875.34,
+      "end": 878.04,
+      "en": "And no one knew what happened or anything.",
+      "zh": "没有人知道发生了什么或任何事情。"
+    },
+    {
+      "id": 310,
+      "start": 878.04,
+      "end": 887.18,
+      "en": "And so several years pass and suddenly the police start coming in and start investigating this guy and start digging up all of the land around his property.",
+      "zh": "几年过去了，突然警察开始进来调查这个人，开始挖掘他财产周围的所有土地。"
+    },
+    {
+      "id": 311,
+      "start": 887.18,
+      "end": 891.13,
+      "en": "And I guess, I don't know what they're doing, but I think they were looking for the wife's body.",
+      "zh": "我想，我不知道他们在做什么，但我认为他们正在寻找妻子的尸体。"
+    },
+    {
+      "id": 312,
+      "start": 891.63,
+      "end": 891.85,
+      "en": "Wow.",
+      "zh": "哇。"
+    },
+    {
+      "id": 313,
+      "start": 892.27,
+      "end": 893.05,
+      "en": "And did they find it?",
+      "zh": "他们找到了吗？"
+    },
+    {
+      "id": 314,
+      "start": 893.41,
+      "end": 893.63,
+      "en": "I don't know.",
+      "zh": "我不知道。"
+    },
+    {
+      "id": 315,
+      "start": 893.71,
+      "end": 894.15,
+      "en": "I moved away.",
+      "zh": "我搬走了。"
+    },
+    {
+      "id": 316,
+      "start": 895.82,
+      "end": 898.78,
+      "en": "Oh, such a great story, but we don't know how it ends.",
+      "zh": "哦，这么棒的故事，但我们不知道它是如何结束的。"
+    },
+    {
+      "id": 317,
+      "start": 898.84,
+      "end": 898.96,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 318,
+      "start": 899.78,
+      "end": 902.78,
+      "en": "Well, we can leave it up to the imagination of our listeners.",
+      "zh": "好吧，我们可以把它留给听众的想象。"
+    },
+    {
+      "id": 319,
+      "start": 902.78,
+      "end": 903.02,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 320,
+      "start": 903.46,
+      "end": 905.4,
+      "en": "Maybe they were looking for an old car.",
+      "zh": "也许他们正在寻找一辆旧车。"
+    },
+    {
+      "id": 321,
+      "start": 906.16,
+      "end": 907.2,
+      "en": "An old car buried in the ground.",
+      "zh": "一辆老车埋在地上。"
+    },
+    {
+      "id": 322,
+      "start": 907.4,
+      "end": 908.28,
+      "en": "I don't think so.",
+      "zh": "我不这么认为。"
+    },
+    {
+      "id": 323,
+      "start": 909.02,
+      "end": 909.6,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 324,
+      "start": 909.78,
+      "end": 910.72,
+      "en": "That's a true story.",
+      "zh": "这是一个真实的故事。"
+    },
+    {
+      "id": 325,
+      "start": 911.04,
+      "end": 912.54,
+      "en": "Real English, real stories.",
+      "zh": "真实的英语，真实的故事。"
+    },
+    {
+      "id": 326,
+      "start": 912.74,
+      "end": 914.5,
+      "en": "You heard it first here on EnglishPod.",
+      "zh": "您首先在 Englishpod 上听到它。"
+    },
+    {
+      "id": 327,
+      "start": 914.98,
+      "end": 915.4,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 328,
+      "start": 915.84,
+      "end": 919.52,
+      "en": "So, we want to hear your comments and suggestions about this topic.",
+      "zh": "因此，我们希望听到您对此主题的意见和建议。"
+    },
+    {
+      "id": 329,
+      "start": 919.9,
+      "end": 927.83,
+      "en": "I bet a lot of our listeners also have creepy stories, maybe ghost stories, maybe, I don't know, different types of weird stories.",
+      "zh": "我敢打赌，我们的很多听众也有令人毛骨悚然的故事，也许是鬼故事，也许，我不知道，不同类型的奇怪故事。"
+    },
+    {
+      "id": 330,
+      "start": 928.31,
+      "end": 932.13,
+      "en": "So, you guys should definitely log on to EnglishPod and share them with us.",
+      "zh": "所以，你们绝对应该登录 Englishpod 并与我们分享。"
+    },
+    {
+      "id": 331,
+      "start": 932.33,
+      "end": 932.61,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 332,
+      "start": 933.5,
+      "end": 938.09,
+      "en": "Go to EnglishPod.com and in the comment section of the website, tell us your creepy stories.",
+      "zh": "访问 englishpod.com 并在网站的评论部分，告诉我们您的令人毛骨悚然的故事。"
+    },
+    {
+      "id": 333,
+      "start": 939.02,
+      "end": 942.81,
+      "en": "And we're going to pick out the best story as the story of the week.",
+      "zh": "我们将挑选出最好的故事作为本周的故事。"
+    },
+    {
+      "id": 334,
+      "start": 943.1,
+      "end": 945.29,
+      "en": "We'll announce it in our This Just In podcast.",
+      "zh": "我们将在我们的播客中宣布它。"
+    },
+    {
+      "id": 335,
+      "start": 945.62,
+      "end": 946.62,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 336,
+      "start": 946.62,
+      "end": 949.76,
+      "en": "So, we want to hear all your juicy stories and gossip maybe as well.",
+      "zh": "所以，我们想听听你所有多汁的故事和八卦。"
+    },
+    {
+      "id": 337,
+      "start": 950.38,
+      "end": 951.38,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 338,
+      "start": 951.38,
+      "end": 951.72,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 339,
+      "start": 952.38,
+      "end": 953.24,
+      "en": "Well, it's time for us to go.",
+      "zh": "好吧，是时候让我们去了。"
+    },
+    {
+      "id": 340,
+      "start": 953.72,
+      "end": 955.9,
+      "en": "So, be sure to listen to us next time.",
+      "zh": "所以，下次一定要听我们的。"
+    },
+    {
+      "id": 341,
+      "start": 956.26,
+      "end": 957.26,
+      "en": "But until then, it's...",
+      "zh": "但在那之前，它是..."
+    },
+    {
+      "id": 342,
+      "start": 957.26,
+      "end": 958.26,
+      "en": "Bye-bye.",
+      "zh": "拜拜。"
+    },
+    {
+      "id": 343,
+      "start": 958.3,
+      "end": 958.48,
+      "en": "Bye.",
+      "zh": "再见。"
+    }
+  ],
+  "dialog": {
+    "start": 169.56,
+    "end": 238.54,
+    "segmentIds": [
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89
+    ]
+  }
+}

@@ -1,0 +1,1869 @@
+{
+  "version": 1,
+  "id": 132,
+  "number": "0132",
+  "title": "Daily Life - Mechanic",
+  "audio": "mp3/132. Daily Life - Mechanic.mp3",
+  "duration": 863.6081875,
+  "segments": [
+    {
+      "id": 1,
+      "start": 2.59,
+      "end": 3.55,
+      "en": "Hello, English learners.",
+      "zh": "各位英语学习者，大家好。"
+    },
+    {
+      "id": 2,
+      "start": 3.92,
+      "end": 5.01,
+      "en": "Welcome back to EnglishPod.",
+      "zh": "欢迎回到 EnglishPod。"
+    },
+    {
+      "id": 3,
+      "start": 5.36,
+      "end": 6.36,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 4,
+      "start": 6.36,
+      "end": 6.99,
+      "en": "And my name is Catherine.",
+      "zh": "我叫 Catherine。"
+    },
+    {
+      "id": 5,
+      "start": 7.44,
+      "end": 10.16,
+      "en": "And today we're talking about being on the road.",
+      "zh": "今天我们谈论的是在路上。"
+    },
+    {
+      "id": 6,
+      "start": 10.35,
+      "end": 14.91,
+      "en": "Yeah, we're going to be on the road, but we're going to encounter a little bit of a car problems.",
+      "zh": "对，我们要上路，不过会遇到一点汽车故障。"
+    },
+    {
+      "id": 7,
+      "start": 16.0,
+      "end": 16.75,
+      "en": "My favorite kind.",
+      "zh": "我最喜欢的那种。"
+    },
+    {
+      "id": 8,
+      "start": 17.0,
+      "end": 18.0,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 9,
+      "start": 18.0,
+      "end": 18.53,
+      "en": "I think it's happened to everyone.",
+      "zh": "我想这发生在每个人身上。"
+    },
+    {
+      "id": 10,
+      "start": 19.0,
+      "end": 23.87,
+      "en": "You're on the road or maybe you're coming back from work, you get a flat tire or something happens to your car, right?",
+      "zh": "你可能正在路上，也可能在下班回家的途中，突然爆胎了，或者车出了别的问题，对吧？"
+    },
+    {
+      "id": 11,
+      "start": 24.05,
+      "end": 25.39,
+      "en": "And it's always when you're in a rush.",
+      "zh": "总是在你匆忙的时候。"
+    },
+    {
+      "id": 12,
+      "start": 26.44,
+      "end": 27.53,
+      "en": "And most of the time it's raining.",
+      "zh": "而且大部分时间都在下雨。"
+    },
+    {
+      "id": 13,
+      "start": 28.2,
+      "end": 29.2,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 14,
+      "start": 29.2,
+      "end": 30.2,
+      "en": "It's snowing.",
+      "zh": "正在下雪。"
+    },
+    {
+      "id": 15,
+      "start": 30.2,
+      "end": 33.76,
+      "en": "So all of the circumstances definitely, well, they don't help.",
+      "zh": "所以所有情况肯定，好吧，它们没有帮助。"
+    },
+    {
+      "id": 16,
+      "start": 33.76,
+      "end": 34.05,
+      "en": "Let's just say.",
+      "zh": "让我们说。"
+    },
+    {
+      "id": 17,
+      "start": 34.76,
+      "end": 35.76,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 18,
+      "start": 35.76,
+      "end": 41.56,
+      "en": "So before we listen to this dialogue, let's take a look at some of the words in today's vocabulary preview.",
+      "zh": "听对话之前，我们先在今天的“词汇预习”中看看几个单词。"
+    },
+    {
+      "id": 19,
+      "start": 41.56,
+      "end": 42.56,
+      "en": "Vocabulary preview.",
+      "zh": "词汇预习。"
+    },
+    {
+      "id": 20,
+      "start": 42.89,
+      "end": 43.41,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 21,
+      "start": 43.64,
+      "end": 45.96,
+      "en": "So we're going to take a look at two words.",
+      "zh": "所以我们要看两个词。"
+    },
+    {
+      "id": 22,
+      "start": 45.96,
+      "end": 46.96,
+      "en": "They're kind of strange.",
+      "zh": "他们有点奇怪。"
+    },
+    {
+      "id": 23,
+      "start": 47.13,
+      "end": 49.15,
+      "en": "I don't know, kind of difficult to understand.",
+      "zh": "我不知道，有点难以理解。"
+    },
+    {
+      "id": 24,
+      "start": 49.56,
+      "end": 52.04,
+      "en": "So that's what we're going to explain them.",
+      "zh": "所以这就是我们要解释的。"
+    },
+    {
+      "id": 25,
+      "start": 52.04,
+      "end": 54.13,
+      "en": "The first one is spew, to spew.",
+      "zh": "第一个是吐，吐。"
+    },
+    {
+      "id": 26,
+      "start": 54.72,
+      "end": 55.39,
+      "en": "It's a verb, okay?",
+      "zh": "这是一个动词，好吗？"
+    },
+    {
+      "id": 27,
+      "start": 55.88,
+      "end": 56.88,
+      "en": "To spew.",
+      "zh": "吐。"
+    },
+    {
+      "id": 28,
+      "start": 56.88,
+      "end": 59.0,
+      "en": "Well, what can spew?",
+      "zh": "嗯，什么可以吐？"
+    },
+    {
+      "id": 29,
+      "start": 59.0,
+      "end": 59.57,
+      "en": "Volcano can spew.",
+      "zh": "火山可以喷。"
+    },
+    {
+      "id": 30,
+      "start": 60.0,
+      "end": 61.0,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 31,
+      "start": 61.0,
+      "end": 62.24,
+      "en": "An engine can spew.",
+      "zh": "发动机可以喷。"
+    },
+    {
+      "id": 32,
+      "start": 62.24,
+      "end": 63.44,
+      "en": "A person can spew.",
+      "zh": "一个人可以吐。"
+    },
+    {
+      "id": 33,
+      "start": 63.44,
+      "end": 64.44,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 34,
+      "start": 64.44,
+      "end": 64.71,
+      "en": "That's not very nice.",
+      "zh": "这不是很好。"
+    },
+    {
+      "id": 35,
+      "start": 65.44,
+      "end": 66.44,
+      "en": "No.",
+      "zh": "不。"
+    },
+    {
+      "id": 36,
+      "start": 66.44,
+      "end": 72.83,
+      "en": "So basically it's to like expel or to shoot out from your mouth or something liquid.",
+      "zh": "所以基本上它是喜欢驱逐或从你的嘴或液体中射出。"
+    },
+    {
+      "id": 37,
+      "start": 73.3,
+      "end": 74.51,
+      "en": "So in the case of a person, right?",
+      "zh": "所以在一个人的情况下，对吧？"
+    },
+    {
+      "id": 38,
+      "start": 74.85,
+      "end": 78.67,
+      "en": "So if a person spews, it means a person throws up, but it's usually very forceful.",
+      "zh": "所以如果一个人吐了，就意味着一个人呕吐，但它通常非常有力。"
+    },
+    {
+      "id": 39,
+      "start": 78.8,
+      "end": 79.8,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 40,
+      "start": 79.8,
+      "end": 80.27,
+      "en": "It's very messy.",
+      "zh": "这是非常混乱的。"
+    },
+    {
+      "id": 41,
+      "start": 80.8,
+      "end": 83.2,
+      "en": "A volcano can spew lava.",
+      "zh": "火山可以喷出熔岩。"
+    },
+    {
+      "id": 42,
+      "start": 83.2,
+      "end": 83.33,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 43,
+      "start": 84.2,
+      "end": 85.89,
+      "en": "So a volcano is spewing lava.",
+      "zh": "所以一座火山正在喷出熔岩。"
+    },
+    {
+      "id": 44,
+      "start": 86.8,
+      "end": 92.25,
+      "en": "Now for the next word that we have, it's an informal way of saying that something is broken.",
+      "zh": "现在对于我们的下一个词，这是一种非正式的说法，说某事被打破了。"
+    },
+    {
+      "id": 45,
+      "start": 92.36,
+      "end": 94.36,
+      "en": "You could say it's busted.",
+      "zh": "你可以说它被破坏了。"
+    },
+    {
+      "id": 46,
+      "start": 94.36,
+      "end": 94.63,
+      "en": "It's busted.",
+      "zh": "它被破坏了。"
+    },
+    {
+      "id": 47,
+      "start": 95.02,
+      "end": 96.51,
+      "en": "My DVD player is busted.",
+      "zh": "我的 DVD 播放器坏了。"
+    },
+    {
+      "id": 48,
+      "start": 96.76,
+      "end": 98.01,
+      "en": "Man, my phone is busted.",
+      "zh": "伙计，我的手机坏了。"
+    },
+    {
+      "id": 49,
+      "start": 98.49,
+      "end": 104.85,
+      "en": "So it's an informal way, very popular, very common I would say, to describe that something is not working.",
+      "zh": "所以，这是形容东西坏了的一种非正式说法，我觉得很流行，也很常见。"
+    },
+    {
+      "id": 50,
+      "start": 105.36,
+      "end": 108.88,
+      "en": "I don't think many people actually say, well, it's broken or it's damaged.",
+      "zh": "我不认为很多人真的说，好吧，它坏了或损坏了。"
+    },
+    {
+      "id": 51,
+      "start": 108.88,
+      "end": 109.03,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 52,
+      "start": 109.88,
+      "end": 114.69,
+      "en": "They're pretty much mixed I think, but you will definitely hear busted if you're talking to native English speakers.",
+      "zh": "我觉得这几种说法都会混着用，但如果你和英语母语者聊天，肯定会听到busted。"
+    },
+    {
+      "id": 53,
+      "start": 114.84,
+      "end": 116.95,
+      "en": "Or even like, for example, your arm.",
+      "zh": "甚至喜欢，例如，你的手臂。"
+    },
+    {
+      "id": 54,
+      "start": 117.48,
+      "end": 118.23,
+      "en": "He's got a busted arm.",
+      "zh": "他的手臂破裂了。"
+    },
+    {
+      "id": 55,
+      "start": 118.8,
+      "end": 119.8,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 56,
+      "start": 119.8,
+      "end": 119.93,
+      "en": "So busted.",
+      "zh": "如此破产。"
+    },
+    {
+      "id": 57,
+      "start": 120.8,
+      "end": 121.8,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 58,
+      "start": 121.8,
+      "end": 123.51,
+      "en": "So let's listen to our dialogue for the first time.",
+      "zh": "所以让我们第一次听我们的对话。"
+    },
+    {
+      "id": 59,
+      "start": 123.72,
+      "end": 128.09,
+      "en": "Let's see what's going on with this car trouble and then we'll come back and explain some things.",
+      "zh": "让我们看看这辆汽车的麻烦是怎么回事，然后我们会回来解释一些事情。"
+    },
+    {
+      "id": 60,
+      "start": 128.88,
+      "end": 129.88,
+      "en": "Howdy.",
+      "zh": "你好。"
+    },
+    {
+      "id": 61,
+      "start": 129.88,
+      "end": 130.88,
+      "en": "Nice car.",
+      "zh": "好车。"
+    },
+    {
+      "id": 62,
+      "start": 130.88,
+      "end": 131.88,
+      "en": "What seems to be the problem?",
+      "zh": "请问有什么问题？"
+    },
+    {
+      "id": 63,
+      "start": 140.12,
+      "end": 144.66,
+      "en": "I don't know.",
+      "zh": "我不知道。"
+    },
+    {
+      "id": 64,
+      "start": 145.04,
+      "end": 149.24,
+      "en": "This stupid old car started spewing white smoke and it just died on me.",
+      "zh": "这辆破旧的车开始冒白烟，然后就突然熄火了。"
+    },
+    {
+      "id": 65,
+      "start": 149.24,
+      "end": 151.36,
+      "en": "Luckily I managed to start it up and drive it here.",
+      "zh": "幸好我还是发动了车，把它开到这里来了。"
+    },
+    {
+      "id": 66,
+      "start": 152.06,
+      "end": 152.96,
+      "en": "What do you think it is?",
+      "zh": "你认为它是什么？"
+    },
+    {
+      "id": 67,
+      "start": 153.28,
+      "end": 153.98,
+      "en": "Not sure yet.",
+      "zh": "还不确定。"
+    },
+    {
+      "id": 68,
+      "start": 154.46,
+      "end": 156.56,
+      "en": "How about you pop the hood and we could take a look?",
+      "zh": "你把引擎盖打开，我们看看好吗？"
+    },
+    {
+      "id": 69,
+      "start": 158.72,
+      "end": 159.88,
+      "en": "Mm.",
+      "zh": "嗯。"
+    },
+    {
+      "id": 70,
+      "start": 159.88,
+      "end": 163.04,
+      "en": "It doesn't look good.",
+      "zh": "情况不妙。"
+    },
+    {
+      "id": 71,
+      "start": 163.36,
+      "end": 163.94,
+      "en": "What do you mean?",
+      "zh": "你是什么意思？"
+    },
+    {
+      "id": 72,
+      "start": 164.48,
+      "end": 166.54,
+      "en": "My daddy gave me this car for my birthday last month.",
+      "zh": "这辆车是上个月爸爸送我的生日礼物。"
+    },
+    {
+      "id": 73,
+      "start": 166.74,
+      "end": 168.18,
+      "en": "It's brand new.",
+      "zh": "这是全新的。"
+    },
+    {
+      "id": 74,
+      "start": 168.56,
+      "end": 172.14,
+      "en": "Well, missy, the white smoke that you saw is steam from the radiator.",
+      "zh": "嗯，小姐，你看到的白烟是散热器的蒸汽。"
+    },
+    {
+      "id": 75,
+      "start": 172.88,
+      "end": 176.64,
+      "en": "You overheated your engine so now the pistons are busted, and so is your transmission.",
+      "zh": "发动机过热了，所以现在活塞坏了，变速箱也坏了。"
+    },
+    {
+      "id": 76,
+      "start": 177.52,
+      "end": 180.36,
+      "en": "You should have called us and we could have towed you over here when your car died.",
+      "zh": "车熄火时你就该打电话给我们，我们可以把车拖过来。"
+    },
+    {
+      "id": 77,
+      "start": 180.88,
+      "end": 184.11,
+      "en": "Ugh. So, how long is this going to take?",
+      "zh": "呃。 那么，这需要多长时间？"
+    },
+    {
+      "id": 78,
+      "start": 184.11,
+      "end": 185.13,
+      "en": "An hour?",
+      "zh": "一个小时？"
+    },
+    {
+      "id": 79,
+      "start": 185.88,
+      "end": 187.55,
+      "en": "I'm afraid a bit more than that.",
+      "zh": "恐怕得更久一些。"
+    },
+    {
+      "id": 80,
+      "start": 188.07,
+      "end": 194.79,
+      "en": "We need to order the spare parts, take apart your electrical system, fuel pump, and engine, and then put it back together again.",
+      "zh": "我们需要订购备件，把你的电路系统、燃油泵和发动机拆开，再重新装好。"
+    },
+    {
+      "id": 81,
+      "start": 195.33,
+      "end": 197.89,
+      "en": "You're going to have to leave it here for at least, uh, two weeks.",
+      "zh": "你至少要把它留在这里，呃，两个星期。"
+    },
+    {
+      "id": 82,
+      "start": 198.57,
+      "end": 198.93,
+      "en": "What?",
+      "zh": "什么？"
+    },
+    {
+      "id": 83,
+      "start": 199.65,
+      "end": 201.05,
+      "en": "How am I supposed to go to school?",
+      "zh": "我该怎么去上学？"
+    },
+    {
+      "id": 84,
+      "start": 201.65,
+      "end": 202.17,
+      "en": "Or go shopping?",
+      "zh": "那买东西怎么办？"
+    },
+    {
+      "id": 85,
+      "start": 202.97,
+      "end": 204.61,
+      "en": "This is not happening.",
+      "zh": "怎么会这样！"
+    },
+    {
+      "id": 86,
+      "start": 209.61,
+      "end": 215.65,
+      "en": "So if I were the mechanic, I would not be very happy to be dealing with someone like this girl.",
+      "zh": "所以如果我是机械师，我不会很高兴与像这个女孩这样的人打交道。"
+    },
+    {
+      "id": 87,
+      "start": 216.33,
+      "end": 225.57,
+      "en": "I think it's, uh, well maybe it's a little bit stereotypical that we put it as a girl, because guys and girls, so many people don't know anything about cars or mechanics.",
+      "zh": "我觉得，把这个角色设成女生，可能有点刻板印象了，因为无论男女，很多人都不懂汽车或机械。"
+    },
+    {
+      "id": 88,
+      "start": 225.88,
+      "end": 229.19,
+      "en": "And in the States, there's a lot of female mechanics too, so it's, you know, it's mixed.",
+      "zh": "在美国，也有很多女性机械师，所以，你知道，它是混合的。"
+    },
+    {
+      "id": 89,
+      "start": 230.25,
+      "end": 236.88,
+      "en": "But definitely it's something that happens all the time, and probably the mechanic will overcharge her as well, because apparently she doesn't know what she's doing.",
+      "zh": "不过这种事确实经常发生，而且修车师傅可能还会多收她的钱，因为她显然不懂这些。"
+    },
+    {
+      "id": 90,
+      "start": 237.55,
+      "end": 240.88,
+      "en": "And that's one of the reasons we want to give you the vocabulary to deal with these situations.",
+      "zh": "这就是我们希望为您提供处理这些情况的词汇的原因之一。"
+    },
+    {
+      "id": 91,
+      "start": 241.37,
+      "end": 244.51,
+      "en": "So let's look at some of those car words in today's Language Takeaway.",
+      "zh": "所以让我们看看今天的语言外卖中的一些汽车词。"
+    },
+    {
+      "id": 92,
+      "start": 248.88,
+      "end": 254.88,
+      "en": "Alright, so we're going to take a look at very specific words related to cars and the engines and everything.",
+      "zh": "好，我们来看看一些与汽车、发动机等有关的专业词汇。"
+    },
+    {
+      "id": 93,
+      "start": 254.98,
+      "end": 256.88,
+      "en": "So let's start with the first one.",
+      "zh": "所以让我们从第一个开始。"
+    },
+    {
+      "id": 94,
+      "start": 257.58,
+      "end": 257.88,
+      "en": "Radiator.",
+      "zh": "散热器。"
+    },
+    {
+      "id": 95,
+      "start": 257.88,
+      "end": 261.88,
+      "en": "Radiator. Alright, so the radiator of the car.",
+      "zh": "散热器。 好吧，所以汽车的散热器。"
+    },
+    {
+      "id": 96,
+      "start": 262.73,
+      "end": 266.63,
+      "en": "So a radiator is something that you normally find in the front of the car near the engine.",
+      "zh": "因此，散热器是您通常在汽车前部靠近发动机的地方找到的东西。"
+    },
+    {
+      "id": 97,
+      "start": 267.13,
+      "end": 268.88,
+      "en": "It usually gets very, very hot, right?",
+      "zh": "它通常会变得非常非常热，对吧？"
+    },
+    {
+      "id": 98,
+      "start": 268.88,
+      "end": 269.88,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 99,
+      "start": 269.88,
+      "end": 273.88,
+      "en": "So one of the big issues is radiators getting too hot because there's no way to cool them down.",
+      "zh": "所以一大问题是散热器太热了，因为没有办法让它们冷却下来。"
+    },
+    {
+      "id": 100,
+      "start": 273.88,
+      "end": 280.88,
+      "en": "Mm-hmm. So if you live in a place that's very hot, the radiator keeps your engine cool because it has water in it.",
+      "zh": "嗯。如果你住的地方很热，散热器里的水能帮助发动机保持凉爽。"
+    },
+    {
+      "id": 101,
+      "start": 281.29,
+      "end": 287.67,
+      "en": "So if it overheats, or maybe you didn't put enough water in there, then it'll start spewing steam like in this dialogue.",
+      "zh": "所以，如果散热器过热，或者里面加的水不够，就会像对话里那样开始喷出蒸汽。"
+    },
+    {
+      "id": 102,
+      "start": 287.89,
+      "end": 293.01,
+      "en": "And if you have a problem with your radiator, you could actually do a lot of damage to your engine, which is why this is important.",
+      "zh": "而且散热器一旦有问题，可能会严重损坏发动机，所以这一点很重要。"
+    },
+    {
+      "id": 103,
+      "start": 293.17,
+      "end": 295.05,
+      "en": "Exactly, and that's what happened in this dialogue.",
+      "zh": "没错，这就是这次对话中发生的事情。"
+    },
+    {
+      "id": 104,
+      "start": 295.49,
+      "end": 296.47,
+      "en": "So a radiator.",
+      "zh": "所以是散热器。"
+    },
+    {
+      "id": 105,
+      "start": 297.09,
+      "end": 303.47,
+      "en": "Now, because the radiator wasn't working well, it overheated the engine, and he said they had some busted pistons.",
+      "zh": "因为散热器工作不正常，发动机过热了，所以他说有几个活塞坏了。"
+    },
+    {
+      "id": 106,
+      "start": 303.91,
+      "end": 305.21,
+      "en": "So broken pistons.",
+      "zh": "如此破碎的活塞。"
+    },
+    {
+      "id": 107,
+      "start": 305.45,
+      "end": 308.75,
+      "en": "Pistons are important because they're kind of like valves that go up and down.",
+      "zh": "活塞很重要，因为它们有点像上下波动的阀门。"
+    },
+    {
+      "id": 108,
+      "start": 309.03,
+      "end": 309.21,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 109,
+      "start": 309.41,
+      "end": 315.49,
+      "en": "So inside your engine, you have mini explosions, and the pistons move up and down, and that's what actually moves your car.",
+      "zh": "发动机里面会发生一次次小规模燃烧爆发，带动活塞上下运动，汽车就是这样被驱动的。"
+    },
+    {
+      "id": 110,
+      "start": 315.99,
+      "end": 316.15,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 111,
+      "start": 316.33,
+      "end": 325.88,
+      "en": "And so pistons, in general, are things in mechanics. So like a trumpet has pistons, things that go up and down and that allow for the flow of air.",
+      "zh": "所以，活塞通常是一种机械部件。比如小号也有活塞，会上下运动，让空气通过。"
+    },
+    {
+      "id": 112,
+      "start": 325.88,
+      "end": 327.85,
+      "en": "Air or something like that. Very good.",
+      "zh": "空气或类似的东西。 非常好。"
+    },
+    {
+      "id": 113,
+      "start": 328.17,
+      "end": 329.03,
+      "en": "So that's a piston.",
+      "zh": "所以这是一个活塞。"
+    },
+    {
+      "id": 114,
+      "start": 329.89,
+      "end": 333.59,
+      "en": "And, well, another very common mechanic term is the transmission.",
+      "zh": "而且，另一个非常常见的机械术语是传输。"
+    },
+    {
+      "id": 115,
+      "start": 333.88,
+      "end": 335.82,
+      "en": "Alright, so the transmission.",
+      "zh": "好吧，所以传输。"
+    },
+    {
+      "id": 116,
+      "start": 335.98,
+      "end": 337.64,
+      "en": "What happens if your transmission dies?",
+      "zh": "如果您的传输死亡，会发生什么？"
+    },
+    {
+      "id": 117,
+      "start": 338.08,
+      "end": 338.66,
+      "en": "Can you still drive?",
+      "zh": "你还能开车吗？"
+    },
+    {
+      "id": 118,
+      "start": 338.98,
+      "end": 342.88,
+      "en": "You basically can't move, or maybe you only have one gear or two gears.",
+      "zh": "你基本上不能移动，或者你只有一个或两个齿轮。"
+    },
+    {
+      "id": 119,
+      "start": 342.88,
+      "end": 347.24,
+      "en": "Alright, so think about transmission as coming from the word to transmit. That means to transfer.",
+      "zh": "好吧，所以想想传输是从这个词传到传输的。 这意味着转移。"
+    },
+    {
+      "id": 120,
+      "start": 347.88,
+      "end": 354.36,
+      "en": "So this is the part of the car that transfers energy or the power to actually move the car.",
+      "zh": "所以这是汽车的部分，可以传递能量或动力来实际移动汽车。"
+    },
+    {
+      "id": 121,
+      "start": 354.7,
+      "end": 355.9,
+      "en": "So the transmission.",
+      "zh": "所以传输。"
+    },
+    {
+      "id": 122,
+      "start": 356.88,
+      "end": 361.43,
+      "en": "And we've got the mechanic who says, well, we've got to order you some spare parts.",
+      "zh": "我们有机械师说，好吧，我们必须为您订购一些备件。"
+    },
+    {
+      "id": 123,
+      "start": 361.97,
+      "end": 363.69,
+      "en": "So first, let's look at the word spare.",
+      "zh": "所以首先，让我们看看 Spare 这个词。"
+    },
+    {
+      "id": 124,
+      "start": 364.33,
+      "end": 365.21,
+      "en": "What's another word for spare?",
+      "zh": "备用的另一个词是什么？"
+    },
+    {
+      "id": 125,
+      "start": 365.69,
+      "end": 367.65,
+      "en": "Additional, maybe extra.",
+      "zh": "另外，也许是额外的。"
+    },
+    {
+      "id": 126,
+      "start": 367.88,
+      "end": 377.88,
+      "en": "Right. So spare means extra. Parts are, well, pieces. So he's talking about ordering a new transmission, new pistons, things to replace the broken things.",
+      "zh": "对，spare是“额外的、备用的”，parts就是“零件”。所以他是在说，要订购新的变速器、活塞等，来替换坏掉的部件。"
+    },
+    {
+      "id": 127,
+      "start": 378.76,
+      "end": 379.44,
+      "en": "Spare parts.",
+      "zh": "备件。"
+    },
+    {
+      "id": 128,
+      "start": 380.14,
+      "end": 384.14,
+      "en": "So this is where you go to the mechanic to get some spare parts and get them installed.",
+      "zh": "所以这是你去机械师那里获取一些备件并安装它们的地方。"
+    },
+    {
+      "id": 129,
+      "start": 384.5,
+      "end": 388.46,
+      "en": "You probably don't have many spare parts at home, right? You got a transmission lying around.",
+      "zh": "你家里可能没有很多备件，对吧？ 你周围有一个变速箱。"
+    },
+    {
+      "id": 130,
+      "start": 389.28,
+      "end": 391.74,
+      "en": "Well, yeah, so spare parts.",
+      "zh": "嗯，是的，所以备件。"
+    },
+    {
+      "id": 131,
+      "start": 392.5,
+      "end": 395.72,
+      "en": "And the last word that we're going to take a look at is a fuel pump.",
+      "zh": "我们要看看的最后一个词是燃油泵。"
+    },
+    {
+      "id": 132,
+      "start": 396.32,
+      "end": 399.72,
+      "en": "Okay, so a pump is, you could have a bike pump.",
+      "zh": "好的，所以泵是，你可以有一个自行车泵。"
+    },
+    {
+      "id": 133,
+      "start": 400.0,
+      "end": 400.7,
+      "en": "A water pump.",
+      "zh": "一个水泵。"
+    },
+    {
+      "id": 134,
+      "start": 400.88,
+      "end": 401.38,
+      "en": "Water pump.",
+      "zh": "水泵。"
+    },
+    {
+      "id": 135,
+      "start": 401.54,
+      "end": 404.46,
+      "en": "So these are something, these are some things that we use very, very often.",
+      "zh": "所以这些是一些东西，这些是我们非常非常经常使用的一些东西。"
+    },
+    {
+      "id": 136,
+      "start": 404.72,
+      "end": 408.72,
+      "en": "But a fuel pump is something that allows gas, gasoline, to get into your engine.",
+      "zh": "但是燃油泵是允许燃气、汽油进入发动机的东西。"
+    },
+    {
+      "id": 137,
+      "start": 409.44,
+      "end": 414.86,
+      "en": "So it's basically a device that pushes gasoline into the engine so you can start.",
+      "zh": "所以它基本上是一种将汽油推入发动机的装置，这样你就可以启动了。"
+    },
+    {
+      "id": 138,
+      "start": 415.2,
+      "end": 416.82,
+      "en": "And that's the same thing with the water pump.",
+      "zh": "这与水泵也是如此。"
+    },
+    {
+      "id": 139,
+      "start": 417.1,
+      "end": 418.6,
+      "en": "It's a device that pushes water.",
+      "zh": "它是一种推动水的设备。"
+    },
+    {
+      "id": 140,
+      "start": 419.1,
+      "end": 421.88,
+      "en": "Or an air pump is something that pushes air into your tires and your bicycle.",
+      "zh": "或者气泵是将空气推入轮胎和自行车的东西。"
+    },
+    {
+      "id": 141,
+      "start": 421.88,
+      "end": 425.88,
+      "en": "Exactly. So a fuel pump, water pump, etc.",
+      "zh": "没错。 所以燃油泵、水泵等。"
+    },
+    {
+      "id": 142,
+      "start": 426.13,
+      "end": 427.61,
+      "en": "Wow, I feel like we know a lot about cars.",
+      "zh": "哇，我觉得我们对汽车了解很多。"
+    },
+    {
+      "id": 143,
+      "start": 427.88,
+      "end": 428.85,
+      "en": "Yeah, apparently we do.",
+      "zh": "是的，显然我们这样做了。"
+    },
+    {
+      "id": 144,
+      "start": 428.99,
+      "end": 437.93,
+      "en": "See? Alright, so now that we've taken a look at all of these great words, let's move on to a couple of phrases in Fluency Builder.",
+      "zh": "明白了吧？好，既然已经学了这些有用的词汇，接下来就在“流利表达”里学习几个短语。"
+    },
+    {
+      "id": 145,
+      "start": 441.09,
+      "end": 444.19,
+      "en": "Alright, these are phrases that you hear sometimes when you're talking about electronics.",
+      "zh": "好吧，这些是您在谈论电子产品时有时会听到的短语。"
+    },
+    {
+      "id": 146,
+      "start": 444.23,
+      "end": 447.71,
+      "en": "But in today's lesson, we're also talking about specific car phrases.",
+      "zh": "但在今天的课程中，我们也在谈论特定的汽车短语。"
+    },
+    {
+      "id": 147,
+      "start": 447.88,
+      "end": 450.88,
+      "en": "So you're going to hear these all the time at the mechanics.",
+      "zh": "所以你会一直在机械师那里听到这些。"
+    },
+    {
+      "id": 148,
+      "start": 450.88,
+      "end": 455.78,
+      "en": "Right, and the first one is, the car suddenly died on me.",
+      "zh": "是的，第一个是，汽车突然死在我身上。"
+    },
+    {
+      "id": 149,
+      "start": 455.88,
+      "end": 457.32,
+      "en": "Alright, to die on.",
+      "zh": "好吧，死去。"
+    },
+    {
+      "id": 150,
+      "start": 457.54,
+      "end": 459.72,
+      "en": "So we keep these two words together, die on.",
+      "zh": "所以我们把这两个词放在一起，死去。"
+    },
+    {
+      "id": 151,
+      "start": 460.34,
+      "end": 463.8,
+      "en": "Oh man, so while you were driving, your car died.",
+      "zh": "哦，伙计，所以当你开车的时候，你的车死了。"
+    },
+    {
+      "id": 152,
+      "start": 463.96,
+      "end": 464.78,
+      "en": "It stopped moving.",
+      "zh": "它停止了移动。"
+    },
+    {
+      "id": 153,
+      "start": 465.68,
+      "end": 468.84,
+      "en": "So that means that it doesn't work anymore.",
+      "zh": "所以这意味着它不再起作用了。"
+    },
+    {
+      "id": 154,
+      "start": 469.36,
+      "end": 473.48,
+      "en": "And it's not only for cars, right? You can say my MP3 player died on me today.",
+      "zh": "而且它不仅适用于汽车，对吧？ 你可以说我的 MP3 播放器今天死在我身上。"
+    },
+    {
+      "id": 155,
+      "start": 473.84,
+      "end": 479.32,
+      "en": "Exactly, and what it means is, it's not like you left it and you forgot about it and you tried it again and it didn't work.",
+      "zh": "没错，它不是说你把东西放在一边，后来忘了，再拿来用时发现它坏了。"
+    },
+    {
+      "id": 156,
+      "start": 479.46,
+      "end": 481.52,
+      "en": "It means while you're using it, it dies.",
+      "zh": "这意味着当你使用它时，它会死掉。"
+    },
+    {
+      "id": 157,
+      "start": 481.74,
+      "end": 482.3,
+      "en": "It doesn't work.",
+      "zh": "它不起作用。"
+    },
+    {
+      "id": 158,
+      "start": 482.88,
+      "end": 487.01,
+      "en": "So I think this phrase is a good one to give some other examples.",
+      "zh": "所以我认为这句话是一个很好的例子，可以举出一些其他的例子。"
+    },
+    {
+      "id": 159,
+      "start": 487.17,
+      "end": 487.88,
+      "en": "So let's listen.",
+      "zh": "那么我们来听听。"
+    },
+    {
+      "id": 160,
+      "start": 513.88,
+      "end": 518.88,
+      "en": "So this next one is a phrase you hear, the first thing you hear maybe, when you tell someone you have a car problem.",
+      "zh": "下一个短语，是你告诉别人汽车出了故障时，可能首先听到的一句话。"
+    },
+    {
+      "id": 161,
+      "start": 519.43,
+      "end": 521.09,
+      "en": "Right, you tell them to pop the hood.",
+      "zh": "对，你告诉他们弹出引擎盖。"
+    },
+    {
+      "id": 162,
+      "start": 521.47,
+      "end": 522.67,
+      "en": "Or let's pop the hood.",
+      "zh": "或者让我们弹出引擎盖。"
+    },
+    {
+      "id": 163,
+      "start": 523.39,
+      "end": 529.69,
+      "en": "So this means let's open the front part of the car, the hood, to look at the engine, transmission, all those parts.",
+      "zh": "意思就是打开汽车前面的引擎盖，看看发动机、变速器等部件。"
+    },
+    {
+      "id": 164,
+      "start": 530.15,
+      "end": 530.43,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 165,
+      "start": 530.99,
+      "end": 534.88,
+      "en": "So you can say open the hood, but the most common one is pop the hood.",
+      "zh": "所以你可以说打开引擎盖，但最常见的一种是打开引擎盖。"
+    },
+    {
+      "id": 166,
+      "start": 535.75,
+      "end": 542.88,
+      "en": "So the reason is because there is a little spring and you have to pull inside the car and it goes pop, and there's a little jump.",
+      "zh": "之所以这样说，是因为那里有个小弹簧，你在车内拉一下开关，它就会“啪”地弹起一点。"
+    },
+    {
+      "id": 167,
+      "start": 542.88,
+      "end": 543.88,
+      "en": "Yeah, exactly.",
+      "zh": "对，没错。"
+    },
+    {
+      "id": 168,
+      "start": 544.68,
+      "end": 545.88,
+      "en": "So it's literally popping.",
+      "zh": "所以它确实是在弹出。"
+    },
+    {
+      "id": 169,
+      "start": 546.6,
+      "end": 548.88,
+      "en": "Right, or you can also say the trunk, right, the back part of the car.",
+      "zh": "对了，或者你也可以说后备箱，右，汽车的后部。"
+    },
+    {
+      "id": 170,
+      "start": 549.86,
+      "end": 551.2,
+      "en": "Hey, can you pop the trunk for me?",
+      "zh": "嘿，你能帮我弹出后备箱吗？"
+    },
+    {
+      "id": 171,
+      "start": 551.32,
+      "end": 551.88,
+      "en": "I've got to put some stuff inside.",
+      "zh": "我必须在里面放一些东西。"
+    },
+    {
+      "id": 172,
+      "start": 551.88,
+      "end": 554.88,
+      "en": "Exactly, so pop the hood, pop the trunk.",
+      "zh": "确切地说，打开引擎盖，弹出行李箱。"
+    },
+    {
+      "id": 173,
+      "start": 555.68,
+      "end": 560.52,
+      "en": "And next we've got this girl actually, who's talking about her car because she just got this car.",
+      "zh": "接下来我们实际上有了这个女孩，她在谈论她的车，因为她刚拿到这辆车。"
+    },
+    {
+      "id": 174,
+      "start": 560.74,
+      "end": 563.14,
+      "en": "So what's another way to say it's a new car?",
+      "zh": "那么说它是新车的另一种方式是什么？"
+    },
+    {
+      "id": 175,
+      "start": 563.54,
+      "end": 564.74,
+      "en": "It's brand new.",
+      "zh": "这是全新的。"
+    },
+    {
+      "id": 176,
+      "start": 565.14,
+      "end": 565.88,
+      "en": "Is that more new than new?",
+      "zh": "这比新的更新吗？"
+    },
+    {
+      "id": 177,
+      "start": 565.88,
+      "end": 567.88,
+      "en": "It's like newer, newer than new.",
+      "zh": "它就像更新，比新的更新。"
+    },
+    {
+      "id": 178,
+      "start": 567.88,
+      "end": 576.88,
+      "en": "Alright, so brand, you think about brands like Ford or Gucci, these are brands, but brand new means she maybe got it like today.",
+      "zh": "好，brand会让你想到福特、古驰这样的品牌，但brand new是说，她可能今天才买到这东西。"
+    },
+    {
+      "id": 179,
+      "start": 577.74,
+      "end": 580.66,
+      "en": "So it's brand new, it's very, very new.",
+      "zh": "所以它是全新的，它非常非常新。"
+    },
+    {
+      "id": 180,
+      "start": 581.12,
+      "end": 581.88,
+      "en": "Did you see my brand new watch?",
+      "zh": "你看到我全新的手表了吗？"
+    },
+    {
+      "id": 181,
+      "start": 582.72,
+      "end": 585.88,
+      "en": "Oh, it is nice, did you get it? Alright, so brand new.",
+      "zh": "哦，很好，你明白了吗？ 好吧，全新的。"
+    },
+    {
+      "id": 182,
+      "start": 587.04,
+      "end": 590.88,
+      "en": "And well, the last phrase that we have for you today is to take apart something.",
+      "zh": "好吧，我们今天为您准备的最后一句话是拆开一些东西。"
+    },
+    {
+      "id": 183,
+      "start": 592.02,
+      "end": 596.8,
+      "en": "Alright, so this is very popular with young children, like they like to take things apart so they can find out how they work.",
+      "zh": "小孩子很喜欢这样做，他们喜欢把东西拆开，看看它们是怎么运作的。"
+    },
+    {
+      "id": 184,
+      "start": 596.88,
+      "end": 599.88,
+      "en": "But to take apart means to take all the pieces and to pull them out.",
+      "zh": "但拆开意味着把所有的碎片都拉出来。"
+    },
+    {
+      "id": 185,
+      "start": 601.16,
+      "end": 602.82,
+      "en": "Yeah, I used to do that a lot when I was a kid.",
+      "zh": "是的，我小时候经常这样做。"
+    },
+    {
+      "id": 186,
+      "start": 602.92,
+      "end": 610.08,
+      "en": "I used to take apart any electronic device to kind of see how it works and then I would try to put it back together again.",
+      "zh": "我以前会拆开各种电子设备，看看它们怎么工作，然后再试着装回去。"
+    },
+    {
+      "id": 187,
+      "start": 610.36,
+      "end": 611.3,
+      "en": "That's why you're so smart.",
+      "zh": "这就是你如此聪明的原因。"
+    },
+    {
+      "id": 188,
+      "start": 611.56,
+      "end": 614.06,
+      "en": "Well, it never really worked, it worked half the time.",
+      "zh": "好吧，它从来没有真正工作过，它工作了一半。"
+    },
+    {
+      "id": 189,
+      "start": 614.32,
+      "end": 616.88,
+      "en": "So the problem is always putting them back together again, right?",
+      "zh": "所以问题总是把它们重新组合在一起，对吧？"
+    },
+    {
+      "id": 190,
+      "start": 616.88,
+      "end": 624.88,
+      "en": "Exactly, so you can take it apart, but then you put it back together and there's always a screw missing or a screw that's extra or two or three parts.",
+      "zh": "没错，拆开是可以，可是再装回去时，总是会少一颗螺丝，或者多出一颗螺丝，甚至多出两三个零件。"
+    },
+    {
+      "id": 191,
+      "start": 625.08,
+      "end": 626.2,
+      "en": "Not a good sign.",
+      "zh": "不是一个好兆头。"
+    },
+    {
+      "id": 192,
+      "start": 626.88,
+      "end": 633.38,
+      "en": "Alright, so we've taken a look at a lot of great words and phrases, so let's listen to this dialogue for the last time.",
+      "zh": "好，我们已经学了很多有用的词汇和短语，现在最后再听一遍对话。"
+    },
+    {
+      "id": 193,
+      "start": 644.71,
+      "end": 645.15,
+      "en": "Howdy.",
+      "zh": "你好。"
+    },
+    {
+      "id": 194,
+      "start": 645.47,
+      "end": 646.13,
+      "en": "Nice car.",
+      "zh": "好车。"
+    },
+    {
+      "id": 195,
+      "start": 646.45,
+      "end": 647.85,
+      "en": "What seems to be the problem?",
+      "zh": "请问有什么问题？"
+    },
+    {
+      "id": 196,
+      "start": 648.35,
+      "end": 653.05,
+      "en": "I don't know. This stupid old car started spewing white smoke and it just died on me.",
+      "zh": "我也不知道。这辆破旧的车开始冒白烟，然后就突然熄火了。"
+    },
+    {
+      "id": 197,
+      "start": 653.75,
+      "end": 655.83,
+      "en": "Luckily, I managed to start it up and drive it here.",
+      "zh": "幸好我设法把车重新发动，开到了这里。"
+    },
+    {
+      "id": 198,
+      "start": 656.41,
+      "end": 657.41,
+      "en": "What do you think it is?",
+      "zh": "你认为它是什么？"
+    },
+    {
+      "id": 199,
+      "start": 657.71,
+      "end": 658.45,
+      "en": "Not sure yet.",
+      "zh": "还不确定。"
+    },
+    {
+      "id": 200,
+      "start": 658.87,
+      "end": 660.88,
+      "en": "How about you pop the hood and we can take a look?",
+      "zh": "你把引擎盖拿出来，我们可以看看吗？"
+    },
+    {
+      "id": 201,
+      "start": 665.88,
+      "end": 667.39,
+      "en": "Mmm, doesn't look good.",
+      "zh": "嗯，看起来不太好。"
+    },
+    {
+      "id": 202,
+      "start": 667.88,
+      "end": 668.41,
+      "en": "What do you mean?",
+      "zh": "你是什么意思？"
+    },
+    {
+      "id": 203,
+      "start": 669.05,
+      "end": 671.03,
+      "en": "My daddy gave me this car for my birthday last month.",
+      "zh": "这辆车是上个月爸爸送我的生日礼物。"
+    },
+    {
+      "id": 204,
+      "start": 671.21,
+      "end": 672.61,
+      "en": "It's brand new.",
+      "zh": "这是全新的。"
+    },
+    {
+      "id": 205,
+      "start": 672.88,
+      "end": 676.88,
+      "en": "Well, missy, the white smoke that you saw is steam from the radiator.",
+      "zh": "嗯，小姐，你看到的白烟是散热器的蒸汽。"
+    },
+    {
+      "id": 206,
+      "start": 677.25,
+      "end": 681.05,
+      "en": "You overheated your engine so now the pistons are busted and so is your transmission.",
+      "zh": "您的发动机过热，因此现在活塞被破坏，您的变速箱也是如此。"
+    },
+    {
+      "id": 207,
+      "start": 681.74,
+      "end": 684.84,
+      "en": "You should have called us and we could have towed you over here when your car died.",
+      "zh": "车熄火时你就该打电话给我们，我们可以把车拖过来。"
+    },
+    {
+      "id": 208,
+      "start": 684.88,
+      "end": 688.56,
+      "en": "Ugh, so how long is this going to take?",
+      "zh": "呃，这需要多长时间？"
+    },
+    {
+      "id": 209,
+      "start": 688.56,
+      "end": 689.58,
+      "en": "An hour?",
+      "zh": "一个小时？"
+    },
+    {
+      "id": 210,
+      "start": 690.22,
+      "end": 692.0,
+      "en": "I'm afraid a bit more than that.",
+      "zh": "恐怕得更久一些。"
+    },
+    {
+      "id": 211,
+      "start": 692.48,
+      "end": 699.26,
+      "en": "We need to order the spare parts, take apart your electrical system, fuel pump and engine, and then put it back together again.",
+      "zh": "我们需要订购备件，把你的电路系统、燃油泵和发动机拆开，再重新装好。"
+    },
+    {
+      "id": 212,
+      "start": 699.84,
+      "end": 702.36,
+      "en": "You're going to have to leave it here for at least two weeks.",
+      "zh": "您将不得不将其留在这里至少两周。"
+    },
+    {
+      "id": 213,
+      "start": 703.1,
+      "end": 703.4,
+      "en": "What?",
+      "zh": "什么？"
+    },
+    {
+      "id": 214,
+      "start": 704.22,
+      "end": 705.5,
+      "en": "How am I supposed to go to school?",
+      "zh": "我该怎么去上学？"
+    },
+    {
+      "id": 215,
+      "start": 705.5,
+      "end": 706.7,
+      "en": "Or go shopping?",
+      "zh": "还是去购物？"
+    },
+    {
+      "id": 216,
+      "start": 707.44,
+      "end": 709.08,
+      "en": "This is not happening.",
+      "zh": "这没有发生。"
+    },
+    {
+      "id": 217,
+      "start": 715.88,
+      "end": 722.88,
+      "en": "Alright, so car trouble. Have you ever had any very serious car trouble or something weird happened to your car?",
+      "zh": "好，说到汽车故障，你有没有遇到过特别严重的故障，或者车上发生过什么怪事？"
+    },
+    {
+      "id": 218,
+      "start": 723.34,
+      "end": 732.66,
+      "en": "Actually, the week before I decided to leave Chicago, I had this 1991 Honda Civic hatchback, so only two doors.",
+      "zh": "有啊。在我决定离开芝加哥的前一周，当时我开的是一辆1991年的本田思域掀背车，只有两个车门。"
+    },
+    {
+      "id": 219,
+      "start": 732.88,
+      "end": 739.88,
+      "en": "And I was driving home from work, I was on the highway, had the radio on, the windows open, and then doo doo doo doo, boom.",
+      "zh": "我当时正开车下班回家，在高速公路上听着收音机，开着车窗，然后就“嘟嘟嘟嘟，砰”的一声。"
+    },
+    {
+      "id": 220,
+      "start": 739.88,
+      "end": 740.88,
+      "en": "It died.",
+      "zh": "它死了。"
+    },
+    {
+      "id": 221,
+      "start": 741.46,
+      "end": 743.78,
+      "en": "It died in the middle of the highway during rush hour.",
+      "zh": "它在高峰时段死在高速公路中间。"
+    },
+    {
+      "id": 222,
+      "start": 744.47,
+      "end": 746.88,
+      "en": "So that's when there's tons of cars and I didn't know what to do.",
+      "zh": "所以那是有大量汽车的时候，我不知道该怎么办。"
+    },
+    {
+      "id": 223,
+      "start": 746.88,
+      "end": 751.41,
+      "en": "So I'm calling people and then all of a sudden I see someone tapping on my window.",
+      "zh": "所以我打电话给人们，然后突然间我看到有人在敲我的窗户。"
+    },
+    {
+      "id": 224,
+      "start": 751.41,
+      "end": 752.51,
+      "en": "And there's cars everywhere.",
+      "zh": "到处都是汽车。"
+    },
+    {
+      "id": 225,
+      "start": 753.17,
+      "end": 753.73,
+      "en": "And it's this guy.",
+      "zh": "而且是这个人。"
+    },
+    {
+      "id": 226,
+      "start": 754.53,
+      "end": 756.88,
+      "en": "And he's like, listen, do you need a hand? I said yes.",
+      "zh": "他就像，听着，你需要一只手吗？ 我说是的。"
+    },
+    {
+      "id": 227,
+      "start": 757.63,
+      "end": 764.88,
+      "en": "So I put the car in neutral so that there's no brake. And he pushed it to a side road and gave me a ride home.",
+      "zh": "于是我把车挂到空挡，让它能推得动。他把车推到旁边的小路上，又开车送我回家。"
+    },
+    {
+      "id": 228,
+      "start": 764.88,
+      "end": 765.88,
+      "en": "No way.",
+      "zh": "不会吧。"
+    },
+    {
+      "id": 229,
+      "start": 765.88,
+      "end": 767.77,
+      "en": "He was the coolest guy, he was so nice.",
+      "zh": "他是最酷的人，他很好。"
+    },
+    {
+      "id": 230,
+      "start": 769.3,
+      "end": 772.88,
+      "en": "And he was just there with his truck, he's a gardener, and just gave me a ride home.",
+      "zh": "他只是带着他的卡车在那里，他是一名园丁，只是送我一程回家。"
+    },
+    {
+      "id": 231,
+      "start": 772.88,
+      "end": 773.88,
+      "en": "It was super, super cool.",
+      "zh": "超级超级酷。"
+    },
+    {
+      "id": 232,
+      "start": 773.88,
+      "end": 774.88,
+      "en": "Wow.",
+      "zh": "哇。"
+    },
+    {
+      "id": 233,
+      "start": 774.98,
+      "end": 780.44,
+      "en": "And so it turns out my engine died. No, the engine was new, it was the transmission, it was shot.",
+      "zh": "所以事实证明我的引擎死了。 不，发动机是新的，它是变速箱，它被击中了。"
+    },
+    {
+      "id": 234,
+      "start": 780.88,
+      "end": 781.76,
+      "en": "It was totally broken.",
+      "zh": "它完全坏了。"
+    },
+    {
+      "id": 235,
+      "start": 781.88,
+      "end": 782.88,
+      "en": "Wow.",
+      "zh": "哇。"
+    },
+    {
+      "id": 236,
+      "start": 782.88,
+      "end": 784.88,
+      "en": "But I was very lucky to have such a kind person.",
+      "zh": "但我很幸运有这样一个善良的人。"
+    },
+    {
+      "id": 237,
+      "start": 785.04,
+      "end": 794.78,
+      "en": "Yeah, that's a good story because usually people are too afraid or maybe a little bit reluctant to stop and see if you're okay or if you need a ride or something.",
+      "zh": "是啊，这个故事真好。因为人们通常会害怕，或者不太愿意停车看看你有没有事、需不需要搭车之类的。"
+    },
+    {
+      "id": 238,
+      "start": 794.88,
+      "end": 797.46,
+      "en": "Because you can't really trust people these days.",
+      "zh": "因为这些天你不能真正相信别人。"
+    },
+    {
+      "id": 239,
+      "start": 798.45,
+      "end": 799.17,
+      "en": "But it's good.",
+      "zh": "但这很好。"
+    },
+    {
+      "id": 240,
+      "start": 799.51,
+      "end": 804.21,
+      "en": "Once I saw somebody on the side of the road that had a flat tire, it was two girls and they didn't know what to do.",
+      "zh": "有一次，我看到路边有人爆胎了，是两个女孩，她们不知道该怎么办。"
+    },
+    {
+      "id": 241,
+      "start": 804.39,
+      "end": 805.35,
+      "en": "So I was passing by.",
+      "zh": "所以我路过。"
+    },
+    {
+      "id": 242,
+      "start": 805.81,
+      "end": 806.77,
+      "en": "It was actually raining.",
+      "zh": "其实是在下雨。"
+    },
+    {
+      "id": 243,
+      "start": 807.49,
+      "end": 808.85,
+      "en": "And I was like, hey, do you guys need a hand?",
+      "zh": "我当时想，嘿，你们需要一只手吗？"
+    },
+    {
+      "id": 244,
+      "start": 809.01,
+      "end": 809.79,
+      "en": "And they're like, yeah, please.",
+      "zh": "他们就像，是的，拜托。"
+    },
+    {
+      "id": 245,
+      "start": 810.09,
+      "end": 813.01,
+      "en": "We can't locate my dad or whatever.",
+      "zh": "我们找不到我爸爸什么的。"
+    },
+    {
+      "id": 246,
+      "start": 813.03,
+      "end": 815.53,
+      "en": "So I was like, changing the tire, it's not a big deal, right?",
+      "zh": "所以我想，换轮胎，这没什么大不了的，对吧？"
+    },
+    {
+      "id": 247,
+      "start": 815.88,
+      "end": 818.88,
+      "en": "And they wanted to tip me, they wanted to give me some money.",
+      "zh": "他们想给我小费，他们想给我一些钱。"
+    },
+    {
+      "id": 248,
+      "start": 818.88,
+      "end": 819.88,
+      "en": "Are you serious?",
+      "zh": "你是认真的吗？"
+    },
+    {
+      "id": 249,
+      "start": 819.88,
+      "end": 821.91,
+      "en": "They're like, oh, please take this, you're so kind, your time, and you're all wet.",
+      "zh": "他们就像，哦，请接受这个，你很善良，你的时间，你都湿透了。"
+    },
+    {
+      "id": 250,
+      "start": 822.07,
+      "end": 823.41,
+      "en": "And I'm like, no, no, don't worry about it.",
+      "zh": "我想，不，不，不要担心。"
+    },
+    {
+      "id": 251,
+      "start": 823.88,
+      "end": 824.63,
+      "en": "No, it's just a nice thing to do.",
+      "zh": "不用谢，这只是举手之劳。"
+    },
+    {
+      "id": 252,
+      "start": 825.05,
+      "end": 828.49,
+      "en": "If you know anything about cars, I mean, or if you can offer someone a lift.",
+      "zh": "如果您对汽车有所了解，我的意思是，或者您是否可以为某人提供电梯。"
+    },
+    {
+      "id": 253,
+      "start": 828.88,
+      "end": 833.88,
+      "en": "I know it's not terribly safe to ride with strangers, but this guy totally helped me out.",
+      "zh": "我知道和陌生人一起骑车并不是很安全，但这家伙完全帮助了我。"
+    },
+    {
+      "id": 254,
+      "start": 833.88,
+      "end": 841.39,
+      "en": "Nice. All right. Well, maybe you guys have some cool or maybe some interesting stories of what's happened with your cars or maybe you've helped somebody out.",
+      "zh": "真好。也许你们也有一些有趣的经历，比如车出了什么事，或者曾经帮助过别人。"
+    },
+    {
+      "id": 255,
+      "start": 841.88,
+      "end": 844.25,
+      "en": "So come to our website at EnglishPod.com and let us know.",
+      "zh": "因此，请访问我们的网站 englishpod.com 并告诉我们。"
+    },
+    {
+      "id": 256,
+      "start": 844.88,
+      "end": 849.61,
+      "en": "And of course, if you have any questions about the vocabulary or phrases that you heard today, please ask away.",
+      "zh": "当然，如果你对今天听到的词汇或短语有任何问题，尽管提问。"
+    },
+    {
+      "id": 257,
+      "start": 850.17,
+      "end": 850.75,
+      "en": "Don't hesitate.",
+      "zh": "不要犹豫。"
+    },
+    {
+      "id": 258,
+      "start": 850.75,
+      "end": 853.33,
+      "en": "And, well, again, we hope to see you on the website.",
+      "zh": "而且，我们再次希望在网站上见到您。"
+    },
+    {
+      "id": 259,
+      "start": 853.88,
+      "end": 854.41,
+      "en": "All right. We'll see you guys there.",
+      "zh": "好的。 我们会在那里见到你们。"
+    },
+    {
+      "id": 260,
+      "start": 854.88,
+      "end": 855.88,
+      "en": "Bye.",
+      "zh": "再见。"
+    },
+    {
+      "id": 261,
+      "start": 855.88,
+      "end": 863.608,
+      "en": "Bye.",
+      "zh": "再见。"
+    }
+  ],
+  "dialog": {
+    "start": 128.88,
+    "end": 204.61,
+    "segmentIds": [
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85
+    ]
+  }
+}

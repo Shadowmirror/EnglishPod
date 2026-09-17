@@ -1,0 +1,1593 @@
+{
+  "version": 1,
+  "id": 36,
+  "number": "0036",
+  "title": "Daily Life - I'm Sorry, I Love You III",
+  "audio": "mp3/36. Daily Life - I'm Sorry, I Love You III.mp3",
+  "duration": 633.4171875,
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.36,
+      "end": 2.22,
+      "en": "Hello, English learners.",
+      "zh": "各位英语学习者，大家好。"
+    },
+    {
+      "id": 2,
+      "start": 2.52,
+      "end": 3.76,
+      "en": "Welcome back to EnglishPod.",
+      "zh": "欢迎回到 EnglishPod。"
+    },
+    {
+      "id": 3,
+      "start": 3.96,
+      "end": 4.48,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 4,
+      "start": 4.92,
+      "end": 5.44,
+      "en": "And I'm Erica.",
+      "zh": "我叫 Erica。"
+    },
+    {
+      "id": 5,
+      "start": 6.18,
+      "end": 11.8,
+      "en": "And today we're bringing you the third part of this series that we've created called I'm Sorry I Love You.",
+      "zh": "今天我们为您带来我们创建的这个系列的第三部分，我很抱歉我爱你。"
+    },
+    {
+      "id": 6,
+      "start": 11.96,
+      "end": 12.34,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 7,
+      "start": 12.4,
+      "end": 16.06,
+      "en": "The third part in our story about our EnglishPod couple.",
+      "zh": "我们关于 Englishpod 夫妇的故事的第三部分。"
+    },
+    {
+      "id": 8,
+      "start": 16.54,
+      "end": 19.28,
+      "en": "Yeah, it's a romantic series, but today we're bringing you an argument.",
+      "zh": "是的，这是一个浪漫的系列，但今天我们为您带来争论。"
+    },
+    {
+      "id": 9,
+      "start": 19.82,
+      "end": 20.2,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 10,
+      "start": 21.08,
+      "end": 25.79,
+      "en": "Like in every relationship, you have fights, you have discussions, so we're going to teach you how to do that in English.",
+      "zh": "就像在每一段关系中一样，你有战斗，你有讨论，所以我们将教你如何用英语做到这一点。"
+    },
+    {
+      "id": 11,
+      "start": 26.4,
+      "end": 26.55,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 12,
+      "start": 27.4,
+      "end": 35.16,
+      "en": "And in today's lesson, you'll learn some great language that people use when they get into an argument with their boyfriend or girlfriend.",
+      "zh": "在今天的课程中，您将学习一些人们在与男朋友或女朋友吵架时使用的一些很棒的语言。"
+    },
+    {
+      "id": 13,
+      "start": 35.35,
+      "end": 35.51,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 14,
+      "start": 35.71,
+      "end": 37.43,
+      "en": "So why don't we take a look at vocabulary preview.",
+      "zh": "那么我们为什么不看看词汇预览。"
+    },
+    {
+      "id": 15,
+      "start": 38.8,
+      "end": 39.13,
+      "en": "Vocabulary preview.",
+      "zh": "词汇预习。"
+    },
+    {
+      "id": 16,
+      "start": 40.08,
+      "end": 41.33,
+      "en": "We have one phrase today.",
+      "zh": "我们今天有一句话。"
+    },
+    {
+      "id": 17,
+      "start": 42.64,
+      "end": 44.14,
+      "en": "Get a hold.",
+      "zh": "联系上。"
+    },
+    {
+      "id": 18,
+      "start": 44.14,
+      "end": 45.14,
+      "en": "Get a hold.",
+      "zh": "联系上。"
+    },
+    {
+      "id": 19,
+      "start": 45.14,
+      "end": 46.18,
+      "en": "Get a hold.",
+      "zh": "联系上。"
+    },
+    {
+      "id": 20,
+      "start": 46.18,
+      "end": 47.05,
+      "en": "To get a hold.",
+      "zh": "得到一个保留。"
+    },
+    {
+      "id": 21,
+      "start": 47.6,
+      "end": 49.6,
+      "en": "To get a hold of someone means...",
+      "zh": "抓住某人意味着..."
+    },
+    {
+      "id": 22,
+      "start": 49.76,
+      "end": 52.42,
+      "en": "To try and communicate with that person.",
+      "zh": "尝试与那个人交流。"
+    },
+    {
+      "id": 23,
+      "start": 52.88,
+      "end": 53.18,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 24,
+      "start": 53.88,
+      "end": 56.12,
+      "en": "So to try and call that person.",
+      "zh": "所以试着打电话给那个人。"
+    },
+    {
+      "id": 25,
+      "start": 56.12,
+      "end": 61.64,
+      "en": "For example, I can say, I've been calling his phone all day, but I can't get a hold of him.",
+      "zh": "例如，我可以说，我一整天都在打他的电话，但我无法联系到他。"
+    },
+    {
+      "id": 26,
+      "start": 62.56,
+      "end": 65.38,
+      "en": "Or I could say, finally, Marco, I got a hold of you.",
+      "zh": "或者我可以说，最后，马可，我抓住了你。"
+    },
+    {
+      "id": 27,
+      "start": 65.72,
+      "end": 66.54,
+      "en": "Where have you been all day?",
+      "zh": "你一整天都去哪儿了？"
+    },
+    {
+      "id": 28,
+      "start": 67.32,
+      "end": 68.32,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 29,
+      "start": 68.32,
+      "end": 73.36,
+      "en": "Now we're going to listen to our dialogue and as always, it's going to be at a normal pace, but you don't have to worry about it.",
+      "zh": "现在我们要听我们的对话，而且一如既往，它会以正常的节奏，但你不必担心。"
+    },
+    {
+      "id": 30,
+      "start": 73.36,
+      "end": 76.1,
+      "en": "We'll come back and teach you all of the important words.",
+      "zh": "我们会回来教你所有重要的词。"
+    },
+    {
+      "id": 31,
+      "start": 92.92,
+      "end": 97.08,
+      "en": "There was an emergency at work, so...",
+      "zh": "工作中有紧急情况，所以..."
+    },
+    {
+      "id": 32,
+      "start": 104.04,
+      "end": 106.5,
+      "en": "Honey, I promise this won't happen again.",
+      "zh": "亲爱的，我保证这不会再发生了。"
+    },
+    {
+      "id": 33,
+      "start": 107.0,
+      "end": 108.0,
+      "en": "It's just that I...",
+      "zh": "只是我……"
+    },
+    {
+      "id": 34,
+      "start": 108.0,
+      "end": 123.08,
+      "en": "I'm tired of you putting your job first all the time.",
+      "zh": "我厌倦了你一直把工作放在首位。"
+    },
+    {
+      "id": 35,
+      "start": 123.08,
+      "end": 123.44,
+      "en": "Come on, Veronica.",
+      "zh": "拜托，维罗妮卡。"
+    },
+    {
+      "id": 36,
+      "start": 124.16,
+      "end": 124.58,
+      "en": "That's not fair.",
+      "zh": "这不公平。"
+    },
+    {
+      "id": 37,
+      "start": 125.5,
+      "end": 126.64,
+      "en": "I do care about you a lot.",
+      "zh": "我真的很在乎你。"
+    },
+    {
+      "id": 38,
+      "start": 126.82,
+      "end": 127.2,
+      "en": "You know that.",
+      "zh": "你知道的。"
+    },
+    {
+      "id": 39,
+      "start": 127.54,
+      "end": 128.64,
+      "en": "I try to...",
+      "zh": "我尽量……"
+    },
+    {
+      "id": 40,
+      "start": 128.8,
+      "end": 129.8,
+      "en": "You know what?",
+      "zh": "你知道吗？"
+    },
+    {
+      "id": 41,
+      "start": 129.8,
+      "end": 130.84,
+      "en": "Maybe we should just take a break.",
+      "zh": "或许我们该暂时分开一阵。"
+    },
+    {
+      "id": 42,
+      "start": 131.5,
+      "end": 134.24,
+      "en": "I need some time to think about where this relationship is heading.",
+      "zh": "我需要时间想想我们的关系要怎么走下去。"
+    },
+    {
+      "id": 43,
+      "start": 134.8,
+      "end": 136.62,
+      "en": "But Veronica, would you listen to me?",
+      "zh": "但是维罗妮卡，你会听我的吗？"
+    },
+    {
+      "id": 44,
+      "start": 137.1,
+      "end": 140.04,
+      "en": "There was a fire alarm at my office building today and I was...",
+      "zh": "今天我的办公楼里有火警，我..."
+    },
+    {
+      "id": 45,
+      "start": 147.72,
+      "end": 150.14,
+      "en": "Okay so a little bit of trouble in the relationship.",
+      "zh": "好吧，这段关系有点麻烦。"
+    },
+    {
+      "id": 46,
+      "start": 150.5,
+      "end": 151.96,
+      "en": "Yeah, that's too bad.",
+      "zh": "是的，这太糟糕了。"
+    },
+    {
+      "id": 47,
+      "start": 152.48,
+      "end": 155.28,
+      "en": "Yeah, well, I think she's overreacting.",
+      "zh": "是的，我认为她反应过度了。"
+    },
+    {
+      "id": 48,
+      "start": 155.68,
+      "end": 155.98,
+      "en": "You do?",
+      "zh": "是吗？"
+    },
+    {
+      "id": 49,
+      "start": 156.72,
+      "end": 158.7,
+      "en": "We'll talk about that later on.",
+      "zh": "我们稍后会讨论这个问题。"
+    },
+    {
+      "id": 50,
+      "start": 159.3,
+      "end": 163.52,
+      "en": "But we saw some great words and phrases here, so it's time for Language Takeaway.",
+      "zh": "但是我们在这里看到了一些很棒的单词和短语，所以是时候进行语言收获了。"
+    },
+    {
+      "id": 51,
+      "start": 166.4,
+      "end": 166.74,
+      "en": "Language Takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 52,
+      "start": 168.72,
+      "end": 170.68,
+      "en": "Today on Language Takeaway, we're bringing you three words.",
+      "zh": "今天在语言外卖上，我们为您带来三个词。"
+    },
+    {
+      "id": 53,
+      "start": 171.36,
+      "end": 174.0,
+      "en": "The first word is, stood me up.",
+      "zh": "第一个词是，让我站起来。"
+    },
+    {
+      "id": 54,
+      "start": 175.2,
+      "end": 176.68,
+      "en": "Stood me up.",
+      "zh": "放了我鸽子。"
+    },
+    {
+      "id": 55,
+      "start": 176.68,
+      "end": 178.48,
+      "en": "Stood me up.",
+      "zh": "放了我鸽子。"
+    },
+    {
+      "id": 56,
+      "start": 178.48,
+      "end": 179.68,
+      "en": "Stood me up.",
+      "zh": "放了我鸽子。"
+    },
+    {
+      "id": 57,
+      "start": 179.68,
+      "end": 182.88,
+      "en": "The phrase, stand someone up, when do we use this?",
+      "zh": "短语，站起来，我们什么时候用这个？"
+    },
+    {
+      "id": 58,
+      "start": 183.07,
+      "end": 185.91,
+      "en": "If, for example, you have a date and you don't go.",
+      "zh": "例如，如果您有约会并且您不去。"
+    },
+    {
+      "id": 59,
+      "start": 186.45,
+      "end": 193.47,
+      "en": "Okay, so let's say you and I were supposed to have dinner together and you just didn't come and didn't call.",
+      "zh": "好吧，假设你和我应该一起吃晚饭，而你只是没有来，也没有打电话。"
+    },
+    {
+      "id": 60,
+      "start": 193.87,
+      "end": 195.61,
+      "en": "Right, so I stood you up.",
+      "zh": "对，所以我让你站起来。"
+    },
+    {
+      "id": 61,
+      "start": 196.33,
+      "end": 196.59,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 62,
+      "start": 196.93,
+      "end": 197.75,
+      "en": "Stand someone up.",
+      "zh": "让某人站起来。"
+    },
+    {
+      "id": 63,
+      "start": 198.01,
+      "end": 199.89,
+      "en": "Our next word, priorities.",
+      "zh": "我们的下一个词，优先事项。"
+    },
+    {
+      "id": 64,
+      "start": 200.16,
+      "end": 201.16,
+      "en": "Priorities.",
+      "zh": "优先事项。"
+    },
+    {
+      "id": 65,
+      "start": 201.56,
+      "end": 202.1,
+      "en": "Priorities.",
+      "zh": "优先事项。"
+    },
+    {
+      "id": 66,
+      "start": 203.38,
+      "end": 206.44,
+      "en": "So, priorities are something that's really important in your life.",
+      "zh": "因此，优先事项在您的生活中非常重要。"
+    },
+    {
+      "id": 67,
+      "start": 206.82,
+      "end": 212.7,
+      "en": "That's right, like family or maybe work or making a lot of money or whatever it is.",
+      "zh": "没错，比如家人，或者工作或赚很多钱或其他任何东西。"
+    },
+    {
+      "id": 68,
+      "start": 212.8,
+      "end": 214.66,
+      "en": "What are your priorities in life, right?",
+      "zh": "你在生活中的优先事项是什么，对吧？"
+    },
+    {
+      "id": 69,
+      "start": 215.44,
+      "end": 216.44,
+      "en": "Right, yeah.",
+      "zh": "对，是啊。"
+    },
+    {
+      "id": 70,
+      "start": 216.44,
+      "end": 217.44,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 71,
+      "start": 217.44,
+      "end": 219.96,
+      "en": "And our last word for Language Takeaway, heading.",
+      "zh": "以及我们的语言外卖的最后一个词，标题。"
+    },
+    {
+      "id": 72,
+      "start": 219.96,
+      "end": 220.96,
+      "en": "Heading.",
+      "zh": "走向。"
+    },
+    {
+      "id": 73,
+      "start": 220.96,
+      "end": 221.14,
+      "en": "Heading.",
+      "zh": "走向。"
+    },
+    {
+      "id": 74,
+      "start": 221.96,
+      "end": 222.96,
+      "en": "Heading.",
+      "zh": "走向。"
+    },
+    {
+      "id": 75,
+      "start": 222.96,
+      "end": 224.54,
+      "en": "This is a bit of a funny verb.",
+      "zh": "这是一个有趣的动词。"
+    },
+    {
+      "id": 76,
+      "start": 225.2,
+      "end": 230.06,
+      "en": "So let's listen to a couple of examples of how it's used so we can understand its meaning.",
+      "zh": "所以让我们听听几个例子，说明它是如何使用的，这样我们就可以理解它的含义。"
+    },
+    {
+      "id": 77,
+      "start": 232.44,
+      "end": 232.7,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 78,
+      "start": 235.72,
+      "end": 238.04,
+      "en": "I don't know where our relationship is heading.",
+      "zh": "我不知道我们的关系将走向何方。"
+    },
+    {
+      "id": 79,
+      "start": 242.8,
+      "end": 246.16,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 80,
+      "start": 246.16,
+      "end": 246.75,
+      "en": "Where's this bus heading?",
+      "zh": "这辆公共汽车去哪儿了？"
+    },
+    {
+      "id": 81,
+      "start": 250.8,
+      "end": 251.13,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 82,
+      "start": 254.04,
+      "end": 258.24,
+      "en": "Where's this project heading?",
+      "zh": "这个项目走向何方？"
+    },
+    {
+      "id": 83,
+      "start": 258.24,
+      "end": 259.61,
+      "en": "So basically heading means going.",
+      "zh": "所以基本上标题意味着去。"
+    },
+    {
+      "id": 84,
+      "start": 260.32,
+      "end": 260.61,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 85,
+      "start": 261.32,
+      "end": 263.16,
+      "en": "A heading is where you're going.",
+      "zh": "标题是你要去的地方。"
+    },
+    {
+      "id": 86,
+      "start": 263.16,
+      "end": 264.16,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 87,
+      "start": 264.16,
+      "end": 264.97,
+      "en": "Okay, easy word and interesting.",
+      "zh": "好吧，简单的词和有趣。"
+    },
+    {
+      "id": 88,
+      "start": 266.44,
+      "end": 269.45,
+      "en": "Okay so now it's time for us to listen to the dialogue a second time.",
+      "zh": "好的，现在是我们第二次听对话的时候了。"
+    },
+    {
+      "id": 89,
+      "start": 269.92,
+      "end": 272.91,
+      "en": "It's going to be slower so now we can understand the words that we just talked about.",
+      "zh": "它会更慢，所以现在我们可以理解我们刚刚谈到的单词。"
+    },
+    {
+      "id": 90,
+      "start": 277.56,
+      "end": 283.52,
+      "en": "Stephen, where have you been?",
+      "zh": "斯蒂芬，你去哪儿了？"
+    },
+    {
+      "id": 91,
+      "start": 283.52,
+      "end": 286.37,
+      "en": "I've been trying to get a hold of you for hours.",
+      "zh": "我找你好几个小时了。"
+    },
+    {
+      "id": 92,
+      "start": 290.16,
+      "end": 292.52,
+      "en": "There was an emergency at work so...",
+      "zh": "工作中有紧急情况，所以..."
+    },
+    {
+      "id": 93,
+      "start": 292.53,
+      "end": 298.59,
+      "en": "I was waiting for you in the restaurant for three hours and you didn't even have the decency to call me.",
+      "zh": "我在餐厅等了你三个小时，你甚至没有正派给我打电话。"
+    },
+    {
+      "id": 94,
+      "start": 298.91,
+      "end": 302.13,
+      "en": "Do you have any idea how embarrassed I was?",
+      "zh": "你知道我有多尴尬吗？"
+    },
+    {
+      "id": 95,
+      "start": 303.15,
+      "end": 305.73,
+      "en": "Honey, I promise this won't happen again.",
+      "zh": "亲爱的，我保证这不会再发生了。"
+    },
+    {
+      "id": 96,
+      "start": 306.84,
+      "end": 307.67,
+      "en": "It's just that I...",
+      "zh": "只是我……"
+    },
+    {
+      "id": 97,
+      "start": 307.84,
+      "end": 308.11,
+      "en": "Yeah, right.",
+      "zh": "是啊，可不是嘛。"
+    },
+    {
+      "id": 98,
+      "start": 308.84,
+      "end": 309.73,
+      "en": "I've heard it all before.",
+      "zh": "这些话我早就听过了。"
+    },
+    {
+      "id": 99,
+      "start": 310.6,
+      "end": 314.25,
+      "en": "I'm not going to take any more of your empty promises.",
+      "zh": "我不会再接受你的空洞承诺了。"
+    },
+    {
+      "id": 100,
+      "start": 315.01,
+      "end": 319.29,
+      "en": "This is the fifth time you've stood me up in two weeks.",
+      "zh": "这是你在两周内第五次让我站起来。"
+    },
+    {
+      "id": 101,
+      "start": 320.72,
+      "end": 322.48,
+      "en": "You need to get your priorities straight.",
+      "zh": "你得分清什么更重要。"
+    },
+    {
+      "id": 102,
+      "start": 323.72,
+      "end": 327.5,
+      "en": "I'm tired of you putting your job first all the time.",
+      "zh": "我厌倦了你一直把工作放在首位。"
+    },
+    {
+      "id": 103,
+      "start": 328.14,
+      "end": 330.36,
+      "en": "Come on, Veronica, that's not fair.",
+      "zh": "来吧，维罗妮卡，这不公平。"
+    },
+    {
+      "id": 104,
+      "start": 331.02,
+      "end": 333.16,
+      "en": "I do care about you a lot.",
+      "zh": "我真的很在乎你。"
+    },
+    {
+      "id": 105,
+      "start": 333.96,
+      "end": 335.12,
+      "en": "You know that.",
+      "zh": "你知道的。"
+    },
+    {
+      "id": 106,
+      "start": 335.12,
+      "end": 335.72,
+      "en": "I tried.",
+      "zh": "我试过了。"
+    },
+    {
+      "id": 107,
+      "start": 336.64,
+      "end": 337.34,
+      "en": "You know what?",
+      "zh": "你知道吗？"
+    },
+    {
+      "id": 108,
+      "start": 338.92,
+      "end": 341.0,
+      "en": "Maybe we should just take a break.",
+      "zh": "或许我们该暂时分开一阵。"
+    },
+    {
+      "id": 109,
+      "start": 342.12,
+      "end": 346.53,
+      "en": "I need some time to think about where this relationship is heading.",
+      "zh": "我需要时间想想我们的关系要怎么走下去。"
+    },
+    {
+      "id": 110,
+      "start": 347.23,
+      "end": 350.61,
+      "en": "But Veronica, would you just listen to me?",
+      "zh": "但是维罗妮卡，你会听我的吗？"
+    },
+    {
+      "id": 111,
+      "start": 351.17,
+      "end": 355.53,
+      "en": "There was a fire alarm at my office building today and I was stuck...",
+      "zh": "今天我的办公楼里有火警，我被卡住了……"
+    },
+    {
+      "id": 112,
+      "start": 360.04,
+      "end": 362.58,
+      "en": "Okay now we saw some interesting phrases in dialogue.",
+      "zh": "好的，现在我们在对话中看到了一些有趣的短语。"
+    },
+    {
+      "id": 113,
+      "start": 363.02,
+      "end": 367.12,
+      "en": "Yeah, we saw some great phrases that people use when they're getting in a fight.",
+      "zh": "是的，我们看到了人们在打架时使用的一些很棒的短语。"
+    },
+    {
+      "id": 114,
+      "start": 368.42,
+      "end": 370.92,
+      "en": "Why don't we take a look at some of them in Fluency Builder?",
+      "zh": "我们为什么不看看 Fluency Builder 中的一些呢？"
+    },
+    {
+      "id": 115,
+      "start": 372.04,
+      "end": 372.84,
+      "en": "Fluency Builder.",
+      "zh": "流利表达。"
+    },
+    {
+      "id": 116,
+      "start": 373.54,
+      "end": 378.18,
+      "en": "The first phrase that I want to take a look at today is, do you have any idea?",
+      "zh": "我今天想看的第一个短语是，你有什么想法吗？"
+    },
+    {
+      "id": 117,
+      "start": 378.5,
+      "end": 379.52,
+      "en": "Do you have any idea?",
+      "zh": "你有什么想法吗？"
+    },
+    {
+      "id": 118,
+      "start": 380.08,
+      "end": 381.34,
+      "en": "Do you have any idea?",
+      "zh": "你有什么想法吗？"
+    },
+    {
+      "id": 119,
+      "start": 381.84,
+      "end": 384.2,
+      "en": "This is a great way to set up an argument.",
+      "zh": "这是建立争论的好方法。"
+    },
+    {
+      "id": 120,
+      "start": 385.08,
+      "end": 389.46,
+      "en": "So let's listen to some examples of how you would set up an argument using this phrase.",
+      "zh": "因此，让我们听听一些示例，说明您将如何使用此短语设置参数。"
+    },
+    {
+      "id": 121,
+      "start": 391.04,
+      "end": 394.04,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 122,
+      "start": 394.04,
+      "end": 394.71,
+      "en": "You forgot my birthday.",
+      "zh": "你忘了我的生日。"
+    },
+    {
+      "id": 123,
+      "start": 395.63,
+      "end": 397.49,
+      "en": "Do you have any idea how angry I am?",
+      "zh": "你知道我有多生气吗？"
+    },
+    {
+      "id": 124,
+      "start": 400.92,
+      "end": 403.92,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 125,
+      "start": 403.92,
+      "end": 405.11,
+      "en": "Julie kissed my boyfriend.",
+      "zh": "朱莉吻了我男朋友。"
+    },
+    {
+      "id": 126,
+      "start": 405.75,
+      "end": 408.73,
+      "en": "Does she have any idea how mean that was?",
+      "zh": "她知道那是多么卑鄙吗？"
+    },
+    {
+      "id": 127,
+      "start": 413.08,
+      "end": 416.56,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 128,
+      "start": 416.56,
+      "end": 418.09,
+      "en": "I just broke up with my boyfriend.",
+      "zh": "我刚和男朋友分手。"
+    },
+    {
+      "id": 129,
+      "start": 419.12,
+      "end": 421.57,
+      "en": "Don't you have any idea how sad I am?",
+      "zh": "你不知道我有多难过吗？"
+    },
+    {
+      "id": 130,
+      "start": 424.24,
+      "end": 428.69,
+      "en": "So it's a great phrase to make that person understand that you were really worried or really angry.",
+      "zh": "所以这是一个很好的短语，让那个人明白你真的很担心或真的很生气。"
+    },
+    {
+      "id": 131,
+      "start": 429.08,
+      "end": 430.08,
+      "en": "Really angry.",
+      "zh": "真的很生气。"
+    },
+    {
+      "id": 132,
+      "start": 430.08,
+      "end": 431.08,
+      "en": "Yeah, yeah.",
+      "zh": "对，对。"
+    },
+    {
+      "id": 133,
+      "start": 431.08,
+      "end": 432.08,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 134,
+      "start": 432.08,
+      "end": 435.2,
+      "en": "And now the second phrase that we can take a look at is, I've heard it all before.",
+      "zh": "现在我们可以看的第二个短语是，我以前都听过。"
+    },
+    {
+      "id": 135,
+      "start": 435.26,
+      "end": 436.42,
+      "en": "I've heard it all before.",
+      "zh": "这些话我早就听过了。"
+    },
+    {
+      "id": 136,
+      "start": 436.85,
+      "end": 438.11,
+      "en": "I've heard it all before.",
+      "zh": "这些话我早就听过了。"
+    },
+    {
+      "id": 137,
+      "start": 438.48,
+      "end": 439.82,
+      "en": "I've heard it all before.",
+      "zh": "这些话我早就听过了。"
+    },
+    {
+      "id": 138,
+      "start": 440.38,
+      "end": 443.63,
+      "en": "So this is a great phrase of just saying, you don't have to give me an excuse.",
+      "zh": "所以这是一个很好的短语，你不必给我一个借口。"
+    },
+    {
+      "id": 139,
+      "start": 443.96,
+      "end": 444.95,
+      "en": "I know what you're going to say.",
+      "zh": "我知道你要说什么。"
+    },
+    {
+      "id": 140,
+      "start": 445.72,
+      "end": 446.72,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 141,
+      "start": 446.72,
+      "end": 448.58,
+      "en": "And our last phrase today, take a break.",
+      "zh": "而我们今天的最后一句话，休息一下。"
+    },
+    {
+      "id": 142,
+      "start": 449.32,
+      "end": 449.76,
+      "en": "Take a break.",
+      "zh": "休息一下。"
+    },
+    {
+      "id": 143,
+      "start": 450.48,
+      "end": 451.1,
+      "en": "Take a break.",
+      "zh": "休息一下。"
+    },
+    {
+      "id": 144,
+      "start": 451.78,
+      "end": 457.52,
+      "en": "So when a couple takes a break, they sort of stop their relationship, right?",
+      "zh": "所以当一对夫妇休息时，他们会停止他们的关系，对吧？"
+    },
+    {
+      "id": 145,
+      "start": 457.76,
+      "end": 458.4,
+      "en": "They're breaking up.",
+      "zh": "他们分手了。"
+    },
+    {
+      "id": 146,
+      "start": 458.62,
+      "end": 458.78,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 147,
+      "start": 458.9,
+      "end": 460.52,
+      "en": "But is it really like forever?",
+      "zh": "但它真的像永远一样吗？"
+    },
+    {
+      "id": 148,
+      "start": 461.18,
+      "end": 462.7,
+      "en": "Like a breakup that lasts forever?",
+      "zh": "就像永远持续的分手？"
+    },
+    {
+      "id": 149,
+      "start": 463.12,
+      "end": 464.76,
+      "en": "Not, well, maybe.",
+      "zh": "不是，好吧，也许吧。"
+    },
+    {
+      "id": 150,
+      "start": 464.76,
+      "end": 471.68,
+      "en": "It could be forever, but they're saying, let's just take some time away from each other for a couple of days or weeks.",
+      "zh": "这可能是永远的，但他们说，让我们花一些时间彼此相隔几天或几周。"
+    },
+    {
+      "id": 151,
+      "start": 471.68,
+      "end": 472.68,
+      "en": "Yeah, yeah.",
+      "zh": "对，对。"
+    },
+    {
+      "id": 152,
+      "start": 472.68,
+      "end": 473.68,
+      "en": "And see what happens.",
+      "zh": "看看会发生什么。"
+    },
+    {
+      "id": 153,
+      "start": 473.68,
+      "end": 474.68,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 154,
+      "start": 474.68,
+      "end": 475.06,
+      "en": "Take a break.",
+      "zh": "休息一下。"
+    },
+    {
+      "id": 155,
+      "start": 475.68,
+      "end": 476.68,
+      "en": "Take a break.",
+      "zh": "休息一下。"
+    },
+    {
+      "id": 156,
+      "start": 476.68,
+      "end": 477.68,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 157,
+      "start": 477.68,
+      "end": 479.44,
+      "en": "So our happy couple is going to take a break.",
+      "zh": "所以我们幸福的夫妻要休息一下。"
+    },
+    {
+      "id": 158,
+      "start": 479.44,
+      "end": 481.76,
+      "en": "Well, I guess they're not that happy then, hey?",
+      "zh": "好吧，我猜他们当时没那么开心，嘿？"
+    },
+    {
+      "id": 159,
+      "start": 482.64,
+      "end": 482.76,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 160,
+      "start": 483.28,
+      "end": 487.26,
+      "en": "So let's listen to their dialogue again, and then we'll come back and talk some more.",
+      "zh": "所以让我们再听一次他们的对话，然后我们会回来再谈谈。"
+    },
+    {
+      "id": 161,
+      "start": 488.76,
+      "end": 491.76,
+      "en": "Stephen, where have you been?",
+      "zh": "斯蒂芬，你去哪儿了？"
+    },
+    {
+      "id": 162,
+      "start": 491.76,
+      "end": 501.76,
+      "en": "I've been trying to get a hold of you for hours.",
+      "zh": "我找你好几个小时了。"
+    },
+    {
+      "id": 163,
+      "start": 501.76,
+      "end": 504.76,
+      "en": "I, uh, there was an emergency at work, so...",
+      "zh": "我……公司出了点急事，所以……"
+    },
+    {
+      "id": 164,
+      "start": 504.76,
+      "end": 510.76,
+      "en": "I was waiting for you in the restaurant for three hours, and you didn't even have the decency to call me.",
+      "zh": "我在餐厅等了你三个小时，你连个电话都不打。"
+    },
+    {
+      "id": 165,
+      "start": 510.76,
+      "end": 513.76,
+      "en": "Do you have any idea how embarrassed I was?",
+      "zh": "你知道我有多尴尬吗？"
+    },
+    {
+      "id": 166,
+      "start": 513.99,
+      "end": 516.63,
+      "en": "Honey, I promise this won't happen again.",
+      "zh": "亲爱的，我保证这不会再发生了。"
+    },
+    {
+      "id": 167,
+      "start": 517.21,
+      "end": 517.95,
+      "en": "It's just that I...",
+      "zh": "只是我……"
+    },
+    {
+      "id": 168,
+      "start": 517.95,
+      "end": 518.35,
+      "en": "Yeah, right.",
+      "zh": "是啊，说得好听。"
+    },
+    {
+      "id": 169,
+      "start": 518.91,
+      "end": 519.97,
+      "en": "I've heard it all before.",
+      "zh": "这些话我早就听过了。"
+    },
+    {
+      "id": 170,
+      "start": 520.65,
+      "end": 523.13,
+      "en": "I'm not going to take any more of your empty promises.",
+      "zh": "我不会再接受你的空洞承诺了。"
+    },
+    {
+      "id": 171,
+      "start": 523.85,
+      "end": 526.77,
+      "en": "This is the fifth time you stood me up in two weeks.",
+      "zh": "两周里你已经放我五次鸽子了。"
+    },
+    {
+      "id": 172,
+      "start": 527.45,
+      "end": 529.07,
+      "en": "You need to get your priorities straight.",
+      "zh": "你得分清什么更重要。"
+    },
+    {
+      "id": 173,
+      "start": 529.85,
+      "end": 532.11,
+      "en": "I'm tired of you putting your job first all the time.",
+      "zh": "我厌倦了你一直把工作放在首位。"
+    },
+    {
+      "id": 174,
+      "start": 532.94,
+      "end": 533.68,
+      "en": "Come on, Veronica.",
+      "zh": "拜托，维罗妮卡。"
+    },
+    {
+      "id": 175,
+      "start": 534.26,
+      "end": 534.84,
+      "en": "That's not fair.",
+      "zh": "这不公平。"
+    },
+    {
+      "id": 176,
+      "start": 535.68,
+      "end": 536.88,
+      "en": "I do care about you a lot.",
+      "zh": "我真的很在乎你。"
+    },
+    {
+      "id": 177,
+      "start": 537.04,
+      "end": 537.46,
+      "en": "You know that.",
+      "zh": "你知道的。"
+    },
+    {
+      "id": 178,
+      "start": 537.76,
+      "end": 538.88,
+      "en": "I try to...",
+      "zh": "我尽量……"
+    },
+    {
+      "id": 179,
+      "start": 538.94,
+      "end": 539.12,
+      "en": "You know what?",
+      "zh": "这样吧。"
+    },
+    {
+      "id": 180,
+      "start": 539.66,
+      "end": 541.1,
+      "en": "Maybe we should just take a break.",
+      "zh": "或许我们该暂时分开一阵。"
+    },
+    {
+      "id": 181,
+      "start": 541.74,
+      "end": 544.5,
+      "en": "I need some time to think about where this relationship is heading.",
+      "zh": "我需要时间想想我们的关系要怎么走下去。"
+    },
+    {
+      "id": 182,
+      "start": 545.02,
+      "end": 546.86,
+      "en": "But, Veronica, would you listen to me?",
+      "zh": "可是维罗妮卡，你能听我解释吗？"
+    },
+    {
+      "id": 183,
+      "start": 547.36,
+      "end": 550.28,
+      "en": "There was a fire alarm at my office building today, and I was...",
+      "zh": "今天办公楼响了火警警报，我当时……"
+    },
+    {
+      "id": 184,
+      "start": 557.1,
+      "end": 562.78,
+      "en": "So, Marco, this phrase, to take a break, really reminds me of a Friends episode.",
+      "zh": "所以，马可，这句话，休息一下，真的让我想起了朋友的一集。"
+    },
+    {
+      "id": 185,
+      "start": 563.2,
+      "end": 567.46,
+      "en": "Yeah, that really famous Friends episode when Ross and Rachel were on a break.",
+      "zh": "是的，当罗斯和瑞秋正在休息时，那一集非常有名的朋友。"
+    },
+    {
+      "id": 186,
+      "start": 567.76,
+      "end": 570.76,
+      "en": "And Ross, like, went with another girl, right?",
+      "zh": "罗斯和另一个女孩一起去了，对吧？"
+    },
+    {
+      "id": 187,
+      "start": 570.76,
+      "end": 572.76,
+      "en": "Yeah, and then they definitely broke up after that.",
+      "zh": "是的，然后他们肯定在那之后分手了。"
+    },
+    {
+      "id": 188,
+      "start": 573.34,
+      "end": 573.52,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 189,
+      "start": 574.2,
+      "end": 576.32,
+      "en": "So that's one of the key issues, right?",
+      "zh": "所以这是关键问题之一，对吧？"
+    },
+    {
+      "id": 190,
+      "start": 576.54,
+      "end": 579.66,
+      "en": "If you're taking a break, can you start to date someone else?",
+      "zh": "如果你要休息，你可以开始和别人约会吗？"
+    },
+    {
+      "id": 191,
+      "start": 580.36,
+      "end": 581.56,
+      "en": "I've got to agree with Rachel.",
+      "zh": "我必须同意雷切尔的观点。"
+    },
+    {
+      "id": 192,
+      "start": 581.88,
+      "end": 582.26,
+      "en": "Really?",
+      "zh": "真的吗？"
+    },
+    {
+      "id": 193,
+      "start": 582.66,
+      "end": 582.82,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 194,
+      "start": 583.08,
+      "end": 583.88,
+      "en": "No, you can't.",
+      "zh": "不，你不能。"
+    },
+    {
+      "id": 195,
+      "start": 583.98,
+      "end": 584.52,
+      "en": "You can't?",
+      "zh": "你不能？"
+    },
+    {
+      "id": 196,
+      "start": 584.79,
+      "end": 586.35,
+      "en": "So what's the point of taking a break?",
+      "zh": "那么休息的意义何在？"
+    },
+    {
+      "id": 197,
+      "start": 586.77,
+      "end": 587.76,
+      "en": "You need some time away.",
+      "zh": "你需要一些时间。"
+    },
+    {
+      "id": 198,
+      "start": 587.76,
+      "end": 589.35,
+      "en": "You need some time to think.",
+      "zh": "你需要一些时间来思考。"
+    },
+    {
+      "id": 199,
+      "start": 589.76,
+      "end": 591.29,
+      "en": "But you're not really broken up.",
+      "zh": "但你并没有真正分手。"
+    },
+    {
+      "id": 200,
+      "start": 591.71,
+      "end": 592.05,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 201,
+      "start": 593.13,
+      "end": 593.81,
+      "en": "That's convenient.",
+      "zh": "这倒方便。"
+    },
+    {
+      "id": 202,
+      "start": 594.47,
+      "end": 595.09,
+      "en": "I don't know.",
+      "zh": "我不知道。"
+    },
+    {
+      "id": 203,
+      "start": 595.57,
+      "end": 596.21,
+      "en": "They were on a break.",
+      "zh": "他们正在休息。"
+    },
+    {
+      "id": 204,
+      "start": 596.37,
+      "end": 596.97,
+      "en": "I agree with Ross.",
+      "zh": "我同意罗斯的观点。"
+    },
+    {
+      "id": 205,
+      "start": 597.33,
+      "end": 598.73,
+      "en": "Well, you would, wouldn't you?",
+      "zh": "好吧，你会的，不是吗？"
+    },
+    {
+      "id": 206,
+      "start": 599.33,
+      "end": 599.76,
+      "en": "All right, guys.",
+      "zh": "好了，各位。"
+    },
+    {
+      "id": 207,
+      "start": 600.49,
+      "end": 601.15,
+      "en": "We're out of time today.",
+      "zh": "我们今天没时间了。"
+    },
+    {
+      "id": 208,
+      "start": 601.29,
+      "end": 607.11,
+      "en": "I hope you enjoyed our lesson, and be sure to listen next time because we will definitely have a part four of this.",
+      "zh": "我希望你喜欢我们的课程，一定要下次听，因为我们肯定会有第四部分。"
+    },
+    {
+      "id": 209,
+      "start": 607.57,
+      "end": 607.83,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 210,
+      "start": 608.09,
+      "end": 608.59,
+      "en": "Coming out soon.",
+      "zh": "很快出来。"
+    },
+    {
+      "id": 211,
+      "start": 608.76,
+      "end": 609.76,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 212,
+      "start": 609.76,
+      "end": 613.55,
+      "en": "And also come to our website at EnglishPod.com and leave all your questions and comments.",
+      "zh": "也可以访问我们的网站 englishpod.com 并留下您的所有问题和意见。"
+    },
+    {
+      "id": 213,
+      "start": 613.76,
+      "end": 617.76,
+      "en": "Yeah, Marco and I are always happy to hear from you, and we love answering your questions.",
+      "zh": "是的，Marco 和我总是很高兴收到您的来信，我们喜欢回答您的问题。"
+    },
+    {
+      "id": 214,
+      "start": 618.71,
+      "end": 621.76,
+      "en": "Right, and maybe you can tell us what you think happens in the fourth part.",
+      "zh": "对，也许你可以告诉我们你认为第四部分会发生什么。"
+    },
+    {
+      "id": 215,
+      "start": 622.19,
+      "end": 622.33,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 216,
+      "start": 622.87,
+      "end": 623.13,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 217,
+      "start": 623.69,
+      "end": 624.76,
+      "en": "Well, until then, it's...",
+      "zh": "好吧，在那之前，它是..."
+    },
+    {
+      "id": 218,
+      "start": 624.77,
+      "end": 625.03,
+      "en": "Goodbye.",
+      "zh": "再见。"
+    },
+    {
+      "id": 219,
+      "start": 625.76,
+      "end": 626.76,
+      "en": "Bye.",
+      "zh": "再见。"
+    },
+    {
+      "id": 220,
+      "start": 626.76,
+      "end": 627.76,
+      "en": "Bye.",
+      "zh": "再见。"
+    },
+    {
+      "id": 221,
+      "start": 627.76,
+      "end": 628.76,
+      "en": "Bye.",
+      "zh": "再见。"
+    },
+    {
+      "id": 222,
+      "start": 628.76,
+      "end": 633.417,
+      "en": "Bye.",
+      "zh": "再见。"
+    }
+  ],
+  "dialog": {
+    "start": 488.76,
+    "end": 550.28,
+    "segmentIds": [
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180,
+      181,
+      182,
+      183
+    ]
+  }
+}

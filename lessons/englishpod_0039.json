@@ -1,0 +1,2178 @@
+{
+  "version": 1,
+  "id": 39,
+  "number": "0039",
+  "title": "Daily Life - My New Boyfriend",
+  "audio": "mp3/39. Daily Life - My New Boyfriend.mp3",
+  "duration": 683.3633125,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.91,
+      "end": 1.73,
+      "en": "Hello, everyone.",
+      "zh": "大家好。"
+    },
+    {
+      "id": 2,
+      "start": 2.08,
+      "end": 3.49,
+      "en": "Welcome back to EnglishPod.",
+      "zh": "欢迎回到 EnglishPod。"
+    },
+    {
+      "id": 3,
+      "start": 3.76,
+      "end": 4.27,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 4,
+      "start": 4.55,
+      "end": 5.15,
+      "en": "And I'm Erica.",
+      "zh": "我叫 Erica。"
+    },
+    {
+      "id": 5,
+      "start": 5.67,
+      "end": 9.41,
+      "en": "And we're bringing you another great elementary lesson for all those elementary learners.",
+      "zh": "我们为所有这些小学学习者带来了另一个很棒的小学课程。"
+    },
+    {
+      "id": 6,
+      "start": 9.93,
+      "end": 14.81,
+      "en": "In today's lesson, we've got some excellent language that will help you to describe someone's appearance.",
+      "zh": "在今天的课程中，我们有一些出色的语言可以帮助您描述某人的外表。"
+    },
+    {
+      "id": 7,
+      "start": 15.39,
+      "end": 18.97,
+      "en": "It's something that everyone has learned before in school, describing people.",
+      "zh": "这是每个人在学校之前学到的东西，描述人。"
+    },
+    {
+      "id": 8,
+      "start": 19.47,
+      "end": 21.99,
+      "en": "So we're going to review that and give you some better phrases.",
+      "zh": "所以我们将回顾一下并给你一些更好的短语。"
+    },
+    {
+      "id": 9,
+      "start": 22.52,
+      "end": 24.28,
+      "en": "Some real English phrases.",
+      "zh": "一些真正的英语短语。"
+    },
+    {
+      "id": 10,
+      "start": 24.28,
+      "end": 24.79,
+      "en": "Real English phrases.",
+      "zh": "真正的英语短语。"
+    },
+    {
+      "id": 11,
+      "start": 25.28,
+      "end": 26.28,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 12,
+      "start": 26.28,
+      "end": 27.28,
+      "en": "Okay, great.",
+      "zh": "好，太好了。"
+    },
+    {
+      "id": 13,
+      "start": 27.28,
+      "end": 38.52,
+      "en": "So let's listen to our dialogue for the first time, and then we'll come back and talk about it.",
+      "zh": "所以让我们第一次听我们的对话，然后我们会回来谈论它。"
+    },
+    {
+      "id": 14,
+      "start": 38.52,
+      "end": 39.98,
+      "en": "I heard you were on a date last night.",
+      "zh": "我听说你昨晚在约会。"
+    },
+    {
+      "id": 15,
+      "start": 40.48,
+      "end": 41.1,
+      "en": "So how did it go?",
+      "zh": "那约会怎么样？"
+    },
+    {
+      "id": 16,
+      "start": 41.48,
+      "end": 43.68,
+      "en": "I want all the juicy details.",
+      "zh": "快把精彩细节都告诉我。"
+    },
+    {
+      "id": 17,
+      "start": 43.68,
+      "end": 48.74,
+      "en": "Um, well, actually, we had a fantastic time last night.",
+      "zh": "嗯，实际上，我们昨晚玩得很开心。"
+    },
+    {
+      "id": 18,
+      "start": 49.48,
+      "end": 50.57,
+      "en": "He was amazing.",
+      "zh": "他太出色了。"
+    },
+    {
+      "id": 19,
+      "start": 51.41,
+      "end": 53.91,
+      "en": "Okay, now you really have to fill me in.",
+      "zh": "好，现在你可得好好跟我说说他。"
+    },
+    {
+      "id": 20,
+      "start": 54.21,
+      "end": 54.77,
+      "en": "What's he like?",
+      "zh": "他是个什么样的人？"
+    },
+    {
+      "id": 21,
+      "start": 55.35,
+      "end": 56.39,
+      "en": "He's really good looking.",
+      "zh": "他长得很帅。"
+    },
+    {
+      "id": 22,
+      "start": 57.08,
+      "end": 59.56,
+      "en": "He's quite tall, around 6'1\".",
+      "zh": "他挺高的，大约六英尺一英寸。"
+    },
+    {
+      "id": 23,
+      "start": 59.56,
+      "end": 63.43,
+      "en": "He's in his early 30s, and he's got the most beautiful dark brown eyes.",
+      "zh": "他已经 30 岁出头了，他有最美丽的深棕色眼睛。"
+    },
+    {
+      "id": 24,
+      "start": 65.24,
+      "end": 66.07,
+      "en": "He sounds hot.",
+      "zh": "听起来他很帅。"
+    },
+    {
+      "id": 25,
+      "start": 66.84,
+      "end": 67.71,
+      "en": "What does he do for a living?",
+      "zh": "他是做什么工作的？"
+    },
+    {
+      "id": 26,
+      "start": 68.26,
+      "end": 68.63,
+      "en": "You know what?",
+      "zh": "你猜怎么着？"
+    },
+    {
+      "id": 27,
+      "start": 69.46,
+      "end": 70.31,
+      "en": "This is the best part.",
+      "zh": "这是最好的部分。"
+    },
+    {
+      "id": 28,
+      "start": 71.28,
+      "end": 73.65,
+      "en": "David is a junior investment banker at Fortune Bank.",
+      "zh": "大卫在财富银行做初级投行职员。"
+    },
+    {
+      "id": 29,
+      "start": 74.21,
+      "end": 76.37,
+      "en": "So he's got a great career path ahead of him.",
+      "zh": "他的职业前景很不错。"
+    },
+    {
+      "id": 30,
+      "start": 77.19,
+      "end": 78.11,
+      "en": "Hold on a sec.",
+      "zh": "等一下。"
+    },
+    {
+      "id": 31,
+      "start": 78.35,
+      "end": 79.21,
+      "en": "His name is David?",
+      "zh": "他叫大卫？"
+    },
+    {
+      "id": 32,
+      "start": 79.57,
+      "end": 79.85,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 33,
+      "start": 80.51,
+      "end": 81.65,
+      "en": "That's my brother!",
+      "zh": "那是我亲兄弟！"
+    },
+    {
+      "id": 34,
+      "start": 91.06,
+      "end": 93.34,
+      "en": "All right, so interesting dialogue.",
+      "zh": "好吧，很有趣的对话。"
+    },
+    {
+      "id": 35,
+      "start": 93.88,
+      "end": 94.66,
+      "en": "Small world.",
+      "zh": "小世界。"
+    },
+    {
+      "id": 36,
+      "start": 95.1,
+      "end": 96.56,
+      "en": "It is a small world.",
+      "zh": "这是一个小世界。"
+    },
+    {
+      "id": 37,
+      "start": 96.84,
+      "end": 99.68,
+      "en": "I don't know how I would feel about dating my friend's brother.",
+      "zh": "我不知道和我朋友的兄弟约会我会有什么感觉。"
+    },
+    {
+      "id": 38,
+      "start": 99.98,
+      "end": 100.14,
+      "en": "Really?",
+      "zh": "真的吗？"
+    },
+    {
+      "id": 39,
+      "start": 100.7,
+      "end": 101.84,
+      "en": "No, I wouldn't feel good about it.",
+      "zh": "不，我不会觉得很好。"
+    },
+    {
+      "id": 40,
+      "start": 101.94,
+      "end": 102.06,
+      "en": "Why?",
+      "zh": "为什么？"
+    },
+    {
+      "id": 41,
+      "start": 102.52,
+      "end": 108.58,
+      "en": "Well, because if you break up with the brother, then like, that means you'll have to end the friendship with your best friend.",
+      "zh": "好吧，因为如果你和兄弟分手，那就意味着你必须结束与你最好的朋友的友谊。"
+    },
+    {
+      "id": 42,
+      "start": 110.4,
+      "end": 111.4,
+      "en": "Maybe.",
+      "zh": "也许吧。"
+    },
+    {
+      "id": 43,
+      "start": 111.4,
+      "end": 112.4,
+      "en": "Dangerous.",
+      "zh": "危险。"
+    },
+    {
+      "id": 44,
+      "start": 112.4,
+      "end": 113.4,
+      "en": "Girls are more complicated with that.",
+      "zh": "女孩对此更加复杂。"
+    },
+    {
+      "id": 45,
+      "start": 113.4,
+      "end": 116.0,
+      "en": "We guys, we're not that complicated.",
+      "zh": "我们伙计们，我们没有那么复杂。"
+    },
+    {
+      "id": 46,
+      "start": 116.02,
+      "end": 118.16,
+      "en": "Well, you know what?",
+      "zh": "嗯，你知道吗？"
+    },
+    {
+      "id": 47,
+      "start": 118.6,
+      "end": 120.98,
+      "en": "Let's look at the language before this gets too far.",
+      "zh": "让我们在这篇文章变得太远之前看看语言。"
+    },
+    {
+      "id": 48,
+      "start": 121.54,
+      "end": 122.4,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 49,
+      "start": 122.8,
+      "end": 124.0,
+      "en": "Let's take a look at Language Takeaway.",
+      "zh": "让我们看看语言外卖。"
+    },
+    {
+      "id": 50,
+      "start": 126.35,
+      "end": 127.23,
+      "en": "Language Takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 51,
+      "start": 129.48,
+      "end": 131.96,
+      "en": "On Language Takeaway today, we're bringing you three words.",
+      "zh": "在今天的语言外卖中，我们为您带来三个词。"
+    },
+    {
+      "id": 52,
+      "start": 131.96,
+      "end": 133.68,
+      "en": "The first one is heard.",
+      "zh": "第一个是听到的。"
+    },
+    {
+      "id": 53,
+      "start": 134.08,
+      "end": 135.08,
+      "en": "Heard.",
+      "zh": "听说过。"
+    },
+    {
+      "id": 54,
+      "start": 135.08,
+      "end": 136.08,
+      "en": "Heard.",
+      "zh": "听说过。"
+    },
+    {
+      "id": 55,
+      "start": 136.08,
+      "end": 137.08,
+      "en": "Heard.",
+      "zh": "听说过。"
+    },
+    {
+      "id": 56,
+      "start": 137.08,
+      "end": 138.23,
+      "en": "So you guys know this word.",
+      "zh": "所以你们知道这个词。"
+    },
+    {
+      "id": 57,
+      "start": 138.92,
+      "end": 140.52,
+      "en": "It's a substance of hear, right?",
+      "zh": "这是听觉的实质，对吧？"
+    },
+    {
+      "id": 58,
+      "start": 140.52,
+      "end": 141.52,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 59,
+      "start": 141.52,
+      "end": 142.45,
+      "en": "But the way it's used is quite interesting.",
+      "zh": "但它的使用方式非常有趣。"
+    },
+    {
+      "id": 60,
+      "start": 144.04,
+      "end": 146.67,
+      "en": "Let's listen to a couple of examples of how it's used.",
+      "zh": "让我们听听几个例子来说明它是如何使用的。"
+    },
+    {
+      "id": 61,
+      "start": 148.32,
+      "end": 150.04,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 62,
+      "start": 150.04,
+      "end": 157.28,
+      "en": "I heard you're dating a new guy.",
+      "zh": "听说你在和一个新人约会。"
+    },
+    {
+      "id": 63,
+      "start": 157.28,
+      "end": 160.28,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 64,
+      "start": 160.28,
+      "end": 166.44,
+      "en": "Julie told me she heard that you're pregnant.",
+      "zh": "朱莉告诉我她听说你怀孕了。"
+    },
+    {
+      "id": 65,
+      "start": 166.44,
+      "end": 166.89,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 66,
+      "start": 169.32,
+      "end": 170.23,
+      "en": "What you got fired?",
+      "zh": "你被解雇了什么？"
+    },
+    {
+      "id": 67,
+      "start": 170.84,
+      "end": 171.85,
+      "en": "I heard that you quit.",
+      "zh": "听说你辞职了。"
+    },
+    {
+      "id": 68,
+      "start": 175.04,
+      "end": 177.09,
+      "en": "So when you say for example, oh, I heard you were pregnant.",
+      "zh": "所以当你说，哦，我听说你怀孕了。"
+    },
+    {
+      "id": 69,
+      "start": 177.71,
+      "end": 177.89,
+      "en": "Whoa.",
+      "zh": "哇。"
+    },
+    {
+      "id": 70,
+      "start": 178.13,
+      "end": 183.45,
+      "en": "This is like telling someone that you found some information about them, but you're not sure if it's true or if it's false.",
+      "zh": "这就像告诉某人您找到了有关他们的一些信息，但您不确定它是真的还是假的。"
+    },
+    {
+      "id": 71,
+      "start": 184.44,
+      "end": 185.44,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 72,
+      "start": 185.44,
+      "end": 186.44,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 73,
+      "start": 186.44,
+      "end": 187.44,
+      "en": "Our next word, fill me in.",
+      "zh": "我们的下一个词，填写我。"
+    },
+    {
+      "id": 74,
+      "start": 187.44,
+      "end": 188.23,
+      "en": "Fill me in.",
+      "zh": "跟我说说情况。"
+    },
+    {
+      "id": 75,
+      "start": 188.55,
+      "end": 189.53,
+      "en": "Fill me in.",
+      "zh": "跟我说说情况。"
+    },
+    {
+      "id": 76,
+      "start": 189.67,
+      "end": 190.45,
+      "en": "Fill me in.",
+      "zh": "跟我说说情况。"
+    },
+    {
+      "id": 77,
+      "start": 190.81,
+      "end": 192.69,
+      "en": "So when you tell someone to fill you in.",
+      "zh": "所以当你告诉别人填写你的时候。"
+    },
+    {
+      "id": 78,
+      "start": 192.95,
+      "end": 194.37,
+      "en": "You're saying tell me about it.",
+      "zh": "你是说告诉我吧。"
+    },
+    {
+      "id": 79,
+      "start": 194.52,
+      "end": 195.52,
+      "en": "Tell me the details.",
+      "zh": "告诉我细节。"
+    },
+    {
+      "id": 80,
+      "start": 195.52,
+      "end": 198.48,
+      "en": "I could say, I'm sorry I was late for the meeting.",
+      "zh": "我可以说，对不起，我开会迟到了。"
+    },
+    {
+      "id": 81,
+      "start": 198.48,
+      "end": 199.73,
+      "en": "Can you fill me in on what happened?",
+      "zh": "你能告诉我发生了什么吗？"
+    },
+    {
+      "id": 82,
+      "start": 200.16,
+      "end": 201.16,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 83,
+      "start": 201.16,
+      "end": 204.51,
+      "en": "Or I could say, I missed the first five minutes of the movie.",
+      "zh": "或者我可以说，我错过了电影的前五分钟。"
+    },
+    {
+      "id": 84,
+      "start": 204.96,
+      "end": 205.27,
+      "en": "Fill me in.",
+      "zh": "跟我说说情况。"
+    },
+    {
+      "id": 85,
+      "start": 205.96,
+      "end": 206.96,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 86,
+      "start": 206.96,
+      "end": 207.96,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 87,
+      "start": 207.96,
+      "end": 208.96,
+      "en": "Great word.",
+      "zh": "伟大的词。"
+    },
+    {
+      "id": 88,
+      "start": 208.96,
+      "end": 211.24,
+      "en": "And our last phrase today, career path.",
+      "zh": "以及我们今天的最后一句话，职业道路。"
+    },
+    {
+      "id": 89,
+      "start": 211.24,
+      "end": 211.55,
+      "en": "Career path.",
+      "zh": "职业发展道路。"
+    },
+    {
+      "id": 90,
+      "start": 212.72,
+      "end": 213.01,
+      "en": "Career path.",
+      "zh": "职业发展道路。"
+    },
+    {
+      "id": 91,
+      "start": 213.72,
+      "end": 213.85,
+      "en": "Career path.",
+      "zh": "职业发展道路。"
+    },
+    {
+      "id": 92,
+      "start": 214.72,
+      "end": 215.68,
+      "en": "So what's a career path?",
+      "zh": "那么什么是职业道路？"
+    },
+    {
+      "id": 93,
+      "start": 216.64,
+      "end": 221.91,
+      "en": "I guess this is the plan for your job over several like 10 or 20 years.",
+      "zh": "我想这是你在 10 或 20 年内的工作计划。"
+    },
+    {
+      "id": 94,
+      "start": 222.64,
+      "end": 223.64,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 95,
+      "start": 223.64,
+      "end": 225.72,
+      "en": "So the jobs and things you do during your career.",
+      "zh": "所以你在职业生涯中所做的工作和事情。"
+    },
+    {
+      "id": 96,
+      "start": 225.85,
+      "end": 226.05,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 97,
+      "start": 226.27,
+      "end": 227.07,
+      "en": "That's your career path.",
+      "zh": "那是你的职业道路。"
+    },
+    {
+      "id": 98,
+      "start": 227.43,
+      "end": 236.51,
+      "en": "So in this case, David has a really good career path because he's going to be a really rich and powerful investment banker.",
+      "zh": "所以在这种情况下，大卫有一条非常好的职业道路，因为他将成为一个非常富有和强大的投资银行家。"
+    },
+    {
+      "id": 99,
+      "start": 236.87,
+      "end": 237.19,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 100,
+      "start": 238.8,
+      "end": 239.73,
+      "en": "So career path.",
+      "zh": "所以职业道路。"
+    },
+    {
+      "id": 101,
+      "start": 240.76,
+      "end": 240.99,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 102,
+      "start": 241.76,
+      "end": 249.59,
+      "en": "So now let's listen to our dialogue again and pay special attention to the language used to describe David because when we come back, we're going to talk about this.",
+      "zh": "所以现在让我们再次聆听我们的对话，并特别注意用于描述大卫的语言，因为当我们回来时，我们将谈论这个。"
+    },
+    {
+      "id": 103,
+      "start": 259.02,
+      "end": 262.32,
+      "en": "Irene, I heard you were on a date last night.",
+      "zh": "艾琳，我听说你昨晚在约会。"
+    },
+    {
+      "id": 104,
+      "start": 262.8,
+      "end": 263.78,
+      "en": "So how did it go?",
+      "zh": "那约会怎么样？"
+    },
+    {
+      "id": 105,
+      "start": 264.38,
+      "end": 266.2,
+      "en": "I want all the juicy details.",
+      "zh": "快把精彩细节都告诉我。"
+    },
+    {
+      "id": 106,
+      "start": 267.16,
+      "end": 272.84,
+      "en": "Um, well, actually we had a fantastic time last night.",
+      "zh": "嗯，其实我们昨晚玩得很开心。"
+    },
+    {
+      "id": 107,
+      "start": 273.56,
+      "end": 275.16,
+      "en": "He was amazing.",
+      "zh": "他太出色了。"
+    },
+    {
+      "id": 108,
+      "start": 276.11,
+      "end": 276.71,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 109,
+      "start": 277.31,
+      "end": 280.25,
+      "en": "Now you really have to fill me in.",
+      "zh": "现在你真的必须填写我。"
+    },
+    {
+      "id": 110,
+      "start": 280.75,
+      "end": 281.61,
+      "en": "What's he like?",
+      "zh": "他是个什么样的人？"
+    },
+    {
+      "id": 111,
+      "start": 282.31,
+      "end": 284.19,
+      "en": "He's really good looking.",
+      "zh": "他长得很帅。"
+    },
+    {
+      "id": 112,
+      "start": 285.16,
+      "end": 288.64,
+      "en": "He's quite tall, around 6'1\".",
+      "zh": "他挺高的，大约六英尺一英寸。"
+    },
+    {
+      "id": 113,
+      "start": 288.64,
+      "end": 293.87,
+      "en": "He's in his early 30s and he's got the most beautiful dark brown eyes.",
+      "zh": "他已经 30 岁出头了，他有最美丽的深棕色眼睛。"
+    },
+    {
+      "id": 114,
+      "start": 296.16,
+      "end": 297.27,
+      "en": "He sounds hot.",
+      "zh": "听起来他很帅。"
+    },
+    {
+      "id": 115,
+      "start": 298.36,
+      "end": 300.01,
+      "en": "What does he do for a living?",
+      "zh": "他是做什么工作的？"
+    },
+    {
+      "id": 116,
+      "start": 301.62,
+      "end": 304.19,
+      "en": "You know what, this is the best part.",
+      "zh": "你知道吗，这是最好的部分。"
+    },
+    {
+      "id": 117,
+      "start": 305.36,
+      "end": 308.98,
+      "en": "David is a junior investment banker at Fortune Bank.",
+      "zh": "大卫在财富银行做初级投行职员。"
+    },
+    {
+      "id": 118,
+      "start": 310.2,
+      "end": 312.96,
+      "en": "So he's got a great career path ahead of him.",
+      "zh": "他的职业前景很不错。"
+    },
+    {
+      "id": 119,
+      "start": 314.44,
+      "end": 316.08,
+      "en": "Hold on a sec.",
+      "zh": "等一下。"
+    },
+    {
+      "id": 120,
+      "start": 316.08,
+      "end": 317.39,
+      "en": "His name is David?",
+      "zh": "他叫大卫？"
+    },
+    {
+      "id": 121,
+      "start": 318.28,
+      "end": 318.55,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 122,
+      "start": 319.72,
+      "end": 320.59,
+      "en": "That's my brother.",
+      "zh": "那是我的兄弟。"
+    },
+    {
+      "id": 123,
+      "start": 330.04,
+      "end": 333.55,
+      "en": "So we found some really great words and phrases used to describe someone.",
+      "zh": "所以我们找到了一些非常棒的词和短语来描述某人。"
+    },
+    {
+      "id": 124,
+      "start": 333.92,
+      "end": 334.09,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 125,
+      "start": 334.92,
+      "end": 338.53,
+      "en": "There's a lot of language in here talking about the way someone looks.",
+      "zh": "这里有很多语言谈论某人的外表。"
+    },
+    {
+      "id": 126,
+      "start": 339.24,
+      "end": 342.48,
+      "en": "So let's listen again as Irene describes David.",
+      "zh": "所以让我们再听一次，就像艾琳描述大卫一样。"
+    },
+    {
+      "id": 127,
+      "start": 344.6,
+      "end": 345.91,
+      "en": "He's really good looking.",
+      "zh": "他长得很帅。"
+    },
+    {
+      "id": 128,
+      "start": 346.88,
+      "end": 350.36,
+      "en": "He's quite tall, around 6'1\".",
+      "zh": "他挺高的，大约六英尺一英寸。"
+    },
+    {
+      "id": 129,
+      "start": 350.36,
+      "end": 355.55,
+      "en": "He's in his early 30s and he's got the most beautiful dark brown eyes.",
+      "zh": "他已经 30 岁出头了，他有最美丽的深棕色眼睛。"
+    },
+    {
+      "id": 130,
+      "start": 360.28,
+      "end": 361.58,
+      "en": "He's really good looking.",
+      "zh": "他长得很帅。"
+    },
+    {
+      "id": 131,
+      "start": 362.56,
+      "end": 366.04,
+      "en": "He's quite tall, around 6'1\".",
+      "zh": "他挺高的，大约六英尺一英寸。"
+    },
+    {
+      "id": 132,
+      "start": 366.04,
+      "end": 371.3,
+      "en": "He's in his early 30s and he's got the most beautiful dark brown eyes.",
+      "zh": "他已经 30 岁出头了，他有最美丽的深棕色眼睛。"
+    },
+    {
+      "id": 133,
+      "start": 372.58,
+      "end": 373.14,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 134,
+      "start": 373.4,
+      "end": 374.46,
+      "en": "So let's break this down.",
+      "zh": "所以让我们分解一下。"
+    },
+    {
+      "id": 135,
+      "start": 375.04,
+      "end": 377.82,
+      "en": "The first thing she says is, he's really good looking.",
+      "zh": "她说的第一句话是，他真的很好看。"
+    },
+    {
+      "id": 136,
+      "start": 378.12,
+      "end": 378.72,
+      "en": "Good looking.",
+      "zh": "好看的。"
+    },
+    {
+      "id": 137,
+      "start": 379.3,
+      "end": 379.58,
+      "en": "Good looking.",
+      "zh": "好看的。"
+    },
+    {
+      "id": 138,
+      "start": 380.3,
+      "end": 381.3,
+      "en": "Good looking.",
+      "zh": "好看的。"
+    },
+    {
+      "id": 139,
+      "start": 381.3,
+      "end": 382.66,
+      "en": "So good looking is the equivalent of handsome.",
+      "zh": "所以好看就相当于帅气。"
+    },
+    {
+      "id": 140,
+      "start": 383.24,
+      "end": 383.44,
+      "en": "Or pretty.",
+      "zh": "或漂亮。"
+    },
+    {
+      "id": 141,
+      "start": 383.86,
+      "end": 384.02,
+      "en": "Pretty.",
+      "zh": "漂亮。"
+    },
+    {
+      "id": 142,
+      "start": 385.24,
+      "end": 386.24,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 143,
+      "start": 386.24,
+      "end": 387.24,
+      "en": "Good looking.",
+      "zh": "好看的。"
+    },
+    {
+      "id": 144,
+      "start": 387.24,
+      "end": 389.64,
+      "en": "But I think good looking sounds a lot more natural than handsome.",
+      "zh": "但我认为好看的听起来比英俊更自然。"
+    },
+    {
+      "id": 145,
+      "start": 389.88,
+      "end": 390.04,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 146,
+      "start": 390.32,
+      "end": 391.24,
+      "en": "You wouldn't really use handsome.",
+      "zh": "你真的不会用帅气。"
+    },
+    {
+      "id": 147,
+      "start": 391.64,
+      "end": 392.84,
+      "en": "Like I would never say that.",
+      "zh": "就像我永远不会这么说。"
+    },
+    {
+      "id": 148,
+      "start": 393.88,
+      "end": 394.88,
+      "en": "Even though it's correct.",
+      "zh": "尽管它是正确的。"
+    },
+    {
+      "id": 149,
+      "start": 394.95,
+      "end": 397.07,
+      "en": "It's just good looking sounds much more natural.",
+      "zh": "它只是好看的声音更自然。"
+    },
+    {
+      "id": 150,
+      "start": 397.66,
+      "end": 402.0,
+      "en": "I guess for me, whenever someone says handsome, it sounds like an older person.",
+      "zh": "我猜对我来说，每当有人说英俊时，听起来都像一个老人。"
+    },
+    {
+      "id": 151,
+      "start": 402.13,
+      "end": 402.31,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 152,
+      "start": 403.16,
+      "end": 404.16,
+      "en": "It sounds old fashioned.",
+      "zh": "听起来很老套。"
+    },
+    {
+      "id": 153,
+      "start": 404.16,
+      "end": 406.56,
+      "en": "Like my grandma would say, oh he's a handsome young man.",
+      "zh": "就像我奶奶会说的，哦，他是个英俊的年轻人。"
+    },
+    {
+      "id": 154,
+      "start": 406.56,
+      "end": 407.56,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 155,
+      "start": 407.56,
+      "end": 408.56,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 156,
+      "start": 408.56,
+      "end": 409.56,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 157,
+      "start": 409.56,
+      "end": 411.68,
+      "en": "So she says, he's quite tall.",
+      "zh": "所以她说，他很高。"
+    },
+    {
+      "id": 158,
+      "start": 411.68,
+      "end": 412.09,
+      "en": "Quite tall.",
+      "zh": "挺高的。"
+    },
+    {
+      "id": 159,
+      "start": 413.04,
+      "end": 413.45,
+      "en": "Quite tall.",
+      "zh": "挺高的。"
+    },
+    {
+      "id": 160,
+      "start": 414.04,
+      "end": 415.04,
+      "en": "Quite tall.",
+      "zh": "挺高的。"
+    },
+    {
+      "id": 161,
+      "start": 415.04,
+      "end": 416.37,
+      "en": "So we know quite means very.",
+      "zh": "所以我们知道相当的意思。"
+    },
+    {
+      "id": 162,
+      "start": 416.69,
+      "end": 416.81,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 163,
+      "start": 417.68,
+      "end": 418.48,
+      "en": "And tall, we know.",
+      "zh": "和高，我们知道。"
+    },
+    {
+      "id": 164,
+      "start": 419.0,
+      "end": 420.0,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 165,
+      "start": 420.0,
+      "end": 422.06,
+      "en": "So you can describe a person in different ways.",
+      "zh": "所以你可以用不同的方式描述一个人。"
+    },
+    {
+      "id": 166,
+      "start": 422.4,
+      "end": 423.4,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 167,
+      "start": 423.4,
+      "end": 424.4,
+      "en": "He's quite tall.",
+      "zh": "他很高。"
+    },
+    {
+      "id": 168,
+      "start": 424.4,
+      "end": 424.62,
+      "en": "He's kind of tall.",
+      "zh": "他有点高。"
+    },
+    {
+      "id": 169,
+      "start": 425.4,
+      "end": 426.64,
+      "en": "He's sort of tall.",
+      "zh": "他有点高。"
+    },
+    {
+      "id": 170,
+      "start": 427.06,
+      "end": 427.7,
+      "en": "He's a bit short.",
+      "zh": "他有点矮。"
+    },
+    {
+      "id": 171,
+      "start": 428.28,
+      "end": 430.3,
+      "en": "He's not that short.",
+      "zh": "他没那么矮。"
+    },
+    {
+      "id": 172,
+      "start": 430.68,
+      "end": 430.82,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 173,
+      "start": 431.8,
+      "end": 432.8,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 174,
+      "start": 432.8,
+      "end": 434.36,
+      "en": "So these are great words we can use to describe someone's height.",
+      "zh": "所以这些是我们可以用来描述某人身高的好词。"
+    },
+    {
+      "id": 175,
+      "start": 435.36,
+      "end": 435.67,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 176,
+      "start": 436.39,
+      "end": 438.59,
+      "en": "Then, she talked about his exact height.",
+      "zh": "然后，她谈到了他的确切身高。"
+    },
+    {
+      "id": 177,
+      "start": 439.1,
+      "end": 439.68,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 178,
+      "start": 440.16,
+      "end": 441.16,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 179,
+      "start": 441.16,
+      "end": 442.16,
+      "en": "She said he was 6'1\".",
+      "zh": "她说他身高 6 英尺 1 英寸。"
+    },
+    {
+      "id": 180,
+      "start": 442.16,
+      "end": 443.16,
+      "en": "6'1\".",
+      "zh": "六英尺一英寸。"
+    },
+    {
+      "id": 181,
+      "start": 443.16,
+      "end": 444.16,
+      "en": "Around 6'1\".",
+      "zh": "大约 6'1\"。"
+    },
+    {
+      "id": 182,
+      "start": 444.16,
+      "end": 445.16,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 183,
+      "start": 445.16,
+      "end": 451.28,
+      "en": "This is interesting because in the United States and Canada, you give a person's height using feet and inches.",
+      "zh": "这很有趣，因为在美国和加拿大，你用脚和英寸给一个人的身高。"
+    },
+    {
+      "id": 184,
+      "start": 451.28,
+      "end": 451.46,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 185,
+      "start": 452.28,
+      "end": 453.28,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 186,
+      "start": 453.28,
+      "end": 454.96,
+      "en": "So we don't talk about meters and centimeters.",
+      "zh": "所以我们不谈论米和厘米。"
+    },
+    {
+      "id": 187,
+      "start": 455.32,
+      "end": 456.32,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 188,
+      "start": 456.32,
+      "end": 458.92,
+      "en": "So 6'1 would be 6 feet 1 inch.",
+      "zh": "所以 6'1 将是 6 英尺 1 英寸。"
+    },
+    {
+      "id": 189,
+      "start": 458.92,
+      "end": 459.92,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 190,
+      "start": 459.92,
+      "end": 461.9,
+      "en": "But in other countries, you would talk about centimeters or meters.",
+      "zh": "但在其他国家，你会谈论厘米或米。"
+    },
+    {
+      "id": 191,
+      "start": 462.28,
+      "end": 465.36,
+      "en": "So 6'1 is like, 6'1 is about 180.",
+      "zh": "所以 6'1 就像，6'1 大约是 180。"
+    },
+    {
+      "id": 192,
+      "start": 465.42,
+      "end": 465.7,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 193,
+      "start": 465.84,
+      "end": 466.18,
+      "en": "About that.",
+      "zh": "关于那件事。"
+    },
+    {
+      "id": 194,
+      "start": 466.53,
+      "end": 468.77,
+      "en": "So this is an interesting difference between...",
+      "zh": "所以这是一个有趣的区别..."
+    },
+    {
+      "id": 195,
+      "start": 469.8,
+      "end": 472.56,
+      "en": "Like English-speaking countries and European countries.",
+      "zh": "像说英语的国家和欧洲国家。"
+    },
+    {
+      "id": 196,
+      "start": 472.56,
+      "end": 473.56,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 197,
+      "start": 473.56,
+      "end": 474.56,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 198,
+      "start": 474.56,
+      "end": 478.88,
+      "en": "So the next time you give your height to someone, make sure you do it in feet more or less.",
+      "zh": "因此，下次您将身高交给某人时，请确保您或多或少地以英尺为单位。"
+    },
+    {
+      "id": 199,
+      "start": 478.88,
+      "end": 479.55,
+      "en": "It sounds a lot more natural.",
+      "zh": "听起来很自然。"
+    },
+    {
+      "id": 200,
+      "start": 479.88,
+      "end": 488.84,
+      "en": "And actually, if you say to somebody in Canada, for example, I'm 175 centimeters, they wouldn't know really how tall that was.",
+      "zh": "实际上，例如，如果您对加拿大的某个人说，我是 175 厘米，他们不会真的知道那有多高。"
+    },
+    {
+      "id": 201,
+      "start": 488.84,
+      "end": 490.48,
+      "en": "How tall that is.",
+      "zh": "那有多高。"
+    },
+    {
+      "id": 202,
+      "start": 490.48,
+      "end": 491.48,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 203,
+      "start": 491.48,
+      "end": 492.48,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 204,
+      "start": 492.48,
+      "end": 494.48,
+      "en": "Now, the next part is really, really useful.",
+      "zh": "现在，下一部分真的非常有用。"
+    },
+    {
+      "id": 205,
+      "start": 494.48,
+      "end": 496.87,
+      "en": "She said he's in his early 30s.",
+      "zh": "她说他已经30岁了。"
+    },
+    {
+      "id": 206,
+      "start": 497.24,
+      "end": 498.73,
+      "en": "In his early 30s.",
+      "zh": "在他 30 岁出头的时候。"
+    },
+    {
+      "id": 207,
+      "start": 499.44,
+      "end": 500.84,
+      "en": "His early 30s.",
+      "zh": "他的 30 岁出头。"
+    },
+    {
+      "id": 208,
+      "start": 500.84,
+      "end": 502.8,
+      "en": "Early 30s.",
+      "zh": "30岁初。"
+    },
+    {
+      "id": 209,
+      "start": 502.8,
+      "end": 507.02,
+      "en": "So this is a way of describing someone's age without actually giving the exact number.",
+      "zh": "所以这是一种描述一个人的年龄而不实际给出确切数字的方式。"
+    },
+    {
+      "id": 210,
+      "start": 507.76,
+      "end": 508.76,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 211,
+      "start": 508.76,
+      "end": 510.1,
+      "en": "So for example, early 30s.",
+      "zh": "例如，30 年代初。"
+    },
+    {
+      "id": 212,
+      "start": 510.26,
+      "end": 514.0,
+      "en": "So like 32, 33.",
+      "zh": "就像32、33一样。"
+    },
+    {
+      "id": 213,
+      "start": 514.0,
+      "end": 514.47,
+      "en": "Mid 30s.",
+      "zh": "30多岁。"
+    },
+    {
+      "id": 214,
+      "start": 515.0,
+      "end": 516.53,
+      "en": "Like 34, 35, 36.",
+      "zh": "比如34、35、36。"
+    },
+    {
+      "id": 215,
+      "start": 517.0,
+      "end": 517.35,
+      "en": "Oh, 36.",
+      "zh": "哦，36。"
+    },
+    {
+      "id": 216,
+      "start": 518.0,
+      "end": 519.0,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 217,
+      "start": 519.0,
+      "end": 519.41,
+      "en": "And then late 30s would be?",
+      "zh": "然后 30 年代末会是什么？"
+    },
+    {
+      "id": 218,
+      "start": 520.0,
+      "end": 520.55,
+      "en": "38, 39.",
+      "zh": "三十八、三十九。"
+    },
+    {
+      "id": 219,
+      "start": 521.35,
+      "end": 522.63,
+      "en": "And you could do the same thing for...",
+      "zh": "你也可以做同样的事情..."
+    },
+    {
+      "id": 220,
+      "start": 523.2,
+      "end": 523.83,
+      "en": "Like 40s.",
+      "zh": "像40多岁。"
+    },
+    {
+      "id": 221,
+      "start": 524.2,
+      "end": 525.15,
+      "en": "40s, 50s, 60s.",
+      "zh": "四十多岁、五十多岁、六十多岁。"
+    },
+    {
+      "id": 222,
+      "start": 525.35,
+      "end": 525.67,
+      "en": "20s.",
+      "zh": "二十多岁。"
+    },
+    {
+      "id": 223,
+      "start": 526.2,
+      "end": 527.2,
+      "en": "20s.",
+      "zh": "二十多岁。"
+    },
+    {
+      "id": 224,
+      "start": 527.2,
+      "end": 528.2,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 225,
+      "start": 528.2,
+      "end": 529.2,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 226,
+      "start": 529.2,
+      "end": 529.63,
+      "en": "20s.",
+      "zh": "二十多岁。"
+    },
+    {
+      "id": 227,
+      "start": 530.2,
+      "end": 531.2,
+      "en": "You wouldn't do this before your 20s.",
+      "zh": "你不会在 20 多岁之前这样做。"
+    },
+    {
+      "id": 228,
+      "start": 531.2,
+      "end": 532.2,
+      "en": "I don't think it's really common to talk about your teens.",
+      "zh": "我不认为谈论你的青少年真的很常见。"
+    },
+    {
+      "id": 229,
+      "start": 532.2,
+      "end": 533.2,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 230,
+      "start": 533.2,
+      "end": 535.2,
+      "en": "You wouldn't say like his mid-teens or early teens.",
+      "zh": "你不会说像他的十几岁或青少年。"
+    },
+    {
+      "id": 231,
+      "start": 535.2,
+      "end": 536.2,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 232,
+      "start": 536.2,
+      "end": 537.2,
+      "en": "Sounds a bit weird.",
+      "zh": "听起来有点奇怪。"
+    },
+    {
+      "id": 233,
+      "start": 537.2,
+      "end": 538.2,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 234,
+      "start": 538.2,
+      "end": 539.41,
+      "en": "Great language used to describe people.",
+      "zh": "用来形容人的好语言。"
+    },
+    {
+      "id": 235,
+      "start": 539.96,
+      "end": 541.2,
+      "en": "But one more word.",
+      "zh": "但再说一句。"
+    },
+    {
+      "id": 236,
+      "start": 541.21,
+      "end": 541.65,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 237,
+      "start": 542.2,
+      "end": 542.41,
+      "en": "He's hot.",
+      "zh": "他很性感。"
+    },
+    {
+      "id": 238,
+      "start": 543.2,
+      "end": 543.65,
+      "en": "He's hot.",
+      "zh": "他很性感。"
+    },
+    {
+      "id": 239,
+      "start": 544.2,
+      "end": 544.79,
+      "en": "Or he sounds hot.",
+      "zh": "或者他听起来很热。"
+    },
+    {
+      "id": 240,
+      "start": 545.2,
+      "end": 546.2,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 241,
+      "start": 546.2,
+      "end": 546.33,
+      "en": "He's hot.",
+      "zh": "他很性感。"
+    },
+    {
+      "id": 242,
+      "start": 547.2,
+      "end": 548.2,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 243,
+      "start": 548.2,
+      "end": 553.48,
+      "en": "So this is another sort of informal way of describing someone who's really good-looking.",
+      "zh": "所以这是另一种描述一个非常漂亮的人的非正式方式。"
+    },
+    {
+      "id": 244,
+      "start": 553.48,
+      "end": 554.48,
+      "en": "Good-looking.",
+      "zh": "好看。"
+    },
+    {
+      "id": 245,
+      "start": 554.48,
+      "end": 555.48,
+      "en": "Really sexy.",
+      "zh": "真的很性感。"
+    },
+    {
+      "id": 246,
+      "start": 555.48,
+      "end": 556.48,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 247,
+      "start": 556.48,
+      "end": 557.48,
+      "en": "He's hot.",
+      "zh": "他很性感。"
+    },
+    {
+      "id": 248,
+      "start": 557.48,
+      "end": 558.48,
+      "en": "He's hot.",
+      "zh": "他很性感。"
+    },
+    {
+      "id": 249,
+      "start": 558.48,
+      "end": 559.48,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 250,
+      "start": 559.48,
+      "end": 560.48,
+      "en": "But it is informal.",
+      "zh": "但它是非正式的。"
+    },
+    {
+      "id": 251,
+      "start": 560.48,
+      "end": 561.48,
+      "en": "It is really informal.",
+      "zh": "这真的是非正式的。"
+    },
+    {
+      "id": 252,
+      "start": 561.48,
+      "end": 562.48,
+      "en": "Maybe even a little bit offensive.",
+      "zh": "甚至可能有点冒犯。"
+    },
+    {
+      "id": 253,
+      "start": 562.48,
+      "end": 564.48,
+      "en": "You wouldn't go up to a girl and say, wow, you're hot.",
+      "zh": "你不会去找一个女孩说，哇，你很热。"
+    },
+    {
+      "id": 254,
+      "start": 564.48,
+      "end": 565.48,
+      "en": "No.",
+      "zh": "不。"
+    },
+    {
+      "id": 255,
+      "start": 565.48,
+      "end": 566.48,
+      "en": "It's a little bit too impolite.",
+      "zh": "有点太不礼貌了。"
+    },
+    {
+      "id": 256,
+      "start": 566.62,
+      "end": 566.74,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 257,
+      "start": 566.98,
+      "end": 568.92,
+      "en": "You would say, wow, you're really pretty or you're gorgeous.",
+      "zh": "你会说，哇，你真的很漂亮，或者你很漂亮。"
+    },
+    {
+      "id": 258,
+      "start": 569.48,
+      "end": 570.48,
+      "en": "But you wouldn't say, wow, you're hot.",
+      "zh": "但你不会说，哇，你很热。"
+    },
+    {
+      "id": 259,
+      "start": 570.48,
+      "end": 571.48,
+      "en": "No.",
+      "zh": "不。"
+    },
+    {
+      "id": 260,
+      "start": 571.48,
+      "end": 572.38,
+      "en": "You would never say that to somebody.",
+      "zh": "你永远不会对某人这么说。"
+    },
+    {
+      "id": 261,
+      "start": 572.48,
+      "end": 573.48,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 262,
+      "start": 573.48,
+      "end": 574.66,
+      "en": "That's something you would comment with your friends.",
+      "zh": "这是你会和你的朋友评论的事情。"
+    },
+    {
+      "id": 263,
+      "start": 575.04,
+      "end": 576.04,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 264,
+      "start": 576.04,
+      "end": 577.04,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 265,
+      "start": 577.04,
+      "end": 578.72,
+      "en": "So we've looked at some really good language for describing people.",
+      "zh": "所以我们已经研究了一些非常好的语言来描述人。"
+    },
+    {
+      "id": 266,
+      "start": 578.72,
+      "end": 595.52,
+      "en": "Now we could listen to our dialogue a third time and I'm sure you will understand everything.",
+      "zh": "现在我们可以第三次听我们的对话了，我相信你会明白一切。"
+    },
+    {
+      "id": 267,
+      "start": 595.52,
+      "end": 596.99,
+      "en": "I heard you were on a date last night.",
+      "zh": "我听说你昨晚在约会。"
+    },
+    {
+      "id": 268,
+      "start": 597.52,
+      "end": 598.09,
+      "en": "So how did it go?",
+      "zh": "那约会怎么样？"
+    },
+    {
+      "id": 269,
+      "start": 598.52,
+      "end": 599.83,
+      "en": "I want all the juicy details.",
+      "zh": "快把精彩细节都告诉我。"
+    },
+    {
+      "id": 270,
+      "start": 600.72,
+      "end": 605.77,
+      "en": "Um, well, actually we had a fantastic time last night.",
+      "zh": "嗯，其实我们昨晚玩得很开心。"
+    },
+    {
+      "id": 271,
+      "start": 606.52,
+      "end": 607.52,
+      "en": "He was amazing.",
+      "zh": "他太出色了。"
+    },
+    {
+      "id": 272,
+      "start": 608.47,
+      "end": 608.72,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 273,
+      "start": 608.99,
+      "end": 610.72,
+      "en": "Now you really have to fill me in.",
+      "zh": "现在你真的必须填写我。"
+    },
+    {
+      "id": 274,
+      "start": 611.23,
+      "end": 611.72,
+      "en": "What's he like?",
+      "zh": "他是个什么样的人？"
+    },
+    {
+      "id": 275,
+      "start": 612.37,
+      "end": 612.72,
+      "en": "He's really good looking.",
+      "zh": "他长得很帅。"
+    },
+    {
+      "id": 276,
+      "start": 612.72,
+      "end": 613.72,
+      "en": "He's quite tall, around 6'1\".",
+      "zh": "他挺高的，大约六英尺一英寸。"
+    },
+    {
+      "id": 277,
+      "start": 616.13,
+      "end": 620.43,
+      "en": "He's in his early 30s and he's got the most beautiful dark brown eyes.",
+      "zh": "他已经 30 岁出头了，他有最美丽的深棕色眼睛。"
+    },
+    {
+      "id": 278,
+      "start": 622.07,
+      "end": 622.72,
+      "en": "He sounds hot.",
+      "zh": "听起来他很帅。"
+    },
+    {
+      "id": 279,
+      "start": 623.69,
+      "end": 624.71,
+      "en": "What does he do for a living?",
+      "zh": "他是做什么工作的？"
+    },
+    {
+      "id": 280,
+      "start": 625.19,
+      "end": 625.65,
+      "en": "You know what?",
+      "zh": "你知道吗？"
+    },
+    {
+      "id": 281,
+      "start": 626.35,
+      "end": 627.31,
+      "en": "This is the best part.",
+      "zh": "这是最好的部分。"
+    },
+    {
+      "id": 282,
+      "start": 627.99,
+      "end": 630.67,
+      "en": "David is a junior investment banker at Fortune Bank.",
+      "zh": "大卫在财富银行做初级投行职员。"
+    },
+    {
+      "id": 283,
+      "start": 631.27,
+      "end": 633.37,
+      "en": "So he's got a great career path ahead of him.",
+      "zh": "他的职业前景很不错。"
+    },
+    {
+      "id": 284,
+      "start": 634.26,
+      "end": 635.12,
+      "en": "Hold on a sec.",
+      "zh": "等一下。"
+    },
+    {
+      "id": 285,
+      "start": 635.38,
+      "end": 636.22,
+      "en": "His name is David?",
+      "zh": "他叫大卫？"
+    },
+    {
+      "id": 286,
+      "start": 636.58,
+      "end": 636.88,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 287,
+      "start": 637.62,
+      "end": 638.66,
+      "en": "That's my brother.",
+      "zh": "那是我的兄弟。"
+    },
+    {
+      "id": 288,
+      "start": 642.72,
+      "end": 649.72,
+      "en": "Okay, so we looked at really useful language for describing people and we want you to describe your girlfriend, boyfriend.",
+      "zh": "好的，所以我们看了一些非常有用的语言来描述人，我们希望你描述你的女朋友，男朋友。"
+    },
+    {
+      "id": 289,
+      "start": 649.72,
+      "end": 650.72,
+      "en": "Or even yourself.",
+      "zh": "甚至你自己。"
+    },
+    {
+      "id": 290,
+      "start": 650.72,
+      "end": 651.72,
+      "en": "Or even yourself.",
+      "zh": "甚至你自己。"
+    },
+    {
+      "id": 291,
+      "start": 651.72,
+      "end": 652.72,
+      "en": "What do you look like?",
+      "zh": "你长什么样？"
+    },
+    {
+      "id": 292,
+      "start": 652.72,
+      "end": 653.72,
+      "en": "How tall are you?",
+      "zh": "你有多高?"
+    },
+    {
+      "id": 293,
+      "start": 653.72,
+      "end": 654.72,
+      "en": "How old are you?",
+      "zh": "你多大了？"
+    },
+    {
+      "id": 294,
+      "start": 654.72,
+      "end": 655.72,
+      "en": "How old are you?",
+      "zh": "你多大了？"
+    },
+    {
+      "id": 295,
+      "start": 655.72,
+      "end": 656.72,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 296,
+      "start": 656.72,
+      "end": 657.72,
+      "en": "And try and use the language from today's lesson.",
+      "zh": "并尝试使用今天课程中的语言。"
+    },
+    {
+      "id": 297,
+      "start": 657.72,
+      "end": 658.72,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 298,
+      "start": 658.72,
+      "end": 661.72,
+      "en": "So come to EnglishPod.com and leave your questions and comments on our website.",
+      "zh": "因此，请访问 Englishpod.com 并在我们的网站上留下您的问题和评论。"
+    },
+    {
+      "id": 299,
+      "start": 661.72,
+      "end": 662.72,
+      "en": "And your descriptions.",
+      "zh": "和你的描述。"
+    },
+    {
+      "id": 300,
+      "start": 662.72,
+      "end": 663.72,
+      "en": "And your description.",
+      "zh": "和你的描述。"
+    },
+    {
+      "id": 301,
+      "start": 663.72,
+      "end": 666.72,
+      "en": "And we'll definitely be there to answer any doubts as well.",
+      "zh": "我们肯定也会在那里回答任何疑问。"
+    },
+    {
+      "id": 302,
+      "start": 666.72,
+      "end": 667.72,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 303,
+      "start": 667.72,
+      "end": 669.72,
+      "en": "Well guys, thanks for listening today.",
+      "zh": "好吧，伙计们，感谢您今天的收听。"
+    },
+    {
+      "id": 304,
+      "start": 669.72,
+      "end": 671.72,
+      "en": "And until next time, goodbye.",
+      "zh": "下次再见，拜拜。"
+    },
+    {
+      "id": 305,
+      "start": 671.72,
+      "end": 672.72,
+      "en": "Bye.",
+      "zh": "再见。"
+    },
+    {
+      "id": 306,
+      "start": 672.72,
+      "end": 674.27,
+      "en": "And until next time, goodbye.",
+      "zh": "下次再见，拜拜。"
+    }
+  ],
+  "dialog": {
+    "start": 38.52,
+    "end": 81.65,
+    "segmentIds": [
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33
+    ]
+  }
+}

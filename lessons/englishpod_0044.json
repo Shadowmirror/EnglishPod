@@ -1,0 +1,1698 @@
+{
+  "version": 1,
+  "id": 44,
+  "number": "0044",
+  "title": "Daily Life - Small Talk",
+  "audio": "mp3/44. Daily Life - Small Talk.mp3",
+  "duration": 617.560875,
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.74,
+      "end": 4.3,
+      "en": "Hello English learners, welcome back to EnglishPod.",
+      "zh": "您好英语学习者，欢迎回到 EnglishPod。"
+    },
+    {
+      "id": 2,
+      "start": 4.56,
+      "end": 4.98,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 5.26,
+      "end": 5.94,
+      "en": "And I'm Erica.",
+      "zh": "我叫 Erica。"
+    },
+    {
+      "id": 4,
+      "start": 6.52,
+      "end": 10.74,
+      "en": "And we're bringing you another great elementary lesson for all our elementary learners.",
+      "zh": "我们为所有小学学习者带来了另一个精彩的小学课程。"
+    },
+    {
+      "id": 5,
+      "start": 11.1,
+      "end": 11.66,
+      "en": "You know what, Marco?",
+      "zh": "你知道吗，马可？"
+    },
+    {
+      "id": 6,
+      "start": 11.78,
+      "end": 13.52,
+      "en": "I think this lesson is so useful.",
+      "zh": "我认为这节课非常有用。"
+    },
+    {
+      "id": 7,
+      "start": 13.76,
+      "end": 16.66,
+      "en": "This is language that you can actually use every single day.",
+      "zh": "这是您每天可以实际使用的语言。"
+    },
+    {
+      "id": 8,
+      "start": 16.96,
+      "end": 18.16,
+      "en": "Exactly, every day.",
+      "zh": "确切地说，每一天。"
+    },
+    {
+      "id": 9,
+      "start": 18.46,
+      "end": 21.16,
+      "en": "Exactly, because today we're going to be teaching you small talk.",
+      "zh": "没错，因为今天我们要教你闲聊。"
+    },
+    {
+      "id": 10,
+      "start": 21.6,
+      "end": 23.42,
+      "en": "So what is small talk?",
+      "zh": "那么什么是闲聊呢？"
+    },
+    {
+      "id": 11,
+      "start": 24.1,
+      "end": 30.36,
+      "en": "Well, small talk is small conversations that you would have with people that you don't know very well, but you still want to be polite.",
+      "zh": "好吧，闲聊是你会与你不太了解但你仍然想有礼貌的人进行的小对话。"
+    },
+    {
+      "id": 12,
+      "start": 30.68,
+      "end": 30.92,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 13,
+      "start": 31.8,
+      "end": 32.8,
+      "en": "Right?",
+      "zh": "对吧？"
+    },
+    {
+      "id": 14,
+      "start": 32.8,
+      "end": 33.92,
+      "en": "And you want to maybe just chat a little bit.",
+      "zh": "你想也许只是聊一点。"
+    },
+    {
+      "id": 15,
+      "start": 33.93,
+      "end": 35.45,
+      "en": "Okay, so let's listen to our dialogue.",
+      "zh": "好吧，让我们听听我们的对话。"
+    },
+    {
+      "id": 16,
+      "start": 35.81,
+      "end": 38.95,
+      "en": "And as always, it's going to be a little bit fast, but don't worry about it.",
+      "zh": "和往常一样，它会有点快，但不要担心。"
+    },
+    {
+      "id": 17,
+      "start": 39.01,
+      "end": 42.25,
+      "en": "Because we'll come back in a minute and help you with some of the difficult language.",
+      "zh": "因为我们会在一分钟内回来帮助您解决一些困难的语言。"
+    },
+    {
+      "id": 18,
+      "start": 51.35,
+      "end": 51.79,
+      "en": "Morning.",
+      "zh": "早上好。"
+    },
+    {
+      "id": 19,
+      "start": 52.47,
+      "end": 53.59,
+      "en": "Hi there, Mr. Anderson.",
+      "zh": "你好，安德森先生。"
+    },
+    {
+      "id": 20,
+      "start": 54.27,
+      "end": 55.53,
+      "en": "How are you on this fine morning?",
+      "zh": "今天早上过得怎么样？"
+    },
+    {
+      "id": 21,
+      "start": 55.85,
+      "end": 56.19,
+      "en": "Fine.",
+      "zh": "挺好的。"
+    },
+    {
+      "id": 22,
+      "start": 57.75,
+      "end": 59.45,
+      "en": "It sure is cold this morning, isn't it?",
+      "zh": "今天早上肯定很冷，不是吗？"
+    },
+    {
+      "id": 23,
+      "start": 59.71,
+      "end": 61.19,
+      "en": "I barely even got out of bed.",
+      "zh": "冷得我差点起不了床。"
+    },
+    {
+      "id": 24,
+      "start": 61.8,
+      "end": 64.2,
+      "en": "Yeah, it's pretty cold, all right.",
+      "zh": "是啊，确实很冷。"
+    },
+    {
+      "id": 25,
+      "start": 64.2,
+      "end": 65.49,
+      "en": "Did you catch the news this morning?",
+      "zh": "你看今天早上的新闻了吗？"
+    },
+    {
+      "id": 26,
+      "start": 65.95,
+      "end": 68.07,
+      "en": "I heard that there was a fire in Byron Street.",
+      "zh": "我听说拜伦街发生了火灾。"
+    },
+    {
+      "id": 27,
+      "start": 68.58,
+      "end": 70.52,
+      "en": "No, I didn't hear about that.",
+      "zh": "不，我没有听说过。"
+    },
+    {
+      "id": 28,
+      "start": 70.82,
+      "end": 72.92,
+      "en": "Did you happen to watch the football game last night?",
+      "zh": "你昨晚碰巧看了足球比赛吗？"
+    },
+    {
+      "id": 29,
+      "start": 73.36,
+      "end": 75.56,
+      "en": "The Patriots scored in the last minute.",
+      "zh": "爱国者队在最后一分钟得分了。"
+    },
+    {
+      "id": 30,
+      "start": 75.56,
+      "end": 77.08,
+      "en": "No, I don't like football.",
+      "zh": "不，我不喜欢橄榄球。"
+    },
+    {
+      "id": 31,
+      "start": 78.26,
+      "end": 81.66,
+      "en": "Oh, by the way, I saw you with your daughter at the office Christmas party.",
+      "zh": "哦，顺便说一句，我在办公室圣诞派对上看到了你和你的女儿。"
+    },
+    {
+      "id": 32,
+      "start": 82.16,
+      "end": 82.88,
+      "en": "She's really beautiful.",
+      "zh": "她真漂亮。"
+    },
+    {
+      "id": 33,
+      "start": 83.6,
+      "end": 83.98,
+      "en": "She's my wife.",
+      "zh": "她是我妻子。"
+    },
+    {
+      "id": 34,
+      "start": 84.6,
+      "end": 85.68,
+      "en": "Oh, here's my floor.",
+      "zh": "哦，我到这层了。"
+    },
+    {
+      "id": 35,
+      "start": 86.28,
+      "end": 86.96,
+      "en": "Nice talking to you.",
+      "zh": "很高兴和你聊天。"
+    },
+    {
+      "id": 36,
+      "start": 87.28,
+      "end": 88.28,
+      "en": "Goodbye.",
+      "zh": "再见。"
+    },
+    {
+      "id": 37,
+      "start": 88.28,
+      "end": 89.82,
+      "en": "Oh, sir, this is the 56th floor.",
+      "zh": "先生，这里才五十六楼。"
+    },
+    {
+      "id": 38,
+      "start": 90.32,
+      "end": 91.12,
+      "en": "We're on the 70th.",
+      "zh": "我们要去七十楼。"
+    },
+    {
+      "id": 39,
+      "start": 91.34,
+      "end": 91.94,
+      "en": "That's okay.",
+      "zh": "没关系。"
+    },
+    {
+      "id": 40,
+      "start": 92.22,
+      "end": 93.14,
+      "en": "I'll take the stairs.",
+      "zh": "那我走楼梯好了。"
+    },
+    {
+      "id": 41,
+      "start": 98.23,
+      "end": 100.59,
+      "en": "Okay, I think this guy was a little bit annoying.",
+      "zh": "好吧，我觉得这家伙有点烦人。"
+    },
+    {
+      "id": 42,
+      "start": 101.17,
+      "end": 104.37,
+      "en": "Yeah, Mr. Anderson really didn't want to talk to him, did he?",
+      "zh": "是的，安德森先生真的不想和他说话，是吗？"
+    },
+    {
+      "id": 43,
+      "start": 104.55,
+      "end": 105.71,
+      "en": "Yeah, I think that was pretty obvious.",
+      "zh": "是的，我认为这很明显。"
+    },
+    {
+      "id": 44,
+      "start": 105.99,
+      "end": 107.37,
+      "en": "He left the elevator in a hurry.",
+      "zh": "他匆匆离开电梯。"
+    },
+    {
+      "id": 45,
+      "start": 107.91,
+      "end": 110.51,
+      "en": "Okay, let's take a look at our language today in Language Takeaway.",
+      "zh": "好吧，让我们看看我们今天在外卖中的语言。"
+    },
+    {
+      "id": 46,
+      "start": 112.44,
+      "end": 113.44,
+      "en": "Language Takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 47,
+      "start": 113.44,
+      "end": 116.08,
+      "en": "All right, what do we have today in Language Takeaway?",
+      "zh": "好吧，我们今天在语言外卖中有什么？"
+    },
+    {
+      "id": 48,
+      "start": 116.3,
+      "end": 120.5,
+      "en": "Well, we've got four words and phrases and our first one is barely even.",
+      "zh": "好吧，我们有四个单词和短语，我们的第一个几乎没有。"
+    },
+    {
+      "id": 49,
+      "start": 121.44,
+      "end": 121.96,
+      "en": "Barely even.",
+      "zh": "几乎连……都没有。"
+    },
+    {
+      "id": 50,
+      "start": 122.62,
+      "end": 122.92,
+      "en": "Barely even.",
+      "zh": "几乎连……都没有。"
+    },
+    {
+      "id": 51,
+      "start": 123.62,
+      "end": 124.92,
+      "en": "So how do we use barely even?",
+      "zh": "那么我们如何几乎不用甚至使用呢？"
+    },
+    {
+      "id": 52,
+      "start": 125.2,
+      "end": 125.88,
+      "en": "It's a little bit difficult.",
+      "zh": "这有点困难。"
+    },
+    {
+      "id": 53,
+      "start": 126.1,
+      "end": 131.12,
+      "en": "It's really similar to like almost couldn't or almost nothing or almost can't.",
+      "zh": "它真的很类似于几乎不能或几乎没有或几乎不能。"
+    },
+    {
+      "id": 54,
+      "start": 131.26,
+      "end": 133.32,
+      "en": "So we use it usually in a negative sense.",
+      "zh": "因此，我们通常以负面意义使用它。"
+    },
+    {
+      "id": 55,
+      "start": 133.98,
+      "end": 139.04,
+      "en": "For example, I could say, I was so busy today, I could barely even eat my lunch.",
+      "zh": "例如，我可以说，我今天很忙，我什至几乎不能吃午饭。"
+    },
+    {
+      "id": 56,
+      "start": 139.36,
+      "end": 144.81,
+      "en": "Okay, so I can maybe say, it was so dark, I could barely even see.",
+      "zh": "好吧，所以我可以说，天太黑了，我什至几乎看不到。"
+    },
+    {
+      "id": 57,
+      "start": 145.29,
+      "end": 146.47,
+      "en": "Yeah, yeah.",
+      "zh": "对，对。"
+    },
+    {
+      "id": 58,
+      "start": 146.76,
+      "end": 150.77,
+      "en": "Or I'm so poor, I can barely even pay my rent.",
+      "zh": "或者我很穷，我什至无法支付房租。"
+    },
+    {
+      "id": 59,
+      "start": 151.32,
+      "end": 152.01,
+      "en": "Okay, good.",
+      "zh": "好，很好。"
+    },
+    {
+      "id": 60,
+      "start": 152.92,
+      "end": 153.19,
+      "en": "Barely even.",
+      "zh": "几乎连……都没有。"
+    },
+    {
+      "id": 61,
+      "start": 154.13,
+      "end": 155.49,
+      "en": "All right, let's take a look at our next one.",
+      "zh": "好吧，让我们来看看我们的下一个。"
+    },
+    {
+      "id": 62,
+      "start": 156.6,
+      "end": 157.6,
+      "en": "Catch.",
+      "zh": "抓住。"
+    },
+    {
+      "id": 63,
+      "start": 157.6,
+      "end": 157.73,
+      "en": "Catch.",
+      "zh": "抓住。"
+    },
+    {
+      "id": 64,
+      "start": 158.6,
+      "end": 159.6,
+      "en": "Catch.",
+      "zh": "抓住。"
+    },
+    {
+      "id": 65,
+      "start": 159.6,
+      "end": 160.15,
+      "en": "Did you catch the news?",
+      "zh": "你抓到新闻了吗？"
+    },
+    {
+      "id": 66,
+      "start": 161.0,
+      "end": 163.87,
+      "en": "So by did you catch the news, you mean did you hear the news?",
+      "zh": "所以你有没有听到这个消息，你的意思是你听到这个消息了吗？"
+    },
+    {
+      "id": 67,
+      "start": 164.48,
+      "end": 165.48,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 68,
+      "start": 165.48,
+      "end": 166.25,
+      "en": "So how else can we use this?",
+      "zh": "那么我们还能如何使用它呢？"
+    },
+    {
+      "id": 69,
+      "start": 166.52,
+      "end": 167.52,
+      "en": "Did you catch?",
+      "zh": "你抓到了吗？"
+    },
+    {
+      "id": 70,
+      "start": 167.57,
+      "end": 170.35,
+      "en": "A really common one is, I didn't catch your name.",
+      "zh": "一个很常见的是，我没有听懂你的名字。"
+    },
+    {
+      "id": 71,
+      "start": 170.63,
+      "end": 171.85,
+      "en": "Yeah, I didn't hear your name.",
+      "zh": "是的，我没有听到你的名字。"
+    },
+    {
+      "id": 72,
+      "start": 171.93,
+      "end": 172.87,
+      "en": "I didn't hear your name.",
+      "zh": "我没有听到你的名字。"
+    },
+    {
+      "id": 73,
+      "start": 173.15,
+      "end": 175.87,
+      "en": "Yeah, and we can also say, I didn't catch what he said.",
+      "zh": "是的，我们也可以说，我没有听懂他说的话。"
+    },
+    {
+      "id": 74,
+      "start": 176.17,
+      "end": 177.51,
+      "en": "I didn't catch what he said, yeah.",
+      "zh": "我没听懂他说的，是的。"
+    },
+    {
+      "id": 75,
+      "start": 177.81,
+      "end": 178.85,
+      "en": "So I didn't hear.",
+      "zh": "所以我没有听到。"
+    },
+    {
+      "id": 76,
+      "start": 179.36,
+      "end": 180.36,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 77,
+      "start": 180.36,
+      "end": 181.15,
+      "en": "Okay, let's look at our next word.",
+      "zh": "好吧，让我们看看我们的下一个词。"
+    },
+    {
+      "id": 78,
+      "start": 181.36,
+      "end": 182.64,
+      "en": "By the way.",
+      "zh": "顺便说一句。"
+    },
+    {
+      "id": 79,
+      "start": 182.64,
+      "end": 183.13,
+      "en": "By the way.",
+      "zh": "顺便说一句。"
+    },
+    {
+      "id": 80,
+      "start": 183.8,
+      "end": 184.49,
+      "en": "By the way.",
+      "zh": "顺便说一句。"
+    },
+    {
+      "id": 81,
+      "start": 184.88,
+      "end": 185.37,
+      "en": "By the way.",
+      "zh": "顺便说一句。"
+    },
+    {
+      "id": 82,
+      "start": 185.88,
+      "end": 192.64,
+      "en": "Okay, so let's listen to some examples first of how we can use by the way and then we'll come back and talk more about it.",
+      "zh": "好的，让我们先听一些例子，说明我们如何使用顺便说一句，然后我们会回来更多地讨论它。"
+    },
+    {
+      "id": 83,
+      "start": 193.92,
+      "end": 196.72,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 84,
+      "start": 196.72,
+      "end": 198.2,
+      "en": "Are you going to be at the meeting today?",
+      "zh": "你今天要参加会议吗？"
+    },
+    {
+      "id": 85,
+      "start": 198.64,
+      "end": 199.58,
+      "en": "Yeah, I'll be there.",
+      "zh": "是的，我会在那里。"
+    },
+    {
+      "id": 86,
+      "start": 199.78,
+      "end": 202.14,
+      "en": "Oh, by the way, did you hear what happened today?",
+      "zh": "哦，顺便说一句，你听到今天发生的事情了吗？"
+    },
+    {
+      "id": 87,
+      "start": 205.88,
+      "end": 209.92,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 88,
+      "start": 209.92,
+      "end": 216.04,
+      "en": "By the way, I almost forgot to tell you, Maggie called.",
+      "zh": "顺便说一句，我差点忘了告诉你，玛吉打来电话。"
+    },
+    {
+      "id": 89,
+      "start": 217.77,
+      "end": 224.75,
+      "en": "Okay, so I see that when we say by the way, we're introducing a point after we've already talked about something.",
+      "zh": "好的，所以我看到，顺便说一句，我们在我们已经谈到了一些事情之后介绍了一个观点。"
+    },
+    {
+      "id": 90,
+      "start": 225.03,
+      "end": 228.73,
+      "en": "Exactly, and maybe it's not even related to the topic we were talking about.",
+      "zh": "没错，也许它甚至与我们谈论的话题无关。"
+    },
+    {
+      "id": 91,
+      "start": 228.79,
+      "end": 229.79,
+      "en": "No, it's a different topic.",
+      "zh": "不，这是一个不同的话题。"
+    },
+    {
+      "id": 92,
+      "start": 229.99,
+      "end": 230.83,
+      "en": "Different topic, right?",
+      "zh": "不同的话题，对吧？"
+    },
+    {
+      "id": 93,
+      "start": 231.01,
+      "end": 233.17,
+      "en": "It's like saying, oh, I almost forgot to tell you.",
+      "zh": "就像说，哦，我差点忘了告诉你。"
+    },
+    {
+      "id": 94,
+      "start": 233.33,
+      "end": 233.57,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 95,
+      "start": 234.68,
+      "end": 236.93,
+      "en": "So it's like, oh, Erica, don't forget we have a meeting today.",
+      "zh": "所以就像，哦，埃里卡，别忘了我们今天开会。"
+    },
+    {
+      "id": 96,
+      "start": 237.21,
+      "end": 239.11,
+      "en": "Oh, and by the way, I like your new haircut.",
+      "zh": "哦，顺便说一句，我喜欢你的新发型。"
+    },
+    {
+      "id": 97,
+      "start": 239.73,
+      "end": 240.13,
+      "en": "Thanks, Marco.",
+      "zh": "谢谢，马可。"
+    },
+    {
+      "id": 98,
+      "start": 240.37,
+      "end": 240.93,
+      "en": "All right, see?",
+      "zh": "好吧，看到了吗？"
+    },
+    {
+      "id": 99,
+      "start": 241.52,
+      "end": 242.52,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 100,
+      "start": 242.52,
+      "end": 243.52,
+      "en": "That's the way you would use by the way.",
+      "zh": "顺便说一句，这就是你使用的方式。"
+    },
+    {
+      "id": 101,
+      "start": 243.53,
+      "end": 245.21,
+      "en": "Okay, and our last word on language takeaway.",
+      "zh": "好的，我们最后的语言要点。"
+    },
+    {
+      "id": 102,
+      "start": 246.32,
+      "end": 246.81,
+      "en": "Take the stairs.",
+      "zh": "走楼梯。"
+    },
+    {
+      "id": 103,
+      "start": 247.4,
+      "end": 248.01,
+      "en": "Take the stairs.",
+      "zh": "走楼梯。"
+    },
+    {
+      "id": 104,
+      "start": 248.64,
+      "end": 249.47,
+      "en": "Take the stairs.",
+      "zh": "走楼梯。"
+    },
+    {
+      "id": 105,
+      "start": 249.82,
+      "end": 250.25,
+      "en": "Take the stairs.",
+      "zh": "走楼梯。"
+    },
+    {
+      "id": 106,
+      "start": 250.82,
+      "end": 252.07,
+      "en": "So it doesn't mean you're going to take them somewhere.",
+      "zh": "所以这并不意味着你要把它们带到某个地方。"
+    },
+    {
+      "id": 107,
+      "start": 252.35,
+      "end": 254.25,
+      "en": "No, no, you're not taking them home with you.",
+      "zh": "不，不，你不是把它们带回家。"
+    },
+    {
+      "id": 108,
+      "start": 254.55,
+      "end": 256.55,
+      "en": "It means you're going to go up the stairs.",
+      "zh": "这意味着你要上楼梯。"
+    },
+    {
+      "id": 109,
+      "start": 257.65,
+      "end": 259.01,
+      "en": "Okay, so take the stairs.",
+      "zh": "好吧，走楼梯。"
+    },
+    {
+      "id": 110,
+      "start": 259.35,
+      "end": 266.31,
+      "en": "Yes, a lot of people might say use the stairs or go up the stairs, but our EnglishPod learners, they know, right?",
+      "zh": "是的，很多人可能会说使用楼梯或上楼梯，但我们的 Englishpod 学习者，他们知道，对吧？"
+    },
+    {
+      "id": 111,
+      "start": 266.57,
+      "end": 268.01,
+      "en": "To use take the stairs.",
+      "zh": "使用楼梯。"
+    },
+    {
+      "id": 112,
+      "start": 268.28,
+      "end": 268.41,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 113,
+      "start": 269.28,
+      "end": 270.28,
+      "en": "Take the stairs.",
+      "zh": "走楼梯。"
+    },
+    {
+      "id": 114,
+      "start": 270.28,
+      "end": 272.33,
+      "en": "Okay, so now we're ready to listen to our dialogue again.",
+      "zh": "好的，现在我们准备好再次聆听我们的对话了。"
+    },
+    {
+      "id": 115,
+      "start": 272.92,
+      "end": 274.15,
+      "en": "We're going to slow it down a little bit.",
+      "zh": "我们要慢一点。"
+    },
+    {
+      "id": 116,
+      "start": 274.39,
+      "end": 277.07,
+      "en": "And this will help you to catch these phrases a little bit better.",
+      "zh": "这将帮助您更好地捕捉这些短语。"
+    },
+    {
+      "id": 117,
+      "start": 287.93,
+      "end": 288.37,
+      "en": "Morning.",
+      "zh": "早上好。"
+    },
+    {
+      "id": 118,
+      "start": 289.41,
+      "end": 290.73,
+      "en": "Hi there, Mr. Anderson.",
+      "zh": "你好，安德森先生。"
+    },
+    {
+      "id": 119,
+      "start": 291.65,
+      "end": 293.21,
+      "en": "How are you on this fine morning?",
+      "zh": "今天早上过得怎么样？"
+    },
+    {
+      "id": 120,
+      "start": 293.79,
+      "end": 295.75,
+      "en": "Fine, thank you.",
+      "zh": "我很好，谢谢。"
+    },
+    {
+      "id": 121,
+      "start": 296.28,
+      "end": 298.68,
+      "en": "It sure is cold this morning, isn't it?",
+      "zh": "今天早上肯定很冷，不是吗？"
+    },
+    {
+      "id": 122,
+      "start": 299.14,
+      "end": 300.6,
+      "en": "I barely even got out of bed.",
+      "zh": "冷得我差点起不了床。"
+    },
+    {
+      "id": 123,
+      "start": 301.88,
+      "end": 305.04,
+      "en": "It's pretty cold, all right.",
+      "zh": "很冷，好吧。"
+    },
+    {
+      "id": 124,
+      "start": 305.04,
+      "end": 306.68,
+      "en": "Did you catch the news this morning?",
+      "zh": "你看今天早上的新闻了吗？"
+    },
+    {
+      "id": 125,
+      "start": 307.28,
+      "end": 309.54,
+      "en": "I heard that there was a fire in Byron Street.",
+      "zh": "我听说拜伦街发生了火灾。"
+    },
+    {
+      "id": 126,
+      "start": 310.02,
+      "end": 312.96,
+      "en": "No, I didn't hear about that.",
+      "zh": "不，我没有听说过。"
+    },
+    {
+      "id": 127,
+      "start": 313.34,
+      "end": 315.78,
+      "en": "Did you happen to watch the football game last night?",
+      "zh": "你昨晚碰巧看了足球比赛吗？"
+    },
+    {
+      "id": 128,
+      "start": 316.28,
+      "end": 317.98,
+      "en": "The Patriots scored in the last minute.",
+      "zh": "爱国者队在最后一分钟得分了。"
+    },
+    {
+      "id": 129,
+      "start": 318.52,
+      "end": 320.6,
+      "en": "No, I don't like football.",
+      "zh": "不，我不喜欢橄榄球。"
+    },
+    {
+      "id": 130,
+      "start": 321.89,
+      "end": 326.11,
+      "en": "Oh, by the way, I saw you with your daughter at the office Christmas party.",
+      "zh": "哦，顺便说一句，我在办公室圣诞派对上看到了你和你的女儿。"
+    },
+    {
+      "id": 131,
+      "start": 326.84,
+      "end": 327.73,
+      "en": "She's really beautiful.",
+      "zh": "她真漂亮。"
+    },
+    {
+      "id": 132,
+      "start": 329.04,
+      "end": 329.59,
+      "en": "She's my wife.",
+      "zh": "她是我妻子。"
+    },
+    {
+      "id": 133,
+      "start": 330.21,
+      "end": 331.63,
+      "en": "Oh, here's my floor.",
+      "zh": "哦，我到这层了。"
+    },
+    {
+      "id": 134,
+      "start": 332.15,
+      "end": 333.31,
+      "en": "Nice talking to you.",
+      "zh": "很高兴和你聊天。"
+    },
+    {
+      "id": 135,
+      "start": 333.96,
+      "end": 334.96,
+      "en": "Goodbye.",
+      "zh": "再见。"
+    },
+    {
+      "id": 136,
+      "start": 334.96,
+      "end": 336.95,
+      "en": "Oh, sir, this is the 56th floor.",
+      "zh": "先生，这里才五十六楼。"
+    },
+    {
+      "id": 137,
+      "start": 337.56,
+      "end": 339.04,
+      "en": "We're on the 70th.",
+      "zh": "我们要去七十楼。"
+    },
+    {
+      "id": 138,
+      "start": 339.04,
+      "end": 339.47,
+      "en": "That's okay.",
+      "zh": "没关系。"
+    },
+    {
+      "id": 139,
+      "start": 340.04,
+      "end": 340.83,
+      "en": "I'll take the stairs.",
+      "zh": "那我走楼梯好了。"
+    },
+    {
+      "id": 140,
+      "start": 344.33,
+      "end": 350.71,
+      "en": "Okay, so now let's take a look at ways to start up some small talk in putting it together.",
+      "zh": "好的，现在让我们来看看如何开始一些闲聊。"
+    },
+    {
+      "id": 141,
+      "start": 352.47,
+      "end": 353.49,
+      "en": "Putting it together.",
+      "zh": "综合运用。"
+    },
+    {
+      "id": 142,
+      "start": 354.67,
+      "end": 361.25,
+      "en": "So Marco, today we've got some great patterns or structures that you can use in your small talk.",
+      "zh": "所以 Marco，今天我们有一些很棒的模式或结构，你可以在你的闲聊中使用。"
+    },
+    {
+      "id": 143,
+      "start": 361.59,
+      "end": 362.05,
+      "en": "Yeah, exactly.",
+      "zh": "对，没错。"
+    },
+    {
+      "id": 144,
+      "start": 362.41,
+      "end": 363.37,
+      "en": "We saw some great patterns.",
+      "zh": "我们看到了一些很棒的模式。"
+    },
+    {
+      "id": 145,
+      "start": 363.75,
+      "end": 364.79,
+      "en": "Let's start with the first one.",
+      "zh": "让我们从第一个开始。"
+    },
+    {
+      "id": 146,
+      "start": 365.24,
+      "end": 367.16,
+      "en": "It sure is cold this morning.",
+      "zh": "今天早上肯定很冷。"
+    },
+    {
+      "id": 147,
+      "start": 367.16,
+      "end": 368.55,
+      "en": "It sure is cold.",
+      "zh": "确实很冷。"
+    },
+    {
+      "id": 148,
+      "start": 369.4,
+      "end": 370.45,
+      "en": "It sure is cold.",
+      "zh": "确实很冷。"
+    },
+    {
+      "id": 149,
+      "start": 370.84,
+      "end": 371.95,
+      "en": "It sure is cold.",
+      "zh": "确实很冷。"
+    },
+    {
+      "id": 150,
+      "start": 372.43,
+      "end": 376.61,
+      "en": "Okay, so we can change it up a little bit and say, it sure is hot.",
+      "zh": "好的，所以我们可以稍微改变一下并说，它确实很热。"
+    },
+    {
+      "id": 151,
+      "start": 377.52,
+      "end": 379.02,
+      "en": "Or it sure is late.",
+      "zh": "或者肯定是迟到了。"
+    },
+    {
+      "id": 152,
+      "start": 379.46,
+      "end": 381.52,
+      "en": "Okay, this sure is interesting.",
+      "zh": "好吧，这肯定很有趣。"
+    },
+    {
+      "id": 153,
+      "start": 382.44,
+      "end": 384.22,
+      "en": "Or you could say, he sure is smart.",
+      "zh": "或者你可以说，他确实很聪明。"
+    },
+    {
+      "id": 154,
+      "start": 384.86,
+      "end": 387.5,
+      "en": "So basically, you can change the adjective.",
+      "zh": "所以基本上，你可以改变形容词。"
+    },
+    {
+      "id": 155,
+      "start": 387.68,
+      "end": 388.68,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 156,
+      "start": 388.68,
+      "end": 389.94,
+      "en": "Cold, hot, smart, hard, difficult.",
+      "zh": "冷、热、聪明、硬、难。"
+    },
+    {
+      "id": 157,
+      "start": 390.52,
+      "end": 397.6,
+      "en": "And when you say, sure is, this is a great way of emphasizing that you believe this adjective to be true.",
+      "zh": "当你说，当然，这是一种很好的方式来强调你相信这个形容词是真实的。"
+    },
+    {
+      "id": 158,
+      "start": 397.6,
+      "end": 398.68,
+      "en": "Okay, it sure is.",
+      "zh": "好吧，肯定是。"
+    },
+    {
+      "id": 159,
+      "start": 398.68,
+      "end": 400.0,
+      "en": "Now what would be the answer to this?",
+      "zh": "现在这个问题的答案是什么？"
+    },
+    {
+      "id": 160,
+      "start": 400.28,
+      "end": 405.26,
+      "en": "Well, in the dialogue, Mr. Anderson said, yeah, it's pretty cold, all right.",
+      "zh": "好吧，在对话中，安德森先生说，是的，这很冷，好吧。"
+    },
+    {
+      "id": 161,
+      "start": 405.9,
+      "end": 407.58,
+      "en": "It's pretty cold, all right.",
+      "zh": "很冷，好吧。"
+    },
+    {
+      "id": 162,
+      "start": 407.8,
+      "end": 408.92,
+      "en": "It's pretty cold, all right.",
+      "zh": "很冷，好吧。"
+    },
+    {
+      "id": 163,
+      "start": 409.52,
+      "end": 414.64,
+      "en": "So again, using the examples we used before, we can say, oh, it's pretty hot, all right.",
+      "zh": "再说一次，使用我们之前使用的例子，我们可以说，哦，它很热，好吧。"
+    },
+    {
+      "id": 164,
+      "start": 415.48,
+      "end": 416.84,
+      "en": "Or it's pretty late, all right.",
+      "zh": "或者已经很晚了，好吧。"
+    },
+    {
+      "id": 165,
+      "start": 417.4,
+      "end": 419.04,
+      "en": "Or he's pretty smart, all right.",
+      "zh": "或者他很聪明，好吧。"
+    },
+    {
+      "id": 166,
+      "start": 419.88,
+      "end": 421.24,
+      "en": "Or this is pretty interesting, all right.",
+      "zh": "或者这很有趣，好吧。"
+    },
+    {
+      "id": 167,
+      "start": 421.7,
+      "end": 423.12,
+      "en": "So it means you're agreeing with that person.",
+      "zh": "所以这意味着你同意那个人。"
+    },
+    {
+      "id": 168,
+      "start": 423.4,
+      "end": 423.66,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 169,
+      "start": 424.48,
+      "end": 424.62,
+      "en": "Okay, great.",
+      "zh": "好，太好了。"
+    },
+    {
+      "id": 170,
+      "start": 425.48,
+      "end": 429.98,
+      "en": "So Marco, these things, it sure is blank and yeah, it's blank, all right.",
+      "zh": "所以马可，这些东西，它肯定是空白的，是的，它是空白的，好吧。"
+    },
+    {
+      "id": 171,
+      "start": 430.5,
+      "end": 432.3,
+      "en": "These can go together really well, can't they?",
+      "zh": "这些可以很好地结合在一起，不是吗？"
+    },
+    {
+      "id": 172,
+      "start": 432.64,
+      "end": 435.34,
+      "en": "Yeah, as a question and answer format, they go well.",
+      "zh": "是的，作为问答格式，它们进展顺利。"
+    },
+    {
+      "id": 173,
+      "start": 435.62,
+      "end": 439.44,
+      "en": "So why don't we listen to some examples of how these two phrases work together.",
+      "zh": "那么我们为什么不听一些关于这两个短语如何协同工作的例子。"
+    },
+    {
+      "id": 174,
+      "start": 440.72,
+      "end": 441.02,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 175,
+      "start": 443.68,
+      "end": 444.89,
+      "en": "It sure is a nice day today.",
+      "zh": "今天肯定是美好的一天。"
+    },
+    {
+      "id": 176,
+      "start": 445.32,
+      "end": 446.41,
+      "en": "Yeah, it's nice, all right.",
+      "zh": "是的，很好，好吧。"
+    },
+    {
+      "id": 177,
+      "start": 449.96,
+      "end": 450.27,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 178,
+      "start": 453.16,
+      "end": 454.76,
+      "en": "The bus is sure late today.",
+      "zh": "公共汽车今天肯定迟到了。"
+    },
+    {
+      "id": 179,
+      "start": 455.16,
+      "end": 456.38,
+      "en": "Yeah, it's late, all right.",
+      "zh": "是的，来晚了，好吧。"
+    },
+    {
+      "id": 180,
+      "start": 460.68,
+      "end": 463.68,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 181,
+      "start": 463.68,
+      "end": 465.44,
+      "en": "This class is really hard.",
+      "zh": "这门课真的很难。"
+    },
+    {
+      "id": 182,
+      "start": 465.88,
+      "end": 467.5,
+      "en": "Yeah, it's hard, all right.",
+      "zh": "是的，这很难，好吧。"
+    },
+    {
+      "id": 183,
+      "start": 469.44,
+      "end": 473.76,
+      "en": "Okay, so now let's take a look at our next word in putting it together.",
+      "zh": "好的，现在让我们来看看我们的下一个词组合。"
+    },
+    {
+      "id": 184,
+      "start": 473.76,
+      "end": 474.66,
+      "en": "Did you happen to...",
+      "zh": "你是不是碰巧……"
+    },
+    {
+      "id": 185,
+      "start": 475.32,
+      "end": 476.02,
+      "en": "Did you happen to...",
+      "zh": "你是不是碰巧……"
+    },
+    {
+      "id": 186,
+      "start": 476.72,
+      "end": 477.62,
+      "en": "Did you happen to...",
+      "zh": "你是不是碰巧……"
+    },
+    {
+      "id": 187,
+      "start": 478.0,
+      "end": 479.28,
+      "en": "Did you happen to...",
+      "zh": "你是不是碰巧……"
+    },
+    {
+      "id": 188,
+      "start": 479.28,
+      "end": 481.0,
+      "en": "Did you happen to see Bob this morning?",
+      "zh": "你今天早上碰巧见到鲍勃了吗？"
+    },
+    {
+      "id": 189,
+      "start": 481.68,
+      "end": 483.1,
+      "en": "I didn't happen to see Bob.",
+      "zh": "我没有碰巧见到鲍勃。"
+    },
+    {
+      "id": 190,
+      "start": 484.14,
+      "end": 484.72,
+      "en": "So it means like...",
+      "zh": "所以这意味着..."
+    },
+    {
+      "id": 191,
+      "start": 485.1,
+      "end": 486.44,
+      "en": "Like, did you by chance...",
+      "zh": "比如，你是不是偶然..."
+    },
+    {
+      "id": 192,
+      "start": 486.8,
+      "end": 489.38,
+      "en": "By chance, did you by chance see Bob or something.",
+      "zh": "偶然，你是不是偶然看到鲍勃什么的。"
+    },
+    {
+      "id": 193,
+      "start": 489.84,
+      "end": 490.84,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 194,
+      "start": 490.84,
+      "end": 494.58,
+      "en": "Another example would be, did you happen to go to that restaurant I recommended?",
+      "zh": "另一个例子是，你碰巧去了我推荐的那家餐厅吗？"
+    },
+    {
+      "id": 195,
+      "start": 496.0,
+      "end": 498.12,
+      "en": "Or maybe, do you happen to have a pen?",
+      "zh": "或者，你碰巧有一支笔吗？"
+    },
+    {
+      "id": 196,
+      "start": 498.72,
+      "end": 500.94,
+      "en": "Do you happen to know where the bathroom is?",
+      "zh": "你碰巧知道浴室在哪里吗？"
+    },
+    {
+      "id": 197,
+      "start": 501.24,
+      "end": 502.69,
+      "en": "Yeah, that's a really useful one.",
+      "zh": "是的，这真的很有用。"
+    },
+    {
+      "id": 198,
+      "start": 502.87,
+      "end": 503.61,
+      "en": "That's a good useful one.",
+      "zh": "这是一个很好的有用的。"
+    },
+    {
+      "id": 199,
+      "start": 503.89,
+      "end": 505.73,
+      "en": "That's basically how you would use this structure.",
+      "zh": "这基本上就是你使用这种结构的方式。"
+    },
+    {
+      "id": 200,
+      "start": 506.23,
+      "end": 507.23,
+      "en": "Did you happen to...",
+      "zh": "你是不是碰巧……"
+    },
+    {
+      "id": 201,
+      "start": 507.49,
+      "end": 508.35,
+      "en": "Do you happen to...",
+      "zh": "难道你碰巧..."
+    },
+    {
+      "id": 202,
+      "start": 508.69,
+      "end": 514.49,
+      "en": "So now let's listen to our dialogue for the third time and I'm sure that you'll be able to understand everything.",
+      "zh": "所以现在让我们第三次听我们的对话，我相信你能理解一切。"
+    },
+    {
+      "id": 203,
+      "start": 516.84,
+      "end": 521.12,
+      "en": "Morning.",
+      "zh": "早上好。"
+    },
+    {
+      "id": 204,
+      "start": 526.2,
+      "end": 527.2,
+      "en": "Hi there, Mr. Anderson.",
+      "zh": "你好，安德森先生。"
+    },
+    {
+      "id": 205,
+      "start": 527.9,
+      "end": 529.18,
+      "en": "How are you on this fine morning?",
+      "zh": "今天早上过得怎么样？"
+    },
+    {
+      "id": 206,
+      "start": 529.5,
+      "end": 530.76,
+      "en": "Fine, thank you.",
+      "zh": "我很好，谢谢。"
+    },
+    {
+      "id": 207,
+      "start": 531.18,
+      "end": 533.1,
+      "en": "It sure is cold this morning, isn't it?",
+      "zh": "今天早上肯定很冷，不是吗？"
+    },
+    {
+      "id": 208,
+      "start": 533.4,
+      "end": 534.84,
+      "en": "I barely even got out of bed.",
+      "zh": "冷得我差点起不了床。"
+    },
+    {
+      "id": 209,
+      "start": 535.48,
+      "end": 537.8,
+      "en": "Yeah, it's pretty cold, all right.",
+      "zh": "是啊，确实很冷。"
+    },
+    {
+      "id": 210,
+      "start": 537.8,
+      "end": 539.14,
+      "en": "Did you catch the news this morning?",
+      "zh": "你看今天早上的新闻了吗？"
+    },
+    {
+      "id": 211,
+      "start": 539.64,
+      "end": 541.7,
+      "en": "I heard that there was a fire in Byron Street.",
+      "zh": "我听说拜伦街发生了火灾。"
+    },
+    {
+      "id": 212,
+      "start": 542.2,
+      "end": 544.14,
+      "en": "No, I didn't hear about that.",
+      "zh": "不，我没有听说过。"
+    },
+    {
+      "id": 213,
+      "start": 544.48,
+      "end": 546.56,
+      "en": "Did you happen to watch the football game last night?",
+      "zh": "你昨晚碰巧看了足球比赛吗？"
+    },
+    {
+      "id": 214,
+      "start": 546.98,
+      "end": 548.58,
+      "en": "The Patriots scored in the last minute.",
+      "zh": "爱国者队在最后一分钟得分了。"
+    },
+    {
+      "id": 215,
+      "start": 549.22,
+      "end": 550.7,
+      "en": "No, I don't like football.",
+      "zh": "不，我不喜欢橄榄球。"
+    },
+    {
+      "id": 216,
+      "start": 552.16,
+      "end": 555.3,
+      "en": "By the way, I saw you with your daughter at the office Christmas party.",
+      "zh": "顺便说一句，我在办公室圣诞派对上看到了你和你的女儿。"
+    },
+    {
+      "id": 217,
+      "start": 555.72,
+      "end": 556.58,
+      "en": "She's really beautiful.",
+      "zh": "她真漂亮。"
+    },
+    {
+      "id": 218,
+      "start": 557.02,
+      "end": 557.58,
+      "en": "She's my wife.",
+      "zh": "她是我妻子。"
+    },
+    {
+      "id": 219,
+      "start": 558.18,
+      "end": 559.3,
+      "en": "Oh, here's my floor.",
+      "zh": "哦，我到这层了。"
+    },
+    {
+      "id": 220,
+      "start": 559.74,
+      "end": 560.58,
+      "en": "Nice talking to you.",
+      "zh": "很高兴和你聊天。"
+    },
+    {
+      "id": 221,
+      "start": 560.88,
+      "end": 561.88,
+      "en": "Goodbye.",
+      "zh": "再见。"
+    },
+    {
+      "id": 222,
+      "start": 561.88,
+      "end": 563.44,
+      "en": "Oh, sir, this is the 56th floor.",
+      "zh": "先生，这里才五十六楼。"
+    },
+    {
+      "id": 223,
+      "start": 563.92,
+      "end": 564.76,
+      "en": "We're on the 70th.",
+      "zh": "我们要去七十楼。"
+    },
+    {
+      "id": 224,
+      "start": 565.24,
+      "end": 565.56,
+      "en": "That's okay.",
+      "zh": "没关系。"
+    },
+    {
+      "id": 225,
+      "start": 566.24,
+      "end": 566.8,
+      "en": "I'll take the stairs.",
+      "zh": "那我走楼梯好了。"
+    },
+    {
+      "id": 226,
+      "start": 572.72,
+      "end": 575.71,
+      "en": "All right, Marco, that was a really useful dialogue for daily life, wasn't it?",
+      "zh": "好吧，马可，这对日常生活来说是一个非常有用的对话，不是吗？"
+    },
+    {
+      "id": 227,
+      "start": 575.96,
+      "end": 580.29,
+      "en": "Yeah, I think you can find a lot of useful language there and that you can apply tomorrow.",
+      "zh": "是的，我想你可以在那里找到很多有用的语言，你可以明天申请。"
+    },
+    {
+      "id": 228,
+      "start": 580.81,
+      "end": 581.03,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 229,
+      "start": 581.53,
+      "end": 584.39,
+      "en": "Well, speaking of useful things, let's talk a little bit about our website.",
+      "zh": "好吧，说到有用的东西，让我们谈谈我们的网站。"
+    },
+    {
+      "id": 230,
+      "start": 585.05,
+      "end": 589.53,
+      "en": "Yeah, be sure to go to our website at EnglishPod.com where you can find other lessons as well.",
+      "zh": "是的，请务必访问我们的 englishpod.com 网站，在那里您也可以找到其他课程。"
+    },
+    {
+      "id": 231,
+      "start": 589.97,
+      "end": 591.95,
+      "en": "Maybe you're an intermediate student or advanced.",
+      "zh": "也许你是中级学生或高级。"
+    },
+    {
+      "id": 232,
+      "start": 592.4,
+      "end": 596.2,
+      "en": "Yes, so we've got intermediate, advanced, upper intermediate lessons on our website.",
+      "zh": "是的，所以我们的网站上有中级、高级、中级中级课程。"
+    },
+    {
+      "id": 233,
+      "start": 596.62,
+      "end": 598.56,
+      "en": "And a lot of other resources that you can explore.",
+      "zh": "以及您可以探索的许多其他资源。"
+    },
+    {
+      "id": 234,
+      "start": 598.86,
+      "end": 604.74,
+      "en": "So be sure to come to our website and leave all your comments because Erica and I are always there and we're really happy to answer all of your questions.",
+      "zh": "因此，请务必访问我们的网站并留下您的所有评论，因为 Erica 和我一直都在，我们非常乐意回答您的所有问题。"
+    },
+    {
+      "id": 235,
+      "start": 605.06,
+      "end": 605.46,
+      "en": "Okay, everyone.",
+      "zh": "好了，各位。"
+    },
+    {
+      "id": 236,
+      "start": 605.74,
+      "end": 606.9,
+      "en": "Well, we're out of time.",
+      "zh": "好吧，我们没时间了。"
+    },
+    {
+      "id": 237,
+      "start": 607.24,
+      "end": 617.561,
+      "en": "But until next time, goodbye.",
+      "zh": "但直到下一次，再见。"
+    }
+  ],
+  "dialog": {
+    "start": 51.35,
+    "end": 93.14,
+    "segmentIds": [
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40
+    ]
+  }
+}

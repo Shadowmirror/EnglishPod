@@ -1,0 +1,1410 @@
+{
+  "version": 1,
+  "id": 174,
+  "number": "0174",
+  "title": "The Weekend - Getting a manicure",
+  "audio": "mp3/174. The Weekend - Getting a manicure.mp3",
+  "duration": 647.6539375,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.03,
+      "en": "Hello everyone and welcome back to EnglishPod.",
+      "zh": "大家好，欢迎回到 EnglishPod。"
+    },
+    {
+      "id": 2,
+      "start": 5.28,
+      "end": 6.28,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 6.28,
+      "end": 11.17,
+      "en": "And my name is Katrin and today we have an elementary level lesson for you guys out there.",
+      "zh": "我的名字是卡特琳，今天我们为你们准备了一个小学水平的课程。"
+    },
+    {
+      "id": 4,
+      "start": 11.72,
+      "end": 11.97,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 5,
+      "start": 12.72,
+      "end": 16.43,
+      "en": "Today we are going to talk about an interesting topic, especially for women.",
+      "zh": "今天我们将讨论一个有趣的话题，尤其是对于女性。"
+    },
+    {
+      "id": 6,
+      "start": 17.08,
+      "end": 18.49,
+      "en": "We are going to the nail salon.",
+      "zh": "我们要去美甲沙龙。"
+    },
+    {
+      "id": 7,
+      "start": 19.09,
+      "end": 22.57,
+      "en": "Okay, so we're going to get our fingernails painted.",
+      "zh": "好吧，我们要给我们的指甲涂漆。"
+    },
+    {
+      "id": 8,
+      "start": 22.92,
+      "end": 29.96,
+      "en": "Alright, so let's take a look at vocabulary preview to find out what nail salon means.",
+      "zh": "好吧，让我们看看词汇预览，了解美甲沙龙的含义。"
+    },
+    {
+      "id": 9,
+      "start": 29.96,
+      "end": 30.85,
+      "en": "Vocabulary preview.",
+      "zh": "词汇预习。"
+    },
+    {
+      "id": 10,
+      "start": 32.16,
+      "end": 37.99,
+      "en": "Alright so if you go to a nail salon, it's a specific place where they paint your nails, right?",
+      "zh": "好吧，如果你去美甲沙龙，这是他们画指甲的特定地方，对吧？"
+    },
+    {
+      "id": 11,
+      "start": 39.08,
+      "end": 40.08,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 12,
+      "start": 40.08,
+      "end": 42.79,
+      "en": "So it's a shop or a store where you can have your nails painted.",
+      "zh": "所以它是一家商店或一家商店，你可以在那里画你的指甲。"
+    },
+    {
+      "id": 13,
+      "start": 43.32,
+      "end": 44.73,
+      "en": "So they have special people to help you.",
+      "zh": "所以他们有特殊的人来帮助你。"
+    },
+    {
+      "id": 14,
+      "start": 44.99,
+      "end": 48.75,
+      "en": "If you want to go get your hair cut, you would go to the hair salon.",
+      "zh": "如果你想去剪头发，你会去美发沙龙。"
+    },
+    {
+      "id": 15,
+      "start": 49.11,
+      "end": 49.45,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 16,
+      "start": 50.32,
+      "end": 53.04,
+      "en": "So we have hair salon and nail salon.",
+      "zh": "所以我们有美发沙龙和美甲沙龙。"
+    },
+    {
+      "id": 17,
+      "start": 53.04,
+      "end": 55.55,
+      "en": "In this case, at the nail salon, they can't cut your hair.",
+      "zh": "在这种情况下，在美甲沙龙，他们不能剪你的头发。"
+    },
+    {
+      "id": 18,
+      "start": 56.04,
+      "end": 57.07,
+      "en": "Okay, very good.",
+      "zh": "好，很好。"
+    },
+    {
+      "id": 19,
+      "start": 57.32,
+      "end": 60.75,
+      "en": "So why don't we listen to our dialogue for the first time.",
+      "zh": "那么我们为什么不第一次听我们的对话。"
+    },
+    {
+      "id": 20,
+      "start": 67.08,
+      "end": 68.18,
+      "en": "Honey, I'll be right back.",
+      "zh": "亲爱的，我马上回来。"
+    },
+    {
+      "id": 21,
+      "start": 68.64,
+      "end": 69.74,
+      "en": "Where are you going?",
+      "zh": "你要去哪儿？"
+    },
+    {
+      "id": 22,
+      "start": 70.06,
+      "end": 70.96,
+      "en": "I told you already.",
+      "zh": "我已经告诉过你了。"
+    },
+    {
+      "id": 23,
+      "start": 71.32,
+      "end": 72.82,
+      "en": "I'm going to get my nails done.",
+      "zh": "我要去做美甲。"
+    },
+    {
+      "id": 24,
+      "start": 73.22,
+      "end": 73.44,
+      "en": "Again?",
+      "zh": "又来了？"
+    },
+    {
+      "id": 25,
+      "start": 74.0,
+      "end": 75.34,
+      "en": "You just went last week.",
+      "zh": "你上周刚去。"
+    },
+    {
+      "id": 26,
+      "start": 75.98,
+      "end": 78.72,
+      "en": "You spend more time at the nail salon than you do here at home.",
+      "zh": "你在美甲沙龙的时间比在家里的时间还多。"
+    },
+    {
+      "id": 27,
+      "start": 79.32,
+      "end": 81.64,
+      "en": "Honestly, why do you need a manicure every week?",
+      "zh": "老实说，为什么每周都需要修指甲？"
+    },
+    {
+      "id": 28,
+      "start": 82.08,
+      "end": 85.72,
+      "en": "Well, first of all, I like to pamper myself and my nails look great.",
+      "zh": "好吧，首先，我喜欢宠爱自己，我的指甲看起来很棒。"
+    },
+    {
+      "id": 29,
+      "start": 86.2,
+      "end": 87.0,
+      "en": "You should come with me.",
+      "zh": "你应该跟我来。"
+    },
+    {
+      "id": 30,
+      "start": 87.4,
+      "end": 87.6,
+      "en": "Why?",
+      "zh": "为什么？"
+    },
+    {
+      "id": 31,
+      "start": 88.25,
+      "end": 90.85,
+      "en": "I don't want to have nail polish or anything like that.",
+      "zh": "我不想有指甲油或类似的东西。"
+    },
+    {
+      "id": 32,
+      "start": 91.56,
+      "end": 92.67,
+      "en": "They don't only paint my nails.",
+      "zh": "他们不仅给我涂指甲。"
+    },
+    {
+      "id": 33,
+      "start": 93.16,
+      "end": 98.24,
+      "en": "The manicurist will remove my cuticles, file my nails and apply at least four coats of nail polish.",
+      "zh": "美甲师会清理指缘死皮，锉好指甲，再涂上至少四层指甲油。"
+    },
+    {
+      "id": 34,
+      "start": 98.31,
+      "end": 101.19,
+      "en": "Yeah, sounds like something I should definitely do.",
+      "zh": "是的，听起来像是我绝对应该做的事情。"
+    },
+    {
+      "id": 35,
+      "start": 102.68,
+      "end": 107.88,
+      "en": "All right, we're back.",
+      "zh": "好了，我们回来了。"
+    },
+    {
+      "id": 36,
+      "start": 107.88,
+      "end": 113.02,
+      "en": "So now we found some very interesting and specific words related to nails.",
+      "zh": "所以现在我们发现了一些与指甲相关的非常有趣和具体的词。"
+    },
+    {
+      "id": 37,
+      "start": 113.72,
+      "end": 116.38,
+      "en": "So why don't we look at those now on Language Takeaway.",
+      "zh": "那么我们为什么不看看现在的语言外卖。"
+    },
+    {
+      "id": 38,
+      "start": 117.61,
+      "end": 118.83,
+      "en": "Language Takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 39,
+      "start": 119.73,
+      "end": 125.83,
+      "en": "All right, so this first word is an important word for every woman to know and I know a lot of men who get this too.",
+      "zh": "好吧，所以第一个词是每个女人都知道的重要词，我认识很多男人也知道这一点。"
+    },
+    {
+      "id": 40,
+      "start": 126.08,
+      "end": 127.08,
+      "en": "It's called a manicure.",
+      "zh": "它被称为修指甲。"
+    },
+    {
+      "id": 41,
+      "start": 127.43,
+      "end": 128.49,
+      "en": "All right, manicure.",
+      "zh": "好吧，修指甲。"
+    },
+    {
+      "id": 42,
+      "start": 128.88,
+      "end": 131.15,
+      "en": "And what exactly is a manicure?",
+      "zh": "究竟什么是美甲？"
+    },
+    {
+      "id": 43,
+      "start": 131.41,
+      "end": 134.59,
+      "en": "Well, a manicure is a service that you get at a nail salon.",
+      "zh": "好吧，美甲是您在美甲沙龙获得的服务。"
+    },
+    {
+      "id": 44,
+      "start": 134.99,
+      "end": 141.51,
+      "en": "And that means that the people at the nail salon will cut your nails and shape your nails.",
+      "zh": "这意味着指甲沙龙的人会剪掉你的指甲并塑造你的指甲。"
+    },
+    {
+      "id": 45,
+      "start": 141.73,
+      "end": 148.29,
+      "en": "That means if you want them to be pointy or boxy and then you get them painted and dried.",
+      "zh": "这意味着如果您希望它们是尖尖的或方形的，然后您将它们涂漆和干燥。"
+    },
+    {
+      "id": 46,
+      "start": 148.84,
+      "end": 153.76,
+      "en": "Okay, so they basically take care of your nails, of your fingernails, a manicure.",
+      "zh": "好吧，所以他们基本上会照顾你的指甲、指甲、修指甲。"
+    },
+    {
+      "id": 47,
+      "start": 153.96,
+      "end": 154.18,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 48,
+      "start": 154.44,
+      "end": 157.84,
+      "en": "And so the important thing to remember here that a manicure is for your hands.",
+      "zh": "所以在这里要记住的重要一点是修指甲是给你的手。"
+    },
+    {
+      "id": 49,
+      "start": 158.4,
+      "end": 161.88,
+      "en": "Right, so you can also get your toenails or your feet taken care of, right?",
+      "zh": "对，所以你也可以让你的脚趾甲或你的脚得到照顾，对吧？"
+    },
+    {
+      "id": 50,
+      "start": 162.1,
+      "end": 162.34,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 51,
+      "start": 162.72,
+      "end": 163.7,
+      "en": "So that's different.",
+      "zh": "所以这是不同的。"
+    },
+    {
+      "id": 52,
+      "start": 163.98,
+      "end": 166.84,
+      "en": "That's a pedicure because peda means foot.",
+      "zh": "这是修脚，因为 peda 的意思是脚。"
+    },
+    {
+      "id": 53,
+      "start": 167.1,
+      "end": 170.98,
+      "en": "So pedicure is for your feet and a manicure is for your hands.",
+      "zh": "所以修脚适合你的脚，修指甲适合你的手。"
+    },
+    {
+      "id": 54,
+      "start": 171.48,
+      "end": 172.2,
+      "en": "All right, very good.",
+      "zh": "好，很好。"
+    },
+    {
+      "id": 55,
+      "start": 172.76,
+      "end": 178.68,
+      "en": "And well, we talked about painting your nails and that paint has a specific name, right?",
+      "zh": "好吧，我们谈到了画你的指甲，那漆有一个特定的名字，对吧？"
+    },
+    {
+      "id": 56,
+      "start": 179.36,
+      "end": 179.62,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 57,
+      "start": 180.36,
+      "end": 184.76,
+      "en": "So you wouldn't use wall paint on your fingers, would you?",
+      "zh": "所以你不会在手指上涂墙漆，对吗？"
+    },
+    {
+      "id": 58,
+      "start": 184.76,
+      "end": 188.0,
+      "en": "So you have to use a special paint and this is called nail polish.",
+      "zh": "所以你必须使用一种特殊的油漆，这被称为指甲油。"
+    },
+    {
+      "id": 59,
+      "start": 188.68,
+      "end": 189.96,
+      "en": "Nail polish, okay.",
+      "zh": "指甲油，好吧。"
+    },
+    {
+      "id": 60,
+      "start": 189.96,
+      "end": 195.08,
+      "en": "So a polish is something that makes a surface or a thing shiny.",
+      "zh": "所以抛光剂是使表面或事物有光泽的东西。"
+    },
+    {
+      "id": 61,
+      "start": 195.08,
+      "end": 199.28,
+      "en": "Okay, so nail polish is a paint that makes your nails very shiny.",
+      "zh": "好的，所以指甲油是一种让你的指甲非常有光泽的油漆。"
+    },
+    {
+      "id": 62,
+      "start": 199.32,
+      "end": 200.2,
+      "en": "All right, very good.",
+      "zh": "好，很好。"
+    },
+    {
+      "id": 63,
+      "start": 201.0,
+      "end": 209.76,
+      "en": "And well, moving on, we talked about a manicure and there's a specific word for the person that provides this service that takes care of your nails.",
+      "zh": "好吧，继续前进，我们谈到了美甲，为提供这项服务的人提供了一个特定的词来照顾你的指甲。"
+    },
+    {
+      "id": 64,
+      "start": 209.76,
+      "end": 213.58,
+      "en": "Okay, so the job at a nail salon is manicurist.",
+      "zh": "好的，所以在美甲沙龙的工作是美甲师。"
+    },
+    {
+      "id": 65,
+      "start": 213.82,
+      "end": 217.08,
+      "en": "That's the person who paints your nails, okay?",
+      "zh": "那是画你指甲的人，好吗？"
+    },
+    {
+      "id": 66,
+      "start": 217.72,
+      "end": 220.63,
+      "en": "And so you could say, I have a favorite manicurist.",
+      "zh": "所以你可以说，我有一个最喜欢的美甲师。"
+    },
+    {
+      "id": 67,
+      "start": 220.8,
+      "end": 221.93,
+      "en": "Her name is Sally.",
+      "zh": "她的名字是莎莉。"
+    },
+    {
+      "id": 68,
+      "start": 222.41,
+      "end": 223.67,
+      "en": "Okay, very good.",
+      "zh": "好，很好。"
+    },
+    {
+      "id": 69,
+      "start": 224.31,
+      "end": 235.45,
+      "en": "And well, a manicurist, they perform a manicure and well, apart from painting your nails, they also push your cuticles or remove your cuticles like in the dialogue.",
+      "zh": "好吧，一个美甲师，他们做了修指甲，除了画你的指甲外，他们还推动你的角质层或去除你的角质层，就像在对话中一样。"
+    },
+    {
+      "id": 70,
+      "start": 235.97,
+      "end": 237.15,
+      "en": "What are the cuticles?",
+      "zh": "角质层是什么？"
+    },
+    {
+      "id": 71,
+      "start": 237.61,
+      "end": 239.29,
+      "en": "Okay, cuticle is a very hard word.",
+      "zh": "好吧，角质层是一个非常难的词。"
+    },
+    {
+      "id": 72,
+      "start": 239.88,
+      "end": 244.43,
+      "en": "This word describes the skin around your fingernail, okay?",
+      "zh": "这个词描述了你指甲周围的皮肤，好吗？"
+    },
+    {
+      "id": 73,
+      "start": 244.68,
+      "end": 249.75,
+      "en": "So you have skin all over your body, but on your fingernail, you have special kind of skin.",
+      "zh": "所以你全身都有皮肤，但在你的指甲上，你有特殊的皮肤。"
+    },
+    {
+      "id": 74,
+      "start": 250.84,
+      "end": 258.64,
+      "en": "And so a manicurist will sometimes push or cut the dead skin, that's the cuticle, from your finger.",
+      "zh": "因此，美甲师有时会推或剪掉你手指上的角质层，即角质层。"
+    },
+    {
+      "id": 75,
+      "start": 258.64,
+      "end": 259.31,
+      "en": "Okay, very good.",
+      "zh": "好，很好。"
+    },
+    {
+      "id": 76,
+      "start": 259.64,
+      "end": 266.56,
+      "en": "And if you look at your fingernails now, you will see a little thin layer of skin on your fingernail.",
+      "zh": "如果你现在看你的指甲，你会在你的指甲上看到一层薄薄的皮肤。"
+    },
+    {
+      "id": 77,
+      "start": 266.56,
+      "end": 267.55,
+      "en": "That's the cuticle.",
+      "zh": "这就是角质层。"
+    },
+    {
+      "id": 78,
+      "start": 268.4,
+      "end": 275.0,
+      "en": "And well, apart from removing your cuticles and painting your nails, they will also file your nails.",
+      "zh": "好吧，除了去除你的角质层和油漆你的指甲外，它们还会把你的指甲拉起来。"
+    },
+    {
+      "id": 79,
+      "start": 275.48,
+      "end": 276.38,
+      "en": "And this is a verb, to file.",
+      "zh": "这是一个动词，归档。"
+    },
+    {
+      "id": 80,
+      "start": 277.08,
+      "end": 278.1,
+      "en": "To file, okay.",
+      "zh": "归档，好吧。"
+    },
+    {
+      "id": 81,
+      "start": 278.36,
+      "end": 285.24,
+      "en": "So this is a word that's kind of like cut or trim, but a file is a more delicate process.",
+      "zh": "所以这个词有点像剪切或修剪，但文件是一个更微妙的过程。"
+    },
+    {
+      "id": 82,
+      "start": 285.7,
+      "end": 290.58,
+      "en": "So it means that we kind of shave off very, very, very little at a time.",
+      "zh": "所以这意味着我们一次非常、非常、非常少地刮胡子。"
+    },
+    {
+      "id": 83,
+      "start": 291.04,
+      "end": 298.72,
+      "en": "And so to file your nails means to make them shaped differently or to smooth them.",
+      "zh": "因此，锉指甲意味着使它们的形状不同或使它们光滑。"
+    },
+    {
+      "id": 84,
+      "start": 298.72,
+      "end": 300.48,
+      "en": "They're not cutting, clip, clip, clip.",
+      "zh": "它们不是切割、剪辑、剪辑、剪辑。"
+    },
+    {
+      "id": 85,
+      "start": 300.48,
+      "end": 301.48,
+      "en": "It's not that.",
+      "zh": "不是那样的。"
+    },
+    {
+      "id": 86,
+      "start": 301.48,
+      "end": 303.72,
+      "en": "It's a little bit less than that.",
+      "zh": "它比这少了一点。"
+    },
+    {
+      "id": 87,
+      "start": 303.72,
+      "end": 306.8,
+      "en": "And now there's also a noun for this, a nail file.",
+      "zh": "现在还有一个名词，一个指甲文件。"
+    },
+    {
+      "id": 88,
+      "start": 306.8,
+      "end": 309.84,
+      "en": "And most women will usually have it.",
+      "zh": "大多数女性通常会拥有它。"
+    },
+    {
+      "id": 89,
+      "start": 309.84,
+      "end": 315.88,
+      "en": "It's a long piece of cardboard that has a paper that's kind of like sand on it, kind of like sandpaper.",
+      "zh": "它是一块长纸板，上面有一张像沙子的纸，有点像砂纸。"
+    },
+    {
+      "id": 90,
+      "start": 315.88,
+      "end": 318.64,
+      "en": "It doesn't feel good when you rub it with your hand.",
+      "zh": "当你用手揉它时感觉不好。"
+    },
+    {
+      "id": 91,
+      "start": 318.64,
+      "end": 323.28,
+      "en": "But if you use it on your nails, it will little by little just take away little parts of your nail.",
+      "zh": "但如果你在指甲上使用它，它会一点一点地带走你的指甲的小部分。"
+    },
+    {
+      "id": 92,
+      "start": 324.87,
+      "end": 325.24,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 93,
+      "start": 325.31,
+      "end": 325.97,
+      "en": "Like that.",
+      "zh": "就这样。"
+    },
+    {
+      "id": 94,
+      "start": 326.39,
+      "end": 331.85,
+      "en": "You usually see it, the many secretaries, you know, in TV shows, they're always filing their nails.",
+      "zh": "你通常会看到，许多秘书，你知道，在电视节目中，他们总是在指甲。"
+    },
+    {
+      "id": 95,
+      "start": 332.01,
+      "end": 332.27,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 96,
+      "start": 333.44,
+      "end": 334.44,
+      "en": "Making them perfect.",
+      "zh": "让他们完美。"
+    },
+    {
+      "id": 97,
+      "start": 334.44,
+      "end": 335.44,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 98,
+      "start": 335.44,
+      "end": 337.04,
+      "en": "So those are the words we have for language takeaway.",
+      "zh": "所以这些是我们为语言外卖所用的词。"
+    },
+    {
+      "id": 99,
+      "start": 337.05,
+      "end": 341.11,
+      "en": "Why don't we take a look at our dialogue again and we'll be back in a little bit.",
+      "zh": "我们为什么不再看看我们的对话，我们会回来一点。"
+    },
+    {
+      "id": 100,
+      "start": 346.4,
+      "end": 347.42,
+      "en": "Honey, I'll be right back.",
+      "zh": "亲爱的，我马上回来。"
+    },
+    {
+      "id": 101,
+      "start": 347.94,
+      "end": 349.3,
+      "en": "Where are you going?",
+      "zh": "你要去哪儿？"
+    },
+    {
+      "id": 102,
+      "start": 349.6,
+      "end": 350.5,
+      "en": "I told you already.",
+      "zh": "我已经告诉过你了。"
+    },
+    {
+      "id": 103,
+      "start": 350.86,
+      "end": 352.36,
+      "en": "I'm going to get my nails done.",
+      "zh": "我要去做美甲。"
+    },
+    {
+      "id": 104,
+      "start": 352.88,
+      "end": 353.16,
+      "en": "Again?",
+      "zh": "又来了？"
+    },
+    {
+      "id": 105,
+      "start": 353.7,
+      "end": 355.1,
+      "en": "You just went last week.",
+      "zh": "你上周刚去。"
+    },
+    {
+      "id": 106,
+      "start": 355.66,
+      "end": 358.48,
+      "en": "You spend more time at the nail salon than you do here at home.",
+      "zh": "你在美甲沙龙的时间比在家里的时间还多。"
+    },
+    {
+      "id": 107,
+      "start": 359.08,
+      "end": 361.42,
+      "en": "Honestly, why do you need a manicure every week?",
+      "zh": "老实说，为什么每周都需要修指甲？"
+    },
+    {
+      "id": 108,
+      "start": 361.82,
+      "end": 365.46,
+      "en": "Well, first of all, I like to pamper myself and my nails look great.",
+      "zh": "好吧，首先，我喜欢宠爱自己，我的指甲看起来很棒。"
+    },
+    {
+      "id": 109,
+      "start": 365.94,
+      "end": 366.76,
+      "en": "You should come with me.",
+      "zh": "你应该跟我来。"
+    },
+    {
+      "id": 110,
+      "start": 367.14,
+      "end": 367.48,
+      "en": "Why?",
+      "zh": "为什么？"
+    },
+    {
+      "id": 111,
+      "start": 368.11,
+      "end": 370.75,
+      "en": "I don't want to have nail polish or anything like that.",
+      "zh": "我不想有指甲油或类似的东西。"
+    },
+    {
+      "id": 112,
+      "start": 371.35,
+      "end": 372.67,
+      "en": "They don't only paint my nails.",
+      "zh": "他们不仅给我涂指甲。"
+    },
+    {
+      "id": 113,
+      "start": 373.12,
+      "end": 378.2,
+      "en": "The manicurist will remove my cuticles, file my nails and apply at least four coats of nail polish.",
+      "zh": "美甲师会清理指缘死皮，锉好指甲，再涂上至少四层指甲油。"
+    },
+    {
+      "id": 114,
+      "start": 378.23,
+      "end": 378.61,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 115,
+      "start": 379.2,
+      "end": 382.4,
+      "en": "It sounds like something I should definitely do.",
+      "zh": "这听起来像是我绝对应该做的事情。"
+    },
+    {
+      "id": 116,
+      "start": 382.4,
+      "end": 386.12,
+      "en": "All right, we're back.",
+      "zh": "好了，我们回来了。"
+    },
+    {
+      "id": 117,
+      "start": 386.12,
+      "end": 394.72,
+      "en": "So now why don't we start with some phrases, some very good phrases that we found in this dialogue in Fluency Builder.",
+      "zh": "所以现在我们为什么不从一些短语开始，我们在 Fluency Builder 的这个对话中找到了一些非常好的短语。"
+    },
+    {
+      "id": 118,
+      "start": 394.72,
+      "end": 395.03,
+      "en": "Fluency Builder.",
+      "zh": "流利表达。"
+    },
+    {
+      "id": 119,
+      "start": 396.6,
+      "end": 402.6,
+      "en": "This first phrase is really important when we talk about nails because it's the way that we describe going to the nail salon.",
+      "zh": "当我们谈论指甲时，第一个短语非常重要，因为这是我们描述去美甲沙龙的方式。"
+    },
+    {
+      "id": 120,
+      "start": 402.96,
+      "end": 406.56,
+      "en": "So I can say, I'm going to get my nails done today.",
+      "zh": "所以我可以说，我今天要修指甲。"
+    },
+    {
+      "id": 121,
+      "start": 406.8,
+      "end": 409.04,
+      "en": "Okay, so to get your nails done.",
+      "zh": "好吧，所以要修指甲。"
+    },
+    {
+      "id": 122,
+      "start": 409.76,
+      "end": 414.84,
+      "en": "That means that you're going to get your nails cut, filed, painted, etc.",
+      "zh": "这意味着你要剪掉指甲，被剪掉，涂上油漆，等等。"
+    },
+    {
+      "id": 123,
+      "start": 414.84,
+      "end": 417.84,
+      "en": "I'm going to get a manicure, but that's very, I don't know, serious.",
+      "zh": "我要去修指甲，但我不知道，这是认真的。"
+    },
+    {
+      "id": 124,
+      "start": 418.28,
+      "end": 420.04,
+      "en": "So you could say, I'm going to get my nails done.",
+      "zh": "所以你可以说，我要把我的指甲修好。"
+    },
+    {
+      "id": 125,
+      "start": 420.04,
+      "end": 420.98,
+      "en": "It's more spoken language.",
+      "zh": "它是更多的口语。"
+    },
+    {
+      "id": 126,
+      "start": 421.4,
+      "end": 425.24,
+      "en": "Okay, so I'm going to get my nails done or you got your nails done.",
+      "zh": "好的，所以我要修指甲，或者你修指甲。"
+    },
+    {
+      "id": 127,
+      "start": 426.08,
+      "end": 426.32,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 128,
+      "start": 427.08,
+      "end": 433.04,
+      "en": "And well, the woman was talking about why she likes to go get a manicure and she said that she likes to pamper herself.",
+      "zh": "好吧，那个女人在谈论她为什么喜欢去修指甲，她说她喜欢宠爱自己。"
+    },
+    {
+      "id": 129,
+      "start": 433.54,
+      "end": 442.3,
+      "en": "Okay, this is very common, especially when women are trying to talk about why they spend money on hair and nails and clothes.",
+      "zh": "好吧，这很常见，尤其是当女性试图谈论她们为什么要花钱买头发、指甲和衣服时。"
+    },
+    {
+      "id": 130,
+      "start": 442.88,
+      "end": 444.8,
+      "en": "They say, I like to pamper myself.",
+      "zh": "他们说，我喜欢宠爱自己。"
+    },
+    {
+      "id": 131,
+      "start": 444.8,
+      "end": 447.4,
+      "en": "To pamper means to treat very, very well.",
+      "zh": "宠爱意味着对待非常非常好。"
+    },
+    {
+      "id": 132,
+      "start": 447.4,
+      "end": 447.63,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 133,
+      "start": 448.4,
+      "end": 452.65,
+      "en": "So if you go get a manicure, it's kind of like pampering yourself or maybe going to a spa.",
+      "zh": "所以如果你去修指甲，这有点像宠爱自己或去水疗中心。"
+    },
+    {
+      "id": 134,
+      "start": 453.32,
+      "end": 454.49,
+      "en": "Exactly, or getting a massage.",
+      "zh": "没错，还是去按摩。"
+    },
+    {
+      "id": 135,
+      "start": 455.4,
+      "end": 458.32,
+      "en": "And so we could say also, don't pamper the dog.",
+      "zh": "所以我们也可以说，不要宠爱狗。"
+    },
+    {
+      "id": 136,
+      "start": 458.32,
+      "end": 458.95,
+      "en": "He's very naughty.",
+      "zh": "他很调皮。"
+    },
+    {
+      "id": 137,
+      "start": 459.56,
+      "end": 460.83,
+      "en": "So a synonym would be to spoil.",
+      "zh": "所以同义词是破坏。"
+    },
+    {
+      "id": 138,
+      "start": 461.92,
+      "end": 464.51,
+      "en": "To spoil oneself, to pamper.",
+      "zh": "宠爱自己，宠爱自己。"
+    },
+    {
+      "id": 139,
+      "start": 464.93,
+      "end": 465.37,
+      "en": "Indulge.",
+      "zh": "放纵。"
+    },
+    {
+      "id": 140,
+      "start": 465.49,
+      "end": 465.81,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 141,
+      "start": 466.8,
+      "end": 475.28,
+      "en": "So, and well, she was talking about how they perform a manicure and she talked about four coats of nail polish.",
+      "zh": "所以，好吧，她说的是他们如何进行美甲，她谈到了四层指甲油。"
+    },
+    {
+      "id": 142,
+      "start": 475.28,
+      "end": 478.09,
+      "en": "So a coat, we know that it's kind of like a jacket, right?",
+      "zh": "所以一件外套，我们知道它有点像夹克，对吧？"
+    },
+    {
+      "id": 143,
+      "start": 478.44,
+      "end": 480.51,
+      "en": "But in this case, it means a layer.",
+      "zh": "但在这种情况下，它意味着一层。"
+    },
+    {
+      "id": 144,
+      "start": 481.32,
+      "end": 482.91,
+      "en": "So you paint your nails one time.",
+      "zh": "所以你有一次涂指甲。"
+    },
+    {
+      "id": 145,
+      "start": 483.52,
+      "end": 484.52,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 146,
+      "start": 484.52,
+      "end": 484.85,
+      "en": "You have color.",
+      "zh": "你有颜色。"
+    },
+    {
+      "id": 147,
+      "start": 485.72,
+      "end": 486.35,
+      "en": "Maybe it doesn't look right.",
+      "zh": "也许它看起来不对。"
+    },
+    {
+      "id": 148,
+      "start": 486.87,
+      "end": 486.99,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 149,
+      "start": 487.07,
+      "end": 487.65,
+      "en": "It's very thin.",
+      "zh": "它很薄。"
+    },
+    {
+      "id": 150,
+      "start": 488.29,
+      "end": 496.95,
+      "en": "So you say, okay, I'm going to paint two coats and then you paint one more time and the color gets darker and you paint one more time and the color gets very dark and very thick.",
+      "zh": "所以你说，好吧，我要画两层，然后你再画一层，颜色变得更暗，你再画一遍，颜色变得非常暗和很厚。"
+    },
+    {
+      "id": 151,
+      "start": 497.43,
+      "end": 498.39,
+      "en": "And so these are called coats.",
+      "zh": "所以这些被称为外套。"
+    },
+    {
+      "id": 152,
+      "start": 498.8,
+      "end": 500.56,
+      "en": "That means layers of nail polish.",
+      "zh": "这意味着指甲油层。"
+    },
+    {
+      "id": 153,
+      "start": 500.73,
+      "end": 503.73,
+      "en": "And that's a special word we use when we're talking about painting our nails.",
+      "zh": "这是我们在谈论画指甲时使用的一个特殊词。"
+    },
+    {
+      "id": 154,
+      "start": 504.15,
+      "end": 504.31,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 155,
+      "start": 504.37,
+      "end": 509.13,
+      "en": "So not only for nails, but if you're painting your house, maybe you need two or three coats of paint.",
+      "zh": "所以不仅是指甲，而且如果你正在粉刷你的房子，也许你需要两三层油漆。"
+    },
+    {
+      "id": 156,
+      "start": 509.53,
+      "end": 509.77,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 157,
+      "start": 510.03,
+      "end": 517.18,
+      "en": "If we have a red wall and we want to paint it white, we definitely need two, three, maybe four coats of paint.",
+      "zh": "如果我们有一堵红色的墙，我们想把它漆成白色，我们肯定需要两层、三层、也许是四层油漆。"
+    },
+    {
+      "id": 158,
+      "start": 517.44,
+      "end": 518.74,
+      "en": "Otherwise, we'll still see the red.",
+      "zh": "否则，我们仍然会看到红色。"
+    },
+    {
+      "id": 159,
+      "start": 519.2,
+      "end": 520.2,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 160,
+      "start": 520.2,
+      "end": 521.2,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 161,
+      "start": 521.2,
+      "end": 522.4,
+      "en": "Very interesting phrases.",
+      "zh": "非常有趣的短语。"
+    },
+    {
+      "id": 162,
+      "start": 522.4,
+      "end": 525.88,
+      "en": "Let's take a look at this dialogue for the very last time and we'll be back shortly.",
+      "zh": "让我们最后一次看一下这个对话，我们很快就会回来。"
+    },
+    {
+      "id": 163,
+      "start": 533.45,
+      "end": 534.45,
+      "en": "Honey, I'll be right back.",
+      "zh": "亲爱的，我马上回来。"
+    },
+    {
+      "id": 164,
+      "start": 534.85,
+      "end": 536.01,
+      "en": "Where are you going?",
+      "zh": "你要去哪儿？"
+    },
+    {
+      "id": 165,
+      "start": 536.33,
+      "end": 537.23,
+      "en": "I told you already.",
+      "zh": "我已经告诉过你了。"
+    },
+    {
+      "id": 166,
+      "start": 537.57,
+      "end": 539.69,
+      "en": "I'm going to get my nails done again.",
+      "zh": "我要再次完成我的指甲。"
+    },
+    {
+      "id": 167,
+      "start": 540.35,
+      "end": 541.61,
+      "en": "You just went last week.",
+      "zh": "你上周刚去。"
+    },
+    {
+      "id": 168,
+      "start": 542.17,
+      "end": 544.99,
+      "en": "You spend more time at the nail salon than you do here at home.",
+      "zh": "你在美甲沙龙的时间比在家里的时间还多。"
+    },
+    {
+      "id": 169,
+      "start": 545.55,
+      "end": 547.91,
+      "en": "Honestly, why do you need a manicure every week?",
+      "zh": "老实说，为什么每周都需要修指甲？"
+    },
+    {
+      "id": 170,
+      "start": 548.27,
+      "end": 551.97,
+      "en": "Well, first of all, I like to pamper myself and my nails look great.",
+      "zh": "好吧，首先，我喜欢宠爱自己，我的指甲看起来很棒。"
+    },
+    {
+      "id": 171,
+      "start": 552.49,
+      "end": 553.29,
+      "en": "You should come with me.",
+      "zh": "你应该跟我来。"
+    },
+    {
+      "id": 172,
+      "start": 553.61,
+      "end": 553.87,
+      "en": "Why?",
+      "zh": "为什么？"
+    },
+    {
+      "id": 173,
+      "start": 554.61,
+      "end": 557.17,
+      "en": "I don't want to have nail polish or anything like that.",
+      "zh": "我不想有指甲油或类似的东西。"
+    },
+    {
+      "id": 174,
+      "start": 557.61,
+      "end": 558.95,
+      "en": "They don't only paint my nails.",
+      "zh": "他们不仅给我涂指甲。"
+    },
+    {
+      "id": 175,
+      "start": 559.43,
+      "end": 564.01,
+      "en": "The manicurist will remove my cuticles, file my nails and apply at least four coats of nail polish.",
+      "zh": "美甲师会清理指缘死皮，锉好指甲，再涂上至少四层指甲油。"
+    },
+    {
+      "id": 176,
+      "start": 564.63,
+      "end": 567.47,
+      "en": "Yeah, sounds like something I should definitely do.",
+      "zh": "是的，听起来像是我绝对应该做的事情。"
+    },
+    {
+      "id": 177,
+      "start": 568.48,
+      "end": 572.8,
+      "en": "All right, we're back.",
+      "zh": "好了，我们回来了。"
+    },
+    {
+      "id": 178,
+      "start": 575.55,
+      "end": 577.91,
+      "en": "So, Catherine, are you a big fan of manicures?",
+      "zh": "那么，凯瑟琳，你是美甲的忠实粉丝吗？"
+    },
+    {
+      "id": 179,
+      "start": 578.07,
+      "end": 578.87,
+      "en": "Do you get it done often?",
+      "zh": "你经常完成它吗？"
+    },
+    {
+      "id": 180,
+      "start": 579.37,
+      "end": 581.53,
+      "en": "I didn't used to, but I really enjoy them now.",
+      "zh": "我不习惯，但我现在真的很喜欢它们。"
+    },
+    {
+      "id": 181,
+      "start": 581.68,
+      "end": 584.2,
+      "en": "I think it's a nice way to relax on the weekends.",
+      "zh": "我认为这是周末放松的好方法。"
+    },
+    {
+      "id": 182,
+      "start": 584.23,
+      "end": 590.35,
+      "en": "So every couple of weeks, I go to the nail salon and I get my nails done.",
+      "zh": "所以每隔几周，我就会去美甲沙龙，把我的指甲做好。"
+    },
+    {
+      "id": 183,
+      "start": 590.67,
+      "end": 590.93,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 184,
+      "start": 591.49,
+      "end": 600.97,
+      "en": "I think one of the words that we didn't talk about here, but it's very, I don't know, for men it's kind of a strange smell, is nail polish remover.",
+      "zh": "我认为我们在这里没有谈论的一个词之一，但我不知道，对于男人来说，这是一种奇怪的气味，是指甲油去除剂。"
+    },
+    {
+      "id": 185,
+      "start": 601.64,
+      "end": 603.76,
+      "en": "The acetone, right?",
+      "zh": "丙酮对吧？"
+    },
+    {
+      "id": 186,
+      "start": 603.76,
+      "end": 604.62,
+      "en": "It's a very strong chemical.",
+      "zh": "这是一种非常强的化学物质。"
+    },
+    {
+      "id": 187,
+      "start": 605.3,
+      "end": 606.26,
+      "en": "It is really disgusting.",
+      "zh": "这真的很恶心。"
+    },
+    {
+      "id": 188,
+      "start": 607.22,
+      "end": 610.96,
+      "en": "Nail polish remover, you know, the word to remove means to take away.",
+      "zh": "指甲油去除剂，你知道的，去除的词意味着带走。"
+    },
+    {
+      "id": 189,
+      "start": 611.52,
+      "end": 615.28,
+      "en": "And so when the nail polish, we want to change the color, we have to use this.",
+      "zh": "所以当指甲油时，我们要改变颜色，我们必须使用它。"
+    },
+    {
+      "id": 190,
+      "start": 615.28,
+      "end": 617.18,
+      "en": "It's like water, but it smells really bad.",
+      "zh": "它就像水，但它闻起来很糟糕。"
+    },
+    {
+      "id": 191,
+      "start": 617.92,
+      "end": 624.76,
+      "en": "And so my boyfriend always gets angry when I use the nail polish remover because the whole house starts to stink.",
+      "zh": "所以当我使用指甲油去除剂时，我的男朋友总是很生气，因为整个房子都开始发臭了。"
+    },
+    {
+      "id": 192,
+      "start": 624.76,
+      "end": 626.82,
+      "en": "It's a very strong smell and you get kind of dizzy.",
+      "zh": "这是一种非常强烈的气味，你会感到头晕目眩。"
+    },
+    {
+      "id": 193,
+      "start": 627.04,
+      "end": 628.04,
+      "en": "So that's why.",
+      "zh": "原来是这个原因。"
+    },
+    {
+      "id": 194,
+      "start": 628.04,
+      "end": 629.04,
+      "en": "Yeah, it goes into your head.",
+      "zh": "是的，它进入你的脑海。"
+    },
+    {
+      "id": 195,
+      "start": 629.04,
+      "end": 630.04,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 196,
+      "start": 630.04,
+      "end": 638.14,
+      "en": "Well, if you guys have any questions, any doubts, or any suggestions about this lesson or any other lesson, please come to our website, EnglishPod.com and we'll see you guys there.",
+      "zh": "好吧，如果你们对本课或任何其他课程有任何疑问、任何疑问或任何建议，请访问我们的网站 englishpod.com，我们会在那里见到你们。"
+    },
+    {
+      "id": 197,
+      "start": 638.64,
+      "end": 638.92,
+      "en": "Bye, everyone.",
+      "zh": "大家再见。"
+    }
+  ],
+  "dialog": {
+    "start": 67.08,
+    "end": 101.19,
+    "segmentIds": [
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+    ]
+  }
+}

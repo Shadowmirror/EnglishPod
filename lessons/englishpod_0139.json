@@ -1,0 +1,1864 @@
+{
+  "version": 1,
+  "id": 139,
+  "number": "0139",
+  "title": "The Weekend - Playing Chess",
+  "audio": "mp3/139. The Weekend - Playing Chess.mp3",
+  "duration": 838.896375,
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.97,
+      "end": 4.07,
+      "en": "Hello everyone, welcome to EnglishPod.",
+      "zh": "大家好，欢迎来到Englishpod。"
+    },
+    {
+      "id": 2,
+      "start": 4.29,
+      "end": 4.71,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 5.32,
+      "end": 7.36,
+      "en": "Hi guys, my name is Catherine.",
+      "zh": "大家好，我的名字是凯瑟琳。"
+    },
+    {
+      "id": 4,
+      "start": 7.36,
+      "end": 13.08,
+      "en": "And today we're going to be looking at another lesson as part of our sports series and this time, well it's a debate.",
+      "zh": "今天我们将在我们的体育系列中看到另一节课，这一次，这是一场辩论。"
+    },
+    {
+      "id": 5,
+      "start": 13.08,
+      "end": 15.13,
+      "en": "Is it a game or is it a sport?",
+      "zh": "是游戏还是运动？"
+    },
+    {
+      "id": 6,
+      "start": 15.53,
+      "end": 16.29,
+      "en": "Oh, it's a sport.",
+      "zh": "哦，这是一项运动。"
+    },
+    {
+      "id": 7,
+      "start": 16.51,
+      "end": 17.65,
+      "en": "You have to work your mind.",
+      "zh": "你必须努力工作。"
+    },
+    {
+      "id": 8,
+      "start": 17.88,
+      "end": 23.92,
+      "en": "Yeah, so we're looking at chess, a very old, very popular sport, very difficult to play as well.",
+      "zh": "是的，所以我们正在关注国际象棋，这是一项非常古老、非常流行的运动，也很难下棋。"
+    },
+    {
+      "id": 9,
+      "start": 23.92,
+      "end": 30.71,
+      "en": "It takes a lot of practice and believe me, it's frustrating at the beginning and I'm still kind of in the beginning and intermediate stages.",
+      "zh": "这需要大量的练习，相信我，一开始就令人沮丧，我仍然处于开始和中间阶段。"
+    },
+    {
+      "id": 10,
+      "start": 31.16,
+      "end": 36.64,
+      "en": "But yeah, it takes a lot of practice and it takes a lot of time to familiarize yourself with the rules.",
+      "zh": "但是，是的，需要大量的练习，并且需要大量的时间来熟悉规则。"
+    },
+    {
+      "id": 11,
+      "start": 36.64,
+      "end": 37.64,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 12,
+      "start": 37.64,
+      "end": 40.6,
+      "en": "So we're going to be learning a little bit more about the pieces and the rules today.",
+      "zh": "所以我们今天将更多地了解这些碎片和规则。"
+    },
+    {
+      "id": 13,
+      "start": 40.6,
+      "end": 41.68,
+      "en": "Okay, perfect.",
+      "zh": "好，太好了。"
+    },
+    {
+      "id": 14,
+      "start": 41.68,
+      "end": 43.84,
+      "en": "So we're not going to preview anything.",
+      "zh": "所以我们不会预览任何东西。"
+    },
+    {
+      "id": 15,
+      "start": 43.84,
+      "end": 50.6,
+      "en": "Let's listen to the dialogue for the first time and then we'll come back and talk about the sport.",
+      "zh": "让我们第一次听对话，然后我们会回来谈论这项运动。"
+    },
+    {
+      "id": 16,
+      "start": 52.62,
+      "end": 55.9,
+      "en": "Bobby, come here.",
+      "zh": "鲍比，过来。"
+    },
+    {
+      "id": 17,
+      "start": 56.4,
+      "end": 57.48,
+      "en": "Look what I got you.",
+      "zh": "看看我得到了什么。"
+    },
+    {
+      "id": 18,
+      "start": 58.24,
+      "end": 59.1,
+      "en": "What is that?",
+      "zh": "那是什么？"
+    },
+    {
+      "id": 19,
+      "start": 59.7,
+      "end": 60.48,
+      "en": "A chess board.",
+      "zh": "一副国际象棋棋盘。"
+    },
+    {
+      "id": 20,
+      "start": 60.64,
+      "end": 63.64,
+      "en": "Daddy's going to teach you how to play.",
+      "zh": "爸爸要教你怎么玩。"
+    },
+    {
+      "id": 21,
+      "start": 63.64,
+      "end": 64.64,
+      "en": "Cool.",
+      "zh": "太棒了。"
+    },
+    {
+      "id": 22,
+      "start": 64.64,
+      "end": 64.91,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 23,
+      "start": 65.64,
+      "end": 67.73,
+      "en": "Each player gets 16 pieces.",
+      "zh": "每位棋手有十六个棋子。"
+    },
+    {
+      "id": 24,
+      "start": 68.61,
+      "end": 71.17,
+      "en": "You can be the white ones and I'll play with the black pieces.",
+      "zh": "你执白棋，我执黑棋。"
+    },
+    {
+      "id": 25,
+      "start": 72.01,
+      "end": 75.09,
+      "en": "Now in the front, you set up the pawns.",
+      "zh": "先把兵摆在前面一排。"
+    },
+    {
+      "id": 26,
+      "start": 75.67,
+      "end": 79.87,
+      "en": "Those are the least viable pieces and can only move one space forward.",
+      "zh": "兵的作用最小，每次只能向前走一格。"
+    },
+    {
+      "id": 27,
+      "start": 80.68,
+      "end": 85.46,
+      "en": "When you're about to capture another piece, it can move one space diagonally.",
+      "zh": "要吃掉对方棋子时，兵可以斜着走一格。"
+    },
+    {
+      "id": 28,
+      "start": 86.12,
+      "end": 87.3,
+      "en": "What about all these other pieces?",
+      "zh": "那其他这些棋子呢？"
+    },
+    {
+      "id": 29,
+      "start": 88.21,
+      "end": 89.23,
+      "en": "See this one?",
+      "zh": "看到这一张了吗？"
+    },
+    {
+      "id": 30,
+      "start": 89.72,
+      "end": 91.24,
+      "en": "It looks like a tower.",
+      "zh": "它看起来像一座塔。"
+    },
+    {
+      "id": 31,
+      "start": 91.24,
+      "end": 91.81,
+      "en": "It's called the rook.",
+      "zh": "这叫“车”。"
+    },
+    {
+      "id": 32,
+      "start": 92.44,
+      "end": 94.67,
+      "en": "The one with the tall hat is called the bishop.",
+      "zh": "戴高帽子的这个叫“象”。"
+    },
+    {
+      "id": 33,
+      "start": 95.37,
+      "end": 96.83,
+      "en": "See this little horsey?",
+      "zh": "看到这个小马了吗？"
+    },
+    {
+      "id": 34,
+      "start": 97.21,
+      "end": 98.51,
+      "en": "This is called the knight.",
+      "zh": "这个叫“马”。"
+    },
+    {
+      "id": 35,
+      "start": 98.93,
+      "end": 103.89,
+      "en": "It's a very important piece, so it's best not to let your opponent capture it.",
+      "zh": "这是很重要的棋子，最好别让对手吃掉。"
+    },
+    {
+      "id": 36,
+      "start": 104.25,
+      "end": 104.93,
+      "en": "And these two?",
+      "zh": "那这两个呢？"
+    },
+    {
+      "id": 37,
+      "start": 105.53,
+      "end": 106.55,
+      "en": "They are husband and wife.",
+      "zh": "他们是夫妻。"
+    },
+    {
+      "id": 38,
+      "start": 107.15,
+      "end": 107.91,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 39,
+      "start": 108.45,
+      "end": 110.21,
+      "en": "That's the queen and that's the king.",
+      "zh": "这是后，那是王。"
+    },
+    {
+      "id": 40,
+      "start": 110.67,
+      "end": 115.55,
+      "en": "If the other player captures your king, he will say, checkmate, and the game is over.",
+      "zh": "如果对手吃掉你的王，他就会说“将死”，棋局就结束了。"
+    },
+    {
+      "id": 41,
+      "start": 116.13,
+      "end": 117.25,
+      "en": "Doesn't this sound fun?",
+      "zh": "听起来不是很有趣吗？"
+    },
+    {
+      "id": 42,
+      "start": 117.8,
+      "end": 119.9,
+      "en": "Nah, this sounds boring.",
+      "zh": "不，这听起来很无聊。"
+    },
+    {
+      "id": 43,
+      "start": 120.8,
+      "end": 122.8,
+      "en": "I'm going to go play Killer Zombies on my PlayStation.",
+      "zh": "我要去我的游戏机上玩杀手僵尸。"
+    },
+    {
+      "id": 44,
+      "start": 128.52,
+      "end": 128.66,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 45,
+      "start": 129.52,
+      "end": 132.44,
+      "en": "So the kid is obviously not very interested in learning how to play chess.",
+      "zh": "所以这个孩子显然对学习下国际象棋不是很感兴趣。"
+    },
+    {
+      "id": 46,
+      "start": 133.12,
+      "end": 133.74,
+      "en": "Not at all.",
+      "zh": "一点也不。"
+    },
+    {
+      "id": 47,
+      "start": 134.12,
+      "end": 139.56,
+      "en": "You know, the arts of these kind of slower games might be replaced very soon by video games.",
+      "zh": "你知道，这类较慢游戏的艺术可能很快就会被电子游戏取代。"
+    },
+    {
+      "id": 48,
+      "start": 139.56,
+      "end": 147.0,
+      "en": "It doesn't really appeal to a little nine-year-old or ten-year-old instead of, you know, playing something like this versus, yeah, shooting.",
+      "zh": "它并没有真正吸引一个九岁或十岁的小孩，而不是，你知道，玩这样的东西，是的，射击。"
+    },
+    {
+      "id": 49,
+      "start": 147.0,
+      "end": 147.32,
+      "en": "Yeah, exactly.",
+      "zh": "对，没错。"
+    },
+    {
+      "id": 50,
+      "start": 148.0,
+      "end": 149.26,
+      "en": "But it's a very great game.",
+      "zh": "但这是一个非常棒的游戏。"
+    },
+    {
+      "id": 51,
+      "start": 149.56,
+      "end": 150.66,
+      "en": "It's very difficult, like we mentioned.",
+      "zh": "这很困难，就像我们提到的。"
+    },
+    {
+      "id": 52,
+      "start": 150.96,
+      "end": 156.34,
+      "en": "So we're going to look at the name of the pieces and the rules that are related to these pieces in Language Takeaway.",
+      "zh": "因此，我们将在语言外卖中查看与这些作品相关的作品的名称和规则。"
+    },
+    {
+      "id": 53,
+      "start": 158.96,
+      "end": 159.57,
+      "en": "Language Takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 54,
+      "start": 161.17,
+      "end": 168.11,
+      "en": "Well, the first one you might have heard before because this is a word that is often used in strategy in general.",
+      "zh": "好吧，您以前可能听说过的第一个，因为这是一个通常在策略中经常使用的词。"
+    },
+    {
+      "id": 55,
+      "start": 168.52,
+      "end": 170.65,
+      "en": "So the word pawn.",
+      "zh": "所以这个词典当。"
+    },
+    {
+      "id": 56,
+      "start": 171.0,
+      "end": 171.39,
+      "en": "A pawn.",
+      "zh": "一个棋子。"
+    },
+    {
+      "id": 57,
+      "start": 171.91,
+      "end": 177.93,
+      "en": "A pawn usually means something that is not very important that you can use to distract an opponent.",
+      "zh": "棋子通常意味着一些不太重要的东西，你可以用来分散对手的注意力。"
+    },
+    {
+      "id": 58,
+      "start": 178.73,
+      "end": 178.99,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 59,
+      "start": 179.56,
+      "end": 180.95,
+      "en": "So on the chessboard, you have eight pawns.",
+      "zh": "所以在棋盘上，你有八个棋子。"
+    },
+    {
+      "id": 60,
+      "start": 181.06,
+      "end": 184.89,
+      "en": "So these are the ones that you have the most, but their movement is very limited.",
+      "zh": "所以这些是你拥有最多的，但它们的运动非常有限。"
+    },
+    {
+      "id": 61,
+      "start": 185.36,
+      "end": 189.37,
+      "en": "So they can only move two spaces forward on the first move, right?",
+      "zh": "所以他们只能在第一步时向前移动两个空间，对吧？"
+    },
+    {
+      "id": 62,
+      "start": 189.84,
+      "end": 190.84,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 63,
+      "start": 190.84,
+      "end": 192.12,
+      "en": "Or one space after that.",
+      "zh": "或之后的一个空间。"
+    },
+    {
+      "id": 64,
+      "start": 192.12,
+      "end": 192.67,
+      "en": "One space forward.",
+      "zh": "一处空间向前。"
+    },
+    {
+      "id": 65,
+      "start": 193.64,
+      "end": 198.52,
+      "en": "And only when it's going to capture another piece can it move diagonally.",
+      "zh": "只有当它要捕捉到另一件作品时，它才能对角移动。"
+    },
+    {
+      "id": 66,
+      "start": 198.82,
+      "end": 199.16,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 67,
+      "start": 199.52,
+      "end": 200.44,
+      "en": "So you can't just go diagonally.",
+      "zh": "所以你不能只是对角地去。"
+    },
+    {
+      "id": 68,
+      "start": 200.6,
+      "end": 205.92,
+      "en": "You have to go forward until you're going to take another person's piece to capture it and to go diagonally.",
+      "zh": "你必须继续前进，直到你要拿另一个人的作品来捕捉它并对角行进。"
+    },
+    {
+      "id": 69,
+      "start": 206.04,
+      "end": 206.44,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 70,
+      "start": 207.0,
+      "end": 208.24,
+      "en": "But a pawn is funny.",
+      "zh": "但是棋子很有趣。"
+    },
+    {
+      "id": 71,
+      "start": 208.24,
+      "end": 214.54,
+      "en": "You can also use this word when you're talking about other things like, he used her as a pawn in his little game.",
+      "zh": "当你在谈论其他事情时，你也可以使用这个词，比如他在他的小游戏中将她当作棋子。"
+    },
+    {
+      "id": 72,
+      "start": 215.6,
+      "end": 216.4,
+      "en": "So you want to make an analogy.",
+      "zh": "所以你想做一个类比。"
+    },
+    {
+      "id": 73,
+      "start": 216.64,
+      "end": 218.92,
+      "en": "You want to make a comparison from life to these games.",
+      "zh": "你想从生活到这些游戏进行比较。"
+    },
+    {
+      "id": 74,
+      "start": 219.16,
+      "end": 220.88,
+      "en": "You can use the word pawn.",
+      "zh": "您可以使用 pawn 一词。"
+    },
+    {
+      "id": 75,
+      "start": 220.88,
+      "end": 221.88,
+      "en": "Pawn.",
+      "zh": "典当。"
+    },
+    {
+      "id": 76,
+      "start": 221.88,
+      "end": 222.88,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 77,
+      "start": 222.88,
+      "end": 224.88,
+      "en": "So let's go to the other pieces on the chessboard.",
+      "zh": "所以让我们去棋盘上的其他部分。"
+    },
+    {
+      "id": 78,
+      "start": 224.88,
+      "end": 228.16,
+      "en": "On the very far ends of the board, you have the rook.",
+      "zh": "在板的最远端，你有车。"
+    },
+    {
+      "id": 79,
+      "start": 228.58,
+      "end": 228.98,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 80,
+      "start": 229.16,
+      "end": 233.64,
+      "en": "You've got two of these and they kind of look like towers from a castle.",
+      "zh": "你有两个，它们看起来像城堡中的塔。"
+    },
+    {
+      "id": 81,
+      "start": 233.64,
+      "end": 245.38,
+      "en": "And it's a very, well, they're very important pieces and actually my favorite pieces because they're not very important at the beginning of a game, but at the end of a game, boom, boom, boom, you can do a lot of damage because they can go anywhere in straight lines.",
+      "zh": "它是一个非常非常重要的作品，实际上是我最喜欢的作品，因为它们在游戏开始时不是很重要，但在游戏结束时，繁荣、繁荣、繁荣，你可以造成很多伤害，因为它们可以直线去任何地方。"
+    },
+    {
+      "id": 82,
+      "start": 245.76,
+      "end": 245.9,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 83,
+      "start": 245.9,
+      "end": 251.1,
+      "en": "So they can go forward, backwards, and to the sides, as many spaces as they want.",
+      "zh": "所以他们可以向前、向后和向两侧移动，他们想要的空间尽可能多。"
+    },
+    {
+      "id": 84,
+      "start": 251.38,
+      "end": 251.94,
+      "en": "The whole board.",
+      "zh": "整个板。"
+    },
+    {
+      "id": 85,
+      "start": 252.4,
+      "end": 253.4,
+      "en": "The whole board.",
+      "zh": "整个板。"
+    },
+    {
+      "id": 86,
+      "start": 253.4,
+      "end": 254.4,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 87,
+      "start": 254.4,
+      "end": 256.94,
+      "en": "So easy, easy pieces to forget about at the beginning, but they're very important.",
+      "zh": "一开始就很容易忘记，但它们非常重要。"
+    },
+    {
+      "id": 88,
+      "start": 257.88,
+      "end": 260.96,
+      "en": "And now next to the rook, we have the bishop.",
+      "zh": "现在在车旁边，我们有主教。"
+    },
+    {
+      "id": 89,
+      "start": 261.24,
+      "end": 262.24,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 90,
+      "start": 262.24,
+      "end": 266.76,
+      "en": "This is very different from the rook because the bishop can also go anywhere, but they can only go diagonally.",
+      "zh": "这与 Rook 非常不同，因为主教也可以去任何地方，但他们只能对角地去。"
+    },
+    {
+      "id": 91,
+      "start": 266.98,
+      "end": 267.22,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 92,
+      "start": 267.66,
+      "end": 269.42,
+      "en": "So only diagonally.",
+      "zh": "所以只有对角线。"
+    },
+    {
+      "id": 93,
+      "start": 269.6,
+      "end": 272.2,
+      "en": "They can also move four directions, but diagonally, right?",
+      "zh": "他们也可以移动四个方向，但对角线，对吧？"
+    },
+    {
+      "id": 94,
+      "start": 272.56,
+      "end": 272.86,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 95,
+      "start": 273.64,
+      "end": 278.36,
+      "en": "So you can go forward and backward, but it has to be in a diagonal slanted line.",
+      "zh": "所以你可以向前和向后，但它必须在对角线倾斜的线上。"
+    },
+    {
+      "id": 96,
+      "start": 278.36,
+      "end": 279.36,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 97,
+      "start": 279.36,
+      "end": 282.02,
+      "en": "And now next to the bishop, we have the knight.",
+      "zh": "现在在主教旁边，我们有骑士。"
+    },
+    {
+      "id": 98,
+      "start": 282.9,
+      "end": 283.7,
+      "en": "Ooh, the knight.",
+      "zh": "哦，骑士。"
+    },
+    {
+      "id": 99,
+      "start": 284.02,
+      "end": 288.08,
+      "en": "So he's the one galloping on the horse, like those old stories of King Arthur we used to hear.",
+      "zh": "所以他是一个在马上疾驰的人，就像我们曾经听到的亚瑟王的那些老故事一样。"
+    },
+    {
+      "id": 100,
+      "start": 289.28,
+      "end": 293.4,
+      "en": "But the knight can go in an L shape and I've never understood this, but.",
+      "zh": "但是骑士可以变成L形，我从来没有理解过这一点，但是。"
+    },
+    {
+      "id": 101,
+      "start": 293.4,
+      "end": 293.54,
+      "en": "It's weird.",
+      "zh": "这很奇怪。"
+    },
+    {
+      "id": 102,
+      "start": 294.4,
+      "end": 303.22,
+      "en": "So it can move two spaces forward and then one to the right or one to the left, or it can move two spaces to the right and then one forward.",
+      "zh": "所以它可以向前移动两个空间，然后向右移动一个，或者向左移动一个，或者它可以向右移动两个空格，然后向前移动一个。"
+    },
+    {
+      "id": 103,
+      "start": 303.6,
+      "end": 307.5,
+      "en": "So it's very strange, but it always has to move three spaces and in the shape of an L.",
+      "zh": "所以这很奇怪，但它总是必须移动三个空格并呈 l 的形状。"
+    },
+    {
+      "id": 104,
+      "start": 307.84,
+      "end": 309.7,
+      "en": "So I thought maybe he was the drunken piece.",
+      "zh": "所以我想也许他是醉酒的人。"
+    },
+    {
+      "id": 105,
+      "start": 310.0,
+      "end": 313.84,
+      "en": "He can go forward a little bit, then he kind of moves to the side.",
+      "zh": "他可以向前走一点，然后他有点移动到一边。"
+    },
+    {
+      "id": 106,
+      "start": 313.84,
+      "end": 314.84,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 107,
+      "start": 314.84,
+      "end": 315.84,
+      "en": "So that's the knight.",
+      "zh": "所以这就是骑士。"
+    },
+    {
+      "id": 108,
+      "start": 315.84,
+      "end": 318.32,
+      "en": "It's actually a very, very important piece as well.",
+      "zh": "它实际上也是一个非常非常重要的作品。"
+    },
+    {
+      "id": 109,
+      "start": 318.32,
+      "end": 323.45,
+      "en": "And now the two main pieces maybe of the chessboard, the queen and king.",
+      "zh": "而现在的两个主要部分可能是棋盘，女王和国王。"
+    },
+    {
+      "id": 110,
+      "start": 324.24,
+      "end": 325.49,
+      "en": "So the king is kind of sad.",
+      "zh": "所以国王有点难过。"
+    },
+    {
+      "id": 111,
+      "start": 325.72,
+      "end": 330.27,
+      "en": "He can only move one space, but the queen is really the killer because she can do anything she wants.",
+      "zh": "他只能移动一个空间，但女王真的是杀手，因为她可以做任何她想做的事。"
+    },
+    {
+      "id": 112,
+      "start": 330.51,
+      "end": 331.67,
+      "en": "This is interesting, right?",
+      "zh": "这很有趣，对吧？"
+    },
+    {
+      "id": 113,
+      "start": 331.76,
+      "end": 332.88,
+      "en": "Why do they make it like that?",
+      "zh": "他们为什么要这样？"
+    },
+    {
+      "id": 114,
+      "start": 332.88,
+      "end": 342.7,
+      "en": "The queen can move as many spaces as she wants in any direction, while the king can do the same in any direction he wants, but only one space.",
+      "zh": "女王可以在任何方向移动尽可能多的空间，而国王可以在他想要的任何方向上做同样的事情，但只有一个空间。"
+    },
+    {
+      "id": 115,
+      "start": 343.36,
+      "end": 346.38,
+      "en": "I think there's some similarity between real life now.",
+      "zh": "我认为现在的现实生活有一些相似之处。"
+    },
+    {
+      "id": 116,
+      "start": 346.6,
+      "end": 351.92,
+      "en": "It's like the queen can do anything she wants and the king can kind of do whatever he wants.",
+      "zh": "就像女王可以做任何她想做的事，国王可以为所欲为。"
+    },
+    {
+      "id": 117,
+      "start": 351.92,
+      "end": 360.12,
+      "en": "Well maybe it has to do with the fact that he has to stay put and represent the country and she can move around and move behind the scenes and has a little bit more mobility.",
+      "zh": "好吧，也许这与他必须留在原地并代表国家的事实有关，她可以四处走动并在幕后移动并有更多的流动性。"
+    },
+    {
+      "id": 118,
+      "start": 360.66,
+      "end": 361.04,
+      "en": "Maybe.",
+      "zh": "也许吧。"
+    },
+    {
+      "id": 119,
+      "start": 361.76,
+      "end": 361.94,
+      "en": "Who knows?",
+      "zh": "谁知道呢？"
+    },
+    {
+      "id": 120,
+      "start": 362.64,
+      "end": 363.64,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 121,
+      "start": 363.64,
+      "end": 366.17,
+      "en": "But in the end, the most important piece is the king, right?",
+      "zh": "但最后，最重要的是国王，对吧？"
+    },
+    {
+      "id": 122,
+      "start": 366.48,
+      "end": 368.49,
+      "en": "Once the king is captured, the game is over.",
+      "zh": "王子被捕后，游戏就结束了。"
+    },
+    {
+      "id": 123,
+      "start": 368.57,
+      "end": 368.71,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 124,
+      "start": 369.84,
+      "end": 379.64,
+      "en": "So let's listen to today's dialogue one more time and slow it down a bit and find out if the boy understood any of these rules.",
+      "zh": "因此，让我们再听一次今天的对话，慢一点，看看这个男孩是否理解这些规则中的任何一个。"
+    },
+    {
+      "id": 125,
+      "start": 382.77,
+      "end": 384.03,
+      "en": "Bobby, come here.",
+      "zh": "鲍比，过来。"
+    },
+    {
+      "id": 126,
+      "start": 384.64,
+      "end": 385.29,
+      "en": "Look what I got you.",
+      "zh": "看看我得到了什么。"
+    },
+    {
+      "id": 127,
+      "start": 385.99,
+      "end": 386.37,
+      "en": "What is that?",
+      "zh": "那是什么？"
+    },
+    {
+      "id": 128,
+      "start": 386.64,
+      "end": 387.64,
+      "en": "A chessboard.",
+      "zh": "棋盘。"
+    },
+    {
+      "id": 129,
+      "start": 387.64,
+      "end": 390.64,
+      "en": "Daddy's going to teach you how to play.",
+      "zh": "爸爸要教你怎么玩。"
+    },
+    {
+      "id": 130,
+      "start": 390.64,
+      "end": 391.64,
+      "en": "Cool.",
+      "zh": "太棒了。"
+    },
+    {
+      "id": 131,
+      "start": 391.83,
+      "end": 392.35,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 132,
+      "start": 393.05,
+      "end": 395.17,
+      "en": "Each player gets 16 pieces.",
+      "zh": "每个玩家获得 16 件。"
+    },
+    {
+      "id": 133,
+      "start": 396.01,
+      "end": 398.67,
+      "en": "You can be the white ones and I'll play with the black pieces.",
+      "zh": "你执白棋，我执黑棋。"
+    },
+    {
+      "id": 134,
+      "start": 399.41,
+      "end": 402.53,
+      "en": "Now in the front, you set up the pawns.",
+      "zh": "先把兵摆在前面一排。"
+    },
+    {
+      "id": 135,
+      "start": 402.97,
+      "end": 407.35,
+      "en": "Those are the least viable pieces and can only move one space forward.",
+      "zh": "兵的作用最小，每次只能向前走一格。"
+    },
+    {
+      "id": 136,
+      "start": 408.15,
+      "end": 412.89,
+      "en": "When you're about to capture another piece, it can move one space diagonally.",
+      "zh": "要吃掉对方棋子时，兵可以斜着走一格。"
+    },
+    {
+      "id": 137,
+      "start": 413.47,
+      "end": 414.77,
+      "en": "What about all these other pieces?",
+      "zh": "所有这些其他作品呢？"
+    },
+    {
+      "id": 138,
+      "start": 415.65,
+      "end": 417.75,
+      "en": "See this one that looks like a tower?",
+      "zh": "看到这个看起来像一座塔的人吗？"
+    },
+    {
+      "id": 139,
+      "start": 418.49,
+      "end": 419.21,
+      "en": "It's called the rook.",
+      "zh": "这叫“车”。"
+    },
+    {
+      "id": 140,
+      "start": 419.67,
+      "end": 422.03,
+      "en": "The one with the tall hat is called the bishop.",
+      "zh": "戴高帽子的这个叫“象”。"
+    },
+    {
+      "id": 141,
+      "start": 422.75,
+      "end": 424.23,
+      "en": "See this little horsey?",
+      "zh": "看到这个小马了吗？"
+    },
+    {
+      "id": 142,
+      "start": 424.67,
+      "end": 425.89,
+      "en": "This is called the knight.",
+      "zh": "这被称为骑士。"
+    },
+    {
+      "id": 143,
+      "start": 426.41,
+      "end": 431.27,
+      "en": "It's a very important piece, so it's best not to let your opponent capture it.",
+      "zh": "这是很重要的棋子，最好别让对手吃掉。"
+    },
+    {
+      "id": 144,
+      "start": 431.59,
+      "end": 432.21,
+      "en": "And these two?",
+      "zh": "那这两个呢？"
+    },
+    {
+      "id": 145,
+      "start": 432.79,
+      "end": 433.81,
+      "en": "They are husband and wife.",
+      "zh": "他们是夫妻。"
+    },
+    {
+      "id": 146,
+      "start": 435.15,
+      "end": 435.91,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 147,
+      "start": 436.45,
+      "end": 438.21,
+      "en": "That's the queen and that's the king.",
+      "zh": "这是后，那是王。"
+    },
+    {
+      "id": 148,
+      "start": 438.65,
+      "end": 443.55,
+      "en": "If the other player captures your king, he will say, checkmate, and the game is over.",
+      "zh": "如果对手吃掉你的王，他就会说“将死”，棋局就结束了。"
+    },
+    {
+      "id": 149,
+      "start": 444.09,
+      "end": 445.21,
+      "en": "Doesn't this sound fun?",
+      "zh": "听起来不是很有趣吗？"
+    },
+    {
+      "id": 150,
+      "start": 445.84,
+      "end": 446.44,
+      "en": "Nah.",
+      "zh": "不。"
+    },
+    {
+      "id": 151,
+      "start": 447.02,
+      "end": 448.04,
+      "en": "This sounds boring.",
+      "zh": "这听起来很无聊。"
+    },
+    {
+      "id": 152,
+      "start": 448.8,
+      "end": 451.26,
+      "en": "I'm going to go play Killer Zombies on my PlayStation.",
+      "zh": "我要去我的游戏机上玩杀手僵尸。"
+    },
+    {
+      "id": 153,
+      "start": 454.64,
+      "end": 455.64,
+      "en": "All right, we're back.",
+      "zh": "好了，我们回来了。"
+    },
+    {
+      "id": 154,
+      "start": 455.64,
+      "end": 461.34,
+      "en": "And now why don't we explain a couple of these phrases that we also use to explain the pieces.",
+      "zh": "现在我们为什么不解释一些我们也用来解释这些短语的短语。"
+    },
+    {
+      "id": 155,
+      "start": 461.64,
+      "end": 466.0,
+      "en": "But let's look at some of these more in depth now in Fluency Builder.",
+      "zh": "但是，让我们现在在 Flueny Builder 中更深入地了解其中的一些内容。"
+    },
+    {
+      "id": 156,
+      "start": 468.64,
+      "end": 476.96,
+      "en": "So, Marco, one of the first phrases that we heard was the phrase to move diagonally or a diagonal line.",
+      "zh": "所以，Marco，我们听到的第一个短语是对角线或对角线移动的短语。"
+    },
+    {
+      "id": 157,
+      "start": 477.26,
+      "end": 484.16,
+      "en": "So, the pawns can sometimes do this and the bishop can do this, but what does it mean to move diagonally?",
+      "zh": "所以，棋子有时可以做到这一点，而主教可以做到这一点，但是对角线移动意味着什么？"
+    },
+    {
+      "id": 158,
+      "start": 484.42,
+      "end": 489.34,
+      "en": "Okay, so basically a diagonal line is not a line that goes straight up, right?",
+      "zh": "好的，所以基本上对角线不是直线向上的线，对吧？"
+    },
+    {
+      "id": 159,
+      "start": 489.64,
+      "end": 493.64,
+      "en": "Straight up to the sky, for example, or to the side, right?",
+      "zh": "例如，直奔天空，还是到一边，对吧？"
+    },
+    {
+      "id": 160,
+      "start": 494.05,
+      "end": 502.05,
+      "en": "It goes at an angle, so it's maybe going at 45 degrees or 30 degrees, so that's a diagonal movement or a diagonal line.",
+      "zh": "它以一个角度进行，因此它可能呈 45 度或 30 度，因此这是对角线运动或对角线。"
+    },
+    {
+      "id": 161,
+      "start": 502.79,
+      "end": 508.31,
+      "en": "The next phrase we have is very strange, and this one you might hear from parents or children.",
+      "zh": "我们的下一个短语很奇怪，你可能会从父母或孩子那里听到这个短语。"
+    },
+    {
+      "id": 162,
+      "start": 508.64,
+      "end": 510.64,
+      "en": "It says a little horsey.",
+      "zh": "它说有点马。"
+    },
+    {
+      "id": 163,
+      "start": 510.64,
+      "end": 512.64,
+      "en": "Little horsey.",
+      "zh": "小马。"
+    },
+    {
+      "id": 164,
+      "start": 512.64,
+      "end": 521.64,
+      "en": "So, in many languages we have ways of breaking down words or adding to words to make them sound cuter, and this is one of those cases.",
+      "zh": "因此，在许多语言中，我们可以分解单词或添加单词以使它们听起来更可爱，这就是其中之一。"
+    },
+    {
+      "id": 165,
+      "start": 521.64,
+      "end": 528.64,
+      "en": "So, for example, little puppy or little kitty or kitten, these are words to make things sound cuter.",
+      "zh": "因此，例如，小狗或小猫或小猫，这些都是让事情变得更可爱的词。"
+    },
+    {
+      "id": 166,
+      "start": 528.76,
+      "end": 531.64,
+      "en": "So, in this case, horse becomes horsey.",
+      "zh": "所以，在这种情况下，马会变得马匹。"
+    },
+    {
+      "id": 167,
+      "start": 531.64,
+      "end": 532.24,
+      "en": "Horsey.",
+      "zh": "马西。"
+    },
+    {
+      "id": 168,
+      "start": 532.64,
+      "end": 534.8,
+      "en": "So, I want to ride the horsey.",
+      "zh": "所以，我想骑马。"
+    },
+    {
+      "id": 169,
+      "start": 535.18,
+      "end": 537.44,
+      "en": "It's a cute way of saying I want to ride the cute horse.",
+      "zh": "这是一种可爱的说法，我想骑这匹可爱的马。"
+    },
+    {
+      "id": 170,
+      "start": 537.68,
+      "end": 539.88,
+      "en": "Mommy, mommy, I want to ride the horsey.",
+      "zh": "妈妈，妈妈，我想骑马。"
+    },
+    {
+      "id": 171,
+      "start": 540.08,
+      "end": 540.3,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 172,
+      "start": 540.64,
+      "end": 543.64,
+      "en": "So, baby talk often involves having these rhyming words.",
+      "zh": "所以，婴儿谈话通常涉及使用这些押韵的词。"
+    },
+    {
+      "id": 173,
+      "start": 543.94,
+      "end": 545.68,
+      "en": "Mommy, horsey, doggy, puppy.",
+      "zh": "妈妈，马，小狗，小狗。"
+    },
+    {
+      "id": 174,
+      "start": 546.56,
+      "end": 548.08,
+      "en": "A doggy, exactly. Very good.",
+      "zh": "一个小狗，没错。 非常好。"
+    },
+    {
+      "id": 175,
+      "start": 548.64,
+      "end": 550.9,
+      "en": "So, it's a cute way of saying something.",
+      "zh": "所以，这是一种可爱的表达方式。"
+    },
+    {
+      "id": 176,
+      "start": 551.6,
+      "end": 562.34,
+      "en": "And now, when we were talking about the chess pieces, when another piece takes or gets a piece, you say it captures it.",
+      "zh": "而现在，当我们谈论国际象棋时，当另一块拿走或得到一块时，你说它捕捉到了它。"
+    },
+    {
+      "id": 177,
+      "start": 562.82,
+      "end": 563.2,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 178,
+      "start": 563.38,
+      "end": 568.64,
+      "en": "We say capture because, well, maybe it's a bit nicer than killing it, but capture means taking and keeping for yourself.",
+      "zh": "我们说捕获是因为，好吧，也许它比杀死它好一点，但捕获意味着为自己获取和保留。"
+    },
+    {
+      "id": 179,
+      "start": 568.64,
+      "end": 572.64,
+      "en": "So, we have a very popular game in America called capture the flag.",
+      "zh": "所以，我们在美国有一个非常受欢迎的游戏，叫做 Capture the Flag。"
+    },
+    {
+      "id": 180,
+      "start": 572.74,
+      "end": 574.64,
+      "en": "Right. It's where you have to take each other's flag, right?",
+      "zh": "对。 这是你们必须拿对方旗帜的地方，对吧？"
+    },
+    {
+      "id": 181,
+      "start": 574.64,
+      "end": 575.64,
+      "en": "You're stealing, essentially.",
+      "zh": "你在偷，本质上。"
+    },
+    {
+      "id": 182,
+      "start": 575.76,
+      "end": 576.1,
+      "en": "You're stealing.",
+      "zh": "你在偷。"
+    },
+    {
+      "id": 183,
+      "start": 576.94,
+      "end": 581.02,
+      "en": "So, yeah, this is the term that is used in chess to capture another piece.",
+      "zh": "所以，是的，这是在国际象棋中用来捕捉另一件作品的术语。"
+    },
+    {
+      "id": 184,
+      "start": 581.64,
+      "end": 585.64,
+      "en": "Sometimes, like, for example, in Spanish, we actually say, like, to eat the other piece.",
+      "zh": "有时，例如，用西班牙语，我们实际上说，喜欢吃另一块。"
+    },
+    {
+      "id": 185,
+      "start": 586.0,
+      "end": 586.16,
+      "en": "Really?",
+      "zh": "真的吗？"
+    },
+    {
+      "id": 186,
+      "start": 586.32,
+      "end": 587.28,
+      "en": "Yeah, you eat it.",
+      "zh": "是的，你吃了。"
+    },
+    {
+      "id": 187,
+      "start": 587.64,
+      "end": 588.64,
+      "en": "Weird.",
+      "zh": "真奇怪。"
+    },
+    {
+      "id": 188,
+      "start": 588.64,
+      "end": 589.64,
+      "en": "That's weird.",
+      "zh": "真奇怪。"
+    },
+    {
+      "id": 189,
+      "start": 589.64,
+      "end": 598.64,
+      "en": "Well, we're a little bit more tame in those English-speaking countries, but to capture is a very important phrase, and you're going to hear that in the news as well because you can capture a person.",
+      "zh": "好吧，我们在那些说英语的国家有点驯服，但捕捉是一个非常重要的短语，你也会在新闻中听到这一点，因为你可以捕捉到一个人。"
+    },
+    {
+      "id": 190,
+      "start": 598.82,
+      "end": 599.72,
+      "en": "You can capture a criminal.",
+      "zh": "你可以捕获一个罪犯。"
+    },
+    {
+      "id": 191,
+      "start": 600.82,
+      "end": 606.21,
+      "en": "All right, and the final word and the way that you end a game of chess, you say checkmate.",
+      "zh": "好吧，最后一个字和你结束国际象棋游戏的方式，你说将死。"
+    },
+    {
+      "id": 192,
+      "start": 606.64,
+      "end": 607.64,
+      "en": "Checkmate.",
+      "zh": "将死。"
+    },
+    {
+      "id": 193,
+      "start": 607.65,
+      "end": 607.97,
+      "en": "Checkmate.",
+      "zh": "将死。"
+    },
+    {
+      "id": 194,
+      "start": 608.64,
+      "end": 609.64,
+      "en": "Checkmate.",
+      "zh": "将死。"
+    },
+    {
+      "id": 195,
+      "start": 609.64,
+      "end": 609.85,
+      "en": "So, the game's over. Checkmate.",
+      "zh": "于是，游戏结束了。 将死。"
+    },
+    {
+      "id": 196,
+      "start": 610.64,
+      "end": 616.35,
+      "en": "Well, there's two things that can happen at the end of a game, and, well, only one thing can happen at the very end of a game, but you're going to hear these two phrases.",
+      "zh": "好吧，在游戏结束时可能会发生两件事，而且，在游戏结束时只有一件事可能发生，但你会听到这两个短语。"
+    },
+    {
+      "id": 197,
+      "start": 616.67,
+      "end": 618.33,
+      "en": "One is check, and the other is checkmate.",
+      "zh": "一种是支票，另一种是将死。"
+    },
+    {
+      "id": 198,
+      "start": 618.75,
+      "end": 621.81,
+      "en": "So, check means that I can take your king if I want to.",
+      "zh": "所以，检查意味着如果我愿意，我可以带走你的国王。"
+    },
+    {
+      "id": 199,
+      "start": 621.81,
+      "end": 622.29,
+      "en": "Move.",
+      "zh": "移动。"
+    },
+    {
+      "id": 200,
+      "start": 622.75,
+      "end": 622.99,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 201,
+      "start": 623.13,
+      "end": 623.64,
+      "en": "It's in danger.",
+      "zh": "它处于危险之中。"
+    },
+    {
+      "id": 202,
+      "start": 623.85,
+      "end": 626.15,
+      "en": "It's in danger, but checkmate is the end all.",
+      "zh": "它处于危险之中，但将死是结束。"
+    },
+    {
+      "id": 203,
+      "start": 626.64,
+      "end": 630.64,
+      "en": "It means this is the very, very last part of a game where you cannot do anything.",
+      "zh": "这意味着这是游戏的最后一部分，您无法做任何事情。"
+    },
+    {
+      "id": 204,
+      "start": 630.64,
+      "end": 632.49,
+      "en": "I've trapped you, and I win.",
+      "zh": "我把你困住了，我赢了。"
+    },
+    {
+      "id": 205,
+      "start": 632.77,
+      "end": 633.07,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 206,
+      "start": 633.45,
+      "end": 633.64,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 207,
+      "start": 633.64,
+      "end": 637.64,
+      "en": "So, the game is over when somebody says checkmate.",
+      "zh": "所以，当有人说将死时，游戏就结束了。"
+    },
+    {
+      "id": 208,
+      "start": 637.64,
+      "end": 643.87,
+      "en": "Why don't we listen to this dialogue for the last time, and then we'll come back and talk a little bit more about this very interesting game.",
+      "zh": "我们为什么不最后一次听这个对话，然后我们会回来再谈谈这个非常有趣的游戏。"
+    },
+    {
+      "id": 209,
+      "start": 648.64,
+      "end": 651.64,
+      "en": "Bobby, come here. Look what I got you.",
+      "zh": "鲍比，过来。 看看我得到了什么。"
+    },
+    {
+      "id": 210,
+      "start": 651.64,
+      "end": 653.64,
+      "en": "What is that?",
+      "zh": "那是什么？"
+    },
+    {
+      "id": 211,
+      "start": 653.64,
+      "end": 654.64,
+      "en": "A chessboard.",
+      "zh": "棋盘。"
+    },
+    {
+      "id": 212,
+      "start": 654.64,
+      "end": 656.64,
+      "en": "Daddy's going to teach you how to play.",
+      "zh": "爸爸要教你怎么玩。"
+    },
+    {
+      "id": 213,
+      "start": 656.64,
+      "end": 657.64,
+      "en": "Cool.",
+      "zh": "太棒了。"
+    },
+    {
+      "id": 214,
+      "start": 657.64,
+      "end": 661.64,
+      "en": "Okay. Each player gets 16 pieces.",
+      "zh": "好的。 每个玩家获得 16 件。"
+    },
+    {
+      "id": 215,
+      "start": 661.64,
+      "end": 665.64,
+      "en": "You can be the white ones, and I'll play with the black pieces.",
+      "zh": "你可以是白人，我会玩黑色的。"
+    },
+    {
+      "id": 216,
+      "start": 665.64,
+      "end": 669.64,
+      "en": "Now, in the front, you set up the pawns.",
+      "zh": "现在，在前面，你设置了棋子。"
+    },
+    {
+      "id": 217,
+      "start": 669.73,
+      "end": 673.87,
+      "en": "Those are the least viable pieces and can only move one space forward.",
+      "zh": "兵的作用最小，每次只能向前走一格。"
+    },
+    {
+      "id": 218,
+      "start": 674.7,
+      "end": 679.46,
+      "en": "When you're about to capture another piece, it can move one space diagonally.",
+      "zh": "要吃掉对方棋子时，兵可以斜着走一格。"
+    },
+    {
+      "id": 219,
+      "start": 680.0,
+      "end": 681.28,
+      "en": "What about all these other pieces?",
+      "zh": "所有这些其他作品呢？"
+    },
+    {
+      "id": 220,
+      "start": 682.36,
+      "end": 684.28,
+      "en": "See this one that looks like a tower?",
+      "zh": "看到这个看起来像一座塔的人吗？"
+    },
+    {
+      "id": 221,
+      "start": 685.1,
+      "end": 685.76,
+      "en": "It's called the rook.",
+      "zh": "这叫“车”。"
+    },
+    {
+      "id": 222,
+      "start": 686.3,
+      "end": 688.62,
+      "en": "The one with the tall hat is called the bishop.",
+      "zh": "戴高帽子的这个叫“象”。"
+    },
+    {
+      "id": 223,
+      "start": 689.46,
+      "end": 690.8,
+      "en": "See this little horsey?",
+      "zh": "看到这个小马了吗？"
+    },
+    {
+      "id": 224,
+      "start": 691.3,
+      "end": 692.64,
+      "en": "This is called the knight.",
+      "zh": "这被称为骑士。"
+    },
+    {
+      "id": 225,
+      "start": 693.16,
+      "end": 697.86,
+      "en": "It's a very important piece, so it's best not to let your opponent capture it.",
+      "zh": "这是很重要的棋子，最好别让对手吃掉。"
+    },
+    {
+      "id": 226,
+      "start": 698.2,
+      "end": 698.92,
+      "en": "And these two?",
+      "zh": "那这两个呢？"
+    },
+    {
+      "id": 227,
+      "start": 699.68,
+      "end": 700.52,
+      "en": "They are husband and wife.",
+      "zh": "他们是夫妻。"
+    },
+    {
+      "id": 228,
+      "start": 701.14,
+      "end": 701.88,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 229,
+      "start": 702.42,
+      "end": 704.18,
+      "en": "That's the queen, and that's the king.",
+      "zh": "那是女王，那是国王。"
+    },
+    {
+      "id": 230,
+      "start": 704.7,
+      "end": 709.56,
+      "en": "If the other player captures your king, he will say checkmate, and the game is over.",
+      "zh": "如果另一个玩家抓住了你的国王，他会说将死，游戏就结束了。"
+    },
+    {
+      "id": 231,
+      "start": 710.18,
+      "end": 711.2,
+      "en": "Doesn't this sound fun?",
+      "zh": "听起来不是很有趣吗？"
+    },
+    {
+      "id": 232,
+      "start": 711.84,
+      "end": 713.86,
+      "en": "Nah, this sounds boring.",
+      "zh": "不，这听起来很无聊。"
+    },
+    {
+      "id": 233,
+      "start": 714.62,
+      "end": 716.82,
+      "en": "I'm going to go play Killer Zombies on my PlayStation.",
+      "zh": "我要去我的游戏机上玩杀手僵尸。"
+    },
+    {
+      "id": 234,
+      "start": 720.93,
+      "end": 722.15,
+      "en": "Pop quiz, Marco.",
+      "zh": "流行测验，马可。"
+    },
+    {
+      "id": 235,
+      "start": 722.64,
+      "end": 722.99,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 236,
+      "start": 723.64,
+      "end": 731.64,
+      "en": "The word check and the word mate, they both have meanings in English, but put together, where does this phrase come from? What could it possibly mean?",
+      "zh": "check 和 mate 一词，它们在英语中都有含义，但放在一起，这句话是从哪里来的？ 它可能意味着什么？"
+    },
+    {
+      "id": 237,
+      "start": 732.31,
+      "end": 733.87,
+      "en": "I have no idea.",
+      "zh": "我完全不知道。"
+    },
+    {
+      "id": 238,
+      "start": 734.37,
+      "end": 735.29,
+      "en": "Why don't you tell us?",
+      "zh": "你为什么不告诉我们？"
+    },
+    {
+      "id": 239,
+      "start": 735.67,
+      "end": 738.07,
+      "en": "Because I seriously don't know where it comes from.",
+      "zh": "因为我真的不知道它来自哪里。"
+    },
+    {
+      "id": 240,
+      "start": 738.43,
+      "end": 745.65,
+      "en": "Okay, well, this is actually very interesting, because I looked it up, and I had no idea either, because we've always just said this, and it doesn't really make sense.",
+      "zh": "好吧，好吧，这实际上很有趣，因为我查了一下，我也不知道，因为我们一直都这么说，而且没有意义。"
+    },
+    {
+      "id": 241,
+      "start": 746.29,
+      "end": 751.98,
+      "en": "So I looked it up on the Internet, and I discovered that the game of chess is actually a very ancient game.",
+      "zh": "所以我在网上查了一下，发现国际象棋游戏实际上是一个非常古老的游戏。"
+    },
+    {
+      "id": 242,
+      "start": 752.96,
+      "end": 756.52,
+      "en": "And it did not come from England, it did not come from France, it actually came from Persia.",
+      "zh": "它不是来自英国，它不是来自法国，它实际上来自波斯。"
+    },
+    {
+      "id": 243,
+      "start": 757.54,
+      "end": 766.14,
+      "en": "And in Persian, there are some words that kind of became the English words checkmate that mean the king is captured or the king is defeated.",
+      "zh": "在波斯语中，有些词变成了英文单词checkmate，表示国王被俘或国王被击败。"
+    },
+    {
+      "id": 244,
+      "start": 766.64,
+      "end": 768.54,
+      "en": "Okay, so that's what it means.",
+      "zh": "好吧，这就是它的意思。"
+    },
+    {
+      "id": 245,
+      "start": 768.92,
+      "end": 770.16,
+      "en": "It doesn't mean the king is dead.",
+      "zh": "这并不意味着国王死了。"
+    },
+    {
+      "id": 246,
+      "start": 770.64,
+      "end": 773.34,
+      "en": "No, it doesn't mean that he's dead, it means that he's been taken.",
+      "zh": "不，这并不意味着他死了，这意味着他被带走了。"
+    },
+    {
+      "id": 247,
+      "start": 773.7,
+      "end": 782.5,
+      "en": "And so over time, the Persian word went into Arabic, and Arabic became French and English, and then now we say checkmate.",
+      "zh": "所以随着时间的推移，波斯语变成了阿拉伯语，阿拉伯语变成了法语和英语，然后现在我们说将死。"
+    },
+    {
+      "id": 248,
+      "start": 782.78,
+      "end": 783.9,
+      "en": "Checkmate, okay, interesting.",
+      "zh": "将死，好，有趣。"
+    },
+    {
+      "id": 249,
+      "start": 784.72,
+      "end": 791.64,
+      "en": "This is a very interesting word, and I'm sure everybody that's listening has a different translation for it in their own language.",
+      "zh": "这是一个非常有趣的词，我相信每个正在听的人都有不同的用自己的语言翻译。"
+    },
+    {
+      "id": 250,
+      "start": 791.64,
+      "end": 795.64,
+      "en": "I know, for example, that in Spanish, we would say jaque mate.",
+      "zh": "例如，我知道在西班牙语中，我们会说 Jaque Mate。"
+    },
+    {
+      "id": 251,
+      "start": 795.64,
+      "end": 797.64,
+      "en": "Jaque mate.",
+      "zh": "雅克伙伴。"
+    },
+    {
+      "id": 252,
+      "start": 797.64,
+      "end": 803.64,
+      "en": "Right, so I guess like jaque is something's in check, it's in danger, and then mate, kind of like kill.",
+      "zh": "对，所以我想就像 Jaque 有什么东西在控制中一样，它处于危险之中，然后是 Mate，有点像杀戮。"
+    },
+    {
+      "id": 253,
+      "start": 803.64,
+      "end": 809.95,
+      "en": "So maybe it's probably not translated properly, because as you mentioned, it should mean defeated or captured, not killed.",
+      "zh": "所以也许它可能没有正确翻译，因为正如你提到的，它应该意味着被击败或被捕，而不是被杀死。"
+    },
+    {
+      "id": 254,
+      "start": 810.67,
+      "end": 813.93,
+      "en": "So listeners, why don't you let us know how you say checkmate in your language?",
+      "zh": "所以听众，你为什么不让我们知道你用你的语言说死机？"
+    },
+    {
+      "id": 255,
+      "start": 814.64,
+      "end": 816.64,
+      "en": "Come to our website, englishpod.com.",
+      "zh": "来我们的网站，englishpod.com。"
+    },
+    {
+      "id": 256,
+      "start": 816.64,
+      "end": 822.14,
+      "en": "And also tell us if you have questions about the things we talked about today, or if you want to share some stories of your own chess victories.",
+      "zh": "如果您对我们今天讨论的事情有任何疑问，或者您想分享一些关于您自己的国际象棋胜利的故事，也请告诉我们。"
+    },
+    {
+      "id": 257,
+      "start": 822.64,
+      "end": 827.64,
+      "en": "Please get in touch with us on our website, otherwise you can email us at englishpod at praxislanguage.com.",
+      "zh": "请在我们的网站上与我们联系，否则您可以通过 Praxislanguage.com 的 Englishpod 给我们发送电子邮件。"
+    },
+    {
+      "id": 258,
+      "start": 828.22,
+      "end": 829.86,
+      "en": "But until then, have a great day.",
+      "zh": "但在那之前，祝你有美好的一天。"
+    },
+    {
+      "id": 259,
+      "start": 830.26,
+      "end": 830.4,
+      "en": "Bye, everyone.",
+      "zh": "大家再见。"
+    },
+    {
+      "id": 260,
+      "start": 830.64,
+      "end": 838.896,
+      "en": "Bye.",
+      "zh": "再见。"
+    }
+  ],
+  "dialog": {
+    "start": 52.62,
+    "end": 122.8,
+    "segmentIds": [
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43
+    ]
+  }
+}

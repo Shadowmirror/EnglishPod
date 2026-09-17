@@ -1,0 +1,2401 @@
+{
+  "version": 1,
+  "id": 133,
+  "number": "0133",
+  "title": "Daily Life - Doing Laundry",
+  "audio": "mp3/133. Daily Life - Doing Laundry.mp3",
+  "duration": 976.1436875,
+  "segments": [
+    {
+      "id": 1,
+      "start": 2.18,
+      "end": 3.4,
+      "en": "Hello, English learners.",
+      "zh": "各位英语学习者，大家好。"
+    },
+    {
+      "id": 2,
+      "start": 3.8,
+      "end": 5.24,
+      "en": "Welcome back to EnglishPod.",
+      "zh": "欢迎回到 EnglishPod。"
+    },
+    {
+      "id": 3,
+      "start": 5.24,
+      "end": 5.68,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 4,
+      "start": 6.24,
+      "end": 9.84,
+      "en": "And my name is Catherine and today we're talking about being clean.",
+      "zh": "我的名字是凯瑟琳，今天我们谈论的是干净。"
+    },
+    {
+      "id": 5,
+      "start": 10.12,
+      "end": 13.12,
+      "en": "Yeah, we're going to be doing the laundry, right?",
+      "zh": "是的，我们要洗衣服，对吧？"
+    },
+    {
+      "id": 6,
+      "start": 13.4,
+      "end": 15.92,
+      "en": "It's a very important part of everyone's weekly schedule.",
+      "zh": "这是每个人每周日程安排中非常重要的一部分。"
+    },
+    {
+      "id": 7,
+      "start": 16.26,
+      "end": 25.56,
+      "en": "And not only important, but I find it to be a little bit difficult because, you know, like washing machine and what clothes you should mix with what, you know, how much detergent and how long.",
+      "zh": "不仅很重要，而且我发现这有点困难，因为，你知道，你知道，你应该把什么衣服和什么衣服和什么衣服混合起来，你知道，洗涤剂有多少和多长时间。"
+    },
+    {
+      "id": 8,
+      "start": 25.56,
+      "end": 27.36,
+      "en": "It's such a complicated process.",
+      "zh": "这是一个如此复杂的过程。"
+    },
+    {
+      "id": 9,
+      "start": 27.74,
+      "end": 32.63,
+      "en": "Well, let's say this, it might not be difficult, but it's very easy to mess up.",
+      "zh": "好吧，假设这可能并不难，但很容易搞砸。"
+    },
+    {
+      "id": 10,
+      "start": 32.85,
+      "end": 33.21,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 11,
+      "start": 33.92,
+      "end": 34.92,
+      "en": "Yeah, that's the problem.",
+      "zh": "是的，这就是问题所在。"
+    },
+    {
+      "id": 12,
+      "start": 34.92,
+      "end": 38.59,
+      "en": "It's very easy to like just ruin your favorite t-shirt if you don't do laundry correctly.",
+      "zh": "如果你没有正确洗衣服，很容易就毁了你最喜欢的 T 恤。"
+    },
+    {
+      "id": 13,
+      "start": 38.84,
+      "end": 42.0,
+      "en": "Or all of your white socks turn pink, for example.",
+      "zh": "例如，或者你所有的白袜子变成粉红色。"
+    },
+    {
+      "id": 14,
+      "start": 42.0,
+      "end": 43.0,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 15,
+      "start": 43.0,
+      "end": 46.81,
+      "en": "So we're going to be looking at a lot of vocabulary and phrases related to this topic.",
+      "zh": "因此，我们将研究与此主题相关的许多词汇和短语。"
+    },
+    {
+      "id": 16,
+      "start": 47.72,
+      "end": 51.61,
+      "en": "And before we get started with the dialogue, why don't we take a look at vocabulary preview?",
+      "zh": "在我们开始对话之前，我们为什么不看看词汇预览呢？"
+    },
+    {
+      "id": 17,
+      "start": 53.28,
+      "end": 54.28,
+      "en": "Vocabulary preview.",
+      "zh": "词汇预习。"
+    },
+    {
+      "id": 18,
+      "start": 54.54,
+      "end": 63.38,
+      "en": "Okay, so central to all of these phrases and words that we're going to be hearing is a thing, an electric thing that helps us wash our clothes.",
+      "zh": "好吧，对于我们将要听到的所有这些短语和单词的核心是一个东西，一种帮助我们洗衣服的电动东西。"
+    },
+    {
+      "id": 19,
+      "start": 63.92,
+      "end": 65.34,
+      "en": "Right, a washing machine.",
+      "zh": "对了，洗衣机。"
+    },
+    {
+      "id": 20,
+      "start": 65.64,
+      "end": 66.46,
+      "en": "Right, pretty simple, right?",
+      "zh": "对，很简单，对吧？"
+    },
+    {
+      "id": 21,
+      "start": 66.66,
+      "end": 69.8,
+      "en": "So washing is to wash, washing and machine.",
+      "zh": "所以洗涤是洗涤、洗涤和机器。"
+    },
+    {
+      "id": 22,
+      "start": 70.36,
+      "end": 71.58,
+      "en": "So they go together, washing machine.",
+      "zh": "所以他们一起去，洗衣机。"
+    },
+    {
+      "id": 23,
+      "start": 72.04,
+      "end": 73.04,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 24,
+      "start": 73.04,
+      "end": 76.88,
+      "en": "So it's easy now, you just put all your clothes in this thing and it washes it for you.",
+      "zh": "所以现在很容易，你把所有的衣服都放在这东西里，它就为你洗了。"
+    },
+    {
+      "id": 25,
+      "start": 78.23,
+      "end": 81.07,
+      "en": "Now, you know, a lot of people don't like to use washing machines.",
+      "zh": "现在，你知道，很多人不喜欢使用洗衣机。"
+    },
+    {
+      "id": 26,
+      "start": 81.24,
+      "end": 85.04,
+      "en": "They say it doesn't really clean the clothes as well as doing it by hand.",
+      "zh": "他们说它并没有真正清洁衣服，也不像手工那样清洁衣服。"
+    },
+    {
+      "id": 27,
+      "start": 85.11,
+      "end": 85.49,
+      "en": "Really?",
+      "zh": "真的吗？"
+    },
+    {
+      "id": 28,
+      "start": 86.04,
+      "end": 89.32,
+      "en": "Well, I'd say most clothes get washed pretty well with a washing machine.",
+      "zh": "好吧，我想说大多数衣服都用洗衣机洗得很好。"
+    },
+    {
+      "id": 29,
+      "start": 89.45,
+      "end": 95.95,
+      "en": "But if you have those hard to get stains or some dirt, maybe it's good to have a washing board.",
+      "zh": "但是，如果您有那些难以弄脏的污渍或一些污垢，也许有一块洗衣板是件好事。"
+    },
+    {
+      "id": 30,
+      "start": 96.19,
+      "end": 97.11,
+      "en": "A washing board, yeah.",
+      "zh": "一块洗衣机，是的。"
+    },
+    {
+      "id": 31,
+      "start": 97.56,
+      "end": 98.91,
+      "en": "Yeah, where you can really scrub it yourself.",
+      "zh": "是的，你可以自己擦洗的地方。"
+    },
+    {
+      "id": 32,
+      "start": 99.72,
+      "end": 104.87,
+      "en": "And well, funny you mentioned that word stain because it's our second word that we're going to preview, a stain.",
+      "zh": "好吧，有趣的是，您提到了这个词污点，因为这是我们要预览的第二个词，一个污点。"
+    },
+    {
+      "id": 33,
+      "start": 105.67,
+      "end": 113.74,
+      "en": "Right, a stain is some color, maybe some food or wine or grass that you can't remove from your clothes.",
+      "zh": "是的，污渍是某种颜色，可能是一些你无法从衣服上取下的食物、葡萄酒或草。"
+    },
+    {
+      "id": 34,
+      "start": 114.14,
+      "end": 114.32,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 35,
+      "start": 114.74,
+      "end": 115.74,
+      "en": "So it's very common.",
+      "zh": "所以这很常见。"
+    },
+    {
+      "id": 36,
+      "start": 116.36,
+      "end": 119.56,
+      "en": "You're having a nice dinner and all of a sudden you spill wine on your shirt.",
+      "zh": "你吃了一顿丰盛的晚餐，突然间你把酒洒在你的衬衫上。"
+    },
+    {
+      "id": 37,
+      "start": 119.74,
+      "end": 120.94,
+      "en": "So you have a wine stain.",
+      "zh": "所以你有酒渍。"
+    },
+    {
+      "id": 38,
+      "start": 121.36,
+      "end": 121.9,
+      "en": "I hate that.",
+      "zh": "我讨厌那样。"
+    },
+    {
+      "id": 39,
+      "start": 122.52,
+      "end": 127.48,
+      "en": "And you can also have stain on your, you can also have a stain on your carpet, right?",
+      "zh": "你也可以在你的地毯上有污渍，你也可以在你的地毯上有污渍吗？"
+    },
+    {
+      "id": 40,
+      "start": 127.48,
+      "end": 131.16,
+      "en": "So if you spill some coffee on your carpet, it's got a little circle that's brown forever.",
+      "zh": "所以如果你在地毯上洒了一些咖啡，它就会有一个永远棕色的小圆圈。"
+    },
+    {
+      "id": 41,
+      "start": 132.2,
+      "end": 133.36,
+      "en": "Right?",
+      "zh": "对吧？"
+    },
+    {
+      "id": 42,
+      "start": 133.36,
+      "end": 136.36,
+      "en": "Or even some people have stained the teeth, right?",
+      "zh": "甚至有些人已经弄脏了牙齿，对吧？"
+    },
+    {
+      "id": 43,
+      "start": 136.36,
+      "end": 136.51,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 44,
+      "start": 137.36,
+      "end": 140.09,
+      "en": "So you can get them turned back white with a little money to your dentist.",
+      "zh": "所以你可以用一点钱把它们变成白色的牙医。"
+    },
+    {
+      "id": 45,
+      "start": 140.64,
+      "end": 141.64,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 46,
+      "start": 141.64,
+      "end": 145.6,
+      "en": "So those are the two words that we're going to be looking at today in Vocabulary Preview.",
+      "zh": "所以这是我们今天将在词汇预览中看到的两个词。"
+    },
+    {
+      "id": 47,
+      "start": 145.6,
+      "end": 147.03,
+      "en": "So let's listen to our dialogue.",
+      "zh": "所以让我们听听我们的对话。"
+    },
+    {
+      "id": 48,
+      "start": 147.15,
+      "end": 150.51,
+      "en": "Let's see what's happening with these people that are doing laundry.",
+      "zh": "让我们看看这些洗衣服的人发生了什么事。"
+    },
+    {
+      "id": 49,
+      "start": 157.67,
+      "end": 160.85,
+      "en": "Okay, let's go through this one more time.",
+      "zh": "好吧，让我们再来一次。"
+    },
+    {
+      "id": 50,
+      "start": 161.68,
+      "end": 164.33,
+      "en": "I don't want any more ruined or dyed blouses.",
+      "zh": "我可不想再把衬衫洗坏或染上别的颜色了。"
+    },
+    {
+      "id": 51,
+      "start": 164.88,
+      "end": 165.59,
+      "en": "I know, I know.",
+      "zh": "我知道，我知道。"
+    },
+    {
+      "id": 52,
+      "start": 166.56,
+      "end": 167.56,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 53,
+      "start": 167.56,
+      "end": 173.95,
+      "en": "So I had to separate the colors from the whites and put them in this strange looking contraption so-called washing machine.",
+      "zh": "所以我得把彩色衣服和白色衣服分开，再放进这个样子古怪、叫作洗衣机的机器里。"
+    },
+    {
+      "id": 54,
+      "start": 174.52,
+      "end": 174.67,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 55,
+      "start": 175.52,
+      "end": 178.61,
+      "en": "You have to turn it on and program it depending on what type of clothes you're washing.",
+      "zh": "你得打开机器，再根据所洗衣物的类型选择洗涤程序。"
+    },
+    {
+      "id": 56,
+      "start": 179.16,
+      "end": 182.29,
+      "en": "For example, for delicates, you should set a shorter washing cycle.",
+      "zh": "比如洗精细衣物时，应该选择较短的洗涤程序。"
+    },
+    {
+      "id": 57,
+      "start": 183.2,
+      "end": 185.77,
+      "en": "Also be sure to use fabric softener and this detergent when washing.",
+      "zh": "洗的时候还要记得加衣物柔顺剂和这种洗涤剂。"
+    },
+    {
+      "id": 58,
+      "start": 186.62,
+      "end": 187.19,
+      "en": "So complicated.",
+      "zh": "太复杂了。"
+    },
+    {
+      "id": 59,
+      "start": 188.05,
+      "end": 188.43,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 60,
+      "start": 188.59,
+      "end": 190.11,
+      "en": "What about this red wine stain?",
+      "zh": "这个红酒污渍怎么办？"
+    },
+    {
+      "id": 61,
+      "start": 190.63,
+      "end": 191.59,
+      "en": "How do I get it out?",
+      "zh": "这污渍怎么洗掉？"
+    },
+    {
+      "id": 62,
+      "start": 192.01,
+      "end": 196.85,
+      "en": "Since this is a white t-shirt, you can just pour a little bit of bleach on it and it will do the trick.",
+      "zh": "因为这是一件白色的 T 恤，你可以在上面倒一点漂白剂，它就可以了。"
+    },
+    {
+      "id": 63,
+      "start": 197.27,
+      "end": 197.57,
+      "en": "Cool.",
+      "zh": "太好了。"
+    },
+    {
+      "id": 64,
+      "start": 198.11,
+      "end": 201.19,
+      "en": "Then I can just throw everything in the dryer for an hour and it's all set, right?",
+      "zh": "然后把衣服全扔进烘干机，烘一小时就行了，对吧？"
+    },
+    {
+      "id": 65,
+      "start": 201.57,
+      "end": 201.91,
+      "en": "No.",
+      "zh": "不。"
+    },
+    {
+      "id": 66,
+      "start": 202.53,
+      "end": 207.59,
+      "en": "Since you're washing delicates and cotton, you should set the dryer to medium heat and for 20 minutes.",
+      "zh": "你洗的是精细衣物和棉质衣服，所以烘干机应该设为中温，烘二十分钟。"
+    },
+    {
+      "id": 67,
+      "start": 208.29,
+      "end": 208.79,
+      "en": "You know what?",
+      "zh": "你知道吗？"
+    },
+    {
+      "id": 68,
+      "start": 209.43,
+      "end": 210.79,
+      "en": "I'll just have everything dry cleaned.",
+      "zh": "我干脆把所有衣服都送去干洗好了。"
+    },
+    {
+      "id": 69,
+      "start": 212.4,
+      "end": 226.52,
+      "en": "Okay, so we've got someone who is maybe doing the laundry for the first time and he's not really understanding the instructions he's got.",
+      "zh": "好吧，所以我们有一个人可能是第一次洗衣服，但他并没有真正理解他得到的指示。"
+    },
+    {
+      "id": 70,
+      "start": 226.52,
+      "end": 227.9,
+      "en": "Well, that's the thing I tell you.",
+      "zh": "嗯，这就是我告诉你的。"
+    },
+    {
+      "id": 71,
+      "start": 228.12,
+      "end": 233.88,
+      "en": "It's a little bit difficult and well, it's very tedious at times to try and do laundry like this.",
+      "zh": "这有点困难而且很好，有时尝试像这样洗衣服很乏味。"
+    },
+    {
+      "id": 72,
+      "start": 234.56,
+      "end": 239.94,
+      "en": "Well, the first thing that's maybe tedious about it is that you have to really worry about what colors go together.",
+      "zh": "好吧，第一件事可能是乏味的，你必须真正担心什么颜色会搭配在一起。"
+    },
+    {
+      "id": 73,
+      "start": 240.2,
+      "end": 240.4,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 74,
+      "start": 240.4,
+      "end": 245.82,
+      "en": "So let's take a look at those words that were related to doing laundry now in Language Takeaway.",
+      "zh": "所以让我们来看看那些与现在在语言外卖中洗衣服有关的词。"
+    },
+    {
+      "id": 75,
+      "start": 248.08,
+      "end": 248.7,
+      "en": "Language Takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 76,
+      "start": 249.72,
+      "end": 255.38,
+      "en": "Okay, the first word we have is actually related to a joke we made earlier about pink socks.",
+      "zh": "好吧，我们的第一个词实际上与我们之前关于粉红色袜子的笑话有关。"
+    },
+    {
+      "id": 77,
+      "start": 256.18,
+      "end": 259.22,
+      "en": "So if you change the color of something, you're dying it.",
+      "zh": "所以如果你改变某物的颜色，你就死了。"
+    },
+    {
+      "id": 78,
+      "start": 259.4,
+      "end": 260.44,
+      "en": "Okay, die.",
+      "zh": "好吧，死。"
+    },
+    {
+      "id": 79,
+      "start": 260.94,
+      "end": 265.46,
+      "en": "So it's pronounced exactly the same way as, you know, to die, to not live anymore.",
+      "zh": "所以它的发音方式与你知道的、死去的、不再活着的方式完全相同。"
+    },
+    {
+      "id": 80,
+      "start": 266.54,
+      "end": 267.06,
+      "en": "Die.",
+      "zh": "死。"
+    },
+    {
+      "id": 81,
+      "start": 267.54,
+      "end": 268.48,
+      "en": "But it's spelled differently.",
+      "zh": "但拼写不同。"
+    },
+    {
+      "id": 82,
+      "start": 269.52,
+      "end": 270.52,
+      "en": "D-Y-E.",
+      "zh": "拼写是 D-Y-E。"
+    },
+    {
+      "id": 83,
+      "start": 270.52,
+      "end": 272.82,
+      "en": "Okay, so it can be a verb or an adjective.",
+      "zh": "好的，所以它可以是动词或形容词。"
+    },
+    {
+      "id": 84,
+      "start": 273.64,
+      "end": 273.86,
+      "en": "Or a noun.",
+      "zh": "或名词。"
+    },
+    {
+      "id": 85,
+      "start": 274.64,
+      "end": 275.64,
+      "en": "Or a noun.",
+      "zh": "或名词。"
+    },
+    {
+      "id": 86,
+      "start": 275.64,
+      "end": 279.2,
+      "en": "So something that you put on clothes to change the color is called a dye.",
+      "zh": "所以你穿上衣服来改变颜色的东西叫做染料。"
+    },
+    {
+      "id": 87,
+      "start": 279.2,
+      "end": 280.2,
+      "en": "A dye.",
+      "zh": "染料。"
+    },
+    {
+      "id": 88,
+      "start": 280.2,
+      "end": 284.36,
+      "en": "But to do this, to change the color of some clothes is to dye the clothes.",
+      "zh": "但要做到这一点，改变一些衣服的颜色就是给衣服染色。"
+    },
+    {
+      "id": 89,
+      "start": 285.52,
+      "end": 290.72,
+      "en": "So that's maybe what happens when you wash a red t-shirt with all your white t-shirts.",
+      "zh": "所以当你用所有的白色 T 恤洗一件红色 T 恤时，可能会发生这种情况。"
+    },
+    {
+      "id": 90,
+      "start": 290.72,
+      "end": 292.12,
+      "en": "Then you have dyed shirts.",
+      "zh": "然后你有染过的衬衫。"
+    },
+    {
+      "id": 91,
+      "start": 292.68,
+      "end": 295.36,
+      "en": "You have pink shirts and...",
+      "zh": "你有粉红色的衬衫和..."
+    },
+    {
+      "id": 92,
+      "start": 295.36,
+      "end": 298.13,
+      "en": "And also women, when they go to the beauty salon, they dye their hair.",
+      "zh": "还有女性，当她们去美容院时，她们会染头发。"
+    },
+    {
+      "id": 93,
+      "start": 298.4,
+      "end": 298.63,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 94,
+      "start": 299.4,
+      "end": 302.92,
+      "en": "So to change the color of your hair, it means it's a long-term change.",
+      "zh": "所以要改变头发的颜色，这意味着它是一个长期的变化。"
+    },
+    {
+      "id": 95,
+      "start": 302.92,
+      "end": 303.92,
+      "en": "It's not short.",
+      "zh": "它不短。"
+    },
+    {
+      "id": 96,
+      "start": 303.92,
+      "end": 304.92,
+      "en": "It's not like one day.",
+      "zh": "这不像是一天。"
+    },
+    {
+      "id": 97,
+      "start": 304.92,
+      "end": 307.32,
+      "en": "It means probably for a long time.",
+      "zh": "这意味着可能持续很长时间。"
+    },
+    {
+      "id": 98,
+      "start": 307.32,
+      "end": 308.87,
+      "en": "So that's the correct word, to dye.",
+      "zh": "所以这是正确的词，染。"
+    },
+    {
+      "id": 99,
+      "start": 309.32,
+      "end": 309.55,
+      "en": "Very different.",
+      "zh": "非常不同。"
+    },
+    {
+      "id": 100,
+      "start": 310.32,
+      "end": 315.89,
+      "en": "Maybe some people say to paint, which, you know, we understand, but the correct form would be to dye.",
+      "zh": "也许有些人说画画，你知道，我们理解，但正确的形式是染色。"
+    },
+    {
+      "id": 101,
+      "start": 317.08,
+      "end": 320.15,
+      "en": "And next we have a word that describes a certain kind of clothing.",
+      "zh": "接下来我们有一个词来描述某种服装。"
+    },
+    {
+      "id": 102,
+      "start": 320.48,
+      "end": 322.01,
+      "en": "We're not talking about pants or socks.",
+      "zh": "我们不是在谈论裤子或袜子。"
+    },
+    {
+      "id": 103,
+      "start": 322.48,
+      "end": 323.48,
+      "en": "We're talking about delicates.",
+      "zh": "我们在谈论熟食。"
+    },
+    {
+      "id": 104,
+      "start": 323.48,
+      "end": 324.48,
+      "en": "Delicates.",
+      "zh": "熟食。"
+    },
+    {
+      "id": 105,
+      "start": 324.48,
+      "end": 328.34,
+      "en": "So now this adjective, delicate, which means it's very...",
+      "zh": "所以现在这个形容词，精致，这意味着它非常..."
+    },
+    {
+      "id": 106,
+      "start": 328.34,
+      "end": 328.9,
+      "en": "easy to break.",
+      "zh": "容易破。"
+    },
+    {
+      "id": 107,
+      "start": 329.44,
+      "end": 329.78,
+      "en": "Fragile, right?",
+      "zh": "脆弱的，对吧？"
+    },
+    {
+      "id": 108,
+      "start": 330.44,
+      "end": 332.32,
+      "en": "But this is a noun, delicates.",
+      "zh": "但这是一个名词，精巧。"
+    },
+    {
+      "id": 109,
+      "start": 332.32,
+      "end": 332.59,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 110,
+      "start": 333.32,
+      "end": 337.39,
+      "en": "So you think of something that's easy to break or to ruin, maybe you think of underwear.",
+      "zh": "所以你会想到一些容易折断或毁坏的东西，也许你会想到内衣。"
+    },
+    {
+      "id": 111,
+      "start": 337.84,
+      "end": 338.84,
+      "en": "Underwear.",
+      "zh": "内衣。"
+    },
+    {
+      "id": 112,
+      "start": 338.84,
+      "end": 345.05,
+      "en": "You know, underwear is something you wear under your clothing and so it's generally not as strong as a shirt or a pair of jeans.",
+      "zh": "你知道，内衣是你在衣服下穿的东西，所以它通常不如衬衫或牛仔裤那么坚固。"
+    },
+    {
+      "id": 113,
+      "start": 345.44,
+      "end": 348.32,
+      "en": "And so we call these in English delicates.",
+      "zh": "所以我们用英文熟食来称呼这些。"
+    },
+    {
+      "id": 114,
+      "start": 348.32,
+      "end": 349.32,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 115,
+      "start": 349.32,
+      "end": 353.35,
+      "en": "So you have to be careful when you're washing your delicates because it's happened to me before.",
+      "zh": "所以当你洗你的熟食时，你必须小心，因为它以前发生在我身上。"
+    },
+    {
+      "id": 116,
+      "start": 354.12,
+      "end": 357.39,
+      "en": "You know, you come in with all the clothes and then you have stretched out boxers or something like that.",
+      "zh": "你知道，你带着所有的衣服进来，然后你伸出了拳击手或类似的东西。"
+    },
+    {
+      "id": 117,
+      "start": 357.92,
+      "end": 358.92,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 118,
+      "start": 358.92,
+      "end": 361.52,
+      "en": "So that's why many women, I know, wash delicates by hand.",
+      "zh": "所以这就是为什么许多女人，我知道，用手洗熟食。"
+    },
+    {
+      "id": 119,
+      "start": 361.52,
+      "end": 364.32,
+      "en": "So you separate the clothes from the delicates.",
+      "zh": "所以你把衣服和熟食分开。"
+    },
+    {
+      "id": 120,
+      "start": 364.32,
+      "end": 364.51,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 121,
+      "start": 365.32,
+      "end": 372.19,
+      "en": "And now if you're washing delicates or you're washing towels or t-shirts, it's always a good idea to use fabric softener.",
+      "zh": "现在，如果您正在清洗熟食或正在洗毛巾或 T 恤，使用织物柔软剂总是一个好主意。"
+    },
+    {
+      "id": 122,
+      "start": 372.32,
+      "end": 374.0,
+      "en": "All right, fabric softener.",
+      "zh": "好的，织物柔软剂。"
+    },
+    {
+      "id": 123,
+      "start": 374.0,
+      "end": 374.74,
+      "en": "What are these two words?",
+      "zh": "这两个词是什么？"
+    },
+    {
+      "id": 124,
+      "start": 375.12,
+      "end": 376.6,
+      "en": "One of them you understand already.",
+      "zh": "您已经了解其中之一。"
+    },
+    {
+      "id": 125,
+      "start": 376.6,
+      "end": 378.06,
+      "en": "Maybe it's soft, softener.",
+      "zh": "也许它是柔软的，柔软剂。"
+    },
+    {
+      "id": 126,
+      "start": 378.88,
+      "end": 379.58,
+      "en": "So it makes it soft.",
+      "zh": "所以它使它变得柔软。"
+    },
+    {
+      "id": 127,
+      "start": 379.98,
+      "end": 380.24,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 128,
+      "start": 380.46,
+      "end": 381.48,
+      "en": "Something that makes something softer.",
+      "zh": "使某物更柔软的东西。"
+    },
+    {
+      "id": 129,
+      "start": 381.88,
+      "end": 383.88,
+      "en": "We've got fabric softener.",
+      "zh": "我们有织物柔软剂。"
+    },
+    {
+      "id": 130,
+      "start": 383.88,
+      "end": 387.68,
+      "en": "It's something that makes the clothes that you wash softer.",
+      "zh": "它使你洗的衣服更柔软。"
+    },
+    {
+      "id": 131,
+      "start": 387.68,
+      "end": 390.52,
+      "en": "So fabric is any type of material, right?",
+      "zh": "所以面料是任何类型的材料，对吧？"
+    },
+    {
+      "id": 132,
+      "start": 390.52,
+      "end": 391.52,
+      "en": "Like a textile.",
+      "zh": "像纺织品。"
+    },
+    {
+      "id": 133,
+      "start": 391.52,
+      "end": 392.52,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 134,
+      "start": 392.52,
+      "end": 395.08,
+      "en": "So it could be cotton or silk or nylon, linen.",
+      "zh": "所以它可以是棉、丝绸或尼龙、亚麻布。"
+    },
+    {
+      "id": 135,
+      "start": 395.68,
+      "end": 397.12,
+      "en": "So these are all kinds of fabrics.",
+      "zh": "所以这些都是各种面料。"
+    },
+    {
+      "id": 136,
+      "start": 397.72,
+      "end": 401.9,
+      "en": "So you pour a little bit of this in your washing machine and your clothes come out really nice and soft.",
+      "zh": "所以你在洗衣机里倒了一点，你的衣服出来真的又好又软。"
+    },
+    {
+      "id": 137,
+      "start": 402.66,
+      "end": 404.24,
+      "en": "It feels nice just talking about it.",
+      "zh": "光是谈论它就感觉很好。"
+    },
+    {
+      "id": 138,
+      "start": 404.88,
+      "end": 405.22,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 139,
+      "start": 405.76,
+      "end": 410.52,
+      "en": "And well, also to wash your clothes, to actually make them clean, you use detergent.",
+      "zh": "好吧，还要洗你的衣服，要真正让它们干净，你就用洗涤剂。"
+    },
+    {
+      "id": 140,
+      "start": 410.78,
+      "end": 410.92,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 141,
+      "start": 411.0,
+      "end": 416.7,
+      "en": "So many people might want to say the word soap because soap is what we use to wash our hands and our dishes.",
+      "zh": "很多人可能想说肥皂这个词，因为肥皂是我们用来洗手和洗碗的东西。"
+    },
+    {
+      "id": 142,
+      "start": 417.36,
+      "end": 418.64,
+      "en": "But here we have detergent.",
+      "zh": "但在这里我们有洗涤剂。"
+    },
+    {
+      "id": 143,
+      "start": 418.64,
+      "end": 421.28,
+      "en": "So this is a special soap for your clothes.",
+      "zh": "所以这是适合你衣服的特殊肥皂。"
+    },
+    {
+      "id": 144,
+      "start": 421.7,
+      "end": 421.88,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 145,
+      "start": 422.22,
+      "end": 423.32,
+      "en": "Laundry detergent.",
+      "zh": "洗衣粉。"
+    },
+    {
+      "id": 146,
+      "start": 423.36,
+      "end": 423.48,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 147,
+      "start": 423.62,
+      "end": 424.26,
+      "en": "You could just say laundry.",
+      "zh": "你可以说洗衣服。"
+    },
+    {
+      "id": 148,
+      "start": 425.6,
+      "end": 428.64,
+      "en": "You could say laundry detergent or simply detergent.",
+      "zh": "你可以说洗衣粉或只是洗涤剂。"
+    },
+    {
+      "id": 149,
+      "start": 428.64,
+      "end": 436.92,
+      "en": "And now in order to remove those nasty stains that maybe are very hard, you would use a chemical called bleach.",
+      "zh": "现在为了去除那些可能非常坚硬的讨厌的污渍，你会使用一种叫做漂白剂的化学物质。"
+    },
+    {
+      "id": 150,
+      "start": 437.12,
+      "end": 438.12,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 151,
+      "start": 438.12,
+      "end": 441.58,
+      "en": "So bleach is the dangerous chemical because it smells very strong.",
+      "zh": "所以漂白剂是危险的化学物质，因为它闻起来很浓。"
+    },
+    {
+      "id": 152,
+      "start": 442.12,
+      "end": 443.12,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 153,
+      "start": 443.12,
+      "end": 446.24,
+      "en": "And it can change the color of your clothes to white or yellow.",
+      "zh": "它可以将您的衣服颜色更改为白色或黄色。"
+    },
+    {
+      "id": 154,
+      "start": 446.6,
+      "end": 450.24,
+      "en": "So we usually only use bleach with white clothes.",
+      "zh": "所以我们通常只用白衣服的漂白剂。"
+    },
+    {
+      "id": 155,
+      "start": 450.24,
+      "end": 455.02,
+      "en": "I actually had a friend who changed the color of his hair to white using bleach.",
+      "zh": "实际上，我有一个朋友使用漂白剂将他的头发颜色改为白色。"
+    },
+    {
+      "id": 156,
+      "start": 455.36,
+      "end": 458.02,
+      "en": "He put bleach on his head and on his hair and it just turned white.",
+      "zh": "他把漂白剂放在他的头和头发上，它就变成了白色。"
+    },
+    {
+      "id": 157,
+      "start": 458.26,
+      "end": 458.62,
+      "en": "Oh, wow.",
+      "zh": "哦，哇。"
+    },
+    {
+      "id": 158,
+      "start": 458.88,
+      "end": 462.44,
+      "en": "So many people do that because they want to go from dark colors to light colors.",
+      "zh": "很多人这样做是因为他们想从深色变成浅色。"
+    },
+    {
+      "id": 159,
+      "start": 462.8,
+      "end": 468.76,
+      "en": "And in that case, you wouldn't say, you could say that he dyed his hair white, but usually you would say he bleached his hair.",
+      "zh": "在这种情况下，你不会说，你可以说他把头发染成了白色，但通常你会说他漂白了头发。"
+    },
+    {
+      "id": 160,
+      "start": 469.04,
+      "end": 471.12,
+      "en": "And so we understand that it turned white.",
+      "zh": "所以我们明白它变成了白色。"
+    },
+    {
+      "id": 161,
+      "start": 471.12,
+      "end": 471.34,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 162,
+      "start": 472.12,
+      "end": 475.96,
+      "en": "So those five words we just looked at in language takeaway, they're important.",
+      "zh": "所以我们刚刚在语言外卖中看到的那五个词，它们很重要。"
+    },
+    {
+      "id": 163,
+      "start": 476.28,
+      "end": 477.26,
+      "en": "They're related to doing laundry.",
+      "zh": "它们与洗衣有关。"
+    },
+    {
+      "id": 164,
+      "start": 477.68,
+      "end": 484.48,
+      "en": "So before we move on, let's listen to our dialogue again, but a little bit slower.",
+      "zh": "所以在我们继续之前，让我们再听一次我们的对话，但慢一点。"
+    },
+    {
+      "id": 165,
+      "start": 486.75,
+      "end": 487.21,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 166,
+      "start": 488.2,
+      "end": 489.89,
+      "en": "Let's go through this one more time.",
+      "zh": "让我们再来一次。"
+    },
+    {
+      "id": 167,
+      "start": 490.64,
+      "end": 493.51,
+      "en": "I don't want any more ruined or dyed blouses.",
+      "zh": "我可不想再把衬衫洗坏或染上别的颜色了。"
+    },
+    {
+      "id": 168,
+      "start": 494.12,
+      "end": 494.43,
+      "en": "I know.",
+      "zh": "我知道。"
+    },
+    {
+      "id": 169,
+      "start": 495.12,
+      "end": 496.12,
+      "en": "I know.",
+      "zh": "我知道。"
+    },
+    {
+      "id": 170,
+      "start": 496.12,
+      "end": 496.24,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 171,
+      "start": 497.12,
+      "end": 504.22,
+      "en": "So I have to separate the colors from the whites and put them in this strange looking contraption so-called washing machine.",
+      "zh": "所以我必须将颜色与白色分开，并将它们放在这个看起来很奇怪的装置中，所谓的洗衣机。"
+    },
+    {
+      "id": 172,
+      "start": 504.96,
+      "end": 505.08,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 173,
+      "start": 506.04,
+      "end": 510.84,
+      "en": "You have to turn it on and program it depending on what type of clothes you are washing.",
+      "zh": "您必须打开它并根据您要洗的衣服类型对其进行编程。"
+    },
+    {
+      "id": 174,
+      "start": 511.94,
+      "end": 516.03,
+      "en": "For example, for delicates, you should set a shorter washing cycle.",
+      "zh": "比如洗精细衣物时，应该选择较短的洗涤程序。"
+    },
+    {
+      "id": 175,
+      "start": 516.92,
+      "end": 522.41,
+      "en": "Also, be sure to use fabric softener and this detergent when washing.",
+      "zh": "另外，洗涤时一定要使用织物柔软剂和这种洗涤剂。"
+    },
+    {
+      "id": 176,
+      "start": 523.56,
+      "end": 524.11,
+      "en": "So complicated.",
+      "zh": "太复杂了。"
+    },
+    {
+      "id": 177,
+      "start": 525.31,
+      "end": 525.87,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 178,
+      "start": 526.35,
+      "end": 528.05,
+      "en": "What about this red wine stain?",
+      "zh": "这个红酒污渍怎么办？"
+    },
+    {
+      "id": 179,
+      "start": 528.65,
+      "end": 529.75,
+      "en": "How do I get it out?",
+      "zh": "我怎么把它拿出来？"
+    },
+    {
+      "id": 180,
+      "start": 530.19,
+      "end": 536.55,
+      "en": "Since this is a white t-shirt, you can just pour a little bit of bleach on it and it will do the trick.",
+      "zh": "因为这是一件白色的 T 恤，你可以在上面倒一点漂白剂，它就可以了。"
+    },
+    {
+      "id": 181,
+      "start": 536.99,
+      "end": 537.35,
+      "en": "Cool.",
+      "zh": "太好了。"
+    },
+    {
+      "id": 182,
+      "start": 538.13,
+      "end": 543.21,
+      "en": "Then I can just throw everything in the dryer for an hour and it's all set, right?",
+      "zh": "然后把衣服全扔进烘干机，烘一小时就行了，对吧？"
+    },
+    {
+      "id": 183,
+      "start": 543.67,
+      "end": 544.05,
+      "en": "No.",
+      "zh": "不。"
+    },
+    {
+      "id": 184,
+      "start": 544.79,
+      "end": 551.11,
+      "en": "Since you are washing delicates and cotton, you should set the dryer to medium heat and for 20 minutes.",
+      "zh": "由于您正在清洗熟食和棉花，因此您应该将烘干机设置为中火和 20 分钟。"
+    },
+    {
+      "id": 185,
+      "start": 551.79,
+      "end": 552.33,
+      "en": "You know what?",
+      "zh": "你知道吗？"
+    },
+    {
+      "id": 186,
+      "start": 552.8,
+      "end": 555.02,
+      "en": "I'll just have everything dry clean.",
+      "zh": "我只会把所有东西都干洗干净。"
+    },
+    {
+      "id": 187,
+      "start": 559.43,
+      "end": 565.71,
+      "en": "So here at EnglishPod, we'd like to also provide you listeners with some phrases that allow you to increase your fluency.",
+      "zh": "因此，在 Englishpod，我们还想为您的听众提供一些可以提高您流利度的短语。"
+    },
+    {
+      "id": 188,
+      "start": 565.91,
+      "end": 568.33,
+      "en": "That means sound more like a native English speaker.",
+      "zh": "这意味着听起来更像是一个以英语为母语的人。"
+    },
+    {
+      "id": 189,
+      "start": 568.6,
+      "end": 573.0,
+      "en": "And so today, let's check out these phrases in Fluency Builder.",
+      "zh": "所以今天，让我们在 Fluency Builder 中看看这些短语。"
+    },
+    {
+      "id": 190,
+      "start": 573.0,
+      "end": 573.34,
+      "en": "Fluency Builder.",
+      "zh": "流利表达。"
+    },
+    {
+      "id": 191,
+      "start": 574.0,
+      "end": 575.12,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 192,
+      "start": 575.12,
+      "end": 578.98,
+      "en": "So on Fluency Builder, we're going to be looking at four words or four phrases.",
+      "zh": "因此，在 Fluency Builder 上，我们将查看四个单词或四个短语。"
+    },
+    {
+      "id": 193,
+      "start": 579.72,
+      "end": 588.38,
+      "en": "So the first one was really easy when she was telling the guy or instructing him how to do the laundry, she said, let's go through this one more time.",
+      "zh": "所以当她告诉那个人或指导他如何洗衣服时，第一个真的很容易，她说，让我们再经历一次。"
+    },
+    {
+      "id": 194,
+      "start": 588.94,
+      "end": 589.38,
+      "en": "Go through what?",
+      "zh": "经过什么？"
+    },
+    {
+      "id": 195,
+      "start": 589.66,
+      "end": 589.98,
+      "en": "The wall?",
+      "zh": "墙？"
+    },
+    {
+      "id": 196,
+      "start": 590.64,
+      "end": 590.98,
+      "en": "No.",
+      "zh": "不。"
+    },
+    {
+      "id": 197,
+      "start": 591.22,
+      "end": 594.36,
+      "en": "So it's not actually to go through an object, like to pass.",
+      "zh": "所以它实际上不是通过一个对象，喜欢通过。"
+    },
+    {
+      "id": 198,
+      "start": 595.04,
+      "end": 598.04,
+      "en": "So it's let's repeat or let's rehearse again.",
+      "zh": "所以它让我们重复或让我们再次排练。"
+    },
+    {
+      "id": 199,
+      "start": 598.54,
+      "end": 598.92,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 200,
+      "start": 598.92,
+      "end": 602.74,
+      "en": "So normally we say this when there are many different steps to do something.",
+      "zh": "所以通常我们在有许多不同的步骤来做某事时会这样说。"
+    },
+    {
+      "id": 201,
+      "start": 603.06,
+      "end": 604.76,
+      "en": "So let's go through this again.",
+      "zh": "所以让我们再来一次。"
+    },
+    {
+      "id": 202,
+      "start": 605.1,
+      "end": 611.48,
+      "en": "When you leave work, you go home, you unlock the door, you open the door.",
+      "zh": "当你下班时，你回家，你打开门，你打开门。"
+    },
+    {
+      "id": 203,
+      "start": 612.4,
+      "end": 615.6,
+      "en": "And then so it means that there's a process.",
+      "zh": "然后这意味着有一个过程。"
+    },
+    {
+      "id": 204,
+      "start": 616.2,
+      "end": 616.72,
+      "en": "There are many steps.",
+      "zh": "有很多步骤。"
+    },
+    {
+      "id": 205,
+      "start": 616.88,
+      "end": 623.84,
+      "en": "And so let's go through this again is a way for us to say let's think about and discuss this process.",
+      "zh": "所以让我们再来看看这是我们说让我们思考和讨论这个过程的一种方式。"
+    },
+    {
+      "id": 206,
+      "start": 623.84,
+      "end": 624.5,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 207,
+      "start": 624.84,
+      "end": 626.76,
+      "en": "So we also use it maybe when we're studying.",
+      "zh": "所以我们在学习时也可能会使用它。"
+    },
+    {
+      "id": 208,
+      "start": 627.12,
+      "end": 629.76,
+      "en": "So let's go through this subject one more time.",
+      "zh": "所以让我们再来一遍这个主题。"
+    },
+    {
+      "id": 209,
+      "start": 629.84,
+      "end": 632.56,
+      "en": "Can we go through chapter five again?",
+      "zh": "我们可以再次阅读第五章吗？"
+    },
+    {
+      "id": 210,
+      "start": 632.56,
+      "end": 634.48,
+      "en": "So you would reread a chapter five.",
+      "zh": "所以你会重读第五章。"
+    },
+    {
+      "id": 211,
+      "start": 634.86,
+      "end": 635.04,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 212,
+      "start": 635.48,
+      "end": 639.8,
+      "en": "So why don't we listen to a couple of more examples of how we could use go through.",
+      "zh": "那么，我们为什么不听听更多关于我们如何使用 GoThrough 的例子。"
+    },
+    {
+      "id": 213,
+      "start": 641.8,
+      "end": 642.14,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 214,
+      "start": 643.9,
+      "end": 646.84,
+      "en": "I want to go through chapter five again before the exam tomorrow.",
+      "zh": "我想明天考试前再读第五章。"
+    },
+    {
+      "id": 215,
+      "start": 648.59,
+      "end": 649.59,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 216,
+      "start": 651.24,
+      "end": 655.3,
+      "en": "David, do you have time this afternoon to go over the details of this new project?",
+      "zh": "大卫，你今天下午有时间回顾这个新项目的细节吗？"
+    },
+    {
+      "id": 217,
+      "start": 657.2,
+      "end": 659.12,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 218,
+      "start": 659.12,
+      "end": 665.0,
+      "en": "I went through my contract and it says that I am entitled to 15 vacation days a year.",
+      "zh": "我完成了我的合同，它说我有权一年有 15 天的假期。"
+    },
+    {
+      "id": 219,
+      "start": 667.04,
+      "end": 671.59,
+      "en": "Now this next phrase is very common when we're using sarcasm, when we're trying to make jokes.",
+      "zh": "现在，当我们使用讽刺时，当我们试图开玩笑时，下一个短语很常见。"
+    },
+    {
+      "id": 220,
+      "start": 672.04,
+      "end": 673.04,
+      "en": "So we say so-called.",
+      "zh": "所以我们说所谓的。"
+    },
+    {
+      "id": 221,
+      "start": 673.89,
+      "end": 674.04,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 222,
+      "start": 674.13,
+      "end": 677.39,
+      "en": "So she said this so-called contraption.",
+      "zh": "所以她说了这个所谓的装置。"
+    },
+    {
+      "id": 223,
+      "start": 678.0,
+      "end": 680.85,
+      "en": "It's like she doubts that it's really a washing machine.",
+      "zh": "就像她怀疑它真的是一台洗衣机一样。"
+    },
+    {
+      "id": 224,
+      "start": 681.24,
+      "end": 685.27,
+      "en": "So I could say her so-called boyfriend wants to go out tonight.",
+      "zh": "所以我可以说她所谓的男朋友今晚想出去。"
+    },
+    {
+      "id": 225,
+      "start": 685.76,
+      "end": 688.91,
+      "en": "So I say that because he doesn't really act like a boyfriend.",
+      "zh": "所以我这么说是因为他的行为并不像男朋友。"
+    },
+    {
+      "id": 226,
+      "start": 689.55,
+      "end": 690.41,
+      "en": "So you're being sarcastic.",
+      "zh": "所以你在讽刺。"
+    },
+    {
+      "id": 227,
+      "start": 691.0,
+      "end": 694.44,
+      "en": "It's a very good way and easy way of demonstrating sarcasm.",
+      "zh": "这是一个很好的方式和简单的表达讽刺的方法。"
+    },
+    {
+      "id": 228,
+      "start": 694.91,
+      "end": 695.03,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 229,
+      "start": 695.44,
+      "end": 699.99,
+      "en": "Actually, in the 1990s in America, there was a very famous TV show called My So-Called Life.",
+      "zh": "实际上，在 1990 年代的美国，有一个非常著名的电视节目，叫做我所谓的生活。"
+    },
+    {
+      "id": 230,
+      "start": 700.8,
+      "end": 701.8,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 231,
+      "start": 701.8,
+      "end": 703.04,
+      "en": "So this is my so-called life.",
+      "zh": "所以这就是我所谓的生活。"
+    },
+    {
+      "id": 232,
+      "start": 703.52,
+      "end": 707.23,
+      "en": "It's almost like it's not really like I have any control over it.",
+      "zh": "这几乎就像我对它没有任何控制权一样。"
+    },
+    {
+      "id": 233,
+      "start": 707.55,
+      "end": 709.89,
+      "en": "Or I don't really have a life because it's kind of boring.",
+      "zh": "或者我真的没有生活，因为这有点无聊。"
+    },
+    {
+      "id": 234,
+      "start": 710.24,
+      "end": 711.24,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 235,
+      "start": 711.24,
+      "end": 712.53,
+      "en": "So my so-called life, not bragging.",
+      "zh": "所以我所谓的生活，不吹牛。"
+    },
+    {
+      "id": 236,
+      "start": 713.09,
+      "end": 713.43,
+      "en": "It's a joke.",
+      "zh": "这是一个笑话。"
+    },
+    {
+      "id": 237,
+      "start": 713.92,
+      "end": 717.01,
+      "en": "So you can say my so-called friends, my so-called job.",
+      "zh": "所以你可以说我所谓的朋友，我所谓的工作。"
+    },
+    {
+      "id": 238,
+      "start": 717.59,
+      "end": 719.49,
+      "en": "Basically, you can almost be sarcastic with anything.",
+      "zh": "基本上，你几乎可以对任何东西都讽刺。"
+    },
+    {
+      "id": 239,
+      "start": 719.72,
+      "end": 720.72,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 240,
+      "start": 720.72,
+      "end": 726.09,
+      "en": "But be careful that you know that it's a joke because if you're trying to be serious, you might make some people angry.",
+      "zh": "但要小心，你知道这是一个笑话，因为如果你想认真，你可能会让一些人生气。"
+    },
+    {
+      "id": 241,
+      "start": 726.68,
+      "end": 727.68,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 242,
+      "start": 727.68,
+      "end": 730.37,
+      "en": "And now, well, she was explaining the whole process of how to do it.",
+      "zh": "而现在，好吧，她正在解释如何做到这一点的整个过程。"
+    },
+    {
+      "id": 243,
+      "start": 730.72,
+      "end": 735.66,
+      "en": "And when she recommended using bleach, she said that should do the trick.",
+      "zh": "当她建议使用漂白剂时，她说这应该可以解决问题。"
+    },
+    {
+      "id": 244,
+      "start": 736.0,
+      "end": 737.0,
+      "en": "Trick.",
+      "zh": "骗术。"
+    },
+    {
+      "id": 245,
+      "start": 737.0,
+      "end": 738.24,
+      "en": "So dogs do tricks, right?",
+      "zh": "所以狗会做技巧，对吧？"
+    },
+    {
+      "id": 246,
+      "start": 738.4,
+      "end": 738.52,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 247,
+      "start": 739.4,
+      "end": 740.4,
+      "en": "But to do the trick, right?",
+      "zh": "但要做到这一点，对吧？"
+    },
+    {
+      "id": 248,
+      "start": 740.4,
+      "end": 741.4,
+      "en": "What is she saying?",
+      "zh": "她在说什么？"
+    },
+    {
+      "id": 249,
+      "start": 741.4,
+      "end": 742.4,
+      "en": "So it's got a different meaning.",
+      "zh": "所以它有不同的含义。"
+    },
+    {
+      "id": 250,
+      "start": 742.92,
+      "end": 743.08,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 251,
+      "start": 743.4,
+      "end": 744.98,
+      "en": "So she's basically saying this should work.",
+      "zh": "所以她基本上是说这应该有效。"
+    },
+    {
+      "id": 252,
+      "start": 745.24,
+      "end": 746.44,
+      "en": "This should fix your problem.",
+      "zh": "这应该可以解决您的问题。"
+    },
+    {
+      "id": 253,
+      "start": 747.2,
+      "end": 748.68,
+      "en": "So that should do the trick.",
+      "zh": "所以这应该可以解决问题。"
+    },
+    {
+      "id": 254,
+      "start": 749.28,
+      "end": 757.03,
+      "en": "So Marco, I've been having this itch on my foot and I just can't seem to figure out what to do with it.",
+      "zh": "所以马可，我的脚上一直有这种瘙痒，我似乎无法弄清楚如何处理它。"
+    },
+    {
+      "id": 255,
+      "start": 757.48,
+      "end": 757.93,
+      "en": "Do you have any suggestions?",
+      "zh": "你有什么建议吗？"
+    },
+    {
+      "id": 256,
+      "start": 758.55,
+      "end": 758.73,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 257,
+      "start": 758.85,
+      "end": 761.89,
+      "en": "You should maybe just put some ointment on it and that should do the trick.",
+      "zh": "你也许应该只是在上面涂一些药膏，这应该可以解决问题。"
+    },
+    {
+      "id": 258,
+      "start": 762.24,
+      "end": 762.53,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 259,
+      "start": 763.24,
+      "end": 764.24,
+      "en": "Cool.",
+      "zh": "太好了。"
+    },
+    {
+      "id": 260,
+      "start": 764.24,
+      "end": 765.24,
+      "en": "Thanks for the suggestion.",
+      "zh": "感谢您的建议。"
+    },
+    {
+      "id": 261,
+      "start": 765.24,
+      "end": 766.24,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 262,
+      "start": 766.24,
+      "end": 767.24,
+      "en": "So very easy.",
+      "zh": "非常容易。"
+    },
+    {
+      "id": 263,
+      "start": 767.24,
+      "end": 768.24,
+      "en": "It's just a way of saying that should solve your problem.",
+      "zh": "这只是一种可以解决您的问题的说法。"
+    },
+    {
+      "id": 264,
+      "start": 768.24,
+      "end": 769.24,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 265,
+      "start": 769.24,
+      "end": 770.24,
+      "en": "Great.",
+      "zh": "太好了。"
+    },
+    {
+      "id": 266,
+      "start": 770.24,
+      "end": 773.52,
+      "en": "So that's the trick or it will do the trick.",
+      "zh": "所以这就是诀窍，否则它会起到作用。"
+    },
+    {
+      "id": 267,
+      "start": 773.52,
+      "end": 775.79,
+      "en": "And well, we have one last phrase, all set.",
+      "zh": "好吧，我们有最后一个短语，全部设置。"
+    },
+    {
+      "id": 268,
+      "start": 776.8,
+      "end": 777.19,
+      "en": "All set.",
+      "zh": "全部设置。"
+    },
+    {
+      "id": 269,
+      "start": 777.8,
+      "end": 784.25,
+      "en": "So this is another phrase that has two words that always go together to mean, well, we're finished.",
+      "zh": "所以这是另一个短语，有两个词总是在一起的意思，好吧，我们已经完成了。"
+    },
+    {
+      "id": 270,
+      "start": 784.96,
+      "end": 785.11,
+      "en": "We're done.",
+      "zh": "我们完成了。"
+    },
+    {
+      "id": 271,
+      "start": 786.04,
+      "end": 786.42,
+      "en": "Everything is ready.",
+      "zh": "一切准备就绪。"
+    },
+    {
+      "id": 272,
+      "start": 787.12,
+      "end": 787.38,
+      "en": "Everything is ready.",
+      "zh": "一切准备就绪。"
+    },
+    {
+      "id": 273,
+      "start": 788.12,
+      "end": 788.98,
+      "en": "We're all set to go on vacation.",
+      "zh": "我们都准备去度假了。"
+    },
+    {
+      "id": 274,
+      "start": 789.44,
+      "end": 790.26,
+      "en": "So my bags are packed.",
+      "zh": "所以我的包是打包的。"
+    },
+    {
+      "id": 275,
+      "start": 790.44,
+      "end": 791.52,
+      "en": "I have my passports.",
+      "zh": "我有我的护照。"
+    },
+    {
+      "id": 276,
+      "start": 791.52,
+      "end": 792.14,
+      "en": "We are all set.",
+      "zh": "我们都准备好了。"
+    },
+    {
+      "id": 277,
+      "start": 792.8,
+      "end": 794.86,
+      "en": "Or after a meeting, you can say, are we all set here?",
+      "zh": "或者在开会之后，你可以说，我们都在这里吗？"
+    },
+    {
+      "id": 278,
+      "start": 795.2,
+      "end": 796.48,
+      "en": "That means, are we finished?",
+      "zh": "这意味着，我们完成了吗？"
+    },
+    {
+      "id": 279,
+      "start": 796.48,
+      "end": 797.14,
+      "en": "Is it time to leave?",
+      "zh": "是时候离开了吗？"
+    },
+    {
+      "id": 280,
+      "start": 797.84,
+      "end": 797.98,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 281,
+      "start": 798.84,
+      "end": 800.1,
+      "en": "So we are almost all set.",
+      "zh": "所以我们几乎都准备好了。"
+    },
+    {
+      "id": 282,
+      "start": 800.52,
+      "end": 802.52,
+      "en": "Let's listen to this dialogue one last time.",
+      "zh": "我们最后再听一遍这段对话。"
+    },
+    {
+      "id": 283,
+      "start": 809.37,
+      "end": 809.81,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 284,
+      "start": 810.68,
+      "end": 812.53,
+      "en": "Let's go through this one more time.",
+      "zh": "让我们再来一次。"
+    },
+    {
+      "id": 285,
+      "start": 813.32,
+      "end": 816.01,
+      "en": "I don't want any more ruined or dyed blouses.",
+      "zh": "我可不想再把衬衫洗坏或染上别的颜色了。"
+    },
+    {
+      "id": 286,
+      "start": 816.55,
+      "end": 816.97,
+      "en": "I know.",
+      "zh": "我知道。"
+    },
+    {
+      "id": 287,
+      "start": 817.07,
+      "end": 817.27,
+      "en": "I know.",
+      "zh": "我知道。"
+    },
+    {
+      "id": 288,
+      "start": 818.52,
+      "end": 819.52,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 289,
+      "start": 819.52,
+      "end": 825.63,
+      "en": "So I had to separate the colors from the whites and put them in this strange looking contraption so-called washing machine.",
+      "zh": "所以我得把彩色衣服和白色衣服分开，再放进这个样子古怪、叫作洗衣机的机器里。"
+    },
+    {
+      "id": 290,
+      "start": 826.12,
+      "end": 826.35,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 291,
+      "start": 826.79,
+      "end": 830.29,
+      "en": "You have to turn it on and program it depending on what type of clothes you're washing.",
+      "zh": "你得打开机器，再根据所洗衣物的类型选择洗涤程序。"
+    },
+    {
+      "id": 292,
+      "start": 830.69,
+      "end": 833.97,
+      "en": "For example, for delicates, you should set a shorter washing cycle.",
+      "zh": "比如洗精细衣物时，应该选择较短的洗涤程序。"
+    },
+    {
+      "id": 293,
+      "start": 834.51,
+      "end": 837.45,
+      "en": "Also, be sure to use fabric softener and this detergent when washing.",
+      "zh": "另外，洗涤时一定要使用织物柔软剂和这种洗涤剂。"
+    },
+    {
+      "id": 294,
+      "start": 837.93,
+      "end": 838.87,
+      "en": "So complicated.",
+      "zh": "太复杂了。"
+    },
+    {
+      "id": 295,
+      "start": 839.73,
+      "end": 840.13,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 296,
+      "start": 840.29,
+      "end": 841.79,
+      "en": "What about this red wine stain?",
+      "zh": "这个红酒污渍怎么办？"
+    },
+    {
+      "id": 297,
+      "start": 842.29,
+      "end": 843.29,
+      "en": "How do I get it out?",
+      "zh": "我怎么把它拿出来？"
+    },
+    {
+      "id": 298,
+      "start": 843.69,
+      "end": 848.53,
+      "en": "Since this is a white T-shirt, you can just pour a little bit of bleach on it and it will do the trick.",
+      "zh": "因为这是一件白色的 T 恤，你可以在上面倒一点漂白剂，它就可以了。"
+    },
+    {
+      "id": 299,
+      "start": 848.95,
+      "end": 849.27,
+      "en": "Cool.",
+      "zh": "太好了。"
+    },
+    {
+      "id": 300,
+      "start": 849.77,
+      "end": 852.87,
+      "en": "Then I can just throw everything in the dryer for an hour and it's all set, right?",
+      "zh": "然后把衣服全扔进烘干机，烘一小时就行了，对吧？"
+    },
+    {
+      "id": 301,
+      "start": 853.25,
+      "end": 853.59,
+      "en": "No.",
+      "zh": "不。"
+    },
+    {
+      "id": 302,
+      "start": 854.88,
+      "end": 859.68,
+      "en": "If you're washing delicates and cotton, you should set the dryer to medium heat and for 20 minutes.",
+      "zh": "如果您要清洗熟食和棉花，则应将烘干机设置为中火和 20 分钟。"
+    },
+    {
+      "id": 303,
+      "start": 859.95,
+      "end": 860.47,
+      "en": "You know what?",
+      "zh": "你知道吗？"
+    },
+    {
+      "id": 304,
+      "start": 861.23,
+      "end": 862.49,
+      "en": "I'll just have everything dry cleaned.",
+      "zh": "我只会把所有东西都干洗干净。"
+    },
+    {
+      "id": 305,
+      "start": 870.4,
+      "end": 872.08,
+      "en": "Have you ever had any laundry mishaps?",
+      "zh": "你有过洗衣事故吗？"
+    },
+    {
+      "id": 306,
+      "start": 872.08,
+      "end": 875.72,
+      "en": "Have you ever lost a sock, dyed something?",
+      "zh": "你有没有丢过袜子，染过什么东西？"
+    },
+    {
+      "id": 307,
+      "start": 875.72,
+      "end": 876.38,
+      "en": "Have I ever.",
+      "zh": "我曾经。"
+    },
+    {
+      "id": 308,
+      "start": 877.24,
+      "end": 878.74,
+      "en": "I hate doing the laundry.",
+      "zh": "我讨厌洗衣服。"
+    },
+    {
+      "id": 309,
+      "start": 879.8,
+      "end": 880.8,
+      "en": "Why?",
+      "zh": "为什么？"
+    },
+    {
+      "id": 310,
+      "start": 880.8,
+      "end": 881.8,
+      "en": "So much.",
+      "zh": "这么多。"
+    },
+    {
+      "id": 311,
+      "start": 881.8,
+      "end": 882.8,
+      "en": "It's time consuming.",
+      "zh": "这很耗时。"
+    },
+    {
+      "id": 312,
+      "start": 882.8,
+      "end": 886.6,
+      "en": "It takes a lot of time and I just have no patience.",
+      "zh": "这需要很多时间，我只是没有耐心。"
+    },
+    {
+      "id": 313,
+      "start": 886.6,
+      "end": 895.04,
+      "en": "And so normally, when I was in college, I would take all of my laundry in a bag and I'd throw it in the washing machine and I'd put it on cold.",
+      "zh": "所以通常情况下，当我上大学的时候，我会把所有的衣服都装在袋子里，然后把它扔进洗衣机里，然后把它放在冷的地方。"
+    },
+    {
+      "id": 314,
+      "start": 895.04,
+      "end": 898.96,
+      "en": "Because cold water, it's okay for all colors, but hot water makes the colors bleed.",
+      "zh": "因为冷水，所有颜色都可以，但热水使颜色流血。"
+    },
+    {
+      "id": 315,
+      "start": 900.04,
+      "end": 908.01,
+      "en": "I took out the clothes and put them in the dryer and afterwards I saw all my clothes were clean except for my three sweaters, which were small enough for babies.",
+      "zh": "我把衣服拿出来放在烘干机里，然后我看到我所有的衣服都很干净，除了我的三件毛衣，这些毛衣足够小。"
+    },
+    {
+      "id": 316,
+      "start": 908.55,
+      "end": 910.07,
+      "en": "Oh, you shrunk it.",
+      "zh": "哦，你缩小了。"
+    },
+    {
+      "id": 317,
+      "start": 910.83,
+      "end": 913.55,
+      "en": "I shrunk three brand new sweaters.",
+      "zh": "我缩小了三件全新的毛衣。"
+    },
+    {
+      "id": 318,
+      "start": 915.43,
+      "end": 920.31,
+      "en": "The problem that I have when doing laundry is that I forget that I started doing laundry.",
+      "zh": "我在洗衣服时遇到的问题是我忘记了我开始洗衣服。"
+    },
+    {
+      "id": 319,
+      "start": 920.72,
+      "end": 927.48,
+      "en": "So all of a sudden, I'm doing laundry in the morning and then clothes are washed, but they're still in the washing machine.",
+      "zh": "所以突然间，我早上在洗衣服，然后衣服洗了，但它们还在洗衣机里。"
+    },
+    {
+      "id": 320,
+      "start": 927.48,
+      "end": 928.67,
+      "en": "And I remember the next day.",
+      "zh": "我记得第二天。"
+    },
+    {
+      "id": 321,
+      "start": 929.28,
+      "end": 932.04,
+      "en": "So then the clothes are smelling kind of humid.",
+      "zh": "于是，衣服闻起来有点潮湿。"
+    },
+    {
+      "id": 322,
+      "start": 932.48,
+      "end": 933.36,
+      "en": "Because they're moldy.",
+      "zh": "因为它们发霉。"
+    },
+    {
+      "id": 323,
+      "start": 934.48,
+      "end": 937.0,
+      "en": "So I have to rewash them and it's just a pain.",
+      "zh": "所以我必须重新洗它们，这只是一种痛苦。"
+    },
+    {
+      "id": 324,
+      "start": 937.76,
+      "end": 941.92,
+      "en": "And doing laundry is sometimes so time consuming, but let us know what you think.",
+      "zh": "洗衣服有时非常耗时，但让我们知道您的想法。"
+    },
+    {
+      "id": 325,
+      "start": 941.92,
+      "end": 945.05,
+      "en": "Do you like doing laundry or have you ever lost a sock?",
+      "zh": "你喜欢洗衣服还是曾经丢过袜子？"
+    },
+    {
+      "id": 326,
+      "start": 945.28,
+      "end": 948.96,
+      "en": "I think everyone has lost a sock or something in the washing, right?",
+      "zh": "我想每个人在洗衣服中都丢了一只袜子或什么的，对吧？"
+    },
+    {
+      "id": 327,
+      "start": 948.96,
+      "end": 949.96,
+      "en": "I don't know what happens.",
+      "zh": "我不知道会发生什么。"
+    },
+    {
+      "id": 328,
+      "start": 949.96,
+      "end": 952.32,
+      "en": "I think there's a secret home for socks somewhere.",
+      "zh": "我认为某处有一个秘密的袜子之家。"
+    },
+    {
+      "id": 329,
+      "start": 952.32,
+      "end": 953.48,
+      "en": "It's so weird.",
+      "zh": "太奇怪了。"
+    },
+    {
+      "id": 330,
+      "start": 953.48,
+      "end": 954.83,
+      "en": "Maybe it's in Australia or something.",
+      "zh": "也许是在澳大利亚什么的。"
+    },
+    {
+      "id": 331,
+      "start": 955.76,
+      "end": 958.8,
+      "en": "So come to our website, EnglishPod.com.",
+      "zh": "所以来我们的网站 englishpod.com。"
+    },
+    {
+      "id": 332,
+      "start": 958.8,
+      "end": 961.61,
+      "en": "Give us all your feedback, questions, comments or suggestions.",
+      "zh": "给我们您所有的反馈、问题、意见或建议。"
+    },
+    {
+      "id": 333,
+      "start": 962.5,
+      "end": 962.95,
+      "en": "And we're always there.",
+      "zh": "我们一直都在那里。"
+    },
+    {
+      "id": 334,
+      "start": 963.5,
+      "end": 964.5,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 335,
+      "start": 964.5,
+      "end": 964.65,
+      "en": "Hope to hear from you soon.",
+      "zh": "希望尽快收到您的来信。"
+    },
+    {
+      "id": 336,
+      "start": 965.5,
+      "end": 966.5,
+      "en": "And until next time, everyone.",
+      "zh": "直到下一次，大家。"
+    },
+    {
+      "id": 337,
+      "start": 966.5,
+      "end": 967.5,
+      "en": "Bye.",
+      "zh": "再见。"
+    },
+    {
+      "id": 338,
+      "start": 967.5,
+      "end": 968.0,
+      "en": "Bye.",
+      "zh": "再见。"
+    }
+  ],
+  "dialog": {
+    "start": 161.68,
+    "end": 210.79,
+    "segmentIds": [
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68
+    ]
+  }
+}

@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<link rel="icon" href="assets/favicon.ico" type="image/x-icon">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>English Pod 学习平台</title>
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+html, body { height: 100%; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; background: #f1f5f9; color: #1e293b; }
+#app { display: flex; flex-direction: column; height: 100vh; }
+
+header { background: #1e293b; color: #fff; padding: 12px 24px; display: flex; align-items: center; gap: 12px; flex-shrink: 0; }
+header h1 { font-size: 18px; font-weight: 600; letter-spacing: 0.5px; }
+header span { font-size: 13px; color: #94a3b8; }
+
+.container { display: flex; flex: 1; min-height: 0; }
+
+.sidebar { width: 300px; min-width: 300px; background: #fff; border-right: 1px solid #e2e8f0; display: flex; flex-direction: column; flex-shrink: 0; }
+.sidebar-header { padding: 12px 16px; border-bottom: 1px solid #e2e8f0; background: #f8fafc; }
+.sidebar-header h2 { font-size: 14px; font-weight: 600; margin-bottom: 8px; }
+.play-mode { display: flex; gap: 12px; font-size: 12px; }
+.play-mode label { display: flex; align-items: center; gap: 4px; cursor: pointer; color: #475569; }
+.play-mode input[type="radio"] { accent-color: #3b82f6; }
+.playlist { flex: 1; overflow-y: auto; }
+.playlist-item { width: 100%; border: none; text-align: left; background: #fff; padding: 8px 16px; cursor: pointer; border-bottom: 1px solid #f1f5f9; display: flex; align-items: center; gap: 8px; transition: background 0.15s; }
+.playlist-item:hover { background: #f1f5f9; }
+.playlist-item.active { background: #eff6ff; border-left: 3px solid #3b82f6; }
+.playlist-item.playing { background: #dbeafe; }
+.playlist-item .num { font-size: 12px; color: #94a3b8; font-weight: 500; min-width: 36px; }
+.playlist-item .title { font-size: 13px; color: #334155; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+
+.content { flex: 1; display: flex; flex-direction: column; min-width: 0; }
+
+.player { background: #fff; border-bottom: 1px solid #e2e8f0; padding: 12px 20px; flex-shrink: 0; }
+.player-info { font-size: 13px; color: #64748b; margin-bottom: 6px; }
+.player-info strong { color: #1e293b; }
+.player audio { width: 100%; height: 40px; }
+.player-options { display: flex; flex-wrap: wrap; gap: 8px 22px; align-items: center; margin: 8px 0; font-size: 13px; color: #475569; }
+.player-options fieldset { display: flex; gap: 12px; border: 0; align-items: center; }
+.player-options legend { float: left; margin-right: 10px; font-weight: 600; }
+.player-options label { display: inline-flex; gap: 4px; align-items: center; cursor: pointer; }
+.player-options input { accent-color: #3b82f6; }
+.player-status { min-height: 19px; font-size: 12px; color: #64748b; }
+.player-status.error { color: #b91c1c; }
+
+.empty-state { display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%; gap: 12px; color: #94a3b8; }
+.empty-state .icon { font-size: 48px; }
+.empty-state .msg { font-size: 16px; }
+
+.tabs { display: flex; background: #fff; border-bottom: 1px solid #e2e8f0; flex-shrink: 0; padding: 0 16px; }
+.tab-btn { padding: 10px 20px; font-size: 13px; font-weight: 500; border: none; background: none; cursor: pointer; color: #64748b; border-bottom: 2px solid transparent; transition: all 0.15s; }
+.tab-btn:hover { color: #334155; }
+.tab-btn.active { color: #3b82f6; border-bottom-color: #3b82f6; }
+
+.tab-content { flex: 1; min-height: 0; position: relative; }
+.tab-pane { display: none; width: 100%; height: 100%; position: absolute; top: 0; left: 0; overflow: auto; }
+.tab-pane.active { display: block; }
+
+.srt-container { padding: 16px 20px; }
+.srt-line { padding: 6px 12px; margin: 2px 0; border-radius: 6px; font-size: 14px; line-height: 1.6; color: #475569; transition: all 0.15s; }
+.srt-line.active { background: #dbeafe; color: #1e40af; font-weight: 500; box-shadow: 0 1px 3px rgba(59,130,246,0.2); }
+.sentence { display: block; width: 100%; border: 0; text-align: left; background: transparent; cursor: pointer; font-family: inherit; }
+.sentence:hover { background: #eff6ff; }
+.sentence:focus-visible, .playlist-item:focus-visible { outline: 2px solid #2563eb; outline-offset: -2px; }
+.sentence.selected { border-left: 3px solid #2563eb; }
+.sentence .en, .sentence .zh { display: block; white-space: pre-wrap; }
+.sentence .zh { margin-top: 2px; color: #64748b; }
+.sentence .zh[hidden] { display: none; }
+.txt-line { padding: 7px 10px; margin: 2px 0; border-radius: 6px; font-size: 14px; line-height: 1.7; color: #334155; }
+.txt-line.active { background: #dbeafe; }
+
+.txt-container { padding: 20px 24px; font-size: 14px; line-height: 1.8; color: #334155; white-space: pre-wrap; font-family: inherit; }
+
+.md-container { padding: 20px 24px; overflow-y: auto; height: 100%; }
+.md-container h1 { font-size: 18px; font-weight: 600; margin: 0 0 12px 0; color: #1e293b; }
+.md-container h2 { font-size: 15px; font-weight: 600; margin: 20px 0 10px 0; color: #3b82f6; border-bottom: 1px solid #e2e8f0; padding-bottom: 6px; }
+.md-container p { font-size: 14px; line-height: 1.7; color: #334155; margin: 4px 0; }
+.md-container ul { list-style: none; padding: 0; margin: 8px 0; }
+.md-container li { padding: 6px 0; font-size: 14px; line-height: 1.6; color: #475569; border-bottom: 1px solid #f1f5f9; }
+.md-container li:last-child { border-bottom: none; }
+.md-container strong { color: #1e293b; }
+.md-container em { color: #6366f1; font-style: normal; font-size: 12px; background: #eef2ff; padding: 1px 5px; border-radius: 3px; }
+.md-container hr { border: none; border-top: 1px solid #e2e8f0; margin: 16px 0; }
+
+.hidden { display: none !important; }
+
+@media (max-width: 768px) {
+  .container { flex-direction: column; }
+  .sidebar { width: 100%; min-width: unset; max-height: 200px; }
+}
+</style>
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+<div id="app">
+  <header>
+    <h1>English Pod</h1>
+    <span>365 期英语学习 · 字幕同步 · 知识讲解</span>
+  </header>
+  <div class="container">
+    <aside class="sidebar">
+      <div class="sidebar-header">
+        <h2>播放列表</h2>
+        <div class="play-mode">
+          <label><input type="radio" name="playMode" value="sequential" checked> 顺序播放</label>
+          <label><input type="radio" name="playMode" value="loop"> 单曲循环</label>
+          <label><input type="radio" name="playMode" value="listLoop"> 列表循环</label>
+        </div>
+      </div>
+      <div class="playlist" id="playlist"></div>
+    </aside>
+    <main class="content">
+      <div class="player" id="playerArea">
+        <div class="player-info" id="playerInfo">请从左侧播放列表选择一期节目</div>
+        <div class="player-options">
+          <button type="button" id="desktopSubtitles" aria-pressed="false">桌面字幕</button>
+          <a class="local-certificate-link hidden" href="certificate-setup.html" target="_blank" rel="noopener">证书安装说明</a>
+          <a class="local-certificate-link hidden" href="assets/EnglishPod-RootCA.crt" download>下载局域网证书</a>
+          <fieldset><legend>播放内容</legend><label><input type="radio" name="scope" value="full" checked> 完整节目</label><label><input type="radio" name="scope" value="dialog"> 对话</label></fieldset>
+          <label><input type="checkbox" id="showChinese"> 显示中文</label>
+          <label><input type="checkbox" id="sentenceLoop"> 单句循环</label>
+          <label title="两句之间没有字幕时，保留前一句高亮，直到下一句开始"><input type="checkbox" id="retainHighlight" checked> 空白间隔保留高亮</label>
+        </div>
+        <div class="player-status" id="playerStatus" role="status" aria-live="polite"></div>
+        <audio id="audio" controls preload="metadata"></audio>
+      </div>
+      <div class="tabs" id="tabs">
+        <button class="tab-btn active" data-tab="srt">SRT 字幕</button>
+        <button class="tab-btn" data-tab="md">知识讲解</button>
+        <button class="tab-btn" data-tab="txt">TXT 全文</button>
+      </div>
+      <div class="tab-content" id="tabContent">
+        <div class="tab-pane active" id="tab-srt">
+          <div class="srt-container" id="srtContainer"></div>
+        </div>
+        <div class="tab-pane" id="tab-txt">
+          <div class="txt-container" id="txtContainer"></div>
+        </div>
+        <div class="tab-pane" id="tab-md">
+          <div class="md-container" id="mdContainer"></div>
+        </div>
+      </div>
+    </main>
+  </div>
+</div>
+
+<script src="player-core.js"></script>
+<script src="desktop-subtitles.js?v=20260917-20"></script>
+<script src="player.js?v=20260917-20"></script>
+</body>
+</html>

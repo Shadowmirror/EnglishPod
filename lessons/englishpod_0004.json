@@ -1,0 +1,1077 @@
+{
+  "version": 1,
+  "id": 4,
+  "number": "0004",
+  "title": "The Office - I need an assistant!",
+  "audio": "mp3/4. The Office - I need an assistant!.mp3",
+  "duration": 569.809,
+  "segments": [
+    {
+      "id": 1,
+      "start": 2.38,
+      "end": 5.36,
+      "en": "Hello, everyone, and welcome to EnglishPod.",
+      "zh": "大家好，欢迎来到 EnglishPod。"
+    },
+    {
+      "id": 2,
+      "start": 5.62,
+      "end": 6.22,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 6.76,
+      "end": 7.28,
+      "en": "I'm Amira.",
+      "zh": "我叫 Amira。"
+    },
+    {
+      "id": 4,
+      "start": 7.72,
+      "end": 8.26,
+      "en": "Hey, Amira.",
+      "zh": "嘿，阿米拉。"
+    },
+    {
+      "id": 5,
+      "start": 8.48,
+      "end": 9.08,
+      "en": "How are you today?",
+      "zh": "你今天好吗？"
+    },
+    {
+      "id": 6,
+      "start": 9.5,
+      "end": 10.04,
+      "en": "I'm doing great.",
+      "zh": "我很好。"
+    },
+    {
+      "id": 7,
+      "start": 10.28,
+      "end": 10.72,
+      "en": "What about you?",
+      "zh": "你呢？"
+    },
+    {
+      "id": 8,
+      "start": 11.12,
+      "end": 12.36,
+      "en": "I'm doing pretty good.",
+      "zh": "我做得很好。"
+    },
+    {
+      "id": 9,
+      "start": 12.68,
+      "end": 16.02,
+      "en": "I'm excited about this lesson that you have for us today.",
+      "zh": "我对你今天为我们的这一课感到兴奋。"
+    },
+    {
+      "id": 10,
+      "start": 16.46,
+      "end": 19.16,
+      "en": "Yes, it's actually a very, very useful lesson.",
+      "zh": "是的，这实际上是一个非常非常有用的课程。"
+    },
+    {
+      "id": 11,
+      "start": 19.56,
+      "end": 22.88,
+      "en": "It's about someone asking his boss for an assistant.",
+      "zh": "这是关于有人向他的老板要助手。"
+    },
+    {
+      "id": 12,
+      "start": 23.48,
+      "end": 23.84,
+      "en": "Oh, okay.",
+      "zh": "哦，好吧。"
+    },
+    {
+      "id": 13,
+      "start": 24.06,
+      "end": 24.34,
+      "en": "An assistant.",
+      "zh": "一个助手。"
+    },
+    {
+      "id": 14,
+      "start": 24.86,
+      "end": 25.24,
+      "en": "What's an assistant?",
+      "zh": "什么是助手？"
+    },
+    {
+      "id": 15,
+      "start": 25.92,
+      "end": 28.54,
+      "en": "Well, it's someone who helps you with your work around the office.",
+      "zh": "好吧，这是一个帮助你在办公室工作的人。"
+    },
+    {
+      "id": 16,
+      "start": 29.0,
+      "end": 30.0,
+      "en": "Okay, great.",
+      "zh": "好，太好了。"
+    },
+    {
+      "id": 17,
+      "start": 30.26,
+      "end": 37.84,
+      "en": "So let's listen to this dialogue, and when we come back, we'll take a look at all the interesting and useful vocabulary that you'll find.",
+      "zh": "所以让我们听听这个对话，当我们回来时，我们会看看你会发现所有有趣和有用的词汇。"
+    },
+    {
+      "id": 18,
+      "start": 48.2,
+      "end": 52.08,
+      "en": "Like I told you before, we just don't have the resources to hire you an assistant.",
+      "zh": "我之前说过，我们目前没有资源给你聘请助理。"
+    },
+    {
+      "id": 19,
+      "start": 52.82,
+      "end": 55.9,
+      "en": "I understand that, but the fact is, we're understaffed.",
+      "zh": "我明白这一点，但事实是，我们人手不足。"
+    },
+    {
+      "id": 20,
+      "start": 56.3,
+      "end": 57.74,
+      "en": "The timing is just not right.",
+      "zh": "现在时机不对。"
+    },
+    {
+      "id": 21,
+      "start": 58.22,
+      "end": 60.92,
+      "en": "The economy's bad, and it's too risky to take on new staff.",
+      "zh": "经济不好，招聘新员工的风险太大。"
+    },
+    {
+      "id": 22,
+      "start": 61.82,
+      "end": 62.64,
+      "en": "Yeah, I guess you're right.",
+      "zh": "是的，我猜你是对的。"
+    },
+    {
+      "id": 23,
+      "start": 63.32,
+      "end": 63.92,
+      "en": "Here's an idea.",
+      "zh": "我有个主意。"
+    },
+    {
+      "id": 24,
+      "start": 64.42,
+      "end": 65.38,
+      "en": "What if we hire an intern?",
+      "zh": "如果我们聘请实习生怎么办？"
+    },
+    {
+      "id": 25,
+      "start": 66.18,
+      "end": 67.76,
+      "en": "She would take some of the weight off my shoulders.",
+      "zh": "她能帮我分担一些工作。"
+    },
+    {
+      "id": 26,
+      "start": 68.68,
+      "end": 68.92,
+      "en": "She?",
+      "zh": "她？"
+    },
+    {
+      "id": 27,
+      "start": 69.44,
+      "end": 70.18,
+      "en": "Yeah, you know.",
+      "zh": "嗯，你懂的。"
+    },
+    {
+      "id": 28,
+      "start": 70.5,
+      "end": 74.78,
+      "en": "A recent graduate, she could give me a hand with some of these projects, and we could keep our costs down.",
+      "zh": "刚毕业的她可以帮我处理其中一些项目，我们可以降低成本。"
+    },
+    {
+      "id": 29,
+      "start": 75.24,
+      "end": 76.38,
+      "en": "That sounds reasonable.",
+      "zh": "听起来挺合理。"
+    },
+    {
+      "id": 30,
+      "start": 77.06,
+      "end": 78.18,
+      "en": "Let me see what I can do.",
+      "zh": "我看看能不能安排。"
+    },
+    {
+      "id": 31,
+      "start": 85.5,
+      "end": 87.84,
+      "en": "Tony, I'd like to introduce you to your new assistant.",
+      "zh": "托尼，我来介绍一下你的新助理。"
+    },
+    {
+      "id": 32,
+      "start": 88.7,
+      "end": 89.42,
+      "en": "Okay, great.",
+      "zh": "好，太好了。"
+    },
+    {
+      "id": 33,
+      "start": 89.94,
+      "end": 90.4,
+      "en": "Let's meet her.",
+      "zh": "来见见她吧。"
+    },
+    {
+      "id": 34,
+      "start": 93.23,
+      "end": 93.85,
+      "en": "Hi, I'm Adam.",
+      "zh": "你好，我叫亚当。"
+    },
+    {
+      "id": 35,
+      "start": 94.67,
+      "end": 96.75,
+      "en": "Oh, hi, I'm Tony.",
+      "zh": "哦，你好，我叫托尼。"
+    },
+    {
+      "id": 36,
+      "start": 100.38,
+      "end": 104.58,
+      "en": "And we're back. Tony, he's surprised, huh?",
+      "zh": "而我们又回来了。 托尼，他很惊讶，对吧？"
+    },
+    {
+      "id": 37,
+      "start": 104.88,
+      "end": 109.9,
+      "en": "Yeah, he's, uh, I don't know why, though, he's surprised. I think we should talk about that a little bit later.",
+      "zh": "是的，他是，呃，我不知道为什么，他很惊讶。 我想我们应该稍后再谈。"
+    },
+    {
+      "id": 38,
+      "start": 110.34,
+      "end": 114.84,
+      "en": "Yes, for now, let's look at some interesting vocabulary and phrases here.",
+      "zh": "是的，现在，让我们在这里看看一些有趣的词汇和短语。"
+    },
+    {
+      "id": 39,
+      "start": 115.42,
+      "end": 117.04,
+      "en": "Marco, I know you've chosen one for us.",
+      "zh": "马可，我知道你为我们选择了一款。"
+    },
+    {
+      "id": 40,
+      "start": 117.32,
+      "end": 120.32,
+      "en": "Yeah, the first one that I want to take a look at is resources.",
+      "zh": "是的，我想看的第一个是资源。"
+    },
+    {
+      "id": 41,
+      "start": 121.6,
+      "end": 122.2,
+      "en": "Resources.",
+      "zh": "资源。"
+    },
+    {
+      "id": 42,
+      "start": 123.0,
+      "end": 123.48,
+      "en": "Resources.",
+      "zh": "资源。"
+    },
+    {
+      "id": 43,
+      "start": 124.34,
+      "end": 124.72,
+      "en": "Resources.",
+      "zh": "资源。"
+    },
+    {
+      "id": 44,
+      "start": 125.66,
+      "end": 128.4,
+      "en": "And that means, in this text, basically money.",
+      "zh": "这意味着，在本文中，基本上是金钱。"
+    },
+    {
+      "id": 45,
+      "start": 128.88,
+      "end": 129.24,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 46,
+      "start": 129.5,
+      "end": 131.4,
+      "en": "So the office doesn't have enough money.",
+      "zh": "所以办公室没有足够的钱。"
+    },
+    {
+      "id": 47,
+      "start": 131.76,
+      "end": 137.56,
+      "en": "Okay, I've chosen another interesting word for you, and that's understaffed.",
+      "zh": "好吧，我为你选择了另一个有趣的词，这是人手不足的。"
+    },
+    {
+      "id": 48,
+      "start": 138.26,
+      "end": 138.9,
+      "en": "Understaffed.",
+      "zh": "人手不足。"
+    },
+    {
+      "id": 49,
+      "start": 139.8,
+      "end": 140.4,
+      "en": "Understaffed.",
+      "zh": "人手不足。"
+    },
+    {
+      "id": 50,
+      "start": 141.2,
+      "end": 141.88,
+      "en": "Understaffed.",
+      "zh": "人手不足。"
+    },
+    {
+      "id": 51,
+      "start": 142.24,
+      "end": 148.28,
+      "en": "Now, understaffed means that they don't have enough people working there.",
+      "zh": "现在，人手不足意味着他们没有足够的人在那里工作。"
+    },
+    {
+      "id": 52,
+      "start": 148.82,
+      "end": 150.08,
+      "en": "They don't have enough workers.",
+      "zh": "他们没有足够的工人。"
+    },
+    {
+      "id": 53,
+      "start": 150.72,
+      "end": 152.36,
+      "en": "Right, they don't have enough employees.",
+      "zh": "对了，他们没有足够的员工。"
+    },
+    {
+      "id": 54,
+      "start": 153.08,
+      "end": 153.86,
+      "en": "Perfect. Okay.",
+      "zh": "完美。 好的。"
+    },
+    {
+      "id": 55,
+      "start": 154.34,
+      "end": 158.06,
+      "en": "The next one is timing is just not right.",
+      "zh": "下一个是时机是不对的。"
+    },
+    {
+      "id": 56,
+      "start": 158.1,
+      "end": 160.22,
+      "en": "The timing is just not right.",
+      "zh": "现在时机不对。"
+    },
+    {
+      "id": 57,
+      "start": 160.22,
+      "end": 163.1,
+      "en": "The timing is just not right.",
+      "zh": "现在时机不对。"
+    },
+    {
+      "id": 58,
+      "start": 163.6,
+      "end": 166.02,
+      "en": "The timing is just not right.",
+      "zh": "现在时机不对。"
+    },
+    {
+      "id": 59,
+      "start": 166.46,
+      "end": 175.24,
+      "en": "Okay, let's listen to how we can use this entire phrase in a different situation, so then we can understand what it means.",
+      "zh": "好吧，让我们听听我们如何在不同的情况下使用整个短语，这样我们就可以理解它的含义。"
+    },
+    {
+      "id": 60,
+      "start": 175.4,
+      "end": 176.14,
+      "en": "Let's listen.",
+      "zh": "我们来听听。"
+    },
+    {
+      "id": 61,
+      "start": 183.21,
+      "end": 185.77,
+      "en": "I was going to sell my house, but the timing is just not right.",
+      "zh": "我打算卖掉我的房子，但时机不对。"
+    },
+    {
+      "id": 62,
+      "start": 190.11,
+      "end": 191.87,
+      "en": "Honey, I think we should have a baby.",
+      "zh": "亲爱的，我想我们应该生孩子。"
+    },
+    {
+      "id": 63,
+      "start": 192.53,
+      "end": 193.89,
+      "en": "The timing is just not right.",
+      "zh": "现在时机不对。"
+    },
+    {
+      "id": 64,
+      "start": 199.75,
+      "end": 200.49,
+      "en": "Okay, great.",
+      "zh": "好，太好了。"
+    },
+    {
+      "id": 65,
+      "start": 200.82,
+      "end": 202.54,
+      "en": "I guess that makes it clear.",
+      "zh": "我想这让它很清楚。"
+    },
+    {
+      "id": 66,
+      "start": 203.04,
+      "end": 207.64,
+      "en": "Yes, actually, it's very obvious that it means that it's just not a good time.",
+      "zh": "是的，实际上，很明显这意味着这不是一个好时机。"
+    },
+    {
+      "id": 67,
+      "start": 207.94,
+      "end": 208.22,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 68,
+      "start": 208.66,
+      "end": 208.8,
+      "en": "Perfect.",
+      "zh": "太好了。"
+    },
+    {
+      "id": 69,
+      "start": 209.3,
+      "end": 214.18,
+      "en": "I have another interesting phrase for you, which is weight off my shoulders.",
+      "zh": "我还有另一个有趣的短语给你，那就是我肩上的负重。"
+    },
+    {
+      "id": 70,
+      "start": 214.84,
+      "end": 216.2,
+      "en": "Weight off my shoulders.",
+      "zh": "如释重负。"
+    },
+    {
+      "id": 71,
+      "start": 216.74,
+      "end": 218.46,
+      "en": "Weight off my shoulders.",
+      "zh": "如释重负。"
+    },
+    {
+      "id": 72,
+      "start": 218.96,
+      "end": 220.22,
+      "en": "Weight off my shoulders.",
+      "zh": "如释重负。"
+    },
+    {
+      "id": 73,
+      "start": 220.98,
+      "end": 230.18,
+      "en": "So, to take weight off my shoulders is another way of saying to help me with my work or to take some of my work away from me.",
+      "zh": "所以，减轻我的负担是另一种表达方式，可以帮助我完成工作或将我的一些工作从我身边带走。"
+    },
+    {
+      "id": 74,
+      "start": 230.52,
+      "end": 237.44,
+      "en": "If you have a lot of things to do and I come and help you, that means that I took some of the weight off your shoulders.",
+      "zh": "如果你有很多事情要做，而我会来帮助你，那意味着我减轻了你肩上的一些负担。"
+    },
+    {
+      "id": 75,
+      "start": 237.74,
+      "end": 237.9,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 76,
+      "start": 238.44,
+      "end": 242.78,
+      "en": "Let's look at the next phrase that we have here, and it's give me a hand.",
+      "zh": "让我们看看我们这里的下一个短语，它给了我一把手。"
+    },
+    {
+      "id": 77,
+      "start": 243.2,
+      "end": 244.1,
+      "en": "Give me a hand.",
+      "zh": "帮我一把。"
+    },
+    {
+      "id": 78,
+      "start": 244.9,
+      "end": 245.9,
+      "en": "Give me a hand.",
+      "zh": "帮我一把。"
+    },
+    {
+      "id": 79,
+      "start": 246.3,
+      "end": 247.24,
+      "en": "Give me a hand.",
+      "zh": "帮我一把。"
+    },
+    {
+      "id": 80,
+      "start": 247.65,
+      "end": 249.43,
+      "en": "Okay, now this is not literal.",
+      "zh": "好吧，现在这不是字面意思。"
+    },
+    {
+      "id": 81,
+      "start": 249.69,
+      "end": 252.41,
+      "en": "It's not that I'm going to give you somebody's hand, right?",
+      "zh": "不是我要给你一个人的手，对吧？"
+    },
+    {
+      "id": 82,
+      "start": 253.01,
+      "end": 258.73,
+      "en": "Let's listen to some examples, and then we can come back and explain what it means.",
+      "zh": "让我们听一些例子，然后我们可以回来解释它的含义。"
+    },
+    {
+      "id": 83,
+      "start": 265.78,
+      "end": 267.4,
+      "en": "Can you give me a hand with these boxes?",
+      "zh": "你能帮我拿这些盒子吗？"
+    },
+    {
+      "id": 84,
+      "start": 274.88,
+      "end": 277.86,
+      "en": "Neil, I'll need you to give me a hand with the sales reports.",
+      "zh": "尼尔，我需要你帮我处理销售报告。"
+    },
+    {
+      "id": 85,
+      "start": 284.46,
+      "end": 285.82,
+      "en": "Here, let me give you a hand with your suitcase.",
+      "zh": "在这里，让我用你的手提箱帮你一把。"
+    },
+    {
+      "id": 86,
+      "start": 291.98,
+      "end": 297.46,
+      "en": "Alright, give me a hand is another way of saying help or to help out.",
+      "zh": "好吧，帮我一把是另一种表达帮助或帮助的方式。"
+    },
+    {
+      "id": 87,
+      "start": 298.01,
+      "end": 299.53,
+      "en": "Exactly, to help out.",
+      "zh": "没错，帮忙。"
+    },
+    {
+      "id": 88,
+      "start": 299.84,
+      "end": 300.06,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 89,
+      "start": 300.14,
+      "end": 300.46,
+      "en": "Perfect.",
+      "zh": "太好了。"
+    },
+    {
+      "id": 90,
+      "start": 300.75,
+      "end": 307.09,
+      "en": "Now, the last phrase we're going to look at here in this dialogue is keep our costs down.",
+      "zh": "现在，我们将在本次对话中看到的最后一句话是降低我们的成本。"
+    },
+    {
+      "id": 91,
+      "start": 307.55,
+      "end": 309.07,
+      "en": "Keep our costs down.",
+      "zh": "控制成本。"
+    },
+    {
+      "id": 92,
+      "start": 309.52,
+      "end": 311.42,
+      "en": "Keep our costs down.",
+      "zh": "控制成本。"
+    },
+    {
+      "id": 93,
+      "start": 311.42,
+      "end": 313.92,
+      "en": "Keep our costs down.",
+      "zh": "控制成本。"
+    },
+    {
+      "id": 94,
+      "start": 314.43,
+      "end": 320.61,
+      "en": "So, to keep our costs down means to try and not spend so much money.",
+      "zh": "所以，降低我们的成本意味着尝试不要花那么多钱。"
+    },
+    {
+      "id": 95,
+      "start": 320.99,
+      "end": 321.53,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 96,
+      "start": 321.86,
+      "end": 327.08,
+      "en": "Many companies, for example, now control how much printing you do.",
+      "zh": "例如，许多公司现在可以控制您的打印量。"
+    },
+    {
+      "id": 97,
+      "start": 327.47,
+      "end": 327.75,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 98,
+      "start": 327.9,
+      "end": 328.14,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 99,
+      "start": 328.29,
+      "end": 329.79,
+      "en": "To keep the costs down of paper.",
+      "zh": "降低纸张的成本。"
+    },
+    {
+      "id": 100,
+      "start": 330.56,
+      "end": 330.76,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 101,
+      "start": 330.84,
+      "end": 335.9,
+      "en": "So, in other words, they do not want to have unnecessary spending.",
+      "zh": "所以，换句话说，他们不想有不必要的支出。"
+    },
+    {
+      "id": 102,
+      "start": 336.49,
+      "end": 336.89,
+      "en": "Perfect.",
+      "zh": "太好了。"
+    },
+    {
+      "id": 103,
+      "start": 337.31,
+      "end": 351.31,
+      "en": "Okay, I think it's time for us to listen to this dialogue one more time, but I want everyone to listen and see why Tony is surprised at the end when he meets his intern, when he meets his assistant.",
+      "zh": "好吧，我想是时候让我们再听一次这次对话了，但我希望每个人都听听，看看为什么托尼在遇到他的实习生时，当他遇到他的助手时会感到惊讶。"
+    },
+    {
+      "id": 104,
+      "start": 362.2,
+      "end": 366.06,
+      "en": "Like I told you before, we just don't have the resources to hire you an assistant.",
+      "zh": "我之前说过，我们目前没有资源给你聘请助理。"
+    },
+    {
+      "id": 105,
+      "start": 366.9,
+      "end": 369.86,
+      "en": "I understand that, but the fact is, we're understaffed.",
+      "zh": "我明白这一点，但事实是，我们人手不足。"
+    },
+    {
+      "id": 106,
+      "start": 370.32,
+      "end": 371.7,
+      "en": "The timing is just not right.",
+      "zh": "现在时机不对。"
+    },
+    {
+      "id": 107,
+      "start": 372.18,
+      "end": 374.9,
+      "en": "The economy's bad and it's too risky to take on new staff.",
+      "zh": "经济不好，聘请新员工风险太大。"
+    },
+    {
+      "id": 108,
+      "start": 375.8,
+      "end": 376.62,
+      "en": "Yeah, I guess you're right.",
+      "zh": "是的，我猜你是对的。"
+    },
+    {
+      "id": 109,
+      "start": 377.32,
+      "end": 377.9,
+      "en": "Here's an idea.",
+      "zh": "我有个主意。"
+    },
+    {
+      "id": 110,
+      "start": 378.42,
+      "end": 379.32,
+      "en": "What if we hire an intern?",
+      "zh": "如果我们聘请实习生怎么办？"
+    },
+    {
+      "id": 111,
+      "start": 380.12,
+      "end": 381.8,
+      "en": "She would take some of the weight off my shoulders.",
+      "zh": "她能帮我分担一些工作。"
+    },
+    {
+      "id": 112,
+      "start": 382.54,
+      "end": 382.9,
+      "en": "She?",
+      "zh": "她？"
+    },
+    {
+      "id": 113,
+      "start": 383.46,
+      "end": 388.74,
+      "en": "Yeah, you know, a recent graduate, she could give me a hand with some of these projects and we could keep our costs down.",
+      "zh": "是的，你知道，一个刚毕业的她可以帮我一些这些项目，我们可以降低我们的成本。"
+    },
+    {
+      "id": 114,
+      "start": 389.3,
+      "end": 390.42,
+      "en": "That sounds reasonable.",
+      "zh": "听起来挺合理。"
+    },
+    {
+      "id": 115,
+      "start": 391.1,
+      "end": 392.16,
+      "en": "Let me see what I can do.",
+      "zh": "我看看能不能安排。"
+    },
+    {
+      "id": 116,
+      "start": 399.59,
+      "end": 401.81,
+      "en": "Tony, I'd like to introduce you to your new assistant.",
+      "zh": "托尼，我来介绍一下你的新助理。"
+    },
+    {
+      "id": 117,
+      "start": 402.69,
+      "end": 403.41,
+      "en": "Okay, great.",
+      "zh": "好，太好了。"
+    },
+    {
+      "id": 118,
+      "start": 403.91,
+      "end": 404.39,
+      "en": "Let's meet her.",
+      "zh": "来见见她吧。"
+    },
+    {
+      "id": 119,
+      "start": 407.12,
+      "end": 407.82,
+      "en": "Hi, I'm Adam.",
+      "zh": "你好，我叫亚当。"
+    },
+    {
+      "id": 120,
+      "start": 408.54,
+      "end": 410.9,
+      "en": "Oh, hi, I'm Tony.",
+      "zh": "哦，你好，我叫托尼。"
+    },
+    {
+      "id": 121,
+      "start": 415.47,
+      "end": 423.63,
+      "en": "Well, you know, Marco, I think that Tony was really surprised because he was kind of hoping to have a female intern.",
+      "zh": "嗯，你知道，马可，我认为托尼真的很惊讶，因为他有点希望有一个女性实习生。"
+    },
+    {
+      "id": 122,
+      "start": 424.11,
+      "end": 426.65,
+      "en": "Yeah, I think that's exactly what he was expecting.",
+      "zh": "是的，我认为这正是他所期待的。"
+    },
+    {
+      "id": 123,
+      "start": 427.09,
+      "end": 428.87,
+      "en": "Maybe this guy is a little bit sexist.",
+      "zh": "也许这家伙有点性别歧视。"
+    },
+    {
+      "id": 124,
+      "start": 429.33,
+      "end": 433.13,
+      "en": "He thought that an intern should be a girl, but instead he was surprised.",
+      "zh": "他以为实习生应该是女孩，但他却感到惊讶。"
+    },
+    {
+      "id": 125,
+      "start": 433.3,
+      "end": 434.14,
+      "en": "Instead he got Adam.",
+      "zh": "相反，他得到了亚当。"
+    },
+    {
+      "id": 126,
+      "start": 434.61,
+      "end": 440.37,
+      "en": "Exactly, and it looks like Adam is really big and really tall because he's got that deep voice.",
+      "zh": "没错，看起来亚当真的很大而且很高，因为他的声音很深。"
+    },
+    {
+      "id": 127,
+      "start": 440.93,
+      "end": 441.09,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 128,
+      "start": 441.87,
+      "end": 445.01,
+      "en": "An intern, Marco, do you want to elaborate on that?",
+      "zh": "实习生，马可，你想详细说明一下吗？"
+    },
+    {
+      "id": 129,
+      "start": 445.45,
+      "end": 456.87,
+      "en": "Working at a company with a very low salary or sometimes no salary at all, but what you're gaining is experience and you're learning a lot of things.",
+      "zh": "在一家薪水很低或有时根本没有薪水的公司工作，但你所获得的是经验，你正在学习很多东西。"
+    },
+    {
+      "id": 130,
+      "start": 457.06,
+      "end": 466.82,
+      "en": "Because everyone who has been an intern or had an intern knows that sometimes they are not treated all that well.",
+      "zh": "因为每个曾经实习过或实习过的人都知道，有时他们没有得到那么好的待遇。"
+    },
+    {
+      "id": 131,
+      "start": 466.99,
+      "end": 471.11,
+      "en": "Sometimes they just serve coffee or they have to do paperwork.",
+      "zh": "有时他们只是提供咖啡，或者他们必须做文书工作。"
+    },
+    {
+      "id": 132,
+      "start": 472.02,
+      "end": 473.52,
+      "en": "Or like photocopying things.",
+      "zh": "或者像复印的东西。"
+    },
+    {
+      "id": 133,
+      "start": 473.86,
+      "end": 474.18,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 134,
+      "start": 475.38,
+      "end": 481.14,
+      "en": "But some internships are really, really cool and some are really good experiences for learning.",
+      "zh": "但有些实习真的很酷，有些是非常好的学习经验。"
+    },
+    {
+      "id": 135,
+      "start": 481.86,
+      "end": 482.68,
+      "en": "Yes, definitely.",
+      "zh": "是的，肯定。"
+    },
+    {
+      "id": 136,
+      "start": 483.3,
+      "end": 494.66,
+      "en": "Actually, I know a friend of mine, she used to work as an intern in one of those really big companies and she told me that she has gained so much experience doing that.",
+      "zh": "实际上，我认识我的一个朋友，她曾经在一家非常大的公司实习，她告诉我，她在这方面获得了很多经验。"
+    },
+    {
+      "id": 137,
+      "start": 495.28,
+      "end": 510.22,
+      "en": "Yeah, I mean, even if you don't get paid, the experience that you get is really good and that just opens doors for maybe getting another job or sometimes the interns get hired by the company to stay because they do such a good job.",
+      "zh": "是的，我的意思是，即使你没有得到报酬，你得到的经验真的很好，这只是为可能找到另一份工作打开了大门，或者有时实习生会被公司雇用留下来，因为他们做得很好。"
+    },
+    {
+      "id": 138,
+      "start": 510.38,
+      "end": 513.18,
+      "en": "Yeah, I think that's mostly the case, huh?",
+      "zh": "是的，我认为主要是这样，对吧？"
+    },
+    {
+      "id": 139,
+      "start": 513.5,
+      "end": 514.82,
+      "en": "Yeah, that happened to me once.",
+      "zh": "是的，这一次发生在我身上。"
+    },
+    {
+      "id": 140,
+      "start": 515.04,
+      "end": 519.54,
+      "en": "I started working as an intern and after three months I was hired by the company.",
+      "zh": "我开始实习，三个月后我被公司聘用了。"
+    },
+    {
+      "id": 141,
+      "start": 519.72,
+      "end": 521.24,
+      "en": "So, it does happen.",
+      "zh": "所以，它确实发生了。"
+    },
+    {
+      "id": 142,
+      "start": 521.62,
+      "end": 522.64,
+      "en": "So, you did a good job.",
+      "zh": "所以，你做得很好。"
+    },
+    {
+      "id": 143,
+      "start": 522.64,
+      "end": 524.36,
+      "en": "Uh, yeah, of course.",
+      "zh": "嗯，当然。"
+    },
+    {
+      "id": 144,
+      "start": 525.52,
+      "end": 527.7,
+      "en": "Alright, folks, we're out of time today.",
+      "zh": "好吧，伙计们，我们今天没有时间了。"
+    },
+    {
+      "id": 145,
+      "start": 527.98,
+      "end": 535.62,
+      "en": "I hope that you enjoyed our lesson and we'll be back tomorrow with another really cool and really interesting lesson from EnglishPod.",
+      "zh": "我希望你喜欢我们的课程，我们明天会带着 Englishpod 的另一个非常酷和非常有趣的课程回来。"
+    },
+    {
+      "id": 146,
+      "start": 535.9,
+      "end": 546.36,
+      "en": "Don't forget to come to our website at EnglishPod.com where you'll find some really great and interesting resources to help you learn and improve your English even more.",
+      "zh": "不要忘记访问我们的网站 englishpod.com，在那里您会找到一些非常棒和有趣的资源来帮助您进一步学习和提高英语。"
+    },
+    {
+      "id": 147,
+      "start": 546.9,
+      "end": 548.78,
+      "en": "Yes, you should definitely do that.",
+      "zh": "是的，你绝对应该这样做。"
+    },
+    {
+      "id": 148,
+      "start": 550.02,
+      "end": 557.78,
+      "en": "And Marco and I would love to receive your comments and suggestions that you can leave on our community forum.",
+      "zh": "Marco 和我很乐意收到您的意见和建议，您可以在我们的社区论坛上留下。"
+    },
+    {
+      "id": 149,
+      "start": 558.66,
+      "end": 561.64,
+      "en": "But for now, it's time for us to say bye.",
+      "zh": "但现在，是时候让我们说再见了。"
+    }
+  ],
+  "dialog": {
+    "start": 48.2,
+    "end": 96.75,
+    "segmentIds": [
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35
+    ]
+  }
+}

@@ -1,0 +1,1652 @@
+{
+  "version": 1,
+  "id": 358,
+  "number": "0358",
+  "title": "Daily Life - Text Me",
+  "audio": "mp3/358. Daily Life - Text Me.mp3",
+  "duration": 762.93225,
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.24,
+      "end": 3.56,
+      "en": "Hello everyone and welcome to EnglishPod.",
+      "zh": "大家好，欢迎来到 EnglishPod。"
+    },
+    {
+      "id": 2,
+      "start": 3.72,
+      "end": 4.72,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 4.72,
+      "end": 5.72,
+      "en": "My name is Katherine.",
+      "zh": "我的名字是凯瑟琳。"
+    },
+    {
+      "id": 4,
+      "start": 5.72,
+      "end": 10.0,
+      "en": "And Marco, today we're talking about a very important part of daily life.",
+      "zh": "和马可，今天我们谈论的是日常生活中非常重要的部分。"
+    },
+    {
+      "id": 5,
+      "start": 10.44,
+      "end": 11.44,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 6,
+      "start": 11.44,
+      "end": 21.15,
+      "en": "Today we're going to take a look at a lesson about technology and something that has become so popular and part of our everyday lives that it's necessary for us to acknowledge it in English.",
+      "zh": "今天，我们将看看有关技术的课程以及我们日常生活中如此流行和我们日常生活的一部分，以至于我们有必要用英语承认它。"
+    },
+    {
+      "id": 7,
+      "start": 21.8,
+      "end": 21.93,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 8,
+      "start": 22.8,
+      "end": 25.55,
+      "en": "So we're talking about cellular phones, but not just cellular phones.",
+      "zh": "所以我们谈论的是手机，但不仅仅是手机。"
+    },
+    {
+      "id": 9,
+      "start": 26.04,
+      "end": 29.89,
+      "en": "Something you can do and that many people often do on their cellular phones.",
+      "zh": "你可以做的事情，很多人经常在他们的手机上做的事情。"
+    },
+    {
+      "id": 10,
+      "start": 30.44,
+      "end": 30.63,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 11,
+      "start": 31.44,
+      "end": 36.11,
+      "en": "So before we get into that, let's listen to the dialogue, try to understand what it's all about and we'll be back in a bit.",
+      "zh": "因此，在我们开始讨论之前，让我们听听对话，尝试了解它的全部内容，我们会回来的。"
+    },
+    {
+      "id": 12,
+      "start": 42.28,
+      "end": 43.35,
+      "en": "Why didn't you text me last night?",
+      "zh": "昨晚怎么没给我发短信？"
+    },
+    {
+      "id": 13,
+      "start": 43.8,
+      "end": 43.97,
+      "en": "What?",
+      "zh": "什么？"
+    },
+    {
+      "id": 14,
+      "start": 44.39,
+      "end": 45.77,
+      "en": "I sent you three or four messages.",
+      "zh": "我给你发了三四条呢！"
+    },
+    {
+      "id": 15,
+      "start": 46.57,
+      "end": 47.33,
+      "en": "I didn't get any of them.",
+      "zh": "一条也没收到。"
+    },
+    {
+      "id": 16,
+      "start": 47.53,
+      "end": 50.77,
+      "en": "I was waiting for you to text me the address of where the party was and I never got your message.",
+      "zh": "我一直等你发聚会地址，结果始终没收到。"
+    },
+    {
+      "id": 17,
+      "start": 51.17,
+      "end": 52.19,
+      "en": "Why didn't you just call?",
+      "zh": "你怎么不直接打电话？"
+    },
+    {
+      "id": 18,
+      "start": 52.55,
+      "end": 54.25,
+      "en": "I hate sending SMS messages.",
+      "zh": "我讨厌发短信。"
+    },
+    {
+      "id": 19,
+      "start": 54.67,
+      "end": 56.71,
+      "en": "Well, because I didn't have any credit on my phone.",
+      "zh": "因为我的手机话费没余额了。"
+    },
+    {
+      "id": 20,
+      "start": 56.89,
+      "end": 57.75,
+      "en": "I used it all up this month.",
+      "zh": "这个月都用光了。"
+    },
+    {
+      "id": 21,
+      "start": 58.31,
+      "end": 60.49,
+      "en": "I thought you had an unlimited SMS plan.",
+      "zh": "我还以为你办了短信无限量套餐。"
+    },
+    {
+      "id": 22,
+      "start": 60.81,
+      "end": 64.23,
+      "en": "I do, but if I don't have any credit in my phone, it won't let me call or send messages.",
+      "zh": "是办了，可手机没话费余额，就打不了电话，也发不了短信。"
+    },
+    {
+      "id": 23,
+      "start": 64.59,
+      "end": 66.09,
+      "en": "No wonder you didn't get my texts.",
+      "zh": "难怪你收不到我发的短信！"
+    },
+    {
+      "id": 24,
+      "start": 68.82,
+      "end": 69.68,
+      "en": "All right, we're back.",
+      "zh": "好了，我们回来了。"
+    },
+    {
+      "id": 25,
+      "start": 69.96,
+      "end": 71.9,
+      "en": "So now let's take a look at Language Takeaway.",
+      "zh": "所以现在让我们来看看语言外卖。"
+    },
+    {
+      "id": 26,
+      "start": 74.84,
+      "end": 75.16,
+      "en": "Language Takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 27,
+      "start": 77.32,
+      "end": 82.52,
+      "en": "First up on Language Takeaway, we have the verb that is the focus of today's dialogue, to text.",
+      "zh": "首先，我们有一个动词，它是今天对话的焦点，是文本。"
+    },
+    {
+      "id": 28,
+      "start": 83.48,
+      "end": 84.48,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 29,
+      "start": 84.48,
+      "end": 88.0,
+      "en": "To text is a verb in this case, to text.",
+      "zh": "在这种情况下，文本是动词，是文本。"
+    },
+    {
+      "id": 30,
+      "start": 88.0,
+      "end": 89.0,
+      "en": "Text me.",
+      "zh": "给我发短信。"
+    },
+    {
+      "id": 31,
+      "start": 89.0,
+      "end": 90.36,
+      "en": "Why didn't you text me?",
+      "zh": "你为什么不给我发短信？"
+    },
+    {
+      "id": 32,
+      "start": 90.36,
+      "end": 91.64,
+      "en": "Why didn't you text me?",
+      "zh": "你为什么不给我发短信？"
+    },
+    {
+      "id": 33,
+      "start": 92.24,
+      "end": 95.5,
+      "en": "Now remember that text means other things in other situations.",
+      "zh": "现在请记住，在其他情况下，文本意味着其他内容。"
+    },
+    {
+      "id": 34,
+      "start": 96.6,
+      "end": 97.16,
+      "en": "Here it's a verb.",
+      "zh": "这里是动词。"
+    },
+    {
+      "id": 35,
+      "start": 97.54,
+      "end": 103.42,
+      "en": "It's a very new word as a verb from the last maybe 15 years or so with cell phones.",
+      "zh": "这是一个非常新的词，作为过去 15 年左右的动词，手机。"
+    },
+    {
+      "id": 36,
+      "start": 104.32,
+      "end": 111.12,
+      "en": "So that's actually what it means is to send a text message via cell phone.",
+      "zh": "所以这实际上就是通过手机发送短信的意思。"
+    },
+    {
+      "id": 37,
+      "start": 111.32,
+      "end": 112.16,
+      "en": "So you send a message.",
+      "zh": "所以你发送消息。"
+    },
+    {
+      "id": 38,
+      "start": 112.48,
+      "end": 113.48,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 39,
+      "start": 113.48,
+      "end": 115.32,
+      "en": "You actually write the message, right?",
+      "zh": "你真的写了信息，对吧？"
+    },
+    {
+      "id": 40,
+      "start": 115.32,
+      "end": 115.82,
+      "en": "It's not a call.",
+      "zh": "这不是一个电话。"
+    },
+    {
+      "id": 41,
+      "start": 116.32,
+      "end": 117.44,
+      "en": "When I call you, I talk to you.",
+      "zh": "当我给你打电话时，我会和你说话。"
+    },
+    {
+      "id": 42,
+      "start": 118.28,
+      "end": 120.82,
+      "en": "When you text someone, you actually write a message.",
+      "zh": "当你给某人发短信时，你实际上写了一条消息。"
+    },
+    {
+      "id": 43,
+      "start": 121.04,
+      "end": 125.28,
+      "en": "It's very short and then you send it and the other person can read it.",
+      "zh": "它很短，然后您发送它，其他人可以阅读它。"
+    },
+    {
+      "id": 44,
+      "start": 125.28,
+      "end": 126.28,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 45,
+      "start": 126.28,
+      "end": 129.8,
+      "en": "So instead of saying, why didn't you send me a text message last night?",
+      "zh": "所以不要说，你昨晚为什么不给我发短信呢？"
+    },
+    {
+      "id": 46,
+      "start": 129.8,
+      "end": 131.92,
+      "en": "We just say, why didn't you text me?",
+      "zh": "我们只是说，你为什么不给我发短信？"
+    },
+    {
+      "id": 47,
+      "start": 131.96,
+      "end": 132.22,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 48,
+      "start": 132.92,
+      "end": 139.18,
+      "en": "Now, another word that we often hear about texts is the noun messages or message.",
+      "zh": "现在，我们经常听到的关于文本的另一个词是名词消息或消息。"
+    },
+    {
+      "id": 49,
+      "start": 140.08,
+      "end": 142.38,
+      "en": "So I sent you three or four messages.",
+      "zh": "所以我给你发了三四条消息。"
+    },
+    {
+      "id": 50,
+      "start": 143.08,
+      "end": 143.32,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 51,
+      "start": 144.08,
+      "end": 147.86,
+      "en": "So when we're talking about texting someone, what we're doing is sending a message.",
+      "zh": "因此，当我们谈论给某人发短信时，我们正在做的是发送消息。"
+    },
+    {
+      "id": 52,
+      "start": 148.36,
+      "end": 149.08,
+      "en": "A text message.",
+      "zh": "一条短信。"
+    },
+    {
+      "id": 53,
+      "start": 149.36,
+      "end": 150.06,
+      "en": "A text message.",
+      "zh": "一条短信。"
+    },
+    {
+      "id": 54,
+      "start": 150.36,
+      "end": 151.36,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 55,
+      "start": 151.36,
+      "end": 152.68,
+      "en": "Because we can send a voice message.",
+      "zh": "因为我们可以发送语音消息。"
+    },
+    {
+      "id": 56,
+      "start": 153.28,
+      "end": 154.28,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 57,
+      "start": 154.28,
+      "end": 156.52,
+      "en": "So voice is me talking, hi Marco, it's Catherine.",
+      "zh": "所以声音是我在说话，嗨，马可，是凯瑟琳。"
+    },
+    {
+      "id": 58,
+      "start": 156.52,
+      "end": 157.0,
+      "en": "How are you doing?",
+      "zh": "你好吗?"
+    },
+    {
+      "id": 59,
+      "start": 157.2,
+      "end": 157.34,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 60,
+      "start": 158.52,
+      "end": 159.64,
+      "en": "But a text message is actually words.",
+      "zh": "但短信实际上是文字。"
+    },
+    {
+      "id": 61,
+      "start": 159.64,
+      "end": 161.28,
+      "en": "I write them out.",
+      "zh": "我把它们写出来。"
+    },
+    {
+      "id": 62,
+      "start": 162.12,
+      "end": 162.28,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 63,
+      "start": 162.28,
+      "end": 162.42,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 64,
+      "start": 163.28,
+      "end": 165.88,
+      "en": "So, but then we could actually use the verb form as well.",
+      "zh": "所以，但是我们实际上也可以使用动词形式。"
+    },
+    {
+      "id": 65,
+      "start": 165.88,
+      "end": 169.65,
+      "en": "So we can say to text or we can say to message.",
+      "zh": "所以我们可以对短信说，或者我们可以对消息说。"
+    },
+    {
+      "id": 66,
+      "start": 170.04,
+      "end": 171.73,
+      "en": "Why didn't you message me last night?",
+      "zh": "你昨晚为什么不给我发消息？"
+    },
+    {
+      "id": 67,
+      "start": 171.87,
+      "end": 172.15,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 68,
+      "start": 172.35,
+      "end": 177.31,
+      "en": "So we use this slang to message someone because text is very common and everyone uses it.",
+      "zh": "所以我们用这个俚语来给某人发消息，因为文本很常见，每个人都使用它。"
+    },
+    {
+      "id": 69,
+      "start": 177.69,
+      "end": 180.91,
+      "en": "But normally young people say, hey, why didn't you message me?",
+      "zh": "但通常年轻人会说，嘿，你为什么不给我发消息？"
+    },
+    {
+      "id": 70,
+      "start": 181.2,
+      "end": 183.72,
+      "en": "Or aren't you ever going to message me?",
+      "zh": "或者你永远不会给我发消息？"
+    },
+    {
+      "id": 71,
+      "start": 183.72,
+      "end": 184.72,
+      "en": "Right, right, right.",
+      "zh": "对，对，对。"
+    },
+    {
+      "id": 72,
+      "start": 184.72,
+      "end": 186.24,
+      "en": "Or stop messaging in class.",
+      "zh": "或在课堂上停止消息传递。"
+    },
+    {
+      "id": 73,
+      "start": 186.24,
+      "end": 187.24,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 74,
+      "start": 187.24,
+      "end": 189.9,
+      "en": "So these are verbs to text and to message.",
+      "zh": "所以这些是文本和消息的动词。"
+    },
+    {
+      "id": 75,
+      "start": 189.9,
+      "end": 190.06,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 76,
+      "start": 190.9,
+      "end": 199.4,
+      "en": "Now, if we see down towards the middle of the dialogue, we see that the person hates sending SMS messages.",
+      "zh": "现在，如果我们看到对话的中间位置，我们会看到这个人讨厌发送短信。"
+    },
+    {
+      "id": 77,
+      "start": 199.4,
+      "end": 209.52,
+      "en": "So it's kind of explaining already what's been said because you have SMS messages and this abbreviation stands for?",
+      "zh": "所以它已经解释了已经说了什么，因为你有短信，这个缩写代表？"
+    },
+    {
+      "id": 78,
+      "start": 209.52,
+      "end": 210.26,
+      "en": "Short message service.",
+      "zh": "短消息服务。"
+    },
+    {
+      "id": 79,
+      "start": 211.08,
+      "end": 215.46,
+      "en": "Short S, message M, service S. So short message service.",
+      "zh": "短 S、消息 M、服务 S。所以短消息服务。"
+    },
+    {
+      "id": 80,
+      "start": 216.0,
+      "end": 218.1,
+      "en": "But most people around the world say SMS.",
+      "zh": "但世界上大多数人都说短信。"
+    },
+    {
+      "id": 81,
+      "start": 218.62,
+      "end": 218.76,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 82,
+      "start": 219.52,
+      "end": 229.84,
+      "en": "So they say, oh, send me an SMS or send me an SMS message, which again, like we see in the dialogue, it's kind of contradictory because we're already saying short message service message.",
+      "zh": "所以他们说，哦，给我发短信或给我发短信，就像我们在对话中看到的那样，这有点矛盾，因为我们已经在说短信服务消息了。"
+    },
+    {
+      "id": 83,
+      "start": 229.84,
+      "end": 231.94,
+      "en": "Yeah, but most people don't know what SMS means.",
+      "zh": "是的，但大多数人不知道短信是什么意思。"
+    },
+    {
+      "id": 84,
+      "start": 232.54,
+      "end": 239.21,
+      "en": "So they just say, hey, send me an SMS message or send me a text message or I didn't get your SMS.",
+      "zh": "所以他们只是说，嘿，给我发短信或给我发短信，或者我没有收到你的短信。"
+    },
+    {
+      "id": 85,
+      "start": 239.81,
+      "end": 240.39,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 86,
+      "start": 240.89,
+      "end": 246.89,
+      "en": "Now, lastly, we didn't get the SMS because we didn't have any credit on the phone.",
+      "zh": "现在，最后，我们没有收到短信，因为我们的电话没有任何信用。"
+    },
+    {
+      "id": 87,
+      "start": 247.39,
+      "end": 247.67,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 88,
+      "start": 247.75,
+      "end": 250.35,
+      "en": "Now, credit is an important word here.",
+      "zh": "现在，信用是一个重要的词。"
+    },
+    {
+      "id": 89,
+      "start": 250.43,
+      "end": 250.89,
+      "en": "It's a noun.",
+      "zh": "这是个名词。"
+    },
+    {
+      "id": 90,
+      "start": 251.27,
+      "end": 251.77,
+      "en": "It's a thing.",
+      "zh": "这是个东西。"
+    },
+    {
+      "id": 91,
+      "start": 252.52,
+      "end": 255.38,
+      "en": "We have credit or we don't have credit.",
+      "zh": "我们有信用，或者我们没有信用。"
+    },
+    {
+      "id": 92,
+      "start": 255.38,
+      "end": 258.29,
+      "en": "And it's important to remember that credit stands for money.",
+      "zh": "重要的是要记住信用代表金钱。"
+    },
+    {
+      "id": 93,
+      "start": 258.92,
+      "end": 259.65,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 94,
+      "start": 260.0,
+      "end": 268.9,
+      "en": "So maybe I buy $10 of credit for my cell phone and that means I can send many, many messages.",
+      "zh": "所以也许我为我的手机买了 10 美元的信用，这意味着我可以发送很多很多消息。"
+    },
+    {
+      "id": 95,
+      "start": 269.16,
+      "end": 272.4,
+      "en": "But when I have zero credit, I can't send any messages.",
+      "zh": "但是当我的信用为零时，我无法发送任何消息。"
+    },
+    {
+      "id": 96,
+      "start": 272.64,
+      "end": 273.06,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 97,
+      "start": 273.46,
+      "end": 282.68,
+      "en": "So this is important because usually in many places you have to have this amount of money in your phone in order to be able to talk and send messages.",
+      "zh": "所以这很重要，因为通常在许多地方你必须在手机中有这么多的钱才能交谈和发送消息。"
+    },
+    {
+      "id": 98,
+      "start": 283.26,
+      "end": 285.42,
+      "en": "So this money that you have is called credit.",
+      "zh": "所以你拥有的这笔钱被称为信用。"
+    },
+    {
+      "id": 99,
+      "start": 285.76,
+      "end": 288.76,
+      "en": "So you can say, I don't have any credit on my phone.",
+      "zh": "所以你可以说，我的手机上没有任何信用。"
+    },
+    {
+      "id": 100,
+      "start": 289.04,
+      "end": 289.46,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 101,
+      "start": 290.32,
+      "end": 294.32,
+      "en": "And it's basically a way of having money without having real money.",
+      "zh": "这基本上是一种没有真钱就有钱的方式。"
+    },
+    {
+      "id": 102,
+      "start": 294.62,
+      "end": 304.4,
+      "en": "You actually buy credit from your cell phone provider like AT&T or if you have China Telecom, that's who you buy credit from.",
+      "zh": "您实际上从 AT&T 等手机提供商处购买信用，或者如果您有中国电信，那就是您从中购买信用的人。"
+    },
+    {
+      "id": 103,
+      "start": 304.62,
+      "end": 305.02,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 104,
+      "start": 305.52,
+      "end": 305.98,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 105,
+      "start": 306.84,
+      "end": 315.84,
+      "en": "So let's get into the dialogue again and we'll be back with Fluency Builder.",
+      "zh": "所以让我们再次进入对话，我们将带着 Flueny Builder 回来。"
+    },
+    {
+      "id": 106,
+      "start": 315.84,
+      "end": 316.88,
+      "en": "Why didn't you text me last night?",
+      "zh": "昨晚怎么没给我发短信？"
+    },
+    {
+      "id": 107,
+      "start": 317.36,
+      "end": 317.52,
+      "en": "What?",
+      "zh": "什么？"
+    },
+    {
+      "id": 108,
+      "start": 318.36,
+      "end": 319.3,
+      "en": "I sent you three or four messages.",
+      "zh": "我给你发了三四条呢！"
+    },
+    {
+      "id": 109,
+      "start": 320.12,
+      "end": 320.86,
+      "en": "I didn't get any of them.",
+      "zh": "一条也没收到。"
+    },
+    {
+      "id": 110,
+      "start": 321.06,
+      "end": 324.3,
+      "en": "I was waiting for you to text me the address of where the party was and I never got your message.",
+      "zh": "我一直等你发聚会地址，结果始终没收到。"
+    },
+    {
+      "id": 111,
+      "start": 324.72,
+      "end": 325.72,
+      "en": "Why didn't you just call?",
+      "zh": "你怎么不直接打电话？"
+    },
+    {
+      "id": 112,
+      "start": 326.06,
+      "end": 327.78,
+      "en": "I hate sending SMS messages.",
+      "zh": "我讨厌发短信。"
+    },
+    {
+      "id": 113,
+      "start": 328.22,
+      "end": 330.26,
+      "en": "Well, because I didn't have any credit on my phone.",
+      "zh": "因为我的手机话费没余额了。"
+    },
+    {
+      "id": 114,
+      "start": 330.42,
+      "end": 331.28,
+      "en": "I used it all up this month.",
+      "zh": "这个月都用光了。"
+    },
+    {
+      "id": 115,
+      "start": 331.9,
+      "end": 334.04,
+      "en": "I thought you had an unlimited SMS plan.",
+      "zh": "我还以为你办了短信无限量套餐。"
+    },
+    {
+      "id": 116,
+      "start": 334.34,
+      "end": 334.76,
+      "en": "I do.",
+      "zh": "我是有这个套餐。"
+    },
+    {
+      "id": 117,
+      "start": 335.1,
+      "end": 337.78,
+      "en": "I don't have any credit in my phone, it won't let me call or send messages.",
+      "zh": "我的手机没有任何信用，它不会让我打电话或发送消息。"
+    },
+    {
+      "id": 118,
+      "start": 338.16,
+      "end": 339.64,
+      "en": "No wonder you didn't get my texts.",
+      "zh": "难怪你收不到我发的短信！"
+    },
+    {
+      "id": 119,
+      "start": 342.72,
+      "end": 344.8,
+      "en": "All right, we've prepared three phrases for you.",
+      "zh": "好的，我们为您准备了三个短语。"
+    },
+    {
+      "id": 120,
+      "start": 344.8,
+      "end": 346.48,
+      "en": "Let's start with those now in Fluency Builder.",
+      "zh": "让我们从现在在 Fluency Builder 中的那些开始。"
+    },
+    {
+      "id": 121,
+      "start": 349.04,
+      "end": 349.36,
+      "en": "Fluency Builder.",
+      "zh": "流利表达。"
+    },
+    {
+      "id": 122,
+      "start": 351.04,
+      "end": 352.67,
+      "en": "So we're still talking about credit here.",
+      "zh": "所以我们仍然在这里谈论信用。"
+    },
+    {
+      "id": 123,
+      "start": 353.32,
+      "end": 355.31,
+      "en": "Now when you have credit, you can use it.",
+      "zh": "现在，当您有信用时，您可以使用它。"
+    },
+    {
+      "id": 124,
+      "start": 356.24,
+      "end": 360.05,
+      "en": "But if you use all of it, we say you use it all up.",
+      "zh": "但如果你使用所有这些，我们说你全部用完。"
+    },
+    {
+      "id": 125,
+      "start": 360.47,
+      "end": 360.65,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 126,
+      "start": 361.16,
+      "end": 362.16,
+      "en": "We used it up.",
+      "zh": "我们用完了。"
+    },
+    {
+      "id": 127,
+      "start": 362.16,
+      "end": 363.39,
+      "en": "To use something up.",
+      "zh": "用完东西。"
+    },
+    {
+      "id": 128,
+      "start": 363.96,
+      "end": 365.85,
+      "en": "So here, what does the up do?",
+      "zh": "那么在这里，UP是做什么的？"
+    },
+    {
+      "id": 129,
+      "start": 366.52,
+      "end": 371.53,
+      "en": "Because we can use something, like I'm using my toothbrush, but to use up is different.",
+      "zh": "因为我们可以使用一些东西，就像我正在使用我的牙刷一样，但用完是不同的。"
+    },
+    {
+      "id": 130,
+      "start": 372.07,
+      "end": 374.61,
+      "en": "Right, it means that you finished it.",
+      "zh": "对，这意味着你完成了它。"
+    },
+    {
+      "id": 131,
+      "start": 375.72,
+      "end": 377.64,
+      "en": "It no longer exists.",
+      "zh": "它不再存在。"
+    },
+    {
+      "id": 132,
+      "start": 377.64,
+      "end": 378.65,
+      "en": "So it's completed.",
+      "zh": "所以完成了。"
+    },
+    {
+      "id": 133,
+      "start": 379.57,
+      "end": 383.07,
+      "en": "I had credit, I used it up, that means it is gone.",
+      "zh": "我有信用，我用完了，这意味着它已经消失了。"
+    },
+    {
+      "id": 134,
+      "start": 383.55,
+      "end": 384.35,
+      "en": "Right, exactly.",
+      "zh": "对，没错。"
+    },
+    {
+      "id": 135,
+      "start": 384.96,
+      "end": 386.68,
+      "en": "So for example, maybe paint.",
+      "zh": "例如，也许油漆。"
+    },
+    {
+      "id": 136,
+      "start": 386.68,
+      "end": 390.45,
+      "en": "You're painting a room and you used up all the white paint.",
+      "zh": "你正在粉刷一个房间，你用完了所有的白色油漆。"
+    },
+    {
+      "id": 137,
+      "start": 391.84,
+      "end": 394.6,
+      "en": "So you used all the paint, you have no more paint.",
+      "zh": "所以你用了所有的油漆，你没有更多的油漆了。"
+    },
+    {
+      "id": 138,
+      "start": 394.6,
+      "end": 396.21,
+      "en": "It's gone, so it's all used up.",
+      "zh": "没了，所以都用完了。"
+    },
+    {
+      "id": 139,
+      "start": 396.81,
+      "end": 399.11,
+      "en": "It's a very important phrase to remember, it's used up.",
+      "zh": "这是一个非常重要的短语，要记住，它已经用完了。"
+    },
+    {
+      "id": 140,
+      "start": 399.51,
+      "end": 399.91,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 141,
+      "start": 400.41,
+      "end": 408.2,
+      "en": "Now going back to SMS and messages, the question came up and said, I thought you had an unlimited SMS plan.",
+      "zh": "现在回到短信和消息，问题出现并说，我以为你有一个无限的短信计划。"
+    },
+    {
+      "id": 142,
+      "start": 408.7,
+      "end": 411.42,
+      "en": "All right, so an unlimited SMS plan.",
+      "zh": "好吧，所以一个无限的短信计划。"
+    },
+    {
+      "id": 143,
+      "start": 411.64,
+      "end": 416.24,
+      "en": "We know what SMS means, but first of all, let's talk about a plan.",
+      "zh": "我们知道 SMS 的含义，但首先，让我们谈谈计划。"
+    },
+    {
+      "id": 144,
+      "start": 416.24,
+      "end": 420.95,
+      "en": "Because when we talk about cell phones, it's important to remember that some people buy credit, that's how they get service.",
+      "zh": "因为当我们谈论手机时，重要的是要记住有些人购买信用，这就是他们获得服务的方式。"
+    },
+    {
+      "id": 145,
+      "start": 421.72,
+      "end": 422.77,
+      "en": "But some people buy plans.",
+      "zh": "但有些人购买计划。"
+    },
+    {
+      "id": 146,
+      "start": 424.0,
+      "end": 427.19,
+      "en": "This is very popular, by the way, in America, this is how most phones are.",
+      "zh": "顺便说一句，这在美国很受欢迎，这就是大多数手机的样子。"
+    },
+    {
+      "id": 147,
+      "start": 427.4,
+      "end": 428.64,
+      "en": "What is a plan?",
+      "zh": "什么是计划？"
+    },
+    {
+      "id": 148,
+      "start": 428.64,
+      "end": 432.47,
+      "en": "So basically, it's just like any other service, like maybe internet.",
+      "zh": "所以基本上，它就像任何其他服务一样，比如互联网。"
+    },
+    {
+      "id": 149,
+      "start": 433.76,
+      "end": 437.51,
+      "en": "You pay a monthly fee and you get a certain amount of this service.",
+      "zh": "您每月支付费用，您将获得一定数量的这项服务。"
+    },
+    {
+      "id": 150,
+      "start": 437.72,
+      "end": 444.89,
+      "en": "So maybe you pay $50 and you get 100 minutes to use on your cell phone, an unlimited amount of SMS.",
+      "zh": "所以也许你支付 50 美元，你有 100 分钟的时间在你的手机上使用，无限量的短信。"
+    },
+    {
+      "id": 151,
+      "start": 445.67,
+      "end": 458.96,
+      "en": "All right, so basically, my cell phone provider, AT&T or Telecom, they will say, for this price, you get this much time, this many messages each month, and you have to keep paying it.",
+      "zh": "好吧，所以基本上，我的手机供应商，AT&T 或电信，他们会说，以这个价格，你得到这么多时间，每个月有这么多消息，你必须继续付款。"
+    },
+    {
+      "id": 152,
+      "start": 459.12,
+      "end": 462.2,
+      "en": "Normally, it's one year or two years that you have to commit.",
+      "zh": "通常，您必须承诺的一年或两年。"
+    },
+    {
+      "id": 153,
+      "start": 462.44,
+      "end": 464.44,
+      "en": "You can't say, nah, I don't want this anymore.",
+      "zh": "你不能说，不，我不再想要这个了。"
+    },
+    {
+      "id": 154,
+      "start": 466.4,
+      "end": 472.76,
+      "en": "But the important thing here is that the person bought an unlimited SMS plan.",
+      "zh": "但这里重要的是这个人购买了无限的短信计划。"
+    },
+    {
+      "id": 155,
+      "start": 472.76,
+      "end": 476.12,
+      "en": "So this keyword there, unlimited, means it has no limit.",
+      "zh": "所以这个关键词，无限，意味着它没有限制。"
+    },
+    {
+      "id": 156,
+      "start": 476.56,
+      "end": 479.52,
+      "en": "It means you can use it as much as you want.",
+      "zh": "这意味着您可以随心所欲地使用它。"
+    },
+    {
+      "id": 157,
+      "start": 479.94,
+      "end": 485.84,
+      "en": "So unlimited, no limits, that means you can do it as much as you want.",
+      "zh": "所以无限，没有限制，这意味着你可以随心所欲地做这件事。"
+    },
+    {
+      "id": 158,
+      "start": 486.26,
+      "end": 493.54,
+      "en": "You can have unlimited calls, you get unlimited SMS, you can have unlimited data, for example.",
+      "zh": "您可以无限通话，您可以获得无限的短信，您可以拥有无限的数据，例如。"
+    },
+    {
+      "id": 159,
+      "start": 493.94,
+      "end": 494.14,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 160,
+      "start": 494.92,
+      "end": 495.44,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 161,
+      "start": 495.68,
+      "end": 499.54,
+      "en": "And we end it with saying, well, no wonder you didn't get my text.",
+      "zh": "最后我们说，好吧，难怪你没有收到我的短信。"
+    },
+    {
+      "id": 162,
+      "start": 499.54,
+      "end": 500.84,
+      "en": "Well, because he didn't have credit.",
+      "zh": "好吧，因为他没有信用。"
+    },
+    {
+      "id": 163,
+      "start": 501.18,
+      "end": 502.44,
+      "en": "No wonder you didn't get it.",
+      "zh": "难怪你没有得到它。"
+    },
+    {
+      "id": 164,
+      "start": 502.78,
+      "end": 510.98,
+      "en": "I know wonder is a great and very important phrase, and it's something we say when we finally understand why something happened.",
+      "zh": "我知道 Wonder 是一个伟大而非常重要的短语，当我们最终理解为什么发生了什么事时，我们会说它。"
+    },
+    {
+      "id": 165,
+      "start": 511.22,
+      "end": 512.76,
+      "en": "Right, we realize what happened.",
+      "zh": "对，我们意识到发生了什么。"
+    },
+    {
+      "id": 166,
+      "start": 513.14,
+      "end": 517.66,
+      "en": "So Marco, gosh, why didn't you respond to my calls?",
+      "zh": "所以马可，天哪，你为什么不回复我的电话？"
+    },
+    {
+      "id": 167,
+      "start": 518.32,
+      "end": 519.76,
+      "en": "Well, I didn't have any credit.",
+      "zh": "好吧，我没有任何信用。"
+    },
+    {
+      "id": 168,
+      "start": 520.3,
+      "end": 521.16,
+      "en": "No wonder.",
+      "zh": "难怪。"
+    },
+    {
+      "id": 169,
+      "start": 521.88,
+      "end": 524.18,
+      "en": "That means, oh, now I understand.",
+      "zh": "这意味着，哦，现在我明白了。"
+    },
+    {
+      "id": 170,
+      "start": 524.72,
+      "end": 525.04,
+      "en": "No wonder.",
+      "zh": "难怪。"
+    },
+    {
+      "id": 171,
+      "start": 525.72,
+      "end": 526.72,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 172,
+      "start": 526.72,
+      "end": 538.06,
+      "en": "It's a great phrase to start off your sentence by explaining or letting the other person know that you finally understand why this happened or you understand what the situation was.",
+      "zh": "通过解释或让对方知道您最终了解发生这种情况或您了解情况的原因，这是一个很好的短语。"
+    },
+    {
+      "id": 173,
+      "start": 539.0,
+      "end": 548.28,
+      "en": "All right, so let's take a listen to the dialogue one last time.",
+      "zh": "好吧，让我们上次听一听对话。"
+    },
+    {
+      "id": 174,
+      "start": 548.28,
+      "end": 549.36,
+      "en": "Why didn't you text me last night?",
+      "zh": "昨晚怎么没给我发短信？"
+    },
+    {
+      "id": 175,
+      "start": 549.74,
+      "end": 549.98,
+      "en": "What?",
+      "zh": "什么？"
+    },
+    {
+      "id": 176,
+      "start": 550.44,
+      "end": 551.72,
+      "en": "I sent you three or four messages.",
+      "zh": "我给你发了三四条呢！"
+    },
+    {
+      "id": 177,
+      "start": 552.6,
+      "end": 553.34,
+      "en": "I didn't get any of them.",
+      "zh": "一条也没收到。"
+    },
+    {
+      "id": 178,
+      "start": 553.52,
+      "end": 556.76,
+      "en": "I was waiting for you to text me the address of where the party was and I never got your message.",
+      "zh": "我一直等你发聚会地址，结果始终没收到。"
+    },
+    {
+      "id": 179,
+      "start": 557.2,
+      "end": 558.2,
+      "en": "Why didn't you just call?",
+      "zh": "你怎么不直接打电话？"
+    },
+    {
+      "id": 180,
+      "start": 558.56,
+      "end": 560.26,
+      "en": "I hate sending SMS messages.",
+      "zh": "我讨厌发短信。"
+    },
+    {
+      "id": 181,
+      "start": 560.68,
+      "end": 562.64,
+      "en": "Well, because I didn't have any credit on my phone.",
+      "zh": "因为我的手机话费没余额了。"
+    },
+    {
+      "id": 182,
+      "start": 562.64,
+      "end": 564.4,
+      "en": "I used it all up this month.",
+      "zh": "这个月都用光了。"
+    },
+    {
+      "id": 183,
+      "start": 564.4,
+      "end": 566.5,
+      "en": "I thought you had an unlimited SMS plan.",
+      "zh": "我还以为你办了短信无限量套餐。"
+    },
+    {
+      "id": 184,
+      "start": 566.78,
+      "end": 570.22,
+      "en": "I do, but if I don't have any credit in my phone, it won't let me call or send messages.",
+      "zh": "是办了，可手机没话费余额，就打不了电话，也发不了短信。"
+    },
+    {
+      "id": 185,
+      "start": 570.62,
+      "end": 572.1,
+      "en": "No wonder you didn't get my texts.",
+      "zh": "难怪你收不到我发的短信！"
+    },
+    {
+      "id": 186,
+      "start": 575.02,
+      "end": 575.82,
+      "en": "All right, we're back.",
+      "zh": "好了，我们回来了。"
+    },
+    {
+      "id": 187,
+      "start": 576.04,
+      "end": 581.44,
+      "en": "So talking about messages and everything, do you send a lot of messages?",
+      "zh": "所以说到消息和一切，你会发送很多消息吗？"
+    },
+    {
+      "id": 188,
+      "start": 581.48,
+      "end": 583.96,
+      "en": "Because I know some people who send like 100 messages a day.",
+      "zh": "因为我认识一些人每天发送 100 条消息。"
+    },
+    {
+      "id": 189,
+      "start": 583.96,
+      "end": 585.16,
+      "en": "Well, that's usually teenagers.",
+      "zh": "嗯，这通常是青少年。"
+    },
+    {
+      "id": 190,
+      "start": 585.52,
+      "end": 587.34,
+      "en": "Yeah, I don't send 100 messages a day.",
+      "zh": "是的，我每天不发送 100 条消息。"
+    },
+    {
+      "id": 191,
+      "start": 587.64,
+      "end": 589.8,
+      "en": "I mostly use messages.",
+      "zh": "我主要使用消息。"
+    },
+    {
+      "id": 192,
+      "start": 589.8,
+      "end": 591.32,
+      "en": "I don't call people very often.",
+      "zh": "我不经常给别人打电话。"
+    },
+    {
+      "id": 193,
+      "start": 592.32,
+      "end": 595.0,
+      "en": "I find that messages are easier and cheaper, actually.",
+      "zh": "实际上，我发现消息更容易和更便宜。"
+    },
+    {
+      "id": 194,
+      "start": 596.88,
+      "end": 601.28,
+      "en": "But I can't imagine sending a thousand messages a day or a hundred messages a day.",
+      "zh": "但我无法想象每天发送一千条消息或每天发送一百条消息。"
+    },
+    {
+      "id": 195,
+      "start": 601.76,
+      "end": 603.64,
+      "en": "Your thumbs would get so tired.",
+      "zh": "你的拇指会很累。"
+    },
+    {
+      "id": 196,
+      "start": 603.8,
+      "end": 610.88,
+      "en": "Well, I remember, well, this is back in the day when you had the little Nokia phones and you didn't have the touch screens and all this stuff.",
+      "zh": "好吧，我记得，好吧，这是在你有小诺基亚手机的那一天，你没有触摸屏和所有这些东西。"
+    },
+    {
+      "id": 197,
+      "start": 611.36,
+      "end": 623.94,
+      "en": "I did have some friends who were very, very agile with sending these messages and some did send, I don't know, 100, 200 messages a day because it was that new way of communicating with people.",
+      "zh": "我确实有一些朋友非常非常敏捷地发送这些消息，有些人确实每天发送 100、200 条消息，因为这是与人们交流的新方式。"
+    },
+    {
+      "id": 198,
+      "start": 624.52,
+      "end": 624.66,
+      "en": "Yeah, it's very exciting.",
+      "zh": "是的，这非常令人兴奋。"
+    },
+    {
+      "id": 199,
+      "start": 625.52,
+      "end": 635.85,
+      "en": "And I will also mention, and this is something that my parents complain about, there is something in America and I'm sure in England as well called text talk or text speak.",
+      "zh": "我还会提到，这是我父母抱怨的事情，在美国有一些东西，我敢肯定在英国也称为文本谈话或文本说话。"
+    },
+    {
+      "id": 200,
+      "start": 636.76,
+      "end": 643.13,
+      "en": "And so because messages are short, people have started to change the way they spell or write words.",
+      "zh": "因此，由于信息很短，人们已经开始改变他们拼写或写单词的方式。"
+    },
+    {
+      "id": 201,
+      "start": 644.28,
+      "end": 650.03,
+      "en": "So instead of saying F-O-R, this is for you, they write, this is number for you.",
+      "zh": "因此，与其说 F-O-R，不如说这是给你的，他们写道，这是给你的数字。"
+    },
+    {
+      "id": 202,
+      "start": 651.28,
+      "end": 655.97,
+      "en": "And it's so funny because you see these normal words but written in a strange new way.",
+      "zh": "这很有趣，因为你看到了这些正常的词，但以一种奇怪的新方式写成。"
+    },
+    {
+      "id": 203,
+      "start": 656.8,
+      "end": 665.04,
+      "en": "And people who are older, I think my parents' age, and I do too to some extent, really don't like it because it's so different.",
+      "zh": "而那些年长的人，我认为我父母的年龄，我也喜欢，我真的不喜欢它，因为它是如此不同。"
+    },
+    {
+      "id": 204,
+      "start": 665.04,
+      "end": 672.25,
+      "en": "It's especially very popular with the younger generation because it translates now to all sorts of messaging.",
+      "zh": "它在年轻一代中特别受欢迎，因为它现在可以转化为各种消息传递。"
+    },
+    {
+      "id": 205,
+      "start": 672.68,
+      "end": 679.96,
+      "en": "So before, as you say, it was because of the limitations, the amount of characters you could send in a message.",
+      "zh": "所以之前，正如你所说，这是因为限制，你可以在消息中发送的字符数量。"
+    },
+    {
+      "id": 206,
+      "start": 679.96,
+      "end": 683.4,
+      "en": "But now it's just become something that people have gotten in the habit of doing.",
+      "zh": "但现在它只是成为人们已经习惯于做的事情。"
+    },
+    {
+      "id": 207,
+      "start": 683.4,
+      "end": 690.81,
+      "en": "So for example, instead of writing skate, like skateboard, they would write S-K and then the number eight.",
+      "zh": "因此，例如，他们不会像滑板那样写 Skate，而是写 S-K，然后写 8 号。"
+    },
+    {
+      "id": 208,
+      "start": 691.38,
+      "end": 692.38,
+      "en": "So skate.",
+      "zh": "所以滑板。"
+    },
+    {
+      "id": 209,
+      "start": 692.57,
+      "end": 693.19,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 210,
+      "start": 693.38,
+      "end": 694.38,
+      "en": "Skate.",
+      "zh": "滑板。"
+    },
+    {
+      "id": 211,
+      "start": 694.38,
+      "end": 695.38,
+      "en": "Skate.",
+      "zh": "滑板。"
+    },
+    {
+      "id": 212,
+      "start": 695.38,
+      "end": 695.87,
+      "en": "It's so strange.",
+      "zh": "太奇怪了。"
+    },
+    {
+      "id": 213,
+      "start": 696.47,
+      "end": 699.23,
+      "en": "And I know it actually happens in other languages as well.",
+      "zh": "我知道它实际上也发生在其他语言中。"
+    },
+    {
+      "id": 214,
+      "start": 699.27,
+      "end": 699.87,
+      "en": "Yeah, a lot.",
+      "zh": "是的，很多。"
+    },
+    {
+      "id": 215,
+      "start": 700.52,
+      "end": 702.28,
+      "en": "Italian, they do it a lot.",
+      "zh": "意大利人，他们经常这样做。"
+    },
+    {
+      "id": 216,
+      "start": 702.28,
+      "end": 703.25,
+      "en": "And Spanish, I'm sure as well.",
+      "zh": "还有西班牙语，我也可以肯定。"
+    },
+    {
+      "id": 217,
+      "start": 703.56,
+      "end": 709.44,
+      "en": "But we call it text speak because it's very, very short and kind of abbreviated.",
+      "zh": "但我们称之为文本说话，因为它非常、非常短且有点缩写。"
+    },
+    {
+      "id": 218,
+      "start": 709.44,
+      "end": 720.16,
+      "en": "But it's a problem from my understanding is because these younger generations, they use it so much that they really kind of start forgetting the proper grammar and proper spelling.",
+      "zh": "但这是我理解的一个问题，因为这些年轻一代，他们如此多地使用它，以至于他们真的开始忘记正确的语法和正确的拼写。"
+    },
+    {
+      "id": 219,
+      "start": 720.36,
+      "end": 730.32,
+      "en": "So even you will find, I saw a report the other day, essays or reports handed in with these terrible spelling mistakes.",
+      "zh": "所以即使你会发现，前几天我看到了一份报告，发表了这些可怕的拼写错误的论文或报告。"
+    },
+    {
+      "id": 220,
+      "start": 730.32,
+      "end": 730.68,
+      "en": "That's awful.",
+      "zh": "那太可怕了。"
+    },
+    {
+      "id": 221,
+      "start": 731.32,
+      "end": 737.64,
+      "en": "Well, I hope, hope, hope that people are learning grammar and spelling, especially non-native learners of English.",
+      "zh": "好吧，我希望，希望，希望人们正在学习语法和拼写，尤其是英语的非本地学习者。"
+    },
+    {
+      "id": 222,
+      "start": 737.64,
+      "end": 741.36,
+      "en": "So if you're doing homework for your English class, don't use these.",
+      "zh": "因此，如果您正在为您的英语课做作业，请不要使用这些。"
+    },
+    {
+      "id": 223,
+      "start": 741.36,
+      "end": 742.62,
+      "en": "But it might be interesting to look them up.",
+      "zh": "但查找它们可能会很有趣。"
+    },
+    {
+      "id": 224,
+      "start": 742.84,
+      "end": 746.48,
+      "en": "So let us know though, do you text message people?",
+      "zh": "所以让我们知道，你会给人们发短信吗？"
+    },
+    {
+      "id": 225,
+      "start": 746.68,
+      "end": 747.82,
+      "en": "Do you send these text messages?",
+      "zh": "你发送这些短信吗？"
+    },
+    {
+      "id": 226,
+      "start": 748.14,
+      "end": 749.76,
+      "en": "Do you have SMS service in your country?",
+      "zh": "您所在的国家/地区有短信服务吗？"
+    },
+    {
+      "id": 227,
+      "start": 750.46,
+      "end": 751.06,
+      "en": "Let us know.",
+      "zh": "告诉我们吧。"
+    },
+    {
+      "id": 228,
+      "start": 751.76,
+      "end": 752.76,
+      "en": "Our website is EnglishPod.com.",
+      "zh": "我们的网站是 EnglishPod.com。"
+    },
+    {
+      "id": 229,
+      "start": 753.2,
+      "end": 753.4,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 230,
+      "start": 753.5,
+      "end": 754.0,
+      "en": "We'll see you guys there.",
+      "zh": "到时候在那里见。"
+    },
+    {
+      "id": 231,
+      "start": 754.28,
+      "end": 754.44,
+      "en": "Bye.",
+      "zh": "再见。"
+    },
+    {
+      "id": 232,
+      "start": 755.76,
+      "end": 762.932,
+      "en": "Thank you.",
+      "zh": "谢谢。"
+    }
+  ],
+  "dialog": {
+    "start": 42.28,
+    "end": 66.09,
+    "segmentIds": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+    ]
+  }
+}

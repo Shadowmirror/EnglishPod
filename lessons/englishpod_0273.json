@@ -1,0 +1,2056 @@
+{
+  "version": 1,
+  "id": 273,
+  "number": "0273",
+  "title": "The Weekend - The Zodiac and Horoscopes",
+  "audio": "mp3/273. The Weekend - The Zodiac and Horoscopes.mp3",
+  "duration": 1032.15025,
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.16,
+      "end": 4.22,
+      "en": "Hello everyone and welcome to EnglishPod. My name is Marco.",
+      "zh": "大家好，欢迎来到 Englishpod。 我的名字是马可。"
+    },
+    {
+      "id": 2,
+      "start": 4.76,
+      "end": 7.76,
+      "en": "My name is Catherine and we're talking about the stars today.",
+      "zh": "我的名字是凯瑟琳，我们今天谈论的是星星。"
+    },
+    {
+      "id": 3,
+      "start": 8.24,
+      "end": 11.92,
+      "en": "That's right. Today we're going to talk about a very popular subject.",
+      "zh": "没错。 今天我们将讨论一个非常受欢迎的主题。"
+    },
+    {
+      "id": 4,
+      "start": 11.92,
+      "end": 14.58,
+      "en": "Many people believe in the horoscope.",
+      "zh": "许多人相信星座。"
+    },
+    {
+      "id": 5,
+      "start": 15.1,
+      "end": 25.86,
+      "en": "So a horoscope is basically a system, a very old system of determining your future and describing your personality. And so it all depends on when you were born and where you were born.",
+      "zh": "所以星座运势基本上是一个系统，一个非常古老的系统，可以确定你的未来和描述你的个性。 所以这一切都取决于你什么时候出生和在哪里出生。"
+    },
+    {
+      "id": 6,
+      "start": 26.14,
+      "end": 28.5,
+      "en": "So what stars were in the sky when you were born.",
+      "zh": "那么，当你出生时，天空中有什么星星。"
+    },
+    {
+      "id": 7,
+      "start": 28.8,
+      "end": 29.02,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 8,
+      "start": 29.36,
+      "end": 45.92,
+      "en": "So basically, as many of you may know, there are 12 signs and we're going to talk about a couple of them and a little bit more about horoscopes and this, I don't know, I guess it's kind of like a branch of science or...",
+      "zh": "所以基本上，你们中的许多人可能知道，有 12 个迹象，我们将讨论其中的几个和更多关于星座的信息，我不知道，我想这有点像科学的一个分支或..."
+    },
+    {
+      "id": 9,
+      "start": 45.92,
+      "end": 46.92,
+      "en": "Pseudo-science.",
+      "zh": "伪科学。"
+    },
+    {
+      "id": 10,
+      "start": 46.92,
+      "end": 47.92,
+      "en": "Pseudo-science.",
+      "zh": "伪科学。"
+    },
+    {
+      "id": 11,
+      "start": 47.92,
+      "end": 61.4,
+      "en": "Yeah, I don't think there's much testing that's going on, but it's definitely something that a lot of people believe in. So let's take a listen to today's dialogue and we'll be back in a moment to talk more about it.",
+      "zh": "是的，我不认为有太多的测试正在进行，但这绝对是很多人相信的事情。所以让我们听听今天的对话，我们稍后会回来讨论更多。"
+    },
+    {
+      "id": 12,
+      "start": 61.4,
+      "end": 64.84,
+      "en": "Hey, Lydia, what are you reading?",
+      "zh": "嘿，莉迪亚，你在读什么？"
+    },
+    {
+      "id": 13,
+      "start": 65.52,
+      "end": 75.84,
+      "en": "I'm looking at my horoscope for this month. My outlook is very positive. It says that I should take a vacation to someplace exotic and that I will have a passionate summer fling.",
+      "zh": "我在看这个月的星座运势，运势非常好。上面说，我应该去一个充满异国情调的地方度假，还会有一段充满激情的夏日恋情。"
+    },
+    {
+      "id": 14,
+      "start": 75.84,
+      "end": 77.3,
+      "en": "What are you talking about?",
+      "zh": "你在说什么？"
+    },
+    {
+      "id": 15,
+      "start": 77.72,
+      "end": 78.6,
+      "en": "Let me see that.",
+      "zh": "让我看看。"
+    },
+    {
+      "id": 16,
+      "start": 79.46,
+      "end": 80.62,
+      "en": "What are horoscopes?",
+      "zh": "什么是星座运势？"
+    },
+    {
+      "id": 17,
+      "start": 81.46,
+      "end": 84.12,
+      "en": "It's a prediction of your month based on your zodiac sign.",
+      "zh": "这是根据您的星座对您的月份的预测。"
+    },
+    {
+      "id": 18,
+      "start": 84.58,
+      "end": 87.22,
+      "en": "You have a different sign for the month and date you were born in.",
+      "zh": "不同的出生月份和日期，对应不同的星座。"
+    },
+    {
+      "id": 19,
+      "start": 87.54,
+      "end": 89.94,
+      "en": "I was born on April 15th, so I'm an Aries.",
+      "zh": "我出生于 4 月 15 日，所以我是白羊座。"
+    },
+    {
+      "id": 20,
+      "start": 90.38,
+      "end": 91.04,
+      "en": "When were you born?",
+      "zh": "你是什么时候出生的？"
+    },
+    {
+      "id": 21,
+      "start": 91.56,
+      "end": 92.44,
+      "en": "January 5th.",
+      "zh": "1月5日。"
+    },
+    {
+      "id": 22,
+      "start": 93.08,
+      "end": 93.44,
+      "en": "Let's see.",
+      "zh": "我们来看看。"
+    },
+    {
+      "id": 23,
+      "start": 94.22,
+      "end": 95.68,
+      "en": "You're a Capricorn.",
+      "zh": "你是摩羯座。"
+    },
+    {
+      "id": 24,
+      "start": 96.18,
+      "end": 100.9,
+      "en": "It says that you'll be feeling stress at work, but you could see new exciting developments in your love life.",
+      "zh": "它说你会在工作中感到压力，但你可以在你的爱情生活中看到新的令人兴奋的发展。"
+    },
+    {
+      "id": 25,
+      "start": 101.54,
+      "end": 103.1,
+      "en": "Looks like we'll both have interesting summers.",
+      "zh": "看起来我们都会有有趣的夏天。"
+    },
+    {
+      "id": 26,
+      "start": 104.16,
+      "end": 110.12,
+      "en": "That's bogus. I don't feel any stress at work and my love life is practically non-existent.",
+      "zh": "那是假的。 我在工作中没有任何压力，我的爱情生活几乎不存在。"
+    },
+    {
+      "id": 27,
+      "start": 110.12,
+      "end": 112.26,
+      "en": "This zodiac stuff is all a bunch of nonsense.",
+      "zh": "这些星座的说法，全是胡说八道。"
+    },
+    {
+      "id": 28,
+      "start": 113.04,
+      "end": 113.54,
+      "en": "No it's not.",
+      "zh": "不，不是。"
+    },
+    {
+      "id": 29,
+      "start": 114.06,
+      "end": 116.82,
+      "en": "Your astrology sign can tell you a lot about your personality.",
+      "zh": "你的占星术标志可以告诉你很多关于你的个性的信息。"
+    },
+    {
+      "id": 30,
+      "start": 117.56,
+      "end": 121.64,
+      "en": "See, it says that an Aries is energetic and loves to socialize.",
+      "zh": "看，它说白羊座精力充沛，喜欢社交。"
+    },
+    {
+      "id": 31,
+      "start": 122.12,
+      "end": 127.32,
+      "en": "Well you certainly match those criteria, but they're so broad they could apply to anyone.",
+      "zh": "好吧，您当然符合这些标准，但它们非常广泛，可以适用于任何人。"
+    },
+    {
+      "id": 32,
+      "start": 128.36,
+      "end": 129.24,
+      "en": "What does it say about me?",
+      "zh": "它对我说了什么？"
+    },
+    {
+      "id": 33,
+      "start": 129.88,
+      "end": 132.36,
+      "en": "A Capricorn is serious minded and practical.",
+      "zh": "摩羯座的人认真严肃，做事务实。"
+    },
+    {
+      "id": 34,
+      "start": 132.96,
+      "end": 135.02,
+      "en": "She likes to do things in conventional ways.",
+      "zh": "她喜欢以传统的方式做事。"
+    },
+    {
+      "id": 35,
+      "start": 135.9,
+      "end": 136.96,
+      "en": "That sounds just like you!",
+      "zh": "听起来和你一样！"
+    },
+    {
+      "id": 36,
+      "start": 141.99,
+      "end": 142.89,
+      "en": "Alright we're back.",
+      "zh": "好了，我们回来了。"
+    },
+    {
+      "id": 37,
+      "start": 143.09,
+      "end": 149.93,
+      "en": "So a very interesting dialogue between these two girls talking about one of them believing in the horoscope and the other one doesn't.",
+      "zh": "所以这两个女孩在谈论他们中的一个人相信星座而另一个人之间进行了一次非常有趣的对话。"
+    },
+    {
+      "id": 38,
+      "start": 150.23,
+      "end": 154.53,
+      "en": "But they mentioned a lot of interesting things, so we're going to have two language takeaways today.",
+      "zh": "但他们提到了很多有趣的事情，所以我们今天将有两种语言收获。"
+    },
+    {
+      "id": 39,
+      "start": 154.75,
+      "end": 156.53,
+      "en": "Let's start with language takeaway part one.",
+      "zh": "让我们从语言外卖第一部分开始。"
+    },
+    {
+      "id": 40,
+      "start": 159.08,
+      "end": 160.08,
+      "en": "Language takeaway",
+      "zh": "语言外卖"
+    },
+    {
+      "id": 41,
+      "start": 160.08,
+      "end": 167.05,
+      "en": "Alright, so one of the most common things you'll hear when we talk about the horoscope in English is an outlook.",
+      "zh": "好吧，当我们用英语谈论星座运势时，你会听到的最常见的事情之一就是展望。"
+    },
+    {
+      "id": 42,
+      "start": 167.43,
+      "end": 170.67,
+      "en": "And an outlook can be positive or negative.",
+      "zh": "前景可以是积极的或消极的。"
+    },
+    {
+      "id": 43,
+      "start": 170.97,
+      "end": 172.37,
+      "en": "So what exactly is an outlook?",
+      "zh": "那么究竟什么是前景呢？"
+    },
+    {
+      "id": 44,
+      "start": 173.0,
+      "end": 176.69,
+      "en": "Well, if you notice Lydia said, my outlook is very positive.",
+      "zh": "好吧，如果你注意到莉迪亚说，我的前景非常积极。"
+    },
+    {
+      "id": 45,
+      "start": 177.03,
+      "end": 179.59,
+      "en": "So basically she's talking about her future.",
+      "zh": "所以基本上她在谈论她的未来。"
+    },
+    {
+      "id": 46,
+      "start": 179.72,
+      "end": 185.88,
+      "en": "Alright, so the way that she sees the future or the way that the horoscope talks about the future is a positive one.",
+      "zh": "好吧，所以她看待未来的方式或星座运势的未来方式是一种积极的态度。"
+    },
+    {
+      "id": 47,
+      "start": 186.32,
+      "end": 189.42,
+      "en": "So you could say, you know those eight balls?",
+      "zh": "所以你可以说，你知道那八个球吗？"
+    },
+    {
+      "id": 48,
+      "start": 189.46,
+      "end": 193.14,
+      "en": "They're black and they have like a message and you shake it and it gives you a message.",
+      "zh": "它们是黑色的，它们有一个像消息一样的信息，你摇晃它，它给你一个信息。"
+    },
+    {
+      "id": 49,
+      "start": 193.24,
+      "end": 194.24,
+      "en": "You ask a question I think sometimes.",
+      "zh": "你有时会问一个我想的问题。"
+    },
+    {
+      "id": 50,
+      "start": 194.24,
+      "end": 196.0,
+      "en": "You ask a question and it says outlook positive.",
+      "zh": "你问一个问题，它说前景是积极的。"
+    },
+    {
+      "id": 51,
+      "start": 196.32,
+      "end": 196.72,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 52,
+      "start": 196.84,
+      "end": 197.48,
+      "en": "Outlook negative.",
+      "zh": "前景负面。"
+    },
+    {
+      "id": 53,
+      "start": 197.76,
+      "end": 202.48,
+      "en": "So that means in your near future things will either be positive or negative.",
+      "zh": "所以这意味着在你不久的将来，事情要么是积极的，要么是消极的。"
+    },
+    {
+      "id": 54,
+      "start": 203.3,
+      "end": 206.18,
+      "en": "So I guess you can apply it for example to a company.",
+      "zh": "所以我想你可以把它应用到一家公司。"
+    },
+    {
+      "id": 55,
+      "start": 206.36,
+      "end": 208.54,
+      "en": "You say that a company has a positive outlook.",
+      "zh": "你说一家公司有一个积极的前景。"
+    },
+    {
+      "id": 56,
+      "start": 209.32,
+      "end": 209.78,
+      "en": "Or even a person.",
+      "zh": "甚至是一个人。"
+    },
+    {
+      "id": 57,
+      "start": 210.04,
+      "end": 214.24,
+      "en": "You know he's a very positive person so he has a positive outlook. He thinks good things are going to happen.",
+      "zh": "你知道他是一个非常积极的人，所以他有积极的态度。 他认为好事会发生。"
+    },
+    {
+      "id": 58,
+      "start": 214.52,
+      "end": 215.4,
+      "en": "Okay, very good.",
+      "zh": "好，很好。"
+    },
+    {
+      "id": 59,
+      "start": 215.74,
+      "end": 221.63,
+      "en": "So talking about horoscopes, obviously we must mention the 12 zodiac signs.",
+      "zh": "所以说到星座，显然我们必须提到十二生肖。"
+    },
+    {
+      "id": 60,
+      "start": 222.19,
+      "end": 225.77,
+      "en": "Okay, so each month has its own sign and they're not exactly the months.",
+      "zh": "好吧，所以每个月都有自己的标志，而且它们并不完全是月份。"
+    },
+    {
+      "id": 61,
+      "start": 225.95,
+      "end": 230.55,
+      "en": "They're a little bit different but each sign is kind of an animal or a symbol.",
+      "zh": "它们有点不同，但每个符号都是动物或符号。"
+    },
+    {
+      "id": 62,
+      "start": 230.79,
+      "end": 231.13,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 63,
+      "start": 231.19,
+      "end": 236.59,
+      "en": "So for example, a lot of August is part of the Leo sign in English.",
+      "zh": "因此，例如，很多八月是英语中狮子座标志的一部分。"
+    },
+    {
+      "id": 64,
+      "start": 236.83,
+      "end": 237.41,
+      "en": "That's the lion.",
+      "zh": "那是狮子。"
+    },
+    {
+      "id": 65,
+      "start": 237.88,
+      "end": 240.32,
+      "en": "And so the lion is the animal, the zodiac.",
+      "zh": "所以狮子是动物，十二生肖。"
+    },
+    {
+      "id": 66,
+      "start": 240.32,
+      "end": 244.99,
+      "en": "So the zodiac sign is one of these signs.",
+      "zh": "所以十二生肖是这些星座之一。"
+    },
+    {
+      "id": 67,
+      "start": 245.19,
+      "end": 252.23,
+      "en": "Like Leo is one of the zodiac signs. And I guess all 12 signs are considered the zodiac or the horoscope.",
+      "zh": "像狮子座是十二生肖之一。 我想所有 12 个符号都被认为是生肖或星座。"
+    },
+    {
+      "id": 68,
+      "start": 253.2,
+      "end": 255.85,
+      "en": "Exactly and you can actually talk about the zodiac in terms of other cultures.",
+      "zh": "确切地说，你可以用其他文化来谈论十二生肖。"
+    },
+    {
+      "id": 69,
+      "start": 256.01,
+      "end": 259.81,
+      "en": "There is a Chinese zodiac. So we could say it's the year of the horse.",
+      "zh": "有一个中国十二生肖。 所以我们可以说这是马年。"
+    },
+    {
+      "id": 70,
+      "start": 260.49,
+      "end": 263.89,
+      "en": "But that's a little bit different from what we're talking about here with the Western horoscope.",
+      "zh": "但这与我们在这里谈论的西方星座有点不同。"
+    },
+    {
+      "id": 71,
+      "start": 264.35,
+      "end": 265.23,
+      "en": "Okay, very good.",
+      "zh": "好，很好。"
+    },
+    {
+      "id": 72,
+      "start": 265.83,
+      "end": 274.41,
+      "en": "So all of this actually comes down to the, as we say, the pseudoscience or the branch called astrology.",
+      "zh": "所以所有这一切实际上归结为，正如我们所说，伪科学或称为占星术的分支。"
+    },
+    {
+      "id": 73,
+      "start": 275.19,
+      "end": 275.71,
+      "en": "Astrology.",
+      "zh": "占星术。"
+    },
+    {
+      "id": 74,
+      "start": 276.15,
+      "end": 279.51,
+      "en": "So this is a very hard word for some people to remember because they want to say astronomy.",
+      "zh": "所以这是一些人很难记住的词，因为他们想说天文学。"
+    },
+    {
+      "id": 75,
+      "start": 281.01,
+      "end": 281.47,
+      "en": "But it's different.",
+      "zh": "但它是不同的。"
+    },
+    {
+      "id": 76,
+      "start": 281.87,
+      "end": 288.05,
+      "en": "Astronomy is the scientific study of the skies, the stars, planets, things like that.",
+      "zh": "天文学是对天空、恒星、行星等事物的科学研究。"
+    },
+    {
+      "id": 77,
+      "start": 288.61,
+      "end": 290.45,
+      "en": "Astrology is different.",
+      "zh": "占星术是不同的。"
+    },
+    {
+      "id": 78,
+      "start": 290.77,
+      "end": 299.01,
+      "en": "It's what we're talking about here, the horoscope and reading the stars to understand what our personal futures will hold for us.",
+      "zh": "这就是我们在这里谈论的，星座和阅读星星以了解我们个人的未来将为我们带来什么。"
+    },
+    {
+      "id": 79,
+      "start": 299.33,
+      "end": 299.71,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 80,
+      "start": 299.87,
+      "end": 308.83,
+      "en": "So astronomy is an exact science part of, I guess, physics where you talk about the stars or the composition of the stars and their movements.",
+      "zh": "所以天文学是一个精确的科学部分，我猜，你在其中谈论恒星或恒星的组成及其运动。"
+    },
+    {
+      "id": 81,
+      "start": 309.15,
+      "end": 317.63,
+      "en": "Whereas in astrology we're talking about zodiacs and horoscopes and basically what star was in the sky when you were born but in a different way.",
+      "zh": "而在占星术中，我们谈论的是十二生肖和星座，基本上是你出生时天空中的星星，但方式却不同。"
+    },
+    {
+      "id": 82,
+      "start": 317.65,
+      "end": 318.57,
+      "en": "It's not very scientific.",
+      "zh": "这不是很科学。"
+    },
+    {
+      "id": 83,
+      "start": 319.33,
+      "end": 319.75,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 84,
+      "start": 320.11,
+      "end": 327.61,
+      "en": "So astrology is normally what you would see in the newspaper when you're trying to find your horoscope, astrology or horoscope.",
+      "zh": "所以占星术通常是你在试图找到你的星座、占星术或星座时会在报纸上看到的。"
+    },
+    {
+      "id": 85,
+      "start": 327.99,
+      "end": 338.17,
+      "en": "And actually every time you read the newspaper, if you look up your zodiac sign, it makes a prediction about your day or your week or maybe even sometimes the month or year.",
+      "zh": "实际上，每次您阅读报纸时，如果您查找星座，它都会预测您的一天或一周，甚至有时是月份或年份。"
+    },
+    {
+      "id": 86,
+      "start": 338.59,
+      "end": 343.19,
+      "en": "That's right. And so prediction is basically a guess about what will happen for you.",
+      "zh": "没错。 所以预测基本上是对你会发生什么的猜测。"
+    },
+    {
+      "id": 87,
+      "start": 343.42,
+      "end": 343.88,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 88,
+      "start": 344.12,
+      "end": 352.22,
+      "en": "So many times you see that the horoscope will say finances are in trouble, be careful with how you spend your money.",
+      "zh": "很多时候，你看到星座会说财务有问题，要小心你花钱的方式。"
+    },
+    {
+      "id": 89,
+      "start": 352.48,
+      "end": 357.0,
+      "en": "So they're making a prediction that in the future maybe you're going to have money problems so you have to be careful.",
+      "zh": "所以他们在预测未来也许你会遇到金钱问题，所以你必须小心。"
+    },
+    {
+      "id": 90,
+      "start": 357.24,
+      "end": 360.52,
+      "en": "Exactly or in the dialogue you will have a passionate summer fling.",
+      "zh": "确切地或在对话中，您将有一个充满激情的夏日狂欢。"
+    },
+    {
+      "id": 91,
+      "start": 360.72,
+      "end": 361.28,
+      "en": "This is a prediction.",
+      "zh": "这是一个预测。"
+    },
+    {
+      "id": 92,
+      "start": 361.72,
+      "end": 362.98,
+      "en": "It has not yet happened.",
+      "zh": "它还没有发生。"
+    },
+    {
+      "id": 93,
+      "start": 363.1,
+      "end": 363.68,
+      "en": "It will happen.",
+      "zh": "它会发生。"
+    },
+    {
+      "id": 94,
+      "start": 363.96,
+      "end": 364.48,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 95,
+      "start": 364.78,
+      "end": 365.36,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 96,
+      "start": 365.62,
+      "end": 365.88,
+      "en": "A prediction.",
+      "zh": "一个预测。"
+    },
+    {
+      "id": 97,
+      "start": 366.7,
+      "end": 374.64,
+      "en": "So now talking a little bit more about the zodiac signs that we saw in the dialogue, we mentioned two, Aries and Capricorn.",
+      "zh": "所以现在更多地谈论我们在对话中看到的十二生肖，我们提到了两个，白羊座和摩羯座。"
+    },
+    {
+      "id": 98,
+      "start": 374.99,
+      "end": 380.67,
+      "en": "So a lot of people who believe in astrology say that astrological signs are broken up.",
+      "zh": "所以很多相信占星术的人都说占星术的星座被打破了。"
+    },
+    {
+      "id": 99,
+      "start": 380.92,
+      "end": 383.69,
+      "en": "They're divided into different kinds of sign.",
+      "zh": "它们分为不同类型的符号。"
+    },
+    {
+      "id": 100,
+      "start": 384.11,
+      "end": 387.97,
+      "en": "We have water signs, air signs, earth signs and fire signs.",
+      "zh": "我们有水标志、空气标志、地球标志和火灾标志。"
+    },
+    {
+      "id": 101,
+      "start": 388.43,
+      "end": 391.76,
+      "en": "One of the famous fire signs is Aries, right?",
+      "zh": "著名的火灾标志之一是白羊座，对吧？"
+    },
+    {
+      "id": 102,
+      "start": 391.76,
+      "end": 394.71,
+      "en": "Aries. It's like the god of war in the Greek mythology.",
+      "zh": "白羊座。 这就像希腊神话中的战神。"
+    },
+    {
+      "id": 103,
+      "start": 395.8,
+      "end": 396.01,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 104,
+      "start": 396.71,
+      "end": 399.88,
+      "en": "So it's pronounced Aries. Aries.",
+      "zh": "所以它发音为白羊座。 白羊座。"
+    },
+    {
+      "id": 105,
+      "start": 399.88,
+      "end": 402.47,
+      "en": "A-R-I-E-S. Aries. That's right.",
+      "zh": "a-r-i-e-s。 白羊座。 没错。"
+    },
+    {
+      "id": 106,
+      "start": 402.84,
+      "end": 404.69,
+      "en": "And the other one is a Capricorn.",
+      "zh": "另一种是摩羯座。"
+    },
+    {
+      "id": 107,
+      "start": 405.25,
+      "end": 405.69,
+      "en": "Capricorn.",
+      "zh": "摩羯座。"
+    },
+    {
+      "id": 108,
+      "start": 405.75,
+      "end": 406.92,
+      "en": "So that's like a goat?",
+      "zh": "所以这就像一只山羊？"
+    },
+    {
+      "id": 109,
+      "start": 407.31,
+      "end": 407.45,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 110,
+      "start": 407.53,
+      "end": 408.31,
+      "en": "It's kind of like a ram.",
+      "zh": "它有点像公羊。"
+    },
+    {
+      "id": 111,
+      "start": 408.53,
+      "end": 408.81,
+      "en": "A ram.",
+      "zh": "公羊。"
+    },
+    {
+      "id": 112,
+      "start": 410.0,
+      "end": 411.01,
+      "en": "So an earth sign.",
+      "zh": "所以地球标志。"
+    },
+    {
+      "id": 113,
+      "start": 411.29,
+      "end": 411.79,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 114,
+      "start": 412.41,
+      "end": 414.25,
+      "en": "So there are 12.",
+      "zh": "所以有12个。"
+    },
+    {
+      "id": 115,
+      "start": 414.63,
+      "end": 417.03,
+      "en": "These are just two of them and obviously there are a lot more.",
+      "zh": "这些只是其中的两个，显然还有更多。"
+    },
+    {
+      "id": 116,
+      "start": 417.09,
+      "end": 421.37,
+      "en": "I guess off the top of my head we have Taurus or Leo.",
+      "zh": "我猜在我的脑海中，我们有金牛座或狮子座。"
+    },
+    {
+      "id": 117,
+      "start": 422.27,
+      "end": 424.03,
+      "en": "There's also a Scorpio.",
+      "zh": "还有天蝎座。"
+    },
+    {
+      "id": 118,
+      "start": 424.65,
+      "end": 425.09,
+      "en": "Sagittarius.",
+      "zh": "射手座。"
+    },
+    {
+      "id": 119,
+      "start": 425.71,
+      "end": 426.15,
+      "en": "Sagittarius.",
+      "zh": "射手座。"
+    },
+    {
+      "id": 120,
+      "start": 426.59,
+      "end": 429.51,
+      "en": "Gemini. Gemini, which are like twins, twin people.",
+      "zh": "双子座。 双子座，像双胞胎，双胞胎。"
+    },
+    {
+      "id": 121,
+      "start": 430.29,
+      "end": 430.99,
+      "en": "There's Pisces.",
+      "zh": "有双鱼座。"
+    },
+    {
+      "id": 122,
+      "start": 431.49,
+      "end": 431.67,
+      "en": "Virgo.",
+      "zh": "处女座。"
+    },
+    {
+      "id": 123,
+      "start": 432.32,
+      "end": 433.17,
+      "en": "And Virgo, the Virgin.",
+      "zh": "还有处女座，处女座。"
+    },
+    {
+      "id": 124,
+      "start": 433.75,
+      "end": 435.01,
+      "en": "And I don't know if we're missing anything.",
+      "zh": "我不知道我们是否遗漏了任何东西。"
+    },
+    {
+      "id": 125,
+      "start": 435.52,
+      "end": 441.69,
+      "en": "I can't think now. We'll have to talk about it at the very end of today's lesson. But we actually have some interesting things to talk about in a minute here.",
+      "zh": "我现在想不出来。 我们将不得不在今天的课程结束时讨论它。 但我们实际上在这里有一些有趣的事情要讨论。"
+    },
+    {
+      "id": 126,
+      "start": 442.11,
+      "end": 453.63,
+      "en": "We have to talk about the personality characteristics that are common when you're talking about different zodiac signs. Okay. So before we get to that, let's listen to our dialogue again.",
+      "zh": "当您谈论不同的十二生肖时，我们必须谈论常见的性格特征。 好的。 所以在我们开始之前，让我们再次听听我们的对话。"
+    },
+    {
+      "id": 127,
+      "start": 460.82,
+      "end": 461.44,
+      "en": "Hey, Lydia.",
+      "zh": "嘿，莉迪亚。"
+    },
+    {
+      "id": 128,
+      "start": 461.88,
+      "end": 462.44,
+      "en": "What are you reading?",
+      "zh": "你在读什么？"
+    },
+    {
+      "id": 129,
+      "start": 463.24,
+      "end": 465.02,
+      "en": "I'm looking at my horoscope for this month.",
+      "zh": "我在看我这个月的星座运势。"
+    },
+    {
+      "id": 130,
+      "start": 465.62,
+      "end": 467.44,
+      "en": "My outlook is very positive.",
+      "zh": "我的前景非常积极。"
+    },
+    {
+      "id": 131,
+      "start": 468.02,
+      "end": 473.02,
+      "en": "It says that I should take a vacation to someplace exotic and that I will have a passionate summer fling.",
+      "zh": "它说我应该去异国情调的地方度假，我将度过一个充满激情的夏日狂欢。"
+    },
+    {
+      "id": 132,
+      "start": 473.56,
+      "end": 474.92,
+      "en": "What are you talking about?",
+      "zh": "你在说什么？"
+    },
+    {
+      "id": 133,
+      "start": 475.48,
+      "end": 476.14,
+      "en": "Let me see that.",
+      "zh": "让我看看。"
+    },
+    {
+      "id": 134,
+      "start": 476.91,
+      "end": 478.19,
+      "en": "What are horoscopes?",
+      "zh": "什么是星座运势？"
+    },
+    {
+      "id": 135,
+      "start": 478.81,
+      "end": 481.85,
+      "en": "It's a prediction of your month based on your zodiac sign.",
+      "zh": "这是根据您的星座对您的月份的预测。"
+    },
+    {
+      "id": 136,
+      "start": 482.31,
+      "end": 484.95,
+      "en": "You have a different sign for the month and date you were born in.",
+      "zh": "不同的出生月份和日期，对应不同的星座。"
+    },
+    {
+      "id": 137,
+      "start": 485.25,
+      "end": 487.67,
+      "en": "I was born on April 15th, so I'm an Aries.",
+      "zh": "我出生于 4 月 15 日，所以我是白羊座。"
+    },
+    {
+      "id": 138,
+      "start": 488.09,
+      "end": 488.77,
+      "en": "When were you born?",
+      "zh": "你是什么时候出生的？"
+    },
+    {
+      "id": 139,
+      "start": 489.11,
+      "end": 490.19,
+      "en": "January 5th.",
+      "zh": "1月5日。"
+    },
+    {
+      "id": 140,
+      "start": 490.51,
+      "end": 491.17,
+      "en": "Let's see.",
+      "zh": "我们来看看。"
+    },
+    {
+      "id": 141,
+      "start": 491.95,
+      "end": 493.41,
+      "en": "You're a Capricorn.",
+      "zh": "你是摩羯座。"
+    },
+    {
+      "id": 142,
+      "start": 493.91,
+      "end": 498.63,
+      "en": "It says that you'll be feeling stress at work, but you could see new exciting developments in your love life.",
+      "zh": "它说你会在工作中感到压力，但你可以在你的爱情生活中看到新的令人兴奋的发展。"
+    },
+    {
+      "id": 143,
+      "start": 499.27,
+      "end": 500.83,
+      "en": "Looks like we'll both have interesting summers.",
+      "zh": "看起来我们都会有有趣的夏天。"
+    },
+    {
+      "id": 144,
+      "start": 501.45,
+      "end": 501.99,
+      "en": "That's bogus.",
+      "zh": "那是假的。"
+    },
+    {
+      "id": 145,
+      "start": 502.75,
+      "end": 509.99,
+      "en": "I don't feel any stress at work and my love life is practically non-existent. This zodiac stuff is all a bunch of nonsense.",
+      "zh": "我在工作中没有任何压力，我的爱情生活几乎不存在。 这个十二生肖的东西都是一堆废话。"
+    },
+    {
+      "id": 146,
+      "start": 510.65,
+      "end": 511.27,
+      "en": "No, it's not.",
+      "zh": "不，不是。"
+    },
+    {
+      "id": 147,
+      "start": 511.81,
+      "end": 514.55,
+      "en": "Your astrology sign can tell you a lot about your personality.",
+      "zh": "你的占星术标志可以告诉你很多关于你的个性的信息。"
+    },
+    {
+      "id": 148,
+      "start": 515.25,
+      "end": 515.57,
+      "en": "See?",
+      "zh": "看到了吧？"
+    },
+    {
+      "id": 149,
+      "start": 516.09,
+      "end": 519.39,
+      "en": "It says that an Aries is energetic and loves to socialize.",
+      "zh": "它说白羊座精力充沛，喜欢社交。"
+    },
+    {
+      "id": 150,
+      "start": 519.65,
+      "end": 525.07,
+      "en": "Well, you certainly match those criteria, but they're so broad they could apply to anyone.",
+      "zh": "好吧，您当然符合这些标准，但它们非常广泛，可以适用于任何人。"
+    },
+    {
+      "id": 151,
+      "start": 526.12,
+      "end": 526.97,
+      "en": "What does it say about me?",
+      "zh": "它对我说了什么？"
+    },
+    {
+      "id": 152,
+      "start": 527.61,
+      "end": 530.11,
+      "en": "A Capricorn is serious-minded and practical.",
+      "zh": "摩羯座是认真的和实用的。"
+    },
+    {
+      "id": 153,
+      "start": 530.88,
+      "end": 534.71,
+      "en": "She likes to do things in conventional ways. That sounds just like you.",
+      "zh": "她喜欢以传统的方式做事。 这听起来和你一样。"
+    },
+    {
+      "id": 154,
+      "start": 539.72,
+      "end": 540.5,
+      "en": "Alright, we're back.",
+      "zh": "好了，我们回来了。"
+    },
+    {
+      "id": 155,
+      "start": 540.7,
+      "end": 544.68,
+      "en": "So now, let's take a look at these personality traits on Language Takeaway Part 2.",
+      "zh": "所以现在，让我们来看看语言外卖第 2 部分的这些个性特征。"
+    },
+    {
+      "id": 156,
+      "start": 546.49,
+      "end": 547.85,
+      "en": "Language Takeaway",
+      "zh": "语言要点"
+    },
+    {
+      "id": 157,
+      "start": 548.2,
+      "end": 553.38,
+      "en": "Alright, so one of the great words that we heard in today's dialogue was exotic.",
+      "zh": "好吧，所以我们在今天的对话中听到的一个伟大的词之一是异国情调。"
+    },
+    {
+      "id": 158,
+      "start": 554.46,
+      "end": 560.12,
+      "en": "This is not necessarily describing a person, but usually things or clothes or places.",
+      "zh": "这不一定是描述一个人，而是通常的东西、衣服或地方。"
+    },
+    {
+      "id": 159,
+      "start": 560.78,
+      "end": 563.38,
+      "en": "In this instance, it was some place exotic.",
+      "zh": "在这种情况下，它是某个异国情调的地方。"
+    },
+    {
+      "id": 160,
+      "start": 564.48,
+      "end": 565.42,
+      "en": "What's an exotic place?",
+      "zh": "什么是异国情调的地方？"
+    },
+    {
+      "id": 161,
+      "start": 567.16,
+      "end": 574.68,
+      "en": "It's basically a place that's very unique and I guess it's kind of not common to go there or to find.",
+      "zh": "它基本上是一个非常独特的地方，我想去那里或找到它并不常见。"
+    },
+    {
+      "id": 162,
+      "start": 574.68,
+      "end": 580.8,
+      "en": "For example, many people talk about an exotic getaway going to the jungle because it's so exotic.",
+      "zh": "例如，许多人谈论去丛林的异国情调之旅，因为它是如此异国情调。"
+    },
+    {
+      "id": 163,
+      "start": 580.84,
+      "end": 584.24,
+      "en": "You have so many strange animals and plants and everything is so unfamiliar.",
+      "zh": "你有这么多奇怪的动物和植物，一切都是那么陌生。"
+    },
+    {
+      "id": 164,
+      "start": 584.8,
+      "end": 595.54,
+      "en": "Right, so in my mind, Tahiti is very exotic. It's full of jungle and there's also beaches and it's very unusual for someone who's from America because it's just so far away.",
+      "zh": "对，所以在我看来，大溪地非常异国情调。 它到处都是丛林，还有海滩，对于来自美国的人来说，这很不寻常，因为它离我们很远。"
+    },
+    {
+      "id": 165,
+      "start": 596.0,
+      "end": 596.98,
+      "en": "That's right, exotic.",
+      "zh": "没错，异国情调。"
+    },
+    {
+      "id": 166,
+      "start": 597.5,
+      "end": 605.36,
+      "en": "So, someone can also have an exotic personality because maybe they're a little bit strange or not strange but not so common, maybe unique.",
+      "zh": "所以，有人也可以有异国情调的个性，因为他们可能有点奇怪或不奇怪，但不那么常见，也许是独一无二的。"
+    },
+    {
+      "id": 167,
+      "start": 605.92,
+      "end": 610.32,
+      "en": "Yeah, although exotic is usually kind of a sexy thing when you're talking about people.",
+      "zh": "是的，虽然当你谈论人时，异国情调通常是一种性感的东西。"
+    },
+    {
+      "id": 168,
+      "start": 610.72,
+      "end": 614.6,
+      "en": "You know, she looks very exotic. That means she doesn't look like everybody else here.",
+      "zh": "你知道，她看起来很异国情调。 这意味着她在这里看起来不像其他人。"
+    },
+    {
+      "id": 169,
+      "start": 615.16,
+      "end": 615.34,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 170,
+      "start": 615.92,
+      "end": 620.4,
+      "en": "But another adjective to describe someone's personality is somebody that's very energetic.",
+      "zh": "但描述某人个性的另一个形容词是一个非常有活力的人。"
+    },
+    {
+      "id": 171,
+      "start": 621.0,
+      "end": 623.82,
+      "en": "All right, so energetic sounds like the word energy.",
+      "zh": "好吧，所以充满活力的声音就像能量这个词。"
+    },
+    {
+      "id": 172,
+      "start": 624.18,
+      "end": 625.4,
+      "en": "That's because they're related.",
+      "zh": "那是因为它们是相关的。"
+    },
+    {
+      "id": 173,
+      "start": 626.08,
+      "end": 628.52,
+      "en": "So, someone who's energetic has lots of energy.",
+      "zh": "所以，精力充沛的人精力充沛。"
+    },
+    {
+      "id": 174,
+      "start": 629.04,
+      "end": 633.88,
+      "en": "He or she likes to do a lot of things and wants to always go places.",
+      "zh": "他或她喜欢做很多事情，想永远去地方。"
+    },
+    {
+      "id": 175,
+      "start": 634.36,
+      "end": 637.08,
+      "en": "You know the energetic person at your office.",
+      "zh": "你认识你办公室里精力充沛的人。"
+    },
+    {
+      "id": 176,
+      "start": 637.36,
+      "end": 638.38,
+      "en": "They always drink coffee.",
+      "zh": "他们总是喝咖啡。"
+    },
+    {
+      "id": 177,
+      "start": 639.76,
+      "end": 642.26,
+      "en": "Maybe they make everyone else really tired just listening to them.",
+      "zh": "也许他们只是听他们说让其他人真的很累。"
+    },
+    {
+      "id": 178,
+      "start": 642.96,
+      "end": 643.16,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 179,
+      "start": 643.56,
+      "end": 648.16,
+      "en": "And actually, a person that's energetic usually also loves to socialize.",
+      "zh": "实际上，一个精力充沛的人通常也喜欢社交。"
+    },
+    {
+      "id": 180,
+      "start": 648.84,
+      "end": 652.33,
+      "en": "That's right. So, loves to means they like to but they like it a lot, right?",
+      "zh": "没错。 所以，喜欢意味着他们喜欢但他们非常喜欢它，对吧？"
+    },
+    {
+      "id": 181,
+      "start": 652.81,
+      "end": 657.79,
+      "en": "But to socialize means to talk to other people or to go to parties or to meet new people.",
+      "zh": "但社交意味着与其他人交谈或去聚会或结识新朋友。"
+    },
+    {
+      "id": 182,
+      "start": 658.24,
+      "end": 663.97,
+      "en": "So if it's a verb, to socialize means to talk to people, to meet people, to greet people.",
+      "zh": "所以如果它是一个动词，社交的意思是与人交谈，认识人，问候人。"
+    },
+    {
+      "id": 183,
+      "start": 664.48,
+      "end": 667.07,
+      "en": "You love to have contact with other people.",
+      "zh": "你喜欢与其他人联系。"
+    },
+    {
+      "id": 184,
+      "start": 667.48,
+      "end": 670.29,
+      "en": "So yeah, you're right. Very, very common for people who are energetic.",
+      "zh": "所以，是的，你是对的。 对于精力充沛的人来说，非常非常普遍。"
+    },
+    {
+      "id": 185,
+      "start": 670.92,
+      "end": 671.13,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 186,
+      "start": 671.53,
+      "end": 673.05,
+      "en": "And what about someone that's practical?",
+      "zh": "那么实用的人呢？"
+    },
+    {
+      "id": 187,
+      "start": 673.63,
+      "end": 674.13,
+      "en": "What is that like?",
+      "zh": "那是什么样的？"
+    },
+    {
+      "id": 188,
+      "start": 674.41,
+      "end": 676.03,
+      "en": "Someone who's practical does a lot of things.",
+      "zh": "实用的人做很多事情。"
+    },
+    {
+      "id": 189,
+      "start": 676.27,
+      "end": 680.67,
+      "en": "Maybe someone who's practical always comes to their activities prepared.",
+      "zh": "也许实用的人总是准备好参加他们的活动。"
+    },
+    {
+      "id": 190,
+      "start": 681.43,
+      "end": 683.29,
+      "en": "So in my car, I'm very practical.",
+      "zh": "所以在我的车里，我很实用。"
+    },
+    {
+      "id": 191,
+      "start": 683.59,
+      "end": 685.73,
+      "en": "I have extra water and a spare tire.",
+      "zh": "我有多余的水和备用轮胎。"
+    },
+    {
+      "id": 192,
+      "start": 686.41,
+      "end": 690.57,
+      "en": "But you can also say, I'm a very practical person.",
+      "zh": "但你也可以说，我是一个非常实际的人。"
+    },
+    {
+      "id": 193,
+      "start": 690.75,
+      "end": 697.35,
+      "en": "I like to do things that I can achieve as opposed to someone who always wants to do things that they can't really achieve.",
+      "zh": "我喜欢做我可以实现的事情，而不是那些总是想做他们无法真正实现的事情的人。"
+    },
+    {
+      "id": 194,
+      "start": 697.6,
+      "end": 704.63,
+      "en": "Okay. So a practical person is usually very realistic and very down to earth.",
+      "zh": "好的。 所以一个实际的人通常非常现实，非常脚踏实地。"
+    },
+    {
+      "id": 195,
+      "start": 705.05,
+      "end": 711.15,
+      "en": "Maybe someone that's practical, if they're going on a trip, they'll only take what's necessary, not more than they need.",
+      "zh": "也许是一个实用的人，如果他们要去旅行，他们只会拿走必要的东西，而不是超过他们需要的东西。"
+    },
+    {
+      "id": 196,
+      "start": 711.6,
+      "end": 719.67,
+      "en": "Yeah, exactly. Let me give you a good example. I like to go hiking and sometimes I see women who have not made very practical decisions about the shoes they wear.",
+      "zh": "是的，没错。 让我给你一个很好的例子。 我喜欢去远足，有时我会看到那些对她们穿的鞋子没有做出非常实际决定的女性。"
+    },
+    {
+      "id": 197,
+      "start": 720.23,
+      "end": 721.39,
+      "en": "So I like to wear hiking boots.",
+      "zh": "所以我喜欢穿登山靴。"
+    },
+    {
+      "id": 198,
+      "start": 721.71,
+      "end": 722.39,
+      "en": "These are very practical.",
+      "zh": "这些非常实用。"
+    },
+    {
+      "id": 199,
+      "start": 723.19,
+      "end": 726.81,
+      "en": "Wearing high heels on a mountain is not very practical.",
+      "zh": "在山上穿高跟鞋不是很实用。"
+    },
+    {
+      "id": 200,
+      "start": 727.44,
+      "end": 727.71,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 201,
+      "start": 728.03,
+      "end": 729.41,
+      "en": "Okay. Very good.",
+      "zh": "好的。 非常好。"
+    },
+    {
+      "id": 202,
+      "start": 729.75,
+      "end": 737.44,
+      "en": "Now, we also mentioned that a Capricorn is serious minded and conventional in many ways.",
+      "zh": "现在，我们还提到摩羯座在许多方面都是认真的和传统的。"
+    },
+    {
+      "id": 203,
+      "start": 737.44,
+      "end": 753.38,
+      "en": "Someone who's serious minded maybe doesn't like to have fun and go out and do things that are silly. Someone who's serious minded is usually very practical, I think, and really has a goal, wants to achieve that goal. No time to be silly.",
+      "zh": "一个认真的人可能不喜欢玩得开心，出去做一些愚蠢的事情。 我认为，认真对待的人通常非常实用，并且真的有一个目标，想要实现这个目标。 没有时间傻了。"
+    },
+    {
+      "id": 204,
+      "start": 753.7,
+      "end": 754.62,
+      "en": "No time to make jokes.",
+      "zh": "没有时间开玩笑。"
+    },
+    {
+      "id": 205,
+      "start": 755.08,
+      "end": 760.34,
+      "en": "So it doesn't necessarily mean that the person is boring, but they're just very, as you said, practical.",
+      "zh": "所以这并不一定意味着这个人很无聊，但他们只是非常，正如你所说，非常实用。"
+    },
+    {
+      "id": 206,
+      "start": 761.88,
+      "end": 762.88,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 207,
+      "start": 762.88,
+      "end": 767.08,
+      "en": "And what about that a Capricorn also likes to do things in conventional ways?",
+      "zh": "那么摩羯座也喜欢以传统方式做事呢？"
+    },
+    {
+      "id": 208,
+      "start": 767.42,
+      "end": 767.66,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 209,
+      "start": 767.84,
+      "end": 774.06,
+      "en": "So conventional means doing something in a conventional way means that you're doing it in a traditional way.",
+      "zh": "因此，传统方式意味着以传统方式做某事意味着您正在以传统方式做某事。"
+    },
+    {
+      "id": 210,
+      "start": 774.12,
+      "end": 777.36,
+      "en": "So this is a thing we've always done.",
+      "zh": "所以这是我们一直在做的事情。"
+    },
+    {
+      "id": 211,
+      "start": 777.42,
+      "end": 781.08,
+      "en": "We've always done it in this way, and I'm going to continue to do it in this way.",
+      "zh": "我们一直以这种方式做到这一点，我将继续以这种方式做到这一点。"
+    },
+    {
+      "id": 212,
+      "start": 781.68,
+      "end": 783.78,
+      "en": "So the opposite is unconventional.",
+      "zh": "所以相反的是非常规的。"
+    },
+    {
+      "id": 213,
+      "start": 784.44,
+      "end": 788.06,
+      "en": "That means doing things in new ways, doing things with your imagination.",
+      "zh": "这意味着以新的方式做事，用你的想象力做事。"
+    },
+    {
+      "id": 214,
+      "start": 788.66,
+      "end": 794.54,
+      "en": "And so something that's very conventional is something that has been established, and we're just going to continue doing it that way.",
+      "zh": "因此，非常传统的东西是已经建立的，我们将继续这样做。"
+    },
+    {
+      "id": 215,
+      "start": 794.8,
+      "end": 801.61,
+      "en": "So for example, someone that gets married in a church is the conventional way, but someone that gets married while skydiving is very unconventional.",
+      "zh": "因此，例如，在教堂结婚的人是传统的方式，但在跳伞时结婚的人是非常非常规的。"
+    },
+    {
+      "id": 216,
+      "start": 802.2,
+      "end": 802.35,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 217,
+      "start": 802.91,
+      "end": 803.31,
+      "en": "Unconventional.",
+      "zh": "非常规。"
+    },
+    {
+      "id": 218,
+      "start": 803.57,
+      "end": 803.95,
+      "en": "Absolutely.",
+      "zh": "当然。"
+    },
+    {
+      "id": 219,
+      "start": 804.92,
+      "end": 805.09,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 220,
+      "start": 805.27,
+      "end": 806.53,
+      "en": "So a lot of great vocab here.",
+      "zh": "所以这里有很多很棒的词汇。"
+    },
+    {
+      "id": 221,
+      "start": 806.65,
+      "end": 810.45,
+      "en": "Why don't we listen to her dialogue one last time, and we'll be back to talk with you a little bit more.",
+      "zh": "我们为什么不上次听她的对话，我们会再回来和你谈谈。"
+    },
+    {
+      "id": 222,
+      "start": 817.82,
+      "end": 819.26,
+      "en": "Hey, Lydia, what are you reading?",
+      "zh": "嘿，莉迪亚，你在读什么？"
+    },
+    {
+      "id": 223,
+      "start": 820.08,
+      "end": 821.84,
+      "en": "I'm looking at my horoscope for this month.",
+      "zh": "我在看我这个月的星座运势。"
+    },
+    {
+      "id": 224,
+      "start": 822.38,
+      "end": 824.26,
+      "en": "My outlook is very positive.",
+      "zh": "我的前景非常积极。"
+    },
+    {
+      "id": 225,
+      "start": 824.8,
+      "end": 829.84,
+      "en": "It says that I should take a vacation to someplace exotic and that I will have a passionate summer fling.",
+      "zh": "它说我应该去异国情调的地方度假，我将度过一个充满激情的夏日狂欢。"
+    },
+    {
+      "id": 226,
+      "start": 830.12,
+      "end": 831.74,
+      "en": "What are you talking about?",
+      "zh": "你在说什么？"
+    },
+    {
+      "id": 227,
+      "start": 832.22,
+      "end": 833.0,
+      "en": "Let me see that.",
+      "zh": "让我看看。"
+    },
+    {
+      "id": 228,
+      "start": 833.68,
+      "end": 835.04,
+      "en": "What are horoscopes?",
+      "zh": "什么是星座运势？"
+    },
+    {
+      "id": 229,
+      "start": 835.65,
+      "end": 838.71,
+      "en": "It's a prediction of your month based on your zodiac sign.",
+      "zh": "这是根据您的星座对您的月份的预测。"
+    },
+    {
+      "id": 230,
+      "start": 839.17,
+      "end": 841.79,
+      "en": "You have a different sign for the month and date you were born in.",
+      "zh": "不同的出生月份和日期，对应不同的星座。"
+    },
+    {
+      "id": 231,
+      "start": 842.09,
+      "end": 844.53,
+      "en": "I was born on April 15, so I'm an Aries.",
+      "zh": "我出生于 4 月 15 日，所以我是白羊座。"
+    },
+    {
+      "id": 232,
+      "start": 844.95,
+      "end": 845.61,
+      "en": "When were you born?",
+      "zh": "你是什么时候出生的？"
+    },
+    {
+      "id": 233,
+      "start": 846.24,
+      "end": 847.64,
+      "en": "January 5.",
+      "zh": "1月5日。"
+    },
+    {
+      "id": 234,
+      "start": 847.64,
+      "end": 848.03,
+      "en": "Let's see.",
+      "zh": "我们来看看。"
+    },
+    {
+      "id": 235,
+      "start": 848.81,
+      "end": 850.25,
+      "en": "You're a Capricorn.",
+      "zh": "你是摩羯座。"
+    },
+    {
+      "id": 236,
+      "start": 850.73,
+      "end": 855.47,
+      "en": "It says that you'll be feeling stress at work, but you could see new exciting developments in your love life.",
+      "zh": "它说你会在工作中感到压力，但你可以在你的爱情生活中看到新的令人兴奋的发展。"
+    },
+    {
+      "id": 237,
+      "start": 856.11,
+      "end": 857.69,
+      "en": "Looks like we'll both have interesting summers.",
+      "zh": "看起来我们都会有有趣的夏天。"
+    },
+    {
+      "id": 238,
+      "start": 858.72,
+      "end": 864.76,
+      "en": "That's bogus. I don't feel any stress at work, and my love life is practically non-existent.",
+      "zh": "那是假的。 我在工作中没有任何压力，我的爱情生活几乎不存在。"
+    },
+    {
+      "id": 239,
+      "start": 864.76,
+      "end": 866.82,
+      "en": "This zodiac stuff is all a bunch of nonsense.",
+      "zh": "这些星座的说法，全是胡说八道。"
+    },
+    {
+      "id": 240,
+      "start": 867.68,
+      "end": 868.12,
+      "en": "No it's not.",
+      "zh": "不，不是。"
+    },
+    {
+      "id": 241,
+      "start": 868.58,
+      "end": 871.4,
+      "en": "Your astrology sign can tell you a lot about your personality.",
+      "zh": "你的占星术标志可以告诉你很多关于你的个性的信息。"
+    },
+    {
+      "id": 242,
+      "start": 872.12,
+      "end": 876.26,
+      "en": "See, it says that an Aries is energetic and loves to socialize.",
+      "zh": "看，它说白羊座精力充沛，喜欢社交。"
+    },
+    {
+      "id": 243,
+      "start": 876.5,
+      "end": 881.92,
+      "en": "Well, you certainly match those criteria, but they're so broad they could apply to anyone.",
+      "zh": "好吧，您当然符合这些标准，但它们非常广泛，可以适用于任何人。"
+    },
+    {
+      "id": 244,
+      "start": 882.72,
+      "end": 883.82,
+      "en": "What does it say about me?",
+      "zh": "它对我说了什么？"
+    },
+    {
+      "id": 245,
+      "start": 884.44,
+      "end": 886.94,
+      "en": "A Capricorn is serious-minded and practical.",
+      "zh": "摩羯座是认真的和实用的。"
+    },
+    {
+      "id": 246,
+      "start": 887.56,
+      "end": 889.6,
+      "en": "She likes to do things in conventional ways.",
+      "zh": "她喜欢以传统的方式做事。"
+    },
+    {
+      "id": 247,
+      "start": 890.08,
+      "end": 891.56,
+      "en": "That sounds just like you!",
+      "zh": "听起来和你一样！"
+    },
+    {
+      "id": 248,
+      "start": 892.64,
+      "end": 897.93,
+      "en": "Alright, so talk about the horoscopes.",
+      "zh": "好吧，说说星座。"
+    },
+    {
+      "id": 249,
+      "start": 898.11,
+      "end": 898.69,
+      "en": "Which sign are you?",
+      "zh": "你是哪个星座？"
+    },
+    {
+      "id": 250,
+      "start": 899.48,
+      "end": 901.21,
+      "en": "I'm a Leo, which is actually...",
+      "zh": "我是狮子座，其实是..."
+    },
+    {
+      "id": 251,
+      "start": 901.21,
+      "end": 907.05,
+      "en": "I don't believe in the horoscope, but I have to say, every time someone tells me about Leos, Leo the Lion, right?",
+      "zh": "我不相信星座，但我不得不说，每次有人告诉我关于狮子座的狮子座，狮子座，对吧？"
+    },
+    {
+      "id": 252,
+      "start": 907.83,
+      "end": 910.81,
+      "en": "I agree with most of their descriptions of my personality.",
+      "zh": "我同意他们对我个性的大部分描述。"
+    },
+    {
+      "id": 253,
+      "start": 911.35,
+      "end": 921.59,
+      "en": "So, outspoken, loves to socialize, very opinionated, which means I have an opinion and I don't like to listen to other people, loves to argue very loud.",
+      "zh": "所以，直言不讳，喜欢社交，非常固执己见，这意味着我有意见，我不喜欢听别人的意见，喜欢大声争论。"
+    },
+    {
+      "id": 254,
+      "start": 922.41,
+      "end": 927.65,
+      "en": "So these are all qualities that I think I have, and some of them are bad, some of them are good, but you know, that's the way it is.",
+      "zh": "所以这些都是我认为我有的品质，其中一些是坏的，其中一些是好的，但你知道，就是这样。"
+    },
+    {
+      "id": 255,
+      "start": 928.41,
+      "end": 935.85,
+      "en": "But you don't really believe in what magazines or newspapers say about your outlook?",
+      "zh": "但你真的不相信杂志或报纸对你的看法吗？"
+    },
+    {
+      "id": 256,
+      "start": 936.29,
+      "end": 937.03,
+      "en": "Nah, I don't...",
+      "zh": "不，我不..."
+    },
+    {
+      "id": 257,
+      "start": 937.31,
+      "end": 939.84,
+      "en": "yeah, the predictions are usually just basic guesses.",
+      "zh": "是的，预测通常只是基本的猜测。"
+    },
+    {
+      "id": 258,
+      "start": 940.66,
+      "end": 941.78,
+      "en": "But what about you?",
+      "zh": "但是你呢？"
+    },
+    {
+      "id": 259,
+      "start": 941.92,
+      "end": 942.54,
+      "en": "What's your sign?",
+      "zh": "你的标志是什么？"
+    },
+    {
+      "id": 260,
+      "start": 942.84,
+      "end": 946.76,
+      "en": "I am a Taurus, so I was born in May.",
+      "zh": "我是金牛座，所以我出生在五月。"
+    },
+    {
+      "id": 261,
+      "start": 947.18,
+      "end": 947.7,
+      "en": "A bull.",
+      "zh": "一头公牛。"
+    },
+    {
+      "id": 262,
+      "start": 948.12,
+      "end": 948.78,
+      "en": "A bull, yes.",
+      "zh": "一头公牛，是的。"
+    },
+    {
+      "id": 263,
+      "start": 949.02,
+      "end": 951.38,
+      "en": "So I'm very stubborn and very strong.",
+      "zh": "所以我很固执，很强壮。"
+    },
+    {
+      "id": 264,
+      "start": 952.32,
+      "end": 956.82,
+      "en": "I don't really know what all the characteristics about the Taurus are.",
+      "zh": "我真的不知道金牛座的所有特征是什么。"
+    },
+    {
+      "id": 265,
+      "start": 957.2,
+      "end": 958.2,
+      "en": "Opinionated?",
+      "zh": "有主见吗？"
+    },
+    {
+      "id": 266,
+      "start": 958.2,
+      "end": 959.2,
+      "en": "Opinionated, I know that it's stubborn.",
+      "zh": "固执己见，我知道它很固执。"
+    },
+    {
+      "id": 267,
+      "start": 959.2,
+      "end": 960.2,
+      "en": "Loves to argue?",
+      "zh": "喜欢争论？"
+    },
+    {
+      "id": 268,
+      "start": 960.2,
+      "end": 961.2,
+      "en": "Yeah, exactly.",
+      "zh": "对，没错。"
+    },
+    {
+      "id": 269,
+      "start": 961.2,
+      "end": 962.2,
+      "en": "Doesn't like to be corrected?",
+      "zh": "不喜欢被纠正？"
+    },
+    {
+      "id": 270,
+      "start": 962.92,
+      "end": 965.2,
+      "en": "Are you describing Taurus or are you describing me?",
+      "zh": "你是在描述金牛座还是在描述我？"
+    },
+    {
+      "id": 271,
+      "start": 965.36,
+      "end": 965.72,
+      "en": "Both.",
+      "zh": "两者都。"
+    },
+    {
+      "id": 272,
+      "start": 966.84,
+      "end": 983.78,
+      "en": "All right, so it's actually very interesting. I think in many ways, sometimes the glove does fit and someone's zodiac sign describes them very well. But again, maybe like the dialogue says, they are very broad descriptions that basically any person can relate to.",
+      "zh": "好吧，所以它实际上非常有趣。 我认为在很多方面，有时手套确实合身，而某人的生肖标志很好地描述了它们。 但同样，也许就像对话所说的那样，它们是非常广泛的描述，基本上任何人都可以理解。"
+    },
+    {
+      "id": 273,
+      "start": 984.16,
+      "end": 990.4,
+      "en": "Absolutely. I think that that's one of the tricks to horoscopes or to predicting someone's future.",
+      "zh": "绝对。 我认为这是星座或预测某人未来的技巧之一。"
+    },
+    {
+      "id": 274,
+      "start": 990.68,
+      "end": 996.04,
+      "en": "You tell them enough very vague things that maybe some of them will fit and some of them won't.",
+      "zh": "你告诉他们有足够多的非常模糊的东西，也许他们中的一些会适合，而其中一些不适合。"
+    },
+    {
+      "id": 275,
+      "start": 996.04,
+      "end": 997.04,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 276,
+      "start": 997.04,
+      "end": 1004.94,
+      "en": "But I'm very curious to hear about you guys. What are your signs? What's your sign? That means what's your zodiac sign?",
+      "zh": "但我很想知道你们的消息。 你的迹象是什么？ 你的标志是什么？ 这意味着你的生肖是什么？"
+    },
+    {
+      "id": 277,
+      "start": 1004.94,
+      "end": 1009.44,
+      "en": "That's right. That's actually also a very common date question people say, oh, what's your sign?",
+      "zh": "没错。 这实际上也是人们说的一个非常常见的日期问题，哦，你的星座是什么？"
+    },
+    {
+      "id": 278,
+      "start": 1009.44,
+      "end": 1010.44,
+      "en": "Or a pickup line.",
+      "zh": "或接送线路。"
+    },
+    {
+      "id": 279,
+      "start": 1010.44,
+      "end": 1011.44,
+      "en": "Or a pickup line.",
+      "zh": "或接送线路。"
+    },
+    {
+      "id": 280,
+      "start": 1011.44,
+      "end": 1012.44,
+      "en": "Hey baby, what's your sign?",
+      "zh": "嘿宝贝，你的星座是什么？"
+    },
+    {
+      "id": 281,
+      "start": 1012.68,
+      "end": 1014.08,
+      "en": "To see if you're compatible, right?",
+      "zh": "看看你是否兼容，对吧？"
+    },
+    {
+      "id": 282,
+      "start": 1014.8,
+      "end": 1016.06,
+      "en": "Right. So let us know.",
+      "zh": "对。 所以让我们知道。"
+    },
+    {
+      "id": 283,
+      "start": 1016.3,
+      "end": 1017.48,
+      "en": "We're not trying to pick you up.",
+      "zh": "我们不是想来接你。"
+    },
+    {
+      "id": 284,
+      "start": 1017.62,
+      "end": 1018.1,
+      "en": "We're just curious.",
+      "zh": "我们只是好奇。"
+    },
+    {
+      "id": 285,
+      "start": 1018.96,
+      "end": 1023.12,
+      "en": "You'll find a lot of the words for the zodiac in today's lesson on our website, EnglishPod.com.",
+      "zh": "在我们的网站 englishpod.com 上，您会在今天的课程中找到很多关于生肖的词。"
+    },
+    {
+      "id": 286,
+      "start": 1023.48,
+      "end": 1023.6,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 287,
+      "start": 1023.7,
+      "end": 1024.22,
+      "en": "We'll see you guys there.",
+      "zh": "到时候在那里见。"
+    },
+    {
+      "id": 288,
+      "start": 1024.46,
+      "end": 1024.64,
+      "en": "Bye.",
+      "zh": "再见。"
+    }
+  ],
+  "dialog": {
+    "start": 61.4,
+    "end": 136.96,
+    "segmentIds": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35
+    ]
+  }
+}

@@ -1,0 +1,1990 @@
+{
+  "version": 1,
+  "id": 289,
+  "number": "0289",
+  "title": "The Office - Presentation Series 7 - Handling Technical Problems",
+  "audio": "mp3/289. The Office - Presentation Series 7 - Handling Technical Problems.mp3",
+  "duration": 869.3028125,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.05,
+      "end": 3.21,
+      "en": "Hello everyone and welcome to EnglishPod.",
+      "zh": "大家好，欢迎来到 EnglishPod。"
+    },
+    {
+      "id": 2,
+      "start": 3.44,
+      "end": 4.44,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 4.44,
+      "end": 9.99,
+      "en": "My name is Catherine and today we have part 7 of our series all about giving a presentation in English.",
+      "zh": "我的名字是凯瑟琳，今天我们的系列第 7 部分都是关于用英语进行演示的。"
+    },
+    {
+      "id": 4,
+      "start": 10.39,
+      "end": 10.87,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 5,
+      "start": 11.19,
+      "end": 14.49,
+      "en": "So obviously not every presentation is going to go perfectly.",
+      "zh": "因此，显然并非每个演示文稿都会完美。"
+    },
+    {
+      "id": 6,
+      "start": 15.05,
+      "end": 22.01,
+      "en": "Sometimes we do have some problems and on this occasion we're going to take a look at tech problems and how to handle them.",
+      "zh": "有时我们确实有一些问题，在这种情况下，我们将看看技术问题以及如何处理它们。"
+    },
+    {
+      "id": 7,
+      "start": 22.33,
+      "end": 22.77,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 8,
+      "start": 22.97,
+      "end": 27.59,
+      "en": "So you're going to learn some great ways to discuss and to explain technical problems.",
+      "zh": "因此，您将学习一些讨论和解释技术问题的好方法。"
+    },
+    {
+      "id": 9,
+      "start": 27.59,
+      "end": 29.13,
+      "en": "Let's take a listen to our dialogue.",
+      "zh": "我们来听听对话。"
+    },
+    {
+      "id": 10,
+      "start": 34.67,
+      "end": 39.03,
+      "en": "Okay so if we could dim the lights Jonathan we can kick off with the first TV advert.",
+      "zh": "好吧，如果我们可以调暗灯光乔纳森，我们可以用第一个电视广告开始。"
+    },
+    {
+      "id": 11,
+      "start": 39.71,
+      "end": 44.07,
+      "en": "Please note that we're still in the early days with this advert so it might seem a bit rough around the edges.",
+      "zh": "这个广告还处于制作初期，可能有些地方不够完善，请大家谅解。"
+    },
+    {
+      "id": 12,
+      "start": 44.67,
+      "end": 49.01,
+      "en": "Okay so I just need to click this and the advert should pop up on the screen.",
+      "zh": "好的，所以我只需要点击这个，广告应该会在屏幕上弹出。"
+    },
+    {
+      "id": 13,
+      "start": 50.51,
+      "end": 50.91,
+      "en": "Hmm.",
+      "zh": "嗯。"
+    },
+    {
+      "id": 14,
+      "start": 51.43,
+      "end": 52.15,
+      "en": "Sorry about this.",
+      "zh": "对不起这个。"
+    },
+    {
+      "id": 15,
+      "start": 52.47,
+      "end": 53.55,
+      "en": "Bear with me a second.",
+      "zh": "请稍等我一下。"
+    },
+    {
+      "id": 16,
+      "start": 53.92,
+      "end": 57.0,
+      "en": "There seems to be a problem with the projector.",
+      "zh": "投影机似乎有问题。"
+    },
+    {
+      "id": 17,
+      "start": 57.0,
+      "end": 57.27,
+      "en": "Let me see.",
+      "zh": "让我看看。"
+    },
+    {
+      "id": 18,
+      "start": 58.0,
+      "end": 59.61,
+      "en": "Jonathan, could you lend a hand a second?",
+      "zh": "乔纳森，能过来帮一下忙吗？"
+    },
+    {
+      "id": 19,
+      "start": 66.24,
+      "end": 68.58,
+      "en": "It looks like the projector is not recognizing the computer.",
+      "zh": "看起来投影仪无法识别计算机。"
+    },
+    {
+      "id": 20,
+      "start": 69.72,
+      "end": 70.92,
+      "en": "Let me check the connection a second.",
+      "zh": "让我检查一下连接。"
+    },
+    {
+      "id": 21,
+      "start": 72.56,
+      "end": 75.73,
+      "en": "Well the connection seems okay and the computer is running normally.",
+      "zh": "好吧，连接似乎正常，计算机运行正常。"
+    },
+    {
+      "id": 22,
+      "start": 76.48,
+      "end": 76.67,
+      "en": "Hmm.",
+      "zh": "嗯。"
+    },
+    {
+      "id": 23,
+      "start": 77.62,
+      "end": 78.18,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 24,
+      "start": 78.42,
+      "end": 78.86,
+      "en": "Sorry guys.",
+      "zh": "对不起伙计们"
+    },
+    {
+      "id": 25,
+      "start": 79.18,
+      "end": 80.52,
+      "en": "Obviously a problem with the system.",
+      "zh": "显然是系统的问题。"
+    },
+    {
+      "id": 26,
+      "start": 81.22,
+      "end": 82.82,
+      "en": "Let's just reboot and start over.",
+      "zh": "让我们重新启动并重新开始。"
+    },
+    {
+      "id": 27,
+      "start": 83.08,
+      "end": 84.68,
+      "en": "Let's see if this resolves the issue.",
+      "zh": "让我们看看这是否解决了这个问题。"
+    },
+    {
+      "id": 28,
+      "start": 88.06,
+      "end": 89.22,
+      "en": "Right let's try again.",
+      "zh": "对，让我们再试一次。"
+    },
+    {
+      "id": 29,
+      "start": 89.78,
+      "end": 91.44,
+      "en": "No still nothing Michael.",
+      "zh": "还是不行，迈克尔。"
+    },
+    {
+      "id": 30,
+      "start": 91.92,
+      "end": 93.88,
+      "en": "There might be a technical issue with the projector.",
+      "zh": "投影机可能存在技术问题。"
+    },
+    {
+      "id": 31,
+      "start": 94.76,
+      "end": 96.46,
+      "en": "I think maybe the projector has overheated.",
+      "zh": "我想可能投影仪过热了。"
+    },
+    {
+      "id": 32,
+      "start": 96.9,
+      "end": 99.64,
+      "en": "We might need to cool it down for 10 minutes and start again.",
+      "zh": "我们可能需要冷却 10 分钟并重新开始。"
+    },
+    {
+      "id": 33,
+      "start": 100.12,
+      "end": 101.88,
+      "en": "I'll call IT support to come over right now.",
+      "zh": "我马上叫 IT 技术支持过来。"
+    },
+    {
+      "id": 34,
+      "start": 102.7,
+      "end": 103.38,
+      "en": "Okay guys.",
+      "zh": "好吧伙计们。"
+    },
+    {
+      "id": 35,
+      "start": 104.14,
+      "end": 107.56,
+      "en": "Unfortunately technical problems do crop up from time to time don't they?",
+      "zh": "不幸的是，技术问题会不时出现，不是吗？"
+    },
+    {
+      "id": 36,
+      "start": 107.99,
+      "end": 109.41,
+      "en": "But it's not a huge problem.",
+      "zh": "但这不是一个大问题。"
+    },
+    {
+      "id": 37,
+      "start": 109.81,
+      "end": 117.69,
+      "en": "In the meantime while the IT guys get to work on that, I can talk a little bit more about the advertising concept and what we are looking to achieve overall with this campaign.",
+      "zh": "与此同时，当 IT 人员开始工作时，我可以更多地谈论广告概念以及我们希望通过这个活动实现整体目标。"
+    },
+    {
+      "id": 38,
+      "start": 123.08,
+      "end": 128.84,
+      "en": "Alright so we're back and now let's take a look at five keywords that we've picked out for you on Language Takeaway.",
+      "zh": "好吧，我们回来了，现在让我们来看看我们在语言外卖中为您挑选的五个关键字。"
+    },
+    {
+      "id": 39,
+      "start": 131.47,
+      "end": 132.63,
+      "en": "Language Takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 40,
+      "start": 134.86,
+      "end": 136.98,
+      "en": "Okay so we have some phrasal verbs today.",
+      "zh": "好的，我们今天有一些短语动词。"
+    },
+    {
+      "id": 41,
+      "start": 137.24,
+      "end": 140.12,
+      "en": "The first one is to kick off.",
+      "zh": "第一个是开始。"
+    },
+    {
+      "id": 42,
+      "start": 140.12,
+      "end": 140.26,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 43,
+      "start": 141.12,
+      "end": 144.42,
+      "en": "Mr. Ford started out by saying that we can kick off the first TV advert.",
+      "zh": "福特先生一开始就说我们可以推出第一个电视广告。"
+    },
+    {
+      "id": 44,
+      "start": 145.2,
+      "end": 147.78,
+      "en": "So this phrasal verb to kick off, what does it mean?",
+      "zh": "那么这个短语动词要开始了，这是什么意思？"
+    },
+    {
+      "id": 45,
+      "start": 148.18,
+      "end": 149.58,
+      "en": "It means to start something.",
+      "zh": "它意味着开始某事。"
+    },
+    {
+      "id": 46,
+      "start": 150.98,
+      "end": 153.24,
+      "en": "So to kick it off means to start.",
+      "zh": "所以启动它意味着开始。"
+    },
+    {
+      "id": 47,
+      "start": 153.84,
+      "end": 157.62,
+      "en": "So I can say tonight we're kicking off the party at 8 o'clock.",
+      "zh": "所以我可以说今晚我们将在 8 点开始派对。"
+    },
+    {
+      "id": 48,
+      "start": 157.62,
+      "end": 157.78,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 49,
+      "start": 158.62,
+      "end": 161.9,
+      "en": "Or let's kick off this new product with a big party.",
+      "zh": "或者让我们通过一个大型派对开始这个新产品。"
+    },
+    {
+      "id": 50,
+      "start": 162.8,
+      "end": 163.01,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 51,
+      "start": 163.8,
+      "end": 164.8,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 52,
+      "start": 164.8,
+      "end": 166.24,
+      "en": "So the phrasal verb to kick off.",
+      "zh": "所以短语动词开始。"
+    },
+    {
+      "id": 53,
+      "start": 166.24,
+      "end": 168.41,
+      "en": "You've probably also seen it in sports.",
+      "zh": "你可能也在体育运动中看到过它。"
+    },
+    {
+      "id": 54,
+      "start": 168.76,
+      "end": 171.65,
+      "en": "I think in soccer you have the kickoff which is the same thing.",
+      "zh": "我认为在足球中你有同样的踢球。"
+    },
+    {
+      "id": 55,
+      "start": 172.04,
+      "end": 173.09,
+      "en": "That's right except it's a noun.",
+      "zh": "没错，只是它是一个名词。"
+    },
+    {
+      "id": 56,
+      "start": 173.52,
+      "end": 174.47,
+      "en": "So be careful with that one.",
+      "zh": "所以要小心那一。"
+    },
+    {
+      "id": 57,
+      "start": 175.04,
+      "end": 177.37,
+      "en": "The kickoff is the very beginning of the game.",
+      "zh": "开球是比赛的开始。"
+    },
+    {
+      "id": 58,
+      "start": 177.68,
+      "end": 178.49,
+      "en": "Okay very good.",
+      "zh": "好，很好。"
+    },
+    {
+      "id": 59,
+      "start": 178.83,
+      "end": 187.93,
+      "en": "In that same paragraph towards the end, we see Mr. Ford saying okay so I just need to click this and the advert should pop up on the screen.",
+      "zh": "在结尾的同一段中，我们看到福特先生说好的，所以我只需要点击这个，广告应该会在屏幕上弹出。"
+    },
+    {
+      "id": 60,
+      "start": 188.52,
+      "end": 189.52,
+      "en": "Pop.",
+      "zh": "流行音乐。"
+    },
+    {
+      "id": 61,
+      "start": 189.52,
+      "end": 190.52,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 62,
+      "start": 190.52,
+      "end": 191.57,
+      "en": "I like this verb actually because it makes me think of that.",
+      "zh": "我实际上喜欢这个动词，因为它让我想到了这一点。"
+    },
+    {
+      "id": 63,
+      "start": 191.84,
+      "end": 201.47,
+      "en": "That when you're using a computer and you have these little windows or these little icons, those little pictures, when something changes, they appear quickly.",
+      "zh": "当您使用计算机时，您有这些小窗口或这些小图标，那些小图片，当某些东西发生变化时，它们会很快出现。"
+    },
+    {
+      "id": 64,
+      "start": 201.92,
+      "end": 205.4,
+      "en": "And that means in computer talk, it means to pop up.",
+      "zh": "这意味着在计算机谈话中，它意味着弹出。"
+    },
+    {
+      "id": 65,
+      "start": 205.4,
+      "end": 206.4,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 66,
+      "start": 206.4,
+      "end": 207.55,
+      "en": "You obviously maybe heard of this already.",
+      "zh": "你显然已经听说过这个。"
+    },
+    {
+      "id": 67,
+      "start": 207.8,
+      "end": 209.6,
+      "en": "You have annoying pop-ups.",
+      "zh": "你有烦人的弹出窗口。"
+    },
+    {
+      "id": 68,
+      "start": 209.6,
+      "end": 213.11,
+      "en": "Maybe you visit a website and all of a sudden these new windows start to open.",
+      "zh": "也许您访问一个网站，突然这些新窗口开始打开。"
+    },
+    {
+      "id": 69,
+      "start": 213.6,
+      "end": 214.27,
+      "en": "They're all advertisements.",
+      "zh": "都是广告。"
+    },
+    {
+      "id": 70,
+      "start": 214.6,
+      "end": 216.52,
+      "en": "You buy this, buy this, buy this, buy this.",
+      "zh": "你买这个，买这个，买这个，买这个。"
+    },
+    {
+      "id": 71,
+      "start": 216.52,
+      "end": 218.14,
+      "en": "Those are pop-ups.",
+      "zh": "那些是弹出窗口。"
+    },
+    {
+      "id": 72,
+      "start": 218.14,
+      "end": 222.88,
+      "en": "But also you can have a pop-up in a chat window for example.",
+      "zh": "但是，您也可以在聊天窗口中弹出一个弹出窗口。"
+    },
+    {
+      "id": 73,
+      "start": 222.88,
+      "end": 224.57,
+      "en": "And in this case, we also use it as a verb.",
+      "zh": "在这种情况下，我们也将它用作动词。"
+    },
+    {
+      "id": 74,
+      "start": 224.77,
+      "end": 225.95,
+      "en": "It should pop up.",
+      "zh": "它应该弹出。"
+    },
+    {
+      "id": 75,
+      "start": 226.39,
+      "end": 227.39,
+      "en": "So to pop up.",
+      "zh": "所以弹出。"
+    },
+    {
+      "id": 76,
+      "start": 228.49,
+      "end": 228.69,
+      "en": "To appear.",
+      "zh": "出现。"
+    },
+    {
+      "id": 77,
+      "start": 228.76,
+      "end": 229.76,
+      "en": "To appear.",
+      "zh": "出现。"
+    },
+    {
+      "id": 78,
+      "start": 229.76,
+      "end": 230.76,
+      "en": "All right very good.",
+      "zh": "好吧非常好。"
+    },
+    {
+      "id": 79,
+      "start": 230.76,
+      "end": 232.32,
+      "en": "Now obviously it didn't work.",
+      "zh": "现在显然它没有工作。"
+    },
+    {
+      "id": 80,
+      "start": 232.32,
+      "end": 240.79,
+      "en": "Something was happening with the projector and Mr. Ford was going through maybe some of the problems and he said let me check the connection a second.",
+      "zh": "投影仪发生了一些事情，福特先生可能正在经历一些问题，他说让我检查一下连接。"
+    },
+    {
+      "id": 81,
+      "start": 241.36,
+      "end": 242.69,
+      "en": "Well the connection seems okay.",
+      "zh": "好吧，连接似乎没问题。"
+    },
+    {
+      "id": 82,
+      "start": 243.52,
+      "end": 247.63,
+      "en": "Okay connection is a very important noun especially when we're talking about technical things like computers.",
+      "zh": "好吧，连接是一个非常重要的名词，尤其是当我们谈论计算机等技术问题时。"
+    },
+    {
+      "id": 83,
+      "start": 248.44,
+      "end": 249.95,
+      "en": "You can have an internet connection.",
+      "zh": "您可以进行互联网连接。"
+    },
+    {
+      "id": 84,
+      "start": 250.32,
+      "end": 254.2,
+      "en": "This means how you are able to use the internet.",
+      "zh": "这意味着您如何能够使用互联网。"
+    },
+    {
+      "id": 85,
+      "start": 254.2,
+      "end": 258.81,
+      "en": "But in this case we're talking about a projector which makes things bigger and a computer.",
+      "zh": "但在这种情况下，我们谈论的是使事情变得更大和计算机的投影仪。"
+    },
+    {
+      "id": 86,
+      "start": 259.36,
+      "end": 262.44,
+      "en": "And so those things need to have a connection.",
+      "zh": "所以这些东西需要有联系。"
+    },
+    {
+      "id": 87,
+      "start": 262.44,
+      "end": 268.48,
+      "en": "They need to have a cord or something that you plug into one and to the other so that they can talk to each other.",
+      "zh": "他们需要有一根绳子或你插入一个和另一个的东西，这样他们就可以互相交谈。"
+    },
+    {
+      "id": 88,
+      "start": 268.48,
+      "end": 268.61,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 89,
+      "start": 269.48,
+      "end": 271.75,
+      "en": "So as you notice, we are using it as a noun.",
+      "zh": "因此，正如您所注意到的，我们将其用作名词。"
+    },
+    {
+      "id": 90,
+      "start": 272.16,
+      "end": 276.9,
+      "en": "They need to have, the computer and the projector needs to have a connection.",
+      "zh": "他们需要有，计算机和投影仪需要有连接。"
+    },
+    {
+      "id": 91,
+      "start": 276.91,
+      "end": 281.01,
+      "en": "So you have the verb to connect but then you have the noun a connection.",
+      "zh": "所以你有动词要连接，但你有名词连接。"
+    },
+    {
+      "id": 92,
+      "start": 282.36,
+      "end": 286.06,
+      "en": "All right and let's move on to another possible solution.",
+      "zh": "好吧，让我们继续讨论另一个可能的解决方案。"
+    },
+    {
+      "id": 93,
+      "start": 286.44,
+      "end": 288.78,
+      "en": "Mr. Ford suggests rebooting the system.",
+      "zh": "福特先生建议重新启动系统。"
+    },
+    {
+      "id": 94,
+      "start": 289.34,
+      "end": 296.38,
+      "en": "Okay so the verb here to reboot is another special computer word that means to turn off and turn on again.",
+      "zh": "好的，这里要重新启动的动词是另一个特殊的计算机词，意思是关闭并再次打开。"
+    },
+    {
+      "id": 95,
+      "start": 296.92,
+      "end": 297.3,
+      "en": "To restart.",
+      "zh": "重新启动。"
+    },
+    {
+      "id": 96,
+      "start": 297.98,
+      "end": 305.1,
+      "en": "So if I say reboot, I'm using the prefix there re which means a repetition or to do it again.",
+      "zh": "因此，如果我说重新启动，我正在使用前缀 re，这意味着重复或再做一次。"
+    },
+    {
+      "id": 97,
+      "start": 305.8,
+      "end": 309.74,
+      "en": "If I just say boot, can I say just I need to boot the computer?",
+      "zh": "如果我只是说启动，我可以说我需要启动计算机吗？"
+    },
+    {
+      "id": 98,
+      "start": 310.09,
+      "end": 311.29,
+      "en": "I need to boot up the computer.",
+      "zh": "我需要启动计算机。"
+    },
+    {
+      "id": 99,
+      "start": 311.51,
+      "end": 312.33,
+      "en": "Okay, boot up.",
+      "zh": "好，启动。"
+    },
+    {
+      "id": 100,
+      "start": 312.59,
+      "end": 312.93,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 101,
+      "start": 313.15,
+      "end": 317.91,
+      "en": "So in this case, you would be talking about a computer that is off and you want to turn it on.",
+      "zh": "所以在这种情况下，你会谈论一台关闭的电脑，你想打开它。"
+    },
+    {
+      "id": 102,
+      "start": 318.19,
+      "end": 320.79,
+      "en": "So I would say, hey Marco, can you boot up the computer for me?",
+      "zh": "所以我会说，嘿，马可，你能帮我启动电脑吗？"
+    },
+    {
+      "id": 103,
+      "start": 321.39,
+      "end": 327.09,
+      "en": "Now about using the word reboot or to boot up, it's usually for electronic things, electric things.",
+      "zh": "现在关于使用重新启动或启动这个词，它通常用于电子产品，电气的东西。"
+    },
+    {
+      "id": 104,
+      "start": 327.23,
+      "end": 330.61,
+      "en": "You wouldn't say to reboot your car or to boot up your car.",
+      "zh": "你不会说重新启动你的汽车或启动你的汽车。"
+    },
+    {
+      "id": 105,
+      "start": 330.75,
+      "end": 333.93,
+      "en": "No, this is for computers specifically electronics.",
+      "zh": "不，这适用于计算机，特别是电子产品。"
+    },
+    {
+      "id": 106,
+      "start": 334.13,
+      "end": 338.15,
+      "en": "For example, oh man, my iPhone just froze.",
+      "zh": "例如，哦，伙计，我的 iPhone 刚刚冻结了。"
+    },
+    {
+      "id": 107,
+      "start": 339.2,
+      "end": 340.44,
+      "en": "I need to reboot it.",
+      "zh": "我需要重新启动它。"
+    },
+    {
+      "id": 108,
+      "start": 340.44,
+      "end": 341.33,
+      "en": "Okay, very good.",
+      "zh": "好，很好。"
+    },
+    {
+      "id": 109,
+      "start": 341.96,
+      "end": 359.36,
+      "en": "All right and for our last phrasal verb for today on Language Takeaway, we have towards the end of the dialogue, towards the end of the dialogue, Mr. Ford apologizes and says, you know what, I'm sorry but technical problems do crop up sometimes.",
+      "zh": "好吧，对于我们今天在语言外卖上的最后一个短语动词，我们在对话结束时，在对话结束时，福特先生道歉并说，你知道吗，我很抱歉，但有时会出现技术问题。"
+    },
+    {
+      "id": 110,
+      "start": 359.36,
+      "end": 366.13,
+      "en": "Okay so this verb to crop up means to appear or to happen but not all the time.",
+      "zh": "好的，所以这个动词出现的意思是出现或发生，但并非总是发生。"
+    },
+    {
+      "id": 111,
+      "start": 366.56,
+      "end": 368.75,
+      "en": "So unexpectedly or occasionally.",
+      "zh": "如此出乎意料或偶尔。"
+    },
+    {
+      "id": 112,
+      "start": 369.84,
+      "end": 370.01,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 113,
+      "start": 370.84,
+      "end": 372.73,
+      "en": "So these things do crop up sometimes.",
+      "zh": "所以这些东西有时会出现。"
+    },
+    {
+      "id": 114,
+      "start": 373.17,
+      "end": 376.74,
+      "en": "It means every once in a while this problem will happen.",
+      "zh": "这意味着每隔一段时间就会发生这个问题。"
+    },
+    {
+      "id": 115,
+      "start": 377.1,
+      "end": 379.14,
+      "en": "So can I use this for a person?",
+      "zh": "那么我可以为一个人使用它吗？"
+    },
+    {
+      "id": 116,
+      "start": 379.68,
+      "end": 382.44,
+      "en": "If you say, oh you scared me, you cropped up on me.",
+      "zh": "如果你说，哦，你吓到我了，你就出现在我身上。"
+    },
+    {
+      "id": 117,
+      "start": 382.68,
+      "end": 384.64,
+      "en": "No, it'd be creeped up on me.",
+      "zh": "不，它会吓到我的。"
+    },
+    {
+      "id": 118,
+      "start": 384.64,
+      "end": 385.64,
+      "en": "Creeped up, very good.",
+      "zh": "爬了起来，非常好。"
+    },
+    {
+      "id": 119,
+      "start": 385.64,
+      "end": 387.88,
+      "en": "So we can't confuse those two but they sound very similar.",
+      "zh": "所以我们不能混淆这两个，但它们听起来非常相似。"
+    },
+    {
+      "id": 120,
+      "start": 388.08,
+      "end": 397.26,
+      "en": "They do sound similar but to crop up is usually a problem or an event or a thing that happens and it happens not very often.",
+      "zh": "它们听起来确实相似，但突然出现通常是一个问题、事件或发生的事情，而且这种情况并不经常发生。"
+    },
+    {
+      "id": 121,
+      "start": 397.88,
+      "end": 399.16,
+      "en": "Okay, very good.",
+      "zh": "好，很好。"
+    },
+    {
+      "id": 122,
+      "start": 399.4,
+      "end": 403.66,
+      "en": "So I think we've taken a look at a lot of words here, specifically phrasal verbs.",
+      "zh": "所以我想我们在这里看了很多单词，特别是短语动词。"
+    },
+    {
+      "id": 123,
+      "start": 404.24,
+      "end": 405.32,
+      "en": "So let's review those.",
+      "zh": "所以让我们回顾一下。"
+    },
+    {
+      "id": 124,
+      "start": 405.34,
+      "end": 406.84,
+      "en": "Let's listen to our dialogue again.",
+      "zh": "让我们再次聆听我们的对话。"
+    },
+    {
+      "id": 125,
+      "start": 412.3,
+      "end": 416.7,
+      "en": "Okay so if we could dim the lights, Jonathan, we can kick off with the first TV advert.",
+      "zh": "好吧，如果我们可以调暗灯光，乔纳森，我们可以从第一个电视广告开始。"
+    },
+    {
+      "id": 126,
+      "start": 417.24,
+      "end": 421.74,
+      "en": "Please note that we are still in the early days with this advert so it might seem a bit rough around the edges.",
+      "zh": "请注意，我们仍处于使用此广告的早期阶段，因此边缘可能看起来有点粗糙。"
+    },
+    {
+      "id": 127,
+      "start": 422.28,
+      "end": 426.7,
+      "en": "Okay so I just need to click this and the advert should pop up on the screen.",
+      "zh": "好的，所以我只需要点击这个，广告应该会在屏幕上弹出。"
+    },
+    {
+      "id": 128,
+      "start": 428.11,
+      "end": 429.81,
+      "en": "Hmm, sorry about this.",
+      "zh": "嗯，对不起。"
+    },
+    {
+      "id": 129,
+      "start": 430.12,
+      "end": 431.23,
+      "en": "Bear with me a second.",
+      "zh": "忍受我一秒钟。"
+    },
+    {
+      "id": 130,
+      "start": 431.68,
+      "end": 434.64,
+      "en": "There seems to be a problem with the projector.",
+      "zh": "投影机似乎有问题。"
+    },
+    {
+      "id": 131,
+      "start": 434.64,
+      "end": 434.95,
+      "en": "Let me see.",
+      "zh": "让我看看。"
+    },
+    {
+      "id": 132,
+      "start": 435.64,
+      "end": 437.29,
+      "en": "Jonathan, could you lend a hand a second?",
+      "zh": "乔纳森，能过来帮一下忙吗？"
+    },
+    {
+      "id": 133,
+      "start": 443.92,
+      "end": 446.22,
+      "en": "It looks like the projector is not recognizing the computer.",
+      "zh": "看起来投影仪无法识别计算机。"
+    },
+    {
+      "id": 134,
+      "start": 447.38,
+      "end": 448.54,
+      "en": "Let me check the connection a second.",
+      "zh": "让我检查一下连接。"
+    },
+    {
+      "id": 135,
+      "start": 450.24,
+      "end": 453.34,
+      "en": "Well the connection seems okay and the computer is running normally.",
+      "zh": "好吧，连接似乎正常，计算机运行正常。"
+    },
+    {
+      "id": 136,
+      "start": 454.12,
+      "end": 454.4,
+      "en": "Hmm.",
+      "zh": "嗯。"
+    },
+    {
+      "id": 137,
+      "start": 455.34,
+      "end": 456.52,
+      "en": "Okay, sorry guys.",
+      "zh": "好的，对不起，伙计们。"
+    },
+    {
+      "id": 138,
+      "start": 456.86,
+      "end": 458.22,
+      "en": "Obviously a problem with the system.",
+      "zh": "显然是系统的问题。"
+    },
+    {
+      "id": 139,
+      "start": 458.8,
+      "end": 460.52,
+      "en": "Let's just reboot and start over.",
+      "zh": "让我们重新启动并重新开始。"
+    },
+    {
+      "id": 140,
+      "start": 460.72,
+      "end": 462.3,
+      "en": "Let's see if this resolves the issue.",
+      "zh": "让我们看看这是否解决了这个问题。"
+    },
+    {
+      "id": 141,
+      "start": 465.71,
+      "end": 466.85,
+      "en": "Right, let's try again.",
+      "zh": "对，让我们再试一次。"
+    },
+    {
+      "id": 142,
+      "start": 467.48,
+      "end": 469.11,
+      "en": "No, still nothing, Michael.",
+      "zh": "不，仍然没有，迈克尔。"
+    },
+    {
+      "id": 143,
+      "start": 469.63,
+      "end": 471.55,
+      "en": "There might be a technical issue with the projector.",
+      "zh": "投影机可能存在技术问题。"
+    },
+    {
+      "id": 144,
+      "start": 472.39,
+      "end": 474.13,
+      "en": "I think maybe the projector has overheated.",
+      "zh": "我想可能投影仪过热了。"
+    },
+    {
+      "id": 145,
+      "start": 474.57,
+      "end": 477.29,
+      "en": "We might need to cool it down for 10 minutes and start again.",
+      "zh": "我们可能需要冷却 10 分钟并重新开始。"
+    },
+    {
+      "id": 146,
+      "start": 477.75,
+      "end": 479.55,
+      "en": "I'll call IT support to come over right now.",
+      "zh": "我马上叫 IT 技术支持过来。"
+    },
+    {
+      "id": 147,
+      "start": 480.36,
+      "end": 485.24,
+      "en": "Okay guys, unfortunately technical problems do crop up from time to time, don't they?",
+      "zh": "好吧，伙计们，不幸的是，技术问题会时不时出现，不是吗？"
+    },
+    {
+      "id": 148,
+      "start": 485.66,
+      "end": 487.06,
+      "en": "But it's not a huge problem.",
+      "zh": "但这不是一个大问题。"
+    },
+    {
+      "id": 149,
+      "start": 487.52,
+      "end": 500.72,
+      "en": "In the meantime, while the IT guys get to work on that, I can talk a little bit more about the advertising concept and what we are looking to achieve overall with this campaign.",
+      "zh": "与此同时，当 IT 人员开始努力时，我可以更多地谈论广告概念以及我们希望通过这个活动获得整体目标。"
+    },
+    {
+      "id": 150,
+      "start": 500.72,
+      "end": 504.35,
+      "en": "Alright we're back so now let's take a look at some phrases on Fluency Builder.",
+      "zh": "好吧，我们回来了，所以现在让我们看一下 Fluency Builder 上的一些短语。"
+    },
+    {
+      "id": 151,
+      "start": 506.64,
+      "end": 506.94,
+      "en": "Fluency Builder.",
+      "zh": "流利表达。"
+    },
+    {
+      "id": 152,
+      "start": 508.36,
+      "end": 514.33,
+      "en": "So this first phrase we have is very important, especially when we're using video or a projector in a presentation.",
+      "zh": "所以我们的第一个短语非常重要，尤其是当我们在演示中使用视频或投影仪时。"
+    },
+    {
+      "id": 153,
+      "start": 514.99,
+      "end": 516.65,
+      "en": "We say, let's dim the lights.",
+      "zh": "我们说，让我们调暗灯光。"
+    },
+    {
+      "id": 154,
+      "start": 517.31,
+      "end": 517.65,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 155,
+      "start": 518.52,
+      "end": 520.28,
+      "en": "So we have the verb to dim.",
+      "zh": "所以我们有动词来暗淡。"
+    },
+    {
+      "id": 156,
+      "start": 520.28,
+      "end": 522.99,
+      "en": "So to dim something is to make it darker.",
+      "zh": "所以暗淡的东西就是让它变暗。"
+    },
+    {
+      "id": 157,
+      "start": 524.24,
+      "end": 525.78,
+      "en": "But not turn it off completely.",
+      "zh": "但不要完全关闭它。"
+    },
+    {
+      "id": 158,
+      "start": 526.4,
+      "end": 526.52,
+      "en": "No.",
+      "zh": "不。"
+    },
+    {
+      "id": 159,
+      "start": 527.4,
+      "end": 530.04,
+      "en": "It means maybe to lower the lights.",
+      "zh": "这意味着可能会降低灯光。"
+    },
+    {
+      "id": 160,
+      "start": 531.2,
+      "end": 535.36,
+      "en": "We could actually see this on a computer also when the screen is very, very bright.",
+      "zh": "当屏幕非常非常明亮时，我们实际上也可以在计算机上看到这一点。"
+    },
+    {
+      "id": 161,
+      "start": 535.36,
+      "end": 537.52,
+      "en": "We say, oh it's too bright.",
+      "zh": "我们说，哦，太亮了。"
+    },
+    {
+      "id": 162,
+      "start": 537.8,
+      "end": 539.42,
+      "en": "I need you to dim it a little.",
+      "zh": "我需要你把它调暗一点。"
+    },
+    {
+      "id": 163,
+      "start": 539.6,
+      "end": 540.78,
+      "en": "Make it a little bit darker.",
+      "zh": "让它有点暗。"
+    },
+    {
+      "id": 164,
+      "start": 541.14,
+      "end": 541.34,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 165,
+      "start": 541.98,
+      "end": 547.46,
+      "en": "So you can use this verb to dim to make it a little bit darker or to make it lower in intensity.",
+      "zh": "所以你可以用这个动词调暗以使其更暗或使其强度降低。"
+    },
+    {
+      "id": 166,
+      "start": 548.1,
+      "end": 548.48,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 167,
+      "start": 549.4,
+      "end": 550.4,
+      "en": "Dim the color, dim the lights.",
+      "zh": "调暗颜色，使灯光变暗。"
+    },
+    {
+      "id": 168,
+      "start": 550.4,
+      "end": 552.16,
+      "en": "Alright, very good.",
+      "zh": "好，很好。"
+    },
+    {
+      "id": 169,
+      "start": 552.16,
+      "end": 558.56,
+      "en": "Now Mr. Ford when he was talking about the advert, he said, well it's new and it's not ready yet completely.",
+      "zh": "现在福特先生在谈论广告时，他说，它是新的，它还没有完全准备好。"
+    },
+    {
+      "id": 170,
+      "start": 558.56,
+      "end": 562.24,
+      "en": "So it might seem a bit rough around the edges.",
+      "zh": "所以它的边缘可能看起来有点粗糙。"
+    },
+    {
+      "id": 171,
+      "start": 562.24,
+      "end": 563.24,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 172,
+      "start": 563.24,
+      "end": 567.06,
+      "en": "This is a very, very popular phrase that means that something is incomplete.",
+      "zh": "这是一个非常非常流行的短语，意味着某事是不完整的。"
+    },
+    {
+      "id": 173,
+      "start": 568.24,
+      "end": 569.5,
+      "en": "Maybe it's not perfect yet.",
+      "zh": "也许它还不完美。"
+    },
+    {
+      "id": 174,
+      "start": 569.6,
+      "end": 570.6,
+      "en": "It needs some work.",
+      "zh": "它需要一些工作。"
+    },
+    {
+      "id": 175,
+      "start": 570.66,
+      "end": 570.96,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 176,
+      "start": 571.0,
+      "end": 576.25,
+      "en": "So if maybe you're designing a new website and it's maybe 50% done.",
+      "zh": "因此，如果您正在设计一个新网站，它可能完成了 50%。"
+    },
+    {
+      "id": 177,
+      "start": 576.81,
+      "end": 581.11,
+      "en": "So you say the website is almost finished, but it's still rough around the edges.",
+      "zh": "所以你说网站几乎完成了，但它的边缘仍然很粗糙。"
+    },
+    {
+      "id": 178,
+      "start": 581.34,
+      "end": 583.96,
+      "en": "We need to make some changes to fix it.",
+      "zh": "我们需要做一些改变来修复它。"
+    },
+    {
+      "id": 179,
+      "start": 583.96,
+      "end": 584.15,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 180,
+      "start": 584.96,
+      "end": 589.03,
+      "en": "Rough around the edges is a phrase that is the opposite of the word polished.",
+      "zh": "边缘粗糙是一个与抛光一词相反的短语。"
+    },
+    {
+      "id": 181,
+      "start": 590.2,
+      "end": 593.28,
+      "en": "Something is polished if it's perfect and ready to go.",
+      "zh": "如果它是完美的并且准备就绪，它就会被抛光。"
+    },
+    {
+      "id": 182,
+      "start": 593.28,
+      "end": 594.28,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 183,
+      "start": 594.28,
+      "end": 601.11,
+      "en": "And well, when the technical problem started, Mr. Ford was apologizing and said, hey, look, I'm sorry.",
+      "zh": "好吧，当技术问题开始时，福特先生正在道歉并说，嘿，看，对不起。"
+    },
+    {
+      "id": 184,
+      "start": 601.76,
+      "end": 605.11,
+      "en": "And he also used this interesting phrase, bear with me.",
+      "zh": "他也用了这个有趣的短语，忍受我。"
+    },
+    {
+      "id": 185,
+      "start": 605.48,
+      "end": 606.13,
+      "en": "Bear with me a second.",
+      "zh": "忍受我一秒钟。"
+    },
+    {
+      "id": 186,
+      "start": 606.6,
+      "end": 606.91,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 187,
+      "start": 607.06,
+      "end": 609.27,
+      "en": "So this is interesting because it's not the animal, the bear.",
+      "zh": "所以这很有趣，因为它不是动物，不是熊。"
+    },
+    {
+      "id": 188,
+      "start": 609.45,
+      "end": 609.99,
+      "en": "Right, right.",
+      "zh": "对，对。"
+    },
+    {
+      "id": 189,
+      "start": 610.37,
+      "end": 610.75,
+      "en": "This is different.",
+      "zh": "这是不同的。"
+    },
+    {
+      "id": 190,
+      "start": 611.6,
+      "end": 616.16,
+      "en": "It's more like, excuse me, please be patient.",
+      "zh": "更像，对不起，请耐心等待。"
+    },
+    {
+      "id": 191,
+      "start": 616.24,
+      "end": 618.15,
+      "en": "I have to do something and you have to wait.",
+      "zh": "我必须做点什么，你必须等待。"
+    },
+    {
+      "id": 192,
+      "start": 618.37,
+      "end": 622.83,
+      "en": "So this is a very, very polite way of asking some people or some person to wait for you.",
+      "zh": "所以这是一种非常非常有礼貌的方式，要求一些人或某个人等你。"
+    },
+    {
+      "id": 193,
+      "start": 622.99,
+      "end": 623.39,
+      "en": "To tolerate.",
+      "zh": "容忍。"
+    },
+    {
+      "id": 194,
+      "start": 624.05,
+      "end": 624.31,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 195,
+      "start": 624.65,
+      "end": 629.23,
+      "en": "So both the animal bear and to bear with me are spelled the same way.",
+      "zh": "因此，动物熊和与我一起承受的拼写方式相同。"
+    },
+    {
+      "id": 196,
+      "start": 629.39,
+      "end": 632.31,
+      "en": "It looks exactly like the animal, but we're not talking about the animal.",
+      "zh": "它看起来和动物一模一样，但我们不是在谈论动物。"
+    },
+    {
+      "id": 197,
+      "start": 632.52,
+      "end": 638.0,
+      "en": "No, we're asking someone to tolerate something that's annoying or frustrating.",
+      "zh": "不，我们要求某人容忍烦人或令人沮丧的事情。"
+    },
+    {
+      "id": 198,
+      "start": 638.0,
+      "end": 639.0,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 199,
+      "start": 639.0,
+      "end": 642.45,
+      "en": "For example, I'm trying to show you a file on my computer, Marco.",
+      "zh": "例如，我试图在我的计算机上向您显示一个文件，Marco。"
+    },
+    {
+      "id": 200,
+      "start": 642.96,
+      "end": 643.99,
+      "en": "My computer's not working.",
+      "zh": "我的电脑不工作。"
+    },
+    {
+      "id": 201,
+      "start": 643.99,
+      "end": 645.77,
+      "en": "I say, please bear with me a second.",
+      "zh": "我说，请耐心等待。"
+    },
+    {
+      "id": 202,
+      "start": 645.92,
+      "end": 647.64,
+      "en": "I have to reboot my computer.",
+      "zh": "我必须重新启动我的电脑。"
+    },
+    {
+      "id": 203,
+      "start": 647.64,
+      "end": 649.2,
+      "en": "I have to wait here.",
+      "zh": "我必须在这里等。"
+    },
+    {
+      "id": 204,
+      "start": 649.2,
+      "end": 649.41,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 205,
+      "start": 650.2,
+      "end": 651.2,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 206,
+      "start": 651.2,
+      "end": 662.25,
+      "en": "Now, towards the end of the dialogue, when we talked about to crop up, the second part of that, Mr. Ford said, unfortunately, technical problems do crop up from time to time.",
+      "zh": "现在，在对话快结束时，当我们谈论要出现的第二部分时，福特先生说，不幸的是，技术问题确实时不时出现。"
+    },
+    {
+      "id": 207,
+      "start": 662.47,
+      "end": 664.43,
+      "en": "So we already discussed cropped up.",
+      "zh": "所以我们已经讨论过了。"
+    },
+    {
+      "id": 208,
+      "start": 665.15,
+      "end": 666.35,
+      "en": "What is time to time?",
+      "zh": "什么是时间？"
+    },
+    {
+      "id": 209,
+      "start": 666.72,
+      "end": 667.41,
+      "en": "From time to time.",
+      "zh": "时不时。"
+    },
+    {
+      "id": 210,
+      "start": 667.72,
+      "end": 667.89,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 211,
+      "start": 668.72,
+      "end": 672.92,
+      "en": "So that's a set phrase because we said already that you could also say sometimes.",
+      "zh": "所以这是一个固定的短语，因为我们已经说过你有时也可以说。"
+    },
+    {
+      "id": 212,
+      "start": 672.92,
+      "end": 676.81,
+      "en": "So from time to time means every once in a while or occasionally.",
+      "zh": "所以不时意味着偶尔或偶尔。"
+    },
+    {
+      "id": 213,
+      "start": 678.86,
+      "end": 681.16,
+      "en": "So it's an adverbial phrase.",
+      "zh": "所以这是一个副词短语。"
+    },
+    {
+      "id": 214,
+      "start": 681.16,
+      "end": 685.53,
+      "en": "It's a way of telling people how often something happens, but in this case, it's not very common.",
+      "zh": "这是一种告诉人们某事发生频率的方式，但在这种情况下，这并不常见。"
+    },
+    {
+      "id": 215,
+      "start": 686.26,
+      "end": 689.73,
+      "en": "So for example, you can say, I like to go to the movies from time to time.",
+      "zh": "例如，你可以说，我喜欢不时去看电影。"
+    },
+    {
+      "id": 216,
+      "start": 690.16,
+      "end": 691.16,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 217,
+      "start": 691.16,
+      "end": 693.01,
+      "en": "So maybe once or twice a month, you like to go to the movies.",
+      "zh": "所以也许一个月一次或两次，你喜欢去看电影。"
+    },
+    {
+      "id": 218,
+      "start": 694.36,
+      "end": 696.56,
+      "en": "But what if I come to work every day?",
+      "zh": "但是如果我每天都来上班怎么办？"
+    },
+    {
+      "id": 219,
+      "start": 696.68,
+      "end": 698.28,
+      "en": "Do I come to work from time to time?",
+      "zh": "我会不时来上班吗？"
+    },
+    {
+      "id": 220,
+      "start": 698.28,
+      "end": 699.28,
+      "en": "No.",
+      "zh": "不。"
+    },
+    {
+      "id": 221,
+      "start": 699.28,
+      "end": 700.28,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 222,
+      "start": 700.28,
+      "end": 701.28,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 223,
+      "start": 701.28,
+      "end": 704.36,
+      "en": "So from time to time is rarely or occasionally, not very often.",
+      "zh": "所以不时很少或偶尔，不经常。"
+    },
+    {
+      "id": 224,
+      "start": 704.36,
+      "end": 704.54,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 225,
+      "start": 705.36,
+      "end": 706.36,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 226,
+      "start": 706.36,
+      "end": 707.36,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 227,
+      "start": 707.36,
+      "end": 710.58,
+      "en": "So now let's listen to our dialogue one last time and review everything we've just learned.",
+      "zh": "所以现在让我们最后一次听我们的对话，回顾我们刚刚学到的一切。"
+    },
+    {
+      "id": 228,
+      "start": 715.99,
+      "end": 716.39,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 229,
+      "start": 716.8,
+      "end": 720.35,
+      "en": "So if we could dim the lights, Jonathan, we can kick off with the first TV advert.",
+      "zh": "因此，如果我们可以调暗灯光，乔纳森，我们可以从第一个电视广告开始。"
+    },
+    {
+      "id": 230,
+      "start": 721.2,
+      "end": 725.37,
+      "en": "Please note that we're still in the early days with this advert, so it might seem a bit rough around the edges.",
+      "zh": "请注意，我们仍处于使用此广告的早期阶段，因此边缘可能看起来有点粗糙。"
+    },
+    {
+      "id": 231,
+      "start": 726.0,
+      "end": 726.21,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 232,
+      "start": 726.39,
+      "end": 730.31,
+      "en": "So I just need to click this and the advert should pop up on the screen.",
+      "zh": "所以我只需要点击这个，广告应该会在屏幕上弹出。"
+    },
+    {
+      "id": 233,
+      "start": 730.88,
+      "end": 731.88,
+      "en": "Hmm.",
+      "zh": "嗯。"
+    },
+    {
+      "id": 234,
+      "start": 732.77,
+      "end": 733.45,
+      "en": "Sorry about this.",
+      "zh": "对不起这个。"
+    },
+    {
+      "id": 235,
+      "start": 733.84,
+      "end": 735.24,
+      "en": "Bear with me a second.",
+      "zh": "忍受我一秒钟。"
+    },
+    {
+      "id": 236,
+      "start": 735.24,
+      "end": 738.32,
+      "en": "There seems to be a problem with the projector.",
+      "zh": "投影机似乎有问题。"
+    },
+    {
+      "id": 237,
+      "start": 738.32,
+      "end": 738.59,
+      "en": "Let me see.",
+      "zh": "让我看看。"
+    },
+    {
+      "id": 238,
+      "start": 739.32,
+      "end": 740.91,
+      "en": "Jonathan, could you lend a hand a second?",
+      "zh": "乔纳森，能过来帮一下忙吗？"
+    },
+    {
+      "id": 239,
+      "start": 747.6,
+      "end": 749.89,
+      "en": "It looks like the projector is not recognizing the computer.",
+      "zh": "看起来投影仪无法识别计算机。"
+    },
+    {
+      "id": 240,
+      "start": 751.08,
+      "end": 752.21,
+      "en": "Let me check the connection a second.",
+      "zh": "让我检查一下连接。"
+    },
+    {
+      "id": 241,
+      "start": 753.16,
+      "end": 757.06,
+      "en": "Well, the connection seems okay and the computer is running normally.",
+      "zh": "好吧，连接似乎正常，计算机运行正常。"
+    },
+    {
+      "id": 242,
+      "start": 757.76,
+      "end": 757.98,
+      "en": "Hmm.",
+      "zh": "嗯。"
+    },
+    {
+      "id": 243,
+      "start": 758.95,
+      "end": 759.51,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 244,
+      "start": 759.73,
+      "end": 760.17,
+      "en": "Sorry, guys.",
+      "zh": "对不起，伙计们。"
+    },
+    {
+      "id": 245,
+      "start": 760.49,
+      "end": 761.83,
+      "en": "Obviously a problem with the system.",
+      "zh": "显然是系统的问题。"
+    },
+    {
+      "id": 246,
+      "start": 762.51,
+      "end": 764.15,
+      "en": "Let's just reboot and start over.",
+      "zh": "让我们重新启动并重新开始。"
+    },
+    {
+      "id": 247,
+      "start": 764.39,
+      "end": 765.97,
+      "en": "Let's see if this resolves the issue.",
+      "zh": "让我们看看这是否解决了这个问题。"
+    },
+    {
+      "id": 248,
+      "start": 769.38,
+      "end": 769.82,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 249,
+      "start": 770.08,
+      "end": 770.52,
+      "en": "Let's try again.",
+      "zh": "让我们再试一次。"
+    },
+    {
+      "id": 250,
+      "start": 771.08,
+      "end": 772.78,
+      "en": "No, still nothing, Michael.",
+      "zh": "不，仍然没有，迈克尔。"
+    },
+    {
+      "id": 251,
+      "start": 773.36,
+      "end": 775.2,
+      "en": "There might be a technical issue with the projector.",
+      "zh": "投影机可能存在技术问题。"
+    },
+    {
+      "id": 252,
+      "start": 776.08,
+      "end": 777.78,
+      "en": "I think maybe the projector has overheated.",
+      "zh": "我想可能投影仪过热了。"
+    },
+    {
+      "id": 253,
+      "start": 778.22,
+      "end": 780.96,
+      "en": "We might need to cool it down for 10 minutes and start again.",
+      "zh": "我们可能需要冷却 10 分钟并重新开始。"
+    },
+    {
+      "id": 254,
+      "start": 781.44,
+      "end": 783.2,
+      "en": "I'll call IT support to come over right now.",
+      "zh": "我马上叫 IT 技术支持过来。"
+    },
+    {
+      "id": 255,
+      "start": 784.02,
+      "end": 784.7,
+      "en": "Okay, guys.",
+      "zh": "好吧，伙计们。"
+    },
+    {
+      "id": 256,
+      "start": 785.46,
+      "end": 788.9,
+      "en": "Unfortunately, technical problems do crop up from time to time, don't they?",
+      "zh": "不幸的是，技术问题会不时出现，不是吗？"
+    },
+    {
+      "id": 257,
+      "start": 789.31,
+      "end": 790.69,
+      "en": "But it's not a huge problem.",
+      "zh": "但这不是一个大问题。"
+    },
+    {
+      "id": 258,
+      "start": 791.16,
+      "end": 801.24,
+      "en": "In the meantime, while the IT guys get to work on that, I can talk a little bit more about the advertising concept and what we're looking to achieve overall with this campaign.",
+      "zh": "与此同时，当 IT 人员开始努力时，我可以更多地谈论广告概念以及我们希望通过这个活动获得整体目标。"
+    },
+    {
+      "id": 259,
+      "start": 801.24,
+      "end": 804.96,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 260,
+      "start": 804.96,
+      "end": 808.02,
+      "en": "So this was part seven of our presentation series.",
+      "zh": "所以这是我们演讲系列的第七部分。"
+    },
+    {
+      "id": 261,
+      "start": 808.26,
+      "end": 814.88,
+      "en": "And actually, these type of problems occur very, very often, specifically with the laptop and the projector.",
+      "zh": "实际上，这些类型的问题经常发生，特别是在笔记本电脑和投影仪上。"
+    },
+    {
+      "id": 262,
+      "start": 815.32,
+      "end": 816.72,
+      "en": "And sometimes it doesn't work.",
+      "zh": "有时它不起作用。"
+    },
+    {
+      "id": 263,
+      "start": 816.72,
+      "end": 817.94,
+      "en": "It doesn't recognize it.",
+      "zh": "它不认识它。"
+    },
+    {
+      "id": 264,
+      "start": 818.6,
+      "end": 820.44,
+      "en": "And so this is a nice way of handling it.",
+      "zh": "所以这是一种很好的处理方式。"
+    },
+    {
+      "id": 265,
+      "start": 820.74,
+      "end": 821.1,
+      "en": "This is.",
+      "zh": "这是。"
+    },
+    {
+      "id": 266,
+      "start": 821.1,
+      "end": 824.6,
+      "en": "And we hope that these are phrases that you can use in your daily life as well.",
+      "zh": "我们希望这些短语也可以在您的日常生活中使用。"
+    },
+    {
+      "id": 267,
+      "start": 824.96,
+      "end": 828.32,
+      "en": "Maybe you're working with your colleagues and you're having some technical problems.",
+      "zh": "也许您正在与您的同事一起工作，并且您遇到了一些技术问题。"
+    },
+    {
+      "id": 268,
+      "start": 828.32,
+      "end": 832.36,
+      "en": "Or if you're having a problem and someone gives you instructions for how to solve that problem.",
+      "zh": "或者，如果您遇到问题并且有人为您提供如何解决该问题的说明。"
+    },
+    {
+      "id": 269,
+      "start": 833.48,
+      "end": 835.1,
+      "en": "Like, I often get this from my technical team.",
+      "zh": "就像，我经常从我的技术团队那里得到这个。"
+    },
+    {
+      "id": 270,
+      "start": 835.2,
+      "end": 836.28,
+      "en": "I say, listen, I have a problem.",
+      "zh": "我说，听着，我有问题。"
+    },
+    {
+      "id": 271,
+      "start": 836.64,
+      "end": 839.97,
+      "en": "And they say, hey, just reboot your computer and it will be okay.",
+      "zh": "他们说，嘿，只需重新启动您的计算机，就可以了。"
+    },
+    {
+      "id": 272,
+      "start": 840.24,
+      "end": 847.6,
+      "en": "So these are very, very common issues that I think that you can learn how to describe in English with today's lesson.",
+      "zh": "所以这些都是非常非常常见的问题，我认为您可以通过今天的课程学习如何用英语来描述。"
+    },
+    {
+      "id": 273,
+      "start": 847.6,
+      "end": 847.77,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 274,
+      "start": 848.6,
+      "end": 849.6,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 275,
+      "start": 849.6,
+      "end": 855.92,
+      "en": "And of course, if you guys have any questions or any doubts about this or any of our lessons, please come to our website EnglishPod.com.",
+      "zh": "当然，如果你们对本课程或我们的任何课程有任何疑问或疑问，请访问我们的网站 englishpod.com。"
+    },
+    {
+      "id": 276,
+      "start": 855.92,
+      "end": 858.23,
+      "en": "On the lessons page, you can leave your comments and questions.",
+      "zh": "在课程页面上，您可以留下您的评论和问题。"
+    },
+    {
+      "id": 277,
+      "start": 859.12,
+      "end": 860.11,
+      "en": "And we'll see you guys next time.",
+      "zh": "我们下次再见。"
+    },
+    {
+      "id": 278,
+      "start": 860.39,
+      "end": 860.53,
+      "en": "Bye.",
+      "zh": "再见。"
+    }
+  ],
+  "dialog": {
+    "start": 34.67,
+    "end": 117.69,
+    "segmentIds": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37
+    ]
+  }
+}

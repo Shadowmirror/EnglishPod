@@ -1,0 +1,2209 @@
+{
+  "version": 1,
+  "id": 257,
+  "number": "0257",
+  "title": "Global View - The World Cup",
+  "audio": "mp3/257. Global View - The World Cup.mp3",
+  "duration": 1050.5404375,
+  "segments": [
+    {
+      "id": 1,
+      "start": 2.16,
+      "end": 4.52,
+      "en": "Hello everybody and welcome to EnglishPod.",
+      "zh": "大家好，欢迎来到 Englishpod。"
+    },
+    {
+      "id": 2,
+      "start": 4.88,
+      "end": 5.32,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 5.8,
+      "end": 10.12,
+      "en": "My name is Catherine and we hope by now you're very excited about football or soccer.",
+      "zh": "我的名字是凯瑟琳，我们希望你现在对足球或足球感到非常兴奋。"
+    },
+    {
+      "id": 4,
+      "start": 10.8,
+      "end": 16.72,
+      "en": "This is the World Cup time of year so this comes every four years actually and we've got a lesson all about it.",
+      "zh": "这是一年中的世界杯时间，所以这实际上每四年出现一次，我们有一个关于它的教训。"
+    },
+    {
+      "id": 5,
+      "start": 16.86,
+      "end": 17.4,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 6,
+      "start": 18.18,
+      "end": 28.79,
+      "en": "So as everyone may or may not have heard, we are actually in the middle of the World Cup and as you say it's a football or soccer competition.",
+      "zh": "所以每个人都可能听说过，也可能没有听说过，我们实际上正处于世界杯的中间，正如你所说，这是一场足球或足球比赛。"
+    },
+    {
+      "id": 7,
+      "start": 29.08,
+      "end": 33.26,
+      "en": "Now soccer is only used in the United States.",
+      "zh": "现在足球只在美国使用。"
+    },
+    {
+      "id": 8,
+      "start": 33.26,
+      "end": 34.26,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 9,
+      "start": 34.26,
+      "end": 40.31,
+      "en": "It's used in the United States although football can be confusing in a place like Australia where they have two different games that are called football.",
+      "zh": "它在美国使用，尽管在澳大利亚这样的地方，足球可能会令人困惑，他们有两场不同的比赛，称为足球。"
+    },
+    {
+      "id": 10,
+      "start": 40.92,
+      "end": 41.92,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 11,
+      "start": 41.92,
+      "end": 48.61,
+      "en": "So it's a little bit difficult at times to tell someone that you play football and they think you play American football or Australian football or soccer.",
+      "zh": "所以有时很难告诉别人你踢足球，他们认为你踢美式足球、澳大利亚足球或足球。"
+    },
+    {
+      "id": 12,
+      "start": 49.08,
+      "end": 50.77,
+      "en": "So it's a little bit confusing.",
+      "zh": "所以有点混乱。"
+    },
+    {
+      "id": 13,
+      "start": 51.12,
+      "end": 52.12,
+      "en": "It can be, yeah.",
+      "zh": "可以，是的。"
+    },
+    {
+      "id": 14,
+      "start": 52.17,
+      "end": 52.41,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 15,
+      "start": 52.43,
+      "end": 54.37,
+      "en": "So we have a great lesson all about the World Cup.",
+      "zh": "所以我们有一个关于世界杯的重要教训。"
+    },
+    {
+      "id": 16,
+      "start": 54.49,
+      "end": 58.25,
+      "en": "We're going to explain a little bit and so let's listen to the dialogue for the very first time.",
+      "zh": "我们将稍微解释一下，所以让我们第一次听对话。"
+    },
+    {
+      "id": 17,
+      "start": 67.66,
+      "end": 68.6,
+      "en": "What are you doing?",
+      "zh": "你在做什么？"
+    },
+    {
+      "id": 18,
+      "start": 69.1,
+      "end": 69.76,
+      "en": "What am I doing?",
+      "zh": "我在做什么？"
+    },
+    {
+      "id": 19,
+      "start": 70.22,
+      "end": 70.74,
+      "en": "What am I doing?",
+      "zh": "我在做什么？"
+    },
+    {
+      "id": 20,
+      "start": 71.14,
+      "end": 72.18,
+      "en": "Don't you know what day it is?",
+      "zh": "你不知道今天是什么日子吗？"
+    },
+    {
+      "id": 21,
+      "start": 73.28,
+      "end": 74.22,
+      "en": "Um, no.",
+      "zh": "嗯，不是。"
+    },
+    {
+      "id": 22,
+      "start": 75.24,
+      "end": 78.32,
+      "en": "It's only the day when the world's biggest sporting event is kicking off.",
+      "zh": "今天可是世界上最大体育赛事开幕的日子！"
+    },
+    {
+      "id": 23,
+      "start": 79.0,
+      "end": 80.0,
+      "en": "What?",
+      "zh": "什么？"
+    },
+    {
+      "id": 24,
+      "start": 80.0,
+      "end": 80.36,
+      "en": "The World Cup.",
+      "zh": "世界杯。"
+    },
+    {
+      "id": 25,
+      "start": 81.0,
+      "end": 81.6,
+      "en": "The first match is today.",
+      "zh": "第一场比赛是今天。"
+    },
+    {
+      "id": 26,
+      "start": 82.0,
+      "end": 83.38,
+      "en": "It's Mexico versus South Africa.",
+      "zh": "这是墨西哥与南非。"
+    },
+    {
+      "id": 27,
+      "start": 84.08,
+      "end": 85.42,
+      "en": "It's going to be a really good match.",
+      "zh": "这将是一场非常好的比赛。"
+    },
+    {
+      "id": 28,
+      "start": 86.16,
+      "end": 89.32,
+      "en": "Both teams have a very strong offense and have skilled players.",
+      "zh": "两支球队的进攻都非常强大，并且有熟练的球员。"
+    },
+    {
+      "id": 29,
+      "start": 89.38,
+      "end": 93.14,
+      "en": "I think that South Africa will probably dominate the first half since they are the host country and all.",
+      "zh": "我觉得南非队在上半场可能会占上风，毕竟他们是东道主。"
+    },
+    {
+      "id": 30,
+      "start": 93.56,
+      "end": 95.84,
+      "en": "I have no idea what you're talking about.",
+      "zh": "我完全不知道你在说什么。"
+    },
+    {
+      "id": 31,
+      "start": 96.3,
+      "end": 99.08,
+      "en": "The only sporting event we watch at home is the Super Bowl.",
+      "zh": "我们在家中观看的唯一体育赛事是超级碗。"
+    },
+    {
+      "id": 32,
+      "start": 99.64,
+      "end": 101.6,
+      "en": "This is bigger than the Super Bowl, man.",
+      "zh": "这比超级碗还大，伙计。"
+    },
+    {
+      "id": 33,
+      "start": 102.02,
+      "end": 106.26,
+      "en": "Teams from 32 countries compete against each other every four years and fight to win that trophy.",
+      "zh": "来自 32 个国家/地区的球队每四年相互竞争，并为赢得奖杯而战。"
+    },
+    {
+      "id": 34,
+      "start": 107.2,
+      "end": 111.4,
+      "en": "They first start in a group stage with eight groups, each group having four teams.",
+      "zh": "他们首先在小组赛阶段开始，有八个小组，每组有四支球队。"
+    },
+    {
+      "id": 35,
+      "start": 111.4,
+      "end": 116.28,
+      "en": "The top two teams pass on to an elimination stage before going on to the semifinals and the quarterfinals.",
+      "zh": "前两支球队在进入半决赛和四分之一决赛之前进入淘汰赛阶段。"
+    },
+    {
+      "id": 36,
+      "start": 117.64,
+      "end": 120.92,
+      "en": "Sounds interesting, but soccer doesn't really appeal to me.",
+      "zh": "听起来很有趣，但足球并没有真正吸引我。"
+    },
+    {
+      "id": 37,
+      "start": 121.6,
+      "end": 122.0,
+      "en": "Are you kidding?",
+      "zh": "你开玩笑吧？"
+    },
+    {
+      "id": 38,
+      "start": 122.6,
+      "end": 126.04,
+      "en": "Over 700 million people watched the final match of the 2006 World Cup.",
+      "zh": "超过 7 亿人观看了 2006 年世界杯的最后一场比赛。"
+    },
+    {
+      "id": 39,
+      "start": 126.6,
+      "end": 128.52,
+      "en": "It's a very exciting and nerve-wracking sport.",
+      "zh": "这项运动非常刺激，让人紧张得心都悬起来。"
+    },
+    {
+      "id": 40,
+      "start": 129.52,
+      "end": 132.76,
+      "en": "Each nation is cheering on their team, hoping they will become the next champion.",
+      "zh": "每个国家都在为他们的球队欢呼，希望他们能成为下一个冠军。"
+    },
+    {
+      "id": 41,
+      "start": 133.48,
+      "end": 136.32,
+      "en": "So far, Brazil is the team with the most titles under their belt.",
+      "zh": "到目前为止，巴西是拥有最多冠军头衔的球队。"
+    },
+    {
+      "id": 42,
+      "start": 136.32,
+      "end": 137.02,
+      "en": "They're really good.",
+      "zh": "真的很不错。"
+    },
+    {
+      "id": 43,
+      "start": 137.38,
+      "end": 145.48,
+      "en": "All I know about soccer is that you can't use your hands and that players are always falling down trying to get a free kick or penalty kick.",
+      "zh": "我对足球的了解是，你不能用手，球员总是摔倒，试图获得任意球或点球。"
+    },
+    {
+      "id": 44,
+      "start": 146.22,
+      "end": 147.98,
+      "en": "It seems like a sissy sport to me.",
+      "zh": "对我来说，这似乎是一项娘娘腔的运动。"
+    },
+    {
+      "id": 45,
+      "start": 148.36,
+      "end": 148.6,
+      "en": "Whatever.",
+      "zh": "随便吧。"
+    },
+    {
+      "id": 46,
+      "start": 149.02,
+      "end": 150.36,
+      "en": "I'm going to go watch the opening match.",
+      "zh": "我要去看首场比赛。"
+    },
+    {
+      "id": 47,
+      "start": 159.86,
+      "end": 160.56,
+      "en": "All right, we're back.",
+      "zh": "好了，我们回来了。"
+    },
+    {
+      "id": 48,
+      "start": 160.76,
+      "end": 165.68,
+      "en": "So obviously, two people discussing or fighting over the World Cup and soccer.",
+      "zh": "很明显，有两个人在讨论或争夺世界杯和足球。"
+    },
+    {
+      "id": 49,
+      "start": 166.12,
+      "end": 168.0,
+      "en": "One of them doesn't really like it.",
+      "zh": "其中之一并不喜欢它。"
+    },
+    {
+      "id": 50,
+      "start": 168.0,
+      "end": 172.16,
+      "en": "But he came up with some really interesting points and explained a couple of interesting things.",
+      "zh": "但他想出了一些非常有趣的观点，并解释了一些有趣的事情。"
+    },
+    {
+      "id": 51,
+      "start": 173.12,
+      "end": 175.26,
+      "en": "So let's take a look at some of that vocab on Language Takeaway.",
+      "zh": "所以让我们来看看一些关于语言外卖的词汇。"
+    },
+    {
+      "id": 52,
+      "start": 178.36,
+      "end": 179.36,
+      "en": "Language Takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 53,
+      "start": 179.36,
+      "end": 183.28,
+      "en": "So, okay, the very first phrase here is a very important one.",
+      "zh": "所以，好吧，这里的第一个短语是一个非常重要的短语。"
+    },
+    {
+      "id": 54,
+      "start": 183.28,
+      "end": 184.38,
+      "en": "We're talking about sports.",
+      "zh": "我们在谈论体育。"
+    },
+    {
+      "id": 55,
+      "start": 185.32,
+      "end": 187.34,
+      "en": "This game is called a sporting event.",
+      "zh": "这个游戏被称为体育赛事。"
+    },
+    {
+      "id": 56,
+      "start": 187.54,
+      "end": 187.88,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 57,
+      "start": 188.12,
+      "end": 198.2,
+      "en": "So a sporting event is an event, I guess you would say is a performance or something that happens occasionally, but related to sports.",
+      "zh": "所以体育赛事是一个赛事，我想你会说是表演或偶尔发生的事情，但与体育有关。"
+    },
+    {
+      "id": 58,
+      "start": 198.64,
+      "end": 199.08,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 59,
+      "start": 199.3,
+      "end": 202.06,
+      "en": "So an event can be a game itself or a tournament.",
+      "zh": "因此，事件可以是游戏本身或锦标赛。"
+    },
+    {
+      "id": 60,
+      "start": 202.82,
+      "end": 209.32,
+      "en": "You've heard maybe of well, the UEFA Cup, that's the European Federation of Football or whatever it is.",
+      "zh": "你可能听说过，欧洲足联杯，那是欧洲足球联合会或其他任何东西。"
+    },
+    {
+      "id": 61,
+      "start": 209.78,
+      "end": 212.42,
+      "en": "So basically, you have this tournament for European soccer teams.",
+      "zh": "所以基本上，你有这个欧洲足球队的比赛。"
+    },
+    {
+      "id": 62,
+      "start": 213.08,
+      "end": 217.42,
+      "en": "But the World Cup is also an event and a very important game could also be an event.",
+      "zh": "但世界杯也是一个赛事，一场非常重要的比赛也可能是一个赛事。"
+    },
+    {
+      "id": 63,
+      "start": 217.6,
+      "end": 220.08,
+      "en": "So this basically means a sporting match or a sporting competition.",
+      "zh": "所以这基本上意味着体育比赛或体育比赛。"
+    },
+    {
+      "id": 64,
+      "start": 220.8,
+      "end": 221.08,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 65,
+      "start": 221.22,
+      "end": 225.16,
+      "en": "Now it may sound confusing as to why you put the ing in sport.",
+      "zh": "现在可能听起来令人困惑，为什么你将 ing 放在运动中。"
+    },
+    {
+      "id": 66,
+      "start": 225.34,
+      "end": 235.16,
+      "en": "It should be maybe sports event or sport event, but I'm not really sure why we add the gerund to sporting event.",
+      "zh": "它可能是体育赛事或体育赛事，但我不确定我们为什么要将动名度添加到体育赛事中。"
+    },
+    {
+      "id": 67,
+      "start": 235.16,
+      "end": 236.15,
+      "en": "We always just say it this way.",
+      "zh": "我们总是这样说。"
+    },
+    {
+      "id": 68,
+      "start": 236.37,
+      "end": 237.41,
+      "en": "It's a set phrase.",
+      "zh": "这是一个固定的短语。"
+    },
+    {
+      "id": 69,
+      "start": 237.84,
+      "end": 239.96,
+      "en": "So let's remember that it's sporting event.",
+      "zh": "所以让我们记住这是体育赛事。"
+    },
+    {
+      "id": 70,
+      "start": 239.96,
+      "end": 242.91,
+      "en": "This is the world's most important sporting event, for example.",
+      "zh": "例如，这是世界上最重要的体育赛事。"
+    },
+    {
+      "id": 71,
+      "start": 243.2,
+      "end": 244.56,
+      "en": "Okay, very good.",
+      "zh": "好，很好。"
+    },
+    {
+      "id": 72,
+      "start": 244.56,
+      "end": 254.59,
+      "en": "Now we went and we talked about the first match, Mexico versus South Africa, and they're talking about the teams and how they both have a very strong offense.",
+      "zh": "现在我们去了，我们谈到了第一场比赛，墨西哥对南非，他们正在谈论球队以及他们如何拥有非常强大的进攻。"
+    },
+    {
+      "id": 73,
+      "start": 255.36,
+      "end": 259.48,
+      "en": "Okay, so offense is a part of the team.",
+      "zh": "好的，所以进攻是球队的一部分。"
+    },
+    {
+      "id": 74,
+      "start": 259.48,
+      "end": 262.91,
+      "en": "Basically it's a group of players who are trying to score.",
+      "zh": "基本上，这是一群试图得分的球员。"
+    },
+    {
+      "id": 75,
+      "start": 263.6,
+      "end": 263.73,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 76,
+      "start": 264.6,
+      "end": 267.53,
+      "en": "Okay, so when you're good at offense, it means you're good at scoring.",
+      "zh": "好吧，所以当你擅长进攻时，这意味着你擅长得分。"
+    },
+    {
+      "id": 77,
+      "start": 268.56,
+      "end": 269.95,
+      "en": "And the opposite of offense is what?",
+      "zh": "进攻的反面是什么？"
+    },
+    {
+      "id": 78,
+      "start": 270.84,
+      "end": 271.84,
+      "en": "Defense.",
+      "zh": "防御。"
+    },
+    {
+      "id": 79,
+      "start": 271.84,
+      "end": 272.84,
+      "en": "Defense.",
+      "zh": "防御。"
+    },
+    {
+      "id": 80,
+      "start": 272.84,
+      "end": 274.76,
+      "en": "So offense, defense.",
+      "zh": "所以进攻，防守。"
+    },
+    {
+      "id": 81,
+      "start": 274.76,
+      "end": 277.46,
+      "en": "You can say they have a very strong defense.",
+      "zh": "你可以说他们有非常强大的防守。"
+    },
+    {
+      "id": 82,
+      "start": 277.84,
+      "end": 283.66,
+      "en": "That means that it's very hard to score against them because their defenders, their goalies, they're all very strong.",
+      "zh": "这意味着很难对抗他们，因为他们的防守者，他们的守门员，他们都非常强大。"
+    },
+    {
+      "id": 83,
+      "start": 283.84,
+      "end": 284.3,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 84,
+      "start": 284.68,
+      "end": 289.9,
+      "en": "So we're talking about an offense and a defense, both very important parts of a team.",
+      "zh": "所以我们谈论的是进攻和防守，这两个球队都非常重要。"
+    },
+    {
+      "id": 85,
+      "start": 290.74,
+      "end": 297.72,
+      "en": "And so the guy continued and made a little bit of a prediction saying that South Africa will probably dominate the first half.",
+      "zh": "所以这家伙继续说，南非可能会在上半场占据主导地位。"
+    },
+    {
+      "id": 86,
+      "start": 298.3,
+      "end": 301.94,
+      "en": "Okay, so you know that football matches are split into halves.",
+      "zh": "好的，所以你知道足球比赛被分成两半。"
+    },
+    {
+      "id": 87,
+      "start": 302.24,
+      "end": 304.26,
+      "en": "You have first half and second half.",
+      "zh": "你有上半场和下半场。"
+    },
+    {
+      "id": 88,
+      "start": 304.26,
+      "end": 307.44,
+      "en": "To dominate here means to be stronger than someone else.",
+      "zh": "在这里统治意味着比其他人更强大。"
+    },
+    {
+      "id": 89,
+      "start": 308.48,
+      "end": 316.56,
+      "en": "So to control the ball or to have possession or to be the one that is the strongest team on the field.",
+      "zh": "所以要控制球或拥有控球权或成为场上最强的球队之一。"
+    },
+    {
+      "id": 90,
+      "start": 317.2,
+      "end": 318.2,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 91,
+      "start": 318.2,
+      "end": 322.9,
+      "en": "So you can dominate by having a very strong defense or you can dominate by having a very strong offense or both.",
+      "zh": "因此，您可以通过非常强大的防守来统治，或者您可以通过非常强大的进攻或两者兼而有之。"
+    },
+    {
+      "id": 92,
+      "start": 323.78,
+      "end": 325.08,
+      "en": "Dominate means be stronger than.",
+      "zh": "支配意味着比它更强大。"
+    },
+    {
+      "id": 93,
+      "start": 325.64,
+      "end": 325.94,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 94,
+      "start": 326.64,
+      "end": 330.62,
+      "en": "Okay, now let's move on to the other guy who doesn't really like soccer.",
+      "zh": "好吧，现在让我们转向另一个不太喜欢足球的人。"
+    },
+    {
+      "id": 95,
+      "start": 331.62,
+      "end": 333.84,
+      "en": "And he says, I have no idea what you're talking about.",
+      "zh": "他说，我不知道你在说什么。"
+    },
+    {
+      "id": 96,
+      "start": 333.94,
+      "end": 336.58,
+      "en": "All I know is that I watch the Super Bowl.",
+      "zh": "我只知道我看超级碗。"
+    },
+    {
+      "id": 97,
+      "start": 336.98,
+      "end": 340.44,
+      "en": "Okay, now this is a very American thing, the Super Bowl.",
+      "zh": "好吧，现在这是一个非常美国的事情，超级碗。"
+    },
+    {
+      "id": 98,
+      "start": 340.64,
+      "end": 340.9,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 99,
+      "start": 341.12,
+      "end": 345.28,
+      "en": "We mentioned earlier that in America, most people call the game soccer, not football.",
+      "zh": "我们之前提到过，在美国，大多数人称足球为足球，而不是足球。"
+    },
+    {
+      "id": 100,
+      "start": 345.44,
+      "end": 348.68,
+      "en": "Well, that's because in America, we have a different game called football.",
+      "zh": "嗯，那是因为在美国，我们有一个不同的游戏叫做足球。"
+    },
+    {
+      "id": 101,
+      "start": 348.68,
+      "end": 348.84,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 102,
+      "start": 349.68,
+      "end": 353.16,
+      "en": "And so the Super Bowl is like the most important game in the football world.",
+      "zh": "所以超级碗就像足球界最重要的比赛。"
+    },
+    {
+      "id": 103,
+      "start": 353.44,
+      "end": 356.92,
+      "en": "It's the game that happens every year at the very end of the season.",
+      "zh": "这是每年赛季末发生的比赛。"
+    },
+    {
+      "id": 104,
+      "start": 357.22,
+      "end": 357.72,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 105,
+      "start": 358.04,
+      "end": 361.52,
+      "en": "So this is what we usually call American football.",
+      "zh": "所以这就是我们通常所说的美式足球。"
+    },
+    {
+      "id": 106,
+      "start": 362.36,
+      "end": 364.78,
+      "en": "So you've probably seen it on TV as well.",
+      "zh": "所以你可能也在电视上看到过。"
+    },
+    {
+      "id": 107,
+      "start": 365.0,
+      "end": 370.82,
+      "en": "And the Super Bowl is basically the name of the final sporting event of American football.",
+      "zh": "超级碗基本上是美式足球最后一场体育赛事的名称。"
+    },
+    {
+      "id": 108,
+      "start": 371.12,
+      "end": 374.56,
+      "en": "Just like we have World Cup, we have the Super Bowl.",
+      "zh": "就像我们有世界杯一样，我们有超级碗。"
+    },
+    {
+      "id": 109,
+      "start": 374.92,
+      "end": 377.5,
+      "en": "And the winner of the Super Bowl is the best team that year.",
+      "zh": "超级碗的获胜者是当年最好的球队。"
+    },
+    {
+      "id": 110,
+      "start": 377.7,
+      "end": 378.2,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 111,
+      "start": 379.0,
+      "end": 384.24,
+      "en": "All right, so now let's go on to explain a little bit about how the World Cup works.",
+      "zh": "好吧，现在让我们继续解释一下世界杯的运作方式。"
+    },
+    {
+      "id": 112,
+      "start": 384.24,
+      "end": 388.0,
+      "en": "The guy went on to explain that there are 32 countries competing.",
+      "zh": "这家伙继续解释说有 32 个国家竞争。"
+    },
+    {
+      "id": 113,
+      "start": 388.98,
+      "end": 396.0,
+      "en": "And basically, we have three parts, an elimination stage, a semifinals, and quarterfinals.",
+      "zh": "基本上，我们有三个部分，一个淘汰赛阶段、半决赛和四分之一决赛。"
+    },
+    {
+      "id": 114,
+      "start": 396.14,
+      "end": 404.17,
+      "en": "Okay, so basically, this describes the different levels because obviously, 32 teams can't compete for one trophy at first.",
+      "zh": "好的，所以基本上，这描述了不同的级别，因为显然，32 支球队一开始不能争夺一个奖杯。"
+    },
+    {
+      "id": 115,
+      "start": 404.55,
+      "end": 407.13,
+      "en": "You have to make the numbers smaller.",
+      "zh": "你必须使数字更小。"
+    },
+    {
+      "id": 116,
+      "start": 407.67,
+      "end": 411.21,
+      "en": "So 32 becomes 16, becomes 8, becomes 4, becomes 2.",
+      "zh": "32变成16，变成8，变成4，变成2。"
+    },
+    {
+      "id": 117,
+      "start": 411.41,
+      "end": 411.67,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 118,
+      "start": 412.56,
+      "end": 414.12,
+      "en": "And so we have different groups for these.",
+      "zh": "所以我们有不同的群体来做这些。"
+    },
+    {
+      "id": 119,
+      "start": 414.12,
+      "end": 417.89,
+      "en": "The first one is the elimination stage when some teams lose and they go home.",
+      "zh": "第一个是一些球队输球并回家的淘汰赛阶段。"
+    },
+    {
+      "id": 120,
+      "start": 418.56,
+      "end": 419.56,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 121,
+      "start": 419.56,
+      "end": 420.84,
+      "en": "And after that, then we have a quarterfinals.",
+      "zh": "在那之后，我们有四分之一决赛。"
+    },
+    {
+      "id": 122,
+      "start": 420.84,
+      "end": 422.36,
+      "en": "So what is quarterfinals?",
+      "zh": "那么什么是四分之一决赛呢？"
+    },
+    {
+      "id": 123,
+      "start": 422.36,
+      "end": 428.93,
+      "en": "The quarterfinals are when you have eight teams that are basically the top eight teams of the competition.",
+      "zh": "四分之一决赛是当你有八支球队基本上是比赛的前八名球队时。"
+    },
+    {
+      "id": 124,
+      "start": 429.92,
+      "end": 431.91,
+      "en": "And they will play against one other opponent.",
+      "zh": "他们将与另一位对手比赛。"
+    },
+    {
+      "id": 125,
+      "start": 432.58,
+      "end": 436.68,
+      "en": "So the winner passes on to the next stage, which would be the semifinals.",
+      "zh": "所以获胜者进入下一个阶段，这将是半决赛。"
+    },
+    {
+      "id": 126,
+      "start": 437.69,
+      "end": 440.47,
+      "en": "Well, the math makes sense because quarter has to do with four, right?",
+      "zh": "好吧，数学是有道理的，因为四分之一与四个有关，对吧？"
+    },
+    {
+      "id": 127,
+      "start": 441.04,
+      "end": 444.98,
+      "en": "So in the quarterfinals, eight teams become four.",
+      "zh": "所以在四分之一决赛中，八支球队变成了四支球队。"
+    },
+    {
+      "id": 128,
+      "start": 444.98,
+      "end": 447.95,
+      "en": "And in the semifinals, four teams become two.",
+      "zh": "在半决赛中，四支球队变成了两支球队。"
+    },
+    {
+      "id": 129,
+      "start": 448.48,
+      "end": 448.64,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 130,
+      "start": 449.48,
+      "end": 450.76,
+      "en": "And then what happens after the semifinals?",
+      "zh": "那么半决赛后会发生什么？"
+    },
+    {
+      "id": 131,
+      "start": 450.76,
+      "end": 456.36,
+      "en": "And then we have the final, where basically the two top teams will compete against each other and there will be one champion.",
+      "zh": "然后我们有决赛，基本上两支顶级球队将相互竞争，并且将有一名冠军。"
+    },
+    {
+      "id": 132,
+      "start": 456.74,
+      "end": 456.9,
+      "en": "USA!",
+      "zh": "美国！"
+    },
+    {
+      "id": 133,
+      "start": 457.6,
+      "end": 458.0,
+      "en": "USA!",
+      "zh": "美国！"
+    },
+    {
+      "id": 134,
+      "start": 458.44,
+      "end": 460.16,
+      "en": "And this is when it gets very nationalistic.",
+      "zh": "这就是它变得非常民族主义的时候。"
+    },
+    {
+      "id": 135,
+      "start": 460.38,
+      "end": 461.6,
+      "en": "People are very proud of their countries.",
+      "zh": "人们为他们的国家感到非常自豪。"
+    },
+    {
+      "id": 136,
+      "start": 461.8,
+      "end": 462.72,
+      "en": "Of course, of course.",
+      "zh": "当然，当然。"
+    },
+    {
+      "id": 137,
+      "start": 463.26,
+      "end": 467.96,
+      "en": "And so this basically is what happens and how we get our champion.",
+      "zh": "所以这基本上就是发生的事情以及我们如何获得冠军。"
+    },
+    {
+      "id": 138,
+      "start": 468.68,
+      "end": 479.2,
+      "en": "And well, now let's explain a little bit very quickly about two things that happen in the game during gameplay when we have a free kick and a penalty kick.",
+      "zh": "好吧，现在让我们快速解释一下游戏中发生的两件事，当时我们有一个任意球和一个点球。"
+    },
+    {
+      "id": 139,
+      "start": 479.91,
+      "end": 482.29,
+      "en": "Okay, so a kick, you know, you just kick the ball.",
+      "zh": "好吧，踢球，你知道，你只是踢球。"
+    },
+    {
+      "id": 140,
+      "start": 482.65,
+      "end": 491.35,
+      "en": "But sometimes when the ball goes out of bounds or when a player is injured or there's a foul, then that player or his teammate can take a special kick.",
+      "zh": "但有时当球出界或球员受伤或犯规时，球员或队友可以进行特殊踢球。"
+    },
+    {
+      "id": 141,
+      "start": 491.89,
+      "end": 492.25,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 142,
+      "start": 492.8,
+      "end": 496.52,
+      "en": "And so a free kick is, it's just a kick from anywhere, right?",
+      "zh": "所以任意球是，它只是来自任何地方的踢，对吧？"
+    },
+    {
+      "id": 143,
+      "start": 496.52,
+      "end": 502.11,
+      "en": "A free kick is a kick that you get basically according to the referee who says, okay, stop the game.",
+      "zh": "任意球是你基本上得到的裁判，裁判说，好吧，停止比赛。"
+    },
+    {
+      "id": 144,
+      "start": 502.76,
+      "end": 504.52,
+      "en": "He's going to kick from inside the lines.",
+      "zh": "他会从线内踢。"
+    },
+    {
+      "id": 145,
+      "start": 505.0,
+      "end": 505.26,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 146,
+      "start": 506.0,
+      "end": 514.84,
+      "en": "So wherever you are fouled, wherever somebody maybe hit you wrong or something happened from that position, you will kick freely towards the goal or wherever you want.",
+      "zh": "因此，无论您在哪里犯规，无论在哪里有人可能击中您或从该位置发生了什么，您都会自由地向目标或您想要的任何地方踢球。"
+    },
+    {
+      "id": 147,
+      "start": 514.84,
+      "end": 517.36,
+      "en": "You can pass to your other players as well.",
+      "zh": "你也可以传给你的其他球员。"
+    },
+    {
+      "id": 148,
+      "start": 517.36,
+      "end": 517.54,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 149,
+      "start": 518.36,
+      "end": 521.26,
+      "en": "But a penalty kick is a bit different because you have to be in a special place when you do it.",
+      "zh": "但是点球有点不同，因为当你这样做时，你必须在一个特殊的地方。"
+    },
+    {
+      "id": 150,
+      "start": 521.92,
+      "end": 522.92,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 151,
+      "start": 522.92,
+      "end": 528.64,
+      "en": "A penalty kick is when you are fouled inside the box, what they call it, in the area very close to the goalie.",
+      "zh": "罚球是当你在禁区内被犯规时，他们称之为，在离守门员很近的区域。"
+    },
+    {
+      "id": 152,
+      "start": 528.64,
+      "end": 536.92,
+      "en": "So if you commit a foul there, then the other player will receive a penalty kick and it will just be him against the goalie and he must kick the ball.",
+      "zh": "因此，如果您在那里犯规，那么另一名球员将获得点球，而这将是他对阵守门员，他必须踢球。"
+    },
+    {
+      "id": 153,
+      "start": 536.92,
+      "end": 539.84,
+      "en": "I think it's approximately 10 meters if I'm not mistaken.",
+      "zh": "如果我没记错的话，我想它大约是 10 米。"
+    },
+    {
+      "id": 154,
+      "start": 539.96,
+      "end": 540.14,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 155,
+      "start": 540.14,
+      "end": 543.96,
+      "en": "And this is why it's very dangerous because you're so close to the goalie and no one can stop you.",
+      "zh": "这就是为什么它非常危险的原因，因为你离守门员很近，没有人能阻止你。"
+    },
+    {
+      "id": 156,
+      "start": 544.48,
+      "end": 550.24,
+      "en": "And so when fouls happen inside that special box, it's usually bad news for the goalie.",
+      "zh": "因此，当那个特殊的禁区内发生犯规时，这对守门员来说通常是个坏消息。"
+    },
+    {
+      "id": 157,
+      "start": 550.26,
+      "end": 550.62,
+      "en": "Yeah, of course.",
+      "zh": "对，当然。"
+    },
+    {
+      "id": 158,
+      "start": 551.08,
+      "end": 557.32,
+      "en": "So this is what happens during a penalty kick and well, basically you have no defenders.",
+      "zh": "所以这就是在点球时发生的事情，基本上你没有防守者。"
+    },
+    {
+      "id": 159,
+      "start": 557.74,
+      "end": 561.68,
+      "en": "So it's just you, the goalie, and it can get, as you said, very complicated for the goalie.",
+      "zh": "所以只有你，守门员，正如你所说，对于守门员来说，它会变得非常复杂。"
+    },
+    {
+      "id": 160,
+      "start": 562.14,
+      "end": 565.82,
+      "en": "So all right, so we've taken a look at a lot of things on Language Takeaway.",
+      "zh": "好吧，所以我们看了很多关于语言外卖的事情。"
+    },
+    {
+      "id": 161,
+      "start": 566.18,
+      "end": 570.62,
+      "en": "Let's move on now to three phrases on Fluency Builder.",
+      "zh": "现在让我们继续讨论 Fluency Builder 上的三个短语。"
+    },
+    {
+      "id": 162,
+      "start": 572.11,
+      "end": 573.25,
+      "en": "Fluency Builder.",
+      "zh": "流利表达。"
+    },
+    {
+      "id": 163,
+      "start": 574.18,
+      "end": 580.12,
+      "en": "Okay, so this is a great word to describe how I felt last week when I watched the England versus America match.",
+      "zh": "好的，这是一个很好的词来描述我上周观看英格兰与美国比赛时的感受。"
+    },
+    {
+      "id": 164,
+      "start": 580.6,
+      "end": 582.58,
+      "en": "I thought it was a nerve-wracking game.",
+      "zh": "我以为这是一个伤脑筋的游戏。"
+    },
+    {
+      "id": 165,
+      "start": 582.84,
+      "end": 583.1,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 166,
+      "start": 583.84,
+      "end": 584.84,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 167,
+      "start": 584.84,
+      "end": 585.84,
+      "en": "And we heard this in the dialogue, right?",
+      "zh": "我们在对话中听到了这一点，对吧？"
+    },
+    {
+      "id": 168,
+      "start": 585.84,
+      "end": 593.76,
+      "en": "Yeah, you said it was a very nerve-wracking game or in the dialogue the guy said, it's a very exciting and nerve-wracking sport.",
+      "zh": "是的，你说这是一个非常伤脑筋的游戏，或者在对话中说，这是一项非常令人兴奋和令人伤脑筋的运动。"
+    },
+    {
+      "id": 169,
+      "start": 594.38,
+      "end": 596.56,
+      "en": "So if something's nerve-wracking, what does it mean?",
+      "zh": "那么，如果某事令人伤脑筋，那是什么意思？"
+    },
+    {
+      "id": 170,
+      "start": 597.2,
+      "end": 601.3,
+      "en": "Well basically if you break it down, nerves are those things in your body, in your skin that make you feel.",
+      "zh": "好吧，基本上，如果你分解它，神经是你身体里的那些东西，在你的皮肤中，让你感觉到。"
+    },
+    {
+      "id": 171,
+      "start": 602.32,
+      "end": 605.0,
+      "en": "So if someone hurts you, you feel it because of your nerves.",
+      "zh": "所以如果有人伤害了你，你会因为你的神经而感受到它。"
+    },
+    {
+      "id": 172,
+      "start": 605.72,
+      "end": 608.76,
+      "en": "So something that is nerve-wracking makes you nervous.",
+      "zh": "所以令人伤脑筋的事情会让你感到紧张。"
+    },
+    {
+      "id": 173,
+      "start": 609.04,
+      "end": 609.62,
+      "en": "It makes you anxious.",
+      "zh": "它让你焦虑。"
+    },
+    {
+      "id": 174,
+      "start": 609.9,
+      "end": 611.56,
+      "en": "It makes you feel very sensitive.",
+      "zh": "它让你感到非常敏感。"
+    },
+    {
+      "id": 175,
+      "start": 611.96,
+      "end": 612.34,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 176,
+      "start": 612.64,
+      "end": 623.22,
+      "en": "So of course the sporting event is so exciting and you're worried that your country or your team will lose that you're very nervous and you're very excited, you're very anxious.",
+      "zh": "所以当然，体育赛事是如此令人兴奋，你担心你的国家或你的球队会失去你非常紧张，你很兴奋，你很焦虑。"
+    },
+    {
+      "id": 177,
+      "start": 623.52,
+      "end": 624.8,
+      "en": "A lot of things are going on.",
+      "zh": "很多事情正在发生。"
+    },
+    {
+      "id": 178,
+      "start": 624.8,
+      "end": 626.78,
+      "en": "Maybe you're sweating, maybe you're drinking a lot.",
+      "zh": "也许你出汗了，也许你喝了很多东西。"
+    },
+    {
+      "id": 179,
+      "start": 627.24,
+      "end": 628.4,
+      "en": "You don't want to know.",
+      "zh": "你不想知道。"
+    },
+    {
+      "id": 180,
+      "start": 628.4,
+      "end": 630.58,
+      "en": "You don't want to see your team lose and so you get very nervous.",
+      "zh": "你不想看到你的球队输球，所以你会变得非常紧张。"
+    },
+    {
+      "id": 181,
+      "start": 631.08,
+      "end": 631.3,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 182,
+      "start": 632.08,
+      "end": 638.33,
+      "en": "And now of course if your team is in the World Cup, you are cheering on for your team or you're cheering them on.",
+      "zh": "当然，如果您的球队参加了世界杯，您正在为您的球队欢呼，或者您正在为他们加油。"
+    },
+    {
+      "id": 183,
+      "start": 638.73,
+      "end": 644.81,
+      "en": "Okay, so this is an interesting phrase because maybe you've heard the word to cheer before, you know, go team, go team.",
+      "zh": "好吧，所以这是一个有趣的短语，因为也许你以前听过这个词来欢呼，你知道，去团队，去团队。"
+    },
+    {
+      "id": 184,
+      "start": 644.92,
+      "end": 645.41,
+      "en": "This is cheering.",
+      "zh": "这是欢呼。"
+    },
+    {
+      "id": 185,
+      "start": 646.47,
+      "end": 649.03,
+      "en": "But we often say I want to cheer him on.",
+      "zh": "但我们经常说我想为他加油。"
+    },
+    {
+      "id": 186,
+      "start": 649.93,
+      "end": 653.19,
+      "en": "So this on to me means like I want to cheer him on to victory.",
+      "zh": "所以这对我来说意味着我想为他的胜利加油。"
+    },
+    {
+      "id": 187,
+      "start": 653.61,
+      "end": 655.35,
+      "en": "I want to push them towards some goal.",
+      "zh": "我想把他们推向某个目标。"
+    },
+    {
+      "id": 188,
+      "start": 656.09,
+      "end": 657.71,
+      "en": "And so you hear this a lot.",
+      "zh": "所以你经常听到这个。"
+    },
+    {
+      "id": 189,
+      "start": 657.93,
+      "end": 661.13,
+      "en": "Let's cheer them on or he was really cheering me on.",
+      "zh": "让我们为他们加油，否则他真的在为我加油。"
+    },
+    {
+      "id": 190,
+      "start": 661.28,
+      "end": 663.28,
+      "en": "It made me feel good.",
+      "zh": "它让我感觉很好。"
+    },
+    {
+      "id": 191,
+      "start": 663.69,
+      "end": 664.28,
+      "en": "Motivating you.",
+      "zh": "激励你。"
+    },
+    {
+      "id": 192,
+      "start": 664.28,
+      "end": 665.28,
+      "en": "Motivating you.",
+      "zh": "激励你。"
+    },
+    {
+      "id": 193,
+      "start": 665.28,
+      "end": 667.32,
+      "en": "So to cheer someone on, cheer them on.",
+      "zh": "所以要为某人加油，为他们加油。"
+    },
+    {
+      "id": 194,
+      "start": 667.32,
+      "end": 667.53,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 195,
+      "start": 668.32,
+      "end": 671.68,
+      "en": "So obviously this is why we have cheerleaders, right?",
+      "zh": "很明显，这就是我们有啦啦队的原因，对吧？"
+    },
+    {
+      "id": 196,
+      "start": 671.68,
+      "end": 672.68,
+      "en": "Girls that cheer.",
+      "zh": "欢呼的女孩。"
+    },
+    {
+      "id": 197,
+      "start": 672.68,
+      "end": 673.99,
+      "en": "Give me an A. Give me a B.",
+      "zh": "给我一个 A。给我一个 B。"
+    },
+    {
+      "id": 198,
+      "start": 674.4,
+      "end": 678.84,
+      "en": "These are the girls or the group of girls that cheer teams on.",
+      "zh": "这些是为团队欢呼的女孩或女孩群体。"
+    },
+    {
+      "id": 199,
+      "start": 678.84,
+      "end": 679.23,
+      "en": "Or men too.",
+      "zh": "或者男人也是。"
+    },
+    {
+      "id": 200,
+      "start": 679.84,
+      "end": 680.84,
+      "en": "I've seen male cheerleaders.",
+      "zh": "我见过男性啦啦队。"
+    },
+    {
+      "id": 201,
+      "start": 680.84,
+      "end": 681.84,
+      "en": "That's true.",
+      "zh": "确实如此。"
+    },
+    {
+      "id": 202,
+      "start": 681.84,
+      "end": 682.84,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 203,
+      "start": 682.84,
+      "end": 687.53,
+      "en": "And now when we talked about Brazil, they are the team with the most titles under their belt.",
+      "zh": "现在当我们谈论巴西时，他们是拥有最多冠军头衔的球队。"
+    },
+    {
+      "id": 204,
+      "start": 688.28,
+      "end": 691.16,
+      "en": "Okay, we're not talking about a real belt here, are we?",
+      "zh": "好吧，我们不是在谈论真正的腰带，是吗？"
+    },
+    {
+      "id": 205,
+      "start": 691.16,
+      "end": 692.16,
+      "en": "No.",
+      "zh": "不。"
+    },
+    {
+      "id": 206,
+      "start": 692.16,
+      "end": 693.16,
+      "en": "No.",
+      "zh": "不。"
+    },
+    {
+      "id": 207,
+      "start": 693.16,
+      "end": 697.87,
+      "en": "Under your belt or under their belt in this case means that in their history, they have the most titles.",
+      "zh": "在这种情况下，在你的腰带下或在他们的腰带下意味着在他们的历史上，他们拥有最多的头衔。"
+    },
+    {
+      "id": 208,
+      "start": 698.57,
+      "end": 699.21,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 209,
+      "start": 699.61,
+      "end": 707.59,
+      "en": "I think it may come from boxing or one of those sports where you actually wear a belt that says your title.",
+      "zh": "我认为它可能来自拳击或您实际佩戴腰带的运动之一，上面写着您的头衔。"
+    },
+    {
+      "id": 210,
+      "start": 707.76,
+      "end": 713.96,
+      "en": "And I think, if I'm not mistaken, sometimes a boxing belt will have various titles on the belt.",
+      "zh": "而且我认为，如果我没记错的话，有时一条拳击带上会有各种各样的头衔。"
+    },
+    {
+      "id": 211,
+      "start": 713.96,
+      "end": 714.96,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 212,
+      "start": 714.96,
+      "end": 715.96,
+      "en": "The championship belts.",
+      "zh": "冠军腰带。"
+    },
+    {
+      "id": 213,
+      "start": 715.96,
+      "end": 716.96,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 214,
+      "start": 716.96,
+      "end": 717.96,
+      "en": "Because they wear it afterwards.",
+      "zh": "因为他们后来穿了。"
+    },
+    {
+      "id": 215,
+      "start": 717.96,
+      "end": 718.96,
+      "en": "I've never heard that before, but it does make sense.",
+      "zh": "我以前从未听说过，但它确实有道理。"
+    },
+    {
+      "id": 216,
+      "start": 718.96,
+      "end": 721.64,
+      "en": "But the important thing to remember here is that it's not just sports.",
+      "zh": "但这里要记住的重要一点是，这不仅仅是运动。"
+    },
+    {
+      "id": 217,
+      "start": 721.64,
+      "end": 725.8,
+      "en": "You could say he has 10 years of experience in marketing under his belt.",
+      "zh": "你可以说他在营销方面拥有 10 年的经验。"
+    },
+    {
+      "id": 218,
+      "start": 725.8,
+      "end": 726.02,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 219,
+      "start": 726.8,
+      "end": 729.68,
+      "en": "So that means he's experienced at marketing.",
+      "zh": "所以这意味着他在营销方面经验丰富。"
+    },
+    {
+      "id": 220,
+      "start": 729.68,
+      "end": 729.86,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 221,
+      "start": 730.68,
+      "end": 730.86,
+      "en": "So that's right.",
+      "zh": "所以这是对的。"
+    },
+    {
+      "id": 222,
+      "start": 731.68,
+      "end": 740.8,
+      "en": "As you said, you can use it for work experience, you can use it for titles in work, or maybe in education you can say he's got three master's degrees under his belt.",
+      "zh": "正如你所说，你可以将它用于工作经验，你可以将它用于工作中的头衔，或者在教育中你可以说他拥有三个硕士学位。"
+    },
+    {
+      "id": 223,
+      "start": 741.24,
+      "end": 742.24,
+      "en": "Wow.",
+      "zh": "哇。"
+    },
+    {
+      "id": 224,
+      "start": 742.24,
+      "end": 743.24,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 225,
+      "start": 743.24,
+      "end": 744.6,
+      "en": "So a lot of great stuff there.",
+      "zh": "所以那里有很多很棒的东西。"
+    },
+    {
+      "id": 226,
+      "start": 744.6,
+      "end": 750.14,
+      "en": "We've taken a look at a lot of vocab, so I think we should listen to our dialogue again and we'll be back to talk a little bit more.",
+      "zh": "我们已经看了很多词汇，所以我想我们应该再听一次我们的对话，我们会回来多说一点。"
+    },
+    {
+      "id": 227,
+      "start": 761.45,
+      "end": 761.84,
+      "en": "What are you doing?",
+      "zh": "你在做什么？"
+    },
+    {
+      "id": 228,
+      "start": 762.91,
+      "end": 763.65,
+      "en": "What am I doing?",
+      "zh": "我在做什么？"
+    },
+    {
+      "id": 229,
+      "start": 764.08,
+      "end": 765.08,
+      "en": "What am I doing?",
+      "zh": "我在做什么？"
+    },
+    {
+      "id": 230,
+      "start": 765.08,
+      "end": 766.07,
+      "en": "Don't you know what day it is?",
+      "zh": "你不知道今天是什么日子吗？"
+    },
+    {
+      "id": 231,
+      "start": 767.24,
+      "end": 768.05,
+      "en": "Um, no.",
+      "zh": "嗯，不是。"
+    },
+    {
+      "id": 232,
+      "start": 769.04,
+      "end": 772.17,
+      "en": "It's only the day when the world's biggest sporting event is kicking off.",
+      "zh": "今天可是世界上最大体育赛事开幕的日子！"
+    },
+    {
+      "id": 233,
+      "start": 772.8,
+      "end": 773.8,
+      "en": "What?",
+      "zh": "什么？"
+    },
+    {
+      "id": 234,
+      "start": 773.8,
+      "end": 774.17,
+      "en": "The World Cup.",
+      "zh": "世界杯。"
+    },
+    {
+      "id": 235,
+      "start": 774.8,
+      "end": 775.45,
+      "en": "The first match is today.",
+      "zh": "第一场比赛是今天。"
+    },
+    {
+      "id": 236,
+      "start": 775.8,
+      "end": 777.21,
+      "en": "It's Mexico versus South Africa.",
+      "zh": "这是墨西哥与南非。"
+    },
+    {
+      "id": 237,
+      "start": 777.81,
+      "end": 779.27,
+      "en": "It's going to be a really good match.",
+      "zh": "这将是一场非常好的比赛。"
+    },
+    {
+      "id": 238,
+      "start": 779.96,
+      "end": 783.12,
+      "en": "Both teams have a very strong offense and have skilled players.",
+      "zh": "两支球队的进攻都非常强大，并且有熟练的球员。"
+    },
+    {
+      "id": 239,
+      "start": 783.21,
+      "end": 786.99,
+      "en": "I think that South Africa will probably dominate the first half since they are the host country and all.",
+      "zh": "我觉得南非队在上半场可能会占上风，毕竟他们是东道主。"
+    },
+    {
+      "id": 240,
+      "start": 787.37,
+      "end": 789.69,
+      "en": "I have no idea what you're talking about.",
+      "zh": "我完全不知道你在说什么。"
+    },
+    {
+      "id": 241,
+      "start": 790.12,
+      "end": 792.92,
+      "en": "The only sporting event we watch at home is the Super Bowl.",
+      "zh": "我们在家中观看的唯一体育赛事是超级碗。"
+    },
+    {
+      "id": 242,
+      "start": 793.48,
+      "end": 795.44,
+      "en": "This is bigger than the Super Bowl, man.",
+      "zh": "这比超级碗还大，伙计。"
+    },
+    {
+      "id": 243,
+      "start": 795.86,
+      "end": 800.1,
+      "en": "Teams from 32 countries compete against each other every four years and fight to win that trophy.",
+      "zh": "来自 32 个国家/地区的球队每四年相互竞争，并为赢得奖杯而战。"
+    },
+    {
+      "id": 244,
+      "start": 800.76,
+      "end": 804.34,
+      "en": "They first start in a group stage with eight groups, each group having four teams.",
+      "zh": "他们首先在小组赛阶段开始，有八个小组，每组有四支球队。"
+    },
+    {
+      "id": 245,
+      "start": 805.18,
+      "end": 810.12,
+      "en": "The top two teams pass on to an elimination stage before going on to the semifinals and the quarterfinals.",
+      "zh": "前两支球队在进入半决赛和四分之一决赛之前进入淘汰赛阶段。"
+    },
+    {
+      "id": 246,
+      "start": 810.73,
+      "end": 814.77,
+      "en": "Sounds interesting, but soccer doesn't really appeal to me.",
+      "zh": "听起来很有趣，但足球并没有真正吸引我。"
+    },
+    {
+      "id": 247,
+      "start": 815.23,
+      "end": 815.85,
+      "en": "Are you kidding?",
+      "zh": "你开玩笑吧？"
+    },
+    {
+      "id": 248,
+      "start": 816.23,
+      "end": 819.87,
+      "en": "Over 700 million people watched the final match of the 2006 World Cup.",
+      "zh": "超过 7 亿人观看了 2006 年世界杯的最后一场比赛。"
+    },
+    {
+      "id": 249,
+      "start": 820.4,
+      "end": 822.35,
+      "en": "It's a very exciting and nerve-wracking sport.",
+      "zh": "这项运动非常刺激，让人紧张得心都悬起来。"
+    },
+    {
+      "id": 250,
+      "start": 823.34,
+      "end": 826.6,
+      "en": "Each nation is cheering on their team, hoping they will become the next champion.",
+      "zh": "每个国家都在为他们的球队欢呼，希望他们能成为下一个冠军。"
+    },
+    {
+      "id": 251,
+      "start": 827.3,
+      "end": 829.7,
+      "en": "So far, Brazil is the team with the most titles under their belt.",
+      "zh": "到目前为止，巴西是拥有最多冠军头衔的球队。"
+    },
+    {
+      "id": 252,
+      "start": 830.1,
+      "end": 830.84,
+      "en": "They're really good.",
+      "zh": "真的很不错。"
+    },
+    {
+      "id": 253,
+      "start": 831.24,
+      "end": 839.3,
+      "en": "All I know about soccer is that you can't use your hands and that players are always falling down trying to get a free kick or penalty kick.",
+      "zh": "我对足球的了解是，你不能用手，球员总是摔倒，试图获得任意球或点球。"
+    },
+    {
+      "id": 254,
+      "start": 840.06,
+      "end": 841.82,
+      "en": "It seems like a sissy sport to me.",
+      "zh": "对我来说，这似乎是一项娘娘腔的运动。"
+    },
+    {
+      "id": 255,
+      "start": 842.2,
+      "end": 844.18,
+      "en": "Whatever, I'm going to go watch the opening match.",
+      "zh": "不管怎样，我要去看首场比赛。"
+    },
+    {
+      "id": 256,
+      "start": 854.06,
+      "end": 861.0,
+      "en": "All right, so the World Cup, as we said, it gathers over 100 million people to watch the final in 2006.",
+      "zh": "好吧，正如我们所说，世界杯在 2006 年聚集了超过 1 亿人观看决赛。"
+    },
+    {
+      "id": 257,
+      "start": 861.52,
+      "end": 864.74,
+      "en": "Now, this sport is not very popular in North America.",
+      "zh": "现在，这项运动在北美不是很受欢迎。"
+    },
+    {
+      "id": 258,
+      "start": 865.68,
+      "end": 869.34,
+      "en": "It's not totally true because Mexicans really follow football.",
+      "zh": "这并不完全正确，因为墨西哥人真的跟随足球。"
+    },
+    {
+      "id": 259,
+      "start": 870.04,
+      "end": 870.22,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 260,
+      "start": 871.04,
+      "end": 876.14,
+      "en": "But I think in America, in the United States, it is one of the less popular sports.",
+      "zh": "但我认为在美国，在美国，它是不太受欢迎的运动之一。"
+    },
+    {
+      "id": 261,
+      "start": 876.48,
+      "end": 881.32,
+      "en": "I was thinking the other day, maybe number five on our list of popular sports.",
+      "zh": "前几天我在想，也许是我们流行的运动名单上的第五名。"
+    },
+    {
+      "id": 262,
+      "start": 881.32,
+      "end": 900.79,
+      "en": "Maybe because you have American football, the NFL, you have Major League Baseball, you have the NBA, you have the NHL, and I think maybe before soccer, you probably either have golf or tennis before soccer, even though the United States does have its own Major League Soccer.",
+      "zh": "也许是因为你有美式足球，NFL，你有美国职业棒球大联盟，你有 NBA，你有 NHL，我想也许在足球之前，你可能在足球之前有高尔夫或网球，即使美国确实有自己的美国职业足球大联盟。"
+    },
+    {
+      "id": 263,
+      "start": 901.33,
+      "end": 903.01,
+      "en": "Yep, MLS, Major League Soccer.",
+      "zh": "是的，MLS，美国职业足球大联盟。"
+    },
+    {
+      "id": 264,
+      "start": 903.44,
+      "end": 906.24,
+      "en": "And my hometown team is Chicago Fire, pretty good team.",
+      "zh": "我的家乡球队是芝加哥火队，相当不错的球队。"
+    },
+    {
+      "id": 265,
+      "start": 906.24,
+      "end": 908.04,
+      "en": "I heard they're very good.",
+      "zh": "我听说他们很好。"
+    },
+    {
+      "id": 266,
+      "start": 908.04,
+      "end": 910.25,
+      "en": "And the LA Galaxy, I think, is the other best team in the States.",
+      "zh": "我认为，洛杉矶银河是美国另一支最好的球队。"
+    },
+    {
+      "id": 267,
+      "start": 910.66,
+      "end": 911.03,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 268,
+      "start": 911.32,
+      "end": 919.24,
+      "en": "Now, the United States did host the 1994 World Cup, and I think this is where a little bit of more interest started to come up.",
+      "zh": "现在，美国确实举办了 1994 年世界杯，我认为这是开始产生更多兴趣的地方。"
+    },
+    {
+      "id": 269,
+      "start": 919.7,
+      "end": 925.5,
+      "en": "And I think Major League Soccer was formed prior to the World Cup in the United States.",
+      "zh": "我认为美国职业足球大联盟是在美国世界杯之前成立的。"
+    },
+    {
+      "id": 270,
+      "start": 926.04,
+      "end": 926.23,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 271,
+      "start": 926.38,
+      "end": 927.31,
+      "en": "Well, there's another part of it.",
+      "zh": "嗯，还有它的另一部分。"
+    },
+    {
+      "id": 272,
+      "start": 927.56,
+      "end": 931.44,
+      "en": "I mean, as young people, as children, we almost all played soccer.",
+      "zh": "我的意思是，作为年轻人，作为孩子，我们几乎都踢足球。"
+    },
+    {
+      "id": 273,
+      "start": 931.44,
+      "end": 932.44,
+      "en": "I played soccer.",
+      "zh": "我踢足球。"
+    },
+    {
+      "id": 274,
+      "start": 932.44,
+      "end": 933.61,
+      "en": "I know a lot of my friends did as well.",
+      "zh": "我知道我的很多朋友也这样做了。"
+    },
+    {
+      "id": 275,
+      "start": 934.12,
+      "end": 936.57,
+      "en": "It's not popular everywhere, but a lot of people play it.",
+      "zh": "它不在任何地方流行，但很多人玩它。"
+    },
+    {
+      "id": 276,
+      "start": 936.96,
+      "end": 942.8,
+      "en": "And there's not really an audience for soccer in America once you're in the professional realm.",
+      "zh": "一旦你进入专业领域，美国就没有真正的足球观众。"
+    },
+    {
+      "id": 277,
+      "start": 942.8,
+      "end": 949.42,
+      "en": "And so the problem is when you pass college, you don't think of it as the NBA, for example, because there's not as big of an audience.",
+      "zh": "所以问题是当你通过大学时，你不认为它是NBA，因为没有那么多的观众。"
+    },
+    {
+      "id": 278,
+      "start": 949.76,
+      "end": 953.3,
+      "en": "And so people just end up doing their normal jobs as opposed to being professional soccer players.",
+      "zh": "所以人们最终只是做他们的正常工作，而不是成为职业足球运动员。"
+    },
+    {
+      "id": 279,
+      "start": 954.2,
+      "end": 961.26,
+      "en": "I think that has a big something to do with it is the fact that there is not as much money in this sport professionally as, for example, the NBA.",
+      "zh": "我认为这与它有很大关系的事实是，这项运动在专业上没有像 NBA 那样多的钱。"
+    },
+    {
+      "id": 280,
+      "start": 961.84,
+      "end": 962.18,
+      "en": "Or prestige.",
+      "zh": "或声望。"
+    },
+    {
+      "id": 281,
+      "start": 962.3,
+      "end": 963.1,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 282,
+      "start": 963.84,
+      "end": 975.04,
+      "en": "Although, this is the, on the other hand, these players that do make it and they really want to play, they go abroad and they go play in the European leagues or something like that.",
+      "zh": "虽然，另一方面，这些球员确实做到了，他们真的想打球，但他们出国，去欧洲联赛或类似的地方打球。"
+    },
+    {
+      "id": 283,
+      "start": 975.04,
+      "end": 976.04,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 284,
+      "start": 976.04,
+      "end": 986.16,
+      "en": "And a lot of the players who were playing the other day against England were playing against their teammates because so many of the American team, the American national team play in the English Premier League.",
+      "zh": "前几天对阵英格兰队的球员中，很多球员都在与他们的队友比赛，因为美国队中有很多人，美国国家队在英超联赛中打球。"
+    },
+    {
+      "id": 285,
+      "start": 986.16,
+      "end": 987.39,
+      "en": "It was really awkward.",
+      "zh": "真的很尴尬。"
+    },
+    {
+      "id": 286,
+      "start": 988.17,
+      "end": 989.55,
+      "en": "Well, it's a really great sport.",
+      "zh": "嗯，这是一项非常棒的运动。"
+    },
+    {
+      "id": 287,
+      "start": 990.56,
+      "end": 995.23,
+      "en": "I think it's one of the most popular sports in many other countries as well because it's so easy.",
+      "zh": "我认为它也是许多其他国家最受欢迎的运动之一，因为它很容易。"
+    },
+    {
+      "id": 288,
+      "start": 995.92,
+      "end": 996.21,
+      "en": "All you need is a ball.",
+      "zh": "你只需要一个球。"
+    },
+    {
+      "id": 289,
+      "start": 996.92,
+      "end": 997.13,
+      "en": "You need a group of people.",
+      "zh": "你需要一群人。"
+    },
+    {
+      "id": 290,
+      "start": 997.92,
+      "end": 1000.31,
+      "en": "You put two rocks and you have a goal and you start playing.",
+      "zh": "你放了两块石头，你就有了一个目标，你就开始玩了。"
+    },
+    {
+      "id": 291,
+      "start": 1001.08,
+      "end": 1006.89,
+      "en": "And that's probably why it's the most international sport because it's very easy to set up.",
+      "zh": "这可能就是为什么它是最国际化的运动，因为它很容易设置。"
+    },
+    {
+      "id": 292,
+      "start": 1007.68,
+      "end": 1012.56,
+      "en": "People all over the world love it and hopefully one day the United States will kind of push it and...",
+      "zh": "世界各地的人们都喜欢它，希望有一天美国会推动它和..."
+    },
+    {
+      "id": 293,
+      "start": 1012.56,
+      "end": 1013.56,
+      "en": "Become champion.",
+      "zh": "成为冠军。"
+    },
+    {
+      "id": 294,
+      "start": 1013.56,
+      "end": 1014.56,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 295,
+      "start": 1014.56,
+      "end": 1018.16,
+      "en": "Well, I hope this year they'll become champions but my fingers are definitely crossed because who knows.",
+      "zh": "好吧，我希望今年他们能成为冠军，但我的手指肯定是交叉的，因为谁知道呢。"
+    },
+    {
+      "id": 296,
+      "start": 1018.16,
+      "end": 1019.16,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 297,
+      "start": 1019.16,
+      "end": 1020.02,
+      "en": "So, it's a really great topic.",
+      "zh": "所以，这是一个非常棒的话题。"
+    },
+    {
+      "id": 298,
+      "start": 1020.2,
+      "end": 1022.52,
+      "en": "We want to know if your country is in the World Cup.",
+      "zh": "我们想知道您的国家是否参加了世界杯。"
+    },
+    {
+      "id": 299,
+      "start": 1022.52,
+      "end": 1024.38,
+      "en": "Have you ever qualified for a World Cup?",
+      "zh": "你有没有资格参加世界杯？"
+    },
+    {
+      "id": 300,
+      "start": 1024.56,
+      "end": 1026.2,
+      "en": "There are still many countries who haven't made it.",
+      "zh": "还有很多国家没有成功。"
+    },
+    {
+      "id": 301,
+      "start": 1026.34,
+      "end": 1027.98,
+      "en": "Of course, it's a very small pool.",
+      "zh": "当然，这是一个非常小的游泳池。"
+    },
+    {
+      "id": 302,
+      "start": 1028.64,
+      "end": 1035.0,
+      "en": "Only 98, 199 countries compete to qualify for the World Cup and only 32 make it.",
+      "zh": "只有 98、199 个国家争夺世界杯资格，只有 32 个国家参加。"
+    },
+    {
+      "id": 303,
+      "start": 1035.0,
+      "end": 1036.54,
+      "en": "And you can also tell us who you're supporting.",
+      "zh": "您还可以告诉我们您支持的人。"
+    },
+    {
+      "id": 304,
+      "start": 1036.76,
+      "end": 1037.2,
+      "en": "We won't judge.",
+      "zh": "我们不会评判。"
+    },
+    {
+      "id": 305,
+      "start": 1037.76,
+      "end": 1038.24,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 306,
+      "start": 1038.76,
+      "end": 1040.76,
+      "en": "So, we're waiting for your comments at EnglishPod.com.",
+      "zh": "因此，我们正在 Englishpod.com 等待您的评论。"
+    },
+    {
+      "id": 307,
+      "start": 1040.76,
+      "end": 1041.76,
+      "en": "We'll see everyone there.",
+      "zh": "到时候见，各位。"
+    },
+    {
+      "id": 308,
+      "start": 1041.76,
+      "end": 1042.76,
+      "en": "Bye.",
+      "zh": "再见。"
+    },
+    {
+      "id": 309,
+      "start": 1042.76,
+      "end": 1050.54,
+      "en": "All right, good luck.",
+      "zh": "好吧，祝你好运。"
+    }
+  ],
+  "dialog": {
+    "start": 67.66,
+    "end": 150.36,
+    "segmentIds": [
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46
+    ]
+  }
+}

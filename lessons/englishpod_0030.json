@@ -1,0 +1,1779 @@
+{
+  "version": 1,
+  "id": 30,
+  "number": "0030",
+  "title": "Daily Life - New Guy in Town II",
+  "audio": "mp3/30. Daily Life - New Guy in Town II.mp3",
+  "duration": 690.7036875,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.32,
+      "en": "Hello, English learners.",
+      "zh": "各位英语学习者，大家好。"
+    },
+    {
+      "id": 2,
+      "start": 3.32,
+      "end": 4.57,
+      "en": "Welcome back to EnglishPod.",
+      "zh": "欢迎回到 EnglishPod。"
+    },
+    {
+      "id": 3,
+      "start": 4.82,
+      "end": 5.29,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 4,
+      "start": 5.65,
+      "end": 6.13,
+      "en": "And I'm Erica.",
+      "zh": "我叫 Erica。"
+    },
+    {
+      "id": 5,
+      "start": 6.65,
+      "end": 9.65,
+      "en": "Today we're bringing you part two of another great lesson that we had.",
+      "zh": "今天，我们将为您带来我们的另一个重要课程的第二部分。"
+    },
+    {
+      "id": 6,
+      "start": 10.13,
+      "end": 11.75,
+      "en": "Yes, new guy in town.",
+      "zh": "是的，镇上的新人。"
+    },
+    {
+      "id": 7,
+      "start": 11.87,
+      "end": 12.81,
+      "en": "The new guy in town.",
+      "zh": "镇上的新人。"
+    },
+    {
+      "id": 8,
+      "start": 13.12,
+      "end": 13.37,
+      "en": "Part two.",
+      "zh": "第二部分。"
+    },
+    {
+      "id": 9,
+      "start": 14.12,
+      "end": 15.12,
+      "en": "Part two.",
+      "zh": "第二部分。"
+    },
+    {
+      "id": 10,
+      "start": 15.12,
+      "end": 15.45,
+      "en": "Kind of a creepy story.",
+      "zh": "有点令人毛骨悚然的故事。"
+    },
+    {
+      "id": 11,
+      "start": 16.12,
+      "end": 17.12,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 12,
+      "start": 17.12,
+      "end": 19.73,
+      "en": "Yeah, and this one is also a little bit strange, a little bit weird.",
+      "zh": "是的，这一款也有点奇怪，有点奇怪。"
+    },
+    {
+      "id": 13,
+      "start": 20.13,
+      "end": 22.89,
+      "en": "Yeah, unusual outcome, unusual ending.",
+      "zh": "是的，不寻常的结果，不寻常的结局。"
+    },
+    {
+      "id": 14,
+      "start": 23.77,
+      "end": 25.67,
+      "en": "But it has to do a lot with invitations.",
+      "zh": "但它必须对邀请做很多事情。"
+    },
+    {
+      "id": 15,
+      "start": 26.13,
+      "end": 26.47,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 16,
+      "start": 26.83,
+      "end": 30.87,
+      "en": "An invitation is when you ask somebody to do something with you.",
+      "zh": "邀请是当您要求某人与您一起做某事时。"
+    },
+    {
+      "id": 17,
+      "start": 31.11,
+      "end": 31.23,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 18,
+      "start": 31.87,
+      "end": 32.57,
+      "en": "A dinner invitation.",
+      "zh": "晚宴邀请。"
+    },
+    {
+      "id": 19,
+      "start": 33.41,
+      "end": 37.15,
+      "en": "So we're going to be talking about invitations and inviting people to do things.",
+      "zh": "所以我们将谈论邀请和邀请人们做事。"
+    },
+    {
+      "id": 20,
+      "start": 37.69,
+      "end": 37.95,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 21,
+      "start": 38.37,
+      "end": 41.75,
+      "en": "Well, with that, let's listen to the dialogue for the first time.",
+      "zh": "好吧，有了这个，让我们第一次听对话。"
+    },
+    {
+      "id": 22,
+      "start": 46.6,
+      "end": 49.82,
+      "en": "Oh, Arman, thank you for such a thoughtful invitation.",
+      "zh": "哦，阿尔芒，谢谢你这么周到的邀请。"
+    },
+    {
+      "id": 23,
+      "start": 50.76,
+      "end": 53.62,
+      "en": "It's really very nice of you to invite us over for dinner.",
+      "zh": "你邀请我们过来吃饭真是太好了。"
+    },
+    {
+      "id": 24,
+      "start": 54.18,
+      "end": 55.18,
+      "en": "Don't you think so, Ellen?",
+      "zh": "你说是不是，艾伦？"
+    },
+    {
+      "id": 25,
+      "start": 55.86,
+      "end": 57.2,
+      "en": "Oh, yes, of course.",
+      "zh": "哦，是的，当然。"
+    },
+    {
+      "id": 26,
+      "start": 57.72,
+      "end": 58.56,
+      "en": "We'd love to come over.",
+      "zh": "我们很乐意过去。"
+    },
+    {
+      "id": 27,
+      "start": 59.14,
+      "end": 59.9,
+      "en": "Can I bring anything?",
+      "zh": "我需要带什么吗？"
+    },
+    {
+      "id": 28,
+      "start": 60.26,
+      "end": 62.14,
+      "en": "No, don't worry about it.",
+      "zh": "不，不要担心。"
+    },
+    {
+      "id": 29,
+      "start": 62.8,
+      "end": 63.98,
+      "en": "I'll take care of everything.",
+      "zh": "一切交给我处理。"
+    },
+    {
+      "id": 30,
+      "start": 66.41,
+      "end": 67.3,
+      "en": "I'll see you tonight.",
+      "zh": "今晚见。"
+    },
+    {
+      "id": 31,
+      "start": 67.41,
+      "end": 68.74,
+      "en": "Come with an appetite.",
+      "zh": "可要带着胃口来。"
+    },
+    {
+      "id": 32,
+      "start": 69.21,
+      "end": 70.02,
+      "en": "I know I will.",
+      "zh": "我肯定会胃口大开的。"
+    },
+    {
+      "id": 33,
+      "start": 75.4,
+      "end": 77.4,
+      "en": "I don't want to go over to his place for dinner.",
+      "zh": "我不想去他家吃饭。"
+    },
+    {
+      "id": 34,
+      "start": 77.88,
+      "end": 78.84,
+      "en": "He gives me the creeps.",
+      "zh": "他让我浑身发毛。"
+    },
+    {
+      "id": 35,
+      "start": 79.64,
+      "end": 80.78,
+      "en": "Why on earth did you accept?",
+      "zh": "你到底为什么答应他？"
+    },
+    {
+      "id": 36,
+      "start": 81.4,
+      "end": 82.3,
+      "en": "Oh, come on, Ellen.",
+      "zh": "哎呀，拜托，艾伦。"
+    },
+    {
+      "id": 37,
+      "start": 82.67,
+      "end": 83.99,
+      "en": "It'll be nice to get to know him.",
+      "zh": "认识认识他也挺好的。"
+    },
+    {
+      "id": 38,
+      "start": 84.09,
+      "end": 85.95,
+      "en": "Besides, he's new to the neighborhood.",
+      "zh": "再说，他刚搬来这个街区。"
+    },
+    {
+      "id": 39,
+      "start": 86.6,
+      "end": 88.69,
+      "en": "And it would be rude to decline his invitation.",
+      "zh": "拒绝他的邀请是不礼貌的。"
+    },
+    {
+      "id": 40,
+      "start": 89.57,
+      "end": 90.41,
+      "en": "I guess so.",
+      "zh": "我想是吧。"
+    },
+    {
+      "id": 41,
+      "start": 91.19,
+      "end": 92.63,
+      "en": "You always rope me into things like this.",
+      "zh": "你总是把我拉进这种事里。"
+    },
+    {
+      "id": 42,
+      "start": 106.15,
+      "end": 106.63,
+      "en": "Ladies!",
+      "zh": "女士们!"
+    },
+    {
+      "id": 43,
+      "start": 111.11,
+      "end": 112.51,
+      "en": "Thank you for coming.",
+      "zh": "谢谢你们能来。"
+    },
+    {
+      "id": 44,
+      "start": 112.89,
+      "end": 113.65,
+      "en": "You look delicious.",
+      "zh": "你们看起来真可口。"
+    },
+    {
+      "id": 45,
+      "start": 114.23,
+      "end": 115.25,
+      "en": "I mean beautiful.",
+      "zh": "我是说，真漂亮。"
+    },
+    {
+      "id": 46,
+      "start": 115.93,
+      "end": 116.97,
+      "en": "Please come in.",
+      "zh": "请进。"
+    },
+    {
+      "id": 47,
+      "start": 117.32,
+      "end": 118.32,
+      "en": "Oh, Arlond, you are too kind.",
+      "zh": "哦，阿尔芒，你真是太客气了。"
+    },
+    {
+      "id": 48,
+      "start": 123.89,
+      "end": 125.31,
+      "en": "How did I get myself into this?",
+      "zh": "我怎么会把自己卷进这种事里？"
+    },
+    {
+      "id": 49,
+      "start": 138.67,
+      "end": 142.31,
+      "en": "Wow, I'm really anxious to see what happens in this dinner party.",
+      "zh": "哇，我真的很想看看这个晚宴会发生什么。"
+    },
+    {
+      "id": 50,
+      "start": 142.53,
+      "end": 145.67,
+      "en": "Yeah, I guess we'll have to stay tuned and find out.",
+      "zh": "是的，我想我们必须继续关注并找出答案。"
+    },
+    {
+      "id": 51,
+      "start": 146.04,
+      "end": 146.65,
+      "en": "For part three.",
+      "zh": "对于第三部分。"
+    },
+    {
+      "id": 52,
+      "start": 147.04,
+      "end": 148.04,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 53,
+      "start": 148.04,
+      "end": 152.85,
+      "en": "All right, well, we have some really great vocabulary, so I guess we can start with language takeaway.",
+      "zh": "好，我们有一些很棒的词汇，那就从“语言要点”开始吧。"
+    },
+    {
+      "id": 54,
+      "start": 155.72,
+      "end": 156.05,
+      "en": "Language takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 55,
+      "start": 157.48,
+      "end": 160.48,
+      "en": "All right, on language takeaway today, we have three great words.",
+      "zh": "好吧，关于今天的语言外卖，我们有三个很棒的词。"
+    },
+    {
+      "id": 56,
+      "start": 160.76,
+      "end": 163.4,
+      "en": "Erika, why don't you start us off with the first one?",
+      "zh": "Erika，你为什么不从第一个开始呢？"
+    },
+    {
+      "id": 57,
+      "start": 163.4,
+      "end": 165.0,
+      "en": "The first word is thoughtful.",
+      "zh": "第一个字是深思熟虑的。"
+    },
+    {
+      "id": 58,
+      "start": 165.92,
+      "end": 166.26,
+      "en": "Thoughtful.",
+      "zh": "体贴的。"
+    },
+    {
+      "id": 59,
+      "start": 166.58,
+      "end": 167.04,
+      "en": "Thoughtful.",
+      "zh": "体贴的。"
+    },
+    {
+      "id": 60,
+      "start": 167.92,
+      "end": 168.4,
+      "en": "Thoughtful.",
+      "zh": "体贴的。"
+    },
+    {
+      "id": 61,
+      "start": 168.68,
+      "end": 171.88,
+      "en": "So, when you're thoughtful, you're kind, right?",
+      "zh": "所以，当你有思想的时候，你很善良，对吧？"
+    },
+    {
+      "id": 62,
+      "start": 171.88,
+      "end": 174.64,
+      "en": "You're kind, you're considerate to other people.",
+      "zh": "你很善良，你对别人很体贴。"
+    },
+    {
+      "id": 63,
+      "start": 174.64,
+      "end": 176.62,
+      "en": "You think about what the other person would like.",
+      "zh": "你想想对方会喜欢什么。"
+    },
+    {
+      "id": 64,
+      "start": 176.96,
+      "end": 177.16,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 65,
+      "start": 177.88,
+      "end": 178.88,
+      "en": "And you do that thing.",
+      "zh": "而你做那件事。"
+    },
+    {
+      "id": 66,
+      "start": 178.88,
+      "end": 179.42,
+      "en": "It's so thoughtful of you.",
+      "zh": "你太周到了。"
+    },
+    {
+      "id": 67,
+      "start": 179.88,
+      "end": 180.88,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 68,
+      "start": 180.88,
+      "end": 182.46,
+      "en": "Our second phrase, give me the creeps.",
+      "zh": "我们的第二句话，给我毛骨悚然。"
+    },
+    {
+      "id": 69,
+      "start": 183.36,
+      "end": 184.44,
+      "en": "Give me the creeps.",
+      "zh": "让我毛骨悚然。"
+    },
+    {
+      "id": 70,
+      "start": 185.4,
+      "end": 186.32,
+      "en": "Give me the creeps.",
+      "zh": "让我毛骨悚然。"
+    },
+    {
+      "id": 71,
+      "start": 187.04,
+      "end": 191.84,
+      "en": "This is kind of a funny phrase, but I think if we listen to some examples, we'll understand the meaning.",
+      "zh": "这个说法有点有趣，不过听几个例子，我们就能理解它的意思了。"
+    },
+    {
+      "id": 72,
+      "start": 193.76,
+      "end": 194.06,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 73,
+      "start": 197.4,
+      "end": 198.32,
+      "en": "Horror movies give me the creeps.",
+      "zh": "恐怖电影让我毛骨悚然。"
+    },
+    {
+      "id": 74,
+      "start": 203.28,
+      "end": 203.52,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 75,
+      "start": 206.28,
+      "end": 206.59,
+      "en": "Stop it.",
+      "zh": "住手。"
+    },
+    {
+      "id": 76,
+      "start": 207.28,
+      "end": 207.55,
+      "en": "You're giving me the creeps.",
+      "zh": "你让我毛骨悚然。"
+    },
+    {
+      "id": 77,
+      "start": 211.68,
+      "end": 212.1,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 78,
+      "start": 214.84,
+      "end": 216.62,
+      "en": "I saw this really scary clown.",
+      "zh": "我看到了这个非常可怕的小丑。"
+    },
+    {
+      "id": 79,
+      "start": 216.84,
+      "end": 217.62,
+      "en": "It gave me the creeps.",
+      "zh": "它让我毛骨悚然。"
+    },
+    {
+      "id": 80,
+      "start": 220.49,
+      "end": 223.85,
+      "en": "So I can see this one means to make me feel uncomfortable.",
+      "zh": "所以我可以看到这一种方式让我感到不舒服。"
+    },
+    {
+      "id": 81,
+      "start": 224.11,
+      "end": 224.67,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 82,
+      "start": 224.96,
+      "end": 227.12,
+      "en": "It makes me feel like scared.",
+      "zh": "它让我感到害怕。"
+    },
+    {
+      "id": 83,
+      "start": 227.12,
+      "end": 228.12,
+      "en": "Yeah, scared.",
+      "zh": "是的，害怕。"
+    },
+    {
+      "id": 84,
+      "start": 228.12,
+      "end": 231.16,
+      "en": "Also, gives me the creeps.",
+      "zh": "另外，让我毛骨悚然。"
+    },
+    {
+      "id": 85,
+      "start": 231.16,
+      "end": 235.4,
+      "en": "And our last phrase for language takeaway, rope me into.",
+      "zh": "以及我们的最后一句语言外卖，把我拉进去。"
+    },
+    {
+      "id": 86,
+      "start": 235.4,
+      "end": 236.87,
+      "en": "Rope me into something.",
+      "zh": "把我拉进某件事里。"
+    },
+    {
+      "id": 87,
+      "start": 237.52,
+      "end": 238.31,
+      "en": "Rope me into something.",
+      "zh": "把我拉进某件事里。"
+    },
+    {
+      "id": 88,
+      "start": 239.46,
+      "end": 241.51,
+      "en": "So if you rope me into something, it's...",
+      "zh": "所以如果你把我拉进去，那是..."
+    },
+    {
+      "id": 89,
+      "start": 241.84,
+      "end": 245.67,
+      "en": "It's like you convince me to do something that I don't really want to do.",
+      "zh": "就像你说服我做一些我真的不想做的事情。"
+    },
+    {
+      "id": 90,
+      "start": 246.16,
+      "end": 247.16,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 91,
+      "start": 247.16,
+      "end": 249.93,
+      "en": "So I roped you into lending me your car.",
+      "zh": "所以我把你借给我你的车。"
+    },
+    {
+      "id": 92,
+      "start": 250.31,
+      "end": 250.53,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 93,
+      "start": 251.2,
+      "end": 251.91,
+      "en": "It was a bad idea.",
+      "zh": "这是一个坏主意。"
+    },
+    {
+      "id": 94,
+      "start": 252.2,
+      "end": 252.81,
+      "en": "That was a bad idea.",
+      "zh": "那是个坏主意。"
+    },
+    {
+      "id": 95,
+      "start": 253.44,
+      "end": 256.8,
+      "en": "And you roped me into going out for beers after work.",
+      "zh": "下班后，你把我拉到外面去喝啤酒。"
+    },
+    {
+      "id": 96,
+      "start": 256.8,
+      "end": 258.07,
+      "en": "Yeah, that was a great idea.",
+      "zh": "是的，这是个好主意。"
+    },
+    {
+      "id": 97,
+      "start": 258.92,
+      "end": 261.49,
+      "en": "All right, so rope me into, convince.",
+      "zh": "好吧，所以把我拉进去，说服。"
+    },
+    {
+      "id": 98,
+      "start": 261.76,
+      "end": 262.76,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 99,
+      "start": 262.76,
+      "end": 263.76,
+      "en": "All righty.",
+      "zh": "好嘞。"
+    },
+    {
+      "id": 100,
+      "start": 263.76,
+      "end": 265.09,
+      "en": "So I guess we could listen to our dialogue again.",
+      "zh": "所以我想我们可以再次听我们的对话。"
+    },
+    {
+      "id": 101,
+      "start": 265.64,
+      "end": 270.23,
+      "en": "This time a little bit slower and you'll be able to understand the language a little bit more clearly.",
+      "zh": "这次速度会慢一点，你也能把这些表达听得更清楚。"
+    },
+    {
+      "id": 102,
+      "start": 273.12,
+      "end": 284.28,
+      "en": "Oh, Armand, thank you for such a thoughtful invitation.",
+      "zh": "哦，阿曼德，谢谢你这么周到的邀请。"
+    },
+    {
+      "id": 103,
+      "start": 284.28,
+      "end": 287.41,
+      "en": "It's really very nice of you to invite us over for dinner.",
+      "zh": "你邀请我们过来吃饭真是太好了。"
+    },
+    {
+      "id": 104,
+      "start": 288.52,
+      "end": 289.37,
+      "en": "Don't you think so, Ellen?",
+      "zh": "你说是不是，艾伦？"
+    },
+    {
+      "id": 105,
+      "start": 290.32,
+      "end": 291.63,
+      "en": "Oh, yes, of course.",
+      "zh": "哦，是的，当然。"
+    },
+    {
+      "id": 106,
+      "start": 292.68,
+      "end": 293.51,
+      "en": "We'd love to come over.",
+      "zh": "我们很乐意过去。"
+    },
+    {
+      "id": 107,
+      "start": 294.32,
+      "end": 295.01,
+      "en": "Can I bring anything?",
+      "zh": "我需要带什么吗？"
+    },
+    {
+      "id": 108,
+      "start": 295.97,
+      "end": 298.17,
+      "en": "No, don't worry about it.",
+      "zh": "不，不要担心。"
+    },
+    {
+      "id": 109,
+      "start": 298.57,
+      "end": 300.19,
+      "en": "I'll take care of everything.",
+      "zh": "一切交给我处理。"
+    },
+    {
+      "id": 110,
+      "start": 300.95,
+      "end": 301.97,
+      "en": "I'll see you tonight.",
+      "zh": "今晚见。"
+    },
+    {
+      "id": 111,
+      "start": 302.55,
+      "end": 303.73,
+      "en": "Come with an appetite.",
+      "zh": "可要带着胃口来。"
+    },
+    {
+      "id": 112,
+      "start": 304.53,
+      "end": 305.67,
+      "en": "I know I will.",
+      "zh": "我肯定会胃口大开的。"
+    },
+    {
+      "id": 113,
+      "start": 306.73,
+      "end": 309.39,
+      "en": "I don't want to go over to his place for dinner.",
+      "zh": "我不想去他家吃饭。"
+    },
+    {
+      "id": 114,
+      "start": 310.01,
+      "end": 310.97,
+      "en": "He gives me the creeps.",
+      "zh": "他让我浑身发毛。"
+    },
+    {
+      "id": 115,
+      "start": 311.95,
+      "end": 313.59,
+      "en": "Why on earth did you accept?",
+      "zh": "你到底为什么答应他？"
+    },
+    {
+      "id": 116,
+      "start": 314.37,
+      "end": 316.05,
+      "en": "Oh, come on, Ellen.",
+      "zh": "哎呀，拜托，艾伦。"
+    },
+    {
+      "id": 117,
+      "start": 316.79,
+      "end": 318.53,
+      "en": "It would be nice to get to know him.",
+      "zh": "很高兴认识他。"
+    },
+    {
+      "id": 118,
+      "start": 319.03,
+      "end": 323.97,
+      "en": "Besides, he's new to the neighborhood and it would be rude to decline his invitation.",
+      "zh": "此外，他是附近的新手，拒绝他的邀请是不礼貌的。"
+    },
+    {
+      "id": 119,
+      "start": 325.05,
+      "end": 326.17,
+      "en": "I guess so.",
+      "zh": "我想是吧。"
+    },
+    {
+      "id": 120,
+      "start": 327.03,
+      "end": 329.31,
+      "en": "You always rope me into things like this.",
+      "zh": "你总是把我拉进这种事里。"
+    },
+    {
+      "id": 121,
+      "start": 332.47,
+      "end": 334.77,
+      "en": "Ladies, thank you for coming.",
+      "zh": "女士们，谢谢你的到来。"
+    },
+    {
+      "id": 122,
+      "start": 335.53,
+      "end": 337.27,
+      "en": "You look delicious.",
+      "zh": "你看起来真可口。"
+    },
+    {
+      "id": 123,
+      "start": 338.11,
+      "end": 339.27,
+      "en": "I mean, beautiful.",
+      "zh": "我是说，漂亮。"
+    },
+    {
+      "id": 124,
+      "start": 339.93,
+      "end": 340.83,
+      "en": "Please come in.",
+      "zh": "请进。"
+    },
+    {
+      "id": 125,
+      "start": 341.21,
+      "end": 341.51,
+      "en": "Come in.",
+      "zh": "进来吧。"
+    },
+    {
+      "id": 126,
+      "start": 342.03,
+      "end": 345.17,
+      "en": "Oh, Armand, you are too kind.",
+      "zh": "哦，阿曼德，你太善良了。"
+    },
+    {
+      "id": 127,
+      "start": 346.21,
+      "end": 348.15,
+      "en": "How did I get myself into this?",
+      "zh": "我怎么会把自己卷进这种事里？"
+    },
+    {
+      "id": 128,
+      "start": 353.26,
+      "end": 358.42,
+      "en": "Well, I guess that's a lot more clear and with that, we can start putting it together today.",
+      "zh": "好吧，我想这更清楚了，我们可以从今天开始把它放在一起。"
+    },
+    {
+      "id": 129,
+      "start": 360.55,
+      "end": 361.41,
+      "en": "Putting it together.",
+      "zh": "综合运用。"
+    },
+    {
+      "id": 130,
+      "start": 362.99,
+      "end": 369.17,
+      "en": "Today we've got three words and phrases that we want to show you how you can put together and use differently.",
+      "zh": "今天我们要介绍三个词语和短语，看看怎样把它们组合起来，以及如何灵活使用。"
+    },
+    {
+      "id": 131,
+      "start": 370.24,
+      "end": 371.78,
+      "en": "The first one is appetite.",
+      "zh": "第一个是食欲。"
+    },
+    {
+      "id": 132,
+      "start": 372.6,
+      "end": 373.6,
+      "en": "Appetite.",
+      "zh": "胃口。"
+    },
+    {
+      "id": 133,
+      "start": 373.6,
+      "end": 374.6,
+      "en": "Appetite.",
+      "zh": "胃口。"
+    },
+    {
+      "id": 134,
+      "start": 374.6,
+      "end": 375.6,
+      "en": "Appetite.",
+      "zh": "胃口。"
+    },
+    {
+      "id": 135,
+      "start": 375.6,
+      "end": 376.6,
+      "en": "Appetite.",
+      "zh": "胃口。"
+    },
+    {
+      "id": 136,
+      "start": 376.6,
+      "end": 380.44,
+      "en": "So, appetite is like a strong desire for food, right?",
+      "zh": "所以，食欲就像对食物的强烈渴望，对吧？"
+    },
+    {
+      "id": 137,
+      "start": 380.44,
+      "end": 381.44,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 138,
+      "start": 381.44,
+      "end": 382.44,
+      "en": "An appetite.",
+      "zh": "一个胃口。"
+    },
+    {
+      "id": 139,
+      "start": 382.44,
+      "end": 385.0,
+      "en": "We've got some examples that show you how to use this phrase.",
+      "zh": "我们有一些例子告诉你如何使用这个短语。"
+    },
+    {
+      "id": 140,
+      "start": 385.92,
+      "end": 386.16,
+      "en": "Let's listen.",
+      "zh": "我们来听听。"
+    },
+    {
+      "id": 141,
+      "start": 387.76,
+      "end": 391.0,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 142,
+      "start": 391.0,
+      "end": 391.86,
+      "en": "Dinner smells so good.",
+      "zh": "晚餐闻起来很香。"
+    },
+    {
+      "id": 143,
+      "start": 392.08,
+      "end": 392.94,
+      "en": "It's giving me an appetite.",
+      "zh": "它给了我一个胃口。"
+    },
+    {
+      "id": 144,
+      "start": 397.0,
+      "end": 400.04,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 145,
+      "start": 400.04,
+      "end": 400.96,
+      "en": "You're sure eating a lot.",
+      "zh": "你肯定吃得很多。"
+    },
+    {
+      "id": 146,
+      "start": 401.46,
+      "end": 402.98,
+      "en": "You must have a big appetite.",
+      "zh": "你必须有很大的胃口。"
+    },
+    {
+      "id": 147,
+      "start": 407.12,
+      "end": 408.12,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 148,
+      "start": 408.12,
+      "end": 409.12,
+      "en": "I'm getting sick.",
+      "zh": "我病了。"
+    },
+    {
+      "id": 149,
+      "start": 412.34,
+      "end": 414.34,
+      "en": "I have a fever and I've lost my appetite.",
+      "zh": "我发烧了，我的胃口已经没了。"
+    },
+    {
+      "id": 150,
+      "start": 417.93,
+      "end": 420.53,
+      "en": "Okay, so we saw some great examples of appetite.",
+      "zh": "好的，所以我们看到了一些很好的食欲例子。"
+    },
+    {
+      "id": 151,
+      "start": 421.13,
+      "end": 422.19,
+      "en": "You can lose your appetite.",
+      "zh": "你可能会失去食欲。"
+    },
+    {
+      "id": 152,
+      "start": 422.55,
+      "end": 422.79,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 153,
+      "start": 423.19,
+      "end": 424.47,
+      "en": "You have a big appetite.",
+      "zh": "你有很大的胃口。"
+    },
+    {
+      "id": 154,
+      "start": 424.68,
+      "end": 425.91,
+      "en": "A small appetite.",
+      "zh": "一个小胃口。"
+    },
+    {
+      "id": 155,
+      "start": 426.59,
+      "end": 427.41,
+      "en": "A healthy appetite.",
+      "zh": "健康的食欲。"
+    },
+    {
+      "id": 156,
+      "start": 427.96,
+      "end": 428.96,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 157,
+      "start": 428.96,
+      "end": 429.81,
+      "en": "So, appetite just means...",
+      "zh": "所以，食欲只是意味着..."
+    },
+    {
+      "id": 158,
+      "start": 429.81,
+      "end": 430.75,
+      "en": "a desire for food.",
+      "zh": "对食物的渴望。"
+    },
+    {
+      "id": 159,
+      "start": 431.08,
+      "end": 432.64,
+      "en": "A hunger for food.",
+      "zh": "对食物的渴望。"
+    },
+    {
+      "id": 160,
+      "start": 432.64,
+      "end": 433.64,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 161,
+      "start": 433.64,
+      "end": 434.64,
+      "en": "Great.",
+      "zh": "太好了。"
+    },
+    {
+      "id": 162,
+      "start": 434.64,
+      "end": 435.11,
+      "en": "What's our second phrase for today?",
+      "zh": "我们今天的第二句话是什么？"
+    },
+    {
+      "id": 163,
+      "start": 436.12,
+      "end": 437.33,
+      "en": "Get to know someone.",
+      "zh": "认识一个人。"
+    },
+    {
+      "id": 164,
+      "start": 438.2,
+      "end": 438.65,
+      "en": "Get to know.",
+      "zh": "了解。"
+    },
+    {
+      "id": 165,
+      "start": 439.32,
+      "end": 439.81,
+      "en": "Get to know.",
+      "zh": "了解。"
+    },
+    {
+      "id": 166,
+      "start": 441.04,
+      "end": 445.4,
+      "en": "So when you get to know someone is you talk to them and you find out what they do.",
+      "zh": "因此，当您认识某人时，您会与他们交谈，您就会发现他们的所作所为。"
+    },
+    {
+      "id": 167,
+      "start": 445.88,
+      "end": 446.0,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 168,
+      "start": 446.14,
+      "end": 447.82,
+      "en": "You get more familiar with them.",
+      "zh": "你对它们更加熟悉。"
+    },
+    {
+      "id": 169,
+      "start": 448.16,
+      "end": 449.88,
+      "en": "More familiar, right?",
+      "zh": "比较熟悉吧？"
+    },
+    {
+      "id": 170,
+      "start": 449.88,
+      "end": 454.92,
+      "en": "For example, we can say, I got to know her in Spanish class and she's a really nice person.",
+      "zh": "例如，我们可以说，我在西班牙语课上认识了她，她是一个非常好的人。"
+    },
+    {
+      "id": 171,
+      "start": 454.92,
+      "end": 455.06,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 172,
+      "start": 455.92,
+      "end": 460.48,
+      "en": "Or you can say, Armand, Ellen, and Doris got to know each other at a dinner party.",
+      "zh": "或者你可以说，阿曼德、艾伦和多丽丝在晚宴上认识了对方。"
+    },
+    {
+      "id": 173,
+      "start": 460.92,
+      "end": 461.92,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 174,
+      "start": 461.92,
+      "end": 465.56,
+      "en": "Or you can say, if you get to know me, you'll see that I'm not a bad guy.",
+      "zh": "或者你可以说，如果你认识我，你会发现我不是一个坏人。"
+    },
+    {
+      "id": 175,
+      "start": 466.16,
+      "end": 467.16,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 176,
+      "start": 467.16,
+      "end": 467.31,
+      "en": "That's true.",
+      "zh": "确实如此。"
+    },
+    {
+      "id": 177,
+      "start": 468.16,
+      "end": 469.16,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 178,
+      "start": 469.16,
+      "end": 470.16,
+      "en": "Get to know.",
+      "zh": "了解。"
+    },
+    {
+      "id": 179,
+      "start": 470.16,
+      "end": 472.17,
+      "en": "And our third phrase is, why on earth?",
+      "zh": "而我们的第三个短语是，为什么在地球上？"
+    },
+    {
+      "id": 180,
+      "start": 473.04,
+      "end": 473.85,
+      "en": "Why on earth?",
+      "zh": "到底为什么？"
+    },
+    {
+      "id": 181,
+      "start": 474.44,
+      "end": 475.17,
+      "en": "Why on earth?",
+      "zh": "到底为什么？"
+    },
+    {
+      "id": 182,
+      "start": 476.16,
+      "end": 477.07,
+      "en": "Why on earth?",
+      "zh": "到底为什么？"
+    },
+    {
+      "id": 183,
+      "start": 477.29,
+      "end": 478.47,
+      "en": "This is like a saying.",
+      "zh": "这就像一句话。"
+    },
+    {
+      "id": 184,
+      "start": 478.96,
+      "end": 479.96,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 185,
+      "start": 479.96,
+      "end": 480.96,
+      "en": "Expression.",
+      "zh": "表达。"
+    },
+    {
+      "id": 186,
+      "start": 480.96,
+      "end": 481.96,
+      "en": "You can use it in a lot of different ways.",
+      "zh": "您可以以许多不同的方式使用它。"
+    },
+    {
+      "id": 187,
+      "start": 481.96,
+      "end": 483.23,
+      "en": "So we've got some examples for you.",
+      "zh": "所以我们有一些例子给你。"
+    },
+    {
+      "id": 188,
+      "start": 483.6,
+      "end": 484.05,
+      "en": "Let's listen.",
+      "zh": "我们来听听。"
+    },
+    {
+      "id": 189,
+      "start": 485.68,
+      "end": 486.68,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 190,
+      "start": 488.2,
+      "end": 489.92,
+      "en": "Where on earth is my phone?",
+      "zh": "我的手机到底在哪里？"
+    },
+    {
+      "id": 191,
+      "start": 494.36,
+      "end": 495.02,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 192,
+      "start": 498.43,
+      "end": 500.85,
+      "en": "How on earth did you learn English in one month?",
+      "zh": "你到底是怎么在一个月内学习英语的？"
+    },
+    {
+      "id": 193,
+      "start": 506.48,
+      "end": 510.2,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 194,
+      "start": 510.2,
+      "end": 511.76,
+      "en": "What on earth is it?",
+      "zh": "它到底是什么？"
+    },
+    {
+      "id": 195,
+      "start": 515.56,
+      "end": 522.11,
+      "en": "So when you ask a question with on earth, so why on earth, how on earth, what on earth, it's like you're showing a lot of surprise.",
+      "zh": "所以，问句里加上on earth，比如why on earth、how on earth、what on earth，就像是在表达非常惊讶的情绪。"
+    },
+    {
+      "id": 196,
+      "start": 522.69,
+      "end": 522.93,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 197,
+      "start": 523.11,
+      "end": 523.51,
+      "en": "Great stuff.",
+      "zh": "真不错。"
+    },
+    {
+      "id": 198,
+      "start": 523.79,
+      "end": 525.99,
+      "en": "So let's just listen to our dialogue a third time.",
+      "zh": "所以让我们第三次听我们的对话。"
+    },
+    {
+      "id": 199,
+      "start": 531.0,
+      "end": 534.2,
+      "en": "Oh, Armand, thank you for such a thoughtful invitation.",
+      "zh": "哦，阿曼德，谢谢你这么周到的邀请。"
+    },
+    {
+      "id": 200,
+      "start": 534.98,
+      "end": 538.04,
+      "en": "It's really very nice of you to invite us over for dinner.",
+      "zh": "你邀请我们过来吃饭真是太好了。"
+    },
+    {
+      "id": 201,
+      "start": 538.62,
+      "end": 539.5,
+      "en": "Don't you think so, Ellen?",
+      "zh": "你说是不是，艾伦？"
+    },
+    {
+      "id": 202,
+      "start": 540.34,
+      "end": 541.52,
+      "en": "Oh, yes, of course.",
+      "zh": "哦，是的，当然。"
+    },
+    {
+      "id": 203,
+      "start": 542.04,
+      "end": 542.9,
+      "en": "We'd love to come over.",
+      "zh": "我们很乐意过去。"
+    },
+    {
+      "id": 204,
+      "start": 543.34,
+      "end": 544.24,
+      "en": "Can I bring anything?",
+      "zh": "我需要带什么吗？"
+    },
+    {
+      "id": 205,
+      "start": 544.6,
+      "end": 544.8,
+      "en": "No.",
+      "zh": "不。"
+    },
+    {
+      "id": 206,
+      "start": 545.53,
+      "end": 546.49,
+      "en": "Don't worry about it.",
+      "zh": "别担心。"
+    },
+    {
+      "id": 207,
+      "start": 547.11,
+      "end": 548.09,
+      "en": "I'll take care of everything.",
+      "zh": "一切交给我处理。"
+    },
+    {
+      "id": 208,
+      "start": 550.75,
+      "end": 551.55,
+      "en": "I'll see you tonight.",
+      "zh": "今晚见。"
+    },
+    {
+      "id": 209,
+      "start": 551.63,
+      "end": 552.81,
+      "en": "Come with an appetite.",
+      "zh": "可要带着胃口来。"
+    },
+    {
+      "id": 210,
+      "start": 553.45,
+      "end": 554.27,
+      "en": "I know I will.",
+      "zh": "我肯定会胃口大开的。"
+    },
+    {
+      "id": 211,
+      "start": 554.69,
+      "end": 561.59,
+      "en": "I don't want to go over to his place for dinner.",
+      "zh": "我不想去他家吃饭。"
+    },
+    {
+      "id": 212,
+      "start": 562.11,
+      "end": 562.73,
+      "en": "He gives me the creeps.",
+      "zh": "他让我浑身发毛。"
+    },
+    {
+      "id": 213,
+      "start": 563.71,
+      "end": 564.93,
+      "en": "Why on earth did you accept?",
+      "zh": "你到底为什么答应他？"
+    },
+    {
+      "id": 214,
+      "start": 565.89,
+      "end": 566.43,
+      "en": "Come on, Ellen.",
+      "zh": "来吧，艾伦。"
+    },
+    {
+      "id": 215,
+      "start": 567.17,
+      "end": 568.31,
+      "en": "It'll be nice to get to know him.",
+      "zh": "认识认识他也挺好的。"
+    },
+    {
+      "id": 216,
+      "start": 568.41,
+      "end": 570.27,
+      "en": "Besides, he's new to the neighborhood.",
+      "zh": "再说，他刚搬来这个街区。"
+    },
+    {
+      "id": 217,
+      "start": 571.18,
+      "end": 574.08,
+      "en": "He'll be rude to decline his invitation.",
+      "zh": "他会粗鲁地拒绝他的邀请。"
+    },
+    {
+      "id": 218,
+      "start": 574.08,
+      "end": 574.75,
+      "en": "I guess so.",
+      "zh": "我想是吧。"
+    },
+    {
+      "id": 219,
+      "start": 575.63,
+      "end": 576.95,
+      "en": "You always wrote me into things like this.",
+      "zh": "你总是把我写成这样的事情。"
+    },
+    {
+      "id": 220,
+      "start": 590.57,
+      "end": 590.93,
+      "en": "Ladies.",
+      "zh": "女士们。"
+    },
+    {
+      "id": 221,
+      "start": 595.79,
+      "end": 596.85,
+      "en": "Thank you for coming.",
+      "zh": "谢谢你们能来。"
+    },
+    {
+      "id": 222,
+      "start": 597.34,
+      "end": 598.03,
+      "en": "You look delicious.",
+      "zh": "你看起来真可口。"
+    },
+    {
+      "id": 223,
+      "start": 598.53,
+      "end": 599.57,
+      "en": "I mean, beautiful.",
+      "zh": "我是说，漂亮。"
+    },
+    {
+      "id": 224,
+      "start": 600.07,
+      "end": 601.33,
+      "en": "Please come in.",
+      "zh": "请进。"
+    },
+    {
+      "id": 225,
+      "start": 601.4,
+      "end": 602.4,
+      "en": "Oh, Arlond, you are too kind.",
+      "zh": "哦，阿隆德，你太善良了。"
+    },
+    {
+      "id": 226,
+      "start": 608.23,
+      "end": 609.63,
+      "en": "How did I get myself into this?",
+      "zh": "我怎么会把自己卷进这种事里？"
+    },
+    {
+      "id": 227,
+      "start": 623.02,
+      "end": 625.66,
+      "en": "We want to know what you think happens next.",
+      "zh": "我们想知道您的想法接下来会发生什么。"
+    },
+    {
+      "id": 228,
+      "start": 626.04,
+      "end": 628.3,
+      "en": "Yes, what happens in this dialogue next.",
+      "zh": "是的，接下来的对话会发生什么。"
+    },
+    {
+      "id": 229,
+      "start": 629.1,
+      "end": 635.22,
+      "en": "So we want you to send us your idea of what happens next and we're going to choose the best one.",
+      "zh": "因此，我们希望您将您对接下来会发生什么的想法发送给我们，我们将选择最好的一种。"
+    },
+    {
+      "id": 230,
+      "start": 635.5,
+      "end": 635.76,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 231,
+      "start": 635.98,
+      "end": 644.06,
+      "en": "Marco and I will choose the best continuation of the story and we'll use that in part three of The New Guy in Town.",
+      "zh": "马可和我会选出最精彩的故事续篇，用在《镇上新来的家伙》第三部分里。"
+    },
+    {
+      "id": 232,
+      "start": 644.46,
+      "end": 644.88,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 233,
+      "start": 645.34,
+      "end": 647.64,
+      "en": "So you can give it any direction you want.",
+      "zh": "所以你可以给它任何你想要的方向。"
+    },
+    {
+      "id": 234,
+      "start": 647.88,
+      "end": 648.14,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 235,
+      "start": 648.71,
+      "end": 652.83,
+      "en": "And of course, we'll publish the name of the author with the lesson.",
+      "zh": "当然，我们将在课程中发布作者的姓名。"
+    },
+    {
+      "id": 236,
+      "start": 653.4,
+      "end": 654.4,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 237,
+      "start": 654.4,
+      "end": 658.79,
+      "en": "I'm really anxious to see what ideas come up and how we can end this dialogue.",
+      "zh": "我真的很想看看会出现什么想法以及我们如何结束这种对话。"
+    },
+    {
+      "id": 238,
+      "start": 659.09,
+      "end": 659.29,
+      "en": "I know.",
+      "zh": "我知道。"
+    },
+    {
+      "id": 239,
+      "start": 659.43,
+      "end": 661.55,
+      "en": "We've got a lot of really creative users out there.",
+      "zh": "我们有很多非常有创意的用户。"
+    },
+    {
+      "id": 240,
+      "start": 661.55,
+      "end": 663.57,
+      "en": "So I'm really looking forward to this.",
+      "zh": "所以我真的很期待这个。"
+    },
+    {
+      "id": 241,
+      "start": 664.12,
+      "end": 665.12,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 242,
+      "start": 665.12,
+      "end": 666.12,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 243,
+      "start": 666.12,
+      "end": 671.21,
+      "en": "So be sure to send us your ideas, either a private message or you can post it on the comment section of this lesson.",
+      "zh": "所以一定要把你的想法发给我们，可以发私信，也可以写在本课的评论区。"
+    },
+    {
+      "id": 244,
+      "start": 672.0,
+      "end": 676.14,
+      "en": "And any other questions or doubts, go to EnglishPod.com and you can leave them there.",
+      "zh": "以及任何其他问题或疑问，请访问 englishpod.com，您可以将它们留在那里。"
+    },
+    {
+      "id": 245,
+      "start": 676.44,
+      "end": 677.44,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 246,
+      "start": 677.44,
+      "end": 678.82,
+      "en": "Marco and I are always happy to answer your questions.",
+      "zh": "马可和我总是很乐意回答您的问题。"
+    },
+    {
+      "id": 247,
+      "start": 679.32,
+      "end": 680.06,
+      "en": "Okay, folks.",
+      "zh": "好吧，伙计们。"
+    },
+    {
+      "id": 248,
+      "start": 680.32,
+      "end": 681.56,
+      "en": "So until then, it's goodbye.",
+      "zh": "所以在那之前，这是再见。"
+    }
+  ],
+  "dialog": {
+    "start": 46.6,
+    "end": 125.31,
+    "segmentIds": [
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48
+    ]
+  }
+}

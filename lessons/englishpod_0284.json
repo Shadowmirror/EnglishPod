@@ -1,0 +1,1668 @@
+{
+  "version": 1,
+  "id": 284,
+  "number": "0284",
+  "title": "Daily Life - Tune Up",
+  "audio": "mp3/284. Daily Life - Tune Up.mp3",
+  "duration": 790.256375,
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.33,
+      "end": 3.47,
+      "en": "Hello everyone and welcome to EnglishPod.",
+      "zh": "大家好，欢迎来到 EnglishPod。"
+    },
+    {
+      "id": 2,
+      "start": 3.69,
+      "end": 4.11,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 4.59,
+      "end": 7.69,
+      "en": "My name is Catherine and today we have an intermediate level lesson for you.",
+      "zh": "我的名字是凯瑟琳，今天我们为您准备了一个中级课程。"
+    },
+    {
+      "id": 4,
+      "start": 7.79,
+      "end": 9.19,
+      "en": "It's kind of about cars, right?",
+      "zh": "这有点关于汽车，对吧？"
+    },
+    {
+      "id": 5,
+      "start": 9.35,
+      "end": 9.71,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 6,
+      "start": 9.95,
+      "end": 16.92,
+      "en": "So today we are taking our car to the mechanic and we're just going to check things and make sure that our car is okay.",
+      "zh": "所以今天我们要把我们的车带到机械师那里，我们只是要检查事情并确保我们的车没事。"
+    },
+    {
+      "id": 7,
+      "start": 16.92,
+      "end": 17.92,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 8,
+      "start": 18.01,
+      "end": 23.63,
+      "en": "So we're going to learn a lot of really great words that have to do with cars and what happens when cars break down.",
+      "zh": "所以我们将学习很多与汽车有关的非常棒的词，以及汽车抛锚时会发生什么。"
+    },
+    {
+      "id": 9,
+      "start": 23.95,
+      "end": 25.29,
+      "en": "So let's listen to our dialogue.",
+      "zh": "所以让我们听听我们的对话。"
+    },
+    {
+      "id": 10,
+      "start": 33.63,
+      "end": 34.71,
+      "en": "Welcome to Al's Garage.",
+      "zh": "欢迎来到阿尔汽修店。"
+    },
+    {
+      "id": 11,
+      "start": 35.52,
+      "end": 36.45,
+      "en": "What seems to be the problem?",
+      "zh": "请问有什么问题？"
+    },
+    {
+      "id": 12,
+      "start": 37.28,
+      "end": 37.95,
+      "en": "No problem at all.",
+      "zh": "完全没问题。"
+    },
+    {
+      "id": 13,
+      "start": 38.48,
+      "end": 43.53,
+      "en": "I am taking a long road trip and I want to make sure my car is in good mechanical condition.",
+      "zh": "我正在进行一次长途旅行，我想确保我的车处于良好的机械状态。"
+    },
+    {
+      "id": 14,
+      "start": 43.87,
+      "end": 44.77,
+      "en": "Very wise decision.",
+      "zh": "非常明智的决定。"
+    },
+    {
+      "id": 15,
+      "start": 45.84,
+      "end": 48.8,
+      "en": "When was the last time you had a tune-up?",
+      "zh": "您上次给车做保养是什么时候？"
+    },
+    {
+      "id": 16,
+      "start": 48.8,
+      "end": 49.63,
+      "en": "Not that long ago.",
+      "zh": "没多久以前。"
+    },
+    {
+      "id": 17,
+      "start": 50.19,
+      "end": 51.77,
+      "en": "I think it was four months ago.",
+      "zh": "我想这是四个月前的事了。"
+    },
+    {
+      "id": 18,
+      "start": 52.48,
+      "end": 56.44,
+      "en": "We usually recommend that you bring your car in every 5,000 kilometers.",
+      "zh": "我们通常建议您每 5,000 公里将您的汽车带入。"
+    },
+    {
+      "id": 19,
+      "start": 56.44,
+      "end": 56.85,
+      "en": "Why?",
+      "zh": "为什么？"
+    },
+    {
+      "id": 20,
+      "start": 57.75,
+      "end": 61.57,
+      "en": "I mean, what exactly do you do to a car that you need to check it so often?",
+      "zh": "我是说，你们到底要给车做哪些保养，才需要检查得这么频繁？"
+    },
+    {
+      "id": 21,
+      "start": 62.17,
+      "end": 65.17,
+      "en": "First of all, we change the motor oil and oil filter.",
+      "zh": "首先，我们更换机油和机油滤清器。"
+    },
+    {
+      "id": 22,
+      "start": 65.75,
+      "end": 72.39,
+      "en": "If you don't do this, it can cause your engine to wear faster and that means you would probably have to change the pistons and intake valves.",
+      "zh": "如果您不这样做，它可能会导致您的发动机磨损更快，这意味着您可能不得不更换活塞和进气门。"
+    },
+    {
+      "id": 23,
+      "start": 73.19,
+      "end": 73.87,
+      "en": "I see.",
+      "zh": "我明白了。"
+    },
+    {
+      "id": 24,
+      "start": 74.73,
+      "end": 74.97,
+      "en": "What else?",
+      "zh": "还有什么？"
+    },
+    {
+      "id": 25,
+      "start": 75.61,
+      "end": 80.71,
+      "en": "We also check your spark plugs, fuel filter, and other oil levels such as hydraulic fluid.",
+      "zh": "我们还检查您的火花塞、燃油滤清器和其他油位，例如液压油。"
+    },
+    {
+      "id": 26,
+      "start": 81.41,
+      "end": 84.77,
+      "en": "We also check the clutch and brakes to determine when you will need new ones.",
+      "zh": "我们还检查离合器和制动器以确定您何时需要新的。"
+    },
+    {
+      "id": 27,
+      "start": 85.32,
+      "end": 86.32,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 28,
+      "start": 86.32,
+      "end": 90.03,
+      "en": "Well, when you put it that way, it doesn't seem like a waste of time and money.",
+      "zh": "好吧，当你这样说的时候，它似乎并不浪费时间和金钱。"
+    },
+    {
+      "id": 29,
+      "start": 90.6,
+      "end": 90.95,
+      "en": "Trust me.",
+      "zh": "相信我。"
+    },
+    {
+      "id": 30,
+      "start": 91.6,
+      "end": 96.32,
+      "en": "Regular tune-ups will keep your car running smoothly and avoid breakdowns.",
+      "zh": "定期保养能让汽车保持良好运转，避免抛锚。"
+    },
+    {
+      "id": 31,
+      "start": 101.2,
+      "end": 101.98,
+      "en": "All right, we're back.",
+      "zh": "好了，我们回来了。"
+    },
+    {
+      "id": 32,
+      "start": 102.26,
+      "end": 109.0,
+      "en": "So a very simple dialogue with the mechanic explaining to the client about why you need to take care of your car.",
+      "zh": "因此，与机械师进行非常简单的对话，向客户解释您为什么需要照顾您的汽车。"
+    },
+    {
+      "id": 33,
+      "start": 109.66,
+      "end": 112.3,
+      "en": "So he mentioned a couple of very technical words in here.",
+      "zh": "所以他在这里提到了几个非常技术性的词。"
+    },
+    {
+      "id": 34,
+      "start": 112.44,
+      "end": 114.74,
+      "en": "Let's take a look at those on Language Takeaway.",
+      "zh": "让我们来看看那些关于语言外卖的东西。"
+    },
+    {
+      "id": 35,
+      "start": 117.72,
+      "end": 120.36,
+      "en": "Language Takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 36,
+      "start": 120.36,
+      "end": 123.64,
+      "en": "The first phrase we're looking at today is tune-up.",
+      "zh": "我们今天看到的第一个短语是调整。"
+    },
+    {
+      "id": 37,
+      "start": 123.64,
+      "end": 128.92,
+      "en": "So a tune-up is a thing, it's a noun, and it's something you do to check your car.",
+      "zh": "所以调整是一个东西，它是一个名词，它是你检查你的车的事情。"
+    },
+    {
+      "id": 38,
+      "start": 129.28,
+      "end": 129.56,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 39,
+      "start": 130.04,
+      "end": 133.52,
+      "en": "So you take your car for a tune-up or you get a tune-up.",
+      "zh": "所以你开车去调整，或者你得到一个调整。"
+    },
+    {
+      "id": 40,
+      "start": 133.52,
+      "end": 143.12,
+      "en": "Now this is for your car and this basically means to check that your car is okay and replace any very easy things around the car.",
+      "zh": "现在这是为您的汽车准备的，这基本上意味着检查您的汽车是否正常并更换汽车周围的任何非常简单的东西。"
+    },
+    {
+      "id": 41,
+      "start": 143.84,
+      "end": 146.68,
+      "en": "So you don't normally get a tune-up when your car is broken.",
+      "zh": "因此，当您的汽车坏了时，您通常不会进行调整。"
+    },
+    {
+      "id": 42,
+      "start": 147.06,
+      "end": 149.16,
+      "en": "You get a tune-up when your car is okay.",
+      "zh": "当你的车好时，你会得到调整。"
+    },
+    {
+      "id": 43,
+      "start": 149.16,
+      "end": 149.38,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 44,
+      "start": 150.36,
+      "end": 155.64,
+      "en": "So the mechanic explained some of the things that you do when you get a tune-up.",
+      "zh": "因此，机械师解释了您进行调整时所做的一些事情。"
+    },
+    {
+      "id": 45,
+      "start": 155.64,
+      "end": 159.04,
+      "en": "So for example, he said that they change the motor oil.",
+      "zh": "例如，他说他们更换机油。"
+    },
+    {
+      "id": 46,
+      "start": 159.52,
+      "end": 163.78,
+      "en": "Okay, so like it sounds, motor oil is oil for your motor.",
+      "zh": "好吧，就像听起来一样，机油是您电机的油。"
+    },
+    {
+      "id": 47,
+      "start": 164.16,
+      "end": 164.52,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 48,
+      "start": 165.36,
+      "end": 172.4,
+      "en": "And there are other kinds of oil as well and oil is oftentimes put into the car and then sometimes it falls out.",
+      "zh": "还有其他种类的油，油经常被放进车里，然后有时会掉出来。"
+    },
+    {
+      "id": 49,
+      "start": 172.4,
+      "end": 175.68,
+      "en": "And so what's that thing that catches the oil when it comes down?",
+      "zh": "那么，当油倒下时，是什么东西能抓住油呢？"
+    },
+    {
+      "id": 50,
+      "start": 175.68,
+      "end": 177.52,
+      "en": "It's called an oil pan.",
+      "zh": "它被称为油锅。"
+    },
+    {
+      "id": 51,
+      "start": 177.68,
+      "end": 179.92,
+      "en": "So yes, as you said, there are different types of oils.",
+      "zh": "所以是的，正如你所说，有不同类型的油。"
+    },
+    {
+      "id": 52,
+      "start": 180.46,
+      "end": 182.78,
+      "en": "Cooking oil is obviously for cooking, for eating.",
+      "zh": "食用油显然是用来做饭的，吃的。"
+    },
+    {
+      "id": 53,
+      "start": 183.48,
+      "end": 185.84,
+      "en": "But motor oil is not for eating, it's for your motor.",
+      "zh": "但机油不适合食用，而是用于您的电机。"
+    },
+    {
+      "id": 54,
+      "start": 186.8,
+      "end": 189.12,
+      "en": "But we also have to change the oil filter.",
+      "zh": "但我们也必须更换机油滤清器。"
+    },
+    {
+      "id": 55,
+      "start": 189.54,
+      "end": 193.28,
+      "en": "Now this is an important part that often gets mentioned at tune-ups.",
+      "zh": "现在这是一个重要的部分，经常在调整中被提及。"
+    },
+    {
+      "id": 56,
+      "start": 193.28,
+      "end": 193.44,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 57,
+      "start": 194.28,
+      "end": 197.92,
+      "en": "So the word filter here, you have the verb to filter.",
+      "zh": "所以这里的单词filter，你有动词要过滤。"
+    },
+    {
+      "id": 58,
+      "start": 198.6,
+      "end": 201.58,
+      "en": "In this case, we also have a noun, it's called a filter.",
+      "zh": "在这种情况下，我们也有一个名词，它被称为过滤器。"
+    },
+    {
+      "id": 59,
+      "start": 202.22,
+      "end": 213.14,
+      "en": "So what this device does, it collects maybe dirt or rocks and dust or anything that you don't want to be in your engine and specifically maybe if the oil is a little bit dirty.",
+      "zh": "所以这个设备的作用，它可能会收集污垢、岩石和灰尘或任何你不想进入引擎的东西，特别是如果油有点脏。"
+    },
+    {
+      "id": 60,
+      "start": 213.88,
+      "end": 220.26,
+      "en": "Right, so an oil filter makes sure that the oil in your motor is not going to harm your motor.",
+      "zh": "对，所以机油滤清器可以确保电机中的油不会损坏您的电机。"
+    },
+    {
+      "id": 61,
+      "start": 221.32,
+      "end": 224.76,
+      "en": "And we also have a couple of interesting things like the fuel filter.",
+      "zh": "我们还有一些有趣的东西，比如燃油滤清器。"
+    },
+    {
+      "id": 62,
+      "start": 225.04,
+      "end": 227.14,
+      "en": "Now how is this different from the oil filter?",
+      "zh": "现在这与机油滤清器有何不同？"
+    },
+    {
+      "id": 63,
+      "start": 227.52,
+      "end": 229.08,
+      "en": "It's pretty much the same thing.",
+      "zh": "这几乎是一回事。"
+    },
+    {
+      "id": 64,
+      "start": 229.26,
+      "end": 235.5,
+      "en": "The only difference is that this filter specifically cleans the gasoline in your car.",
+      "zh": "唯一的区别是该过滤器专门清洁汽车中的汽油。"
+    },
+    {
+      "id": 65,
+      "start": 235.74,
+      "end": 236.9,
+      "en": "Okay, similar object.",
+      "zh": "好吧，类似的对象。"
+    },
+    {
+      "id": 66,
+      "start": 237.6,
+      "end": 239.38,
+      "en": "After that, we have something very different.",
+      "zh": "在那之后，我们有一些非常不同的东西。"
+    },
+    {
+      "id": 67,
+      "start": 239.56,
+      "end": 241.46,
+      "en": "These are spark plugs.",
+      "zh": "这些是火花塞。"
+    },
+    {
+      "id": 68,
+      "start": 241.46,
+      "end": 241.6,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 69,
+      "start": 242.46,
+      "end": 245.84,
+      "en": "These are small little devices that, as the name says, create a spark.",
+      "zh": "顾名思义，这些小设备会产生火花。"
+    },
+    {
+      "id": 70,
+      "start": 246.48,
+      "end": 247.38,
+      "en": "This is how your engine goes.",
+      "zh": "这就是你的引擎的运转方式。"
+    },
+    {
+      "id": 71,
+      "start": 247.72,
+      "end": 248.54,
+      "en": "This is how your car moves.",
+      "zh": "这就是你的车的移动方式。"
+    },
+    {
+      "id": 72,
+      "start": 248.68,
+      "end": 251.06,
+      "en": "You have a spark and then everything starts running.",
+      "zh": "你有一个火花，然后一切都开始运行。"
+    },
+    {
+      "id": 73,
+      "start": 252.16,
+      "end": 253.8,
+      "en": "Spark plugs are actually quite important, right?",
+      "zh": "火花塞其实很重要，对吧？"
+    },
+    {
+      "id": 74,
+      "start": 254.2,
+      "end": 254.4,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 75,
+      "start": 255.2,
+      "end": 261.32,
+      "en": "So a spark is a very quick flash of light that comes out.",
+      "zh": "所以火花是一种非常快速的闪光，出来。"
+    },
+    {
+      "id": 76,
+      "start": 261.32,
+      "end": 261.46,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 77,
+      "start": 262.32,
+      "end": 262.46,
+      "en": "It's not a long light.",
+      "zh": "这不是一个长光。"
+    },
+    {
+      "id": 78,
+      "start": 263.32,
+      "end": 264.32,
+      "en": "It's just a spark.",
+      "zh": "这只是一个火花。"
+    },
+    {
+      "id": 79,
+      "start": 264.32,
+      "end": 270.72,
+      "en": "So maybe when I strike a match or I use a lighter, there's a spark and that's what starts the fire.",
+      "zh": "所以也许当我打火柴或使用打火机时，有一个火花，这就是引发火的原因。"
+    },
+    {
+      "id": 80,
+      "start": 270.72,
+      "end": 271.0,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 81,
+      "start": 271.72,
+      "end": 272.02,
+      "en": "That's exactly right.",
+      "zh": "完全正确。"
+    },
+    {
+      "id": 82,
+      "start": 272.72,
+      "end": 273.68,
+      "en": "So a spark plug.",
+      "zh": "所以火花塞。"
+    },
+    {
+      "id": 83,
+      "start": 274.52,
+      "end": 280.16,
+      "en": "And now we also check the oil levels of our car and that's a very important thing as well.",
+      "zh": "现在我们还检查了我们汽车的油位，这也是一件非常重要的事情。"
+    },
+    {
+      "id": 84,
+      "start": 280.5,
+      "end": 281.08,
+      "en": "Yeah, that's right.",
+      "zh": "对，没错。"
+    },
+    {
+      "id": 85,
+      "start": 281.34,
+      "end": 293.04,
+      "en": "So the oil level is something that you test with a long stick and you put it into the engine, the oil container, and make sure that there is enough oil because if there's not enough oil, you can have very serious car trouble.",
+      "zh": "所以油位是你用一根长棍测试的东西，你把它放进发动机、油容器里，并确保有足够的油，因为如果没有足够的油，你可能会遇到非常严重的汽车问题。"
+    },
+    {
+      "id": 86,
+      "start": 293.24,
+      "end": 293.84,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 87,
+      "start": 294.56,
+      "end": 298.68,
+      "en": "So a lot of technical or mechanical things that we're taking a look at.",
+      "zh": "所以我们正在研究很多技术或机械的东西。"
+    },
+    {
+      "id": 88,
+      "start": 298.68,
+      "end": 311.16,
+      "en": "Why don't we go back, let's review all these words and we'll be back in a bit.",
+      "zh": "我们为什么不回去，让我们回顾一下所有这些单词，我们会回来的。"
+    },
+    {
+      "id": 89,
+      "start": 311.16,
+      "end": 311.88,
+      "en": "Welcome to Al's Garage.",
+      "zh": "欢迎来到阿尔汽修店。"
+    },
+    {
+      "id": 90,
+      "start": 312.72,
+      "end": 313.64,
+      "en": "What seems to be the problem?",
+      "zh": "请问有什么问题？"
+    },
+    {
+      "id": 91,
+      "start": 314.48,
+      "end": 315.18,
+      "en": "No problem at all.",
+      "zh": "完全没问题。"
+    },
+    {
+      "id": 92,
+      "start": 315.72,
+      "end": 320.78,
+      "en": "I am taking a long road trip and I want to make sure my car is in good mechanical condition.",
+      "zh": "我正在进行一次长途旅行，我想确保我的车处于良好的机械状态。"
+    },
+    {
+      "id": 93,
+      "start": 321.44,
+      "end": 323.04,
+      "en": "Very wise decision.",
+      "zh": "非常明智的决定。"
+    },
+    {
+      "id": 94,
+      "start": 323.04,
+      "end": 326.0,
+      "en": "When was the last time you had a tune-up?",
+      "zh": "您上次给车做保养是什么时候？"
+    },
+    {
+      "id": 95,
+      "start": 326.0,
+      "end": 326.82,
+      "en": "Not that long ago.",
+      "zh": "没多久以前。"
+    },
+    {
+      "id": 96,
+      "start": 327.38,
+      "end": 328.94,
+      "en": "I think it was four months ago.",
+      "zh": "我想这是四个月前的事了。"
+    },
+    {
+      "id": 97,
+      "start": 329.68,
+      "end": 333.06,
+      "en": "We usually recommend that you bring your car in every 5,000 kilometers.",
+      "zh": "我们通常建议您每 5,000 公里将您的汽车带入。"
+    },
+    {
+      "id": 98,
+      "start": 333.76,
+      "end": 334.08,
+      "en": "Why?",
+      "zh": "为什么？"
+    },
+    {
+      "id": 99,
+      "start": 334.88,
+      "end": 338.82,
+      "en": "I mean, what exactly do you do to a car that you need to check it so often?",
+      "zh": "我是说，你们到底要给车做哪些保养，才需要检查得这么频繁？"
+    },
+    {
+      "id": 100,
+      "start": 339.34,
+      "end": 342.36,
+      "en": "First of all, we change the motor oil and oil filter.",
+      "zh": "首先，我们更换机油和机油滤清器。"
+    },
+    {
+      "id": 101,
+      "start": 342.9,
+      "end": 349.58,
+      "en": "If you don't do this, it can cause your engine to wear faster and that means you would probably have to change the pistons and intake valves.",
+      "zh": "如果您不这样做，它可能会导致您的发动机磨损更快，这意味着您可能不得不更换活塞和进气门。"
+    },
+    {
+      "id": 102,
+      "start": 350.36,
+      "end": 351.06,
+      "en": "I see.",
+      "zh": "我明白了。"
+    },
+    {
+      "id": 103,
+      "start": 351.74,
+      "end": 352.18,
+      "en": "What else?",
+      "zh": "还有什么？"
+    },
+    {
+      "id": 104,
+      "start": 352.81,
+      "end": 357.91,
+      "en": "We also check your spark plugs, fuel filter, and other oil levels such as hydraulic fluid.",
+      "zh": "我们还检查您的火花塞、燃油滤清器和其他油位，例如液压油。"
+    },
+    {
+      "id": 105,
+      "start": 358.61,
+      "end": 361.85,
+      "en": "We also check the clutch and brakes to determine when you will need new ones.",
+      "zh": "我们还检查离合器和制动器以确定您何时需要新的。"
+    },
+    {
+      "id": 106,
+      "start": 362.68,
+      "end": 363.68,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 107,
+      "start": 363.68,
+      "end": 367.23,
+      "en": "Well, when you put it that way, it doesn't seem like a waste of time and money.",
+      "zh": "好吧，当你这样说的时候，它似乎并不浪费时间和金钱。"
+    },
+    {
+      "id": 108,
+      "start": 367.8,
+      "end": 368.15,
+      "en": "Trust me.",
+      "zh": "相信我。"
+    },
+    {
+      "id": 109,
+      "start": 368.8,
+      "end": 373.84,
+      "en": "Regular tune-ups will keep your car running smoothly and avoid breakdowns.",
+      "zh": "定期保养能让汽车保持良好运转，避免抛锚。"
+    },
+    {
+      "id": 110,
+      "start": 373.84,
+      "end": 379.44,
+      "en": "All right, we're back.",
+      "zh": "好了，我们回来了。"
+    },
+    {
+      "id": 111,
+      "start": 379.44,
+      "end": 381.7,
+      "en": "So now we've prepared three key phrases for you.",
+      "zh": "所以现在我们为你准备了三个关键短语。"
+    },
+    {
+      "id": 112,
+      "start": 382.06,
+      "end": 384.04,
+      "en": "Let's take a look at those now on Fluency Builder.",
+      "zh": "现在来看看“流利表达”里的这些内容。"
+    },
+    {
+      "id": 113,
+      "start": 386.09,
+      "end": 386.89,
+      "en": "Fluency Builder.",
+      "zh": "流利表达。"
+    },
+    {
+      "id": 114,
+      "start": 387.92,
+      "end": 391.52,
+      "en": "This first phrase is something that you often hear in the service industry.",
+      "zh": "第一个短语是您在服务行业经常听到的。"
+    },
+    {
+      "id": 115,
+      "start": 391.56,
+      "end": 399.32,
+      "en": "So anytime you're going to a shop or maybe in this case, the mechanic, the mechanic will say to you, what seems to be the problem?",
+      "zh": "所以每当你去商店或者在这种情况下，机械师，机械师都会对你说，似乎是什么问题？"
+    },
+    {
+      "id": 116,
+      "start": 399.68,
+      "end": 400.14,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 117,
+      "start": 400.36,
+      "end": 403.88,
+      "en": "So this is a question and we're saying, what is wrong with your car?",
+      "zh": "所以这是一个问题，我们在说，你的车有什么问题？"
+    },
+    {
+      "id": 118,
+      "start": 404.08,
+      "end": 407.3,
+      "en": "Or maybe if you go to the doctor, the doctor will say, what seems to be the problem?",
+      "zh": "或者，如果你去看医生，医生会说，似乎有什么问题？"
+    },
+    {
+      "id": 119,
+      "start": 407.76,
+      "end": 409.05,
+      "en": "What seems to be the problem?",
+      "zh": "请问有什么问题？"
+    },
+    {
+      "id": 120,
+      "start": 409.36,
+      "end": 410.71,
+      "en": "So this means what's wrong with you?",
+      "zh": "所以这意味着你有什么问题？"
+    },
+    {
+      "id": 121,
+      "start": 411.36,
+      "end": 413.16,
+      "en": "Where do you have a problem?",
+      "zh": "你在哪里有问题？"
+    },
+    {
+      "id": 122,
+      "start": 413.16,
+      "end": 414.64,
+      "en": "This is a very, very common phrase.",
+      "zh": "这是一个非常非常常见的短语。"
+    },
+    {
+      "id": 123,
+      "start": 414.67,
+      "end": 415.29,
+      "en": "So remember this one.",
+      "zh": "所以请记住这一点。"
+    },
+    {
+      "id": 124,
+      "start": 415.39,
+      "end": 416.87,
+      "en": "It just means what's going on?",
+      "zh": "它只是意味着发生了什么？"
+    },
+    {
+      "id": 125,
+      "start": 417.03,
+      "end": 417.51,
+      "en": "Why are you here?",
+      "zh": "你为什么在这里？"
+    },
+    {
+      "id": 126,
+      "start": 417.99,
+      "end": 419.11,
+      "en": "What can I help you with?",
+      "zh": "我可以为您提供什么帮助？"
+    },
+    {
+      "id": 127,
+      "start": 419.33,
+      "end": 420.47,
+      "en": "It's very polite though, right?",
+      "zh": "不过很有礼貌吧？"
+    },
+    {
+      "id": 128,
+      "start": 420.61,
+      "end": 422.13,
+      "en": "It's better than saying what's wrong with you.",
+      "zh": "这比说你有什么问题要好。"
+    },
+    {
+      "id": 129,
+      "start": 422.27,
+      "end": 422.67,
+      "en": "No, yeah.",
+      "zh": "不对。"
+    },
+    {
+      "id": 130,
+      "start": 422.81,
+      "end": 424.17,
+      "en": "You wouldn't want to say what's wrong with you.",
+      "zh": "你不会想说你有什么问题。"
+    },
+    {
+      "id": 131,
+      "start": 424.19,
+      "end": 424.81,
+      "en": "That's very rude.",
+      "zh": "这很粗鲁。"
+    },
+    {
+      "id": 132,
+      "start": 425.07,
+      "end": 428.61,
+      "en": "So what seems to be the problem is a much more polite way of saying things.",
+      "zh": "所以似乎问题是一种更礼貌的表达方式。"
+    },
+    {
+      "id": 133,
+      "start": 428.75,
+      "end": 429.19,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 134,
+      "start": 429.75,
+      "end": 438.68,
+      "en": "And well, the mechanic, after explaining everything, he said that, you know, doing all these things, changing the filters will keep the car running smoothly.",
+      "zh": "好吧，机械师在解释了一切之后，他说，你知道，做所有这些事情，更换过滤器将使汽车保持平稳运行。"
+    },
+    {
+      "id": 135,
+      "start": 439.52,
+      "end": 439.92,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 136,
+      "start": 440.32,
+      "end": 443.2,
+      "en": "So we're not talking about running like a marathon here.",
+      "zh": "所以我们不是在这里谈论像马拉松一样跑步。"
+    },
+    {
+      "id": 137,
+      "start": 443.36,
+      "end": 445.62,
+      "en": "We're talking about using your car.",
+      "zh": "我们正在谈论使用您的汽车。"
+    },
+    {
+      "id": 138,
+      "start": 446.1,
+      "end": 450.16,
+      "en": "And so when we turn a car on, we don't say that the car is operating.",
+      "zh": "因此，当我们打开汽车时，我们并没有说汽车正在运行。"
+    },
+    {
+      "id": 139,
+      "start": 450.68,
+      "end": 451.68,
+      "en": "Really, we say it's running.",
+      "zh": "真的，我们说它正在运行。"
+    },
+    {
+      "id": 140,
+      "start": 452.68,
+      "end": 457.42,
+      "en": "So that means that it's in use, that I've turned the key and the motor is running.",
+      "zh": "所以这意味着它正在使用中，我已经转动了钥匙并且电机正在运转。"
+    },
+    {
+      "id": 141,
+      "start": 458.4,
+      "end": 462.36,
+      "en": "But if it's running well, we say it's running smoothly.",
+      "zh": "但如果运行良好，我们说它运行顺利。"
+    },
+    {
+      "id": 142,
+      "start": 462.36,
+      "end": 463.95,
+      "en": "So it's not having any problems.",
+      "zh": "所以它没有任何问题。"
+    },
+    {
+      "id": 143,
+      "start": 464.35,
+      "end": 464.55,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 144,
+      "start": 464.55,
+      "end": 469.17,
+      "en": "So if you turn your car on and you hear your engine, it sounds very normal, no problems.",
+      "zh": "因此，如果您打开汽车并听到您的发动机，这听起来很正常，没有问题。"
+    },
+    {
+      "id": 145,
+      "start": 469.19,
+      "end": 470.33,
+      "en": "It's running smoothly.",
+      "zh": "它运行顺利。"
+    },
+    {
+      "id": 146,
+      "start": 471.09,
+      "end": 474.41,
+      "en": "If it's going, it's not running smoothly.",
+      "zh": "如果它运行，它运行不顺利。"
+    },
+    {
+      "id": 147,
+      "start": 474.85,
+      "end": 475.21,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 148,
+      "start": 475.55,
+      "end": 481.01,
+      "en": "And obviously, if you don't take care of your car, what may happen is you may suffer a breakdown.",
+      "zh": "显然，如果您不照顾您的汽车，可能会发生的情况是您可能会遇到故障。"
+    },
+    {
+      "id": 149,
+      "start": 481.83,
+      "end": 482.03,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 150,
+      "start": 482.05,
+      "end": 485.71,
+      "en": "Remember this phrase as a phrase, because obviously things can break.",
+      "zh": "记住这个短语是一个短语，因为显然事情会破坏。"
+    },
+    {
+      "id": 151,
+      "start": 486.11,
+      "end": 487.37,
+      "en": "You know, I broke a glass.",
+      "zh": "你知道，我打破了一杯。"
+    },
+    {
+      "id": 152,
+      "start": 487.9,
+      "end": 495.0,
+      "en": "But as far as cars are concerned, you say, you know, a car breaks down or I want to avoid breakdowns.",
+      "zh": "但就汽车而言，你说，你知道，一辆汽车抛锚了，或者我想避免故障。"
+    },
+    {
+      "id": 153,
+      "start": 495.22,
+      "end": 499.1,
+      "en": "And so this is something that happens when your car no longer works properly.",
+      "zh": "因此，当您的汽车不再正常工作时，就会发生这种情况。"
+    },
+    {
+      "id": 154,
+      "start": 499.46,
+      "end": 499.82,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 155,
+      "start": 499.98,
+      "end": 502.6,
+      "en": "So you say, my car broke down yesterday.",
+      "zh": "所以你说，我的车昨天坏了。"
+    },
+    {
+      "id": 156,
+      "start": 503.56,
+      "end": 508.11,
+      "en": "And I had to call a friend to pick me up because you know, when your car breaks down, you can't go anywhere.",
+      "zh": "我不得不打电话给朋友来接我，因为你知道，当你的车抛锚时，你哪儿也去不了。"
+    },
+    {
+      "id": 157,
+      "start": 508.72,
+      "end": 509.41,
+      "en": "You can't drive it anymore.",
+      "zh": "你不能再开车了。"
+    },
+    {
+      "id": 158,
+      "start": 510.4,
+      "end": 510.57,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 159,
+      "start": 511.4,
+      "end": 515.92,
+      "en": "So to break down now, obviously, if you get a flat tire, that doesn't really mean that your car broke down.",
+      "zh": "所以现在崩溃，显然，如果你的轮胎爆胎，这并不意味着你的车坏了。"
+    },
+    {
+      "id": 160,
+      "start": 515.92,
+      "end": 517.92,
+      "en": "No, a flat tire is a bit different.",
+      "zh": "不，爆胎有点不同。"
+    },
+    {
+      "id": 161,
+      "start": 517.92,
+      "end": 520.03,
+      "en": "That means that you have to replace the tire.",
+      "zh": "这意味着您必须更换轮胎。"
+    },
+    {
+      "id": 162,
+      "start": 520.68,
+      "end": 533.48,
+      "en": "But when your car breaks down, it means that something inside the car, like a piece of it, yeah, the transmission or the spark plugs or the engine, some part of it isn't working right and you have to get it fixed or replaced.",
+      "zh": "但是当你的汽车抛锚时，这意味着车内的东西，比如它的一部分，是的，变速箱或火花塞或发动机，它的某些部分无法正常工作，你必须把它修好或更换。"
+    },
+    {
+      "id": 163,
+      "start": 533.48,
+      "end": 533.7,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 164,
+      "start": 534.48,
+      "end": 537.44,
+      "en": "Okay, so a lot of interesting things talking about cars here.",
+      "zh": "好吧，这里有很多有趣的事情谈论汽车。"
+    },
+    {
+      "id": 165,
+      "start": 537.68,
+      "end": 539.28,
+      "en": "Why don't we take a look at our dialogue again.",
+      "zh": "我们为什么不再看看我们的对话。"
+    },
+    {
+      "id": 166,
+      "start": 539.84,
+      "end": 541.08,
+      "en": "Let's listen to it and be back in a bit.",
+      "zh": "让我们听听它，然后回来一点。"
+    },
+    {
+      "id": 167,
+      "start": 549.68,
+      "end": 550.41,
+      "en": "Welcome to Al's Garage.",
+      "zh": "欢迎来到阿尔汽修店。"
+    },
+    {
+      "id": 168,
+      "start": 551.24,
+      "end": 552.13,
+      "en": "What seems to be the problem?",
+      "zh": "请问有什么问题？"
+    },
+    {
+      "id": 169,
+      "start": 553.0,
+      "end": 553.67,
+      "en": "No problem at all.",
+      "zh": "完全没问题。"
+    },
+    {
+      "id": 170,
+      "start": 554.2,
+      "end": 559.13,
+      "en": "I am taking a long road trip and I want to make sure my car is in good mechanical condition.",
+      "zh": "我正在进行一次长途旅行，我想确保我的车处于良好的机械状态。"
+    },
+    {
+      "id": 171,
+      "start": 560.0,
+      "end": 560.49,
+      "en": "Very wise decision.",
+      "zh": "非常明智的决定。"
+    },
+    {
+      "id": 172,
+      "start": 561.6,
+      "end": 564.56,
+      "en": "When was the last time you had a tune-up?",
+      "zh": "您上次给车做保养是什么时候？"
+    },
+    {
+      "id": 173,
+      "start": 564.56,
+      "end": 565.42,
+      "en": "Not that long ago.",
+      "zh": "没多久以前。"
+    },
+    {
+      "id": 174,
+      "start": 565.92,
+      "end": 568.24,
+      "en": "I think it was four months ago.",
+      "zh": "我想这是四个月前的事了。"
+    },
+    {
+      "id": 175,
+      "start": 568.24,
+      "end": 571.46,
+      "en": "We usually recommend that you bring your car in every 5,000 kilometers.",
+      "zh": "我们通常建议您每 5,000 公里将您的汽车带入。"
+    },
+    {
+      "id": 176,
+      "start": 572.28,
+      "end": 572.54,
+      "en": "Why?",
+      "zh": "为什么？"
+    },
+    {
+      "id": 177,
+      "start": 573.42,
+      "end": 577.32,
+      "en": "I mean, what exactly do you do to a car that you need to check it so often?",
+      "zh": "我是说，你们到底要给车做哪些保养，才需要检查得这么频繁？"
+    },
+    {
+      "id": 178,
+      "start": 577.84,
+      "end": 580.88,
+      "en": "First of all, we change the motor oil and oil filter.",
+      "zh": "首先，我们更换机油和机油滤清器。"
+    },
+    {
+      "id": 179,
+      "start": 581.42,
+      "end": 588.08,
+      "en": "If you don't do this, it can cause your engine to wear faster and that means you would probably have to change the pistons and intake valves.",
+      "zh": "如果您不这样做，它可能会导致您的发动机磨损更快，这意味着您可能不得不更换活塞和进气门。"
+    },
+    {
+      "id": 180,
+      "start": 588.92,
+      "end": 589.58,
+      "en": "I see.",
+      "zh": "我明白了。"
+    },
+    {
+      "id": 181,
+      "start": 590.24,
+      "end": 590.68,
+      "en": "What else?",
+      "zh": "还有什么？"
+    },
+    {
+      "id": 182,
+      "start": 591.32,
+      "end": 596.42,
+      "en": "We also check your spark plugs, fuel filter, and other oil levels such as hydraulic fluid.",
+      "zh": "我们还检查您的火花塞、燃油滤清器和其他油位，例如液压油。"
+    },
+    {
+      "id": 183,
+      "start": 597.12,
+      "end": 600.46,
+      "en": "We also check the clutch and brakes to determine when you will need new ones.",
+      "zh": "我们还检查离合器和制动器以确定您何时需要新的。"
+    },
+    {
+      "id": 184,
+      "start": 601.16,
+      "end": 605.74,
+      "en": "Okay, well, when you put it that way, it doesn't seem like a waste of time and money.",
+      "zh": "好吧，好吧，当你这样说的时候，它似乎并不浪费时间和金钱。"
+    },
+    {
+      "id": 185,
+      "start": 606.36,
+      "end": 606.64,
+      "en": "Trust me.",
+      "zh": "相信我。"
+    },
+    {
+      "id": 186,
+      "start": 607.36,
+      "end": 613.56,
+      "en": "Regular tune-ups will keep your car running smoothly and avoid breakdowns.",
+      "zh": "定期保养能让汽车保持良好运转，避免抛锚。"
+    },
+    {
+      "id": 187,
+      "start": 613.56,
+      "end": 619.88,
+      "en": "Okay, so talking about cars and tune-ups.",
+      "zh": "好吧，谈谈汽车和调整。"
+    },
+    {
+      "id": 188,
+      "start": 619.89,
+      "end": 623.97,
+      "en": "Now, when we go to the mechanic, you saw that he said, welcome to Al's Garage.",
+      "zh": "现在，当我们去找机械师时，你看到他说，欢迎来到艾尔的车库。"
+    },
+    {
+      "id": 189,
+      "start": 624.64,
+      "end": 626.85,
+      "en": "So a mechanic shop is usually called a garage.",
+      "zh": "所以机械车间通常被称为车库。"
+    },
+    {
+      "id": 190,
+      "start": 627.45,
+      "end": 627.93,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 191,
+      "start": 628.35,
+      "end": 631.91,
+      "en": "And as you will know, a garage is a place where we store cars.",
+      "zh": "正如您所知道的，车库是我们存放汽车的地方。"
+    },
+    {
+      "id": 192,
+      "start": 632.87,
+      "end": 635.21,
+      "en": "So sometimes people park their cars in the street.",
+      "zh": "所以有时人们把车停在街上。"
+    },
+    {
+      "id": 193,
+      "start": 635.65,
+      "end": 641.15,
+      "en": "But if you have a special place to protect your car from the rain or the snow, like a room for your car, that's called a garage.",
+      "zh": "但是，如果您有一个特殊的地方可以保护您的汽车免受雨雪或雪的影响，例如您的汽车房间，那就是车库。"
+    },
+    {
+      "id": 194,
+      "start": 642.11,
+      "end": 650.35,
+      "en": "And this might be confusing, but a store, like you say, for a mechanic is a garage also because there's a door that opens up the same way.",
+      "zh": "这可能会令人困惑，但就像你说的那样，一家商店也是一个车库，因为有一扇门可以以同样的方式打开。"
+    },
+    {
+      "id": 195,
+      "start": 650.43,
+      "end": 652.19,
+      "en": "It opens up, not out.",
+      "zh": "它打开，而不是。"
+    },
+    {
+      "id": 196,
+      "start": 653.08,
+      "end": 656.11,
+      "en": "And you pull the car inside and then the mechanic can fix the car.",
+      "zh": "你把车拉进去，然后机械师可以修理汽车。"
+    },
+    {
+      "id": 197,
+      "start": 656.3,
+      "end": 658.4,
+      "en": "And so I think that's why it's a garage.",
+      "zh": "所以我认为这就是为什么它是一个车库。"
+    },
+    {
+      "id": 198,
+      "start": 658.4,
+      "end": 659.55,
+      "en": "There's room for many cars inside.",
+      "zh": "里面有很多车的空间。"
+    },
+    {
+      "id": 199,
+      "start": 660.12,
+      "end": 660.29,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 200,
+      "start": 661.12,
+      "end": 665.19,
+      "en": "So you take, or if your car is at the mechanic shop, you would say, oh, my car is at the garage.",
+      "zh": "所以你接受，或者如果你的车在机械车间，你会说，哦，我的车在车库里。"
+    },
+    {
+      "id": 201,
+      "start": 666.11,
+      "end": 666.63,
+      "en": "It's getting fixed.",
+      "zh": "它正在修复。"
+    },
+    {
+      "id": 202,
+      "start": 667.11,
+      "end": 667.65,
+      "en": "Yeah, that's right.",
+      "zh": "对，没错。"
+    },
+    {
+      "id": 203,
+      "start": 667.92,
+      "end": 670.88,
+      "en": "But it's a little bit different from the place where you would buy a car.",
+      "zh": "但这与您购买汽车的地方有点不同。"
+    },
+    {
+      "id": 204,
+      "start": 670.88,
+      "end": 674.84,
+      "en": "A place where you buy a car is a car lot, L-O-T, lot.",
+      "zh": "你买车的地方是汽车，L-O-T，很多。"
+    },
+    {
+      "id": 205,
+      "start": 674.84,
+      "end": 678.53,
+      "en": "And that's a place where they have many, many cars outside, like in a big parking lot.",
+      "zh": "那是他们外面有很多汽车的地方，就像在一个大停车场一样。"
+    },
+    {
+      "id": 206,
+      "start": 678.93,
+      "end": 679.51,
+      "en": "That's what we call a lot.",
+      "zh": "这就是我们所说的很多。"
+    },
+    {
+      "id": 207,
+      "start": 679.91,
+      "end": 681.83,
+      "en": "And you can pick a car and buy it and test it.",
+      "zh": "你可以挑选一辆车买它并测试它。"
+    },
+    {
+      "id": 208,
+      "start": 681.99,
+      "end": 687.13,
+      "en": "But a place where you fix a car, not special, that's called a garage or a repair shop.",
+      "zh": "但是一个你修车的地方，而不是特别的，叫做车库或修理厂。"
+    },
+    {
+      "id": 209,
+      "start": 687.39,
+      "end": 699.72,
+      "en": "Now, something that's very interesting and very common in places like the States and Canada is that there are actually used car lots where you can see many cars that are used and they're trying to sell.",
+      "zh": "现在，在美国和加拿大等地非常有趣且非常常见的地方是，实际上有二手车场，您可以看到许多使用过的汽车并试图出售。"
+    },
+    {
+      "id": 210,
+      "start": 700.32,
+      "end": 704.88,
+      "en": "But obviously in many other countries, it's not very common to see a used car lot.",
+      "zh": "但显然在许多其他国家，看到二手车并不常见。"
+    },
+    {
+      "id": 211,
+      "start": 705.06,
+      "end": 710.3,
+      "en": "Well, I think in America, people like to buy new cars and that means that every couple of years, they sell their old car.",
+      "zh": "好吧，我认为在美国，人们喜欢购买新车，这意味着每隔几年，他们就会出售他们的旧车。"
+    },
+    {
+      "id": 212,
+      "start": 710.6,
+      "end": 711.52,
+      "en": "But that car is still good.",
+      "zh": "但是那辆车还是不错的。"
+    },
+    {
+      "id": 213,
+      "start": 712.12,
+      "end": 713.32,
+      "en": "You can still use a car from 2005.",
+      "zh": "从2005年起，您仍然可以使用汽车。"
+    },
+    {
+      "id": 214,
+      "start": 714.48,
+      "end": 716.28,
+      "en": "In fact, when I had a car, it was from 1991.",
+      "zh": "事实上，当我有一辆车时，它是从 1991 年开始的。"
+    },
+    {
+      "id": 215,
+      "start": 717.18,
+      "end": 718.92,
+      "en": "It was 16 years old at the time.",
+      "zh": "当时是16岁。"
+    },
+    {
+      "id": 216,
+      "start": 719.62,
+      "end": 721.08,
+      "en": "And so I could still drive it.",
+      "zh": "所以我仍然可以驾驶它。"
+    },
+    {
+      "id": 217,
+      "start": 721.16,
+      "end": 721.72,
+      "en": "It was a good car.",
+      "zh": "这是一辆好车。"
+    },
+    {
+      "id": 218,
+      "start": 722.16,
+      "end": 724.53,
+      "en": "And I think that as long as you can drive it, you can sell it.",
+      "zh": "而且我认为只要你能开车，你就可以卖掉它。"
+    },
+    {
+      "id": 219,
+      "start": 725.08,
+      "end": 730.77,
+      "en": "This is actually another interesting thing about cars in general in places like this is that there are so many cars.",
+      "zh": "在这样的地方，这实际上是汽车的另一个有趣的事情，就是有这么多的汽车。"
+    },
+    {
+      "id": 220,
+      "start": 730.88,
+      "end": 737.37,
+      "en": "And as you say, people are often buying new cars every year or trading their cars every five years, let's say.",
+      "zh": "正如你所说，人们经常每年购买新车或每五年交易一次汽车，比如说。"
+    },
+    {
+      "id": 221,
+      "start": 738.08,
+      "end": 739.96,
+      "en": "Used cars are very, very, very inexpensive.",
+      "zh": "二手车非常、非常、非常便宜。"
+    },
+    {
+      "id": 222,
+      "start": 739.96,
+      "end": 743.12,
+      "en": "I mean, you can get a car for like $500 sometimes.",
+      "zh": "我的意思是，你有时可以花 500 美元买一辆车。"
+    },
+    {
+      "id": 223,
+      "start": 743.12,
+      "end": 743.33,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 224,
+      "start": 744.12,
+      "end": 750.11,
+      "en": "And in a lot of cases, it doesn't make sense to buy a new car because it's going to be less valuable in one day.",
+      "zh": "在很多情况下，购买一辆新车是没有意义的，因为它在一天内会变得不那么有价值。"
+    },
+    {
+      "id": 225,
+      "start": 751.2,
+      "end": 757.8,
+      "en": "But a used car, as long as it doesn't have any problems, like you don't want to buy a car that has faulty spark plugs or whatever.",
+      "zh": "但是一辆二手车，只要它没有任何问题，比如你不想买一辆有故障火花塞或其他东西的汽车。"
+    },
+    {
+      "id": 226,
+      "start": 758.12,
+      "end": 762.96,
+      "en": "But as long as it runs smoothly, I think that it's a very good investment to buy a used car.",
+      "zh": "但只要运行顺利，我认为购买二手车是一项非常好的投资。"
+    },
+    {
+      "id": 227,
+      "start": 763.72,
+      "end": 764.72,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 228,
+      "start": 764.72,
+      "end": 769.02,
+      "en": "So it's interesting because in many countries, used cars are actually not that much cheaper.",
+      "zh": "所以这很有趣，因为在许多国家，二手车实际上并没有那么便宜。"
+    },
+    {
+      "id": 229,
+      "start": 769.36,
+      "end": 772.64,
+      "en": "So why don't you come to our website, EnglishPod.com.",
+      "zh": "那么你为什么不来我们的网站 Englishpod.com。"
+    },
+    {
+      "id": 230,
+      "start": 772.64,
+      "end": 779.18,
+      "en": "Let us know if taking your car to the mechanic is very expensive or buying a used car is still relatively expensive.",
+      "zh": "让我们知道将您的车带到机械师是否非常昂贵或购买二手车仍然相对昂贵。"
+    },
+    {
+      "id": 231,
+      "start": 779.8,
+      "end": 781.74,
+      "en": "We hope to see you guys there and until next time.",
+      "zh": "我们希望在那里见到你们，直到下一次。"
+    },
+    {
+      "id": 232,
+      "start": 781.8,
+      "end": 782.8,
+      "en": "Bye.",
+      "zh": "再见。"
+    },
+    {
+      "id": 233,
+      "start": 782.8,
+      "end": 790.256,
+      "en": "Bye.",
+      "zh": "再见。"
+    }
+  ],
+  "dialog": {
+    "start": 33.63,
+    "end": 96.32,
+    "segmentIds": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30
+    ]
+  }
+}

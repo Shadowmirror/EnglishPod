@@ -1,0 +1,1753 @@
+{
+  "version": 1,
+  "id": 29,
+  "number": "0029",
+  "title": "Global View - Investing in Emerging Markets",
+  "audio": "mp3/29. Global View - Investing in Emerging Markets.mp3",
+  "duration": 680.3853125,
+  "segments": [
+    {
+      "id": 1,
+      "start": 2.29,
+      "end": 2.91,
+      "en": "Hello, English learners.",
+      "zh": "各位英语学习者，大家好。"
+    },
+    {
+      "id": 2,
+      "start": 3.28,
+      "end": 4.55,
+      "en": "Welcome back to EnglishPod.",
+      "zh": "欢迎回到 EnglishPod。"
+    },
+    {
+      "id": 3,
+      "start": 5.01,
+      "end": 5.69,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 4,
+      "start": 6.03,
+      "end": 6.57,
+      "en": "And I'm Erica.",
+      "zh": "我叫 Erica。"
+    },
+    {
+      "id": 5,
+      "start": 7.07,
+      "end": 9.59,
+      "en": "We're bringing you an advanced lesson today.",
+      "zh": "我们今天为您带来高级课程。"
+    },
+    {
+      "id": 6,
+      "start": 9.89,
+      "end": 10.31,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 7,
+      "start": 10.75,
+      "end": 13.97,
+      "en": "An advanced lesson where we talk about investing in emerging markets.",
+      "zh": "一个高级课程，我们谈论投资新兴市场。"
+    },
+    {
+      "id": 8,
+      "start": 14.35,
+      "end": 14.51,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 9,
+      "start": 14.95,
+      "end": 16.75,
+      "en": "So it's kind of a business topic.",
+      "zh": "所以这是一个商业话题。"
+    },
+    {
+      "id": 10,
+      "start": 17.16,
+      "end": 19.88,
+      "en": "It's kind of a world topic as well.",
+      "zh": "这也是一个世界话题。"
+    },
+    {
+      "id": 11,
+      "start": 19.88,
+      "end": 20.88,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 12,
+      "start": 20.88,
+      "end": 21.57,
+      "en": "And it's pretty difficult.",
+      "zh": "这很困难。"
+    },
+    {
+      "id": 13,
+      "start": 21.88,
+      "end": 22.88,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 14,
+      "start": 22.88,
+      "end": 23.88,
+      "en": "It is really hard.",
+      "zh": "真的很难。"
+    },
+    {
+      "id": 15,
+      "start": 23.88,
+      "end": 24.88,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 16,
+      "start": 24.88,
+      "end": 28.64,
+      "en": "So if you're listening and you don't understand everything, please don't get discouraged.",
+      "zh": "因此，如果您在倾听并且您不了解所有内容，请不要气馁。"
+    },
+    {
+      "id": 17,
+      "start": 28.64,
+      "end": 30.88,
+      "en": "Don't worry about it because we're here to learn.",
+      "zh": "不要担心，因为我们是来学习的。"
+    },
+    {
+      "id": 18,
+      "start": 31.12,
+      "end": 31.32,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 19,
+      "start": 31.32,
+      "end": 32.18,
+      "en": "And we're here to help you.",
+      "zh": "我们在这里为您提供帮助。"
+    },
+    {
+      "id": 20,
+      "start": 32.44,
+      "end": 32.58,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 21,
+      "start": 33.38,
+      "end": 35.4,
+      "en": "So let's get started with this.",
+      "zh": "所以让我们开始吧。"
+    },
+    {
+      "id": 22,
+      "start": 35.52,
+      "end": 36.84,
+      "en": "I'm really excited about this lesson.",
+      "zh": "我对这节课真的很兴奋。"
+    },
+    {
+      "id": 23,
+      "start": 36.84,
+      "end": 37.84,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 24,
+      "start": 37.84,
+      "end": 38.84,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 25,
+      "start": 38.84,
+      "end": 39.84,
+      "en": "Well, Marco, maybe you can tell us a little bit.",
+      "zh": "好吧，马可，也许你可以告诉我们一点。"
+    },
+    {
+      "id": 26,
+      "start": 39.84,
+      "end": 40.9,
+      "en": "What is an emerging market?",
+      "zh": "什么是新兴市场？"
+    },
+    {
+      "id": 27,
+      "start": 41.48,
+      "end": 45.75,
+      "en": "An emerging market is a market that is starting to develop.",
+      "zh": "新兴市场是一个开始发展的市场。"
+    },
+    {
+      "id": 28,
+      "start": 46.07,
+      "end": 46.31,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 29,
+      "start": 46.47,
+      "end": 47.57,
+      "en": "And it's growing rapidly.",
+      "zh": "而且它正在迅速增长。"
+    },
+    {
+      "id": 30,
+      "start": 48.04,
+      "end": 50.76,
+      "en": "So you can maybe give some examples of emerging market.",
+      "zh": "所以你可以举一些新兴市场的例子。"
+    },
+    {
+      "id": 31,
+      "start": 50.87,
+      "end": 52.97,
+      "en": "Well, for example, China is an emerging market.",
+      "zh": "好吧，例如，中国是一个新兴市场。"
+    },
+    {
+      "id": 32,
+      "start": 53.15,
+      "end": 53.31,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 33,
+      "start": 54.24,
+      "end": 56.2,
+      "en": "In the last years, it's been growing rapidly.",
+      "zh": "在过去的几年里，它一直在快速增长。"
+    },
+    {
+      "id": 34,
+      "start": 56.2,
+      "end": 59.09,
+      "en": "More and more people are moving to the middle class and have money to spend.",
+      "zh": "越来越多的人搬到中产阶级，有钱花。"
+    },
+    {
+      "id": 35,
+      "start": 59.51,
+      "end": 59.69,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 36,
+      "start": 59.93,
+      "end": 60.17,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 37,
+      "start": 61.56,
+      "end": 63.56,
+      "en": "So China is like a really great example of an emerging market.",
+      "zh": "因此，中国就像一个新兴市场的好例子。"
+    },
+    {
+      "id": 38,
+      "start": 63.56,
+      "end": 64.56,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 39,
+      "start": 64.56,
+      "end": 66.67,
+      "en": "Well, with that, let's listen to the dialogue for the first time.",
+      "zh": "好吧，有了这个，让我们第一次听对话。"
+    },
+    {
+      "id": 40,
+      "start": 79.11,
+      "end": 80.57,
+      "en": "Dad, I'd like to borrow some money.",
+      "zh": "爸，我想借点钱。"
+    },
+    {
+      "id": 41,
+      "start": 81.15,
+      "end": 81.81,
+      "en": "Sure, Johnny.",
+      "zh": "当然，约翰尼。"
+    },
+    {
+      "id": 42,
+      "start": 82.03,
+      "end": 82.57,
+      "en": "How much do you need?",
+      "zh": "你需要多少？"
+    },
+    {
+      "id": 43,
+      "start": 83.09,
+      "end": 83.37,
+      "en": "Five bucks?",
+      "zh": "五美元？"
+    },
+    {
+      "id": 44,
+      "start": 84.17,
+      "end": 84.85,
+      "en": "Come on, Dad.",
+      "zh": "拜托，爸爸。"
+    },
+    {
+      "id": 45,
+      "start": 85.04,
+      "end": 86.04,
+      "en": "I need $30,000.",
+      "zh": "我需要三万美元。"
+    },
+    {
+      "id": 46,
+      "start": 86.35,
+      "end": 87.29,
+      "en": "I want to get into the market.",
+      "zh": "我想投资股市。"
+    },
+    {
+      "id": 47,
+      "start": 87.73,
+      "end": 93.75,
+      "en": "You know, I'm tired of hearing all this news about the economic downturn, the inevitable recession, people stuffing their money in their mattresses.",
+      "zh": "整天听经济下行、不可避免的衰退，还有人把钱都藏到床垫里的消息，我听腻了。"
+    },
+    {
+      "id": 48,
+      "start": 94.39,
+      "end": 95.45,
+      "en": "I look at this as an opportunity.",
+      "zh": "我认为这是一个机会。"
+    },
+    {
+      "id": 49,
+      "start": 96.07,
+      "end": 98.49,
+      "en": "This is a chance for me to get a jumpstart on building my nest egg.",
+      "zh": "这正是让我开始积累个人储蓄的好机会。"
+    },
+    {
+      "id": 50,
+      "start": 98.77,
+      "end": 99.79,
+      "en": "I don't know about that.",
+      "zh": "我可不这么认为。"
+    },
+    {
+      "id": 51,
+      "start": 100.24,
+      "end": 103.65,
+      "en": "With all the uncertainty in the markets right now, it would be a very unwise decision to invest.",
+      "zh": "鉴于目前市场的所有不确定性，投资将是一个非常不明智的决定。"
+    },
+    {
+      "id": 52,
+      "start": 104.44,
+      "end": 108.27,
+      "en": "I don't know if you're aware, son, but there has been a lot of turmoil in the markets recently.",
+      "zh": "儿子，不知你有没有留意，最近市场一直动荡不安。"
+    },
+    {
+      "id": 53,
+      "start": 109.41,
+      "end": 116.73,
+      "en": "There have already been half a million layoffs in the last few months, and we have no idea how the proposed stimulus package will impact upon the economy.",
+      "zh": "在过去的几个月里，已经有 50 万人被裁员，我们不知道拟议的刺激方案将如何影响经济。"
+    },
+    {
+      "id": 54,
+      "start": 117.39,
+      "end": 118.49,
+      "en": "There's just too much instability.",
+      "zh": "现在的不稳定因素太多了。"
+    },
+    {
+      "id": 55,
+      "start": 119.41,
+      "end": 121.59,
+      "en": "I just wouldn't feel comfortable investing in this climate.",
+      "zh": "在这种市场环境下投资，我心里不踏实。"
+    },
+    {
+      "id": 56,
+      "start": 121.8,
+      "end": 123.56,
+      "en": "But look at it this way.",
+      "zh": "换个角度想。"
+    },
+    {
+      "id": 57,
+      "start": 123.56,
+      "end": 124.47,
+      "en": "Every challenge is an opportunity.",
+      "zh": "每一个挑战都是一个机会。"
+    },
+    {
+      "id": 58,
+      "start": 125.23,
+      "end": 127.91,
+      "en": "And anyway, I'm not talking about investing in the domestic market.",
+      "zh": "无论如何，我不是在谈论投资国内市场。"
+    },
+    {
+      "id": 59,
+      "start": 128.35,
+      "end": 130.19,
+      "en": "There are emerging markets that promise great returns.",
+      "zh": "一些新兴市场可能带来丰厚回报。"
+    },
+    {
+      "id": 60,
+      "start": 130.85,
+      "end": 131.69,
+      "en": "Look at China, for example.",
+      "zh": "以中国为例。"
+    },
+    {
+      "id": 61,
+      "start": 132.19,
+      "end": 136.07,
+      "en": "They have 1.4 billion people, half a billion of whom have recently entered the middle class.",
+      "zh": "中国有十四亿人口，其中有五亿最近跻身中产阶级。"
+    },
+    {
+      "id": 62,
+      "start": 137.04,
+      "end": 141.37,
+      "en": "Here alone, the aggregate demand for consumer goods represents an amazing wealth-generating opportunity.",
+      "zh": "单是这里的消费品总需求，就蕴含着巨大的财富增长机会。"
+    },
+    {
+      "id": 63,
+      "start": 141.88,
+      "end": 144.41,
+      "en": "Oh, come on, son, you're looking at this too naively.",
+      "zh": "得了吧，儿子，你想得太天真了。"
+    },
+    {
+      "id": 64,
+      "start": 145.04,
+      "end": 151.05,
+      "en": "The Chinese market has exhibited a great deal of instability, and their currency has been devalued by almost a whole percentage point.",
+      "zh": "中国市场波动很大，人民币也贬值了将近一个百分点。"
+    },
+    {
+      "id": 65,
+      "start": 151.73,
+      "end": 152.27,
+      "en": "Fine, then.",
+      "zh": "那好吧。"
+    },
+    {
+      "id": 66,
+      "start": 152.61,
+      "end": 154.23,
+      "en": "If that's the way you feel, so be it.",
+      "zh": "既然你这么想，那就算了。"
+    },
+    {
+      "id": 67,
+      "start": 154.47,
+      "end": 156.29,
+      "en": "But you're losing out on a great opportunity here.",
+      "zh": "可你会错过一个大好机会。"
+    },
+    {
+      "id": 68,
+      "start": 156.72,
+      "end": 169.72,
+      "en": "I'm going to hit up mom for the cash.",
+      "zh": "我去找妈妈要钱。"
+    },
+    {
+      "id": 69,
+      "start": 169.72,
+      "end": 173.91,
+      "en": "Well, it sounds like the dad has missed out on a really big investment opportunity, hey?",
+      "zh": "好吧，听起来爸爸错过了一个非常大的投资机会，嘿？"
+    },
+    {
+      "id": 70,
+      "start": 174.32,
+      "end": 175.91,
+      "en": "Yeah, and his son is pretty smart.",
+      "zh": "是的，他的儿子很聪明。"
+    },
+    {
+      "id": 71,
+      "start": 177.44,
+      "end": 178.25,
+      "en": "Pretty smart little boy.",
+      "zh": "相当聪明的小男孩。"
+    },
+    {
+      "id": 72,
+      "start": 179.07,
+      "end": 182.39,
+      "en": "Okay, so we have some great words that we want to look at here.",
+      "zh": "好的，所以我们在这里有一些很棒的词。"
+    },
+    {
+      "id": 73,
+      "start": 182.97,
+      "end": 185.33,
+      "en": "Why don't we start with the first one, turmoil.",
+      "zh": "我们为什么不从第一个开始，动荡。"
+    },
+    {
+      "id": 74,
+      "start": 185.89,
+      "end": 186.29,
+      "en": "Turmoil.",
+      "zh": "动荡。"
+    },
+    {
+      "id": 75,
+      "start": 187.05,
+      "end": 187.53,
+      "en": "Turmoil.",
+      "zh": "动荡。"
+    },
+    {
+      "id": 76,
+      "start": 187.92,
+      "end": 188.92,
+      "en": "Turmoil.",
+      "zh": "动荡。"
+    },
+    {
+      "id": 77,
+      "start": 188.92,
+      "end": 192.29,
+      "en": "So we have some great examples of how turmoil is used in different sentences.",
+      "zh": "所以我们有一些很好的例子来说明如何在不同的句子中使用混乱。"
+    },
+    {
+      "id": 78,
+      "start": 192.72,
+      "end": 193.45,
+      "en": "So let's listen.",
+      "zh": "那么我们来听听。"
+    },
+    {
+      "id": 79,
+      "start": 195.04,
+      "end": 204.01,
+      "en": "Example one, with a civil war, a famine, and inflation, the country has been in turmoil for ten years.",
+      "zh": "例一，随着内战、饥荒和通货膨胀，这个国家已经动荡了十年。"
+    },
+    {
+      "id": 80,
+      "start": 209.76,
+      "end": 216.93,
+      "en": "Example two, there's been a lot of turmoil in my life recently.",
+      "zh": "例二，我最近的生活中发生了很多动荡。"
+    },
+    {
+      "id": 81,
+      "start": 217.16,
+      "end": 218.84,
+      "en": "I've moved to a new city.",
+      "zh": "我搬到了一个新的城市。"
+    },
+    {
+      "id": 82,
+      "start": 218.93,
+      "end": 219.69,
+      "en": "I've changed my job.",
+      "zh": "我换了工作。"
+    },
+    {
+      "id": 83,
+      "start": 220.27,
+      "end": 221.31,
+      "en": "I broke up with my girlfriend.",
+      "zh": "我和我的女朋友分手了。"
+    },
+    {
+      "id": 84,
+      "start": 226.28,
+      "end": 234.6,
+      "en": "Example three, the devaluation of the dollar caused a great deal of turmoil in the markets.",
+      "zh": "例三，美元贬值在市场上引起了很大的动荡。"
+    },
+    {
+      "id": 85,
+      "start": 238.38,
+      "end": 241.52,
+      "en": "So turmoil is a state of...",
+      "zh": "所以动荡是一种状态..."
+    },
+    {
+      "id": 86,
+      "start": 241.64,
+      "end": 244.94,
+      "en": "Of uncertainty, of change, of difficult times.",
+      "zh": "不确定性，变化，困难时期。"
+    },
+    {
+      "id": 87,
+      "start": 245.12,
+      "end": 245.92,
+      "en": "A little bit of chaos.",
+      "zh": "有点混乱。"
+    },
+    {
+      "id": 88,
+      "start": 246.12,
+      "end": 247.6,
+      "en": "Yeah, yeah, yeah.",
+      "zh": "对，对，对。"
+    },
+    {
+      "id": 89,
+      "start": 247.6,
+      "end": 253.58,
+      "en": "So for example, when there's a lot of turmoil in the market, that means stock prices are changing drastically from day to day.",
+      "zh": "因此，例如，当市场出现大量动荡时，这意味着股票价格每天都在发生巨大变化。"
+    },
+    {
+      "id": 90,
+      "start": 254.08,
+      "end": 256.02,
+      "en": "Right, or the economy is in turmoil.",
+      "zh": "对了，否则经济正在动荡。"
+    },
+    {
+      "id": 91,
+      "start": 256.72,
+      "end": 258.34,
+      "en": "There's a lot of problems going on.",
+      "zh": "有很多问题正在发生。"
+    },
+    {
+      "id": 92,
+      "start": 258.76,
+      "end": 259.76,
+      "en": "Yeah, uncertainty.",
+      "zh": "是的，不确定性。"
+    },
+    {
+      "id": 93,
+      "start": 259.8,
+      "end": 260.3,
+      "en": "Uncertainty.",
+      "zh": "不确定性。"
+    },
+    {
+      "id": 94,
+      "start": 260.76,
+      "end": 261.76,
+      "en": "Okay, good word.",
+      "zh": "好吧，好词。"
+    },
+    {
+      "id": 95,
+      "start": 262.08,
+      "end": 267.93,
+      "en": "All right, and we also saw something really interesting in the dialogue about a proposed stimulus package.",
+      "zh": "好吧，我们在关于提议的刺激方案的对话中也看到了一些非常有趣的东西。"
+    },
+    {
+      "id": 96,
+      "start": 268.32,
+      "end": 271.56,
+      "en": "A proposed stimulus package.",
+      "zh": "提议的刺激方案。"
+    },
+    {
+      "id": 97,
+      "start": 271.56,
+      "end": 275.15,
+      "en": "So a proposed stimulus package is something that's going on now.",
+      "zh": "因此，提出的刺激方案是现在正在进行的事情。"
+    },
+    {
+      "id": 98,
+      "start": 275.36,
+      "end": 276.67,
+      "en": "Yes, let's break this phrase down.",
+      "zh": "是的，让我们分解这句话。"
+    },
+    {
+      "id": 99,
+      "start": 277.13,
+      "end": 278.99,
+      "en": "So we've got stimulus package.",
+      "zh": "所以我们有刺激包。"
+    },
+    {
+      "id": 100,
+      "start": 279.45,
+      "end": 283.49,
+      "en": "A stimulus package, something to stimulate the economy, right?",
+      "zh": "一个刺激方案，刺激经济的东西，对吧？"
+    },
+    {
+      "id": 101,
+      "start": 283.73,
+      "end": 286.71,
+      "en": "Right, so money from the government to get the economy moving.",
+      "zh": "对，所以政府的钱让经济动起来。"
+    },
+    {
+      "id": 102,
+      "start": 287.01,
+      "end": 288.53,
+      "en": "To get it moving, stimulus package.",
+      "zh": "为了让它移动，刺激包。"
+    },
+    {
+      "id": 103,
+      "start": 289.11,
+      "end": 289.55,
+      "en": "Proposed.",
+      "zh": "提议。"
+    },
+    {
+      "id": 104,
+      "start": 290.41,
+      "end": 292.37,
+      "en": "It means that it hasn't been approved yet.",
+      "zh": "这意味着它还没有被批准。"
+    },
+    {
+      "id": 105,
+      "start": 292.65,
+      "end": 293.39,
+      "en": "Right, it's suggested.",
+      "zh": "对，建议。"
+    },
+    {
+      "id": 106,
+      "start": 293.64,
+      "end": 294.83,
+      "en": "It's suggested, it's an idea.",
+      "zh": "建议，这是一个想法。"
+    },
+    {
+      "id": 107,
+      "start": 296.12,
+      "end": 301.16,
+      "en": "So the proposed stimulus package for the US economy, for example, is $150 billion.",
+      "zh": "例如，拟议的美国经济刺激方案为 1500 亿美元。"
+    },
+    {
+      "id": 108,
+      "start": 301.64,
+      "end": 307.48,
+      "en": "Right, that's $150 billion of American taxpayers' money that the government wants to pay.",
+      "zh": "是的，这是政府想要支付的 1500 亿美元的美国纳税人的钱。"
+    },
+    {
+      "id": 109,
+      "start": 307.48,
+      "end": 309.22,
+      "en": "Put into the economy to keep it moving.",
+      "zh": "投入经济以保持其运转。"
+    },
+    {
+      "id": 110,
+      "start": 309.48,
+      "end": 310.34,
+      "en": "To keep it moving, right.",
+      "zh": "为了让它继续前进，对。"
+    },
+    {
+      "id": 111,
+      "start": 310.94,
+      "end": 315.92,
+      "en": "So if it works or not, that's still a debate, but it's a proposed stimulus package.",
+      "zh": "因此，如果它有效与否，这仍然是一场辩论，但它是一个提议的刺激方案。"
+    },
+    {
+      "id": 112,
+      "start": 316.36,
+      "end": 319.06,
+      "en": "Let's move to our third phrase, aggregate demand.",
+      "zh": "让我们转向我们的第三个短语，总需求。"
+    },
+    {
+      "id": 113,
+      "start": 320.12,
+      "end": 321.04,
+      "en": "Aggregate demand.",
+      "zh": "总需求。"
+    },
+    {
+      "id": 114,
+      "start": 322.97,
+      "end": 323.58,
+      "en": "Aggregate demand.",
+      "zh": "总需求。"
+    },
+    {
+      "id": 115,
+      "start": 323.58,
+      "end": 323.81,
+      "en": "Aggregate demand.",
+      "zh": "总需求。"
+    },
+    {
+      "id": 116,
+      "start": 324.58,
+      "end": 327.65,
+      "en": "So demand is pretty clear, but this word aggregate, what's that about?",
+      "zh": "所以需求很清楚，但是这个词汇总，那是怎么回事？"
+    },
+    {
+      "id": 117,
+      "start": 328.56,
+      "end": 330.61,
+      "en": "Aggregate is like a combined, added.",
+      "zh": "聚合就像一个组合，添加。"
+    },
+    {
+      "id": 118,
+      "start": 331.32,
+      "end": 332.32,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 119,
+      "start": 332.32,
+      "end": 333.32,
+      "en": "Right?",
+      "zh": "对吧？"
+    },
+    {
+      "id": 120,
+      "start": 333.32,
+      "end": 334.32,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 121,
+      "start": 334.32,
+      "end": 335.32,
+      "en": "Aggregate demand.",
+      "zh": "总需求。"
+    },
+    {
+      "id": 122,
+      "start": 335.32,
+      "end": 346.68,
+      "en": "So like China, where cities like in Shanghai or cities like Beijing, where more and more people are accumulating wealth, the aggregate demand is increasing.",
+      "zh": "就像中国一样，上海这样的城市或北京的城市，越来越多的人正在积累财富，总需求正在增加。"
+    },
+    {
+      "id": 123,
+      "start": 346.68,
+      "end": 347.68,
+      "en": "Right, right.",
+      "zh": "对，对。"
+    },
+    {
+      "id": 124,
+      "start": 347.68,
+      "end": 350.37,
+      "en": "The combined demand for consumer goods is growing.",
+      "zh": "消费品的综合需求正在增长。"
+    },
+    {
+      "id": 125,
+      "start": 350.92,
+      "end": 351.92,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 126,
+      "start": 351.92,
+      "end": 353.93,
+      "en": "More people have more money, so they're spending more.",
+      "zh": "更多的人有更多的钱，所以他们花了更多的钱。"
+    },
+    {
+      "id": 127,
+      "start": 354.64,
+      "end": 355.64,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 128,
+      "start": 355.64,
+      "end": 356.64,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 129,
+      "start": 356.64,
+      "end": 359.72,
+      "en": "You know, Marco, there's a ton of excellent language in this dialogue, isn't there?",
+      "zh": "你知道，马可，这次对话中有很多优秀的语言，不是吗？"
+    },
+    {
+      "id": 130,
+      "start": 359.96,
+      "end": 361.58,
+      "en": "Yeah, a lot of good stuff here.",
+      "zh": "是的，这里有很多好东西。"
+    },
+    {
+      "id": 131,
+      "start": 361.7,
+      "end": 361.88,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 132,
+      "start": 362.68,
+      "end": 369.44,
+      "en": "So let's listen to the dialogue one more time, but before we do, we have three words for you that we want you to listen for.",
+      "zh": "所以让我们再听一次对话，但在我们这样做之前，我们有三个词给你，我们希望你听。"
+    },
+    {
+      "id": 133,
+      "start": 369.44,
+      "end": 370.44,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 134,
+      "start": 370.44,
+      "end": 371.0,
+      "en": "Pay attention to these words.",
+      "zh": "注意这些话。"
+    },
+    {
+      "id": 135,
+      "start": 372.92,
+      "end": 373.16,
+      "en": "Nest egg.",
+      "zh": "备用积蓄。"
+    },
+    {
+      "id": 136,
+      "start": 373.16,
+      "end": 373.76,
+      "en": "Nest egg.",
+      "zh": "备用积蓄。"
+    },
+    {
+      "id": 137,
+      "start": 374.9,
+      "end": 375.38,
+      "en": "Inevitable.",
+      "zh": "不可避免的。"
+    },
+    {
+      "id": 138,
+      "start": 375.88,
+      "end": 376.36,
+      "en": "Inevitable.",
+      "zh": "不可避免的。"
+    },
+    {
+      "id": 139,
+      "start": 377.18,
+      "end": 378.06,
+      "en": "And hit up.",
+      "zh": "并击中。"
+    },
+    {
+      "id": 140,
+      "start": 378.5,
+      "end": 378.94,
+      "en": "Hit up.",
+      "zh": "向某人讨要。"
+    },
+    {
+      "id": 141,
+      "start": 379.56,
+      "end": 387.38,
+      "en": "So from the context of the dialogue, try and see if you can figure out what they mean, but after listening to it, we'll come back and explain it anyways.",
+      "zh": "所以从对话的上下文中，试着看看你是否能弄清楚它们的含义，但在听完之后，我们会回来解释一下。"
+    },
+    {
+      "id": 142,
+      "start": 395.64,
+      "end": 397.32,
+      "en": "Dad, I'd like to borrow some money.",
+      "zh": "爸，我想借点钱。"
+    },
+    {
+      "id": 143,
+      "start": 397.9,
+      "end": 398.54,
+      "en": "Sure, Johnny.",
+      "zh": "当然，约翰尼。"
+    },
+    {
+      "id": 144,
+      "start": 398.78,
+      "end": 399.32,
+      "en": "How much do you need?",
+      "zh": "你需要多少？"
+    },
+    {
+      "id": 145,
+      "start": 399.72,
+      "end": 400.72,
+      "en": "Five bucks?",
+      "zh": "五美元？"
+    },
+    {
+      "id": 146,
+      "start": 400.94,
+      "end": 401.6,
+      "en": "Come on, Dad.",
+      "zh": "拜托，爸爸。"
+    },
+    {
+      "id": 147,
+      "start": 401.72,
+      "end": 402.72,
+      "en": "I need $30,000.",
+      "zh": "我需要三万美元。"
+    },
+    {
+      "id": 148,
+      "start": 403.04,
+      "end": 404.02,
+      "en": "I want to get into the market.",
+      "zh": "我想进入市场。"
+    },
+    {
+      "id": 149,
+      "start": 404.5,
+      "end": 410.48,
+      "en": "You know, I'm tired of hearing all this news about the economic downturn, the inevitable recession, people stuffing their money in their mattresses.",
+      "zh": "整天听经济下行、不可避免的衰退，还有人把钱都藏到床垫里的消息，我听腻了。"
+    },
+    {
+      "id": 150,
+      "start": 411.14,
+      "end": 412.2,
+      "en": "I look at this as an opportunity.",
+      "zh": "我认为这是一个机会。"
+    },
+    {
+      "id": 151,
+      "start": 412.84,
+      "end": 415.24,
+      "en": "This is a chance for me to get a jumpstart on building my nest egg.",
+      "zh": "这正是让我开始积累个人储蓄的好机会。"
+    },
+    {
+      "id": 152,
+      "start": 415.54,
+      "end": 416.52,
+      "en": "I don't know about that.",
+      "zh": "我可不这么认为。"
+    },
+    {
+      "id": 153,
+      "start": 416.96,
+      "end": 420.36,
+      "en": "With all the uncertainty in the markets right now, it would be a very unwise decision to invest.",
+      "zh": "鉴于目前市场的所有不确定性，投资将是一个非常不明智的决定。"
+    },
+    {
+      "id": 154,
+      "start": 421.2,
+      "end": 425.0,
+      "en": "I don't know if you're aware, son, but there has been a lot of turmoil in the markets recently.",
+      "zh": "儿子，不知你有没有留意，最近市场一直动荡不安。"
+    },
+    {
+      "id": 155,
+      "start": 426.15,
+      "end": 433.47,
+      "en": "There have already been half a million layoffs in the last few months, and we have no idea how the proposed stimulus package will impact upon the economy.",
+      "zh": "在过去的几个月里，已经有 50 万人被裁员，我们不知道拟议的刺激方案将如何影响经济。"
+    },
+    {
+      "id": 156,
+      "start": 434.13,
+      "end": 435.41,
+      "en": "There's just too much instability.",
+      "zh": "现在的不稳定因素太多了。"
+    },
+    {
+      "id": 157,
+      "start": 436.17,
+      "end": 438.33,
+      "en": "I just wouldn't feel comfortable investing in this climate.",
+      "zh": "在这种市场环境下投资，我心里不踏实。"
+    },
+    {
+      "id": 158,
+      "start": 438.77,
+      "end": 439.82,
+      "en": "But look at it this way.",
+      "zh": "换个角度想。"
+    },
+    {
+      "id": 159,
+      "start": 440.22,
+      "end": 441.22,
+      "en": "Every challenge is an opportunity.",
+      "zh": "每一个挑战都是一个机会。"
+    },
+    {
+      "id": 160,
+      "start": 442.04,
+      "end": 445.28,
+      "en": "But anyway, I'm not talking about investing in the domestic market.",
+      "zh": "但无论如何，我不是在谈论投资国内市场。"
+    },
+    {
+      "id": 161,
+      "start": 445.28,
+      "end": 446.94,
+      "en": "There are emerging markets that promise great returns.",
+      "zh": "一些新兴市场可能带来丰厚回报。"
+    },
+    {
+      "id": 162,
+      "start": 447.64,
+      "end": 448.4,
+      "en": "Look at China, for example.",
+      "zh": "以中国为例。"
+    },
+    {
+      "id": 163,
+      "start": 448.94,
+      "end": 452.8,
+      "en": "They have 1.4 billion people, half a billion of whom have recently entered the middle class.",
+      "zh": "他们有 14 亿人，其中 10 亿人最近进入了中产阶级。"
+    },
+    {
+      "id": 164,
+      "start": 453.84,
+      "end": 458.12,
+      "en": "Here alone, the aggregate demand for consumer goods represents an amazing wealth-generating opportunity.",
+      "zh": "单是这里的消费品总需求，就蕴含着巨大的财富增长机会。"
+    },
+    {
+      "id": 165,
+      "start": 458.56,
+      "end": 459.86,
+      "en": "Oh, come on, son.",
+      "zh": "哦，来吧，儿子。"
+    },
+    {
+      "id": 166,
+      "start": 460.08,
+      "end": 461.14,
+      "en": "You're looking at this too naively.",
+      "zh": "你太天真地看待这个。"
+    },
+    {
+      "id": 167,
+      "start": 461.76,
+      "end": 467.8,
+      "en": "The Chinese market has exhibited a great deal of instability, and their currency has been devalued by almost a whole percentage point.",
+      "zh": "中国市场波动很大，人民币也贬值了将近一个百分点。"
+    },
+    {
+      "id": 168,
+      "start": 468.44,
+      "end": 469.0,
+      "en": "Fine, then.",
+      "zh": "那好吧。"
+    },
+    {
+      "id": 169,
+      "start": 469.36,
+      "end": 473.02,
+      "en": "If that's the way you feel, so be it, but you're losing out on a great opportunity here.",
+      "zh": "如果这就是你的感受，那就这样吧，但你在这里失去了一个很好的机会。"
+    },
+    {
+      "id": 170,
+      "start": 473.52,
+      "end": 481.12,
+      "en": "I'm going to hit up mom for the cash.",
+      "zh": "我去找妈妈要钱。"
+    },
+    {
+      "id": 171,
+      "start": 481.12,
+      "end": 484.43,
+      "en": "So the kid wants to invest because he wants to set up his nest egg.",
+      "zh": "所以这个孩子想投资，因为他想设置他的储备金。"
+    },
+    {
+      "id": 172,
+      "start": 484.92,
+      "end": 485.13,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 173,
+      "start": 485.92,
+      "end": 494.08,
+      "en": "So basically, he wants to get a bunch of cash together so that he can buy a house or get married or whatever.",
+      "zh": "所以基本上，他想把一大笔现金放在一起，这样他就可以买房子或结婚或其他什么。"
+    },
+    {
+      "id": 174,
+      "start": 494.08,
+      "end": 496.31,
+      "en": "It's that money you need to start your life, right?",
+      "zh": "这是你开始生活所需的钱，对吧？"
+    },
+    {
+      "id": 175,
+      "start": 496.32,
+      "end": 497.72,
+      "en": "To start your life, your nest egg.",
+      "zh": "开始你的生活，你的储备金。"
+    },
+    {
+      "id": 176,
+      "start": 497.95,
+      "end": 500.57,
+      "en": "It's kind of a weird way of referring to this money, right?",
+      "zh": "这是一种奇怪的方式来引用这笔钱，对吧？"
+    },
+    {
+      "id": 177,
+      "start": 500.77,
+      "end": 501.75,
+      "en": "I guess it is kind of funny.",
+      "zh": "我想这有点好笑。"
+    },
+    {
+      "id": 178,
+      "start": 503.07,
+      "end": 506.03,
+      "en": "And also, the little boy talked about an inevitable recession.",
+      "zh": "而且，小男孩谈到了不可避免的经济衰退。"
+    },
+    {
+      "id": 179,
+      "start": 506.45,
+      "end": 507.27,
+      "en": "Yes, inevitable.",
+      "zh": "对，不可避免。"
+    },
+    {
+      "id": 180,
+      "start": 507.79,
+      "end": 508.31,
+      "en": "Inevitable.",
+      "zh": "不可避免的。"
+    },
+    {
+      "id": 181,
+      "start": 508.69,
+      "end": 511.45,
+      "en": "Inevitable basically means unavoidable.",
+      "zh": "不可避免的基本上意味着不可避免。"
+    },
+    {
+      "id": 182,
+      "start": 511.56,
+      "end": 512.9,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 183,
+      "start": 512.9,
+      "end": 515.51,
+      "en": "So this guy thinks that the recession is unavoidable.",
+      "zh": "所以这家伙认为经济衰退是不可避免的。"
+    },
+    {
+      "id": 184,
+      "start": 515.6,
+      "end": 516.96,
+      "en": "It's going to happen.",
+      "zh": "它会发生的。"
+    },
+    {
+      "id": 185,
+      "start": 516.96,
+      "end": 517.29,
+      "en": "Yes, inevitable.",
+      "zh": "对，不可避免。"
+    },
+    {
+      "id": 186,
+      "start": 518.0,
+      "end": 524.05,
+      "en": "You know, this word inevitable, if you apply the root words, you can get a noun, an adjective, or an adverb, right?",
+      "zh": "你知道，这个词不可避免，如果你应用词根，你可以得到一个名词、一个形容词或一个副词，对吧？"
+    },
+    {
+      "id": 187,
+      "start": 524.43,
+      "end": 524.67,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 188,
+      "start": 525.6,
+      "end": 527.95,
+      "en": "So here are some examples where you can see this word in action.",
+      "zh": "所以这里有一些例子，你可以在其中看到这个词的实际效果。"
+    },
+    {
+      "id": 189,
+      "start": 529.84,
+      "end": 532.16,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 190,
+      "start": 532.16,
+      "end": 536.45,
+      "en": "Jason knew he was going to get laid off, but he was trying to delay the inevitable.",
+      "zh": "杰森知道他会被解雇，但他试图推迟不可避免的事情。"
+    },
+    {
+      "id": 191,
+      "start": 540.4,
+      "end": 540.76,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 192,
+      "start": 544.44,
+      "end": 547.18,
+      "en": "As a new manager, it's inevitable that you're going to make mistakes.",
+      "zh": "作为一名新经理，你不可避免地会犯错误。"
+    },
+    {
+      "id": 193,
+      "start": 551.14,
+      "end": 553.36,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 194,
+      "start": 553.36,
+      "end": 560.6,
+      "en": "Inevitably, we all die at the end of our lives.",
+      "zh": "不可避免地，我们都在生命的尽头死去。"
+    },
+    {
+      "id": 195,
+      "start": 560.6,
+      "end": 564.18,
+      "en": "So as you can see, the noun and adjective form are the same.",
+      "zh": "如您所见，名词和形容词形式是相同的。"
+    },
+    {
+      "id": 196,
+      "start": 564.52,
+      "end": 564.86,
+      "en": "Yes, inevitable.",
+      "zh": "对，不可避免。"
+    },
+    {
+      "id": 197,
+      "start": 565.52,
+      "end": 566.52,
+      "en": "Inevitable.",
+      "zh": "不可避免的。"
+    },
+    {
+      "id": 198,
+      "start": 566.52,
+      "end": 569.48,
+      "en": "When we use it as an adverb though, we add the L-Y to it.",
+      "zh": "但是，当我们将其用作副词时，我们会将 L-Y 添加到其中。"
+    },
+    {
+      "id": 199,
+      "start": 569.48,
+      "end": 570.48,
+      "en": "Inevitably.",
+      "zh": "不可避免地。"
+    },
+    {
+      "id": 200,
+      "start": 570.48,
+      "end": 571.48,
+      "en": "Inevitably.",
+      "zh": "不可避免地。"
+    },
+    {
+      "id": 201,
+      "start": 571.48,
+      "end": 572.48,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 202,
+      "start": 572.48,
+      "end": 576.48,
+      "en": "So yeah, as you can see, we could use it in many different ways depending on what we want to say.",
+      "zh": "所以，是的，正如您所看到的，我们可以根据我们想说的内容以多种不同的方式使用它。"
+    },
+    {
+      "id": 203,
+      "start": 576.48,
+      "end": 577.48,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 204,
+      "start": 577.48,
+      "end": 580.12,
+      "en": "Well, inevitably, we have to move on to our third word.",
+      "zh": "好吧，不可避免地，我们必须继续我们的第三个词。"
+    },
+    {
+      "id": 205,
+      "start": 580.12,
+      "end": 581.12,
+      "en": "Hit up.",
+      "zh": "向某人讨要。"
+    },
+    {
+      "id": 206,
+      "start": 581.12,
+      "end": 582.2,
+      "en": "Hit up.",
+      "zh": "向某人讨要。"
+    },
+    {
+      "id": 207,
+      "start": 582.2,
+      "end": 584.52,
+      "en": "So he says he's going to hit up mom for the cash.",
+      "zh": "所以他说他要去找妈妈拿现金。"
+    },
+    {
+      "id": 208,
+      "start": 585.56,
+      "end": 586.04,
+      "en": "Ask his mom.",
+      "zh": "问他妈妈。"
+    },
+    {
+      "id": 209,
+      "start": 586.56,
+      "end": 587.02,
+      "en": "Yeah, hit up.",
+      "zh": "是的，打起来。"
+    },
+    {
+      "id": 210,
+      "start": 587.56,
+      "end": 589.28,
+      "en": "Yeah, this is kind of a slangy term, isn't it?",
+      "zh": "是的，这是一个俚语，不是吗？"
+    },
+    {
+      "id": 211,
+      "start": 589.96,
+      "end": 593.54,
+      "en": "Yeah, it's more informal, a lot more slangy.",
+      "zh": "是的，它更非正式，更多的俚语。"
+    },
+    {
+      "id": 212,
+      "start": 594.0,
+      "end": 595.6,
+      "en": "You wouldn't really use it with your boss, would you?",
+      "zh": "你不会真的和你的老板一起使用它，对吗？"
+    },
+    {
+      "id": 213,
+      "start": 595.62,
+      "end": 598.84,
+      "en": "No, you're not going to go up to your boss and say, hey, I need to hit you up for some cash.",
+      "zh": "不，你不会去找你的老板说，嘿，我需要找你换钱。"
+    },
+    {
+      "id": 214,
+      "start": 599.12,
+      "end": 599.28,
+      "en": "No.",
+      "zh": "不。"
+    },
+    {
+      "id": 215,
+      "start": 599.64,
+      "end": 603.32,
+      "en": "So Marco, I think this word is only applying to money, right?",
+      "zh": "所以马可，我认为这个词只适用于金钱，对吧？"
+    },
+    {
+      "id": 216,
+      "start": 603.7,
+      "end": 608.14,
+      "en": "Well, you wouldn't go up to your boss and say, oh, I need to hit you up for some vacation time.",
+      "zh": "好吧，你不会去找你的老板说，哦，我需要找你度假。"
+    },
+    {
+      "id": 217,
+      "start": 608.34,
+      "end": 610.38,
+      "en": "No, it's typically used like for money.",
+      "zh": "不，它通常像为了钱一样使用。"
+    },
+    {
+      "id": 218,
+      "start": 610.68,
+      "end": 611.08,
+      "en": "In this context.",
+      "zh": "在这种情况下。"
+    },
+    {
+      "id": 219,
+      "start": 611.68,
+      "end": 612.68,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 220,
+      "start": 612.68,
+      "end": 613.68,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 221,
+      "start": 613.68,
+      "end": 614.68,
+      "en": "Hit him up.",
+      "zh": "打他。"
+    },
+    {
+      "id": 222,
+      "start": 614.68,
+      "end": 615.68,
+      "en": "We've got some examples of the phrase hit up.",
+      "zh": "我们有一些关于这个短语的例子。"
+    },
+    {
+      "id": 223,
+      "start": 615.68,
+      "end": 615.88,
+      "en": "Let's listen.",
+      "zh": "我们来听听。"
+    },
+    {
+      "id": 224,
+      "start": 617.4,
+      "end": 618.4,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 225,
+      "start": 619.98,
+      "end": 621.36,
+      "en": "I'm going to hit up the boss for a raise.",
+      "zh": "我要去找老板加薪。"
+    },
+    {
+      "id": 226,
+      "start": 625.16,
+      "end": 625.42,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 227,
+      "start": 628.17,
+      "end": 629.49,
+      "en": "Are you trying to hit me up for money?",
+      "zh": "你是想为了钱找我吗？"
+    },
+    {
+      "id": 228,
+      "start": 632.8,
+      "end": 633.7,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 229,
+      "start": 636.38,
+      "end": 637.16,
+      "en": "I don't have any cash.",
+      "zh": "我没有任何现金。"
+    },
+    {
+      "id": 230,
+      "start": 637.42,
+      "end": 638.28,
+      "en": "Have you tried hitting up Sophie?",
+      "zh": "你试过打索菲吗？"
+    },
+    {
+      "id": 231,
+      "start": 638.68,
+      "end": 639.16,
+      "en": "She's rich.",
+      "zh": "她很有钱。"
+    },
+    {
+      "id": 232,
+      "start": 641.57,
+      "end": 643.71,
+      "en": "Okay, so this is our first advanced lesson.",
+      "zh": "好的，这是我们的第一个高级课程。"
+    },
+    {
+      "id": 233,
+      "start": 644.04,
+      "end": 645.28,
+      "en": "I hope you enjoyed it.",
+      "zh": "我希望你喜欢它。"
+    },
+    {
+      "id": 234,
+      "start": 645.28,
+      "end": 647.07,
+      "en": "It is a lot more challenging, I think.",
+      "zh": "我认为这更具挑战性。"
+    },
+    {
+      "id": 235,
+      "start": 647.23,
+      "end": 647.39,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 236,
+      "start": 647.75,
+      "end": 650.97,
+      "en": "Especially because it's set in a business context, so it makes it...",
+      "zh": "特别是因为它是在商业环境中设置的，所以它使它..."
+    },
+    {
+      "id": 237,
+      "start": 650.97,
+      "end": 654.93,
+      "en": "so we have a lot of specific words and a lot of technical vocabulary.",
+      "zh": "所以我们有很多具体的词和很多技术词汇。"
+    },
+    {
+      "id": 238,
+      "start": 655.47,
+      "end": 655.85,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 239,
+      "start": 656.15,
+      "end": 657.17,
+      "en": "Marco, you're exactly right.",
+      "zh": "马可，你是对的。"
+    },
+    {
+      "id": 240,
+      "start": 657.68,
+      "end": 661.92,
+      "en": "And I think that our users are going to have a lot of questions about the language in this lesson.",
+      "zh": "而且我认为我们的用户在本课中会有很多关于该语言的问题。"
+    },
+    {
+      "id": 241,
+      "start": 661.92,
+      "end": 666.72,
+      "en": "So I'd like to invite you guys to come onto our website at EnglishPod.com.",
+      "zh": "所以我想邀请你们访问我们的网站 englishpod.com。"
+    },
+    {
+      "id": 242,
+      "start": 666.72,
+      "end": 671.08,
+      "en": "Basically where you can leave all your questions and comments and we'll be there to answer them.",
+      "zh": "基本上，您可以留下所有问题和评论，我们将在那里回答。"
+    },
+    {
+      "id": 243,
+      "start": 671.08,
+      "end": 671.58,
+      "en": "But until then, it's goodbye.",
+      "zh": "但在那之前，这是再见。"
+    },
+    {
+      "id": 244,
+      "start": 672.08,
+      "end": 680.385,
+      "en": "Goodbye.",
+      "zh": "再见。"
+    }
+  ],
+  "dialog": {
+    "start": 79.11,
+    "end": 169.72,
+    "segmentIds": [
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68
+    ]
+  }
+}

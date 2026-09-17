@@ -1,0 +1,1941 @@
+{
+  "version": 1,
+  "id": 196,
+  "number": "0196",
+  "title": "Daily Life - Going To The Tailor",
+  "audio": "mp3/196. Daily Life - Going To The Tailor.mp3",
+  "duration": 783.856375,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.0,
+      "en": "Hello everyone and welcome back to EnglishPod.",
+      "zh": "大家好，欢迎回到 EnglishPod。"
+    },
+    {
+      "id": 2,
+      "start": 5.24,
+      "end": 6.24,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 6.24,
+      "end": 9.52,
+      "en": "My name is Catherine and today we're talking about buying clothes.",
+      "zh": "我的名字是凯瑟琳，今天我们谈论的是买衣服。"
+    },
+    {
+      "id": 4,
+      "start": 10.32,
+      "end": 10.46,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 5,
+      "start": 11.32,
+      "end": 17.38,
+      "en": "We're going to go and get some clothes but on this occasion, we're going to get a suit and we're going to have it made especially for us.",
+      "zh": "我们要去买些衣服，但在这个场合，我们会买一套西装，我们会专门为我们做的。"
+    },
+    {
+      "id": 6,
+      "start": 18.0,
+      "end": 22.34,
+      "en": "So before we get started, why don't we take a look at one keyword that we have in Vocabulary Preview.",
+      "zh": "所以在开始之前，我们为什么不看看我们在词汇预览中的一个关键字。"
+    },
+    {
+      "id": 7,
+      "start": 24.32,
+      "end": 25.64,
+      "en": "Vocabulary Preview.",
+      "zh": "词汇预习。"
+    },
+    {
+      "id": 8,
+      "start": 25.91,
+      "end": 29.93,
+      "en": "Okay, this word makes me think of things that are very rich and soft.",
+      "zh": "好吧，这个词让我想起了非常丰富和柔软的事情。"
+    },
+    {
+      "id": 9,
+      "start": 30.77,
+      "end": 32.05,
+      "en": "It's a fabric, right?",
+      "zh": "是织物吧？"
+    },
+    {
+      "id": 10,
+      "start": 32.35,
+      "end": 32.57,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 11,
+      "start": 32.69,
+      "end": 33.55,
+      "en": "It's a kind of textile.",
+      "zh": "这是一种纺织品。"
+    },
+    {
+      "id": 12,
+      "start": 34.28,
+      "end": 35.28,
+      "en": "It's called cashmere.",
+      "zh": "它被称为羊绒。"
+    },
+    {
+      "id": 13,
+      "start": 35.28,
+      "end": 35.65,
+      "en": "Cashmere.",
+      "zh": "羊绒。"
+    },
+    {
+      "id": 14,
+      "start": 36.28,
+      "end": 37.99,
+      "en": "So maybe you've heard of cashmere wool.",
+      "zh": "所以也许你听说过羊绒羊毛。"
+    },
+    {
+      "id": 15,
+      "start": 38.52,
+      "end": 41.11,
+      "en": "It's a special kind of wool that comes from animals.",
+      "zh": "这是一种来自动物的特殊羊毛。"
+    },
+    {
+      "id": 16,
+      "start": 42.01,
+      "end": 48.92,
+      "en": "So this is a textile or a fabric that is commonly used to make pants, nice pants or suits for men.",
+      "zh": "所以这是一种纺织品或面料，通常用于制作裤子、漂亮的裤子或男士西装。"
+    },
+    {
+      "id": 17,
+      "start": 49.2,
+      "end": 50.84,
+      "en": "Or scars or sweaters.",
+      "zh": "或疤痕或毛衣。"
+    },
+    {
+      "id": 18,
+      "start": 50.84,
+      "end": 55.76,
+      "en": "If you've ever had a cashmere sweater, you know it's very luxurious, very soft.",
+      "zh": "如果你曾经有过一件羊绒毛衣，你就会知道它非常豪华，非常柔软。"
+    },
+    {
+      "id": 19,
+      "start": 55.76,
+      "end": 60.74,
+      "en": "So it can be a little bit expensive depending on the quality and that's what we're going to be looking at now.",
+      "zh": "所以它可能会有点贵，这取决于质量，这就是我们现在要看的。"
+    },
+    {
+      "id": 20,
+      "start": 60.92,
+      "end": 64.2,
+      "en": "We're going to be making a suit out of cashmere.",
+      "zh": "我们要用羊绒做一套西装。"
+    },
+    {
+      "id": 21,
+      "start": 64.2,
+      "end": 66.52,
+      "en": "So why don't we listen to our dialogue for the first time.",
+      "zh": "那么我们为什么不第一次听我们的对话。"
+    },
+    {
+      "id": 22,
+      "start": 72.25,
+      "end": 73.71,
+      "en": "Welcome to Bill's Fabric World.",
+      "zh": "欢迎来到比尔的织物世界。"
+    },
+    {
+      "id": 23,
+      "start": 73.95,
+      "end": 74.81,
+      "en": "What can I do for you today?",
+      "zh": "今天有什么可以帮您？"
+    },
+    {
+      "id": 24,
+      "start": 75.3,
+      "end": 78.06,
+      "en": "I was wondering if you guys also tailor clothes.",
+      "zh": "我想知道你们是否也定制衣服。"
+    },
+    {
+      "id": 25,
+      "start": 78.52,
+      "end": 79.08,
+      "en": "Sure we do.",
+      "zh": "当然，我们也做。"
+    },
+    {
+      "id": 26,
+      "start": 79.72,
+      "end": 81.36,
+      "en": "We're the best tailors in the country.",
+      "zh": "我们是全国最好的裁缝。"
+    },
+    {
+      "id": 27,
+      "start": 81.36,
+      "end": 82.28,
+      "en": "What is it that you need exactly?",
+      "zh": "你到底需要什么？"
+    },
+    {
+      "id": 28,
+      "start": 83.4,
+      "end": 85.58,
+      "en": "Well I'm looking to get a custom made suit.",
+      "zh": "好吧，我正在寻找一件定制的西装。"
+    },
+    {
+      "id": 29,
+      "start": 86.24,
+      "end": 87.24,
+      "en": "Excellent.",
+      "zh": "太好了。"
+    },
+    {
+      "id": 30,
+      "start": 87.24,
+      "end": 89.08,
+      "en": "We have the finest cashmeres at affordable prices.",
+      "zh": "我们有最好的羊绒价格实惠。"
+    },
+    {
+      "id": 31,
+      "start": 89.76,
+      "end": 90.5,
+      "en": "How about we get you measured?",
+      "zh": "我们先给您量一下尺寸，好吗？"
+    },
+    {
+      "id": 32,
+      "start": 91.2,
+      "end": 93.0,
+      "en": "Let's start off by measuring the width of your shoulders.",
+      "zh": "让我们从测量肩膀的宽度开始。"
+    },
+    {
+      "id": 33,
+      "start": 96.24,
+      "end": 99.22,
+      "en": "Now let's measure the length of your arms and this bit around your neck here.",
+      "zh": "现在量一下您的臂长，还有脖子这一圈。"
+    },
+    {
+      "id": 34,
+      "start": 101.1,
+      "end": 103.73,
+      "en": "Can you make sure you leave a little extra space in the collar?",
+      "zh": "你能确保你在衣领上留出一点额外的空间吗？"
+    },
+    {
+      "id": 35,
+      "start": 104.36,
+      "end": 105.73,
+      "en": "My neck gets easily irritated.",
+      "zh": "我的脖子很容易发炎。"
+    },
+    {
+      "id": 36,
+      "start": 106.37,
+      "end": 106.93,
+      "en": "No problem.",
+      "zh": "没问题。"
+    },
+    {
+      "id": 37,
+      "start": 107.57,
+      "end": 110.67,
+      "en": "Now for your pants, let me just measure your waist and the inseam.",
+      "zh": "接下来量裤子的尺寸，我量一下您的腰围和裤内长。"
+    },
+    {
+      "id": 38,
+      "start": 112.26,
+      "end": 115.1,
+      "en": "You might also want to leave a little extra room in the waist area.",
+      "zh": "您可能还想在腰部留出一点额外的空间。"
+    },
+    {
+      "id": 39,
+      "start": 115.68,
+      "end": 117.76,
+      "en": "I tend to gain a few pounds over the holidays.",
+      "zh": "我倾向于在假期里增加几磅。"
+    },
+    {
+      "id": 40,
+      "start": 118.42,
+      "end": 118.72,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 41,
+      "start": 119.2,
+      "end": 121.28,
+      "en": "Now you can pick your fabric and pattern design.",
+      "zh": "现在您可以选择您的面料和图案设计。"
+    },
+    {
+      "id": 42,
+      "start": 121.74,
+      "end": 122.46,
+      "en": "Please follow me.",
+      "zh": "请跟我来。"
+    },
+    {
+      "id": 43,
+      "start": 125.97,
+      "end": 130.51,
+      "en": "So this reminds me of something that people used to do a lot more often.",
+      "zh": "所以这让我想起了人们过去经常做的事情。"
+    },
+    {
+      "id": 44,
+      "start": 130.91,
+      "end": 133.69,
+      "en": "So you'd go to the tailor and you'd have some clothes made.",
+      "zh": "所以你会去找裁缝，你会做一些衣服。"
+    },
+    {
+      "id": 45,
+      "start": 134.21,
+      "end": 135.65,
+      "en": "Most people don't do this anymore.",
+      "zh": "大多数人不再这样做了。"
+    },
+    {
+      "id": 46,
+      "start": 135.95,
+      "end": 136.15,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 47,
+      "start": 137.13,
+      "end": 138.43,
+      "en": "It's actually really interesting.",
+      "zh": "其实很有趣。"
+    },
+    {
+      "id": 48,
+      "start": 138.96,
+      "end": 142.11,
+      "en": "Maybe because it's more expensive nowadays or tailors are harder to find.",
+      "zh": "也许是因为现在更贵，或者裁缝更难找到。"
+    },
+    {
+      "id": 49,
+      "start": 142.64,
+      "end": 142.77,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 50,
+      "start": 143.64,
+      "end": 149.05,
+      "en": "So let's learn about the words first and what they mean and then maybe we can talk about this at the end of today's show.",
+      "zh": "所以让我们先了解这些词和它们的含义，然后我们可以在今天的节目结束时谈论这个。"
+    },
+    {
+      "id": 51,
+      "start": 151.48,
+      "end": 152.48,
+      "en": "Language takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 52,
+      "start": 152.65,
+      "end": 157.11,
+      "en": "Alright, so today on language takeaway we have a word that is a noun and a verb.",
+      "zh": "好吧，所以今天在语言外卖上，我们有一个名词和动词的词。"
+    },
+    {
+      "id": 53,
+      "start": 157.43,
+      "end": 160.49,
+      "en": "So as you mentioned, the person that makes suits is a tailor.",
+      "zh": "正如你所提到的，制作西装的人是裁缝。"
+    },
+    {
+      "id": 54,
+      "start": 160.93,
+      "end": 161.23,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 55,
+      "start": 161.33,
+      "end": 163.61,
+      "en": "You can say, my uncle is a tailor.",
+      "zh": "你可以说，我的叔叔是裁缝。"
+    },
+    {
+      "id": 56,
+      "start": 163.91,
+      "end": 165.91,
+      "en": "He makes clothes for famous people.",
+      "zh": "他为名人做衣服。"
+    },
+    {
+      "id": 57,
+      "start": 167.28,
+      "end": 169.78,
+      "en": "But this word is also a verb.",
+      "zh": "但这个词也是一个动词。"
+    },
+    {
+      "id": 58,
+      "start": 169.78,
+      "end": 170.91,
+      "en": "That means it's an action word.",
+      "zh": "这意味着它是一个动作词。"
+    },
+    {
+      "id": 59,
+      "start": 171.12,
+      "end": 176.0,
+      "en": "We can say, my uncle the tailor, he tailors clothes.",
+      "zh": "我们可以说，我的叔叔裁缝，他裁缝衣服。"
+    },
+    {
+      "id": 60,
+      "start": 176.0,
+      "end": 178.56,
+      "en": "Okay, so to tailor clothes.",
+      "zh": "好吧，所以要定制衣服。"
+    },
+    {
+      "id": 61,
+      "start": 178.56,
+      "end": 180.11,
+      "en": "And what does it mean when you say to tailor?",
+      "zh": "当你对裁缝说什么是什么意思？"
+    },
+    {
+      "id": 62,
+      "start": 180.59,
+      "end": 181.71,
+      "en": "Well, it can have two meanings.",
+      "zh": "好吧，它可以有两个含义。"
+    },
+    {
+      "id": 63,
+      "start": 182.39,
+      "end": 184.49,
+      "en": "The first is what we learn about in today's dialogue.",
+      "zh": "首先是我们在今天的对话中了解到的内容。"
+    },
+    {
+      "id": 64,
+      "start": 184.49,
+      "end": 185.83,
+      "en": "It means to make clothes.",
+      "zh": "意思是做衣服。"
+    },
+    {
+      "id": 65,
+      "start": 186.31,
+      "end": 188.77,
+      "en": "So to make a shirt or to make a pair of pants.",
+      "zh": "所以要做一件衬衫或做一条裤子。"
+    },
+    {
+      "id": 66,
+      "start": 189.76,
+      "end": 193.96,
+      "en": "But these days we often say to tailor which means to fix something.",
+      "zh": "但这些天我们经常对裁缝说，这意味着解决问题。"
+    },
+    {
+      "id": 67,
+      "start": 193.96,
+      "end": 199.72,
+      "en": "So for example, Marco, if you buy a pair of pants and they're too long, you can have them tailored.",
+      "zh": "例如，Marco，如果你买一条裤子而且它们太长，你可以定制它们。"
+    },
+    {
+      "id": 68,
+      "start": 200.32,
+      "end": 200.68,
+      "en": "Have them tailored.",
+      "zh": "让他们量身定制。"
+    },
+    {
+      "id": 69,
+      "start": 201.32,
+      "end": 205.08,
+      "en": "And that means that I am going to have them fixed so they fit me properly.",
+      "zh": "这意味着我要把它们修好，这样它们就可以正确地适合我。"
+    },
+    {
+      "id": 70,
+      "start": 205.08,
+      "end": 206.08,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 71,
+      "start": 206.08,
+      "end": 207.28,
+      "en": "This is a lot more common right now.",
+      "zh": "这在现在更为普遍。"
+    },
+    {
+      "id": 72,
+      "start": 207.68,
+      "end": 209.5,
+      "en": "Okay, so we're going to be tailoring clothes.",
+      "zh": "好吧，所以我们要定制衣服。"
+    },
+    {
+      "id": 73,
+      "start": 209.88,
+      "end": 214.22,
+      "en": "Now if any of you have ever been to the tailor, what they do is they measure you.",
+      "zh": "现在，如果你们中的任何人曾经去过裁缝，他们所做的就是衡量你。"
+    },
+    {
+      "id": 74,
+      "start": 214.74,
+      "end": 215.38,
+      "en": "And what do they measure?",
+      "zh": "他们衡量什么？"
+    },
+    {
+      "id": 75,
+      "start": 215.8,
+      "end": 219.72,
+      "en": "Well, in this case, they get the width of your shoulders.",
+      "zh": "好吧，在这种情况下，它们会得到你肩膀的宽度。"
+    },
+    {
+      "id": 76,
+      "start": 219.72,
+      "end": 223.29,
+      "en": "What's really great about these upcoming words is that they're useful in math as well.",
+      "zh": "这些即将到来的单词的真正好处在于它们在数学中也很有用。"
+    },
+    {
+      "id": 77,
+      "start": 223.8,
+      "end": 225.17,
+      "en": "Math and basic measurements.",
+      "zh": "数学和基本测量。"
+    },
+    {
+      "id": 78,
+      "start": 225.84,
+      "end": 231.8,
+      "en": "So width is how big something is across.",
+      "zh": "所以宽度是某物的宽度。"
+    },
+    {
+      "id": 79,
+      "start": 231.8,
+      "end": 233.01,
+      "en": "How wide something is.",
+      "zh": "有多宽。"
+    },
+    {
+      "id": 80,
+      "start": 233.36,
+      "end": 234.36,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 81,
+      "start": 234.36,
+      "end": 235.36,
+      "en": "Wide, width.",
+      "zh": "宽，宽。"
+    },
+    {
+      "id": 82,
+      "start": 235.36,
+      "end": 236.15,
+      "en": "Okay, so that's the width.",
+      "zh": "好的，这就是宽度。"
+    },
+    {
+      "id": 83,
+      "start": 236.68,
+      "end": 238.57,
+      "en": "Now your shoulders, they are wide.",
+      "zh": "现在你的肩膀，它们很宽。"
+    },
+    {
+      "id": 84,
+      "start": 239.44,
+      "end": 244.99,
+      "en": "And well, your legs on the other hand, your legs and arms, you don't measure the width usually, you measure the length.",
+      "zh": "好吧，另一方面，你的腿，你的腿和手臂，你通常不测量宽度，你测量长度。"
+    },
+    {
+      "id": 85,
+      "start": 245.56,
+      "end": 246.71,
+      "en": "How long they are.",
+      "zh": "它们有多长。"
+    },
+    {
+      "id": 86,
+      "start": 247.2,
+      "end": 248.93,
+      "en": "Okay, so width and length.",
+      "zh": "好的，所以宽度和长度。"
+    },
+    {
+      "id": 87,
+      "start": 249.24,
+      "end": 253.33,
+      "en": "Now just to throw it in there, this wasn't in the dialogue, but what would be the other measure word?",
+      "zh": "现在只是把它扔进去，这不在对话中，而是另一个量度词是什么？"
+    },
+    {
+      "id": 88,
+      "start": 253.67,
+      "end": 255.63,
+      "en": "So the third word would be height.",
+      "zh": "所以第三个词是高度。"
+    },
+    {
+      "id": 89,
+      "start": 256.13,
+      "end": 263.61,
+      "en": "So you think of a rectangle, you have the width, how wide something is, the length, how long it is, and the height, how tall it is.",
+      "zh": "所以你想到一个矩形，你有宽度，有多宽，长度，多长，高度，它有多高。"
+    },
+    {
+      "id": 90,
+      "start": 263.84,
+      "end": 265.16,
+      "en": "How tall it is, right.",
+      "zh": "有多高，对。"
+    },
+    {
+      "id": 91,
+      "start": 265.16,
+      "end": 266.35,
+      "en": "So width, length, and height.",
+      "zh": "所以宽度、长度和高度。"
+    },
+    {
+      "id": 92,
+      "start": 266.64,
+      "end": 267.64,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 93,
+      "start": 267.64,
+      "end": 271.35,
+      "en": "Now that we've measured our arms and legs, now we want to measure our waist.",
+      "zh": "现在我们已经测量了我们的手臂和腿，现在我们想测量我们的腰部。"
+    },
+    {
+      "id": 94,
+      "start": 272.2,
+      "end": 273.72,
+      "en": "Okay, this is the important one.",
+      "zh": "好吧，这很重要。"
+    },
+    {
+      "id": 95,
+      "start": 273.96,
+      "end": 275.64,
+      "en": "This is also the sensitive one.",
+      "zh": "这也是一种敏感的。"
+    },
+    {
+      "id": 96,
+      "start": 275.64,
+      "end": 279.02,
+      "en": "If you find that you've gained some weight, we measure the waist.",
+      "zh": "如果你发现你的体重增加了，我们测量腰部。"
+    },
+    {
+      "id": 97,
+      "start": 279.38,
+      "end": 281.8,
+      "en": "Okay, that's how big you are around your stomach.",
+      "zh": "好吧，这就是你的胃周围有多大。"
+    },
+    {
+      "id": 98,
+      "start": 282.4,
+      "end": 284.12,
+      "en": "And so usually we measure this in a circle.",
+      "zh": "所以通常我们会在一个圆圈中测量它。"
+    },
+    {
+      "id": 99,
+      "start": 285.08,
+      "end": 289.68,
+      "en": "Okay, so you've heard of a 26 inch waist or a 32 inch waist.",
+      "zh": "好的，所以你听说过 26 英寸的腰部或 32 英寸的腰部。"
+    },
+    {
+      "id": 100,
+      "start": 290.24,
+      "end": 291.76,
+      "en": "This is the size of your stomach.",
+      "zh": "这是你胃的大小。"
+    },
+    {
+      "id": 101,
+      "start": 291.76,
+      "end": 294.38,
+      "en": "Okay, so it's just above your hips, right?",
+      "zh": "好吧，它就在你的臀部上方，对吧？"
+    },
+    {
+      "id": 102,
+      "start": 294.6,
+      "end": 295.6,
+      "en": "As you say, it's your stomach.",
+      "zh": "正如你所说，这是你的胃。"
+    },
+    {
+      "id": 103,
+      "start": 296.68,
+      "end": 298.06,
+      "en": "And well, we've measured the waist.",
+      "zh": "好吧，我们测量了腰部。"
+    },
+    {
+      "id": 104,
+      "start": 298.76,
+      "end": 301.96,
+      "en": "And now in men especially, they measure the inseam.",
+      "zh": "现在特别是在男人中，他们测量内缝。"
+    },
+    {
+      "id": 105,
+      "start": 302.12,
+      "end": 305.02,
+      "en": "Now this is very particular for tailors and having suits made.",
+      "zh": "现在这对于裁缝和制作西装来说非常特别。"
+    },
+    {
+      "id": 106,
+      "start": 305.22,
+      "end": 306.84,
+      "en": "What is the inseam of your pants?",
+      "zh": "你裤子的内缝是什么？"
+    },
+    {
+      "id": 107,
+      "start": 307.32,
+      "end": 309.0,
+      "en": "Well think of the word in, inside.",
+      "zh": "好好想想里面的词，里面。"
+    },
+    {
+      "id": 108,
+      "start": 309.44,
+      "end": 311.34,
+      "en": "This is the inside of your pants.",
+      "zh": "这是你裤子的内部。"
+    },
+    {
+      "id": 109,
+      "start": 312.08,
+      "end": 317.52,
+      "en": "So from your foot to the middle of your pants where your zipper starts.",
+      "zh": "所以从你的脚到你的裤子中间，拉链开始。"
+    },
+    {
+      "id": 110,
+      "start": 317.52,
+      "end": 321.3,
+      "en": "So that's not the outside length, it's the inside length.",
+      "zh": "所以这不是外面的长度，而是内长。"
+    },
+    {
+      "id": 111,
+      "start": 322.56,
+      "end": 325.8,
+      "en": "Now for example, skirts, they don't have inseams, right?",
+      "zh": "比如，裙子，它们没有内缝，对吧？"
+    },
+    {
+      "id": 112,
+      "start": 325.8,
+      "end": 328.12,
+      "en": "No, because there's no inside, there's no middle.",
+      "zh": "不，因为没有内在，没有中间。"
+    },
+    {
+      "id": 113,
+      "start": 329.12,
+      "end": 331.2,
+      "en": "So it's just like a circle.",
+      "zh": "所以它就像一个圆圈。"
+    },
+    {
+      "id": 114,
+      "start": 331.2,
+      "end": 333.6,
+      "en": "But in pants or shorts, you have an inseam.",
+      "zh": "但在裤子或短裤中，你有内缝。"
+    },
+    {
+      "id": 115,
+      "start": 334.48,
+      "end": 336.36,
+      "en": "That's where it's connected in the middle.",
+      "zh": "这就是它在中间连接的地方。"
+    },
+    {
+      "id": 116,
+      "start": 336.56,
+      "end": 338.84,
+      "en": "All right, so also in shorts, very interesting.",
+      "zh": "好吧，所以也穿短裤，非常有趣。"
+    },
+    {
+      "id": 117,
+      "start": 338.84,
+      "end": 341.32,
+      "en": "So you can measure the inseam of pants or shorts.",
+      "zh": "因此，您可以测量裤子或短裤的内缝。"
+    },
+    {
+      "id": 118,
+      "start": 342.36,
+      "end": 345.88,
+      "en": "All right, so very interesting and particular words for tailors.",
+      "zh": "好吧，对于裁缝来说，非常有趣和特别的词。"
+    },
+    {
+      "id": 119,
+      "start": 345.89,
+      "end": 348.71,
+      "en": "Why don't we listen to our dialogue again and we'll be back shortly.",
+      "zh": "我们为什么不再听我们的对话，我们很快就会回来。"
+    },
+    {
+      "id": 120,
+      "start": 353.22,
+      "end": 354.6,
+      "en": "Welcome to Bill's Fabric World.",
+      "zh": "欢迎来到比尔的织物世界。"
+    },
+    {
+      "id": 121,
+      "start": 354.82,
+      "end": 355.68,
+      "en": "What can I do for you today?",
+      "zh": "今天有什么可以帮您？"
+    },
+    {
+      "id": 122,
+      "start": 356.22,
+      "end": 358.96,
+      "en": "I was wondering if you guys also tailor clothes.",
+      "zh": "我想知道你们是否也定制衣服。"
+    },
+    {
+      "id": 123,
+      "start": 359.36,
+      "end": 359.96,
+      "en": "Sure we do.",
+      "zh": "当然，我们也做。"
+    },
+    {
+      "id": 124,
+      "start": 360.14,
+      "end": 361.54,
+      "en": "We have the best tailors in the country.",
+      "zh": "我们有全国最好的裁缝。"
+    },
+    {
+      "id": 125,
+      "start": 362.02,
+      "end": 363.2,
+      "en": "What is it that you need exactly?",
+      "zh": "你到底需要什么？"
+    },
+    {
+      "id": 126,
+      "start": 363.84,
+      "end": 366.46,
+      "en": "Well, I'm looking to get a custom made suit.",
+      "zh": "好吧，我想买一套定制的西装。"
+    },
+    {
+      "id": 127,
+      "start": 366.82,
+      "end": 367.12,
+      "en": "Excellent.",
+      "zh": "太好了。"
+    },
+    {
+      "id": 128,
+      "start": 367.82,
+      "end": 369.94,
+      "en": "We have the finest cashmeres at affordable prices.",
+      "zh": "我们有最好的羊绒价格实惠。"
+    },
+    {
+      "id": 129,
+      "start": 370.58,
+      "end": 371.38,
+      "en": "How about we get you measured?",
+      "zh": "我们让你测量怎么样？"
+    },
+    {
+      "id": 130,
+      "start": 371.98,
+      "end": 373.8,
+      "en": "Let's start off by measuring the width of your shoulders.",
+      "zh": "让我们从测量肩膀的宽度开始。"
+    },
+    {
+      "id": 131,
+      "start": 374.5,
+      "end": 377.66,
+      "en": "Now let's measure the length of your arms and this bit around your neck here.",
+      "zh": "现在量一下您的臂长，还有脖子这一圈。"
+    },
+    {
+      "id": 132,
+      "start": 378.16,
+      "end": 381.26,
+      "en": "Can you make sure you leave a little extra space in the collar?",
+      "zh": "你能确保你在衣领上留出一点额外的空间吗？"
+    },
+    {
+      "id": 133,
+      "start": 381.84,
+      "end": 383.2,
+      "en": "My neck gets easily irritated.",
+      "zh": "我的脖子很容易发炎。"
+    },
+    {
+      "id": 134,
+      "start": 383.86,
+      "end": 384.48,
+      "en": "No problem.",
+      "zh": "没问题。"
+    },
+    {
+      "id": 135,
+      "start": 385.06,
+      "end": 388.18,
+      "en": "Now for your pants, let me just measure your waist and the inseam.",
+      "zh": "接下来量裤子的尺寸，我量一下您的腰围和裤内长。"
+    },
+    {
+      "id": 136,
+      "start": 388.6,
+      "end": 391.4,
+      "en": "You might also want to leave a little extra room in the waist area.",
+      "zh": "您可能还想在腰部留出一点额外的空间。"
+    },
+    {
+      "id": 137,
+      "start": 391.84,
+      "end": 394.76,
+      "en": "I tend to gain a few pounds over the holidays.",
+      "zh": "我倾向于在假期里增加几磅。"
+    },
+    {
+      "id": 138,
+      "start": 394.76,
+      "end": 395.02,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 139,
+      "start": 395.48,
+      "end": 397.56,
+      "en": "Now you can pick your fabric and pattern design.",
+      "zh": "现在您可以选择您的面料和图案设计。"
+    },
+    {
+      "id": 140,
+      "start": 398.02,
+      "end": 398.74,
+      "en": "Please follow me.",
+      "zh": "请跟我来。"
+    },
+    {
+      "id": 141,
+      "start": 400.52,
+      "end": 403.72,
+      "en": "Alright, we're back.",
+      "zh": "好了，我们回来了。"
+    },
+    {
+      "id": 142,
+      "start": 403.72,
+      "end": 407.12,
+      "en": "So now we have three key phrases that we found in this dialogue.",
+      "zh": "所以现在我们在这次对话中找到了三个关键短语。"
+    },
+    {
+      "id": 143,
+      "start": 407.16,
+      "end": 409.4,
+      "en": "So let's take a look at them now in Fluency Builder.",
+      "zh": "所以让我们现在在 Flueny Builder 中看看它们。"
+    },
+    {
+      "id": 144,
+      "start": 411.68,
+      "end": 411.99,
+      "en": "Fluency Builder.",
+      "zh": "流利表达。"
+    },
+    {
+      "id": 145,
+      "start": 412.98,
+      "end": 415.27,
+      "en": "This first phrase is the topic of today's lesson.",
+      "zh": "第一个短语是今天课程的主题。"
+    },
+    {
+      "id": 146,
+      "start": 416.2,
+      "end": 423.23,
+      "en": "We talked a little bit about measurements for a suit, but in particular we're getting a custom made suit.",
+      "zh": "我们谈到了一些西装的尺寸，但特别是我们得到了一套定制的西装。"
+    },
+    {
+      "id": 147,
+      "start": 423.53,
+      "end": 423.91,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 148,
+      "start": 424.33,
+      "end": 425.91,
+      "en": "So this word custom made.",
+      "zh": "所以这个词是定制的。"
+    },
+    {
+      "id": 149,
+      "start": 426.43,
+      "end": 429.55,
+      "en": "Well, custom is important, it means special or unique.",
+      "zh": "嗯，定制很重要，它意味着特殊或独特。"
+    },
+    {
+      "id": 150,
+      "start": 429.93,
+      "end": 431.05,
+      "en": "There's no other like it.",
+      "zh": "没有其他类似的。"
+    },
+    {
+      "id": 151,
+      "start": 431.45,
+      "end": 432.79,
+      "en": "So we could talk about custom cars.",
+      "zh": "所以我们可以谈论定制汽车。"
+    },
+    {
+      "id": 152,
+      "start": 433.17,
+      "end": 435.79,
+      "en": "That means a car that has been fixed especially for you.",
+      "zh": "这意味着一辆专为您修好的汽车。"
+    },
+    {
+      "id": 153,
+      "start": 436.12,
+      "end": 436.25,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 154,
+      "start": 437.12,
+      "end": 444.4,
+      "en": "So a custom made suit would be a suit that was made specifically for your height, for how big your waist is, etc.",
+      "zh": "所以定制的西装将是专门为你的身高设计的西装，你的腰围有多大，等等。"
+    },
+    {
+      "id": 155,
+      "start": 444.4,
+      "end": 444.75,
+      "en": "Specifically for you.",
+      "zh": "专门为你。"
+    },
+    {
+      "id": 156,
+      "start": 445.4,
+      "end": 446.4,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 157,
+      "start": 446.4,
+      "end": 450.18,
+      "en": "So a suit that I buy at the department store is just a normal suit.",
+      "zh": "所以我在百货商店买的西装只是普通的西装。"
+    },
+    {
+      "id": 158,
+      "start": 450.72,
+      "end": 455.12,
+      "en": "But a suit that I have made for me is a custom made suit.",
+      "zh": "但我为我制作的西装是定制的西装。"
+    },
+    {
+      "id": 159,
+      "start": 455.32,
+      "end": 455.62,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 160,
+      "start": 456.32,
+      "end": 462.48,
+      "en": "So as you said, you can use it for cars, a custom made car, or maybe for example, a custom made.",
+      "zh": "正如您所说，您可以将其用于汽车、定制汽车，或者例如定制。"
+    },
+    {
+      "id": 161,
+      "start": 462.48,
+      "end": 463.08,
+      "en": "Custom made kitchen.",
+      "zh": "定制厨房。"
+    },
+    {
+      "id": 162,
+      "start": 463.62,
+      "end": 467.28,
+      "en": "That means that you get to pick every single part of the kitchen that you want.",
+      "zh": "这意味着您可以选择您想要的厨房的每个部分。"
+    },
+    {
+      "id": 163,
+      "start": 467.46,
+      "end": 468.44,
+      "en": "Many people do that, right?",
+      "zh": "很多人都这样做，对吧？"
+    },
+    {
+      "id": 164,
+      "start": 468.6,
+      "end": 470.82,
+      "en": "They have custom built or custom made homes.",
+      "zh": "他们有定制或定制的房屋。"
+    },
+    {
+      "id": 165,
+      "start": 471.32,
+      "end": 476.96,
+      "en": "Yeah, that's always something I've wanted to do, but I hear that it's much more expensive than getting a normal homemade.",
+      "zh": "是的，这一直是我想做的事情，但我听说这比买普通的自制要贵得多。"
+    },
+    {
+      "id": 166,
+      "start": 477.2,
+      "end": 477.4,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 167,
+      "start": 477.96,
+      "end": 478.76,
+      "en": "So that's the first key phrase.",
+      "zh": "所以这是第一个关键词。"
+    },
+    {
+      "id": 168,
+      "start": 479.14,
+      "end": 483.22,
+      "en": "Now moving on, when we talk about measuring, we say, I measured.",
+      "zh": "现在继续前进，当我们谈论测量时，我们说，我测量了。"
+    },
+    {
+      "id": 169,
+      "start": 483.64,
+      "end": 485.04,
+      "en": "I measured the length of this street.",
+      "zh": "我测量了这条街的长度。"
+    },
+    {
+      "id": 170,
+      "start": 485.63,
+      "end": 485.99,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 171,
+      "start": 486.56,
+      "end": 488.53,
+      "en": "Or let's measure you so we can see how big you are.",
+      "zh": "或者让我们测量你，这样我们就可以看到你有多大。"
+    },
+    {
+      "id": 172,
+      "start": 489.44,
+      "end": 491.91,
+      "en": "But if you notice in the dialogue, we use the passive voice.",
+      "zh": "但如果您在对话中注意到，我们使用被动语态。"
+    },
+    {
+      "id": 173,
+      "start": 492.12,
+      "end": 493.71,
+      "en": "He says, let's get you measured.",
+      "zh": "他说，让你衡量一下。"
+    },
+    {
+      "id": 174,
+      "start": 494.27,
+      "end": 494.43,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 175,
+      "start": 494.67,
+      "end": 497.19,
+      "en": "I got measured or it got measured.",
+      "zh": "我被测量了，或者它被测量了。"
+    },
+    {
+      "id": 176,
+      "start": 497.83,
+      "end": 501.41,
+      "en": "To get measured, as you say, is the passive voice.",
+      "zh": "正如你所说，被动语是被动的声音。"
+    },
+    {
+      "id": 177,
+      "start": 501.95,
+      "end": 504.23,
+      "en": "Now what's the difference between passive and active?",
+      "zh": "现在被动和主动有什么区别？"
+    },
+    {
+      "id": 178,
+      "start": 504.44,
+      "end": 505.44,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 179,
+      "start": 505.44,
+      "end": 511.65,
+      "en": "So basically what happens here is we are concentrating on the person and the action falling upon you, for example.",
+      "zh": "所以基本上这里发生的事情是我们专注于人和落在你身上的动作。"
+    },
+    {
+      "id": 180,
+      "start": 512.0,
+      "end": 513.76,
+      "en": "So I got measured.",
+      "zh": "所以我被测量了。"
+    },
+    {
+      "id": 181,
+      "start": 513.76,
+      "end": 514.25,
+      "en": "What happened to me?",
+      "zh": "我怎么了?"
+    },
+    {
+      "id": 182,
+      "start": 514.41,
+      "end": 514.85,
+      "en": "I got measured.",
+      "zh": "我被测量了。"
+    },
+    {
+      "id": 183,
+      "start": 515.21,
+      "end": 515.55,
+      "en": "Who did it?",
+      "zh": "是谁干的？"
+    },
+    {
+      "id": 184,
+      "start": 515.87,
+      "end": 516.33,
+      "en": "Who measured you?",
+      "zh": "谁测量了你？"
+    },
+    {
+      "id": 185,
+      "start": 516.49,
+      "end": 516.81,
+      "en": "We don't know.",
+      "zh": "我们不知道。"
+    },
+    {
+      "id": 186,
+      "start": 518.76,
+      "end": 519.76,
+      "en": "We don't know.",
+      "zh": "我们不知道。"
+    },
+    {
+      "id": 187,
+      "start": 519.76,
+      "end": 520.76,
+      "en": "We don't care.",
+      "zh": "我们不在乎。"
+    },
+    {
+      "id": 188,
+      "start": 520.76,
+      "end": 521.76,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 189,
+      "start": 521.76,
+      "end": 522.76,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 190,
+      "start": 522.76,
+      "end": 523.76,
+      "en": "The point, the important part is that you were measured.",
+      "zh": "重点，重要的是你被测量了。"
+    },
+    {
+      "id": 191,
+      "start": 523.76,
+      "end": 525.24,
+      "en": "You got measured, but we could have a different phrase.",
+      "zh": "你得到了衡量，但我们可以有一个不同的短语。"
+    },
+    {
+      "id": 192,
+      "start": 525.24,
+      "end": 535.77,
+      "en": "We say, for example, I will measure this table or he measures the height of the door and we know he measures.",
+      "zh": "例如，我们说，我将测量这张桌子，或者他测量门的高度，我们知道他的测量。"
+    },
+    {
+      "id": 193,
+      "start": 536.39,
+      "end": 537.33,
+      "en": "I will measure.",
+      "zh": "我会测量的。"
+    },
+    {
+      "id": 194,
+      "start": 537.55,
+      "end": 538.93,
+      "en": "We know who the actor is.",
+      "zh": "我们知道演员是谁。"
+    },
+    {
+      "id": 195,
+      "start": 539.01,
+      "end": 543.93,
+      "en": "That means it's active voice because the focus is on who's doing this action.",
+      "zh": "这意味着它是积极的声音，因为重点是谁在做这个动作。"
+    },
+    {
+      "id": 196,
+      "start": 544.66,
+      "end": 548.72,
+      "en": "And in passive voice, the important thing is who is receiving the action.",
+      "zh": "在被动语态中，重要的是谁在接受行动。"
+    },
+    {
+      "id": 197,
+      "start": 548.72,
+      "end": 549.72,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 198,
+      "start": 549.72,
+      "end": 555.82,
+      "en": "Now it's a little bit complicated because as you can see, measured is in the past, but we're not really talking about the past.",
+      "zh": "现在它有点复杂，因为正如你所看到的，测量是过去的，但我们并不是真正在谈论过去。"
+    },
+    {
+      "id": 199,
+      "start": 556.04,
+      "end": 557.82,
+      "en": "So it may get a little bit complicated.",
+      "zh": "所以可能会有点复杂。"
+    },
+    {
+      "id": 200,
+      "start": 557.82,
+      "end": 561.74,
+      "en": "We can take a more in-depth look at that in the community section.",
+      "zh": "我们可以在社区部分更深入地了解这一点。"
+    },
+    {
+      "id": 201,
+      "start": 561.74,
+      "end": 562.82,
+      "en": "You can ask a couple of questions.",
+      "zh": "你可以问几个问题。"
+    },
+    {
+      "id": 202,
+      "start": 562.98,
+      "end": 568.18,
+      "en": "We'll place a couple of examples, but it's kind of hard to get into the grammar over an audio podcast, right?",
+      "zh": "我们会举几个例子，但通过音频播客进入语法有点困难，对吧？"
+    },
+    {
+      "id": 203,
+      "start": 568.24,
+      "end": 568.58,
+      "en": "That's true.",
+      "zh": "确实如此。"
+    },
+    {
+      "id": 204,
+      "start": 568.76,
+      "end": 571.36,
+      "en": "So that's why we have the practice space on the website.",
+      "zh": "这就是为什么我们在网站上有练习空间的原因。"
+    },
+    {
+      "id": 205,
+      "start": 571.68,
+      "end": 571.94,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 206,
+      "start": 572.68,
+      "end": 575.6,
+      "en": "So moving on, we have our last phrase.",
+      "zh": "所以继续前进，我们有最后一句话。"
+    },
+    {
+      "id": 207,
+      "start": 575.6,
+      "end": 583.62,
+      "en": "And when he was talking about the waist and how he should leave a little bit of extra room, it's because he tends to gain a few pounds.",
+      "zh": "当他谈论腰部以及他应该如何留出一点额外的空间时，这是因为他往往会增加几磅。"
+    },
+    {
+      "id": 208,
+      "start": 584.08,
+      "end": 584.58,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 209,
+      "start": 585.0,
+      "end": 587.74,
+      "en": "So to gain a few pounds is like gaining a kilo.",
+      "zh": "所以增加几磅就像增加一公斤。"
+    },
+    {
+      "id": 210,
+      "start": 587.92,
+      "end": 589.9,
+      "en": "It means to gain weight over the holidays.",
+      "zh": "这意味着在假期增加体重。"
+    },
+    {
+      "id": 211,
+      "start": 590.36,
+      "end": 597.82,
+      "en": "And in this case, to tend to, I tend to means I normally or I usually.",
+      "zh": "在这种情况下，倾向于，我倾向于我通常或我通常的意思。"
+    },
+    {
+      "id": 212,
+      "start": 597.82,
+      "end": 600.54,
+      "en": "So for example, Marco, what do you tend to eat for breakfast?",
+      "zh": "比如，马可，你早餐吃什么？"
+    },
+    {
+      "id": 213,
+      "start": 601.13,
+      "end": 605.89,
+      "en": "I tend to eat scrambled eggs and a glass of yogurt.",
+      "zh": "我倾向于吃炒鸡蛋和一杯酸奶。"
+    },
+    {
+      "id": 214,
+      "start": 606.23,
+      "end": 606.65,
+      "en": "That's healthy.",
+      "zh": "那很健康。"
+    },
+    {
+      "id": 215,
+      "start": 607.07,
+      "end": 608.91,
+      "en": "Do you tend to run late in the morning?",
+      "zh": "你倾向于早上跑步吗？"
+    },
+    {
+      "id": 216,
+      "start": 609.31,
+      "end": 609.79,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 217,
+      "start": 610.83,
+      "end": 611.35,
+      "en": "True.",
+      "zh": "确实。"
+    },
+    {
+      "id": 218,
+      "start": 611.64,
+      "end": 612.64,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 219,
+      "start": 612.64,
+      "end": 617.32,
+      "en": "So tend to, it's a tendency, is what usually happens.",
+      "zh": "如此倾向，这是一种趋势，通常会发生。"
+    },
+    {
+      "id": 220,
+      "start": 617.32,
+      "end": 617.61,
+      "en": "It's normal.",
+      "zh": "这是正常的。"
+    },
+    {
+      "id": 221,
+      "start": 618.32,
+      "end": 619.32,
+      "en": "It's normal.",
+      "zh": "这是正常的。"
+    },
+    {
+      "id": 222,
+      "start": 619.32,
+      "end": 620.32,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 223,
+      "start": 620.32,
+      "end": 622.01,
+      "en": "So very interesting phrases, very interesting words.",
+      "zh": "非常有趣的短语，非常有趣的单词。"
+    },
+    {
+      "id": 224,
+      "start": 622.28,
+      "end": 631.48,
+      "en": "Why don't we listen to our dialogue for the last time?",
+      "zh": "为什么我们不听我们最后一次的对话？"
+    },
+    {
+      "id": 225,
+      "start": 631.48,
+      "end": 632.53,
+      "en": "Welcome to Bill's Fabric World.",
+      "zh": "欢迎来到比尔的织物世界。"
+    },
+    {
+      "id": 226,
+      "start": 632.84,
+      "end": 633.63,
+      "en": "What can I do for you today?",
+      "zh": "今天有什么可以帮您？"
+    },
+    {
+      "id": 227,
+      "start": 634.28,
+      "end": 636.92,
+      "en": "I was wondering if you guys also tailor clothes.",
+      "zh": "我想知道你们是否也定制衣服。"
+    },
+    {
+      "id": 228,
+      "start": 637.56,
+      "end": 637.92,
+      "en": "Sure we do.",
+      "zh": "当然，我们也做。"
+    },
+    {
+      "id": 229,
+      "start": 638.56,
+      "end": 639.52,
+      "en": "We have the best tailors in the country.",
+      "zh": "我们有全国最好的裁缝。"
+    },
+    {
+      "id": 230,
+      "start": 640.2,
+      "end": 641.12,
+      "en": "What is it that you need exactly?",
+      "zh": "你到底需要什么？"
+    },
+    {
+      "id": 231,
+      "start": 641.76,
+      "end": 644.42,
+      "en": "Well, I'm looking to get a custom made suit.",
+      "zh": "好吧，我想买一套定制的西装。"
+    },
+    {
+      "id": 232,
+      "start": 644.74,
+      "end": 645.06,
+      "en": "Excellent.",
+      "zh": "太好了。"
+    },
+    {
+      "id": 233,
+      "start": 645.74,
+      "end": 647.92,
+      "en": "We have the finest cashmeres at affordable prices.",
+      "zh": "我们有最好的羊绒价格实惠。"
+    },
+    {
+      "id": 234,
+      "start": 648.46,
+      "end": 649.36,
+      "en": "How about we get you measured?",
+      "zh": "我们让你测量怎么样？"
+    },
+    {
+      "id": 235,
+      "start": 649.92,
+      "end": 651.84,
+      "en": "Let's start off by measuring the width of your shoulders.",
+      "zh": "让我们从测量肩膀的宽度开始。"
+    },
+    {
+      "id": 236,
+      "start": 654.93,
+      "end": 658.07,
+      "en": "Now let's measure the length of your arms and this bit around your neck here.",
+      "zh": "现在量一下您的臂长，还有脖子这一圈。"
+    },
+    {
+      "id": 237,
+      "start": 659.5,
+      "end": 662.58,
+      "en": "Can you make sure you leave a little extra space in the collar?",
+      "zh": "你能确保你在衣领上留出一点额外的空间吗？"
+    },
+    {
+      "id": 238,
+      "start": 663.18,
+      "end": 664.54,
+      "en": "My neck gets easily irritated.",
+      "zh": "我的脖子很容易发炎。"
+    },
+    {
+      "id": 239,
+      "start": 665.18,
+      "end": 665.76,
+      "en": "No problem.",
+      "zh": "没问题。"
+    },
+    {
+      "id": 240,
+      "start": 666.42,
+      "end": 669.52,
+      "en": "Now for your pants, let me just measure your waist and the inseam.",
+      "zh": "接下来量裤子的尺寸，我量一下您的腰围和裤内长。"
+    },
+    {
+      "id": 241,
+      "start": 671.06,
+      "end": 673.96,
+      "en": "You might also want to leave a little extra room in the waist area.",
+      "zh": "您可能还想在腰部留出一点额外的空间。"
+    },
+    {
+      "id": 242,
+      "start": 674.52,
+      "end": 676.6,
+      "en": "I tend to gain a few pounds over the holidays.",
+      "zh": "我倾向于在假期里增加几磅。"
+    },
+    {
+      "id": 243,
+      "start": 677.26,
+      "end": 677.58,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 244,
+      "start": 678.04,
+      "end": 680.12,
+      "en": "Now you can pick your fabric and pattern design.",
+      "zh": "现在您可以选择您的面料和图案设计。"
+    },
+    {
+      "id": 245,
+      "start": 680.58,
+      "end": 681.3,
+      "en": "Please follow me.",
+      "zh": "请跟我来。"
+    },
+    {
+      "id": 246,
+      "start": 682.72,
+      "end": 685.2,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 247,
+      "start": 687.76,
+      "end": 693.44,
+      "en": "So we talked earlier about how most people buy their clothes at a department store or a clothing store.",
+      "zh": "所以我们之前谈到了大多数人如何在百货公司或服装店购买衣服。"
+    },
+    {
+      "id": 248,
+      "start": 693.86,
+      "end": 694.98,
+      "en": "Have you seen much of this?",
+      "zh": "你见过很多吗？"
+    },
+    {
+      "id": 249,
+      "start": 695.24,
+      "end": 698.52,
+      "en": "You know, maybe back in Ecuador it's more common than in America.",
+      "zh": "你知道，也许回到厄瓜多尔，这比在美国更常见。"
+    },
+    {
+      "id": 250,
+      "start": 698.86,
+      "end": 699.38,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 251,
+      "start": 699.68,
+      "end": 712.42,
+      "en": "Usually people just go to a department store and get suits for example, but it's actually very common as well because it's kind of in their artisans to be like a shoemaker or to be a tailor.",
+      "zh": "通常人们只是去百货公司买西装，但实际上也很常见，因为他们的工匠有点像鞋匠或裁缝。"
+    },
+    {
+      "id": 252,
+      "start": 713.28,
+      "end": 720.43,
+      "en": "So actually people like it more and go to tailors because they kind of become renowned like, oh, he used to make suits for the president.",
+      "zh": "所以实际上人们更喜欢它并去裁缝，因为他们有点出名，哦，他曾经为总统制作西装。"
+    },
+    {
+      "id": 253,
+      "start": 720.69,
+      "end": 725.81,
+      "en": "So you know, people really, really like to get suits made there and obviously they fit much better.",
+      "zh": "所以你知道，人们真的，真的很喜欢在那里制作西装，显然它们更合身。"
+    },
+    {
+      "id": 254,
+      "start": 725.91,
+      "end": 726.65,
+      "en": "You feel more comfortable.",
+      "zh": "你感觉更舒服。"
+    },
+    {
+      "id": 255,
+      "start": 726.99,
+      "end": 727.63,
+      "en": "And you look better.",
+      "zh": "你看起来更好。"
+    },
+    {
+      "id": 256,
+      "start": 728.36,
+      "end": 729.36,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 257,
+      "start": 729.36,
+      "end": 732.23,
+      "en": "As I've said before, you know, I see people who buy all these suits.",
+      "zh": "正如我之前所说，你知道，我看到人们购买所有这些西装。"
+    },
+    {
+      "id": 258,
+      "start": 732.44,
+      "end": 735.06,
+      "en": "My brother, for example, they never quite fit right.",
+      "zh": "例如，我的兄弟，他们从来都不合适。"
+    },
+    {
+      "id": 259,
+      "start": 735.5,
+      "end": 737.28,
+      "en": "You can tell it's a little too big in the shoulders.",
+      "zh": "你可以看出它的肩膀有点太大了。"
+    },
+    {
+      "id": 260,
+      "start": 737.62,
+      "end": 740.28,
+      "en": "My brother's tall, so his pants are always a little bit too short.",
+      "zh": "我哥哥很高，所以他的裤子总是有点太短了。"
+    },
+    {
+      "id": 261,
+      "start": 741.0,
+      "end": 748.12,
+      "en": "But when you come to a place like China and most people can get these suits made for them, they just look fabulous.",
+      "zh": "但是当你来到像中国这样的地方，大多数人都可以为他们制作这些西装时，它们看起来很棒。"
+    },
+    {
+      "id": 262,
+      "start": 748.12,
+      "end": 749.45,
+      "en": "It looks very, very nice.",
+      "zh": "它看起来非常非常好。"
+    },
+    {
+      "id": 263,
+      "start": 749.8,
+      "end": 750.03,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 264,
+      "start": 750.03,
+      "end": 758.55,
+      "en": "So maybe you guys can tell us if you've ever had anything tailor made, not only guys' suits, but girls also get tailor made dresses, tailor made blouses.",
+      "zh": "所以也许你们可以告诉我们，如果你曾经做过任何定制的东西，不仅是男士的西装，而且女孩们还买了定制的连衣裙，定制的衬衫。"
+    },
+    {
+      "id": 265,
+      "start": 758.99,
+      "end": 765.87,
+      "en": "I always get coats made actually because my shoulders are broad and so it's hard for me to find coats that fit right.",
+      "zh": "我总是做外套，因为我的肩膀很宽，所以我很难找到合适的外套。"
+    },
+    {
+      "id": 266,
+      "start": 766.03,
+      "end": 768.21,
+      "en": "But if I get one custom made, it looks really good.",
+      "zh": "但如果我得到一种定制，它看起来真的很好。"
+    },
+    {
+      "id": 267,
+      "start": 768.39,
+      "end": 768.55,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 268,
+      "start": 769.56,
+      "end": 771.28,
+      "en": "So come to our website, EnglishPod.com.",
+      "zh": "所以来我们的网站 englishpod.com。"
+    },
+    {
+      "id": 269,
+      "start": 771.28,
+      "end": 773.93,
+      "en": "Leave your questions and comments there and we'll see you guys later.",
+      "zh": "留下您的问题和评论，我们稍后再见。"
+    },
+    {
+      "id": 270,
+      "start": 774.28,
+      "end": 774.94,
+      "en": "Until next time, guys.",
+      "zh": "直到下一次，伙计们。"
+    },
+    {
+      "id": 271,
+      "start": 775.28,
+      "end": 776.28,
+      "en": "Bye.",
+      "zh": "再见。"
+    },
+    {
+      "id": 272,
+      "start": 776.28,
+      "end": 783.856,
+      "en": "Bye.",
+      "zh": "再见。"
+    }
+  ],
+  "dialog": {
+    "start": 72.25,
+    "end": 122.46,
+    "segmentIds": [
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42
+    ]
+  }
+}

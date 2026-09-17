@@ -1,0 +1,1807 @@
+{
+  "version": 1,
+  "id": 111,
+  "number": "0111",
+  "title": "The Weekend - Golf",
+  "audio": "mp3/111. The Weekend - Golf.mp3",
+  "duration": 892.290625,
+  "segments": [
+    {
+      "id": 1,
+      "start": 2.32,
+      "end": 7.62,
+      "en": "Hello English learners, welcome back to another sports lesson with us here at EnglishPod.",
+      "zh": "您好英语学习者，欢迎回到 Englishpod 与我们一起参加另一个体育课。"
+    },
+    {
+      "id": 2,
+      "start": 7.92,
+      "end": 8.38,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 9.04,
+      "end": 10.2,
+      "en": "And I'm Erika.",
+      "zh": "我叫 Erika。"
+    },
+    {
+      "id": 4,
+      "start": 10.2,
+      "end": 16.0,
+      "en": "And today we're going to be talking about a very interesting and very difficult game to play and it's golf.",
+      "zh": "今天我们将谈论一场非常有趣且非常困难的比赛，它是高尔夫。"
+    },
+    {
+      "id": 5,
+      "start": 16.72,
+      "end": 20.26,
+      "en": "So we've got some golf vocabulary for you in this lesson.",
+      "zh": "所以我们在本课中为您准备了一些高尔夫词汇。"
+    },
+    {
+      "id": 6,
+      "start": 21.2,
+      "end": 29.6,
+      "en": "And I think we better actually look at a few vocabulary words in vocabulary preview before we start with the dialogue.",
+      "zh": "而且我认为在我们开始对话之前，我们最好在词汇预览中查看一些词汇单词。"
+    },
+    {
+      "id": 7,
+      "start": 29.6,
+      "end": 29.92,
+      "en": "Vocabulary preview.",
+      "zh": "词汇预习。"
+    },
+    {
+      "id": 8,
+      "start": 31.68,
+      "end": 37.49,
+      "en": "On vocabulary preview today we have three words and the first one is aficionado.",
+      "zh": "在今天的词汇预览中，我们有三个词，第一个是爱好者。"
+    },
+    {
+      "id": 9,
+      "start": 38.33,
+      "end": 38.6,
+      "en": "Aficionado.",
+      "zh": "爱好者。"
+    },
+    {
+      "id": 10,
+      "start": 38.6,
+      "end": 39.6,
+      "en": "An aficionado.",
+      "zh": "一个爱好者。"
+    },
+    {
+      "id": 11,
+      "start": 40.83,
+      "end": 41.77,
+      "en": "A golf aficionado.",
+      "zh": "一个高尔夫球迷。"
+    },
+    {
+      "id": 12,
+      "start": 42.64,
+      "end": 48.31,
+      "en": "Alright so this basically is a very fancy word of, it's a very fancy way of saying a fan.",
+      "zh": "好吧，这基本上是一个非常花哨的词，这是一种非常花哨的表达方式。"
+    },
+    {
+      "id": 13,
+      "start": 48.84,
+      "end": 50.11,
+      "en": "Yes, someone who likes something a lot.",
+      "zh": "是的，一个非常喜欢某事的人。"
+    },
+    {
+      "id": 14,
+      "start": 50.44,
+      "end": 52.57,
+      "en": "Okay so you are an aficionado.",
+      "zh": "好的，所以你是一个爱好者。"
+    },
+    {
+      "id": 15,
+      "start": 52.79,
+      "end": 53.33,
+      "en": "I like golf.",
+      "zh": "我喜欢高尔夫。"
+    },
+    {
+      "id": 16,
+      "start": 53.65,
+      "end": 56.01,
+      "en": "Yeah, you can also be a wine aficionado.",
+      "zh": "是的，你也可以成为葡萄酒爱好者。"
+    },
+    {
+      "id": 17,
+      "start": 56.29,
+      "end": 58.35,
+      "en": "Okay, so it's kind of like a hobby.",
+      "zh": "好吧，所以这有点像一个爱好。"
+    },
+    {
+      "id": 18,
+      "start": 58.69,
+      "end": 60.75,
+      "en": "Yeah, you know a lot about it and you like it.",
+      "zh": "是的，你对它了解很多，你喜欢它。"
+    },
+    {
+      "id": 19,
+      "start": 61.92,
+      "end": 64.85,
+      "en": "And now our second word is not anywhere in the dialogue.",
+      "zh": "现在我们的第二个词不在对话中的任何地方。"
+    },
+    {
+      "id": 20,
+      "start": 65.29,
+      "end": 69.13,
+      "en": "No, but we're going to use it when we explain some of these words so you need to know it.",
+      "zh": "不，但是当我们解释其中一些单词时，我们将使用它，因此您需要知道它。"
+    },
+    {
+      "id": 21,
+      "start": 69.39,
+      "end": 71.35,
+      "en": "Okay, the word is club.",
+      "zh": "好吧，这个词是俱乐部。"
+    },
+    {
+      "id": 22,
+      "start": 71.6,
+      "end": 72.6,
+      "en": "Club.",
+      "zh": "俱乐部。"
+    },
+    {
+      "id": 23,
+      "start": 72.6,
+      "end": 73.4,
+      "en": "A golf club.",
+      "zh": "一个高尔夫俱乐部。"
+    },
+    {
+      "id": 24,
+      "start": 73.96,
+      "end": 78.64,
+      "en": "Okay so a golf club is the tool you use to hit the golf ball.",
+      "zh": "好的，高尔夫球杆是您击打高尔夫球的工具。"
+    },
+    {
+      "id": 25,
+      "start": 79.02,
+      "end": 84.16,
+      "en": "Right, so it's a long tube basically that looks like a J kind of.",
+      "zh": "是的，所以它是一个长管，基本上看起来像 J 型。"
+    },
+    {
+      "id": 26,
+      "start": 84.4,
+      "end": 86.02,
+      "en": "Yeah, so and you hit the ball with it.",
+      "zh": "是的，所以你用它击球。"
+    },
+    {
+      "id": 27,
+      "start": 86.92,
+      "end": 87.88,
+      "en": "So that's a golf club.",
+      "zh": "所以这是一个高尔夫俱乐部。"
+    },
+    {
+      "id": 28,
+      "start": 89.12,
+      "end": 92.4,
+      "en": "And now our third word is golf course.",
+      "zh": "现在我们的第三个词是高尔夫球场。"
+    },
+    {
+      "id": 29,
+      "start": 92.4,
+      "end": 92.72,
+      "en": "Golf course.",
+      "zh": "高尔夫球场。"
+    },
+    {
+      "id": 30,
+      "start": 93.64,
+      "end": 94.34,
+      "en": "A golf course.",
+      "zh": "一个高尔夫球场。"
+    },
+    {
+      "id": 31,
+      "start": 94.66,
+      "end": 95.12,
+      "en": "A course.",
+      "zh": "一门课程。"
+    },
+    {
+      "id": 32,
+      "start": 95.79,
+      "end": 98.15,
+      "en": "So this is the area where you play golf.",
+      "zh": "所以这是你打高尔夫球的地方。"
+    },
+    {
+      "id": 33,
+      "start": 98.45,
+      "end": 99.79,
+      "en": "Yeah, it's like the golf field.",
+      "zh": "是的，这就像高尔夫球场。"
+    },
+    {
+      "id": 34,
+      "start": 100.23,
+      "end": 100.57,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 35,
+      "start": 101.04,
+      "end": 104.92,
+      "en": "Yeah, so it's a very big green area where you play golf.",
+      "zh": "是的，所以这是一个非常大的绿色区域，您可以在那里打高尔夫球。"
+    },
+    {
+      "id": 36,
+      "start": 104.92,
+      "end": 107.81,
+      "en": "So those are the three words we have for vocabulary preview.",
+      "zh": "所以这些是我们用于词汇预览的三个词。"
+    },
+    {
+      "id": 37,
+      "start": 108.31,
+      "end": 118.37,
+      "en": "So now we could listen to our dialogue for the first time as we listen to our sports announcers, Rick Fields and Bob Copeland and see what happens on this occasion.",
+      "zh": "所以现在我们可以第一次听我们的对话，因为我们听我们的体育播音员 Rick Fields 和 Bob Copeland 看看这个场合会发生什么。"
+    },
+    {
+      "id": 38,
+      "start": 125.92,
+      "end": 126.92,
+      "en": "Good morning, Golf Aficionados.",
+      "zh": "早上好，高尔夫球迷。"
+    },
+    {
+      "id": 39,
+      "start": 127.16,
+      "end": 130.42,
+      "en": "My name is Rick Fields and you guessed it, I'm here with my main man, Bob Copeland.",
+      "zh": "我是瑞克·菲尔兹，想必大家猜到了，今天和我一起解说的是老搭档鲍勃·科普兰。"
+    },
+    {
+      "id": 40,
+      "start": 130.86,
+      "end": 131.46,
+      "en": "Thank you, Rick.",
+      "zh": "谢谢你，Rick。"
+    },
+    {
+      "id": 41,
+      "start": 132.2,
+      "end": 139.7,
+      "en": "As you can see, ladies and gentlemen, we are here in beautiful Pebble Beach where the top golfers in the world are vying to win the grand prize of $1 million.",
+      "zh": "女士们先生们，我们来到风景优美的圆石滩，世界顶尖球手将在这里争夺一百万美元大奖。"
+    },
+    {
+      "id": 42,
+      "start": 141.22,
+      "end": 142.4,
+      "en": "Whoa, that's a lot of cash.",
+      "zh": "哇，这真是一大笔钱。"
+    },
+    {
+      "id": 43,
+      "start": 143.12,
+      "end": 145.28,
+      "en": "Let's go to the course and see how Tiger Woods is doing.",
+      "zh": "现在转到球场，看看泰格·伍兹表现如何。"
+    },
+    {
+      "id": 44,
+      "start": 151.01,
+      "end": 152.93,
+      "en": "All right, we're here at the eighth hole.",
+      "zh": "好吧，我们在第八洞。"
+    },
+    {
+      "id": 45,
+      "start": 153.25,
+      "end": 159.45,
+      "en": "It's par four and has some very difficult hazards which many golfers find difficult to avoid.",
+      "zh": "第八洞是四杆洞，障碍区不少，许多球手都很难避开。"
+    },
+    {
+      "id": 46,
+      "start": 160.12,
+      "end": 163.56,
+      "en": "Although, I did see Jack Niclaus hit a hole at one on this very same hole.",
+      "zh": "不过我曾在这个洞亲眼见过杰克·尼克劳斯一杆进洞。"
+    },
+    {
+      "id": 47,
+      "start": 166.44,
+      "end": 170.1,
+      "en": "Tiger Woods is about to tee off and let's see if he has the same luck as Jack.",
+      "zh": "泰格·伍兹正准备开球，看看他能否像杰克一样走运。"
+    },
+    {
+      "id": 48,
+      "start": 170.8,
+      "end": 173.9,
+      "en": "Tiger is asking his caddy for his driver and he seems to be very nervous.",
+      "zh": "泰格向球童要来一号木杆，看起来有些紧张。"
+    },
+    {
+      "id": 49,
+      "start": 177.59,
+      "end": 180.07,
+      "en": "Oh, no, not a good swing at all.",
+      "zh": "哎呀，这一杆挥得真糟。"
+    },
+    {
+      "id": 50,
+      "start": 180.69,
+      "end": 181.83,
+      "en": "It's definitely not his day today.",
+      "zh": "今天显然不是他的好日子。"
+    },
+    {
+      "id": 51,
+      "start": 182.55,
+      "end": 185.53,
+      "en": "On the seventh hole, he got a bogey and before that, he barely made par.",
+      "zh": "第七洞他打了个柏忌，前一个洞也只是勉强保住标准杆。"
+    },
+    {
+      "id": 52,
+      "start": 186.11,
+      "end": 187.75,
+      "en": "He will definitely not get a birdie on this shot.",
+      "zh": "这一杆肯定打不出小鸟球。"
+    },
+    {
+      "id": 53,
+      "start": 188.91,
+      "end": 191.89,
+      "en": "It seems that his ball has flown somewhere deep into the trees.",
+      "zh": "球似乎飞进了树林深处。"
+    },
+    {
+      "id": 54,
+      "start": 192.49,
+      "end": 196.27,
+      "en": "He's having a hard time finding it and even his caddy has climbed a tree to try and spot it.",
+      "zh": "他找了半天，连球童都爬上树找球了。"
+    },
+    {
+      "id": 55,
+      "start": 197.28,
+      "end": 198.28,
+      "en": "Oh, no, a bear.",
+      "zh": "哦，不，一只熊。"
+    },
+    {
+      "id": 56,
+      "start": 198.28,
+      "end": 199.28,
+      "en": "Run, Tiger, run.",
+      "zh": "跑，老虎，跑。"
+    },
+    {
+      "id": 57,
+      "start": 199.28,
+      "end": 203.04,
+      "en": "Somebody call animal control.",
+      "zh": "快叫野生动物管理部门！"
+    },
+    {
+      "id": 58,
+      "start": 205.77,
+      "end": 208.85,
+      "en": "So, a pretty exciting ending to that dialogue there.",
+      "zh": "所以，那里的对话是一个非常令人兴奋的结局。"
+    },
+    {
+      "id": 59,
+      "start": 209.19,
+      "end": 210.89,
+      "en": "A bear on the golf course.",
+      "zh": "高尔夫球场上的熊。"
+    },
+    {
+      "id": 60,
+      "start": 211.24,
+      "end": 213.84,
+      "en": "Yeah, I wonder if Tiger is okay.",
+      "zh": "是的，我想知道老虎是否还好。"
+    },
+    {
+      "id": 61,
+      "start": 213.87,
+      "end": 217.65,
+      "en": "I sure hope so because it would be a huge loss to the world of golf.",
+      "zh": "我当然希望如此，因为这对高尔夫世界来说将是一个巨大的损失。"
+    },
+    {
+      "id": 62,
+      "start": 218.19,
+      "end": 218.63,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 63,
+      "start": 219.32,
+      "end": 225.76,
+      "en": "So, we did learn a lot about golf because they use some very specific and technical words for golf.",
+      "zh": "所以，我们确实学到了很多关于高尔夫的知识，因为他们使用了一些非常具体和技术性的高尔夫单词。"
+    },
+    {
+      "id": 64,
+      "start": 225.76,
+      "end": 228.07,
+      "en": "So, let's look at these now in Language Takeaway.",
+      "zh": "所以，让我们现在在语言外卖中看看这些。"
+    },
+    {
+      "id": 65,
+      "start": 230.52,
+      "end": 230.93,
+      "en": "Language Takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 66,
+      "start": 231.52,
+      "end": 232.52,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 67,
+      "start": 232.58,
+      "end": 244.44,
+      "en": "So, the announcers were talking about the game and they're talking about the course and they're here on the eighth hole and they said that last time, Jack Nicklaus hit a hole in one.",
+      "zh": "所以，播音员在谈论比赛，他们在谈论球场，他们在第八洞，他们说上次，杰克尼克劳斯一杆进洞。"
+    },
+    {
+      "id": 68,
+      "start": 245.6,
+      "end": 246.26,
+      "en": "Hole in one.",
+      "zh": "一号洞。"
+    },
+    {
+      "id": 69,
+      "start": 246.6,
+      "end": 247.34,
+      "en": "A hole in one.",
+      "zh": "一个洞一洞。"
+    },
+    {
+      "id": 70,
+      "start": 247.92,
+      "end": 249.08,
+      "en": "Okay, a hole in one.",
+      "zh": "好吧，一个洞。"
+    },
+    {
+      "id": 71,
+      "start": 249.52,
+      "end": 254.88,
+      "en": "So, this is when you hit the ball once and the ball goes in the hole.",
+      "zh": "所以，这是你击球一次，球进入洞中的时候。"
+    },
+    {
+      "id": 72,
+      "start": 255.2,
+      "end": 255.72,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 73,
+      "start": 256.14,
+      "end": 258.32,
+      "en": "So, it's something very difficult to do.",
+      "zh": "所以，这是很难做到的事情。"
+    },
+    {
+      "id": 74,
+      "start": 258.56,
+      "end": 258.76,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 75,
+      "start": 258.92,
+      "end": 259.04,
+      "en": "Right?",
+      "zh": "对吧？"
+    },
+    {
+      "id": 76,
+      "start": 260.64,
+      "end": 261.64,
+      "en": "A hole in one.",
+      "zh": "一个洞一洞。"
+    },
+    {
+      "id": 77,
+      "start": 261.64,
+      "end": 262.64,
+      "en": "I've certainly never made one.",
+      "zh": "我当然从来没有做过一件。"
+    },
+    {
+      "id": 78,
+      "start": 262.64,
+      "end": 263.64,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 79,
+      "start": 263.64,
+      "end": 265.1,
+      "en": "So, sometimes it's also called an ace.",
+      "zh": "所以，有时它也被称为 ACE。"
+    },
+    {
+      "id": 80,
+      "start": 265.38,
+      "end": 267.8,
+      "en": "So, it can be a hole in one or called an ace.",
+      "zh": "因此，它可以是一个孔中的一个或称为 ACE 的孔。"
+    },
+    {
+      "id": 81,
+      "start": 268.08,
+      "end": 268.62,
+      "en": "Ah, okay.",
+      "zh": "啊，好的。"
+    },
+    {
+      "id": 82,
+      "start": 269.36,
+      "end": 276.96,
+      "en": "Now, for our second word, now once we get to the hole, to the ninth hole or the tenth hole, we have to tee off.",
+      "zh": "现在，对于我们的第二个词，现在一旦我们到达洞，第九洞或第十个洞，我们就必须开球。"
+    },
+    {
+      "id": 83,
+      "start": 277.34,
+      "end": 278.5,
+      "en": "To tee off.",
+      "zh": "开球。"
+    },
+    {
+      "id": 84,
+      "start": 279.48,
+      "end": 280.48,
+      "en": "Tee off.",
+      "zh": "开球。"
+    },
+    {
+      "id": 85,
+      "start": 280.48,
+      "end": 283.99,
+      "en": "So, when you tee off, you begin playing.",
+      "zh": "所以，当你开球时，你开始玩。"
+    },
+    {
+      "id": 86,
+      "start": 284.37,
+      "end": 284.61,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 87,
+      "start": 285.56,
+      "end": 290.68,
+      "en": "So, it's the very first instance where you put the little ball on the tee.",
+      "zh": "所以，这是你把小球放在发球台上的第一个例子。"
+    },
+    {
+      "id": 88,
+      "start": 290.68,
+      "end": 292.17,
+      "en": "And you hit the ball for the first time.",
+      "zh": "你第一次击球。"
+    },
+    {
+      "id": 89,
+      "start": 292.76,
+      "end": 293.76,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 90,
+      "start": 293.76,
+      "end": 294.76,
+      "en": "So, to tee off.",
+      "zh": "所以，开球。"
+    },
+    {
+      "id": 91,
+      "start": 294.99,
+      "end": 300.27,
+      "en": "Now, another golf vocabulary, they were talking about a caddy.",
+      "zh": "现在，另一个高尔夫词汇，他们在谈论一个球童。"
+    },
+    {
+      "id": 92,
+      "start": 300.61,
+      "end": 301.87,
+      "en": "Right, a caddy.",
+      "zh": "对了，一个球童。"
+    },
+    {
+      "id": 93,
+      "start": 302.35,
+      "end": 302.67,
+      "en": "A caddy.",
+      "zh": "一个球童。"
+    },
+    {
+      "id": 94,
+      "start": 303.25,
+      "end": 305.13,
+      "en": "Now, a caddy is a person.",
+      "zh": "现在，球童是一个人。"
+    },
+    {
+      "id": 95,
+      "start": 305.52,
+      "end": 308.6,
+      "en": "Yes, it's the person who carries your golf clubs.",
+      "zh": "是的，是携带你的高尔夫球杆的人。"
+    },
+    {
+      "id": 96,
+      "start": 309.0,
+      "end": 309.38,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 97,
+      "start": 309.94,
+      "end": 315.06,
+      "en": "So, he carries your bag, your golf clubs and basically helps you while you're playing golf.",
+      "zh": "所以，他背着你的包，你的高尔夫球杆，在你打高尔夫球时基本上会帮助你。"
+    },
+    {
+      "id": 98,
+      "start": 315.26,
+      "end": 322.78,
+      "en": "Yeah, he tells you which way you should hit the ball and maybe, you know, gives you a nice cold drink and looks after you.",
+      "zh": "是的，他告诉你你应该以哪种方式击球，你知道，也许，给你一杯好冷饮并照顾你。"
+    },
+    {
+      "id": 99,
+      "start": 322.98,
+      "end": 323.58,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 100,
+      "start": 323.8,
+      "end": 324.82,
+      "en": "So, that's a caddy.",
+      "zh": "所以，这是一个球童。"
+    },
+    {
+      "id": 101,
+      "start": 325.72,
+      "end": 333.32,
+      "en": "And now, the caddy, since he has to carry all the golf clubs, Tiger Woods asked him for his driver.",
+      "zh": "而现在，球童，由于他必须携带所有的高尔夫球杆，所以老虎伍兹向他要了他的司机。"
+    },
+    {
+      "id": 102,
+      "start": 333.32,
+      "end": 333.84,
+      "en": "A driver.",
+      "zh": "一个司机。"
+    },
+    {
+      "id": 103,
+      "start": 334.32,
+      "end": 335.32,
+      "en": "Driver.",
+      "zh": "司机。"
+    },
+    {
+      "id": 104,
+      "start": 335.51,
+      "end": 335.79,
+      "en": "A driver.",
+      "zh": "一个司机。"
+    },
+    {
+      "id": 105,
+      "start": 336.31,
+      "end": 338.71,
+      "en": "Now, a driver is a type of golf club.",
+      "zh": "现在，司机是一种高尔夫球杆。"
+    },
+    {
+      "id": 106,
+      "start": 338.88,
+      "end": 339.88,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 107,
+      "start": 339.88,
+      "end": 340.88,
+      "en": "It's not a person.",
+      "zh": "这不是一个人。"
+    },
+    {
+      "id": 108,
+      "start": 340.88,
+      "end": 341.88,
+      "en": "No, no.",
+      "zh": "不，不。"
+    },
+    {
+      "id": 109,
+      "start": 341.88,
+      "end": 346.99,
+      "en": "It's a type of golf club and it's a very big and heavy golf club that is used to tee off.",
+      "zh": "这是一种高尔夫球杆，它是一个非常大而沉重的高尔夫球杆，用于开球。"
+    },
+    {
+      "id": 110,
+      "start": 347.31,
+      "end": 349.79,
+      "en": "So, it's used to hit the ball a very long way.",
+      "zh": "所以，它被用来击球很远。"
+    },
+    {
+      "id": 111,
+      "start": 350.07,
+      "end": 350.29,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 112,
+      "start": 350.29,
+      "end": 352.71,
+      "en": "That is called the driver.",
+      "zh": "这叫司机。"
+    },
+    {
+      "id": 113,
+      "start": 353.2,
+      "end": 361.72,
+      "en": "Okay, so, and the next thing they were talking about were some different types of scores that you could get on a hole.",
+      "zh": "好吧，所以，他们接下来要谈论的是一些不同类型的分数，你可以在一个洞里得到一些不同类型的分数。"
+    },
+    {
+      "id": 114,
+      "start": 361.72,
+      "end": 363.63,
+      "en": "And the first one they mentioned was par.",
+      "zh": "他们提到的第一个是标准杆。"
+    },
+    {
+      "id": 115,
+      "start": 364.05,
+      "end": 366.53,
+      "en": "Okay, so, you can make par.",
+      "zh": "好吧，你可以做标准。"
+    },
+    {
+      "id": 116,
+      "start": 366.87,
+      "end": 367.25,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 117,
+      "start": 368.04,
+      "end": 370.76,
+      "en": "So, the par of the course can be four.",
+      "zh": "因此，课程的标准杆可以是四个。"
+    },
+    {
+      "id": 118,
+      "start": 370.83,
+      "end": 371.73,
+      "en": "Okay, very good.",
+      "zh": "好，很好。"
+    },
+    {
+      "id": 119,
+      "start": 372.17,
+      "end": 380.77,
+      "en": "So, basically, the par is the maximum number of swings or strokes you can make before putting the ball into the hole.",
+      "zh": "因此，基本上，PAR 是您在将球放入洞中之前可以进行的最大摆动或击球次数。"
+    },
+    {
+      "id": 120,
+      "start": 381.11,
+      "end": 381.25,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 121,
+      "start": 381.29,
+      "end": 389.17,
+      "en": "So, it's like the, right, so, when a hole is par four, you should only hit the ball four times.",
+      "zh": "所以，就像，对，所以，当一个洞是四杆洞时，你应该只击球四次。"
+    },
+    {
+      "id": 122,
+      "start": 389.45,
+      "end": 390.21,
+      "en": "Four times or less.",
+      "zh": "四倍或更少。"
+    },
+    {
+      "id": 123,
+      "start": 390.6,
+      "end": 391.6,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 124,
+      "start": 391.6,
+      "end": 392.6,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 125,
+      "start": 392.6,
+      "end": 395.73,
+      "en": "Now, if you don't make par, there are some options.",
+      "zh": "现在，如果你不做标准，有一些选择。"
+    },
+    {
+      "id": 126,
+      "start": 396.76,
+      "end": 398.12,
+      "en": "You can make a bogey.",
+      "zh": "你可以做一个柏忌。"
+    },
+    {
+      "id": 127,
+      "start": 398.12,
+      "end": 399.64,
+      "en": "Alright, a bogey.",
+      "zh": "好吧，一个柏忌。"
+    },
+    {
+      "id": 128,
+      "start": 399.65,
+      "end": 400.07,
+      "en": "A bogey.",
+      "zh": "一个柏忌。"
+    },
+    {
+      "id": 129,
+      "start": 400.49,
+      "end": 402.69,
+      "en": "Now, sometimes the golf course is very difficult.",
+      "zh": "现在，有时高尔夫球场非常困难。"
+    },
+    {
+      "id": 130,
+      "start": 403.0,
+      "end": 404.0,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 131,
+      "start": 404.0,
+      "end": 409.76,
+      "en": "So, instead of putting the ball in the hole, let's say in four turns, you do it in five.",
+      "zh": "因此，与其将球放入洞中，不如说是四圈，你在五圈内完成。"
+    },
+    {
+      "id": 132,
+      "start": 409.89,
+      "end": 411.77,
+      "en": "Okay, so, it's one over par.",
+      "zh": "好吧，这比标准杆高出一分。"
+    },
+    {
+      "id": 133,
+      "start": 412.03,
+      "end": 413.01,
+      "en": "One over par.",
+      "zh": "一杆以上。"
+    },
+    {
+      "id": 134,
+      "start": 413.19,
+      "end": 413.69,
+      "en": "So, that's bad.",
+      "zh": "所以，这很糟糕。"
+    },
+    {
+      "id": 135,
+      "start": 414.11,
+      "end": 416.03,
+      "en": "Yeah, that's bad because you get a point.",
+      "zh": "是的，这很糟糕，因为你得到了一个观点。"
+    },
+    {
+      "id": 136,
+      "start": 416.35,
+      "end": 420.56,
+      "en": "So, it's kind of strange because in golf, the more points you have, the worse you are.",
+      "zh": "所以，这有点奇怪，因为在高尔夫中，你得分越多，你就越糟糕。"
+    },
+    {
+      "id": 137,
+      "start": 420.56,
+      "end": 421.56,
+      "en": "The worse you are.",
+      "zh": "你越坏。"
+    },
+    {
+      "id": 138,
+      "start": 421.56,
+      "end": 422.56,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 139,
+      "start": 422.56,
+      "end": 423.37,
+      "en": "So, that is a bogey.",
+      "zh": "所以，这是一个柏忌。"
+    },
+    {
+      "id": 140,
+      "start": 423.81,
+      "end": 426.29,
+      "en": "Now, they also talked about a birdie.",
+      "zh": "现在，他们还谈到了一只小鸟。"
+    },
+    {
+      "id": 141,
+      "start": 427.11,
+      "end": 430.77,
+      "en": "Birdie is the opposite if you hit one under par.",
+      "zh": "如果你低于标准杆一杆，小鸟是相反的。"
+    },
+    {
+      "id": 142,
+      "start": 431.21,
+      "end": 431.67,
+      "en": "So, that's good.",
+      "zh": "所以，这很好。"
+    },
+    {
+      "id": 143,
+      "start": 432.01,
+      "end": 433.93,
+      "en": "Yeah, that's good because you have minus one.",
+      "zh": "是的，这很好，因为你有负一。"
+    },
+    {
+      "id": 144,
+      "start": 434.11,
+      "end": 435.11,
+      "en": "One less than par.",
+      "zh": "比标准少一。"
+    },
+    {
+      "id": 145,
+      "start": 435.32,
+      "end": 439.92,
+      "en": "Alright, so, this is actually a lot of weird, crazy, strange language.",
+      "zh": "好吧，所以，这实际上是很多奇怪的、疯狂的、奇怪的语言。"
+    },
+    {
+      "id": 146,
+      "start": 439.92,
+      "end": 442.52,
+      "en": "Birdie, bogey, caddy, driver.",
+      "zh": "小鸟，柏忌，球童，司机。"
+    },
+    {
+      "id": 147,
+      "start": 442.52,
+      "end": 445.53,
+      "en": "Why don't we listen to the dialogue one more time to help us understand?",
+      "zh": "我们为什么不再听一次对话来帮助我们理解？"
+    },
+    {
+      "id": 148,
+      "start": 451.44,
+      "end": 453.64,
+      "en": "Good morning, golf aficionados.",
+      "zh": "早上好，高尔夫球迷。"
+    },
+    {
+      "id": 149,
+      "start": 454.3,
+      "end": 460.6,
+      "en": "My name is Rick Fields and you guessed it, I'm here with my main man, Bob Copeland.",
+      "zh": "我是瑞克·菲尔兹，想必大家猜到了，今天和我一起解说的是老搭档鲍勃·科普兰。"
+    },
+    {
+      "id": 150,
+      "start": 460.86,
+      "end": 461.96,
+      "en": "Thank you, Rick.",
+      "zh": "谢谢你，Rick。"
+    },
+    {
+      "id": 151,
+      "start": 462.56,
+      "end": 474.44,
+      "en": "As you can see, ladies and gentlemen, we are here in beautiful Pebble Beach where the top golfers in the world are vying to win the grand prize of $1 million.",
+      "zh": "女士们先生们，我们来到风景优美的圆石滩，世界顶尖球手将在这里争夺一百万美元大奖。"
+    },
+    {
+      "id": 152,
+      "start": 475.82,
+      "end": 477.58,
+      "en": "Whoa, that's a lot of cash.",
+      "zh": "哇，这真是一大笔钱。"
+    },
+    {
+      "id": 153,
+      "start": 478.26,
+      "end": 482.12,
+      "en": "Let's go to the course and see how Tiger Woods is doing.",
+      "zh": "现在转到球场，看看泰格·伍兹表现如何。"
+    },
+    {
+      "id": 154,
+      "start": 482.64,
+      "end": 484.28,
+      "en": "Alright, we're here at the eighth hole.",
+      "zh": "好吧，我们在第八洞。"
+    },
+    {
+      "id": 155,
+      "start": 484.8,
+      "end": 489.86,
+      "en": "It's a par four and has some very difficult hazards which many golfers find difficult to avoid.",
+      "zh": "这是一个四杆洞，有一些非常困难的危险，许多高尔夫球手很难避免。"
+    },
+    {
+      "id": 156,
+      "start": 490.68,
+      "end": 494.34,
+      "en": "Although, I did see Jack Nicklaus hit a hole in one on this very same hole.",
+      "zh": "虽然，我确实看到杰克尼克劳斯在同一个洞上打了一个洞。"
+    },
+    {
+      "id": 157,
+      "start": 495.3,
+      "end": 500.44,
+      "en": "Tiger Woods is about to tee off and let's see if he has the same luck as Jack.",
+      "zh": "泰格·伍兹正准备开球，看看他能否像杰克一样走运。"
+    },
+    {
+      "id": 158,
+      "start": 501.31,
+      "end": 506.83,
+      "en": "Tiger is asking his caddy for his driver and he seems to be very nervous.",
+      "zh": "泰格向球童要来一号木杆，看起来有些紧张。"
+    },
+    {
+      "id": 159,
+      "start": 507.31,
+      "end": 509.85,
+      "en": "Oh no, not a good swing at all.",
+      "zh": "哦，不，一点也不好的挥杆。"
+    },
+    {
+      "id": 160,
+      "start": 510.6,
+      "end": 512.25,
+      "en": "It is definitely not his day today.",
+      "zh": "这绝对不是他今天的日子。"
+    },
+    {
+      "id": 161,
+      "start": 512.81,
+      "end": 517.27,
+      "en": "On the seventh hole, he got a bogey and before that, he barely made par.",
+      "zh": "在第七洞，他得到了一个柏忌，在那之前，他几乎没有达到标准。"
+    },
+    {
+      "id": 162,
+      "start": 517.87,
+      "end": 520.13,
+      "en": "He'll definitely not get a birdie on this shot.",
+      "zh": "他绝对不会在这个镜头上得到一只小鸟。"
+    },
+    {
+      "id": 163,
+      "start": 520.58,
+      "end": 524.66,
+      "en": "It seems that his ball has flown somewhere deep in the trees.",
+      "zh": "似乎他的球已经飞到了树林深处的某个地方。"
+    },
+    {
+      "id": 164,
+      "start": 525.34,
+      "end": 531.64,
+      "en": "He is having a hard time finding it and even his caddy has climbed a tree to try and spot it.",
+      "zh": "他很难找到它，甚至他的球童也爬上了一棵树试图发现它。"
+    },
+    {
+      "id": 165,
+      "start": 531.96,
+      "end": 533.28,
+      "en": "Oh no, a bear.",
+      "zh": "哦不，一只熊。"
+    },
+    {
+      "id": 166,
+      "start": 534.2,
+      "end": 535.92,
+      "en": "Run Tiger, run.",
+      "zh": "跑老虎，跑。"
+    },
+    {
+      "id": 167,
+      "start": 535.92,
+      "end": 541.44,
+      "en": "Body call animal control.",
+      "zh": "身体呼叫动物控制。"
+    },
+    {
+      "id": 168,
+      "start": 541.44,
+      "end": 551.61,
+      "en": "Alright great, so I think it's clear now what type of rules they have in golf and how it works so why don't we take a look now at some of the phrases that we heard in the dialogue in Fluency Builder.",
+      "zh": "好吧，所以我认为现在很清楚他们在高尔夫中有什么类型的规则以及它是如何工作的，所以我们为什么不现在看看我们在 Fluency Builder 的对话中听到的一些短语。"
+    },
+    {
+      "id": 169,
+      "start": 553.72,
+      "end": 553.98,
+      "en": "Fluency Builder.",
+      "zh": "流利表达。"
+    },
+    {
+      "id": 170,
+      "start": 554.92,
+      "end": 560.6,
+      "en": "Okay, well one of the phrases I want to talk about is something that Bob Copeland said.",
+      "zh": "好吧，我想谈的短语之一是鲍勃·科普兰所说的。"
+    },
+    {
+      "id": 171,
+      "start": 560.84,
+      "end": 565.78,
+      "en": "He said, as you can see ladies and gentlemen, we're here at beautiful Pebble Beach.",
+      "zh": "他说，正如你所看到的，女士们，先生们，我们在美丽的圆石滩。"
+    },
+    {
+      "id": 172,
+      "start": 566.16,
+      "end": 567.76,
+      "en": "Okay, as you can see.",
+      "zh": "好吧，如你所见。"
+    },
+    {
+      "id": 173,
+      "start": 567.94,
+      "end": 568.86,
+      "en": "As you can see.",
+      "zh": "如您所见。"
+    },
+    {
+      "id": 174,
+      "start": 569.3,
+      "end": 571.66,
+      "en": "So this usually goes in the beginning of a sentence.",
+      "zh": "所以这通常在句子的开头。"
+    },
+    {
+      "id": 175,
+      "start": 572.02,
+      "end": 574.14,
+      "en": "Yeah, it's a way to say I know you can see this.",
+      "zh": "是的，这是一种说我知道你可以看到的方式。"
+    },
+    {
+      "id": 176,
+      "start": 574.32,
+      "end": 575.68,
+      "en": "I'm telling you something you know.",
+      "zh": "我告诉你一些你知道的事情。"
+    },
+    {
+      "id": 177,
+      "start": 576.14,
+      "end": 582.77,
+      "en": "Okay, so maybe I'm showing you my house and I can say, as you can see, our living room is very spacious.",
+      "zh": "好吧，也许我正在给你看我的房子，我可以说，正如你所看到的，我们的客厅很宽敞。"
+    },
+    {
+      "id": 178,
+      "start": 583.15,
+      "end": 586.07,
+      "en": "Yes, so this is actually a really helpful phrase.",
+      "zh": "是的，所以这实际上是一个非常有用的短语。"
+    },
+    {
+      "id": 179,
+      "start": 586.32,
+      "end": 593.2,
+      "en": "It can help you sound really native-like so why don't we hear some examples of how it's used.",
+      "zh": "它可以帮助您听起来像本土一样，所以为什么我们不听听一些如何使用它的示例。"
+    },
+    {
+      "id": 180,
+      "start": 593.2,
+      "end": 595.72,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 181,
+      "start": 595.72,
+      "end": 598.73,
+      "en": "As you can see, we recently remodeled our entire kitchen.",
+      "zh": "如您所见，我们最近对整个厨房进行了改造。"
+    },
+    {
+      "id": 182,
+      "start": 601.32,
+      "end": 601.54,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 183,
+      "start": 603.88,
+      "end": 607.17,
+      "en": "As you can see here, the damage to the building is very serious.",
+      "zh": "正如您在这里看到的，对建筑物的破坏非常严重。"
+    },
+    {
+      "id": 184,
+      "start": 609.96,
+      "end": 610.3,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 185,
+      "start": 612.98,
+      "end": 615.93,
+      "en": "As you can see, the hair stylist made a mistake when cutting my hair.",
+      "zh": "如您所见，发型师在剪头发时犯了一个错误。"
+    },
+    {
+      "id": 186,
+      "start": 618.12,
+      "end": 620.22,
+      "en": "Alright great, so as you can see.",
+      "zh": "好吧，正如你所见。"
+    },
+    {
+      "id": 187,
+      "start": 620.8,
+      "end": 628.73,
+      "en": "Now for our second phrase, well Tiger Woods wasn't doing very well and the announcer said it's not his day.",
+      "zh": "现在我们的第二句话，老虎伍兹做得不太好，播音员说这不是他的日子。"
+    },
+    {
+      "id": 188,
+      "start": 629.1,
+      "end": 629.93,
+      "en": "It's not his day.",
+      "zh": "这不是他的日子。"
+    },
+    {
+      "id": 189,
+      "start": 630.58,
+      "end": 631.47,
+      "en": "It's not his day today.",
+      "zh": "今天不是他的日子。"
+    },
+    {
+      "id": 190,
+      "start": 631.84,
+      "end": 638.44,
+      "en": "Alright, so when it's not your day, you're having a bad time or a bad day.",
+      "zh": "好吧，所以当这不是你的一天时，你的时间很糟糕或一天很糟糕。"
+    },
+    {
+      "id": 191,
+      "start": 638.44,
+      "end": 642.69,
+      "en": "Right, maybe you're having difficulties or you're having bad luck that day.",
+      "zh": "对，也许你有困难，或者你那天运气不好。"
+    },
+    {
+      "id": 192,
+      "start": 642.98,
+      "end": 655.22,
+      "en": "Yeah, so for example, today I had a headache and I ripped my pants and I spilled coffee on myself so it really wasn't my day.",
+      "zh": "是的，例如，今天我头疼，我撕了裤子，把咖啡洒在自己身上，所以这真的不是我的一天。"
+    },
+    {
+      "id": 193,
+      "start": 655.6,
+      "end": 657.2,
+      "en": "Okay, it's not your day today.",
+      "zh": "好吧，今天不是你的一天。"
+    },
+    {
+      "id": 194,
+      "start": 657.48,
+      "end": 657.64,
+      "en": "No.",
+      "zh": "不。"
+    },
+    {
+      "id": 195,
+      "start": 658.02,
+      "end": 662.06,
+      "en": "Great phrase and also very common and makes you sound very native.",
+      "zh": "很棒的短语，也很常见，让你听起来很本地化。"
+    },
+    {
+      "id": 196,
+      "start": 662.3,
+      "end": 662.6,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 197,
+      "start": 663.24,
+      "end": 671.48,
+      "en": "Now the last phrase, similar to it's not your day, we also heard that Tiger was having a hard time.",
+      "zh": "现在最后一句，类似于不是你的一天，我们还听说老虎过得很艰难。"
+    },
+    {
+      "id": 198,
+      "start": 671.94,
+      "end": 673.46,
+      "en": "Okay, to have a hard time.",
+      "zh": "好吧，很难过。"
+    },
+    {
+      "id": 199,
+      "start": 673.62,
+      "end": 674.42,
+      "en": "To have a hard time.",
+      "zh": "很难过。"
+    },
+    {
+      "id": 200,
+      "start": 675.12,
+      "end": 678.06,
+      "en": "Now if you have a hard time with something.",
+      "zh": "现在，如果你有困难的时候。"
+    },
+    {
+      "id": 201,
+      "start": 678.06,
+      "end": 679.34,
+      "en": "You have difficulty with it.",
+      "zh": "你有困难。"
+    },
+    {
+      "id": 202,
+      "start": 679.58,
+      "end": 682.94,
+      "en": "Okay, now it's not only related to golf, right?",
+      "zh": "好吧，现在它不仅与高尔夫有关，对吧？"
+    },
+    {
+      "id": 203,
+      "start": 683.32,
+      "end": 685.36,
+      "en": "Of course, you can talk about anything like this.",
+      "zh": "当然，你可以谈论这样的事情。"
+    },
+    {
+      "id": 204,
+      "start": 685.68,
+      "end": 690.72,
+      "en": "So I'm having a hard time understanding what this word means.",
+      "zh": "所以我很难理解这个词的意思。"
+    },
+    {
+      "id": 205,
+      "start": 690.72,
+      "end": 694.6,
+      "en": "Okay, or when I was in school, I had a hard time with math.",
+      "zh": "好吧，或者当我在学校的时候，我在数学上遇到了困难。"
+    },
+    {
+      "id": 206,
+      "start": 695.04,
+      "end": 695.7,
+      "en": "Alright, me too.",
+      "zh": "好吧，我也是。"
+    },
+    {
+      "id": 207,
+      "start": 696.28,
+      "end": 699.88,
+      "en": "So to have a hard time means that you have difficulties with something.",
+      "zh": "所以很难过，意味着你在某事上遇到困难。"
+    },
+    {
+      "id": 208,
+      "start": 700.68,
+      "end": 702.4,
+      "en": "So great phrases, great words.",
+      "zh": "这么棒的短语，很棒的单词。"
+    },
+    {
+      "id": 209,
+      "start": 703.4,
+      "end": 708.74,
+      "en": "Let's listen to this dialogue for the last time and then we'll come back and talk a little bit more about golf.",
+      "zh": "让我们最后一次听听这个对话，然后我们会回来多谈谈高尔夫。"
+    },
+    {
+      "id": 210,
+      "start": 716.64,
+      "end": 717.56,
+      "en": "Good morning, Golf Aficionados.",
+      "zh": "早上好，高尔夫球迷。"
+    },
+    {
+      "id": 211,
+      "start": 717.88,
+      "end": 719.12,
+      "en": "My name is Rick Fields and you guessed it.",
+      "zh": "我的名字是 Rick Fields，你猜对了。"
+    },
+    {
+      "id": 212,
+      "start": 719.22,
+      "end": 721.14,
+      "en": "I'm here with my main man, Bob Copeland.",
+      "zh": "我和我的主要人物鲍勃·科普兰在这里。"
+    },
+    {
+      "id": 213,
+      "start": 721.7,
+      "end": 722.22,
+      "en": "Thank you, Rick.",
+      "zh": "谢谢你，Rick。"
+    },
+    {
+      "id": 214,
+      "start": 722.92,
+      "end": 730.42,
+      "en": "As you can see, ladies and gentlemen, we are here in beautiful Pebble Beach where the top golfers in the world are vying to win the grand prize of $1 million.",
+      "zh": "女士们先生们，我们来到风景优美的圆石滩，世界顶尖球手将在这里争夺一百万美元大奖。"
+    },
+    {
+      "id": 215,
+      "start": 731.92,
+      "end": 733.16,
+      "en": "Whoa, that's a lot of cash.",
+      "zh": "哇，这真是一大笔钱。"
+    },
+    {
+      "id": 216,
+      "start": 733.82,
+      "end": 736.02,
+      "en": "Let's go to the course and see how Tiger Woods is doing.",
+      "zh": "现在转到球场，看看泰格·伍兹表现如何。"
+    },
+    {
+      "id": 217,
+      "start": 742.12,
+      "end": 743.7,
+      "en": "All right, we're here at the eighth hole.",
+      "zh": "好吧，我们在第八洞。"
+    },
+    {
+      "id": 218,
+      "start": 744.12,
+      "end": 750.3,
+      "en": "It's par four and has some very difficult hazards which many golfers find difficult to avoid.",
+      "zh": "它是四杆洞，并且有一些非常困难的危险，许多高尔夫球手很难避免。"
+    },
+    {
+      "id": 219,
+      "start": 751.12,
+      "end": 754.26,
+      "en": "Although, I did see Jack Niclaus hit a hole at one on this very same hole.",
+      "zh": "虽然，我确实看到杰克尼克劳斯在这个同一个洞上打了一个洞。"
+    },
+    {
+      "id": 220,
+      "start": 757.16,
+      "end": 760.86,
+      "en": "Tiger Woods is about to tee off and let's see if he has the same luck as Jack.",
+      "zh": "泰格·伍兹正准备开球，看看他能否像杰克一样走运。"
+    },
+    {
+      "id": 221,
+      "start": 761.52,
+      "end": 764.64,
+      "en": "Tiger is asking his caddy for his driver and he seems to be very nervous.",
+      "zh": "泰格向球童要来一号木杆，看起来有些紧张。"
+    },
+    {
+      "id": 222,
+      "start": 768.33,
+      "end": 770.81,
+      "en": "Oh no, not a good swing at all.",
+      "zh": "哦，不，一点也不好的挥杆。"
+    },
+    {
+      "id": 223,
+      "start": 771.51,
+      "end": 772.63,
+      "en": "It's definitely not his day today.",
+      "zh": "今天显然不是他的好日子。"
+    },
+    {
+      "id": 224,
+      "start": 773.17,
+      "end": 776.29,
+      "en": "On the seventh hole, he got a bogey and before that he barely made par.",
+      "zh": "在第七洞，他得到了一个柏忌，在此之前他几乎没有达到标准。"
+    },
+    {
+      "id": 225,
+      "start": 776.65,
+      "end": 778.51,
+      "en": "He will definitely not get a birdie on this shot.",
+      "zh": "他绝对不会在这个镜头上得到小鸟。"
+    },
+    {
+      "id": 226,
+      "start": 779.93,
+      "end": 782.65,
+      "en": "It seems that his ball has flown somewhere deep into the trees.",
+      "zh": "球似乎飞进了树林深处。"
+    },
+    {
+      "id": 227,
+      "start": 783.35,
+      "end": 787.03,
+      "en": "He's having a hard time finding it and even his caddy has climbed a tree to try and spot it.",
+      "zh": "他找了半天，连球童都爬上树找球了。"
+    },
+    {
+      "id": 228,
+      "start": 788.04,
+      "end": 789.04,
+      "en": "Oh no, a bear.",
+      "zh": "哦不，一只熊。"
+    },
+    {
+      "id": 229,
+      "start": 789.04,
+      "end": 790.04,
+      "en": "Run, Tiger, run.",
+      "zh": "跑，老虎，跑。"
+    },
+    {
+      "id": 230,
+      "start": 790.04,
+      "end": 791.04,
+      "en": "Somebody call animal control.",
+      "zh": "快叫野生动物管理部门！"
+    },
+    {
+      "id": 231,
+      "start": 798.31,
+      "end": 806.33,
+      "en": "All right, so Marco, I know that in the Western business world, golf is actually super important for your career, isn't it?",
+      "zh": "好吧，马可，我知道在西方商业世界，高尔夫对你的职业生涯来说实际上是非常重要的，不是吗？"
+    },
+    {
+      "id": 232,
+      "start": 806.92,
+      "end": 813.71,
+      "en": "Well, many times when you see in movies or the stereotype is that business is done on a golf course.",
+      "zh": "好吧，很多时候，当你在电影中看到或刻板印象时，很多时候都是在高尔夫球场上做生意。"
+    },
+    {
+      "id": 233,
+      "start": 814.16,
+      "end": 815.16,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 234,
+      "start": 815.16,
+      "end": 815.51,
+      "en": "And yeah, it is true.",
+      "zh": "是的，这是真的。"
+    },
+    {
+      "id": 235,
+      "start": 816.16,
+      "end": 824.61,
+      "en": "Many times, you know people will invite you out to a golf course and you'll be playing a game and talking business and relaxing at the same time.",
+      "zh": "很多时候，你知道人们会邀请你去一个高尔夫球场，你会玩游戏、谈论生意和放松。"
+    },
+    {
+      "id": 236,
+      "start": 824.84,
+      "end": 828.21,
+      "en": "So maybe you negotiate a deal out on the golf course.",
+      "zh": "所以也许你在高尔夫球场谈判达成协议。"
+    },
+    {
+      "id": 237,
+      "start": 828.61,
+      "end": 828.85,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 238,
+      "start": 829.31,
+      "end": 833.57,
+      "en": "And of course, if you lose, it's a good thing because then the deal will pull through.",
+      "zh": "当然，如果你输了，这是一件好事，因为那样交易就会成功。"
+    },
+    {
+      "id": 239,
+      "start": 834.21,
+      "end": 834.39,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 240,
+      "start": 834.95,
+      "end": 846.99,
+      "en": "Well, actually, I know that it is so important for people who are wanting to do well in business and many people who don't speak English as their first language take golf English lessons.",
+      "zh": "好吧，实际上，我知道对于那些想要在商业上取得好成绩的人来说，这非常重要，而且许多不以英语为第一语言的人上高尔夫英语课。"
+    },
+    {
+      "id": 241,
+      "start": 847.47,
+      "end": 847.73,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 242,
+      "start": 847.81,
+      "end": 852.23,
+      "en": "So not only golf lessons, like how to play golf, but also in English.",
+      "zh": "所以不仅仅是高尔夫课，比如打高尔夫球，还有英语。"
+    },
+    {
+      "id": 243,
+      "start": 852.56,
+      "end": 859.84,
+      "en": "Like how to talk about golf, how to talk to other people and make deals while you're on the golf course.",
+      "zh": "比如如何谈论高尔夫、如何在高尔夫球场上与他人交谈并进行交易。"
+    },
+    {
+      "id": 244,
+      "start": 859.84,
+      "end": 860.84,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 245,
+      "start": 860.84,
+      "end": 865.29,
+      "en": "Because like in many other sports, golf has also its slang and its terms and stuff.",
+      "zh": "因为像许多其他运动一样，高尔夫也有它的俚语和术语和东西。"
+    },
+    {
+      "id": 246,
+      "start": 865.8,
+      "end": 869.36,
+      "en": "So yeah, it's very interesting and it's one of those cultural things.",
+      "zh": "所以，是的，这很有趣，而且是这些文化事物之一。"
+    },
+    {
+      "id": 247,
+      "start": 869.66,
+      "end": 869.94,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 248,
+      "start": 870.8,
+      "end": 876.56,
+      "en": "So if you have any questions or comments about today's lesson, why don't you visit our website at EnglishPod.com.",
+      "zh": "因此，如果您对今天的课程有任何疑问或意见，为什么不访问我们的网站 englishpod.com。"
+    },
+    {
+      "id": 249,
+      "start": 877.32,
+      "end": 877.64,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 250,
+      "start": 877.86,
+      "end": 880.68,
+      "en": "We're always there to answer any questions or doubts you might have.",
+      "zh": "我们随时为您解答任何问题或疑问。"
+    },
+    {
+      "id": 251,
+      "start": 881.06,
+      "end": 882.68,
+      "en": "And until next time, we'll see you there.",
+      "zh": "直到下一次，我们会在那里见到你。"
+    },
+    {
+      "id": 252,
+      "start": 883.08,
+      "end": 884.08,
+      "en": "Goodbye.",
+      "zh": "再见。"
+    },
+    {
+      "id": 253,
+      "start": 884.08,
+      "end": 892.291,
+      "en": "Bye.",
+      "zh": "再见。"
+    }
+  ],
+  "dialog": {
+    "start": 125.92,
+    "end": 203.04,
+    "segmentIds": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57
+    ]
+  }
+}

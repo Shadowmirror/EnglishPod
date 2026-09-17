@@ -1,0 +1,1988 @@
+{
+  "version": 1,
+  "id": 53,
+  "number": "0053",
+  "title": "The Weekend - Head Chef",
+  "audio": "mp3/53. The Weekend - Head Chef.mp3",
+  "duration": 722.6514375,
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.58,
+      "end": 2.74,
+      "en": "Hello, English learners.",
+      "zh": "各位英语学习者，大家好。"
+    },
+    {
+      "id": 2,
+      "start": 3.2,
+      "end": 4.4,
+      "en": "Welcome to EnglishPod.",
+      "zh": "欢迎来到 EnglishPod。"
+    },
+    {
+      "id": 3,
+      "start": 4.4,
+      "end": 4.9,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 4,
+      "start": 5.32,
+      "end": 6.02,
+      "en": "And I'm Erica.",
+      "zh": "我叫 Erica。"
+    },
+    {
+      "id": 5,
+      "start": 6.48,
+      "end": 10.42,
+      "en": "And today, we're back bringing you another great lesson, an intermediate lesson.",
+      "zh": "今天，我们回来给你带来另一个重要的课程，一个中级课程。"
+    },
+    {
+      "id": 6,
+      "start": 10.54,
+      "end": 12.96,
+      "en": "That's right, about one of my favorite subjects.",
+      "zh": "没错，关于我最喜欢的科目之一。"
+    },
+    {
+      "id": 7,
+      "start": 13.88,
+      "end": 14.72,
+      "en": "We're talking about food.",
+      "zh": "我们在谈论食物。"
+    },
+    {
+      "id": 8,
+      "start": 15.06,
+      "end": 15.28,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 9,
+      "start": 15.98,
+      "end": 18.96,
+      "en": "So, on this occasion, we're going to be talking about food.",
+      "zh": "所以，在这个场合，我们将谈论食物。"
+    },
+    {
+      "id": 10,
+      "start": 19.34,
+      "end": 22.06,
+      "en": "So let's preview some words on Vocabulary Preview.",
+      "zh": "因此，让我们预览词汇预览中的一些单词。"
+    },
+    {
+      "id": 11,
+      "start": 24.28,
+      "end": 24.58,
+      "en": "Vocabulary Preview.",
+      "zh": "词汇预习。"
+    },
+    {
+      "id": 12,
+      "start": 25.85,
+      "end": 26.15,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 13,
+      "start": 26.28,
+      "end": 28.09,
+      "en": "We have three words for you today.",
+      "zh": "今天我们有三个字给你。"
+    },
+    {
+      "id": 14,
+      "start": 29.32,
+      "end": 31.35,
+      "en": "And the first word is head chef.",
+      "zh": "第一个词是主厨。"
+    },
+    {
+      "id": 15,
+      "start": 32.4,
+      "end": 32.75,
+      "en": "Head chef.",
+      "zh": "主厨。"
+    },
+    {
+      "id": 16,
+      "start": 33.4,
+      "end": 34.4,
+      "en": "Head chef.",
+      "zh": "主厨。"
+    },
+    {
+      "id": 17,
+      "start": 34.4,
+      "end": 36.24,
+      "en": "So, what is a head chef?",
+      "zh": "那么，什么是主厨呢？"
+    },
+    {
+      "id": 18,
+      "start": 36.24,
+      "end": 42.35,
+      "en": "Well, in a professional kitchen, this is the boss of the kitchen or the leader of the kitchen.",
+      "zh": "好吧，在专业的厨房里，这是厨房的老板或厨房的领导者。"
+    },
+    {
+      "id": 19,
+      "start": 42.51,
+      "end": 42.75,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 20,
+      "start": 42.75,
+      "end": 45.61,
+      "en": "So the head chef is the main cook.",
+      "zh": "所以主厨是主厨。"
+    },
+    {
+      "id": 21,
+      "start": 45.99,
+      "end": 47.39,
+      "en": "Yes, but he doesn't cook.",
+      "zh": "是的，但他不做饭。"
+    },
+    {
+      "id": 22,
+      "start": 47.79,
+      "end": 48.83,
+      "en": "But he doesn't cook.",
+      "zh": "但他不做饭。"
+    },
+    {
+      "id": 23,
+      "start": 49.13,
+      "end": 49.41,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 24,
+      "start": 50.28,
+      "end": 51.28,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 25,
+      "start": 51.28,
+      "end": 53.8,
+      "en": "So if he doesn't cook, who's the one that does the cooking?",
+      "zh": "所以如果他不做饭，谁是做饭的人呢？"
+    },
+    {
+      "id": 26,
+      "start": 53.8,
+      "end": 56.05,
+      "en": "That brings us to our second word, sous chef.",
+      "zh": "这让我们想到了我们的第二个词，Sous Chef。"
+    },
+    {
+      "id": 27,
+      "start": 56.92,
+      "end": 57.37,
+      "en": "Sous chef.",
+      "zh": "副主厨。"
+    },
+    {
+      "id": 28,
+      "start": 57.92,
+      "end": 58.31,
+      "en": "Sous chef.",
+      "zh": "副主厨。"
+    },
+    {
+      "id": 29,
+      "start": 58.92,
+      "end": 59.92,
+      "en": "Sous chef.",
+      "zh": "副主厨。"
+    },
+    {
+      "id": 30,
+      "start": 59.92,
+      "end": 60.92,
+      "en": "S-O-U-S.",
+      "zh": "拼写是 S-O-U-S。"
+    },
+    {
+      "id": 31,
+      "start": 60.92,
+      "end": 63.94,
+      "en": "So the S is silent because it's like a French word.",
+      "zh": "所以 S 是沉默的，因为它就像一个法语单词。"
+    },
+    {
+      "id": 32,
+      "start": 64.28,
+      "end": 65.06,
+      "en": "Yeah, something like that.",
+      "zh": "是的，类似的东西。"
+    },
+    {
+      "id": 33,
+      "start": 65.24,
+      "end": 65.42,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 34,
+      "start": 66.52,
+      "end": 69.48,
+      "en": "So the sous chef is the second in line to the head chef.",
+      "zh": "所以副主厨是主厨的第二位。"
+    },
+    {
+      "id": 35,
+      "start": 69.48,
+      "end": 70.22,
+      "en": "Yeah, he's the number two.",
+      "zh": "是的，他是二号人物。"
+    },
+    {
+      "id": 36,
+      "start": 70.68,
+      "end": 71.68,
+      "en": "Number two.",
+      "zh": "第二。"
+    },
+    {
+      "id": 37,
+      "start": 71.68,
+      "end": 74.44,
+      "en": "So he's basically the one that's doing some of the work in the kitchen.",
+      "zh": "所以他基本上是在厨房里做一些工作的人。"
+    },
+    {
+      "id": 38,
+      "start": 74.92,
+      "end": 75.92,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 39,
+      "start": 75.92,
+      "end": 77.86,
+      "en": "Now let's take a look at our last word, cuisine.",
+      "zh": "现在让我们来看看我们的最后一个词，美食。"
+    },
+    {
+      "id": 40,
+      "start": 78.6,
+      "end": 78.88,
+      "en": "Cuisine.",
+      "zh": "菜系。"
+    },
+    {
+      "id": 41,
+      "start": 79.6,
+      "end": 80.04,
+      "en": "Cuisine.",
+      "zh": "菜系。"
+    },
+    {
+      "id": 42,
+      "start": 80.42,
+      "end": 80.76,
+      "en": "Cuisine.",
+      "zh": "菜系。"
+    },
+    {
+      "id": 43,
+      "start": 81.1,
+      "end": 82.4,
+      "en": "So this is an interesting word.",
+      "zh": "所以这是一个有趣的词。"
+    },
+    {
+      "id": 44,
+      "start": 82.72,
+      "end": 83.96,
+      "en": "What exactly does it mean?",
+      "zh": "具体是什么意思？"
+    },
+    {
+      "id": 45,
+      "start": 83.98,
+      "end": 86.42,
+      "en": "Well, it basically means cooking, right?",
+      "zh": "好吧，它基本上意味着烹饪，对吧？"
+    },
+    {
+      "id": 46,
+      "start": 86.7,
+      "end": 86.96,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 47,
+      "start": 87.76,
+      "end": 89.4,
+      "en": "It's the art of cooking.",
+      "zh": "这是烹饪的艺术。"
+    },
+    {
+      "id": 48,
+      "start": 89.4,
+      "end": 91.12,
+      "en": "So for example, I can say French food.",
+      "zh": "例如，我可以说法国菜。"
+    },
+    {
+      "id": 49,
+      "start": 91.52,
+      "end": 92.52,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 50,
+      "start": 92.52,
+      "end": 92.96,
+      "en": "Or French cuisine.",
+      "zh": "或法国美食。"
+    },
+    {
+      "id": 51,
+      "start": 93.54,
+      "end": 95.68,
+      "en": "French cuisine, which includes all the food.",
+      "zh": "法国美食，包括所有食物。"
+    },
+    {
+      "id": 52,
+      "start": 96.4,
+      "end": 97.4,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 53,
+      "start": 97.4,
+      "end": 100.5,
+      "en": "And this is also the major that people study in college to become a chef.",
+      "zh": "这也是人们在大学学习成为厨师的专业。"
+    },
+    {
+      "id": 54,
+      "start": 100.8,
+      "end": 101.8,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 55,
+      "start": 101.8,
+      "end": 102.8,
+      "en": "You study cuisine.",
+      "zh": "你学习美食。"
+    },
+    {
+      "id": 56,
+      "start": 102.8,
+      "end": 103.6,
+      "en": "And cuisine is a noun, right?",
+      "zh": "美食是一个名词，对吧？"
+    },
+    {
+      "id": 57,
+      "start": 103.88,
+      "end": 104.26,
+      "en": "It's a noun.",
+      "zh": "这是个名词。"
+    },
+    {
+      "id": 58,
+      "start": 104.8,
+      "end": 105.8,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 59,
+      "start": 105.8,
+      "end": 107.28,
+      "en": "So I think we're ready to dive into our dialogue.",
+      "zh": "所以我认为我们已经准备好深入我们的对话了。"
+    },
+    {
+      "id": 60,
+      "start": 107.28,
+      "end": 108.22,
+      "en": "What exactly is going on?",
+      "zh": "究竟发生了什么？"
+    },
+    {
+      "id": 61,
+      "start": 108.68,
+      "end": 112.94,
+      "en": "Well, we're in a restaurant and it's a really busy night.",
+      "zh": "好吧，我们在一家餐馆，这是一个非常忙碌的夜晚。"
+    },
+    {
+      "id": 62,
+      "start": 113.7,
+      "end": 116.22,
+      "en": "And so we're going to listen to what is happening in the kitchen.",
+      "zh": "所以我们要听听厨房里发生的事情。"
+    },
+    {
+      "id": 63,
+      "start": 124.96,
+      "end": 125.82,
+      "en": "Right away, sir.",
+      "zh": "马上，先生。"
+    },
+    {
+      "id": 64,
+      "start": 126.24,
+      "end": 127.24,
+      "en": "Your order will be ready shortly.",
+      "zh": "您的餐点很快就好。"
+    },
+    {
+      "id": 65,
+      "start": 127.84,
+      "end": 131.16,
+      "en": "Jean-Pierre, we have another special for table seven.",
+      "zh": "让-皮埃尔，七号桌又点了一份特色菜。"
+    },
+    {
+      "id": 66,
+      "start": 131.19,
+      "end": 132.41,
+      "en": "I'm working as fast as I can.",
+      "zh": "我正在尽可能快地工作。"
+    },
+    {
+      "id": 67,
+      "start": 132.92,
+      "end": 133.92,
+      "en": "We are really in the weeds.",
+      "zh": "我们忙得不可开交。"
+    },
+    {
+      "id": 68,
+      "start": 134.31,
+      "end": 135.27,
+      "en": "Where is my sous chef?",
+      "zh": "我的副厨师长去哪儿了？"
+    },
+    {
+      "id": 69,
+      "start": 135.8,
+      "end": 138.48,
+      "en": "Luc, I need you to peel more potatoes.",
+      "zh": "卢克，再削点土豆。"
+    },
+    {
+      "id": 70,
+      "start": 138.48,
+      "end": 140.85,
+      "en": "Marie, chop some onions and carrots for the stew.",
+      "zh": "玛丽，切些洋葱和胡萝卜，炖菜要用。"
+    },
+    {
+      "id": 71,
+      "start": 141.36,
+      "end": 147.4,
+      "en": "Jean-Pierre, another special.",
+      "zh": "让-皮埃尔，再来一份特色菜。"
+    },
+    {
+      "id": 72,
+      "start": 147.4,
+      "end": 148.96,
+      "en": "We're really packed tonight.",
+      "zh": "今晚我们这里真是客满了。"
+    },
+    {
+      "id": 73,
+      "start": 148.96,
+      "end": 149.82,
+      "en": "We're running low on wine.",
+      "zh": "葡萄酒快不够了。"
+    },
+    {
+      "id": 74,
+      "start": 150.36,
+      "end": 151.32,
+      "en": "Is there any left in the cellar?",
+      "zh": "地窖里还有吗？"
+    },
+    {
+      "id": 75,
+      "start": 152.42,
+      "end": 153.4,
+      "en": "Sorry I'm late, everyone.",
+      "zh": "对不起，我来晚了，大家。"
+    },
+    {
+      "id": 76,
+      "start": 154.08,
+      "end": 155.52,
+      "en": "Wow, we're really doing well tonight.",
+      "zh": "哇，今晚生意真好。"
+    },
+    {
+      "id": 77,
+      "start": 156.12,
+      "end": 158.8,
+      "en": "Harry, stop talking and get over here.",
+      "zh": "哈里，别说了，快过来。"
+    },
+    {
+      "id": 78,
+      "start": 158.8,
+      "end": 161.9,
+      "en": "I need some sautéed and the fish needs to be butchered and buttered.",
+      "zh": "我需要人帮忙炒菜，鱼也得处理好、抹上黄油。"
+    },
+    {
+      "id": 79,
+      "start": 162.42,
+      "end": 163.14,
+      "en": "Okay, I'm on it.",
+      "zh": "好，我马上处理。"
+    },
+    {
+      "id": 80,
+      "start": 163.8,
+      "end": 166.88,
+      "en": "Jean-Pierre, table seven has requested to see the chef.",
+      "zh": "让-皮埃尔，七号桌的客人想见主厨。"
+    },
+    {
+      "id": 81,
+      "start": 166.98,
+      "end": 168.84,
+      "en": "I think there are food critics from Cuisine Magazine.",
+      "zh": "我想他们是《Cuisine》杂志的美食评论家。"
+    },
+    {
+      "id": 82,
+      "start": 173.2,
+      "end": 176.06,
+      "en": "Okay, so a busy night here at this restaurant.",
+      "zh": "好吧，在这家餐厅度过了一个忙碌的夜晚。"
+    },
+    {
+      "id": 83,
+      "start": 176.3,
+      "end": 176.6,
+      "en": "I know.",
+      "zh": "我知道。"
+    },
+    {
+      "id": 84,
+      "start": 177.36,
+      "end": 181.24,
+      "en": "It sounds like there's a lot of pressure on this chef, Jean-Pierre.",
+      "zh": "听起来这位厨师让-皮埃尔承受着很大的压力。"
+    },
+    {
+      "id": 85,
+      "start": 181.24,
+      "end": 184.88,
+      "en": "Yeah, you can tell in his voice that he's really stressed out.",
+      "zh": "是的，你可以从他的声音中看出他真的很紧张。"
+    },
+    {
+      "id": 86,
+      "start": 185.06,
+      "end": 190.38,
+      "en": "Okay, let's take a look at some of this kitchen vocabulary that we found in Language Takeaway.",
+      "zh": "好的，让我们来看看我们在语言外卖中发现的一些厨房词汇。"
+    },
+    {
+      "id": 87,
+      "start": 191.92,
+      "end": 193.18,
+      "en": "Language Takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 88,
+      "start": 194.61,
+      "end": 197.59,
+      "en": "All right, well, we've got five words for you today.",
+      "zh": "好吧，好吧，我们今天有五个字给你。"
+    },
+    {
+      "id": 89,
+      "start": 198.4,
+      "end": 200.11,
+      "en": "And the first one is peel.",
+      "zh": "第一个是皮尔。"
+    },
+    {
+      "id": 90,
+      "start": 201.32,
+      "end": 202.32,
+      "en": "Peel.",
+      "zh": "削皮。"
+    },
+    {
+      "id": 91,
+      "start": 202.32,
+      "end": 203.32,
+      "en": "Peel.",
+      "zh": "削皮。"
+    },
+    {
+      "id": 92,
+      "start": 203.32,
+      "end": 203.69,
+      "en": "Peel.",
+      "zh": "削皮。"
+    },
+    {
+      "id": 93,
+      "start": 204.32,
+      "end": 205.32,
+      "en": "P-E-E-L.",
+      "zh": "拼写是 P-E-E-L。"
+    },
+    {
+      "id": 94,
+      "start": 205.65,
+      "end": 208.92,
+      "en": "So, this is a verb and it means to...",
+      "zh": "所以，这是一个动词，它的意思是..."
+    },
+    {
+      "id": 95,
+      "start": 208.92,
+      "end": 211.44,
+      "en": "Remove the outside skin.",
+      "zh": "去除外部皮肤。"
+    },
+    {
+      "id": 96,
+      "start": 211.65,
+      "end": 214.72,
+      "en": "Okay, so for example, when you're going to eat a banana...",
+      "zh": "好吧，例如，当你要吃香蕉时..."
+    },
+    {
+      "id": 97,
+      "start": 214.73,
+      "end": 215.69,
+      "en": "You must peel it first.",
+      "zh": "你必须先剥它。"
+    },
+    {
+      "id": 98,
+      "start": 215.85,
+      "end": 216.45,
+      "en": "You must peel it.",
+      "zh": "你必须剥它。"
+    },
+    {
+      "id": 99,
+      "start": 216.92,
+      "end": 219.36,
+      "en": "You got to take away the yellow skin.",
+      "zh": "你必须带走黄色的皮肤。"
+    },
+    {
+      "id": 100,
+      "start": 219.36,
+      "end": 219.79,
+      "en": "What else do you peel?",
+      "zh": "你还剥什么？"
+    },
+    {
+      "id": 101,
+      "start": 220.36,
+      "end": 221.36,
+      "en": "Oranges, potatoes...",
+      "zh": "橙子、土豆……"
+    },
+    {
+      "id": 102,
+      "start": 222.11,
+      "end": 223.83,
+      "en": "Potatoes, like in the dialogue.",
+      "zh": "土豆，就像在对话中一样。"
+    },
+    {
+      "id": 103,
+      "start": 224.92,
+      "end": 225.49,
+      "en": "What else can you peel?",
+      "zh": "你还能剥什么？"
+    },
+    {
+      "id": 104,
+      "start": 225.99,
+      "end": 226.29,
+      "en": "I don't know.",
+      "zh": "我不知道。"
+    },
+    {
+      "id": 105,
+      "start": 226.92,
+      "end": 227.92,
+      "en": "Carrots.",
+      "zh": "胡萝卜。"
+    },
+    {
+      "id": 106,
+      "start": 228.0,
+      "end": 228.42,
+      "en": "Carrots.",
+      "zh": "胡萝卜。"
+    },
+    {
+      "id": 107,
+      "start": 228.92,
+      "end": 229.74,
+      "en": "Some people peel their tomatoes.",
+      "zh": "有些人剥了他们的西红柿。"
+    },
+    {
+      "id": 108,
+      "start": 229.94,
+      "end": 230.76,
+      "en": "I don't know why.",
+      "zh": "我不知道为什么。"
+    },
+    {
+      "id": 109,
+      "start": 231.02,
+      "end": 231.86,
+      "en": "Yeah, it is kind of weird.",
+      "zh": "是的，有点奇怪。"
+    },
+    {
+      "id": 110,
+      "start": 231.92,
+      "end": 234.92,
+      "en": "All right, now let's take a look at our next word.",
+      "zh": "好吧，现在让我们来看看我们的下一个词。"
+    },
+    {
+      "id": 111,
+      "start": 234.92,
+      "end": 235.06,
+      "en": "Chop.",
+      "zh": "切碎。"
+    },
+    {
+      "id": 112,
+      "start": 235.92,
+      "end": 236.92,
+      "en": "Chop.",
+      "zh": "切碎。"
+    },
+    {
+      "id": 113,
+      "start": 236.92,
+      "end": 237.92,
+      "en": "Chop.",
+      "zh": "切碎。"
+    },
+    {
+      "id": 114,
+      "start": 237.92,
+      "end": 238.92,
+      "en": "Chop.",
+      "zh": "切碎。"
+    },
+    {
+      "id": 115,
+      "start": 238.92,
+      "end": 240.92,
+      "en": "So, again, another verb and it means to...",
+      "zh": "所以，再一次，另一个动词，它的意思是..."
+    },
+    {
+      "id": 116,
+      "start": 241.44,
+      "end": 243.7,
+      "en": "It means to cut food into pieces.",
+      "zh": "这意味着将食物切成碎片。"
+    },
+    {
+      "id": 117,
+      "start": 243.96,
+      "end": 247.76,
+      "en": "So, if you're going to eat carrots, first you got to chop them.",
+      "zh": "所以，如果你要吃胡萝卜，你必须先把它们切碎。"
+    },
+    {
+      "id": 118,
+      "start": 247.76,
+      "end": 248.76,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 119,
+      "start": 248.76,
+      "end": 249.88,
+      "en": "Right, you can't put a whole carrot in...",
+      "zh": "对了，你不能放一整块胡萝卜……"
+    },
+    {
+      "id": 120,
+      "start": 250.68,
+      "end": 251.1,
+      "en": "In your soup.",
+      "zh": "在你的汤里。"
+    },
+    {
+      "id": 121,
+      "start": 251.24,
+      "end": 251.98,
+      "en": "In your soup or in your rice.",
+      "zh": "在你的汤或米饭里。"
+    },
+    {
+      "id": 122,
+      "start": 252.24,
+      "end": 253.24,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 123,
+      "start": 253.24,
+      "end": 253.6,
+      "en": "Okay, chop.",
+      "zh": "好吧，切碎。"
+    },
+    {
+      "id": 124,
+      "start": 254.24,
+      "end": 256.52,
+      "en": "Okay, our next word, stirred.",
+      "zh": "好吧，我们的下一个词，被激怒了。"
+    },
+    {
+      "id": 125,
+      "start": 257.24,
+      "end": 259.76,
+      "en": "Yeah, this is the past participle of the word stir.",
+      "zh": "是的，这是搅拌这个词的过去分词。"
+    },
+    {
+      "id": 126,
+      "start": 260.14,
+      "end": 262.28,
+      "en": "Okay, so the verb stir.",
+      "zh": "好的，所以动词搅拌。"
+    },
+    {
+      "id": 127,
+      "start": 262.7,
+      "end": 262.9,
+      "en": "Stir.",
+      "zh": "搅拌。"
+    },
+    {
+      "id": 128,
+      "start": 263.85,
+      "end": 266.55,
+      "en": "So, when you stir something...",
+      "zh": "所以，当你搅拌一些东西时..."
+    },
+    {
+      "id": 129,
+      "start": 266.55,
+      "end": 270.57,
+      "en": "Imagine you have a big pot and you've got a long spoon.",
+      "zh": "想象一下你有一个大锅，你有一个长勺子。"
+    },
+    {
+      "id": 130,
+      "start": 271.41,
+      "end": 272.97,
+      "en": "You move the spoon around in circles.",
+      "zh": "你把勺子绕着圈子移动。"
+    },
+    {
+      "id": 131,
+      "start": 273.71,
+      "end": 274.73,
+      "en": "So, you're stirring the pot.",
+      "zh": "所以，你在搅拌锅。"
+    },
+    {
+      "id": 132,
+      "start": 275.05,
+      "end": 275.37,
+      "en": "You're mixing.",
+      "zh": "你在混合。"
+    },
+    {
+      "id": 133,
+      "start": 276.48,
+      "end": 278.01,
+      "en": "To stir is very similar to mix.",
+      "zh": "搅拌与混合非常相似。"
+    },
+    {
+      "id": 134,
+      "start": 278.52,
+      "end": 279.52,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 135,
+      "start": 279.52,
+      "end": 280.52,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 136,
+      "start": 280.52,
+      "end": 281.52,
+      "en": "So, you just move the food around.",
+      "zh": "所以，你只是移动食物。"
+    },
+    {
+      "id": 137,
+      "start": 281.52,
+      "end": 281.97,
+      "en": "Move the food around.",
+      "zh": "移动食物。"
+    },
+    {
+      "id": 138,
+      "start": 282.52,
+      "end": 283.52,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 139,
+      "start": 283.52,
+      "end": 284.52,
+      "en": "Okay, our next word, butchered.",
+      "zh": "好吧，我们的下一个词，被屠杀了。"
+    },
+    {
+      "id": 140,
+      "start": 284.77,
+      "end": 287.59,
+      "en": "Again, the past participle of the verb butcher.",
+      "zh": "再一次，动词butcher的过去分词。"
+    },
+    {
+      "id": 141,
+      "start": 288.09,
+      "end": 288.89,
+      "en": "Okay, butcher.",
+      "zh": "好吧，屠夫。"
+    },
+    {
+      "id": 142,
+      "start": 289.92,
+      "end": 290.92,
+      "en": "Butcher.",
+      "zh": "屠夫。"
+    },
+    {
+      "id": 143,
+      "start": 290.92,
+      "end": 298.84,
+      "en": "Now, this is a verb to butcher something, it's when you remove all the bones and all the organs from the meat.",
+      "zh": "现在，这是一个用来屠杀某物的动词，它是当你从肉中取出所有的骨头和所有器官时。"
+    },
+    {
+      "id": 144,
+      "start": 299.28,
+      "end": 299.44,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 145,
+      "start": 300.28,
+      "end": 300.88,
+      "en": "So, you cut up the meat.",
+      "zh": "所以，你把肉切碎了。"
+    },
+    {
+      "id": 146,
+      "start": 301.4,
+      "end": 303.04,
+      "en": "And this is interesting because it's also a noun.",
+      "zh": "这很有趣，因为它也是一个名词。"
+    },
+    {
+      "id": 147,
+      "start": 303.36,
+      "end": 304.36,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 148,
+      "start": 304.36,
+      "end": 306.32,
+      "en": "A butcher is a person who cuts up meat.",
+      "zh": "屠夫是切肉的人。"
+    },
+    {
+      "id": 149,
+      "start": 306.32,
+      "end": 307.78,
+      "en": "Okay, so it's really easy.",
+      "zh": "好吧，所以真的很简单。"
+    },
+    {
+      "id": 150,
+      "start": 308.18,
+      "end": 309.56,
+      "en": "A butcher butchers meat.",
+      "zh": "屠夫屠夫肉。"
+    },
+    {
+      "id": 151,
+      "start": 310.16,
+      "end": 311.16,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 152,
+      "start": 311.16,
+      "end": 313.8,
+      "en": "All right, our last word, buttered.",
+      "zh": "好吧，我们的最后一句话，涂了黄油。"
+    },
+    {
+      "id": 153,
+      "start": 313.8,
+      "end": 314.8,
+      "en": "Buttered.",
+      "zh": "抹了黄油的。"
+    },
+    {
+      "id": 154,
+      "start": 314.8,
+      "end": 315.3,
+      "en": "Buttered.",
+      "zh": "抹了黄油的。"
+    },
+    {
+      "id": 155,
+      "start": 315.58,
+      "end": 316.08,
+      "en": "Buttered.",
+      "zh": "抹了黄油的。"
+    },
+    {
+      "id": 156,
+      "start": 316.56,
+      "end": 318.38,
+      "en": "Okay, so buttered, this is weird.",
+      "zh": "好吧，涂了黄油，这很奇怪。"
+    },
+    {
+      "id": 157,
+      "start": 319.08,
+      "end": 319.42,
+      "en": "I know.",
+      "zh": "我知道。"
+    },
+    {
+      "id": 158,
+      "start": 319.86,
+      "end": 324.36,
+      "en": "Normally, we all know the noun butter, but here it's acting as a verb.",
+      "zh": "通常，我们都知道名词黄油，但在这里它是一个动词。"
+    },
+    {
+      "id": 159,
+      "start": 324.72,
+      "end": 324.86,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 160,
+      "start": 325.72,
+      "end": 328.8,
+      "en": "So, when you butter something, you spread or put butter on it.",
+      "zh": "所以，当你给某物涂上黄油时，你会在上面涂抹或涂上黄油。"
+    },
+    {
+      "id": 161,
+      "start": 329.44,
+      "end": 330.44,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 162,
+      "start": 330.44,
+      "end": 331.52,
+      "en": "So, to put butter on something.",
+      "zh": "所以，在某物上涂黄油。"
+    },
+    {
+      "id": 163,
+      "start": 331.6,
+      "end": 333.28,
+      "en": "So, you can butter a piece of bread.",
+      "zh": "所以，你可以给一块面包涂上黄油。"
+    },
+    {
+      "id": 164,
+      "start": 333.88,
+      "end": 334.88,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 165,
+      "start": 334.88,
+      "end": 337.8,
+      "en": "Or in this case, the fish is being buttered.",
+      "zh": "或者在这种情况下，鱼正在被涂上黄油。"
+    },
+    {
+      "id": 166,
+      "start": 338.24,
+      "end": 339.96,
+      "en": "Sounds delicious.",
+      "zh": "听起来很好吃。"
+    },
+    {
+      "id": 167,
+      "start": 340.1,
+      "end": 344.1,
+      "en": "Okay, now we're ready to listen to our dialogue for the second time.",
+      "zh": "好的，现在我们准备好第二次听我们的对话了。"
+    },
+    {
+      "id": 168,
+      "start": 344.64,
+      "end": 347.32,
+      "en": "We're going to slow it down a little bit so it's easier to understand.",
+      "zh": "我们会稍微放慢速度，以便更容易理解。"
+    },
+    {
+      "id": 169,
+      "start": 352.68,
+      "end": 353.94,
+      "en": "Right away, sir.",
+      "zh": "马上，先生。"
+    },
+    {
+      "id": 170,
+      "start": 354.4,
+      "end": 356.04,
+      "en": "Your order will be ready shortly.",
+      "zh": "您的餐点很快就好。"
+    },
+    {
+      "id": 171,
+      "start": 356.92,
+      "end": 361.72,
+      "en": "Jean-Pierre, we have another special for table seven.",
+      "zh": "让-皮埃尔，七号桌又点了一份特色菜。"
+    },
+    {
+      "id": 172,
+      "start": 361.72,
+      "end": 363.68,
+      "en": "I'm working as fast as I can.",
+      "zh": "我正在尽可能快地工作。"
+    },
+    {
+      "id": 173,
+      "start": 364.64,
+      "end": 365.98,
+      "en": "We are really in the weeds.",
+      "zh": "我们忙得不可开交。"
+    },
+    {
+      "id": 174,
+      "start": 367.28,
+      "end": 368.28,
+      "en": "Where is my sous-chef?",
+      "zh": "我的副厨师长在哪里？"
+    },
+    {
+      "id": 175,
+      "start": 368.28,
+      "end": 369.28,
+      "en": "Luc?",
+      "zh": "卢克？"
+    },
+    {
+      "id": 176,
+      "start": 370.57,
+      "end": 372.05,
+      "en": "I need you to peel more potatoes.",
+      "zh": "我需要你剥更多的土豆。"
+    },
+    {
+      "id": 177,
+      "start": 373.4,
+      "end": 377.28,
+      "en": "Marie, chop some onions and carrots for the stew.",
+      "zh": "玛丽，切些洋葱和胡萝卜，炖菜要用。"
+    },
+    {
+      "id": 178,
+      "start": 377.28,
+      "end": 378.28,
+      "en": "It's not possible.",
+      "zh": "这是不可能的。"
+    },
+    {
+      "id": 179,
+      "start": 378.28,
+      "end": 379.28,
+      "en": "I'm fed up.",
+      "zh": "我受够了。"
+    },
+    {
+      "id": 180,
+      "start": 379.28,
+      "end": 382.84,
+      "en": "Jean-Pierre, another special.",
+      "zh": "让-皮埃尔，再来一份特色菜。"
+    },
+    {
+      "id": 181,
+      "start": 382.84,
+      "end": 383.87,
+      "en": "We're really packed tonight.",
+      "zh": "今晚我们这里真是客满了。"
+    },
+    {
+      "id": 182,
+      "start": 384.68,
+      "end": 386.28,
+      "en": "We're running low on wine.",
+      "zh": "葡萄酒快不够了。"
+    },
+    {
+      "id": 183,
+      "start": 386.28,
+      "end": 387.29,
+      "en": "Is there any left in the cellar?",
+      "zh": "地窖里还有吗？"
+    },
+    {
+      "id": 184,
+      "start": 388.81,
+      "end": 390.81,
+      "en": "Whoa, sorry I'm late, everyone.",
+      "zh": "哇，对不起，我迟到了，大家。"
+    },
+    {
+      "id": 185,
+      "start": 391.45,
+      "end": 394.19,
+      "en": "Wow, we are really doing well tonight.",
+      "zh": "哇，今晚我们真的做得很好。"
+    },
+    {
+      "id": 186,
+      "start": 394.96,
+      "end": 398.32,
+      "en": "Harry, stop talking and come over here.",
+      "zh": "哈利，别说话了，过来这里。"
+    },
+    {
+      "id": 187,
+      "start": 398.32,
+      "end": 401.95,
+      "en": "I need this sauce stirred and the fish needs to be butchered and buttered.",
+      "zh": "我需要搅拌这种酱汁，鱼需要被屠宰和黄油。"
+    },
+    {
+      "id": 188,
+      "start": 402.92,
+      "end": 404.41,
+      "en": "Okay, I'm on it.",
+      "zh": "好，我马上处理。"
+    },
+    {
+      "id": 189,
+      "start": 405.16,
+      "end": 408.68,
+      "en": "Jean-Pierre, table seven has requested to see the chef.",
+      "zh": "让-皮埃尔，七号桌的客人想见主厨。"
+    },
+    {
+      "id": 190,
+      "start": 408.68,
+      "end": 413.0,
+      "en": "I think they are food critics from Cuisine Magazine.",
+      "zh": "我认为他们是美食杂志的美食评论家。"
+    },
+    {
+      "id": 191,
+      "start": 414.12,
+      "end": 416.44,
+      "en": "Okay, so that seems to be a little bit better.",
+      "zh": "好吧，这似乎好一点。"
+    },
+    {
+      "id": 192,
+      "start": 417.56,
+      "end": 423.34,
+      "en": "And hey, I noticed that there's a lot of really great kitchen words in here, like words that you commonly hear in a professional kitchen.",
+      "zh": "嘿，我注意到这里有很多非常棒的厨房词，就像你在专业厨房里经常听到的词一样。"
+    },
+    {
+      "id": 193,
+      "start": 423.88,
+      "end": 427.54,
+      "en": "Okay, so let's take a look at these kitchen words in Fluency Builder.",
+      "zh": "好的，让我们来看看 Fluency Builder 中的这些厨房词。"
+    },
+    {
+      "id": 194,
+      "start": 429.28,
+      "end": 429.54,
+      "en": "Fluency Builder.",
+      "zh": "流利表达。"
+    },
+    {
+      "id": 195,
+      "start": 430.28,
+      "end": 431.46,
+      "en": "All right, we've got three phrases.",
+      "zh": "好吧，我们有三个短语。"
+    },
+    {
+      "id": 196,
+      "start": 432.24,
+      "end": 434.1,
+      "en": "And the first one is in the weeds.",
+      "zh": "第一个是杂草。"
+    },
+    {
+      "id": 197,
+      "start": 434.88,
+      "end": 435.46,
+      "en": "In the weeds.",
+      "zh": "忙得不可开交。"
+    },
+    {
+      "id": 198,
+      "start": 435.92,
+      "end": 436.36,
+      "en": "In the weeds.",
+      "zh": "忙得不可开交。"
+    },
+    {
+      "id": 199,
+      "start": 437.4,
+      "end": 437.88,
+      "en": "In the weeds.",
+      "zh": "忙得不可开交。"
+    },
+    {
+      "id": 200,
+      "start": 438.4,
+      "end": 443.88,
+      "en": "So when you're in the weeds, you're so, so busy and you can't do all the work you need to do on time.",
+      "zh": "所以当你在杂草中时，你是如此、忙碌，你无法按时完成所有你需要做的工作。"
+    },
+    {
+      "id": 201,
+      "start": 444.47,
+      "end": 447.63,
+      "en": "Okay, so in the weeds, it means that you're really busy.",
+      "zh": "好吧，所以在杂草中，这意味着你真的很忙。"
+    },
+    {
+      "id": 202,
+      "start": 448.24,
+      "end": 449.24,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 203,
+      "start": 449.24,
+      "end": 450.21,
+      "en": "And you can't finish everything.",
+      "zh": "而且你无法完成所有事情。"
+    },
+    {
+      "id": 204,
+      "start": 450.4,
+      "end": 451.71,
+      "en": "And you have too much to do.",
+      "zh": "而且你有太多事情要做。"
+    },
+    {
+      "id": 205,
+      "start": 452.36,
+      "end": 453.36,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 206,
+      "start": 453.36,
+      "end": 453.87,
+      "en": "In the weeds.",
+      "zh": "忙得不可开交。"
+    },
+    {
+      "id": 207,
+      "start": 454.49,
+      "end": 456.85,
+      "en": "Okay, our next word, running low on.",
+      "zh": "好吧，我们的下一个词，用完。"
+    },
+    {
+      "id": 208,
+      "start": 457.25,
+      "end": 458.01,
+      "en": "Running low on.",
+      "zh": "快用完……了。"
+    },
+    {
+      "id": 209,
+      "start": 458.96,
+      "end": 460.36,
+      "en": "Running low on.",
+      "zh": "快用完……了。"
+    },
+    {
+      "id": 210,
+      "start": 460.36,
+      "end": 461.36,
+      "en": "Running low on.",
+      "zh": "快用完……了。"
+    },
+    {
+      "id": 211,
+      "start": 461.36,
+      "end": 467.31,
+      "en": "Okay, so before we get into explaining what running low on means, let's listen to some examples.",
+      "zh": "好吧，在我们解释什么是低电平之前，让我们先听一些例子。"
+    },
+    {
+      "id": 212,
+      "start": 468.92,
+      "end": 469.19,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 213,
+      "start": 471.92,
+      "end": 472.94,
+      "en": "You better look for a gas station.",
+      "zh": "你最好找一个加油站。"
+    },
+    {
+      "id": 214,
+      "start": 473.16,
+      "end": 474.14,
+      "en": "We're running low on fuel.",
+      "zh": "我们的燃料不足。"
+    },
+    {
+      "id": 215,
+      "start": 477.54,
+      "end": 480.24,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 216,
+      "start": 480.24,
+      "end": 481.02,
+      "en": "We're running low on beers.",
+      "zh": "我们的啤酒用完了。"
+    },
+    {
+      "id": 217,
+      "start": 481.84,
+      "end": 482.58,
+      "en": "Can you go out and get some?",
+      "zh": "你可以出去拿一些吗？"
+    },
+    {
+      "id": 218,
+      "start": 486.48,
+      "end": 487.48,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 219,
+      "start": 488.94,
+      "end": 490.64,
+      "en": "My flashlight is running low on battery.",
+      "zh": "我的手电筒电池电量不足。"
+    },
+    {
+      "id": 220,
+      "start": 491.36,
+      "end": 492.46,
+      "en": "Hurry up before it gets dark.",
+      "zh": "在天黑之前快点。"
+    },
+    {
+      "id": 221,
+      "start": 494.7,
+      "end": 497.62,
+      "en": "So basically, running low means...",
+      "zh": "所以基本上，低位意味着..."
+    },
+    {
+      "id": 222,
+      "start": 498.6,
+      "end": 500.66,
+      "en": "You don't have much of this left.",
+      "zh": "你没有太多的东西。"
+    },
+    {
+      "id": 223,
+      "start": 501.28,
+      "end": 502.78,
+      "en": "You don't have much of something left.",
+      "zh": "你没有太多的东西了。"
+    },
+    {
+      "id": 224,
+      "start": 503.0,
+      "end": 504.0,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 225,
+      "start": 504.0,
+      "end": 505.56,
+      "en": "So here, they're running low on wine.",
+      "zh": "所以在这里，他们的葡萄酒不足。"
+    },
+    {
+      "id": 226,
+      "start": 505.56,
+      "end": 506.98,
+      "en": "So basically...",
+      "zh": "所以基本上..."
+    },
+    {
+      "id": 227,
+      "start": 506.98,
+      "end": 508.16,
+      "en": "There's not much wine left.",
+      "zh": "剩下的酒不多了。"
+    },
+    {
+      "id": 228,
+      "start": 508.52,
+      "end": 509.52,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 229,
+      "start": 509.52,
+      "end": 514.76,
+      "en": "So if you listen to the examples, you could also be running low on fuel, for example, on your car, etc.",
+      "zh": "因此，如果您聆听这些示例，您的燃料也可能不足，例如在您的汽车上等。"
+    },
+    {
+      "id": 230,
+      "start": 514.76,
+      "end": 515.24,
+      "en": "Running low on.",
+      "zh": "快用完……了。"
+    },
+    {
+      "id": 231,
+      "start": 515.76,
+      "end": 518.5,
+      "en": "All right, and now let's take a look at our last word.",
+      "zh": "好吧，现在让我们来看看我们的最后一个字。"
+    },
+    {
+      "id": 232,
+      "start": 519.32,
+      "end": 520.22,
+      "en": "Doing really well.",
+      "zh": "进展很顺利。"
+    },
+    {
+      "id": 233,
+      "start": 520.84,
+      "end": 521.34,
+      "en": "Doing really well.",
+      "zh": "进展很顺利。"
+    },
+    {
+      "id": 234,
+      "start": 522.2,
+      "end": 523.63,
+      "en": "We are doing really well.",
+      "zh": "我们做得很好。"
+    },
+    {
+      "id": 235,
+      "start": 524.12,
+      "end": 524.59,
+      "en": "Doing really well.",
+      "zh": "进展很顺利。"
+    },
+    {
+      "id": 236,
+      "start": 525.24,
+      "end": 528.56,
+      "en": "So this seems to be like a pretty simple structure.",
+      "zh": "所以这似乎是一个非常简单的结构。"
+    },
+    {
+      "id": 237,
+      "start": 528.56,
+      "end": 531.56,
+      "en": "I mean, we know all these words, right?",
+      "zh": "我的意思是，我们知道所有这些词，对吧？"
+    },
+    {
+      "id": 238,
+      "start": 531.56,
+      "end": 533.0,
+      "en": "So why is it special?",
+      "zh": "那么为什么它很特别呢？"
+    },
+    {
+      "id": 239,
+      "start": 533.0,
+      "end": 538.62,
+      "en": "Well basically, if you say, I am doing really well, maybe it sounds a little bit difficult to understand.",
+      "zh": "好吧，基本上，如果你说，我做得很好，也许听起来有点难以理解。"
+    },
+    {
+      "id": 240,
+      "start": 539.16,
+      "end": 540.88,
+      "en": "But what are you doing really well?",
+      "zh": "但是你做得很好吗？"
+    },
+    {
+      "id": 241,
+      "start": 540.88,
+      "end": 542.8,
+      "en": "So this is a great way of answering a question.",
+      "zh": "所以这是回答问题的好方法。"
+    },
+    {
+      "id": 242,
+      "start": 543.04,
+      "end": 544.38,
+      "en": "When somebody says, how are you?",
+      "zh": "当有人说，你好吗？"
+    },
+    {
+      "id": 243,
+      "start": 544.72,
+      "end": 545.52,
+      "en": "Or how are you doing?",
+      "zh": "或者你好吗？"
+    },
+    {
+      "id": 244,
+      "start": 546.12,
+      "end": 548.12,
+      "en": "You can say, I'm doing really well.",
+      "zh": "你可以说，我做得很好。"
+    },
+    {
+      "id": 245,
+      "start": 548.4,
+      "end": 549.34,
+      "en": "Or I'm doing well.",
+      "zh": "或者说“我过得很好”。"
+    },
+    {
+      "id": 246,
+      "start": 549.76,
+      "end": 550.88,
+      "en": "In your life, everything is good.",
+      "zh": "在你的生活中，一切都是美好的。"
+    },
+    {
+      "id": 247,
+      "start": 551.2,
+      "end": 553.6,
+      "en": "In your life, things are good and you're happy, basically.",
+      "zh": "在你的生活中，事情是好的，你很开心，基本上。"
+    },
+    {
+      "id": 248,
+      "start": 554.44,
+      "end": 558.0,
+      "en": "But in this situation, in the dialogue, what's doing really well?",
+      "zh": "但在这种情况下，在对话中，什么是真正好的？"
+    },
+    {
+      "id": 249,
+      "start": 558.14,
+      "end": 559.94,
+      "en": "Well, the restaurant is doing really well.",
+      "zh": "嗯，餐厅做得很好。"
+    },
+    {
+      "id": 250,
+      "start": 560.2,
+      "end": 561.84,
+      "en": "The business is doing really well.",
+      "zh": "生意做得很好。"
+    },
+    {
+      "id": 251,
+      "start": 562.0,
+      "end": 565.78,
+      "en": "So when he says, we're doing really well, business is good.",
+      "zh": "所以当他说，我们做得很好，生意很好。"
+    },
+    {
+      "id": 252,
+      "start": 566.42,
+      "end": 567.18,
+      "en": "They're making lots of money.",
+      "zh": "他们赚了很多钱。"
+    },
+    {
+      "id": 253,
+      "start": 567.38,
+      "end": 567.6,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 254,
+      "start": 568.76,
+      "end": 570.4,
+      "en": "So you can use it with people.",
+      "zh": "所以你可以和人一起使用它。"
+    },
+    {
+      "id": 255,
+      "start": 570.4,
+      "end": 571.76,
+      "en": "You can use it with businesses.",
+      "zh": "您可以将其与企业一起使用。"
+    },
+    {
+      "id": 256,
+      "start": 572.54,
+      "end": 575.6,
+      "en": "You can say, I'm doing really well in my new job.",
+      "zh": "你可以说，我的新工作做得很好。"
+    },
+    {
+      "id": 257,
+      "start": 576.26,
+      "end": 578.0,
+      "en": "Or my son is doing really well in school.",
+      "zh": "或者我儿子在学校做得很好。"
+    },
+    {
+      "id": 258,
+      "start": 578.56,
+      "end": 581.32,
+      "en": "Okay, so you can use it in those different ways.",
+      "zh": "好的，所以你可以用这些不同的方式使用它。"
+    },
+    {
+      "id": 259,
+      "start": 581.6,
+      "end": 601.36,
+      "en": "Alright, well, let's listen to the dialogue one last time and we'll be able to hear all of these great words and phrases we just talked about.",
+      "zh": "好吧，好吧，让我们最后一次听一听对话，我们将能够听到我们刚刚谈到的所有这些伟大的单词和短语。"
+    },
+    {
+      "id": 260,
+      "start": 601.36,
+      "end": 629.2,
+      "en": "So let's listen to the dialogue one last time.",
+      "zh": "所以让我们最后一次听对话。"
+    },
+    {
+      "id": 261,
+      "start": 629.2,
+      "end": 648.08,
+      "en": "So Marco, do you think this chef had a rat under his hat?",
+      "zh": "那么马可，你认为这位厨师的帽子下有一只老鼠吗？"
+    },
+    {
+      "id": 262,
+      "start": 648.08,
+      "end": 653.22,
+      "en": "That was a really good movie, Ratatouille, Disney, Pixar, where a rat is a cook.",
+      "zh": "那是一部非常好的电影，料理鼠王，迪斯尼，皮克斯，老鼠是厨师。"
+    },
+    {
+      "id": 263,
+      "start": 654.32,
+      "end": 657.36,
+      "en": "It's interesting, I love to cook, but I'm not very good at cooking.",
+      "zh": "这很有趣，我喜欢做饭，但我不太擅长做饭。"
+    },
+    {
+      "id": 264,
+      "start": 658.44,
+      "end": 661.6,
+      "en": "But it's good because for me, it helps me relieve stress.",
+      "zh": "但这很好，因为对我来说，它可以帮助我缓解压力。"
+    },
+    {
+      "id": 265,
+      "start": 662.16,
+      "end": 662.8,
+      "en": "Me too, actually.",
+      "zh": "我也是，其实。"
+    },
+    {
+      "id": 266,
+      "start": 662.8,
+      "end": 669.32,
+      "en": "You know, if I'm in a bad mood, I go home and cook something to eat and the world seems a happier place.",
+      "zh": "你知道，如果我心情不好，我会回家做饭吃，世界似乎更快乐。"
+    },
+    {
+      "id": 267,
+      "start": 669.32,
+      "end": 672.0,
+      "en": "And people don't understand it because they think cooking is work.",
+      "zh": "人们不理解它，因为他们认为烹饪是工作。"
+    },
+    {
+      "id": 268,
+      "start": 672.88,
+      "end": 674.77,
+      "en": "But for some people, it's fun.",
+      "zh": "但对于某些人来说，这很有趣。"
+    },
+    {
+      "id": 269,
+      "start": 675.8,
+      "end": 676.55,
+      "en": "So what about you guys?",
+      "zh": "那么你们呢？"
+    },
+    {
+      "id": 270,
+      "start": 676.84,
+      "end": 677.75,
+      "en": "What do you like to cook?",
+      "zh": "你喜欢做什么？"
+    },
+    {
+      "id": 271,
+      "start": 677.91,
+      "end": 680.89,
+      "en": "Do you have any particular dish that you prepare very well?",
+      "zh": "你有什么特别的菜你准备得很好吗？"
+    },
+    {
+      "id": 272,
+      "start": 681.27,
+      "end": 683.55,
+      "en": "And if you do, please send us the recipes.",
+      "zh": "如果你这样做了，请把食谱发给我们。"
+    },
+    {
+      "id": 273,
+      "start": 684.37,
+      "end": 690.65,
+      "en": "Exactly, because we know that we have listeners from all over the world and of course, we want to know what type of food you prefer.",
+      "zh": "确切地说，因为我们知道我们有来自世界各地的听众，当然，我们想知道您更喜欢哪种食物。"
+    },
+    {
+      "id": 274,
+      "start": 691.77,
+      "end": 700.19,
+      "en": "So come to EnglishPod.com and post your questions, your comments and your recipes in our community section and Erica and I will always be there.",
+      "zh": "因此，请访问 Englishpod.com 并在我们的社区部分发布您的问题、您的评论和食谱，Erica 和我将永远在那里。"
+    },
+    {
+      "id": 275,
+      "start": 700.73,
+      "end": 704.49,
+      "en": "Yes, to test out your recipes as well as answer questions.",
+      "zh": "是的，测试您的食谱以及回答问题。"
+    },
+    {
+      "id": 276,
+      "start": 704.91,
+      "end": 709.63,
+      "en": "For sure, if a good recipe comes along, we'll prepare it and we'll let you know how it turned out.",
+      "zh": "当然，如果有一个好的食谱出现，我们会准备它，我们会告诉你结果如何。"
+    },
+    {
+      "id": 277,
+      "start": 710.6,
+      "end": 712.96,
+      "en": "All right guys, we're out of time, but we'll see you next time.",
+      "zh": "好吧，伙计们，我们没有时间了，但我们下次再见。"
+    },
+    {
+      "id": 278,
+      "start": 712.96,
+      "end": 713.69,
+      "en": "Until then, goodbye.",
+      "zh": "在那之前，再见。"
+    },
+    {
+      "id": 279,
+      "start": 713.96,
+      "end": 714.46,
+      "en": "Bye.",
+      "zh": "再见。"
+    }
+  ],
+  "dialog": {
+    "start": 124.96,
+    "end": 168.84,
+    "segmentIds": [
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81
+    ]
+  }
+}

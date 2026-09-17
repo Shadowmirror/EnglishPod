@@ -1,0 +1,2094 @@
+{
+  "version": 1,
+  "id": 326,
+  "number": "0326",
+  "title": "Daily Life - Report Card",
+  "audio": "mp3/326. Daily Life - Report Card.mp3",
+  "duration": 910.9943125,
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.39,
+      "end": 3.47,
+      "en": "Hello everyone and welcome to EnglishPod.",
+      "zh": "大家好，欢迎来到 EnglishPod。"
+    },
+    {
+      "id": 2,
+      "start": 3.67,
+      "end": 4.21,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 4.6,
+      "end": 9.1,
+      "en": "My name is Catherine and today we have a lesson for you all about school.",
+      "zh": "我的名字是凯瑟琳，今天我们为大家准备了一堂关于学校的课程。"
+    },
+    {
+      "id": 4,
+      "start": 9.66,
+      "end": 10.14,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 5,
+      "start": 10.36,
+      "end": 14.04,
+      "en": "Today we're going to take a look at a child's report card.",
+      "zh": "今天我们来看看一个孩子的成绩单。"
+    },
+    {
+      "id": 6,
+      "start": 14.22,
+      "end": 21.1,
+      "en": "So we're going to talk a little bit about what this means, what is a report card and also everything that's inside this report.",
+      "zh": "所以我们将谈谈这意味着什么，什么是成绩单以及本报告中的所有内容。"
+    },
+    {
+      "id": 7,
+      "start": 21.5,
+      "end": 21.88,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 8,
+      "start": 22.76,
+      "end": 25.4,
+      "en": "So we're going to learn how to describe a child's schoolwork.",
+      "zh": "所以我们要学习如何描述孩子的学业。"
+    },
+    {
+      "id": 9,
+      "start": 25.4,
+      "end": 25.74,
+      "en": "Is it good?",
+      "zh": "好吗？"
+    },
+    {
+      "id": 10,
+      "start": 25.9,
+      "end": 26.3,
+      "en": "Is it bad?",
+      "zh": "不好吗？"
+    },
+    {
+      "id": 11,
+      "start": 27.4,
+      "end": 33.6,
+      "en": "So let's listen to our dialogue and we'll be back in a minute to discuss the meaning of some of these words and phrases.",
+      "zh": "所以让我们听听我们的对话，我们会在一分钟内回来讨论其中一些单词和短语的含义。"
+    },
+    {
+      "id": 12,
+      "start": 39.15,
+      "end": 40.75,
+      "en": "Look, Jimmy's report card came today.",
+      "zh": "看，吉米的成绩单今天来了。"
+    },
+    {
+      "id": 13,
+      "start": 41.58,
+      "end": 42.27,
+      "en": "Let's have a look.",
+      "zh": "我们来看看。"
+    },
+    {
+      "id": 14,
+      "start": 43.01,
+      "end": 43.43,
+      "en": "What is this?",
+      "zh": "这是什么？"
+    },
+    {
+      "id": 15,
+      "start": 44.08,
+      "end": 45.94,
+      "en": "Where are all the grades?",
+      "zh": "分数都在哪儿？"
+    },
+    {
+      "id": 16,
+      "start": 45.94,
+      "end": 47.21,
+      "en": "He's in the third grade, Sam.",
+      "zh": "他在三年级，山姆。"
+    },
+    {
+      "id": 17,
+      "start": 48.04,
+      "end": 52.33,
+      "en": "You see, under each subject that he's being taught in school, he receives a mark from one to three.",
+      "zh": "你看，学校的每门课程下面都会给他一个一到三级的评价。"
+    },
+    {
+      "id": 18,
+      "start": 53.19,
+      "end": 55.73,
+      "en": "A one means his achievement or work is excellent.",
+      "zh": "一级表示他的成绩或表现优秀。"
+    },
+    {
+      "id": 19,
+      "start": 56.85,
+      "end": 60.33,
+      "en": "Here in science, for example, he got a two, which means it's satisfactory.",
+      "zh": "比如科学课，他得了二级，表示表现令人满意。"
+    },
+    {
+      "id": 20,
+      "start": 61.57,
+      "end": 63.09,
+      "en": "What about here in physical education?",
+      "zh": "那体育课这一项呢？"
+    },
+    {
+      "id": 21,
+      "start": 63.51,
+      "end": 66.65,
+      "en": "He got a three here, which means it's unsatisfactory.",
+      "zh": "这里是三级，表示表现不达标。"
+    },
+    {
+      "id": 22,
+      "start": 67.76,
+      "end": 68.89,
+      "en": "We should work on that with him.",
+      "zh": "我们应该帮他提高这方面的表现。"
+    },
+    {
+      "id": 23,
+      "start": 69.56,
+      "end": 69.93,
+      "en": "So confusing.",
+      "zh": "这也太复杂了。"
+    },
+    {
+      "id": 24,
+      "start": 70.56,
+      "end": 75.37,
+      "en": "In my day, we got an A or a B if we were doing well and if we failed an exam, we would get an F.",
+      "zh": "我们那时候，表现好就得 A 或 B，考试不及格就得 F。"
+    },
+    {
+      "id": 25,
+      "start": 75.37,
+      "end": 80.08,
+      "en": "All right, we're back.",
+      "zh": "好了，我们回来了。"
+    },
+    {
+      "id": 26,
+      "start": 80.08,
+      "end": 82.32,
+      "en": "So now let's start with some language takeaway.",
+      "zh": "所以现在让我们从一些语言外卖开始。"
+    },
+    {
+      "id": 27,
+      "start": 85.97,
+      "end": 86.79,
+      "en": "Language takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 28,
+      "start": 90.12,
+      "end": 94.16,
+      "en": "All right, the first phrase here we have in language takeaway is actually a thing.",
+      "zh": "好吧，我们在语言外卖中的第一个短语实际上是一件事。"
+    },
+    {
+      "id": 29,
+      "start": 94.16,
+      "end": 97.11,
+      "en": "It's the report card and this is the topic of today's dialogue.",
+      "zh": "这是成绩单，这是今天对话的主题。"
+    },
+    {
+      "id": 30,
+      "start": 97.76,
+      "end": 98.76,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 31,
+      "start": 98.76,
+      "end": 102.83,
+      "en": "Now you may remember, I'm sure pretty much it's standard everywhere in the world.",
+      "zh": "现在你可能还记得，我相信它几乎是世界各地的标准。"
+    },
+    {
+      "id": 32,
+      "start": 103.08,
+      "end": 109.99,
+      "en": "You get a report, a small little report that tells your parents how well or how poorly you are doing in school.",
+      "zh": "你会得到一份报告，一份小报告，告诉你的父母你在学校的表现有多好或有多糟糕。"
+    },
+    {
+      "id": 33,
+      "start": 110.53,
+      "end": 110.93,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 34,
+      "start": 111.82,
+      "end": 120.16,
+      "en": "And then after maybe two or three months, your teacher will write down how she or he thinks that you're performing at school.",
+      "zh": "然后大约两三个月后，你的老师会写下她或他认为你在学校的表现。"
+    },
+    {
+      "id": 35,
+      "start": 120.16,
+      "end": 120.31,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 36,
+      "start": 121.16,
+      "end": 122.85,
+      "en": "And usually parents have to sign this.",
+      "zh": "通常父母必须签署此协议。"
+    },
+    {
+      "id": 37,
+      "start": 123.03,
+      "end": 129.23,
+      "en": "They have to say, okay, I see that my child is doing well or that he's doing poorly and then the teacher will know as well.",
+      "zh": "他们不得不说，好吧，我看到我的孩子做得很好，或者他做得不好，然后老师也会知道。"
+    },
+    {
+      "id": 38,
+      "start": 129.47,
+      "end": 134.57,
+      "en": "And I think, well, you get report cards in elementary school, in high school and also in university, right?",
+      "zh": "而且我认为，好吧，你在小学、高中和大学都得到了成绩单，对吧？"
+    },
+    {
+      "id": 39,
+      "start": 134.79,
+      "end": 136.61,
+      "en": "You do get a report card of some sort.",
+      "zh": "你确实得到了某种形式的成绩单。"
+    },
+    {
+      "id": 40,
+      "start": 136.77,
+      "end": 137.15,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 41,
+      "start": 137.39,
+      "end": 139.81,
+      "en": "Well, in university in America, we call them grades.",
+      "zh": "好吧，在美国的大学里，我们称它们为成绩。"
+    },
+    {
+      "id": 42,
+      "start": 140.16,
+      "end": 141.49,
+      "en": "We don't really call them a report card.",
+      "zh": "我们并没有真正称他们为成绩单。"
+    },
+    {
+      "id": 43,
+      "start": 141.86,
+      "end": 149.64,
+      "en": "In high school, middle school and elementary school, so before college, we actually have a piece of paper and that's why it's called a card.",
+      "zh": "在高中、初中和小学，所以在大学之前，我们实际上有一张纸，这就是为什么它被称为卡片。"
+    },
+    {
+      "id": 44,
+      "start": 150.16,
+      "end": 150.52,
+      "en": "Yeah, that's right.",
+      "zh": "对，没错。"
+    },
+    {
+      "id": 45,
+      "start": 150.66,
+      "end": 155.4,
+      "en": "I think now for universities especially, you just go online and you see your grades.",
+      "zh": "我认为现在特别是对于大学，你只是上网，你会看到你的成绩。"
+    },
+    {
+      "id": 46,
+      "start": 155.66,
+      "end": 156.3,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 47,
+      "start": 156.34,
+      "end": 157.34,
+      "en": "It's on the internet.",
+      "zh": "它在互联网上。"
+    },
+    {
+      "id": 48,
+      "start": 157.84,
+      "end": 164.68,
+      "en": "But the important thing about the report card is that it tells a parent and a student what his or her grades are.",
+      "zh": "但报告卡的重要一点是它告诉家长和学生他或她的成绩是什么。"
+    },
+    {
+      "id": 49,
+      "start": 165.16,
+      "end": 165.46,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 50,
+      "start": 165.64,
+      "end": 169.6,
+      "en": "So, grades, this is a noun, is basically your score.",
+      "zh": "所以，成绩，这是一个名词，基本上是你的分数。"
+    },
+    {
+      "id": 51,
+      "start": 170.28,
+      "end": 170.63,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 52,
+      "start": 171.52,
+      "end": 178.81,
+      "en": "So, maybe you took a test and you did very well on your test and you had some homework and you did very well on your homework, so you have a good grade.",
+      "zh": "所以，也许你参加了考试，你的考试做得很好，你有一些功课，你的作业做得很好，所以你的成绩很好。"
+    },
+    {
+      "id": 53,
+      "start": 179.48,
+      "end": 179.61,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 54,
+      "start": 180.48,
+      "end": 183.53,
+      "en": "But if you don't do your homework and you don't do well on your test, you have a bad grade.",
+      "zh": "但是，如果你不做功课，而且你的考试成绩不好，你的成绩就不好。"
+    },
+    {
+      "id": 55,
+      "start": 184.32,
+      "end": 185.32,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 56,
+      "start": 185.32,
+      "end": 187.39,
+      "en": "So, for example, like in the United States, it's over 100 points.",
+      "zh": "因此，例如，就像在美国一样，它超过 100 分。"
+    },
+    {
+      "id": 57,
+      "start": 188.24,
+      "end": 191.41,
+      "en": "So maybe a good grade would be 95 points out of 100.",
+      "zh": "所以也许一个好的成绩会是 100 分中的 95 分。"
+    },
+    {
+      "id": 58,
+      "start": 191.79,
+      "end": 194.53,
+      "en": "So we call that an A. That's called an A. That's right.",
+      "zh": "所以我们称之为 A。这称为 A。这是对的。"
+    },
+    {
+      "id": 59,
+      "start": 195.01,
+      "end": 201.1,
+      "en": "Or if you have a bad grade, maybe that's an F, which is 20% or 30%.",
+      "zh": "或者，如果你的成绩不好，也许是 F，它是 20% 或 30%。"
+    },
+    {
+      "id": 60,
+      "start": 201.44,
+      "end": 202.44,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 61,
+      "start": 202.44,
+      "end": 203.44,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 62,
+      "start": 203.44,
+      "end": 214.42,
+      "en": "So now, this is where we need to make a difference between the grades that his father was looking for and then the mom says he's in the third grade.",
+      "zh": "所以现在，这就是我们需要在他父亲正在寻找的成绩和妈妈说他在三年级之间区分的地方。"
+    },
+    {
+      "id": 63,
+      "start": 214.8,
+      "end": 220.98,
+      "en": "So it's very different between having good grades or bad grades and fifth grade or third grade.",
+      "zh": "因此，有好成绩或坏成绩与五年级或三年级之间有很大不同。"
+    },
+    {
+      "id": 64,
+      "start": 221.68,
+      "end": 222.68,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 65,
+      "start": 222.68,
+      "end": 223.68,
+      "en": "Two different grades.",
+      "zh": "两个不同的等级。"
+    },
+    {
+      "id": 66,
+      "start": 223.68,
+      "end": 224.68,
+      "en": "And we know this is confusing.",
+      "zh": "我们知道这很令人困惑。"
+    },
+    {
+      "id": 67,
+      "start": 224.68,
+      "end": 226.84,
+      "en": "I'm going to explain a little bit.",
+      "zh": "我要解释一下。"
+    },
+    {
+      "id": 68,
+      "start": 226.84,
+      "end": 230.26,
+      "en": "Third grade is actually the third year of elementary school.",
+      "zh": "三年级实际上是小学的第三年。"
+    },
+    {
+      "id": 69,
+      "start": 230.72,
+      "end": 230.88,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 70,
+      "start": 231.72,
+      "end": 240.2,
+      "en": "So in the American education system, we start in kindergarten and we have first grade, second grade, third grade, all the way up until the end, which is 12th grade.",
+      "zh": "所以在美国教育体系中，我们从幼儿园开始，我们有一年级、二年级、三年级，一直到最后，即 12 年级。"
+    },
+    {
+      "id": 71,
+      "start": 240.56,
+      "end": 240.76,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 72,
+      "start": 241.56,
+      "end": 244.9,
+      "en": "So it's everything between when you're five years old and when you're 18 years old.",
+      "zh": "所以这就是你 5 岁到 18 岁之间的一切。"
+    },
+    {
+      "id": 73,
+      "start": 245.48,
+      "end": 248.36,
+      "en": "And each year at school is a grade, a level.",
+      "zh": "每年在学校的都是一个年级，一个级别。"
+    },
+    {
+      "id": 74,
+      "start": 249.24,
+      "end": 249.42,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 75,
+      "start": 250.24,
+      "end": 254.64,
+      "en": "And as you said, it's a grade in different parts of the country.",
+      "zh": "正如你所说，这是该国不同地区的一个等级。"
+    },
+    {
+      "id": 76,
+      "start": 254.64,
+      "end": 261.52,
+      "en": "I'm not really sure if they call them a grades or they have the same system, but basically, that's what it means in English.",
+      "zh": "我不确定他们是否称他们为 A 级或他们有相同的系统，但基本上，这就是它在英语中的含义。"
+    },
+    {
+      "id": 77,
+      "start": 261.74,
+      "end": 265.8,
+      "en": "You have first grade, third grade, 12th grade, finally, when you graduate.",
+      "zh": "你有一年级，三年级，12年级，最后，你毕业的时候。"
+    },
+    {
+      "id": 78,
+      "start": 266.14,
+      "end": 266.28,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 79,
+      "start": 267.2,
+      "end": 268.52,
+      "en": "So you can say my son is in eighth grade.",
+      "zh": "所以你可以说我儿子在八年级。"
+    },
+    {
+      "id": 80,
+      "start": 268.64,
+      "end": 269.0,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 81,
+      "start": 269.52,
+      "end": 271.64,
+      "en": "It means he's in his eighth year of school.",
+      "zh": "这意味着他正在上学八年级。"
+    },
+    {
+      "id": 82,
+      "start": 271.64,
+      "end": 272.64,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 83,
+      "start": 272.64,
+      "end": 273.64,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 84,
+      "start": 273.64,
+      "end": 274.34,
+      "en": "So that is the difference.",
+      "zh": "所以这就是区别。"
+    },
+    {
+      "id": 85,
+      "start": 274.72,
+      "end": 283.36,
+      "en": "And now, we're going to take a look at something that has to do with grades as well, is the marks that you get in your test or in your report card.",
+      "zh": "现在，我们将看看与成绩有关的东西，是您在测试或成绩单中获得的分数。"
+    },
+    {
+      "id": 86,
+      "start": 283.84,
+      "end": 284.84,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 87,
+      "start": 284.84,
+      "end": 285.12,
+      "en": "So this might actually help.",
+      "zh": "所以这实际上可能会有所帮助。"
+    },
+    {
+      "id": 88,
+      "start": 285.84,
+      "end": 288.54,
+      "en": "Remember when we said on your report card, your teacher might write down your grade.",
+      "zh": "请记住，当我们在您的成绩单上说时，您的老师可能会写下您的成绩。"
+    },
+    {
+      "id": 89,
+      "start": 289.52,
+      "end": 292.28,
+      "en": "That means do you have an A or a B or a C?",
+      "zh": "这意味着你有 A 或 A B 或 C 吗？"
+    },
+    {
+      "id": 90,
+      "start": 292.28,
+      "end": 294.56,
+      "en": "Well, another way to call this is a mark.",
+      "zh": "好吧，另一种称呼它的方式是标记。"
+    },
+    {
+      "id": 91,
+      "start": 294.56,
+      "end": 295.68,
+      "en": "So he has good marks.",
+      "zh": "所以他有很好的成绩。"
+    },
+    {
+      "id": 92,
+      "start": 295.98,
+      "end": 296.62,
+      "en": "He has good grades.",
+      "zh": "他有很好的成绩。"
+    },
+    {
+      "id": 93,
+      "start": 297.0,
+      "end": 300.44,
+      "en": "So they're basically the same thing, grades and marks.",
+      "zh": "所以它们基本上是相同的东西，成绩和分数。"
+    },
+    {
+      "id": 94,
+      "start": 300.84,
+      "end": 301.14,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 95,
+      "start": 301.3,
+      "end": 301.52,
+      "en": "They are.",
+      "zh": "他们是。"
+    },
+    {
+      "id": 96,
+      "start": 303.04,
+      "end": 307.76,
+      "en": "And I know that in Britain, I think people more commonly say marks.",
+      "zh": "我知道在英国，我认为人们更常说标记。"
+    },
+    {
+      "id": 97,
+      "start": 307.76,
+      "end": 311.49,
+      "en": "She got terrible marks at school and her father was angry with her.",
+      "zh": "她在学校得到了可怕的分数，她的父亲对她很生气。"
+    },
+    {
+      "id": 98,
+      "start": 312.37,
+      "end": 317.93,
+      "en": "But in America, we often say, if you get good grades, I'll buy you sweets.",
+      "zh": "但在美国，我们经常说，如果你取得好成绩，我会给你买甜食。"
+    },
+    {
+      "id": 99,
+      "start": 318.41,
+      "end": 319.09,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 100,
+      "start": 319.21,
+      "end": 319.57,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 101,
+      "start": 320.88,
+      "end": 321.88,
+      "en": "So you get a prize if you get good grades usually.",
+      "zh": "因此，如果您通常获得好成绩，您将获得奖品。"
+    },
+    {
+      "id": 102,
+      "start": 321.88,
+      "end": 322.88,
+      "en": "Well, it depends on your parents.",
+      "zh": "好吧，这取决于你的父母。"
+    },
+    {
+      "id": 103,
+      "start": 322.88,
+      "end": 323.01,
+      "en": "On your parents.",
+      "zh": "在你的父母身上。"
+    },
+    {
+      "id": 104,
+      "start": 323.88,
+      "end": 324.88,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 105,
+      "start": 324.88,
+      "end": 335.7,
+      "en": "Now, as we said, you can have a grade that's usually a number or a letter like A, B, C, D, F. But you can also get marks that are just very much black or white.",
+      "zh": "现在，正如我们所说，您的等级通常是 A、B、C、D、F 等数字或字母。但您也可以获得非常黑色或白色的标记。"
+    },
+    {
+      "id": 106,
+      "start": 335.92,
+      "end": 339.8,
+      "en": "That's satisfactory or unsatisfactory, like in this case.",
+      "zh": "这令人满意或不令人满意，就像在这种情况下一样。"
+    },
+    {
+      "id": 107,
+      "start": 339.8,
+      "end": 340.8,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 108,
+      "start": 340.8,
+      "end": 345.8,
+      "en": "So satisfactory, this is an adjective, it describes something, is a good thing.",
+      "zh": "如此令人满意，这是一个形容词，它描述了一些东西，是一件好事。"
+    },
+    {
+      "id": 109,
+      "start": 346.88,
+      "end": 349.28,
+      "en": "So how did he do?",
+      "zh": "那么他是怎么做到的呢？"
+    },
+    {
+      "id": 110,
+      "start": 349.28,
+      "end": 351.68,
+      "en": "Well, his performance was satisfactory.",
+      "zh": "嗯，他的表现令人满意。"
+    },
+    {
+      "id": 111,
+      "start": 351.68,
+      "end": 351.96,
+      "en": "It's okay.",
+      "zh": "没关系。"
+    },
+    {
+      "id": 112,
+      "start": 352.84,
+      "end": 356.94,
+      "en": "But if it's bad or if it's not good, we call it unsatisfactory.",
+      "zh": "但如果它不好或不好，我们称之为不令人满意。"
+    },
+    {
+      "id": 113,
+      "start": 357.72,
+      "end": 357.9,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 114,
+      "start": 358.72,
+      "end": 361.44,
+      "en": "So this doesn't really have a number, as you can tell.",
+      "zh": "所以这并没有真正的数字，正如您所知道的那样。"
+    },
+    {
+      "id": 115,
+      "start": 361.64,
+      "end": 364.32,
+      "en": "It's just basically pass or fail.",
+      "zh": "它基本上只是通过或失败。"
+    },
+    {
+      "id": 116,
+      "start": 364.32,
+      "end": 365.32,
+      "en": "That's about it.",
+      "zh": "就是这样。"
+    },
+    {
+      "id": 117,
+      "start": 365.32,
+      "end": 365.92,
+      "en": "Good or bad.",
+      "zh": "好或坏。"
+    },
+    {
+      "id": 118,
+      "start": 366.32,
+      "end": 367.32,
+      "en": "Good or bad.",
+      "zh": "好或坏。"
+    },
+    {
+      "id": 119,
+      "start": 367.32,
+      "end": 368.32,
+      "en": "That's it.",
+      "zh": "就是这样。"
+    },
+    {
+      "id": 120,
+      "start": 368.32,
+      "end": 369.32,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 121,
+      "start": 369.32,
+      "end": 370.32,
+      "en": "No grade.",
+      "zh": "没有等级。"
+    },
+    {
+      "id": 122,
+      "start": 370.32,
+      "end": 371.32,
+      "en": "And we'll explain this in a minute.",
+      "zh": "我们将在一分钟内解释这一点。"
+    },
+    {
+      "id": 123,
+      "start": 371.32,
+      "end": 377.12,
+      "en": "There are some classes where you can't have a grade like an A or a B. And that's why we have this satisfactory, unsatisfactory.",
+      "zh": "有些课程你不能有像 A 或 B 那样的成绩。这就是为什么我们有这种令人满意的、不令人满意的。"
+    },
+    {
+      "id": 124,
+      "start": 377.12,
+      "end": 377.28,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 125,
+      "start": 378.12,
+      "end": 379.12,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 126,
+      "start": 379.12,
+      "end": 379.78,
+      "en": "So we've taken a look at a lot of language there.",
+      "zh": "所以我们在那里看了很多语言。"
+    },
+    {
+      "id": 127,
+      "start": 380.12,
+      "end": 383.12,
+      "en": "Why don't we listen to the dialogue again?",
+      "zh": "我们为什么不再听对话？"
+    },
+    {
+      "id": 128,
+      "start": 388.48,
+      "end": 390.38,
+      "en": "Look, Jimmy's report card came today.",
+      "zh": "看，吉米的成绩单今天来了。"
+    },
+    {
+      "id": 129,
+      "start": 390.94,
+      "end": 391.9,
+      "en": "Let's have a look.",
+      "zh": "我们来看看。"
+    },
+    {
+      "id": 130,
+      "start": 392.4,
+      "end": 392.96,
+      "en": "What is this?",
+      "zh": "这是什么？"
+    },
+    {
+      "id": 131,
+      "start": 393.6,
+      "end": 395.44,
+      "en": "Where are all the grades?",
+      "zh": "分数都在哪儿？"
+    },
+    {
+      "id": 132,
+      "start": 395.44,
+      "end": 396.72,
+      "en": "He's in the third grade, Sam.",
+      "zh": "他在三年级，山姆。"
+    },
+    {
+      "id": 133,
+      "start": 397.52,
+      "end": 401.86,
+      "en": "You see, under each subject that he's being taught in school, he receives a mark from one to three.",
+      "zh": "你看，学校的每门课程下面都会给他一个一到三级的评价。"
+    },
+    {
+      "id": 134,
+      "start": 402.64,
+      "end": 405.26,
+      "en": "A one means his achievement or work is excellent.",
+      "zh": "一级表示他的成绩或表现优秀。"
+    },
+    {
+      "id": 135,
+      "start": 406.22,
+      "end": 409.88,
+      "en": "Here in science, for example, he got a two, which means it's satisfactory.",
+      "zh": "比如科学课，他得了二级，表示表现令人满意。"
+    },
+    {
+      "id": 136,
+      "start": 411.04,
+      "end": 412.62,
+      "en": "What about here in physical education?",
+      "zh": "那体育课这一项呢？"
+    },
+    {
+      "id": 137,
+      "start": 413.04,
+      "end": 416.2,
+      "en": "He got a three here, which means it's unsatisfactory.",
+      "zh": "这里是三级，表示表现不达标。"
+    },
+    {
+      "id": 138,
+      "start": 417.24,
+      "end": 418.4,
+      "en": "We should work on that with him.",
+      "zh": "我们应该帮他提高这方面的表现。"
+    },
+    {
+      "id": 139,
+      "start": 419.04,
+      "end": 420.16,
+      "en": "So confusing.",
+      "zh": "这也太复杂了。"
+    },
+    {
+      "id": 140,
+      "start": 420.16,
+      "end": 424.9,
+      "en": "In my day, we got an A or a B if we were doing well, and if we failed an exam, we would get an F.",
+      "zh": "在我的日子里，如果我们做得很好，我们得到了 A 或 A B，如果我们考试不及格，我们会得到一个 F。"
+    },
+    {
+      "id": 141,
+      "start": 425.52,
+      "end": 426.52,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 142,
+      "start": 429.73,
+      "end": 429.95,
+      "en": "We're back.",
+      "zh": "我们回来了。"
+    },
+    {
+      "id": 143,
+      "start": 430.13,
+      "end": 432.83,
+      "en": "So now let's take a look at some phrases on Fluency Builder.",
+      "zh": "所以现在让我们看一下关于 Fluency Builder 的一些短语。"
+    },
+    {
+      "id": 144,
+      "start": 434.77,
+      "end": 435.47,
+      "en": "Fluency Builder.",
+      "zh": "流利表达。"
+    },
+    {
+      "id": 145,
+      "start": 436.62,
+      "end": 438.64,
+      "en": "You could have said, let's have a look, Marco.",
+      "zh": "你可以说，让我们看看，马可。"
+    },
+    {
+      "id": 146,
+      "start": 438.88,
+      "end": 441.1,
+      "en": "That's one of the key phrases in today's dialogue.",
+      "zh": "这是今天对话中的关键短语之一。"
+    },
+    {
+      "id": 147,
+      "start": 441.58,
+      "end": 441.9,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 148,
+      "start": 442.72,
+      "end": 445.64,
+      "en": "He, the dad, got the report card and he said, all right, let's have a look.",
+      "zh": "他，爸爸，拿到了成绩单，他说，好吧，让我们看看。"
+    },
+    {
+      "id": 149,
+      "start": 445.94,
+      "end": 451.68,
+      "en": "All right, this is a very common way to say, let's see, or let me look at that.",
+      "zh": "好吧，这是一种非常常见的表达方式，让我们看看，或者让我看看。"
+    },
+    {
+      "id": 150,
+      "start": 452.26,
+      "end": 453.56,
+      "en": "So let's have a look.",
+      "zh": "所以让我们看看。"
+    },
+    {
+      "id": 151,
+      "start": 453.74,
+      "end": 458.33,
+      "en": "Maybe it's just one person, me, but we still say this, let, let us.",
+      "zh": "也许这只是一个人，我，但我们仍然这么说，让，让我们。"
+    },
+    {
+      "id": 152,
+      "start": 458.85,
+      "end": 459.49,
+      "en": "So it's plural.",
+      "zh": "所以是复数。"
+    },
+    {
+      "id": 153,
+      "start": 459.79,
+      "end": 462.93,
+      "en": "It's very weird, but it just means let me look, let me see.",
+      "zh": "这很奇怪，但这只是意味着让我看看，让我看看。"
+    },
+    {
+      "id": 154,
+      "start": 463.68,
+      "end": 464.68,
+      "en": "And exactly.",
+      "zh": "和确切地说。"
+    },
+    {
+      "id": 155,
+      "start": 464.68,
+      "end": 472.45,
+      "en": "As you said, even though it's in plural and you may be by yourself or only you are going to look at something, people still say, let's have a look.",
+      "zh": "正如你所说，即使它是复数形式，你可能是一个人，或者只是你会看一些东西，人们仍然说，让我们看看。"
+    },
+    {
+      "id": 156,
+      "start": 472.84,
+      "end": 473.43,
+      "en": "Let's have a look here.",
+      "zh": "让我们在这里看看。"
+    },
+    {
+      "id": 157,
+      "start": 473.84,
+      "end": 478.76,
+      "en": "It means I want to look at this, so if I say, Hey, I just bought this new CD.",
+      "zh": "这意味着我想看看这个，所以如果我说，嘿，我刚买了这张新CD。"
+    },
+    {
+      "id": 158,
+      "start": 478.76,
+      "end": 479.76,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 159,
+      "start": 479.76,
+      "end": 481.32,
+      "en": "I can say, Hey, let's have a look.",
+      "zh": "我可以说，嘿，让我们看看。"
+    },
+    {
+      "id": 160,
+      "start": 481.7,
+      "end": 481.96,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 161,
+      "start": 482.56,
+      "end": 485.36,
+      "en": "And I could give it to Marco and he can look at the case and see who the musician is.",
+      "zh": "我可以把它给马可，他可以看看这个案子，看看音乐家是谁。"
+    },
+    {
+      "id": 162,
+      "start": 485.76,
+      "end": 485.98,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 163,
+      "start": 486.76,
+      "end": 487.76,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 164,
+      "start": 487.76,
+      "end": 496.44,
+      "en": "Now talking about one of the subjects in school, that means some of the classes that you have, we had science, we have history, and there's another one called physical education.",
+      "zh": "现在谈论学校中的一门学科，这意味着你上过的一些课程，我们有科学，我们有历史，还有另一种叫做体育教育。"
+    },
+    {
+      "id": 165,
+      "start": 496.98,
+      "end": 497.24,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 166,
+      "start": 497.24,
+      "end": 499.28,
+      "en": "So this is a class that has many different names.",
+      "zh": "所以这是一个有许多不同名称的类。"
+    },
+    {
+      "id": 167,
+      "start": 500.3,
+      "end": 503.02,
+      "en": "It's physical, so you know that it has to do with your body.",
+      "zh": "它是身体上的，所以你知道它与你的身体有关。"
+    },
+    {
+      "id": 168,
+      "start": 503.79,
+      "end": 509.51,
+      "en": "So basically it's sports class and you play sports like football, basketball, things like that.",
+      "zh": "所以基本上这是体育课，你参加足球、篮球之类的运动。"
+    },
+    {
+      "id": 169,
+      "start": 510.64,
+      "end": 511.64,
+      "en": "It's also called PE.",
+      "zh": "它也被称为PE。"
+    },
+    {
+      "id": 170,
+      "start": 511.64,
+      "end": 512.64,
+      "en": "PE for short.",
+      "zh": "简称PE。"
+    },
+    {
+      "id": 171,
+      "start": 512.64,
+      "end": 513.64,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 172,
+      "start": 513.64,
+      "end": 518.32,
+      "en": "Because remember physical in English starts with a P, PH, physical.",
+      "zh": "因为记住在英语中的物理开始是从 P、PH 开始的。"
+    },
+    {
+      "id": 173,
+      "start": 518.32,
+      "end": 524.32,
+      "en": "But this is what I was saying earlier, Marco, you can't give a person an A or a B in physical education.",
+      "zh": "但这就是我之前说的，马可，你不能给一个人体育教育A或B。"
+    },
+    {
+      "id": 174,
+      "start": 524.32,
+      "end": 524.71,
+      "en": "Well, you don't really.",
+      "zh": "好吧，你不是真的。"
+    },
+    {
+      "id": 175,
+      "start": 525.44,
+      "end": 530.8,
+      "en": "So normally students get satisfactory or unsatisfactory.",
+      "zh": "所以通常学生会感到满意或不满意。"
+    },
+    {
+      "id": 176,
+      "start": 530.8,
+      "end": 533.97,
+      "en": "Because usually it doesn't mean that you have to be very good at sports.",
+      "zh": "因为通常这并不意味着你必须非常擅长运动。"
+    },
+    {
+      "id": 177,
+      "start": 535.04,
+      "end": 536.95,
+      "en": "Sometimes it's just the effort counts.",
+      "zh": "有时只是努力很重要。"
+    },
+    {
+      "id": 178,
+      "start": 537.24,
+      "end": 547.8,
+      "en": "You may not be very good at soccer or football or basketball, but if you try really hard, you're running around and you're actually doing what you're supposed to be doing, then you get a satisfactory note.",
+      "zh": "你可能不太擅长足球、足球或篮球，但如果你真的很努力，你正在跑来跑去，你实际上是在做你应该做的事情，那么你会得到一个令人满意的音符。"
+    },
+    {
+      "id": 179,
+      "start": 547.8,
+      "end": 551.96,
+      "en": "It means, yeah, I mean, you're not the best player in the world, but you're doing what you're supposed to.",
+      "zh": "这意味着，是的，我的意思是，你不是世界上最好的球员，但你正在做你应该做的事情。"
+    },
+    {
+      "id": 180,
+      "start": 551.96,
+      "end": 552.96,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 181,
+      "start": 552.96,
+      "end": 553.17,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 182,
+      "start": 553.96,
+      "end": 561.76,
+      "en": "So now when the father was talking, he's like, oh, you know, I don't understand this report card in my day, we got an A or a B.",
+      "zh": "所以现在父亲说话的时候，他就像，哦，你知道，我当时不明白这张成绩单，我们得到了 A 或 A B。"
+    },
+    {
+      "id": 183,
+      "start": 562.31,
+      "end": 562.63,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 184,
+      "start": 562.76,
+      "end": 568.79,
+      "en": "So this is a common phrase that people say when they want to talk about when they were children or when they were growing up.",
+      "zh": "所以这是人们在小时候或长大时想谈论的常用短语。"
+    },
+    {
+      "id": 185,
+      "start": 569.03,
+      "end": 574.05,
+      "en": "So older people often say, oh, in my day, things were different.",
+      "zh": "所以年长的人经常说，哦，在我的时代，情况有所不同。"
+    },
+    {
+      "id": 186,
+      "start": 574.47,
+      "end": 578.79,
+      "en": "So this is a way to make a comparison between now and the past.",
+      "zh": "所以这是一种比较现在和过去的方法。"
+    },
+    {
+      "id": 187,
+      "start": 579.19,
+      "end": 579.51,
+      "en": "Yeah, right.",
+      "zh": "是啊，可不是嘛。"
+    },
+    {
+      "id": 188,
+      "start": 580.0,
+      "end": 588.88,
+      "en": "So you're basically saying when I was a child or many years ago, this was what happened or this is how it used to be.",
+      "zh": "所以你基本上是在说当我还是个孩子的时候，这就是发生的事情，或者这就是过去的样子。"
+    },
+    {
+      "id": 189,
+      "start": 588.88,
+      "end": 591.83,
+      "en": "In my day, school was much more difficult.",
+      "zh": "在我的时代，学校要困难得多。"
+    },
+    {
+      "id": 190,
+      "start": 592.23,
+      "end": 594.41,
+      "en": "Today, it's very, very easy.",
+      "zh": "今天，它非常非常容易。"
+    },
+    {
+      "id": 191,
+      "start": 594.92,
+      "end": 595.09,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 192,
+      "start": 595.92,
+      "end": 600.93,
+      "en": "So this is how you start this comparison between the time when you were a child to now.",
+      "zh": "所以这就是你从小到现在的时间开始这种比较的方式。"
+    },
+    {
+      "id": 193,
+      "start": 601.28,
+      "end": 602.28,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 194,
+      "start": 602.28,
+      "end": 602.43,
+      "en": "In my day.",
+      "zh": "在我的日子里。"
+    },
+    {
+      "id": 195,
+      "start": 603.28,
+      "end": 604.28,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 196,
+      "start": 604.28,
+      "end": 608.72,
+      "en": "And to finish off, we're going to talk about failing an exam because obviously sometimes you do fail.",
+      "zh": "最后，我们将谈论考试不及格，因为显然有时您确实会失败。"
+    },
+    {
+      "id": 197,
+      "start": 608.72,
+      "end": 609.12,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 198,
+      "start": 609.72,
+      "end": 613.84,
+      "en": "So when you fail, fail an exam, you get a very bad grade, an F.",
+      "zh": "所以当你不及格，考试不及格，你的成绩很差，一个f。"
+    },
+    {
+      "id": 199,
+      "start": 613.84,
+      "end": 614.84,
+      "en": "An F.",
+      "zh": "一个 F。"
+    },
+    {
+      "id": 200,
+      "start": 614.84,
+      "end": 615.84,
+      "en": "So F for fail.",
+      "zh": "所以f代表失败。"
+    },
+    {
+      "id": 201,
+      "start": 615.84,
+      "end": 616.44,
+      "en": "It's easy to remember.",
+      "zh": "很容易记住。"
+    },
+    {
+      "id": 202,
+      "start": 617.36,
+      "end": 618.36,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 203,
+      "start": 618.36,
+      "end": 623.72,
+      "en": "So you say, you can say I didn't pass the exam, but you can also say I failed the exam.",
+      "zh": "所以你说，你可以说我没有通过考试，但你也可以说我没有通过考试。"
+    },
+    {
+      "id": 204,
+      "start": 623.72,
+      "end": 624.72,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 205,
+      "start": 624.72,
+      "end": 629.64,
+      "en": "And normally fail means you received less than 60%.",
+      "zh": "通常失败意味着您收到的少于 60%。"
+    },
+    {
+      "id": 206,
+      "start": 630.48,
+      "end": 630.6,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 207,
+      "start": 631.48,
+      "end": 631.84,
+      "en": "Or 50%.",
+      "zh": "或 50%。"
+    },
+    {
+      "id": 208,
+      "start": 632.48,
+      "end": 634.28,
+      "en": "So it's, yeah, 50%.",
+      "zh": "所以，是的，50%。"
+    },
+    {
+      "id": 209,
+      "start": 634.28,
+      "end": 641.63,
+      "en": "So basically you missed, if there are 10 questions on the exam, you missed five or six or seven or all the way to 10 of them.",
+      "zh": "所以基本上你错过了，如果考试有 10 个问题，你错过了 5 或 6 个或 7 个，或者一路到 10 个。"
+    },
+    {
+      "id": 210,
+      "start": 641.88,
+      "end": 644.27,
+      "en": "So you missed more than half of the questions.",
+      "zh": "所以你错过了一半以上的问题。"
+    },
+    {
+      "id": 211,
+      "start": 644.59,
+      "end": 644.93,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 212,
+      "start": 645.25,
+      "end": 646.23,
+      "en": "And it's not only for school.",
+      "zh": "它不仅适用于学校。"
+    },
+    {
+      "id": 213,
+      "start": 646.23,
+      "end": 652.29,
+      "en": "For example, your driver's exam, when you're going to get your driver's license, you can also pass or fail that exam.",
+      "zh": "例如，您的驾驶员考试，当您要获得驾驶执照时，您也可以通过或不通过该考试。"
+    },
+    {
+      "id": 214,
+      "start": 652.51,
+      "end": 655.47,
+      "en": "And if you fail the exam, you have to take it again.",
+      "zh": "如果考试不及格，你必须再参加一次。"
+    },
+    {
+      "id": 215,
+      "start": 656.41,
+      "end": 656.97,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 216,
+      "start": 657.23,
+      "end": 660.73,
+      "en": "So that's all the fluency builder words we have for you today.",
+      "zh": "这就是我们今天为您提供的所有 Fluency Builder 词语。"
+    },
+    {
+      "id": 217,
+      "start": 660.97,
+      "end": 663.11,
+      "en": "Let's take a look at them again and we'll be right back.",
+      "zh": "让我们再看看它们，我们会马上回来的。"
+    },
+    {
+      "id": 218,
+      "start": 670.22,
+      "end": 671.82,
+      "en": "Look, Jimmy's report card came today.",
+      "zh": "看，吉米的成绩单今天来了。"
+    },
+    {
+      "id": 219,
+      "start": 672.68,
+      "end": 673.38,
+      "en": "Let's have a look.",
+      "zh": "我们来看看。"
+    },
+    {
+      "id": 220,
+      "start": 674.04,
+      "end": 674.68,
+      "en": "What is this?",
+      "zh": "这是什么？"
+    },
+    {
+      "id": 221,
+      "start": 675.2,
+      "end": 677.04,
+      "en": "Where are all the grades?",
+      "zh": "分数都在哪儿？"
+    },
+    {
+      "id": 222,
+      "start": 677.04,
+      "end": 678.28,
+      "en": "He's in the third grade, Sam.",
+      "zh": "他在三年级，山姆。"
+    },
+    {
+      "id": 223,
+      "start": 679.12,
+      "end": 683.44,
+      "en": "You see, under each subject that he's being taught in school, he receives a mark from one to three.",
+      "zh": "你看，学校的每门课程下面都会给他一个一到三级的评价。"
+    },
+    {
+      "id": 224,
+      "start": 684.3,
+      "end": 686.84,
+      "en": "A one means his achievement or work is excellent.",
+      "zh": "一级表示他的成绩或表现优秀。"
+    },
+    {
+      "id": 225,
+      "start": 687.82,
+      "end": 691.42,
+      "en": "Here in science, for example, he got a two, which means it's satisfactory.",
+      "zh": "比如科学课，他得了二级，表示表现令人满意。"
+    },
+    {
+      "id": 226,
+      "start": 692.68,
+      "end": 694.2,
+      "en": "What about here in physical education?",
+      "zh": "那体育课这一项呢？"
+    },
+    {
+      "id": 227,
+      "start": 694.6,
+      "end": 697.74,
+      "en": "He got a three here, which means it's unsatisfactory.",
+      "zh": "这里是三级，表示表现不达标。"
+    },
+    {
+      "id": 228,
+      "start": 698.84,
+      "end": 699.98,
+      "en": "We should work on that with him.",
+      "zh": "我们应该帮他提高这方面的表现。"
+    },
+    {
+      "id": 229,
+      "start": 700.64,
+      "end": 701.0,
+      "en": "So confusing.",
+      "zh": "这也太复杂了。"
+    },
+    {
+      "id": 230,
+      "start": 701.64,
+      "end": 704.48,
+      "en": "In my day, we got an A or a B if we were doing well.",
+      "zh": "在我的日子里，如果我们做得很好，我们得到了 A 或 A B。"
+    },
+    {
+      "id": 231,
+      "start": 704.48,
+      "end": 706.46,
+      "en": "And if we failed an exam, we would get an F.",
+      "zh": "如果考试不及格，我们会得到一个F。"
+    },
+    {
+      "id": 232,
+      "start": 710.54,
+      "end": 711.08,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 233,
+      "start": 711.36,
+      "end": 712.64,
+      "en": "So big question, Marco.",
+      "zh": "这么大的问题，马可。"
+    },
+    {
+      "id": 234,
+      "start": 712.88,
+      "end": 714.82,
+      "en": "When you were a student, did you get good grades?",
+      "zh": "当你还是学生的时候，你取得好成绩了吗？"
+    },
+    {
+      "id": 235,
+      "start": 715.6,
+      "end": 719.28,
+      "en": "I got good grades, but not great grades.",
+      "zh": "我的成绩很好，但成绩不是很好。"
+    },
+    {
+      "id": 236,
+      "start": 719.76,
+      "end": 725.7,
+      "en": "I was always the type of student that paid attention in class, did my homework, but never studied.",
+      "zh": "我一直是那种在课堂上关注的学生，做作业，但从未学习过。"
+    },
+    {
+      "id": 237,
+      "start": 726.72,
+      "end": 728.84,
+      "en": "Ah, so you did not study for the tests.",
+      "zh": "啊，所以你没有为考试而学习。"
+    },
+    {
+      "id": 238,
+      "start": 729.0,
+      "end": 733.1,
+      "en": "No, but that's why I never got an A, for example, or an A plus.",
+      "zh": "不，但这就是为什么我从来没有得到 A 或 A 加号的原因。"
+    },
+    {
+      "id": 239,
+      "start": 733.54,
+      "end": 738.7,
+      "en": "But I always got a B. So I was that type of just more chilled type of student.",
+      "zh": "但我总是得到 B。所以我就是那种更冷酷的学生。"
+    },
+    {
+      "id": 240,
+      "start": 739.72,
+      "end": 741.38,
+      "en": "You like to be in the middle.",
+      "zh": "你喜欢在中间。"
+    },
+    {
+      "id": 241,
+      "start": 741.78,
+      "end": 741.92,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 242,
+      "start": 742.1,
+      "end": 743.14,
+      "en": "Well, this was the thing.",
+      "zh": "嗯，这就是事情。"
+    },
+    {
+      "id": 243,
+      "start": 743.36,
+      "end": 751.14,
+      "en": "I didn't like to pay attention in class, so that was different because I would pay attention, I would take some notes, but then I would just remember everything.",
+      "zh": "我不喜欢在课堂上关注，所以那是不同的，因为我会注意，我会做一些笔记，但我会记住一切。"
+    },
+    {
+      "id": 244,
+      "start": 751.14,
+      "end": 752.74,
+      "en": "So I did all right for the exam.",
+      "zh": "所以我在考试中做得很好。"
+    },
+    {
+      "id": 245,
+      "start": 752.84,
+      "end": 756.2,
+      "en": "I didn't really have to study.",
+      "zh": "我真的不需要学习。"
+    },
+    {
+      "id": 246,
+      "start": 756.2,
+      "end": 758.75,
+      "en": "But sometimes in other subjects I did, I really liked them.",
+      "zh": "但有时在我做的其他科目中，我真的很喜欢它们。"
+    },
+    {
+      "id": 247,
+      "start": 758.88,
+      "end": 759.88,
+      "en": "So it wasn't studying.",
+      "zh": "所以它没有学习。"
+    },
+    {
+      "id": 248,
+      "start": 759.88,
+      "end": 760.79,
+      "en": "It was more fun for me.",
+      "zh": "这对我来说更有趣。"
+    },
+    {
+      "id": 249,
+      "start": 760.92,
+      "end": 762.27,
+      "en": "So then I would get great grades.",
+      "zh": "那么我会得到很好的成绩。"
+    },
+    {
+      "id": 250,
+      "start": 762.61,
+      "end": 763.45,
+      "en": "What about you?",
+      "zh": "你呢？"
+    },
+    {
+      "id": 251,
+      "start": 764.96,
+      "end": 766.55,
+      "en": "I always studied for tests.",
+      "zh": "我一直在学习考试。"
+    },
+    {
+      "id": 252,
+      "start": 767.72,
+      "end": 768.73,
+      "en": "Generally my grades were pretty good.",
+      "zh": "总的来说，我的成绩相当不错。"
+    },
+    {
+      "id": 253,
+      "start": 768.92,
+      "end": 772.24,
+      "en": "Now something that we didn't talk about here is a GPA.",
+      "zh": "现在我们在这里没有谈论的是 GPA。"
+    },
+    {
+      "id": 254,
+      "start": 772.24,
+      "end": 775.65,
+      "en": "This is something that is very popular in the United States.",
+      "zh": "这是在美国非常流行的东西。"
+    },
+    {
+      "id": 255,
+      "start": 776.32,
+      "end": 780.92,
+      "en": "Basically even if you want to apply for schools, your GPA is what counts.",
+      "zh": "基本上，即使您想申请学校，您的 GPA 也是最重要的。"
+    },
+    {
+      "id": 256,
+      "start": 780.92,
+      "end": 781.34,
+      "en": "What is a GPA?",
+      "zh": "什么是GPA？"
+    },
+    {
+      "id": 257,
+      "start": 781.92,
+      "end": 782.92,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 258,
+      "start": 782.92,
+      "end": 788.04,
+      "en": "Well, we don't really have a GPA until high school, and then it's in high school and college.",
+      "zh": "好吧，我们直到高中才真正拥有 GPA，然后是高中和大学。"
+    },
+    {
+      "id": 259,
+      "start": 788.04,
+      "end": 793.08,
+      "en": "And GPA stands for G-Grade P-Point A-Average.",
+      "zh": "GPA 代表 G 级 P 点 A 平均值。"
+    },
+    {
+      "id": 260,
+      "start": 793.12,
+      "end": 794.26,
+      "en": "So grade point average.",
+      "zh": "所以平均成绩。"
+    },
+    {
+      "id": 261,
+      "start": 794.84,
+      "end": 797.8,
+      "en": "That means we take all of our marks or all of our grades together.",
+      "zh": "这意味着我们将所有分数或所有成绩放在一起。"
+    },
+    {
+      "id": 262,
+      "start": 798.14,
+      "end": 802.78,
+      "en": "So science grade, English grade, history grade, and we make an average.",
+      "zh": "所以科学成绩，英语成绩，历史成绩，我们做一个平均水平。"
+    },
+    {
+      "id": 263,
+      "start": 803.64,
+      "end": 811.24,
+      "en": "So if I get mostly A's, my GPA is 4.0.",
+      "zh": "因此，如果我主要获得 A，我的 GPA 是 4.0。"
+    },
+    {
+      "id": 264,
+      "start": 811.24,
+      "end": 814.8,
+      "en": "If I get mostly B's, my GPA is 3.0.",
+      "zh": "如果我主要得到 B，我的 GPA 是 3.0。"
+    },
+    {
+      "id": 265,
+      "start": 814.8,
+      "end": 816.28,
+      "en": "And then it goes lower and lower.",
+      "zh": "然后它越来越低。"
+    },
+    {
+      "id": 266,
+      "start": 816.28,
+      "end": 822.27,
+      "en": "And if you have a really bad GPA, like a 1, you probably won't finish high school.",
+      "zh": "如果你的 GPA 非常糟糕，比如 1，你可能不会读完高中。"
+    },
+    {
+      "id": 267,
+      "start": 822.56,
+      "end": 827.04,
+      "en": "Now the GPA is very important for many reasons.",
+      "zh": "现在 GPA 非常重要，原因有很多。"
+    },
+    {
+      "id": 268,
+      "start": 827.04,
+      "end": 833.84,
+      "en": "First of all, because it's also kind of a summary of your application to universities, right?",
+      "zh": "首先，因为它也是对大学申请的一种总结，对吧？"
+    },
+    {
+      "id": 269,
+      "start": 834.6,
+      "end": 835.1,
+      "en": "They take a look at your GPA.",
+      "zh": "他们看看你的 GPA。"
+    },
+    {
+      "id": 270,
+      "start": 835.6,
+      "end": 835.96,
+      "en": "Absolutely.",
+      "zh": "当然。"
+    },
+    {
+      "id": 271,
+      "start": 836.02,
+      "end": 841.14,
+      "en": "So this is a way to say, okay, how is this student overall?",
+      "zh": "所以这是一种说，好吧，这个学生的整体情况如何？"
+    },
+    {
+      "id": 272,
+      "start": 841.68,
+      "end": 846.02,
+      "en": "How is this student in all of her classes, not just one class?",
+      "zh": "这个学生在她所有的班级中的情况如何，而不仅仅是一堂课？"
+    },
+    {
+      "id": 273,
+      "start": 846.3,
+      "end": 846.46,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 274,
+      "start": 847.32,
+      "end": 851.12,
+      "en": "And then they see if you have a 3.5, they say, oh, well, it's pretty good.",
+      "zh": "然后他们看看你是否有 3.5，他们说，哦，好吧，这很好。"
+    },
+    {
+      "id": 275,
+      "start": 851.12,
+      "end": 852.36,
+      "en": "Yeah, 3.5 is good.",
+      "zh": "是的，3.5很好。"
+    },
+    {
+      "id": 276,
+      "start": 852.47,
+      "end": 853.03,
+      "en": "4 is the best.",
+      "zh": "4是最好的。"
+    },
+    {
+      "id": 277,
+      "start": 853.88,
+      "end": 857.24,
+      "en": "And again, a 3 is good, it's okay.",
+      "zh": "再说一次，3 是好的，没关系。"
+    },
+    {
+      "id": 278,
+      "start": 857.24,
+      "end": 858.71,
+      "en": "But a 2 or a 1 is not very good.",
+      "zh": "但是 2 或 1 不是很好。"
+    },
+    {
+      "id": 279,
+      "start": 858.96,
+      "end": 859.15,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 280,
+      "start": 859.96,
+      "end": 865.04,
+      "en": "So it's very interesting because all around the world, they have different grading systems.",
+      "zh": "所以这很有趣，因为在世界各地，它们都有不同的评分系统。"
+    },
+    {
+      "id": 281,
+      "start": 865.04,
+      "end": 871.87,
+      "en": "I think I would say that the United States is the only place where I've seen that they use the A, B, C, D, F system.",
+      "zh": "我想我会说美国是我见过的唯一一个使用 A、B、C、D、F 系统的地方。"
+    },
+    {
+      "id": 282,
+      "start": 873.12,
+      "end": 876.89,
+      "en": "In Latin American countries, for example, they don't do it over 100, they do it over 10.",
+      "zh": "例如，在拉丁美洲国家，他们没有超过 100 人，他们这样做超过 10。"
+    },
+    {
+      "id": 283,
+      "start": 877.52,
+      "end": 879.48,
+      "en": "So you would get a grade over 10.",
+      "zh": "所以你会得到一个超过10的年级。"
+    },
+    {
+      "id": 284,
+      "start": 879.48,
+      "end": 881.31,
+      "en": "Or in some countries, over 20.",
+      "zh": "或者在一些国家，超过20。"
+    },
+    {
+      "id": 285,
+      "start": 881.89,
+      "end": 882.47,
+      "en": "I've seen that as well.",
+      "zh": "我也见过。"
+    },
+    {
+      "id": 286,
+      "start": 882.8,
+      "end": 883.8,
+      "en": "In Italy, it's not.",
+      "zh": "在意大利，不是。"
+    },
+    {
+      "id": 287,
+      "start": 883.8,
+      "end": 884.09,
+      "en": "It's over 20.",
+      "zh": "已经超过20了。"
+    },
+    {
+      "id": 288,
+      "start": 884.8,
+      "end": 887.8,
+      "en": "So you would get a 14, I think, would be a passing grade over 20.",
+      "zh": "所以我认为，你会得到一个超过 20 的 14 分。"
+    },
+    {
+      "id": 289,
+      "start": 888.33,
+      "end": 892.07,
+      "en": "Well, let us know, listeners, if you have a different grading system in your country.",
+      "zh": "好吧，如果您在您的国家/地区有不同的评分系统，请告诉我们，听众。"
+    },
+    {
+      "id": 290,
+      "start": 892.45,
+      "end": 895.39,
+      "en": "Also, you can let us know how were your grades when you're studying in school.",
+      "zh": "此外，您可以在学校学习时告诉我们您的成绩如何。"
+    },
+    {
+      "id": 291,
+      "start": 895.87,
+      "end": 898.81,
+      "en": "You don't have to tell us, but we'd like to talk to you about grades.",
+      "zh": "你不必告诉我们，但我们想和你谈谈成绩。"
+    },
+    {
+      "id": 292,
+      "start": 899.36,
+      "end": 900.8,
+      "en": "Our website is EnglishPod.com.",
+      "zh": "我们的网站是 EnglishPod.com。"
+    },
+    {
+      "id": 293,
+      "start": 901.29,
+      "end": 901.45,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 294,
+      "start": 901.57,
+      "end": 902.09,
+      "en": "We'll see you guys there.",
+      "zh": "到时候在那里见。"
+    },
+    {
+      "id": 295,
+      "start": 902.33,
+      "end": 902.47,
+      "en": "Bye.",
+      "zh": "再见。"
+    }
+  ],
+  "dialog": {
+    "start": 39.15,
+    "end": 75.37,
+    "segmentIds": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+    ]
+  }
+}

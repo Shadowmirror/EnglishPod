@@ -1,0 +1,1773 @@
+{
+  "version": 1,
+  "id": 173,
+  "number": "0173",
+  "title": "The Office - Preparing a Budget",
+  "audio": "mp3/173. The Office - Preparing a Budget.mp3",
+  "duration": 775.8628125,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.99,
+      "en": "Hello everyone and welcome back to EnglishPod.",
+      "zh": "大家好，欢迎回到 EnglishPod。"
+    },
+    {
+      "id": 2,
+      "start": 5.21,
+      "end": 5.63,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 6.21,
+      "end": 11.07,
+      "en": "And my name is Catherine and today we have an upper intermediate level lesson all about money.",
+      "zh": "我的名字是凯瑟琳，今天我们有一个关于金钱的高中级课程。"
+    },
+    {
+      "id": 4,
+      "start": 11.51,
+      "end": 11.95,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 5,
+      "start": 12.21,
+      "end": 17.37,
+      "en": "We are going to be talking about money but most importantly we need to start saving money.",
+      "zh": "我们将谈论金钱，但最重要的是我们需要开始存钱。"
+    },
+    {
+      "id": 6,
+      "start": 17.55,
+      "end": 18.51,
+      "en": "We need to spend less.",
+      "zh": "我们需要少花钱。"
+    },
+    {
+      "id": 7,
+      "start": 19.15,
+      "end": 19.37,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 8,
+      "start": 19.79,
+      "end": 24.23,
+      "en": "So, in order to control spending today we're talking about budgeting.",
+      "zh": "所以，为了控制今天的支出，我们谈论的是预算。"
+    },
+    {
+      "id": 9,
+      "start": 24.37,
+      "end": 27.73,
+      "en": "So let's take a look at this very important word in today's vocabulary preview.",
+      "zh": "所以让我们来看看今天词汇预览中这个非常重要的词。"
+    },
+    {
+      "id": 10,
+      "start": 30.56,
+      "end": 35.76,
+      "en": "Alright, so as you mentioned, budgeting is, what is to budget?",
+      "zh": "好吧，正如你提到的，预算是，预算是什么？"
+    },
+    {
+      "id": 11,
+      "start": 35.76,
+      "end": 36.76,
+      "en": "To budget, that's the verb.",
+      "zh": "预算，这是动词。"
+    },
+    {
+      "id": 12,
+      "start": 37.04,
+      "end": 42.24,
+      "en": "So budgeting is deciding how to spend your money, okay?",
+      "zh": "所以预算是决定如何花钱，好吗？"
+    },
+    {
+      "id": 13,
+      "start": 42.24,
+      "end": 45.62,
+      "en": "So that means that we prepare a plan for how to spend money.",
+      "zh": "所以这意味着我们准备了一个如何花钱的计划。"
+    },
+    {
+      "id": 14,
+      "start": 46.1,
+      "end": 47.94,
+      "en": "Alright, so that can be a noun and a verb.",
+      "zh": "好吧，所以这可以是名词和动词。"
+    },
+    {
+      "id": 15,
+      "start": 48.12,
+      "end": 53.84,
+      "en": "A budget is the plan on how you're going to spend money and to budget is to execute this plan.",
+      "zh": "预算是关于如何花钱和预算的计划是执行这个计划。"
+    },
+    {
+      "id": 16,
+      "start": 54.56,
+      "end": 55.56,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 17,
+      "start": 55.56,
+      "end": 59.26,
+      "en": "So, today we're budgeting a family's spending.",
+      "zh": "所以，今天我们正在预算一个家庭的支出。"
+    },
+    {
+      "id": 18,
+      "start": 59.26,
+      "end": 62.11,
+      "en": "We're trying to control how much this family will spend in the future.",
+      "zh": "我们正在努力控制这个家庭将来会花多少钱。"
+    },
+    {
+      "id": 19,
+      "start": 62.37,
+      "end": 63.19,
+      "en": "Alright, very good.",
+      "zh": "好，很好。"
+    },
+    {
+      "id": 20,
+      "start": 63.71,
+      "end": 66.31,
+      "en": "So why don't we listen to this dialogue for the first time.",
+      "zh": "那么我们为什么不第一次听这个对话。"
+    },
+    {
+      "id": 21,
+      "start": 73.64,
+      "end": 75.36,
+      "en": "Welcome Mr. and Mrs. Carnwell.",
+      "zh": "欢迎卡恩威尔先生和夫人。"
+    },
+    {
+      "id": 22,
+      "start": 75.36,
+      "end": 75.82,
+      "en": "Please take a seat.",
+      "zh": "请坐。"
+    },
+    {
+      "id": 23,
+      "start": 76.36,
+      "end": 76.56,
+      "en": "Thank you.",
+      "zh": "谢谢。"
+    },
+    {
+      "id": 24,
+      "start": 77.61,
+      "end": 81.97,
+      "en": "So, I understand that your family spending has skyrocketed and you want to start budgeting.",
+      "zh": "我了解到，你们家的开销大幅增加，所以想开始做收支预算。"
+    },
+    {
+      "id": 25,
+      "start": 82.21,
+      "end": 83.05,
+      "en": "Yes, that's correct.",
+      "zh": "对，没错。"
+    },
+    {
+      "id": 26,
+      "start": 83.71,
+      "end": 93.09,
+      "en": "Frankly speaking, our household income is relatively high and we have never had any money problems, but I think this is the main reason as to why our spending has gone out of control.",
+      "zh": "坦率地说，我们的家庭收入相对较高，我们从未遇到过任何金钱问题，但我认为这是我们支出失控的主要原因。"
+    },
+    {
+      "id": 27,
+      "start": 93.73,
+      "end": 99.55,
+      "en": "We have two kids and with allowances paying their credit cards, ours, and not to mention our mortgage and car payments.",
+      "zh": "我们有两个孩子，要给他们零花钱，还要还他们和我们自己的信用卡账单，更不用说房贷和车贷了。"
+    },
+    {
+      "id": 28,
+      "start": 100.21,
+      "end": 107.13,
+      "en": "With the recent economic downturn, my husband's business has suffered and now we need some advice as how we can prepare a family budget.",
+      "zh": "随着最近的经济下滑，我丈夫的生意受到了影响，现在我们需要一些关于如何准备家庭预算的建议。"
+    },
+    {
+      "id": 29,
+      "start": 107.65,
+      "end": 107.99,
+      "en": "I see.",
+      "zh": "我明白了。"
+    },
+    {
+      "id": 30,
+      "start": 108.47,
+      "end": 110.15,
+      "en": "Well, you have come to the right place.",
+      "zh": "好吧，你来对地方了。"
+    },
+    {
+      "id": 31,
+      "start": 110.87,
+      "end": 113.75,
+      "en": "First, what we need to do is determine your cash flow.",
+      "zh": "首先，我们需要做的是确定您的现金流。"
+    },
+    {
+      "id": 32,
+      "start": 114.47,
+      "end": 121.63,
+      "en": "Knowing how much money is coming in will help us allocate spending to different categories such as mortgage, education, groceries, etc.",
+      "zh": "知道有多少钱可以帮助我们将支出分配到抵押贷款、教育、杂货等不同类别。"
+    },
+    {
+      "id": 33,
+      "start": 122.08,
+      "end": 123.02,
+      "en": "Yes, that makes sense.",
+      "zh": "是的，这是有道理的。"
+    },
+    {
+      "id": 34,
+      "start": 123.8,
+      "end": 128.6,
+      "en": "Secondly, I need you to bring all of your receipts for the last two to three months.",
+      "zh": "其次，我需要你把过去两到三个月的所有收据都带上。"
+    },
+    {
+      "id": 35,
+      "start": 128.6,
+      "end": 134.22,
+      "en": "That way we can determine what your average expenditures are and see which category you are spending money on the most.",
+      "zh": "这样我们就可以确定您的平均支出是多少，并查看您最多花钱的类别。"
+    },
+    {
+      "id": 36,
+      "start": 134.96,
+      "end": 143.72,
+      "en": "Usually, your fixed costs are higher and we can't do much about that, but we can usually trim your variable costs such as entertainment or clothing.",
+      "zh": "通常，您的固定成本更高，我们对此无能为力，但我们通常可以削减您的可变成本，例如娱乐或服装。"
+    },
+    {
+      "id": 37,
+      "start": 143.72,
+      "end": 144.72,
+      "en": "Great!",
+      "zh": "太棒了！"
+    },
+    {
+      "id": 38,
+      "start": 144.72,
+      "end": 145.24,
+      "en": "We will do that then.",
+      "zh": "那我们会这样做。"
+    },
+    {
+      "id": 39,
+      "start": 146.12,
+      "end": 148.2,
+      "en": "Now how about we treat you to a nice dinner?",
+      "zh": "现在我们请您吃一顿丰盛的晚餐怎么样？"
+    },
+    {
+      "id": 40,
+      "start": 149.4,
+      "end": 149.95,
+      "en": "That's another thing.",
+      "zh": "那是另一回事。"
+    },
+    {
+      "id": 41,
+      "start": 150.4,
+      "end": 155.41,
+      "en": "If you really want to stop spending so much money, throw away at least half of your credit cards.",
+      "zh": "如果你真的想停止花这么多钱，就把至少一半的信用卡扔掉。"
+    },
+    {
+      "id": 42,
+      "start": 158.77,
+      "end": 159.67,
+      "en": "Alright, we're back.",
+      "zh": "好了，我们回来了。"
+    },
+    {
+      "id": 43,
+      "start": 160.0,
+      "end": 168.11,
+      "en": "So there were some interesting words and phrases in this dialogue related to budgeting and a lot of financial terms here.",
+      "zh": "因此，在这个对话中有一些有趣的单词和短语与预算编制和许多财务术语有关。"
+    },
+    {
+      "id": 44,
+      "start": 168.17,
+      "end": 170.87,
+      "en": "So let's get started now on Language Takeaway.",
+      "zh": "所以让我们现在开始学习语言外卖。"
+    },
+    {
+      "id": 45,
+      "start": 173.36,
+      "end": 175.28,
+      "en": "Language Takeaway",
+      "zh": "语言要点"
+    },
+    {
+      "id": 46,
+      "start": 175.28,
+      "end": 179.17,
+      "en": "This first term is very important because it tells us what kind of a budget we're talking about.",
+      "zh": "第一个学期非常重要，因为它告诉我们我们正在谈论什么样的预算。"
+    },
+    {
+      "id": 47,
+      "start": 179.96,
+      "end": 181.07,
+      "en": "We're not talking about a company here.",
+      "zh": "我们在这里不是在谈论一家公司。"
+    },
+    {
+      "id": 48,
+      "start": 181.24,
+      "end": 182.19,
+      "en": "We're talking about a family.",
+      "zh": "我们在谈论一个家庭。"
+    },
+    {
+      "id": 49,
+      "start": 182.88,
+      "end": 186.24,
+      "en": "And so in this case, we use the phrase household.",
+      "zh": "因此，在这种情况下，我们使用 house 一词。"
+    },
+    {
+      "id": 50,
+      "start": 186.24,
+      "end": 187.37,
+      "en": "So what are we talking about?",
+      "zh": "那我们在说什么？"
+    },
+    {
+      "id": 51,
+      "start": 188.44,
+      "end": 189.44,
+      "en": "Household income.",
+      "zh": "家庭收入。"
+    },
+    {
+      "id": 52,
+      "start": 189.44,
+      "end": 198.0,
+      "en": "Alright, so income we know is the amount of money that comes in to maybe your wallet, my income, my personal income.",
+      "zh": "好吧，所以我们知道的收入可能是你的钱包、我的收入、我的个人收入的金额。"
+    },
+    {
+      "id": 53,
+      "start": 198.0,
+      "end": 199.32,
+      "en": "That's how much money you earn.",
+      "zh": "这就是你赚了多少钱。"
+    },
+    {
+      "id": 54,
+      "start": 200.36,
+      "end": 203.42,
+      "en": "So a household income is how much money the house earns.",
+      "zh": "所以家庭收入是房子能赚多少钱。"
+    },
+    {
+      "id": 55,
+      "start": 203.72,
+      "end": 206.72,
+      "en": "So all the people that are living in this house, right?",
+      "zh": "所以所有住在这所房子里的人，对吧？"
+    },
+    {
+      "id": 56,
+      "start": 206.72,
+      "end": 206.84,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 57,
+      "start": 207.72,
+      "end": 208.72,
+      "en": "So it could be a family.",
+      "zh": "所以它可能是一个家庭。"
+    },
+    {
+      "id": 58,
+      "start": 208.72,
+      "end": 210.26,
+      "en": "It could be two married people who are married to each other.",
+      "zh": "可能是两个已婚的人结婚。"
+    },
+    {
+      "id": 59,
+      "start": 210.6,
+      "end": 213.2,
+      "en": "So the idea is that it's not one person's income.",
+      "zh": "所以这个想法是这不是一个人的收入。"
+    },
+    {
+      "id": 60,
+      "start": 213.44,
+      "end": 214.7,
+      "en": "It's the household income.",
+      "zh": "这是家庭收入。"
+    },
+    {
+      "id": 61,
+      "start": 215.0,
+      "end": 216.0,
+      "en": "Think of a house.",
+      "zh": "想想房子。"
+    },
+    {
+      "id": 62,
+      "start": 216.0,
+      "end": 221.52,
+      "en": "Alright, so it's the combined income of everyone that's living there or that's making money that lives in this house.",
+      "zh": "好吧，所以这是住在那里的每个人的总收入，或者是在这所房子里赚钱的人的总收入。"
+    },
+    {
+      "id": 63,
+      "start": 221.52,
+      "end": 222.52,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 64,
+      "start": 222.52,
+      "end": 226.24,
+      "en": "So if Marco and I have a household, I earn $10,000 and he earns $10,000.",
+      "zh": "所以如果马可和我有一个家庭，我赚 10,000 美元，他的收入是 10,000 美元。"
+    },
+    {
+      "id": 65,
+      "start": 226.24,
+      "end": 229.08,
+      "en": "Our household income is $20,000.",
+      "zh": "我们的家庭收入是 20,000 美元。"
+    },
+    {
+      "id": 66,
+      "start": 229.08,
+      "end": 229.29,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 67,
+      "start": 230.08,
+      "end": 231.08,
+      "en": "Alright.",
+      "zh": "好的。"
+    },
+    {
+      "id": 68,
+      "start": 231.08,
+      "end": 238.66,
+      "en": "So now we know what our household income is and in this case we have children and we give our kids an allowance.",
+      "zh": "所以现在我们知道我们的家庭收入是多少，在这种情况下，我们有孩子，我们给我们的孩子一个津贴。"
+    },
+    {
+      "id": 69,
+      "start": 239.48,
+      "end": 241.96,
+      "en": "Okay so I had an allowance when I was a kid.",
+      "zh": "好吧，我小时候有津贴。"
+    },
+    {
+      "id": 70,
+      "start": 242.24,
+      "end": 245.72,
+      "en": "This is the amount of money I got from my parents every week.",
+      "zh": "这是我每周从父母那里得到的钱。"
+    },
+    {
+      "id": 71,
+      "start": 246.14,
+      "end": 254.49,
+      "en": "So I get I think $10 a week and I could spend it on anything I wanted and I didn't have to work because my parents gave the money to me.",
+      "zh": "所以我每周得到 10 美元，我可以把它花在我想要的任何东西上，而且我不必工作，因为我的父母把钱给了我。"
+    },
+    {
+      "id": 72,
+      "start": 254.93,
+      "end": 256.43,
+      "en": "And so an allowance is this money.",
+      "zh": "所以津贴就是这笔钱。"
+    },
+    {
+      "id": 73,
+      "start": 256.63,
+      "end": 260.91,
+      "en": "It's the money that mom and dad give to their children maybe every month or maybe every week.",
+      "zh": "这是妈妈和爸爸每个月或每周给孩子的钱。"
+    },
+    {
+      "id": 74,
+      "start": 261.8,
+      "end": 264.64,
+      "en": "Now it's not only related to children, right?",
+      "zh": "现在它不只是和孩子有关，对吧？"
+    },
+    {
+      "id": 75,
+      "start": 264.64,
+      "end": 272.99,
+      "en": "Because maybe if you have a brother or maybe you're married and your wife is a housewife, maybe you give her an allowance, right?",
+      "zh": "因为也许如果你有一个兄弟或者你结婚了，你的妻子是家庭主妇，也许你给她津贴，对吧？"
+    },
+    {
+      "id": 76,
+      "start": 273.24,
+      "end": 273.63,
+      "en": "Or the opposite.",
+      "zh": "或相反。"
+    },
+    {
+      "id": 77,
+      "start": 273.93,
+      "end": 277.07,
+      "en": "Maybe you're a house husband and you get an allowance from your wife.",
+      "zh": "也许你是一个家庭丈夫，你从你妻子那里得到了津贴。"
+    },
+    {
+      "id": 78,
+      "start": 277.35,
+      "end": 277.73,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 79,
+      "start": 278.56,
+      "end": 279.23,
+      "en": "You can have an allowance if you're anyone.",
+      "zh": "如果你是任何人，你可以获得津贴。"
+    },
+    {
+      "id": 80,
+      "start": 279.56,
+      "end": 283.64,
+      "en": "You can also have an allowance from your company if you go traveling.",
+      "zh": "如果您去旅行，您也可以从您的公司获得津贴。"
+    },
+    {
+      "id": 81,
+      "start": 283.64,
+      "end": 286.69,
+      "en": "So if you have a business trip, your company gives you a food allowance.",
+      "zh": "因此，如果您有商务旅行，您的公司会给您食物津贴。"
+    },
+    {
+      "id": 82,
+      "start": 287.23,
+      "end": 288.85,
+      "en": "That's the amount of money you can spend on food.",
+      "zh": "这就是你可以花在食物上的钱。"
+    },
+    {
+      "id": 83,
+      "start": 289.19,
+      "end": 290.31,
+      "en": "And you don't have to work for it.",
+      "zh": "而且您不必为此工作。"
+    },
+    {
+      "id": 84,
+      "start": 290.41,
+      "end": 290.99,
+      "en": "That's the best part.",
+      "zh": "这是最好的部分。"
+    },
+    {
+      "id": 85,
+      "start": 291.52,
+      "end": 292.52,
+      "en": "Awesome.",
+      "zh": "太棒了。"
+    },
+    {
+      "id": 86,
+      "start": 292.52,
+      "end": 302.0,
+      "en": "Alright so after these allowances, they were talking about how the economic downturn has affected their income and their spending.",
+      "zh": "好吧，在这些津贴之后，他们谈论的是经济衰退如何影响他们的收入和支出。"
+    },
+    {
+      "id": 87,
+      "start": 302.0,
+      "end": 304.9,
+      "en": "Okay so down, you think this is a negative thing.",
+      "zh": "好吧，你认为这是一个消极的事情。"
+    },
+    {
+      "id": 88,
+      "start": 305.08,
+      "end": 305.32,
+      "en": "You're right.",
+      "zh": "你说得对。"
+    },
+    {
+      "id": 89,
+      "start": 306.4,
+      "end": 311.8,
+      "en": "Downturn means when a situation gets worse or slows down.",
+      "zh": "低迷意味着情况变得更糟或放缓。"
+    },
+    {
+      "id": 90,
+      "start": 311.8,
+      "end": 314.04,
+      "en": "And in this case, the economy is what got worse.",
+      "zh": "在这种情况下，经济变得更糟。"
+    },
+    {
+      "id": 91,
+      "start": 314.28,
+      "end": 315.58,
+      "en": "And you remember this from last year.",
+      "zh": "你还记得去年的这一点。"
+    },
+    {
+      "id": 92,
+      "start": 316.16,
+      "end": 319.4,
+      "en": "Things started to get very difficult for people who are in business.",
+      "zh": "对于正在做生意的人来说，事情开始变得非常困难。"
+    },
+    {
+      "id": 93,
+      "start": 320.04,
+      "end": 321.16,
+      "en": "And this has affected families.",
+      "zh": "这影响了家庭。"
+    },
+    {
+      "id": 94,
+      "start": 321.44,
+      "end": 325.36,
+      "en": "And so we call this situation an economic downturn.",
+      "zh": "所以我们称这种情况为经济衰退。"
+    },
+    {
+      "id": 95,
+      "start": 325.36,
+      "end": 328.22,
+      "en": "Now the opposite would be an economic boom.",
+      "zh": "现在相反的将是经济繁荣。"
+    },
+    {
+      "id": 96,
+      "start": 329.04,
+      "end": 329.26,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 97,
+      "start": 330.04,
+      "end": 331.98,
+      "en": "A boom is when things are going well.",
+      "zh": "繁荣是事情进展顺利的时候。"
+    },
+    {
+      "id": 98,
+      "start": 332.52,
+      "end": 334.08,
+      "en": "That means people are earning more money.",
+      "zh": "这意味着人们赚的钱更多。"
+    },
+    {
+      "id": 99,
+      "start": 334.3,
+      "end": 335.12,
+      "en": "There are more jobs.",
+      "zh": "还有更多的工作。"
+    },
+    {
+      "id": 100,
+      "start": 335.28,
+      "end": 336.28,
+      "en": "Alright.",
+      "zh": "好的。"
+    },
+    {
+      "id": 101,
+      "start": 336.28,
+      "end": 336.46,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 102,
+      "start": 337.28,
+      "end": 345.89,
+      "en": "Now moving on, as they were talking about budgeting, they mentioned this very important word, very technical, is to allocate money into different areas.",
+      "zh": "现在继续，当他们谈论预算时，他们提到了这个非常重要的词，非常技术性，是将资金分配到不同的领域。"
+    },
+    {
+      "id": 103,
+      "start": 346.56,
+      "end": 347.56,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 104,
+      "start": 347.56,
+      "end": 347.99,
+      "en": "Allocate spending.",
+      "zh": "分配支出。"
+    },
+    {
+      "id": 105,
+      "start": 348.56,
+      "end": 349.56,
+      "en": "This is a verb.",
+      "zh": "这是个动词。"
+    },
+    {
+      "id": 106,
+      "start": 349.56,
+      "end": 350.56,
+      "en": "To allocate.",
+      "zh": "分配。"
+    },
+    {
+      "id": 107,
+      "start": 350.56,
+      "end": 353.57,
+      "en": "That means to decide where the money will go.",
+      "zh": "这意味着决定钱的去向。"
+    },
+    {
+      "id": 108,
+      "start": 354.47,
+      "end": 360.77,
+      "en": "Okay so as the mother in a family, I will allocate 10% of the money to the children's allowances.",
+      "zh": "好吧，作为一个家庭的母亲，我会将 10% 的钱分配给孩子的津贴。"
+    },
+    {
+      "id": 109,
+      "start": 361.52,
+      "end": 361.79,
+      "en": "That's a lot.",
+      "zh": "那是很多。"
+    },
+    {
+      "id": 110,
+      "start": 362.87,
+      "end": 364.61,
+      "en": "50% to the mortgage.",
+      "zh": "抵押贷款50%。"
+    },
+    {
+      "id": 111,
+      "start": 365.17,
+      "end": 366.47,
+      "en": "20% to the car.",
+      "zh": "20%到汽车。"
+    },
+    {
+      "id": 112,
+      "start": 367.32,
+      "end": 367.92,
+      "en": "Car repairs.",
+      "zh": "汽车维修。"
+    },
+    {
+      "id": 113,
+      "start": 368.36,
+      "end": 370.2,
+      "en": "So you're allocating your spending.",
+      "zh": "所以你正在分配你的支出。"
+    },
+    {
+      "id": 114,
+      "start": 370.2,
+      "end": 371.2,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 115,
+      "start": 371.2,
+      "end": 371.96,
+      "en": "I'm deciding where to spend the money.",
+      "zh": "我决定在哪里花钱。"
+    },
+    {
+      "id": 116,
+      "start": 373.24,
+      "end": 376.9,
+      "en": "And well, talking about spending, we have this word, expenditures.",
+      "zh": "好吧，说到支出，我们有这个词，支出。"
+    },
+    {
+      "id": 117,
+      "start": 379.2,
+      "end": 380.2,
+      "en": "Expenditures.",
+      "zh": "开支。"
+    },
+    {
+      "id": 118,
+      "start": 380.2,
+      "end": 388.78,
+      "en": "And so this is a really important word if you're in business as well because we consider expenditures when we're talking about how much a company earns.",
+      "zh": "因此，如果您也从事业务，这是一个非常重要的词，因为当我们谈论公司的收入时，我们会考虑支出。"
+    },
+    {
+      "id": 119,
+      "start": 388.78,
+      "end": 391.36,
+      "en": "Expenditures are things that we spend money on.",
+      "zh": "支出是我们花钱的东西。"
+    },
+    {
+      "id": 120,
+      "start": 391.56,
+      "end": 392.98,
+      "en": "So remember that word, expenditures.",
+      "zh": "所以记住这个词，支出。"
+    },
+    {
+      "id": 121,
+      "start": 393.8,
+      "end": 394.8,
+      "en": "Spend.",
+      "zh": "花费。"
+    },
+    {
+      "id": 122,
+      "start": 394.8,
+      "end": 395.8,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 123,
+      "start": 395.8,
+      "end": 396.8,
+      "en": "So an expenditure.",
+      "zh": "所以是一个支出。"
+    },
+    {
+      "id": 124,
+      "start": 396.8,
+      "end": 399.36,
+      "en": "That's a noun and usually it's in the plural.",
+      "zh": "这是一个名词，通常是复数形式。"
+    },
+    {
+      "id": 125,
+      "start": 399.36,
+      "end": 400.36,
+      "en": "Expenditures.",
+      "zh": "开支。"
+    },
+    {
+      "id": 126,
+      "start": 400.4,
+      "end": 400.7,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 127,
+      "start": 401.02,
+      "end": 401.44,
+      "en": "Expenditures.",
+      "zh": "开支。"
+    },
+    {
+      "id": 128,
+      "start": 402.36,
+      "end": 405.24,
+      "en": "So we have many expenditures at my house.",
+      "zh": "所以我们家有很多支出。"
+    },
+    {
+      "id": 129,
+      "start": 405.24,
+      "end": 409.12,
+      "en": "Among them, we have the car, the rent, healthcare, things like that.",
+      "zh": "其中，我们有汽车、租金、医疗保健之类的东西。"
+    },
+    {
+      "id": 130,
+      "start": 409.52,
+      "end": 410.52,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 131,
+      "start": 410.52,
+      "end": 411.52,
+      "en": "Perfect.",
+      "zh": "太好了。"
+    },
+    {
+      "id": 132,
+      "start": 411.52,
+      "end": 413.0,
+      "en": "So really good phrases there.",
+      "zh": "那里真的很好的短语。"
+    },
+    {
+      "id": 133,
+      "start": 413.0,
+      "end": 414.76,
+      "en": "Really good vocabulary items.",
+      "zh": "真的很好的词汇项目。"
+    },
+    {
+      "id": 134,
+      "start": 415.4,
+      "end": 417.44,
+      "en": "Why don't we move on now to Fluency Builder.",
+      "zh": "我们为什么不现在继续讨论 Fluency Builder。"
+    },
+    {
+      "id": 135,
+      "start": 419.16,
+      "end": 419.42,
+      "en": "Fluency Builder.",
+      "zh": "流利表达。"
+    },
+    {
+      "id": 136,
+      "start": 420.16,
+      "end": 422.82,
+      "en": "We've got some very fun phrases today, Marco, in Fluency Builder.",
+      "zh": "我们今天在 Fluency Builder 中有一些非常有趣的短语，Marco。"
+    },
+    {
+      "id": 137,
+      "start": 423.12,
+      "end": 428.92,
+      "en": "This first one is a very common phrase that we hear in songs and movies.",
+      "zh": "第一个是我们在歌曲和电影中听到的一个非常常见的短语。"
+    },
+    {
+      "id": 138,
+      "start": 428.92,
+      "end": 429.38,
+      "en": "To skyrocket.",
+      "zh": "飞涨。"
+    },
+    {
+      "id": 139,
+      "start": 429.92,
+      "end": 430.92,
+      "en": "To skyrocket.",
+      "zh": "飞涨。"
+    },
+    {
+      "id": 140,
+      "start": 430.92,
+      "end": 431.92,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 141,
+      "start": 431.92,
+      "end": 432.92,
+      "en": "What is skyrocket?",
+      "zh": "什么是飞涨？"
+    },
+    {
+      "id": 142,
+      "start": 432.92,
+      "end": 435.82,
+      "en": "Well, you think about a rocket, you know, that's a ship that goes to space.",
+      "zh": "好吧，你想想火箭，你知道，那是一艘去太空的船。"
+    },
+    {
+      "id": 143,
+      "start": 435.82,
+      "end": 439.88,
+      "en": "To skyrocket means to go up really high, really fast.",
+      "zh": "飞涨意味着非常高，非常快。"
+    },
+    {
+      "id": 144,
+      "start": 441.05,
+      "end": 443.29,
+      "en": "The price of gas has skyrocketed.",
+      "zh": "天然气价格飙升。"
+    },
+    {
+      "id": 145,
+      "start": 443.4,
+      "end": 448.64,
+      "en": "So I remember when I was a kid, gas used to be 98 cents a gallon.",
+      "zh": "所以我记得当我还是个孩子的时候，汽油曾经是每加仑 98 美分。"
+    },
+    {
+      "id": 146,
+      "start": 448.64,
+      "end": 455.67,
+      "en": "And in the 2000s, the price skyrocketed and it ended up being like $4 a gallon.",
+      "zh": "在 2000 年代，价格飙升，最终达到每加仑 4 美元。"
+    },
+    {
+      "id": 147,
+      "start": 455.83,
+      "end": 456.77,
+      "en": "Yeah, it was really expensive.",
+      "zh": "是的，真的很贵。"
+    },
+    {
+      "id": 148,
+      "start": 457.49,
+      "end": 457.69,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 149,
+      "start": 458.2,
+      "end": 463.89,
+      "en": "So this is also, you can talk about sales have skyrocketed or the price of petroleum has skyrocketed.",
+      "zh": "所以这也是，你可以谈谈销售已经飙升或石油价格飙升。"
+    },
+    {
+      "id": 150,
+      "start": 464.08,
+      "end": 467.33,
+      "en": "So it could be a good thing or a bad thing, depending on what you're talking about.",
+      "zh": "所以这可能是好事，也可能是坏事，这取决于你在说什么。"
+    },
+    {
+      "id": 151,
+      "start": 467.52,
+      "end": 467.75,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 152,
+      "start": 468.52,
+      "end": 471.91,
+      "en": "And now moving on, they said that their spending was out of control.",
+      "zh": "现在继续前进，他们说他们的支出失控了。"
+    },
+    {
+      "id": 153,
+      "start": 472.24,
+      "end": 473.24,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 154,
+      "start": 473.24,
+      "end": 475.23,
+      "en": "So this family doesn't seem to understand how to budget.",
+      "zh": "所以这个家庭似乎不明白如何预算。"
+    },
+    {
+      "id": 155,
+      "start": 475.56,
+      "end": 477.13,
+      "en": "They spend on everything.",
+      "zh": "他们花在一切上。"
+    },
+    {
+      "id": 156,
+      "start": 477.74,
+      "end": 482.98,
+      "en": "And so the accountant says that your spending is out of control.",
+      "zh": "所以会计师说你的支出失控了。"
+    },
+    {
+      "id": 157,
+      "start": 482.98,
+      "end": 484.39,
+      "en": "That means that you're spending too much.",
+      "zh": "这意味着你花费太多。"
+    },
+    {
+      "id": 158,
+      "start": 484.96,
+      "end": 487.07,
+      "en": "There's no order to the way that you're spending.",
+      "zh": "你的消费方式没有秩序。"
+    },
+    {
+      "id": 159,
+      "start": 487.48,
+      "end": 495.65,
+      "en": "And we actually have a lesson, a previous lesson called out of control spending that we also touched this topic of what we talk about out of control.",
+      "zh": "实际上，我们有一个教训，上一课称为失控支出，我们也触及了我们谈论失控的话题。"
+    },
+    {
+      "id": 160,
+      "start": 496.28,
+      "end": 496.89,
+      "en": "Something is out of control.",
+      "zh": "有些东西失控了。"
+    },
+    {
+      "id": 161,
+      "start": 497.28,
+      "end": 498.47,
+      "en": "A person can be out of control.",
+      "zh": "一个人可能会失控。"
+    },
+    {
+      "id": 162,
+      "start": 498.88,
+      "end": 499.27,
+      "en": "Like a child.",
+      "zh": "像个孩子。"
+    },
+    {
+      "id": 163,
+      "start": 499.55,
+      "end": 500.83,
+      "en": "This child is out of control.",
+      "zh": "这个孩子失控了。"
+    },
+    {
+      "id": 164,
+      "start": 501.11,
+      "end": 503.63,
+      "en": "He never stops screaming and hitting people.",
+      "zh": "他从不停止尖叫和打人。"
+    },
+    {
+      "id": 165,
+      "start": 504.08,
+      "end": 505.08,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 166,
+      "start": 505.08,
+      "end": 510.05,
+      "en": "And our last phrase for today, the accountant says, well, you've come to the right place.",
+      "zh": "而我们今天的最后一句话，会计师说，好吧，你来对地方了。"
+    },
+    {
+      "id": 167,
+      "start": 510.65,
+      "end": 510.97,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 168,
+      "start": 511.05,
+      "end": 511.65,
+      "en": "This is him.",
+      "zh": "这就是他。"
+    },
+    {
+      "id": 169,
+      "start": 511.91,
+      "end": 513.31,
+      "en": "This is the accountant bragging.",
+      "zh": "这是会计吹嘘的。"
+    },
+    {
+      "id": 170,
+      "start": 513.81,
+      "end": 517.03,
+      "en": "He's saying, well, I can fix your problems.",
+      "zh": "他说，好吧，我可以解决你的问题。"
+    },
+    {
+      "id": 171,
+      "start": 517.31,
+      "end": 517.97,
+      "en": "I can help you.",
+      "zh": "我可以帮助你。"
+    },
+    {
+      "id": 172,
+      "start": 518.15,
+      "end": 519.35,
+      "en": "You've come to the right place.",
+      "zh": "你来对地方了。"
+    },
+    {
+      "id": 173,
+      "start": 520.07,
+      "end": 521.51,
+      "en": "You can use this in many different ways.",
+      "zh": "您可以以多种不同的方式使用它。"
+    },
+    {
+      "id": 174,
+      "start": 521.51,
+      "end": 529.61,
+      "en": "For example, I have a problem maybe with my TV and I say, Marco, oh my gosh, my TV doesn't work.",
+      "zh": "例如，我的电视可能有问题，我说，Marco，天哪，我的电视坏了。"
+    },
+    {
+      "id": 175,
+      "start": 529.76,
+      "end": 530.47,
+      "en": "I don't know what to do.",
+      "zh": "我不知道该怎么办。"
+    },
+    {
+      "id": 176,
+      "start": 530.74,
+      "end": 531.03,
+      "en": "Can you help?",
+      "zh": "你能帮忙吗？"
+    },
+    {
+      "id": 177,
+      "start": 533.07,
+      "end": 533.21,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 178,
+      "start": 533.64,
+      "end": 534.64,
+      "en": "And I can say, well, you've come to the right place.",
+      "zh": "我可以说，好吧，你来对地方了。"
+    },
+    {
+      "id": 179,
+      "start": 534.64,
+      "end": 535.64,
+      "en": "I'm an expert in my TV.",
+      "zh": "我是我的电视专家。"
+    },
+    {
+      "id": 180,
+      "start": 535.64,
+      "end": 536.59,
+      "en": "Marco's an expert in electronics.",
+      "zh": "马可是电子领域的专家。"
+    },
+    {
+      "id": 181,
+      "start": 536.64,
+      "end": 537.64,
+      "en": "I'm an expert.",
+      "zh": "我是专家。"
+    },
+    {
+      "id": 182,
+      "start": 537.75,
+      "end": 538.09,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 183,
+      "start": 538.11,
+      "end": 539.71,
+      "en": "So, you've come to the right place.",
+      "zh": "所以，你来对地方了。"
+    },
+    {
+      "id": 184,
+      "start": 539.85,
+      "end": 547.25,
+      "en": "It's a very common phrase, especially as you say when somebody's trying to brag and say, well, I know how to fix your problems or I know what you need.",
+      "zh": "这是一个非常常见的短语，尤其是当有人试图吹嘘和说，好吧，我知道如何解决您的问题或我知道您需要什么时。"
+    },
+    {
+      "id": 185,
+      "start": 547.73,
+      "end": 548.59,
+      "en": "I'm good at this.",
+      "zh": "我很擅长这个。"
+    },
+    {
+      "id": 186,
+      "start": 549.01,
+      "end": 550.23,
+      "en": "You've come to the right place.",
+      "zh": "你来对地方了。"
+    },
+    {
+      "id": 187,
+      "start": 550.23,
+      "end": 552.39,
+      "en": "If you want to learn English, you've come to the right place.",
+      "zh": "如果你想学英语，你来对地方了。"
+    },
+    {
+      "id": 188,
+      "start": 552.64,
+      "end": 553.64,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 189,
+      "start": 553.64,
+      "end": 554.64,
+      "en": "EnglishPod.com.",
+      "zh": "EnglishPod.com。"
+    },
+    {
+      "id": 190,
+      "start": 554.64,
+      "end": 555.64,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 191,
+      "start": 555.64,
+      "end": 564.6,
+      "en": "So, let's listen to our dialogue for the last time.",
+      "zh": "所以，让我们最后一次听我们的对话。"
+    },
+    {
+      "id": 192,
+      "start": 564.6,
+      "end": 566.28,
+      "en": "Welcome Mr. and Mrs. Carnwell.",
+      "zh": "欢迎卡恩威尔先生和夫人。"
+    },
+    {
+      "id": 193,
+      "start": 566.28,
+      "end": 566.76,
+      "en": "Please take a seat.",
+      "zh": "请坐。"
+    },
+    {
+      "id": 194,
+      "start": 567.28,
+      "end": 567.48,
+      "en": "Thank you.",
+      "zh": "谢谢。"
+    },
+    {
+      "id": 195,
+      "start": 568.53,
+      "end": 572.91,
+      "en": "So, I understand that your family spending has skyrocketed and you want to start budgeting.",
+      "zh": "我了解到，你们家的开销大幅增加，所以想开始做收支预算。"
+    },
+    {
+      "id": 196,
+      "start": 573.13,
+      "end": 573.97,
+      "en": "Yes, that's correct.",
+      "zh": "对，没错。"
+    },
+    {
+      "id": 197,
+      "start": 574.61,
+      "end": 579.43,
+      "en": "Frankly speaking, our household income is relatively high and we have never had any money problems.",
+      "zh": "坦率地说，我们的家庭收入相对较高，我们从未遇到过任何金钱问题。"
+    },
+    {
+      "id": 198,
+      "start": 580.09,
+      "end": 584.03,
+      "en": "But I think this is the main reason as to why our spending has gone out of control.",
+      "zh": "但我认为这是我们支出失控的主要原因。"
+    },
+    {
+      "id": 199,
+      "start": 584.61,
+      "end": 590.49,
+      "en": "We have two kids and with allowances, paying their credit cards, ours, and not to mention our mortgage and car payments.",
+      "zh": "我们有两个孩子和津贴，支付他们的信用卡，我们的，更不用说我们的抵押贷款和汽车付款。"
+    },
+    {
+      "id": 200,
+      "start": 591.2,
+      "end": 598.06,
+      "en": "With the recent economic downturn, my husband's business has suffered and now we need some advice as how we can prepare a family budget.",
+      "zh": "随着最近的经济下滑，我丈夫的生意受到了影响，现在我们需要一些关于如何准备家庭预算的建议。"
+    },
+    {
+      "id": 201,
+      "start": 598.58,
+      "end": 598.92,
+      "en": "I see.",
+      "zh": "我明白了。"
+    },
+    {
+      "id": 202,
+      "start": 599.34,
+      "end": 601.04,
+      "en": "Well, you have come to the right place.",
+      "zh": "好吧，你来对地方了。"
+    },
+    {
+      "id": 203,
+      "start": 601.76,
+      "end": 604.68,
+      "en": "First, what we need to do is determine your cash flow.",
+      "zh": "首先，我们需要做的是确定您的现金流。"
+    },
+    {
+      "id": 204,
+      "start": 605.38,
+      "end": 612.54,
+      "en": "Knowing how much money is coming in will help us allocate spending to different categories such as mortgage, education, groceries, etc.",
+      "zh": "知道有多少钱可以帮助我们将支出分配到抵押贷款、教育、杂货等不同类别。"
+    },
+    {
+      "id": 205,
+      "start": 612.98,
+      "end": 613.94,
+      "en": "Yes, that makes sense.",
+      "zh": "是的，这是有道理的。"
+    },
+    {
+      "id": 206,
+      "start": 614.58,
+      "end": 618.68,
+      "en": "Secondly, I need you to bring all of your receipts for the last two to three months.",
+      "zh": "其次，我需要你把过去两到三个月的所有收据都带上。"
+    },
+    {
+      "id": 207,
+      "start": 619.22,
+      "end": 625.16,
+      "en": "That way we can determine what your average expenditures are and see which category you are spending money on the most.",
+      "zh": "这样我们就可以确定您的平均支出是多少，并查看您最多花钱的类别。"
+    },
+    {
+      "id": 208,
+      "start": 625.88,
+      "end": 629.92,
+      "en": "Usually, your fixed costs are higher and we can't do much about that.",
+      "zh": "通常，您的固定成本更高，我们对此无能为力。"
+    },
+    {
+      "id": 209,
+      "start": 629.92,
+      "end": 633.86,
+      "en": "But we can usually trim your variable costs such as entertainment or clothing.",
+      "zh": "但我们通常可以削减您的可变成本，例如娱乐或服装。"
+    },
+    {
+      "id": 210,
+      "start": 634.52,
+      "end": 635.52,
+      "en": "Great!",
+      "zh": "太棒了！"
+    },
+    {
+      "id": 211,
+      "start": 635.52,
+      "end": 636.18,
+      "en": "We will do that then.",
+      "zh": "那我们会这样做。"
+    },
+    {
+      "id": 212,
+      "start": 637.0,
+      "end": 639.12,
+      "en": "Now how about we treat you to a nice dinner?",
+      "zh": "现在我们请您吃一顿丰盛的晚餐怎么样？"
+    },
+    {
+      "id": 213,
+      "start": 640.28,
+      "end": 640.88,
+      "en": "That's another thing.",
+      "zh": "那是另一回事。"
+    },
+    {
+      "id": 214,
+      "start": 641.28,
+      "end": 646.24,
+      "en": "If you really want to stop spending so much money, throw away at least half of your credit cards.",
+      "zh": "如果你真的想停止花这么多钱，就把至少一半的信用卡扔掉。"
+    },
+    {
+      "id": 215,
+      "start": 651.56,
+      "end": 652.56,
+      "en": "Alright we're back.",
+      "zh": "好了，我们回来了。"
+    },
+    {
+      "id": 216,
+      "start": 652.56,
+      "end": 656.04,
+      "en": "So now talking about allowances, you said you had an allowance when you were a kid.",
+      "zh": "所以现在说到津贴，你说你小时候有津贴。"
+    },
+    {
+      "id": 217,
+      "start": 656.04,
+      "end": 657.49,
+      "en": "Did you really have a $10 a week allowance?",
+      "zh": "你真的有每周 10 美元的津贴吗？"
+    },
+    {
+      "id": 218,
+      "start": 657.72,
+      "end": 660.0,
+      "en": "No, I think it was like $8.",
+      "zh": "不，我想它就像 8 美元。"
+    },
+    {
+      "id": 219,
+      "start": 660.0,
+      "end": 665.55,
+      "en": "It started out at $6 or $5 a week and then I think the most I got was like $10 or $11.",
+      "zh": "它的起价为每周 6 美元或 5 美元，然后我认为我得到的最多的是 10 美元或 11 美元。"
+    },
+    {
+      "id": 220,
+      "start": 666.53,
+      "end": 668.63,
+      "en": "So it was like almost about a dollar a day.",
+      "zh": "所以它几乎就像每天大约一美元。"
+    },
+    {
+      "id": 221,
+      "start": 669.19,
+      "end": 669.59,
+      "en": "About that.",
+      "zh": "关于那件事。"
+    },
+    {
+      "id": 222,
+      "start": 669.75,
+      "end": 677.87,
+      "en": "But usually the point was that, well, I started working when I was 15 because my parents thought it was important for children to learn how money works.",
+      "zh": "但通常重点是，嗯，我 15 岁时开始工作，因为我的父母认为孩子们了解金钱的运作方式很重要。"
+    },
+    {
+      "id": 223,
+      "start": 679.4,
+      "end": 684.59,
+      "en": "But I was given that money because at the time it was enough money to go out one night.",
+      "zh": "但我得到了这笔钱，因为当时足够的钱可以出去一晚。"
+    },
+    {
+      "id": 224,
+      "start": 684.95,
+      "end": 693.05,
+      "en": "So on Friday nights if I wanted to go out with my friends, I could go out to watch a movie and get a slice of pizza and $10 was enough.",
+      "zh": "所以在周五晚上，如果我想和朋友出去玩，我可以出去看电影，买一片披萨，10 美元就足够了。"
+    },
+    {
+      "id": 225,
+      "start": 693.77,
+      "end": 696.91,
+      "en": "Now $10 doesn't even buy you a ticket to the movie.",
+      "zh": "现在 10 美元甚至没有给你买电影票。"
+    },
+    {
+      "id": 226,
+      "start": 697.22,
+      "end": 699.16,
+      "en": "But at the time it was more than enough.",
+      "zh": "但在当时已经绰绰有余了。"
+    },
+    {
+      "id": 227,
+      "start": 699.19,
+      "end": 707.89,
+      "en": "So this is important I guess because different families have different ways of upbringing their children and in many cases this doesn't happen.",
+      "zh": "所以这很重要，因为不同的家庭有不同的抚养孩子的方式，在许多情况下不会发生这种情况。"
+    },
+    {
+      "id": 228,
+      "start": 708.24,
+      "end": 711.72,
+      "en": "If I want to go out to the movies on a Saturday, then my parents will give me $30.",
+      "zh": "如果我想在星期六去看电影，那么我的父母会给我 30 美元。"
+    },
+    {
+      "id": 229,
+      "start": 711.72,
+      "end": 713.63,
+      "en": "And if I want to go out next weekend, they'll also give me money.",
+      "zh": "如果我想下周末出去，他们也会给我钱。"
+    },
+    {
+      "id": 230,
+      "start": 713.88,
+      "end": 721.96,
+      "en": "So it's interesting to see the contrast because obviously when I was a kid also I didn't really get this opportunity of going out all the time.",
+      "zh": "所以看到对比很有趣，因为很明显，当我还是个孩子的时候，我也没有真正得到这个一直外出的机会。"
+    },
+    {
+      "id": 231,
+      "start": 721.96,
+      "end": 723.47,
+      "en": "And actually I had to work for it.",
+      "zh": "实际上，我必须为它工作。"
+    },
+    {
+      "id": 232,
+      "start": 723.57,
+      "end": 729.87,
+      "en": "So if I wanted to go out on the weekend, I would get an allowance but also I would have to wash the car, that was typical with my dad.",
+      "zh": "因此，如果我想在周末出去，我会得到津贴，但我也必须洗车，这对我爸爸来说是典型的。"
+    },
+    {
+      "id": 233,
+      "start": 730.07,
+      "end": 730.95,
+      "en": "I had to wash the car.",
+      "zh": "我不得不洗车。"
+    },
+    {
+      "id": 234,
+      "start": 731.33,
+      "end": 735.95,
+      "en": "Well, I think it's interesting because it shows that the parents want to teach their children about budgeting.",
+      "zh": "嗯，我认为这很有趣，因为它表明父母想教他们的孩子预算。"
+    },
+    {
+      "id": 235,
+      "start": 736.56,
+      "end": 739.67,
+      "en": "Because if you only have $10, you really have to budget.",
+      "zh": "因为如果你只有 10 美元，你真的必须预算。"
+    },
+    {
+      "id": 236,
+      "start": 739.96,
+      "end": 743.78,
+      "en": "You have to decide how you will allocate that money even though it's not very much.",
+      "zh": "你必须决定如何分配这笔钱，即使它不是很多。"
+    },
+    {
+      "id": 237,
+      "start": 744.04,
+      "end": 745.66,
+      "en": "So in some ways it's good practice.",
+      "zh": "所以在某些方面这是一个很好的做法。"
+    },
+    {
+      "id": 238,
+      "start": 746.0,
+      "end": 746.44,
+      "en": "Yeah, it is.",
+      "zh": "对，确实是。"
+    },
+    {
+      "id": 239,
+      "start": 746.76,
+      "end": 747.64,
+      "en": "I think it's done us well.",
+      "zh": "我认为这对我们做得很好。"
+    },
+    {
+      "id": 240,
+      "start": 747.78,
+      "end": 748.3,
+      "en": "We're not in debt.",
+      "zh": "我们没有债务。"
+    },
+    {
+      "id": 241,
+      "start": 748.66,
+      "end": 749.56,
+      "en": "Not yet.",
+      "zh": "还没有。"
+    },
+    {
+      "id": 242,
+      "start": 750.38,
+      "end": 751.02,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 243,
+      "start": 751.28,
+      "end": 756.02,
+      "en": "So let us know how allowances work in your country or maybe did you have an allowance when you were a kid?",
+      "zh": "因此，让我们知道您所在国家/地区的津贴如何运作，或者您小时候是否有过津贴？"
+    },
+    {
+      "id": 244,
+      "start": 756.52,
+      "end": 757.38,
+      "en": "A lot of people didn't have an allowance.",
+      "zh": "很多人没有津贴。"
+    },
+    {
+      "id": 245,
+      "start": 757.6,
+      "end": 759.1,
+      "en": "I know a lot of friends didn't get allowances.",
+      "zh": "我知道很多朋友没有拿到津贴。"
+    },
+    {
+      "id": 246,
+      "start": 760.0,
+      "end": 765.14,
+      "en": "So come to our website EnglishPod.com and if you have any other questions or doubts, please leave them there as well.",
+      "zh": "因此，请访问我们的网站 englishpod.com，如果您有任何其他问题或疑问，请将它们也留在那里。"
+    },
+    {
+      "id": 247,
+      "start": 765.66,
+      "end": 766.48,
+      "en": "We hope to hear from you.",
+      "zh": "我们希望收到您的来信。"
+    },
+    {
+      "id": 248,
+      "start": 766.7,
+      "end": 767.28,
+      "en": "Until next time.",
+      "zh": "下次再见。"
+    }
+  ],
+  "dialog": {
+    "start": 73.64,
+    "end": 155.41,
+    "segmentIds": [
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41
+    ]
+  }
+}

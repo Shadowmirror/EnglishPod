@@ -1,0 +1,2898 @@
+{
+  "version": 1,
+  "id": 55,
+  "number": "0055",
+  "title": "Intermediate - Hockey",
+  "audio": "mp3/55. Intermediate - Hockey.mp3",
+  "duration": 914.2335,
+  "segments": [
+    {
+      "id": 1,
+      "start": 2.61,
+      "end": 5.05,
+      "en": "Hello everyone, welcome back to EnglishPod.",
+      "zh": "大家好，欢迎回到 EnglishPod。"
+    },
+    {
+      "id": 2,
+      "start": 5.32,
+      "end": 5.85,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 6.19,
+      "end": 6.87,
+      "en": "And I'm Erica.",
+      "zh": "我叫 Erica。"
+    },
+    {
+      "id": 4,
+      "start": 7.53,
+      "end": 10.53,
+      "en": "And today we're going to be bringing you another great sports lesson.",
+      "zh": "今天我们将为您带来另一个精彩的体育课。"
+    },
+    {
+      "id": 5,
+      "start": 10.73,
+      "end": 12.93,
+      "en": "Yes, this one is for all our hockey fans.",
+      "zh": "是的，这一款适合我们所有的曲棍球迷。"
+    },
+    {
+      "id": 6,
+      "start": 13.55,
+      "end": 18.75,
+      "en": "I know we have a lot of listeners from Russia, so this is a very popular sport in Russia, Czech Republic.",
+      "zh": "我知道我们有很多来自俄罗斯的听众，所以这是俄罗斯捷克共和国的一项非常受欢迎的运动。"
+    },
+    {
+      "id": 7,
+      "start": 19.23,
+      "end": 20.49,
+      "en": "Yes, and Canada.",
+      "zh": "是的，还有加拿大。"
+    },
+    {
+      "id": 8,
+      "start": 20.67,
+      "end": 21.75,
+      "en": "And Canada, right?",
+      "zh": "和加拿大，对吧？"
+    },
+    {
+      "id": 9,
+      "start": 21.92,
+      "end": 23.82,
+      "en": "Very, very popular in Canada.",
+      "zh": "在加拿大非常非常受欢迎。"
+    },
+    {
+      "id": 10,
+      "start": 23.82,
+      "end": 24.97,
+      "en": "It's our national game.",
+      "zh": "这是我们的全国比赛。"
+    },
+    {
+      "id": 11,
+      "start": 26.14,
+      "end": 27.94,
+      "en": "Well, I guess because you guys have so much ice.",
+      "zh": "好吧，我猜是因为你们有这么多冰。"
+    },
+    {
+      "id": 12,
+      "start": 28.4,
+      "end": 30.18,
+      "en": "I know, there's nothing else to do.",
+      "zh": "我知道，没有别的事可做。"
+    },
+    {
+      "id": 13,
+      "start": 30.68,
+      "end": 32.84,
+      "en": "Because skiing and hockey.",
+      "zh": "因为滑雪和曲棍球。"
+    },
+    {
+      "id": 14,
+      "start": 32.84,
+      "end": 35.48,
+      "en": "All right, so it's going to be a really fun lesson.",
+      "zh": "好吧，所以这将是一个非常有趣的课程。"
+    },
+    {
+      "id": 15,
+      "start": 35.48,
+      "end": 37.3,
+      "en": "We're going to have a lot of great vocabularies.",
+      "zh": "我们将有很多很棒的词汇。"
+    },
+    {
+      "id": 16,
+      "start": 37.56,
+      "end": 43.4,
+      "en": "So before we start in the dialogue, let's take a look at vocabulary preview.",
+      "zh": "所以在我们开始对话之前，让我们看一下词汇预览。"
+    },
+    {
+      "id": 17,
+      "start": 43.4,
+      "end": 43.71,
+      "en": "Vocabulary preview.",
+      "zh": "词汇预习。"
+    },
+    {
+      "id": 18,
+      "start": 45.0,
+      "end": 47.12,
+      "en": "Well, we have three words for you now.",
+      "zh": "好吧，我们现在有三个词给你。"
+    },
+    {
+      "id": 19,
+      "start": 47.84,
+      "end": 50.56,
+      "en": "The first one, really simple, puck.",
+      "zh": "第一个，非常简单，冰球。"
+    },
+    {
+      "id": 20,
+      "start": 50.96,
+      "end": 51.96,
+      "en": "Puck.",
+      "zh": "冰球。"
+    },
+    {
+      "id": 21,
+      "start": 51.96,
+      "end": 52.96,
+      "en": "Puck.",
+      "zh": "冰球。"
+    },
+    {
+      "id": 22,
+      "start": 52.96,
+      "end": 53.96,
+      "en": "Puck.",
+      "zh": "冰球。"
+    },
+    {
+      "id": 23,
+      "start": 53.96,
+      "end": 54.96,
+      "en": "P-U-C-K.",
+      "zh": "拼写是 P-U-C-K。"
+    },
+    {
+      "id": 24,
+      "start": 54.96,
+      "end": 55.96,
+      "en": "Puck.",
+      "zh": "冰球。"
+    },
+    {
+      "id": 25,
+      "start": 55.96,
+      "end": 62.54,
+      "en": "So it's almost like duck, but with a P. And this is actually kind of like the ball that you use in hockey.",
+      "zh": "所以它几乎就像鸭子，但有一个 P。这实际上有点像你在曲棍球中使用的球。"
+    },
+    {
+      "id": 26,
+      "start": 63.44,
+      "end": 63.98,
+      "en": "But it's not a ball.",
+      "zh": "但这不是球。"
+    },
+    {
+      "id": 27,
+      "start": 64.18,
+      "end": 64.88,
+      "en": "But it's not a ball.",
+      "zh": "但这不是球。"
+    },
+    {
+      "id": 28,
+      "start": 65.84,
+      "end": 66.32,
+      "en": "It's flat.",
+      "zh": "它是扁的。"
+    },
+    {
+      "id": 29,
+      "start": 66.44,
+      "end": 67.44,
+      "en": "It's flat.",
+      "zh": "它是扁的。"
+    },
+    {
+      "id": 30,
+      "start": 67.44,
+      "end": 68.44,
+      "en": "And round.",
+      "zh": "而且是圆的。"
+    },
+    {
+      "id": 31,
+      "start": 68.44,
+      "end": 69.44,
+      "en": "And round.",
+      "zh": "而且是圆的。"
+    },
+    {
+      "id": 32,
+      "start": 69.44,
+      "end": 73.72,
+      "en": "So it looks like a disc, kind of like a mini frisbee.",
+      "zh": "所以它看起来像一张光盘，有点像迷你飞盘。"
+    },
+    {
+      "id": 33,
+      "start": 73.72,
+      "end": 75.06,
+      "en": "And this is what the players do.",
+      "zh": "这就是玩家所做的。"
+    },
+    {
+      "id": 34,
+      "start": 75.36,
+      "end": 76.36,
+      "en": "This is what they...",
+      "zh": "这就是他们..."
+    },
+    {
+      "id": 35,
+      "start": 76.36,
+      "end": 77.36,
+      "en": "They chase this around.",
+      "zh": "他们追着这个。"
+    },
+    {
+      "id": 36,
+      "start": 77.36,
+      "end": 78.44,
+      "en": "They chase it, right.",
+      "zh": "他们追逐它，对。"
+    },
+    {
+      "id": 37,
+      "start": 78.44,
+      "end": 79.46,
+      "en": "So in basketball, you have a ball.",
+      "zh": "所以在篮球中，你有一个球。"
+    },
+    {
+      "id": 38,
+      "start": 79.72,
+      "end": 80.38,
+      "en": "In soccer, you have a ball.",
+      "zh": "在足球中，你有一个球。"
+    },
+    {
+      "id": 39,
+      "start": 80.62,
+      "end": 82.0,
+      "en": "In hockey, you have a puck.",
+      "zh": "在曲棍球中，你有一个冰球。"
+    },
+    {
+      "id": 40,
+      "start": 82.64,
+      "end": 85.2,
+      "en": "Okay, our next word.",
+      "zh": "好的，我们的下一个字。"
+    },
+    {
+      "id": 41,
+      "start": 85.2,
+      "end": 85.89,
+      "en": "Key game.",
+      "zh": "关键游戏。"
+    },
+    {
+      "id": 42,
+      "start": 86.88,
+      "end": 87.93,
+      "en": "A key game.",
+      "zh": "一场关键比赛。"
+    },
+    {
+      "id": 43,
+      "start": 88.2,
+      "end": 89.05,
+      "en": "A key game.",
+      "zh": "一场关键比赛。"
+    },
+    {
+      "id": 44,
+      "start": 89.88,
+      "end": 90.53,
+      "en": "So this word, key.",
+      "zh": "所以这个词，关键。"
+    },
+    {
+      "id": 45,
+      "start": 90.88,
+      "end": 91.88,
+      "en": "Important.",
+      "zh": "重要。"
+    },
+    {
+      "id": 46,
+      "start": 91.88,
+      "end": 93.52,
+      "en": "It means important, right?",
+      "zh": "这意味着重要，对吧？"
+    },
+    {
+      "id": 47,
+      "start": 93.52,
+      "end": 93.77,
+      "en": "Really important.",
+      "zh": "非常重要。"
+    },
+    {
+      "id": 48,
+      "start": 94.52,
+      "end": 95.52,
+      "en": "Really important.",
+      "zh": "非常重要。"
+    },
+    {
+      "id": 49,
+      "start": 95.52,
+      "end": 96.52,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 50,
+      "start": 96.52,
+      "end": 98.48,
+      "en": "So I can say a key game is a really important game.",
+      "zh": "所以我可以说关键游戏是一个非常重要的游戏。"
+    },
+    {
+      "id": 51,
+      "start": 98.48,
+      "end": 99.48,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 52,
+      "start": 99.48,
+      "end": 101.44,
+      "en": "You could also maybe say a key player.",
+      "zh": "你也可以说一个关键球员。"
+    },
+    {
+      "id": 53,
+      "start": 101.8,
+      "end": 103.5,
+      "en": "Key player is a really important player.",
+      "zh": "关键球员是一个非常重要的球员。"
+    },
+    {
+      "id": 54,
+      "start": 104.32,
+      "end": 105.8,
+      "en": "Or even a key goal.",
+      "zh": "甚至是一个关键目标。"
+    },
+    {
+      "id": 55,
+      "start": 105.92,
+      "end": 107.6,
+      "en": "A key goal.",
+      "zh": "一个关键目标。"
+    },
+    {
+      "id": 56,
+      "start": 107.6,
+      "end": 108.6,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 57,
+      "start": 108.6,
+      "end": 110.04,
+      "en": "So let's take a look at our last word now.",
+      "zh": "所以让我们现在来看看我们的最后一个字。"
+    },
+    {
+      "id": 58,
+      "start": 110.84,
+      "end": 111.23,
+      "en": "Finals.",
+      "zh": "决赛。"
+    },
+    {
+      "id": 59,
+      "start": 111.84,
+      "end": 112.31,
+      "en": "Finals.",
+      "zh": "决赛。"
+    },
+    {
+      "id": 60,
+      "start": 112.84,
+      "end": 113.84,
+      "en": "Finals.",
+      "zh": "决赛。"
+    },
+    {
+      "id": 61,
+      "start": 113.84,
+      "end": 114.84,
+      "en": "The finals.",
+      "zh": "决赛。"
+    },
+    {
+      "id": 62,
+      "start": 115.25,
+      "end": 115.84,
+      "en": "The finals.",
+      "zh": "决赛。"
+    },
+    {
+      "id": 63,
+      "start": 115.84,
+      "end": 117.25,
+      "en": "So the finals are the last games.",
+      "zh": "所以决赛是最后的比赛。"
+    },
+    {
+      "id": 64,
+      "start": 117.96,
+      "end": 119.24,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 65,
+      "start": 119.24,
+      "end": 123.52,
+      "en": "And the winner of the finals wins the championship.",
+      "zh": "总决赛的获胜者赢得了冠军。"
+    },
+    {
+      "id": 66,
+      "start": 123.52,
+      "end": 123.75,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 67,
+      "start": 124.37,
+      "end": 128.97,
+      "en": "For example, in the World Cup in soccer, there's only one game played in the finals.",
+      "zh": "例如，在足球世界杯中，决赛中只有一场比赛。"
+    },
+    {
+      "id": 68,
+      "start": 129.33,
+      "end": 132.83,
+      "en": "So after everyone gets eliminated, there's one game where the winner is the champion.",
+      "zh": "所以在每个人都被淘汰后，有一场比赛是赢家是冠军。"
+    },
+    {
+      "id": 69,
+      "start": 133.44,
+      "end": 134.44,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 70,
+      "start": 134.44,
+      "end": 135.44,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 71,
+      "start": 135.44,
+      "end": 137.26,
+      "en": "So now we're ready to listen to our dialogue.",
+      "zh": "所以现在我们准备好听我们的对话了。"
+    },
+    {
+      "id": 72,
+      "start": 137.8,
+      "end": 140.06,
+      "en": "And it's going to be a little bit faster than usual.",
+      "zh": "它会比平时快一点。"
+    },
+    {
+      "id": 73,
+      "start": 141.72,
+      "end": 143.24,
+      "en": "Because it's a sports commentator, right?",
+      "zh": "因为它是体育评论员，对吧？"
+    },
+    {
+      "id": 74,
+      "start": 144.0,
+      "end": 144.58,
+      "en": "And it's exciting.",
+      "zh": "这很令人兴奋。"
+    },
+    {
+      "id": 75,
+      "start": 144.6,
+      "end": 145.66,
+      "en": "And there's a lot of action.",
+      "zh": "还有很多动作。"
+    },
+    {
+      "id": 76,
+      "start": 145.9,
+      "end": 146.74,
+      "en": "So don't worry about it.",
+      "zh": "所以不要担心它。"
+    },
+    {
+      "id": 77,
+      "start": 147.02,
+      "end": 147.48,
+      "en": "Listen to it.",
+      "zh": "听它。"
+    },
+    {
+      "id": 78,
+      "start": 147.48,
+      "end": 149.66,
+      "en": "And then we'll come back and talk about some of the vocabulary.",
+      "zh": "然后我们会回来讨论一些词汇。"
+    },
+    {
+      "id": 79,
+      "start": 172.7,
+      "end": 173.66,
+      "en": "Hello, everyone.",
+      "zh": "大家好。"
+    },
+    {
+      "id": 80,
+      "start": 174.08,
+      "end": 174.8,
+      "en": "I'm Rick Fields.",
+      "zh": "我是瑞克菲尔兹。"
+    },
+    {
+      "id": 81,
+      "start": 174.8,
+      "end": 176.78,
+      "en": "And here with me is Bob Copeland.",
+      "zh": "今天和我一起解说的是鲍勃·科普兰。"
+    },
+    {
+      "id": 82,
+      "start": 177.04,
+      "end": 177.4,
+      "en": "Howdy folks.",
+      "zh": "大家好。"
+    },
+    {
+      "id": 83,
+      "start": 177.4,
+      "end": 178.56,
+      "en": "And welcome to today's game.",
+      "zh": "欢迎来到今天的比赛。"
+    },
+    {
+      "id": 84,
+      "start": 179.18,
+      "end": 181.6,
+      "en": "You know, Rick, today's a key game between Russia and Canada.",
+      "zh": "瑞克，今天俄罗斯对加拿大可是场关键比赛。"
+    },
+    {
+      "id": 85,
+      "start": 182.14,
+      "end": 184.36,
+      "en": "As you know, the winner will move on to the finals.",
+      "zh": "赢的一方将晋级决赛。"
+    },
+    {
+      "id": 86,
+      "start": 185.06,
+      "end": 185.54,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 87,
+      "start": 185.7,
+      "end": 188.02,
+      "en": "And it looks like we're just about ready to start the match.",
+      "zh": "看来比赛马上就要开始了。"
+    },
+    {
+      "id": 88,
+      "start": 188.6,
+      "end": 191.24,
+      "en": "The ref is calling the players for the faceoff.",
+      "zh": "裁判正叫球员上前争球。"
+    },
+    {
+      "id": 89,
+      "start": 191.24,
+      "end": 191.94,
+      "en": "And here we go.",
+      "zh": "好了，开始吧。"
+    },
+    {
+      "id": 90,
+      "start": 192.42,
+      "end": 195.06,
+      "en": "The Russians win possession and immediately start up their attack.",
+      "zh": "俄罗斯队抢到球，立刻发起进攻。"
+    },
+    {
+      "id": 91,
+      "start": 195.72,
+      "end": 198.32,
+      "en": "Fedorov gets checked hard into the boards.",
+      "zh": "费多罗夫被狠狠撞到了围板上。"
+    },
+    {
+      "id": 92,
+      "start": 198.32,
+      "end": 200.64,
+      "en": "Boris Richal has the puck now.",
+      "zh": "鲍里斯·里沙尔现在拿到冰球。"
+    },
+    {
+      "id": 93,
+      "start": 200.64,
+      "end": 201.28,
+      "en": "And he passes it to center.",
+      "zh": "他把球传向中路。"
+    },
+    {
+      "id": 94,
+      "start": 201.64,
+      "end": 202.64,
+      "en": "He shoots.",
+      "zh": "他射门了。"
+    },
+    {
+      "id": 95,
+      "start": 202.64,
+      "end": 203.64,
+      "en": "Wow.",
+      "zh": "哇。"
+    },
+    {
+      "id": 96,
+      "start": 203.64,
+      "end": 204.64,
+      "en": "And it's going to be a goalie.",
+      "zh": "球奔着守门员去了。"
+    },
+    {
+      "id": 97,
+      "start": 204.64,
+      "end": 205.26,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 98,
+      "start": 205.64,
+      "end": 206.8,
+      "en": "The puck is back in play now.",
+      "zh": "冰球重新投入比赛。"
+    },
+    {
+      "id": 99,
+      "start": 207.28,
+      "end": 209.0,
+      "en": "Pavel Bory is on a breakaway.",
+      "zh": "帕维尔·布雷单刀突进。"
+    },
+    {
+      "id": 100,
+      "start": 209.0,
+      "end": 210.3,
+      "en": "He is flying down the ice.",
+      "zh": "他在冰面上飞速滑行。"
+    },
+    {
+      "id": 101,
+      "start": 210.88,
+      "end": 212.02,
+      "en": "The defenders can't keep up.",
+      "zh": "防守队员跟不上。"
+    },
+    {
+      "id": 102,
+      "start": 212.48,
+      "end": 213.48,
+      "en": "Slapshot.",
+      "zh": "大力击射！"
+    },
+    {
+      "id": 103,
+      "start": 213.48,
+      "end": 213.72,
+      "en": "He scores.",
+      "zh": "进球了！"
+    },
+    {
+      "id": 104,
+      "start": 214.48,
+      "end": 215.88,
+      "en": "What an amazing goal.",
+      "zh": "多么精彩的一球！"
+    },
+    {
+      "id": 105,
+      "start": 215.88,
+      "end": 217.6,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 106,
+      "start": 224.2,
+      "end": 226.68,
+      "en": "So the Canadians versus the Russians, huh?",
+      "zh": "那么加拿大人与俄罗斯人，是吧？"
+    },
+    {
+      "id": 107,
+      "start": 226.78,
+      "end": 230.42,
+      "en": "It reminds me of a classic, classic game.",
+      "zh": "它让我想起了经典的经典游戏。"
+    },
+    {
+      "id": 108,
+      "start": 230.76,
+      "end": 231.76,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 109,
+      "start": 231.76,
+      "end": 232.18,
+      "en": "The classic match.",
+      "zh": "经典比赛。"
+    },
+    {
+      "id": 110,
+      "start": 232.76,
+      "end": 239.86,
+      "en": "So, let's take a look at some of the vocabulary that we heard in the dialogue in Language Takeaway.",
+      "zh": "所以，让我们来看看我们在《语言外卖》的对话中听到的一些词汇。"
+    },
+    {
+      "id": 111,
+      "start": 239.86,
+      "end": 240.14,
+      "en": "Language Takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 112,
+      "start": 241.76,
+      "end": 243.84,
+      "en": "We have five phrases in Language Takeaway today.",
+      "zh": "今天我们有五个短语在语言外卖中。"
+    },
+    {
+      "id": 113,
+      "start": 244.6,
+      "end": 246.58,
+      "en": "And the first one is face-off.",
+      "zh": "第一个是对峙。"
+    },
+    {
+      "id": 114,
+      "start": 246.58,
+      "end": 247.58,
+      "en": "Face-off.",
+      "zh": "开球争球。"
+    },
+    {
+      "id": 115,
+      "start": 247.58,
+      "end": 248.58,
+      "en": "Face-off.",
+      "zh": "开球争球。"
+    },
+    {
+      "id": 116,
+      "start": 248.58,
+      "end": 249.58,
+      "en": "Face-off.",
+      "zh": "开球争球。"
+    },
+    {
+      "id": 117,
+      "start": 250.56,
+      "end": 253.28,
+      "en": "So, Marco, a face-off here is a noun, right?",
+      "zh": "所以，马可，这里的对峙是名词，对吧？"
+    },
+    {
+      "id": 118,
+      "start": 253.66,
+      "end": 254.74,
+      "en": "It's a noun, exactly.",
+      "zh": "确切地说，这是一个名词。"
+    },
+    {
+      "id": 119,
+      "start": 255.34,
+      "end": 256.34,
+      "en": "And it's...",
+      "zh": "它是..."
+    },
+    {
+      "id": 120,
+      "start": 256.34,
+      "end": 260.36,
+      "en": "So, in the beginning of a match, the two players will stand face-to-face, right?",
+      "zh": "所以，在比赛开始时，两名球员将面对面站立，对吧？"
+    },
+    {
+      "id": 121,
+      "start": 260.64,
+      "end": 263.26,
+      "en": "That's why it's called kind of a face-off.",
+      "zh": "这就是为什么它被称为一种对峙。"
+    },
+    {
+      "id": 122,
+      "start": 263.26,
+      "end": 265.74,
+      "en": "And the referee will drop the puck and they'll try to get it.",
+      "zh": "裁判会放下冰球，他们会试图得到它。"
+    },
+    {
+      "id": 123,
+      "start": 266.1,
+      "end": 267.1,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 124,
+      "start": 267.1,
+      "end": 268.1,
+      "en": "So, that's the face-off.",
+      "zh": "所以，这就是对峙。"
+    },
+    {
+      "id": 125,
+      "start": 268.1,
+      "end": 269.1,
+      "en": "That's the face-off.",
+      "zh": "这就是对峙。"
+    },
+    {
+      "id": 126,
+      "start": 269.1,
+      "end": 270.1,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 127,
+      "start": 270.1,
+      "end": 271.1,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 128,
+      "start": 271.1,
+      "end": 271.56,
+      "en": "Let's take a look at our next word.",
+      "zh": "我们来看看下一个词。"
+    },
+    {
+      "id": 129,
+      "start": 272.38,
+      "end": 272.58,
+      "en": "Check.",
+      "zh": "用身体冲撞对手。"
+    },
+    {
+      "id": 130,
+      "start": 273.12,
+      "end": 273.44,
+      "en": "Check.",
+      "zh": "用身体冲撞对手。"
+    },
+    {
+      "id": 131,
+      "start": 274.59,
+      "end": 274.91,
+      "en": "To check.",
+      "zh": "用身体冲撞对手。"
+    },
+    {
+      "id": 132,
+      "start": 275.29,
+      "end": 275.97,
+      "en": "To check.",
+      "zh": "用身体冲撞对手。"
+    },
+    {
+      "id": 133,
+      "start": 276.1,
+      "end": 278.7,
+      "en": "So, an interesting verb here, hey?",
+      "zh": "那么，这里有一个有趣的动词，嘿？"
+    },
+    {
+      "id": 134,
+      "start": 278.7,
+      "end": 284.86,
+      "en": "Yeah, it's really interesting because it's different from the way that you would say check or revise, right?",
+      "zh": "是的，这真的很有趣，因为它与你说检查或修改的方式不同，对吧？"
+    },
+    {
+      "id": 135,
+      "start": 284.86,
+      "end": 285.86,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 136,
+      "start": 285.86,
+      "end": 288.18,
+      "en": "This is actually kind of a violent move.",
+      "zh": "这实际上是一种暴力的举动。"
+    },
+    {
+      "id": 137,
+      "start": 288.73,
+      "end": 288.91,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 138,
+      "start": 289.33,
+      "end": 289.97,
+      "en": "So, what do you do?",
+      "zh": "那么，你是做什么的？"
+    },
+    {
+      "id": 139,
+      "start": 290.18,
+      "end": 295.47,
+      "en": "So, basically, in hockey, you take your body and you hit another person with it.",
+      "zh": "所以，基本上，在曲棍球中，你拿走你的身体，你用它打了另一个人。"
+    },
+    {
+      "id": 140,
+      "start": 295.74,
+      "end": 296.74,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 141,
+      "start": 296.74,
+      "end": 299.51,
+      "en": "So, to check someone is to hit them with your body.",
+      "zh": "所以，检查某人就是用你的身体击中他们。"
+    },
+    {
+      "id": 142,
+      "start": 299.78,
+      "end": 300.21,
+      "en": "With your body, right.",
+      "zh": "用你的身体，对。"
+    },
+    {
+      "id": 143,
+      "start": 300.78,
+      "end": 303.19,
+      "en": "You can't use your arms or your legs or your hands.",
+      "zh": "你不能使用你的手臂、腿或手。"
+    },
+    {
+      "id": 144,
+      "start": 303.74,
+      "end": 306.14,
+      "en": "You can only hit them like with your shoulder or your hip.",
+      "zh": "你只能像你的肩膀或臀部一样击打它们。"
+    },
+    {
+      "id": 145,
+      "start": 306.61,
+      "end": 306.85,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 146,
+      "start": 307.14,
+      "end": 308.14,
+      "en": "It's called a hip check.",
+      "zh": "它被称为臀部检查。"
+    },
+    {
+      "id": 147,
+      "start": 308.14,
+      "end": 309.14,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 148,
+      "start": 309.14,
+      "end": 310.14,
+      "en": "So, yeah.",
+      "zh": "所以，对。"
+    },
+    {
+      "id": 149,
+      "start": 310.14,
+      "end": 311.14,
+      "en": "It's very cool.",
+      "zh": "非常酷。"
+    },
+    {
+      "id": 150,
+      "start": 311.14,
+      "end": 312.14,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 151,
+      "start": 312.14,
+      "end": 313.14,
+      "en": "Our next word, goalie.",
+      "zh": "我们的下一个词，守门员。"
+    },
+    {
+      "id": 152,
+      "start": 313.14,
+      "end": 314.14,
+      "en": "Goalie.",
+      "zh": "守门员。"
+    },
+    {
+      "id": 153,
+      "start": 314.14,
+      "end": 315.14,
+      "en": "Goalie.",
+      "zh": "守门员。"
+    },
+    {
+      "id": 154,
+      "start": 315.14,
+      "end": 316.14,
+      "en": "Goalie.",
+      "zh": "守门员。"
+    },
+    {
+      "id": 155,
+      "start": 316.14,
+      "end": 318.18,
+      "en": "A goalie is a person.",
+      "zh": "守门员是一个人。"
+    },
+    {
+      "id": 156,
+      "start": 318.18,
+      "end": 319.18,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 157,
+      "start": 319.18,
+      "end": 322.31,
+      "en": "And probably the bravest of the hockey match.",
+      "zh": "可能是曲棍球比赛中最勇敢的人。"
+    },
+    {
+      "id": 158,
+      "start": 322.54,
+      "end": 323.54,
+      "en": "No kidding.",
+      "zh": "可不是嘛。"
+    },
+    {
+      "id": 159,
+      "start": 323.54,
+      "end": 325.45,
+      "en": "So, why don't you tell us what the goalie does?",
+      "zh": "那么，你为什么不告诉我们守门员的工作呢？"
+    },
+    {
+      "id": 160,
+      "start": 326.3,
+      "end": 330.37,
+      "en": "The goalie prevents the puck from coming in the net.",
+      "zh": "守门员防止冰球进入网。"
+    },
+    {
+      "id": 161,
+      "start": 331.06,
+      "end": 332.21,
+      "en": "From going into the goal, right?",
+      "zh": "从进入目标，对吧？"
+    },
+    {
+      "id": 162,
+      "start": 332.22,
+      "end": 333.22,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 163,
+      "start": 333.22,
+      "end": 335.67,
+      "en": "So, the goalie stops the other team from getting a goal.",
+      "zh": "所以，守门员阻止另一支球队进球。"
+    },
+    {
+      "id": 164,
+      "start": 336.02,
+      "end": 336.33,
+      "en": "A goal.",
+      "zh": "一个目标。"
+    },
+    {
+      "id": 165,
+      "start": 337.02,
+      "end": 338.02,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 166,
+      "start": 338.02,
+      "end": 339.02,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 167,
+      "start": 339.02,
+      "end": 340.02,
+      "en": "So, the goalie prevents the goals.",
+      "zh": "所以，守门员阻止了进球。"
+    },
+    {
+      "id": 168,
+      "start": 340.02,
+      "end": 341.02,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 169,
+      "start": 341.02,
+      "end": 342.02,
+      "en": "Very interesting.",
+      "zh": "很有意思。"
+    },
+    {
+      "id": 170,
+      "start": 342.02,
+      "end": 343.86,
+      "en": "Now, our fourth word is related to goalie.",
+      "zh": "现在，我们的第四个词与守门员有关。"
+    },
+    {
+      "id": 171,
+      "start": 343.86,
+      "end": 344.86,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 172,
+      "start": 344.86,
+      "end": 345.09,
+      "en": "Save.",
+      "zh": "扑救。"
+    },
+    {
+      "id": 173,
+      "start": 346.33,
+      "end": 346.85,
+      "en": "Save.",
+      "zh": "扑救。"
+    },
+    {
+      "id": 174,
+      "start": 346.86,
+      "end": 347.37,
+      "en": "Save.",
+      "zh": "扑救。"
+    },
+    {
+      "id": 175,
+      "start": 348.17,
+      "end": 348.39,
+      "en": "Save.",
+      "zh": "扑救。"
+    },
+    {
+      "id": 176,
+      "start": 348.86,
+      "end": 349.86,
+      "en": "That's a noun, right?",
+      "zh": "这是一个名词，对吧？"
+    },
+    {
+      "id": 177,
+      "start": 349.86,
+      "end": 350.01,
+      "en": "It's a noun here.",
+      "zh": "这里是名词。"
+    },
+    {
+      "id": 178,
+      "start": 350.86,
+      "end": 351.05,
+      "en": "It's a noun here.",
+      "zh": "这里是名词。"
+    },
+    {
+      "id": 179,
+      "start": 351.86,
+      "end": 353.37,
+      "en": "So, the goalie makes saves.",
+      "zh": "所以，守门员做出扑救。"
+    },
+    {
+      "id": 180,
+      "start": 353.98,
+      "end": 354.11,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 181,
+      "start": 354.98,
+      "end": 358.09,
+      "en": "When he stops a goal, he makes a save.",
+      "zh": "当他停止一个目标时，他会做出扑救。"
+    },
+    {
+      "id": 182,
+      "start": 358.6,
+      "end": 359.41,
+      "en": "Makes a save, right?",
+      "zh": "做个扑救，对吧？"
+    },
+    {
+      "id": 183,
+      "start": 359.6,
+      "end": 360.6,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 184,
+      "start": 360.6,
+      "end": 361.6,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 185,
+      "start": 361.6,
+      "end": 366.26,
+      "en": "We have some examples so we can understand this form of using save.",
+      "zh": "我们有一些例子，以便我们可以理解这种使用保存的形式。"
+    },
+    {
+      "id": 186,
+      "start": 366.26,
+      "end": 367.9,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 187,
+      "start": 367.9,
+      "end": 368.18,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 188,
+      "start": 371.06,
+      "end": 372.44,
+      "en": "That was an unbelievable save.",
+      "zh": "那是一个令人难以置信的扑救。"
+    },
+    {
+      "id": 189,
+      "start": 376.76,
+      "end": 377.02,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 190,
+      "start": 379.84,
+      "end": 381.28,
+      "en": "The goalie didn't make the save.",
+      "zh": "守门员没有做出扑救。"
+    },
+    {
+      "id": 191,
+      "start": 384.68,
+      "end": 385.68,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 192,
+      "start": 385.68,
+      "end": 386.68,
+      "en": "What a save!",
+      "zh": "多么节省！"
+    },
+    {
+      "id": 193,
+      "start": 386.68,
+      "end": 389.68,
+      "en": "The Russians win!",
+      "zh": "俄罗斯人赢了！"
+    },
+    {
+      "id": 194,
+      "start": 390.03,
+      "end": 399.55,
+      "en": "Yeah, a little bit unusual here that save is a noun instead of a verb, but I think those examples were helpful.",
+      "zh": "是的，这里有点不寻常，save 是名词而不是动词，但我认为这些例子很有帮助。"
+    },
+    {
+      "id": 195,
+      "start": 400.12,
+      "end": 401.12,
+      "en": "Mm-hmm.",
+      "zh": "嗯。"
+    },
+    {
+      "id": 196,
+      "start": 401.12,
+      "end": 404.31,
+      "en": "Now, let's take a look at our last word, breakaway.",
+      "zh": "现在，让我们来看看我们的最后一个词，Breakaway。"
+    },
+    {
+      "id": 197,
+      "start": 404.52,
+      "end": 405.52,
+      "en": "Breakaway.",
+      "zh": "单刀突破。"
+    },
+    {
+      "id": 198,
+      "start": 405.52,
+      "end": 406.01,
+      "en": "Breakaway.",
+      "zh": "单刀突破。"
+    },
+    {
+      "id": 199,
+      "start": 406.25,
+      "end": 406.87,
+      "en": "Breakaway.",
+      "zh": "单刀突破。"
+    },
+    {
+      "id": 200,
+      "start": 407.45,
+      "end": 410.09,
+      "en": "Okay, so you have two words there that we know already.",
+      "zh": "好的，所以你有两个我们已经知道的词。"
+    },
+    {
+      "id": 201,
+      "start": 410.25,
+      "end": 410.43,
+      "en": "Break.",
+      "zh": "休息。"
+    },
+    {
+      "id": 202,
+      "start": 411.68,
+      "end": 412.68,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 203,
+      "start": 412.68,
+      "end": 413.68,
+      "en": "Right?",
+      "zh": "对吧？"
+    },
+    {
+      "id": 204,
+      "start": 413.68,
+      "end": 414.68,
+      "en": "And away.",
+      "zh": "和离开。"
+    },
+    {
+      "id": 205,
+      "start": 414.68,
+      "end": 415.68,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 206,
+      "start": 415.68,
+      "end": 416.68,
+      "en": "So what do these two words together actually mean?",
+      "zh": "那么这两个词实际上是什么意思呢？"
+    },
+    {
+      "id": 207,
+      "start": 416.68,
+      "end": 420.53,
+      "en": "Well, imagine a group of hockey players all fighting to get the puck, right?",
+      "zh": "好吧，想象一下一群曲棍球运动员都在为拿到冰球而战，对吧？"
+    },
+    {
+      "id": 208,
+      "start": 421.08,
+      "end": 426.6,
+      "en": "And then one player breaks off, breaks out of the group.",
+      "zh": "然后一名球员中断，突破组。"
+    },
+    {
+      "id": 209,
+      "start": 426.6,
+      "end": 427.6,
+      "en": "Escapes.",
+      "zh": "逃脱。"
+    },
+    {
+      "id": 210,
+      "start": 427.6,
+      "end": 428.6,
+      "en": "Yeah, yeah, yeah.",
+      "zh": "对，对，对。"
+    },
+    {
+      "id": 211,
+      "start": 428.6,
+      "end": 430.8,
+      "en": "And he skates down the ice and he has the puck.",
+      "zh": "他滑下冰面，他有冰球。"
+    },
+    {
+      "id": 212,
+      "start": 430.95,
+      "end": 432.85,
+      "en": "And he's far away from the other players.",
+      "zh": "而且他离其他球员很远。"
+    },
+    {
+      "id": 213,
+      "start": 433.21,
+      "end": 433.55,
+      "en": "Right, right.",
+      "zh": "对，对。"
+    },
+    {
+      "id": 214,
+      "start": 433.77,
+      "end": 436.25,
+      "en": "So he's going away from the other players by himself.",
+      "zh": "所以他自己离开了其他球员。"
+    },
+    {
+      "id": 215,
+      "start": 436.6,
+      "end": 437.6,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 216,
+      "start": 437.6,
+      "end": 438.6,
+      "en": "Okay, so breakaway.",
+      "zh": "好吧，所以突破。"
+    },
+    {
+      "id": 217,
+      "start": 438.6,
+      "end": 439.6,
+      "en": "Mm-hmm.",
+      "zh": "嗯。"
+    },
+    {
+      "id": 218,
+      "start": 439.6,
+      "end": 440.6,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 219,
+      "start": 440.6,
+      "end": 442.51,
+      "en": "So we've looked at a lot of hockey language here.",
+      "zh": "所以我们在这里看了很多曲棍球语言。"
+    },
+    {
+      "id": 220,
+      "start": 442.72,
+      "end": 443.72,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 221,
+      "start": 443.72,
+      "end": 446.88,
+      "en": "And I think it's time now to listen to our dialogue again.",
+      "zh": "我认为现在是时候再听我们的对话了。"
+    },
+    {
+      "id": 222,
+      "start": 446.88,
+      "end": 448.47,
+      "en": "This time we're going to slow it down a little bit.",
+      "zh": "这次我们要慢一点。"
+    },
+    {
+      "id": 223,
+      "start": 448.71,
+      "end": 453.13,
+      "en": "Yeah, I think this will help you to understand these words a little bit better.",
+      "zh": "是的，我认为这将帮助您更好地理解这些单词。"
+    },
+    {
+      "id": 224,
+      "start": 459.86,
+      "end": 461.14,
+      "en": "Hello everyone.",
+      "zh": "大家好。"
+    },
+    {
+      "id": 225,
+      "start": 462.2,
+      "end": 466.72,
+      "en": "I'm Rick Fields and here with me is Bob Copeland.",
+      "zh": "我是 Rick Fields，和我在一起的是 Bob Copeland。"
+    },
+    {
+      "id": 226,
+      "start": 467.34,
+      "end": 469.84,
+      "en": "Howdy folks and welcome to today's game.",
+      "zh": "大家好，欢迎来到今天的游戏。"
+    },
+    {
+      "id": 227,
+      "start": 470.34,
+      "end": 474.46,
+      "en": "You know, Rick, today is a key game between Russia and Canada.",
+      "zh": "你知道，瑞克，今天是俄罗斯和加拿大之间的关键比赛。"
+    },
+    {
+      "id": 228,
+      "start": 475.12,
+      "end": 478.06,
+      "en": "As you know, the winner will move on to the finals.",
+      "zh": "赢的一方将晋级决赛。"
+    },
+    {
+      "id": 229,
+      "start": 478.76,
+      "end": 479.42,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 230,
+      "start": 479.5,
+      "end": 482.78,
+      "en": "And it looks like we're just about ready to start the match.",
+      "zh": "看来比赛马上就要开始了。"
+    },
+    {
+      "id": 231,
+      "start": 483.48,
+      "end": 486.72,
+      "en": "The ref is calling the players for the faceoff.",
+      "zh": "裁判正叫球员上前争球。"
+    },
+    {
+      "id": 232,
+      "start": 486.72,
+      "end": 487.54,
+      "en": "And here we go.",
+      "zh": "好了，开始吧。"
+    },
+    {
+      "id": 233,
+      "start": 488.28,
+      "end": 491.56,
+      "en": "The Russians win possession and immediately set up their attack.",
+      "zh": "俄罗斯人赢得了控球权并立即发起了进攻。"
+    },
+    {
+      "id": 234,
+      "start": 492.48,
+      "end": 495.48,
+      "en": "Fedorov gets checked hard into the boards.",
+      "zh": "费多罗夫被狠狠撞到了围板上。"
+    },
+    {
+      "id": 235,
+      "start": 495.48,
+      "end": 500.56,
+      "en": "Moisei Shad has the puck now and passes it to the center.",
+      "zh": "Moisei Shad 现在有冰球并将其传递给中心。"
+    },
+    {
+      "id": 236,
+      "start": 500.6,
+      "end": 501.02,
+      "en": "He shoots.",
+      "zh": "他射门了。"
+    },
+    {
+      "id": 237,
+      "start": 501.66,
+      "end": 503.62,
+      "en": "Wow, what a save by the goalie.",
+      "zh": "哇，守门员的扑救。"
+    },
+    {
+      "id": 238,
+      "start": 505.92,
+      "end": 506.2,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 239,
+      "start": 506.92,
+      "end": 508.4,
+      "en": "The puck is back in play now.",
+      "zh": "冰球重新投入比赛。"
+    },
+    {
+      "id": 240,
+      "start": 508.88,
+      "end": 511.68,
+      "en": "Pavel Burei is on a breakaway.",
+      "zh": "Pavel Burei 处于脱离状态。"
+    },
+    {
+      "id": 241,
+      "start": 511.68,
+      "end": 513.06,
+      "en": "He is flying down the ice.",
+      "zh": "他在冰面上飞速滑行。"
+    },
+    {
+      "id": 242,
+      "start": 513.7,
+      "end": 515.24,
+      "en": "The defenders can't keep up.",
+      "zh": "防守队员跟不上。"
+    },
+    {
+      "id": 243,
+      "start": 515.88,
+      "end": 516.88,
+      "en": "Slapshot.",
+      "zh": "大力击射！"
+    },
+    {
+      "id": 244,
+      "start": 516.88,
+      "end": 517.22,
+      "en": "He scores.",
+      "zh": "进球了！"
+    },
+    {
+      "id": 245,
+      "start": 517.88,
+      "end": 524.88,
+      "en": "What an amazing goal.",
+      "zh": "多么精彩的一球！"
+    },
+    {
+      "id": 246,
+      "start": 524.88,
+      "end": 532.84,
+      "en": "OK, this dialogue is interesting because we have commentators narrating or describing what's happening.",
+      "zh": "好的，这个对话很有趣，因为我们有评论员讲述或描述正在发生的事情。"
+    },
+    {
+      "id": 247,
+      "start": 532.84,
+      "end": 533.84,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 248,
+      "start": 533.84,
+      "end": 534.84,
+      "en": "In that moment, right?",
+      "zh": "在那一刻，对吧？"
+    },
+    {
+      "id": 249,
+      "start": 534.84,
+      "end": 535.84,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 250,
+      "start": 535.84,
+      "end": 537.28,
+      "en": "And they're using some interesting grammar, aren't they?",
+      "zh": "他们正在使用一些有趣的语法，不是吗？"
+    },
+    {
+      "id": 251,
+      "start": 537.28,
+      "end": 538.28,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 252,
+      "start": 538.28,
+      "end": 540.33,
+      "en": "They are because some actions are happening in that moment.",
+      "zh": "他们是因为在那一刻发生了一些行动。"
+    },
+    {
+      "id": 253,
+      "start": 541.32,
+      "end": 543.21,
+      "en": "But we noticed something a little bit strange.",
+      "zh": "但我们注意到一些奇怪的事情。"
+    },
+    {
+      "id": 254,
+      "start": 543.36,
+      "end": 544.36,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 255,
+      "start": 544.36,
+      "end": 545.79,
+      "en": "Let's look at it in Grammar Breakdown.",
+      "zh": "让我们在语法分解中看看它。"
+    },
+    {
+      "id": 256,
+      "start": 547.92,
+      "end": 548.92,
+      "en": "Grammar Breakdown.",
+      "zh": "语法解析。"
+    },
+    {
+      "id": 257,
+      "start": 548.92,
+      "end": 554.16,
+      "en": "OK, let's listen to this sentence that we previously heard in the dialogue.",
+      "zh": "好的，让我们听听我们之前在对话中听到的这句话。"
+    },
+    {
+      "id": 258,
+      "start": 554.16,
+      "end": 558.68,
+      "en": "Moisei Shad has the puck now and passes it to the center.",
+      "zh": "Moisei Shad 现在有冰球并将其传递给中心。"
+    },
+    {
+      "id": 259,
+      "start": 558.68,
+      "end": 561.68,
+      "en": "He shoots.",
+      "zh": "他射门了。"
+    },
+    {
+      "id": 260,
+      "start": 561.68,
+      "end": 566.12,
+      "en": "Moisei Shad has the puck now and passes it to the center.",
+      "zh": "Moisei Shad 现在有冰球并将其传递给中心。"
+    },
+    {
+      "id": 261,
+      "start": 566.12,
+      "end": 567.12,
+      "en": "He shoots.",
+      "zh": "他射门了。"
+    },
+    {
+      "id": 262,
+      "start": 567.12,
+      "end": 571.32,
+      "en": "I noticed that he's using the present simple, right?",
+      "zh": "我注意到他正在使用现在简单的，对吧？"
+    },
+    {
+      "id": 263,
+      "start": 571.32,
+      "end": 571.58,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 264,
+      "start": 572.32,
+      "end": 576.4,
+      "en": "So even though the action is now, it's in present simple.",
+      "zh": "因此，即使是现在的动作，它也很简单。"
+    },
+    {
+      "id": 265,
+      "start": 576.4,
+      "end": 577.4,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 266,
+      "start": 577.4,
+      "end": 584.36,
+      "en": "Even though the action is happening in that moment, he's not using the present progressive or the present continuous.",
+      "zh": "即使动作发生在那一刻，他也没有使用现在的进步或当前连续。"
+    },
+    {
+      "id": 267,
+      "start": 584.36,
+      "end": 587.97,
+      "en": "This is because if you notice, the actions are very, very brief.",
+      "zh": "这是因为如果您注意到，操作非常非常简短。"
+    },
+    {
+      "id": 268,
+      "start": 588.56,
+      "end": 588.73,
+      "en": "And fast.",
+      "zh": "而且很快。"
+    },
+    {
+      "id": 269,
+      "start": 589.56,
+      "end": 590.56,
+      "en": "And fast.",
+      "zh": "而且很快。"
+    },
+    {
+      "id": 270,
+      "start": 590.56,
+      "end": 591.56,
+      "en": "And exciting.",
+      "zh": "和令人兴奋。"
+    },
+    {
+      "id": 271,
+      "start": 591.56,
+      "end": 592.56,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 272,
+      "start": 592.56,
+      "end": 596.88,
+      "en": "So you don't really have enough time to say, for example, he is shooting.",
+      "zh": "所以你真的没有足够的时间说，例如，他正在拍摄。"
+    },
+    {
+      "id": 273,
+      "start": 596.88,
+      "end": 597.24,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 274,
+      "start": 598.12,
+      "end": 599.56,
+      "en": "Because it's only one quick action.",
+      "zh": "因为它只是一种快速动作。"
+    },
+    {
+      "id": 275,
+      "start": 599.92,
+      "end": 601.2,
+      "en": "He shoots the puck very fast.",
+      "zh": "他很快就射出了冰球。"
+    },
+    {
+      "id": 276,
+      "start": 601.72,
+      "end": 602.72,
+      "en": "Right?",
+      "zh": "对吧？"
+    },
+    {
+      "id": 277,
+      "start": 602.72,
+      "end": 604.6,
+      "en": "Or for example, you wouldn't really say, he is passing.",
+      "zh": "或者，例如，你不会真的说，他正在通过。"
+    },
+    {
+      "id": 278,
+      "start": 605.2,
+      "end": 606.64,
+      "en": "Yeah, he is passing the puck.",
+      "zh": "是的，他正在传球。"
+    },
+    {
+      "id": 279,
+      "start": 606.94,
+      "end": 607.12,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 280,
+      "start": 607.42,
+      "end": 608.4,
+      "en": "It's just one quick action.",
+      "zh": "这只是一种快速动作。"
+    },
+    {
+      "id": 281,
+      "start": 608.6,
+      "end": 609.82,
+      "en": "He takes it and passes it.",
+      "zh": "他拿走它并通过它。"
+    },
+    {
+      "id": 282,
+      "start": 610.2,
+      "end": 610.92,
+      "en": "And the action is finished.",
+      "zh": "动作完成。"
+    },
+    {
+      "id": 283,
+      "start": 611.36,
+      "end": 612.36,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 284,
+      "start": 612.36,
+      "end": 614.9,
+      "en": "I think we can see a few more examples of this.",
+      "zh": "我想我们可以看到更多的例子。"
+    },
+    {
+      "id": 285,
+      "start": 616.12,
+      "end": 616.78,
+      "en": "Let's listen again.",
+      "zh": "让我们再听一遍。"
+    },
+    {
+      "id": 286,
+      "start": 618.72,
+      "end": 621.95,
+      "en": "The Russians win possession and immediately set up their attack.",
+      "zh": "俄罗斯人赢得了控球权并立即发起了进攻。"
+    },
+    {
+      "id": 287,
+      "start": 625.0,
+      "end": 628.26,
+      "en": "The Russians win possession and immediately set up their attack.",
+      "zh": "俄罗斯人赢得了控球权并立即发起了进攻。"
+    },
+    {
+      "id": 288,
+      "start": 630.35,
+      "end": 634.77,
+      "en": "Here, we can hear that he is using the present simple again.",
+      "zh": "在这里，我们可以听到他再次使用现在的简单。"
+    },
+    {
+      "id": 289,
+      "start": 635.72,
+      "end": 638.75,
+      "en": "Because these are very short actions that finish quickly.",
+      "zh": "因为这些是非常短的动作，可以快速完成。"
+    },
+    {
+      "id": 290,
+      "start": 639.12,
+      "end": 640.12,
+      "en": "Right?",
+      "zh": "对吧？"
+    },
+    {
+      "id": 291,
+      "start": 640.12,
+      "end": 641.12,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 292,
+      "start": 641.12,
+      "end": 650.68,
+      "en": "And it's actually very, very common when you're describing something you see that's happening now, that's really exciting.",
+      "zh": "当您描述您看到的现在正在发生的事情时，这实际上非常非常普遍，这真的很令人兴奋。"
+    },
+    {
+      "id": 293,
+      "start": 650.68,
+      "end": 652.21,
+      "en": "It's common to use present simple.",
+      "zh": "通常使用现在简单。"
+    },
+    {
+      "id": 294,
+      "start": 652.41,
+      "end": 652.69,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 295,
+      "start": 653.07,
+      "end": 656.81,
+      "en": "If you pay attention, most sporting events are in the same way.",
+      "zh": "如果你注意，大多数体育赛事也是如此。"
+    },
+    {
+      "id": 296,
+      "start": 657.73,
+      "end": 661.53,
+      "en": "They would describe the actions that are happening in the present simple.",
+      "zh": "他们将描述当前简单中正在发生的动作。"
+    },
+    {
+      "id": 297,
+      "start": 661.53,
+      "end": 662.59,
+      "en": "Not present progressive.",
+      "zh": "不呈现渐进式。"
+    },
+    {
+      "id": 298,
+      "start": 663.0,
+      "end": 664.0,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 299,
+      "start": 664.0,
+      "end": 667.65,
+      "en": "But Marco, you have an example of some present progressive here, right?",
+      "zh": "但是马可，你有一个现在进步的例子，对吧？"
+    },
+    {
+      "id": 300,
+      "start": 668.2,
+      "end": 669.2,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 301,
+      "start": 669.2,
+      "end": 669.99,
+      "en": "Let's listen to this sentence.",
+      "zh": "让我们听听这句话。"
+    },
+    {
+      "id": 302,
+      "start": 671.64,
+      "end": 674.74,
+      "en": "He is flying down the ice.",
+      "zh": "他在冰面上飞速滑行。"
+    },
+    {
+      "id": 303,
+      "start": 674.74,
+      "end": 677.56,
+      "en": "He is flying down the ice.",
+      "zh": "他在冰面上飞速滑行。"
+    },
+    {
+      "id": 304,
+      "start": 677.56,
+      "end": 680.06,
+      "en": "Now we heard the sentence, he is flying down the ice.",
+      "zh": "现在我们听到了这句话，他正在飞下冰面。"
+    },
+    {
+      "id": 305,
+      "start": 680.64,
+      "end": 681.04,
+      "en": "Right?",
+      "zh": "对吧？"
+    },
+    {
+      "id": 306,
+      "start": 681.64,
+      "end": 682.32,
+      "en": "Now this one is in progressive.",
+      "zh": "现在这一项是渐进式的。"
+    },
+    {
+      "id": 307,
+      "start": 682.9,
+      "end": 683.02,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 308,
+      "start": 683.1,
+      "end": 683.64,
+      "en": "Why is that?",
+      "zh": "为什么会这样？"
+    },
+    {
+      "id": 309,
+      "start": 683.94,
+      "end": 688.62,
+      "en": "Well, first of all, when we say he's flying down the ice, it's not that he's literally flying.",
+      "zh": "好吧，首先，当我们说他在冰下飞翔时，并不是他真的在飞。"
+    },
+    {
+      "id": 310,
+      "start": 688.92,
+      "end": 689.88,
+      "en": "No, he's not an airplane.",
+      "zh": "不，他不是飞机。"
+    },
+    {
+      "id": 311,
+      "start": 690.42,
+      "end": 692.28,
+      "en": "He's just skating really fast.",
+      "zh": "他只是滑得很快。"
+    },
+    {
+      "id": 312,
+      "start": 692.72,
+      "end": 693.72,
+      "en": "Right?",
+      "zh": "对吧？"
+    },
+    {
+      "id": 313,
+      "start": 693.72,
+      "end": 698.04,
+      "en": "So we kind of exaggerate and we say, oh, he's flying down the ice.",
+      "zh": "所以我们有点夸张，我们说，哦，他正在冰下飞翔。"
+    },
+    {
+      "id": 314,
+      "start": 698.04,
+      "end": 699.0,
+      "en": "But he's actually skating.",
+      "zh": "但他实际上是在滑冰。"
+    },
+    {
+      "id": 315,
+      "start": 699.78,
+      "end": 701.4,
+      "en": "So this is a progressive action.",
+      "zh": "所以这是一个渐进式的行动。"
+    },
+    {
+      "id": 316,
+      "start": 701.64,
+      "end": 702.44,
+      "en": "He is doing it.",
+      "zh": "他正在这样做。"
+    },
+    {
+      "id": 317,
+      "start": 702.8,
+      "end": 705.0,
+      "en": "It's happening for more than one second.",
+      "zh": "它发生了超过一秒钟。"
+    },
+    {
+      "id": 318,
+      "start": 705.32,
+      "end": 706.32,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 319,
+      "start": 706.32,
+      "end": 707.32,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 320,
+      "start": 707.32,
+      "end": 711.38,
+      "en": "So that's why we would say, he is flying down the ice instead of he flies down the ice.",
+      "zh": "所以这就是为什么我们会说，他正在飞下冰面而不是飞下冰。"
+    },
+    {
+      "id": 321,
+      "start": 711.76,
+      "end": 712.76,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 322,
+      "start": 712.76,
+      "end": 713.76,
+      "en": "Right?",
+      "zh": "对吧？"
+    },
+    {
+      "id": 323,
+      "start": 713.76,
+      "end": 715.76,
+      "en": "He's skating really, really, really fast.",
+      "zh": "他在滑冰真的非常非常快。"
+    },
+    {
+      "id": 324,
+      "start": 715.76,
+      "end": 716.76,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 325,
+      "start": 716.76,
+      "end": 717.76,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 326,
+      "start": 717.76,
+      "end": 718.76,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 327,
+      "start": 718.76,
+      "end": 724.72,
+      "en": "So here we see that sometimes in English, we do use present simple to talk about what's happening now.",
+      "zh": "所以在这里我们看到有时在英语中，我们确实使用 Present Simple 来谈论现在发生的事情。"
+    },
+    {
+      "id": 328,
+      "start": 724.72,
+      "end": 725.72,
+      "en": "Right?",
+      "zh": "对吧？"
+    },
+    {
+      "id": 329,
+      "start": 725.72,
+      "end": 731.08,
+      "en": "When it happens really, really quickly or when we want to show that it's really exciting.",
+      "zh": "当它真的非常非常快地发生时，或者当我们想表明它真的很令人兴奋时。"
+    },
+    {
+      "id": 330,
+      "start": 731.08,
+      "end": 731.35,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 331,
+      "start": 732.08,
+      "end": 733.08,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 332,
+      "start": 733.08,
+      "end": 735.15,
+      "en": "Makes it much more exciting if we just use the present simple.",
+      "zh": "如果我们只使用现在简单的，让它变得更加令人兴奋。"
+    },
+    {
+      "id": 333,
+      "start": 735.64,
+      "end": 736.64,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 334,
+      "start": 736.64,
+      "end": 737.64,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 335,
+      "start": 737.64,
+      "end": 741.96,
+      "en": "Let's listen to this exciting dialogue one more time and we'll come back and talk a little bit more.",
+      "zh": "让我们再听一次激动人心的对话，我们会回来多说一点。"
+    },
+    {
+      "id": 336,
+      "start": 741.96,
+      "end": 743.96,
+      "en": "Hello everyone.",
+      "zh": "大家好。"
+    },
+    {
+      "id": 337,
+      "start": 743.96,
+      "end": 761.48,
+      "en": "I'm Rick Fields and here with me is Bob Copeland.",
+      "zh": "我是 Rick Fields，和我在一起的是 Bob Copeland。"
+    },
+    {
+      "id": 338,
+      "start": 761.48,
+      "end": 762.98,
+      "en": "Howdy folks and welcome to today's game.",
+      "zh": "大家好，欢迎来到今天的游戏。"
+    },
+    {
+      "id": 339,
+      "start": 763.64,
+      "end": 766.6,
+      "en": "You know, Rick, today's a key game between Russia and Canada.",
+      "zh": "瑞克，今天俄罗斯对加拿大可是场关键比赛。"
+    },
+    {
+      "id": 340,
+      "start": 766.6,
+      "end": 768.8,
+      "en": "As you know, the winner will move on to the finals.",
+      "zh": "赢的一方将晋级决赛。"
+    },
+    {
+      "id": 341,
+      "start": 769.46,
+      "end": 769.98,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 342,
+      "start": 770.36,
+      "end": 772.44,
+      "en": "Looks like we're just about ready to start the match.",
+      "zh": "看来我们正准备开始比赛。"
+    },
+    {
+      "id": 343,
+      "start": 773.08,
+      "end": 776.36,
+      "en": "The ref is calling the players for the face off and here we go.",
+      "zh": "裁判正在叫球员们面对面，我们开始了。"
+    },
+    {
+      "id": 344,
+      "start": 776.86,
+      "end": 779.5,
+      "en": "The Russians win possession and immediately start up their attack.",
+      "zh": "俄罗斯队抢到球，立刻发起进攻。"
+    },
+    {
+      "id": 345,
+      "start": 780.2,
+      "end": 782.72,
+      "en": "Fedorov gets checked hard into the boards.",
+      "zh": "费多罗夫被狠狠撞到了围板上。"
+    },
+    {
+      "id": 346,
+      "start": 782.72,
+      "end": 785.92,
+      "en": "Maurice Richart has the puck now and he passes it to Sender.",
+      "zh": "莫里斯·理查德现在有了冰球，他把它传给了发件人。"
+    },
+    {
+      "id": 347,
+      "start": 785.92,
+      "end": 786.13,
+      "en": "He shoots.",
+      "zh": "他射门了。"
+    },
+    {
+      "id": 348,
+      "start": 786.92,
+      "end": 787.92,
+      "en": "Wow.",
+      "zh": "哇。"
+    },
+    {
+      "id": 349,
+      "start": 787.92,
+      "end": 788.07,
+      "en": "What a save by the goalie.",
+      "zh": "守门员的扑救。"
+    },
+    {
+      "id": 350,
+      "start": 789.01,
+      "end": 789.71,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 351,
+      "start": 789.96,
+      "end": 791.25,
+      "en": "The puck is back in play now.",
+      "zh": "冰球重新投入比赛。"
+    },
+    {
+      "id": 352,
+      "start": 791.72,
+      "end": 793.44,
+      "en": "Pavel Bure is on a breakaway.",
+      "zh": "Pavel Bure 处于脱离状态。"
+    },
+    {
+      "id": 353,
+      "start": 793.44,
+      "end": 794.75,
+      "en": "He is flying down the ice.",
+      "zh": "他在冰面上飞速滑行。"
+    },
+    {
+      "id": 354,
+      "start": 795.32,
+      "end": 796.47,
+      "en": "The defenders can't keep up.",
+      "zh": "防守队员跟不上。"
+    },
+    {
+      "id": 355,
+      "start": 797.13,
+      "end": 797.47,
+      "en": "Slap shot.",
+      "zh": "拍打。"
+    },
+    {
+      "id": 356,
+      "start": 798.04,
+      "end": 798.17,
+      "en": "He scores.",
+      "zh": "进球了！"
+    },
+    {
+      "id": 357,
+      "start": 799.04,
+      "end": 807.0,
+      "en": "What an amazing goal.",
+      "zh": "多么精彩的一球！"
+    },
+    {
+      "id": 358,
+      "start": 807.0,
+      "end": 807.12,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 359,
+      "start": 808.0,
+      "end": 810.18,
+      "en": "So hockey is the Canadian national sport.",
+      "zh": "所以曲棍球是加拿大的国家运动。"
+    },
+    {
+      "id": 360,
+      "start": 810.7,
+      "end": 812.62,
+      "en": "Well, actually it isn't the national sport.",
+      "zh": "好吧，实际上它不是国家运动。"
+    },
+    {
+      "id": 361,
+      "start": 812.82,
+      "end": 812.94,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 362,
+      "start": 813.28,
+      "end": 813.62,
+      "en": "What is it?",
+      "zh": "怎么了？"
+    },
+    {
+      "id": 363,
+      "start": 814.84,
+      "end": 815.84,
+      "en": "Lacrosse.",
+      "zh": "长曲棍球。"
+    },
+    {
+      "id": 364,
+      "start": 815.84,
+      "end": 816.84,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 365,
+      "start": 816.84,
+      "end": 819.0,
+      "en": "But anyway, we're not, we don't have a lesson about lacrosse today.",
+      "zh": "但无论如何，我们不是，我们今天没有关于曲棍球的教训。"
+    },
+    {
+      "id": 366,
+      "start": 819.0,
+      "end": 819.12,
+      "en": "Not yet.",
+      "zh": "还没有。"
+    },
+    {
+      "id": 367,
+      "start": 820.0,
+      "end": 821.0,
+      "en": "No.",
+      "zh": "不。"
+    },
+    {
+      "id": 368,
+      "start": 821.0,
+      "end": 822.86,
+      "en": "But actually all Canadians love hockey.",
+      "zh": "但实际上所有加拿大人都喜欢曲棍球。"
+    },
+    {
+      "id": 369,
+      "start": 823.8,
+      "end": 827.44,
+      "en": "Like we start playing hockey when we're about two years old.",
+      "zh": "就像我们大约两岁时开始打曲棍球一样。"
+    },
+    {
+      "id": 370,
+      "start": 827.44,
+      "end": 828.44,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 371,
+      "start": 828.44,
+      "end": 832.5,
+      "en": "I've heard that some Canadian children learn how to skate before they learn how to walk.",
+      "zh": "我听说一些加拿大孩子在学习如何走路之前就学会了滑冰。"
+    },
+    {
+      "id": 372,
+      "start": 832.96,
+      "end": 833.76,
+      "en": "It's totally common.",
+      "zh": "这完全很常见。"
+    },
+    {
+      "id": 373,
+      "start": 835.18,
+      "end": 836.7,
+      "en": "Well, it is a great sport.",
+      "zh": "嗯，这是一项伟大的运动。"
+    },
+    {
+      "id": 374,
+      "start": 837.4,
+      "end": 838.4,
+      "en": "Very, very exciting.",
+      "zh": "非常非常令人兴奋。"
+    },
+    {
+      "id": 375,
+      "start": 838.4,
+      "end": 841.08,
+      "en": "It's very fast paced and it's very aggressive.",
+      "zh": "它的节奏非常快，而且非常具有侵略性。"
+    },
+    {
+      "id": 376,
+      "start": 841.4,
+      "end": 842.24,
+      "en": "That's what I like about it.",
+      "zh": "这就是我喜欢它的地方。"
+    },
+    {
+      "id": 377,
+      "start": 842.44,
+      "end": 842.7,
+      "en": "I know.",
+      "zh": "我知道。"
+    },
+    {
+      "id": 378,
+      "start": 843.4,
+      "end": 844.96,
+      "en": "Not violent, but very aggressive.",
+      "zh": "不是暴力，但非常具有攻击性。"
+    },
+    {
+      "id": 379,
+      "start": 844.96,
+      "end": 845.96,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 380,
+      "start": 845.96,
+      "end": 846.96,
+      "en": "But you know what?",
+      "zh": "不过你知道吗？"
+    },
+    {
+      "id": 381,
+      "start": 846.96,
+      "end": 849.68,
+      "en": "I must tell you that I am not a good Canadian.",
+      "zh": "我必须告诉你，我不是一个好的加拿大人。"
+    },
+    {
+      "id": 382,
+      "start": 850.5,
+      "end": 851.24,
+      "en": "You're not a hockey fan?",
+      "zh": "你不是曲棍球迷？"
+    },
+    {
+      "id": 383,
+      "start": 851.44,
+      "end": 852.44,
+      "en": "No, I'm not.",
+      "zh": "不，我不是。"
+    },
+    {
+      "id": 384,
+      "start": 852.86,
+      "end": 853.12,
+      "en": "Really?",
+      "zh": "真的吗？"
+    },
+    {
+      "id": 385,
+      "start": 853.44,
+      "end": 854.44,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 386,
+      "start": 854.44,
+      "end": 855.44,
+      "en": "I really, I really hate hockey.",
+      "zh": "我真的，我真的很讨厌曲棍球。"
+    },
+    {
+      "id": 387,
+      "start": 855.44,
+      "end": 856.44,
+      "en": "Why?",
+      "zh": "为什么？"
+    },
+    {
+      "id": 388,
+      "start": 856.44,
+      "end": 856.77,
+      "en": "You know what?",
+      "zh": "你知道吗？"
+    },
+    {
+      "id": 389,
+      "start": 857.44,
+      "end": 858.44,
+      "en": "the puck is so small.",
+      "zh": "冰球太小了。"
+    },
+    {
+      "id": 390,
+      "start": 858.44,
+      "end": 864.59,
+      "en": "It's hard to see where it is on the ice and it's cold and these guys are fighting and anyway.",
+      "zh": "很难看出它在冰上的什么地方，而且很冷，而且这些人都在打架。"
+    },
+    {
+      "id": 391,
+      "start": 865.16,
+      "end": 865.93,
+      "en": "Have you ever been to a hockey game?",
+      "zh": "你去过曲棍球比赛吗？"
+    },
+    {
+      "id": 392,
+      "start": 866.44,
+      "end": 867.44,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 393,
+      "start": 867.44,
+      "end": 867.75,
+      "en": "Many times.",
+      "zh": "多次。"
+    },
+    {
+      "id": 394,
+      "start": 868.44,
+      "end": 870.27,
+      "en": "And I just find that the puck is really small.",
+      "zh": "我只是发现冰球真的很小。"
+    },
+    {
+      "id": 395,
+      "start": 871.52,
+      "end": 873.32,
+      "en": "Maybe you just need better seats.",
+      "zh": "也许你只是需要更好的座位。"
+    },
+    {
+      "id": 396,
+      "start": 873.32,
+      "end": 874.32,
+      "en": "Maybe.",
+      "zh": "也许吧。"
+    },
+    {
+      "id": 397,
+      "start": 874.35,
+      "end": 875.93,
+      "en": "Well, what do you guys think about hockey?",
+      "zh": "好吧，你们对曲棍球有什么看法？"
+    },
+    {
+      "id": 398,
+      "start": 876.15,
+      "end": 885.48,
+      "en": "We'll post some videos and some pictures of hockey on the comment section so you can more or less see a little bit more about this really interesting sport and tell us what you think about it.",
+      "zh": "我们将在评论部分发布一些视频和曲棍球图片，以便您或多或少地了解有关这项非常有趣的运动的更多信息，并告诉我们您对此的看法。"
+    },
+    {
+      "id": 399,
+      "start": 885.84,
+      "end": 886.06,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 400,
+      "start": 887.12,
+      "end": 892.6,
+      "en": "And you can also check out our website, EnglishPod.com and you'll find some interesting stuff about hockey, right?",
+      "zh": "您还可以查看我们的网站 Englishpod.com，您会发现一些关于曲棍球的有趣内容，对吧？"
+    },
+    {
+      "id": 401,
+      "start": 892.6,
+      "end": 893.6,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 402,
+      "start": 893.6,
+      "end": 895.72,
+      "en": "And also lots of other great lessons.",
+      "zh": "还有很多其他很棒的课程。"
+    },
+    {
+      "id": 403,
+      "start": 895.72,
+      "end": 895.92,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 404,
+      "start": 896.3,
+      "end": 900.34,
+      "en": "And also if you have any questions or doubts about the lesson, you can leave your questions on the site.",
+      "zh": "此外，如果您对课程有任何疑问或疑问，您可以将您的问题留在网站上。"
+    },
+    {
+      "id": 405,
+      "start": 901.44,
+      "end": 901.8,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 406,
+      "start": 901.88,
+      "end": 902.42,
+      "en": "We're out of time.",
+      "zh": "我们没时间了。"
+    },
+    {
+      "id": 407,
+      "start": 902.7,
+      "end": 903.64,
+      "en": "We'll see you guys next time.",
+      "zh": "下次见，各位。"
+    },
+    {
+      "id": 408,
+      "start": 903.96,
+      "end": 905.32,
+      "en": "Thanks for listening and goodbye.",
+      "zh": "感谢收听，再见。"
+    }
+  ],
+  "dialog": {
+    "start": 172.7,
+    "end": 215.88,
+    "segmentIds": [
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104
+    ]
+  }
+}

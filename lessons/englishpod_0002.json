@@ -1,0 +1,1813 @@
+{
+  "version": 1,
+  "id": 2,
+  "number": "0002",
+  "title": "Elementary - Calling In Sick",
+  "audio": "mp3/2. Elementary - Calling In Sick.mp3",
+  "duration": 681.090625,
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.26,
+      "end": 2.56,
+      "en": "Hello English learners.",
+      "zh": "各位英语学习者，大家好。"
+    },
+    {
+      "id": 2,
+      "start": 2.92,
+      "end": 4.18,
+      "en": "Welcome to EnglishPod.",
+      "zh": "欢迎来到 EnglishPod。"
+    },
+    {
+      "id": 3,
+      "start": 4.5,
+      "end": 5.0,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 4,
+      "start": 5.4,
+      "end": 6.12,
+      "en": "And I'm Erica.",
+      "zh": "我叫 Erica。"
+    },
+    {
+      "id": 5,
+      "start": 6.66,
+      "end": 11.04,
+      "en": "And today we're going to be bringing you a very useful lesson about being sick.",
+      "zh": "今天我们将为您带来一个关于生病的非常有用的教训。"
+    },
+    {
+      "id": 6,
+      "start": 11.5,
+      "end": 11.66,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 7,
+      "start": 11.94,
+      "end": 19.12,
+      "en": "We're going to learn how to tell your boss that you can't go to work because you're sick.",
+      "zh": "我们将学习如何告诉你的老板你不能去上班，因为你生病了。"
+    },
+    {
+      "id": 8,
+      "start": 19.4,
+      "end": 19.7,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 9,
+      "start": 20.08,
+      "end": 24.75,
+      "en": "This is really important because we all get sick and sometimes you just can't go to work.",
+      "zh": "这真的很重要，因为我们都生病了，有时你就是不能去上班。"
+    },
+    {
+      "id": 10,
+      "start": 25.03,
+      "end": 25.25,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 11,
+      "start": 25.64,
+      "end": 29.19,
+      "en": "Or maybe sometimes you just don't want to go to work. Exactly. Maybe you're lying.",
+      "zh": "或者有时你只是不想去上班。 没错。 也许你在撒谎。"
+    },
+    {
+      "id": 12,
+      "start": 29.77,
+      "end": 36.47,
+      "en": "But we're going to be teaching you how to do it anyway. So before we start with our dialogue, let's take a look at vocabulary preview. Vocabulary preview.",
+      "zh": "但无论如何，我们将教您如何做到这一点。 因此，在我们开始对话之前，让我们看一下词汇预览。 词汇预览。"
+    },
+    {
+      "id": 13,
+      "start": 38.92,
+      "end": 42.56,
+      "en": "In this vocabulary preview, we have two words for you.",
+      "zh": "在这个词汇预览中，我们有两个词给你。"
+    },
+    {
+      "id": 14,
+      "start": 42.88,
+      "end": 45.2,
+      "en": "The first one is quite ill.",
+      "zh": "第一个病得很重。"
+    },
+    {
+      "id": 15,
+      "start": 45.7,
+      "end": 49.84,
+      "en": "Quite ill. Quite ill. So quite ill.",
+      "zh": "病得很。 病得很。 病得很重。"
+    },
+    {
+      "id": 16,
+      "start": 50.28,
+      "end": 50.9,
+      "en": "Very sick.",
+      "zh": "病得很重。"
+    },
+    {
+      "id": 17,
+      "start": 51.16,
+      "end": 51.44,
+      "en": "Very sick.",
+      "zh": "病得很重。"
+    },
+    {
+      "id": 18,
+      "start": 51.74,
+      "end": 53.48,
+      "en": "Quite is a synonym of very.",
+      "zh": "完全是非常的同义词。"
+    },
+    {
+      "id": 19,
+      "start": 53.48,
+      "end": 53.74,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 20,
+      "start": 54.26,
+      "end": 54.52,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 21,
+      "start": 55.1,
+      "end": 56.12,
+      "en": "Ill. Sick.",
+      "zh": "生病了。"
+    },
+    {
+      "id": 22,
+      "start": 56.58,
+      "end": 57.04,
+      "en": "Sick. Yep.",
+      "zh": "生病了。 是的。"
+    },
+    {
+      "id": 23,
+      "start": 57.4,
+      "end": 59.26,
+      "en": "So they both mean the same thing. No difference.",
+      "zh": "所以他们两个的意思是一样的。 没有区别。"
+    },
+    {
+      "id": 24,
+      "start": 59.54,
+      "end": 60.34,
+      "en": "No difference at all.",
+      "zh": "完全没有区别。"
+    },
+    {
+      "id": 25,
+      "start": 60.52,
+      "end": 63.98,
+      "en": "I just think ill is more common in British English.",
+      "zh": "我只是认为生病在英式英语中更为常见。"
+    },
+    {
+      "id": 26,
+      "start": 64.8,
+      "end": 68.27,
+      "en": "Exactly. All right. Let's take a look at our second word. Flu. The flu.",
+      "zh": "没错。 好的。 让我们来看看我们的第二个词。 流感。 流感。"
+    },
+    {
+      "id": 27,
+      "start": 68.55,
+      "end": 69.13,
+      "en": "The flu.",
+      "zh": "流感。"
+    },
+    {
+      "id": 28,
+      "start": 69.65,
+      "end": 70.19,
+      "en": "The flu.",
+      "zh": "流感。"
+    },
+    {
+      "id": 29,
+      "start": 71.99,
+      "end": 73.15,
+      "en": "So the flu is a virus.",
+      "zh": "所以流感是一种病毒。"
+    },
+    {
+      "id": 30,
+      "start": 73.73,
+      "end": 74.55,
+      "en": "Yeah, it's a sickness.",
+      "zh": "是的，这是一种疾病。"
+    },
+    {
+      "id": 31,
+      "start": 75.17,
+      "end": 75.47,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 32,
+      "start": 75.69,
+      "end": 77.53,
+      "en": "And it's very similar to a cold.",
+      "zh": "它非常类似于感冒。"
+    },
+    {
+      "id": 33,
+      "start": 78.21,
+      "end": 80.39,
+      "en": "Yes, but just a lot worse.",
+      "zh": "是的，但只是更糟。"
+    },
+    {
+      "id": 34,
+      "start": 80.63,
+      "end": 81.07,
+      "en": "A lot worse.",
+      "zh": "更糟。"
+    },
+    {
+      "id": 35,
+      "start": 81.09,
+      "end": 85.09,
+      "en": "So it's stronger. Yep. Yep. It's also called influenza.",
+      "zh": "所以它更强大。 是的。 是的。 它也被称为流感。"
+    },
+    {
+      "id": 36,
+      "start": 86.03,
+      "end": 86.55,
+      "en": "Influenza.",
+      "zh": "流感。"
+    },
+    {
+      "id": 37,
+      "start": 86.55,
+      "end": 87.01,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 38,
+      "start": 88.07,
+      "end": 88.99,
+      "en": "So the flu.",
+      "zh": "所以流感。"
+    },
+    {
+      "id": 39,
+      "start": 89.45,
+      "end": 89.87,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 40,
+      "start": 90.39,
+      "end": 91.41,
+      "en": "So let's listen to our dialogue.",
+      "zh": "所以让我们听听我们的对话。"
+    },
+    {
+      "id": 41,
+      "start": 91.69,
+      "end": 92.59,
+      "en": "What's going to happen here today?",
+      "zh": "今天这里会发生什么？"
+    },
+    {
+      "id": 42,
+      "start": 92.91,
+      "end": 97.97,
+      "en": "Well, we're going to listen as Julie calls her boss to tell him she's sick.",
+      "zh": "好吧，我们要听朱莉打电话给她的老板，告诉他她病了。"
+    },
+    {
+      "id": 43,
+      "start": 98.31,
+      "end": 98.65,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 44,
+      "start": 98.67,
+      "end": 99.99,
+      "en": "But is she really sick?",
+      "zh": "但她真的病了吗？"
+    },
+    {
+      "id": 45,
+      "start": 100.61,
+      "end": 100.93,
+      "en": "I don't know.",
+      "zh": "我不知道。"
+    },
+    {
+      "id": 46,
+      "start": 101.09,
+      "end": 101.57,
+      "en": "Let's find out.",
+      "zh": "让我们找出答案。"
+    },
+    {
+      "id": 47,
+      "start": 112.0,
+      "end": 112.44,
+      "en": "Hello.",
+      "zh": "你好。"
+    },
+    {
+      "id": 48,
+      "start": 112.66,
+      "end": 112.96,
+      "en": "Daniel speaking.",
+      "zh": "我是丹尼尔。"
+    },
+    {
+      "id": 49,
+      "start": 113.22,
+      "end": 113.72,
+      "en": "How may I help you?",
+      "zh": "有什么可以帮您？"
+    },
+    {
+      "id": 50,
+      "start": 114.66,
+      "end": 119.04,
+      "en": "Hi, Daniel. Julie here. Oh, hi, Julie.",
+      "zh": "嗨，丹尼尔，我是朱莉。哦，嗨，朱莉。"
+    },
+    {
+      "id": 51,
+      "start": 119.4,
+      "end": 119.92,
+      "en": "How are you?",
+      "zh": "你好吗？"
+    },
+    {
+      "id": 52,
+      "start": 120.68,
+      "end": 123.38,
+      "en": "Actually, I'm feeling quite ill today.",
+      "zh": "其实，我今天身体很不舒服。"
+    },
+    {
+      "id": 53,
+      "start": 123.7,
+      "end": 125.23,
+      "en": "Oh, I'm sorry to hear that.",
+      "zh": "哦，听到这个消息我很遗憾。"
+    },
+    {
+      "id": 54,
+      "start": 125.45,
+      "end": 125.79,
+      "en": "What's wrong?",
+      "zh": "怎么了？"
+    },
+    {
+      "id": 55,
+      "start": 126.67,
+      "end": 138.39,
+      "en": "I think I'm coming down with the flu. I have a headache, a sore throat, a runny nose, and I'm feeling slightly feverish. I see. So you're calling in sick.",
+      "zh": "我好像得了流感，头痛、喉咙痛、流鼻涕，还有点发烧。明白了，所以你是打电话请病假。"
+    },
+    {
+      "id": 56,
+      "start": 139.11,
+      "end": 139.59,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 57,
+      "start": 140.01,
+      "end": 143.17,
+      "en": "I was hoping to take the day off to recover.",
+      "zh": "我想请一天假休息恢复。"
+    },
+    {
+      "id": 58,
+      "start": 143.63,
+      "end": 145.83,
+      "en": "Okay, then try and get some rest.",
+      "zh": "好，那你好好休息。"
+    },
+    {
+      "id": 59,
+      "start": 152.48,
+      "end": 152.86,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 60,
+      "start": 152.86,
+      "end": 155.56,
+      "en": "So Julie didn't really seem to be sick, huh?",
+      "zh": "所以朱莉似乎并没有生病，对吧？"
+    },
+    {
+      "id": 61,
+      "start": 155.82,
+      "end": 156.12,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 62,
+      "start": 156.4,
+      "end": 160.12,
+      "en": "I don't know. That cough was just a little too much.",
+      "zh": "我不知道。 那个咳嗽有点太多了。"
+    },
+    {
+      "id": 63,
+      "start": 160.32,
+      "end": 161.54,
+      "en": "It seemed like she was acting.",
+      "zh": "好像她在演戏。"
+    },
+    {
+      "id": 64,
+      "start": 161.94,
+      "end": 162.06,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 65,
+      "start": 162.52,
+      "end": 162.9,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 66,
+      "start": 162.92,
+      "end": 165.86,
+      "en": "So let's take a look at some of this vocabulary in language takeaway.",
+      "zh": "所以让我们来看看语言外卖中的一些词汇表。"
+    },
+    {
+      "id": 67,
+      "start": 167.46,
+      "end": 168.34,
+      "en": "Language takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 68,
+      "start": 169.46,
+      "end": 176.06,
+      "en": "We have five words for you here, and these are all great words to describe a sickness, right? All right.",
+      "zh": "我们在这里有五个词给你，这些都是描述疾病的好词，对吧？ 好的。"
+    },
+    {
+      "id": 69,
+      "start": 176.08,
+      "end": 177.16,
+      "en": "The first one, headache.",
+      "zh": "第一个，头疼。"
+    },
+    {
+      "id": 70,
+      "start": 178.16,
+      "end": 178.34,
+      "en": "Headache.",
+      "zh": "头疼。"
+    },
+    {
+      "id": 71,
+      "start": 178.76,
+      "end": 179.06,
+      "en": "Headache.",
+      "zh": "头疼。"
+    },
+    {
+      "id": 72,
+      "start": 179.76,
+      "end": 180.32,
+      "en": "Headache.",
+      "zh": "头疼。"
+    },
+    {
+      "id": 73,
+      "start": 180.9,
+      "end": 184.5,
+      "en": "So when you have a headache, you have a sore head, right?",
+      "zh": "所以当你头疼的时候，你的头疼，对吧？"
+    },
+    {
+      "id": 74,
+      "start": 184.7,
+      "end": 187.76,
+      "en": "Right. Your head hurts. So it's pretty simple.",
+      "zh": "对。 你的头疼。 所以很简单。"
+    },
+    {
+      "id": 75,
+      "start": 188.06,
+      "end": 188.78,
+      "en": "Yep. You have a headache.",
+      "zh": "是的。 你头疼。"
+    },
+    {
+      "id": 76,
+      "start": 189.18,
+      "end": 194.98,
+      "en": "It's the way you feel after being at the bar too late. Yeah. When you drink too much, you get a headache.",
+      "zh": "这是你在酒吧太晚后的感觉。 是的。 当你喝得太多时，你会头疼。"
+    },
+    {
+      "id": 77,
+      "start": 195.32,
+      "end": 195.4,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 78,
+      "start": 196.0,
+      "end": 196.26,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 79,
+      "start": 196.34,
+      "end": 197.6,
+      "en": "Let's take a look at our next word.",
+      "zh": "我们来看看下一个词。"
+    },
+    {
+      "id": 80,
+      "start": 198.22,
+      "end": 198.86,
+      "en": "Sore throat.",
+      "zh": "喉咙痛。"
+    },
+    {
+      "id": 81,
+      "start": 199.5,
+      "end": 200.24,
+      "en": "Sore throat.",
+      "zh": "喉咙痛。"
+    },
+    {
+      "id": 82,
+      "start": 201.12,
+      "end": 202.1,
+      "en": "Sore throat.",
+      "zh": "喉咙痛。"
+    },
+    {
+      "id": 83,
+      "start": 202.58,
+      "end": 203.18,
+      "en": "Sore throat.",
+      "zh": "喉咙痛。"
+    },
+    {
+      "id": 84,
+      "start": 203.94,
+      "end": 205.76,
+      "en": "So basically we have two words here.",
+      "zh": "所以基本上我们在这里有两个词。"
+    },
+    {
+      "id": 85,
+      "start": 205.9,
+      "end": 206.56,
+      "en": "Let's look at the first one.",
+      "zh": "让我们看看第一个。"
+    },
+    {
+      "id": 86,
+      "start": 206.92,
+      "end": 207.1,
+      "en": "Sore.",
+      "zh": "疼。"
+    },
+    {
+      "id": 87,
+      "start": 208.06,
+      "end": 208.26,
+      "en": "Hurting.",
+      "zh": "伤害。"
+    },
+    {
+      "id": 88,
+      "start": 208.46,
+      "end": 210.88,
+      "en": "It hurts, right? Yeah. And your throat is?",
+      "zh": "很痛，对吧？ 是的。 你的喉咙是？"
+    },
+    {
+      "id": 89,
+      "start": 211.4,
+      "end": 213.74,
+      "en": "Well, you know, it's the part right here at the back.",
+      "zh": "好吧，你知道，这是后面的部分。"
+    },
+    {
+      "id": 90,
+      "start": 214.37,
+      "end": 214.95,
+      "en": "You can't see me.",
+      "zh": "你看不到我。"
+    },
+    {
+      "id": 91,
+      "start": 215.79,
+      "end": 220.41,
+      "en": "Well, it's the part at the back of your mouth that goes down to your stomach.",
+      "zh": "好吧，它是你嘴巴后面的部分，一直延伸到你的胃里。"
+    },
+    {
+      "id": 92,
+      "start": 220.61,
+      "end": 220.89,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 93,
+      "start": 221.05,
+      "end": 221.73,
+      "en": "That's your throat.",
+      "zh": "那是你的喉咙。"
+    },
+    {
+      "id": 94,
+      "start": 221.97,
+      "end": 222.09,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 95,
+      "start": 222.37,
+      "end": 223.67,
+      "en": "So you use your throat to swallow.",
+      "zh": "所以你用喉咙吞咽。"
+    },
+    {
+      "id": 96,
+      "start": 224.65,
+      "end": 224.89,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 97,
+      "start": 225.33,
+      "end": 229.35,
+      "en": "Now we can use the word sore with different body parts, right?",
+      "zh": "现在我们可以在不同的身体部位使用 sore 这个词，对吧？"
+    },
+    {
+      "id": 98,
+      "start": 229.53,
+      "end": 231.45,
+      "en": "Yeah. Like a sore back.",
+      "zh": "是的。 就像背痛一样。"
+    },
+    {
+      "id": 99,
+      "start": 231.93,
+      "end": 233.01,
+      "en": "A sore back, right?",
+      "zh": "背痛，对吧？"
+    },
+    {
+      "id": 100,
+      "start": 233.23,
+      "end": 236.63,
+      "en": "Or maybe you were playing tennis all weekend, so you have a sore arm.",
+      "zh": "或者你整个周末都在打网球，所以你的手臂酸痛。"
+    },
+    {
+      "id": 101,
+      "start": 237.37,
+      "end": 238.79,
+      "en": "Or even a sore neck.",
+      "zh": "甚至脖子酸痛。"
+    },
+    {
+      "id": 102,
+      "start": 239.15,
+      "end": 239.31,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 103,
+      "start": 239.89,
+      "end": 241.21,
+      "en": "So the word sore.",
+      "zh": "所以这个词很痛。"
+    },
+    {
+      "id": 104,
+      "start": 241.61,
+      "end": 243.05,
+      "en": "Let's take a look at our third word.",
+      "zh": "让我们来看看我们的第三个词。"
+    },
+    {
+      "id": 105,
+      "start": 243.87,
+      "end": 244.27,
+      "en": "Runny nose.",
+      "zh": "流鼻涕。"
+    },
+    {
+      "id": 106,
+      "start": 244.91,
+      "end": 245.87,
+      "en": "Runny nose.",
+      "zh": "流鼻涕。"
+    },
+    {
+      "id": 107,
+      "start": 246.47,
+      "end": 247.39,
+      "en": "Runny nose.",
+      "zh": "流鼻涕。"
+    },
+    {
+      "id": 108,
+      "start": 247.68,
+      "end": 250.21,
+      "en": "Runny nose. This is a very strange word.",
+      "zh": "流鼻涕。 这是一个非常奇怪的词。"
+    },
+    {
+      "id": 109,
+      "start": 250.43,
+      "end": 250.77,
+      "en": "I know.",
+      "zh": "我知道。"
+    },
+    {
+      "id": 110,
+      "start": 251.45,
+      "end": 254.13,
+      "en": "But it doesn't mean that your nose is running, right?",
+      "zh": "但这并不意味着你的鼻子在流淌，对吧？"
+    },
+    {
+      "id": 111,
+      "start": 254.41,
+      "end": 255.21,
+      "en": "No, but okay.",
+      "zh": "不，但还好。"
+    },
+    {
+      "id": 112,
+      "start": 256.39,
+      "end": 261.95,
+      "en": "No, but when you have a runny nose, there's lots of water coming out of your nose, right?",
+      "zh": "不，但是当你流鼻涕时，你的鼻子里有很多水，对吧？"
+    },
+    {
+      "id": 113,
+      "start": 262.03,
+      "end": 266.81,
+      "en": "Right. So it's interesting though, because when you run, you go fast, right?",
+      "zh": "对。 所以这很有趣，因为当你跑步时，你走得很快，对吧？"
+    },
+    {
+      "id": 114,
+      "start": 267.21,
+      "end": 271.75,
+      "en": "So a lot of water is coming fast out of your nose. Out of your nose.",
+      "zh": "所以很多水从你的鼻子里流出来。 从你的鼻子里出来。"
+    },
+    {
+      "id": 115,
+      "start": 271.99,
+      "end": 272.61,
+      "en": "Runny nose.",
+      "zh": "流鼻涕。"
+    },
+    {
+      "id": 116,
+      "start": 272.79,
+      "end": 272.93,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 117,
+      "start": 273.41,
+      "end": 273.97,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 118,
+      "start": 274.55,
+      "end": 277.09,
+      "en": "Our fourth word today, slightly feverish.",
+      "zh": "我们今天的第四个词，有点发烧。"
+    },
+    {
+      "id": 119,
+      "start": 277.33,
+      "end": 280.05,
+      "en": "Slightly feverish. Slightly feverish.",
+      "zh": "有点发烧。 有点发烧。"
+    },
+    {
+      "id": 120,
+      "start": 280.23,
+      "end": 281.25,
+      "en": "Slightly feverish.",
+      "zh": "有点发烧。"
+    },
+    {
+      "id": 121,
+      "start": 281.64,
+      "end": 284.3,
+      "en": "So again, slightly is a little bit.",
+      "zh": "再说一次，稍微有点。"
+    },
+    {
+      "id": 122,
+      "start": 284.42,
+      "end": 285.38,
+      "en": "A little bit, right?",
+      "zh": "一点点，对吧？"
+    },
+    {
+      "id": 123,
+      "start": 285.66,
+      "end": 287.44,
+      "en": "A little bit and feverish.",
+      "zh": "有点和发烧。"
+    },
+    {
+      "id": 124,
+      "start": 287.78,
+      "end": 289.18,
+      "en": "Well, let's break this word down.",
+      "zh": "好吧，让我们分解这个词。"
+    },
+    {
+      "id": 125,
+      "start": 289.82,
+      "end": 295.96,
+      "en": "We know fever, right? So when your body is very, very hot because you're sick.",
+      "zh": "我们知道发烧，对吧？ 所以当你的身体非常非常热时，因为你生病了。"
+    },
+    {
+      "id": 126,
+      "start": 296.7,
+      "end": 302.74,
+      "en": "So feverish is the feeling of your body being very, very hot.",
+      "zh": "如此发烧是你的身体非常非常热的感觉。"
+    },
+    {
+      "id": 127,
+      "start": 303.67,
+      "end": 304.17,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 128,
+      "start": 304.17,
+      "end": 305.57,
+      "en": "So you have a high temperature.",
+      "zh": "所以你的温度很高。"
+    },
+    {
+      "id": 129,
+      "start": 306.05,
+      "end": 311.49,
+      "en": "It's not that you have a high temperature, but you feel like you have a high temperature.",
+      "zh": "不是你有高温，而是你觉得你有一个高温。"
+    },
+    {
+      "id": 130,
+      "start": 311.71,
+      "end": 311.93,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 131,
+      "start": 312.69,
+      "end": 314.33,
+      "en": "So slightly feverish.",
+      "zh": "所以有点发烧。"
+    },
+    {
+      "id": 132,
+      "start": 314.9,
+      "end": 317.29,
+      "en": "And our last word, to recover.",
+      "zh": "和我们的最后一句话，恢复。"
+    },
+    {
+      "id": 133,
+      "start": 317.4,
+      "end": 318.84,
+      "en": "Recover.",
+      "zh": "康复。"
+    },
+    {
+      "id": 134,
+      "start": 318.84,
+      "end": 319.42,
+      "en": "Recover.",
+      "zh": "康复。"
+    },
+    {
+      "id": 135,
+      "start": 319.59,
+      "end": 319.71,
+      "en": "Recover.",
+      "zh": "康复。"
+    },
+    {
+      "id": 136,
+      "start": 321.07,
+      "end": 323.12,
+      "en": "So this means to get better, right?",
+      "zh": "所以这意味着变得更好，对吧？"
+    },
+    {
+      "id": 137,
+      "start": 323.12,
+      "end": 323.96,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 138,
+      "start": 324.02,
+      "end": 325.28,
+      "en": "Can you only use it when you're sick?",
+      "zh": "只有生病的时候才可以使用？"
+    },
+    {
+      "id": 139,
+      "start": 325.52,
+      "end": 328.42,
+      "en": "So when you recover, you get better and you rest.",
+      "zh": "所以当你恢复时，你会变得更好，你会休息。"
+    },
+    {
+      "id": 140,
+      "start": 328.92,
+      "end": 332.34,
+      "en": "So maybe you can say, I was so busy this week.",
+      "zh": "所以也许你可以说，这周我很忙。"
+    },
+    {
+      "id": 141,
+      "start": 332.52,
+      "end": 333.96,
+      "en": "I need to recover this weekend.",
+      "zh": "这个周末我需要恢复。"
+    },
+    {
+      "id": 142,
+      "start": 334.34,
+      "end": 334.58,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 143,
+      "start": 334.66,
+      "end": 337.66,
+      "en": "So yeah, if you feel tired or you feel sick, you can recover.",
+      "zh": "所以，是的，如果你感到疲倦或感到恶心，你可以恢复。"
+    },
+    {
+      "id": 144,
+      "start": 337.88,
+      "end": 339.16,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 145,
+      "start": 339.16,
+      "end": 344.44,
+      "en": "Let's listen to our dialogue again and we can listen to these words that we've just talked about.",
+      "zh": "让我们再听一遍我们的对话，我们可以听听我们刚刚谈到的这些话。"
+    },
+    {
+      "id": 146,
+      "start": 351.06,
+      "end": 351.82,
+      "en": "Hello, Daniel speaking.",
+      "zh": "你好，丹尼尔在说话。"
+    },
+    {
+      "id": 147,
+      "start": 352.12,
+      "end": 352.54,
+      "en": "How may I help you?",
+      "zh": "有什么可以帮您？"
+    },
+    {
+      "id": 148,
+      "start": 353.28,
+      "end": 353.82,
+      "en": "Hi, Daniel.",
+      "zh": "嗨，丹尼尔。"
+    },
+    {
+      "id": 149,
+      "start": 354.36,
+      "end": 355.04,
+      "en": "Julie here.",
+      "zh": "朱莉在这里。"
+    },
+    {
+      "id": 150,
+      "start": 356.98,
+      "end": 357.92,
+      "en": "Oh, hi, Julie.",
+      "zh": "哦，嗨，朱莉。"
+    },
+    {
+      "id": 151,
+      "start": 358.44,
+      "end": 358.8,
+      "en": "How are you?",
+      "zh": "你好吗？"
+    },
+    {
+      "id": 152,
+      "start": 359.3,
+      "end": 362.12,
+      "en": "Actually, I'm feeling quite ill today.",
+      "zh": "其实，我今天身体很不舒服。"
+    },
+    {
+      "id": 153,
+      "start": 362.52,
+      "end": 364.04,
+      "en": "Oh, I'm sorry to hear that.",
+      "zh": "哦，听到这个消息我很遗憾。"
+    },
+    {
+      "id": 154,
+      "start": 364.24,
+      "end": 364.58,
+      "en": "What's wrong?",
+      "zh": "怎么了？"
+    },
+    {
+      "id": 155,
+      "start": 365.27,
+      "end": 367.83,
+      "en": "I think I'm coming down with the flu.",
+      "zh": "我想我正在患上流感。"
+    },
+    {
+      "id": 156,
+      "start": 368.47,
+      "end": 375.37,
+      "en": "I have a headache, a sore throat, a runny nose, and I'm feeling slightly feverish.",
+      "zh": "我头痛，喉咙痛，流鼻涕，我感觉有点发烧。"
+    },
+    {
+      "id": 157,
+      "start": 375.47,
+      "end": 375.97,
+      "en": "I see.",
+      "zh": "我明白了。"
+    },
+    {
+      "id": 158,
+      "start": 376.49,
+      "end": 377.81,
+      "en": "So you're calling in sick.",
+      "zh": "所以你请病假。"
+    },
+    {
+      "id": 159,
+      "start": 378.59,
+      "end": 378.99,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 160,
+      "start": 379.45,
+      "end": 382.55,
+      "en": "I was hoping to take the day off to recover.",
+      "zh": "我想请一天假休息恢复。"
+    },
+    {
+      "id": 161,
+      "start": 382.97,
+      "end": 385.19,
+      "en": "Okay, then try and get some rest.",
+      "zh": "好，那你好好休息。"
+    },
+    {
+      "id": 162,
+      "start": 391.27,
+      "end": 397.29,
+      "en": "In this dialogue, we listen to some really interesting phrases of how you can tell your boss that you are feeling sick, right?",
+      "zh": "在这个对话中，我们听了一些非常有趣的短语，告诉你的老板你感觉不舒服，对吧？"
+    },
+    {
+      "id": 163,
+      "start": 397.49,
+      "end": 398.39,
+      "en": "Yeah, some great phrases.",
+      "zh": "是的，一些很棒的短语。"
+    },
+    {
+      "id": 164,
+      "start": 398.79,
+      "end": 401.47,
+      "en": "So let's look at these in Fluency Builder.",
+      "zh": "所以让我们看看这些在 Fluency Builder 中。"
+    },
+    {
+      "id": 165,
+      "start": 402.84,
+      "end": 403.62,
+      "en": "Fluency Builder.",
+      "zh": "流利表达。"
+    },
+    {
+      "id": 166,
+      "start": 404.38,
+      "end": 407.26,
+      "en": "Okay, let's take a look at our first phrase on Fluency Builder.",
+      "zh": "好的，让我们来看看我们关于 Fluency Builder 的第一个短语。"
+    },
+    {
+      "id": 167,
+      "start": 407.82,
+      "end": 409.22,
+      "en": "I'm coming down with.",
+      "zh": "我开始患上……"
+    },
+    {
+      "id": 168,
+      "start": 409.58,
+      "end": 411.16,
+      "en": "I'm coming down with.",
+      "zh": "我开始患上……"
+    },
+    {
+      "id": 169,
+      "start": 411.6,
+      "end": 413.32,
+      "en": "I'm coming down with.",
+      "zh": "我开始患上……"
+    },
+    {
+      "id": 170,
+      "start": 413.6,
+      "end": 414.46,
+      "en": "I'm coming down with.",
+      "zh": "我开始患上……"
+    },
+    {
+      "id": 171,
+      "start": 414.88,
+      "end": 420.58,
+      "en": "All right. So let's listen to some examples and then we'll come back and explain this interesting phrase.",
+      "zh": "好的。 所以让我们听一些例子，然后我们会回来解释这个有趣的短语。"
+    },
+    {
+      "id": 172,
+      "start": 421.34,
+      "end": 422.18,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 173,
+      "start": 423.27,
+      "end": 424.85,
+      "en": "My throat really hurts.",
+      "zh": "我的喉咙真的很痛。"
+    },
+    {
+      "id": 174,
+      "start": 425.69,
+      "end": 427.33,
+      "en": "I think I'm coming down with a cold.",
+      "zh": "我想我要感冒了。"
+    },
+    {
+      "id": 175,
+      "start": 429.93,
+      "end": 433.98,
+      "en": "Example two. You have a runny nose.",
+      "zh": "示例二。 你有一个流鼻涕。"
+    },
+    {
+      "id": 176,
+      "start": 434.56,
+      "end": 435.8,
+      "en": "Are you coming down with the flu?",
+      "zh": "你得感冒了吗？"
+    },
+    {
+      "id": 177,
+      "start": 438.59,
+      "end": 439.65,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 178,
+      "start": 442.54,
+      "end": 443.48,
+      "en": "I don't feel well.",
+      "zh": "我感觉不舒服。"
+    },
+    {
+      "id": 179,
+      "start": 444.03,
+      "end": 445.91,
+      "en": "I think I'm coming down with something.",
+      "zh": "我想我会遇到一些事情。"
+    },
+    {
+      "id": 180,
+      "start": 448.61,
+      "end": 451.15,
+      "en": "Okay, so basically coming down with means.",
+      "zh": "好的，所以基本上是用手段下来的。"
+    },
+    {
+      "id": 181,
+      "start": 451.15,
+      "end": 453.85,
+      "en": "Starting to get sick.",
+      "zh": "开始生病。"
+    },
+    {
+      "id": 182,
+      "start": 454.35,
+      "end": 456.69,
+      "en": "I'm beginning to feel sick.",
+      "zh": "我开始感到恶心。"
+    },
+    {
+      "id": 183,
+      "start": 456.93,
+      "end": 457.09,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 184,
+      "start": 457.59,
+      "end": 459.25,
+      "en": "Okay, so you can use it with.",
+      "zh": "好的，所以你可以使用它。"
+    },
+    {
+      "id": 185,
+      "start": 459.25,
+      "end": 460.55,
+      "en": "I'm coming down with the flu.",
+      "zh": "我正在感冒。"
+    },
+    {
+      "id": 186,
+      "start": 460.89,
+      "end": 462.41,
+      "en": "I'm coming down with a cold.",
+      "zh": "我感冒了。"
+    },
+    {
+      "id": 187,
+      "start": 463.43,
+      "end": 464.57,
+      "en": "I'm coming down with a cough.",
+      "zh": "我咳嗽下来了。"
+    },
+    {
+      "id": 188,
+      "start": 465.03,
+      "end": 467.61,
+      "en": "Yeah, or I'm coming down with something.",
+      "zh": "是的，或者我会遇到一些事情。"
+    },
+    {
+      "id": 189,
+      "start": 467.99,
+      "end": 469.17,
+      "en": "With something. You don't know what it is.",
+      "zh": "用一些东西。 你不知道它是什么。"
+    },
+    {
+      "id": 190,
+      "start": 469.45,
+      "end": 472.79,
+      "en": "Exactly. Okay, let's take a look at our second phrase.",
+      "zh": "没错。 好的，让我们看看我们的第二个短语。"
+    },
+    {
+      "id": 191,
+      "start": 473.45,
+      "end": 474.01,
+      "en": "Calling in sick.",
+      "zh": "病假。"
+    },
+    {
+      "id": 192,
+      "start": 474.77,
+      "end": 475.77,
+      "en": "Calling in sick.",
+      "zh": "病假。"
+    },
+    {
+      "id": 193,
+      "start": 476.25,
+      "end": 478.03,
+      "en": "Okay, calling in sick.",
+      "zh": "好吧，请病假。"
+    },
+    {
+      "id": 194,
+      "start": 478.71,
+      "end": 488.75,
+      "en": "So this phrase is great. You know, when you say I'm calling in sick, you're saying, hey, I'm not going to come to work today because I am sick.",
+      "zh": "所以这句话很棒。 你知道，当你说我请病假时，你是在说，嘿，我今天不会来上班，因为我生病了。"
+    },
+    {
+      "id": 195,
+      "start": 489.11,
+      "end": 493.73,
+      "en": "Okay, so literally it means that you call your office and you say you're not going to work.",
+      "zh": "好吧，从字面上看，这意味着你打电话给你的办公室，你说你不去工作。"
+    },
+    {
+      "id": 196,
+      "start": 493.95,
+      "end": 498.63,
+      "en": "Yes, but it's great because it's three words that show such a long idea.",
+      "zh": "是的，但这很棒，因为它是三个词，显示出如此长的想法。"
+    },
+    {
+      "id": 197,
+      "start": 499.07,
+      "end": 505.37,
+      "en": "Right, because otherwise you would have to say I'm calling because I don't feel well, so I'm not going to go to work.",
+      "zh": "对，因为否则你不得不说我打电话是因为我感觉不舒服，所以我不会去上班。"
+    },
+    {
+      "id": 198,
+      "start": 505.63,
+      "end": 508.01,
+      "en": "Yes, but if you say I'm calling in sick, everyone knows.",
+      "zh": "是的，但如果你说我请病假，每个人都知道。"
+    },
+    {
+      "id": 199,
+      "start": 508.39,
+      "end": 508.87,
+      "en": "Everyone understands.",
+      "zh": "每个人都明白。"
+    },
+    {
+      "id": 200,
+      "start": 508.87,
+      "end": 510.25,
+      "en": "That you're not going to go to work.",
+      "zh": "你不会去上班。"
+    },
+    {
+      "id": 201,
+      "start": 510.39,
+      "end": 513.49,
+      "en": "Yep. Okay, now let's take a look at our last phrase.",
+      "zh": "是的。 好的，现在让我们看看我们的最后一句话。"
+    },
+    {
+      "id": 202,
+      "start": 514.07,
+      "end": 514.73,
+      "en": "Take the day off.",
+      "zh": "请一天假。"
+    },
+    {
+      "id": 203,
+      "start": 515.03,
+      "end": 516.41,
+      "en": "Take the day off.",
+      "zh": "请一天假。"
+    },
+    {
+      "id": 204,
+      "start": 516.77,
+      "end": 518.13,
+      "en": "Take the day off.",
+      "zh": "请一天假。"
+    },
+    {
+      "id": 205,
+      "start": 518.31,
+      "end": 519.05,
+      "en": "Take the day off.",
+      "zh": "请一天假。"
+    },
+    {
+      "id": 206,
+      "start": 519.37,
+      "end": 520.47,
+      "en": "Now this is a great phrase.",
+      "zh": "现在这是一个很好的短语。"
+    },
+    {
+      "id": 207,
+      "start": 520.47,
+      "end": 523.03,
+      "en": "To take the day off is to?",
+      "zh": "休假是要什么？"
+    },
+    {
+      "id": 208,
+      "start": 523.03,
+      "end": 524.57,
+      "en": "Not go to work.",
+      "zh": "不去上班。"
+    },
+    {
+      "id": 209,
+      "start": 524.57,
+      "end": 525.47,
+      "en": "On that day.",
+      "zh": "那天。"
+    },
+    {
+      "id": 210,
+      "start": 525.65,
+      "end": 525.81,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 211,
+      "start": 526.19,
+      "end": 528.79,
+      "en": "Now you can say take the week off.",
+      "zh": "现在你可以说请假一周。"
+    },
+    {
+      "id": 212,
+      "start": 529.13,
+      "end": 530.15,
+      "en": "Take the month off.",
+      "zh": "休一个月。"
+    },
+    {
+      "id": 213,
+      "start": 530.56,
+      "end": 532.45,
+      "en": "Take the month off or take the year off.",
+      "zh": "休一个月或休一年假。"
+    },
+    {
+      "id": 214,
+      "start": 532.75,
+      "end": 534.05,
+      "en": "If you are so lucky.",
+      "zh": "如果你这么幸运。"
+    },
+    {
+      "id": 215,
+      "start": 534.75,
+      "end": 538.03,
+      "en": "All right, so take the day off means to not go to work on that day.",
+      "zh": "好吧，所以请假意味着那天不去上班。"
+    },
+    {
+      "id": 216,
+      "start": 538.55,
+      "end": 553.72,
+      "en": "All right, let's listen to our dialogue again now and then we'll come back and talk a little bit more. Hello, Daniel speaking. How may I help you? Hi, Daniel.",
+      "zh": "好吧，让我们现在再听一次我们的对话，然后我们会回来多说一点。 你好，丹尼尔在说话。 我有什么帮助你的吗? 嗨，丹尼尔。"
+    },
+    {
+      "id": 217,
+      "start": 554.49,
+      "end": 555.07,
+      "en": "Julie here.",
+      "zh": "朱莉在这里。"
+    },
+    {
+      "id": 218,
+      "start": 557.03,
+      "end": 557.79,
+      "en": "Oh, hi, Julie.",
+      "zh": "哦，嗨，朱莉。"
+    },
+    {
+      "id": 219,
+      "start": 558.21,
+      "end": 558.69,
+      "en": "How are you?",
+      "zh": "你好吗？"
+    },
+    {
+      "id": 220,
+      "start": 559.51,
+      "end": 562.21,
+      "en": "Actually, I'm feeling quite ill today.",
+      "zh": "其实，我今天身体很不舒服。"
+    },
+    {
+      "id": 221,
+      "start": 562.83,
+      "end": 564.07,
+      "en": "Oh, I'm sorry to hear that.",
+      "zh": "哦，听到这个消息我很遗憾。"
+    },
+    {
+      "id": 222,
+      "start": 564.17,
+      "end": 564.61,
+      "en": "What's wrong?",
+      "zh": "怎么了？"
+    },
+    {
+      "id": 223,
+      "start": 565.73,
+      "end": 567.57,
+      "en": "I think I'm coming down with the flu.",
+      "zh": "我想我正在患上流感。"
+    },
+    {
+      "id": 224,
+      "start": 567.99,
+      "end": 574.99,
+      "en": "I have a headache, a sore throat, a runny nose, and I'm feeling slightly feverish.",
+      "zh": "我头痛，喉咙痛，流鼻涕，我感觉有点发烧。"
+    },
+    {
+      "id": 225,
+      "start": 575.43,
+      "end": 577.25,
+      "en": "I see. So you're calling in sick.",
+      "zh": "我明白。 所以你请病假。"
+    },
+    {
+      "id": 226,
+      "start": 577.95,
+      "end": 582.07,
+      "en": "Yes, I was hoping to take the day off to recover.",
+      "zh": "是的，我希望有一天的假期恢复。"
+    },
+    {
+      "id": 227,
+      "start": 582.61,
+      "end": 584.79,
+      "en": "Okay, then try and get some rest.",
+      "zh": "好，那你好好休息。"
+    },
+    {
+      "id": 228,
+      "start": 591.59,
+      "end": 595.61,
+      "en": "Well, Marco, have you ever done what Julie did?",
+      "zh": "好吧，马可，你做过朱莉做过的事吗？"
+    },
+    {
+      "id": 229,
+      "start": 595.91,
+      "end": 599.45,
+      "en": "Did you ever call your boss to say you're sick when you're not really?",
+      "zh": "你有没有打电话给你的老板说你不是真的生病了？"
+    },
+    {
+      "id": 230,
+      "start": 599.77,
+      "end": 604.37,
+      "en": "Yeah, of course. I mean, sometimes you just don't feel very well, but you're not really sick.",
+      "zh": "是的，当然。 我的意思是，有时你只是感觉不太好，但你并没有真正生病。"
+    },
+    {
+      "id": 231,
+      "start": 604.37,
+      "end": 605.79,
+      "en": "You just don't feel like going to work.",
+      "zh": "你只是不想去上班。"
+    },
+    {
+      "id": 232,
+      "start": 606.07,
+      "end": 606.23,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 233,
+      "start": 606.67,
+      "end": 611.87,
+      "en": "Or sometimes you have something to do, right? Yep. You know what we call those in Canada?",
+      "zh": "或者有时你有事要做，对吧？ 是的。 你知道我们在加拿大叫什么吗？"
+    },
+    {
+      "id": 234,
+      "start": 612.43,
+      "end": 614.01,
+      "en": "We call them personal days.",
+      "zh": "我们称它们为个人日子。"
+    },
+    {
+      "id": 235,
+      "start": 614.41,
+      "end": 614.95,
+      "en": "Personal days.",
+      "zh": "个人日子。"
+    },
+    {
+      "id": 236,
+      "start": 615.21,
+      "end": 615.33,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 237,
+      "start": 615.91,
+      "end": 621.41,
+      "en": "So you say, oh, I'm going to take a personal day, meaning I'm going to call in sick, but then go shopping.",
+      "zh": "所以你说，哦，我要度过一个私人的一天，这意味着我要请病假，然后去购物。"
+    },
+    {
+      "id": 238,
+      "start": 622.35,
+      "end": 626.17,
+      "en": "We used to do that a lot because, for example, soccer games are such a big deal.",
+      "zh": "我们过去经常这样做，因为例如，足球比赛是一件大事。"
+    },
+    {
+      "id": 239,
+      "start": 626.31,
+      "end": 637.25,
+      "en": "Oh, yeah. And sometimes you would have a soccer match between, I don't know, Brazil, and it would be maybe at 10 a.m. or 11 a.m. So everyone would call in sick on that day.",
+      "zh": "哦，是的。 有时你会在巴西之间进行一场足球比赛，可能是在上午 10 点或 11 点，所以那天每个人都会请病假。"
+    },
+    {
+      "id": 240,
+      "start": 637.36,
+      "end": 637.74,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 241,
+      "start": 637.74,
+      "end": 640.31,
+      "en": "So the boss at least could plan that he would have an empty office.",
+      "zh": "所以老板至少可以计划他会有一个空荡荡的办公室。"
+    },
+    {
+      "id": 242,
+      "start": 640.42,
+      "end": 640.9,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 243,
+      "start": 640.9,
+      "end": 643.11,
+      "en": "Or sometimes you would take half the day off.",
+      "zh": "或者有时你会休息半天。"
+    },
+    {
+      "id": 244,
+      "start": 643.56,
+      "end": 648.42,
+      "en": "So you would just go, you say, well, I'm not going to make it in the morning, but I'll come in the afternoon.",
+      "zh": "所以你会去，你说，好吧，我不会在早上成功，但我会在下午来。"
+    },
+    {
+      "id": 245,
+      "start": 648.49,
+      "end": 650.27,
+      "en": "So you would recover very quickly.",
+      "zh": "所以你会很快恢复。"
+    },
+    {
+      "id": 246,
+      "start": 650.42,
+      "end": 651.52,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 247,
+      "start": 651.52,
+      "end": 654.55,
+      "en": "I'm feeling a little bit sick, but I'm going to be better in the afternoon.",
+      "zh": "我感觉有点恶心，但下午我会变得更好。"
+    },
+    {
+      "id": 248,
+      "start": 655.45,
+      "end": 656.21,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 249,
+      "start": 656.58,
+      "end": 660.21,
+      "en": "So, well, if you have any questions or comments, please come to our website.",
+      "zh": "所以，如果您有任何问题或意见，请访问我们的网站。"
+    },
+    {
+      "id": 250,
+      "start": 660.5,
+      "end": 663.65,
+      "en": "And if you have any calling in sick stories, please let us know.",
+      "zh": "如果您有任何呼唤病态的故事，请告诉我们。"
+    },
+    {
+      "id": 251,
+      "start": 664.05,
+      "end": 670.13,
+      "en": "Yes. You can visit us at EnglishPod.com and Marco and I are always there to answer your questions.",
+      "zh": "是的。 您可以访问 englishpod.com 和 Marco 访问我们，我总是在那里回答您的问题。"
+    },
+    {
+      "id": 252,
+      "start": 670.51,
+      "end": 671.03,
+      "en": "All right, folks.",
+      "zh": "好了，各位。"
+    },
+    {
+      "id": 253,
+      "start": 671.29,
+      "end": 672.13,
+      "en": "So we'll see you next time.",
+      "zh": "所以我们下次再见。"
+    },
+    {
+      "id": 254,
+      "start": 672.31,
+      "end": 672.83,
+      "en": "Thanks for listening.",
+      "zh": "感谢收听。"
+    },
+    {
+      "id": 255,
+      "start": 673.15,
+      "end": 673.23,
+      "en": "Goodbye.",
+      "zh": "再见。"
+    }
+  ],
+  "dialog": {
+    "start": 112.0,
+    "end": 145.83,
+    "segmentIds": [
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58
+    ]
+  }
+}

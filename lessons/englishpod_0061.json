@@ -1,0 +1,2498 @@
+{
+  "version": 1,
+  "id": 61,
+  "number": "0061",
+  "title": "The Weekend - Swim faster!",
+  "audio": "mp3/61. The Weekend - Swim faster!.mp3",
+  "duration": 747.6245,
+  "segments": [
+    {
+      "id": 1,
+      "start": 2.9,
+      "end": 4.06,
+      "en": "Hello, English learners.",
+      "zh": "各位英语学习者，大家好。"
+    },
+    {
+      "id": 2,
+      "start": 4.5,
+      "end": 5.58,
+      "en": "Welcome back to EnglishPod.",
+      "zh": "欢迎回到 EnglishPod。"
+    },
+    {
+      "id": 3,
+      "start": 5.88,
+      "end": 6.26,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 4,
+      "start": 6.68,
+      "end": 7.36,
+      "en": "And I'm Erica.",
+      "zh": "我叫 Erica。"
+    },
+    {
+      "id": 5,
+      "start": 7.84,
+      "end": 8.58,
+      "en": "And today we're swimming.",
+      "zh": "而今天我们在游泳。"
+    },
+    {
+      "id": 6,
+      "start": 9.16,
+      "end": 9.6,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 7,
+      "start": 10.42,
+      "end": 12.64,
+      "en": "A nice summertime lesson for everyone.",
+      "zh": "给大家一个很好的夏季课程。"
+    },
+    {
+      "id": 8,
+      "start": 12.64,
+      "end": 14.2,
+      "en": "A summertime lesson.",
+      "zh": "一个暑期课。"
+    },
+    {
+      "id": 9,
+      "start": 14.2,
+      "end": 18.28,
+      "en": "So we're going to be talking about swimming and, well, it's a very popular sport, right?",
+      "zh": "所以我们将谈论游泳，嗯，这是一项非常受欢迎的运动，对吧？"
+    },
+    {
+      "id": 10,
+      "start": 18.52,
+      "end": 19.52,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 11,
+      "start": 19.52,
+      "end": 22.1,
+      "en": "So this is another lesson in our sports series.",
+      "zh": "所以这是我们体育系列的另一个教训。"
+    },
+    {
+      "id": 12,
+      "start": 22.44,
+      "end": 23.84,
+      "en": "In our sports series.",
+      "zh": "在我们的运动系列中。"
+    },
+    {
+      "id": 13,
+      "start": 23.84,
+      "end": 24.84,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 14,
+      "start": 24.84,
+      "end": 27.34,
+      "en": "So why don't we preview some of the language we'll find in the dialogue.",
+      "zh": "那么我们为什么不预览一些我们会在对话中找到的语言。"
+    },
+    {
+      "id": 15,
+      "start": 29.4,
+      "end": 30.4,
+      "en": "Ready preview.",
+      "zh": "准备预览。"
+    },
+    {
+      "id": 16,
+      "start": 30.64,
+      "end": 31.2,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 17,
+      "start": 31.4,
+      "end": 33.94,
+      "en": "We have two words to look at here.",
+      "zh": "我们在这里有两个词要看。"
+    },
+    {
+      "id": 18,
+      "start": 34.56,
+      "end": 36.96,
+      "en": "The first word is sailing.",
+      "zh": "第一个词是航行。"
+    },
+    {
+      "id": 19,
+      "start": 37.74,
+      "end": 38.08,
+      "en": "Sailing.",
+      "zh": "帆船运动。"
+    },
+    {
+      "id": 20,
+      "start": 38.16,
+      "end": 39.16,
+      "en": "Sailing.",
+      "zh": "帆船运动。"
+    },
+    {
+      "id": 21,
+      "start": 39.16,
+      "end": 40.16,
+      "en": "Sailing.",
+      "zh": "帆船运动。"
+    },
+    {
+      "id": 22,
+      "start": 40.66,
+      "end": 42.88,
+      "en": "Well, this is the verb to sail, right?",
+      "zh": "好吧，这是动词，对吧？"
+    },
+    {
+      "id": 23,
+      "start": 44.1,
+      "end": 46.7,
+      "en": "So sailing is traveling in a boat.",
+      "zh": "所以航行就是乘船旅行。"
+    },
+    {
+      "id": 24,
+      "start": 47.02,
+      "end": 48.86,
+      "en": "In a boat with no engine.",
+      "zh": "在没有发动机的船上。"
+    },
+    {
+      "id": 25,
+      "start": 49.46,
+      "end": 49.6,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 26,
+      "start": 49.7,
+      "end": 52.34,
+      "en": "So you must use the wind to push you forward.",
+      "zh": "所以你必须用风来推动你前进。"
+    },
+    {
+      "id": 27,
+      "start": 52.66,
+      "end": 52.82,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 28,
+      "start": 53.32,
+      "end": 54.0,
+      "en": "That's a sailboat.",
+      "zh": "那是一艘帆船。"
+    },
+    {
+      "id": 29,
+      "start": 54.6,
+      "end": 55.6,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 30,
+      "start": 55.6,
+      "end": 56.6,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 31,
+      "start": 56.6,
+      "end": 57.6,
+      "en": "So sailing.",
+      "zh": "如此航行。"
+    },
+    {
+      "id": 32,
+      "start": 57.6,
+      "end": 58.6,
+      "en": "Now let's take a look at our other word.",
+      "zh": "现在让我们来看看我们的另一个词。"
+    },
+    {
+      "id": 33,
+      "start": 58.86,
+      "end": 59.42,
+      "en": "Anchor.",
+      "zh": "锚。"
+    },
+    {
+      "id": 34,
+      "start": 59.6,
+      "end": 60.6,
+      "en": "Anchor.",
+      "zh": "锚。"
+    },
+    {
+      "id": 35,
+      "start": 60.6,
+      "end": 61.6,
+      "en": "Another boat word here.",
+      "zh": "另一个船词在这里。"
+    },
+    {
+      "id": 36,
+      "start": 61.6,
+      "end": 62.6,
+      "en": "Anchor.",
+      "zh": "锚。"
+    },
+    {
+      "id": 37,
+      "start": 62.88,
+      "end": 63.38,
+      "en": "Anchor.",
+      "zh": "锚。"
+    },
+    {
+      "id": 38,
+      "start": 63.6,
+      "end": 64.6,
+      "en": "Anchor.",
+      "zh": "锚。"
+    },
+    {
+      "id": 39,
+      "start": 64.6,
+      "end": 67.6,
+      "en": "Now, it's spelled A-N-C-H-O-R.",
+      "zh": "现在，它拼写为 A-N-C-H-O-R。"
+    },
+    {
+      "id": 40,
+      "start": 67.6,
+      "end": 69.12,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 41,
+      "start": 69.12,
+      "end": 71.58,
+      "en": "But you don't pronounce the C-H as you normally would, right?",
+      "zh": "但是你不像往常那样发音C-H，对吧？"
+    },
+    {
+      "id": 42,
+      "start": 72.24,
+      "end": 75.56,
+      "en": "Another one of these really difficult to spell English words.",
+      "zh": "其中另一种非常难以拼写的英语单词。"
+    },
+    {
+      "id": 43,
+      "start": 75.98,
+      "end": 76.14,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 44,
+      "start": 76.88,
+      "end": 78.68,
+      "en": "So you don't say anchor, you would say anchor.",
+      "zh": "所以你不说锚，你会说锚。"
+    },
+    {
+      "id": 45,
+      "start": 79.32,
+      "end": 79.72,
+      "en": "Anchor.",
+      "zh": "锚。"
+    },
+    {
+      "id": 46,
+      "start": 80.32,
+      "end": 80.46,
+      "en": "Anchor.",
+      "zh": "锚。"
+    },
+    {
+      "id": 47,
+      "start": 81.97,
+      "end": 82.25,
+      "en": "Anchor.",
+      "zh": "锚。"
+    },
+    {
+      "id": 48,
+      "start": 82.32,
+      "end": 83.59,
+      "en": "So the anchor is a verb and a noun.",
+      "zh": "所以锚是一个动词和一个名词。"
+    },
+    {
+      "id": 49,
+      "start": 83.92,
+      "end": 84.92,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 50,
+      "start": 84.92,
+      "end": 94.08,
+      "en": "So when anchor is used as a noun, it means the hook that you throw over the boat into the water and it keeps you staying in the same place.",
+      "zh": "因此，当锚被用作名词时，这意味着您将船扔进水中的钩子，它可以让您保持在同一个地方。"
+    },
+    {
+      "id": 51,
+      "start": 94.08,
+      "end": 95.08,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 52,
+      "start": 95.08,
+      "end": 96.23,
+      "en": "But the verb to anchor.",
+      "zh": "而是动词来锚定。"
+    },
+    {
+      "id": 53,
+      "start": 96.56,
+      "end": 96.69,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 54,
+      "start": 97.09,
+      "end": 97.57,
+      "en": "What does it mean?",
+      "zh": "这是什么意思？"
+    },
+    {
+      "id": 55,
+      "start": 98.73,
+      "end": 99.21,
+      "en": "To do that.",
+      "zh": "这样做。"
+    },
+    {
+      "id": 56,
+      "start": 99.56,
+      "end": 100.56,
+      "en": "To do that, right?",
+      "zh": "这样做，对吧？"
+    },
+    {
+      "id": 57,
+      "start": 100.56,
+      "end": 104.99,
+      "en": "So to throw the anchor into the water, you would just say to anchor the boat.",
+      "zh": "所以要把锚扔进水里，你只想说锚船。"
+    },
+    {
+      "id": 58,
+      "start": 105.32,
+      "end": 106.32,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 59,
+      "start": 106.32,
+      "end": 108.04,
+      "en": "To keep it in the same place.",
+      "zh": "把它放在同一个地方。"
+    },
+    {
+      "id": 60,
+      "start": 108.04,
+      "end": 109.04,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 61,
+      "start": 109.04,
+      "end": 110.34,
+      "en": "Great words related to sailing.",
+      "zh": "与航行有关的好词。"
+    },
+    {
+      "id": 62,
+      "start": 110.96,
+      "end": 113.18,
+      "en": "But now let's listen to our dialogue for the first time.",
+      "zh": "但现在让我们第一次听我们的对话。"
+    },
+    {
+      "id": 63,
+      "start": 113.84,
+      "end": 114.96,
+      "en": "What's happening here, Erika?",
+      "zh": "这里发生了什么，埃里卡？"
+    },
+    {
+      "id": 64,
+      "start": 115.0,
+      "end": 119.52,
+      "en": "We've got two friends here who are sailing in their boat and they decide to take a swim.",
+      "zh": "我们这里有两个朋友在他们的船上航行，他们决定去游泳。"
+    },
+    {
+      "id": 65,
+      "start": 119.92,
+      "end": 121.22,
+      "en": "Let's see what happens.",
+      "zh": "让我们看看会发生什么。"
+    },
+    {
+      "id": 66,
+      "start": 130.71,
+      "end": 132.95,
+      "en": "This is such a beautiful day.",
+      "zh": "天气真好。"
+    },
+    {
+      "id": 67,
+      "start": 133.47,
+      "end": 134.13,
+      "en": "Great day for sailing.",
+      "zh": "真是个适合帆船出行的好天气。"
+    },
+    {
+      "id": 68,
+      "start": 134.57,
+      "end": 135.81,
+      "en": "It sure is.",
+      "zh": "的确如此。"
+    },
+    {
+      "id": 69,
+      "start": 136.09,
+      "end": 137.39,
+      "en": "The water looks so nice.",
+      "zh": "水看起来真清澈。"
+    },
+    {
+      "id": 70,
+      "start": 138.15,
+      "end": 139.29,
+      "en": "Anchor the boat for a little while.",
+      "zh": "先抛锚停一会儿。"
+    },
+    {
+      "id": 71,
+      "start": 139.69,
+      "end": 140.47,
+      "en": "I'm going to take a dip.",
+      "zh": "我要下去游一会儿。"
+    },
+    {
+      "id": 72,
+      "start": 144.84,
+      "end": 146.76,
+      "en": "Why are you doggy paddling?",
+      "zh": "你怎么在狗刨？"
+    },
+    {
+      "id": 73,
+      "start": 147.06,
+      "end": 148.02,
+      "en": "I taught you how to swim.",
+      "zh": "我教你游泳。"
+    },
+    {
+      "id": 74,
+      "start": 148.6,
+      "end": 149.88,
+      "en": "Do your breast stroke.",
+      "zh": "用蛙泳游呀。"
+    },
+    {
+      "id": 75,
+      "start": 150.4,
+      "end": 151.44,
+      "en": "I get too tired.",
+      "zh": "那样太累了。"
+    },
+    {
+      "id": 76,
+      "start": 152.8,
+      "end": 153.76,
+      "en": "I'll just backstroke.",
+      "zh": "我还是仰泳吧。"
+    },
+    {
+      "id": 77,
+      "start": 154.04,
+      "end": 154.44,
+      "en": "It's easier.",
+      "zh": "那更容易。"
+    },
+    {
+      "id": 78,
+      "start": 156.02,
+      "end": 157.62,
+      "en": "Try kicking your legs more.",
+      "zh": "试着再多踢踢腿。"
+    },
+    {
+      "id": 79,
+      "start": 158.63,
+      "end": 159.13,
+      "en": "That's good.",
+      "zh": "那很好。"
+    },
+    {
+      "id": 80,
+      "start": 159.63,
+      "end": 160.65,
+      "en": "Don't go out too far.",
+      "zh": "别游得太远。"
+    },
+    {
+      "id": 81,
+      "start": 161.21,
+      "end": 162.19,
+      "en": "It's fine.",
+      "zh": "没关系。"
+    },
+    {
+      "id": 82,
+      "start": 162.83,
+      "end": 163.59,
+      "en": "Jump in.",
+      "zh": "跳下去。"
+    },
+    {
+      "id": 83,
+      "start": 164.4,
+      "end": 167.44,
+      "en": "Kathy, get back here.",
+      "zh": "凯茜，快回来！"
+    },
+    {
+      "id": 84,
+      "start": 167.47,
+      "end": 168.01,
+      "en": "I see a shark.",
+      "zh": "我看到鲨鱼了！"
+    },
+    {
+      "id": 85,
+      "start": 168.86,
+      "end": 170.44,
+      "en": "Help me.",
+      "zh": "帮帮我。"
+    },
+    {
+      "id": 86,
+      "start": 170.44,
+      "end": 171.44,
+      "en": "Help.",
+      "zh": "救命。"
+    },
+    {
+      "id": 87,
+      "start": 172.12,
+      "end": 172.44,
+      "en": "Bring the boat closer.",
+      "zh": "把船开过来！"
+    },
+    {
+      "id": 88,
+      "start": 172.44,
+      "end": 173.44,
+      "en": "The shark is coming straight towards me.",
+      "zh": "鲨鱼直冲我游过来了！"
+    },
+    {
+      "id": 89,
+      "start": 173.44,
+      "end": 174.44,
+      "en": "It's right under you.",
+      "zh": "它就在你正下方。"
+    },
+    {
+      "id": 90,
+      "start": 174.44,
+      "end": 175.44,
+      "en": "Kathy.",
+      "zh": "凯茜！"
+    },
+    {
+      "id": 91,
+      "start": 183.5,
+      "end": 184.12,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 92,
+      "start": 184.44,
+      "end": 185.4,
+      "en": "So a shark attack.",
+      "zh": "所以鲨鱼袭击。"
+    },
+    {
+      "id": 93,
+      "start": 185.92,
+      "end": 186.46,
+      "en": "I know.",
+      "zh": "我知道。"
+    },
+    {
+      "id": 94,
+      "start": 186.74,
+      "end": 189.2,
+      "en": "This is my worst fear when swimming.",
+      "zh": "这是我游泳时最害怕的事情。"
+    },
+    {
+      "id": 95,
+      "start": 189.5,
+      "end": 191.06,
+      "en": "Really in the ocean, right?",
+      "zh": "真的在海里吗？"
+    },
+    {
+      "id": 96,
+      "start": 191.14,
+      "end": 191.28,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 97,
+      "start": 191.66,
+      "end": 194.28,
+      "en": "Well, also in the lake, but...",
+      "zh": "好吧，在湖里，但..."
+    },
+    {
+      "id": 98,
+      "start": 194.28,
+      "end": 195.24,
+      "en": "No sharks in lakes.",
+      "zh": "湖中没有鲨鱼。"
+    },
+    {
+      "id": 99,
+      "start": 195.26,
+      "end": 196.42,
+      "en": "I know, but I'm still afraid of them.",
+      "zh": "我知道，但我仍然害怕他们。"
+    },
+    {
+      "id": 100,
+      "start": 197.16,
+      "end": 199.32,
+      "en": "All right, so don't worry about it.",
+      "zh": "好吧，所以不要担心。"
+    },
+    {
+      "id": 101,
+      "start": 199.42,
+      "end": 200.46,
+      "en": "I'm sure the girl is okay.",
+      "zh": "我确定这个女孩没事。"
+    },
+    {
+      "id": 102,
+      "start": 201.36,
+      "end": 202.22,
+      "en": "It's probably not a shark.",
+      "zh": "它可能不是鲨鱼。"
+    },
+    {
+      "id": 103,
+      "start": 202.6,
+      "end": 203.6,
+      "en": "Maybe it was a dolphin.",
+      "zh": "也许是海豚。"
+    },
+    {
+      "id": 104,
+      "start": 203.6,
+      "end": 207.54,
+      "en": "Yeah, or maybe she's going to punch the shark in the face and she'll escape.",
+      "zh": "是的，或者她可能会打鲨鱼的脸，她会逃跑的。"
+    },
+    {
+      "id": 105,
+      "start": 208.16,
+      "end": 208.5,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 106,
+      "start": 208.72,
+      "end": 212.14,
+      "en": "Let's take a look at some of the words that we saw in Language Takeaway.",
+      "zh": "让我们来看看我们在语言外卖中看到的一些单词。"
+    },
+    {
+      "id": 107,
+      "start": 214.16,
+      "end": 214.5,
+      "en": "Language Takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 108,
+      "start": 216.2,
+      "end": 219.04,
+      "en": "We have three excellent swimming words for you.",
+      "zh": "我们为您准备了三个出色的游泳词。"
+    },
+    {
+      "id": 109,
+      "start": 219.36,
+      "end": 221.56,
+      "en": "The first one is doggy paddling.",
+      "zh": "第一个是小狗划桨。"
+    },
+    {
+      "id": 110,
+      "start": 222.32,
+      "end": 222.78,
+      "en": "Doggy paddling.",
+      "zh": "狗刨式游泳。"
+    },
+    {
+      "id": 111,
+      "start": 223.4,
+      "end": 223.78,
+      "en": "Doggy paddling.",
+      "zh": "狗刨式游泳。"
+    },
+    {
+      "id": 112,
+      "start": 224.48,
+      "end": 225.48,
+      "en": "So doggy paddling.",
+      "zh": "也就是狗刨式游泳。"
+    },
+    {
+      "id": 113,
+      "start": 226.24,
+      "end": 228.06,
+      "en": "It's not really a proper way of swimming, right?",
+      "zh": "这不是真正的游泳方式，对吧？"
+    },
+    {
+      "id": 114,
+      "start": 228.44,
+      "end": 230.34,
+      "en": "No, you don't see this in the Olympics.",
+      "zh": "不，你在奥运会上看不到这一点。"
+    },
+    {
+      "id": 115,
+      "start": 231.08,
+      "end": 235.02,
+      "en": "So if you've ever seen a dog swim, that's why they call it doggy paddling.",
+      "zh": "因此，如果您曾经见过狗游泳，这就是为什么他们称之为小狗划桨。"
+    },
+    {
+      "id": 116,
+      "start": 235.04,
+      "end": 236.04,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 117,
+      "start": 236.04,
+      "end": 238.32,
+      "en": "You're sort of moving your hands quickly in front of you.",
+      "zh": "你的手在你面前快速移动。"
+    },
+    {
+      "id": 118,
+      "start": 238.92,
+      "end": 240.16,
+      "en": "And your legs are all over the place.",
+      "zh": "你的腿到处都是。"
+    },
+    {
+      "id": 119,
+      "start": 240.44,
+      "end": 241.44,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 120,
+      "start": 241.44,
+      "end": 242.48,
+      "en": "And you're basically not really swimming.",
+      "zh": "而且你基本上不是在游泳。"
+    },
+    {
+      "id": 121,
+      "start": 242.48,
+      "end": 245.16,
+      "en": "You're just trying to stay afloat.",
+      "zh": "你只是想维持生计。"
+    },
+    {
+      "id": 122,
+      "start": 245.16,
+      "end": 246.0,
+      "en": "You're trying not to drown.",
+      "zh": "你尽量不淹死。"
+    },
+    {
+      "id": 123,
+      "start": 246.34,
+      "end": 246.94,
+      "en": "Trying not to sink.",
+      "zh": "尽量不下沉。"
+    },
+    {
+      "id": 124,
+      "start": 247.52,
+      "end": 248.52,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 125,
+      "start": 248.52,
+      "end": 249.52,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 126,
+      "start": 249.52,
+      "end": 250.52,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 127,
+      "start": 250.52,
+      "end": 251.52,
+      "en": "So doggy paddling.",
+      "zh": "也就是狗刨式游泳。"
+    },
+    {
+      "id": 128,
+      "start": 251.52,
+      "end": 252.52,
+      "en": "Again, this can be a noun or a verb.",
+      "zh": "同样，这可以是名词或动词。"
+    },
+    {
+      "id": 129,
+      "start": 252.52,
+      "end": 257.8,
+      "en": "It's either doggy paddle, this swimming style, or doggy paddling, the verb.",
+      "zh": "它要么是小狗桨，这种游泳风格，要么是小狗划桨，动词。"
+    },
+    {
+      "id": 130,
+      "start": 257.8,
+      "end": 258.8,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 131,
+      "start": 258.8,
+      "end": 259.8,
+      "en": "Interesting.",
+      "zh": "有意思。"
+    },
+    {
+      "id": 132,
+      "start": 259.8,
+      "end": 260.8,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 133,
+      "start": 260.8,
+      "end": 262.8,
+      "en": "Let's take a look at our second swimming style.",
+      "zh": "让我们来看看我们的第二种游泳风格。"
+    },
+    {
+      "id": 134,
+      "start": 262.8,
+      "end": 263.24,
+      "en": "Breaststroke.",
+      "zh": "蛙泳。"
+    },
+    {
+      "id": 135,
+      "start": 263.92,
+      "end": 264.56,
+      "en": "Breaststroke.",
+      "zh": "蛙泳。"
+    },
+    {
+      "id": 136,
+      "start": 264.86,
+      "end": 265.42,
+      "en": "Breaststroke.",
+      "zh": "蛙泳。"
+    },
+    {
+      "id": 137,
+      "start": 265.86,
+      "end": 266.64,
+      "en": "The breaststroke.",
+      "zh": "蛙泳。"
+    },
+    {
+      "id": 138,
+      "start": 267.15,
+      "end": 267.95,
+      "en": "How is this one?",
+      "zh": "这一款怎么样？"
+    },
+    {
+      "id": 139,
+      "start": 268.19,
+      "end": 270.21,
+      "en": "Well, it's sort of like swimming like a frog.",
+      "zh": "嗯，这有点像像青蛙一样游泳。"
+    },
+    {
+      "id": 140,
+      "start": 270.92,
+      "end": 274.44,
+      "en": "So you have your legs that are similar to like a frog, right?",
+      "zh": "所以你的腿像青蛙一样，对吧？"
+    },
+    {
+      "id": 141,
+      "start": 274.6,
+      "end": 275.6,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 142,
+      "start": 275.6,
+      "end": 276.8,
+      "en": "And what are your hands doing?",
+      "zh": "你的手在做什么？"
+    },
+    {
+      "id": 143,
+      "start": 276.8,
+      "end": 282.96,
+      "en": "Your hands are moving in front of you together, then out towards the side.",
+      "zh": "你的手在你面前移动，然后朝向一边。"
+    },
+    {
+      "id": 144,
+      "start": 283.4,
+      "end": 283.62,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 145,
+      "start": 284.08,
+      "end": 285.2,
+      "en": "So you're kind of doing like circles.",
+      "zh": "所以你有点像圆圈。"
+    },
+    {
+      "id": 146,
+      "start": 285.8,
+      "end": 285.92,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 147,
+      "start": 286.8,
+      "end": 287.28,
+      "en": "Half circles.",
+      "zh": "半圆。"
+    },
+    {
+      "id": 148,
+      "start": 287.64,
+      "end": 288.64,
+      "en": "Half circles.",
+      "zh": "半圆。"
+    },
+    {
+      "id": 149,
+      "start": 288.64,
+      "end": 289.64,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 150,
+      "start": 289.64,
+      "end": 290.64,
+      "en": "Breaststroke.",
+      "zh": "蛙泳。"
+    },
+    {
+      "id": 151,
+      "start": 290.64,
+      "end": 291.64,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 152,
+      "start": 291.64,
+      "end": 292.64,
+      "en": "But you get kind of tired when you swim like this, right?",
+      "zh": "但是当你这样游泳时你会有点累，对吧？"
+    },
+    {
+      "id": 153,
+      "start": 292.72,
+      "end": 293.26,
+      "en": "Yeah, maybe.",
+      "zh": "对，也许吧。"
+    },
+    {
+      "id": 154,
+      "start": 293.64,
+      "end": 294.64,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 155,
+      "start": 294.64,
+      "end": 295.64,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 156,
+      "start": 295.64,
+      "end": 296.94,
+      "en": "Now, let's take a look at our third word.",
+      "zh": "现在，让我们来看看我们的第三个词。"
+    },
+    {
+      "id": 157,
+      "start": 298.24,
+      "end": 298.56,
+      "en": "Backstroke.",
+      "zh": "仰泳。"
+    },
+    {
+      "id": 158,
+      "start": 299.26,
+      "end": 299.66,
+      "en": "Backstroke.",
+      "zh": "仰泳。"
+    },
+    {
+      "id": 159,
+      "start": 300.46,
+      "end": 300.86,
+      "en": "Backstroke.",
+      "zh": "仰泳。"
+    },
+    {
+      "id": 160,
+      "start": 301.24,
+      "end": 301.64,
+      "en": "Backstroke.",
+      "zh": "仰泳。"
+    },
+    {
+      "id": 161,
+      "start": 302.24,
+      "end": 303.48,
+      "en": "So this one is pretty easy.",
+      "zh": "所以这一款非常简单。"
+    },
+    {
+      "id": 162,
+      "start": 303.54,
+      "end": 304.98,
+      "en": "Backstroke, you are?",
+      "zh": "仰泳，你是吗？"
+    },
+    {
+      "id": 163,
+      "start": 304.98,
+      "end": 305.68,
+      "en": "Lying on your back.",
+      "zh": "躺在你的背上。"
+    },
+    {
+      "id": 164,
+      "start": 305.92,
+      "end": 306.54,
+      "en": "Lying on your back.",
+      "zh": "躺在你的背上。"
+    },
+    {
+      "id": 165,
+      "start": 306.7,
+      "end": 307.02,
+      "en": "In the water.",
+      "zh": "在水中。"
+    },
+    {
+      "id": 166,
+      "start": 308.08,
+      "end": 309.08,
+      "en": "Mm-hmm.",
+      "zh": "嗯。"
+    },
+    {
+      "id": 167,
+      "start": 309.08,
+      "end": 309.56,
+      "en": "And you're kicking your feet as well.",
+      "zh": "你也在踢你的脚。"
+    },
+    {
+      "id": 168,
+      "start": 310.08,
+      "end": 311.08,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 169,
+      "start": 311.08,
+      "end": 311.54,
+      "en": "But what are your hands doing?",
+      "zh": "但是你的手在做什么？"
+    },
+    {
+      "id": 170,
+      "start": 312.08,
+      "end": 313.42,
+      "en": "They're going back behind you.",
+      "zh": "他们会回到你身后。"
+    },
+    {
+      "id": 171,
+      "start": 313.68,
+      "end": 314.64,
+      "en": "See, I'm doing it now.",
+      "zh": "看，我现在正在做。"
+    },
+    {
+      "id": 172,
+      "start": 315.12,
+      "end": 316.12,
+      "en": "Can you see?",
+      "zh": "你能看到吗？"
+    },
+    {
+      "id": 173,
+      "start": 316.12,
+      "end": 316.54,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 174,
+      "start": 317.12,
+      "end": 320.44,
+      "en": "If you guys could be here in the studio, you would see Erica doing her backstroke.",
+      "zh": "如果你们可以在工作室里，你会看到 Erica 做她的仰泳。"
+    },
+    {
+      "id": 175,
+      "start": 320.44,
+      "end": 321.44,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 176,
+      "start": 321.44,
+      "end": 321.86,
+      "en": "I'm pretty good at it.",
+      "zh": "我很擅长。"
+    },
+    {
+      "id": 177,
+      "start": 322.44,
+      "end": 323.44,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 178,
+      "start": 323.44,
+      "end": 324.44,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 179,
+      "start": 324.44,
+      "end": 328.34,
+      "en": "So let's listen to this dialogue again, and then we'll come back and look at some great phrases.",
+      "zh": "所以让我们再听一次这个对话，然后我们会回来看看一些很棒的短语。"
+    },
+    {
+      "id": 180,
+      "start": 334.28,
+      "end": 336.75,
+      "en": "This is such a beautiful day.",
+      "zh": "天气真好。"
+    },
+    {
+      "id": 181,
+      "start": 337.92,
+      "end": 338.77,
+      "en": "Great day for sailing.",
+      "zh": "真是个适合帆船出行的好天气。"
+    },
+    {
+      "id": 182,
+      "start": 339.76,
+      "end": 340.66,
+      "en": "It sure is.",
+      "zh": "的确如此。"
+    },
+    {
+      "id": 183,
+      "start": 341.28,
+      "end": 343.04,
+      "en": "The water looks so nice.",
+      "zh": "水看起来真清澈。"
+    },
+    {
+      "id": 184,
+      "start": 343.68,
+      "end": 345.1,
+      "en": "Anchor the boat for a little while.",
+      "zh": "先抛锚停一会儿。"
+    },
+    {
+      "id": 185,
+      "start": 345.56,
+      "end": 346.98,
+      "en": "I'm going to take a dip.",
+      "zh": "我要下去游一会儿。"
+    },
+    {
+      "id": 186,
+      "start": 348.7,
+      "end": 350.46,
+      "en": "Why are you doggy paddling?",
+      "zh": "你怎么在狗刨？"
+    },
+    {
+      "id": 187,
+      "start": 350.8,
+      "end": 352.06,
+      "en": "I taught you how to swim.",
+      "zh": "我教你游泳。"
+    },
+    {
+      "id": 188,
+      "start": 352.64,
+      "end": 353.94,
+      "en": "Do your breaststroke.",
+      "zh": "做你的蛙泳。"
+    },
+    {
+      "id": 189,
+      "start": 354.62,
+      "end": 355.92,
+      "en": "I get too tired.",
+      "zh": "那样太累了。"
+    },
+    {
+      "id": 190,
+      "start": 356.76,
+      "end": 357.94,
+      "en": "I'll just backstroke.",
+      "zh": "我还是仰泳吧。"
+    },
+    {
+      "id": 191,
+      "start": 358.4,
+      "end": 358.86,
+      "en": "It's easier.",
+      "zh": "那更容易。"
+    },
+    {
+      "id": 192,
+      "start": 359.84,
+      "end": 361.38,
+      "en": "Try kicking your legs more.",
+      "zh": "试着再多踢踢腿。"
+    },
+    {
+      "id": 193,
+      "start": 362.38,
+      "end": 362.82,
+      "en": "That's good.",
+      "zh": "那很好。"
+    },
+    {
+      "id": 194,
+      "start": 363.56,
+      "end": 364.6,
+      "en": "Don't go out too far.",
+      "zh": "别游得太远。"
+    },
+    {
+      "id": 195,
+      "start": 365.1,
+      "end": 366.0,
+      "en": "It's fine.",
+      "zh": "没关系。"
+    },
+    {
+      "id": 196,
+      "start": 367.0,
+      "end": 367.44,
+      "en": "Jump in.",
+      "zh": "跳下去。"
+    },
+    {
+      "id": 197,
+      "start": 369.7,
+      "end": 371.77,
+      "en": "Kathy, get back here.",
+      "zh": "凯茜，快回来！"
+    },
+    {
+      "id": 198,
+      "start": 372.12,
+      "end": 372.97,
+      "en": "I see a shark.",
+      "zh": "我看到鲨鱼了！"
+    },
+    {
+      "id": 199,
+      "start": 373.12,
+      "end": 374.12,
+      "en": "Help me!",
+      "zh": "救救我!"
+    },
+    {
+      "id": 200,
+      "start": 377.18,
+      "end": 377.5,
+      "en": "Help!",
+      "zh": "救命！"
+    },
+    {
+      "id": 201,
+      "start": 378.1,
+      "end": 379.32,
+      "en": "Bring the boat closer.",
+      "zh": "把船开过来！"
+    },
+    {
+      "id": 202,
+      "start": 379.98,
+      "end": 382.84,
+      "en": "The shark is coming straight towards me.",
+      "zh": "鲨鱼直冲我游过来了！"
+    },
+    {
+      "id": 203,
+      "start": 383.14,
+      "end": 384.76,
+      "en": "It's right under you.",
+      "zh": "它就在你正下方。"
+    },
+    {
+      "id": 204,
+      "start": 387.68,
+      "end": 389.68,
+      "en": "Kathy!",
+      "zh": "凯西！"
+    },
+    {
+      "id": 205,
+      "start": 389.68,
+      "end": 395.84,
+      "en": "Okay, so we have some really good phrases related to swimming and water.",
+      "zh": "好的，所以我们有一些与游泳和水有关的非常好的短语。"
+    },
+    {
+      "id": 206,
+      "start": 395.84,
+      "end": 396.84,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 207,
+      "start": 396.84,
+      "end": 399.72,
+      "en": "Okay, let's take a look at these in Fluency Builder.",
+      "zh": "好的，让我们看看这些在 Fluency Builder 中。"
+    },
+    {
+      "id": 208,
+      "start": 399.72,
+      "end": 399.96,
+      "en": "Fluency Builder.",
+      "zh": "流利表达。"
+    },
+    {
+      "id": 209,
+      "start": 400.72,
+      "end": 401.72,
+      "en": "All right, the first one.",
+      "zh": "好吧，第一个。"
+    },
+    {
+      "id": 210,
+      "start": 401.72,
+      "end": 404.2,
+      "en": "I love this phrase.",
+      "zh": "我喜欢这个短语。"
+    },
+    {
+      "id": 211,
+      "start": 404.2,
+      "end": 404.88,
+      "en": "Take a dip.",
+      "zh": "下水游一会儿。"
+    },
+    {
+      "id": 212,
+      "start": 405.64,
+      "end": 406.08,
+      "en": "Take a dip.",
+      "zh": "下水游一会儿。"
+    },
+    {
+      "id": 213,
+      "start": 406.64,
+      "end": 406.84,
+      "en": "Take a dip.",
+      "zh": "下水游一会儿。"
+    },
+    {
+      "id": 214,
+      "start": 407.64,
+      "end": 410.57,
+      "en": "So if I say, I'm going to take a dip.",
+      "zh": "所以如果我说，我会去畅游。"
+    },
+    {
+      "id": 215,
+      "start": 411.08,
+      "end": 412.55,
+      "en": "You're going to have a quick swim.",
+      "zh": "你会快速游泳。"
+    },
+    {
+      "id": 216,
+      "start": 412.96,
+      "end": 413.33,
+      "en": "A quick swim.",
+      "zh": "快速游泳。"
+    },
+    {
+      "id": 217,
+      "start": 413.96,
+      "end": 414.96,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 218,
+      "start": 414.96,
+      "end": 415.96,
+      "en": "So you can take a dip in the pool.",
+      "zh": "所以你可以在游泳池里畅游。"
+    },
+    {
+      "id": 219,
+      "start": 415.96,
+      "end": 416.96,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 220,
+      "start": 416.96,
+      "end": 417.11,
+      "en": "In the lake.",
+      "zh": "在湖中。"
+    },
+    {
+      "id": 221,
+      "start": 417.96,
+      "end": 418.96,
+      "en": "In the ocean.",
+      "zh": "在海洋中。"
+    },
+    {
+      "id": 222,
+      "start": 418.96,
+      "end": 419.96,
+      "en": "In the ocean.",
+      "zh": "在海洋中。"
+    },
+    {
+      "id": 223,
+      "start": 419.96,
+      "end": 420.39,
+      "en": "Even in your bathtub, right?",
+      "zh": "即使在你的浴缸里，对吧？"
+    },
+    {
+      "id": 224,
+      "start": 420.96,
+      "end": 421.96,
+      "en": "No.",
+      "zh": "不。"
+    },
+    {
+      "id": 225,
+      "start": 421.96,
+      "end": 422.96,
+      "en": "No?",
+      "zh": "不是吗？"
+    },
+    {
+      "id": 226,
+      "start": 422.96,
+      "end": 423.96,
+      "en": "No, it's just for swimming.",
+      "zh": "不，这只是为了游泳。"
+    },
+    {
+      "id": 227,
+      "start": 423.96,
+      "end": 426.12,
+      "en": "Unless your bathtub is really, really, really big.",
+      "zh": "除非你的浴缸真的，真的，真的很大。"
+    },
+    {
+      "id": 228,
+      "start": 426.47,
+      "end": 429.35,
+      "en": "All right, so not for the bathtub, but for swimming.",
+      "zh": "好吧，所以不是为了浴缸，而是为了游泳。"
+    },
+    {
+      "id": 229,
+      "start": 429.92,
+      "end": 430.92,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 230,
+      "start": 430.92,
+      "end": 431.92,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 231,
+      "start": 431.92,
+      "end": 433.25,
+      "en": "Now, let's take a look at our second phrase.",
+      "zh": "现在，让我们来看看我们的第二个短语。"
+    },
+    {
+      "id": 232,
+      "start": 434.28,
+      "end": 434.9,
+      "en": "For a little while.",
+      "zh": "一会儿。"
+    },
+    {
+      "id": 233,
+      "start": 435.44,
+      "end": 435.92,
+      "en": "For a little while.",
+      "zh": "一会儿。"
+    },
+    {
+      "id": 234,
+      "start": 436.84,
+      "end": 437.46,
+      "en": "For a little while.",
+      "zh": "一会儿。"
+    },
+    {
+      "id": 235,
+      "start": 437.84,
+      "end": 438.02,
+      "en": "For a little while.",
+      "zh": "一会儿。"
+    },
+    {
+      "id": 236,
+      "start": 439.2,
+      "end": 440.2,
+      "en": "This is really common.",
+      "zh": "这真的很常见。"
+    },
+    {
+      "id": 237,
+      "start": 440.2,
+      "end": 441.2,
+      "en": "I use this a lot.",
+      "zh": "我经常使用这个。"
+    },
+    {
+      "id": 238,
+      "start": 441.2,
+      "end": 442.2,
+      "en": "Yeah, me too.",
+      "zh": "对，我也是。"
+    },
+    {
+      "id": 239,
+      "start": 442.2,
+      "end": 444.16,
+      "en": "I probably use it 500 times a day.",
+      "zh": "我可能每天使用它 500 次。"
+    },
+    {
+      "id": 240,
+      "start": 444.28,
+      "end": 450.4,
+      "en": "Okay, so let's listen to some examples with for a little while, and then we'll come back and explain it.",
+      "zh": "好吧，让我们听一些例子，然后我们会回来解释它。"
+    },
+    {
+      "id": 241,
+      "start": 451.12,
+      "end": 452.12,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 242,
+      "start": 452.68,
+      "end": 453.24,
+      "en": "I'm tired.",
+      "zh": "我很累。"
+    },
+    {
+      "id": 243,
+      "start": 453.46,
+      "end": 455.34,
+      "en": "I'm just going to sit down for a little while.",
+      "zh": "我只是要坐一会儿。"
+    },
+    {
+      "id": 244,
+      "start": 457.06,
+      "end": 459.1,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 245,
+      "start": 459.1,
+      "end": 463.36,
+      "en": "It will only hurt for a little while.",
+      "zh": "只会痛一小会儿。"
+    },
+    {
+      "id": 246,
+      "start": 463.36,
+      "end": 464.36,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 247,
+      "start": 465.18,
+      "end": 466.92,
+      "en": "Do you want to play tennis for a little while?",
+      "zh": "你想打网球吗？"
+    },
+    {
+      "id": 248,
+      "start": 468.84,
+      "end": 470.56,
+      "en": "So it means for a short time.",
+      "zh": "所以这意味着很短的时间。"
+    },
+    {
+      "id": 249,
+      "start": 470.8,
+      "end": 471.44,
+      "en": "For a short time.",
+      "zh": "短时间。"
+    },
+    {
+      "id": 250,
+      "start": 471.8,
+      "end": 472.8,
+      "en": "And you can change it, right?",
+      "zh": "你可以改变它，对吧？"
+    },
+    {
+      "id": 251,
+      "start": 472.8,
+      "end": 475.64,
+      "en": "You can say, oh, I'm going to play for a little while.",
+      "zh": "你可以说，哦，我要玩一会儿。"
+    },
+    {
+      "id": 252,
+      "start": 475.64,
+      "end": 477.98,
+      "en": "Yeah, or I'm going to sleep for a little while.",
+      "zh": "是的，或者我要睡一会儿。"
+    },
+    {
+      "id": 253,
+      "start": 478.88,
+      "end": 479.88,
+      "en": "For a short time.",
+      "zh": "短时间。"
+    },
+    {
+      "id": 254,
+      "start": 479.88,
+      "end": 480.88,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 255,
+      "start": 480.88,
+      "end": 488.32,
+      "en": "All right, so if learners use this phrase, I find it sounds really, really great because it's not something that students normally use.",
+      "zh": "好吧，所以如果学习者使用这个短语，我觉得它听起来真的非常非常棒，因为它不是学生通常使用的东西。"
+    },
+    {
+      "id": 256,
+      "start": 488.7,
+      "end": 491.14,
+      "en": "Yeah, I guess a student wouldn't really use this phrase normally.",
+      "zh": "是的，我猜一个学生不会真正使用这个短语。"
+    },
+    {
+      "id": 257,
+      "start": 491.5,
+      "end": 493.78,
+      "en": "Yeah, so guys, use it because you'll sound awesome.",
+      "zh": "是的，所以伙计们，使用它，因为你会听起来很棒。"
+    },
+    {
+      "id": 258,
+      "start": 494.14,
+      "end": 495.64,
+      "en": "Yeah, you'll sound really, really fluent.",
+      "zh": "是的，你会听起来真的，真的很流利。"
+    },
+    {
+      "id": 259,
+      "start": 496.33,
+      "end": 498.69,
+      "en": "Okay, and let's take a look at our last phrase.",
+      "zh": "好的，让我们看看我们的最后一句话。"
+    },
+    {
+      "id": 260,
+      "start": 499.55,
+      "end": 500.41,
+      "en": "Straight towards.",
+      "zh": "径直朝……。"
+    },
+    {
+      "id": 261,
+      "start": 501.4,
+      "end": 502.4,
+      "en": "Straight towards.",
+      "zh": "径直朝……。"
+    },
+    {
+      "id": 262,
+      "start": 502.4,
+      "end": 503.96,
+      "en": "Straight towards me.",
+      "zh": "直奔我。"
+    },
+    {
+      "id": 263,
+      "start": 503.96,
+      "end": 504.17,
+      "en": "Straight towards.",
+      "zh": "径直朝……。"
+    },
+    {
+      "id": 264,
+      "start": 505.15,
+      "end": 508.49,
+      "en": "Okay, so straight means directly.",
+      "zh": "好吧，直接意味着直接。"
+    },
+    {
+      "id": 265,
+      "start": 509.01,
+      "end": 509.73,
+      "en": "Right, in a line.",
+      "zh": "对了，在一条线上。"
+    },
+    {
+      "id": 266,
+      "start": 509.93,
+      "end": 511.73,
+      "en": "In a line, not going anywhere else, but directly.",
+      "zh": "在一条线上，不去其他任何地方，而是直接。"
+    },
+    {
+      "id": 267,
+      "start": 512.2,
+      "end": 514.24,
+      "en": "Not moving side to side.",
+      "zh": "没有左右移动。"
+    },
+    {
+      "id": 268,
+      "start": 514.24,
+      "end": 515.95,
+      "en": "And towards is in that direction.",
+      "zh": "并且朝着那个方向。"
+    },
+    {
+      "id": 269,
+      "start": 517.36,
+      "end": 521.28,
+      "en": "So the shark was coming straight towards me, it's coming directly at me.",
+      "zh": "所以鲨鱼直接朝我走来，它直接朝我袭来。"
+    },
+    {
+      "id": 270,
+      "start": 522.28,
+      "end": 524.52,
+      "en": "Moving in a line and not moving side to side.",
+      "zh": "在一条线上移动而不是左右移动。"
+    },
+    {
+      "id": 271,
+      "start": 525.24,
+      "end": 528.86,
+      "en": "Okay, so can you give me another example of how you would use straight towards?",
+      "zh": "好的，你能给我另一个例子说明你将如何直接使用吗？"
+    },
+    {
+      "id": 272,
+      "start": 530.0,
+      "end": 530.22,
+      "en": "Watch out!",
+      "zh": "小心！"
+    },
+    {
+      "id": 273,
+      "start": 531.0,
+      "end": 532.06,
+      "en": "There's a car coming straight towards you.",
+      "zh": "有一辆车直奔你。"
+    },
+    {
+      "id": 274,
+      "start": 532.72,
+      "end": 534.1,
+      "en": "Okay, directly towards you.",
+      "zh": "好吧，直接对你。"
+    },
+    {
+      "id": 275,
+      "start": 534.2,
+      "end": 538.56,
+      "en": "Yeah, or maybe when I get home from work, I go straight towards the fridge.",
+      "zh": "是的，或者当我下班回家时，我会直奔冰箱。"
+    },
+    {
+      "id": 276,
+      "start": 539.1,
+      "end": 539.28,
+      "en": "Really?",
+      "zh": "真的吗？"
+    },
+    {
+      "id": 277,
+      "start": 539.54,
+      "end": 539.66,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 278,
+      "start": 540.16,
+      "end": 540.72,
+      "en": "I believe this.",
+      "zh": "我相信这一点。"
+    },
+    {
+      "id": 279,
+      "start": 542.12,
+      "end": 544.12,
+      "en": "All right, so straight towards, directly.",
+      "zh": "好吧，那么直接，直接。"
+    },
+    {
+      "id": 280,
+      "start": 544.34,
+      "end": 547.32,
+      "en": "Okay, so we've looked at a lot of great words, really good phrases.",
+      "zh": "好的，所以我们看了很多很棒的单词，非常好的短语。"
+    },
+    {
+      "id": 281,
+      "start": 548.28,
+      "end": 562.28,
+      "en": "Let's listen to this dialogue one last time and then we'll come back and Erica is going to tell us a really great story about boat.",
+      "zh": "让我们最后一次听这个对话，然后我们会回来，Erica 将告诉我们一个关于船的非常棒的故事。"
+    },
+    {
+      "id": 282,
+      "start": 562.28,
+      "end": 564.12,
+      "en": "This is such a beautiful day.",
+      "zh": "天气真好。"
+    },
+    {
+      "id": 283,
+      "start": 564.84,
+      "end": 566.12,
+      "en": "Great day for sailing.",
+      "zh": "真是个适合帆船出行的好天气。"
+    },
+    {
+      "id": 284,
+      "start": 566.12,
+      "end": 566.96,
+      "en": "It sure is.",
+      "zh": "的确如此。"
+    },
+    {
+      "id": 285,
+      "start": 567.28,
+      "end": 568.56,
+      "en": "The water looks so nice.",
+      "zh": "水看起来真清澈。"
+    },
+    {
+      "id": 286,
+      "start": 569.28,
+      "end": 570.48,
+      "en": "Anchor the boat for a little while.",
+      "zh": "先抛锚停一会儿。"
+    },
+    {
+      "id": 287,
+      "start": 570.84,
+      "end": 571.7,
+      "en": "I'm going to take a dip.",
+      "zh": "我要下去游一会儿。"
+    },
+    {
+      "id": 288,
+      "start": 576.16,
+      "end": 577.92,
+      "en": "Why are you doggy paddling?",
+      "zh": "你怎么在狗刨？"
+    },
+    {
+      "id": 289,
+      "start": 578.32,
+      "end": 579.3,
+      "en": "I taught you how to swim.",
+      "zh": "我教你游泳。"
+    },
+    {
+      "id": 290,
+      "start": 579.74,
+      "end": 581.16,
+      "en": "Do your breaststroke.",
+      "zh": "做你的蛙泳。"
+    },
+    {
+      "id": 291,
+      "start": 581.58,
+      "end": 582.72,
+      "en": "I get too tired.",
+      "zh": "那样太累了。"
+    },
+    {
+      "id": 292,
+      "start": 583.56,
+      "end": 584.96,
+      "en": "I'll just backstroke.",
+      "zh": "我还是仰泳吧。"
+    },
+    {
+      "id": 293,
+      "start": 585.26,
+      "end": 585.54,
+      "en": "It's easier.",
+      "zh": "那更容易。"
+    },
+    {
+      "id": 294,
+      "start": 587.44,
+      "end": 588.8,
+      "en": "Try kicking your legs more.",
+      "zh": "试着再多踢踢腿。"
+    },
+    {
+      "id": 295,
+      "start": 589.9,
+      "end": 590.3,
+      "en": "That's good.",
+      "zh": "那很好。"
+    },
+    {
+      "id": 296,
+      "start": 591.14,
+      "end": 591.84,
+      "en": "Don't go out too far.",
+      "zh": "别游得太远。"
+    },
+    {
+      "id": 297,
+      "start": 592.46,
+      "end": 593.44,
+      "en": "It's fine.",
+      "zh": "没关系。"
+    },
+    {
+      "id": 298,
+      "start": 594.04,
+      "end": 594.74,
+      "en": "Jump in.",
+      "zh": "跳下去。"
+    },
+    {
+      "id": 299,
+      "start": 595.6,
+      "end": 598.6,
+      "en": "Cathy, get back here.",
+      "zh": "凯茜，回到这里。"
+    },
+    {
+      "id": 300,
+      "start": 598.66,
+      "end": 599.2,
+      "en": "I see a shark.",
+      "zh": "我看到鲨鱼了！"
+    },
+    {
+      "id": 301,
+      "start": 599.6,
+      "end": 600.6,
+      "en": "Help me!",
+      "zh": "救救我!"
+    },
+    {
+      "id": 302,
+      "start": 600.6,
+      "end": 601.6,
+      "en": "Help!",
+      "zh": "救命！"
+    },
+    {
+      "id": 303,
+      "start": 601.6,
+      "end": 602.6,
+      "en": "Bring the boat closer.",
+      "zh": "把船开过来！"
+    },
+    {
+      "id": 304,
+      "start": 602.6,
+      "end": 603.6,
+      "en": "The shark is coming straight towards me.",
+      "zh": "鲨鱼直冲我游过来了！"
+    },
+    {
+      "id": 305,
+      "start": 603.6,
+      "end": 604.6,
+      "en": "It's right under you.",
+      "zh": "它就在你正下方。"
+    },
+    {
+      "id": 306,
+      "start": 604.6,
+      "end": 605.6,
+      "en": "Cathy!",
+      "zh": "凯茜！"
+    },
+    {
+      "id": 307,
+      "start": 613.71,
+      "end": 630.53,
+      "en": "All right, well, Marco, I was telling you that I used to spend every summer on the lake and my family had a really small house on a small island and my cousins had another small house on another small island.",
+      "zh": "好吧，好吧，马可，我告诉你，我过去每年夏天都会在湖上度过，我的家人在一个小岛上有一所非常小的房子，我的表兄弟们在另一个小岛上又有了一座小房子。"
+    },
+    {
+      "id": 308,
+      "start": 631.68,
+      "end": 639.39,
+      "en": "So our families are really close and we used to go to one house for dinner one night and the other house to dinner the next night.",
+      "zh": "所以我们的家人真的很亲近，我们过去常常去一所房子吃晚饭，第二天晚上去另一家吃晚饭。"
+    },
+    {
+      "id": 309,
+      "start": 640.16,
+      "end": 643.85,
+      "en": "So everyone was over at my cousin's house except for my grandfather.",
+      "zh": "所以除了我的祖父之外，每个人都在我表弟家。"
+    },
+    {
+      "id": 310,
+      "start": 645.84,
+      "end": 653.0,
+      "en": "And so he was thinking, okay, it's late, maybe I better go pick up my wife and see what's going on.",
+      "zh": "所以他在想，好吧，来晚了，也许我最好去接我的妻子，看看发生了什么事。"
+    },
+    {
+      "id": 311,
+      "start": 653.0,
+      "end": 654.19,
+      "en": "So he goes into the boat.",
+      "zh": "于是他上了船。"
+    },
+    {
+      "id": 312,
+      "start": 655.16,
+      "end": 655.41,
+      "en": "It's dark.",
+      "zh": "今天很黑。"
+    },
+    {
+      "id": 313,
+      "start": 656.16,
+      "end": 657.16,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 314,
+      "start": 657.16,
+      "end": 657.57,
+      "en": "There's no light on the boat.",
+      "zh": "船上没有灯光。"
+    },
+    {
+      "id": 315,
+      "start": 658.66,
+      "end": 667.42,
+      "en": "He's driving straight towards the island when suddenly my cousin in his boat drives directly into my grandfather.",
+      "zh": "当我的表弟在他的船上直接开车直接驶向我的祖父时，他正直奔岛屿。"
+    },
+    {
+      "id": 316,
+      "start": 668.2,
+      "end": 668.68,
+      "en": "So they crashed.",
+      "zh": "于是他们崩溃了。"
+    },
+    {
+      "id": 317,
+      "start": 669.2,
+      "end": 669.36,
+      "en": "They crashed.",
+      "zh": "他们崩溃了。"
+    },
+    {
+      "id": 318,
+      "start": 670.2,
+      "end": 671.16,
+      "en": "Two boats crashed in the lake.",
+      "zh": "两艘船在湖中坠毁。"
+    },
+    {
+      "id": 319,
+      "start": 671.68,
+      "end": 674.8,
+      "en": "And then my grandfather's boat flipped over.",
+      "zh": "然后我祖父的船翻了个身。"
+    },
+    {
+      "id": 320,
+      "start": 675.0,
+      "end": 677.32,
+      "en": "It turned upside down.",
+      "zh": "它颠倒了。"
+    },
+    {
+      "id": 321,
+      "start": 677.32,
+      "end": 678.28,
+      "en": "And he fell in the water.",
+      "zh": "他掉进了水里。"
+    },
+    {
+      "id": 322,
+      "start": 679.28,
+      "end": 679.96,
+      "en": "But he was okay, right?",
+      "zh": "但他没事吧？"
+    },
+    {
+      "id": 323,
+      "start": 680.28,
+      "end": 681.28,
+      "en": "Yeah, he was okay.",
+      "zh": "是的，他没事。"
+    },
+    {
+      "id": 324,
+      "start": 681.28,
+      "end": 682.36,
+      "en": "But you know what?",
+      "zh": "不过你知道吗？"
+    },
+    {
+      "id": 325,
+      "start": 682.36,
+      "end": 685.08,
+      "en": "He was really angry about this.",
+      "zh": "他真的很生气。"
+    },
+    {
+      "id": 326,
+      "start": 685.08,
+      "end": 685.38,
+      "en": "And the boat?",
+      "zh": "船呢？"
+    },
+    {
+      "id": 327,
+      "start": 686.08,
+      "end": 690.57,
+      "en": "The boat stayed in the water and the engine fell down to the bottom.",
+      "zh": "船停在水中，发动机掉到了底部。"
+    },
+    {
+      "id": 328,
+      "start": 691.56,
+      "end": 694.01,
+      "en": "So we had to go the next morning to get the boat.",
+      "zh": "所以我们不得不第二天早上去坐船。"
+    },
+    {
+      "id": 329,
+      "start": 694.12,
+      "end": 700.19,
+      "en": "And we actually had to hire some scuba divers to go to the bottom of the lake to get the engine.",
+      "zh": "实际上，我们不得不聘请一些水肺潜水员去湖底获取发动机。"
+    },
+    {
+      "id": 330,
+      "start": 701.08,
+      "end": 702.08,
+      "en": "Wow.",
+      "zh": "哇。"
+    },
+    {
+      "id": 331,
+      "start": 702.08,
+      "end": 703.08,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 332,
+      "start": 703.08,
+      "end": 704.56,
+      "en": "I imagine your grandpa was pretty angry.",
+      "zh": "我想你爷爷很生气。"
+    },
+    {
+      "id": 333,
+      "start": 704.56,
+      "end": 705.56,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 334,
+      "start": 705.56,
+      "end": 706.07,
+      "en": "He tells the story.",
+      "zh": "他讲故事。"
+    },
+    {
+      "id": 335,
+      "start": 706.56,
+      "end": 707.31,
+      "en": "Every year.",
+      "zh": "每年。"
+    },
+    {
+      "id": 336,
+      "start": 707.56,
+      "end": 708.21,
+      "en": "Yeah, exactly.",
+      "zh": "对，没错。"
+    },
+    {
+      "id": 337,
+      "start": 709.37,
+      "end": 710.13,
+      "en": "But you know what?",
+      "zh": "不过你知道吗？"
+    },
+    {
+      "id": 338,
+      "start": 710.17,
+      "end": 715.03,
+      "en": "I've got a million of these crazy lake stories because my family.",
+      "zh": "因为我的家人，我有一百万个这些疯狂的湖泊故事。"
+    },
+    {
+      "id": 339,
+      "start": 715.4,
+      "end": 715.95,
+      "en": "It always happens.",
+      "zh": "它总是发生。"
+    },
+    {
+      "id": 340,
+      "start": 716.4,
+      "end": 717.4,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 341,
+      "start": 717.89,
+      "end": 718.37,
+      "en": "All right, guys.",
+      "zh": "好了，各位。"
+    },
+    {
+      "id": 342,
+      "start": 718.59,
+      "end": 722.71,
+      "en": "Well, do you have any crazy stories or any stories related to boats or to swimming?",
+      "zh": "那么，你有任何与船或游泳有关的疯狂故事或任何故事吗？"
+    },
+    {
+      "id": 343,
+      "start": 723.08,
+      "end": 723.65,
+      "en": "Or to shark attacks?",
+      "zh": "还是鲨鱼袭击？"
+    },
+    {
+      "id": 344,
+      "start": 724.08,
+      "end": 724.71,
+      "en": "Or shark attacks?",
+      "zh": "还是鲨鱼袭击？"
+    },
+    {
+      "id": 345,
+      "start": 725.08,
+      "end": 726.08,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 346,
+      "start": 726.08,
+      "end": 728.28,
+      "en": "So come to our website, EnglishPod.com.",
+      "zh": "所以来我们的网站 englishpod.com。"
+    },
+    {
+      "id": 347,
+      "start": 728.28,
+      "end": 728.75,
+      "en": "Leave your stories.",
+      "zh": "留下你的故事。"
+    },
+    {
+      "id": 348,
+      "start": 729.28,
+      "end": 729.63,
+      "en": "Share with us.",
+      "zh": "与我们分享。"
+    },
+    {
+      "id": 349,
+      "start": 730.28,
+      "end": 733.85,
+      "en": "And also, if you have any doubts or questions, Erica and I are always there to answer.",
+      "zh": "而且，如果您有任何疑问或疑问，Erica 和我总是在那里回答。"
+    },
+    {
+      "id": 350,
+      "start": 734.17,
+      "end": 735.85,
+      "en": "Well, we're out of time for this lesson.",
+      "zh": "好吧，我们没有时间上这节课了。"
+    },
+    {
+      "id": 351,
+      "start": 736.24,
+      "end": 746.08,
+      "en": "But until next time, goodbye.",
+      "zh": "但直到下一次，再见。"
+    }
+  ],
+  "dialog": {
+    "start": 130.71,
+    "end": 175.44,
+    "segmentIds": [
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90
+    ]
+  }
+}

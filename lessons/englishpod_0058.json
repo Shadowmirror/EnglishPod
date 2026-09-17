@@ -1,0 +1,2505 @@
+{
+  "version": 1,
+  "id": 58,
+  "number": "0058",
+  "title": "Daily Life - This Is Your Captain Speaking",
+  "audio": "mp3/58. Daily Life - This Is Your Captain Speaking.mp3",
+  "duration": 742.3478125,
+  "segments": [
+    {
+      "id": 1,
+      "start": 2.58,
+      "end": 3.68,
+      "en": "Hello, English learners.",
+      "zh": "各位英语学习者，大家好。"
+    },
+    {
+      "id": 2,
+      "start": 4.08,
+      "end": 5.76,
+      "en": "Welcome back to EnglishPod.",
+      "zh": "欢迎回到 EnglishPod。"
+    },
+    {
+      "id": 3,
+      "start": 5.76,
+      "end": 6.18,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 4,
+      "start": 6.6,
+      "end": 7.36,
+      "en": "And I'm Erica.",
+      "zh": "我叫 Erica。"
+    },
+    {
+      "id": 5,
+      "start": 7.92,
+      "end": 11.54,
+      "en": "And today we have a great lesson for all our upper intermediate students.",
+      "zh": "今天，我们为所有高中级学生提供了一个很好的课程。"
+    },
+    {
+      "id": 6,
+      "start": 11.76,
+      "end": 12.1,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 7,
+      "start": 12.44,
+      "end": 14.0,
+      "en": "We're talking about airplane travel today.",
+      "zh": "我们今天谈论的是飞机旅行。"
+    },
+    {
+      "id": 8,
+      "start": 14.16,
+      "end": 15.44,
+      "en": "Airplane travel, right.",
+      "zh": "飞机旅行，对。"
+    },
+    {
+      "id": 9,
+      "start": 16.04,
+      "end": 17.2,
+      "en": "So we're going to be in an airplane.",
+      "zh": "所以我们要坐飞机。"
+    },
+    {
+      "id": 10,
+      "start": 17.68,
+      "end": 18.68,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 11,
+      "start": 18.68,
+      "end": 24.06,
+      "en": "And we're going to be listening to some of the common things you might hear on an announcement in the airplane.",
+      "zh": "我们将在飞机上的公告中听到您可能听到的一些常见内容。"
+    },
+    {
+      "id": 12,
+      "start": 24.72,
+      "end": 31.06,
+      "en": "Yeah, usually the flight attendant or the captain will come on and say something and well, usually it's in English, so we got to understand what they're saying.",
+      "zh": "是的，通常空姐或机长会过来说些什么，而且，通常是英文的，所以我们必须理解他们在说什么。"
+    },
+    {
+      "id": 13,
+      "start": 31.52,
+      "end": 31.66,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 14,
+      "start": 32.52,
+      "end": 37.5,
+      "en": "And we'll also learn some great phrases that you can use when you want to describe flights to your friends when you're talking to them.",
+      "zh": "我们还将学习一些很棒的短语，当您想在与朋友交谈时向朋友描述航班时，您可以使用这些短语。"
+    },
+    {
+      "id": 15,
+      "start": 37.84,
+      "end": 38.68,
+      "en": "Yeah, that always happens.",
+      "zh": "是的，这总是发生。"
+    },
+    {
+      "id": 16,
+      "start": 38.86,
+      "end": 41.46,
+      "en": "You arrive somewhere and people are like, hey, how was your flight?",
+      "zh": "你到达某个地方，人们就像，嘿，你的航班怎么样？"
+    },
+    {
+      "id": 17,
+      "start": 42.22,
+      "end": 43.18,
+      "en": "Now you know how to answer it.",
+      "zh": "现在你知道如何回答它了。"
+    },
+    {
+      "id": 18,
+      "start": 43.28,
+      "end": 43.48,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 19,
+      "start": 44.76,
+      "end": 45.76,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 20,
+      "start": 45.76,
+      "end": 47.94,
+      "en": "So why don't we take a look at our vocabulary preview?",
+      "zh": "那么我们为什么不看看我们的词汇预览呢？"
+    },
+    {
+      "id": 21,
+      "start": 49.6,
+      "end": 50.6,
+      "en": "Vocabulary preview.",
+      "zh": "词汇预习。"
+    },
+    {
+      "id": 22,
+      "start": 50.71,
+      "end": 55.69,
+      "en": "Well, we've got three words for you here in vocabulary preview all about flying.",
+      "zh": "好吧，我们在词汇预览中为您准备了三个单词关于飞行。"
+    },
+    {
+      "id": 23,
+      "start": 56.19,
+      "end": 56.37,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 24,
+      "start": 56.37,
+      "end": 57.33,
+      "en": "So what's our first one?",
+      "zh": "那么我们的第一个是什么？"
+    },
+    {
+      "id": 25,
+      "start": 57.63,
+      "end": 58.15,
+      "en": "Turbulence.",
+      "zh": "气流颠簸。"
+    },
+    {
+      "id": 26,
+      "start": 59.03,
+      "end": 59.63,
+      "en": "Turbulence.",
+      "zh": "气流颠簸。"
+    },
+    {
+      "id": 27,
+      "start": 59.89,
+      "end": 60.49,
+      "en": "Turbulence.",
+      "zh": "气流颠簸。"
+    },
+    {
+      "id": 28,
+      "start": 61.07,
+      "end": 61.67,
+      "en": "Turbulence.",
+      "zh": "气流颠簸。"
+    },
+    {
+      "id": 29,
+      "start": 62.01,
+      "end": 62.93,
+      "en": "So turbulence.",
+      "zh": "如此动荡。"
+    },
+    {
+      "id": 30,
+      "start": 64.01,
+      "end": 64.89,
+      "en": "How can we describe this?",
+      "zh": "我们如何描述这一点？"
+    },
+    {
+      "id": 31,
+      "start": 65.32,
+      "end": 72.52,
+      "en": "Well, turbulence when you're in an airplane basically is air that is moving in all directions really fast.",
+      "zh": "好吧，当你在飞机上时的湍流基本上是向各个方向移动的空气非常快。"
+    },
+    {
+      "id": 32,
+      "start": 72.52,
+      "end": 73.52,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 33,
+      "start": 73.52,
+      "end": 74.52,
+      "en": "So what happens?",
+      "zh": "那接下来会怎么样？"
+    },
+    {
+      "id": 34,
+      "start": 74.52,
+      "end": 76.12,
+      "en": "So the airplane will start to shake.",
+      "zh": "所以飞机会开始摇晃。"
+    },
+    {
+      "id": 35,
+      "start": 76.12,
+      "end": 76.3,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 36,
+      "start": 77.12,
+      "end": 78.12,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 37,
+      "start": 78.12,
+      "end": 79.12,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 38,
+      "start": 79.12,
+      "end": 83.72,
+      "en": "It's the same thing if you're flying a kite and maybe some turbulence is in the air, your kite will maybe fall to the ground.",
+      "zh": "如果你在放风筝并且可能有一些湍流在空中，你的风筝可能会掉到地上，这是一样的。"
+    },
+    {
+      "id": 39,
+      "start": 83.72,
+      "end": 83.84,
+      "en": "Oh.",
+      "zh": "哦。"
+    },
+    {
+      "id": 40,
+      "start": 84.72,
+      "end": 85.72,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 41,
+      "start": 85.72,
+      "end": 86.96,
+      "en": "So it's air that's moving in all directions.",
+      "zh": "所以是空气向各个方向移动。"
+    },
+    {
+      "id": 42,
+      "start": 86.96,
+      "end": 87.73,
+      "en": "It's really turbulent.",
+      "zh": "真的很动荡。"
+    },
+    {
+      "id": 43,
+      "start": 88.11,
+      "end": 88.47,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 44,
+      "start": 88.96,
+      "end": 91.19,
+      "en": "Well, we'll hear how this word is used in the dialogue.",
+      "zh": "好吧，我们将在对话中听到这个词是如何使用的。"
+    },
+    {
+      "id": 45,
+      "start": 92.22,
+      "end": 95.32,
+      "en": "But another airplane word we hear a lot.",
+      "zh": "但是我们经常听到的另一个飞机词。"
+    },
+    {
+      "id": 46,
+      "start": 95.67,
+      "end": 95.83,
+      "en": "Crew.",
+      "zh": "机组人员。"
+    },
+    {
+      "id": 47,
+      "start": 96.32,
+      "end": 97.32,
+      "en": "Crew.",
+      "zh": "机组人员。"
+    },
+    {
+      "id": 48,
+      "start": 97.32,
+      "end": 98.32,
+      "en": "Crew.",
+      "zh": "机组人员。"
+    },
+    {
+      "id": 49,
+      "start": 98.32,
+      "end": 99.32,
+      "en": "Flight crew.",
+      "zh": "机组人员。"
+    },
+    {
+      "id": 50,
+      "start": 99.32,
+      "end": 100.32,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 51,
+      "start": 101.11,
+      "end": 101.32,
+      "en": "C-R-E-W.",
+      "zh": "拼写是 C-R-E-W。"
+    },
+    {
+      "id": 52,
+      "start": 101.32,
+      "end": 102.32,
+      "en": "Crew.",
+      "zh": "机组人员。"
+    },
+    {
+      "id": 53,
+      "start": 102.32,
+      "end": 103.32,
+      "en": "So the flight crew is basically the team.",
+      "zh": "所以机组人员基本上是团队。"
+    },
+    {
+      "id": 54,
+      "start": 103.71,
+      "end": 103.83,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 55,
+      "start": 104.1,
+      "end": 104.25,
+      "en": "Right?",
+      "zh": "对吧？"
+    },
+    {
+      "id": 56,
+      "start": 105.32,
+      "end": 106.32,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 57,
+      "start": 106.32,
+      "end": 107.96,
+      "en": "It's all the people that are in the airplane.",
+      "zh": "飞机上的人都是。"
+    },
+    {
+      "id": 58,
+      "start": 107.96,
+      "end": 111.04,
+      "en": "So it's basically the captain and the co-pilot.",
+      "zh": "所以基本上是队长和副驾驶。"
+    },
+    {
+      "id": 59,
+      "start": 111.2,
+      "end": 111.48,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 60,
+      "start": 111.88,
+      "end": 112.83,
+      "en": "And all the flight attendants.",
+      "zh": "和所有的空姐。"
+    },
+    {
+      "id": 61,
+      "start": 113.24,
+      "end": 113.52,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 62,
+      "start": 114.32,
+      "end": 115.32,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 63,
+      "start": 115.32,
+      "end": 116.32,
+      "en": "So it's basically the flight crew.",
+      "zh": "所以基本上是机组人员。"
+    },
+    {
+      "id": 64,
+      "start": 116.32,
+      "end": 117.32,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 65,
+      "start": 117.32,
+      "end": 118.32,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 66,
+      "start": 118.32,
+      "end": 118.96,
+      "en": "And what about our last word?",
+      "zh": "最后一个词是什么呢？"
+    },
+    {
+      "id": 67,
+      "start": 119.64,
+      "end": 120.12,
+      "en": "Bumpy ride.",
+      "zh": "颠簸的旅程。"
+    },
+    {
+      "id": 68,
+      "start": 121.2,
+      "end": 121.52,
+      "en": "Bumpy ride.",
+      "zh": "颠簸的旅程。"
+    },
+    {
+      "id": 69,
+      "start": 122.2,
+      "end": 122.52,
+      "en": "A bumpy ride.",
+      "zh": "颠簸的旅程。"
+    },
+    {
+      "id": 70,
+      "start": 123.2,
+      "end": 124.56,
+      "en": "Bumpy.",
+      "zh": "颠簸。"
+    },
+    {
+      "id": 71,
+      "start": 124.56,
+      "end": 124.98,
+      "en": "Not smooth.",
+      "zh": "不平稳。"
+    },
+    {
+      "id": 72,
+      "start": 125.88,
+      "end": 126.04,
+      "en": "Not smooth.",
+      "zh": "不平稳。"
+    },
+    {
+      "id": 73,
+      "start": 126.88,
+      "end": 127.88,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 74,
+      "start": 127.88,
+      "end": 129.24,
+      "en": "So what would be an example of a bumpy ride?",
+      "zh": "那么颠簸的骑行的例子是什么？"
+    },
+    {
+      "id": 75,
+      "start": 129.24,
+      "end": 130.24,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 76,
+      "start": 130.24,
+      "end": 136.24,
+      "en": "Imagine if you're driving in your car and you're driving on a dirt road, like with many holes in it and everything.",
+      "zh": "想象一下，如果你在车里开车，而你在土路上开车，就像里面有很多洞一样。"
+    },
+    {
+      "id": 77,
+      "start": 136.48,
+      "end": 137.1,
+      "en": "And rocks and everything.",
+      "zh": "和岩石和一切。"
+    },
+    {
+      "id": 78,
+      "start": 137.48,
+      "end": 138.48,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 79,
+      "start": 138.48,
+      "end": 140.4,
+      "en": "You're driving on that road and it would be really, really bumpy.",
+      "zh": "你在那条路上开车，它会非常非常颠簸。"
+    },
+    {
+      "id": 80,
+      "start": 140.4,
+      "end": 141.4,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 81,
+      "start": 141.4,
+      "end": 142.76,
+      "en": "So your car will be moving a lot.",
+      "zh": "所以你的车会移动很多。"
+    },
+    {
+      "id": 82,
+      "start": 142.76,
+      "end": 143.76,
+      "en": "And shaking.",
+      "zh": "和颤抖。"
+    },
+    {
+      "id": 83,
+      "start": 143.76,
+      "end": 144.76,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 84,
+      "start": 144.76,
+      "end": 148.52,
+      "en": "So a bumpy ride is a trip where you move and shake a lot.",
+      "zh": "因此，颠簸的旅程是您经常移动和摇晃的旅行。"
+    },
+    {
+      "id": 85,
+      "start": 148.6,
+      "end": 149.34,
+      "en": "It's kind of uncomfortable.",
+      "zh": "这有点不舒服。"
+    },
+    {
+      "id": 86,
+      "start": 149.7,
+      "end": 151.62,
+      "en": "So you can say, that is a bumpy road.",
+      "zh": "所以你可以说，那是一条崎岖不平的道路。"
+    },
+    {
+      "id": 87,
+      "start": 152.22,
+      "end": 153.5,
+      "en": "Or it was a bumpy ride.",
+      "zh": "或者这是一个颠簸的旅程。"
+    },
+    {
+      "id": 88,
+      "start": 153.52,
+      "end": 154.88,
+      "en": "Or it was a bumpy ride.",
+      "zh": "或者这是一个颠簸的旅程。"
+    },
+    {
+      "id": 89,
+      "start": 154.88,
+      "end": 155.88,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 90,
+      "start": 155.88,
+      "end": 156.88,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 91,
+      "start": 156.88,
+      "end": 158.2,
+      "en": "So now let's listen to our dialogue.",
+      "zh": "所以现在让我们听听我们的对话。"
+    },
+    {
+      "id": 92,
+      "start": 158.2,
+      "end": 162.54,
+      "en": "We're going to be listening to these people on an airplane and the captain is going to give some instructions.",
+      "zh": "我们将在飞机上听这些人的话，船长会给出一些指示。"
+    },
+    {
+      "id": 93,
+      "start": 163.12,
+      "end": 178.08,
+      "en": "And the next thing you know, we're running towards the...",
+      "zh": "说时迟那时快，我们就朝着……跑去。"
+    },
+    {
+      "id": 94,
+      "start": 178.18,
+      "end": 178.38,
+      "en": "Oh.",
+      "zh": "哦。"
+    },
+    {
+      "id": 95,
+      "start": 179.38,
+      "end": 180.16,
+      "en": "Did you feel that?",
+      "zh": "你有没有感觉到？"
+    },
+    {
+      "id": 96,
+      "start": 180.64,
+      "end": 180.98,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 97,
+      "start": 181.08,
+      "end": 181.7,
+      "en": "Don't worry about it.",
+      "zh": "别担心。"
+    },
+    {
+      "id": 98,
+      "start": 182.56,
+      "end": 183.56,
+      "en": "We're just going through a bit of turbulence.",
+      "zh": "只是遇到一点气流颠簸。"
+    },
+    {
+      "id": 99,
+      "start": 184.81,
+      "end": 186.11,
+      "en": "Ladies and gentlemen, this is your captain speaking.",
+      "zh": "各位乘客，我是机长。"
+    },
+    {
+      "id": 100,
+      "start": 186.4,
+      "end": 188.52,
+      "en": "It looks like we've hit a patch of rough air.",
+      "zh": "看来飞机遇上了一段不稳定气流。"
+    },
+    {
+      "id": 101,
+      "start": 188.52,
+      "end": 191.33,
+      "en": "So we're going to have a bit of a bumpy ride for the next several minutes.",
+      "zh": "接下来几分钟可能会有些颠簸。"
+    },
+    {
+      "id": 102,
+      "start": 191.44,
+      "end": 193.31,
+      "en": "This is why I hate flying.",
+      "zh": "这就是我讨厌坐飞机的原因。"
+    },
+    {
+      "id": 103,
+      "start": 193.65,
+      "end": 199.89,
+      "en": "At this time, I'd like to remind all of our passengers to fasten their seatbelts and remain seated until the fasten seatbelt sign is turned off.",
+      "zh": "请各位乘客系好安全带，并留在座位上，直到安全带指示灯熄灭。"
+    },
+    {
+      "id": 104,
+      "start": 200.27,
+      "end": 203.11,
+      "en": "Please ensure that all cabin baggage is carefully stowed under the seat in front of you.",
+      "zh": "请把随身行李放好，置于前排座椅下方。"
+    },
+    {
+      "id": 105,
+      "start": 203.25,
+      "end": 204.65,
+      "en": "I'll be back to update you in a minute.",
+      "zh": "稍后我会再向大家通报情况。"
+    },
+    {
+      "id": 106,
+      "start": 205.37,
+      "end": 206.47,
+      "en": "Did you hear that?",
+      "zh": "你听见了吗？"
+    },
+    {
+      "id": 107,
+      "start": 207.29,
+      "end": 207.76,
+      "en": "Oh my God.",
+      "zh": "我的天哪。"
+    },
+    {
+      "id": 108,
+      "start": 208.29,
+      "end": 208.43,
+      "en": "Brent!",
+      "zh": "布伦特！"
+    },
+    {
+      "id": 109,
+      "start": 209.01,
+      "end": 209.93,
+      "en": "Don't worry about it.",
+      "zh": "别担心。"
+    },
+    {
+      "id": 110,
+      "start": 210.05,
+      "end": 210.93,
+      "en": "This is totally normal.",
+      "zh": "这完全正常。"
+    },
+    {
+      "id": 111,
+      "start": 211.11,
+      "end": 212.2,
+      "en": "It happens all the...",
+      "zh": "这经常发生……"
+    },
+    {
+      "id": 112,
+      "start": 213.35,
+      "end": 215.41,
+      "en": "Ladies and gentlemen, this is your captain again.",
+      "zh": "各位乘客，我还是机长。"
+    },
+    {
+      "id": 113,
+      "start": 215.76,
+      "end": 218.17,
+      "en": "We've got quite a large patch of rough air ahead of us.",
+      "zh": "前方还有一大片强气流。"
+    },
+    {
+      "id": 114,
+      "start": 218.52,
+      "end": 221.51,
+      "en": "And so for your safety, we will be suspending in-flight service.",
+      "zh": "为安全起见，我们将暂停机上服务。"
+    },
+    {
+      "id": 115,
+      "start": 222.2,
+      "end": 224.81,
+      "en": "I would ask all the in-flight crew to return to their seats at this time.",
+      "zh": "请所有机组人员现在回到座位上。"
+    },
+    {
+      "id": 116,
+      "start": 225.11,
+      "end": 230.08,
+      "en": "I would also ask that all our passengers refrain from using the lavatory until the seatbelt sign has been switched off.",
+      "zh": "安全带指示灯熄灭前，请乘客不要使用洗手间。"
+    },
+    {
+      "id": 117,
+      "start": 230.71,
+      "end": 231.08,
+      "en": "We can expect...",
+      "zh": "接下来可能……"
+    },
+    {
+      "id": 118,
+      "start": 231.08,
+      "end": 261.04,
+      "en": "Well, here we are with another dramatic dialogue, another explosion in English.",
+      "zh": "好吧，我们在这里进行了另一个戏剧性的对话，英语的另一个爆炸式增长。"
+    },
+    {
+      "id": 119,
+      "start": 261.62,
+      "end": 262.06,
+      "en": "What's happening?",
+      "zh": "怎么了？"
+    },
+    {
+      "id": 120,
+      "start": 262.44,
+      "end": 263.78,
+      "en": "I don't know.",
+      "zh": "我不知道。"
+    },
+    {
+      "id": 121,
+      "start": 263.98,
+      "end": 265.44,
+      "en": "A lot of adventure is going on.",
+      "zh": "很多冒险正在进行中。"
+    },
+    {
+      "id": 122,
+      "start": 265.5,
+      "end": 266.78,
+      "en": "So we'll see what happens.",
+      "zh": "所以我们会看看会发生什么。"
+    },
+    {
+      "id": 123,
+      "start": 267.6,
+      "end": 268.78,
+      "en": "But I'm sure they're all right.",
+      "zh": "但我确定他们没事。"
+    },
+    {
+      "id": 124,
+      "start": 269.02,
+      "end": 269.54,
+      "en": "Don't worry, everyone.",
+      "zh": "大家别担心。"
+    },
+    {
+      "id": 125,
+      "start": 269.8,
+      "end": 269.92,
+      "en": "I'm sure.",
+      "zh": "我确定。"
+    },
+    {
+      "id": 126,
+      "start": 271.08,
+      "end": 272.08,
+      "en": "Well, I hope so.",
+      "zh": "好吧，我希望如此。"
+    },
+    {
+      "id": 127,
+      "start": 272.08,
+      "end": 273.08,
+      "en": "It's kind of making me nervous for my next flight.",
+      "zh": "这有点让我在下一次飞行中感到紧张。"
+    },
+    {
+      "id": 128,
+      "start": 273.34,
+      "end": 273.7,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 129,
+      "start": 274.16,
+      "end": 278.84,
+      "en": "So let's take a look at some of the words that the captain used in language takeaway.",
+      "zh": "所以让我们来看看船长在语言外卖中使用的一些词。"
+    },
+    {
+      "id": 130,
+      "start": 280.65,
+      "end": 281.79,
+      "en": "Language takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 131,
+      "start": 282.57,
+      "end": 283.05,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 132,
+      "start": 283.2,
+      "end": 285.97,
+      "en": "All of these words you'll hear really, really often when you're flying.",
+      "zh": "当你飞行时，你会经常听到的所有这些话。"
+    },
+    {
+      "id": 133,
+      "start": 286.72,
+      "end": 289.44,
+      "en": "And the first one we have for you is fasten.",
+      "zh": "我们为您准备的第一个是 FastEnd。"
+    },
+    {
+      "id": 134,
+      "start": 289.44,
+      "end": 289.61,
+      "en": "Fasten.",
+      "zh": "系紧。"
+    },
+    {
+      "id": 135,
+      "start": 290.44,
+      "end": 291.44,
+      "en": "Fasten.",
+      "zh": "系紧。"
+    },
+    {
+      "id": 136,
+      "start": 291.44,
+      "end": 294.76,
+      "en": "Fasten your seatbelt.",
+      "zh": "系好安全带。"
+    },
+    {
+      "id": 137,
+      "start": 294.76,
+      "end": 295.49,
+      "en": "Now this is a great word.",
+      "zh": "现在这是一个很棒的词。"
+    },
+    {
+      "id": 138,
+      "start": 296.08,
+      "end": 296.45,
+      "en": "Fasten means to...",
+      "zh": "紧固意味着..."
+    },
+    {
+      "id": 139,
+      "start": 297.63,
+      "end": 298.05,
+      "en": "Do up.",
+      "zh": "做起来。"
+    },
+    {
+      "id": 140,
+      "start": 298.08,
+      "end": 298.97,
+      "en": "Do up or put on or...",
+      "zh": "做或穿上或..."
+    },
+    {
+      "id": 141,
+      "start": 299.4,
+      "end": 300.4,
+      "en": "Connect.",
+      "zh": "连接。"
+    },
+    {
+      "id": 142,
+      "start": 300.4,
+      "end": 301.4,
+      "en": "Connect, right?",
+      "zh": "连接吧？"
+    },
+    {
+      "id": 143,
+      "start": 301.4,
+      "end": 305.28,
+      "en": "So usually it'll be with a seatbelt or a belt or something like that, right?",
+      "zh": "所以通常它会带安全带或安全带或类似的东西，对吧？"
+    },
+    {
+      "id": 144,
+      "start": 305.28,
+      "end": 308.48,
+      "en": "Now the pronunciation here is interesting.",
+      "zh": "现在这里的发音很有趣。"
+    },
+    {
+      "id": 145,
+      "start": 308.48,
+      "end": 310.48,
+      "en": "It's spelt F-A-S-T-E-N.",
+      "zh": "它拼写为 F-A-S-T-E-N。"
+    },
+    {
+      "id": 146,
+      "start": 310.48,
+      "end": 311.48,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 147,
+      "start": 311.48,
+      "end": 312.48,
+      "en": "So it would be fasten.",
+      "zh": "所以它会被固定。"
+    },
+    {
+      "id": 148,
+      "start": 313.29,
+      "end": 313.57,
+      "en": "No.",
+      "zh": "不。"
+    },
+    {
+      "id": 149,
+      "start": 313.97,
+      "end": 314.35,
+      "en": "No, right?",
+      "zh": "不是吗？"
+    },
+    {
+      "id": 150,
+      "start": 314.48,
+      "end": 315.48,
+      "en": "Fasten.",
+      "zh": "系紧。"
+    },
+    {
+      "id": 151,
+      "start": 315.91,
+      "end": 316.43,
+      "en": "Fasten.",
+      "zh": "系紧。"
+    },
+    {
+      "id": 152,
+      "start": 317.43,
+      "end": 319.13,
+      "en": "The T kind of becomes silent.",
+      "zh": "t 的一种变得沉默。"
+    },
+    {
+      "id": 153,
+      "start": 320.11,
+      "end": 320.95,
+      "en": "So it's fasten.",
+      "zh": "所以它是紧固的。"
+    },
+    {
+      "id": 154,
+      "start": 321.22,
+      "end": 322.22,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 155,
+      "start": 322.22,
+      "end": 323.22,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 156,
+      "start": 323.22,
+      "end": 323.67,
+      "en": "Let's look at our next word.",
+      "zh": "我们来看看下一个词。"
+    },
+    {
+      "id": 157,
+      "start": 324.22,
+      "end": 325.22,
+      "en": "Lavatory.",
+      "zh": "洗手间。"
+    },
+    {
+      "id": 158,
+      "start": 325.22,
+      "end": 326.22,
+      "en": "Lavatory.",
+      "zh": "洗手间。"
+    },
+    {
+      "id": 159,
+      "start": 326.5,
+      "end": 327.1,
+      "en": "Lavatory.",
+      "zh": "洗手间。"
+    },
+    {
+      "id": 160,
+      "start": 327.1,
+      "end": 327.7,
+      "en": "Lavatory.",
+      "zh": "洗手间。"
+    },
+    {
+      "id": 161,
+      "start": 328.22,
+      "end": 329.22,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 162,
+      "start": 329.82,
+      "end": 331.86,
+      "en": "So what is a lavatory exactly?",
+      "zh": "那么什么是厕所呢？"
+    },
+    {
+      "id": 163,
+      "start": 332.24,
+      "end": 333.24,
+      "en": "Because I'm always confused.",
+      "zh": "因为我总是很困惑。"
+    },
+    {
+      "id": 164,
+      "start": 333.24,
+      "end": 338.92,
+      "en": "What's the difference between bathroom, restroom, washroom, WC, lavatory?",
+      "zh": "浴室、洗手间、洗手间、厕所、厕所有什么区别？"
+    },
+    {
+      "id": 165,
+      "start": 338.92,
+      "end": 339.14,
+      "en": "I know.",
+      "zh": "我知道。"
+    },
+    {
+      "id": 166,
+      "start": 339.92,
+      "end": 341.36,
+      "en": "So many words for bathroom.",
+      "zh": "洗手间这么多字。"
+    },
+    {
+      "id": 167,
+      "start": 341.36,
+      "end": 345.98,
+      "en": "A lavatory is a room with a toilet and sink only.",
+      "zh": "厕所是一个只有厕所和水槽的房间。"
+    },
+    {
+      "id": 168,
+      "start": 346.68,
+      "end": 347.18,
+      "en": "Only a toilet and sink.",
+      "zh": "只有厕所和水槽。"
+    },
+    {
+      "id": 169,
+      "start": 347.68,
+      "end": 348.04,
+      "en": "So no bathtub.",
+      "zh": "所以没有浴缸。"
+    },
+    {
+      "id": 170,
+      "start": 348.68,
+      "end": 349.68,
+      "en": "No.",
+      "zh": "不。"
+    },
+    {
+      "id": 171,
+      "start": 349.68,
+      "end": 350.68,
+      "en": "No shower either.",
+      "zh": "也没有淋浴。"
+    },
+    {
+      "id": 172,
+      "start": 350.68,
+      "end": 351.68,
+      "en": "No shower.",
+      "zh": "没有淋浴。"
+    },
+    {
+      "id": 173,
+      "start": 351.68,
+      "end": 357.52,
+      "en": "So it's very, very common to find a lavatory in boats, airplanes, or in trains.",
+      "zh": "因此，在船、飞机或火车上找到厕所是非常非常普遍的。"
+    },
+    {
+      "id": 174,
+      "start": 357.52,
+      "end": 358.52,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 175,
+      "start": 358.52,
+      "end": 358.85,
+      "en": "But never in your house.",
+      "zh": "但从来没有在你家。"
+    },
+    {
+      "id": 176,
+      "start": 359.52,
+      "end": 359.94,
+      "en": "Never in your house, right?",
+      "zh": "从来没有在你家，对吧？"
+    },
+    {
+      "id": 177,
+      "start": 360.52,
+      "end": 364.12,
+      "en": "Even if your room in your house is only a sink and a toilet, it's still not a lavatory.",
+      "zh": "即使你家里的房间只是一个水槽和一个厕所，它仍然不是一个厕所。"
+    },
+    {
+      "id": 178,
+      "start": 364.12,
+      "end": 365.12,
+      "en": "It's a bathroom.",
+      "zh": "这是一个浴室。"
+    },
+    {
+      "id": 179,
+      "start": 365.12,
+      "end": 366.12,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 180,
+      "start": 366.12,
+      "end": 367.12,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 181,
+      "start": 367.12,
+      "end": 368.48,
+      "en": "I don't know why.",
+      "zh": "我不知道为什么。"
+    },
+    {
+      "id": 182,
+      "start": 368.48,
+      "end": 369.43,
+      "en": "That's just the way it is in English.",
+      "zh": "这就是它在英语中的方式。"
+    },
+    {
+      "id": 183,
+      "start": 370.08,
+      "end": 374.32,
+      "en": "And something interesting that you told me today, WC, right?",
+      "zh": "你今天告诉我的一些有趣的事情，对吧？"
+    },
+    {
+      "id": 184,
+      "start": 374.32,
+      "end": 375.95,
+      "en": "That's a common thing that you'll see on a bathroom.",
+      "zh": "这是你在浴室里看到的常见事情。"
+    },
+    {
+      "id": 185,
+      "start": 376.24,
+      "end": 377.24,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 186,
+      "start": 377.24,
+      "end": 377.43,
+      "en": "What does that stand for?",
+      "zh": "那代表什么？"
+    },
+    {
+      "id": 187,
+      "start": 378.24,
+      "end": 378.39,
+      "en": "Water closet.",
+      "zh": "厕所。"
+    },
+    {
+      "id": 188,
+      "start": 379.24,
+      "end": 380.24,
+      "en": "Water closet.",
+      "zh": "厕所。"
+    },
+    {
+      "id": 189,
+      "start": 380.24,
+      "end": 381.24,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 190,
+      "start": 381.24,
+      "end": 382.24,
+      "en": "Wow.",
+      "zh": "哇。"
+    },
+    {
+      "id": 191,
+      "start": 382.24,
+      "end": 383.24,
+      "en": "I didn't know that.",
+      "zh": "我之前不知道这件事。"
+    },
+    {
+      "id": 192,
+      "start": 383.24,
+      "end": 384.24,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 193,
+      "start": 384.24,
+      "end": 385.24,
+      "en": "Water closet.",
+      "zh": "厕所。"
+    },
+    {
+      "id": 194,
+      "start": 385.24,
+      "end": 386.24,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 195,
+      "start": 386.24,
+      "end": 387.24,
+      "en": "Anyways, let's take a look at our next word.",
+      "zh": "无论如何，让我们来看看我们的下一个词。"
+    },
+    {
+      "id": 196,
+      "start": 387.24,
+      "end": 388.24,
+      "en": "Stow.",
+      "zh": "收好。"
+    },
+    {
+      "id": 197,
+      "start": 388.64,
+      "end": 389.06,
+      "en": "Stow.",
+      "zh": "收好。"
+    },
+    {
+      "id": 198,
+      "start": 389.24,
+      "end": 390.24,
+      "en": "To stow.",
+      "zh": "收起。"
+    },
+    {
+      "id": 199,
+      "start": 390.24,
+      "end": 391.24,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 200,
+      "start": 391.24,
+      "end": 391.68,
+      "en": "Stow your luggage.",
+      "zh": "把行李放好。"
+    },
+    {
+      "id": 201,
+      "start": 392.24,
+      "end": 393.24,
+      "en": "Stow your luggage.",
+      "zh": "把行李放好。"
+    },
+    {
+      "id": 202,
+      "start": 393.24,
+      "end": 394.94,
+      "en": "So if I stow my luggage, it means?",
+      "zh": "所以如果我收起我的行李，这意味着什么？"
+    },
+    {
+      "id": 203,
+      "start": 395.0,
+      "end": 398.96,
+      "en": "You put it in a place where you can get it easily, but it is very safe.",
+      "zh": "你把它放在一个你可以轻松拿到它的地方，但它是非常安全的。"
+    },
+    {
+      "id": 204,
+      "start": 399.93,
+      "end": 401.21,
+      "en": "Maybe it's not even visible, right?",
+      "zh": "也许它甚至不可见，对吧？"
+    },
+    {
+      "id": 205,
+      "start": 401.44,
+      "end": 402.44,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 206,
+      "start": 402.44,
+      "end": 403.43,
+      "en": "So you put it away in a safe spot.",
+      "zh": "所以你把它放在一个安全的地方。"
+    },
+    {
+      "id": 207,
+      "start": 403.84,
+      "end": 404.84,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 208,
+      "start": 404.84,
+      "end": 408.55,
+      "en": "So usually in airplanes, they will tell you to stow your luggage under your seat.",
+      "zh": "所以通常在飞机上，他们会告诉你把行李放在座位下。"
+    },
+    {
+      "id": 209,
+      "start": 408.84,
+      "end": 409.84,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 210,
+      "start": 409.84,
+      "end": 412.19,
+      "en": "Or stow your luggage in the overhead bin.",
+      "zh": "或将行李存放在头顶行李箱中。"
+    },
+    {
+      "id": 211,
+      "start": 412.92,
+      "end": 413.91,
+      "en": "Overhead bin or overhead compartment.",
+      "zh": "架空仓或架空隔间。"
+    },
+    {
+      "id": 212,
+      "start": 414.8,
+      "end": 415.8,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 213,
+      "start": 415.8,
+      "end": 416.8,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 214,
+      "start": 416.8,
+      "end": 417.58,
+      "en": "And our last word.",
+      "zh": "最后一个词。"
+    },
+    {
+      "id": 215,
+      "start": 418.4,
+      "end": 418.7,
+      "en": "Refrain.",
+      "zh": "克制；避免。"
+    },
+    {
+      "id": 216,
+      "start": 419.4,
+      "end": 419.72,
+      "en": "Refrain.",
+      "zh": "克制；避免。"
+    },
+    {
+      "id": 217,
+      "start": 420.4,
+      "end": 420.52,
+      "en": "Refrain.",
+      "zh": "克制；避免。"
+    },
+    {
+      "id": 218,
+      "start": 421.4,
+      "end": 422.36,
+      "en": "Refrain from doing something.",
+      "zh": "不要做某事。"
+    },
+    {
+      "id": 219,
+      "start": 423.36,
+      "end": 426.36,
+      "en": "So this is a verb, meaning avoid doing.",
+      "zh": "所以这是一个动词，意思是避免做。"
+    },
+    {
+      "id": 220,
+      "start": 426.68,
+      "end": 427.18,
+      "en": "Avoid doing.",
+      "zh": "避免做。"
+    },
+    {
+      "id": 221,
+      "start": 427.32,
+      "end": 427.84,
+      "en": "Do not do.",
+      "zh": "不要做。"
+    },
+    {
+      "id": 222,
+      "start": 428.08,
+      "end": 428.28,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 223,
+      "start": 430.04,
+      "end": 433.12,
+      "en": "Something interesting about this grammar-wise is it's usually followed by from.",
+      "zh": "这种语法方面的一些有趣的事情是它通常跟随 From。"
+    },
+    {
+      "id": 224,
+      "start": 433.12,
+      "end": 434.12,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 225,
+      "start": 434.12,
+      "end": 435.12,
+      "en": "Refrain from.",
+      "zh": "避免。"
+    },
+    {
+      "id": 226,
+      "start": 435.12,
+      "end": 437.48,
+      "en": "And the verb that follows is always gerund, right?",
+      "zh": "接下来的动词总是动名词，对吧？"
+    },
+    {
+      "id": 227,
+      "start": 437.56,
+      "end": 438.56,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 228,
+      "start": 438.56,
+      "end": 440.16,
+      "en": "So refrain from ing.",
+      "zh": "所以避免ing。"
+    },
+    {
+      "id": 229,
+      "start": 440.16,
+      "end": 441.16,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 230,
+      "start": 441.32,
+      "end": 443.82,
+      "en": "Refrain from using the lavatory.",
+      "zh": "避免使用厕所。"
+    },
+    {
+      "id": 231,
+      "start": 443.88,
+      "end": 444.06,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 232,
+      "start": 444.88,
+      "end": 445.44,
+      "en": "Refrain from smoking.",
+      "zh": "请勿吸烟。"
+    },
+    {
+      "id": 233,
+      "start": 446.16,
+      "end": 447.08,
+      "en": "Refrain from smoking.",
+      "zh": "请勿吸烟。"
+    },
+    {
+      "id": 234,
+      "start": 447.46,
+      "end": 447.62,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 235,
+      "start": 448.22,
+      "end": 449.0,
+      "en": "So refrain from.",
+      "zh": "所以避免。"
+    },
+    {
+      "id": 236,
+      "start": 449.4,
+      "end": 450.4,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 237,
+      "start": 450.4,
+      "end": 451.4,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 238,
+      "start": 451.4,
+      "end": 453.0,
+      "en": "So some really great examples in language takeaway.",
+      "zh": "所以一些非常好的例子在语言外卖中。"
+    },
+    {
+      "id": 239,
+      "start": 453.02,
+      "end": 453.16,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 240,
+      "start": 453.42,
+      "end": 457.86,
+      "en": "And well, now let's take a look at Fluency Builder and see some of these great phrases.",
+      "zh": "好吧，现在让我们来看看 Fluency Builder 并看看其中一些很棒的短语。"
+    },
+    {
+      "id": 241,
+      "start": 459.54,
+      "end": 460.4,
+      "en": "Fluency Builder.",
+      "zh": "流利表达。"
+    },
+    {
+      "id": 242,
+      "start": 461.42,
+      "end": 461.68,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 243,
+      "start": 461.98,
+      "end": 463.74,
+      "en": "Three phrases we have for you here.",
+      "zh": "我们在这里为您准备的三个短语。"
+    },
+    {
+      "id": 244,
+      "start": 464.16,
+      "end": 466.62,
+      "en": "The first one, remain seated.",
+      "zh": "第一个，保持坐着。"
+    },
+    {
+      "id": 245,
+      "start": 468.0,
+      "end": 468.44,
+      "en": "Remain seated.",
+      "zh": "请保持就座。"
+    },
+    {
+      "id": 246,
+      "start": 469.08,
+      "end": 469.38,
+      "en": "Remain seated.",
+      "zh": "请保持就座。"
+    },
+    {
+      "id": 247,
+      "start": 470.4,
+      "end": 471.6,
+      "en": "Remain seated.",
+      "zh": "请保持就座。"
+    },
+    {
+      "id": 248,
+      "start": 471.6,
+      "end": 472.51,
+      "en": "So to remain seated.",
+      "zh": "所以保持坐着。"
+    },
+    {
+      "id": 249,
+      "start": 473.08,
+      "end": 473.31,
+      "en": "Really simple.",
+      "zh": "真的很简单。"
+    },
+    {
+      "id": 250,
+      "start": 474.11,
+      "end": 475.31,
+      "en": "To stay sitting.",
+      "zh": "保持坐着。"
+    },
+    {
+      "id": 251,
+      "start": 475.69,
+      "end": 477.11,
+      "en": "To stay on your seat.",
+      "zh": "留在你的座位上。"
+    },
+    {
+      "id": 252,
+      "start": 477.31,
+      "end": 477.81,
+      "en": "Don't stand up.",
+      "zh": "不要站起来。"
+    },
+    {
+      "id": 253,
+      "start": 478.4,
+      "end": 479.4,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 254,
+      "start": 479.4,
+      "end": 480.37,
+      "en": "This is really important in airplanes, right?",
+      "zh": "这在飞机上真的很重要，对吧？"
+    },
+    {
+      "id": 255,
+      "start": 480.6,
+      "end": 485.25,
+      "en": "Yeah, because otherwise if there's turbulence, you could, you know, end up flying around the airplane.",
+      "zh": "是的，因为否则如果有湍流，你可能会，你知道，最终会在飞机周围飞行。"
+    },
+    {
+      "id": 256,
+      "start": 485.69,
+      "end": 487.51,
+      "en": "Or fall, exactly, and hurt yourself.",
+      "zh": "或者，确切地说，伤害自己。"
+    },
+    {
+      "id": 257,
+      "start": 488.56,
+      "end": 488.97,
+      "en": "Remain seated.",
+      "zh": "请保持就座。"
+    },
+    {
+      "id": 258,
+      "start": 489.56,
+      "end": 497.31,
+      "en": "Now, one of the reasons they had to remain seated was because they were going to go through a patch of rough air.",
+      "zh": "现在，他们不得不保持坐着的原因之一是因为他们将要经历一片粗糙的空气。"
+    },
+    {
+      "id": 259,
+      "start": 498.0,
+      "end": 499.07,
+      "en": "Patch of rough air.",
+      "zh": "一片粗糙的空气。"
+    },
+    {
+      "id": 260,
+      "start": 499.68,
+      "end": 500.11,
+      "en": "So patch.",
+      "zh": "所以补丁。"
+    },
+    {
+      "id": 261,
+      "start": 500.93,
+      "end": 501.35,
+      "en": "Now, interesting.",
+      "zh": "现在，有趣。"
+    },
+    {
+      "id": 262,
+      "start": 501.68,
+      "end": 502.68,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 263,
+      "start": 502.68,
+      "end": 505.24,
+      "en": "So patch is a small area, right?",
+      "zh": "所以补丁是一个小区域，对吧？"
+    },
+    {
+      "id": 264,
+      "start": 505.24,
+      "end": 506.24,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 265,
+      "start": 506.24,
+      "end": 508.0,
+      "en": "So a small area of turbulence.",
+      "zh": "所以一小块的湍流。"
+    },
+    {
+      "id": 266,
+      "start": 508.0,
+      "end": 509.35,
+      "en": "A small area of turbulence.",
+      "zh": "一小块湍流。"
+    },
+    {
+      "id": 267,
+      "start": 509.75,
+      "end": 511.47,
+      "en": "Now, what would be another example of patch?",
+      "zh": "现在，补丁的另一个例子是什么？"
+    },
+    {
+      "id": 268,
+      "start": 512.72,
+      "end": 514.83,
+      "en": "Maybe a patch of strawberries.",
+      "zh": "也许是一块草莓。"
+    },
+    {
+      "id": 269,
+      "start": 515.72,
+      "end": 517.69,
+      "en": "So it's like a little strawberry garden, right?",
+      "zh": "所以它就像一个小草莓园，对吧？"
+    },
+    {
+      "id": 270,
+      "start": 518.04,
+      "end": 519.04,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 271,
+      "start": 519.04,
+      "end": 519.38,
+      "en": "Or a patch of grass.",
+      "zh": "或一块草。"
+    },
+    {
+      "id": 272,
+      "start": 520.04,
+      "end": 520.38,
+      "en": "Patch of grass.",
+      "zh": "一块草。"
+    },
+    {
+      "id": 273,
+      "start": 521.04,
+      "end": 523.48,
+      "en": "Usually in front of your house, you'll have a little patch of grass.",
+      "zh": "通常在你家门前，你会有一小片草地。"
+    },
+    {
+      "id": 274,
+      "start": 523.48,
+      "end": 524.48,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 275,
+      "start": 524.48,
+      "end": 525.48,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 276,
+      "start": 525.48,
+      "end": 526.48,
+      "en": "So patch of.",
+      "zh": "所以补丁。"
+    },
+    {
+      "id": 277,
+      "start": 526.48,
+      "end": 527.48,
+      "en": "And now our last phrase.",
+      "zh": "现在是我们的最后一句话。"
+    },
+    {
+      "id": 278,
+      "start": 527.64,
+      "end": 528.02,
+      "en": "Suspend.",
+      "zh": "暂停。"
+    },
+    {
+      "id": 279,
+      "start": 528.82,
+      "end": 529.26,
+      "en": "Suspend.",
+      "zh": "暂停。"
+    },
+    {
+      "id": 280,
+      "start": 530.14,
+      "end": 531.56,
+      "en": "Suspend in flight service.",
+      "zh": "暂停飞行服务。"
+    },
+    {
+      "id": 281,
+      "start": 531.88,
+      "end": 532.88,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 282,
+      "start": 532.88,
+      "end": 534.2,
+      "en": "So stop for a short time.",
+      "zh": "所以停一会儿。"
+    },
+    {
+      "id": 283,
+      "start": 535.44,
+      "end": 536.29,
+      "en": "Stop for a short time.",
+      "zh": "停一会儿。"
+    },
+    {
+      "id": 284,
+      "start": 536.92,
+      "end": 538.43,
+      "en": "So you could suspend your work.",
+      "zh": "所以你可以暂停你的工作。"
+    },
+    {
+      "id": 285,
+      "start": 538.8,
+      "end": 538.93,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 286,
+      "start": 539.8,
+      "end": 543.25,
+      "en": "And if you're going on vacation, you could suspend your subscription to the newspaper.",
+      "zh": "如果你要去度假，你可以暂停订阅报纸。"
+    },
+    {
+      "id": 287,
+      "start": 544.61,
+      "end": 544.97,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 288,
+      "start": 545.05,
+      "end": 547.09,
+      "en": "So suspend to temporarily stop.",
+      "zh": "所以暂停暂时停止。"
+    },
+    {
+      "id": 289,
+      "start": 547.41,
+      "end": 547.53,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 290,
+      "start": 547.93,
+      "end": 548.09,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 291,
+      "start": 548.19,
+      "end": 551.69,
+      "en": "So we've covered a lot of vocabulary and some great phrases.",
+      "zh": "所以我们已经涵盖了很多词汇和一些很棒的短语。"
+    },
+    {
+      "id": 292,
+      "start": 552.35,
+      "end": 556.87,
+      "en": "So why don't we listen to our dialogue one more time, and we'll come back and talk about flying.",
+      "zh": "那么我们为什么不再听一次我们的对话，我们会回来谈论飞行。"
+    },
+    {
+      "id": 293,
+      "start": 566.96,
+      "end": 570.08,
+      "en": "And the next thing you know, we're running towards the.",
+      "zh": "接下来你知道的是，我们正在朝着。"
+    },
+    {
+      "id": 294,
+      "start": 570.08,
+      "end": 572.48,
+      "en": "Oh, did you feel that?",
+      "zh": "哦，你有感觉吗？"
+    },
+    {
+      "id": 295,
+      "start": 572.51,
+      "end": 573.59,
+      "en": "Yeah, don't worry about it.",
+      "zh": "是的，不用担心。"
+    },
+    {
+      "id": 296,
+      "start": 573.85,
+      "end": 574.79,
+      "en": "We're just going through a bit of turbulence.",
+      "zh": "只是遇到一点气流颠簸。"
+    },
+    {
+      "id": 297,
+      "start": 576.57,
+      "end": 578.01,
+      "en": "Ladies and gentlemen, this is your captain speaking.",
+      "zh": "各位乘客，我是机长。"
+    },
+    {
+      "id": 298,
+      "start": 578.28,
+      "end": 580.4,
+      "en": "It looks like we've hit a patch of rough air.",
+      "zh": "看来飞机遇上了一段不稳定气流。"
+    },
+    {
+      "id": 299,
+      "start": 580.4,
+      "end": 583.25,
+      "en": "So we're going to have a bit of a bumpy ride for the next several minutes.",
+      "zh": "接下来几分钟可能会有些颠簸。"
+    },
+    {
+      "id": 300,
+      "start": 583.56,
+      "end": 585.19,
+      "en": "This is why I hate flying.",
+      "zh": "这就是我讨厌坐飞机的原因。"
+    },
+    {
+      "id": 301,
+      "start": 585.53,
+      "end": 591.79,
+      "en": "At this time, I'd like to remind all our passengers to fasten their seat belts and remain seated until the fasten seat belt sign is turned off.",
+      "zh": "此时，我想提醒我们的所有乘客系好安全带并保持就座，直到系紧安全带标志关闭。"
+    },
+    {
+      "id": 302,
+      "start": 592.13,
+      "end": 594.99,
+      "en": "Please ensure that all cabin baggage is carefully stowed under the seat in front of you.",
+      "zh": "请把随身行李放好，置于前排座椅下方。"
+    },
+    {
+      "id": 303,
+      "start": 595.11,
+      "end": 596.53,
+      "en": "I'll be back to update you in a minute.",
+      "zh": "稍后我会再向大家通报情况。"
+    },
+    {
+      "id": 304,
+      "start": 597.24,
+      "end": 598.38,
+      "en": "Did you hear that?",
+      "zh": "你听见了吗？"
+    },
+    {
+      "id": 305,
+      "start": 598.88,
+      "end": 600.34,
+      "en": "Oh my God, Brent.",
+      "zh": "哦，我的上帝，布伦特。"
+    },
+    {
+      "id": 306,
+      "start": 600.92,
+      "end": 601.82,
+      "en": "Don't worry about it.",
+      "zh": "别担心。"
+    },
+    {
+      "id": 307,
+      "start": 602.02,
+      "end": 602.84,
+      "en": "This is totally normal.",
+      "zh": "这完全正常。"
+    },
+    {
+      "id": 308,
+      "start": 603.28,
+      "end": 604.28,
+      "en": "It happens all the.",
+      "zh": "它发生了所有。"
+    },
+    {
+      "id": 309,
+      "start": 605.52,
+      "end": 607.3,
+      "en": "Ladies and gentlemen, this is your captain again.",
+      "zh": "女士们，先生们，这又是你的船长。"
+    },
+    {
+      "id": 310,
+      "start": 607.64,
+      "end": 613.4,
+      "en": "We've got quite a large patch of rough air ahead of us, and so for your safety, we will be suspending in-flight service.",
+      "zh": "我们前面有一大片粗糙的空气，因此为了您的安全，我们将暂停机上服务。"
+    },
+    {
+      "id": 311,
+      "start": 614.12,
+      "end": 616.7,
+      "en": "I would ask all the in-flight crew to return to their seats at this time.",
+      "zh": "请所有机组人员现在回到座位上。"
+    },
+    {
+      "id": 312,
+      "start": 617.0,
+      "end": 621.96,
+      "en": "I would also ask that all our passengers refrain from using the lavatory until the seat belt sign has been switched off.",
+      "zh": "我还要求我们所有的乘客在关闭安全带标志之前不要使用厕所。"
+    },
+    {
+      "id": 313,
+      "start": 622.6,
+      "end": 622.96,
+      "en": "We can expect.",
+      "zh": "我们可以期待。"
+    },
+    {
+      "id": 314,
+      "start": 647.29,
+      "end": 649.59,
+      "en": "Erica, have you ever had a turbulent flight like this?",
+      "zh": "埃里卡，你有没有像这样动荡的飞行？"
+    },
+    {
+      "id": 315,
+      "start": 649.96,
+      "end": 651.16,
+      "en": "No, no, never this bad.",
+      "zh": "不，不，从来没有这么糟糕。"
+    },
+    {
+      "id": 316,
+      "start": 651.16,
+      "end": 652.16,
+      "en": "A little bit of turbulence.",
+      "zh": "有点动荡。"
+    },
+    {
+      "id": 317,
+      "start": 652.16,
+      "end": 653.63,
+      "en": "Actually, I kind of like turbulent flights.",
+      "zh": "实际上，我有点喜欢动荡的飞行。"
+    },
+    {
+      "id": 318,
+      "start": 654.08,
+      "end": 655.08,
+      "en": "Why?",
+      "zh": "为什么？"
+    },
+    {
+      "id": 319,
+      "start": 655.08,
+      "end": 656.57,
+      "en": "It's sort of like, I don't know, it's kind of fun.",
+      "zh": "这有点像，我不知道，这很有趣。"
+    },
+    {
+      "id": 320,
+      "start": 656.76,
+      "end": 659.17,
+      "en": "You get shaken around and your stomach moves up and down.",
+      "zh": "你被摇晃，你的胃上下移动。"
+    },
+    {
+      "id": 321,
+      "start": 659.61,
+      "end": 660.21,
+      "en": "You don't get nervous?",
+      "zh": "你不紧张吗？"
+    },
+    {
+      "id": 322,
+      "start": 660.49,
+      "end": 661.75,
+      "en": "No, I get a little excited.",
+      "zh": "不，我有点兴奋。"
+    },
+    {
+      "id": 323,
+      "start": 662.37,
+      "end": 665.81,
+      "en": "Well, it is true that flying is actually very, very safe, right?",
+      "zh": "好吧，飞行实际上非常非常安全，对吧？"
+    },
+    {
+      "id": 324,
+      "start": 665.95,
+      "end": 666.11,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 325,
+      "start": 667.09,
+      "end": 672.23,
+      "en": "I know we all hear that more people are killed in car accidents than flight accidents.",
+      "zh": "我知道我们都听说在车祸中丧生的人多于飞行事故。"
+    },
+    {
+      "id": 326,
+      "start": 673.16,
+      "end": 674.76,
+      "en": "So it's very, very safe.",
+      "zh": "所以它非常非常安全。"
+    },
+    {
+      "id": 327,
+      "start": 674.76,
+      "end": 676.18,
+      "en": "So yeah, I don't worry about the turbulence.",
+      "zh": "所以，是的，我不担心动荡。"
+    },
+    {
+      "id": 328,
+      "start": 676.92,
+      "end": 677.2,
+      "en": "Knock on wood.",
+      "zh": "敲敲木头，祈求好运。"
+    },
+    {
+      "id": 329,
+      "start": 678.24,
+      "end": 687.2,
+      "en": "But yeah, so flying is really safe and you know, as long as you remain seated, you fasten your seat belt and you, you know, you follow the instructions, you shouldn't have any problems.",
+      "zh": "但是，是的，所以飞行真的很安全，你知道，只要你保持坐姿，系好安全带，你就知道，你按照指示，你不应该有任何问题。"
+    },
+    {
+      "id": 330,
+      "start": 687.2,
+      "end": 687.56,
+      "en": "Yeah, yeah.",
+      "zh": "对，对。"
+    },
+    {
+      "id": 331,
+      "start": 688.2,
+      "end": 706.49,
+      "en": "Actually, that's a really good point because actually when I was reading about flight turbulence for this dialogue, I kept reading all these stories about these people who, you know, when they got into some turbulent air were, you know, knocked over or they ended up like actually literally flying through the cabin and getting really badly hurt.",
+      "zh": "实际上，这是一个非常好的观点，因为实际上，当我为对话阅读飞行湍流时，我一直在阅读所有这些关于这些人的故事，你知道，当他们进入动荡的空气中时，你知道，被撞倒，或者他们最终就像真的飞过客舱并且变得非常糟糕 伤害。"
+    },
+    {
+      "id": 332,
+      "start": 706.76,
+      "end": 709.56,
+      "en": "So everyone, you got to fasten your seat belt.",
+      "zh": "所以每个人，你必须系好安全带。"
+    },
+    {
+      "id": 333,
+      "start": 709.56,
+      "end": 710.76,
+      "en": "Yes, remain seated.",
+      "zh": "是的，保持坐着。"
+    },
+    {
+      "id": 334,
+      "start": 710.76,
+      "end": 711.76,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 335,
+      "start": 711.76,
+      "end": 713.0,
+      "en": "Flying tips here at EnglishPod.",
+      "zh": "Englishpod 的飞行小贴士。"
+    },
+    {
+      "id": 336,
+      "start": 713.0,
+      "end": 714.2,
+      "en": "Flying tips at EnglishPod.",
+      "zh": "Englishpod 的飞行小贴士。"
+    },
+    {
+      "id": 337,
+      "start": 714.2,
+      "end": 715.13,
+      "en": "We don't want you to get hurt.",
+      "zh": "我们不希望你受伤。"
+    },
+    {
+      "id": 338,
+      "start": 715.72,
+      "end": 718.08,
+      "en": "And we know that you travel a lot, so be safe, right?",
+      "zh": "我们知道你经常旅行，所以要安全，对吧？"
+    },
+    {
+      "id": 339,
+      "start": 718.08,
+      "end": 719.08,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 340,
+      "start": 719.08,
+      "end": 721.24,
+      "en": "And use this language to describe your flight.",
+      "zh": "并使用这种语言来描述您的航班。"
+    },
+    {
+      "id": 341,
+      "start": 721.24,
+      "end": 722.24,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 342,
+      "start": 722.24,
+      "end": 725.19,
+      "en": "So come to our website, EnglishPod.com where you can leave questions.",
+      "zh": "因此，请访问我们的网站 englishpod.com，您可以在其中留下问题。"
+    },
+    {
+      "id": 343,
+      "start": 725.56,
+      "end": 726.94,
+      "en": "You can also leave your comments.",
+      "zh": "您也可以留下您的评论。"
+    },
+    {
+      "id": 344,
+      "start": 727.24,
+      "end": 728.24,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 345,
+      "start": 728.24,
+      "end": 728.94,
+      "en": "Marco and I are always there.",
+      "zh": "马可和我一直都在。"
+    },
+    {
+      "id": 346,
+      "start": 729.24,
+      "end": 731.26,
+      "en": "And actually, in fact, we have to go check the site now.",
+      "zh": "事实上，事实上，我们现在必须去检查这个网站。"
+    },
+    {
+      "id": 347,
+      "start": 731.52,
+      "end": 733.24,
+      "en": "So yeah, we're out of time.",
+      "zh": "所以，是的，我们没时间了。"
+    },
+    {
+      "id": 348,
+      "start": 733.24,
+      "end": 734.24,
+      "en": "So we'll see you guys next time.",
+      "zh": "所以我们下次再见。"
+    },
+    {
+      "id": 349,
+      "start": 734.52,
+      "end": 735.02,
+      "en": "Thanks for listening.",
+      "zh": "感谢收听。"
+    },
+    {
+      "id": 350,
+      "start": 735.24,
+      "end": 736.24,
+      "en": "Bye.",
+      "zh": "再见。"
+    },
+    {
+      "id": 351,
+      "start": 736.24,
+      "end": 737.24,
+      "en": "Bye.",
+      "zh": "再见。"
+    },
+    {
+      "id": 352,
+      "start": 737.24,
+      "end": 742.348,
+      "en": "Bye.",
+      "zh": "再见。"
+    }
+  ],
+  "dialog": {
+    "start": 163.12,
+    "end": 231.08,
+    "segmentIds": [
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117
+    ]
+  }
+}

@@ -1,0 +1,1936 @@
+{
+  "version": 1,
+  "id": 32,
+  "number": "0032",
+  "title": "Daily Life - Opening a Bank Account",
+  "audio": "mp3/32. Daily Life - Opening a Bank Account.mp3",
+  "duration": 796.995875,
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.52,
+      "end": 5.08,
+      "en": "Hello English learners, welcome back to another great lesson with EnglishPod.",
+      "zh": "您好英语学习者，欢迎回到 EnglishPod 的另一个精彩课程。"
+    },
+    {
+      "id": 2,
+      "start": 5.48,
+      "end": 6.04,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 6.64,
+      "end": 7.84,
+      "en": "And I'm Erika.",
+      "zh": "我叫 Erika。"
+    },
+    {
+      "id": 4,
+      "start": 7.84,
+      "end": 11.24,
+      "en": "And today we're bringing you another great lesson about being at the bank.",
+      "zh": "今天我们为您带来关于在银行的另一个重要教训。"
+    },
+    {
+      "id": 5,
+      "start": 11.76,
+      "end": 11.88,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 6,
+      "start": 12.76,
+      "end": 18.66,
+      "en": "We've got an intermediate lesson for you today with lots of great language to help you open a bank account.",
+      "zh": "我们今天为您提供了一个中级课程，其中包含许多很棒的语言可以帮助您开设银行账户。"
+    },
+    {
+      "id": 7,
+      "start": 19.16,
+      "end": 21.8,
+      "en": "Okay, so let's look at our vocabulary preview today.",
+      "zh": "好的，让我们看看我们今天的词汇预览。"
+    },
+    {
+      "id": 8,
+      "start": 22.92,
+      "end": 23.92,
+      "en": "Vocabulary preview.",
+      "zh": "词汇预习。"
+    },
+    {
+      "id": 9,
+      "start": 24.9,
+      "end": 25.86,
+      "en": "Two words today.",
+      "zh": "今天两个字。"
+    },
+    {
+      "id": 10,
+      "start": 26.72,
+      "end": 29.09,
+      "en": "The first one is checking account.",
+      "zh": "第一个是支票账户。"
+    },
+    {
+      "id": 11,
+      "start": 29.36,
+      "end": 31.04,
+      "en": "A checking account.",
+      "zh": "一个支票账户。"
+    },
+    {
+      "id": 12,
+      "start": 31.04,
+      "end": 31.37,
+      "en": "Checking account.",
+      "zh": "支票账户。"
+    },
+    {
+      "id": 13,
+      "start": 32.64,
+      "end": 34.91,
+      "en": "So what is a checking account?",
+      "zh": "那么什么是支票账户？"
+    },
+    {
+      "id": 14,
+      "start": 35.27,
+      "end": 41.01,
+      "en": "Well, it's a type of bank account that lets you do your day-to-day or daily banking.",
+      "zh": "好吧，它是一种银行账户，可以让您进行日常或日常银行业务。"
+    },
+    {
+      "id": 15,
+      "start": 41.56,
+      "end": 45.29,
+      "en": "So it's the normal bank account that you use to go shopping, that you use to pay your bills.",
+      "zh": "所以这是你用来购物的普通银行账户，你用来支付账单。"
+    },
+    {
+      "id": 16,
+      "start": 45.84,
+      "end": 46.35,
+      "en": "Yep, exactly.",
+      "zh": "是的，没错。"
+    },
+    {
+      "id": 17,
+      "start": 46.84,
+      "end": 48.79,
+      "en": "The opposite, and our second word is...",
+      "zh": "相反，我们的第二个词是..."
+    },
+    {
+      "id": 18,
+      "start": 50.79,
+      "end": 51.2,
+      "en": "Savings account.",
+      "zh": "储蓄账户。"
+    },
+    {
+      "id": 19,
+      "start": 51.2,
+      "end": 52.52,
+      "en": "A savings account.",
+      "zh": "储蓄账户。"
+    },
+    {
+      "id": 20,
+      "start": 52.52,
+      "end": 53.74,
+      "en": "Savings account.",
+      "zh": "储蓄账户。"
+    },
+    {
+      "id": 21,
+      "start": 53.74,
+      "end": 55.96,
+      "en": "So a savings account is to...",
+      "zh": "所以储蓄账户是..."
+    },
+    {
+      "id": 22,
+      "start": 55.96,
+      "end": 57.44,
+      "en": "It's a bank account where you save your money.",
+      "zh": "这是一个银行账户，您可以在其中省钱。"
+    },
+    {
+      "id": 23,
+      "start": 58.04,
+      "end": 58.76,
+      "en": "To save money, right?",
+      "zh": "省钱好吗？"
+    },
+    {
+      "id": 24,
+      "start": 59.04,
+      "end": 61.16,
+      "en": "So usually you don't touch the money in this account.",
+      "zh": "所以通常你不会碰这个帐户中的钱。"
+    },
+    {
+      "id": 25,
+      "start": 61.4,
+      "end": 63.12,
+      "en": "Yeah, usually it stays in there.",
+      "zh": "是的，通常它会留在那里。"
+    },
+    {
+      "id": 26,
+      "start": 63.64,
+      "end": 64.0,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 27,
+      "start": 64.12,
+      "end": 66.82,
+      "en": "So usually banks will have these two types of accounts.",
+      "zh": "所以通常银行会有这两种类型的账户。"
+    },
+    {
+      "id": 28,
+      "start": 67.16,
+      "end": 67.3,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 29,
+      "start": 67.48,
+      "end": 68.22,
+      "en": "Checking and savings.",
+      "zh": "检查和节省。"
+    },
+    {
+      "id": 30,
+      "start": 69.2,
+      "end": 70.2,
+      "en": "Okay, great.",
+      "zh": "好，太好了。"
+    },
+    {
+      "id": 31,
+      "start": 70.2,
+      "end": 71.6,
+      "en": "Let's listen to our dialogue a first time now.",
+      "zh": "让我们现在第一次听我们的对话。"
+    },
+    {
+      "id": 32,
+      "start": 71.84,
+      "end": 72.84,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 33,
+      "start": 72.84,
+      "end": 76.34,
+      "en": "Well, today we're at a bank and we're going to listen as a man is opening a bank account.",
+      "zh": "好吧，今天我们在一家银行，当一个人开设银行账户时，我们将倾听。"
+    },
+    {
+      "id": 34,
+      "start": 76.88,
+      "end": 81.02,
+      "en": "The dialogue is going to be spoken at a normal speed, so it might be a little bit fast.",
+      "zh": "对话将以正常速度进行，因此可能会有点快。"
+    },
+    {
+      "id": 35,
+      "start": 81.36,
+      "end": 82.36,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 36,
+      "start": 82.36,
+      "end": 84.7,
+      "en": "But don't worry about it because we'll come back and explain everything.",
+      "zh": "但不要担心，因为我们会回来解释一切。"
+    },
+    {
+      "id": 37,
+      "start": 86.88,
+      "end": 90.16,
+      "en": "Next, please.",
+      "zh": "下一位，请。"
+    },
+    {
+      "id": 38,
+      "start": 90.16,
+      "end": 96.64,
+      "en": "May I help you, sir?",
+      "zh": "先生，我可以帮助您吗？"
+    },
+    {
+      "id": 39,
+      "start": 96.94,
+      "end": 97.34,
+      "en": "Hello.",
+      "zh": "你好。"
+    },
+    {
+      "id": 40,
+      "start": 97.7,
+      "end": 99.96,
+      "en": "Yes, I'd like to open a bank account.",
+      "zh": "您好，我想开个银行账户。"
+    },
+    {
+      "id": 41,
+      "start": 100.64,
+      "end": 100.94,
+      "en": "Certainly.",
+      "zh": "当然可以。"
+    },
+    {
+      "id": 42,
+      "start": 101.76,
+      "end": 102.72,
+      "en": "I can help you with that.",
+      "zh": "我可以帮助你。"
+    },
+    {
+      "id": 43,
+      "start": 103.26,
+      "end": 104.96,
+      "en": "What type of account would you like to open?",
+      "zh": "您想开什么类型的账户？"
+    },
+    {
+      "id": 44,
+      "start": 105.52,
+      "end": 106.66,
+      "en": "A checking or a saving account?",
+      "zh": "支票账户还是储蓄账户？"
+    },
+    {
+      "id": 45,
+      "start": 107.3,
+      "end": 108.3,
+      "en": "What features do they offer?",
+      "zh": "这两种账户各有什么功能？"
+    },
+    {
+      "id": 46,
+      "start": 108.48,
+      "end": 121.76,
+      "en": "Well, if you just take a look here, see, with our checking account, you can have unlimited daily transactions for a small monthly fee, and our savings account has a higher interest rate, but you must carry a minimum balance of $10,000.",
+      "zh": "您看这里：支票账户每月只需支付少量费用，每天的交易次数不限；储蓄账户利率更高，但账户里至少要保留一万美元。"
+    },
+    {
+      "id": 47,
+      "start": 122.3,
+      "end": 122.96,
+      "en": "I see.",
+      "zh": "我明白了。"
+    },
+    {
+      "id": 48,
+      "start": 123.6,
+      "end": 126.08,
+      "en": "Well, I think I'm more interested in a checking account.",
+      "zh": "好吧，我想我对支票账户更感兴趣。"
+    },
+    {
+      "id": 49,
+      "start": 126.86,
+      "end": 128.6,
+      "en": "I'd like to have easy access to my money.",
+      "zh": "我希望取用资金方便一些。"
+    },
+    {
+      "id": 50,
+      "start": 129.28,
+      "end": 131.0,
+      "en": "All right, then.",
+      "zh": "那好吧。"
+    },
+    {
+      "id": 51,
+      "start": 131.0,
+      "end": 134.34,
+      "en": "With this checking account, you'll be issued a debit card and a checkbook.",
+      "zh": "开通这个支票账户后，我们会给您一张借记卡和一本支票簿。"
+    },
+    {
+      "id": 52,
+      "start": 135.36,
+      "end": 136.8,
+      "en": "Will you require overdraft protection?",
+      "zh": "您需要透支保护吗？"
+    },
+    {
+      "id": 53,
+      "start": 137.96,
+      "end": 139.04,
+      "en": "There is an extra fee for that.",
+      "zh": "有额外的费用。"
+    },
+    {
+      "id": 54,
+      "start": 139.52,
+      "end": 140.44,
+      "en": "No, that won't be necessary.",
+      "zh": "不用了。"
+    },
+    {
+      "id": 55,
+      "start": 142.0,
+      "end": 144.44,
+      "en": "In that case, I'll get you to fill out this paperwork.",
+      "zh": "那请您填写这些表格。"
+    },
+    {
+      "id": 56,
+      "start": 144.96,
+      "end": 148.12,
+      "en": "I'll need your social insurance number and two pieces of government ID.",
+      "zh": "我需要您的社会保险号码和两份政府签发的身份证件。"
+    },
+    {
+      "id": 57,
+      "start": 153.0,
+      "end": 158.18,
+      "en": "If you could just sign here, and here, and here, we'll be all set.",
+      "zh": "请在这里、这里，还有这里签字，这样就办好了。"
+    },
+    {
+      "id": 58,
+      "start": 159.15,
+      "end": 160.37,
+      "en": "Would you like to make a deposit today?",
+      "zh": "您今天要存款吗？"
+    },
+    {
+      "id": 59,
+      "start": 161.11,
+      "end": 163.53,
+      "en": "Yes, I'd like to deposit $1 billion.",
+      "zh": "要，我想存十亿美元。"
+    },
+    {
+      "id": 60,
+      "start": 164.56,
+      "end": 172.12,
+      "en": "$1 billion!",
+      "zh": "十亿美元！"
+    },
+    {
+      "id": 61,
+      "start": 180.53,
+      "end": 182.03,
+      "en": "All right, $1 billion.",
+      "zh": "好吧，10亿美元。"
+    },
+    {
+      "id": 62,
+      "start": 183.44,
+      "end": 184.03,
+      "en": "That's a lot of money.",
+      "zh": "那可是一大笔钱。"
+    },
+    {
+      "id": 63,
+      "start": 184.48,
+      "end": 185.19,
+      "en": "That's a weird laugh.",
+      "zh": "这是一个奇怪的笑声。"
+    },
+    {
+      "id": 64,
+      "start": 186.64,
+      "end": 190.01,
+      "en": "Okay, let's look at language takeaway today.",
+      "zh": "好吧，让我们看看今天的语言外卖。"
+    },
+    {
+      "id": 65,
+      "start": 191.34,
+      "end": 192.46,
+      "en": "Language takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 66,
+      "start": 193.93,
+      "end": 198.83,
+      "en": "Today we've got four words for you in language takeaway, all about money and banking.",
+      "zh": "今天，我们在外卖中为您准备了四个词，全部是关于金钱和银行业务。"
+    },
+    {
+      "id": 67,
+      "start": 199.32,
+      "end": 199.67,
+      "en": "Money and banking.",
+      "zh": "钱和银行。"
+    },
+    {
+      "id": 68,
+      "start": 200.48,
+      "end": 202.59,
+      "en": "The first one that we have today is transaction.",
+      "zh": "我们今天拥有的第一个是交易。"
+    },
+    {
+      "id": 69,
+      "start": 203.24,
+      "end": 204.24,
+      "en": "Transaction.",
+      "zh": "交易。"
+    },
+    {
+      "id": 70,
+      "start": 204.24,
+      "end": 205.24,
+      "en": "Transaction.",
+      "zh": "交易。"
+    },
+    {
+      "id": 71,
+      "start": 205.24,
+      "end": 208.08,
+      "en": "A transaction.",
+      "zh": "交易。"
+    },
+    {
+      "id": 72,
+      "start": 208.08,
+      "end": 213.35,
+      "en": "So we have some great examples that will help you understand what a transaction is, so let's listen.",
+      "zh": "所以我们有一些很好的例子可以帮助您了解什么是交易，所以让我们听听。"
+    },
+    {
+      "id": 73,
+      "start": 215.36,
+      "end": 215.67,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 74,
+      "start": 218.19,
+      "end": 220.43,
+      "en": "I need a record of my most recent bank transactions.",
+      "zh": "我需要记录我最近的银行交易。"
+    },
+    {
+      "id": 75,
+      "start": 224.39,
+      "end": 225.35,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 76,
+      "start": 229.43,
+      "end": 231.83,
+      "en": "There is no fee for bank transactions done online.",
+      "zh": "网上银行交易不收取任何费用。"
+    },
+    {
+      "id": 77,
+      "start": 236.68,
+      "end": 238.84,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 78,
+      "start": 240.29,
+      "end": 242.33,
+      "en": "Okay, we've deposited your money.",
+      "zh": "好的，我们已经存入了您的钱。"
+    },
+    {
+      "id": 79,
+      "start": 242.84,
+      "end": 244.25,
+      "en": "Would you like to make another transaction today?",
+      "zh": "您想今天进行另一笔交易吗？"
+    },
+    {
+      "id": 80,
+      "start": 247.64,
+      "end": 253.68,
+      "en": "So basically I can understand that a transaction is moving money around in your bank account.",
+      "zh": "所以基本上我可以理解，交易正在您的银行账户中转移资金。"
+    },
+    {
+      "id": 81,
+      "start": 253.83,
+      "end": 262.29,
+      "en": "Right, it's taking your money from your bank account and putting it in another account or just taking it to spend, whatever.",
+      "zh": "是的，它是从您的银行账户中取出您的钱并将其存入另一个账户，或者只是将其花掉，无论如何。"
+    },
+    {
+      "id": 82,
+      "start": 262.61,
+      "end": 262.79,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 83,
+      "start": 263.13,
+      "end": 263.53,
+      "en": "That's a transaction.",
+      "zh": "那是交易。"
+    },
+    {
+      "id": 84,
+      "start": 264.01,
+      "end": 265.93,
+      "en": "Or even putting money into your bank account.",
+      "zh": "甚至将钱存入您的银行账户。"
+    },
+    {
+      "id": 85,
+      "start": 266.15,
+      "end": 266.99,
+      "en": "That's also a transaction.",
+      "zh": "这也是一笔交易。"
+    },
+    {
+      "id": 86,
+      "start": 267.63,
+      "end": 268.13,
+      "en": "Great.",
+      "zh": "太好了。"
+    },
+    {
+      "id": 87,
+      "start": 268.55,
+      "end": 270.13,
+      "en": "Our second word, balance.",
+      "zh": "我们的第二个词，平衡。"
+    },
+    {
+      "id": 88,
+      "start": 271.12,
+      "end": 272.12,
+      "en": "Balance.",
+      "zh": "余额。"
+    },
+    {
+      "id": 89,
+      "start": 272.12,
+      "end": 272.31,
+      "en": "Balance.",
+      "zh": "余额。"
+    },
+    {
+      "id": 90,
+      "start": 273.12,
+      "end": 274.12,
+      "en": "Balance.",
+      "zh": "余额。"
+    },
+    {
+      "id": 91,
+      "start": 274.12,
+      "end": 278.04,
+      "en": "So your account balance is how much money you have.",
+      "zh": "所以你的账户余额是你有多少钱。"
+    },
+    {
+      "id": 92,
+      "start": 278.04,
+      "end": 279.04,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 93,
+      "start": 279.04,
+      "end": 280.04,
+      "en": "Right?",
+      "zh": "对吧？"
+    },
+    {
+      "id": 94,
+      "start": 280.04,
+      "end": 281.04,
+      "en": "An account balance.",
+      "zh": "账户余额。"
+    },
+    {
+      "id": 95,
+      "start": 281.04,
+      "end": 283.13,
+      "en": "My account balance is $2 right now, I think.",
+      "zh": "我想我现在的账户余额是 2 美元。"
+    },
+    {
+      "id": 96,
+      "start": 284.04,
+      "end": 284.73,
+      "en": "That's a bit of a problem.",
+      "zh": "这是一个问题。"
+    },
+    {
+      "id": 97,
+      "start": 285.04,
+      "end": 286.04,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 98,
+      "start": 286.04,
+      "end": 287.31,
+      "en": "Good thing payday is three days away.",
+      "zh": "好在发薪日是三天后。"
+    },
+    {
+      "id": 99,
+      "start": 287.64,
+      "end": 289.52,
+      "en": "Yeah, oh my God.",
+      "zh": "是的，天哪。"
+    },
+    {
+      "id": 100,
+      "start": 289.52,
+      "end": 291.99,
+      "en": "Okay, our third word, overdraft.",
+      "zh": "好吧，我们的第三个词，透支。"
+    },
+    {
+      "id": 101,
+      "start": 292.72,
+      "end": 293.05,
+      "en": "Overdraft.",
+      "zh": "透支。"
+    },
+    {
+      "id": 102,
+      "start": 293.91,
+      "end": 294.37,
+      "en": "Overdraft.",
+      "zh": "透支。"
+    },
+    {
+      "id": 103,
+      "start": 294.79,
+      "end": 295.25,
+      "en": "Overdraft.",
+      "zh": "透支。"
+    },
+    {
+      "id": 104,
+      "start": 295.72,
+      "end": 299.28,
+      "en": "So, this really comes in handy, right?",
+      "zh": "所以，这真的派上用场了，对吧？"
+    },
+    {
+      "id": 105,
+      "start": 299.28,
+      "end": 301.54,
+      "en": "To overdraft, can you tell us a little bit about it?",
+      "zh": "透支，你能告诉我们一些关于它的信息吗？"
+    },
+    {
+      "id": 106,
+      "start": 302.38,
+      "end": 306.92,
+      "en": "Let's say in my bank account, I have $500, but I spend $600.",
+      "zh": "假设在我的银行账户中，我有 500 美元，但我花了 600 美元。"
+    },
+    {
+      "id": 107,
+      "start": 307.28,
+      "end": 308.28,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 108,
+      "start": 308.5,
+      "end": 313.46,
+      "en": "So, I have an overdraft in my account, meaning I owe the bank $100.",
+      "zh": "所以，我的账户中有透支，这意味着我欠银行 100 美元。"
+    },
+    {
+      "id": 109,
+      "start": 314.2,
+      "end": 314.72,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 110,
+      "start": 314.86,
+      "end": 317.86,
+      "en": "It's also commonly referred to as a negative balance.",
+      "zh": "它通常也被称为负平衡。"
+    },
+    {
+      "id": 111,
+      "start": 318.18,
+      "end": 318.56,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 112,
+      "start": 319.36,
+      "end": 320.36,
+      "en": "Right?",
+      "zh": "对吧？"
+    },
+    {
+      "id": 113,
+      "start": 320.36,
+      "end": 321.36,
+      "en": "Negative balance.",
+      "zh": "负平衡。"
+    },
+    {
+      "id": 114,
+      "start": 321.36,
+      "end": 322.36,
+      "en": "Like me.",
+      "zh": "像我一样。"
+    },
+    {
+      "id": 115,
+      "start": 322.36,
+      "end": 323.64,
+      "en": "Very soon, I will have a negative balance.",
+      "zh": "很快，我就会有一个负的平衡。"
+    },
+    {
+      "id": 116,
+      "start": 324.07,
+      "end": 326.37,
+      "en": "Okay, I think this one is a little bit tricky to understand.",
+      "zh": "好吧，我认为这一篇有点难以理解。"
+    },
+    {
+      "id": 117,
+      "start": 326.71,
+      "end": 329.87,
+      "en": "So let's listen to a couple of examples of how we use this word.",
+      "zh": "所以让我们听听一些我们如何使用这个词的例子。"
+    },
+    {
+      "id": 118,
+      "start": 331.56,
+      "end": 334.76,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 119,
+      "start": 334.76,
+      "end": 342.52,
+      "en": "The maximum overdraft on my account is only $5,000.",
+      "zh": "我账户的最大透支仅为 5,000 美元。"
+    },
+    {
+      "id": 120,
+      "start": 342.52,
+      "end": 343.52,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 121,
+      "start": 346.86,
+      "end": 350.0,
+      "en": "I'm sorry, sir, but you've exceeded your maximum overdraft limit.",
+      "zh": "对不起，先生，但您已经超出了最大透支限额。"
+    },
+    {
+      "id": 122,
+      "start": 350.34,
+      "end": 351.88,
+      "en": "I cannot give you any more money.",
+      "zh": "我不能给你更多的钱。"
+    },
+    {
+      "id": 123,
+      "start": 357.12,
+      "end": 362.44,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 124,
+      "start": 362.44,
+      "end": 366.22,
+      "en": "Oh no, I have to pay $1,500 in overdraft fees.",
+      "zh": "哦，不，我必须支付 1,500 美元的透支费用。"
+    },
+    {
+      "id": 125,
+      "start": 370.61,
+      "end": 371.61,
+      "en": "Okay, great examples.",
+      "zh": "好，这些例子很棒。"
+    },
+    {
+      "id": 126,
+      "start": 371.99,
+      "end": 374.59,
+      "en": "Now we can take a look at our last word, debit card.",
+      "zh": "现在我们可以看看我们的最后一个字，借记卡。"
+    },
+    {
+      "id": 127,
+      "start": 375.4,
+      "end": 375.75,
+      "en": "Debit card.",
+      "zh": "借记卡。"
+    },
+    {
+      "id": 128,
+      "start": 376.68,
+      "end": 377.21,
+      "en": "Debit card.",
+      "zh": "借记卡。"
+    },
+    {
+      "id": 129,
+      "start": 378.37,
+      "end": 379.37,
+      "en": "D-E-B-I-T, card.",
+      "zh": "D-E-B-I-T，卡。"
+    },
+    {
+      "id": 130,
+      "start": 380.16,
+      "end": 380.39,
+      "en": "Debit card.",
+      "zh": "借记卡。"
+    },
+    {
+      "id": 131,
+      "start": 381.16,
+      "end": 382.87,
+      "en": "So, a debit card is issued by the bank.",
+      "zh": "因此，银行发行了借记卡。"
+    },
+    {
+      "id": 132,
+      "start": 383.4,
+      "end": 384.4,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 133,
+      "start": 384.4,
+      "end": 384.61,
+      "en": "And used to...",
+      "zh": "并习惯于..."
+    },
+    {
+      "id": 134,
+      "start": 385.4,
+      "end": 388.08,
+      "en": "To get money out of an ATM.",
+      "zh": "从自动取款机中取钱。"
+    },
+    {
+      "id": 135,
+      "start": 388.08,
+      "end": 389.44,
+      "en": "From an ATM machine, right?",
+      "zh": "从自动取款机，对吧？"
+    },
+    {
+      "id": 136,
+      "start": 389.44,
+      "end": 390.44,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 137,
+      "start": 390.44,
+      "end": 391.44,
+      "en": "A debit card.",
+      "zh": "借记卡。"
+    },
+    {
+      "id": 138,
+      "start": 391.44,
+      "end": 392.67,
+      "en": "Not to be confused with a credit card.",
+      "zh": "不要与信用卡混淆。"
+    },
+    {
+      "id": 139,
+      "start": 392.88,
+      "end": 393.88,
+      "en": "Not the same thing.",
+      "zh": "不是一回事。"
+    },
+    {
+      "id": 140,
+      "start": 393.88,
+      "end": 394.05,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 141,
+      "start": 394.81,
+      "end": 395.37,
+      "en": "Okay, great.",
+      "zh": "好，太好了。"
+    },
+    {
+      "id": 142,
+      "start": 395.63,
+      "end": 399.97,
+      "en": "So, now we could listen to our dialogue a second time at a slower speed.",
+      "zh": "所以，现在我们可以以较慢的速度再次聆听我们的对话。"
+    },
+    {
+      "id": 143,
+      "start": 400.21,
+      "end": 400.87,
+      "en": "So now we can...",
+      "zh": "所以现在我们可以..."
+    },
+    {
+      "id": 144,
+      "start": 401.28,
+      "end": 403.53,
+      "en": "We can hear all of the great language you just talked about.",
+      "zh": "我们可以听到你刚才谈到的所有伟大的语言。"
+    },
+    {
+      "id": 145,
+      "start": 415.92,
+      "end": 416.92,
+      "en": "Next please.",
+      "zh": "下一位，请。"
+    },
+    {
+      "id": 146,
+      "start": 416.92,
+      "end": 417.76,
+      "en": "May I help you, sir?",
+      "zh": "先生，我可以帮助您吗？"
+    },
+    {
+      "id": 147,
+      "start": 418.48,
+      "end": 419.48,
+      "en": "Hello.",
+      "zh": "你好。"
+    },
+    {
+      "id": 148,
+      "start": 419.48,
+      "end": 421.68,
+      "en": "Yes, I'd like to open a bank account.",
+      "zh": "您好，我想开个银行账户。"
+    },
+    {
+      "id": 149,
+      "start": 422.56,
+      "end": 423.0,
+      "en": "Certainly.",
+      "zh": "当然可以。"
+    },
+    {
+      "id": 150,
+      "start": 423.78,
+      "end": 424.9,
+      "en": "I can help you with that.",
+      "zh": "我可以帮助你。"
+    },
+    {
+      "id": 151,
+      "start": 425.55,
+      "end": 428.05,
+      "en": "What type of account would you like to open?",
+      "zh": "您想开什么类型的账户？"
+    },
+    {
+      "id": 152,
+      "start": 428.36,
+      "end": 431.16,
+      "en": "A checking or a savings account?",
+      "zh": "支票账户或储蓄账户？"
+    },
+    {
+      "id": 153,
+      "start": 431.16,
+      "end": 432.93,
+      "en": "What features do they offer?",
+      "zh": "这两种账户各有什么功能？"
+    },
+    {
+      "id": 154,
+      "start": 433.67,
+      "end": 435.45,
+      "en": "Well, if you just look here...",
+      "zh": "好吧，如果你只是看这里..."
+    },
+    {
+      "id": 155,
+      "start": 435.45,
+      "end": 442.83,
+      "en": "See, with our checking account, you can have unlimited daily transactions for a small monthly fee.",
+      "zh": "看，通过我们的支票账户，您可以以少量的月费进行无限的每日交易。"
+    },
+    {
+      "id": 156,
+      "start": 443.76,
+      "end": 446.91,
+      "en": "And our savings account has a higher interest rate.",
+      "zh": "我们的储蓄账户有更高的利率。"
+    },
+    {
+      "id": 157,
+      "start": 448.04,
+      "end": 453.32,
+      "en": "But you must carry a minimum balance of $10,000.",
+      "zh": "但您必须携带至少 10,000 美元的余额。"
+    },
+    {
+      "id": 158,
+      "start": 453.32,
+      "end": 453.84,
+      "en": "I see.",
+      "zh": "我明白了。"
+    },
+    {
+      "id": 159,
+      "start": 454.38,
+      "end": 457.9,
+      "en": "Well, I think I'm more interested in a checking account.",
+      "zh": "好吧，我想我对支票账户更感兴趣。"
+    },
+    {
+      "id": 160,
+      "start": 458.6,
+      "end": 461.3,
+      "en": "I like to have easy access to my money.",
+      "zh": "我喜欢很容易获得我的钱。"
+    },
+    {
+      "id": 161,
+      "start": 461.84,
+      "end": 464.16,
+      "en": "All right then.",
+      "zh": "那好吧。"
+    },
+    {
+      "id": 162,
+      "start": 464.16,
+      "end": 468.8,
+      "en": "With this checking account, you'll be issued with a debit card and a checkbook.",
+      "zh": "使用此支票账户，您将获得借记卡和支票簿。"
+    },
+    {
+      "id": 163,
+      "start": 469.84,
+      "end": 471.5,
+      "en": "Will you require overdraft protection?",
+      "zh": "您需要透支保护吗？"
+    },
+    {
+      "id": 164,
+      "start": 472.34,
+      "end": 473.98,
+      "en": "There is an extra fee for that.",
+      "zh": "有额外的费用。"
+    },
+    {
+      "id": 165,
+      "start": 474.5,
+      "end": 476.1,
+      "en": "No, that won't be necessary.",
+      "zh": "不用了。"
+    },
+    {
+      "id": 166,
+      "start": 477.52,
+      "end": 481.1,
+      "en": "In that case, I'll get you to fill out this paperwork.",
+      "zh": "那请您填写这些表格。"
+    },
+    {
+      "id": 167,
+      "start": 481.88,
+      "end": 486.44,
+      "en": "I'll need your social insurance number and two pieces of government ID.",
+      "zh": "我需要您的社会保险号码和两份政府签发的身份证件。"
+    },
+    {
+      "id": 168,
+      "start": 488.36,
+      "end": 494.45,
+      "en": "If you could just sign here and here and here, we'll be all set.",
+      "zh": "如果您可以在这里和这里和这里签名，我们将一切准备就绪。"
+    },
+    {
+      "id": 169,
+      "start": 495.51,
+      "end": 497.11,
+      "en": "Would you like to make a deposit today?",
+      "zh": "您今天要存款吗？"
+    },
+    {
+      "id": 170,
+      "start": 497.8,
+      "end": 500.39,
+      "en": "Yes, I'd like to deposit $1 billion.",
+      "zh": "要，我想存十亿美元。"
+    },
+    {
+      "id": 171,
+      "start": 509.88,
+      "end": 514.43,
+      "en": "We heard some interesting phrases of how to tell somebody to do something in a polite way.",
+      "zh": "我们听到了一些关于如何以礼貌的方式告诉某人做某事的有趣短语。"
+    },
+    {
+      "id": 172,
+      "start": 515.4,
+      "end": 516.4,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 173,
+      "start": 516.4,
+      "end": 518.39,
+      "en": "Let's start with Fluency Builder and explain these words.",
+      "zh": "让我们从 Fluency Builder 开始，解释这些词。"
+    },
+    {
+      "id": 174,
+      "start": 519.92,
+      "end": 520.6,
+      "en": "Fluency Builder.",
+      "zh": "流利表达。"
+    },
+    {
+      "id": 175,
+      "start": 521.56,
+      "end": 528.86,
+      "en": "The bank teller asked this man to do a number of things in order to open his bank account and she used some great expressions.",
+      "zh": "银行出纳员让这个人做很多事情来开他的银行账户，她用了一些很好的表情。"
+    },
+    {
+      "id": 176,
+      "start": 529.7,
+      "end": 529.92,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 177,
+      "start": 530.08,
+      "end": 534.9,
+      "en": "Let's listen to how she asked the man to do some things in a polite way.",
+      "zh": "让我们听听她如何以礼貌的方式要求男人做一些事情。"
+    },
+    {
+      "id": 178,
+      "start": 535.02,
+      "end": 535.18,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 179,
+      "start": 535.92,
+      "end": 538.42,
+      "en": "I'll get you to fill out this paperwork.",
+      "zh": "我会让你填写这份文件。"
+    },
+    {
+      "id": 180,
+      "start": 539.98,
+      "end": 542.68,
+      "en": "I'll get you to fill out this paperwork.",
+      "zh": "我会让你填写这份文件。"
+    },
+    {
+      "id": 181,
+      "start": 545.6,
+      "end": 547.36,
+      "en": "I'll need your social insurance number.",
+      "zh": "我需要你的社会保险号。"
+    },
+    {
+      "id": 182,
+      "start": 549.73,
+      "end": 551.53,
+      "en": "I'll need your social insurance number.",
+      "zh": "我需要你的社会保险号。"
+    },
+    {
+      "id": 183,
+      "start": 553.45,
+      "end": 555.13,
+      "en": "If you could just sign here.",
+      "zh": "如果你可以在这里签名。"
+    },
+    {
+      "id": 184,
+      "start": 557.12,
+      "end": 559.0,
+      "en": "If you could just sign here.",
+      "zh": "如果你可以在这里签名。"
+    },
+    {
+      "id": 185,
+      "start": 560.87,
+      "end": 564.67,
+      "en": "The first thing she said is, I'll get you to fill out this paperwork.",
+      "zh": "她说的第一件事是，我会让你填写这份文件。"
+    },
+    {
+      "id": 186,
+      "start": 565.52,
+      "end": 567.28,
+      "en": "I'll get you to.",
+      "zh": "我要请你……"
+    },
+    {
+      "id": 187,
+      "start": 567.28,
+      "end": 568.28,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 188,
+      "start": 568.28,
+      "end": 570.6,
+      "en": "I'll get you to.",
+      "zh": "我要请你……"
+    },
+    {
+      "id": 189,
+      "start": 570.6,
+      "end": 573.36,
+      "en": "It's just a way of saying, can you please fill this out?",
+      "zh": "这只是一种说法，你能填写一下吗？"
+    },
+    {
+      "id": 190,
+      "start": 573.6,
+      "end": 574.6,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 191,
+      "start": 574.6,
+      "end": 576.8,
+      "en": "I'll do this, but in a different way.",
+      "zh": "我会这样做，但以不同的方式。"
+    },
+    {
+      "id": 192,
+      "start": 576.8,
+      "end": 577.02,
+      "en": "More polite.",
+      "zh": "更有礼貌。"
+    },
+    {
+      "id": 193,
+      "start": 577.8,
+      "end": 578.04,
+      "en": "It's pretty polite.",
+      "zh": "这很有礼貌。"
+    },
+    {
+      "id": 194,
+      "start": 579.44,
+      "end": 583.04,
+      "en": "Then she also said, I'll need your social insurance number.",
+      "zh": "然后她还说，我需要你的社会保险号码。"
+    },
+    {
+      "id": 195,
+      "start": 583.3,
+      "end": 584.08,
+      "en": "I'll need your.",
+      "zh": "我需要你的……"
+    },
+    {
+      "id": 196,
+      "start": 584.64,
+      "end": 585.5,
+      "en": "I'll need your.",
+      "zh": "我需要你的……"
+    },
+    {
+      "id": 197,
+      "start": 585.78,
+      "end": 587.82,
+      "en": "Again, a polite way of saying.",
+      "zh": "再次，礼貌的表达方式。"
+    },
+    {
+      "id": 198,
+      "start": 590.6,
+      "end": 590.96,
+      "en": "Give me your social insurance number.",
+      "zh": "给我你的社会保险号码。"
+    },
+    {
+      "id": 199,
+      "start": 590.96,
+      "end": 591.8,
+      "en": "Give me your social insurance.",
+      "zh": "给我你的社会保险。"
+    },
+    {
+      "id": 200,
+      "start": 593.0,
+      "end": 595.14,
+      "en": "And the last thing she said, and this is really polite.",
+      "zh": "她说的最后一句话，这真的很有礼貌。"
+    },
+    {
+      "id": 201,
+      "start": 595.88,
+      "end": 597.38,
+      "en": "If you could just sign here.",
+      "zh": "如果你可以在这里签名。"
+    },
+    {
+      "id": 202,
+      "start": 598.16,
+      "end": 599.16,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 203,
+      "start": 599.16,
+      "end": 600.07,
+      "en": "If you could just sign here.",
+      "zh": "如果你可以在这里签名。"
+    },
+    {
+      "id": 204,
+      "start": 600.28,
+      "end": 600.89,
+      "en": "If you could just.",
+      "zh": "如果你可以。"
+    },
+    {
+      "id": 205,
+      "start": 602.04,
+      "end": 605.2,
+      "en": "If you could just wait a moment, I'll be with you.",
+      "zh": "如果你能等一会儿，我会和你在一起。"
+    },
+    {
+      "id": 206,
+      "start": 605.2,
+      "end": 607.81,
+      "en": "If you could just send me an email with your bank account number.",
+      "zh": "如果您可以向我发送一封电子邮件，其中包含您的银行帐号。"
+    },
+    {
+      "id": 207,
+      "start": 608.4,
+      "end": 608.57,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 208,
+      "start": 609.4,
+      "end": 610.65,
+      "en": "Very polite way of asking for something.",
+      "zh": "非常有礼貌的要求某事的方式。"
+    },
+    {
+      "id": 209,
+      "start": 611.08,
+      "end": 612.08,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 210,
+      "start": 612.08,
+      "end": 613.57,
+      "en": "Well, some great language in today's cast.",
+      "zh": "嗯，今天的演员阵容中有一些很棒的语言。"
+    },
+    {
+      "id": 211,
+      "start": 614.2,
+      "end": 618.69,
+      "en": "Let's listen to the dialogue one last time and we'll catch all of this wonderful language.",
+      "zh": "让我们最后一次听对话，我们将捕捉所有这些美妙的语言。"
+    },
+    {
+      "id": 212,
+      "start": 628.36,
+      "end": 629.36,
+      "en": "Next please.",
+      "zh": "下一位，请。"
+    },
+    {
+      "id": 213,
+      "start": 629.36,
+      "end": 630.36,
+      "en": "May I help you, sir?",
+      "zh": "先生，我可以帮助您吗？"
+    },
+    {
+      "id": 214,
+      "start": 630.83,
+      "end": 631.21,
+      "en": "Hello.",
+      "zh": "你好。"
+    },
+    {
+      "id": 215,
+      "start": 631.36,
+      "end": 632.36,
+      "en": "Oh, yes.",
+      "zh": "哦，是的。"
+    },
+    {
+      "id": 216,
+      "start": 632.51,
+      "end": 633.81,
+      "en": "I'd like to open a bank account.",
+      "zh": "我想开一个银行账户。"
+    },
+    {
+      "id": 217,
+      "start": 634.51,
+      "end": 634.81,
+      "en": "Certainly.",
+      "zh": "当然可以。"
+    },
+    {
+      "id": 218,
+      "start": 635.67,
+      "end": 636.55,
+      "en": "I can help you with that.",
+      "zh": "我可以帮助你。"
+    },
+    {
+      "id": 219,
+      "start": 637.09,
+      "end": 638.75,
+      "en": "What type of account would you like to open?",
+      "zh": "您想开什么类型的账户？"
+    },
+    {
+      "id": 220,
+      "start": 639.39,
+      "end": 640.47,
+      "en": "A checking or a saving account?",
+      "zh": "支票账户还是储蓄账户？"
+    },
+    {
+      "id": 221,
+      "start": 641.05,
+      "end": 642.13,
+      "en": "What features do they offer?",
+      "zh": "这两种账户各有什么功能？"
+    },
+    {
+      "id": 222,
+      "start": 642.63,
+      "end": 649.43,
+      "en": "Well, if you just take a look here, see, with our checking account, you can have unlimited daily transactions for a small monthly fee.",
+      "zh": "好吧，如果您只是在这里查看，使用我们的支票账户，您可以以少量的月费进行无限的每日交易。"
+    },
+    {
+      "id": 223,
+      "start": 650.2,
+      "end": 655.56,
+      "en": "And our savings account has a higher interest rate, but you must carry a minimum balance of $10,000.",
+      "zh": "我们的储蓄账户有更高的利率，但您必须携带 10,000 美元的最低余额。"
+    },
+    {
+      "id": 224,
+      "start": 656.15,
+      "end": 656.81,
+      "en": "I see.",
+      "zh": "我明白了。"
+    },
+    {
+      "id": 225,
+      "start": 657.29,
+      "end": 659.93,
+      "en": "Well, I think I'm more interested in a checking account.",
+      "zh": "好吧，我想我对支票账户更感兴趣。"
+    },
+    {
+      "id": 226,
+      "start": 660.75,
+      "end": 662.43,
+      "en": "I'd like to have easy access to my money.",
+      "zh": "我希望取用资金方便一些。"
+    },
+    {
+      "id": 227,
+      "start": 662.96,
+      "end": 664.84,
+      "en": "All right, then.",
+      "zh": "那好吧。"
+    },
+    {
+      "id": 228,
+      "start": 664.84,
+      "end": 668.18,
+      "en": "With this checking account, you'll be issued a debit card and a checkbook.",
+      "zh": "开通这个支票账户后，我们会给您一张借记卡和一本支票簿。"
+    },
+    {
+      "id": 229,
+      "start": 669.2,
+      "end": 670.64,
+      "en": "Will you require overdraft protection?",
+      "zh": "您需要透支保护吗？"
+    },
+    {
+      "id": 230,
+      "start": 671.84,
+      "end": 672.88,
+      "en": "There is an extra fee for that.",
+      "zh": "有额外的费用。"
+    },
+    {
+      "id": 231,
+      "start": 673.32,
+      "end": 674.28,
+      "en": "No, that won't be necessary.",
+      "zh": "不用了。"
+    },
+    {
+      "id": 232,
+      "start": 675.86,
+      "end": 678.18,
+      "en": "In that case, I'll get you to fill out this paperwork.",
+      "zh": "那请您填写这些表格。"
+    },
+    {
+      "id": 233,
+      "start": 678.84,
+      "end": 681.9,
+      "en": "I'll need your social insurance number and two pieces of government ID.",
+      "zh": "我需要您的社会保险号码和两份政府签发的身份证件。"
+    },
+    {
+      "id": 234,
+      "start": 687.05,
+      "end": 692.03,
+      "en": "If you could just sign here and here and here, we'll be all set.",
+      "zh": "如果您可以在这里和这里和这里签名，我们将一切准备就绪。"
+    },
+    {
+      "id": 235,
+      "start": 692.72,
+      "end": 694.22,
+      "en": "Would you like to make a deposit today?",
+      "zh": "您今天要存款吗？"
+    },
+    {
+      "id": 236,
+      "start": 695.0,
+      "end": 697.38,
+      "en": "Yes, I'd like to deposit $1 billion.",
+      "zh": "要，我想存十亿美元。"
+    },
+    {
+      "id": 237,
+      "start": 698.96,
+      "end": 702.0,
+      "en": "$1 billion!",
+      "zh": "十亿美元！"
+    },
+    {
+      "id": 238,
+      "start": 713.29,
+      "end": 718.23,
+      "en": "Okay, so an interesting thing here, not many countries use checks.",
+      "zh": "好吧，这里很有趣，没有多少国家使用支票。"
+    },
+    {
+      "id": 239,
+      "start": 719.04,
+      "end": 719.21,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 240,
+      "start": 720.04,
+      "end": 721.04,
+      "en": "Right?",
+      "zh": "对吧？"
+    },
+    {
+      "id": 241,
+      "start": 721.04,
+      "end": 722.04,
+      "en": "The checkbook or a check?",
+      "zh": "支票簿还是支票？"
+    },
+    {
+      "id": 242,
+      "start": 722.04,
+      "end": 723.55,
+      "en": "Yeah, it tends to be more of an American thing, don't you think?",
+      "zh": "是的，它往往更像是美国的东西，你不觉得吗？"
+    },
+    {
+      "id": 243,
+      "start": 724.38,
+      "end": 724.89,
+      "en": "It is, it is.",
+      "zh": "是的，它是。"
+    },
+    {
+      "id": 244,
+      "start": 725.38,
+      "end": 726.38,
+      "en": "I think it is.",
+      "zh": "我认为是。"
+    },
+    {
+      "id": 245,
+      "start": 726.38,
+      "end": 731.51,
+      "en": "For those of you who aren't sure what a check is, it's basically a piece of paper that you just sign your name and...",
+      "zh": "对于那些不确定什么是支票的人来说，它基本上是一张纸，你只需在你的名字上签名和..."
+    },
+    {
+      "id": 246,
+      "start": 731.6,
+      "end": 735.07,
+      "en": "Yeah, you write the amount of money and then you sign your name, right?",
+      "zh": "是的，你写了多少钱，然后你签了你的名字，对吧？"
+    },
+    {
+      "id": 247,
+      "start": 735.32,
+      "end": 739.77,
+      "en": "Right, and then you give that to the person, that person can take it to the bank and get money in exchange for it.",
+      "zh": "对，然后你把它给那个人，那个人可以把它带到银行并得到钱来换取它。"
+    },
+    {
+      "id": 248,
+      "start": 740.4,
+      "end": 741.4,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 249,
+      "start": 741.4,
+      "end": 742.22,
+      "en": "It's not very common in other countries.",
+      "zh": "这在其他国家并不常见。"
+    },
+    {
+      "id": 250,
+      "start": 742.54,
+      "end": 747.88,
+      "en": "No, but from what I know, every single American has a checkbook and uses it pretty regularly.",
+      "zh": "不，但据我所知，每个美国人都有一本支票簿，并且经常使用它。"
+    },
+    {
+      "id": 251,
+      "start": 748.16,
+      "end": 749.16,
+      "en": "Yeah, yeah.",
+      "zh": "对，对。"
+    },
+    {
+      "id": 252,
+      "start": 749.16,
+      "end": 754.88,
+      "en": "For example, you pay your phone bill or your electric bill, you just put a check in the mailbox and it's paid.",
+      "zh": "例如，您支付电话费或电费账单，您只需在邮箱中放一张支票即可支付。"
+    },
+    {
+      "id": 253,
+      "start": 754.88,
+      "end": 756.12,
+      "en": "And it's done.",
+      "zh": "它已经完成了。"
+    },
+    {
+      "id": 254,
+      "start": 756.12,
+      "end": 756.82,
+      "en": "It's an interesting thing.",
+      "zh": "这是一件有趣的事情。"
+    },
+    {
+      "id": 255,
+      "start": 757.12,
+      "end": 761.72,
+      "en": "But also, sometimes in other countries, people's salaries are paid through checks.",
+      "zh": "而且，有时在其他国家，人们的工资是通过支票支付的。"
+    },
+    {
+      "id": 256,
+      "start": 761.72,
+      "end": 762.72,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 257,
+      "start": 762.72,
+      "end": 763.72,
+      "en": "Paycheck.",
+      "zh": "工资支票。"
+    },
+    {
+      "id": 258,
+      "start": 763.72,
+      "end": 764.72,
+      "en": "Oh, yes.",
+      "zh": "哦，是的。"
+    },
+    {
+      "id": 259,
+      "start": 764.72,
+      "end": 765.28,
+      "en": "I see where that word comes from.",
+      "zh": "我知道这个词是从哪里来的。"
+    },
+    {
+      "id": 260,
+      "start": 765.88,
+      "end": 766.2,
+      "en": "Paycheck.",
+      "zh": "工资支票。"
+    },
+    {
+      "id": 261,
+      "start": 766.72,
+      "end": 767.72,
+      "en": "Uh-huh.",
+      "zh": "嗯。"
+    },
+    {
+      "id": 262,
+      "start": 767.72,
+      "end": 769.12,
+      "en": "But for example, here in China, it's not very common, right?",
+      "zh": "但在中国，这并不常见，对吧？"
+    },
+    {
+      "id": 263,
+      "start": 769.66,
+      "end": 770.64,
+      "en": "I've never seen a check here.",
+      "zh": "我从来没有在这里看到过支票。"
+    },
+    {
+      "id": 264,
+      "start": 770.76,
+      "end": 771.06,
+      "en": "Me neither.",
+      "zh": "我也不是。"
+    },
+    {
+      "id": 265,
+      "start": 771.4,
+      "end": 772.32,
+      "en": "What about in your countries?",
+      "zh": "在你们的国家呢？"
+    },
+    {
+      "id": 266,
+      "start": 772.56,
+      "end": 774.66,
+      "en": "We'd like to know how the banking system works.",
+      "zh": "我们想知道银行系统是如何运作的。"
+    },
+    {
+      "id": 267,
+      "start": 774.94,
+      "end": 778.84,
+      "en": "Yes, come to our website at EnglishPod.com and tell us all about it.",
+      "zh": "是的，请访问我们的网站 englishpod.com 并告诉我们所有相关信息。"
+    },
+    {
+      "id": 268,
+      "start": 779.18,
+      "end": 783.36,
+      "en": "Yes, and you can also leave your questions and comments on our website and we'll be there to answer it.",
+      "zh": "是的，您也可以在我们的网站上留下您的问题和评论，我们将在那里回答。"
+    },
+    {
+      "id": 269,
+      "start": 783.88,
+      "end": 786.88,
+      "en": "Yeah, Marco and I love answering your questions, so please visit us.",
+      "zh": "是的，Marco 和我喜欢回答你的问题，所以请访问我们。"
+    },
+    {
+      "id": 270,
+      "start": 786.88,
+      "end": 788.28,
+      "en": "All right, but until then, it's goodbye.",
+      "zh": "好吧，但在那之前，这是再见。"
+    },
+    {
+      "id": 271,
+      "start": 788.28,
+      "end": 796.996,
+      "en": "Bye.",
+      "zh": "再见。"
+    }
+  ],
+  "dialog": {
+    "start": 86.88,
+    "end": 163.53,
+    "segmentIds": [
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59
+    ]
+  }
+}

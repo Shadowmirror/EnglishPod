@@ -1,0 +1,1693 @@
+{
+  "version": 1,
+  "id": 206,
+  "number": "0206",
+  "title": "Daily Life - Talking To Your Roommate",
+  "audio": "mp3/206. Daily Life - Talking To Your Roommate.mp3",
+  "duration": 728.0326875,
+  "segments": [
+    {
+      "id": 1,
+      "start": 4.34,
+      "end": 7.62,
+      "en": "Hello everyone and welcome to another lesson here at EnglishPod.",
+      "zh": "大家好，欢迎在 Englishpod 参加另一个课程。"
+    },
+    {
+      "id": 2,
+      "start": 7.88,
+      "end": 8.88,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 8.88,
+      "end": 14.58,
+      "en": "And I'm Catherine and today we have an elementary level lesson all about life with a roommate.",
+      "zh": "我是凯瑟琳，今天我们有一个关于和室友生活的小学课程。"
+    },
+    {
+      "id": 4,
+      "start": 15.0,
+      "end": 15.58,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 5,
+      "start": 15.9,
+      "end": 21.98,
+      "en": "So sometimes during college you have to live with a roommate because living alone is too expensive.",
+      "zh": "所以有时在大学期间你必须和室友住在一起，因为一个人住太贵了。"
+    },
+    {
+      "id": 6,
+      "start": 22.58,
+      "end": 29.98,
+      "en": "Also, after college I know that a lot of people who are just starting their jobs often live with a roommate to save some money.",
+      "zh": "此外，大学毕业后，我知道很多刚刚开始工作的人经常和室友住在一起，以节省一些钱。"
+    },
+    {
+      "id": 7,
+      "start": 30.19,
+      "end": 30.59,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 8,
+      "start": 30.79,
+      "end": 34.65,
+      "en": "Or maybe your girlfriend could be considered kind of like your romantic roommate.",
+      "zh": "或者也许你的女朋友可以被认为有点像你的浪漫室友。"
+    },
+    {
+      "id": 9,
+      "start": 35.35,
+      "end": 39.17,
+      "en": "I hope not in the sense of today's lesson.",
+      "zh": "我希望不是今天的教训。"
+    },
+    {
+      "id": 10,
+      "start": 39.17,
+      "end": 40.91,
+      "en": "We're talking about problems with a roommate.",
+      "zh": "我们正在谈论与室友的问题。"
+    },
+    {
+      "id": 11,
+      "start": 41.53,
+      "end": 44.31,
+      "en": "So let's listen to this dialogue and we'll be back in a moment.",
+      "zh": "所以让我们听听这个对话，我们稍后会回来。"
+    },
+    {
+      "id": 12,
+      "start": 49.61,
+      "end": 51.25,
+      "en": "Charlie, do you have a second?",
+      "zh": "查理，你有空吗？"
+    },
+    {
+      "id": 13,
+      "start": 52.08,
+      "end": 53.04,
+      "en": "Yeah, what's up?",
+      "zh": "嗯，怎么了？"
+    },
+    {
+      "id": 14,
+      "start": 53.4,
+      "end": 57.44,
+      "en": "Well, I went and paid the bills today and you still haven't given me your half.",
+      "zh": "好吧，我今天去付了账单，你还没有给我你的一半。"
+    },
+    {
+      "id": 15,
+      "start": 58.16,
+      "end": 60.44,
+      "en": "Yeah, I wanted to talk to you about that.",
+      "zh": "是的，我想和你谈谈这件事。"
+    },
+    {
+      "id": 16,
+      "start": 60.95,
+      "end": 65.23,
+      "en": "I agreed we would go halves on all the bills, but frankly I think it's unfair.",
+      "zh": "我之前同意所有账单咱们一人一半，但说实话，我觉得这样不公平。"
+    },
+    {
+      "id": 17,
+      "start": 65.71,
+      "end": 66.19,
+      "en": "Unfair?",
+      "zh": "不公平？"
+    },
+    {
+      "id": 18,
+      "start": 66.75,
+      "end": 67.05,
+      "en": "Why?",
+      "zh": "为什么？"
+    },
+    {
+      "id": 19,
+      "start": 67.57,
+      "end": 71.19,
+      "en": "Well, you have long hair and use the hair dryer every morning.",
+      "zh": "好吧，你有长发，每天早上都用吹风机。"
+    },
+    {
+      "id": 20,
+      "start": 71.37,
+      "end": 71.83,
+      "en": "I don't.",
+      "zh": "我可没有。"
+    },
+    {
+      "id": 21,
+      "start": 72.23,
+      "end": 75.13,
+      "en": "You leave your computer on all night downloading torrents.",
+      "zh": "你让你的电脑整晚都在下载种子。"
+    },
+    {
+      "id": 22,
+      "start": 75.31,
+      "end": 75.79,
+      "en": "I don't.",
+      "zh": "我可没有。"
+    },
+    {
+      "id": 23,
+      "start": 76.25,
+      "end": 77.39,
+      "en": "You see what I'm getting at here?",
+      "zh": "你明白我的意思了吧？"
+    },
+    {
+      "id": 24,
+      "start": 77.69,
+      "end": 79.89,
+      "en": "You leave the air conditioner on day and night.",
+      "zh": "你整天整夜开着空调。"
+    },
+    {
+      "id": 25,
+      "start": 80.25,
+      "end": 84.55,
+      "en": "You also take 30 minute showers, which means you're using way more gas and water than me.",
+      "zh": "你洗澡一洗就是三十分钟，用的燃气和水比我多得多。"
+    },
+    {
+      "id": 26,
+      "start": 85.0,
+      "end": 89.76,
+      "en": "Well, while we're on the subject, stop bringing your friends over for drinks every weekend.",
+      "zh": "好吧，当我们讨论这个话题时，停止每个周末带你的朋友来喝酒。"
+    },
+    {
+      "id": 27,
+      "start": 90.46,
+      "end": 92.8,
+      "en": "You always leave a mess and keep me up all night.",
+      "zh": "你总是留下一团糟，让我彻夜难眠。"
+    },
+    {
+      "id": 28,
+      "start": 93.36,
+      "end": 95.92,
+      "en": "Maybe you should just move out and find another place.",
+      "zh": "也许你应该搬出去找另一个地方。"
+    },
+    {
+      "id": 29,
+      "start": 96.44,
+      "end": 97.82,
+      "en": "Maybe you should move out.",
+      "zh": "也许你应该搬出去。"
+    },
+    {
+      "id": 30,
+      "start": 99.08,
+      "end": 104.1,
+      "en": "All right, we're back.",
+      "zh": "好了，我们回来了。"
+    },
+    {
+      "id": 31,
+      "start": 104.1,
+      "end": 109.59,
+      "en": "So we have a couple of different words that we're going to take a look at now in Language Takeaway.",
+      "zh": "所以我们有几个不同的词现在我们将在语言外卖中看看。"
+    },
+    {
+      "id": 32,
+      "start": 111.76,
+      "end": 112.32,
+      "en": "Language Takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 33,
+      "start": 114.02,
+      "end": 118.86,
+      "en": "So the first word is a dreaded word that means that most people don't like it.",
+      "zh": "所以第一个词是一个可怕的词，这意味着大多数人不喜欢它。"
+    },
+    {
+      "id": 34,
+      "start": 119.0,
+      "end": 119.74,
+      "en": "They fear it.",
+      "zh": "他们害怕它。"
+    },
+    {
+      "id": 35,
+      "start": 119.96,
+      "end": 120.6,
+      "en": "This is bills.",
+      "zh": "这是账单。"
+    },
+    {
+      "id": 36,
+      "start": 121.0,
+      "end": 121.4,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 37,
+      "start": 121.64,
+      "end": 123.48,
+      "en": "You have to pay your bills.",
+      "zh": "你必须支付你的账单。"
+    },
+    {
+      "id": 38,
+      "start": 124.34,
+      "end": 128.34,
+      "en": "So a bill is the paper that tells you how much you have to pay.",
+      "zh": "因此，账单是告诉您必须支付多少的文件。"
+    },
+    {
+      "id": 39,
+      "start": 128.72,
+      "end": 129.16,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 40,
+      "start": 129.38,
+      "end": 130.78,
+      "en": "So you can have a gas bill.",
+      "zh": "所以你可以有一个汽油账单。"
+    },
+    {
+      "id": 41,
+      "start": 131.1,
+      "end": 132.18,
+      "en": "An electricity bill.",
+      "zh": "电费单。"
+    },
+    {
+      "id": 42,
+      "start": 132.66,
+      "end": 133.4,
+      "en": "A cable bill.",
+      "zh": "有线电视费。"
+    },
+    {
+      "id": 43,
+      "start": 134.28,
+      "end": 136.46,
+      "en": "Or even at the restaurant, you ask for the bill.",
+      "zh": "甚至在餐厅，你要账单。"
+    },
+    {
+      "id": 44,
+      "start": 136.88,
+      "end": 140.08,
+      "en": "All right, so this is the amount of money you need to pay.",
+      "zh": "好吧，这就是你需要支付的金额。"
+    },
+    {
+      "id": 45,
+      "start": 140.56,
+      "end": 141.56,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 46,
+      "start": 141.56,
+      "end": 149.92,
+      "en": "And usually at the end of the month, you receive many, many bills in the mail and you have to pay the companies like the gas company and the electricity company.",
+      "zh": "通常在月底，您会在邮件中收到许多账单，您必须向天然气公司和电力公司等公司付款。"
+    },
+    {
+      "id": 47,
+      "start": 149.92,
+      "end": 150.08,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 48,
+      "start": 150.92,
+      "end": 151.1,
+      "en": "So those are bills.",
+      "zh": "所以那些是账单。"
+    },
+    {
+      "id": 49,
+      "start": 151.92,
+      "end": 154.52,
+      "en": "A singular would be a bill.",
+      "zh": "单数将是一张账单。"
+    },
+    {
+      "id": 50,
+      "start": 154.52,
+      "end": 156.42,
+      "en": "And so this is how the argument starts.",
+      "zh": "这就是争论的开始。"
+    },
+    {
+      "id": 51,
+      "start": 156.78,
+      "end": 163.76,
+      "en": "The two roommates decide that they have to pay the bills, but they don't want to split the bills in half, go halves.",
+      "zh": "两个室友决定他们必须付账单，但他们不想把账单分成两半，去一半。"
+    },
+    {
+      "id": 52,
+      "start": 164.48,
+      "end": 166.14,
+      "en": "They have to pay their own.",
+      "zh": "他们必须自己付钱。"
+    },
+    {
+      "id": 53,
+      "start": 166.52,
+      "end": 169.29,
+      "en": "And so one person says, listen, this isn't fair.",
+      "zh": "所以一个人说，听着，这不公平。"
+    },
+    {
+      "id": 54,
+      "start": 170.35,
+      "end": 174.17,
+      "en": "You leave your computer on all night downloading torrents.",
+      "zh": "你让你的电脑整晚都在下载种子。"
+    },
+    {
+      "id": 55,
+      "start": 174.39,
+      "end": 181.07,
+      "en": "Okay, so we understand what it is to download something or you download this podcast, but a torrent, what is that?",
+      "zh": "好的，所以我们了解下载某些内容或下载此播客的内容，但是 Torrent，那是什么？"
+    },
+    {
+      "id": 56,
+      "start": 181.24,
+      "end": 182.01,
+      "en": "That's kind of technical.",
+      "zh": "这有点技术性。"
+    },
+    {
+      "id": 57,
+      "start": 182.37,
+      "end": 182.87,
+      "en": "That is.",
+      "zh": "也就是说。"
+    },
+    {
+      "id": 58,
+      "start": 183.31,
+      "end": 187.49,
+      "en": "So a torrent is a kind of file that you can download from the internet.",
+      "zh": "因此，种子是一种可以从互联网下载的文件。"
+    },
+    {
+      "id": 59,
+      "start": 188.19,
+      "end": 203.44,
+      "en": "So basically when you want to download a movie or some music from the internet, you go to a website that will connect you to someone who owns this movie or book or music and they'll have a special file that's called a torrent file and that's what you download.",
+      "zh": "因此，基本上当您想从互联网下载电影或一些音乐时，您会访问一个网站，该网站会将您连接到拥有这部电影或书籍或音乐的人，他们将拥有一个名为 torrent 文件的特殊文件，这就是您下载的内容。"
+    },
+    {
+      "id": 60,
+      "start": 203.8,
+      "end": 204.3,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 61,
+      "start": 204.62,
+      "end": 211.24,
+      "en": "So it's a new way of downloading files off the internet from many people, kind of like a peer sharing.",
+      "zh": "所以这是从互联网上下载文件的一种新方式，有点像同行共享。"
+    },
+    {
+      "id": 62,
+      "start": 211.64,
+      "end": 212.0,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 63,
+      "start": 212.2,
+      "end": 216.08,
+      "en": "So when one person disappears or goes offline, it shares you with another person.",
+      "zh": "因此，当一个人消失或下线时，它与另一个人分享您。"
+    },
+    {
+      "id": 64,
+      "start": 216.24,
+      "end": 216.64,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 65,
+      "start": 217.16,
+      "end": 218.34,
+      "en": "So those are torrents.",
+      "zh": "所以那些是种子。"
+    },
+    {
+      "id": 66,
+      "start": 218.34,
+      "end": 223.12,
+      "en": "And now, well, they kept arguing about you have to pay this, I have to pay that.",
+      "zh": "现在，好吧，他们一直在争论你必须付钱，我必须付钱。"
+    },
+    {
+      "id": 67,
+      "start": 223.6,
+      "end": 226.14,
+      "en": "So you said, you know what, you should just move out.",
+      "zh": "所以你说，你知道什么，你应该搬出去。"
+    },
+    {
+      "id": 68,
+      "start": 226.92,
+      "end": 233.18,
+      "en": "Ooh, so to move out, this is a phrase that has two words to move out.",
+      "zh": "哦，所以要搬出去，这是一个有两个词要搬出的短语。"
+    },
+    {
+      "id": 69,
+      "start": 233.54,
+      "end": 236.62,
+      "en": "It means to leave this house forever, this apartment.",
+      "zh": "这意味着永远离开这所房子，这间公寓。"
+    },
+    {
+      "id": 70,
+      "start": 236.98,
+      "end": 239.38,
+      "en": "So that means to find a new place to live.",
+      "zh": "所以这意味着要找到一个新的居住地。"
+    },
+    {
+      "id": 71,
+      "start": 239.6,
+      "end": 240.6,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 72,
+      "start": 240.6,
+      "end": 242.32,
+      "en": "So I can say, oh, I'm moving out this weekend.",
+      "zh": "所以我可以说，哦，我这个周末要搬出去。"
+    },
+    {
+      "id": 73,
+      "start": 242.88,
+      "end": 244.22,
+      "en": "That means I'm changing apartments.",
+      "zh": "这意味着我要换公寓。"
+    },
+    {
+      "id": 74,
+      "start": 244.56,
+      "end": 245.56,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 75,
+      "start": 245.56,
+      "end": 247.3,
+      "en": "Or my boyfriend just moved out.",
+      "zh": "或者我男朋友刚搬出去。"
+    },
+    {
+      "id": 76,
+      "start": 247.62,
+      "end": 247.94,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 77,
+      "start": 248.56,
+      "end": 248.94,
+      "en": "That's really sad.",
+      "zh": "这真的很可悲。"
+    },
+    {
+      "id": 78,
+      "start": 249.56,
+      "end": 250.88,
+      "en": "He left your house.",
+      "zh": "他离开了你的家。"
+    },
+    {
+      "id": 79,
+      "start": 251.4,
+      "end": 251.68,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 80,
+      "start": 251.7,
+      "end": 253.24,
+      "en": "So that is to move out.",
+      "zh": "所以那是搬出去。"
+    },
+    {
+      "id": 81,
+      "start": 253.56,
+      "end": 259.3,
+      "en": "And now we have a word that is more colloquial of how to say a house or an apartment.",
+      "zh": "现在我们有一个更通俗的词来表达房子或公寓。"
+    },
+    {
+      "id": 82,
+      "start": 259.96,
+      "end": 261.16,
+      "en": "This is place.",
+      "zh": "这是地方。"
+    },
+    {
+      "id": 83,
+      "start": 261.3,
+      "end": 262.3,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 84,
+      "start": 262.3,
+      "end": 262.82,
+      "en": "So you just say a place.",
+      "zh": "所以你只说一个地方。"
+    },
+    {
+      "id": 85,
+      "start": 263.3,
+      "end": 264.72,
+      "en": "So place normally is a location.",
+      "zh": "所以地方通常是一个位置。"
+    },
+    {
+      "id": 86,
+      "start": 265.48,
+      "end": 266.48,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 87,
+      "start": 266.48,
+      "end": 267.92,
+      "en": "Where is this place?",
+      "zh": "这个地方在哪里？"
+    },
+    {
+      "id": 88,
+      "start": 267.92,
+      "end": 271.32,
+      "en": "But we could say, hey, we're going to have dinner at my place.",
+      "zh": "但我们可以说，嘿，我们要去我家吃晚饭。"
+    },
+    {
+      "id": 89,
+      "start": 271.72,
+      "end": 272.42,
+      "en": "Would you like to come?",
+      "zh": "你想来吗？"
+    },
+    {
+      "id": 90,
+      "start": 272.84,
+      "end": 275.18,
+      "en": "So that means we're going to have dinner at my house.",
+      "zh": "所以这意味着我们要在我家吃晚饭。"
+    },
+    {
+      "id": 91,
+      "start": 275.56,
+      "end": 275.7,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 92,
+      "start": 275.88,
+      "end": 277.02,
+      "en": "My place, his place.",
+      "zh": "我的地方，他的地方。"
+    },
+    {
+      "id": 93,
+      "start": 277.4,
+      "end": 277.68,
+      "en": "His place.",
+      "zh": "他的地方。"
+    },
+    {
+      "id": 94,
+      "start": 278.4,
+      "end": 279.96,
+      "en": "Or you have a really nice place.",
+      "zh": "或者你有一个非常好的地方。"
+    },
+    {
+      "id": 95,
+      "start": 280.28,
+      "end": 280.5,
+      "en": "Thanks.",
+      "zh": "谢谢。"
+    },
+    {
+      "id": 96,
+      "start": 280.98,
+      "end": 281.24,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 97,
+      "start": 282.28,
+      "end": 283.28,
+      "en": "So that means you have a really nice house.",
+      "zh": "所以这意味着你有一个非常好的房子。"
+    },
+    {
+      "id": 98,
+      "start": 283.28,
+      "end": 284.28,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 99,
+      "start": 284.28,
+      "end": 285.28,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 100,
+      "start": 285.28,
+      "end": 290.01,
+      "en": "So four key words today when we listen to the dialogue again and we'll be back in a little bit.",
+      "zh": "所以今天当我们再次听对话时，四个关键词，我们会回来的。"
+    },
+    {
+      "id": 101,
+      "start": 294.27,
+      "end": 295.93,
+      "en": "Charlie, do you have a second?",
+      "zh": "查理，你有第二个吗？"
+    },
+    {
+      "id": 102,
+      "start": 296.77,
+      "end": 297.69,
+      "en": "Yeah, what's up?",
+      "zh": "嗯，怎么了？"
+    },
+    {
+      "id": 103,
+      "start": 298.23,
+      "end": 302.09,
+      "en": "Well, I went and paid the bills today and you still haven't given me your half.",
+      "zh": "好吧，我今天去付了账单，你还没有给我你的一半。"
+    },
+    {
+      "id": 104,
+      "start": 302.83,
+      "end": 305.07,
+      "en": "Yeah, I wanted to talk to you about that.",
+      "zh": "是的，我想和你谈谈这件事。"
+    },
+    {
+      "id": 105,
+      "start": 305.73,
+      "end": 309.83,
+      "en": "I agreed we would go halves on all the bills, but frankly, I think it's unfair.",
+      "zh": "我同意我们会把所有的账单都减半，但坦率地说，我认为这是不公平的。"
+    },
+    {
+      "id": 106,
+      "start": 310.37,
+      "end": 310.81,
+      "en": "Unfair?",
+      "zh": "不公平？"
+    },
+    {
+      "id": 107,
+      "start": 311.39,
+      "end": 311.69,
+      "en": "Why?",
+      "zh": "为什么？"
+    },
+    {
+      "id": 108,
+      "start": 312.4,
+      "end": 315.83,
+      "en": "Well, you have long hair and use the hairdryer every morning.",
+      "zh": "好吧，你有长发，每天早上都使用吹风机。"
+    },
+    {
+      "id": 109,
+      "start": 316.0,
+      "end": 316.47,
+      "en": "I don't.",
+      "zh": "我不……"
+    },
+    {
+      "id": 110,
+      "start": 316.95,
+      "end": 319.77,
+      "en": "You leave your computer on all night downloading torrents.",
+      "zh": "你让你的电脑整晚都在下载种子。"
+    },
+    {
+      "id": 111,
+      "start": 319.93,
+      "end": 320.41,
+      "en": "I don't.",
+      "zh": "我不……"
+    },
+    {
+      "id": 112,
+      "start": 320.87,
+      "end": 322.01,
+      "en": "You see what I'm getting at here?",
+      "zh": "你明白我的意思了吧？"
+    },
+    {
+      "id": 113,
+      "start": 322.47,
+      "end": 324.77,
+      "en": "You leave the air conditioner on day and night.",
+      "zh": "你整天整夜开着空调。"
+    },
+    {
+      "id": 114,
+      "start": 325.11,
+      "end": 329.43,
+      "en": "You also take 30 minute showers, which means you're using way more gas and water than me.",
+      "zh": "你洗澡一洗就是三十分钟，用的燃气和水比我多得多。"
+    },
+    {
+      "id": 115,
+      "start": 330.1,
+      "end": 334.66,
+      "en": "Well, while we're on the subject, stop bringing your friends over for drinks every weekend.",
+      "zh": "好吧，当我们讨论这个话题时，停止每个周末带你的朋友来喝酒。"
+    },
+    {
+      "id": 116,
+      "start": 335.4,
+      "end": 337.72,
+      "en": "You always leave a mess and keep me up all night.",
+      "zh": "你总是留下一团糟，让我彻夜难眠。"
+    },
+    {
+      "id": 117,
+      "start": 338.32,
+      "end": 340.84,
+      "en": "Maybe you should just move out and find another place.",
+      "zh": "也许你应该搬出去找另一个地方。"
+    },
+    {
+      "id": 118,
+      "start": 341.38,
+      "end": 342.72,
+      "en": "Maybe you should move out.",
+      "zh": "也许你应该搬出去。"
+    },
+    {
+      "id": 119,
+      "start": 344.68,
+      "end": 351.6,
+      "en": "All right, we are back and we've got some great phrases today coming up in Fluency Builders.",
+      "zh": "好吧，我们回来了，今天我们有一些很棒的短语在流利建设者中出现。"
+    },
+    {
+      "id": 120,
+      "start": 351.6,
+      "end": 352.62,
+      "en": "Let's take a look at some of those.",
+      "zh": "让我们来看看其中的一些。"
+    },
+    {
+      "id": 121,
+      "start": 354.44,
+      "end": 354.72,
+      "en": "Fluency Builder.",
+      "zh": "流利表达。"
+    },
+    {
+      "id": 122,
+      "start": 355.44,
+      "end": 364.76,
+      "en": "All right, so the first phrase that we have, very common, very, very common, but also very difficult for English learners to answer this question.",
+      "zh": "好吧，所以我们有的第一个短语很常见，非常非常普遍，但英语学习者也很难回答这个问题。"
+    },
+    {
+      "id": 123,
+      "start": 364.76,
+      "end": 366.44,
+      "en": "All right, what's up?",
+      "zh": "好吧，怎么了？"
+    },
+    {
+      "id": 124,
+      "start": 366.44,
+      "end": 366.59,
+      "en": "What's up?",
+      "zh": "最近怎么样？"
+    },
+    {
+      "id": 125,
+      "start": 367.44,
+      "end": 369.41,
+      "en": "So if somebody says, what's up, what does that mean?",
+      "zh": "所以如果有人说，那是什么意思？"
+    },
+    {
+      "id": 126,
+      "start": 369.96,
+      "end": 371.41,
+      "en": "That means what's going on?",
+      "zh": "这意味着发生了什么？"
+    },
+    {
+      "id": 127,
+      "start": 371.92,
+      "end": 372.17,
+      "en": "What's new?",
+      "zh": "最近有什么新鲜事？"
+    },
+    {
+      "id": 128,
+      "start": 372.92,
+      "end": 373.92,
+      "en": "How are you?",
+      "zh": "你好吗？"
+    },
+    {
+      "id": 129,
+      "start": 373.92,
+      "end": 374.92,
+      "en": "How is it going?",
+      "zh": "最近忙吗?"
+    },
+    {
+      "id": 130,
+      "start": 374.92,
+      "end": 375.92,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 131,
+      "start": 375.92,
+      "end": 376.92,
+      "en": "Hi.",
+      "zh": "嗨。"
+    },
+    {
+      "id": 132,
+      "start": 376.92,
+      "end": 377.92,
+      "en": "So how should you answer this?",
+      "zh": "那么你应该如何回答这个问题呢？"
+    },
+    {
+      "id": 133,
+      "start": 377.92,
+      "end": 383.54,
+      "en": "Okay, so think of what's up as being a question about what's new, what's happening.",
+      "zh": "好吧，想想什么是关于什么是新的，正在发生的事情的问题。"
+    },
+    {
+      "id": 134,
+      "start": 384.16,
+      "end": 385.68,
+      "en": "You can say, what's up?",
+      "zh": "你可以说，怎么了？"
+    },
+    {
+      "id": 135,
+      "start": 385.96,
+      "end": 386.92,
+      "en": "Oh, not much.",
+      "zh": "哦，不多。"
+    },
+    {
+      "id": 136,
+      "start": 387.44,
+      "end": 388.44,
+      "en": "Not much.",
+      "zh": "没什么。"
+    },
+    {
+      "id": 137,
+      "start": 388.44,
+      "end": 390.44,
+      "en": "Okay, what's up means what's new?",
+      "zh": "好的，怎么了意味着什么是新的？"
+    },
+    {
+      "id": 138,
+      "start": 390.66,
+      "end": 391.52,
+      "en": "Oh, not much is new.",
+      "zh": "哦，不多是新的。"
+    },
+    {
+      "id": 139,
+      "start": 391.7,
+      "end": 391.96,
+      "en": "Not much.",
+      "zh": "没什么。"
+    },
+    {
+      "id": 140,
+      "start": 392.18,
+      "end": 392.86,
+      "en": "Everything is the same.",
+      "zh": "一切都是一样的。"
+    },
+    {
+      "id": 141,
+      "start": 393.84,
+      "end": 394.84,
+      "en": "So what's up?",
+      "zh": "那么怎么了？"
+    },
+    {
+      "id": 142,
+      "start": 394.84,
+      "end": 396.62,
+      "en": "You could say, hey, hi, how are you?",
+      "zh": "你可以说，嘿，嗨，你好吗？"
+    },
+    {
+      "id": 143,
+      "start": 397.24,
+      "end": 398.12,
+      "en": "It's another way to say hi.",
+      "zh": "这是另一种打招呼的方式。"
+    },
+    {
+      "id": 144,
+      "start": 398.68,
+      "end": 398.82,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 145,
+      "start": 399.22,
+      "end": 400.82,
+      "en": "But you can't say, this guy.",
+      "zh": "但你不能说，这个人。"
+    },
+    {
+      "id": 146,
+      "start": 401.46,
+      "end": 408.0,
+      "en": "Right, or sometimes English learners will say, fine, thank you, because they think that what's up means how are you?",
+      "zh": "是的，或者有时英语学习者会说，很好，谢谢，因为他们认为发生了什么意味着你好吗？"
+    },
+    {
+      "id": 147,
+      "start": 408.16,
+      "end": 409.3,
+      "en": "No, that's different.",
+      "zh": "不，那是不同的。"
+    },
+    {
+      "id": 148,
+      "start": 409.88,
+      "end": 414.1,
+      "en": "So you cannot say, fine, thank you, fine, well.",
+      "zh": "所以你不能说，好吧，谢谢，好吧，好吧。"
+    },
+    {
+      "id": 149,
+      "start": 414.72,
+      "end": 419.32,
+      "en": "These are words that answer how are you questions, but this isn't a how are you question.",
+      "zh": "这些词可以回答你的问题，但这不是你的问题。"
+    },
+    {
+      "id": 150,
+      "start": 419.62,
+      "end": 421.96,
+      "en": "This is a what's new question.",
+      "zh": "这是一个新的问题。"
+    },
+    {
+      "id": 151,
+      "start": 422.54,
+      "end": 423.74,
+      "en": "What's new or hi.",
+      "zh": "有什么新鲜事或嗨。"
+    },
+    {
+      "id": 152,
+      "start": 424.12,
+      "end": 426.2,
+      "en": "Okay, so somebody says, what's up?",
+      "zh": "好吧，有人说，怎么了？"
+    },
+    {
+      "id": 153,
+      "start": 426.2,
+      "end": 429.38,
+      "en": "You can say, not much, or you can say, hey, what's up?",
+      "zh": "你可以说，不多，或者你可以说，嘿，怎么了？"
+    },
+    {
+      "id": 154,
+      "start": 429.52,
+      "end": 430.48,
+      "en": "You can say, what's up back?",
+      "zh": "你可以说，怎么回事？"
+    },
+    {
+      "id": 155,
+      "start": 431.2,
+      "end": 432.2,
+      "en": "What's up?",
+      "zh": "最近怎么样？"
+    },
+    {
+      "id": 156,
+      "start": 432.58,
+      "end": 433.18,
+      "en": "What's up with you?",
+      "zh": "你怎么了？"
+    },
+    {
+      "id": 157,
+      "start": 433.2,
+      "end": 434.2,
+      "en": "Yeah, what's up with you?",
+      "zh": "是的，你怎么了？"
+    },
+    {
+      "id": 158,
+      "start": 434.2,
+      "end": 435.4,
+      "en": "Okay, so that's our first phrase.",
+      "zh": "好的，这是我们的第一个短语。"
+    },
+    {
+      "id": 159,
+      "start": 436.1,
+      "end": 444.42,
+      "en": "Now, when the guy was talking about the hair dryer and the computer, he finished off that paragraph by saying, you see what I'm getting at here?",
+      "zh": "现在，当那家伙谈论吹风机和电脑时，他说完了那一段，你明白我在这里得到了什么吗？"
+    },
+    {
+      "id": 160,
+      "start": 444.88,
+      "end": 445.96,
+      "en": "Okay, you're doing this.",
+      "zh": "好吧，你正在这样做。"
+    },
+    {
+      "id": 161,
+      "start": 446.24,
+      "end": 449.16,
+      "en": "You use the hair dryer, you leave the computer on.",
+      "zh": "你用吹风机，你让电脑开着。"
+    },
+    {
+      "id": 162,
+      "start": 449.16,
+      "end": 451.12,
+      "en": "Do you see what I'm getting at here?",
+      "zh": "你看到我在这里得到了什么吗？"
+    },
+    {
+      "id": 163,
+      "start": 451.64,
+      "end": 453.66,
+      "en": "This phrase, do you see what I'm getting at?",
+      "zh": "这句话，你明白我在说什么吗？"
+    },
+    {
+      "id": 164,
+      "start": 454.0,
+      "end": 456.36,
+      "en": "It means, do you understand what I'm talking about?",
+      "zh": "这意味着，你明白我在说什么吗？"
+    },
+    {
+      "id": 165,
+      "start": 456.5,
+      "end": 457.34,
+      "en": "Do you see my point?",
+      "zh": "你明白我的意思吗？"
+    },
+    {
+      "id": 166,
+      "start": 457.94,
+      "end": 463.68,
+      "en": "That means I haven't said exactly what I mean, but you should understand what I'm saying.",
+      "zh": "这意味着我还没有说出我的意思，但你应该明白我在说什么。"
+    },
+    {
+      "id": 167,
+      "start": 463.9,
+      "end": 466.54,
+      "en": "So he's saying, you're wasting electricity.",
+      "zh": "所以他说，你在浪费电。"
+    },
+    {
+      "id": 168,
+      "start": 467.48,
+      "end": 470.32,
+      "en": "You use all of these services more than I do.",
+      "zh": "您比我更多地使用所有这些服务。"
+    },
+    {
+      "id": 169,
+      "start": 470.32,
+      "end": 474.6,
+      "en": "And we could say, maybe Marco didn't get a good grade in his English test last week.",
+      "zh": "我们可以说，也许马可上周在他的英语考试中没有取得好成绩。"
+    },
+    {
+      "id": 170,
+      "start": 474.6,
+      "end": 482.61,
+      "en": "I say, listen, maybe it has to do with your study habits or how much you love video games or how little time you spend at school.",
+      "zh": "我说，听着，也许这与你的学习习惯或你有多喜欢电子游戏或你在学校花费的时间有关。"
+    },
+    {
+      "id": 171,
+      "start": 482.84,
+      "end": 484.03,
+      "en": "Do you see what I'm getting at?",
+      "zh": "你明白我在说什么吗？"
+    },
+    {
+      "id": 172,
+      "start": 484.15,
+      "end": 487.19,
+      "en": "Okay, so you're not saying directly that I don't study.",
+      "zh": "好吧，所以你不是直接说我不学习。"
+    },
+    {
+      "id": 173,
+      "start": 487.63,
+      "end": 490.85,
+      "en": "You're just telling me the reasons, maybe why as to why I'm not studying.",
+      "zh": "你只是告诉我原因，也许是为什么我不学习。"
+    },
+    {
+      "id": 174,
+      "start": 491.16,
+      "end": 492.16,
+      "en": "Like a hint.",
+      "zh": "就像一个提示。"
+    },
+    {
+      "id": 175,
+      "start": 492.16,
+      "end": 496.59,
+      "en": "Okay, so that's what you say when you don't tell somebody directly what the problem is.",
+      "zh": "好吧，这就是当你不直接告诉别人问题所在时你所说的。"
+    },
+    {
+      "id": 176,
+      "start": 496.68,
+      "end": 498.46,
+      "en": "You say, you see what I'm getting at here?",
+      "zh": "你说，你看到我在这里得到了什么吗？"
+    },
+    {
+      "id": 177,
+      "start": 498.72,
+      "end": 500.24,
+      "en": "Do you see what I'm getting at?",
+      "zh": "你明白我在说什么吗？"
+    },
+    {
+      "id": 178,
+      "start": 500.92,
+      "end": 502.16,
+      "en": "Getting at means hinting.",
+      "zh": "获得意味着暗示。"
+    },
+    {
+      "id": 179,
+      "start": 502.92,
+      "end": 513.82,
+      "en": "Okay, and our last phrase, when they kept talking about the bills, one of the person said, you are using way more gas and water than me.",
+      "zh": "好吧，我们的最后一句话，当他们一直在谈论账单时，一位人说，你使用的气体和水比我多得多。"
+    },
+    {
+      "id": 180,
+      "start": 514.08,
+      "end": 515.8,
+      "en": "So what about this way more?",
+      "zh": "那么这种方式呢？"
+    },
+    {
+      "id": 181,
+      "start": 516.06,
+      "end": 517.18,
+      "en": "Way more.",
+      "zh": "方式更多。"
+    },
+    {
+      "id": 182,
+      "start": 517.68,
+      "end": 520.9,
+      "en": "Way means much or a lot.",
+      "zh": "方式意味着很多或很多。"
+    },
+    {
+      "id": 183,
+      "start": 521.28,
+      "end": 524.62,
+      "en": "So we could say, you are using a lot more water than I am.",
+      "zh": "所以我们可以说，你用的水比我多得多。"
+    },
+    {
+      "id": 184,
+      "start": 524.96,
+      "end": 527.02,
+      "en": "Or you're using way more water.",
+      "zh": "或者你正在使用更多的水。"
+    },
+    {
+      "id": 185,
+      "start": 527.64,
+      "end": 528.92,
+      "en": "This is very spoken language.",
+      "zh": "这是非常口头的语言。"
+    },
+    {
+      "id": 186,
+      "start": 528.92,
+      "end": 529.92,
+      "en": "This is not written language.",
+      "zh": "这不是书面语言。"
+    },
+    {
+      "id": 187,
+      "start": 530.06,
+      "end": 531.32,
+      "en": "So don't write this down on your tests.",
+      "zh": "所以不要把这个写在你的测试中。"
+    },
+    {
+      "id": 188,
+      "start": 531.72,
+      "end": 534.96,
+      "en": "But way more means a lot more, much more.",
+      "zh": "但更多的意义更多，更多。"
+    },
+    {
+      "id": 189,
+      "start": 534.96,
+      "end": 537.94,
+      "en": "Okay, you can say, Bob is way more attractive than Bill.",
+      "zh": "好吧，你可以说，鲍勃比比尔更有吸引力。"
+    },
+    {
+      "id": 190,
+      "start": 538.52,
+      "end": 538.75,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 191,
+      "start": 539.52,
+      "end": 541.59,
+      "en": "Or this is way more interesting than that show.",
+      "zh": "或者这比那个节目更有趣。"
+    },
+    {
+      "id": 192,
+      "start": 542.12,
+      "end": 548.39,
+      "en": "Okay, so you can say way more instead of much more or a lot more, but it's usually spoken English.",
+      "zh": "好的，所以你可以说更多而不是更多或更多，但它通常是英语说的。"
+    },
+    {
+      "id": 193,
+      "start": 549.12,
+      "end": 550.12,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 194,
+      "start": 550.12,
+      "end": 555.92,
+      "en": "All right, let's listen to our dialogue for the last time and we'll be back in a bit to talk a little bit more.",
+      "zh": "好吧，让我们最后一次听听我们的对话，我们会回来多谈谈。"
+    },
+    {
+      "id": 195,
+      "start": 555.92,
+      "end": 561.2,
+      "en": "Charlie, do you have a second?",
+      "zh": "查理，你有第二个吗？"
+    },
+    {
+      "id": 196,
+      "start": 561.48,
+      "end": 562.44,
+      "en": "Yeah, what's up?",
+      "zh": "嗯，怎么了？"
+    },
+    {
+      "id": 197,
+      "start": 562.76,
+      "end": 566.82,
+      "en": "Well, I went and paid the bills today and you still haven't given me your half.",
+      "zh": "好吧，我今天去付了账单，你还没有给我你的一半。"
+    },
+    {
+      "id": 198,
+      "start": 567.52,
+      "end": 569.82,
+      "en": "Yeah, I wanted to talk to you about that.",
+      "zh": "是的，我想和你谈谈这件事。"
+    },
+    {
+      "id": 199,
+      "start": 570.35,
+      "end": 574.59,
+      "en": "I agreed we would go halves on all the bills, but frankly, I think it's unfair.",
+      "zh": "我同意我们会把所有的账单都减半，但坦率地说，我认为这是不公平的。"
+    },
+    {
+      "id": 200,
+      "start": 575.11,
+      "end": 575.59,
+      "en": "Unfair?",
+      "zh": "不公平？"
+    },
+    {
+      "id": 201,
+      "start": 576.11,
+      "end": 576.45,
+      "en": "Why?",
+      "zh": "为什么？"
+    },
+    {
+      "id": 202,
+      "start": 577.0,
+      "end": 580.59,
+      "en": "Well, you have long hair and use the hairdryer every morning.",
+      "zh": "好吧，你有长发，每天早上都使用吹风机。"
+    },
+    {
+      "id": 203,
+      "start": 580.76,
+      "end": 581.23,
+      "en": "I don't.",
+      "zh": "我不……"
+    },
+    {
+      "id": 204,
+      "start": 581.63,
+      "end": 584.53,
+      "en": "You leave your computer on all night downloading torrents.",
+      "zh": "你让你的电脑整晚都在下载种子。"
+    },
+    {
+      "id": 205,
+      "start": 584.69,
+      "end": 585.19,
+      "en": "I don't.",
+      "zh": "我不……"
+    },
+    {
+      "id": 206,
+      "start": 585.63,
+      "end": 586.79,
+      "en": "You see what I'm getting at here?",
+      "zh": "你明白我的意思了吧？"
+    },
+    {
+      "id": 207,
+      "start": 587.07,
+      "end": 589.27,
+      "en": "You leave the air conditioner on day and night.",
+      "zh": "你整天整夜开着空调。"
+    },
+    {
+      "id": 208,
+      "start": 589.59,
+      "end": 593.93,
+      "en": "You also take 30 minute showers, which means you're using way more gas and water than me.",
+      "zh": "你洗澡一洗就是三十分钟，用的燃气和水比我多得多。"
+    },
+    {
+      "id": 209,
+      "start": 594.51,
+      "end": 599.17,
+      "en": "Well, while we're on the subject, stop bringing your friends over for drinks every weekend.",
+      "zh": "好吧，当我们讨论这个话题时，停止每个周末带你的朋友来喝酒。"
+    },
+    {
+      "id": 210,
+      "start": 599.91,
+      "end": 602.21,
+      "en": "You always leave a mess and keep me up all night.",
+      "zh": "你总是留下一团糟，让我彻夜难眠。"
+    },
+    {
+      "id": 211,
+      "start": 602.81,
+      "end": 605.31,
+      "en": "Maybe you should just move out and find another place.",
+      "zh": "也许你应该搬出去找另一个地方。"
+    },
+    {
+      "id": 212,
+      "start": 605.89,
+      "end": 607.19,
+      "en": "Maybe you should move out.",
+      "zh": "也许你应该搬出去。"
+    },
+    {
+      "id": 213,
+      "start": 613.2,
+      "end": 616.78,
+      "en": "So Marco, have you ever had any of these problems with a roommate?",
+      "zh": "那么马可，你有没有和室友有过这些问题？"
+    },
+    {
+      "id": 214,
+      "start": 617.5,
+      "end": 622.28,
+      "en": "I've actually stayed away from roommates because of issues like this.",
+      "zh": "因为这样的问题，我实际上已经远离室友了。"
+    },
+    {
+      "id": 215,
+      "start": 622.74,
+      "end": 626.66,
+      "en": "You mean you have not had many roommates because you're afraid of this situation?",
+      "zh": "你的意思是因为你害怕这种情况，你没有很多室友？"
+    },
+    {
+      "id": 216,
+      "start": 627.04,
+      "end": 637.95,
+      "en": "Yeah, I've always actually tried to live on my own by myself, like in a small apartment or studio, or if I have to have a roommate, maybe just one, not a house full of roommates.",
+      "zh": "是的，我实际上一直尝试自己独自生活，比如在小公寓或工作室里，或者如果我必须有一个室友，也许只是一个，而不是一个满是室友的房子。"
+    },
+    {
+      "id": 217,
+      "start": 637.95,
+      "end": 641.27,
+      "en": "Because I think the more people there are, the little bit more complicated it gets.",
+      "zh": "因为我认为人越多，它变得越复杂。"
+    },
+    {
+      "id": 218,
+      "start": 641.64,
+      "end": 643.51,
+      "en": "And if it's just two, it's a little bit simpler.",
+      "zh": "如果它只有两个，它会更简单一点。"
+    },
+    {
+      "id": 219,
+      "start": 644.28,
+      "end": 648.83,
+      "en": "This is true, although sometimes I think it depends on the people that you're sharing a house with.",
+      "zh": "这是真的，尽管有时我认为这取决于您与之共用房屋的人。"
+    },
+    {
+      "id": 220,
+      "start": 649.44,
+      "end": 662.71,
+      "en": "I've had one awkward experience where people did not want to pay ever, and they were always late with their payments, and one situation where people were very good about it, so always remembered and were very helpful.",
+      "zh": "我有过一种尴尬的经历，人们永远不想付款，他们总是迟到付款，还有一种情况是人们对此非常好，所以一直被记住并且非常乐于助人。"
+    },
+    {
+      "id": 221,
+      "start": 663.4,
+      "end": 663.87,
+      "en": "So it really depends.",
+      "zh": "所以这真的取决于。"
+    },
+    {
+      "id": 222,
+      "start": 664.78,
+      "end": 668.5,
+      "en": "Yeah, I think it's hard to live with someone always, of course.",
+      "zh": "当然，我认为总是很难和某人一起生活。"
+    },
+    {
+      "id": 223,
+      "start": 668.96,
+      "end": 674.46,
+      "en": "Even if you start living with your girlfriend or boyfriend or you get married, it's kind of different to live with someone.",
+      "zh": "即使你开始和你的女朋友或男朋友住在一起，或者你结婚了，和一个人住在一起也有些不同。"
+    },
+    {
+      "id": 224,
+      "start": 676.12,
+      "end": 680.88,
+      "en": "And especially money-wise, I think it always complicates things with people.",
+      "zh": "尤其是在金钱方面，我认为这总是让人们的事情变得复杂。"
+    },
+    {
+      "id": 225,
+      "start": 680.88,
+      "end": 681.18,
+      "en": "Definitely.",
+      "zh": "当然。"
+    },
+    {
+      "id": 226,
+      "start": 681.52,
+      "end": 682.32,
+      "en": "So I think you're right, though.",
+      "zh": "所以我认为你是对的。"
+    },
+    {
+      "id": 227,
+      "start": 682.42,
+      "end": 685.06,
+      "en": "If there's two people, it's very easy to share the bills.",
+      "zh": "如果有两个人，很容易分享账单。"
+    },
+    {
+      "id": 228,
+      "start": 685.72,
+      "end": 692.36,
+      "en": "But if there's five people or six people, it's very hard to find out who spent more money or what the rules are.",
+      "zh": "但如果有五个人或六个人，很难找出谁花了更多的钱或规则是什么。"
+    },
+    {
+      "id": 229,
+      "start": 692.36,
+      "end": 694.67,
+      "en": "Yeah, so it can get a little bit complicated.",
+      "zh": "是的，所以它可能会变得有点复杂。"
+    },
+    {
+      "id": 230,
+      "start": 695.24,
+      "end": 701.65,
+      "en": "But I'm sure a lot of our listeners have probably had roommates before, maybe in college, maybe even now.",
+      "zh": "但我敢肯定，我们的很多听众以前可能有过室友，也许是在大学里，甚至可能是现在。"
+    },
+    {
+      "id": 231,
+      "start": 702.2,
+      "end": 708.36,
+      "en": "So let's hear those experiences and maybe those good and bad stories about living with other people.",
+      "zh": "所以让我们听听那些经历，也许是那些关于与他人生活的好故事和坏故事。"
+    },
+    {
+      "id": 232,
+      "start": 708.36,
+      "end": 709.55,
+      "en": "So please get in touch with us.",
+      "zh": "所以请与我们联系。"
+    },
+    {
+      "id": 233,
+      "start": 709.88,
+      "end": 712.04,
+      "en": "Our website is EnglishPod.com.",
+      "zh": "我们的网站是 EnglishPod.com。"
+    },
+    {
+      "id": 234,
+      "start": 712.04,
+      "end": 717.13,
+      "en": "There's lots of places for you to ask questions and to post your own experiences with roommates.",
+      "zh": "有很多地方可以提问和发布您与室友的经验。"
+    },
+    {
+      "id": 235,
+      "start": 717.56,
+      "end": 719.33,
+      "en": "We hope to see you there, and until next time.",
+      "zh": "我们希望在那里见到你，直到下一次。"
+    },
+    {
+      "id": 236,
+      "start": 719.73,
+      "end": 719.89,
+      "en": "Bye.",
+      "zh": "再见。"
+    },
+    {
+      "id": 237,
+      "start": 720.56,
+      "end": 728.033,
+      "en": "Thank you very much.",
+      "zh": "非常感谢。"
+    }
+  ],
+  "dialog": {
+    "start": 49.61,
+    "end": 97.82,
+    "segmentIds": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ]
+  }
+}

@@ -1,0 +1,2338 @@
+{
+  "version": 1,
+  "id": 22,
+  "number": "0022",
+  "title": "The Weekend - Christmas Chronicles II",
+  "audio": "mp3/22. The Weekend - Christmas Chronicles II.mp3",
+  "duration": 838.2955625,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.38,
+      "en": "Hello everyone, welcome back to EnglishPod.",
+      "zh": "大家好，欢迎回到 EnglishPod。"
+    },
+    {
+      "id": 2,
+      "start": 4.38,
+      "end": 4.92,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 5.56,
+      "end": 6.56,
+      "en": "And I'm Erika.",
+      "zh": "我叫 Erika。"
+    },
+    {
+      "id": 4,
+      "start": 6.56,
+      "end": 10.1,
+      "en": "And today we're bringing you the second part of Christmas Chronicles.",
+      "zh": "今天我们为您带来圣诞编年史的第二部分。"
+    },
+    {
+      "id": 5,
+      "start": 10.72,
+      "end": 14.38,
+      "en": "Another Christmas lesson to get you in the Christmas spirit.",
+      "zh": "另一个圣诞节课程，让您了解圣诞精神。"
+    },
+    {
+      "id": 6,
+      "start": 15.18,
+      "end": 19.22,
+      "en": "Christmas and useful language for all of our listeners today.",
+      "zh": "今天为我们所有听众提供的圣诞节和有用的语言。"
+    },
+    {
+      "id": 7,
+      "start": 19.8,
+      "end": 20.04,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 8,
+      "start": 20.26,
+      "end": 23.54,
+      "en": "In today's lesson, we'll be learning some great Christmas vocabulary.",
+      "zh": "在今天的课程中，我们将学习一些很棒的圣诞词汇。"
+    },
+    {
+      "id": 9,
+      "start": 24.8,
+      "end": 26.92,
+      "en": "And police-related vocabulary as well.",
+      "zh": "以及与警察相关的词汇。"
+    },
+    {
+      "id": 10,
+      "start": 27.56,
+      "end": 31.63,
+      "en": "Now, Christmas, police vocabulary, how exactly does that fit together?",
+      "zh": "现在，圣诞节，警察词汇，这究竟是如何结合在一起的？"
+    },
+    {
+      "id": 11,
+      "start": 32.63,
+      "end": 33.63,
+      "en": "Well, they don't.",
+      "zh": "好吧，他们没有。"
+    },
+    {
+      "id": 12,
+      "start": 34.05,
+      "end": 37.17,
+      "en": "But here at EnglishPod, we can make anything happen.",
+      "zh": "但在 Englishpod，我们可以让任何事情发生。"
+    },
+    {
+      "id": 13,
+      "start": 37.45,
+      "end": 38.55,
+      "en": "So that's why we have done this.",
+      "zh": "所以这就是我们这样做的原因。"
+    },
+    {
+      "id": 14,
+      "start": 39.09,
+      "end": 39.53,
+      "en": "To be creative.",
+      "zh": "发挥创意。"
+    },
+    {
+      "id": 15,
+      "start": 39.85,
+      "end": 40.35,
+      "en": "To be creative.",
+      "zh": "发挥创意。"
+    },
+    {
+      "id": 16,
+      "start": 41.05,
+      "end": 43.79,
+      "en": "So, let's take a look at our vocabulary preview for this lesson.",
+      "zh": "所以，让我们来看看我们本课的词汇预览。"
+    },
+    {
+      "id": 17,
+      "start": 44.83,
+      "end": 45.81,
+      "en": "Vocabulary Preview.",
+      "zh": "词汇预习。"
+    },
+    {
+      "id": 18,
+      "start": 46.64,
+      "end": 52.96,
+      "en": "In today's vocabulary preview, we've got two words from our dialogue that you will need to know to understand this dialogue.",
+      "zh": "在今天的词汇预览中，我们从对话中得到了两个词，你需要知道这些对话来理解这个对话。"
+    },
+    {
+      "id": 19,
+      "start": 53.42,
+      "end": 55.54,
+      "en": "The first one is elves.",
+      "zh": "第一个是精灵。"
+    },
+    {
+      "id": 20,
+      "start": 56.12,
+      "end": 57.12,
+      "en": "Elves.",
+      "zh": "精灵。"
+    },
+    {
+      "id": 21,
+      "start": 57.12,
+      "end": 58.12,
+      "en": "Elves.",
+      "zh": "精灵。"
+    },
+    {
+      "id": 22,
+      "start": 58.12,
+      "end": 59.12,
+      "en": "Elves.",
+      "zh": "精灵。"
+    },
+    {
+      "id": 23,
+      "start": 59.12,
+      "end": 61.24,
+      "en": "And this is the plural of the word elf.",
+      "zh": "这是精灵一词的复数。"
+    },
+    {
+      "id": 24,
+      "start": 61.52,
+      "end": 62.02,
+      "en": "Elf, right.",
+      "zh": "精灵，对。"
+    },
+    {
+      "id": 25,
+      "start": 62.64,
+      "end": 64.62,
+      "en": "So elves are?",
+      "zh": "那么精灵是？"
+    },
+    {
+      "id": 26,
+      "start": 65.08,
+      "end": 65.32,
+      "en": "Little people.",
+      "zh": "小人。"
+    },
+    {
+      "id": 27,
+      "start": 66.56,
+      "end": 67.88,
+      "en": "Little people with pointy hats?",
+      "zh": "戴着尖头帽子的小人？"
+    },
+    {
+      "id": 28,
+      "start": 68.28,
+      "end": 68.86,
+      "en": "With pointy hats.",
+      "zh": "戴着尖帽。"
+    },
+    {
+      "id": 29,
+      "start": 69.28,
+      "end": 69.72,
+      "en": "Sense is helpers.",
+      "zh": "感觉是帮手。"
+    },
+    {
+      "id": 30,
+      "start": 70.32,
+      "end": 70.64,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 31,
+      "start": 70.84,
+      "end": 71.42,
+      "en": "So elves.",
+      "zh": "所以精灵。"
+    },
+    {
+      "id": 32,
+      "start": 71.8,
+      "end": 71.94,
+      "en": "Elves.",
+      "zh": "精灵。"
+    },
+    {
+      "id": 33,
+      "start": 72.52,
+      "end": 74.46,
+      "en": "Our next word is candy cane.",
+      "zh": "我们的下一个词是甘蔗。"
+    },
+    {
+      "id": 34,
+      "start": 75.6,
+      "end": 75.86,
+      "en": "Candy cane.",
+      "zh": "拐杖糖。"
+    },
+    {
+      "id": 35,
+      "start": 76.84,
+      "end": 77.06,
+      "en": "Candy cane.",
+      "zh": "拐杖糖。"
+    },
+    {
+      "id": 36,
+      "start": 78.08,
+      "end": 78.24,
+      "en": "Candy cane.",
+      "zh": "拐杖糖。"
+    },
+    {
+      "id": 37,
+      "start": 79.08,
+      "end": 82.0,
+      "en": "So a candy cane is a traditional Christmas candy, right?",
+      "zh": "所以拐杖糖是传统的圣诞糖果，对吧？"
+    },
+    {
+      "id": 38,
+      "start": 82.92,
+      "end": 83.92,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 39,
+      "start": 83.92,
+      "end": 85.28,
+      "en": "It's red and white.",
+      "zh": "它是红色和白色的。"
+    },
+    {
+      "id": 40,
+      "start": 85.28,
+      "end": 86.94,
+      "en": "And it kind of shaped like a J?",
+      "zh": "它有点像 J 的形状？"
+    },
+    {
+      "id": 41,
+      "start": 87.44,
+      "end": 88.2,
+      "en": "Like a J, yeah.",
+      "zh": "像一个J，是的。"
+    },
+    {
+      "id": 42,
+      "start": 88.48,
+      "end": 88.76,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 43,
+      "start": 89.1,
+      "end": 89.74,
+      "en": "It's very traditional.",
+      "zh": "这是非常传统的。"
+    },
+    {
+      "id": 44,
+      "start": 90.16,
+      "end": 93.18,
+      "en": "Yeah, you hang them on the tree and you eat them at Christmas time.",
+      "zh": "是的，你把它们挂在树上，你在圣诞节吃它们。"
+    },
+    {
+      "id": 45,
+      "start": 93.36,
+      "end": 94.36,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 46,
+      "start": 94.36,
+      "end": 94.5,
+      "en": "Tastes like peppermint.",
+      "zh": "尝起来像薄荷。"
+    },
+    {
+      "id": 47,
+      "start": 95.36,
+      "end": 98.62,
+      "en": "Okay, well, I guess we're ready to listen to our dialogue for the first time.",
+      "zh": "好吧，我想我们已经准备好第一次听我们的对话了。"
+    },
+    {
+      "id": 48,
+      "start": 99.96,
+      "end": 102.0,
+      "en": "And it's going to be kind of fast, but...",
+      "zh": "而且会很快，但是..."
+    },
+    {
+      "id": 49,
+      "start": 102.0,
+      "end": 106.32,
+      "en": "Don't worry if you don't understand everything because we'll come back and talk about some of the language later.",
+      "zh": "如果您不了解所有内容，请不要担心，因为我们稍后会回来讨论一些语言。"
+    },
+    {
+      "id": 50,
+      "start": 115.44,
+      "end": 116.44,
+      "en": "Really, fellas?",
+      "zh": "真的，伙计们？"
+    },
+    {
+      "id": 51,
+      "start": 116.64,
+      "end": 118.12,
+      "en": "You can't take me to jail.",
+      "zh": "你不能把我送进监狱。"
+    },
+    {
+      "id": 52,
+      "start": 118.66,
+      "end": 119.94,
+      "en": "Don't you know who I am?",
+      "zh": "你不知道我是谁吗？"
+    },
+    {
+      "id": 53,
+      "start": 120.68,
+      "end": 121.68,
+      "en": "Kris Kringle, you know?",
+      "zh": "就是圣诞老人，你知道吧？"
+    },
+    {
+      "id": 54,
+      "start": 121.68,
+      "end": 122.68,
+      "en": "Papa Noel, Père Noël, Babbo Natale.",
+      "zh": "帕帕·诺埃尔、佩尔·诺埃尔、巴博·纳塔莱。"
+    },
+    {
+      "id": 55,
+      "start": 122.68,
+      "end": 123.68,
+      "en": "Sheng dan lao ren.",
+      "zh": "圣诞老人。"
+    },
+    {
+      "id": 56,
+      "start": 126.2,
+      "end": 128.96,
+      "en": "Yeah, yeah, we've heard that one before, haven't we, Joe?",
+      "zh": "是的，是的，我们以前听说过，不是吗，乔？"
+    },
+    {
+      "id": 57,
+      "start": 129.8,
+      "end": 132.5,
+      "en": "Yeah, last week we booked this guy who claimed to be a tooth fairy.",
+      "zh": "是啊，上周我们还抓了个自称牙仙的人。"
+    },
+    {
+      "id": 58,
+      "start": 133.16,
+      "end": 133.82,
+      "en": "Can you believe that?",
+      "zh": "你能信吗？"
+    },
+    {
+      "id": 59,
+      "start": 135.7,
+      "end": 138.8,
+      "en": "It's Christmas Eve and I have all these presents to deliver.",
+      "zh": "这是平安夜，我有所有这些礼物要送。"
+    },
+    {
+      "id": 60,
+      "start": 140.12,
+      "end": 141.12,
+      "en": "Where's your Christmas spirit?",
+      "zh": "你们的圣诞精神呢？"
+    },
+    {
+      "id": 61,
+      "start": 141.93,
+      "end": 146.85,
+      "en": "What will happen when all the children wake up tomorrow and don't find any gifts in their stockings?",
+      "zh": "明天孩子们醒来，要是圣诞袜里没有礼物怎么办？"
+    },
+    {
+      "id": 62,
+      "start": 147.32,
+      "end": 150.32,
+      "en": "Sorry, buddy, you're parked in a no-parking zone.",
+      "zh": "抱歉，伙计，你把车停在禁停区了。"
+    },
+    {
+      "id": 63,
+      "start": 150.32,
+      "end": 152.88,
+      "en": "You were speeding and you have no ID.",
+      "zh": "你还超速，又没有身份证件。"
+    },
+    {
+      "id": 64,
+      "start": 153.45,
+      "end": 158.79,
+      "en": "Besides that, even if we let you go now, your sleigh's been impounded and those reindeer were taken to the city zoo.",
+      "zh": "而且，就算我们现在放你走，你的雪橇也已经被扣押，驯鹿都被送到市立动物园了。"
+    },
+    {
+      "id": 65,
+      "start": 159.8,
+      "end": 160.8,
+      "en": "What?",
+      "zh": "什么？"
+    },
+    {
+      "id": 66,
+      "start": 161.2,
+      "end": 162.12,
+      "en": "This is unbelievable.",
+      "zh": "太不可思议了。"
+    },
+    {
+      "id": 67,
+      "start": 163.25,
+      "end": 164.95,
+      "en": "What's this world coming to?",
+      "zh": "这世道怎么了？"
+    },
+    {
+      "id": 68,
+      "start": 166.2,
+      "end": 167.92,
+      "en": "Christmas is ruined.",
+      "zh": "圣诞节毁了。"
+    },
+    {
+      "id": 69,
+      "start": 167.92,
+      "end": 168.39,
+      "en": "What's that up ahead?",
+      "zh": "前面那是什么？"
+    },
+    {
+      "id": 70,
+      "start": 169.0,
+      "end": 169.93,
+      "en": "It looks like...",
+      "zh": "看起来像..."
+    },
+    {
+      "id": 71,
+      "start": 170.13,
+      "end": 170.99,
+      "en": "Elves!",
+      "zh": "精灵！"
+    },
+    {
+      "id": 72,
+      "start": 171.0,
+      "end": 172.0,
+      "en": "Whoa, they're shooting candy canes!",
+      "zh": "哇，他们在朝我们发射拐杖糖！"
+    },
+    {
+      "id": 73,
+      "start": 172.0,
+      "end": 173.0,
+      "en": "Mayday, mayday!",
+      "zh": "求救！求救！"
+    },
+    {
+      "id": 74,
+      "start": 173.0,
+      "end": 174.0,
+      "en": "We're under heavy attack!",
+      "zh": "我们遭到猛烈攻击！"
+    },
+    {
+      "id": 75,
+      "start": 174.0,
+      "end": 175.0,
+      "en": "We need backup!",
+      "zh": "我们需要支援！"
+    },
+    {
+      "id": 76,
+      "start": 190.35,
+      "end": 193.59,
+      "en": "Okay, so Santa has escaped from the police car.",
+      "zh": "好吧，所以圣诞老人已经从警车里逃了出来。"
+    },
+    {
+      "id": 77,
+      "start": 193.68,
+      "end": 194.68,
+      "en": "Hooray!",
+      "zh": "万岁!"
+    },
+    {
+      "id": 78,
+      "start": 194.68,
+      "end": 195.68,
+      "en": "Thank God!",
+      "zh": "感谢上帝!"
+    },
+    {
+      "id": 79,
+      "start": 195.68,
+      "end": 196.85,
+      "en": "It's like a war over there.",
+      "zh": "这就像那边的战争。"
+    },
+    {
+      "id": 80,
+      "start": 197.08,
+      "end": 198.53,
+      "en": "They were really firing everything.",
+      "zh": "他们真的在解雇一切。"
+    },
+    {
+      "id": 81,
+      "start": 198.53,
+      "end": 201.01,
+      "en": "I know, I mean, those elves are...",
+      "zh": "我知道，我的意思是，那些精灵是..."
+    },
+    {
+      "id": 82,
+      "start": 201.72,
+      "end": 202.19,
+      "en": "Aggressive.",
+      "zh": "侵略性。"
+    },
+    {
+      "id": 83,
+      "start": 202.72,
+      "end": 203.31,
+      "en": "Very aggressive.",
+      "zh": "很有侵略性。"
+    },
+    {
+      "id": 84,
+      "start": 204.25,
+      "end": 208.51,
+      "en": "Okay, well, we can take a look at some great vocabulary from this dialogue.",
+      "zh": "好吧，我们可以从这次对话中看看一些很棒的词汇。"
+    },
+    {
+      "id": 85,
+      "start": 209.07,
+      "end": 211.73,
+      "en": "Why don't we start with our language takeaway for today?",
+      "zh": "为什么我们不从今天的语言外卖开始呢？"
+    },
+    {
+      "id": 86,
+      "start": 213.03,
+      "end": 214.25,
+      "en": "Language takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 87,
+      "start": 215.21,
+      "end": 223.15,
+      "en": "In today's language takeaway, we have five really important words that we hope you will take away from the lesson.",
+      "zh": "在今天的语言外卖中，我们有五个非常重要的词，希望您能从课程中学到。"
+    },
+    {
+      "id": 88,
+      "start": 223.76,
+      "end": 226.87,
+      "en": "Exactly, and the first word that we have today is booked.",
+      "zh": "没错，我们今天的第一个词是预订的。"
+    },
+    {
+      "id": 89,
+      "start": 227.61,
+      "end": 228.17,
+      "en": "Booked.",
+      "zh": "被警方登记拘留。"
+    },
+    {
+      "id": 90,
+      "start": 228.73,
+      "end": 229.29,
+      "en": "Booked.",
+      "zh": "被警方登记拘留。"
+    },
+    {
+      "id": 91,
+      "start": 229.77,
+      "end": 230.11,
+      "en": "Booked.",
+      "zh": "被警方登记拘留。"
+    },
+    {
+      "id": 92,
+      "start": 230.31,
+      "end": 231.83,
+      "en": "Booked is another way of saying...",
+      "zh": "预定是另一种说法..."
+    },
+    {
+      "id": 93,
+      "start": 232.36,
+      "end": 232.79,
+      "en": "Arrested.",
+      "zh": "被逮捕了。"
+    },
+    {
+      "id": 94,
+      "start": 233.36,
+      "end": 234.36,
+      "en": "Arrested.",
+      "zh": "被逮捕了。"
+    },
+    {
+      "id": 95,
+      "start": 234.36,
+      "end": 234.91,
+      "en": "Yeah, it's a slang word, hey?",
+      "zh": "是的，这是一个俚语，嘿？"
+    },
+    {
+      "id": 96,
+      "start": 235.52,
+      "end": 236.43,
+      "en": "It's kind of slang, yeah.",
+      "zh": "这是一种俚语，是的。"
+    },
+    {
+      "id": 97,
+      "start": 236.52,
+      "end": 237.52,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 98,
+      "start": 237.52,
+      "end": 238.01,
+      "en": "It's a slang word, booked.",
+      "zh": "这是一个俚语，已预订。"
+    },
+    {
+      "id": 99,
+      "start": 238.52,
+      "end": 240.33,
+      "en": "Okay, next word, speeding.",
+      "zh": "好吧，下一个字，超速。"
+    },
+    {
+      "id": 100,
+      "start": 240.65,
+      "end": 241.03,
+      "en": "Speeding.",
+      "zh": "超速行驶。"
+    },
+    {
+      "id": 101,
+      "start": 241.45,
+      "end": 241.79,
+      "en": "Speeding.",
+      "zh": "超速行驶。"
+    },
+    {
+      "id": 102,
+      "start": 242.75,
+      "end": 243.33,
+      "en": "Speeding.",
+      "zh": "超速行驶。"
+    },
+    {
+      "id": 103,
+      "start": 243.55,
+      "end": 246.13,
+      "en": "So, Santa was speeding because he was...",
+      "zh": "于是，圣诞老人超速，因为他..."
+    },
+    {
+      "id": 104,
+      "start": 246.8,
+      "end": 247.11,
+      "en": "Going too fast.",
+      "zh": "走得太快。"
+    },
+    {
+      "id": 105,
+      "start": 247.8,
+      "end": 248.29,
+      "en": "Driving too fast, yeah.",
+      "zh": "开车太快了，是的。"
+    },
+    {
+      "id": 106,
+      "start": 248.8,
+      "end": 249.8,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 107,
+      "start": 249.8,
+      "end": 250.8,
+      "en": "Going over the speed limit.",
+      "zh": "超过限速。"
+    },
+    {
+      "id": 108,
+      "start": 250.8,
+      "end": 251.8,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 109,
+      "start": 251.8,
+      "end": 253.69,
+      "en": "Third word today is...",
+      "zh": "今天的第三个词是..."
+    },
+    {
+      "id": 110,
+      "start": 253.8,
+      "end": 254.23,
+      "en": "Impounded.",
+      "zh": "被扣押的。"
+    },
+    {
+      "id": 111,
+      "start": 255.15,
+      "end": 255.73,
+      "en": "Impounded.",
+      "zh": "被扣押的。"
+    },
+    {
+      "id": 112,
+      "start": 256.85,
+      "end": 257.43,
+      "en": "Impounded.",
+      "zh": "被扣押的。"
+    },
+    {
+      "id": 113,
+      "start": 258.41,
+      "end": 259.85,
+      "en": "That's when your car gets arrested.",
+      "zh": "那是你的车被捕的时候。"
+    },
+    {
+      "id": 114,
+      "start": 260.37,
+      "end": 261.59,
+      "en": "Your car gets arrested.",
+      "zh": "你的车被捕了。"
+    },
+    {
+      "id": 115,
+      "start": 262.13,
+      "end": 264.79,
+      "en": "Yeah, they take your car to car jail.",
+      "zh": "是的，他们把你的车带到汽车监狱。"
+    },
+    {
+      "id": 116,
+      "start": 265.34,
+      "end": 267.58,
+      "en": "Okay, so my car is in car jail.",
+      "zh": "好吧，所以我的车在汽车监狱里。"
+    },
+    {
+      "id": 117,
+      "start": 267.98,
+      "end": 268.8,
+      "en": "I think I understand.",
+      "zh": "我想我明白了。"
+    },
+    {
+      "id": 118,
+      "start": 269.22,
+      "end": 270.02,
+      "en": "It's impounded.",
+      "zh": "它被扣押了。"
+    },
+    {
+      "id": 119,
+      "start": 270.46,
+      "end": 273.04,
+      "en": "Okay, so the police take my car and I have to...",
+      "zh": "好吧，警察接了我的车，我不得不..."
+    },
+    {
+      "id": 120,
+      "start": 274.36,
+      "end": 275.8,
+      "en": "Pay to get it out.",
+      "zh": "付钱把它拿出来。"
+    },
+    {
+      "id": 121,
+      "start": 275.8,
+      "end": 276.8,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 122,
+      "start": 276.8,
+      "end": 278.96,
+      "en": "Let's move to our next word, ruined.",
+      "zh": "让我们继续我们的下一个词，被毁了。"
+    },
+    {
+      "id": 123,
+      "start": 279.86,
+      "end": 280.42,
+      "en": "Ruined.",
+      "zh": "毁了的。"
+    },
+    {
+      "id": 124,
+      "start": 281.1,
+      "end": 281.66,
+      "en": "Ruined.",
+      "zh": "毁了的。"
+    },
+    {
+      "id": 125,
+      "start": 282.4,
+      "end": 282.96,
+      "en": "Ruined.",
+      "zh": "毁了的。"
+    },
+    {
+      "id": 126,
+      "start": 283.34,
+      "end": 287.76,
+      "en": "We have a few examples for us to listen to, to understand the meaning of this word.",
+      "zh": "我们有几个例子可以让我们听，理解这个词的含义。"
+    },
+    {
+      "id": 127,
+      "start": 289.34,
+      "end": 289.98,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 128,
+      "start": 292.1,
+      "end": 294.08,
+      "en": "It's been raining for five days.",
+      "zh": "已经下了五天的雨。"
+    },
+    {
+      "id": 129,
+      "start": 295.04,
+      "end": 300.68,
+      "en": "Our vacation is ruined.",
+      "zh": "我们的假期被毁了。"
+    },
+    {
+      "id": 130,
+      "start": 300.68,
+      "end": 300.95,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 131,
+      "start": 305.2,
+      "end": 305.85,
+      "en": "Look at this hole.",
+      "zh": "看看这个洞。"
+    },
+    {
+      "id": 132,
+      "start": 306.56,
+      "end": 308.81,
+      "en": "You've ruined my favorite pair of jeans.",
+      "zh": "你毁了我最喜欢的牛仔裤。"
+    },
+    {
+      "id": 133,
+      "start": 313.28,
+      "end": 313.65,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 134,
+      "start": 316.81,
+      "end": 319.35,
+      "en": "Sam, you've been caught stealing from the company.",
+      "zh": "山姆，你被抓到从公司偷东西了。"
+    },
+    {
+      "id": 135,
+      "start": 319.83,
+      "end": 321.29,
+      "en": "Your chances for a promotion are ruined.",
+      "zh": "你晋升的机会被毁了。"
+    },
+    {
+      "id": 136,
+      "start": 325.71,
+      "end": 328.87,
+      "en": "Okay, great examples and basically ruined means...",
+      "zh": "好的，很好的例子和基本上被毁的意味着..."
+    },
+    {
+      "id": 137,
+      "start": 329.48,
+      "end": 330.48,
+      "en": "Destroyed.",
+      "zh": "被毁坏了。"
+    },
+    {
+      "id": 138,
+      "start": 330.48,
+      "end": 330.78,
+      "en": "Destroyed.",
+      "zh": "被毁坏了。"
+    },
+    {
+      "id": 139,
+      "start": 330.86,
+      "end": 331.42,
+      "en": "Yeah, messed up.",
+      "zh": "是的，搞砸了。"
+    },
+    {
+      "id": 140,
+      "start": 331.68,
+      "end": 332.04,
+      "en": "Messed up.",
+      "zh": "搞砸了。"
+    },
+    {
+      "id": 141,
+      "start": 333.48,
+      "end": 334.48,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 142,
+      "start": 334.48,
+      "end": 337.88,
+      "en": "So, our next word, backup.",
+      "zh": "所以，我们的下一个词，备份。"
+    },
+    {
+      "id": 143,
+      "start": 337.88,
+      "end": 338.88,
+      "en": "Backup.",
+      "zh": "支援。"
+    },
+    {
+      "id": 144,
+      "start": 338.91,
+      "end": 340.49,
+      "en": "So, now for our last word.",
+      "zh": "所以，现在是我们的最后一句话。"
+    },
+    {
+      "id": 145,
+      "start": 342.14,
+      "end": 346.46,
+      "en": "Okay, so now for our last word and language takeaway, backup.",
+      "zh": "好的，现在我们的最后一个词和语言要点，备份。"
+    },
+    {
+      "id": 146,
+      "start": 347.32,
+      "end": 348.32,
+      "en": "Backup.",
+      "zh": "支援。"
+    },
+    {
+      "id": 147,
+      "start": 348.78,
+      "end": 348.96,
+      "en": "Backup.",
+      "zh": "支援。"
+    },
+    {
+      "id": 148,
+      "start": 349.32,
+      "end": 350.32,
+      "en": "Backup.",
+      "zh": "支援。"
+    },
+    {
+      "id": 149,
+      "start": 350.32,
+      "end": 351.3,
+      "en": "So, backup is...",
+      "zh": "所以，备份是..."
+    },
+    {
+      "id": 150,
+      "start": 351.32,
+      "end": 351.44,
+      "en": "Help.",
+      "zh": "救命。"
+    },
+    {
+      "id": 151,
+      "start": 352.32,
+      "end": 353.32,
+      "en": "Help.",
+      "zh": "救命。"
+    },
+    {
+      "id": 152,
+      "start": 353.32,
+      "end": 354.32,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 153,
+      "start": 354.32,
+      "end": 355.32,
+      "en": "Right?",
+      "zh": "对吧？"
+    },
+    {
+      "id": 154,
+      "start": 355.32,
+      "end": 356.32,
+      "en": "So, when you call for backup, you call for help.",
+      "zh": "因此，当您要求备份时，您会寻求帮助。"
+    },
+    {
+      "id": 155,
+      "start": 356.32,
+      "end": 358.8,
+      "en": "Yeah, you see it all the time in war movies, police, call for backup.",
+      "zh": "是的，你一直在战争电影中看到它，警察呼吁备份。"
+    },
+    {
+      "id": 156,
+      "start": 359.28,
+      "end": 359.42,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 157,
+      "start": 360.28,
+      "end": 361.28,
+      "en": "Right?",
+      "zh": "对吧？"
+    },
+    {
+      "id": 158,
+      "start": 361.28,
+      "end": 367.76,
+      "en": "So, important to point out that here, the pronunciation and stress of this phrase is really important, hey?",
+      "zh": "所以，重要的是要指出这里，这个短语的发音和压力真的很重要，嘿？"
+    },
+    {
+      "id": 159,
+      "start": 367.76,
+      "end": 368.02,
+      "en": "Yes, yes.",
+      "zh": "对，对。"
+    },
+    {
+      "id": 160,
+      "start": 368.76,
+      "end": 369.54,
+      "en": "You have to say backup.",
+      "zh": "你必须说备份。"
+    },
+    {
+      "id": 161,
+      "start": 369.76,
+      "end": 370.76,
+      "en": "Backup.",
+      "zh": "支援。"
+    },
+    {
+      "id": 162,
+      "start": 370.76,
+      "end": 371.76,
+      "en": "Backup.",
+      "zh": "支援。"
+    },
+    {
+      "id": 163,
+      "start": 371.76,
+      "end": 372.76,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 164,
+      "start": 372.76,
+      "end": 375.17,
+      "en": "So, both words are stressed at about the same level, hey?",
+      "zh": "所以，这两个词的强调程度大致相同，嘿？"
+    },
+    {
+      "id": 165,
+      "start": 375.84,
+      "end": 376.84,
+      "en": "Backup.",
+      "zh": "支援。"
+    },
+    {
+      "id": 166,
+      "start": 376.84,
+      "end": 378.77,
+      "en": "Because if you were to say back up...",
+      "zh": "因为如果你要说备份..."
+    },
+    {
+      "id": 167,
+      "start": 379.3,
+      "end": 380.77,
+      "en": "That means to move back.",
+      "zh": "这意味着要搬回去。"
+    },
+    {
+      "id": 168,
+      "start": 381.12,
+      "end": 381.33,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 169,
+      "start": 381.85,
+      "end": 382.43,
+      "en": "Yeah, it's different.",
+      "zh": "是的，不一样。"
+    },
+    {
+      "id": 170,
+      "start": 383.12,
+      "end": 384.8,
+      "en": "So, backup, backup.",
+      "zh": "所以，备份，备份。"
+    },
+    {
+      "id": 171,
+      "start": 385.03,
+      "end": 386.59,
+      "en": "Yes, the stress is important.",
+      "zh": "是的，压力很重要。"
+    },
+    {
+      "id": 172,
+      "start": 386.96,
+      "end": 387.96,
+      "en": "The stress.",
+      "zh": "压力。"
+    },
+    {
+      "id": 173,
+      "start": 387.96,
+      "end": 388.96,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 174,
+      "start": 388.96,
+      "end": 389.96,
+      "en": "Well, you know what?",
+      "zh": "嗯，你知道吗？"
+    },
+    {
+      "id": 175,
+      "start": 389.96,
+      "end": 393.57,
+      "en": "With those words in mind, it's time for us to listen to the dialogue a second time.",
+      "zh": "考虑到这些话，是时候让我们第二次听对话了。"
+    },
+    {
+      "id": 176,
+      "start": 399.31,
+      "end": 402.65,
+      "en": "Really, fellas, you can't take me to jail.",
+      "zh": "真的，伙计们，你不能把我送进监狱。"
+    },
+    {
+      "id": 177,
+      "start": 403.36,
+      "end": 405.06,
+      "en": "Don't you know who I am?",
+      "zh": "你不知道我是谁吗？"
+    },
+    {
+      "id": 178,
+      "start": 406.12,
+      "end": 407.52,
+      "en": "Kris Kringle, you know?",
+      "zh": "就是圣诞老人，你知道吧？"
+    },
+    {
+      "id": 179,
+      "start": 408.12,
+      "end": 413.96,
+      "en": "Papa Noel, Parent Noel, Baba Natale, Shonda Lawrent.",
+      "zh": "Papa Noel，父母 Noel，Baba Natale，Shonda Lawrent。"
+    },
+    {
+      "id": 180,
+      "start": 413.97,
+      "end": 416.87,
+      "en": "Yeah, yeah, we've heard that one before.",
+      "zh": "是的，是的，我们以前听说过。"
+    },
+    {
+      "id": 181,
+      "start": 417.87,
+      "end": 418.45,
+      "en": "Haven't we, Joe?",
+      "zh": "我们不是吗，乔？"
+    },
+    {
+      "id": 182,
+      "start": 419.15,
+      "end": 423.17,
+      "en": "Yeah, last week we booked this guy who claimed to be the tooth fairy.",
+      "zh": "是的，上周我们预订了这个自称是牙仙的人。"
+    },
+    {
+      "id": 183,
+      "start": 423.79,
+      "end": 424.59,
+      "en": "Can you believe that?",
+      "zh": "你能信吗？"
+    },
+    {
+      "id": 184,
+      "start": 426.99,
+      "end": 430.59,
+      "en": "It's Christmas Eve, and I have all these presents to deliver.",
+      "zh": "这是平安夜，我有所有这些礼物要送。"
+    },
+    {
+      "id": 185,
+      "start": 431.4,
+      "end": 433.04,
+      "en": "Where's your Christmas spirit?",
+      "zh": "你们的圣诞精神呢？"
+    },
+    {
+      "id": 186,
+      "start": 433.7,
+      "end": 439.44,
+      "en": "What will happen when all the children wake up tomorrow and don't find any gifts in their stockings?",
+      "zh": "明天孩子们醒来，要是圣诞袜里没有礼物怎么办？"
+    },
+    {
+      "id": 187,
+      "start": 440.0,
+      "end": 443.3,
+      "en": "Sorry, buddy, you were parked in a no-parking zone.",
+      "zh": "对不起，伙计，你停在一个没有停车位的地方。"
+    },
+    {
+      "id": 188,
+      "start": 443.8,
+      "end": 447.06,
+      "en": "You were speeding, and you have no ID.",
+      "zh": "你在超速，你没有身份证。"
+    },
+    {
+      "id": 189,
+      "start": 448.0,
+      "end": 455.64,
+      "en": "Besides that, even if we let you go now, your sleigh has been impounded, and those reindeer were taken to the city zoo.",
+      "zh": "除此之外，即使我们现在放开你，你的雪橇也被扣押了，那些驯鹿被带到了城市动物园。"
+    },
+    {
+      "id": 190,
+      "start": 456.6,
+      "end": 457.2,
+      "en": "What?",
+      "zh": "什么？"
+    },
+    {
+      "id": 191,
+      "start": 457.82,
+      "end": 458.82,
+      "en": "This is unbelievable.",
+      "zh": "太不可思议了。"
+    },
+    {
+      "id": 192,
+      "start": 460.24,
+      "end": 461.76,
+      "en": "What's the world coming to?",
+      "zh": "世界将如何发展？"
+    },
+    {
+      "id": 193,
+      "start": 462.52,
+      "end": 465.64,
+      "en": "Christmas is ruined.",
+      "zh": "圣诞节毁了。"
+    },
+    {
+      "id": 194,
+      "start": 465.64,
+      "end": 466.22,
+      "en": "What's that up ahead?",
+      "zh": "前面那是什么？"
+    },
+    {
+      "id": 195,
+      "start": 467.36,
+      "end": 468.52,
+      "en": "It looks like elves.",
+      "zh": "看起来像是小精灵。"
+    },
+    {
+      "id": 196,
+      "start": 469.54,
+      "end": 471.6,
+      "en": "Whoa, they're shooting candy canes.",
+      "zh": "哇，他们在拍棒棒糖。"
+    },
+    {
+      "id": 197,
+      "start": 472.82,
+      "end": 474.02,
+      "en": "Mayday, mayday.",
+      "zh": "五月天，五月天。"
+    },
+    {
+      "id": 198,
+      "start": 474.62,
+      "end": 475.84,
+      "en": "We are under heavy attack.",
+      "zh": "我们正遭受重创。"
+    },
+    {
+      "id": 199,
+      "start": 476.62,
+      "end": 477.18,
+      "en": "We need backup.",
+      "zh": "我们需要支援。"
+    },
+    {
+      "id": 200,
+      "start": 481.96,
+      "end": 487.78,
+      "en": "Okay, so without the sound effects and without any noise, I think it's much more clear now, right?",
+      "zh": "好吧，没有音效，没有任何噪音，我想现在就清楚得多了，对吧？"
+    },
+    {
+      "id": 201,
+      "start": 487.98,
+      "end": 489.02,
+      "en": "A little less dramatic.",
+      "zh": "不那么戏剧化了。"
+    },
+    {
+      "id": 202,
+      "start": 489.4,
+      "end": 491.48,
+      "en": "Less dramatic, but good language.",
+      "zh": "不那么戏剧化，但语言很好。"
+    },
+    {
+      "id": 203,
+      "start": 491.88,
+      "end": 492.04,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 204,
+      "start": 492.46,
+      "end": 497.74,
+      "en": "Speaking of good language, there's some great phrases I want to look at in this dialogue, and so let's do that in Putting It Together.",
+      "zh": "说到好语言，我想在这次对话中看到一些很棒的短语，所以让我们把它放在一起。"
+    },
+    {
+      "id": 205,
+      "start": 499.88,
+      "end": 500.76,
+      "en": "Putting It Together.",
+      "zh": "综合运用。"
+    },
+    {
+      "id": 206,
+      "start": 502.57,
+      "end": 508.89,
+      "en": "We have two phrases in Putting It Together that we want to show you how you can use in many different situations.",
+      "zh": "我们有两个短语将其组合在一起，我们希望向您展示如何在许多不同的情况下使用。"
+    },
+    {
+      "id": 207,
+      "start": 509.71,
+      "end": 511.55,
+      "en": "In the dialogue, we heard this.",
+      "zh": "在对话中，我们听到了这一点。"
+    },
+    {
+      "id": 208,
+      "start": 512.56,
+      "end": 515.0,
+      "en": "Last week we booked this guy who claimed to be a tooth fairy.",
+      "zh": "上周我们预订了这个自称是牙仙子的人。"
+    },
+    {
+      "id": 209,
+      "start": 516.37,
+      "end": 518.75,
+      "en": "Last week we booked this guy who claimed to be a tooth fairy.",
+      "zh": "上周我们预订了这个自称是牙仙子的人。"
+    },
+    {
+      "id": 210,
+      "start": 519.77,
+      "end": 525.23,
+      "en": "So when you claim to be something, you're saying that you are something, but it might not be true, right?",
+      "zh": "所以当你声称自己是某物时，你是在说你是某物，但它可能不是真的，对吧？"
+    },
+    {
+      "id": 211,
+      "start": 525.47,
+      "end": 525.63,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 212,
+      "start": 526.56,
+      "end": 530.54,
+      "en": "So for example, you can say, this woman claimed to be your wife.",
+      "zh": "例如，你可以说，这个女人自称是你的妻子。"
+    },
+    {
+      "id": 213,
+      "start": 530.54,
+      "end": 530.99,
+      "en": "But she's not.",
+      "zh": "但她不是。"
+    },
+    {
+      "id": 214,
+      "start": 531.54,
+      "end": 532.54,
+      "en": "But she's not.",
+      "zh": "但她不是。"
+    },
+    {
+      "id": 215,
+      "start": 532.54,
+      "end": 539.04,
+      "en": "We have a few other examples of how you can use the phrase claim to.",
+      "zh": "我们还有一些其他示例，说明您如何使用该短语声明。"
+    },
+    {
+      "id": 216,
+      "start": 539.04,
+      "end": 539.31,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 217,
+      "start": 542.48,
+      "end": 546.49,
+      "en": "Daniel claimed to be the son of a government minister, but later we found out that he was lying.",
+      "zh": "丹尼尔自称是政府部长的儿子，但后来我们发现他在撒谎。"
+    },
+    {
+      "id": 218,
+      "start": 550.82,
+      "end": 551.08,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 219,
+      "start": 556.16,
+      "end": 557.56,
+      "en": "The criminals claim to have a gun.",
+      "zh": "罪犯声称有枪。"
+    },
+    {
+      "id": 220,
+      "start": 562.52,
+      "end": 562.9,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 221,
+      "start": 566.52,
+      "end": 568.54,
+      "en": "This man here is claiming to know your father.",
+      "zh": "这里的这个人声称认识你的父亲。"
+    },
+    {
+      "id": 222,
+      "start": 572.2,
+      "end": 573.09,
+      "en": "That's such a great phrase.",
+      "zh": "这是一个很棒的短语。"
+    },
+    {
+      "id": 223,
+      "start": 573.52,
+      "end": 579.61,
+      "en": "Just by putting it together with another verb means something different, but still expresses that same idea.",
+      "zh": "只是将它与另一个动词放在一起意味着不同的东西，但仍然表达了同样的想法。"
+    },
+    {
+      "id": 224,
+      "start": 579.77,
+      "end": 579.89,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 225,
+      "start": 580.64,
+      "end": 581.64,
+      "en": "Claim to have.",
+      "zh": "声称拥有。"
+    },
+    {
+      "id": 226,
+      "start": 581.64,
+      "end": 583.45,
+      "en": "She claimed to have a baby or something.",
+      "zh": "她声称有一个孩子什么的。"
+    },
+    {
+      "id": 227,
+      "start": 584.0,
+      "end": 585.0,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 228,
+      "start": 585.0,
+      "end": 586.0,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 229,
+      "start": 586.0,
+      "end": 587.0,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 230,
+      "start": 587.0,
+      "end": 588.0,
+      "en": "So let's move to our next phrase.",
+      "zh": "所以让我们转到我们的下一个短语。"
+    },
+    {
+      "id": 231,
+      "start": 588.0,
+      "end": 589.08,
+      "en": "Under heavy.",
+      "zh": "遭到猛烈攻击。"
+    },
+    {
+      "id": 232,
+      "start": 589.08,
+      "end": 589.64,
+      "en": "Under heavy.",
+      "zh": "遭到猛烈攻击。"
+    },
+    {
+      "id": 233,
+      "start": 590.8,
+      "end": 591.18,
+      "en": "Under heavy.",
+      "zh": "遭到猛烈攻击。"
+    },
+    {
+      "id": 234,
+      "start": 591.84,
+      "end": 594.44,
+      "en": "So in the dialogue, they said we're under heavy attack.",
+      "zh": "所以在对话中，他们说我们受到了猛烈的攻击。"
+    },
+    {
+      "id": 235,
+      "start": 595.04,
+      "end": 596.04,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 236,
+      "start": 596.04,
+      "end": 598.32,
+      "en": "You can also use this phrase in a couple of other ways.",
+      "zh": "您还可以通过其他几种方式使用此短语。"
+    },
+    {
+      "id": 237,
+      "start": 600.96,
+      "end": 601.96,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 238,
+      "start": 601.96,
+      "end": 608.8,
+      "en": "We're under heavy attack.",
+      "zh": "我们正遭受重创。"
+    },
+    {
+      "id": 239,
+      "start": 608.8,
+      "end": 609.1,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 240,
+      "start": 611.88,
+      "end": 612.59,
+      "en": "We're under heavy fire.",
+      "zh": "我们正处于猛烈的火力之下。"
+    },
+    {
+      "id": 241,
+      "start": 615.96,
+      "end": 616.37,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 242,
+      "start": 618.72,
+      "end": 620.4,
+      "en": "The prime minister is under heavy security.",
+      "zh": "首相处于严密的安全之下。"
+    },
+    {
+      "id": 243,
+      "start": 622.96,
+      "end": 624.97,
+      "en": "So if you're under heavy fire.",
+      "zh": "所以如果你在猛烈的火力下。"
+    },
+    {
+      "id": 244,
+      "start": 625.2,
+      "end": 626.53,
+      "en": "Means that there's a lot of fire.",
+      "zh": "说明有很多火。"
+    },
+    {
+      "id": 245,
+      "start": 626.84,
+      "end": 627.19,
+      "en": "Like gunfire.",
+      "zh": "像枪火一样。"
+    },
+    {
+      "id": 246,
+      "start": 627.84,
+      "end": 628.25,
+      "en": "Gunfire, yeah.",
+      "zh": "枪火，是的。"
+    },
+    {
+      "id": 247,
+      "start": 628.84,
+      "end": 629.41,
+      "en": "Yeah, not like fire fire.",
+      "zh": "是的，不像火灾。"
+    },
+    {
+      "id": 248,
+      "start": 629.84,
+      "end": 630.84,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 249,
+      "start": 630.84,
+      "end": 631.84,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 250,
+      "start": 631.84,
+      "end": 633.8,
+      "en": "And if you're under heavy security.",
+      "zh": "如果你处于严格的安全状态。"
+    },
+    {
+      "id": 251,
+      "start": 634.63,
+      "end": 638.25,
+      "en": "It means that you have a lot of security, a lot of bodyguards or a lot of.",
+      "zh": "这意味着你有很多安全感，很多保镖或很多。"
+    },
+    {
+      "id": 252,
+      "start": 638.25,
+      "end": 638.75,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 253,
+      "start": 639.4,
+      "end": 642.12,
+      "en": "Like a prime minister or president would be under heavy security.",
+      "zh": "就像总理或总统将处于严密的安全之下。"
+    },
+    {
+      "id": 254,
+      "start": 642.12,
+      "end": 643.12,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 255,
+      "start": 643.12,
+      "end": 644.12,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 256,
+      "start": 644.12,
+      "end": 645.28,
+      "en": "A couple of great phrases.",
+      "zh": "几个很棒的短语。"
+    },
+    {
+      "id": 257,
+      "start": 645.28,
+      "end": 648.79,
+      "en": "Really good phrases and with this, we can listen to our dialogue a third time.",
+      "zh": "非常好的短语，有了这个，我们可以第三次听我们的对话。"
+    },
+    {
+      "id": 258,
+      "start": 649.4,
+      "end": 655.68,
+      "en": "Really, Fuzz, you can't take me to jail.",
+      "zh": "真的，fuzz，你不能把我送进监狱。"
+    },
+    {
+      "id": 259,
+      "start": 655.68,
+      "end": 659.8,
+      "en": "Don't you know who I am?",
+      "zh": "你不知道我是谁吗？"
+    },
+    {
+      "id": 260,
+      "start": 659.8,
+      "end": 662.8,
+      "en": "Kris Kringle, you know.",
+      "zh": "克里斯·克林格尔，你知道的。"
+    },
+    {
+      "id": 261,
+      "start": 662.8,
+      "end": 667.04,
+      "en": "Papa Noel, Père Noel, Baba Natale.",
+      "zh": "帕帕·诺埃尔、佩尔·诺埃尔、巴博·纳塔莱。"
+    },
+    {
+      "id": 262,
+      "start": 667.04,
+      "end": 668.28,
+      "en": "Chantant l'Enfant.",
+      "zh": "尚德·恩凡特。"
+    },
+    {
+      "id": 263,
+      "start": 670.3,
+      "end": 670.84,
+      "en": "Yeah, yeah.",
+      "zh": "对，对。"
+    },
+    {
+      "id": 264,
+      "start": 671.1,
+      "end": 672.98,
+      "en": "We've heard that one before, haven't we, Joe?",
+      "zh": "我们以前听说过，不是吗，乔？"
+    },
+    {
+      "id": 265,
+      "start": 673.82,
+      "end": 674.14,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 266,
+      "start": 674.96,
+      "end": 677.28,
+      "en": "I even book this guy who claimed to be a tooth fairy.",
+      "zh": "我什至预订了这个自称是牙仙子的人。"
+    },
+    {
+      "id": 267,
+      "start": 677.28,
+      "end": 677.84,
+      "en": "Can you believe that?",
+      "zh": "你能信吗？"
+    },
+    {
+      "id": 268,
+      "start": 678.28,
+      "end": 684.16,
+      "en": "It's Christmas Eve and I have all these presents to deliver.",
+      "zh": "这是平安夜，我有所有这些礼物要送。"
+    },
+    {
+      "id": 269,
+      "start": 684.16,
+      "end": 685.16,
+      "en": "Where's your Christmas spirit?",
+      "zh": "你们的圣诞精神呢？"
+    },
+    {
+      "id": 270,
+      "start": 686.08,
+      "end": 690.9,
+      "en": "What will happen when all the children wake up tomorrow and don't find any gifts in their stockings?",
+      "zh": "明天孩子们醒来，要是圣诞袜里没有礼物怎么办？"
+    },
+    {
+      "id": 271,
+      "start": 691.36,
+      "end": 694.32,
+      "en": "Sorry, buddy, you're parked in a no parking zone.",
+      "zh": "对不起，伙计，你停在没有停车区。"
+    },
+    {
+      "id": 272,
+      "start": 694.32,
+      "end": 697.64,
+      "en": "You were speeding and you have no ID.",
+      "zh": "你还超速，又没有身份证件。"
+    },
+    {
+      "id": 273,
+      "start": 697.64,
+      "end": 702.8,
+      "en": "Besides that, even if we let you go now, your sleigh's been impounded and those reindeer were taken to the city zoo.",
+      "zh": "而且，就算我们现在放你走，你的雪橇也已经被扣押，驯鹿都被送到市立动物园了。"
+    },
+    {
+      "id": 274,
+      "start": 703.84,
+      "end": 705.56,
+      "en": "What?",
+      "zh": "什么？"
+    },
+    {
+      "id": 275,
+      "start": 705.56,
+      "end": 706.16,
+      "en": "This is unbelievable.",
+      "zh": "太不可思议了。"
+    },
+    {
+      "id": 276,
+      "start": 707.32,
+      "end": 708.98,
+      "en": "What's this world coming to?",
+      "zh": "这世道怎么了？"
+    },
+    {
+      "id": 277,
+      "start": 709.8,
+      "end": 711.96,
+      "en": "Christmas is ruined.",
+      "zh": "圣诞节毁了。"
+    },
+    {
+      "id": 278,
+      "start": 711.96,
+      "end": 712.44,
+      "en": "What's that up ahead?",
+      "zh": "前面那是什么？"
+    },
+    {
+      "id": 279,
+      "start": 713.04,
+      "end": 714.04,
+      "en": "It looks like elves.",
+      "zh": "看起来像是小精灵。"
+    },
+    {
+      "id": 280,
+      "start": 714.04,
+      "end": 715.04,
+      "en": "Whoa, they're shooting candy canes.",
+      "zh": "哇，他们在拍棒棒糖。"
+    },
+    {
+      "id": 281,
+      "start": 715.04,
+      "end": 716.04,
+      "en": "Mayday, mayday, we're under heavy attack.",
+      "zh": "五月天，五月天，我们正遭受重创。"
+    },
+    {
+      "id": 282,
+      "start": 716.04,
+      "end": 717.04,
+      "en": "We need backup.",
+      "zh": "我们需要支援。"
+    },
+    {
+      "id": 283,
+      "start": 732.2,
+      "end": 736.16,
+      "en": "So, Marco, the police mentioned something about the tooth fairy.",
+      "zh": "所以，马可，警察提到了一些关于牙仙的事情。"
+    },
+    {
+      "id": 284,
+      "start": 736.72,
+      "end": 737.42,
+      "en": "The tooth fairy.",
+      "zh": "牙仙子。"
+    },
+    {
+      "id": 285,
+      "start": 737.82,
+      "end": 741.66,
+      "en": "I don't know, maybe some of our listeners don't know this story about the tooth fairy.",
+      "zh": "我不知道，也许我们的一些听众不知道这个关于牙仙的故事。"
+    },
+    {
+      "id": 286,
+      "start": 742.0,
+      "end": 744.8,
+      "en": "So can I go ahead and say it?",
+      "zh": "那我可以继续说吗？"
+    },
+    {
+      "id": 287,
+      "start": 744.8,
+      "end": 745.3,
+      "en": "Yes, go ahead.",
+      "zh": "是的，继续。"
+    },
+    {
+      "id": 288,
+      "start": 745.8,
+      "end": 748.2,
+      "en": "Okay, well, when you're small and you lose a tooth.",
+      "zh": "好吧，当你很小，你掉了一颗牙时。"
+    },
+    {
+      "id": 289,
+      "start": 748.76,
+      "end": 749.14,
+      "en": "Your baby teeth.",
+      "zh": "你的乳牙。"
+    },
+    {
+      "id": 290,
+      "start": 749.76,
+      "end": 753.04,
+      "en": "Yeah, you put it underneath your pillow and then you go to sleep.",
+      "zh": "是的，你把它放在枕头下面，然后你就去睡觉了。"
+    },
+    {
+      "id": 291,
+      "start": 754.32,
+      "end": 762.96,
+      "en": "And then in the night, the tooth fairy comes into the house, flies into the house, sneaks under your pillow, takes the tooth and puts money there.",
+      "zh": "然后在夜里，牙仙子走进屋子，飞进屋里，偷偷摸摸枕头下，把牙拿到那里，把钱放在那里。"
+    },
+    {
+      "id": 292,
+      "start": 763.28,
+      "end": 764.0,
+      "en": "I see.",
+      "zh": "我明白了。"
+    },
+    {
+      "id": 293,
+      "start": 764.28,
+      "end": 768.46,
+      "en": "So this is a story that parents tell their kids about what happens to their baby teeth.",
+      "zh": "所以这是一个父母告诉他们的孩子乳牙会发生什么的故事。"
+    },
+    {
+      "id": 294,
+      "start": 768.92,
+      "end": 770.36,
+      "en": "And they get money in exchange for it.",
+      "zh": "他们得到钱来换取它。"
+    },
+    {
+      "id": 295,
+      "start": 770.36,
+      "end": 771.36,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 296,
+      "start": 771.36,
+      "end": 773.08,
+      "en": "So I guess it takes away the sadness of losing that tooth.",
+      "zh": "所以我想它消除了失去那颗牙齿的悲伤。"
+    },
+    {
+      "id": 297,
+      "start": 773.72,
+      "end": 773.84,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 298,
+      "start": 774.32,
+      "end": 778.66,
+      "en": "But in South America, for example, we have the tooth mouse.",
+      "zh": "例如，在南美洲，我们有牙齿鼠标。"
+    },
+    {
+      "id": 299,
+      "start": 779.14,
+      "end": 779.9,
+      "en": "The tooth mouse.",
+      "zh": "牙老鼠。"
+    },
+    {
+      "id": 300,
+      "start": 780.36,
+      "end": 781.36,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 301,
+      "start": 781.36,
+      "end": 782.36,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 302,
+      "start": 782.36,
+      "end": 783.36,
+      "en": "What is it?",
+      "zh": "怎么了？"
+    },
+    {
+      "id": 303,
+      "start": 783.36,
+      "end": 784.36,
+      "en": "How does it call them in Spanish?",
+      "zh": "它用西班牙语怎么称呼他们？"
+    },
+    {
+      "id": 304,
+      "start": 784.36,
+      "end": 786.58,
+      "en": "Oh, well, in some places it's called Ratoncito Perez.",
+      "zh": "哦，好吧，在某些地方，它被称为 Ratoncito Perez。"
+    },
+    {
+      "id": 305,
+      "start": 787.72,
+      "end": 789.04,
+      "en": "Like it has a last name Perez.",
+      "zh": "就像它有一个姓佩雷斯。"
+    },
+    {
+      "id": 306,
+      "start": 789.42,
+      "end": 789.76,
+      "en": "Oh, really?",
+      "zh": "哦，真的吗？"
+    },
+    {
+      "id": 307,
+      "start": 790.18,
+      "end": 794.28,
+      "en": "In other places, it's just called Ratoncito, which means mouse.",
+      "zh": "在其他地方，它只是称为 Ratoncito，意思是鼠标。"
+    },
+    {
+      "id": 308,
+      "start": 794.66,
+      "end": 796.28,
+      "en": "Okay, so it'd be like tooth fairy Smith.",
+      "zh": "好吧，这就像牙仙子史密斯。"
+    },
+    {
+      "id": 309,
+      "start": 796.92,
+      "end": 798.22,
+      "en": "Yeah, tooth fairy Smith.",
+      "zh": "是的，牙仙史密斯。"
+    },
+    {
+      "id": 310,
+      "start": 798.98,
+      "end": 799.66,
+      "en": "And it's the same thing.",
+      "zh": "这是同样的事情。"
+    },
+    {
+      "id": 311,
+      "start": 799.84,
+      "end": 804.08,
+      "en": "It's a little mouse that comes in and steals a little tooth from you and leaves money in exchange.",
+      "zh": "它是一只小老鼠，它可以从你身上偷走一颗小牙齿，并留下钱作为交换。"
+    },
+    {
+      "id": 312,
+      "start": 804.88,
+      "end": 805.08,
+      "en": "Cool.",
+      "zh": "真有意思。"
+    },
+    {
+      "id": 313,
+      "start": 805.88,
+      "end": 806.88,
+      "en": "Very cool.",
+      "zh": "真酷。"
+    },
+    {
+      "id": 314,
+      "start": 806.88,
+      "end": 807.88,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 315,
+      "start": 807.88,
+      "end": 811.32,
+      "en": "So we go from Santa Claus to Guns and Wars to the tooth fairy.",
+      "zh": "所以我们从圣诞老人到枪支，战争再到牙仙子。"
+    },
+    {
+      "id": 316,
+      "start": 811.32,
+      "end": 811.86,
+      "en": "Only at EnglishPod.",
+      "zh": "只在Englishpod。"
+    },
+    {
+      "id": 317,
+      "start": 812.32,
+      "end": 813.32,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 318,
+      "start": 813.32,
+      "end": 814.32,
+      "en": "All right, guys.",
+      "zh": "好了，各位。"
+    },
+    {
+      "id": 319,
+      "start": 814.32,
+      "end": 815.32,
+      "en": "I hope you enjoyed today's lesson.",
+      "zh": "我希望你喜欢今天的课程。"
+    },
+    {
+      "id": 320,
+      "start": 815.84,
+      "end": 820.92,
+      "en": "If you have any questions or comments about the lesson, please visit our website, EnglishPod.com.",
+      "zh": "如果您对本课程有任何疑问或意见，请访问我们的网站 englishpod.com。"
+    },
+    {
+      "id": 321,
+      "start": 820.92,
+      "end": 821.92,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 322,
+      "start": 822.18,
+      "end": 822.92,
+      "en": "Well, we're out of time.",
+      "zh": "好吧，我们没时间了。"
+    },
+    {
+      "id": 323,
+      "start": 823.32,
+      "end": 824.32,
+      "en": "We got to go.",
+      "zh": "我们得走了。"
+    },
+    {
+      "id": 324,
+      "start": 824.32,
+      "end": 825.48,
+      "en": "We've got some Christmas shopping to do.",
+      "zh": "我们有一些圣诞购物要做。"
+    },
+    {
+      "id": 325,
+      "start": 825.76,
+      "end": 826.42,
+      "en": "Yes, Christmas shopping.",
+      "zh": "是的，圣诞购物。"
+    },
+    {
+      "id": 326,
+      "start": 826.78,
+      "end": 828.18,
+      "en": "So we'll see you guys later.",
+      "zh": "所以我们稍后再见。"
+    },
+    {
+      "id": 327,
+      "start": 828.76,
+      "end": 829.76,
+      "en": "And until then, it's goodbye.",
+      "zh": "在那之前，这是再见。"
+    },
+    {
+      "id": 328,
+      "start": 829.76,
+      "end": 834.76,
+      "en": "Goodbye.",
+      "zh": "再见。"
+    }
+  ],
+  "dialog": {
+    "start": 115.44,
+    "end": 175.0,
+    "segmentIds": [
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75
+    ]
+  }
+}

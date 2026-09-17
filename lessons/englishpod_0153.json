@@ -1,0 +1,2013 @@
+{
+  "version": 1,
+  "id": 153,
+  "number": "0153",
+  "title": "Daily Life - Homesick",
+  "audio": "mp3/153. Daily Life - Homesick.mp3",
+  "duration": 792.1371875,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.56,
+      "end": 5.17,
+      "en": "Hello everyone and welcome back to EnglishPod.",
+      "zh": "大家好，欢迎回到 EnglishPod。"
+    },
+    {
+      "id": 2,
+      "start": 5.48,
+      "end": 7.8,
+      "en": "We have an upper intermediate lesson for you today.",
+      "zh": "我们今天为您提供了中级中级课程。"
+    },
+    {
+      "id": 3,
+      "start": 7.8,
+      "end": 8.31,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 4,
+      "start": 9.22,
+      "end": 9.79,
+      "en": "And my name is Catherine.",
+      "zh": "我叫 Catherine。"
+    },
+    {
+      "id": 5,
+      "start": 10.22,
+      "end": 14.33,
+      "en": "So today we're talking about something that everyone who's ever lived away from home has felt before.",
+      "zh": "所以今天我们谈论的是每个离家出走的人都曾感受过的东西。"
+    },
+    {
+      "id": 6,
+      "start": 14.73,
+      "end": 15.01,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 7,
+      "start": 15.66,
+      "end": 16.98,
+      "en": "And that's the word we're going to preview today.",
+      "zh": "这就是我们今天要预览的词。"
+    },
+    {
+      "id": 8,
+      "start": 16.98,
+      "end": 17.98,
+      "en": "The word is homesick.",
+      "zh": "这个词很想家。"
+    },
+    {
+      "id": 9,
+      "start": 18.69,
+      "end": 18.95,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 10,
+      "start": 19.07,
+      "end": 20.91,
+      "en": "So let's take a look at that in today's language preview.",
+      "zh": "所以让我们在今天的语言预览中看看这一点。"
+    },
+    {
+      "id": 11,
+      "start": 22.8,
+      "end": 23.8,
+      "en": "Vocabulary preview.",
+      "zh": "词汇预习。"
+    },
+    {
+      "id": 12,
+      "start": 24.13,
+      "end": 24.73,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 13,
+      "start": 24.73,
+      "end": 25.51,
+      "en": "So homesick.",
+      "zh": "太想家了。"
+    },
+    {
+      "id": 14,
+      "start": 25.73,
+      "end": 28.25,
+      "en": "If you feel homesick or you are homesick.",
+      "zh": "如果你想家或想家。"
+    },
+    {
+      "id": 15,
+      "start": 28.72,
+      "end": 32.66,
+      "en": "Well, yeah, you could say I'm homesick right now.",
+      "zh": "嗯，是的，你可以说我现在想家了。"
+    },
+    {
+      "id": 16,
+      "start": 32.66,
+      "end": 34.28,
+      "en": "Or are you feeling homesick?",
+      "zh": "还是你想家了？"
+    },
+    {
+      "id": 17,
+      "start": 34.84,
+      "end": 38.76,
+      "en": "So it's a word that means I miss my home.",
+      "zh": "所以这是一个词，意味着我想念我的家。"
+    },
+    {
+      "id": 18,
+      "start": 38.92,
+      "end": 40.02,
+      "en": "I miss my family.",
+      "zh": "我想念我的家人。"
+    },
+    {
+      "id": 19,
+      "start": 40.34,
+      "end": 43.2,
+      "en": "I'm far away or I haven't seen my family in a long time.",
+      "zh": "我很远，或者我很久没有见到我的家人了。"
+    },
+    {
+      "id": 20,
+      "start": 43.2,
+      "end": 44.84,
+      "en": "And for some reason you just feel sad.",
+      "zh": "出于某种原因，你只是感到难过。"
+    },
+    {
+      "id": 21,
+      "start": 45.44,
+      "end": 45.6,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 22,
+      "start": 46.44,
+      "end": 47.72,
+      "en": "So it's a feeling.",
+      "zh": "所以这是一种感觉。"
+    },
+    {
+      "id": 23,
+      "start": 48.0,
+      "end": 48.86,
+      "en": "You feel a little bit depressed.",
+      "zh": "你感觉有点沮丧。"
+    },
+    {
+      "id": 24,
+      "start": 49.04,
+      "end": 50.66,
+      "en": "You feel sad because you're homesick.",
+      "zh": "你感到难过，因为你想家了。"
+    },
+    {
+      "id": 25,
+      "start": 50.76,
+      "end": 51.76,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 26,
+      "start": 51.76,
+      "end": 52.76,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 27,
+      "start": 52.76,
+      "end": 54.04,
+      "en": "So this is what's happening today in our dialogue.",
+      "zh": "所以这就是我们今天对话中发生的事情。"
+    },
+    {
+      "id": 28,
+      "start": 54.04,
+      "end": 55.88,
+      "en": "So let's listen to it for the first time.",
+      "zh": "所以让我们第一次听它。"
+    },
+    {
+      "id": 29,
+      "start": 59.44,
+      "end": 65.44,
+      "en": "Tom, how are you?",
+      "zh": "汤姆，你好吗？"
+    },
+    {
+      "id": 30,
+      "start": 65.68,
+      "end": 67.2,
+      "en": "Hey, we missed you at the party last night.",
+      "zh": "嘿，你昨晚没来聚会，大家都惦记着你呢。"
+    },
+    {
+      "id": 31,
+      "start": 67.32,
+      "end": 67.76,
+      "en": "Are you okay?",
+      "zh": "你还好吗？"
+    },
+    {
+      "id": 32,
+      "start": 68.36,
+      "end": 69.26,
+      "en": "I don't know.",
+      "zh": "我不知道。"
+    },
+    {
+      "id": 33,
+      "start": 69.92,
+      "end": 71.44,
+      "en": "I didn't really feel like going out.",
+      "zh": "我真的不想出去。"
+    },
+    {
+      "id": 34,
+      "start": 72.08,
+      "end": 73.8,
+      "en": "I guess I'm feeling a little homesick.",
+      "zh": "我想我有点想家了。"
+    },
+    {
+      "id": 35,
+      "start": 74.18,
+      "end": 74.6,
+      "en": "Come on.",
+      "zh": "来吧。"
+    },
+    {
+      "id": 36,
+      "start": 75.06,
+      "end": 76.18,
+      "en": "We've been through this already.",
+      "zh": "我们已经经历了这一切。"
+    },
+    {
+      "id": 37,
+      "start": 76.6,
+      "end": 81.96,
+      "en": "Look, I know the adjustment was hard when you first got here, but we agree that you're going to try and deal with it.",
+      "zh": "听着，我知道你刚来时很难适应，但我们不是说好了，你会试着克服这些困难吗？"
+    },
+    {
+      "id": 38,
+      "start": 82.52,
+      "end": 83.24,
+      "en": "I was.",
+      "zh": "我确实在努力。"
+    },
+    {
+      "id": 39,
+      "start": 83.76,
+      "end": 88.92,
+      "en": "It's just that the holidays are coming up and I won't be able to go home because I can't afford the airfare.",
+      "zh": "只是假期快到了，我不能回家，因为我买不起机票。"
+    },
+    {
+      "id": 40,
+      "start": 89.47,
+      "end": 95.01,
+      "en": "I'm just longing for some of the comforts of home, like my mom's cooking and being around my family.",
+      "zh": "我只是渴望一些家的舒适，比如我妈妈的烹饪和我的家人。"
+    },
+    {
+      "id": 41,
+      "start": 95.55,
+      "end": 98.29,
+      "en": "Yeah, it can get pretty lonely over the holidays.",
+      "zh": "是的，假期里会很孤独。"
+    },
+    {
+      "id": 42,
+      "start": 98.93,
+      "end": 103.37,
+      "en": "When I first got here, I'd get depressed and nostalgic for anything that reminded me of home.",
+      "zh": "当我第一次来到这里时，我会感到沮丧和怀念任何让我想起家园的事情。"
+    },
+    {
+      "id": 43,
+      "start": 104.05,
+      "end": 107.31,
+      "en": "I almost let it get to me, but then I started going out, keeping myself busy.",
+      "zh": "我差点就被这种情绪压垮了，后来开始出去活动，让自己忙起来。"
+    },
+    {
+      "id": 44,
+      "start": 107.31,
+      "end": 109.19,
+      "en": "And before I knew it, I was used to it.",
+      "zh": "不知不觉就适应了。"
+    },
+    {
+      "id": 45,
+      "start": 109.69,
+      "end": 112.81,
+      "en": "I see what you mean, but I'm still bummed out.",
+      "zh": "我明白你的意思，但我仍然很沮丧。"
+    },
+    {
+      "id": 46,
+      "start": 113.35,
+      "end": 115.07,
+      "en": "Okay, how does this sound?",
+      "zh": "好吧，你看这样怎么样？"
+    },
+    {
+      "id": 47,
+      "start": 115.57,
+      "end": 118.13,
+      "en": "Let's get you suited up and hit the dance club tonight.",
+      "zh": "今晚好好打扮一下，咱们去夜店跳舞。"
+    },
+    {
+      "id": 48,
+      "start": 118.59,
+      "end": 123.29,
+      "en": "I hear that an awesome DJ is playing and there will be a lot of pretty single girls there.",
+      "zh": "我听说一个很棒的 DJ 正在演奏，那里会有很多漂亮的单身女孩。"
+    },
+    {
+      "id": 49,
+      "start": 123.95,
+      "end": 125.91,
+      "en": "You know, I could really go for that.",
+      "zh": "你知道，我真的可以去做。"
+    },
+    {
+      "id": 50,
+      "start": 126.53,
+      "end": 128.75,
+      "en": "You don't mind being my wingman for tonight?",
+      "zh": "你不介意今晚帮我搭讪、当我的僚机吧？"
+    },
+    {
+      "id": 51,
+      "start": 129.21,
+      "end": 129.91,
+      "en": "Not at all.",
+      "zh": "一点也不。"
+    },
+    {
+      "id": 52,
+      "start": 130.41,
+      "end": 131.05,
+      "en": "It'll be fun.",
+      "zh": "这会很有趣。"
+    },
+    {
+      "id": 53,
+      "start": 131.73,
+      "end": 133.07,
+      "en": "It will be like a boys' night out.",
+      "zh": "就当是哥们儿一起出去玩一晚。"
+    },
+    {
+      "id": 54,
+      "start": 133.88,
+      "end": 135.4,
+      "en": "Well, kind of.",
+      "zh": "嗯，有点。"
+    },
+    {
+      "id": 55,
+      "start": 135.4,
+      "end": 136.4,
+      "en": "Great.",
+      "zh": "太好了。"
+    },
+    {
+      "id": 56,
+      "start": 136.4,
+      "end": 137.03,
+      "en": "I must warn you, though.",
+      "zh": "不过，我必须警告你。"
+    },
+    {
+      "id": 57,
+      "start": 137.48,
+      "end": 140.25,
+      "en": "Whatever happens, don't let me go on a drinking binge.",
+      "zh": "无论发生什么，都不要让我酗酒。"
+    },
+    {
+      "id": 58,
+      "start": 141.04,
+      "end": 142.57,
+      "en": "Trust me, it's not a pretty picture.",
+      "zh": "相信我，我喝多了可不好看。"
+    },
+    {
+      "id": 59,
+      "start": 149.22,
+      "end": 150.06,
+      "en": "All righty, we're back.",
+      "zh": "好吧，我们回来了。"
+    },
+    {
+      "id": 60,
+      "start": 150.32,
+      "end": 152.5,
+      "en": "So yeah, I guess he's very homesick.",
+      "zh": "所以，是的，我猜他很想家。"
+    },
+    {
+      "id": 61,
+      "start": 152.5,
+      "end": 152.94,
+      "en": "Very homesick.",
+      "zh": "很想家。"
+    },
+    {
+      "id": 62,
+      "start": 153.5,
+      "end": 154.42,
+      "en": "And his friend is really worried.",
+      "zh": "他的朋友真的很担心。"
+    },
+    {
+      "id": 63,
+      "start": 155.04,
+      "end": 156.04,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 64,
+      "start": 156.04,
+      "end": 157.44,
+      "en": "But actually, I think this is common, right?",
+      "zh": "但实际上，我认为这很常见，对吧？"
+    },
+    {
+      "id": 65,
+      "start": 157.64,
+      "end": 160.72,
+      "en": "To be homesick during the holidays, like Christmas, for example.",
+      "zh": "例如，在假期想家，比如圣诞节。"
+    },
+    {
+      "id": 66,
+      "start": 160.72,
+      "end": 168.84,
+      "en": "Oh, man, it's the worst during the holidays because you think of all the traditions and all the things that you normally do at home and you're not doing them.",
+      "zh": "哦，伙计，这是假期期间最糟糕的，因为你想到了所有你通常在家里做的传统和所有事情，而你没有做这些事情。"
+    },
+    {
+      "id": 67,
+      "start": 169.44,
+      "end": 172.52,
+      "en": "So this is something we're going to talk more about a little bit later on.",
+      "zh": "所以这是我们稍后会更多地讨论的事情。"
+    },
+    {
+      "id": 68,
+      "start": 172.8,
+      "end": 176.3,
+      "en": "But let's take a look at some of the language that was used in Language Takeaway.",
+      "zh": "但是让我们来看看一些在语言外卖中使用的语言。"
+    },
+    {
+      "id": 69,
+      "start": 178.17,
+      "end": 178.99,
+      "en": "Language Takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 70,
+      "start": 180.15,
+      "end": 182.37,
+      "en": "This first one is key, right?",
+      "zh": "第一个是关键，对吧？"
+    },
+    {
+      "id": 71,
+      "start": 182.65,
+      "end": 187.89,
+      "en": "So when you move away from home or when you move to a new place, you have a period of adjustment.",
+      "zh": "因此，当您离开家乡或搬到新地方时，您有一段调整时间。"
+    },
+    {
+      "id": 72,
+      "start": 188.28,
+      "end": 195.34,
+      "en": "So adjustment is kind of finding the right balance or doing something so that you can kind of feel comfortable.",
+      "zh": "所以调整是找到合适的平衡或做某事，这样你就可以感到舒适。"
+    },
+    {
+      "id": 73,
+      "start": 195.34,
+      "end": 199.74,
+      "en": "OK, so you have to adjust to your new life, life away from home.",
+      "zh": "好吧，所以你必须适应你的新生活，远离家乡的生活。"
+    },
+    {
+      "id": 74,
+      "start": 199.74,
+      "end": 200.31,
+      "en": "Or your new environment.",
+      "zh": "或者你的新环境。"
+    },
+    {
+      "id": 75,
+      "start": 200.61,
+      "end": 204.88,
+      "en": "So many times people say, wow, moving to China must be a big adjustment.",
+      "zh": "很多时候人们说，哇，搬到中国一定是一个很大的调整。"
+    },
+    {
+      "id": 76,
+      "start": 205.08,
+      "end": 210.56,
+      "en": "So it means there's so many differences that it must take a long time to feel comfortable again.",
+      "zh": "所以这意味着有很多差异，需要很长时间才能再次感到舒适。"
+    },
+    {
+      "id": 77,
+      "start": 210.56,
+      "end": 211.56,
+      "en": "OK.",
+      "zh": "好的。"
+    },
+    {
+      "id": 78,
+      "start": 211.56,
+      "end": 212.56,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 79,
+      "start": 212.56,
+      "end": 213.56,
+      "en": "So that's adjustment.",
+      "zh": "所以这是调整。"
+    },
+    {
+      "id": 80,
+      "start": 213.56,
+      "end": 214.56,
+      "en": "What else do we have?",
+      "zh": "我们还有什么？"
+    },
+    {
+      "id": 81,
+      "start": 214.56,
+      "end": 218.38,
+      "en": "Well, we've got this next phrase that's really important, I think, but often gets overlooked.",
+      "zh": "好吧，我认为我们有下一个非常重要的短语，但经常被忽视。"
+    },
+    {
+      "id": 82,
+      "start": 218.96,
+      "end": 221.48,
+      "en": "We say the comforts of home, right?",
+      "zh": "我们说家的舒适，对吧？"
+    },
+    {
+      "id": 83,
+      "start": 221.6,
+      "end": 222.34,
+      "en": "Comforts of home.",
+      "zh": "家的舒适。"
+    },
+    {
+      "id": 84,
+      "start": 222.66,
+      "end": 224.14,
+      "en": "So comfort's pretty easy, right?",
+      "zh": "所以舒适很容易，对吧？"
+    },
+    {
+      "id": 85,
+      "start": 224.68,
+      "end": 225.68,
+      "en": "Feeling comfortable.",
+      "zh": "感觉很舒服。"
+    },
+    {
+      "id": 86,
+      "start": 225.68,
+      "end": 226.84,
+      "en": "So you have comfort.",
+      "zh": "所以你有安慰。"
+    },
+    {
+      "id": 87,
+      "start": 226.84,
+      "end": 230.6,
+      "en": "But the comforts of home are things that are different with every person.",
+      "zh": "但家的舒适是每个人都不同的东西。"
+    },
+    {
+      "id": 88,
+      "start": 231.22,
+      "end": 236.68,
+      "en": "But those are things that you have at your home or your childhood home or your parents' home that make you feel good and feel happy.",
+      "zh": "但这些是您在家中或童年之家或父母家中拥有的东西，让您感觉良好并感到快乐。"
+    },
+    {
+      "id": 89,
+      "start": 237.12,
+      "end": 239.82,
+      "en": "So they're not only physical things or objects, right?",
+      "zh": "所以它们不仅仅是物理的东西或物体，对吧？"
+    },
+    {
+      "id": 90,
+      "start": 240.24,
+      "end": 244.12,
+      "en": "They can be like your mom's cooking or maybe even just spending time with your family.",
+      "zh": "它们可以像你妈妈的烹饪，甚至可能只是与家人共度时光。"
+    },
+    {
+      "id": 91,
+      "start": 244.48,
+      "end": 249.04,
+      "en": "Right, or reading the newspaper with your dad or things that you're used to that you don't have anymore.",
+      "zh": "对，或者和你爸爸一起看报纸或你习惯的东西，你不再拥有的东西。"
+    },
+    {
+      "id": 92,
+      "start": 249.68,
+      "end": 251.04,
+      "en": "And so those are the comforts of home.",
+      "zh": "所以这些是家的舒适。"
+    },
+    {
+      "id": 93,
+      "start": 251.16,
+      "end": 254.04,
+      "en": "I could say, Marco, do you miss the comforts of home in Ecuador?",
+      "zh": "我可以说，马可，你想念厄瓜多尔家的舒适吗？"
+    },
+    {
+      "id": 94,
+      "start": 254.04,
+      "end": 257.08,
+      "en": "I mean, do you have anything that's really...",
+      "zh": "我的意思是，你有什么真的吗..."
+    },
+    {
+      "id": 95,
+      "start": 257.08,
+      "end": 257.72,
+      "en": "Of course, of course.",
+      "zh": "当然，当然。"
+    },
+    {
+      "id": 96,
+      "start": 258.08,
+      "end": 265.52,
+      "en": "I think one of the main things is actually not living in the city because I used to live in the valley a little bit further away and kind of almost countryside.",
+      "zh": "我认为主要的事情之一实际上不是住在城市里，因为我以前住在山谷里，有点像乡村。"
+    },
+    {
+      "id": 97,
+      "start": 265.52,
+      "end": 268.28,
+      "en": "So that's one of the comforts of home that I miss.",
+      "zh": "所以这是我想念的家的舒适之一。"
+    },
+    {
+      "id": 98,
+      "start": 268.28,
+      "end": 271.08,
+      "en": "Oh, you're making me nostalgic and I've never even been.",
+      "zh": "哦，你让我怀旧，我从来没有。"
+    },
+    {
+      "id": 99,
+      "start": 271.24,
+      "end": 271.72,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 100,
+      "start": 272.08,
+      "end": 273.04,
+      "en": "Well, this is our next word, actually.",
+      "zh": "好吧，实际上，这是我们的下一个词。"
+    },
+    {
+      "id": 101,
+      "start": 273.72,
+      "end": 274.72,
+      "en": "Right, nostalgic.",
+      "zh": "对，怀旧。"
+    },
+    {
+      "id": 102,
+      "start": 274.72,
+      "end": 275.02,
+      "en": "Nostalgic.",
+      "zh": "怀旧。"
+    },
+    {
+      "id": 103,
+      "start": 275.16,
+      "end": 275.54,
+      "en": "It's a feeling.",
+      "zh": "这是一种感觉。"
+    },
+    {
+      "id": 104,
+      "start": 275.7,
+      "end": 278.34,
+      "en": "I'm feeling nostalgic or he's just really nostalgic.",
+      "zh": "我感到怀旧，或者他只是真的很怀旧。"
+    },
+    {
+      "id": 105,
+      "start": 279.32,
+      "end": 287.14,
+      "en": "And so to be nostalgic is to kind of think about a time before or think positively about something that you experienced before.",
+      "zh": "因此，怀旧是某种思考以前的时间或积极思考你以前经历过的事情。"
+    },
+    {
+      "id": 106,
+      "start": 287.14,
+      "end": 288.91,
+      "en": "So it's not usually a bad thing.",
+      "zh": "所以这通常不是一件坏事。"
+    },
+    {
+      "id": 107,
+      "start": 289.19,
+      "end": 289.95,
+      "en": "It's never a bad thing.",
+      "zh": "这从来都不是一件坏事。"
+    },
+    {
+      "id": 108,
+      "start": 290.15,
+      "end": 293.89,
+      "en": "Nostalgia is a good, warm, fond memory of something.",
+      "zh": "怀旧是对某事的美好、温暖、美好的回忆。"
+    },
+    {
+      "id": 109,
+      "start": 294.07,
+      "end": 295.15,
+      "en": "Of something from your past.",
+      "zh": "你过去的东西。"
+    },
+    {
+      "id": 110,
+      "start": 295.49,
+      "end": 304.59,
+      "en": "So you start thinking of something from your past that maybe brings nice, warm feelings, maybe a little bit sad because you miss those times, but it's usually thinking about the past.",
+      "zh": "所以你开始思考你过去的一些事情，可能会带来美好、温暖的感觉，也许有点悲伤，因为你错过了那些时光，但它通常会思考过去。"
+    },
+    {
+      "id": 111,
+      "start": 305.4,
+      "end": 306.4,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 112,
+      "start": 306.4,
+      "end": 307.4,
+      "en": "So I have nostalgia for my childhood.",
+      "zh": "所以我怀念我的童年。"
+    },
+    {
+      "id": 113,
+      "start": 307.4,
+      "end": 317.2,
+      "en": "I loved, you know, summers in Chicago when it was hot and the kids would play in the sprinkler and I had my dog and you know, it's a happy feeling.",
+      "zh": "我喜欢，你知道，在芝加哥炎热的时候，孩子们会在洒水器里玩耍，我有我的狗，你知道，这是一种快乐的感觉。"
+    },
+    {
+      "id": 114,
+      "start": 317.2,
+      "end": 317.36,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 115,
+      "start": 317.62,
+      "end": 320.36,
+      "en": "So nostalgia would be the noun and nostalgic would be the adjective.",
+      "zh": "所以怀旧将是名词，怀旧将是形容词。"
+    },
+    {
+      "id": 116,
+      "start": 320.84,
+      "end": 321.84,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 117,
+      "start": 321.84,
+      "end": 322.84,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 118,
+      "start": 322.84,
+      "end": 326.55,
+      "en": "And our last word for today on Language Takeaway is bummed out.",
+      "zh": "我们今天在语言外卖方面的最后一个字是失败的。"
+    },
+    {
+      "id": 119,
+      "start": 327.6,
+      "end": 327.85,
+      "en": "Bummed out.",
+      "zh": "崩溃了。"
+    },
+    {
+      "id": 120,
+      "start": 328.6,
+      "end": 328.83,
+      "en": "I'm bummed out.",
+      "zh": "我很沮丧。"
+    },
+    {
+      "id": 121,
+      "start": 329.6,
+      "end": 330.15,
+      "en": "We've got another feeling here.",
+      "zh": "我们在这里有另一种感觉。"
+    },
+    {
+      "id": 122,
+      "start": 330.6,
+      "end": 331.71,
+      "en": "So we're all full of feelings today.",
+      "zh": "所以我们今天都充满了感情。"
+    },
+    {
+      "id": 123,
+      "start": 332.52,
+      "end": 333.81,
+      "en": "Bummed out is a sad feeling.",
+      "zh": "心烦意乱是一种悲伤的感觉。"
+    },
+    {
+      "id": 124,
+      "start": 334.24,
+      "end": 338.27,
+      "en": "So to be bummed is kind of slang and it means to be sad.",
+      "zh": "所以被遗憾是一种俚语，它意味着悲伤。"
+    },
+    {
+      "id": 125,
+      "start": 338.73,
+      "end": 339.07,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 126,
+      "start": 339.27,
+      "end": 339.77,
+      "en": "Or disappointed.",
+      "zh": "或失望。"
+    },
+    {
+      "id": 127,
+      "start": 340.84,
+      "end": 341.84,
+      "en": "Disappointed.",
+      "zh": "失望。"
+    },
+    {
+      "id": 128,
+      "start": 341.84,
+      "end": 344.36,
+      "en": "So you come into the office, Marco, and you look a little tired.",
+      "zh": "所以你走进办公室，马可，你看起来有点累。"
+    },
+    {
+      "id": 129,
+      "start": 344.36,
+      "end": 345.36,
+      "en": "I said, are you okay?",
+      "zh": "我说，你还好吗？"
+    },
+    {
+      "id": 130,
+      "start": 345.39,
+      "end": 346.45,
+      "en": "Are you bummed out about something?",
+      "zh": "你对某事感到沮丧吗？"
+    },
+    {
+      "id": 131,
+      "start": 347.13,
+      "end": 350.9,
+      "en": "I can say, yeah, I lost my wallet last night so I'm really bummed out.",
+      "zh": "我可以说，是的，我昨晚丢了钱包，所以我真的很沮丧。"
+    },
+    {
+      "id": 132,
+      "start": 351.36,
+      "end": 353.2,
+      "en": "Or something like that.",
+      "zh": "或者类似的东西。"
+    },
+    {
+      "id": 133,
+      "start": 353.2,
+      "end": 356.14,
+      "en": "So yeah, you feel bummed out when something bad or sad happens.",
+      "zh": "所以，是的，当发生不好的或悲伤的事情时，你会感到沮丧。"
+    },
+    {
+      "id": 134,
+      "start": 356.72,
+      "end": 357.72,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 135,
+      "start": 357.72,
+      "end": 358.72,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 136,
+      "start": 358.72,
+      "end": 362.74,
+      "en": "So let's move on now to a couple of different phrases on Fluency Builder.",
+      "zh": "因此，让我们现在继续讨论 Fluency Builder 上的几个不同短语。"
+    },
+    {
+      "id": 137,
+      "start": 365.24,
+      "end": 365.54,
+      "en": "Fluency Builder.",
+      "zh": "流利表达。"
+    },
+    {
+      "id": 138,
+      "start": 366.35,
+      "end": 366.83,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 139,
+      "start": 367.24,
+      "end": 370.29,
+      "en": "This first one is something that you often say to old friends or family.",
+      "zh": "第一个是您经常对老朋友或家人说的话。"
+    },
+    {
+      "id": 140,
+      "start": 370.88,
+      "end": 374.51,
+      "en": "You know, when you're friends with someone, they go through periods of happiness and sadness.",
+      "zh": "你知道，当你和某人成为朋友时，他们会经历幸福和悲伤的时期。"
+    },
+    {
+      "id": 141,
+      "start": 374.92,
+      "end": 379.51,
+      "en": "And so when someone's going through a down period again, you say, oh, we've been through this already.",
+      "zh": "所以当有人再次经历一段低谷时，你说，哦，我们已经经历了这一切。"
+    },
+    {
+      "id": 142,
+      "start": 379.96,
+      "end": 381.05,
+      "en": "We've been through this already.",
+      "zh": "我们已经经历了这一切。"
+    },
+    {
+      "id": 143,
+      "start": 381.8,
+      "end": 386.59,
+      "en": "Or you know, when you're giving someone advice and they never take your advice, you say, listen, we've been through this already.",
+      "zh": "或者你知道，当你给某人建议而他们从不接受你的建议时，你说，听着，我们已经经历过了。"
+    },
+    {
+      "id": 144,
+      "start": 386.88,
+      "end": 390.12,
+      "en": "You should know by now that I and then, you know, whatever the advice is.",
+      "zh": "你现在应该知道我然后，你知道，不管有什么建议。"
+    },
+    {
+      "id": 145,
+      "start": 390.13,
+      "end": 395.95,
+      "en": "So this has happened before or we have experienced this before or we already solved this problem or situation.",
+      "zh": "所以这以前发生过，或者我们以前经历过，或者我们已经解决了这个问题或情况。"
+    },
+    {
+      "id": 146,
+      "start": 396.65,
+      "end": 396.79,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 147,
+      "start": 397.52,
+      "end": 404.57,
+      "en": "You could imagine two bank robbers who are going over their plan for the 10th time and then one says to the other, hey, we've been through this already.",
+      "zh": "你可以想象两名银行劫匪第 10 次审查他们的计划，然后对另一位说，嘿，我们已经经历过了。"
+    },
+    {
+      "id": 148,
+      "start": 404.76,
+      "end": 406.53,
+      "en": "You should know the plan by now.",
+      "zh": "你现在应该知道这个计划了。"
+    },
+    {
+      "id": 149,
+      "start": 406.84,
+      "end": 407.03,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 150,
+      "start": 407.84,
+      "end": 408.84,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 151,
+      "start": 408.84,
+      "end": 409.47,
+      "en": "So we've been through this already.",
+      "zh": "所以我们已经经历了这一切。"
+    },
+    {
+      "id": 152,
+      "start": 410.44,
+      "end": 412.25,
+      "en": "They were talking about the adjustments and everything.",
+      "zh": "他们在谈论调整和一切。"
+    },
+    {
+      "id": 153,
+      "start": 412.84,
+      "end": 414.61,
+      "en": "And then what other phrase did they use?",
+      "zh": "然后他们还使用了什么其他短语？"
+    },
+    {
+      "id": 154,
+      "start": 415.03,
+      "end": 423.05,
+      "en": "Well, the next couple of phrases have to do with the friend's suggestions because she has a lot of ideas to cheer her friend up, the depressed one.",
+      "zh": "好吧，接下来的几个短语与朋友的建议有关，因为她有很多想法可以让她的朋友振作起来，抑郁的人。"
+    },
+    {
+      "id": 155,
+      "start": 423.43,
+      "end": 426.6,
+      "en": "And the first thing she says is, hey, let's hit the dance club.",
+      "zh": "她说的第一句话是，嘿，让我们去舞蹈俱乐部吧。"
+    },
+    {
+      "id": 156,
+      "start": 427.02,
+      "end": 430.02,
+      "en": "Okay, let's hit the dance club or let's hit the dance floor tonight.",
+      "zh": "好吧，让我们去舞蹈俱乐部，或者让我们今晚去舞池。"
+    },
+    {
+      "id": 157,
+      "start": 430.28,
+      "end": 431.28,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 158,
+      "start": 431.28,
+      "end": 433.04,
+      "en": "So hit in this case doesn't mean like hit.",
+      "zh": "所以在这种情况下命中并不意味着像命中一样。"
+    },
+    {
+      "id": 159,
+      "start": 433.04,
+      "end": 435.32,
+      "en": "It doesn't mean you're punching someone.",
+      "zh": "这并不意味着你在打人。"
+    },
+    {
+      "id": 160,
+      "start": 435.32,
+      "end": 436.98,
+      "en": "It means to go to or to do.",
+      "zh": "它的意思是去或做。"
+    },
+    {
+      "id": 161,
+      "start": 437.34,
+      "end": 437.7,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 162,
+      "start": 437.94,
+      "end": 439.92,
+      "en": "So we can say, let's go to the dance club tonight.",
+      "zh": "所以我们可以说，今晚我们去舞蹈俱乐部吧。"
+    },
+    {
+      "id": 163,
+      "start": 440.08,
+      "end": 441.18,
+      "en": "Let's hit the dance club.",
+      "zh": "让我们去舞蹈俱乐部。"
+    },
+    {
+      "id": 164,
+      "start": 441.4,
+      "end": 441.68,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 165,
+      "start": 442.32,
+      "end": 442.78,
+      "en": "It doesn't have to be a dance club.",
+      "zh": "它不一定是舞蹈俱乐部。"
+    },
+    {
+      "id": 166,
+      "start": 443.32,
+      "end": 444.36,
+      "en": "But let's hit that concert tonight.",
+      "zh": "但是，让我们今晚去那场音乐会。"
+    },
+    {
+      "id": 167,
+      "start": 444.72,
+      "end": 445.86,
+      "en": "I really want to go there.",
+      "zh": "我真的很想去那里。"
+    },
+    {
+      "id": 168,
+      "start": 446.16,
+      "end": 447.16,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 169,
+      "start": 447.16,
+      "end": 448.52,
+      "en": "So you can hit pretty much any place, right?",
+      "zh": "所以你几乎可以在任何地方击中，对吧？"
+    },
+    {
+      "id": 170,
+      "start": 449.32,
+      "end": 450.32,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 171,
+      "start": 450.32,
+      "end": 452.64,
+      "en": "And this is a very kind of spoken language.",
+      "zh": "这是一种非常口头的语言。"
+    },
+    {
+      "id": 172,
+      "start": 452.84,
+      "end": 457.16,
+      "en": "So you wouldn't say this in your essays, but it's a good way to talk about plans with friends.",
+      "zh": "所以你不会在你的论文中这么说，但这是与朋友谈论计划的好方法。"
+    },
+    {
+      "id": 173,
+      "start": 457.8,
+      "end": 458.8,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 174,
+      "start": 458.8,
+      "end": 463.78,
+      "en": "And our next word actually is kind of interesting because it's very colloquial and it's a wingman.",
+      "zh": "我们的下一个词实际上很有趣，因为它非常口语化，而且是僚机。"
+    },
+    {
+      "id": 175,
+      "start": 464.62,
+      "end": 465.84,
+      "en": "I can be your wingman tonight.",
+      "zh": "今晚我可以成为你的僚机。"
+    },
+    {
+      "id": 176,
+      "start": 466.42,
+      "end": 470.46,
+      "en": "So wingman, you have to think about wing meaning side, not like a bird's wing.",
+      "zh": "所以翼人，你要想着翅膀的意思，而不是像鸟的翅膀。"
+    },
+    {
+      "id": 177,
+      "start": 470.7,
+      "end": 483.52,
+      "en": "So a wing means side and a wingman is a guy who will go with you to a bar or a club to kind of help you find a date or a girl or someone to talk to.",
+      "zh": "所以翼意味着一方，一个翼手是一个和你一起去酒吧或俱乐部的人，以帮助你找到一个约会对象、一个女孩或一个可以交谈的人。"
+    },
+    {
+      "id": 178,
+      "start": 483.52,
+      "end": 484.52,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 179,
+      "start": 484.52,
+      "end": 495.28,
+      "en": "So this person, this wingman usually keeps you company and helps you decide maybe what girl to talk to or maybe even introduces you to someone at a club or at a restaurant or a bar or whatever.",
+      "zh": "所以这个人，这个僚机通常会陪伴你，并帮助你决定与哪个女孩交谈，甚至可能将你介绍给俱乐部、餐厅或酒吧或其他任何地方的人。"
+    },
+    {
+      "id": 180,
+      "start": 495.8,
+      "end": 498.62,
+      "en": "And, you know, the key is that people don't like to go alone to bars, right?",
+      "zh": "而且，你知道，关键是人们不喜欢一个人去酒吧，对吧？"
+    },
+    {
+      "id": 181,
+      "start": 498.82,
+      "end": 501.72,
+      "en": "Because you feel sad and then you look weird because you're all alone.",
+      "zh": "因为你感到悲伤，然后你看起来很奇怪，因为你一个人。"
+    },
+    {
+      "id": 182,
+      "start": 502.28,
+      "end": 503.56,
+      "en": "And the same is true for girls.",
+      "zh": "女孩也是如此。"
+    },
+    {
+      "id": 183,
+      "start": 504.36,
+      "end": 510.08,
+      "en": "And so if a guy wants to go to a bar and he sees two girls, well, he has to have a friend to talk to the other girl.",
+      "zh": "所以如果一个男人想去酒吧，他看到两个女孩，好吧，他必须有一个朋友来和另一个女孩说话。"
+    },
+    {
+      "id": 184,
+      "start": 510.08,
+      "end": 511.8,
+      "en": "So wingman also helps in that sense.",
+      "zh": "所以Wingman在这个意义上也有帮助。"
+    },
+    {
+      "id": 185,
+      "start": 511.8,
+      "end": 513.38,
+      "en": "He helps balance things.",
+      "zh": "他帮助平衡事物。"
+    },
+    {
+      "id": 186,
+      "start": 513.82,
+      "end": 514.0,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 187,
+      "start": 514.56,
+      "end": 516.36,
+      "en": "So there's a whole science behind the wingman.",
+      "zh": "于是，这位翼手背后有一整套科学。"
+    },
+    {
+      "id": 188,
+      "start": 516.36,
+      "end": 519.98,
+      "en": "I'm sure if you look it up on Wikipedia, you'll find 10 pages of information.",
+      "zh": "我敢肯定，如果您在维基百科上查找它，您会找到 10 页的信息。"
+    },
+    {
+      "id": 189,
+      "start": 520.52,
+      "end": 520.92,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 190,
+      "start": 520.98,
+      "end": 525.96,
+      "en": "So since they are going out tonight, they said it could be boys night out.",
+      "zh": "所以因为他们今晚要出去，他们说这可能是男孩之夜。"
+    },
+    {
+      "id": 191,
+      "start": 526.4,
+      "end": 526.78,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 192,
+      "start": 527.32,
+      "end": 532.62,
+      "en": "And this is another phrase you hear all the time, especially among young people, boys night out and girls night out.",
+      "zh": "这是你一直听到的另一个短语，尤其是在年轻人、男孩之夜和女孩之夜。"
+    },
+    {
+      "id": 193,
+      "start": 532.62,
+      "end": 539.08,
+      "en": "And so, you know, sometimes you spend a lot of time with your husband or your wife or your boyfriend or girlfriend and you just want to have some time with your friends.",
+      "zh": "所以，你知道，有时你会花很多时间和你的丈夫、你的妻子或你的男朋友或女朋友在一起，你只是想和你的朋友有一些时间。"
+    },
+    {
+      "id": 194,
+      "start": 539.08,
+      "end": 541.68,
+      "en": "And so you call this girls night for me, girls night out.",
+      "zh": "所以你为我称这个女孩之夜，女孩之夜。"
+    },
+    {
+      "id": 195,
+      "start": 541.68,
+      "end": 542.96,
+      "en": "You just go out and you do girl things.",
+      "zh": "你只是出去，你做女孩的事情。"
+    },
+    {
+      "id": 196,
+      "start": 543.42,
+      "end": 544.68,
+      "en": "Guys night out, you do other things.",
+      "zh": "伙计们晚上出去，你做其他事情。"
+    },
+    {
+      "id": 197,
+      "start": 545.84,
+      "end": 548.3,
+      "en": "And so in this case, it's girls only or guys only.",
+      "zh": "所以在这种情况下，它只是女孩或只有男孩。"
+    },
+    {
+      "id": 198,
+      "start": 548.3,
+      "end": 549.6,
+      "en": "Boys night out is only guys.",
+      "zh": "男孩之夜只是男人。"
+    },
+    {
+      "id": 199,
+      "start": 549.6,
+      "end": 549.97,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 200,
+      "start": 550.6,
+      "end": 554.68,
+      "en": "And that's why this is funny because it's the girl who says, hey, let's have boys night out.",
+      "zh": "这就是为什么这很有趣，因为是女孩说，嘿，让我们有男孩之夜。"
+    },
+    {
+      "id": 201,
+      "start": 554.68,
+      "end": 555.68,
+      "en": "And she's not really a boy.",
+      "zh": "而且她不是一个真正的男孩。"
+    },
+    {
+      "id": 202,
+      "start": 555.89,
+      "end": 556.65,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 203,
+      "start": 556.65,
+      "end": 557.01,
+      "en": "Great.",
+      "zh": "太好了。"
+    },
+    {
+      "id": 204,
+      "start": 557.73,
+      "end": 563.77,
+      "en": "And well, he agreed to go out and everything, but he warned her about him going on a drinking binge.",
+      "zh": "好吧，他同意出去和一切，但他警告她他会酗酒。"
+    },
+    {
+      "id": 205,
+      "start": 564.52,
+      "end": 565.52,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 206,
+      "start": 565.52,
+      "end": 566.52,
+      "en": "Now, this is important.",
+      "zh": "现在，这很重要。"
+    },
+    {
+      "id": 207,
+      "start": 566.52,
+      "end": 569.4,
+      "en": "A lot of people who are depressed or sad when they drink, they drink a lot.",
+      "zh": "很多人在喝酒时感到沮丧或悲伤，他们喝了很多。"
+    },
+    {
+      "id": 208,
+      "start": 569.4,
+      "end": 573.37,
+      "en": "And so binge means to do something in excess, to do it too much.",
+      "zh": "所以暴饮暴食意味着做一些多余的事情，做太多的事情。"
+    },
+    {
+      "id": 209,
+      "start": 573.77,
+      "end": 574.05,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 210,
+      "start": 574.76,
+      "end": 578.44,
+      "en": "So a drinking binge would be drinking alcohol in excess, too much.",
+      "zh": "因此，饮酒狂饮会过量饮酒。"
+    },
+    {
+      "id": 211,
+      "start": 578.44,
+      "end": 578.57,
+      "en": "Too much.",
+      "zh": "太多了。"
+    },
+    {
+      "id": 212,
+      "start": 579.44,
+      "end": 579.75,
+      "en": "So getting drunk right away.",
+      "zh": "所以马上喝醉。"
+    },
+    {
+      "id": 213,
+      "start": 580.44,
+      "end": 583.52,
+      "en": "And it's not healthy and we do not condone it.",
+      "zh": "它不健康，我们不宽恕它。"
+    },
+    {
+      "id": 214,
+      "start": 583.52,
+      "end": 584.52,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 215,
+      "start": 584.52,
+      "end": 585.52,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 216,
+      "start": 585.52,
+      "end": 586.52,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 217,
+      "start": 586.52,
+      "end": 588.56,
+      "en": "So we're going to stop with the phrases in this dialogue today.",
+      "zh": "所以我们将停止今天这次对话中的短语。"
+    },
+    {
+      "id": 218,
+      "start": 588.62,
+      "end": 591.51,
+      "en": "I think we should listen to it one more time and we'll be right back.",
+      "zh": "我想我们应该再听一遍，我们会马上回来的。"
+    },
+    {
+      "id": 219,
+      "start": 593.52,
+      "end": 600.76,
+      "en": "Tom, how are you?",
+      "zh": "汤姆，你好吗？"
+    },
+    {
+      "id": 220,
+      "start": 601.63,
+      "end": 603.13,
+      "en": "Hey, we missed you at the party last night.",
+      "zh": "嘿，你昨晚没来聚会，大家都惦记着你呢。"
+    },
+    {
+      "id": 221,
+      "start": 603.25,
+      "end": 603.69,
+      "en": "Are you okay?",
+      "zh": "你还好吗？"
+    },
+    {
+      "id": 222,
+      "start": 604.37,
+      "end": 605.21,
+      "en": "I don't know.",
+      "zh": "我不知道。"
+    },
+    {
+      "id": 223,
+      "start": 605.83,
+      "end": 607.37,
+      "en": "I didn't really feel like going out.",
+      "zh": "我真的不想出去。"
+    },
+    {
+      "id": 224,
+      "start": 607.88,
+      "end": 609.74,
+      "en": "I guess I'm feeling a little homesick.",
+      "zh": "我想我有点想家了。"
+    },
+    {
+      "id": 225,
+      "start": 610.12,
+      "end": 610.54,
+      "en": "Come on.",
+      "zh": "来吧。"
+    },
+    {
+      "id": 226,
+      "start": 611.0,
+      "end": 612.16,
+      "en": "We've been through this already.",
+      "zh": "我们已经经历了这一切。"
+    },
+    {
+      "id": 227,
+      "start": 612.56,
+      "end": 615.32,
+      "en": "Look, I know the adjustment was hard when you first got here.",
+      "zh": "看，我知道你第一次来这里时调整很困难。"
+    },
+    {
+      "id": 228,
+      "start": 615.58,
+      "end": 617.9,
+      "en": "But we agree that you're going to try and deal with it.",
+      "zh": "但我们同意您将尝试处理它。"
+    },
+    {
+      "id": 229,
+      "start": 618.44,
+      "end": 619.2,
+      "en": "I was.",
+      "zh": "我是。"
+    },
+    {
+      "id": 230,
+      "start": 619.72,
+      "end": 624.86,
+      "en": "It's just that the holidays are coming up and I won't be able to go home because I can't afford the airfare.",
+      "zh": "只是假期快到了，我不能回家，因为我买不起机票。"
+    },
+    {
+      "id": 231,
+      "start": 625.34,
+      "end": 630.92,
+      "en": "I'm just longing for some of the comforts of home, like my mom's cooking and being around my family.",
+      "zh": "我只是渴望一些家的舒适，比如我妈妈的烹饪和我的家人。"
+    },
+    {
+      "id": 232,
+      "start": 631.55,
+      "end": 634.27,
+      "en": "Yeah, it can get pretty lonely over the holidays.",
+      "zh": "是的，假期里会很孤独。"
+    },
+    {
+      "id": 233,
+      "start": 634.89,
+      "end": 639.33,
+      "en": "When I first got here, I'd get depressed and nostalgic for anything that reminded me of home.",
+      "zh": "当我第一次来到这里时，我会感到沮丧和怀念任何让我想起家园的事情。"
+    },
+    {
+      "id": 234,
+      "start": 640.05,
+      "end": 643.27,
+      "en": "I almost let it get to me, but then I started going out, keeping myself busy.",
+      "zh": "我差点就被这种情绪压垮了，后来开始出去活动，让自己忙起来。"
+    },
+    {
+      "id": 235,
+      "start": 643.43,
+      "end": 645.15,
+      "en": "And before I knew it, I was used to it.",
+      "zh": "不知不觉就适应了。"
+    },
+    {
+      "id": 236,
+      "start": 645.63,
+      "end": 646.85,
+      "en": "I see what you mean.",
+      "zh": "我明白你的意思。"
+    },
+    {
+      "id": 237,
+      "start": 647.27,
+      "end": 648.77,
+      "en": "But I'm still bummed out.",
+      "zh": "但我还是很沮丧。"
+    },
+    {
+      "id": 238,
+      "start": 649.41,
+      "end": 651.01,
+      "en": "Okay, how does this sound?",
+      "zh": "好吧，这听起来怎么样？"
+    },
+    {
+      "id": 239,
+      "start": 651.53,
+      "end": 654.03,
+      "en": "Let's get you suited up and hit the dance club tonight.",
+      "zh": "今晚好好打扮一下，咱们去夜店跳舞。"
+    },
+    {
+      "id": 240,
+      "start": 654.67,
+      "end": 659.23,
+      "en": "I hear that an awesome DJ is playing and there will be a lot of pretty single girls there.",
+      "zh": "我听说一个很棒的 DJ 正在演奏，那里会有很多漂亮的单身女孩。"
+    },
+    {
+      "id": 241,
+      "start": 659.71,
+      "end": 661.87,
+      "en": "You know, I could really go for that.",
+      "zh": "你知道，我真的可以去做。"
+    },
+    {
+      "id": 242,
+      "start": 662.47,
+      "end": 664.77,
+      "en": "You don't mind being my wingman for tonight?",
+      "zh": "你不介意今晚帮我搭讪、当我的僚机吧？"
+    },
+    {
+      "id": 243,
+      "start": 665.23,
+      "end": 665.85,
+      "en": "Not at all.",
+      "zh": "一点也不。"
+    },
+    {
+      "id": 244,
+      "start": 666.37,
+      "end": 667.01,
+      "en": "It'll be fun.",
+      "zh": "这会很有趣。"
+    },
+    {
+      "id": 245,
+      "start": 667.63,
+      "end": 669.03,
+      "en": "It will be like a boys' night out.",
+      "zh": "就当是哥们儿一起出去玩一晚。"
+    },
+    {
+      "id": 246,
+      "start": 669.76,
+      "end": 671.32,
+      "en": "Well, kind of.",
+      "zh": "嗯，有点。"
+    },
+    {
+      "id": 247,
+      "start": 671.32,
+      "end": 672.32,
+      "en": "Great.",
+      "zh": "太好了。"
+    },
+    {
+      "id": 248,
+      "start": 672.32,
+      "end": 676.21,
+      "en": "I must warn you, though, whatever happens, don't let me go on a drinking binge.",
+      "zh": "不过，我必须警告你，无论发生什么，不要让我酗酒。"
+    },
+    {
+      "id": 249,
+      "start": 677.0,
+      "end": 678.53,
+      "en": "Trust me, it's not a pretty picture.",
+      "zh": "相信我，我喝多了可不好看。"
+    },
+    {
+      "id": 250,
+      "start": 686.92,
+      "end": 687.74,
+      "en": "All right, we're back.",
+      "zh": "好了，我们回来了。"
+    },
+    {
+      "id": 251,
+      "start": 688.0,
+      "end": 693.06,
+      "en": "So speaking of homesick and holidays, do you actually get very depressed or homesick during Christmas?",
+      "zh": "所以说到想家和假期，你真的在圣诞节时非常沮丧或想家吗？"
+    },
+    {
+      "id": 252,
+      "start": 693.76,
+      "end": 694.32,
+      "en": "I do.",
+      "zh": "会的。"
+    },
+    {
+      "id": 253,
+      "start": 695.38,
+      "end": 701.32,
+      "en": "Well, my family has a lot of Christmas traditions that are just really kind of wonderful and we do them every single year.",
+      "zh": "好吧，我的家人有很多圣诞节传统，这些传统非常棒，我们每年都会这样做。"
+    },
+    {
+      "id": 254,
+      "start": 701.96,
+      "end": 707.0,
+      "en": "And so the first time I spent Christmas away, I was living in Italy and it was kind of similar.",
+      "zh": "所以我第一次在圣诞节度过时，我住在意大利，这有点相似。"
+    },
+    {
+      "id": 255,
+      "start": 707.0,
+      "end": 708.8,
+      "en": "But then the second time was when I was living in China.",
+      "zh": "但第二次是我住在中国的时候。"
+    },
+    {
+      "id": 256,
+      "start": 709.8,
+      "end": 711.1,
+      "en": "And China was just not the same.",
+      "zh": "而中国只是不一样。"
+    },
+    {
+      "id": 257,
+      "start": 711.44,
+      "end": 712.94,
+      "en": "No oven, so no Christmas cookies.",
+      "zh": "没有烤箱，所以没有圣诞饼干。"
+    },
+    {
+      "id": 258,
+      "start": 714.16,
+      "end": 718.0,
+      "en": "And no granny who, you know, pours vodka and eats meatballs.",
+      "zh": "你知道，没有奶奶倒伏特加和吃肉丸。"
+    },
+    {
+      "id": 259,
+      "start": 718.0,
+      "end": 719.95,
+      "en": "And like my mom not running around the kitchen.",
+      "zh": "就像我妈妈没有在厨房里跑来跑去一样。"
+    },
+    {
+      "id": 260,
+      "start": 720.76,
+      "end": 723.36,
+      "en": "You feel lonely and then all of a sudden you get a phone call.",
+      "zh": "你感到孤独，然后突然你接到一个电话。"
+    },
+    {
+      "id": 261,
+      "start": 723.36,
+      "end": 731.79,
+      "en": "And it's the entire family and they're all together eating, having an amazing Christmas and they think it's going to help you feel less homesick, but it makes you feel more homesick.",
+      "zh": "这是整个家庭，他们都一起吃饭，度过了一个美妙的圣诞节，他们认为这会帮助你感觉不那么想家，但它会让你感到更想家。"
+    },
+    {
+      "id": 262,
+      "start": 733.0,
+      "end": 737.44,
+      "en": "So you definitely have nostalgia for those days during the holidays.",
+      "zh": "所以你肯定会怀念假期里的那些日子。"
+    },
+    {
+      "id": 263,
+      "start": 737.44,
+      "end": 738.92,
+      "en": "But what about you?",
+      "zh": "但是你呢？"
+    },
+    {
+      "id": 264,
+      "start": 738.92,
+      "end": 745.99,
+      "en": "I rarely get homesick, but yeah, sometimes during Christmas or New Year's, New Year's we usually have more unique traditions in Ecuador.",
+      "zh": "我很少想家，但是，有时在圣诞节或新年期间，我们通常在厄瓜多尔有更多独特的传统。"
+    },
+    {
+      "id": 265,
+      "start": 746.8,
+      "end": 747.77,
+      "en": "So it's very fun.",
+      "zh": "所以这很有趣。"
+    },
+    {
+      "id": 266,
+      "start": 748.0,
+      "end": 750.73,
+      "en": "The family gets together, we dance, we eat.",
+      "zh": "一家人聚在一起，我们跳舞，我们吃饭。"
+    },
+    {
+      "id": 267,
+      "start": 751.52,
+      "end": 756.2,
+      "en": "So but yeah, I've been away from home so long that I rarely get homesick anymore.",
+      "zh": "所以，但是，是的，我已经离开家很久了，以至于我很少想家了。"
+    },
+    {
+      "id": 268,
+      "start": 756.2,
+      "end": 758.15,
+      "en": "But it's great to go back and spend time with the family.",
+      "zh": "但很高兴能回去和家人共度时光。"
+    },
+    {
+      "id": 269,
+      "start": 758.43,
+      "end": 763.91,
+      "en": "So after my visit to Ecuador, then I might get homesick for a little while, but then it goes away.",
+      "zh": "所以在我访问厄瓜多尔之后，我可能会想家一会儿，但后来它就消失了。"
+    },
+    {
+      "id": 270,
+      "start": 764.56,
+      "end": 765.56,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 271,
+      "start": 765.56,
+      "end": 766.6,
+      "en": "Well, you guys should tell us.",
+      "zh": "好吧，你们应该告诉我们。"
+    },
+    {
+      "id": 272,
+      "start": 766.6,
+      "end": 767.72,
+      "en": "Do you ever feel homesick?",
+      "zh": "你有没有想家的感觉？"
+    },
+    {
+      "id": 273,
+      "start": 767.8,
+      "end": 770.0,
+      "en": "And if you do, what do you feel homesick about?",
+      "zh": "如果你这样做了，你会觉得想家什么？"
+    },
+    {
+      "id": 274,
+      "start": 770.0,
+      "end": 770.44,
+      "en": "What do you miss?",
+      "zh": "你想念什么？"
+    },
+    {
+      "id": 275,
+      "start": 771.24,
+      "end": 774.48,
+      "en": "Maybe mom's cooking, maybe family, maybe the comforts of home.",
+      "zh": "也许妈妈在做饭，也许是家人，也许是家里的舒适。"
+    },
+    {
+      "id": 276,
+      "start": 774.48,
+      "end": 776.88,
+      "en": "Yeah, so we're curious to hear your answers.",
+      "zh": "是的，所以我们很想听听你的回答。"
+    },
+    {
+      "id": 277,
+      "start": 776.88,
+      "end": 778.84,
+      "en": "We have a website, EnglishPod.com.",
+      "zh": "我们有一个网站，englishpod.com。"
+    },
+    {
+      "id": 278,
+      "start": 778.84,
+      "end": 780.3,
+      "en": "You can of course also leave us questions.",
+      "zh": "你当然也可以给我们留问题。"
+    },
+    {
+      "id": 279,
+      "start": 781.06,
+      "end": 782.18,
+      "en": "We're happy to answer those.",
+      "zh": "我们很乐意回答这些问题。"
+    },
+    {
+      "id": 280,
+      "start": 782.5,
+      "end": 783.52,
+      "en": "And until next time, everyone.",
+      "zh": "直到下一次，大家。"
+    },
+    {
+      "id": 281,
+      "start": 783.88,
+      "end": 784.2,
+      "en": "Bye bye.",
+      "zh": "拜拜。"
+    }
+  ],
+  "dialog": {
+    "start": 59.44,
+    "end": 142.57,
+    "segmentIds": [
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58
+    ]
+  }
+}

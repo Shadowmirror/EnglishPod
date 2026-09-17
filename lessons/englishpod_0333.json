@@ -1,0 +1,1978 @@
+{
+  "version": 1,
+  "id": 333,
+  "number": "0333",
+  "title": "Global View - Human Anatmoy",
+  "audio": "mp3/333. Global View - Human Anatmoy.mp3",
+  "duration": 844.4604375,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 3.2,
+      "en": "Hello everyone and welcome to English Odd.",
+      "zh": "大家好，欢迎来到英语奇数。"
+    },
+    {
+      "id": 2,
+      "start": 3.2,
+      "end": 4.2,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 4.2,
+      "end": 8.05,
+      "en": "My name is Catherine and today we're talking about the human body, right Marco?",
+      "zh": "我的名字是凯瑟琳，今天我们谈论的是人体，对吧，马可？"
+    },
+    {
+      "id": 4,
+      "start": 8.48,
+      "end": 9.48,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 5,
+      "start": 9.48,
+      "end": 16.35,
+      "en": "Today we are going to take a look at very specific vocabulary words related to your body, what's inside your body.",
+      "zh": "今天我们来看看与你的身体有关的非常具体的词汇，你的身体里有什么。"
+    },
+    {
+      "id": 6,
+      "start": 17.0,
+      "end": 19.17,
+      "en": "So let's just jump right into this dialogue.",
+      "zh": "所以让我们直接跳入这个对话。"
+    },
+    {
+      "id": 7,
+      "start": 19.55,
+      "end": 21.39,
+      "en": "Let's listen to this anatomy class.",
+      "zh": "让我们听听这门解剖课。"
+    },
+    {
+      "id": 8,
+      "start": 28.04,
+      "end": 31.6,
+      "en": "Okay class, so today we're going to continue with our anatomy class.",
+      "zh": "好了，同学们，今天我们继续上解剖课。"
+    },
+    {
+      "id": 9,
+      "start": 32.1,
+      "end": 34.02,
+      "en": "Today we will review everything we have learned.",
+      "zh": "今天我们来复习已经学过的内容。"
+    },
+    {
+      "id": 10,
+      "start": 34.42,
+      "end": 36.66,
+      "en": "Can anyone tell me what the first major organ is?",
+      "zh": "谁能说出人体第一个重要器官？"
+    },
+    {
+      "id": 11,
+      "start": 36.98,
+      "end": 37.36,
+      "en": "The brain.",
+      "zh": "大脑。"
+    },
+    {
+      "id": 12,
+      "start": 37.72,
+      "end": 38.68,
+      "en": "That's right, the brain.",
+      "zh": "对，大脑。"
+    },
+    {
+      "id": 13,
+      "start": 39.1,
+      "end": 44.58,
+      "en": "It serves as a control center for the body, handling the processes of the central nervous system as well as cognition.",
+      "zh": "大脑是身体的控制中心，负责中枢神经系统的活动以及认知功能。"
+    },
+    {
+      "id": 14,
+      "start": 45.32,
+      "end": 46.88,
+      "en": "Then what major organ is in our chest?",
+      "zh": "那胸腔里有什么重要器官？"
+    },
+    {
+      "id": 15,
+      "start": 47.36,
+      "end": 47.56,
+      "en": "The heart.",
+      "zh": "心脏。"
+    },
+    {
+      "id": 16,
+      "start": 47.98,
+      "end": 48.58,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 17,
+      "start": 49.0,
+      "end": 53.96,
+      "en": "It pumps blood throughout the body using the circulatory system such as blood vessels and veins.",
+      "zh": "心脏通过血管组成的循环系统，将血液泵送到全身。"
+    },
+    {
+      "id": 18,
+      "start": 54.62,
+      "end": 59.12,
+      "en": "Now let's not forget that our lungs provide oxygen to our heart and body to keep us alive.",
+      "zh": "别忘了，肺为心脏和全身提供维持生命所需的氧气。"
+    },
+    {
+      "id": 19,
+      "start": 59.88,
+      "end": 62.3,
+      "en": "Now what about the organs that help us digest food?",
+      "zh": "帮助消化食物的器官又有哪些？"
+    },
+    {
+      "id": 20,
+      "start": 62.6,
+      "end": 64.18,
+      "en": "The stomach and intestines.",
+      "zh": "胃和肠道！"
+    },
+    {
+      "id": 21,
+      "start": 64.26,
+      "end": 64.94,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 22,
+      "start": 65.2,
+      "end": 71.78,
+      "en": "Let's not forget that the stomach is the one that breaks down our food and our intestines process the food and then expel the waste.",
+      "zh": "胃负责分解食物，肠道进一步处理并排出废物。"
+    },
+    {
+      "id": 23,
+      "start": 72.36,
+      "end": 73.18,
+      "en": "Are we forgetting anything?",
+      "zh": "还有什么没提到吗？"
+    },
+    {
+      "id": 24,
+      "start": 73.74,
+      "end": 76.24,
+      "en": "Yeah, our kidneys, liver and bladder.",
+      "zh": "有，肾脏、肝脏和膀胱！"
+    },
+    {
+      "id": 25,
+      "start": 76.94,
+      "end": 77.98,
+      "en": "Oh yes, you are right.",
+      "zh": "哦，对，你说得对。"
+    },
+    {
+      "id": 26,
+      "start": 78.68,
+      "end": 80.52,
+      "en": "Very important organs indeed.",
+      "zh": "它们确实都是重要器官。"
+    },
+    {
+      "id": 27,
+      "start": 80.52,
+      "end": 82.38,
+      "en": "So what do these organs do, teacher?",
+      "zh": "老师，那这些器官有什么作用呢？"
+    },
+    {
+      "id": 28,
+      "start": 83.4,
+      "end": 84.99,
+      "en": "Well, they…",
+      "zh": "嗯，它们……"
+    },
+    {
+      "id": 29,
+      "start": 85.92,
+      "end": 86.49,
+      "en": "Time for a break.",
+      "zh": "先休息一下！"
+    },
+    {
+      "id": 30,
+      "start": 87.04,
+      "end": 88.35,
+      "en": "We can talk about it when you get back.",
+      "zh": "等你们回来再说。"
+    },
+    {
+      "id": 31,
+      "start": 89.12,
+      "end": 92.84,
+      "en": "All right, we're back.",
+      "zh": "好了，我们回来了。"
+    },
+    {
+      "id": 32,
+      "start": 92.85,
+      "end": 95.21,
+      "en": "So now let's take a look at some vocab on Language Takeaway.",
+      "zh": "所以现在让我们来看看一些关于语言外卖的词汇。"
+    },
+    {
+      "id": 33,
+      "start": 97.61,
+      "end": 98.83,
+      "en": "Language Takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 34,
+      "start": 100.4,
+      "end": 103.16,
+      "en": "So the first word we have today is anatomy.",
+      "zh": "所以我们今天的第一个词是解剖学。"
+    },
+    {
+      "id": 35,
+      "start": 103.72,
+      "end": 104.44,
+      "en": "We've heard this already.",
+      "zh": "我们已经听说过了。"
+    },
+    {
+      "id": 36,
+      "start": 104.7,
+      "end": 107.42,
+      "en": "This is the study of the body, right?",
+      "zh": "这是对身体的研究，对吧？"
+    },
+    {
+      "id": 37,
+      "start": 107.88,
+      "end": 108.24,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 38,
+      "start": 108.44,
+      "end": 111.74,
+      "en": "So maybe in high school you took an anatomy class.",
+      "zh": "所以也许在高中你上过解剖课。"
+    },
+    {
+      "id": 39,
+      "start": 112.04,
+      "end": 114.5,
+      "en": "You studied the bodies maybe of animals, for example.",
+      "zh": "例如，您研究了动物的身体。"
+    },
+    {
+      "id": 40,
+      "start": 114.84,
+      "end": 115.2,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 41,
+      "start": 116.0,
+      "end": 125.8,
+      "en": "But if we're talking about human beings, we would call it human anatomy and we would study the things like your organs, your bones, all the things that make up your body.",
+      "zh": "但如果我们谈论的是人类，我们会称之为人体解剖学，我们会研究你的器官、骨骼以及构成你身体的所有东西。"
+    },
+    {
+      "id": 42,
+      "start": 125.8,
+      "end": 125.97,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 43,
+      "start": 126.8,
+      "end": 128.12,
+      "en": "And that's our next word.",
+      "zh": "这是我们的下一个词。"
+    },
+    {
+      "id": 44,
+      "start": 128.12,
+      "end": 129.87,
+      "en": "We're talking about our body organs.",
+      "zh": "我们在谈论我们的身体器官。"
+    },
+    {
+      "id": 45,
+      "start": 130.53,
+      "end": 131.63,
+      "en": "Now this is important.",
+      "zh": "现在这很重要。"
+    },
+    {
+      "id": 46,
+      "start": 131.85,
+      "end": 133.05,
+      "en": "Where are these located, Marco?",
+      "zh": "这些在哪里，马可？"
+    },
+    {
+      "id": 47,
+      "start": 133.23,
+      "end": 133.87,
+      "en": "Inside or outside?",
+      "zh": "里面还是外面？"
+    },
+    {
+      "id": 48,
+      "start": 134.25,
+      "end": 134.37,
+      "en": "Inside.",
+      "zh": "里面。"
+    },
+    {
+      "id": 49,
+      "start": 135.48,
+      "end": 136.48,
+      "en": "Inside the body.",
+      "zh": "体内。"
+    },
+    {
+      "id": 50,
+      "start": 136.48,
+      "end": 141.53,
+      "en": "So the body has many different organs and we learned all about these in today's dialogue.",
+      "zh": "所以身体有许多不同的器官，我们在今天的对话中了解了所有这些。"
+    },
+    {
+      "id": 51,
+      "start": 141.76,
+      "end": 143.55,
+      "en": "But an organ is basically a part.",
+      "zh": "但器官基本上是一部分。"
+    },
+    {
+      "id": 52,
+      "start": 144.64,
+      "end": 145.49,
+      "en": "A part of your body.",
+      "zh": "你身体的一部分。"
+    },
+    {
+      "id": 53,
+      "start": 145.64,
+      "end": 147.35,
+      "en": "But it has a special function or many functions.",
+      "zh": "但它有一个特殊的功能或许多功能。"
+    },
+    {
+      "id": 54,
+      "start": 147.85,
+      "end": 148.35,
+      "en": "Yeah, that's right.",
+      "zh": "对，没错。"
+    },
+    {
+      "id": 55,
+      "start": 148.65,
+      "end": 150.23,
+      "en": "So for example, we talked about the heart.",
+      "zh": "例如，我们谈到了心。"
+    },
+    {
+      "id": 56,
+      "start": 150.67,
+      "end": 155.57,
+      "en": "We all know what the heart is and it's one of our main organs that pumps blood through our body.",
+      "zh": "我们都知道心脏是什么，它是我们的主要器官之一，将血液泵送到我们的身体。"
+    },
+    {
+      "id": 57,
+      "start": 155.89,
+      "end": 156.41,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 58,
+      "start": 157.24,
+      "end": 161.4,
+      "en": "And so some of these organs have to do with processing food.",
+      "zh": "因此，其中一些器官与加工食品有关。"
+    },
+    {
+      "id": 59,
+      "start": 161.4,
+      "end": 162.39,
+      "en": "Some have to do with blood.",
+      "zh": "有些与血有关。"
+    },
+    {
+      "id": 60,
+      "start": 163.01,
+      "end": 167.39,
+      "en": "But there's also an interesting system that we heard about called the central nervous system.",
+      "zh": "但我们听说过一个有趣的系统，叫做中枢神经系统。"
+    },
+    {
+      "id": 61,
+      "start": 167.79,
+      "end": 168.23,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 62,
+      "start": 168.41,
+      "end": 170.51,
+      "en": "And this is very closely related to the brain.",
+      "zh": "这与大脑非常密切相关。"
+    },
+    {
+      "id": 63,
+      "start": 171.05,
+      "end": 176.97,
+      "en": "So basically the nervous system is in charge of all the things that you feel in your body.",
+      "zh": "所以基本上神经系统负责你身体里的所有感觉。"
+    },
+    {
+      "id": 64,
+      "start": 177.29,
+      "end": 177.67,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 65,
+      "start": 177.85,
+      "end": 187.25,
+      "en": "So you feel through what are called nerves and the central nervous system is actually a system that connects all these things together and then connects it to the brain.",
+      "zh": "所以你通过所谓的神经来感受，中枢神经系统实际上是一个将所有这些东西连接在一起然后将其连接到大脑的系统。"
+    },
+    {
+      "id": 66,
+      "start": 187.59,
+      "end": 192.06,
+      "en": "So think of a system as being comprised of many different parts, not just one nerve.",
+      "zh": "因此，将一个系统视为由许多不同的部分组成，而不仅仅是一根神经。"
+    },
+    {
+      "id": 67,
+      "start": 192.48,
+      "end": 192.86,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 68,
+      "start": 193.72,
+      "end": 202.24,
+      "en": "So we're talking about, for example, your skin is part of the nervous system, your eyes, what you see, and all this gets fed into the brain and it processes it.",
+      "zh": "所以我们说的是，例如，你的皮肤是神经系统的一部分，你的眼睛，你所看到的，所有这些都被送入大脑并处理它。"
+    },
+    {
+      "id": 69,
+      "start": 202.24,
+      "end": 204.96,
+      "en": "And that's what basically the nervous system is all about.",
+      "zh": "这就是神经系统的全部意义所在。"
+    },
+    {
+      "id": 70,
+      "start": 205.44,
+      "end": 205.56,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 71,
+      "start": 206.44,
+      "end": 207.76,
+      "en": "And the brain is also important for other things.",
+      "zh": "大脑对其他事情也很重要。"
+    },
+    {
+      "id": 72,
+      "start": 207.78,
+      "end": 210.36,
+      "en": "We heard about this noun cognition.",
+      "zh": "我们听说过这种名词认知。"
+    },
+    {
+      "id": 73,
+      "start": 210.84,
+      "end": 211.84,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 74,
+      "start": 211.84,
+      "end": 217.68,
+      "en": "The doctor said, yeah, the teacher said that cognition was one of the other things that the brain helped us with.",
+      "zh": "医生说，是的，老师说认知是大脑帮助我们的其他事情之一。"
+    },
+    {
+      "id": 75,
+      "start": 217.68,
+      "end": 219.96,
+      "en": "So what exactly is cognition?",
+      "zh": "那么究竟什么是认知呢？"
+    },
+    {
+      "id": 76,
+      "start": 220.84,
+      "end": 222.2,
+      "en": "Cognition is the ability to think.",
+      "zh": "认知是思考的能力。"
+    },
+    {
+      "id": 77,
+      "start": 222.64,
+      "end": 223.64,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 78,
+      "start": 223.68,
+      "end": 224.94,
+      "en": "So humans have cognition.",
+      "zh": "所以人类有认知。"
+    },
+    {
+      "id": 79,
+      "start": 225.32,
+      "end": 230.8,
+      "en": "That means we have brains and our brains allow us to think and even talk and write music and things like that.",
+      "zh": "这意味着我们有大脑，我们的大脑让我们可以思考甚至谈论和写音乐之类的东西。"
+    },
+    {
+      "id": 80,
+      "start": 230.8,
+      "end": 233.54,
+      "en": "But for example, a rock does not have cognition.",
+      "zh": "但例如，一块石头没有认知。"
+    },
+    {
+      "id": 81,
+      "start": 234.56,
+      "end": 242.74,
+      "en": "A plant would not have cognition either because they don't have this special organ, the brain that allows them to think.",
+      "zh": "植物也不会有认知，因为它们没有这种特殊的器官，即让它们思考的大脑。"
+    },
+    {
+      "id": 82,
+      "start": 243.17,
+      "end": 243.49,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 83,
+      "start": 243.67,
+      "end": 244.71,
+      "en": "So it's a noun, right?",
+      "zh": "所以这是一个名词，对吧？"
+    },
+    {
+      "id": 84,
+      "start": 245.28,
+      "end": 248.76,
+      "en": "You're saying that we have cognition because we have brains.",
+      "zh": "你说我们有认知是因为我们有大脑。"
+    },
+    {
+      "id": 85,
+      "start": 248.76,
+      "end": 248.93,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 86,
+      "start": 249.76,
+      "end": 250.76,
+      "en": "You have it.",
+      "zh": "你有它。"
+    },
+    {
+      "id": 87,
+      "start": 250.76,
+      "end": 251.76,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 88,
+      "start": 251.76,
+      "end": 255.11,
+      "en": "So those are the four words that we're going to take a look at to introduce the lesson.",
+      "zh": "所以这些是我们将要看的四个词来介绍这个课程。"
+    },
+    {
+      "id": 89,
+      "start": 255.72,
+      "end": 258.43,
+      "en": "Why don't we move on now to more specific vocab?",
+      "zh": "为什么我们现在不继续使用更具体的词汇？"
+    },
+    {
+      "id": 90,
+      "start": 258.72,
+      "end": 265.76,
+      "en": "Let's take a look at some of the main organs that we discussed in this dialogue on Language Takeaway Part 2.",
+      "zh": "让我们来看看我们在关于语言外卖第二部分的对话中讨论的一些主要器官。"
+    },
+    {
+      "id": 91,
+      "start": 270.3,
+      "end": 271.06,
+      "en": "Okay, class.",
+      "zh": "好吧，上课。"
+    },
+    {
+      "id": 92,
+      "start": 271.4,
+      "end": 273.84,
+      "en": "So today we're going to continue with our anatomy class.",
+      "zh": "所以今天我们将继续我们的解剖课。"
+    },
+    {
+      "id": 93,
+      "start": 274.64,
+      "end": 276.28,
+      "en": "Today we will review everything we have learned.",
+      "zh": "今天我们来复习已经学过的内容。"
+    },
+    {
+      "id": 94,
+      "start": 276.76,
+      "end": 278.9,
+      "en": "Can anyone tell me what the first major organ is?",
+      "zh": "谁能说出人体第一个重要器官？"
+    },
+    {
+      "id": 95,
+      "start": 279.36,
+      "end": 279.62,
+      "en": "The brain.",
+      "zh": "大脑。"
+    },
+    {
+      "id": 96,
+      "start": 280.36,
+      "end": 281.36,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 97,
+      "start": 281.36,
+      "end": 282.36,
+      "en": "The brain.",
+      "zh": "大脑。"
+    },
+    {
+      "id": 98,
+      "start": 282.36,
+      "end": 286.84,
+      "en": "It serves as a control center for the body, handling the processes of the central nervous system as well as cognition.",
+      "zh": "大脑是身体的控制中心，负责中枢神经系统的活动以及认知功能。"
+    },
+    {
+      "id": 99,
+      "start": 287.72,
+      "end": 289.14,
+      "en": "Then what major organ is in our chest?",
+      "zh": "那胸腔里有什么重要器官？"
+    },
+    {
+      "id": 100,
+      "start": 289.6,
+      "end": 289.82,
+      "en": "The heart.",
+      "zh": "心脏。"
+    },
+    {
+      "id": 101,
+      "start": 290.22,
+      "end": 290.86,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 102,
+      "start": 291.26,
+      "end": 296.22,
+      "en": "It pumps blood throughout the body using the circulatory system such as blood vessels and veins.",
+      "zh": "心脏通过血管组成的循环系统，将血液泵送到全身。"
+    },
+    {
+      "id": 103,
+      "start": 296.88,
+      "end": 301.38,
+      "en": "Now, let's not forget that our lungs provide oxygen to our heart and body to keep us alive.",
+      "zh": "现在，我们不要忘记，我们的肺为我们的心脏和身体提供氧气，让我们保持生命。"
+    },
+    {
+      "id": 104,
+      "start": 302.12,
+      "end": 304.54,
+      "en": "Now what about the organs that help us digest food?",
+      "zh": "帮助消化食物的器官又有哪些？"
+    },
+    {
+      "id": 105,
+      "start": 304.86,
+      "end": 306.44,
+      "en": "The stomach and intestines.",
+      "zh": "胃和肠道！"
+    },
+    {
+      "id": 106,
+      "start": 306.52,
+      "end": 307.2,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 107,
+      "start": 307.46,
+      "end": 314.04,
+      "en": "Let's not forget that the stomach is the one that breaks down our food and our intestines process the food and then expel the waste.",
+      "zh": "胃负责分解食物，肠道进一步处理并排出废物。"
+    },
+    {
+      "id": 108,
+      "start": 314.62,
+      "end": 315.44,
+      "en": "Are we forgetting anything?",
+      "zh": "还有什么没提到吗？"
+    },
+    {
+      "id": 109,
+      "start": 315.98,
+      "end": 316.14,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 110,
+      "start": 316.74,
+      "end": 318.5,
+      "en": "Our kidneys, liver, and bladder.",
+      "zh": "我们的肾脏、肝脏和膀胱。"
+    },
+    {
+      "id": 111,
+      "start": 319.2,
+      "end": 319.54,
+      "en": "Oh, yes.",
+      "zh": "哦，是的。"
+    },
+    {
+      "id": 112,
+      "start": 319.88,
+      "end": 320.24,
+      "en": "You are right.",
+      "zh": "您对了。"
+    },
+    {
+      "id": 113,
+      "start": 320.92,
+      "end": 322.72,
+      "en": "Very important organs indeed.",
+      "zh": "它们确实都是重要器官。"
+    },
+    {
+      "id": 114,
+      "start": 322.72,
+      "end": 324.64,
+      "en": "So what do these organs do, teacher?",
+      "zh": "老师，那这些器官有什么作用呢？"
+    },
+    {
+      "id": 115,
+      "start": 325.64,
+      "end": 327.29,
+      "en": "Well, they...",
+      "zh": "嗯，他们..."
+    },
+    {
+      "id": 116,
+      "start": 328.16,
+      "end": 328.77,
+      "en": "Time for a break.",
+      "zh": "先休息一下！"
+    },
+    {
+      "id": 117,
+      "start": 329.29,
+      "end": 330.63,
+      "en": "We can talk about it when you get back.",
+      "zh": "等你们回来再说。"
+    },
+    {
+      "id": 118,
+      "start": 333.68,
+      "end": 335.68,
+      "en": "So we're moving down the body.",
+      "zh": "所以我们正在向下移动身体。"
+    },
+    {
+      "id": 119,
+      "start": 336.0,
+      "end": 338.92,
+      "en": "We had the brain and we mentioned the stomach.",
+      "zh": "我们有大脑，我们提到了胃。"
+    },
+    {
+      "id": 120,
+      "start": 338.92,
+      "end": 342.54,
+      "en": "We had the brain and then the heart, of course, which pumps blood like you say, Marco.",
+      "zh": "当然，我们有大脑，然后是心脏，就像你说的那样，它泵送血液，马可。"
+    },
+    {
+      "id": 121,
+      "start": 343.22,
+      "end": 345.92,
+      "en": "But the next item, the next organ is the stomach.",
+      "zh": "但下一个项目，下一个器官是胃。"
+    },
+    {
+      "id": 122,
+      "start": 346.3,
+      "end": 346.66,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 123,
+      "start": 346.9,
+      "end": 352.54,
+      "en": "So we get to the stomach and the intestines, which are very closely bound together.",
+      "zh": "所以我们到达胃和肠，它们非常紧密地结合在一起。"
+    },
+    {
+      "id": 124,
+      "start": 352.86,
+      "end": 354.62,
+      "en": "So what does the stomach do first?",
+      "zh": "那么胃首先是做什么的呢？"
+    },
+    {
+      "id": 125,
+      "start": 355.06,
+      "end": 364.81,
+      "en": "First of all, when you eat food, the food is sent to your stomach where your stomach breaks it down and decides what parts to keep and what parts to save, right?",
+      "zh": "首先，当你吃食物时，食物会被送到你的胃里，你的胃分解它，决定保留哪些部分，保存哪些部分，对吧？"
+    },
+    {
+      "id": 126,
+      "start": 365.36,
+      "end": 366.36,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 127,
+      "start": 366.36,
+      "end": 369.33,
+      "en": "And the interesting thing is that in our stomachs, we have what we call acid.",
+      "zh": "有趣的是，在我们的胃里，我们有我们所说的酸。"
+    },
+    {
+      "id": 128,
+      "start": 369.77,
+      "end": 369.95,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 129,
+      "start": 369.99,
+      "end": 378.05,
+      "en": "So these acids break down those foods because it all gets mixed together in there and your body has to determine what exactly you've been eating.",
+      "zh": "所以这些酸分解了这些食物，因为它们都混合在那里，你的身体必须确定你一直在吃什么。"
+    },
+    {
+      "id": 130,
+      "start": 378.41,
+      "end": 378.71,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 131,
+      "start": 378.91,
+      "end": 379.23,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 132,
+      "start": 380.8,
+      "end": 391.08,
+      "en": "So after the stomach breaks things down, it goes through the intestines and also the intestines are very important and they're very long, but they're all wound up inside our stomach.",
+      "zh": "所以在胃分解后，它会穿过肠道，肠道也很重要，而且很长，但它们都被塞进了我们的胃里。"
+    },
+    {
+      "id": 133,
+      "start": 391.08,
+      "end": 391.25,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 134,
+      "start": 392.08,
+      "end": 397.6,
+      "en": "And they kind of look like a lot of S's because they're all coiled up inside of us and they're indeed quite long.",
+      "zh": "它们看起来像很多 S，因为它们都盘绕在我们体内，而且它们确实很长。"
+    },
+    {
+      "id": 135,
+      "start": 397.6,
+      "end": 409.44,
+      "en": "But the intestines are also very, very important because they're actually what the waste or the parts of food that our bodies don't need, so they travel through to get out of our systems.",
+      "zh": "但肠道也非常非常重要，因为它们实际上是我们身体不需要的食物或食物的部分，所以它们会穿过我们的系统。"
+    },
+    {
+      "id": 136,
+      "start": 409.44,
+      "end": 409.68,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 137,
+      "start": 410.44,
+      "end": 415.4,
+      "en": "So actually the intestines will absorb part of the proteins and the vitamins and everything that we need.",
+      "zh": "所以实际上肠道会吸收部分蛋白质、维生素以及我们需要的一切。"
+    },
+    {
+      "id": 138,
+      "start": 416.0,
+      "end": 425.18,
+      "en": "And at the same time, they will also act as little tunnels that will transport the waste, the things that we don't need to have inside our body to later be able to digest.",
+      "zh": "同时，它们也将充当运输废物的小隧道，我们体内不需要的东西，以便以后能够消化。"
+    },
+    {
+      "id": 139,
+      "start": 426.36,
+      "end": 426.54,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 140,
+      "start": 427.36,
+      "end": 433.64,
+      "en": "So the stomach and the intestines, those have to do with the way that we eat, process and dispose of food.",
+      "zh": "所以胃和肠，那些与我们的饮食、加工和处置方式有关。"
+    },
+    {
+      "id": 141,
+      "start": 434.24,
+      "end": 435.22,
+      "en": "But now we have the kidneys.",
+      "zh": "但现在我们有了肾脏。"
+    },
+    {
+      "id": 142,
+      "start": 435.82,
+      "end": 435.96,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 143,
+      "start": 436.22,
+      "end": 437.46,
+      "en": "So people have two kidneys, right?",
+      "zh": "所以人们有两个肾脏，对吧？"
+    },
+    {
+      "id": 144,
+      "start": 438.03,
+      "end": 438.51,
+      "en": "Yeah, that's right.",
+      "zh": "对，没错。"
+    },
+    {
+      "id": 145,
+      "start": 438.65,
+      "end": 444.03,
+      "en": "People have two kidneys and actually you can continue living with just one kidney, right?",
+      "zh": "人们有两个肾脏，实际上你可以只用一个肾脏继续生活，对吧？"
+    },
+    {
+      "id": 146,
+      "start": 444.09,
+      "end": 444.37,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 147,
+      "start": 445.36,
+      "end": 447.99,
+      "en": "They're kind of shaped like a C almost.",
+      "zh": "它们的形状几乎像C。"
+    },
+    {
+      "id": 148,
+      "start": 448.6,
+      "end": 453.27,
+      "en": "In fact, we have something called a kidney bean in English, which is a red bean and it looks just like a kidney.",
+      "zh": "事实上，我们在英语中有一种叫做芸豆的东西，它是一种红豆，看起来就像一个肾脏。"
+    },
+    {
+      "id": 149,
+      "start": 454.16,
+      "end": 455.16,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 150,
+      "start": 455.16,
+      "end": 457.19,
+      "en": "And well, what do the kidneys do?",
+      "zh": "那么，肾脏有什么作用？"
+    },
+    {
+      "id": 151,
+      "start": 457.92,
+      "end": 460.31,
+      "en": "The kidneys from what I understand basically clean your blood.",
+      "zh": "据我所知，肾脏基本上会清洁您的血液。"
+    },
+    {
+      "id": 152,
+      "start": 461.56,
+      "end": 469.65,
+      "en": "So there's lots of things in your system, in your body, especially from the things that you eat and maybe the chemicals that you're exposed to.",
+      "zh": "所以你的系统、你的身体里有很多东西，尤其是你吃的东西，也许是你接触到的化学物质。"
+    },
+    {
+      "id": 153,
+      "start": 469.84,
+      "end": 477.11,
+      "en": "And we need our kidneys, or at least the one kidney to clean our blood and to make sure our blood is what it's supposed to be.",
+      "zh": "我们需要我们的肾脏，或者至少是一个肾脏来清洁我们的血液并确保我们的血液是它应该的样子。"
+    },
+    {
+      "id": 154,
+      "start": 477.32,
+      "end": 483.76,
+      "en": "And in fact, when the kidneys aren't working properly, it's very, very serious and we call this kidney failure, right?",
+      "zh": "事实上，当肾脏无法正常工作时，它非常非常严重，我们称之为肾衰竭，对吧？"
+    },
+    {
+      "id": 155,
+      "start": 483.76,
+      "end": 487.49,
+      "en": "So when you're watching a TV show about doctors, maybe you say, oh, he's gone into kidney failure.",
+      "zh": "所以当你看一个关于医生的电视节目时，也许你会说，哦，他已经患上了肾衰竭。"
+    },
+    {
+      "id": 156,
+      "start": 487.72,
+      "end": 488.72,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 157,
+      "start": 488.72,
+      "end": 489.81,
+      "en": "It's a big deal, very big problem.",
+      "zh": "这是一个大问题，非常大的问题。"
+    },
+    {
+      "id": 158,
+      "start": 490.49,
+      "end": 490.77,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 159,
+      "start": 491.36,
+      "end": 494.91,
+      "en": "So this is what our kidneys do, a very important part of our bodies, obviously.",
+      "zh": "所以这就是我们的肾脏所做的，显然是我们身体的一个非常重要的部分。"
+    },
+    {
+      "id": 160,
+      "start": 495.72,
+      "end": 500.69,
+      "en": "And well, as you said, they act as filters, but near the kidneys, we also have the liver.",
+      "zh": "好吧，正如你所说，它们充当过滤器，但在肾脏附近，我们也有肝脏。"
+    },
+    {
+      "id": 161,
+      "start": 501.68,
+      "end": 501.84,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 162,
+      "start": 502.68,
+      "end": 508.32,
+      "en": "And the liver is actually for some people, a delicious food, not human liver, but animal liver.",
+      "zh": "而肝脏实际上是为某些人提供的，一种美味的食物，不是人体肝脏，而是动物肝脏。"
+    },
+    {
+      "id": 163,
+      "start": 508.32,
+      "end": 509.64,
+      "en": "But in humans, we also have this organ, right?",
+      "zh": "但在人类中，我们也有这个器官，对吧？"
+    },
+    {
+      "id": 164,
+      "start": 509.64,
+      "end": 513.58,
+      "en": "And it's also closely related to people who have drinking problems.",
+      "zh": "它也与有饮酒问题的人密切相关。"
+    },
+    {
+      "id": 165,
+      "start": 513.82,
+      "end": 514.68,
+      "en": "They have bad livers.",
+      "zh": "他们的肝脏不好。"
+    },
+    {
+      "id": 166,
+      "start": 515.44,
+      "end": 516.02,
+      "en": "And why is that?",
+      "zh": "为什么会这样？"
+    },
+    {
+      "id": 167,
+      "start": 516.68,
+      "end": 519.82,
+      "en": "I think it has to do a little bit with what the liver does.",
+      "zh": "我认为它必须对肝脏的作用进行一些处理。"
+    },
+    {
+      "id": 168,
+      "start": 519.88,
+      "end": 524.2,
+      "en": "It does many different things, but alcohol, I think harms your liver, makes it weaker.",
+      "zh": "它做了很多不同的事情，但酒精，我认为会伤害你的肝脏，使它变得更弱。"
+    },
+    {
+      "id": 169,
+      "start": 524.2,
+      "end": 530.5,
+      "en": "And the liver is important because it helps to generate hormones, but it also helps us process chemicals in our body.",
+      "zh": "肝脏很重要，因为它有助于产生激素，但它也帮助我们处理体内的化学物质。"
+    },
+    {
+      "id": 170,
+      "start": 530.76,
+      "end": 530.97,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 171,
+      "start": 531.76,
+      "end": 532.47,
+      "en": "So this is really important.",
+      "zh": "所以这真的很重要。"
+    },
+    {
+      "id": 172,
+      "start": 533.12,
+      "end": 537.39,
+      "en": "Actually, why the liver is so important is because it does so much.",
+      "zh": "实际上，为什么肝脏如此重要是因为它做了这么多。"
+    },
+    {
+      "id": 173,
+      "start": 538.16,
+      "end": 541.43,
+      "en": "And well, we only got one of them, so we can't really live without it, right?",
+      "zh": "好吧，我们只有其中之一，所以没有它我们就无法真正生活，对吧？"
+    },
+    {
+      "id": 174,
+      "start": 542.08,
+      "end": 542.21,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 175,
+      "start": 543.08,
+      "end": 544.2,
+      "en": "So the liver is a very important thing.",
+      "zh": "所以肝脏是一个非常重要的事情。"
+    },
+    {
+      "id": 176,
+      "start": 544.2,
+      "end": 547.68,
+      "en": "And actually, many people now have gone through liver transplants.",
+      "zh": "实际上，现在许多人都接受了肝移植。"
+    },
+    {
+      "id": 177,
+      "start": 547.68,
+      "end": 551.95,
+      "en": "That means that their liver stops working, so they receive the liver of another person.",
+      "zh": "这意味着他们的肝脏停止工作，所以他们接受了另一个人的肝脏。"
+    },
+    {
+      "id": 178,
+      "start": 552.36,
+      "end": 552.51,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 179,
+      "start": 553.36,
+      "end": 554.36,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 180,
+      "start": 554.36,
+      "end": 556.0,
+      "en": "So you might hear that as well on TV.",
+      "zh": "所以你也可以在电视上听到这一点。"
+    },
+    {
+      "id": 181,
+      "start": 556.0,
+      "end": 564.13,
+      "en": "And the last organ that we took a look at here is the bladder, which is also very important, goes hand in hand with the kidneys.",
+      "zh": "我们在这里看到的最后一个器官是膀胱，这也很重要，与肾脏齐头并进。"
+    },
+    {
+      "id": 182,
+      "start": 565.0,
+      "end": 565.21,
+      "en": "It does.",
+      "zh": "确实密切相关。"
+    },
+    {
+      "id": 183,
+      "start": 566.0,
+      "end": 567.0,
+      "en": "It does.",
+      "zh": "确实密切相关。"
+    },
+    {
+      "id": 184,
+      "start": 567.0,
+      "end": 569.58,
+      "en": "So the bladder, you might hear someone say, I have a bad bladder.",
+      "zh": "所以膀胱，你可能会听到有人说，我的膀胱不好。"
+    },
+    {
+      "id": 185,
+      "start": 569.58,
+      "end": 572.79,
+      "en": "That means that I often have to use the bathroom to go urinate.",
+      "zh": "这意味着我经常不得不上厕所去小便。"
+    },
+    {
+      "id": 186,
+      "start": 573.88,
+      "end": 584.31,
+      "en": "Now the bladder is where liquids and also some kinds of chemicals in our bodies that we get from the food that we eat are kept until we dispose of them.",
+      "zh": "现在，膀胱是液体以及我们体内的某些化学物质，我们从我们吃的食物中获得的食物被保存下来，直到我们处理掉它们。"
+    },
+    {
+      "id": 187,
+      "start": 584.76,
+      "end": 585.76,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 188,
+      "start": 585.76,
+      "end": 586.76,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 189,
+      "start": 586.76,
+      "end": 587.76,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 190,
+      "start": 587.76,
+      "end": 593.08,
+      "en": "So actually when your bladder is full, because it gets full of liquid or urine, that's when you have to go to the bathroom.",
+      "zh": "所以实际上当你的膀胱充满时，因为它充满了液体或尿液，那是你必须去洗手间的时候。"
+    },
+    {
+      "id": 191,
+      "start": 593.08,
+      "end": 594.08,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 192,
+      "start": 594.08,
+      "end": 597.2,
+      "en": "And so pregnant women often have weaker bladders.",
+      "zh": "所以孕妇的膀胱往往较弱。"
+    },
+    {
+      "id": 193,
+      "start": 597.2,
+      "end": 600.15,
+      "en": "They feel pressure on the bladder, so it hurts and that doesn't hurt.",
+      "zh": "他们感到膀胱压力，所以很痛，也不会受伤。"
+    },
+    {
+      "id": 194,
+      "start": 600.32,
+      "end": 601.21,
+      "en": "It pushes down the bladder.",
+      "zh": "它向下推膀胱。"
+    },
+    {
+      "id": 195,
+      "start": 601.43,
+      "end": 601.85,
+      "en": "The baby does.",
+      "zh": "宝宝会的。"
+    },
+    {
+      "id": 196,
+      "start": 602.13,
+      "end": 606.63,
+      "en": "So they often have to pee very often, unlike people who are not pregnant.",
+      "zh": "所以他们经常不得不经常小便，不像没有怀孕的人。"
+    },
+    {
+      "id": 197,
+      "start": 607.24,
+      "end": 608.24,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 198,
+      "start": 608.24,
+      "end": 609.24,
+      "en": "Very, very interesting.",
+      "zh": "非常非常有趣。"
+    },
+    {
+      "id": 199,
+      "start": 609.24,
+      "end": 616.0,
+      "en": "And actually, some people say that, you know, I have a small bladder and that's why they go to the bathroom all the time, more often than others.",
+      "zh": "实际上，有些人说，你知道，我有一个小膀胱，这就是为什么他们总是去洗手间的原因，比其他人更频繁。"
+    },
+    {
+      "id": 200,
+      "start": 616.0,
+      "end": 621.21,
+      "en": "Now why don't we take a look at our dialogue for the last time and we'll be back in a bit to talk a little bit more.",
+      "zh": "现在我们为什么不看看我们最后一次的对话，我们会回来再谈一点。"
+    },
+    {
+      "id": 201,
+      "start": 627.96,
+      "end": 628.49,
+      "en": "Okay class.",
+      "zh": "好的课。"
+    },
+    {
+      "id": 202,
+      "start": 628.96,
+      "end": 631.29,
+      "en": "So today we're going to continue with our anatomy class.",
+      "zh": "所以今天我们将继续我们的解剖课。"
+    },
+    {
+      "id": 203,
+      "start": 632.08,
+      "end": 633.73,
+      "en": "Today we will review everything we have learned.",
+      "zh": "今天我们来复习已经学过的内容。"
+    },
+    {
+      "id": 204,
+      "start": 634.24,
+      "end": 636.35,
+      "en": "Can anyone tell me what the first major organ is?",
+      "zh": "谁能说出人体第一个重要器官？"
+    },
+    {
+      "id": 205,
+      "start": 636.84,
+      "end": 637.07,
+      "en": "The brain.",
+      "zh": "大脑。"
+    },
+    {
+      "id": 206,
+      "start": 637.84,
+      "end": 638.84,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 207,
+      "start": 638.84,
+      "end": 639.84,
+      "en": "The brain.",
+      "zh": "大脑。"
+    },
+    {
+      "id": 208,
+      "start": 639.84,
+      "end": 645.16,
+      "en": "The brain is the control center for the body, handling the processes of the central nervous system, as well as cognition.",
+      "zh": "大脑是身体的控制中心，处理中枢神经系统的过程以及认知。"
+    },
+    {
+      "id": 209,
+      "start": 645.16,
+      "end": 646.59,
+      "en": "Then what major organ is in our chest?",
+      "zh": "那胸腔里有什么重要器官？"
+    },
+    {
+      "id": 210,
+      "start": 647.04,
+      "end": 647.27,
+      "en": "The heart.",
+      "zh": "心脏。"
+    },
+    {
+      "id": 211,
+      "start": 647.65,
+      "end": 648.29,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 212,
+      "start": 648.69,
+      "end": 653.67,
+      "en": "It pumps blood throughout the body using the circulatory system, such as blood vessels and veins.",
+      "zh": "它使用循环系统（例如血管和静脉）将血液泵送到全身。"
+    },
+    {
+      "id": 213,
+      "start": 654.31,
+      "end": 658.83,
+      "en": "Now, let's not forget that our lungs provide oxygen to our heart and body to keep us alive.",
+      "zh": "现在，我们不要忘记，我们的肺为我们的心脏和身体提供氧气，让我们保持生命。"
+    },
+    {
+      "id": 214,
+      "start": 659.57,
+      "end": 661.99,
+      "en": "Now what about the organs that help us digest food?",
+      "zh": "帮助消化食物的器官又有哪些？"
+    },
+    {
+      "id": 215,
+      "start": 662.29,
+      "end": 663.89,
+      "en": "The stomach and intestines.",
+      "zh": "胃和肠道！"
+    },
+    {
+      "id": 216,
+      "start": 663.97,
+      "end": 664.65,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 217,
+      "start": 664.87,
+      "end": 671.47,
+      "en": "Let's not forget that the stomach is the one that breaks down our food and our intestines process the food and then expel the waste.",
+      "zh": "胃负责分解食物，肠道进一步处理并排出废物。"
+    },
+    {
+      "id": 218,
+      "start": 672.07,
+      "end": 672.87,
+      "en": "Are we forgetting anything?",
+      "zh": "还有什么没提到吗？"
+    },
+    {
+      "id": 219,
+      "start": 673.43,
+      "end": 673.57,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 220,
+      "start": 674.17,
+      "end": 675.95,
+      "en": "Our kidneys, liver and bladder.",
+      "zh": "我们的肾脏、肝脏和膀胱。"
+    },
+    {
+      "id": 221,
+      "start": 676.63,
+      "end": 677.69,
+      "en": "Oh yes, you are right.",
+      "zh": "哦，对，你说得对。"
+    },
+    {
+      "id": 222,
+      "start": 678.36,
+      "end": 680.16,
+      "en": "Very important organs indeed.",
+      "zh": "它们确实都是重要器官。"
+    },
+    {
+      "id": 223,
+      "start": 680.16,
+      "end": 682.09,
+      "en": "So what do these organs do, teacher?",
+      "zh": "老师，那这些器官有什么作用呢？"
+    },
+    {
+      "id": 224,
+      "start": 683.2,
+      "end": 684.75,
+      "en": "Well, they...",
+      "zh": "嗯，他们..."
+    },
+    {
+      "id": 225,
+      "start": 685.6,
+      "end": 686.21,
+      "en": "Time for a break.",
+      "zh": "先休息一下！"
+    },
+    {
+      "id": 226,
+      "start": 686.75,
+      "end": 688.07,
+      "en": "We can talk about it when you get back.",
+      "zh": "等你们回来再说。"
+    },
+    {
+      "id": 227,
+      "start": 691.24,
+      "end": 691.66,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 228,
+      "start": 691.8,
+      "end": 694.48,
+      "en": "So you mentioned that actually some people get liver transplants.",
+      "zh": "所以你提到实际上有些人接受了肝移植。"
+    },
+    {
+      "id": 229,
+      "start": 694.66,
+      "end": 699.38,
+      "en": "So out of all these organs, we could also have a kidney transplant, right?",
+      "zh": "所以在所有这些器官中，我们也可以进行肾移植，对吧？"
+    },
+    {
+      "id": 230,
+      "start": 699.56,
+      "end": 701.32,
+      "en": "You can donate your kidneys.",
+      "zh": "你可以捐出你的肾脏。"
+    },
+    {
+      "id": 231,
+      "start": 701.32,
+      "end": 701.66,
+      "en": "You can.",
+      "zh": "你可以。"
+    },
+    {
+      "id": 232,
+      "start": 702.32,
+      "end": 703.32,
+      "en": "You can.",
+      "zh": "你可以。"
+    },
+    {
+      "id": 233,
+      "start": 703.32,
+      "end": 704.78,
+      "en": "So obviously you can't have any kidney.",
+      "zh": "所以显然你不能有任何肾脏。"
+    },
+    {
+      "id": 234,
+      "start": 705.04,
+      "end": 708.14,
+      "en": "You actually have to have a match, someone who is the right type.",
+      "zh": "你实际上必须有一个匹配的人，一个合适的人。"
+    },
+    {
+      "id": 235,
+      "start": 708.98,
+      "end": 714.24,
+      "en": "But oftentimes they do perform these surgeries with the kidney transplant or a liver transplant.",
+      "zh": "但他们通常会通过肾移植或肝移植进行这些手术。"
+    },
+    {
+      "id": 236,
+      "start": 714.24,
+      "end": 716.4,
+      "en": "Now what about a heart transplant?",
+      "zh": "现在心脏移植呢？"
+    },
+    {
+      "id": 237,
+      "start": 716.4,
+      "end": 721.64,
+      "en": "I believe they've done tests of heart transplants and they've done a few successful ones.",
+      "zh": "我相信他们已经对心脏移植进行了测试，并且他们已经完成了一些成功的检查。"
+    },
+    {
+      "id": 238,
+      "start": 721.64,
+      "end": 729.52,
+      "en": "Sometimes they use pieces of cow or pig hearts because they have very similar genetic makeups to human beings.",
+      "zh": "有时他们使用牛或猪的心，因为它们的基因构成与人类非常相似。"
+    },
+    {
+      "id": 239,
+      "start": 729.52,
+      "end": 731.16,
+      "en": "So they can use little pieces like valves.",
+      "zh": "所以他们可以使用阀门等小部件。"
+    },
+    {
+      "id": 240,
+      "start": 731.16,
+      "end": 732.56,
+      "en": "But I really don't know.",
+      "zh": "但我真的不知道。"
+    },
+    {
+      "id": 241,
+      "start": 732.56,
+      "end": 736.88,
+      "en": "I don't think they're as common as liver or kidney.",
+      "zh": "我不认为它们像肝脏或肾脏一样常见。"
+    },
+    {
+      "id": 242,
+      "start": 736.88,
+      "end": 737.01,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 243,
+      "start": 737.88,
+      "end": 751.51,
+      "en": "And actually these organs, we don't really pay too much attention to them, but they're so very delicate and they do so many things that actually once you only begin having some problems with them, that's when you realize how important they are.",
+      "zh": "实际上，这些器官，我们并没有真正关注它们，但它们非常精致，它们做了很多事情，实际上一旦你开始对它们有一些问题，你就会意识到它们的重要性。"
+    },
+    {
+      "id": 244,
+      "start": 752.22,
+      "end": 752.37,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 245,
+      "start": 753.22,
+      "end": 758.8,
+      "en": "So it's really important to understand a little bit about how they work and also how to take care of them.",
+      "zh": "因此，了解它们的工作方式以及如何照顾它们非常重要。"
+    },
+    {
+      "id": 246,
+      "start": 758.8,
+      "end": 766.84,
+      "en": "Because obviously if you're having liver problems, you should stop drinking so much that there are some things that you can do to help protect yourself.",
+      "zh": "因为很明显，如果你有肝脏问题，你应该停止饮酒，以至于你可以做一些事情来帮助保护自己。"
+    },
+    {
+      "id": 247,
+      "start": 767.22,
+      "end": 771.82,
+      "en": "And one that we didn't mention is actually the biggest organ that they talk about is the skin.",
+      "zh": "我们没有提到的一个实际上是他们谈论的最大的器官是皮肤。"
+    },
+    {
+      "id": 248,
+      "start": 772.2,
+      "end": 773.44,
+      "en": "The skin is a big organ.",
+      "zh": "皮肤是一个大器官。"
+    },
+    {
+      "id": 249,
+      "start": 773.66,
+      "end": 774.98,
+      "en": "Also the lungs we didn't mention.",
+      "zh": "还有我们没有提到的肺。"
+    },
+    {
+      "id": 250,
+      "start": 775.18,
+      "end": 775.74,
+      "en": "Yes, the lungs.",
+      "zh": "是的，肺。"
+    },
+    {
+      "id": 251,
+      "start": 775.74,
+      "end": 776.96,
+      "en": "The lungs help us breathe.",
+      "zh": "肺帮助我们呼吸。"
+    },
+    {
+      "id": 252,
+      "start": 777.6,
+      "end": 781.6,
+      "en": "But the skin is one of the largest parts of our body.",
+      "zh": "但皮肤是我们身体最大的部位之一。"
+    },
+    {
+      "id": 253,
+      "start": 781.6,
+      "end": 783.08,
+      "en": "Yes, I didn't really know that.",
+      "zh": "是的，我真的不知道。"
+    },
+    {
+      "id": 254,
+      "start": 783.08,
+      "end": 784.68,
+      "en": "I didn't realize that.",
+      "zh": "我没有意识到这一点。"
+    },
+    {
+      "id": 255,
+      "start": 784.72,
+      "end": 786.62,
+      "en": "I wasn't very good at anatomy or biology.",
+      "zh": "我不太擅长解剖学或生物学。"
+    },
+    {
+      "id": 256,
+      "start": 787.02,
+      "end": 788.26,
+      "en": "I wasn't really into it much.",
+      "zh": "我不太喜欢它。"
+    },
+    {
+      "id": 257,
+      "start": 788.9,
+      "end": 795.43,
+      "en": "But I didn't realize that the skin is actually an organ just like the heart, the lungs, everything.",
+      "zh": "但我没有意识到皮肤实际上是一个器官，就像心脏，肺部，一切。"
+    },
+    {
+      "id": 258,
+      "start": 796.17,
+      "end": 796.57,
+      "en": "Interesting.",
+      "zh": "有意思。"
+    },
+    {
+      "id": 259,
+      "start": 797.45,
+      "end": 798.15,
+      "en": "I hadn't thought about that.",
+      "zh": "我没有想过这个。"
+    },
+    {
+      "id": 260,
+      "start": 798.88,
+      "end": 800.44,
+      "en": "It's maybe because I feel so comfortable in it.",
+      "zh": "这可能是因为我觉得很舒服。"
+    },
+    {
+      "id": 261,
+      "start": 800.44,
+      "end": 801.69,
+      "en": "I just get to see it every day.",
+      "zh": "我只是每天都能看到它。"
+    },
+    {
+      "id": 262,
+      "start": 801.92,
+      "end": 802.92,
+      "en": "Yes, and it's alive.",
+      "zh": "是的，它还活着。"
+    },
+    {
+      "id": 263,
+      "start": 802.92,
+      "end": 803.91,
+      "en": "It actually breathes.",
+      "zh": "它实际上呼吸。"
+    },
+    {
+      "id": 264,
+      "start": 804.59,
+      "end": 806.25,
+      "en": "We're changing skin all the time.",
+      "zh": "我们一直在改变皮肤。"
+    },
+    {
+      "id": 265,
+      "start": 806.41,
+      "end": 807.15,
+      "en": "So it's very interesting.",
+      "zh": "所以这很有意思。"
+    },
+    {
+      "id": 266,
+      "start": 808.25,
+      "end": 816.11,
+      "en": "So a very medical related topic but very interesting as well because we didn't touch so many other parts of the body.",
+      "zh": "所以一个非常与医学相关的话题，但也很有趣，因为我们没有接触到身体的许多其他部位。"
+    },
+    {
+      "id": 267,
+      "start": 816.4,
+      "end": 817.4,
+      "en": "For example, bones.",
+      "zh": "例如，骨头。"
+    },
+    {
+      "id": 268,
+      "start": 817.51,
+      "end": 819.71,
+      "en": "There are so many names of the different bones.",
+      "zh": "不同骨头的名字有很多。"
+    },
+    {
+      "id": 269,
+      "start": 820.27,
+      "end": 820.53,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 270,
+      "start": 820.73,
+      "end": 823.75,
+      "en": "And your tongue and your teeth and your eyes, all these different pieces and parts.",
+      "zh": "还有你的舌头、你的牙齿和你的眼睛，所有这些不同的部分。"
+    },
+    {
+      "id": 271,
+      "start": 824.08,
+      "end": 827.04,
+      "en": "So definitely more stuff that we could talk about next time.",
+      "zh": "所以肯定有更多的东西我们下次可以谈论。"
+    },
+    {
+      "id": 272,
+      "start": 827.04,
+      "end": 829.12,
+      "en": "But for now we hope that you've learned something.",
+      "zh": "但现在我们希望你学到了一些东西。"
+    },
+    {
+      "id": 273,
+      "start": 829.12,
+      "end": 834.24,
+      "en": "If you have questions or comments, as always, you can come to our website englishpod.com and let us know.",
+      "zh": "如果您有任何问题或意见，您可以像往常一样访问我们的网站 englishpod.com 并告诉我们。"
+    },
+    {
+      "id": 274,
+      "start": 834.24,
+      "end": 834.89,
+      "en": "All right guys, we'll see you there.",
+      "zh": "好吧，伙计们，我们会在那里见到你们。"
+    },
+    {
+      "id": 275,
+      "start": 835.01,
+      "end": 835.17,
+      "en": "Bye.",
+      "zh": "再见。"
+    },
+    {
+      "id": 276,
+      "start": 836.24,
+      "end": 837.24,
+      "en": "Bye.",
+      "zh": "再见。"
+    },
+    {
+      "id": 277,
+      "start": 837.24,
+      "end": 844.46,
+      "en": "Bye.",
+      "zh": "再见。"
+    }
+  ],
+  "dialog": {
+    "start": 28.04,
+    "end": 88.35,
+    "segmentIds": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30
+    ]
+  }
+}

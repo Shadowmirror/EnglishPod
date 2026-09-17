@@ -1,0 +1,2484 @@
+{
+  "version": 1,
+  "id": 46,
+  "number": "0046",
+  "title": "Daily Life - Emergency Room",
+  "audio": "mp3/46. Daily Life - Emergency Room.mp3",
+  "duration": 904.9339375,
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.68,
+      "end": 5.2,
+      "en": "Hello everyone, welcome to another great lesson with us here at EnglishPod.",
+      "zh": "大家好，欢迎在 Englishpod 与我们一起参加另一个精彩的课程。"
+    },
+    {
+      "id": 2,
+      "start": 5.44,
+      "end": 6.0,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 6.52,
+      "end": 7.62,
+      "en": "And I'm Erika.",
+      "zh": "我叫 Erika。"
+    },
+    {
+      "id": 4,
+      "start": 7.62,
+      "end": 11.3,
+      "en": "And today we're going to be talking about an ER, an emergency room.",
+      "zh": "今天我们将谈论急诊室，急诊室。"
+    },
+    {
+      "id": 5,
+      "start": 11.6,
+      "end": 15.14,
+      "en": "Exactly, we're bringing you our very own ER drama here at EnglishPod.",
+      "zh": "确切地说，我们将在 Englishpod 为您带来我们自己的 ER 剧集。"
+    },
+    {
+      "id": 6,
+      "start": 15.71,
+      "end": 20.47,
+      "en": "Yeah, doctor shows are very popular with people, medical terms and all that stuff.",
+      "zh": "是的，医生表演非常受人们、医学术语和所有这些东西的欢迎。"
+    },
+    {
+      "id": 7,
+      "start": 20.81,
+      "end": 26.81,
+      "en": "Yeah, so we're going to teach you some words that you might hear commonly in medical shows on TV or in movies.",
+      "zh": "是的，所以我们将教您一些您可能在电视或电影中的医学节目中经常听到的单词。"
+    },
+    {
+      "id": 8,
+      "start": 27.33,
+      "end": 29.37,
+      "en": "This is really common language in television.",
+      "zh": "这在电视上是真正的通用语言。"
+    },
+    {
+      "id": 9,
+      "start": 29.71,
+      "end": 30.81,
+      "en": "Or even at a hospital, right?",
+      "zh": "甚至在医院，对吧？"
+    },
+    {
+      "id": 10,
+      "start": 30.99,
+      "end": 33.95,
+      "en": "Well yeah, but let's hope our listeners don't have to face this.",
+      "zh": "是的，但我们希望我们的听众不必面对这一点。"
+    },
+    {
+      "id": 11,
+      "start": 34.41,
+      "end": 36.63,
+      "en": "Okay, so let's preview some words in Vocabulary Preview.",
+      "zh": "好的，让我们在词汇预览中预览一些单词。"
+    },
+    {
+      "id": 12,
+      "start": 38.32,
+      "end": 39.32,
+      "en": "Vocabulary Preview.",
+      "zh": "词汇预习。"
+    },
+    {
+      "id": 13,
+      "start": 39.32,
+      "end": 41.76,
+      "en": "Alright, so what's our first word?",
+      "zh": "好吧，那么我们的第一个词是什么？"
+    },
+    {
+      "id": 14,
+      "start": 41.76,
+      "end": 43.72,
+      "en": "Okay, the first word is CPR.",
+      "zh": "好的，第一个词是心肺复苏术。"
+    },
+    {
+      "id": 15,
+      "start": 44.52,
+      "end": 44.96,
+      "en": "CPR.",
+      "zh": "心肺复苏。"
+    },
+    {
+      "id": 16,
+      "start": 45.2,
+      "end": 46.2,
+      "en": "CPR.",
+      "zh": "心肺复苏。"
+    },
+    {
+      "id": 17,
+      "start": 46.2,
+      "end": 47.78,
+      "en": "So, that's pretty easy, what does that mean?",
+      "zh": "所以，这很容易，这是什么意思？"
+    },
+    {
+      "id": 18,
+      "start": 48.48,
+      "end": 52.64,
+      "en": "Well, it's short for cardiopulmonary resuscitation.",
+      "zh": "嗯，它是心肺复苏的缩写。"
+    },
+    {
+      "id": 19,
+      "start": 53.0,
+      "end": 53.52,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 20,
+      "start": 54.04,
+      "end": 55.5,
+      "en": "If that means anything to you.",
+      "zh": "如果这对你有任何意义。"
+    },
+    {
+      "id": 21,
+      "start": 56.48,
+      "end": 58.2,
+      "en": "Well cardio is related to the heart.",
+      "zh": "那么有氧运动与心脏有关。"
+    },
+    {
+      "id": 22,
+      "start": 59.64,
+      "end": 61.44,
+      "en": "Cardio refers to the lungs.",
+      "zh": "有氧运动是指肺部。"
+    },
+    {
+      "id": 23,
+      "start": 61.44,
+      "end": 62.44,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 24,
+      "start": 62.44,
+      "end": 64.32,
+      "en": "Resuscitation means to come back to life.",
+      "zh": "复苏意味着复活。"
+    },
+    {
+      "id": 25,
+      "start": 64.76,
+      "end": 72.82,
+      "en": "Yes, so basically CPR is, you know when someone stops breathing, you put your mouth on their mouth and you breathe inside their lungs.",
+      "zh": "是的，所以基本上心肺复苏术是，你知道当有人停止呼吸时，你把嘴放在他们的嘴上，你在他们的肺里呼吸。"
+    },
+    {
+      "id": 26,
+      "start": 73.14,
+      "end": 74.0,
+      "en": "Okay, to give them air.",
+      "zh": "好吧，给他们空气。"
+    },
+    {
+      "id": 27,
+      "start": 74.34,
+      "end": 74.52,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 28,
+      "start": 75.4,
+      "end": 75.6,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 29,
+      "start": 76.08,
+      "end": 76.78,
+      "en": "So, CPR.",
+      "zh": "所以，心肺复苏术。"
+    },
+    {
+      "id": 30,
+      "start": 77.1,
+      "end": 77.62,
+      "en": "That's CPR.",
+      "zh": "那是心肺复苏术。"
+    },
+    {
+      "id": 31,
+      "start": 78.2,
+      "end": 80.76,
+      "en": "Okay, so let's take a look at our next word, BP.",
+      "zh": "好的，让我们来看看我们的下一个词，BP。"
+    },
+    {
+      "id": 32,
+      "start": 81.72,
+      "end": 82.72,
+      "en": "BP.",
+      "zh": "英国石油公司。"
+    },
+    {
+      "id": 33,
+      "start": 82.72,
+      "end": 83.8,
+      "en": "So, BP is short for?",
+      "zh": "那么，BP 是什么？"
+    },
+    {
+      "id": 34,
+      "start": 84.48,
+      "end": 84.66,
+      "en": "Blood pressure.",
+      "zh": "血压。"
+    },
+    {
+      "id": 35,
+      "start": 85.48,
+      "end": 86.48,
+      "en": "Blood pressure.",
+      "zh": "血压。"
+    },
+    {
+      "id": 36,
+      "start": 86.48,
+      "end": 89.0,
+      "en": "That's just the way that doctors use it in the emergency room.",
+      "zh": "这就是医生在急诊室使用它的方式。"
+    },
+    {
+      "id": 37,
+      "start": 89.0,
+      "end": 90.0,
+      "en": "Exactly, pretty simple.",
+      "zh": "没错，很简单。"
+    },
+    {
+      "id": 38,
+      "start": 90.14,
+      "end": 91.14,
+      "en": "Okay, so blood pressure.",
+      "zh": "好吧，血压。"
+    },
+    {
+      "id": 39,
+      "start": 92.02,
+      "end": 95.18,
+      "en": "And our last word, acute respiratory failure.",
+      "zh": "还有我们的最后一句话，急性呼吸衰竭。"
+    },
+    {
+      "id": 40,
+      "start": 95.64,
+      "end": 96.8,
+      "en": "Acute respiratory failure.",
+      "zh": "急性呼吸衰竭。"
+    },
+    {
+      "id": 41,
+      "start": 97.7,
+      "end": 98.78,
+      "en": "So, what is that exactly?",
+      "zh": "那么，这究竟是什么？"
+    },
+    {
+      "id": 42,
+      "start": 99.1,
+      "end": 99.68,
+      "en": "That sounds complicated.",
+      "zh": "听起来很复杂。"
+    },
+    {
+      "id": 43,
+      "start": 101.76,
+      "end": 104.94,
+      "en": "Basically it's really serious, they stop breathing.",
+      "zh": "基本上它真的很严重，他们停止呼吸。"
+    },
+    {
+      "id": 44,
+      "start": 105.48,
+      "end": 106.04,
+      "en": "You stop breathing.",
+      "zh": "你停止呼吸。"
+    },
+    {
+      "id": 45,
+      "start": 106.48,
+      "end": 107.48,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 46,
+      "start": 107.48,
+      "end": 108.48,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 47,
+      "start": 108.48,
+      "end": 113.84,
+      "en": "So, if you go into acute respiratory failure, then the doctor or somebody has to perform CPR.",
+      "zh": "因此，如果您进入急性呼吸衰竭，那么医生或某人必须进行心肺复苏术。"
+    },
+    {
+      "id": 48,
+      "start": 113.84,
+      "end": 114.84,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 49,
+      "start": 114.84,
+      "end": 114.98,
+      "en": "All right, cool.",
+      "zh": "好吧，酷。"
+    },
+    {
+      "id": 50,
+      "start": 115.84,
+      "end": 121.06,
+      "en": "Okay, so we've previewed these three great words, now let's listen to our dialogue for the first time.",
+      "zh": "好的，我们已经预览了这三个伟大的词，现在让我们第一次听我们的对话。"
+    },
+    {
+      "id": 51,
+      "start": 121.54,
+      "end": 126.86,
+      "en": "It's going to be really fast and you're going to have a lot of drama in it, so don't worry if you don't understand everything.",
+      "zh": "它会非常快，而且你会有很多戏剧性，所以如果你不了解一切，请不要担心。"
+    },
+    {
+      "id": 52,
+      "start": 127.14,
+      "end": 129.76,
+      "en": "Yeah, we're going to come back and teach you some of the important language.",
+      "zh": "是的，我们会回来教你一些重要的语言。"
+    },
+    {
+      "id": 53,
+      "start": 130.88,
+      "end": 131.88,
+      "en": "Help!",
+      "zh": "救命！"
+    },
+    {
+      "id": 54,
+      "start": 131.88,
+      "end": 134.88,
+      "en": "Are you a doctor?",
+      "zh": "你是医生吗？"
+    },
+    {
+      "id": 55,
+      "start": 143.84,
+      "end": 145.96,
+      "en": "My poor little Frankie, he's just stopped breathing.",
+      "zh": "我可怜的小弗兰基，他突然不呼吸了。"
+    },
+    {
+      "id": 56,
+      "start": 146.3,
+      "end": 147.64,
+      "en": "Oh my gosh, help me.",
+      "zh": "天哪，快帮帮我！"
+    },
+    {
+      "id": 57,
+      "start": 148.0,
+      "end": 151.84,
+      "en": "I tried to perform CPR, but I just, I don't know if I could get any air into his lungs.",
+      "zh": "我试着给他做心肺复苏，可我……不知道有没有把空气吹进他的肺里。"
+    },
+    {
+      "id": 58,
+      "start": 152.36,
+      "end": 153.36,
+      "en": "Oh, Frankie.",
+      "zh": "哦，弗兰基。"
+    },
+    {
+      "id": 59,
+      "start": 153.82,
+      "end": 155.58,
+      "en": "Ellen, get him hooked up to a monitor.",
+      "zh": "艾伦，把他接上监护仪。"
+    },
+    {
+      "id": 60,
+      "start": 156.52,
+      "end": 157.46,
+      "en": "Somebody page Dr. Hauser.",
+      "zh": "快呼叫豪瑟医生。"
+    },
+    {
+      "id": 61,
+      "start": 158.32,
+      "end": 158.96,
+      "en": "Get the patient to hold still.",
+      "zh": "让病人保持不动。"
+    },
+    {
+      "id": 62,
+      "start": 160.48,
+      "end": 161.03,
+      "en": "I can't get a pulse.",
+      "zh": "我摸不到脉搏。"
+    },
+    {
+      "id": 63,
+      "start": 161.48,
+      "end": 162.48,
+      "en": "Okay, he's on the monitor.",
+      "zh": "好了，监护仪接上了。"
+    },
+    {
+      "id": 64,
+      "start": 162.48,
+      "end": 166.64,
+      "en": "His BP is falling.",
+      "zh": "他的血压在下降。"
+    },
+    {
+      "id": 65,
+      "start": 166.64,
+      "end": 167.04,
+      "en": "He's flatlining.",
+      "zh": "他的心电图变成直线了。"
+    },
+    {
+      "id": 66,
+      "start": 167.64,
+      "end": 168.64,
+      "en": "No, Frankie!",
+      "zh": "不，弗兰基！"
+    },
+    {
+      "id": 67,
+      "start": 168.64,
+      "end": 173.16,
+      "en": "Doctor, do something!",
+      "zh": "医生，快想想办法！"
+    },
+    {
+      "id": 68,
+      "start": 173.16,
+      "end": 173.78,
+      "en": "Someone get her out of here.",
+      "zh": "谁来把她带出去。"
+    },
+    {
+      "id": 69,
+      "start": 174.6,
+      "end": 175.42,
+      "en": "Get me the defibrillator.",
+      "zh": "把除颤器给我。"
+    },
+    {
+      "id": 70,
+      "start": 176.22,
+      "end": 176.6,
+      "en": "Okay, clear.",
+      "zh": "好了，让开！"
+    },
+    {
+      "id": 71,
+      "start": 176.6,
+      "end": 177.6,
+      "en": "Again, clear.",
+      "zh": "再来一次，让开！"
+    },
+    {
+      "id": 72,
+      "start": 177.6,
+      "end": 178.6,
+      "en": "Come on, dammit, I'm not letting go of you.",
+      "zh": "加油，该死的，我不会放弃你的。"
+    },
+    {
+      "id": 73,
+      "start": 178.6,
+      "end": 179.6,
+      "en": "Clear.",
+      "zh": "都让开！"
+    },
+    {
+      "id": 74,
+      "start": 179.6,
+      "end": 180.6,
+      "en": "I got a pulse.",
+      "zh": "摸到脉搏了。"
+    },
+    {
+      "id": 75,
+      "start": 180.6,
+      "end": 181.6,
+      "en": "Okay, what's happening?",
+      "zh": "好，怎么回事？"
+    },
+    {
+      "id": 76,
+      "start": 181.6,
+      "end": 182.6,
+      "en": "The patient is in acute respiratory failure.",
+      "zh": "病人出现急性呼吸衰竭。"
+    },
+    {
+      "id": 77,
+      "start": 190.22,
+      "end": 191.52,
+      "en": "I think we're going to have to intubate.",
+      "zh": "恐怕得给他插管。"
+    },
+    {
+      "id": 78,
+      "start": 192.32,
+      "end": 193.56,
+      "en": "All right, tube's in.",
+      "zh": "好了，管子插进去了。"
+    },
+    {
+      "id": 79,
+      "start": 193.96,
+      "end": 194.08,
+      "en": "Bag him.",
+      "zh": "用呼吸囊给他通气。"
+    },
+    {
+      "id": 80,
+      "start": 194.5,
+      "end": 196.3,
+      "en": "Somebody give him 10 cc's shot of adrenaline.",
+      "zh": "快给他注射十毫升肾上腺素。"
+    },
+    {
+      "id": 81,
+      "start": 196.8,
+      "end": 197.1,
+      "en": "Let's go!",
+      "zh": "快点！"
+    },
+    {
+      "id": 82,
+      "start": 197.5,
+      "end": 197.92,
+      "en": "People, move!",
+      "zh": "都让开！"
+    },
+    {
+      "id": 83,
+      "start": 198.46,
+      "end": 198.64,
+      "en": "Move!",
+      "zh": "让开！"
+    },
+    {
+      "id": 84,
+      "start": 201.6,
+      "end": 202.6,
+      "en": "Doctor, oh thank God!",
+      "zh": "医生，哦，谢天谢地！"
+    },
+    {
+      "id": 85,
+      "start": 207.98,
+      "end": 208.68,
+      "en": "How is he?",
+      "zh": "他怎么样了？"
+    },
+    {
+      "id": 86,
+      "start": 209.44,
+      "end": 213.14,
+      "en": "We've managed to stabilize Frankie, but he's not out of the woods yet.",
+      "zh": "我们稳住了弗兰基的状况，但他还没脱离危险。"
+    },
+    {
+      "id": 87,
+      "start": 213.8,
+      "end": 215.22,
+      "en": "He's still in critical condition.",
+      "zh": "他仍然处于危急状态。"
+    },
+    {
+      "id": 88,
+      "start": 216.36,
+      "end": 218.12,
+      "en": "We're moving him to intensive care, but-",
+      "zh": "我们把他送到重症监护室，但是——"
+    },
+    {
+      "id": 89,
+      "start": 218.84,
+      "end": 220.98,
+      "en": "Doctor, just do whatever it takes.",
+      "zh": "医生，无论如何请救救他。"
+    },
+    {
+      "id": 90,
+      "start": 221.48,
+      "end": 223.2,
+      "en": "I just want my little Frankie to be okay.",
+      "zh": "我只希望我的小弗兰基平安无事。"
+    },
+    {
+      "id": 91,
+      "start": 223.68,
+      "end": 226.88,
+      "en": "I couldn't imagine life without my little hamster.",
+      "zh": "我无法想象没有我那只小仓鼠的日子。"
+    },
+    {
+      "id": 92,
+      "start": 234.1,
+      "end": 236.84,
+      "en": "Wow, so much drama over a little hamster.",
+      "zh": "哇，对一只小仓鼠有这么多戏剧性。"
+    },
+    {
+      "id": 93,
+      "start": 237.1,
+      "end": 237.94,
+      "en": "Yeah, a little pet, hey?",
+      "zh": "是的，一只小宠物，嘿？"
+    },
+    {
+      "id": 94,
+      "start": 237.94,
+      "end": 239.52,
+      "en": "A little pet, a little hamster.",
+      "zh": "一只小宠物，一只小仓鼠。"
+    },
+    {
+      "id": 95,
+      "start": 239.96,
+      "end": 240.96,
+      "en": "Well, you know what?",
+      "zh": "嗯，你知道吗？"
+    },
+    {
+      "id": 96,
+      "start": 241.08,
+      "end": 245.3,
+      "en": "I can relate to this owner and I'm gonna tell you a little bit more about that later.",
+      "zh": "我可以与这个主人联系，稍后我会告诉你更多关于它的信息。"
+    },
+    {
+      "id": 97,
+      "start": 245.5,
+      "end": 247.4,
+      "en": "Yeah, I know you have a really good story about this.",
+      "zh": "是的，我知道你有一个非常好的故事。"
+    },
+    {
+      "id": 98,
+      "start": 247.44,
+      "end": 250.88,
+      "en": "Yeah, but in the meantime, let's look at some great language in Language Takeaway.",
+      "zh": "是的，但与此同时，让我们看看语言外卖中的一些很棒的语言。"
+    },
+    {
+      "id": 99,
+      "start": 255.58,
+      "end": 259.38,
+      "en": "All right, so let's take a look at our first word, intubate.",
+      "zh": "好吧，让我们来看看我们的第一个词，插管。"
+    },
+    {
+      "id": 100,
+      "start": 259.38,
+      "end": 260.0,
+      "en": "Intubate.",
+      "zh": "插管。"
+    },
+    {
+      "id": 101,
+      "start": 260.48,
+      "end": 261.08,
+      "en": "Intubate.",
+      "zh": "插管。"
+    },
+    {
+      "id": 102,
+      "start": 261.9,
+      "end": 262.86,
+      "en": "Intubate.",
+      "zh": "插管。"
+    },
+    {
+      "id": 103,
+      "start": 262.86,
+      "end": 264.28,
+      "en": "So this is a medical procedure.",
+      "zh": "所以这是一个医疗程序。"
+    },
+    {
+      "id": 104,
+      "start": 264.56,
+      "end": 264.84,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 105,
+      "start": 265.5,
+      "end": 275.78,
+      "en": "When a patient can't breathe properly, sometimes the doctor takes a long tube and puts it into their mouth and down their pipes, I guess, down their breathing tube.",
+      "zh": "当患者无法正常呼吸时，有时医生会拿一根长管并将其放入他们的嘴里和管道中，我猜，他们的呼吸管。"
+    },
+    {
+      "id": 106,
+      "start": 276.14,
+      "end": 276.98,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 107,
+      "start": 276.98,
+      "end": 278.02,
+      "en": "So that they can breathe better.",
+      "zh": "这样他们才能更好地呼吸。"
+    },
+    {
+      "id": 108,
+      "start": 278.02,
+      "end": 280.04,
+      "en": "Okay, so that's to intubate.",
+      "zh": "好吧，这就是插管。"
+    },
+    {
+      "id": 109,
+      "start": 280.3,
+      "end": 280.42,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 110,
+      "start": 281.14,
+      "end": 284.9,
+      "en": "Okay, so once they've intubated the patient, they start to bag him.",
+      "zh": "好的，所以一旦他们给病人插管，他们就开始给他打包。"
+    },
+    {
+      "id": 111,
+      "start": 285.18,
+      "end": 286.14,
+      "en": "Yeah, bag him.",
+      "zh": "是的，包他。"
+    },
+    {
+      "id": 112,
+      "start": 286.76,
+      "end": 286.98,
+      "en": "Bag him.",
+      "zh": "用呼吸囊给他通气。"
+    },
+    {
+      "id": 113,
+      "start": 287.36,
+      "end": 287.78,
+      "en": "Bag him.",
+      "zh": "用呼吸囊给他通气。"
+    },
+    {
+      "id": 114,
+      "start": 288.16,
+      "end": 290.06,
+      "en": "Does that mean they like put a bag over the person's head or something?",
+      "zh": "这是否意味着他们喜欢将袋子放在人的头上或其他东西上？"
+    },
+    {
+      "id": 115,
+      "start": 290.06,
+      "end": 291.3,
+      "en": "No, no, no, no, no.",
+      "zh": "不，不，不，不，不。"
+    },
+    {
+      "id": 116,
+      "start": 291.3,
+      "end": 296.88,
+      "en": "So there's a bag attached to this intubation tube and you squeeze it to put air into the lungs.",
+      "zh": "因此，这个插管管上有一个袋子，您将其挤压以将空气放入肺部。"
+    },
+    {
+      "id": 117,
+      "start": 297.42,
+      "end": 301.38,
+      "en": "Okay, so you squeeze this bag and it puts air through the tube.",
+      "zh": "好的，所以你挤压这个袋子，它会将空气通过管子。"
+    },
+    {
+      "id": 118,
+      "start": 301.58,
+      "end": 302.98,
+      "en": "I think this is just medical slang.",
+      "zh": "我认为这只是医学俚语。"
+    },
+    {
+      "id": 119,
+      "start": 303.64,
+      "end": 304.78,
+      "en": "Yeah, I guess bag him.",
+      "zh": "是的，我猜他是包他。"
+    },
+    {
+      "id": 120,
+      "start": 304.88,
+      "end": 308.21,
+      "en": "Yeah, but you hear it all the time on TV, so it's important our listeners know it.",
+      "zh": "是的，但你总是在电视上听到它，所以我们的听众知道这一点很重要。"
+    },
+    {
+      "id": 121,
+      "start": 308.7,
+      "end": 311.25,
+      "en": "Okay, let's look at our next word, critical condition.",
+      "zh": "好吧，让我们看看我们的下一个词，危急情况。"
+    },
+    {
+      "id": 122,
+      "start": 311.83,
+      "end": 312.57,
+      "en": "Critical condition.",
+      "zh": "病情危急。"
+    },
+    {
+      "id": 123,
+      "start": 313.07,
+      "end": 313.95,
+      "en": "Critical condition.",
+      "zh": "病情危急。"
+    },
+    {
+      "id": 124,
+      "start": 314.5,
+      "end": 316.22,
+      "en": "The patient's in critical condition.",
+      "zh": "病人处于危急状态。"
+    },
+    {
+      "id": 125,
+      "start": 316.98,
+      "end": 318.39,
+      "en": "This condition means it's serious.",
+      "zh": "这种情况意味着它很严重。"
+    },
+    {
+      "id": 126,
+      "start": 318.94,
+      "end": 326.97,
+      "en": "Right, if a patient is in critical condition, they're either really, really hurt or really, really sick and they could die pretty soon.",
+      "zh": "是的，如果病人处于危急状态，他们要么真的，真的很受伤，要么真的，真的很病，而且他们可能很快就会死去。"
+    },
+    {
+      "id": 127,
+      "start": 327.09,
+      "end": 329.99,
+      "en": "Okay, so you don't want to be in critical condition.",
+      "zh": "好吧，所以你不想处于危急状态。"
+    },
+    {
+      "id": 128,
+      "start": 330.21,
+      "end": 330.37,
+      "en": "No.",
+      "zh": "不。"
+    },
+    {
+      "id": 129,
+      "start": 331.01,
+      "end": 333.44,
+      "en": "Let's take a look at our next word, stabilize.",
+      "zh": "让我们来看看我们的下一个词，稳定。"
+    },
+    {
+      "id": 130,
+      "start": 333.84,
+      "end": 334.4,
+      "en": "Stabilize.",
+      "zh": "使稳定。"
+    },
+    {
+      "id": 131,
+      "start": 335.1,
+      "end": 335.66,
+      "en": "Stabilize.",
+      "zh": "使稳定。"
+    },
+    {
+      "id": 132,
+      "start": 335.94,
+      "end": 336.46,
+      "en": "Stabilize.",
+      "zh": "使稳定。"
+    },
+    {
+      "id": 133,
+      "start": 337.0,
+      "end": 340.92,
+      "en": "So when the doctors stabilize a patient, they take that patient out of danger.",
+      "zh": "因此，当医生稳定患者时，他们将该患者从危险中带走。"
+    },
+    {
+      "id": 134,
+      "start": 341.26,
+      "end": 346.52,
+      "en": "Exactly, when a patient is stabilized, they probably won't die in five minutes.",
+      "zh": "确切地说，当病人稳定下来时，他们可能不会在五分钟内死亡。"
+    },
+    {
+      "id": 135,
+      "start": 346.84,
+      "end": 347.08,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 136,
+      "start": 347.46,
+      "end": 348.8,
+      "en": "But they could still be really sick.",
+      "zh": "但他们仍然可能真的病了。"
+    },
+    {
+      "id": 137,
+      "start": 349.0,
+      "end": 350.78,
+      "en": "They could be in critical condition, right?",
+      "zh": "他们可能处于危急状态，对吧？"
+    },
+    {
+      "id": 138,
+      "start": 350.92,
+      "end": 351.52,
+      "en": "But it's under control.",
+      "zh": "但它处于控制之中。"
+    },
+    {
+      "id": 139,
+      "start": 352.04,
+      "end": 352.26,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 140,
+      "start": 352.98,
+      "end": 353.8,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 141,
+      "start": 353.8,
+      "end": 354.64,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 142,
+      "start": 354.64,
+      "end": 355.46,
+      "en": "Stabilize.",
+      "zh": "使稳定。"
+    },
+    {
+      "id": 143,
+      "start": 355.46,
+      "end": 357.06,
+      "en": "Let's look at our last word, ICU.",
+      "zh": "让我们看看我们的最后一个词，ICU。"
+    },
+    {
+      "id": 144,
+      "start": 357.82,
+      "end": 358.36,
+      "en": "ICU.",
+      "zh": "重症监护室。"
+    },
+    {
+      "id": 145,
+      "start": 359.04,
+      "end": 359.6,
+      "en": "ICU.",
+      "zh": "重症监护室。"
+    },
+    {
+      "id": 146,
+      "start": 360.1,
+      "end": 361.5,
+      "en": "Intensive care unit.",
+      "zh": "重症监护室。"
+    },
+    {
+      "id": 147,
+      "start": 361.5,
+      "end": 364.18,
+      "en": "Okay, that's what it means, intensive care unit.",
+      "zh": "好吧，这就是它的意思，重症监护病房。"
+    },
+    {
+      "id": 148,
+      "start": 364.54,
+      "end": 365.38,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 149,
+      "start": 365.38,
+      "end": 368.78,
+      "en": "So this is a place where patients who are in critical condition are taken.",
+      "zh": "因此，这是一个处于危急状态的患者被带走的地方。"
+    },
+    {
+      "id": 150,
+      "start": 368.78,
+      "end": 368.9,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 151,
+      "start": 369.7,
+      "end": 372.24,
+      "en": "So what's the difference between an ICU and a regular room?",
+      "zh": "那么ICU和普通房间有什么区别呢？"
+    },
+    {
+      "id": 152,
+      "start": 372.64,
+      "end": 374.06,
+      "en": "Well, I don't know, I've never been in one.",
+      "zh": "好吧，我不知道，我从来没有参加过一场比赛。"
+    },
+    {
+      "id": 153,
+      "start": 374.66,
+      "end": 383.74,
+      "en": "But I think like patients are monitored regularly and I think there's, you know, maybe more, maybe there are more nurses and fewer patients.",
+      "zh": "但我认为像患者一样经常被监测，我认为有，你知道，也许更多，也许有更多的护士和更少的病人。"
+    },
+    {
+      "id": 154,
+      "start": 384.24,
+      "end": 385.64,
+      "en": "There's just a higher level of care.",
+      "zh": "只有更高水平的护理。"
+    },
+    {
+      "id": 155,
+      "start": 385.94,
+      "end": 386.86,
+      "en": "A higher level of care.",
+      "zh": "更高级别的护理。"
+    },
+    {
+      "id": 156,
+      "start": 387.1,
+      "end": 387.94,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 157,
+      "start": 387.94,
+      "end": 388.82,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 158,
+      "start": 388.82,
+      "end": 391.08,
+      "en": "Okay, so it's time for us to listen to our dialogue again.",
+      "zh": "好的，是时候让我们再次聆听我们的对话了。"
+    },
+    {
+      "id": 159,
+      "start": 391.38,
+      "end": 397.54,
+      "en": "Now, try to catch all of these medical terms that we've just talked about, and then we'll come back and explain a few phrases.",
+      "zh": "现在，试着抓住我们刚刚谈到的所有这些医学术语，然后我们会回来解释一些短语。"
+    },
+    {
+      "id": 160,
+      "start": 397.54,
+      "end": 400.78,
+      "en": "♪♪",
+      "zh": "（音乐）"
+    },
+    {
+      "id": 161,
+      "start": 400.78,
+      "end": 401.08,
+      "en": "Help!",
+      "zh": "救命！"
+    },
+    {
+      "id": 162,
+      "start": 401.74,
+      "end": 402.36,
+      "en": "Are you a doctor?",
+      "zh": "你是医生吗？"
+    },
+    {
+      "id": 163,
+      "start": 403.26,
+      "end": 405.22,
+      "en": "My poor little Frankie has just stopped breathing.",
+      "zh": "我可怜的小弗兰基刚刚停止呼吸。"
+    },
+    {
+      "id": 164,
+      "start": 405.58,
+      "end": 406.92,
+      "en": "Oh my gosh, help me.",
+      "zh": "天哪，快帮帮我！"
+    },
+    {
+      "id": 165,
+      "start": 407.4,
+      "end": 411.1,
+      "en": "I tried to perform CPR, but I just, I don't know if I could get any air into his lungs.",
+      "zh": "我试着给他做心肺复苏，可我……不知道有没有把空气吹进他的肺里。"
+    },
+    {
+      "id": 166,
+      "start": 411.3,
+      "end": 412.08,
+      "en": "Oh, Frankie.",
+      "zh": "哦，弗兰基。"
+    },
+    {
+      "id": 167,
+      "start": 413.14,
+      "end": 414.98,
+      "en": "Ellen, get him hooked up to a monitor.",
+      "zh": "艾伦，把他接上监护仪。"
+    },
+    {
+      "id": 168,
+      "start": 415.6,
+      "end": 416.76,
+      "en": "Somebody page Dr. Hauser.",
+      "zh": "快呼叫豪瑟医生。"
+    },
+    {
+      "id": 169,
+      "start": 417.42,
+      "end": 418.34,
+      "en": "Get the patient to hold still.",
+      "zh": "让病人保持不动。"
+    },
+    {
+      "id": 170,
+      "start": 419.5,
+      "end": 420.4,
+      "en": "I can't get a pulse.",
+      "zh": "我摸不到脉搏。"
+    },
+    {
+      "id": 171,
+      "start": 421.68,
+      "end": 422.8,
+      "en": "Okay, he's on the monitor.",
+      "zh": "好了，监护仪接上了。"
+    },
+    {
+      "id": 172,
+      "start": 423.42,
+      "end": 424.78,
+      "en": "His BP's falling.",
+      "zh": "他的血压在下降。"
+    },
+    {
+      "id": 173,
+      "start": 424.82,
+      "end": 425.36,
+      "en": "He's flatlining.",
+      "zh": "他的心电图变成直线了。"
+    },
+    {
+      "id": 174,
+      "start": 425.82,
+      "end": 426.9,
+      "en": "No, Frankie!",
+      "zh": "不，弗兰基！"
+    },
+    {
+      "id": 175,
+      "start": 428.62,
+      "end": 430.46,
+      "en": "Doctor, do something!",
+      "zh": "医生，快想想办法！"
+    },
+    {
+      "id": 176,
+      "start": 431.88,
+      "end": 433.04,
+      "en": "Someone get her out of here.",
+      "zh": "谁来把她带出去。"
+    },
+    {
+      "id": 177,
+      "start": 433.54,
+      "end": 434.76,
+      "en": "Get me the defibrillator.",
+      "zh": "把除颤器给我。"
+    },
+    {
+      "id": 178,
+      "start": 435.18,
+      "end": 436.52,
+      "en": "Okay, clear.",
+      "zh": "好了，让开！"
+    },
+    {
+      "id": 179,
+      "start": 438.21,
+      "end": 438.93,
+      "en": "Again, clear.",
+      "zh": "再来一次，让开！"
+    },
+    {
+      "id": 180,
+      "start": 440.72,
+      "end": 442.12,
+      "en": "Come on, dammit, I'm not letting go of you.",
+      "zh": "来吧，该死的，我不会放过你的。"
+    },
+    {
+      "id": 181,
+      "start": 442.5,
+      "end": 442.76,
+      "en": "Clear!",
+      "zh": "清除!"
+    },
+    {
+      "id": 182,
+      "start": 444.72,
+      "end": 445.18,
+      "en": "I've got a pulse.",
+      "zh": "我有脉搏。"
+    },
+    {
+      "id": 183,
+      "start": 445.9,
+      "end": 446.88,
+      "en": "Okay, what's happening?",
+      "zh": "好，怎么回事？"
+    },
+    {
+      "id": 184,
+      "start": 447.42,
+      "end": 449.24,
+      "en": "The patient is in acute respiratory failure.",
+      "zh": "病人出现急性呼吸衰竭。"
+    },
+    {
+      "id": 185,
+      "start": 449.42,
+      "end": 451.58,
+      "en": "I think we're going to have to intubate.",
+      "zh": "恐怕得给他插管。"
+    },
+    {
+      "id": 186,
+      "start": 451.58,
+      "end": 452.66,
+      "en": "All right, tube's in.",
+      "zh": "好了，管子插进去了。"
+    },
+    {
+      "id": 187,
+      "start": 453.1,
+      "end": 453.86,
+      "en": "Bag him.",
+      "zh": "用呼吸囊给他通气。"
+    },
+    {
+      "id": 188,
+      "start": 453.86,
+      "end": 456.02,
+      "en": "Somebody give him 10 cc's shot of adrenaline.",
+      "zh": "有人给他 10 cc 的肾上腺素。"
+    },
+    {
+      "id": 189,
+      "start": 456.02,
+      "end": 457.7,
+      "en": "Let's go, people, move, move!",
+      "zh": "走吧，人，动，动！"
+    },
+    {
+      "id": 190,
+      "start": 459.06,
+      "end": 461.0,
+      "en": "Doctor, oh, thank God.",
+      "zh": "医生，哦，感谢上帝。"
+    },
+    {
+      "id": 191,
+      "start": 461.58,
+      "end": 462.36,
+      "en": "How is he?",
+      "zh": "他怎么样了？"
+    },
+    {
+      "id": 192,
+      "start": 463.07,
+      "end": 466.85,
+      "en": "We've managed to stabilize Frankie, but he's not out of the woods yet.",
+      "zh": "我们稳住了弗兰基的状况，但他还没脱离危险。"
+    },
+    {
+      "id": 193,
+      "start": 467.43,
+      "end": 468.99,
+      "en": "He's still in critical condition.",
+      "zh": "他仍然处于危急状态。"
+    },
+    {
+      "id": 194,
+      "start": 469.61,
+      "end": 471.81,
+      "en": "We're moving him to intensive care, but-",
+      "zh": "我们把他送到重症监护室，但是——"
+    },
+    {
+      "id": 195,
+      "start": 471.81,
+      "end": 474.67,
+      "en": "Doctor, just do whatever it takes.",
+      "zh": "医生，无论如何请救救他。"
+    },
+    {
+      "id": 196,
+      "start": 475.09,
+      "end": 476.87,
+      "en": "I just want my little Frankie to be okay.",
+      "zh": "我只希望我的小弗兰基平安无事。"
+    },
+    {
+      "id": 197,
+      "start": 477.59,
+      "end": 480.57,
+      "en": "I couldn't imagine life without my little hamster.",
+      "zh": "我无法想象没有我那只小仓鼠的日子。"
+    },
+    {
+      "id": 198,
+      "start": 480.98,
+      "end": 484.9,
+      "en": "Okay, so there are some really good phrasal verbs in this dialogue.",
+      "zh": "好的，所以在这个对话中有一些非常好的短语动词。"
+    },
+    {
+      "id": 199,
+      "start": 484.9,
+      "end": 486.46,
+      "en": "Yeah, a couple of good phrasal verbs.",
+      "zh": "是的，几个好的短语动词。"
+    },
+    {
+      "id": 200,
+      "start": 486.46,
+      "end": 489.94,
+      "en": "Okay, so let's take a look at these phrasal verbs in putting it together.",
+      "zh": "好吧，让我们来看看这些短语动词放在一起。"
+    },
+    {
+      "id": 201,
+      "start": 492.54,
+      "end": 493.21,
+      "en": "Putting it together.",
+      "zh": "综合运用。"
+    },
+    {
+      "id": 202,
+      "start": 494.22,
+      "end": 497.42,
+      "en": "All right, so what's our first phrasal verb today?",
+      "zh": "好吧，那么我们今天的第一个短语动词是什么？"
+    },
+    {
+      "id": 203,
+      "start": 497.42,
+      "end": 498.42,
+      "en": "Hook up.",
+      "zh": "连接上。"
+    },
+    {
+      "id": 204,
+      "start": 498.42,
+      "end": 499.26,
+      "en": "Hook up.",
+      "zh": "连接上。"
+    },
+    {
+      "id": 205,
+      "start": 499.26,
+      "end": 500.58,
+      "en": "Hook up.",
+      "zh": "连接上。"
+    },
+    {
+      "id": 206,
+      "start": 500.58,
+      "end": 502.06,
+      "en": "So to hook up.",
+      "zh": "所以挂钩。"
+    },
+    {
+      "id": 207,
+      "start": 502.06,
+      "end": 512.42,
+      "en": "So when we talk about hooking something up, we are usually talking about something that's we are usually talking about electronics, right Marco?",
+      "zh": "因此，当我们谈论连接某些东西时，我们通常会谈论我们通常谈论的电子产品，对吧，Marco？"
+    },
+    {
+      "id": 208,
+      "start": 512.47,
+      "end": 514.63,
+      "en": "Yeah, you usually hook up your TV or your computer.",
+      "zh": "是的，您通常会连接电视或计算机。"
+    },
+    {
+      "id": 209,
+      "start": 515.69,
+      "end": 518.57,
+      "en": "So why don't we listen to some examples of how we would use hook up.",
+      "zh": "那么我们为什么不听一些关于如何使用 Hook Up 的例子。"
+    },
+    {
+      "id": 210,
+      "start": 519.86,
+      "end": 521.14,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 211,
+      "start": 523.46,
+      "end": 525.62,
+      "en": "I finally got a Nintendo Wii.",
+      "zh": "我终于得到了任天堂wii。"
+    },
+    {
+      "id": 212,
+      "start": 525.64,
+      "end": 527.44,
+      "en": "Come on, help me hook it up to the TV.",
+      "zh": "来吧，帮我把它连接到电视上。"
+    },
+    {
+      "id": 213,
+      "start": 530.82,
+      "end": 531.49,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 214,
+      "start": 535.22,
+      "end": 537.52,
+      "en": "I don't know how to hook up this new DVD player.",
+      "zh": "我不知道如何连接这个新的 DVD 播放器。"
+    },
+    {
+      "id": 215,
+      "start": 537.76,
+      "end": 538.38,
+      "en": "Can you help me?",
+      "zh": "你能帮我吗？"
+    },
+    {
+      "id": 216,
+      "start": 542.0,
+      "end": 543.06,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 217,
+      "start": 546.59,
+      "end": 549.45,
+      "en": "I just hooked up my new HDTV.",
+      "zh": "我刚刚连接了我的新高清电视。"
+    },
+    {
+      "id": 218,
+      "start": 550.1,
+      "end": 551.9,
+      "en": "Wanna come over and watch a movie?",
+      "zh": "想过来看电影吗？"
+    },
+    {
+      "id": 219,
+      "start": 555.12,
+      "end": 561.82,
+      "en": "Great, so you can see that there are a few different variations of this pattern here with the word hook up because it's a phrasal verb.",
+      "zh": "太好了，所以你可以看到这个模式有几个不同的变体，因为它是一个短语动词。"
+    },
+    {
+      "id": 220,
+      "start": 562.06,
+      "end": 562.3,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 221,
+      "start": 563.02,
+      "end": 566.52,
+      "en": "And I think the same patterns can apply to our next phrasal verb.",
+      "zh": "我认为同样的模式也适用于我们的下一个短语动词。"
+    },
+    {
+      "id": 222,
+      "start": 567.08,
+      "end": 567.98,
+      "en": "Hold still.",
+      "zh": "别动。"
+    },
+    {
+      "id": 223,
+      "start": 568.26,
+      "end": 568.98,
+      "en": "Hold still.",
+      "zh": "别动。"
+    },
+    {
+      "id": 224,
+      "start": 569.42,
+      "end": 570.74,
+      "en": "Hold still.",
+      "zh": "别动。"
+    },
+    {
+      "id": 225,
+      "start": 570.74,
+      "end": 571.94,
+      "en": "Hold still.",
+      "zh": "别动。"
+    },
+    {
+      "id": 226,
+      "start": 571.94,
+      "end": 574.44,
+      "en": "So the doctor needed the patient to hold still.",
+      "zh": "所以医生需要病人保持静止。"
+    },
+    {
+      "id": 227,
+      "start": 574.7,
+      "end": 575.8,
+      "en": "Right, to stop moving.",
+      "zh": "对，停止移动。"
+    },
+    {
+      "id": 228,
+      "start": 576.12,
+      "end": 577.32,
+      "en": "Stop moving, exactly.",
+      "zh": "别动了，没错。"
+    },
+    {
+      "id": 229,
+      "start": 578.04,
+      "end": 584.18,
+      "en": "Okay, let's listen to some more examples of hold still because again, it's a really great phrasal verb that you can change up a little bit.",
+      "zh": "好吧，让我们听更多 Hold Still 的例子，因为再一次，它是一个非常棒的短语动词，你可以稍微改变一下。"
+    },
+    {
+      "id": 230,
+      "start": 586.14,
+      "end": 586.98,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 231,
+      "start": 592.06,
+      "end": 595.34,
+      "en": "If you don't hold still, I can't see if you have something in your eye.",
+      "zh": "如果你不坚持，我看不出你的眼睛里有没有什么东西。"
+    },
+    {
+      "id": 232,
+      "start": 600.74,
+      "end": 601.4,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 233,
+      "start": 606.2,
+      "end": 609.86,
+      "en": "Hold still while she cuts your hair or else she might make a mistake.",
+      "zh": "当她剪头发时保持不动，否则她可能会犯错误。"
+    },
+    {
+      "id": 234,
+      "start": 615.54,
+      "end": 616.86,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 235,
+      "start": 619.75,
+      "end": 622.01,
+      "en": "Hold still, you have a bee on your back.",
+      "zh": "保持静止，你的背上有一只蜜蜂。"
+    },
+    {
+      "id": 236,
+      "start": 625.52,
+      "end": 627.12,
+      "en": "Okay, hold still, great word.",
+      "zh": "好吧，保持静止，伟大的词。"
+    },
+    {
+      "id": 237,
+      "start": 627.42,
+      "end": 628.62,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 238,
+      "start": 628.62,
+      "end": 630.06,
+      "en": "All right, one final phrase for you.",
+      "zh": "好吧，给你最后一句话。"
+    },
+    {
+      "id": 239,
+      "start": 630.48,
+      "end": 631.26,
+      "en": "Out of the woods.",
+      "zh": "脱离险境。"
+    },
+    {
+      "id": 240,
+      "start": 631.84,
+      "end": 633.08,
+      "en": "Out of the woods.",
+      "zh": "脱离险境。"
+    },
+    {
+      "id": 241,
+      "start": 633.62,
+      "end": 634.62,
+      "en": "Out of the woods.",
+      "zh": "脱离险境。"
+    },
+    {
+      "id": 242,
+      "start": 634.62,
+      "end": 635.2,
+      "en": "Out of the woods.",
+      "zh": "脱离险境。"
+    },
+    {
+      "id": 243,
+      "start": 636.06,
+      "end": 638.1,
+      "en": "So when someone's out of the woods, they're...",
+      "zh": "所以当有人离开树林时，他们..."
+    },
+    {
+      "id": 244,
+      "start": 638.14,
+      "end": 638.6,
+      "en": "Free from danger.",
+      "zh": "免于危险。"
+    },
+    {
+      "id": 245,
+      "start": 639.1,
+      "end": 639.94,
+      "en": "Uh-huh, safe.",
+      "zh": "嗯，安全。"
+    },
+    {
+      "id": 246,
+      "start": 639.94,
+      "end": 641.26,
+      "en": "Okay, safe.",
+      "zh": "好吧，安全。"
+    },
+    {
+      "id": 247,
+      "start": 641.26,
+      "end": 642.3,
+      "en": "I guess it's kind of a saying.",
+      "zh": "我想这是一种说法。"
+    },
+    {
+      "id": 248,
+      "start": 642.74,
+      "end": 642.86,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 249,
+      "start": 643.58,
+      "end": 646.78,
+      "en": "Like I'm out of the woods, I'm free, I'm safe.",
+      "zh": "就像我在树林里一样，我是自由的，我很安全。"
+    },
+    {
+      "id": 250,
+      "start": 646.78,
+      "end": 648.38,
+      "en": "I guess there are two variants of this phrase.",
+      "zh": "我想这个短语有两个变体。"
+    },
+    {
+      "id": 251,
+      "start": 648.66,
+      "end": 653.4,
+      "en": "We can say, I'm out of the woods or we're out of the woods or I guess we're not out of the woods yet.",
+      "zh": "我们可以说，我不在树林里，或者我们已经走出了树林，或者我猜我们还没有走出困境。"
+    },
+    {
+      "id": 252,
+      "start": 653.82,
+      "end": 656.26,
+      "en": "Uh-huh, so, okay.",
+      "zh": "嗯嗯，好吧。"
+    },
+    {
+      "id": 253,
+      "start": 656.26,
+      "end": 656.81,
+      "en": "Out of the woods.",
+      "zh": "脱离险境。"
+    },
+    {
+      "id": 254,
+      "start": 657.98,
+      "end": 664.49,
+      "en": "Okay, so now it's time for us to listen to our dialogue again and when we come back, Erica's gonna tell us about her ER story.",
+      "zh": "好的，现在是时候让我们再次聆听我们的对话了，当我们回来时，埃里卡会告诉我们她的 ER 故事。"
+    },
+    {
+      "id": 255,
+      "start": 664.86,
+      "end": 667.02,
+      "en": "Help, are you a doctor?",
+      "zh": "求助，你是医生吗？"
+    },
+    {
+      "id": 256,
+      "start": 667.02,
+      "end": 669.5,
+      "en": "My poor little Frankie, he's just stopped breathing.",
+      "zh": "我可怜的小弗兰基，他突然不呼吸了。"
+    },
+    {
+      "id": 257,
+      "start": 669.5,
+      "end": 671.34,
+      "en": "Oh my gosh, help me.",
+      "zh": "天哪，快帮帮我！"
+    },
+    {
+      "id": 258,
+      "start": 681.35,
+      "end": 685.15,
+      "en": "I tried to perform CPR, but I just, I don't know if I could get any air into his lungs.",
+      "zh": "我试着给他做心肺复苏，可我……不知道有没有把空气吹进他的肺里。"
+    },
+    {
+      "id": 259,
+      "start": 685.39,
+      "end": 686.03,
+      "en": "Oh, Frankie.",
+      "zh": "哦，弗兰基。"
+    },
+    {
+      "id": 260,
+      "start": 687.15,
+      "end": 688.99,
+      "en": "Ellen, get him hooked up to a monitor.",
+      "zh": "艾伦，把他接上监护仪。"
+    },
+    {
+      "id": 261,
+      "start": 689.69,
+      "end": 690.89,
+      "en": "Somebody page Dr. Hauser.",
+      "zh": "快呼叫豪瑟医生。"
+    },
+    {
+      "id": 262,
+      "start": 691.61,
+      "end": 692.35,
+      "en": "Get the patient to hold still.",
+      "zh": "让病人保持不动。"
+    },
+    {
+      "id": 263,
+      "start": 693.61,
+      "end": 694.41,
+      "en": "I can't get a pulse.",
+      "zh": "我摸不到脉搏。"
+    },
+    {
+      "id": 264,
+      "start": 696.69,
+      "end": 697.75,
+      "en": "Okay, he's on the monitor.",
+      "zh": "好了，监护仪接上了。"
+    },
+    {
+      "id": 265,
+      "start": 698.42,
+      "end": 699.82,
+      "en": "His BP's falling.",
+      "zh": "他的血压在下降。"
+    },
+    {
+      "id": 266,
+      "start": 699.87,
+      "end": 700.37,
+      "en": "He's flatlining.",
+      "zh": "他的心电图变成直线了。"
+    },
+    {
+      "id": 267,
+      "start": 700.86,
+      "end": 703.66,
+      "en": "No, Frankie!",
+      "zh": "不，弗兰基！"
+    },
+    {
+      "id": 268,
+      "start": 703.66,
+      "end": 706.14,
+      "en": "Doctor, do something!",
+      "zh": "医生，快想想办法！"
+    },
+    {
+      "id": 269,
+      "start": 706.14,
+      "end": 707.21,
+      "en": "Someone get her out of here.",
+      "zh": "谁来把她带出去。"
+    },
+    {
+      "id": 270,
+      "start": 707.74,
+      "end": 708.87,
+      "en": "Get me the defibrillator.",
+      "zh": "把除颤器给我。"
+    },
+    {
+      "id": 271,
+      "start": 709.5,
+      "end": 710.69,
+      "en": "Okay, clear.",
+      "zh": "好了，让开！"
+    },
+    {
+      "id": 272,
+      "start": 712.42,
+      "end": 713.08,
+      "en": "Again, clear.",
+      "zh": "再来一次，让开！"
+    },
+    {
+      "id": 273,
+      "start": 714.85,
+      "end": 716.19,
+      "en": "Come on, dammit, I'm not letting go of you.",
+      "zh": "来吧，该死的，我不会放过你的。"
+    },
+    {
+      "id": 274,
+      "start": 716.49,
+      "end": 716.89,
+      "en": "Clear.",
+      "zh": "都让开！"
+    },
+    {
+      "id": 275,
+      "start": 718.94,
+      "end": 720.1,
+      "en": "I got a pulse.",
+      "zh": "摸到脉搏了。"
+    },
+    {
+      "id": 276,
+      "start": 720.1,
+      "end": 721.04,
+      "en": "Okay, what's happening?",
+      "zh": "好，怎么回事？"
+    },
+    {
+      "id": 277,
+      "start": 721.62,
+      "end": 723.38,
+      "en": "Patient is in acute respiratory failure.",
+      "zh": "患者处于急性呼吸衰竭。"
+    },
+    {
+      "id": 278,
+      "start": 723.5,
+      "end": 725.66,
+      "en": "I think we're going to have to intubate.",
+      "zh": "恐怕得给他插管。"
+    },
+    {
+      "id": 279,
+      "start": 725.66,
+      "end": 727.1,
+      "en": "Alright, tube's in.",
+      "zh": "好吧，管进去了。"
+    },
+    {
+      "id": 280,
+      "start": 727.1,
+      "end": 728.1,
+      "en": "Bag him.",
+      "zh": "用呼吸囊给他通气。"
+    },
+    {
+      "id": 281,
+      "start": 728.1,
+      "end": 730.1,
+      "en": "Somebody give him 10 cc's shot of adrenaline.",
+      "zh": "有人给他 10 cc 的肾上腺素。"
+    },
+    {
+      "id": 282,
+      "start": 730.14,
+      "end": 731.86,
+      "en": "Let's go, people, move, move!",
+      "zh": "走吧，人，动，动！"
+    },
+    {
+      "id": 283,
+      "start": 738.98,
+      "end": 741.26,
+      "en": "Doctor, oh thank God!",
+      "zh": "医生，哦，谢天谢地！"
+    },
+    {
+      "id": 284,
+      "start": 741.27,
+      "end": 742.03,
+      "en": "How is he?",
+      "zh": "他怎么样了？"
+    },
+    {
+      "id": 285,
+      "start": 742.74,
+      "end": 746.52,
+      "en": "We've managed to stabilize Frankie, but he's not out of the woods yet.",
+      "zh": "我们稳住了弗兰基的状况，但他还没脱离危险。"
+    },
+    {
+      "id": 286,
+      "start": 747.16,
+      "end": 748.64,
+      "en": "He's still in critical condition.",
+      "zh": "他仍然处于危急状态。"
+    },
+    {
+      "id": 287,
+      "start": 749.34,
+      "end": 751.44,
+      "en": "We're moving him to intensive care, but...",
+      "zh": "我们把他送到重症监护室，但是..."
+    },
+    {
+      "id": 288,
+      "start": 751.44,
+      "end": 754.34,
+      "en": "Doctor, just do whatever it takes.",
+      "zh": "医生，无论如何请救救他。"
+    },
+    {
+      "id": 289,
+      "start": 754.84,
+      "end": 756.54,
+      "en": "I just want my little Frankie to be okay.",
+      "zh": "我只希望我的小弗兰基平安无事。"
+    },
+    {
+      "id": 290,
+      "start": 757.22,
+      "end": 760.24,
+      "en": "I couldn't imagine life without my little hamster.",
+      "zh": "我无法想象没有我那只小仓鼠的日子。"
+    },
+    {
+      "id": 291,
+      "start": 765.79,
+      "end": 766.89,
+      "en": "Okay, Erica, so what happened?",
+      "zh": "好吧，埃里卡，发生了什么事？"
+    },
+    {
+      "id": 292,
+      "start": 767.11,
+      "end": 768.29,
+      "en": "What emergency did you have?",
+      "zh": "你有什么紧急情况？"
+    },
+    {
+      "id": 293,
+      "start": 768.75,
+      "end": 769.67,
+      "en": "Well, it was with my cat.",
+      "zh": "嗯，是和我的猫在一起的。"
+    },
+    {
+      "id": 294,
+      "start": 770.07,
+      "end": 770.49,
+      "en": "Your cat.",
+      "zh": "你的猫。"
+    },
+    {
+      "id": 295,
+      "start": 770.73,
+      "end": 784.65,
+      "en": "Yes, I had some people over for dinner, and it was maybe 1.30 in the morning, and I went downstairs to let them out and show them where the taxis were, and then I came up and I saw that the cat was gone, and it turned out that the cat fell out of the window.",
+      "zh": "是的，我请了一些人来吃晚饭，早上可能是 1.30，我下楼让他们出去，向他们展示出租车在哪里，然后我上来，我看到猫不见了，结果猫从窗外掉了下来。"
+    },
+    {
+      "id": 296,
+      "start": 785.3,
+      "end": 786.54,
+      "en": "Fell out of the window.",
+      "zh": "从窗外掉了下来。"
+    },
+    {
+      "id": 297,
+      "start": 786.54,
+      "end": 787.26,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 298,
+      "start": 787.26,
+      "end": 791.78,
+      "en": "Alright, but our listeners have to know, what story or what floor do you live on?",
+      "zh": "好吧，但我们的听众必须知道，你住在什么故事或什么楼层？"
+    },
+    {
+      "id": 299,
+      "start": 791.89,
+      "end": 792.65,
+      "en": "The 20th floor.",
+      "zh": "20楼。"
+    },
+    {
+      "id": 300,
+      "start": 792.77,
+      "end": 793.53,
+      "en": "The 20th.",
+      "zh": "20号。"
+    },
+    {
+      "id": 301,
+      "start": 793.63,
+      "end": 795.71,
+      "en": "Yeah, so this is really dangerous, right?",
+      "zh": "是的，这真的很危险，对吧？"
+    },
+    {
+      "id": 302,
+      "start": 795.95,
+      "end": 796.87,
+      "en": "That's really high up.",
+      "zh": "这真的很高。"
+    },
+    {
+      "id": 303,
+      "start": 798.18,
+      "end": 802.04,
+      "en": "So I went outside and I was calling for my cat, and I was like, Mr. Finn, where are you?",
+      "zh": "所以我走到外面，我在叫我的猫，我就像，芬恩先生，你在哪里？"
+    },
+    {
+      "id": 304,
+      "start": 802.28,
+      "end": 803.2,
+      "en": "How did you know he fell out?",
+      "zh": "你怎么知道他掉队了？"
+    },
+    {
+      "id": 305,
+      "start": 803.4,
+      "end": 803.74,
+      "en": "I just knew.",
+      "zh": "我只知道。"
+    },
+    {
+      "id": 306,
+      "start": 804.16,
+      "end": 804.3,
+      "en": "Yeah?",
+      "zh": "怎么了？"
+    },
+    {
+      "id": 307,
+      "start": 804.54,
+      "end": 804.9,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 308,
+      "start": 804.9,
+      "end": 805.6,
+      "en": "Mother's instinct.",
+      "zh": "母亲的本能。"
+    },
+    {
+      "id": 309,
+      "start": 805.76,
+      "end": 806.22,
+      "en": "I guess so.",
+      "zh": "我想是吧。"
+    },
+    {
+      "id": 310,
+      "start": 807.02,
+      "end": 820.86,
+      "en": "So he was calling back to me, and so I picked him up and brought him to the house, and we had to bring him to the vet, and it was 2.30, 3 in the morning at this time, and the vet was not very happy that we woke him up out of bed.",
+      "zh": "所以他在给我回电话，所以我把他抱起来带他到家里，我们不得不把他带到兽医那里，现在是凌晨 3 点，现在是凌晨 3 点，兽医很不高兴我们把他从床上叫醒了。"
+    },
+    {
+      "id": 311,
+      "start": 820.86,
+      "end": 822.78,
+      "en": "But that was a really good emergency, though.",
+      "zh": "但这是一个非常好的紧急情况。"
+    },
+    {
+      "id": 312,
+      "start": 822.86,
+      "end": 823.08,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 313,
+      "start": 823.62,
+      "end": 825.5,
+      "en": "So anyway, we brought him to the vet.",
+      "zh": "所以无论如何，我们把他带到了兽医那里。"
+    },
+    {
+      "id": 314,
+      "start": 825.9,
+      "end": 832.71,
+      "en": "He was in critical condition for a couple of days, and then we had to keep him in the vet's ICU for about a week.",
+      "zh": "他的情况危急了几天，然后我们不得不把他留在兽医的ICU上大约一个星期。"
+    },
+    {
+      "id": 315,
+      "start": 833.82,
+      "end": 835.02,
+      "en": "He broke his back.",
+      "zh": "他摔断了背。"
+    },
+    {
+      "id": 316,
+      "start": 835.09,
+      "end": 837.05,
+      "en": "He broke two of his legs.",
+      "zh": "他断了两条腿。"
+    },
+    {
+      "id": 317,
+      "start": 837.89,
+      "end": 838.01,
+      "en": "Wow.",
+      "zh": "哇。"
+    },
+    {
+      "id": 318,
+      "start": 838.42,
+      "end": 844.19,
+      "en": "Yeah, and so he was in the hospital for three weeks and then at home on bed rest for another three weeks.",
+      "zh": "是的，所以他在医院住了三个星期，然后在家卧床休息了三个星期。"
+    },
+    {
+      "id": 319,
+      "start": 844.62,
+      "end": 846.54,
+      "en": "But now he's good as new.",
+      "zh": "但现在他和新人一样好。"
+    },
+    {
+      "id": 320,
+      "start": 846.55,
+      "end": 846.99,
+      "en": "Good as new.",
+      "zh": "像新的一样好。"
+    },
+    {
+      "id": 321,
+      "start": 847.26,
+      "end": 847.74,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 322,
+      "start": 847.74,
+      "end": 850.3,
+      "en": "He used up one of his seven lives.",
+      "zh": "他用尽了他的七人生命之一。"
+    },
+    {
+      "id": 323,
+      "start": 850.35,
+      "end": 850.65,
+      "en": "Nine lives.",
+      "zh": "九命。"
+    },
+    {
+      "id": 324,
+      "start": 850.78,
+      "end": 851.18,
+      "en": "Nine?",
+      "zh": "九？"
+    },
+    {
+      "id": 325,
+      "start": 851.18,
+      "end": 851.54,
+      "en": "Nine.",
+      "zh": "九。"
+    },
+    {
+      "id": 326,
+      "start": 851.54,
+      "end": 852.34,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 327,
+      "start": 852.34,
+      "end": 854.3,
+      "en": "I think maybe eight of his nine lives.",
+      "zh": "我想也许是他九人命中的八人。"
+    },
+    {
+      "id": 328,
+      "start": 854.3,
+      "end": 855.29,
+      "en": "He's only got one left.",
+      "zh": "他只剩下一只。"
+    },
+    {
+      "id": 329,
+      "start": 855.46,
+      "end": 855.98,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 330,
+      "start": 855.98,
+      "end": 857.04,
+      "en": "Wow, that's an interesting story.",
+      "zh": "哇，这是一个有趣的故事。"
+    },
+    {
+      "id": 331,
+      "start": 857.38,
+      "end": 860.3,
+      "en": "I guess that's the inspiration under this dialogue.",
+      "zh": "我想这就是这次对话的灵感。"
+    },
+    {
+      "id": 332,
+      "start": 860.3,
+      "end": 860.58,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 333,
+      "start": 861.32,
+      "end": 867.12,
+      "en": "Sometimes we Anglos really treat our cats and our hamsters and our dogs like they're our children.",
+      "zh": "有时我们盎格鲁人真的对待我们的猫、仓鼠和我们的狗，就像它们是我们的孩子一样。"
+    },
+    {
+      "id": 334,
+      "start": 867.26,
+      "end": 867.78,
+      "en": "Yeah, yeah.",
+      "zh": "对，对。"
+    },
+    {
+      "id": 335,
+      "start": 868.1,
+      "end": 869.22,
+      "en": "No, that's good.",
+      "zh": "不，这很好。"
+    },
+    {
+      "id": 336,
+      "start": 869.22,
+      "end": 872.18,
+      "en": "Well, I'm glad Mr. Finn is OK and he's walking and good as new.",
+      "zh": "好吧，我很高兴芬恩先生没事，他正在走路，而且很好。"
+    },
+    {
+      "id": 337,
+      "start": 872.54,
+      "end": 873.5,
+      "en": "Yep, good as new.",
+      "zh": "是的，就像新的一样。"
+    },
+    {
+      "id": 338,
+      "start": 873.5,
+      "end": 878.9,
+      "en": "So maybe our users have some stories about their pets being taken to the hospital.",
+      "zh": "所以也许我们的用户有一些关于他们的宠物被送往医院的故事。"
+    },
+    {
+      "id": 339,
+      "start": 879.34,
+      "end": 879.62,
+      "en": "I want to hear.",
+      "zh": "我想听。"
+    },
+    {
+      "id": 340,
+      "start": 880.14,
+      "end": 880.9,
+      "en": "Yeah, that should be interesting.",
+      "zh": "是的，这应该很有趣。"
+    },
+    {
+      "id": 341,
+      "start": 881.5,
+      "end": 886.36,
+      "en": "I've never had a pet actually break a leg or anything, so don't have any pet stories this time.",
+      "zh": "我从来没有一只宠物真正摔断过腿或任何东西，所以这次不要有任何宠物故事。"
+    },
+    {
+      "id": 342,
+      "start": 886.5,
+      "end": 892.04,
+      "en": "But we want to hear what you think, so come to EnglishPod.com, leave all your questions and comments and your stories.",
+      "zh": "但我们想听听您的想法，所以来 Englishpod.com，留下您的所有问题和评论和故事。"
+    },
+    {
+      "id": 343,
+      "start": 892.34,
+      "end": 893.06,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 344,
+      "start": 893.06,
+      "end": 894.54,
+      "en": "And we'll be there to answer them.",
+      "zh": "我们会在那里回答他们。"
+    },
+    {
+      "id": 345,
+      "start": 894.54,
+      "end": 895.78,
+      "en": "So guys, thanks for listening.",
+      "zh": "所以大家，谢谢收听。"
+    },
+    {
+      "id": 346,
+      "start": 895.78,
+      "end": 897.32,
+      "en": "And until next time, goodbye.",
+      "zh": "下次再见，拜拜。"
+    },
+    {
+      "id": 347,
+      "start": 897.98,
+      "end": 904.934,
+      "en": "Bye.",
+      "zh": "再见。"
+    }
+  ],
+  "dialog": {
+    "start": 130.88,
+    "end": 226.88,
+    "segmentIds": [
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91
+    ]
+  }
+}

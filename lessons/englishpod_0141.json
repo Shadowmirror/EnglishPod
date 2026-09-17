@@ -1,0 +1,1801 @@
+{
+  "version": 1,
+  "id": 141,
+  "number": "0141",
+  "title": "Daily Life - What If Part 2",
+  "audio": "mp3/141. Daily Life - What If Part 2.mp3",
+  "duration": 805.4335,
+  "segments": [
+    {
+      "id": 1,
+      "start": 3.27,
+      "end": 4.39,
+      "en": "Hello, English learners.",
+      "zh": "各位英语学习者，大家好。"
+    },
+    {
+      "id": 2,
+      "start": 4.76,
+      "end": 6.08,
+      "en": "Welcome back to EnglishPod.",
+      "zh": "欢迎回到 EnglishPod。"
+    },
+    {
+      "id": 3,
+      "start": 6.08,
+      "end": 6.49,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 4,
+      "start": 7.08,
+      "end": 8.48,
+      "en": "And my name is Katrin.",
+      "zh": "我的名字是卡特琳。"
+    },
+    {
+      "id": 5,
+      "start": 8.48,
+      "end": 12.56,
+      "en": "And today we've got a very, very useful lesson for all of you out there.",
+      "zh": "今天，我们为你们所有人提供了一个非常非常有用的课程。"
+    },
+    {
+      "id": 6,
+      "start": 12.56,
+      "end": 13.56,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 7,
+      "start": 13.56,
+      "end": 17.21,
+      "en": "We're bringing you part two of the What If series, which is a small series.",
+      "zh": "我们为您带来了 What if 系列的第二部分，这是一个小系列。"
+    },
+    {
+      "id": 8,
+      "start": 17.8,
+      "end": 18.8,
+      "en": "Small.",
+      "zh": "小。"
+    },
+    {
+      "id": 9,
+      "start": 18.8,
+      "end": 24.91,
+      "en": "And it is kind of grammar focused, but it's very, very important because you often want to talk about things that don't happen.",
+      "zh": "它有点以语法为中心，但它非常非常重要，因为你经常想谈论没有发生的事情。"
+    },
+    {
+      "id": 10,
+      "start": 25.48,
+      "end": 28.21,
+      "en": "We're calling these hypotheticals or conditional statements.",
+      "zh": "我们将这些假设或条件陈述称为。"
+    },
+    {
+      "id": 11,
+      "start": 28.43,
+      "end": 28.55,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 12,
+      "start": 29.4,
+      "end": 33.32,
+      "en": "And there are different types of hypotheticals or conditional statements.",
+      "zh": "并且有不同类型的假设或条件陈述。"
+    },
+    {
+      "id": 13,
+      "start": 33.32,
+      "end": 42.06,
+      "en": "So today we're going to be looking at the third conditional, which is probably the hardest one because it uses a little bit of a complex grammar structure.",
+      "zh": "所以今天我们将研究第三个条件，这可能是最难的一种，因为它使用了一些复杂的语法结构。"
+    },
+    {
+      "id": 14,
+      "start": 42.06,
+      "end": 46.23,
+      "en": "It's complex and we're actually talking about things that did not happen and that will not happen, right?",
+      "zh": "这很复杂，我们实际上是在谈论没有发生和不会发生的事情，对吧？"
+    },
+    {
+      "id": 15,
+      "start": 47.61,
+      "end": 48.08,
+      "en": "It's impossible to change.",
+      "zh": "不可能改变。"
+    },
+    {
+      "id": 16,
+      "start": 48.08,
+      "end": 52.99,
+      "en": "It's impossible to change these because there are things that would have happened in the past but didn't.",
+      "zh": "改变这些是不可能的，因为有些事情过去会发生但没有发生。"
+    },
+    {
+      "id": 17,
+      "start": 53.24,
+      "end": 54.45,
+      "en": "Wow, that sounds confusing.",
+      "zh": "哇，这听起来令人困惑。"
+    },
+    {
+      "id": 18,
+      "start": 55.21,
+      "end": 60.77,
+      "en": "Why don't we listen to the dialogue for the first time and then we'll be back to look at some phrases first.",
+      "zh": "为什么我们不第一次听对话，然后我们会先回来看一些短语。"
+    },
+    {
+      "id": 19,
+      "start": 68.5,
+      "end": 70.16,
+      "en": "This is the good life.",
+      "zh": "这是美好的生活。"
+    },
+    {
+      "id": 20,
+      "start": 70.74,
+      "end": 71.86,
+      "en": "We have it good, don't you think?",
+      "zh": "咱们的日子过得不错，你说是不是？"
+    },
+    {
+      "id": 21,
+      "start": 72.3,
+      "end": 73.28,
+      "en": "Yeah, of course.",
+      "zh": "对，当然。"
+    },
+    {
+      "id": 22,
+      "start": 73.92,
+      "end": 76.66,
+      "en": "Although, don't you ever wonder what could have been?",
+      "zh": "不过，你难道从没想过，如果当初做了别的选择，现在会怎样吗？"
+    },
+    {
+      "id": 23,
+      "start": 77.2,
+      "end": 77.78,
+      "en": "What do you mean?",
+      "zh": "你是什么意思？"
+    },
+    {
+      "id": 24,
+      "start": 78.61,
+      "end": 83.61,
+      "en": "Well, sometimes I think of how things could have turned out if I had done things a little differently.",
+      "zh": "好吧，有时我会想到如果我做的事情有点不同，事情会变成什么样子。"
+    },
+    {
+      "id": 25,
+      "start": 84.31,
+      "end": 84.65,
+      "en": "For example?",
+      "zh": "比如呢？"
+    },
+    {
+      "id": 26,
+      "start": 85.25,
+      "end": 91.01,
+      "en": "Like, for example, if I hadn't studied architecture, I would have become an artist like I wanted to.",
+      "zh": "例如，如果我没有学习建筑，我会成为我想要的艺术家。"
+    },
+    {
+      "id": 27,
+      "start": 91.46,
+      "end": 92.08,
+      "en": "I see.",
+      "zh": "我明白了。"
+    },
+    {
+      "id": 28,
+      "start": 92.66,
+      "end": 97.34,
+      "en": "Yeah, now that I think of it, I wouldn't have gotten married if I hadn't moved to this town and met Sally.",
+      "zh": "是的，现在我想起来，如果我没有搬到这个小镇遇到莎莉，我就不会结婚。"
+    },
+    {
+      "id": 29,
+      "start": 98.06,
+      "end": 100.58,
+      "en": "You see, everything happens for a reason.",
+      "zh": "你看，每件事的发生都有原因。"
+    },
+    {
+      "id": 30,
+      "start": 101.1,
+      "end": 105.02,
+      "en": "We wouldn't even have met if I hadn't been in that car accident ten years ago.",
+      "zh": "如果我十年前没有出过那次车祸，我们甚至不会见面。"
+    },
+    {
+      "id": 31,
+      "start": 105.44,
+      "end": 106.94,
+      "en": "Well, I have no regrets.",
+      "zh": "好吧，我没有遗憾。"
+    },
+    {
+      "id": 32,
+      "start": 107.62,
+      "end": 108.32,
+      "en": "I'll drink to that.",
+      "zh": "我为此干杯。"
+    },
+    {
+      "id": 33,
+      "start": 113.84,
+      "end": 116.38,
+      "en": "All right, so two guys, you know, talking about life.",
+      "zh": "好吧，所以两个人，你知道，谈论生活。"
+    },
+    {
+      "id": 34,
+      "start": 117.6,
+      "end": 125.9,
+      "en": "I imagine these guys as being, you know, middle age or a little bit older, sitting on a porch, drinking a beer, talking about what could have been.",
+      "zh": "我想象这些人是，你知道的，中年或稍大一点，坐在门廊上，喝着啤酒，谈论可能发生的事情。"
+    },
+    {
+      "id": 35,
+      "start": 126.3,
+      "end": 127.0,
+      "en": "Yeah, exactly.",
+      "zh": "对，没错。"
+    },
+    {
+      "id": 36,
+      "start": 127.38,
+      "end": 131.2,
+      "en": "They're kind of thinking about the past and the decisions they have made.",
+      "zh": "他们在思考过去和他们做出的决定。"
+    },
+    {
+      "id": 37,
+      "start": 131.88,
+      "end": 132.88,
+      "en": "Yeah, exactly.",
+      "zh": "对，没错。"
+    },
+    {
+      "id": 38,
+      "start": 132.88,
+      "end": 139.02,
+      "en": "All right, so before we start in the grammar, why don't we take a look at a couple of different phrases on Fluency Builder.",
+      "zh": "好吧，所以在我们开始语法之前，我们为什么不看看 Flueny Builder 上的几个不同的短语。"
+    },
+    {
+      "id": 39,
+      "start": 140.92,
+      "end": 141.21,
+      "en": "Fluency Builder.",
+      "zh": "流利表达。"
+    },
+    {
+      "id": 40,
+      "start": 142.25,
+      "end": 146.37,
+      "en": "Well, Marco, this first phrase is a phrase you'll hear very often in English.",
+      "zh": "好吧，马可，第一个短语是您经常在英语中听到的短语。"
+    },
+    {
+      "id": 41,
+      "start": 146.73,
+      "end": 153.67,
+      "en": "It's a phrase that even has philosophical roots, something we talked a lot about when we were studying Socrates back in school.",
+      "zh": "这是一个甚至有哲学根源的短语，当我们回到学校学习苏格拉底时，我们经常谈到这一点。"
+    },
+    {
+      "id": 42,
+      "start": 153.67,
+      "end": 155.51,
+      "en": "But this is the good life.",
+      "zh": "但这是美好的生活。"
+    },
+    {
+      "id": 43,
+      "start": 155.81,
+      "end": 156.69,
+      "en": "The good life.",
+      "zh": "美好的生活。"
+    },
+    {
+      "id": 44,
+      "start": 157.17,
+      "end": 159.27,
+      "en": "We have the good life or I have a good life.",
+      "zh": "我们有美好的生活，或者我有一个美好的生活。"
+    },
+    {
+      "id": 45,
+      "start": 159.5,
+      "end": 163.7,
+      "en": "I have a good life is a very common phrase, but here the good life is an idiom.",
+      "zh": "我有一个很好的生活是一个很常见的短语，但这里的好生活是一个成语。"
+    },
+    {
+      "id": 46,
+      "start": 164.42,
+      "end": 166.56,
+      "en": "So I'm living the good life.",
+      "zh": "所以我过着美好的生活。"
+    },
+    {
+      "id": 47,
+      "start": 166.64,
+      "end": 169.68,
+      "en": "It means, you know, I have no complaints about my life.",
+      "zh": "这意味着，你知道，我对我的生活没有任何抱怨。"
+    },
+    {
+      "id": 48,
+      "start": 169.84,
+      "end": 172.0,
+      "en": "Right, so pretty much you have all your necessities covered.",
+      "zh": "是的，所以几乎可以满足您的所有必需品。"
+    },
+    {
+      "id": 49,
+      "start": 173.04,
+      "end": 177.45,
+      "en": "And maybe you have a good, a nice family and you have a good job and you're just happy.",
+      "zh": "也许你有一个美好的家庭，你有一份好工作，你很开心。"
+    },
+    {
+      "id": 50,
+      "start": 177.74,
+      "end": 178.75,
+      "en": "So this is the good life.",
+      "zh": "所以这就是美好的生活。"
+    },
+    {
+      "id": 51,
+      "start": 179.92,
+      "end": 180.09,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 52,
+      "start": 180.92,
+      "end": 182.09,
+      "en": "So you have the good life.",
+      "zh": "所以你有美好的生活。"
+    },
+    {
+      "id": 53,
+      "start": 182.56,
+      "end": 190.05,
+      "en": "Now moving on to another phrase that's kind of also philosophical, you know, it says everything happens for a reason.",
+      "zh": "现在继续讨论另一个同样哲学的短语，你知道，它说一切的发生都是有原因的。"
+    },
+    {
+      "id": 54,
+      "start": 190.99,
+      "end": 191.75,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 55,
+      "start": 192.02,
+      "end": 195.17,
+      "en": "So this phrase is, well, it's also pretty common.",
+      "zh": "所以这句话，嗯，它也很常见。"
+    },
+    {
+      "id": 56,
+      "start": 195.64,
+      "end": 198.57,
+      "en": "People say this when bad things happen, but they also say this when good things happen.",
+      "zh": "当坏事发生时，人们会这么说，但当好事发生时，他们也会这么说。"
+    },
+    {
+      "id": 57,
+      "start": 198.84,
+      "end": 199.84,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 58,
+      "start": 199.84,
+      "end": 201.87,
+      "en": "So basically you're just saying that it's destiny.",
+      "zh": "所以基本上你只是说这是命运。"
+    },
+    {
+      "id": 59,
+      "start": 202.28,
+      "end": 205.81,
+      "en": "If this bad thing happened to you, there is a reason for it.",
+      "zh": "如果这件坏事发生在你身上，那是有原因的。"
+    },
+    {
+      "id": 60,
+      "start": 205.93,
+      "end": 210.77,
+      "en": "Maybe you don't see it now, maybe not tomorrow, but maybe later you'll see why.",
+      "zh": "也许你现在看不到它，也许不是明天，但也许以后你会明白为什么。"
+    },
+    {
+      "id": 61,
+      "start": 211.45,
+      "end": 213.81,
+      "en": "This often happens when people lose their jobs.",
+      "zh": "当人们失去工作时，这种情况经常发生。"
+    },
+    {
+      "id": 62,
+      "start": 214.45,
+      "end": 216.27,
+      "en": "You say, well, you know, everything happens for a reason.",
+      "zh": "你说，嗯，你知道，一切的发生都是有原因的。"
+    },
+    {
+      "id": 63,
+      "start": 217.12,
+      "end": 222.32,
+      "en": "Maybe losing this job will allow you to find a better job.",
+      "zh": "也许失去这份工作会让你找到一份更好的工作。"
+    },
+    {
+      "id": 64,
+      "start": 222.32,
+      "end": 223.88,
+      "en": "Or maybe go back to school and study.",
+      "zh": "或者也许回到学校学习。"
+    },
+    {
+      "id": 65,
+      "start": 224.5,
+      "end": 226.7,
+      "en": "Or maybe meet the man or woman of your dreams.",
+      "zh": "或者也许认识你梦寐以求的男人或女人。"
+    },
+    {
+      "id": 66,
+      "start": 227.58,
+      "end": 227.76,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 67,
+      "start": 228.02,
+      "end": 229.74,
+      "en": "So everything happens for a reason.",
+      "zh": "所以一切的发生都是有原因的。"
+    },
+    {
+      "id": 68,
+      "start": 230.12,
+      "end": 231.12,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 69,
+      "start": 231.12,
+      "end": 233.28,
+      "en": "And then the guy agrees and says, well, I'll drink to that.",
+      "zh": "然后那家伙同意并说，好吧，我会喝一杯。"
+    },
+    {
+      "id": 70,
+      "start": 233.88,
+      "end": 234.06,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 71,
+      "start": 234.38,
+      "end": 239.2,
+      "en": "So this is a way for people speaking English to say, listen, I agree with you.",
+      "zh": "所以这是人们说英语的一种方式，听着，我同意你的看法。"
+    },
+    {
+      "id": 72,
+      "start": 239.48,
+      "end": 242.56,
+      "en": "I like that idea and I will, cheers.",
+      "zh": "我喜欢这个想法，我会的，干杯。"
+    },
+    {
+      "id": 73,
+      "start": 242.9,
+      "end": 243.3,
+      "en": "Cheers.",
+      "zh": "干杯。"
+    },
+    {
+      "id": 74,
+      "start": 243.72,
+      "end": 244.72,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 75,
+      "start": 244.72,
+      "end": 245.72,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 76,
+      "start": 245.72,
+      "end": 253.56,
+      "en": "So this means we're going to touch our glasses or touch our beer bottles and we're going to, you know, think about how this is a, it's a nice thought, you know, everything happens for a reason is positive.",
+      "zh": "所以这意味着我们要触摸我们的眼镜或触摸我们的啤酒瓶，你知道，想想这是一个很好的想法，你知道，一切都是有原因的。"
+    },
+    {
+      "id": 77,
+      "start": 253.56,
+      "end": 255.57,
+      "en": "It's a way to say, listen, good things can happen from this.",
+      "zh": "这是一种说，听，好事可以由此发生的方式。"
+    },
+    {
+      "id": 78,
+      "start": 256.36,
+      "end": 258.4,
+      "en": "So he's saying, yes, I agree.",
+      "zh": "所以他说，是的，我同意。"
+    },
+    {
+      "id": 79,
+      "start": 258.61,
+      "end": 258.91,
+      "en": "Cheers.",
+      "zh": "干杯。"
+    },
+    {
+      "id": 80,
+      "start": 259.4,
+      "end": 259.69,
+      "en": "I'll drink to that.",
+      "zh": "我为此干杯。"
+    },
+    {
+      "id": 81,
+      "start": 260.4,
+      "end": 260.57,
+      "en": "I'll drink to that.",
+      "zh": "我为此干杯。"
+    },
+    {
+      "id": 82,
+      "start": 261.4,
+      "end": 262.4,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 83,
+      "start": 262.4,
+      "end": 262.97,
+      "en": "Well, pretty interesting phrases.",
+      "zh": "嗯，很有趣的短语。"
+    },
+    {
+      "id": 84,
+      "start": 263.4,
+      "end": 267.44,
+      "en": "You know, they're very common, I guess, like colloquial, right?",
+      "zh": "你知道，它们很常见，我想，就像口语一样，对吧？"
+    },
+    {
+      "id": 85,
+      "start": 267.44,
+      "end": 270.62,
+      "en": "So you can use them in everyday conversation with a friend.",
+      "zh": "因此，您可以在与朋友的日常对话中使用它们。"
+    },
+    {
+      "id": 86,
+      "start": 270.62,
+      "end": 270.8,
+      "en": "You can.",
+      "zh": "你可以。"
+    },
+    {
+      "id": 87,
+      "start": 271.62,
+      "end": 278.98,
+      "en": "And, you know, oftentimes we say, for example, something really positive, like, I'm really glad I have such great friends.",
+      "zh": "而且，你知道，例如，我们经常说一些非常积极的事情，比如，我真的很高兴我有这么好的朋友。"
+    },
+    {
+      "id": 88,
+      "start": 279.5,
+      "end": 280.86,
+      "en": "And then everyone says, oh, I'll drink to that.",
+      "zh": "然后每个人都说，哦，我会喝的。"
+    },
+    {
+      "id": 89,
+      "start": 281.18,
+      "end": 281.44,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 90,
+      "start": 281.72,
+      "end": 284.92,
+      "en": "So this is something you'll hear when you're out with friends or with family.",
+      "zh": "因此，当您与朋友或家人外出时，您都会听到这一点。"
+    },
+    {
+      "id": 91,
+      "start": 285.34,
+      "end": 290.64,
+      "en": "And they may sound funny at first, but you will recognize them when you're speaking to people who speak English.",
+      "zh": "起初它们可能听起来很有趣，但当您与会说英语的人交谈时，您会认出它们。"
+    },
+    {
+      "id": 92,
+      "start": 291.04,
+      "end": 291.34,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 93,
+      "start": 291.88,
+      "end": 292.88,
+      "en": "So, all right.",
+      "zh": "那好吧。"
+    },
+    {
+      "id": 94,
+      "start": 292.88,
+      "end": 301.22,
+      "en": "So let's listen to our dialogue again and then we'll come back and explain the grammar.",
+      "zh": "所以让我们再听一次我们的对话，然后我们会回来解释语法。"
+    },
+    {
+      "id": 95,
+      "start": 301.22,
+      "end": 302.56,
+      "en": "This is the good life.",
+      "zh": "这是美好的生活。"
+    },
+    {
+      "id": 96,
+      "start": 303.24,
+      "end": 304.74,
+      "en": "We have it good, don't you think?",
+      "zh": "咱们的日子过得不错，你说是不是？"
+    },
+    {
+      "id": 97,
+      "start": 305.16,
+      "end": 306.9,
+      "en": "Yeah, of course.",
+      "zh": "对，当然。"
+    },
+    {
+      "id": 98,
+      "start": 307.76,
+      "end": 311.66,
+      "en": "Although don't you ever wonder what could have been?",
+      "zh": "虽然你从来没有想过会是什么吗？"
+    },
+    {
+      "id": 99,
+      "start": 312.2,
+      "end": 313.48,
+      "en": "What do you mean?",
+      "zh": "你是什么意思？"
+    },
+    {
+      "id": 100,
+      "start": 314.24,
+      "end": 321.16,
+      "en": "Well, sometimes I think of how things could have turned out if I had done things a little differently.",
+      "zh": "好吧，有时我会想到如果我做的事情有点不同，事情会变成什么样子。"
+    },
+    {
+      "id": 101,
+      "start": 322.1,
+      "end": 322.56,
+      "en": "For example?",
+      "zh": "比如呢？"
+    },
+    {
+      "id": 102,
+      "start": 323.43,
+      "end": 330.65,
+      "en": "Like, for example, if I hadn't studied architecture, I would have become an artist like I wanted to.",
+      "zh": "例如，如果我没有学习建筑，我会成为我想要的艺术家。"
+    },
+    {
+      "id": 103,
+      "start": 331.17,
+      "end": 331.89,
+      "en": "I see.",
+      "zh": "我明白了。"
+    },
+    {
+      "id": 104,
+      "start": 332.49,
+      "end": 332.87,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 105,
+      "start": 333.21,
+      "end": 338.15,
+      "en": "Now that I think of it, I wouldn't have gotten married if I hadn't moved to this town and met Sally.",
+      "zh": "现在想起来，如果我没有搬到这个小镇遇到莎莉，我就不会结婚了。"
+    },
+    {
+      "id": 106,
+      "start": 338.67,
+      "end": 342.49,
+      "en": "You see, everything happens for a reason.",
+      "zh": "你看，每件事的发生都有原因。"
+    },
+    {
+      "id": 107,
+      "start": 343.01,
+      "end": 347.81,
+      "en": "We wouldn't even have met if I hadn't been in that car accident ten years ago.",
+      "zh": "如果我十年前没有出过那次车祸，我们甚至不会见面。"
+    },
+    {
+      "id": 108,
+      "start": 348.31,
+      "end": 350.41,
+      "en": "Well, I have no regrets.",
+      "zh": "好吧，我没有遗憾。"
+    },
+    {
+      "id": 109,
+      "start": 351.11,
+      "end": 352.29,
+      "en": "I'll drink to that.",
+      "zh": "我为此干杯。"
+    },
+    {
+      "id": 110,
+      "start": 353.44,
+      "end": 356.28,
+      "en": "Beep, beep, beep.",
+      "zh": "哔、哔、哔。"
+    },
+    {
+      "id": 111,
+      "start": 356.28,
+      "end": 357.64,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 112,
+      "start": 357.64,
+      "end": 359.98,
+      "en": "So now it's time for grammar breakdown.",
+      "zh": "所以现在是语法分解的时候了。"
+    },
+    {
+      "id": 113,
+      "start": 361.96,
+      "end": 362.59,
+      "en": "Grammar breakdown.",
+      "zh": "语法解析。"
+    },
+    {
+      "id": 114,
+      "start": 363.26,
+      "end": 370.0,
+      "en": "So in grammar breakdown, we're going to look at the two main parts of these phrases that allow us to talk about things that didn't happen.",
+      "zh": "所以在语法分解中，我们将看看这些短语的两个主要部分，这些部分可以让我们谈论没有发生的事情。"
+    },
+    {
+      "id": 115,
+      "start": 370.5,
+      "end": 376.16,
+      "en": "So we're talking about looking back at our life and seeing what decisions and what actions we made.",
+      "zh": "所以我们谈论的是回顾我们的生活，看看我们做出了哪些决定和做出了哪些行动。"
+    },
+    {
+      "id": 116,
+      "start": 377.32,
+      "end": 379.96,
+      "en": "And in this case, we have a great sentence here.",
+      "zh": "在这种情况下，我们在这里有一个很好的句子。"
+    },
+    {
+      "id": 117,
+      "start": 379.96,
+      "end": 385.56,
+      "en": "If I hadn't studied architecture, I would have become an artist.",
+      "zh": "如果我没有学习建筑，我会成为一名艺术家。"
+    },
+    {
+      "id": 118,
+      "start": 386.04,
+      "end": 387.08,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 119,
+      "start": 387.08,
+      "end": 389.8,
+      "en": "So let's look at the first part before the comma.",
+      "zh": "所以让我们看看逗号之前的第一部分。"
+    },
+    {
+      "id": 120,
+      "start": 389.8,
+      "end": 393.58,
+      "en": "If I hadn't studied architecture, so now we have the conditional if.",
+      "zh": "如果我没有学习建筑，那么现在我们有条件的 if。"
+    },
+    {
+      "id": 121,
+      "start": 394.44,
+      "end": 395.5,
+      "en": "So Marco, big question.",
+      "zh": "所以马可，大问题。"
+    },
+    {
+      "id": 122,
+      "start": 395.96,
+      "end": 396.66,
+      "en": "Did he study architecture?",
+      "zh": "他学过建筑吗？"
+    },
+    {
+      "id": 123,
+      "start": 397.28,
+      "end": 397.58,
+      "en": "He did.",
+      "zh": "他做了。"
+    },
+    {
+      "id": 124,
+      "start": 398.28,
+      "end": 399.28,
+      "en": "He did.",
+      "zh": "他做了。"
+    },
+    {
+      "id": 125,
+      "start": 399.28,
+      "end": 402.14,
+      "en": "So if I hadn't studied architecture, it means I did study architecture.",
+      "zh": "因此，如果我没有学习建筑，这意味着我学习了建筑。"
+    },
+    {
+      "id": 126,
+      "start": 403.22,
+      "end": 411.23,
+      "en": "But if I had not studied it, okay, so this is if I could change the past, then what would I have done?",
+      "zh": "但如果我没有研究它，好吧，如果我可以改变过去，那我会怎么做？"
+    },
+    {
+      "id": 127,
+      "start": 411.61,
+      "end": 413.63,
+      "en": "I would have become an artist.",
+      "zh": "我会成为一名艺术家。"
+    },
+    {
+      "id": 128,
+      "start": 414.13,
+      "end": 414.27,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 129,
+      "start": 414.47,
+      "end": 417.97,
+      "en": "So he wanted to be an artist, but he didn't become an artist.",
+      "zh": "所以他想成为一名艺术家，但他并没有成为一名艺术家。"
+    },
+    {
+      "id": 130,
+      "start": 418.23,
+      "end": 419.77,
+      "en": "He studied architecture instead.",
+      "zh": "他反而学习建筑学。"
+    },
+    {
+      "id": 131,
+      "start": 420.35,
+      "end": 420.53,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 132,
+      "start": 420.97,
+      "end": 421.29,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 133,
+      "start": 422.28,
+      "end": 423.28,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 134,
+      "start": 423.28,
+      "end": 424.28,
+      "en": "You can see the two parts here.",
+      "zh": "你可以在这里看到这两个部分。"
+    },
+    {
+      "id": 135,
+      "start": 424.28,
+      "end": 427.04,
+      "en": "We have one, the condition, if I hadn't done this thing.",
+      "zh": "如果我没有做这件事，我们有一个，条件。"
+    },
+    {
+      "id": 136,
+      "start": 427.04,
+      "end": 430.95,
+      "en": "And then afterwards, we have the result, then I would have become an artist.",
+      "zh": "然后，我们有结果，然后我会成为一名艺术家。"
+    },
+    {
+      "id": 137,
+      "start": 431.2,
+      "end": 432.09,
+      "en": "So this is the hypothetical.",
+      "zh": "所以这是假设。"
+    },
+    {
+      "id": 138,
+      "start": 432.09,
+      "end": 432.93,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 139,
+      "start": 433.13,
+      "end": 441.71,
+      "en": "And when we see the condition, you see the structure of the sentence is had plus verb in past participle.",
+      "zh": "当我们看到条件时，您会看到句子的结构在过去分词中具有加上动词。"
+    },
+    {
+      "id": 140,
+      "start": 441.92,
+      "end": 447.56,
+      "en": "So if I hadn't studied architecture, and this is called the past perfect, right?",
+      "zh": "所以如果我没有研究过建筑，这被称为过去的完美，对吧？"
+    },
+    {
+      "id": 141,
+      "start": 447.56,
+      "end": 456.16,
+      "en": "And then the result, as you said, would have become, this is the present perfect, have or has plus verb in past participle.",
+      "zh": "然后，正如你所说，结果会变成，这就是现在的完美，在过去分词中有或有加动词。"
+    },
+    {
+      "id": 142,
+      "start": 456.16,
+      "end": 457.11,
+      "en": "Let's look at another example.",
+      "zh": "让我们看另一个例子。"
+    },
+    {
+      "id": 143,
+      "start": 458.09,
+      "end": 463.21,
+      "en": "I wouldn't have gotten married if I hadn't moved to this town.",
+      "zh": "如果我没有搬到这个小镇，我就不会结婚。"
+    },
+    {
+      "id": 144,
+      "start": 464.35,
+      "end": 464.79,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 145,
+      "start": 464.79,
+      "end": 467.81,
+      "en": "So we've got the same idea here, but we've got it flipped.",
+      "zh": "所以我们在这里有同样的想法，但我们已经把它翻转了。"
+    },
+    {
+      "id": 146,
+      "start": 468.47,
+      "end": 470.63,
+      "en": "We've got these two parts in different places.",
+      "zh": "我们在不同的地方有这两个部分。"
+    },
+    {
+      "id": 147,
+      "start": 470.92,
+      "end": 478.48,
+      "en": "And so he's pretty much saying, if I hadn't moved to this town, then I wouldn't have gotten married.",
+      "zh": "所以他几乎是在说，如果我没有搬到这个小镇，那我就不会结婚了。"
+    },
+    {
+      "id": 148,
+      "start": 478.48,
+      "end": 479.01,
+      "en": "But what did happen?",
+      "zh": "但发生了什么？"
+    },
+    {
+      "id": 149,
+      "start": 479.48,
+      "end": 481.53,
+      "en": "He did move to this town and he did get married.",
+      "zh": "他确实搬到了这个小镇，他确实结婚了。"
+    },
+    {
+      "id": 150,
+      "start": 482.04,
+      "end": 483.04,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 151,
+      "start": 483.04,
+      "end": 485.67,
+      "en": "So then, yeah, like you say, he changed the condition and you can do this.",
+      "zh": "那么，是的，就像你说的，他改变了条件，你可以做到这一点。"
+    },
+    {
+      "id": 152,
+      "start": 485.82,
+      "end": 488.31,
+      "en": "You can put the condition in the beginning or at the end.",
+      "zh": "您可以将条件放在开头或结尾处。"
+    },
+    {
+      "id": 153,
+      "start": 489.32,
+      "end": 491.04,
+      "en": "And again, the structure is the same.",
+      "zh": "同样，结构是相同的。"
+    },
+    {
+      "id": 154,
+      "start": 491.11,
+      "end": 493.15,
+      "en": "I would have gotten married, right?",
+      "zh": "我会结婚的，对吧？"
+    },
+    {
+      "id": 155,
+      "start": 493.88,
+      "end": 500.32,
+      "en": "Have gotten, this is present perfect, have or has, depending on the subject, plus the verb in past participle.",
+      "zh": "已经得到，这是完美的，有或有，取决于主语，加上过去分词中的动词。"
+    },
+    {
+      "id": 156,
+      "start": 500.32,
+      "end": 507.08,
+      "en": "And then the past perfect or the condition, had plus verb in past participle, hadn't moved to this town.",
+      "zh": "然后过去完美或条件，在过去分词中有加词，没有搬到这个城镇。"
+    },
+    {
+      "id": 157,
+      "start": 507.66,
+      "end": 508.18,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 158,
+      "start": 508.58,
+      "end": 509.0,
+      "en": "That's a lot of grammar.",
+      "zh": "这是很多语法。"
+    },
+    {
+      "id": 159,
+      "start": 509.64,
+      "end": 513.74,
+      "en": "It's a lot of grammar, but it's very easy once you just start using it.",
+      "zh": "这是很多语法，但一旦你开始使用它就很容易。"
+    },
+    {
+      "id": 160,
+      "start": 514.04,
+      "end": 516.44,
+      "en": "Don't think too much about, okay, what do I do here?",
+      "zh": "不要想太多，好吧，我在这里做什么？"
+    },
+    {
+      "id": 161,
+      "start": 516.8,
+      "end": 522.96,
+      "en": "Just, you know, if you get the rhythm and you start using it in the same way, then it kind of comes out naturally.",
+      "zh": "只是，你知道，如果你得到了节奏并开始以同样的方式使用它，那么它就会自然而然地出现。"
+    },
+    {
+      "id": 162,
+      "start": 522.96,
+      "end": 525.82,
+      "en": "And if you make a little mistake, there's not a big deal because even we do it, you know?",
+      "zh": "如果你犯了一个小错误，那没什么大不了的，因为即使我们也这样做了，你知道吗？"
+    },
+    {
+      "id": 163,
+      "start": 526.06,
+      "end": 526.26,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 164,
+      "start": 526.58,
+      "end": 528.8,
+      "en": "Well, let's try a couple of examples off the top of our heads.",
+      "zh": "好吧，让我们尝试一些头上的例子。"
+    },
+    {
+      "id": 165,
+      "start": 529.02,
+      "end": 536.09,
+      "en": "First of all, if I hadn't moved to China, I wouldn't have learned Chinese.",
+      "zh": "首先，如果我没有搬到中国，我就不会学中文。"
+    },
+    {
+      "id": 166,
+      "start": 536.63,
+      "end": 537.03,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 167,
+      "start": 537.35,
+      "end": 539.83,
+      "en": "So you did move to China and you did learn Chinese.",
+      "zh": "所以你确实搬到了中国，你确实学习了中文。"
+    },
+    {
+      "id": 168,
+      "start": 539.87,
+      "end": 540.43,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 169,
+      "start": 540.95,
+      "end": 541.59,
+      "en": "So your turn.",
+      "zh": "所以轮到你了。"
+    },
+    {
+      "id": 170,
+      "start": 542.44,
+      "end": 543.84,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 171,
+      "start": 543.84,
+      "end": 549.47,
+      "en": "If my parents hadn't spoken Spanish to me when I was a kid, I wouldn't have become fluent in Spanish.",
+      "zh": "如果我小时候父母没有对我说西班牙语，我不会说一口流利的西班牙语。"
+    },
+    {
+      "id": 172,
+      "start": 550.14,
+      "end": 550.62,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 173,
+      "start": 551.08,
+      "end": 554.74,
+      "en": "So your parents did speak Spanish to you and you did become fluent in Spanish.",
+      "zh": "所以你的父母确实对你说西班牙语，你确实会说一口流利的西班牙语。"
+    },
+    {
+      "id": 174,
+      "start": 554.92,
+      "end": 555.76,
+      "en": "So not bad.",
+      "zh": "所以还不错。"
+    },
+    {
+      "id": 175,
+      "start": 556.02,
+      "end": 556.2,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 176,
+      "start": 556.92,
+      "end": 568.04,
+      "en": "So maybe you can use it not only to think about things in the past that you can't change anymore, but just also, you know, kind of remember or say, you know, oh, if this hadn't happened, the result.",
+      "zh": "所以也许你不仅可以用它来思考过去你不能改变的事情，而且你知道，有点记住或说，你知道，哦，如果这没有发生，结果。"
+    },
+    {
+      "id": 177,
+      "start": 568.04,
+      "end": 574.03,
+      "en": "Or if I hadn't opened my big mouth, my best friend wouldn't have gotten so angry at me.",
+      "zh": "或者，如果我没有张大嘴巴，我最好的朋友就不会对我如此生气。"
+    },
+    {
+      "id": 178,
+      "start": 574.64,
+      "end": 575.64,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 179,
+      "start": 575.64,
+      "end": 579.76,
+      "en": "So I said something stupid and my friend did get angry and now I feel bad about it.",
+      "zh": "所以我说了一些愚蠢的话，我的朋友确实很生气，现在我对此感到难过。"
+    },
+    {
+      "id": 180,
+      "start": 579.76,
+      "end": 580.76,
+      "en": "It happens.",
+      "zh": "它发生了。"
+    },
+    {
+      "id": 181,
+      "start": 580.76,
+      "end": 581.76,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 182,
+      "start": 581.76,
+      "end": 582.76,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 183,
+      "start": 582.76,
+      "end": 583.76,
+      "en": "So I hope it's clear.",
+      "zh": "所以我希望它很清楚。"
+    },
+    {
+      "id": 184,
+      "start": 583.76,
+      "end": 586.64,
+      "en": "It does sound a little bit complicated, but this is what our website is for, right?",
+      "zh": "听起来确实有点复杂，但这就是我们的网站的用途，对吧？"
+    },
+    {
+      "id": 185,
+      "start": 586.64,
+      "end": 591.53,
+      "en": "So if you have questions or doubts or you want to try and plant your own ideas, you can come to the website and do it.",
+      "zh": "因此，如果您有疑问或疑问，或者您想尝试植入自己的想法，您可以访问该网站并做到这一点。"
+    },
+    {
+      "id": 186,
+      "start": 592.08,
+      "end": 600.41,
+      "en": "Want to make some of your own sentences and practice some of these new things, then come to our website, post some comments and we are happy to correct and add our own commentary on those.",
+      "zh": "想写一些你自己的句子并练习一些这些新事物，然后访问我们的网站，发表一些评论，我们很乐意纠正并添加我们自己的评论。"
+    },
+    {
+      "id": 187,
+      "start": 601.16,
+      "end": 602.16,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 188,
+      "start": 602.16,
+      "end": 604.49,
+      "en": "So before we go, let's listen to this dialogue one last time.",
+      "zh": "所以在我们走之前，让我们最后一次听听这场对话。"
+    },
+    {
+      "id": 189,
+      "start": 613.36,
+      "end": 614.47,
+      "en": "This is the good life.",
+      "zh": "这是美好的生活。"
+    },
+    {
+      "id": 190,
+      "start": 615.16,
+      "end": 616.88,
+      "en": "You have it good, don't you think?",
+      "zh": "你有很好的，你不觉得吗？"
+    },
+    {
+      "id": 191,
+      "start": 616.88,
+      "end": 617.61,
+      "en": "Yeah, of course.",
+      "zh": "对，当然。"
+    },
+    {
+      "id": 192,
+      "start": 618.32,
+      "end": 621.01,
+      "en": "Although, don't you ever wonder what could have been?",
+      "zh": "不过，你难道从没想过，如果当初做了别的选择，现在会怎样吗？"
+    },
+    {
+      "id": 193,
+      "start": 621.84,
+      "end": 622.11,
+      "en": "What do you mean?",
+      "zh": "你是什么意思？"
+    },
+    {
+      "id": 194,
+      "start": 622.97,
+      "end": 627.95,
+      "en": "Well, sometimes I think of how things could have turned out if I had done things a little differently.",
+      "zh": "好吧，有时我会想到如果我做的事情有点不同，事情会变成什么样子。"
+    },
+    {
+      "id": 195,
+      "start": 628.65,
+      "end": 629.01,
+      "en": "For example?",
+      "zh": "比如呢？"
+    },
+    {
+      "id": 196,
+      "start": 629.59,
+      "end": 635.35,
+      "en": "Like, for example, if I hadn't studied architecture, I would have become an artist like I wanted to.",
+      "zh": "例如，如果我没有学习建筑，我会成为我想要的艺术家。"
+    },
+    {
+      "id": 197,
+      "start": 635.8,
+      "end": 636.42,
+      "en": "I see.",
+      "zh": "我明白了。"
+    },
+    {
+      "id": 198,
+      "start": 637.0,
+      "end": 637.26,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 199,
+      "start": 637.5,
+      "end": 641.68,
+      "en": "Now that I think of it, I wouldn't have gotten married if I hadn't moved to this town and met Sally.",
+      "zh": "现在想起来，如果我没有搬到这个小镇遇到莎莉，我就不会结婚了。"
+    },
+    {
+      "id": 200,
+      "start": 642.42,
+      "end": 644.92,
+      "en": "You see, everything happens for a reason.",
+      "zh": "你看，每件事的发生都有原因。"
+    },
+    {
+      "id": 201,
+      "start": 645.42,
+      "end": 649.36,
+      "en": "We wouldn't even have met if I hadn't been in that car accident 10 years ago.",
+      "zh": "如果我在 10 年前没有发生过那次车祸，我们甚至不会见面。"
+    },
+    {
+      "id": 202,
+      "start": 649.76,
+      "end": 651.26,
+      "en": "Well, I have no regrets.",
+      "zh": "好吧，我没有遗憾。"
+    },
+    {
+      "id": 203,
+      "start": 651.98,
+      "end": 652.66,
+      "en": "I'll drink to that.",
+      "zh": "我为此干杯。"
+    },
+    {
+      "id": 204,
+      "start": 654.36,
+      "end": 661.4,
+      "en": "All right, we're back.",
+      "zh": "好了，我们回来了。"
+    },
+    {
+      "id": 205,
+      "start": 661.43,
+      "end": 666.15,
+      "en": "So, Catherine, any other regrets maybe in your life apart from opening your mouth?",
+      "zh": "那么，凯瑟琳，除了张开嘴之外，你的生活中还有什么遗憾吗？"
+    },
+    {
+      "id": 206,
+      "start": 666.49,
+      "end": 667.45,
+      "en": "Any other regrets?",
+      "zh": "还有其他遗憾吗？"
+    },
+    {
+      "id": 207,
+      "start": 668.4,
+      "end": 673.48,
+      "en": "If my parents had spoken Spanish to me as a kid, I would have learned.",
+      "zh": "如果我的父母小时候对我说西班牙语，我会学到的。"
+    },
+    {
+      "id": 208,
+      "start": 673.76,
+      "end": 676.0,
+      "en": "But instead, I just learned English and that's all.",
+      "zh": "但相反，我只是学了英语，仅此而已。"
+    },
+    {
+      "id": 209,
+      "start": 676.4,
+      "end": 679.34,
+      "en": "Well, your mom is half Swedish, right?",
+      "zh": "好吧，你妈妈是一半瑞典人，对吧？"
+    },
+    {
+      "id": 210,
+      "start": 679.56,
+      "end": 680.3,
+      "en": "Half Swedish, half Czech.",
+      "zh": "一半瑞典语，一半捷克语。"
+    },
+    {
+      "id": 211,
+      "start": 680.94,
+      "end": 683.18,
+      "en": "And she never spoke any of these languages to you?",
+      "zh": "她从来没有和你说过这些语言吗？"
+    },
+    {
+      "id": 212,
+      "start": 683.84,
+      "end": 685.62,
+      "en": "No, she didn't speak Swedish or Czech.",
+      "zh": "不，她不会说瑞典语或捷克语。"
+    },
+    {
+      "id": 213,
+      "start": 685.88,
+      "end": 690.92,
+      "en": "Her parents spoke English as their common language, but she grew up speaking Italian and German.",
+      "zh": "她的父母说英语是他们的共同语言，但她从小就说意大利语和德语。"
+    },
+    {
+      "id": 214,
+      "start": 691.84,
+      "end": 693.52,
+      "en": "But she didn't speak to me in those languages.",
+      "zh": "但她没有用那些语言和我说话。"
+    },
+    {
+      "id": 215,
+      "start": 693.52,
+      "end": 696.56,
+      "en": "And then as an adult, she forgot some of them.",
+      "zh": "然后作为一个成年人，她忘记了其中的一些。"
+    },
+    {
+      "id": 216,
+      "start": 696.92,
+      "end": 702.37,
+      "en": "And so, because my dad was, well, they're both Americans now, but my dad's American.",
+      "zh": "所以，因为我父亲是，嗯，他们现在都是美国人，但我父亲是美国人。"
+    },
+    {
+      "id": 217,
+      "start": 703.25,
+      "end": 704.39,
+      "en": "They just spoke English to me.",
+      "zh": "他们只是对我说英语。"
+    },
+    {
+      "id": 218,
+      "start": 704.64,
+      "end": 705.64,
+      "en": "Wow.",
+      "zh": "哇。"
+    },
+    {
+      "id": 219,
+      "start": 705.64,
+      "end": 705.89,
+      "en": "But now you speak Italian.",
+      "zh": "但现在你会说意大利语。"
+    },
+    {
+      "id": 220,
+      "start": 706.64,
+      "end": 708.43,
+      "en": "So, do you ever try and talk to your mom in Italian?",
+      "zh": "那么，你有没有试过用意大利语和你妈妈说话？"
+    },
+    {
+      "id": 221,
+      "start": 709.28,
+      "end": 710.28,
+      "en": "Sometimes.",
+      "zh": "有时候。"
+    },
+    {
+      "id": 222,
+      "start": 710.28,
+      "end": 711.33,
+      "en": "My grandmother's Italian is much better.",
+      "zh": "我祖母的意大利语要好得多。"
+    },
+    {
+      "id": 223,
+      "start": 711.52,
+      "end": 713.11,
+      "en": "So, my grandmother is completely fluent.",
+      "zh": "所以，我的祖母是完全流利的。"
+    },
+    {
+      "id": 224,
+      "start": 713.4,
+      "end": 716.44,
+      "en": "So I speak to her in Italian and German as well.",
+      "zh": "所以我也用意大利语和德语和她说话。"
+    },
+    {
+      "id": 225,
+      "start": 716.44,
+      "end": 717.19,
+      "en": "She's fluent in German too.",
+      "zh": "她也能说一口流利的德语。"
+    },
+    {
+      "id": 226,
+      "start": 717.29,
+      "end": 718.43,
+      "en": "And I studied German at school.",
+      "zh": "我在学校学习德语。"
+    },
+    {
+      "id": 227,
+      "start": 718.85,
+      "end": 720.33,
+      "en": "See, this is the interesting thing now.",
+      "zh": "看，这是现在有趣的事情。"
+    },
+    {
+      "id": 228,
+      "start": 720.52,
+      "end": 723.52,
+      "en": "So many people are speaking so many languages.",
+      "zh": "这么多人说的是很多语言。"
+    },
+    {
+      "id": 229,
+      "start": 723.52,
+      "end": 727.08,
+      "en": "Even before, if you spoke another foreign language, it was a big deal.",
+      "zh": "甚至在之前，如果你说另一种外语，那是一件大事。"
+    },
+    {
+      "id": 230,
+      "start": 727.08,
+      "end": 727.29,
+      "en": "Oh yeah.",
+      "zh": "哦，对。"
+    },
+    {
+      "id": 231,
+      "start": 728.08,
+      "end": 729.08,
+      "en": "But now it's like a requirement.",
+      "zh": "但现在它就像一个要求。"
+    },
+    {
+      "id": 232,
+      "start": 729.08,
+      "end": 734.21,
+      "en": "You have to at least dominate your own native language and a foreign language, right?",
+      "zh": "你至少必须支配你自己的母语和外语，对吧？"
+    },
+    {
+      "id": 233,
+      "start": 734.37,
+      "end": 739.27,
+      "en": "So, if your native language is English, you at least have to speak Spanish or Chinese or some other language.",
+      "zh": "因此，如果您的母语是英语，您至少必须说西班牙语或中文或其他语言。"
+    },
+    {
+      "id": 234,
+      "start": 739.71,
+      "end": 740.43,
+      "en": "Definitely true.",
+      "zh": "绝对是真的。"
+    },
+    {
+      "id": 235,
+      "start": 740.61,
+      "end": 748.35,
+      "en": "And I think there are a lot of people, a lot of our users that speak maybe two or three languages and English is just one more.",
+      "zh": "而且我认为有很多人，我们的很多用户可能会说两种或三种语言，而英语只是另一种。"
+    },
+    {
+      "id": 236,
+      "start": 748.61,
+      "end": 750.59,
+      "en": "So, you know, more power to them.",
+      "zh": "所以，你知道，对他们来说更多的力量。"
+    },
+    {
+      "id": 237,
+      "start": 750.73,
+      "end": 755.77,
+      "en": "This is a really great skill to have and I think it's really important to keep on going with it even though it's frustrating sometimes.",
+      "zh": "这是一项非常棒的技能，我认为继续使用它非常重要，即使它有时令人沮丧。"
+    },
+    {
+      "id": 238,
+      "start": 756.49,
+      "end": 763.98,
+      "en": "And actually, once you've been able, and actually once you mastered two or three different languages, then the fourth and fifth just becomes easier.",
+      "zh": "实际上，一旦你能够，并且实际上一旦你掌握了两种或三种不同的语言，那么第四个和第五种语言就会变得更容易。"
+    },
+    {
+      "id": 239,
+      "start": 764.34,
+      "end": 765.14,
+      "en": "Actually it's true.",
+      "zh": "其实这是真的。"
+    },
+    {
+      "id": 240,
+      "start": 765.3,
+      "end": 770.36,
+      "en": "It sounds funny when you hear it because you're like, how could it be easier to learn more?",
+      "zh": "当你听到它时，这听起来很有趣，因为你喜欢，怎么能更容易了解更多？"
+    },
+    {
+      "id": 241,
+      "start": 770.6,
+      "end": 774.22,
+      "en": "But your brain starts to understand patterns better, right?",
+      "zh": "但是你的大脑开始更好地理解模式，对吧？"
+    },
+    {
+      "id": 242,
+      "start": 774.56,
+      "end": 776.32,
+      "en": "And so it just becomes more natural for you.",
+      "zh": "所以它对你来说变得更加自然。"
+    },
+    {
+      "id": 243,
+      "start": 776.32,
+      "end": 779.92,
+      "en": "It just picks up patterns from the two or three other different languages that you dominate.",
+      "zh": "它只是从您主导的两种或三种其他不同语言中获取模式。"
+    },
+    {
+      "id": 244,
+      "start": 779.92,
+      "end": 782.1,
+      "en": "So it's a weird, it's strange how the brain works.",
+      "zh": "所以这很奇怪，大脑的工作方式很奇怪。"
+    },
+    {
+      "id": 245,
+      "start": 782.24,
+      "end": 783.24,
+      "en": "You make connections.",
+      "zh": "你建立联系。"
+    },
+    {
+      "id": 246,
+      "start": 783.24,
+      "end": 784.24,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 247,
+      "start": 784.24,
+      "end": 785.24,
+      "en": "All right, guys.",
+      "zh": "好了，各位。"
+    },
+    {
+      "id": 248,
+      "start": 785.24,
+      "end": 786.24,
+      "en": "So that's all for today.",
+      "zh": "所以这就是今天的全部内容。"
+    },
+    {
+      "id": 249,
+      "start": 786.24,
+      "end": 787.68,
+      "en": "Be sure to visit our website EnglishPod.com.",
+      "zh": "请务必访问我们的网站 englishpod.com。"
+    },
+    {
+      "id": 250,
+      "start": 787.68,
+      "end": 795.89,
+      "en": "As we said, any questions or comments or you want us to correct your grammar of this lesson, you can visit us there and we'll see you guys next time.",
+      "zh": "正如我们所说，任何问题或意见，或者您希望我们更正您对本课的语法，您可以访问我们，我们下次再见。"
+    },
+    {
+      "id": 251,
+      "start": 796.2,
+      "end": 797.2,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 252,
+      "start": 797.2,
+      "end": 798.2,
+      "en": "Bye everyone.",
+      "zh": "大家再见。"
+    },
+    {
+      "id": 253,
+      "start": 798.2,
+      "end": 805.433,
+      "en": "Bye.",
+      "zh": "再见。"
+    }
+  ],
+  "dialog": {
+    "start": 68.5,
+    "end": 108.32,
+    "segmentIds": [
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32
+    ]
+  }
+}

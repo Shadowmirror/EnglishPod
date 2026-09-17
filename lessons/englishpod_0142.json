@@ -1,0 +1,2173 @@
+{
+  "version": 1,
+  "id": 142,
+  "number": "0142",
+  "title": "The Weekend - What Do I Wear",
+  "audio": "mp3/142. The Weekend - What Do I Wear.mp3",
+  "duration": 917.995125,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.09,
+      "en": "Hello, everyone.",
+      "zh": "大家好。"
+    },
+    {
+      "id": 2,
+      "start": 4.47,
+      "end": 7.13,
+      "en": "Welcome back to another lesson with us here at EnglishPod.",
+      "zh": "欢迎回到 Englishpod 与我们一起参加另一节课。"
+    },
+    {
+      "id": 3,
+      "start": 7.45,
+      "end": 7.89,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 4,
+      "start": 8.23,
+      "end": 9.55,
+      "en": "My name is Catherine and that's us.",
+      "zh": "我的名字是凯瑟琳，那是我们。"
+    },
+    {
+      "id": 5,
+      "start": 9.89,
+      "end": 10.43,
+      "en": "And that's us.",
+      "zh": "这就是我们。"
+    },
+    {
+      "id": 6,
+      "start": 10.77,
+      "end": 16.65,
+      "en": "And today we're going to talk about a very common situation when you're a couple, when you have a girlfriend.",
+      "zh": "今天我们要谈谈你们是情侣时的一个非常常见的情况，当你们有女朋友的时候。"
+    },
+    {
+      "id": 7,
+      "start": 16.65,
+      "end": 17.33,
+      "en": "Honey, come on.",
+      "zh": "亲爱的，快点。"
+    },
+    {
+      "id": 8,
+      "start": 17.85,
+      "end": 18.85,
+      "en": "I want to go.",
+      "zh": "我想去。"
+    },
+    {
+      "id": 9,
+      "start": 19.47,
+      "end": 19.91,
+      "en": "Are you?",
+      "zh": "是吗？"
+    },
+    {
+      "id": 10,
+      "start": 20.08,
+      "end": 21.76,
+      "en": "You are taking forever.",
+      "zh": "你正在永远。"
+    },
+    {
+      "id": 11,
+      "start": 22.71,
+      "end": 22.99,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 12,
+      "start": 23.36,
+      "end": 23.85,
+      "en": "Who takes long?",
+      "zh": "谁需要很长时间？"
+    },
+    {
+      "id": 13,
+      "start": 24.36,
+      "end": 26.8,
+      "en": "Like do you take a long time to get ready, to get dressed?",
+      "zh": "就像你需要很长时间才能准备好，穿衣服？"
+    },
+    {
+      "id": 14,
+      "start": 26.8,
+      "end": 27.11,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 15,
+      "start": 27.8,
+      "end": 39.4,
+      "en": "I take longer to get ready, but my boyfriend takes longer in general because he's like checking his email, playing video games, like just, you know, we call it lollygagging.",
+      "zh": "我需要更长的时间来准备，但我男朋友一般需要更长的时间，因为他就像查看电子邮件、玩电子游戏一样，就像，你知道，我们称之为 LollyGagging。"
+    },
+    {
+      "id": 16,
+      "start": 39.4,
+      "end": 41.63,
+      "en": "He's just like being kind of slow.",
+      "zh": "他只是有点慢。"
+    },
+    {
+      "id": 17,
+      "start": 42.81,
+      "end": 43.69,
+      "en": "I'm the opposite.",
+      "zh": "我是相反的。"
+    },
+    {
+      "id": 18,
+      "start": 44.99,
+      "end": 48.01,
+      "en": "I usually start getting ready later.",
+      "zh": "我通常会在以后开始准备。"
+    },
+    {
+      "id": 19,
+      "start": 48.31,
+      "end": 57.03,
+      "en": "Like if we have to leave at nine, I'll start getting ready at 830, but I'll be ready by nine because I take a shower real fast, get dressed, and I know what I'm going to wear and all my clothes are ready.",
+      "zh": "就像我们必须在九点离开一样，我将在 830 开始准备，但我会在九点之前准备好，因为我洗澡真的很快，穿好衣服，我知道我要穿什么，我所有的衣服都准备好了。"
+    },
+    {
+      "id": 20,
+      "start": 57.77,
+      "end": 62.89,
+      "en": "On the other hand, my girlfriend takes forever to get ready and she's like, oh, and then, you know, the hair.",
+      "zh": "另一方面，我的女朋友需要永远准备好，她就像，哦，然后，你知道，头发。"
+    },
+    {
+      "id": 21,
+      "start": 63.84,
+      "end": 67.32,
+      "en": "Girls have makeup and tights and shoes.",
+      "zh": "女孩有化妆和紧身衣和鞋子。"
+    },
+    {
+      "id": 22,
+      "start": 67.32,
+      "end": 68.07,
+      "en": "But this is what I understand.",
+      "zh": "但这是我的理解。"
+    },
+    {
+      "id": 23,
+      "start": 68.64,
+      "end": 73.0,
+      "en": "If we're supposed to leave at nine, why don't you start getting ready before?",
+      "zh": "如果我们应该在九点离开，你为什么不开始准备呢？"
+    },
+    {
+      "id": 24,
+      "start": 73.0,
+      "end": 74.0,
+      "en": "Never underestimate women.",
+      "zh": "永远不要低估女性。"
+    },
+    {
+      "id": 25,
+      "start": 74.0,
+      "end": 75.0,
+      "en": "I don't know.",
+      "zh": "我不知道。"
+    },
+    {
+      "id": 26,
+      "start": 75.65,
+      "end": 76.0,
+      "en": "Procrastination.",
+      "zh": "拖延。"
+    },
+    {
+      "id": 27,
+      "start": 76.49,
+      "end": 77.79,
+      "en": "Hey, it's not even about procrastination.",
+      "zh": "嘿，这甚至不是关于拖延。"
+    },
+    {
+      "id": 28,
+      "start": 78.32,
+      "end": 79.95,
+      "en": "Sometimes it just takes longer to look good than other times.",
+      "zh": "有时看起来比其他时候好看只需要更长的时间。"
+    },
+    {
+      "id": 29,
+      "start": 81.12,
+      "end": 81.45,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 30,
+      "start": 81.95,
+      "end": 85.79,
+      "en": "Well, in this case, we're going to be looking at a lesson where it's the opposite.",
+      "zh": "好吧，在这种情况下，我们将看一个相反的教训。"
+    },
+    {
+      "id": 31,
+      "start": 86.09,
+      "end": 93.41,
+      "en": "The husband is taking a long time to get ready and well, I don't think he has a very good fashion sense, right?",
+      "zh": "丈夫需要很长时间才能做好准备，好吧，我不认为他有很好的时尚感，对吧？"
+    },
+    {
+      "id": 32,
+      "start": 93.65,
+      "end": 94.13,
+      "en": "He does not.",
+      "zh": "他没有。"
+    },
+    {
+      "id": 33,
+      "start": 94.72,
+      "end": 96.64,
+      "en": "And we're going to learn what that phrase means in a minute here.",
+      "zh": "我们将在这里了解这句话的含义。"
+    },
+    {
+      "id": 34,
+      "start": 96.64,
+      "end": 101.69,
+      "en": "But before we get going, I've got a couple of words to preview to help you understand what's going on in today's dialogue.",
+      "zh": "但在我们开始之前，我有几个词要预览以帮助您了解今天对话中发生的事情。"
+    },
+    {
+      "id": 35,
+      "start": 103.48,
+      "end": 103.96,
+      "en": "Vocabulary preview.",
+      "zh": "词汇预习。"
+    },
+    {
+      "id": 36,
+      "start": 104.48,
+      "end": 105.48,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 37,
+      "start": 105.73,
+      "end": 107.05,
+      "en": "So, vocabulary preview.",
+      "zh": "所以，词汇预览。"
+    },
+    {
+      "id": 38,
+      "start": 107.21,
+      "end": 108.17,
+      "en": "Today we have two words.",
+      "zh": "今天我们有两个词。"
+    },
+    {
+      "id": 39,
+      "start": 108.83,
+      "end": 111.93,
+      "en": "The first one can be a noun or a verb, to iron.",
+      "zh": "第一个可以是名词或动词，toiron。"
+    },
+    {
+      "id": 40,
+      "start": 112.67,
+      "end": 113.29,
+      "en": "Or iron.",
+      "zh": "或铁。"
+    },
+    {
+      "id": 41,
+      "start": 115.35,
+      "end": 118.55,
+      "en": "So to iron basically means to...",
+      "zh": "所以铁基本上意味着..."
+    },
+    {
+      "id": 42,
+      "start": 119.32,
+      "end": 121.19,
+      "en": "To get the wrinkles out of clothes.",
+      "zh": "去除衣服上的皱纹。"
+    },
+    {
+      "id": 43,
+      "start": 121.56,
+      "end": 122.56,
+      "en": "And so we use this...",
+      "zh": "所以我们用这个..."
+    },
+    {
+      "id": 44,
+      "start": 122.56,
+      "end": 124.11,
+      "en": "Iron is actually a metal.",
+      "zh": "铁实际上是一种金属。"
+    },
+    {
+      "id": 45,
+      "start": 124.86,
+      "end": 126.37,
+      "en": "It's a very important metal.",
+      "zh": "这是一种非常重要的金属。"
+    },
+    {
+      "id": 46,
+      "start": 127.32,
+      "end": 130.19,
+      "en": "And an iron is a machine that we plug in.",
+      "zh": "熨斗是我们插入的机器。"
+    },
+    {
+      "id": 47,
+      "start": 130.39,
+      "end": 135.21,
+      "en": "We use it to get the wrinkles, the lines out of our shirts and our skirts and everything.",
+      "zh": "我们用它来去除衬衫和裙子的皱纹、线条和一切。"
+    },
+    {
+      "id": 48,
+      "start": 135.51,
+      "end": 138.77,
+      "en": "So, it's actually a very important thing to make sure that you look nice and put together.",
+      "zh": "所以，确保你看起来不错并放在一起实际上是一件非常重要的事情。"
+    },
+    {
+      "id": 49,
+      "start": 139.12,
+      "end": 140.12,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 50,
+      "start": 140.12,
+      "end": 143.11,
+      "en": "So, you use an iron to iron your shirt or to iron your skirt.",
+      "zh": "所以，你用铁来熨你的衬衫或熨烫你的裙子。"
+    },
+    {
+      "id": 51,
+      "start": 144.12,
+      "end": 145.45,
+      "en": "And then we have sandals.",
+      "zh": "然后我们有凉鞋。"
+    },
+    {
+      "id": 52,
+      "start": 146.04,
+      "end": 146.9,
+      "en": "My favorite type of shoe.",
+      "zh": "我最喜欢的鞋子类型。"
+    },
+    {
+      "id": 53,
+      "start": 147.12,
+      "end": 147.58,
+      "en": "Mine too.",
+      "zh": "我的也是。"
+    },
+    {
+      "id": 54,
+      "start": 147.94,
+      "end": 148.32,
+      "en": "Sandals.",
+      "zh": "凉鞋。"
+    },
+    {
+      "id": 55,
+      "start": 148.56,
+      "end": 151.26,
+      "en": "I have a friend who used to say she had claustrophobic feet.",
+      "zh": "我有一个朋友曾经说她有幽闭恐惧症的脚。"
+    },
+    {
+      "id": 56,
+      "start": 151.44,
+      "end": 153.3,
+      "en": "Her feet didn't like to be in closed spaces.",
+      "zh": "她的脚不喜欢在封闭的空间里。"
+    },
+    {
+      "id": 57,
+      "start": 153.46,
+      "end": 154.94,
+      "en": "So, she only wore sandals.",
+      "zh": "所以，她只穿凉鞋。"
+    },
+    {
+      "id": 58,
+      "start": 155.36,
+      "end": 159.0,
+      "en": "So these are open shoes, open toe shoes basically.",
+      "zh": "所以这些是开式鞋子，基本上是露趾鞋。"
+    },
+    {
+      "id": 59,
+      "start": 159.48,
+      "end": 160.96,
+      "en": "You wear them at the beach.",
+      "zh": "你在海滩上穿它们。"
+    },
+    {
+      "id": 60,
+      "start": 160.96,
+      "end": 162.19,
+      "en": "Or you wear them in the summer in general.",
+      "zh": "或者你一般在夏天穿它们。"
+    },
+    {
+      "id": 61,
+      "start": 162.47,
+      "end": 163.53,
+      "en": "I'm wearing sandals right now.",
+      "zh": "我现在穿着凉鞋。"
+    },
+    {
+      "id": 62,
+      "start": 164.08,
+      "end": 166.95,
+      "en": "And you have different types of sandals like sandals and flip-flops, right?",
+      "zh": "你有不同类型的凉鞋，比如凉鞋和人字拖，对吧？"
+    },
+    {
+      "id": 63,
+      "start": 167.8,
+      "end": 172.0,
+      "en": "Flip-flops I think they're called that because they sound like flip-flop, flip-flop when you walk.",
+      "zh": "触发器我认为它们之所以如此称呼，是因为它们听起来像人字拖，走路时人字拖。"
+    },
+    {
+      "id": 64,
+      "start": 172.0,
+      "end": 173.69,
+      "en": "Alright, so those are our two words today.",
+      "zh": "好吧，那是我们今天的两个词。"
+    },
+    {
+      "id": 65,
+      "start": 174.24,
+      "end": 177.45,
+      "en": "Let's listen to the dialogue for the first time and then we'll be back.",
+      "zh": "让我们第一次听对话，然后我们会回来的。"
+    },
+    {
+      "id": 66,
+      "start": 179.08,
+      "end": 183.12,
+      "en": "Honey, come on.",
+      "zh": "亲爱的，快点。"
+    },
+    {
+      "id": 67,
+      "start": 186.36,
+      "end": 187.0,
+      "en": "We're going to be late.",
+      "zh": "我们要迟到了。"
+    },
+    {
+      "id": 68,
+      "start": 187.68,
+      "end": 189.48,
+      "en": "Honestly, you take longer getting ready than I do.",
+      "zh": "老实说，你需要比我更长的时间来准备。"
+    },
+    {
+      "id": 69,
+      "start": 190.38,
+      "end": 192.66,
+      "en": "I was drying my hair and ironing my shirt.",
+      "zh": "我刚才在吹头发、熨衬衫。"
+    },
+    {
+      "id": 70,
+      "start": 193.26,
+      "end": 194.48,
+      "en": "Can you come here for a second?",
+      "zh": "你能过来一下吗？"
+    },
+    {
+      "id": 71,
+      "start": 194.56,
+      "end": 195.14,
+      "en": "I need your help.",
+      "zh": "我需要你帮忙。"
+    },
+    {
+      "id": 72,
+      "start": 195.96,
+      "end": 196.76,
+      "en": "What is it?",
+      "zh": "怎么了？"
+    },
+    {
+      "id": 73,
+      "start": 197.19,
+      "end": 198.75,
+      "en": "Why are all these clothes on the bed?",
+      "zh": "为什么所有这些衣服都在床上？"
+    },
+    {
+      "id": 74,
+      "start": 199.41,
+      "end": 200.49,
+      "en": "I don't know what to wear.",
+      "zh": "我不知道穿什么。"
+    },
+    {
+      "id": 75,
+      "start": 201.08,
+      "end": 202.53,
+      "en": "Okay, give me your opinion.",
+      "zh": "好的，给我你的意见。"
+    },
+    {
+      "id": 76,
+      "start": 203.24,
+      "end": 204.17,
+      "en": "Do you like the way this looks?",
+      "zh": "你喜欢这个样子吗？"
+    },
+    {
+      "id": 77,
+      "start": 204.76,
+      "end": 208.01,
+      "en": "The striped short-sleeved shirt with this checkered sweater and my lucky sandals.",
+      "zh": "条纹短袖衬衫搭配这件格纹毛衣和我的幸运凉鞋。"
+    },
+    {
+      "id": 78,
+      "start": 208.32,
+      "end": 210.23,
+      "en": "I like the cut and hemline of these shorts.",
+      "zh": "我喜欢这条短裤的剪裁和裤脚设计。"
+    },
+    {
+      "id": 79,
+      "start": 210.72,
+      "end": 211.87,
+      "en": "So I think I'll wear these as well.",
+      "zh": "所以我想就穿这条了。"
+    },
+    {
+      "id": 80,
+      "start": 212.44,
+      "end": 212.95,
+      "en": "Are you joking?",
+      "zh": "你在开玩笑吗？"
+    },
+    {
+      "id": 81,
+      "start": 213.59,
+      "end": 214.79,
+      "en": "What am I going to do with you?",
+      "zh": "我真拿你没办法。"
+    },
+    {
+      "id": 82,
+      "start": 215.43,
+      "end": 217.49,
+      "en": "You're going to a dinner party, not to the beach.",
+      "zh": "你要去参加晚宴，而不是去海滩。"
+    },
+    {
+      "id": 83,
+      "start": 218.6,
+      "end": 222.12,
+      "en": "Wear the shirt with the silk tie I bought you and those corduroy pants.",
+      "zh": "穿那件衬衫，配上我买给你的丝绸领带和那条灯芯绒裤子。"
+    },
+    {
+      "id": 84,
+      "start": 222.12,
+      "end": 223.84,
+      "en": "It's chilly outside so you can wear this coat.",
+      "zh": "外面很冷，所以你可以穿这件外套。"
+    },
+    {
+      "id": 85,
+      "start": 224.52,
+      "end": 225.14,
+      "en": "Thanks, honey.",
+      "zh": "谢谢你，亲爱的。"
+    },
+    {
+      "id": 86,
+      "start": 225.64,
+      "end": 226.94,
+      "en": "You have such great fashion sense.",
+      "zh": "你真会搭配衣服。"
+    },
+    {
+      "id": 87,
+      "start": 227.44,
+      "end": 229.12,
+      "en": "Now what am I going to do with my hair?",
+      "zh": "那我的头发该怎么弄呢？"
+    },
+    {
+      "id": 88,
+      "start": 234.19,
+      "end": 235.13,
+      "en": "All right, we're back.",
+      "zh": "好了，我们回来了。"
+    },
+    {
+      "id": 89,
+      "start": 235.48,
+      "end": 240.31,
+      "en": "So interesting, this husband sounded a lot like a famous president, I think.",
+      "zh": "太有趣了，我想这个丈夫听起来很像一位著名的总统。"
+    },
+    {
+      "id": 90,
+      "start": 241.2,
+      "end": 242.61,
+      "en": "He did, but we'll get to that in a minute.",
+      "zh": "他做到了，但我们会在一分钟内完成。"
+    },
+    {
+      "id": 91,
+      "start": 243.52,
+      "end": 252.69,
+      "en": "Before we do talk about who this guy is, I think it'd be a great idea to talk about some of these clothing terms because they're very useful for when you want to go shopping and for when you're getting dressed.",
+      "zh": "在我们讨论这个人是谁之前，我认为谈论其中一些服装术语是一个好主意，因为它们在您想去购物和穿衣服时非常有用。"
+    },
+    {
+      "id": 92,
+      "start": 255.64,
+      "end": 255.93,
+      "en": "Language takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 93,
+      "start": 258.76,
+      "end": 262.32,
+      "en": "Okay, so the first word that we have on language takeaway is striped.",
+      "zh": "好的，所以我们关于语言外卖的第一个词是条带化的。"
+    },
+    {
+      "id": 94,
+      "start": 262.97,
+      "end": 267.09,
+      "en": "All right, you might have heard of the American flag called stars and stripes.",
+      "zh": "好吧，您可能听说过称为星条旗的美国国旗。"
+    },
+    {
+      "id": 95,
+      "start": 267.88,
+      "end": 273.53,
+      "en": "Stripes are those lines on clothing or on flags that go up or down or left and right.",
+      "zh": "条纹是衣服上或向上或向下或向左和向右的旗帜上的线条。"
+    },
+    {
+      "id": 96,
+      "start": 274.04,
+      "end": 275.04,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 97,
+      "start": 275.04,
+      "end": 279.51,
+      "en": "So if you have a striped shirt, you have many lines on your shirt that are going up and down or left and right.",
+      "zh": "因此，如果您有一件条纹衬衫，您的衬衫上有许多线条上下左右，向下或左右移动。"
+    },
+    {
+      "id": 98,
+      "start": 279.77,
+      "end": 286.17,
+      "en": "Right, and they say with fashion, lines that go left to right make you look fatter and lines that go up and down make you look thinner.",
+      "zh": "对，他们说时尚，从左到右的线条让你看起来更胖，而上下的线条让你看起来更瘦。"
+    },
+    {
+      "id": 99,
+      "start": 287.05,
+      "end": 287.71,
+      "en": "And taller.",
+      "zh": "而且更高。"
+    },
+    {
+      "id": 100,
+      "start": 287.88,
+      "end": 288.88,
+      "en": "And taller.",
+      "zh": "而且更高。"
+    },
+    {
+      "id": 101,
+      "start": 288.88,
+      "end": 289.88,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 102,
+      "start": 289.88,
+      "end": 295.15,
+      "en": "And now moving on, if it's summer and you want to wear a shirt, you can wear a short sleeved shirt.",
+      "zh": "现在继续前进，如果是夏天，你想穿衬衫，你可以穿短袖衬衫。"
+    },
+    {
+      "id": 103,
+      "start": 295.69,
+      "end": 296.63,
+      "en": "All right, this is important.",
+      "zh": "好吧，这很重要。"
+    },
+    {
+      "id": 104,
+      "start": 297.0,
+      "end": 302.3,
+      "en": "So most people like to wear short sleeved shirts in the summertime because they're cooler.",
+      "zh": "所以大多数人都喜欢在夏天穿短袖衬衫，因为它们更酷。"
+    },
+    {
+      "id": 105,
+      "start": 302.3,
+      "end": 305.64,
+      "en": "And in the wintertime, that means we like to wear long sleeved shirts.",
+      "zh": "而在冬天，这意味着我们喜欢穿长袖衬衫。"
+    },
+    {
+      "id": 106,
+      "start": 305.64,
+      "end": 309.0,
+      "en": "Okay, so the sleeves are basically the arms of the shirt.",
+      "zh": "好的，所以袖子基本上是衬衫的手臂。"
+    },
+    {
+      "id": 107,
+      "start": 309.0,
+      "end": 310.0,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 108,
+      "start": 310.0,
+      "end": 310.69,
+      "en": "You say short sleeved.",
+      "zh": "你说短袖。"
+    },
+    {
+      "id": 109,
+      "start": 311.0,
+      "end": 313.0,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 110,
+      "start": 313.0,
+      "end": 316.72,
+      "en": "And then we have a checkered shirt or a checkered sweater in this case.",
+      "zh": "然后在这种情况下，我们有一件格子衬衫或一件格子毛衣。"
+    },
+    {
+      "id": 111,
+      "start": 316.94,
+      "end": 324.72,
+      "en": "Okay, so checkered means there are little squares on the shirt and usually one square is one color and the next square is another color.",
+      "zh": "好的，所以方格意味着衬衫上有小方块，通常一个正方形是一种颜色，下一个正方形是另一种颜色。"
+    },
+    {
+      "id": 112,
+      "start": 324.96,
+      "end": 326.44,
+      "en": "So it looks like a checkerboard.",
+      "zh": "所以它看起来像一个棋盘。"
+    },
+    {
+      "id": 113,
+      "start": 326.64,
+      "end": 327.38,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 114,
+      "start": 327.44,
+      "end": 328.44,
+      "en": "That game, you know, checkers.",
+      "zh": "那个游戏，你知道的，跳棋。"
+    },
+    {
+      "id": 115,
+      "start": 328.44,
+      "end": 329.72,
+      "en": "Or like a chessboard.",
+      "zh": "或者像棋盘一样。"
+    },
+    {
+      "id": 116,
+      "start": 329.72,
+      "end": 330.72,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 117,
+      "start": 330.72,
+      "end": 337.59,
+      "en": "And so in this case, we've got a guy who's trying to wear a striped shirt and a checkered sweater.",
+      "zh": "所以在这种情况下，我们有一个人想穿条纹衬衫和一件格纹毛衣。"
+    },
+    {
+      "id": 118,
+      "start": 338.2,
+      "end": 340.16,
+      "en": "That does not go well together, right?",
+      "zh": "这不能很好地结合在一起，对吧？"
+    },
+    {
+      "id": 119,
+      "start": 340.16,
+      "end": 341.16,
+      "en": "No.",
+      "zh": "不。"
+    },
+    {
+      "id": 120,
+      "start": 341.16,
+      "end": 342.35,
+      "en": "Too much stuff happening.",
+      "zh": "发生的事情太多了。"
+    },
+    {
+      "id": 121,
+      "start": 342.92,
+      "end": 343.31,
+      "en": "It's too busy.",
+      "zh": "它太忙了。"
+    },
+    {
+      "id": 122,
+      "start": 343.92,
+      "end": 344.92,
+      "en": "Too busy.",
+      "zh": "太忙了。"
+    },
+    {
+      "id": 123,
+      "start": 344.92,
+      "end": 345.92,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 124,
+      "start": 345.92,
+      "end": 352.63,
+      "en": "And not only that, but he wanted to wear shorts because he liked the cut and the hemline.",
+      "zh": "不仅如此，他还想穿短裤，因为他喜欢剪裁和下摆。"
+    },
+    {
+      "id": 125,
+      "start": 353.13,
+      "end": 360.21,
+      "en": "Okay, these are actually terms that we normally use with women's clothing because you could say, I like the cut of this dress.",
+      "zh": "好吧，这些实际上是我们通常用于女装的术语，因为你可以说，我喜欢这件衣服的剪裁。"
+    },
+    {
+      "id": 126,
+      "start": 360.52,
+      "end": 362.56,
+      "en": "I like the shape that it has.",
+      "zh": "我喜欢它的形状。"
+    },
+    {
+      "id": 127,
+      "start": 362.56,
+      "end": 363.56,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 128,
+      "start": 363.56,
+      "end": 375.08,
+      "en": "So the hemline is the bottom of your skirt or your trousers or your shorts and hemline, we could say, my mother used to say this to me, the hemline is much too high, much too short.",
+      "zh": "所以下摆是你的裙子或裤子的底部，或者你的短裤和下摆，我们可以说，我妈妈曾经对我说过，下摆太高了，太短了。"
+    },
+    {
+      "id": 129,
+      "start": 375.08,
+      "end": 376.08,
+      "en": "That skirt is not appropriate.",
+      "zh": "那条裙子不合适。"
+    },
+    {
+      "id": 130,
+      "start": 376.08,
+      "end": 377.08,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 131,
+      "start": 377.08,
+      "end": 378.5,
+      "en": "So it's nice to have a hemline at the knee.",
+      "zh": "所以膝盖上有一个下摆是很好的。"
+    },
+    {
+      "id": 132,
+      "start": 379.5,
+      "end": 380.24,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 133,
+      "start": 380.52,
+      "end": 388.18,
+      "en": "So the cut is the shape that the piece of clothing has like pants or skirts and the hemline would be the place where it ends, right?",
+      "zh": "所以剪裁是这件衣服像裤子或裙子一样的形状，下摆将是它结束的地方，对吧？"
+    },
+    {
+      "id": 134,
+      "start": 389.4,
+      "end": 390.4,
+      "en": "The skirt, for example.",
+      "zh": "以裙子为例。"
+    },
+    {
+      "id": 135,
+      "start": 390.4,
+      "end": 393.04,
+      "en": "Like it pretty much tells you the length of something.",
+      "zh": "就像它几乎告诉你某物的长度。"
+    },
+    {
+      "id": 136,
+      "start": 393.04,
+      "end": 393.32,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 137,
+      "start": 397.08,
+      "end": 400.42,
+      "en": "And now the wife steps in, she's like, no, no, you're not wearing this.",
+      "zh": "现在妻子介入，她就像，不，不，你没有穿这个。"
+    },
+    {
+      "id": 138,
+      "start": 400.92,
+      "end": 406.8,
+      "en": "She's telling him that she has to wear nice clothes and among those items is a silk tie.",
+      "zh": "她告诉他，她必须穿漂亮的衣服，其中包括一条丝绸领带。"
+    },
+    {
+      "id": 139,
+      "start": 407.36,
+      "end": 407.48,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 140,
+      "start": 408.0,
+      "end": 409.32,
+      "en": "So a classic Father's Day gift.",
+      "zh": "所以经典的父亲节礼物。"
+    },
+    {
+      "id": 141,
+      "start": 409.92,
+      "end": 410.92,
+      "en": "Silk tie.",
+      "zh": "丝绸领带。"
+    },
+    {
+      "id": 142,
+      "start": 410.92,
+      "end": 411.66,
+      "en": "I've given this one a couple of times.",
+      "zh": "我已经给了几次。"
+    },
+    {
+      "id": 143,
+      "start": 411.92,
+      "end": 417.2,
+      "en": "A silk tie is a necktie, a long necktie that's made of silk.",
+      "zh": "丝绸领带是领带，是丝绸制成的长领带。"
+    },
+    {
+      "id": 144,
+      "start": 417.2,
+      "end": 418.92,
+      "en": "Silk is a very soft material, right?",
+      "zh": "丝绸是一种非常柔软的材料，对吧？"
+    },
+    {
+      "id": 145,
+      "start": 419.24,
+      "end": 420.36,
+      "en": "Very expensive as well.",
+      "zh": "也非常昂贵。"
+    },
+    {
+      "id": 146,
+      "start": 420.36,
+      "end": 421.82,
+      "en": "It can be, especially Italian silk.",
+      "zh": "它可以，尤其是意大利丝绸。"
+    },
+    {
+      "id": 147,
+      "start": 423.08,
+      "end": 425.48,
+      "en": "And I've always actually wanted to have silk sheets.",
+      "zh": "而且我一直想拥有丝绸床单。"
+    },
+    {
+      "id": 148,
+      "start": 426.26,
+      "end": 427.12,
+      "en": "Ooh, see, I don't know.",
+      "zh": "哦，看，我不知道。"
+    },
+    {
+      "id": 149,
+      "start": 427.2,
+      "end": 429.32,
+      "en": "I feel like they would get very warm in the summer.",
+      "zh": "我觉得他们夏天会变得非常温暖。"
+    },
+    {
+      "id": 150,
+      "start": 429.56,
+      "end": 430.56,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 151,
+      "start": 430.56,
+      "end": 433.04,
+      "en": "Well, in the winter it would be awesome, but probably very cold in the winter as well.",
+      "zh": "好吧，在冬天会很棒，但冬天可能也很冷。"
+    },
+    {
+      "id": 152,
+      "start": 433.24,
+      "end": 434.24,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 153,
+      "start": 434.24,
+      "end": 435.24,
+      "en": "I don't know.",
+      "zh": "我不知道。"
+    },
+    {
+      "id": 154,
+      "start": 435.24,
+      "end": 437.0,
+      "en": "Well, it's one of those things.",
+      "zh": "嗯，这是其中之一。"
+    },
+    {
+      "id": 155,
+      "start": 437.0,
+      "end": 439.98,
+      "en": "And then she's also telling him to wear some corduroy pants.",
+      "zh": "然后她还告诉他穿一些灯芯绒裤子。"
+    },
+    {
+      "id": 156,
+      "start": 440.49,
+      "end": 440.81,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 157,
+      "start": 440.81,
+      "end": 448.31,
+      "en": "So it sounds like this might be a winter dialogue because corduroy is not something you wear in the summer because it's very heavy and thick.",
+      "zh": "所以听起来这可能是一个冬季对话，因为灯芯绒不是你在夏天穿的东西，因为它非常重和厚。"
+    },
+    {
+      "id": 158,
+      "start": 449.19,
+      "end": 456.44,
+      "en": "Corduroy actually is a fabric that usually has these kind of ribs or ridges.",
+      "zh": "灯芯绒实际上是一种通常具有这种肋骨或脊的织物。"
+    },
+    {
+      "id": 159,
+      "start": 456.66,
+      "end": 461.24,
+      "en": "And so there's like little lines in the fabric that make it quite thick and rough when you...",
+      "zh": "所以织物上有小线，当你..."
+    },
+    {
+      "id": 160,
+      "start": 461.32,
+      "end": 465.98,
+      "en": "Almost not rough, but they make it feel very unique when you touch it.",
+      "zh": "几乎不粗糙，但当你触摸它时，它们会让它感觉非常独特。"
+    },
+    {
+      "id": 161,
+      "start": 466.2,
+      "end": 467.2,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 162,
+      "start": 467.2,
+      "end": 468.2,
+      "en": "It's not smooth.",
+      "zh": "它不光滑。"
+    },
+    {
+      "id": 163,
+      "start": 468.2,
+      "end": 469.2,
+      "en": "It's a little bit rough, the fabric.",
+      "zh": "有点粗糙，面料。"
+    },
+    {
+      "id": 164,
+      "start": 470.2,
+      "end": 471.2,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 165,
+      "start": 471.2,
+      "end": 474.29,
+      "en": "So those are all the clothing items that we've looked at today.",
+      "zh": "所以这些都是我们今天看过的所有服装。"
+    },
+    {
+      "id": 166,
+      "start": 474.6,
+      "end": 475.21,
+      "en": "There's a lot of them.",
+      "zh": "有很多。"
+    },
+    {
+      "id": 167,
+      "start": 475.64,
+      "end": 483.99,
+      "en": "And obviously we'll post a couple of pictures on the site so you can see better what a silk tie looks like or especially corduroy pants.",
+      "zh": "显然，我们会在网站上发布几张照片，这样您就可以更好地看到丝绸领带的外观，尤其是灯芯绒裤。"
+    },
+    {
+      "id": 168,
+      "start": 484.28,
+      "end": 484.57,
+      "en": "Corduroy, yeah.",
+      "zh": "灯芯绒，是的。"
+    },
+    {
+      "id": 169,
+      "start": 485.28,
+      "end": 486.28,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 170,
+      "start": 486.28,
+      "end": 487.61,
+      "en": "So let's listen to this dialogue again.",
+      "zh": "所以让我们再听一次这个对话。"
+    },
+    {
+      "id": 171,
+      "start": 488.0,
+      "end": 491.65,
+      "en": "We're going to slow it down a little bit and then we'll come back and look at some of the phrases.",
+      "zh": "我们要放慢速度，然后我们会回来看看一些短语。"
+    },
+    {
+      "id": 172,
+      "start": 497.13,
+      "end": 497.77,
+      "en": "Honey, come on.",
+      "zh": "亲爱的，快点。"
+    },
+    {
+      "id": 173,
+      "start": 498.09,
+      "end": 498.73,
+      "en": "We're going to be late.",
+      "zh": "我们要迟到了。"
+    },
+    {
+      "id": 174,
+      "start": 499.39,
+      "end": 501.19,
+      "en": "Honestly, you take longer getting ready than I do.",
+      "zh": "老实说，你需要比我更长的时间来准备。"
+    },
+    {
+      "id": 175,
+      "start": 501.88,
+      "end": 504.38,
+      "en": "I was drying my hair and ironing my shirt.",
+      "zh": "我刚才在吹头发、熨衬衫。"
+    },
+    {
+      "id": 176,
+      "start": 504.9,
+      "end": 505.94,
+      "en": "Can you come here for a sec?",
+      "zh": "你能来这里一会儿吗？"
+    },
+    {
+      "id": 177,
+      "start": 506.28,
+      "end": 506.88,
+      "en": "I need your help.",
+      "zh": "我需要你帮忙。"
+    },
+    {
+      "id": 178,
+      "start": 507.3,
+      "end": 508,
+      "en": "What is it?",
+      "zh": "怎么了？"
+    },
+    {
+      "id": 179,
+      "start": 508.52,
+      "end": 510,
+      "en": "Why are all these clothes on the bed?",
+      "zh": "为什么所有这些衣服都在床上？"
+    },
+    {
+      "id": 180,
+      "start": 510.46,
+      "end": 511.54,
+      "en": "I don't know what to wear.",
+      "zh": "我不知道穿什么。"
+    },
+    {
+      "id": 181,
+      "start": 512.12,
+      "end": 513.56,
+      "en": "Okay, give me your opinion.",
+      "zh": "好的，给我你的意见。"
+    },
+    {
+      "id": 182,
+      "start": 514.12,
+      "end": 515.2,
+      "en": "Do you like the way this looks?",
+      "zh": "你喜欢这个样子吗？"
+    },
+    {
+      "id": 183,
+      "start": 515.7,
+      "end": 519.06,
+      "en": "The striped short-sleeve shirt with this checkered sweater, my lucky sandals.",
+      "zh": "条纹短袖衬衫搭配这件格纹毛衣，我的幸运凉鞋。"
+    },
+    {
+      "id": 184,
+      "start": 519.3,
+      "end": 522.98,
+      "en": "I like the cut and hemline of these shorts, so I think I'll wear these as well.",
+      "zh": "我喜欢这些短裤的剪裁和下摆，所以我想我也会穿这些。"
+    },
+    {
+      "id": 185,
+      "start": 523.44,
+      "end": 524.12,
+      "en": "Are you joking?",
+      "zh": "你在开玩笑吗？"
+    },
+    {
+      "id": 186,
+      "start": 524.82,
+      "end": 525.94,
+      "en": "What am I going to do with you?",
+      "zh": "我真拿你没办法。"
+    },
+    {
+      "id": 187,
+      "start": 526.54,
+      "end": 528.66,
+      "en": "We are going to a dinner party, not to the beach.",
+      "zh": "我们要去参加晚宴，而不是去海滩。"
+    },
+    {
+      "id": 188,
+      "start": 529.36,
+      "end": 532.4,
+      "en": "Wear this shirt with the silk tie I bought you and these corduroy pants.",
+      "zh": "穿这件衬衫和我给你买的丝绸领带和这些灯芯绒裤子。"
+    },
+    {
+      "id": 189,
+      "start": 533.16,
+      "end": 534.96,
+      "en": "It's chilly outside, so you can wear this coat.",
+      "zh": "外面很冷，所以你可以穿这件外套。"
+    },
+    {
+      "id": 190,
+      "start": 535.6,
+      "end": 536.26,
+      "en": "Thanks, honey.",
+      "zh": "谢谢你，亲爱的。"
+    },
+    {
+      "id": 191,
+      "start": 536.78,
+      "end": 538.08,
+      "en": "You have such great fashion sense.",
+      "zh": "你有这么大的时尚感。"
+    },
+    {
+      "id": 192,
+      "start": 538.6,
+      "end": 540.26,
+      "en": "Now, what am I going to do with my hair?",
+      "zh": "现在，我要用我的头发做什么？"
+    },
+    {
+      "id": 193,
+      "start": 543.99,
+      "end": 547.39,
+      "en": "Alright, we're back, so now let's start with Fluency Builder.",
+      "zh": "好吧，我们回来了，现在让我们从 Fluency Builder 开始。"
+    },
+    {
+      "id": 194,
+      "start": 549.16,
+      "end": 549.41,
+      "en": "Fluency Builder.",
+      "zh": "流利表达。"
+    },
+    {
+      "id": 195,
+      "start": 550.16,
+      "end": 553.44,
+      "en": "OK, these are classic couple phrases, right?",
+      "zh": "好吧，这些是经典的情侣短语，对吧？"
+    },
+    {
+      "id": 196,
+      "start": 553.44,
+      "end": 563.41,
+      "en": "These are phrases you hear among couples, and the first one is maybe more common to hear from the female end, but it's not unknown on the male end.",
+      "zh": "这些是你在夫妻中听到的短语，第一个可能更常见的是从女性一端听到的，但在男性方面并不为人所知。"
+    },
+    {
+      "id": 197,
+      "start": 563.76,
+      "end": 564.67,
+      "en": "So, we have this question.",
+      "zh": "所以，我们有这个问题。"
+    },
+    {
+      "id": 198,
+      "start": 565.64,
+      "end": 567.05,
+      "en": "Do you like the way this looks?",
+      "zh": "你喜欢这个样子吗？"
+    },
+    {
+      "id": 199,
+      "start": 567.76,
+      "end": 573.05,
+      "en": "So while the person is saying this, they would maybe be moving to the side a little bit.",
+      "zh": "因此，当这个人这么说时，他们可能会稍微移动到一边。"
+    },
+    {
+      "id": 200,
+      "start": 573.8,
+      "end": 574.39,
+      "en": "Modeling it.",
+      "zh": "建模它。"
+    },
+    {
+      "id": 201,
+      "start": 575.23,
+      "end": 576.39,
+      "en": "Do you like the way this looks?",
+      "zh": "你喜欢这个样子吗？"
+    },
+    {
+      "id": 202,
+      "start": 577.05,
+      "end": 580.27,
+      "en": "So basically you're saying, do you like what I'm wearing?",
+      "zh": "所以基本上你是说，你喜欢我穿的衣服吗？"
+    },
+    {
+      "id": 203,
+      "start": 580.55,
+      "end": 581.45,
+      "en": "Does it look good on me?",
+      "zh": "我穿起来好看吗？"
+    },
+    {
+      "id": 204,
+      "start": 581.49,
+      "end": 581.99,
+      "en": "Does it look good?",
+      "zh": "它看起来不错吗？"
+    },
+    {
+      "id": 205,
+      "start": 582.6,
+      "end": 583.6,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 206,
+      "start": 583.6,
+      "end": 588.2,
+      "en": "You could also say, hey, I like the way this looks when you're trying to buy something at the store.",
+      "zh": "你也可以说，嘿，我喜欢你在商店里买东西时的样子。"
+    },
+    {
+      "id": 207,
+      "start": 588.2,
+      "end": 593.51,
+      "en": "And so, do you like the way this looks is a way for you to ask the other person's opinion of how you look.",
+      "zh": "因此，您是否喜欢这种外观是您询问对方对您的外表的看法的一种方式。"
+    },
+    {
+      "id": 208,
+      "start": 593.85,
+      "end": 602.51,
+      "en": "And also, another common phrase, especially with men who have no fashion sense, the wife says, what am I going to do with you?",
+      "zh": "而且，另一个常用短语，尤其是没有时尚感的男人，妻子说，我要对你做什么？"
+    },
+    {
+      "id": 209,
+      "start": 603.0,
+      "end": 613.92,
+      "en": "OK, this is an interesting phrase and it needs some explanation, I think, because the meaning is, well, this is very difficult, right?",
+      "zh": "好吧，这是一个有趣的短语，我认为它需要一些解释，因为意思是，嗯，这很困难，对吧？"
+    },
+    {
+      "id": 210,
+      "start": 613.96,
+      "end": 617.5,
+      "en": "So you're being difficult or, wow, you need some help from me.",
+      "zh": "所以你很困难，或者，哇，你需要我的帮助。"
+    },
+    {
+      "id": 211,
+      "start": 617.64,
+      "end": 618.26,
+      "en": "I'm going to help you.",
+      "zh": "我会帮助你的。"
+    },
+    {
+      "id": 212,
+      "start": 618.34,
+      "end": 621.96,
+      "en": "How am I going to help you this much or all the time like this?",
+      "zh": "我将如何像这样或一直帮助你这么多？"
+    },
+    {
+      "id": 213,
+      "start": 622.28,
+      "end": 626.28,
+      "en": "Right, because she's pretty much saying he has no idea about clothing and fashion.",
+      "zh": "对，因为她几乎说他对服装和时尚一无所知。"
+    },
+    {
+      "id": 214,
+      "start": 626.68,
+      "end": 631.76,
+      "en": "So he's saying to her, what am I going to do with you?",
+      "zh": "所以他对她说，我要对你做什么？"
+    },
+    {
+      "id": 215,
+      "start": 631.88,
+      "end": 634.48,
+      "en": "It means you need so much help.",
+      "zh": "这意味着你需要很多帮助。"
+    },
+    {
+      "id": 216,
+      "start": 634.48,
+      "end": 634.8,
+      "en": "Seriously.",
+      "zh": "说真的。"
+    },
+    {
+      "id": 217,
+      "start": 635.72,
+      "end": 636.02,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 218,
+      "start": 638.68,
+      "end": 643.3,
+      "en": "And the third phrase that we saw and we said at the very beginning is fashion sense.",
+      "zh": "我们一开始看到和说的第三个短语是时尚感。"
+    },
+    {
+      "id": 219,
+      "start": 643.56,
+      "end": 647.24,
+      "en": "OK, so this is actually what the man needs help with.",
+      "zh": "好的，这实际上是这个人需要帮助的。"
+    },
+    {
+      "id": 220,
+      "start": 647.24,
+      "end": 650.58,
+      "en": "He needs help with his fashion sense because he has zero fashion sense.",
+      "zh": "他在时尚感方面需要帮助，因为他的时尚感为零。"
+    },
+    {
+      "id": 221,
+      "start": 651.2,
+      "end": 657.51,
+      "en": "And this is pretty much a way to say how much someone knows about fashion or appearances.",
+      "zh": "这几乎是一种表达人们对时尚或外表了解多少的方式。"
+    },
+    {
+      "id": 222,
+      "start": 658.04,
+      "end": 662.84,
+      "en": "And so I can say, oh, my friend Kathy, she has amazing fashion sense.",
+      "zh": "所以我可以说，哦，我的朋友凯西，她有惊人的时尚感。"
+    },
+    {
+      "id": 223,
+      "start": 662.89,
+      "end": 663.81,
+      "en": "So she always looks good.",
+      "zh": "所以她总是看起来很好。"
+    },
+    {
+      "id": 224,
+      "start": 664.04,
+      "end": 665.04,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 225,
+      "start": 665.04,
+      "end": 671.68,
+      "en": "So combining colors appropriately or wearing the right types of shoes with the right types of clothing, et cetera, fashion sense.",
+      "zh": "因此，将颜色适当地结合或穿着正确类型的鞋子与正确类型的服装，等等，时尚感。"
+    },
+    {
+      "id": 226,
+      "start": 671.68,
+      "end": 676.71,
+      "en": "Or even just being able to wear things that are good on her or telling other people what's good on them.",
+      "zh": "甚至只是能够穿对她有好处的东西或告诉别人对他们有什么好处。"
+    },
+    {
+      "id": 227,
+      "start": 677.64,
+      "end": 683.25,
+      "en": "So fashion sense is the ability to identify fashion and look good and make other people look good.",
+      "zh": "所以时尚感是识别时尚和好看并让其他人看起来不错的能力。"
+    },
+    {
+      "id": 228,
+      "start": 683.92,
+      "end": 684.92,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 229,
+      "start": 684.92,
+      "end": 685.92,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 230,
+      "start": 685.92,
+      "end": 692.33,
+      "en": "Let's listen to this dialogue for the very last time and we'll come back and talk a little bit more about fashion because it's a very interesting topic.",
+      "zh": "让我们最后一次听这个对话，我们会回来多谈谈时尚，因为这是一个非常有趣的话题。"
+    },
+    {
+      "id": 231,
+      "start": 694.88,
+      "end": 698.16,
+      "en": "It is.",
+      "zh": "确实很有意思。"
+    },
+    {
+      "id": 232,
+      "start": 698.16,
+      "end": 702.24,
+      "en": "Honey, come on.",
+      "zh": "亲爱的，快点。"
+    },
+    {
+      "id": 233,
+      "start": 702.24,
+      "end": 702.79,
+      "en": "We're going to be late.",
+      "zh": "我们要迟到了。"
+    },
+    {
+      "id": 234,
+      "start": 703.49,
+      "end": 705.29,
+      "en": "Honestly, you take longer getting ready than I do.",
+      "zh": "老实说，你需要比我更长的时间来准备。"
+    },
+    {
+      "id": 235,
+      "start": 705.97,
+      "end": 708.47,
+      "en": "I was drying my hair and ironing my shirt.",
+      "zh": "我刚才在吹头发、熨衬衫。"
+    },
+    {
+      "id": 236,
+      "start": 708.99,
+      "end": 710.03,
+      "en": "Can you come here for a sec?",
+      "zh": "你能来这里一会儿吗？"
+    },
+    {
+      "id": 237,
+      "start": 710.35,
+      "end": 710.95,
+      "en": "I need your help.",
+      "zh": "我需要你帮忙。"
+    },
+    {
+      "id": 238,
+      "start": 711.75,
+      "end": 712.55,
+      "en": "What is it?",
+      "zh": "怎么了？"
+    },
+    {
+      "id": 239,
+      "start": 713.07,
+      "end": 714.55,
+      "en": "Why are all these clothes on the bed?",
+      "zh": "为什么所有这些衣服都在床上？"
+    },
+    {
+      "id": 240,
+      "start": 715.09,
+      "end": 716.29,
+      "en": "I don't know what to wear.",
+      "zh": "我不知道穿什么。"
+    },
+    {
+      "id": 241,
+      "start": 716.72,
+      "end": 718.52,
+      "en": "OK, give me your opinion.",
+      "zh": "好的，给我你的意见。"
+    },
+    {
+      "id": 242,
+      "start": 718.93,
+      "end": 719.95,
+      "en": "Do you like the way this looks?",
+      "zh": "你喜欢这个样子吗？"
+    },
+    {
+      "id": 243,
+      "start": 720.47,
+      "end": 723.81,
+      "en": "The striped short sleeve shirt with this checkered sweater, my lucky sandals.",
+      "zh": "条纹短袖衬衫搭配这件格纹毛衣，我的幸运凉鞋。"
+    },
+    {
+      "id": 244,
+      "start": 724.03,
+      "end": 726.05,
+      "en": "I like the cut and hemline of these shorts.",
+      "zh": "我喜欢这条短裤的剪裁和裤脚设计。"
+    },
+    {
+      "id": 245,
+      "start": 726.27,
+      "end": 727.69,
+      "en": "So I think I'll wear these as well.",
+      "zh": "所以我想就穿这条了。"
+    },
+    {
+      "id": 246,
+      "start": 728.09,
+      "end": 728.71,
+      "en": "Are you joking?",
+      "zh": "你在开玩笑吗？"
+    },
+    {
+      "id": 247,
+      "start": 729.37,
+      "end": 730.59,
+      "en": "What am I going to do with you?",
+      "zh": "我真拿你没办法。"
+    },
+    {
+      "id": 248,
+      "start": 731.4,
+      "end": 734.4,
+      "en": "We're going to a dinner party, not to the beach.",
+      "zh": "我们要去参加晚宴，而不是去海滩。"
+    },
+    {
+      "id": 249,
+      "start": 734.4,
+      "end": 737.88,
+      "en": "Wear the shirt with the silk tie I bought you and these corduroy pants.",
+      "zh": "穿上我给你买的丝绸领带和这些灯芯绒裤子的衬衫。"
+    },
+    {
+      "id": 250,
+      "start": 737.88,
+      "end": 739.63,
+      "en": "It's chilly outside so you can wear this coat.",
+      "zh": "外面很冷，所以你可以穿这件外套。"
+    },
+    {
+      "id": 251,
+      "start": 740.33,
+      "end": 740.93,
+      "en": "Thanks, honey.",
+      "zh": "谢谢你，亲爱的。"
+    },
+    {
+      "id": 252,
+      "start": 741.43,
+      "end": 742.73,
+      "en": "You have such great fashion sense.",
+      "zh": "你有这么大的时尚感。"
+    },
+    {
+      "id": 253,
+      "start": 743.25,
+      "end": 744.91,
+      "en": "Now, what am I going to do with my hair?",
+      "zh": "现在，我要用我的头发做什么？"
+    },
+    {
+      "id": 254,
+      "start": 751.57,
+      "end": 752.55,
+      "en": "All right, we're back.",
+      "zh": "好了，我们回来了。"
+    },
+    {
+      "id": 255,
+      "start": 753.08,
+      "end": 754.25,
+      "en": "You lived in Italy for a while.",
+      "zh": "你在意大利住了一段时间。"
+    },
+    {
+      "id": 256,
+      "start": 754.48,
+      "end": 755.95,
+      "en": "How is the fashion over there?",
+      "zh": "那边的时尚怎么样？"
+    },
+    {
+      "id": 257,
+      "start": 756.04,
+      "end": 758.32,
+      "en": "Is it extreme like we see on the runways?",
+      "zh": "是不是像我们在跑道上看到的那样极端？"
+    },
+    {
+      "id": 258,
+      "start": 758.32,
+      "end": 760.31,
+      "en": "Because I honestly don't understand fashion.",
+      "zh": "因为我真的不懂时尚。"
+    },
+    {
+      "id": 259,
+      "start": 761.07,
+      "end": 763.75,
+      "en": "Well, the thing about runways is that that's not how normal people dress.",
+      "zh": "好吧，关于跑道的事情是，这不是正常人的穿着方式。"
+    },
+    {
+      "id": 260,
+      "start": 763.91,
+      "end": 765.25,
+      "en": "Well, yeah, that's what I understand.",
+      "zh": "嗯，是的，这就是我的理解。"
+    },
+    {
+      "id": 261,
+      "start": 765.53,
+      "end": 769.31,
+      "en": "Why do they have these fashion shows if people don't really buy these types of clothing?",
+      "zh": "如果人们不真正购买这些类型的服装，他们为什么会有这些时装秀？"
+    },
+    {
+      "id": 262,
+      "start": 769.71,
+      "end": 781.25,
+      "en": "Well, sometimes people like stores, for example, big stores, department stores will buy fashions off of the runway and they'll kind of change them a little bit so that they're more appropriate for normal consumption.",
+      "zh": "好吧，有时人们喜欢商店，例如大商店，百货商店会在 T 台上购买时装，他们会稍微改变一下，这样它们就更适合正常消费。"
+    },
+    {
+      "id": 263,
+      "start": 781.25,
+      "end": 783.57,
+      "en": "That means for normal people who want to wear them.",
+      "zh": "这对于想要穿它们的普通人来说意味着。"
+    },
+    {
+      "id": 264,
+      "start": 784.41,
+      "end": 793.43,
+      "en": "But the runway fashions are actually, they're kind of like exaggerations of trends that will happen in the shopping world, right, in the commercial world.",
+      "zh": "但实际上，时装秀是对购物世界中将发生的趋势的夸大，对，在商业世界中。"
+    },
+    {
+      "id": 265,
+      "start": 793.64,
+      "end": 799.32,
+      "en": "So the things that you see are like big, blown up exaggerations.",
+      "zh": "所以你看到的东西就像大的，夸大的夸张。"
+    },
+    {
+      "id": 266,
+      "start": 799.32,
+      "end": 803.65,
+      "en": "And we take bits and pieces of those in our daily lives to dress up.",
+      "zh": "我们拿一些日常生活中的人来打扮。"
+    },
+    {
+      "id": 267,
+      "start": 803.84,
+      "end": 808.96,
+      "en": "So different colors or fabrics or like oftentimes you see kind of military outfits.",
+      "zh": "所以不同的颜色或面料，或者像你经常看到的军装。"
+    },
+    {
+      "id": 268,
+      "start": 808.96,
+      "end": 813.84,
+      "en": "And so that will translate into military jackets that are very popular one season.",
+      "zh": "因此，这将转化为一个非常受欢迎的军用夹克。"
+    },
+    {
+      "id": 269,
+      "start": 813.84,
+      "end": 818.49,
+      "en": "And so Italy definitely counts as a very fashionable country, but it's not crazy.",
+      "zh": "所以意大利绝对是一个非常时尚的国家，但这并不疯狂。"
+    },
+    {
+      "id": 270,
+      "start": 818.98,
+      "end": 824.96,
+      "en": "Well, every once in a while you see some more crazy clothes, but I think Japan is much more crazy as far as style.",
+      "zh": "好吧，每隔一段时间你就会看到一些更疯狂的衣服，但我认为日本在风格方面更加疯狂。"
+    },
+    {
+      "id": 271,
+      "start": 824.96,
+      "end": 825.96,
+      "en": "Yeah, actually, yeah.",
+      "zh": "是的，实际上，是的。"
+    },
+    {
+      "id": 272,
+      "start": 825.96,
+      "end": 834.29,
+      "en": "Asian countries such as Japan or South Korea, they have very, also unique fashion as well, but it's very extreme to a certain point.",
+      "zh": "亚洲国家，如日本或韩国，它们也有非常非常独特的时尚，但在一定程度上是非常极端的。"
+    },
+    {
+      "id": 273,
+      "start": 834.56,
+      "end": 839.76,
+      "en": "And the color combinations they do is like red sneakers with green pants and like a blue jacket.",
+      "zh": "他们所做的颜色组合就像红色运动鞋搭配绿色裤子和蓝色夹克。"
+    },
+    {
+      "id": 274,
+      "start": 839.76,
+      "end": 840.21,
+      "en": "It's very crazy.",
+      "zh": "这是非常疯狂的。"
+    },
+    {
+      "id": 275,
+      "start": 840.76,
+      "end": 841.76,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 276,
+      "start": 841.76,
+      "end": 842.76,
+      "en": "And very bright.",
+      "zh": "而且非常明亮。"
+    },
+    {
+      "id": 277,
+      "start": 842.76,
+      "end": 845.13,
+      "en": "And you often see these shoes, you know, we call them platform shoes.",
+      "zh": "你经常看到这些鞋，你知道，我们称它们为厚底鞋。"
+    },
+    {
+      "id": 278,
+      "start": 846.08,
+      "end": 847.59,
+      "en": "It's kind of like you're standing on a brick.",
+      "zh": "这有点像你站在砖上。"
+    },
+    {
+      "id": 279,
+      "start": 847.8,
+      "end": 849.56,
+      "en": "Yeah, they're huge.",
+      "zh": "是的，它们是巨大的。"
+    },
+    {
+      "id": 280,
+      "start": 849.56,
+      "end": 852.36,
+      "en": "And they're, you know, they're seven inches tall.",
+      "zh": "他们是，你知道，它们有七英寸高。"
+    },
+    {
+      "id": 281,
+      "start": 852.36,
+      "end": 854.01,
+      "en": "And you see these little girls wearing these big shoes.",
+      "zh": "你看到这些小女孩穿着这些大鞋。"
+    },
+    {
+      "id": 282,
+      "start": 854.21,
+      "end": 857.39,
+      "en": "And I just, I'm so scared when I see them because I feel like they're going to fall over.",
+      "zh": "我只是，当我看到他们时我很害怕，因为我觉得他们会摔倒。"
+    },
+    {
+      "id": 283,
+      "start": 857.83,
+      "end": 860.01,
+      "en": "The other thing is that fashion is so expensive.",
+      "zh": "另一件事是时尚如此昂贵。"
+    },
+    {
+      "id": 284,
+      "start": 860.01,
+      "end": 868.56,
+      "en": "If you actually want to buy something that's in like an authentic, I don't know, Carolina Herrera or Oscar de la Renta or something like that.",
+      "zh": "如果你真的想买一些像正宗的东西，我不知道，Carolina Herrera 或 Oscar de la Renta 或类似的东西。"
+    },
+    {
+      "id": 285,
+      "start": 868.7,
+      "end": 869.42,
+      "en": "It's so expensive.",
+      "zh": "它太贵了。"
+    },
+    {
+      "id": 286,
+      "start": 870.06,
+      "end": 870.3,
+      "en": "It is.",
+      "zh": "确实很贵。"
+    },
+    {
+      "id": 287,
+      "start": 870.42,
+      "end": 871.62,
+      "en": "But you know, high fashion is expensive.",
+      "zh": "但你知道，高级时装是昂贵的。"
+    },
+    {
+      "id": 288,
+      "start": 873.76,
+      "end": 874.96,
+      "en": "Fashion is not, doesn't have to be.",
+      "zh": "时尚不是，不一定是。"
+    },
+    {
+      "id": 289,
+      "start": 875.12,
+      "end": 882.26,
+      "en": "You can be fashionable just looking at different stores and going to secondhand shops and making your own clothes.",
+      "zh": "你可以只看不同的商店，去二手店，自己做衣服，就很时尚。"
+    },
+    {
+      "id": 290,
+      "start": 882.64,
+      "end": 886.72,
+      "en": "I mean, it's all about a sense of personal style and dressing yourself to be unique.",
+      "zh": "我的意思是，这一切都是关于个人风格的感觉，并把自己打扮成独特的感觉。"
+    },
+    {
+      "id": 291,
+      "start": 886.72,
+      "end": 887.76,
+      "en": "Or you can get it at the fake market.",
+      "zh": "或者你可以在假市场买到。"
+    },
+    {
+      "id": 292,
+      "start": 888.0,
+      "end": 889.08,
+      "en": "Or you can go to the fake market.",
+      "zh": "或者你可以去假市场。"
+    },
+    {
+      "id": 293,
+      "start": 889.38,
+      "end": 889.56,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 294,
+      "start": 890.96,
+      "end": 891.96,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 295,
+      "start": 891.96,
+      "end": 892.96,
+      "en": "That's all the time we have for today, guys.",
+      "zh": "这就是我们今天所拥有的所有时间，伙计们。"
+    },
+    {
+      "id": 296,
+      "start": 892.96,
+      "end": 894.64,
+      "en": "I hope you enjoyed this lesson.",
+      "zh": "我希望你喜欢这一课。"
+    },
+    {
+      "id": 297,
+      "start": 894.64,
+      "end": 898.16,
+      "en": "Please come to our website and comment at EnglishPod.com.",
+      "zh": "请访问我们的网站并在 englishpod.com 上发表评论。"
+    },
+    {
+      "id": 298,
+      "start": 898.16,
+      "end": 902.06,
+      "en": "And if you have any other suggestions or maybe your own pictures of crazy fashion, you can post.",
+      "zh": "如果您有任何其他建议或您自己的疯狂时尚照片，您可以发布。"
+    },
+    {
+      "id": 299,
+      "start": 902.64,
+      "end": 903.36,
+      "en": "We're glad to see them.",
+      "zh": "我们很高兴见到他们。"
+    },
+    {
+      "id": 300,
+      "start": 903.64,
+      "end": 904.6,
+      "en": "So we'll see you guys there.",
+      "zh": "到时候见。"
+    },
+    {
+      "id": 301,
+      "start": 904.84,
+      "end": 905.84,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 302,
+      "start": 905.84,
+      "end": 906.6,
+      "en": "As Marco said, hope to see you on the website.",
+      "zh": "正如马可所说，希望在网站上见到你。"
+    },
+    {
+      "id": 303,
+      "start": 907.12,
+      "end": 907.76,
+      "en": "That's about it for today.",
+      "zh": "这就是今天的事情。"
+    },
+    {
+      "id": 304,
+      "start": 908.12,
+      "end": 908.86,
+      "en": "So goodbye, everyone.",
+      "zh": "所以再见，大家。"
+    },
+    {
+      "id": 305,
+      "start": 909.12,
+      "end": 917.995,
+      "en": "Bye.",
+      "zh": "再见。"
+    }
+  ],
+  "dialog": {
+    "start": 179.08,
+    "end": 229.12,
+    "segmentIds": [
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87
+    ]
+  }
+}

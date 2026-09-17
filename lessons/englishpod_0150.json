@@ -1,0 +1,1373 @@
+{
+  "version": 1,
+  "id": 150,
+  "number": "0150",
+  "title": "The Weekend - Bug Spray",
+  "audio": "mp3/150. The Weekend - Bug Spray.mp3",
+  "duration": 571.03675,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.82,
+      "en": "Hello, everyone, and welcome back to EnglishPod.",
+      "zh": "大家好，欢迎回到 Englishpod。"
+    },
+    {
+      "id": 2,
+      "start": 6.08,
+      "end": 6.48,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 7.08,
+      "end": 8.76,
+      "en": "Katrina And my name is Katrin.",
+      "zh": "卡特里娜飓风，我的名字是卡特琳。"
+    },
+    {
+      "id": 4,
+      "start": 8.76,
+      "end": 11.7,
+      "en": "And today we're talking about one of my least favorite things, Marco.",
+      "zh": "今天我们谈论的是我最不喜欢的事情之一，马可。"
+    },
+    {
+      "id": 5,
+      "start": 12.4,
+      "end": 14.8,
+      "en": "Marco Mosquitoes.",
+      "zh": "马可蚊子。"
+    },
+    {
+      "id": 6,
+      "start": 14.8,
+      "end": 17.6,
+      "en": "They're all over the place, especially in summer or near water.",
+      "zh": "它们到处都是，尤其是在夏天或靠近水的地方。"
+    },
+    {
+      "id": 7,
+      "start": 18.8,
+      "end": 25.8,
+      "en": "And for me, the worst part is when you are trying to sleep and there's a mosquito that just keeps on biting you and won't let you sleep.",
+      "zh": "对我来说，最糟的就是想睡觉时，有只蚊子不停地叮你，让你根本睡不着。"
+    },
+    {
+      "id": 8,
+      "start": 25.8,
+      "end": 30.2,
+      "en": "Katrina You can kind of hear it around your head, you know, by your ears.",
+      "zh": "卡特里娜 你知道，你可以在你的耳朵周围听到它。"
+    },
+    {
+      "id": 9,
+      "start": 30.2,
+      "end": 31.2,
+      "en": "Marco Yeah, around your ear, uh-huh.",
+      "zh": "马可 是的，在你的耳朵里，嗯。"
+    },
+    {
+      "id": 10,
+      "start": 31.2,
+      "end": 32.2,
+      "en": "Katrina Oh, I hate that.",
+      "zh": "卡特里娜飓风哦，我讨厌那个。"
+    },
+    {
+      "id": 11,
+      "start": 32.2,
+      "end": 35.2,
+      "en": "Or when you just get bitten and you're in bed and it just itches so much you can't sleep.",
+      "zh": "或者当你只是被咬了，你在床上，它只是发痒，你无法入睡。"
+    },
+    {
+      "id": 12,
+      "start": 35.2,
+      "end": 36.8,
+      "en": "Marco Itches, and it burns sometimes.",
+      "zh": "马可瘙痒，有时会燃烧。"
+    },
+    {
+      "id": 13,
+      "start": 36.8,
+      "end": 40.88,
+      "en": "Katrina Yeah, so that's what we're talking about today, fun stuff.",
+      "zh": "卡特里娜飓风 是的，这就是我们今天所说的，有趣的东西。"
+    },
+    {
+      "id": 14,
+      "start": 40.88,
+      "end": 44.96,
+      "en": "Let's jump right into this dialogue, and we'll be back in a minute to talk about what's going on.",
+      "zh": "让我们直接进入这个对话，我们将在一分钟内回来讨论正在发生的事情。"
+    },
+    {
+      "id": 15,
+      "start": 45.8,
+      "end": 46.8,
+      "en": "The mosquitoes are biting me!",
+      "zh": "蚊子咬我！"
+    },
+    {
+      "id": 16,
+      "start": 46.8,
+      "end": 47.8,
+      "en": "Me too!",
+      "zh": "我也是！"
+    },
+    {
+      "id": 17,
+      "start": 47.8,
+      "end": 48.8,
+      "en": "I can't stop scratching!",
+      "zh": "我不能停止抓挠！"
+    },
+    {
+      "id": 18,
+      "start": 48.8,
+      "end": 49.8,
+      "en": "They are everywhere, sneaky little jerks!",
+      "zh": "他们无处不在，鬼鬼祟祟的小混蛋！"
+    },
+    {
+      "id": 19,
+      "start": 59.87,
+      "end": 61.27,
+      "en": "Do you have any bug spray?",
+      "zh": "你有杀虫剂吗？"
+    },
+    {
+      "id": 20,
+      "start": 63.0,
+      "end": 64.0,
+      "en": "No, I forgot to buy some.",
+      "zh": "不，我忘了买一些。"
+    },
+    {
+      "id": 21,
+      "start": 64.0,
+      "end": 65.49,
+      "en": "Then we'll have to put up with it.",
+      "zh": "那么我们将不得不忍受它。"
+    },
+    {
+      "id": 22,
+      "start": 66.13,
+      "end": 68.55,
+      "en": "We can cover ourselves with beer.",
+      "zh": "我们可以用啤酒遮盖自己。"
+    },
+    {
+      "id": 23,
+      "start": 69.31,
+      "end": 72.07,
+      "en": "That way, if they bite us, they'll get drunk and fall asleep.",
+      "zh": "这样，如果他们咬我们，他们就会喝醉并入睡。"
+    },
+    {
+      "id": 24,
+      "start": 72.58,
+      "end": 78.26,
+      "en": "Marco That's, without doubt, the best idea you've ever had.",
+      "zh": "毫无疑问，这是你有过的最好的想法。"
+    },
+    {
+      "id": 25,
+      "start": 78.28,
+      "end": 78.86,
+      "en": "Let's do it.",
+      "zh": "我们开始吧。"
+    },
+    {
+      "id": 26,
+      "start": 80.14,
+      "end": 82.28,
+      "en": "Katrina Run!",
+      "zh": "卡特里娜跑！"
+    },
+    {
+      "id": 27,
+      "start": 82.62,
+      "end": 83.54,
+      "en": "They're thirsty for more!",
+      "zh": "他们渴望更多！"
+    },
+    {
+      "id": 28,
+      "start": 90.31,
+      "end": 95.23,
+      "en": "All right, we're back, so let's take a look at some of these words in Language Takeaway.",
+      "zh": "好吧，我们回来了，让我们来看看语言外卖中的一些词。"
+    },
+    {
+      "id": 29,
+      "start": 97.2,
+      "end": 98.08,
+      "en": "Language Takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 30,
+      "start": 99.31,
+      "end": 106.95,
+      "en": "All right, so as we mentioned, we're going to be talking about mosquitoes and well, these are just little small insects that suck your blood.",
+      "zh": "好，正如刚才所说，今天要聊的是蚊子，也就是那些吸血的小昆虫。"
+    },
+    {
+      "id": 31,
+      "start": 107.66,
+      "end": 111.99,
+      "en": "They do and they're very thin and not much to say about them.",
+      "zh": "他们这样做了，而且他们很瘦，对他们没什么可说的。"
+    },
+    {
+      "id": 32,
+      "start": 112.14,
+      "end": 115.13,
+      "en": "They were very important in the movie Jurassic Park if you remember that.",
+      "zh": "如果你还记得这一点，它们在电影侏罗纪公园中非常重要。"
+    },
+    {
+      "id": 33,
+      "start": 115.88,
+      "end": 116.15,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 34,
+      "start": 116.88,
+      "end": 119.43,
+      "en": "Now, what's the difference between a mosquito and a fly?",
+      "zh": "现在，蚊子和苍蝇有什么区别？"
+    },
+    {
+      "id": 35,
+      "start": 119.93,
+      "end": 122.57,
+      "en": "Okay, a fly usually is just annoying.",
+      "zh": "好吧，苍蝇通常只是烦人。"
+    },
+    {
+      "id": 36,
+      "start": 122.97,
+      "end": 126.55,
+      "en": "It doesn't suck your blood, but a mosquito does.",
+      "zh": "它不会吸你的血液，但蚊子会吸。"
+    },
+    {
+      "id": 37,
+      "start": 127.04,
+      "end": 131.63,
+      "en": "It sucks your blood and flies are fatter and like shorter.",
+      "zh": "它吸吮你的血液，苍蝇更胖，更短。"
+    },
+    {
+      "id": 38,
+      "start": 132.36,
+      "end": 134.4,
+      "en": "And they're big and black and they're black.",
+      "zh": "它们又大又黑，而且是黑色的。"
+    },
+    {
+      "id": 39,
+      "start": 134.4,
+      "end": 135.68,
+      "en": "And they're green kind of sometimes.",
+      "zh": "它们有时是绿色的。"
+    },
+    {
+      "id": 40,
+      "start": 135.68,
+      "end": 139.44,
+      "en": "Black and green and they, yeah, they just buzz around.",
+      "zh": "黑色和绿色，他们，是的，他们只是嗡嗡作响。"
+    },
+    {
+      "id": 41,
+      "start": 139.44,
+      "end": 141.36,
+      "en": "So mosquitoes actually bite you.",
+      "zh": "所以蚊子真的会咬你。"
+    },
+    {
+      "id": 42,
+      "start": 141.49,
+      "end": 143.33,
+      "en": "Okay, so a mosquito and a fly.",
+      "zh": "好吧，所以一只蚊子和一只苍蝇。"
+    },
+    {
+      "id": 43,
+      "start": 143.91,
+      "end": 147.63,
+      "en": "Now, if a mosquito bites you, you really, really want to scratch.",
+      "zh": "现在，如果一只蚊子咬了你，你真的，真的很想抓挠。"
+    },
+    {
+      "id": 44,
+      "start": 148.27,
+      "end": 148.73,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 45,
+      "start": 149.64,
+      "end": 154.16,
+      "en": "So you feel like you need to scratch your body because you have this bite.",
+      "zh": "所以你觉得你需要抓挠你的身体，因为你有这种咬伤。"
+    },
+    {
+      "id": 46,
+      "start": 154.16,
+      "end": 161.8,
+      "en": "You know, it's really an allergy and you have a red bump on your arm, a red mark and you scratch and it gets worse and worse.",
+      "zh": "其实这是一种过敏反应，胳膊上会起一个红色的小包或红印，越抓就越严重。"
+    },
+    {
+      "id": 47,
+      "start": 161.8,
+      "end": 162.01,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 48,
+      "start": 162.8,
+      "end": 166.2,
+      "en": "And moving on to our next word, mosquitoes have a reputation of being sneaky.",
+      "zh": "继续我们的下一个词，蚊子有偷偷摸摸的名声。"
+    },
+    {
+      "id": 49,
+      "start": 166.99,
+      "end": 168.99,
+      "en": "Okay, so you can say sneaky about a lot of things.",
+      "zh": "好吧，所以你可以对很多事情说偷偷摸摸。"
+    },
+    {
+      "id": 50,
+      "start": 169.44,
+      "end": 173.08,
+      "en": "And, you know, obviously we're saying mosquitoes are very sneaky.",
+      "zh": "而且，你知道，显然我们说的蚊子非常偷偷摸摸。"
+    },
+    {
+      "id": 51,
+      "start": 173.08,
+      "end": 177.09,
+      "en": "That means that they can kind of hide and get you when you're not expecting it.",
+      "zh": "这意味着当你没想到时，他们可以隐藏和抓住你。"
+    },
+    {
+      "id": 52,
+      "start": 177.28,
+      "end": 181.17,
+      "en": "Yeah, because sometimes during the day, you don't really see them in your room, right?",
+      "zh": "是的，因为有时在白天，你在房间里看不到它们，对吧？"
+    },
+    {
+      "id": 53,
+      "start": 181.51,
+      "end": 184.11,
+      "en": "They're hiding or they're in a place where you can't really see them.",
+      "zh": "他们躲在一个你看不到他们的地方。"
+    },
+    {
+      "id": 54,
+      "start": 184.59,
+      "end": 187.25,
+      "en": "And then at night, all of a sudden, they come out.",
+      "zh": "然后在晚上，突然，他们出来了。"
+    },
+    {
+      "id": 55,
+      "start": 187.51,
+      "end": 188.01,
+      "en": "They come out.",
+      "zh": "他们出来了。"
+    },
+    {
+      "id": 56,
+      "start": 188.33,
+      "end": 189.87,
+      "en": "So, and they're very hard to see.",
+      "zh": "所以，他们很难看到。"
+    },
+    {
+      "id": 57,
+      "start": 190.08,
+      "end": 194.28,
+      "en": "They fly around in a way that's very difficult to catch them or kill them, right?",
+      "zh": "它们以一种很难抓住或杀死它们的方式飞来飞去，对吧？"
+    },
+    {
+      "id": 58,
+      "start": 194.28,
+      "end": 195.28,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 59,
+      "start": 195.28,
+      "end": 196.28,
+      "en": "We could say thieves are very sneaky.",
+      "zh": "我们可以说小偷很偷偷摸摸。"
+    },
+    {
+      "id": 60,
+      "start": 196.44,
+      "end": 201.4,
+      "en": "Like a thief is someone who steals something and they like to sneak around and hide in the dark.",
+      "zh": "就像小偷是偷东西的人，他们喜欢偷偷摸摸地躲在黑暗中。"
+    },
+    {
+      "id": 61,
+      "start": 201.6,
+      "end": 204.48,
+      "en": "And then when you're not expecting it, they come out and they steal your stuff.",
+      "zh": "然后当你没想到的时候，他们会出来，他们偷了你的东西。"
+    },
+    {
+      "id": 62,
+      "start": 204.72,
+      "end": 205.04,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 63,
+      "start": 205.88,
+      "end": 210.92,
+      "en": "And now what do we do or what do we use in order to prevent mosquitoes from biting us?",
+      "zh": "现在我们做什么或我们用什么来防止蚊子咬我们？"
+    },
+    {
+      "id": 64,
+      "start": 210.92,
+      "end": 213.5,
+      "en": "This is essential, especially if you're going to the beach.",
+      "zh": "这是必不可少的，特别是如果你要去海滩。"
+    },
+    {
+      "id": 65,
+      "start": 214.36,
+      "end": 215.28,
+      "en": "We bring bug spray.",
+      "zh": "我们带来杀虫剂。"
+    },
+    {
+      "id": 66,
+      "start": 215.72,
+      "end": 216.08,
+      "en": "Bug spray.",
+      "zh": "防虫喷雾。"
+    },
+    {
+      "id": 67,
+      "start": 216.88,
+      "end": 223.96,
+      "en": "So a spray is something that you can usually have in a can that you push a button and it comes out.",
+      "zh": "喷雾剂通常装在罐子里，你按下按钮，它就会喷出来。"
+    },
+    {
+      "id": 68,
+      "start": 223.96,
+      "end": 224.96,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 69,
+      "start": 224.96,
+      "end": 225.96,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 70,
+      "start": 225.96,
+      "end": 227.8,
+      "en": "And it's not water, but it keeps the bugs away.",
+      "zh": "它不是水，但它可以让虫子远离。"
+    },
+    {
+      "id": 71,
+      "start": 227.8,
+      "end": 229.4,
+      "en": "So bug spray keeps bugs away.",
+      "zh": "所以杀虫剂可以让虫子远离。"
+    },
+    {
+      "id": 72,
+      "start": 229.4,
+      "end": 233.64,
+      "en": "Not only mosquitoes, but like flies or any other type of bug.",
+      "zh": "不仅是蚊子，而且喜欢苍蝇或任何其他类型的虫子。"
+    },
+    {
+      "id": 73,
+      "start": 233.64,
+      "end": 238.08,
+      "en": "Now specifically for mosquitoes, you would use maybe a mosquito repellent.",
+      "zh": "现在专门针对蚊子，您可能会使用驱蚊剂。"
+    },
+    {
+      "id": 74,
+      "start": 238.14,
+      "end": 238.4,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 75,
+      "start": 238.42,
+      "end": 243.46,
+      "en": "So repellent is, it means something that pushes or keeps away things you don't want.",
+      "zh": "所以驱虫剂是，它意味着一些东西可以推动或阻止你不想要的东西。"
+    },
+    {
+      "id": 76,
+      "start": 243.66,
+      "end": 247.02,
+      "en": "So something that keeps mosquitoes away is called a mosquito repellent.",
+      "zh": "所以让蚊子远离的东西被称为驱蚊剂。"
+    },
+    {
+      "id": 77,
+      "start": 247.24,
+      "end": 250.08,
+      "en": "And usually it's a cream you put on your arms or legs.",
+      "zh": "通常它是你放在手臂或腿上的奶油。"
+    },
+    {
+      "id": 78,
+      "start": 250.22,
+      "end": 250.58,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 79,
+      "start": 251.08,
+      "end": 252.08,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 80,
+      "start": 252.08,
+      "end": 253.56,
+      "en": "So interesting words that we've just taken a look at.",
+      "zh": "如此有趣的词，我们刚刚看了看。"
+    },
+    {
+      "id": 81,
+      "start": 254.2,
+      "end": 256.64,
+      "en": "Let's listen to our dialogue again and we'll be right back.",
+      "zh": "让我们再次听我们的对话，我们会马上回来的。"
+    },
+    {
+      "id": 82,
+      "start": 261.8,
+      "end": 263.58,
+      "en": "The mosquitoes are biting me.",
+      "zh": "蚊子咬我。"
+    },
+    {
+      "id": 83,
+      "start": 264.12,
+      "end": 264.38,
+      "en": "Me too.",
+      "zh": "我也是。"
+    },
+    {
+      "id": 84,
+      "start": 265.12,
+      "end": 265.78,
+      "en": "I can't stop scratching.",
+      "zh": "我不能停止抓挠。"
+    },
+    {
+      "id": 85,
+      "start": 266.44,
+      "end": 268.9,
+      "en": "They are everywhere, sneaky little jerks.",
+      "zh": "他们无处不在，鬼鬼祟祟的小混蛋。"
+    },
+    {
+      "id": 86,
+      "start": 269.32,
+      "end": 270.74,
+      "en": "Do you have any bug spray?",
+      "zh": "你有杀虫剂吗？"
+    },
+    {
+      "id": 87,
+      "start": 271.24,
+      "end": 272.86,
+      "en": "No, I forgot to buy some.",
+      "zh": "不，我忘了买一些。"
+    },
+    {
+      "id": 88,
+      "start": 273.4,
+      "end": 274.98,
+      "en": "Then we'll have to put up with it.",
+      "zh": "那么我们将不得不忍受它。"
+    },
+    {
+      "id": 89,
+      "start": 275.54,
+      "end": 278.02,
+      "en": "We can cover ourselves with beer.",
+      "zh": "我们可以用啤酒遮盖自己。"
+    },
+    {
+      "id": 90,
+      "start": 278.74,
+      "end": 281.56,
+      "en": "That way if they bite us, they'll get drunk and fall asleep.",
+      "zh": "这样，如果他们咬我们，他们就会喝醉并入睡。"
+    },
+    {
+      "id": 91,
+      "start": 282.3,
+      "end": 287.37,
+      "en": "That's without doubt the best idea you've ever had.",
+      "zh": "毫无疑问，这是你曾经有过的最好的想法。"
+    },
+    {
+      "id": 92,
+      "start": 287.73,
+      "end": 288.35,
+      "en": "Let's do it.",
+      "zh": "我们开始吧。"
+    },
+    {
+      "id": 93,
+      "start": 289.21,
+      "end": 289.47,
+      "en": "Run.",
+      "zh": "跑。"
+    },
+    {
+      "id": 94,
+      "start": 289.91,
+      "end": 290.77,
+      "en": "They're thirsty for more.",
+      "zh": "他们渴望更多。"
+    },
+    {
+      "id": 95,
+      "start": 294.46,
+      "end": 295.46,
+      "en": "All right, we're back.",
+      "zh": "好了，我们回来了。"
+    },
+    {
+      "id": 96,
+      "start": 295.76,
+      "end": 299.86,
+      "en": "So now let's take a look at a couple of different phrases on Fluency Builder.",
+      "zh": "所以现在让我们来看看关于 Fluency Builder 的几个不同短语。"
+    },
+    {
+      "id": 97,
+      "start": 301.2,
+      "end": 302.02,
+      "en": "Fluency Builder.",
+      "zh": "流利表达。"
+    },
+    {
+      "id": 98,
+      "start": 302.8,
+      "end": 303.8,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 99,
+      "start": 303.8,
+      "end": 306.45,
+      "en": "So the first phrase is very, very common.",
+      "zh": "所以第一个短语很常见。"
+    },
+    {
+      "id": 100,
+      "start": 307.2,
+      "end": 314.21,
+      "en": "The person in the dialogue says that they're going to have to put up with it, put up with these mosquitoes because they didn't have any bug spray.",
+      "zh": "对话里的人说，他们只能忍着这些蚊子，因为他们没带驱虫喷雾。"
+    },
+    {
+      "id": 101,
+      "start": 314.56,
+      "end": 316.35,
+      "en": "So this phrase, to put up with, is really important.",
+      "zh": "所以这个短语，要忍受，真的很重要。"
+    },
+    {
+      "id": 102,
+      "start": 316.8,
+      "end": 317.8,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 103,
+      "start": 317.8,
+      "end": 319.65,
+      "en": "So if you put up with something, it means that you tolerate it.",
+      "zh": "所以如果你忍受了什么，这意味着你容忍它。"
+    },
+    {
+      "id": 104,
+      "start": 319.92,
+      "end": 320.92,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 105,
+      "start": 320.92,
+      "end": 323.72,
+      "en": "That means even if you don't want to, you'll still handle it.",
+      "zh": "这意味着即使你不想，你仍然会处理它。"
+    },
+    {
+      "id": 106,
+      "start": 323.92,
+      "end": 324.86,
+      "en": "You'll still have to deal with it.",
+      "zh": "你还是要处理它。"
+    },
+    {
+      "id": 107,
+      "start": 325.0,
+      "end": 325.48,
+      "en": "You accept it.",
+      "zh": "你接受它。"
+    },
+    {
+      "id": 108,
+      "start": 326.28,
+      "end": 330.72,
+      "en": "So maybe you have a little brother that's very annoying and you just have to put up with him.",
+      "zh": "所以也许你有一个非常烦人的小弟弟，你只需要忍受他。"
+    },
+    {
+      "id": 109,
+      "start": 331.48,
+      "end": 331.66,
+      "en": "There's no other option.",
+      "zh": "没有其他选择。"
+    },
+    {
+      "id": 110,
+      "start": 332.48,
+      "end": 333.48,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 111,
+      "start": 333.5,
+      "end": 336.36,
+      "en": "Or someone says to you, you're just going to have to put up with it.",
+      "zh": "或者有人对你说，你只需要忍受它。"
+    },
+    {
+      "id": 112,
+      "start": 336.7,
+      "end": 339.32,
+      "en": "Or you say, I won't put up with it anymore.",
+      "zh": "或者你说，我不会再忍受了。"
+    },
+    {
+      "id": 113,
+      "start": 339.74,
+      "end": 341.12,
+      "en": "I won't handle this anymore.",
+      "zh": "我不会再处理这个了。"
+    },
+    {
+      "id": 114,
+      "start": 341.44,
+      "end": 342.0,
+      "en": "I'm done.",
+      "zh": "我完成了。"
+    },
+    {
+      "id": 115,
+      "start": 342.38,
+      "end": 342.72,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 116,
+      "start": 343.06,
+      "end": 346.82,
+      "en": "So I think this is a great phrase for us to take a look at a couple of different examples.",
+      "zh": "所以我认为这是一个很好的短语，让我们看看几个不同的例子。"
+    },
+    {
+      "id": 117,
+      "start": 348.24,
+      "end": 349.18,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 118,
+      "start": 350.02,
+      "end": 352.58,
+      "en": "I can't put up with the noise any longer.",
+      "zh": "我不能再忍受噪音了。"
+    },
+    {
+      "id": 119,
+      "start": 353.22,
+      "end": 354.28,
+      "en": "Turn that music down.",
+      "zh": "把音乐调低。"
+    },
+    {
+      "id": 120,
+      "start": 356.36,
+      "end": 358.4,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 121,
+      "start": 358.4,
+      "end": 364.0,
+      "en": "If you can put up with the smell, then stinky tofu is actually very tasty.",
+      "zh": "如果你能忍受这种气味，那么臭豆腐其实很好吃。"
+    },
+    {
+      "id": 122,
+      "start": 364.0,
+      "end": 366.4,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 123,
+      "start": 366.4,
+      "end": 368.43,
+      "en": "I've had to put up with him for too long.",
+      "zh": "我不得不忍受他太久了。"
+    },
+    {
+      "id": 124,
+      "start": 369.01,
+      "end": 369.87,
+      "en": "I want a new roommate.",
+      "zh": "我想要一个新室友。"
+    },
+    {
+      "id": 125,
+      "start": 373.44,
+      "end": 375.02,
+      "en": "And after this, we've got another phrase.",
+      "zh": "在此之后，我们有另一个短语。"
+    },
+    {
+      "id": 126,
+      "start": 375.28,
+      "end": 377.12,
+      "en": "We're talking about beer.",
+      "zh": "我们在谈论啤酒。"
+    },
+    {
+      "id": 127,
+      "start": 377.14,
+      "end": 377.4,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 128,
+      "start": 377.94,
+      "end": 379.5,
+      "en": "And so the person says, oh, I have an idea.",
+      "zh": "所以那个人说，哦，我有一个想法。"
+    },
+    {
+      "id": 129,
+      "start": 379.84,
+      "end": 384.02,
+      "en": "Instead of bug spray, we can cover ourselves with beer.",
+      "zh": "我们可以用啤酒盖住自己，而不是喷雾剂。"
+    },
+    {
+      "id": 130,
+      "start": 385.06,
+      "end": 387.64,
+      "en": "So to cover yourself or cover ourselves.",
+      "zh": "所以掩盖自己或掩护自己。"
+    },
+    {
+      "id": 131,
+      "start": 388.68,
+      "end": 390.98,
+      "en": "So it means that we put it all over us.",
+      "zh": "所以这意味着我们把它放在我们身上。"
+    },
+    {
+      "id": 132,
+      "start": 391.44,
+      "end": 391.58,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 133,
+      "start": 392.4,
+      "end": 394.84,
+      "en": "So you could even cover yourself with bug spray.",
+      "zh": "所以你甚至可以用防虫喷雾覆盖自己。"
+    },
+    {
+      "id": 134,
+      "start": 394.84,
+      "end": 394.98,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 135,
+      "start": 395.44,
+      "end": 397.86,
+      "en": "So every part of your body, you put bug spray on.",
+      "zh": "所以你身体的每一个部位，你都喷了防虫喷雾。"
+    },
+    {
+      "id": 136,
+      "start": 398.28,
+      "end": 399.28,
+      "en": "Head to toe.",
+      "zh": "从头到脚。"
+    },
+    {
+      "id": 137,
+      "start": 399.28,
+      "end": 400.28,
+      "en": "Head to toe.",
+      "zh": "从头到脚。"
+    },
+    {
+      "id": 138,
+      "start": 400.28,
+      "end": 403.84,
+      "en": "Now, you can cover yourself under a tree maybe.",
+      "zh": "现在，你也许可以把自己盖在树下。"
+    },
+    {
+      "id": 139,
+      "start": 403.84,
+      "end": 405.39,
+      "en": "Or you can cover yourself with a blanket.",
+      "zh": "或者你可以用毯子盖住自己。"
+    },
+    {
+      "id": 140,
+      "start": 406.04,
+      "end": 406.21,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 141,
+      "start": 407.04,
+      "end": 409.84,
+      "en": "So to cover yourself, to completely hide under something.",
+      "zh": "所以掩盖自己，完全隐藏在某物之下。"
+    },
+    {
+      "id": 142,
+      "start": 409.84,
+      "end": 412.99,
+      "en": "And finally, we have the response to this idea, the answer.",
+      "zh": "最后，我们对这个想法和答案有了回应。"
+    },
+    {
+      "id": 143,
+      "start": 413.56,
+      "end": 418.4,
+      "en": "The person says, oh, without a doubt, that means absolutely or definitely.",
+      "zh": "这个人说，哦，毫无疑问，这意味着绝对或绝对。"
+    },
+    {
+      "id": 144,
+      "start": 418.71,
+      "end": 419.03,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 145,
+      "start": 419.03,
+      "end": 420.45,
+      "en": "So there is no doubt.",
+      "zh": "所以毫无疑问。"
+    },
+    {
+      "id": 146,
+      "start": 420.87,
+      "end": 423.41,
+      "en": "It is true or it is certain.",
+      "zh": "这是真的或确定的。"
+    },
+    {
+      "id": 147,
+      "start": 423.72,
+      "end": 424.72,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 148,
+      "start": 424.72,
+      "end": 427.85,
+      "en": "So a doubt is something that maybe you're not so sure about.",
+      "zh": "所以怀疑是你可能不太确定的事情。"
+    },
+    {
+      "id": 149,
+      "start": 428.48,
+      "end": 428.99,
+      "en": "You're not convinced.",
+      "zh": "你不相信。"
+    },
+    {
+      "id": 150,
+      "start": 429.48,
+      "end": 432.53,
+      "en": "But you can say, this is without a doubt the best mosquito spray.",
+      "zh": "但你可以说，这无疑是最好的蚊子喷雾。"
+    },
+    {
+      "id": 151,
+      "start": 432.96,
+      "end": 435.91,
+      "en": "Or this is without a doubt the best cake I've ever eaten.",
+      "zh": "或者这无疑是我吃过的最好的蛋糕。"
+    },
+    {
+      "id": 152,
+      "start": 436.24,
+      "end": 438.53,
+      "en": "That means it's definitely the best cake I've ever eaten.",
+      "zh": "这意味着它绝对是我吃过的最好的蛋糕。"
+    },
+    {
+      "id": 153,
+      "start": 438.96,
+      "end": 439.96,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 154,
+      "start": 439.96,
+      "end": 441.61,
+      "en": "So I think we've covered all the phrases now.",
+      "zh": "所以我想我们现在已经涵盖了所有的短语。"
+    },
+    {
+      "id": 155,
+      "start": 442.08,
+      "end": 445.21,
+      "en": "Why don't we listen to our dialogue for the last time and we'll be right back.",
+      "zh": "我们为什么不最后一次听我们的对话，我们会马上回来的。"
+    },
+    {
+      "id": 156,
+      "start": 454.2,
+      "end": 456.52,
+      "en": "The mosquitoes are biting me.",
+      "zh": "蚊子咬我。"
+    },
+    {
+      "id": 157,
+      "start": 456.52,
+      "end": 456.74,
+      "en": "Me too.",
+      "zh": "我也是。"
+    },
+    {
+      "id": 158,
+      "start": 457.52,
+      "end": 458.1,
+      "en": "I can't stop scratching.",
+      "zh": "我痒得一直想挠。"
+    },
+    {
+      "id": 159,
+      "start": 458.52,
+      "end": 461.36,
+      "en": "They are everywhere, sneaky little jerks.",
+      "zh": "这些偷偷摸摸的小混蛋到处都是。"
+    },
+    {
+      "id": 160,
+      "start": 461.71,
+      "end": 463.13,
+      "en": "Do you have any bug spray?",
+      "zh": "你带驱蚊喷雾了吗？"
+    },
+    {
+      "id": 161,
+      "start": 463.67,
+      "end": 465.23,
+      "en": "No, I forgot to buy some.",
+      "zh": "不，我忘了买一些。"
+    },
+    {
+      "id": 162,
+      "start": 465.83,
+      "end": 467.35,
+      "en": "Then we'll have to put up with it.",
+      "zh": "那么我们将不得不忍受它。"
+    },
+    {
+      "id": 163,
+      "start": 467.95,
+      "end": 470.41,
+      "en": "We can cover ourselves with beer.",
+      "zh": "我们可以把啤酒涂在身上。"
+    },
+    {
+      "id": 164,
+      "start": 471.19,
+      "end": 473.91,
+      "en": "That way if they bite us, they'll get drunk and fall asleep.",
+      "zh": "这样，如果他们咬我们，他们就会喝醉并入睡。"
+    },
+    {
+      "id": 165,
+      "start": 474.81,
+      "end": 479.79,
+      "en": "That's without doubt the best idea you've ever had.",
+      "zh": "毫无疑问，这是你曾经有过的最好的想法。"
+    },
+    {
+      "id": 166,
+      "start": 480.17,
+      "end": 480.73,
+      "en": "Let's do it.",
+      "zh": "我们开始吧。"
+    },
+    {
+      "id": 167,
+      "start": 483.8,
+      "end": 484.08,
+      "en": "Run.",
+      "zh": "跑。"
+    },
+    {
+      "id": 168,
+      "start": 484.5,
+      "end": 485.4,
+      "en": "They're thirsty for more.",
+      "zh": "它们还没喝够呢！"
+    },
+    {
+      "id": 169,
+      "start": 493.95,
+      "end": 497.47,
+      "en": "Mosquitoes are very annoying, but at times they can be very dangerous, right?",
+      "zh": "蚊子很烦人，但有时它们可能很危险，对吧？"
+    },
+    {
+      "id": 170,
+      "start": 497.89,
+      "end": 498.43,
+      "en": "They can.",
+      "zh": "他们可以。"
+    },
+    {
+      "id": 171,
+      "start": 498.77,
+      "end": 502.93,
+      "en": "There are a couple of diseases that can be passed by mosquito bites.",
+      "zh": "有几种疾病可以通过蚊虫叮咬传播。"
+    },
+    {
+      "id": 172,
+      "start": 503.39,
+      "end": 504.13,
+      "en": "One of them is malaria.",
+      "zh": "其中之一是疟疾。"
+    },
+    {
+      "id": 173,
+      "start": 504.76,
+      "end": 508.08,
+      "en": "And that's I think pretty common in Southeast Asia and South Asia.",
+      "zh": "我认为这在东南亚和南亚很常见。"
+    },
+    {
+      "id": 174,
+      "start": 508.08,
+      "end": 516.69,
+      "en": "Now there was another situation where people believed that if a mosquito bit a person infected with HIV or AIDS, they could pass it on to another person.",
+      "zh": "另外，还有人曾以为，蚊子叮过感染HIV或患有艾滋病的人后，会把它传给另一个人。"
+    },
+    {
+      "id": 175,
+      "start": 517.2,
+      "end": 517.47,
+      "en": "Aha.",
+      "zh": "啊哈。"
+    },
+    {
+      "id": 176,
+      "start": 518.2,
+      "end": 522.13,
+      "en": "Well, I don't know that that's even possible because there's no AIDS carrying mosquitoes.",
+      "zh": "好吧，我不知道这是可能的，因为没有携带蚊子的艾滋病。"
+    },
+    {
+      "id": 177,
+      "start": 522.68,
+      "end": 525.48,
+      "en": "But there is another disease called dengue fever.",
+      "zh": "但还有另一种疾病，叫做登革热。"
+    },
+    {
+      "id": 178,
+      "start": 525.48,
+      "end": 527.24,
+      "en": "And this is another very dangerous one.",
+      "zh": "这是另一件非常危险的事情。"
+    },
+    {
+      "id": 179,
+      "start": 527.24,
+      "end": 528.81,
+      "en": "It's also known as break bone fever.",
+      "zh": "它也被称为断骨热。"
+    },
+    {
+      "id": 180,
+      "start": 529.08,
+      "end": 532.21,
+      "en": "And I think it's so painful, it feels like your bones are breaking.",
+      "zh": "我觉得这很痛苦，感觉就像你的骨头在折断。"
+    },
+    {
+      "id": 181,
+      "start": 532.36,
+      "end": 533.41,
+      "en": "And that's where the name comes from.",
+      "zh": "这就是这个名字的来源。"
+    },
+    {
+      "id": 182,
+      "start": 533.52,
+      "end": 543.29,
+      "en": "It's very common in South America as well because we have such a tropical climate that in the rainforests of Brazil, Peru, Colombia, it's common to see this.",
+      "zh": "这在南美也很常见，因为那里属于热带气候，在巴西、秘鲁、哥伦比亚的雨林中，常能见到这种情况。"
+    },
+    {
+      "id": 183,
+      "start": 543.29,
+      "end": 544.69,
+      "en": "But not so much anymore.",
+      "zh": "但不再那么多了。"
+    },
+    {
+      "id": 184,
+      "start": 545.04,
+      "end": 546.32,
+      "en": "Now they're eradicating it.",
+      "zh": "现在他们正在根除它。"
+    },
+    {
+      "id": 185,
+      "start": 546.32,
+      "end": 547.32,
+      "en": "Wow.",
+      "zh": "哇。"
+    },
+    {
+      "id": 186,
+      "start": 547.32,
+      "end": 548.32,
+      "en": "Alright.",
+      "zh": "好的。"
+    },
+    {
+      "id": 187,
+      "start": 548.32,
+      "end": 549.32,
+      "en": "So an interesting topic.",
+      "zh": "所以一个有趣的话题。"
+    },
+    {
+      "id": 188,
+      "start": 549.32,
+      "end": 552.2,
+      "en": "Mosquitoes are not only irritating, but can be dangerous.",
+      "zh": "蚊子不仅刺激，而且很危险。"
+    },
+    {
+      "id": 189,
+      "start": 552.2,
+      "end": 557.99,
+      "en": "So if you have any other questions or doubts, please come to our website englishpod.com and we're there to answer any questions.",
+      "zh": "如果还有任何问题或疑惑，请到我们的网站EnglishPod.com来，我们会在那里为大家解答。"
+    },
+    {
+      "id": 190,
+      "start": 558.54,
+      "end": 559.5,
+      "en": "So we'll see you on the website.",
+      "zh": "所以我们会在网站上见到你。"
+    },
+    {
+      "id": 191,
+      "start": 560.12,
+      "end": 561.76,
+      "en": "And until next time everyone, bye bye.",
+      "zh": "直到下一次大家，再见。"
+    },
+    {
+      "id": 192,
+      "start": 561.76,
+      "end": 563.76,
+      "en": "Bye.",
+      "zh": "再见。"
+    }
+  ],
+  "dialog": {
+    "start": 454.2,
+    "end": 485.4,
+    "segmentIds": [
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168
+    ]
+  }
+}

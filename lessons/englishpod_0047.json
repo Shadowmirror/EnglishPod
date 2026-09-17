@@ -1,0 +1,1705 @@
+{
+  "version": 1,
+  "id": 47,
+  "number": "0047",
+  "title": "Advanced - Just In Time Strategy",
+  "audio": "mp3/47. Advanced - Just In Time Strategy.mp3",
+  "duration": 770.2726875,
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.68,
+      "end": 4.1,
+      "en": "Hello English learners, welcome back to EnglishPod.",
+      "zh": "您好英语学习者，欢迎回到 EnglishPod。"
+    },
+    {
+      "id": 2,
+      "start": 4.36,
+      "end": 4.84,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 5.2,
+      "end": 5.86,
+      "en": "And I'm Erica.",
+      "zh": "我叫 Erica。"
+    },
+    {
+      "id": 4,
+      "start": 6.5,
+      "end": 9.02,
+      "en": "And we're bringing you a very advanced lesson today.",
+      "zh": "我们今天为您带来了一个非常先进的课程。"
+    },
+    {
+      "id": 5,
+      "start": 9.54,
+      "end": 9.88,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 6,
+      "start": 10.62,
+      "end": 13.12,
+      "en": "We're talking about another business topic, aren't we?",
+      "zh": "我们在谈论另一个商业话题，不是吗？"
+    },
+    {
+      "id": 7,
+      "start": 13.42,
+      "end": 17.64,
+      "en": "It's a topic that's kind of popular these days, all about efficiency and reducing costs.",
+      "zh": "这是当今流行的话题，都是关于效率和降低成本的。"
+    },
+    {
+      "id": 8,
+      "start": 18.54,
+      "end": 21.24,
+      "en": "So we're going to be talking about the just-in-time philosophy.",
+      "zh": "所以我们将谈论即时哲学。"
+    },
+    {
+      "id": 9,
+      "start": 22.16,
+      "end": 25.62,
+      "en": "I don't know much about this philosophy, so good thing we've got Marco here.",
+      "zh": "我对这种哲学知之甚少，幸好我们有马可在这里。"
+    },
+    {
+      "id": 10,
+      "start": 26.2,
+      "end": 29.88,
+      "en": "Well, what we are going to be looking at is not really in-depth.",
+      "zh": "好吧，我们将要研究的并不是真正深入的。"
+    },
+    {
+      "id": 11,
+      "start": 29.88,
+      "end": 34.79,
+      "en": "We're just going to be looking at some basic points of what a just-in-time philosophy would be like in a company.",
+      "zh": "我们只是要研究公司的准时理念的一些基本要点。"
+    },
+    {
+      "id": 12,
+      "start": 35.48,
+      "end": 39.68,
+      "en": "But what we're really going to be looking at is the language to do with this philosophy, right?",
+      "zh": "但我们真正要关注的是与这种哲学有关的语言，对吧？"
+    },
+    {
+      "id": 13,
+      "start": 39.68,
+      "end": 40.68,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 14,
+      "start": 40.68,
+      "end": 46.68,
+      "en": "We're going to be looking at some technical terms and some other useful phrases that you can use when you are talking in a business setting.",
+      "zh": "我们将研究一些技术术语和其他一些有用的短语，您可以在商务环境中使用这些短语。"
+    },
+    {
+      "id": 15,
+      "start": 46.87,
+      "end": 47.13,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 16,
+      "start": 47.68,
+      "end": 49.07,
+      "en": "Well, why don't we get started with the language then?",
+      "zh": "那么，我们为什么不开始使用语言呢？"
+    },
+    {
+      "id": 17,
+      "start": 49.33,
+      "end": 49.51,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 18,
+      "start": 49.57,
+      "end": 50.97,
+      "en": "Let's take a look at vocabulary preview.",
+      "zh": "让我们看一下词汇预览。"
+    },
+    {
+      "id": 19,
+      "start": 52.48,
+      "end": 52.82,
+      "en": "Vocabulary preview.",
+      "zh": "词汇预习。"
+    },
+    {
+      "id": 20,
+      "start": 53.84,
+      "end": 57.08,
+      "en": "On vocabulary preview today, we have the word lead time.",
+      "zh": "在今天的词汇预览中，我们有这个词提前期。"
+    },
+    {
+      "id": 21,
+      "start": 57.8,
+      "end": 58.06,
+      "en": "Lead time.",
+      "zh": "前置时间。"
+    },
+    {
+      "id": 22,
+      "start": 58.96,
+      "end": 59.96,
+      "en": "L-E-A-D, lead.",
+      "zh": "L-E-A-D，铅。"
+    },
+    {
+      "id": 23,
+      "start": 61.08,
+      "end": 61.52,
+      "en": "Lead time.",
+      "zh": "前置时间。"
+    },
+    {
+      "id": 24,
+      "start": 61.8,
+      "end": 61.92,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 25,
+      "start": 62.4,
+      "end": 62.78,
+      "en": "Like lead.",
+      "zh": "像铅。"
+    },
+    {
+      "id": 26,
+      "start": 63.52,
+      "end": 65.64,
+      "en": "This is something that factories usually would use.",
+      "zh": "这是工厂通常会使用的东西。"
+    },
+    {
+      "id": 27,
+      "start": 65.96,
+      "end": 66.96,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 28,
+      "start": 66.96,
+      "end": 67.96,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 29,
+      "start": 67.96,
+      "end": 74.6,
+      "en": "I guess lead time is the time in between point A and point B on a production schedule, right?",
+      "zh": "我想交货时间是生产计划中A点和B点之间的时间，对吧？"
+    },
+    {
+      "id": 30,
+      "start": 74.6,
+      "end": 75.6,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 31,
+      "start": 75.6,
+      "end": 77.44,
+      "en": "So you could have, for example, production lead time.",
+      "zh": "因此，例如，您可以拥有生产提前期。"
+    },
+    {
+      "id": 32,
+      "start": 77.44,
+      "end": 82.68,
+      "en": "So that's the time between when you make an order and when the product is finished.",
+      "zh": "这就是您下订单到产品完成之间的时间。"
+    },
+    {
+      "id": 33,
+      "start": 82.9,
+      "end": 83.26,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 34,
+      "start": 83.68,
+      "end": 85.88,
+      "en": "And you could also have delivery lead time.",
+      "zh": "您还可以有交货提前期。"
+    },
+    {
+      "id": 35,
+      "start": 86.14,
+      "end": 90.96,
+      "en": "So the time between when you place an order and when the product gets delivered to you.",
+      "zh": "因此，从您下订单到产品交付给您之间的时间。"
+    },
+    {
+      "id": 36,
+      "start": 91.28,
+      "end": 94.04,
+      "en": "So depending on the companies, you have different lead times.",
+      "zh": "因此，根据公司的不同，您有不同的交货时间。"
+    },
+    {
+      "id": 37,
+      "start": 94.04,
+      "end": 97.34,
+      "en": "Some are three days, other are five days, other are 45 days.",
+      "zh": "有的是三天，有的是五天，有的是45天。"
+    },
+    {
+      "id": 38,
+      "start": 98.24,
+      "end": 102.56,
+      "en": "And we at EnglishPod have a two week lead time for our podcast, right?",
+      "zh": "我们在 Englishpod 的播客有两周的交货时间，对吧？"
+    },
+    {
+      "id": 39,
+      "start": 102.96,
+      "end": 105.42,
+      "en": "But our delivery lead time is every other day.",
+      "zh": "但我们的交货提前期是每隔一天。"
+    },
+    {
+      "id": 40,
+      "start": 105.92,
+      "end": 106.06,
+      "en": "That's true.",
+      "zh": "确实如此。"
+    },
+    {
+      "id": 41,
+      "start": 106.92,
+      "end": 107.92,
+      "en": "Nice.",
+      "zh": "不错。"
+    },
+    {
+      "id": 42,
+      "start": 107.92,
+      "end": 108.92,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 43,
+      "start": 108.92,
+      "end": 109.92,
+      "en": "That's all we're going to be previewing today.",
+      "zh": "这就是我们今天要预览的全部内容。"
+    },
+    {
+      "id": 44,
+      "start": 109.92,
+      "end": 116.62,
+      "en": "So why don't we just listen to the dialogue and then we'll come back and explain some of these tricky vocabulary words that we'll see.",
+      "zh": "那么我们为什么不听对话，然后我们会回来解释一些我们将看到的棘手词汇。"
+    },
+    {
+      "id": 45,
+      "start": 124.44,
+      "end": 128.12,
+      "en": "I called this meeting today in order to discuss our manufacturing plan.",
+      "zh": "今天召集大家开会，是想讨论我们的生产计划。"
+    },
+    {
+      "id": 46,
+      "start": 128.52,
+      "end": 136.39,
+      "en": "As I'm sure you're all aware, with the credit crunch and the global financial crisis, we're obligated to look for more cost efficient ways of producing our goods.",
+      "zh": "我相信大家都知道，在信贷紧缩和全球金融危机的背景下，我们必须寻找更省成本的生产方式。"
+    },
+    {
+      "id": 47,
+      "start": 137.32,
+      "end": 139.39,
+      "en": "We don't want to have to be looking at redundancies.",
+      "zh": "我们可不想走到裁员那一步。"
+    },
+    {
+      "id": 48,
+      "start": 140.08,
+      "end": 144.29,
+      "en": "So we've outlined a brief plan to implement the just-in-time philosophy.",
+      "zh": "因此，我们草拟了一份推行准时制生产理念的方案。"
+    },
+    {
+      "id": 49,
+      "start": 145.52,
+      "end": 147.81,
+      "en": "We have two basic points that we want to focus on.",
+      "zh": "我们有两个要关注的基本要点。"
+    },
+    {
+      "id": 50,
+      "start": 148.48,
+      "end": 150.43,
+      "en": "First of all, we want to reduce our lead time.",
+      "zh": "首先，我们要缩短生产和交付周期。"
+    },
+    {
+      "id": 51,
+      "start": 151.36,
+      "end": 152.33,
+      "en": "Why would we want to do that?",
+      "zh": "我们为什么要这样做？"
+    },
+    {
+      "id": 52,
+      "start": 153.2,
+      "end": 156.31,
+      "en": "I think this is not an area that really needs to be worked on.",
+      "zh": "我觉得这一块其实没什么需要改进的。"
+    },
+    {
+      "id": 53,
+      "start": 156.96,
+      "end": 161.13,
+      "en": "Well, we want to reduce production and delivery lead times for better overall efficiency.",
+      "zh": "缩短生产和交付周期，才能提高整体效率。"
+    },
+    {
+      "id": 54,
+      "start": 161.72,
+      "end": 161.87,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 55,
+      "start": 162.72,
+      "end": 177.85,
+      "en": "Production lead times can be reduced by moving workstations closer together, reducing queue length like, for example, reducing the number of jobs waiting to be processed at a given machine, and improving the coordination and cooperation between successive processes.",
+      "zh": "我们可以把工位安排得更近，缩短排队等待的时间，例如减少某台机器前待处理的工件数量，并加强前后工序的协调配合，从而缩短生产周期。"
+    },
+    {
+      "id": 56,
+      "start": 179.24,
+      "end": 189.69,
+      "en": "Delivery lead times can be reduced through close cooperation with suppliers, possibly by inducing suppliers to locate closer to the factory, or working with a faster shipping company.",
+      "zh": "我们可以与供应商紧密合作，比如让他们把厂址迁得离工厂更近，或改用更快的货运公司，以缩短交付周期。"
+    },
+    {
+      "id": 57,
+      "start": 190.59,
+      "end": 191.07,
+      "en": "I see.",
+      "zh": "我明白了。"
+    },
+    {
+      "id": 58,
+      "start": 191.77,
+      "end": 192.67,
+      "en": "That makes sense.",
+      "zh": "这就说得通了。"
+    },
+    {
+      "id": 59,
+      "start": 193.75,
+      "end": 199.21,
+      "en": "The second point is that we want to require supplier quality assurance and implement a zero-defects quality program.",
+      "zh": "第二，我们要让供应商做好质量保证，并实施零缺陷质量计划。"
+    },
+    {
+      "id": 60,
+      "start": 199.93,
+      "end": 204.73,
+      "en": "We currently have far too many errors that lead to defective items, and therefore, they must be eliminated.",
+      "zh": "目前差错太多，造成不少次品，必须把这些问题消除。"
+    },
+    {
+      "id": 61,
+      "start": 205.39,
+      "end": 214.35,
+      "en": "A quality control at the source program must be implemented to give workers personal responsibility for the quality of the work they do, and the authority to stop production when something goes wrong.",
+      "zh": "还必须实施源头质量控制，让员工对自己的工作质量负责，并有权在发现问题时停下生产线。"
+    },
+    {
+      "id": 62,
+      "start": 215.09,
+      "end": 216.03,
+      "en": "I'm with you on this one.",
+      "zh": "这件事我同意你的看法。"
+    },
+    {
+      "id": 63,
+      "start": 216.67,
+      "end": 218.65,
+      "en": "It's essential that we reduce these errors.",
+      "zh": "我们必须减少这些错误。"
+    },
+    {
+      "id": 64,
+      "start": 219.72,
+      "end": 223.04,
+      "en": "We've got to force our suppliers to reduce their mistakes.",
+      "zh": "我们得要求供应商减少差错。"
+    },
+    {
+      "id": 65,
+      "start": 223.04,
+      "end": 224.04,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 66,
+      "start": 224.04,
+      "end": 226.53,
+      "en": "Well, let's look at how we're going to put this plan into action.",
+      "zh": "好，接下来看看怎样落实这项计划。"
+    },
+    {
+      "id": 67,
+      "start": 227.12,
+      "end": 228.12,
+      "en": "First.",
+      "zh": "首先。"
+    },
+    {
+      "id": 68,
+      "start": 236.02,
+      "end": 239.3,
+      "en": "Okay, so they're going to implement just in time in their company.",
+      "zh": "好的，所以他们将在他们的公司及时实施。"
+    },
+    {
+      "id": 69,
+      "start": 239.54,
+      "end": 239.76,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 70,
+      "start": 240.18,
+      "end": 242.72,
+      "en": "Yeah, I guess they're putting in some cost control measures.",
+      "zh": "是的，我猜他们正在采取一些成本控制措施。"
+    },
+    {
+      "id": 71,
+      "start": 243.12,
+      "end": 245.28,
+      "en": "So, Marco, there's some great language in here.",
+      "zh": "所以，马可，这里有一些很棒的语言。"
+    },
+    {
+      "id": 72,
+      "start": 245.44,
+      "end": 247.28,
+      "en": "Why don't we look at it now in Language Takeaway?",
+      "zh": "为什么我们现在不在语言外卖中看待它？"
+    },
+    {
+      "id": 73,
+      "start": 249.11,
+      "end": 250.23,
+      "en": "Language Takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 74,
+      "start": 251.22,
+      "end": 252.58,
+      "en": "Okay, the first word today.",
+      "zh": "好吧，今天的第一个字。"
+    },
+    {
+      "id": 75,
+      "start": 253.66,
+      "end": 254.1,
+      "en": "Redundancies.",
+      "zh": "裁员。"
+    },
+    {
+      "id": 76,
+      "start": 254.94,
+      "end": 255.38,
+      "en": "Redundancies.",
+      "zh": "裁员。"
+    },
+    {
+      "id": 77,
+      "start": 256.0,
+      "end": 257.2,
+      "en": "Redundancies.",
+      "zh": "裁员。"
+    },
+    {
+      "id": 78,
+      "start": 257.2,
+      "end": 258.76,
+      "en": "Redundancies.",
+      "zh": "裁员。"
+    },
+    {
+      "id": 79,
+      "start": 258.76,
+      "end": 263.28,
+      "en": "So this is kind of a strange word because usually a redundancy is when you're speaking, right?",
+      "zh": "所以这是一个奇怪的词，因为通常是在你说话的时候冗余，对吧？"
+    },
+    {
+      "id": 80,
+      "start": 263.28,
+      "end": 266.63,
+      "en": "Yeah, maybe when you say something that's already been said.",
+      "zh": "是的，也许当你说已经说过的话时。"
+    },
+    {
+      "id": 81,
+      "start": 267.0,
+      "end": 267.29,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 82,
+      "start": 267.51,
+      "end": 271.57,
+      "en": "You say something that has already been said, but we also use it in the business world.",
+      "zh": "你说了一些已经说过的话，但我们也在商业世界中使用它。"
+    },
+    {
+      "id": 83,
+      "start": 271.99,
+      "end": 274.97,
+      "en": "Right, and it comes from the base word redundant, right?",
+      "zh": "对，它来自基本单词冗余，对吧？"
+    },
+    {
+      "id": 84,
+      "start": 275.96,
+      "end": 276.96,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 85,
+      "start": 276.96,
+      "end": 279.18,
+      "en": "Meaning extra, more than what's needed.",
+      "zh": "意味着额外的，比需要的更多。"
+    },
+    {
+      "id": 86,
+      "start": 279.66,
+      "end": 279.88,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 87,
+      "start": 280.8,
+      "end": 285.28,
+      "en": "So when a person or position is made redundant, basically it means they get laid off, right?",
+      "zh": "所以当一个人或一个职位被多余时，基本上这意味着他们被解雇了，对吧？"
+    },
+    {
+      "id": 88,
+      "start": 285.28,
+      "end": 286.28,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 89,
+      "start": 286.28,
+      "end": 288.16,
+      "en": "So redundancies are a synonym of layoffs.",
+      "zh": "所以冗余是裁员的同义词。"
+    },
+    {
+      "id": 90,
+      "start": 288.52,
+      "end": 288.76,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 91,
+      "start": 289.24,
+      "end": 289.48,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 92,
+      "start": 290.02,
+      "end": 291.48,
+      "en": "All right, let's take a look at our next word.",
+      "zh": "好吧，让我们来看看我们的下一个词。"
+    },
+    {
+      "id": 93,
+      "start": 293.3,
+      "end": 293.82,
+      "en": "Workstations.",
+      "zh": "工作站。"
+    },
+    {
+      "id": 94,
+      "start": 293.88,
+      "end": 294.88,
+      "en": "Workstations.",
+      "zh": "工作站。"
+    },
+    {
+      "id": 95,
+      "start": 294.88,
+      "end": 295.16,
+      "en": "Workstations.",
+      "zh": "工作站。"
+    },
+    {
+      "id": 96,
+      "start": 295.88,
+      "end": 296.88,
+      "en": "Workstations.",
+      "zh": "工作站。"
+    },
+    {
+      "id": 97,
+      "start": 296.88,
+      "end": 298.68,
+      "en": "So workstation could be anything from your desk.",
+      "zh": "所以工作站可以是你办公桌上的任何东西。"
+    },
+    {
+      "id": 98,
+      "start": 299.02,
+      "end": 300.32,
+      "en": "Yeah, or maybe a workbench.",
+      "zh": "是的，或者可能是工作台。"
+    },
+    {
+      "id": 99,
+      "start": 300.7,
+      "end": 301.26,
+      "en": "A workbench.",
+      "zh": "一个工作台。"
+    },
+    {
+      "id": 100,
+      "start": 302.04,
+      "end": 303.7,
+      "en": "Or even a place on a production line.",
+      "zh": "甚至是生产线上的一个地方。"
+    },
+    {
+      "id": 101,
+      "start": 304.08,
+      "end": 304.2,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 102,
+      "start": 304.62,
+      "end": 306.96,
+      "en": "So you're a certain machine or something like that.",
+      "zh": "所以你是一台机器或类似的东西。"
+    },
+    {
+      "id": 103,
+      "start": 307.26,
+      "end": 310.14,
+      "en": "So basically a workstation is the area where you work.",
+      "zh": "所以基本上一个工作站是你工作的区域。"
+    },
+    {
+      "id": 104,
+      "start": 310.64,
+      "end": 311.16,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 105,
+      "start": 311.72,
+      "end": 317.04,
+      "en": "So you can say, can we get a new workstation for the new team member?",
+      "zh": "所以你可以说，我们可以为新团队成员获得一个新的工作站吗？"
+    },
+    {
+      "id": 106,
+      "start": 317.04,
+      "end": 320.84,
+      "en": "Or I could say, I want to move my workstation closer to my employees.",
+      "zh": "或者我可以说，我想把我的工作站移到离员工更近的地方。"
+    },
+    {
+      "id": 107,
+      "start": 321.42,
+      "end": 321.9,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 108,
+      "start": 321.9,
+      "end": 322.86,
+      "en": "So workstation.",
+      "zh": "所以工作站。"
+    },
+    {
+      "id": 109,
+      "start": 323.8,
+      "end": 325.2,
+      "en": "Okay, let's take a look at our next word.",
+      "zh": "好的，让我们看看我们的下一个词。"
+    },
+    {
+      "id": 110,
+      "start": 325.62,
+      "end": 326.8,
+      "en": "At a given machine.",
+      "zh": "在某台指定的机器上。"
+    },
+    {
+      "id": 111,
+      "start": 327.26,
+      "end": 328.32,
+      "en": "At a given machine.",
+      "zh": "在某台指定的机器上。"
+    },
+    {
+      "id": 112,
+      "start": 328.86,
+      "end": 329.64,
+      "en": "At a given.",
+      "zh": "在某个特定的……"
+    },
+    {
+      "id": 113,
+      "start": 330.48,
+      "end": 331.92,
+      "en": "At a given.",
+      "zh": "在某个特定的……"
+    },
+    {
+      "id": 114,
+      "start": 331.92,
+      "end": 334.26,
+      "en": "This is an interesting way to say at any machine.",
+      "zh": "在任何机器上，这是一种有趣的说法。"
+    },
+    {
+      "id": 115,
+      "start": 334.92,
+      "end": 335.92,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 116,
+      "start": 335.92,
+      "end": 336.92,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 117,
+      "start": 336.92,
+      "end": 344.88,
+      "en": "So this is operating exactly the same as here, the word given is operating exactly the same way as any.",
+      "zh": "所以这与这里的操作完全相同，给定的词的操作方式与任何操作完全相同。"
+    },
+    {
+      "id": 118,
+      "start": 344.88,
+      "end": 345.2,
+      "en": "As any.",
+      "zh": "作为任何人。"
+    },
+    {
+      "id": 119,
+      "start": 345.88,
+      "end": 346.88,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 120,
+      "start": 346.88,
+      "end": 347.88,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 121,
+      "start": 347.88,
+      "end": 353.88,
+      "en": "So let's listen to some examples of how we can change it up a little bit and we can use this given word.",
+      "zh": "所以让我们听听一些关于我们如何改变它的例子，我们可以使用这个给定的词。"
+    },
+    {
+      "id": 122,
+      "start": 353.88,
+      "end": 354.18,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 123,
+      "start": 355.08,
+      "end": 359.26,
+      "en": "In this factory, how many cars are in production at any given time?",
+      "zh": "在这家工厂，在任何特定时间生产多少辆汽车？"
+    },
+    {
+      "id": 124,
+      "start": 361.46,
+      "end": 362.2,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 125,
+      "start": 364.4,
+      "end": 367.78,
+      "en": "On any given day, about 40 million people use the internet.",
+      "zh": "在任何一天，大约有 4000 万人使用互联网。"
+    },
+    {
+      "id": 126,
+      "start": 371.04,
+      "end": 373.52,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 127,
+      "start": 373.52,
+      "end": 380.12,
+      "en": "Firefighters have to be ready to attend an emergency at any given moment.",
+      "zh": "消防员必须准备好在任何特定时刻参加紧急情况。"
+    },
+    {
+      "id": 128,
+      "start": 380.12,
+      "end": 380.4,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 129,
+      "start": 381.12,
+      "end": 383.09,
+      "en": "So any given time, at any given moment.",
+      "zh": "所以任何给定的时间，在任何给定的时刻。"
+    },
+    {
+      "id": 130,
+      "start": 383.72,
+      "end": 384.72,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 131,
+      "start": 384.72,
+      "end": 386.04,
+      "en": "Um, any given day.",
+      "zh": "嗯，任何一天。"
+    },
+    {
+      "id": 132,
+      "start": 386.11,
+      "end": 386.49,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 133,
+      "start": 386.55,
+      "end": 388.67,
+      "en": "Now let's take a look at our last word today.",
+      "zh": "现在让我们来看看我们今天的最后一句话。"
+    },
+    {
+      "id": 134,
+      "start": 389.71,
+      "end": 390.09,
+      "en": "Defective.",
+      "zh": "有缺陷的。"
+    },
+    {
+      "id": 135,
+      "start": 390.63,
+      "end": 391.31,
+      "en": "Defective.",
+      "zh": "有缺陷的。"
+    },
+    {
+      "id": 136,
+      "start": 391.6,
+      "end": 392.6,
+      "en": "Defective.",
+      "zh": "有缺陷的。"
+    },
+    {
+      "id": 137,
+      "start": 393.25,
+      "end": 393.51,
+      "en": "Defective.",
+      "zh": "有缺陷的。"
+    },
+    {
+      "id": 138,
+      "start": 393.6,
+      "end": 394.6,
+      "en": "Defective.",
+      "zh": "有缺陷的。"
+    },
+    {
+      "id": 139,
+      "start": 394.6,
+      "end": 395.6,
+      "en": "Defective.",
+      "zh": "有缺陷的。"
+    },
+    {
+      "id": 140,
+      "start": 395.6,
+      "end": 396.8,
+      "en": "So if something is defective.",
+      "zh": "所以如果有缺陷。"
+    },
+    {
+      "id": 141,
+      "start": 396.8,
+      "end": 397.69,
+      "en": "It has a problem with it.",
+      "zh": "它有问题。"
+    },
+    {
+      "id": 142,
+      "start": 397.88,
+      "end": 398.59,
+      "en": "It has a problem.",
+      "zh": "它有问题。"
+    },
+    {
+      "id": 143,
+      "start": 398.88,
+      "end": 399.88,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 144,
+      "start": 399.88,
+      "end": 400.85,
+      "en": "We can say defective is an adjective.",
+      "zh": "我们可以说有缺陷是形容词。"
+    },
+    {
+      "id": 145,
+      "start": 401.31,
+      "end": 401.43,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 146,
+      "start": 401.85,
+      "end": 403.37,
+      "en": "And the noun is defect.",
+      "zh": "而名词是有缺陷的。"
+    },
+    {
+      "id": 147,
+      "start": 404.07,
+      "end": 404.37,
+      "en": "Defect.",
+      "zh": "缺陷。"
+    },
+    {
+      "id": 148,
+      "start": 404.68,
+      "end": 405.68,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 149,
+      "start": 405.68,
+      "end": 407.79,
+      "en": "So if something has a defect, it is defective.",
+      "zh": "因此，如果某物有缺陷，它就是有缺陷的。"
+    },
+    {
+      "id": 150,
+      "start": 408.12,
+      "end": 409.12,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 151,
+      "start": 409.12,
+      "end": 413.59,
+      "en": "So for example, maybe you produce chairs and you make one and this chair is missing a wheel.",
+      "zh": "例如，也许你生产椅子，你制作了一个，而这把椅子缺少一个轮子。"
+    },
+    {
+      "id": 152,
+      "start": 414.04,
+      "end": 414.25,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 153,
+      "start": 414.45,
+      "end": 415.23,
+      "en": "So it's defective.",
+      "zh": "所以是有缺陷的。"
+    },
+    {
+      "id": 154,
+      "start": 416.04,
+      "end": 417.04,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 155,
+      "start": 417.04,
+      "end": 417.49,
+      "en": "The defect is the missing wheel.",
+      "zh": "缺陷是缺失的轮子。"
+    },
+    {
+      "id": 156,
+      "start": 418.04,
+      "end": 419.6,
+      "en": "The defect is the missing.",
+      "zh": "缺点是缺失。"
+    },
+    {
+      "id": 157,
+      "start": 419.6,
+      "end": 420.6,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 158,
+      "start": 420.6,
+      "end": 423.88,
+      "en": "And before we listen to our dialog again, I want to take a look at this phrase.",
+      "zh": "在我们再次听我们的对话之前，我想看看这个短语。"
+    },
+    {
+      "id": 159,
+      "start": 423.88,
+      "end": 425.05,
+      "en": "I'm with you on this one.",
+      "zh": "这件事我同意你的看法。"
+    },
+    {
+      "id": 160,
+      "start": 425.28,
+      "end": 426.15,
+      "en": "I'm with you on this one.",
+      "zh": "这件事我同意你的看法。"
+    },
+    {
+      "id": 161,
+      "start": 426.52,
+      "end": 427.92,
+      "en": "I'm with you on this one.",
+      "zh": "这件事我同意你的看法。"
+    },
+    {
+      "id": 162,
+      "start": 427.92,
+      "end": 429.52,
+      "en": "I'm with you on this one.",
+      "zh": "这件事我同意你的看法。"
+    },
+    {
+      "id": 163,
+      "start": 429.52,
+      "end": 430.52,
+      "en": "So what is that?",
+      "zh": "那是什么呢？"
+    },
+    {
+      "id": 164,
+      "start": 430.52,
+      "end": 431.52,
+      "en": "What does that mean exactly?",
+      "zh": "这到底是什么意思？"
+    },
+    {
+      "id": 165,
+      "start": 431.52,
+      "end": 432.27,
+      "en": "I'm with you on this one.",
+      "zh": "这件事我同意你的看法。"
+    },
+    {
+      "id": 166,
+      "start": 432.53,
+      "end": 433.51,
+      "en": "I agree with you.",
+      "zh": "我同意你的看法。"
+    },
+    {
+      "id": 167,
+      "start": 433.75,
+      "end": 435.91,
+      "en": "I agree with you on this point.",
+      "zh": "在这一点上我同意你的看法。"
+    },
+    {
+      "id": 168,
+      "start": 436.21,
+      "end": 436.45,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 169,
+      "start": 437.48,
+      "end": 438.48,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 170,
+      "start": 438.48,
+      "end": 442.15,
+      "en": "So if you agree with somebody on a certain point, you would say, oh, I'm with you on this one.",
+      "zh": "因此，如果您在某个点上同意某人的观点，您会说，哦，我同意您的观点。"
+    },
+    {
+      "id": 171,
+      "start": 442.84,
+      "end": 443.03,
+      "en": "I agree with you.",
+      "zh": "我同意你的看法。"
+    },
+    {
+      "id": 172,
+      "start": 443.84,
+      "end": 444.84,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 173,
+      "start": 444.84,
+      "end": 445.84,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 174,
+      "start": 445.84,
+      "end": 464.16,
+      "en": "So now, let's listen to our dialog again and we'll come back and talk a little bit more about the history of this just in time.",
+      "zh": "所以现在，让我们再次听听我们的对话，我们会及时回来讨论更多关于它的历史的信息。"
+    },
+    {
+      "id": 175,
+      "start": 464.16,
+      "end": 467.87,
+      "en": "I called this meeting today in order to discuss our manufacturing plan.",
+      "zh": "今天召集大家开会，是想讨论我们的生产计划。"
+    },
+    {
+      "id": 176,
+      "start": 468.27,
+      "end": 476.11,
+      "en": "As I'm sure you're all aware, with the credit crunch and the global financial crisis, we're obligated to look for more cost-efficient ways of producing our goods.",
+      "zh": "我相信你们都知道，随着信贷紧缩和全球金融危机，我们有义务寻找更具成本效益的方式来生产我们的商品。"
+    },
+    {
+      "id": 177,
+      "start": 477.04,
+      "end": 484.03,
+      "en": "We don't want to have to be looking at redundancies, so we've outlined a brief plan to implement the just-in-time philosophy.",
+      "zh": "我们不想关注冗余，因此我们概述了一个简短的计划来实施即时理念。"
+    },
+    {
+      "id": 178,
+      "start": 485.24,
+      "end": 487.56,
+      "en": "We have two basic points that we want to focus on.",
+      "zh": "我们有两个要关注的基本要点。"
+    },
+    {
+      "id": 179,
+      "start": 488.2,
+      "end": 490.16,
+      "en": "First of all, we want to reduce our lead time.",
+      "zh": "首先，我们希望缩短交货时间。"
+    },
+    {
+      "id": 180,
+      "start": 491.08,
+      "end": 492.12,
+      "en": "Why would we want to do that?",
+      "zh": "我们为什么要这样做？"
+    },
+    {
+      "id": 181,
+      "start": 492.92,
+      "end": 496.05,
+      "en": "I think this is not an area that really needs to be walked on.",
+      "zh": "我认为这不是一个真正需要走的区域。"
+    },
+    {
+      "id": 182,
+      "start": 496.95,
+      "end": 500.85,
+      "en": "Well, we want to reduce production and delivery lead times for better overall efficiency.",
+      "zh": "缩短生产和交付周期，才能提高整体效率。"
+    },
+    {
+      "id": 183,
+      "start": 501.39,
+      "end": 517.51,
+      "en": "Right, production lead times can be reduced by moving workstations closer together, reducing queue length like, for example, reducing the number of jobs waiting to be processed at a given machine, and improving the coordination and cooperation between successive processes.",
+      "zh": "对，可以通过将工作站移得更近，减少队列长度，例如减少等待在给定机器上处理的作业数量，并改善连续流程之间的协调与合作，从而减少生产交货时间。"
+    },
+    {
+      "id": 184,
+      "start": 518.25,
+      "end": 529.45,
+      "en": "Delivery lead times can be reduced through close cooperation with suppliers, possibly by inducing suppliers to locate closer to the factory, or working with a faster shipping company.",
+      "zh": "我们可以与供应商紧密合作，比如让他们把厂址迁得离工厂更近，或改用更快的货运公司，以缩短交付周期。"
+    },
+    {
+      "id": 185,
+      "start": 530.32,
+      "end": 530.82,
+      "en": "I see.",
+      "zh": "我明白了。"
+    },
+    {
+      "id": 186,
+      "start": 531.56,
+      "end": 532.44,
+      "en": "That makes sense.",
+      "zh": "这就说得通了。"
+    },
+    {
+      "id": 187,
+      "start": 533.48,
+      "end": 538.98,
+      "en": "The second point is that we want to require supplier quality assurance and implement a zero-defects quality program.",
+      "zh": "第二，我们要让供应商做好质量保证，并实施零缺陷质量计划。"
+    },
+    {
+      "id": 188,
+      "start": 539.68,
+      "end": 544.48,
+      "en": "We currently have far too many errors that lead to defective items, and therefore, they must be eliminated.",
+      "zh": "目前差错太多，造成不少次品，必须把这些问题消除。"
+    },
+    {
+      "id": 189,
+      "start": 545.14,
+      "end": 554.1,
+      "en": "A quality control at the source program must be implemented to give workers personal responsibility for the quality of the work they do, and the authority to stop production when something goes wrong.",
+      "zh": "还必须实施源头质量控制，让员工对自己的工作质量负责，并有权在发现问题时停下生产线。"
+    },
+    {
+      "id": 190,
+      "start": 554.86,
+      "end": 555.8,
+      "en": "I'm with you on this one.",
+      "zh": "这件事我同意你的看法。"
+    },
+    {
+      "id": 191,
+      "start": 556.4,
+      "end": 558.52,
+      "en": "It's essential that we reduce these errors.",
+      "zh": "我们必须减少这些错误。"
+    },
+    {
+      "id": 192,
+      "start": 559.3,
+      "end": 561.72,
+      "en": "We've got to force our suppliers to reduce their mistakes.",
+      "zh": "我们得要求供应商减少差错。"
+    },
+    {
+      "id": 193,
+      "start": 562.84,
+      "end": 563.84,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 194,
+      "start": 563.84,
+      "end": 566.26,
+      "en": "Well, let's look at how we're going to put this plan into action.",
+      "zh": "好，接下来看看怎样落实这项计划。"
+    },
+    {
+      "id": 195,
+      "start": 567.42,
+      "end": 567.84,
+      "en": "First...",
+      "zh": "首先..."
+    },
+    {
+      "id": 196,
+      "start": 568.08,
+      "end": 582.68,
+      "en": "All right, so Marco, I mentioned at the beginning of the lesson that I don't know much about just-in-time, but luckily you do, right?",
+      "zh": "好吧，马可，我在课程开始时提到我对及时了解不多，但幸运的是你知道，对吧？"
+    },
+    {
+      "id": 197,
+      "start": 582.68,
+      "end": 584.32,
+      "en": "Yeah, I know a little bit about it.",
+      "zh": "是的，我对它有点了解。"
+    },
+    {
+      "id": 198,
+      "start": 585.36,
+      "end": 588.14,
+      "en": "So tell me a little bit about where this philosophy came from.",
+      "zh": "所以告诉我一些关于这种哲学的来源。"
+    },
+    {
+      "id": 199,
+      "start": 588.36,
+      "end": 589.8,
+      "en": "What are the origins of this idea?",
+      "zh": "这个想法的起源是什么？"
+    },
+    {
+      "id": 200,
+      "start": 590.46,
+      "end": 594.9,
+      "en": "It actually became really popular with Toyota, and it was called the Toyota Production System.",
+      "zh": "它实际上在丰田中真正流行起来，它被称为丰田生产系统。"
+    },
+    {
+      "id": 201,
+      "start": 595.64,
+      "end": 600.84,
+      "en": "So many people think it's Japanese, but in reality, the Japanese got it from the United States.",
+      "zh": "很多人认为是日本人，但实际上，日本人是从美国得到的。"
+    },
+    {
+      "id": 202,
+      "start": 601.24,
+      "end": 607.57,
+      "en": "It's a philosophy that was thought up by Ford Motor Company in order to improve their production line.",
+      "zh": "这是福特汽车公司为改善生产线而设想的理念。"
+    },
+    {
+      "id": 203,
+      "start": 608.52,
+      "end": 617.68,
+      "en": "But when the Japanese visited Ford Motor Company, it wasn't fully implemented yet, and oddly enough, they found this philosophy working already in a piggly-wiggly.",
+      "zh": "但是当日本人访问福特汽车公司时，它还没有完全实施，奇怪的是，他们发现这种理念已经在麻烦中起作用了。"
+    },
+    {
+      "id": 204,
+      "start": 617.68,
+      "end": 619.24,
+      "en": "What's a piggly-wiggly?",
+      "zh": "什么是小猪摇摆？"
+    },
+    {
+      "id": 205,
+      "start": 619.24,
+      "end": 623.8,
+      "en": "Piggly-wiggly was a chain of grocery stores in the United States.",
+      "zh": "Piggly-Wiggly 是美国的一家杂货店连锁店。"
+    },
+    {
+      "id": 206,
+      "start": 623.97,
+      "end": 634.65,
+      "en": "I'm not sure if they're still around, but yeah, they were really big, and basically piggly-wiggly was using this to improve their whole system of shipping and of stocking and everything.",
+      "zh": "我不确定它们是否还在身边，但是，它们真的很大，基本上 Piggly-Wiggly 正在使用它来改善他们的整个运输和放养系统和所有东西。"
+    },
+    {
+      "id": 207,
+      "start": 635.11,
+      "end": 636.37,
+      "en": "Okay, so how does it work?",
+      "zh": "好的，那它是如何工作的呢？"
+    },
+    {
+      "id": 208,
+      "start": 636.85,
+      "end": 644.53,
+      "en": "So basically what you try to do is make your processes more efficient, reduce the amount of space you're using, et cetera.",
+      "zh": "所以基本上你试图做的是让你的流程更高效，减少你使用的空间量等等。"
+    },
+    {
+      "id": 209,
+      "start": 644.79,
+      "end": 652.55,
+      "en": "And this was really important for Japanese because, of course, they don't have that much space in Japan to have these huge warehouses like in other countries.",
+      "zh": "这对日本人来说真的很重要，因为当然，他们在日本没有那么多空间可以像其他国家一样拥有这些巨大的仓库。"
+    },
+    {
+      "id": 210,
+      "start": 653.04,
+      "end": 657.53,
+      "en": "So what you're saying is they're producing goods just for the time they need it, right?",
+      "zh": "所以你的意思是他们只是为了他们需要的时间生产商品，对吧？"
+    },
+    {
+      "id": 211,
+      "start": 658.04,
+      "end": 659.04,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 212,
+      "start": 659.04,
+      "end": 663.04,
+      "en": "So trying to not be overstocked or- Or have a long lead time or something.",
+      "zh": "所以尽量不要库存过多，或者有很长的交货时间或其他东西。"
+    },
+    {
+      "id": 213,
+      "start": 663.04,
+      "end": 667.34,
+      "en": "Long lead times where you have to keep something in a warehouse, exactly.",
+      "zh": "很长的交货时间，您必须将东西放在仓库中，确切地说。"
+    },
+    {
+      "id": 214,
+      "start": 667.98,
+      "end": 669.66,
+      "en": "So that's why it's so efficient.",
+      "zh": "所以这就是它如此高效的原因。"
+    },
+    {
+      "id": 215,
+      "start": 670.0,
+      "end": 673.06,
+      "en": "And also it's about improving the efficiency between processes.",
+      "zh": "而且它是关于提高流程之间的效率。"
+    },
+    {
+      "id": 216,
+      "start": 673.36,
+      "end": 675.96,
+      "en": "So what's sometimes called a bottleneck.",
+      "zh": "所以有时被称为瓶颈。"
+    },
+    {
+      "id": 217,
+      "start": 675.96,
+      "end": 685.46,
+      "en": "You can have really good processes in the beginning, but in the end, maybe you have only one workstation that's taking all these orders and everything gets bottled up and it causes delays.",
+      "zh": "一开始你可以有非常好的流程，但最终，也许你只有一个工作站接受所有这些订单，一切都被封存起来，这会导致延误。"
+    },
+    {
+      "id": 218,
+      "start": 685.48,
+      "end": 686.48,
+      "en": "It's slow, yeah.",
+      "zh": "它很慢，是的。"
+    },
+    {
+      "id": 219,
+      "start": 686.48,
+      "end": 691.26,
+      "en": "So in the dialogue, they want to implement the just-in-time strategy as a way of avoiding redundancies.",
+      "zh": "因此，在对话中，他们希望实施即时战略作为避免冗余的一种方式。"
+    },
+    {
+      "id": 220,
+      "start": 691.8,
+      "end": 695.81,
+      "en": "But it sounds to me like actually this might cause redundancies sometimes.",
+      "zh": "但在我看来，这实际上有时可能会导致冗余。"
+    },
+    {
+      "id": 221,
+      "start": 696.21,
+      "end": 697.99,
+      "en": "Well, yeah, sometimes it does.",
+      "zh": "嗯，是的，有时确实如此。"
+    },
+    {
+      "id": 222,
+      "start": 698.33,
+      "end": 711.87,
+      "en": "Sometimes when you make workstations more efficient or when you make all your processes work more fluidly, sometimes inevitably you will have to lay off some people that are redundant.",
+      "zh": "有时，当您使工作站更有效率或使您的所有流程更流畅时，有时您将不得不解雇一些多余的人。"
+    },
+    {
+      "id": 223,
+      "start": 712.27,
+      "end": 712.59,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 224,
+      "start": 713.6,
+      "end": 716.04,
+      "en": "Have you ever worked in a company where they've implemented just-in-time?",
+      "zh": "你有没有在他们及时实施的公司工作过？"
+    },
+    {
+      "id": 225,
+      "start": 716.57,
+      "end": 726.57,
+      "en": "No, actually, I've never really worked at a place where this philosophy was working, but I did used to work at a place where we had Six Sigma, which is a little bit similar.",
+      "zh": "不，实际上，我从来没有真正在这种哲学发挥作用的地方工作过，但我确实曾经在我们有六西格码的地方工作，这有点相似。"
+    },
+    {
+      "id": 226,
+      "start": 727.81,
+      "end": 730.35,
+      "en": "Well, I guess we'll need a lesson on Six Sigma in the future.",
+      "zh": "好吧，我想我们将来需要一堂关于六西格码的课程。"
+    },
+    {
+      "id": 227,
+      "start": 731.04,
+      "end": 734.49,
+      "en": "Yeah, we'll see if we come up with Six Sigma and what it means.",
+      "zh": "是的，我们会看看我们是否想出了六西格码以及这意味着什么。"
+    },
+    {
+      "id": 228,
+      "start": 735.12,
+      "end": 738.03,
+      "en": "It's kind of interesting, but we want to hear what you think.",
+      "zh": "这很有趣，但我们想听听你的想法。"
+    },
+    {
+      "id": 229,
+      "start": 738.52,
+      "end": 738.87,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 230,
+      "start": 739.52,
+      "end": 742.96,
+      "en": "Have you guys worked in a place where they use just-in-time?",
+      "zh": "你们有没有在他们及时使用的地方工作过？"
+    },
+    {
+      "id": 231,
+      "start": 743.67,
+      "end": 743.93,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 232,
+      "start": 744.21,
+      "end": 750.69,
+      "en": "Or if you have any quality control measures or how does your company avoid having defective items or defective services?",
+      "zh": "或者，如果您有任何质量控制措施，或者您的公司如何避免有缺陷的物品或有缺陷的服务？"
+    },
+    {
+      "id": 233,
+      "start": 751.56,
+      "end": 754.4,
+      "en": "So visit our website, EnglishPod.com.",
+      "zh": "因此，请访问我们的网站 englishpod.com。"
+    },
+    {
+      "id": 234,
+      "start": 754.4,
+      "end": 758.57,
+      "en": "And Marco and I are always around to respond to your comments and answer your questions.",
+      "zh": "Marco 和我总是在身边回复您的评论并回答您的问题。"
+    },
+    {
+      "id": 235,
+      "start": 759.13,
+      "end": 759.39,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 236,
+      "start": 759.77,
+      "end": 761.04,
+      "en": "So until then, it's-",
+      "zh": "所以在那之前，它是——"
+    },
+    {
+      "id": 237,
+      "start": 761.04,
+      "end": 762.04,
+      "en": "Goodbye.",
+      "zh": "再见。"
+    },
+    {
+      "id": 238,
+      "start": 762.04,
+      "end": 770.273,
+      "en": "Bye.",
+      "zh": "再见。"
+    }
+  ],
+  "dialog": {
+    "start": 124.44,
+    "end": 228.12,
+    "segmentIds": [
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67
+    ]
+  }
+}

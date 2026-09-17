@@ -1,0 +1,1749 @@
+{
+  "version": 1,
+  "id": 42,
+  "number": "0042",
+  "title": "The Office - I Need More Time",
+  "audio": "mp3/42. The Office - I Need More Time.mp3",
+  "duration": 715.755125,
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.97,
+      "end": 2.97,
+      "en": "Hello, English learners.",
+      "zh": "各位英语学习者，大家好。"
+    },
+    {
+      "id": 2,
+      "start": 3.36,
+      "end": 4.72,
+      "en": "Welcome back to EnglishPod.",
+      "zh": "欢迎回到 EnglishPod。"
+    },
+    {
+      "id": 3,
+      "start": 4.72,
+      "end": 5.23,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 4,
+      "start": 5.67,
+      "end": 6.23,
+      "en": "And I'm Erica.",
+      "zh": "我叫 Erica。"
+    },
+    {
+      "id": 5,
+      "start": 6.85,
+      "end": 10.07,
+      "en": "And today with Erica, we're bringing you a great lesson about time.",
+      "zh": "今天和 Erica 一起，我们为您带来了关于时间的精彩课程。"
+    },
+    {
+      "id": 6,
+      "start": 10.45,
+      "end": 11.19,
+      "en": "You need more of it.",
+      "zh": "你需要更多。"
+    },
+    {
+      "id": 7,
+      "start": 11.39,
+      "end": 12.49,
+      "en": "We need more time, right?",
+      "zh": "我们需要更多的时间，对吧？"
+    },
+    {
+      "id": 8,
+      "start": 12.88,
+      "end": 13.88,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 9,
+      "start": 13.88,
+      "end": 16.44,
+      "en": "So we're going to be teaching you how you can ask for more time.",
+      "zh": "所以我们将教你如何要求更多的时间。"
+    },
+    {
+      "id": 10,
+      "start": 16.44,
+      "end": 23.33,
+      "en": "If you're working on a project at work and you can't finish it on time, you have to ask your boss for more time.",
+      "zh": "如果你在工作中从事一个项目，但你无法按时完成它，你必须向你的老板询问更多的时间。"
+    },
+    {
+      "id": 11,
+      "start": 23.88,
+      "end": 24.88,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 12,
+      "start": 24.88,
+      "end": 29.19,
+      "en": "So in our dialogue, Casey needs more time to put together a press kit.",
+      "zh": "因此，在我们的对话中，Casey 需要更多时间来组装新闻资料包。"
+    },
+    {
+      "id": 13,
+      "start": 30.24,
+      "end": 30.99,
+      "en": "What's a press kit?",
+      "zh": "什么是新闻资料包？"
+    },
+    {
+      "id": 14,
+      "start": 31.43,
+      "end": 32.17,
+      "en": "Good question.",
+      "zh": "问得好。"
+    },
+    {
+      "id": 15,
+      "start": 32.45,
+      "end": 35.59,
+      "en": "A press kit is something the marketing department will put together.",
+      "zh": "新闻资料袋是营销部门将整理的东西。"
+    },
+    {
+      "id": 16,
+      "start": 35.59,
+      "end": 41.01,
+      "en": "Basically pictures, logos, information about the company.",
+      "zh": "基本上是图片，徽标，有关公司的信息。"
+    },
+    {
+      "id": 17,
+      "start": 41.68,
+      "end": 49.72,
+      "en": "So when a newspaper or a magazine wants to write an article about them, so they have something already prepared that they could give the newspaper or magazine.",
+      "zh": "因此，当报纸或杂志想要写一篇关于他们的文章时，他们已经准备好了一些东西，可以给报纸或杂志。"
+    },
+    {
+      "id": 18,
+      "start": 49.72,
+      "end": 50.01,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 19,
+      "start": 50.61,
+      "end": 53.29,
+      "en": "So let's listen to our dialogue for the first time.",
+      "zh": "所以让我们第一次听我们的对话。"
+    },
+    {
+      "id": 20,
+      "start": 53.79,
+      "end": 58.07,
+      "en": "And as always, it's going to be at a normal speed, so it might be a little bit difficult to understand.",
+      "zh": "和往常一样，它会以正常速度，所以可能有点难以理解。"
+    },
+    {
+      "id": 21,
+      "start": 58.52,
+      "end": 71.0,
+      "en": "We'll come back in one minute and tell you about some of the key language.",
+      "zh": "我们会在一分钟内回来告诉你一些关键语言。"
+    },
+    {
+      "id": 22,
+      "start": 71.0,
+      "end": 76.77,
+      "en": "So Casey, how are things going with the photos for the press kit?",
+      "zh": "凯西，新闻资料包要用的照片进展怎么样了？"
+    },
+    {
+      "id": 23,
+      "start": 77.47,
+      "end": 80.71,
+      "en": "Yeah, I've been meaning to talk to you about that.",
+      "zh": "是的，我一直想和你谈谈这件事。"
+    },
+    {
+      "id": 24,
+      "start": 81.49,
+      "end": 84.35,
+      "en": "I might need to ask for an extension on that deadline.",
+      "zh": "恐怕我得申请延长截止日期。"
+    },
+    {
+      "id": 25,
+      "start": 85.33,
+      "end": 87.71,
+      "en": "You've had over a month to get this finalized.",
+      "zh": "你已经有一个多月的时间来完成这项工作。"
+    },
+    {
+      "id": 26,
+      "start": 88.59,
+      "end": 89.99,
+      "en": "Why are things delayed?",
+      "zh": "事情为什么耽搁了？"
+    },
+    {
+      "id": 27,
+      "start": 90.65,
+      "end": 95.25,
+      "en": "Well, the thing is, we ran into a lot of problems.",
+      "zh": "好吧，问题是，我们遇到了很多问题。"
+    },
+    {
+      "id": 28,
+      "start": 95.71,
+      "end": 97.43,
+      "en": "I'm not looking for excuses here.",
+      "zh": "我现在不想听借口。"
+    },
+    {
+      "id": 29,
+      "start": 97.83,
+      "end": 100.05,
+      "en": "I just want to get this finished on time.",
+      "zh": "我只想让它按时完成。"
+    },
+    {
+      "id": 30,
+      "start": 100.57,
+      "end": 101.07,
+      "en": "I know.",
+      "zh": "我知道。"
+    },
+    {
+      "id": 31,
+      "start": 101.39,
+      "end": 103.01,
+      "en": "And I apologize for the delay.",
+      "zh": "很抱歉耽误了进度。"
+    },
+    {
+      "id": 32,
+      "start": 103.56,
+      "end": 105.68,
+      "en": "But some things were just beyond my control.",
+      "zh": "但有些事情超出了我的控制范围。"
+    },
+    {
+      "id": 33,
+      "start": 106.48,
+      "end": 107.98,
+      "en": "I had trouble booking the photographer.",
+      "zh": "我预约摄影师时遇到了麻烦。"
+    },
+    {
+      "id": 34,
+      "start": 108.78,
+      "end": 110.74,
+      "en": "And then Michael was sick for three weeks.",
+      "zh": "然后迈克尔病了三个星期。"
+    },
+    {
+      "id": 35,
+      "start": 111.3,
+      "end": 112.68,
+      "en": "So I couldn't include him in the photos.",
+      "zh": "所以没法让他入镜。"
+    },
+    {
+      "id": 36,
+      "start": 113.58,
+      "end": 116.26,
+      "en": "And the design team lost all the files.",
+      "zh": "设计团队又把文件全弄丢了。"
+    },
+    {
+      "id": 37,
+      "start": 116.66,
+      "end": 118.16,
+      "en": "So I had to redo the pictures.",
+      "zh": "所以我不得不重做照片。"
+    },
+    {
+      "id": 38,
+      "start": 118.96,
+      "end": 121.18,
+      "en": "I'm not going to put this off any longer, Casey.",
+      "zh": "凯西，我不会再拖下去了。"
+    },
+    {
+      "id": 39,
+      "start": 121.84,
+      "end": 123.52,
+      "en": "I want those photos ASAP.",
+      "zh": "我要尽快拿到那些照片。"
+    },
+    {
+      "id": 40,
+      "start": 128.65,
+      "end": 129.57,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 41,
+      "start": 130.04,
+      "end": 132.31,
+      "en": "So Casey is in trouble, I think.",
+      "zh": "所以我想凯西有麻烦了。"
+    },
+    {
+      "id": 42,
+      "start": 133.01,
+      "end": 135.03,
+      "en": "Yeah, I think her boss is pretty upset.",
+      "zh": "是的，我认为她的老板很沮丧。"
+    },
+    {
+      "id": 43,
+      "start": 135.39,
+      "end": 135.53,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 44,
+      "start": 136.76,
+      "end": 143.56,
+      "en": "So let's take a look at some of the language that we saw in this dialogue in Language Takeaway.",
+      "zh": "所以让我们来看看我们在语言外卖对话中看到的一些语言。"
+    },
+    {
+      "id": 45,
+      "start": 143.56,
+      "end": 144.2,
+      "en": "Language Takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 46,
+      "start": 145.46,
+      "end": 147.0,
+      "en": "First word today is deadline.",
+      "zh": "今天的第一个词是最后期限。"
+    },
+    {
+      "id": 47,
+      "start": 149.26,
+      "end": 149.4,
+      "en": "Deadline.",
+      "zh": "截止日期。"
+    },
+    {
+      "id": 48,
+      "start": 149.44,
+      "end": 150.44,
+      "en": "Deadline.",
+      "zh": "截止日期。"
+    },
+    {
+      "id": 49,
+      "start": 150.44,
+      "end": 151.44,
+      "en": "Deadline.",
+      "zh": "截止日期。"
+    },
+    {
+      "id": 50,
+      "start": 151.44,
+      "end": 152.32,
+      "en": "So, Erica, what's a deadline?",
+      "zh": "那么，埃里卡，最后期限是什么？"
+    },
+    {
+      "id": 51,
+      "start": 153.36,
+      "end": 156.63,
+      "en": "It is the last possible date to do something.",
+      "zh": "这是做某事的最后可能日期。"
+    },
+    {
+      "id": 52,
+      "start": 157.12,
+      "end": 161.47,
+      "en": "So for example, when we were in school, our teacher would send us homework and say it was for Friday.",
+      "zh": "例如，当我们在学校时，我们的老师会给我们寄作业，说是星期五。"
+    },
+    {
+      "id": 53,
+      "start": 161.94,
+      "end": 163.11,
+      "en": "So the deadline was Friday.",
+      "zh": "所以最后期限是星期五。"
+    },
+    {
+      "id": 54,
+      "start": 163.48,
+      "end": 164.43,
+      "en": "Was Friday, right?",
+      "zh": "是星期五，对吧？"
+    },
+    {
+      "id": 55,
+      "start": 165.16,
+      "end": 168.65,
+      "en": "Or when you're at work, you have projects that you have to finish by a certain date.",
+      "zh": "或者当你在工作时，你有项目必须在某个日期之前完成。"
+    },
+    {
+      "id": 56,
+      "start": 169.24,
+      "end": 169.77,
+      "en": "That's your deadline.",
+      "zh": "那是你的最后期限。"
+    },
+    {
+      "id": 57,
+      "start": 170.24,
+      "end": 171.24,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 58,
+      "start": 171.24,
+      "end": 172.31,
+      "en": "Okay, let's look at our next word.",
+      "zh": "好吧，让我们看看我们的下一个词。"
+    },
+    {
+      "id": 59,
+      "start": 173.24,
+      "end": 174.24,
+      "en": "Extension.",
+      "zh": "延期。"
+    },
+    {
+      "id": 60,
+      "start": 174.24,
+      "end": 175.24,
+      "en": "Extension.",
+      "zh": "延期。"
+    },
+    {
+      "id": 61,
+      "start": 175.24,
+      "end": 176.24,
+      "en": "Extension.",
+      "zh": "延期。"
+    },
+    {
+      "id": 62,
+      "start": 176.24,
+      "end": 177.24,
+      "en": "Extension.",
+      "zh": "延期。"
+    },
+    {
+      "id": 63,
+      "start": 177.24,
+      "end": 180.92,
+      "en": "So extension and deadline go together, right?",
+      "zh": "所以延期和截止日期是一致的，对吧？"
+    },
+    {
+      "id": 64,
+      "start": 180.92,
+      "end": 181.92,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 65,
+      "start": 181.92,
+      "end": 188.0,
+      "en": "If you can't reach your deadline or you can't make your deadline, you must ask for an extension.",
+      "zh": "如果您无法达到最后期限或无法完成最后期限，您必须要求延期。"
+    },
+    {
+      "id": 66,
+      "start": 188.24,
+      "end": 188.56,
+      "en": "An extension.",
+      "zh": "一个扩展。"
+    },
+    {
+      "id": 67,
+      "start": 189.24,
+      "end": 190.62,
+      "en": "So you ask for more time.",
+      "zh": "所以你要求更多的时间。"
+    },
+    {
+      "id": 68,
+      "start": 190.88,
+      "end": 191.0,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 69,
+      "start": 191.72,
+      "end": 195.24,
+      "en": "So extension is moving the deadline in the future.",
+      "zh": "因此，扩展将在未来改变最后期限。"
+    },
+    {
+      "id": 70,
+      "start": 195.24,
+      "end": 196.52,
+      "en": "Alright, interesting.",
+      "zh": "好吧，有趣。"
+    },
+    {
+      "id": 71,
+      "start": 196.52,
+      "end": 197.36,
+      "en": "Let's look at our next word.",
+      "zh": "我们来看看下一个词。"
+    },
+    {
+      "id": 72,
+      "start": 199.6,
+      "end": 200.32,
+      "en": "Ran into.",
+      "zh": "遇到了。"
+    },
+    {
+      "id": 73,
+      "start": 200.32,
+      "end": 200.58,
+      "en": "Ran into.",
+      "zh": "遇到了。"
+    },
+    {
+      "id": 74,
+      "start": 202.04,
+      "end": 202.54,
+      "en": "Ran into.",
+      "zh": "遇到了。"
+    },
+    {
+      "id": 75,
+      "start": 203.28,
+      "end": 204.46,
+      "en": "Ran into some problems.",
+      "zh": "遇到了一些问题。"
+    },
+    {
+      "id": 76,
+      "start": 205.2,
+      "end": 207.1,
+      "en": "So we ran into some problems in this dialogue.",
+      "zh": "所以我们在这次对话中遇到了一些问题。"
+    },
+    {
+      "id": 77,
+      "start": 208.32,
+      "end": 212.12,
+      "en": "Let's listen to some more examples of run into so we can understand the meaning.",
+      "zh": "让我们听更多的例子来了解它的含义。"
+    },
+    {
+      "id": 78,
+      "start": 213.4,
+      "end": 213.68,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 79,
+      "start": 216.28,
+      "end": 218.25,
+      "en": "We ran into a storm on our way home.",
+      "zh": "我们在回家的路上遇到了一场风暴。"
+    },
+    {
+      "id": 80,
+      "start": 221.84,
+      "end": 222.84,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 81,
+      "start": 225.16,
+      "end": 227.84,
+      "en": "If you're not careful now, you're going to run into a lot of problems later.",
+      "zh": "如果你现在不小心，你以后会遇到很多问题。"
+    },
+    {
+      "id": 82,
+      "start": 231.8,
+      "end": 235.2,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 83,
+      "start": 235.2,
+      "end": 237.12,
+      "en": "I ran into some trouble with my computer.",
+      "zh": "我的电脑遇到了一些麻烦。"
+    },
+    {
+      "id": 84,
+      "start": 239.89,
+      "end": 240.97,
+      "en": "Okay, good example.",
+      "zh": "好的，很好的例子。"
+    },
+    {
+      "id": 85,
+      "start": 241.36,
+      "end": 242.13,
+      "en": "So it's clear now, right?",
+      "zh": "所以现在很清楚了，对吧？"
+    },
+    {
+      "id": 86,
+      "start": 242.52,
+      "end": 243.52,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 87,
+      "start": 243.52,
+      "end": 245.8,
+      "en": "If you run into problems, you meet some problems.",
+      "zh": "如果你遇到问题，你会遇到一些问题。"
+    },
+    {
+      "id": 88,
+      "start": 245.8,
+      "end": 246.8,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 89,
+      "start": 246.8,
+      "end": 247.73,
+      "en": "Many students say it in that way.",
+      "zh": "很多学生就是这么说的。"
+    },
+    {
+      "id": 90,
+      "start": 248.0,
+      "end": 249.27,
+      "en": "I met some problems.",
+      "zh": "我遇到了一些问题。"
+    },
+    {
+      "id": 91,
+      "start": 249.61,
+      "end": 250.41,
+      "en": "Yeah, but that's wrong.",
+      "zh": "是的，但那是错误的。"
+    },
+    {
+      "id": 92,
+      "start": 250.67,
+      "end": 250.85,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 93,
+      "start": 251.37,
+      "end": 253.57,
+      "en": "So you would say I ran into some problems.",
+      "zh": "所以你会说我遇到了一些问题。"
+    },
+    {
+      "id": 94,
+      "start": 253.76,
+      "end": 254.76,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 95,
+      "start": 254.76,
+      "end": 256.55,
+      "en": "I met some problems is wrong, wrong, wrong.",
+      "zh": "我遇到了一些问题是错误的，错误的，错误的。"
+    },
+    {
+      "id": 96,
+      "start": 257.2,
+      "end": 259.29,
+      "en": "Okay, don't say met some problems.",
+      "zh": "好吧，不要说遇到一些问题。"
+    },
+    {
+      "id": 97,
+      "start": 259.47,
+      "end": 260.89,
+      "en": "I ran into some problems.",
+      "zh": "我遇到了一些问题。"
+    },
+    {
+      "id": 98,
+      "start": 260.99,
+      "end": 261.57,
+      "en": "I ran into.",
+      "zh": "我跑进去了。"
+    },
+    {
+      "id": 99,
+      "start": 261.81,
+      "end": 262.13,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 100,
+      "start": 263.04,
+      "end": 265.35,
+      "en": "And our last word for language takeaway, delayed.",
+      "zh": "和我们最后的语言外卖，延迟。"
+    },
+    {
+      "id": 101,
+      "start": 266.04,
+      "end": 266.33,
+      "en": "Delayed.",
+      "zh": "耽搁了。"
+    },
+    {
+      "id": 102,
+      "start": 267.04,
+      "end": 267.59,
+      "en": "Delayed.",
+      "zh": "耽搁了。"
+    },
+    {
+      "id": 103,
+      "start": 268.11,
+      "end": 268.59,
+      "en": "Delayed.",
+      "zh": "耽搁了。"
+    },
+    {
+      "id": 104,
+      "start": 269.07,
+      "end": 270.97,
+      "en": "So when something is delayed, it's late.",
+      "zh": "所以当有事情被推迟时，已经很晚了。"
+    },
+    {
+      "id": 105,
+      "start": 271.35,
+      "end": 271.57,
+      "en": "Late.",
+      "zh": "迟到的。"
+    },
+    {
+      "id": 106,
+      "start": 272.13,
+      "end": 274.13,
+      "en": "And the opposite is...",
+      "zh": "而相反的是..."
+    },
+    {
+      "id": 107,
+      "start": 274.13,
+      "end": 274.55,
+      "en": "On time.",
+      "zh": "准时。"
+    },
+    {
+      "id": 108,
+      "start": 275.37,
+      "end": 277.37,
+      "en": "So your flight was delayed.",
+      "zh": "所以你的航班延误了。"
+    },
+    {
+      "id": 109,
+      "start": 277.37,
+      "end": 278.73,
+      "en": "Or your flight was on time.",
+      "zh": "或者您的航班准时。"
+    },
+    {
+      "id": 110,
+      "start": 278.91,
+      "end": 279.99,
+      "en": "The project was delayed.",
+      "zh": "该项目被推迟。"
+    },
+    {
+      "id": 111,
+      "start": 280.43,
+      "end": 282.15,
+      "en": "Or your project was on time.",
+      "zh": "或者您的项目准时。"
+    },
+    {
+      "id": 112,
+      "start": 282.56,
+      "end": 283.56,
+      "en": "Clear.",
+      "zh": "明白了。"
+    },
+    {
+      "id": 113,
+      "start": 283.56,
+      "end": 284.56,
+      "en": "Alright.",
+      "zh": "好的。"
+    },
+    {
+      "id": 114,
+      "start": 284.56,
+      "end": 285.56,
+      "en": "So now let's go back to the dialogue.",
+      "zh": "所以现在让我们回到对话。"
+    },
+    {
+      "id": 115,
+      "start": 286.0,
+      "end": 286.88,
+      "en": "Let's listen to it again.",
+      "zh": "让我们再听一遍。"
+    },
+    {
+      "id": 116,
+      "start": 287.44,
+      "end": 292.2,
+      "en": "And this time it will be a little bit slower so you can understand some of these phrases we just talked about.",
+      "zh": "这次它会慢一点，所以你可以理解我们刚刚谈到的这些短语中的一些。"
+    },
+    {
+      "id": 117,
+      "start": 301.0,
+      "end": 306.75,
+      "en": "So Casey, how are things going with the photos for the press kit?",
+      "zh": "凯西，新闻资料包要用的照片进展怎么样了？"
+    },
+    {
+      "id": 118,
+      "start": 307.51,
+      "end": 310.81,
+      "en": "Yeah, I've been meaning to talk to you about that.",
+      "zh": "是的，我一直想和你谈谈这件事。"
+    },
+    {
+      "id": 119,
+      "start": 311.57,
+      "end": 314.37,
+      "en": "I might need to ask for an extension on that deadline.",
+      "zh": "恐怕我得申请延长截止日期。"
+    },
+    {
+      "id": 120,
+      "start": 315.19,
+      "end": 317.77,
+      "en": "You've had over a month to get this finalized.",
+      "zh": "你已经有一个多月的时间来完成这项工作。"
+    },
+    {
+      "id": 121,
+      "start": 318.59,
+      "end": 320.09,
+      "en": "Why are things delayed?",
+      "zh": "事情为什么耽搁了？"
+    },
+    {
+      "id": 122,
+      "start": 320.78,
+      "end": 325.32,
+      "en": "Well, the thing is, we ran into a lot of problems.",
+      "zh": "好吧，问题是，我们遇到了很多问题。"
+    },
+    {
+      "id": 123,
+      "start": 325.76,
+      "end": 327.48,
+      "en": "I'm not looking for excuses here.",
+      "zh": "我现在不想听借口。"
+    },
+    {
+      "id": 124,
+      "start": 327.9,
+      "end": 330.12,
+      "en": "I just want to get this finished on time.",
+      "zh": "我只想让它按时完成。"
+    },
+    {
+      "id": 125,
+      "start": 330.71,
+      "end": 331.47,
+      "en": "I know.",
+      "zh": "我知道。"
+    },
+    {
+      "id": 126,
+      "start": 332.07,
+      "end": 333.69,
+      "en": "And I apologize for the delay.",
+      "zh": "很抱歉耽误了进度。"
+    },
+    {
+      "id": 127,
+      "start": 334.51,
+      "end": 337.05,
+      "en": "But some things were just beyond my control.",
+      "zh": "但有些事情超出了我的控制范围。"
+    },
+    {
+      "id": 128,
+      "start": 337.65,
+      "end": 339.41,
+      "en": "I had trouble booking the photographer.",
+      "zh": "我预约摄影师时遇到了麻烦。"
+    },
+    {
+      "id": 129,
+      "start": 340.39,
+      "end": 344.23,
+      "en": "And then Michael was sick for three weeks so I couldn't include him in the photos.",
+      "zh": "然后迈克尔病了三个星期，所以我不能把他包括在照片中。"
+    },
+    {
+      "id": 130,
+      "start": 344.87,
+      "end": 350.09,
+      "en": "And the design team lost all the files so I had to redo the pictures.",
+      "zh": "设计团队丢失了所有文件，所以我不得不重做图片。"
+    },
+    {
+      "id": 131,
+      "start": 350.81,
+      "end": 353.97,
+      "en": "I'm not going to put this off any longer, Casey.",
+      "zh": "凯西，我不会再拖下去了。"
+    },
+    {
+      "id": 132,
+      "start": 354.63,
+      "end": 356.63,
+      "en": "I want those photos ASAP.",
+      "zh": "我要尽快拿到那些照片。"
+    },
+    {
+      "id": 133,
+      "start": 363.95,
+      "end": 367.41,
+      "en": "Okay, so there were some really useful phrases that we saw in this dialogue.",
+      "zh": "好的，所以我们在这次对话中看到了一些非常有用的短语。"
+    },
+    {
+      "id": 134,
+      "start": 367.56,
+      "end": 372.72,
+      "en": "Yeah, some wonderful phrases that you can use when you want to ask for more time.",
+      "zh": "是的，当您想要求更多时间时，您可以使用一些精彩的短语。"
+    },
+    {
+      "id": 135,
+      "start": 372.72,
+      "end": 375.39,
+      "en": "Okay, so let's look at these phrases in Fluency Builder.",
+      "zh": "好的，让我们看看 Flueny Builder 中的这些短语。"
+    },
+    {
+      "id": 136,
+      "start": 377.08,
+      "end": 377.39,
+      "en": "Fluency Builder.",
+      "zh": "流利表达。"
+    },
+    {
+      "id": 137,
+      "start": 378.23,
+      "end": 379.39,
+      "en": "Alright, what's our first phrase?",
+      "zh": "好吧，我们的第一个短语是什么？"
+    },
+    {
+      "id": 138,
+      "start": 380.27,
+      "end": 382.25,
+      "en": "I've been meaning to talk to you.",
+      "zh": "我一直想和你谈谈。"
+    },
+    {
+      "id": 139,
+      "start": 382.96,
+      "end": 384.8,
+      "en": "I've been meaning to.",
+      "zh": "我一直打算……"
+    },
+    {
+      "id": 140,
+      "start": 384.8,
+      "end": 386.64,
+      "en": "I've been meaning to.",
+      "zh": "我一直打算……"
+    },
+    {
+      "id": 141,
+      "start": 386.68,
+      "end": 393.82,
+      "en": "Okay, we have some really great examples of how you can combine I've been meaning to with different verbs.",
+      "zh": "好吧，我们有一些非常好的例子来说明你如何将我的意思与不同的动词结合起来。"
+    },
+    {
+      "id": 142,
+      "start": 394.2,
+      "end": 396.28,
+      "en": "Yeah, let's listen.",
+      "zh": "是的，让我们听。"
+    },
+    {
+      "id": 143,
+      "start": 396.28,
+      "end": 396.57,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 144,
+      "start": 399.08,
+      "end": 400.74,
+      "en": "I'm sorry I haven't called you yet.",
+      "zh": "对不起，我还没有给你打电话。"
+    },
+    {
+      "id": 145,
+      "start": 400.96,
+      "end": 402.7,
+      "en": "I've been meaning to, but I've been busy.",
+      "zh": "我一直想，但我一直很忙。"
+    },
+    {
+      "id": 146,
+      "start": 406.1,
+      "end": 406.78,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 147,
+      "start": 410.32,
+      "end": 412.7,
+      "en": "I've been meaning to tell you, but John quit yesterday.",
+      "zh": "我一直想告诉你，但约翰昨天退出了。"
+    },
+    {
+      "id": 148,
+      "start": 416.77,
+      "end": 417.71,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 149,
+      "start": 420.99,
+      "end": 422.77,
+      "en": "I've been meaning to see that film for a while.",
+      "zh": "我一直想看那部电影有一段时间了。"
+    },
+    {
+      "id": 150,
+      "start": 425.84,
+      "end": 429.36,
+      "en": "I've been meaning to go to that restaurant, but I haven't had time.",
+      "zh": "我一直想去那家餐厅，但我没有时间。"
+    },
+    {
+      "id": 151,
+      "start": 429.78,
+      "end": 432.48,
+      "en": "So you've been wanting to for a long time.",
+      "zh": "所以你一直想要很长时间。"
+    },
+    {
+      "id": 152,
+      "start": 432.72,
+      "end": 433.72,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 153,
+      "start": 433.72,
+      "end": 434.88,
+      "en": "I've been thinking about it.",
+      "zh": "我一直在想它。"
+    },
+    {
+      "id": 154,
+      "start": 435.02,
+      "end": 436.18,
+      "en": "I've been planning to do it.",
+      "zh": "我一直在计划这样做。"
+    },
+    {
+      "id": 155,
+      "start": 436.36,
+      "end": 437.14,
+      "en": "But you just haven't done it.",
+      "zh": "但你只是没有做到。"
+    },
+    {
+      "id": 156,
+      "start": 437.24,
+      "end": 440.04,
+      "en": "I haven't done it, maybe because I haven't had time or money.",
+      "zh": "我没有这样做，也许是因为我没有时间或金钱。"
+    },
+    {
+      "id": 157,
+      "start": 440.8,
+      "end": 442.34,
+      "en": "Okay, good phrase.",
+      "zh": "好吧，好话。"
+    },
+    {
+      "id": 158,
+      "start": 443.44,
+      "end": 446.77,
+      "en": "Our next phrase is beyond my control.",
+      "zh": "我们的下一个短语超出了我的控制范围。"
+    },
+    {
+      "id": 159,
+      "start": 448.08,
+      "end": 448.93,
+      "en": "Beyond my control.",
+      "zh": "超出我的控制范围。"
+    },
+    {
+      "id": 160,
+      "start": 449.4,
+      "end": 450.63,
+      "en": "It's beyond my control.",
+      "zh": "它超出了我的控制范围。"
+    },
+    {
+      "id": 161,
+      "start": 451.32,
+      "end": 453.43,
+      "en": "So it means that I can't control it.",
+      "zh": "所以这意味着我无法控制它。"
+    },
+    {
+      "id": 162,
+      "start": 454.04,
+      "end": 455.13,
+      "en": "You can't do anything about it.",
+      "zh": "你对此无能为力。"
+    },
+    {
+      "id": 163,
+      "start": 455.24,
+      "end": 456.24,
+      "en": "I can't do anything about it.",
+      "zh": "我对此无能为力。"
+    },
+    {
+      "id": 164,
+      "start": 456.24,
+      "end": 457.85,
+      "en": "The weather is beyond my control.",
+      "zh": "天气超出了我的控制范围。"
+    },
+    {
+      "id": 165,
+      "start": 458.19,
+      "end": 462.97,
+      "en": "Right, or relate with this project because Jane was sick for one month.",
+      "zh": "是的，或者与这个项目相关，因为简病了一个月。"
+    },
+    {
+      "id": 166,
+      "start": 463.27,
+      "end": 464.35,
+      "en": "It was beyond my control.",
+      "zh": "这超出了我的控制范围。"
+    },
+    {
+      "id": 167,
+      "start": 464.53,
+      "end": 465.83,
+      "en": "Okay, it wasn't your fault.",
+      "zh": "好吧，这不是你的错。"
+    },
+    {
+      "id": 168,
+      "start": 466.03,
+      "end": 466.15,
+      "en": "No.",
+      "zh": "不。"
+    },
+    {
+      "id": 169,
+      "start": 467.36,
+      "end": 468.36,
+      "en": "It was my fault.",
+      "zh": "是我的错。"
+    },
+    {
+      "id": 170,
+      "start": 468.36,
+      "end": 471.73,
+      "en": "And our last phrase for fluency builder, put this off.",
+      "zh": "还有我们流利建设者的最后一句话，推迟。"
+    },
+    {
+      "id": 171,
+      "start": 472.76,
+      "end": 473.65,
+      "en": "Put this off.",
+      "zh": "把这事往后拖。"
+    },
+    {
+      "id": 172,
+      "start": 475.08,
+      "end": 475.75,
+      "en": "Put this off.",
+      "zh": "把这事往后拖。"
+    },
+    {
+      "id": 173,
+      "start": 477.18,
+      "end": 479.2,
+      "en": "Put this off.",
+      "zh": "把这事往后拖。"
+    },
+    {
+      "id": 174,
+      "start": 479.2,
+      "end": 484.98,
+      "en": "So let's listen to some more examples of put this off before we explain the meaning.",
+      "zh": "因此，让我们在解释含义之前再听听更多推迟的例子。"
+    },
+    {
+      "id": 175,
+      "start": 484.98,
+      "end": 488.24,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 176,
+      "start": 488.24,
+      "end": 491.76,
+      "en": "I've been putting off this project for a week and it's due tomorrow.",
+      "zh": "我已经推迟了这个项目一个星期，明天到期。"
+    },
+    {
+      "id": 177,
+      "start": 495.88,
+      "end": 496.24,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 178,
+      "start": 497.64,
+      "end": 501.92,
+      "en": "Can we put off our meeting until next week?",
+      "zh": "我们可以将会议推迟到下周吗？"
+    },
+    {
+      "id": 179,
+      "start": 501.96,
+      "end": 503.98,
+      "en": "I'm too busy right now.",
+      "zh": "我现在太忙了。"
+    },
+    {
+      "id": 180,
+      "start": 506.38,
+      "end": 507.34,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 181,
+      "start": 510.08,
+      "end": 517.32,
+      "en": "I've been putting off my email all day and now I have 50 messages to respond to.",
+      "zh": "我一整天都在推迟我的电子邮件，现在我有 50 条消息要回复。"
+    },
+    {
+      "id": 182,
+      "start": 517.32,
+      "end": 520.6,
+      "en": "So Marco, when you put something off, you leave it for later.",
+      "zh": "所以马可，当你把东西放下时，你把它留给以后。"
+    },
+    {
+      "id": 183,
+      "start": 521.24,
+      "end": 521.52,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 184,
+      "start": 522.24,
+      "end": 523.24,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 185,
+      "start": 523.24,
+      "end": 527.34,
+      "en": "So, maybe I have to write a report today, but I'm going to put it off till tomorrow.",
+      "zh": "所以，也许我今天必须写一份报告，但我会把它推迟到明天。"
+    },
+    {
+      "id": 186,
+      "start": 527.36,
+      "end": 528.8,
+      "en": "So you're going to do it tomorrow.",
+      "zh": "所以你明天要做。"
+    },
+    {
+      "id": 187,
+      "start": 528.8,
+      "end": 529.4,
+      "en": "I'll do it tomorrow.",
+      "zh": "我明天做。"
+    },
+    {
+      "id": 188,
+      "start": 529.88,
+      "end": 533.14,
+      "en": "Okay, so we've seen some really great words and some really good phrases.",
+      "zh": "好的，所以我们看到了一些非常棒的单词和一些非常好的短语。"
+    },
+    {
+      "id": 189,
+      "start": 533.9,
+      "end": 538.22,
+      "en": "So now let's listen to our dialogue for the last time and then we'll come back and talk some more.",
+      "zh": "所以现在让我们最后一次听我们的对话，然后我们会回来再谈谈。"
+    },
+    {
+      "id": 190,
+      "start": 544.15,
+      "end": 550.25,
+      "en": "So Casey, how are things going with the photos for the press kit?",
+      "zh": "凯西，新闻资料包要用的照片进展怎么样了？"
+    },
+    {
+      "id": 191,
+      "start": 550.78,
+      "end": 554.18,
+      "en": "Yeah, I've been meaning to talk to you about that.",
+      "zh": "是的，我一直想和你谈谈这件事。"
+    },
+    {
+      "id": 192,
+      "start": 555.0,
+      "end": 557.82,
+      "en": "I might need to ask for an extension on that deadline.",
+      "zh": "恐怕我得申请延长截止日期。"
+    },
+    {
+      "id": 193,
+      "start": 558.74,
+      "end": 561.14,
+      "en": "You've had over a month to get this finalized.",
+      "zh": "你已经有一个多月的时间来完成这项工作。"
+    },
+    {
+      "id": 194,
+      "start": 562.0,
+      "end": 563.42,
+      "en": "Why are things delayed?",
+      "zh": "事情为什么耽搁了？"
+    },
+    {
+      "id": 195,
+      "start": 564.28,
+      "end": 568.74,
+      "en": "Well, the thing is we ran into a lot of problems.",
+      "zh": "好吧，问题是我们遇到了很多问题。"
+    },
+    {
+      "id": 196,
+      "start": 569.16,
+      "end": 570.92,
+      "en": "I'm not looking for excuses here.",
+      "zh": "我现在不想听借口。"
+    },
+    {
+      "id": 197,
+      "start": 571.28,
+      "end": 573.5,
+      "en": "I just want to get this finished on time.",
+      "zh": "我只想让它按时完成。"
+    },
+    {
+      "id": 198,
+      "start": 574.08,
+      "end": 574.56,
+      "en": "I know.",
+      "zh": "我知道。"
+    },
+    {
+      "id": 199,
+      "start": 574.9,
+      "end": 579.15,
+      "en": "And I apologize for the delay, but some things were just beyond my control.",
+      "zh": "我为延误道歉，但有些事情超出了我的控制范围。"
+    },
+    {
+      "id": 200,
+      "start": 580.03,
+      "end": 586.15,
+      "en": "I had trouble booking the photographer and then Michael was sick for three weeks, so I couldn't include him in the photos.",
+      "zh": "我在预订摄影师时遇到了麻烦，然后迈克尔病了三个星期，所以我不能把他包括在照片中。"
+    },
+    {
+      "id": 201,
+      "start": 587.07,
+      "end": 591.65,
+      "en": "And the design team lost all the files, so I had to redo the pictures.",
+      "zh": "设计团队丢失了所有文件，所以我不得不重做图片。"
+    },
+    {
+      "id": 202,
+      "start": 592.45,
+      "end": 594.67,
+      "en": "I'm not going to put this off any longer, Casey.",
+      "zh": "凯西，我不会再拖下去了。"
+    },
+    {
+      "id": 203,
+      "start": 595.32,
+      "end": 596.95,
+      "en": "I want those photos ASAP.",
+      "zh": "我要尽快拿到那些照片。"
+    },
+    {
+      "id": 204,
+      "start": 598.32,
+      "end": 609.36,
+      "en": "Well, Marco, do you think that Casey's reasons for being late are good?",
+      "zh": "好吧，马可，你认为凯西迟到的原因是好的吗？"
+    },
+    {
+      "id": 205,
+      "start": 609.36,
+      "end": 614.25,
+      "en": "I think so, because it wasn't really her fault, the whole situation with the photographer.",
+      "zh": "我想是的，因为这不是她的错，而是摄影师的整个情况。"
+    },
+    {
+      "id": 206,
+      "start": 615.24,
+      "end": 617.91,
+      "en": "And then one of her co-workers was sick for three weeks.",
+      "zh": "然后她的一位同事生病了三个星期。"
+    },
+    {
+      "id": 207,
+      "start": 618.92,
+      "end": 619.95,
+      "en": "It's not really her fault, right?",
+      "zh": "这不是她的错，对吧？"
+    },
+    {
+      "id": 208,
+      "start": 620.16,
+      "end": 623.39,
+      "en": "Right, but maybe the boss thinks that she's making excuses.",
+      "zh": "对，但也许老板认为她在找借口。"
+    },
+    {
+      "id": 209,
+      "start": 623.89,
+      "end": 625.21,
+      "en": "Maybe she's making excuses.",
+      "zh": "也许她在找借口。"
+    },
+    {
+      "id": 210,
+      "start": 625.93,
+      "end": 626.57,
+      "en": "That's really common.",
+      "zh": "这真的很常见。"
+    },
+    {
+      "id": 211,
+      "start": 626.79,
+      "end": 631.1,
+      "en": "Like, for example, when we were kids, you would say, oh, you know, my dog ate my homework.",
+      "zh": "例如，例如，当我们还是孩子的时候，你会说，哦，你知道，我的狗吃了我的作业。"
+    },
+    {
+      "id": 212,
+      "start": 631.5,
+      "end": 633.82,
+      "en": "Right, but that really happened to me once.",
+      "zh": "对，但这一次真的发生在我身上。"
+    },
+    {
+      "id": 213,
+      "start": 634.64,
+      "end": 635.52,
+      "en": "Your dog ate your homework?",
+      "zh": "你的狗吃了你的作业？"
+    },
+    {
+      "id": 214,
+      "start": 635.6,
+      "end": 636.7,
+      "en": "My cat ate my homework.",
+      "zh": "我的猫吃了我的作业。"
+    },
+    {
+      "id": 215,
+      "start": 637.04,
+      "end": 638.14,
+      "en": "Your cat ate your homework?",
+      "zh": "你的猫吃了你的作业？"
+    },
+    {
+      "id": 216,
+      "start": 638.28,
+      "end": 639.28,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 217,
+      "start": 639.28,
+      "end": 639.58,
+      "en": "What did your teacher say?",
+      "zh": "你的老师说了什么？"
+    },
+    {
+      "id": 218,
+      "start": 640.28,
+      "end": 643.1,
+      "en": "Well, actually, I was a really good student, so my teacher believed me.",
+      "zh": "好吧，实际上，我是一个非常好的学生，所以我的老师相信了我。"
+    },
+    {
+      "id": 219,
+      "start": 644.0,
+      "end": 646.42,
+      "en": "Well, my teacher wouldn't have believed me.",
+      "zh": "好吧，我的老师不会相信我的。"
+    },
+    {
+      "id": 220,
+      "start": 646.6,
+      "end": 646.76,
+      "en": "Really?",
+      "zh": "真的吗？"
+    },
+    {
+      "id": 221,
+      "start": 647.02,
+      "end": 647.4,
+      "en": "No, no.",
+      "zh": "不，不。"
+    },
+    {
+      "id": 222,
+      "start": 647.66,
+      "end": 650.04,
+      "en": "She would have called my parents, most likely.",
+      "zh": "她很可能会打电话给我的父母。"
+    },
+    {
+      "id": 223,
+      "start": 650.68,
+      "end": 655.18,
+      "en": "My cat really did eat my homework, and I just left it on the table, and it chewed it all up.",
+      "zh": "我的猫真的吃了我的作业，我只是把它放在桌子上，它把它都咀嚼了。"
+    },
+    {
+      "id": 224,
+      "start": 655.26,
+      "end": 655.68,
+      "en": "That's weird.",
+      "zh": "真奇怪。"
+    },
+    {
+      "id": 225,
+      "start": 657.04,
+      "end": 658.04,
+      "en": "Why would your cat do that?",
+      "zh": "为什么你的猫会这样做？"
+    },
+    {
+      "id": 226,
+      "start": 658.04,
+      "end": 659.04,
+      "en": "I don't know.",
+      "zh": "我不知道。"
+    },
+    {
+      "id": 227,
+      "start": 659.04,
+      "end": 660.04,
+      "en": "A lot of weird excuses out there.",
+      "zh": "那里有很多奇怪的借口。"
+    },
+    {
+      "id": 228,
+      "start": 660.04,
+      "end": 661.04,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 229,
+      "start": 661.04,
+      "end": 662.64,
+      "en": "I was abducted by aliens.",
+      "zh": "我被外星人绑架了。"
+    },
+    {
+      "id": 230,
+      "start": 662.64,
+      "end": 665.68,
+      "en": "My mom accidentally mailed my homework to Africa.",
+      "zh": "我妈妈不小心把我的作业寄到了非洲。"
+    },
+    {
+      "id": 231,
+      "start": 665.68,
+      "end": 665.97,
+      "en": "Really?",
+      "zh": "真的吗？"
+    },
+    {
+      "id": 232,
+      "start": 666.68,
+      "end": 667.68,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 233,
+      "start": 667.68,
+      "end": 668.68,
+      "en": "This happened to you?",
+      "zh": "这发生在你身上吗？"
+    },
+    {
+      "id": 234,
+      "start": 668.68,
+      "end": 669.68,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 235,
+      "start": 669.68,
+      "end": 670.68,
+      "en": "Writing, creative excuses.",
+      "zh": "写作，创造性的借口。"
+    },
+    {
+      "id": 236,
+      "start": 671.47,
+      "end": 673.31,
+      "en": "Well, I want to hear from our listeners.",
+      "zh": "好吧，我想听听我们的听众的意见。"
+    },
+    {
+      "id": 237,
+      "start": 673.85,
+      "end": 677.63,
+      "en": "I want to know what excuses they've used for being late with something.",
+      "zh": "我想知道他们用什么借口来迟到。"
+    },
+    {
+      "id": 238,
+      "start": 677.95,
+      "end": 680.75,
+      "en": "So send us your excuses, send us your comments and questions.",
+      "zh": "因此，请将您的借口发送给我们，将您的意见和问题发送给我们。"
+    },
+    {
+      "id": 239,
+      "start": 681.27,
+      "end": 685.69,
+      "en": "Go to our website at EnglishPod.com, where Erica and I are always there to answer your questions.",
+      "zh": "访问我们的网站 englishpod.com，我和 Erica 总是在那里回答您的问题。"
+    },
+    {
+      "id": 240,
+      "start": 686.16,
+      "end": 688.56,
+      "en": "That's right, Marco, and this is an elementary lesson, right?",
+      "zh": "没错，马可，这是一个基本的教训，对吧？"
+    },
+    {
+      "id": 241,
+      "start": 688.84,
+      "end": 689.24,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 242,
+      "start": 689.74,
+      "end": 697.56,
+      "en": "But we also have intermediate and upper intermediate and advanced lessons for you more fluent English speakers.",
+      "zh": "但我们也为您更流利的英语提供中级和中级和高级课程。"
+    },
+    {
+      "id": 243,
+      "start": 697.82,
+      "end": 698.16,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 244,
+      "start": 698.36,
+      "end": 703.6,
+      "en": "So if you're listening to us on iTunes, be sure to visit our website and come see what else we have to offer.",
+      "zh": "因此，如果您在 iTunes 上收听我们，请务必访问我们的网站，看看我们还能提供什么。"
+    },
+    {
+      "id": 245,
+      "start": 703.98,
+      "end": 707.62,
+      "en": "Well, I think we're out of time, but until next time, it's goodbye.",
+      "zh": "好吧，我认为我们已经没有时间了，但直到下一次，再见。"
+    }
+  ],
+  "dialog": {
+    "start": 71.0,
+    "end": 123.52,
+    "segmentIds": [
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39
+    ]
+  }
+}

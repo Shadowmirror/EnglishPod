@@ -1,0 +1,2334 @@
+{
+  "version": 1,
+  "id": 224,
+  "number": "0224",
+  "title": "Global View - Crime Scene",
+  "audio": "mp3/224. Global View - Crime Scene.mp3",
+  "duration": 1025.4628125,
+  "segments": [
+    {
+      "id": 1,
+      "start": 3.22,
+      "end": 5.14,
+      "en": "Hello everyone and welcome to EnglishPod.",
+      "zh": "大家好，欢迎来到 EnglishPod。"
+    },
+    {
+      "id": 2,
+      "start": 5.4,
+      "end": 6.4,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 6.4,
+      "end": 10.6,
+      "en": "My name is Katrin and we've got an upper intermediate level lesson for you guys today.",
+      "zh": "我的名字是卡特琳，我们今天为你们准备了一个中级中级课程。"
+    },
+    {
+      "id": 4,
+      "start": 11.18,
+      "end": 14.16,
+      "en": "This one is all about a crime scene.",
+      "zh": "这一切都是关于犯罪现场的。"
+    },
+    {
+      "id": 5,
+      "start": 14.74,
+      "end": 15.02,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 6,
+      "start": 15.74,
+      "end": 18.12,
+      "en": "So we are going to be at a crime scene.",
+      "zh": "所以我们将在犯罪现场。"
+    },
+    {
+      "id": 7,
+      "start": 18.36,
+      "end": 28.5,
+      "en": "We are with the police officers and we're going to take a look at some very, very interesting and specific vocab to like police and a crime and all that.",
+      "zh": "我们和警察在一起，我们将看看一些非常、非常有趣和具体的词汇来喜欢警察和犯罪等等。"
+    },
+    {
+      "id": 8,
+      "start": 28.72,
+      "end": 29.04,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 9,
+      "start": 30.83,
+      "end": 38.99,
+      "en": "So if you are a fan of the TV show CSI or you like some of these investigation police work TV shows, this is a lesson for you.",
+      "zh": "因此，如果您是电视节目 CSI 的粉丝，或者您喜欢其中一些调查警察工作电视节目，那么这对您来说是一个教训。"
+    },
+    {
+      "id": 10,
+      "start": 39.21,
+      "end": 39.53,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 11,
+      "start": 39.81,
+      "end": 42.49,
+      "en": "So why don't we go and listen to the dialogue for the first time.",
+      "zh": "那么我们为什么不去听第一次对话。"
+    },
+    {
+      "id": 12,
+      "start": 49.88,
+      "end": 51.86,
+      "en": "All right, Officer McGraw, give it to me straight.",
+      "zh": "好了，麦格劳警官，直说吧。"
+    },
+    {
+      "id": 13,
+      "start": 52.68,
+      "end": 53.42,
+      "en": "What are we looking at here?",
+      "zh": "这里是什么情况？"
+    },
+    {
+      "id": 14,
+      "start": 54.28,
+      "end": 55.88,
+      "en": "Detective McGee, I'm glad to see you.",
+      "zh": "麦基侦探，很高兴见到你。"
+    },
+    {
+      "id": 15,
+      "start": 56.48,
+      "end": 58.58,
+      "en": "We could sure use your expertise on this one.",
+      "zh": "这桩案子正需要您的专业本领。"
+    },
+    {
+      "id": 16,
+      "start": 58.98,
+      "end": 61.4,
+      "en": "It's a break in, but nothing seems to have been stolen.",
+      "zh": "有人非法闯入，可似乎没丢什么东西。"
+    },
+    {
+      "id": 17,
+      "start": 61.88,
+      "end": 66.16,
+      "en": "We received a call from the Bear family at around 1030 this morning.",
+      "zh": "今天上午十点半左右，我们接到了熊一家的电话。"
+    },
+    {
+      "id": 18,
+      "start": 66.16,
+      "end": 69.32,
+      "en": "They'd gone out for a walk before breakfast and came home to this mess.",
+      "zh": "他们早饭前出去散步，回家就发现屋里乱成这样。"
+    },
+    {
+      "id": 19,
+      "start": 70.32,
+      "end": 72.72,
+      "en": "Broken chairs and porridge all over the place.",
+      "zh": "到处都是破椅子和粥。"
+    },
+    {
+      "id": 20,
+      "start": 73.92,
+      "end": 76.74,
+      "en": "Apparently Mama Bear had made the porridge a little too hot, you see.",
+      "zh": "显然，熊妈妈让粥有点太热了，你看。"
+    },
+    {
+      "id": 21,
+      "start": 76.98,
+      "end": 78.24,
+      "en": "They were waiting for it to cool down.",
+      "zh": "他们在等待它冷却下来。"
+    },
+    {
+      "id": 22,
+      "start": 79.37,
+      "end": 81.29,
+      "en": "Okay then, let's start examining the evidence.",
+      "zh": "好吧，让我们开始检查证据。"
+    },
+    {
+      "id": 23,
+      "start": 82.25,
+      "end": 83.57,
+      "en": "Have the forensics team been in yet?",
+      "zh": "技术鉴证人员来过了吗？"
+    },
+    {
+      "id": 24,
+      "start": 84.53,
+      "end": 85.39,
+      "en": "Yes sir.",
+      "zh": "是的，先生。"
+    },
+    {
+      "id": 25,
+      "start": 86.04,
+      "end": 91.4,
+      "en": "We found some fingerprints on the bowls and are analyzing them back at the lab as we speak.",
+      "zh": "我们在碗上发现了一些指纹，并在我们说话的时候在实验室分析它们。"
+    },
+    {
+      "id": 26,
+      "start": 91.4,
+      "end": 93.77,
+      "en": "Hopefully they will be able to identify the burglar soon.",
+      "zh": "希望他们能够尽快识别出窃贼。"
+    },
+    {
+      "id": 27,
+      "start": 95.0,
+      "end": 96.36,
+      "en": "Hmm.",
+      "zh": "嗯。"
+    },
+    {
+      "id": 28,
+      "start": 96.86,
+      "end": 97.42,
+      "en": "Aha!",
+      "zh": "哈!"
+    },
+    {
+      "id": 29,
+      "start": 98.3,
+      "end": 98.78,
+      "en": "What's this?",
+      "zh": "这是什么?"
+    },
+    {
+      "id": 30,
+      "start": 99.38,
+      "end": 100.5,
+      "en": "A strand of golden hair.",
+      "zh": "一缕金色的头发。"
+    },
+    {
+      "id": 31,
+      "start": 101.46,
+      "end": 103.92,
+      "en": "This is a very important piece of trace evidence, McGraw.",
+      "zh": "这是一个非常重要的痕迹证据，麦格劳。"
+    },
+    {
+      "id": 32,
+      "start": 104.3,
+      "end": 109.5,
+      "en": "It tells me the suspect has long golden hair and very few men have long golden hair.",
+      "zh": "它告诉我嫌疑人有一头金色的长发，很少有男人有长长的金发。"
+    },
+    {
+      "id": 33,
+      "start": 110.28,
+      "end": 111.74,
+      "en": "So our criminal could be a woman.",
+      "zh": "所以我们的罪犯可以是女人。"
+    },
+    {
+      "id": 34,
+      "start": 112.61,
+      "end": 113.17,
+      "en": "A woman?",
+      "zh": "女人？"
+    },
+    {
+      "id": 35,
+      "start": 114.08,
+      "end": 115.52,
+      "en": "Was she working alone?",
+      "zh": "她是单独作案的吗？"
+    },
+    {
+      "id": 36,
+      "start": 115.52,
+      "end": 116.77,
+      "en": "Did she have an accomplice?",
+      "zh": "她有同谋吗？"
+    },
+    {
+      "id": 37,
+      "start": 117.72,
+      "end": 118.72,
+      "en": "An accomplice?",
+      "zh": "同谋？"
+    },
+    {
+      "id": 38,
+      "start": 118.72,
+      "end": 119.72,
+      "en": "No.",
+      "zh": "不。"
+    },
+    {
+      "id": 39,
+      "start": 119.72,
+      "end": 120.72,
+      "en": "No, McGraw.",
+      "zh": "不，麦格劳。"
+    },
+    {
+      "id": 40,
+      "start": 120.72,
+      "end": 121.18,
+      "en": "She was definitely working alone.",
+      "zh": "她肯定是单独作案。"
+    },
+    {
+      "id": 41,
+      "start": 122.0,
+      "end": 123.76,
+      "en": "See here, there are footprints in the porridge.",
+      "zh": "看这里，粥里有脚印。"
+    },
+    {
+      "id": 42,
+      "start": 124.14,
+      "end": 125.86,
+      "en": "Here on the floor, small footprints.",
+      "zh": "在地板上，小脚印。"
+    },
+    {
+      "id": 43,
+      "start": 126.66,
+      "end": 130.46,
+      "en": "This tells me that our suspect is small and could possibly be a child.",
+      "zh": "这告诉我，我们的嫌疑人很小，可能是个孩子。"
+    },
+    {
+      "id": 44,
+      "start": 131.56,
+      "end": 132.2,
+      "en": "A child?",
+      "zh": "一个孩子？"
+    },
+    {
+      "id": 45,
+      "start": 133.56,
+      "end": 135.14,
+      "en": "Surely not, sir.",
+      "zh": "当然不是，先生。"
+    },
+    {
+      "id": 46,
+      "start": 135.14,
+      "end": 136.6,
+      "en": "We must follow the clues, McGraw.",
+      "zh": "我们必须遵循线索，麦格劳。"
+    },
+    {
+      "id": 47,
+      "start": 137.36,
+      "end": 138.2,
+      "en": "The evidence doesn't lie.",
+      "zh": "证据没有说谎。"
+    },
+    {
+      "id": 48,
+      "start": 138.8,
+      "end": 140.92,
+      "en": "Now let's reconstruct the crime.",
+      "zh": "现在来还原作案过程。"
+    },
+    {
+      "id": 49,
+      "start": 140.92,
+      "end": 145.52,
+      "en": "The suspect came in, sat in each chair breaking the smallest one into little pieces.",
+      "zh": "嫌疑人进屋后，把每把椅子都坐了一遍，还把最小的那把坐得粉碎。"
+    },
+    {
+      "id": 50,
+      "start": 146.24,
+      "end": 147.49,
+      "en": "Next, the porridge.",
+      "zh": "接下来，粥。"
+    },
+    {
+      "id": 51,
+      "start": 147.83,
+      "end": 153.69,
+      "en": "She obviously tried to eat it and because it was so hot, she dropped it on the floor, making this mess.",
+      "zh": "她显然想吃它，因为它太热了，她把它扔在了地板上，把它弄得一团糟。"
+    },
+    {
+      "id": 52,
+      "start": 154.64,
+      "end": 155.01,
+      "en": "Hmm.",
+      "zh": "嗯。"
+    },
+    {
+      "id": 53,
+      "start": 155.64,
+      "end": 155.91,
+      "en": "Interesting.",
+      "zh": "有意思。"
+    },
+    {
+      "id": 54,
+      "start": 156.64,
+      "end": 158.56,
+      "en": "These footprints seem to lead upstairs.",
+      "zh": "这些脚印似乎通向楼上。"
+    },
+    {
+      "id": 55,
+      "start": 158.67,
+      "end": 160.57,
+      "en": "McGraw, did your officers clear the scene?",
+      "zh": "麦格劳，你的警员确认现场没人了吗？"
+    },
+    {
+      "id": 56,
+      "start": 161.33,
+      "end": 163.71,
+      "en": "Well, there was no one down here.",
+      "zh": "好吧，这里没有一个。"
+    },
+    {
+      "id": 57,
+      "start": 164.55,
+      "end": 165.87,
+      "en": "Maybe we forgot to check upstairs.",
+      "zh": "也许我们忘了在楼上检查。"
+    },
+    {
+      "id": 58,
+      "start": 166.85,
+      "end": 168.17,
+      "en": "Hey, what's with all the noise?",
+      "zh": "嘿，所有的噪音是怎么回事？"
+    },
+    {
+      "id": 59,
+      "start": 168.49,
+      "end": 169.61,
+      "en": "I'm trying to sleep up here.",
+      "zh": "我想睡在这里。"
+    },
+    {
+      "id": 60,
+      "start": 170.13,
+      "end": 170.83,
+      "en": "There she is.",
+      "zh": "她在那里。"
+    },
+    {
+      "id": 61,
+      "start": 171.27,
+      "end": 171.55,
+      "en": "Get her.",
+      "zh": "抓住她！"
+    },
+    {
+      "id": 62,
+      "start": 172.32,
+      "end": 178.36,
+      "en": "Alright, we're back.",
+      "zh": "好了，我们回来了。"
+    },
+    {
+      "id": 63,
+      "start": 178.36,
+      "end": 180.21,
+      "en": "So a lot of interesting phrases there.",
+      "zh": "所以那里有很多有趣的短语。"
+    },
+    {
+      "id": 64,
+      "start": 180.36,
+      "end": 183.44,
+      "en": "They are obviously investigating a break-in.",
+      "zh": "他们显然正在调查闯入事件。"
+    },
+    {
+      "id": 65,
+      "start": 183.44,
+      "end": 184.82,
+      "en": "Okay a break-in, yeah.",
+      "zh": "好吧，闯入，是的。"
+    },
+    {
+      "id": 66,
+      "start": 184.85,
+      "end": 187.57,
+      "en": "So someone broke into this family's house.",
+      "zh": "所以有人闯入了这个家庭的房子。"
+    },
+    {
+      "id": 67,
+      "start": 187.57,
+      "end": 193.21,
+      "en": "So they have to investigate the evidence and some of the things that were left behind.",
+      "zh": "所以他们必须调查证据和一些留下的东西。"
+    },
+    {
+      "id": 68,
+      "start": 193.85,
+      "end": 198.83,
+      "en": "So now why don't we take a look on Language Takeaway, some of the specific words they used.",
+      "zh": "所以现在我们为什么不看看语言外卖，他们使用的一些特定词。"
+    },
+    {
+      "id": 69,
+      "start": 201.09,
+      "end": 201.91,
+      "en": "Language Takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 70,
+      "start": 203.84,
+      "end": 207.92,
+      "en": "Alright the first word that we have is forensics, the forensics team.",
+      "zh": "好吧，我们的第一个词是取证团队。"
+    },
+    {
+      "id": 71,
+      "start": 208.68,
+      "end": 209.02,
+      "en": "Forensics team.",
+      "zh": "法医团队。"
+    },
+    {
+      "id": 72,
+      "start": 209.68,
+      "end": 218.92,
+      "en": "So a forensics team is a team at a police department or police station that studies the things that are left behind after a crime.",
+      "zh": "因此，法医小组是警察局或警察局的一个团队，负责研究犯罪后留下的东西。"
+    },
+    {
+      "id": 73,
+      "start": 220.16,
+      "end": 225.16,
+      "en": "Alright so that team goes and collects the evidence.",
+      "zh": "好吧，所以团队去收集证据。"
+    },
+    {
+      "id": 74,
+      "start": 225.16,
+      "end": 230.23,
+      "en": "So you could look at hair or fingerprints or footprints, things like that.",
+      "zh": "所以你可以看看头发、指纹或脚印，诸如此类。"
+    },
+    {
+      "id": 75,
+      "start": 230.52,
+      "end": 236.84,
+      "en": "A forensics team is kind of like a team that puts together puzzle pieces trying to figure out what the story was.",
+      "zh": "一个法医团队有点像一个团队，它将拼图块拼凑起来，试图弄清楚故事是什么。"
+    },
+    {
+      "id": 76,
+      "start": 236.84,
+      "end": 250.67,
+      "en": "So as you said, the TV show CSI, the whole show revolves around, follows a group of forensic scientists who go to crime scenes and look at blood and different pieces of evidence that are left behind.",
+      "zh": "正如你所说，整个节目 CSI 的电视节目 CSI 跟随一群法医科学家，他们去犯罪现场查看血液和留下的不同证据。"
+    },
+    {
+      "id": 77,
+      "start": 251.24,
+      "end": 251.53,
+      "en": "Very cool.",
+      "zh": "真酷。"
+    },
+    {
+      "id": 78,
+      "start": 252.24,
+      "end": 256.84,
+      "en": "So one piece of evidence that a forensics team might look at is a fingerprint.",
+      "zh": "因此，取证团队可能会看到的一个证据是指纹。"
+    },
+    {
+      "id": 79,
+      "start": 256.84,
+      "end": 262.19,
+      "en": "That's right, a fingerprint or in the dialogue we found fingerprints, the plural form.",
+      "zh": "没错，指纹或在对话中我们发现的指纹，复数形式。"
+    },
+    {
+      "id": 80,
+      "start": 262.6,
+      "end": 270.95,
+      "en": "Okay so for example, if you go to a police station because the police think that you have committed a crime, the police will take your fingerprints.",
+      "zh": "好吧，例如，如果你因为警察认为你犯罪而去警察局，警察会取你的指纹。"
+    },
+    {
+      "id": 81,
+      "start": 271.84,
+      "end": 282.16,
+      "en": "That means they'll put your finger, that means they'll put your fingers into ink and they will make you push your fingers onto a piece of paper to see what your fingers look like.",
+      "zh": "这意味着他们会把你的手指，这意味着他们会把你的手指变成墨水，它们会让你把手指推到一张纸上，看看你的手指是什么样的。"
+    },
+    {
+      "id": 82,
+      "start": 282.16,
+      "end": 282.37,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 83,
+      "start": 283.16,
+      "end": 285.53,
+      "en": "So our fingerprints have a unique pattern.",
+      "zh": "所以我们的指纹有独特的图案。"
+    },
+    {
+      "id": 84,
+      "start": 286.0,
+      "end": 287.36,
+      "en": "Everyone has different fingerprints.",
+      "zh": "每个人都有不同的指纹。"
+    },
+    {
+      "id": 85,
+      "start": 287.36,
+      "end": 290.0,
+      "en": "There are no two fingerprints alike in the world, right?",
+      "zh": "世界上没有两个相同的指纹，对吧？"
+    },
+    {
+      "id": 86,
+      "start": 290.11,
+      "end": 292.91,
+      "en": "Right, so it's kind of like a form of identification.",
+      "zh": "对，所以它有点像一种识别形式。"
+    },
+    {
+      "id": 87,
+      "start": 294.16,
+      "end": 294.37,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 88,
+      "start": 295.16,
+      "end": 297.13,
+      "en": "That's right, so that is your fingerprint.",
+      "zh": "没错，这就是你的指纹。"
+    },
+    {
+      "id": 89,
+      "start": 298.16,
+      "end": 309.36,
+      "en": "So moving on, we talked about fingerprints and the scientists who are investigating the crime scene and they are talking about a very important piece of trace evidence.",
+      "zh": "继续前进，我们谈到了指纹和正在调查犯罪现场的科学家，他们正在谈论一个非常重要的痕迹证据。"
+    },
+    {
+      "id": 90,
+      "start": 310.09,
+      "end": 313.05,
+      "en": "Okay well let's look first at the second word there.",
+      "zh": "好吧，让我们先看看那里的第二个词。"
+    },
+    {
+      "id": 91,
+      "start": 313.21,
+      "end": 314.19,
+      "en": "We've got the word evidence.",
+      "zh": "我们有证据这个词。"
+    },
+    {
+      "id": 92,
+      "start": 314.83,
+      "end": 327.91,
+      "en": "So evidence is something that is usually physical like a piece of clothing or hair that can be used against someone when we're trying to prove that they have committed a crime.",
+      "zh": "因此，当我们试图证明他们犯罪时，证据通常是物理上的，可以用来对付某人。"
+    },
+    {
+      "id": 93,
+      "start": 328.07,
+      "end": 333.23,
+      "en": "Right, so for example a weapon or fingerprints, all that is evidence.",
+      "zh": "对，例如武器或指纹，所有这些都是证据。"
+    },
+    {
+      "id": 94,
+      "start": 334.03,
+      "end": 338.91,
+      "en": "Okay so Marco, what's the difference between evidence and trace evidence?",
+      "zh": "好吧，马可，证据和追踪证据有什么区别？"
+    },
+    {
+      "id": 95,
+      "start": 339.45,
+      "end": 341.99,
+      "en": "Well as you notice you have the specific word there, trace.",
+      "zh": "好吧，当你注意到你有特定的词时，追踪。"
+    },
+    {
+      "id": 96,
+      "start": 343.08,
+      "end": 349.64,
+      "en": "And to trace means to follow or to connect, right?",
+      "zh": "追踪意味着跟随或连接，对吧？"
+    },
+    {
+      "id": 97,
+      "start": 349.64,
+      "end": 355.99,
+      "en": "So what you're doing here is you're taking this evidence to follow or connect the person that committed the crime.",
+      "zh": "所以你在这里所做的是你正在利用这些证据来跟踪或联系犯罪的人。"
+    },
+    {
+      "id": 98,
+      "start": 356.64,
+      "end": 360.07,
+      "en": "So for example, fingerprints lets you know who committed the crime.",
+      "zh": "因此，例如，指纹可以让您知道谁犯罪。"
+    },
+    {
+      "id": 99,
+      "start": 360.6,
+      "end": 364.13,
+      "en": "Okay, or maybe if you have blood you can find out who did this crime.",
+      "zh": "好吧，或者如果你有血，你可以找出谁犯了这个罪。"
+    },
+    {
+      "id": 100,
+      "start": 364.49,
+      "end": 364.65,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 101,
+      "start": 365.44,
+      "end": 366.72,
+      "en": "But what about like a broken window?",
+      "zh": "但是像一扇破窗户呢？"
+    },
+    {
+      "id": 102,
+      "start": 366.72,
+      "end": 367.65,
+      "en": "Well that's just evidence.",
+      "zh": "好吧，这只是证据。"
+    },
+    {
+      "id": 103,
+      "start": 368.08,
+      "end": 373.04,
+      "en": "It just lets you know how the crime was committed, maybe how they got into the house.",
+      "zh": "它只是让你知道犯罪是如何发生的，也许是他们是如何进入房子的。"
+    },
+    {
+      "id": 104,
+      "start": 373.04,
+      "end": 373.85,
+      "en": "But not who did it.",
+      "zh": "但不是谁做的。"
+    },
+    {
+      "id": 105,
+      "start": 374.04,
+      "end": 375.04,
+      "en": "But not who did it.",
+      "zh": "但不是谁做的。"
+    },
+    {
+      "id": 106,
+      "start": 375.04,
+      "end": 380.69,
+      "en": "Okay, so trace evidence helps you connect the crime to the person who committed the crime.",
+      "zh": "好的，所以追踪证据可以帮助您将犯罪与犯罪的人联系起来。"
+    },
+    {
+      "id": 107,
+      "start": 381.75,
+      "end": 394.68,
+      "en": "And well moving on, we found that very important piece of trace evidence which was a piece of or a strand of golden hair and the police officer said, well this tells me that the suspect has long golden hair.",
+      "zh": "继续前进，我们发现了一条非常重要的痕迹证据，它是一块或一缕金色的头发，警察说，这告诉我嫌疑人有一头金色的长发。"
+    },
+    {
+      "id": 108,
+      "start": 395.26,
+      "end": 396.18,
+      "en": "So a suspect.",
+      "zh": "所以是嫌疑人。"
+    },
+    {
+      "id": 109,
+      "start": 397.08,
+      "end": 401.02,
+      "en": "Okay this word, it looks exactly the same as the word to suspect.",
+      "zh": "好吧这个词，它看起来和怀疑的词完全一样。"
+    },
+    {
+      "id": 110,
+      "start": 402.12,
+      "end": 405.6,
+      "en": "But be careful because we say these two words in different ways.",
+      "zh": "但要小心，因为我们以不同的方式说出这两个词。"
+    },
+    {
+      "id": 111,
+      "start": 406.12,
+      "end": 407.44,
+      "en": "So to suspect, that's a verb.",
+      "zh": "所以怀疑，这是一个动词。"
+    },
+    {
+      "id": 112,
+      "start": 407.88,
+      "end": 408.88,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 113,
+      "start": 408.88,
+      "end": 410.26,
+      "en": "So I suspect Marco did it.",
+      "zh": "所以我怀疑马可做到了。"
+    },
+    {
+      "id": 114,
+      "start": 411.22,
+      "end": 414.12,
+      "en": "So that means I think or I imagine.",
+      "zh": "所以这意味着我想或我想象。"
+    },
+    {
+      "id": 115,
+      "start": 414.12,
+      "end": 418.75,
+      "en": "Right, whereas a suspect, a noun, a suspect is a person.",
+      "zh": "对，而嫌疑人，名词，嫌疑人是人。"
+    },
+    {
+      "id": 116,
+      "start": 419.25,
+      "end": 424.77,
+      "en": "So the person who we think or the person who the police think committed a crime.",
+      "zh": "所以我们认为的人或警方认为犯罪的人。"
+    },
+    {
+      "id": 117,
+      "start": 425.48,
+      "end": 426.48,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 118,
+      "start": 426.48,
+      "end": 430.72,
+      "en": "So for example, we're talking about some trace evidence like long blonde hair.",
+      "zh": "因此，例如，我们正在谈论一些微量证据，例如长长的金发。"
+    },
+    {
+      "id": 119,
+      "start": 430.72,
+      "end": 435.63,
+      "en": "That means the suspect is probably a woman and is probably blonde.",
+      "zh": "这意味着嫌疑人可能是女性，可能是金发女郎。"
+    },
+    {
+      "id": 120,
+      "start": 436.36,
+      "end": 437.0,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 121,
+      "start": 437.28,
+      "end": 443.98,
+      "en": "And it's interesting that you use the verb to suspect and a suspect all because you're not sure yet.",
+      "zh": "有趣的是，您使用动词来怀疑和怀疑，因为您还不确定。"
+    },
+    {
+      "id": 122,
+      "start": 444.36,
+      "end": 446.94,
+      "en": "So this person may have committed the crime or may not.",
+      "zh": "所以这个人可能犯了罪，也可能没有。"
+    },
+    {
+      "id": 123,
+      "start": 447.24,
+      "end": 447.68,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 124,
+      "start": 447.9,
+      "end": 449.42,
+      "en": "So we have to wait until the trial.",
+      "zh": "所以我们必须等到审判。"
+    },
+    {
+      "id": 125,
+      "start": 449.76,
+      "end": 455.66,
+      "en": "We have to wait until we prove this person is guilty before we can say that they actually committed the crime.",
+      "zh": "我们必须等到我们证明这个人有罪才能说他们真的犯了罪。"
+    },
+    {
+      "id": 126,
+      "start": 455.88,
+      "end": 456.44,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 127,
+      "start": 456.9,
+      "end": 457.28,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 128,
+      "start": 458.2,
+      "end": 465.78,
+      "en": "And well, you have a suspect and usually you also have somebody who is an accomplice to the crime or to the suspect.",
+      "zh": "好吧，你有一个嫌疑人，通常你还有一个人是犯罪的帮凶或嫌疑人。"
+    },
+    {
+      "id": 129,
+      "start": 466.16,
+      "end": 466.36,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 130,
+      "start": 466.38,
+      "end": 468.62,
+      "en": "So a suspect, as we said, is a person.",
+      "zh": "正如我们所说，嫌疑人是一个人。"
+    },
+    {
+      "id": 131,
+      "start": 468.88,
+      "end": 469.34,
+      "en": "It's a noun.",
+      "zh": "这是个名词。"
+    },
+    {
+      "id": 132,
+      "start": 469.74,
+      "end": 470.9,
+      "en": "So is an accomplice.",
+      "zh": "同谋也是如此。"
+    },
+    {
+      "id": 133,
+      "start": 471.18,
+      "end": 474.9,
+      "en": "So accomplice is a suspect's helper.",
+      "zh": "所以同谋是嫌疑人的帮手。"
+    },
+    {
+      "id": 134,
+      "start": 475.36,
+      "end": 475.6,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 135,
+      "start": 476.0,
+      "end": 484.43,
+      "en": "So basically if you're robbing a bank and I wait outside in the car, right, while you're robbing the bank, then I am an accomplice.",
+      "zh": "所以基本上，如果你在抢劫银行，我在车外等，对，当你抢银行的时候，那么我是同谋。"
+    },
+    {
+      "id": 136,
+      "start": 484.53,
+      "end": 484.81,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 137,
+      "start": 485.03,
+      "end": 488.89,
+      "en": "And under most laws, you could be sentenced to jail.",
+      "zh": "根据大多数法律，您可能会被判处监禁。"
+    },
+    {
+      "id": 138,
+      "start": 489.19,
+      "end": 489.31,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 139,
+      "start": 490.24,
+      "end": 493.0,
+      "en": "So the accomplice usually doesn't commit the crime, right?",
+      "zh": "所以同谋通常不会犯罪，对吧？"
+    },
+    {
+      "id": 140,
+      "start": 493.0,
+      "end": 496.39,
+      "en": "You robbed the bank, but I just waited outside in the car to drive you out.",
+      "zh": "你抢了银行，但我只是在车外等着把你赶出去。"
+    },
+    {
+      "id": 141,
+      "start": 496.79,
+      "end": 498.01,
+      "en": "So I didn't rob the bank.",
+      "zh": "所以我没有抢银行。"
+    },
+    {
+      "id": 142,
+      "start": 498.53,
+      "end": 498.77,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 143,
+      "start": 498.77,
+      "end": 503.19,
+      "en": "But sometimes accomplices do also have guns and shoot people or knives.",
+      "zh": "但有时同伙也有枪和射人或刀。"
+    },
+    {
+      "id": 144,
+      "start": 503.52,
+      "end": 508.76,
+      "en": "So an accomplice is basically just the helper of the criminal, but they can get in trouble too.",
+      "zh": "所以同谋基本上只是罪犯的帮助者，但他们也可能遇到麻烦。"
+    },
+    {
+      "id": 145,
+      "start": 508.76,
+      "end": 509.76,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 146,
+      "start": 509.76,
+      "end": 514.68,
+      "en": "So basically it's a person that helps out and knows about the crime, but didn't tell the police about it.",
+      "zh": "所以基本上是一个帮助并知道犯罪的人，但没有告诉警方。"
+    },
+    {
+      "id": 147,
+      "start": 514.68,
+      "end": 515.68,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 148,
+      "start": 515.68,
+      "end": 516.76,
+      "en": "That's a really important aspect.",
+      "zh": "这是一个非常重要的方面。"
+    },
+    {
+      "id": 149,
+      "start": 517.24,
+      "end": 518.24,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 150,
+      "start": 518.24,
+      "end": 521.08,
+      "en": "So a lot of interesting words there all related to crimes.",
+      "zh": "所以很多有趣的词都与犯罪有关。"
+    },
+    {
+      "id": 151,
+      "start": 522.0,
+      "end": 527.66,
+      "en": "Why don't we move on now to a couple of different phrases that we have prepared for you on Fluency Builder.",
+      "zh": "为什么我们不现在继续讨论我们在 Flueny Builder 上为您准备的几个不同的短语。"
+    },
+    {
+      "id": 152,
+      "start": 529.48,
+      "end": 530.42,
+      "en": "Fluency Builder.",
+      "zh": "流利表达。"
+    },
+    {
+      "id": 153,
+      "start": 531.12,
+      "end": 532.12,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 154,
+      "start": 532.55,
+      "end": 532.99,
+      "en": "I like this.",
+      "zh": "我喜欢这个。"
+    },
+    {
+      "id": 155,
+      "start": 533.12,
+      "end": 537.43,
+      "en": "This first phrase, it's a phrase you might hear a lot actually in police shows.",
+      "zh": "这是第一个短语，这是一个你可能在警察节目中听到很多的短语。"
+    },
+    {
+      "id": 156,
+      "start": 538.8,
+      "end": 539.41,
+      "en": "Give it to me straight.",
+      "zh": "直接给我。"
+    },
+    {
+      "id": 157,
+      "start": 539.8,
+      "end": 540.39,
+      "en": "Give it to me straight.",
+      "zh": "直接给我。"
+    },
+    {
+      "id": 158,
+      "start": 540.93,
+      "end": 545.97,
+      "en": "Actually, also you can use it when you're just talking to someone and they're like hesitant, right?",
+      "zh": "实际上，当您只是在与某人交谈并且他们犹豫不决时，您也可以使用它，对吧？"
+    },
+    {
+      "id": 159,
+      "start": 546.36,
+      "end": 548.2,
+      "en": "Like, I don't know how to tell you this, but...",
+      "zh": "就像，我不知道如何告诉你，但是..."
+    },
+    {
+      "id": 160,
+      "start": 548.41,
+      "end": 549.03,
+      "en": "I'm not so sure.",
+      "zh": "我不太确定。"
+    },
+    {
+      "id": 161,
+      "start": 549.39,
+      "end": 551.61,
+      "en": "I don't think you're going to like what I have to say.",
+      "zh": "我不认为你会喜欢我要说的话。"
+    },
+    {
+      "id": 162,
+      "start": 552.6,
+      "end": 554.71,
+      "en": "So I can just say, okay, come on, just give it to me straight.",
+      "zh": "所以我可以说，好吧，来吧，直接给我吧。"
+    },
+    {
+      "id": 163,
+      "start": 555.27,
+      "end": 555.49,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 164,
+      "start": 555.55,
+      "end": 556.11,
+      "en": "I don't like your shirt.",
+      "zh": "我不喜欢你的衬衫。"
+    },
+    {
+      "id": 165,
+      "start": 557.0,
+      "end": 557.38,
+      "en": "No, I'm just kidding.",
+      "zh": "没有，我只是在开玩笑。"
+    },
+    {
+      "id": 166,
+      "start": 558.0,
+      "end": 559.0,
+      "en": "It's a nice shirt.",
+      "zh": "这是一件不错的衬衫。"
+    },
+    {
+      "id": 167,
+      "start": 559.0,
+      "end": 562.98,
+      "en": "But what you're basically asking for is the person to say, be honest with me.",
+      "zh": "但你基本上要求的是那个人，对我说实话。"
+    },
+    {
+      "id": 168,
+      "start": 563.24,
+      "end": 563.62,
+      "en": "Be direct.",
+      "zh": "直说吧。"
+    },
+    {
+      "id": 169,
+      "start": 564.08,
+      "end": 564.42,
+      "en": "Be direct.",
+      "zh": "直说吧。"
+    },
+    {
+      "id": 170,
+      "start": 565.24,
+      "end": 570.66,
+      "en": "Straight can mean both of those things, honest or straightforward or quick.",
+      "zh": "直线可以表示这两种东西，诚实或直接或快速。"
+    },
+    {
+      "id": 171,
+      "start": 571.32,
+      "end": 575.36,
+      "en": "You don't want someone to go around and around and say lots of different things.",
+      "zh": "你不希望有人四处走动，说很多不同的话。"
+    },
+    {
+      "id": 172,
+      "start": 575.7,
+      "end": 577.08,
+      "en": "So I guess, yeah, that does make sense.",
+      "zh": "所以我想，是的，这确实有道理。"
+    },
+    {
+      "id": 173,
+      "start": 577.34,
+      "end": 579.46,
+      "en": "Give it to me straight maybe comes from straightforward.",
+      "zh": "直接给我可能来自直截了当。"
+    },
+    {
+      "id": 174,
+      "start": 580.42,
+      "end": 585.56,
+      "en": "So to be straightforward is to not hesitate to just say something directly and honestly.",
+      "zh": "所以直截了当就是毫不犹豫地直接和诚实地说些什么。"
+    },
+    {
+      "id": 175,
+      "start": 585.8,
+      "end": 586.1,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 176,
+      "start": 586.42,
+      "end": 586.66,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 177,
+      "start": 588.24,
+      "end": 597.0,
+      "en": "So moving on to our next phrase, McGraw is talking about the bulls and he said, well, they are analyzing them back at the lab as we speak.",
+      "zh": "所以继续我们的下一个短语，麦格劳正在谈论公牛队，他说，好吧，当我们说话的时候，他们正在实验室分析它们。"
+    },
+    {
+      "id": 178,
+      "start": 597.0,
+      "end": 597.41,
+      "en": "As we speak.",
+      "zh": "在我们说话的时候。"
+    },
+    {
+      "id": 179,
+      "start": 598.0,
+      "end": 599.0,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 180,
+      "start": 599.0,
+      "end": 601.36,
+      "en": "So this is actually a phrase that refers to time.",
+      "zh": "所以这实际上是一个指时间的短语。"
+    },
+    {
+      "id": 181,
+      "start": 601.36,
+      "end": 604.61,
+      "en": "So in this instance, what he's basically saying is right now.",
+      "zh": "所以在这种情况下，他基本上说的是现在。"
+    },
+    {
+      "id": 182,
+      "start": 605.32,
+      "end": 608.61,
+      "en": "They're being analyzed right now or in this moment.",
+      "zh": "它们现在或此时正在被分析。"
+    },
+    {
+      "id": 183,
+      "start": 609.42,
+      "end": 613.77,
+      "en": "So it's a way of indicating that something is happening at this very moment.",
+      "zh": "所以这是一种表明在这一刻正在发生的事情的方式。"
+    },
+    {
+      "id": 184,
+      "start": 613.99,
+      "end": 614.15,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 185,
+      "start": 614.51,
+      "end": 619.69,
+      "en": "So I could say, did you know that the president is giving a speech as we speak?",
+      "zh": "所以我可以说，你知道总统在我们发言时发表演讲吗？"
+    },
+    {
+      "id": 186,
+      "start": 620.19,
+      "end": 620.55,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 187,
+      "start": 620.63,
+      "end": 623.51,
+      "en": "So that means the president is talking right now.",
+      "zh": "所以这意味着总统现在正在说话。"
+    },
+    {
+      "id": 188,
+      "start": 623.71,
+      "end": 623.95,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 189,
+      "start": 624.27,
+      "end": 624.75,
+      "en": "As we speak.",
+      "zh": "在我们说话的时候。"
+    },
+    {
+      "id": 190,
+      "start": 625.84,
+      "end": 626.84,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 191,
+      "start": 626.84,
+      "end": 627.84,
+      "en": "Very good phrase.",
+      "zh": "这是个很好的短语。"
+    },
+    {
+      "id": 192,
+      "start": 627.84,
+      "end": 632.85,
+      "en": "Now, moving on to our third phrase, Detective McGee was talking about reconstructing the crime.",
+      "zh": "现在，继续我们的第三个短语，侦探麦基正在谈论重建犯罪。"
+    },
+    {
+      "id": 193,
+      "start": 633.92,
+      "end": 636.64,
+      "en": "He said, let's reconstruct the crime.",
+      "zh": "他说，让我们重建犯罪。"
+    },
+    {
+      "id": 194,
+      "start": 636.7,
+      "end": 637.2,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 195,
+      "start": 637.2,
+      "end": 642.1,
+      "en": "So I don't know if any of you watch these crime TV shows like Dexter or CSI.",
+      "zh": "所以我不知道你们中是否有人看过这些犯罪电视节目，比如 Dexter 或 CSI。"
+    },
+    {
+      "id": 196,
+      "start": 642.54,
+      "end": 647.08,
+      "en": "This is my favorite part because they tell you exactly what they believe happened.",
+      "zh": "这是我最喜欢的部分，因为他们准确地告诉你他们相信发生了什么。"
+    },
+    {
+      "id": 197,
+      "start": 647.56,
+      "end": 653.66,
+      "en": "So to reconstruct means to build again or to recreate, to create again.",
+      "zh": "所以重建意味着重新构建或重新创建，再次创建。"
+    },
+    {
+      "id": 198,
+      "start": 654.24,
+      "end": 660.19,
+      "en": "So basically they start at the beginning and they pretend to follow what happened during the crime.",
+      "zh": "所以基本上他们从头开始，他们假装跟随犯罪期间发生的事情。"
+    },
+    {
+      "id": 199,
+      "start": 661.32,
+      "end": 667.44,
+      "en": "So that's basically the verb to reconstruct, to rebuild, recreate.",
+      "zh": "所以这基本上是重建、重建、重建的动词。"
+    },
+    {
+      "id": 200,
+      "start": 667.44,
+      "end": 668.6,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 201,
+      "start": 668.6,
+      "end": 668.83,
+      "en": "Reconstruct the crime.",
+      "zh": "重建犯罪。"
+    },
+    {
+      "id": 202,
+      "start": 669.92,
+      "end": 670.92,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 203,
+      "start": 670.92,
+      "end": 671.95,
+      "en": "And what about our last phrase?",
+      "zh": "最后一个短语是什么呢？"
+    },
+    {
+      "id": 204,
+      "start": 672.72,
+      "end": 673.24,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 205,
+      "start": 673.28,
+      "end": 676.18,
+      "en": "So our last phrase is again, a very typical police phrase.",
+      "zh": "所以我们的最后一句话又是一个非常典型的警察短语。"
+    },
+    {
+      "id": 206,
+      "start": 676.8,
+      "end": 684.64,
+      "en": "We hear this a lot when there's been a crime or on TV when they're talking about the scene of the crime, that means the place where the crime happened.",
+      "zh": "当他们谈论犯罪现场时，我们经常听到犯罪或在电视上听到这一点，这意味着犯罪发生的地方。"
+    },
+    {
+      "id": 207,
+      "start": 684.64,
+      "end": 691.64,
+      "en": "And the police say we need to clear the scene or did the officers clear the scene?",
+      "zh": "警察说我们需要清理现场还是警察清理现场？"
+    },
+    {
+      "id": 208,
+      "start": 691.64,
+      "end": 693.54,
+      "en": "So to clear means to empty out.",
+      "zh": "所以清空意味着清空。"
+    },
+    {
+      "id": 209,
+      "start": 693.84,
+      "end": 694.1,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 210,
+      "start": 694.28,
+      "end": 699.0,
+      "en": "But they're not talking about emptying out the evidence or removing everything from the house.",
+      "zh": "但他们不是在谈论清空证据或清除房子里的所有东西。"
+    },
+    {
+      "id": 211,
+      "start": 699.72,
+      "end": 701.74,
+      "en": "They're just saying to remove people, right?",
+      "zh": "他们只是说要移除人，对吧？"
+    },
+    {
+      "id": 212,
+      "start": 702.12,
+      "end": 703.12,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 213,
+      "start": 703.12,
+      "end": 704.12,
+      "en": "Or obstructions.",
+      "zh": "或障碍物。"
+    },
+    {
+      "id": 214,
+      "start": 704.12,
+      "end": 705.12,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 215,
+      "start": 705.12,
+      "end": 708.48,
+      "en": "So a police officer would want to make all the people go away.",
+      "zh": "所以警察会想让所有人都走开。"
+    },
+    {
+      "id": 216,
+      "start": 708.48,
+      "end": 714.87,
+      "en": "Well, because you don't want people stepping on the evidence or maybe putting their fingerprints all over the place.",
+      "zh": "好吧，因为你不希望人们踩到证据，或者可能把他们的指纹放到各个地方。"
+    },
+    {
+      "id": 217,
+      "start": 715.29,
+      "end": 715.49,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 218,
+      "start": 715.67,
+      "end": 722.33,
+      "en": "So it's very important that the officers, the police officers clear the scene so that they can start their investigation.",
+      "zh": "因此，警官、警察清理现场非常重要，以便他们可以开始调查。"
+    },
+    {
+      "id": 219,
+      "start": 722.69,
+      "end": 722.83,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 220,
+      "start": 723.47,
+      "end": 723.91,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 221,
+      "start": 724.05,
+      "end": 725.45,
+      "en": "A lot of interesting phrases there.",
+      "zh": "那里有很多有趣的短语。"
+    },
+    {
+      "id": 222,
+      "start": 726.01,
+      "end": 726.95,
+      "en": "I think we should go back.",
+      "zh": "我想我们应该回去。"
+    },
+    {
+      "id": 223,
+      "start": 727.32,
+      "end": 731.24,
+      "en": "Why don't we listen to the dialogue for the last time and we'll come back and talk a little bit more this.",
+      "zh": "我们为什么不最后一次听对话，我们会回来多谈一点。"
+    },
+    {
+      "id": 224,
+      "start": 732.14,
+      "end": 734.84,
+      "en": "And we'll come back and talk a little bit more about this really interesting topic.",
+      "zh": "我们会回来再谈谈这个非常有趣的话题。"
+    },
+    {
+      "id": 225,
+      "start": 743.08,
+      "end": 745.3,
+      "en": "All right, Officer McGraw, give it to me straight.",
+      "zh": "好了，麦格劳警官，直说吧。"
+    },
+    {
+      "id": 226,
+      "start": 746.12,
+      "end": 746.84,
+      "en": "What are we looking at here?",
+      "zh": "我们在这里看什么？"
+    },
+    {
+      "id": 227,
+      "start": 747.12,
+      "end": 748.12,
+      "en": "Detective McGee, glad to see you.",
+      "zh": "麦基侦探，很高兴见到你。"
+    },
+    {
+      "id": 228,
+      "start": 749.88,
+      "end": 752.0,
+      "en": "We could sure use your expertise on this one.",
+      "zh": "这桩案子正需要您的专业本领。"
+    },
+    {
+      "id": 229,
+      "start": 752.8,
+      "end": 754.84,
+      "en": "It's a break in, but nothing seems to have been stolen.",
+      "zh": "有人非法闯入，可似乎没丢什么东西。"
+    },
+    {
+      "id": 230,
+      "start": 755.48,
+      "end": 758.76,
+      "en": "We received a call from the Bear family at around 1030 this morning.",
+      "zh": "今天上午十点半左右，我们接到了熊一家的电话。"
+    },
+    {
+      "id": 231,
+      "start": 759.46,
+      "end": 762.68,
+      "en": "They'd gone out for a walk before breakfast and came home to this mess.",
+      "zh": "他们早饭前出去散步，回家就发现屋里乱成这样。"
+    },
+    {
+      "id": 232,
+      "start": 763.35,
+      "end": 766.19,
+      "en": "Broken chairs and porridge all over the place.",
+      "zh": "到处都是破椅子和粥。"
+    },
+    {
+      "id": 233,
+      "start": 766.77,
+      "end": 770.17,
+      "en": "Apparently Mama Bear had made the porridge a little too hot, you see.",
+      "zh": "显然，熊妈妈让粥有点太热了，你看。"
+    },
+    {
+      "id": 234,
+      "start": 770.41,
+      "end": 771.69,
+      "en": "They were waiting for it to cool down.",
+      "zh": "他们在等待它冷却下来。"
+    },
+    {
+      "id": 235,
+      "start": 772.76,
+      "end": 774.74,
+      "en": "Okay, then let's start examining the evidence.",
+      "zh": "好吧，让我们开始检查证据。"
+    },
+    {
+      "id": 236,
+      "start": 775.68,
+      "end": 777.0,
+      "en": "Have the forensics team been in yet?",
+      "zh": "技术鉴证人员来过了吗？"
+    },
+    {
+      "id": 237,
+      "start": 777.93,
+      "end": 778.81,
+      "en": "Yes, sir.",
+      "zh": "是，先生。"
+    },
+    {
+      "id": 238,
+      "start": 779.25,
+      "end": 783.73,
+      "en": "They found some fingerprints on the bowls and are analyzing them back at the lab as we speak.",
+      "zh": "他们在碗上发现了一些指纹，并在我们说话的时候在实验室分析它们。"
+    },
+    {
+      "id": 239,
+      "start": 784.39,
+      "end": 787.19,
+      "en": "Hopefully they will be able to identify the burglar soon.",
+      "zh": "希望他们能够尽快识别出窃贼。"
+    },
+    {
+      "id": 240,
+      "start": 788.44,
+      "end": 789.8,
+      "en": "Hmm.",
+      "zh": "嗯。"
+    },
+    {
+      "id": 241,
+      "start": 790.48,
+      "end": 790.86,
+      "en": "Aha!",
+      "zh": "哈!"
+    },
+    {
+      "id": 242,
+      "start": 791.56,
+      "end": 792.24,
+      "en": "What's this?",
+      "zh": "这是什么?"
+    },
+    {
+      "id": 243,
+      "start": 792.76,
+      "end": 794.0,
+      "en": "A strand of golden hair.",
+      "zh": "一缕金色的头发。"
+    },
+    {
+      "id": 244,
+      "start": 794.57,
+      "end": 797.35,
+      "en": "This is a very important piece of trace evidence, McGraw.",
+      "zh": "这是一个非常重要的痕迹证据，麦格劳。"
+    },
+    {
+      "id": 245,
+      "start": 797.67,
+      "end": 802.91,
+      "en": "It tells me the suspect has long golden hair, and very few men have long golden hair.",
+      "zh": "它告诉我嫌疑人有一头金色的长发，很少有男人有长长的金发。"
+    },
+    {
+      "id": 246,
+      "start": 803.55,
+      "end": 805.19,
+      "en": "So our criminal could be a woman.",
+      "zh": "所以我们的罪犯可以是女人。"
+    },
+    {
+      "id": 247,
+      "start": 806.0,
+      "end": 806.6,
+      "en": "A woman?",
+      "zh": "女人？"
+    },
+    {
+      "id": 248,
+      "start": 807.22,
+      "end": 808.06,
+      "en": "Was she working alone?",
+      "zh": "她一个人工作吗？"
+    },
+    {
+      "id": 249,
+      "start": 808.78,
+      "end": 810.22,
+      "en": "Did she have an accomplice?",
+      "zh": "她有同谋吗？"
+    },
+    {
+      "id": 250,
+      "start": 811.12,
+      "end": 812.12,
+      "en": "An accomplice?",
+      "zh": "同谋？"
+    },
+    {
+      "id": 251,
+      "start": 812.12,
+      "end": 813.12,
+      "en": "No.",
+      "zh": "不。"
+    },
+    {
+      "id": 252,
+      "start": 813.12,
+      "end": 814.12,
+      "en": "No, McGraw.",
+      "zh": "不，麦格劳。"
+    },
+    {
+      "id": 253,
+      "start": 814.12,
+      "end": 814.6,
+      "en": "She was definitely working alone.",
+      "zh": "她肯定是一个人工作。"
+    },
+    {
+      "id": 254,
+      "start": 815.18,
+      "end": 817.18,
+      "en": "See, here there are footprints in the porridge.",
+      "zh": "看，这里有粥里有脚印。"
+    },
+    {
+      "id": 255,
+      "start": 817.6,
+      "end": 819.32,
+      "en": "Here on the floor, small footprints.",
+      "zh": "在地板上，小脚印。"
+    },
+    {
+      "id": 256,
+      "start": 820.14,
+      "end": 823.92,
+      "en": "This tells me that our suspect is small, and could possibly be a child.",
+      "zh": "这告诉我，我们的嫌疑人很小，可能是个孩子。"
+    },
+    {
+      "id": 257,
+      "start": 825.24,
+      "end": 825.76,
+      "en": "A child?",
+      "zh": "一个孩子？"
+    },
+    {
+      "id": 258,
+      "start": 827.08,
+      "end": 827.58,
+      "en": "Surely not, sir.",
+      "zh": "当然不是，先生。"
+    },
+    {
+      "id": 259,
+      "start": 828.38,
+      "end": 830.04,
+      "en": "We must follow the clues, McGraw.",
+      "zh": "我们必须遵循线索，麦格劳。"
+    },
+    {
+      "id": 260,
+      "start": 830.56,
+      "end": 831.66,
+      "en": "The evidence doesn't lie.",
+      "zh": "证据没有说谎。"
+    },
+    {
+      "id": 261,
+      "start": 832.14,
+      "end": 833.56,
+      "en": "Now let's reconstruct the crime.",
+      "zh": "现在让我们重建犯罪。"
+    },
+    {
+      "id": 262,
+      "start": 834.22,
+      "end": 838.94,
+      "en": "The suspect came in, sat in each chair breaking the smallest one into little pieces.",
+      "zh": "嫌疑人进屋后，把每把椅子都坐了一遍，还把最小的那把坐得粉碎。"
+    },
+    {
+      "id": 263,
+      "start": 839.92,
+      "end": 847.1,
+      "en": "Next, the porridge, she obviously tried to eat it, and because it was so hot she dropped it on the floor, making this mess.",
+      "zh": "接下来，粥，她显然是想吃的，因为太热了，她把它扔在了地板上，把它弄得一团糟。"
+    },
+    {
+      "id": 264,
+      "start": 848.18,
+      "end": 849.24,
+      "en": "Hmm, interesting.",
+      "zh": "嗯，很有意思。"
+    },
+    {
+      "id": 265,
+      "start": 850.0,
+      "end": 851.16,
+      "en": "These footprints seem to lead upstairs.",
+      "zh": "这些脚印似乎通向楼上。"
+    },
+    {
+      "id": 266,
+      "start": 852.06,
+      "end": 854.02,
+      "en": "McGraw, did your officers clear the scene?",
+      "zh": "麦格劳，你的警员确认现场没人了吗？"
+    },
+    {
+      "id": 267,
+      "start": 854.67,
+      "end": 857.15,
+      "en": "Well, there was no one down here.",
+      "zh": "好吧，这里没有一个。"
+    },
+    {
+      "id": 268,
+      "start": 857.97,
+      "end": 859.37,
+      "en": "Maybe we forgot to check upstairs.",
+      "zh": "也许我们忘了在楼上检查。"
+    },
+    {
+      "id": 269,
+      "start": 860.27,
+      "end": 861.59,
+      "en": "Hey, what's with all the noise?",
+      "zh": "嘿，所有的噪音是怎么回事？"
+    },
+    {
+      "id": 270,
+      "start": 861.91,
+      "end": 863.05,
+      "en": "I'm trying to sleep up here.",
+      "zh": "我想睡在这里。"
+    },
+    {
+      "id": 271,
+      "start": 863.49,
+      "end": 864.21,
+      "en": "There she is!",
+      "zh": "她在那里！"
+    },
+    {
+      "id": 272,
+      "start": 864.69,
+      "end": 864.97,
+      "en": "Get her!",
+      "zh": "得到她！"
+    },
+    {
+      "id": 273,
+      "start": 872.46,
+      "end": 877.1,
+      "en": "So you mentioned a couple of different shows, such as Dexter and CSI.",
+      "zh": "所以你提到了几个不同的节目，比如 Dexter 和 CSI。"
+    },
+    {
+      "id": 274,
+      "start": 877.44,
+      "end": 878.96,
+      "en": "Do you watch any of these shows?",
+      "zh": "你看这些节目中的任何一个吗？"
+    },
+    {
+      "id": 275,
+      "start": 879.02,
+      "end": 879.24,
+      "en": "I do.",
+      "zh": "我看的。"
+    },
+    {
+      "id": 276,
+      "start": 879.58,
+      "end": 881.18,
+      "en": "I'm a big fan of Dexter.",
+      "zh": "我是德克斯特的忠实粉丝。"
+    },
+    {
+      "id": 277,
+      "start": 882.46,
+      "end": 885.64,
+      "en": "And Dexter, as you know, works at a police station in Miami.",
+      "zh": "如您所知，德克斯特在迈阿密的一个警察局工作。"
+    },
+    {
+      "id": 278,
+      "start": 886.22,
+      "end": 888.2,
+      "en": "His character is in forensics.",
+      "zh": "他的性格是法医。"
+    },
+    {
+      "id": 279,
+      "start": 888.5,
+      "end": 889.66,
+      "en": "He analyzes blood.",
+      "zh": "他分析血液。"
+    },
+    {
+      "id": 280,
+      "start": 890.0,
+      "end": 891.28,
+      "en": "Right, he's like a blood expert.",
+      "zh": "没错，他就像一个血液专家。"
+    },
+    {
+      "id": 281,
+      "start": 892.68,
+      "end": 896.6,
+      "en": "But it's interesting because he is actually, he commits crimes himself.",
+      "zh": "但这很有趣，因为他实际上是，他自己犯罪。"
+    },
+    {
+      "id": 282,
+      "start": 896.62,
+      "end": 900.02,
+      "en": "So he uses his knowledge to help him to not get caught.",
+      "zh": "所以他用他的知识来帮助他不被抓住。"
+    },
+    {
+      "id": 283,
+      "start": 900.49,
+      "end": 903.49,
+      "en": "Right, so he's both a criminal and he's a police officer.",
+      "zh": "对，所以他既是罪犯，也是警察。"
+    },
+    {
+      "id": 284,
+      "start": 903.81,
+      "end": 905.55,
+      "en": "But he's kind of like a superhero criminal, right?",
+      "zh": "但他有点像超级英雄罪犯，对吧？"
+    },
+    {
+      "id": 285,
+      "start": 905.77,
+      "end": 907.35,
+      "en": "Because he doesn't kill for fun or pleasure.",
+      "zh": "因为他杀人不是为了好玩或快乐。"
+    },
+    {
+      "id": 286,
+      "start": 907.64,
+      "end": 910.68,
+      "en": "He just takes out people who kind of deserve it, right?",
+      "zh": "他只是带走了应得的人，对吧？"
+    },
+    {
+      "id": 287,
+      "start": 910.68,
+      "end": 915.39,
+      "en": "Yes, but he does kind of do it for pleasure because he's obsessed.",
+      "zh": "是的，但他这样做是为了快乐，因为他很着迷。"
+    },
+    {
+      "id": 288,
+      "start": 916.2,
+      "end": 917.34,
+      "en": "He can't not kill.",
+      "zh": "他不能不杀。"
+    },
+    {
+      "id": 289,
+      "start": 917.74,
+      "end": 921.54,
+      "en": "So instead of killing good people, he decides he will only ever kill bad people.",
+      "zh": "因此，他没有杀死好人，而是决定他只会杀死坏人。"
+    },
+    {
+      "id": 290,
+      "start": 922.28,
+      "end": 923.34,
+      "en": "It's a really good show.",
+      "zh": "这是一个非常好的节目。"
+    },
+    {
+      "id": 291,
+      "start": 923.58,
+      "end": 926.94,
+      "en": "I've watched a couple of episodes and it's very, very good.",
+      "zh": "我看了几集，非常非常好。"
+    },
+    {
+      "id": 292,
+      "start": 927.24,
+      "end": 927.86,
+      "en": "The same as CSI.",
+      "zh": "与CSI相同。"
+    },
+    {
+      "id": 293,
+      "start": 928.62,
+      "end": 930.18,
+      "en": "There are a couple of different versions.",
+      "zh": "有几个不同的版本。"
+    },
+    {
+      "id": 294,
+      "start": 930.24,
+      "end": 933.28,
+      "en": "There's CSI Miami, New York, and Las Vegas.",
+      "zh": "有CSI迈阿密、纽约和拉斯维加斯。"
+    },
+    {
+      "id": 295,
+      "start": 933.28,
+      "end": 934.36,
+      "en": "But my favorite is Las Vegas.",
+      "zh": "但我最喜欢的是拉斯维加斯。"
+    },
+    {
+      "id": 296,
+      "start": 934.36,
+      "end": 935.28,
+      "en": "It's very, very good.",
+      "zh": "它非常非常好。"
+    },
+    {
+      "id": 297,
+      "start": 935.54,
+      "end": 936.48,
+      "en": "And also Law & Order.",
+      "zh": "还有法律与秩序。"
+    },
+    {
+      "id": 298,
+      "start": 937.12,
+      "end": 938.88,
+      "en": "I've watched a couple of episodes of Law & Order.",
+      "zh": "我看过几集《法律与秩序》。"
+    },
+    {
+      "id": 299,
+      "start": 939.08,
+      "end": 939.42,
+      "en": "It's pretty good.",
+      "zh": "它非常好。"
+    },
+    {
+      "id": 300,
+      "start": 940.08,
+      "end": 942.56,
+      "en": "Yeah, they often talk about forensics because they have both parts.",
+      "zh": "是的，他们经常谈论取证，因为他们有两个部分。"
+    },
+    {
+      "id": 301,
+      "start": 942.76,
+      "end": 947.48,
+      "en": "They have the police part and the law part with the lawyers who have to use the evidence in court.",
+      "zh": "他们有警察部分和法律部分，律师必须在法庭上使用证据。"
+    },
+    {
+      "id": 302,
+      "start": 948.08,
+      "end": 948.6,
+      "en": "Very interesting.",
+      "zh": "很有意思。"
+    },
+    {
+      "id": 303,
+      "start": 949.16,
+      "end": 953.66,
+      "en": "And there's also, well, forensic scientists, they take a look at the evidence.",
+      "zh": "还有，好吧，法医科学家，他们看看证据。"
+    },
+    {
+      "id": 304,
+      "start": 953.66,
+      "end": 957.47,
+      "en": "But I think also they examine the body back at the morgue, right?",
+      "zh": "但我认为他们也在太平间检查尸体，对吧？"
+    },
+    {
+      "id": 305,
+      "start": 957.84,
+      "end": 957.97,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 306,
+      "start": 958.84,
+      "end": 961.12,
+      "en": "They look at the body to find out what happened to the body.",
+      "zh": "他们看着身体，找出身体发生了什么。"
+    },
+    {
+      "id": 307,
+      "start": 961.29,
+      "end": 963.49,
+      "en": "This is all a part of reconstructing the crime.",
+      "zh": "这都是重建犯罪的一部分。"
+    },
+    {
+      "id": 308,
+      "start": 964.01,
+      "end": 966.49,
+      "en": "So this person is also sometimes called a coroner, right?",
+      "zh": "所以这个人有时也被称为验尸官，对吧？"
+    },
+    {
+      "id": 309,
+      "start": 966.59,
+      "end": 968.67,
+      "en": "Okay, the person who analyzes the body.",
+      "zh": "好吧，分析身体的人。"
+    },
+    {
+      "id": 310,
+      "start": 969.0,
+      "end": 973.79,
+      "en": "It's pretty scary though if you think about it, having to analyze a body.",
+      "zh": "不过，如果你想一想，那就很可怕了，不得不分析一个身体。"
+    },
+    {
+      "id": 311,
+      "start": 976.32,
+      "end": 978.03,
+      "en": "I think you have to be very experienced.",
+      "zh": "我认为你必须非常有经验。"
+    },
+    {
+      "id": 312,
+      "start": 978.68,
+      "end": 979.64,
+      "en": "It's a very interesting...",
+      "zh": "这是一个非常有趣的..."
+    },
+    {
+      "id": 313,
+      "start": 980.05,
+      "end": 983.41,
+      "en": "I don't even know how somebody becomes a forensic scientist, for example.",
+      "zh": "例如，我什至不知道有人如何成为法医科学家。"
+    },
+    {
+      "id": 314,
+      "start": 983.9,
+      "end": 984.48,
+      "en": "Do you study this in school?",
+      "zh": "你在学校学习这个吗？"
+    },
+    {
+      "id": 315,
+      "start": 984.48,
+      "end": 985.48,
+      "en": "Oh, you can go to school for it.",
+      "zh": "哦，你可以去上学。"
+    },
+    {
+      "id": 316,
+      "start": 985.48,
+      "end": 986.67,
+      "en": "Yeah, they have lots of forensic programs.",
+      "zh": "是的，他们有很多法医计划。"
+    },
+    {
+      "id": 317,
+      "start": 986.73,
+      "end": 996.57,
+      "en": "I think I saw on Discovery Channel, they have a reality TV show about forensic students and they're actually taken to real crime scenes and then they get eliminated one by one.",
+      "zh": "我想我在探索频道上看到过，他们有一个关于法医学生的真人秀节目，他们实际上被带到了真实的犯罪现场，然后他们被一一淘汰。"
+    },
+    {
+      "id": 318,
+      "start": 997.07,
+      "end": 997.91,
+      "en": "I'll have to look it up.",
+      "zh": "我得查一下。"
+    },
+    {
+      "id": 319,
+      "start": 998.16,
+      "end": 1004.32,
+      "en": "Well, I'm curious to know, have you ever heard of this before, forensic science or forensic anthropology?",
+      "zh": "好吧，我很想知道，你以前听说过，法医学或法医人类学吗？"
+    },
+    {
+      "id": 320,
+      "start": 1004.32,
+      "end": 1006.66,
+      "en": "There are lots of people who study this and who do this as a job.",
+      "zh": "有很多人研究这个并将其作为工作。"
+    },
+    {
+      "id": 321,
+      "start": 1007.56,
+      "end": 1014.12,
+      "en": "And if you're not interested in that, maybe you could tell us about what kind of crime drama TV shows you like, because we certainly love them here.",
+      "zh": "如果你对此不感兴趣，也许你可以告诉我们你喜欢什么样的犯罪剧电视节目，因为我们当然喜欢它们。"
+    },
+    {
+      "id": 322,
+      "start": 1014.76,
+      "end": 1016.0,
+      "en": "Our website is EnglishPod.com.",
+      "zh": "我们的网站是 EnglishPod.com。"
+    },
+    {
+      "id": 323,
+      "start": 1016.6,
+      "end": 1017.0,
+      "en": "All right, we'll see everyone there.",
+      "zh": "好吧，我们会在那里见到每个人。"
+    },
+    {
+      "id": 324,
+      "start": 1017.0,
+      "end": 1025.463,
+      "en": "Bye.",
+      "zh": "再见。"
+    }
+  ],
+  "dialog": {
+    "start": 49.88,
+    "end": 171.55,
+    "segmentIds": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61
+    ]
+  }
+}

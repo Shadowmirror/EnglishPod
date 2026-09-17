@@ -1,0 +1,2003 @@
+{
+  "version": 1,
+  "id": 243,
+  "number": "0243",
+  "title": "The Weekend - Talking to a Travel Agent",
+  "audio": "mp3/243. The Weekend - Talking to a Travel Agent.mp3",
+  "duration": 1046.178,
+  "segments": [
+    {
+      "id": 1,
+      "start": 2.83,
+      "end": 5.09,
+      "en": "Hello, everyone, and welcome to EnglishPod.",
+      "zh": "大家好，欢迎来到 EnglishPod。"
+    },
+    {
+      "id": 2,
+      "start": 5.36,
+      "end": 6.4,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 6.4,
+      "end": 6.97,
+      "en": "My name is Catherine.",
+      "zh": "我叫 Catherine。"
+    },
+    {
+      "id": 4,
+      "start": 7.68,
+      "end": 15.72,
+      "en": "And sometimes you're just tired of work, you're tired of everything, you want to go somewhere for a nice romantic weekend, you take a holiday or a getaway.",
+      "zh": "有时你只是厌倦了工作，你厌倦了一切，你想去某个地方度过一个美好的浪漫周末，你去度假或度假。"
+    },
+    {
+      "id": 5,
+      "start": 15.72,
+      "end": 15.85,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 6,
+      "start": 16.72,
+      "end": 18.97,
+      "en": "So why don't we take a look at this word on Vocabulary Preview.",
+      "zh": "那么我们为什么不看看词汇预览中的这个词。"
+    },
+    {
+      "id": 7,
+      "start": 21.52,
+      "end": 22.84,
+      "en": "Vocabulary Preview.",
+      "zh": "词汇预习。"
+    },
+    {
+      "id": 8,
+      "start": 23.39,
+      "end": 26.43,
+      "en": "Okay, so Marco, the word I mentioned is getaway.",
+      "zh": "好吧，马可，我提到的词是逍遥游。"
+    },
+    {
+      "id": 9,
+      "start": 27.33,
+      "end": 29.07,
+      "en": "It has a couple of different meanings in English.",
+      "zh": "它在英语中有几个不同的含义。"
+    },
+    {
+      "id": 10,
+      "start": 29.39,
+      "end": 30.19,
+      "en": "What are we talking about today?",
+      "zh": "我们今天在说什么？"
+    },
+    {
+      "id": 11,
+      "start": 30.45,
+      "end": 37.15,
+      "en": "Well, to get away from someone would be to like leave, right, to try and stay far away.",
+      "zh": "好吧，远离某人就是喜欢离开，对，尝试远离。"
+    },
+    {
+      "id": 12,
+      "start": 37.55,
+      "end": 47.65,
+      "en": "But a getaway, so taking it as a noun, a romantic getaway, is actually to take a holiday or romantic escape from the city, escape from your daily normal life.",
+      "zh": "但是一个度假，所以把它当作一个名词，一个浪漫的假期，实际上是为了度假或浪漫逃离城市，逃离日常生活。"
+    },
+    {
+      "id": 13,
+      "start": 48.01,
+      "end": 48.39,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 14,
+      "start": 48.61,
+      "end": 54.67,
+      "en": "So it's usually kind of brief or sudden, almost like you're just going to sneak out and then come back in a couple of days.",
+      "zh": "所以它通常有点短暂或突然，就像你只是要偷偷溜出去，然后几天后回来。"
+    },
+    {
+      "id": 15,
+      "start": 54.91,
+      "end": 55.19,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 16,
+      "start": 56.08,
+      "end": 65.48,
+      "en": "So many people refer to them as island getaways if you go to an island or a romantic getaway if you have a romantic two-day vacation or something like this.",
+      "zh": "如果您有一个浪漫的两天假期或类似的活动，那么很多人将它们称为岛屿度假胜地或浪漫之旅。"
+    },
+    {
+      "id": 17,
+      "start": 65.48,
+      "end": 65.65,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 18,
+      "start": 66.48,
+      "end": 67.48,
+      "en": "And what are you getting away from?",
+      "zh": "你在逃避什么？"
+    },
+    {
+      "id": 19,
+      "start": 67.48,
+      "end": 74.24,
+      "en": "You're getting away from work, you're getting away from the busyness of the city, you're getting away from noise.",
+      "zh": "你正在远离工作，你正在远离城市的繁忙，你正在远离噪音。"
+    },
+    {
+      "id": 20,
+      "start": 74.24,
+      "end": 77.33,
+      "en": "It's a nice way to get into the countryside or as you said, the islands.",
+      "zh": "这是进入乡村或如您所说的岛屿的好方法。"
+    },
+    {
+      "id": 21,
+      "start": 77.96,
+      "end": 78.19,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 22,
+      "start": 78.96,
+      "end": 81.53,
+      "en": "So I think we can take a look at our dialogue.",
+      "zh": "所以我认为我们可以看看我们的对话。"
+    },
+    {
+      "id": 23,
+      "start": 81.8,
+      "end": 95.56,
+      "en": "We actually were going to a travel agency called Getaway Tours and we're going to try and see if we can book a nice romantic getaway.",
+      "zh": "实际上，我们要去一家名为 Getaway Tours 的旅行社，我们将尝试看看我们是否可以预订一个不错的浪漫之旅。"
+    },
+    {
+      "id": 24,
+      "start": 95.56,
+      "end": 96.9,
+      "en": "Welcome to Perfect Getaway Tours.",
+      "zh": "欢迎来到完美的度假之旅。"
+    },
+    {
+      "id": 25,
+      "start": 97.44,
+      "end": 98.04,
+      "en": "How can I help you?",
+      "zh": "有什么可以帮您？"
+    },
+    {
+      "id": 26,
+      "start": 98.58,
+      "end": 101.7,
+      "en": "I would like to plan a surprise getaway for me and my wife.",
+      "zh": "我想为我和我的妻子计划一次惊喜之旅。"
+    },
+    {
+      "id": 27,
+      "start": 102.08,
+      "end": 102.66,
+      "en": "Very well.",
+      "zh": "很好。"
+    },
+    {
+      "id": 28,
+      "start": 103.26,
+      "end": 111.3,
+      "en": "We have a couple of different options such as beaches, the wilderness, the countryside or even going to a spa for the weekend.",
+      "zh": "我们有几个不同的选择，例如海滩、荒野、乡村，甚至周末去水疗中心。"
+    },
+    {
+      "id": 29,
+      "start": 111.82,
+      "end": 113.84,
+      "en": "I think something in the countryside would be nice.",
+      "zh": "我觉得去乡下度假就不错。"
+    },
+    {
+      "id": 30,
+      "start": 114.28,
+      "end": 114.56,
+      "en": "Perfect.",
+      "zh": "太好了。"
+    },
+    {
+      "id": 31,
+      "start": 115.53,
+      "end": 118.07,
+      "en": "This package includes round trip flights to New Hampshire.",
+      "zh": "此套餐包括飞往新罕布什尔州的往返航班。"
+    },
+    {
+      "id": 32,
+      "start": 118.91,
+      "end": 120.69,
+      "en": "A free airport pickup is included.",
+      "zh": "包括免费机场接送服务。"
+    },
+    {
+      "id": 33,
+      "start": 121.48,
+      "end": 129.2,
+      "en": "Our VIP limousine will pick you up and provide you with complimentary champagne and finger foods to soften this 30 minute ride to the countryside.",
+      "zh": "我们的贵宾豪华轿车会来接您，并提供免费香槟和小点心，让这段前往乡间的半小时车程更加舒适。"
+    },
+    {
+      "id": 34,
+      "start": 130.11,
+      "end": 130.91,
+      "en": "Sounds good.",
+      "zh": "听起来不错。"
+    },
+    {
+      "id": 35,
+      "start": 131.63,
+      "end": 133.55,
+      "en": "What is the hotel that we'll be staying at like?",
+      "zh": "我们会住的酒店是什么样的？"
+    },
+    {
+      "id": 36,
+      "start": 133.97,
+      "end": 135.17,
+      "en": "That is the best part.",
+      "zh": "这是最好的部分。"
+    },
+    {
+      "id": 37,
+      "start": 136.02,
+      "end": 142.42,
+      "en": "Your hotel is actually an old country villa that has been restored and refurbished to accommodate a maximum of 10 guests.",
+      "zh": "您的酒店实际上是一座古老的乡村别墅，经过修复和翻新，最多可容纳 10 位客人。"
+    },
+    {
+      "id": 38,
+      "start": 143.7,
+      "end": 148.96,
+      "en": "You will enjoy an intimate and private time in this very spacious and warm hotel.",
+      "zh": "这家酒店宽敞而温馨，您可以在这里享受亲密、私密的二人时光。"
+    },
+    {
+      "id": 39,
+      "start": 148.96,
+      "end": 152.86,
+      "en": "Included in the price is three meals a day, excluding beverages.",
+      "zh": "价格包括一日三餐，不含饮料。"
+    },
+    {
+      "id": 40,
+      "start": 152.86,
+      "end": 159.02,
+      "en": "You can choose to eat at the fabulous restaurant that offers a stunning view of the lush green garden.",
+      "zh": "您可以在酒店出色的餐厅用餐，欣赏郁郁葱葱的花园美景。"
+    },
+    {
+      "id": 41,
+      "start": 159.02,
+      "end": 166.16,
+      "en": "Or if you prefer, your own private butler can arrange your meal to be served in your room or outside on our terrace.",
+      "zh": "或者，如果您愿意，您自己的私人管家可以安排您的餐点在您的房间或我们的露台外面享用。"
+    },
+    {
+      "id": 42,
+      "start": 166.16,
+      "end": 168.82,
+      "en": "Wow this sounds like something my wife would really enjoy.",
+      "zh": "哇，这听起来像是我妻子真正喜欢的东西。"
+    },
+    {
+      "id": 43,
+      "start": 169.56,
+      "end": 171.62,
+      "en": "Are there any outdoor activities we can take part in?",
+      "zh": "有没有我们可以参加的户外活动？"
+    },
+    {
+      "id": 44,
+      "start": 172.04,
+      "end": 173.22,
+      "en": "Of course.",
+      "zh": "当然。"
+    },
+    {
+      "id": 45,
+      "start": 173.22,
+      "end": 178.71,
+      "en": "The hotel has a stable with beautiful stallions for a very romantic horseback ride along the country trail.",
+      "zh": "酒店的马厩里养着漂亮的骏马，您可以骑马沿乡间小路浪漫地游览。"
+    },
+    {
+      "id": 46,
+      "start": 179.6,
+      "end": 182.98,
+      "en": "You can also go fishing at the nearby lake or visit the local vineyard.",
+      "zh": "您也可以在附近的湖边钓鱼或参观当地的葡萄园。"
+    },
+    {
+      "id": 47,
+      "start": 183.6,
+      "end": 184.02,
+      "en": "I'm sold.",
+      "zh": "我被说服了。"
+    },
+    {
+      "id": 48,
+      "start": 184.6,
+      "end": 185.4,
+      "en": "I want to book this trip.",
+      "zh": "我想预订这次旅行。"
+    },
+    {
+      "id": 49,
+      "start": 185.62,
+      "end": 186.58,
+      "en": "I don't care what it costs.",
+      "zh": "花多少钱我都不在乎。"
+    },
+    {
+      "id": 50,
+      "start": 187.06,
+      "end": 188.26,
+      "en": "Money is no object.",
+      "zh": "钱不是问题。"
+    },
+    {
+      "id": 51,
+      "start": 189.2,
+      "end": 193.8,
+      "en": "Alright we're back.",
+      "zh": "好了，我们回来了。"
+    },
+    {
+      "id": 52,
+      "start": 193.82,
+      "end": 196.2,
+      "en": "So I think this sounds pretty romantic right?",
+      "zh": "所以我觉得这听起来很浪漫，对吧？"
+    },
+    {
+      "id": 53,
+      "start": 196.56,
+      "end": 198.2,
+      "en": "It sounds too good to be true.",
+      "zh": "这听起来好得令人难以置信。"
+    },
+    {
+      "id": 54,
+      "start": 198.2,
+      "end": 198.86,
+      "en": "It's perfect.",
+      "zh": "它是完美的。"
+    },
+    {
+      "id": 55,
+      "start": 199.56,
+      "end": 203.52,
+      "en": "They have butlers and food and horseback riding.",
+      "zh": "他们有管家、食物和骑马。"
+    },
+    {
+      "id": 56,
+      "start": 203.52,
+      "end": 203.74,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 57,
+      "start": 204.52,
+      "end": 210.66,
+      "en": "So she actually mentioned a couple of interesting words there describing where they're going to go or how they're going to spend their time.",
+      "zh": "所以她实际上提到了几个有趣的词，描述了他们要去哪里或他们将如何度过他们的时间。"
+    },
+    {
+      "id": 58,
+      "start": 210.82,
+      "end": 213.52,
+      "en": "So why don't we take a look at those now on Language Takeaway.",
+      "zh": "那么我们为什么不看看现在的语言外卖。"
+    },
+    {
+      "id": 59,
+      "start": 216.36,
+      "end": 217.54,
+      "en": "Language Takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 60,
+      "start": 219.59,
+      "end": 223.41,
+      "en": "Okay so the first word has to do with where this couple is going.",
+      "zh": "好吧，第一个词与这对夫妇的去向有关。"
+    },
+    {
+      "id": 61,
+      "start": 223.91,
+      "end": 224.81,
+      "en": "They're going to the countryside.",
+      "zh": "他们要去乡下。"
+    },
+    {
+      "id": 62,
+      "start": 225.51,
+      "end": 226.71,
+      "en": "That's right the countryside.",
+      "zh": "乡村就对了。"
+    },
+    {
+      "id": 63,
+      "start": 227.39,
+      "end": 229.55,
+      "en": "So what exactly is the countryside?",
+      "zh": "那么乡村到底是什么？"
+    },
+    {
+      "id": 64,
+      "start": 230.07,
+      "end": 234.23,
+      "en": "Well countryside or the country is the opposite of the city.",
+      "zh": "好乡村或国家是城市的对立面。"
+    },
+    {
+      "id": 65,
+      "start": 235.0,
+      "end": 239.74,
+      "en": "So it's anywhere that is rural or less developed than a city.",
+      "zh": "所以它在任何地方都比城市更不发达或不发达。"
+    },
+    {
+      "id": 66,
+      "start": 239.74,
+      "end": 241.99,
+      "en": "Not big skyscrapers or businesses or big towns.",
+      "zh": "不是大型摩天大楼、企业或大城镇。"
+    },
+    {
+      "id": 67,
+      "start": 242.72,
+      "end": 244.47,
+      "en": "It's actually pretty quiet.",
+      "zh": "其实很安静。"
+    },
+    {
+      "id": 68,
+      "start": 245.16,
+      "end": 250.87,
+      "en": "Okay so usually the countryside will have a lot of natural wildlife.",
+      "zh": "好吧，通常乡村会有很多天然野生动物。"
+    },
+    {
+      "id": 69,
+      "start": 251.28,
+      "end": 255.91,
+      "en": "Trees, gardens or farms I think can be considered part of the countryside.",
+      "zh": "我认为树木、花园或农场可以被视为乡村的一部分。"
+    },
+    {
+      "id": 70,
+      "start": 257.16,
+      "end": 260.27,
+      "en": "And so yeah that's basically the complete opposite from a city right?",
+      "zh": "所以是的，这基本上与城市完全相反，对吧？"
+    },
+    {
+      "id": 71,
+      "start": 260.76,
+      "end": 267.21,
+      "en": "Yes and that's why a lot of people take getaways to the countryside because it's as far away from the city as you can go.",
+      "zh": "是的，这就是为什么很多人会去乡村度假的原因，因为它离城市尽可能远。"
+    },
+    {
+      "id": 72,
+      "start": 267.88,
+      "end": 274.68,
+      "en": "Okay very good and to get to the countryside they're actually taking a round trip flight to New Hampshire.",
+      "zh": "好的，要去乡下，他们实际上正在乘坐往返航班飞往新罕布什尔州。"
+    },
+    {
+      "id": 73,
+      "start": 275.32,
+      "end": 284.48,
+      "en": "Alright so round trip is an important vocabulary item when we're talking about travel because you can use this for train tickets, flight tickets, even boat tickets.",
+      "zh": "好吧，当我们谈论旅行时，往返旅行是一个重要的词汇项目，因为您可以将其用于火车票、机票甚至船票。"
+    },
+    {
+      "id": 74,
+      "start": 284.48,
+      "end": 286.92,
+      "en": "It means that you're going there and you're coming back.",
+      "zh": "这意味着你要去那里，你会回来。"
+    },
+    {
+      "id": 75,
+      "start": 287.52,
+      "end": 288.62,
+      "en": "It's basically two tickets.",
+      "zh": "基本上是两张票。"
+    },
+    {
+      "id": 76,
+      "start": 289.24,
+      "end": 295.56,
+      "en": "Right so the opposite would be if you buy a one-way ticket or a one-way flight.",
+      "zh": "正好相反，如果您购买单程机票或单程航班。"
+    },
+    {
+      "id": 77,
+      "start": 295.56,
+      "end": 299.24,
+      "en": "That's right so many people dream of buying a one-way ticket to the island.",
+      "zh": "没错，很多人都梦想着买一张去岛上的单程票。"
+    },
+    {
+      "id": 78,
+      "start": 300.24,
+      "end": 304.0,
+      "en": "They never have to come back but round trip means you're going to come home at some point.",
+      "zh": "他们永远不必回来，但往返意味着你会在某个时候回家。"
+    },
+    {
+      "id": 79,
+      "start": 305.4,
+      "end": 317.44,
+      "en": "So they're actually going round trip to New Hampshire and also they're getting picked up at the airport where they're going to have a nice limo that's going to offer them complimentary champagne and finger foods.",
+      "zh": "所以他们实际上是去新罕布什尔州的往返旅行，而且他们还在机场接机，在那里他们将拥有一辆不错的豪华轿车，将为他们提供免费的香槟和手指食物。"
+    },
+    {
+      "id": 80,
+      "start": 317.96,
+      "end": 319.28,
+      "en": "Okay my favorite kind of champagne.",
+      "zh": "好吧，我最喜欢的香槟。"
+    },
+    {
+      "id": 81,
+      "start": 320.4,
+      "end": 321.4,
+      "en": "Complimentary.",
+      "zh": "免费。"
+    },
+    {
+      "id": 82,
+      "start": 321.4,
+      "end": 323.02,
+      "en": "That's right this means that they're not going to pay for it right?",
+      "zh": "没错，这意味着他们不会为此付出代价，对吧？"
+    },
+    {
+      "id": 83,
+      "start": 323.24,
+      "end": 323.62,
+      "en": "It's free.",
+      "zh": "它是免费的。"
+    },
+    {
+      "id": 84,
+      "start": 324.56,
+      "end": 327.3,
+      "en": "So the company is going to pay for it.",
+      "zh": "因此，该公司将为此付费。"
+    },
+    {
+      "id": 85,
+      "start": 327.98,
+      "end": 331.3,
+      "en": "You can have complimentary food, you can have complimentary service.",
+      "zh": "您可以享用免费食物，您可以获得免费服务。"
+    },
+    {
+      "id": 86,
+      "start": 331.76,
+      "end": 335.48,
+      "en": "These are basically things that someone else is providing for you.",
+      "zh": "这些基本上是其他人为您提供的东西。"
+    },
+    {
+      "id": 87,
+      "start": 335.48,
+      "end": 336.4,
+      "en": "You don't have to pay for them.",
+      "zh": "你不必为他们付费。"
+    },
+    {
+      "id": 88,
+      "start": 337.52,
+      "end": 345.04,
+      "en": "Even on talking about flights sometimes people will get a complimentary upgrade to first class that means they are getting a better service for free.",
+      "zh": "即使在谈论航班时，有时人们也会获得免费升级到头等舱，这意味着他们可以免费获得更好的服务。"
+    },
+    {
+      "id": 89,
+      "start": 345.52,
+      "end": 345.67,
+      "en": "Not me.",
+      "zh": "不是我。"
+    },
+    {
+      "id": 90,
+      "start": 346.61,
+      "end": 352.31,
+      "en": "Hey if you work for an airline I would love complimentary bump to first class.",
+      "zh": "嘿，如果你在一家航空公司工作，我会喜欢免费去头等舱。"
+    },
+    {
+      "id": 91,
+      "start": 353.16,
+      "end": 354.43,
+      "en": "And what about this finger foods?",
+      "zh": "那么这个手指食物呢？"
+    },
+    {
+      "id": 92,
+      "start": 354.92,
+      "end": 355.37,
+      "en": "What about that?",
+      "zh": "那呢？"
+    },
+    {
+      "id": 93,
+      "start": 355.59,
+      "end": 356.41,
+      "en": "That sounds kind of strange.",
+      "zh": "这听起来有点奇怪。"
+    },
+    {
+      "id": 94,
+      "start": 356.77,
+      "end": 360.91,
+      "en": "Yeah it might sound disgusting but it's not actually fingers that you eat.",
+      "zh": "是的，这听起来可能很恶心，但实际上不是你吃的手指。"
+    },
+    {
+      "id": 95,
+      "start": 361.01,
+      "end": 363.93,
+      "en": "It's food that you can eat with your fingers.",
+      "zh": "这是你可以用手指吃的食物。"
+    },
+    {
+      "id": 96,
+      "start": 364.35,
+      "end": 367.63,
+      "en": "So they're like small little treats or snacks that you can have.",
+      "zh": "所以它们就像你可以吃的小零食或零食。"
+    },
+    {
+      "id": 97,
+      "start": 367.83,
+      "end": 376.98,
+      "en": "Exactly usually if you go to a cocktail party or if you go to a party at a museum or an event they'll have these little little foods that you can pick up and eat.",
+      "zh": "通常情况下，如果您去参加鸡尾酒会，或者去博物馆或活动的派对，他们就会有这些小食物，您可以拿起和吃。"
+    },
+    {
+      "id": 98,
+      "start": 377.2,
+      "end": 379.4,
+      "en": "You don't need a fork or a spoon.",
+      "zh": "你不需要叉子或勺子。"
+    },
+    {
+      "id": 99,
+      "start": 379.4,
+      "end": 385.48,
+      "en": "Okay so they're very small convenient little snacks that you can just kind of pick at and pop into your mouth.",
+      "zh": "好吧，它们是非常小的方便的小零食，您可以挑选并塞进嘴里。"
+    },
+    {
+      "id": 100,
+      "start": 386.74,
+      "end": 394.06,
+      "en": "All right and all of this they're doing because they have a 30 minute ride to the countryside so they want to soften the 30 minute ride.",
+      "zh": "好吧，他们正在做的所有事情是因为他们有 30 分钟的车程到乡村，所以他们想软化 30 分钟的骑行。"
+    },
+    {
+      "id": 101,
+      "start": 394.74,
+      "end": 399.08,
+      "en": "Okay so to soften something means to make it more enjoyable or more pleasurable.",
+      "zh": "好吧，软化一些东西意味着让它更愉快或更愉快。"
+    },
+    {
+      "id": 102,
+      "start": 399.08,
+      "end": 403.08,
+      "en": "Because oh no the 30 minute ride is so rough so hard.",
+      "zh": "因为哦，不，30 分钟的骑行是如此艰难如此艰难。"
+    },
+    {
+      "id": 103,
+      "start": 403.08,
+      "end": 404.08,
+      "en": "And so boring.",
+      "zh": "太无聊了。"
+    },
+    {
+      "id": 104,
+      "start": 404.58,
+      "end": 405.54,
+      "en": "So this makes it better.",
+      "zh": "所以这让它变得更好。"
+    },
+    {
+      "id": 105,
+      "start": 405.88,
+      "end": 418.54,
+      "en": "Okay so yeah you can soften things such as the ride to the countryside or you can even soften someone up so maybe give them some nice compliments so they'll be nice to you.",
+      "zh": "好吧，你可以软化一些东西，比如去乡下，或者你甚至可以软化某人，所以也许会给他们一些很好的赞美，这样他们就会对你好。"
+    },
+    {
+      "id": 106,
+      "start": 418.76,
+      "end": 419.88,
+      "en": "That's right to soften.",
+      "zh": "软化的是正确的。"
+    },
+    {
+      "id": 107,
+      "start": 420.46,
+      "end": 426.88,
+      "en": "Okay all right so why don't we take a break and listen to the dialogue again and we'll be back with language takeaway part two.",
+      "zh": "好吧，好吧，我们为什么不休息一下，再听一次对话，我们会带着第二部分语言回来。"
+    },
+    {
+      "id": 108,
+      "start": 430.95,
+      "end": 432.55,
+      "en": "Welcome to Perfect Getaway Tours.",
+      "zh": "欢迎来到完美的度假之旅。"
+    },
+    {
+      "id": 109,
+      "start": 433.09,
+      "end": 433.81,
+      "en": "How can I help you?",
+      "zh": "有什么可以帮您？"
+    },
+    {
+      "id": 110,
+      "start": 434.39,
+      "end": 437.49,
+      "en": "I would like to plan a surprise getaway for me and my wife.",
+      "zh": "我想为我和我的妻子计划一次惊喜之旅。"
+    },
+    {
+      "id": 111,
+      "start": 437.83,
+      "end": 438.41,
+      "en": "Very well.",
+      "zh": "很好。"
+    },
+    {
+      "id": 112,
+      "start": 439.05,
+      "end": 447.09,
+      "en": "We have a couple of different options such as beaches, the wilderness, the countryside or even going to a spa for the weekend.",
+      "zh": "我们有几个不同的选择，例如海滩、荒野、乡村，甚至周末去水疗中心。"
+    },
+    {
+      "id": 113,
+      "start": 447.55,
+      "end": 449.63,
+      "en": "I think something in the countryside would be nice.",
+      "zh": "我觉得去乡下度假就不错。"
+    },
+    {
+      "id": 114,
+      "start": 450.01,
+      "end": 450.31,
+      "en": "Perfect.",
+      "zh": "太好了。"
+    },
+    {
+      "id": 115,
+      "start": 451.19,
+      "end": 453.85,
+      "en": "This package includes round trip flights to New Hampshire.",
+      "zh": "此套餐包括飞往新罕布什尔州的往返航班。"
+    },
+    {
+      "id": 116,
+      "start": 454.63,
+      "end": 456.47,
+      "en": "A free airport pickup is included.",
+      "zh": "包括免费机场接送服务。"
+    },
+    {
+      "id": 117,
+      "start": 457.15,
+      "end": 464.95,
+      "en": "Our VIP limousine will pick you up and provide you with complimentary champagne and finger foods to soften this 30 minute ride to the countryside.",
+      "zh": "我们的贵宾豪华轿车会来接您，并提供免费香槟和小点心，让这段前往乡间的半小时车程更加舒适。"
+    },
+    {
+      "id": 118,
+      "start": 465.81,
+      "end": 466.69,
+      "en": "Sounds good.",
+      "zh": "听起来不错。"
+    },
+    {
+      "id": 119,
+      "start": 467.49,
+      "end": 469.33,
+      "en": "What is the hotel that we'll be staying at like?",
+      "zh": "我们会住的酒店是什么样的？"
+    },
+    {
+      "id": 120,
+      "start": 469.65,
+      "end": 470.93,
+      "en": "That is the best part.",
+      "zh": "这是最好的部分。"
+    },
+    {
+      "id": 121,
+      "start": 471.53,
+      "end": 478.25,
+      "en": "Your hotel is actually an old country villa that has been restored and refurbished to accommodate a maximum of 10 guests.",
+      "zh": "您的酒店实际上是一座古老的乡村别墅，经过修复和翻新，最多可容纳 10 位客人。"
+    },
+    {
+      "id": 122,
+      "start": 479.29,
+      "end": 483.59,
+      "en": "You will enjoy an intimate and private time in this very spacious and warm hotel.",
+      "zh": "这家酒店宽敞而温馨，您可以在这里享受亲密、私密的二人时光。"
+    },
+    {
+      "id": 123,
+      "start": 484.35,
+      "end": 487.43,
+      "en": "Included in the price is three meals a day excluding beverages.",
+      "zh": "价格包括一日三餐，不含饮料。"
+    },
+    {
+      "id": 124,
+      "start": 488.45,
+      "end": 500.77,
+      "en": "You can choose to eat at the fabulous restaurant that offers a stunning view of the lush green gardens or if you prefer, your own private butler can arrange your meal to be served in your room or outside on our terrace.",
+      "zh": "您可以选择在提供郁郁葱葱的绿色花园美景的神话般的餐厅用餐，或者如果您愿意，您自己的私人管家可以将您的餐点安排在您的房间或在我们的露台外面享用。"
+    },
+    {
+      "id": 125,
+      "start": 501.53,
+      "end": 504.43,
+      "en": "Wow, this sounds like something my wife would really enjoy.",
+      "zh": "哇，这听起来像是我妻子真正喜欢的东西。"
+    },
+    {
+      "id": 126,
+      "start": 505.31,
+      "end": 507.43,
+      "en": "Are there any outdoor activities we can take part in?",
+      "zh": "有没有我们可以参加的户外活动？"
+    },
+    {
+      "id": 127,
+      "start": 507.61,
+      "end": 508.03,
+      "en": "Of course.",
+      "zh": "当然。"
+    },
+    {
+      "id": 128,
+      "start": 508.83,
+      "end": 514.41,
+      "en": "The hotel has a stable with beautiful stallions for a very romantic horseback ride along the country trail.",
+      "zh": "酒店的马厩里养着漂亮的骏马，您可以骑马沿乡间小路浪漫地游览。"
+    },
+    {
+      "id": 129,
+      "start": 515.19,
+      "end": 518.69,
+      "en": "You can also go fishing at the nearby lake or visit the local vineyard.",
+      "zh": "您也可以在附近的湖边钓鱼或参观当地的葡萄园。"
+    },
+    {
+      "id": 130,
+      "start": 519.31,
+      "end": 519.81,
+      "en": "I'm sold.",
+      "zh": "我被说服了。"
+    },
+    {
+      "id": 131,
+      "start": 520.31,
+      "end": 521.19,
+      "en": "I want to book this trip.",
+      "zh": "我想预订这次旅行。"
+    },
+    {
+      "id": 132,
+      "start": 521.36,
+      "end": 523.0,
+      "en": "I don't care what it costs.",
+      "zh": "花多少钱我都不在乎。"
+    },
+    {
+      "id": 133,
+      "start": 523.0,
+      "end": 524.05,
+      "en": "Money is no object.",
+      "zh": "钱不是问题。"
+    },
+    {
+      "id": 134,
+      "start": 528.28,
+      "end": 540.28,
+      "en": "Alright, we're back and now we're going to take a look at a good group of adjectives that the travel agent used to describe how great this hotel is, how great the place is.",
+      "zh": "好吧，我们回来了，现在我们要看看旅行社用来描述这家酒店有多棒，这个地方有多棒的一组很好的形容词。"
+    },
+    {
+      "id": 135,
+      "start": 540.28,
+      "end": 541.76,
+      "en": "Language takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 136,
+      "start": 542.32,
+      "end": 548.64,
+      "en": "Okay, so the person on the telephone representing the travel company is trying to sell something.",
+      "zh": "好的，所以代表旅游公司的电话里的人正试图卖东西。"
+    },
+    {
+      "id": 137,
+      "start": 548.86,
+      "end": 554.04,
+      "en": "So she's using these really, really great adjectives to make everything sound awesome.",
+      "zh": "所以她正在使用这些非常非常棒的形容词来让一切听起来都很棒。"
+    },
+    {
+      "id": 138,
+      "start": 554.78,
+      "end": 561.32,
+      "en": "And one of the first things she says is that you will enjoy an intimate and private time in this great hotel.",
+      "zh": "她说的第一件事是，您将在这家很棒的酒店享受私密和私密的时光。"
+    },
+    {
+      "id": 139,
+      "start": 561.78,
+      "end": 569.9,
+      "en": "Okay, so an intimate time, if something is intimate, it means it's very, I don't know, it usually means like romantic, right?",
+      "zh": "好吧，那么亲密的时间，如果某事是亲密的，这意味着它非常，我不知道，这通常意味着像浪漫一样，对吧？"
+    },
+    {
+      "id": 140,
+      "start": 570.06,
+      "end": 572.32,
+      "en": "Romantic, cozy, but also private.",
+      "zh": "浪漫，舒适，但也很私密。"
+    },
+    {
+      "id": 141,
+      "start": 573.24,
+      "end": 577.28,
+      "en": "So something that is intimate is usually between two people.",
+      "zh": "所以一些亲密的东西通常是在两个人之间。"
+    },
+    {
+      "id": 142,
+      "start": 577.28,
+      "end": 582.74,
+      "en": "Okay, so if they're going to have an intimate and private room, that means it's a room only for them.",
+      "zh": "好吧，所以如果他们要有一个私密的私人房间，这意味着它只是一个房间。"
+    },
+    {
+      "id": 143,
+      "start": 583.4,
+      "end": 587.96,
+      "en": "Yes, or if someone has an intimate relationship, that means that they're romantically involved.",
+      "zh": "是的，或者如果某人有亲密关系，这意味着他们是浪漫的。"
+    },
+    {
+      "id": 144,
+      "start": 588.4,
+      "end": 593.44,
+      "en": "Okay, and the travel agent went on to describe how fabulous the restaurant is.",
+      "zh": "好的，旅行社继续描述这家餐厅的美妙之处。"
+    },
+    {
+      "id": 145,
+      "start": 593.6,
+      "end": 595.5,
+      "en": "So this adjective is really nice, fabulous.",
+      "zh": "所以这个形容词真的很好，很棒。"
+    },
+    {
+      "id": 146,
+      "start": 596.14,
+      "end": 598.32,
+      "en": "I think you have to say it like that, fabulous.",
+      "zh": "我想你必须这样说，太棒了。"
+    },
+    {
+      "id": 147,
+      "start": 599.34,
+      "end": 601.44,
+      "en": "So this means that it's just a wonderful restaurant.",
+      "zh": "所以这意味着它只是一家很棒的餐厅。"
+    },
+    {
+      "id": 148,
+      "start": 602.08,
+      "end": 603.98,
+      "en": "And some people even say totally fab.",
+      "zh": "有些人甚至说完全是 FAB。"
+    },
+    {
+      "id": 149,
+      "start": 604.56,
+      "end": 604.88,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 150,
+      "start": 605.72,
+      "end": 607.32,
+      "en": "Can you describe someone as fabulous?",
+      "zh": "你能形容一个人神话吗？"
+    },
+    {
+      "id": 151,
+      "start": 607.32,
+      "end": 607.76,
+      "en": "Not really, right?",
+      "zh": "不是真的吗？"
+    },
+    {
+      "id": 152,
+      "start": 608.06,
+      "end": 609.24,
+      "en": "He is so fabulous.",
+      "zh": "他太棒了。"
+    },
+    {
+      "id": 153,
+      "start": 609.48,
+      "end": 610.7,
+      "en": "She is fabulous.",
+      "zh": "她很棒。"
+    },
+    {
+      "id": 154,
+      "start": 611.04,
+      "end": 611.16,
+      "en": "Really?",
+      "zh": "真的吗？"
+    },
+    {
+      "id": 155,
+      "start": 611.6,
+      "end": 612.6,
+      "en": "You can say that?",
+      "zh": "你可以这么说吗？"
+    },
+    {
+      "id": 156,
+      "start": 612.6,
+      "end": 613.6,
+      "en": "My mom says it all the time.",
+      "zh": "我妈妈一直都这么说。"
+    },
+    {
+      "id": 157,
+      "start": 613.6,
+      "end": 617.16,
+      "en": "Yeah, so it also depends on, I think, your personality.",
+      "zh": "是的，所以这也取决于，我认为，你的个性。"
+    },
+    {
+      "id": 158,
+      "start": 617.19,
+      "end": 619.99,
+      "en": "This is a very, very descriptive word.",
+      "zh": "这是一个非常非常描述性的词。"
+    },
+    {
+      "id": 159,
+      "start": 620.73,
+      "end": 622.17,
+      "en": "So sometimes it's a bit too strong.",
+      "zh": "所以有时候有点太强了。"
+    },
+    {
+      "id": 160,
+      "start": 622.47,
+      "end": 623.21,
+      "en": "You have to be careful.",
+      "zh": "你必须小心。"
+    },
+    {
+      "id": 161,
+      "start": 623.28,
+      "end": 627.84,
+      "en": "But yeah, you can describe a person, you can describe a place, you can describe a thing with the word fabulous.",
+      "zh": "但是，是的，你可以描述一个人，你可以描述一个地方，你可以用神话般的词来形容一个事物。"
+    },
+    {
+      "id": 162,
+      "start": 627.84,
+      "end": 628.09,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 163,
+      "start": 628.84,
+      "end": 634.07,
+      "en": "Apart from having this fabulous restaurant, they also have a stunning view of the gardens.",
+      "zh": "除了拥有这家神话般的餐厅外，他们还可以欣赏到花园的壮丽景色。"
+    },
+    {
+      "id": 164,
+      "start": 634.52,
+      "end": 640.84,
+      "en": "All right, stunning is similar to the word breathtaking or shocking in a good way.",
+      "zh": "好吧，令人惊叹类似于令人叹为观止或令人震惊的词。"
+    },
+    {
+      "id": 165,
+      "start": 640.84,
+      "end": 645.64,
+      "en": "It makes you really, really impressed because it's so beautiful or so unique.",
+      "zh": "它让你非常非常印象深刻，因为它是如此美丽或如此独特。"
+    },
+    {
+      "id": 166,
+      "start": 646.23,
+      "end": 652.58,
+      "en": "Okay, so for example, the views, the view of the beach is stunning, right?",
+      "zh": "好吧，例如，风景，海滩的景色令人惊叹，对吧？"
+    },
+    {
+      "id": 167,
+      "start": 653.14,
+      "end": 654.82,
+      "en": "Or even someone, you can say, wow, you look stunning.",
+      "zh": "甚至有人，你可以说，哇，你看起来很漂亮。"
+    },
+    {
+      "id": 168,
+      "start": 655.56,
+      "end": 656.56,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 169,
+      "start": 656.56,
+      "end": 658.6,
+      "en": "So this is a really great compliment, by the way.",
+      "zh": "所以这是一个非常好的赞美，顺便说一句。"
+    },
+    {
+      "id": 170,
+      "start": 658.6,
+      "end": 659.78,
+      "en": "Usually men say this to women.",
+      "zh": "通常男人会这样对女人说。"
+    },
+    {
+      "id": 171,
+      "start": 660.52,
+      "end": 661.32,
+      "en": "Women don't say this to men.",
+      "zh": "女人不会对男人说这个。"
+    },
+    {
+      "id": 172,
+      "start": 662.02,
+      "end": 669.32,
+      "en": "You can describe someone's clothes as stunning, like her dress was stunning at the Oscars.",
+      "zh": "你可以形容某人的衣服令人惊叹，就像她的衣服在奥斯卡颁奖典礼上令人惊叹一样。"
+    },
+    {
+      "id": 173,
+      "start": 669.32,
+      "end": 673.13,
+      "en": "But if you're a man trying to give a woman a good compliment, believe me, this one works.",
+      "zh": "但如果你是一个男人想给一个女人一个很好的赞美，相信我，这个有效。"
+    },
+    {
+      "id": 174,
+      "start": 673.88,
+      "end": 675.41,
+      "en": "You look stunning this evening.",
+      "zh": "你今晚看起来很漂亮。"
+    },
+    {
+      "id": 175,
+      "start": 675.95,
+      "end": 677.81,
+      "en": "Okay, nice little tip there.",
+      "zh": "好的，那里的小技巧。"
+    },
+    {
+      "id": 176,
+      "start": 678.94,
+      "end": 679.99,
+      "en": "Using the adjective stunning.",
+      "zh": "使用形容词震撼。"
+    },
+    {
+      "id": 177,
+      "start": 680.76,
+      "end": 681.99,
+      "en": "Okay, now lush.",
+      "zh": "好吧，现在郁郁葱葱。"
+    },
+    {
+      "id": 178,
+      "start": 682.78,
+      "end": 683.96,
+      "en": "We have lush green gardens.",
+      "zh": "我们有郁郁葱葱的绿色花园。"
+    },
+    {
+      "id": 179,
+      "start": 683.96,
+      "end": 686.87,
+      "en": "So we're looking, we have a stunning view of the lush green gardens.",
+      "zh": "所以我们正在寻找，我们可以欣赏到郁郁葱葱的绿色花园的壮丽景色。"
+    },
+    {
+      "id": 180,
+      "start": 687.31,
+      "end": 688.41,
+      "en": "This word lush.",
+      "zh": "这个词郁郁葱葱。"
+    },
+    {
+      "id": 181,
+      "start": 689.6,
+      "end": 693.79,
+      "en": "Lush usually describes things that are organic, like plants and flowers.",
+      "zh": "郁郁葱葱通常描述有机物，如植物和花卉。"
+    },
+    {
+      "id": 182,
+      "start": 694.92,
+      "end": 698.88,
+      "en": "And we say this to mean that something is very green, very healthy, very full.",
+      "zh": "我们说这意味着某些东西非常绿色、非常健康、非常饱满。"
+    },
+    {
+      "id": 183,
+      "start": 698.88,
+      "end": 704.2,
+      "en": "Okay, so an apple tree, full with apples and you have a, it just looks great.",
+      "zh": "好吧，一棵苹果树，满是苹果，你有一个，它看起来很棒。"
+    },
+    {
+      "id": 184,
+      "start": 704.4,
+      "end": 705.86,
+      "en": "You would say it's a lush apple tree.",
+      "zh": "你会说这是一棵郁郁葱葱的苹果树。"
+    },
+    {
+      "id": 185,
+      "start": 706.16,
+      "end": 712.68,
+      "en": "Right, or I could even say, I've heard that the rainforests of Ecuador are very, very lush, very green.",
+      "zh": "对，或者我什至可以说，我听说厄瓜多尔的热带雨林非常非常茂盛，非常绿色。"
+    },
+    {
+      "id": 186,
+      "start": 713.08,
+      "end": 713.66,
+      "en": "Yeah, exactly.",
+      "zh": "对，没错。"
+    },
+    {
+      "id": 187,
+      "start": 714.14,
+      "end": 717.44,
+      "en": "All right, so lush, they're very abundant, very green, very healthy.",
+      "zh": "好吧，这么茂盛，它们非常丰富，非常绿色，非常健康。"
+    },
+    {
+      "id": 188,
+      "start": 718.34,
+      "end": 727.86,
+      "en": "And apart from these adjectives, the sales agent also described that the country villa had recently been restored and refurbished.",
+      "zh": "除了这些形容词外，销售代理还描述了乡村别墅最近进行了修复和翻新。"
+    },
+    {
+      "id": 189,
+      "start": 728.12,
+      "end": 731.12,
+      "en": "So what about these two words, restored and refurbished?",
+      "zh": "那么这两个词，修复和翻新呢？"
+    },
+    {
+      "id": 190,
+      "start": 731.12,
+      "end": 739.08,
+      "en": "Okay, basically what she's saying is that this house, this big villa, was recently completely remade on the inside.",
+      "zh": "好吧，基本上她说的是，这所房子，这座大别墅，最近完全在里面重新制作。"
+    },
+    {
+      "id": 191,
+      "start": 740.08,
+      "end": 742.84,
+      "en": "So the appearance, the look doesn't really change.",
+      "zh": "所以外观，外观并没有真正改变。"
+    },
+    {
+      "id": 192,
+      "start": 742.84,
+      "end": 747.56,
+      "en": "It's still an old, beautiful villa, but maybe the insides were old or needed to be updated.",
+      "zh": "它仍然是一座古老而美丽的别墅，但内部可能是旧的或需要更新。"
+    },
+    {
+      "id": 193,
+      "start": 748.38,
+      "end": 757.96,
+      "en": "And so that means that the plumbing, the lights, the walls, the paint, that was all restored, maybe to look like the original, very, very beautiful and clean.",
+      "zh": "所以这意味着管道、灯光、墙壁、油漆，都被修复了，也许看起来像原来的，非常非常漂亮和干净。"
+    },
+    {
+      "id": 194,
+      "start": 757.96,
+      "end": 766.6,
+      "en": "But also it was refurbished, which means that the fittings and the carpet and maybe the lights and all the furniture, that was also new again.",
+      "zh": "但它也进行了翻新，这意味着配件和地毯，也许是灯和所有家具，这也是新的。"
+    },
+    {
+      "id": 195,
+      "start": 766.62,
+      "end": 774.16,
+      "en": "Okay, so we usually hear about this sometimes in the news when they are restoring an old church or an old building.",
+      "zh": "好的，所以我们有时会在新闻中听到这一点，当他们修复旧教堂或旧建筑时。"
+    },
+    {
+      "id": 196,
+      "start": 774.72,
+      "end": 779.04,
+      "en": "That means they're making it, they're trying to save it and make it look like it used to.",
+      "zh": "这意味着他们正在成功，他们正在尝试保存它并使其看起来像以前一样。"
+    },
+    {
+      "id": 197,
+      "start": 779.16,
+      "end": 781.2,
+      "en": "They're not changing it, right?",
+      "zh": "他们没有改变它，对吧？"
+    },
+    {
+      "id": 198,
+      "start": 781.2,
+      "end": 786.48,
+      "en": "They're not trying to make it look new, but they're trying to make it look like it used to look before it got old.",
+      "zh": "他们并没有试图让它看起来很新，而是试图让它看起来像它在变老之前看起来像以前看起来一样。"
+    },
+    {
+      "id": 199,
+      "start": 787.24,
+      "end": 791.52,
+      "en": "You know how sometimes old things are worn and they're not pretty anymore?",
+      "zh": "你知道有时候旧的东西是穿的，它们不再漂亮了吗？"
+    },
+    {
+      "id": 200,
+      "start": 791.82,
+      "end": 795.56,
+      "en": "Well, what they're trying to do is make it really shiny and beautiful.",
+      "zh": "好吧，他们想要做的是让它真正闪亮和美丽。"
+    },
+    {
+      "id": 201,
+      "start": 796.14,
+      "end": 801.82,
+      "en": "And refurbish is basically to give it, as you said, new carpet or sometimes new furniture or stuff like that.",
+      "zh": "正如你所说，翻新基本上是给它，新地毯，有时是新家具或类似的东西。"
+    },
+    {
+      "id": 202,
+      "start": 802.04,
+      "end": 804.52,
+      "en": "So many people refurbish their homes, right?",
+      "zh": "这么多人翻新家园，对吧？"
+    },
+    {
+      "id": 203,
+      "start": 804.52,
+      "end": 804.7,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 204,
+      "start": 805.52,
+      "end": 808.38,
+      "en": "And it's a very, very popular thing to do with older houses.",
+      "zh": "对于老房子来说，这是一件非常非常流行的事情。"
+    },
+    {
+      "id": 205,
+      "start": 808.76,
+      "end": 813.24,
+      "en": "You buy them, you fix them, you restore them, you refurbish them so that you want to live in them.",
+      "zh": "你买它们，你修理它们，你恢复它们，你翻新它们，以便你想住在其中。"
+    },
+    {
+      "id": 206,
+      "start": 813.38,
+      "end": 813.52,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 207,
+      "start": 814.96,
+      "end": 815.96,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 208,
+      "start": 815.96,
+      "end": 816.96,
+      "en": "So a lot of great things from this dialogue.",
+      "zh": "所以从这次对话中有很多很棒的东西。"
+    },
+    {
+      "id": 209,
+      "start": 816.96,
+      "end": 828.04,
+      "en": "I think we should listen to it one more time and we'll be back in a little bit.",
+      "zh": "我想我们应该再听一遍，我们会回来一会儿。"
+    },
+    {
+      "id": 210,
+      "start": 828.04,
+      "end": 829.34,
+      "en": "Welcome to Perfect Getaway Tours.",
+      "zh": "欢迎来到完美的度假之旅。"
+    },
+    {
+      "id": 211,
+      "start": 829.92,
+      "end": 830.5,
+      "en": "How can I help you?",
+      "zh": "有什么可以帮您？"
+    },
+    {
+      "id": 212,
+      "start": 831.16,
+      "end": 834.14,
+      "en": "I would like to plan a surprise getaway for me and my wife.",
+      "zh": "我想为我和我的妻子计划一次惊喜之旅。"
+    },
+    {
+      "id": 213,
+      "start": 834.7,
+      "end": 835.1,
+      "en": "Very well.",
+      "zh": "很好。"
+    },
+    {
+      "id": 214,
+      "start": 835.72,
+      "end": 843.8,
+      "en": "We have a couple of different options such as beaches, the wilderness, the countryside, or even going to a spa for the weekend.",
+      "zh": "我们有几个不同的选择，例如海滩、荒野、乡村，甚至周末去水疗中心。"
+    },
+    {
+      "id": 215,
+      "start": 844.22,
+      "end": 846.32,
+      "en": "I think something in the countryside would be nice.",
+      "zh": "我觉得去乡下度假就不错。"
+    },
+    {
+      "id": 216,
+      "start": 846.68,
+      "end": 847.04,
+      "en": "Perfect.",
+      "zh": "太好了。"
+    },
+    {
+      "id": 217,
+      "start": 847.86,
+      "end": 850.5,
+      "en": "This package includes round trip flights to New Hampshire.",
+      "zh": "此套餐包括飞往新罕布什尔州的往返航班。"
+    },
+    {
+      "id": 218,
+      "start": 851.36,
+      "end": 853.12,
+      "en": "A free airport pickup is included.",
+      "zh": "包括免费机场接送服务。"
+    },
+    {
+      "id": 219,
+      "start": 854.17,
+      "end": 861.61,
+      "en": "Our VIP limousine will pick you up and provide you with complimentary champagne and finger foods to soften the 30 minute ride to the countryside.",
+      "zh": "我们的 VIP 豪华轿车将接您并为您提供免费的香槟和手指食物，以软化 30 分钟的乡村之旅。"
+    },
+    {
+      "id": 220,
+      "start": 863.16,
+      "end": 863.39,
+      "en": "Sounds good.",
+      "zh": "听起来不错。"
+    },
+    {
+      "id": 221,
+      "start": 864.32,
+      "end": 866.01,
+      "en": "What is the hotel that we'll be staying at like?",
+      "zh": "我们会住的酒店是什么样的？"
+    },
+    {
+      "id": 222,
+      "start": 866.76,
+      "end": 867.61,
+      "en": "That is the best part.",
+      "zh": "这是最好的部分。"
+    },
+    {
+      "id": 223,
+      "start": 868.6,
+      "end": 874.87,
+      "en": "Your hotel is actually an old country villa that has been restored and refurbished to accommodate a maximum of 10 guests.",
+      "zh": "您的酒店实际上是一座古老的乡村别墅，经过修复和翻新，最多可容纳 10 位客人。"
+    },
+    {
+      "id": 224,
+      "start": 876.12,
+      "end": 880.27,
+      "en": "You will enjoy an intimate and private time in this very spacious and warm hotel.",
+      "zh": "这家酒店宽敞而温馨，您可以在这里享受亲密、私密的二人时光。"
+    },
+    {
+      "id": 225,
+      "start": 881.4,
+      "end": 884.13,
+      "en": "Included in the price is three meals a day, excluding beverages.",
+      "zh": "价格包括一日三餐，不含饮料。"
+    },
+    {
+      "id": 226,
+      "start": 885.28,
+      "end": 891.44,
+      "en": "You can choose to eat at the fabulous restaurant that offers a stunning view of the lush green gardens.",
+      "zh": "您可以选择在提供郁郁葱葱的绿色花园美景的神话般的餐厅用餐。"
+    },
+    {
+      "id": 227,
+      "start": 891.44,
+      "end": 898.12,
+      "en": "Or if you prefer, your own private butler can arrange your meal to be served in your room or outside on our terrace.",
+      "zh": "或者，如果您愿意，您自己的私人管家可以安排您的餐点在您的房间或我们的露台外面享用。"
+    },
+    {
+      "id": 228,
+      "start": 898.12,
+      "end": 902.0,
+      "en": "Wow, this sounds like something my wife would really enjoy.",
+      "zh": "哇，这听起来像是我妻子真正喜欢的东西。"
+    },
+    {
+      "id": 229,
+      "start": 902.0,
+      "end": 904.08,
+      "en": "Are there any outdoor activities we can take part in?",
+      "zh": "有没有我们可以参加的户外活动？"
+    },
+    {
+      "id": 230,
+      "start": 904.36,
+      "end": 904.74,
+      "en": "Of course.",
+      "zh": "当然。"
+    },
+    {
+      "id": 231,
+      "start": 905.5,
+      "end": 911.14,
+      "en": "The hotel has a stable with beautiful stallions for a very romantic horseback ride along the country trail.",
+      "zh": "酒店的马厩里养着漂亮的骏马，您可以骑马沿乡间小路浪漫地游览。"
+    },
+    {
+      "id": 232,
+      "start": 911.82,
+      "end": 915.42,
+      "en": "You can also go fishing at the nearby lake or visit the local vineyard.",
+      "zh": "您也可以在附近的湖边钓鱼或参观当地的葡萄园。"
+    },
+    {
+      "id": 233,
+      "start": 915.84,
+      "end": 916.46,
+      "en": "I'm sold.",
+      "zh": "我被说服了。"
+    },
+    {
+      "id": 234,
+      "start": 917.04,
+      "end": 918.04,
+      "en": "I want to book this trip.",
+      "zh": "我想预订这次旅行。"
+    },
+    {
+      "id": 235,
+      "start": 918.08,
+      "end": 919.04,
+      "en": "I don't care what it costs.",
+      "zh": "花多少钱我都不在乎。"
+    },
+    {
+      "id": 236,
+      "start": 919.52,
+      "end": 920.74,
+      "en": "Money is no object.",
+      "zh": "钱不是问题。"
+    },
+    {
+      "id": 237,
+      "start": 927.64,
+      "end": 930.24,
+      "en": "All right, so talking about getaways.",
+      "zh": "好吧，所以谈谈度假。"
+    },
+    {
+      "id": 238,
+      "start": 930.24,
+      "end": 936.84,
+      "en": "Now the sales agent offered him options such as beach, wilderness, countryside, or even a spa.",
+      "zh": "现在，销售代理为他提供了海滩、荒野、乡村甚至水疗中心等选择。"
+    },
+    {
+      "id": 239,
+      "start": 937.5,
+      "end": 938.08,
+      "en": "Which one do you prefer?",
+      "zh": "你更喜欢哪一种？"
+    },
+    {
+      "id": 240,
+      "start": 938.7,
+      "end": 939.06,
+      "en": "Wilderness.",
+      "zh": "荒野。"
+    },
+    {
+      "id": 241,
+      "start": 939.56,
+      "end": 939.78,
+      "en": "For sure.",
+      "zh": "当然。"
+    },
+    {
+      "id": 242,
+      "start": 940.24,
+      "end": 941.84,
+      "en": "You want to go into the forest, the jungle.",
+      "zh": "你想进入森林，丛林。"
+    },
+    {
+      "id": 243,
+      "start": 942.22,
+      "end": 943.82,
+      "en": "Yes, I hate to say it.",
+      "zh": "是的，我不想说。"
+    },
+    {
+      "id": 244,
+      "start": 943.92,
+      "end": 945.88,
+      "en": "I think beaches are boring.",
+      "zh": "我认为海滩很无聊。"
+    },
+    {
+      "id": 245,
+      "start": 946.64,
+      "end": 947.26,
+      "en": "Sorry, mom.",
+      "zh": "对不起，妈妈。"
+    },
+    {
+      "id": 246,
+      "start": 947.48,
+      "end": 949.72,
+      "en": "I know you love beaches.",
+      "zh": "我知道你喜欢海滩。"
+    },
+    {
+      "id": 247,
+      "start": 949.72,
+      "end": 951.08,
+      "en": "I like to do stuff when I'm away.",
+      "zh": "我喜欢在我不在的时候做一些事情。"
+    },
+    {
+      "id": 248,
+      "start": 951.96,
+      "end": 954.66,
+      "en": "I love the desert too, but the wilderness, somewhere where I'm outside.",
+      "zh": "我也喜欢沙漠，但荒野，我在外面的某个地方。"
+    },
+    {
+      "id": 249,
+      "start": 955.84,
+      "end": 956.74,
+      "en": "I live in a city.",
+      "zh": "我住在一个城市。"
+    },
+    {
+      "id": 250,
+      "start": 957.0,
+      "end": 957.72,
+      "en": "I don't want to go to a city.",
+      "zh": "我不想去城市。"
+    },
+    {
+      "id": 251,
+      "start": 957.92,
+      "end": 961.88,
+      "en": "I like to go somewhere where I can walk around, hike, ride a bike, do things like that.",
+      "zh": "我喜欢去一个可以四处走动、徒步旅行、骑自行车、做类似事情的地方。"
+    },
+    {
+      "id": 252,
+      "start": 962.34,
+      "end": 962.76,
+      "en": "What about you?",
+      "zh": "你呢？"
+    },
+    {
+      "id": 253,
+      "start": 963.16,
+      "end": 967.08,
+      "en": "I actually don't have a favorite, actually.",
+      "zh": "实际上，我没有最喜欢的。"
+    },
+    {
+      "id": 254,
+      "start": 967.84,
+      "end": 969.8,
+      "en": "Sometimes it's nice for me to go to the beach and relax.",
+      "zh": "有时我去海滩放松一下对我来说很好。"
+    },
+    {
+      "id": 255,
+      "start": 969.98,
+      "end": 974.02,
+      "en": "I do tend to get a little bit bored after maybe two days of doing nothing on the beach.",
+      "zh": "在沙滩上无所事事的两天后，我确实会有点无聊。"
+    },
+    {
+      "id": 256,
+      "start": 974.46,
+      "end": 981.48,
+      "en": "But it does give a good opportunity to do other things, beach activities like snorkeling or scuba diving, which can also be really fun.",
+      "zh": "但它确实提供了做其他事情的好机会，例如浮潜或水肺潜水等海滩活动，这也很有趣。"
+    },
+    {
+      "id": 257,
+      "start": 981.92,
+      "end": 989.66,
+      "en": "But definitely I do enjoy the wilderness as well, the jungle and rafting or camping.",
+      "zh": "但我绝对也很喜欢荒野，丛林和漂流或露营。"
+    },
+    {
+      "id": 258,
+      "start": 990.29,
+      "end": 990.95,
+      "en": "It's good fun.",
+      "zh": "这很有趣。"
+    },
+    {
+      "id": 259,
+      "start": 991.76,
+      "end": 995.47,
+      "en": "The insects can be a bit of a nuisance at times.",
+      "zh": "昆虫有时会有点麻烦。"
+    },
+    {
+      "id": 260,
+      "start": 996.0,
+      "end": 996.41,
+      "en": "Or the rain.",
+      "zh": "或雨。"
+    },
+    {
+      "id": 261,
+      "start": 996.81,
+      "end": 997.29,
+      "en": "Or the rain.",
+      "zh": "或雨。"
+    },
+    {
+      "id": 262,
+      "start": 998.0,
+      "end": 1001.64,
+      "en": "Getting in the snow or the rain is so horrible.",
+      "zh": "下雪或下雨真是太可怕了。"
+    },
+    {
+      "id": 263,
+      "start": 1001.64,
+      "end": 1002.88,
+      "en": "But other than that, yeah, it's great.",
+      "zh": "但除此之外，是的，它很棒。"
+    },
+    {
+      "id": 264,
+      "start": 1003.03,
+      "end": 1007.55,
+      "en": "I know not many people enjoy these types of outdoor getaways.",
+      "zh": "我知道没有多少人喜欢这些类型的户外度假。"
+    },
+    {
+      "id": 265,
+      "start": 1008.18,
+      "end": 1010.66,
+      "en": "But of course, you have spas.",
+      "zh": "但当然，你有水疗中心。"
+    },
+    {
+      "id": 266,
+      "start": 1010.88,
+      "end": 1013.84,
+      "en": "I know many people enjoy going to a spa, having a mud bath.",
+      "zh": "我知道很多人都喜欢去水疗中心，洗个泥浴。"
+    },
+    {
+      "id": 267,
+      "start": 1014.28,
+      "end": 1015.16,
+      "en": "Nothing wrong with that.",
+      "zh": "这没有错。"
+    },
+    {
+      "id": 268,
+      "start": 1015.4,
+      "end": 1016.78,
+      "en": "Getting your nails done, having a massage.",
+      "zh": "做指甲，按摩。"
+    },
+    {
+      "id": 269,
+      "start": 1017.92,
+      "end": 1021.08,
+      "en": "Getting the whole royal treatment, like we say.",
+      "zh": "就像我们说的那样，得到整个皇室待遇。"
+    },
+    {
+      "id": 270,
+      "start": 1021.08,
+      "end": 1022.74,
+      "en": "So this is what we want to know now.",
+      "zh": "所以这就是我们现在想知道的。"
+    },
+    {
+      "id": 271,
+      "start": 1024.04,
+      "end": 1025.84,
+      "en": "When you go on vacation, what do you like to do?",
+      "zh": "当你去度假时，你喜欢做什么？"
+    },
+    {
+      "id": 272,
+      "start": 1025.84,
+      "end": 1028.99,
+      "en": "Do you like to get away to the tropical beaches?",
+      "zh": "你喜欢去热带海滩吗？"
+    },
+    {
+      "id": 273,
+      "start": 1029.27,
+      "end": 1031.69,
+      "en": "Do you like to go to the islands or the jungle?",
+      "zh": "你喜欢去岛上还是丛林？"
+    },
+    {
+      "id": 274,
+      "start": 1032.12,
+      "end": 1033.12,
+      "en": "What do you like to do?",
+      "zh": "你喜欢做什么？"
+    },
+    {
+      "id": 275,
+      "start": 1033.12,
+      "end": 1033.45,
+      "en": "Let us know.",
+      "zh": "告诉我们吧。"
+    },
+    {
+      "id": 276,
+      "start": 1034.12,
+      "end": 1035.52,
+      "en": "Our website is EnglishPod.com.",
+      "zh": "我们的网站是 EnglishPod.com。"
+    },
+    {
+      "id": 277,
+      "start": 1035.52,
+      "end": 1036.23,
+      "en": "We hope to see you there.",
+      "zh": "希望到时候见到你。"
+    },
+    {
+      "id": 278,
+      "start": 1036.52,
+      "end": 1036.65,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 279,
+      "start": 1037.52,
+      "end": 1038.52,
+      "en": "We'll see you guys next time.",
+      "zh": "下次见，各位。"
+    },
+    {
+      "id": 280,
+      "start": 1038.52,
+      "end": 1039.52,
+      "en": "Bye.",
+      "zh": "再见。"
+    }
+  ],
+  "dialog": {
+    "start": 95.56,
+    "end": 188.26,
+    "segmentIds": [
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50
+    ]
+  }
+}

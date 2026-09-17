@@ -1,0 +1,1526 @@
+{
+  "version": 1,
+  "id": 113,
+  "number": "0113",
+  "title": "The Office - Sorry, I'm Late",
+  "audio": "mp3/113. The Office - Sorry, I'm Late.mp3",
+  "duration": 800.6791875,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.65,
+      "en": "Hello English learners, welcome back to another great lesson here at EnglishPod.",
+      "zh": "您好英语学习者，欢迎回到 Englishpod 的另一个精彩课程。"
+    },
+    {
+      "id": 2,
+      "start": 5.96,
+      "end": 6.41,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 6.81,
+      "end": 7.41,
+      "en": "And I'm Erica.",
+      "zh": "我叫 Erica。"
+    },
+    {
+      "id": 4,
+      "start": 8.15,
+      "end": 13.61,
+      "en": "And today we are going to have a lesson that is going to be very useful when you arrive late.",
+      "zh": "今天我们将有一个教训，当你迟到时，它将非常有用。"
+    },
+    {
+      "id": 5,
+      "start": 14.05,
+      "end": 22.13,
+      "en": "Yes, well, we all have arrived late to something and we need a good way of saying sorry and saying why we were late.",
+      "zh": "是的，好吧，我们都迟到了，我们需要一个很好的方式来表达抱歉和说我们迟到的原因。"
+    },
+    {
+      "id": 6,
+      "start": 22.47,
+      "end": 31.0,
+      "en": "So today we're not only going to be looking at vocabulary used to explain why you are late but also some typical excuses of why people are late.",
+      "zh": "所以今天我们不仅要研究用于解释为什么迟到的词汇，还要研究人们为什么迟到的一些典型借口。"
+    },
+    {
+      "id": 7,
+      "start": 31.16,
+      "end": 34.56,
+      "en": "Right, so some normal reasons for saying why you're late.",
+      "zh": "对，所以说你迟到的一些正常原因。"
+    },
+    {
+      "id": 8,
+      "start": 35.04,
+      "end": 37.52,
+      "en": "Well, why don't we get started with the dialogue.",
+      "zh": "好吧，我们为什么不开始对话。"
+    },
+    {
+      "id": 9,
+      "start": 38.0,
+      "end": 40.32,
+      "en": "Now we're going to hear five people in the dialogue.",
+      "zh": "现在我们将在对话中听到五个人的声音。"
+    },
+    {
+      "id": 10,
+      "start": 40.76,
+      "end": 47.42,
+      "en": "So at the beginning we'll hear the boss and the assistant and then we'll hear three people who are arriving late.",
+      "zh": "所以一开始我们会听到老板和助手的声音，然后我们会听到三个迟到的人。"
+    },
+    {
+      "id": 11,
+      "start": 59.12,
+      "end": 79.36,
+      "en": "Where is everyone?",
+      "zh": "大家都去哪儿了？"
+    },
+    {
+      "id": 12,
+      "start": 79.36,
+      "end": 81.44,
+      "en": "Scotch has called and said that he's running late.",
+      "zh": "苏格兰人打电话说他迟到了。"
+    },
+    {
+      "id": 13,
+      "start": 81.44,
+      "end": 83.58,
+      "en": "His last meeting ran over, but he's on his way now.",
+      "zh": "上一场会议拖延了，不过他已经在路上。"
+    },
+    {
+      "id": 14,
+      "start": 86.25,
+      "end": 87.73,
+      "en": "Guys, this is not acceptable.",
+      "zh": "各位，这可不行。"
+    },
+    {
+      "id": 15,
+      "start": 88.56,
+      "end": 91.72,
+      "en": "If I say the meeting starts at 10, the meeting starts at 10.",
+      "zh": "如果我说会议从 10 点开始，会议从 10 点开始。"
+    },
+    {
+      "id": 16,
+      "start": 91.72,
+      "end": 92.15,
+      "en": "Not 10.01.",
+      "zh": "不是 10.01。"
+    },
+    {
+      "id": 17,
+      "start": 92.88,
+      "end": 93.91,
+      "en": "And definitely not 10.20.",
+      "zh": "绝对不是 10.20。"
+    },
+    {
+      "id": 18,
+      "start": 94.44,
+      "end": 96.4,
+      "en": "All right, let's get started.",
+      "zh": "好吧，让我们开始吧。"
+    },
+    {
+      "id": 19,
+      "start": 96.4,
+      "end": 97.95,
+      "en": "So the first thing I want to talk about is our-",
+      "zh": "所以我想谈的第一件事是我们的——"
+    },
+    {
+      "id": 20,
+      "start": 97.96,
+      "end": 99.4,
+      "en": "I'm really sorry everyone.",
+      "zh": "我真的很抱歉大家。"
+    },
+    {
+      "id": 21,
+      "start": 99.41,
+      "end": 101.19,
+      "en": "I know I'm late, but really it's not my fault.",
+      "zh": "我知道我迟到了，但这真的不是我的错。"
+    },
+    {
+      "id": 22,
+      "start": 101.45,
+      "end": 104.57,
+      "en": "I was getting a coffee at Starbucks and the line was way, way too long.",
+      "zh": "我在星巴克喝杯咖啡，这条线太长了。"
+    },
+    {
+      "id": 23,
+      "start": 105.03,
+      "end": 106.93,
+      "en": "I was waiting for 20 minutes to get my coffee.",
+      "zh": "我等了20分钟才拿到咖啡。"
+    },
+    {
+      "id": 24,
+      "start": 111.92,
+      "end": 115.33,
+      "en": "All right, so well, good excuses in general, except the last one.",
+      "zh": "好吧，好吧，一般来说，很好的借口，除了最后一个。"
+    },
+    {
+      "id": 25,
+      "start": 115.48,
+      "end": 118.96,
+      "en": "I don't think that's such a good excuse of why you're late, right?",
+      "zh": "我不认为这是你迟到的好借口，对吧？"
+    },
+    {
+      "id": 26,
+      "start": 118.99,
+      "end": 123.65,
+      "en": "Yeah, I don't really think if I was the boss, I would be very happy with this employee.",
+      "zh": "是的，我真的不认为如果我是老板，我会对这位员工感到非常满意。"
+    },
+    {
+      "id": 27,
+      "start": 124.09,
+      "end": 125.91,
+      "en": "Yeah, I don't think coffee is that important.",
+      "zh": "是的，我不认为咖啡有那么重要。"
+    },
+    {
+      "id": 28,
+      "start": 126.61,
+      "end": 131.73,
+      "en": "But some of the excuses were good and some of the language they used to describe the excuses was really great.",
+      "zh": "但有些借口很好，他们用来描述借口的一些语言真的很棒。"
+    },
+    {
+      "id": 29,
+      "start": 131.97,
+      "end": 133.91,
+      "en": "So let's look at that now in Language Takeaway.",
+      "zh": "所以让我们现在在语言外卖中看看。"
+    },
+    {
+      "id": 30,
+      "start": 135.77,
+      "end": 136.71,
+      "en": "Language Takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 31,
+      "start": 137.32,
+      "end": 145.84,
+      "en": "All right, on Language Takeaway today we have four words that we're going to be looking at and well, let's get started with the first one.",
+      "zh": "好吧，在今天的语言外卖中，我们将看到四个单词，好吧，让我们开始使用第一个。"
+    },
+    {
+      "id": 32,
+      "start": 145.84,
+      "end": 154.3,
+      "en": "So Joe called the office assistant and explained that she will be late because she got tied up with a client.",
+      "zh": "于是乔打电话给办公室助理，并解释说她会迟到，因为她和一个客户在一起。"
+    },
+    {
+      "id": 33,
+      "start": 154.92,
+      "end": 156.2,
+      "en": "To get tied up.",
+      "zh": "被绑起来。"
+    },
+    {
+      "id": 34,
+      "start": 156.96,
+      "end": 159.15,
+      "en": "So I got tied up with a client.",
+      "zh": "所以我和一个客户捆绑在一起。"
+    },
+    {
+      "id": 35,
+      "start": 159.4,
+      "end": 169.04,
+      "en": "All right, this is a really common reason for being late, but why don't we listen to some examples to help us understand what it means.",
+      "zh": "好吧，这是迟到的一个非常常见的原因，但我们为什么不听一些例子来帮助我们理解它的含义。"
+    },
+    {
+      "id": 36,
+      "start": 169.04,
+      "end": 169.41,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 37,
+      "start": 171.94,
+      "end": 172.88,
+      "en": "Sorry, I'm late, honey.",
+      "zh": "对不起，我来晚了，亲爱的。"
+    },
+    {
+      "id": 38,
+      "start": 173.16,
+      "end": 175.08,
+      "en": "I got tied up at the office.",
+      "zh": "我在办公室被绑起来。"
+    },
+    {
+      "id": 39,
+      "start": 177.56,
+      "end": 181.0,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 40,
+      "start": 181.05,
+      "end": 183.99,
+      "en": "I was tied up on the phone all afternoon and didn't get any work done.",
+      "zh": "我整个下午都被绑在电话里，没有完成任何工作。"
+    },
+    {
+      "id": 41,
+      "start": 186.97,
+      "end": 187.87,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 42,
+      "start": 190.83,
+      "end": 192.77,
+      "en": "I got tied up in traffic on the way here.",
+      "zh": "我在这里的路上堵车了。"
+    },
+    {
+      "id": 43,
+      "start": 195.8,
+      "end": 200.56,
+      "en": "All right, so if you get tied up, it means that you get busy with something that you can't avoid.",
+      "zh": "好吧，所以如果你被束缚，这意味着你忙于一些你无法避免的事情。"
+    },
+    {
+      "id": 44,
+      "start": 200.85,
+      "end": 206.41,
+      "en": "Right, you're busy with something that's so important, it's like you are tied by a rope to that thing.",
+      "zh": "对，你正忙于一些非常重要的事情，就像你被绳子绑在那件事上一样。"
+    },
+    {
+      "id": 45,
+      "start": 206.75,
+      "end": 208.31,
+      "en": "Okay, I got tied up.",
+      "zh": "好吧，我被绑起来了。"
+    },
+    {
+      "id": 46,
+      "start": 208.57,
+      "end": 209.83,
+      "en": "I'm sorry, I got tied up.",
+      "zh": "对不起，我被捆绑了。"
+    },
+    {
+      "id": 47,
+      "start": 210.2,
+      "end": 211.2,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 48,
+      "start": 211.2,
+      "end": 218.13,
+      "en": "All right, now the first person that arrived to the office will explain that there was a huge traffic jam on the highway.",
+      "zh": "好吧，现在第一个到达办公室的人会解释说，高速公路上堵车了。"
+    },
+    {
+      "id": 49,
+      "start": 218.56,
+      "end": 219.65,
+      "en": "A traffic jam.",
+      "zh": "交通堵塞。"
+    },
+    {
+      "id": 50,
+      "start": 220.44,
+      "end": 221.79,
+      "en": "A traffic jam.",
+      "zh": "交通堵塞。"
+    },
+    {
+      "id": 51,
+      "start": 222.16,
+      "end": 223.87,
+      "en": "A huge traffic jam.",
+      "zh": "一个巨大的交通堵塞。"
+    },
+    {
+      "id": 52,
+      "start": 224.13,
+      "end": 225.61,
+      "en": "Now we understand traffic, right?",
+      "zh": "现在我们了解交通了，对吧？"
+    },
+    {
+      "id": 53,
+      "start": 226.16,
+      "end": 227.4,
+      "en": "Cars, a lot of cars.",
+      "zh": "汽车，很多车。"
+    },
+    {
+      "id": 54,
+      "start": 227.4,
+      "end": 228.4,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 55,
+      "start": 228.4,
+      "end": 230.27,
+      "en": "So a jam, it means that it was like blocked.",
+      "zh": "所以果酱，这意味着它就像被封锁了。"
+    },
+    {
+      "id": 56,
+      "start": 230.56,
+      "end": 230.99,
+      "en": "It was stopped.",
+      "zh": "它被停止了。"
+    },
+    {
+      "id": 57,
+      "start": 231.33,
+      "end": 231.85,
+      "en": "It was stopped.",
+      "zh": "它被停止了。"
+    },
+    {
+      "id": 58,
+      "start": 232.56,
+      "end": 233.56,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 59,
+      "start": 233.56,
+      "end": 235.72,
+      "en": "There were a lot of cars on the highway and they weren't moving.",
+      "zh": "高速公路上有很多汽车，它们没有移动。"
+    },
+    {
+      "id": 60,
+      "start": 235.72,
+      "end": 240.6,
+      "en": "So a huge traffic jam is a very, very big stopping of cars.",
+      "zh": "所以一个巨大的交通堵塞是汽车的一个非常非常大的停车。"
+    },
+    {
+      "id": 61,
+      "start": 241.2,
+      "end": 245.34,
+      "en": "Now our next word explains why sometimes there is a traffic jam.",
+      "zh": "现在我们的下一个词解释了为什么有时会出现交通堵塞。"
+    },
+    {
+      "id": 62,
+      "start": 265.36,
+      "end": 268.72,
+      "en": "Well we found out that there was a huge pileup.",
+      "zh": "好吧，我们发现有一个巨大的堆积。"
+    },
+    {
+      "id": 63,
+      "start": 268.72,
+      "end": 269.51,
+      "en": "A pileup.",
+      "zh": "一个堆积。"
+    },
+    {
+      "id": 64,
+      "start": 269.75,
+      "end": 270.67,
+      "en": "A huge pileup.",
+      "zh": "一个巨大的堆积。"
+    },
+    {
+      "id": 65,
+      "start": 270.72,
+      "end": 271.72,
+      "en": "A huge pileup.",
+      "zh": "一个巨大的堆积。"
+    },
+    {
+      "id": 66,
+      "start": 271.72,
+      "end": 272.57,
+      "en": "Okay, a huge pileup.",
+      "zh": "好吧，一个巨大的堆积。"
+    },
+    {
+      "id": 67,
+      "start": 272.96,
+      "end": 275.89,
+      "en": "Now if a pileup is another way of saying an accident, right?",
+      "zh": "现在，如果堆积是另一种表达意外的方式，对吧？"
+    },
+    {
+      "id": 68,
+      "start": 276.13,
+      "end": 280.79,
+      "en": "Yeah, an accident with many cars and they all get piled on top of each other.",
+      "zh": "是的，有许多汽车的事故，它们都堆积在彼此之上。"
+    },
+    {
+      "id": 69,
+      "start": 281.12,
+      "end": 284.28,
+      "en": "All right, so many cars got into an accident.",
+      "zh": "好吧，这么多车出了事故。"
+    },
+    {
+      "id": 70,
+      "start": 284.28,
+      "end": 285.28,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 71,
+      "start": 285.28,
+      "end": 287.75,
+      "en": "So this could be a reason of why there was a traffic jam.",
+      "zh": "因此，这可能是导致交通堵塞的原因。"
+    },
+    {
+      "id": 72,
+      "start": 288.52,
+      "end": 290.07,
+      "en": "And also a reason for why you were late.",
+      "zh": "也是你迟到的原因。"
+    },
+    {
+      "id": 73,
+      "start": 290.72,
+      "end": 291.09,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 74,
+      "start": 291.72,
+      "end": 296.19,
+      "en": "Now the other person, Scott, also called and he said that he's running late.",
+      "zh": "现在另一个人斯科特也打来电话，他说他迟到了。"
+    },
+    {
+      "id": 75,
+      "start": 296.96,
+      "end": 297.67,
+      "en": "He's running late.",
+      "zh": "他迟到了。"
+    },
+    {
+      "id": 76,
+      "start": 298.44,
+      "end": 299.43,
+      "en": "He's running late.",
+      "zh": "他迟到了。"
+    },
+    {
+      "id": 77,
+      "start": 299.63,
+      "end": 300.31,
+      "en": "I'm running late.",
+      "zh": "我迟到了。"
+    },
+    {
+      "id": 78,
+      "start": 300.77,
+      "end": 303.45,
+      "en": "Now if I'm running late, am I actually running somewhere?",
+      "zh": "现在，如果我迟到了，我真的在某个地方跑步吗？"
+    },
+    {
+      "id": 79,
+      "start": 303.96,
+      "end": 304.96,
+      "en": "What am I doing?",
+      "zh": "我在做什么？"
+    },
+    {
+      "id": 80,
+      "start": 304.96,
+      "end": 305.96,
+      "en": "What's happening?",
+      "zh": "怎么了？"
+    },
+    {
+      "id": 81,
+      "start": 305.96,
+      "end": 308.6,
+      "en": "You are going to be late and you know you're going to be late.",
+      "zh": "你会迟到，你知道你会迟到。"
+    },
+    {
+      "id": 82,
+      "start": 308.92,
+      "end": 310.62,
+      "en": "Okay, I know I'm going to be late.",
+      "zh": "好吧，我知道我会迟到的。"
+    },
+    {
+      "id": 83,
+      "start": 310.76,
+      "end": 314.68,
+      "en": "So I'll call you and I'll say, hey, I'm running a little bit late.",
+      "zh": "所以我会打电话给你，我会说，嘿，我跑得有点晚了。"
+    },
+    {
+      "id": 84,
+      "start": 314.68,
+      "end": 322.84,
+      "en": "Yeah, actually this is the most common thing I say when I'm going to be late and I think it's really important to know how to use this phrase.",
+      "zh": "是的，实际上这是我在迟到时说的最常见的事情，我认为知道如何使用这个短语非常重要。"
+    },
+    {
+      "id": 85,
+      "start": 322.84,
+      "end": 324.54,
+      "en": "So let's hear some more examples.",
+      "zh": "所以让我们听更多的例子。"
+    },
+    {
+      "id": 86,
+      "start": 326.68,
+      "end": 330.64,
+      "en": "Example one, Jane is running late.",
+      "zh": "示例一，简迟到了。"
+    },
+    {
+      "id": 87,
+      "start": 330.65,
+      "end": 331.77,
+      "en": "She'll be here in 10 minutes.",
+      "zh": "她将在 10 分钟内到达这里。"
+    },
+    {
+      "id": 88,
+      "start": 334.24,
+      "end": 338.08,
+      "en": "Example two, traffic is really bad.",
+      "zh": "示例二，交通非常糟糕。"
+    },
+    {
+      "id": 89,
+      "start": 338.09,
+      "end": 338.57,
+      "en": "So I'm running late.",
+      "zh": "所以我迟到了。"
+    },
+    {
+      "id": 90,
+      "start": 341.06,
+      "end": 345.02,
+      "en": "Example three, I'm running a bit late.",
+      "zh": "示例三，我跑得有点晚了。"
+    },
+    {
+      "id": 91,
+      "start": 345.24,
+      "end": 346.34,
+      "en": "So please start without me.",
+      "zh": "所以请在没有我的情况下开始。"
+    },
+    {
+      "id": 92,
+      "start": 349.04,
+      "end": 350.04,
+      "en": "All right, perfect.",
+      "zh": "好吧，完美。"
+    },
+    {
+      "id": 93,
+      "start": 350.04,
+      "end": 356.16,
+      "en": "So running late, a very common way of explaining that you're going to be late and well, it makes you sound very native.",
+      "zh": "迟到了，一种非常常见的解释你会迟到的方式，这让你听起来很本地化。"
+    },
+    {
+      "id": 94,
+      "start": 356.29,
+      "end": 357.05,
+      "en": "Yeah, it's a great phrase.",
+      "zh": "是的，这是一个很棒的短语。"
+    },
+    {
+      "id": 95,
+      "start": 357.41,
+      "end": 364.61,
+      "en": "Now our last phrase that we heard, the reason why Scott was running late was because his last meeting ran over.",
+      "zh": "现在我们听到的最后一句话，斯科特迟到的原因是因为他的最后一次见面就跑了。"
+    },
+    {
+      "id": 96,
+      "start": 365.31,
+      "end": 366.83,
+      "en": "Okay, to run over.",
+      "zh": "好吧，跑过去。"
+    },
+    {
+      "id": 97,
+      "start": 367.09,
+      "end": 368.07,
+      "en": "My meeting ran over.",
+      "zh": "我的会议结束了。"
+    },
+    {
+      "id": 98,
+      "start": 368.33,
+      "end": 371.85,
+      "en": "Now ran over, my meeting ran over, it means it went too far?",
+      "zh": "现在跑过去了，我的会议跑了过去，这意味着它走得太远了？"
+    },
+    {
+      "id": 99,
+      "start": 372.19,
+      "end": 375.01,
+      "en": "Well, when something runs over, it goes longer.",
+      "zh": "好吧，当某物跑过来时，它会持续更长时间。"
+    },
+    {
+      "id": 100,
+      "start": 375.45,
+      "end": 376.69,
+      "en": "Okay, longer than expected.",
+      "zh": "好的，比预期的要长。"
+    },
+    {
+      "id": 101,
+      "start": 377.15,
+      "end": 381.89,
+      "en": "Yeah, so a meeting can run over or an appointment can run over.",
+      "zh": "是的，所以会议可以结束，或者约会可以结束。"
+    },
+    {
+      "id": 102,
+      "start": 382.11,
+      "end": 386.47,
+      "en": "So I can say, my meeting ran over 15 minutes, I'm going to be a little bit late.",
+      "zh": "所以我可以说，我的会议超过了 15 分钟，我会有点晚了。"
+    },
+    {
+      "id": 103,
+      "start": 386.83,
+      "end": 387.87,
+      "en": "That's right, a great excuse.",
+      "zh": "没错，一个很好的借口。"
+    },
+    {
+      "id": 104,
+      "start": 388.29,
+      "end": 388.71,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 105,
+      "start": 388.89,
+      "end": 399.59,
+      "en": "Five great words and well, I think it's time for us to listen to this dialogue and understand these words as they were used in the dialogue and then we'll come back and take a look at more phrases.",
+      "zh": "五个很棒的词，好吧，我想是时候让我们听这些对话并理解这些词在对话中使用时，然后我们会回来看看更多的短语。"
+    },
+    {
+      "id": 106,
+      "start": 404.68,
+      "end": 405.36,
+      "en": "Where is everyone?",
+      "zh": "大家都去哪儿了？"
+    },
+    {
+      "id": 107,
+      "start": 405.88,
+      "end": 408.0,
+      "en": "We were supposed to start 15 minutes ago.",
+      "zh": "我们应该在 15 分钟前开始。"
+    },
+    {
+      "id": 108,
+      "start": 408.92,
+      "end": 410.6,
+      "en": "Joe called and said she'd be here in a sec.",
+      "zh": "乔打电话说她马上到。"
+    },
+    {
+      "id": 109,
+      "start": 411.0,
+      "end": 412.48,
+      "en": "She said she got tied up with a client.",
+      "zh": "她被客户的事绊住了。"
+    },
+    {
+      "id": 110,
+      "start": 413.4,
+      "end": 414.68,
+      "en": "Sorry, I'm late everyone.",
+      "zh": "抱歉各位，我迟到了。"
+    },
+    {
+      "id": 111,
+      "start": 415.26,
+      "end": 418.04,
+      "en": "There was a huge traffic jam on the highway this morning.",
+      "zh": "今天早上高速公路堵得厉害。"
+    },
+    {
+      "id": 112,
+      "start": 418.64,
+      "end": 419.34,
+      "en": "Morning everyone.",
+      "zh": "大家早上好。"
+    },
+    {
+      "id": 113,
+      "start": 420.28,
+      "end": 422.06,
+      "en": "Were you stuck in traffic as well, Jess?",
+      "zh": "你也堵车了吗，杰斯？"
+    },
+    {
+      "id": 114,
+      "start": 422.82,
+      "end": 426.6,
+      "en": "There was a huge pileup on the highway and traffic was backed up for miles.",
+      "zh": "高速上发生多车追尾，堵车堵了好几英里。"
+    },
+    {
+      "id": 115,
+      "start": 428.41,
+      "end": 430.29,
+      "en": "Scott just called and said that he's running late.",
+      "zh": "斯科特刚打电话说会晚到。"
+    },
+    {
+      "id": 116,
+      "start": 431.0,
+      "end": 433.59,
+      "en": "His last meeting ran over, but he's on his way now.",
+      "zh": "上一场会议拖延了，不过他已经在路上。"
+    },
+    {
+      "id": 117,
+      "start": 434.91,
+      "end": 436.29,
+      "en": "Guys, this is not acceptable.",
+      "zh": "各位，这可不行。"
+    },
+    {
+      "id": 118,
+      "start": 437.19,
+      "end": 442.41,
+      "en": "If I say the meeting starts at 10, the meeting starts at 10, not 10.01 and definitely not 10.20.",
+      "zh": "我说十点开会，就得十点准时开始，不是十点零一分，更不是十点二十分。"
+    },
+    {
+      "id": 119,
+      "start": 443.12,
+      "end": 445.04,
+      "en": "All right, let's get started.",
+      "zh": "好吧，让我们开始吧。"
+    },
+    {
+      "id": 120,
+      "start": 445.04,
+      "end": 446.73,
+      "en": "So the first thing I want to talk about is our-",
+      "zh": "所以我想谈的第一件事是我们的——"
+    },
+    {
+      "id": 121,
+      "start": 446.85,
+      "end": 447.87,
+      "en": "I'm really sorry everyone.",
+      "zh": "我真的很抱歉大家。"
+    },
+    {
+      "id": 122,
+      "start": 448.53,
+      "end": 451.03,
+      "en": "I know I'm late, but really it's not my fault.",
+      "zh": "我知道我迟到了，但这真的不是我的错。"
+    },
+    {
+      "id": 123,
+      "start": 451.57,
+      "end": 454.87,
+      "en": "I was getting a coffee at Starbucks and the line was way too long.",
+      "zh": "我去星巴克买咖啡，排队的人太多了。"
+    },
+    {
+      "id": 124,
+      "start": 455.39,
+      "end": 457.61,
+      "en": "I was waiting for 20 minutes to get my coffee.",
+      "zh": "我等了20分钟才拿到咖啡。"
+    },
+    {
+      "id": 125,
+      "start": 461.61,
+      "end": 466.27,
+      "en": "Okay, we got some more great phrases for describing being late.",
+      "zh": "好吧，我们有一些很棒的短语来描述迟到。"
+    },
+    {
+      "id": 126,
+      "start": 466.72,
+      "end": 470.08,
+      "en": "Let's look at them now in Fluency Builder.",
+      "zh": "现在让我们在 Fluency Builder 中看看它们。"
+    },
+    {
+      "id": 127,
+      "start": 470.08,
+      "end": 470.39,
+      "en": "Fluency Builder.",
+      "zh": "流利表达。"
+    },
+    {
+      "id": 128,
+      "start": 471.6,
+      "end": 474.9,
+      "en": "When Jo called, she said she'd be there in a sec.",
+      "zh": "当乔打来电话时，她说她会在几秒钟内到。"
+    },
+    {
+      "id": 129,
+      "start": 475.4,
+      "end": 476.4,
+      "en": "I'll be here in a sec.",
+      "zh": "一秒钟我就来了。"
+    },
+    {
+      "id": 130,
+      "start": 476.76,
+      "end": 477.9,
+      "en": "I'll be here in a sec.",
+      "zh": "一秒钟我就来了。"
+    },
+    {
+      "id": 131,
+      "start": 478.34,
+      "end": 482.36,
+      "en": "So when someone will be here in a sec, it means they'll be here very soon, right?",
+      "zh": "所以当有人在几秒钟内来到这里时，这意味着他们很快就会来到这里，对吧？"
+    },
+    {
+      "id": 132,
+      "start": 482.68,
+      "end": 484.16,
+      "en": "Okay, I'll be here in a sec.",
+      "zh": "好的，我一秒钟就到。"
+    },
+    {
+      "id": 133,
+      "start": 484.22,
+      "end": 485.3,
+      "en": "I'll be there in a sec.",
+      "zh": "我会在几秒钟内到达那里。"
+    },
+    {
+      "id": 134,
+      "start": 485.68,
+      "end": 486.78,
+      "en": "But what about this word sec?",
+      "zh": "但是这个词sec呢？"
+    },
+    {
+      "id": 135,
+      "start": 487.16,
+      "end": 489.0,
+      "en": "It's a short way of saying second.",
+      "zh": "这是一个简短的说法。"
+    },
+    {
+      "id": 136,
+      "start": 489.52,
+      "end": 490.52,
+      "en": "So sec.",
+      "zh": "所以秒。"
+    },
+    {
+      "id": 137,
+      "start": 490.9,
+      "end": 491.28,
+      "en": "A sec.",
+      "zh": "一个秒。"
+    },
+    {
+      "id": 138,
+      "start": 491.54,
+      "end": 498.86,
+      "en": "Now, it's an exaggeration obviously because you won't be there in one second, but you just explaining that you'll be there very, very soon.",
+      "zh": "现在，这显然是夸大其词，因为您不会在一秒钟内到达那里，但您只是解释说您很快就会在那里。"
+    },
+    {
+      "id": 139,
+      "start": 499.2,
+      "end": 503.14,
+      "en": "What about the difference between I'll be here in a sec and I'll be here in a minute?",
+      "zh": "我会在几秒钟后到这里的区别怎么样？"
+    },
+    {
+      "id": 140,
+      "start": 503.42,
+      "end": 507.1,
+      "en": "Well, if you say I'll be there in a sec, it means like I'll be there in one minute, right?",
+      "zh": "好吧，如果你说我会在一秒钟内到达，这意味着我会在一分钟内到达那里，对吧？"
+    },
+    {
+      "id": 141,
+      "start": 507.68,
+      "end": 513.52,
+      "en": "But if you say, oh, I'll be there in a minute, it could be a minute or more like three or four or five minutes.",
+      "zh": "但如果你说，哦，我会在一分钟内到达那里，可能是一分钟或更长时间，就像三四五分钟一样。"
+    },
+    {
+      "id": 142,
+      "start": 513.66,
+      "end": 514.6,
+      "en": "Yeah, I think that's true.",
+      "zh": "是的，我认为这是真的。"
+    },
+    {
+      "id": 143,
+      "start": 514.88,
+      "end": 520.98,
+      "en": "Now, again, going back to this traffic issue, we saw that somebody was stuck in traffic.",
+      "zh": "现在，再一次回到这个交通问题，我们看到有人被堵在了交通中。"
+    },
+    {
+      "id": 144,
+      "start": 521.68,
+      "end": 522.85,
+      "en": "To be stuck in traffic.",
+      "zh": "被堵在交通中。"
+    },
+    {
+      "id": 145,
+      "start": 523.51,
+      "end": 525.07,
+      "en": "I got stuck in traffic.",
+      "zh": "我堵车了。"
+    },
+    {
+      "id": 146,
+      "start": 525.45,
+      "end": 531.33,
+      "en": "Now when you're stuck in traffic, you can't drive because there are too many cars stopped on the highway.",
+      "zh": "现在当你堵车时，你不能开车，因为高速公路上停了太多车。"
+    },
+    {
+      "id": 147,
+      "start": 531.92,
+      "end": 534.0,
+      "en": "So you are actually in the traffic jam.",
+      "zh": "所以你实际上是在交通堵塞中。"
+    },
+    {
+      "id": 148,
+      "start": 534.23,
+      "end": 535.99,
+      "en": "Yeah, you're stopped there for like 20 minutes.",
+      "zh": "是的，你在那里停了大约 20 分钟。"
+    },
+    {
+      "id": 149,
+      "start": 536.2,
+      "end": 536.61,
+      "en": "You can't move.",
+      "zh": "你不能动。"
+    },
+    {
+      "id": 150,
+      "start": 537.2,
+      "end": 538.33,
+      "en": "Okay, I'm stuck in traffic.",
+      "zh": "好吧，我堵车了。"
+    },
+    {
+      "id": 151,
+      "start": 538.72,
+      "end": 539.43,
+      "en": "I'm going to be late.",
+      "zh": "我要迟到了。"
+    },
+    {
+      "id": 152,
+      "start": 540.4,
+      "end": 540.87,
+      "en": "Really great excuse.",
+      "zh": "真的很好的借口。"
+    },
+    {
+      "id": 153,
+      "start": 541.84,
+      "end": 547.69,
+      "en": "And the reason they were stuck in traffic was because traffic was backed up for miles.",
+      "zh": "他们被困在交通中的原因是因为交通被备份了数英里。"
+    },
+    {
+      "id": 154,
+      "start": 548.42,
+      "end": 551.02,
+      "en": "Okay, traffic is backed up for miles.",
+      "zh": "好的，交通会备份数英里。"
+    },
+    {
+      "id": 155,
+      "start": 551.7,
+      "end": 553.3,
+      "en": "To be backed up for miles.",
+      "zh": "备份数英里。"
+    },
+    {
+      "id": 156,
+      "start": 553.76,
+      "end": 559.08,
+      "en": "Now, if I say the traffic is backed up for miles, it means that it's very long or how does that work?",
+      "zh": "现在，如果我说交通被备份了里程，这意味着它很长，或者它是如何工作的？"
+    },
+    {
+      "id": 157,
+      "start": 559.54,
+      "end": 568.38,
+      "en": "Well, okay, imagine there is an accident and that has caused the traffic jam and the cars are lined up for many miles behind you.",
+      "zh": "好吧，想象一下发生了事故，这导致了交通拥堵，汽车在你身后排了很多英里。"
+    },
+    {
+      "id": 158,
+      "start": 568.7,
+      "end": 570.18,
+      "en": "Okay, so it's backed up.",
+      "zh": "好的，所以它是备份的。"
+    },
+    {
+      "id": 159,
+      "start": 570.38,
+      "end": 573.78,
+      "en": "From that point, there are many miles of cars waiting to pass.",
+      "zh": "从那时起，有许多英里的汽车等待通过。"
+    },
+    {
+      "id": 160,
+      "start": 574.2,
+      "end": 575.68,
+      "en": "Yep, so it's backed up for miles.",
+      "zh": "是的，所以它已经备份了数英里。"
+    },
+    {
+      "id": 161,
+      "start": 576.56,
+      "end": 576.78,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 162,
+      "start": 577.56,
+      "end": 578.02,
+      "en": "So great phrases.",
+      "zh": "这么棒的短语。"
+    },
+    {
+      "id": 163,
+      "start": 578.6,
+      "end": 586.76,
+      "en": "And I think it's appropriate for us to listen to the dialogue for the very last time and then we'll come back and talk a little bit more about this being on time issue.",
+      "zh": "我认为最后一次听对话是合适的，然后我们会回来多谈谈这个按时问题。"
+    },
+    {
+      "id": 164,
+      "start": 598.67,
+      "end": 599.17,
+      "en": "Where's everyone?",
+      "zh": "每个人都在哪里？"
+    },
+    {
+      "id": 165,
+      "start": 599.87,
+      "end": 601.51,
+      "en": "We're supposed to start 15 minutes ago.",
+      "zh": "我们应该在 15 分钟前开始。"
+    },
+    {
+      "id": 166,
+      "start": 602.19,
+      "end": 603.91,
+      "en": "Joe called and said she'd be here in a sec.",
+      "zh": "乔打电话说她马上到。"
+    },
+    {
+      "id": 167,
+      "start": 604.23,
+      "end": 605.73,
+      "en": "She said she got tied up with a client.",
+      "zh": "她被客户的事绊住了。"
+    },
+    {
+      "id": 168,
+      "start": 607.06,
+      "end": 607.78,
+      "en": "Sorry, I'm late, everyone.",
+      "zh": "对不起，我来晚了，大家。"
+    },
+    {
+      "id": 169,
+      "start": 608.48,
+      "end": 610.48,
+      "en": "There was a huge traffic jam on the highway this morning.",
+      "zh": "今天早上高速公路堵得厉害。"
+    },
+    {
+      "id": 170,
+      "start": 611.75,
+      "end": 612.31,
+      "en": "Morning, everyone.",
+      "zh": "早上，大家。"
+    },
+    {
+      "id": 171,
+      "start": 613.0,
+      "end": 614.19,
+      "en": "Are you stuck in traffic as well, Jess?",
+      "zh": "你也堵车了吗，杰斯？"
+    },
+    {
+      "id": 172,
+      "start": 614.61,
+      "end": 618.1,
+      "en": "There was a huge pileup on the highway and traffic was backed up for miles.",
+      "zh": "高速上发生多车追尾，堵车堵了好几英里。"
+    },
+    {
+      "id": 173,
+      "start": 619.16,
+      "end": 620.8,
+      "en": "Scott just called and said that he's running late.",
+      "zh": "斯科特刚打电话说会晚到。"
+    },
+    {
+      "id": 174,
+      "start": 621.24,
+      "end": 623.4,
+      "en": "His last meeting ran over, but he's on his way now.",
+      "zh": "上一场会议拖延了，不过他已经在路上。"
+    },
+    {
+      "id": 175,
+      "start": 626.01,
+      "end": 627.53,
+      "en": "Guys, this is not acceptable.",
+      "zh": "各位，这可不行。"
+    },
+    {
+      "id": 176,
+      "start": 628.21,
+      "end": 633.71,
+      "en": "If I say the meeting starts at 10, the meeting starts at 10, not 10.01 and definitely not 10.20.",
+      "zh": "我说十点开会，就得十点准时开始，不是十点零一分，更不是十点二十分。"
+    },
+    {
+      "id": 177,
+      "start": 634.48,
+      "end": 636.2,
+      "en": "All right, let's get started.",
+      "zh": "好吧，让我们开始吧。"
+    },
+    {
+      "id": 178,
+      "start": 636.2,
+      "end": 638.08,
+      "en": "So the first thing I want to talk about is our...",
+      "zh": "所以我想谈的第一件事就是我们的..."
+    },
+    {
+      "id": 179,
+      "start": 638.08,
+      "end": 639.2,
+      "en": "I'm really sorry, everyone.",
+      "zh": "真的很抱歉，大家。"
+    },
+    {
+      "id": 180,
+      "start": 639.21,
+      "end": 640.97,
+      "en": "I know I'm late, but really it's not my fault.",
+      "zh": "我知道我迟到了，但这真的不是我的错。"
+    },
+    {
+      "id": 181,
+      "start": 641.19,
+      "end": 644.37,
+      "en": "I was getting a coffee at Starbucks and the line was way, way too long.",
+      "zh": "我在星巴克喝杯咖啡，这条线太长了。"
+    },
+    {
+      "id": 182,
+      "start": 644.79,
+      "end": 646.63,
+      "en": "I was waiting for 20 minutes to get my coffee.",
+      "zh": "我等了20分钟才拿到咖啡。"
+    },
+    {
+      "id": 183,
+      "start": 648.04,
+      "end": 658.56,
+      "en": "Well, Marco, I know that ideas about time and ideas about being late are different in different countries.",
+      "zh": "好吧，马可，我知道关于时间和关于迟到的想法的想法在不同的国家是不同的。"
+    },
+    {
+      "id": 184,
+      "start": 658.58,
+      "end": 663.28,
+      "en": "Yeah, in different countries, people treat time or being on time in different ways.",
+      "zh": "是的，在不同的国家，人们以不同的方式对待时间或准时。"
+    },
+    {
+      "id": 185,
+      "start": 663.6,
+      "end": 667.72,
+      "en": "Yeah, like I'm from Canada and I look at being on time really different than you do, right?",
+      "zh": "是的，就像我来自加拿大一样，我认为准时与你真的不同，对吧？"
+    },
+    {
+      "id": 186,
+      "start": 668.24,
+      "end": 675.18,
+      "en": "Yes, because for example, if you call for a meeting at nine o'clock, usually people will be there at nine o'clock because the meeting will start.",
+      "zh": "是的，因为例如，如果您在九点召开会议，通常人们会在九点钟到场，因为会议将开始。"
+    },
+    {
+      "id": 187,
+      "start": 675.6,
+      "end": 675.78,
+      "en": "In America.",
+      "zh": "在美国。"
+    },
+    {
+      "id": 188,
+      "start": 676.6,
+      "end": 676.88,
+      "en": "Right, in America.",
+      "zh": "对，在美国。"
+    },
+    {
+      "id": 189,
+      "start": 677.6,
+      "end": 687.18,
+      "en": "Now, for example, in Latin America, we do have this, what we call sometimes the Latino time or Hispanic time, which is like nine o'clock is like the time that everyone should be there.",
+      "zh": "现在，例如，在拉丁美洲，我们确实有这个，有时我们称之为拉丁裔时间或西班牙裔时间，就像九点钟一样，就像每个人都应该在那里的时间一样。"
+    },
+    {
+      "id": 190,
+      "start": 687.72,
+      "end": 693.56,
+      "en": "But until people get there, get their coffee and whatever, then it'll be 9.15, maybe up to 9.30.",
+      "zh": "但在人们到达那里之前，喝咖啡之类的，然后它会是 9.15，可能高达 9.30。"
+    },
+    {
+      "id": 191,
+      "start": 693.62,
+      "end": 699.88,
+      "en": "And I think it's a little bit even more noticeable when we're talking about social events.",
+      "zh": "而且我认为当我们谈论社交活动时，它会更加明显。"
+    },
+    {
+      "id": 192,
+      "start": 700.16,
+      "end": 707.76,
+      "en": "Like if you go to someone's house for dinner in Canada, if they say, come to my house at six o'clock for dinner, you'll be there at 6.05, right?",
+      "zh": "就像如果你在加拿大某人家吃饭，如果他们说，六点钟来我家吃晚饭，你会在 6.05 到那里，对吧？"
+    },
+    {
+      "id": 193,
+      "start": 708.04,
+      "end": 708.56,
+      "en": "Okay, yeah.",
+      "zh": "好吧，是的。"
+    },
+    {
+      "id": 194,
+      "start": 708.76,
+      "end": 716.93,
+      "en": "Yeah, usually you'll be there only a couple of minutes after the time that was specified just to, you know, give the house owner a little bit of time.",
+      "zh": "是的，通常你会在指定的时间之后到达那里，你知道，给房主一点时间。"
+    },
+    {
+      "id": 195,
+      "start": 717.64,
+      "end": 725.59,
+      "en": "But if we have a dinner invitation for six, we know that it's not really going to begin eating at six, so people will get there at 6.30 or seven.",
+      "zh": "但是，如果我们有六人的晚餐邀请，我们知道它不会真正开始在六点吃饭，所以人们会在 6.30 或 7 点到达那里。"
+    },
+    {
+      "id": 196,
+      "start": 726.04,
+      "end": 730.36,
+      "en": "And of course, food isn't ready until like maybe eight or nine.",
+      "zh": "当然，直到大约八九点，食物才准备好。"
+    },
+    {
+      "id": 197,
+      "start": 730.36,
+      "end": 733.68,
+      "en": "But in German countries, from what I know, you've got to be there.",
+      "zh": "但在德国国家，据我所知，你必须在那里。"
+    },
+    {
+      "id": 198,
+      "start": 733.68,
+      "end": 737.78,
+      "en": "If they say be there at six, you're there at 6.00, right?",
+      "zh": "如果他们说在六点钟到，你在 6 点到，对吧？"
+    },
+    {
+      "id": 199,
+      "start": 738.24,
+      "end": 739.44,
+      "en": "Not 6.01.",
+      "zh": "不是 6.01。"
+    },
+    {
+      "id": 200,
+      "start": 739.44,
+      "end": 742.74,
+      "en": "And also, I think it's about when people start work, right?",
+      "zh": "而且，我认为这是人们何时开始工作，对吧？"
+    },
+    {
+      "id": 201,
+      "start": 743.5,
+      "end": 745.56,
+      "en": "How on time you have to begin work.",
+      "zh": "你必须如何准时开始工作。"
+    },
+    {
+      "id": 202,
+      "start": 746.1,
+      "end": 751.02,
+      "en": "Sometimes it's acceptable to be 10 or 15 minutes so-called late, but in other places, you know.",
+      "zh": "有时可以接受所谓的迟到 10 或 15 分钟，但在其他地方，你知道的。"
+    },
+    {
+      "id": 203,
+      "start": 751.32,
+      "end": 756.4,
+      "en": "Yeah, North America, if you're supposed to start work at nine, you have to be at your desk working at nine.",
+      "zh": "是的，北美，如果你应该在九点开始工作，你必须在九点工作。"
+    },
+    {
+      "id": 204,
+      "start": 756.6,
+      "end": 757.6,
+      "en": "At nine.",
+      "zh": "九点。"
+    },
+    {
+      "id": 205,
+      "start": 757.6,
+      "end": 758.6,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 206,
+      "start": 758.6,
+      "end": 767.72,
+      "en": "Yeah, see that in other countries, people get there at nine, get their coffee, maybe take a quick glance at their emails or the newspaper and then, you know, start working at around 9.30 or 10.",
+      "zh": "是的，看到在其他国家，人们在九点到达那里，喝咖啡，也许快速浏览一下他们的电子邮件或报纸，然后，你知道，在 9.30 或 10 左右开始工作。"
+    },
+    {
+      "id": 207,
+      "start": 767.72,
+      "end": 772.32,
+      "en": "So I guess the important thing is to know what the tradition is in the country where you are.",
+      "zh": "所以我想重要的是要知道你所在的国家的传统是什么。"
+    },
+    {
+      "id": 208,
+      "start": 772.54,
+      "end": 772.78,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 209,
+      "start": 773.24,
+      "end": 777.86,
+      "en": "So come to our website, EnglishPod.com and let us know how it works in your countries.",
+      "zh": "因此，请访问我们的网站 englishpod.com，让我们知道它在您所在国家/地区的运作方式。"
+    },
+    {
+      "id": 210,
+      "start": 778.04,
+      "end": 783.36,
+      "en": "I know that many different countries have a different way of treating time, so share it with us.",
+      "zh": "我知道许多不同的国家处理时间的方式不同，所以与我们分享。"
+    },
+    {
+      "id": 211,
+      "start": 783.36,
+      "end": 787.68,
+      "en": "Yes, and remember, if you have any questions, please ask them at the website as well.",
+      "zh": "是的，请记住，如果您有任何问题，请在网站上提问。"
+    },
+    {
+      "id": 212,
+      "start": 787.68,
+      "end": 791.83,
+      "en": "We're out of time today, but until next time, thanks for listening and goodbye.",
+      "zh": "我们今天没时间了，但直到下一次，感谢您的收听和再见。"
+    },
+    {
+      "id": 213,
+      "start": 791.88,
+      "end": 800.679,
+      "en": "Bye-bye.",
+      "zh": "拜拜。"
+    }
+  ],
+  "dialog": {
+    "start": 404.68,
+    "end": 457.61,
+    "segmentIds": [
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124
+    ]
+  }
+}

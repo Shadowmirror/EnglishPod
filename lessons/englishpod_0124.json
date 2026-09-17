@@ -1,0 +1,1787 @@
+{
+  "version": 1,
+  "id": 124,
+  "number": "0124",
+  "title": "Daily Life - Tools",
+  "audio": "mp3/124. Daily Life - Tools.mp3",
+  "duration": 790.151875,
+  "segments": [
+    {
+      "id": 1,
+      "start": 3.04,
+      "end": 4.12,
+      "en": "Hello, English learners.",
+      "zh": "各位英语学习者，大家好。"
+    },
+    {
+      "id": 2,
+      "start": 4.52,
+      "end": 7.32,
+      "en": "Welcome back to another great lesson at EnglishPod.",
+      "zh": "欢迎回到 Englishpod 的另一堂精彩课程。"
+    },
+    {
+      "id": 3,
+      "start": 7.32,
+      "end": 7.7,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 4,
+      "start": 8.32,
+      "end": 9.52,
+      "en": "And my name's Erica.",
+      "zh": "我叫埃里卡。"
+    },
+    {
+      "id": 5,
+      "start": 9.52,
+      "end": 11.34,
+      "en": "And today we're going to be building something.",
+      "zh": "今天我们将构建一些东西。"
+    },
+    {
+      "id": 6,
+      "start": 11.98,
+      "end": 12.28,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 7,
+      "start": 12.7,
+      "end": 14.9,
+      "en": "We've got a lesson about construction.",
+      "zh": "我们有一个关于建筑的教训。"
+    },
+    {
+      "id": 8,
+      "start": 15.24,
+      "end": 16.24,
+      "en": "Cool.",
+      "zh": "真不错。"
+    },
+    {
+      "id": 9,
+      "start": 16.24,
+      "end": 23.72,
+      "en": "So we're going to be working at a construction site today and we're going to learn a lot of cool vocabulary with different types of tools.",
+      "zh": "所以我们今天将在一个建筑工地工作，我们将使用不同类型的工具学习很多很酷的词汇。"
+    },
+    {
+      "id": 10,
+      "start": 23.72,
+      "end": 27.0,
+      "en": "And we'll also learn some phrases that you can use to talk about work.",
+      "zh": "我们还将学习一些您可以用来谈论工作的短语。"
+    },
+    {
+      "id": 11,
+      "start": 27.0,
+      "end": 35.67,
+      "en": "So even if you're not really interested in building and making stuff with your hands, you will learn some language to talk about work in general.",
+      "zh": "因此，即使您对用手制作和制作东西并不真正感兴趣，您也会学习一些语言来谈论一般的工作。"
+    },
+    {
+      "id": 12,
+      "start": 36.04,
+      "end": 37.04,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 13,
+      "start": 37.04,
+      "end": 42.19,
+      "en": "So before we get started with this construction dialogue, let's take a look at vocabulary preview.",
+      "zh": "因此，在我们开始使用这种构造对话之前，让我们先来看看词汇预览。"
+    },
+    {
+      "id": 14,
+      "start": 43.1,
+      "end": 43.96,
+      "en": "Vocabulary preview.",
+      "zh": "词汇预习。"
+    },
+    {
+      "id": 15,
+      "start": 44.86,
+      "end": 46.72,
+      "en": "Well, Marco, we're going to look at two words now.",
+      "zh": "好吧，马可，我们现在要看两个词。"
+    },
+    {
+      "id": 16,
+      "start": 47.0,
+      "end": 49.96,
+      "en": "And like you said, we're building something in this lesson, right?",
+      "zh": "就像你说的，我们正在本课中构建一些东西，对吧？"
+    },
+    {
+      "id": 17,
+      "start": 50.3,
+      "end": 50.58,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 18,
+      "start": 50.76,
+      "end": 52.04,
+      "en": "We're going to be building a deck.",
+      "zh": "我们将建造一个甲板。"
+    },
+    {
+      "id": 19,
+      "start": 52.42,
+      "end": 52.98,
+      "en": "A deck.",
+      "zh": "甲板。"
+    },
+    {
+      "id": 20,
+      "start": 53.7,
+      "end": 54.42,
+      "en": "A deck.",
+      "zh": "甲板。"
+    },
+    {
+      "id": 21,
+      "start": 55.0,
+      "end": 55.5,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 22,
+      "start": 55.74,
+      "end": 56.4,
+      "en": "So a deck.",
+      "zh": "所以一个甲板。"
+    },
+    {
+      "id": 23,
+      "start": 56.7,
+      "end": 57.24,
+      "en": "What is that?",
+      "zh": "那是什么？"
+    },
+    {
+      "id": 24,
+      "start": 58.16,
+      "end": 64.66,
+      "en": "Basically, it's an elevated wooden platform that houses will have like in their backyards maybe.",
+      "zh": "基本上，它是一个高架的木制平台，房子可能会像他们的后院一样。"
+    },
+    {
+      "id": 25,
+      "start": 65.14,
+      "end": 69.31,
+      "en": "So it's a platform that's a little bit higher off the ground behind your house.",
+      "zh": "所以这是一个离你家后面有点高的平台。"
+    },
+    {
+      "id": 26,
+      "start": 70.36,
+      "end": 78.64,
+      "en": "So it's very popular for houses to have decks and people will put out a table and chairs and maybe have lunch out there or something.",
+      "zh": "所以有甲板很受欢迎，人们会拿出桌子和椅子，也许在那里吃午饭或其他东西。"
+    },
+    {
+      "id": 27,
+      "start": 78.64,
+      "end": 79.64,
+      "en": "Or barbecue or something.",
+      "zh": "或烧烤什么的。"
+    },
+    {
+      "id": 28,
+      "start": 79.64,
+      "end": 80.64,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 29,
+      "start": 80.64,
+      "end": 81.64,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 30,
+      "start": 81.64,
+      "end": 82.64,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 31,
+      "start": 82.64,
+      "end": 83.64,
+      "en": "So a deck.",
+      "zh": "所以一个甲板。"
+    },
+    {
+      "id": 32,
+      "start": 83.64,
+      "end": 86.0,
+      "en": "Now, they're building this deck and they need to follow some plans.",
+      "zh": "现在，他们正在建造这个甲板，他们需要遵循一些计划。"
+    },
+    {
+      "id": 33,
+      "start": 86.0,
+      "end": 87.0,
+      "en": "Plans.",
+      "zh": "计划。"
+    },
+    {
+      "id": 34,
+      "start": 87.0,
+      "end": 88.0,
+      "en": "Plans.",
+      "zh": "计划。"
+    },
+    {
+      "id": 35,
+      "start": 88.04,
+      "end": 91.02,
+      "en": "The plans that we're talking about are construction plans.",
+      "zh": "我们正在谈论的计划是建设计划。"
+    },
+    {
+      "id": 36,
+      "start": 91.36,
+      "end": 91.48,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 37,
+      "start": 91.58,
+      "end": 93.82,
+      "en": "It's kind of like the map for the deck.",
+      "zh": "这有点像甲板的地图。"
+    },
+    {
+      "id": 38,
+      "start": 94.16,
+      "end": 95.16,
+      "en": "How you're going to build it.",
+      "zh": "你将如何构建它。"
+    },
+    {
+      "id": 39,
+      "start": 95.62,
+      "end": 95.82,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 40,
+      "start": 96.56,
+      "end": 99.12,
+      "en": "So we can have floor plans, for example.",
+      "zh": "例如，我们可以有平面图。"
+    },
+    {
+      "id": 41,
+      "start": 99.12,
+      "end": 103.44,
+      "en": "So that shows you how the building looks like where the different rooms are.",
+      "zh": "因此，这向您展示了建筑物的外观与不同房间的位置。"
+    },
+    {
+      "id": 42,
+      "start": 103.88,
+      "end": 104.52,
+      "en": "Like a house, right?",
+      "zh": "像房子一样，对吧？"
+    },
+    {
+      "id": 43,
+      "start": 105.12,
+      "end": 107.5,
+      "en": "So it's basically the map for a construction.",
+      "zh": "所以它基本上是建筑的地图。"
+    },
+    {
+      "id": 44,
+      "start": 108.38,
+      "end": 109.0,
+      "en": "Okay, great.",
+      "zh": "好，太好了。"
+    },
+    {
+      "id": 45,
+      "start": 109.3,
+      "end": 110.38,
+      "en": "So two interesting words.",
+      "zh": "所以两个有趣的词。"
+    },
+    {
+      "id": 46,
+      "start": 110.68,
+      "end": 112.6,
+      "en": "We're going to hear both of these in the dialogue.",
+      "zh": "我们将在对话中听到这两个。"
+    },
+    {
+      "id": 47,
+      "start": 112.6,
+      "end": 117.52,
+      "en": "Now why don't we get started and find out what's going to happen as they're building this deck.",
+      "zh": "现在我们为什么不开始，找出他们正在建造这个甲板时会发生什么。"
+    },
+    {
+      "id": 48,
+      "start": 124.89,
+      "end": 132.27,
+      "en": "All right, ladies and gentlemen, we've been hired to build a deck on this here house and turn this boring and drab lawn into a backyard oasis.",
+      "zh": "好了，各位，我们受雇给这栋房子建一个木质露台，把这片单调乏味的草坪变成后院绿洲。"
+    },
+    {
+      "id": 49,
+      "start": 133.05,
+      "end": 133.93,
+      "en": "There is one catch though.",
+      "zh": "不过有一种问题。"
+    },
+    {
+      "id": 50,
+      "start": 134.29,
+      "end": 136.17,
+      "en": "We've only got one day to finish this.",
+      "zh": "我们只有一天时间把活干完。"
+    },
+    {
+      "id": 51,
+      "start": 136.53,
+      "end": 139.83,
+      "en": "So I'm going to need everyone to give 110% today.",
+      "zh": "所以我今天需要每个人都付出 110%。"
+    },
+    {
+      "id": 52,
+      "start": 140.15,
+      "end": 145.3,
+      "en": "It's going to be tough, but we've got a great team here and I know that together we can tackle this project.",
+      "zh": "这活不好干，但我们的团队很出色，我相信大家齐心协力就能完成。"
+    },
+    {
+      "id": 53,
+      "start": 145.74,
+      "end": 147.52,
+      "en": "That being said, let's get to work.",
+      "zh": "话虽如此，让我们开始工作吧。"
+    },
+    {
+      "id": 54,
+      "start": 148.1,
+      "end": 148.7,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 55,
+      "start": 149.56,
+      "end": 154.96,
+      "en": "Now remember, we've been over the plans, but we really need to make sure that everything is up to code.",
+      "zh": "记住，虽然我们已经看过图纸，但一定要确保所有施工都符合建筑规范。"
+    },
+    {
+      "id": 56,
+      "start": 154.96,
+      "end": 156.48,
+      "en": "The home inspectors here are pretty thorough.",
+      "zh": "这里的房屋检查员查得很仔细。"
+    },
+    {
+      "id": 57,
+      "start": 156.96,
+      "end": 159.3,
+      "en": "So please make sure you follow the plans exactly.",
+      "zh": "所以一定要严格按图纸施工。"
+    },
+    {
+      "id": 58,
+      "start": 160.36,
+      "end": 163.5,
+      "en": "And remember the carpenter's rule of thumb, measure twice, cut once.",
+      "zh": "记住木匠的经验法则，测量两次，切一次。"
+    },
+    {
+      "id": 59,
+      "start": 164.46,
+      "end": 166.02,
+      "en": "Okay, guys, let's get at it.",
+      "zh": "好吧，伙计们，让我们开始吧。"
+    },
+    {
+      "id": 60,
+      "start": 166.72,
+      "end": 167.7,
+      "en": "Bob, pass me that hammer.",
+      "zh": "鲍勃，把那把锤子递给我。"
+    },
+    {
+      "id": 61,
+      "start": 172.79,
+      "end": 174.01,
+      "en": "The nails won't go in.",
+      "zh": "钉子钉不进去。"
+    },
+    {
+      "id": 62,
+      "start": 174.39,
+      "end": 175.25,
+      "en": "The wood is too hard.",
+      "zh": "木头太硬了。"
+    },
+    {
+      "id": 63,
+      "start": 176.08,
+      "end": 182.76,
+      "en": "I think I'm going to need the nail gun.",
+      "zh": "我想我需要钉枪。"
+    },
+    {
+      "id": 64,
+      "start": 182.76,
+      "end": 183.05,
+      "en": "That did it.",
+      "zh": "这下行了。"
+    },
+    {
+      "id": 65,
+      "start": 183.76,
+      "end": 188.56,
+      "en": "Hey, do me a favor and help me cut this two by four, will you?",
+      "zh": "嘿，帮个忙，帮我锯一下这根二乘四规格的木方，好吗？"
+    },
+    {
+      "id": 66,
+      "start": 188.56,
+      "end": 191.72,
+      "en": "Pass me that circle saw and grab hold of the end of the board.",
+      "zh": "把那把圆锯递给我，再扶住木板的另一端。"
+    },
+    {
+      "id": 67,
+      "start": 192.96,
+      "end": 195.43,
+      "en": "Now help me drill some holes in it so we can place the bolts.",
+      "zh": "现在帮我在上面钻一些孔，这样我们就可以放置螺栓。"
+    },
+    {
+      "id": 68,
+      "start": 199.48,
+      "end": 201.01,
+      "en": "I think you should sand the edges.",
+      "zh": "我认为你应该打磨边缘。"
+    },
+    {
+      "id": 69,
+      "start": 201.96,
+      "end": 202.67,
+      "en": "Look at all these splinters.",
+      "zh": "看看这些木刺。"
+    },
+    {
+      "id": 70,
+      "start": 203.64,
+      "end": 204.96,
+      "en": "Someone could get hurt.",
+      "zh": "有人可能会受伤。"
+    },
+    {
+      "id": 71,
+      "start": 204.96,
+      "end": 208.0,
+      "en": "Geez, you've got to take pride in your work.",
+      "zh": "天哪，干活得讲究点，要对自己的手艺负责。"
+    },
+    {
+      "id": 72,
+      "start": 208.0,
+      "end": 208.79,
+      "en": "Yeah, you're right.",
+      "zh": "对，你说得对。"
+    },
+    {
+      "id": 73,
+      "start": 210.16,
+      "end": 211.59,
+      "en": "Pass me the sander and I'll take care of it.",
+      "zh": "把砂光机递给我，我来处理。"
+    },
+    {
+      "id": 74,
+      "start": 213.24,
+      "end": 218.04,
+      "en": "Julia, get over here with that level, measuring tape, and that box of screws.",
+      "zh": "朱莉娅，把水平尺、卷尺和那盒螺丝拿过来。"
+    },
+    {
+      "id": 75,
+      "start": 218.04,
+      "end": 219.61,
+      "en": "Oh no, look out below.",
+      "zh": "糟了，下面的人小心！"
+    },
+    {
+      "id": 76,
+      "start": 222.04,
+      "end": 228.8,
+      "en": "All right, so there are a lot of people building the deck.",
+      "zh": "好吧，所以有很多人在建造甲板。"
+    },
+    {
+      "id": 77,
+      "start": 228.82,
+      "end": 230.1,
+      "en": "They have to build it fast.",
+      "zh": "他们必须快速构建它。"
+    },
+    {
+      "id": 78,
+      "start": 230.48,
+      "end": 231.5,
+      "en": "They've only got one day.",
+      "zh": "他们只有一天。"
+    },
+    {
+      "id": 79,
+      "start": 231.72,
+      "end": 233.1,
+      "en": "So it's a really big challenge, huh?",
+      "zh": "所以这真的是一个很大的挑战，对吧？"
+    },
+    {
+      "id": 80,
+      "start": 233.46,
+      "end": 239.78,
+      "en": "Yeah, and I think this is a good lesson in maybe not rushing through important projects, right?",
+      "zh": "是的，我认为这是一个很好的教训，也许不匆忙完成重要项目，对吧？"
+    },
+    {
+      "id": 81,
+      "start": 240.02,
+      "end": 240.36,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 82,
+      "start": 241.1,
+      "end": 244.48,
+      "en": "So we saw some really interesting tools that they were using.",
+      "zh": "所以我们看到了他们使用的一些非常有趣的工具。"
+    },
+    {
+      "id": 83,
+      "start": 244.8,
+      "end": 247.7,
+      "en": "So why don't we look at that first in Language Takeaway.",
+      "zh": "那么，我们为什么不先看看语言外卖呢。"
+    },
+    {
+      "id": 84,
+      "start": 249.39,
+      "end": 250.53,
+      "en": "Language Takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 85,
+      "start": 251.0,
+      "end": 254.6,
+      "en": "All right, so we've got some language all about tools.",
+      "zh": "好吧，所以我们有一些关于工具的语言。"
+    },
+    {
+      "id": 86,
+      "start": 254.6,
+      "end": 255.85,
+      "en": "So why don't we just get started?",
+      "zh": "那么我们为什么不开始呢？"
+    },
+    {
+      "id": 87,
+      "start": 256.31,
+      "end": 258.15,
+      "en": "So they mentioned a nail gun.",
+      "zh": "所以他们提到了一把钉枪。"
+    },
+    {
+      "id": 88,
+      "start": 258.77,
+      "end": 259.85,
+      "en": "Nail gun.",
+      "zh": "钉枪。"
+    },
+    {
+      "id": 89,
+      "start": 259.96,
+      "end": 260.96,
+      "en": "A nail gun.",
+      "zh": "钉枪。"
+    },
+    {
+      "id": 90,
+      "start": 260.96,
+      "end": 263.01,
+      "en": "So we all know about hammers and nails, right?",
+      "zh": "所以我们都知道锤子和钉子，对吧？"
+    },
+    {
+      "id": 91,
+      "start": 263.28,
+      "end": 264.28,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 92,
+      "start": 264.28,
+      "end": 265.07,
+      "en": "So the nails are what you put in the wood.",
+      "zh": "所以钉子就是你放在木头上的东西。"
+    },
+    {
+      "id": 93,
+      "start": 265.44,
+      "end": 266.44,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 94,
+      "start": 266.44,
+      "end": 268.51,
+      "en": "Now this is an advanced tool, so you don't have to use a hammer.",
+      "zh": "现在这是一个高级工具，因此您不必使用锤子。"
+    },
+    {
+      "id": 95,
+      "start": 269.2,
+      "end": 273.05,
+      "en": "It's kind of hard to explain, so why don't we listen to the sound this tool makes.",
+      "zh": "这有点难以解释，所以我们为什么不听这个工具发出的声音。"
+    },
+    {
+      "id": 96,
+      "start": 280.94,
+      "end": 285.18,
+      "en": "Well, I guess like its name suggests, it's a gun for putting nails in wood.",
+      "zh": "好吧，我想就像它的名字所暗示的那样，它是一把把钉子放在木头上的枪。"
+    },
+    {
+      "id": 97,
+      "start": 285.38,
+      "end": 290.42,
+      "en": "Yeah, it actually uses compressed air to push nails really fast into the wood.",
+      "zh": "是的，它实际上使用压缩空气将钉子快速推入木头。"
+    },
+    {
+      "id": 98,
+      "start": 290.7,
+      "end": 291.0,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 99,
+      "start": 291.64,
+      "end": 299.66,
+      "en": "All right, so they are nailing some pieces of wood together, but they also needed to cut the wood, and they said, help me cut the two by four.",
+      "zh": "好吧，所以他们把一些木头钉在一起，但他们也需要把木头砍掉，他们说，帮我把这两个人剪四分。"
+    },
+    {
+      "id": 100,
+      "start": 300.02,
+      "end": 302.78,
+      "en": "Yeah, she said, help me cut this two by four.",
+      "zh": "是的，她说，帮我把这两个剪四。"
+    },
+    {
+      "id": 101,
+      "start": 302.96,
+      "end": 304.08,
+      "en": "So a two by four.",
+      "zh": "所以一个二乘四。"
+    },
+    {
+      "id": 102,
+      "start": 304.4,
+      "end": 308.14,
+      "en": "This is a very popular type of wood that you use in construction.",
+      "zh": "这是一种非常流行的木材类型，您在建筑中使用。"
+    },
+    {
+      "id": 103,
+      "start": 308.74,
+      "end": 312.3,
+      "en": "A two by four is basically two inches by four inches.",
+      "zh": "二乘四基本上是两英寸乘四英寸。"
+    },
+    {
+      "id": 104,
+      "start": 312.62,
+      "end": 314.82,
+      "en": "So two inches high and four inches wide.",
+      "zh": "所以两英寸高和四英寸宽。"
+    },
+    {
+      "id": 105,
+      "start": 315.8,
+      "end": 321.32,
+      "en": "So it's the most popular and common type of wood that you would use for construction, a two by four.",
+      "zh": "所以它是你用于建筑的最流行和最常见的木材类型，二乘四。"
+    },
+    {
+      "id": 106,
+      "start": 321.32,
+      "end": 322.74,
+      "en": "You'll hear it all the time.",
+      "zh": "你会一直听到的。"
+    },
+    {
+      "id": 107,
+      "start": 322.74,
+      "end": 327.26,
+      "en": "So they're going to cut the two by four, and C said, pass me the circular saw.",
+      "zh": "所以他们要把两个人剪四，C说，把圆锯递给我。"
+    },
+    {
+      "id": 108,
+      "start": 327.96,
+      "end": 329.04,
+      "en": "A circular saw.",
+      "zh": "圆锯。"
+    },
+    {
+      "id": 109,
+      "start": 329.24,
+      "end": 330.04,
+      "en": "A circular saw.",
+      "zh": "圆锯。"
+    },
+    {
+      "id": 110,
+      "start": 330.4,
+      "end": 336.32,
+      "en": "So a saw, we understand, is something you use to cut wood, but you have many types of saws.",
+      "zh": "所以我们明白，锯是你用来切木头的东西，但你有很多种锯。"
+    },
+    {
+      "id": 111,
+      "start": 337.24,
+      "end": 351.28,
+      "en": "You have a band saw, you have a circular saw, and this one makes this sound.",
+      "zh": "你有一把锯，你有一把圆锯，这把锯子发出这种声音。"
+    },
+    {
+      "id": 112,
+      "start": 351.28,
+      "end": 356.31,
+      "en": "So I guess it's called a circular saw because the blade or the cutting part is shaped in a circle.",
+      "zh": "所以我猜它被称为圆锯，因为刀片或切割部分是圆形的。"
+    },
+    {
+      "id": 113,
+      "start": 357.08,
+      "end": 358.25,
+      "en": "Yeah, a circular saw.",
+      "zh": "是的，圆锯。"
+    },
+    {
+      "id": 114,
+      "start": 358.62,
+      "end": 363.23,
+      "en": "So after they cut the piece of wood, one of the guys said, I think you should sand the edges.",
+      "zh": "所以在他们切割那块木头后，其中一位人说，我想你应该打磨边缘。"
+    },
+    {
+      "id": 115,
+      "start": 364.16,
+      "end": 365.17,
+      "en": "To sand something.",
+      "zh": "打磨一些东西。"
+    },
+    {
+      "id": 116,
+      "start": 367.16,
+      "end": 368.16,
+      "en": "To sand something. Alright.",
+      "zh": "打磨一些东西。 好的。"
+    },
+    {
+      "id": 117,
+      "start": 368.16,
+      "end": 374.55,
+      "en": "So if you want to sand usually a piece of wood, you want to use paper covered in sand to make it very smooth.",
+      "zh": "所以如果你想打磨通常一块木头，你想用被沙子覆盖的纸来使其非常光滑。"
+    },
+    {
+      "id": 118,
+      "start": 375.08,
+      "end": 375.74,
+      "en": "Yeah, exactly.",
+      "zh": "对，没错。"
+    },
+    {
+      "id": 119,
+      "start": 376.2,
+      "end": 379.24,
+      "en": "And so they also mentioned a sander, right?",
+      "zh": "所以他们还提到了砂光机，对吧？"
+    },
+    {
+      "id": 120,
+      "start": 379.24,
+      "end": 384.64,
+      "en": "A sander is basically a machine that has this sandpaper on it and will do the hard work for you.",
+      "zh": "砂光机基本上是一台有这张砂纸的机器，可以为您完成艰苦的工作。"
+    },
+    {
+      "id": 121,
+      "start": 385.28,
+      "end": 386.28,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 122,
+      "start": 386.28,
+      "end": 388.12,
+      "en": "So to sand something and a sander.",
+      "zh": "所以打磨东西和砂光机。"
+    },
+    {
+      "id": 123,
+      "start": 388.12,
+      "end": 394.3,
+      "en": "Now our next word is very related to sanding something because if you don't sand a piece of wood, it might have splinters.",
+      "zh": "现在我们的下一个词与打磨东西非常相关，因为如果你不打磨一块木头，它可能会有碎片。"
+    },
+    {
+      "id": 124,
+      "start": 394.8,
+      "end": 395.14,
+      "en": "Splinters.",
+      "zh": "碎片。"
+    },
+    {
+      "id": 125,
+      "start": 396.46,
+      "end": 396.6,
+      "en": "Splinter.",
+      "zh": "分裂。"
+    },
+    {
+      "id": 126,
+      "start": 397.02,
+      "end": 397.4,
+      "en": "Splinters.",
+      "zh": "碎片。"
+    },
+    {
+      "id": 127,
+      "start": 397.68,
+      "end": 403.64,
+      "en": "So like I said, if you cut a piece of wood, there are little pieces of wood that stick out and you can get hurt.",
+      "zh": "所以就像我说的，如果你切一块木头，就会有小块木头伸出来，你会受伤。"
+    },
+    {
+      "id": 128,
+      "start": 403.64,
+      "end": 404.8,
+      "en": "They can get under your skin.",
+      "zh": "他们可以进入你的皮肤。"
+    },
+    {
+      "id": 129,
+      "start": 404.8,
+      "end": 405.8,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 130,
+      "start": 405.8,
+      "end": 407.42,
+      "en": "So tiny, tiny parts of wood.",
+      "zh": "如此微小的木材部分。"
+    },
+    {
+      "id": 131,
+      "start": 408.36,
+      "end": 409.36,
+      "en": "That's called a splinter.",
+      "zh": "这就是所谓的碎片。"
+    },
+    {
+      "id": 132,
+      "start": 409.36,
+      "end": 410.36,
+      "en": "A splinter.",
+      "zh": "一个碎片。"
+    },
+    {
+      "id": 133,
+      "start": 411.13,
+      "end": 411.35,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 134,
+      "start": 411.36,
+      "end": 414.09,
+      "en": "So why don't we go on to our next tool.",
+      "zh": "那么我们为什么不继续我们的下一个工具。"
+    },
+    {
+      "id": 135,
+      "start": 414.84,
+      "end": 416.47,
+      "en": "They were talking about a level.",
+      "zh": "他们在谈论一个层次。"
+    },
+    {
+      "id": 136,
+      "start": 417.2,
+      "end": 417.93,
+      "en": "A level.",
+      "zh": "一个级别。"
+    },
+    {
+      "id": 137,
+      "start": 418.29,
+      "end": 419.09,
+      "en": "The level.",
+      "zh": "级别。"
+    },
+    {
+      "id": 138,
+      "start": 419.2,
+      "end": 420.28,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 139,
+      "start": 420.28,
+      "end": 427.28,
+      "en": "So this is a tool that all carpenters have and it's basically a tool that has a little bit of water in it, right?",
+      "zh": "所以这是所有木匠都有的工具，它基本上是一个有一点水的工具，对吧？"
+    },
+    {
+      "id": 140,
+      "start": 427.68,
+      "end": 428.68,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 141,
+      "start": 428.68,
+      "end": 431.98,
+      "en": "And it helps you make sure that everything is straight and flat.",
+      "zh": "它可以帮助您确保一切都是直的和平坦的。"
+    },
+    {
+      "id": 142,
+      "start": 432.44,
+      "end": 432.6,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 143,
+      "start": 433.44,
+      "end": 433.9,
+      "en": "So that's a level.",
+      "zh": "所以这是一个层次。"
+    },
+    {
+      "id": 144,
+      "start": 434.44,
+      "end": 435.28,
+      "en": "Every carpenter has it.",
+      "zh": "每个木匠都有它。"
+    },
+    {
+      "id": 145,
+      "start": 435.68,
+      "end": 437.52,
+      "en": "And also a measuring tape.",
+      "zh": "还有一个卷尺。"
+    },
+    {
+      "id": 146,
+      "start": 437.84,
+      "end": 439.92,
+      "en": "A measuring tape.",
+      "zh": "卷尺。"
+    },
+    {
+      "id": 147,
+      "start": 439.92,
+      "end": 440.92,
+      "en": "Measuring tape.",
+      "zh": "卷尺。"
+    },
+    {
+      "id": 148,
+      "start": 440.92,
+      "end": 448.14,
+      "en": "Now I'm sure if this was a video podcast, we could show you what a measuring tape was and you'd really understand it, but we'll do our best to describe it for you.",
+      "zh": "现在我确定如果这是一个视频播客，我们可以向您展示什么是卷尺，您会真正理解它，但我们会尽力为您描述它。"
+    },
+    {
+      "id": 149,
+      "start": 449.28,
+      "end": 452.16,
+      "en": "So a measuring tape is like a ruler that rolls up.",
+      "zh": "所以卷尺就像卷起的尺子。"
+    },
+    {
+      "id": 150,
+      "start": 452.56,
+      "end": 453.56,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 151,
+      "start": 453.56,
+      "end": 462.7,
+      "en": "It's a very convenient ruler because it can roll up and you can measure something that is maybe six feet or three meters long and you can extend it.",
+      "zh": "这是一个非常方便的尺子，因为它可以卷起来，你可以测量可能有六英尺或三米长的东西，你可以延长它。"
+    },
+    {
+      "id": 152,
+      "start": 462.92,
+      "end": 466.04,
+      "en": "And when you're done measuring, you can put it back and just put it in your pocket.",
+      "zh": "当你完成测量后，你可以把它放回去，把它放在口袋里。"
+    },
+    {
+      "id": 153,
+      "start": 466.32,
+      "end": 467.32,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 154,
+      "start": 467.32,
+      "end": 468.12,
+      "en": "Every carpenter has one.",
+      "zh": "每一个木匠都有一个。"
+    },
+    {
+      "id": 155,
+      "start": 468.34,
+      "end": 469.2,
+      "en": "A measuring tape.",
+      "zh": "卷尺。"
+    },
+    {
+      "id": 156,
+      "start": 469.32,
+      "end": 470.32,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 157,
+      "start": 470.32,
+      "end": 472.2,
+      "en": "So that's our last tool that we're going to talk about.",
+      "zh": "所以这是我们要讨论的最后一个工具。"
+    },
+    {
+      "id": 158,
+      "start": 472.4,
+      "end": 478.2,
+      "en": "So why don't we move on now to Fluency Builder where we've got some phrases that you can use to talk about work.",
+      "zh": "那么，我们为什么不现在继续转向 Flueny Builder，我们有一些短语可以用来谈论工作。"
+    },
+    {
+      "id": 159,
+      "start": 479.7,
+      "end": 480.44,
+      "en": "Fluency Builder.",
+      "zh": "流利表达。"
+    },
+    {
+      "id": 160,
+      "start": 481.55,
+      "end": 489.55,
+      "en": "So when the contractor started giving them instructions, he said, I need everyone to give 110% today.",
+      "zh": "所以当承包商开始给他们指示时，他说，我今天需要每个人都付出 110%。"
+    },
+    {
+      "id": 161,
+      "start": 489.85,
+      "end": 492.05,
+      "en": "To give 110%.",
+      "zh": "给 110%。"
+    },
+    {
+      "id": 162,
+      "start": 492.05,
+      "end": 496.83,
+      "en": "So when you give 110%, you are basically trying very hard.",
+      "zh": "所以当你付出 110% 时，你基本上是非常努力的。"
+    },
+    {
+      "id": 163,
+      "start": 497.12,
+      "end": 498.12,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 164,
+      "start": 498.12,
+      "end": 499.55,
+      "en": "You give everything you have to your job.",
+      "zh": "你把你所拥有的一切都交给你的工作。"
+    },
+    {
+      "id": 165,
+      "start": 500.24,
+      "end": 501.24,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 166,
+      "start": 501.24,
+      "end": 504.93,
+      "en": "So it's not only 100%, it's 110, more than what's needed.",
+      "zh": "所以它不仅仅是 100%，它是 110，比需要的多。"
+    },
+    {
+      "id": 167,
+      "start": 505.24,
+      "end": 505.97,
+      "en": "So no lunch break.",
+      "zh": "所以没有午休时间。"
+    },
+    {
+      "id": 168,
+      "start": 506.31,
+      "end": 506.59,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 169,
+      "start": 507.15,
+      "end": 512.27,
+      "en": "So as they were talking about the instructions, one of the guys said, the carpenter's rule of thumb.",
+      "zh": "所以当他们谈论这些指示时，其中一位人说，木匠的经验法则。"
+    },
+    {
+      "id": 170,
+      "start": 512.93,
+      "end": 514.35,
+      "en": "A rule of thumb.",
+      "zh": "经验法则。"
+    },
+    {
+      "id": 171,
+      "start": 514.73,
+      "end": 517.41,
+      "en": "So this is an interesting phrase, rule of thumb.",
+      "zh": "所以这是一个有趣的短语，经验法则。"
+    },
+    {
+      "id": 172,
+      "start": 518.03,
+      "end": 518.85,
+      "en": "What does that mean exactly?",
+      "zh": "这到底是什么意思？"
+    },
+    {
+      "id": 173,
+      "start": 519.33,
+      "end": 519.57,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 174,
+      "start": 519.75,
+      "end": 520.21,
+      "en": "Well, you know what?",
+      "zh": "嗯，你知道吗？"
+    },
+    {
+      "id": 175,
+      "start": 520.39,
+      "end": 524.19,
+      "en": "I think we can understand the meaning pretty clearly if we listen to some examples.",
+      "zh": "我认为如果我们听一些例子，我们可以很清楚地理解这个含义。"
+    },
+    {
+      "id": 176,
+      "start": 525.88,
+      "end": 528.04,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 177,
+      "start": 528.04,
+      "end": 530.1,
+      "en": "The rule of thumb in making a sale is confidence.",
+      "zh": "销售的经验法则是信心。"
+    },
+    {
+      "id": 178,
+      "start": 531.0,
+      "end": 532.74,
+      "en": "Without confidence, you don't make a sale.",
+      "zh": "没有信心，你就不会进行销售。"
+    },
+    {
+      "id": 179,
+      "start": 534.64,
+      "end": 537.08,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 180,
+      "start": 537.08,
+      "end": 541.3,
+      "en": "The tailor's rule of thumb is twice the circumference of the wrist is the circumference of the neck.",
+      "zh": "裁缝的经验法则是手腕周长的两倍是颈部的周长。"
+    },
+    {
+      "id": 181,
+      "start": 543.56,
+      "end": 546.46,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 182,
+      "start": 546.46,
+      "end": 552.0,
+      "en": "You don't have to take everything I say about marketing as a rule of thumb.",
+      "zh": "你不必把我所说的关于营销的一切都当作一个经验法则。"
+    },
+    {
+      "id": 183,
+      "start": 552.0,
+      "end": 559.01,
+      "en": "One of the guys noticed a few problems, you know, the splinters, and he said, you've got to take pride in your work.",
+      "zh": "其中一个人注意到了一些问题，你知道，碎片，他说，你必须为你的工作感到自豪。"
+    },
+    {
+      "id": 184,
+      "start": 559.4,
+      "end": 559.59,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 185,
+      "start": 560.4,
+      "end": 562.08,
+      "en": "He said to take pride in your work.",
+      "zh": "他说为你的工作感到自豪。"
+    },
+    {
+      "id": 186,
+      "start": 562.08,
+      "end": 563.07,
+      "en": "To take pride in your work.",
+      "zh": "为你的工作感到自豪。"
+    },
+    {
+      "id": 187,
+      "start": 563.81,
+      "end": 565.21,
+      "en": "Why did he say that to her?",
+      "zh": "他为什么对她这么说？"
+    },
+    {
+      "id": 188,
+      "start": 565.37,
+      "end": 566.45,
+      "en": "What is he trying to tell her?",
+      "zh": "他想告诉她什么？"
+    },
+    {
+      "id": 189,
+      "start": 566.73,
+      "end": 569.87,
+      "en": "Well, because she made some mistakes, she didn't do such a good job.",
+      "zh": "好吧，因为她犯了一些错误，她没有做得这么好。"
+    },
+    {
+      "id": 190,
+      "start": 570.05,
+      "end": 573.72,
+      "en": "He's wanting her to work harder, work better, work more carefully.",
+      "zh": "他希望她更努力地工作，更好地工作，更仔细地工作。"
+    },
+    {
+      "id": 191,
+      "start": 574.12,
+      "end": 574.38,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 192,
+      "start": 574.38,
+      "end": 578.52,
+      "en": "And so she can be proud of her work and say, this is a job well done.",
+      "zh": "所以她可以为自己的工作感到自豪，并说，这是一项出色的工作。"
+    },
+    {
+      "id": 193,
+      "start": 578.94,
+      "end": 584.02,
+      "en": "So when you take pride in your work, you work so well and do such a good job that you feel really happy about it.",
+      "zh": "因此，当您为自己的工作感到自豪时，您的工作非常好，并且做得如此出色，以至于您对此感到非常高兴。"
+    },
+    {
+      "id": 194,
+      "start": 584.36,
+      "end": 585.36,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 195,
+      "start": 585.36,
+      "end": 586.36,
+      "en": "Good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 196,
+      "start": 586.36,
+      "end": 591.04,
+      "en": "So why don't we listen to this dialogue again for the last time and then we'll come back and talk about construction.",
+      "zh": "那么我们为什么不最后一次听这个对话，然后我们会回来谈论建设。"
+    },
+    {
+      "id": 197,
+      "start": 598.8,
+      "end": 606.9,
+      "en": "All right, ladies and gentlemen, we've been hired to build a deck on this here house and turn this boring and drab lawn into a backyard oasis.",
+      "zh": "好了，各位，我们受雇给这栋房子建一个木质露台，把这片单调乏味的草坪变成后院绿洲。"
+    },
+    {
+      "id": 198,
+      "start": 606.9,
+      "end": 607.63,
+      "en": "There is one catch though.",
+      "zh": "不过有一种问题。"
+    },
+    {
+      "id": 199,
+      "start": 608.03,
+      "end": 609.87,
+      "en": "We've only got one day to finish this.",
+      "zh": "我们只有一天时间把活干完。"
+    },
+    {
+      "id": 200,
+      "start": 610.5,
+      "end": 613.55,
+      "en": "So I'm going to need everyone to give 110% today.",
+      "zh": "所以我今天需要每个人都付出 110%。"
+    },
+    {
+      "id": 201,
+      "start": 613.96,
+      "end": 619.05,
+      "en": "It's going to be tough, but we've got a great team here and I know that together we can tackle this project.",
+      "zh": "这活不好干，但我们的团队很出色，我相信大家齐心协力就能完成。"
+    },
+    {
+      "id": 202,
+      "start": 619.51,
+      "end": 621.25,
+      "en": "That being said, let's get to work.",
+      "zh": "话虽如此，让我们开始工作吧。"
+    },
+    {
+      "id": 203,
+      "start": 621.93,
+      "end": 622.43,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 204,
+      "start": 623.24,
+      "end": 628.64,
+      "en": "Now remember, we've been over the plans, but we really need to make sure that everything is up to code.",
+      "zh": "记住，虽然我们已经看过图纸，但一定要确保所有施工都符合建筑规范。"
+    },
+    {
+      "id": 205,
+      "start": 628.64,
+      "end": 630.22,
+      "en": "The home inspectors here are pretty thorough.",
+      "zh": "这里的房屋检查员查得很仔细。"
+    },
+    {
+      "id": 206,
+      "start": 630.64,
+      "end": 633.04,
+      "en": "So please make sure you follow the plans exactly.",
+      "zh": "所以一定要严格按图纸施工。"
+    },
+    {
+      "id": 207,
+      "start": 634.04,
+      "end": 637.24,
+      "en": "And remember the carpenters rule of thumb, measure twice, cut once.",
+      "zh": "记住木匠的经验法则，测量两次，切一次。"
+    },
+    {
+      "id": 208,
+      "start": 638.08,
+      "end": 639.74,
+      "en": "Okay, guys, let's get at it.",
+      "zh": "好吧，伙计们，让我们开始吧。"
+    },
+    {
+      "id": 209,
+      "start": 640.3,
+      "end": 641.4,
+      "en": "Bob pass me that hammer.",
+      "zh": "鲍勃把那把锤子递给我。"
+    },
+    {
+      "id": 210,
+      "start": 646.71,
+      "end": 647.73,
+      "en": "The nails won't go in.",
+      "zh": "指甲不会进去。"
+    },
+    {
+      "id": 211,
+      "start": 648.23,
+      "end": 648.95,
+      "en": "Wood is too hard.",
+      "zh": "木头太硬。"
+    },
+    {
+      "id": 212,
+      "start": 649.8,
+      "end": 656.48,
+      "en": "I think I'm going to need the nail gun.",
+      "zh": "我想我需要钉枪。"
+    },
+    {
+      "id": 213,
+      "start": 656.48,
+      "end": 656.75,
+      "en": "That did it.",
+      "zh": "那是做到了。"
+    },
+    {
+      "id": 214,
+      "start": 657.83,
+      "end": 661.15,
+      "en": "Hey, do me a favor and help me cut this two by four, will ya?",
+      "zh": "嘿，帮我一个忙，帮我把这两个剪掉，好吗？"
+    },
+    {
+      "id": 215,
+      "start": 661.99,
+      "end": 665.43,
+      "en": "Pass me that circle saw and grab hold of the end of the board.",
+      "zh": "把那把圆锯递给我，再扶住木板的另一端。"
+    },
+    {
+      "id": 216,
+      "start": 666.26,
+      "end": 669.2,
+      "en": "Now help me drill some holes in it so we can place the bolts.",
+      "zh": "现在帮我在上面钻一些孔，这样我们就可以放置螺栓。"
+    },
+    {
+      "id": 217,
+      "start": 673.05,
+      "end": 674.77,
+      "en": "I think you should sand the edges.",
+      "zh": "我认为你应该打磨边缘。"
+    },
+    {
+      "id": 218,
+      "start": 675.23,
+      "end": 676.41,
+      "en": "Look at all these splinters.",
+      "zh": "看看所有这些碎片。"
+    },
+    {
+      "id": 219,
+      "start": 677.36,
+      "end": 678.84,
+      "en": "One could get hurt.",
+      "zh": "一人可能会受伤。"
+    },
+    {
+      "id": 220,
+      "start": 678.84,
+      "end": 681.76,
+      "en": "Jeez, you got to take pride in your work.",
+      "zh": "天哪，你必须为你的工作感到自豪。"
+    },
+    {
+      "id": 221,
+      "start": 681.76,
+      "end": 682.53,
+      "en": "Yeah, you're right.",
+      "zh": "对，你说得对。"
+    },
+    {
+      "id": 222,
+      "start": 683.46,
+      "end": 685.32,
+      "en": "Pass me the sander and I'll take care of it.",
+      "zh": "把砂光机递给我，我来处理。"
+    },
+    {
+      "id": 223,
+      "start": 687.35,
+      "end": 690.85,
+      "en": "Julia, get over here with that level measuring tape and that box of screws.",
+      "zh": "朱莉娅，带着那个水平的卷尺和那盒螺丝来过这里。"
+    },
+    {
+      "id": 224,
+      "start": 691.57,
+      "end": 693.37,
+      "en": "Oh no, look out below.",
+      "zh": "哦不，看看下面。"
+    },
+    {
+      "id": 225,
+      "start": 700.23,
+      "end": 704.95,
+      "en": "So an interesting aspect of North American culture is projects like this, right?",
+      "zh": "所以北美文化的一个有趣的方面是这样的项目，对吧？"
+    },
+    {
+      "id": 226,
+      "start": 705.36,
+      "end": 708.96,
+      "en": "Building a deck or maybe adding a room to your house.",
+      "zh": "建造甲板或为您的房子增加一个房间。"
+    },
+    {
+      "id": 227,
+      "start": 709.31,
+      "end": 709.79,
+      "en": "Yeah, that's right.",
+      "zh": "对，没错。"
+    },
+    {
+      "id": 228,
+      "start": 710.04,
+      "end": 711.56,
+      "en": "And we call this DIY.",
+      "zh": "我们称之为 DIY。"
+    },
+    {
+      "id": 229,
+      "start": 712.23,
+      "end": 713.61,
+      "en": "Right, DIY, do it yourself.",
+      "zh": "对，DIY，自己做。"
+    },
+    {
+      "id": 230,
+      "start": 714.76,
+      "end": 716.48,
+      "en": "So it's a very popular summer project, right?",
+      "zh": "所以这是一个非常受欢迎的夏季项目，对吧？"
+    },
+    {
+      "id": 231,
+      "start": 716.68,
+      "end": 717.68,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 232,
+      "start": 717.68,
+      "end": 729.0,
+      "en": "So if you live in a neighborhood in North America, you might see like, you know, the dad of a family outside building something and all his friends come over and they, you know, drink beer and build this big thing together.",
+      "zh": "因此，如果您住在北美的一个社区，您可能会看到，您知道，一个家庭的父亲建造某物，他所有的朋友都过来，他们，你们知道，喝啤酒，一起建造这个大事。"
+    },
+    {
+      "id": 233,
+      "start": 729.0,
+      "end": 729.2,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 234,
+      "start": 729.5,
+      "end": 735.13,
+      "en": "So it could be a tree house, it could be a deck, it could even maybe be adding another room to the house.",
+      "zh": "所以它可能是一个树屋，它可以是一个甲板，它甚至可能会为房子增加另一个房间。"
+    },
+    {
+      "id": 235,
+      "start": 735.35,
+      "end": 735.49,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 236,
+      "start": 735.51,
+      "end": 741.45,
+      "en": "And you know, it's actually, it's so popular that there are tons of TV shows about how to build stuff for your house.",
+      "zh": "你知道，它实际上是如此受欢迎，以至于有大量关于如何为你的房子建造东西的电视节目。"
+    },
+    {
+      "id": 237,
+      "start": 741.8,
+      "end": 748.83,
+      "en": "And there are a lot of really big stores where you can go and find like all of this equipment for building stuff for your house.",
+      "zh": "还有很多非常大的商店，您可以去那里找到所有这些设备，以便为您的房子建造东西。"
+    },
+    {
+      "id": 238,
+      "start": 749.07,
+      "end": 749.23,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 239,
+      "start": 749.23,
+      "end": 758.49,
+      "en": "So basically there are these big stores where you can get anything from paint to wood to tools, huge amount of material so you can do it yourself.",
+      "zh": "所以基本上有这些大商店，你可以买到从油漆到木头到工具的任何东西，大量的材料，所以你可以自己做。"
+    },
+    {
+      "id": 240,
+      "start": 759.24,
+      "end": 760.24,
+      "en": "You can DIY.",
+      "zh": "你可以DIY。"
+    },
+    {
+      "id": 241,
+      "start": 760.24,
+      "end": 761.24,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 242,
+      "start": 761.24,
+      "end": 770.31,
+      "en": "So that's all the time we have for today but let us know what you think and tell us if you are into doing handiwork like this, like maybe building a tree house or building a deck.",
+      "zh": "所以这就是我们今天的所有时间，但让我们知道您的想法，并告诉我们您是否喜欢做这样的手工艺品，比如建造树屋或建造甲板。"
+    },
+    {
+      "id": 243,
+      "start": 771.08,
+      "end": 772.08,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 244,
+      "start": 772.08,
+      "end": 774.76,
+      "en": "You can come to our website at EnglishPod.com and tell us about it.",
+      "zh": "您可以访问我们的网站 englishpod.com 并告诉我们。"
+    },
+    {
+      "id": 245,
+      "start": 774.76,
+      "end": 776.47,
+      "en": "As well, you can also leave your questions there.",
+      "zh": "同样，您也可以将您的问题留在那里。"
+    },
+    {
+      "id": 246,
+      "start": 776.76,
+      "end": 777.76,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 247,
+      "start": 777.76,
+      "end": 779.41,
+      "en": "So we'll see you guys there and until next time.",
+      "zh": "所以我们会在那里见到你们，直到下一次。"
+    },
+    {
+      "id": 248,
+      "start": 780.24,
+      "end": 781.19,
+      "en": "Thanks for listening and goodbye.",
+      "zh": "感谢收听，再见。"
+    },
+    {
+      "id": 249,
+      "start": 781.24,
+      "end": 790.152,
+      "en": "Bye.",
+      "zh": "再见。"
+    }
+  ],
+  "dialog": {
+    "start": 124.89,
+    "end": 219.61,
+    "segmentIds": [
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75
+    ]
+  }
+}

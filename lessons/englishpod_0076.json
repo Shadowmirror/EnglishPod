@@ -1,0 +1,2126 @@
+{
+  "version": 1,
+  "id": 76,
+  "number": "0076",
+  "title": "Daily Life - Learning Simple Math",
+  "audio": "mp3/76. Daily Life - Learning Simple Math.mp3",
+  "duration": 747.3110625,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 6.2,
+      "en": "Hello everyone, welcome back to another lesson with us here at EnglishPod.",
+      "zh": "大家好，欢迎回到 Englishpod 与我们一起参加另一节课。"
+    },
+    {
+      "id": 2,
+      "start": 6.2,
+      "end": 6.7,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 7.04,
+      "end": 7.7,
+      "en": "And I'm Erica.",
+      "zh": "我叫 Erica。"
+    },
+    {
+      "id": 4,
+      "start": 8.14,
+      "end": 9.42,
+      "en": "And today we're going back to school.",
+      "zh": "今天我们要回学校了。"
+    },
+    {
+      "id": 5,
+      "start": 10.02,
+      "end": 10.4,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 6,
+      "start": 10.7,
+      "end": 14.6,
+      "en": "We're talking about my least favorite subject.",
+      "zh": "我们在谈论我最不喜欢的科目。"
+    },
+    {
+      "id": 7,
+      "start": 15.56,
+      "end": 16.46,
+      "en": "That would be math.",
+      "zh": "那将是数学。"
+    },
+    {
+      "id": 8,
+      "start": 16.86,
+      "end": 17.18,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 9,
+      "start": 17.6,
+      "end": 19.66,
+      "en": "Okay, so we're going to be talking about math.",
+      "zh": "好吧，我们将谈论数学。"
+    },
+    {
+      "id": 10,
+      "start": 20.08,
+      "end": 23.16,
+      "en": "Now I know that many of you, of course, know math.",
+      "zh": "现在我知道你们中的许多人当然知道数学。"
+    },
+    {
+      "id": 11,
+      "start": 23.56,
+      "end": 23.72,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 12,
+      "start": 24.8,
+      "end": 26.47,
+      "en": "But do you know the operations in English?",
+      "zh": "但是你知道英语的操作吗？"
+    },
+    {
+      "id": 13,
+      "start": 27.24,
+      "end": 33.39,
+      "en": "Many people find it hard to find the right words to talk about math in English.",
+      "zh": "许多人发现很难找到合适的词来用英语谈论数学。"
+    },
+    {
+      "id": 14,
+      "start": 33.96,
+      "end": 34.96,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 15,
+      "start": 34.96,
+      "end": 36.65,
+      "en": "So that's what we're going to be looking at today.",
+      "zh": "这就是我们今天要关注的内容。"
+    },
+    {
+      "id": 16,
+      "start": 37.26,
+      "end": 42.73,
+      "en": "And we'll also look at some names that you can call people who are really, really, really smart.",
+      "zh": "我们还将查看一些您可以称呼那些非常非常聪明的人的名字。"
+    },
+    {
+      "id": 17,
+      "start": 44.42,
+      "end": 50.47,
+      "en": "So let's listen to our dialogue for the first time and then we'll come back and look at those math words.",
+      "zh": "所以让我们第一次听我们的对话，然后我们会回来看看那些数学词。"
+    },
+    {
+      "id": 18,
+      "start": 60.0,
+      "end": 61.33,
+      "en": "All right, children, let's review.",
+      "zh": "好了，孩子们，我们复习一下。"
+    },
+    {
+      "id": 19,
+      "start": 62.13,
+      "end": 62.97,
+      "en": "Tommy, pay attention.",
+      "zh": "汤米，注意听。"
+    },
+    {
+      "id": 20,
+      "start": 63.68,
+      "end": 65.36,
+      "en": "Sorry, Miss Kadlec.",
+      "zh": "对不起，卡德莱克小姐。"
+    },
+    {
+      "id": 21,
+      "start": 65.71,
+      "end": 67.17,
+      "en": "Okay, Crystal, now tell me.",
+      "zh": "好，克丽丝特尔，你来回答。"
+    },
+    {
+      "id": 22,
+      "start": 67.96,
+      "end": 70.08,
+      "en": "What's four plus 11?",
+      "zh": "四加十一等于多少？"
+    },
+    {
+      "id": 23,
+      "start": 70.08,
+      "end": 71.56,
+      "en": "Um, 15.",
+      "zh": "嗯，15。"
+    },
+    {
+      "id": 24,
+      "start": 71.56,
+      "end": 74.24,
+      "en": "Miss Kadlec always asks Crystal.",
+      "zh": "卡德莱克老师总是叫克丽丝特尔。"
+    },
+    {
+      "id": 25,
+      "start": 74.24,
+      "end": 74.98,
+      "en": "She's such a teacher's pet.",
+      "zh": "她就是老师的宠儿。"
+    },
+    {
+      "id": 26,
+      "start": 75.66,
+      "end": 76.16,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 27,
+      "start": 76.74,
+      "end": 78.96,
+      "en": "And what about 56 minus 60?",
+      "zh": "那么 56 减去 60 呢？"
+    },
+    {
+      "id": 28,
+      "start": 79.6,
+      "end": 81.92,
+      "en": "Um, negative four.",
+      "zh": "嗯，负四。"
+    },
+    {
+      "id": 29,
+      "start": 81.92,
+      "end": 82.92,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 30,
+      "start": 82.92,
+      "end": 83.62,
+      "en": "12 times 12?",
+      "zh": "12乘12？"
+    },
+    {
+      "id": 31,
+      "start": 84.32,
+      "end": 85.32,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 32,
+      "start": 85.32,
+      "end": 86.32,
+      "en": "Suck up.",
+      "zh": "拍马屁。"
+    },
+    {
+      "id": 33,
+      "start": 86.32,
+      "end": 87.32,
+      "en": "144.",
+      "zh": "一百四十四。"
+    },
+    {
+      "id": 34,
+      "start": 87.32,
+      "end": 90.0,
+      "en": "Zero divided by one?",
+      "zh": "零除以一？"
+    },
+    {
+      "id": 35,
+      "start": 90.0,
+      "end": 91.12,
+      "en": "Zero.",
+      "zh": "零。"
+    },
+    {
+      "id": 36,
+      "start": 91.12,
+      "end": 92.09,
+      "en": "How did you know that?",
+      "zh": "你怎么知道的？"
+    },
+    {
+      "id": 37,
+      "start": 92.56,
+      "end": 93.63,
+      "en": "Okay, smarty pants.",
+      "zh": "好啊，机灵鬼。"
+    },
+    {
+      "id": 38,
+      "start": 94.21,
+      "end": 95.43,
+      "en": "The square root of two.",
+      "zh": "二的平方根。"
+    },
+    {
+      "id": 39,
+      "start": 95.8,
+      "end": 98.2,
+      "en": "Bet you're not going to get that one.",
+      "zh": "看你这回还会不会。"
+    },
+    {
+      "id": 40,
+      "start": 98.2,
+      "end": 98.52,
+      "en": "Do it all.",
+      "zh": "算出来呀。"
+    },
+    {
+      "id": 41,
+      "start": 99.2,
+      "end": 100.2,
+      "en": "Um, um, 1.4142135.",
+      "zh": "嗯，嗯，1.4142135。"
+    },
+    {
+      "id": 42,
+      "start": 100.2,
+      "end": 112.36,
+      "en": "All right, so that's one smart little girl, huh?",
+      "zh": "好吧，那是一个聪明的小女孩，对吧？"
+    },
+    {
+      "id": 43,
+      "start": 112.36,
+      "end": 113.0,
+      "en": "Yeah, pretty smart.",
+      "zh": "是的，很聪明。"
+    },
+    {
+      "id": 44,
+      "start": 113.36,
+      "end": 116.08,
+      "en": "Actually, smarter than me in math.",
+      "zh": "实际上，数学上比我聪明。"
+    },
+    {
+      "id": 45,
+      "start": 116.08,
+      "end": 128.36,
+      "en": "All right, so let's take a look at some of those words that the teacher used to ask her about certain operations in Language Takeaway.",
+      "zh": "好吧，让我们来看看老师用来向她询问的一些语言外卖操作的单词。"
+    },
+    {
+      "id": 46,
+      "start": 128.36,
+      "end": 130.52,
+      "en": "Language Takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 47,
+      "start": 130.52,
+      "end": 140.11,
+      "en": "Okay so like we said, you guys know how to do math and you know the words in your language, but maybe in English it's a little bit harder to find the right words.",
+      "zh": "好吧，就像我们说的那样，你们知道如何做数学，并且知道您的语言中的单词，但也许在英语中找到正确的单词有点困难。"
+    },
+    {
+      "id": 48,
+      "start": 140.32,
+      "end": 141.27,
+      "en": "So let's look at those now.",
+      "zh": "所以让我们现在看看那些。"
+    },
+    {
+      "id": 49,
+      "start": 141.95,
+      "end": 146.01,
+      "en": "Okay, so let's look at the first question that she asked.",
+      "zh": "好吧，让我们看看她问的第一个问题。"
+    },
+    {
+      "id": 50,
+      "start": 147.16,
+      "end": 150.08,
+      "en": "What's four plus 11?",
+      "zh": "四加十一等于多少？"
+    },
+    {
+      "id": 51,
+      "start": 150.08,
+      "end": 152.08,
+      "en": "Four plus 11.",
+      "zh": "四加11。"
+    },
+    {
+      "id": 52,
+      "start": 152.59,
+      "end": 153.15,
+      "en": "Okay, plus.",
+      "zh": "好的，加上。"
+    },
+    {
+      "id": 53,
+      "start": 153.59,
+      "end": 153.73,
+      "en": "Plus.",
+      "zh": "加。"
+    },
+    {
+      "id": 54,
+      "start": 154.8,
+      "end": 155.53,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 55,
+      "start": 156.0,
+      "end": 157.92,
+      "en": "So four plus 11, Erica, is?",
+      "zh": "那么四加11，埃里卡是吗？"
+    },
+    {
+      "id": 56,
+      "start": 157.92,
+      "end": 160.0,
+      "en": "Uh, let me take a look at here.",
+      "zh": "呃，让我看看这里。"
+    },
+    {
+      "id": 57,
+      "start": 160.0,
+      "end": 161.36,
+      "en": "Um, 15.",
+      "zh": "嗯，15。"
+    },
+    {
+      "id": 58,
+      "start": 161.36,
+      "end": 162.36,
+      "en": "15.",
+      "zh": "十五。"
+    },
+    {
+      "id": 59,
+      "start": 162.36,
+      "end": 164.35,
+      "en": "Okay, so we are adding, right?",
+      "zh": "好吧，我们正在添加，对吧？"
+    },
+    {
+      "id": 60,
+      "start": 164.48,
+      "end": 165.48,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 61,
+      "start": 165.48,
+      "end": 166.48,
+      "en": "So that's how you would say.",
+      "zh": "所以这就是你会说的。"
+    },
+    {
+      "id": 62,
+      "start": 166.48,
+      "end": 166.77,
+      "en": "Let's go with an easy one.",
+      "zh": "让我们来一件简单的事情。"
+    },
+    {
+      "id": 63,
+      "start": 167.48,
+      "end": 168.48,
+      "en": "Two plus two.",
+      "zh": "二加二。"
+    },
+    {
+      "id": 64,
+      "start": 168.48,
+      "end": 169.48,
+      "en": "Four.",
+      "zh": "四。"
+    },
+    {
+      "id": 65,
+      "start": 169.48,
+      "end": 170.48,
+      "en": "Four, right?",
+      "zh": "四，对吧？"
+    },
+    {
+      "id": 66,
+      "start": 170.48,
+      "end": 171.96,
+      "en": "Or five plus five.",
+      "zh": "或五加五。"
+    },
+    {
+      "id": 67,
+      "start": 172.16,
+      "end": 172.62,
+      "en": "Ten.",
+      "zh": "十。"
+    },
+    {
+      "id": 68,
+      "start": 172.96,
+      "end": 173.68,
+      "en": "Ten, okay.",
+      "zh": "十，好吧。"
+    },
+    {
+      "id": 69,
+      "start": 174.0,
+      "end": 175.52,
+      "en": "You're really testing my skills.",
+      "zh": "你真的在考验我的技能。"
+    },
+    {
+      "id": 70,
+      "start": 176.66,
+      "end": 178.8,
+      "en": "So that's how you would add numbers.",
+      "zh": "所以这就是你添加数字的方式。"
+    },
+    {
+      "id": 71,
+      "start": 179.54,
+      "end": 182.84,
+      "en": "Now what about taking away numbers?",
+      "zh": "现在拿走数字怎么样？"
+    },
+    {
+      "id": 72,
+      "start": 183.12,
+      "end": 185.44,
+      "en": "Okay, so taking away or subtracting.",
+      "zh": "好吧，所以拿走或减去。"
+    },
+    {
+      "id": 73,
+      "start": 185.44,
+      "end": 188.56,
+      "en": "All right, let's test you again.",
+      "zh": "好吧，让我们再次测试你。"
+    },
+    {
+      "id": 74,
+      "start": 188.56,
+      "end": 192.13,
+      "en": "In the dialogue, she said 56 minus 60.",
+      "zh": "在对话中，她说56减60。"
+    },
+    {
+      "id": 75,
+      "start": 192.92,
+      "end": 197.64,
+      "en": "56 minus 60 equals negative four.",
+      "zh": "56 减 60 等于负四。"
+    },
+    {
+      "id": 76,
+      "start": 197.64,
+      "end": 198.81,
+      "en": "Okay, minus.",
+      "zh": "好吧，减。"
+    },
+    {
+      "id": 77,
+      "start": 199.24,
+      "end": 200.63,
+      "en": "So that's negative, right?",
+      "zh": "所以这是消极的，对吧？"
+    },
+    {
+      "id": 78,
+      "start": 201.64,
+      "end": 202.64,
+      "en": "Minus.",
+      "zh": "减。"
+    },
+    {
+      "id": 79,
+      "start": 202.64,
+      "end": 208.17,
+      "en": "So, and of course, if you have 56 apples and you take away 60, you are left with?",
+      "zh": "所以，当然，如果你有 56 个苹果，你拿走了 60 个，你就剩下了吗？"
+    },
+    {
+      "id": 80,
+      "start": 208.64,
+      "end": 208.91,
+      "en": "Negative four.",
+      "zh": "负四。"
+    },
+    {
+      "id": 81,
+      "start": 209.64,
+      "end": 210.64,
+      "en": "Negative four.",
+      "zh": "负四。"
+    },
+    {
+      "id": 82,
+      "start": 210.64,
+      "end": 212.04,
+      "en": "Well, actually, you're left with zero apples.",
+      "zh": "好吧，实际上，你剩下的是零苹果。"
+    },
+    {
+      "id": 83,
+      "start": 212.04,
+      "end": 212.59,
+      "en": "Yeah, exactly.",
+      "zh": "对，没错。"
+    },
+    {
+      "id": 84,
+      "start": 213.09,
+      "end": 215.85,
+      "en": "Now, that answer is also interesting, negative four.",
+      "zh": "现在，这个答案也很有趣，负四。"
+    },
+    {
+      "id": 85,
+      "start": 216.07,
+      "end": 216.87,
+      "en": "Negative four.",
+      "zh": "负四。"
+    },
+    {
+      "id": 86,
+      "start": 217.15,
+      "end": 219.31,
+      "en": "That means minus four, right?",
+      "zh": "这意味着负四，对吧？"
+    },
+    {
+      "id": 87,
+      "start": 219.37,
+      "end": 220.57,
+      "en": "Four less than zero.",
+      "zh": "四小于零。"
+    },
+    {
+      "id": 88,
+      "start": 220.79,
+      "end": 221.81,
+      "en": "Four less than zero.",
+      "zh": "四小于零。"
+    },
+    {
+      "id": 89,
+      "start": 222.05,
+      "end": 222.43,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 90,
+      "start": 222.96,
+      "end": 223.96,
+      "en": "Negative four.",
+      "zh": "负四。"
+    },
+    {
+      "id": 91,
+      "start": 223.96,
+      "end": 226.31,
+      "en": "Okay, so now for our next operation.",
+      "zh": "好的，现在我们的下一次手术。"
+    },
+    {
+      "id": 92,
+      "start": 227.6,
+      "end": 228.53,
+      "en": "Twelve times twelve.",
+      "zh": "十二乘以十二。"
+    },
+    {
+      "id": 93,
+      "start": 229.56,
+      "end": 231.2,
+      "en": "Twelve times twelve.",
+      "zh": "十二乘以十二。"
+    },
+    {
+      "id": 94,
+      "start": 231.2,
+      "end": 232.2,
+      "en": "Twelve times twelve.",
+      "zh": "十二乘以十二。"
+    },
+    {
+      "id": 95,
+      "start": 232.38,
+      "end": 233.86,
+      "en": "Now, Marco, don't ask me the answer.",
+      "zh": "现在，马可，不要问我答案。"
+    },
+    {
+      "id": 96,
+      "start": 234.32,
+      "end": 239.36,
+      "en": "All right, twelve times twelve equals 144.",
+      "zh": "好吧，十二乘十二等于144。"
+    },
+    {
+      "id": 97,
+      "start": 239.36,
+      "end": 240.36,
+      "en": "Now that's multiplying.",
+      "zh": "现在这是倍增。"
+    },
+    {
+      "id": 98,
+      "start": 240.76,
+      "end": 241.36,
+      "en": "Right, or multiplication.",
+      "zh": "对，或乘法。"
+    },
+    {
+      "id": 99,
+      "start": 241.36,
+      "end": 242.22,
+      "en": "Multiplication.",
+      "zh": "乘法。"
+    },
+    {
+      "id": 100,
+      "start": 242.36,
+      "end": 243.36,
+      "en": "Yeah, multiplication.",
+      "zh": "是的，乘法。"
+    },
+    {
+      "id": 101,
+      "start": 243.36,
+      "end": 251.24,
+      "en": "Okay, so this times part, it's very easy to remember because, for example, four times four.",
+      "zh": "好的，所以这个时间部分，很容易记住，因为，例如，四乘四。"
+    },
+    {
+      "id": 102,
+      "start": 251.24,
+      "end": 254.44,
+      "en": "You can just say four, the number four, and you add it, right?",
+      "zh": "你可以说四个，数字四，你加它，对吧？"
+    },
+    {
+      "id": 103,
+      "start": 255.0,
+      "end": 255.36,
+      "en": "Four times.",
+      "zh": "四次。"
+    },
+    {
+      "id": 104,
+      "start": 256.0,
+      "end": 257.0,
+      "en": "Four times.",
+      "zh": "四次。"
+    },
+    {
+      "id": 105,
+      "start": 257.0,
+      "end": 258.56,
+      "en": "Four plus four plus four plus four.",
+      "zh": "四加四加四加四。"
+    },
+    {
+      "id": 106,
+      "start": 258.56,
+      "end": 259.76,
+      "en": "Right, so times.",
+      "zh": "是的，所以时间。"
+    },
+    {
+      "id": 107,
+      "start": 260.24,
+      "end": 261.24,
+      "en": "Times.",
+      "zh": "次。"
+    },
+    {
+      "id": 108,
+      "start": 261.24,
+      "end": 262.24,
+      "en": "Uh-huh.",
+      "zh": "嗯。"
+    },
+    {
+      "id": 109,
+      "start": 262.24,
+      "end": 263.0,
+      "en": "Now, the opposite of times.",
+      "zh": "现在，与时代相反。"
+    },
+    {
+      "id": 110,
+      "start": 263.4,
+      "end": 267.16,
+      "en": "All right, the opposite of multiplication is division.",
+      "zh": "好吧，乘法的对立面是除法。"
+    },
+    {
+      "id": 111,
+      "start": 267.31,
+      "end": 267.81,
+      "en": "Division.",
+      "zh": "师。"
+    },
+    {
+      "id": 112,
+      "start": 268.51,
+      "end": 273.15,
+      "en": "Okay, so in our dialogue, the teacher said zero divided by one.",
+      "zh": "好吧，所以在我们的对话中，老师说零除以一。"
+    },
+    {
+      "id": 113,
+      "start": 273.59,
+      "end": 276.03,
+      "en": "Zero divided by one.",
+      "zh": "零除以一。"
+    },
+    {
+      "id": 114,
+      "start": 276.47,
+      "end": 278.41,
+      "en": "Zero divided by one.",
+      "zh": "零除以一。"
+    },
+    {
+      "id": 115,
+      "start": 278.81,
+      "end": 280.71,
+      "en": "Any number divided by zero is zero.",
+      "zh": "任何除以零的数字都为零。"
+    },
+    {
+      "id": 116,
+      "start": 281.19,
+      "end": 282.61,
+      "en": "All right, so let's give another example.",
+      "zh": "好吧，让我们再举一个例子。"
+    },
+    {
+      "id": 117,
+      "start": 283.44,
+      "end": 284.25,
+      "en": "Fifteen divided by three.",
+      "zh": "十五除以三。"
+    },
+    {
+      "id": 118,
+      "start": 284.73,
+      "end": 287.99,
+      "en": "All right, so fifteen divided by three equals?",
+      "zh": "好吧，那么十五除以三等分？"
+    },
+    {
+      "id": 119,
+      "start": 288.4,
+      "end": 288.79,
+      "en": "Five.",
+      "zh": "五。"
+    },
+    {
+      "id": 120,
+      "start": 289.4,
+      "end": 289.97,
+      "en": "Five, exactly.",
+      "zh": "五，确切地说。"
+    },
+    {
+      "id": 121,
+      "start": 290.72,
+      "end": 292.48,
+      "en": "So divided by.",
+      "zh": "于是分开。"
+    },
+    {
+      "id": 122,
+      "start": 292.48,
+      "end": 292.73,
+      "en": "Divided by.",
+      "zh": "除以。"
+    },
+    {
+      "id": 123,
+      "start": 293.72,
+      "end": 293.91,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 124,
+      "start": 294.72,
+      "end": 302.15,
+      "en": "So after division, the teacher was very impressed, and now she asked a very hard mathematical operation, especially for a girl this age.",
+      "zh": "于是分师之后，老师很感动，现在她问了一个很辛苦的数学运算，特别是对于一个这个年龄段的女孩。"
+    },
+    {
+      "id": 125,
+      "start": 303.32,
+      "end": 304.77,
+      "en": "The square root of two.",
+      "zh": "二的平方根。"
+    },
+    {
+      "id": 126,
+      "start": 305.4,
+      "end": 307.91,
+      "en": "The square root of.",
+      "zh": "的平方根。"
+    },
+    {
+      "id": 127,
+      "start": 308.52,
+      "end": 309.01,
+      "en": "Square root.",
+      "zh": "平方根。"
+    },
+    {
+      "id": 128,
+      "start": 309.82,
+      "end": 313.43,
+      "en": "So let's give some examples to show what is the square root.",
+      "zh": "所以让我们举一些例子来展示什么是平方根。"
+    },
+    {
+      "id": 129,
+      "start": 313.96,
+      "end": 317.75,
+      "en": "Okay, so if I ask you the square root of nine.",
+      "zh": "好吧，如果我问你九的平方根。"
+    },
+    {
+      "id": 130,
+      "start": 318.04,
+      "end": 319.04,
+      "en": "Three.",
+      "zh": "三。"
+    },
+    {
+      "id": 131,
+      "start": 319.39,
+      "end": 319.85,
+      "en": "Three, right?",
+      "zh": "三，对吧？"
+    },
+    {
+      "id": 132,
+      "start": 320.04,
+      "end": 321.04,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 133,
+      "start": 321.04,
+      "end": 323.37,
+      "en": "What about the square root of four?",
+      "zh": "四的平方根怎么办？"
+    },
+    {
+      "id": 134,
+      "start": 323.92,
+      "end": 324.38,
+      "en": "Two.",
+      "zh": "二。"
+    },
+    {
+      "id": 135,
+      "start": 324.68,
+      "end": 325.54,
+      "en": "Two, okay.",
+      "zh": "二，好的。"
+    },
+    {
+      "id": 136,
+      "start": 326.16,
+      "end": 327.24,
+      "en": "So now one more.",
+      "zh": "所以现在又来了。"
+    },
+    {
+      "id": 137,
+      "start": 327.72,
+      "end": 329.4,
+      "en": "The square root of sixteen.",
+      "zh": "十六的平方根。"
+    },
+    {
+      "id": 138,
+      "start": 329.72,
+      "end": 329.9,
+      "en": "Four.",
+      "zh": "四。"
+    },
+    {
+      "id": 139,
+      "start": 330.4,
+      "end": 330.56,
+      "en": "Four.",
+      "zh": "四。"
+    },
+    {
+      "id": 140,
+      "start": 331.4,
+      "end": 332.84,
+      "en": "Okay, so you noticed the pattern, right?",
+      "zh": "好的，所以你注意到了模式，对吧？"
+    },
+    {
+      "id": 141,
+      "start": 332.84,
+      "end": 338.0,
+      "en": "And I'm sure everyone knows this in their own language, how you would get a square root.",
+      "zh": "而且我相信每个人都用他们自己的语言知道这一点，你将如何获得一个平方根。"
+    },
+    {
+      "id": 142,
+      "start": 338.0,
+      "end": 338.12,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 143,
+      "start": 339.0,
+      "end": 341.24,
+      "en": "So, this language is pretty simple.",
+      "zh": "所以，这种语言很简单。"
+    },
+    {
+      "id": 144,
+      "start": 341.48,
+      "end": 346.5,
+      "en": "You all know it in your own language, but let's hear it again in English one more time with the dialogue.",
+      "zh": "你们都用自己的语言知道它，但让我们用英语再听一次对话。"
+    },
+    {
+      "id": 145,
+      "start": 349.0,
+      "end": 356.0,
+      "en": "Alright, children, let's review.",
+      "zh": "好吧，孩子们，让我们回顾一下。"
+    },
+    {
+      "id": 146,
+      "start": 356.0,
+      "end": 356.8,
+      "en": "Tommy, pay attention.",
+      "zh": "汤米，注意听。"
+    },
+    {
+      "id": 147,
+      "start": 357.44,
+      "end": 359.32,
+      "en": "Sorry, Miss Kadlec.",
+      "zh": "对不起，卡德莱克小姐。"
+    },
+    {
+      "id": 148,
+      "start": 359.56,
+      "end": 361.1,
+      "en": "Okay, Crystal, now tell me.",
+      "zh": "好，克丽丝特尔，你来回答。"
+    },
+    {
+      "id": 149,
+      "start": 361.92,
+      "end": 364.44,
+      "en": "What's four plus eleven?",
+      "zh": "四加十一是什么？"
+    },
+    {
+      "id": 150,
+      "start": 364.44,
+      "end": 368.16,
+      "en": "Um, fifteen.",
+      "zh": "嗯，十五。"
+    },
+    {
+      "id": 151,
+      "start": 368.16,
+      "end": 370.2,
+      "en": "Miss Kadlec always asks Crystal.",
+      "zh": "卡德莱克老师总是叫克丽丝特尔。"
+    },
+    {
+      "id": 152,
+      "start": 370.2,
+      "end": 370.99,
+      "en": "She's such a teacher's pet.",
+      "zh": "她就是老师的宠儿。"
+    },
+    {
+      "id": 153,
+      "start": 371.88,
+      "end": 376.0,
+      "en": "Okay, and what about fifty-six minus sixty?",
+      "zh": "好的，那么五十六减六十呢？"
+    },
+    {
+      "id": 154,
+      "start": 376.0,
+      "end": 379.56,
+      "en": "Um, negative four.",
+      "zh": "嗯，负四。"
+    },
+    {
+      "id": 155,
+      "start": 379.56,
+      "end": 380.56,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 156,
+      "start": 380.56,
+      "end": 382.0,
+      "en": "Twelve times twelve?",
+      "zh": "十二乘十二？"
+    },
+    {
+      "id": 157,
+      "start": 382.0,
+      "end": 384.0,
+      "en": "Very good, suck up.",
+      "zh": "非常好，吸起来。"
+    },
+    {
+      "id": 158,
+      "start": 384.0,
+      "end": 386.16,
+      "en": "One forty-four.",
+      "zh": "一四十四。"
+    },
+    {
+      "id": 159,
+      "start": 386.16,
+      "end": 387.96,
+      "en": "Zero divided by one?",
+      "zh": "零除以一？"
+    },
+    {
+      "id": 160,
+      "start": 387.96,
+      "end": 389.04,
+      "en": "Zero.",
+      "zh": "零。"
+    },
+    {
+      "id": 161,
+      "start": 389.04,
+      "end": 390.04,
+      "en": "How did you know that?",
+      "zh": "你怎么知道的？"
+    },
+    {
+      "id": 162,
+      "start": 390.84,
+      "end": 393.4,
+      "en": "Okay smarty pants, the square root of two.",
+      "zh": "好的聪明的裤子，两个的平方根。"
+    },
+    {
+      "id": 163,
+      "start": 394.58,
+      "end": 396.8,
+      "en": "Bet you're not going to get that one, do it all.",
+      "zh": "打赌你不会得到那一，做这一切。"
+    },
+    {
+      "id": 164,
+      "start": 398.08,
+      "end": 405.68,
+      "en": "Um, um, one point four, one four, two one three five.",
+      "zh": "嗯，嗯，一分四，一四，二一三五。"
+    },
+    {
+      "id": 165,
+      "start": 405.68,
+      "end": 410.18,
+      "en": "Okay, so we understand the mathematical operations that we saw here, very easy.",
+      "zh": "好的，所以我们很容易理解我们在这里看到的数学运算。"
+    },
+    {
+      "id": 166,
+      "start": 410.76,
+      "end": 415.16,
+      "en": "But now there was another little kid in there who was very, I think, envious or jealous.",
+      "zh": "但现在还有另一个小孩，我认为他非常嫉妒或嫉妒。"
+    },
+    {
+      "id": 167,
+      "start": 415.52,
+      "end": 416.04,
+      "en": "Yeah, Tommy.",
+      "zh": "嗯，汤米。"
+    },
+    {
+      "id": 168,
+      "start": 416.48,
+      "end": 417.08,
+      "en": "Tommy, right?",
+      "zh": "汤米，对吧？"
+    },
+    {
+      "id": 169,
+      "start": 418.08,
+      "end": 421.4,
+      "en": "So he called her a couple of different names.",
+      "zh": "于是他给她起了几个不同的名字。"
+    },
+    {
+      "id": 170,
+      "start": 422.36,
+      "end": 425.88,
+      "en": "Well let's look at those now in Fluency Builder.",
+      "zh": "好吧，让我们看看现在在 Fluency Builder 中的那些。"
+    },
+    {
+      "id": 171,
+      "start": 425.88,
+      "end": 426.1,
+      "en": "Fluency Builder.",
+      "zh": "流利表达。"
+    },
+    {
+      "id": 172,
+      "start": 426.97,
+      "end": 432.61,
+      "en": "Okay, so the first one that he called Crystal, the little girl, he called her a teacher's pet.",
+      "zh": "好吧，第一个他称之为水晶的小女孩，他称她为老师的宠物。"
+    },
+    {
+      "id": 173,
+      "start": 433.36,
+      "end": 433.55,
+      "en": "Teacher's pet.",
+      "zh": "老师的宠儿。"
+    },
+    {
+      "id": 174,
+      "start": 434.48,
+      "end": 434.73,
+      "en": "Teacher's pet.",
+      "zh": "老师的宠儿。"
+    },
+    {
+      "id": 175,
+      "start": 435.48,
+      "end": 435.63,
+      "en": "Teacher's pet.",
+      "zh": "老师的宠儿。"
+    },
+    {
+      "id": 176,
+      "start": 436.48,
+      "end": 438.53,
+      "en": "So Erica, what exactly is a teacher's pet?",
+      "zh": "那么埃里卡，老师的宠物到底是什么？"
+    },
+    {
+      "id": 177,
+      "start": 438.99,
+      "end": 442.53,
+      "en": "It is the favorite student the teacher has in that class.",
+      "zh": "它是老师在那个班上最喜欢的学生。"
+    },
+    {
+      "id": 178,
+      "start": 442.69,
+      "end": 445.43,
+      "en": "Alright, so it's always the student that's helping the teacher.",
+      "zh": "好吧，所以帮助老师的总是学生。"
+    },
+    {
+      "id": 179,
+      "start": 445.69,
+      "end": 446.75,
+      "en": "Yeah, the smartest student.",
+      "zh": "是的，最聪明的学生。"
+    },
+    {
+      "id": 180,
+      "start": 447.16,
+      "end": 448.16,
+      "en": "Yeah, yeah.",
+      "zh": "对，对。"
+    },
+    {
+      "id": 181,
+      "start": 448.16,
+      "end": 448.71,
+      "en": "The teacher's pet.",
+      "zh": "老师的宠物。"
+    },
+    {
+      "id": 182,
+      "start": 448.97,
+      "end": 451.75,
+      "en": "Yeah, and it has a negative meaning in English.",
+      "zh": "是的，它在英语中具有负面含义。"
+    },
+    {
+      "id": 183,
+      "start": 452.3,
+      "end": 455.06,
+      "en": "Yeah, I wouldn't say that it's a good thing to be the teacher's pet.",
+      "zh": "是的，我不会说成为老师的宠物是件好事。"
+    },
+    {
+      "id": 184,
+      "start": 455.2,
+      "end": 456.42,
+      "en": "Like the teacher thinks it's good.",
+      "zh": "就像老师认为这很好。"
+    },
+    {
+      "id": 185,
+      "start": 456.74,
+      "end": 456.86,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 186,
+      "start": 457.2,
+      "end": 460.52,
+      "en": "But all of the friends and the classmates, they think it's bad.",
+      "zh": "但所有的朋友和同学，他们都认为这很糟糕。"
+    },
+    {
+      "id": 187,
+      "start": 460.66,
+      "end": 461.34,
+      "en": "Yeah, exactly.",
+      "zh": "对，没错。"
+    },
+    {
+      "id": 188,
+      "start": 461.86,
+      "end": 462.36,
+      "en": "Teacher's pet.",
+      "zh": "老师的宠儿。"
+    },
+    {
+      "id": 189,
+      "start": 462.84,
+      "end": 466.3,
+      "en": "And similar to teacher's pet is a suck up.",
+      "zh": "和老师的宠物一样，是吸吮。"
+    },
+    {
+      "id": 190,
+      "start": 467.24,
+      "end": 467.52,
+      "en": "Suck up.",
+      "zh": "拍马屁。"
+    },
+    {
+      "id": 191,
+      "start": 468.24,
+      "end": 469.24,
+      "en": "Suck up.",
+      "zh": "拍马屁。"
+    },
+    {
+      "id": 192,
+      "start": 469.24,
+      "end": 469.56,
+      "en": "Again, suck up.",
+      "zh": "再次，吸吮。"
+    },
+    {
+      "id": 193,
+      "start": 470.38,
+      "end": 471.28,
+      "en": "What is a suck up?",
+      "zh": "什么是吸盘？"
+    },
+    {
+      "id": 194,
+      "start": 471.62,
+      "end": 477.3,
+      "en": "A suck up is a person who tries really, really hard to make the teacher like him.",
+      "zh": "吸吮是一个非常非常努力地让老师喜欢他的人。"
+    },
+    {
+      "id": 195,
+      "start": 477.71,
+      "end": 481.41,
+      "en": "Okay, now we can also use it outside of the classroom, right?",
+      "zh": "好的，现在我们也可以在教室外使用它，对吧？"
+    },
+    {
+      "id": 196,
+      "start": 481.56,
+      "end": 482.49,
+      "en": "Yeah, at work maybe.",
+      "zh": "是的，也许在工作。"
+    },
+    {
+      "id": 197,
+      "start": 482.8,
+      "end": 487.03,
+      "en": "Okay, there is always at work, there is always one person who's the suck up, right?",
+      "zh": "好吧，总有一个人在工作，总有一个人很糟糕，对吧？"
+    },
+    {
+      "id": 198,
+      "start": 487.88,
+      "end": 488.88,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 199,
+      "start": 488.88,
+      "end": 491.07,
+      "en": "Now again, this has a negative meaning in English.",
+      "zh": "现在，这在英语中具有负面含义。"
+    },
+    {
+      "id": 200,
+      "start": 491.47,
+      "end": 498.57,
+      "en": "Yeah, I guess in the workplace, the rest of your colleagues don't really like that person who's considered to be the suck up, who's always trying to please the boss.",
+      "zh": "是的，我猜在工作场所，你的其他同事并不喜欢那个被认为是吸吮的人，他总是试图取悦老板。"
+    },
+    {
+      "id": 201,
+      "start": 498.97,
+      "end": 499.31,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 202,
+      "start": 500.84,
+      "end": 501.28,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 203,
+      "start": 501.28,
+      "end": 505.24,
+      "en": "All right, so the teacher calls Crystal a smarty pants.",
+      "zh": "好吧，所以老师称水晶为智能裤子。"
+    },
+    {
+      "id": 204,
+      "start": 506.28,
+      "end": 506.58,
+      "en": "Smarty pants.",
+      "zh": "聪明的裤子。"
+    },
+    {
+      "id": 205,
+      "start": 507.68,
+      "end": 507.92,
+      "en": "Smarty pants.",
+      "zh": "聪明的裤子。"
+    },
+    {
+      "id": 206,
+      "start": 508.68,
+      "end": 511.54,
+      "en": "Okay, so this is also a little name calling, right?",
+      "zh": "好吧，这也是一个小小的名字，对吧？"
+    },
+    {
+      "id": 207,
+      "start": 512.22,
+      "end": 513.92,
+      "en": "So what is a smarty pants?",
+      "zh": "那么什么是智能裤子呢？"
+    },
+    {
+      "id": 208,
+      "start": 513.92,
+      "end": 515.06,
+      "en": "Somebody who is too smart.",
+      "zh": "一个太聪明的人。"
+    },
+    {
+      "id": 209,
+      "start": 515.52,
+      "end": 516.52,
+      "en": "Too smart.",
+      "zh": "太聪明了。"
+    },
+    {
+      "id": 210,
+      "start": 516.52,
+      "end": 517.6,
+      "en": "Who tries too hard to be smart.",
+      "zh": "谁努力变得聪明。"
+    },
+    {
+      "id": 211,
+      "start": 518.08,
+      "end": 519.48,
+      "en": "Now this is only for little kids, right?",
+      "zh": "现在这只适合小孩，对吧？"
+    },
+    {
+      "id": 212,
+      "start": 519.84,
+      "end": 521.28,
+      "en": "I wouldn't call you a smarty pants, right?",
+      "zh": "我不会叫你聪明的裤子，对吧？"
+    },
+    {
+      "id": 213,
+      "start": 521.28,
+      "end": 522.72,
+      "en": "No, it's definitely for children.",
+      "zh": "不，绝对是给孩子的。"
+    },
+    {
+      "id": 214,
+      "start": 523.36,
+      "end": 524.02,
+      "en": "Adults don't say this.",
+      "zh": "大人不这么说。"
+    },
+    {
+      "id": 215,
+      "start": 524.36,
+      "end": 527.02,
+      "en": "Unless maybe you are joking or having fun with someone.",
+      "zh": "除非你在开玩笑或和某人玩得开心。"
+    },
+    {
+      "id": 216,
+      "start": 527.28,
+      "end": 532.12,
+      "en": "Yeah, but if you say it, you are suggesting that you're being like a child.",
+      "zh": "是的，但如果你这么说，你就是在暗示你就像一个孩子。"
+    },
+    {
+      "id": 217,
+      "start": 532.48,
+      "end": 532.64,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 218,
+      "start": 533.64,
+      "end": 535.52,
+      "en": "Okay, smarty pants.",
+      "zh": "好啊，机灵鬼。"
+    },
+    {
+      "id": 219,
+      "start": 535.52,
+      "end": 542.4,
+      "en": "And our last one, and this is also a very good phrase and a way to describe someone, know it all.",
+      "zh": "我们的最后一个，这也是一个很好的短语，也是一种描述某人的方式，无所不知。"
+    },
+    {
+      "id": 220,
+      "start": 542.4,
+      "end": 542.65,
+      "en": "Know it all.",
+      "zh": "知道这一切。"
+    },
+    {
+      "id": 221,
+      "start": 543.48,
+      "end": 544.03,
+      "en": "Know it all.",
+      "zh": "知道这一切。"
+    },
+    {
+      "id": 222,
+      "start": 544.48,
+      "end": 545.92,
+      "en": "A know it all.",
+      "zh": "一个无所不知。"
+    },
+    {
+      "id": 223,
+      "start": 545.92,
+      "end": 547.4,
+      "en": "Sometimes you say Mr. Know it all, right?",
+      "zh": "有时你说先生知道这一切，对吧？"
+    },
+    {
+      "id": 224,
+      "start": 547.68,
+      "end": 547.94,
+      "en": "Yeah, that's right.",
+      "zh": "对，没错。"
+    },
+    {
+      "id": 225,
+      "start": 548.68,
+      "end": 549.72,
+      "en": "Okay, so what is a know it all?",
+      "zh": "好的，那么什么是无所不知？"
+    },
+    {
+      "id": 226,
+      "start": 550.44,
+      "end": 554.7,
+      "en": "Somebody who tries to show everyone that they know it all.",
+      "zh": "试图向所有人表明他们知道这一切的人。"
+    },
+    {
+      "id": 227,
+      "start": 555.12,
+      "end": 555.68,
+      "en": "They know everything.",
+      "zh": "他们什么都知道。"
+    },
+    {
+      "id": 228,
+      "start": 556.12,
+      "end": 556.8,
+      "en": "Yeah, they're so smart.",
+      "zh": "是的，他们太聪明了。"
+    },
+    {
+      "id": 229,
+      "start": 557.12,
+      "end": 558.06,
+      "en": "They have the answers to everything.",
+      "zh": "他们对一切都有答案。"
+    },
+    {
+      "id": 230,
+      "start": 558.52,
+      "end": 561.26,
+      "en": "But they really, really try and show everyone that they know everything.",
+      "zh": "但他们真的，真的试图向每个人表明他们知道一切。"
+    },
+    {
+      "id": 231,
+      "start": 562.72,
+      "end": 565.7,
+      "en": "These people can be sometimes a little bit irritating, right?",
+      "zh": "这些人有时会有点烦人，对吧？"
+    },
+    {
+      "id": 232,
+      "start": 565.92,
+      "end": 567.18,
+      "en": "Yeah, very, very annoying.",
+      "zh": "是的，非常非常烦人。"
+    },
+    {
+      "id": 233,
+      "start": 568.1,
+      "end": 568.54,
+      "en": "Annoying.",
+      "zh": "烦人。"
+    },
+    {
+      "id": 234,
+      "start": 568.64,
+      "end": 569.64,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 235,
+      "start": 569.64,
+      "end": 572.84,
+      "en": "All right, so it's not a good thing to be a know it all all the time.",
+      "zh": "好吧，所以一直都知道这不是一件好事。"
+    },
+    {
+      "id": 236,
+      "start": 573.08,
+      "end": 577.08,
+      "en": "Yeah, actually all of these phrases are not good things to be.",
+      "zh": "是的，实际上所有这些短语都不是好东西。"
+    },
+    {
+      "id": 237,
+      "start": 577.08,
+      "end": 594.4,
+      "en": "Okay, so let's listen to our dialogue one more time and then we're going to come back and Erica's going to tell us how much she hates math.",
+      "zh": "好吧，让我们再听一次我们的对话，然后我们会回来，Erica 会告诉我们她有多讨厌数学。"
+    },
+    {
+      "id": 238,
+      "start": 594.4,
+      "end": 595.9,
+      "en": "All right children, let's review.",
+      "zh": "好吧，孩子们，让我们回顾一下。"
+    },
+    {
+      "id": 239,
+      "start": 596.54,
+      "end": 597.36,
+      "en": "Tommy, pay attention.",
+      "zh": "汤米，注意听。"
+    },
+    {
+      "id": 240,
+      "start": 598.08,
+      "end": 599.8,
+      "en": "Sorry, Miss Catlett.",
+      "zh": "对不起，卡特利特小姐。"
+    },
+    {
+      "id": 241,
+      "start": 600.2,
+      "end": 601.52,
+      "en": "Okay, Crystal, now tell me.",
+      "zh": "好，克丽丝特尔，你来回答。"
+    },
+    {
+      "id": 242,
+      "start": 602.36,
+      "end": 604.64,
+      "en": "What's four plus eleven?",
+      "zh": "四加十一是什么？"
+    },
+    {
+      "id": 243,
+      "start": 604.64,
+      "end": 605.64,
+      "en": "Fifteen.",
+      "zh": "十五。"
+    },
+    {
+      "id": 244,
+      "start": 606.64,
+      "end": 608.06,
+      "en": "Miss Catlett always asks Crystal.",
+      "zh": "卡特利特小姐总是问水晶。"
+    },
+    {
+      "id": 245,
+      "start": 608.6,
+      "end": 609.35,
+      "en": "She's such a teacher's pet.",
+      "zh": "她就是老师的宠儿。"
+    },
+    {
+      "id": 246,
+      "start": 610.3,
+      "end": 613.37,
+      "en": "Okay, and what about 56 minus 60?",
+      "zh": "好的，56 减 60 呢？"
+    },
+    {
+      "id": 247,
+      "start": 614.04,
+      "end": 616.24,
+      "en": "Negative four.",
+      "zh": "负四。"
+    },
+    {
+      "id": 248,
+      "start": 616.24,
+      "end": 616.57,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 249,
+      "start": 617.24,
+      "end": 618.64,
+      "en": "Twelve times twelve?",
+      "zh": "十二乘十二？"
+    },
+    {
+      "id": 250,
+      "start": 618.64,
+      "end": 619.77,
+      "en": "Very good, suck up.",
+      "zh": "非常好，吸起来。"
+    },
+    {
+      "id": 251,
+      "start": 620.64,
+      "end": 621.64,
+      "en": "144.",
+      "zh": "一百四十四。"
+    },
+    {
+      "id": 252,
+      "start": 622.04,
+      "end": 623.54,
+      "en": "Zero divided by one?",
+      "zh": "零除以一？"
+    },
+    {
+      "id": 253,
+      "start": 624.28,
+      "end": 625.44,
+      "en": "Zero.",
+      "zh": "零。"
+    },
+    {
+      "id": 254,
+      "start": 625.44,
+      "end": 626.42,
+      "en": "How did you know that?",
+      "zh": "你怎么知道的？"
+    },
+    {
+      "id": 255,
+      "start": 627.0,
+      "end": 628.04,
+      "en": "Okay, smarty pants.",
+      "zh": "好啊，机灵鬼。"
+    },
+    {
+      "id": 256,
+      "start": 628.56,
+      "end": 629.84,
+      "en": "The square root of two.",
+      "zh": "二的平方根。"
+    },
+    {
+      "id": 257,
+      "start": 630.12,
+      "end": 635.6,
+      "en": "Bet you're not going to get that one, know it all.",
+      "zh": "打赌你不会得到那一，知道这一切。"
+    },
+    {
+      "id": 258,
+      "start": 635.6,
+      "end": 636.6,
+      "en": "1.4142135.",
+      "zh": "一点四一四二一三五。"
+    },
+    {
+      "id": 259,
+      "start": 641.96,
+      "end": 646.16,
+      "en": "All right, so Erica, you were telling me that you hated math or you still do.",
+      "zh": "好吧，所以埃里卡，你告诉我你讨厌数学，或者你仍然喜欢。"
+    },
+    {
+      "id": 260,
+      "start": 646.72,
+      "end": 648.24,
+      "en": "Well, yes, that's true.",
+      "zh": "嗯，是的，这是真的。"
+    },
+    {
+      "id": 261,
+      "start": 648.24,
+      "end": 656.96,
+      "en": "I really do hate math and even doing a simple, you know, like 16 plus 32 is too hard for me.",
+      "zh": "我真的很讨厌数学，甚至做一个简单的，你知道，16加32对我来说太难了。"
+    },
+    {
+      "id": 262,
+      "start": 656.96,
+      "end": 660.83,
+      "en": "So you were never really that type of person that's good with numbers.",
+      "zh": "所以你从来都不是那种擅长数字的人。"
+    },
+    {
+      "id": 263,
+      "start": 661.13,
+      "end": 662.17,
+      "en": "No, I'm terrible with numbers.",
+      "zh": "不，我对数字很糟糕。"
+    },
+    {
+      "id": 264,
+      "start": 662.37,
+      "end": 664.25,
+      "en": "I can't even remember my own phone number.",
+      "zh": "我什至不记得我自己的电话号码。"
+    },
+    {
+      "id": 265,
+      "start": 664.45,
+      "end": 664.63,
+      "en": "Really?",
+      "zh": "真的吗？"
+    },
+    {
+      "id": 266,
+      "start": 665.56,
+      "end": 666.56,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 267,
+      "start": 666.56,
+      "end": 672.17,
+      "en": "Like I really, if someone asks me for my phone number, I have to look on my phone in the address book to find it.",
+      "zh": "就像我真的一样，如果有人要我的电话号码，我必须在通讯簿中查看我的手机才能找到它。"
+    },
+    {
+      "id": 268,
+      "start": 672.95,
+      "end": 674.73,
+      "en": "Well, yeah, sometimes numbers can be difficult.",
+      "zh": "嗯，是的，有时数字可能很困难。"
+    },
+    {
+      "id": 269,
+      "start": 675.21,
+      "end": 677.69,
+      "en": "I kind of liked math when I was younger.",
+      "zh": "我年轻的时候有点喜欢数学。"
+    },
+    {
+      "id": 270,
+      "start": 677.93,
+      "end": 679.55,
+      "en": "It just made sense.",
+      "zh": "它只是有道理的。"
+    },
+    {
+      "id": 271,
+      "start": 680.12,
+      "end": 684.76,
+      "en": "Well, I guess there's a reason why I'm an English teacher and not a math teacher.",
+      "zh": "好吧，我想我是一名英语老师而不是数学老师是有原因的。"
+    },
+    {
+      "id": 272,
+      "start": 684.76,
+      "end": 686.8,
+      "en": "And I was actually not very good at language.",
+      "zh": "而且我实际上不太擅长语言。"
+    },
+    {
+      "id": 273,
+      "start": 687.76,
+      "end": 688.16,
+      "en": "But here you are.",
+      "zh": "但你在这里。"
+    },
+    {
+      "id": 274,
+      "start": 688.76,
+      "end": 689.76,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 275,
+      "start": 689.76,
+      "end": 692.24,
+      "en": "Well, I mean, in Spanish, I like grammar.",
+      "zh": "嗯，我的意思是，在西班牙语中，我喜欢语法。"
+    },
+    {
+      "id": 276,
+      "start": 692.24,
+      "end": 693.38,
+      "en": "Not very good at that, all those rules.",
+      "zh": "不是很擅长，所有这些规则。"
+    },
+    {
+      "id": 277,
+      "start": 693.82,
+      "end": 694.7,
+      "en": "Yeah, but you're pretty good at English.",
+      "zh": "是的，但你的英语很擅长。"
+    },
+    {
+      "id": 278,
+      "start": 695.08,
+      "end": 695.86,
+      "en": "Oh, that's all right.",
+      "zh": "哦，没关系。"
+    },
+    {
+      "id": 279,
+      "start": 696.08,
+      "end": 697.08,
+      "en": "That's all right.",
+      "zh": "没关系。"
+    },
+    {
+      "id": 280,
+      "start": 697.08,
+      "end": 698.08,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 281,
+      "start": 698.08,
+      "end": 699.08,
+      "en": "What about you guys?",
+      "zh": "你们呢？"
+    },
+    {
+      "id": 282,
+      "start": 699.08,
+      "end": 703.12,
+      "en": "Tell us what your favorite subject or your least favorite subject in school was.",
+      "zh": "告诉我们您在学校最喜欢的科目或最不喜欢的科目是什么。"
+    },
+    {
+      "id": 283,
+      "start": 703.12,
+      "end": 703.36,
+      "en": "What about you?",
+      "zh": "你呢？"
+    },
+    {
+      "id": 284,
+      "start": 704.12,
+      "end": 706.88,
+      "en": "Do you have any favorite subject or did you have a favorite subject?",
+      "zh": "你有最喜欢的科目还是你有最喜欢的科目？"
+    },
+    {
+      "id": 285,
+      "start": 706.88,
+      "end": 707.88,
+      "en": "History.",
+      "zh": "历史。"
+    },
+    {
+      "id": 286,
+      "start": 707.88,
+      "end": 708.88,
+      "en": "History.",
+      "zh": "历史。"
+    },
+    {
+      "id": 287,
+      "start": 708.88,
+      "end": 709.88,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 288,
+      "start": 709.88,
+      "end": 710.88,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 289,
+      "start": 710.88,
+      "end": 711.88,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 290,
+      "start": 711.88,
+      "end": 712.88,
+      "en": "I liked chemistry for a while.",
+      "zh": "我喜欢化学一段时间。"
+    },
+    {
+      "id": 291,
+      "start": 712.88,
+      "end": 713.88,
+      "en": "Oh, God.",
+      "zh": "哦，天哪。"
+    },
+    {
+      "id": 292,
+      "start": 713.88,
+      "end": 714.88,
+      "en": "Chemistry involves numbers.",
+      "zh": "化学涉及数字。"
+    },
+    {
+      "id": 293,
+      "start": 714.88,
+      "end": 716.5,
+      "en": "Well, a little bit, but it was interesting as well.",
+      "zh": "嗯，有点，但也很有趣。"
+    },
+    {
+      "id": 294,
+      "start": 717.08,
+      "end": 722.34,
+      "en": "So come to the website, everyone, EnglishPod.com and you can find lots of other resources there.",
+      "zh": "所以来这个网站，每个人，englishpod.com，你可以在那里找到很多其他资源。"
+    },
+    {
+      "id": 295,
+      "start": 722.84,
+      "end": 730.36,
+      "en": "And also be sure to check out our activity stream where you can answer and ask very quick questions depending on your level.",
+      "zh": "还请务必查看我们的活动流，您可以根据您的水平回答并提出非常快速的问题。"
+    },
+    {
+      "id": 296,
+      "start": 730.36,
+      "end": 735.04,
+      "en": "So you can choose if you're an elementary student, then you would be talking to other elementaries.",
+      "zh": "因此，您可以选择是否是小学生，那么您将与其他小学生交谈。"
+    },
+    {
+      "id": 297,
+      "start": 735.04,
+      "end": 736.04,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 298,
+      "start": 736.04,
+      "end": 739.1,
+      "en": "Thanks for downloading this lesson and until next time, goodbye.",
+      "zh": "感谢您下载本课程，直到下一次，再见。"
+    }
+  ],
+  "dialog": {
+    "start": 60.0,
+    "end": 100.2,
+    "segmentIds": [
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41
+    ]
+  }
+}

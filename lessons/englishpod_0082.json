@@ -1,0 +1,2473 @@
+{
+  "version": 1,
+  "id": 82,
+  "number": "0082",
+  "title": "Daily Life - New Guy In Town V",
+  "audio": "mp3/82. Daily Life - New Guy In Town V.mp3",
+  "duration": 916.2971875,
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.81,
+      "end": 4.43,
+      "en": "Hello English learners, welcome back to EnglishPod.",
+      "zh": "您好英语学习者，欢迎回到 EnglishPod。"
+    },
+    {
+      "id": 2,
+      "start": 4.61,
+      "end": 5.09,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 5.31,
+      "end": 5.83,
+      "en": "And I'm Erica.",
+      "zh": "我叫 Erica。"
+    },
+    {
+      "id": 4,
+      "start": 6.41,
+      "end": 10.17,
+      "en": "And today we're bringing you the next part of our suspense series, The New Guy in Town.",
+      "zh": "今天，我们将为您带来我们 Suspense 系列的下一部分，即城里的新人。"
+    },
+    {
+      "id": 5,
+      "start": 10.43,
+      "end": 10.95,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 6,
+      "start": 11.53,
+      "end": 14.85,
+      "en": "So we know that Armando wasn't really a vampire, that he was just acting.",
+      "zh": "所以我们知道阿曼多并不是真正的吸血鬼，他只是在表演。"
+    },
+    {
+      "id": 7,
+      "start": 15.29,
+      "end": 18.53,
+      "en": "And the women aren't quite what they seem in this dialogue.",
+      "zh": "女性在这次对话中并不完全符合她们的样子。"
+    },
+    {
+      "id": 8,
+      "start": 19.17,
+      "end": 24.73,
+      "en": "In the last one, something happened and she transformed into some sort of, I don't know, creature, right?",
+      "zh": "在最后一件事中，发生了一些事情，她变成了某种我不知道的生物，对吧？"
+    },
+    {
+      "id": 9,
+      "start": 25.24,
+      "end": 26.24,
+      "en": "Like monster.",
+      "zh": "像怪物。"
+    },
+    {
+      "id": 10,
+      "start": 26.24,
+      "end": 26.43,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 11,
+      "start": 27.24,
+      "end": 28.27,
+      "en": "So now let's see what happens.",
+      "zh": "所以现在让我们看看会发生什么。"
+    },
+    {
+      "id": 12,
+      "start": 28.58,
+      "end": 31.4,
+      "en": "So we're not going to preview any vocabulary this time.",
+      "zh": "所以这次我们不会预览任何词汇表。"
+    },
+    {
+      "id": 13,
+      "start": 31.4,
+      "end": 33.65,
+      "en": "Let's just listen to the dialogue and see what happens.",
+      "zh": "让我们听对话，看看会发生什么。"
+    },
+    {
+      "id": 14,
+      "start": 46.17,
+      "end": 47.35,
+      "en": "What the heck is going on?",
+      "zh": "到底发生什么事了？"
+    },
+    {
+      "id": 15,
+      "start": 47.77,
+      "end": 48.37,
+      "en": "Did you see that?",
+      "zh": "你看到了吗？"
+    },
+    {
+      "id": 16,
+      "start": 48.71,
+      "end": 49.35,
+      "en": "What was that thing?",
+      "zh": "刚才那东西是什么？"
+    },
+    {
+      "id": 17,
+      "start": 49.73,
+      "end": 50.13,
+      "en": "I don't know.",
+      "zh": "我不知道。"
+    },
+    {
+      "id": 18,
+      "start": 50.56,
+      "end": 51.52,
+      "en": "I'm just glad we made it out.",
+      "zh": "幸好我们逃出来了。"
+    },
+    {
+      "id": 19,
+      "start": 51.52,
+      "end": 52.52,
+      "en": "Look, there's a police car.",
+      "zh": "看，有一辆警车。"
+    },
+    {
+      "id": 20,
+      "start": 52.52,
+      "end": 53.52,
+      "en": "Help!",
+      "zh": "救命！"
+    },
+    {
+      "id": 21,
+      "start": 53.52,
+      "end": 54.52,
+      "en": "Help!",
+      "zh": "救命！"
+    },
+    {
+      "id": 22,
+      "start": 54.52,
+      "end": 55.52,
+      "en": "Please, please stop!",
+      "zh": "请停下来！"
+    },
+    {
+      "id": 23,
+      "start": 55.52,
+      "end": 66.52,
+      "en": "Howdy, ma'am.",
+      "zh": "您好，女士。"
+    },
+    {
+      "id": 24,
+      "start": 66.52,
+      "end": 68.14,
+      "en": "What seems to be the problem?",
+      "zh": "请问有什么问题？"
+    },
+    {
+      "id": 25,
+      "start": 68.96,
+      "end": 70.08,
+      "en": "Is this man bothering you?",
+      "zh": "这个人在打扰你吗？"
+    },
+    {
+      "id": 26,
+      "start": 70.88,
+      "end": 72.16,
+      "en": "Officer, officer.",
+      "zh": "警官，警官！"
+    },
+    {
+      "id": 27,
+      "start": 72.16,
+      "end": 74.4,
+      "en": "There is like a witch creature back there.",
+      "zh": "后面有个像女巫一样的怪物！"
+    },
+    {
+      "id": 28,
+      "start": 74.74,
+      "end": 77.7,
+      "en": "We tied her up, but she broke free and she was about to have us for dinner.",
+      "zh": "我们把她绑了起来，可她挣脱了，还差点把我们当晚餐吃掉。"
+    },
+    {
+      "id": 29,
+      "start": 79.0,
+      "end": 80.01,
+      "en": "Okay, calm down.",
+      "zh": "好，冷静点。"
+    },
+    {
+      "id": 30,
+      "start": 80.56,
+      "end": 80.97,
+      "en": "Calm down.",
+      "zh": "冷静点。"
+    },
+    {
+      "id": 31,
+      "start": 81.84,
+      "end": 83.33,
+      "en": "Let me see your eyes, please.",
+      "zh": "请让我看看您的眼睛。"
+    },
+    {
+      "id": 32,
+      "start": 84.24,
+      "end": 85.65,
+      "en": "Have you been drinking tonight, son?",
+      "zh": "你今晚喝酒了吗，儿子？"
+    },
+    {
+      "id": 33,
+      "start": 86.72,
+      "end": 87.37,
+      "en": "We're telling the truth.",
+      "zh": "我们在说真话。"
+    },
+    {
+      "id": 34,
+      "start": 88.92,
+      "end": 89.35,
+      "en": "She's in there.",
+      "zh": "她就在里面。"
+    },
+    {
+      "id": 35,
+      "start": 89.92,
+      "end": 96.01,
+      "en": "We suspected her being a kidnapper or a rapist, but it turns out she's an alien or something.",
+      "zh": "我们原以为她是绑架犯或强奸犯，结果她像个外星怪物。"
+    },
+    {
+      "id": 36,
+      "start": 97.36,
+      "end": 98.53,
+      "en": "Okay, calm down.",
+      "zh": "好，冷静点。"
+    },
+    {
+      "id": 37,
+      "start": 99.16,
+      "end": 99.49,
+      "en": "Calm down.",
+      "zh": "冷静点。"
+    },
+    {
+      "id": 38,
+      "start": 100.16,
+      "end": 101.47,
+      "en": "Let me see your eyes, please.",
+      "zh": "请让我看看您的眼睛。"
+    },
+    {
+      "id": 39,
+      "start": 102.27,
+      "end": 102.64,
+      "en": "Seriously.",
+      "zh": "说真的。"
+    },
+    {
+      "id": 40,
+      "start": 102.64,
+      "end": 106.32,
+      "en": "Are you going to help us out or not?",
+      "zh": "你到底帮不帮我们？"
+    },
+    {
+      "id": 41,
+      "start": 106.32,
+      "end": 106.49,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 42,
+      "start": 107.32,
+      "end": 109.45,
+      "en": "Let's go have a look, shall we?",
+      "zh": "我们去看看，好吗？"
+    },
+    {
+      "id": 43,
+      "start": 133.95,
+      "end": 134.51,
+      "en": "Hello?",
+      "zh": "喂？"
+    },
+    {
+      "id": 44,
+      "start": 135.92,
+      "end": 139.08,
+      "en": "Is anyone in there?",
+      "zh": "有人在里面吗？"
+    },
+    {
+      "id": 45,
+      "start": 139.08,
+      "end": 139.34,
+      "en": "Be careful.",
+      "zh": "小心。"
+    },
+    {
+      "id": 46,
+      "start": 140.08,
+      "end": 140.68,
+      "en": "She might be hiding.",
+      "zh": "她可能藏起来了。"
+    },
+    {
+      "id": 47,
+      "start": 151.2,
+      "end": 152.48,
+      "en": "It's perfectly safe.",
+      "zh": "绝对安全。"
+    },
+    {
+      "id": 48,
+      "start": 152.48,
+      "end": 152.99,
+      "en": "There isn't anyone.",
+      "zh": "一个人也没有。"
+    },
+    {
+      "id": 49,
+      "start": 181.48,
+      "end": 187.04,
+      "en": "I don't think things are turning out very well for our housewives and Armand.",
+      "zh": "我认为我们的家庭主妇和阿芒德的情况并不好。"
+    },
+    {
+      "id": 50,
+      "start": 187.66,
+      "end": 192.24,
+      "en": "Apparently, the police officer is not going to make it to the next episode.",
+      "zh": "显然，警察不会参加下一集。"
+    },
+    {
+      "id": 51,
+      "start": 192.96,
+      "end": 193.96,
+      "en": "Uh-oh.",
+      "zh": "糟了。"
+    },
+    {
+      "id": 52,
+      "start": 193.96,
+      "end": 194.96,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 53,
+      "start": 194.96,
+      "end": 200.72,
+      "en": "So, we saw some really great vocabulary and even though it's kind of a scary story, there is a lot of things we can learn.",
+      "zh": "所以，我们看到了一些非常棒的词汇，尽管这是一个可怕的故事，但我们可以学到很多东西。"
+    },
+    {
+      "id": 54,
+      "start": 200.72,
+      "end": 203.02,
+      "en": "So why don't we take a look at it now in Language Takeaway.",
+      "zh": "那么我们为什么不现在在语言外卖中看看它。"
+    },
+    {
+      "id": 55,
+      "start": 204.78,
+      "end": 205.94,
+      "en": "Language Takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 56,
+      "start": 207.37,
+      "end": 216.43,
+      "en": "Well, we're going to look at five words and phrases here and the first one, they described this woman as a kind of creature.",
+      "zh": "好吧，我们将在这里查看五个单词和短语，第一个，他们将这个女人描述为一种生物。"
+    },
+    {
+      "id": 57,
+      "start": 216.72,
+      "end": 217.72,
+      "en": "Creature.",
+      "zh": "生物。"
+    },
+    {
+      "id": 58,
+      "start": 217.72,
+      "end": 218.72,
+      "en": "Creature.",
+      "zh": "生物。"
+    },
+    {
+      "id": 59,
+      "start": 219.29,
+      "end": 219.63,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 60,
+      "start": 219.72,
+      "end": 221.21,
+      "en": "So, what exactly is a creature?",
+      "zh": "那么，究竟什么是生物？"
+    },
+    {
+      "id": 61,
+      "start": 221.69,
+      "end": 223.09,
+      "en": "Well, a creature can be any animal.",
+      "zh": "好吧，生物可以是任何动物。"
+    },
+    {
+      "id": 62,
+      "start": 223.47,
+      "end": 223.89,
+      "en": "Any animal?",
+      "zh": "有动物吗？"
+    },
+    {
+      "id": 63,
+      "start": 224.03,
+      "end": 228.25,
+      "en": "Yeah, like from a mouse to a bird to an insect or a bug.",
+      "zh": "是的，就像从老鼠到鸟到昆虫或虫子一样。"
+    },
+    {
+      "id": 64,
+      "start": 228.51,
+      "end": 230.33,
+      "en": "So I can say a bird is a flying creature.",
+      "zh": "所以我可以说一只鸟是一种飞行的生物。"
+    },
+    {
+      "id": 65,
+      "start": 230.67,
+      "end": 230.97,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 66,
+      "start": 231.37,
+      "end": 231.63,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 67,
+      "start": 232.84,
+      "end": 237.36,
+      "en": "You can also use it to mean an unknown and scary animal.",
+      "zh": "你也可以用它来表示一种未知和可怕的动物。"
+    },
+    {
+      "id": 68,
+      "start": 237.36,
+      "end": 239.41,
+      "en": "So there's a creature under my bed.",
+      "zh": "所以我的床底下有一个生物。"
+    },
+    {
+      "id": 69,
+      "start": 239.84,
+      "end": 239.99,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 70,
+      "start": 240.84,
+      "end": 243.07,
+      "en": "Or some type of creature was attacking me.",
+      "zh": "或者某种类型的生物正在攻击我。"
+    },
+    {
+      "id": 71,
+      "start": 243.96,
+      "end": 244.49,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 72,
+      "start": 244.96,
+      "end": 249.08,
+      "en": "So, a creature can be any sort of living thing or animal.",
+      "zh": "因此，生物可以是任何生物或动物。"
+    },
+    {
+      "id": 73,
+      "start": 249.08,
+      "end": 250.08,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 74,
+      "start": 250.08,
+      "end": 251.08,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 75,
+      "start": 251.08,
+      "end": 252.08,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 76,
+      "start": 252.08,
+      "end": 253.08,
+      "en": "What about our next one?",
+      "zh": "我们的下一部呢？"
+    },
+    {
+      "id": 77,
+      "start": 253.08,
+      "end": 254.08,
+      "en": "Well, the creature broke free from some ropes.",
+      "zh": "好吧，这个生物摆脱了一些绳索。"
+    },
+    {
+      "id": 78,
+      "start": 254.3,
+      "end": 254.44,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 79,
+      "start": 254.74,
+      "end": 255.85,
+      "en": "So, to break free.",
+      "zh": "所以，要挣脱。"
+    },
+    {
+      "id": 80,
+      "start": 256.46,
+      "end": 256.83,
+      "en": "Break free.",
+      "zh": "挣脱。"
+    },
+    {
+      "id": 81,
+      "start": 257.56,
+      "end": 258.56,
+      "en": "Uh-huh.",
+      "zh": "嗯。"
+    },
+    {
+      "id": 82,
+      "start": 258.56,
+      "end": 258.76,
+      "en": "And what does that mean?",
+      "zh": "那是什么意思？"
+    },
+    {
+      "id": 83,
+      "start": 259.56,
+      "end": 263.17,
+      "en": "When you break free, you escape from something that stops you moving.",
+      "zh": "当你挣脱时，你会逃脱阻止你移动的东西。"
+    },
+    {
+      "id": 84,
+      "start": 263.64,
+      "end": 263.99,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 85,
+      "start": 263.99,
+      "end": 266.9,
+      "en": "So, you have the ability to move again.",
+      "zh": "所以，你有能力再次移动。"
+    },
+    {
+      "id": 86,
+      "start": 267.16,
+      "end": 268.16,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 87,
+      "start": 268.16,
+      "end": 269.14,
+      "en": "You break free from maybe ropes.",
+      "zh": "你摆脱了可能的绳索。"
+    },
+    {
+      "id": 88,
+      "start": 269.56,
+      "end": 270.0,
+      "en": "Or chains.",
+      "zh": "或链条。"
+    },
+    {
+      "id": 89,
+      "start": 270.92,
+      "end": 271.98,
+      "en": "Or even a relationship.",
+      "zh": "甚至是关系。"
+    },
+    {
+      "id": 90,
+      "start": 272.42,
+      "end": 272.8,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 91,
+      "start": 273.08,
+      "end": 276.52,
+      "en": "So, I can say, oh, I finally broke free from that awful relationship.",
+      "zh": "所以，我可以说，哦，我终于摆脱了这种可怕的关系。"
+    },
+    {
+      "id": 92,
+      "start": 276.88,
+      "end": 277.88,
+      "en": "Mm-hmm.",
+      "zh": "嗯。"
+    },
+    {
+      "id": 93,
+      "start": 277.88,
+      "end": 280.28,
+      "en": "Now, that's quite interesting the way we can use this in different ways.",
+      "zh": "现在，我们可以以不同的方式使用它的方式非常有趣。"
+    },
+    {
+      "id": 94,
+      "start": 280.52,
+      "end": 283.04,
+      "en": "So why don't we take a look at some examples now?",
+      "zh": "那么我们为什么不现在看一些例子呢？"
+    },
+    {
+      "id": 95,
+      "start": 284.68,
+      "end": 285.0,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 96,
+      "start": 288.2,
+      "end": 295.0,
+      "en": "Somebody tied up the dog, but he is trying to break free.",
+      "zh": "有人把狗绑起来，但他正试图挣脱。"
+    },
+    {
+      "id": 97,
+      "start": 295.0,
+      "end": 295.22,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 98,
+      "start": 299.16,
+      "end": 301.65,
+      "en": "I'm glad that I broke free from that horrible relationship.",
+      "zh": "我很高兴我摆脱了那种可怕的关系。"
+    },
+    {
+      "id": 99,
+      "start": 305.36,
+      "end": 309.8,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 100,
+      "start": 309.8,
+      "end": 312.86,
+      "en": "I want to break free from all my daily responsibilities.",
+      "zh": "我想摆脱我所有的日常责任。"
+    },
+    {
+      "id": 101,
+      "start": 316.45,
+      "end": 316.83,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 102,
+      "start": 317.12,
+      "end": 318.33,
+      "en": "So break free, it's clear now.",
+      "zh": "所以挣脱，现在很清楚了。"
+    },
+    {
+      "id": 103,
+      "start": 318.68,
+      "end": 319.68,
+      "en": "Mm-hmm.",
+      "zh": "嗯。"
+    },
+    {
+      "id": 104,
+      "start": 319.68,
+      "end": 321.04,
+      "en": "So why don't we move on to our next word?",
+      "zh": "那么我们为什么不继续我们的下一个词呢？"
+    },
+    {
+      "id": 105,
+      "start": 321.05,
+      "end": 324.71,
+      "en": "They thought that maybe this creature was a kidnapper.",
+      "zh": "他们认为这个生物可能是绑架者。"
+    },
+    {
+      "id": 106,
+      "start": 325.29,
+      "end": 325.85,
+      "en": "Kidnapper.",
+      "zh": "绑架犯。"
+    },
+    {
+      "id": 107,
+      "start": 326.21,
+      "end": 326.59,
+      "en": "Kidnapper.",
+      "zh": "绑架犯。"
+    },
+    {
+      "id": 108,
+      "start": 326.95,
+      "end": 327.35,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 109,
+      "start": 327.51,
+      "end": 328.11,
+      "en": "So this is?",
+      "zh": "所以这是？"
+    },
+    {
+      "id": 110,
+      "start": 328.8,
+      "end": 329.8,
+      "en": "A criminal.",
+      "zh": "罪犯。"
+    },
+    {
+      "id": 111,
+      "start": 329.8,
+      "end": 330.27,
+      "en": "So, a kidnapper is a criminal.",
+      "zh": "所以，绑架者是罪犯。"
+    },
+    {
+      "id": 112,
+      "start": 330.8,
+      "end": 331.8,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 113,
+      "start": 331.8,
+      "end": 332.8,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 114,
+      "start": 332.8,
+      "end": 334.72,
+      "en": "And what exactly does a kidnapper do?",
+      "zh": "绑匪到底是做什么的？"
+    },
+    {
+      "id": 115,
+      "start": 334.72,
+      "end": 339.36,
+      "en": "A kidnapper takes someone to a place and keeps them there against their will.",
+      "zh": "绑匪将某人带到一个地方，并违背他们的意愿将他们留在那里。"
+    },
+    {
+      "id": 116,
+      "start": 339.58,
+      "end": 340.24,
+      "en": "Against their will.",
+      "zh": "违背他们的意愿。"
+    },
+    {
+      "id": 117,
+      "start": 340.36,
+      "end": 341.24,
+      "en": "With force or violence.",
+      "zh": "以武力或暴力。"
+    },
+    {
+      "id": 118,
+      "start": 341.96,
+      "end": 342.08,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 119,
+      "start": 342.96,
+      "end": 343.88,
+      "en": "So, I guess that makes sense, right?",
+      "zh": "所以，我想这是有道理的，对吧？"
+    },
+    {
+      "id": 120,
+      "start": 344.2,
+      "end": 345.6,
+      "en": "Because the word has kid in it.",
+      "zh": "因为这个词里面有孩子。"
+    },
+    {
+      "id": 121,
+      "start": 345.92,
+      "end": 346.92,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 122,
+      "start": 346.92,
+      "end": 347.92,
+      "en": "So, it can take children.",
+      "zh": "所以，它可能需要孩子。"
+    },
+    {
+      "id": 123,
+      "start": 347.92,
+      "end": 348.92,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 124,
+      "start": 348.92,
+      "end": 350.36,
+      "en": "But it can be also, you can kidnap an adult.",
+      "zh": "但也可以，你可以绑架一个成年人。"
+    },
+    {
+      "id": 125,
+      "start": 350.7,
+      "end": 351.28,
+      "en": "Yes, that's true.",
+      "zh": "对，确实如此。"
+    },
+    {
+      "id": 126,
+      "start": 351.54,
+      "end": 351.84,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 127,
+      "start": 352.04,
+      "end": 354.86,
+      "en": "So, this word can actually be used in three different ways.",
+      "zh": "所以，这个词实际上可以以三种不同的方式使用。"
+    },
+    {
+      "id": 128,
+      "start": 355.12,
+      "end": 357.16,
+      "en": "So we saw a kidnapper, right?",
+      "zh": "所以我们看到了一个绑架者，对吧？"
+    },
+    {
+      "id": 129,
+      "start": 357.4,
+      "end": 358.28,
+      "en": "Okay, that is the person.",
+      "zh": "好吧，就是那个人。"
+    },
+    {
+      "id": 130,
+      "start": 358.52,
+      "end": 359.52,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 131,
+      "start": 359.52,
+      "end": 360.62,
+      "en": "And the verb, to kidnap.",
+      "zh": "和动词，绑架。"
+    },
+    {
+      "id": 132,
+      "start": 361.4,
+      "end": 361.81,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 133,
+      "start": 362.26,
+      "end": 365.04,
+      "en": "Or a noun describing an action, a kidnapping.",
+      "zh": "或描述动作的名词，绑架。"
+    },
+    {
+      "id": 134,
+      "start": 365.56,
+      "end": 366.08,
+      "en": "A kidnapping.",
+      "zh": "绑架。"
+    },
+    {
+      "id": 135,
+      "start": 366.34,
+      "end": 366.74,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 136,
+      "start": 366.88,
+      "end": 368.42,
+      "en": "Yeah, a kidnapping took place today.",
+      "zh": "是的，今天发生了一次绑架事件。"
+    },
+    {
+      "id": 137,
+      "start": 369.0,
+      "end": 369.34,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 138,
+      "start": 369.76,
+      "end": 371.14,
+      "en": "So, very interesting word.",
+      "zh": "所以，非常有趣的词。"
+    },
+    {
+      "id": 139,
+      "start": 371.14,
+      "end": 374.0,
+      "en": "And of course, it's illegal to be a kidnapper.",
+      "zh": "当然，绑架者是违法的。"
+    },
+    {
+      "id": 140,
+      "start": 374.2,
+      "end": 374.4,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 141,
+      "start": 374.82,
+      "end": 378.18,
+      "en": "So, our next word is also very serious and it's also a crime, right?",
+      "zh": "所以，我们的下一个词也很严重，这也是一种犯罪，对吧？"
+    },
+    {
+      "id": 142,
+      "start": 378.4,
+      "end": 379.4,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 143,
+      "start": 379.4,
+      "end": 379.62,
+      "en": "A rapist.",
+      "zh": "强奸犯。"
+    },
+    {
+      "id": 144,
+      "start": 380.4,
+      "end": 380.7,
+      "en": "A rapist.",
+      "zh": "强奸犯。"
+    },
+    {
+      "id": 145,
+      "start": 381.4,
+      "end": 382.4,
+      "en": "A rapist.",
+      "zh": "强奸犯。"
+    },
+    {
+      "id": 146,
+      "start": 382.4,
+      "end": 383.4,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 147,
+      "start": 383.4,
+      "end": 384.4,
+      "en": "So, that is a person that...",
+      "zh": "所以，这是一个人..."
+    },
+    {
+      "id": 148,
+      "start": 384.4,
+      "end": 386.12,
+      "en": "Who forces someone to have sex.",
+      "zh": "谁强迫某人发生性关系。"
+    },
+    {
+      "id": 149,
+      "start": 386.68,
+      "end": 386.86,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 150,
+      "start": 387.68,
+      "end": 388.68,
+      "en": "So, again, against their will.",
+      "zh": "所以，再次违背他们的意愿。"
+    },
+    {
+      "id": 151,
+      "start": 388.96,
+      "end": 389.96,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 152,
+      "start": 389.96,
+      "end": 390.96,
+      "en": "Like a kidnapper.",
+      "zh": "像绑架者一样。"
+    },
+    {
+      "id": 153,
+      "start": 390.96,
+      "end": 391.96,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 154,
+      "start": 391.96,
+      "end": 392.96,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 155,
+      "start": 392.96,
+      "end": 393.96,
+      "en": "And the verb would be...",
+      "zh": "而动词将是..."
+    },
+    {
+      "id": 156,
+      "start": 393.96,
+      "end": 394.96,
+      "en": "To rape.",
+      "zh": "强奸。"
+    },
+    {
+      "id": 157,
+      "start": 394.96,
+      "end": 395.96,
+      "en": "To rape.",
+      "zh": "强奸。"
+    },
+    {
+      "id": 158,
+      "start": 395.96,
+      "end": 396.96,
+      "en": "To rape someone.",
+      "zh": "强奸某人。"
+    },
+    {
+      "id": 159,
+      "start": 396.96,
+      "end": 397.96,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 160,
+      "start": 397.96,
+      "end": 400.44,
+      "en": "So, on the lighter side, we heard the police officer say something in a very strange way.",
+      "zh": "所以，在较轻的方面，我们听到警察以一种非常奇怪的方式说了些什么。"
+    },
+    {
+      "id": 161,
+      "start": 400.44,
+      "end": 402.53,
+      "en": "He said, let me see your eyes, please.",
+      "zh": "他说，请让我看看你的眼睛。"
+    },
+    {
+      "id": 162,
+      "start": 403.01,
+      "end": 403.21,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 163,
+      "start": 403.84,
+      "end": 406.64,
+      "en": "And this is an interesting phrase.",
+      "zh": "这是一个有趣的短语。"
+    },
+    {
+      "id": 164,
+      "start": 406.64,
+      "end": 409.63,
+      "en": "It's a sound made from pushing two words together.",
+      "zh": "这是将两个单词推在一起而发出的声音。"
+    },
+    {
+      "id": 165,
+      "start": 410.21,
+      "end": 410.35,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 166,
+      "start": 410.69,
+      "end": 412.37,
+      "en": "So, let me.",
+      "zh": "所以，让我。"
+    },
+    {
+      "id": 167,
+      "start": 412.37,
+      "end": 418.37,
+      "en": "Why don't we hear a few more examples of this and see if we can figure out what are the two words.",
+      "zh": "我们为什么不听听更多的例子，看看我们是否能弄清楚这两个词是什么。"
+    },
+    {
+      "id": 168,
+      "start": 420.77,
+      "end": 421.63,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 169,
+      "start": 423.52,
+      "end": 425.22,
+      "en": "Let me have a look inside the car.",
+      "zh": "让我看看车里。"
+    },
+    {
+      "id": 170,
+      "start": 428.01,
+      "end": 428.75,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 171,
+      "start": 431.76,
+      "end": 432.77,
+      "en": "Let me go out tonight, dad.",
+      "zh": "今晚让我出去，爸爸。"
+    },
+    {
+      "id": 172,
+      "start": 436.49,
+      "end": 436.72,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 173,
+      "start": 440.55,
+      "end": 443.17,
+      "en": "Let me think about it and I'll give you an answer tomorrow.",
+      "zh": "让我想一想，明天我会给你一个答案。"
+    },
+    {
+      "id": 174,
+      "start": 446.38,
+      "end": 448.8,
+      "en": "So, basically, let me is...",
+      "zh": "所以，基本上，让我..."
+    },
+    {
+      "id": 175,
+      "start": 449.52,
+      "end": 450.02,
+      "en": "Let me.",
+      "zh": "让我。"
+    },
+    {
+      "id": 176,
+      "start": 450.52,
+      "end": 450.9,
+      "en": "Let me.",
+      "zh": "让我。"
+    },
+    {
+      "id": 177,
+      "start": 451.52,
+      "end": 452.52,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 178,
+      "start": 452.52,
+      "end": 453.06,
+      "en": "Let me have that pen.",
+      "zh": "让我有那支笔。"
+    },
+    {
+      "id": 179,
+      "start": 453.72,
+      "end": 454.72,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 180,
+      "start": 454.72,
+      "end": 454.94,
+      "en": "Let me see.",
+      "zh": "让我看看。"
+    },
+    {
+      "id": 181,
+      "start": 455.72,
+      "end": 458.6,
+      "en": "Now, we do this also with other words, right?",
+      "zh": "现在，我们也用其他词来做到这一点，对吧？"
+    },
+    {
+      "id": 182,
+      "start": 458.6,
+      "end": 459.6,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 183,
+      "start": 459.6,
+      "end": 461.24,
+      "en": "Another example would be give me.",
+      "zh": "另一个例子是给我。"
+    },
+    {
+      "id": 184,
+      "start": 461.24,
+      "end": 462.24,
+      "en": "Give me.",
+      "zh": "给我。"
+    },
+    {
+      "id": 185,
+      "start": 462.24,
+      "end": 463.24,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 186,
+      "start": 463.24,
+      "end": 464.24,
+      "en": "Give me.",
+      "zh": "给我。"
+    },
+    {
+      "id": 187,
+      "start": 464.24,
+      "end": 465.24,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 188,
+      "start": 465.24,
+      "end": 466.24,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 189,
+      "start": 466.24,
+      "end": 467.24,
+      "en": "So, an interesting thing.",
+      "zh": "所以，一个有趣的事情。"
+    },
+    {
+      "id": 190,
+      "start": 467.24,
+      "end": 467.84,
+      "en": "It's not proper English, right?",
+      "zh": "英语不对吧？"
+    },
+    {
+      "id": 191,
+      "start": 468.24,
+      "end": 469.24,
+      "en": "No.",
+      "zh": "不。"
+    },
+    {
+      "id": 192,
+      "start": 469.24,
+      "end": 469.98,
+      "en": "You wouldn't really write it this way.",
+      "zh": "你不会真的这样写。"
+    },
+    {
+      "id": 193,
+      "start": 470.24,
+      "end": 471.84,
+      "en": "Or find it in the dictionary.",
+      "zh": "或者在字典中找到它。"
+    },
+    {
+      "id": 194,
+      "start": 471.84,
+      "end": 473.88,
+      "en": "But it's really common when people speak.",
+      "zh": "但当人们说话时，这真的很常见。"
+    },
+    {
+      "id": 195,
+      "start": 474.28,
+      "end": 479.42,
+      "en": "And actually, it's more likely that you'll say let me, give me, than let me, give me.",
+      "zh": "实际上，你更有可能说让我，给我，而不是让我，给我。"
+    },
+    {
+      "id": 196,
+      "start": 479.7,
+      "end": 479.94,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 197,
+      "start": 480.24,
+      "end": 480.78,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 198,
+      "start": 481.42,
+      "end": 485.9,
+      "en": "So, I think now it's time for us to listen to our dialogue for the second time.",
+      "zh": "所以，我认为现在是我们第二次听我们的对话的时候了。"
+    },
+    {
+      "id": 199,
+      "start": 486.14,
+      "end": 490.26,
+      "en": "And then we'll come back and look at some other phrases that we saw in our dialogue.",
+      "zh": "然后我们会回来看看我们在对话中看到的其他短语。"
+    },
+    {
+      "id": 200,
+      "start": 496.69,
+      "end": 498.81,
+      "en": "What the heck is going on?",
+      "zh": "到底发生什么事了？"
+    },
+    {
+      "id": 201,
+      "start": 499.03,
+      "end": 500.11,
+      "en": "Did you see that?",
+      "zh": "你看到了吗？"
+    },
+    {
+      "id": 202,
+      "start": 500.55,
+      "end": 501.81,
+      "en": "What was that thing?",
+      "zh": "刚才那东西是什么？"
+    },
+    {
+      "id": 203,
+      "start": 502.17,
+      "end": 503.15,
+      "en": "I don't know.",
+      "zh": "我不知道。"
+    },
+    {
+      "id": 204,
+      "start": 503.71,
+      "end": 505.75,
+      "en": "I'm just glad we made it out.",
+      "zh": "幸好我们逃出来了。"
+    },
+    {
+      "id": 205,
+      "start": 506.35,
+      "end": 508.05,
+      "en": "Look, there's a police car.",
+      "zh": "看，有一辆警车。"
+    },
+    {
+      "id": 206,
+      "start": 508.64,
+      "end": 509.64,
+      "en": "Help!",
+      "zh": "救命！"
+    },
+    {
+      "id": 207,
+      "start": 509.64,
+      "end": 510.64,
+      "en": "Help!",
+      "zh": "救命！"
+    },
+    {
+      "id": 208,
+      "start": 510.64,
+      "end": 511.64,
+      "en": "Please stop.",
+      "zh": "请停下来。"
+    },
+    {
+      "id": 209,
+      "start": 511.64,
+      "end": 513.46,
+      "en": "Howdy, ma'am.",
+      "zh": "您好，女士。"
+    },
+    {
+      "id": 210,
+      "start": 513.46,
+      "end": 514.72,
+      "en": "What seems to be the problem?",
+      "zh": "请问有什么问题？"
+    },
+    {
+      "id": 211,
+      "start": 515.26,
+      "end": 516.56,
+      "en": "Is this man bothering you?",
+      "zh": "这个人在打扰你吗？"
+    },
+    {
+      "id": 212,
+      "start": 517.6,
+      "end": 518.6,
+      "en": "Officer!",
+      "zh": "警官!"
+    },
+    {
+      "id": 213,
+      "start": 518.6,
+      "end": 518.86,
+      "en": "Officer!",
+      "zh": "警官!"
+    },
+    {
+      "id": 214,
+      "start": 520.08,
+      "end": 522.58,
+      "en": "There is like a witch creature back there.",
+      "zh": "后面有个像女巫一样的怪物！"
+    },
+    {
+      "id": 215,
+      "start": 523.5,
+      "end": 525.5,
+      "en": "We tied her up, but she broke free.",
+      "zh": "我们把她绑起来，但她挣脱了。"
+    },
+    {
+      "id": 216,
+      "start": 526.28,
+      "end": 528.06,
+      "en": "And she was about to have us for dinner.",
+      "zh": "她正要请我们吃饭。"
+    },
+    {
+      "id": 217,
+      "start": 529.0,
+      "end": 530.0,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 218,
+      "start": 530.0,
+      "end": 530.46,
+      "en": "Calm down.",
+      "zh": "冷静点。"
+    },
+    {
+      "id": 219,
+      "start": 530.8,
+      "end": 531.48,
+      "en": "Calm down.",
+      "zh": "冷静点。"
+    },
+    {
+      "id": 220,
+      "start": 532.16,
+      "end": 533.56,
+      "en": "Let me see your eyes, please.",
+      "zh": "请让我看看您的眼睛。"
+    },
+    {
+      "id": 221,
+      "start": 534.38,
+      "end": 536.02,
+      "en": "Have you been drinking tonight, son?",
+      "zh": "你今晚喝酒了吗，儿子？"
+    },
+    {
+      "id": 222,
+      "start": 536.59,
+      "end": 537.91,
+      "en": "We are telling the truth.",
+      "zh": "我们说的是实话。"
+    },
+    {
+      "id": 223,
+      "start": 538.75,
+      "end": 539.69,
+      "en": "She's in there.",
+      "zh": "她就在里面。"
+    },
+    {
+      "id": 224,
+      "start": 540.41,
+      "end": 548.93,
+      "en": "We suspected her of being a kidnapper or rapist, but it turns out she's an alien or something.",
+      "zh": "我们怀疑她是绑架者或强奸犯，但事实证明她是一个外星人或什么的。"
+    },
+    {
+      "id": 225,
+      "start": 549.45,
+      "end": 549.99,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 226,
+      "start": 550.77,
+      "end": 551.25,
+      "en": "Calm down.",
+      "zh": "冷静点。"
+    },
+    {
+      "id": 227,
+      "start": 551.67,
+      "end": 552.21,
+      "en": "Calm down.",
+      "zh": "冷静点。"
+    },
+    {
+      "id": 228,
+      "start": 552.87,
+      "end": 554.47,
+      "en": "Let me see your eyes, please.",
+      "zh": "请让我看看您的眼睛。"
+    },
+    {
+      "id": 229,
+      "start": 556.19,
+      "end": 556.45,
+      "en": "Seriously.",
+      "zh": "说真的。"
+    },
+    {
+      "id": 230,
+      "start": 557.72,
+      "end": 560.6,
+      "en": "Are you going to help us or not?",
+      "zh": "你会帮助我们吗？"
+    },
+    {
+      "id": 231,
+      "start": 560.6,
+      "end": 561.6,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 232,
+      "start": 561.6,
+      "end": 563.05,
+      "en": "Let's go have a look, shall we?",
+      "zh": "我们去看看，好吗？"
+    },
+    {
+      "id": 233,
+      "start": 564.24,
+      "end": 565.28,
+      "en": "Hello?",
+      "zh": "喂？"
+    },
+    {
+      "id": 234,
+      "start": 565.28,
+      "end": 566.22,
+      "en": "Is anyone in here?",
+      "zh": "有人在吗？"
+    },
+    {
+      "id": 235,
+      "start": 567.32,
+      "end": 567.72,
+      "en": "Be careful.",
+      "zh": "小心。"
+    },
+    {
+      "id": 236,
+      "start": 568.72,
+      "end": 569.82,
+      "en": "She might be hiding.",
+      "zh": "她可能藏起来了。"
+    },
+    {
+      "id": 237,
+      "start": 571.12,
+      "end": 572.18,
+      "en": "It's perfectly safe.",
+      "zh": "绝对安全。"
+    },
+    {
+      "id": 238,
+      "start": 572.68,
+      "end": 573.28,
+      "en": "There isn't anyone.",
+      "zh": "一个人也没有。"
+    },
+    {
+      "id": 239,
+      "start": 576.64,
+      "end": 582.92,
+      "en": "We're going to look at two phrases now in Fluency Builder that you might hear when you're talking about a crime.",
+      "zh": "我们将在 Flueny Builder 中查看您在谈论犯罪时可能会听到的两个短语。"
+    },
+    {
+      "id": 240,
+      "start": 584.12,
+      "end": 585.02,
+      "en": "Fluency Builder.",
+      "zh": "流利表达。"
+    },
+    {
+      "id": 241,
+      "start": 585.74,
+      "end": 589.52,
+      "en": "So the first phrase that we're going to look at is, what the heck is going on?",
+      "zh": "所以我们要看的第一个短语是，到底发生了什么？"
+    },
+    {
+      "id": 242,
+      "start": 589.78,
+      "end": 590.9,
+      "en": "What the heck is going on?",
+      "zh": "到底发生什么事了？"
+    },
+    {
+      "id": 243,
+      "start": 591.24,
+      "end": 593.32,
+      "en": "What the heck is going on?",
+      "zh": "到底发生什么事了？"
+    },
+    {
+      "id": 244,
+      "start": 593.96,
+      "end": 594.4,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 245,
+      "start": 594.4,
+      "end": 597.2,
+      "en": "So this is just asking what's happening, right?",
+      "zh": "所以这只是在问发生了什么，对吧？"
+    },
+    {
+      "id": 246,
+      "start": 597.36,
+      "end": 598.36,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 247,
+      "start": 598.36,
+      "end": 600.64,
+      "en": "So this is a very strong way of saying what's happening.",
+      "zh": "所以这是一种非常有力的表达正在发生的事情的方式。"
+    },
+    {
+      "id": 248,
+      "start": 600.64,
+      "end": 601.64,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 249,
+      "start": 601.64,
+      "end": 602.12,
+      "en": "What really is happening?",
+      "zh": "真正发生了什么？"
+    },
+    {
+      "id": 250,
+      "start": 602.64,
+      "end": 603.64,
+      "en": "Uh-huh.",
+      "zh": "嗯。"
+    },
+    {
+      "id": 251,
+      "start": 603.64,
+      "end": 604.78,
+      "en": "Now, why do they say, what the heck?",
+      "zh": "现在，他们为什么说，到底是什么？"
+    },
+    {
+      "id": 252,
+      "start": 605.48,
+      "end": 605.76,
+      "en": "What is heck?",
+      "zh": "什么是地狱？"
+    },
+    {
+      "id": 253,
+      "start": 606.48,
+      "end": 608.98,
+      "en": "Well, heck is sort of a polite way of saying hell.",
+      "zh": "好吧，见鬼是一种礼貌的说地狱的方式。"
+    },
+    {
+      "id": 254,
+      "start": 609.26,
+      "end": 609.54,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 255,
+      "start": 609.54,
+      "end": 611.68,
+      "en": "So instead of saying, what the hell is going on?",
+      "zh": "所以与其说，到底发生了什么？"
+    },
+    {
+      "id": 256,
+      "start": 611.84,
+      "end": 612.86,
+      "en": "What the heck is going on?",
+      "zh": "到底发生什么事了？"
+    },
+    {
+      "id": 257,
+      "start": 613.0,
+      "end": 614.64,
+      "en": "Now, why do you do this?",
+      "zh": "现在，你为什么要这样做？"
+    },
+    {
+      "id": 258,
+      "start": 614.64,
+      "end": 620.0,
+      "en": "Because especially in American English, we don't like to talk about religious words.",
+      "zh": "因为尤其是美式英语，我们不喜欢谈论宗教词。"
+    },
+    {
+      "id": 259,
+      "start": 620.36,
+      "end": 626.08,
+      "en": "So like hell and God and Jesus, these things are impolite in American English.",
+      "zh": "所以就像地狱、上帝和耶稣一样，这些东西在美国英语中是不礼貌的。"
+    },
+    {
+      "id": 260,
+      "start": 626.08,
+      "end": 627.08,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 261,
+      "start": 627.08,
+      "end": 628.08,
+      "en": "You don't want to offend anyone.",
+      "zh": "你不想冒犯任何人。"
+    },
+    {
+      "id": 262,
+      "start": 628.08,
+      "end": 630.96,
+      "en": "That's why we would have other words like, oh my gosh.",
+      "zh": "这就是为什么我们会有其他词，比如，天哪。"
+    },
+    {
+      "id": 263,
+      "start": 631.52,
+      "end": 632.04,
+      "en": "For oh my God.",
+      "zh": "哦，我的上帝。"
+    },
+    {
+      "id": 264,
+      "start": 632.8,
+      "end": 633.96,
+      "en": "Or geez.",
+      "zh": "或天哪。"
+    },
+    {
+      "id": 265,
+      "start": 634.4,
+      "end": 634.76,
+      "en": "Instead of Jesus.",
+      "zh": "而不是耶稣。"
+    },
+    {
+      "id": 266,
+      "start": 635.4,
+      "end": 635.56,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 267,
+      "start": 635.98,
+      "end": 636.12,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 268,
+      "start": 637.4,
+      "end": 642.12,
+      "en": "So that is an interesting thing and of course, it is a little bit of a sensitive topic among some people.",
+      "zh": "所以这是一件有趣的事情，当然，它在某些人中有点敏感。"
+    },
+    {
+      "id": 269,
+      "start": 642.12,
+      "end": 645.2,
+      "en": "So that's why it's better to just use these synonyms.",
+      "zh": "所以这就是为什么最好只使用这些同义词。"
+    },
+    {
+      "id": 270,
+      "start": 645.52,
+      "end": 645.68,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 271,
+      "start": 646.12,
+      "end": 646.42,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 272,
+      "start": 647.4,
+      "end": 648.42,
+      "en": "And what about our next phrase?",
+      "zh": "那么我们的下一个短语呢？"
+    },
+    {
+      "id": 273,
+      "start": 648.88,
+      "end": 651.66,
+      "en": "So they suspected her of being a kidnapper.",
+      "zh": "所以他们怀疑她是绑架者。"
+    },
+    {
+      "id": 274,
+      "start": 651.88,
+      "end": 652.16,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 275,
+      "start": 653.28,
+      "end": 656.48,
+      "en": "So suspected her of being a kidnapper.",
+      "zh": "所以怀疑她是绑架者。"
+    },
+    {
+      "id": 276,
+      "start": 656.48,
+      "end": 657.48,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 277,
+      "start": 657.48,
+      "end": 660.96,
+      "en": "So I suspect someone of being something.",
+      "zh": "所以我怀疑某人是某物。"
+    },
+    {
+      "id": 278,
+      "start": 660.96,
+      "end": 664.48,
+      "en": "So I suspect she is an alien.",
+      "zh": "所以我怀疑她是外星人。"
+    },
+    {
+      "id": 279,
+      "start": 665.02,
+      "end": 665.24,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 280,
+      "start": 665.96,
+      "end": 667.34,
+      "en": "I suspect him of being a liar.",
+      "zh": "我怀疑他是个骗子。"
+    },
+    {
+      "id": 281,
+      "start": 667.84,
+      "end": 668.14,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 282,
+      "start": 668.4,
+      "end": 669.58,
+      "en": "So what about to suspect?",
+      "zh": "那么该怎么怀疑呢？"
+    },
+    {
+      "id": 283,
+      "start": 669.92,
+      "end": 670.72,
+      "en": "What does that mean exactly?",
+      "zh": "这到底是什么意思？"
+    },
+    {
+      "id": 284,
+      "start": 671.18,
+      "end": 674.76,
+      "en": "To think something that is true, but not be 100% sure.",
+      "zh": "想一些真实的事情，但不是 100% 确定。"
+    },
+    {
+      "id": 285,
+      "start": 674.98,
+      "end": 678.4,
+      "en": "So you can say, I think she is a kidnapper.",
+      "zh": "所以你可以说，我认为她是一个绑架者。"
+    },
+    {
+      "id": 286,
+      "start": 678.68,
+      "end": 679.68,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 287,
+      "start": 679.68,
+      "end": 681.92,
+      "en": "Oh, I suspect her of being a kidnapper.",
+      "zh": "哦，我怀疑她是绑架者。"
+    },
+    {
+      "id": 288,
+      "start": 682.0,
+      "end": 682.4,
+      "en": "Interesting.",
+      "zh": "有意思。"
+    },
+    {
+      "id": 289,
+      "start": 683.32,
+      "end": 684.32,
+      "en": "Why don't we hear a few more examples?",
+      "zh": "为什么我们没有听到更多的例子？"
+    },
+    {
+      "id": 290,
+      "start": 687.56,
+      "end": 690.44,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 291,
+      "start": 690.44,
+      "end": 692.84,
+      "en": "The police suspected him of being a bank robber.",
+      "zh": "警方怀疑他是银行劫匪。"
+    },
+    {
+      "id": 292,
+      "start": 696.32,
+      "end": 696.58,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 293,
+      "start": 699.8,
+      "end": 702.16,
+      "en": "We suspect our dog is responsible for this mess.",
+      "zh": "我们怀疑我们的狗要为这个混乱负责。"
+    },
+    {
+      "id": 294,
+      "start": 706.56,
+      "end": 706.96,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 295,
+      "start": 709.76,
+      "end": 712.65,
+      "en": "The neighborhood suspected that our neighbor was selling drugs.",
+      "zh": "邻居怀疑我们的邻居在卖毒品。"
+    },
+    {
+      "id": 296,
+      "start": 716.02,
+      "end": 716.38,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 297,
+      "start": 716.72,
+      "end": 716.9,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 298,
+      "start": 717.72,
+      "end": 718.42,
+      "en": "So we've seen a lot of vocab.",
+      "zh": "所以我们看到了很多词汇。"
+    },
+    {
+      "id": 299,
+      "start": 718.72,
+      "end": 719.48,
+      "en": "We've seen these phrases.",
+      "zh": "我们见过这些短语。"
+    },
+    {
+      "id": 300,
+      "start": 720.2,
+      "end": 725.24,
+      "en": "So I think it's time for us to listen to our dialogue for the last time, and then we'll come back and talk a little bit more.",
+      "zh": "所以我认为是时候让我们最后一次听我们的对话了，然后我们会回来多说一点。"
+    },
+    {
+      "id": 301,
+      "start": 725.92,
+      "end": 731.36,
+      "en": "What the heck is going on?",
+      "zh": "到底发生什么事了？"
+    },
+    {
+      "id": 302,
+      "start": 734.65,
+      "end": 735.25,
+      "en": "Did you see that?",
+      "zh": "你看到了吗？"
+    },
+    {
+      "id": 303,
+      "start": 735.53,
+      "end": 736.23,
+      "en": "What was that thing?",
+      "zh": "刚才那东西是什么？"
+    },
+    {
+      "id": 304,
+      "start": 736.61,
+      "end": 737.01,
+      "en": "I don't know.",
+      "zh": "我不知道。"
+    },
+    {
+      "id": 305,
+      "start": 737.6,
+      "end": 738.37,
+      "en": "I'm just glad we made it out.",
+      "zh": "幸好我们逃出来了。"
+    },
+    {
+      "id": 306,
+      "start": 739.88,
+      "end": 740.96,
+      "en": "Look, there's a police car.",
+      "zh": "看，有一辆警车。"
+    },
+    {
+      "id": 307,
+      "start": 743.72,
+      "end": 744.72,
+      "en": "Help!",
+      "zh": "救命！"
+    },
+    {
+      "id": 308,
+      "start": 744.72,
+      "end": 745.72,
+      "en": "Help!",
+      "zh": "救命！"
+    },
+    {
+      "id": 309,
+      "start": 745.72,
+      "end": 747.76,
+      "en": "Please, please stop!",
+      "zh": "请停下来！"
+    },
+    {
+      "id": 310,
+      "start": 747.76,
+      "end": 752.08,
+      "en": "Howdy, ma'am.",
+      "zh": "您好，女士。"
+    },
+    {
+      "id": 311,
+      "start": 753.29,
+      "end": 755.01,
+      "en": "What, uh, seems to be the problem?",
+      "zh": "什么，呃，似乎有问题？"
+    },
+    {
+      "id": 312,
+      "start": 755.88,
+      "end": 756.97,
+      "en": "Is this man bothering you?",
+      "zh": "这个人在打扰你吗？"
+    },
+    {
+      "id": 313,
+      "start": 757.6,
+      "end": 759.08,
+      "en": "Officer, officer.",
+      "zh": "警官，警官！"
+    },
+    {
+      "id": 314,
+      "start": 759.08,
+      "end": 761.25,
+      "en": "There is, like, a witch creature back there.",
+      "zh": "那里有一个女巫生物。"
+    },
+    {
+      "id": 315,
+      "start": 761.64,
+      "end": 764.57,
+      "en": "We tied her up, but she broke free, and she was about to have us for dinner.",
+      "zh": "我们把她绑起来，但她挣脱了，她正要让我们吃饭。"
+    },
+    {
+      "id": 316,
+      "start": 765.51,
+      "end": 767.83,
+      "en": "Okay, calm down, calm down.",
+      "zh": "好吧，冷静下来，冷静下来。"
+    },
+    {
+      "id": 317,
+      "start": 768.49,
+      "end": 770.21,
+      "en": "Let me see your eyes, please.",
+      "zh": "请让我看看您的眼睛。"
+    },
+    {
+      "id": 318,
+      "start": 770.79,
+      "end": 772.53,
+      "en": "Have you been drinking tonight, son?",
+      "zh": "你今晚喝酒了吗，儿子？"
+    },
+    {
+      "id": 319,
+      "start": 773.22,
+      "end": 774.28,
+      "en": "We're telling the truth.",
+      "zh": "我们在说真话。"
+    },
+    {
+      "id": 320,
+      "start": 775.26,
+      "end": 776.22,
+      "en": "She's in there.",
+      "zh": "她就在里面。"
+    },
+    {
+      "id": 321,
+      "start": 776.68,
+      "end": 782.9,
+      "en": "We suspected her being a kidnapper or a rapist, but turns out she's an alien or something.",
+      "zh": "我们怀疑她是绑架者或强奸犯，但事实证明她是外星人或什么的。"
+    },
+    {
+      "id": 322,
+      "start": 784.04,
+      "end": 786.32,
+      "en": "Okay, calm down, calm down.",
+      "zh": "好吧，冷静下来，冷静下来。"
+    },
+    {
+      "id": 323,
+      "start": 787.08,
+      "end": 788.36,
+      "en": "Let me see your eyes, please.",
+      "zh": "请让我看看您的眼睛。"
+    },
+    {
+      "id": 324,
+      "start": 788.76,
+      "end": 789.76,
+      "en": "Ugh, seriously.",
+      "zh": "呃，说真的。"
+    },
+    {
+      "id": 325,
+      "start": 790.7,
+      "end": 792.02,
+      "en": "Are you going to help us out or not?",
+      "zh": "你到底帮不帮我们？"
+    },
+    {
+      "id": 326,
+      "start": 792.8,
+      "end": 793.36,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 327,
+      "start": 793.8,
+      "end": 795.58,
+      "en": "Let's go have a look, shall we?",
+      "zh": "我们去看看，好吗？"
+    },
+    {
+      "id": 328,
+      "start": 804.08,
+      "end": 810.68,
+      "en": "Hello?",
+      "zh": "喂？"
+    },
+    {
+      "id": 329,
+      "start": 810.68,
+      "end": 824.04,
+      "en": "Is anyone in there?",
+      "zh": "有人在里面吗？"
+    },
+    {
+      "id": 330,
+      "start": 825.58,
+      "end": 826.22,
+      "en": "Be careful!",
+      "zh": "小心!"
+    },
+    {
+      "id": 331,
+      "start": 826.66,
+      "end": 827.54,
+      "en": "She might be hiding!",
+      "zh": "她可能会躲起来！"
+    },
+    {
+      "id": 332,
+      "start": 837.38,
+      "end": 838.94,
+      "en": "It's perfectly safe.",
+      "zh": "绝对安全。"
+    },
+    {
+      "id": 333,
+      "start": 839.26,
+      "end": 839.88,
+      "en": "There isn't anyone.",
+      "zh": "一个人也没有。"
+    },
+    {
+      "id": 334,
+      "start": 840.36,
+      "end": 861.2,
+      "en": "You're mil Taking too long.",
+      "zh": "你花费的时间太长了。"
+    },
+    {
+      "id": 335,
+      "start": 870.65,
+      "end": 874.69,
+      "en": "Okay, well, Marco, we're coming near the end of this series, aren't we?",
+      "zh": "好吧，Marco，我们即将结束这个系列，不是吗？"
+    },
+    {
+      "id": 336,
+      "start": 874.97,
+      "end": 875.43,
+      "en": "Yes, exactly.",
+      "zh": "对，没错。"
+    },
+    {
+      "id": 337,
+      "start": 875.91,
+      "end": 880.73,
+      "en": "It's a short series, but what do you think happens or how do you think the series ends?",
+      "zh": "这是一个短系列，但您认为会发生什么或您认为该系列如何结束？"
+    },
+    {
+      "id": 338,
+      "start": 880.97,
+      "end": 882.55,
+      "en": "What is really going on?",
+      "zh": "到底发生了什么？"
+    },
+    {
+      "id": 339,
+      "start": 883.12,
+      "end": 884.67,
+      "en": "A mystery here at EnglishPod.",
+      "zh": "Englishpod 的一个谜。"
+    },
+    {
+      "id": 340,
+      "start": 885.14,
+      "end": 886.33,
+      "en": "So we want to hear from you.",
+      "zh": "所以我们想听听你的意见。"
+    },
+    {
+      "id": 341,
+      "start": 886.57,
+      "end": 887.57,
+      "en": "What do you think is going to happen?",
+      "zh": "你认为会发生什么？"
+    },
+    {
+      "id": 342,
+      "start": 887.83,
+      "end": 888.05,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 343,
+      "start": 889.04,
+      "end": 898.68,
+      "en": "You can find it at EnglishPod.com where you can leave us your questions, your comments, or even maybe your ideas, not only for this lesson, but for any lesson that you would like to hear.",
+      "zh": "您可以在 Englishpod.com 上找到它，您可以在其中给我们留下您的问题、您的评论，甚至可能是您的想法，不仅是为了本课，而且是您想听的任何课程。"
+    },
+    {
+      "id": 344,
+      "start": 898.68,
+      "end": 899.02,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 345,
+      "start": 899.32,
+      "end": 903.06,
+      "en": "Well, guys, we're happy that you downloaded this lesson and remember to check out our website.",
+      "zh": "好吧，伙计们，我们很高兴您下载了本课并记得查看我们的网站。"
+    },
+    {
+      "id": 346,
+      "start": 903.84,
+      "end": 906.96,
+      "en": "Until next time, thanks for listening and goodbye.",
+      "zh": "直到下一次，感谢您的收听和再见。"
+    }
+  ],
+  "dialog": {
+    "start": 46.17,
+    "end": 152.99,
+    "segmentIds": [
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48
+    ]
+  }
+}

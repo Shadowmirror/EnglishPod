@@ -1,0 +1,2506 @@
+{
+  "version": 1,
+  "id": 353,
+  "number": "0353",
+  "title": "Global View - College Life",
+  "audio": "mp3/353. Global View - College Life.mp3",
+  "duration": 1254.2433125,
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.23,
+      "end": 3.33,
+      "en": "Hello everyone and welcome to EnglishPod.",
+      "zh": "大家好，欢迎来到 EnglishPod。"
+    },
+    {
+      "id": 2,
+      "start": 3.49,
+      "end": 3.91,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 4.43,
+      "end": 10.19,
+      "en": "My name is Catherine and today we're talking about American education and college life.",
+      "zh": "我的名字是凯瑟琳，今天我们谈论的是美国教育和大学生活。"
+    },
+    {
+      "id": 4,
+      "start": 10.59,
+      "end": 10.89,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 5,
+      "start": 11.05,
+      "end": 19.25,
+      "en": "This is actually a user suggestion that they wanted to know more or less what it would be like a dialogue between friends on a typical day in college.",
+      "zh": "这实际上是一个用户建议，他们想或多或少地知道在大学里典型的一天朋友之间的对话会是什么样子。"
+    },
+    {
+      "id": 6,
+      "start": 19.92,
+      "end": 21.76,
+      "en": "Alright so this is an advanced level lesson.",
+      "zh": "好吧，这是一个高级课程。"
+    },
+    {
+      "id": 7,
+      "start": 21.76,
+      "end": 24.48,
+      "en": "We're going to be talking in a normal conversational speed.",
+      "zh": "我们将以正常的对话速度交谈。"
+    },
+    {
+      "id": 8,
+      "start": 24.77,
+      "end": 30.35,
+      "en": "We're going to listen to the dialogue and when we come back we'll talk about some of these key phrases and words that might help you understand the dialogue better.",
+      "zh": "我们将聆听对话，当我们回来时，我们将讨论一些可能有助于您更好地理解对话的关键短语和单词。"
+    },
+    {
+      "id": 9,
+      "start": 36.85,
+      "end": 37.99,
+      "en": "Hey Jordan, is that you?",
+      "zh": "嘿乔丹，是你吗？"
+    },
+    {
+      "id": 10,
+      "start": 38.19,
+      "end": 38.93,
+      "en": "Long time no see.",
+      "zh": "好久不见。"
+    },
+    {
+      "id": 11,
+      "start": 39.55,
+      "end": 40.47,
+      "en": "Oh hey, no kidding.",
+      "zh": "可不是嘛！"
+    },
+    {
+      "id": 12,
+      "start": 41.03,
+      "end": 43.51,
+      "en": "I haven't seen you since orientation three months ago.",
+      "zh": "三个月前迎新活动之后就没见过你了。"
+    },
+    {
+      "id": 13,
+      "start": 44.44,
+      "end": 45.28,
+      "en": "So how you been?",
+      "zh": "那你最近怎么样？"
+    },
+    {
+      "id": 14,
+      "start": 45.96,
+      "end": 47.12,
+      "en": "Settling into college life okay?",
+      "zh": "大学生活适应得还好吧？"
+    },
+    {
+      "id": 15,
+      "start": 47.5,
+      "end": 48.5,
+      "en": "Yeah, I think so.",
+      "zh": "对，我想是的。"
+    },
+    {
+      "id": 16,
+      "start": 48.84,
+      "end": 52.56,
+      "en": "I pledged Phi Iota Alpha so I'm living at the frat house now.",
+      "zh": "还行。我加入了 Phi Iota Alpha 兄弟会，现在住在兄弟会宿舍。"
+    },
+    {
+      "id": 17,
+      "start": 53.0,
+      "end": 55.48,
+      "en": "Oh, so you're a frat boy now, huh?",
+      "zh": "哦，你现在成了兄弟会成员啦？"
+    },
+    {
+      "id": 18,
+      "start": 55.68,
+      "end": 56.76,
+      "en": "Yeah, yeah, I know.",
+      "zh": "是的，是的，我知道。"
+    },
+    {
+      "id": 19,
+      "start": 57.0,
+      "end": 60.56,
+      "en": "That's totally cliche, but really I think it's been a good decision.",
+      "zh": "是挺老套的，不过我真觉得这个决定不错。"
+    },
+    {
+      "id": 20,
+      "start": 60.56,
+      "end": 62.74,
+      "en": "Got a lot of support and good suggestions from the guys.",
+      "zh": "兄弟会的伙伴给了我不少支持和好建议。"
+    },
+    {
+      "id": 21,
+      "start": 63.56,
+      "end": 63.94,
+      "en": "What about you?",
+      "zh": "你呢？"
+    },
+    {
+      "id": 22,
+      "start": 64.56,
+      "end": 65.04,
+      "en": "What have you been up to?",
+      "zh": "你最近在忙什么？"
+    },
+    {
+      "id": 23,
+      "start": 65.56,
+      "end": 66.22,
+      "en": "Well, not much.",
+      "zh": "没忙什么。"
+    },
+    {
+      "id": 24,
+      "start": 67.04,
+      "end": 69.48,
+      "en": "I'm still living at home and commuting to school.",
+      "zh": "我还住在家里，每天通勤去学校。"
+    },
+    {
+      "id": 25,
+      "start": 70.14,
+      "end": 73.68,
+      "en": "I ended up dropping that metalworking class I was so excited about.",
+      "zh": "我最后还是退掉了那门原本很期待的金属加工课。"
+    },
+    {
+      "id": 26,
+      "start": 74.04,
+      "end": 76.26,
+      "en": "It just wasn't as interesting as I'd hoped.",
+      "zh": "它没我想的那么有意思。"
+    },
+    {
+      "id": 27,
+      "start": 76.92,
+      "end": 82.44,
+      "en": "The guidance counselor suggested that I focus on my prerequisite courses so that I can make sure the credits count.",
+      "zh": "指导老师建议我先修好先修课程，确保这些学分将来能算进学位要求。"
+    },
+    {
+      "id": 28,
+      "start": 82.96,
+      "end": 85.42,
+      "en": "That sounds smart, but kind of boring.",
+      "zh": "这样挺明智，就是有点无聊。"
+    },
+    {
+      "id": 29,
+      "start": 85.96,
+      "end": 87.5,
+      "en": "Yeah, it is a little bit.",
+      "zh": "是啊，有一点。"
+    },
+    {
+      "id": 30,
+      "start": 88.26,
+      "end": 91.48,
+      "en": "I joined the Great Outdoors Club though, which has been a lot of fun.",
+      "zh": "不过我加入了户外活动社，玩得挺开心。"
+    },
+    {
+      "id": 31,
+      "start": 91.96,
+      "end": 95.46,
+      "en": "We've gone on two camping trips already and I've made some good friends.",
+      "zh": "我们已经去露营两次了，我还交了几个好朋友。"
+    },
+    {
+      "id": 32,
+      "start": 95.94,
+      "end": 96.46,
+      "en": "That's cool.",
+      "zh": "真酷。"
+    },
+    {
+      "id": 33,
+      "start": 97.04,
+      "end": 99.0,
+      "en": "Hey, so have you decided on your major yet?",
+      "zh": "对了，你决定主修什么了吗？"
+    },
+    {
+      "id": 34,
+      "start": 99.76,
+      "end": 100.76,
+      "en": "Definitely pre-med.",
+      "zh": "肯定选医学预科。"
+    },
+    {
+      "id": 35,
+      "start": 100.76,
+      "end": 101.12,
+      "en": "What about you?",
+      "zh": "你呢？"
+    },
+    {
+      "id": 36,
+      "start": 101.76,
+      "end": 107.44,
+      "en": "I still have no clue, but we don't have to declare a major until our sophomore year, so I've got time.",
+      "zh": "我还完全没想好。不过到大二才需要确定专业，我还有时间。"
+    },
+    {
+      "id": 37,
+      "start": 107.98,
+      "end": 108.94,
+      "en": "Oops, I'm late for class.",
+      "zh": "糟了，我上课要迟到了。"
+    },
+    {
+      "id": 38,
+      "start": 109.24,
+      "end": 110.24,
+      "en": "I've got to run.",
+      "zh": "我得赶紧走了。"
+    },
+    {
+      "id": 39,
+      "start": 110.24,
+      "end": 110.8,
+      "en": "Okay, take care.",
+      "zh": "好吧，保重。"
+    },
+    {
+      "id": 40,
+      "start": 111.44,
+      "end": 112.54,
+      "en": "Hey, nice running into you.",
+      "zh": "很高兴碰到你。"
+    },
+    {
+      "id": 41,
+      "start": 112.88,
+      "end": 113.4,
+      "en": "Yeah, you too.",
+      "zh": "你也是，回头见。"
+    },
+    {
+      "id": 42,
+      "start": 117.56,
+      "end": 118.56,
+      "en": "All right, we're back.",
+      "zh": "好了，我们回来了。"
+    },
+    {
+      "id": 43,
+      "start": 118.56,
+      "end": 124.32,
+      "en": "So now let's start with all these words and phrases on Language Takeaway.",
+      "zh": "所以现在让我们从所有这些关于语言外卖的单词和短语开始。"
+    },
+    {
+      "id": 44,
+      "start": 124.32,
+      "end": 124.6,
+      "en": "Language Takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 45,
+      "start": 126.88,
+      "end": 128.41,
+      "en": "So hey Jordan, is that you?",
+      "zh": "嘿，乔丹，是你吗？"
+    },
+    {
+      "id": 46,
+      "start": 128.8,
+      "end": 129.81,
+      "en": "Long time no see.",
+      "zh": "好久不见。"
+    },
+    {
+      "id": 47,
+      "start": 130.31,
+      "end": 130.93,
+      "en": "I love this phrase.",
+      "zh": "我喜欢这个短语。"
+    },
+    {
+      "id": 48,
+      "start": 130.97,
+      "end": 136.57,
+      "en": "Right, this phrase, long time no see, which if you look at it, it doesn't really make sense.",
+      "zh": "对，这句话，好久不见，如果你看它，它真的没有意义。"
+    },
+    {
+      "id": 49,
+      "start": 137.6,
+      "end": 137.95,
+      "en": "It looks like we're missing a couple of words.",
+      "zh": "看起来我们错过了几个字。"
+    },
+    {
+      "id": 50,
+      "start": 138.6,
+      "end": 139.51,
+      "en": "It looks like an incomplete sentence.",
+      "zh": "它看起来像一个不完整的句子。"
+    },
+    {
+      "id": 51,
+      "start": 140.2,
+      "end": 142.6,
+      "en": "Yeah, like the subject, who?",
+      "zh": "是的，喜欢这个主题，谁？"
+    },
+    {
+      "id": 52,
+      "start": 142.6,
+      "end": 143.6,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 53,
+      "start": 143.65,
+      "end": 145.69,
+      "en": "I haven't seen you, you haven't seen you.",
+      "zh": "我没见过你，你没见过你。"
+    },
+    {
+      "id": 54,
+      "start": 146.03,
+      "end": 150.73,
+      "en": "So really the meaning of this is I haven't seen you in a long time.",
+      "zh": "所以这个意思是我好久没见到你了。"
+    },
+    {
+      "id": 55,
+      "start": 151.23,
+      "end": 151.51,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 56,
+      "start": 152.44,
+      "end": 156.68,
+      "en": "And actually I've heard that this phrase was taken from Chinese.",
+      "zh": "实际上我听说这句话是从中文中提取的。"
+    },
+    {
+      "id": 57,
+      "start": 156.68,
+      "end": 159.13,
+      "en": "I've also heard that, so it's kind of like pigeon English.",
+      "zh": "我也听说过，所以有点像鸽子英语。"
+    },
+    {
+      "id": 58,
+      "start": 159.63,
+      "end": 162.03,
+      "en": "And now it's very, very common in English to say this.",
+      "zh": "现在在英语中说这句话是非常非常常见的。"
+    },
+    {
+      "id": 59,
+      "start": 162.2,
+      "end": 163.2,
+      "en": "You say this with your friends.",
+      "zh": "你和你的朋友这么说。"
+    },
+    {
+      "id": 60,
+      "start": 163.2,
+      "end": 163.79,
+      "en": "It's very casual.",
+      "zh": "这是很随意的说法。"
+    },
+    {
+      "id": 61,
+      "start": 164.59,
+      "end": 166.19,
+      "en": "And yeah, long time no see.",
+      "zh": "是的，好久不见。"
+    },
+    {
+      "id": 62,
+      "start": 166.52,
+      "end": 170.8,
+      "en": "Because if you translate this literally to Chinese, it makes sense, right?",
+      "zh": "因为如果你把它从字面上翻译成中文，那是有道理的，对吧？"
+    },
+    {
+      "id": 63,
+      "start": 170.8,
+      "end": 171.8,
+      "en": "Yes, it does.",
+      "zh": "是的，确实如此。"
+    },
+    {
+      "id": 64,
+      "start": 171.8,
+      "end": 172.63,
+      "en": "So it's interesting.",
+      "zh": "所以挺有意思的。"
+    },
+    {
+      "id": 65,
+      "start": 173.37,
+      "end": 175.59,
+      "en": "All right, so we haven't seen our friend in a long time.",
+      "zh": "好吧，所以我们很久没有见到我们的朋友了。"
+    },
+    {
+      "id": 66,
+      "start": 176.23,
+      "end": 177.47,
+      "en": "And he's like, yeah, no kidding.",
+      "zh": "他就像，是的，不开玩笑。"
+    },
+    {
+      "id": 67,
+      "start": 177.63,
+      "end": 177.93,
+      "en": "You know what?",
+      "zh": "你知道吗？"
+    },
+    {
+      "id": 68,
+      "start": 178.17,
+      "end": 179.87,
+      "en": "I think it's been since orientation.",
+      "zh": "我想这是从定向开始的。"
+    },
+    {
+      "id": 69,
+      "start": 180.56,
+      "end": 183.16,
+      "en": "So what is this orientation that he's talking about?",
+      "zh": "那么他所说的这个方向是什么？"
+    },
+    {
+      "id": 70,
+      "start": 183.16,
+      "end": 186.98,
+      "en": "Now this is an important part of the average American college experience.",
+      "zh": "现在这是美国大学平均经历的重要组成部分。"
+    },
+    {
+      "id": 71,
+      "start": 188.16,
+      "end": 194.78,
+      "en": "Orientation is a special time, maybe for one week or a couple of days, at the very beginning of your first year of university.",
+      "zh": "迎新是一个特殊的时间，可能是一周或几天，在你大学第一年的开始。"
+    },
+    {
+      "id": 72,
+      "start": 195.7,
+      "end": 205.52,
+      "en": "All right, so my first week of school, I didn't have any classes, but I went to school and with all of the other first year students, we're called freshmen, I had to do activities and meet people and sign up for classes.",
+      "zh": "好吧，所以我上学的第一周，我没有上课，但我上学了，和所有其他一年级的学生一样，我们被称为新生，我必须做活动，结识人，报名参加课程。"
+    },
+    {
+      "id": 73,
+      "start": 205.96,
+      "end": 211.08,
+      "en": "And basically, orientation is a time when you learn about a new system or a new program.",
+      "zh": "基本上，定位是您了解新系统或新程序的时间。"
+    },
+    {
+      "id": 74,
+      "start": 211.08,
+      "end": 223.1,
+      "en": "So how it works, because maybe you don't really know yet how to pick your classes or where the dorms are or how the meals work if you have to go to the cafeteria, etc., right?",
+      "zh": "那么它是如何工作的，因为也许你还不知道如何挑选你的课程或宿舍在哪里，或者如果你必须去自助餐厅等，餐饮是如何运作的，对吧？"
+    },
+    {
+      "id": 75,
+      "start": 223.84,
+      "end": 224.84,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 76,
+      "start": 224.84,
+      "end": 225.56,
+      "en": "And it comes from the verb to orient.",
+      "zh": "它来自动词到东方。"
+    },
+    {
+      "id": 77,
+      "start": 226.16,
+      "end": 228.98,
+      "en": "So I orient myself by facing the right direction.",
+      "zh": "所以我通过面对正确的方向来定位自己。"
+    },
+    {
+      "id": 78,
+      "start": 229.52,
+      "end": 232.92,
+      "en": "So orientation is really about teaching you how to start in a new system.",
+      "zh": "所以方向实际上是教你如何开始一个新系统。"
+    },
+    {
+      "id": 79,
+      "start": 233.3,
+      "end": 234.12,
+      "en": "Okay, very good.",
+      "zh": "好，很好。"
+    },
+    {
+      "id": 80,
+      "start": 234.68,
+      "end": 238.88,
+      "en": "So well, that was three months ago and a lot has happened.",
+      "zh": "太好了，那是三个月前的事了，发生了很多事情。"
+    },
+    {
+      "id": 81,
+      "start": 238.88,
+      "end": 242.5,
+      "en": "Our speaker says that he pledged Phi Iota Alpha.",
+      "zh": "我们的演讲者说他承诺 Phi Iota Alpha。"
+    },
+    {
+      "id": 82,
+      "start": 243.16,
+      "end": 245.68,
+      "en": "So what is this to pledge in this?",
+      "zh": "那么这在这方面有什么承诺呢？"
+    },
+    {
+      "id": 83,
+      "start": 245.68,
+      "end": 246.96,
+      "en": "Now this is Greek as well.",
+      "zh": "现在这也是希腊语。"
+    },
+    {
+      "id": 84,
+      "start": 247.8,
+      "end": 251.56,
+      "en": "Phi Iota Alpha is Greek and this means that we're talking about a fraternity.",
+      "zh": "Phi Iota Alpha 是希腊语，这意味着我们谈论的是一个兄弟会。"
+    },
+    {
+      "id": 85,
+      "start": 252.36,
+      "end": 262.66,
+      "en": "So fraternity is a group of boys, a sorority is a group of girls, and these are communities, so social societies that you have to apply to be a member of.",
+      "zh": "所以兄弟会是一群男孩，一个联谊会是一群女孩，这些是社区，所以社会社会你必须申请成为一员。"
+    },
+    {
+      "id": 86,
+      "start": 263.2,
+      "end": 263.88,
+      "en": "But we don't say apply.",
+      "zh": "但我们不说申请。"
+    },
+    {
+      "id": 87,
+      "start": 264.48,
+      "end": 265.32,
+      "en": "Right, you pledge.",
+      "zh": "对，你保证。"
+    },
+    {
+      "id": 88,
+      "start": 266.32,
+      "end": 267.9,
+      "en": "So it's like I pledge allegiance.",
+      "zh": "所以这就像我宣誓效忠。"
+    },
+    {
+      "id": 89,
+      "start": 268.32,
+      "end": 275.48,
+      "en": "You say I want to be in your group, I want to be in your fraternity, and so you will have to do special things to become a member.",
+      "zh": "你说我想加入你的团队，我想加入你的兄弟会，所以你必须做一些特别的事情才能成为会员。"
+    },
+    {
+      "id": 90,
+      "start": 275.76,
+      "end": 283.64,
+      "en": "So the verb to pledge would be to basically to promise something honorably or faithfully, right?",
+      "zh": "所以要承诺的动词基本上是承诺光荣或忠实地承诺，对吧？"
+    },
+    {
+      "id": 91,
+      "start": 283.88,
+      "end": 284.24,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 92,
+      "start": 285.4,
+      "end": 288.08,
+      "en": "And that's the nice way of putting it.",
+      "zh": "这就是它的好方法。"
+    },
+    {
+      "id": 93,
+      "start": 288.08,
+      "end": 297.37,
+      "en": "But generally when you talk about sororities and fraternities, these upperclassmen, so third, fourth year students, they make the students who are pledging do very weird things.",
+      "zh": "但一般来说，当你谈论姐妹会和兄弟会时，这些高年级学生，所以三年级的学生，他们让承诺的学生做一些非常奇怪的事情。"
+    },
+    {
+      "id": 94,
+      "start": 298.24,
+      "end": 301.77,
+      "en": "So as you said, this is for these two guys, this is for a fraternity.",
+      "zh": "所以正如你所说，这是给这两个人的，这是给兄弟的。"
+    },
+    {
+      "id": 95,
+      "start": 302.86,
+      "end": 306.49,
+      "en": "But if it's this type of club for girls, it's called a?",
+      "zh": "但如果是这种类型的女孩俱乐部，它被称为 A？"
+    },
+    {
+      "id": 96,
+      "start": 306.96,
+      "end": 307.41,
+      "en": "Sorority.",
+      "zh": "姐妹情谊。"
+    },
+    {
+      "id": 97,
+      "start": 307.96,
+      "end": 308.96,
+      "en": "Okay, so it's different.",
+      "zh": "好吧，就不一样了。"
+    },
+    {
+      "id": 98,
+      "start": 308.96,
+      "end": 313.93,
+      "en": "So I'm pledging this sorority, that means I'm trying to become a member of this sorority.",
+      "zh": "所以我承诺这个联谊会，这意味着我正在努力成为这个联谊会的一员。"
+    },
+    {
+      "id": 99,
+      "start": 314.48,
+      "end": 323.96,
+      "en": "So I think it's worthwhile mentioning many of you have probably seen it in movies, these fraternities or sororities, and they all have names based on the Greek alphabet.",
+      "zh": "所以我认为值得一提的是，你们中的许多人可能已经在电影、这些兄弟会或姐妹会中看过它，而且他们的名字都基于希腊字母。"
+    },
+    {
+      "id": 100,
+      "start": 324.2,
+      "end": 334.84,
+      "en": "Right, so the letters, Phi, Iota, Alpha, or Kappa, Kappa, Gamma, these are the letters that basically represent the name of the fraternity.",
+      "zh": "对，所以字母、Phi、Iota、Alpha 或 Kappa、Kappa、Gamma，这些字母基本上代表了兄弟会的名称。"
+    },
+    {
+      "id": 101,
+      "start": 334.84,
+      "end": 343.76,
+      "en": "And what's interesting is that maybe I am in Kappa Kappa Gamma at my school, there's another school with another Kappa Kappa Gamma, we're all related.",
+      "zh": "有趣的是，也许我在学校的 Kappa Kappa Gamma，还有另一所学校和另一所 Kappa Kappa Gamma，我们都是相关的。"
+    },
+    {
+      "id": 102,
+      "start": 343.76,
+      "end": 346.52,
+      "en": "It's the same social community.",
+      "zh": "这是同一个社会社区。"
+    },
+    {
+      "id": 103,
+      "start": 346.52,
+      "end": 349.56,
+      "en": "So they sometimes do events together, things like that.",
+      "zh": "所以他们有时会一起做活动，诸如此类。"
+    },
+    {
+      "id": 104,
+      "start": 349.56,
+      "end": 359.44,
+      "en": "So actually these fraternities or sororities, it's not independent to a school, it's actually like a wide network of people that belong to this club.",
+      "zh": "所以实际上这些兄弟会或姐妹会，它不是独立于学校的，它实际上就像一个属于这个俱乐部的广泛的人际网络。"
+    },
+    {
+      "id": 105,
+      "start": 359.44,
+      "end": 361.19,
+      "en": "Exactly, it's a national network usually.",
+      "zh": "确切地说，它通常是一个国家网络。"
+    },
+    {
+      "id": 106,
+      "start": 361.43,
+      "end": 362.65,
+      "en": "So it's kind of like being in the Boy Scouts.",
+      "zh": "所以这有点像在童子军中。"
+    },
+    {
+      "id": 107,
+      "start": 363.17,
+      "end": 365.73,
+      "en": "Yeah, similar except the activities are much different.",
+      "zh": "是的，类似，除了活动大不相同。"
+    },
+    {
+      "id": 108,
+      "start": 366.39,
+      "end": 367.05,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 109,
+      "start": 367.49,
+      "end": 374.67,
+      "en": "So these people, they may live at the frat house, like in this dialogue, he's living at the frat house.",
+      "zh": "所以这些人，他们可能住在兄弟会之家，就像在这次对话中一样，他住在兄弟会之家。"
+    },
+    {
+      "id": 110,
+      "start": 374.99,
+      "end": 379.25,
+      "en": "Now remember here, fraternity, that becomes frat if we're talking colloquially.",
+      "zh": "现在请记住，兄弟会，如果我们口语化地交谈，那就变成了兄弟会。"
+    },
+    {
+      "id": 111,
+      "start": 379.55,
+      "end": 385.89,
+      "en": "So the frat house is the fraternity house, it's where those boys live, but only the Phi, Iota, Alpha boys.",
+      "zh": "所以兄弟会之家是兄弟会之家，它是那些男孩住的地方，但只有 Phi、Iota、Alpha 男孩。"
+    },
+    {
+      "id": 112,
+      "start": 386.21,
+      "end": 392.15,
+      "en": "Right, so no one, if I have a friend and he's not Phi, Iota, Alpha, then he can't live there.",
+      "zh": "是的，所以没有人，如果我有一个朋友，他不是 Phi、Iota、Alpha，那么他就不能住在那里。"
+    },
+    {
+      "id": 113,
+      "start": 392.25,
+      "end": 395.73,
+      "en": "Exactly, and we have a similar thing for girls, that's the sorority house.",
+      "zh": "没错，我们对女孩来说也有类似的东西，那就是联谊会之家。"
+    },
+    {
+      "id": 114,
+      "start": 396.21,
+      "end": 397.05,
+      "en": "Okay, very good.",
+      "zh": "好，很好。"
+    },
+    {
+      "id": 115,
+      "start": 397.47,
+      "end": 401.39,
+      "en": "So a frat house is the fraternity house, basically like their club house.",
+      "zh": "所以兄弟会之家是兄弟会之家，基本上就像他们的俱乐部会所一样。"
+    },
+    {
+      "id": 116,
+      "start": 401.81,
+      "end": 402.49,
+      "en": "Where they live though, yeah.",
+      "zh": "他们住在哪里，是的。"
+    },
+    {
+      "id": 117,
+      "start": 403.56,
+      "end": 409.52,
+      "en": "And so sometimes guys that belong to fraternities, they're referred to as frat boys.",
+      "zh": "所以有时属于兄弟会的人，他们被称为兄弟会男孩。"
+    },
+    {
+      "id": 118,
+      "start": 409.62,
+      "end": 424.74,
+      "en": "Hey, frat boy, yeah, so fraternity boy, this is not always the nicest thing to say, it's got a negative meaning, because a lot of the activities that frat boys do stereotypically involve lots of drinking and maybe being loud.",
+      "zh": "嘿，兄弟会男孩，是的，所以兄弟会男孩，这并不总是最好的说法，它有负面的含义，因为兄弟会男孩的许多活动刻板地涉及大量饮酒，也许是大声的。"
+    },
+    {
+      "id": 119,
+      "start": 425.64,
+      "end": 432.34,
+      "en": "So frat boy is someone who's in a fraternity and it's usually a critical way of talking about those guys.",
+      "zh": "所以兄弟会男孩是一个兄弟会的人，这通常是谈论这些人的关键方式。"
+    },
+    {
+      "id": 120,
+      "start": 432.34,
+      "end": 438.34,
+      "en": "So this whole fraternity, sorority thing, as he said, is a little bit cliche, right?",
+      "zh": "因此，正如他所说，整个兄弟会，姐妹情谊的事情有点陈词滥调，对吧？"
+    },
+    {
+      "id": 121,
+      "start": 438.99,
+      "end": 441.59,
+      "en": "Yeah, this is a great word, I use this a lot actually.",
+      "zh": "是的，这是一个很棒的词，我实际上经常使用它。"
+    },
+    {
+      "id": 122,
+      "start": 441.8,
+      "end": 450.12,
+      "en": "So something that's cliche would be almost what's expected, but in a bad way, right?",
+      "zh": "所以陈词滥调的东西几乎是预期的，但以一种糟糕的方式，对吧？"
+    },
+    {
+      "id": 123,
+      "start": 450.12,
+      "end": 451.12,
+      "en": "And so...",
+      "zh": "所以……"
+    },
+    {
+      "id": 124,
+      "start": 451.12,
+      "end": 454.8,
+      "en": "So you joining a fraternity is a little bit cliche, because it's kind of like...",
+      "zh": "所以你加入兄弟会有点陈词滥调，因为它有点像..."
+    },
+    {
+      "id": 125,
+      "start": 454.85,
+      "end": 459.85,
+      "en": "It's what everyone does in the movies and on TV, like, oh, I'm going to college, I'm going to join a fraternity.",
+      "zh": "这是每个人在电影和电视上所做的事情，比如，哦，我要去上大学，我要加入一个兄弟会。"
+    },
+    {
+      "id": 126,
+      "start": 461.07,
+      "end": 463.79,
+      "en": "It's almost like boring, it's so normal.",
+      "zh": "这几乎就像无聊，这很正常。"
+    },
+    {
+      "id": 127,
+      "start": 463.8,
+      "end": 472.96,
+      "en": "But you could also say that like that movie, at the end of the movie, the man and the woman, they fought, but then they got back together, it's so cliche.",
+      "zh": "但你也可以说，就像那部电影一样，在电影的结尾，男人和女人，他们战斗，但后来他们又复合了，这太陈词滥调了。"
+    },
+    {
+      "id": 128,
+      "start": 472.96,
+      "end": 476.45,
+      "en": "So it's something that's overused, expected, very typical.",
+      "zh": "所以这是过度使用、预期、非常典型的东西。"
+    },
+    {
+      "id": 129,
+      "start": 476.84,
+      "end": 477.11,
+      "en": "Uninteresting.",
+      "zh": "无趣。"
+    },
+    {
+      "id": 130,
+      "start": 477.84,
+      "end": 478.9,
+      "en": "Uninteresting, okay.",
+      "zh": "无趣，好吧。"
+    },
+    {
+      "id": 131,
+      "start": 478.9,
+      "end": 482.27,
+      "en": "So we have a cliche, we're saying that a fraternity is cliche.",
+      "zh": "所以我们有一个陈词滥调，我们是说兄弟会是陈词滥调。"
+    },
+    {
+      "id": 132,
+      "start": 482.96,
+      "end": 489.09,
+      "en": "Now, the other guy on the other hand is living off campus, he lives at home, but he said he commutes to school every day.",
+      "zh": "现在，另一方面，另一个人住在校外，他住在家里，但他说他每天上学。"
+    },
+    {
+      "id": 133,
+      "start": 489.24,
+      "end": 491.07,
+      "en": "So he says, I'm commuting to school.",
+      "zh": "所以他说，我要去上学。"
+    },
+    {
+      "id": 134,
+      "start": 492.12,
+      "end": 492.43,
+      "en": "This is interesting.",
+      "zh": "这很有趣。"
+    },
+    {
+      "id": 135,
+      "start": 493.12,
+      "end": 495.56,
+      "en": "Now in America, there's usually two options.",
+      "zh": "现在在美国，通常有两种选择。"
+    },
+    {
+      "id": 136,
+      "start": 495.56,
+      "end": 501.79,
+      "en": "One is to live on campus, that means to live at your university in a dormitory or an apartment.",
+      "zh": "一种是住在校园里，这意味着住在你的大学里的宿舍或公寓里。"
+    },
+    {
+      "id": 137,
+      "start": 502.72,
+      "end": 508.43,
+      "en": "But many people commute, and this means they drive to school every day, and then they drive home at night, they don't live on the campus.",
+      "zh": "但是很多人通勤，这意味着他们每天开车去学校，然后他们晚上开车回家，他们不住在校园里。"
+    },
+    {
+      "id": 138,
+      "start": 509.07,
+      "end": 511.69,
+      "en": "So you can also commute to work every day, right?",
+      "zh": "所以你也可以每天上班，对吧？"
+    },
+    {
+      "id": 139,
+      "start": 511.87,
+      "end": 513.47,
+      "en": "This is what people do, you don't live at the office.",
+      "zh": "这是人们所做的，你不住在办公室。"
+    },
+    {
+      "id": 140,
+      "start": 513.76,
+      "end": 513.97,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 141,
+      "start": 514.27,
+      "end": 514.67,
+      "en": "I hope not.",
+      "zh": "我希望不会。"
+    },
+    {
+      "id": 142,
+      "start": 515.76,
+      "end": 520.61,
+      "en": "No, this is a common thing, people will drive to work, and you might ask them, how long is your commute?",
+      "zh": "不，这是很常见的事情，人们会开车上班，你可能会问他们，你的通勤时间是多久？"
+    },
+    {
+      "id": 143,
+      "start": 520.92,
+      "end": 524.16,
+      "en": "So you say, oh, one hour, that means I drive one hour to work.",
+      "zh": "所以你说，哦，一小时，这意味着我开车一小时上班。"
+    },
+    {
+      "id": 144,
+      "start": 524.16,
+      "end": 528.48,
+      "en": "So if I take the bus or the train, the subway, is that also commuting?",
+      "zh": "所以如果我坐公共汽车或火车，地铁，那也通勤吗？"
+    },
+    {
+      "id": 145,
+      "start": 528.48,
+      "end": 536.5,
+      "en": "It is, it doesn't matter how you do it, it just means you don't live where you work or where you study, so you have to travel there by some means of transportation.",
+      "zh": "是，不管你怎么做，这只是意味着你不住在你工作的地方或学习的地方，所以你必须通过某种交通方式去那里旅行。"
+    },
+    {
+      "id": 146,
+      "start": 536.78,
+      "end": 537.1,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 147,
+      "start": 537.82,
+      "end": 546.72,
+      "en": "So, well, now going back to the academic aspect of this dialogue, he said that he ended up dropping a class.",
+      "zh": "所以，好吧，现在回到这个对话的学术方面，他说他最终放弃了一堂课。"
+    },
+    {
+      "id": 148,
+      "start": 547.54,
+      "end": 552.44,
+      "en": "Okay, so to drop means to stop attending a class.",
+      "zh": "好的，所以放弃意味着停止上课。"
+    },
+    {
+      "id": 149,
+      "start": 553.18,
+      "end": 563.08,
+      "en": "Maybe you don't have enough time, maybe you don't like it, but to drop a class means you will no longer study, you will not take the tests, you will not get a grade.",
+      "zh": "也许你没有足够的时间，也许你不喜欢它，但放弃一门课意味着你将不再学习，你不会参加考试，你将无法获得成绩。"
+    },
+    {
+      "id": 150,
+      "start": 563.7,
+      "end": 568.78,
+      "en": "It's the opposite of to sign up for a class or to register for a class.",
+      "zh": "这与注册一个班级或注册一个班级是相反的。"
+    },
+    {
+      "id": 151,
+      "start": 569.12,
+      "end": 577.88,
+      "en": "So the difference between dropping a class and failing a class is that basically you're making the decision to not go there anymore.",
+      "zh": "因此，放弃课程和不及格课程之间的区别在于，基本上您正在决定不再去那里。"
+    },
+    {
+      "id": 152,
+      "start": 578.22,
+      "end": 578.62,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 153,
+      "start": 579.52,
+      "end": 588.4,
+      "en": "So usually there's a time you can do this, so for the first two weeks you can attend classes and if you don't have enough time or you don't like a class, you can drop the class.",
+      "zh": "所以通常有时间你可以这样做，所以在前两周你可以上课，如果你没有足够的时间或你不喜欢上课，你可以放弃课程。"
+    },
+    {
+      "id": 154,
+      "start": 588.4,
+      "end": 593.94,
+      "en": "But if you stay in the class, you just don't come or you do very poorly on your tests, that's called failing.",
+      "zh": "但如果你留在课堂上，你只是不来，或者你在考试中表现不佳，这就是所谓的失败。"
+    },
+    {
+      "id": 155,
+      "start": 594.64,
+      "end": 602.0,
+      "en": "So there are some classes, because I don't know, can you drop any class or do you have to take them at some point?",
+      "zh": "所以有一些课程，因为我不知道，你可以放弃任何课程还是必须在某个时候上课？"
+    },
+    {
+      "id": 156,
+      "start": 602.44,
+      "end": 602.78,
+      "en": "That's a good question.",
+      "zh": "这是个好问题。"
+    },
+    {
+      "id": 157,
+      "start": 603.44,
+      "end": 606.32,
+      "en": "That's our next phrase, that's a prerequisite course, right?",
+      "zh": "这是我们的下一个短语，这是一个先决条件，对吧？"
+    },
+    {
+      "id": 158,
+      "start": 606.96,
+      "end": 616.94,
+      "en": "So usually the university in America will tell you, you have to study math, you have to study one semester of science, you have to study English for one semester.",
+      "zh": "所以通常美国的大学会告诉你，你必须学习数学，你必须学习一个学期的科学，你必须学习一个学期的英语。"
+    },
+    {
+      "id": 159,
+      "start": 617.26,
+      "end": 618.68,
+      "en": "So these are called prerequisites.",
+      "zh": "所以这些被称为先决条件。"
+    },
+    {
+      "id": 160,
+      "start": 619.1,
+      "end": 622.18,
+      "en": "It's when the university tells you, you have to study something.",
+      "zh": "当大学告诉你，你必须学习一些东西时。"
+    },
+    {
+      "id": 161,
+      "start": 623.22,
+      "end": 629.0,
+      "en": "And I think you also have some courses that you can't take until you've passed some other course, right?",
+      "zh": "而且我认为你也有一些课程，在你通过其他课程之前你不能参加，对吧？"
+    },
+    {
+      "id": 162,
+      "start": 629.76,
+      "end": 635.48,
+      "en": "So for example, you can't take economy unless you've passed calculus.",
+      "zh": "因此，例如，除非您通过了微积分，否则您不能使用经济。"
+    },
+    {
+      "id": 163,
+      "start": 635.54,
+      "end": 635.96,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 164,
+      "start": 636.48,
+      "end": 637.6,
+      "en": "So that's another prerequisite.",
+      "zh": "所以这是另一个先决条件。"
+    },
+    {
+      "id": 165,
+      "start": 637.62,
+      "end": 642.44,
+      "en": "So we'd say, the prerequisite for economics is calculus one.",
+      "zh": "所以我们想说，经济学的先决条件是微积分一。"
+    },
+    {
+      "id": 166,
+      "start": 643.16,
+      "end": 649.8,
+      "en": "Or the prerequisite for Spanish 200 is Spanish 100.",
+      "zh": "或西班牙语 200 的先决条件是西班牙语 100。"
+    },
+    {
+      "id": 167,
+      "start": 649.8,
+      "end": 651.98,
+      "en": "Means you have to take something before you take something else.",
+      "zh": "意味着你必须在拿走别的东西之前拿一些东西。"
+    },
+    {
+      "id": 168,
+      "start": 652.44,
+      "end": 657.46,
+      "en": "So there's two meanings of the word, but they're both related to requirements, what you have to do.",
+      "zh": "所以这个词有两个含义，但它们都与需求有关，你必须做什么。"
+    },
+    {
+      "id": 169,
+      "start": 657.62,
+      "end": 658.94,
+      "en": "Okay, you need a requirement.",
+      "zh": "好的，你需要一个要求。"
+    },
+    {
+      "id": 170,
+      "start": 659.84,
+      "end": 666.72,
+      "en": "Now moving on and talking about the major, he said, well, if you decided on a major and he said, well, pre-med.",
+      "zh": "现在继续谈论专业，他说，好吧，如果你决定一个专业，他说，好吧，医学预科。"
+    },
+    {
+      "id": 171,
+      "start": 666.72,
+      "end": 671.2,
+      "en": "All right, so major, first of all, is what you choose to study, right?",
+      "zh": "好吧，那么专业，首先，你选择学习什么，对吧？"
+    },
+    {
+      "id": 172,
+      "start": 671.2,
+      "end": 672.84,
+      "en": "The focus of your study.",
+      "zh": "你学习的重点。"
+    },
+    {
+      "id": 173,
+      "start": 672.84,
+      "end": 673.45,
+      "en": "Exactly, the focus.",
+      "zh": "没错，重点。"
+    },
+    {
+      "id": 174,
+      "start": 673.84,
+      "end": 679.36,
+      "en": "You might study other classes, but your focus, your main interest area is one thing.",
+      "zh": "你可能会学习其他课程，但你的重点，你的主要兴趣领域是一回事。"
+    },
+    {
+      "id": 175,
+      "start": 679.36,
+      "end": 681.84,
+      "en": "And in his case, he's talking about pre-med.",
+      "zh": "在他的情况下，他在谈论医学预科。"
+    },
+    {
+      "id": 176,
+      "start": 681.84,
+      "end": 683.09,
+      "en": "Now what does pre-med stand for?",
+      "zh": "现在医学预科代表什么？"
+    },
+    {
+      "id": 177,
+      "start": 683.25,
+      "end": 685.03,
+      "en": "Because it is a short version of a longer word.",
+      "zh": "因为它是较长单词的短版本。"
+    },
+    {
+      "id": 178,
+      "start": 685.76,
+      "end": 686.76,
+      "en": "So it's pre-medicine.",
+      "zh": "所以这是预科。"
+    },
+    {
+      "id": 179,
+      "start": 687.34,
+      "end": 687.86,
+      "en": "Yeah, okay.",
+      "zh": "好吧。"
+    },
+    {
+      "id": 180,
+      "start": 688.12,
+      "end": 692.64,
+      "en": "So medicine is something you study if you want to be a doctor.",
+      "zh": "所以如果你想成为一名医生，医学是你学习的东西。"
+    },
+    {
+      "id": 181,
+      "start": 692.64,
+      "end": 696.88,
+      "en": "Because in America, you don't become a doctor after four years.",
+      "zh": "因为在美国，四年后你不会成为一名医生。"
+    },
+    {
+      "id": 182,
+      "start": 696.88,
+      "end": 702.18,
+      "en": "You have to go get your BA, your bachelor's degree, and then you have to get your PhD, your doctorate.",
+      "zh": "你必须去获得你的学士学位，你的学士学位，然后你必须获得你的博士学位，你的博士学位。"
+    },
+    {
+      "id": 183,
+      "start": 702.66,
+      "end": 708.36,
+      "en": "So people who want to go to graduate school first have to study many required courses.",
+      "zh": "所以想读研究生的人必须先学习许多必修课。"
+    },
+    {
+      "id": 184,
+      "start": 709.4,
+      "end": 711.76,
+      "en": "That's the pre-med focus.",
+      "zh": "这就是医学预科的焦点。"
+    },
+    {
+      "id": 185,
+      "start": 712.66,
+      "end": 714.12,
+      "en": "Okay, so that's what he's talking about.",
+      "zh": "好吧，这就是他所说的。"
+    },
+    {
+      "id": 186,
+      "start": 714.32,
+      "end": 716.98,
+      "en": "He's definitely going to focus on pre-med.",
+      "zh": "他肯定会专注于医学预科。"
+    },
+    {
+      "id": 187,
+      "start": 716.98,
+      "end": 717.82,
+      "en": "He wants to be a doctor.",
+      "zh": "他想成为一名医生。"
+    },
+    {
+      "id": 188,
+      "start": 718.16,
+      "end": 721.66,
+      "en": "He's not going to be a doctor soon, but he wants to start studying to be a doctor.",
+      "zh": "他不会很快成为一名医生，但他想开始学习成为一名医生。"
+    },
+    {
+      "id": 189,
+      "start": 722.02,
+      "end": 726.08,
+      "en": "So he will become a pre-med, a pre-med major.",
+      "zh": "所以他将成为医学预科，医学预科专业。"
+    },
+    {
+      "id": 190,
+      "start": 726.08,
+      "end": 728.88,
+      "en": "And what about for lawyers?",
+      "zh": "那么对于律师呢？"
+    },
+    {
+      "id": 191,
+      "start": 728.88,
+      "end": 731.17,
+      "en": "I know that there are also something that you focus on before.",
+      "zh": "我知道你以前也关注一些事情。"
+    },
+    {
+      "id": 192,
+      "start": 731.88,
+      "end": 732.15,
+      "en": "There is, yeah.",
+      "zh": "有，是的。"
+    },
+    {
+      "id": 193,
+      "start": 732.88,
+      "end": 733.88,
+      "en": "That's called pre-law.",
+      "zh": "这就是所谓的预法律。"
+    },
+    {
+      "id": 194,
+      "start": 733.88,
+      "end": 734.88,
+      "en": "Same idea.",
+      "zh": "意思一样。"
+    },
+    {
+      "id": 195,
+      "start": 734.88,
+      "end": 736.04,
+      "en": "Pre means before.",
+      "zh": "前指的是之前。"
+    },
+    {
+      "id": 196,
+      "start": 736.04,
+      "end": 739.6,
+      "en": "So obviously, a lawyer needs to study for a long time as well.",
+      "zh": "很明显，律师也需要长期学习。"
+    },
+    {
+      "id": 197,
+      "start": 739.6,
+      "end": 744.12,
+      "en": "And with your undergrad degree, so your first four years, you would study pre-law.",
+      "zh": "有了你的本科学位，所以你的前四年，你将学习法律预科。"
+    },
+    {
+      "id": 198,
+      "start": 744.12,
+      "end": 750.62,
+      "en": "So this is what you focus on for your four years, and then you go into grad school and become an attorney or a specific type of lawyer.",
+      "zh": "所以这是你四年关注的重点，然后你进入研究生院，成为一名律师或特定类型的律师。"
+    },
+    {
+      "id": 199,
+      "start": 751.04,
+      "end": 752.66,
+      "en": "But a lawyer doesn't have to study for a PhD.",
+      "zh": "但律师不必攻读博士学位。"
+    },
+    {
+      "id": 200,
+      "start": 753.44,
+      "end": 755.1,
+      "en": "A lawyer studies for a JD.",
+      "zh": "一名律师为 JD 学习。"
+    },
+    {
+      "id": 201,
+      "start": 755.94,
+      "end": 757.86,
+      "en": "That's called a Juris Doctorate.",
+      "zh": "这被称为法学博士学位。"
+    },
+    {
+      "id": 202,
+      "start": 757.94,
+      "end": 758.66,
+      "en": "That's the law degree.",
+      "zh": "那是法律学位。"
+    },
+    {
+      "id": 203,
+      "start": 759.18,
+      "end": 759.58,
+      "en": "Interesting.",
+      "zh": "有意思。"
+    },
+    {
+      "id": 204,
+      "start": 760.04,
+      "end": 761.04,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 205,
+      "start": 761.04,
+      "end": 765.66,
+      "en": "So, well, he's going into pre-med, but the other guy is like, well, I don't have a clue yet.",
+      "zh": "所以，好吧，他要进入医学预科，但另一个人就像，好吧，我还不知道。"
+    },
+    {
+      "id": 206,
+      "start": 766.64,
+      "end": 770.64,
+      "en": "And he doesn't have to declare a major until the sophomore year.",
+      "zh": "而且他不必在大二之前宣布专业。"
+    },
+    {
+      "id": 207,
+      "start": 771.97,
+      "end": 772.99,
+      "en": "Okay, a couple of things going on here.",
+      "zh": "好吧，这里发生了几件事。"
+    },
+    {
+      "id": 208,
+      "start": 773.09,
+      "end": 776.16,
+      "en": "First of all, there are different names for each year.",
+      "zh": "首先，每年都有不同的名字。"
+    },
+    {
+      "id": 209,
+      "start": 776.48,
+      "end": 779.48,
+      "en": "So freshmen, sophomore, junior, senior.",
+      "zh": "所以大一，大二，大三，大四。"
+    },
+    {
+      "id": 210,
+      "start": 779.48,
+      "end": 781.0,
+      "en": "One, two, three, four.",
+      "zh": "一、二、三、四。"
+    },
+    {
+      "id": 211,
+      "start": 781.0,
+      "end": 782.42,
+      "en": "So sophomore year is the second year.",
+      "zh": "所以大二是第二年。"
+    },
+    {
+      "id": 212,
+      "start": 782.62,
+      "end": 787.14,
+      "en": "So if you say I'm a sophomore student at XY University, that means you're in your second year.",
+      "zh": "所以如果你说我是 XY 大学的二年级学生，那就意味着你在第二年。"
+    },
+    {
+      "id": 213,
+      "start": 787.26,
+      "end": 787.5,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 214,
+      "start": 789.16,
+      "end": 793.48,
+      "en": "And he says that he doesn't have to declare a major until his second year, until his sophomore year.",
+      "zh": "他说他不必在第二年，直到大二的时候宣布专业。"
+    },
+    {
+      "id": 215,
+      "start": 793.48,
+      "end": 795.9,
+      "en": "And this phrase, to declare a major, is very important.",
+      "zh": "而这句话，宣布一个专业，非常重要。"
+    },
+    {
+      "id": 216,
+      "start": 796.76,
+      "end": 800.28,
+      "en": "It means that you will tell the university what your focus will be.",
+      "zh": "这意味着你会告诉大学你的重点是什么。"
+    },
+    {
+      "id": 217,
+      "start": 800.64,
+      "end": 801.02,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 218,
+      "start": 801.64,
+      "end": 801.84,
+      "en": "And you have to do this.",
+      "zh": "你必须这样做。"
+    },
+    {
+      "id": 219,
+      "start": 802.64,
+      "end": 804.32,
+      "en": "You can't just go to school and then graduate.",
+      "zh": "你不能只是去上学然后毕业。"
+    },
+    {
+      "id": 220,
+      "start": 804.32,
+      "end": 810.56,
+      "en": "You have to say, I will focus on this because every major has what we just talked about, prerequisites.",
+      "zh": "你不得不说，我会专注于这一点，因为每个专业都有我们刚刚谈论的内容，先决条件。"
+    },
+    {
+      "id": 221,
+      "start": 810.56,
+      "end": 811.56,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 222,
+      "start": 811.56,
+      "end": 815.98,
+      "en": "So, but in this first year, you don't have to tell the university yet what you want to study.",
+      "zh": "所以，但在第一年，你不必告诉大学你想学习什么。"
+    },
+    {
+      "id": 223,
+      "start": 816.72,
+      "end": 821.2,
+      "en": "Maybe you just, you take a variety of courses and then you tell them, okay, now I'm going to focus on this.",
+      "zh": "也许你只是，你参加了各种课程，然后你告诉他们，好吧，现在我要专注于这个。"
+    },
+    {
+      "id": 224,
+      "start": 821.56,
+      "end": 822.56,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 225,
+      "start": 822.56,
+      "end": 823.56,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 226,
+      "start": 823.56,
+      "end": 824.56,
+      "en": "That's what I did.",
+      "zh": "这就是我所做的。"
+    },
+    {
+      "id": 227,
+      "start": 824.56,
+      "end": 826.56,
+      "en": "And that's very common for liberal art schools.",
+      "zh": "这对文科学校来说很常见。"
+    },
+    {
+      "id": 228,
+      "start": 826.56,
+      "end": 832.81,
+      "en": "Maybe if you're in a specific trade school or you're in a certain track, you would have a different situation.",
+      "zh": "也许如果你在特定的贸易学校或你在某个轨道上，你会遇到不同的情况。"
+    },
+    {
+      "id": 229,
+      "start": 833.33,
+      "end": 838.55,
+      "en": "But for me, liberal arts, I studied history, I studied philosophy, I studied language and literature.",
+      "zh": "但对我来说，文科，我学习历史，我学习哲学，我学习语言和文学。"
+    },
+    {
+      "id": 230,
+      "start": 839.4,
+      "end": 843.52,
+      "en": "And then my sophomore year, my second year, I decided, oh, I will study philosophy.",
+      "zh": "然后我大二，第二年，我决定，哦，我将学习哲学。"
+    },
+    {
+      "id": 231,
+      "start": 843.95,
+      "end": 844.37,
+      "en": "And that's.",
+      "zh": "就是这样。"
+    },
+    {
+      "id": 232,
+      "start": 844.52,
+      "end": 845.52,
+      "en": "So you're going to focus on that.",
+      "zh": "所以你会专注于这一点。"
+    },
+    {
+      "id": 233,
+      "start": 845.52,
+      "end": 846.52,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 234,
+      "start": 846.52,
+      "end": 847.52,
+      "en": "One thing.",
+      "zh": "一件事。"
+    },
+    {
+      "id": 235,
+      "start": 847.52,
+      "end": 855.96,
+      "en": "So it's, it's interesting because, uh, in many other countries, the education system requires you to declare your major before you start studying, right?",
+      "zh": "所以，这很有趣，因为，呃，在许多其他国家，教育系统要求你在开始学习之前宣布你的专业，对吧？"
+    },
+    {
+      "id": 236,
+      "start": 855.96,
+      "end": 857.45,
+      "en": "You say, well, I'm going to study business.",
+      "zh": "你说，好吧，我要去学习商业。"
+    },
+    {
+      "id": 237,
+      "start": 857.45,
+      "end": 860.83,
+      "en": "And then your, your four years are around that.",
+      "zh": "然后你的，你的四年就在那儿。"
+    },
+    {
+      "id": 238,
+      "start": 861.11,
+      "end": 866.25,
+      "en": "Whereas in some, in some places in the United States or for some majors, you don't have to do that.",
+      "zh": "而在某些地方，在美国的某些地方或某些专业中，您不必这样做。"
+    },
+    {
+      "id": 239,
+      "start": 866.57,
+      "end": 866.99,
+      "en": "That's true.",
+      "zh": "确实如此。"
+    },
+    {
+      "id": 240,
+      "start": 867.59,
+      "end": 872.71,
+      "en": "In England, for example, you have one area of study, one major, and that's all you study, right?",
+      "zh": "例如，在英国，你有一个学习领域，一个专业，这就是你所学习的全部，对吧？"
+    },
+    {
+      "id": 241,
+      "start": 873.52,
+      "end": 878.97,
+      "en": "Because in, in, in the U S you can get a major in history with a minor in philosophy, right?",
+      "zh": "因为在美国，在美国，你可以在哲学上获得少量的历史，对吧？"
+    },
+    {
+      "id": 242,
+      "start": 879.2,
+      "end": 879.35,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 243,
+      "start": 880.2,
+      "end": 880.39,
+      "en": "I was the opposite.",
+      "zh": "我是相反的。"
+    },
+    {
+      "id": 244,
+      "start": 881.2,
+      "end": 884.17,
+      "en": "I had a major in philosophy and a minor in history.",
+      "zh": "我有哲学专业，辅修历史。"
+    },
+    {
+      "id": 245,
+      "start": 884.68,
+      "end": 888.39,
+      "en": "So major means something bigger, more important and minor is smaller or less important.",
+      "zh": "所以主要意味着更大、更重要和次要的东西更小或更不重要。"
+    },
+    {
+      "id": 246,
+      "start": 888.48,
+      "end": 892.2,
+      "en": "And a minor is, uh, is your second field of study.",
+      "zh": "呃，一个未成年人是你的第二个学习领域。"
+    },
+    {
+      "id": 247,
+      "start": 892.2,
+      "end": 894.87,
+      "en": "So you take fewer classes, but you still know something about that.",
+      "zh": "所以你少上课，但你仍然知道一些事情。"
+    },
+    {
+      "id": 248,
+      "start": 895.05,
+      "end": 902.68,
+      "en": "But do they always have to be related because like, for example, can you be a major of philosophy with a minor in, I don't know, astronomy or something like that?",
+      "zh": "但它们是否总是必须相关，因为例如，你能成为一个专业的哲学专业，我不知道，天文学或类似的东西吗？"
+    },
+    {
+      "id": 249,
+      "start": 903.4,
+      "end": 904.4,
+      "en": "Absolutely.",
+      "zh": "当然。"
+    },
+    {
+      "id": 250,
+      "start": 904.4,
+      "end": 905.4,
+      "en": "Something like pre-med.",
+      "zh": "类似于医学预科。"
+    },
+    {
+      "id": 251,
+      "start": 905.4,
+      "end": 908.88,
+      "en": "So medicine, it's hard because there's so many requirements, right?",
+      "zh": "所以医学，这很难，因为有这么多的要求，对吧？"
+    },
+    {
+      "id": 252,
+      "start": 909.12,
+      "end": 915.6,
+      "en": "But I had a number of friends who are major in computer science and a minor in, um, literature, for example.",
+      "zh": "但我有很多朋友主修计算机科学，辅修文学，例如文学。"
+    },
+    {
+      "id": 253,
+      "start": 915.6,
+      "end": 917.22,
+      "en": "So you can, you can mix it up at certain schools.",
+      "zh": "所以你可以，你可以在某些学校混合它。"
+    },
+    {
+      "id": 254,
+      "start": 917.9,
+      "end": 921.48,
+      "en": "So what would be the advantage of that, uh, of doing something like that?",
+      "zh": "那么，做这样的事情有什么好处呢？"
+    },
+    {
+      "id": 255,
+      "start": 921.48,
+      "end": 931.28,
+      "en": "You know, because most places or most education systems say that you or teach that, you know, you should specialize, you should be focused on one area.",
+      "zh": "你知道，因为大多数地方或大多数教育系统都说你或教过的，你知道，你应该专注，你应该专注于一个领域。"
+    },
+    {
+      "id": 256,
+      "start": 931.28,
+      "end": 934.32,
+      "en": "So if you're in computer science, then you should be focused on that.",
+      "zh": "所以如果你在计算机科学领域，那么你应该专注于这一点。"
+    },
+    {
+      "id": 257,
+      "start": 934.32,
+      "end": 940.54,
+      "en": "So why, why would somebody specialize in computer science in their major, but then take a minor in like literature or something?",
+      "zh": "那么为什么，为什么有人会专门研究他们的专业计算机科学，但后来却要辅修文学之类的呢？"
+    },
+    {
+      "id": 258,
+      "start": 940.79,
+      "end": 942.01,
+      "en": "Well, let's use that example.",
+      "zh": "好吧，让我们使用这个例子。"
+    },
+    {
+      "id": 259,
+      "start": 942.27,
+      "end": 949.77,
+      "en": "I think one of the benefits for the liberal arts degree, and this is something they talk about a lot in education, is that you have a broad area of knowledge.",
+      "zh": "我认为文科学位的好处之一，这是他们在教育中谈论的很多事情，是你拥有广泛的知识领域。"
+    },
+    {
+      "id": 260,
+      "start": 950.17,
+      "end": 952.03,
+      "en": "So yes, you know a lot about computer science.",
+      "zh": "所以是的，你对计算机科学了解很多。"
+    },
+    {
+      "id": 261,
+      "start": 952.24,
+      "end": 962.96,
+      "en": "You have to, to graduate, but maybe in your future you will write articles about computer science or you want a blog or you want a job that has a public relations aspect.",
+      "zh": "你必须，要毕业，但也许在你的未来你会写关于计算机科学的文章，或者你想要一个博客，或者你想要一份具有公共关系方面的工作。"
+    },
+    {
+      "id": 262,
+      "start": 962.96,
+      "end": 971.34,
+      "en": "You need to know how to write, and you're not going to learn how to write in all of your computer science classes, but you will by reading a lot and writing a lot in your literature classes.",
+      "zh": "你需要知道如何写作，你不会在所有的计算机科学课程中学习如何写作，但你会在文学课上读很多书和写很多东西。"
+    },
+    {
+      "id": 263,
+      "start": 971.34,
+      "end": 980.04,
+      "en": "So some people like to say that it's very good to mix up business and languages or computer science and literature because it's a way to be well-rounded.",
+      "zh": "所以有些人喜欢说混合商业和语言或计算机科学和文学是非常好的，因为这是一种全面的方式。"
+    },
+    {
+      "id": 264,
+      "start": 980.04,
+      "end": 981.04,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 265,
+      "start": 981.04,
+      "end": 991.04,
+      "en": "That's actually interesting because in most places, specifically in the exact sciences fields, they focus more on that, like engineers.",
+      "zh": "这实际上很有趣，因为在大多数地方，特别是在精确科学领域，他们更关注这一点，就像工程师一样。"
+    },
+    {
+      "id": 266,
+      "start": 991.52,
+      "end": 1000.78,
+      "en": "It's all about engineering, math, and all this, but the human aspect, like you said, or the liberal arts aspect, like literature or history, they don't get much of that.",
+      "zh": "这一切都与工程、数学和所有这些有关，但就像你说的那样，人性方面，或文科方面，比如文学或历史，他们没有得到太多。"
+    },
+    {
+      "id": 267,
+      "start": 1000.98,
+      "end": 1009.38,
+      "en": "So when you actually have to become a manager or write or manage people, you don't really have the skills to do that because you never really took a class.",
+      "zh": "因此，当您实际上必须成为经理或写作或管理人员时，您并没有真正具备这样做的技能，因为您从未真正上过课。"
+    },
+    {
+      "id": 268,
+      "start": 1009.38,
+      "end": 1014.91,
+      "en": "That's right, and it can be very hard to learn how to write well and to speak well all of a sudden.",
+      "zh": "没错，突然学会写得好，说话也很难。"
+    },
+    {
+      "id": 269,
+      "start": 1015.68,
+      "end": 1016.68,
+      "en": "Right, right.",
+      "zh": "对，对。"
+    },
+    {
+      "id": 270,
+      "start": 1016.68,
+      "end": 1020.24,
+      "en": "And I think that's where people struggle also when they're applying for jobs.",
+      "zh": "我认为这也是人们在申请工作时挣扎的地方。"
+    },
+    {
+      "id": 271,
+      "start": 1020.24,
+      "end": 1021.01,
+      "en": "So I don't know.",
+      "zh": "所以我也不知道。"
+    },
+    {
+      "id": 272,
+      "start": 1021.24,
+      "end": 1023.03,
+      "en": "I believe in being a well-rounded individual.",
+      "zh": "我相信是一个全面的人。"
+    },
+    {
+      "id": 273,
+      "start": 1024.12,
+      "end": 1028.93,
+      "en": "Obviously there's some benefits to being very, very knowledgeable about one thing.",
+      "zh": "显然，对一件事非常非常了解是有一些好处的。"
+    },
+    {
+      "id": 274,
+      "start": 1029.28,
+      "end": 1039.52,
+      "en": "So I guess we could ask you guys, our users, do you believe that it's better to be knowledgeable about one thing or maybe more well-rounded and to be an expert in many different things?",
+      "zh": "所以我想我们可以问你们，我们的用户，你们是否相信了解一件事或可能更全面，成为许多不同事物的专家更好？"
+    },
+    {
+      "id": 275,
+      "start": 1039.8,
+      "end": 1040.16,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 276,
+      "start": 1040.34,
+      "end": 1041.42,
+      "en": "Yeah, you should let us know.",
+      "zh": "是的，你应该让我们知道。"
+    },
+    {
+      "id": 277,
+      "start": 1041.74,
+      "end": 1043.82,
+      "en": "Let's jump into our dialogue one last time.",
+      "zh": "让我们最后一次跳入我们的对话。"
+    },
+    {
+      "id": 278,
+      "start": 1044.06,
+      "end": 1046.76,
+      "en": "Let's take a look at what everyone was saying and we'll be back in a bit.",
+      "zh": "让我们看看每个人都在说什么，我们会回来的。"
+    },
+    {
+      "id": 279,
+      "start": 1053.1,
+      "end": 1054.24,
+      "en": "Hey, Jordan, is that you?",
+      "zh": "嘿，乔丹，是你吗？"
+    },
+    {
+      "id": 280,
+      "start": 1054.52,
+      "end": 1055.2,
+      "en": "Long time no see.",
+      "zh": "好久不见。"
+    },
+    {
+      "id": 281,
+      "start": 1055.9,
+      "end": 1056.74,
+      "en": "Oh, hey, no kidding.",
+      "zh": "哦，嘿，不开玩笑。"
+    },
+    {
+      "id": 282,
+      "start": 1057.28,
+      "end": 1059.8,
+      "en": "I haven't seen you since orientation three months ago.",
+      "zh": "三个月前迎新活动之后就没见过你了。"
+    },
+    {
+      "id": 283,
+      "start": 1060.7,
+      "end": 1061.56,
+      "en": "So how you been?",
+      "zh": "那你最近怎么样？"
+    },
+    {
+      "id": 284,
+      "start": 1062.28,
+      "end": 1063.38,
+      "en": "Settling into college life okay?",
+      "zh": "大学生活适应得还好吧？"
+    },
+    {
+      "id": 285,
+      "start": 1063.8,
+      "end": 1064.76,
+      "en": "Yeah, I think so.",
+      "zh": "对，我想是的。"
+    },
+    {
+      "id": 286,
+      "start": 1065.12,
+      "end": 1068.84,
+      "en": "I pledged Phi Iota Alpha, so I'm living at the frat house now.",
+      "zh": "我承诺 Phi Iota Alpha，所以我现在住在 Frat House。"
+    },
+    {
+      "id": 287,
+      "start": 1069.2,
+      "end": 1071.76,
+      "en": "Oh, so you're a frat boy now, huh?",
+      "zh": "哦，你现在成了兄弟会成员啦？"
+    },
+    {
+      "id": 288,
+      "start": 1071.92,
+      "end": 1073.04,
+      "en": "Yeah, yeah, I know.",
+      "zh": "是的，是的，我知道。"
+    },
+    {
+      "id": 289,
+      "start": 1073.24,
+      "end": 1076.1,
+      "en": "It's totally cliche, but really I think it's been a good decision.",
+      "zh": "这完全是陈词滥调，但我真的认为这是一个很好的决定。"
+    },
+    {
+      "id": 290,
+      "start": 1076.74,
+      "end": 1079.02,
+      "en": "Got a lot of support and good suggestions from the guys.",
+      "zh": "兄弟会的伙伴给了我不少支持和好建议。"
+    },
+    {
+      "id": 291,
+      "start": 1079.7,
+      "end": 1080.22,
+      "en": "What about you?",
+      "zh": "你呢？"
+    },
+    {
+      "id": 292,
+      "start": 1080.46,
+      "end": 1081.32,
+      "en": "What have you been up to?",
+      "zh": "你最近在忙什么？"
+    },
+    {
+      "id": 293,
+      "start": 1081.78,
+      "end": 1082.5,
+      "en": "Well, not much.",
+      "zh": "没忙什么。"
+    },
+    {
+      "id": 294,
+      "start": 1083.32,
+      "end": 1085.76,
+      "en": "I'm still living at home and commuting to school.",
+      "zh": "我还住在家里，每天通勤去学校。"
+    },
+    {
+      "id": 295,
+      "start": 1086.4,
+      "end": 1089.94,
+      "en": "I ended up dropping that metalworking class I was so excited about.",
+      "zh": "我最后还是退掉了那门原本很期待的金属加工课。"
+    },
+    {
+      "id": 296,
+      "start": 1090.3,
+      "end": 1092.54,
+      "en": "It just wasn't as interesting as I'd hoped.",
+      "zh": "它没我想的那么有意思。"
+    },
+    {
+      "id": 297,
+      "start": 1093.16,
+      "end": 1098.72,
+      "en": "The guidance counselor suggested that I focus on my prerequisite courses so that I can make sure the credits count.",
+      "zh": "指导老师建议我先修好先修课程，确保这些学分将来能算进学位要求。"
+    },
+    {
+      "id": 298,
+      "start": 1099.26,
+      "end": 1101.7,
+      "en": "That sounds smart, but kind of boring.",
+      "zh": "这样挺明智，就是有点无聊。"
+    },
+    {
+      "id": 299,
+      "start": 1102.22,
+      "end": 1103.76,
+      "en": "Yeah, it is a little bit.",
+      "zh": "是啊，有一点。"
+    },
+    {
+      "id": 300,
+      "start": 1104.54,
+      "end": 1107.76,
+      "en": "I joined the Great Outdoors Club, though, which has been a lot of fun.",
+      "zh": "不过，我加入了很棒的户外俱乐部，这很有趣。"
+    },
+    {
+      "id": 301,
+      "start": 1108.24,
+      "end": 1111.72,
+      "en": "We've gone on two camping trips already and I've made some good friends.",
+      "zh": "我们已经去露营两次了，我还交了几个好朋友。"
+    },
+    {
+      "id": 302,
+      "start": 1112.18,
+      "end": 1112.74,
+      "en": "That's cool.",
+      "zh": "真酷。"
+    },
+    {
+      "id": 303,
+      "start": 1113.32,
+      "end": 1115.28,
+      "en": "Hey, so have you decided on your major yet?",
+      "zh": "对了，你决定主修什么了吗？"
+    },
+    {
+      "id": 304,
+      "start": 1116.04,
+      "end": 1117.04,
+      "en": "Definitely pre-med.",
+      "zh": "肯定选医学预科。"
+    },
+    {
+      "id": 305,
+      "start": 1117.04,
+      "end": 1117.38,
+      "en": "What about you?",
+      "zh": "你呢？"
+    },
+    {
+      "id": 306,
+      "start": 1118.04,
+      "end": 1123.7,
+      "en": "I still have no clue, but we don't have to declare a major until our sophomore year, so I've got time.",
+      "zh": "我还完全没想好。不过到大二才需要确定专业，我还有时间。"
+    },
+    {
+      "id": 307,
+      "start": 1124.24,
+      "end": 1125.2,
+      "en": "Oops, I'm late for class.",
+      "zh": "糟了，我上课要迟到了。"
+    },
+    {
+      "id": 308,
+      "start": 1125.52,
+      "end": 1126.52,
+      "en": "I've got to run.",
+      "zh": "我得赶紧走了。"
+    },
+    {
+      "id": 309,
+      "start": 1126.52,
+      "end": 1127.08,
+      "en": "Okay, take care.",
+      "zh": "好吧，保重。"
+    },
+    {
+      "id": 310,
+      "start": 1127.68,
+      "end": 1128.82,
+      "en": "Hey, nice running into you.",
+      "zh": "很高兴碰到你。"
+    },
+    {
+      "id": 311,
+      "start": 1129.16,
+      "end": 1129.66,
+      "en": "Yeah, you too.",
+      "zh": "是的，你也是。"
+    },
+    {
+      "id": 312,
+      "start": 1132.52,
+      "end": 1136.12,
+      "en": "Alright, so it's a very interesting topic.",
+      "zh": "好吧，所以这是一个非常有趣的话题。"
+    },
+    {
+      "id": 313,
+      "start": 1136.12,
+      "end": 1138.32,
+      "en": "Education systems are so different around the world.",
+      "zh": "世界各地的教育系统是如此不同。"
+    },
+    {
+      "id": 314,
+      "start": 1138.32,
+      "end": 1140.22,
+      "en": "The way that you go to college, how many years.",
+      "zh": "你上大学的方式，多少年。"
+    },
+    {
+      "id": 315,
+      "start": 1140.6,
+      "end": 1144.52,
+      "en": "I know that in England you can do a master's in a year, I think.",
+      "zh": "我知道，在英国，你可以在一年内获得硕士学位，我想。"
+    },
+    {
+      "id": 316,
+      "start": 1144.52,
+      "end": 1145.52,
+      "en": "One year.",
+      "zh": "一年。"
+    },
+    {
+      "id": 317,
+      "start": 1145.52,
+      "end": 1146.5,
+      "en": "Whereas in the States it's two.",
+      "zh": "而在美国是两个。"
+    },
+    {
+      "id": 318,
+      "start": 1147.68,
+      "end": 1148.68,
+      "en": "Or three.",
+      "zh": "或三。"
+    },
+    {
+      "id": 319,
+      "start": 1148.68,
+      "end": 1152.24,
+      "en": "I think even a bachelor's in England is three years.",
+      "zh": "我认为即使在英国的学士学位也是三年。"
+    },
+    {
+      "id": 320,
+      "start": 1152.24,
+      "end": 1153.14,
+      "en": "I believe so, yeah.",
+      "zh": "我相信是的，是的。"
+    },
+    {
+      "id": 321,
+      "start": 1153.4,
+      "end": 1155.0,
+      "en": "But they also have an extra year of high school.",
+      "zh": "但他们也有额外的一年高中。"
+    },
+    {
+      "id": 322,
+      "start": 1155.36,
+      "end": 1156.06,
+      "en": "An extra year of high school.",
+      "zh": "高中一年的额外一年。"
+    },
+    {
+      "id": 323,
+      "start": 1156.36,
+      "end": 1157.36,
+      "en": "Fifth year, yeah.",
+      "zh": "第五年，是的。"
+    },
+    {
+      "id": 324,
+      "start": 1157.36,
+      "end": 1158.36,
+      "en": "Oh, okay.",
+      "zh": "哦，好吧。"
+    },
+    {
+      "id": 325,
+      "start": 1158.36,
+      "end": 1159.36,
+      "en": "So every system is a bit different.",
+      "zh": "所以每个系统都有点不同。"
+    },
+    {
+      "id": 326,
+      "start": 1159.36,
+      "end": 1162.02,
+      "en": "In America, generally, it's either two or four years for your college degree.",
+      "zh": "在美国，一般来说，你的大学学位需要两年或四年。"
+    },
+    {
+      "id": 327,
+      "start": 1162.72,
+      "end": 1166.0,
+      "en": "And then, yeah, it's graduate school for two, three, or four years.",
+      "zh": "然后，是的，这是两年、三年或四年的研究生院。"
+    },
+    {
+      "id": 328,
+      "start": 1166.0,
+      "end": 1182.18,
+      "en": "Now one of the interesting things that I found is kind of unique to the Latin American education system is that people can actually go to college for five years for majors like in business.",
+      "zh": "现在，我发现的有趣的事情之一是拉丁美洲教育系统的独特之处，即人们实际上可以上大学五年的时间，比如商业专业。"
+    },
+    {
+      "id": 329,
+      "start": 1182.78,
+      "end": 1185.74,
+      "en": "And what they do is they call it a commercial engineer.",
+      "zh": "他们所做的是他们称之为商业工程师。"
+    },
+    {
+      "id": 330,
+      "start": 1186.32,
+      "end": 1194.34,
+      "en": "So it's like an engineering major, but it's not really engineering because it's business.",
+      "zh": "所以它就像一个工程专业，但它不是真正的工程专业，因为它是业务。"
+    },
+    {
+      "id": 331,
+      "start": 1194.6,
+      "end": 1200.24,
+      "en": "So it's interesting because you go to school for five years to be a business major.",
+      "zh": "所以这很有趣，因为你上学五年时间成为商科专业。"
+    },
+    {
+      "id": 332,
+      "start": 1200.3,
+      "end": 1200.7,
+      "en": "Interesting.",
+      "zh": "有意思。"
+    },
+    {
+      "id": 333,
+      "start": 1201.24,
+      "end": 1205.36,
+      "en": "Well, we have something called a joint program, J-O-I-N-T, joint meaning coming together.",
+      "zh": "好吧，我们有一个叫做联合计划的东西，J-O-I-N-T，共同的意义是走到一起。"
+    },
+    {
+      "id": 334,
+      "start": 1206.04,
+      "end": 1206.88,
+      "en": "And you could do that.",
+      "zh": "你可以做到这一点。"
+    },
+    {
+      "id": 335,
+      "start": 1207.04,
+      "end": 1211.44,
+      "en": "You could be, for example, a chemistry major, but also a business major.",
+      "zh": "例如，您可以是化学专业，但也可以是商业专业。"
+    },
+    {
+      "id": 336,
+      "start": 1211.72,
+      "end": 1218.68,
+      "en": "And then maybe go into oil refinery or some kind of very specialized business where you do need to know something about chemistry.",
+      "zh": "然后也许进入炼油厂或某种非常专业的业务，在那里你确实需要了解一些关于化学的东西。"
+    },
+    {
+      "id": 337,
+      "start": 1219.12,
+      "end": 1220.84,
+      "en": "And that's called a joint degree.",
+      "zh": "这就是所谓的联合学位。"
+    },
+    {
+      "id": 338,
+      "start": 1221.34,
+      "end": 1222.58,
+      "en": "That's really smart as well.",
+      "zh": "这也很聪明。"
+    },
+    {
+      "id": 339,
+      "start": 1222.8,
+      "end": 1223.4,
+      "en": "Yeah, I think so.",
+      "zh": "对，我想是的。"
+    },
+    {
+      "id": 340,
+      "start": 1223.78,
+      "end": 1224.62,
+      "en": "Well, it's interesting.",
+      "zh": "嗯，很有趣。"
+    },
+    {
+      "id": 341,
+      "start": 1224.62,
+      "end": 1226.3,
+      "en": "Let us know what you studied.",
+      "zh": "让我们知道你学过什么。"
+    },
+    {
+      "id": 342,
+      "start": 1226.3,
+      "end": 1227.92,
+      "en": "Maybe you went to school for two years.",
+      "zh": "也许你上学两年了。"
+    },
+    {
+      "id": 343,
+      "start": 1228.14,
+      "end": 1231.28,
+      "en": "I think you can get a technical degree in two years?",
+      "zh": "我想你可以在两年内获得技术学位？"
+    },
+    {
+      "id": 344,
+      "start": 1231.64,
+      "end": 1234.8,
+      "en": "Yeah, associate's degree or a technical degree for two years.",
+      "zh": "是的，副学士学位或两年的技术学位。"
+    },
+    {
+      "id": 345,
+      "start": 1234.8,
+      "end": 1238.2,
+      "en": "And then you can get a bachelor's, a master's, a PhD.",
+      "zh": "然后你可以获得学士学位，硕士学位，博士学位。"
+    },
+    {
+      "id": 346,
+      "start": 1238.2,
+      "end": 1243.24,
+      "en": "Let us know what your education background is like and how it works in your country.",
+      "zh": "让我们知道您的教育背景是什么样的，以及它在您所在国家/地区的运作方式。"
+    },
+    {
+      "id": 347,
+      "start": 1243.24,
+      "end": 1244.8,
+      "en": "Our website is EnglishPod.com.",
+      "zh": "我们的网站是 EnglishPod.com。"
+    },
+    {
+      "id": 348,
+      "start": 1244.8,
+      "end": 1245.8,
+      "en": "We hope to see you there.",
+      "zh": "希望到时候见到你。"
+    },
+    {
+      "id": 349,
+      "start": 1245.8,
+      "end": 1246.8,
+      "en": "All right, guys.",
+      "zh": "好了，各位。"
+    },
+    {
+      "id": 350,
+      "start": 1246.8,
+      "end": 1247.8,
+      "en": "Bye.",
+      "zh": "再见。"
+    },
+    {
+      "id": 351,
+      "start": 1247.8,
+      "end": 1254.243,
+      "en": "All right.",
+      "zh": "好的。"
+    }
+  ],
+  "dialog": {
+    "start": 36.85,
+    "end": 113.4,
+    "segmentIds": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41
+    ]
+  }
+}

@@ -1,0 +1,1994 @@
+{
+  "version": 1,
+  "id": 126,
+  "number": "0126",
+  "title": "The Weekend - That's Funny!",
+  "audio": "mp3/126. The Weekend - That's Funny!.mp3",
+  "duration": 775.6016875,
+  "segments": [
+    {
+      "id": 1,
+      "start": 2.61,
+      "end": 5.37,
+      "en": "Hello English learners, welcome back to EnglishPod.",
+      "zh": "您好英语学习者，欢迎回到 EnglishPod。"
+    },
+    {
+      "id": 2,
+      "start": 5.64,
+      "end": 6.11,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 6.35,
+      "end": 6.97,
+      "en": "And I'm Erica.",
+      "zh": "我叫 Erica。"
+    },
+    {
+      "id": 4,
+      "start": 7.73,
+      "end": 10.65,
+      "en": "And today we're going to have a fun, funny lesson.",
+      "zh": "今天我们将有一个有趣、有趣的课程。"
+    },
+    {
+      "id": 5,
+      "start": 11.07,
+      "end": 11.33,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 6,
+      "start": 11.53,
+      "end": 15.13,
+      "en": "So I think this lesson's going to be a little bit different than most of our lessons, right?",
+      "zh": "所以我认为这节课会和我们的大部分课程有些不同，对吧？"
+    },
+    {
+      "id": 7,
+      "start": 15.41,
+      "end": 15.63,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 8,
+      "start": 15.91,
+      "end": 21.11,
+      "en": "Today we're going to be looking at jokes, which is a very important part of English speaking culture.",
+      "zh": "今天我们将看笑话，这是英语文化中非常重要的一部分。"
+    },
+    {
+      "id": 9,
+      "start": 21.56,
+      "end": 22.56,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 10,
+      "start": 22.56,
+      "end": 33.4,
+      "en": "So we're actually, we're going to teach you a few pretty hilarious jokes, but we're also going to teach you some language related to jokes, funny things, and that sort of stuff.",
+      "zh": "所以我们实际上，我们将教你一些非常搞笑的笑话，但我们也要教你一些与笑话、有趣的事情和诸如此类的东西相关的语言。"
+    },
+    {
+      "id": 11,
+      "start": 33.4,
+      "end": 34.4,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 12,
+      "start": 34.4,
+      "end": 41.53,
+      "en": "So in order for us to understand a little bit better the jokes that we're going to be looking at, why don't we take a look at vocabulary preview.",
+      "zh": "所以为了让我们更好地理解我们将要看的笑话，我们为什么不看看词汇预览。"
+    },
+    {
+      "id": 13,
+      "start": 43.32,
+      "end": 44.32,
+      "en": "Vocabulary preview.",
+      "zh": "词汇预习。"
+    },
+    {
+      "id": 14,
+      "start": 44.69,
+      "end": 50.37,
+      "en": "Two of these words you'll hear in the dialogue, but one you won't, but you still need to know this word so you can understand the jokes.",
+      "zh": "你会在对话中听到的两个词，但你不会，但你仍然需要知道这个词，这样你才能理解这些笑话。"
+    },
+    {
+      "id": 15,
+      "start": 50.71,
+      "end": 50.97,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 16,
+      "start": 51.64,
+      "end": 54.12,
+      "en": "So the word that we're talking about is not really a word.",
+      "zh": "所以我们所说的这个词并不是一个真正的词。"
+    },
+    {
+      "id": 17,
+      "start": 54.12,
+      "end": 54.57,
+      "en": "It's a sound.",
+      "zh": "这是一种声音。"
+    },
+    {
+      "id": 18,
+      "start": 55.12,
+      "end": 56.12,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 19,
+      "start": 56.12,
+      "end": 57.12,
+      "en": "It's a sound.",
+      "zh": "这是一种声音。"
+    },
+    {
+      "id": 20,
+      "start": 57.12,
+      "end": 58.12,
+      "en": "Moo.",
+      "zh": "哞哞"
+    },
+    {
+      "id": 21,
+      "start": 58.12,
+      "end": 58.26,
+      "en": "Moo.",
+      "zh": "哞哞"
+    },
+    {
+      "id": 22,
+      "start": 59.12,
+      "end": 60.6,
+      "en": "So moo is the sound that cows make.",
+      "zh": "所以 Moo 是奶牛发出的声音。"
+    },
+    {
+      "id": 23,
+      "start": 60.6,
+      "end": 61.6,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 24,
+      "start": 62.04,
+      "end": 62.6,
+      "en": "M-O-O.",
+      "zh": "拼写是 M-O-O。"
+    },
+    {
+      "id": 25,
+      "start": 62.6,
+      "end": 63.6,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 26,
+      "start": 63.6,
+      "end": 64.6,
+      "en": "They go moo.",
+      "zh": "他们去哞。"
+    },
+    {
+      "id": 27,
+      "start": 64.6,
+      "end": 65.6,
+      "en": "Very nice, Marco.",
+      "zh": "非常好，马可。"
+    },
+    {
+      "id": 28,
+      "start": 65.6,
+      "end": 66.6,
+      "en": "I could do a good cow.",
+      "zh": "我可以做一头好牛。"
+    },
+    {
+      "id": 29,
+      "start": 66.6,
+      "end": 67.6,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 30,
+      "start": 67.6,
+      "end": 68.6,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 31,
+      "start": 68.6,
+      "end": 69.6,
+      "en": "So we all know now that that's what cows say.",
+      "zh": "所以我们现在都知道，这就是奶牛所说的。"
+    },
+    {
+      "id": 32,
+      "start": 69.64,
+      "end": 69.82,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 33,
+      "start": 70.15,
+      "end": 72.13,
+      "en": "So it's going to be important for the joke.",
+      "zh": "所以这对笑话很重要。"
+    },
+    {
+      "id": 34,
+      "start": 72.32,
+      "end": 72.85,
+      "en": "You'll see why.",
+      "zh": "你会明白为什么。"
+    },
+    {
+      "id": 35,
+      "start": 73.1,
+      "end": 73.38,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 36,
+      "start": 73.65,
+      "end": 76.99,
+      "en": "Now another word that you need to understand is a dam.",
+      "zh": "现在你需要理解的另一个词是大坝。"
+    },
+    {
+      "id": 37,
+      "start": 77.53,
+      "end": 78.53,
+      "en": "So a dam.",
+      "zh": "所以是大坝。"
+    },
+    {
+      "id": 38,
+      "start": 78.99,
+      "end": 79.59,
+      "en": "A dam.",
+      "zh": "一个大坝。"
+    },
+    {
+      "id": 39,
+      "start": 81.15,
+      "end": 83.47,
+      "en": "A dam is like a big wall, right?",
+      "zh": "大坝就像一堵大墙，对吧？"
+    },
+    {
+      "id": 40,
+      "start": 83.77,
+      "end": 87.11,
+      "en": "Well, it's a wall in water that stops the river from flowing.",
+      "zh": "好吧，它是一堵水中的墙，可以阻止河流流动。"
+    },
+    {
+      "id": 41,
+      "start": 87.55,
+      "end": 87.91,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 42,
+      "start": 87.93,
+      "end": 93.21,
+      "en": "So usually you build dams in rivers and then the water can pass or not.",
+      "zh": "所以通常你在河流中建造水坝，然后水可以通过或不通过。"
+    },
+    {
+      "id": 43,
+      "start": 93.59,
+      "end": 93.77,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 44,
+      "start": 93.79,
+      "end": 96.11,
+      "en": "It's something that you use to generate electricity, right?",
+      "zh": "这是你用来发电的东西，对吧？"
+    },
+    {
+      "id": 45,
+      "start": 96.31,
+      "end": 96.73,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 46,
+      "start": 96.93,
+      "end": 101.19,
+      "en": "But there's another word that sounds exactly the same way, but it's just spelled a little differently.",
+      "zh": "但是还有另一个词听起来完全相同，但拼写有点不同。"
+    },
+    {
+      "id": 47,
+      "start": 101.49,
+      "end": 101.77,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 48,
+      "start": 102.01,
+      "end": 104.31,
+      "en": "And we might hear someone say, oh, damn.",
+      "zh": "我们可能会听到有人说，哦，该死的。"
+    },
+    {
+      "id": 49,
+      "start": 105.05,
+      "end": 107.73,
+      "en": "And that's an interjection, which basically means...",
+      "zh": "这是一个感叹词，基本上意味着..."
+    },
+    {
+      "id": 50,
+      "start": 107.73,
+      "end": 108.25,
+      "en": "Oh no.",
+      "zh": "哦，不。"
+    },
+    {
+      "id": 51,
+      "start": 108.81,
+      "end": 108.97,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 52,
+      "start": 109.11,
+      "end": 109.45,
+      "en": "That's terrible.",
+      "zh": "那太可怕了。"
+    },
+    {
+      "id": 53,
+      "start": 110.92,
+      "end": 111.92,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 54,
+      "start": 111.92,
+      "end": 112.23,
+      "en": "Damn.",
+      "zh": "该死。"
+    },
+    {
+      "id": 55,
+      "start": 112.92,
+      "end": 113.92,
+      "en": "We're late for the movies.",
+      "zh": "我们看电影迟到了。"
+    },
+    {
+      "id": 56,
+      "start": 113.92,
+      "end": 114.92,
+      "en": "Damn.",
+      "zh": "该死。"
+    },
+    {
+      "id": 57,
+      "start": 114.92,
+      "end": 115.92,
+      "en": "We're late for the movie.",
+      "zh": "我们看电影迟到了。"
+    },
+    {
+      "id": 58,
+      "start": 115.92,
+      "end": 116.92,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 59,
+      "start": 116.92,
+      "end": 119.83,
+      "en": "So it's an interesting interjection and we'll also see it in one of our jokes.",
+      "zh": "所以这是一个有趣的感叹词，我们也会在我们的一个笑话中看到它。"
+    },
+    {
+      "id": 60,
+      "start": 120.8,
+      "end": 122.39,
+      "en": "And now let's move on to our last word.",
+      "zh": "现在让我们继续我们的最后一句话。"
+    },
+    {
+      "id": 61,
+      "start": 123.6,
+      "end": 123.81,
+      "en": "Nostrils.",
+      "zh": "鼻孔。"
+    },
+    {
+      "id": 62,
+      "start": 124.6,
+      "end": 124.91,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 63,
+      "start": 125.6,
+      "end": 126.6,
+      "en": "Nostrils.",
+      "zh": "鼻孔。"
+    },
+    {
+      "id": 64,
+      "start": 126.6,
+      "end": 127.6,
+      "en": "Nostrils.",
+      "zh": "鼻孔。"
+    },
+    {
+      "id": 65,
+      "start": 127.6,
+      "end": 128.99,
+      "en": "So a nostril or your nostrils.",
+      "zh": "所以鼻孔或鼻孔。"
+    },
+    {
+      "id": 66,
+      "start": 129.6,
+      "end": 131.12,
+      "en": "The two holes in your nose.",
+      "zh": "你鼻子上的两个洞。"
+    },
+    {
+      "id": 67,
+      "start": 131.12,
+      "end": 132.12,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 68,
+      "start": 132.12,
+      "end": 133.12,
+      "en": "You breathe through your nostrils.",
+      "zh": "你通过鼻孔呼吸。"
+    },
+    {
+      "id": 69,
+      "start": 133.12,
+      "end": 134.12,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 70,
+      "start": 134.49,
+      "end": 141.83,
+      "en": "So now that we've taken a look at these three words, why don't we listen to our comedian for the first time and then we'll come back and talk a little bit more.",
+      "zh": "所以既然我们已经看了这三个词，为什么我们不第一次听我们的喜剧演员，然后我们会回来多说一点。"
+    },
+    {
+      "id": 71,
+      "start": 148.72,
+      "end": 151.72,
+      "en": "Hello everyone and welcome to Open Mic Night.",
+      "zh": "各位好，欢迎来到开放麦之夜。"
+    },
+    {
+      "id": 72,
+      "start": 152.26,
+      "end": 156.52,
+      "en": "You're in for a real treat as we've got a lot of great comics here with us tonight.",
+      "zh": "今晚有很多优秀的喜剧演员到场，大家可有眼福了。"
+    },
+    {
+      "id": 73,
+      "start": 157.12,
+      "end": 162.78,
+      "en": "First up, we have a very funny man coming straight from the state of Montana, Robert Hicks.",
+      "zh": "首先登场的是一位非常风趣的男士，来自蒙大拿州的罗伯特·希克斯。"
+    },
+    {
+      "id": 74,
+      "start": 165.26,
+      "end": 166.2,
+      "en": "Thank you everyone.",
+      "zh": "谢谢大家。"
+    },
+    {
+      "id": 75,
+      "start": 166.78,
+      "end": 168.14,
+      "en": "Well, what a lovely crowd.",
+      "zh": "哇，现场的观众真热情。"
+    },
+    {
+      "id": 76,
+      "start": 168.98,
+      "end": 172.2,
+      "en": "You know, there's nothing I love better than stand up comedy.",
+      "zh": "你知道，没有什么比单口喜剧更让我喜欢的了。"
+    },
+    {
+      "id": 77,
+      "start": 172.86,
+      "end": 178.3,
+      "en": "You know, I've been working on my routine for months now and I've got some real zingers for you tonight.",
+      "zh": "这套段子我已经打磨好几个月了，今晚要给大家讲几个绝妙的笑话。"
+    },
+    {
+      "id": 78,
+      "start": 178.88,
+      "end": 181.2,
+      "en": "Let's start out with some short jokes.",
+      "zh": "让我们从一些简短的笑话开始。"
+    },
+    {
+      "id": 79,
+      "start": 181.52,
+      "end": 181.84,
+      "en": "How about that?",
+      "zh": "怎么样？"
+    },
+    {
+      "id": 80,
+      "start": 182.6,
+      "end": 187.92,
+      "en": "Where do you find a one-legged dog?",
+      "zh": "到哪儿能找到一只只有一条腿的狗？"
+    },
+    {
+      "id": 81,
+      "start": 187.92,
+      "end": 188.78,
+      "en": "Where you left it?",
+      "zh": "你把它放在哪儿，它就在哪儿。"
+    },
+    {
+      "id": 82,
+      "start": 193.4,
+      "end": 194.4,
+      "en": "Get it?",
+      "zh": "听懂笑点了吗？"
+    },
+    {
+      "id": 83,
+      "start": 194.69,
+      "end": 198.01,
+      "en": "Anyways, what do you call a sheep with no legs?",
+      "zh": "无论如何，你怎么称呼没有腿的羊？"
+    },
+    {
+      "id": 84,
+      "start": 200.16,
+      "end": 200.46,
+      "en": "A cloud.",
+      "zh": "一朵云。"
+    },
+    {
+      "id": 85,
+      "start": 201.2,
+      "end": 202.2,
+      "en": "Tough crowd.",
+      "zh": "这届观众真难逗笑。"
+    },
+    {
+      "id": 86,
+      "start": 202.2,
+      "end": 203.2,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 87,
+      "start": 203.2,
+      "end": 206.52,
+      "en": "Now, you're going to love this joke.",
+      "zh": "现在，你会喜欢这个笑话。"
+    },
+    {
+      "id": 88,
+      "start": 206.52,
+      "end": 206.74,
+      "en": "It's hilarious.",
+      "zh": "这很搞笑。"
+    },
+    {
+      "id": 89,
+      "start": 207.56,
+      "end": 209.32,
+      "en": "What do cows do for entertainment?",
+      "zh": "牛有什么娱乐活动？"
+    },
+    {
+      "id": 90,
+      "start": 211.02,
+      "end": 212.3,
+      "en": "They rent movies.",
+      "zh": "他们租电影。"
+    },
+    {
+      "id": 91,
+      "start": 214.12,
+      "end": 216.12,
+      "en": "Movies.",
+      "zh": "电影。"
+    },
+    {
+      "id": 92,
+      "start": 220.13,
+      "end": 221.64,
+      "en": "Okay, okay, okay.",
+      "zh": "好，好，好。"
+    },
+    {
+      "id": 93,
+      "start": 222.65,
+      "end": 224.83,
+      "en": "We've got a few hecklers in the audience, but this one is good.",
+      "zh": "观众里有人在起哄，不过下面这个笑话可不错。"
+    },
+    {
+      "id": 94,
+      "start": 225.55,
+      "end": 228.43,
+      "en": "What does a fish say when it runs into a wall?",
+      "zh": "鱼撞到墙上时会说什么？"
+    },
+    {
+      "id": 95,
+      "start": 230.24,
+      "end": 230.48,
+      "en": "Damn!",
+      "zh": "哎呀!"
+    },
+    {
+      "id": 96,
+      "start": 232.08,
+      "end": 239.08,
+      "en": "Get out of here.",
+      "zh": "下去吧！"
+    },
+    {
+      "id": 97,
+      "start": 239.08,
+      "end": 240.08,
+      "en": "Okay, okay, okay.",
+      "zh": "好，好，好。"
+    },
+    {
+      "id": 98,
+      "start": 240.08,
+      "end": 241.08,
+      "en": "Last one.",
+      "zh": "最后一个笑话。"
+    },
+    {
+      "id": 99,
+      "start": 241.08,
+      "end": 244.36,
+      "en": "Why do gorillas have big nostrils?",
+      "zh": "为什么大猩猩有大鼻孔？"
+    },
+    {
+      "id": 100,
+      "start": 244.36,
+      "end": 245.4,
+      "en": "Because they got big fingers.",
+      "zh": "因为他们有大手指。"
+    },
+    {
+      "id": 101,
+      "start": 252.87,
+      "end": 253.49,
+      "en": "Thanks, everyone.",
+      "zh": "谢谢大家。"
+    },
+    {
+      "id": 102,
+      "start": 253.69,
+      "end": 254.23,
+      "en": "That was my time.",
+      "zh": "我的表演时间到了。"
+    },
+    {
+      "id": 103,
+      "start": 260.02,
+      "end": 262.44,
+      "en": "Okay, so some pretty hilarious jokes, huh?",
+      "zh": "好吧，那么一些非常搞笑的笑话，对吧？"
+    },
+    {
+      "id": 104,
+      "start": 262.72,
+      "end": 265.26,
+      "en": "I don't think the crowd really enjoyed them all that much.",
+      "zh": "我不认为人群真的那么喜欢他们。"
+    },
+    {
+      "id": 105,
+      "start": 265.42,
+      "end": 268.44,
+      "en": "Okay, well, maybe I'm just a fan of really terrible jokes.",
+      "zh": "好吧，也许我只是一个非常糟糕的笑话的粉丝。"
+    },
+    {
+      "id": 106,
+      "start": 269.2,
+      "end": 273.5,
+      "en": "Well, they were pretty funny, but I guess the crowd just didn't appreciate his sense of humor.",
+      "zh": "嗯，他们很有趣，但我想人群只是不欣赏他的幽默感。"
+    },
+    {
+      "id": 107,
+      "start": 273.8,
+      "end": 274.22,
+      "en": "But you know what?",
+      "zh": "不过你知道吗？"
+    },
+    {
+      "id": 108,
+      "start": 275.16,
+      "end": 277.16,
+      "en": "They did use quite a lot of really interesting language.",
+      "zh": "他们确实使用了很多非常有趣的语言。"
+    },
+    {
+      "id": 109,
+      "start": 277.16,
+      "end": 279.14,
+      "en": "So why don't we look at that now in Language Takeaway.",
+      "zh": "那么我们为什么不现在在语言外卖中看一下。"
+    },
+    {
+      "id": 110,
+      "start": 281.0,
+      "end": 282.08,
+      "en": "Language Takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 111,
+      "start": 283.15,
+      "end": 287.83,
+      "en": "On Language Takeaway, we're going to be looking at six words today, so let's get started.",
+      "zh": "关于语言外卖，我们今天将查看六个单词，所以让我们开始吧。"
+    },
+    {
+      "id": 112,
+      "start": 288.19,
+      "end": 291.97,
+      "en": "The announcer welcomed everyone and said that it's open mic night.",
+      "zh": "播音员欢迎大家，说现在是开放式麦克风之夜。"
+    },
+    {
+      "id": 113,
+      "start": 292.29,
+      "end": 293.17,
+      "en": "Open mic night.",
+      "zh": "打开麦克风之夜。"
+    },
+    {
+      "id": 114,
+      "start": 293.67,
+      "end": 295.35,
+      "en": "So, an open mic night.",
+      "zh": "所以，一个开放的麦克风之夜。"
+    },
+    {
+      "id": 115,
+      "start": 295.65,
+      "end": 298.33,
+      "en": "Okay, well, we know mic is short for microphone, right?",
+      "zh": "好吧，我们知道麦克风是麦克风的缩写，对吧？"
+    },
+    {
+      "id": 116,
+      "start": 298.72,
+      "end": 304.72,
+      "en": "Now, an open mic night is a chance where anyone can come up and talk into the microphone.",
+      "zh": "现在，一个开放的麦克风之夜是一个任何人都可以上来对着麦克风说话的机会。"
+    },
+    {
+      "id": 117,
+      "start": 304.72,
+      "end": 309.09,
+      "en": "So you can come up and sing or you can tell jokes, you can do anything, basically.",
+      "zh": "所以你可以上来唱歌，或者你可以讲笑话，你可以做任何事情，基本上。"
+    },
+    {
+      "id": 118,
+      "start": 309.48,
+      "end": 310.48,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 119,
+      "start": 310.48,
+      "end": 311.48,
+      "en": "Alright, open mic night.",
+      "zh": "好的，开放式麦克风之夜。"
+    },
+    {
+      "id": 120,
+      "start": 311.48,
+      "end": 314.51,
+      "en": "So it's not for professionals, but for people who maybe want to be professionals.",
+      "zh": "所以它不是为了专业人士，而是适合那些可能想成为专业人士的人。"
+    },
+    {
+      "id": 121,
+      "start": 314.84,
+      "end": 315.23,
+      "en": "Right, amateurs.",
+      "zh": "对，业余爱好者。"
+    },
+    {
+      "id": 122,
+      "start": 316.23,
+      "end": 320.39,
+      "en": "So it was open mic night and he said they had a lot of great comics there.",
+      "zh": "所以这是开放式麦克风之夜，他说他们在那里有很多很棒的漫画。"
+    },
+    {
+      "id": 123,
+      "start": 320.83,
+      "end": 321.63,
+      "en": "So comics.",
+      "zh": "所以漫画。"
+    },
+    {
+      "id": 124,
+      "start": 322.41,
+      "end": 322.95,
+      "en": "A comic.",
+      "zh": "一个漫画。"
+    },
+    {
+      "id": 125,
+      "start": 323.43,
+      "end": 323.75,
+      "en": "A comic.",
+      "zh": "一个漫画。"
+    },
+    {
+      "id": 126,
+      "start": 324.13,
+      "end": 329.11,
+      "en": "So basically, a comic is a person that makes a living by making people laugh.",
+      "zh": "所以基本上，漫画是一个通过逗人发笑谋生的人。"
+    },
+    {
+      "id": 127,
+      "start": 329.35,
+      "end": 331.89,
+      "en": "Yeah, someone who stands up on stage and tells jokes.",
+      "zh": "是的，站在舞台上讲笑话的人。"
+    },
+    {
+      "id": 128,
+      "start": 332.28,
+      "end": 333.28,
+      "en": "Alright.",
+      "zh": "好的。"
+    },
+    {
+      "id": 129,
+      "start": 333.28,
+      "end": 335.32,
+      "en": "So, a clown is kind of like a comic?",
+      "zh": "所以，小丑有点像漫画？"
+    },
+    {
+      "id": 130,
+      "start": 335.47,
+      "end": 336.32,
+      "en": "No, they're different.",
+      "zh": "不，他们是不同的。"
+    },
+    {
+      "id": 131,
+      "start": 336.67,
+      "end": 337.31,
+      "en": "They're different, right?",
+      "zh": "他们不一样，对吧？"
+    },
+    {
+      "id": 132,
+      "start": 337.32,
+      "end": 341.12,
+      "en": "A comic doesn't wear a red nose and a crazy...",
+      "zh": "漫画不戴红鼻子和疯狂的..."
+    },
+    {
+      "id": 133,
+      "start": 341.12,
+      "end": 342.12,
+      "en": "A costume.",
+      "zh": "服装。"
+    },
+    {
+      "id": 134,
+      "start": 342.12,
+      "end": 343.12,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 135,
+      "start": 343.12,
+      "end": 344.12,
+      "en": "Alright, yeah, because I hate clowns.",
+      "zh": "好吧，因为我讨厌小丑。"
+    },
+    {
+      "id": 136,
+      "start": 344.12,
+      "end": 344.47,
+      "en": "We do know that about you.",
+      "zh": "我们确实知道你。"
+    },
+    {
+      "id": 137,
+      "start": 345.12,
+      "end": 347.04,
+      "en": "Alright, so a comic.",
+      "zh": "好吧，所以漫画。"
+    },
+    {
+      "id": 138,
+      "start": 347.04,
+      "end": 350.71,
+      "en": "And well, what comics do is they perform stand-up comedy.",
+      "zh": "好吧，漫画的作用是他们表演单口喜剧。"
+    },
+    {
+      "id": 139,
+      "start": 351.64,
+      "end": 352.64,
+      "en": "Stand-up comedy.",
+      "zh": "单口喜剧。"
+    },
+    {
+      "id": 140,
+      "start": 352.64,
+      "end": 353.64,
+      "en": "Stand-up comedy.",
+      "zh": "单口喜剧。"
+    },
+    {
+      "id": 141,
+      "start": 353.89,
+      "end": 358.77,
+      "en": "Okay, so stand-up comedy is really exactly what its name suggests, right?",
+      "zh": "好吧，所以单口喜剧确实是它的名字所暗示的，对吧？"
+    },
+    {
+      "id": 142,
+      "start": 359.32,
+      "end": 364.44,
+      "en": "Right, you stand up in front of an audience and you tell jokes or you make them laugh.",
+      "zh": "是的，你站在观众面前，你讲笑话或让他们发笑。"
+    },
+    {
+      "id": 143,
+      "start": 364.74,
+      "end": 365.5,
+      "en": "Yeah, tell funny stories.",
+      "zh": "是的，讲有趣的故事。"
+    },
+    {
+      "id": 144,
+      "start": 365.86,
+      "end": 370.12,
+      "en": "It's a very popular form of entertainment in the United States and the UK.",
+      "zh": "在美国和英国，这是一种非常流行的娱乐形式。"
+    },
+    {
+      "id": 145,
+      "start": 370.62,
+      "end": 370.98,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 146,
+      "start": 371.88,
+      "end": 378.02,
+      "en": "And I think we'll talk a little bit more about that at the end of the lesson, but why don't we move on to our next word, which is routine.",
+      "zh": "我想我们会在课程结束时多谈一点，但我们为什么不继续我们的下一个词，这是例行公事。"
+    },
+    {
+      "id": 147,
+      "start": 379.24,
+      "end": 379.64,
+      "en": "A routine.",
+      "zh": "例行公事。"
+    },
+    {
+      "id": 148,
+      "start": 380.22,
+      "end": 381.88,
+      "en": "So the guy says, I've been working on my routine.",
+      "zh": "所以那家伙说，我一直在做我的日常工作。"
+    },
+    {
+      "id": 149,
+      "start": 382.66,
+      "end": 384.68,
+      "en": "So what does he mean by his routine?",
+      "zh": "那么他的日常生活是什么意思呢？"
+    },
+    {
+      "id": 150,
+      "start": 385.53,
+      "end": 393.97,
+      "en": "Well, I guess a routine is like a series or a collection of jokes or maybe movements that you use in a performance.",
+      "zh": "好吧，我想例程就像一个系列或一系列笑话，或者可能是你在表演中使用的动作。"
+    },
+    {
+      "id": 151,
+      "start": 394.44,
+      "end": 396.46,
+      "en": "Alright, a routine.",
+      "zh": "好吧，一个例行公事。"
+    },
+    {
+      "id": 152,
+      "start": 396.46,
+      "end": 398.29,
+      "en": "So you can talk about a dance routine.",
+      "zh": "所以你可以谈论一个舞蹈套路。"
+    },
+    {
+      "id": 153,
+      "start": 399.04,
+      "end": 400.95,
+      "en": "Or in this case, a comedy routine.",
+      "zh": "或者在这种情况下，喜剧套路。"
+    },
+    {
+      "id": 154,
+      "start": 401.84,
+      "end": 403.8,
+      "en": "So the series of jokes he's going to tell.",
+      "zh": "所以他要讲的一系列笑话。"
+    },
+    {
+      "id": 155,
+      "start": 403.8,
+      "end": 406.01,
+      "en": "That's right, that he practices again and again and again.",
+      "zh": "没错，他一次又一次地练习。"
+    },
+    {
+      "id": 156,
+      "start": 406.48,
+      "end": 410.44,
+      "en": "Alright, and in his routine, he said he's got a lot of zingers.",
+      "zh": "好吧，在他的日常生活中，他说他有很多 Zingers。"
+    },
+    {
+      "id": 157,
+      "start": 410.63,
+      "end": 410.93,
+      "en": "Zingers.",
+      "zh": "辛格斯。"
+    },
+    {
+      "id": 158,
+      "start": 412.01,
+      "end": 412.57,
+      "en": "A zinger.",
+      "zh": "一个辛格。"
+    },
+    {
+      "id": 159,
+      "start": 412.93,
+      "end": 413.73,
+      "en": "So what's a zinger?",
+      "zh": "那么什么是Zinger？"
+    },
+    {
+      "id": 160,
+      "start": 414.1,
+      "end": 418.47,
+      "en": "Basically, a zinger is like a strong, maybe a little bit rude joke.",
+      "zh": "基本上，Zinger 就像一个强大的，也许有点粗鲁的笑话。"
+    },
+    {
+      "id": 161,
+      "start": 418.93,
+      "end": 421.03,
+      "en": "Yeah, but like a kind of a one-line joke, right?",
+      "zh": "是的，但就像一个单行的笑话，对吧？"
+    },
+    {
+      "id": 162,
+      "start": 421.72,
+      "end": 422.88,
+      "en": "Right, exactly.",
+      "zh": "对，没错。"
+    },
+    {
+      "id": 163,
+      "start": 422.88,
+      "end": 429.2,
+      "en": "And the people that were in the crowd and they were booing him, they were like, boo, those we call hecklers.",
+      "zh": "人群中的人在嘘他，他们就像，嘘，那些我们称之为质问者的人。"
+    },
+    {
+      "id": 164,
+      "start": 429.47,
+      "end": 429.63,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 165,
+      "start": 429.95,
+      "end": 431.45,
+      "en": "And that's our last word, a heckler.",
+      "zh": "这是我们的最后一句话，一个质问者。"
+    },
+    {
+      "id": 166,
+      "start": 431.85,
+      "end": 432.49,
+      "en": "A heckler.",
+      "zh": "一个质问者。"
+    },
+    {
+      "id": 167,
+      "start": 432.87,
+      "end": 433.29,
+      "en": "Hecklers.",
+      "zh": "质问者。"
+    },
+    {
+      "id": 168,
+      "start": 433.91,
+      "end": 436.97,
+      "en": "So, let's listen to some hecklers in action.",
+      "zh": "所以，让我们听听一些在行动中的质问者。"
+    },
+    {
+      "id": 169,
+      "start": 445.24,
+      "end": 446.72,
+      "en": "Alright well, I think that's pretty clear.",
+      "zh": "好吧，我认为这很清楚。"
+    },
+    {
+      "id": 170,
+      "start": 446.72,
+      "end": 448.18,
+      "en": "Those are definitely hecklers.",
+      "zh": "那些肯定是质问者。"
+    },
+    {
+      "id": 171,
+      "start": 448.46,
+      "end": 449.4,
+      "en": "Right, they're very annoying.",
+      "zh": "对，他们很烦人。"
+    },
+    {
+      "id": 172,
+      "start": 449.78,
+      "end": 459.18,
+      "en": "So now that we've finished looking at all the words that are related to comedy and performances, let's take a look at the jokes now in Fluency Builder.",
+      "zh": "所以现在我们已经看完了所有与喜剧和表演有关的词，让我们来看看现在流利的 Builder 中的笑话。"
+    },
+    {
+      "id": 173,
+      "start": 460.49,
+      "end": 461.41,
+      "en": "Fluency Builder.",
+      "zh": "流利表达。"
+    },
+    {
+      "id": 174,
+      "start": 462.5,
+      "end": 471.38,
+      "en": "Okay, well we're not really focusing on new phrases for you here, but we thought it would be helpful to talk a little bit about the jokes to help you understand them, right?",
+      "zh": "好吧，我们并没有真正专注于您的新短语，但我们认为稍微谈谈这些笑话以帮助您理解它们会有所帮助，对吧？"
+    },
+    {
+      "id": 175,
+      "start": 471.5,
+      "end": 473.02,
+      "en": "Because they are, well, I think pretty funny.",
+      "zh": "因为他们，嗯，我觉得很有趣。"
+    },
+    {
+      "id": 176,
+      "start": 473.46,
+      "end": 477.7,
+      "en": "Yeah, they're pretty funny, but maybe sometimes they're kind of hard to understand.",
+      "zh": "是的，它们很有趣，但有时它们可能有点难以理解。"
+    },
+    {
+      "id": 177,
+      "start": 478.46,
+      "end": 479.88,
+      "en": "So why don't we start with the first joke?",
+      "zh": "那么我们为什么不从第一个笑话开始呢？"
+    },
+    {
+      "id": 178,
+      "start": 480.72,
+      "end": 483.04,
+      "en": "So you said, where do you find a one-legged dog?",
+      "zh": "所以你说，你在哪里找到一只腿的狗？"
+    },
+    {
+      "id": 179,
+      "start": 483.36,
+      "end": 484.96,
+      "en": "So what's a one-legged dog?",
+      "zh": "那么什么是一只腿的狗呢？"
+    },
+    {
+      "id": 180,
+      "start": 485.36,
+      "end": 487.26,
+      "en": "Basically, it's a dog that has one leg.",
+      "zh": "基本上，它是一条有腿的狗。"
+    },
+    {
+      "id": 181,
+      "start": 487.5,
+      "end": 489.84,
+      "en": "Ah, okay, and the pronunciation here is important, right?",
+      "zh": "啊，好吧，这里的发音很重要，对吧？"
+    },
+    {
+      "id": 182,
+      "start": 490.28,
+      "end": 491.28,
+      "en": "One-legged.",
+      "zh": "独腿的。"
+    },
+    {
+      "id": 183,
+      "start": 491.28,
+      "end": 492.28,
+      "en": "One-legged.",
+      "zh": "独腿的。"
+    },
+    {
+      "id": 184,
+      "start": 492.28,
+      "end": 493.28,
+      "en": "No.",
+      "zh": "不。"
+    },
+    {
+      "id": 185,
+      "start": 493.28,
+      "end": 494.28,
+      "en": "One-legged.",
+      "zh": "独腿的。"
+    },
+    {
+      "id": 186,
+      "start": 494.28,
+      "end": 498.64,
+      "en": "So you can say a one-legged dog, a two-legged dog, or a three-legged dog.",
+      "zh": "所以你可以说一只单腿的狗、一只两腿的狗或一只三腿的狗。"
+    },
+    {
+      "id": 187,
+      "start": 498.64,
+      "end": 499.64,
+      "en": "Six-legged dog?",
+      "zh": "六足狗？"
+    },
+    {
+      "id": 188,
+      "start": 499.64,
+      "end": 500.64,
+      "en": "A six-legged spider.",
+      "zh": "六足蜘蛛。"
+    },
+    {
+      "id": 189,
+      "start": 500.64,
+      "end": 502.38,
+      "en": "Maybe he lost two legs in a war.",
+      "zh": "也许他在一场战争中失去了两条腿。"
+    },
+    {
+      "id": 190,
+      "start": 503.06,
+      "end": 503.24,
+      "en": "Oh dear.",
+      "zh": "哎呀。"
+    },
+    {
+      "id": 191,
+      "start": 503.92,
+      "end": 508.44,
+      "en": "Okay, so the dog obviously didn't go anywhere, and so that's why you find it where you left it.",
+      "zh": "好吧，所以这只狗显然没有去任何地方，所以这就是你在离开它的地方找到它的原因。"
+    },
+    {
+      "id": 192,
+      "start": 509.32,
+      "end": 510.32,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 193,
+      "start": 510.32,
+      "end": 511.2,
+      "en": "So that's why it's kind of funny.",
+      "zh": "所以这就是为什么它有点有趣。"
+    },
+    {
+      "id": 194,
+      "start": 511.64,
+      "end": 511.8,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 195,
+      "start": 512.14,
+      "end": 515.84,
+      "en": "All right, so then he said, what do you call a sheep with no legs?",
+      "zh": "好吧，然后他说，你怎么称呼没有腿的羊？"
+    },
+    {
+      "id": 196,
+      "start": 516.82,
+      "end": 517.3,
+      "en": "I don't know.",
+      "zh": "我不知道。"
+    },
+    {
+      "id": 197,
+      "start": 517.98,
+      "end": 525.34,
+      "en": "A cloud, basically, because sheep are fluffy and they're white, so if you take away their legs, they look like a little cloud.",
+      "zh": "云，基本上，因为羊很蓬松，而且它们是白色的，所以如果你把它们的腿拿走，它们看起来就像一团小云。"
+    },
+    {
+      "id": 198,
+      "start": 526.0,
+      "end": 527.0,
+      "en": "Boo!",
+      "zh": "嘘!"
+    },
+    {
+      "id": 199,
+      "start": 527.0,
+      "end": 529.56,
+      "en": "All right, let's look at the next one.",
+      "zh": "好吧，让我们看看下一张。"
+    },
+    {
+      "id": 200,
+      "start": 529.56,
+      "end": 533.36,
+      "en": "He asked, what do cows do for entertainment?",
+      "zh": "他问，奶牛为了娱乐做什么？"
+    },
+    {
+      "id": 201,
+      "start": 533.36,
+      "end": 535.76,
+      "en": "And then the answer was, they rent movies.",
+      "zh": "然后答案是，他们租电影。"
+    },
+    {
+      "id": 202,
+      "start": 536.64,
+      "end": 536.98,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 203,
+      "start": 537.36,
+      "end": 545.24,
+      "en": "So it's kind of funny because he's relating this word movies with the sound that cows make, which is moo.",
+      "zh": "所以这很有趣，因为他将这个词电影与奶牛发出的声音联系起来，这是哞哞。"
+    },
+    {
+      "id": 204,
+      "start": 545.46,
+      "end": 545.64,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 205,
+      "start": 546.48,
+      "end": 551.24,
+      "en": "So there are a million jokes in English following the same pattern, right?",
+      "zh": "所以有一百万个英语笑话遵循相同的模式，对吧？"
+    },
+    {
+      "id": 206,
+      "start": 551.24,
+      "end": 551.52,
+      "en": "Yeah, exactly.",
+      "zh": "对，没错。"
+    },
+    {
+      "id": 207,
+      "start": 552.24,
+      "end": 555.02,
+      "en": "So I'm sure you can find a lot more of them and you can share them with us.",
+      "zh": "所以我相信你可以找到更多的它们，你可以与我们分享。"
+    },
+    {
+      "id": 208,
+      "start": 555.32,
+      "end": 561.04,
+      "en": "Now my personal favorite joke is, the guy says, what does a fish say when it runs into a wall?",
+      "zh": "现在我个人最喜欢的笑话是，这家伙说，当鱼撞到墙上时，它会说什么？"
+    },
+    {
+      "id": 209,
+      "start": 561.64,
+      "end": 564.5,
+      "en": "So to run into a wall, basically is, to crash against the wall.",
+      "zh": "所以跑到墙上，基本上就是，撞到墙上。"
+    },
+    {
+      "id": 210,
+      "start": 564.88,
+      "end": 565.88,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 211,
+      "start": 565.88,
+      "end": 566.22,
+      "en": "So what does the fish say?",
+      "zh": "那么鱼怎么说呢？"
+    },
+    {
+      "id": 212,
+      "start": 566.88,
+      "end": 567.88,
+      "en": "Damn.",
+      "zh": "该死。"
+    },
+    {
+      "id": 213,
+      "start": 567.88,
+      "end": 568.64,
+      "en": "So why is this funny?",
+      "zh": "那么为什么这很有趣呢？"
+    },
+    {
+      "id": 214,
+      "start": 568.88,
+      "end": 569.48,
+      "en": "Why does he say damn?",
+      "zh": "为什么他说该死？"
+    },
+    {
+      "id": 215,
+      "start": 569.88,
+      "end": 576.72,
+      "en": "Well, because, I mean, if you're a person and you run into a wall, damn, like, you know, it's like, oh no.",
+      "zh": "好吧，因为，我的意思是，如果你是一个人，你撞到了墙上，该死的，就像，你知道，就像，哦不。"
+    },
+    {
+      "id": 216,
+      "start": 576.72,
+      "end": 577.72,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 217,
+      "start": 577.72,
+      "end": 583.28,
+      "en": "But a fish is swimming under the water and like we saw, a dam is actually like a wall in the water.",
+      "zh": "但是一条鱼在水下游泳，就像我们看到的那样，水坝实际上就像水中的一堵墙。"
+    },
+    {
+      "id": 218,
+      "start": 583.28,
+      "end": 585.04,
+      "en": "So he's saying like, a wall.",
+      "zh": "所以他说的是一堵墙。"
+    },
+    {
+      "id": 219,
+      "start": 585.28,
+      "end": 586.48,
+      "en": "Yeah, yeah, yeah.",
+      "zh": "对，对，对。"
+    },
+    {
+      "id": 220,
+      "start": 586.48,
+      "end": 587.68,
+      "en": "So I like that one.",
+      "zh": "所以我喜欢那个。"
+    },
+    {
+      "id": 221,
+      "start": 588.42,
+      "end": 588.86,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 222,
+      "start": 589.14,
+      "end": 590.32,
+      "en": "The last one was pretty good.",
+      "zh": "最后一张还不错。"
+    },
+    {
+      "id": 223,
+      "start": 590.8,
+      "end": 592.84,
+      "en": "Why do gorillas have big nostrils?",
+      "zh": "为什么大猩猩有大鼻孔？"
+    },
+    {
+      "id": 224,
+      "start": 592.88,
+      "end": 595.52,
+      "en": "Okay, so the big holes in their nose.",
+      "zh": "好吧，他们鼻子上有大洞。"
+    },
+    {
+      "id": 225,
+      "start": 595.52,
+      "end": 596.52,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 226,
+      "start": 596.52,
+      "end": 598.9,
+      "en": "And basically, it's because they have big fingers.",
+      "zh": "基本上，这是因为他们有大手指。"
+    },
+    {
+      "id": 227,
+      "start": 599.3,
+      "end": 600.66,
+      "en": "So they can put their fingers in the nose?",
+      "zh": "那么他们可以把手指放在鼻子里吗？"
+    },
+    {
+      "id": 228,
+      "start": 601.16,
+      "end": 602.16,
+      "en": "Yeah, exactly.",
+      "zh": "对，没错。"
+    },
+    {
+      "id": 229,
+      "start": 602.16,
+      "end": 603.16,
+      "en": "Oh dear.",
+      "zh": "哎呀。"
+    },
+    {
+      "id": 230,
+      "start": 603.16,
+      "end": 605.5,
+      "en": "If the gorilla didn't have big nostrils, he wouldn't be able to pick his nose.",
+      "zh": "如果大猩猩没有大鼻孔，他将无法挖鼻子。"
+    },
+    {
+      "id": 231,
+      "start": 606.08,
+      "end": 607.08,
+      "en": "Maybe he'd have to use a stick.",
+      "zh": "也许他必须用一根棍子。"
+    },
+    {
+      "id": 232,
+      "start": 607.42,
+      "end": 608.68,
+      "en": "Yeah, but that wouldn't be convenient.",
+      "zh": "是的，但这不方便。"
+    },
+    {
+      "id": 233,
+      "start": 608.86,
+      "end": 609.18,
+      "en": "See?",
+      "zh": "看到了吧？"
+    },
+    {
+      "id": 234,
+      "start": 610.08,
+      "end": 611.08,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 235,
+      "start": 611.08,
+      "end": 612.28,
+      "en": "So that's why those jokes are funny.",
+      "zh": "所以这就是为什么这些笑话很有趣。"
+    },
+    {
+      "id": 236,
+      "start": 612.28,
+      "end": 613.04,
+      "en": "They're very short jokes.",
+      "zh": "他们是很短的笑话。"
+    },
+    {
+      "id": 237,
+      "start": 613.46,
+      "end": 620.23,
+      "en": "Of course, some of them are not actually really funny, but it's just a little bit of a taste of short American jokes.",
+      "zh": "当然，其中一些实际上并不是很有趣，但这只是美国短笑的一点点味道。"
+    },
+    {
+      "id": 238,
+      "start": 620.61,
+      "end": 628.37,
+      "en": "Okay, well, I think we need to hear them one more time in context so you can all know how funny or maybe not so funny they are.",
+      "zh": "好吧，好吧，我认为我们需要在上下文中再听一次，这样你们才能知道他们有多有趣，或者可能不那么有趣。"
+    },
+    {
+      "id": 239,
+      "start": 634.95,
+      "end": 637.81,
+      "en": "Hello everyone and welcome to Open Mic Night.",
+      "zh": "各位好，欢迎来到开放麦之夜。"
+    },
+    {
+      "id": 240,
+      "start": 638.35,
+      "end": 642.59,
+      "en": "You're in for a real treat as we've got a lot of great comics here with us tonight.",
+      "zh": "今晚有很多优秀的喜剧演员到场，大家可有眼福了。"
+    },
+    {
+      "id": 241,
+      "start": 643.23,
+      "end": 648.87,
+      "en": "First up, we have a very funny man coming straight from the state of Montana, Robert Hicks.",
+      "zh": "首先登场的是一位非常风趣的男士，来自蒙大拿州的罗伯特·希克斯。"
+    },
+    {
+      "id": 242,
+      "start": 651.37,
+      "end": 652.27,
+      "en": "Thank you, everyone.",
+      "zh": "谢谢大家。"
+    },
+    {
+      "id": 243,
+      "start": 652.91,
+      "end": 654.25,
+      "en": "Well, what a lovely crowd.",
+      "zh": "嗯，多么可爱的人群。"
+    },
+    {
+      "id": 244,
+      "start": 655.14,
+      "end": 658.31,
+      "en": "You know, there's nothing I love better than stand-up comedy.",
+      "zh": "你知道，没有什么比单口喜剧更让我喜欢的了。"
+    },
+    {
+      "id": 245,
+      "start": 659.28,
+      "end": 664.41,
+      "en": "You know, I've been working on my routine for months now and I've got some real zingers for you tonight.",
+      "zh": "这套段子我已经打磨好几个月了，今晚要给大家讲几个绝妙的笑话。"
+    },
+    {
+      "id": 246,
+      "start": 665.42,
+      "end": 667.31,
+      "en": "Let's start out with some short jokes.",
+      "zh": "让我们从一些简短的笑话开始。"
+    },
+    {
+      "id": 247,
+      "start": 667.66,
+      "end": 667.95,
+      "en": "How about that?",
+      "zh": "怎么样？"
+    },
+    {
+      "id": 248,
+      "start": 669.02,
+      "end": 674.02,
+      "en": "Where do you find a one-legged dog?",
+      "zh": "到哪儿能找到一只只有一条腿的狗？"
+    },
+    {
+      "id": 249,
+      "start": 674.02,
+      "end": 674.89,
+      "en": "Where you left it.",
+      "zh": "你离开它的地方。"
+    },
+    {
+      "id": 250,
+      "start": 679.48,
+      "end": 679.6,
+      "en": "Get it?",
+      "zh": "得到它？"
+    },
+    {
+      "id": 251,
+      "start": 680.78,
+      "end": 684.12,
+      "en": "Anyways, what do you call a sheep with no legs?",
+      "zh": "无论如何，你怎么称呼没有腿的羊？"
+    },
+    {
+      "id": 252,
+      "start": 686.28,
+      "end": 686.56,
+      "en": "A cloud.",
+      "zh": "一朵云。"
+    },
+    {
+      "id": 253,
+      "start": 687.3,
+      "end": 688.3,
+      "en": "Tough crowd.",
+      "zh": "艰难的人群。"
+    },
+    {
+      "id": 254,
+      "start": 688.3,
+      "end": 692.62,
+      "en": "All right, now you're going to love this joke.",
+      "zh": "好吧，现在你会喜欢这个笑话。"
+    },
+    {
+      "id": 255,
+      "start": 692.62,
+      "end": 692.77,
+      "en": "It's hilarious.",
+      "zh": "这很搞笑。"
+    },
+    {
+      "id": 256,
+      "start": 693.66,
+      "end": 695.46,
+      "en": "What do cows do for entertainment?",
+      "zh": "牛有什么娱乐活动？"
+    },
+    {
+      "id": 257,
+      "start": 697.21,
+      "end": 698.37,
+      "en": "They rent movies.",
+      "zh": "他们租电影。"
+    },
+    {
+      "id": 258,
+      "start": 700.22,
+      "end": 701.82,
+      "en": "Movies.",
+      "zh": "电影。"
+    },
+    {
+      "id": 259,
+      "start": 701.82,
+      "end": 707.74,
+      "en": "Okay, okay, okay.",
+      "zh": "好，好，好。"
+    },
+    {
+      "id": 260,
+      "start": 707.74,
+      "end": 710.94,
+      "en": "We've got a few hecklers in the audience, but this one is good.",
+      "zh": "观众里有人在起哄，不过下面这个笑话可不错。"
+    },
+    {
+      "id": 261,
+      "start": 711.64,
+      "end": 714.54,
+      "en": "What does a fish say when it runs into a wall?",
+      "zh": "鱼撞到墙上时会说什么？"
+    },
+    {
+      "id": 262,
+      "start": 716.18,
+      "end": 718.18,
+      "en": "Damn!",
+      "zh": "哎呀!"
+    },
+    {
+      "id": 263,
+      "start": 718.18,
+      "end": 725.18,
+      "en": "Get out of here.",
+      "zh": "出去。"
+    },
+    {
+      "id": 264,
+      "start": 725.18,
+      "end": 726.18,
+      "en": "Okay, okay, okay.",
+      "zh": "好，好，好。"
+    },
+    {
+      "id": 265,
+      "start": 726.18,
+      "end": 727.18,
+      "en": "Last one.",
+      "zh": "最后一张。"
+    },
+    {
+      "id": 266,
+      "start": 727.18,
+      "end": 730.46,
+      "en": "Why do gorillas have big nostrils?",
+      "zh": "为什么大猩猩有大鼻孔？"
+    },
+    {
+      "id": 267,
+      "start": 730.46,
+      "end": 731.48,
+      "en": "Because they got big fingers.",
+      "zh": "因为他们有大手指。"
+    },
+    {
+      "id": 268,
+      "start": 738.98,
+      "end": 740.34,
+      "en": "Thanks everyone, that was my time.",
+      "zh": "谢谢大家，那是我的时间。"
+    },
+    {
+      "id": 269,
+      "start": 747.64,
+      "end": 752.62,
+      "en": "Now if you have any good jokes of your own, why don't you come to our website and tell us about them.",
+      "zh": "现在，如果您有自己的好笑话，为什么不来我们的网站告诉我们。"
+    },
+    {
+      "id": 270,
+      "start": 753.14,
+      "end": 756.16,
+      "en": "Right, come to EnglishPod.com, share with us any jokes.",
+      "zh": "对，来englishpod.com，与我们分享任何笑话。"
+    },
+    {
+      "id": 271,
+      "start": 756.42,
+      "end": 757.56,
+      "en": "Of course, they have to be clean.",
+      "zh": "当然，它们必须是干净的。"
+    },
+    {
+      "id": 272,
+      "start": 758.26,
+      "end": 759.26,
+      "en": "Don't come with any...",
+      "zh": "不要随身携带..."
+    },
+    {
+      "id": 273,
+      "start": 759.26,
+      "end": 760.26,
+      "en": "No, yeah, no swears.",
+      "zh": "不，是的，没有发誓。"
+    },
+    {
+      "id": 274,
+      "start": 760.26,
+      "end": 761.68,
+      "en": "No swearing in the jokes.",
+      "zh": "在笑话中不发誓。"
+    },
+    {
+      "id": 275,
+      "start": 762.02,
+      "end": 763.02,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 276,
+      "start": 763.02,
+      "end": 765.0,
+      "en": "All right, so we'll see you guys there and until next time.",
+      "zh": "好吧，所以我们会在那里见到你们，直到下一次。"
+    },
+    {
+      "id": 277,
+      "start": 765.42,
+      "end": 766.3,
+      "en": "Thanks for listening and goodbye.",
+      "zh": "感谢收听，再见。"
+    },
+    {
+      "id": 278,
+      "start": 766.66,
+      "end": 766.78,
+      "en": "Bye.",
+      "zh": "再见。"
+    }
+  ],
+  "dialog": {
+    "start": 148.72,
+    "end": 254.23,
+    "segmentIds": [
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102
+    ]
+  }
+}

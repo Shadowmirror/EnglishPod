@@ -1,0 +1,1762 @@
+{
+  "version": 1,
+  "id": 344,
+  "number": "0344",
+  "title": "Global View - Booking A Hotel Room",
+  "audio": "mp3/344. Global View - Booking A Hotel Room.mp3",
+  "duration": 684.7216875,
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.07,
+      "end": 3.27,
+      "en": "Hello everyone and welcome to EnglishPod.",
+      "zh": "大家好，欢迎来到 EnglishPod。"
+    },
+    {
+      "id": 2,
+      "start": 3.55,
+      "end": 4.01,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 4.45,
+      "end": 9.25,
+      "en": "My name is Catherine and today we're traveling a little bit and we need to book a hotel room.",
+      "zh": "我的名字是凯瑟琳，今天我们旅行了一点，我们需要预订酒店房间。"
+    },
+    {
+      "id": 4,
+      "start": 9.57,
+      "end": 9.83,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 5,
+      "start": 10.72,
+      "end": 17.76,
+      "en": "So today we're going to learn all the words and phrases that will help you talk to the receptionist in order to book a hotel room.",
+      "zh": "所以今天我们将学习所有帮助您与接待员交谈的单词和短语，以便预订酒店房间。"
+    },
+    {
+      "id": 6,
+      "start": 17.76,
+      "end": 18.59,
+      "en": "Let's check out our dialogue.",
+      "zh": "让我们看看我们的对话。"
+    },
+    {
+      "id": 7,
+      "start": 18.76,
+      "end": 19.76,
+      "en": "Madison Suites, how may I help you?",
+      "zh": "您好，这里是麦迪逊套房酒店，有什么可以帮您？"
+    },
+    {
+      "id": 8,
+      "start": 27.34,
+      "end": 29.04,
+      "en": "Yes, I am calling from Mexico.",
+      "zh": "您好，我从墨西哥打来的。"
+    },
+    {
+      "id": 9,
+      "start": 29.38,
+      "end": 33.12,
+      "en": "I will be in town next week and would like to know if you have availability?",
+      "zh": "我下周会在城里，想知道你是否有空位？"
+    },
+    {
+      "id": 10,
+      "start": 33.54,
+      "end": 34.82,
+      "en": "Ok, ma'am.",
+      "zh": "好的，女士。"
+    },
+    {
+      "id": 11,
+      "start": 34.82,
+      "end": 37.08,
+      "en": "Can you tell me the date you expect to check in?",
+      "zh": "请问您预计哪天入住？"
+    },
+    {
+      "id": 12,
+      "start": 37.08,
+      "end": 38.58,
+      "en": "Yes, July ninth.",
+      "zh": "是的，七月九号。"
+    },
+    {
+      "id": 13,
+      "start": 38.58,
+      "end": 40.1,
+      "en": "I will be there for seven nights.",
+      "zh": "我会住七晚。"
+    },
+    {
+      "id": 14,
+      "start": 40.36,
+      "end": 44.61,
+      "en": "We have a junior single suite or a superior double suite available for those dates.",
+      "zh": "那几天有小型单人套房和高级双人套房可供选择。"
+    },
+    {
+      "id": 15,
+      "start": 45.07,
+      "end": 45.77,
+      "en": "What's the difference?",
+      "zh": "有什么区别？"
+    },
+    {
+      "id": 16,
+      "start": 46.23,
+      "end": 50.71,
+      "en": "The junior suite is smaller and has one twin bed, while the superior suite has a double bed and minibar.",
+      "zh": "小型套房较小，配有一张单人床，而高级套房设有一张双人床和迷你吧。"
+    },
+    {
+      "id": 17,
+      "start": 50.92,
+      "end": 53.76,
+      "en": "Ok, I would like to reserve the superior suite.",
+      "zh": "好的，我想预订高级套房。"
+    },
+    {
+      "id": 18,
+      "start": 53.76,
+      "end": 54.63,
+      "en": "Is breakfast included?",
+      "zh": "含早餐吗？"
+    },
+    {
+      "id": 19,
+      "start": 54.88,
+      "end": 57.52,
+      "en": "Yes, a buffet breakfast is served every morning.",
+      "zh": "含，每天早上供应自助早餐。"
+    },
+    {
+      "id": 20,
+      "start": 57.52,
+      "end": 60.43,
+      "en": "I will need your name and your credit card details in order to complete the reservation.",
+      "zh": "要完成预订，我需要您的姓名和信用卡信息。"
+    },
+    {
+      "id": 21,
+      "start": 61.07,
+      "end": 61.35,
+      "en": "Sure.",
+      "zh": "当然。"
+    },
+    {
+      "id": 22,
+      "start": 61.63,
+      "end": 63.39,
+      "en": "My credit card number is...",
+      "zh": "我的信用卡号是……"
+    },
+    {
+      "id": 23,
+      "start": 64.16,
+      "end": 66.48,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 24,
+      "start": 67.78,
+      "end": 68.02,
+      "en": "We're back.",
+      "zh": "我们回来了。"
+    },
+    {
+      "id": 25,
+      "start": 68.22,
+      "end": 69.8,
+      "en": "So now let's take a look at language takeaway.",
+      "zh": "现在来看看“语言要点”。"
+    },
+    {
+      "id": 26,
+      "start": 72.86,
+      "end": 73.25,
+      "en": "Language takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 27,
+      "start": 75.36,
+      "end": 78.58,
+      "en": "So we've got a lot of great phrases and words today in language takeaway.",
+      "zh": "所以我们今天在语言外卖中有很多很棒的短语和单词。"
+    },
+    {
+      "id": 28,
+      "start": 79.0,
+      "end": 81.66,
+      "en": "The first one comes from the beginning of the dialogue.",
+      "zh": "第一个来自对话的开头。"
+    },
+    {
+      "id": 29,
+      "start": 82.26,
+      "end": 82.96,
+      "en": "It's availability.",
+      "zh": "它的可用性。"
+    },
+    {
+      "id": 30,
+      "start": 83.48,
+      "end": 84.56,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 31,
+      "start": 84.56,
+      "end": 87.86,
+      "en": "So the woman wanted to know if the hotel has availability.",
+      "zh": "所以那个女人想知道酒店是否有空位。"
+    },
+    {
+      "id": 32,
+      "start": 88.84,
+      "end": 89.3,
+      "en": "So what does that mean?",
+      "zh": "那么这是什么意思呢？"
+    },
+    {
+      "id": 33,
+      "start": 90.2,
+      "end": 92.67,
+      "en": "That means, do you have free rooms?",
+      "zh": "也就是说，你们有免费房间吗？"
+    },
+    {
+      "id": 34,
+      "start": 93.12,
+      "end": 94.63,
+      "en": "Do you have any rooms I could rent?",
+      "zh": "你们有我可以租的房间吗？"
+    },
+    {
+      "id": 35,
+      "start": 95.12,
+      "end": 99.15,
+      "en": "So instead of saying, do you have any free rooms or do you have rooms available?",
+      "zh": "因此，与其说，您有任何免费房间还是您有可用的房间？"
+    },
+    {
+      "id": 36,
+      "start": 99.84,
+      "end": 101.73,
+      "en": "You can just say, do you have availability?",
+      "zh": "你可以说，你有空位吗？"
+    },
+    {
+      "id": 37,
+      "start": 102.8,
+      "end": 103.8,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 38,
+      "start": 103.8,
+      "end": 107.35,
+      "en": "So you're basically asking the person, do you have anything available?",
+      "zh": "所以你基本上是在问这个人，你有什么可用的吗？"
+    },
+    {
+      "id": 39,
+      "start": 108.28,
+      "end": 109.11,
+      "en": "So what's your availability?",
+      "zh": "那么你的可用性是多少？"
+    },
+    {
+      "id": 40,
+      "start": 110.32,
+      "end": 110.49,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 41,
+      "start": 111.32,
+      "end": 112.32,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 42,
+      "start": 112.32,
+      "end": 113.32,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 43,
+      "start": 113.32,
+      "end": 121.32,
+      "en": "So we have availability and obviously the receptionist needs to know when we expect to check in.",
+      "zh": "所以我们有可用性，显然接待员需要知道我们何时预计入住。"
+    },
+    {
+      "id": 44,
+      "start": 121.32,
+      "end": 125.87,
+      "en": "So this is a noun and a verb, but in today's dialogue, it's used as a verb.",
+      "zh": "所以这是一个名词和一个动词，但在今天的对话中，它被用作动词。"
+    },
+    {
+      "id": 45,
+      "start": 126.16,
+      "end": 128.73,
+      "en": "So it's something we do to check in.",
+      "zh": "所以这是我们要办理入住的事情。"
+    },
+    {
+      "id": 46,
+      "start": 129.13,
+      "end": 133.57,
+      "en": "So the person on the phone would like to know what date you expect to check in.",
+      "zh": "因此，电话中的人想知道您希望在哪个日期办理登机手续。"
+    },
+    {
+      "id": 47,
+      "start": 133.69,
+      "end": 136.59,
+      "en": "That means when will you arrive at our hotel?",
+      "zh": "这意味着您什么时候到达我们的酒店？"
+    },
+    {
+      "id": 48,
+      "start": 136.83,
+      "end": 137.15,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 49,
+      "start": 137.31,
+      "end": 142.57,
+      "en": "So maybe we will arrive to the city a couple of days before we check into the hotel.",
+      "zh": "所以也许我们会在入住酒店前几天到达城市。"
+    },
+    {
+      "id": 50,
+      "start": 142.84,
+      "end": 147.64,
+      "en": "So we really specifically want to know when are you going to start sleeping here?",
+      "zh": "所以我们真的很想知道你什么时候开始睡在这里？"
+    },
+    {
+      "id": 51,
+      "start": 147.64,
+      "end": 147.81,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 52,
+      "start": 148.64,
+      "end": 153.23,
+      "en": "And the opposite, so when you leave the hotel, is called check out, to check out.",
+      "zh": "而相反，所以当你离开酒店时，叫退房，退房。"
+    },
+    {
+      "id": 53,
+      "start": 153.68,
+      "end": 153.91,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 54,
+      "start": 154.68,
+      "end": 155.68,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 55,
+      "start": 155.68,
+      "end": 164.28,
+      "en": "So we want to check in on July 9th and the receptionist tells us that we have available a single suite or a double suite.",
+      "zh": "所以我们想在 7 月 9 日登记入住，接待员告诉我们，我们有单人套房或双人套房。"
+    },
+    {
+      "id": 56,
+      "start": 164.28,
+      "end": 165.28,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 57,
+      "start": 165.28,
+      "end": 166.13,
+      "en": "So these are two different kinds of rooms.",
+      "zh": "所以这是两种不同的房间。"
+    },
+    {
+      "id": 58,
+      "start": 166.76,
+      "end": 175.05,
+      "en": "Now a suite is different from a room because it actually means that the space you're going to use is more than one room, maybe two rooms or three.",
+      "zh": "现在套房与房间不同，因为它实际上意味着您要使用的空间不止一个房间，可能是两间或三间。"
+    },
+    {
+      "id": 59,
+      "start": 175.39,
+      "end": 175.81,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 60,
+      "start": 175.81,
+      "end": 178.31,
+      "en": "So it's a little bit bigger than just a standard room.",
+      "zh": "所以它比标准房间大一点。"
+    },
+    {
+      "id": 61,
+      "start": 178.73,
+      "end": 183.21,
+      "en": "It might have a sitting area or a kitchen area.",
+      "zh": "它可能有一个休息区或一个厨房区。"
+    },
+    {
+      "id": 62,
+      "start": 183.21,
+      "end": 185.17,
+      "en": "So that's what a suite is.",
+      "zh": "所以这就是套房。"
+    },
+    {
+      "id": 63,
+      "start": 185.48,
+      "end": 187.68,
+      "en": "Very expensive rooms are suites as well.",
+      "zh": "非常昂贵的房间也是套房。"
+    },
+    {
+      "id": 64,
+      "start": 187.71,
+      "end": 192.23,
+      "en": "They have a sitting area and a kitchen and maybe even an extra bedroom.",
+      "zh": "他们有一个休息区和一个厨房，甚至可能还有一间额外的卧室。"
+    },
+    {
+      "id": 65,
+      "start": 192.49,
+      "end": 192.97,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 66,
+      "start": 193.56,
+      "end": 193.86,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 67,
+      "start": 193.86,
+      "end": 195.6,
+      "en": "So we have a single suite.",
+      "zh": "所以我们有一个单人套房。"
+    },
+    {
+      "id": 68,
+      "start": 196.42,
+      "end": 200.18,
+      "en": "That means that we have one of these big rooms that is only for one person.",
+      "zh": "这意味着我们有一间只有一个人的大房间之一。"
+    },
+    {
+      "id": 69,
+      "start": 201.04,
+      "end": 204.78,
+      "en": "And the double suite means that two or more people can sleep there.",
+      "zh": "双人套房意味着两个或更多人可以在那里睡觉。"
+    },
+    {
+      "id": 70,
+      "start": 204.94,
+      "end": 205.22,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 71,
+      "start": 205.5,
+      "end": 208.68,
+      "en": "So single will be one person and double will be two people.",
+      "zh": "所以单身将是一个人，双人将是两个人。"
+    },
+    {
+      "id": 72,
+      "start": 209.1,
+      "end": 217.62,
+      "en": "And we also heard similar words with the beds because sometimes the rooms aren't really clear about what kind of beds they have.",
+      "zh": "而且我们也听到了与床的类似词，因为有时房间不太清楚他们有什么样的床。"
+    },
+    {
+      "id": 73,
+      "start": 217.78,
+      "end": 220.94,
+      "en": "So this person asked, what's the difference between these rooms?",
+      "zh": "所以这个人问，这些房间有什么区别？"
+    },
+    {
+      "id": 74,
+      "start": 221.6,
+      "end": 226.48,
+      "en": "And the hotel employee answered, well, the junior suite has one twin bed.",
+      "zh": "酒店员工回答说，嗯，小型套房有一张单人床。"
+    },
+    {
+      "id": 75,
+      "start": 227.0,
+      "end": 229.08,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 76,
+      "start": 229.08,
+      "end": 229.57,
+      "en": "What's a twin bed?",
+      "zh": "什么是双床？"
+    },
+    {
+      "id": 77,
+      "start": 230.08,
+      "end": 234.73,
+      "en": "So a twin bed is basically a bed that's only for one person.",
+      "zh": "所以两张单人床基本上是一张只适合一个人的床。"
+    },
+    {
+      "id": 78,
+      "start": 235.2,
+      "end": 236.09,
+      "en": "Only one person fits in there.",
+      "zh": "那里只有一个人适合。"
+    },
+    {
+      "id": 79,
+      "start": 236.32,
+      "end": 236.47,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 80,
+      "start": 237.32,
+      "end": 239.31,
+      "en": "So it's a single bed basically.",
+      "zh": "所以它基本上是一张单人床。"
+    },
+    {
+      "id": 81,
+      "start": 239.6,
+      "end": 240.6,
+      "en": "We call it a twin.",
+      "zh": "我们称之为双胞胎。"
+    },
+    {
+      "id": 82,
+      "start": 240.6,
+      "end": 241.81,
+      "en": "It's a standard size.",
+      "zh": "这是标准尺寸。"
+    },
+    {
+      "id": 83,
+      "start": 242.17,
+      "end": 244.95,
+      "en": "So everywhere you go, a twin is always for one person.",
+      "zh": "所以无论你走到哪里，双胞胎总是一个人。"
+    },
+    {
+      "id": 84,
+      "start": 245.21,
+      "end": 245.69,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 85,
+      "start": 246.07,
+      "end": 246.37,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 86,
+      "start": 246.37,
+      "end": 249.71,
+      "en": "And if you want to have another person in bed, we have to get a bigger one.",
+      "zh": "如果你想让另一个人在床上，我们必须得到一个更大的。"
+    },
+    {
+      "id": 87,
+      "start": 249.83,
+      "end": 250.87,
+      "en": "And what's that bigger bed called?",
+      "zh": "那张大床叫什么？"
+    },
+    {
+      "id": 88,
+      "start": 251.25,
+      "end": 252.21,
+      "en": "It's called a double bed.",
+      "zh": "它被称为双人床。"
+    },
+    {
+      "id": 89,
+      "start": 252.71,
+      "end": 253.31,
+      "en": "A double bed.",
+      "zh": "一张双人床。"
+    },
+    {
+      "id": 90,
+      "start": 253.51,
+      "end": 254.23,
+      "en": "So again, double.",
+      "zh": "再说一遍，加倍。"
+    },
+    {
+      "id": 91,
+      "start": 254.35,
+      "end": 256.43,
+      "en": "Double room, double bed.",
+      "zh": "双人间, 双人床."
+    },
+    {
+      "id": 92,
+      "start": 257.1,
+      "end": 260.2,
+      "en": "So this means that two people can sleep on the one bed.",
+      "zh": "所以这意味着两个人可以睡在一张床上。"
+    },
+    {
+      "id": 93,
+      "start": 260.56,
+      "end": 260.96,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 94,
+      "start": 261.24,
+      "end": 268.54,
+      "en": "So this is important because sometimes you want to book a hotel room and it will be a double suite, but it will have two twin beds.",
+      "zh": "所以这很重要，因为有时您想预订酒店房间，它将是双人套房，但它会有两张单人床。"
+    },
+    {
+      "id": 95,
+      "start": 268.96,
+      "end": 269.2,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 96,
+      "start": 269.72,
+      "end": 270.36,
+      "en": "So it's a double room.",
+      "zh": "所以这是一个双人间。"
+    },
+    {
+      "id": 97,
+      "start": 270.72,
+      "end": 273.82,
+      "en": "So it's for two people, but each person has their own small bed.",
+      "zh": "所以它是为两个人准备的，但每个人都有自己的小床。"
+    },
+    {
+      "id": 98,
+      "start": 274.24,
+      "end": 275.24,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 99,
+      "start": 275.24,
+      "end": 275.5,
+      "en": "Two twin beds.",
+      "zh": "两张单人床。"
+    },
+    {
+      "id": 100,
+      "start": 276.24,
+      "end": 277.24,
+      "en": "Mm-hmm.",
+      "zh": "嗯。"
+    },
+    {
+      "id": 101,
+      "start": 277.24,
+      "end": 278.24,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 102,
+      "start": 278.24,
+      "end": 284.6,
+      "en": "And lastly, the superior double suite not only had a double bed, but also had a mini bar.",
+      "zh": "最后，高级双人套房不仅有一张双人床，而且还有一个迷你吧。"
+    },
+    {
+      "id": 103,
+      "start": 284.6,
+      "end": 285.0,
+      "en": "A mini bar.",
+      "zh": "一个迷你吧。"
+    },
+    {
+      "id": 104,
+      "start": 285.6,
+      "end": 286.16,
+      "en": "So you know what a bar is?",
+      "zh": "所以你知道什么是酒吧吗？"
+    },
+    {
+      "id": 105,
+      "start": 286.6,
+      "end": 291.8,
+      "en": "It's a place you go to get some alcohol or some drinks, but a mini bar is a little bit different, right?",
+      "zh": "这是一个你去喝点酒或喝酒的地方，但迷你酒吧有点不同，对吧？"
+    },
+    {
+      "id": 106,
+      "start": 292.24,
+      "end": 293.24,
+      "en": "Mm-hmm.",
+      "zh": "嗯。"
+    },
+    {
+      "id": 107,
+      "start": 293.24,
+      "end": 304.32,
+      "en": "It's a little refrigerator or a little area where you will have snacks and drinks that you can just basically take freely, but obviously you will have to pay afterwards.",
+      "zh": "这是一个小冰箱或一个小区域，您可以在那里享用小吃和饮料，您基本上可以自由地拿走，但显然您之后必须付钱。"
+    },
+    {
+      "id": 108,
+      "start": 305.12,
+      "end": 306.12,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 109,
+      "start": 306.12,
+      "end": 311.7,
+      "en": "So you can take them when you're staying there, but when you check out, when you leave, you have to pay for everything you ate or drank.",
+      "zh": "所以你可以在你住在那里的时候服用它们，但是当你退房时，当你离开时，你必须为你吃或喝的所有东西付钱。"
+    },
+    {
+      "id": 110,
+      "start": 312.28,
+      "end": 312.45,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 111,
+      "start": 313.28,
+      "end": 314.28,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 112,
+      "start": 314.28,
+      "end": 315.8,
+      "en": "So a lot of words there on Language Takeaway today.",
+      "zh": "所以今天有很多关于语言外卖的词。"
+    },
+    {
+      "id": 113,
+      "start": 315.8,
+      "end": 317.81,
+      "en": "Let's take a break and listen to the dialogue again.",
+      "zh": "让我们休息一下，再听一次对话。"
+    },
+    {
+      "id": 114,
+      "start": 318.72,
+      "end": 323.64,
+      "en": "Madison Suites, how may I help you?",
+      "zh": "您好，这里是麦迪逊套房酒店，有什么可以帮您？"
+    },
+    {
+      "id": 115,
+      "start": 326.6,
+      "end": 327.98,
+      "en": "Yes, I am calling from Mexico.",
+      "zh": "您好，我从墨西哥打来的。"
+    },
+    {
+      "id": 116,
+      "start": 328.48,
+      "end": 332.24,
+      "en": "I will be in town next week and would like to know if you have availability.",
+      "zh": "我下周会到贵地，想问问还有空房吗？"
+    },
+    {
+      "id": 117,
+      "start": 332.24,
+      "end": 333.24,
+      "en": "Okay, ma'am.",
+      "zh": "好的，女士。"
+    },
+    {
+      "id": 118,
+      "start": 333.82,
+      "end": 335.64,
+      "en": "Can you tell me the date you expect to check in?",
+      "zh": "请问您预计哪天入住？"
+    },
+    {
+      "id": 119,
+      "start": 336.1,
+      "end": 337.54,
+      "en": "Yes, July 9th.",
+      "zh": "七月九日。"
+    },
+    {
+      "id": 120,
+      "start": 337.72,
+      "end": 339.08,
+      "en": "I will be there for seven nights.",
+      "zh": "我会住七晚。"
+    },
+    {
+      "id": 121,
+      "start": 339.76,
+      "end": 344.44,
+      "en": "We have a junior single suite or a superior double suite available for those dates.",
+      "zh": "那几天有小型单人套房和高级双人套房可供选择。"
+    },
+    {
+      "id": 122,
+      "start": 344.44,
+      "end": 344.9,
+      "en": "What's the difference?",
+      "zh": "有什么区别？"
+    },
+    {
+      "id": 123,
+      "start": 345.44,
+      "end": 350.16,
+      "en": "The junior suite is smaller and has one twin bed while the superior suite has a double bed and mini bar.",
+      "zh": "小型套房面积较小，配一张单人床；高级套房有一张双人床和迷你吧。"
+    },
+    {
+      "id": 124,
+      "start": 350.16,
+      "end": 350.36,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 125,
+      "start": 351.16,
+      "end": 352.28,
+      "en": "I would like to reserve the superior suite.",
+      "zh": "我想预订高级套房。"
+    },
+    {
+      "id": 126,
+      "start": 352.84,
+      "end": 353.76,
+      "en": "Is breakfast included?",
+      "zh": "含早餐吗？"
+    },
+    {
+      "id": 127,
+      "start": 353.84,
+      "end": 356.6,
+      "en": "Yes, a buffet breakfast is served every morning.",
+      "zh": "含，每天早上供应自助早餐。"
+    },
+    {
+      "id": 128,
+      "start": 356.6,
+      "end": 359.56,
+      "en": "I will need your name and your credit card details in order to complete the reservation.",
+      "zh": "要完成预订，我需要您的姓名和信用卡信息。"
+    },
+    {
+      "id": 129,
+      "start": 360.12,
+      "end": 360.42,
+      "en": "Sure.",
+      "zh": "当然。"
+    },
+    {
+      "id": 130,
+      "start": 360.66,
+      "end": 362.94,
+      "en": "My credit card number is...",
+      "zh": "我的信用卡号是……"
+    },
+    {
+      "id": 131,
+      "start": 366.2,
+      "end": 367.2,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 132,
+      "start": 367.2,
+      "end": 367.87,
+      "en": "So now it's time for some phrases.",
+      "zh": "所以现在是一些短语的时候了。"
+    },
+    {
+      "id": 133,
+      "start": 368.48,
+      "end": 369.59,
+      "en": "Let's start with Fluency Builder.",
+      "zh": "让我们从 Fluency Builder 开始。"
+    },
+    {
+      "id": 134,
+      "start": 372.32,
+      "end": 372.56,
+      "en": "Fluency Builder.",
+      "zh": "流利表达。"
+    },
+    {
+      "id": 135,
+      "start": 374.16,
+      "end": 376.58,
+      "en": "The first phrase in Fluency Builder might seem a little bit strange.",
+      "zh": "Fluency Builder 中的第一个短语可能看起来有点奇怪。"
+    },
+    {
+      "id": 136,
+      "start": 376.66,
+      "end": 378.98,
+      "en": "It's I will be in town next week.",
+      "zh": "下周我会在城里。"
+    },
+    {
+      "id": 137,
+      "start": 379.62,
+      "end": 380.68,
+      "en": "I'll be in town.",
+      "zh": "我会在城里。"
+    },
+    {
+      "id": 138,
+      "start": 380.98,
+      "end": 381.68,
+      "en": "In what town?",
+      "zh": "在哪个城镇？"
+    },
+    {
+      "id": 139,
+      "start": 382.06,
+      "end": 382.44,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 140,
+      "start": 383.28,
+      "end": 388.16,
+      "en": "Well, if you say I will be in town, that basically says I will be in this town.",
+      "zh": "好吧，如果你说我会在城里，那基本上是说我会在这个镇上。"
+    },
+    {
+      "id": 141,
+      "start": 388.18,
+      "end": 388.7,
+      "en": "I will be there.",
+      "zh": "我会在那里。"
+    },
+    {
+      "id": 142,
+      "start": 388.86,
+      "end": 389.48,
+      "en": "I will be here.",
+      "zh": "我会在这里。"
+    },
+    {
+      "id": 143,
+      "start": 390.2,
+      "end": 392.32,
+      "en": "So, I'll be in the town you're in.",
+      "zh": "所以，我会在你所在的城镇。"
+    },
+    {
+      "id": 144,
+      "start": 392.92,
+      "end": 393.22,
+      "en": "This is interesting.",
+      "zh": "这很有趣。"
+    },
+    {
+      "id": 145,
+      "start": 393.68,
+      "end": 397.96,
+      "en": "So, when I'm talking to someone, maybe Marco is in Chicago and I'm in New York.",
+      "zh": "所以，当我和某人说话时，也许马可在芝加哥，我在纽约。"
+    },
+    {
+      "id": 146,
+      "start": 398.48,
+      "end": 401.72,
+      "en": "I call and say, hey, Marco, I'll be in town next week.",
+      "zh": "我打电话说，嘿，马可，下周我会在城里。"
+    },
+    {
+      "id": 147,
+      "start": 401.94,
+      "end": 402.56,
+      "en": "What are you doing?",
+      "zh": "你在做什么？"
+    },
+    {
+      "id": 148,
+      "start": 403.0,
+      "end": 403.14,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 149,
+      "start": 404.04,
+      "end": 405.04,
+      "en": "I'm going to be in Chicago.",
+      "zh": "我要去芝加哥。"
+    },
+    {
+      "id": 150,
+      "start": 405.04,
+      "end": 406.04,
+      "en": "I want to have a drink.",
+      "zh": "我想喝一杯。"
+    },
+    {
+      "id": 151,
+      "start": 406.04,
+      "end": 407.04,
+      "en": "That means I'm going to be where?",
+      "zh": "这意味着我要去哪里？"
+    },
+    {
+      "id": 152,
+      "start": 407.04,
+      "end": 408.04,
+      "en": "You're going to be in Chicago.",
+      "zh": "你会在芝加哥。"
+    },
+    {
+      "id": 153,
+      "start": 408.04,
+      "end": 409.04,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 154,
+      "start": 409.04,
+      "end": 410.04,
+      "en": "I'll be in Chicago like Marco is.",
+      "zh": "我会像马可一样在芝加哥。"
+    },
+    {
+      "id": 155,
+      "start": 410.04,
+      "end": 411.64,
+      "en": "I'm not going to talk about where I am now.",
+      "zh": "我不会谈论我现在在哪里。"
+    },
+    {
+      "id": 156,
+      "start": 411.88,
+      "end": 413.44,
+      "en": "This usually means I'm going somewhere else.",
+      "zh": "这通常意味着我要去别的地方。"
+    },
+    {
+      "id": 157,
+      "start": 413.78,
+      "end": 414.24,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 158,
+      "start": 414.62,
+      "end": 421.68,
+      "en": "So, actually, you can tell your friends that you're going to be in town or sometimes you have to tell someone you're going to be out of town.",
+      "zh": "所以，实际上，你可以告诉你的朋友你要在城里，或者有时你必须告诉别人你要出城。"
+    },
+    {
+      "id": 159,
+      "start": 422.12,
+      "end": 423.1,
+      "en": "I'll be out of town.",
+      "zh": "我会出城的。"
+    },
+    {
+      "id": 160,
+      "start": 423.2,
+      "end": 425.2,
+      "en": "That means I won't be where I am now.",
+      "zh": "这意味着我不会成为现在的我。"
+    },
+    {
+      "id": 161,
+      "start": 425.2,
+      "end": 426.02,
+      "en": "I won't be in New York.",
+      "zh": "我不会在纽约。"
+    },
+    {
+      "id": 162,
+      "start": 426.3,
+      "end": 427.24,
+      "en": "I'll be somewhere else.",
+      "zh": "我会在别的地方。"
+    },
+    {
+      "id": 163,
+      "start": 427.36,
+      "end": 428.64,
+      "en": "I'll be in Chicago.",
+      "zh": "我会在芝加哥。"
+    },
+    {
+      "id": 164,
+      "start": 428.64,
+      "end": 428.84,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 165,
+      "start": 429.64,
+      "end": 430.64,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 166,
+      "start": 430.64,
+      "end": 441.12,
+      "en": "So, we had one where when we were talking specifically about the hotel and maybe what is included with our suite, we asked a very important question.",
+      "zh": "所以，当我们专门谈论酒店以及我们套房包含的内容时，我们问了一个非常重要的问题。"
+    },
+    {
+      "id": 167,
+      "start": 441.12,
+      "end": 442.4,
+      "en": "Is breakfast included?",
+      "zh": "含早餐吗？"
+    },
+    {
+      "id": 168,
+      "start": 443.6,
+      "end": 443.91,
+      "en": "Included in what?",
+      "zh": "包括在什么？"
+    },
+    {
+      "id": 169,
+      "start": 444.6,
+      "end": 445.23,
+      "en": "In the price.",
+      "zh": "在价格中。"
+    },
+    {
+      "id": 170,
+      "start": 445.77,
+      "end": 446.03,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 171,
+      "start": 446.6,
+      "end": 449.63,
+      "en": "So, this is a very common question like you're saying, Marco, but it's not obvious.",
+      "zh": "所以，就像你说的那样，这是一个非常常见的问题，Marco，但这并不明显。"
+    },
+    {
+      "id": 172,
+      "start": 450.12,
+      "end": 452.13,
+      "en": "So when you ask, is breakfast included?",
+      "zh": "所以当你问，早餐包括早餐吗？"
+    },
+    {
+      "id": 173,
+      "start": 452.48,
+      "end": 455.88,
+      "en": "That means do I have to pay extra for breakfast?",
+      "zh": "这意味着我必须为早餐支付额外费用吗？"
+    },
+    {
+      "id": 174,
+      "start": 455.88,
+      "end": 459.72,
+      "en": "If breakfast is included, I don't have to pay.",
+      "zh": "如果包括早餐，我不必付钱。"
+    },
+    {
+      "id": 175,
+      "start": 459.72,
+      "end": 462.89,
+      "en": "If it's not included, that means I have to pay extra for breakfast.",
+      "zh": "如果不包括在内，这意味着我必须支付额外的早餐费用。"
+    },
+    {
+      "id": 176,
+      "start": 463.8,
+      "end": 463.92,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 177,
+      "start": 464.8,
+      "end": 467.4,
+      "en": "And in this case, breakfast is included, but not just any breakfast.",
+      "zh": "在这种情况下，包括早餐，但不仅仅是任何早餐。"
+    },
+    {
+      "id": 178,
+      "start": 467.88,
+      "end": 468.98,
+      "en": "It's a buffet breakfast.",
+      "zh": "这是自助早餐。"
+    },
+    {
+      "id": 179,
+      "start": 469.24,
+      "end": 470.32,
+      "en": "My favorite kind of breakfast.",
+      "zh": "我最喜欢的早餐。"
+    },
+    {
+      "id": 180,
+      "start": 470.76,
+      "end": 472.66,
+      "en": "So, this is pretty common with hotels.",
+      "zh": "所以，这在酒店很常见。"
+    },
+    {
+      "id": 181,
+      "start": 473.54,
+      "end": 478.24,
+      "en": "They will serve a buffet breakfast from 7 a.m. to 9 a.m. or whatever.",
+      "zh": "他们将在早上 7 点至 9 点提供自助早餐。"
+    },
+    {
+      "id": 182,
+      "start": 478.32,
+      "end": 482.26,
+      "en": "A buffet means that there's a room with tables and food on the tables.",
+      "zh": "自助餐意味着有一个房间，桌子上有桌子和食物。"
+    },
+    {
+      "id": 183,
+      "start": 482.76,
+      "end": 482.96,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 184,
+      "start": 483.26,
+      "end": 484.26,
+      "en": "So, you don't order food.",
+      "zh": "所以，你不点菜。"
+    },
+    {
+      "id": 185,
+      "start": 484.8,
+      "end": 485.98,
+      "en": "You just take whatever you want.",
+      "zh": "你只要拿你想要的东西。"
+    },
+    {
+      "id": 186,
+      "start": 486.16,
+      "end": 486.58,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 187,
+      "start": 487.08,
+      "end": 490.94,
+      "en": "So, you can take whatever you want and usually as much as you want.",
+      "zh": "所以，你可以随心所欲地拿走任何你想要的东西。"
+    },
+    {
+      "id": 188,
+      "start": 491.14,
+      "end": 491.82,
+      "en": "That's the best part.",
+      "zh": "这是最好的部分。"
+    },
+    {
+      "id": 189,
+      "start": 492.36,
+      "end": 492.7,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 190,
+      "start": 492.81,
+      "end": 495.03,
+      "en": "So, now we know that breakfast is included.",
+      "zh": "所以，现在我们知道早餐包括在内。"
+    },
+    {
+      "id": 191,
+      "start": 495.63,
+      "end": 496.81,
+      "en": "We know what a room is like.",
+      "zh": "我们知道房间是什么样的。"
+    },
+    {
+      "id": 192,
+      "start": 497.01,
+      "end": 505.11,
+      "en": "So, we're going to make the reservation and the hotel employee says that he needs our credit card details to complete the reservation.",
+      "zh": "所以，我们要预订，酒店员工说他需要我们的信用卡详细信息来完成预订。"
+    },
+    {
+      "id": 193,
+      "start": 505.92,
+      "end": 506.5,
+      "en": "Credit card details.",
+      "zh": "信用卡详细信息。"
+    },
+    {
+      "id": 194,
+      "start": 506.98,
+      "end": 508.46,
+      "en": "Now, you might be wondering what details.",
+      "zh": "现在，您可能想知道哪些细节。"
+    },
+    {
+      "id": 195,
+      "start": 508.96,
+      "end": 513.46,
+      "en": "Credit card details means the specific information on your credit card.",
+      "zh": "信用卡详细信息是指您信用卡上的具体信息。"
+    },
+    {
+      "id": 196,
+      "start": 513.68,
+      "end": 514.28,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 197,
+      "start": 514.64,
+      "end": 518.12,
+      "en": "So, it's pretty common when you're making a purchase on the phone or on the internet.",
+      "zh": "因此，当您在手机或互联网上进行购买时，这很常见。"
+    },
+    {
+      "id": 198,
+      "start": 518.12,
+      "end": 518.82,
+      "en": "You have to enter.",
+      "zh": "你必须进入。"
+    },
+    {
+      "id": 199,
+      "start": 519.12,
+      "end": 520.82,
+      "en": "You have to provide your credit card details.",
+      "zh": "您必须提供您的信用卡详细信息。"
+    },
+    {
+      "id": 200,
+      "start": 521.08,
+      "end": 522.08,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 201,
+      "start": 522.08,
+      "end": 530.22,
+      "en": "That means your name, your credit card number, and the expiration date which is when the card will no longer be useful.",
+      "zh": "这意味着您的姓名、您的信用卡号以及该卡将不再有用的到期日期。"
+    },
+    {
+      "id": 202,
+      "start": 531.3,
+      "end": 538.46,
+      "en": "So, it's necessary because obviously you can say, yeah, I'm going to be there tomorrow and then you don't show up and the hotel loses money.",
+      "zh": "所以，这是必要的，因为显然你可以说，是的，我明天会去那里，然后你就不会出现，酒店赔钱。"
+    },
+    {
+      "id": 203,
+      "start": 538.46,
+      "end": 540.98,
+      "en": "So, they need to make sure that they have you somehow.",
+      "zh": "所以，他们需要确保他们以某种方式拥有你。"
+    },
+    {
+      "id": 204,
+      "start": 541.24,
+      "end": 541.38,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 205,
+      "start": 541.44,
+      "end": 543.0,
+      "en": "That's their way of protecting themselves.",
+      "zh": "这是他们保护自己的方式。"
+    },
+    {
+      "id": 206,
+      "start": 543.52,
+      "end": 546.48,
+      "en": "They want to give you the room but they also don't want to lose money.",
+      "zh": "他们想给你房间，但他们也不想赔钱。"
+    },
+    {
+      "id": 207,
+      "start": 546.48,
+      "end": 547.48,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 208,
+      "start": 547.48,
+      "end": 551.18,
+      "en": "So, let's listen to our dialogue one last time and we'll be back to talk a little bit more.",
+      "zh": "所以，让我们最后一次听我们的对话，我们会回来多说一点。"
+    },
+    {
+      "id": 209,
+      "start": 558.0,
+      "end": 559.62,
+      "en": "Madison Suites, how may I help you?",
+      "zh": "您好，这里是麦迪逊套房酒店，有什么可以帮您？"
+    },
+    {
+      "id": 210,
+      "start": 560.08,
+      "end": 561.76,
+      "en": "Yes, I am calling from Mexico.",
+      "zh": "您好，我从墨西哥打来的。"
+    },
+    {
+      "id": 211,
+      "start": 562.12,
+      "end": 566.28,
+      "en": "I will be in town next week and would like to know if you have availability.",
+      "zh": "我下周会到贵地，想问问还有空房吗？"
+    },
+    {
+      "id": 212,
+      "start": 566.74,
+      "end": 567.32,
+      "en": "Okay, ma'am.",
+      "zh": "好的，女士。"
+    },
+    {
+      "id": 213,
+      "start": 567.4,
+      "end": 569.38,
+      "en": "Can you tell me the date you expect to check in?",
+      "zh": "请问您预计哪天入住？"
+    },
+    {
+      "id": 214,
+      "start": 569.8,
+      "end": 571.28,
+      "en": "Yes, July 9th.",
+      "zh": "七月九日。"
+    },
+    {
+      "id": 215,
+      "start": 571.3,
+      "end": 572.76,
+      "en": "I will be there for seven nights.",
+      "zh": "我会住七晚。"
+    },
+    {
+      "id": 216,
+      "start": 573.28,
+      "end": 577.54,
+      "en": "We have a junior single suite or a superior double suite available for those dates.",
+      "zh": "那几天有小型单人套房和高级双人套房可供选择。"
+    },
+    {
+      "id": 217,
+      "start": 577.92,
+      "end": 578.62,
+      "en": "What's the difference?",
+      "zh": "有什么区别？"
+    },
+    {
+      "id": 218,
+      "start": 579.02,
+      "end": 583.52,
+      "en": "The junior suite is smaller and has one twin bed, while the superior suite has a double bed and minibar.",
+      "zh": "小型套房较小，配有一张单人床，而高级套房设有一张双人床和迷你吧。"
+    },
+    {
+      "id": 219,
+      "start": 583.52,
+      "end": 586.1,
+      "en": "Okay, I would like to reserve the superior suite.",
+      "zh": "好的，我想预订高级套房。"
+    },
+    {
+      "id": 220,
+      "start": 586.5,
+      "end": 587.52,
+      "en": "Is breakfast included?",
+      "zh": "含早餐吗？"
+    },
+    {
+      "id": 221,
+      "start": 588.0,
+      "end": 590.08,
+      "en": "Yes, a buffet breakfast is served every morning.",
+      "zh": "含，每天早上供应自助早餐。"
+    },
+    {
+      "id": 222,
+      "start": 590.26,
+      "end": 593.44,
+      "en": "I will need your name and your credit card details in order to complete the reservation.",
+      "zh": "要完成预订，我需要您的姓名和信用卡信息。"
+    },
+    {
+      "id": 223,
+      "start": 593.98,
+      "end": 595.7,
+      "en": "Sure, my credit card number is...",
+      "zh": "当然，我的信用卡号码是..."
+    },
+    {
+      "id": 224,
+      "start": 600.49,
+      "end": 601.07,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 225,
+      "start": 601.07,
+      "end": 612.09,
+      "en": "So talking about hotels, I think one of the most important things out of this, well, not important, but also something that you should know is that the minibar is always so expensive.",
+      "zh": "所以说到酒店，我认为最重要的事情之一，嗯，不重要，但你应该知道的是，迷你吧总是那么贵。"
+    },
+    {
+      "id": 226,
+      "start": 612.67,
+      "end": 613.59,
+      "en": "It is expensive.",
+      "zh": "它很贵。"
+    },
+    {
+      "id": 227,
+      "start": 614.08,
+      "end": 616.96,
+      "en": "Be very careful when you're going into that minibar.",
+      "zh": "当你进入那个迷你吧时要非常小心。"
+    },
+    {
+      "id": 228,
+      "start": 616.96,
+      "end": 618.56,
+      "en": "Sometimes it seems like a really good idea.",
+      "zh": "有时这似乎是一个非常好的主意。"
+    },
+    {
+      "id": 229,
+      "start": 618.56,
+      "end": 620.93,
+      "en": "You're hungry and there are crackers or you want a beer.",
+      "zh": "你饿了，有饼干，或者你想要啤酒。"
+    },
+    {
+      "id": 230,
+      "start": 620.93,
+      "end": 630.52,
+      "en": "But you have to look at the menu because the menu will have the prices and maybe something that's really cheap in a store outside is really expensive at a hotel.",
+      "zh": "但是你必须看菜单，因为菜单有价格，也许外面商店里真正便宜的东西在酒店真的很贵。"
+    },
+    {
+      "id": 231,
+      "start": 631.5,
+      "end": 638.1,
+      "en": "And I think sometimes, I don't know, sometimes it's even hard to find that little menu so you don't even know what the prices are.",
+      "zh": "我想有时，我不知道，有时甚至很难找到那个小菜单，所以你甚至不知道价格是多少。"
+    },
+    {
+      "id": 232,
+      "start": 638.2,
+      "end": 642.4,
+      "en": "But you're so thirsty, you just want to have something to drink now and it ends up costing you $10.",
+      "zh": "但你太口渴了，你现在只想喝点东西，最终要花 10 美元。"
+    },
+    {
+      "id": 233,
+      "start": 643.08,
+      "end": 643.68,
+      "en": "So, be careful.",
+      "zh": "所以，要小心。"
+    },
+    {
+      "id": 234,
+      "start": 644.08,
+      "end": 648.9,
+      "en": "Anytime you're in a hotel room, expect the prices to be pretty high for the things in the hotel.",
+      "zh": "每当您在酒店房间时，预计酒店内的价格都会非常高。"
+    },
+    {
+      "id": 235,
+      "start": 649.56,
+      "end": 655.28,
+      "en": "Unless, of course, there's a sign or a piece of paper that says that something is free or complimentary.",
+      "zh": "当然，除非有一个标志或一张纸，上面写着东西是免费的或免费的。"
+    },
+    {
+      "id": 236,
+      "start": 655.64,
+      "end": 656.38,
+      "en": "Yeah, that's right.",
+      "zh": "对，没错。"
+    },
+    {
+      "id": 237,
+      "start": 657.16,
+      "end": 659.0,
+      "en": "Complimentary water is very common in hotels.",
+      "zh": "免费水在酒店很常见。"
+    },
+    {
+      "id": 238,
+      "start": 659.0,
+      "end": 660.8,
+      "en": "They'll give you two free bottles of water.",
+      "zh": "他们会给你两瓶免费的水。"
+    },
+    {
+      "id": 239,
+      "start": 660.8,
+      "end": 661.8,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 240,
+      "start": 661.8,
+      "end": 663.56,
+      "en": "So, complimentary means you don't have to pay for it.",
+      "zh": "因此，免费意味着您不必为此付费。"
+    },
+    {
+      "id": 241,
+      "start": 663.72,
+      "end": 666.02,
+      "en": "But if there's no sign, then expect to pay a lot.",
+      "zh": "但如果没有迹象，那么期望付出很多。"
+    },
+    {
+      "id": 242,
+      "start": 666.28,
+      "end": 666.62,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 243,
+      "start": 667.48,
+      "end": 668.48,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 244,
+      "start": 668.48,
+      "end": 673.68,
+      "en": "So, if you guys have any questions or any doubts or you want to suggest any other lesson topic, you can visit us at EnglishPod.com.",
+      "zh": "因此，如果你们有任何问题或任何疑问，或者您想建议任何其他课程主题，您可以访问 englishpod.com。"
+    },
+    {
+      "id": 245,
+      "start": 674.06,
+      "end": 674.88,
+      "en": "We'll hope to see you there.",
+      "zh": "我们希望在那里见到你。"
+    },
+    {
+      "id": 246,
+      "start": 675.14,
+      "end": 675.7,
+      "en": "Until next time.",
+      "zh": "下次再见。"
+    },
+    {
+      "id": 247,
+      "start": 676.16,
+      "end": 677.16,
+      "en": "Bye.",
+      "zh": "再见。"
+    }
+  ],
+  "dialog": {
+    "start": 318.72,
+    "end": 362.94,
+    "segmentIds": [
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130
+    ]
+  }
+}

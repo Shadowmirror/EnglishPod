@@ -1,0 +1,1507 @@
+{
+  "version": 1,
+  "id": 23,
+  "number": "0023",
+  "title": "The Office - Making an Appointment",
+  "audio": "mp3/23. The Office - Making an Appointment.mp3",
+  "duration": 601.9135,
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.71,
+      "end": 5.51,
+      "en": "Hello English learners, welcome to another great lesson with EnglishPod.",
+      "zh": "您好英语学习者，欢迎使用 EnglishPod 的另一堂精彩课程。"
+    },
+    {
+      "id": 2,
+      "start": 5.76,
+      "end": 6.55,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 7.22,
+      "end": 8.22,
+      "en": "And I'm Erika.",
+      "zh": "我叫 Erika。"
+    },
+    {
+      "id": 4,
+      "start": 8.39,
+      "end": 9.81,
+      "en": "So, Erika, how are you today?",
+      "zh": "那么，埃里卡，你今天好吗？"
+    },
+    {
+      "id": 5,
+      "start": 10.12,
+      "end": 10.89,
+      "en": "I'm doing pretty well.",
+      "zh": "我做得很好。"
+    },
+    {
+      "id": 6,
+      "start": 11.18,
+      "end": 14.72,
+      "en": "And I think we've got a good lesson today, a really helpful lesson.",
+      "zh": "我认为我们今天有一个很好的教训，一个非常有用的教训。"
+    },
+    {
+      "id": 7,
+      "start": 14.96,
+      "end": 15.94,
+      "en": "What are we talking about today?",
+      "zh": "我们今天在说什么？"
+    },
+    {
+      "id": 8,
+      "start": 16.22,
+      "end": 19.92,
+      "en": "We have an elementary lesson about making an appointment.",
+      "zh": "我们有一个关于预约的基本课程。"
+    },
+    {
+      "id": 9,
+      "start": 20.12,
+      "end": 21.68,
+      "en": "Alright, making an appointment.",
+      "zh": "好吧，预约。"
+    },
+    {
+      "id": 10,
+      "start": 22.04,
+      "end": 22.8,
+      "en": "Yeah, that's really helpful.",
+      "zh": "是的，这真的很有帮助。"
+    },
+    {
+      "id": 11,
+      "start": 23.02,
+      "end": 26.1,
+      "en": "I guess you have to make appointments for the doctor or...",
+      "zh": "我想你必须预约医生或..."
+    },
+    {
+      "id": 12,
+      "start": 26.56,
+      "end": 27.4,
+      "en": "At work maybe.",
+      "zh": "也许在工作中。"
+    },
+    {
+      "id": 13,
+      "start": 27.56,
+      "end": 28.56,
+      "en": "At work, personal.",
+      "zh": "在工作中，个人。"
+    },
+    {
+      "id": 14,
+      "start": 28.56,
+      "end": 29.56,
+      "en": "Or with your friends, yeah.",
+      "zh": "或者和你的朋友一起，是的。"
+    },
+    {
+      "id": 15,
+      "start": 29.8,
+      "end": 33.06,
+      "en": "So, this is language that you can use every day to make appointments.",
+      "zh": "因此，这是您可以每天使用的语言来进行约会。"
+    },
+    {
+      "id": 16,
+      "start": 33.68,
+      "end": 33.82,
+      "en": "Great.",
+      "zh": "太好了。"
+    },
+    {
+      "id": 17,
+      "start": 34.1,
+      "end": 38.18,
+      "en": "Well, so, why don't we take a look at our vocabulary preview.",
+      "zh": "那么，我们为什么不看看我们的词汇预览。"
+    },
+    {
+      "id": 18,
+      "start": 39.17,
+      "end": 40.15,
+      "en": "Vocabulary Preview.",
+      "zh": "词汇预习。"
+    },
+    {
+      "id": 19,
+      "start": 41.04,
+      "end": 46.74,
+      "en": "We only have one word today which you need to know to understand this dialogue.",
+      "zh": "我们今天只有一个词，您需要知道才能理解这种对话。"
+    },
+    {
+      "id": 20,
+      "start": 46.74,
+      "end": 49.64,
+      "en": "And it is financial advisor.",
+      "zh": "它是财务顾问。"
+    },
+    {
+      "id": 21,
+      "start": 51.0,
+      "end": 52.92,
+      "en": "Financial advisor.",
+      "zh": "理财顾问。"
+    },
+    {
+      "id": 22,
+      "start": 52.92,
+      "end": 54.48,
+      "en": "Financial advisor.",
+      "zh": "理财顾问。"
+    },
+    {
+      "id": 23,
+      "start": 54.48,
+      "end": 56.62,
+      "en": "So, what is a financial advisor?",
+      "zh": "那么，什么是财务顾问？"
+    },
+    {
+      "id": 24,
+      "start": 57.12,
+      "end": 65.82,
+      "en": "A financial advisor is a person who gives suggestions or recommendations about investing money.",
+      "zh": "财务顾问是提供有关投资资金的建议或建议的人。"
+    },
+    {
+      "id": 25,
+      "start": 66.06,
+      "end": 69.68,
+      "en": "Someone who wants you to put money in the stock market.",
+      "zh": "一个希望你把钱投入股市的人。"
+    },
+    {
+      "id": 26,
+      "start": 69.88,
+      "end": 70.86,
+      "en": "Okay, great.",
+      "zh": "好，太好了。"
+    },
+    {
+      "id": 27,
+      "start": 71.26,
+      "end": 73.92,
+      "en": "I guess we're ready now to listen to our dialogue for the first time.",
+      "zh": "我想我们现在已经准备好第一次听我们的对话了。"
+    },
+    {
+      "id": 28,
+      "start": 74.36,
+      "end": 79.32,
+      "en": "And as always, it's going to be at a normal speed, but you don't have to worry about it because...",
+      "zh": "和往常一样，它会以正常速度，但你不必担心它，因为..."
+    },
+    {
+      "id": 29,
+      "start": 79.32,
+      "end": 81.8,
+      "en": "We'll come back and teach you all the important words.",
+      "zh": "我们会回来教你所有重要的词。"
+    },
+    {
+      "id": 30,
+      "start": 90.68,
+      "end": 91.12,
+      "en": "Hello?",
+      "zh": "喂？"
+    },
+    {
+      "id": 31,
+      "start": 91.88,
+      "end": 92.36,
+      "en": "Fairbrook Consulting.",
+      "zh": "费尔布鲁克咨询。"
+    },
+    {
+      "id": 32,
+      "start": 93.0,
+      "end": 93.62,
+      "en": "How may I help you?",
+      "zh": "有什么可以帮您？"
+    },
+    {
+      "id": 33,
+      "start": 94.3,
+      "end": 95.6,
+      "en": "Yes, this is Julianne Horton.",
+      "zh": "是的，这是朱丽安·霍顿。"
+    },
+    {
+      "id": 34,
+      "start": 96.12,
+      "end": 98.5,
+      "en": "And I'm calling to arrange an appointment with Ms. McNeely.",
+      "zh": "我打电话是想约见麦克尼利女士。"
+    },
+    {
+      "id": 35,
+      "start": 99.34,
+      "end": 99.58,
+      "en": "Certainly.",
+      "zh": "当然可以。"
+    },
+    {
+      "id": 36,
+      "start": 99.92,
+      "end": 100.94,
+      "en": "What day were you thinking of?",
+      "zh": "您想约哪天？"
+    },
+    {
+      "id": 37,
+      "start": 101.42,
+      "end": 102.14,
+      "en": "How's Thursday?",
+      "zh": "星期四怎么样？"
+    },
+    {
+      "id": 38,
+      "start": 102.54,
+      "end": 103.9,
+      "en": "Does she have any time available then?",
+      "zh": "她那天有空吗？"
+    },
+    {
+      "id": 39,
+      "start": 104.4,
+      "end": 105.42,
+      "en": "Um, let me double check.",
+      "zh": "嗯，让我仔细检查一下。"
+    },
+    {
+      "id": 40,
+      "start": 106.72,
+      "end": 108.39,
+      "en": "Unfortunately, she's booked solid on Thursday.",
+      "zh": "很抱歉，她周四的日程排满了。"
+    },
+    {
+      "id": 41,
+      "start": 108.85,
+      "end": 110.05,
+      "en": "How does next Monday work for you?",
+      "zh": "下周一您方便吗？"
+    },
+    {
+      "id": 42,
+      "start": 110.37,
+      "end": 112.25,
+      "en": "Actually, I've got something scheduled on Monday.",
+      "zh": "其实我周一另有安排。"
+    },
+    {
+      "id": 43,
+      "start": 113.0,
+      "end": 113.63,
+      "en": "Can't you do Tuesday?",
+      "zh": "那周二呢？"
+    },
+    {
+      "id": 44,
+      "start": 114.72,
+      "end": 115.65,
+      "en": "Sure, Tuesday's perfect.",
+      "zh": "当然，周二正好。"
+    },
+    {
+      "id": 45,
+      "start": 116.84,
+      "end": 118.13,
+      "en": "May I ask where you're calling from?",
+      "zh": "请问您是哪家公司的？"
+    },
+    {
+      "id": 46,
+      "start": 118.51,
+      "end": 118.81,
+      "en": "Sure.",
+      "zh": "当然。"
+    },
+    {
+      "id": 47,
+      "start": 119.68,
+      "end": 121.68,
+      "en": "Merton Financial Advisors.",
+      "zh": "默顿财务顾问公司。"
+    },
+    {
+      "id": 48,
+      "start": 121.68,
+      "end": 122.68,
+      "en": "Oh.",
+      "zh": "哦。"
+    },
+    {
+      "id": 49,
+      "start": 122.68,
+      "end": 123.87,
+      "en": "Actually, Tuesday's no good.",
+      "zh": "其实周二不行。"
+    },
+    {
+      "id": 50,
+      "start": 124.31,
+      "end": 124.83,
+      "en": "Sorry about that.",
+      "zh": "抱歉。"
+    },
+    {
+      "id": 51,
+      "start": 129.99,
+      "end": 136.15,
+      "en": "Well, I guess Ms. McNeely does not want to speak to any financial advisors.",
+      "zh": "好吧，我猜麦克尼利女士不想与任何财务顾问交谈。"
+    },
+    {
+      "id": 52,
+      "start": 136.73,
+      "end": 139.31,
+      "en": "Yeah, I guess she doesn't really want to invest in the stock market.",
+      "zh": "是的，我猜她真的不想投资股票市场。"
+    },
+    {
+      "id": 53,
+      "start": 139.45,
+      "end": 141.91,
+      "en": "Or maybe she just gets too many phone calls from them.",
+      "zh": "或者她只是接到了太多的电话。"
+    },
+    {
+      "id": 54,
+      "start": 142.44,
+      "end": 143.44,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 55,
+      "start": 143.44,
+      "end": 145.83,
+      "en": "If you have money, I guess you'll get phone calls from people like that.",
+      "zh": "如果你有钱，我想你会接到这样的人的电话。"
+    },
+    {
+      "id": 56,
+      "start": 146.0,
+      "end": 148.08,
+      "en": "I guess we don't have that problem, hey?",
+      "zh": "我想我们没有这个问题，嘿？"
+    },
+    {
+      "id": 57,
+      "start": 148.08,
+      "end": 148.89,
+      "en": "No, we don't.",
+      "zh": "不，我们没有。"
+    },
+    {
+      "id": 58,
+      "start": 149.36,
+      "end": 152.39,
+      "en": "Okay, let's start with our language takeaway for today.",
+      "zh": "好的，让我们从今天的语言外卖开始。"
+    },
+    {
+      "id": 59,
+      "start": 155.0,
+      "end": 155.33,
+      "en": "Language takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 60,
+      "start": 157.36,
+      "end": 158.31,
+      "en": "So four words today.",
+      "zh": "所以今天四个字。"
+    },
+    {
+      "id": 61,
+      "start": 159.0,
+      "end": 160.75,
+      "en": "The first one is available.",
+      "zh": "第一个是可用的。"
+    },
+    {
+      "id": 62,
+      "start": 161.12,
+      "end": 162.12,
+      "en": "Available.",
+      "zh": "有空的。"
+    },
+    {
+      "id": 63,
+      "start": 162.12,
+      "end": 163.12,
+      "en": "Available.",
+      "zh": "有空的。"
+    },
+    {
+      "id": 64,
+      "start": 163.12,
+      "end": 164.12,
+      "en": "Available.",
+      "zh": "有空的。"
+    },
+    {
+      "id": 65,
+      "start": 164.12,
+      "end": 167.88,
+      "en": "Available, meaning that you are not busy.",
+      "zh": "可用，这意味着您不忙。"
+    },
+    {
+      "id": 66,
+      "start": 167.88,
+      "end": 168.27,
+      "en": "That you're free.",
+      "zh": "你是自由的。"
+    },
+    {
+      "id": 67,
+      "start": 168.49,
+      "end": 168.79,
+      "en": "You're free.",
+      "zh": "你是自由的。"
+    },
+    {
+      "id": 68,
+      "start": 168.97,
+      "end": 169.43,
+      "en": "You're not busy.",
+      "zh": "你不忙。"
+    },
+    {
+      "id": 69,
+      "start": 170.88,
+      "end": 171.88,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 70,
+      "start": 171.88,
+      "end": 172.88,
+      "en": "Let's move to our next word.",
+      "zh": "让我们转到我们的下一个词。"
+    },
+    {
+      "id": 71,
+      "start": 172.88,
+      "end": 173.09,
+      "en": "Double check.",
+      "zh": "再核对一遍。"
+    },
+    {
+      "id": 72,
+      "start": 173.88,
+      "end": 174.37,
+      "en": "Double check.",
+      "zh": "再核对一遍。"
+    },
+    {
+      "id": 73,
+      "start": 174.88,
+      "end": 175.88,
+      "en": "Double check.",
+      "zh": "再核对一遍。"
+    },
+    {
+      "id": 74,
+      "start": 175.88,
+      "end": 177.88,
+      "en": "Double check.",
+      "zh": "再核对一遍。"
+    },
+    {
+      "id": 75,
+      "start": 177.89,
+      "end": 180.07,
+      "en": "I think we've got some examples of this phrase.",
+      "zh": "我想我们有一些这个短语的例子。"
+    },
+    {
+      "id": 76,
+      "start": 181.21,
+      "end": 182.15,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 77,
+      "start": 184.66,
+      "end": 186.08,
+      "en": "Do you have the tickets?",
+      "zh": "你有门票吗？"
+    },
+    {
+      "id": 78,
+      "start": 186.75,
+      "end": 189.73,
+      "en": "I think so, but let me just double check.",
+      "zh": "我想是的，但让我仔细检查一下。"
+    },
+    {
+      "id": 79,
+      "start": 193.76,
+      "end": 194.01,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 80,
+      "start": 197.75,
+      "end": 202.43,
+      "en": "I thought I sent that email already, but let me double check.",
+      "zh": "我以为我已经发送了那封电子邮件，但让我仔细检查一下。"
+    },
+    {
+      "id": 81,
+      "start": 206.02,
+      "end": 209.72,
+      "en": "Okay, so double check basically means to check something twice.",
+      "zh": "好的，所以仔细检查基本上意味着检查两次。"
+    },
+    {
+      "id": 82,
+      "start": 210.24,
+      "end": 211.24,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 83,
+      "start": 211.24,
+      "end": 211.42,
+      "en": "To check it again.",
+      "zh": "再次检查它。"
+    },
+    {
+      "id": 84,
+      "start": 212.24,
+      "end": 213.24,
+      "en": "Check it again.",
+      "zh": "再检查一下。"
+    },
+    {
+      "id": 85,
+      "start": 213.24,
+      "end": 214.24,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 86,
+      "start": 214.24,
+      "end": 216.84,
+      "en": "Our third word for language takeaway today is scheduled.",
+      "zh": "我们今天安排的第三个语言外卖单词已安排好。"
+    },
+    {
+      "id": 87,
+      "start": 217.62,
+      "end": 218.18,
+      "en": "Scheduled.",
+      "zh": "已安排好的。"
+    },
+    {
+      "id": 88,
+      "start": 218.24,
+      "end": 219.24,
+      "en": "Scheduled.",
+      "zh": "已安排好的。"
+    },
+    {
+      "id": 89,
+      "start": 219.24,
+      "end": 219.72,
+      "en": "Scheduled.",
+      "zh": "已安排好的。"
+    },
+    {
+      "id": 90,
+      "start": 220.24,
+      "end": 221.24,
+      "en": "S-C-H-E-D-U-L-D.",
+      "zh": "拼写是 S-C-H-E-D-U-L-D。"
+    },
+    {
+      "id": 91,
+      "start": 221.24,
+      "end": 222.24,
+      "en": "Scheduled.",
+      "zh": "已安排好的。"
+    },
+    {
+      "id": 92,
+      "start": 222.24,
+      "end": 223.24,
+      "en": "Scheduled.",
+      "zh": "已安排好的。"
+    },
+    {
+      "id": 93,
+      "start": 223.24,
+      "end": 224.24,
+      "en": "So, when you have something scheduled, it means that you have something planned, right?",
+      "zh": "所以，当你安排好一些事情时，这意味着你有计划，对吧？"
+    },
+    {
+      "id": 94,
+      "start": 224.24,
+      "end": 225.24,
+      "en": "Yeah, or booked at that time.",
+      "zh": "是的，或者当时预订了。"
+    },
+    {
+      "id": 95,
+      "start": 225.24,
+      "end": 226.24,
+      "en": "Booked at that time.",
+      "zh": "当时订的。"
+    },
+    {
+      "id": 96,
+      "start": 226.24,
+      "end": 227.24,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 97,
+      "start": 227.24,
+      "end": 228.24,
+      "en": "We've got a lunch scheduled this afternoon, don't we?",
+      "zh": "下午我们安排了午餐，不是吗？"
+    },
+    {
+      "id": 98,
+      "start": 228.24,
+      "end": 229.24,
+      "en": "Yes, we do.",
+      "zh": "是的，我们有。"
+    },
+    {
+      "id": 99,
+      "start": 229.24,
+      "end": 230.24,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 100,
+      "start": 230.24,
+      "end": 231.24,
+      "en": "A great lunch.",
+      "zh": "很棒的午餐。"
+    },
+    {
+      "id": 101,
+      "start": 231.24,
+      "end": 232.24,
+      "en": "Looking forward to it.",
+      "zh": "期待它。"
+    },
+    {
+      "id": 102,
+      "start": 232.24,
+      "end": 236.24,
+      "en": "And our last word for today is booked solid.",
+      "zh": "我们今天的最后一个词是可靠的。"
+    },
+    {
+      "id": 103,
+      "start": 236.24,
+      "end": 237.24,
+      "en": "Booked solid.",
+      "zh": "预约满了。"
+    },
+    {
+      "id": 104,
+      "start": 237.24,
+      "end": 238.24,
+      "en": "Booked solid.",
+      "zh": "预约满了。"
+    },
+    {
+      "id": 105,
+      "start": 238.24,
+      "end": 239.24,
+      "en": "B-O-O-K-E-D.",
+      "zh": "拼写是 B-O-O-K-E-D。"
+    },
+    {
+      "id": 106,
+      "start": 239.24,
+      "end": 241.24,
+      "en": "Booked solid.",
+      "zh": "预约满了。"
+    },
+    {
+      "id": 107,
+      "start": 241.24,
+      "end": 245.62,
+      "en": "And our last word for today is booked solid.",
+      "zh": "我们今天的最后一个词是可靠的。"
+    },
+    {
+      "id": 108,
+      "start": 248.92,
+      "end": 258.34,
+      "en": "So we have some great examples on how you can use this great phrase, booked solid, and you can understand what it means.",
+      "zh": "因此，我们有一些很好的例子来说明您如何使用这个伟大的短语，预订得很扎实，并且您可以理解它的含义。"
+    },
+    {
+      "id": 109,
+      "start": 260.24,
+      "end": 264.24,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 110,
+      "start": 264.24,
+      "end": 266.24,
+      "en": "I can't get a hotel room.",
+      "zh": "我买不到酒店房间。"
+    },
+    {
+      "id": 111,
+      "start": 266.24,
+      "end": 267.65,
+      "en": "They're booked solid until after the New Year.",
+      "zh": "直到新年之后，它们的预订量都很稳定。"
+    },
+    {
+      "id": 112,
+      "start": 272.24,
+      "end": 276.24,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 113,
+      "start": 276.24,
+      "end": 278.24,
+      "en": "I'm sorry, there are no seats available on this flight.",
+      "zh": "很抱歉，此航班没有座位。"
+    },
+    {
+      "id": 114,
+      "start": 278.24,
+      "end": 283.24,
+      "en": "I'm booked solid over the Christmas holidays.",
+      "zh": "我在圣诞节假期订满了。"
+    },
+    {
+      "id": 115,
+      "start": 283.24,
+      "end": 287.24,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 116,
+      "start": 287.59,
+      "end": 289.63,
+      "en": "Sorry, I can't meet with you today.",
+      "zh": "对不起，我今天不能和你见面。"
+    },
+    {
+      "id": 117,
+      "start": 290.09,
+      "end": 291.03,
+      "en": "I'm booked solid.",
+      "zh": "我订的很稳。"
+    },
+    {
+      "id": 118,
+      "start": 294.7,
+      "end": 295.24,
+      "en": "Okay, great.",
+      "zh": "好，太好了。"
+    },
+    {
+      "id": 119,
+      "start": 295.62,
+      "end": 296.9,
+      "en": "So, booked solid basically is?",
+      "zh": "那么，预订实质上是？"
+    },
+    {
+      "id": 120,
+      "start": 297.24,
+      "end": 300.24,
+      "en": "You have no free time, no available time.",
+      "zh": "你没有空闲时间，没有空闲时间。"
+    },
+    {
+      "id": 121,
+      "start": 300.98,
+      "end": 301.24,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 122,
+      "start": 301.86,
+      "end": 304.24,
+      "en": "So, you've got appointments scheduled all day.",
+      "zh": "所以，你已经安排了一整天的约会。"
+    },
+    {
+      "id": 123,
+      "start": 304.92,
+      "end": 305.24,
+      "en": "All day, great.",
+      "zh": "一整天，太好了。"
+    },
+    {
+      "id": 124,
+      "start": 305.24,
+      "end": 306.24,
+      "en": "Mm-hmm.",
+      "zh": "嗯。"
+    },
+    {
+      "id": 125,
+      "start": 306.24,
+      "end": 310.24,
+      "en": "So, with this in mind, now we can listen to our dialogue a second time.",
+      "zh": "所以，考虑到这一点，现在我们可以第二次听我们的对话了。"
+    },
+    {
+      "id": 126,
+      "start": 310.34,
+      "end": 313.78,
+      "en": "This time, it's going to be slow, so we can understand a little bit better.",
+      "zh": "这一次，它会很慢，所以我们可以更好地理解一点。"
+    },
+    {
+      "id": 127,
+      "start": 319.24,
+      "end": 322.24,
+      "en": "Hello, Fairbrook Consulting.",
+      "zh": "您好，费尔布鲁克咨询。"
+    },
+    {
+      "id": 128,
+      "start": 322.35,
+      "end": 323.23,
+      "en": "How may I help you?",
+      "zh": "有什么可以帮您？"
+    },
+    {
+      "id": 129,
+      "start": 323.72,
+      "end": 330.6,
+      "en": "Yes, this is Julianne Horton, and I'm calling to arrange an appointment with Ms. McNeely.",
+      "zh": "是的，这是 Julianne Horton，我打电话给 McNeely 女士安排约会。"
+    },
+    {
+      "id": 130,
+      "start": 331.08,
+      "end": 331.74,
+      "en": "Certainly.",
+      "zh": "当然可以。"
+    },
+    {
+      "id": 131,
+      "start": 332.48,
+      "end": 334.14,
+      "en": "What date were you thinking of?",
+      "zh": "你想到的是什么日期？"
+    },
+    {
+      "id": 132,
+      "start": 334.5,
+      "end": 335.46,
+      "en": "How's Thursday?",
+      "zh": "星期四怎么样？"
+    },
+    {
+      "id": 133,
+      "start": 336.52,
+      "end": 339.16,
+      "en": "Does she have any time available then?",
+      "zh": "她那天有空吗？"
+    },
+    {
+      "id": 134,
+      "start": 340.24,
+      "end": 342.1,
+      "en": "Um, let me double check.",
+      "zh": "嗯，让我仔细检查一下。"
+    },
+    {
+      "id": 135,
+      "start": 343.24,
+      "end": 346.4,
+      "en": "No, unfortunately, she's booked solid on Thursday.",
+      "zh": "不，不幸的是，她周四预订得很好。"
+    },
+    {
+      "id": 136,
+      "start": 347.28,
+      "end": 349.12,
+      "en": "How does next Monday work for you?",
+      "zh": "下周一您方便吗？"
+    },
+    {
+      "id": 137,
+      "start": 349.88,
+      "end": 353.24,
+      "en": "Actually, I've got something scheduled on Monday.",
+      "zh": "其实我周一另有安排。"
+    },
+    {
+      "id": 138,
+      "start": 353.92,
+      "end": 355.32,
+      "en": "Can she do Tuesday?",
+      "zh": "她可以在星期二做吗？"
+    },
+    {
+      "id": 139,
+      "start": 356.2,
+      "end": 358.24,
+      "en": "Sure, Tuesday's perfect.",
+      "zh": "当然，周二正好。"
+    },
+    {
+      "id": 140,
+      "start": 359.4,
+      "end": 361.02,
+      "en": "May I ask where you're calling from?",
+      "zh": "请问您是哪家公司的？"
+    },
+    {
+      "id": 141,
+      "start": 361.9,
+      "end": 364.5,
+      "en": "Sure, Merton Financial Advisors.",
+      "zh": "当然，默顿理财顾问公司。"
+    },
+    {
+      "id": 142,
+      "start": 365.24,
+      "end": 365.46,
+      "en": "Oh.",
+      "zh": "哦。"
+    },
+    {
+      "id": 143,
+      "start": 366.88,
+      "end": 369.34,
+      "en": "Actually, Tuesday's no good.",
+      "zh": "其实周二不行。"
+    },
+    {
+      "id": 144,
+      "start": 370.0,
+      "end": 370.6,
+      "en": "Sorry about that.",
+      "zh": "抱歉。"
+    },
+    {
+      "id": 145,
+      "start": 373.91,
+      "end": 379.09,
+      "en": "Okay, so now it's a little bit more clear, and with this, we can start with putting it together.",
+      "zh": "好的，现在它更清楚一点，有了这个，我们可以开始把它放在一起。"
+    },
+    {
+      "id": 146,
+      "start": 381.69,
+      "end": 382.47,
+      "en": "Putting it together.",
+      "zh": "综合运用。"
+    },
+    {
+      "id": 147,
+      "start": 384.24,
+      "end": 392.86,
+      "en": "There's some great examples in this dialogue of phrases you can use when you need to schedule an appointment, and we're going to look at those today.",
+      "zh": "在您需要安排约会时可以使用的短语对话中有一些很好的示例，我们今天将查看这些短语。"
+    },
+    {
+      "id": 148,
+      "start": 393.56,
+      "end": 399.6,
+      "en": "In the dialogue, we heard Julianne ask about making an appointment, and she said this.",
+      "zh": "在对话中，我们听到 Julianne 询问预约，她这么说。"
+    },
+    {
+      "id": 149,
+      "start": 400.24,
+      "end": 404.24,
+      "en": "I'm calling to arrange an appointment with Ms. McNeely.",
+      "zh": "我打电话给麦克尼利女士安排约会。"
+    },
+    {
+      "id": 150,
+      "start": 405.84,
+      "end": 410.08,
+      "en": "I'm calling to arrange an appointment with Ms. McNeely.",
+      "zh": "我打电话给麦克尼利女士安排约会。"
+    },
+    {
+      "id": 151,
+      "start": 411.37,
+      "end": 417.15,
+      "en": "So this is a great way to schedule an appointment, to ask for some time from somebody else.",
+      "zh": "所以这是安排约会的好方法，向别人询问一些时间。"
+    },
+    {
+      "id": 152,
+      "start": 417.47,
+      "end": 420.11,
+      "en": "Yeah, and we have some more examples of this phrase.",
+      "zh": "是的，我们还有一些这个短语的例子。"
+    },
+    {
+      "id": 153,
+      "start": 421.53,
+      "end": 422.35,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 154,
+      "start": 423.48,
+      "end": 426.06,
+      "en": "Please book an appointment for next week.",
+      "zh": "请预约下周的预约。"
+    },
+    {
+      "id": 155,
+      "start": 427.84,
+      "end": 428.6,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 156,
+      "start": 429.96,
+      "end": 432.88,
+      "en": "Please schedule an appointment for next week.",
+      "zh": "请安排下周的预约。"
+    },
+    {
+      "id": 157,
+      "start": 434.24,
+      "end": 441.1,
+      "en": "Great, so after that, when you're scheduling an appointment, you need to suggest a day when maybe that person has time.",
+      "zh": "太好了，所以在那之后，当你安排约会时，你需要建议一个人有时间的时间。"
+    },
+    {
+      "id": 158,
+      "start": 441.46,
+      "end": 443.9,
+      "en": "Yes, let's listen to what they said in the dialogue.",
+      "zh": "是的，让我们听听他们在对话中所说的话。"
+    },
+    {
+      "id": 159,
+      "start": 450.62,
+      "end": 451.42,
+      "en": "How's Thursday?",
+      "zh": "星期四怎么样？"
+    },
+    {
+      "id": 160,
+      "start": 451.84,
+      "end": 453.24,
+      "en": "Does she have any time available then?",
+      "zh": "她那天有空吗？"
+    },
+    {
+      "id": 161,
+      "start": 454.61,
+      "end": 457.31,
+      "en": "You say, well, how's Thursday or how's Tuesday?",
+      "zh": "你说，好吧，星期四或星期二怎么样？"
+    },
+    {
+      "id": 162,
+      "start": 458.24,
+      "end": 461.67,
+      "en": "And maybe that person doesn't have time that day, so they'll say something like this.",
+      "zh": "也许那个人那天没有时间，所以他们会说这样的话。"
+    },
+    {
+      "id": 163,
+      "start": 462.24,
+      "end": 468.24,
+      "en": "Can't you do Tuesday?",
+      "zh": "你周二不行吗？"
+    },
+    {
+      "id": 164,
+      "start": 468.34,
+      "end": 474.56,
+      "en": "Okay, Erica, so if I want to have a meeting with you, I would say, how's Monday sound or how's Monday?",
+      "zh": "好的，埃里卡，所以如果我想和你开会，我会说，星期一的声音怎么样，星期一怎么样？"
+    },
+    {
+      "id": 165,
+      "start": 475.96,
+      "end": 476.94,
+      "en": "Monday's no good.",
+      "zh": "星期一不好。"
+    },
+    {
+      "id": 166,
+      "start": 477.78,
+      "end": 478.7,
+      "en": "I'm busy all day.",
+      "zh": "我一整天都很忙。"
+    },
+    {
+      "id": 167,
+      "start": 479.54,
+      "end": 479.92,
+      "en": "How's Tuesday?",
+      "zh": "星期二怎么样？"
+    },
+    {
+      "id": 168,
+      "start": 481.28,
+      "end": 482.84,
+      "en": "Sorry, Tuesday's no good either.",
+      "zh": "抱歉，星期二也不好。"
+    },
+    {
+      "id": 169,
+      "start": 483.32,
+      "end": 484.22,
+      "en": "What about Wednesday?",
+      "zh": "星期三呢？"
+    },
+    {
+      "id": 170,
+      "start": 484.8,
+      "end": 486.2,
+      "en": "Okay, Wednesday works.",
+      "zh": "好的，星期三工作。"
+    },
+    {
+      "id": 171,
+      "start": 486.24,
+      "end": 487.24,
+      "en": "All right, great.",
+      "zh": "好，太好了。"
+    },
+    {
+      "id": 172,
+      "start": 487.72,
+      "end": 488.42,
+      "en": "Wednesday's perfect.",
+      "zh": "周三完美。"
+    },
+    {
+      "id": 173,
+      "start": 488.74,
+      "end": 491.04,
+      "en": "Okay, great, so we have a meeting on Wednesday.",
+      "zh": "好的，太好了，所以我们周三开会。"
+    },
+    {
+      "id": 174,
+      "start": 491.5,
+      "end": 494.5,
+      "en": "Okay, yeah, those are some great phrases, hey, for scheduling an appointment.",
+      "zh": "好吧，是的，这些是一些很棒的短语，嘿，用于安排约会。"
+    },
+    {
+      "id": 175,
+      "start": 494.76,
+      "end": 495.62,
+      "en": "Yeah, they're really good.",
+      "zh": "是的，他们真的很好。"
+    },
+    {
+      "id": 176,
+      "start": 496.0,
+      "end": 501.92,
+      "en": "Okay, so now we can listen to our dialogue a third time and we're ready to understand everything that we've just talked about.",
+      "zh": "好的，现在我们可以第三次听我们的对话了，我们已经准备好了解我们刚刚谈到的一切。"
+    },
+    {
+      "id": 177,
+      "start": 511.8,
+      "end": 513.48,
+      "en": "Hello, Fairbrook Consulting.",
+      "zh": "您好，费尔布鲁克咨询。"
+    },
+    {
+      "id": 178,
+      "start": 514.16,
+      "end": 514.8,
+      "en": "How may I help you?",
+      "zh": "有什么可以帮您？"
+    },
+    {
+      "id": 179,
+      "start": 515.24,
+      "end": 520.24,
+      "en": "Yes, this is Julianne Horton, and I'm calling to arrange an appointment with Ms. McNeely.",
+      "zh": "是的，这是 Julianne Horton，我打电话给 McNeely 女士安排约会。"
+    },
+    {
+      "id": 180,
+      "start": 520.28,
+      "end": 520.8,
+      "en": "Certainly.",
+      "zh": "当然可以。"
+    },
+    {
+      "id": 181,
+      "start": 521.06,
+      "end": 522.08,
+      "en": "What day were you thinking of?",
+      "zh": "您想约哪天？"
+    },
+    {
+      "id": 182,
+      "start": 522.44,
+      "end": 523.16,
+      "en": "How's Thursday?",
+      "zh": "星期四怎么样？"
+    },
+    {
+      "id": 183,
+      "start": 523.78,
+      "end": 525.08,
+      "en": "Does she have any time available then?",
+      "zh": "她那天有空吗？"
+    },
+    {
+      "id": 184,
+      "start": 525.48,
+      "end": 526.56,
+      "en": "Um, let me double check.",
+      "zh": "嗯，让我仔细检查一下。"
+    },
+    {
+      "id": 185,
+      "start": 527.64,
+      "end": 529.6,
+      "en": "Unfortunately, she's booked solid on Thursday.",
+      "zh": "很抱歉，她周四的日程排满了。"
+    },
+    {
+      "id": 186,
+      "start": 530.04,
+      "end": 531.24,
+      "en": "How does next Monday work for you?",
+      "zh": "下周一您方便吗？"
+    },
+    {
+      "id": 187,
+      "start": 531.56,
+      "end": 533.42,
+      "en": "Actually, I've got something scheduled on Monday.",
+      "zh": "其实我周一另有安排。"
+    },
+    {
+      "id": 188,
+      "start": 533.98,
+      "end": 534.88,
+      "en": "Can't you do Tuesday?",
+      "zh": "你周二不行吗？"
+    },
+    {
+      "id": 189,
+      "start": 535.64,
+      "end": 536.86,
+      "en": "Sure, Tuesday's perfect.",
+      "zh": "当然，周二正好。"
+    },
+    {
+      "id": 190,
+      "start": 537.88,
+      "end": 539.24,
+      "en": "May I ask where you're calling from?",
+      "zh": "请问您是哪家公司的？"
+    },
+    {
+      "id": 191,
+      "start": 539.24,
+      "end": 542.24,
+      "en": "Sure, Merton Financial Advisors.",
+      "zh": "当然，默顿理财顾问公司。"
+    },
+    {
+      "id": 192,
+      "start": 542.44,
+      "end": 545.08,
+      "en": "Oh, actually, Tuesday's no good.",
+      "zh": "哦，实际上，星期二不好。"
+    },
+    {
+      "id": 193,
+      "start": 545.52,
+      "end": 546.04,
+      "en": "Sorry about that.",
+      "zh": "抱歉。"
+    },
+    {
+      "id": 194,
+      "start": 553.24,
+      "end": 556.24,
+      "en": "The language in this dialogue is really useful, isn't it, Marco?",
+      "zh": "这个对话中的语言真的很有用，不是吗，马可？"
+    },
+    {
+      "id": 195,
+      "start": 556.35,
+      "end": 558.11,
+      "en": "Yeah, it's from an everyday situation.",
+      "zh": "是的，这是从日常情况来看的。"
+    },
+    {
+      "id": 196,
+      "start": 558.65,
+      "end": 561.01,
+      "en": "You always have to make appointments at some point.",
+      "zh": "你总是必须在某个时候预约。"
+    },
+    {
+      "id": 197,
+      "start": 561.27,
+      "end": 567.15,
+      "en": "Yes, and like we said earlier, it's language you can use when you need to talk about work with your boss, maybe.",
+      "zh": "是的，就像我们之前说的那样，当你需要和老板谈论工作时，它是你可以使用的语言，也许吧。"
+    },
+    {
+      "id": 198,
+      "start": 567.24,
+      "end": 568.24,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 199,
+      "start": 568.24,
+      "end": 571.67,
+      "en": "Or when you need to do daily things, like go to the doctor.",
+      "zh": "或者当你需要每天做的事情时，比如去看医生。"
+    },
+    {
+      "id": 200,
+      "start": 572.24,
+      "end": 574.24,
+      "en": "Or even when you're planning something with your friends.",
+      "zh": "甚至当您与朋友计划某事时。"
+    },
+    {
+      "id": 201,
+      "start": 574.24,
+      "end": 575.24,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 202,
+      "start": 575.24,
+      "end": 577.24,
+      "en": "Yeah, you can use this in all those situations.",
+      "zh": "是的，你可以在所有这些情况下使用它。"
+    },
+    {
+      "id": 203,
+      "start": 577.24,
+      "end": 578.24,
+      "en": "In all situations.",
+      "zh": "在所有情况下。"
+    },
+    {
+      "id": 204,
+      "start": 578.24,
+      "end": 579.24,
+      "en": "Uh-huh.",
+      "zh": "嗯。"
+    },
+    {
+      "id": 205,
+      "start": 579.24,
+      "end": 582.35,
+      "en": "Great. Well, we're out of time now, but I hope you enjoyed our lesson and found it useful.",
+      "zh": "太好了。 好吧，我们现在没有时间了，但我希望你喜欢我们的课程并发现它很有用。"
+    },
+    {
+      "id": 206,
+      "start": 583.24,
+      "end": 589.13,
+      "en": "And if you have any questions or comments, please go to our website at EnglishPod.com, where we'll be there to answer everything.",
+      "zh": "如果您有任何问题或意见，请访问我们的网站 englishpod.com，我们将在那里回答所有问题。"
+    },
+    {
+      "id": 207,
+      "start": 589.43,
+      "end": 590.23,
+      "en": "Yes, we will.",
+      "zh": "是的，我们会的。"
+    },
+    {
+      "id": 208,
+      "start": 590.71,
+      "end": 591.63,
+      "en": "So, thanks for listening, guys.",
+      "zh": "所以，谢谢你的收听，伙计们。"
+    },
+    {
+      "id": 209,
+      "start": 592.11,
+      "end": 593.24,
+      "en": "And until next time, goodbye.",
+      "zh": "下次再见，拜拜。"
+    },
+    {
+      "id": 210,
+      "start": 593.24,
+      "end": 599.24,
+      "en": "Goodbye.",
+      "zh": "再见。"
+    }
+  ],
+  "dialog": {
+    "start": 90.68,
+    "end": 124.83,
+    "segmentIds": [
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50
+    ]
+  }
+}

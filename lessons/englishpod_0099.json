@@ -1,0 +1,2287 @@
+{
+  "version": 1,
+  "id": 99,
+  "number": "0099",
+  "title": "Global View - Movie Review",
+  "audio": "mp3/99. Global View - Movie Review.mp3",
+  "duration": 815.987,
+  "segments": [
+    {
+      "id": 1,
+      "start": 2.32,
+      "end": 5.02,
+      "en": "Hello English learners, welcome back to EnglishPod.",
+      "zh": "您好英语学习者，欢迎回到 EnglishPod。"
+    },
+    {
+      "id": 2,
+      "start": 5.28,
+      "end": 5.76,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 6.02,
+      "end": 6.7,
+      "en": "And I'm Erica.",
+      "zh": "我叫 Erica。"
+    },
+    {
+      "id": 4,
+      "start": 7.4,
+      "end": 12.14,
+      "en": "And today we're going to go back to the movies, but this time we're going to do it a little bit different.",
+      "zh": "今天我们要回去看电影，但这次我们要做一些不同的事情。"
+    },
+    {
+      "id": 5,
+      "start": 12.66,
+      "end": 13.06,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 6,
+      "start": 13.48,
+      "end": 19.0,
+      "en": "We're going to be listening as two movie critics offer their opinion on the latest release.",
+      "zh": "我们将聆听两位影评人对最新版本发表意见。"
+    },
+    {
+      "id": 7,
+      "start": 19.48,
+      "end": 23.96,
+      "en": "Alright, so we're going to be learning how to criticize or give your opinions about something.",
+      "zh": "好吧，所以我们将学习如何批评或发表您对某事的意见。"
+    },
+    {
+      "id": 8,
+      "start": 24.32,
+      "end": 24.86,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 9,
+      "start": 25.48,
+      "end": 36.32,
+      "en": "And here we're talking movies, but a lot of this language can be used to offer your criticism or ideas on literature or art or other artistic pursuits.",
+      "zh": "在这里，我们谈论的是电影，但很多这种语言可以用来提供你对文学、艺术或其他艺术追求的批评或想法。"
+    },
+    {
+      "id": 10,
+      "start": 36.44,
+      "end": 41.98,
+      "en": "Okay, so before we listen to this dialogue for the first time, let's take a look at vocabulary preview.",
+      "zh": "好的，在我们第一次听这个对话之前，让我们先看看词汇预览。"
+    },
+    {
+      "id": 11,
+      "start": 44.08,
+      "end": 45.08,
+      "en": "Vocabulary preview.",
+      "zh": "词汇预习。"
+    },
+    {
+      "id": 12,
+      "start": 45.35,
+      "end": 50.61,
+      "en": "Well, we're going to look at one word here that we will hear in the dialogue and it is erudite.",
+      "zh": "好吧，我们将在这里查看我们将在对话中听到的一个字，这是有学问的。"
+    },
+    {
+      "id": 13,
+      "start": 51.19,
+      "end": 51.68,
+      "en": "Erudite.",
+      "zh": "博学。"
+    },
+    {
+      "id": 14,
+      "start": 52.11,
+      "end": 52.51,
+      "en": "Erudite.",
+      "zh": "博学。"
+    },
+    {
+      "id": 15,
+      "start": 52.93,
+      "end": 54.31,
+      "en": "Okay, so this word erudite.",
+      "zh": "好吧，所以这个词是博学的。"
+    },
+    {
+      "id": 16,
+      "start": 54.63,
+      "end": 56.19,
+      "en": "Some people pronounce it erudite.",
+      "zh": "有些人说它是博学的。"
+    },
+    {
+      "id": 17,
+      "start": 56.51,
+      "end": 56.83,
+      "en": "That's true.",
+      "zh": "确实如此。"
+    },
+    {
+      "id": 18,
+      "start": 57.72,
+      "end": 62.91,
+      "en": "And basically it's an adjective describing someone who has a lot of knowledge about a subject.",
+      "zh": "基本上它是一个形容词，描述了对某个主题有很多知识的人。"
+    },
+    {
+      "id": 19,
+      "start": 63.68,
+      "end": 66.01,
+      "en": "Okay, so an erudite in engineering.",
+      "zh": "好吧，工程学中的博学。"
+    },
+    {
+      "id": 20,
+      "start": 66.65,
+      "end": 67.99,
+      "en": "Yes, or an erudite professor.",
+      "zh": "是的，或者是一位博学的教授。"
+    },
+    {
+      "id": 21,
+      "start": 68.53,
+      "end": 69.31,
+      "en": "Okay, very good.",
+      "zh": "好，很好。"
+    },
+    {
+      "id": 22,
+      "start": 69.72,
+      "end": 71.82,
+      "en": "So that's the word that we're going to preview today.",
+      "zh": "这就是我们今天要预览的词。"
+    },
+    {
+      "id": 23,
+      "start": 72.36,
+      "end": 85.52,
+      "en": "And now let's listen to our dialogue and find out what movie they are criticizing.",
+      "zh": "现在让我们听听我们的对话，找出他们在批评什么电影。"
+    },
+    {
+      "id": 24,
+      "start": 85.52,
+      "end": 88.41,
+      "en": "Welcome back movie lovers to another premiere movie review.",
+      "zh": "欢迎各位影迷回到《首映影评》。"
+    },
+    {
+      "id": 25,
+      "start": 89.12,
+      "end": 93.69,
+      "en": "My name is Richard Clark and I am joined today by the very erudite David Watson.",
+      "zh": "我是理查德·克拉克，今天请来了博学多闻的大卫·沃森。"
+    },
+    {
+      "id": 26,
+      "start": 94.36,
+      "end": 94.81,
+      "en": "Thank you, Dick.",
+      "zh": "谢谢你，迪克。"
+    },
+    {
+      "id": 27,
+      "start": 95.62,
+      "end": 97.61,
+      "en": "Today we're going to talk about the movie Lion King.",
+      "zh": "今天我们就来谈谈电影《狮子王》。"
+    },
+    {
+      "id": 28,
+      "start": 98.24,
+      "end": 99.75,
+      "en": "Tell me, what is your impression of this film?",
+      "zh": "告诉我，你对这部电影有什么印象？"
+    },
+    {
+      "id": 29,
+      "start": 100.32,
+      "end": 105.03,
+      "en": "Well, I think this film is simply a fable depicting man's eternal greed for power.",
+      "zh": "我觉得这部电影是一则寓言，讲述人类对权力永无止境的贪欲。"
+    },
+    {
+      "id": 30,
+      "start": 105.56,
+      "end": 107.45,
+      "en": "And in my opinion, it's a very fine film.",
+      "zh": "在我看来，这是一部非常好的电影。"
+    },
+    {
+      "id": 31,
+      "start": 108.18,
+      "end": 114.07,
+      "en": "Even despite the accusations of plagiarism of traditional folk tales from other countries, the musical score was amazing.",
+      "zh": "虽然有人指责它抄袭别国的传统民间故事，但配乐非常出色。"
+    },
+    {
+      "id": 32,
+      "start": 114.55,
+      "end": 117.97,
+      "en": "The animation was very well done and the story was simply enchanting.",
+      "zh": "动画做得很好，故事简直太迷人了。"
+    },
+    {
+      "id": 33,
+      "start": 118.12,
+      "end": 118.67,
+      "en": "I think otherwise.",
+      "zh": "我不这么认为。"
+    },
+    {
+      "id": 34,
+      "start": 119.48,
+      "end": 124.23,
+      "en": "Even though the animation was technically strong and as you say, the score and songs performed by Elton John were great.",
+      "zh": "虽然动画制作水准很高，正如你说的，配乐和埃尔顿·约翰演唱的歌曲也很棒，"
+    },
+    {
+      "id": 35,
+      "start": 124.84,
+      "end": 126.71,
+      "en": "The film lacks certain originality.",
+      "zh": "但影片缺乏新意。"
+    },
+    {
+      "id": 36,
+      "start": 127.04,
+      "end": 127.67,
+      "en": "It lacked heart.",
+      "zh": "也缺少感染力。"
+    },
+    {
+      "id": 37,
+      "start": 128.26,
+      "end": 130.19,
+      "en": "And I would dare to say it was too predictable.",
+      "zh": "我甚至觉得情节太容易猜到。"
+    },
+    {
+      "id": 38,
+      "start": 130.99,
+      "end": 131.35,
+      "en": "Predictable?",
+      "zh": "容易猜到？"
+    },
+    {
+      "id": 39,
+      "start": 131.76,
+      "end": 132.76,
+      "en": "How?",
+      "zh": "怎么说？"
+    },
+    {
+      "id": 40,
+      "start": 132.84,
+      "end": 133.6,
+      "en": "Come on, Dave.",
+      "zh": "来吧，戴夫。"
+    },
+    {
+      "id": 41,
+      "start": 134.12,
+      "end": 135.12,
+      "en": "It's a G-rated movie.",
+      "zh": "这可是适合所有年龄观看的电影。"
+    },
+    {
+      "id": 42,
+      "start": 135.6,
+      "end": 136.22,
+      "en": "It's for the kids.",
+      "zh": "这是给孩子的。"
+    },
+    {
+      "id": 43,
+      "start": 136.78,
+      "end": 137.68,
+      "en": "It's not a thriller.",
+      "zh": "这不是惊悚片。"
+    },
+    {
+      "id": 44,
+      "start": 138.06,
+      "end": 138.86,
+      "en": "Well, that's just it.",
+      "zh": "问题就在这儿。"
+    },
+    {
+      "id": 45,
+      "start": 139.48,
+      "end": 141.62,
+      "en": "It did have some very dramatic and intense scenes.",
+      "zh": "片中确实有些紧张又震撼的场景。"
+    },
+    {
+      "id": 46,
+      "start": 141.74,
+      "end": 145.7,
+      "en": "For example, when Mufasa dies or the dark, grim portrayal of Scar.",
+      "zh": "比如木法沙之死，还有对刀疤阴暗凶狠的刻画。"
+    },
+    {
+      "id": 47,
+      "start": 146.26,
+      "end": 148.14,
+      "en": "Even so, the film is linear.",
+      "zh": "可即便如此，故事还是太直白了。"
+    },
+    {
+      "id": 48,
+      "start": 148.84,
+      "end": 149.6,
+      "en": "Mufasa dies.",
+      "zh": "木法沙死了。"
+    },
+    {
+      "id": 49,
+      "start": 150.18,
+      "end": 151.4,
+      "en": "Simba runs away thinking it's his fault.",
+      "zh": "辛巴跑开，以为这是他的错。"
+    },
+    {
+      "id": 50,
+      "start": 152.08,
+      "end": 154.4,
+      "en": "Falls in love and returns to retake what's rightfully his.",
+      "zh": "辛巴恋爱后归来，夺回本就属于他的东西。"
+    },
+    {
+      "id": 51,
+      "start": 154.4,
+      "end": 156.28,
+      "en": "It's just too cliche.",
+      "zh": "太老套了。"
+    },
+    {
+      "id": 52,
+      "start": 156.28,
+      "end": 157.18,
+      "en": "How can it be cliche?",
+      "zh": "怎么能说老套？"
+    },
+    {
+      "id": 53,
+      "start": 157.56,
+      "end": 158.12,
+      "en": "It's a fable.",
+      "zh": "这是个寓言。"
+    },
+    {
+      "id": 54,
+      "start": 159.12,
+      "end": 160.44,
+      "en": "It's telling a time-honored story.",
+      "zh": "它讲的是一个流传已久的故事。"
+    },
+    {
+      "id": 55,
+      "start": 161.04,
+      "end": 167.78,
+      "en": "The movie makes a point of how the hunger of power leads to corruption and teaches children of the value of respect, life, and love.",
+      "zh": "电影讲明了对权力的渴望如何导致腐败，也让孩子懂得尊重生命、珍惜爱。"
+    },
+    {
+      "id": 56,
+      "start": 168.7,
+      "end": 170.66,
+      "en": "You have always been so soft, Dick.",
+      "zh": "迪克，你一直这么心软。"
+    },
+    {
+      "id": 57,
+      "start": 173.32,
+      "end": 174.3,
+      "en": "Open your heart, Dave.",
+      "zh": "敞开心扉吧，戴夫。"
+    },
+    {
+      "id": 58,
+      "start": 174.96,
+      "end": 175.5,
+      "en": "Don't shut us out.",
+      "zh": "别把我们拒之门外。"
+    },
+    {
+      "id": 59,
+      "start": 175.96,
+      "end": 177.36,
+      "en": "Anyway, that's all for today, folks.",
+      "zh": "无论如何，这就是今天的全部，伙计们。"
+    },
+    {
+      "id": 60,
+      "start": 177.96,
+      "end": 180.4,
+      "en": "Join us next time as we talk about How to Lose a Guy in 10 Days.",
+      "zh": "下期节目我们来聊《十天甩掉一个男人》。"
+    },
+    {
+      "id": 61,
+      "start": 180.76,
+      "end": 182.06,
+      "en": "I'm sure you'll love that one, Dick.",
+      "zh": "我相信你会喜欢的，迪克。"
+    },
+    {
+      "id": 62,
+      "start": 189.56,
+      "end": 190.56,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 63,
+      "start": 190.56,
+      "end": 191.73,
+      "en": "So The Lion King, one of my all-time favorites.",
+      "zh": "所以狮子王，我一直以来的最爱之一。"
+    },
+    {
+      "id": 64,
+      "start": 192.2,
+      "end": 194.85,
+      "en": "A very good movie and, well, mixed feelings about it, right?",
+      "zh": "一部非常好的电影，嗯，对它的感觉很复杂，对吧？"
+    },
+    {
+      "id": 65,
+      "start": 195.08,
+      "end": 197.36,
+      "en": "Some people think it's good.",
+      "zh": "有些人认为这很好。"
+    },
+    {
+      "id": 66,
+      "start": 197.36,
+      "end": 199.64,
+      "en": "Other people think it's not that good.",
+      "zh": "其他人认为这不是那么好。"
+    },
+    {
+      "id": 67,
+      "start": 199.64,
+      "end": 201.33,
+      "en": "I'm in the good camp, as you know.",
+      "zh": "如你所知，我在好营地。"
+    },
+    {
+      "id": 68,
+      "start": 202.28,
+      "end": 206.8,
+      "en": "But anyway, there's tons of really useful and quite difficult language here.",
+      "zh": "但无论如何，这里有很多非常有用且非常困难的语言。"
+    },
+    {
+      "id": 69,
+      "start": 206.8,
+      "end": 209.19,
+      "en": "So why don't we look at that now in Language Takeaway.",
+      "zh": "那么我们为什么不现在在语言外卖中看一下。"
+    },
+    {
+      "id": 70,
+      "start": 211.46,
+      "end": 212.62,
+      "en": "Language Takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 71,
+      "start": 213.04,
+      "end": 214.04,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 72,
+      "start": 214.77,
+      "end": 219.31,
+      "en": "On Language Takeaway today, we have five words and we can start with the first one.",
+      "zh": "在今天的语言外卖中，我们有五个单词，我们可以从第一个开始。"
+    },
+    {
+      "id": 73,
+      "start": 219.85,
+      "end": 225.15,
+      "en": "So the first critic said that this was a movie depicting man's eternal greed for power.",
+      "zh": "所以第一个评论家说这是一部描绘人类永恒贪婪的电影。"
+    },
+    {
+      "id": 74,
+      "start": 226.07,
+      "end": 226.55,
+      "en": "Depicting.",
+      "zh": "描绘。"
+    },
+    {
+      "id": 75,
+      "start": 226.8,
+      "end": 227.29,
+      "en": "To depict.",
+      "zh": "来描绘。"
+    },
+    {
+      "id": 76,
+      "start": 227.8,
+      "end": 228.8,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 77,
+      "start": 228.8,
+      "end": 231.75,
+      "en": "So this word, depict, it sounds a little bit strange.",
+      "zh": "所以这个词，描绘，听起来有点奇怪。"
+    },
+    {
+      "id": 78,
+      "start": 232.12,
+      "end": 235.57,
+      "en": "So before we explain it, let's take a look at some examples.",
+      "zh": "所以在我们解释之前，让我们看一些例子。"
+    },
+    {
+      "id": 79,
+      "start": 237.68,
+      "end": 240.2,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 80,
+      "start": 240.2,
+      "end": 243.77,
+      "en": "I don't really like the way that novel depicted the role of women in society.",
+      "zh": "我不太喜欢小说描绘女性在社会中的角色的方式。"
+    },
+    {
+      "id": 81,
+      "start": 244.44,
+      "end": 248.44,
+      "en": "It was pretty sexist.",
+      "zh": "这是相当性别歧视。"
+    },
+    {
+      "id": 82,
+      "start": 248.44,
+      "end": 248.7,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 83,
+      "start": 251.08,
+      "end": 257.3,
+      "en": "A film depicts the realities of war very accurately.",
+      "zh": "一部电影非常准确地描绘了战争的现实。"
+    },
+    {
+      "id": 84,
+      "start": 257.3,
+      "end": 260.16,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 85,
+      "start": 260.16,
+      "end": 264.88,
+      "en": "Apparently this image here is depicting some of the most well-known scenes from Australian history.",
+      "zh": "显然，这里的这张图片描绘了澳大利亚历史上一些最著名的场景。"
+    },
+    {
+      "id": 86,
+      "start": 264.88,
+      "end": 265.88,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 87,
+      "start": 267.26,
+      "end": 267.64,
+      "en": "So depicting.",
+      "zh": "所以描绘。"
+    },
+    {
+      "id": 88,
+      "start": 268.3,
+      "end": 271.76,
+      "en": "I can basically understand that this means to show something.",
+      "zh": "我基本上可以理解这意味着展示一些东西。"
+    },
+    {
+      "id": 89,
+      "start": 272.42,
+      "end": 279.9,
+      "en": "Now we can notice that the word depict has this short little word picked in there that sounds like picture.",
+      "zh": "现在我们可以注意到，描绘这个词有一个简短的小词，听起来像是图片。"
+    },
+    {
+      "id": 90,
+      "start": 280.9,
+      "end": 287.06,
+      "en": "And when we think about depicting, we're often thinking about in a picture or in a book or in a painting.",
+      "zh": "当我们考虑描绘时，我们经常在图片、书籍或绘画中思考。"
+    },
+    {
+      "id": 91,
+      "start": 287.44,
+      "end": 290.8,
+      "en": "So in this case, the story is depicted in a movie, right?",
+      "zh": "所以在这种情况下，故事是在电影中描绘的，对吧？"
+    },
+    {
+      "id": 92,
+      "start": 291.08,
+      "end": 291.36,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 93,
+      "start": 291.68,
+      "end": 292.4,
+      "en": "So you can see it.",
+      "zh": "所以你可以看到它。"
+    },
+    {
+      "id": 94,
+      "start": 292.56,
+      "end": 293.44,
+      "en": "It's a picture, basically.",
+      "zh": "基本上是一张图。"
+    },
+    {
+      "id": 95,
+      "start": 293.88,
+      "end": 294.0,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 96,
+      "start": 295.24,
+      "end": 296.24,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 97,
+      "start": 296.24,
+      "end": 297.24,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 98,
+      "start": 297.24,
+      "end": 298.24,
+      "en": "So to depict.",
+      "zh": "所以描绘。"
+    },
+    {
+      "id": 99,
+      "start": 298.24,
+      "end": 303.12,
+      "en": "Well, moving on, the critic also talked about the grim portrayal of the villain of the movie, Scar.",
+      "zh": "好吧，继续说下去，评论家还谈到了电影《疤痕》中对反派的严峻描绘。"
+    },
+    {
+      "id": 100,
+      "start": 303.12,
+      "end": 304.12,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 101,
+      "start": 304.12,
+      "end": 304.96,
+      "en": "So grim portrayal.",
+      "zh": "如此严肃的描绘。"
+    },
+    {
+      "id": 102,
+      "start": 305.82,
+      "end": 307.1,
+      "en": "A grim portrayal.",
+      "zh": "一个严峻的描绘。"
+    },
+    {
+      "id": 103,
+      "start": 307.16,
+      "end": 308.2,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 104,
+      "start": 308.2,
+      "end": 310.24,
+      "en": "Let's look at the word grim first.",
+      "zh": "我们先来看看格林这个词。"
+    },
+    {
+      "id": 105,
+      "start": 310.6,
+      "end": 315.83,
+      "en": "When something is grim, it's really unpleasant or uncomfortable or even shocking to think about.",
+      "zh": "当某件事很严峻时，想起来真的很不愉快、不舒服，甚至令人震惊。"
+    },
+    {
+      "id": 106,
+      "start": 316.38,
+      "end": 316.51,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 107,
+      "start": 317.56,
+      "end": 318.56,
+      "en": "So we're going to use something that is grim.",
+      "zh": "所以我们将使用一些严峻的东西。"
+    },
+    {
+      "id": 108,
+      "start": 318.56,
+      "end": 319.25,
+      "en": "Now what about portrayal?",
+      "zh": "现在怎么写？"
+    },
+    {
+      "id": 109,
+      "start": 319.91,
+      "end": 321.33,
+      "en": "Really close to depict.",
+      "zh": "真的很接近描绘。"
+    },
+    {
+      "id": 110,
+      "start": 321.33,
+      "end": 328.95,
+      "en": "A portrayal is something that shows or describes something, especially like in a book or in a picture or in a play.",
+      "zh": "描绘是显示或描述某事的东西，尤其是在书中、图片或戏剧中。"
+    },
+    {
+      "id": 111,
+      "start": 329.43,
+      "end": 329.77,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 112,
+      "start": 329.77,
+      "end": 330.43,
+      "en": "So a portrayal.",
+      "zh": "于是描绘。"
+    },
+    {
+      "id": 113,
+      "start": 331.03,
+      "end": 333.33,
+      "en": "I guess we can relate it again to a portrait.",
+      "zh": "我想我们可以再次将其与肖像联系起来。"
+    },
+    {
+      "id": 114,
+      "start": 333.81,
+      "end": 334.09,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 115,
+      "start": 335.0,
+      "end": 336.0,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 116,
+      "start": 336.0,
+      "end": 337.0,
+      "en": "So portrayal.",
+      "zh": "所以描绘。"
+    },
+    {
+      "id": 117,
+      "start": 337.0,
+      "end": 338.89,
+      "en": "Now we can also use this as a verb, to portray.",
+      "zh": "现在我们也可以用它作为动词，来描绘。"
+    },
+    {
+      "id": 118,
+      "start": 339.48,
+      "end": 342.37,
+      "en": "So this movie portrays man's eternal greed.",
+      "zh": "所以这部电影描绘了人类的永恒贪婪。"
+    },
+    {
+      "id": 119,
+      "start": 342.93,
+      "end": 343.31,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 120,
+      "start": 343.45,
+      "end": 346.49,
+      "en": "So we can use this as a noun or as a verb.",
+      "zh": "所以我们可以将其用作名词或动词。"
+    },
+    {
+      "id": 121,
+      "start": 346.92,
+      "end": 347.24,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 122,
+      "start": 347.54,
+      "end": 351.56,
+      "en": "So moving on with our third word today, we have an enchanting movie.",
+      "zh": "所以今天继续我们的第三个词，我们有一部迷人的电影。"
+    },
+    {
+      "id": 123,
+      "start": 351.94,
+      "end": 352.3,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 124,
+      "start": 352.4,
+      "end": 354.5,
+      "en": "The story was simply enchanting.",
+      "zh": "这个故事简直太迷人了。"
+    },
+    {
+      "id": 125,
+      "start": 354.66,
+      "end": 354.88,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 126,
+      "start": 355.12,
+      "end": 356.92,
+      "en": "So if something is enchanting.",
+      "zh": "所以如果有什么东西很迷人。"
+    },
+    {
+      "id": 127,
+      "start": 357.46,
+      "end": 363.96,
+      "en": "It's really attractive and beautiful and interesting and it holds your attention.",
+      "zh": "它真的很有吸引力、美丽和有趣，它吸引了你的注意力。"
+    },
+    {
+      "id": 128,
+      "start": 364.36,
+      "end": 364.6,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 129,
+      "start": 364.74,
+      "end": 365.58,
+      "en": "It holds your attention.",
+      "zh": "它吸引了你的注意力。"
+    },
+    {
+      "id": 130,
+      "start": 366.06,
+      "end": 367.24,
+      "en": "So it's something very nice.",
+      "zh": "所以这是非常好的东西。"
+    },
+    {
+      "id": 131,
+      "start": 367.58,
+      "end": 369.36,
+      "en": "Something that is enchanting has to be nice.",
+      "zh": "迷人的东西必须是美好的。"
+    },
+    {
+      "id": 132,
+      "start": 369.64,
+      "end": 369.84,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 133,
+      "start": 369.98,
+      "end": 372.26,
+      "en": "And it has this sense of magic around it.",
+      "zh": "它周围有这种魔法感。"
+    },
+    {
+      "id": 134,
+      "start": 372.34,
+      "end": 372.6,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 135,
+      "start": 373.16,
+      "end": 373.64,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 136,
+      "start": 374.76,
+      "end": 376.12,
+      "en": "So an enchanting moment.",
+      "zh": "所以一个迷人的时刻。"
+    },
+    {
+      "id": 137,
+      "start": 376.12,
+      "end": 377.12,
+      "en": "Or an enchanting woman.",
+      "zh": "或者一个迷人的女人。"
+    },
+    {
+      "id": 138,
+      "start": 377.84,
+      "end": 378.84,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 139,
+      "start": 378.84,
+      "end": 380.3,
+      "en": "And now what about our next word?",
+      "zh": "现在我们的下一个词呢？"
+    },
+    {
+      "id": 140,
+      "start": 380.68,
+      "end": 381.64,
+      "en": "It's a very...",
+      "zh": "这是一个非常..."
+    },
+    {
+      "id": 141,
+      "start": 382.08,
+      "end": 382.88,
+      "en": "And what about our next word?",
+      "zh": "那么我们的下一个词呢？"
+    },
+    {
+      "id": 142,
+      "start": 383.16,
+      "end": 385.5,
+      "en": "It's French actually, but we use it in English.",
+      "zh": "它实际上是法语，但我们用英语使用它。"
+    },
+    {
+      "id": 143,
+      "start": 386.24,
+      "end": 386.38,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 144,
+      "start": 387.24,
+      "end": 389.96,
+      "en": "So the critics said that this story was cliché.",
+      "zh": "所以评论家说这个故事是陈词滥调。"
+    },
+    {
+      "id": 145,
+      "start": 389.96,
+      "end": 390.96,
+      "en": "Cliché.",
+      "zh": "陈词滥调。"
+    },
+    {
+      "id": 146,
+      "start": 390.96,
+      "end": 391.96,
+      "en": "Cliché.",
+      "zh": "陈词滥调。"
+    },
+    {
+      "id": 147,
+      "start": 391.96,
+      "end": 392.38,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 148,
+      "start": 392.38,
+      "end": 394.44,
+      "en": "So we hear this all the time.",
+      "zh": "所以我们一直听到这个。"
+    },
+    {
+      "id": 149,
+      "start": 394.84,
+      "end": 395.84,
+      "en": "What is a cliché?",
+      "zh": "什么是陈词滥调？"
+    },
+    {
+      "id": 150,
+      "start": 396.56,
+      "end": 405.5,
+      "en": "Well, basically, a cliché is a phrase or an idea that is used so often that it loses its meaning or importance or interest.",
+      "zh": "好吧，基本上，陈词滥调是一个经常被使用的短语或想法，以至于它失去了意义或重要性或兴趣。"
+    },
+    {
+      "id": 151,
+      "start": 406.12,
+      "end": 406.4,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 152,
+      "start": 407.2,
+      "end": 412.64,
+      "en": "So can you give us some examples of a cliché moment or maybe a phrase that's cliché?",
+      "zh": "那么你能给我们一些陈词滥调的例子，或者一个陈词滥调的短语吗？"
+    },
+    {
+      "id": 153,
+      "start": 412.83,
+      "end": 412.99,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 154,
+      "start": 413.64,
+      "end": 413.91,
+      "en": "Well, how about this one?",
+      "zh": "嗯，这一款怎么样？"
+    },
+    {
+      "id": 155,
+      "start": 414.64,
+      "end": 417.77,
+      "en": "When you're breaking up with your boyfriend and you say, honey, it's not you.",
+      "zh": "当你和你的男朋友分手，你说，亲爱的，不是你。"
+    },
+    {
+      "id": 156,
+      "start": 418.52,
+      "end": 418.75,
+      "en": "It's me.",
+      "zh": "是我。"
+    },
+    {
+      "id": 157,
+      "start": 419.52,
+      "end": 420.52,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 158,
+      "start": 420.52,
+      "end": 421.52,
+      "en": "That's cliché.",
+      "zh": "这是陈词滥调。"
+    },
+    {
+      "id": 159,
+      "start": 421.52,
+      "end": 422.52,
+      "en": "It's typical.",
+      "zh": "这是典型的。"
+    },
+    {
+      "id": 160,
+      "start": 422.52,
+      "end": 423.52,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 161,
+      "start": 423.52,
+      "end": 431.44,
+      "en": "Or maybe a cliché portrayal of a French man would be a guy riding a bike with a baguette, smoking a cigarette and with a beret on his head.",
+      "zh": "或者也许是一个陈词滥调的法国男人的刻画，是一个骑着长棍面包的人，抽着烟，头上戴着贝雷帽。"
+    },
+    {
+      "id": 162,
+      "start": 431.44,
+      "end": 432.44,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 163,
+      "start": 432.44,
+      "end": 433.44,
+      "en": "So it's a cliché portrayal.",
+      "zh": "所以这是一个陈词滥调的描绘。"
+    },
+    {
+      "id": 164,
+      "start": 433.44,
+      "end": 434.44,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 165,
+      "start": 434.44,
+      "end": 435.44,
+      "en": "So it's common.",
+      "zh": "所以很常见。"
+    },
+    {
+      "id": 166,
+      "start": 435.44,
+      "end": 436.35,
+      "en": "It's even to a certain point a little bit stereotypical.",
+      "zh": "它甚至在某种程度上有点刻板。"
+    },
+    {
+      "id": 167,
+      "start": 437.32,
+      "end": 438.32,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 168,
+      "start": 438.32,
+      "end": 439.32,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 169,
+      "start": 439.32,
+      "end": 439.98,
+      "en": "And what about our last word?",
+      "zh": "最后一个词是什么呢？"
+    },
+    {
+      "id": 170,
+      "start": 440.46,
+      "end": 442.9,
+      "en": "Well, they describe this story as a fable.",
+      "zh": "好吧，他们将这个故事描述为一个寓言。"
+    },
+    {
+      "id": 171,
+      "start": 443.56,
+      "end": 444.24,
+      "en": "Fable.",
+      "zh": "寓言。"
+    },
+    {
+      "id": 172,
+      "start": 444.66,
+      "end": 445.18,
+      "en": "A fable.",
+      "zh": "一个寓言。"
+    },
+    {
+      "id": 173,
+      "start": 445.62,
+      "end": 446.06,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 174,
+      "start": 446.1,
+      "end": 449.38,
+      "en": "So when we were small, we all read fables.",
+      "zh": "所以当我们很小的时候，我们都读寓言。"
+    },
+    {
+      "id": 175,
+      "start": 449.8,
+      "end": 450.06,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 176,
+      "start": 450.96,
+      "end": 455.44,
+      "en": "They are stories about animals that are used to teach people a lesson.",
+      "zh": "它们是关于动物的故事，用于给人们上一课。"
+    },
+    {
+      "id": 177,
+      "start": 455.44,
+      "end": 455.57,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 178,
+      "start": 456.44,
+      "end": 457.65,
+      "en": "So a fable teaches you a lesson.",
+      "zh": "所以一个寓言给你一个教训。"
+    },
+    {
+      "id": 179,
+      "start": 457.8,
+      "end": 461.96,
+      "en": "I think the most famous one is the one of the tortoise and the hare, right?",
+      "zh": "我想最著名的是乌龟和兔子之一，对吧？"
+    },
+    {
+      "id": 180,
+      "start": 461.96,
+      "end": 462.96,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 181,
+      "start": 462.96,
+      "end": 464.11,
+      "en": "And another good one would be the three little pigs.",
+      "zh": "另一个好的是三只小猪。"
+    },
+    {
+      "id": 182,
+      "start": 464.52,
+      "end": 464.71,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 183,
+      "start": 465.52,
+      "end": 465.77,
+      "en": "That's also a fable.",
+      "zh": "这也是一个寓言。"
+    },
+    {
+      "id": 184,
+      "start": 466.52,
+      "end": 467.52,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 185,
+      "start": 467.52,
+      "end": 468.52,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 186,
+      "start": 468.52,
+      "end": 476.2,
+      "en": "So we've looked at these five great words and now it's time for us to move on to putting it together.",
+      "zh": "所以我们看了这五个伟大的词，现在是我们继续把它放在一起的时候了。"
+    },
+    {
+      "id": 187,
+      "start": 476.2,
+      "end": 476.63,
+      "en": "Putting it together.",
+      "zh": "综合运用。"
+    },
+    {
+      "id": 188,
+      "start": 477.2,
+      "end": 478.2,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 189,
+      "start": 478.98,
+      "end": 488.66,
+      "en": "Here we're going to look at some phrases that you can use in a bunch of different ways to help you criticize or give your opinion about a piece of art, like a movie or a book or whatever.",
+      "zh": "在这里，我们将查看一些短语，您可以以多种不同的方式使用这些短语来帮助您批评或发表您对艺术品的看法，例如电影或书籍或其他任何东西。"
+    },
+    {
+      "id": 190,
+      "start": 488.98,
+      "end": 489.26,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 191,
+      "start": 490.56,
+      "end": 492.0,
+      "en": "Let's start with our first word.",
+      "zh": "让我们从我们的第一个词开始。"
+    },
+    {
+      "id": 192,
+      "start": 492.0,
+      "end": 495.68,
+      "en": "So the film critic asked, what is your impression of this film?",
+      "zh": "所以影评人问，你对这部电影有什么印象？"
+    },
+    {
+      "id": 193,
+      "start": 496.32,
+      "end": 498.26,
+      "en": "What's your impression of?",
+      "zh": "你的印象是什么？"
+    },
+    {
+      "id": 194,
+      "start": 498.76,
+      "end": 500.76,
+      "en": "What's your impression of something, right?",
+      "zh": "你对某事的印象是什么，对吧？"
+    },
+    {
+      "id": 195,
+      "start": 500.96,
+      "end": 501.24,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 196,
+      "start": 502.12,
+      "end": 503.12,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 197,
+      "start": 503.12,
+      "end": 508.72,
+      "en": "So before we get into explaining impression, let's listen to some more examples.",
+      "zh": "因此，在我们开始解释印象之前，让我们听更多的例子。"
+    },
+    {
+      "id": 198,
+      "start": 508.72,
+      "end": 508.98,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 199,
+      "start": 511.16,
+      "end": 515.04,
+      "en": "I don't know where, but I have the impression that we've met before.",
+      "zh": "我不知道在哪里，但我有我们以前见过的印象。"
+    },
+    {
+      "id": 200,
+      "start": 517.68,
+      "end": 517.95,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 201,
+      "start": 520.6,
+      "end": 523.24,
+      "en": "I get the impression that he's a very organized person.",
+      "zh": "我的印象是他是一个非常有条理的人。"
+    },
+    {
+      "id": 202,
+      "start": 525.72,
+      "end": 526.07,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 203,
+      "start": 528.88,
+      "end": 530.62,
+      "en": "Somehow Jim got the impression that I was gay.",
+      "zh": "不知何故，吉姆得到了我是同性恋的印象。"
+    },
+    {
+      "id": 204,
+      "start": 531.08,
+      "end": 531.58,
+      "en": "Did you tell him that?",
+      "zh": "你告诉他了吗？"
+    },
+    {
+      "id": 205,
+      "start": 533.53,
+      "end": 533.93,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 206,
+      "start": 533.93,
+      "end": 539.67,
+      "en": "So I can see that this means basically, what's your opinion or how do you feel about something?",
+      "zh": "所以我可以看到这基本上意味着，你的意见是什么，或者你对某事有什么看法？"
+    },
+    {
+      "id": 207,
+      "start": 540.03,
+      "end": 540.33,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 208,
+      "start": 540.33,
+      "end": 543.95,
+      "en": "So you can have an impression of something or of someone.",
+      "zh": "所以你可以对某事或某人有一个印象。"
+    },
+    {
+      "id": 209,
+      "start": 544.25,
+      "end": 544.37,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 210,
+      "start": 545.44,
+      "end": 546.44,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 211,
+      "start": 546.44,
+      "end": 547.0,
+      "en": "And what about the next word?",
+      "zh": "那么下一个词呢？"
+    },
+    {
+      "id": 212,
+      "start": 547.44,
+      "end": 555.44,
+      "en": "Well, the critic Richard Clark said that it was a really enjoyable film even despite the accusations of plagiarism.",
+      "zh": "好吧，评论家理查德克拉克说，尽管被指控抄袭，但这是一部非常令人愉快的电影。"
+    },
+    {
+      "id": 213,
+      "start": 555.64,
+      "end": 556.02,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 214,
+      "start": 556.02,
+      "end": 558.2,
+      "en": "So now we have an interesting phrase here.",
+      "zh": "所以现在我们在这里有一个有趣的短语。"
+    },
+    {
+      "id": 215,
+      "start": 558.4,
+      "end": 560.98,
+      "en": "The accusations of plagiarism.",
+      "zh": "抄袭的指责。"
+    },
+    {
+      "id": 216,
+      "start": 561.16,
+      "end": 562.66,
+      "en": "Accusations of plagiarism.",
+      "zh": "抄袭指责。"
+    },
+    {
+      "id": 217,
+      "start": 562.92,
+      "end": 563.92,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 218,
+      "start": 563.92,
+      "end": 565.08,
+      "en": "So accusations is a noun, right?",
+      "zh": "所以指责是一个名词，对吧？"
+    },
+    {
+      "id": 219,
+      "start": 565.08,
+      "end": 566.08,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 220,
+      "start": 566.08,
+      "end": 566.72,
+      "en": "It's the action of accusing.",
+      "zh": "这是指责的行为。"
+    },
+    {
+      "id": 221,
+      "start": 567.3,
+      "end": 567.54,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 222,
+      "start": 567.62,
+      "end": 568.56,
+      "en": "Of blaming somebody.",
+      "zh": "责怪某人。"
+    },
+    {
+      "id": 223,
+      "start": 569.08,
+      "end": 570.08,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 224,
+      "start": 570.08,
+      "end": 571.08,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 225,
+      "start": 571.08,
+      "end": 572.08,
+      "en": "And what about plagiarism?",
+      "zh": "那么抄袭呢？"
+    },
+    {
+      "id": 226,
+      "start": 572.08,
+      "end": 572.6,
+      "en": "This is an academic term.",
+      "zh": "这是一个学术术语。"
+    },
+    {
+      "id": 227,
+      "start": 573.08,
+      "end": 577.88,
+      "en": "If you plagiarize, you copy someone's work and take credit for it.",
+      "zh": "如果你抄袭，你会复制某人的作品并为此获得荣誉。"
+    },
+    {
+      "id": 228,
+      "start": 578.02,
+      "end": 578.26,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 229,
+      "start": 579.2,
+      "end": 582.52,
+      "en": "So if I copy somebody's book and I say I wrote it, then that's plagiarism.",
+      "zh": "因此，如果我复制某人的书并说我写了它，那就是抄袭。"
+    },
+    {
+      "id": 230,
+      "start": 582.52,
+      "end": 583.52,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 231,
+      "start": 583.52,
+      "end": 584.52,
+      "en": "That's pretty bad.",
+      "zh": "这很糟糕。"
+    },
+    {
+      "id": 232,
+      "start": 584.52,
+      "end": 585.92,
+      "en": "So accusations of plagiarism.",
+      "zh": "所以指责抄袭。"
+    },
+    {
+      "id": 233,
+      "start": 585.92,
+      "end": 589.72,
+      "en": "Now we can use this phrase, accusations of something in a bunch of different ways.",
+      "zh": "现在我们可以用这个短语，以多种不同的方式指责某事。"
+    },
+    {
+      "id": 234,
+      "start": 589.72,
+      "end": 591.24,
+      "en": "So Marco, let's have an example.",
+      "zh": "所以马可，让我们举个例子。"
+    },
+    {
+      "id": 235,
+      "start": 591.24,
+      "end": 592.24,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 236,
+      "start": 592.24,
+      "end": 597.34,
+      "en": "So for example, we can say he was cleared of all accusations of tax evasion.",
+      "zh": "例如，我们可以说他被清除了所有逃税指控。"
+    },
+    {
+      "id": 237,
+      "start": 598.08,
+      "end": 598.36,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 238,
+      "start": 599.28,
+      "end": 602.0,
+      "en": "He denied accusations of cheating on his wife.",
+      "zh": "他否认指控他妻子出轨。"
+    },
+    {
+      "id": 239,
+      "start": 602.48,
+      "end": 602.8,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 240,
+      "start": 602.8,
+      "end": 603.28,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 241,
+      "start": 604.32,
+      "end": 605.56,
+      "en": "So accusations.",
+      "zh": "所以指责。"
+    },
+    {
+      "id": 242,
+      "start": 605.56,
+      "end": 611.32,
+      "en": "And now moving on to the final part of putting it together, we have this word lacks.",
+      "zh": "现在继续把它放在一起的最后一部分，我们有这个词缺少。"
+    },
+    {
+      "id": 243,
+      "start": 611.32,
+      "end": 613.64,
+      "en": "The film lacks a certain originality.",
+      "zh": "这部电影缺乏一定的独创性。"
+    },
+    {
+      "id": 244,
+      "start": 613.81,
+      "end": 614.13,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 245,
+      "start": 614.21,
+      "end": 617.45,
+      "en": "So the film lacks a certain originality.",
+      "zh": "所以这部电影缺乏一定的独创性。"
+    },
+    {
+      "id": 246,
+      "start": 617.59,
+      "end": 618.67,
+      "en": "What does he mean by that?",
+      "zh": "他是什么意思？"
+    },
+    {
+      "id": 247,
+      "start": 618.95,
+      "end": 620.33,
+      "en": "It doesn't have enough of.",
+      "zh": "它没有足够的。"
+    },
+    {
+      "id": 248,
+      "start": 620.81,
+      "end": 621.19,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 249,
+      "start": 621.27,
+      "end": 624.47,
+      "en": "So if you are lacking something, you don't have enough of it.",
+      "zh": "所以如果你缺少什么，你就没有足够的东西。"
+    },
+    {
+      "id": 250,
+      "start": 624.63,
+      "end": 625.45,
+      "en": "Or you don't have it at all.",
+      "zh": "或者你根本没有它。"
+    },
+    {
+      "id": 251,
+      "start": 625.92,
+      "end": 626.92,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 252,
+      "start": 626.92,
+      "end": 628.73,
+      "en": "So can you give us some more examples of how we can use lack?",
+      "zh": "那么你能给我们更多关于我们如何使用缺失的例子吗？"
+    },
+    {
+      "id": 253,
+      "start": 629.42,
+      "end": 629.86,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 254,
+      "start": 630.36,
+      "end": 635.4,
+      "en": "So the same way it's used in the dialogue, our team lacks the appropriate talent to complete this project.",
+      "zh": "因此，在对话中使用的方式相同，我们的团队缺乏适当的人才来完成这个项目。"
+    },
+    {
+      "id": 255,
+      "start": 635.44,
+      "end": 635.92,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 256,
+      "start": 635.92,
+      "end": 640.7,
+      "en": "Or I can say, our school lacks infrastructure for so many students.",
+      "zh": "或者我可以说，我们学校缺乏这么多学生的基础设施。"
+    },
+    {
+      "id": 257,
+      "start": 641.08,
+      "end": 644.44,
+      "en": "Or we can also say, infrastructure is lacking at our school.",
+      "zh": "或者我们也可以说，我们学校缺乏基础设施。"
+    },
+    {
+      "id": 258,
+      "start": 644.8,
+      "end": 645.12,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 259,
+      "start": 645.16,
+      "end": 647.48,
+      "en": "So you can use it in those two ways, right?",
+      "zh": "所以你可以用这两种方式使用它，对吧？"
+    },
+    {
+      "id": 260,
+      "start": 647.64,
+      "end": 650.12,
+      "en": "You can use it as a gerund or as a verb.",
+      "zh": "您可以将其用作动名词或动词。"
+    },
+    {
+      "id": 261,
+      "start": 650.12,
+      "end": 651.12,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 262,
+      "start": 651.12,
+      "end": 652.12,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 263,
+      "start": 652.12,
+      "end": 652.32,
+      "en": "Lots of great language here.",
+      "zh": "这里有很多很棒的语言。"
+    },
+    {
+      "id": 264,
+      "start": 653.12,
+      "end": 664.16,
+      "en": "Let's hear it one more time in context with the dialogue.",
+      "zh": "让我们在对话的上下文中再听一遍。"
+    },
+    {
+      "id": 265,
+      "start": 664.16,
+      "end": 667.09,
+      "en": "Welcome back movie lovers to another premiere movie review.",
+      "zh": "欢迎各位影迷回到《首映影评》。"
+    },
+    {
+      "id": 266,
+      "start": 667.76,
+      "end": 672.37,
+      "en": "My name is Richard Clark and I am joined today by the very erudite David Watson.",
+      "zh": "我是理查德·克拉克，今天请来了博学多闻的大卫·沃森。"
+    },
+    {
+      "id": 267,
+      "start": 673.04,
+      "end": 673.49,
+      "en": "Thank you, Dick.",
+      "zh": "谢谢你，迪克。"
+    },
+    {
+      "id": 268,
+      "start": 674.28,
+      "end": 676.29,
+      "en": "Today we're going to talk about the movie Lion King.",
+      "zh": "今天我们就来谈谈电影《狮子王》。"
+    },
+    {
+      "id": 269,
+      "start": 676.88,
+      "end": 678.43,
+      "en": "Tell me what is your impression of this film?",
+      "zh": "告诉我你对这部电影有什么印象？"
+    },
+    {
+      "id": 270,
+      "start": 679.0,
+      "end": 681.45,
+      "en": "Well, I think this film is simply a fable.",
+      "zh": "好吧，我认为这部电影只是一个寓言。"
+    },
+    {
+      "id": 271,
+      "start": 682.08,
+      "end": 684.24,
+      "en": "Rising man's eternal greed for power.",
+      "zh": "崛起人对权力的永恒贪婪。"
+    },
+    {
+      "id": 272,
+      "start": 684.24,
+      "end": 686.13,
+      "en": "And in my opinion, it's a very fine film.",
+      "zh": "在我看来，这是一部非常好的电影。"
+    },
+    {
+      "id": 273,
+      "start": 686.84,
+      "end": 692.76,
+      "en": "Even despite the accusations of plagiarism of traditional folk tales from other countries, the musical score was amazing.",
+      "zh": "虽然有人指责它抄袭别国的传统民间故事，但配乐非常出色。"
+    },
+    {
+      "id": 274,
+      "start": 693.22,
+      "end": 696.64,
+      "en": "The animation was very well done and the story was simply enchanting.",
+      "zh": "动画做得很好，故事简直太迷人了。"
+    },
+    {
+      "id": 275,
+      "start": 696.78,
+      "end": 702.92,
+      "en": "I think otherwise, even though the animation was technically strong and as you say, the score and songs performed by Elton John were great.",
+      "zh": "我不这么认为，尽管动画在技术上很强大，而且正如你所说，埃尔顿约翰演奏的乐谱和歌曲很棒。"
+    },
+    {
+      "id": 276,
+      "start": 703.52,
+      "end": 705.38,
+      "en": "The film lacks certain originality.",
+      "zh": "但影片缺乏新意。"
+    },
+    {
+      "id": 277,
+      "start": 705.72,
+      "end": 706.36,
+      "en": "It lacked heart.",
+      "zh": "也缺少感染力。"
+    },
+    {
+      "id": 278,
+      "start": 706.92,
+      "end": 708.82,
+      "en": "And I would dare to say it was too predictable.",
+      "zh": "我甚至觉得情节太容易猜到。"
+    },
+    {
+      "id": 279,
+      "start": 709.68,
+      "end": 710.02,
+      "en": "Predictable?",
+      "zh": "容易猜到？"
+    },
+    {
+      "id": 280,
+      "start": 710.64,
+      "end": 711.64,
+      "en": "How?",
+      "zh": "怎么说？"
+    },
+    {
+      "id": 281,
+      "start": 711.64,
+      "end": 712.28,
+      "en": "Come on, Dave.",
+      "zh": "来吧，戴夫。"
+    },
+    {
+      "id": 282,
+      "start": 712.64,
+      "end": 713.64,
+      "en": "It's a G-rated movie.",
+      "zh": "这可是适合所有年龄观看的电影。"
+    },
+    {
+      "id": 283,
+      "start": 714.28,
+      "end": 714.92,
+      "en": "It's for the kids.",
+      "zh": "这是给孩子的。"
+    },
+    {
+      "id": 284,
+      "start": 715.52,
+      "end": 716.36,
+      "en": "It's not a thriller.",
+      "zh": "这不是惊悚片。"
+    },
+    {
+      "id": 285,
+      "start": 716.74,
+      "end": 717.56,
+      "en": "Well, that's just it.",
+      "zh": "问题就在这儿。"
+    },
+    {
+      "id": 286,
+      "start": 718.18,
+      "end": 720.3,
+      "en": "It did have some very dramatic and intense scenes.",
+      "zh": "片中确实有些紧张又震撼的场景。"
+    },
+    {
+      "id": 287,
+      "start": 720.3,
+      "end": 724.36,
+      "en": "For example, when Mufasa dies or the dark, grim portrayal of Scar.",
+      "zh": "比如木法沙之死，还有对刀疤阴暗凶狠的刻画。"
+    },
+    {
+      "id": 288,
+      "start": 724.94,
+      "end": 726.84,
+      "en": "Even so, the film is linear.",
+      "zh": "可即便如此，故事还是太直白了。"
+    },
+    {
+      "id": 289,
+      "start": 727.54,
+      "end": 732.64,
+      "en": "Mufasa dies, Simba runs away thinking it's his fault, falls in love and returns to retake what's rightfully his.",
+      "zh": "Mufasa 死了，Simba 跑开了，以为这是他的错，坠入爱河，然后回来重新夺回属于他的东西。"
+    },
+    {
+      "id": 290,
+      "start": 733.0,
+      "end": 733.7,
+      "en": "It's just too cliche.",
+      "zh": "太老套了。"
+    },
+    {
+      "id": 291,
+      "start": 734.59,
+      "end": 735.87,
+      "en": "How can it be cliche?",
+      "zh": "怎么能说老套？"
+    },
+    {
+      "id": 292,
+      "start": 736.19,
+      "end": 736.81,
+      "en": "It's a fable.",
+      "zh": "这是个寓言。"
+    },
+    {
+      "id": 293,
+      "start": 737.63,
+      "end": 739.13,
+      "en": "It's telling a time-honored story.",
+      "zh": "它讲的是一个流传已久的故事。"
+    },
+    {
+      "id": 294,
+      "start": 739.71,
+      "end": 746.47,
+      "en": "The movie makes a point of how the hunger for power leads to corruption and teaches children the value of respect, life and love.",
+      "zh": "这部电影强调了对权力的渴望如何导致腐败，并教导孩子们尊重、生命和爱的价值。"
+    },
+    {
+      "id": 295,
+      "start": 747.09,
+      "end": 749.35,
+      "en": "You have always been so soft, Dick.",
+      "zh": "迪克，你一直这么心软。"
+    },
+    {
+      "id": 296,
+      "start": 751.96,
+      "end": 752.97,
+      "en": "Open your heart, Dave.",
+      "zh": "敞开心扉吧，戴夫。"
+    },
+    {
+      "id": 297,
+      "start": 753.64,
+      "end": 754.19,
+      "en": "Don't shut us out.",
+      "zh": "别把我们拒之门外。"
+    },
+    {
+      "id": 298,
+      "start": 754.64,
+      "end": 756.05,
+      "en": "Anyway, that's all for today, folks.",
+      "zh": "无论如何，这就是今天的全部，伙计们。"
+    },
+    {
+      "id": 299,
+      "start": 756.65,
+      "end": 759.07,
+      "en": "Join us next time as we talk about How to Lose a Guy in 10 Days.",
+      "zh": "下次加入我们，讨论如何在 10 天内失去一个人。"
+    },
+    {
+      "id": 300,
+      "start": 759.39,
+      "end": 760.75,
+      "en": "I'm sure you'll love that one, Dick.",
+      "zh": "我相信你会喜欢的，迪克。"
+    },
+    {
+      "id": 301,
+      "start": 764.49,
+      "end": 765.81,
+      "en": "All right, so a good movie.",
+      "zh": "好吧，那么一部好电影。"
+    },
+    {
+      "id": 302,
+      "start": 766.12,
+      "end": 767.29,
+      "en": "What do you think about The Lion King?",
+      "zh": "你怎么看狮子王？"
+    },
+    {
+      "id": 303,
+      "start": 767.96,
+      "end": 768.75,
+      "en": "What do you think about his critique?",
+      "zh": "你如何看待他的批评？"
+    },
+    {
+      "id": 304,
+      "start": 769.25,
+      "end": 771.45,
+      "en": "Well, I am with Dick on this one.",
+      "zh": "好吧，我和迪克在这一方面。"
+    },
+    {
+      "id": 305,
+      "start": 771.91,
+      "end": 773.67,
+      "en": "I think that this is a great film.",
+      "zh": "我认为这是一部很棒的电影。"
+    },
+    {
+      "id": 306,
+      "start": 773.8,
+      "end": 777.52,
+      "en": "It was one of my favorites and I've seen it about five billion times.",
+      "zh": "这是我的最爱之一，我已经看过大约 50 亿次。"
+    },
+    {
+      "id": 307,
+      "start": 777.52,
+      "end": 777.71,
+      "en": "Really?",
+      "zh": "真的吗？"
+    },
+    {
+      "id": 308,
+      "start": 778.52,
+      "end": 779.52,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 309,
+      "start": 779.52,
+      "end": 780.52,
+      "en": "You really liked it?",
+      "zh": "你真的喜欢吗？"
+    },
+    {
+      "id": 310,
+      "start": 780.52,
+      "end": 781.52,
+      "en": "But I'm not interested in my opinion.",
+      "zh": "但我对我的意见不感兴趣。"
+    },
+    {
+      "id": 311,
+      "start": 781.52,
+      "end": 783.91,
+      "en": "I want to hear criticisms and film criticisms from our users.",
+      "zh": "我想听听用户的批评和电影批评。"
+    },
+    {
+      "id": 312,
+      "start": 784.53,
+      "end": 784.79,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 313,
+      "start": 784.83,
+      "end": 797.49,
+      "en": "So come to our website at EnglishPod.com where you can leave your questions, your comments, and also any criticisms on this particular movie or maybe the other one that we mentioned, How to Lose a Guy in 10 Days.",
+      "zh": "因此，请访问我们的网站 englishpod.com，您可以在其中留下您的问题、您的评论，以及对这部电影的任何批评，或者我们提到的另一部电影，如何在 10 天内失去一个人。"
+    },
+    {
+      "id": 314,
+      "start": 797.79,
+      "end": 801.11,
+      "en": "Personally, not so fond of that one, but looking forward to hearing from our users.",
+      "zh": "就个人而言，不是那么喜欢那个，而是期待收到我们的用户的来信。"
+    },
+    {
+      "id": 315,
+      "start": 801.41,
+      "end": 801.63,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 316,
+      "start": 802.4,
+      "end": 803.41,
+      "en": "Or maybe any other movies you might like.",
+      "zh": "或者你可能喜欢的任何其他电影。"
+    },
+    {
+      "id": 317,
+      "start": 803.92,
+      "end": 806.95,
+      "en": "So come to the website and until next time.",
+      "zh": "所以来网站，直到下一次。"
+    },
+    {
+      "id": 318,
+      "start": 807.45,
+      "end": 807.61,
+      "en": "Goodbye.",
+      "zh": "再见。"
+    },
+    {
+      "id": 319,
+      "start": 808.24,
+      "end": 814.76,
+      "en": "I'll watch Kill Bill at the end.",
+      "zh": "我会在最后看到杀死比尔。"
+    }
+  ],
+  "dialog": {
+    "start": 85.52,
+    "end": 182.06,
+    "segmentIds": [
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61
+    ]
+  }
+}

@@ -1,0 +1,1655 @@
+{
+  "version": 1,
+  "id": 7,
+  "number": "0007",
+  "title": "The Office - Virus!",
+  "audio": "mp3/7. The Office - Virus!.mp3",
+  "duration": 676.7020625,
+  "segments": [
+    {
+      "id": 1,
+      "start": 2.06,
+      "end": 5.12,
+      "en": "Hello English learners and welcome to EnglishPod.",
+      "zh": "各位英语学习者，大家好，欢迎来到 EnglishPod。"
+    },
+    {
+      "id": 2,
+      "start": 5.4,
+      "end": 6.02,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 6.52,
+      "end": 7.52,
+      "en": "And I'm Erika.",
+      "zh": "我叫 Erika。"
+    },
+    {
+      "id": 4,
+      "start": 7.52,
+      "end": 9.0,
+      "en": "Hey Erika, how are you today?",
+      "zh": "嘿，埃里卡，你今天好吗？"
+    },
+    {
+      "id": 5,
+      "start": 9.0,
+      "end": 13.28,
+      "en": "Marco, I'm doing really well and I'm really looking forward to today's lesson.",
+      "zh": "马可，我做得很好，我真的很期待今天的课程。"
+    },
+    {
+      "id": 6,
+      "start": 13.68,
+      "end": 17.38,
+      "en": "Well so am I because here at EnglishPod we're giving you real English.",
+      "zh": "好吧，我也是，因为在 Englishpod，我们为您提供真正的英语。"
+    },
+    {
+      "id": 7,
+      "start": 18.24,
+      "end": 19.24,
+      "en": "Everyday English.",
+      "zh": "日常英语。"
+    },
+    {
+      "id": 8,
+      "start": 19.24,
+      "end": 23.28,
+      "en": "Exactly, English that you hear in movies or in TV shows.",
+      "zh": "确切地说，您在电影或电视节目中听到的英语。"
+    },
+    {
+      "id": 9,
+      "start": 23.28,
+      "end": 24.9,
+      "en": "This is English people actually use.",
+      "zh": "这是英国人实际使用的。"
+    },
+    {
+      "id": 10,
+      "start": 25.52,
+      "end": 27.44,
+      "en": "So Erica, what is our topic for today?",
+      "zh": "那么埃里卡，我们今天的主题是什么？"
+    },
+    {
+      "id": 11,
+      "start": 27.72,
+      "end": 30.28,
+      "en": "Well today we're talking about computer viruses.",
+      "zh": "好吧，今天我们谈论的是计算机病毒。"
+    },
+    {
+      "id": 12,
+      "start": 31.1,
+      "end": 34.96,
+      "en": "Perfect, so I think it's time for us to take a look at our preview.",
+      "zh": "完美，所以我认为是时候让我们看看我们的预览了。"
+    },
+    {
+      "id": 13,
+      "start": 36.96,
+      "end": 37.39,
+      "en": "Vocabulary Preview.",
+      "zh": "词汇预习。"
+    },
+    {
+      "id": 14,
+      "start": 38.22,
+      "end": 40.64,
+      "en": "Okay, today we've got two words to preview.",
+      "zh": "好的，今天我们有两个词要预览。"
+    },
+    {
+      "id": 15,
+      "start": 41.04,
+      "end": 43.76,
+      "en": "The first word is virus.",
+      "zh": "第一个词是病毒。"
+    },
+    {
+      "id": 16,
+      "start": 43.9,
+      "end": 44.52,
+      "en": "Virus.",
+      "zh": "病毒。"
+    },
+    {
+      "id": 17,
+      "start": 44.86,
+      "end": 45.24,
+      "en": "Virus.",
+      "zh": "病毒。"
+    },
+    {
+      "id": 18,
+      "start": 46.06,
+      "end": 46.3,
+      "en": "Virus.",
+      "zh": "病毒。"
+    },
+    {
+      "id": 19,
+      "start": 46.88,
+      "end": 52.88,
+      "en": "So, if your computer has a computer virus, it means your computer is sick, right?",
+      "zh": "所以，如果你的电脑有电脑病毒，那就意味着你的电脑生病了，对吧？"
+    },
+    {
+      "id": 20,
+      "start": 53.16,
+      "end": 58.78,
+      "en": "Actually a computer virus is a program that is designed to harm or to damage your computer.",
+      "zh": "实际上，计算机病毒是旨在损害或损坏计算机的程序。"
+    },
+    {
+      "id": 21,
+      "start": 59.06,
+      "end": 60.4,
+      "en": "Oh I see, okay.",
+      "zh": "哦，我明白了，好吧。"
+    },
+    {
+      "id": 22,
+      "start": 60.68,
+      "end": 63.52,
+      "en": "Well, thank you for being so technical.",
+      "zh": "好吧，谢谢你的技术性。"
+    },
+    {
+      "id": 23,
+      "start": 63.52,
+      "end": 64.68,
+      "en": "That's the technical explanation.",
+      "zh": "这就是技术解释。"
+    },
+    {
+      "id": 24,
+      "start": 65.32,
+      "end": 71.48,
+      "en": "Okay, let's take a look at our second word for our preview today and that would be froze.",
+      "zh": "好的，让我们看看我们今天预览的第二个字，那将是冻结的。"
+    },
+    {
+      "id": 25,
+      "start": 71.48,
+      "end": 72.48,
+      "en": "Froze.",
+      "zh": "死机了。"
+    },
+    {
+      "id": 26,
+      "start": 72.48,
+      "end": 73.48,
+      "en": "Froze.",
+      "zh": "死机了。"
+    },
+    {
+      "id": 27,
+      "start": 73.48,
+      "end": 74.48,
+      "en": "Froze.",
+      "zh": "死机了。"
+    },
+    {
+      "id": 28,
+      "start": 74.48,
+      "end": 78.32,
+      "en": "So, if your computer froze, it means that...",
+      "zh": "所以，如果你的电脑被冻结，这意味着..."
+    },
+    {
+      "id": 29,
+      "start": 78.32,
+      "end": 79.9,
+      "en": "Your computer stopped working.",
+      "zh": "您的计算机停止工作。"
+    },
+    {
+      "id": 30,
+      "start": 80.48,
+      "end": 84.06,
+      "en": "Your applications or your programs stopped working and you just can't do anything.",
+      "zh": "您的应用程序或您的程序停止工作，您无法做任何事情。"
+    },
+    {
+      "id": 31,
+      "start": 84.36,
+      "end": 85.6,
+      "en": "Your computer is broken.",
+      "zh": "你的电脑坏了。"
+    },
+    {
+      "id": 32,
+      "start": 85.6,
+      "end": 86.16,
+      "en": "Okay, great.",
+      "zh": "好，太好了。"
+    },
+    {
+      "id": 33,
+      "start": 86.42,
+      "end": 87.9,
+      "en": "So, let's listen to our dialogue.",
+      "zh": "所以，让我们听听我们的对话。"
+    },
+    {
+      "id": 34,
+      "start": 88.24,
+      "end": 90.44,
+      "en": "It's going to be a little bit fast but...",
+      "zh": "会有点快，但是..."
+    },
+    {
+      "id": 35,
+      "start": 90.44,
+      "end": 93.56,
+      "en": "Don't worry if you don't understand everything.",
+      "zh": "如果您不了解所有内容，请不要担心。"
+    },
+    {
+      "id": 36,
+      "start": 93.56,
+      "end": 97.6,
+      "en": "At the end of this podcast, you'll understand everything.",
+      "zh": "在这个播客的结尾，你会明白一切。"
+    },
+    {
+      "id": 37,
+      "start": 97.6,
+      "end": 100.6,
+      "en": "Perfect, let's listen.",
+      "zh": "完美，让我们听。"
+    },
+    {
+      "id": 38,
+      "start": 100.6,
+      "end": 110.04,
+      "en": "Oh great, the stupid computer froze again.",
+      "zh": "真是的，这破电脑又死机了。"
+    },
+    {
+      "id": 39,
+      "start": 110.04,
+      "end": 113.16,
+      "en": "It's the third time today.",
+      "zh": "这是今天第三次。"
+    },
+    {
+      "id": 40,
+      "start": 118.06,
+      "end": 120.08,
+      "en": "Hey Samuel, can you come take a look at my PC?",
+      "zh": "嘿，塞缪尔，你能来看看我的电脑吗？"
+    },
+    {
+      "id": 41,
+      "start": 120.7,
+      "end": 121.48,
+      "en": "It's acting up again.",
+      "zh": "它又出毛病了。"
+    },
+    {
+      "id": 42,
+      "start": 121.76,
+      "end": 122.76,
+      "en": "It must have a virus or something.",
+      "zh": "它八成是中了病毒。"
+    },
+    {
+      "id": 43,
+      "start": 123.9,
+      "end": 125.24,
+      "en": "Just give me a second, I'll be right up.",
+      "zh": "等我一下，我马上上来。"
+    },
+    {
+      "id": 44,
+      "start": 136.21,
+      "end": 140.33,
+      "en": "I ran a virus scan on your computer and it turns out that you have a lot of infected files.",
+      "zh": "我给你的电脑做了病毒扫描，发现有很多文件被感染了。"
+    },
+    {
+      "id": 45,
+      "start": 140.91,
+      "end": 143.17,
+      "en": "But I'm quite careful when I'm browsing the internet.",
+      "zh": "但是当我浏览互联网时，我非常小心。"
+    },
+    {
+      "id": 46,
+      "start": 143.73,
+      "end": 145.85,
+      "en": "I have no idea how I could have picked up a virus.",
+      "zh": "我完全不知道是怎么染上病毒的。"
+    },
+    {
+      "id": 47,
+      "start": 146.72,
+      "end": 150.48,
+      "en": "Well, you have to make sure their antivirus software is updated regularly.",
+      "zh": "你得确保杀毒软件定期更新。"
+    },
+    {
+      "id": 48,
+      "start": 151.24,
+      "end": 152.14,
+      "en": "Yours wasn't up to date.",
+      "zh": "你的杀毒软件没有更新到最新版。"
+    },
+    {
+      "id": 49,
+      "start": 152.44,
+      "end": 154.08,
+      "en": "That's probably what was causing your problems.",
+      "zh": "这可能是导致您问题的原因。"
+    },
+    {
+      "id": 50,
+      "start": 154.6,
+      "end": 155.84,
+      "en": "Okay, anything else?",
+      "zh": "好吧，还有什么吗？"
+    },
+    {
+      "id": 51,
+      "start": 156.58,
+      "end": 158.96,
+      "en": "Yeah, try not to kick or hit the computer.",
+      "zh": "还有，尽量别踢电脑或砸电脑。"
+    },
+    {
+      "id": 52,
+      "start": 159.76,
+      "end": 161.34,
+      "en": "Um, yeah, sorry about that.",
+      "zh": "嗯，是的，对不起。"
+    },
+    {
+      "id": 53,
+      "start": 169.48,
+      "end": 171.09,
+      "en": "Well I completely understand this guy.",
+      "zh": "好吧，我完全理解这个人。"
+    },
+    {
+      "id": 54,
+      "start": 171.28,
+      "end": 175.52,
+      "en": "When my computer freezes, I kick it and punch it and do everything to it.",
+      "zh": "当我的电脑冻结时，我踢它并打它并对它做所有事情。"
+    },
+    {
+      "id": 55,
+      "start": 175.59,
+      "end": 177.53,
+      "en": "I hope you don't punch it too hard, Marco.",
+      "zh": "我希望你不要用力打得太厉害，马可。"
+    },
+    {
+      "id": 56,
+      "start": 178.04,
+      "end": 180.08,
+      "en": "Well it's still working so it's alright.",
+      "zh": "好吧，它仍在工作，所以没关系。"
+    },
+    {
+      "id": 57,
+      "start": 180.08,
+      "end": 181.08,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 58,
+      "start": 181.08,
+      "end": 186.34,
+      "en": "Alright, let's take a look at our language takeaway.",
+      "zh": "好吧，让我们来看看我们的语言外卖。"
+    },
+    {
+      "id": 59,
+      "start": 186.34,
+      "end": 186.72,
+      "en": "Language takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 60,
+      "start": 188.64,
+      "end": 191.77,
+      "en": "In today's language takeaway, we have two words.",
+      "zh": "在今天的语言外卖中，我们有两个词。"
+    },
+    {
+      "id": 61,
+      "start": 192.44,
+      "end": 196.13,
+      "en": "The first word for today is infected file.",
+      "zh": "今天的第一个词是受感染的文件。"
+    },
+    {
+      "id": 62,
+      "start": 197.58,
+      "end": 199.32,
+      "en": "Infected file.",
+      "zh": "受感染的文件。"
+    },
+    {
+      "id": 63,
+      "start": 199.32,
+      "end": 201.12,
+      "en": "Infected file.",
+      "zh": "受感染的文件。"
+    },
+    {
+      "id": 64,
+      "start": 201.12,
+      "end": 202.12,
+      "en": "Infected file.",
+      "zh": "受感染的文件。"
+    },
+    {
+      "id": 65,
+      "start": 202.12,
+      "end": 203.74,
+      "en": "And what is an infected file?",
+      "zh": "什么是受感染的文件？"
+    },
+    {
+      "id": 66,
+      "start": 203.74,
+      "end": 208.72,
+      "en": "An infected file is a file in your computer that has a virus in it.",
+      "zh": "受感染的文件是计算机中包含病毒的文件。"
+    },
+    {
+      "id": 67,
+      "start": 208.89,
+      "end": 209.43,
+      "en": "Ah, perfect.",
+      "zh": "啊，完美。"
+    },
+    {
+      "id": 68,
+      "start": 209.85,
+      "end": 210.65,
+      "en": "That's really clear.",
+      "zh": "这真的很清楚。"
+    },
+    {
+      "id": 69,
+      "start": 211.57,
+      "end": 214.87,
+      "en": "What is our second word for the language takeaway today?",
+      "zh": "我们今天的语言要点的第二个词是什么？"
+    },
+    {
+      "id": 70,
+      "start": 215.15,
+      "end": 218.22,
+      "en": "Our second word is not up to date.",
+      "zh": "我们的第二个词不是最新的。"
+    },
+    {
+      "id": 71,
+      "start": 219.0,
+      "end": 219.6,
+      "en": "Not up to date.",
+      "zh": "不是最新的。"
+    },
+    {
+      "id": 72,
+      "start": 220.14,
+      "end": 220.76,
+      "en": "Not up to date.",
+      "zh": "不是最新的。"
+    },
+    {
+      "id": 73,
+      "start": 221.22,
+      "end": 223.72,
+      "en": "And what is it when something is not up to date?",
+      "zh": "当某些东西不是最新的时，它是什么？"
+    },
+    {
+      "id": 74,
+      "start": 224.2,
+      "end": 228.2,
+      "en": "It means it doesn't have all the most recent information.",
+      "zh": "这意味着它没有所有最新的信息。"
+    },
+    {
+      "id": 75,
+      "start": 228.86,
+      "end": 229.68,
+      "en": "Okay, perfect.",
+      "zh": "好，太好了。"
+    },
+    {
+      "id": 76,
+      "start": 230.44,
+      "end": 232.12,
+      "en": "Now let's listen to some examples.",
+      "zh": "现在让我们听一些例子。"
+    },
+    {
+      "id": 77,
+      "start": 234.52,
+      "end": 239.2,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 78,
+      "start": 239.21,
+      "end": 241.83,
+      "en": "I need to buy a new computer because mine isn't up to date.",
+      "zh": "我需要买一台新电脑，因为我的不是最新的。"
+    },
+    {
+      "id": 79,
+      "start": 246.98,
+      "end": 247.76,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 80,
+      "start": 252.0,
+      "end": 253.08,
+      "en": "I can't find the street.",
+      "zh": "我找不到街道。"
+    },
+    {
+      "id": 81,
+      "start": 253.48,
+      "end": 254.96,
+      "en": "Are you sure this map is up to date?",
+      "zh": "你确定这张地图是最新的吗？"
+    },
+    {
+      "id": 82,
+      "start": 259.2,
+      "end": 260.22,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 83,
+      "start": 265.45,
+      "end": 269.21,
+      "en": "Sarah has just finished the reports and all the information is up to date.",
+      "zh": "莎拉刚刚完成报告，所有信息都是最新的。"
+    },
+    {
+      "id": 84,
+      "start": 272.62,
+      "end": 274.22,
+      "en": "Okay, that was pretty clear.",
+      "zh": "好吧，这很清楚。"
+    },
+    {
+      "id": 85,
+      "start": 274.8,
+      "end": 278.24,
+      "en": "You know, you can also use this phrase positively.",
+      "zh": "你知道，你也可以积极地使用这个短语。"
+    },
+    {
+      "id": 86,
+      "start": 278.24,
+      "end": 279.9,
+      "en": "You can say up to date.",
+      "zh": "你可以说是最新的。"
+    },
+    {
+      "id": 87,
+      "start": 280.46,
+      "end": 283.14,
+      "en": "Okay, for example, we can say this is a new map.",
+      "zh": "好吧，例如，我们可以说这是一张新地图。"
+    },
+    {
+      "id": 88,
+      "start": 283.46,
+      "end": 285.28,
+      "en": "This is the most up to date map.",
+      "zh": "这是最新的地图。"
+    },
+    {
+      "id": 89,
+      "start": 285.84,
+      "end": 286.08,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 90,
+      "start": 286.42,
+      "end": 290.16,
+      "en": "Or if I bought a new computer, I could say I just got a new computer.",
+      "zh": "或者如果我买了一台新电脑，我可以说我刚买了一台新电脑。"
+    },
+    {
+      "id": 91,
+      "start": 290.72,
+      "end": 293.26,
+      "en": "All my software is up to date.",
+      "zh": "我所有的软件都是最新的。"
+    },
+    {
+      "id": 92,
+      "start": 293.5,
+      "end": 294.14,
+      "en": "Okay, great.",
+      "zh": "好，太好了。"
+    },
+    {
+      "id": 93,
+      "start": 294.54,
+      "end": 296.36,
+      "en": "So now let's take a look at some phrases.",
+      "zh": "所以现在让我们来看看一些短语。"
+    },
+    {
+      "id": 94,
+      "start": 297.02,
+      "end": 299.32,
+      "en": "And it's time for putting it all together.",
+      "zh": "是时候把它们放在一起了。"
+    },
+    {
+      "id": 95,
+      "start": 301.58,
+      "end": 302.38,
+      "en": "Putting it together.",
+      "zh": "综合运用。"
+    },
+    {
+      "id": 96,
+      "start": 303.68,
+      "end": 307.18,
+      "en": "Okay, so Samuel said a really great phrase.",
+      "zh": "好吧，所以塞缪尔说了一个非常棒的短语。"
+    },
+    {
+      "id": 97,
+      "start": 307.56,
+      "end": 309.42,
+      "en": "He said, I'll be right up.",
+      "zh": "他说，我马上上去。"
+    },
+    {
+      "id": 98,
+      "start": 309.72,
+      "end": 310.74,
+      "en": "I'll be right up.",
+      "zh": "我马上上来。"
+    },
+    {
+      "id": 99,
+      "start": 310.94,
+      "end": 311.86,
+      "en": "I'll be right up.",
+      "zh": "我马上上来。"
+    },
+    {
+      "id": 100,
+      "start": 312.12,
+      "end": 313.26,
+      "en": "I'll be right up.",
+      "zh": "我马上上来。"
+    },
+    {
+      "id": 101,
+      "start": 313.48,
+      "end": 316.66,
+      "en": "Now, we can use this phrase in a lot of different situations.",
+      "zh": "现在，我们可以在许多不同的情况下使用这个短语。"
+    },
+    {
+      "id": 102,
+      "start": 316.66,
+      "end": 319.38,
+      "en": "So let's listen to some examples.",
+      "zh": "所以让我们听一些例子。"
+    },
+    {
+      "id": 103,
+      "start": 321.0,
+      "end": 321.25,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 104,
+      "start": 323.76,
+      "end": 324.51,
+      "en": "Can you help me with my computer?",
+      "zh": "你能帮我处理我的电脑吗？"
+    },
+    {
+      "id": 105,
+      "start": 325.32,
+      "end": 325.95,
+      "en": "I'll be right there.",
+      "zh": "我会在那里。"
+    },
+    {
+      "id": 106,
+      "start": 330.28,
+      "end": 331.04,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 107,
+      "start": 333.53,
+      "end": 334.09,
+      "en": "Come downstairs.",
+      "zh": "下楼来。"
+    },
+    {
+      "id": 108,
+      "start": 334.63,
+      "end": 335.09,
+      "en": "Dinner is ready.",
+      "zh": "晚餐准备好了。"
+    },
+    {
+      "id": 109,
+      "start": 335.75,
+      "end": 336.61,
+      "en": "I'll be right down.",
+      "zh": "我会马上下来的。"
+    },
+    {
+      "id": 110,
+      "start": 339.99,
+      "end": 341.19,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 111,
+      "start": 344.46,
+      "end": 344.94,
+      "en": "Hurry up.",
+      "zh": "快点。"
+    },
+    {
+      "id": 112,
+      "start": 344.94,
+      "end": 346.0,
+      "en": "I need to use the bathroom.",
+      "zh": "我需要使用浴室。"
+    },
+    {
+      "id": 113,
+      "start": 347.16,
+      "end": 348.3,
+      "en": "I'll be right out.",
+      "zh": "我马上出去。"
+    },
+    {
+      "id": 114,
+      "start": 352.87,
+      "end": 355.29,
+      "en": "Okay, really great and clear examples, right?",
+      "zh": "好的，非常好的和清晰的例子，对吧？"
+    },
+    {
+      "id": 115,
+      "start": 355.55,
+      "end": 357.93,
+      "en": "Yeah, you know that phrase, I'll be right out.",
+      "zh": "是的，你知道这句话，我会马上出去的。"
+    },
+    {
+      "id": 116,
+      "start": 358.23,
+      "end": 360.91,
+      "en": "I used to hear this all the time when I was young.",
+      "zh": "我年轻的时候一直听到这个。"
+    },
+    {
+      "id": 117,
+      "start": 361.16,
+      "end": 362.16,
+      "en": "Really?",
+      "zh": "真的吗？"
+    },
+    {
+      "id": 118,
+      "start": 362.16,
+      "end": 363.16,
+      "en": "How come?",
+      "zh": "怎么会这样？"
+    },
+    {
+      "id": 119,
+      "start": 363.16,
+      "end": 365.84,
+      "en": "Well, I have two sisters and we were always fighting for the bathroom.",
+      "zh": "好吧，我有两个姐妹，我们一直在为浴室而战。"
+    },
+    {
+      "id": 120,
+      "start": 365.84,
+      "end": 369.63,
+      "en": "So someone was always saying, just a minute, I'll be right out.",
+      "zh": "所以有人总是说，一分钟，我马上就出来。"
+    },
+    {
+      "id": 121,
+      "start": 370.12,
+      "end": 371.23,
+      "en": "Ah, yes, that's common.",
+      "zh": "啊，是的，这很常见。"
+    },
+    {
+      "id": 122,
+      "start": 371.48,
+      "end": 373.28,
+      "en": "I had that too when I was young.",
+      "zh": "我年轻的时候也有。"
+    },
+    {
+      "id": 123,
+      "start": 373.35,
+      "end": 376.69,
+      "en": "Okay, now our second phrase is, it turns out that.",
+      "zh": "好的，现在我们的第二个短语是，事实证明。"
+    },
+    {
+      "id": 124,
+      "start": 377.09,
+      "end": 378.13,
+      "en": "It turns out that.",
+      "zh": "结果是……"
+    },
+    {
+      "id": 125,
+      "start": 378.86,
+      "end": 380.28,
+      "en": "It turns out that.",
+      "zh": "结果是……"
+    },
+    {
+      "id": 126,
+      "start": 380.28,
+      "end": 381.76,
+      "en": "It turns out that.",
+      "zh": "结果是……"
+    },
+    {
+      "id": 127,
+      "start": 381.76,
+      "end": 383.0,
+      "en": "This is a great phrase.",
+      "zh": "这个短语很实用。"
+    },
+    {
+      "id": 128,
+      "start": 383.0,
+      "end": 384.84,
+      "en": "You can use it in many different situations.",
+      "zh": "您可以在许多不同的情况下使用它。"
+    },
+    {
+      "id": 129,
+      "start": 384.91,
+      "end": 386.81,
+      "en": "Marco, can you give us an example?",
+      "zh": "马可，你能给我们举个例子吗？"
+    },
+    {
+      "id": 130,
+      "start": 387.43,
+      "end": 387.75,
+      "en": "Sure.",
+      "zh": "当然。"
+    },
+    {
+      "id": 131,
+      "start": 388.15,
+      "end": 393.95,
+      "en": "For example, I can say, Frank didn't come to work today and it turns out that he was sick.",
+      "zh": "例如，我可以说，弗兰克今天没有来上班，事实证明他病了。"
+    },
+    {
+      "id": 132,
+      "start": 394.96,
+      "end": 395.96,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 133,
+      "start": 395.96,
+      "end": 399.79,
+      "en": "Or I could say, oh, I've been feeling really sick recently.",
+      "zh": "或者我可以说，哦，我最近感觉很恶心。"
+    },
+    {
+      "id": 134,
+      "start": 400.4,
+      "end": 400.77,
+      "en": "Why?",
+      "zh": "为什么？"
+    },
+    {
+      "id": 135,
+      "start": 401.48,
+      "end": 403.33,
+      "en": "It turns out that I'm pregnant.",
+      "zh": "事实证明我怀孕了。"
+    },
+    {
+      "id": 136,
+      "start": 403.67,
+      "end": 404.25,
+      "en": "Oh my God.",
+      "zh": "我的天哪。"
+    },
+    {
+      "id": 137,
+      "start": 404.25,
+      "end": 404.99,
+      "en": "Are you really pregnant?",
+      "zh": "你真的怀孕了吗？"
+    },
+    {
+      "id": 138,
+      "start": 405.25,
+      "end": 405.81,
+      "en": "No, I'm not.",
+      "zh": "不，我不是。"
+    },
+    {
+      "id": 139,
+      "start": 406.48,
+      "end": 406.69,
+      "en": "I'm just kidding.",
+      "zh": "我开玩笑的。"
+    },
+    {
+      "id": 140,
+      "start": 407.48,
+      "end": 408.48,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 141,
+      "start": 408.48,
+      "end": 413.69,
+      "en": "So it's time for us to listen to our dialogue again, but this time it'll be a little bit slower.",
+      "zh": "所以是时候让我们再次听我们的对话了，但这一次会慢一点。"
+    },
+    {
+      "id": 142,
+      "start": 414.52,
+      "end": 417.26,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 143,
+      "start": 419.92,
+      "end": 421.18,
+      "en": "Oh great.",
+      "zh": "哦，太好了。"
+    },
+    {
+      "id": 144,
+      "start": 422.04,
+      "end": 424.74,
+      "en": "This stupid computer froze again.",
+      "zh": "这台愚蠢的电脑又冻结了。"
+    },
+    {
+      "id": 145,
+      "start": 425.54,
+      "end": 427.42,
+      "en": "That's the third time today.",
+      "zh": "这是今天第三次。"
+    },
+    {
+      "id": 146,
+      "start": 428.2,
+      "end": 431.56,
+      "en": "Hey Samuel, can you come take a look at my PC?",
+      "zh": "嘿，塞缪尔，你能来看看我的电脑吗？"
+    },
+    {
+      "id": 147,
+      "start": 432.62,
+      "end": 433.78,
+      "en": "It's acting up again.",
+      "zh": "它又出毛病了。"
+    },
+    {
+      "id": 148,
+      "start": 434.58,
+      "end": 436.64,
+      "en": "It must have a virus or something.",
+      "zh": "它八成是中了病毒。"
+    },
+    {
+      "id": 149,
+      "start": 437.48,
+      "end": 439.04,
+      "en": "Just give me a second.",
+      "zh": "给我一秒钟。"
+    },
+    {
+      "id": 150,
+      "start": 439.32,
+      "end": 440.16,
+      "en": "I'll be right up.",
+      "zh": "我马上上来。"
+    },
+    {
+      "id": 151,
+      "start": 443.3,
+      "end": 449.96,
+      "en": "I ran a virus scan on your computer and it turns out that you have a lot of infected files.",
+      "zh": "我给你的电脑做了病毒扫描，发现有很多文件被感染了。"
+    },
+    {
+      "id": 152,
+      "start": 450.75,
+      "end": 454.23,
+      "en": "But I'm quite careful when I'm browsing the internet.",
+      "zh": "但是当我浏览互联网时，我非常小心。"
+    },
+    {
+      "id": 153,
+      "start": 455.09,
+      "end": 458.33,
+      "en": "I have no idea how I could have picked up a virus.",
+      "zh": "我完全不知道是怎么染上病毒的。"
+    },
+    {
+      "id": 154,
+      "start": 458.95,
+      "end": 464.71,
+      "en": "Well, you have to make sure that your antivirus software is updated regularly.",
+      "zh": "好吧，您必须确保您的防病毒软件定期更新。"
+    },
+    {
+      "id": 155,
+      "start": 465.67,
+      "end": 466.95,
+      "en": "Yours wasn't up to date.",
+      "zh": "你的杀毒软件没有更新到最新版。"
+    },
+    {
+      "id": 156,
+      "start": 467.92,
+      "end": 471.64,
+      "en": "It's probably what was causing your problems.",
+      "zh": "这可能是导致您问题的原因。"
+    },
+    {
+      "id": 157,
+      "start": 471.64,
+      "end": 473.16,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 158,
+      "start": 473.16,
+      "end": 473.61,
+      "en": "Anything else?",
+      "zh": "还要别的吗？"
+    },
+    {
+      "id": 159,
+      "start": 474.64,
+      "end": 475.26,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 160,
+      "start": 475.46,
+      "end": 478.32,
+      "en": "Try not to kick or hit the computer.",
+      "zh": "尽量不要踢或撞到电脑。"
+    },
+    {
+      "id": 161,
+      "start": 479.04,
+      "end": 480.64,
+      "en": "Um, yeah.",
+      "zh": "嗯，是的。"
+    },
+    {
+      "id": 162,
+      "start": 480.64,
+      "end": 481.52,
+      "en": "Sorry about that.",
+      "zh": "抱歉。"
+    },
+    {
+      "id": 163,
+      "start": 485.0,
+      "end": 485.52,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 164,
+      "start": 486.12,
+      "end": 488.1,
+      "en": "That was a lot more clear this time.",
+      "zh": "这次要清楚得多。"
+    },
+    {
+      "id": 165,
+      "start": 488.36,
+      "end": 488.66,
+      "en": "Definitely.",
+      "zh": "当然。"
+    },
+    {
+      "id": 166,
+      "start": 488.96,
+      "end": 489.1,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 167,
+      "start": 489.22,
+      "end": 490.14,
+      "en": "I understood a lot more.",
+      "zh": "我明白了很多。"
+    },
+    {
+      "id": 168,
+      "start": 490.5,
+      "end": 490.66,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 169,
+      "start": 490.72,
+      "end": 494.42,
+      "en": "So now it's time to look at Fluency Builder.",
+      "zh": "所以现在是时候看看 Fluency Builder 了。"
+    },
+    {
+      "id": 170,
+      "start": 494.84,
+      "end": 497.68,
+      "en": "Erica, why don't you explain what Fluency Builder is?",
+      "zh": "Erica，你为什么不解释什么是 Fluency Builder？"
+    },
+    {
+      "id": 171,
+      "start": 498.24,
+      "end": 505.46,
+      "en": "In Fluency Builder, we give you some great useful phrases to help you express your ideas clearly.",
+      "zh": "在 Fluency Builder 中，我们为您提供了一些非常有用的短语来帮助您清楚地表达您的想法。"
+    },
+    {
+      "id": 172,
+      "start": 506.06,
+      "end": 506.68,
+      "en": "Okay, great.",
+      "zh": "好，太好了。"
+    },
+    {
+      "id": 173,
+      "start": 506.78,
+      "end": 508.82,
+      "en": "So let's look at Fluency Builder.",
+      "zh": "所以让我们看看 Fluency Builder。"
+    },
+    {
+      "id": 174,
+      "start": 510.56,
+      "end": 510.83,
+      "en": "Fluency Builder.",
+      "zh": "流利表达。"
+    },
+    {
+      "id": 175,
+      "start": 511.56,
+      "end": 511.71,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 176,
+      "start": 512.56,
+      "end": 515.15,
+      "en": "So in this dialogue, we know his computer wasn't working.",
+      "zh": "所以在这个对话中，我们知道他的电脑不工作。"
+    },
+    {
+      "id": 177,
+      "start": 515.68,
+      "end": 515.85,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 178,
+      "start": 516.68,
+      "end": 521.83,
+      "en": "So many students would probably say his computer was acting strangely.",
+      "zh": "这么多学生可能会说他的电脑表现得很奇怪。"
+    },
+    {
+      "id": 179,
+      "start": 522.5,
+      "end": 524.91,
+      "en": "His computer isn't working properly.",
+      "zh": "他的电脑无法正常工作。"
+    },
+    {
+      "id": 180,
+      "start": 525.64,
+      "end": 526.64,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 181,
+      "start": 526.64,
+      "end": 528.04,
+      "en": "And that's perfect and that's fine.",
+      "zh": "这很完美，这很好。"
+    },
+    {
+      "id": 182,
+      "start": 528.05,
+      "end": 528.21,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 183,
+      "start": 528.33,
+      "end": 532.37,
+      "en": "But there's a really great way to say it that we heard in the dialogue.",
+      "zh": "但是有一种非常好的方式可以说我们在对话中听到了。"
+    },
+    {
+      "id": 184,
+      "start": 533.25,
+      "end": 535.03,
+      "en": "It's acting up again.",
+      "zh": "它又出毛病了。"
+    },
+    {
+      "id": 185,
+      "start": 536.77,
+      "end": 538.51,
+      "en": "It's acting up again.",
+      "zh": "它又出毛病了。"
+    },
+    {
+      "id": 186,
+      "start": 540.17,
+      "end": 541.49,
+      "en": "I love this phrase.",
+      "zh": "我喜欢这个短语。"
+    },
+    {
+      "id": 187,
+      "start": 542.03,
+      "end": 542.87,
+      "en": "It's acting up.",
+      "zh": "它正在发挥作用。"
+    },
+    {
+      "id": 188,
+      "start": 543.35,
+      "end": 543.59,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 189,
+      "start": 544.12,
+      "end": 545.15,
+      "en": "It just sounds really natural.",
+      "zh": "这听起来很自然。"
+    },
+    {
+      "id": 190,
+      "start": 545.36,
+      "end": 546.51,
+      "en": "It sounds really natural.",
+      "zh": "听起来真的很自然。"
+    },
+    {
+      "id": 191,
+      "start": 546.83,
+      "end": 547.05,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 192,
+      "start": 547.05,
+      "end": 553.71,
+      "en": "We're going to listen to our dialogue a third time, but this time it'll be at the normal speed.",
+      "zh": "我们将第三次聆听我们的对话，但这一次将以正常速度。"
+    },
+    {
+      "id": 193,
+      "start": 554.28,
+      "end": 559.2,
+      "en": "Try and see if you can hear these key words.",
+      "zh": "试着看看你是否能听到这些关键词。"
+    },
+    {
+      "id": 194,
+      "start": 559.2,
+      "end": 566.48,
+      "en": "Oh, great.",
+      "zh": "哦，太好了。"
+    },
+    {
+      "id": 195,
+      "start": 566.48,
+      "end": 568.54,
+      "en": "The stupid computer froze again.",
+      "zh": "愚蠢的电脑再次冻结。"
+    },
+    {
+      "id": 196,
+      "start": 568.54,
+      "end": 569.36,
+      "en": "It's the third time today.",
+      "zh": "这是今天第三次。"
+    },
+    {
+      "id": 197,
+      "start": 576.64,
+      "end": 577.18,
+      "en": "Hey, Samuel.",
+      "zh": "嘿，塞缪尔。"
+    },
+    {
+      "id": 198,
+      "start": 577.42,
+      "end": 578.48,
+      "en": "Can you come take a look at my PC?",
+      "zh": "你能来看看我的电脑吗？"
+    },
+    {
+      "id": 199,
+      "start": 579.28,
+      "end": 580.28,
+      "en": "It's acting up again.",
+      "zh": "它又出毛病了。"
+    },
+    {
+      "id": 200,
+      "start": 580.28,
+      "end": 582.28,
+      "en": "It must have a virus or something.",
+      "zh": "它八成是中了病毒。"
+    },
+    {
+      "id": 201,
+      "start": 582.38,
+      "end": 583.08,
+      "en": "Just give me a second.",
+      "zh": "给我一秒钟。"
+    },
+    {
+      "id": 202,
+      "start": 583.26,
+      "end": 583.68,
+      "en": "I'll be right up.",
+      "zh": "我马上上来。"
+    },
+    {
+      "id": 203,
+      "start": 594.73,
+      "end": 598.83,
+      "en": "I ran a virus scan on your computer and it turns out that you have a lot of infected files.",
+      "zh": "我给你的电脑做了病毒扫描，发现有很多文件被感染了。"
+    },
+    {
+      "id": 204,
+      "start": 599.41,
+      "end": 601.67,
+      "en": "But I'm quite careful when I'm browsing the internet.",
+      "zh": "但是当我浏览互联网时，我非常小心。"
+    },
+    {
+      "id": 205,
+      "start": 602.25,
+      "end": 604.37,
+      "en": "I have no idea how I could have picked up a virus.",
+      "zh": "我完全不知道是怎么染上病毒的。"
+    },
+    {
+      "id": 206,
+      "start": 605.19,
+      "end": 609.03,
+      "en": "Well, you have to make sure their antivirus software is updated regularly.",
+      "zh": "你得确保杀毒软件定期更新。"
+    },
+    {
+      "id": 207,
+      "start": 609.81,
+      "end": 610.67,
+      "en": "Yours wasn't up to date.",
+      "zh": "你的杀毒软件没有更新到最新版。"
+    },
+    {
+      "id": 208,
+      "start": 610.95,
+      "end": 612.59,
+      "en": "That's probably what was causing your problems.",
+      "zh": "这可能是导致您问题的原因。"
+    },
+    {
+      "id": 209,
+      "start": 613.17,
+      "end": 613.53,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 210,
+      "start": 613.97,
+      "end": 614.35,
+      "en": "Anything else?",
+      "zh": "还要别的吗？"
+    },
+    {
+      "id": 211,
+      "start": 615.05,
+      "end": 615.53,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 212,
+      "start": 615.65,
+      "end": 617.47,
+      "en": "Try not to kick or hit the computer.",
+      "zh": "尽量不要踢或撞到电脑。"
+    },
+    {
+      "id": 213,
+      "start": 618.71,
+      "end": 618.95,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 214,
+      "start": 619.15,
+      "end": 619.85,
+      "en": "Sorry about that.",
+      "zh": "抱歉。"
+    },
+    {
+      "id": 215,
+      "start": 627.72,
+      "end": 632.18,
+      "en": "So Marco, I really think that my computer actually has a virus now.",
+      "zh": "所以马可，我真的认为我的电脑现在真的有病毒了。"
+    },
+    {
+      "id": 216,
+      "start": 632.56,
+      "end": 632.76,
+      "en": "Really?",
+      "zh": "真的吗？"
+    },
+    {
+      "id": 217,
+      "start": 632.96,
+      "end": 633.2,
+      "en": "How come?",
+      "zh": "怎么会这样？"
+    },
+    {
+      "id": 218,
+      "start": 633.5,
+      "end": 639.02,
+      "en": "Because I have been turning on my computer and then suddenly it turns off by itself.",
+      "zh": "因为我一直在打开我的电脑，然后它突然自动关闭。"
+    },
+    {
+      "id": 219,
+      "start": 639.4,
+      "end": 640.54,
+      "en": "It shuts down by itself.",
+      "zh": "它自己关闭。"
+    },
+    {
+      "id": 220,
+      "start": 640.88,
+      "end": 641.08,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 221,
+      "start": 641.18,
+      "end": 642.22,
+      "en": "That sounds like a virus.",
+      "zh": "这听起来像病毒。"
+    },
+    {
+      "id": 222,
+      "start": 642.5,
+      "end": 645.72,
+      "en": "But I ran a virus scan and there was no problem.",
+      "zh": "但是我运行了病毒扫描，没有问题。"
+    },
+    {
+      "id": 223,
+      "start": 646.3,
+      "end": 650.16,
+      "en": "Well, maybe your antivirus software isn't up to date.",
+      "zh": "好吧，也许您的防病毒软件不是最新的。"
+    },
+    {
+      "id": 224,
+      "start": 650.5,
+      "end": 650.7,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 225,
+      "start": 650.84,
+      "end": 652.2,
+      "en": "I guess I'd better call Samuel.",
+      "zh": "我想我最好打电话给塞缪尔。"
+    },
+    {
+      "id": 226,
+      "start": 652.2,
+      "end": 652.58,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 227,
+      "start": 653.24,
+      "end": 654.94,
+      "en": "You can call Samuel to fix it.",
+      "zh": "你可以打电话给塞缪尔来修复它。"
+    },
+    {
+      "id": 228,
+      "start": 655.32,
+      "end": 656.32,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 229,
+      "start": 656.32,
+      "end": 657.32,
+      "en": "All right, folks.",
+      "zh": "好了，各位。"
+    },
+    {
+      "id": 230,
+      "start": 657.32,
+      "end": 663.38,
+      "en": "We're out of time now, but be sure to go to our website at EnglishPod.com where you can leave all your questions and comments.",
+      "zh": "我们现在没有时间了，但请务必访问我们的 englishpod.com 网站，您可以在其中留下所有问题和评论。"
+    },
+    {
+      "id": 231,
+      "start": 663.38,
+      "end": 665.43,
+      "en": "So stay tuned for our next great lesson.",
+      "zh": "因此，请继续关注我们的下一个精彩课程。"
+    },
+    {
+      "id": 232,
+      "start": 665.72,
+      "end": 667.47,
+      "en": "And until next time, goodbye.",
+      "zh": "下次再见，拜拜。"
+    }
+  ],
+  "dialog": {
+    "start": 100.6,
+    "end": 161.34,
+    "segmentIds": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52
+    ]
+  }
+}

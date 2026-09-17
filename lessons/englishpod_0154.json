@@ -1,0 +1,1848 @@
+{
+  "version": 1,
+  "id": 154,
+  "number": "0154",
+  "title": "The Weekend - Rock Band",
+  "audio": "mp3/154. The Weekend - Rock Band.mp3",
+  "duration": 822.7004375,
+  "segments": [
+    {
+      "id": 1,
+      "start": 2.84,
+      "end": 6.64,
+      "en": "Hello, everyone and welcome back to another lesson here at EnglishPod.",
+      "zh": "大家好，欢迎回到 Englishpod 的另一节课。"
+    },
+    {
+      "id": 2,
+      "start": 6.92,
+      "end": 7.92,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 7.92,
+      "end": 13.36,
+      "en": "Katerina And my name is Katerina and today we're talking about a topic very close to my heart, music.",
+      "zh": "Katerina 和我的名字是 Katerina，今天我们谈论的是一个非常贴近我内心的话题，音乐。"
+    },
+    {
+      "id": 4,
+      "start": 13.36,
+      "end": 14.36,
+      "en": "Marco That's right.",
+      "zh": "马可 没错。"
+    },
+    {
+      "id": 5,
+      "start": 14.36,
+      "end": 21.64,
+      "en": "We're going to be talking about music and more specifically, we are going to talk about musical instruments that you would use in a band.",
+      "zh": "我们将谈论音乐，更具体地说，我们将谈论您将在乐队中使用的乐器。"
+    },
+    {
+      "id": 6,
+      "start": 21.88,
+      "end": 22.88,
+      "en": "Katerina All right.",
+      "zh": "卡特琳娜 好吧。"
+    },
+    {
+      "id": 7,
+      "start": 22.88,
+      "end": 30.14,
+      "en": "And so some people like to make their own music, get together, hang out, play music together, so that's what we're talking about today.",
+      "zh": "所以有些人喜欢制作自己的音乐、聚在一起、闲逛、一起演奏音乐，这就是我们今天所说的。"
+    },
+    {
+      "id": 8,
+      "start": 30.96,
+      "end": 39.26,
+      "en": "We've got a new band that's going to start and before we get going, we've got a word to talk about and let's check this out in today's vocabulary preview.",
+      "zh": "我们有一个新的乐队即将开始，在我们开始之前，我们有一个词要谈，让我们在今天的词汇预览中看看这一点。"
+    },
+    {
+      "id": 9,
+      "start": 41.64,
+      "end": 42.64,
+      "en": "Vocabulary Preview.",
+      "zh": "词汇预习。"
+    },
+    {
+      "id": 10,
+      "start": 42.64,
+      "end": 43.64,
+      "en": "Marco All right.",
+      "zh": "Marco，好吧。"
+    },
+    {
+      "id": 11,
+      "start": 43.64,
+      "end": 45.93,
+      "en": "So as I mentioned, we are going to talk about instruments.",
+      "zh": "正如我所提到的，我们将谈论仪器。"
+    },
+    {
+      "id": 12,
+      "start": 46.24,
+      "end": 47.96,
+      "en": "Katerina Instruments.",
+      "zh": "卡特琳娜仪器。"
+    },
+    {
+      "id": 13,
+      "start": 47.96,
+      "end": 52.21,
+      "en": "So you could say musical instruments, but what is an instrument generally speaking?",
+      "zh": "所以你可以说乐器，但一般来说什么是乐器？"
+    },
+    {
+      "id": 14,
+      "start": 52.52,
+      "end": 55.92,
+      "en": "Marco Basically, it's similar to a tool, right?",
+      "zh": "Marco 基本上，它类似于一个工具，对吧？"
+    },
+    {
+      "id": 15,
+      "start": 55.92,
+      "end": 60.21,
+      "en": "So an instrument is something that you use to help you realize a task.",
+      "zh": "因此，仪器是您用来帮助您实现任务的东西。"
+    },
+    {
+      "id": 16,
+      "start": 60.98,
+      "end": 63.31,
+      "en": "In this case, musical instruments is more specific, right?",
+      "zh": "在这种情况下，乐器更具体，对吧？"
+    },
+    {
+      "id": 17,
+      "start": 63.44,
+      "end": 64.44,
+      "en": "Katerina Right.",
+      "zh": "Katerina，对。"
+    },
+    {
+      "id": 18,
+      "start": 64.44,
+      "end": 66.75,
+      "en": "So we're talking about things that you use to make music.",
+      "zh": "所以我们谈论的是你用来制作音乐的东西。"
+    },
+    {
+      "id": 19,
+      "start": 68.04,
+      "end": 68.98,
+      "en": "A piano for example.",
+      "zh": "以钢琴为例。"
+    },
+    {
+      "id": 20,
+      "start": 69.04,
+      "end": 70.68,
+      "en": "Marco Is a musical instrument.",
+      "zh": "马可是一种乐器。"
+    },
+    {
+      "id": 21,
+      "start": 70.68,
+      "end": 72.16,
+      "en": "Katerina Or the drums.",
+      "zh": "卡特琳娜或鼓。"
+    },
+    {
+      "id": 22,
+      "start": 72.52,
+      "end": 72.8,
+      "en": "Alright.",
+      "zh": "好的。"
+    },
+    {
+      "id": 23,
+      "start": 73.16,
+      "end": 76.46,
+      "en": "So this is what we're going to be looking at today in the dialogues.",
+      "zh": "所以这就是我们今天在对话中要看到的。"
+    },
+    {
+      "id": 24,
+      "start": 76.54,
+      "end": 78.44,
+      "en": "So let's listen to it for the first time.",
+      "zh": "所以让我们第一次听它。"
+    },
+    {
+      "id": 25,
+      "start": 80.16,
+      "end": 87.0,
+      "en": "Katerina I'm forming a music band.",
+      "zh": "卡特琳娜：我正在组建一支乐队。"
+    },
+    {
+      "id": 26,
+      "start": 87.0,
+      "end": 89.6,
+      "en": "Marco Do you already know how to play an instrument?",
+      "zh": "马可：你已经会演奏乐器了吗？"
+    },
+    {
+      "id": 27,
+      "start": 89.6,
+      "end": 90.6,
+      "en": "Katerina Uh, yeah.",
+      "zh": "卡特琳娜：呃，会啊。"
+    },
+    {
+      "id": 28,
+      "start": 90.6,
+      "end": 92.74,
+      "en": "I told you a thousand times that I'm learning to play the drums.",
+      "zh": "我告诉你一千次，我正在学习打鼓。"
+    },
+    {
+      "id": 29,
+      "start": 93.52,
+      "end": 96.08,
+      "en": "Now that I know how to play well, I would like to form a rock band.",
+      "zh": "现在我知道如何演奏好了，我想组建一支摇滚乐队。"
+    },
+    {
+      "id": 30,
+      "start": 96.52,
+      "end": 100.44,
+      "en": "Marco Aside from yourself, who are the other members of the band?",
+      "zh": "马可：除了你之外，乐队还有哪些成员？"
+    },
+    {
+      "id": 31,
+      "start": 100.44,
+      "end": 104.52,
+      "en": "Katerina We have a guy who plays guitar and another who plays bass.",
+      "zh": "卡特琳娜：有一个弹吉他的，还有一个弹贝斯的。"
+    },
+    {
+      "id": 32,
+      "start": 104.52,
+      "end": 106.94,
+      "en": "Although we still haven't found anyone to be our singer.",
+      "zh": "虽然我们还没有找到任何人是我们的歌手。"
+    },
+    {
+      "id": 33,
+      "start": 107.8,
+      "end": 109.5,
+      "en": "You told me that you had some musical talent, right?",
+      "zh": "你告诉我你有一些音乐天赋，对吧？"
+    },
+    {
+      "id": 34,
+      "start": 109.76,
+      "end": 111.32,
+      "en": "Marco Yes, I'm a singer.",
+      "zh": "马可：会啊，我会唱歌。"
+    },
+    {
+      "id": 35,
+      "start": 111.32,
+      "end": 112.32,
+      "en": "Katerina Perfect.",
+      "zh": "卡特琳娜：太好了。"
+    },
+    {
+      "id": 36,
+      "start": 112.32,
+      "end": 114.14,
+      "en": "So you can audition this weekend here at my house.",
+      "zh": "那这周末你就来我家试唱吧。"
+    },
+    {
+      "id": 37,
+      "start": 114.52,
+      "end": 115.52,
+      "en": "Marco Great.",
+      "zh": "马可：太好了。"
+    },
+    {
+      "id": 38,
+      "start": 115.82,
+      "end": 116.52,
+      "en": "Wait, here?",
+      "zh": "等等，在这里？"
+    },
+    {
+      "id": 39,
+      "start": 117.24,
+      "end": 120.92,
+      "en": "You don't have enough room for the amplifiers, microphones, or even your drums.",
+      "zh": "您没有足够的空间容纳放大器、麦克风甚至您的鼓。"
+    },
+    {
+      "id": 40,
+      "start": 121.92,
+      "end": 123.82,
+      "en": "By the way, where do you keep them or practice?",
+      "zh": "顺便说一句，你把它们放在哪里或练习？"
+    },
+    {
+      "id": 41,
+      "start": 124.36,
+      "end": 126.76,
+      "en": "Katerina Dude, what are you talking about?",
+      "zh": "卡特琳娜：哥们，你在说什么呢？"
+    },
+    {
+      "id": 42,
+      "start": 126.76,
+      "end": 127.28,
+      "en": "It's right here.",
+      "zh": "就在这里。"
+    },
+    {
+      "id": 43,
+      "start": 127.96,
+      "end": 130.02,
+      "en": "All we need is my Nintendo Wii and we're set.",
+      "zh": "我们只需要我的任天堂 Wii，我们就准备好了。"
+    },
+    {
+      "id": 44,
+      "start": 130.52,
+      "end": 134.48,
+      "en": "Marco All right, we're back.",
+      "zh": "马可 好吧，我们回来了。"
+    },
+    {
+      "id": 45,
+      "start": 134.48,
+      "end": 137.79,
+      "en": "So apparently the band wasn't really a real band.",
+      "zh": "所以显然乐队并不是真正的乐队。"
+    },
+    {
+      "id": 46,
+      "start": 138.12,
+      "end": 147.32,
+      "en": "Katerina It wasn't, but I have to say I'm very familiar with this because I have a Nintendo Wii and I often play the game Rock Band so I can sympathize with the characters.",
+      "zh": "Katerina 不是，但我不得不说我对此非常熟悉，因为我有一个任天堂 Wii，我经常玩摇滚乐队，所以我可以同情这些角色。"
+    },
+    {
+      "id": 47,
+      "start": 147.32,
+      "end": 148.88,
+      "en": "Marco So you also have your own band?",
+      "zh": "Marco 所以你也有自己的乐队？"
+    },
+    {
+      "id": 48,
+      "start": 148.88,
+      "end": 149.88,
+      "en": "Katerina I do.",
+      "zh": "卡特琳娜我愿意。"
+    },
+    {
+      "id": 49,
+      "start": 149.88,
+      "end": 150.88,
+      "en": "Well, virtually speaking.",
+      "zh": "好吧，实际上是说。"
+    },
+    {
+      "id": 50,
+      "start": 150.88,
+      "end": 151.88,
+      "en": "Marco Virtually.",
+      "zh": "马可虚拟。"
+    },
+    {
+      "id": 51,
+      "start": 151.88,
+      "end": 152.88,
+      "en": "Katerina And I know you do too.",
+      "zh": "卡特琳娜和我知道你也是。"
+    },
+    {
+      "id": 52,
+      "start": 152.88,
+      "end": 154.8,
+      "en": "Marco I do too.",
+      "zh": "马可我也是。"
+    },
+    {
+      "id": 53,
+      "start": 154.8,
+      "end": 154.97,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 54,
+      "start": 155.8,
+      "end": 161.45,
+      "en": "We are both fans of this game and this gaming console and that's why it's such a fun dialogue.",
+      "zh": "我们都是这款游戏和这款游戏机的粉丝，这就是为什么它是如此有趣的对话。"
+    },
+    {
+      "id": 55,
+      "start": 162.52,
+      "end": 166.61,
+      "en": "But let's take a look at some of the language that was used in this dialogue in Language Takeaway.",
+      "zh": "但是让我们来看看在语言外卖中这种对话中使用的一些语言。"
+    },
+    {
+      "id": 56,
+      "start": 169.44,
+      "end": 170.44,
+      "en": "Language Takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 57,
+      "start": 170.44,
+      "end": 184.4,
+      "en": "Katerina Oh man, so I've been in a lot of bands and I've been in a lot of musical groups so I can say that the first instrument we want to talk about is maybe the most obnoxious, the most loud and hard to listen to.",
+      "zh": "Katerina 哦，伙计，所以我参加了很多乐队，我参加过很多音乐团体，所以我可以说我们想谈论的第一个乐器可能是最令人讨厌、最响亮、最难听的乐器。"
+    },
+    {
+      "id": 58,
+      "start": 184.4,
+      "end": 185.84,
+      "en": "Marco Probably, probably.",
+      "zh": "马可大概，大概吧。"
+    },
+    {
+      "id": 59,
+      "start": 185.84,
+      "end": 189.6,
+      "en": "And that instrument is the drums.",
+      "zh": "而那个乐器就是鼓。"
+    },
+    {
+      "id": 60,
+      "start": 189.6,
+      "end": 192.26,
+      "en": "So the drums, it's plural because you have many drums, right?",
+      "zh": "所以鼓，它是复数的，因为你有很多鼓，对吧？"
+    },
+    {
+      "id": 61,
+      "start": 192.32,
+      "end": 193.32,
+      "en": "Katerina Right.",
+      "zh": "Katerina，对。"
+    },
+    {
+      "id": 62,
+      "start": 193.32,
+      "end": 195.36,
+      "en": "You don't just have the dum-dum-dum-dum, the bass drum.",
+      "zh": "你不只是 dum-dum-dum-dum，低音鼓。"
+    },
+    {
+      "id": 63,
+      "start": 195.48,
+      "end": 198.96,
+      "en": "You have many different drums together and so we could also call this a drum set.",
+      "zh": "你有许多不同的鼓，所以我们也可以称之为鼓组。"
+    },
+    {
+      "id": 64,
+      "start": 198.96,
+      "end": 200.6,
+      "en": "Marco A drum set.",
+      "zh": "马可鼓组。"
+    },
+    {
+      "id": 65,
+      "start": 200.6,
+      "end": 209.96,
+      "en": "All right, so why don't we listen to an example of what a drum set sounds like.",
+      "zh": "好吧，那么我们为什么不听一个鼓组听起来像什么的例子。"
+    },
+    {
+      "id": 66,
+      "start": 209.96,
+      "end": 222.72,
+      "en": "All right, we're back.",
+      "zh": "好了，我们回来了。"
+    },
+    {
+      "id": 67,
+      "start": 222.72,
+      "end": 223.61,
+      "en": "So I think that's clear.",
+      "zh": "所以我认为这很清楚。"
+    },
+    {
+      "id": 68,
+      "start": 224.32,
+      "end": 225.88,
+      "en": "Moving on to our next instrument.",
+      "zh": "继续我们的下一个乐器。"
+    },
+    {
+      "id": 69,
+      "start": 225.88,
+      "end": 233.8,
+      "en": "Katerina This one's maybe the most popular for young people to start because you can play pretty much anything with it and it's also good for sing-alongs.",
+      "zh": "Katerina 这个可能是年轻人最受欢迎的开始，因为你可以用它玩几乎任何东西，而且它也很适合一起唱歌。"
+    },
+    {
+      "id": 70,
+      "start": 233.8,
+      "end": 235.84,
+      "en": "Marco Right, and that instrument is the guitar.",
+      "zh": "Marco Right，而那个乐器就是吉他。"
+    },
+    {
+      "id": 71,
+      "start": 235.84,
+      "end": 237.36,
+      "en": "Katerina Can you play the guitar?",
+      "zh": "卡特琳娜 你会弹吉他吗？"
+    },
+    {
+      "id": 72,
+      "start": 237.36,
+      "end": 238.64,
+      "en": "Marco No, I can't.",
+      "zh": "马可 不，我不能。"
+    },
+    {
+      "id": 73,
+      "start": 238.65,
+      "end": 242.03,
+      "en": "I actually wish I would have learned but I never got around to it.",
+      "zh": "我真的希望我能学会，但我从来没有解决过。"
+    },
+    {
+      "id": 74,
+      "start": 242.32,
+      "end": 253.08,
+      "en": "Katerina Well, this is a really beautiful instrument and there are many different ways to play it but generally, it's either wooden with some strings or electric so it's plastic with some metal strings.",
+      "zh": "Katerina 好吧，这是一种非常漂亮的乐器，有许多不同的演奏方式，但一般来说，它要么是木制的，有一些弦乐，要么是电动的，所以它是带有一些金属弦的塑料。"
+    },
+    {
+      "id": 75,
+      "start": 253.08,
+      "end": 254.12,
+      "en": "Marco Right, exactly.",
+      "zh": "马可，没错。"
+    },
+    {
+      "id": 76,
+      "start": 254.12,
+      "end": 264.8,
+      "en": "So they have a different sound but why don't we listen to an example of what a guitar sounds like.",
+      "zh": "所以他们有不同的声音，但我们为什么不听一个吉他听起来的例子。"
+    },
+    {
+      "id": 77,
+      "start": 264.8,
+      "end": 280.4,
+      "en": "All right, so great example of a guitar, pretty clear.",
+      "zh": "好吧，吉他的好例子，非常清楚。"
+    },
+    {
+      "id": 78,
+      "start": 280.4,
+      "end": 281.14,
+      "en": "What's our next instrument?",
+      "zh": "我们的下一个乐器是什么？"
+    },
+    {
+      "id": 79,
+      "start": 281.4,
+      "end": 288.4,
+      "en": "Katerina The bass and this one, it doesn't look like the word that's written, B-A-S-S, so we say bass.",
+      "zh": "Katerina the Bass 和这一款，它看起来不像写的这个词，B-A-S-S，所以我们说低音。"
+    },
+    {
+      "id": 80,
+      "start": 288.4,
+      "end": 290.16,
+      "en": "And it's actually a very low instrument.",
+      "zh": "它实际上是一个非常低的乐器。"
+    },
+    {
+      "id": 81,
+      "start": 290.16,
+      "end": 294.52,
+      "en": "It's usually used to help keep the rhythm.",
+      "zh": "它通常用于帮助保持节奏。"
+    },
+    {
+      "id": 82,
+      "start": 295.24,
+      "end": 298.68,
+      "en": "Marco All right, so it's similar to a guitar, right?",
+      "zh": "Marco 好吧，所以它类似于吉他，对吧？"
+    },
+    {
+      "id": 83,
+      "start": 298.68,
+      "end": 299.68,
+      "en": "Katerina Very.",
+      "zh": "卡特琳娜非常。"
+    },
+    {
+      "id": 84,
+      "start": 299.68,
+      "end": 304.52,
+      "en": "Marco It's the same form but as you say, it's lower and it makes a lower sound.",
+      "zh": "马可是相同的形式，但正如你所说，它更低，发出更低的声音。"
+    },
+    {
+      "id": 85,
+      "start": 304.52,
+      "end": 305.52,
+      "en": "Katerina Exactly.",
+      "zh": "Katerina，没错。"
+    },
+    {
+      "id": 86,
+      "start": 305.52,
+      "end": 318.96,
+      "en": "Marco All right, so let's listen to an example of a bass now.",
+      "zh": "Marco 好吧，让我们现在听一个贝司的例子。"
+    },
+    {
+      "id": 87,
+      "start": 318.96,
+      "end": 320.56,
+      "en": "All right, pretty clear.",
+      "zh": "好吧，很清楚。"
+    },
+    {
+      "id": 88,
+      "start": 320.56,
+      "end": 322.72,
+      "en": "Moving on to our next word, we have an amplifier.",
+      "zh": "继续我们的下一个词，我们有一个放大器。"
+    },
+    {
+      "id": 89,
+      "start": 322.72,
+      "end": 326.76,
+      "en": "Katerina Okay, so amplifier, an amplifier is a thing.",
+      "zh": "Katerina 好的，所以放大器，放大器是一个东西。"
+    },
+    {
+      "id": 90,
+      "start": 326.76,
+      "end": 337.31,
+      "en": "It's usually a box that we plug in, it's electric or it's electronic and it's a tool to make electrical instruments like the electric guitar or the electric bass louder.",
+      "zh": "它通常是我们插入的一个盒子，它是电动的或电子的，它是一种使电吉他或电贝司等电器乐器更响亮的工具。"
+    },
+    {
+      "id": 91,
+      "start": 337.44,
+      "end": 339.16,
+      "en": "Marco Right, exactly.",
+      "zh": "马可，没错。"
+    },
+    {
+      "id": 92,
+      "start": 339.16,
+      "end": 343.56,
+      "en": "So an amplifier is any device that makes a sound become louder.",
+      "zh": "因此，放大器是任何使声音变得更响亮的设备。"
+    },
+    {
+      "id": 93,
+      "start": 343.68,
+      "end": 344.68,
+      "en": "Katerina Exactly.",
+      "zh": "Katerina，没错。"
+    },
+    {
+      "id": 94,
+      "start": 344.68,
+      "end": 345.68,
+      "en": "Marco All right.",
+      "zh": "Marco，好吧。"
+    },
+    {
+      "id": 95,
+      "start": 345.68,
+      "end": 348.36,
+      "en": "Katerina So this is really important for rock bands the world over.",
+      "zh": "Katerina 所以这对世界各地的摇滚乐队来说非常重要。"
+    },
+    {
+      "id": 96,
+      "start": 348.36,
+      "end": 349.52,
+      "en": "Marco Very good.",
+      "zh": "马可非常好。"
+    },
+    {
+      "id": 97,
+      "start": 349.52,
+      "end": 353.5,
+      "en": "Our next instrument or actually more of a tool is very useful for the singer.",
+      "zh": "我们的下一个乐器或更多的工具对歌手非常有用。"
+    },
+    {
+      "id": 98,
+      "start": 353.76,
+      "end": 365.44,
+      "en": "Katerina Yeah, and it actually goes with the amplifier in many ways because the microphone, this is our next word, the microphone is something that you use to sing into to make your voice louder.",
+      "zh": "Katerina 是的，它实际上在很多方面都与放大器一起使用，因为麦克风，这是我们的下一个词，麦克风是你用来唱的东西，让你的声音更响亮。"
+    },
+    {
+      "id": 99,
+      "start": 365.44,
+      "end": 368.12,
+      "en": "So right now, Marco, you and I are both using microphones.",
+      "zh": "所以现在，马可，你和我都在使用麦克风。"
+    },
+    {
+      "id": 100,
+      "start": 368.12,
+      "end": 369.12,
+      "en": "Marco Exactly.",
+      "zh": "马可确切地说。"
+    },
+    {
+      "id": 101,
+      "start": 369.12,
+      "end": 370.76,
+      "en": "So a microphone.",
+      "zh": "所以麦克风。"
+    },
+    {
+      "id": 102,
+      "start": 370.76,
+      "end": 370.93,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 103,
+      "start": 371.76,
+      "end": 375.0,
+      "en": "And we have one last word and this is a verb, to audition.",
+      "zh": "我们有一个最后一个词，这是一个动词，要试听。"
+    },
+    {
+      "id": 104,
+      "start": 375.0,
+      "end": 377.08,
+      "en": "Katerina All right, to audition.",
+      "zh": "卡特琳娜 好吧，去试镜。"
+    },
+    {
+      "id": 105,
+      "start": 377.09,
+      "end": 382.41,
+      "en": "So to audition means to show someone your talent, all right?",
+      "zh": "所以试镜意味着向某人展示你的才华，好吗？"
+    },
+    {
+      "id": 106,
+      "start": 382.59,
+      "end": 391.54,
+      "en": "So oftentimes when you start a play or an opera or a musical group, you want to have auditions.",
+      "zh": "因此，当您开始戏剧、歌剧或音乐团体时，您通常希望进行试镜。"
+    },
+    {
+      "id": 107,
+      "start": 391.86,
+      "end": 394.6,
+      "en": "You want to audition people to see how much talent they have.",
+      "zh": "你想试镜人们，看看他们有多少人才。"
+    },
+    {
+      "id": 108,
+      "start": 394.8,
+      "end": 395.06,
+      "en": "Alright.",
+      "zh": "好的。"
+    },
+    {
+      "id": 109,
+      "start": 395.68,
+      "end": 398.66,
+      "en": "So it's basically an opportunity to demonstrate your skills and abilities.",
+      "zh": "所以这基本上是一个展示你的技能和能力的机会。"
+    },
+    {
+      "id": 110,
+      "start": 398.84,
+      "end": 399.84,
+      "en": "Katerina Exactly.",
+      "zh": "Katerina，没错。"
+    },
+    {
+      "id": 111,
+      "start": 399.84,
+      "end": 402.88,
+      "en": "Marco So a job interview wouldn't really be an audition.",
+      "zh": "马可，所以工作面试不会是真正的试镜。"
+    },
+    {
+      "id": 112,
+      "start": 402.88,
+      "end": 406.12,
+      "en": "Katerina No, a job interview has its own word.",
+      "zh": "Katerina 不，工作面试有自己的话。"
+    },
+    {
+      "id": 113,
+      "start": 406.12,
+      "end": 418.71,
+      "en": "But here we're talking about your singing ability, your acting ability, your reading ability and sometimes we even have auditions here at EnglishPod to see how comfortable people are on the microphone.",
+      "zh": "但在这里，我们谈论的是你的歌唱能力、你的表演能力、你的阅读能力，有时我们甚至在 Englishpod 进行试镜，看看人们在麦克风上的舒适程度。"
+    },
+    {
+      "id": 114,
+      "start": 418.97,
+      "end": 421.07,
+      "en": "It's a way to have people show what they've got.",
+      "zh": "这是一种让人们展示他们所拥有的东西的方式。"
+    },
+    {
+      "id": 115,
+      "start": 421.24,
+      "end": 422.24,
+      "en": "Marco Very good.",
+      "zh": "马可非常好。"
+    },
+    {
+      "id": 116,
+      "start": 422.24,
+      "end": 423.24,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 117,
+      "start": 423.24,
+      "end": 425.63,
+      "en": "So a lot of interesting words here, many instruments.",
+      "zh": "所以这里有很多有趣的词，很多乐器。"
+    },
+    {
+      "id": 118,
+      "start": 426.33,
+      "end": 428.65,
+      "en": "I think it's time for us to listen to our dialogue again.",
+      "zh": "我认为是时候让我们再次聆听我们的对话了。"
+    },
+    {
+      "id": 119,
+      "start": 428.97,
+      "end": 431.33,
+      "en": "We're going to slow it down a little bit and we'll be right back.",
+      "zh": "我们会稍微放慢速度，我们会马上回来的。"
+    },
+    {
+      "id": 120,
+      "start": 433.08,
+      "end": 437.84,
+      "en": "Katerina I'm forming a music band.",
+      "zh": "Katerina 我正在组建一个乐队。"
+    },
+    {
+      "id": 121,
+      "start": 437.84,
+      "end": 440.52,
+      "en": "Marco Do you already know how to play an instrument?",
+      "zh": "马可：你已经会演奏乐器了吗？"
+    },
+    {
+      "id": 122,
+      "start": 440.52,
+      "end": 444.36,
+      "en": "Katerina Yeah, I told you a thousand times that I'm learning to play the drums.",
+      "zh": "Katerina 是的，我告诉过你一千次，我正在学习打鼓。"
+    },
+    {
+      "id": 123,
+      "start": 444.36,
+      "end": 446.87,
+      "en": "Now that I know how to play well, I would like to form a rock band.",
+      "zh": "现在我知道如何演奏好了，我想组建一支摇滚乐队。"
+    },
+    {
+      "id": 124,
+      "start": 447.32,
+      "end": 451.2,
+      "en": "Marco Aside from yourself, who are the other members of the band?",
+      "zh": "马可：除了你之外，乐队还有哪些成员？"
+    },
+    {
+      "id": 125,
+      "start": 451.2,
+      "end": 455.32,
+      "en": "Katerina We have a guy who plays guitar and another who plays bass.",
+      "zh": "卡特琳娜：有一个弹吉他的，还有一个弹贝斯的。"
+    },
+    {
+      "id": 126,
+      "start": 455.32,
+      "end": 457.69,
+      "en": "Although we still haven't found anyone to be our singer.",
+      "zh": "虽然我们还没有找到任何人是我们的歌手。"
+    },
+    {
+      "id": 127,
+      "start": 458.56,
+      "end": 460.33,
+      "en": "You told me that you had some musical talent, right?",
+      "zh": "你告诉我你有一些音乐天赋，对吧？"
+    },
+    {
+      "id": 128,
+      "start": 460.52,
+      "end": 462.12,
+      "en": "Marco Yes, I'm a singer.",
+      "zh": "马可 是的，我是歌手。"
+    },
+    {
+      "id": 129,
+      "start": 462.12,
+      "end": 463.12,
+      "en": "Katerina Perfect.",
+      "zh": "卡特琳娜完美。"
+    },
+    {
+      "id": 130,
+      "start": 463.12,
+      "end": 465.32,
+      "en": "So you can audition this weekend here at my house.",
+      "zh": "那这周末你就来我家试唱吧。"
+    },
+    {
+      "id": 131,
+      "start": 465.32,
+      "end": 466.32,
+      "en": "Marco Great.",
+      "zh": "马可很棒。"
+    },
+    {
+      "id": 132,
+      "start": 466.62,
+      "end": 467.38,
+      "en": "Wait here.",
+      "zh": "在这里等着。"
+    },
+    {
+      "id": 133,
+      "start": 467.96,
+      "end": 471.72,
+      "en": "You don't have enough room for the amplifiers, microphones or even your drums.",
+      "zh": "您没有足够的空间容纳放大器、麦克风甚至您的鼓。"
+    },
+    {
+      "id": 134,
+      "start": 472.52,
+      "end": 474.68,
+      "en": "By the way, where do you keep them or practice?",
+      "zh": "顺便说一句，你把它们放在哪里或练习？"
+    },
+    {
+      "id": 135,
+      "start": 475.2,
+      "end": 477.52,
+      "en": "Katerina Dude, what are you talking about?",
+      "zh": "卡特琳娜：哥们，你在说什么呢？"
+    },
+    {
+      "id": 136,
+      "start": 477.52,
+      "end": 478.08,
+      "en": "It's right here.",
+      "zh": "就在这里。"
+    },
+    {
+      "id": 137,
+      "start": 478.68,
+      "end": 480.82,
+      "en": "All we need is my Nintendo Wii and we're set.",
+      "zh": "我们只需要我的任天堂 Wii，我们就准备好了。"
+    },
+    {
+      "id": 138,
+      "start": 481.88,
+      "end": 485.6,
+      "en": "Stan Alright, we're back.",
+      "zh": "斯坦 好吧，我们回来了。"
+    },
+    {
+      "id": 139,
+      "start": 485.6,
+      "end": 492.28,
+      "en": "So moving on with our lesson, why don't we take a look now at some phrases in Fluency Builder.",
+      "zh": "所以继续我们的课程，我们为什么不现在看一下 Fluency Builder 中的一些短语。"
+    },
+    {
+      "id": 140,
+      "start": 492.28,
+      "end": 494.28,
+      "en": "Katerina Fluency Builder.",
+      "zh": "卡特琳娜流利建设者。"
+    },
+    {
+      "id": 141,
+      "start": 494.28,
+      "end": 498.36,
+      "en": "Stan Alright, so on Fluency Builder we have four phrases.",
+      "zh": "Stan 好吧，所以我们有四个短语。"
+    },
+    {
+      "id": 142,
+      "start": 498.36,
+      "end": 498.63,
+      "en": "What's the first one?",
+      "zh": "第一个是什么？"
+    },
+    {
+      "id": 143,
+      "start": 499.36,
+      "end": 504.88,
+      "en": "Katerina Well, this first phrase is really important, Marco, because we're talking about bands and starting bands.",
+      "zh": "Katerina 嗯，第一个短语真的很重要，Marco，因为我们谈论的是乐队和起始乐队。"
+    },
+    {
+      "id": 144,
+      "start": 504.88,
+      "end": 508.1,
+      "en": "And so there's often a phrase we use to describe this.",
+      "zh": "所以我们经常用一个短语来描述这一点。"
+    },
+    {
+      "id": 145,
+      "start": 508.24,
+      "end": 509.72,
+      "en": "We say to form a band.",
+      "zh": "我们说要组建一个乐队。"
+    },
+    {
+      "id": 146,
+      "start": 509.72,
+      "end": 511.76,
+      "en": "Stan Alright, so you form a band.",
+      "zh": "斯坦 好吧，所以你组建了一个乐队。"
+    },
+    {
+      "id": 147,
+      "start": 511.76,
+      "end": 514.16,
+      "en": "Katerina It's like forming something.",
+      "zh": "卡特琳娜 这就像形成一些东西。"
+    },
+    {
+      "id": 148,
+      "start": 514.16,
+      "end": 517.44,
+      "en": "To form is to shape it, to make it look like something that you want.",
+      "zh": "形成就是塑造它，让它看起来像你想要的东西。"
+    },
+    {
+      "id": 149,
+      "start": 517.72,
+      "end": 521.6,
+      "en": "And so we can form artistic projects also.",
+      "zh": "所以我们也可以形成艺术项目。"
+    },
+    {
+      "id": 150,
+      "start": 521.6,
+      "end": 522.76,
+      "en": "But here we're forming a band.",
+      "zh": "但在这里，我们正在组建一个乐队。"
+    },
+    {
+      "id": 151,
+      "start": 522.76,
+      "end": 525.64,
+      "en": "We're choosing people to bring together to make great music.",
+      "zh": "我们选择人们聚集在一起制作出色的音乐。"
+    },
+    {
+      "id": 152,
+      "start": 525.64,
+      "end": 530.12,
+      "en": "Stan Alright, so we can say form a band or you can say as well, start a band.",
+      "zh": "Stan 好吧，所以我们可以说组建一个乐队，或者你也可以说，组建一个乐队。"
+    },
+    {
+      "id": 153,
+      "start": 530.12,
+      "end": 531.12,
+      "en": "Alright.",
+      "zh": "好的。"
+    },
+    {
+      "id": 154,
+      "start": 531.12,
+      "end": 537.56,
+      "en": "So we're forming a band and well, his friend was surprised that the other guy knew how to play an instrument.",
+      "zh": "所以我们正在组建一个乐队，他的朋友很惊讶另一个人会演奏乐器。"
+    },
+    {
+      "id": 155,
+      "start": 537.56,
+      "end": 540.36,
+      "en": "So he said, I've told you a thousand times.",
+      "zh": "所以他说，我已经告诉过你一千次了。"
+    },
+    {
+      "id": 156,
+      "start": 540.36,
+      "end": 541.48,
+      "en": "Katerina Wait, wait.",
+      "zh": "卡特琳娜 等等，等等。"
+    },
+    {
+      "id": 157,
+      "start": 541.48,
+      "end": 543.8,
+      "en": "So he told him one thousand times.",
+      "zh": "于是他告诉他一千次。"
+    },
+    {
+      "id": 158,
+      "start": 543.8,
+      "end": 544.8,
+      "en": "Stan No, not literally.",
+      "zh": "斯坦不，不是字面意思。"
+    },
+    {
+      "id": 159,
+      "start": 544.8,
+      "end": 545.8,
+      "en": "Katerina I play an instrument.",
+      "zh": "卡特琳娜 我演奏乐器。"
+    },
+    {
+      "id": 160,
+      "start": 545.8,
+      "end": 546.8,
+      "en": "I play an instrument.",
+      "zh": "我演奏乐器。"
+    },
+    {
+      "id": 161,
+      "start": 546.8,
+      "end": 547.8,
+      "en": "I play an instrument.",
+      "zh": "我演奏乐器。"
+    },
+    {
+      "id": 162,
+      "start": 547.8,
+      "end": 548.8,
+      "en": "Stan Right.",
+      "zh": "斯坦对。"
+    },
+    {
+      "id": 163,
+      "start": 548.8,
+      "end": 554.28,
+      "en": "This is a phrase and it's a little bit of an exaggeration to emphasize that I've told you many, many times already.",
+      "zh": "这是一个短语，强调我已经告诉你很多很多次了，有点夸张。"
+    },
+    {
+      "id": 164,
+      "start": 554.28,
+      "end": 555.28,
+      "en": "Katerina Great.",
+      "zh": "卡特琳娜很棒。"
+    },
+    {
+      "id": 165,
+      "start": 555.28,
+      "end": 564.97,
+      "en": "So this is something we say when we're trying to exaggerate like Marco said or to really emphasize the point that like I've told you this before.",
+      "zh": "因此，当我们试图像 Marco 所说的那样夸大其词或真正强调我之前告诉过您的这一点时，我们会说这一点。"
+    },
+    {
+      "id": 166,
+      "start": 566.08,
+      "end": 567.13,
+      "en": "So mothers often use it.",
+      "zh": "所以妈妈们经常使用它。"
+    },
+    {
+      "id": 167,
+      "start": 567.2,
+      "end": 569.6,
+      "en": "I feel like we talk about mothers a lot here.",
+      "zh": "我觉得我们在这里经常谈论母亲。"
+    },
+    {
+      "id": 168,
+      "start": 569.6,
+      "end": 572.27,
+      "en": "Mothers often use this phrase when kids do something wrong.",
+      "zh": "当孩子做错事时，母亲经常使用这句话。"
+    },
+    {
+      "id": 169,
+      "start": 572.48,
+      "end": 578.0,
+      "en": "They say, I've told you a thousand times not to wear your shoes in the house.",
+      "zh": "他们说，我告诉过你一千次不要在家里穿鞋。"
+    },
+    {
+      "id": 170,
+      "start": 578.0,
+      "end": 579.8,
+      "en": "Stan Exactly.",
+      "zh": "斯坦正好。"
+    },
+    {
+      "id": 171,
+      "start": 579.8,
+      "end": 584.57,
+      "en": "So it is a great phrase to really make your point that you've said something many, many times.",
+      "zh": "所以这是一个很好的短语来表达你的观点，你说了很多很多次。"
+    },
+    {
+      "id": 172,
+      "start": 585.28,
+      "end": 592.16,
+      "en": "Moving on, we have a kind of like a conjunction that you can use and it's by the way to change the topic maybe.",
+      "zh": "继续前进，我们有一种类似的连词，你可以使用它，它可能是通过改变主题的方式。"
+    },
+    {
+      "id": 173,
+      "start": 592.2,
+      "end": 593.16,
+      "en": "By the way.",
+      "zh": "顺便说一句。"
+    },
+    {
+      "id": 174,
+      "start": 593.16,
+      "end": 594.16,
+      "en": "Katerina By the way.",
+      "zh": "顺便说一句，卡特琳娜。"
+    },
+    {
+      "id": 175,
+      "start": 594.16,
+      "end": 596.68,
+      "en": "And so by the way, we keep these words together.",
+      "zh": "所以顺便说一句，我们把这些词放在一起。"
+    },
+    {
+      "id": 176,
+      "start": 596.68,
+      "end": 597.94,
+      "en": "It's a fixed phrase.",
+      "zh": "这是一个固定的短语。"
+    },
+    {
+      "id": 177,
+      "start": 598.78,
+      "end": 600.78,
+      "en": "By the way is something we add on.",
+      "zh": "顺便说一句，我们添加了一些东西。"
+    },
+    {
+      "id": 178,
+      "start": 601.1,
+      "end": 604.52,
+      "en": "So I say, you know, today I went to school and I saw a lot of people.",
+      "zh": "所以我说，你知道，今天我去了学校，看到了很多人。"
+    },
+    {
+      "id": 179,
+      "start": 605.04,
+      "end": 606.62,
+      "en": "Oh, by the way, John says hi.",
+      "zh": "哦，顺便说一句，约翰打招呼。"
+    },
+    {
+      "id": 180,
+      "start": 607.1,
+      "end": 613.48,
+      "en": "All right, so while I'm talking about this, I want to add that this thing happened or that this person said something.",
+      "zh": "好吧，所以当我谈论这个时，我想补充一点，这件事发生了，或者这个人说了什么。"
+    },
+    {
+      "id": 181,
+      "start": 613.76,
+      "end": 614.76,
+      "en": "Stan Exactly.",
+      "zh": "斯坦正好。"
+    },
+    {
+      "id": 182,
+      "start": 614.76,
+      "end": 618.22,
+      "en": "So it is, it's a conjunction, right, to put together two different ideas.",
+      "zh": "所以，它是一个合相，对，把两个不同的想法放在一起。"
+    },
+    {
+      "id": 183,
+      "start": 619.08,
+      "end": 621.76,
+      "en": "By the way, or you can start off your sentence with it.",
+      "zh": "顺便说一句，或者你可以用它开始你的句子。"
+    },
+    {
+      "id": 184,
+      "start": 621.76,
+      "end": 623.62,
+      "en": "By the way, how is the new house?",
+      "zh": "顺便问一下，新房子怎么样？"
+    },
+    {
+      "id": 185,
+      "start": 623.92,
+      "end": 628.72,
+      "en": "Katerina Oh, because it's like, it's like saying, oh, this thought just came into my head.",
+      "zh": "Katerina 哦，因为这就像，就像说，哦，这个想法刚刚出现在我的脑海中。"
+    },
+    {
+      "id": 186,
+      "start": 628.72,
+      "end": 629.72,
+      "en": "By the way.",
+      "zh": "顺便说一句。"
+    },
+    {
+      "id": 187,
+      "start": 629.72,
+      "end": 631.92,
+      "en": "Stan Right, right.",
+      "zh": "斯坦对，对。"
+    },
+    {
+      "id": 188,
+      "start": 631.92,
+      "end": 634.86,
+      "en": "And our last phrase on Fluency Builder is we are set.",
+      "zh": "我们关于 Fluency Builder 的最后一句话是我们已经确定了。"
+    },
+    {
+      "id": 189,
+      "start": 635.2,
+      "end": 638.96,
+      "en": "Katerina All right, all we need is my Nintendo Wii and we are set.",
+      "zh": "Katerina 好吧，我们只需要我的 Nintendo Wii，我们就准备好了。"
+    },
+    {
+      "id": 190,
+      "start": 638.96,
+      "end": 641.16,
+      "en": "Stan All right, so what are we set?",
+      "zh": "斯坦 好吧，那我们设置了什么？"
+    },
+    {
+      "id": 191,
+      "start": 641.16,
+      "end": 641.62,
+      "en": "We are set.",
+      "zh": "我们定了。"
+    },
+    {
+      "id": 192,
+      "start": 642.16,
+      "end": 648.72,
+      "en": "Katerina All right, we are set is another one of those phrases that's fixed and it literally it means and we are ready to start.",
+      "zh": "Katerina 好吧，We Ares Set 是那些固定的短语之一，它的字面意思是我们准备开始。"
+    },
+    {
+      "id": 193,
+      "start": 648.72,
+      "end": 649.28,
+      "en": "We're ready to go.",
+      "zh": "我们准备出发。"
+    },
+    {
+      "id": 194,
+      "start": 649.72,
+      "end": 650.96,
+      "en": "Stan And everything is ready.",
+      "zh": "斯坦，一切都准备好了。"
+    },
+    {
+      "id": 195,
+      "start": 650.96,
+      "end": 652.72,
+      "en": "Katerina Yeah, we don't need anything else.",
+      "zh": "卡特琳娜 是的，我们不需要其他任何东西。"
+    },
+    {
+      "id": 196,
+      "start": 652.72,
+      "end": 659.6,
+      "en": "And so Marco, I could say to you, just bring, just bring the salad to the table and we're set.",
+      "zh": "所以马可，我可以对你说，把沙拉带到餐桌上，我们就准备好了。"
+    },
+    {
+      "id": 197,
+      "start": 659.6,
+      "end": 660.6,
+      "en": "We're ready to eat.",
+      "zh": "我们准备吃饭了。"
+    },
+    {
+      "id": 198,
+      "start": 660.6,
+      "end": 661.6,
+      "en": "Alright.",
+      "zh": "好的。"
+    },
+    {
+      "id": 199,
+      "start": 661.6,
+      "end": 663.96,
+      "en": "And I think we're set to listen to our dialogue for the last time.",
+      "zh": "我认为我们准备最后一次听我们的对话。"
+    },
+    {
+      "id": 200,
+      "start": 663.96,
+      "end": 667.09,
+      "en": "And we'll be right back and talk a little bit more about this great topic.",
+      "zh": "我们会马上回来，多谈谈这个伟大的话题。"
+    },
+    {
+      "id": 201,
+      "start": 675.12,
+      "end": 676.32,
+      "en": "I'm forming a music band.",
+      "zh": "我正在组建一个音乐乐队。"
+    },
+    {
+      "id": 202,
+      "start": 677.14,
+      "end": 678.9,
+      "en": "Do you already know how to play an instrument?",
+      "zh": "你已经知道如何演奏乐器了吗？"
+    },
+    {
+      "id": 203,
+      "start": 679.62,
+      "end": 682.4,
+      "en": "Yeah, I told you a thousand times that I'm learning to play the drums.",
+      "zh": "是的，我告诉过你一千次，我正在学习打鼓。"
+    },
+    {
+      "id": 204,
+      "start": 683.24,
+      "end": 685.76,
+      "en": "Now that I know how to play well, I would like to form a rock band.",
+      "zh": "现在我知道如何演奏好了，我想组建一支摇滚乐队。"
+    },
+    {
+      "id": 205,
+      "start": 686.69,
+      "end": 689.57,
+      "en": "Aside from yourself, who are the other members of the band?",
+      "zh": "除了你自己，乐队的其他成员是谁？"
+    },
+    {
+      "id": 206,
+      "start": 690.13,
+      "end": 693.37,
+      "en": "We have a guy who plays guitar and another who plays bass.",
+      "zh": "我们有一个弹吉他的人，另一个弹贝斯的人。"
+    },
+    {
+      "id": 207,
+      "start": 693.79,
+      "end": 696.63,
+      "en": "Although we still haven't found anyone to be our singer.",
+      "zh": "虽然我们还没有找到任何人是我们的歌手。"
+    },
+    {
+      "id": 208,
+      "start": 697.37,
+      "end": 699.19,
+      "en": "You told me that you had some musical talent, right?",
+      "zh": "你告诉我你有一些音乐天赋，对吧？"
+    },
+    {
+      "id": 209,
+      "start": 699.55,
+      "end": 700.79,
+      "en": "Yes, I'm a singer.",
+      "zh": "是的，我是一名歌手。"
+    },
+    {
+      "id": 210,
+      "start": 701.07,
+      "end": 701.29,
+      "en": "Perfect.",
+      "zh": "太好了。"
+    },
+    {
+      "id": 211,
+      "start": 701.93,
+      "end": 703.83,
+      "en": "So you can audition this weekend here at my house.",
+      "zh": "那这周末你就来我家试唱吧。"
+    },
+    {
+      "id": 212,
+      "start": 704.47,
+      "end": 704.75,
+      "en": "Great.",
+      "zh": "太好了。"
+    },
+    {
+      "id": 213,
+      "start": 705.49,
+      "end": 706.17,
+      "en": "Wait here.",
+      "zh": "在这里等着。"
+    },
+    {
+      "id": 214,
+      "start": 706.93,
+      "end": 710.59,
+      "en": "You don't have enough room for the amplifiers, microphones or even your drums.",
+      "zh": "您没有足够的空间容纳放大器、麦克风甚至您的鼓。"
+    },
+    {
+      "id": 215,
+      "start": 711.31,
+      "end": 713.57,
+      "en": "By the way, where do you keep them or practice?",
+      "zh": "顺便说一句，你把它们放在哪里或练习？"
+    },
+    {
+      "id": 216,
+      "start": 714.31,
+      "end": 716.09,
+      "en": "Dude, what are you talking about?",
+      "zh": "哥们，你在说什么？"
+    },
+    {
+      "id": 217,
+      "start": 716.33,
+      "end": 716.99,
+      "en": "It's right here.",
+      "zh": "就在这里。"
+    },
+    {
+      "id": 218,
+      "start": 717.53,
+      "end": 719.69,
+      "en": "All we need is my Nintendo Wii and we're set.",
+      "zh": "我们只需要我的任天堂 Wii，我们就准备好了。"
+    },
+    {
+      "id": 219,
+      "start": 724.45,
+      "end": 724.93,
+      "en": "Alright, we're back.",
+      "zh": "好了，我们回来了。"
+    },
+    {
+      "id": 220,
+      "start": 725.16,
+      "end": 726.05,
+      "en": "So rock band now.",
+      "zh": "所以现在摇滚乐队。"
+    },
+    {
+      "id": 221,
+      "start": 726.48,
+      "end": 729.81,
+      "en": "I know that you play a real instrument, not only instruments on the Wii.",
+      "zh": "我知道你演奏真正的乐器，而不仅仅是Wii上的乐器。"
+    },
+    {
+      "id": 222,
+      "start": 730.01,
+      "end": 730.19,
+      "en": "True.",
+      "zh": "确实。"
+    },
+    {
+      "id": 223,
+      "start": 731.2,
+      "end": 732.56,
+      "en": "What do you play?",
+      "zh": "你玩什么？"
+    },
+    {
+      "id": 224,
+      "start": 732.56,
+      "end": 733.92,
+      "en": "I play the trumpet.",
+      "zh": "我吹小号。"
+    },
+    {
+      "id": 225,
+      "start": 734.48,
+      "end": 735.4,
+      "en": "I was classically trained.",
+      "zh": "我受过经典训练。"
+    },
+    {
+      "id": 226,
+      "start": 735.56,
+      "end": 737.72,
+      "en": "I started when I was 10.",
+      "zh": "我从10岁开始。"
+    },
+    {
+      "id": 227,
+      "start": 737.72,
+      "end": 741.44,
+      "en": "Now is this the trumpet that has the three buttons on the top?",
+      "zh": "现在是顶部有三个按钮的小号吗？"
+    },
+    {
+      "id": 228,
+      "start": 741.44,
+      "end": 742.44,
+      "en": "Yes, three pistons.",
+      "zh": "是的，三个活塞。"
+    },
+    {
+      "id": 229,
+      "start": 742.44,
+      "end": 742.72,
+      "en": "Three pistons.",
+      "zh": "三个活塞。"
+    },
+    {
+      "id": 230,
+      "start": 743.44,
+      "end": 744.14,
+      "en": "Because there's another one that doesn't, right?",
+      "zh": "因为还有一种没有，对吧？"
+    },
+    {
+      "id": 231,
+      "start": 745.52,
+      "end": 746.78,
+      "en": "There's one that has four pistons.",
+      "zh": "有一种有四个活塞。"
+    },
+    {
+      "id": 232,
+      "start": 747.56,
+      "end": 748.88,
+      "en": "It's a piccolo trumpet, has four.",
+      "zh": "这是一个短笛小号，有四个。"
+    },
+    {
+      "id": 233,
+      "start": 749.72,
+      "end": 754.91,
+      "en": "And there's one that's large and it slides in and out and that's a trombone.",
+      "zh": "有一个很大，它可以滑入和滑出，那是一个长号。"
+    },
+    {
+      "id": 234,
+      "start": 755.32,
+      "end": 755.73,
+      "en": "That's much lower.",
+      "zh": "那要低得多。"
+    },
+    {
+      "id": 235,
+      "start": 756.32,
+      "end": 756.47,
+      "en": "Right, right.",
+      "zh": "对，对。"
+    },
+    {
+      "id": 236,
+      "start": 757.32,
+      "end": 758.65,
+      "en": "But the trumpet is kind of a mid-range instrument.",
+      "zh": "但小号是一种中档乐器。"
+    },
+    {
+      "id": 237,
+      "start": 758.88,
+      "end": 761.56,
+      "en": "It can go quite high and a little bit low.",
+      "zh": "它可以很高，有点低。"
+    },
+    {
+      "id": 238,
+      "start": 761.56,
+      "end": 762.88,
+      "en": "And it's brass, it's not wood.",
+      "zh": "它是黄铜，它不是木头。"
+    },
+    {
+      "id": 239,
+      "start": 762.88,
+      "end": 763.47,
+      "en": "It's made of a metal.",
+      "zh": "它是由金属制成的。"
+    },
+    {
+      "id": 240,
+      "start": 763.88,
+      "end": 764.01,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 241,
+      "start": 764.69,
+      "end": 766.25,
+      "en": "It looks like gold, right?",
+      "zh": "看起来像黄金，对吧？"
+    },
+    {
+      "id": 242,
+      "start": 766.75,
+      "end": 767.45,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 243,
+      "start": 767.88,
+      "end": 770.76,
+      "en": "Alright, so you play the trumpet.",
+      "zh": "好吧，所以你吹小号。"
+    },
+    {
+      "id": 244,
+      "start": 770.76,
+      "end": 775.36,
+      "en": "Did you play in a band or in a school or college?",
+      "zh": "你是在乐队还是在学校或大学里演奏？"
+    },
+    {
+      "id": 245,
+      "start": 775.36,
+      "end": 778.75,
+      "en": "In middle school and high school, I played in bands and orchestras.",
+      "zh": "在中学和高中，我在乐队和管弦乐队演奏。"
+    },
+    {
+      "id": 246,
+      "start": 779.72,
+      "end": 785.84,
+      "en": "And in college, I played in orchestra and I've also played in rock bands because sometimes people want to, you know...",
+      "zh": "在大学里，我在管弦乐队演奏，我也在摇滚乐队演奏，因为有时人们想要，你知道..."
+    },
+    {
+      "id": 247,
+      "start": 785.84,
+      "end": 786.84,
+      "en": "Have a trumpet in the background.",
+      "zh": "在后台有一个小号。"
+    },
+    {
+      "id": 248,
+      "start": 786.84,
+      "end": 789.2,
+      "en": "Have a trumpet and go a little crazy.",
+      "zh": "有一个小号，有点疯狂。"
+    },
+    {
+      "id": 249,
+      "start": 789.2,
+      "end": 790.2,
+      "en": "Nice.",
+      "zh": "不错。"
+    },
+    {
+      "id": 250,
+      "start": 790.25,
+      "end": 790.53,
+      "en": "Interesting.",
+      "zh": "有意思。"
+    },
+    {
+      "id": 251,
+      "start": 791.2,
+      "end": 796.36,
+      "en": "This is interesting because I'm sure a lot of our users out there actually play instruments and maybe a lot of them are also good at it.",
+      "zh": "这很有趣，因为我敢肯定我们的很多用户实际上都在演奏乐器，也许他们中的很多人也很擅长。"
+    },
+    {
+      "id": 252,
+      "start": 796.36,
+      "end": 804.78,
+      "en": "So come to EnglishPod.com, leave your questions and comments and let us know if you play any instruments or maybe some strange instruments like the xylophone.",
+      "zh": "因此，请访问 Englishpod.com，留下您的问题和评论，让我们知道您是否演奏任何乐器或一些奇怪的乐器，如木琴。"
+    },
+    {
+      "id": 253,
+      "start": 805.2,
+      "end": 811.4,
+      "en": "Or if you like to play Wii Rock Band because we certainly do and we can support you on that one.",
+      "zh": "或者，如果您喜欢演奏 Wii 摇滚乐队，因为我们当然愿意，我们可以支持您。"
+    },
+    {
+      "id": 254,
+      "start": 811.4,
+      "end": 812.4,
+      "en": "We can give you some tips.",
+      "zh": "我们可以给你一些提示。"
+    },
+    {
+      "id": 255,
+      "start": 812.4,
+      "end": 813.4,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 256,
+      "start": 813.4,
+      "end": 814.4,
+      "en": "Alright, so we'll see you guys there.",
+      "zh": "好吧，我们会在那里见到你们。"
+    },
+    {
+      "id": 257,
+      "start": 814.4,
+      "end": 815.4,
+      "en": "Until next time.",
+      "zh": "下次再见。"
+    },
+    {
+      "id": 258,
+      "start": 815.4,
+      "end": 816.4,
+      "en": "Bye everyone.",
+      "zh": "大家再见。"
+    },
+    {
+      "id": 259,
+      "start": 816.4,
+      "end": 822.7,
+      "en": "Thanks for listening.",
+      "zh": "感谢收听。"
+    }
+  ],
+  "dialog": {
+    "start": 80.16,
+    "end": 130.02,
+    "segmentIds": [
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43
+    ]
+  }
+}

@@ -1,0 +1,2328 @@
+{
+  "version": 1,
+  "id": 236,
+  "number": "0236",
+  "title": "Daily Life - Trying To Sleep",
+  "audio": "mp3/236. Daily Life - Trying To Sleep.mp3",
+  "duration": 956.995875,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.05,
+      "en": "Hello everyone and welcome to EnglishPod.",
+      "zh": "大家好，欢迎来到 EnglishPod。"
+    },
+    {
+      "id": 2,
+      "start": 5.31,
+      "end": 5.77,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 6.15,
+      "end": 12.01,
+      "en": "My name is Catherine and today we're talking a little bit about going to sleep or not being able to sleep.",
+      "zh": "我的名字是凯瑟琳，今天我们要谈一些关于睡觉或无法入睡的事情。"
+    },
+    {
+      "id": 4,
+      "start": 12.33,
+      "end": 12.83,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 5,
+      "start": 13.09,
+      "end": 22.11,
+      "en": "We are having some sleeping problems and we're actually going to check out a couple of words related to this topic right now on Vocabulary Preview.",
+      "zh": "我们有一些睡眠问题，我们现在实际上会在词汇预览中查看与该主题相关的几个单词。"
+    },
+    {
+      "id": 6,
+      "start": 24.44,
+      "end": 25.44,
+      "en": "Vocabulary Preview.",
+      "zh": "词汇预习。"
+    },
+    {
+      "id": 7,
+      "start": 25.44,
+      "end": 32.68,
+      "en": "Okay, so the first word is actually the technical word that describes being unable to sleep.",
+      "zh": "好的，所以第一个词实际上是描述无法入睡的技术词。"
+    },
+    {
+      "id": 8,
+      "start": 32.68,
+      "end": 33.49,
+      "en": "It's called insomnia.",
+      "zh": "它被称为失眠症。"
+    },
+    {
+      "id": 9,
+      "start": 34.23,
+      "end": 34.47,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 10,
+      "start": 34.53,
+      "end": 38.85,
+      "en": "So if you have insomnia, it means that you can't fall asleep.",
+      "zh": "所以如果你有失眠症，这意味着你不能入睡。"
+    },
+    {
+      "id": 11,
+      "start": 39.09,
+      "end": 39.65,
+      "en": "You can't sleep.",
+      "zh": "你睡不着。"
+    },
+    {
+      "id": 12,
+      "start": 40.03,
+      "end": 40.37,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 13,
+      "start": 40.41,
+      "end": 41.99,
+      "en": "So this is a pretty serious condition.",
+      "zh": "所以这是一个相当严重的情况。"
+    },
+    {
+      "id": 14,
+      "start": 42.57,
+      "end": 48.55,
+      "en": "For example, if you have insomnia and you don't sleep for three or four nights, you're not going to do very well at work, right?",
+      "zh": "例如，如果你有失眠症并且你三四个晚上都没有睡觉，你的工作就不会做得很好，对吧？"
+    },
+    {
+      "id": 15,
+      "start": 48.83,
+      "end": 49.17,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 16,
+      "start": 49.17,
+      "end": 52.49,
+      "en": "Or if you're studying, you're tired at school, you can't concentrate.",
+      "zh": "或者，如果你在学习，你在学校很累，你无法集中注意力。"
+    },
+    {
+      "id": 17,
+      "start": 52.49,
+      "end": 53.99,
+      "en": "So it's a very big problem.",
+      "zh": "所以这是一个非常大的问题。"
+    },
+    {
+      "id": 18,
+      "start": 55.04,
+      "end": 55.75,
+      "en": "What's that other word though?",
+      "zh": "另一个词是什么？"
+    },
+    {
+      "id": 19,
+      "start": 56.04,
+      "end": 58.79,
+      "en": "We have insomnia, but we also have another interesting disorder.",
+      "zh": "我们有失眠症，但我们还有另一个有趣的疾病。"
+    },
+    {
+      "id": 20,
+      "start": 59.4,
+      "end": 59.57,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 21,
+      "start": 60.4,
+      "end": 67.88,
+      "en": "If somebody is able to sleep but walks while they're sleeping, that person is called a sleepwalker.",
+      "zh": "如果有人能够睡觉但在他们睡觉时走路，那个人被称为梦游者。"
+    },
+    {
+      "id": 22,
+      "start": 68.01,
+      "end": 68.65,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 23,
+      "start": 68.88,
+      "end": 71.25,
+      "en": "And you don't actually just have to walk to be a sleepwalker.",
+      "zh": "而且您实际上不必步行即可成为一名梦游者。"
+    },
+    {
+      "id": 24,
+      "start": 71.84,
+      "end": 77.57,
+      "en": "You can do any number of strange things like basically acting like you're awake when you're not.",
+      "zh": "你可以做许多奇怪的事情，比如基本上你不醒着就表现得像醒着一样。"
+    },
+    {
+      "id": 25,
+      "start": 78.28,
+      "end": 79.28,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 26,
+      "start": 79.28,
+      "end": 83.76,
+      "en": "So some people get up and walk, actually go outside.",
+      "zh": "所以有些人起身走路，实际上出门。"
+    },
+    {
+      "id": 27,
+      "start": 83.76,
+      "end": 84.35,
+      "en": "Some people get dressed.",
+      "zh": "有些人穿衣服。"
+    },
+    {
+      "id": 28,
+      "start": 84.88,
+      "end": 86.48,
+      "en": "Some people go downstairs and cook.",
+      "zh": "有些人下楼做饭。"
+    },
+    {
+      "id": 29,
+      "start": 86.51,
+      "end": 87.19,
+      "en": "Yeah, that's right.",
+      "zh": "对，没错。"
+    },
+    {
+      "id": 30,
+      "start": 87.48,
+      "end": 91.2,
+      "en": "And the worst is the people who eat because they gain weight and they don't know why.",
+      "zh": "最糟糕的是那些吃东西的人，因为他们体重增加了，他们不知道为什么。"
+    },
+    {
+      "id": 31,
+      "start": 91.2,
+      "end": 91.39,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 32,
+      "start": 92.2,
+      "end": 95.52,
+      "en": "So sleepwalking is what you do.",
+      "zh": "所以梦游就是你的工作。"
+    },
+    {
+      "id": 33,
+      "start": 95.52,
+      "end": 97.35,
+      "en": "And if you do this, you're called a sleepwalker.",
+      "zh": "如果你这样做，你就会被称为梦游者。"
+    },
+    {
+      "id": 34,
+      "start": 97.89,
+      "end": 98.05,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 35,
+      "start": 98.17,
+      "end": 99.63,
+      "en": "Sleepwalk is the verb.",
+      "zh": "梦游是动词。"
+    },
+    {
+      "id": 36,
+      "start": 99.63,
+      "end": 102.15,
+      "en": "Sleepwalker is the noun or the person.",
+      "zh": "梦游者是名词或人。"
+    },
+    {
+      "id": 37,
+      "start": 102.55,
+      "end": 102.91,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 38,
+      "start": 103.44,
+      "end": 107.65,
+      "en": "So we've taken a look at two words that we're going to find in our dialogue today.",
+      "zh": "所以我们看了我们今天在对话中要找到的两个词。"
+    },
+    {
+      "id": 39,
+      "start": 108.16,
+      "end": 110.97,
+      "en": "Why don't we go now and listen to the dialogue for the first time.",
+      "zh": "我们为什么不现在就去听第一次对话。"
+    },
+    {
+      "id": 40,
+      "start": 117.71,
+      "end": 119.49,
+      "en": "Alex, what's up with you?",
+      "zh": "亚历克斯，你怎么了？"
+    },
+    {
+      "id": 41,
+      "start": 120.07,
+      "end": 120.83,
+      "en": "You look dreadful.",
+      "zh": "你脸色真差。"
+    },
+    {
+      "id": 42,
+      "start": 121.59,
+      "end": 122.03,
+      "en": "Hey, Jill.",
+      "zh": "嘿，吉尔。"
+    },
+    {
+      "id": 43,
+      "start": 122.99,
+      "end": 123.49,
+      "en": "I don't know.",
+      "zh": "我不知道。"
+    },
+    {
+      "id": 44,
+      "start": 124.29,
+      "end": 126.51,
+      "en": "I've been having trouble sleeping these past few weeks.",
+      "zh": "这几周我一直睡不好。"
+    },
+    {
+      "id": 45,
+      "start": 127.29,
+      "end": 129.75,
+      "en": "I usually lie in bed for hours trying to get to sleep.",
+      "zh": "我通常在床上躺几个小时试图入睡。"
+    },
+    {
+      "id": 46,
+      "start": 130.57,
+      "end": 133.73,
+      "en": "I've tried stretching and different breathing techniques before going to bed.",
+      "zh": "我在睡觉前尝试过拉伸和不同的呼吸技巧。"
+    },
+    {
+      "id": 47,
+      "start": 134.53,
+      "end": 136.51,
+      "en": "I've tried eating and not eating different foods.",
+      "zh": "各种食物我都试过吃，也试过不吃。"
+    },
+    {
+      "id": 48,
+      "start": 137.65,
+      "end": 138.89,
+      "en": "I've even tried counting sheep.",
+      "zh": "我什至试过数羊。"
+    },
+    {
+      "id": 49,
+      "start": 139.6,
+      "end": 143.66,
+      "en": "And then when I finally get to sleep, I have these really disturbing nightmares.",
+      "zh": "然后当我终于入睡时，我有这些非常令人不安的噩梦。"
+    },
+    {
+      "id": 50,
+      "start": 144.32,
+      "end": 147.66,
+      "en": "So I usually wake up in a panic and more tired than before I went to sleep.",
+      "zh": "所以我通常会在恐慌中醒来，比睡前更累。"
+    },
+    {
+      "id": 51,
+      "start": 148.52,
+      "end": 149.52,
+      "en": "Wow.",
+      "zh": "哇。"
+    },
+    {
+      "id": 52,
+      "start": 149.52,
+      "end": 150.72,
+      "en": "Maybe you should get that checked out.",
+      "zh": "也许你应该检查一下。"
+    },
+    {
+      "id": 53,
+      "start": 151.48,
+      "end": 152.02,
+      "en": "Maybe you're stressed.",
+      "zh": "也许你压力太大了。"
+    },
+    {
+      "id": 54,
+      "start": 153.2,
+      "end": 154.08,
+      "en": "Just take some sedatives.",
+      "zh": "吃点镇静药吧。"
+    },
+    {
+      "id": 55,
+      "start": 154.64,
+      "end": 154.96,
+      "en": "Works for me.",
+      "zh": "对我挺管用。"
+    },
+    {
+      "id": 56,
+      "start": 156.16,
+      "end": 159.68,
+      "en": "Every so often having some melatonin on hand helps me when I have trouble sleeping.",
+      "zh": "当我难以入睡时，每隔一段时间就会有一些褪黑激素帮助我。"
+    },
+    {
+      "id": 57,
+      "start": 160.54,
+      "end": 162.0,
+      "en": "It works on all kinds of sleeping disorders.",
+      "zh": "它适用于各种睡眠障碍。"
+    },
+    {
+      "id": 58,
+      "start": 163.04,
+      "end": 165.56,
+      "en": "It's the stuff pilots use to regulate their sleeping patterns.",
+      "zh": "这是飞行员用来调节他们的睡眠模式的东西。"
+    },
+    {
+      "id": 59,
+      "start": 166.28,
+      "end": 166.94,
+      "en": "I heard of that.",
+      "zh": "我听说过。"
+    },
+    {
+      "id": 60,
+      "start": 167.24,
+      "end": 169.3,
+      "en": "But does that apply to Alex's situation?",
+      "zh": "但这适用于亚历克斯的情况吗？"
+    },
+    {
+      "id": 61,
+      "start": 170.0,
+      "end": 170.72,
+      "en": "Yeah, sure.",
+      "zh": "好啊，当然。"
+    },
+    {
+      "id": 62,
+      "start": 171.32,
+      "end": 172.32,
+      "en": "Why not?",
+      "zh": "为什么不呢？"
+    },
+    {
+      "id": 63,
+      "start": 172.32,
+      "end": 177.99,
+      "en": "Sounds like he only has transient insomnia since it's a recent thing so taking melatonin should do the trick.",
+      "zh": "听起来他只有短暂的失眠，因为这是最近的事情，所以服用褪黑激素应该可以解决问题。"
+    },
+    {
+      "id": 64,
+      "start": 178.64,
+      "end": 181.41,
+      "en": "But shouldn't he be looking into why it's been happening?",
+      "zh": "但他不应该调查为什么会发生吗？"
+    },
+    {
+      "id": 65,
+      "start": 181.79,
+      "end": 183.47,
+      "en": "Well, aren't you the little psychologist?",
+      "zh": "哟，你还成了小心理学家了？"
+    },
+    {
+      "id": 66,
+      "start": 184.79,
+      "end": 186.01,
+      "en": "Our buddy's having trouble sleeping.",
+      "zh": "我们的朋友睡不着。"
+    },
+    {
+      "id": 67,
+      "start": 186.45,
+      "end": 187.41,
+      "en": "It's easy and curable.",
+      "zh": "这很容易治好。"
+    },
+    {
+      "id": 68,
+      "start": 187.97,
+      "end": 190.49,
+      "en": "It's not something freakish like if he was a sleepwalker.",
+      "zh": "又不是什么梦游之类的怪事。"
+    },
+    {
+      "id": 69,
+      "start": 190.91,
+      "end": 192.71,
+      "en": "Well, there's that too.",
+      "zh": "呃，那个毛病我也有。"
+    },
+    {
+      "id": 70,
+      "start": 198.36,
+      "end": 199.36,
+      "en": "Alright we're back.",
+      "zh": "好了，我们回来了。"
+    },
+    {
+      "id": 71,
+      "start": 199.36,
+      "end": 206.1,
+      "en": "So obviously this person not only has insomnia but also has nightmares, sleepwalks, a mess.",
+      "zh": "所以显然这个人不仅有失眠症，而且还有噩梦、梦游、乱七八糟的东西。"
+    },
+    {
+      "id": 72,
+      "start": 207.0,
+      "end": 207.2,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 73,
+      "start": 208.0,
+      "end": 210.78,
+      "en": "And you can tell when someone hasn't been sleeping well.",
+      "zh": "你可以知道某人什么时候睡得不好。"
+    },
+    {
+      "id": 74,
+      "start": 211.14,
+      "end": 216.82,
+      "en": "They have that look like there's bags under their eyes or they just look really tired.",
+      "zh": "他们的眼睛下面有袋子，或者看起来很累。"
+    },
+    {
+      "id": 75,
+      "start": 217.24,
+      "end": 220.8,
+      "en": "And so the friend here says, Alex, you look dreadful.",
+      "zh": "所以这里的朋友说，亚历克斯，你看起来很可怕。"
+    },
+    {
+      "id": 76,
+      "start": 221.5,
+      "end": 222.64,
+      "en": "That's right, dreadful.",
+      "zh": "没错，可怕。"
+    },
+    {
+      "id": 77,
+      "start": 223.1,
+      "end": 227.31,
+      "en": "So this is an adjective and it's a way to describe someone that looks terrible.",
+      "zh": "所以这是一个形容词，它是一种描述看起来很糟糕的人的方式。"
+    },
+    {
+      "id": 78,
+      "start": 227.53,
+      "end": 228.47,
+      "en": "You look horrible.",
+      "zh": "你看起来很可怕。"
+    },
+    {
+      "id": 79,
+      "start": 228.75,
+      "end": 229.55,
+      "en": "You look tired.",
+      "zh": "你看起来很累。"
+    },
+    {
+      "id": 80,
+      "start": 229.55,
+      "end": 230.41,
+      "en": "You look sleepy.",
+      "zh": "你看起来很困。"
+    },
+    {
+      "id": 81,
+      "start": 231.02,
+      "end": 231.36,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 82,
+      "start": 231.52,
+      "end": 232.68,
+      "en": "So this is not a compliment.",
+      "zh": "所以这不是恭维。"
+    },
+    {
+      "id": 83,
+      "start": 233.26,
+      "end": 235.62,
+      "en": "This is something that you say when you're worried about someone.",
+      "zh": "这是您在担心某人时说的话。"
+    },
+    {
+      "id": 84,
+      "start": 236.22,
+      "end": 240.32,
+      "en": "So for example, if someone's really, really tired, you say, you look dreadful.",
+      "zh": "例如，如果某人真的非常累，你说，你看起来很可怕。"
+    },
+    {
+      "id": 85,
+      "start": 240.8,
+      "end": 247.18,
+      "en": "Or if someone is wearing very dirty clothes, they don't look like they went home yesterday, you say, what's wrong?",
+      "zh": "或者如果有人穿着很脏的衣服，他们看起来不像昨天回家了，你说，怎么了？"
+    },
+    {
+      "id": 86,
+      "start": 247.36,
+      "end": 247.88,
+      "en": "You look dreadful.",
+      "zh": "你脸色真差。"
+    },
+    {
+      "id": 87,
+      "start": 248.4,
+      "end": 249.4,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 88,
+      "start": 249.4,
+      "end": 252.92,
+      "en": "I think you can also use it to describe objects or maybe food, right?",
+      "zh": "我想你也可以用它来描述物体或食物，对吧？"
+    },
+    {
+      "id": 89,
+      "start": 253.4,
+      "end": 254.88,
+      "en": "This lasagna is dreadful.",
+      "zh": "这千层面太可怕了。"
+    },
+    {
+      "id": 90,
+      "start": 254.88,
+      "end": 256.28,
+      "en": "It means it's very bad.",
+      "zh": "这意味着它非常糟糕。"
+    },
+    {
+      "id": 91,
+      "start": 256.54,
+      "end": 258.72,
+      "en": "And you don't want to say that to the person who cooked it, of course.",
+      "zh": "当然，你不想对做饭的人这么说。"
+    },
+    {
+      "id": 92,
+      "start": 258.96,
+      "end": 259.22,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 93,
+      "start": 260.88,
+      "end": 266.52,
+      "en": "Alright, so the person obviously because is suffering from insomnia looks dreadful.",
+      "zh": "好吧，所以这个人显然是因为患有失眠症，看起来很可怕。"
+    },
+    {
+      "id": 94,
+      "start": 266.52,
+      "end": 270.4,
+      "en": "And he was explaining what he does to try to fall asleep.",
+      "zh": "他正在解释他做了什么来试图入睡。"
+    },
+    {
+      "id": 95,
+      "start": 270.4,
+      "end": 277.09,
+      "en": "For example, counting sheep, stretching, and he also said that he tried different breathing techniques.",
+      "zh": "例如，数羊、伸展，他还说他尝试了不同的呼吸技巧。"
+    },
+    {
+      "id": 96,
+      "start": 277.6,
+      "end": 282.3,
+      "en": "Okay, so basically a technique is an approach to something, a kind of method.",
+      "zh": "好的，所以基本上一种技术是对某事的一种方法，一种方法。"
+    },
+    {
+      "id": 97,
+      "start": 282.9,
+      "end": 285.24,
+      "en": "But in this case, we're talking about breathing techniques.",
+      "zh": "但在这种情况下，我们谈论的是呼吸技术。"
+    },
+    {
+      "id": 98,
+      "start": 285.94,
+      "end": 292.56,
+      "en": "So for some people, one breathing technique is breathing in through your nose and breathing out through your mouth.",
+      "zh": "所以对于一些人来说，一种呼吸技术是通过你的鼻子呼吸，然后通过嘴巴呼吸。"
+    },
+    {
+      "id": 99,
+      "start": 294.05,
+      "end": 294.31,
+      "en": "Like that.",
+      "zh": "就这样。"
+    },
+    {
+      "id": 100,
+      "start": 294.53,
+      "end": 295.65,
+      "en": "That's one kind of technique.",
+      "zh": "这是一种技术。"
+    },
+    {
+      "id": 101,
+      "start": 296.19,
+      "end": 298.91,
+      "en": "So a technique, as you say, is a way of doing something.",
+      "zh": "因此，正如您所说，技术是一种做事的方式。"
+    },
+    {
+      "id": 102,
+      "start": 299.6,
+      "end": 303.6,
+      "en": "So breathing techniques are different ways of breathing.",
+      "zh": "所以呼吸技巧是不同的呼吸方式。"
+    },
+    {
+      "id": 103,
+      "start": 303.6,
+      "end": 307.23,
+      "en": "So maybe you will relax, so maybe you'll fall asleep, things like this.",
+      "zh": "所以也许你会放松，所以也许你会睡着，这样的事情。"
+    },
+    {
+      "id": 104,
+      "start": 307.55,
+      "end": 307.69,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 105,
+      "start": 308.01,
+      "end": 310.63,
+      "en": "It's one of those things that you might learn about in a yoga class, for example.",
+      "zh": "例如，这是您可能在瑜伽课上学到的东西之一。"
+    },
+    {
+      "id": 106,
+      "start": 310.84,
+      "end": 312.64,
+      "en": "There's different breathing techniques.",
+      "zh": "有不同的呼吸技巧。"
+    },
+    {
+      "id": 107,
+      "start": 312.73,
+      "end": 312.85,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 108,
+      "start": 313.64,
+      "end": 318.04,
+      "en": "And you can combine techniques with other words as well, adding the ing.",
+      "zh": "您也可以将技术与其他单词结合起来，添加 ING。"
+    },
+    {
+      "id": 109,
+      "start": 318.04,
+      "end": 323.44,
+      "en": "For example, you have walking techniques, maybe to put less stress on your knees.",
+      "zh": "例如，你有步行技巧，也许是为了减少你的膝盖压力。"
+    },
+    {
+      "id": 110,
+      "start": 324.52,
+      "end": 326.44,
+      "en": "Or running techniques, swimming techniques.",
+      "zh": "或跑步技巧，游泳技巧。"
+    },
+    {
+      "id": 111,
+      "start": 326.86,
+      "end": 329.16,
+      "en": "I think there's a technique for almost everything.",
+      "zh": "我认为几乎所有东西都有一种技术。"
+    },
+    {
+      "id": 112,
+      "start": 329.68,
+      "end": 332.04,
+      "en": "Just about anything you can do, there's a technique for it.",
+      "zh": "几乎任何你能做的事情，都有一种技术。"
+    },
+    {
+      "id": 113,
+      "start": 332.52,
+      "end": 333.52,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 114,
+      "start": 333.52,
+      "end": 334.52,
+      "en": "Yeah, yeah, for sure.",
+      "zh": "是的，是的，当然。"
+    },
+    {
+      "id": 115,
+      "start": 334.52,
+      "end": 335.52,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 116,
+      "start": 335.52,
+      "end": 341.78,
+      "en": "And well, moving on, he was talking about his nightmares and he described his nightmares as disturbing.",
+      "zh": "好吧，继续前进，他在谈论他的噩梦，他形容他的噩梦令人不安。"
+    },
+    {
+      "id": 117,
+      "start": 342.28,
+      "end": 343.56,
+      "en": "He has disturbing nightmares.",
+      "zh": "他有令人不安的噩梦。"
+    },
+    {
+      "id": 118,
+      "start": 344.26,
+      "end": 350.4,
+      "en": "Okay, well, I think this is an important word to cover here, Marco, because we've heard the verb to disturb before.",
+      "zh": "好吧，我认为这是一个重要的词，马可，因为我们以前听过动词打扰的动词。"
+    },
+    {
+      "id": 119,
+      "start": 351.56,
+      "end": 352.96,
+      "en": "Like I'm sorry to disturb you.",
+      "zh": "就像我很抱歉打扰你一样。"
+    },
+    {
+      "id": 120,
+      "start": 352.96,
+      "end": 354.84,
+      "en": "It means I'm sorry to bother you.",
+      "zh": "这意味着我很抱歉打扰你。"
+    },
+    {
+      "id": 121,
+      "start": 354.84,
+      "end": 356.68,
+      "en": "But disturbing is an adjective.",
+      "zh": "但令人不安的是形容词。"
+    },
+    {
+      "id": 122,
+      "start": 356.68,
+      "end": 359.68,
+      "en": "It describes something that makes me very uncomfortable.",
+      "zh": "它描述了一些让我非常不舒服的事情。"
+    },
+    {
+      "id": 123,
+      "start": 359.68,
+      "end": 360.68,
+      "en": "Right?",
+      "zh": "对吧？"
+    },
+    {
+      "id": 124,
+      "start": 360.68,
+      "end": 361.68,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 125,
+      "start": 361.68,
+      "end": 369.64,
+      "en": "So, for example, a lot of times in the news, we see very disturbing images, car accidents or fires or bombs.",
+      "zh": "因此，例如，在新闻中很多时候，我们看到非常令人不安的图像、车祸或火灾或炸弹。"
+    },
+    {
+      "id": 126,
+      "start": 369.64,
+      "end": 372.88,
+      "en": "And what's disturbing is when you see human beings who have been hurt.",
+      "zh": "令人不安的是，当您看到受伤的人时。"
+    },
+    {
+      "id": 127,
+      "start": 372.88,
+      "end": 377.51,
+      "en": "So images that make you really uncomfortable or sad, these are disturbing.",
+      "zh": "所以让你真正不舒服或悲伤的图像，这些令人不安。"
+    },
+    {
+      "id": 128,
+      "start": 378.16,
+      "end": 378.41,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 129,
+      "start": 379.16,
+      "end": 384.24,
+      "en": "So disturbing nightmares are nightmares that are not very pleasant.",
+      "zh": "所以令人不安的噩梦是不是很令人愉快的噩梦。"
+    },
+    {
+      "id": 130,
+      "start": 384.24,
+      "end": 386.32,
+      "en": "They make him scared, maybe, or uncomfortable.",
+      "zh": "他们让他害怕，也许，或不舒服。"
+    },
+    {
+      "id": 131,
+      "start": 386.32,
+      "end": 387.32,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 132,
+      "start": 387.32,
+      "end": 389.24,
+      "en": "Like a dream, for example, where your parents die.",
+      "zh": "例如，你的父母死去的地方就像一个梦想。"
+    },
+    {
+      "id": 133,
+      "start": 389.47,
+      "end": 390.15,
+      "en": "It's pretty disturbing.",
+      "zh": "这很令人不安。"
+    },
+    {
+      "id": 134,
+      "start": 390.51,
+      "end": 390.69,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 135,
+      "start": 392.0,
+      "end": 393.0,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 136,
+      "start": 393.0,
+      "end": 394.35,
+      "en": "And well, one of his friends recommended, you know what?",
+      "zh": "好吧，他的一位朋友推荐，你知道吗？"
+    },
+    {
+      "id": 137,
+      "start": 395.16,
+      "end": 396.03,
+      "en": "Stop with all of this.",
+      "zh": "停止这一切。"
+    },
+    {
+      "id": 138,
+      "start": 396.05,
+      "end": 397.59,
+      "en": "Just take some sedatives.",
+      "zh": "吃点镇静药吧。"
+    },
+    {
+      "id": 139,
+      "start": 398.36,
+      "end": 398.88,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 140,
+      "start": 398.9,
+      "end": 405.58,
+      "en": "So sedatives are a kind of medicine that help a person relax or that help make a person tired.",
+      "zh": "所以镇静剂是一种帮助人放松或帮助一个人感到疲倦的药物。"
+    },
+    {
+      "id": 141,
+      "start": 405.88,
+      "end": 406.24,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 142,
+      "start": 406.78,
+      "end": 409.34,
+      "en": "So I think it comes from the verb to sedate.",
+      "zh": "所以我认为它来自动词到镇静。"
+    },
+    {
+      "id": 143,
+      "start": 409.74,
+      "end": 409.94,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 144,
+      "start": 410.92,
+      "end": 415.88,
+      "en": "And basically that is to calm down, to tranquilize.",
+      "zh": "基本上就是冷静下来，平静下来。"
+    },
+    {
+      "id": 145,
+      "start": 415.88,
+      "end": 416.88,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 146,
+      "start": 416.88,
+      "end": 420.46,
+      "en": "So in this case, we're talking about a person, but you can also give an animal sedatives.",
+      "zh": "所以在这种情况下，我们谈论的是一个人，但你也可以给动物镇静剂。"
+    },
+    {
+      "id": 147,
+      "start": 420.74,
+      "end": 425.26,
+      "en": "For example, if you want to take your dog on an airplane, the dog needs to relax.",
+      "zh": "例如，如果你想带你的狗上飞机，狗需要放松。"
+    },
+    {
+      "id": 148,
+      "start": 425.56,
+      "end": 426.54,
+      "en": "You give it some sedatives.",
+      "zh": "你给它一些镇静剂。"
+    },
+    {
+      "id": 149,
+      "start": 426.76,
+      "end": 427.18,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 150,
+      "start": 427.56,
+      "end": 433.14,
+      "en": "And I think when he mentioned a specific name of a sedative, it's melatonin.",
+      "zh": "我想当他提到镇静剂的具体名称时，它是褪黑激素。"
+    },
+    {
+      "id": 151,
+      "start": 433.74,
+      "end": 434.04,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 152,
+      "start": 434.96,
+      "end": 441.32,
+      "en": "So melatonin, melatonin is a chemical that our bodies naturally produce that help calm us down.",
+      "zh": "所以褪黑激素，褪黑激素是我们的身体自然产生的一种化学物质，可以帮助我们平静下来。"
+    },
+    {
+      "id": 153,
+      "start": 441.32,
+      "end": 448.24,
+      "en": "And so a lot of pharmaceutical companies or drug companies sell melatonin in a pill form.",
+      "zh": "因此，许多制药公司或制药公司以药丸的形式出售褪黑激素。"
+    },
+    {
+      "id": 154,
+      "start": 448.24,
+      "end": 451.24,
+      "en": "It's basically, it's a chemical that helps you relax.",
+      "zh": "它基本上是一种化学物质，可以帮助您放松。"
+    },
+    {
+      "id": 155,
+      "start": 451.24,
+      "end": 451.4,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 156,
+      "start": 452.24,
+      "end": 457.92,
+      "en": "So obviously if you take melatonin, you're going to feel sleepy or you're going to be very relaxed and you're going to fall asleep a lot easier.",
+      "zh": "所以很明显，如果你服用褪黑激素，你会感到困倦，或者你会非常放松，你会更容易入睡。"
+    },
+    {
+      "id": 157,
+      "start": 458.02,
+      "end": 459.0,
+      "en": "Well, hopefully.",
+      "zh": "好吧，希望。"
+    },
+    {
+      "id": 158,
+      "start": 459.2,
+      "end": 460.2,
+      "en": "Hopefully.",
+      "zh": "希望会吧。"
+    },
+    {
+      "id": 159,
+      "start": 460.2,
+      "end": 461.2,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 160,
+      "start": 461.2,
+      "end": 467.84,
+      "en": "So, and well, the whole thing that we've been talking about, insomnia, sleepwalking, these are called sleeping disorders.",
+      "zh": "所以，好吧，我们一直在谈论的整个事情，失眠，梦游，这些被称为睡眠障碍。"
+    },
+    {
+      "id": 161,
+      "start": 468.48,
+      "end": 468.68,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 162,
+      "start": 468.84,
+      "end": 471.16,
+      "en": "And remember, you might also hear the term sleep disorders.",
+      "zh": "请记住，您可能还会听到睡眠障碍一词。"
+    },
+    {
+      "id": 163,
+      "start": 471.16,
+      "end": 472.98,
+      "en": "They mean problems with sleeping.",
+      "zh": "它们的意思是睡眠问题。"
+    },
+    {
+      "id": 164,
+      "start": 473.44,
+      "end": 479.24,
+      "en": "So people who either cannot fall asleep or people who have bad dreams or people who sleep walk.",
+      "zh": "所以要么睡不着的人，要么做坏梦的人或睡觉的人。"
+    },
+    {
+      "id": 165,
+      "start": 479.66,
+      "end": 480.04,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 166,
+      "start": 480.38,
+      "end": 485.52,
+      "en": "So a disorder is something of an illness or a condition that is not normal.",
+      "zh": "所以疾病是一种疾病或不正常的疾病。"
+    },
+    {
+      "id": 167,
+      "start": 485.8,
+      "end": 492.16,
+      "en": "So for example, as you said, a sleeping disorder or a sleep disorder, it means that you're not able to sleep properly or normally.",
+      "zh": "例如，正如您所说，睡眠障碍或睡眠障碍，这意味着您无法正常或正常睡眠。"
+    },
+    {
+      "id": 168,
+      "start": 492.66,
+      "end": 494.46,
+      "en": "But there are other kinds of disorders, right?",
+      "zh": "但是还有其他类型的疾病，对吧？"
+    },
+    {
+      "id": 169,
+      "start": 494.81,
+      "end": 495.13,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 170,
+      "start": 495.92,
+      "end": 498.84,
+      "en": "And many people have heard of eating disorders.",
+      "zh": "许多人听说过饮食失调。"
+    },
+    {
+      "id": 171,
+      "start": 498.84,
+      "end": 499.84,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 172,
+      "start": 499.84,
+      "end": 501.67,
+      "en": "So that's basically people who do not eat like everyone else.",
+      "zh": "所以这基本上是不像其他人一样吃饭的人。"
+    },
+    {
+      "id": 173,
+      "start": 502.0,
+      "end": 503.0,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 174,
+      "start": 503.0,
+      "end": 504.53,
+      "en": "So that's what happens with a disorder.",
+      "zh": "所以这就是疾病发生的事情。"
+    },
+    {
+      "id": 175,
+      "start": 504.56,
+      "end": 505.56,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 176,
+      "start": 505.56,
+      "end": 507.09,
+      "en": "So we've taken a look at a lot of vocab.",
+      "zh": "所以我们看了很多词汇。"
+    },
+    {
+      "id": 177,
+      "start": 507.36,
+      "end": 509.57,
+      "en": "Now it's time for us to take a look at Fluency Builder.",
+      "zh": "现在是时候让我们看看 Fluency Builder 了。"
+    },
+    {
+      "id": 178,
+      "start": 509.75,
+      "end": 512.29,
+      "en": "But before that, why don't we listen to the dialogue again?",
+      "zh": "但在此之前，我们为什么不再听一次对话呢？"
+    },
+    {
+      "id": 179,
+      "start": 516.67,
+      "end": 518.49,
+      "en": "Alex, what's up with you?",
+      "zh": "亚历克斯，你怎么了？"
+    },
+    {
+      "id": 180,
+      "start": 519.13,
+      "end": 519.81,
+      "en": "You look dreadful.",
+      "zh": "你脸色真差。"
+    },
+    {
+      "id": 181,
+      "start": 520.55,
+      "end": 520.99,
+      "en": "Hey, Jill.",
+      "zh": "嘿，吉尔。"
+    },
+    {
+      "id": 182,
+      "start": 521.97,
+      "end": 522.43,
+      "en": "I don't know.",
+      "zh": "我不知道。"
+    },
+    {
+      "id": 183,
+      "start": 523.36,
+      "end": 525.46,
+      "en": "I've been having trouble sleeping these past few weeks.",
+      "zh": "这几周我一直睡不好。"
+    },
+    {
+      "id": 184,
+      "start": 526.09,
+      "end": 528.75,
+      "en": "I usually lie in bed for hours trying to get to sleep.",
+      "zh": "我通常在床上躺几个小时试图入睡。"
+    },
+    {
+      "id": 185,
+      "start": 529.55,
+      "end": 532.69,
+      "en": "I've tried stretching and different breathing techniques before going to bed.",
+      "zh": "我在睡觉前尝试过拉伸和不同的呼吸技巧。"
+    },
+    {
+      "id": 186,
+      "start": 533.47,
+      "end": 535.51,
+      "en": "I've tried eating and not eating different foods.",
+      "zh": "各种食物我都试过吃，也试过不吃。"
+    },
+    {
+      "id": 187,
+      "start": 536.61,
+      "end": 537.85,
+      "en": "I've even tried counting sheep.",
+      "zh": "我什至试过数羊。"
+    },
+    {
+      "id": 188,
+      "start": 538.59,
+      "end": 542.63,
+      "en": "And then when I finally get to sleep, I have these really disturbing nightmares.",
+      "zh": "然后当我终于入睡时，我有这些非常令人不安的噩梦。"
+    },
+    {
+      "id": 189,
+      "start": 543.27,
+      "end": 546.61,
+      "en": "So I usually wake up in a panic and more tired than before I went to sleep.",
+      "zh": "所以我通常会在恐慌中醒来，比睡前更累。"
+    },
+    {
+      "id": 190,
+      "start": 547.07,
+      "end": 547.27,
+      "en": "Wow.",
+      "zh": "哇。"
+    },
+    {
+      "id": 191,
+      "start": 548.52,
+      "end": 550.46,
+      "en": "Maybe you should get that checked out.",
+      "zh": "也许你应该检查一下。"
+    },
+    {
+      "id": 192,
+      "start": 550.46,
+      "end": 550.93,
+      "en": "Maybe you're stressed.",
+      "zh": "也许你压力太大了。"
+    },
+    {
+      "id": 193,
+      "start": 552.16,
+      "end": 553.05,
+      "en": "Just take some sedatives.",
+      "zh": "吃点镇静药吧。"
+    },
+    {
+      "id": 194,
+      "start": 553.64,
+      "end": 553.91,
+      "en": "Works for me.",
+      "zh": "我觉得行。"
+    },
+    {
+      "id": 195,
+      "start": 555.14,
+      "end": 558.65,
+      "en": "Every so often having some melatonin on hand helps me when I have trouble sleeping.",
+      "zh": "当我难以入睡时，每隔一段时间就会有一些褪黑激素帮助我。"
+    },
+    {
+      "id": 196,
+      "start": 559.54,
+      "end": 560.97,
+      "en": "It works on all kinds of sleeping disorders.",
+      "zh": "它适用于各种睡眠障碍。"
+    },
+    {
+      "id": 197,
+      "start": 561.68,
+      "end": 564.5,
+      "en": "It's the stuff pilots use to regulate their sleeping patterns.",
+      "zh": "这是飞行员用来调节他们的睡眠模式的东西。"
+    },
+    {
+      "id": 198,
+      "start": 565.14,
+      "end": 565.94,
+      "en": "I heard of that.",
+      "zh": "我听说过。"
+    },
+    {
+      "id": 199,
+      "start": 566.2,
+      "end": 568.28,
+      "en": "But does that apply to Alex's situation?",
+      "zh": "但这适用于亚历克斯的情况吗？"
+    },
+    {
+      "id": 200,
+      "start": 568.98,
+      "end": 569.7,
+      "en": "Yeah, sure.",
+      "zh": "好啊，当然。"
+    },
+    {
+      "id": 201,
+      "start": 570.28,
+      "end": 571.28,
+      "en": "Why not?",
+      "zh": "为什么不呢？"
+    },
+    {
+      "id": 202,
+      "start": 571.28,
+      "end": 575.14,
+      "en": "Sounds like he only has transient insomnia since it's a recent thing.",
+      "zh": "听起来他只是短暂的失眠，因为这是最近的事情。"
+    },
+    {
+      "id": 203,
+      "start": 575.44,
+      "end": 576.96,
+      "en": "So taking melatonin should do the trick.",
+      "zh": "所以服用褪黑激素应该可以解决问题。"
+    },
+    {
+      "id": 204,
+      "start": 577.62,
+      "end": 580.4,
+      "en": "But shouldn't he be looking into why it's been happening?",
+      "zh": "但他不应该调查为什么会发生吗？"
+    },
+    {
+      "id": 205,
+      "start": 580.76,
+      "end": 582.42,
+      "en": "Well, aren't you the little psychologist?",
+      "zh": "嗯，你不是小心理学家吗？"
+    },
+    {
+      "id": 206,
+      "start": 583.76,
+      "end": 585.0,
+      "en": "Our buddy's having trouble sleeping.",
+      "zh": "我们的朋友睡不着。"
+    },
+    {
+      "id": 207,
+      "start": 585.4,
+      "end": 586.4,
+      "en": "It's easy and curable.",
+      "zh": "这很容易治好。"
+    },
+    {
+      "id": 208,
+      "start": 586.88,
+      "end": 589.46,
+      "en": "It's not something freakish like if he was a sleepwalker.",
+      "zh": "又不是什么梦游之类的怪事。"
+    },
+    {
+      "id": 209,
+      "start": 590.28,
+      "end": 591.67,
+      "en": "Well, there's that too.",
+      "zh": "嗯，也有这个原因。"
+    },
+    {
+      "id": 210,
+      "start": 595.44,
+      "end": 596.14,
+      "en": "All right, we're back.",
+      "zh": "好了，我们回来了。"
+    },
+    {
+      "id": 211,
+      "start": 596.4,
+      "end": 600.6,
+      "en": "So now we have three main phrases for Fluency Builder.",
+      "zh": "所以现在我们有三个主要短语用于 Fluency Builder。"
+    },
+    {
+      "id": 212,
+      "start": 600.6,
+      "end": 601.78,
+      "en": "Why don't we start with the first one?",
+      "zh": "为什么我们不从第一个开始？"
+    },
+    {
+      "id": 213,
+      "start": 602.16,
+      "end": 602.62,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 214,
+      "start": 602.62,
+      "end": 607.6,
+      "en": "So you heard in today's dialogue an interesting phrase.",
+      "zh": "所以你在今天的对话中听到了一个有趣的短语。"
+    },
+    {
+      "id": 215,
+      "start": 607.84,
+      "end": 615.62,
+      "en": "I don't know if it exists in other languages, but in English we say when you're trying to fall asleep, there's a good technique to help you do so.",
+      "zh": "我不知道它是否存在于其他语言中，但在英语中，我们说当您试图入睡时，有一个很好的技术可以帮助您做到这一点。"
+    },
+    {
+      "id": 216,
+      "start": 615.9,
+      "end": 616.96,
+      "en": "You count sheep.",
+      "zh": "你数羊。"
+    },
+    {
+      "id": 217,
+      "start": 617.54,
+      "end": 619.36,
+      "en": "Yeah, I think you see it in cartoons all the time.",
+      "zh": "是的，我想你一直在卡通中看到它。"
+    },
+    {
+      "id": 218,
+      "start": 619.48,
+      "end": 627.36,
+      "en": "A person is sleeping and over that cartoon's head is a little cloud and you see sheep jumping over a fence, right?",
+      "zh": "一个人在睡觉，在卡通的头上有一点云，你看到羊跳过栅栏，对吧？"
+    },
+    {
+      "id": 219,
+      "start": 627.36,
+      "end": 635.56,
+      "en": "So yeah, basically there's a fence and you say one, two, three, and the process of counting helps relax a person.",
+      "zh": "所以，是的，基本上有一个栅栏，你说一、二、三，数数的过程有助于放松一个人。"
+    },
+    {
+      "id": 220,
+      "start": 635.56,
+      "end": 636.01,
+      "en": "And you fall asleep.",
+      "zh": "而你睡着了。"
+    },
+    {
+      "id": 221,
+      "start": 636.56,
+      "end": 637.56,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 222,
+      "start": 637.56,
+      "end": 640.8,
+      "en": "So counting sheep, I guess you're not literally out in a field counting sheep.",
+      "zh": "所以数绵羊，我猜你并没有真正在数羊群中。"
+    },
+    {
+      "id": 223,
+      "start": 640.8,
+      "end": 643.93,
+      "en": "You're just imagining sheep in your head and you're trying to fall asleep.",
+      "zh": "你只是在脑海里想象羊，你正试图入睡。"
+    },
+    {
+      "id": 224,
+      "start": 644.13,
+      "end": 644.43,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 225,
+      "start": 644.63,
+      "end": 645.15,
+      "en": "Counting sheep.",
+      "zh": "数羊。"
+    },
+    {
+      "id": 226,
+      "start": 646.32,
+      "end": 647.32,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 227,
+      "start": 647.32,
+      "end": 650.93,
+      "en": "And well, one of his friends recommended that maybe he should go to a doctor.",
+      "zh": "好吧，他的一位朋友建议也许他应该去看医生。"
+    },
+    {
+      "id": 228,
+      "start": 651.6,
+      "end": 655.65,
+      "en": "And Jill said that by saying, maybe you should get that checked out.",
+      "zh": "吉尔说，也许你应该检查一下。"
+    },
+    {
+      "id": 229,
+      "start": 656.07,
+      "end": 656.41,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 230,
+      "start": 656.96,
+      "end": 668.64,
+      "en": "So to get something checked out, to get it checked out, this means to have a professional give you a suggestion or to have a professional look at something.",
+      "zh": "因此，要检查某些内容，将其检查出来，这意味着让专业人士给您建议或让您专业地看待某事。"
+    },
+    {
+      "id": 231,
+      "start": 668.64,
+      "end": 668.82,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 232,
+      "start": 669.64,
+      "end": 671.58,
+      "en": "So maybe you should get examined.",
+      "zh": "所以也许你应该接受检查。"
+    },
+    {
+      "id": 233,
+      "start": 672.32,
+      "end": 673.48,
+      "en": "Maybe you should go to the doctor.",
+      "zh": "也许你应该去看医生。"
+    },
+    {
+      "id": 234,
+      "start": 674.22,
+      "end": 676.44,
+      "en": "This isn't just about disorders, right?",
+      "zh": "这不仅仅是关于疾病，对吧？"
+    },
+    {
+      "id": 235,
+      "start": 676.56,
+      "end": 677.84,
+      "en": "I mean, what if I have a sore tooth?",
+      "zh": "我的意思是，如果我的牙齿酸痛怎么办？"
+    },
+    {
+      "id": 236,
+      "start": 677.84,
+      "end": 678.42,
+      "en": "I could say this.",
+      "zh": "我可以这么说。"
+    },
+    {
+      "id": 237,
+      "start": 678.84,
+      "end": 679.84,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 238,
+      "start": 679.84,
+      "end": 685.34,
+      "en": "So if you have a toothache, I would recommend, maybe you should get that checked out by my dentist.",
+      "zh": "所以如果你有牙痛，我会建议，也许你应该让我的牙医检查一下。"
+    },
+    {
+      "id": 239,
+      "start": 686.0,
+      "end": 686.16,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 240,
+      "start": 686.44,
+      "end": 689.6,
+      "en": "Or maybe if you have a bad rash, you know, your skin is very red.",
+      "zh": "或者，如果你有严重的皮疹，你知道，你的皮肤很红。"
+    },
+    {
+      "id": 241,
+      "start": 689.8,
+      "end": 694.12,
+      "en": "I say, Marco, I think you should get that checked out by a doctor.",
+      "zh": "我说，Marco，我想你应该让医生检查一下。"
+    },
+    {
+      "id": 242,
+      "start": 694.12,
+      "end": 695.12,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 243,
+      "start": 695.12,
+      "end": 700.62,
+      "en": "So to get something checked, to get something examined by a doctor or a professional.",
+      "zh": "所以要检查一些东西，让医生或专业人士检查一些东西。"
+    },
+    {
+      "id": 244,
+      "start": 701.04,
+      "end": 702.12,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 245,
+      "start": 702.12,
+      "end": 704.26,
+      "en": "And the last phrase that we have for you.",
+      "zh": "以及我们为您准备的最后一句话。"
+    },
+    {
+      "id": 246,
+      "start": 705.4,
+      "end": 708.71,
+      "en": "So last phrase we have today comes from a suggestion at the end.",
+      "zh": "所以我们今天的最后一句话来自最后的建议。"
+    },
+    {
+      "id": 247,
+      "start": 709.32,
+      "end": 710.93,
+      "en": "The friend suggests taking melatonin.",
+      "zh": "朋友建议服用褪黑激素。"
+    },
+    {
+      "id": 248,
+      "start": 711.84,
+      "end": 715.27,
+      "en": "And he says, listen, taking melatonin should do the trick.",
+      "zh": "他说，听着，服用褪黑激素应该可以解决问题。"
+    },
+    {
+      "id": 249,
+      "start": 715.92,
+      "end": 716.05,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 250,
+      "start": 716.92,
+      "end": 720.09,
+      "en": "So if you end the phrase by saying, that should do the trick.",
+      "zh": "因此，如果您通过说结束短语，那应该可以解决问题。"
+    },
+    {
+      "id": 251,
+      "start": 721.08,
+      "end": 724.85,
+      "en": "Basically you're saying that should solve your problem, that should help you.",
+      "zh": "基本上你是说应该解决你的问题，这应该对你有帮助。"
+    },
+    {
+      "id": 252,
+      "start": 725.24,
+      "end": 726.24,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 253,
+      "start": 726.24,
+      "end": 728.4,
+      "en": "So the trick, you don't have to think about what the trick is.",
+      "zh": "所以技巧，你不必考虑什么是诀窍。"
+    },
+    {
+      "id": 254,
+      "start": 728.4,
+      "end": 731.01,
+      "en": "It's just a way of saying it should fix your problem.",
+      "zh": "这只是说它应该解决您的问题的一种方式。"
+    },
+    {
+      "id": 255,
+      "start": 731.32,
+      "end": 741.21,
+      "en": "So for example, when someone is fixing my car and they have one more thing to do and it's finished, he says, the car mechanic might say, that should do the trick.",
+      "zh": "因此，例如，当有人修理我的车并且他们还有一件事要做并且完成时，他说，汽车修理工可能会说，这应该可以解决问题。"
+    },
+    {
+      "id": 256,
+      "start": 741.63,
+      "end": 741.75,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 257,
+      "start": 742.6,
+      "end": 743.76,
+      "en": "That means problem solved.",
+      "zh": "这意味着问题解决了。"
+    },
+    {
+      "id": 258,
+      "start": 743.76,
+      "end": 747.57,
+      "en": "Or maybe you're having, you want to hang a picture on your wall.",
+      "zh": "或者你有，你想把照片挂在墙上。"
+    },
+    {
+      "id": 259,
+      "start": 748.24,
+      "end": 753.27,
+      "en": "So somebody puts a nail in the wall and that should do the trick and maybe that'll hold up the painting.",
+      "zh": "所以有人在墙上钉了一颗钉子，这应该可以解决问题，也许这会支撑这幅画。"
+    },
+    {
+      "id": 260,
+      "start": 753.99,
+      "end": 754.19,
+      "en": "Done.",
+      "zh": "好了。"
+    },
+    {
+      "id": 261,
+      "start": 754.72,
+      "end": 755.72,
+      "en": "Done.",
+      "zh": "好了。"
+    },
+    {
+      "id": 262,
+      "start": 755.72,
+      "end": 756.72,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 263,
+      "start": 756.72,
+      "end": 758.92,
+      "en": "So that's a way of saying, that should solve the problem.",
+      "zh": "所以这是一种说法，应该解决问题。"
+    },
+    {
+      "id": 264,
+      "start": 758.92,
+      "end": 759.79,
+      "en": "This should be the solution.",
+      "zh": "这应该是解决方案。"
+    },
+    {
+      "id": 265,
+      "start": 760.46,
+      "end": 761.3,
+      "en": "That should be all.",
+      "zh": "那应该是全部。"
+    },
+    {
+      "id": 266,
+      "start": 761.68,
+      "end": 762.68,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 267,
+      "start": 762.68,
+      "end": 763.68,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 268,
+      "start": 763.68,
+      "end": 767.92,
+      "en": "So why don't we go back and listen to the dialogue one last time.",
+      "zh": "那么我们为什么不回去听一次对话。"
+    },
+    {
+      "id": 269,
+      "start": 773.91,
+      "end": 775.83,
+      "en": "Alex, what's up with you?",
+      "zh": "亚历克斯，你怎么了？"
+    },
+    {
+      "id": 270,
+      "start": 776.62,
+      "end": 777.13,
+      "en": "You look dreadful.",
+      "zh": "你脸色真差。"
+    },
+    {
+      "id": 271,
+      "start": 777.85,
+      "end": 778.33,
+      "en": "Hey Jill.",
+      "zh": "嘿吉尔。"
+    },
+    {
+      "id": 272,
+      "start": 779.29,
+      "end": 779.79,
+      "en": "I don't know.",
+      "zh": "我不知道。"
+    },
+    {
+      "id": 273,
+      "start": 780.56,
+      "end": 782.8,
+      "en": "I've been having trouble sleeping these past few weeks.",
+      "zh": "这几周我一直睡不好。"
+    },
+    {
+      "id": 274,
+      "start": 783.58,
+      "end": 786.06,
+      "en": "I usually lie in bed for hours trying to get to sleep.",
+      "zh": "我通常在床上躺几个小时试图入睡。"
+    },
+    {
+      "id": 275,
+      "start": 786.88,
+      "end": 790.04,
+      "en": "I've tried stretching and different breathing techniques before going to bed.",
+      "zh": "我在睡觉前尝试过拉伸和不同的呼吸技巧。"
+    },
+    {
+      "id": 276,
+      "start": 790.84,
+      "end": 792.82,
+      "en": "I've tried eating and not eating different foods.",
+      "zh": "各种食物我都试过吃，也试过不吃。"
+    },
+    {
+      "id": 277,
+      "start": 793.92,
+      "end": 795.2,
+      "en": "I've even tried counting sheep.",
+      "zh": "我什至试过数羊。"
+    },
+    {
+      "id": 278,
+      "start": 795.89,
+      "end": 799.97,
+      "en": "And then when I finally get to sleep, I have these really disturbing nightmares.",
+      "zh": "然后当我终于入睡时，我有这些非常令人不安的噩梦。"
+    },
+    {
+      "id": 279,
+      "start": 800.61,
+      "end": 803.95,
+      "en": "So I usually wake up in a panic and more tired than before I went to sleep.",
+      "zh": "所以我通常会在恐慌中醒来，比睡前更累。"
+    },
+    {
+      "id": 280,
+      "start": 804.41,
+      "end": 804.61,
+      "en": "Wow.",
+      "zh": "哇。"
+    },
+    {
+      "id": 281,
+      "start": 805.84,
+      "end": 807.8,
+      "en": "I think you should get that checked out.",
+      "zh": "我认为你应该检查一下。"
+    },
+    {
+      "id": 282,
+      "start": 807.8,
+      "end": 808.31,
+      "en": "Maybe you're stressed.",
+      "zh": "也许你压力太大了。"
+    },
+    {
+      "id": 283,
+      "start": 809.48,
+      "end": 810.39,
+      "en": "Just take some sedatives.",
+      "zh": "吃点镇静药吧。"
+    },
+    {
+      "id": 284,
+      "start": 810.92,
+      "end": 811.25,
+      "en": "Works for me.",
+      "zh": "我觉得行。"
+    },
+    {
+      "id": 285,
+      "start": 812.44,
+      "end": 816.01,
+      "en": "Every so often having some melatonin on hand helps me when I have trouble sleeping.",
+      "zh": "当我难以入睡时，每隔一段时间就会有一些褪黑激素帮助我。"
+    },
+    {
+      "id": 286,
+      "start": 816.84,
+      "end": 818.28,
+      "en": "It works on all kinds of sleeping disorders.",
+      "zh": "它适用于各种睡眠障碍。"
+    },
+    {
+      "id": 287,
+      "start": 819.34,
+      "end": 821.88,
+      "en": "It's the stuff pilots use to regulate their sleeping patterns.",
+      "zh": "这是飞行员用来调节他们的睡眠模式的东西。"
+    },
+    {
+      "id": 288,
+      "start": 822.58,
+      "end": 823.26,
+      "en": "I heard of that.",
+      "zh": "我听说过。"
+    },
+    {
+      "id": 289,
+      "start": 823.54,
+      "end": 825.6,
+      "en": "But does that apply to Alex's situation?",
+      "zh": "但这适用于亚历克斯的情况吗？"
+    },
+    {
+      "id": 290,
+      "start": 826.3,
+      "end": 827.02,
+      "en": "Yeah, sure.",
+      "zh": "好啊，当然。"
+    },
+    {
+      "id": 291,
+      "start": 827.6,
+      "end": 828.6,
+      "en": "Why not?",
+      "zh": "为什么不呢？"
+    },
+    {
+      "id": 292,
+      "start": 828.6,
+      "end": 832.47,
+      "en": "Sounds like he only has transient insomnia since it's a recent thing.",
+      "zh": "听起来他只是短暂的失眠，因为这是最近的事情。"
+    },
+    {
+      "id": 293,
+      "start": 832.76,
+      "end": 834.29,
+      "en": "So taking melatonin should do the trick.",
+      "zh": "所以服用褪黑激素应该可以解决问题。"
+    },
+    {
+      "id": 294,
+      "start": 834.92,
+      "end": 837.75,
+      "en": "But shouldn't he be looking into why it's been happening?",
+      "zh": "但他不应该调查为什么会发生吗？"
+    },
+    {
+      "id": 295,
+      "start": 838.09,
+      "end": 839.77,
+      "en": "Well, aren't you the little psychologist?",
+      "zh": "嗯，你不是小心理学家吗？"
+    },
+    {
+      "id": 296,
+      "start": 841.07,
+      "end": 842.33,
+      "en": "Our buddy's having trouble sleeping.",
+      "zh": "我们的朋友睡不着。"
+    },
+    {
+      "id": 297,
+      "start": 842.75,
+      "end": 843.71,
+      "en": "It's easy and curable.",
+      "zh": "这很容易治好。"
+    },
+    {
+      "id": 298,
+      "start": 844.27,
+      "end": 846.79,
+      "en": "It's not something freakish like if he was a sleepwalker.",
+      "zh": "又不是什么梦游之类的怪事。"
+    },
+    {
+      "id": 299,
+      "start": 847.23,
+      "end": 849.01,
+      "en": "Well, there's that too.",
+      "zh": "嗯，也有这个原因。"
+    },
+    {
+      "id": 300,
+      "start": 851.12,
+      "end": 857.96,
+      "en": "Alright, we're back.",
+      "zh": "好了，我们回来了。"
+    },
+    {
+      "id": 301,
+      "start": 857.97,
+      "end": 862.53,
+      "en": "So talking about dreaming, nightmares, insomnia, all of this, what do you do if you can't fall asleep?",
+      "zh": "说到梦，噩梦，失眠，这一切，如果你睡不着，你会怎么做？"
+    },
+    {
+      "id": 302,
+      "start": 863.15,
+      "end": 868.01,
+      "en": "I don't really have this problem personally because I could fall asleep anywhere, anytime.",
+      "zh": "我个人并没有真正遇到这个问题，因为我可以随时随地睡着。"
+    },
+    {
+      "id": 303,
+      "start": 868.69,
+      "end": 872.57,
+      "en": "I've heard some people take like warm milk before going to sleep.",
+      "zh": "我听说有些人在睡觉前喝热牛奶。"
+    },
+    {
+      "id": 304,
+      "start": 872.92,
+      "end": 879.08,
+      "en": "Some people take milk, although I also heard that dairy products before bedtime can make you have nightmares.",
+      "zh": "有些人吃牛奶，虽然我也听说睡前乳制品会让你做噩梦。"
+    },
+    {
+      "id": 305,
+      "start": 879.08,
+      "end": 880.08,
+      "en": "Oh, really?",
+      "zh": "哦，真的吗？"
+    },
+    {
+      "id": 306,
+      "start": 880.08,
+      "end": 881.64,
+      "en": "Like if you eat cheese before bed.",
+      "zh": "就像你睡前吃奶酪一样。"
+    },
+    {
+      "id": 307,
+      "start": 881.66,
+      "end": 882.4,
+      "en": "I've heard that as well.",
+      "zh": "我也听说过。"
+    },
+    {
+      "id": 308,
+      "start": 882.48,
+      "end": 886.44,
+      "en": "I've heard that if you have seafood before bed, you'll have nightmares as well.",
+      "zh": "我听说如果你睡前有海鲜，你也会做噩梦。"
+    },
+    {
+      "id": 309,
+      "start": 887.92,
+      "end": 893.25,
+      "en": "But actually, have you ever had a dream when you are doing something and you wake up in the middle of that?",
+      "zh": "但实际上，当你做某事并且你在其中醒来时，你有没有做过梦？"
+    },
+    {
+      "id": 310,
+      "start": 894.21,
+      "end": 894.6,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 311,
+      "start": 895.03,
+      "end": 905.41,
+      "en": "I remember once I was dreaming, I was drinking a soda and all of a sudden I woke up and I had my hand like in the air, like doing the action of me actually drinking the soda.",
+      "zh": "我记得有一次我在做梦，我在喝汽水，突然醒来，我的手就像在空中一样，就像在做我真正喝苏打水的动作一样。"
+    },
+    {
+      "id": 312,
+      "start": 905.75,
+      "end": 908.21,
+      "en": "Actually sometimes this happens to me when I'm falling asleep.",
+      "zh": "实际上，有时当我睡着时，这会发生在我身上。"
+    },
+    {
+      "id": 313,
+      "start": 908.71,
+      "end": 915.43,
+      "en": "I imagine I'm on a bike or something and I start to feel myself moving my legs and I wake up and I'm like, wait, wait, what am I doing?",
+      "zh": "我想象我在骑自行车什么的，我开始感觉到自己在动我的腿，我醒来，我想，等等，等等，我在做什么？"
+    },
+    {
+      "id": 314,
+      "start": 916.13,
+      "end": 921.65,
+      "en": "So the brain is very strange, I think, especially in those times when you're kind of asleep and you're kind of awake.",
+      "zh": "所以我认为大脑很奇怪，尤其是在你睡着并且有点清醒的时候。"
+    },
+    {
+      "id": 315,
+      "start": 921.97,
+      "end": 931.83,
+      "en": "Also when you wake up suddenly, I don't know if other people have experienced this, but you feel like you're falling or something, all of a sudden you just wake up with a shake.",
+      "zh": "还有，当你突然醒来时，我不知道其他人是否经历过这种情况，但你觉得自己要摔倒了，突然之间，你只是醒来时颤抖着醒来。"
+    },
+    {
+      "id": 316,
+      "start": 932.31,
+      "end": 933.23,
+      "en": "Yeah, your body moves.",
+      "zh": "是的，你的身体在移动。"
+    },
+    {
+      "id": 317,
+      "start": 933.64,
+      "end": 935.52,
+      "en": "Yeah, it's really scary.",
+      "zh": "是的，真的很吓人。"
+    },
+    {
+      "id": 318,
+      "start": 935.52,
+      "end": 936.52,
+      "en": "Your heart starts to beat.",
+      "zh": "你的心开始跳动。"
+    },
+    {
+      "id": 319,
+      "start": 936.52,
+      "end": 937.52,
+      "en": "I don't know why that happens.",
+      "zh": "我不知道为什么会发生这种情况。"
+    },
+    {
+      "id": 320,
+      "start": 937.63,
+      "end": 937.91,
+      "en": "It's unusual.",
+      "zh": "这很不寻常。"
+    },
+    {
+      "id": 321,
+      "start": 938.83,
+      "end": 941.61,
+      "en": "Well, we're curious to know what your sleep habits are.",
+      "zh": "好吧，我们很想知道你的睡眠习惯是什么。"
+    },
+    {
+      "id": 322,
+      "start": 941.83,
+      "end": 944.29,
+      "en": "Do you have a hard time sleeping or are you like me?",
+      "zh": "你很难睡觉还是你和我一样？"
+    },
+    {
+      "id": 323,
+      "start": 944.53,
+      "end": 945.69,
+      "en": "It's very easy for you to fall asleep.",
+      "zh": "你很容易入睡。"
+    },
+    {
+      "id": 324,
+      "start": 946.24,
+      "end": 947.64,
+      "en": "Let us know at our website, EnglishPod.com.",
+      "zh": "在我们的网站 englishpod.com 上告诉我们。"
+    },
+    {
+      "id": 325,
+      "start": 948.01,
+      "end": 948.64,
+      "en": "All right, we'll see you guys there.",
+      "zh": "好，到时候在那里见。"
+    },
+    {
+      "id": 326,
+      "start": 948.64,
+      "end": 953.64,
+      "en": "Bye.",
+      "zh": "再见。"
+    }
+  ],
+  "dialog": {
+    "start": 117.71,
+    "end": 192.71,
+    "segmentIds": [
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69
+    ]
+  }
+}

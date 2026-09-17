@@ -1,0 +1,2392 @@
+{
+  "version": 1,
+  "id": 104,
+  "number": "0104",
+  "title": "The Weekend - Skiing",
+  "audio": "mp3/104. The Weekend - Skiing.mp3",
+  "duration": 830.77225,
+  "segments": [
+    {
+      "id": 1,
+      "start": 4.82,
+      "end": 5.9,
+      "en": "Hello, English learners.",
+      "zh": "各位英语学习者，大家好。"
+    },
+    {
+      "id": 2,
+      "start": 6.32,
+      "end": 9.76,
+      "en": "Welcome back to another podcast here with us at EnglishPod.",
+      "zh": "欢迎回到 Englishpod 的另一个播客。"
+    },
+    {
+      "id": 3,
+      "start": 9.76,
+      "end": 10.18,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 4,
+      "start": 10.46,
+      "end": 11.06,
+      "en": "And I'm Erica.",
+      "zh": "我叫 Erica。"
+    },
+    {
+      "id": 5,
+      "start": 11.64,
+      "end": 16.7,
+      "en": "And today we're bringing you another part of our sports series and this time it's an advanced lesson.",
+      "zh": "今天我们为您带来我们体育系列的另一部分，这次是一个高级课程。"
+    },
+    {
+      "id": 6,
+      "start": 17.06,
+      "end": 17.3,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 7,
+      "start": 17.56,
+      "end": 20.98,
+      "en": "We're heading to the mountains today to take a skiing lesson.",
+      "zh": "我们今天要去山上上滑雪课。"
+    },
+    {
+      "id": 8,
+      "start": 21.28,
+      "end": 27.18,
+      "en": "Alright, so we're going to be learning about skiing, a winter sport and very popular throughout the world.",
+      "zh": "好吧，所以我们将学习滑雪，这是一项冬季运动，在世界范围内非常受欢迎。"
+    },
+    {
+      "id": 9,
+      "start": 27.18,
+      "end": 31.88,
+      "en": "But before we get started, why don't we take a look at a couple of words in Vocabulary Preview.",
+      "zh": "但在我们开始之前，我们为什么不看看词汇预览中的几个单词。"
+    },
+    {
+      "id": 10,
+      "start": 32.08,
+      "end": 32.86,
+      "en": "Vocabulary Preview.",
+      "zh": "词汇预习。"
+    },
+    {
+      "id": 11,
+      "start": 33.66,
+      "end": 36.9,
+      "en": "Alright, so we're going to hear these two words in our dialogue.",
+      "zh": "好吧，所以我们将在对话中听到这两个词。"
+    },
+    {
+      "id": 12,
+      "start": 37.28,
+      "end": 38.88,
+      "en": "The first one is fresh powder.",
+      "zh": "第一种是鲜粉。"
+    },
+    {
+      "id": 13,
+      "start": 39.3,
+      "end": 40.08,
+      "en": "Fresh powder.",
+      "zh": "新鲜粉末。"
+    },
+    {
+      "id": 14,
+      "start": 40.46,
+      "end": 40.92,
+      "en": "Fresh powder.",
+      "zh": "新鲜粉末。"
+    },
+    {
+      "id": 15,
+      "start": 41.54,
+      "end": 42.74,
+      "en": "Okay, so powder.",
+      "zh": "好吧，所以粉末。"
+    },
+    {
+      "id": 16,
+      "start": 43.1,
+      "end": 44.14,
+      "en": "We probably know this phrase already.",
+      "zh": "我们可能已经知道这句话了。"
+    },
+    {
+      "id": 17,
+      "start": 44.42,
+      "end": 48.36,
+      "en": "Yeah, but here we're talking about fresh light snow.",
+      "zh": "是的，但我们在这里谈论的是新鲜的小雪。"
+    },
+    {
+      "id": 18,
+      "start": 48.78,
+      "end": 51.06,
+      "en": "So fresh light snow, snow that recently fell.",
+      "zh": "如此清新的小雪，最近下的雪。"
+    },
+    {
+      "id": 19,
+      "start": 51.56,
+      "end": 52.56,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 20,
+      "start": 52.56,
+      "end": 53.54,
+      "en": "Okay, so it looks like powder.",
+      "zh": "好吧，所以它看起来像粉末。"
+    },
+    {
+      "id": 21,
+      "start": 53.92,
+      "end": 55.88,
+      "en": "The best kind for skiing on.",
+      "zh": "最好的滑雪种类。"
+    },
+    {
+      "id": 22,
+      "start": 56.16,
+      "end": 57.48,
+      "en": "Okay, the best kind.",
+      "zh": "好吧，最好的那种。"
+    },
+    {
+      "id": 23,
+      "start": 58.1,
+      "end": 59.2,
+      "en": "Alright, so fresh powder.",
+      "zh": "好吧，这么新鲜的粉。"
+    },
+    {
+      "id": 24,
+      "start": 59.78,
+      "end": 60.8,
+      "en": "What about our next phrase?",
+      "zh": "下一个短语是什么呢？"
+    },
+    {
+      "id": 25,
+      "start": 61.16,
+      "end": 64.06,
+      "en": "Well, we're also going to meet a four-time giant slalom champion.",
+      "zh": "好吧，我们还将见到四次巨型激流回旋冠军。"
+    },
+    {
+      "id": 26,
+      "start": 64.48,
+      "end": 67.96,
+      "en": "Alright, a four-time giant slalom champion.",
+      "zh": "好吧，四次大回转冠军。"
+    },
+    {
+      "id": 27,
+      "start": 68.14,
+      "end": 71.42,
+      "en": "Okay, so giant slalom is a type of ski race.",
+      "zh": "好吧，所以巨型回转是一种滑雪比赛。"
+    },
+    {
+      "id": 28,
+      "start": 72.32,
+      "end": 77.84,
+      "en": "When you probably see it on TV when they go down the hill and they have to go through these red or blue flags, right?",
+      "zh": "当他们下山时，您可能会在电视上看到它，他们必须穿过这些红色或蓝色的旗帜，对吧？"
+    },
+    {
+      "id": 29,
+      "start": 78.36,
+      "end": 79.36,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 30,
+      "start": 79.36,
+      "end": 84.6,
+      "en": "Now, four-time giant slalom champion means he won the giant slalom four times.",
+      "zh": "现在，四次大回转冠军意味着他四次赢得了大回转。"
+    },
+    {
+      "id": 31,
+      "start": 85.16,
+      "end": 86.16,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 32,
+      "start": 86.16,
+      "end": 89.96,
+      "en": "That's an interesting way of saying that somebody did something many times.",
+      "zh": "这是一种有趣的说法，有人做了很多次。"
+    },
+    {
+      "id": 33,
+      "start": 89.96,
+      "end": 90.96,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 34,
+      "start": 90.96,
+      "end": 94.32,
+      "en": "So I can say the three-time Nobel Prize winner.",
+      "zh": "所以我可以说三届诺贝尔奖获得者。"
+    },
+    {
+      "id": 35,
+      "start": 94.32,
+      "end": 94.93,
+      "en": "Yes, exactly.",
+      "zh": "对，没错。"
+    },
+    {
+      "id": 36,
+      "start": 95.29,
+      "end": 95.53,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 37,
+      "start": 96.52,
+      "end": 98.35,
+      "en": "Or the five-time Olympic gold medalist.",
+      "zh": "或五届奥运会金牌得主。"
+    },
+    {
+      "id": 38,
+      "start": 98.69,
+      "end": 99.37,
+      "en": "Okay, perfect.",
+      "zh": "好，太好了。"
+    },
+    {
+      "id": 39,
+      "start": 99.8,
+      "end": 109.04,
+      "en": "So now it's time for us to go to the mountains with our famous Rick Fields and Bob Copeland and we'll see what happens.",
+      "zh": "所以现在是我们带着著名的 Rick Fields 和 Bob Copeland 去山上的时候了，我们会看看会发生什么。"
+    },
+    {
+      "id": 40,
+      "start": 118.28,
+      "end": 119.66,
+      "en": "Welcome, ski lovers of all ages.",
+      "zh": "欢迎所有年龄段的滑雪爱好者。"
+    },
+    {
+      "id": 41,
+      "start": 119.88,
+      "end": 124.28,
+      "en": "My name is Rick Fields and here with me is the man that needs no introduction, Bob Copeland.",
+      "zh": "我是瑞克·菲尔兹，身边这位不用我介绍了：鲍勃·科普兰。"
+    },
+    {
+      "id": 42,
+      "start": 124.28,
+      "end": 124.72,
+      "en": "Thank you, Rick.",
+      "zh": "谢谢你，Rick。"
+    },
+    {
+      "id": 43,
+      "start": 125.28,
+      "end": 132.1,
+      "en": "What a beautiful day here in Aspen, Colorado, where the sun is shining and we've got 12 inches of fresh powder.",
+      "zh": "科罗拉多州阿斯彭今天天气真好，阳光明媚，还新下了十二英寸厚的粉雪。"
+    },
+    {
+      "id": 44,
+      "start": 132.68,
+      "end": 134.6,
+      "en": "It doesn't get much better than this.",
+      "zh": "没有比这更棒的滑雪天气了。"
+    },
+    {
+      "id": 45,
+      "start": 134.92,
+      "end": 135.26,
+      "en": "That's right, Bob.",
+      "zh": "没错，鲍勃。"
+    },
+    {
+      "id": 46,
+      "start": 135.92,
+      "end": 137.0,
+      "en": "But today we have a special treat for our viewers.",
+      "zh": "今天我们还为观众请来了一位特别嘉宾。"
+    },
+    {
+      "id": 47,
+      "start": 137.56,
+      "end": 140.4,
+      "en": "We're joined here by Ian Russe, four-time giant slalom champion.",
+      "zh": "四届大回转冠军伊恩·鲁斯也在现场。"
+    },
+    {
+      "id": 48,
+      "start": 141.48,
+      "end": 145.08,
+      "en": "And on this special edition of the show, Ian is going to teach us the basics of skiing.",
+      "zh": "这期特别节目里，伊恩要教大家滑雪入门。"
+    },
+    {
+      "id": 49,
+      "start": 145.44,
+      "end": 146.48,
+      "en": "So let's hit the slopes.",
+      "zh": "那就上雪道吧。"
+    },
+    {
+      "id": 50,
+      "start": 147.02,
+      "end": 149.12,
+      "en": "Well, first off, let's get those boots on.",
+      "zh": "首先，穿好雪靴。"
+    },
+    {
+      "id": 51,
+      "start": 149.58,
+      "end": 151.64,
+      "en": "You're going to want to make sure your boots fit snugly.",
+      "zh": "靴子一定要贴合脚型。"
+    },
+    {
+      "id": 52,
+      "start": 152.0,
+      "end": 152.52,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 53,
+      "start": 152.9,
+      "end": 154.06,
+      "en": "Now snap them into your bindings.",
+      "zh": "把雪靴卡进固定器。"
+    },
+    {
+      "id": 54,
+      "start": 154.82,
+      "end": 158.0,
+      "en": "And you're also going to want a good pair of goggles to protect your eyes.",
+      "zh": "还要戴一副好雪镜保护眼睛。"
+    },
+    {
+      "id": 55,
+      "start": 158.56,
+      "end": 161.66,
+      "en": "It's a bright day today, so there's going to be a lot of glare out there on the slopes.",
+      "zh": "今天阳光很强，雪道上会很晃眼。"
+    },
+    {
+      "id": 56,
+      "start": 162.2,
+      "end": 163.9,
+      "en": "We don't want you hitting any of those moguls.",
+      "zh": "可别撞上那些雪包。"
+    },
+    {
+      "id": 57,
+      "start": 164.5,
+      "end": 170.5,
+      "en": "Bob, since you're a beginner skier and might take a few spills, it's a good idea to have a good warm pair of dry ski gloves.",
+      "zh": "鲍勃，你刚学滑雪，可能会摔几跤，最好戴一双干燥保暖的滑雪手套。"
+    },
+    {
+      "id": 58,
+      "start": 170.98,
+      "end": 171.88,
+      "en": "Easy there, Rick.",
+      "zh": "悠着点，瑞克。"
+    },
+    {
+      "id": 59,
+      "start": 172.38,
+      "end": 175.12,
+      "en": "Well, let's head over onto the chairlift and test your skills.",
+      "zh": "走，上缆车，看看你学得怎么样。"
+    },
+    {
+      "id": 60,
+      "start": 182.6,
+      "end": 184.44,
+      "en": "All right, we're up here on the bunny hill.",
+      "zh": "好，我们来到初学者坡道。"
+    },
+    {
+      "id": 61,
+      "start": 184.72,
+      "end": 187.66,
+      "en": "So Bob, why don't you do a few snowplow turns?",
+      "zh": "鲍勃，来几个犁式转弯吧。"
+    },
+    {
+      "id": 62,
+      "start": 188.96,
+      "end": 189.84,
+      "en": "Gnarly run, Rick.",
+      "zh": "滑得真带劲，瑞克。"
+    },
+    {
+      "id": 63,
+      "start": 190.28,
+      "end": 190.76,
+      "en": "Nice carving.",
+      "zh": "刻滑动作漂亮。"
+    },
+    {
+      "id": 64,
+      "start": 191.56,
+      "end": 192.62,
+      "en": "You've got some mad skills.",
+      "zh": "你这技术真厉害。"
+    },
+    {
+      "id": 65,
+      "start": 192.92,
+      "end": 193.44,
+      "en": "That was sick.",
+      "zh": "太绝了！"
+    },
+    {
+      "id": 66,
+      "start": 193.92,
+      "end": 194.86,
+      "en": "You want to see gnarly?",
+      "zh": "想看更刺激的？"
+    },
+    {
+      "id": 67,
+      "start": 195.38,
+      "end": 196.4,
+      "en": "Well, see that bump over there?",
+      "zh": "看见那边那个坡包了吗？"
+    },
+    {
+      "id": 68,
+      "start": 196.52,
+      "end": 200.6,
+      "en": "I'm going to catch some major air.",
+      "zh": "我要腾空跳起来！"
+    },
+    {
+      "id": 69,
+      "start": 200.6,
+      "end": 201.6,
+      "en": "Butt plant.",
+      "zh": "屁股着地了！"
+    },
+    {
+      "id": 70,
+      "start": 201.6,
+      "end": 202.6,
+      "en": "Ha ha ha.",
+      "zh": "哈哈哈哈。"
+    },
+    {
+      "id": 71,
+      "start": 202.6,
+      "end": 203.35,
+      "en": "He lost his skis.",
+      "zh": "滑雪板都飞了。"
+    },
+    {
+      "id": 72,
+      "start": 203.77,
+      "end": 204.33,
+      "en": "Yard sale.",
+      "zh": "装备撒了一地！"
+    },
+    {
+      "id": 73,
+      "start": 204.69,
+      "end": 206.75,
+      "en": "Well, thanks for joining us here today.",
+      "zh": "好吧，感谢您今天加入我们。"
+    },
+    {
+      "id": 74,
+      "start": 207.31,
+      "end": 208.29,
+      "en": "I think that about does it.",
+      "zh": "今天的节目就到这儿吧。"
+    },
+    {
+      "id": 75,
+      "start": 208.84,
+      "end": 211.6,
+      "en": "Bob, Ian, time for some après-ski?",
+      "zh": "鲍勃，伊恩，滑完雪去喝一杯？"
+    },
+    {
+      "id": 76,
+      "start": 211.6,
+      "end": 212.21,
+      "en": "No way, man.",
+      "zh": "没办法，伙计。"
+    },
+    {
+      "id": 77,
+      "start": 212.6,
+      "end": 223.36,
+      "en": "We're off to grab some freshies.",
+      "zh": "我们还要去滑刚下的粉雪呢。"
+    },
+    {
+      "id": 78,
+      "start": 223.36,
+      "end": 225.36,
+      "en": "Pretty embarrassing for Rick there, wasn't it?",
+      "zh": "那里对瑞克来说很尴尬，不是吗？"
+    },
+    {
+      "id": 79,
+      "start": 225.66,
+      "end": 229.48,
+      "en": "Yeah, he was a little bit cocky and then he ended up falling.",
+      "zh": "是的，他有点自大，然后他最终摔倒了。"
+    },
+    {
+      "id": 80,
+      "start": 229.86,
+      "end": 234.28,
+      "en": "Well, I think there's a lesson in that for all of us, but what the real lesson is today is language.",
+      "zh": "好吧，我认为这对我们所有人都有一个教训，但今天真正的教训是语言。"
+    },
+    {
+      "id": 81,
+      "start": 234.72,
+      "end": 236.68,
+      "en": "So why don't we start with language takeaway?",
+      "zh": "那么我们为什么不从语言外卖开始呢？"
+    },
+    {
+      "id": 82,
+      "start": 238.58,
+      "end": 239.5,
+      "en": "Language takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 83,
+      "start": 240.04,
+      "end": 244.28,
+      "en": "All right, on language takeaway today, let's take a look at the first word.",
+      "zh": "好吧，关于今天的语言外卖，让我们来看看第一个单词。"
+    },
+    {
+      "id": 84,
+      "start": 244.28,
+      "end": 245.28,
+      "en": "We have some bindings.",
+      "zh": "我们有一些绑定。"
+    },
+    {
+      "id": 85,
+      "start": 245.28,
+      "end": 245.48,
+      "en": "Bindings.",
+      "zh": "绑定。"
+    },
+    {
+      "id": 86,
+      "start": 246.36,
+      "end": 246.88,
+      "en": "Bindings.",
+      "zh": "绑定。"
+    },
+    {
+      "id": 87,
+      "start": 247.88,
+      "end": 251.32,
+      "en": "Bindings are sort of like a lock that attaches your boot to your ski.",
+      "zh": "绑定有点像将靴子连接到滑雪板的锁。"
+    },
+    {
+      "id": 88,
+      "start": 252.02,
+      "end": 253.5,
+      "en": "So those are the bindings.",
+      "zh": "所以这些是绑定。"
+    },
+    {
+      "id": 89,
+      "start": 253.78,
+      "end": 256.46,
+      "en": "I guess it comes from the verb to bind.",
+      "zh": "我猜它来自动词绑定。"
+    },
+    {
+      "id": 90,
+      "start": 256.78,
+      "end": 258.82,
+      "en": "Yeah, to tie something so that it stays.",
+      "zh": "是的，把东西系起来，这样它就可以了。"
+    },
+    {
+      "id": 91,
+      "start": 259.26,
+      "end": 259.56,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 92,
+      "start": 260.2,
+      "end": 260.64,
+      "en": "Binding.",
+      "zh": "绑定。"
+    },
+    {
+      "id": 93,
+      "start": 261.08,
+      "end": 263.08,
+      "en": "So for example, my bindings are broken.",
+      "zh": "例如，我的绑定被破坏了。"
+    },
+    {
+      "id": 94,
+      "start": 263.64,
+      "end": 263.8,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 95,
+      "start": 264.38,
+      "end": 269.05,
+      "en": "And another piece of skiing equipment and very important is goggles.",
+      "zh": "另一件非常重要的滑雪设备是护目镜。"
+    },
+    {
+      "id": 96,
+      "start": 269.35,
+      "end": 269.75,
+      "en": "Goggles.",
+      "zh": "护目镜。"
+    },
+    {
+      "id": 97,
+      "start": 270.29,
+      "end": 271.87,
+      "en": "Okay, we have goggles now.",
+      "zh": "好的，我们现在有护目镜。"
+    },
+    {
+      "id": 98,
+      "start": 272.2,
+      "end": 273.2,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 99,
+      "start": 273.2,
+      "end": 274.56,
+      "en": "Not to be confused with Google.",
+      "zh": "不要与谷歌混淆。"
+    },
+    {
+      "id": 100,
+      "start": 274.56,
+      "end": 275.99,
+      "en": "It's spelled almost the same way, huh?",
+      "zh": "它的拼写方式几乎相同，对吧？"
+    },
+    {
+      "id": 101,
+      "start": 276.44,
+      "end": 277.44,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 102,
+      "start": 277.44,
+      "end": 282.28,
+      "en": "But goggles are kind of like, imagine a big pair of glasses that you wear when you ski.",
+      "zh": "但是护目镜有点像，想象一下你滑雪时戴的一副大眼镜。"
+    },
+    {
+      "id": 103,
+      "start": 282.28,
+      "end": 284.04,
+      "en": "So it makes people kind of look like flies.",
+      "zh": "所以它让人们看起来像苍蝇。"
+    },
+    {
+      "id": 104,
+      "start": 284.58,
+      "end": 284.84,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 105,
+      "start": 285.24,
+      "end": 286.24,
+      "en": "They have these huge glasses.",
+      "zh": "他们有这些巨大的眼镜。"
+    },
+    {
+      "id": 106,
+      "start": 286.24,
+      "end": 287.24,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 107,
+      "start": 287.24,
+      "end": 295.56,
+      "en": "And you'll also see safety goggles, which you might wear if you are a mechanic fixing a car or someone working with wood or chemicals or what have you.",
+      "zh": "您还会看到安全护目镜，如果您是修理汽车的机械师或使用木材或化学品的人或您拥有的东西，您可能会戴上这些护目镜。"
+    },
+    {
+      "id": 108,
+      "start": 295.56,
+      "end": 300.08,
+      "en": "Okay, so goggles basically protect your eyes from snow, from the sun, from anything.",
+      "zh": "好吧，所以护目镜基本上可以保护你的眼睛免受雪、太阳的影响。"
+    },
+    {
+      "id": 109,
+      "start": 300.64,
+      "end": 300.78,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 110,
+      "start": 301.64,
+      "end": 301.8,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 111,
+      "start": 302.64,
+      "end": 304.34,
+      "en": "So moving on to our next ski word.",
+      "zh": "所以继续我们的下一个滑雪词。"
+    },
+    {
+      "id": 112,
+      "start": 304.84,
+      "end": 309.8,
+      "en": "They said you should wear the goggles so that you don't accidentally go over the moguls.",
+      "zh": "他们说你应该戴上护目镜，这样你就不会意外地越过大亨。"
+    },
+    {
+      "id": 113,
+      "start": 310.24,
+      "end": 311.1,
+      "en": "Okay, moguls.",
+      "zh": "好吧，大亨们。"
+    },
+    {
+      "id": 114,
+      "start": 311.48,
+      "end": 314.92,
+      "en": "It sounds kind of strange.",
+      "zh": "听起来有点奇怪。"
+    },
+    {
+      "id": 115,
+      "start": 314.92,
+      "end": 316.8,
+      "en": "What are these things?",
+      "zh": "这些东西是什么？"
+    },
+    {
+      "id": 116,
+      "start": 316.8,
+      "end": 319.96,
+      "en": "Basically these are the bumps that are in a ski hill.",
+      "zh": "基本上，这些是滑雪山中的颠簸。"
+    },
+    {
+      "id": 117,
+      "start": 320.4,
+      "end": 320.82,
+      "en": "Bumps.",
+      "zh": "颠簸。"
+    },
+    {
+      "id": 118,
+      "start": 320.94,
+      "end": 323.44,
+      "en": "Okay, so they're kind of like mini little hills.",
+      "zh": "好吧，所以它们有点像迷你小山丘。"
+    },
+    {
+      "id": 119,
+      "start": 323.96,
+      "end": 324.96,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 120,
+      "start": 324.96,
+      "end": 326.87,
+      "en": "And they're very difficult to ski over, right?",
+      "zh": "而且它们很难滑雪，对吧？"
+    },
+    {
+      "id": 121,
+      "start": 327.2,
+      "end": 328.2,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 122,
+      "start": 328.2,
+      "end": 330.08,
+      "en": "You got to be pretty good to handle those moguls.",
+      "zh": "你必须很好地处理这些大亨。"
+    },
+    {
+      "id": 123,
+      "start": 330.08,
+      "end": 330.33,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 124,
+      "start": 331.08,
+      "end": 334.89,
+      "en": "Now, since these guys are beginner skiers, they're starting out on the bunny hill.",
+      "zh": "现在，由于这些人是初学者滑雪者，他们开始在兔子山上。"
+    },
+    {
+      "id": 125,
+      "start": 335.4,
+      "end": 336.19,
+      "en": "A bunny hill.",
+      "zh": "一座兔子山。"
+    },
+    {
+      "id": 126,
+      "start": 336.6,
+      "end": 337.05,
+      "en": "The bunny hill.",
+      "zh": "兔子山。"
+    },
+    {
+      "id": 127,
+      "start": 337.6,
+      "end": 337.85,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 128,
+      "start": 338.6,
+      "end": 339.49,
+      "en": "Very popular among skiers.",
+      "zh": "在滑雪者中非常受欢迎。"
+    },
+    {
+      "id": 129,
+      "start": 339.76,
+      "end": 342.12,
+      "en": "The bunny hill is the easiest hill.",
+      "zh": "兔子山是最简单的山丘。"
+    },
+    {
+      "id": 130,
+      "start": 342.12,
+      "end": 344.44,
+      "en": "So it's where the beginners start to learn.",
+      "zh": "所以这是初学者开始学习的地方。"
+    },
+    {
+      "id": 131,
+      "start": 344.59,
+      "end": 345.19,
+      "en": "Yeah, all the kids.",
+      "zh": "是的，所有的孩子。"
+    },
+    {
+      "id": 132,
+      "start": 345.53,
+      "end": 346.91,
+      "en": "All the kids are on the bunny hill.",
+      "zh": "所有的孩子都在兔子山上。"
+    },
+    {
+      "id": 133,
+      "start": 347.56,
+      "end": 348.56,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 134,
+      "start": 348.56,
+      "end": 348.89,
+      "en": "And our final words.",
+      "zh": "和我们的最后一句话。"
+    },
+    {
+      "id": 135,
+      "start": 349.56,
+      "end": 353.37,
+      "en": "Actually, we're going to look at two words here because they mean almost exactly the same thing.",
+      "zh": "实际上，我们将在这里看两个词，因为它们的意思几乎完全相同。"
+    },
+    {
+      "id": 136,
+      "start": 354.16,
+      "end": 356.88,
+      "en": "We heard the ski instructor say gnarly.",
+      "zh": "我们听到滑雪教练说粗糙。"
+    },
+    {
+      "id": 137,
+      "start": 358.08,
+      "end": 358.38,
+      "en": "Gnarly run.",
+      "zh": "粗糙的跑。"
+    },
+    {
+      "id": 138,
+      "start": 359.08,
+      "end": 359.6,
+      "en": "Yeah, gnarly.",
+      "zh": "是的，粗糙。"
+    },
+    {
+      "id": 139,
+      "start": 360.08,
+      "end": 361.0,
+      "en": "So an interesting word.",
+      "zh": "所以一个有趣的词。"
+    },
+    {
+      "id": 140,
+      "start": 361.2,
+      "end": 364.2,
+      "en": "It's spelled G-N-A-R-L-E-Y.",
+      "zh": "它拼写为 G-N-A-R-L-E-Y。"
+    },
+    {
+      "id": 141,
+      "start": 364.78,
+      "end": 366.8,
+      "en": "Okay, but you don't say gnarly.",
+      "zh": "好吧，但你不说粗俗。"
+    },
+    {
+      "id": 142,
+      "start": 366.8,
+      "end": 367.8,
+      "en": "No.",
+      "zh": "不。"
+    },
+    {
+      "id": 143,
+      "start": 367.8,
+      "end": 368.8,
+      "en": "You say gnarly.",
+      "zh": "你说粗糙。"
+    },
+    {
+      "id": 144,
+      "start": 368.8,
+      "end": 369.8,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 145,
+      "start": 369.8,
+      "end": 371.36,
+      "en": "And a related word, sick.",
+      "zh": "和一个相关的词，生病。"
+    },
+    {
+      "id": 146,
+      "start": 371.7,
+      "end": 371.94,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 147,
+      "start": 372.22,
+      "end": 374.42,
+      "en": "Now, sick means to be sick, right?",
+      "zh": "现在，生病的意思是生病，对吧？"
+    },
+    {
+      "id": 148,
+      "start": 374.52,
+      "end": 375.68,
+      "en": "No, no, no.",
+      "zh": "不，不，不。"
+    },
+    {
+      "id": 149,
+      "start": 375.68,
+      "end": 375.82,
+      "en": "Not here.",
+      "zh": "不在这里。"
+    },
+    {
+      "id": 150,
+      "start": 376.68,
+      "end": 378.1,
+      "en": "Let's listen to some examples to help us understand.",
+      "zh": "让我们听一些例子来帮助我们理解。"
+    },
+    {
+      "id": 151,
+      "start": 379.96,
+      "end": 380.22,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 152,
+      "start": 383.0,
+      "end": 384.38,
+      "en": "Those were some sick dance moves.",
+      "zh": "那是一些病态的舞蹈动作。"
+    },
+    {
+      "id": 153,
+      "start": 384.88,
+      "end": 385.32,
+      "en": "You are amazing.",
+      "zh": "你太棒了。"
+    },
+    {
+      "id": 154,
+      "start": 388.28,
+      "end": 388.57,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 155,
+      "start": 390.76,
+      "end": 394.27,
+      "en": "Jack and I went to the beach yesterday and surfed some really gnarly waves.",
+      "zh": "杰克和我昨天去了海滩，冲浪了一些非常粗糙的海浪。"
+    },
+    {
+      "id": 156,
+      "start": 396.96,
+      "end": 397.34,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 157,
+      "start": 399.91,
+      "end": 402.07,
+      "en": "Man, the concert last night was sick.",
+      "zh": "伙计，昨晚的音乐会病了。"
+    },
+    {
+      "id": 158,
+      "start": 402.57,
+      "end": 404.31,
+      "en": "I can't believe we got front row seats.",
+      "zh": "我不敢相信我们有前排座位。"
+    },
+    {
+      "id": 159,
+      "start": 406.47,
+      "end": 406.93,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 160,
+      "start": 406.93,
+      "end": 411.07,
+      "en": "So, basically, gnarly and sick, they mean that it's amazing, it was cool.",
+      "zh": "所以，基本上，粗糙和病态，它们的意思是它太棒了，很酷。"
+    },
+    {
+      "id": 161,
+      "start": 411.33,
+      "end": 411.75,
+      "en": "It's awesome.",
+      "zh": "太棒了。"
+    },
+    {
+      "id": 162,
+      "start": 412.4,
+      "end": 413.4,
+      "en": "Awesome.",
+      "zh": "太棒了。"
+    },
+    {
+      "id": 163,
+      "start": 413.4,
+      "end": 414.4,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 164,
+      "start": 414.4,
+      "end": 416.28,
+      "en": "So, these two words are very, very informal.",
+      "zh": "所以，这两个词是非常非常非正式的。"
+    },
+    {
+      "id": 165,
+      "start": 416.28,
+      "end": 416.89,
+      "en": "It's slang.",
+      "zh": "这是俚语。"
+    },
+    {
+      "id": 166,
+      "start": 417.28,
+      "end": 418.28,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 167,
+      "start": 418.28,
+      "end": 419.07,
+      "en": "And actually, skier slang.",
+      "zh": "实际上，滑雪者的俚语。"
+    },
+    {
+      "id": 168,
+      "start": 419.68,
+      "end": 423.61,
+      "en": "Both of these words, I think, originated with skiers, snowboarders, skateboarders.",
+      "zh": "我认为这两个词都起源于滑雪者、滑雪板爱好者、滑板爱好者。"
+    },
+    {
+      "id": 169,
+      "start": 424.79,
+      "end": 425.21,
+      "en": "Gnarly dudes.",
+      "zh": "小伙子们。"
+    },
+    {
+      "id": 170,
+      "start": 425.24,
+      "end": 426.24,
+      "en": "Gnarly dudes.",
+      "zh": "小伙子们。"
+    },
+    {
+      "id": 171,
+      "start": 426.24,
+      "end": 427.24,
+      "en": "So, okay.",
+      "zh": "那么，好吧。"
+    },
+    {
+      "id": 172,
+      "start": 427.24,
+      "end": 434.88,
+      "en": "So, that's all the words we have for language takeaway, but we have some great phrases that we want to take a look at before we listen to the dialogue again.",
+      "zh": "所以，这就是我们为语言外卖所拥有的所有词，但在我们再次听对话之前，我们有一些很棒的短语，我们想看看。"
+    },
+    {
+      "id": 173,
+      "start": 434.88,
+      "end": 436.97,
+      "en": "So, it's time now for Fluency Builder.",
+      "zh": "所以，现在是流利建设者的时候了。"
+    },
+    {
+      "id": 174,
+      "start": 438.21,
+      "end": 439.07,
+      "en": "Fluency Builder.",
+      "zh": "流利表达。"
+    },
+    {
+      "id": 175,
+      "start": 440.01,
+      "end": 440.29,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 176,
+      "start": 440.84,
+      "end": 443.04,
+      "en": "So, Rick said that it is time to...",
+      "zh": "所以，瑞克说是时候..."
+    },
+    {
+      "id": 177,
+      "start": 443.04,
+      "end": 447.32,
+      "en": "So, Rick invited everyone to start skiing by saying, let's hit the slopes.",
+      "zh": "所以，瑞克邀请大家开始滑雪，说，让我们去斜坡吧。"
+    },
+    {
+      "id": 178,
+      "start": 448.0,
+      "end": 448.28,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 179,
+      "start": 448.34,
+      "end": 449.62,
+      "en": "So, to hit the slopes.",
+      "zh": "所以，去斜坡。"
+    },
+    {
+      "id": 180,
+      "start": 449.84,
+      "end": 450.6,
+      "en": "To hit the slopes.",
+      "zh": "去斜坡。"
+    },
+    {
+      "id": 181,
+      "start": 451.16,
+      "end": 451.62,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 182,
+      "start": 451.66,
+      "end": 454.08,
+      "en": "Now, we want to hit the slopes.",
+      "zh": "现在，我们想去斜坡。"
+    },
+    {
+      "id": 183,
+      "start": 454.34,
+      "end": 454.82,
+      "en": "What does that mean?",
+      "zh": "那是什么意思？"
+    },
+    {
+      "id": 184,
+      "start": 456.12,
+      "end": 456.44,
+      "en": "Let's go skiing.",
+      "zh": "我们去滑雪吧。"
+    },
+    {
+      "id": 185,
+      "start": 456.44,
+      "end": 456.64,
+      "en": "Let's go skiing.",
+      "zh": "我们去滑雪吧。"
+    },
+    {
+      "id": 186,
+      "start": 457.44,
+      "end": 457.7,
+      "en": "Let's go to the mountain.",
+      "zh": "我们去山上吧。"
+    },
+    {
+      "id": 187,
+      "start": 458.44,
+      "end": 459.44,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 188,
+      "start": 459.44,
+      "end": 462.68,
+      "en": "Now, we can change the noun slope for something else, right?",
+      "zh": "现在，我们可以改变其他东西的名词斜率，对吧？"
+    },
+    {
+      "id": 189,
+      "start": 462.68,
+      "end": 463.68,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 190,
+      "start": 463.68,
+      "end": 465.32,
+      "en": "You can change it for a lot of other different nouns.",
+      "zh": "您可以将其更改为许多其他不同的名词。"
+    },
+    {
+      "id": 191,
+      "start": 466.24,
+      "end": 468.76,
+      "en": "And why don't we hear some examples of how you can do that?",
+      "zh": "为什么我们没有听到一些关于如何做到这一点的例子？"
+    },
+    {
+      "id": 192,
+      "start": 470.4,
+      "end": 472.8,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 193,
+      "start": 472.8,
+      "end": 475.68,
+      "en": "I really have to hit the books and study for my exam tomorrow.",
+      "zh": "明天我真的要去书本和学习的考试。"
+    },
+    {
+      "id": 194,
+      "start": 477.96,
+      "end": 480.24,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 195,
+      "start": 480.24,
+      "end": 481.28,
+      "en": "I'm really tired.",
+      "zh": "我真的很累。"
+    },
+    {
+      "id": 196,
+      "start": 481.28,
+      "end": 484.8,
+      "en": "I think I'm going to hit the bed now.",
+      "zh": "我想我现在要去床上了。"
+    },
+    {
+      "id": 197,
+      "start": 484.8,
+      "end": 486.96,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 198,
+      "start": 486.96,
+      "end": 490.92,
+      "en": "Honey, can we hit the supermarket on our way home?",
+      "zh": "亲爱的，我们可以在回家的路上去超市吗？"
+    },
+    {
+      "id": 199,
+      "start": 490.92,
+      "end": 492.92,
+      "en": "I need to buy some milk.",
+      "zh": "我需要买一些牛奶。"
+    },
+    {
+      "id": 200,
+      "start": 493.77,
+      "end": 494.45,
+      "en": "Okay, great.",
+      "zh": "好，太好了。"
+    },
+    {
+      "id": 201,
+      "start": 494.64,
+      "end": 498.41,
+      "en": "So, great examples and now we understand how we can use the hit the something.",
+      "zh": "所以，很好的例子，现在我们了解如何使用命中的东西。"
+    },
+    {
+      "id": 202,
+      "start": 499.17,
+      "end": 499.44,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 203,
+      "start": 500.09,
+      "end": 500.87,
+      "en": "What about our next phrase?",
+      "zh": "下一个短语是什么呢？"
+    },
+    {
+      "id": 204,
+      "start": 501.29,
+      "end": 505.19,
+      "en": "Well, Rick warned Bob that he might take a few spills.",
+      "zh": "好吧，瑞克警告鲍勃，他可能会泄漏一些东西。"
+    },
+    {
+      "id": 205,
+      "start": 505.89,
+      "end": 506.09,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 206,
+      "start": 506.13,
+      "end": 507.23,
+      "en": "So, to take a spill.",
+      "zh": "于是，就要泄漏。"
+    },
+    {
+      "id": 207,
+      "start": 507.45,
+      "end": 508.15,
+      "en": "To take a spill.",
+      "zh": "发生溢出。"
+    },
+    {
+      "id": 208,
+      "start": 508.55,
+      "end": 509.57,
+      "en": "Take a spill.",
+      "zh": "发生溢出。"
+    },
+    {
+      "id": 209,
+      "start": 510.07,
+      "end": 510.25,
+      "en": "Fall.",
+      "zh": "秋天。"
+    },
+    {
+      "id": 210,
+      "start": 510.88,
+      "end": 511.05,
+      "en": "To fall.",
+      "zh": "跌倒。"
+    },
+    {
+      "id": 211,
+      "start": 511.88,
+      "end": 512.88,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 212,
+      "start": 512.88,
+      "end": 513.88,
+      "en": "It means like a light fall or...",
+      "zh": "这意味着像光落或..."
+    },
+    {
+      "id": 213,
+      "start": 514.11,
+      "end": 515.19,
+      "en": "Yeah, a pretty dramatic fall.",
+      "zh": "是的，一个相当戏剧性的下降。"
+    },
+    {
+      "id": 214,
+      "start": 515.44,
+      "end": 515.69,
+      "en": "Pretty dramatic.",
+      "zh": "挺夸张的。"
+    },
+    {
+      "id": 215,
+      "start": 516.44,
+      "end": 517.44,
+      "en": "So, you fell.",
+      "zh": "所以，你摔倒了。"
+    },
+    {
+      "id": 216,
+      "start": 517.44,
+      "end": 518.44,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 217,
+      "start": 518.44,
+      "end": 527.88,
+      "en": "So, for example, instead of saying, that little girl was riding her bike and she fell, I can say, that little girl was riding her bike and she took a bad spill.",
+      "zh": "所以，例如，不是说那个小女孩骑着自行车，她摔倒了，我可以说，那个小女孩骑着自行车，她遭受了严重的泄漏。"
+    },
+    {
+      "id": 218,
+      "start": 527.88,
+      "end": 528.88,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 219,
+      "start": 528.88,
+      "end": 529.88,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 220,
+      "start": 529.88,
+      "end": 530.04,
+      "en": "So, to take a spill.",
+      "zh": "于是，就要泄漏。"
+    },
+    {
+      "id": 221,
+      "start": 530.88,
+      "end": 531.64,
+      "en": "You have to use the verb take though.",
+      "zh": "你必须使用动词 take。"
+    },
+    {
+      "id": 222,
+      "start": 531.88,
+      "end": 532.32,
+      "en": "Yes, exactly.",
+      "zh": "对，没错。"
+    },
+    {
+      "id": 223,
+      "start": 532.6,
+      "end": 533.56,
+      "en": "You cannot just spill.",
+      "zh": "你不能只是溢出。"
+    },
+    {
+      "id": 224,
+      "start": 534.18,
+      "end": 534.48,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 225,
+      "start": 534.8,
+      "end": 535.72,
+      "en": "You have to take a spill.",
+      "zh": "你必须溢出。"
+    },
+    {
+      "id": 226,
+      "start": 536.62,
+      "end": 536.98,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 227,
+      "start": 537.18,
+      "end": 537.94,
+      "en": "What about our next phrase?",
+      "zh": "下一个短语是什么呢？"
+    },
+    {
+      "id": 228,
+      "start": 538.4,
+      "end": 542.22,
+      "en": "Well, you might take a spill when you catch some major air.",
+      "zh": "好吧，当你捕捉到一些主要空气时，你可能会发生溢出。"
+    },
+    {
+      "id": 229,
+      "start": 542.74,
+      "end": 542.94,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 230,
+      "start": 543.68,
+      "end": 544.68,
+      "en": "To catch some major air.",
+      "zh": "赶上一些主要的空气。"
+    },
+    {
+      "id": 231,
+      "start": 544.68,
+      "end": 545.8,
+      "en": "To catch some major air.",
+      "zh": "赶上一些主要的空气。"
+    },
+    {
+      "id": 232,
+      "start": 546.52,
+      "end": 547.93,
+      "en": "So, am I catching something?",
+      "zh": "那么，我有没有抓到什么？"
+    },
+    {
+      "id": 233,
+      "start": 548.41,
+      "end": 549.63,
+      "en": "How am I catching air?",
+      "zh": "我是如何捕捉空气的？"
+    },
+    {
+      "id": 234,
+      "start": 549.63,
+      "end": 550.17,
+      "en": "That's impossible.",
+      "zh": "那是不可能的。"
+    },
+    {
+      "id": 235,
+      "start": 550.59,
+      "end": 553.35,
+      "en": "Well, imagine if you're jumping and your skis are catching the air.",
+      "zh": "好吧，想象一下，如果你在跳跃，你的滑雪板正在捕捉空气。"
+    },
+    {
+      "id": 236,
+      "start": 553.59,
+      "end": 554.21,
+      "en": "Ah, okay.",
+      "zh": "啊，好的。"
+    },
+    {
+      "id": 237,
+      "start": 554.49,
+      "end": 557.35,
+      "en": "So, I'm in the air for a very long time maybe?",
+      "zh": "所以，我可能在空中待了很长时间？"
+    },
+    {
+      "id": 238,
+      "start": 557.73,
+      "end": 557.91,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 239,
+      "start": 558.19,
+      "end": 561.73,
+      "en": "When you catch some air, basically, it's like you're flying for a couple of seconds.",
+      "zh": "当你捕捉到一些空气时，基本上，你会飞几秒钟。"
+    },
+    {
+      "id": 240,
+      "start": 562.01,
+      "end": 563.17,
+      "en": "So, you're flying for a couple of seconds.",
+      "zh": "所以，你要飞几秒钟。"
+    },
+    {
+      "id": 241,
+      "start": 563.31,
+      "end": 564.49,
+      "en": "You're very high up in the air.",
+      "zh": "你在空中非常高。"
+    },
+    {
+      "id": 242,
+      "start": 564.76,
+      "end": 565.76,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 243,
+      "start": 565.76,
+      "end": 566.76,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 244,
+      "start": 566.76,
+      "end": 567.76,
+      "en": "To catch some air.",
+      "zh": "赶上一些空气。"
+    },
+    {
+      "id": 245,
+      "start": 567.76,
+      "end": 568.76,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 246,
+      "start": 568.76,
+      "end": 581.96,
+      "en": "And you'll hear this phrase when you're, you know, not only when you're talking about skiing, but also maybe if you're, you know, you're driving your car really fast and it sort of jumps up in the air for a minute, well, not a minute, a second, that would be catching air as well.",
+      "zh": "当你在谈论滑雪时，你会听到这句话，你知道，如果你是，你知道，你开车的速度非常快，它会在空中跳跃一分钟，好吧，不是一分钟，一秒钟，那将是 也吸风。"
+    },
+    {
+      "id": 247,
+      "start": 581.96,
+      "end": 582.96,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 248,
+      "start": 582.96,
+      "end": 583.96,
+      "en": "So, to catch air.",
+      "zh": "所以，赶上空气。"
+    },
+    {
+      "id": 249,
+      "start": 583.96,
+      "end": 584.44,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 250,
+      "start": 584.96,
+      "end": 585.4,
+      "en": "So, they finished skiing.",
+      "zh": "所以，他们完成了滑雪。"
+    },
+    {
+      "id": 251,
+      "start": 585.96,
+      "end": 588.56,
+      "en": "They were kind of tired and he said, well, let's call it a day.",
+      "zh": "他们有点累，他说，好吧，让我们收工吧。"
+    },
+    {
+      "id": 252,
+      "start": 588.88,
+      "end": 589.72,
+      "en": "To call it a day.",
+      "zh": "收工。"
+    },
+    {
+      "id": 253,
+      "start": 590.36,
+      "end": 591.14,
+      "en": "Let's call it a day.",
+      "zh": "让我们收工吧。"
+    },
+    {
+      "id": 254,
+      "start": 591.72,
+      "end": 591.98,
+      "en": "Let's go home.",
+      "zh": "我们回家吧。"
+    },
+    {
+      "id": 255,
+      "start": 592.8,
+      "end": 593.06,
+      "en": "Let's go home.",
+      "zh": "我们回家吧。"
+    },
+    {
+      "id": 256,
+      "start": 593.8,
+      "end": 594.8,
+      "en": "It's over.",
+      "zh": "结束了。"
+    },
+    {
+      "id": 257,
+      "start": 595.0,
+      "end": 595.34,
+      "en": "Let's finish.",
+      "zh": "让我们结束。"
+    },
+    {
+      "id": 258,
+      "start": 595.8,
+      "end": 596.8,
+      "en": "Let's finish the day.",
+      "zh": "让我们结束这一天。"
+    },
+    {
+      "id": 259,
+      "start": 596.8,
+      "end": 597.8,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 260,
+      "start": 597.8,
+      "end": 598.8,
+      "en": "Let's call it a day and go home.",
+      "zh": "让我们收工，然后回家。"
+    },
+    {
+      "id": 261,
+      "start": 598.8,
+      "end": 602.8,
+      "en": "And not before we go to our next word, to grab some freshies.",
+      "zh": "而不是在我们进入下一个词之前，去拿一些新鲜的东西。"
+    },
+    {
+      "id": 262,
+      "start": 603.4,
+      "end": 603.64,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 263,
+      "start": 604.28,
+      "end": 605.52,
+      "en": "Grab us some freshies.",
+      "zh": "抓住我们一些新鲜的。"
+    },
+    {
+      "id": 264,
+      "start": 605.52,
+      "end": 606.14,
+      "en": "Grab some freshies.",
+      "zh": "抓一些新鲜的。"
+    },
+    {
+      "id": 265,
+      "start": 606.64,
+      "end": 606.86,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 266,
+      "start": 607.52,
+      "end": 607.74,
+      "en": "Freshies.",
+      "zh": "新鲜的。"
+    },
+    {
+      "id": 267,
+      "start": 608.52,
+      "end": 608.94,
+      "en": "What are these freshies?",
+      "zh": "这些新鲜食品是什么？"
+    },
+    {
+      "id": 268,
+      "start": 609.52,
+      "end": 611.4,
+      "en": "Remember we talked about fresh powder?",
+      "zh": "还记得我们谈过新鲜粉末吗？"
+    },
+    {
+      "id": 269,
+      "start": 612.76,
+      "end": 612.92,
+      "en": "It's that.",
+      "zh": "就是这样。"
+    },
+    {
+      "id": 270,
+      "start": 613.76,
+      "end": 615.32,
+      "en": "So, it's an informal way of saying fresh powder.",
+      "zh": "所以，这是一种非正式的表达新鲜粉末的方式。"
+    },
+    {
+      "id": 271,
+      "start": 615.6,
+      "end": 616.6,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 272,
+      "start": 616.6,
+      "end": 617.18,
+      "en": "Fresh powdery light snow.",
+      "zh": "清新的粉状小雪。"
+    },
+    {
+      "id": 273,
+      "start": 617.6,
+      "end": 617.9,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 274,
+      "start": 618.34,
+      "end": 618.58,
+      "en": "Freshies.",
+      "zh": "新鲜的。"
+    },
+    {
+      "id": 275,
+      "start": 619.6,
+      "end": 620.6,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 276,
+      "start": 620.6,
+      "end": 621.96,
+      "en": "So, the snow that nobody has skied on before.",
+      "zh": "所以，以前没有人滑雪的雪。"
+    },
+    {
+      "id": 277,
+      "start": 621.96,
+      "end": 623.86,
+      "en": "Really good phrases and some amazing vocabulary.",
+      "zh": "非常好的短语和一些惊人的词汇。"
+    },
+    {
+      "id": 278,
+      "start": 624.52,
+      "end": 630.48,
+      "en": "Let's listen to this dialogue one last time and then we'll come back and talk a little bit more about this really fun sport.",
+      "zh": "让我们最后一次听听这个对话，然后我们会回来多谈谈这项非常有趣的运动。"
+    },
+    {
+      "id": 279,
+      "start": 641.64,
+      "end": 642.74,
+      "en": "Welcome ski lovers of all ages.",
+      "zh": "欢迎所有年龄段的滑雪爱好者。"
+    },
+    {
+      "id": 280,
+      "start": 642.94,
+      "end": 646.46,
+      "en": "My name is Rick Fields and here with me is the man that needs no introduction, Bob Copeland.",
+      "zh": "我是瑞克·菲尔兹，身边这位不用我介绍了：鲍勃·科普兰。"
+    },
+    {
+      "id": 281,
+      "start": 646.86,
+      "end": 647.78,
+      "en": "Thank you, Rick.",
+      "zh": "谢谢你，Rick。"
+    },
+    {
+      "id": 282,
+      "start": 648.16,
+      "end": 655.16,
+      "en": "What a beautiful day here in Aspen, Colorado, where the sun is shining and we've got 12 inches of fresh powder.",
+      "zh": "科罗拉多州阿斯彭今天天气真好，阳光明媚，还新下了十二英寸厚的粉雪。"
+    },
+    {
+      "id": 283,
+      "start": 655.54,
+      "end": 657.68,
+      "en": "It doesn't get much better than this.",
+      "zh": "没有比这更棒的滑雪天气了。"
+    },
+    {
+      "id": 284,
+      "start": 657.8,
+      "end": 658.34,
+      "en": "That's right, Bob.",
+      "zh": "没错，鲍勃。"
+    },
+    {
+      "id": 285,
+      "start": 658.4,
+      "end": 660.04,
+      "en": "But today we have a special treat for our viewers.",
+      "zh": "今天我们还为观众请来了一位特别嘉宾。"
+    },
+    {
+      "id": 286,
+      "start": 660.64,
+      "end": 663.48,
+      "en": "We're joined here by Ian Russe, four-time Giant Slalom champion.",
+      "zh": "四届巨型激流回旋冠军伊恩·鲁斯（Ian Russe）也加入了我们的行列。"
+    },
+    {
+      "id": 287,
+      "start": 664.56,
+      "end": 668.16,
+      "en": "And on this special edition of the show, Ian is going to teach us the basics of skiing.",
+      "zh": "这期特别节目里，伊恩要教大家滑雪入门。"
+    },
+    {
+      "id": 288,
+      "start": 668.56,
+      "end": 669.56,
+      "en": "So, let's hit the slopes.",
+      "zh": "所以，让我们去斜坡。"
+    },
+    {
+      "id": 289,
+      "start": 670.1,
+      "end": 672.18,
+      "en": "Well, first off, let's get those boots on.",
+      "zh": "首先，穿好雪靴。"
+    },
+    {
+      "id": 290,
+      "start": 672.66,
+      "end": 674.72,
+      "en": "You're going to want to make sure your boots fit snugly.",
+      "zh": "靴子一定要贴合脚型。"
+    },
+    {
+      "id": 291,
+      "start": 675.08,
+      "end": 675.6,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 292,
+      "start": 676.02,
+      "end": 677.14,
+      "en": "Now, snap them into your bindings.",
+      "zh": "现在，将它们捕获到您的绑定中。"
+    },
+    {
+      "id": 293,
+      "start": 677.84,
+      "end": 681.08,
+      "en": "And you're also going to want a good pair of goggles to protect your eyes.",
+      "zh": "还要戴一副好雪镜保护眼睛。"
+    },
+    {
+      "id": 294,
+      "start": 681.6,
+      "end": 684.74,
+      "en": "It's a bright day today, so there's going to be a lot of glare out there on the slopes.",
+      "zh": "今天阳光很强，雪道上会很晃眼。"
+    },
+    {
+      "id": 295,
+      "start": 685.3,
+      "end": 686.96,
+      "en": "We don't want you hitting any of those moguls.",
+      "zh": "可别撞上那些雪包。"
+    },
+    {
+      "id": 296,
+      "start": 687.58,
+      "end": 693.56,
+      "en": "Bob, since you're a beginner skier and might take a few spills, it's a good idea to have a good warm pair of dry ski gloves.",
+      "zh": "鲍勃，你刚学滑雪，可能会摔几跤，最好戴一双干燥保暖的滑雪手套。"
+    },
+    {
+      "id": 297,
+      "start": 694.06,
+      "end": 694.96,
+      "en": "Easy there, Rick.",
+      "zh": "悠着点，瑞克。"
+    },
+    {
+      "id": 298,
+      "start": 695.48,
+      "end": 698.2,
+      "en": "Well, let's head over onto the chairlift and test your skills.",
+      "zh": "走，上缆车，看看你学得怎么样。"
+    },
+    {
+      "id": 299,
+      "start": 705.65,
+      "end": 710.77,
+      "en": "All right, we're up here on the bunny hill, so Bob, why don't you do a few snowplow turns.",
+      "zh": "好吧，我们在兔子山上，所以鲍勃，你为什么不做几个扫雪机转弯。"
+    },
+    {
+      "id": 300,
+      "start": 712.0,
+      "end": 712.9,
+      "en": "Gnarly run, Rick.",
+      "zh": "滑得真带劲，瑞克。"
+    },
+    {
+      "id": 301,
+      "start": 713.36,
+      "end": 713.84,
+      "en": "Nice carving.",
+      "zh": "刻滑动作漂亮。"
+    },
+    {
+      "id": 302,
+      "start": 714.64,
+      "end": 715.7,
+      "en": "You've got some mad skills.",
+      "zh": "你这技术真厉害。"
+    },
+    {
+      "id": 303,
+      "start": 716.0,
+      "end": 716.52,
+      "en": "That was sick.",
+      "zh": "太绝了！"
+    },
+    {
+      "id": 304,
+      "start": 716.98,
+      "end": 717.94,
+      "en": "You want to see gnarly?",
+      "zh": "想看更刺激的？"
+    },
+    {
+      "id": 305,
+      "start": 718.46,
+      "end": 719.48,
+      "en": "Well, see that bump over there?",
+      "zh": "看见那边那个坡包了吗？"
+    },
+    {
+      "id": 306,
+      "start": 719.6,
+      "end": 723.68,
+      "en": "I'm going to catch some major air.",
+      "zh": "我要腾空跳起来！"
+    },
+    {
+      "id": 307,
+      "start": 723.68,
+      "end": 724.24,
+      "en": "Butt plant.",
+      "zh": "对接植物。"
+    },
+    {
+      "id": 308,
+      "start": 724.68,
+      "end": 726.8,
+      "en": "Ha ha ha, he lost his skis.",
+      "zh": "哈哈哈，他的滑雪板丢了。"
+    },
+    {
+      "id": 309,
+      "start": 726.94,
+      "end": 727.39,
+      "en": "Yard sale.",
+      "zh": "庭院销售。"
+    },
+    {
+      "id": 310,
+      "start": 727.77,
+      "end": 729.83,
+      "en": "Well, thanks for joining us here today.",
+      "zh": "好吧，感谢您今天加入我们。"
+    },
+    {
+      "id": 311,
+      "start": 730.39,
+      "end": 731.37,
+      "en": "I think that about does it.",
+      "zh": "今天的节目就到这儿吧。"
+    },
+    {
+      "id": 312,
+      "start": 731.88,
+      "end": 734.68,
+      "en": "Bob, Ian, time for some après-ski?",
+      "zh": "鲍勃，伊恩，滑完雪去喝一杯？"
+    },
+    {
+      "id": 313,
+      "start": 734.68,
+      "end": 735.29,
+      "en": "No way, man.",
+      "zh": "没办法，伙计。"
+    },
+    {
+      "id": 314,
+      "start": 735.68,
+      "end": 745.2,
+      "en": "We're off to grab some freshies.",
+      "zh": "我们要去吃一些新鲜的东西。"
+    },
+    {
+      "id": 315,
+      "start": 745.2,
+      "end": 750.14,
+      "en": "We heard the guys talk about après-ski, and actually this is one of my favorite parts of skiing.",
+      "zh": "我们听到这些人谈论滑雪后，实际上这是我最喜欢的滑雪部分之一。"
+    },
+    {
+      "id": 316,
+      "start": 750.84,
+      "end": 751.4,
+      "en": "What is this?",
+      "zh": "这是什么？"
+    },
+    {
+      "id": 317,
+      "start": 751.84,
+      "end": 752.36,
+      "en": "It sounds French.",
+      "zh": "听起来很法语。"
+    },
+    {
+      "id": 318,
+      "start": 752.84,
+      "end": 753.14,
+      "en": "Yeah, it is.",
+      "zh": "对，确实是。"
+    },
+    {
+      "id": 319,
+      "start": 753.84,
+      "end": 758.24,
+      "en": "I guess the Frenchness sort of gives it an air of specialness, right?",
+      "zh": "我想法国人给了它一种特殊的气氛，对吧？"
+    },
+    {
+      "id": 320,
+      "start": 758.24,
+      "end": 762.12,
+      "en": "But après-ski is basically the party that you have after you're finished skiing.",
+      "zh": "但滑雪后基本上是滑雪后的派对。"
+    },
+    {
+      "id": 321,
+      "start": 762.72,
+      "end": 765.28,
+      "en": "So usually you would have parties after skiing.",
+      "zh": "所以通常你会在滑雪后举办派对。"
+    },
+    {
+      "id": 322,
+      "start": 765.6,
+      "end": 780.37,
+      "en": "Right, so you finish your ski day, you've called it a day, you've glided down those slopes and you head on over to the lodge, the little cabin, grab a beer or two or maybe some hot alcoholic drink and kick back and relax with your friends.",
+      "zh": "对，所以你完成了你的滑雪日，你已经结束了，你已经滑下了那些斜坡，然后你前往小屋、小屋，喝一两杯啤酒，或者喝点热饮酒，然后和你的朋友一起放松一下。"
+    },
+    {
+      "id": 323,
+      "start": 780.76,
+      "end": 786.85,
+      "en": "Wow, so it's popular for families to go to a ski resort and stay there for a couple of days.",
+      "zh": "哇，所以家庭去滑雪胜地并在那里逗留几天是很受欢迎的。"
+    },
+    {
+      "id": 324,
+      "start": 787.68,
+      "end": 790.36,
+      "en": "So this is when you would do this with your friends or family.",
+      "zh": "所以这是你和你的朋友或家人一起做这件事的时候。"
+    },
+    {
+      "id": 325,
+      "start": 790.36,
+      "end": 790.72,
+      "en": "And you know what?",
+      "zh": "而且你知道吗？"
+    },
+    {
+      "id": 326,
+      "start": 791.36,
+      "end": 793.6,
+      "en": "If it's with your friends, it's going to last until late into the night.",
+      "zh": "如果是和你的朋友在一起，它会持续到深夜。"
+    },
+    {
+      "id": 327,
+      "start": 794.0,
+      "end": 796.24,
+      "en": "All right, so it sounds fun.",
+      "zh": "好吧，所以听起来很有趣。"
+    },
+    {
+      "id": 328,
+      "start": 796.24,
+      "end": 806.56,
+      "en": "And next time maybe if you go skiing with your friends and you guys are speaking English now, you can use all these great phrases and maybe surprise your friends if you tell them, let's go grab some freshies or something like that.",
+      "zh": "下一次，如果你和朋友一起去滑雪，现在都在说英语，你可以使用所有这些很棒的短语，如果你告诉他们，我们可能会给你的朋友一个惊喜，让我们去拿一些新鲜的东西或类似的东西。"
+    },
+    {
+      "id": 329,
+      "start": 806.56,
+      "end": 810.08,
+      "en": "Yeah, you'll sound pretty, pretty dialed, pretty cool.",
+      "zh": "是的，你会听起来很漂亮，很漂亮，很酷。"
+    },
+    {
+      "id": 330,
+      "start": 810.08,
+      "end": 813.36,
+      "en": "All right, so that's all the time we have for today.",
+      "zh": "好吧，这就是我们今天所拥有的所有时间。"
+    },
+    {
+      "id": 331,
+      "start": 813.36,
+      "end": 816.12,
+      "en": "Be sure to check out our website englishpod.com.",
+      "zh": "请务必查看我们的网站 Englishpod.com。"
+    },
+    {
+      "id": 332,
+      "start": 816.12,
+      "end": 819.81,
+      "en": "Marco and I are always around to answer your questions and well, thanks for downloading.",
+      "zh": "Marco 和我总是随时回答您的问题，感谢您的下载。"
+    },
+    {
+      "id": 333,
+      "start": 820.44,
+      "end": 821.33,
+      "en": "Until next time, goodbye.",
+      "zh": "直到下一次，再见。"
+    },
+    {
+      "id": 334,
+      "start": 821.44,
+      "end": 830.72,
+      "en": "Bye.",
+      "zh": "再见。"
+    }
+  ],
+  "dialog": {
+    "start": 118.28,
+    "end": 223.36,
+    "segmentIds": [
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77
+    ]
+  }
+}

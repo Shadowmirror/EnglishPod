@@ -1,0 +1,1584 @@
+{
+  "version": 1,
+  "id": 28,
+  "number": "0028",
+  "title": "Daily Life - I'm Sorry, I Love You II",
+  "audio": "mp3/28. Daily Life - I'm Sorry, I Love You II.mp3",
+  "duration": 670.1975625,
+  "segments": [
+    {
+      "id": 1,
+      "start": 2.13,
+      "end": 2.79,
+      "en": "Hello, English learners.",
+      "zh": "各位英语学习者，大家好。"
+    },
+    {
+      "id": 2,
+      "start": 3.12,
+      "end": 4.4,
+      "en": "Welcome back to EnglishPod.",
+      "zh": "欢迎回到 EnglishPod。"
+    },
+    {
+      "id": 3,
+      "start": 4.4,
+      "end": 4.91,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 4,
+      "start": 5.25,
+      "end": 5.89,
+      "en": "And I'm Erica.",
+      "zh": "我叫 Erica。"
+    },
+    {
+      "id": 5,
+      "start": 6.33,
+      "end": 9.79,
+      "en": "And today we're bringing you the sequel of I'm Sorry I Love You.",
+      "zh": "今天我们给你带来我很抱歉我爱你的续集。"
+    },
+    {
+      "id": 6,
+      "start": 10.44,
+      "end": 10.83,
+      "en": "Part two.",
+      "zh": "第二部分。"
+    },
+    {
+      "id": 7,
+      "start": 11.44,
+      "end": 11.59,
+      "en": "Part two.",
+      "zh": "第二部分。"
+    },
+    {
+      "id": 8,
+      "start": 12.44,
+      "end": 13.44,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 9,
+      "start": 13.44,
+      "end": 15.33,
+      "en": "I guess a lot of our listeners enjoyed the first part.",
+      "zh": "我想我们的很多听众都很喜欢第一部分。"
+    },
+    {
+      "id": 10,
+      "start": 16.48,
+      "end": 21.31,
+      "en": "And since it was such a romantic dialogue and hit, we're bringing part two.",
+      "zh": "由于这是一个如此浪漫的对话和热门歌曲，我们将带来第二部分。"
+    },
+    {
+      "id": 11,
+      "start": 21.76,
+      "end": 27.98,
+      "en": "So it's even more romantic and I'm sure everyone is going to find some great and useful language in it.",
+      "zh": "所以它更浪漫，我相信每个人都会在其中找到一些很棒和有用的语言。"
+    },
+    {
+      "id": 12,
+      "start": 28.14,
+      "end": 28.44,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 13,
+      "start": 29.72,
+      "end": 31.92,
+      "en": "And it's the language that we use to talk about dates.",
+      "zh": "这是我们用来谈论日期的语言。"
+    },
+    {
+      "id": 14,
+      "start": 31.96,
+      "end": 32.58,
+      "en": "A date, yeah.",
+      "zh": "约会，是的。"
+    },
+    {
+      "id": 15,
+      "start": 33.24,
+      "end": 35.48,
+      "en": "So useful language for when you're going on a date.",
+      "zh": "当你去约会时，非常有用的语言。"
+    },
+    {
+      "id": 16,
+      "start": 35.9,
+      "end": 36.36,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 17,
+      "start": 36.96,
+      "end": 42.04,
+      "en": "Well, before we look at this date language, let's listen to the dialogue for the first time.",
+      "zh": "好吧，在我们看这个日期语言之前，让我们第一次听对话。"
+    },
+    {
+      "id": 18,
+      "start": 47.92,
+      "end": 49.82,
+      "en": "I'm so relieved that your ankle wasn't broken.",
+      "zh": "你的脚踝没有骨折，我很欣慰。"
+    },
+    {
+      "id": 19,
+      "start": 50.08,
+      "end": 52.16,
+      "en": "I feel just awful about this whole thing.",
+      "zh": "整件事让我特别过意不去。"
+    },
+    {
+      "id": 20,
+      "start": 52.8,
+      "end": 53.68,
+      "en": "I want to make it up to you.",
+      "zh": "我想补偿你。"
+    },
+    {
+      "id": 21,
+      "start": 53.9,
+      "end": 55.62,
+      "en": "Let me take you out to dinner tonight, my treat.",
+      "zh": "今晚我请你吃饭，我请客。"
+    },
+    {
+      "id": 22,
+      "start": 56.16,
+      "end": 57.32,
+      "en": "Oh, that sounds great.",
+      "zh": "哦，听起来很棒。"
+    },
+    {
+      "id": 23,
+      "start": 57.74,
+      "end": 58.34,
+      "en": "I'd love to.",
+      "zh": "我很乐意。"
+    },
+    {
+      "id": 24,
+      "start": 59.08,
+      "end": 59.84,
+      "en": "Here's my address.",
+      "zh": "这是我的地址。"
+    },
+    {
+      "id": 25,
+      "start": 60.44,
+      "end": 61.44,
+      "en": "Pick me up at eight.",
+      "zh": "八点来接我。"
+    },
+    {
+      "id": 26,
+      "start": 61.82,
+      "end": 62.12,
+      "en": "Perfect.",
+      "zh": "太好了。"
+    },
+    {
+      "id": 27,
+      "start": 75.69,
+      "end": 77.35,
+      "en": "Thank you for such a lovely evening.",
+      "zh": "谢谢你陪我度过这么美好的一晚。"
+    },
+    {
+      "id": 28,
+      "start": 77.59,
+      "end": 80.15,
+      "en": "The food was amazing and I had a great time.",
+      "zh": "菜太好吃了，我也过得很开心。"
+    },
+    {
+      "id": 29,
+      "start": 80.35,
+      "end": 80.73,
+      "en": "Me too.",
+      "zh": "我也是。"
+    },
+    {
+      "id": 30,
+      "start": 81.27,
+      "end": 83.23,
+      "en": "You look so beautiful tonight.",
+      "zh": "你今晚看起来真漂亮。"
+    },
+    {
+      "id": 31,
+      "start": 83.84,
+      "end": 85.09,
+      "en": "I wish this night would never end.",
+      "zh": "我希望这个夜晚永远不会结束。"
+    },
+    {
+      "id": 32,
+      "start": 86.06,
+      "end": 87.16,
+      "en": "There's something that I have to tell you.",
+      "zh": "有件事我必须告诉你。"
+    },
+    {
+      "id": 33,
+      "start": 87.76,
+      "end": 88.46,
+      "en": "But what is it?",
+      "zh": "可那到底是什么？"
+    },
+    {
+      "id": 34,
+      "start": 88.84,
+      "end": 92.62,
+      "en": "I woke up today thinking that this would be just like any other day.",
+      "zh": "我今天醒来，以为这会像其他任何一天一样。"
+    },
+    {
+      "id": 35,
+      "start": 93.04,
+      "end": 94.64,
+      "en": "But I was wrong.",
+      "zh": "但我错了。"
+    },
+    {
+      "id": 36,
+      "start": 94.64,
+      "end": 97.0,
+      "en": "A twist of fate brought us together.",
+      "zh": "命运的转折让我们相遇。"
+    },
+    {
+      "id": 37,
+      "start": 97.0,
+      "end": 98.98,
+      "en": "I crashed into your life and you into mine.",
+      "zh": "我撞进了你的生活，你也闯进了我的。"
+    },
+    {
+      "id": 38,
+      "start": 99.12,
+      "end": 102.5,
+      "en": "And this may sound crazy, but I'm falling in love with you, Veronica.",
+      "zh": "这听起来可能很疯狂，但我爱上了你，维罗妮卡。"
+    },
+    {
+      "id": 39,
+      "start": 117.61,
+      "end": 119.81,
+      "en": "Wow, such a romantic dialogue.",
+      "zh": "哇，这么浪漫的对话。"
+    },
+    {
+      "id": 40,
+      "start": 120.24,
+      "end": 122.47,
+      "en": "It really sounds like they're falling in love.",
+      "zh": "听起来他们真的像在坠入爱河。"
+    },
+    {
+      "id": 41,
+      "start": 123.4,
+      "end": 131.29,
+      "en": "Yeah, it's a really romantic thing that's going on right now, but there were some really useful words here, so why don't we take a look at language takeaway?",
+      "zh": "是的，这是一件非常浪漫的事情，但这里有一些非常有用的词，那么我们为什么不看看语言外卖呢？"
+    },
+    {
+      "id": 42,
+      "start": 134.0,
+      "end": 134.34,
+      "en": "Language takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 43,
+      "start": 136.0,
+      "end": 138.08,
+      "en": "Today we have three words for language takeaway.",
+      "zh": "今天我们有三个词语来外卖。"
+    },
+    {
+      "id": 44,
+      "start": 138.78,
+      "end": 140.76,
+      "en": "And the first one is relieved.",
+      "zh": "第一个松了一口气。"
+    },
+    {
+      "id": 45,
+      "start": 141.36,
+      "end": 142.36,
+      "en": "Relieved.",
+      "zh": "如释重负的。"
+    },
+    {
+      "id": 46,
+      "start": 142.36,
+      "end": 143.36,
+      "en": "Relieved.",
+      "zh": "如释重负的。"
+    },
+    {
+      "id": 47,
+      "start": 143.36,
+      "end": 149.49,
+      "en": "So, we have some great examples on how we use relieved and I'm really sure you can understand the meaning from the sentences.",
+      "zh": "所以，我们有一些很好的例子来说明我们如何使用 Refreshed，我相信你能从句子中理解它的含义。"
+    },
+    {
+      "id": 48,
+      "start": 151.32,
+      "end": 154.24,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 49,
+      "start": 154.24,
+      "end": 161.68,
+      "en": "They were relieved to hear that the company would not be making any layoffs.",
+      "zh": "听到该公司不会裁员，他们松了一口气。"
+    },
+    {
+      "id": 50,
+      "start": 161.68,
+      "end": 163.04,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 51,
+      "start": 165.26,
+      "end": 166.68,
+      "en": "I'm so relieved to hear your voice.",
+      "zh": "听到你的声音，我松了一口气。"
+    },
+    {
+      "id": 52,
+      "start": 167.26,
+      "end": 168.78,
+      "en": "I was worried something happened to you.",
+      "zh": "我担心你出了什么事。"
+    },
+    {
+      "id": 53,
+      "start": 172.23,
+      "end": 180.11,
+      "en": "I guess relieved is like a happy or relaxed feeling that you get if you avoid something bad, right?",
+      "zh": "我想如果你避免坏事，你会得到一种快乐或放松的感觉，对吧？"
+    },
+    {
+      "id": 54,
+      "start": 180.52,
+      "end": 181.52,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 55,
+      "start": 181.52,
+      "end": 182.59,
+      "en": "I'm so relieved that didn't happen.",
+      "zh": "我很欣慰，没有发生。"
+    },
+    {
+      "id": 56,
+      "start": 183.12,
+      "end": 184.12,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 57,
+      "start": 184.12,
+      "end": 186.48,
+      "en": "Now for our second word, pick me up.",
+      "zh": "现在我们的第二个字，来接我。"
+    },
+    {
+      "id": 58,
+      "start": 186.48,
+      "end": 187.26,
+      "en": "Pick me up.",
+      "zh": "来接我。"
+    },
+    {
+      "id": 59,
+      "start": 187.86,
+      "end": 188.94,
+      "en": "Pick me up.",
+      "zh": "来接我。"
+    },
+    {
+      "id": 60,
+      "start": 189.4,
+      "end": 193.0,
+      "en": "So when you ask someone to pick you up, you're saying basically...",
+      "zh": "所以当你要求别人来接你时，你基本上是在说..."
+    },
+    {
+      "id": 61,
+      "start": 193.0,
+      "end": 193.39,
+      "en": "Come and get me.",
+      "zh": "来接我。"
+    },
+    {
+      "id": 62,
+      "start": 194.0,
+      "end": 195.43,
+      "en": "Okay, so let's give a couple of examples.",
+      "zh": "好吧，让我们举几个例子。"
+    },
+    {
+      "id": 63,
+      "start": 196.94,
+      "end": 201.29,
+      "en": "My husband was supposed to pick me up from work yesterday, but he forgot.",
+      "zh": "我丈夫昨天应该下班来接我，但他忘记了。"
+    },
+    {
+      "id": 64,
+      "start": 202.8,
+      "end": 203.43,
+      "en": "Does that really happen?",
+      "zh": "这真的发生了吗？"
+    },
+    {
+      "id": 65,
+      "start": 203.8,
+      "end": 203.99,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 66,
+      "start": 205.17,
+      "end": 206.93,
+      "en": "All right, we'll have a talk with him.",
+      "zh": "好吧，我们会和他谈谈。"
+    },
+    {
+      "id": 67,
+      "start": 207.36,
+      "end": 209.51,
+      "en": "Or we could also say, oh, I need to hurry up.",
+      "zh": "或者我们也可以说，哦，我需要快点。"
+    },
+    {
+      "id": 68,
+      "start": 209.73,
+      "end": 211.27,
+      "en": "The taxi will pick me up at seven.",
+      "zh": "出租车将在七点来接我。"
+    },
+    {
+      "id": 69,
+      "start": 211.88,
+      "end": 212.88,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 70,
+      "start": 212.88,
+      "end": 213.75,
+      "en": "So come and get me.",
+      "zh": "所以来接我。"
+    },
+    {
+      "id": 71,
+      "start": 214.28,
+      "end": 215.28,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 72,
+      "start": 215.28,
+      "end": 216.28,
+      "en": "Pick me up.",
+      "zh": "来接我。"
+    },
+    {
+      "id": 73,
+      "start": 216.28,
+      "end": 219.64,
+      "en": "And our final word in today's language takeaway is...",
+      "zh": "我们在今天的语言中的最后一句话是..."
+    },
+    {
+      "id": 74,
+      "start": 219.64,
+      "end": 219.87,
+      "en": "Ordinary.",
+      "zh": "普通的。"
+    },
+    {
+      "id": 75,
+      "start": 220.86,
+      "end": 221.46,
+      "en": "Ordinary.",
+      "zh": "普通的。"
+    },
+    {
+      "id": 76,
+      "start": 222.08,
+      "end": 222.6,
+      "en": "Ordinary.",
+      "zh": "普通的。"
+    },
+    {
+      "id": 77,
+      "start": 222.98,
+      "end": 223.36,
+      "en": "Ordinary.",
+      "zh": "普通的。"
+    },
+    {
+      "id": 78,
+      "start": 223.64,
+      "end": 227.64,
+      "en": "So, ordinary is a normal word.",
+      "zh": "所以，普通是一个普通的词。"
+    },
+    {
+      "id": 79,
+      "start": 227.64,
+      "end": 228.36,
+      "en": "Yes, meaning?",
+      "zh": "对，意思是？"
+    },
+    {
+      "id": 80,
+      "start": 229.28,
+      "end": 229.48,
+      "en": "It's normal.",
+      "zh": "这是正常的。"
+    },
+    {
+      "id": 81,
+      "start": 230.28,
+      "end": 231.28,
+      "en": "Uh-huh.",
+      "zh": "嗯。"
+    },
+    {
+      "id": 82,
+      "start": 231.28,
+      "end": 232.28,
+      "en": "Nothing uncommon about it.",
+      "zh": "没有什么罕见的。"
+    },
+    {
+      "id": 83,
+      "start": 232.28,
+      "end": 233.28,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 84,
+      "start": 233.28,
+      "end": 234.32,
+      "en": "So you can have like an ordinary person.",
+      "zh": "所以你可以像普通人一样拥有。"
+    },
+    {
+      "id": 85,
+      "start": 234.32,
+      "end": 235.02,
+      "en": "An ordinary day.",
+      "zh": "平凡的一天。"
+    },
+    {
+      "id": 86,
+      "start": 235.32,
+      "end": 237.32,
+      "en": "An ordinary day.",
+      "zh": "平凡的一天。"
+    },
+    {
+      "id": 87,
+      "start": 237.32,
+      "end": 237.5,
+      "en": "Ordinary life.",
+      "zh": "平凡的生活。"
+    },
+    {
+      "id": 88,
+      "start": 238.32,
+      "end": 239.32,
+      "en": "Uh-huh.",
+      "zh": "嗯。"
+    },
+    {
+      "id": 89,
+      "start": 239.32,
+      "end": 239.72,
+      "en": "Nothing exciting about it.",
+      "zh": "没有什么令人兴奋的。"
+    },
+    {
+      "id": 90,
+      "start": 241.1,
+      "end": 241.66,
+      "en": "What else is ordinary?",
+      "zh": "还有什么是普通的？"
+    },
+    {
+      "id": 91,
+      "start": 242.42,
+      "end": 242.66,
+      "en": "Ordinary podcast.",
+      "zh": "普通播客。"
+    },
+    {
+      "id": 92,
+      "start": 243.42,
+      "end": 245.64,
+      "en": "An ordinary podcast, which English pod is not.",
+      "zh": "一个普通的播客，英语播客不是。"
+    },
+    {
+      "id": 93,
+      "start": 245.64,
+      "end": 246.64,
+      "en": "Is not.",
+      "zh": "不是。"
+    },
+    {
+      "id": 94,
+      "start": 246.64,
+      "end": 247.64,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 95,
+      "start": 247.64,
+      "end": 248.64,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 96,
+      "start": 248.64,
+      "end": 249.64,
+      "en": "So ordinary.",
+      "zh": "很普通。"
+    },
+    {
+      "id": 97,
+      "start": 249.64,
+      "end": 250.64,
+      "en": "Okay, great words.",
+      "zh": "好吧，好话。"
+    },
+    {
+      "id": 98,
+      "start": 250.64,
+      "end": 252.72,
+      "en": "And I guess now we can listen to our dialogue a second time.",
+      "zh": "我想现在我们可以第二次听我们的对话了。"
+    },
+    {
+      "id": 99,
+      "start": 252.72,
+      "end": 257.46,
+      "en": "This time it'll be a little bit slower, and this will help you to understand the language more clearly.",
+      "zh": "这次会慢一点，这将帮助您更清楚地理解语言。"
+    },
+    {
+      "id": 100,
+      "start": 265.56,
+      "end": 267.49,
+      "en": "I'm so relieved that your ankle wasn't broken.",
+      "zh": "你的脚踝没有骨折，我很欣慰。"
+    },
+    {
+      "id": 101,
+      "start": 268.44,
+      "end": 270.79,
+      "en": "I feel just awful about this whole thing.",
+      "zh": "整件事让我特别过意不去。"
+    },
+    {
+      "id": 102,
+      "start": 271.8,
+      "end": 272.85,
+      "en": "I want to make it up to you.",
+      "zh": "我想补偿你。"
+    },
+    {
+      "id": 103,
+      "start": 273.8,
+      "end": 275.33,
+      "en": "Let me take you out to dinner tonight.",
+      "zh": "今晚让我带你出去吃饭。"
+    },
+    {
+      "id": 104,
+      "start": 276.0,
+      "end": 276.33,
+      "en": "My treat.",
+      "zh": "我请客。"
+    },
+    {
+      "id": 105,
+      "start": 277.68,
+      "end": 278.54,
+      "en": "That sounds great.",
+      "zh": "听起来很棒。"
+    },
+    {
+      "id": 106,
+      "start": 279.48,
+      "end": 280.02,
+      "en": "I'd love to.",
+      "zh": "我很乐意。"
+    },
+    {
+      "id": 107,
+      "start": 281.24,
+      "end": 282.04,
+      "en": "Here is my address.",
+      "zh": "这是我的地址。"
+    },
+    {
+      "id": 108,
+      "start": 283.0,
+      "end": 284.06,
+      "en": "Pick me up at eight?",
+      "zh": "八点来接我？"
+    },
+    {
+      "id": 109,
+      "start": 285.32,
+      "end": 285.44,
+      "en": "Perfect.",
+      "zh": "太好了。"
+    },
+    {
+      "id": 110,
+      "start": 286.92,
+      "end": 288.78,
+      "en": "Thank you for such a lovely evening.",
+      "zh": "谢谢你陪我度过这么美好的一晚。"
+    },
+    {
+      "id": 111,
+      "start": 289.16,
+      "end": 292.68,
+      "en": "The food was amazing, and I had a great time.",
+      "zh": "食物很棒，我玩得很开心。"
+    },
+    {
+      "id": 112,
+      "start": 293.26,
+      "end": 293.78,
+      "en": "Me too.",
+      "zh": "我也是。"
+    },
+    {
+      "id": 113,
+      "start": 294.28,
+      "end": 297.12,
+      "en": "You look so beautiful tonight.",
+      "zh": "你今晚看起来真漂亮。"
+    },
+    {
+      "id": 114,
+      "start": 297.78,
+      "end": 299.6,
+      "en": "I wish this night would never end.",
+      "zh": "我希望这个夜晚永远不会结束。"
+    },
+    {
+      "id": 115,
+      "start": 300.4,
+      "end": 302.2,
+      "en": "There's something I have to tell you.",
+      "zh": "有件事我要告诉你。"
+    },
+    {
+      "id": 116,
+      "start": 302.94,
+      "end": 304.04,
+      "en": "What is it?",
+      "zh": "怎么了？"
+    },
+    {
+      "id": 117,
+      "start": 304.97,
+      "end": 311.67,
+      "en": "I woke up today thinking this would be just like any other ordinary day, but I was wrong.",
+      "zh": "我今天醒来，以为这就像任何其他普通的日子一样，但我错了。"
+    },
+    {
+      "id": 118,
+      "start": 312.71,
+      "end": 314.75,
+      "en": "A twist of fate brought us together.",
+      "zh": "命运的转折让我们相遇。"
+    },
+    {
+      "id": 119,
+      "start": 315.95,
+      "end": 324.67,
+      "en": "I crashed into your life and you into mine, and this may sound crazy, but I'm falling in love with you, Veronica.",
+      "zh": "我撞到了你的生活，你进入了我的生活，这听起来可能很疯狂，但我爱上了你，维罗妮卡。"
+    },
+    {
+      "id": 120,
+      "start": 330.82,
+      "end": 337.18,
+      "en": "Okay, so we looked at some great vocabulary, and now we can look at some great phrases, so let's start with Fluency Builder.",
+      "zh": "好的，所以我们看了一些很棒的词汇，现在我们可以看看一些很棒的短语，所以让我们从 Fluency Builder 开始。"
+    },
+    {
+      "id": 121,
+      "start": 338.69,
+      "end": 339.63,
+      "en": "Fluency Builder.",
+      "zh": "流利表达。"
+    },
+    {
+      "id": 122,
+      "start": 340.96,
+      "end": 346.52,
+      "en": "On Fluency Builder today we have three great phrases, so why don't we just start with the first one?",
+      "zh": "今天在 Fluency Builder 上，我们有三个很棒的短语，那么我们为什么不从第一个开始呢？"
+    },
+    {
+      "id": 123,
+      "start": 346.52,
+      "end": 348.48,
+      "en": "Yeah, the first one we heard at the beginning of the dialogue.",
+      "zh": "是的，我们在对话开始时听到的第一个。"
+    },
+    {
+      "id": 124,
+      "start": 349.32,
+      "end": 350.82,
+      "en": "Make it up to you.",
+      "zh": "补偿你。"
+    },
+    {
+      "id": 125,
+      "start": 351.44,
+      "end": 352.32,
+      "en": "Make it up to you.",
+      "zh": "补偿你。"
+    },
+    {
+      "id": 126,
+      "start": 352.74,
+      "end": 353.74,
+      "en": "Make it up to you.",
+      "zh": "补偿你。"
+    },
+    {
+      "id": 127,
+      "start": 353.74,
+      "end": 357.66,
+      "en": "Okay, so we have some great examples on how we use make it up, so let's listen.",
+      "zh": "好的，我们有一些关于如何使用 Make 的很好的例子，所以让我们听听。"
+    },
+    {
+      "id": 128,
+      "start": 360.24,
+      "end": 364.04,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 129,
+      "start": 364.04,
+      "end": 366.32,
+      "en": "I'm sorry I forgot your birthday.",
+      "zh": "对不起，我忘记了你的生日。"
+    },
+    {
+      "id": 130,
+      "start": 366.32,
+      "end": 367.34,
+      "en": "How can I make it up to you?",
+      "zh": "我怎样才能弥补你？"
+    },
+    {
+      "id": 131,
+      "start": 371.73,
+      "end": 372.45,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 132,
+      "start": 377.02,
+      "end": 378.86,
+      "en": "I feel terrible for calling your mother fat.",
+      "zh": "说你妈妈胖我感觉很糟糕。"
+    },
+    {
+      "id": 133,
+      "start": 379.7,
+      "end": 382.1,
+      "en": "I want to make it up to her, so I got her these flowers.",
+      "zh": "我想补偿她，所以我给她买了这些花。"
+    },
+    {
+      "id": 134,
+      "start": 388.08,
+      "end": 393.6,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 135,
+      "start": 393.6,
+      "end": 395.02,
+      "en": "John forgot my anniversary again.",
+      "zh": "约翰又忘记了我的周年纪念日。"
+    },
+    {
+      "id": 136,
+      "start": 395.68,
+      "end": 397.0,
+      "en": "He's going to have to make it up to me.",
+      "zh": "他将不得不补偿我。"
+    },
+    {
+      "id": 137,
+      "start": 400.66,
+      "end": 411.38,
+      "en": "We can see from the examples that when you use the phrase make it up to you, you're kind of saying you want to balance something bad you did with some good action, right?",
+      "zh": "我们可以从例子中看到，当你使用这个短语时，你是在说你想平衡你所做的坏事和一些好的行动，对吧？"
+    },
+    {
+      "id": 138,
+      "start": 411.84,
+      "end": 414.88,
+      "en": "Right, so if you call your mother-in-law fat.",
+      "zh": "对，所以如果你称你的岳母脂肪。"
+    },
+    {
+      "id": 139,
+      "start": 415.46,
+      "end": 418.92,
+      "en": "You better buy her at least some flowers or a card or something.",
+      "zh": "你最好给她买一些花或卡片之类的。"
+    },
+    {
+      "id": 140,
+      "start": 419.28,
+      "end": 420.12,
+      "en": "To make it up, right?",
+      "zh": "编造它，对吧？"
+    },
+    {
+      "id": 141,
+      "start": 420.28,
+      "end": 421.28,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 142,
+      "start": 421.28,
+      "end": 422.28,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 143,
+      "start": 422.28,
+      "end": 423.18,
+      "en": "So the bad action was?",
+      "zh": "那么糟糕的行动是什么？"
+    },
+    {
+      "id": 144,
+      "start": 423.56,
+      "end": 423.92,
+      "en": "Calling her fat.",
+      "zh": "称她为胖子。"
+    },
+    {
+      "id": 145,
+      "start": 424.56,
+      "end": 426.52,
+      "en": "And the balancing good action was the flowers.",
+      "zh": "平衡良好的动作是鲜花。"
+    },
+    {
+      "id": 146,
+      "start": 427.28,
+      "end": 427.6,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 147,
+      "start": 427.82,
+      "end": 429.42,
+      "en": "I don't think flowers will be enough though.",
+      "zh": "不过，我认为鲜花还不够。"
+    },
+    {
+      "id": 148,
+      "start": 429.7,
+      "end": 431.14,
+      "en": "Looks like a doomed marriage.",
+      "zh": "看起来像一场注定要失败的婚姻。"
+    },
+    {
+      "id": 149,
+      "start": 432.42,
+      "end": 434.0,
+      "en": "Okay, our second phrase.",
+      "zh": "好吧，我们的第二句话。"
+    },
+    {
+      "id": 150,
+      "start": 434.94,
+      "end": 435.24,
+      "en": "My treat.",
+      "zh": "我请客。"
+    },
+    {
+      "id": 151,
+      "start": 437.94,
+      "end": 442.1,
+      "en": "So we use this phrase when we want to say I'll invite you, I'll pay for you.",
+      "zh": "所以当我们想说我会邀请你的时候，我们会用这个短语，我会为你付钱的。"
+    },
+    {
+      "id": 152,
+      "start": 442.18,
+      "end": 442.5,
+      "en": "I'll pay.",
+      "zh": "我会付钱的。"
+    },
+    {
+      "id": 153,
+      "start": 443.32,
+      "end": 447.14,
+      "en": "Right, so I can say, hey, let's go get some beers.",
+      "zh": "对，所以我可以说，嘿，我们去喝点啤酒吧。"
+    },
+    {
+      "id": 154,
+      "start": 447.7,
+      "end": 448.28,
+      "en": "It's my treat.",
+      "zh": "这是我的款待。"
+    },
+    {
+      "id": 155,
+      "start": 448.92,
+      "end": 449.18,
+      "en": "Oh, thanks, Marco.",
+      "zh": "哦，谢谢，马可。"
+    },
+    {
+      "id": 156,
+      "start": 450.6,
+      "end": 451.44,
+      "en": "So I'm paying, right?",
+      "zh": "所以我付钱，对吧？"
+    },
+    {
+      "id": 157,
+      "start": 452.44,
+      "end": 452.76,
+      "en": "My treat.",
+      "zh": "我请客。"
+    },
+    {
+      "id": 158,
+      "start": 453.96,
+      "end": 456.24,
+      "en": "And our last phrase for fluency builder.",
+      "zh": "以及我们流利建设者的最后一句话。"
+    },
+    {
+      "id": 159,
+      "start": 457.0,
+      "end": 457.8,
+      "en": "A twist of fate.",
+      "zh": "命运的转折。"
+    },
+    {
+      "id": 160,
+      "start": 462.82,
+      "end": 464.56,
+      "en": "So Erica, what is a twist of fate?",
+      "zh": "那么埃里卡，命运的转折是什么？"
+    },
+    {
+      "id": 161,
+      "start": 464.74,
+      "end": 471.82,
+      "en": "A twist of fate is an unplanned event that has a big impact on your future or your life.",
+      "zh": "命运的转折是对您的未来或生活产生重大影响的计划外事件。"
+    },
+    {
+      "id": 162,
+      "start": 472.14,
+      "end": 472.5,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 163,
+      "start": 472.98,
+      "end": 475.44,
+      "en": "Marco, can you give us an example of a twist of fate?",
+      "zh": "马可，你能给我们举一个命运转折的例子吗？"
+    },
+    {
+      "id": 164,
+      "start": 476.42,
+      "end": 477.76,
+      "en": "All right, for example.",
+      "zh": "好吧，例如。"
+    },
+    {
+      "id": 165,
+      "start": 478.22,
+      "end": 482.04,
+      "en": "Okay, you're supposed to catch a flight to another country, all right?",
+      "zh": "好吧，你应该赶上另一个国家的航班，好吗？"
+    },
+    {
+      "id": 166,
+      "start": 482.52,
+      "end": 484.72,
+      "en": "But you're late, so you miss your flight.",
+      "zh": "但是你迟到了，所以你错过了你的航班。"
+    },
+    {
+      "id": 167,
+      "start": 485.16,
+      "end": 485.36,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 168,
+      "start": 485.92,
+      "end": 488.68,
+      "en": "And that flight crashes.",
+      "zh": "而那个航班坠毁。"
+    },
+    {
+      "id": 169,
+      "start": 488.76,
+      "end": 489.76,
+      "en": "Wow.",
+      "zh": "哇。"
+    },
+    {
+      "id": 170,
+      "start": 489.76,
+      "end": 492.96,
+      "en": "Right, so that's a twist of fate.",
+      "zh": "对，所以这是命运的转折。"
+    },
+    {
+      "id": 171,
+      "start": 492.96,
+      "end": 495.68,
+      "en": "So yeah, it's like fate, it's like destiny.",
+      "zh": "所以，是的，就像命运一样，就像命运一样。"
+    },
+    {
+      "id": 172,
+      "start": 498.96,
+      "end": 500.28,
+      "en": "You weren't supposed to be on that flight.",
+      "zh": "你不应该在那个航班上。"
+    },
+    {
+      "id": 173,
+      "start": 500.68,
+      "end": 501.96,
+      "en": "Okay, so a twist of fate.",
+      "zh": "好吧，那是命运的转折。"
+    },
+    {
+      "id": 174,
+      "start": 502.24,
+      "end": 503.24,
+      "en": "A twist of fate.",
+      "zh": "命运的转折。"
+    },
+    {
+      "id": 175,
+      "start": 503.24,
+      "end": 504.24,
+      "en": "Great.",
+      "zh": "太好了。"
+    },
+    {
+      "id": 176,
+      "start": 504.24,
+      "end": 508.02,
+      "en": "On a happier note, let's listen to the dialogue a third time.",
+      "zh": "更快乐的是，让我们第三次听对话。"
+    },
+    {
+      "id": 177,
+      "start": 519.24,
+      "end": 520.88,
+      "en": "I'm so relieved that your ankle wasn't broken.",
+      "zh": "你的脚踝没有骨折，我很欣慰。"
+    },
+    {
+      "id": 178,
+      "start": 520.88,
+      "end": 523.22,
+      "en": "I feel just awful about this whole thing.",
+      "zh": "整件事让我特别过意不去。"
+    },
+    {
+      "id": 179,
+      "start": 523.84,
+      "end": 524.76,
+      "en": "I want to make it up to you.",
+      "zh": "我想补偿你。"
+    },
+    {
+      "id": 180,
+      "start": 525.02,
+      "end": 526.72,
+      "en": "Let me take you out to dinner tonight, my treat.",
+      "zh": "今晚我请你吃饭，我请客。"
+    },
+    {
+      "id": 181,
+      "start": 527.2,
+      "end": 528.8,
+      "en": "Oh, that sounds great.",
+      "zh": "哦，听起来很棒。"
+    },
+    {
+      "id": 182,
+      "start": 528.84,
+      "end": 529.42,
+      "en": "I'd love to.",
+      "zh": "我很乐意。"
+    },
+    {
+      "id": 183,
+      "start": 530.16,
+      "end": 530.92,
+      "en": "Here's my address.",
+      "zh": "这是我的地址。"
+    },
+    {
+      "id": 184,
+      "start": 531.64,
+      "end": 532.2,
+      "en": "Pick me up at eight?",
+      "zh": "八点来接我？"
+    },
+    {
+      "id": 185,
+      "start": 532.94,
+      "end": 533.2,
+      "en": "Perfect.",
+      "zh": "太好了。"
+    },
+    {
+      "id": 186,
+      "start": 546.66,
+      "end": 548.42,
+      "en": "Thank you for such a lovely evening.",
+      "zh": "谢谢你陪我度过这么美好的一晚。"
+    },
+    {
+      "id": 187,
+      "start": 548.68,
+      "end": 551.56,
+      "en": "The food was amazing and I had a great time.",
+      "zh": "菜太好吃了，我也过得很开心。"
+    },
+    {
+      "id": 188,
+      "start": 551.56,
+      "end": 551.78,
+      "en": "Me too.",
+      "zh": "我也是。"
+    },
+    {
+      "id": 189,
+      "start": 552.56,
+      "end": 554.28,
+      "en": "You look so beautiful tonight.",
+      "zh": "你今晚看起来真漂亮。"
+    },
+    {
+      "id": 190,
+      "start": 554.96,
+      "end": 556.18,
+      "en": "I wish this night would never end.",
+      "zh": "我希望这个夜晚永远不会结束。"
+    },
+    {
+      "id": 191,
+      "start": 557.03,
+      "end": 558.23,
+      "en": "There's something that I have to tell you.",
+      "zh": "有件事我必须告诉你。"
+    },
+    {
+      "id": 192,
+      "start": 558.71,
+      "end": 559.43,
+      "en": "But what is it?",
+      "zh": "可那到底是什么？"
+    },
+    {
+      "id": 193,
+      "start": 559.83,
+      "end": 565.08,
+      "en": "I woke up today thinking that this would be just like any other day, but I was wrong.",
+      "zh": "我今天醒来，以为这会像其他任何一天一样，但我错了。"
+    },
+    {
+      "id": 194,
+      "start": 566.34,
+      "end": 567.58,
+      "en": "The twist of fate brought us together.",
+      "zh": "命运的转折让我们走到了一起。"
+    },
+    {
+      "id": 195,
+      "start": 568.18,
+      "end": 573.46,
+      "en": "I crashed into your life and you into mine and this may sound crazy, but I'm falling in love with you, Veronica.",
+      "zh": "我撞到了你的生活，你进入了我的生活，这听起来很疯狂，但我爱上了你，维罗妮卡。"
+    },
+    {
+      "id": 196,
+      "start": 589.39,
+      "end": 590.83,
+      "en": "Okay so we're back.",
+      "zh": "好的，所以我们回来了。"
+    },
+    {
+      "id": 197,
+      "start": 591.39,
+      "end": 595.49,
+      "en": "Erica, I know you have a story of a twist of fate in your life.",
+      "zh": "埃里卡，我知道你的生活中有一个关于命运的转折的故事。"
+    },
+    {
+      "id": 198,
+      "start": 595.79,
+      "end": 596.07,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 199,
+      "start": 596.55,
+      "end": 598.11,
+      "en": "Recently, actually, this happened.",
+      "zh": "最近，实际上，这发生了。"
+    },
+    {
+      "id": 200,
+      "start": 598.85,
+      "end": 603.87,
+      "en": "I went to this party and at the party there was a contest, like sort of a lottery.",
+      "zh": "我参加了这个聚会，在聚会上有一场比赛，就像是一种彩票。"
+    },
+    {
+      "id": 201,
+      "start": 605.08,
+      "end": 610.16,
+      "en": "You could buy some tickets and win a prize and the prize was a week-long vacation.",
+      "zh": "您可以购买一些门票并赢取奖品，奖品是为期一周的假期。"
+    },
+    {
+      "id": 202,
+      "start": 610.16,
+      "end": 616.25,
+      "en": "So I went with some friends of mine and they were tired so they left early and they gave me their tickets.",
+      "zh": "所以我和我的一些朋友一起去了，他们很累，所以他们早早离开了，他们把票给了我。"
+    },
+    {
+      "id": 203,
+      "start": 616.6,
+      "end": 618.88,
+      "en": "And guess what happened?",
+      "zh": "猜猜发生了什么？"
+    },
+    {
+      "id": 204,
+      "start": 618.88,
+      "end": 619.02,
+      "en": "What happened?",
+      "zh": "发生什么事了？"
+    },
+    {
+      "id": 205,
+      "start": 619.88,
+      "end": 620.0,
+      "en": "We won.",
+      "zh": "我们赢了。"
+    },
+    {
+      "id": 206,
+      "start": 620.88,
+      "end": 621.98,
+      "en": "We won the week-long vacation.",
+      "zh": "我们赢得了为期一周的假期。"
+    },
+    {
+      "id": 207,
+      "start": 622.36,
+      "end": 623.36,
+      "en": "Wow.",
+      "zh": "哇。"
+    },
+    {
+      "id": 208,
+      "start": 623.36,
+      "end": 623.74,
+      "en": "Yeah, it was amazing.",
+      "zh": "是的，太神奇了。"
+    },
+    {
+      "id": 209,
+      "start": 624.36,
+      "end": 627.38,
+      "en": "So that was a really lucky twist of fate for me.",
+      "zh": "所以这对我来说是一个非常幸运的命运转折。"
+    },
+    {
+      "id": 210,
+      "start": 627.56,
+      "end": 628.56,
+      "en": "A lucky twist of fate.",
+      "zh": "命运的幸运转折。"
+    },
+    {
+      "id": 211,
+      "start": 628.56,
+      "end": 629.24,
+      "en": "That's a good story.",
+      "zh": "这个故事很不错。"
+    },
+    {
+      "id": 212,
+      "start": 629.56,
+      "end": 630.56,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 213,
+      "start": 630.56,
+      "end": 633.3,
+      "en": "I'm sure it wasn't that good of a twist of fate for your friends.",
+      "zh": "我敢肯定，这对你的朋友来说不是命运的转折。"
+    },
+    {
+      "id": 214,
+      "start": 633.56,
+      "end": 636.66,
+      "en": "Yeah, but they were very generous and let me have the prize anyway.",
+      "zh": "是的，但他们非常慷慨，无论如何让我有奖。"
+    },
+    {
+      "id": 215,
+      "start": 637.4,
+      "end": 637.74,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 216,
+      "start": 638.14,
+      "end": 642.52,
+      "en": "Well, we want to hear your stories of maybe some type of twist of fate that you've had.",
+      "zh": "好吧，我们想听听你的故事，也许是你所经历过的某种命运的转折。"
+    },
+    {
+      "id": 217,
+      "start": 642.62,
+      "end": 642.86,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 218,
+      "start": 644.08,
+      "end": 646.41,
+      "en": "Maybe love stories, maybe tragic stories, any story.",
+      "zh": "也许是爱情故事，也许是悲剧故事，任何故事。"
+    },
+    {
+      "id": 219,
+      "start": 647.92,
+      "end": 657.73,
+      "en": "So be sure to leave your questions and comments and your stories at our website, EnglishPod.com and where you can also find us to answer any questions or doubts.",
+      "zh": "因此，请务必在我们的网站 englishpod.com 上留下您的问题和评论以及您的故事，您还可以在哪里找到我们来回答任何问题或疑问。"
+    },
+    {
+      "id": 220,
+      "start": 658.08,
+      "end": 658.63,
+      "en": "Yes, that's right.",
+      "zh": "对，没错。"
+    },
+    {
+      "id": 221,
+      "start": 659.48,
+      "end": 661.55,
+      "en": "So I guess until then, it's goodbye.",
+      "zh": "所以我想在那之前，这是再见。"
+    }
+  ],
+  "dialog": {
+    "start": 47.92,
+    "end": 102.5,
+    "segmentIds": [
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38
+    ]
+  }
+}

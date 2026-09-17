@@ -1,0 +1,1844 @@
+{
+  "version": 1,
+  "id": 97,
+  "number": "0097",
+  "title": "Daily Life - Weather Forecast",
+  "audio": "mp3/97. Daily Life - Weather Forecast.mp3",
+  "duration": 772.5714375,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.58,
+      "end": 5.39,
+      "en": "Hello, English learners.",
+      "zh": "各位英语学习者，大家好。"
+    },
+    {
+      "id": 2,
+      "start": 5.76,
+      "end": 7.28,
+      "en": "Welcome back to EnglishPod.",
+      "zh": "欢迎回到 EnglishPod。"
+    },
+    {
+      "id": 3,
+      "start": 7.28,
+      "end": 7.73,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 4,
+      "start": 8.09,
+      "end": 8.63,
+      "en": "And I'm Erica.",
+      "zh": "我叫 Erica。"
+    },
+    {
+      "id": 5,
+      "start": 9.33,
+      "end": 11.79,
+      "en": "And today we are going to be talking about the weather.",
+      "zh": "今天我们将谈论天气。"
+    },
+    {
+      "id": 6,
+      "start": 12.29,
+      "end": 12.61,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 7,
+      "start": 12.91,
+      "end": 17.91,
+      "en": "And you know, Marco, this is a really, really useful and important topic in English, isn't it?",
+      "zh": "你知道，Marco，这是一个非常非常有用和重要的英语主题，不是吗？"
+    },
+    {
+      "id": 8,
+      "start": 18.33,
+      "end": 23.47,
+      "en": "Exactly, because if you ever travel abroad, you always want to know about the weather, right?",
+      "zh": "没错，因为如果你去国外旅行，你总是想知道天气，对吧？"
+    },
+    {
+      "id": 9,
+      "start": 23.73,
+      "end": 24.01,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 10,
+      "start": 25.48,
+      "end": 28.4,
+      "en": "And Anglo people, English people, all they ever do is talk about the weather.",
+      "zh": "盎格鲁人，英国人，他们所做的只是谈论天气。"
+    },
+    {
+      "id": 11,
+      "start": 28.83,
+      "end": 29.87,
+      "en": "Well, it's an important topic.",
+      "zh": "嗯，这是一个重要的话题。"
+    },
+    {
+      "id": 12,
+      "start": 30.04,
+      "end": 33.12,
+      "en": "You want to know what clothes to wear or if you should take an umbrella.",
+      "zh": "你想知道穿什么衣服，或者你是否应该带一把雨伞。"
+    },
+    {
+      "id": 13,
+      "start": 33.12,
+      "end": 35.01,
+      "en": "Or even when you're making small talk with people.",
+      "zh": "甚至当您与人闲聊时。"
+    },
+    {
+      "id": 14,
+      "start": 35.43,
+      "end": 35.67,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 15,
+      "start": 36.21,
+      "end": 39.79,
+      "en": "So we are going to be taking a look at the weather in the United States.",
+      "zh": "所以我们要看看美国的天气。"
+    },
+    {
+      "id": 16,
+      "start": 40.72,
+      "end": 46.88,
+      "en": "But before we get started with the dialogue, let's take a look at vocabulary preview.",
+      "zh": "但在我们开始对话之前，让我们来看看词汇预览。"
+    },
+    {
+      "id": 17,
+      "start": 46.88,
+      "end": 47.33,
+      "en": "Vocabulary preview.",
+      "zh": "词汇预习。"
+    },
+    {
+      "id": 18,
+      "start": 48.03,
+      "end": 50.95,
+      "en": "Okay, so we have two words we're going to hear in the dialogue.",
+      "zh": "好的，我们将在对话中听到两个词。"
+    },
+    {
+      "id": 19,
+      "start": 51.49,
+      "end": 53.63,
+      "en": "Now the first one is forecast.",
+      "zh": "现在第一个是预测。"
+    },
+    {
+      "id": 20,
+      "start": 53.84,
+      "end": 54.84,
+      "en": "Forecast.",
+      "zh": "预测。"
+    },
+    {
+      "id": 21,
+      "start": 55.24,
+      "end": 56.28,
+      "en": "Weather forecast.",
+      "zh": "天气预报。"
+    },
+    {
+      "id": 22,
+      "start": 57.2,
+      "end": 61.04,
+      "en": "So this is what we listen to or what we see on the television, the weather forecast.",
+      "zh": "所以这就是我们在电视上听到的或我们在电视上看到的天气预报。"
+    },
+    {
+      "id": 23,
+      "start": 61.34,
+      "end": 63.5,
+      "en": "Right, it's like the prediction of the weather.",
+      "zh": "没错，就像天气预报一样。"
+    },
+    {
+      "id": 24,
+      "start": 63.92,
+      "end": 67.64,
+      "en": "Okay, so forecast, can I only use it in the weather?",
+      "zh": "好吧，预报，我只能在天气里使用它吗？"
+    },
+    {
+      "id": 25,
+      "start": 67.92,
+      "end": 73.7,
+      "en": "No, of course you can use it in many other different situations, like in business, for example, forecast sales.",
+      "zh": "不，当然，您可以在许多其他不同的情况下使用它，例如在商业中，例如预测销售额。"
+    },
+    {
+      "id": 26,
+      "start": 74.24,
+      "end": 76.18,
+      "en": "Okay, so the prediction of sales.",
+      "zh": "好吧，所以预测销售额。"
+    },
+    {
+      "id": 27,
+      "start": 77.4,
+      "end": 78.4,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 28,
+      "start": 78.4,
+      "end": 81.24,
+      "en": "And we have one more word on vocabulary preview, a shower.",
+      "zh": "我们还有一个关于词汇预览的消息，一个淋浴。"
+    },
+    {
+      "id": 29,
+      "start": 81.84,
+      "end": 82.28,
+      "en": "A shower.",
+      "zh": "淋浴。"
+    },
+    {
+      "id": 30,
+      "start": 82.84,
+      "end": 83.32,
+      "en": "Shower.",
+      "zh": "淋浴。"
+    },
+    {
+      "id": 31,
+      "start": 83.84,
+      "end": 84.84,
+      "en": "Shower.",
+      "zh": "淋浴。"
+    },
+    {
+      "id": 32,
+      "start": 84.85,
+      "end": 89.37,
+      "en": "So when it rains for a short time and it's not too heavy, that's a shower.",
+      "zh": "所以当下雨很短的时间并且不太重时，那是一个淋浴。"
+    },
+    {
+      "id": 33,
+      "start": 89.73,
+      "end": 90.69,
+      "en": "Okay, very good.",
+      "zh": "好，很好。"
+    },
+    {
+      "id": 34,
+      "start": 91.13,
+      "end": 93.45,
+      "en": "So it's very similar to a shower at home.",
+      "zh": "所以它非常类似于在家淋浴。"
+    },
+    {
+      "id": 35,
+      "start": 93.64,
+      "end": 94.64,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 36,
+      "start": 94.64,
+      "end": 95.64,
+      "en": "A little bit of water.",
+      "zh": "一点点水。"
+    },
+    {
+      "id": 37,
+      "start": 95.64,
+      "end": 96.13,
+      "en": "And it doesn't last too long.",
+      "zh": "而且不会持续太久。"
+    },
+    {
+      "id": 38,
+      "start": 96.64,
+      "end": 97.17,
+      "en": "Okay, very good.",
+      "zh": "好，很好。"
+    },
+    {
+      "id": 39,
+      "start": 97.88,
+      "end": 100.21,
+      "en": "So why don't we listen to our dialogue now.",
+      "zh": "那么我们为什么不现在听我们的对话。"
+    },
+    {
+      "id": 40,
+      "start": 100.45,
+      "end": 105.71,
+      "en": "We are going to be listening to the weatherman as he describes the weather in Utah.",
+      "zh": "我们将聆听天气预报员的讲话，因为他描述了犹他州的天气。"
+    },
+    {
+      "id": 41,
+      "start": 108.31,
+      "end": 111.63,
+      "en": "And now let's go to Kenny Williams for today's weather forecast.",
+      "zh": "下面请肯尼·威廉姆斯为我们播报今天的天气。"
+    },
+    {
+      "id": 42,
+      "start": 112.15,
+      "end": 114.35,
+      "en": "Thank you, Bill, and good morning, Salt Lake City.",
+      "zh": "谢谢你，比尔，早上好，盐湖城。"
+    },
+    {
+      "id": 43,
+      "start": 114.97,
+      "end": 116.49,
+      "en": "What's the weather looking like today, Kenny?",
+      "zh": "肯尼，今天的天气怎么样？"
+    },
+    {
+      "id": 44,
+      "start": 116.92,
+      "end": 119.08,
+      "en": "Well, it's a bit of a mixed bag in Utah today.",
+      "zh": "今天犹他州各地的天气不太一样。"
+    },
+    {
+      "id": 45,
+      "start": 119.08,
+      "end": 124.47,
+      "en": "We've got heavy cloud cover here in northern Utah, and we're calling for scattered showers throughout the day, with a daytime high of 45 degrees.",
+      "zh": "犹他州北部阴云密布，全天可能有零星阵雨，白天最高气温华氏四十五度。"
+    },
+    {
+      "id": 46,
+      "start": 124.71,
+      "end": 128.69,
+      "en": "Now, if we move down to the south of the state, we can see that a cold front is moving in.",
+      "zh": "再看该州南部，一股冷锋正移入。"
+    },
+    {
+      "id": 47,
+      "start": 129.05,
+      "end": 133.65,
+      "en": "We can expect clear skies, but it will be quite cold, with temperatures hovering around the 30 degree mark.",
+      "zh": "虽然天空晴朗，但天气很冷，气温在华氏三十度左右徘徊。"
+    },
+    {
+      "id": 48,
+      "start": 134.01,
+      "end": 136.69,
+      "en": "It's a chilly day, folks, so don't forget your coats.",
+      "zh": "今天挺冷的，各位别忘了穿外套。"
+    },
+    {
+      "id": 49,
+      "start": 137.28,
+      "end": 138.48,
+      "en": "What about tomorrow, Kenny?",
+      "zh": "肯尼，明天呢？"
+    },
+    {
+      "id": 50,
+      "start": 139.16,
+      "end": 140.08,
+      "en": "Do you have good news for us?",
+      "zh": "你有好消息要告诉我们吗？"
+    },
+    {
+      "id": 51,
+      "start": 140.7,
+      "end": 142.56,
+      "en": "Well, it'll be a rainy day for northern Utah.",
+      "zh": "犹他州北部明天会下雨。"
+    },
+    {
+      "id": 52,
+      "start": 142.96,
+      "end": 145.6,
+      "en": "We can expect some isolated downpours in the morning.",
+      "zh": "早晨局部地区可能有大雨。"
+    },
+    {
+      "id": 53,
+      "start": 145.6,
+      "end": 149.28,
+      "en": "Winds will be coming in from the northeast, with gusts reaching 23 miles per hour.",
+      "zh": "东北风，阵风时速可达二十三英里。"
+    },
+    {
+      "id": 54,
+      "start": 149.28,
+      "end": 152.4,
+      "en": "Salt Lake City can expect the rain to turn to sleet in the evening.",
+      "zh": "盐湖城傍晚可能由雨转为雨夹雪。"
+    },
+    {
+      "id": 55,
+      "start": 152.4,
+      "end": 154.96,
+      "en": "Things are looking a bit better for the south.",
+      "zh": "南部的情况要好一些。"
+    },
+    {
+      "id": 56,
+      "start": 154.96,
+      "end": 156.34,
+      "en": "We'll see cloudy skies with a chance of showers.",
+      "zh": "多云，有阵雨的可能。"
+    },
+    {
+      "id": 57,
+      "start": 156.96,
+      "end": 160.66,
+      "en": "Later in the day, we can expect partly cloudy skies with a forecast high of 38 degrees.",
+      "zh": "晚些时候转为局部多云，预计最高气温华氏三十八度。"
+    },
+    {
+      "id": 58,
+      "start": 161.26,
+      "end": 162.06,
+      "en": "You heard it, folks.",
+      "zh": "各位都听到了吧。"
+    },
+    {
+      "id": 59,
+      "start": 162.6,
+      "end": 163.72,
+      "en": "It's going to be a cold one.",
+      "zh": "明天会很冷。"
+    },
+    {
+      "id": 60,
+      "start": 163.72,
+      "end": 164.14,
+      "en": "That's right, Bill.",
+      "zh": "没错，比尔。"
+    },
+    {
+      "id": 61,
+      "start": 165.2,
+      "end": 167.42,
+      "en": "We'll have more later on today on the 6 o'clock news.",
+      "zh": "更多天气消息请关注今晚六点新闻。"
+    },
+    {
+      "id": 62,
+      "start": 168.12,
+      "end": 169.3,
+      "en": "That's the weather forecast for this morning.",
+      "zh": "以上就是今早的天气预报。"
+    },
+    {
+      "id": 63,
+      "start": 170.8,
+      "end": 181.2,
+      "en": "All right, so we listened to the weather forecast and it doesn't seem like nice weather in Utah, huh?",
+      "zh": "好吧，所以我们听了天气预报，犹他州的天气看起来不太好，对吧？"
+    },
+    {
+      "id": 64,
+      "start": 181.2,
+      "end": 181.85,
+      "en": "No, it certainly doesn't.",
+      "zh": "不，它肯定没有。"
+    },
+    {
+      "id": 65,
+      "start": 182.2,
+      "end": 184.83,
+      "en": "I don't think that I'd really like to live there.",
+      "zh": "我不认为我真的很想住在那里。"
+    },
+    {
+      "id": 66,
+      "start": 185.45,
+      "end": 187.67,
+      "en": "Well, maybe it's winter or something like that.",
+      "zh": "好吧，也许是冬天或类似的东西。"
+    },
+    {
+      "id": 67,
+      "start": 187.85,
+      "end": 189.17,
+      "en": "Well, I guess, yeah, maybe it's good for skiing.",
+      "zh": "好吧，我想，是的，也许它对滑雪有好处。"
+    },
+    {
+      "id": 68,
+      "start": 189.53,
+      "end": 198.09,
+      "en": "Okay, so now I think it's time for us to take a look at some of those maybe difficult words that we may have listened to in this dialogue in Language Takeaway.",
+      "zh": "好的，所以现在我想是时候让我们看看我们可能在语言外卖对话中听过的一些可能很难的词了。"
+    },
+    {
+      "id": 69,
+      "start": 200.23,
+      "end": 201.35,
+      "en": "Language Takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 70,
+      "start": 201.76,
+      "end": 207.96,
+      "en": "All right, here we're going to look at some words and phrases that you can use to describe the weather.",
+      "zh": "好吧，这里我们将看看一些你可以用来描述天气的单词和短语。"
+    },
+    {
+      "id": 71,
+      "start": 208.05,
+      "end": 214.39,
+      "en": "Now, the first one, we heard in the weather forecast that they were calling for scattered showers.",
+      "zh": "现在，第一个，我们在天气预报中听说他们呼吁零星阵雨。"
+    },
+    {
+      "id": 72,
+      "start": 214.79,
+      "end": 215.83,
+      "en": "Scattered showers.",
+      "zh": "零散的阵雨。"
+    },
+    {
+      "id": 73,
+      "start": 216.44,
+      "end": 217.44,
+      "en": "Scatter.",
+      "zh": "分散。"
+    },
+    {
+      "id": 74,
+      "start": 217.44,
+      "end": 220.4,
+      "en": "Scattered, if something is scattered.",
+      "zh": "分散的，如果有什么东西是分散的。"
+    },
+    {
+      "id": 75,
+      "start": 220.4,
+      "end": 225.68,
+      "en": "It's sort of like it's a little bit of that thing everywhere.",
+      "zh": "这有点像到处都是那种东西。"
+    },
+    {
+      "id": 76,
+      "start": 225.68,
+      "end": 228.76,
+      "en": "Okay, so and we already talked about what showers were.",
+      "zh": "好吧，我们已经讨论过淋浴是什么。"
+    },
+    {
+      "id": 77,
+      "start": 229.24,
+      "end": 233.4,
+      "en": "Right, so shower is a small amount of rain.",
+      "zh": "对，所以淋浴是少量的雨。"
+    },
+    {
+      "id": 78,
+      "start": 233.4,
+      "end": 234.18,
+      "en": "Okay, very good.",
+      "zh": "好，很好。"
+    },
+    {
+      "id": 79,
+      "start": 234.54,
+      "end": 242.62,
+      "en": "To better understand when something is scattered, imagine that we are in a playground and the children are playing in the playground.",
+      "zh": "为了更好地理解什么时候有东西散落，想象我们在操场上，孩子们在操场上玩耍。"
+    },
+    {
+      "id": 80,
+      "start": 243.32,
+      "end": 244.98,
+      "en": "So the children are scattered everywhere.",
+      "zh": "于是孩子们散落在各处。"
+    },
+    {
+      "id": 81,
+      "start": 245.44,
+      "end": 247.2,
+      "en": "Some of them are playing on the swing.",
+      "zh": "他们中的一些人正在挥舞着。"
+    },
+    {
+      "id": 82,
+      "start": 247.2,
+      "end": 250.2,
+      "en": "Some of them are playing on the grass or in the sandbox.",
+      "zh": "他们中的一些人在草地上或沙箱里玩耍。"
+    },
+    {
+      "id": 83,
+      "start": 250.93,
+      "end": 254.43,
+      "en": "So children, a little bit of children in every different spot.",
+      "zh": "所以孩子们，在每个不同的地方都有一点点孩子。"
+    },
+    {
+      "id": 84,
+      "start": 254.77,
+      "end": 262.11,
+      "en": "So if we think that the city is a playground, maybe in one part of the city there's a little bit of rain but not in the other part.",
+      "zh": "因此，如果我们认为这座城市是一个游乐场，也许在城市的一个地方有一点点雨，但在另一部分却没有。"
+    },
+    {
+      "id": 85,
+      "start": 262.27,
+      "end": 262.51,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 86,
+      "start": 263.01,
+      "end": 263.67,
+      "en": "That's a scattered shower.",
+      "zh": "那是一个零星的淋浴。"
+    },
+    {
+      "id": 87,
+      "start": 264.03,
+      "end": 264.41,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 88,
+      "start": 265.52,
+      "end": 268.6,
+      "en": "Moving on to our second word, we have hovering.",
+      "zh": "继续我们的第二个词，我们有悬停。"
+    },
+    {
+      "id": 89,
+      "start": 268.79,
+      "end": 269.27,
+      "en": "Hovering.",
+      "zh": "徘徊。"
+    },
+    {
+      "id": 90,
+      "start": 270.28,
+      "end": 272.59,
+      "en": "Temperatures hovering around the 30-degree mark.",
+      "zh": "温度徘徊在 30 度左右。"
+    },
+    {
+      "id": 91,
+      "start": 273.32,
+      "end": 274.69,
+      "en": "The temperature is hovering around.",
+      "zh": "温度在周围徘徊。"
+    },
+    {
+      "id": 92,
+      "start": 275.48,
+      "end": 278.23,
+      "en": "Okay, so when I say the temperatures are hovering.",
+      "zh": "好的，所以当我说温度在徘徊时。"
+    },
+    {
+      "id": 93,
+      "start": 279.44,
+      "end": 280.81,
+      "en": "You mean it's approximately.",
+      "zh": "你的意思是它大约是。"
+    },
+    {
+      "id": 94,
+      "start": 281.63,
+      "end": 284.03,
+      "en": "Okay, so they can move up and down.",
+      "zh": "好的，这样他们就可以上下移动。"
+    },
+    {
+      "id": 95,
+      "start": 284.27,
+      "end": 287.77,
+      "en": "So maybe it'll be a little bit warmer than 30 degrees or a little bit colder.",
+      "zh": "所以也许它会比 30 度或更冷一点。"
+    },
+    {
+      "id": 96,
+      "start": 288.21,
+      "end": 288.41,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 97,
+      "start": 288.99,
+      "end": 290.97,
+      "en": "So if you think of hovering as floating.",
+      "zh": "因此，如果您认为悬停是浮动的。"
+    },
+    {
+      "id": 98,
+      "start": 291.67,
+      "end": 292.47,
+      "en": "Okay, very good.",
+      "zh": "好，很好。"
+    },
+    {
+      "id": 99,
+      "start": 292.87,
+      "end": 297.49,
+      "en": "So why don't we listen to some more examples of how we could use hovering in different situations.",
+      "zh": "那么，我们为什么不听更多关于如何在不同情况下使用悬停的例子。"
+    },
+    {
+      "id": 100,
+      "start": 299.88,
+      "end": 302.48,
+      "en": "Example 1.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 101,
+      "start": 302.48,
+      "end": 308.28,
+      "en": "Government rates are hovering around the 10% mark despite the government's attempts to stimulate the economy.",
+      "zh": "尽管政府试图刺激经济，但政府税率仍徘徊在 10% 左右。"
+    },
+    {
+      "id": 102,
+      "start": 308.28,
+      "end": 310.56,
+      "en": "Example 2.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 103,
+      "start": 310.56,
+      "end": 312.28,
+      "en": "The waiters kept hovering around us all night.",
+      "zh": "服务员整晚都在我们身边徘徊。"
+    },
+    {
+      "id": 104,
+      "start": 312.52,
+      "end": 315.84,
+      "en": "It was really annoying.",
+      "zh": "这真的很烦人。"
+    },
+    {
+      "id": 105,
+      "start": 315.84,
+      "end": 318.44,
+      "en": "Example 3.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 106,
+      "start": 318.44,
+      "end": 322.28,
+      "en": "The company's margin this year is hovering around the 40% mark.",
+      "zh": "该公司今年的利润率徘徊在 40% 左右。"
+    },
+    {
+      "id": 107,
+      "start": 322.5,
+      "end": 323.88,
+      "en": "Okay, so pretty clear.",
+      "zh": "好吧，很清楚。"
+    },
+    {
+      "id": 108,
+      "start": 324.2,
+      "end": 327.1,
+      "en": "Hovering is sort of floating around one area.",
+      "zh": "悬停有点漂浮在一个区域周围。"
+    },
+    {
+      "id": 109,
+      "start": 327.76,
+      "end": 328.76,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 110,
+      "start": 328.76,
+      "end": 331.04,
+      "en": "Now, let's move on to the next part.",
+      "zh": "现在，让我们继续下一部分。"
+    },
+    {
+      "id": 111,
+      "start": 331.62,
+      "end": 333.8,
+      "en": "We saw that we're going to have isolated downpours.",
+      "zh": "我们看到我们将孤立倾盆大雨。"
+    },
+    {
+      "id": 112,
+      "start": 334.26,
+      "end": 335.36,
+      "en": "Isolated downpours.",
+      "zh": "孤立的倾盆大雨。"
+    },
+    {
+      "id": 113,
+      "start": 336.12,
+      "end": 337.7,
+      "en": "Isolated downpours.",
+      "zh": "孤立的倾盆大雨。"
+    },
+    {
+      "id": 114,
+      "start": 338.06,
+      "end": 339.42,
+      "en": "Okay, let's break this one down.",
+      "zh": "好吧，让我们分解这一款。"
+    },
+    {
+      "id": 115,
+      "start": 340.52,
+      "end": 341.9,
+      "en": "Let's start with downpour.",
+      "zh": "让我们从倾盆大雨开始。"
+    },
+    {
+      "id": 116,
+      "start": 342.3,
+      "end": 346.02,
+      "en": "A downpour is when you have a lot of rain, very strong rain.",
+      "zh": "倾盆大雨是当您下雨时，雨水非常大。"
+    },
+    {
+      "id": 117,
+      "start": 346.5,
+      "end": 346.76,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 118,
+      "start": 346.96,
+      "end": 349.74,
+      "en": "For maybe a short amount of time, it's really raining heavily.",
+      "zh": "可能很短的时间，下雨真的很大。"
+    },
+    {
+      "id": 119,
+      "start": 350.06,
+      "end": 350.32,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 120,
+      "start": 350.98,
+      "end": 352.62,
+      "en": "So that's what a downpour is.",
+      "zh": "所以这就是一场倾盆大雨。"
+    },
+    {
+      "id": 121,
+      "start": 353.04,
+      "end": 356.04,
+      "en": "And if we take a look at the first word, isolated.",
+      "zh": "如果我们看第一个单词，孤立的。"
+    },
+    {
+      "id": 122,
+      "start": 356.04,
+      "end": 357.66,
+      "en": "So in one small area.",
+      "zh": "所以在一小块区域。"
+    },
+    {
+      "id": 123,
+      "start": 358.2,
+      "end": 360.5,
+      "en": "Okay, confined it to a specific area.",
+      "zh": "好的，将其限制在特定区域。"
+    },
+    {
+      "id": 124,
+      "start": 360.78,
+      "end": 361.0,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 125,
+      "start": 361.52,
+      "end": 363.58,
+      "en": "Okay, so we have an isolated downpour.",
+      "zh": "好吧，所以我们有一个孤立的倾盆大雨。"
+    },
+    {
+      "id": 126,
+      "start": 363.76,
+      "end": 365.82,
+      "en": "It'll be raining in one specific area.",
+      "zh": "一个特定的区域会下雨。"
+    },
+    {
+      "id": 127,
+      "start": 366.28,
+      "end": 368.28,
+      "en": "And you hear this a lot with weather language.",
+      "zh": "你经常用天气语言听到这一点。"
+    },
+    {
+      "id": 128,
+      "start": 368.72,
+      "end": 372.68,
+      "en": "You hear isolated showers, isolated snow storms.",
+      "zh": "你听到孤立的阵雨，孤立的暴风雪。"
+    },
+    {
+      "id": 129,
+      "start": 372.92,
+      "end": 373.12,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 130,
+      "start": 373.46,
+      "end": 375.96,
+      "en": "So it'll be in a specific area only.",
+      "zh": "所以它只会在特定的区域。"
+    },
+    {
+      "id": 131,
+      "start": 376.39,
+      "end": 376.65,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 132,
+      "start": 377.08,
+      "end": 380.95,
+      "en": "So along with these showers and rain, we also talked about wind.",
+      "zh": "因此，随着这些阵雨和雨水，我们还谈到了风。"
+    },
+    {
+      "id": 133,
+      "start": 381.56,
+      "end": 385.61,
+      "en": "And we heard that we will have gusts reaching 23 miles per hour.",
+      "zh": "我们听说我们的阵风将达到每小时 23 英里。"
+    },
+    {
+      "id": 134,
+      "start": 386.04,
+      "end": 389.65,
+      "en": "So we're going to have gusts reaching 23 miles per hour.",
+      "zh": "所以我们的阵风将达到每小时 23 英里。"
+    },
+    {
+      "id": 135,
+      "start": 390.44,
+      "end": 390.91,
+      "en": "Gusts of wind.",
+      "zh": "阵风。"
+    },
+    {
+      "id": 136,
+      "start": 391.47,
+      "end": 395.79,
+      "en": "Okay, so can you explain to our listeners what gusts are?",
+      "zh": "好的，你能向我们的听众解释什么是阵风吗？"
+    },
+    {
+      "id": 137,
+      "start": 396.05,
+      "end": 399.73,
+      "en": "Okay, so a gust is a sudden increase in the amount of wind.",
+      "zh": "好吧，风量是突然增加的风量。"
+    },
+    {
+      "id": 138,
+      "start": 400.2,
+      "end": 404.98,
+      "en": "Okay, so maybe we'll have normal wind and all of a sudden it will get really windy.",
+      "zh": "好吧，所以也许我们会有正常的风，突然间它会变得非常有风。"
+    },
+    {
+      "id": 139,
+      "start": 405.12,
+      "end": 405.36,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 140,
+      "start": 405.4,
+      "end": 406.4,
+      "en": "For a short amount of time.",
+      "zh": "在很短的时间内。"
+    },
+    {
+      "id": 141,
+      "start": 406.58,
+      "end": 407.4,
+      "en": "Okay, that's a gust.",
+      "zh": "好吧，这是一个阵风。"
+    },
+    {
+      "id": 142,
+      "start": 408.28,
+      "end": 409.76,
+      "en": "G-U-S-T, gust.",
+      "zh": "G-U-S-T，阵风。"
+    },
+    {
+      "id": 143,
+      "start": 409.76,
+      "end": 410.92,
+      "en": "Gust of wind.",
+      "zh": "阵风。"
+    },
+    {
+      "id": 144,
+      "start": 410.92,
+      "end": 414.86,
+      "en": "And for our final word on Language Takeaway today, we're going to have sleet.",
+      "zh": "对于我们今天关于语言外卖的最后一句话，我们将有雨夹雪。"
+    },
+    {
+      "id": 145,
+      "start": 415.32,
+      "end": 415.74,
+      "en": "Sleet.",
+      "zh": "雨夹雪。"
+    },
+    {
+      "id": 146,
+      "start": 416.12,
+      "end": 417.12,
+      "en": "Sleet.",
+      "zh": "雨夹雪。"
+    },
+    {
+      "id": 147,
+      "start": 417.97,
+      "end": 420.37,
+      "en": "All right, sleet is a terrible kind of weather.",
+      "zh": "好吧，雨夹雪是一种可怕的天气。"
+    },
+    {
+      "id": 148,
+      "start": 420.84,
+      "end": 423.67,
+      "en": "It's sort of a mixture between snow and rain.",
+      "zh": "这是雪和雨之间的混合。"
+    },
+    {
+      "id": 149,
+      "start": 424.76,
+      "end": 429.67,
+      "en": "So sleet is kind of this strange mix between ice and rain and snow.",
+      "zh": "所以雨夹雪是冰雪雨雪之间的这种奇怪组合。"
+    },
+    {
+      "id": 150,
+      "start": 430.3,
+      "end": 435.85,
+      "en": "So just imagine, it's not completely ice, so it's not solid, but it's not water, right?",
+      "zh": "所以想象一下，它不是完全冰，所以它不是固体，但它不是水，对吧？"
+    },
+    {
+      "id": 151,
+      "start": 436.0,
+      "end": 436.41,
+      "en": "It's not rain.",
+      "zh": "这不是下雨。"
+    },
+    {
+      "id": 152,
+      "start": 437.0,
+      "end": 438.0,
+      "en": "And it's not snow either.",
+      "zh": "而且它也不是雪。"
+    },
+    {
+      "id": 153,
+      "start": 438.0,
+      "end": 438.73,
+      "en": "No, it's in the middle.",
+      "zh": "不，它在中间。"
+    },
+    {
+      "id": 154,
+      "start": 439.0,
+      "end": 439.17,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 155,
+      "start": 439.39,
+      "end": 440.53,
+      "en": "All right, so sleet.",
+      "zh": "好吧，所以雨夹雪。"
+    },
+    {
+      "id": 156,
+      "start": 440.85,
+      "end": 442.57,
+      "en": "But what you really need to know is that it's terrible.",
+      "zh": "但你真正需要知道的是它很糟糕。"
+    },
+    {
+      "id": 157,
+      "start": 443.43,
+      "end": 446.88,
+      "en": "All right, so that's all the words we have today for Language Takeaway.",
+      "zh": "好吧，这就是我们今天为语言外卖所用的所有词。"
+    },
+    {
+      "id": 158,
+      "start": 447.72,
+      "end": 449.6,
+      "en": "Let's move on now to Fluency Builder.",
+      "zh": "现在让我们继续讨论 Flueny Builder。"
+    },
+    {
+      "id": 159,
+      "start": 452.32,
+      "end": 453.32,
+      "en": "Fluency Builder.",
+      "zh": "流利表达。"
+    },
+    {
+      "id": 160,
+      "start": 453.96,
+      "end": 461.68,
+      "en": "All right, in Fluency Builder today, we're going to look at three phrases that are really common when you're talking about the weather.",
+      "zh": "好吧，在 Fluency Builder 中，我们将看看当您谈论天气时非常常见的三个短语。"
+    },
+    {
+      "id": 161,
+      "start": 461.68,
+      "end": 465.31,
+      "en": "Now we heard in the dialogue that there was a cold front moving in.",
+      "zh": "现在我们在对话中听说有一个冷锋进入。"
+    },
+    {
+      "id": 162,
+      "start": 465.96,
+      "end": 468.12,
+      "en": "A cold front moving in.",
+      "zh": "一个冷锋进入。"
+    },
+    {
+      "id": 163,
+      "start": 468.12,
+      "end": 469.92,
+      "en": "A cold front is moving in.",
+      "zh": "冷锋正在进来。"
+    },
+    {
+      "id": 164,
+      "start": 470.01,
+      "end": 471.27,
+      "en": "Okay, so a cold front.",
+      "zh": "好吧，所以冷锋。"
+    },
+    {
+      "id": 165,
+      "start": 472.28,
+      "end": 479.65,
+      "en": "Imagine a wall of cold air and it comes towards a place and then it changes the pressure in the atmosphere.",
+      "zh": "想象一下一堵冷空气墙，它朝一个地方走来，然后它改变了大气中的压力。"
+    },
+    {
+      "id": 166,
+      "start": 480.19,
+      "end": 485.59,
+      "en": "Okay, so a very sudden amount of cold air that comes into a place.",
+      "zh": "好的，所以突然有大量的冷空气进入一个地方。"
+    },
+    {
+      "id": 167,
+      "start": 485.84,
+      "end": 486.84,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 168,
+      "start": 486.84,
+      "end": 488.93,
+      "en": "So we say a cold front is moving in.",
+      "zh": "所以我们说冷锋正在进入。"
+    },
+    {
+      "id": 169,
+      "start": 490.36,
+      "end": 494.36,
+      "en": "So we always think of these cold fronts or warm fronts as moving.",
+      "zh": "所以我们总是认为这些冷锋或暖锋是移动的。"
+    },
+    {
+      "id": 170,
+      "start": 494.36,
+      "end": 498.69,
+      "en": "So you can either say they're moving in or you can say a cold front is coming in.",
+      "zh": "所以你可以说他们要搬进来，或者你可以说冷锋正在进来。"
+    },
+    {
+      "id": 171,
+      "start": 498.97,
+      "end": 500.05,
+      "en": "Okay, very good.",
+      "zh": "好，很好。"
+    },
+    {
+      "id": 172,
+      "start": 501.04,
+      "end": 507.6,
+      "en": "And okay, we have a cold front that's moving in and we're going to have winds that will be coming in from the northeast.",
+      "zh": "好吧，我们有一个冷锋正在进入，我们将有来自东北部的风。"
+    },
+    {
+      "id": 173,
+      "start": 507.76,
+      "end": 509.4,
+      "en": "Okay, winds coming in from.",
+      "zh": "好吧，风来了。"
+    },
+    {
+      "id": 174,
+      "start": 509.8,
+      "end": 511.64,
+      "en": "Okay, winds coming in from.",
+      "zh": "好吧，风来了。"
+    },
+    {
+      "id": 175,
+      "start": 512.08,
+      "end": 513.98,
+      "en": "So when I say it's coming in from.",
+      "zh": "所以当我说它是进来的时候。"
+    },
+    {
+      "id": 176,
+      "start": 514.34,
+      "end": 517.02,
+      "en": "You're talking about its origin, where it starts.",
+      "zh": "你说的是它的起源，它的起点。"
+    },
+    {
+      "id": 177,
+      "start": 517.54,
+      "end": 523.34,
+      "en": "Okay, so if I change the noun and I don't say winds anymore but maybe I'll say my friends.",
+      "zh": "好吧，所以如果我改变名词并且我不再说风，但也许我会说我的朋友们。"
+    },
+    {
+      "id": 178,
+      "start": 523.72,
+      "end": 526.51,
+      "en": "My friends are coming in from Chicago.",
+      "zh": "我的朋友是从芝加哥来的。"
+    },
+    {
+      "id": 179,
+      "start": 527.44,
+      "end": 529.33,
+      "en": "So they are arriving from Chicago.",
+      "zh": "所以他们从芝加哥抵达。"
+    },
+    {
+      "id": 180,
+      "start": 529.84,
+      "end": 530.84,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 181,
+      "start": 530.84,
+      "end": 531.84,
+      "en": "So what else can I say?",
+      "zh": "那我还能说什么呢？"
+    },
+    {
+      "id": 182,
+      "start": 531.84,
+      "end": 534.53,
+      "en": "Or you can also say the kids are coming in from outside.",
+      "zh": "或者你也可以说孩子们是从外面进来的。"
+    },
+    {
+      "id": 183,
+      "start": 535.17,
+      "end": 537.27,
+      "en": "Okay, so where they were before.",
+      "zh": "好吧，他们以前在哪里。"
+    },
+    {
+      "id": 184,
+      "start": 538.36,
+      "end": 539.36,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 185,
+      "start": 539.36,
+      "end": 539.75,
+      "en": "So coming in from.",
+      "zh": "所以从中进来。"
+    },
+    {
+      "id": 186,
+      "start": 540.36,
+      "end": 543.07,
+      "en": "You can change the noun a little bit and you can form these new sentences.",
+      "zh": "你可以稍微改变名词，你可以形成这些新句子。"
+    },
+    {
+      "id": 187,
+      "start": 543.63,
+      "end": 543.85,
+      "en": "Great.",
+      "zh": "太好了。"
+    },
+    {
+      "id": 188,
+      "start": 544.17,
+      "end": 545.51,
+      "en": "Now our final phrase.",
+      "zh": "现在是我们的最后一句话。"
+    },
+    {
+      "id": 189,
+      "start": 545.61,
+      "end": 548.81,
+      "en": "We heard the announcer say it's going to be a cold one.",
+      "zh": "我们听到播音员说这将是一种冷淡的。"
+    },
+    {
+      "id": 190,
+      "start": 549.64,
+      "end": 551.08,
+      "en": "It's going to be a cold one.",
+      "zh": "明天会很冷。"
+    },
+    {
+      "id": 191,
+      "start": 551.08,
+      "end": 552.6,
+      "en": "It's going to be a cold one.",
+      "zh": "明天会很冷。"
+    },
+    {
+      "id": 192,
+      "start": 552.6,
+      "end": 554.97,
+      "en": "So I have this phrase, it's going to be a cold one.",
+      "zh": "所以我有这句话，它会很冷。"
+    },
+    {
+      "id": 193,
+      "start": 555.32,
+      "end": 556.77,
+      "en": "What do I mean by a cold one?",
+      "zh": "我说的冷的是什么意思？"
+    },
+    {
+      "id": 194,
+      "start": 557.11,
+      "end": 560.35,
+      "en": "Okay, so the one represents the event.",
+      "zh": "好的，那一代表事件。"
+    },
+    {
+      "id": 195,
+      "start": 560.8,
+      "end": 561.8,
+      "en": "Of the day.",
+      "zh": "当天。"
+    },
+    {
+      "id": 196,
+      "start": 561.8,
+      "end": 564.16,
+      "en": "Okay, so it's going to be a cold day.",
+      "zh": "好吧，这将是一个寒冷的一天。"
+    },
+    {
+      "id": 197,
+      "start": 564.31,
+      "end": 564.45,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 198,
+      "start": 564.91,
+      "end": 565.21,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 199,
+      "start": 565.75,
+      "end": 569.13,
+      "en": "Now we can obviously change the adjective, right?",
+      "zh": "现在我们显然可以改变形容词，对吧？"
+    },
+    {
+      "id": 200,
+      "start": 569.32,
+      "end": 573.4,
+      "en": "So it's going to be a hot one, it's going to be a long one, it's going to be a long day.",
+      "zh": "所以这将是一个热门的，它将是一个漫长的一天，这将是漫长的一天。"
+    },
+    {
+      "id": 201,
+      "start": 573.4,
+      "end": 574.4,
+      "en": "Alright.",
+      "zh": "好的。"
+    },
+    {
+      "id": 202,
+      "start": 574.4,
+      "end": 575.71,
+      "en": "But the one can mean anything.",
+      "zh": "但那一意味着什么。"
+    },
+    {
+      "id": 203,
+      "start": 576.36,
+      "end": 579.3,
+      "en": "Okay, so it can be a day, it can be an event.",
+      "zh": "好的，所以它可以是一天，它可以是一个事件。"
+    },
+    {
+      "id": 204,
+      "start": 579.4,
+      "end": 579.78,
+      "en": "A meeting.",
+      "zh": "一次会议。"
+    },
+    {
+      "id": 205,
+      "start": 580.52,
+      "end": 580.78,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 206,
+      "start": 581.02,
+      "end": 581.48,
+      "en": "A project.",
+      "zh": "一个项目。"
+    },
+    {
+      "id": 207,
+      "start": 581.96,
+      "end": 586.3,
+      "en": "So for example, if we're going to a meeting, I might say, hey Marco, this is going to be a hard one.",
+      "zh": "因此，例如，如果我们要去开会，我可能会说，嘿，马可，这将是一场艰难的会议。"
+    },
+    {
+      "id": 208,
+      "start": 586.66,
+      "end": 589.26,
+      "en": "Okay, so the one represents the meeting.",
+      "zh": "好的，那一代表会。"
+    },
+    {
+      "id": 209,
+      "start": 589.52,
+      "end": 589.72,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 210,
+      "start": 590.38,
+      "end": 591.06,
+      "en": "A hard meeting.",
+      "zh": "艰难的会议。"
+    },
+    {
+      "id": 211,
+      "start": 591.6,
+      "end": 603.92,
+      "en": "Alright, I think this is a very good phrase and it's very commonly used, so why don't we listen to some more examples of how we can use it's going to be a something one.",
+      "zh": "好吧，我认为这是一个非常好的短语，并且非常常用，所以我们为什么不听一些关于我们如何使用它的例子。"
+    },
+    {
+      "id": 212,
+      "start": 603.92,
+      "end": 604.22,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 213,
+      "start": 605.92,
+      "end": 608.65,
+      "en": "Temperatures are forecasted to hit 37 degrees today.",
+      "zh": "预计今天的气温将达到 37 度。"
+    },
+    {
+      "id": 214,
+      "start": 609.16,
+      "end": 610.19,
+      "en": "It's going to be a hot one, folks.",
+      "zh": "伙计们，这将是一场热门的比赛。"
+    },
+    {
+      "id": 215,
+      "start": 612.44,
+      "end": 614.6,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 216,
+      "start": 614.6,
+      "end": 617.18,
+      "en": "It's only 8am and I've got a hundred emails already.",
+      "zh": "现在只有早上 8 点，我已经收到了一百封电子邮件。"
+    },
+    {
+      "id": 217,
+      "start": 617.96,
+      "end": 621.8,
+      "en": "It's going to be a long one today.",
+      "zh": "今天将是一个漫长的。"
+    },
+    {
+      "id": 218,
+      "start": 621.8,
+      "end": 622.8,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 219,
+      "start": 623.68,
+      "end": 625.28,
+      "en": "I haven't studied at all for the exam.",
+      "zh": "我根本没有为考试学习。"
+    },
+    {
+      "id": 220,
+      "start": 625.92,
+      "end": 627.92,
+      "en": "It's going to be a tough one.",
+      "zh": "这将是一场艰难的比赛。"
+    },
+    {
+      "id": 221,
+      "start": 628.53,
+      "end": 638.17,
+      "en": "Okay, so some great examples and I think it's time for us to listen to this dialogue again and now we can understand all these words and phrases that we've just talked about.",
+      "zh": "好的，所以一些很好的例子，我认为是时候再次听这个对话了，现在我们可以理解我们刚刚谈到的所有这些单词和短语。"
+    },
+    {
+      "id": 222,
+      "start": 639.82,
+      "end": 643.22,
+      "en": "And now, let's go to Kenny Williams for today's weather forecast.",
+      "zh": "现在，让我们去肯尼威廉姆斯进行今天的天气预报。"
+    },
+    {
+      "id": 223,
+      "start": 643.62,
+      "end": 645.94,
+      "en": "Thank you Bill and good morning Salt Lake City.",
+      "zh": "谢谢比尔和早上好盐湖城。"
+    },
+    {
+      "id": 224,
+      "start": 646.67,
+      "end": 647.99,
+      "en": "What's the weather looking like today, Kenny?",
+      "zh": "肯尼，今天的天气怎么样？"
+    },
+    {
+      "id": 225,
+      "start": 648.36,
+      "end": 650.64,
+      "en": "Well, it's a bit of a mixed bag in Utah today.",
+      "zh": "今天犹他州各地的天气不太一样。"
+    },
+    {
+      "id": 226,
+      "start": 650.64,
+      "end": 656.01,
+      "en": "We've got heavy cloud cover here in northern Utah and we're calling for scattered showers throughout the day with a daytime high of 45 degrees.",
+      "zh": "我们在犹他州北部有大量的云层，我们呼吁全天以 45 度的高点进行零星阵雨。"
+    },
+    {
+      "id": 227,
+      "start": 656.33,
+      "end": 660.23,
+      "en": "Now, if we move down to the south of the state, we can see that a cold front is moving in.",
+      "zh": "再看该州南部，一股冷锋正移入。"
+    },
+    {
+      "id": 228,
+      "start": 660.59,
+      "end": 665.21,
+      "en": "We can expect clear skies, but it will be quite cold with temperatures hovering around the 30 degree mark.",
+      "zh": "我们可以期待晴朗的天空，但天气会非常寒冷，气温徘徊在 30 度左右。"
+    },
+    {
+      "id": 229,
+      "start": 665.53,
+      "end": 668.23,
+      "en": "It's a chilly day, folks, so don't forget your coats.",
+      "zh": "今天挺冷的，各位别忘了穿外套。"
+    },
+    {
+      "id": 230,
+      "start": 668.95,
+      "end": 670.03,
+      "en": "What about tomorrow, Kenny?",
+      "zh": "肯尼，明天呢？"
+    },
+    {
+      "id": 231,
+      "start": 670.67,
+      "end": 671.61,
+      "en": "Do you have good news for us?",
+      "zh": "你有好消息要告诉我们吗？"
+    },
+    {
+      "id": 232,
+      "start": 672.13,
+      "end": 674.09,
+      "en": "Well, it'll be a rainy day for northern Utah.",
+      "zh": "犹他州北部明天会下雨。"
+    },
+    {
+      "id": 233,
+      "start": 674.48,
+      "end": 677.12,
+      "en": "We can expect some isolated downpours in the morning.",
+      "zh": "早晨局部地区可能有大雨。"
+    },
+    {
+      "id": 234,
+      "start": 677.12,
+      "end": 680.27,
+      "en": "Winds will be coming in from the northeast with gusts reaching 23 miles per hour.",
+      "zh": "风将从东北部吹来，阵风达到每小时 23 英里。"
+    },
+    {
+      "id": 235,
+      "start": 680.76,
+      "end": 683.92,
+      "en": "Salt Lake City can expect the rain to turn to sleet in the evening.",
+      "zh": "盐湖城傍晚可能由雨转为雨夹雪。"
+    },
+    {
+      "id": 236,
+      "start": 683.92,
+      "end": 685.45,
+      "en": "Things are looking a bit better for the south.",
+      "zh": "南部的情况要好一些。"
+    },
+    {
+      "id": 237,
+      "start": 686.48,
+      "end": 687.91,
+      "en": "We'll see cloudy skies with a chance of showers.",
+      "zh": "多云，有阵雨的可能。"
+    },
+    {
+      "id": 238,
+      "start": 688.6,
+      "end": 693.12,
+      "en": "Later in the day, we can expect partly cloudy skies with a forecast high of 38 degrees.",
+      "zh": "当天晚些时候，我们可以期待部分多云的天空，预测高位为 38 度。"
+    },
+    {
+      "id": 239,
+      "start": 693.12,
+      "end": 693.59,
+      "en": "You heard it, folks.",
+      "zh": "各位都听到了吧。"
+    },
+    {
+      "id": 240,
+      "start": 694.12,
+      "end": 694.87,
+      "en": "It's going to be a cold one.",
+      "zh": "明天会很冷。"
+    },
+    {
+      "id": 241,
+      "start": 695.24,
+      "end": 695.67,
+      "en": "That's right, Bill.",
+      "zh": "没错，比尔。"
+    },
+    {
+      "id": 242,
+      "start": 696.72,
+      "end": 698.95,
+      "en": "We'll have more later on today on the 6 o'clock news.",
+      "zh": "更多天气消息请关注今晚六点新闻。"
+    },
+    {
+      "id": 243,
+      "start": 699.64,
+      "end": 700.83,
+      "en": "That's the weather forecast for this morning.",
+      "zh": "以上就是今早的天气预报。"
+    },
+    {
+      "id": 244,
+      "start": 707.12,
+      "end": 715.14,
+      "en": "Okay, so we know that in English-speaking countries, the weather is always, always, always a great subject of conversation for small talk, right?",
+      "zh": "好的，所以我们知道在英语国家，天气总是，总是，总是一个很好的闲聊话题，对吧？"
+    },
+    {
+      "id": 245,
+      "start": 715.76,
+      "end": 716.76,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 246,
+      "start": 716.76,
+      "end": 720.52,
+      "en": "If you ever want to talk to somebody or start a conversation, the weather is always the number one topic.",
+      "zh": "如果您想与某人交谈或开始对话，天气始终是第一大话题。"
+    },
+    {
+      "id": 247,
+      "start": 720.84,
+      "end": 721.84,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 248,
+      "start": 721.84,
+      "end": 725.14,
+      "en": "And we actually have a phrase in this dialogue that would be great for starting a conversation.",
+      "zh": "实际上，我们在这次对话中有一个短语，非常适合开始对话。"
+    },
+    {
+      "id": 249,
+      "start": 725.84,
+      "end": 734.2,
+      "en": "Like for example, imagine if you lived here in Utah and you were, you know, wanting to start a conversation with someone, you could say, it sure is a cold one today, isn't it?",
+      "zh": "例如，想象一下，想象一下，如果你住在犹他州，你知道，想要与某人开始对话，你可以说，它今天肯定是一种冷酷的对话，不是吗？"
+    },
+    {
+      "id": 250,
+      "start": 734.44,
+      "end": 734.76,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 251,
+      "start": 735.56,
+      "end": 740.9,
+      "en": "That's a great way of starting a conversation and English-speaking people love to talk about the weather, as you say.",
+      "zh": "正如你所说，这是开始对话的好方法，说英语的人喜欢谈论天气。"
+    },
+    {
+      "id": 252,
+      "start": 741.26,
+      "end": 741.66,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 253,
+      "start": 742.2,
+      "end": 750.12,
+      "en": "So, guys, if you have any questions about weather vocabulary or if you want to practice talking about the weather, come to our website at EnglishPod.com.",
+      "zh": "所以，伙计们，如果您对天气词汇有任何疑问，或者您想练习谈论天气，请访问我们的网站 englishpod.com。"
+    },
+    {
+      "id": 254,
+      "start": 750.82,
+      "end": 751.1,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 255,
+      "start": 751.12,
+      "end": 755.16,
+      "en": "Erica and I are always there to answer any questions or doubts you may have.",
+      "zh": "Erica 和我总是在那里回答您可能有的任何问题或疑问。"
+    },
+    {
+      "id": 256,
+      "start": 755.16,
+      "end": 759.84,
+      "en": "And also, if you have any stories about crazy weather maybe in the countries you're from, let us know.",
+      "zh": "而且，如果您有任何关于您所在国家/地区的疯狂天气的故事，请告诉我们。"
+    },
+    {
+      "id": 257,
+      "start": 760.48,
+      "end": 763.48,
+      "en": "So, thanks for downloading, you guys, and until next time, goodbye.",
+      "zh": "所以，感谢您的下载，你们，直到下一次，再见。"
+    },
+    {
+      "id": 258,
+      "start": 763.48,
+      "end": 772.571,
+      "en": "Bye.",
+      "zh": "再见。"
+    }
+  ],
+  "dialog": {
+    "start": 108.31,
+    "end": 169.3,
+    "segmentIds": [
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62
+    ]
+  }
+}

@@ -1,0 +1,2048 @@
+{
+  "version": 1,
+  "id": 317,
+  "number": "0317",
+  "title": "The Office - First Paycheck",
+  "audio": "mp3/317. The Office - First Paycheck.mp3",
+  "duration": 982.02125,
+  "segments": [
+    {
+      "id": 1,
+      "start": 2.26,
+      "end": 4.38,
+      "en": "Hello everyone and welcome to EnglishPod.",
+      "zh": "大家好，欢迎来到 EnglishPod。"
+    },
+    {
+      "id": 2,
+      "start": 4.6,
+      "end": 5.72,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 5.72,
+      "end": 9.42,
+      "en": "My name is Catherine and today we have a very complicated topic for you.",
+      "zh": "我的名字是凯瑟琳，今天我们有一个非常复杂的话题给你。"
+    },
+    {
+      "id": 4,
+      "start": 9.62,
+      "end": 9.96,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 5,
+      "start": 10.16,
+      "end": 20.8,
+      "en": "This is an upper intermediate lesson, a little bit more difficult and we're talking all about taxes, paychecks and all the information for when you work in the United States.",
+      "zh": "这是上级中级课程，有点困难，我们谈论的是税收、薪水和您在美国工作时的所有信息。"
+    },
+    {
+      "id": 6,
+      "start": 21.06,
+      "end": 21.38,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 7,
+      "start": 21.54,
+      "end": 22.86,
+      "en": "It confuses me and I'm American.",
+      "zh": "它让我感到困惑，我是美国人。"
+    },
+    {
+      "id": 8,
+      "start": 23.34,
+      "end": 24.84,
+      "en": "So take a close listen.",
+      "zh": "所以仔细听。"
+    },
+    {
+      "id": 9,
+      "start": 25.08,
+      "end": 29.04,
+      "en": "We're going to listen to this dialogue one time and we'll be back in a moment to discuss what's going on.",
+      "zh": "我们将有一次听这个对话，我们会在一会儿回来讨论正在发生的事情。"
+    },
+    {
+      "id": 10,
+      "start": 30.4,
+      "end": 38.52,
+      "en": "Hey, Susan, have you got a sec?",
+      "zh": "嘿，苏珊，你有空吗？"
+    },
+    {
+      "id": 11,
+      "start": 38.6,
+      "end": 39.92,
+      "en": "I have some questions about my paycheck.",
+      "zh": "我有一些关于我的薪水的问题。"
+    },
+    {
+      "id": 12,
+      "start": 40.66,
+      "end": 41.38,
+      "en": "You bet, Emily.",
+      "zh": "当然可以，艾米丽。"
+    },
+    {
+      "id": 13,
+      "start": 41.82,
+      "end": 42.18,
+      "en": "Pull up a chair.",
+      "zh": "搬把椅子坐吧。"
+    },
+    {
+      "id": 14,
+      "start": 42.82,
+      "end": 47.04,
+      "en": "Well, this is my first paycheck here in the States and there are a few things I don't understand.",
+      "zh": "好吧，这是我在美国的第一次薪水，有些事情我不明白。"
+    },
+    {
+      "id": 15,
+      "start": 48.16,
+      "end": 56.74,
+      "en": "First off, what is this FICA and SUI SDI tax and why are there deductions both from Medicare and from my health insurance plan?",
+      "zh": "首先，这个 FICA 和 SUI SDI 税是什么，为什么 Medicare 和我的健康保险计划中都有扣除额？"
+    },
+    {
+      "id": 16,
+      "start": 57.68,
+      "end": 61.36,
+      "en": "OK, let's start from the top of your pay stub.",
+      "zh": "好的，让我们从您的工资单顶部开始。"
+    },
+    {
+      "id": 17,
+      "start": 61.36,
+      "end": 63.69,
+      "en": "This number here represents your gross pay.",
+      "zh": "这个数字代表您的总工资。"
+    },
+    {
+      "id": 18,
+      "start": 64.04,
+      "end": 65.67,
+      "en": "Yes, that's easy enough to understand.",
+      "zh": "是的，这很容易理解。"
+    },
+    {
+      "id": 19,
+      "start": 66.3,
+      "end": 68.14,
+      "en": "Then here we have a series of deductions.",
+      "zh": "然后在这里我们有一系列的扣除。"
+    },
+    {
+      "id": 20,
+      "start": 69.36,
+      "end": 71.16,
+      "en": "First off are the federal ones.",
+      "zh": "首先是联邦的。"
+    },
+    {
+      "id": 21,
+      "start": 71.16,
+      "end": 75.5,
+      "en": "FICA stands for Federal Insurance Contribution Act or something like that.",
+      "zh": "FICA 代表联邦保险缴款法或类似的东西。"
+    },
+    {
+      "id": 22,
+      "start": 76.08,
+      "end": 77.1,
+      "en": "It's your federal income tax.",
+      "zh": "这是你的联邦所得税。"
+    },
+    {
+      "id": 23,
+      "start": 77.72,
+      "end": 84.42,
+      "en": "And then there's Social Security and Medicare, which are both federal programs to help you out after you retire or if you are unable to work.",
+      "zh": "然后是社会保障和医疗保险，这两个都是联邦计划，可以在您退休或无法工作后帮助您。"
+    },
+    {
+      "id": 24,
+      "start": 84.72,
+      "end": 86.4,
+      "en": "All right, I see.",
+      "zh": "好吧，我明白了。"
+    },
+    {
+      "id": 25,
+      "start": 86.4,
+      "end": 89.58,
+      "en": "So the Medicare isn't actually a health insurance I can use now.",
+      "zh": "所以医疗保险实际上不是我现在可以使用的健康保险。"
+    },
+    {
+      "id": 26,
+      "start": 90.64,
+      "end": 90.92,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 27,
+      "start": 91.64,
+      "end": 94.68,
+      "en": "Below the federal deductions are the state deductions.",
+      "zh": "联邦扣除额以下是州扣除额。"
+    },
+    {
+      "id": 28,
+      "start": 94.68,
+      "end": 95.81,
+      "en": "There's the state income tax.",
+      "zh": "有州所得税。"
+    },
+    {
+      "id": 29,
+      "start": 96.44,
+      "end": 104.63,
+      "en": "And then this SUI SDI tax you were asking about is paying into an unemployment and or disability fund that our state has set up.",
+      "zh": "然后你问的这个sui sdi税是支付我们州设立的失业和/或残疾基金。"
+    },
+    {
+      "id": 30,
+      "start": 105.08,
+      "end": 107.45,
+      "en": "But you can see that it's a pretty small quantity that they take.",
+      "zh": "但你可以看到，这是一个相当少的数量。"
+    },
+    {
+      "id": 31,
+      "start": 107.93,
+      "end": 110.31,
+      "en": "Yeah, I don't mind giving them a dollar fifty for that.",
+      "zh": "嗯，扣一块五美元，我倒不介意。"
+    },
+    {
+      "id": 32,
+      "start": 111.32,
+      "end": 116.25,
+      "en": "So there are two separate income taxes, one at a state level and one at a federal level.",
+      "zh": "因此，有两种独立的所得税，一种是在州一级，一种是联邦一级的。"
+    },
+    {
+      "id": 33,
+      "start": 117.16,
+      "end": 117.35,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 34,
+      "start": 118.32,
+      "end": 119.47,
+      "en": "Not all states have an income tax.",
+      "zh": "并非所有州都有所得税。"
+    },
+    {
+      "id": 35,
+      "start": 120.16,
+      "end": 122.91,
+      "en": "Some use higher property taxes or sales taxes instead.",
+      "zh": "有些人使用更高的财产税或销售税。"
+    },
+    {
+      "id": 36,
+      "start": 124.0,
+      "end": 124.31,
+      "en": "I see.",
+      "zh": "我明白了。"
+    },
+    {
+      "id": 37,
+      "start": 125.0,
+      "end": 126.0,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 38,
+      "start": 126.0,
+      "end": 128.27,
+      "en": "Well, I think everything else I can figure out on my own.",
+      "zh": "好吧，我认为我自己能弄清楚的其他一切。"
+    },
+    {
+      "id": 39,
+      "start": 129.0,
+      "end": 134.4,
+      "en": "The deductions for health insurance and my 401k are pretty self-explanatory.",
+      "zh": "健康保险的扣除额和我的 401k 是不言自明的。"
+    },
+    {
+      "id": 40,
+      "start": 134.4,
+      "end": 134.95,
+      "en": "Thanks for your help, Susan.",
+      "zh": "谢谢你的帮助，苏珊。"
+    },
+    {
+      "id": 41,
+      "start": 135.54,
+      "end": 135.85,
+      "en": "No problem.",
+      "zh": "没问题。"
+    },
+    {
+      "id": 42,
+      "start": 136.76,
+      "end": 140.69,
+      "en": "All those deductions do add up and nobody's net pay is as high as they'd like.",
+      "zh": "这些扣款加在一起可不少，谁的到手工资都没自己希望的那么高。"
+    },
+    {
+      "id": 43,
+      "start": 141.36,
+      "end": 142.89,
+      "en": "I can understand why you'd want some explanation.",
+      "zh": "我能理解你为什么想要一些解释。"
+    },
+    {
+      "id": 44,
+      "start": 143.69,
+      "end": 145.29,
+      "en": "Yeah, I guess it's the same in the UK.",
+      "zh": "是的，我想在英国也是如此。"
+    },
+    {
+      "id": 45,
+      "start": 145.91,
+      "end": 146.91,
+      "en": "I just never paid much attention.",
+      "zh": "我只是从来没有关注过。"
+    },
+    {
+      "id": 46,
+      "start": 147.49,
+      "end": 147.89,
+      "en": "See you later.",
+      "zh": "回头见。"
+    },
+    {
+      "id": 47,
+      "start": 148.64,
+      "end": 152.76,
+      "en": "All right, we're back.",
+      "zh": "好了，我们回来了。"
+    },
+    {
+      "id": 48,
+      "start": 152.76,
+      "end": 158.25,
+      "en": "So obviously a lot of vocab there, a lot of acronyms as well, like FICA and all that stuff.",
+      "zh": "所以很明显那里有很多词汇，也有很多首字母缩略词，比如 FICA 和所有这些东西。"
+    },
+    {
+      "id": 49,
+      "start": 158.87,
+      "end": 160.51,
+      "en": "We'll take a look at that in a little bit.",
+      "zh": "我们稍后会看看。"
+    },
+    {
+      "id": 50,
+      "start": 160.83,
+      "end": 163.59,
+      "en": "First, let's start off with some language on Language Takeaway.",
+      "zh": "首先，让我们从一些语言外卖的语言开始。"
+    },
+    {
+      "id": 51,
+      "start": 166.24,
+      "end": 167.16,
+      "en": "Language Takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 52,
+      "start": 168.9,
+      "end": 172.24,
+      "en": "So when you get paid, there's a very important number you want to look at or a couple of numbers.",
+      "zh": "因此，当您获得报酬时，您需要查看一个非常重要的数字或几个数字。"
+    },
+    {
+      "id": 53,
+      "start": 173.24,
+      "end": 174.24,
+      "en": "These are called deductions.",
+      "zh": "这些被称为扣除。"
+    },
+    {
+      "id": 54,
+      "start": 174.24,
+      "end": 176.4,
+      "en": "Now, why do deductions make people sad, Marco?",
+      "zh": "现在，为什么扣除让人伤心，马可？"
+    },
+    {
+      "id": 55,
+      "start": 177.48,
+      "end": 180.42,
+      "en": "Because a deduction is to take away or reduce.",
+      "zh": "因为扣除是拿走或减少。"
+    },
+    {
+      "id": 56,
+      "start": 181.16,
+      "end": 190.12,
+      "en": "So obviously if your salary is, let's say, $1,000 and you have $500 deductions, then you only get five instead of 1,000.",
+      "zh": "所以很明显，如果你的薪水是 1,000 美元，而且你有 500 美元的扣除，那么你只得到 5 而不是 1,000。"
+    },
+    {
+      "id": 57,
+      "start": 190.16,
+      "end": 190.36,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 58,
+      "start": 191.12,
+      "end": 194.52,
+      "en": "So deductions mean what money is being taken away from you.",
+      "zh": "因此，扣除意味着从您身上拿走了什么钱。"
+    },
+    {
+      "id": 59,
+      "start": 194.8,
+      "end": 195.8,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 60,
+      "start": 195.8,
+      "end": 199.96,
+      "en": "So that's money that's deducted for certain taxes or certain programs.",
+      "zh": "所以这是为某些税收或某些计划扣除的钱。"
+    },
+    {
+      "id": 61,
+      "start": 199.96,
+      "end": 204.24,
+      "en": "It's important to remember that deduct, to deduct, is the opposite of to add.",
+      "zh": "重要的是要记住，扣除，扣除，与要补充的相反。"
+    },
+    {
+      "id": 62,
+      "start": 204.44,
+      "end": 205.04,
+      "en": "It means to take away.",
+      "zh": "它的意思是带走。"
+    },
+    {
+      "id": 63,
+      "start": 205.28,
+      "end": 206.32,
+      "en": "To take away, that's right.",
+      "zh": "带走，是对的。"
+    },
+    {
+      "id": 64,
+      "start": 206.8,
+      "end": 214.04,
+      "en": "So Emily had some questions about her salary and so she brought her pay stub to Susan to ask her, why are all these deductions?",
+      "zh": "所以艾米丽对她的薪水有一些问题，所以她把她的工资单交给苏珊问她，为什么所有这些扣除？"
+    },
+    {
+      "id": 65,
+      "start": 214.04,
+      "end": 215.92,
+      "en": "Why am I not getting all my salary?",
+      "zh": "为什么我没有得到我所有的薪水？"
+    },
+    {
+      "id": 66,
+      "start": 215.92,
+      "end": 216.92,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 67,
+      "start": 216.92,
+      "end": 219.48,
+      "en": "So pay stubs are very important pieces of paper.",
+      "zh": "所以工资单是非常重要的纸张。"
+    },
+    {
+      "id": 68,
+      "start": 219.48,
+      "end": 221.5,
+      "en": "Basically when you go to a store and you buy something, you get a receipt.",
+      "zh": "基本上当你去商店买东西时，你会得到一张收据。"
+    },
+    {
+      "id": 69,
+      "start": 222.36,
+      "end": 226.52,
+      "en": "Well when you go to work and you get paid, you get a receipt for your payment.",
+      "zh": "好吧，当您上班并获得报酬时，您会收到一张收据。"
+    },
+    {
+      "id": 70,
+      "start": 226.66,
+      "end": 229.86,
+      "en": "That means that it shows you how much money you earn and all of these deductions.",
+      "zh": "这意味着它会显示您赚了多少钱以及所有这些扣除额。"
+    },
+    {
+      "id": 71,
+      "start": 231.12,
+      "end": 234.6,
+      "en": "So if you're paid every month, you get a pay stub every month.",
+      "zh": "因此，如果您每个月都获得报酬，您每个月都会得到一个工资单。"
+    },
+    {
+      "id": 72,
+      "start": 234.6,
+      "end": 237.31,
+      "en": "If you're paid every two weeks, you get a pay stub every two weeks.",
+      "zh": "如果您每两周获得一次报酬，则每两周获得一次工资单。"
+    },
+    {
+      "id": 73,
+      "start": 237.55,
+      "end": 237.83,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 74,
+      "start": 238.25,
+      "end": 242.39,
+      "en": "So it's basically a little receipt that tells you you have been paid and how much you were paid.",
+      "zh": "所以它基本上是一张小收据，告诉你你已经付了钱和付了多少钱。"
+    },
+    {
+      "id": 75,
+      "start": 242.51,
+      "end": 242.89,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 76,
+      "start": 244.2,
+      "end": 245.2,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 77,
+      "start": 245.2,
+      "end": 250.04,
+      "en": "So Susan started explaining about her gross salary and her net salary.",
+      "zh": "于是苏珊开始解释她的总薪水和她的净工资。"
+    },
+    {
+      "id": 78,
+      "start": 250.53,
+      "end": 250.83,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 79,
+      "start": 251.01,
+      "end": 253.71,
+      "en": "And these are the two most important numbers on your pay stub.",
+      "zh": "这是您的工资单上最重要的两个数字。"
+    },
+    {
+      "id": 80,
+      "start": 254.01,
+      "end": 256.01,
+      "en": "On your pay stub it will say gross pay.",
+      "zh": "在您的工资单上，它会说总工资。"
+    },
+    {
+      "id": 81,
+      "start": 257.48,
+      "end": 261.44,
+      "en": "Not gross like icky gross, but like total.",
+      "zh": "不像恶心那样恶心，而是像总计一样。"
+    },
+    {
+      "id": 82,
+      "start": 261.44,
+      "end": 272.96,
+      "en": "So in total you earn $1,000 a month, but that's not how much money you have in your bank because the money that you earn is actually a little bit different because of these deductions we mentioned.",
+      "zh": "所以总的来说，你每月可以赚到 1,000 美元，但这不是你银行里有多少钱，因为你赚的钱实际上有点不同，因为我们提到的这些扣除。"
+    },
+    {
+      "id": 83,
+      "start": 273.64,
+      "end": 278.64,
+      "en": "So the net pay is the actual amount of money you get to keep.",
+      "zh": "所以净工资是你可以保留的实际金额。"
+    },
+    {
+      "id": 84,
+      "start": 278.64,
+      "end": 279.64,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 85,
+      "start": 279.64,
+      "end": 290.2,
+      "en": "So the company will pay $1,000, but with taxes and all these deductions, the actual money that you get is less and that's called the net pay.",
+      "zh": "所以公司将支付 1,000 美元，但通过税收和所有这些扣除，您获得的实际资金较少，这称为净工资。"
+    },
+    {
+      "id": 86,
+      "start": 290.88,
+      "end": 293.62,
+      "en": "So it's important when you're looking at these numbers, look at your gross pay.",
+      "zh": "因此，当您查看这些数字时，请查看您的总工资很重要。"
+    },
+    {
+      "id": 87,
+      "start": 293.8,
+      "end": 294.22,
+      "en": "Is that correct?",
+      "zh": "那是对的吗？"
+    },
+    {
+      "id": 88,
+      "start": 294.96,
+      "end": 296.3,
+      "en": "And then afterwards, look at your net pay.",
+      "zh": "然后，看看你的净薪水。"
+    },
+    {
+      "id": 89,
+      "start": 296.6,
+      "end": 298.66,
+      "en": "Is that what money you actually received?",
+      "zh": "这就是你实际收到的钱吗？"
+    },
+    {
+      "id": 90,
+      "start": 298.92,
+      "end": 299.34,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 91,
+      "start": 299.96,
+      "end": 300.34,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 92,
+      "start": 300.4,
+      "end": 306.54,
+      "en": "So now getting into a little bit of taxes and the type of taxes that we have out there.",
+      "zh": "所以现在进入一些税收和我们那里的税收类型。"
+    },
+    {
+      "id": 93,
+      "start": 306.82,
+      "end": 310.76,
+      "en": "Not considering the taxes for the salary, this is a different one.",
+      "zh": "不考虑工资的税，这是另一回事。"
+    },
+    {
+      "id": 94,
+      "start": 310.9,
+      "end": 312.34,
+      "en": "We have a property tax.",
+      "zh": "我们有财产税。"
+    },
+    {
+      "id": 95,
+      "start": 312.7,
+      "end": 312.92,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 96,
+      "start": 313.12,
+      "end": 321.5,
+      "en": "So some places in America tax you on the amount of money you earn at your job, but a lot of others like to collect taxes from different areas.",
+      "zh": "因此，美国的一些地方会根据您在工作中赚到的钱对您征税，但其他许多地方则喜欢从不同的地区征税。"
+    },
+    {
+      "id": 97,
+      "start": 321.68,
+      "end": 323.14,
+      "en": "So property tax is one of those.",
+      "zh": "所以财产税就是其中之一。"
+    },
+    {
+      "id": 98,
+      "start": 323.64,
+      "end": 331.54,
+      "en": "If you own land, if you own a house or a condo, you will pay a property tax every year.",
+      "zh": "如果您拥有土地，如果您拥有房屋或公寓，您将每年支付房产税。"
+    },
+    {
+      "id": 99,
+      "start": 331.54,
+      "end": 333.74,
+      "en": "Every year you have to pay for owning this property.",
+      "zh": "每年您都必须为拥有此物业付费。"
+    },
+    {
+      "id": 100,
+      "start": 334.18,
+      "end": 334.32,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 101,
+      "start": 335.18,
+      "end": 339.44,
+      "en": "So basically you're paying the state for the land that you have or the space that you have.",
+      "zh": "所以基本上你是在为你拥有的土地或你拥有的空间付钱给国家。"
+    },
+    {
+      "id": 102,
+      "start": 339.44,
+      "end": 343.6,
+      "en": "And the bigger your house is, the bigger the land is, the more money you pay.",
+      "zh": "你的房子越大，土地越大，你支付的钱就越多。"
+    },
+    {
+      "id": 103,
+      "start": 344.88,
+      "end": 348.22,
+      "en": "And you have to pay the same value every year or does it change over time?",
+      "zh": "你必须每年支付相同的价值，还是随着时间的推移而改变？"
+    },
+    {
+      "id": 104,
+      "start": 348.22,
+      "end": 349.2,
+      "en": "It can change over time.",
+      "zh": "它可以随时间变化。"
+    },
+    {
+      "id": 105,
+      "start": 349.76,
+      "end": 357.16,
+      "en": "You hear this sometimes, property taxes are, or property value increases and so then property tax will probably increase as well.",
+      "zh": "你有时会听到这一点，财产税是，或者财产价值增加，所以财产税也可能会增加。"
+    },
+    {
+      "id": 106,
+      "start": 357.16,
+      "end": 358.16,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 107,
+      "start": 358.16,
+      "end": 358.88,
+      "en": "And what about sales tax?",
+      "zh": "那么销售税呢？"
+    },
+    {
+      "id": 108,
+      "start": 359.16,
+      "end": 362.14,
+      "en": "I think this is very straightforward, but how does it work?",
+      "zh": "我认为这很简单，但它是如何工作的呢？"
+    },
+    {
+      "id": 109,
+      "start": 362.4,
+      "end": 366.04,
+      "en": "Well, it's straightforward, Marco, but I don't think they have this in many other places in the world.",
+      "zh": "嗯，这很简单，马可，但我认为他们在世界上许多其他地方都没有。"
+    },
+    {
+      "id": 110,
+      "start": 366.66,
+      "end": 370.32,
+      "en": "China, for example, we don't really have a sales tax, so people don't have to worry about it.",
+      "zh": "例如，中国没有真正的销售税，所以人们不必担心。"
+    },
+    {
+      "id": 111,
+      "start": 371.32,
+      "end": 374.68,
+      "en": "But a sales tax is a small tax that you pay every time you buy something.",
+      "zh": "但是销售税是您每次购买时支付的小额税。"
+    },
+    {
+      "id": 112,
+      "start": 375.0,
+      "end": 375.44,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 113,
+      "start": 375.92,
+      "end": 376.06,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 114,
+      "start": 376.92,
+      "end": 381.0,
+      "en": "If I buy a TV and the TV is $100, it's possible that the sales tax is 3%.",
+      "zh": "如果我买一台电视，电视是 100 美元，销售税可能是 3%。"
+    },
+    {
+      "id": 115,
+      "start": 381.44,
+      "end": 382.48,
+      "en": "I pay $103.",
+      "zh": "我支付 103 美元。"
+    },
+    {
+      "id": 116,
+      "start": 384.16,
+      "end": 390.8,
+      "en": "So that's another way that you are taxed, not on how much money you make, but on the purchases that you make.",
+      "zh": "所以这是你被征税的另一种方式，不是你赚了多少钱，而是因为你赚的钱。"
+    },
+    {
+      "id": 117,
+      "start": 391.06,
+      "end": 391.5,
+      "en": "That makes sense.",
+      "zh": "这就说得通了。"
+    },
+    {
+      "id": 118,
+      "start": 391.76,
+      "end": 394.2,
+      "en": "I can buy a lot of cool things, cars, TVs.",
+      "zh": "我可以买很多很酷的东西，汽车，电视。"
+    },
+    {
+      "id": 119,
+      "start": 395.14,
+      "end": 401.4,
+      "en": "I'm paying more money to my state to provide services like schools and roads and things like that.",
+      "zh": "我向我的州支付了更多的钱，以提供学校和道路之类的服务。"
+    },
+    {
+      "id": 120,
+      "start": 402.08,
+      "end": 403.08,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 121,
+      "start": 403.08,
+      "end": 404.09,
+      "en": "So a lot of interesting things here.",
+      "zh": "这里有很多有趣的事情。"
+    },
+    {
+      "id": 122,
+      "start": 404.16,
+      "end": 415.0,
+      "en": "I think we can move on now to specifically talking about the taxes related to people's salaries or how it works in the United States.",
+      "zh": "我认为我们现在可以继续专门讨论与人们的薪水或它在美国的运作方式相关的税收。"
+    },
+    {
+      "id": 123,
+      "start": 415.0,
+      "end": 417.37,
+      "en": "Remember that we are talking specifically about the United States here.",
+      "zh": "请记住，我们在这里专门谈论美国。"
+    },
+    {
+      "id": 124,
+      "start": 417.56,
+      "end": 419.91,
+      "en": "So let's take a look at that now on Fluency Builder.",
+      "zh": "因此，让我们现在在 Fluency Builder 上看一下。"
+    },
+    {
+      "id": 125,
+      "start": 422.27,
+      "end": 423.05,
+      "en": "Fluency Builder.",
+      "zh": "流利表达。"
+    },
+    {
+      "id": 126,
+      "start": 424.49,
+      "end": 424.97,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 127,
+      "start": 425.12,
+      "end": 428.01,
+      "en": "So one of the scary acronyms here, Marco, was FICA.",
+      "zh": "所以这里的可怕缩写之一是 FICA。"
+    },
+    {
+      "id": 128,
+      "start": 428.56,
+      "end": 429.11,
+      "en": "The FICA.",
+      "zh": "FICA。"
+    },
+    {
+      "id": 129,
+      "start": 429.56,
+      "end": 431.88,
+      "en": "It looks very strange here.",
+      "zh": "这里看起来很奇怪。"
+    },
+    {
+      "id": 130,
+      "start": 431.88,
+      "end": 432.93,
+      "en": "What is this FICA?",
+      "zh": "这是什么FICA？"
+    },
+    {
+      "id": 131,
+      "start": 433.33,
+      "end": 433.95,
+      "en": "Well, this is an acronym.",
+      "zh": "嗯，这是一个缩写。"
+    },
+    {
+      "id": 132,
+      "start": 434.44,
+      "end": 437.72,
+      "en": "And remember, acronyms are words that stand for other words.",
+      "zh": "请记住，首字母缩略词是代表其他词的单词。"
+    },
+    {
+      "id": 133,
+      "start": 437.72,
+      "end": 444.42,
+      "en": "So F, federal, I, insurance, C, contribution, and A, act.",
+      "zh": "所以 F、联邦、I、保险、C、贡献和 A 法案。"
+    },
+    {
+      "id": 134,
+      "start": 444.45,
+      "end": 446.63,
+      "en": "So federal insurance contribution act.",
+      "zh": "所以联邦保险缴款法。"
+    },
+    {
+      "id": 135,
+      "start": 447.37,
+      "end": 449.53,
+      "en": "Basically, this is a federal tax.",
+      "zh": "基本上，这是联邦税。"
+    },
+    {
+      "id": 136,
+      "start": 450.07,
+      "end": 452.12,
+      "en": "That means that it's everyone in the country.",
+      "zh": "这意味着它是这个国家的每个人。"
+    },
+    {
+      "id": 137,
+      "start": 452.32,
+      "end": 454.5,
+      "en": "Everyone has to pay it, no matter where you live.",
+      "zh": "无论你住在哪里，每个人都必须付钱。"
+    },
+    {
+      "id": 138,
+      "start": 454.8,
+      "end": 455.8,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 139,
+      "start": 455.8,
+      "end": 457.54,
+      "en": "Illinois, New York, California, everyone has to pay.",
+      "zh": "伊利诺伊州，纽约，加利福尼亚州，每个人都必须付钱。"
+    },
+    {
+      "id": 140,
+      "start": 458.04,
+      "end": 459.34,
+      "en": "And how much is this tax?",
+      "zh": "这税是多少？"
+    },
+    {
+      "id": 141,
+      "start": 459.52,
+      "end": 459.8,
+      "en": "Do you know?",
+      "zh": "你知道吗？"
+    },
+    {
+      "id": 142,
+      "start": 460.04,
+      "end": 460.74,
+      "en": "I do not know.",
+      "zh": "我不知道。"
+    },
+    {
+      "id": 143,
+      "start": 461.1,
+      "end": 463.0,
+      "en": "It's called a graduated income tax.",
+      "zh": "它被称为渐进所得税。"
+    },
+    {
+      "id": 144,
+      "start": 463.32,
+      "end": 466.24,
+      "en": "That means that people who earn very little pay very little.",
+      "zh": "这意味着收入很少的人支付很少。"
+    },
+    {
+      "id": 145,
+      "start": 466.24,
+      "end": 467.26,
+      "en": "People who earn a lot pay more.",
+      "zh": "赚很多钱的人付出更多。"
+    },
+    {
+      "id": 146,
+      "start": 468.0,
+      "end": 469.0,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 147,
+      "start": 469.0,
+      "end": 473.24,
+      "en": "So this is something that everyone has to pay and that's why it's called federal tax, right?",
+      "zh": "所以这是每个人都必须支付的费用，这就是为什么它被称为联邦税，对吧？"
+    },
+    {
+      "id": 148,
+      "start": 473.52,
+      "end": 473.8,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 149,
+      "start": 475.12,
+      "end": 480.8,
+      "en": "So federal means national and state means more local for your own state.",
+      "zh": "所以联邦意味着国家和州对你自己的州来说意味着更多的地方。"
+    },
+    {
+      "id": 150,
+      "start": 480.8,
+      "end": 481.8,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 151,
+      "start": 481.8,
+      "end": 486.24,
+      "en": "Now, she is obviously paying the federal tax that everyone has to pay.",
+      "zh": "现在，她显然支付了每个人都必须支付的联邦税。"
+    },
+    {
+      "id": 152,
+      "start": 486.24,
+      "end": 487.13,
+      "en": "And what about Medicare?",
+      "zh": "那么医疗保险呢？"
+    },
+    {
+      "id": 153,
+      "start": 487.85,
+      "end": 488.11,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 154,
+      "start": 488.24,
+      "end": 490.24,
+      "en": "So this is not a tax per se.",
+      "zh": "所以这本身不是税收。"
+    },
+    {
+      "id": 155,
+      "start": 490.24,
+      "end": 495.21,
+      "en": "This is actually a deduction that goes into kind of a fund.",
+      "zh": "这实际上是一种用于基金的扣除。"
+    },
+    {
+      "id": 156,
+      "start": 495.8,
+      "end": 496.87,
+      "en": "You know, it's a government program.",
+      "zh": "你知道，这是一个政府计划。"
+    },
+    {
+      "id": 157,
+      "start": 497.76,
+      "end": 506.64,
+      "en": "And when you're older, when you're retired, you will receive benefits from the federal government, from the United States government to get healthcare.",
+      "zh": "当您年纪大了，退休后，您将从联邦政府、美国政府那里获得福利，以获得医疗保健。"
+    },
+    {
+      "id": 158,
+      "start": 506.66,
+      "end": 511.0,
+      "en": "So Medicare is a kind of healthcare that is paid for by the US government.",
+      "zh": "因此，医疗保险是一种由美国政府支付的医疗保健。"
+    },
+    {
+      "id": 159,
+      "start": 511.32,
+      "end": 511.76,
+      "en": "I see.",
+      "zh": "我明白了。"
+    },
+    {
+      "id": 160,
+      "start": 512.18,
+      "end": 519.96,
+      "en": "So when you're older, you don't really have to pay for your hospital bills then because you worked and contributed to this Medicare fund, then you can go and get treatment.",
+      "zh": "所以当你年纪大了，你真的不需要支付你的医院账单，因为你工作并为这个医疗保险基金捐款，那么你就可以去接受治疗。"
+    },
+    {
+      "id": 161,
+      "start": 520.36,
+      "end": 520.74,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 162,
+      "start": 520.92,
+      "end": 522.74,
+      "en": "Or you pay for part of it and they pay for part of it.",
+      "zh": "或者您支付部分费用，他们支付部分费用。"
+    },
+    {
+      "id": 163,
+      "start": 522.88,
+      "end": 524.92,
+      "en": "So it depends on the system.",
+      "zh": "所以这取决于系统。"
+    },
+    {
+      "id": 164,
+      "start": 525.8,
+      "end": 528.64,
+      "en": "But yes, it's a way to get healthcare through the government.",
+      "zh": "但是，是的，这是通过政府获得医疗保健的一种方式。"
+    },
+    {
+      "id": 165,
+      "start": 528.64,
+      "end": 529.64,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 166,
+      "start": 529.64,
+      "end": 533.48,
+      "en": "And your next word is interesting because we've heard about Social Security before.",
+      "zh": "你的下一个词很有趣，因为我们以前听说过社会保障。"
+    },
+    {
+      "id": 167,
+      "start": 533.72,
+      "end": 537.04,
+      "en": "You have the Social Security card, which is basically your ID.",
+      "zh": "你有社会保障卡，这基本上是你的身份证。"
+    },
+    {
+      "id": 168,
+      "start": 537.6,
+      "end": 539.92,
+      "en": "It states also that you are an American.",
+      "zh": "它还指出您是美国人。"
+    },
+    {
+      "id": 169,
+      "start": 539.92,
+      "end": 543.54,
+      "en": "But what is the Social Security fund now that you are contributing to?",
+      "zh": "但是，现在您为社会保障基金捐款是什么？"
+    },
+    {
+      "id": 170,
+      "start": 543.88,
+      "end": 549.7,
+      "en": "Well, basically, this is another government program that is designed to make sure that people are comfortable when they stop working.",
+      "zh": "好吧，基本上，这是另一个政府计划，旨在确保人们在停止工作时感到舒适。"
+    },
+    {
+      "id": 171,
+      "start": 550.02,
+      "end": 552.22,
+      "en": "Because when you stop working, you don't have any income anymore.",
+      "zh": "因为当你停止工作时，你不再有任何收入。"
+    },
+    {
+      "id": 172,
+      "start": 552.72,
+      "end": 553.78,
+      "en": "You need money to live.",
+      "zh": "你需要钱来生活。"
+    },
+    {
+      "id": 173,
+      "start": 554.6,
+      "end": 565.04,
+      "en": "And so your whole life, you're paying into this fund and the government will then give you the money back, some money, to basically live off of when you're retired.",
+      "zh": "所以你的一生，你都在支付这笔资金，然后政府会给你一些钱，一些钱，在你退休时基本上靠生活。"
+    },
+    {
+      "id": 174,
+      "start": 565.04,
+      "end": 566.04,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 175,
+      "start": 566.04,
+      "end": 571.42,
+      "en": "And so how long do you actually have to work in order to be eligible for Social Security?",
+      "zh": "那么，您实际上必须工作多长时间才能获得社会保障资格？"
+    },
+    {
+      "id": 176,
+      "start": 571.92,
+      "end": 576.28,
+      "en": "I believe you have to be 65 to be eligible for Social Security, but I'm not sure.",
+      "zh": "我相信你必须年满 65 岁才能获得社会保障，但我不确定。"
+    },
+    {
+      "id": 177,
+      "start": 576.32,
+      "end": 578.32,
+      "en": "It's either 60 or 65.",
+      "zh": "它是60或65。"
+    },
+    {
+      "id": 178,
+      "start": 578.32,
+      "end": 579.32,
+      "en": "I'm not there yet.",
+      "zh": "我还不在那里。"
+    },
+    {
+      "id": 179,
+      "start": 579.32,
+      "end": 580.4,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 180,
+      "start": 580.4,
+      "end": 588.21,
+      "en": "And actually, another one that's very similar is you have this 401K, which is actually a very interesting name for this tax or fund.",
+      "zh": "实际上，另一个非常相似的是你有这个 401k，它实际上是这个税收或基金的一个非常有趣的名字。"
+    },
+    {
+      "id": 181,
+      "start": 588.65,
+      "end": 590.63,
+      "en": "Yeah, 401K is more of an investment.",
+      "zh": "是的，401k更像是一种投资。"
+    },
+    {
+      "id": 182,
+      "start": 591.01,
+      "end": 597.89,
+      "en": "So a 401K is something that you put money into every month or year to access later on when you're retired.",
+      "zh": "因此，401k 是您每个月或一年投入资金的东西，以便在您退休后访问。"
+    },
+    {
+      "id": 183,
+      "start": 598.45,
+      "end": 600.57,
+      "en": "So again, it's a kind of security for you.",
+      "zh": "再说一次，这对你来说是一种安全感。"
+    },
+    {
+      "id": 184,
+      "start": 600.93,
+      "end": 607.55,
+      "en": "If you work every day, every year for 30 years, 40 years, you want to have some money when you're all done.",
+      "zh": "如果你每天工作，每年 30 年，40 年，你想在完成后有一些钱。"
+    },
+    {
+      "id": 185,
+      "start": 608.32,
+      "end": 611.36,
+      "en": "And this is basically a retirement savings plan.",
+      "zh": "这基本上是一个退休储蓄计划。"
+    },
+    {
+      "id": 186,
+      "start": 611.36,
+      "end": 616.52,
+      "en": "So what is the difference between Social Security and the 401K, or are they the same?",
+      "zh": "那么社会保障和401K有什么区别，还是一样呢？"
+    },
+    {
+      "id": 187,
+      "start": 616.6,
+      "end": 618.82,
+      "en": "I think the difference is where the money goes.",
+      "zh": "我认为区别在于钱的去向。"
+    },
+    {
+      "id": 188,
+      "start": 619.18,
+      "end": 620.04,
+      "en": "I'm not 100%.",
+      "zh": "我不是 100%。"
+    },
+    {
+      "id": 189,
+      "start": 620.04,
+      "end": 627.56,
+      "en": "But all of these are like, you have to give the government this money, or can I say, hey, I don't want to, don't worry about me.",
+      "zh": "但所有这些就像，你必须给政府这笔钱，或者我可以说，嘿，我不想，不要担心我。"
+    },
+    {
+      "id": 190,
+      "start": 627.9,
+      "end": 628.92,
+      "en": "I don't need Social Security.",
+      "zh": "我不需要社会保障。"
+    },
+    {
+      "id": 191,
+      "start": 630.3,
+      "end": 631.4,
+      "en": "I'm saving all on my own.",
+      "zh": "我自己保存。"
+    },
+    {
+      "id": 192,
+      "start": 631.88,
+      "end": 633.6,
+      "en": "And can I refuse to pay these taxes?",
+      "zh": "我可以拒绝缴纳这些税款吗？"
+    },
+    {
+      "id": 193,
+      "start": 633.96,
+      "end": 635.16,
+      "en": "401K, yes, you can refuse.",
+      "zh": "401k，是的，你可以拒绝。"
+    },
+    {
+      "id": 194,
+      "start": 635.4,
+      "end": 635.88,
+      "en": "It's not a tax.",
+      "zh": "这不是税。"
+    },
+    {
+      "id": 195,
+      "start": 636.14,
+      "end": 637.18,
+      "en": "It's just something that you can...",
+      "zh": "这只是你可以..."
+    },
+    {
+      "id": 196,
+      "start": 638.8,
+      "end": 640.38,
+      "en": "Usually this is not a government program.",
+      "zh": "通常这不是政府计划。"
+    },
+    {
+      "id": 197,
+      "start": 640.52,
+      "end": 643.54,
+      "en": "This is something that the company that you work for will set up for you.",
+      "zh": "这是您工作的公司将为您建立的东西。"
+    },
+    {
+      "id": 198,
+      "start": 644.32,
+      "end": 647.96,
+      "en": "But Medicare and Social Security, these are things that you have to pay into.",
+      "zh": "但医疗保险和社会保障，这些是您必须支付的费用。"
+    },
+    {
+      "id": 199,
+      "start": 648.6,
+      "end": 653.5,
+      "en": "Because even if you're rich and you have all this money, there are a lot of people in America that don't have any of this.",
+      "zh": "因为即使你有钱并且你有所有这些钱，美国也有很多人没有这些钱。"
+    },
+    {
+      "id": 200,
+      "start": 653.64,
+      "end": 658.88,
+      "en": "And so we consider it something that we do for each other as much as for ourselves.",
+      "zh": "因此，我们认为这是我们为彼此做的事情，就像为自己做的一样。"
+    },
+    {
+      "id": 201,
+      "start": 658.88,
+      "end": 665.76,
+      "en": "Because also, Medicare and Medicaid, these are programs that you can also be eligible for even if you're 25 years old or 30 years old.",
+      "zh": "因为还有医疗保险和医疗补助，即使您年满 25 岁或 30 岁，这些计划也可以符合您的资格。"
+    },
+    {
+      "id": 202,
+      "start": 666.72,
+      "end": 667.76,
+      "en": "You're poor, you don't have a job.",
+      "zh": "你很穷，你没有工作。"
+    },
+    {
+      "id": 203,
+      "start": 668.8,
+      "end": 669.8,
+      "en": "So these are social programs.",
+      "zh": "所以这些是社会项目。"
+    },
+    {
+      "id": 204,
+      "start": 670.2,
+      "end": 671.1,
+      "en": "Okay, very good.",
+      "zh": "好，很好。"
+    },
+    {
+      "id": 205,
+      "start": 671.46,
+      "end": 672.42,
+      "en": "It's very, very interesting.",
+      "zh": "这非常非常有趣。"
+    },
+    {
+      "id": 206,
+      "start": 672.56,
+      "end": 683.6,
+      "en": "You see that, obviously, this is why in movies, you see that people make fun of taxes and how much tax in America there is and how you can't escape taxes.",
+      "zh": "你会看到，显然，这就是为什么在电影中，你会看到人们取笑税收，美国有多少税收，以及你如何无法逃避税收。"
+    },
+    {
+      "id": 207,
+      "start": 683.6,
+      "end": 689.08,
+      "en": "But it's interesting to see how it's made up and why you are giving your money to the government.",
+      "zh": "但有趣的是，看看它是如何编造的，以及你为什么要把钱捐给政府。"
+    },
+    {
+      "id": 208,
+      "start": 689.84,
+      "end": 690.84,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 209,
+      "start": 690.84,
+      "end": 691.62,
+      "en": "So let's listen to today's dialogue again.",
+      "zh": "所以让我们再听一次今天的对话。"
+    },
+    {
+      "id": 210,
+      "start": 691.84,
+      "end": 692.86,
+      "en": "It was pretty complicated.",
+      "zh": "这是相当复杂的。"
+    },
+    {
+      "id": 211,
+      "start": 692.86,
+      "end": 696.02,
+      "en": "So hopefully you've understood a little bit more after we've talked about it now.",
+      "zh": "所以希望在我们现在谈论它之后，你已经了解了更多。"
+    },
+    {
+      "id": 212,
+      "start": 698.8,
+      "end": 705.6,
+      "en": "Hey, Susan, have you got a sec?",
+      "zh": "嘿，苏珊，你有空吗？"
+    },
+    {
+      "id": 213,
+      "start": 705.62,
+      "end": 707.0,
+      "en": "I have some questions about my paycheck.",
+      "zh": "我有一些关于我的薪水的问题。"
+    },
+    {
+      "id": 214,
+      "start": 707.92,
+      "end": 708.92,
+      "en": "You bet, Emily.",
+      "zh": "你打赌，艾米丽。"
+    },
+    {
+      "id": 215,
+      "start": 708.92,
+      "end": 709.24,
+      "en": "Pull up a chair.",
+      "zh": "拉起椅子。"
+    },
+    {
+      "id": 216,
+      "start": 709.84,
+      "end": 712.04,
+      "en": "Well, this is my first paycheck here in the States.",
+      "zh": "好吧，这是我在美国的第一次薪水。"
+    },
+    {
+      "id": 217,
+      "start": 712.48,
+      "end": 714.1,
+      "en": "And there are a few things I don't understand.",
+      "zh": "还有一些我不明白的事情。"
+    },
+    {
+      "id": 218,
+      "start": 715.76,
+      "end": 719.34,
+      "en": "First off, what is this FICA and SUI SDI tax?",
+      "zh": "首先，这个 FICA 和 SUI SDI 税是什么？"
+    },
+    {
+      "id": 219,
+      "start": 720.2,
+      "end": 723.78,
+      "en": "And why are there deductions both from Medicare and from my health insurance plan?",
+      "zh": "为什么从 Medicare 和我的健康保险计划中都可以扣除？"
+    },
+    {
+      "id": 220,
+      "start": 724.76,
+      "end": 727.46,
+      "en": "Okay, let's start from the top of your pay stub.",
+      "zh": "好的，让我们从您的工资单顶部开始。"
+    },
+    {
+      "id": 221,
+      "start": 728.4,
+      "end": 730.74,
+      "en": "This number here represents your gross pay.",
+      "zh": "这个数字代表您的总工资。"
+    },
+    {
+      "id": 222,
+      "start": 731.08,
+      "end": 732.72,
+      "en": "Yes, that's easy enough to understand.",
+      "zh": "是的，这很容易理解。"
+    },
+    {
+      "id": 223,
+      "start": 733.34,
+      "end": 735.2,
+      "en": "Then here we have a series of deductions.",
+      "zh": "然后在这里我们有一系列的扣除。"
+    },
+    {
+      "id": 224,
+      "start": 736.4,
+      "end": 738.0,
+      "en": "First off are the federal ones.",
+      "zh": "首先是联邦的。"
+    },
+    {
+      "id": 225,
+      "start": 738.0,
+      "end": 743.12,
+      "en": "FICA stands for Federal Insurance Contribution Act or something like that.",
+      "zh": "FICA 代表联邦保险缴款法或类似的东西。"
+    },
+    {
+      "id": 226,
+      "start": 743.12,
+      "end": 744.14,
+      "en": "It's your federal income tax.",
+      "zh": "这是你的联邦所得税。"
+    },
+    {
+      "id": 227,
+      "start": 744.88,
+      "end": 751.48,
+      "en": "And then there's Social Security and Medicare, which are both federal programs to help you out after you retire or if you are unable to work.",
+      "zh": "然后是社会保障和医疗保险，这两个都是联邦计划，可以在您退休或无法工作后帮助您。"
+    },
+    {
+      "id": 228,
+      "start": 751.8,
+      "end": 753.44,
+      "en": "All right, I see.",
+      "zh": "好吧，我明白了。"
+    },
+    {
+      "id": 229,
+      "start": 753.44,
+      "end": 756.62,
+      "en": "So the Medicare isn't actually a health insurance I can use now.",
+      "zh": "所以医疗保险实际上不是我现在可以使用的健康保险。"
+    },
+    {
+      "id": 230,
+      "start": 757.68,
+      "end": 757.94,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 231,
+      "start": 758.68,
+      "end": 760.8,
+      "en": "Below the federal deductions are the state deductions.",
+      "zh": "联邦扣除额以下是州扣除额。"
+    },
+    {
+      "id": 232,
+      "start": 761.68,
+      "end": 762.86,
+      "en": "There's the state income tax.",
+      "zh": "有州所得税。"
+    },
+    {
+      "id": 233,
+      "start": 763.44,
+      "end": 772.08,
+      "en": "And then this SUI SDI tax you were asking about is paying into an unemployment and or disability fund that our state has set up.",
+      "zh": "然后你问的这个sui sdi税是支付我们州设立的失业和/或残疾基金。"
+    },
+    {
+      "id": 234,
+      "start": 772.08,
+      "end": 774.52,
+      "en": "But you can see that it's a pretty small quantity that they take.",
+      "zh": "但你可以看到，这是一个相当少的数量。"
+    },
+    {
+      "id": 235,
+      "start": 774.98,
+      "end": 777.36,
+      "en": "Yeah, I don't mind giving them a dollar fifty for that.",
+      "zh": "嗯，扣一块五美元，我倒不介意。"
+    },
+    {
+      "id": 236,
+      "start": 778.32,
+      "end": 783.3,
+      "en": "So there are two separate income taxes, one at a state level and one at a federal level.",
+      "zh": "因此，有两种独立的所得税，一种是在州一级，一种是联邦一级的。"
+    },
+    {
+      "id": 237,
+      "start": 784.16,
+      "end": 784.4,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 238,
+      "start": 785.32,
+      "end": 786.54,
+      "en": "Not all states have an income tax.",
+      "zh": "并非所有州都有所得税。"
+    },
+    {
+      "id": 239,
+      "start": 787.2,
+      "end": 790.02,
+      "en": "Some use higher property taxes or sales taxes instead.",
+      "zh": "有些人使用更高的财产税或销售税。"
+    },
+    {
+      "id": 240,
+      "start": 791.0,
+      "end": 791.38,
+      "en": "I see.",
+      "zh": "我明白了。"
+    },
+    {
+      "id": 241,
+      "start": 792.0,
+      "end": 793.0,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 242,
+      "start": 793.0,
+      "end": 795.32,
+      "en": "Well, I think everything else I can figure out on my own.",
+      "zh": "好吧，我认为我自己能弄清楚的其他一切。"
+    },
+    {
+      "id": 243,
+      "start": 796.0,
+      "end": 801.24,
+      "en": "The deductions for health insurance and my 401k are pretty self-explanatory.",
+      "zh": "健康保险的扣除额和我的 401k 是不言自明的。"
+    },
+    {
+      "id": 244,
+      "start": 801.24,
+      "end": 802.0,
+      "en": "Thanks for your help, Susan.",
+      "zh": "谢谢你的帮助，苏珊。"
+    },
+    {
+      "id": 245,
+      "start": 802.36,
+      "end": 802.86,
+      "en": "No problem.",
+      "zh": "没问题。"
+    },
+    {
+      "id": 246,
+      "start": 803.64,
+      "end": 807.76,
+      "en": "All those deductions do add up and nobody's net pay is as high as they'd like.",
+      "zh": "这些扣款加在一起可不少，谁的到手工资都没自己希望的那么高。"
+    },
+    {
+      "id": 247,
+      "start": 808.24,
+      "end": 809.96,
+      "en": "I can understand why you'd want some explanation.",
+      "zh": "我能理解你为什么想要一些解释。"
+    },
+    {
+      "id": 248,
+      "start": 810.74,
+      "end": 812.34,
+      "en": "Yeah, I guess it's the same in the UK.",
+      "zh": "是的，我想在英国也是如此。"
+    },
+    {
+      "id": 249,
+      "start": 812.96,
+      "end": 813.96,
+      "en": "I just never paid much attention.",
+      "zh": "我只是从来没有关注过。"
+    },
+    {
+      "id": 250,
+      "start": 814.54,
+      "end": 814.94,
+      "en": "See you later.",
+      "zh": "回头见。"
+    },
+    {
+      "id": 251,
+      "start": 819.52,
+      "end": 819.67,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 252,
+      "start": 820.52,
+      "end": 829.95,
+      "en": "So another interesting thought that came up was, well, where does the money for government spending come from?",
+      "zh": "所以另一个有趣的想法是，好吧，政府支出的钱是从哪里来的？"
+    },
+    {
+      "id": 253,
+      "start": 830.17,
+      "end": 840.11,
+      "en": "So because you have all these taxes that are for you, basically you have property tax or maybe does it come from sales tax that maybe the government can make roads and parks and stuff like this?",
+      "zh": "所以因为你有所有这些税是给你的，基本上你有房产税，还是可能来自销售税，也许政府可以建造道路和公园之类的东西？"
+    },
+    {
+      "id": 254,
+      "start": 840.45,
+      "end": 841.17,
+      "en": "Well, that's the thing.",
+      "zh": "嗯，就是这样。"
+    },
+    {
+      "id": 255,
+      "start": 841.79,
+      "end": 844.51,
+      "en": "Remember earlier we talked about federal and state taxes.",
+      "zh": "请记住，我们之前讨论过联邦和州税。"
+    },
+    {
+      "id": 256,
+      "start": 844.84,
+      "end": 852.24,
+      "en": "Well, if it's a state tax like sales tax, in America I can pay sales tax in California, but maybe in New Mexico there is no sales tax.",
+      "zh": "好吧，如果它是类似于销售税的州税，在美国，我可以在加利福尼亚缴纳销售税，但在新墨西哥州可能没有销售税。"
+    },
+    {
+      "id": 257,
+      "start": 852.24,
+      "end": 854.28,
+      "en": "So this is a state tax.",
+      "zh": "所以这是国家税。"
+    },
+    {
+      "id": 258,
+      "start": 854.28,
+      "end": 860.84,
+      "en": "And that means that the state government can use the money for state projects, parks, roads, things like that.",
+      "zh": "这意味着州政府可以将这笔钱用于国家项目、公园、道路等。"
+    },
+    {
+      "id": 259,
+      "start": 861.76,
+      "end": 869.6,
+      "en": "But then the Federal Insurance Contribution Act, the FICA, this federal tax, that is something that's used for our military, our government.",
+      "zh": "但随后联邦保险缴款法、FICA、这种联邦税，这是用于我们的军队，我们的政府的东西。"
+    },
+    {
+      "id": 260,
+      "start": 870.12,
+      "end": 872.7,
+      "en": "This pays the paychecks of people in Congress, the president.",
+      "zh": "这支付了国会总统的薪水，总统。"
+    },
+    {
+      "id": 261,
+      "start": 873.16,
+      "end": 875.24,
+      "en": "This is where all the money to pay them comes from.",
+      "zh": "这就是支付他们的所有钱的来源。"
+    },
+    {
+      "id": 262,
+      "start": 875.84,
+      "end": 883.32,
+      "en": "And so basically the state taxes pay for state benefits and programs and the federal taxes pay for these nationwide programs.",
+      "zh": "因此，基本上州税支付州福利和计划，联邦税支付这些全国性计划。"
+    },
+    {
+      "id": 263,
+      "start": 883.32,
+      "end": 892.28,
+      "en": "So that's, I think one of the most interesting things about this topic is that the United States is like 50 small countries that kind of have their own little governments.",
+      "zh": "所以，我认为这个话题最有趣的事情之一是美国就像 50 个小国，有自己的小政府。"
+    },
+    {
+      "id": 264,
+      "start": 892.92,
+      "end": 895.04,
+      "en": "They have their own taxes and they have their own rules.",
+      "zh": "他们有自己的税收，他们有自己的规则。"
+    },
+    {
+      "id": 265,
+      "start": 895.64,
+      "end": 899.9,
+      "en": "Like in some states you can start driving when you're 16 and others when you're 15.",
+      "zh": "就像在某些州一样，您可以在 16 岁时开始驾驶，而在 15 岁时可以开始驾驶。"
+    },
+    {
+      "id": 266,
+      "start": 901.0,
+      "end": 911.36,
+      "en": "And so it's like all these little small countries, but at the same time you have this one mega country that has federal taxes and federal insurance and military and all this.",
+      "zh": "所以它就像所有这些小国家，但同时你有一个拥有联邦税收和联邦保险和军事等的大国。"
+    },
+    {
+      "id": 267,
+      "start": 911.36,
+      "end": 911.52,
+      "en": "That's true.",
+      "zh": "确实如此。"
+    },
+    {
+      "id": 268,
+      "start": 912.36,
+      "end": 919.86,
+      "en": "And you know, it's an interesting fact about American history that the most conflict in our country has really come down to these two groups.",
+      "zh": "你知道，关于美国历史的一个有趣的事实是，我们国家最冲突的真正归结为这两个群体。"
+    },
+    {
+      "id": 269,
+      "start": 920.76,
+      "end": 926.28,
+      "en": "One group believes that the federal government, so that's the national government, should have more power than the states.",
+      "zh": "一组认为，联邦政府，即国家政府，应该拥有比各州更多的权力。"
+    },
+    {
+      "id": 270,
+      "start": 926.28,
+      "end": 928.5,
+      "en": "And another group believes that the state should have more power.",
+      "zh": "另一个团体认为国家应该拥有更多的权力。"
+    },
+    {
+      "id": 271,
+      "start": 928.5,
+      "end": 930.12,
+      "en": "And that is a big problem.",
+      "zh": "这是一个大问题。"
+    },
+    {
+      "id": 272,
+      "start": 930.12,
+      "end": 935.56,
+      "en": "You know, this disagreement that we've had in America that goes back to 1776 and the founding fathers.",
+      "zh": "你知道，我们在美国的这种分歧可以追溯到 1776 年和开国元勋。"
+    },
+    {
+      "id": 273,
+      "start": 935.56,
+      "end": 938.48,
+      "en": "And so I don't think it's something that is fixed.",
+      "zh": "所以我不认为这是固定的。"
+    },
+    {
+      "id": 274,
+      "start": 938.48,
+      "end": 945.1,
+      "en": "You know, these things change, you know, sometimes more federal power, sometimes less, but it's a very interesting part of American history.",
+      "zh": "你知道，这些事情会改变，你知道，有时更多的联邦权力，有时更少，但它是美国历史上非常有趣的一部分。"
+    },
+    {
+      "id": 275,
+      "start": 945.1,
+      "end": 959.06,
+      "en": "And also it would be interesting to hear from our users how it works over there, because I know that approximately a rough estimate is that around 30 to 40% of Americans' income goes to tax, right?",
+      "zh": "听听我们的用户那里的工作方式也会很有趣，因为我知道大约粗略估计大约 30% 到 40% 的美国人的收入都要征税，对吧？"
+    },
+    {
+      "id": 276,
+      "start": 959.56,
+      "end": 959.98,
+      "en": "About that, yeah.",
+      "zh": "关于那个，是的。"
+    },
+    {
+      "id": 277,
+      "start": 960.56,
+      "end": 963.38,
+      "en": "So almost half of your money goes into taxes.",
+      "zh": "所以你几乎有一半的钱用于税收。"
+    },
+    {
+      "id": 278,
+      "start": 963.52,
+      "end": 965.96,
+      "en": "So I wonder how much it is in other people's countries.",
+      "zh": "所以我想知道它在其他人的国家有多少。"
+    },
+    {
+      "id": 279,
+      "start": 965.96,
+      "end": 969.52,
+      "en": "Maybe they have 60% of taxes or maybe 10.",
+      "zh": "也许他们有 60% 的税收或 10 个税收。"
+    },
+    {
+      "id": 280,
+      "start": 969.52,
+      "end": 970.52,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 281,
+      "start": 970.52,
+      "end": 971.52,
+      "en": "So let us know.",
+      "zh": "所以，请告诉我们吧。"
+    },
+    {
+      "id": 282,
+      "start": 971.52,
+      "end": 972.72,
+      "en": "Our website is EnglishPod.com.",
+      "zh": "我们的网站是 EnglishPod.com。"
+    },
+    {
+      "id": 283,
+      "start": 972.72,
+      "end": 973.72,
+      "en": "We hope to see you guys there.",
+      "zh": "希望到时候见到大家。"
+    },
+    {
+      "id": 284,
+      "start": 973.72,
+      "end": 974.72,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 285,
+      "start": 974.72,
+      "end": 979.72,
+      "en": "Bye.",
+      "zh": "再见。"
+    }
+  ],
+  "dialog": {
+    "start": 30.4,
+    "end": 147.89,
+    "segmentIds": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46
+    ]
+  }
+}

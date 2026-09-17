@@ -1,0 +1,1946 @@
+{
+  "version": 1,
+  "id": 167,
+  "number": "0167",
+  "title": "Daily Life - Learning How To Drive",
+  "audio": "mp3/167. Daily Life - Learning How To Drive.mp3",
+  "duration": 724.898,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.1,
+      "en": "Hello everyone and welcome to EnglishPod.",
+      "zh": "大家好，欢迎来到 EnglishPod。"
+    },
+    {
+      "id": 2,
+      "start": 5.36,
+      "end": 6.36,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 6.36,
+      "end": 9.98,
+      "en": "And my name is Catherine and today we're going on a little driving lesson.",
+      "zh": "我的名字是凯瑟琳，今天我们要上一堂驾驶课。"
+    },
+    {
+      "id": 4,
+      "start": 10.8,
+      "end": 11.8,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 5,
+      "start": 11.8,
+      "end": 17.9,
+      "en": "We're going to learn how to drive, but not only how to drive, but all the vocabulary and words associated to this activity.",
+      "zh": "我们将学习如何驾驶，但不仅仅是如何驾驶，而是与此活动相关的所有词汇和单词。"
+    },
+    {
+      "id": 6,
+      "start": 18.68,
+      "end": 23.2,
+      "en": "So why don't we listen to this dialogue for the first time and we'll be back to explain it.",
+      "zh": "那么我们为什么不第一次听这个对话，我们会回来解释它。"
+    },
+    {
+      "id": 7,
+      "start": 33.62,
+      "end": 35.26,
+      "en": "Okay, I'm ready for my driving lesson.",
+      "zh": "好的，我已经准备好上驾驶课了。"
+    },
+    {
+      "id": 8,
+      "start": 35.6,
+      "end": 36.26,
+      "en": "Should I start the car?",
+      "zh": "我应该启动汽车吗？"
+    },
+    {
+      "id": 9,
+      "start": 37.38,
+      "end": 39.08,
+      "en": "Hold on there, Fittipaldi.",
+      "zh": "慢点，菲蒂帕尔迪。"
+    },
+    {
+      "id": 10,
+      "start": 39.08,
+      "end": 40.76,
+      "en": "First let's go over things one more time.",
+      "zh": "首先，让我们再讨论一下。"
+    },
+    {
+      "id": 11,
+      "start": 41.58,
+      "end": 48.01,
+      "en": "Now before you even think of starting the car, make sure your seat is at a comfortable position and you can grip the steering wheel firmly.",
+      "zh": "现在，在您考虑启动汽车之前，请确保您的座椅处于舒适的位置，并且您可以牢牢握住方向盘。"
+    },
+    {
+      "id": 12,
+      "start": 48.87,
+      "end": 51.83,
+      "en": "Next, check your rearview mirrors to make sure you can see properly.",
+      "zh": "接下来，检查您的后视镜以确保您可以正确查看。"
+    },
+    {
+      "id": 13,
+      "start": 52.84,
+      "end": 54.37,
+      "en": "We've been through this a million times.",
+      "zh": "这些我们都讲过无数遍了。"
+    },
+    {
+      "id": 14,
+      "start": 54.67,
+      "end": 55.67,
+      "en": "Let's get going already.",
+      "zh": "咱们赶紧走吧。"
+    },
+    {
+      "id": 15,
+      "start": 56.01,
+      "end": 56.31,
+      "en": "I'm ready.",
+      "zh": "我准备好了。"
+    },
+    {
+      "id": 16,
+      "start": 57.24,
+      "end": 58.24,
+      "en": "Fine.",
+      "zh": "好。"
+    },
+    {
+      "id": 17,
+      "start": 58.24,
+      "end": 59.24,
+      "en": "Start the car.",
+      "zh": "启动汽车。"
+    },
+    {
+      "id": 18,
+      "start": 60.17,
+      "end": 63.65,
+      "en": "Okay, now gently step on the clutch and shift to first gear.",
+      "zh": "好的，现在轻轻踩下离合器并换到一档。"
+    },
+    {
+      "id": 19,
+      "start": 64.6,
+      "end": 65.6,
+      "en": "Good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 20,
+      "start": 65.6,
+      "end": 68.65,
+      "en": "Now, accelerate gently and let go of the clutch as you do it.",
+      "zh": "现在，轻轻地加速并在你做的时候松开离合器。"
+    },
+    {
+      "id": 21,
+      "start": 69.44,
+      "end": 69.76,
+      "en": "There we go.",
+      "zh": "好了。"
+    },
+    {
+      "id": 22,
+      "start": 70.44,
+      "end": 71.44,
+      "en": "Good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 23,
+      "start": 71.44,
+      "end": 72.44,
+      "en": "I'm doing it.",
+      "zh": "我正在做呢。"
+    },
+    {
+      "id": 24,
+      "start": 72.44,
+      "end": 73.44,
+      "en": "I'm driving.",
+      "zh": "我在开车了。"
+    },
+    {
+      "id": 25,
+      "start": 73.44,
+      "end": 74.44,
+      "en": "This is awesome.",
+      "zh": "太棒了。"
+    },
+    {
+      "id": 26,
+      "start": 74.44,
+      "end": 75.0,
+      "en": "Let's turn some music on.",
+      "zh": "让我们打开一些音乐。"
+    },
+    {
+      "id": 27,
+      "start": 75.44,
+      "end": 76.52,
+      "en": "Keep your eyes on the road.",
+      "zh": "眼睛看着路。"
+    },
+    {
+      "id": 28,
+      "start": 77.24,
+      "end": 77.5,
+      "en": "No music.",
+      "zh": "别放音乐。"
+    },
+    {
+      "id": 29,
+      "start": 78.38,
+      "end": 79.6,
+      "en": "We are coming up to a red light.",
+      "zh": "前面是红灯了。"
+    },
+    {
+      "id": 30,
+      "start": 80.08,
+      "end": 80.88,
+      "en": "Step on the brakes.",
+      "zh": "踩刹车。"
+    },
+    {
+      "id": 31,
+      "start": 81.98,
+      "end": 82.44,
+      "en": "What are you doing?",
+      "zh": "你在做什么？"
+    },
+    {
+      "id": 32,
+      "start": 82.44,
+      "end": 83.44,
+      "en": "I said the brakes.",
+      "zh": "我说的是刹车！"
+    },
+    {
+      "id": 33,
+      "start": 84.56,
+      "end": 85.3,
+      "en": "Look out for those people.",
+      "zh": "注意那些人。"
+    },
+    {
+      "id": 34,
+      "start": 86.34,
+      "end": 87.24,
+      "en": "Get off the sidewalk.",
+      "zh": "别在人行道上开！"
+    },
+    {
+      "id": 35,
+      "start": 88.2,
+      "end": 89.06,
+      "en": "Get out of my way.",
+      "zh": "让开我的路。"
+    },
+    {
+      "id": 36,
+      "start": 89.63,
+      "end": 91.27,
+      "en": "This is just like playing video games.",
+      "zh": "这就像玩电子游戏一样。"
+    },
+    {
+      "id": 37,
+      "start": 92.25,
+      "end": 92.75,
+      "en": "It's the police.",
+      "zh": "是警察。"
+    },
+    {
+      "id": 38,
+      "start": 93.6,
+      "end": 93.86,
+      "en": "Pull over.",
+      "zh": "靠边停车。"
+    },
+    {
+      "id": 39,
+      "start": 94.23,
+      "end": 95.21,
+      "en": "They'll never take me alive.",
+      "zh": "他们休想活捉我。"
+    },
+    {
+      "id": 40,
+      "start": 97.44,
+      "end": 100.44,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 41,
+      "start": 103.02,
+      "end": 103.24,
+      "en": "Great.",
+      "zh": "太好了。"
+    },
+    {
+      "id": 42,
+      "start": 103.56,
+      "end": 106.66,
+      "en": "So, it's a great driving lesson just like the video games.",
+      "zh": "所以，就像电子游戏一样，这是一个很好的驾驶课程。"
+    },
+    {
+      "id": 43,
+      "start": 107.44,
+      "end": 109.44,
+      "en": "Well, hopefully not like video games.",
+      "zh": "好吧，希望不像电子游戏。"
+    },
+    {
+      "id": 44,
+      "start": 109.98,
+      "end": 110.78,
+      "en": "We don't want to hurt anyone.",
+      "zh": "我们不想伤害任何人。"
+    },
+    {
+      "id": 45,
+      "start": 111.4,
+      "end": 112.74,
+      "en": "But that comes a little bit later.",
+      "zh": "但这会晚一点。"
+    },
+    {
+      "id": 46,
+      "start": 112.96,
+      "end": 117.28,
+      "en": "First, let's check out some of these very important phrases in today's Language Takeaway.",
+      "zh": "首先，让我们看看当今语言外卖中的一些非常重要的短语。"
+    },
+    {
+      "id": 47,
+      "start": 119.54,
+      "end": 120.44,
+      "en": "Language Takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 48,
+      "start": 121.9,
+      "end": 122.6,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 49,
+      "start": 123.44,
+      "end": 126.44,
+      "en": "So, on Language Takeaway, we have five words for you today.",
+      "zh": "所以，关于语言外卖，我们今天有五个词给你。"
+    },
+    {
+      "id": 50,
+      "start": 126.44,
+      "end": 128.88,
+      "en": "Starting with the first one, the steering wheel.",
+      "zh": "从第一个开始，方向盘。"
+    },
+    {
+      "id": 51,
+      "start": 129.44,
+      "end": 130.79,
+      "en": "Okay, steering wheel.",
+      "zh": "好吧，方向盘。"
+    },
+    {
+      "id": 52,
+      "start": 131.44,
+      "end": 138.44,
+      "en": "So, this comes from the fact that we have a wheel that we use to turn the car left and right.",
+      "zh": "所以，这来自于我们有一个轮子，我们用来左右转动汽车。"
+    },
+    {
+      "id": 53,
+      "start": 138.44,
+      "end": 141.44,
+      "en": "And so, that's called to steer, to change the direction of something.",
+      "zh": "因此，这被要求转向，改变某物的方向。"
+    },
+    {
+      "id": 54,
+      "start": 141.44,
+      "end": 143.99,
+      "en": "So, the verb to steer is to take it left or right.",
+      "zh": "所以，要引导的动词是向左或向右。"
+    },
+    {
+      "id": 55,
+      "start": 144.44,
+      "end": 145.44,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 56,
+      "start": 145.44,
+      "end": 149.44,
+      "en": "So, steering wheel is the instrument that we use to change the car's direction.",
+      "zh": "所以，方向盘是我们用来改变汽车方向的工具。"
+    },
+    {
+      "id": 57,
+      "start": 149.47,
+      "end": 150.05,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 58,
+      "start": 150.71,
+      "end": 158.54,
+      "en": "And, well, apart from this instrument, also in order to look to other cars that are behind you, you would look at your rear view mirror.",
+      "zh": "而且，除了这个乐器之外，为了看看你身后的其他汽车，你会看看你的后视镜。"
+    },
+    {
+      "id": 59,
+      "start": 158.98,
+      "end": 159.28,
+      "en": "Great.",
+      "zh": "太好了。"
+    },
+    {
+      "id": 60,
+      "start": 159.58,
+      "end": 160.64,
+      "en": "So, rear view mirror.",
+      "zh": "所以，后视镜。"
+    },
+    {
+      "id": 61,
+      "start": 161.16,
+      "end": 164.94,
+      "en": "This is a mirror that you have in front of you in the middle of the car.",
+      "zh": "这是你在汽车中间的一面镜子。"
+    },
+    {
+      "id": 62,
+      "start": 165.44,
+      "end": 169.44,
+      "en": "And you look at this mirror to find out if there are cars behind you.",
+      "zh": "你看看这面镜子，看看你身后是否有汽车。"
+    },
+    {
+      "id": 63,
+      "start": 169.44,
+      "end": 171.44,
+      "en": "So, it's a rear view.",
+      "zh": "所以，这是一个后视。"
+    },
+    {
+      "id": 64,
+      "start": 171.44,
+      "end": 172.7,
+      "en": "That means you're looking at the back.",
+      "zh": "这意味着你在看后面。"
+    },
+    {
+      "id": 65,
+      "start": 173.44,
+      "end": 175.44,
+      "en": "Rear means back or behind.",
+      "zh": "后面是指向后或后面。"
+    },
+    {
+      "id": 66,
+      "start": 175.44,
+      "end": 177.52,
+      "en": "What about the mirrors that are on the side of the car, on the doors?",
+      "zh": "汽车侧面、车门上的镜子呢？"
+    },
+    {
+      "id": 67,
+      "start": 178.44,
+      "end": 180.62,
+      "en": "Those are called side view mirrors.",
+      "zh": "这些被称为侧视镜。"
+    },
+    {
+      "id": 68,
+      "start": 181.44,
+      "end": 181.7,
+      "en": "Side view mirrors.",
+      "zh": "侧视镜。"
+    },
+    {
+      "id": 69,
+      "start": 182.44,
+      "end": 183.44,
+      "en": "Very literal.",
+      "zh": "非常字面意思。"
+    },
+    {
+      "id": 70,
+      "start": 183.44,
+      "end": 184.44,
+      "en": "Okay, very good.",
+      "zh": "好，很好。"
+    },
+    {
+      "id": 71,
+      "start": 184.44,
+      "end": 191.07,
+      "en": "And, well, moving on, he was instructing her on how to drive and he said, step on the clutch.",
+      "zh": "而且，好吧，继续前进，他正在指导她如何驾驶，他说，踩下离合器。"
+    },
+    {
+      "id": 72,
+      "start": 192.44,
+      "end": 195.83,
+      "en": "Well, this is an important word for those of you who are driving manual cars.",
+      "zh": "好吧，对于那些驾驶手动汽车的人来说，这是一个重要的词。"
+    },
+    {
+      "id": 73,
+      "start": 196.44,
+      "end": 201.44,
+      "en": "It means that you have to control the way that the gas goes into the engine by yourself.",
+      "zh": "这意味着您必须自己控制气体进入发动机的方式。"
+    },
+    {
+      "id": 74,
+      "start": 201.47,
+      "end": 203.85,
+      "en": "And so, a clutch is a pedal.",
+      "zh": "因此，离合器是踏板。"
+    },
+    {
+      "id": 75,
+      "start": 204.27,
+      "end": 210.33,
+      "en": "It's the third pedal on the left and you push this pedal to change gears.",
+      "zh": "这是左侧的第三个踏板，您将此踏板推向换档。"
+    },
+    {
+      "id": 76,
+      "start": 211.45,
+      "end": 212.69,
+      "en": "So, some cars, they don't have this.",
+      "zh": "所以，有些汽车，他们没有这个。"
+    },
+    {
+      "id": 77,
+      "start": 213.44,
+      "end": 214.7,
+      "en": "For those of you who don't, don't worry about it.",
+      "zh": "对于那些不知道的人，不要担心。"
+    },
+    {
+      "id": 78,
+      "start": 215.44,
+      "end": 217.72,
+      "en": "But if you do, a clutch is on the far left.",
+      "zh": "但如果你这样做了，离合器就在最左边。"
+    },
+    {
+      "id": 79,
+      "start": 218.44,
+      "end": 218.68,
+      "en": "It's the third pedal.",
+      "zh": "这是第三个踏板。"
+    },
+    {
+      "id": 80,
+      "start": 219.44,
+      "end": 228.44,
+      "en": "Okay, so this is for a manual car, manual transmission car because many people have automatics where you just accelerate and the car automatically changes gears.",
+      "zh": "好的，所以这是适用于手动汽车，手动变速箱汽车，因为许多人都有自动加速器，您只需加速，汽车就会自动换档。"
+    },
+    {
+      "id": 81,
+      "start": 228.9,
+      "end": 229.26,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 82,
+      "start": 229.44,
+      "end": 233.44,
+      "en": "And so, a lot of Europeans drive manual cars and have this clutch.",
+      "zh": "因此，许多欧洲人驾驶手动车并拥有此离合器。"
+    },
+    {
+      "id": 83,
+      "start": 233.84,
+      "end": 240.8,
+      "en": "Okay, so you step on the clutch and in order to change gear, you say to shift into first gear.",
+      "zh": "好的，所以你踩到离合器，为了换档，你说换档。"
+    },
+    {
+      "id": 84,
+      "start": 241.02,
+      "end": 247.69,
+      "en": "That's right because if you're driving, you know that you can't go from first to fifth gear, right?",
+      "zh": "没错，因为如果你在开车，你知道你不能从一档到五档，对吧？"
+    },
+    {
+      "id": 85,
+      "start": 247.93,
+      "end": 253.47,
+      "en": "There's four or five gears and so you have to go one, two, three, four, five.",
+      "zh": "有四五个齿轮，所以你必须去一、二、三、四、五。"
+    },
+    {
+      "id": 86,
+      "start": 253.53,
+      "end": 254.45,
+      "en": "You have to go in order.",
+      "zh": "你必须按顺序去。"
+    },
+    {
+      "id": 87,
+      "start": 254.75,
+      "end": 255.31,
+      "en": "So, we're shifting.",
+      "zh": "所以，我们正在转移。"
+    },
+    {
+      "id": 88,
+      "start": 255.61,
+      "end": 258.73,
+      "en": "We're moving up or we're moving down.",
+      "zh": "我们正在向上移动或我们正在向下移动。"
+    },
+    {
+      "id": 89,
+      "start": 259.03,
+      "end": 260.07,
+      "en": "So, that's called to shift.",
+      "zh": "所以，这被要求改变。"
+    },
+    {
+      "id": 90,
+      "start": 260.49,
+      "end": 261.21,
+      "en": "All right, to shift.",
+      "zh": "好吧，转移。"
+    },
+    {
+      "id": 91,
+      "start": 261.71,
+      "end": 265.37,
+      "en": "And now, in the dialogue, we heard to shift into first gear.",
+      "zh": "而现在，在对话中，我们听说要进入一档。"
+    },
+    {
+      "id": 92,
+      "start": 265.83,
+      "end": 266.44,
+      "en": "So, that's what it's called.",
+      "zh": "所以，这就是它所称的。"
+    },
+    {
+      "id": 93,
+      "start": 266.95,
+      "end": 267.35,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 94,
+      "start": 267.44,
+      "end": 270.44,
+      "en": "And so, normally, the car starts in N, neutral.",
+      "zh": "因此，通常，汽车以 N 中性启动。"
+    },
+    {
+      "id": 95,
+      "start": 270.44,
+      "end": 273.44,
+      "en": "That was when you're at a break, you're at a stop.",
+      "zh": "那是在你休息的时候，你停下来了。"
+    },
+    {
+      "id": 96,
+      "start": 273.44,
+      "end": 278.44,
+      "en": "And if you want to start the car, you have to shift to first gear and that's the lowest.",
+      "zh": "如果你想启动汽车，你必须换到一档，这是最低的。"
+    },
+    {
+      "id": 97,
+      "start": 278.87,
+      "end": 280.37,
+      "en": "That's going to help the car go.",
+      "zh": "这将有助于汽车行驶。"
+    },
+    {
+      "id": 98,
+      "start": 280.63,
+      "end": 282.77,
+      "en": "Okay, so to shift into first gear.",
+      "zh": "好的，所以要换到一档。"
+    },
+    {
+      "id": 99,
+      "start": 283.34,
+      "end": 284.06,
+      "en": "Awesome vocabulary.",
+      "zh": "很棒的词汇。"
+    },
+    {
+      "id": 100,
+      "start": 284.16,
+      "end": 290.9,
+      "en": "I think this is really useful especially because it's very specific so you don't really see it very often in anywhere.",
+      "zh": "我认为这真的很有用，特别是因为它非常具体，所以你不会真的经常在任何地方看到它。"
+    },
+    {
+      "id": 101,
+      "start": 291.04,
+      "end": 292.34,
+      "en": "But sometimes, you need to use it.",
+      "zh": "但有时，您需要使用它。"
+    },
+    {
+      "id": 102,
+      "start": 292.5,
+      "end": 296.18,
+      "en": "That's right and it's especially useful if you're trying to teach someone.",
+      "zh": "这是正确的，如果你想教别人，它特别有用。"
+    },
+    {
+      "id": 103,
+      "start": 296.44,
+      "end": 297.02,
+      "en": "How to drive.",
+      "zh": "如何开车。"
+    },
+    {
+      "id": 104,
+      "start": 297.44,
+      "end": 298.88,
+      "en": "Yeah, because not everyone knows how to drive manual.",
+      "zh": "是的，因为不是每个人都知道如何驾驶手动。"
+    },
+    {
+      "id": 105,
+      "start": 299.44,
+      "end": 300.44,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 106,
+      "start": 300.44,
+      "end": 304.02,
+      "en": "So, why don't we listen to the dialogue again and we'll be back to explain Fluency Builder.",
+      "zh": "所以，我们为什么不再听一次对话，我们会回来解释 Fluency Builder。"
+    },
+    {
+      "id": 107,
+      "start": 304.44,
+      "end": 307.44,
+      "en": "Fluency Builder",
+      "zh": "流利表达"
+    },
+    {
+      "id": 108,
+      "start": 309.29,
+      "end": 310.93,
+      "en": "Okay, I'm ready for my driving lesson.",
+      "zh": "好的，我已经准备好上驾驶课了。"
+    },
+    {
+      "id": 109,
+      "start": 311.31,
+      "end": 311.89,
+      "en": "Should I start the car?",
+      "zh": "我应该启动汽车吗？"
+    },
+    {
+      "id": 110,
+      "start": 312.44,
+      "end": 314.44,
+      "en": "Hold on there, Fittipaldi.",
+      "zh": "慢点，菲蒂帕尔迪。"
+    },
+    {
+      "id": 111,
+      "start": 314.44,
+      "end": 316.41,
+      "en": "First, let's go over things one more time.",
+      "zh": "首先，让我们再回顾一遍。"
+    },
+    {
+      "id": 112,
+      "start": 316.88,
+      "end": 323.68,
+      "en": "Now, before you even think of starting the car, make sure your seat is at a comfortable position and you can grip the steering wheel firmly.",
+      "zh": "现在，在您考虑启动汽车之前，请确保您的座椅处于舒适的位置，并且您可以牢牢握住方向盘。"
+    },
+    {
+      "id": 113,
+      "start": 324.52,
+      "end": 327.48,
+      "en": "Next, check your rear view mirrors to make sure you can see properly.",
+      "zh": "接下来，检查您的后视镜以确保您可以正确查看。"
+    },
+    {
+      "id": 114,
+      "start": 328.42,
+      "end": 330.0,
+      "en": "We've been through this a million times.",
+      "zh": "这些我们都讲过无数遍了。"
+    },
+    {
+      "id": 115,
+      "start": 330.34,
+      "end": 331.32,
+      "en": "Let's get going already.",
+      "zh": "咱们赶紧走吧。"
+    },
+    {
+      "id": 116,
+      "start": 331.66,
+      "end": 331.96,
+      "en": "I'm ready.",
+      "zh": "我准备好了。"
+    },
+    {
+      "id": 117,
+      "start": 332.6,
+      "end": 333.98,
+      "en": "Fine, start the car.",
+      "zh": "好，开车。"
+    },
+    {
+      "id": 118,
+      "start": 335.11,
+      "end": 338.61,
+      "en": "Okay, now gently step on the clutch and shift to first gear.",
+      "zh": "好的，现在轻轻踩下离合器并换到一档。"
+    },
+    {
+      "id": 119,
+      "start": 339.49,
+      "end": 339.69,
+      "en": "Good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 120,
+      "start": 340.47,
+      "end": 343.44,
+      "en": "Now, accelerate gently and let go of the clutch as you do it.",
+      "zh": "现在，轻轻地加速并在你做的时候松开离合器。"
+    },
+    {
+      "id": 121,
+      "start": 344.0,
+      "end": 344.44,
+      "en": "There we go.",
+      "zh": "好了。"
+    },
+    {
+      "id": 122,
+      "start": 344.44,
+      "end": 345.44,
+      "en": "Good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 123,
+      "start": 345.78,
+      "end": 346.38,
+      "en": "I'm doing it.",
+      "zh": "我正在做呢。"
+    },
+    {
+      "id": 124,
+      "start": 346.54,
+      "end": 346.98,
+      "en": "I'm driving.",
+      "zh": "我在开车了。"
+    },
+    {
+      "id": 125,
+      "start": 347.62,
+      "end": 348.28,
+      "en": "This is awesome.",
+      "zh": "太棒了。"
+    },
+    {
+      "id": 126,
+      "start": 348.98,
+      "end": 349.96,
+      "en": "Let's turn some music on.",
+      "zh": "让我们打开一些音乐。"
+    },
+    {
+      "id": 127,
+      "start": 350.38,
+      "end": 351.5,
+      "en": "Keep your eyes on the road.",
+      "zh": "把你的眼睛放在路上。"
+    },
+    {
+      "id": 128,
+      "start": 352.12,
+      "end": 352.5,
+      "en": "No music.",
+      "zh": "别放音乐。"
+    },
+    {
+      "id": 129,
+      "start": 353.38,
+      "end": 354.58,
+      "en": "We are coming up to a red light.",
+      "zh": "前面是红灯了。"
+    },
+    {
+      "id": 130,
+      "start": 355.02,
+      "end": 355.84,
+      "en": "Step on the brakes.",
+      "zh": "踩刹车。"
+    },
+    {
+      "id": 131,
+      "start": 356.8,
+      "end": 357.44,
+      "en": "What are you doing?",
+      "zh": "你在做什么？"
+    },
+    {
+      "id": 132,
+      "start": 357.44,
+      "end": 359.44,
+      "en": "I said the brakes.",
+      "zh": "我说的是刹车！"
+    },
+    {
+      "id": 133,
+      "start": 359.52,
+      "end": 360.3,
+      "en": "Look out for those people.",
+      "zh": "注意那些人。"
+    },
+    {
+      "id": 134,
+      "start": 361.28,
+      "end": 362.2,
+      "en": "Get off the sidewalk.",
+      "zh": "别在人行道上开！"
+    },
+    {
+      "id": 135,
+      "start": 363.18,
+      "end": 363.92,
+      "en": "Get out of my way.",
+      "zh": "让开我的路。"
+    },
+    {
+      "id": 136,
+      "start": 364.22,
+      "end": 366.26,
+      "en": "Oh, this is just like playing video games.",
+      "zh": "哦，这就像玩电子游戏一样。"
+    },
+    {
+      "id": 137,
+      "start": 367.22,
+      "end": 367.7,
+      "en": "It's the police.",
+      "zh": "是警察。"
+    },
+    {
+      "id": 138,
+      "start": 368.4,
+      "end": 368.76,
+      "en": "Pull over.",
+      "zh": "靠边停车。"
+    },
+    {
+      "id": 139,
+      "start": 369.16,
+      "end": 370.26,
+      "en": "They'll never take me alive.",
+      "zh": "他们永远不会让我活着。"
+    },
+    {
+      "id": 140,
+      "start": 373.67,
+      "end": 374.44,
+      "en": "All right, we're back.",
+      "zh": "好了，我们回来了。"
+    },
+    {
+      "id": 141,
+      "start": 374.65,
+      "end": 378.44,
+      "en": "So now, why don't we take a look at four key phrases in Fluency Builder.",
+      "zh": "那么现在，我们为什么不看看 Fluency Builder 中的四个关键短语。"
+    },
+    {
+      "id": 142,
+      "start": 378.44,
+      "end": 381.44,
+      "en": "Fluency Builder.",
+      "zh": "流利表达。"
+    },
+    {
+      "id": 143,
+      "start": 382.12,
+      "end": 384.86,
+      "en": "Well, the first phrase is maybe the most important when driving.",
+      "zh": "好吧，第一个短语可能是驾驶时最重要的。"
+    },
+    {
+      "id": 144,
+      "start": 385.16,
+      "end": 386.1,
+      "en": "It's the first thing you do.",
+      "zh": "这是你做的第一件事。"
+    },
+    {
+      "id": 145,
+      "start": 386.3,
+      "end": 387.44,
+      "en": "You start the car.",
+      "zh": "你启动汽车。"
+    },
+    {
+      "id": 146,
+      "start": 387.44,
+      "end": 389.44,
+      "en": "All right, so you don't say you turn on the car, right?",
+      "zh": "好吧，所以你不要说你打开车，对吧？"
+    },
+    {
+      "id": 147,
+      "start": 389.44,
+      "end": 390.44,
+      "en": "No.",
+      "zh": "不。"
+    },
+    {
+      "id": 148,
+      "start": 390.87,
+      "end": 393.44,
+      "en": "So you put the key in the ignition and you start the car.",
+      "zh": "所以你把钥匙放在点火装置上，然后启动汽车。"
+    },
+    {
+      "id": 149,
+      "start": 393.44,
+      "end": 396.44,
+      "en": "That means you turn it on.",
+      "zh": "这意味着你打开它。"
+    },
+    {
+      "id": 150,
+      "start": 397.41,
+      "end": 399.93,
+      "en": "What about when you want to turn off the car?",
+      "zh": "想关车的时候怎么办？"
+    },
+    {
+      "id": 151,
+      "start": 400.15,
+      "end": 400.75,
+      "en": "Turn the car off.",
+      "zh": "把车关掉。"
+    },
+    {
+      "id": 152,
+      "start": 401.43,
+      "end": 402.39,
+      "en": "You say stop the engine.",
+      "zh": "你说停止引擎。"
+    },
+    {
+      "id": 153,
+      "start": 402.79,
+      "end": 403.37,
+      "en": "Stop the car.",
+      "zh": "停下车。"
+    },
+    {
+      "id": 154,
+      "start": 403.57,
+      "end": 404.15,
+      "en": "Stop the car.",
+      "zh": "停下车。"
+    },
+    {
+      "id": 155,
+      "start": 404.47,
+      "end": 406.25,
+      "en": "Stop the engine, right?",
+      "zh": "停止发动机，对吧？"
+    },
+    {
+      "id": 156,
+      "start": 406.81,
+      "end": 407.44,
+      "en": "All right, very good.",
+      "zh": "好，很好。"
+    },
+    {
+      "id": 157,
+      "start": 407.44,
+      "end": 411.44,
+      "en": "Moving on, our next phrase is a million times.",
+      "zh": "继续前进，我们的下一个短语是一百万次。"
+    },
+    {
+      "id": 158,
+      "start": 411.85,
+      "end": 413.44,
+      "en": "Why is this a phrase, a million times?",
+      "zh": "为什么这是一个短语，一百万次？"
+    },
+    {
+      "id": 159,
+      "start": 413.44,
+      "end": 414.44,
+      "en": "It's pretty literal, right?",
+      "zh": "这很字面，对吧？"
+    },
+    {
+      "id": 160,
+      "start": 414.65,
+      "end": 416.99,
+      "en": "We've been through this a million times.",
+      "zh": "这些我们都讲过无数遍了。"
+    },
+    {
+      "id": 161,
+      "start": 417.37,
+      "end": 418.23,
+      "en": "Well, no, it's not literal.",
+      "zh": "好吧，不，这不是字面意思。"
+    },
+    {
+      "id": 162,
+      "start": 418.44,
+      "end": 420.44,
+      "en": "Otherwise, I think I might kill the person.",
+      "zh": "否则，我想我可能会杀了那个人。"
+    },
+    {
+      "id": 163,
+      "start": 420.57,
+      "end": 427.19,
+      "en": "Because a million times means that we've had this same conversation many, many, many times.",
+      "zh": "因为一百万次意味着我们有过很多很多、很多、很多次的对话。"
+    },
+    {
+      "id": 164,
+      "start": 427.44,
+      "end": 429.44,
+      "en": "But you can't actually have it a million times.",
+      "zh": "但你实际上不能拥有一百万次。"
+    },
+    {
+      "id": 165,
+      "start": 430.31,
+      "end": 431.45,
+      "en": "That's way too many.",
+      "zh": "这太多了。"
+    },
+    {
+      "id": 166,
+      "start": 431.73,
+      "end": 432.73,
+      "en": "So it's an exaggeration.",
+      "zh": "所以这是夸张。"
+    },
+    {
+      "id": 167,
+      "start": 433.49,
+      "end": 434.44,
+      "en": "Yeah, it's a way to say a lot.",
+      "zh": "是的，这是一种说很多的方式。"
+    },
+    {
+      "id": 168,
+      "start": 434.44,
+      "end": 434.59,
+      "en": "A lot.",
+      "zh": "很多。"
+    },
+    {
+      "id": 169,
+      "start": 435.44,
+      "end": 438.44,
+      "en": "So I've heard him say this a million times.",
+      "zh": "所以我听他说了一百万次。"
+    },
+    {
+      "id": 170,
+      "start": 438.65,
+      "end": 440.59,
+      "en": "I've heard this story a million times.",
+      "zh": "我听过这个故事一百万次。"
+    },
+    {
+      "id": 171,
+      "start": 440.83,
+      "end": 441.63,
+      "en": "Or I've done this.",
+      "zh": "或者我已经做到了。"
+    },
+    {
+      "id": 172,
+      "start": 441.93,
+      "end": 443.57,
+      "en": "I've turned the car on a million times.",
+      "zh": "我已经把车开了一百万次。"
+    },
+    {
+      "id": 173,
+      "start": 443.85,
+      "end": 445.11,
+      "en": "Okay, awesome.",
+      "zh": "好，太棒了。"
+    },
+    {
+      "id": 174,
+      "start": 445.64,
+      "end": 450.44,
+      "en": "And now, well, they were driving and they heard a police siren and the guy told her to pull over.",
+      "zh": "现在，好吧，他们在开车，他们听到了警笛声，那家伙让她把车停了下来。"
+    },
+    {
+      "id": 175,
+      "start": 451.1,
+      "end": 456.1,
+      "en": "Okay, so this is a very common car phrase again, especially when you're dealing with the police.",
+      "zh": "好吧，这又是一个非常常见的汽车短语，尤其是当你与警察打交道时。"
+    },
+    {
+      "id": 176,
+      "start": 456.44,
+      "end": 461.44,
+      "en": "So to pull over means to slow the car down and to stop it on the side of the road.",
+      "zh": "所以停车意味着减慢汽车的速度并停在路边。"
+    },
+    {
+      "id": 177,
+      "start": 462.48,
+      "end": 466.07,
+      "en": "So you could hear a policeman say, pull over.",
+      "zh": "所以你可以听到警察说，停下来。"
+    },
+    {
+      "id": 178,
+      "start": 466.71,
+      "end": 468.09,
+      "en": "So pull over your car.",
+      "zh": "所以把你的车拉过来。"
+    },
+    {
+      "id": 179,
+      "start": 468.27,
+      "end": 470.41,
+      "en": "That means slow down and stop the car on the side.",
+      "zh": "这意味着减速并停在侧面的汽车。"
+    },
+    {
+      "id": 180,
+      "start": 470.55,
+      "end": 472.37,
+      "en": "Because obviously you can't stop in the middle of the road.",
+      "zh": "因为显然你不能停在路中间。"
+    },
+    {
+      "id": 181,
+      "start": 472.47,
+      "end": 472.63,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 182,
+      "start": 473.44,
+      "end": 475.44,
+      "en": "And sometimes your mobile phone will ring as well.",
+      "zh": "有时您的手机也会响铃。"
+    },
+    {
+      "id": 183,
+      "start": 475.77,
+      "end": 479.44,
+      "en": "And you don't have a hands-free, so you have to pull over to the side so you can pick up the phone.",
+      "zh": "而且你没有免提，所以你必须把手拉到一边，这样你才能拿起电话。"
+    },
+    {
+      "id": 184,
+      "start": 479.59,
+      "end": 480.41,
+      "en": "Usually, right?",
+      "zh": "通常，对吧？"
+    },
+    {
+      "id": 185,
+      "start": 480.44,
+      "end": 481.44,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 186,
+      "start": 481.44,
+      "end": 482.44,
+      "en": "Or you could say, hey, mom, could you pull over?",
+      "zh": "或者你可以说，嘿，妈妈，你能拉过来吗？"
+    },
+    {
+      "id": 187,
+      "start": 482.93,
+      "end": 483.44,
+      "en": "I have to use the restroom.",
+      "zh": "我必须使用洗手间。"
+    },
+    {
+      "id": 188,
+      "start": 483.97,
+      "end": 484.21,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 189,
+      "start": 484.83,
+      "end": 484.95,
+      "en": "Awesome.",
+      "zh": "太棒了。"
+    },
+    {
+      "id": 190,
+      "start": 485.53,
+      "end": 485.77,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 191,
+      "start": 485.95,
+      "end": 490.55,
+      "en": "And our last phrase for today is to take me alive, to take someone alive.",
+      "zh": "我们今天的最后一句话是让我活着，让某人活着。"
+    },
+    {
+      "id": 192,
+      "start": 490.92,
+      "end": 492.38,
+      "en": "They'll never take me alive.",
+      "zh": "他们永远不会让我活着。"
+    },
+    {
+      "id": 193,
+      "start": 493.02,
+      "end": 494.16,
+      "en": "That's what the character says.",
+      "zh": "这就是角色所说的。"
+    },
+    {
+      "id": 194,
+      "start": 494.44,
+      "end": 499.44,
+      "en": "And so this is a phrase that we use when we're talking about people who are running away from the law.",
+      "zh": "所以这是我们在谈论逃避法律的人时使用的短语。"
+    },
+    {
+      "id": 195,
+      "start": 499.98,
+      "end": 503.12,
+      "en": "So he says, they'll never capture me.",
+      "zh": "所以他说，他们永远不会抓住我。"
+    },
+    {
+      "id": 196,
+      "start": 503.28,
+      "end": 504.96,
+      "en": "And if they do, I'll be dead.",
+      "zh": "如果他们这样做了，我会死的。"
+    },
+    {
+      "id": 197,
+      "start": 506.44,
+      "end": 509.44,
+      "en": "So he's saying either I run free or I die.",
+      "zh": "所以他说我要么自由奔跑，要么我死。"
+    },
+    {
+      "id": 198,
+      "start": 509.44,
+      "end": 509.6,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 199,
+      "start": 510.44,
+      "end": 512.72,
+      "en": "So to take someone alive is basically that.",
+      "zh": "所以让某人活着基本上就是这样。"
+    },
+    {
+      "id": 200,
+      "start": 513.44,
+      "end": 513.7,
+      "en": "But is it literal?",
+      "zh": "但它是字面的吗？"
+    },
+    {
+      "id": 201,
+      "start": 514.44,
+      "end": 515.44,
+      "en": "Would you say?",
+      "zh": "你会说吗？"
+    },
+    {
+      "id": 202,
+      "start": 515.44,
+      "end": 516.22,
+      "en": "No, this is not literal.",
+      "zh": "不，这不是字面意思。"
+    },
+    {
+      "id": 203,
+      "start": 516.44,
+      "end": 518.0,
+      "en": "He's saying, they'll never catch me.",
+      "zh": "他说，他们永远不会抓住我。"
+    },
+    {
+      "id": 204,
+      "start": 518.44,
+      "end": 519.44,
+      "en": "OK.",
+      "zh": "好的。"
+    },
+    {
+      "id": 205,
+      "start": 519.44,
+      "end": 520.44,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 206,
+      "start": 520.44,
+      "end": 521.44,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 207,
+      "start": 521.44,
+      "end": 522.44,
+      "en": "So that's all the phrases we have for today.",
+      "zh": "这就是我们今天的所有短语。"
+    },
+    {
+      "id": 208,
+      "start": 522.44,
+      "end": 524.44,
+      "en": "Why don't we listen to this dialogue for the last time.",
+      "zh": "我们为什么不最后一次听这个对话。"
+    },
+    {
+      "id": 209,
+      "start": 524.53,
+      "end": 525.35,
+      "en": "And we'll be back.",
+      "zh": "我们会回来的。"
+    },
+    {
+      "id": 210,
+      "start": 535.44,
+      "end": 536.44,
+      "en": "OK.",
+      "zh": "好的。"
+    },
+    {
+      "id": 211,
+      "start": 536.44,
+      "end": 536.99,
+      "en": "I'm ready for my driving lesson.",
+      "zh": "我已经准备好上驾驶课了。"
+    },
+    {
+      "id": 212,
+      "start": 537.44,
+      "end": 538.01,
+      "en": "Should I start the car?",
+      "zh": "我应该启动汽车吗？"
+    },
+    {
+      "id": 213,
+      "start": 538.44,
+      "end": 540.44,
+      "en": "Hold on there, Fittipaldi.",
+      "zh": "慢点，菲蒂帕尔迪。"
+    },
+    {
+      "id": 214,
+      "start": 540.45,
+      "end": 542.49,
+      "en": "First, let's go over things one more time.",
+      "zh": "首先，让我们再回顾一遍。"
+    },
+    {
+      "id": 215,
+      "start": 543.19,
+      "end": 549.75,
+      "en": "Now, before you even think of starting the car, make sure your seat is at a comfortable position and you can grip the steering wheel firmly.",
+      "zh": "现在，在您考虑启动汽车之前，请确保您的座椅处于舒适的位置，并且您可以牢牢握住方向盘。"
+    },
+    {
+      "id": 216,
+      "start": 550.57,
+      "end": 553.57,
+      "en": "Next, check your rear view mirrors to make sure you can see properly.",
+      "zh": "接下来，检查您的后视镜以确保您可以正确查看。"
+    },
+    {
+      "id": 217,
+      "start": 554.22,
+      "end": 556.1,
+      "en": "We've been through this a million times.",
+      "zh": "这些我们都讲过无数遍了。"
+    },
+    {
+      "id": 218,
+      "start": 556.46,
+      "end": 557.38,
+      "en": "Let's get going already.",
+      "zh": "咱们赶紧走吧。"
+    },
+    {
+      "id": 219,
+      "start": 557.76,
+      "end": 558.06,
+      "en": "I'm ready.",
+      "zh": "我准备好了。"
+    },
+    {
+      "id": 220,
+      "start": 558.66,
+      "end": 559.02,
+      "en": "Fine.",
+      "zh": "好。"
+    },
+    {
+      "id": 221,
+      "start": 559.44,
+      "end": 561.44,
+      "en": "Start the car.",
+      "zh": "启动汽车。"
+    },
+    {
+      "id": 222,
+      "start": 561.44,
+      "end": 562.44,
+      "en": "OK.",
+      "zh": "好的。"
+    },
+    {
+      "id": 223,
+      "start": 562.51,
+      "end": 565.41,
+      "en": "Now gently step on the clutch and shift to first gear.",
+      "zh": "现在轻轻踩下离合器并换到一档。"
+    },
+    {
+      "id": 224,
+      "start": 566.01,
+      "end": 566.45,
+      "en": "Good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 225,
+      "start": 567.23,
+      "end": 570.39,
+      "en": "Now accelerate gently and let go of the clutch as you do it.",
+      "zh": "现在轻轻加速并在您执行时松开离合器。"
+    },
+    {
+      "id": 226,
+      "start": 571.09,
+      "end": 571.44,
+      "en": "There we go.",
+      "zh": "好了。"
+    },
+    {
+      "id": 227,
+      "start": 571.44,
+      "end": 572.44,
+      "en": "Good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 228,
+      "start": 572.61,
+      "end": 573.17,
+      "en": "I'm doing it.",
+      "zh": "我正在做呢。"
+    },
+    {
+      "id": 229,
+      "start": 573.31,
+      "end": 573.77,
+      "en": "I'm driving.",
+      "zh": "我在开车了。"
+    },
+    {
+      "id": 230,
+      "start": 574.27,
+      "end": 575.07,
+      "en": "This is awesome.",
+      "zh": "太棒了。"
+    },
+    {
+      "id": 231,
+      "start": 575.81,
+      "end": 576.73,
+      "en": "Let's turn some music on.",
+      "zh": "让我们打开一些音乐。"
+    },
+    {
+      "id": 232,
+      "start": 577.27,
+      "end": 578.27,
+      "en": "Keep your eyes on the road.",
+      "zh": "把你的眼睛放在路上。"
+    },
+    {
+      "id": 233,
+      "start": 578.95,
+      "end": 579.25,
+      "en": "No music.",
+      "zh": "别放音乐。"
+    },
+    {
+      "id": 234,
+      "start": 580.2,
+      "end": 581.36,
+      "en": "We are coming up to a red light.",
+      "zh": "前面是红灯了。"
+    },
+    {
+      "id": 235,
+      "start": 581.44,
+      "end": 583.44,
+      "en": "Step on the brakes.",
+      "zh": "踩刹车。"
+    },
+    {
+      "id": 236,
+      "start": 583.54,
+      "end": 584.44,
+      "en": "What are you doing?",
+      "zh": "你在做什么？"
+    },
+    {
+      "id": 237,
+      "start": 584.82,
+      "end": 585.36,
+      "en": "I said the brakes.",
+      "zh": "我说的是刹车！"
+    },
+    {
+      "id": 238,
+      "start": 586.3,
+      "end": 587.02,
+      "en": "Look out for those people.",
+      "zh": "注意那些人。"
+    },
+    {
+      "id": 239,
+      "start": 587.7,
+      "end": 588.98,
+      "en": "Get off the sidewalk.",
+      "zh": "别在人行道上开！"
+    },
+    {
+      "id": 240,
+      "start": 589.98,
+      "end": 590.44,
+      "en": "Get out of my way.",
+      "zh": "让开我的路。"
+    },
+    {
+      "id": 241,
+      "start": 591.06,
+      "end": 593.02,
+      "en": "Oh, this is just like playing video games.",
+      "zh": "哦，这就像玩电子游戏一样。"
+    },
+    {
+      "id": 242,
+      "start": 594.0,
+      "end": 594.44,
+      "en": "It's the police.",
+      "zh": "是警察。"
+    },
+    {
+      "id": 243,
+      "start": 595.26,
+      "end": 595.44,
+      "en": "Pull over.",
+      "zh": "靠边停车。"
+    },
+    {
+      "id": 244,
+      "start": 596.0,
+      "end": 596.96,
+      "en": "They'll never take me alive.",
+      "zh": "他们永远不会让我活着。"
+    },
+    {
+      "id": 245,
+      "start": 606.63,
+      "end": 606.91,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 246,
+      "start": 607.44,
+      "end": 608.44,
+      "en": "We're back.",
+      "zh": "我们回来了。"
+    },
+    {
+      "id": 247,
+      "start": 608.44,
+      "end": 617.44,
+      "en": "So this is interesting because as you mentioned, a lot of people in America usually have automatic transmissions, whereas in Europe maybe they have manual transmissions.",
+      "zh": "所以这很有趣，因为正如你提到的，美国的很多人通常都有自动变速箱，而在欧洲，他们可能有手动变速箱。"
+    },
+    {
+      "id": 248,
+      "start": 617.47,
+      "end": 617.71,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 249,
+      "start": 618.44,
+      "end": 620.44,
+      "en": "Is there a reason for that, do you think?",
+      "zh": "你觉得有原因吗？"
+    },
+    {
+      "id": 250,
+      "start": 620.44,
+      "end": 621.69,
+      "en": "I'm not sure what the reason would be.",
+      "zh": "我不确定原因是什么。"
+    },
+    {
+      "id": 251,
+      "start": 622.44,
+      "end": 626.69,
+      "en": "I think a lot of American car makers manufacture more automatic cars in general.",
+      "zh": "我认为许多美国汽车制造商一般生产更多的自动汽车。"
+    },
+    {
+      "id": 252,
+      "start": 627.65,
+      "end": 636.17,
+      "en": "Some people say that it's because people in America are less concerned with gas, but if you have a manual transmission, you can actually conserve a bit of gas.",
+      "zh": "有人说这是因为美国人不太关心汽油，但如果你有手动变速箱，你实际上可以节省一点汽油。"
+    },
+    {
+      "id": 253,
+      "start": 636.44,
+      "end": 642.44,
+      "en": "And so because gas prices in Europe are higher generally, more people are interested in having manual transmissions.",
+      "zh": "因此，由于欧洲的汽油价格普遍较高，更多的人对手动变速箱感兴趣。"
+    },
+    {
+      "id": 254,
+      "start": 643.09,
+      "end": 659.27,
+      "en": "Also, I remember when I was younger, my dad always bought cars that had a manual transmission because he said that if ever they break down, it's much easier and cheaper to fix a car that has a manual transmission than it is to fix an automatic one.",
+      "zh": "此外，我记得当我年轻的时候，我父亲总是买手动变速箱的汽车，因为他说如果它们发生故障，修理一辆手动变速箱的汽车比修理自动变速箱要容易得多，也更便宜。"
+    },
+    {
+      "id": 255,
+      "start": 659.48,
+      "end": 659.78,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 256,
+      "start": 659.96,
+      "end": 671.28,
+      "en": "Well, and I personally think that it's better to learn how to drive on a manual transmission car because you can drive any car afterwards, but if you learn on an automatic, you'll never know how to drive a manual.",
+      "zh": "好吧，我个人认为最好学习如何驾驶手动变速箱汽车，因为您可以驾驶任何汽车，但如果您学习自动驾驶汽车，您将永远不知道如何驾驶手动变速箱。"
+    },
+    {
+      "id": 257,
+      "start": 671.94,
+      "end": 683.44,
+      "en": "There was also a case on television recently about a small child that actually the dialogue is based on it, is he took his dad's car and he was like seven years old and he was driving and was being chased by the police.",
+      "zh": "最近电视上也有一个案例，一个小孩实际上是基于它的，是他拿了他父亲的车，他就像七岁，他在开车，被警察追赶。"
+    },
+    {
+      "id": 258,
+      "start": 684.23,
+      "end": 684.44,
+      "en": "No way.",
+      "zh": "不会吧。"
+    },
+    {
+      "id": 259,
+      "start": 684.93,
+      "end": 689.23,
+      "en": "And then he pulled into his house and got out of the car and ran into the house.",
+      "zh": "然后他把车开进他的房子，下了车，跑进了房子。"
+    },
+    {
+      "id": 260,
+      "start": 689.83,
+      "end": 693.61,
+      "en": "So obviously he was an underage driver, but he didn't get into much trouble.",
+      "zh": "很明显，他是一名未成年司机，但他并没有遇到太多麻烦。"
+    },
+    {
+      "id": 261,
+      "start": 693.61,
+      "end": 696.19,
+      "en": "But it was interesting because he drove very, very well.",
+      "zh": "但这很有趣，因为他开得非常非常好。"
+    },
+    {
+      "id": 262,
+      "start": 696.47,
+      "end": 697.09,
+      "en": "That's unbelievable.",
+      "zh": "这令人难以置信。"
+    },
+    {
+      "id": 263,
+      "start": 697.44,
+      "end": 703.44,
+      "en": "And basically almost learned it by game simulators, by video games on how you drive on a video game.",
+      "zh": "基本上几乎是通过游戏模拟器、视频游戏了解您如何驾驶视频游戏的。"
+    },
+    {
+      "id": 264,
+      "start": 703.58,
+      "end": 703.96,
+      "en": "Oh, wow.",
+      "zh": "哦，哇。"
+    },
+    {
+      "id": 265,
+      "start": 704.44,
+      "end": 705.44,
+      "en": "Yeah, so.",
+      "zh": "是的，所以。"
+    },
+    {
+      "id": 266,
+      "start": 705.44,
+      "end": 706.44,
+      "en": "Well, NASCAR, here he comes.",
+      "zh": "好吧，纳斯卡，他来了。"
+    },
+    {
+      "id": 267,
+      "start": 706.44,
+      "end": 707.44,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 268,
+      "start": 707.44,
+      "end": 715.44,
+      "en": "So if you have any questions, any comments or any other suggestions for lessons, please come to our website, EnglishPod.com and we'll see you guys there.",
+      "zh": "因此，如果您对课程有任何问题、任何意见或任何其他建议，请访问我们的网站 englishpod.com，我们将在那里见到你们。"
+    },
+    {
+      "id": 269,
+      "start": 715.64,
+      "end": 715.94,
+      "en": "Bye, everyone.",
+      "zh": "大家再见。"
+    },
+    {
+      "id": 270,
+      "start": 716.18,
+      "end": 716.32,
+      "en": "Bye.",
+      "zh": "再见。"
+    },
+    {
+      "id": 271,
+      "start": 717.44,
+      "end": 723.44,
+      "en": "Bye.",
+      "zh": "再见。"
+    }
+  ],
+  "dialog": {
+    "start": 33.62,
+    "end": 95.21,
+    "segmentIds": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39
+    ]
+  }
+}

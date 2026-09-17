@@ -1,0 +1,2510 @@
+{
+  "version": 1,
+  "id": 215,
+  "number": "0215",
+  "title": "The Weekend - At the Deli",
+  "audio": "mp3/215. The Weekend - At the Deli.mp3",
+  "duration": 883.0694375,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.06,
+      "en": "Hello everyone and welcome to EnglishPod.",
+      "zh": "大家好，欢迎来到 EnglishPod。"
+    },
+    {
+      "id": 2,
+      "start": 5.3,
+      "end": 5.76,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 6.2,
+      "end": 12.48,
+      "en": "My name is Catherine and today we're talking about one of our favorite topics here at EnglishPod that would be food.",
+      "zh": "我的名字是凯瑟琳，今天我们在 Englishpod 谈论我们最喜欢的话题之一，那就是食物。"
+    },
+    {
+      "id": 4,
+      "start": 13.0,
+      "end": 19.62,
+      "en": "We love talking about food and this time we are going to pick up some food at the deli.",
+      "zh": "我们喜欢谈论食物，这次我们将在熟食店买一些食物。"
+    },
+    {
+      "id": 5,
+      "start": 19.9,
+      "end": 20.76,
+      "en": "What's a deli?",
+      "zh": "什么是熟食店？"
+    },
+    {
+      "id": 6,
+      "start": 21.08,
+      "end": 26.88,
+      "en": "A deli is a special store where a person can buy meat.",
+      "zh": "熟食店是一个人可以购买肉类的特殊商店。"
+    },
+    {
+      "id": 7,
+      "start": 26.9,
+      "end": 30.22,
+      "en": "Meat and cheese and in this case we're talking about special meats.",
+      "zh": "肉和奶酪，在这种情况下，我们谈论的是特殊的肉类。"
+    },
+    {
+      "id": 8,
+      "start": 30.52,
+      "end": 35.2,
+      "en": "It's not just like pork or beef which you could also buy at the butcher.",
+      "zh": "它不只是像猪肉或牛肉一样，你也可以在肉店买到。"
+    },
+    {
+      "id": 9,
+      "start": 35.2,
+      "end": 37.09,
+      "en": "It is cured meats, cold meats.",
+      "zh": "它是腌肉，冷肉。"
+    },
+    {
+      "id": 10,
+      "start": 37.76,
+      "end": 42.13,
+      "en": "So let's take a look at today's vocabulary preview to find out more about this special kind of meat.",
+      "zh": "所以让我们来看看今天的词汇预览，以了解更多关于这种特殊肉类的信息。"
+    },
+    {
+      "id": 11,
+      "start": 44.2,
+      "end": 46.52,
+      "en": "Vocabulary Preview.",
+      "zh": "词汇预习。"
+    },
+    {
+      "id": 12,
+      "start": 46.52,
+      "end": 50.02,
+      "en": "Alright so at the deli you usually pick up cold cuts.",
+      "zh": "好吧，在熟食店，你通常会拿起冷盘。"
+    },
+    {
+      "id": 13,
+      "start": 50.76,
+      "end": 50.94,
+      "en": "Cold cuts.",
+      "zh": "冷切。"
+    },
+    {
+      "id": 14,
+      "start": 51.76,
+      "end": 56.82,
+      "en": "So basically the way that I used to remember cold cuts as a child was that cold cuts are what you put on a sandwich.",
+      "zh": "所以基本上我小时候记得冷盘的方式是冷盘是你放在三明治上的。"
+    },
+    {
+      "id": 15,
+      "start": 58.0,
+      "end": 62.12,
+      "en": "So sliced turkey, sliced chicken, ham, salami.",
+      "zh": "所以切了火鸡片，鸡片，火腿，意大利腊肠。"
+    },
+    {
+      "id": 16,
+      "start": 62.8,
+      "end": 64.82,
+      "en": "Okay like pepperoni would be a cold cut.",
+      "zh": "好吧，就像意大利辣香肠是冷盘一样。"
+    },
+    {
+      "id": 17,
+      "start": 65.02,
+      "end": 65.3,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 18,
+      "start": 66.16,
+      "end": 69.64,
+      "en": "So cold cuts are meats that you serve cold normally.",
+      "zh": "所以冷盘是你通常冷着吃的肉。"
+    },
+    {
+      "id": 19,
+      "start": 69.64,
+      "end": 70.3,
+      "en": "They're usually cured.",
+      "zh": "他们通常被治愈。"
+    },
+    {
+      "id": 20,
+      "start": 70.78,
+      "end": 72.98,
+      "en": "They're not like raw pork or raw beef.",
+      "zh": "它们不像生猪肉或生牛肉。"
+    },
+    {
+      "id": 21,
+      "start": 72.98,
+      "end": 73.68,
+      "en": "You put them on a sandwich.",
+      "zh": "你把它们放在三明治上。"
+    },
+    {
+      "id": 22,
+      "start": 73.74,
+      "end": 77.16,
+      "en": "So cured meats would be like that they're smoked.",
+      "zh": "所以腌制的肉类会像被熏制一样。"
+    },
+    {
+      "id": 23,
+      "start": 77.66,
+      "end": 78.1,
+      "en": "They're not cooked.",
+      "zh": "他们没有煮熟。"
+    },
+    {
+      "id": 24,
+      "start": 78.46,
+      "end": 79.12,
+      "en": "No they're not cooked.",
+      "zh": "不，它们没有煮熟。"
+    },
+    {
+      "id": 25,
+      "start": 79.68,
+      "end": 80.68,
+      "en": "You're right.",
+      "zh": "你说得对。"
+    },
+    {
+      "id": 26,
+      "start": 80.68,
+      "end": 83.96,
+      "en": "They're smoked or they're cured with a kind of chemical or brine.",
+      "zh": "它们被吸烟或用一种化学物质或盐水治愈。"
+    },
+    {
+      "id": 27,
+      "start": 83.96,
+      "end": 84.82,
+      "en": "That means that they're preserved.",
+      "zh": "这意味着它们被保存下来。"
+    },
+    {
+      "id": 28,
+      "start": 85.28,
+      "end": 86.64,
+      "en": "They can last for a long time.",
+      "zh": "它们可以持续很长时间。"
+    },
+    {
+      "id": 29,
+      "start": 87.4,
+      "end": 88.4,
+      "en": "Alright very good.",
+      "zh": "好，很好。"
+    },
+    {
+      "id": 30,
+      "start": 88.4,
+      "end": 90.28,
+      "en": "So that's what we're getting at the deli.",
+      "zh": "这就是我们在熟食店得到的。"
+    },
+    {
+      "id": 31,
+      "start": 90.5,
+      "end": 95.02,
+      "en": "Usually at the deli you can pick up meats, cheeses, and pickles and all that.",
+      "zh": "通常在熟食店，您可以买到肉类、奶酪和泡菜等等。"
+    },
+    {
+      "id": 32,
+      "start": 95.3,
+      "end": 96.04,
+      "en": "All that good stuff.",
+      "zh": "诸如此类的好东西。"
+    },
+    {
+      "id": 33,
+      "start": 96.48,
+      "end": 107.4,
+      "en": "Alright so why don't we jump into our dialogue and listen to it for the first time.",
+      "zh": "好吧，我们为什么不跳入我们的对话并第一次听它。"
+    },
+    {
+      "id": 34,
+      "start": 107.4,
+      "end": 108.95,
+      "en": "Honey we're all out of wine and cheese.",
+      "zh": "亲爱的，葡萄酒和奶酪都没了。"
+    },
+    {
+      "id": 35,
+      "start": 109.44,
+      "end": 112.56,
+      "en": "Do you mind running to the deli and picking up a few things?",
+      "zh": "你介意跑到熟食店拿一些东西吗？"
+    },
+    {
+      "id": 36,
+      "start": 112.56,
+      "end": 113.56,
+      "en": "Can it wait?",
+      "zh": "它可以等待吗？"
+    },
+    {
+      "id": 37,
+      "start": 113.56,
+      "end": 114.51,
+      "en": "I'm watching the game right now.",
+      "zh": "我现在正在看比赛。"
+    },
+    {
+      "id": 38,
+      "start": 115.24,
+      "end": 118.67,
+      "en": "Your friends and family are coming over tonight and we still need to get a lot of things.",
+      "zh": "你的朋友和家人今晚要过来，我们仍然需要得到很多东西。"
+    },
+    {
+      "id": 39,
+      "start": 119.44,
+      "end": 120.44,
+      "en": "Fine.",
+      "zh": "好吧。"
+    },
+    {
+      "id": 40,
+      "start": 120.44,
+      "end": 120.59,
+      "en": "What do you need?",
+      "zh": "你需要什么？"
+    },
+    {
+      "id": 41,
+      "start": 121.44,
+      "end": 123.9,
+      "en": "Okay pick up some cured meats to go with the wine.",
+      "zh": "好吧，拿起一些腌制的肉来搭配酒。"
+    },
+    {
+      "id": 42,
+      "start": 124.72,
+      "end": 129.98,
+      "en": "Maybe a pound of Polish sausages, ham, liverwurst, salami, and any other cold cuts that are on sale.",
+      "zh": "买一磅波兰香肠，再买些火腿、肝肠、萨拉米香肠，以及其他正在打折的冷切肉。"
+    },
+    {
+      "id": 43,
+      "start": 130.76,
+      "end": 132.5,
+      "en": "I think I saw a promotion for pastrami.",
+      "zh": "我想我看到了熏牛肉的促销活动。"
+    },
+    {
+      "id": 44,
+      "start": 133.4,
+      "end": 135.64,
+      "en": "Also get some coleslaw and a jar of olives.",
+      "zh": "还可以买一些凉拌卷心菜和一罐橄榄。"
+    },
+    {
+      "id": 45,
+      "start": 136.16,
+      "end": 137.5,
+      "en": "Whoa wait a minute.",
+      "zh": "哇等一分钟。"
+    },
+    {
+      "id": 46,
+      "start": 137.72,
+      "end": 138.68,
+      "en": "Isn't that a bit too much?",
+      "zh": "是不是买得有点太多了？"
+    },
+    {
+      "id": 47,
+      "start": 139.08,
+      "end": 140.92,
+      "en": "I mean how much is all this going to cost?",
+      "zh": "我的意思是这一切要花多少钱？"
+    },
+    {
+      "id": 48,
+      "start": 141.48,
+      "end": 142.34,
+      "en": "Never mind that.",
+      "zh": "先别管那个。"
+    },
+    {
+      "id": 49,
+      "start": 142.84,
+      "end": 143.74,
+      "en": "Get some dips as well.",
+      "zh": "再买点蘸酱。"
+    },
+    {
+      "id": 50,
+      "start": 144.48,
+      "end": 148.28,
+      "en": "Get a jar of spinach and blue cheese dips and also some tzatziki.",
+      "zh": "买一罐菠菜蓝纹奶酪蘸酱，再来点希腊酸奶黄瓜酱。"
+    },
+    {
+      "id": 51,
+      "start": 148.28,
+      "end": 149.92,
+      "en": "If they have bean dip, get that as well.",
+      "zh": "如果他们有豆蘸酱，也可以。"
+    },
+    {
+      "id": 52,
+      "start": 150.72,
+      "end": 152.05,
+      "en": "Last but not least, get some pickles.",
+      "zh": "最后别忘了买些腌黄瓜。"
+    },
+    {
+      "id": 53,
+      "start": 152.52,
+      "end": 153.47,
+      "en": "Is that all your majesty?",
+      "zh": "陛下，吩咐完了吗？"
+    },
+    {
+      "id": 54,
+      "start": 154.54,
+      "end": 154.81,
+      "en": "Very funny.",
+      "zh": "真好笑。"
+    },
+    {
+      "id": 55,
+      "start": 155.54,
+      "end": 155.95,
+      "en": "Get a move on.",
+      "zh": "快点。"
+    },
+    {
+      "id": 56,
+      "start": 156.54,
+      "end": 157.65,
+      "en": "People will be here any minute.",
+      "zh": "人们随时都会在这里。"
+    },
+    {
+      "id": 57,
+      "start": 162.32,
+      "end": 162.8,
+      "en": "Alright we're back.",
+      "zh": "好了，我们回来了。"
+    },
+    {
+      "id": 58,
+      "start": 163.32,
+      "end": 168.2,
+      "en": "So now we're going to go into language takeaway where we're going to take a look at six key words.",
+      "zh": "所以现在我们将进入语言外卖，我们将看看六个关键词。"
+    },
+    {
+      "id": 59,
+      "start": 171.26,
+      "end": 171.63,
+      "en": "Language takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 60,
+      "start": 173.96,
+      "end": 179.48,
+      "en": "Alright so the first key word that we have, we actually talked about it already but just to make sure that you got it.",
+      "zh": "好吧，我们拥有的第一个关键词，我们实际上已经讨论过它，但只是为了确保你得到它。"
+    },
+    {
+      "id": 61,
+      "start": 179.48,
+      "end": 180.26,
+      "en": "Those are cured meats.",
+      "zh": "那些是腌肉。"
+    },
+    {
+      "id": 62,
+      "start": 181.52,
+      "end": 181.84,
+      "en": "Cured meats.",
+      "zh": "腌肉。"
+    },
+    {
+      "id": 63,
+      "start": 182.6,
+      "end": 186.48,
+      "en": "Well, to cure something is to preserve it in this case.",
+      "zh": "好吧，在这种情况下，治愈某些东西就是保存它。"
+    },
+    {
+      "id": 64,
+      "start": 187.04,
+      "end": 195.38,
+      "en": "So be careful because to cure has a couple of different meanings but when we're talking about food, something that is cured is preserved.",
+      "zh": "所以要小心，因为治愈有几个不同的含义，但是当我们谈论食物时，治愈的东西会被保留下来。"
+    },
+    {
+      "id": 65,
+      "start": 195.38,
+      "end": 198.88,
+      "en": "For example, pickles are cured in salty water.",
+      "zh": "例如，泡菜在咸水中固化。"
+    },
+    {
+      "id": 66,
+      "start": 199.16,
+      "end": 200.16,
+      "en": "Brine.",
+      "zh": "盐水。"
+    },
+    {
+      "id": 67,
+      "start": 200.16,
+      "end": 200.48,
+      "en": "Oh is that what it's called?",
+      "zh": "哦，这就是它的名字吗？"
+    },
+    {
+      "id": 68,
+      "start": 201.16,
+      "end": 202.16,
+      "en": "Brine?",
+      "zh": "盐水？"
+    },
+    {
+      "id": 69,
+      "start": 202.16,
+      "end": 203.16,
+      "en": "Salty water.",
+      "zh": "咸水。"
+    },
+    {
+      "id": 70,
+      "start": 203.16,
+      "end": 204.16,
+      "en": "I don't know what pickles are.",
+      "zh": "我不知道什么是泡菜。"
+    },
+    {
+      "id": 71,
+      "start": 204.16,
+      "end": 210.05,
+      "en": "But pickles are like, if you don't put them in brine, they don't taste all soury and nasty.",
+      "zh": "但是泡菜就像，如果你不把它们放在盐水中，它们的味道并不全是酸味和讨厌的。"
+    },
+    {
+      "id": 72,
+      "start": 210.4,
+      "end": 211.69,
+      "en": "No, that's because they're cucumbers.",
+      "zh": "不，那是因为它们是黄瓜。"
+    },
+    {
+      "id": 73,
+      "start": 212.32,
+      "end": 216.24,
+      "en": "So a cucumber becomes a pickle after it's been cured.",
+      "zh": "所以黄瓜在治愈后变成泡菜。"
+    },
+    {
+      "id": 74,
+      "start": 216.24,
+      "end": 220.64,
+      "en": "So we could talk about pork but when pork is cured, it becomes ham.",
+      "zh": "所以我们可以谈论猪肉，但是当猪肉被治愈时，它就变成了火腿。"
+    },
+    {
+      "id": 75,
+      "start": 220.64,
+      "end": 221.64,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 76,
+      "start": 221.64,
+      "end": 222.64,
+      "en": "Awesome.",
+      "zh": "太棒了。"
+    },
+    {
+      "id": 77,
+      "start": 222.64,
+      "end": 229.64,
+      "en": "So cured meats are meats that have been preserved through some kind of process like using salt or drying them.",
+      "zh": "因此，腌肉是通过某种过程保存的肉类，例如使用盐或干燥它们。"
+    },
+    {
+      "id": 78,
+      "start": 229.64,
+      "end": 230.64,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 79,
+      "start": 230.64,
+      "end": 231.64,
+      "en": "Awesome.",
+      "zh": "太棒了。"
+    },
+    {
+      "id": 80,
+      "start": 231.64,
+      "end": 235.0,
+      "en": "So a cured meat, I think maybe is liverwurst.",
+      "zh": "所以腌肉，我想可能是肝香肠。"
+    },
+    {
+      "id": 81,
+      "start": 235.32,
+      "end": 235.68,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 82,
+      "start": 235.8,
+      "end": 238.26,
+      "en": "Well, this is a German lesson now, not just an English lesson.",
+      "zh": "好吧，现在这是一堂德语课，而不仅仅是一堂英语课。"
+    },
+    {
+      "id": 83,
+      "start": 238.92,
+      "end": 243.24,
+      "en": "In English, we have a lot of words that come from German and one of these words is wurst.",
+      "zh": "在英语中，我们有很多来自德语的单词，其中一个单词是 Wurst。"
+    },
+    {
+      "id": 84,
+      "start": 243.68,
+      "end": 244.04,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 85,
+      "start": 244.12,
+      "end": 245.34,
+      "en": "And that means sausage, right?",
+      "zh": "这意味着香肠，对吧？"
+    },
+    {
+      "id": 86,
+      "start": 245.44,
+      "end": 245.68,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 87,
+      "start": 245.86,
+      "end": 246.12,
+      "en": "Sausage.",
+      "zh": "香肠。"
+    },
+    {
+      "id": 88,
+      "start": 247.6,
+      "end": 248.6,
+      "en": "So bratwurst, liverwurst.",
+      "zh": "如此香肠，肝香肠。"
+    },
+    {
+      "id": 89,
+      "start": 248.6,
+      "end": 252.88,
+      "en": "And in this case, liverwurst, I'm sure you can guess what part of the pig that comes from.",
+      "zh": "在这种情况下，Liverwurst，我相信你可以猜到猪的哪一部分来自。"
+    },
+    {
+      "id": 90,
+      "start": 253.76,
+      "end": 254.76,
+      "en": "Liver.",
+      "zh": "肝脏。"
+    },
+    {
+      "id": 91,
+      "start": 254.76,
+      "end": 255.76,
+      "en": "Very good, Marco.",
+      "zh": "非常好，马可。"
+    },
+    {
+      "id": 92,
+      "start": 255.76,
+      "end": 255.88,
+      "en": "You get a star for the day.",
+      "zh": "当天你会得到一颗星星。"
+    },
+    {
+      "id": 93,
+      "start": 256.76,
+      "end": 257.76,
+      "en": "Awesome.",
+      "zh": "太棒了。"
+    },
+    {
+      "id": 94,
+      "start": 257.76,
+      "end": 258.76,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 95,
+      "start": 258.76,
+      "end": 259.76,
+      "en": "No.",
+      "zh": "不。"
+    },
+    {
+      "id": 96,
+      "start": 259.76,
+      "end": 261.4,
+      "en": "Liverwurst is a kind of sausage that's made up of this part of the animal.",
+      "zh": "肝香肠是一种由动物的这一部分组成的香肠。"
+    },
+    {
+      "id": 97,
+      "start": 261.54,
+      "end": 261.85,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 98,
+      "start": 262.49,
+      "end": 265.15,
+      "en": "Actually, I've never, I don't know if I've had liverwurst.",
+      "zh": "实际上，我从来没有，我不知道我是否有过肝香肠。"
+    },
+    {
+      "id": 99,
+      "start": 265.32,
+      "end": 265.93,
+      "en": "What does it look like?",
+      "zh": "这看起来像什么?"
+    },
+    {
+      "id": 100,
+      "start": 266.06,
+      "end": 266.4,
+      "en": "Is it white?",
+      "zh": "它是白色的吗?"
+    },
+    {
+      "id": 101,
+      "start": 266.61,
+      "end": 266.95,
+      "en": "Is it red?",
+      "zh": "是红色的吗？"
+    },
+    {
+      "id": 102,
+      "start": 268.48,
+      "end": 269.48,
+      "en": "Is it dark?",
+      "zh": "天黑了吗?"
+    },
+    {
+      "id": 103,
+      "start": 269.48,
+      "end": 271.48,
+      "en": "I think it's like light, purplish, whitish.",
+      "zh": "我认为它就像轻盈、紫色、白色。"
+    },
+    {
+      "id": 104,
+      "start": 272.19,
+      "end": 272.49,
+      "en": "I don't know.",
+      "zh": "我不知道。"
+    },
+    {
+      "id": 105,
+      "start": 272.74,
+      "end": 274.51,
+      "en": "I've had bloodwurst.",
+      "zh": "我有过血腥味。"
+    },
+    {
+      "id": 106,
+      "start": 275.06,
+      "end": 275.37,
+      "en": "That's good.",
+      "zh": "那很好。"
+    },
+    {
+      "id": 107,
+      "start": 276.2,
+      "end": 277.2,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 108,
+      "start": 277.2,
+      "end": 278.2,
+      "en": "Blood sausage is delicious.",
+      "zh": "血香肠很好吃。"
+    },
+    {
+      "id": 109,
+      "start": 278.2,
+      "end": 279.2,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 110,
+      "start": 279.2,
+      "end": 284.96,
+      "en": "And well, apart from picking up meats and cheeses at the deli, you can also pick up coleslaw.",
+      "zh": "好吧，除了在熟食店买肉和奶酪外，你还可以买凉拌卷心菜。"
+    },
+    {
+      "id": 111,
+      "start": 285.26,
+      "end": 285.76,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 112,
+      "start": 286.24,
+      "end": 287.78,
+      "en": "Coleslaw is an American classic.",
+      "zh": "凉拌卷心菜是美国经典。"
+    },
+    {
+      "id": 113,
+      "start": 288.18,
+      "end": 290.1,
+      "en": "I'm sure you could get this other places as well, though.",
+      "zh": "不过，我相信你也可以得到其他地方。"
+    },
+    {
+      "id": 114,
+      "start": 290.4,
+      "end": 297.88,
+      "en": "It's basically a cold salad that's made up of cabbage and carrots and maybe onions.",
+      "zh": "它基本上是一种由卷心菜、胡萝卜和洋葱组成的冷沙拉。"
+    },
+    {
+      "id": 115,
+      "start": 298.14,
+      "end": 299.96,
+      "en": "But generally, the sauce is white.",
+      "zh": "但一般来说，酱汁是白色的。"
+    },
+    {
+      "id": 116,
+      "start": 300.18,
+      "end": 302.04,
+      "en": "It's like a mayonnaise and vinegar sauce.",
+      "zh": "它就像蛋黄酱和醋酱。"
+    },
+    {
+      "id": 117,
+      "start": 302.58,
+      "end": 306.84,
+      "en": "So it's very stringy, lots of thin, long pieces and the sauce is white.",
+      "zh": "所以它非常粘稠，有很多薄的，长的，酱汁是白色的。"
+    },
+    {
+      "id": 118,
+      "start": 307.49,
+      "end": 307.93,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 119,
+      "start": 308.44,
+      "end": 309.44,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 120,
+      "start": 309.44,
+      "end": 310.92,
+      "en": "I think this is a very American thing.",
+      "zh": "我认为这是一个非常美国的事情。"
+    },
+    {
+      "id": 121,
+      "start": 310.92,
+      "end": 315.99,
+      "en": "I'm not really sure if I've seen coleslaw in many other places, but I personally don't like it.",
+      "zh": "我不确定我是否在许多其他地方见过Coleslaw，但我个人不喜欢它。"
+    },
+    {
+      "id": 122,
+      "start": 315.99,
+      "end": 317.68,
+      "en": "Again, because of the whole vinegar thing.",
+      "zh": "再次，因为整个醋的事情。"
+    },
+    {
+      "id": 123,
+      "start": 317.68,
+      "end": 320.0,
+      "en": "I'm not a big fan of the bitter stuff.",
+      "zh": "我不是苦涩的东西的忠实粉丝。"
+    },
+    {
+      "id": 124,
+      "start": 320.0,
+      "end": 320.21,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 125,
+      "start": 320.25,
+      "end": 324.39,
+      "en": "I love, we also call it slaw, sometimes with a side of slaw.",
+      "zh": "我爱，我们也称它为沙拉，有时还有沙拉的一面。"
+    },
+    {
+      "id": 126,
+      "start": 324.59,
+      "end": 326.73,
+      "en": "I love a hot dog with a side of coleslaw.",
+      "zh": "我喜欢有凉拌卷心菜的热狗。"
+    },
+    {
+      "id": 127,
+      "start": 326.87,
+      "end": 327.25,
+      "en": "Oh, really?",
+      "zh": "哦，真的吗？"
+    },
+    {
+      "id": 128,
+      "start": 327.76,
+      "end": 328.76,
+      "en": "My favorite meals.",
+      "zh": "我最喜欢的饭菜。"
+    },
+    {
+      "id": 129,
+      "start": 328.76,
+      "end": 329.76,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 130,
+      "start": 329.76,
+      "end": 330.76,
+      "en": "Oh, wow.",
+      "zh": "哦，哇。"
+    },
+    {
+      "id": 131,
+      "start": 330.76,
+      "end": 331.76,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 132,
+      "start": 331.76,
+      "end": 332.76,
+      "en": "So coleslaw.",
+      "zh": "所以科尔斯拉夫。"
+    },
+    {
+      "id": 133,
+      "start": 332.76,
+      "end": 333.76,
+      "en": "Moving on, we have an interesting sauce.",
+      "zh": "继续前进，我们有一个有趣的酱汁。"
+    },
+    {
+      "id": 134,
+      "start": 333.76,
+      "end": 334.63,
+      "en": "It's Greek, I believe.",
+      "zh": "这是希腊语，我相信。"
+    },
+    {
+      "id": 135,
+      "start": 335.24,
+      "end": 335.65,
+      "en": "That is correct.",
+      "zh": "那是正确的。"
+    },
+    {
+      "id": 136,
+      "start": 336.24,
+      "end": 338.59,
+      "en": "And I'm not going to try to pronounce it because I might mess it up.",
+      "zh": "而且我不会尝试发音，因为我可能会搞砸它。"
+    },
+    {
+      "id": 137,
+      "start": 338.72,
+      "end": 339.59,
+      "en": "So I'm going to leave that one to you.",
+      "zh": "所以我要把那个留给你。"
+    },
+    {
+      "id": 138,
+      "start": 339.89,
+      "end": 342.37,
+      "en": "Well, I don't speak Greek, but this is how we say it in America.",
+      "zh": "好吧，我不会说希腊语，但这就是我们在美国的说法。"
+    },
+    {
+      "id": 139,
+      "start": 343.6,
+      "end": 344.6,
+      "en": "Tzatziki.",
+      "zh": "齐齐基。"
+    },
+    {
+      "id": 140,
+      "start": 344.6,
+      "end": 345.6,
+      "en": "Tzatziki.",
+      "zh": "齐齐基。"
+    },
+    {
+      "id": 141,
+      "start": 345.6,
+      "end": 346.6,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 142,
+      "start": 346.6,
+      "end": 348.48,
+      "en": "Tzatziki is a food that comes from Greece, like you said.",
+      "zh": "就像你说的，Tzatziki 是一种来自希腊的食物。"
+    },
+    {
+      "id": 143,
+      "start": 348.48,
+      "end": 353.56,
+      "en": "In America, we have a lot of different foods, in Europe too, wherever.",
+      "zh": "在美国，我们在欧洲也有很多不同的食物。"
+    },
+    {
+      "id": 144,
+      "start": 353.56,
+      "end": 354.81,
+      "en": "People come from all over the place.",
+      "zh": "人们来自各地。"
+    },
+    {
+      "id": 145,
+      "start": 355.24,
+      "end": 357.67,
+      "en": "And in America, we've adopted a number of foods.",
+      "zh": "在美国，我们采用了许多食物。"
+    },
+    {
+      "id": 146,
+      "start": 358.46,
+      "end": 360.06,
+      "en": "One of these foods is tzatziki.",
+      "zh": "其中一种食物是 Tzatziki。"
+    },
+    {
+      "id": 147,
+      "start": 360.06,
+      "end": 361.11,
+      "en": "It's a white yogurt dip.",
+      "zh": "这是一个白色酸奶蘸酱。"
+    },
+    {
+      "id": 148,
+      "start": 361.76,
+      "end": 362.76,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 149,
+      "start": 362.76,
+      "end": 373.68,
+      "en": "So usually in tzatziki, there is some onion, some cucumber, some pepper, but it's a really good thick, creamy yogurt dip that you use with bread or chips.",
+      "zh": "所以通常在 tzatziki，有一些洋葱，一些黄瓜，一些胡椒，但它是一种非常好的厚厚的奶油酸奶蘸酱，可以与面包或薯条一起使用。"
+    },
+    {
+      "id": 150,
+      "start": 373.68,
+      "end": 374.68,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 151,
+      "start": 374.68,
+      "end": 375.71,
+      "en": "And that's actually our next word.",
+      "zh": "这实际上是我们的下一个词。"
+    },
+    {
+      "id": 152,
+      "start": 376.58,
+      "end": 378.03,
+      "en": "You mentioned it's a dip.",
+      "zh": "你提到这是一个倾角。"
+    },
+    {
+      "id": 153,
+      "start": 378.92,
+      "end": 381.45,
+      "en": "So you're using that as a noun and that's our next word, dip.",
+      "zh": "所以你用它作为名词，这是我们的下一个词，dip。"
+    },
+    {
+      "id": 154,
+      "start": 382.28,
+      "end": 382.41,
+      "en": "Dip.",
+      "zh": "浸。"
+    },
+    {
+      "id": 155,
+      "start": 383.28,
+      "end": 386.19,
+      "en": "So basically, a dip is a kind of food that you eat with other foods.",
+      "zh": "所以基本上，蘸酱是你和其他食物一起吃的一种食物。"
+    },
+    {
+      "id": 156,
+      "start": 386.67,
+      "end": 387.03,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 157,
+      "start": 387.23,
+      "end": 387.89,
+      "en": "So it's like a sauce.",
+      "zh": "所以它就像一个酱汁。"
+    },
+    {
+      "id": 158,
+      "start": 388.27,
+      "end": 388.47,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 159,
+      "start": 389.48,
+      "end": 390.19,
+      "en": "It's a sauce for finger foods.",
+      "zh": "它是一种用于手指食物的酱汁。"
+    },
+    {
+      "id": 160,
+      "start": 391.48,
+      "end": 393.81,
+      "en": "So basically, a dip is a food you eat with other foods.",
+      "zh": "所以基本上，蘸酱是你和其他食物一起吃的食物。"
+    },
+    {
+      "id": 161,
+      "start": 394.24,
+      "end": 395.87,
+      "en": "So you can have chips and dip.",
+      "zh": "所以你可以有筹码和蘸酱。"
+    },
+    {
+      "id": 162,
+      "start": 396.07,
+      "end": 397.33,
+      "en": "That would be potato chips with dip.",
+      "zh": "那将是蘸酱的薯片。"
+    },
+    {
+      "id": 163,
+      "start": 398.76,
+      "end": 401.32,
+      "en": "And sometimes you have tomato dip or cheese dip.",
+      "zh": "有时你会有番茄蘸酱或奶酪蘸酱。"
+    },
+    {
+      "id": 164,
+      "start": 401.32,
+      "end": 404.47,
+      "en": "In this case, we have tzatziki or blue cheese dip.",
+      "zh": "在这种情况下，我们有 Tzatziki 或蓝纹奶酪蘸酱。"
+    },
+    {
+      "id": 165,
+      "start": 405.0,
+      "end": 405.47,
+      "en": "Blue cheese dip.",
+      "zh": "蓝奶酪蘸酱。"
+    },
+    {
+      "id": 166,
+      "start": 406.23,
+      "end": 408.03,
+      "en": "But actually, it's also a verb, right?",
+      "zh": "但实际上，它也是一个动词，对吧？"
+    },
+    {
+      "id": 167,
+      "start": 408.25,
+      "end": 408.57,
+      "en": "To dip.",
+      "zh": "浸。"
+    },
+    {
+      "id": 168,
+      "start": 409.24,
+      "end": 411.73,
+      "en": "So when you take your potato chip and you dip it in the dip.",
+      "zh": "因此，当您将薯片浸入蘸酱中时。"
+    },
+    {
+      "id": 169,
+      "start": 412.08,
+      "end": 412.47,
+      "en": "You can say that.",
+      "zh": "你可以这么说。"
+    },
+    {
+      "id": 170,
+      "start": 413.08,
+      "end": 414.08,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 171,
+      "start": 414.08,
+      "end": 415.08,
+      "en": "Dip it in the dip.",
+      "zh": "将其浸入浸泡中。"
+    },
+    {
+      "id": 172,
+      "start": 415.08,
+      "end": 416.08,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 173,
+      "start": 416.08,
+      "end": 417.97,
+      "en": "So you dip your potato chip in the dip.",
+      "zh": "所以你把你的薯片蘸在蘸酱里。"
+    },
+    {
+      "id": 174,
+      "start": 418.25,
+      "end": 418.51,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 175,
+      "start": 418.73,
+      "end": 419.11,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 176,
+      "start": 419.49,
+      "end": 423.75,
+      "en": "So those are all the words that we have for you today on Language Takeaway.",
+      "zh": "所以这些就是我们今天在语言外卖上为您准备的所有词语。"
+    },
+    {
+      "id": 177,
+      "start": 423.91,
+      "end": 428.69,
+      "en": "Why don't we go back, listen to the dialogue again, and we'll be back in a bit with Fluency Builder.",
+      "zh": "我们为什么不回去，再听一次对话，我们会在 Flueny Builder 中回来一点。"
+    },
+    {
+      "id": 178,
+      "start": 434.94,
+      "end": 436.82,
+      "en": "Honey, we're all out of wine and cheese.",
+      "zh": "亲爱的，我们都没有酒和奶酪了。"
+    },
+    {
+      "id": 179,
+      "start": 437.32,
+      "end": 439.84,
+      "en": "Do you mind running to the deli and picking up a few things?",
+      "zh": "你介意跑到熟食店拿一些东西吗？"
+    },
+    {
+      "id": 180,
+      "start": 440.06,
+      "end": 440.64,
+      "en": "Can't wait.",
+      "zh": "等不及了。"
+    },
+    {
+      "id": 181,
+      "start": 441.2,
+      "end": 442.4,
+      "en": "I'm watching the game right now.",
+      "zh": "我现在正在看比赛。"
+    },
+    {
+      "id": 182,
+      "start": 442.82,
+      "end": 446.5,
+      "en": "Your friends and family are coming over tonight, and we still need to get a lot of things.",
+      "zh": "你的朋友和家人今晚要过来，我们仍然需要得到很多东西。"
+    },
+    {
+      "id": 183,
+      "start": 446.88,
+      "end": 447.16,
+      "en": "Fine.",
+      "zh": "好吧。"
+    },
+    {
+      "id": 184,
+      "start": 447.88,
+      "end": 448.46,
+      "en": "What do you need?",
+      "zh": "你需要什么？"
+    },
+    {
+      "id": 185,
+      "start": 449.6,
+      "end": 450.6,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 186,
+      "start": 450.6,
+      "end": 451.78,
+      "en": "Pick up some cured meats to go with the wine.",
+      "zh": "拿起一些腌制的肉来搭配酒。"
+    },
+    {
+      "id": 187,
+      "start": 452.6,
+      "end": 457.84,
+      "en": "Maybe a pound of Polish sausages, ham, liverwurst, salami, and any other cold cuts that are on sale.",
+      "zh": "买一磅波兰香肠，再买些火腿、肝肠、萨拉米香肠，以及其他正在打折的冷切肉。"
+    },
+    {
+      "id": 188,
+      "start": 458.8,
+      "end": 460.38,
+      "en": "I think I saw a promotion for pastrami.",
+      "zh": "我想我看到了熏牛肉的促销活动。"
+    },
+    {
+      "id": 189,
+      "start": 460.82,
+      "end": 463.52,
+      "en": "Also, get some coleslaw and a jar of olives.",
+      "zh": "另外，买一些凉拌卷心菜和一罐橄榄。"
+    },
+    {
+      "id": 190,
+      "start": 464.02,
+      "end": 465.38,
+      "en": "Whoa, wait a minute.",
+      "zh": "哇，等一下。"
+    },
+    {
+      "id": 191,
+      "start": 465.62,
+      "end": 466.54,
+      "en": "Isn't that a bit too much?",
+      "zh": "是不是有点太过分了？"
+    },
+    {
+      "id": 192,
+      "start": 466.94,
+      "end": 468.8,
+      "en": "I mean, how much is all this going to cost?",
+      "zh": "我的意思是，这一切要花多少钱？"
+    },
+    {
+      "id": 193,
+      "start": 469.32,
+      "end": 470.2,
+      "en": "Never mind that.",
+      "zh": "先别管那个。"
+    },
+    {
+      "id": 194,
+      "start": 470.72,
+      "end": 471.62,
+      "en": "Get some dips as well.",
+      "zh": "也可以做一些下降。"
+    },
+    {
+      "id": 195,
+      "start": 472.36,
+      "end": 476.16,
+      "en": "Get a jar of spinach and blue cheese dips and also some tzatziki.",
+      "zh": "买一罐菠菜蓝纹奶酪蘸酱，再来点希腊酸奶黄瓜酱。"
+    },
+    {
+      "id": 196,
+      "start": 476.16,
+      "end": 477.8,
+      "en": "If they have bean dip, get that as well.",
+      "zh": "如果他们有豆蘸酱，也可以。"
+    },
+    {
+      "id": 197,
+      "start": 478.64,
+      "end": 479.93,
+      "en": "Last but not least, get some pickles.",
+      "zh": "最后别忘了买些腌黄瓜。"
+    },
+    {
+      "id": 198,
+      "start": 480.44,
+      "end": 481.31,
+      "en": "Is that all, Your Majesty?",
+      "zh": "仅此而已，陛下？"
+    },
+    {
+      "id": 199,
+      "start": 482.44,
+      "end": 482.69,
+      "en": "Very funny.",
+      "zh": "真好笑。"
+    },
+    {
+      "id": 200,
+      "start": 483.44,
+      "end": 483.83,
+      "en": "Get a move on.",
+      "zh": "快点。"
+    },
+    {
+      "id": 201,
+      "start": 484.48,
+      "end": 485.53,
+      "en": "People will be here any minute.",
+      "zh": "人们随时都会在这里。"
+    },
+    {
+      "id": 202,
+      "start": 487.2,
+      "end": 492.08,
+      "en": "All right, we're back.",
+      "zh": "好了，我们回来了。"
+    },
+    {
+      "id": 203,
+      "start": 492.08,
+      "end": 495.38,
+      "en": "Now let's take a look at three key phrases on Fluency Builder.",
+      "zh": "现在让我们来看看关于 Fluency Builder 的三个关键短语。"
+    },
+    {
+      "id": 204,
+      "start": 497.8,
+      "end": 498.06,
+      "en": "Fluency Builder.",
+      "zh": "流利表达。"
+    },
+    {
+      "id": 205,
+      "start": 499.4,
+      "end": 501.8,
+      "en": "This first one is a very, very common phrase.",
+      "zh": "第一个是非常非常常见的短语。"
+    },
+    {
+      "id": 206,
+      "start": 502.08,
+      "end": 506.38,
+      "en": "We use this a lot in English when we're maybe running late or you need something very quickly.",
+      "zh": "当我们可能迟到或您很快需要一些东西时，我们经常用英语使用它。"
+    },
+    {
+      "id": 207,
+      "start": 506.94,
+      "end": 510.21,
+      "en": "We say, hey, can you run to the store and get this?",
+      "zh": "我们说，嘿，你能跑到商店买这个吗？"
+    },
+    {
+      "id": 208,
+      "start": 510.43,
+      "end": 512.59,
+      "en": "Or do you mind running to the deli?",
+      "zh": "还是你介意跑到熟食店？"
+    },
+    {
+      "id": 209,
+      "start": 512.77,
+      "end": 514.33,
+      "en": "So the verb here is to run to.",
+      "zh": "所以这里的动词是跑到。"
+    },
+    {
+      "id": 210,
+      "start": 514.83,
+      "end": 515.33,
+      "en": "Run to.",
+      "zh": "跑到。"
+    },
+    {
+      "id": 211,
+      "start": 515.79,
+      "end": 516.43,
+      "en": "Run to the deli.",
+      "zh": "跑到熟食店。"
+    },
+    {
+      "id": 212,
+      "start": 516.95,
+      "end": 521.91,
+      "en": "Does this mean that you're actually going to walk very fast to the deli?",
+      "zh": "这是否意味着您实际上会非常快地步行到熟食店？"
+    },
+    {
+      "id": 213,
+      "start": 521.97,
+      "end": 522.37,
+      "en": "You're going to run?",
+      "zh": "你要跑？"
+    },
+    {
+      "id": 214,
+      "start": 523.2,
+      "end": 524.78,
+      "en": "No, this is not literal.",
+      "zh": "不，这不是字面意思。"
+    },
+    {
+      "id": 215,
+      "start": 525.08,
+      "end": 528.88,
+      "en": "This is not, okay, I'm going to go to the deli and I'm going to get some food.",
+      "zh": "这不是，好吧，我要去熟食店，我要去吃点东西。"
+    },
+    {
+      "id": 216,
+      "start": 529.06,
+      "end": 530.28,
+      "en": "No, this is going quickly.",
+      "zh": "不，这进展很快。"
+    },
+    {
+      "id": 217,
+      "start": 531.4,
+      "end": 533.9,
+      "en": "So I could say, Marco, I have no time.",
+      "zh": "所以我可以说，马可，我没有时间。"
+    },
+    {
+      "id": 218,
+      "start": 534.48,
+      "end": 536.78,
+      "en": "Can you run to the store and get me some milk, please?",
+      "zh": "请问你能跑到商店给我一些牛奶吗？"
+    },
+    {
+      "id": 219,
+      "start": 537.2,
+      "end": 542.06,
+      "en": "Okay, so that means just go really quickly in your car, your motorcycle, any way you can.",
+      "zh": "好吧，这意味着你可以尽快在你的车里，你的摩托车上。"
+    },
+    {
+      "id": 220,
+      "start": 542.88,
+      "end": 543.88,
+      "en": "Or walking, yeah, exactly.",
+      "zh": "或者走路，是的，确切地说。"
+    },
+    {
+      "id": 221,
+      "start": 543.88,
+      "end": 544.88,
+      "en": "Good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 222,
+      "start": 544.88,
+      "end": 546.54,
+      "en": "So that's run to the store, run to the deli.",
+      "zh": "所以它跑到商店，跑到熟食店。"
+    },
+    {
+      "id": 223,
+      "start": 546.64,
+      "end": 551.02,
+      "en": "In this case, we saw it in the sentence, do you mind running to the deli?",
+      "zh": "在这种情况下，我们在句子中看到了它，你介意跑到熟食店吗？"
+    },
+    {
+      "id": 224,
+      "start": 551.12,
+      "end": 552.56,
+      "en": "So do you mind going quickly?",
+      "zh": "所以你介意快点走吗？"
+    },
+    {
+      "id": 225,
+      "start": 553.02,
+      "end": 554.38,
+      "en": "So this is going quickly.",
+      "zh": "所以这很快就过去了。"
+    },
+    {
+      "id": 226,
+      "start": 554.86,
+      "end": 556.44,
+      "en": "Do you mind running to the deli?",
+      "zh": "你介意跑到熟食店吗？"
+    },
+    {
+      "id": 227,
+      "start": 556.56,
+      "end": 558.18,
+      "en": "This is a thing that we can do.",
+      "zh": "这是我们可以做的事情。"
+    },
+    {
+      "id": 228,
+      "start": 559.85,
+      "end": 564.57,
+      "en": "And so she was telling him what to get and he's like, whoa, this is going to be really expensive.",
+      "zh": "所以她告诉他要买什么，他就像，哇，这将是非常昂贵的。"
+    },
+    {
+      "id": 229,
+      "start": 564.65,
+      "end": 568.13,
+      "en": "And she answered with this phrase, never mind that.",
+      "zh": "她用这句话回答，没关系。"
+    },
+    {
+      "id": 230,
+      "start": 568.95,
+      "end": 570.21,
+      "en": "Never mind that.",
+      "zh": "先别管那个。"
+    },
+    {
+      "id": 231,
+      "start": 570.65,
+      "end": 575.15,
+      "en": "Okay, this is a phrase that we use when we want to say, don't worry about it.",
+      "zh": "好吧，这是我们想说的时候使用的一个短语，不要担心。"
+    },
+    {
+      "id": 232,
+      "start": 575.27,
+      "end": 576.01,
+      "en": "That doesn't matter.",
+      "zh": "这没关系。"
+    },
+    {
+      "id": 233,
+      "start": 576.19,
+      "end": 576.93,
+      "en": "No problem.",
+      "zh": "没问题。"
+    },
+    {
+      "id": 234,
+      "start": 577.23,
+      "end": 577.81,
+      "en": "It's not important.",
+      "zh": "这并不重要。"
+    },
+    {
+      "id": 235,
+      "start": 578.35,
+      "end": 582.79,
+      "en": "So, never mind, you could say by itself, never mind, forget about it.",
+      "zh": "所以，没关系，你可以自己说，没关系，忘记它。"
+    },
+    {
+      "id": 236,
+      "start": 583.19,
+      "end": 588.19,
+      "en": "But never mind that is like saying, this argument is over, it's not a problem.",
+      "zh": "但没关系，这就像说，这个论点已经结束，这不是问题。"
+    },
+    {
+      "id": 237,
+      "start": 589.05,
+      "end": 589.79,
+      "en": "So never mind that.",
+      "zh": "所以别介意。"
+    },
+    {
+      "id": 238,
+      "start": 590.48,
+      "end": 593.04,
+      "en": "As I was saying, let's go to the store.",
+      "zh": "正如我所说，我们去商店。"
+    },
+    {
+      "id": 239,
+      "start": 593.04,
+      "end": 594.04,
+      "en": "Okay, good.",
+      "zh": "好，很好。"
+    },
+    {
+      "id": 240,
+      "start": 594.04,
+      "end": 597.49,
+      "en": "So it's not important, it's not relevant, don't worry about it.",
+      "zh": "所以它不重要，不相关，不用担心。"
+    },
+    {
+      "id": 241,
+      "start": 598.6,
+      "end": 598.79,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 242,
+      "start": 599.6,
+      "end": 608.52,
+      "en": "And the last phrase that we have for you is a very interesting phrase when the girl said, you know what, very funny, but get a move on.",
+      "zh": "当女孩说，你知道什么，很有趣，但要继续前进时，我们为您准备的最后一句话是一个非常有趣的短语。"
+    },
+    {
+      "id": 243,
+      "start": 608.52,
+      "end": 609.49,
+      "en": "People will be here any minute.",
+      "zh": "人们随时都会在这里。"
+    },
+    {
+      "id": 244,
+      "start": 610.16,
+      "end": 611.07,
+      "en": "Get a move on.",
+      "zh": "快点。"
+    },
+    {
+      "id": 245,
+      "start": 611.64,
+      "end": 612.19,
+      "en": "Get a move on.",
+      "zh": "快点。"
+    },
+    {
+      "id": 246,
+      "start": 612.64,
+      "end": 618.73,
+      "en": "So as we often say here at EnglishPod, this is the kind of phrase we have to look at as a chunk, as a unit, as one piece.",
+      "zh": "因此，正如我们在 Englishpod 中经常说的那样，这是我们必须将其视为一块、作为一个单元的短语。"
+    },
+    {
+      "id": 247,
+      "start": 619.9,
+      "end": 623.85,
+      "en": "You can say get, get me this, or I move, I moved my house.",
+      "zh": "你可以说得到，得到我这个，或者我搬家，我搬了我的房子。"
+    },
+    {
+      "id": 248,
+      "start": 624.72,
+      "end": 627.77,
+      "en": "But get a move on means hurry up.",
+      "zh": "但继续前进意味着快点。"
+    },
+    {
+      "id": 249,
+      "start": 629.36,
+      "end": 630.05,
+      "en": "Start leaving now.",
+      "zh": "现在开始离开。"
+    },
+    {
+      "id": 250,
+      "start": 630.47,
+      "end": 632.41,
+      "en": "Go, go to the store, be quick about it.",
+      "zh": "去，去商店，快点。"
+    },
+    {
+      "id": 251,
+      "start": 632.93,
+      "end": 633.81,
+      "en": "So this is a command.",
+      "zh": "所以这是一个命令。"
+    },
+    {
+      "id": 252,
+      "start": 634.29,
+      "end": 635.15,
+      "en": "Get a move on.",
+      "zh": "快点。"
+    },
+    {
+      "id": 253,
+      "start": 635.47,
+      "end": 640.39,
+      "en": "Okay, so take it as a phrase, just like you know the phrase hurry up or go quickly.",
+      "zh": "好吧，把它当作一个短语，就像你知道这个短语快点或快点一样。"
+    },
+    {
+      "id": 254,
+      "start": 641.17,
+      "end": 647.01,
+      "en": "Remember the phrase get a move on as a way of saying, come on, quickly, go, go, go, quickly.",
+      "zh": "记住这句话继续前进，作为一种说法，来吧，快点，去，去，去，快点。"
+    },
+    {
+      "id": 255,
+      "start": 647.43,
+      "end": 647.73,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 256,
+      "start": 647.89,
+      "end": 654.69,
+      "en": "Or as I always say when I'm with friends and we're going slowly somewhere, I say, hey, guys, let's get a move on.",
+      "zh": "或者正如我常说的，当我和朋友在一起，我们会慢慢地去某个地方，我说，嘿，伙计们，让我们继续前进。"
+    },
+    {
+      "id": 257,
+      "start": 654.89,
+      "end": 655.63,
+      "en": "Let's get a move on.",
+      "zh": "让我们继续前进。"
+    },
+    {
+      "id": 258,
+      "start": 655.89,
+      "end": 656.35,
+      "en": "They're going to close.",
+      "zh": "他们要关闭了。"
+    },
+    {
+      "id": 259,
+      "start": 656.99,
+      "end": 657.57,
+      "en": "Let's get going.",
+      "zh": "我们出发吧。"
+    },
+    {
+      "id": 260,
+      "start": 657.83,
+      "end": 658.31,
+      "en": "Let's go here.",
+      "zh": "我们去这里。"
+    },
+    {
+      "id": 261,
+      "start": 659.24,
+      "end": 659.49,
+      "en": "Okay, very good.",
+      "zh": "好，很好。"
+    },
+    {
+      "id": 262,
+      "start": 660.24,
+      "end": 660.79,
+      "en": "So get a move on.",
+      "zh": "所以继续前进。"
+    },
+    {
+      "id": 263,
+      "start": 661.24,
+      "end": 665.39,
+      "en": "Get a move on and why don't we go back and listen to the dialogue for one last time.",
+      "zh": "继续前进，我们为什么不回去听一次对话。"
+    },
+    {
+      "id": 264,
+      "start": 673.43,
+      "end": 675.23,
+      "en": "Honey, we're all out of wine and cheese.",
+      "zh": "亲爱的，我们都没有酒和奶酪了。"
+    },
+    {
+      "id": 265,
+      "start": 675.71,
+      "end": 677.93,
+      "en": "Do you mind running to the deli and picking up a few things?",
+      "zh": "你介意跑到熟食店拿一些东西吗？"
+    },
+    {
+      "id": 266,
+      "start": 678.84,
+      "end": 679.84,
+      "en": "Can it wait?",
+      "zh": "它可以等待吗？"
+    },
+    {
+      "id": 267,
+      "start": 679.84,
+      "end": 681.52,
+      "en": "I'm watching the game right now.",
+      "zh": "我现在正在看比赛。"
+    },
+    {
+      "id": 268,
+      "start": 681.52,
+      "end": 684.89,
+      "en": "Your friends and family are coming over tonight and we still need to get a lot of things.",
+      "zh": "你的朋友和家人今晚要过来，我们仍然需要得到很多东西。"
+    },
+    {
+      "id": 269,
+      "start": 686.0,
+      "end": 687.0,
+      "en": "Fine.",
+      "zh": "好吧。"
+    },
+    {
+      "id": 270,
+      "start": 687.0,
+      "end": 688.0,
+      "en": "What do you need?",
+      "zh": "你需要什么？"
+    },
+    {
+      "id": 271,
+      "start": 688.0,
+      "end": 690.18,
+      "en": "Okay, pick up some cured meats to go with the wine.",
+      "zh": "好吧，拿起一些腌制的肉来搭配酒。"
+    },
+    {
+      "id": 272,
+      "start": 691.0,
+      "end": 696.24,
+      "en": "Maybe a pound of Polish sausages, ham, liverwurst, salami and any other cold cuts that are on sale.",
+      "zh": "也许一磅波兰香肠、火腿、肝香肠、意大利腊肠和任何其他正在销售的冷盘。"
+    },
+    {
+      "id": 273,
+      "start": 697.16,
+      "end": 698.78,
+      "en": "I think I saw a promotion for pastrami.",
+      "zh": "我想我看到了熏牛肉的促销活动。"
+    },
+    {
+      "id": 274,
+      "start": 699.26,
+      "end": 701.92,
+      "en": "Also, get some coleslaw and a jar of olives.",
+      "zh": "另外，买一些凉拌卷心菜和一罐橄榄。"
+    },
+    {
+      "id": 275,
+      "start": 702.44,
+      "end": 703.78,
+      "en": "Whoa, wait a minute.",
+      "zh": "哇，等一下。"
+    },
+    {
+      "id": 276,
+      "start": 704.02,
+      "end": 704.96,
+      "en": "Isn't that a bit too much?",
+      "zh": "是不是有点太过分了？"
+    },
+    {
+      "id": 277,
+      "start": 705.36,
+      "end": 707.2,
+      "en": "I mean, how much is all this going to cost?",
+      "zh": "我的意思是，这一切要花多少钱？"
+    },
+    {
+      "id": 278,
+      "start": 707.76,
+      "end": 708.62,
+      "en": "Never mind that.",
+      "zh": "先别管那个。"
+    },
+    {
+      "id": 279,
+      "start": 709.14,
+      "end": 710.04,
+      "en": "Get some dips as well.",
+      "zh": "也可以做一些下降。"
+    },
+    {
+      "id": 280,
+      "start": 710.76,
+      "end": 714.56,
+      "en": "Get a jar of spinach and blue cheese dips and also some tzatziki.",
+      "zh": "买一罐菠菜蓝纹奶酪蘸酱，再来点希腊酸奶黄瓜酱。"
+    },
+    {
+      "id": 281,
+      "start": 714.56,
+      "end": 716.2,
+      "en": "If they have bean dip, get that as well.",
+      "zh": "如果他们有豆蘸酱，也可以。"
+    },
+    {
+      "id": 282,
+      "start": 717.02,
+      "end": 718.31,
+      "en": "Last but not least, get some pickles.",
+      "zh": "最后别忘了买些腌黄瓜。"
+    },
+    {
+      "id": 283,
+      "start": 718.82,
+      "end": 719.77,
+      "en": "Is that all, your majesty?",
+      "zh": "仅此而已，陛下？"
+    },
+    {
+      "id": 284,
+      "start": 720.84,
+      "end": 721.09,
+      "en": "Very funny.",
+      "zh": "真好笑。"
+    },
+    {
+      "id": 285,
+      "start": 721.84,
+      "end": 722.23,
+      "en": "Get a move on.",
+      "zh": "快点。"
+    },
+    {
+      "id": 286,
+      "start": 722.84,
+      "end": 723.91,
+      "en": "People will be here any minute.",
+      "zh": "人们随时都会在这里。"
+    },
+    {
+      "id": 287,
+      "start": 731.0,
+      "end": 731.58,
+      "en": "All right, we're back.",
+      "zh": "好了，我们回来了。"
+    },
+    {
+      "id": 288,
+      "start": 732.0,
+      "end": 737.2,
+      "en": "So now, Catherine, I understand you're a big fan of pickles and olives and all that stuff.",
+      "zh": "所以现在，凯瑟琳，我知道你是泡菜和橄榄之类的忠实粉丝。"
+    },
+    {
+      "id": 289,
+      "start": 737.2,
+      "end": 739.52,
+      "en": "I love cured food.",
+      "zh": "我喜欢腌制的食物。"
+    },
+    {
+      "id": 290,
+      "start": 739.8,
+      "end": 740.8,
+      "en": "Oh, really?",
+      "zh": "哦，真的吗？"
+    },
+    {
+      "id": 291,
+      "start": 740.86,
+      "end": 741.12,
+      "en": "Pickled.",
+      "zh": "腌制。"
+    },
+    {
+      "id": 292,
+      "start": 741.36,
+      "end": 742.78,
+      "en": "Have you ever had a pickled tomato?",
+      "zh": "你吃过腌制番茄吗？"
+    },
+    {
+      "id": 293,
+      "start": 743.44,
+      "end": 745.28,
+      "en": "I hate pickled tomatoes.",
+      "zh": "我讨厌腌制西红柿。"
+    },
+    {
+      "id": 294,
+      "start": 746.04,
+      "end": 749.78,
+      "en": "Pickled tomatoes, pickled pickles, pickled olives, everything.",
+      "zh": "腌制西红柿，腌制的泡菜，腌制的橄榄，一切。"
+    },
+    {
+      "id": 295,
+      "start": 749.96,
+      "end": 750.96,
+      "en": "I love it all.",
+      "zh": "我爱这一切。"
+    },
+    {
+      "id": 296,
+      "start": 751.18,
+      "end": 755.06,
+      "en": "I hate, I actually, there are a couple of things that I don't really like.",
+      "zh": "我讨厌，实际上，有几件事我不太喜欢。"
+    },
+    {
+      "id": 297,
+      "start": 755.18,
+      "end": 764.52,
+      "en": "For example, coleslaw, you mentioned that it has cabbage in it and many people may know this vegetable as this purple lettuce, right?",
+      "zh": "例如，凉拌卷心菜，你提到它里面有卷心菜，很多人可能都知道这种蔬菜是这种紫色的生菜，对吧？"
+    },
+    {
+      "id": 298,
+      "start": 764.68,
+      "end": 766.24,
+      "en": "It looks like a lettuce, but it's purple.",
+      "zh": "它看起来像生菜，但它是紫色的。"
+    },
+    {
+      "id": 299,
+      "start": 766.24,
+      "end": 766.4,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 300,
+      "start": 767.24,
+      "end": 768.24,
+      "en": "I hate it.",
+      "zh": "我讨厌它。"
+    },
+    {
+      "id": 301,
+      "start": 768.24,
+      "end": 769.24,
+      "en": "I don't like it.",
+      "zh": "我不喜欢它。"
+    },
+    {
+      "id": 302,
+      "start": 769.24,
+      "end": 771.26,
+      "en": "And I actually hate olives and pickles.",
+      "zh": "我真的很讨厌橄榄和泡菜。"
+    },
+    {
+      "id": 303,
+      "start": 771.74,
+      "end": 772.6,
+      "en": "I can't really eat them.",
+      "zh": "我真的不能吃它们。"
+    },
+    {
+      "id": 304,
+      "start": 773.08,
+      "end": 776.44,
+      "en": "Sounds like you don't like bitter things like vinegar, olives.",
+      "zh": "听起来你不喜欢醋、橄榄之类的苦涩的东西。"
+    },
+    {
+      "id": 305,
+      "start": 776.44,
+      "end": 777.96,
+      "en": "Yeah, yeah, no.",
+      "zh": "是的，是的，没有。"
+    },
+    {
+      "id": 306,
+      "start": 779.02,
+      "end": 779.28,
+      "en": "Not a big fan.",
+      "zh": "不是一个大粉丝。"
+    },
+    {
+      "id": 307,
+      "start": 779.28,
+      "end": 780.6,
+      "en": "I'm not a big fan of anything that's bitter.",
+      "zh": "我不喜欢任何苦涩的东西。"
+    },
+    {
+      "id": 308,
+      "start": 780.6,
+      "end": 781.28,
+      "en": "I love it.",
+      "zh": "我很喜欢。"
+    },
+    {
+      "id": 309,
+      "start": 781.6,
+      "end": 782.6,
+      "en": "It's one of my favorite.",
+      "zh": "这是我最喜欢的之一。"
+    },
+    {
+      "id": 310,
+      "start": 782.6,
+      "end": 786.46,
+      "en": "I love salty foods and I love bitter foods and that's all I have to say about it.",
+      "zh": "我喜欢咸味食物，我喜欢苦味食物，这就是我要说的。"
+    },
+    {
+      "id": 311,
+      "start": 786.48,
+      "end": 793.99,
+      "en": "I've never really understood how people have like a whole pickle and they take it out of the jar and they just bite into it.",
+      "zh": "我从来没有真正理解人们是如何把它从罐子里拿出来的，他们只是咬着它。"
+    },
+    {
+      "id": 312,
+      "start": 794.12,
+      "end": 795.33,
+      "en": "It's like, that's nasty.",
+      "zh": "就像，这很讨厌。"
+    },
+    {
+      "id": 313,
+      "start": 795.59,
+      "end": 798.71,
+      "en": "Well, the adjective to describe a pickle's flavor is sour.",
+      "zh": "好吧，描述泡菜味道的形容词是酸的。"
+    },
+    {
+      "id": 314,
+      "start": 799.11,
+      "end": 799.41,
+      "en": "Sour.",
+      "zh": "酸。"
+    },
+    {
+      "id": 315,
+      "start": 799.61,
+      "end": 800.33,
+      "en": "It's very sour.",
+      "zh": "它非常酸。"
+    },
+    {
+      "id": 316,
+      "start": 800.93,
+      "end": 805.61,
+      "en": "And in America, at delis, you can buy full sours or half sours.",
+      "zh": "在美国，在熟食店，您可以购买全酸或半酸。"
+    },
+    {
+      "id": 317,
+      "start": 805.87,
+      "end": 806.13,
+      "en": "Oh, really?",
+      "zh": "哦，真的吗？"
+    },
+    {
+      "id": 318,
+      "start": 806.76,
+      "end": 808.07,
+      "en": "Some pickles are less sour than others.",
+      "zh": "有些泡菜比其他泡菜不那么酸。"
+    },
+    {
+      "id": 319,
+      "start": 808.31,
+      "end": 809.59,
+      "en": "We call it a half sour.",
+      "zh": "我们称之为半酸。"
+    },
+    {
+      "id": 320,
+      "start": 810.01,
+      "end": 812.19,
+      "en": "My favorite pickles are full sours.",
+      "zh": "我最喜欢的泡菜是全酸的。"
+    },
+    {
+      "id": 321,
+      "start": 812.65,
+      "end": 812.79,
+      "en": "Really?",
+      "zh": "真的吗？"
+    },
+    {
+      "id": 322,
+      "start": 813.68,
+      "end": 815.84,
+      "en": "Make you cry a little bit.",
+      "zh": "让你哭一点。"
+    },
+    {
+      "id": 323,
+      "start": 815.84,
+      "end": 817.21,
+      "en": "The whole pickle thing, is this very American?",
+      "zh": "整个泡菜的事情，这很美国吗？"
+    },
+    {
+      "id": 324,
+      "start": 818.0,
+      "end": 820.19,
+      "en": "Because you always have pickles in burgers, for example, right?",
+      "zh": "因为你总是在汉堡里有泡菜，对吧？"
+    },
+    {
+      "id": 325,
+      "start": 820.28,
+      "end": 822.08,
+      "en": "You go to McDonald's, you have pickles in burgers.",
+      "zh": "你去麦当劳，你有汉堡的泡菜。"
+    },
+    {
+      "id": 326,
+      "start": 822.08,
+      "end": 824.56,
+      "en": "Is this very American or is this coming from another place?",
+      "zh": "这是非常美国的还是来自另一个地方？"
+    },
+    {
+      "id": 327,
+      "start": 824.56,
+      "end": 825.81,
+      "en": "It comes from Europe.",
+      "zh": "它来自欧洲。"
+    },
+    {
+      "id": 328,
+      "start": 825.96,
+      "end": 826.96,
+      "en": "Oh, really?",
+      "zh": "哦，真的吗？"
+    },
+    {
+      "id": 329,
+      "start": 826.96,
+      "end": 830.69,
+      "en": "A lot of German food involves pickles, pickled vegetables.",
+      "zh": "很多德国食物都涉及泡菜、腌制蔬菜。"
+    },
+    {
+      "id": 330,
+      "start": 831.56,
+      "end": 836.23,
+      "en": "The Koreans also, Korean food has a lot of pickled vegetables like kimchi, which is pickled cabbage.",
+      "zh": "韩国人也有很多腌菜，比如泡菜，是腌白菜。"
+    },
+    {
+      "id": 331,
+      "start": 837.0,
+      "end": 837.31,
+      "en": "Oh, that's right.",
+      "zh": "哦，对了。"
+    },
+    {
+      "id": 332,
+      "start": 838.0,
+      "end": 840.16,
+      "en": "And in Chinese culture as well, a lot of pickled foods.",
+      "zh": "在中国文化中，还有很多腌制食品。"
+    },
+    {
+      "id": 333,
+      "start": 840.16,
+      "end": 842.41,
+      "en": "So I think this is something that's very common all over the world.",
+      "zh": "所以我认为这是全世界非常普遍的事情。"
+    },
+    {
+      "id": 334,
+      "start": 843.07,
+      "end": 844.05,
+      "en": "You can have pickled fish.",
+      "zh": "你可以吃腌鱼。"
+    },
+    {
+      "id": 335,
+      "start": 845.07,
+      "end": 845.43,
+      "en": "Really?",
+      "zh": "真的吗？"
+    },
+    {
+      "id": 336,
+      "start": 845.6,
+      "end": 846.6,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 337,
+      "start": 846.6,
+      "end": 847.23,
+      "en": "You can pickle anything.",
+      "zh": "你可以腌制任何东西。"
+    },
+    {
+      "id": 338,
+      "start": 847.6,
+      "end": 849.89,
+      "en": "I don't know if we pickle things in Latin America.",
+      "zh": "我不知道我们是否在拉丁美洲腌制东西。"
+    },
+    {
+      "id": 339,
+      "start": 850.13,
+      "end": 851.89,
+      "en": "This is why it seems very strange to me.",
+      "zh": "这就是为什么它对我来说很奇怪。"
+    },
+    {
+      "id": 340,
+      "start": 852.41,
+      "end": 853.83,
+      "en": "But this is a really interesting topic.",
+      "zh": "但这是一个非常有趣的话题。"
+    },
+    {
+      "id": 341,
+      "start": 853.83,
+      "end": 856.53,
+      "en": "Why don't you let us know what your favorite cured meats are?",
+      "zh": "你为什么不让我们知道你最喜欢的腌肉是什么？"
+    },
+    {
+      "id": 342,
+      "start": 856.65,
+      "end": 858.29,
+      "en": "I know there are a lot of different types.",
+      "zh": "我知道有很多不同的类型。"
+    },
+    {
+      "id": 343,
+      "start": 859.06,
+      "end": 862.88,
+      "en": "And if you like pickles or not, maybe some people out there will support me and say they don't like pickles.",
+      "zh": "如果你是否喜欢泡菜，也许有些人会支持我并说他们不喜欢泡菜。"
+    },
+    {
+      "id": 344,
+      "start": 862.88,
+      "end": 863.88,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 345,
+      "start": 863.88,
+      "end": 865.36,
+      "en": "And if you have delis in your home country, let us know.",
+      "zh": "如果您在您的祖国有熟食店，请告诉我们。"
+    },
+    {
+      "id": 346,
+      "start": 865.36,
+      "end": 866.67,
+      "en": "I've always been curious about this.",
+      "zh": "我一直对这个好奇。"
+    },
+    {
+      "id": 347,
+      "start": 866.88,
+      "end": 869.43,
+      "en": "Do you have delis or do you just have a butcher shop?",
+      "zh": "你有熟食店还是只有肉店？"
+    },
+    {
+      "id": 348,
+      "start": 869.71,
+      "end": 870.05,
+      "en": "What's the difference?",
+      "zh": "有什么区别？"
+    },
+    {
+      "id": 349,
+      "start": 870.71,
+      "end": 870.93,
+      "en": "Awesome.",
+      "zh": "太棒了。"
+    },
+    {
+      "id": 350,
+      "start": 871.92,
+      "end": 873.88,
+      "en": "So we'll see everyone there, EnglishPod.com.",
+      "zh": "所以我们会在那里见到 Englishpod.com。"
+    },
+    {
+      "id": 351,
+      "start": 873.88,
+      "end": 874.41,
+      "en": "Until next time.",
+      "zh": "下次再见。"
+    },
+    {
+      "id": 352,
+      "start": 874.88,
+      "end": 875.07,
+      "en": "Bye everyone.",
+      "zh": "大家再见。"
+    },
+    {
+      "id": 353,
+      "start": 875.88,
+      "end": 883.069,
+      "en": "Bye.",
+      "zh": "再见。"
+    }
+  ],
+  "dialog": {
+    "start": 107.4,
+    "end": 157.65,
+    "segmentIds": [
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56
+    ]
+  }
+}

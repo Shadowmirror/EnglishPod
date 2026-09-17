@@ -1,0 +1,1817 @@
+{
+  "version": 1,
+  "id": 323,
+  "number": "0323",
+  "title": "Daily Life - Cancelled Flight",
+  "audio": "mp3/323. Daily Life - Cancelled Flight.mp3",
+  "duration": 767.4253125,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.91,
+      "end": 2.89,
+      "en": "Hello everyone and welcome to EnglishPod.",
+      "zh": "大家好，欢迎来到 EnglishPod。"
+    },
+    {
+      "id": 2,
+      "start": 3.15,
+      "end": 3.67,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 4.17,
+      "end": 7.23,
+      "en": "And my name is Kathryn and today we have a great lesson for you about traveling.",
+      "zh": "我的名字是凯瑟琳，今天我们为您提供了一个关于旅行的重要教训。"
+    },
+    {
+      "id": 4,
+      "start": 7.81,
+      "end": 8.23,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 5,
+      "start": 8.51,
+      "end": 20.95,
+      "en": "You know, we have taken a look at previous lessons where you can buy a ticket, how to book a flight, what to do at the airport, but now we are going to see what we can do if our flight gets canceled.",
+      "zh": "你知道，我们已经看过以前的课程，您可以在其中购买机票、如何预订航班、在机场做什么，但现在我们将看看如果我们的航班被取消，我们可以做什么。"
+    },
+    {
+      "id": 6,
+      "start": 21.51,
+      "end": 29.49,
+      "en": "Okay, this is not a fun situation, but hopefully with our help you'll be able to understand what these messages are about flights that are canceled or delayed.",
+      "zh": "好吧，这不是一个有趣的情况，但希望在我们的帮助下，您将能够了解这些关于取消或延误航班的信息是什么。"
+    },
+    {
+      "id": 7,
+      "start": 29.77,
+      "end": 31.65,
+      "en": "So let's take a listen to today's dialogue.",
+      "zh": "所以让我们听听今天的对话。"
+    },
+    {
+      "id": 8,
+      "start": 32.56,
+      "end": 35.44,
+      "en": "Good afternoon, sir.",
+      "zh": "下午好，先生。"
+    },
+    {
+      "id": 9,
+      "start": 38.57,
+      "end": 40.53,
+      "en": "May I please see your passport and reservation?",
+      "zh": "请出示您的护照和预订信息，好吗？"
+    },
+    {
+      "id": 10,
+      "start": 41.15,
+      "end": 41.49,
+      "en": "Here you go.",
+      "zh": "给你。"
+    },
+    {
+      "id": 11,
+      "start": 42.79,
+      "end": 44.35,
+      "en": "Oh, I'm sorry, sir.",
+      "zh": "哦，对不起，先生。"
+    },
+    {
+      "id": 12,
+      "start": 44.83,
+      "end": 47.93,
+      "en": "This flight has been canceled due to some mechanical problems.",
+      "zh": "这趟航班因机械故障取消了。"
+    },
+    {
+      "id": 13,
+      "start": 48.37,
+      "end": 48.89,
+      "en": "Canceled?",
+      "zh": "取消了？"
+    },
+    {
+      "id": 14,
+      "start": 49.17,
+      "end": 50.11,
+      "en": "What am I supposed to do now?",
+      "zh": "那我现在怎么办？"
+    },
+    {
+      "id": 15,
+      "start": 50.7,
+      "end": 54.54,
+      "en": "We apologize for any inconveniences that may be caused by this.",
+      "zh": "给您造成不便，我们深表歉意。"
+    },
+    {
+      "id": 16,
+      "start": 55.16,
+      "end": 62.68,
+      "en": "If your flight is urgent, I could put you on a waiting list for another flight this evening, but it's on a first come, first serve basis.",
+      "zh": "如果您急着走，我可以把您加入今晚另一班航班的候补名单，但座位先到先得。"
+    },
+    {
+      "id": 17,
+      "start": 62.92,
+      "end": 65.72,
+      "en": "So there's no guarantee you'll be able to take that flight.",
+      "zh": "因此无法保证您一定能坐上那班飞机。"
+    },
+    {
+      "id": 18,
+      "start": 66.14,
+      "end": 67.28,
+      "en": "What are my other options?",
+      "zh": "那还有别的办法吗？"
+    },
+    {
+      "id": 19,
+      "start": 68.08,
+      "end": 75.1,
+      "en": "Well, if you can wait until tomorrow, we will put you up in a hotel for today and you can take the scheduled flight for tomorrow morning.",
+      "zh": "如果您可以等到明天，我们今天会安排您住酒店，您可以乘坐明天早上的航班。"
+    },
+    {
+      "id": 20,
+      "start": 75.64,
+      "end": 76.14,
+      "en": "That's fine.",
+      "zh": "没关系。"
+    },
+    {
+      "id": 21,
+      "start": 76.42,
+      "end": 76.92,
+      "en": "I'll do that then.",
+      "zh": "那就这样安排吧。"
+    },
+    {
+      "id": 22,
+      "start": 77.3,
+      "end": 78.66,
+      "en": "Thank you for your understanding, sir.",
+      "zh": "感谢您的理解，先生。"
+    },
+    {
+      "id": 23,
+      "start": 79.04,
+      "end": 80.08,
+      "en": "I'll book your flight now.",
+      "zh": "我现在就替您改订航班。"
+    },
+    {
+      "id": 24,
+      "start": 81.04,
+      "end": 84.04,
+      "en": "All right, we're back.",
+      "zh": "好了，我们回来了。"
+    },
+    {
+      "id": 25,
+      "start": 84.04,
+      "end": 87.05,
+      "en": "So now it's time for us to go into Language Takeaway.",
+      "zh": "所以现在是我们进入语言外卖的时候了。"
+    },
+    {
+      "id": 26,
+      "start": 89.88,
+      "end": 90.94,
+      "en": "Language Takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 27,
+      "start": 91.56,
+      "end": 96.92,
+      "en": "All right, in Language Takeaway today, we have about four words or phrases.",
+      "zh": "好吧，在今天的语言外卖中，我们有大约四个单词或短语。"
+    },
+    {
+      "id": 28,
+      "start": 96.92,
+      "end": 100.3,
+      "en": "The first one is the reason for this cancellation.",
+      "zh": "第一个是取消的原因。"
+    },
+    {
+      "id": 29,
+      "start": 100.3,
+      "end": 101.88,
+      "en": "The reason is mechanical problems.",
+      "zh": "原因是机械问题。"
+    },
+    {
+      "id": 30,
+      "start": 102.52,
+      "end": 103.52,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 31,
+      "start": 103.52,
+      "end": 108.06,
+      "en": "She said that the airplane has some mechanical problems and that's why the flight is canceled.",
+      "zh": "她说飞机有一些机械问题，这就是飞机被取消的原因。"
+    },
+    {
+      "id": 32,
+      "start": 108.76,
+      "end": 109.78,
+      "en": "So the key here is mechanical.",
+      "zh": "所以这里的关键是机械。"
+    },
+    {
+      "id": 33,
+      "start": 110.84,
+      "end": 113.12,
+      "en": "Mechanical meaning like related to machines, right?",
+      "zh": "与机器相关的机械意义，对吧？"
+    },
+    {
+      "id": 34,
+      "start": 113.6,
+      "end": 118.8,
+      "en": "All right, so something that's a mechanical problem has to do with the actual structure of the plane.",
+      "zh": "好吧，所以这是一个机械问题与平面的实际结构有关。"
+    },
+    {
+      "id": 35,
+      "start": 118.8,
+      "end": 118.94,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 36,
+      "start": 119.8,
+      "end": 128.26,
+      "en": "So for example, maybe something is wrong with the wings or maybe something is wrong with the engines, some type of problem that has to do with the mechanics of the machine.",
+      "zh": "因此，例如，机翼可能有问题，或者发动机有问题，与机器的机制有关的某种类型的问题。"
+    },
+    {
+      "id": 37,
+      "start": 128.68,
+      "end": 129.68,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 38,
+      "start": 129.68,
+      "end": 135.26,
+      "en": "And obviously, if you have a problem with the wings or the wheels or the engine, you don't want to fly that plane.",
+      "zh": "显然，如果您对机翼、车轮或发动机有问题，您不想驾驶那架飞机。"
+    },
+    {
+      "id": 39,
+      "start": 135.88,
+      "end": 136.04,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 40,
+      "start": 136.88,
+      "end": 139.56,
+      "en": "So this caused the canceled flight.",
+      "zh": "所以这导致了取消航班。"
+    },
+    {
+      "id": 41,
+      "start": 139.56,
+      "end": 143.98,
+      "en": "Now after that, we heard this word, we apologize for any inconveniences.",
+      "zh": "现在，我们听到了这个词，对于任何不便，我们深表歉意。"
+    },
+    {
+      "id": 42,
+      "start": 144.24,
+      "end": 145.68,
+      "en": "What's an inconvenience, Marco?",
+      "zh": "有什么不便，马可？"
+    },
+    {
+      "id": 43,
+      "start": 145.96,
+      "end": 146.22,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 44,
+      "start": 146.36,
+      "end": 157.22,
+      "en": "Well, obviously, I planned to take this flight, let's say Tuesday at 8 a.m. and if the flight is canceled, that means I have to wait an hour or three hours or maybe for the next day.",
+      "zh": "好吧，很明显，我计划乘坐这趟航班，比如说周二早上 8 点，如果航班被取消，这意味着我必须等待一三个小时，或者第二天。"
+    },
+    {
+      "id": 45,
+      "start": 157.42,
+      "end": 158.56,
+      "en": "So it's an inconvenience.",
+      "zh": "所以这是一个不便。"
+    },
+    {
+      "id": 46,
+      "start": 159.0,
+      "end": 160.88,
+      "en": "It means it's not convenient for me.",
+      "zh": "这意味着它对我来说不方便。"
+    },
+    {
+      "id": 47,
+      "start": 160.88,
+      "end": 162.24,
+      "en": "It causes me some trouble.",
+      "zh": "它给我带来了一些麻烦。"
+    },
+    {
+      "id": 48,
+      "start": 162.88,
+      "end": 167.32,
+      "en": "All right, so something that is inconvenient causes problems or causes trouble.",
+      "zh": "好吧，所以不方便的事情会导致问题或引起麻烦。"
+    },
+    {
+      "id": 49,
+      "start": 167.58,
+      "end": 167.96,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 50,
+      "start": 168.84,
+      "end": 173.72,
+      "en": "So for example, you have this late flight or canceled flight, that's an inconvenience.",
+      "zh": "因此，例如，您有这个迟到的航班或取消的航班，这很不便。"
+    },
+    {
+      "id": 51,
+      "start": 173.72,
+      "end": 176.04,
+      "en": "But also, small things can be inconvenient as well.",
+      "zh": "而且，小事也可能不方便。"
+    },
+    {
+      "id": 52,
+      "start": 176.8,
+      "end": 179.16,
+      "en": "Like I want to go home at 5.",
+      "zh": "就像我想在 5 点回家一样。"
+    },
+    {
+      "id": 53,
+      "start": 179.33,
+      "end": 181.07,
+      "en": "Unfortunately, I have to write this report.",
+      "zh": "不幸的是，我必须写这份报告。"
+    },
+    {
+      "id": 54,
+      "start": 181.4,
+      "end": 181.95,
+      "en": "It's very inconvenient.",
+      "zh": "这很不方便。"
+    },
+    {
+      "id": 55,
+      "start": 183.06,
+      "end": 183.23,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 56,
+      "start": 184.06,
+      "end": 190.01,
+      "en": "So maybe you have a doctor's appointment tomorrow at 12, but you also have a meeting at your work so it's inconvenient, these two dates.",
+      "zh": "所以也许你明天 12 点有一个医生预约，但你的工作中也有一个会议，所以这两个约会很不方便。"
+    },
+    {
+      "id": 57,
+      "start": 190.57,
+      "end": 192.67,
+      "en": "All right, they cause problems for each other.",
+      "zh": "好吧，它们会给彼此带来问题。"
+    },
+    {
+      "id": 58,
+      "start": 193.09,
+      "end": 198.01,
+      "en": "So after that, the service person says if your flight is urgent, I can put you on a waiting list.",
+      "zh": "所以在那之后，服务人员说如果你的航班很紧急，我可以把你列入等候名单。"
+    },
+    {
+      "id": 59,
+      "start": 198.43,
+      "end": 198.75,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 60,
+      "start": 199.48,
+      "end": 199.6,
+      "en": "Waiting list.",
+      "zh": "等候名单。"
+    },
+    {
+      "id": 61,
+      "start": 200.48,
+      "end": 203.46,
+      "en": "So this is another important phrase to understand when we're talking about canceled flights.",
+      "zh": "因此，当我们谈论取消的航班时，这是另一个重要的短语。"
+    },
+    {
+      "id": 62,
+      "start": 204.0,
+      "end": 204.16,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 63,
+      "start": 205.0,
+      "end": 218.0,
+      "en": "We usually get put on a waiting list and it's basically a list with everyone's names where you are waiting for the next available flight or you're waiting to be able to have the service provided.",
+      "zh": "我们通常会被列入等候名单，这基本上是一个列表，其中包含每个人的姓名，您正在等待下一个可用的航班，或者您正在等待能够获得所提供的服务。"
+    },
+    {
+      "id": 64,
+      "start": 218.88,
+      "end": 225.43,
+      "en": "All right, so you can have a waiting list at an airport like here, but you can also have a waiting list at a restaurant, right?",
+      "zh": "好吧，所以你可以在机场有一个等候名单，但你也可以在餐厅有一个等候名单，对吧？"
+    },
+    {
+      "id": 65,
+      "start": 225.94,
+      "end": 226.13,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 66,
+      "start": 226.94,
+      "end": 229.37,
+      "en": "Restaurants are super popular and you got to get on a waiting list.",
+      "zh": "餐厅非常受欢迎，您必须进入等候名单。"
+    },
+    {
+      "id": 67,
+      "start": 229.67,
+      "end": 231.39,
+      "en": "So can I put my name on the waiting list?",
+      "zh": "那么我可以把我的名字放在等候名单上吗？"
+    },
+    {
+      "id": 68,
+      "start": 231.61,
+      "end": 234.45,
+      "en": "That means can you call me when there's a free table?",
+      "zh": "这意味着当有免费桌子时你可以给我打电话吗？"
+    },
+    {
+      "id": 69,
+      "start": 234.79,
+      "end": 235.55,
+      "en": "Right, exactly.",
+      "zh": "对，没错。"
+    },
+    {
+      "id": 70,
+      "start": 236.53,
+      "end": 245.49,
+      "en": "So even though we are on this waiting list, it doesn't mean that we are guaranteed to be able to take this flight this evening.",
+      "zh": "因此，即使我们在这个等候名单上，这并不意味着我们可以保证今晚能够乘坐这次航班。"
+    },
+    {
+      "id": 71,
+      "start": 245.75,
+      "end": 246.81,
+      "en": "So there is no guarantee.",
+      "zh": "所以没有保证。"
+    },
+    {
+      "id": 72,
+      "start": 247.58,
+      "end": 256.75,
+      "en": "All right, this guarantee, this is an important thing to talk about because a guarantee is something that means that we will definitely get a later flight.",
+      "zh": "好吧，这个保证，这是一件重要的事情，因为保证是意味着我们肯定会得到以后的航班。"
+    },
+    {
+      "id": 73,
+      "start": 257.08,
+      "end": 257.77,
+      "en": "Yeah, we promise.",
+      "zh": "是的，我们保证。"
+    },
+    {
+      "id": 74,
+      "start": 258.17,
+      "end": 258.65,
+      "en": "We promise.",
+      "zh": "我们承诺。"
+    },
+    {
+      "id": 75,
+      "start": 259.08,
+      "end": 262.4,
+      "en": "So you often see the word guarantee in advertisements.",
+      "zh": "所以你经常在广告中看到“保证”这个词。"
+    },
+    {
+      "id": 76,
+      "start": 262.4,
+      "end": 265.25,
+      "en": "For example, this TV has a six month guarantee.",
+      "zh": "例如，这台电视有六个月的保证。"
+    },
+    {
+      "id": 77,
+      "start": 265.76,
+      "end": 266.97,
+      "en": "So we guarantee it won't break.",
+      "zh": "所以我们保证它不会破裂。"
+    },
+    {
+      "id": 78,
+      "start": 267.51,
+      "end": 269.19,
+      "en": "If it does, we will fix it.",
+      "zh": "如果是这样，我们将修复它。"
+    },
+    {
+      "id": 79,
+      "start": 270.11,
+      "end": 272.21,
+      "en": "But no guarantee means that we can't promise.",
+      "zh": "但没有保证意味着我们不能承诺。"
+    },
+    {
+      "id": 80,
+      "start": 272.47,
+      "end": 273.29,
+      "en": "We don't promise.",
+      "zh": "我们不承诺。"
+    },
+    {
+      "id": 81,
+      "start": 274.25,
+      "end": 276.35,
+      "en": "So it's possible that you won't get a flight.",
+      "zh": "所以有可能你没有航班。"
+    },
+    {
+      "id": 82,
+      "start": 276.79,
+      "end": 283.27,
+      "en": "So for example, if you buy a new car, the manufacturer will guarantee that it's in good condition and it won't break down.",
+      "zh": "因此，例如，如果您购买新车，制造商将保证它的状况良好并且不会发生故障。"
+    },
+    {
+      "id": 83,
+      "start": 283.79,
+      "end": 288.93,
+      "en": "But if you buy a used car, it's unlikely that they will give you that same guarantee.",
+      "zh": "但如果你买一辆二手车，他们不太可能给你同样的保证。"
+    },
+    {
+      "id": 84,
+      "start": 289.11,
+      "end": 289.57,
+      "en": "No, that's right.",
+      "zh": "不，是对的。"
+    },
+    {
+      "id": 85,
+      "start": 289.73,
+      "end": 291.37,
+      "en": "They cannot promise it because they don't know.",
+      "zh": "他们不能承诺，因为他们不知道。"
+    },
+    {
+      "id": 86,
+      "start": 291.71,
+      "end": 291.87,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 87,
+      "start": 292.84,
+      "end": 294.53,
+      "en": "All right, so a lot of words and phrases there.",
+      "zh": "好吧，所以那里有很多单词和短语。"
+    },
+    {
+      "id": 88,
+      "start": 294.67,
+      "end": 296.85,
+      "en": "Why don't we go back and listen to our dialogue again.",
+      "zh": "我们为什么不回去再听我们的对话。"
+    },
+    {
+      "id": 89,
+      "start": 302.59,
+      "end": 303.43,
+      "en": "Good afternoon, sir.",
+      "zh": "下午好，先生。"
+    },
+    {
+      "id": 90,
+      "start": 303.79,
+      "end": 305.73,
+      "en": "May I please see your passport and reservation?",
+      "zh": "请出示您的护照和预订信息，好吗？"
+    },
+    {
+      "id": 91,
+      "start": 306.33,
+      "end": 306.67,
+      "en": "Here you go.",
+      "zh": "给你。"
+    },
+    {
+      "id": 92,
+      "start": 308.24,
+      "end": 309.54,
+      "en": "Oh, I'm sorry, sir.",
+      "zh": "哦，对不起，先生。"
+    },
+    {
+      "id": 93,
+      "start": 310.26,
+      "end": 313.06,
+      "en": "This flight has been canceled due to some mechanical problems.",
+      "zh": "这趟航班因机械故障取消了。"
+    },
+    {
+      "id": 94,
+      "start": 313.4,
+      "end": 314.4,
+      "en": "Canceled?",
+      "zh": "取消了？"
+    },
+    {
+      "id": 95,
+      "start": 314.4,
+      "end": 315.3,
+      "en": "What am I supposed to do now?",
+      "zh": "那我现在怎么办？"
+    },
+    {
+      "id": 96,
+      "start": 315.9,
+      "end": 319.72,
+      "en": "We apologize for any inconveniences that may be caused by this.",
+      "zh": "给您造成不便，我们深表歉意。"
+    },
+    {
+      "id": 97,
+      "start": 320.38,
+      "end": 324.74,
+      "en": "If your flight is urgent, I could put you on a waiting list for another flight this evening.",
+      "zh": "如果您的航班很紧急，我可以让您在今晚的另一班航班上等候名单。"
+    },
+    {
+      "id": 98,
+      "start": 325.26,
+      "end": 327.86,
+      "en": "But it's on a first come first serve basis.",
+      "zh": "但它是先到先得的。"
+    },
+    {
+      "id": 99,
+      "start": 328.1,
+      "end": 330.88,
+      "en": "So there's no guarantee you'll be able to take that flight.",
+      "zh": "因此无法保证您一定能坐上那班飞机。"
+    },
+    {
+      "id": 100,
+      "start": 331.32,
+      "end": 332.46,
+      "en": "What are my other options?",
+      "zh": "那还有别的办法吗？"
+    },
+    {
+      "id": 101,
+      "start": 333.24,
+      "end": 337.3,
+      "en": "Well, if you can wait until tomorrow, we will put you up in a hotel for today.",
+      "zh": "好吧，如果你能等到明天，我们今天就把你送到酒店。"
+    },
+    {
+      "id": 102,
+      "start": 338.2,
+      "end": 340.36,
+      "en": "And you can take the scheduled flight for tomorrow morning.",
+      "zh": "你可以乘坐明天早上的定期航班。"
+    },
+    {
+      "id": 103,
+      "start": 341.08,
+      "end": 341.3,
+      "en": "That's fine.",
+      "zh": "没关系。"
+    },
+    {
+      "id": 104,
+      "start": 342.08,
+      "end": 343.08,
+      "en": "I'll do that then.",
+      "zh": "那就这样安排吧。"
+    },
+    {
+      "id": 105,
+      "start": 343.08,
+      "end": 343.84,
+      "en": "Thank you for your understanding, sir.",
+      "zh": "感谢您的理解，先生。"
+    },
+    {
+      "id": 106,
+      "start": 344.28,
+      "end": 345.26,
+      "en": "I'll book your flight now.",
+      "zh": "我现在就替您改订航班。"
+    },
+    {
+      "id": 107,
+      "start": 346.16,
+      "end": 356.24,
+      "en": "All right, so now let's take a look at three key phrases that we have prepared for you on Fluency Builder.",
+      "zh": "好吧，现在让我们来看看我们在 Fluency Builder 上为您准备的三个关键短语。"
+    },
+    {
+      "id": 108,
+      "start": 356.24,
+      "end": 356.52,
+      "en": "Fluency Builder.",
+      "zh": "流利表达。"
+    },
+    {
+      "id": 109,
+      "start": 357.77,
+      "end": 361.33,
+      "en": "Okay, so the first phrase we have here is a very important one.",
+      "zh": "好的，所以我们这里的第一个短语是一个非常重要的短语。"
+    },
+    {
+      "id": 110,
+      "start": 361.45,
+      "end": 364.03,
+      "en": "This tells us about the cause of the problem.",
+      "zh": "这告诉我们问题的原因。"
+    },
+    {
+      "id": 111,
+      "start": 364.35,
+      "end": 367.25,
+      "en": "The service person said, I'm sorry, sir.",
+      "zh": "服务人员说，对不起，先生。"
+    },
+    {
+      "id": 112,
+      "start": 367.73,
+      "end": 371.53,
+      "en": "This flight has been canceled due to some mechanical problems.",
+      "zh": "这趟航班因机械故障取消了。"
+    },
+    {
+      "id": 113,
+      "start": 371.99,
+      "end": 372.19,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 114,
+      "start": 372.69,
+      "end": 377.73,
+      "en": "So this phrase due to basically is saying because of, right?",
+      "zh": "所以这个短语因为基本上是说是因为，对吧？"
+    },
+    {
+      "id": 115,
+      "start": 378.05,
+      "end": 378.29,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 116,
+      "start": 378.41,
+      "end": 381.29,
+      "en": "So this flight has been canceled because of mechanical problems.",
+      "zh": "因此，由于机械问题，该航班已被取消。"
+    },
+    {
+      "id": 117,
+      "start": 381.32,
+      "end": 384.44,
+      "en": "And remember this due is D-U-E.",
+      "zh": "请记住，这是 D-U-E。"
+    },
+    {
+      "id": 118,
+      "start": 384.44,
+      "end": 384.68,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 119,
+      "start": 385.44,
+      "end": 386.44,
+      "en": "D-U-E.",
+      "zh": "拼写是 D-U-E。"
+    },
+    {
+      "id": 120,
+      "start": 386.44,
+      "end": 392.64,
+      "en": "So I think it's kind of a nicer or more formal way of saying because of or the reason is.",
+      "zh": "所以我认为这是一种更好或更正式的表达方式，因为或原因是。"
+    },
+    {
+      "id": 121,
+      "start": 393.16,
+      "end": 394.16,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 122,
+      "start": 394.16,
+      "end": 399.52,
+      "en": "So for example, the picnic has been canceled due to bad weather.",
+      "zh": "因此，例如，由于天气恶劣，野餐已被取消。"
+    },
+    {
+      "id": 123,
+      "start": 399.52,
+      "end": 406.16,
+      "en": "So it sounds a lot more professional, a lot more formal than if you say because of bad weather.",
+      "zh": "所以这听起来更专业，比你说因为天气不好更正式。"
+    },
+    {
+      "id": 124,
+      "start": 406.16,
+      "end": 407.16,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 125,
+      "start": 407.16,
+      "end": 410.06,
+      "en": "So just remember here due to indicates the cause or the reason.",
+      "zh": "所以请记住这里是因为指出原因或原因。"
+    },
+    {
+      "id": 126,
+      "start": 410.32,
+      "end": 410.9,
+      "en": "It's like saying because.",
+      "zh": "这就像说是因为。"
+    },
+    {
+      "id": 127,
+      "start": 411.32,
+      "end": 412.32,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 128,
+      "start": 412.47,
+      "end": 426.65,
+      "en": "Now, when we were talking about the flights, we said that we are on the waiting list, but in order to catch this flight, they are going to take people on a first come first served basis.",
+      "zh": "现在，当我们谈论航班时，我们说我们在等候名单上，但为了赶上这趟航班，他们将以先到先得的方式带走人。"
+    },
+    {
+      "id": 129,
+      "start": 427.32,
+      "end": 427.56,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 130,
+      "start": 428.12,
+      "end": 429.28,
+      "en": "First come first served.",
+      "zh": "先到先得。"
+    },
+    {
+      "id": 131,
+      "start": 429.28,
+      "end": 433.68,
+      "en": "Now, this is again a very common phrase.",
+      "zh": "现在，这又是一个非常常见的短语。"
+    },
+    {
+      "id": 132,
+      "start": 433.68,
+      "end": 436.26,
+      "en": "It's related to that waiting list thing we were talking about.",
+      "zh": "这与我们正在谈论的等待名单有关。"
+    },
+    {
+      "id": 133,
+      "start": 436.78,
+      "end": 441.02,
+      "en": "If you have a waiting list, usually the waiting list is first come first serve.",
+      "zh": "如果您有等候名单，通常等待名单是先到先得的。"
+    },
+    {
+      "id": 134,
+      "start": 441.44,
+      "end": 447.08,
+      "en": "So I could say, am I guaranteed a spot?",
+      "zh": "所以我可以说，我有保证的地方吗？"
+    },
+    {
+      "id": 135,
+      "start": 447.08,
+      "end": 447.68,
+      "en": "And you could say, well.",
+      "zh": "你可以说，嗯。"
+    },
+    {
+      "id": 136,
+      "start": 447.96,
+      "end": 449.3,
+      "en": "It's first come first serve.",
+      "zh": "先到先得。"
+    },
+    {
+      "id": 137,
+      "start": 449.56,
+      "end": 450.38,
+      "en": "Maybe, maybe not.",
+      "zh": "也许，也许不是。"
+    },
+    {
+      "id": 138,
+      "start": 450.8,
+      "end": 451.8,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 139,
+      "start": 451.8,
+      "end": 453.7,
+      "en": "If I'm number one on the list, I will probably get a seat.",
+      "zh": "如果我在名单上排名第一，我可能会得到一个座位。"
+    },
+    {
+      "id": 140,
+      "start": 454.12,
+      "end": 457.05,
+      "en": "But if I'm number 30, probably not.",
+      "zh": "但如果我是 30 号，可能不会。"
+    },
+    {
+      "id": 141,
+      "start": 457.56,
+      "end": 461.07,
+      "en": "So what we mean by it is that we don't give priority to anyone.",
+      "zh": "所以我们的意思是我们不优先考虑任何人。"
+    },
+    {
+      "id": 142,
+      "start": 461.34,
+      "end": 463.65,
+      "en": "We don't say, oh, you are more important or you're not.",
+      "zh": "我们不说，哦，你更重要，或者你不重要。"
+    },
+    {
+      "id": 143,
+      "start": 463.85,
+      "end": 465.63,
+      "en": "Whoever comes first gets it.",
+      "zh": "谁先来得了。"
+    },
+    {
+      "id": 144,
+      "start": 465.88,
+      "end": 466.11,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 145,
+      "start": 466.88,
+      "end": 469.45,
+      "en": "So if I come to the restaurant at five o'clock, I get to sit first.",
+      "zh": "所以如果我五点钟来餐厅，我可以先坐下来。"
+    },
+    {
+      "id": 146,
+      "start": 469.84,
+      "end": 471.37,
+      "en": "But if you come at 510, you're next.",
+      "zh": "但如果你在 510 来，你就是下一个。"
+    },
+    {
+      "id": 147,
+      "start": 471.68,
+      "end": 473.36,
+      "en": "And after you, 530.",
+      "zh": "在你之后，530。"
+    },
+    {
+      "id": 148,
+      "start": 473.36,
+      "end": 474.89,
+      "en": "So it's first come first serve.",
+      "zh": "所以先到先得。"
+    },
+    {
+      "id": 149,
+      "start": 475.08,
+      "end": 477.48,
+      "en": "It depends on when you arrive.",
+      "zh": "这取决于您何时到达。"
+    },
+    {
+      "id": 150,
+      "start": 477.48,
+      "end": 477.71,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 151,
+      "start": 478.48,
+      "end": 480.31,
+      "en": "So obviously this wasn't convenient for us.",
+      "zh": "所以显然这对我们来说不方便。"
+    },
+    {
+      "id": 152,
+      "start": 480.56,
+      "end": 482.91,
+      "en": "So we are going to wait until tomorrow.",
+      "zh": "所以我们要等到明天。"
+    },
+    {
+      "id": 153,
+      "start": 483.24,
+      "end": 486.1,
+      "en": "But the airline will put us up in a hotel.",
+      "zh": "但航空公司会把我们送进酒店。"
+    },
+    {
+      "id": 154,
+      "start": 486.3,
+      "end": 488.06,
+      "en": "We will put you up in a hotel.",
+      "zh": "我们会把你送到酒店。"
+    },
+    {
+      "id": 155,
+      "start": 488.16,
+      "end": 489.16,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 156,
+      "start": 489.16,
+      "end": 492.14,
+      "en": "So let's take this as a phrase because we all know what a hotel is.",
+      "zh": "所以让我们把它当作一个短语，因为我们都知道酒店是什么。"
+    },
+    {
+      "id": 157,
+      "start": 492.32,
+      "end": 494.6,
+      "en": "It's a place where you stay when you're on holiday or business.",
+      "zh": "当您度假或出差时，这里是您住的地方。"
+    },
+    {
+      "id": 158,
+      "start": 495.42,
+      "end": 498.62,
+      "en": "But to put someone up, what exactly does this mean?",
+      "zh": "但是要让某人站起来，这到底是什么意思？"
+    },
+    {
+      "id": 159,
+      "start": 499.4,
+      "end": 502.72,
+      "en": "Basically you are paying for that person to stay at that hotel.",
+      "zh": "基本上你付钱让那个人住在那家酒店。"
+    },
+    {
+      "id": 160,
+      "start": 503.48,
+      "end": 505.82,
+      "en": "And you made the reservation and you're going to pay for the room.",
+      "zh": "你预订了房间，你要支付房间的费用。"
+    },
+    {
+      "id": 161,
+      "start": 506.76,
+      "end": 511.02,
+      "en": "So I will put you up means I will pay for your room at a hotel.",
+      "zh": "所以我会把你放在旅馆里，我会支付你的房间。"
+    },
+    {
+      "id": 162,
+      "start": 511.36,
+      "end": 511.5,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 163,
+      "start": 512.36,
+      "end": 514.76,
+      "en": "And it's usually only for accommodation for a hotel.",
+      "zh": "它通常仅用于酒店的住宿。"
+    },
+    {
+      "id": 164,
+      "start": 514.76,
+      "end": 517.8,
+      "en": "You can't say I will put you up for a meal.",
+      "zh": "你不能说我会让你吃饭。"
+    },
+    {
+      "id": 165,
+      "start": 517.8,
+      "end": 518.08,
+      "en": "No.",
+      "zh": "不。"
+    },
+    {
+      "id": 166,
+      "start": 518.8,
+      "end": 523.08,
+      "en": "But you can say I'll put you up at my house, which means I will let you stay the night at my house.",
+      "zh": "但你可以说我会把你放在我家，这意味着我会让你在我家过夜。"
+    },
+    {
+      "id": 167,
+      "start": 523.66,
+      "end": 524.92,
+      "en": "So not food, but actually sleeping.",
+      "zh": "所以不是食物，而是实际上在睡觉。"
+    },
+    {
+      "id": 168,
+      "start": 525.56,
+      "end": 526.56,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 169,
+      "start": 526.56,
+      "end": 527.86,
+      "en": "So it usually involves sleeping.",
+      "zh": "所以它通常涉及睡眠。"
+    },
+    {
+      "id": 170,
+      "start": 528.64,
+      "end": 529.64,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 171,
+      "start": 529.64,
+      "end": 534.98,
+      "en": "So for example, you could say he's coming to our hometown for the wedding.",
+      "zh": "例如，你可以说他要来我们家乡参加婚礼。"
+    },
+    {
+      "id": 172,
+      "start": 535.44,
+      "end": 537.44,
+      "en": "I will put him up at my house.",
+      "zh": "我会把他放在我家。"
+    },
+    {
+      "id": 173,
+      "start": 537.74,
+      "end": 537.88,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 174,
+      "start": 538.1,
+      "end": 543.74,
+      "en": "Or if your company sent you to Japan, you say my company put me up at the Hyatt Hotel.",
+      "zh": "或者如果你的公司把你送到日本，你说我的公司把我安排在凯悦酒店。"
+    },
+    {
+      "id": 175,
+      "start": 543.88,
+      "end": 544.88,
+      "en": "Oh, fancy.",
+      "zh": "哦，好看。"
+    },
+    {
+      "id": 176,
+      "start": 544.88,
+      "end": 545.88,
+      "en": "Nice.",
+      "zh": "不错。"
+    },
+    {
+      "id": 177,
+      "start": 545.88,
+      "end": 546.88,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 178,
+      "start": 546.88,
+      "end": 547.8,
+      "en": "So that's all the phrases we have for you.",
+      "zh": "这就是我们为您准备的所有短语。"
+    },
+    {
+      "id": 179,
+      "start": 548.32,
+      "end": 550.04,
+      "en": "Let's listen to our dialogue one last time.",
+      "zh": "我们最后再听一遍对话。"
+    },
+    {
+      "id": 180,
+      "start": 555.92,
+      "end": 556.54,
+      "en": "Good afternoon, sir.",
+      "zh": "下午好，先生。"
+    },
+    {
+      "id": 181,
+      "start": 557.0,
+      "end": 558.82,
+      "en": "May I please see your passport and reservation?",
+      "zh": "请出示您的护照和预订信息，好吗？"
+    },
+    {
+      "id": 182,
+      "start": 559.4,
+      "end": 559.78,
+      "en": "Here you go.",
+      "zh": "给你。"
+    },
+    {
+      "id": 183,
+      "start": 561.17,
+      "end": 562.67,
+      "en": "Oh, I'm sorry, sir.",
+      "zh": "哦，对不起，先生。"
+    },
+    {
+      "id": 184,
+      "start": 563.29,
+      "end": 566.25,
+      "en": "This flight has been canceled due to some mechanical problems.",
+      "zh": "这趟航班因机械故障取消了。"
+    },
+    {
+      "id": 185,
+      "start": 566.48,
+      "end": 567.48,
+      "en": "Canceled?",
+      "zh": "取消了？"
+    },
+    {
+      "id": 186,
+      "start": 567.48,
+      "end": 568.45,
+      "en": "What am I supposed to do now?",
+      "zh": "那我现在怎么办？"
+    },
+    {
+      "id": 187,
+      "start": 568.99,
+      "end": 572.85,
+      "en": "We apologize for any inconveniences that may be caused by this.",
+      "zh": "给您造成不便，我们深表歉意。"
+    },
+    {
+      "id": 188,
+      "start": 573.49,
+      "end": 577.87,
+      "en": "If your flight is urgent, I could put you on a waiting list for another flight this evening.",
+      "zh": "如果您的航班很紧急，我可以让您在今晚的另一班航班上等候名单。"
+    },
+    {
+      "id": 189,
+      "start": 578.45,
+      "end": 580.97,
+      "en": "But it's on a first come, first serve basis.",
+      "zh": "但它是先到先得的。"
+    },
+    {
+      "id": 190,
+      "start": 581.23,
+      "end": 584.01,
+      "en": "So there's no guarantee you'll be able to take that flight.",
+      "zh": "因此无法保证您一定能坐上那班飞机。"
+    },
+    {
+      "id": 191,
+      "start": 584.45,
+      "end": 585.55,
+      "en": "What are my other options?",
+      "zh": "那还有别的办法吗？"
+    },
+    {
+      "id": 192,
+      "start": 586.45,
+      "end": 590.41,
+      "en": "Well, if you can wait until tomorrow, we will put you up in a hotel for today.",
+      "zh": "好吧，如果你能等到明天，我们今天就把你送到酒店。"
+    },
+    {
+      "id": 193,
+      "start": 590.47,
+      "end": 593.45,
+      "en": "And you can take the scheduled flight for tomorrow morning.",
+      "zh": "你可以乘坐明天早上的定期航班。"
+    },
+    {
+      "id": 194,
+      "start": 593.95,
+      "end": 594.43,
+      "en": "That's fine.",
+      "zh": "没关系。"
+    },
+    {
+      "id": 195,
+      "start": 594.71,
+      "end": 595.23,
+      "en": "I'll do that then.",
+      "zh": "那就这样安排吧。"
+    },
+    {
+      "id": 196,
+      "start": 595.51,
+      "end": 596.99,
+      "en": "Thank you for your understanding, sir.",
+      "zh": "感谢您的理解，先生。"
+    },
+    {
+      "id": 197,
+      "start": 597.45,
+      "end": 598.39,
+      "en": "I'll book your flight now.",
+      "zh": "我现在就替您改订航班。"
+    },
+    {
+      "id": 198,
+      "start": 599.16,
+      "end": 600.84,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 199,
+      "start": 602.08,
+      "end": 602.36,
+      "en": "We're back.",
+      "zh": "我们回来了。"
+    },
+    {
+      "id": 200,
+      "start": 602.54,
+      "end": 605.98,
+      "en": "So talking about canceled flights, usually it's due to bad weather.",
+      "zh": "所以说到取消航班，通常是因为天气不好。"
+    },
+    {
+      "id": 201,
+      "start": 605.98,
+      "end": 608.18,
+      "en": "And usually you can catch another flight soon.",
+      "zh": "通常你可以很快赶上另一趟航班。"
+    },
+    {
+      "id": 202,
+      "start": 608.18,
+      "end": 610.2,
+      "en": "But sometimes you do have these problems.",
+      "zh": "但有时你确实有这些问题。"
+    },
+    {
+      "id": 203,
+      "start": 610.2,
+      "end": 619.22,
+      "en": "Like when there was the whole 9-11 thing, I think a lot of flights were canceled or the volcano that erupted and European flights were grounded for a long time.",
+      "zh": "就像整个 9-11 的事情一样，我认为很多航班都被取消，或者爆发的火山和欧洲航班停飞了很长时间。"
+    },
+    {
+      "id": 204,
+      "start": 619.54,
+      "end": 620.32,
+      "en": "Yes, that's right.",
+      "zh": "对，没错。"
+    },
+    {
+      "id": 205,
+      "start": 620.58,
+      "end": 622.56,
+      "en": "So sometimes there are natural disasters.",
+      "zh": "所以有时会有自然灾害。"
+    },
+    {
+      "id": 206,
+      "start": 623.44,
+      "end": 624.72,
+      "en": "Sometimes there are man-made disasters.",
+      "zh": "有时会发生人为的灾难。"
+    },
+    {
+      "id": 207,
+      "start": 625.2,
+      "end": 632.32,
+      "en": "But you actually said a very interesting word there and something that I think people who are learning about this should definitely study.",
+      "zh": "但你实际上在那里说了一个非常有趣的词，我认为正在学习这方面的人绝对应该学习。"
+    },
+    {
+      "id": 208,
+      "start": 632.32,
+      "end": 633.32,
+      "en": "The word is grounded.",
+      "zh": "这个词是接地的。"
+    },
+    {
+      "id": 209,
+      "start": 633.68,
+      "end": 635.08,
+      "en": "A flight has been grounded.",
+      "zh": "航班已停飞。"
+    },
+    {
+      "id": 210,
+      "start": 635.12,
+      "end": 636.12,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 211,
+      "start": 636.12,
+      "end": 638.44,
+      "en": "That means that the airplane will stay on the ground.",
+      "zh": "这意味着飞机将停留在地面上。"
+    },
+    {
+      "id": 212,
+      "start": 638.6,
+      "end": 640.28,
+      "en": "It means the plane will not fly.",
+      "zh": "这意味着飞机不会飞。"
+    },
+    {
+      "id": 213,
+      "start": 640.28,
+      "end": 641.28,
+      "en": "OK.",
+      "zh": "好的。"
+    },
+    {
+      "id": 214,
+      "start": 641.28,
+      "end": 652.96,
+      "en": "So when planes are grounded because of bad weather or because of a natural disaster like a volcano, it's a very serious situation because the people who are going to fly can't now.",
+      "zh": "因此，当飞机因恶劣天气或火山等自然灾害而停飞时，这是一个非常严重的情况，因为要飞的人现在无法飞行。"
+    },
+    {
+      "id": 215,
+      "start": 652.96,
+      "end": 657.44,
+      "en": "Now in our dialogue, we saw that they handled it, the airline handled it very, very well.",
+      "zh": "现在在我们的对话中，我们看到他们处理了它，航空公司处理得非常非常好。"
+    },
+    {
+      "id": 216,
+      "start": 657.6,
+      "end": 659.34,
+      "en": "But I think this is a very rare case.",
+      "zh": "但我认为这是一个非常罕见的案例。"
+    },
+    {
+      "id": 217,
+      "start": 660.0,
+      "end": 661.4,
+      "en": "You've had flights canceled before.",
+      "zh": "您之前已经取消了航班。"
+    },
+    {
+      "id": 218,
+      "start": 661.6,
+      "end": 662.24,
+      "en": "How did they handle it?",
+      "zh": "他们是如何处理的？"
+    },
+    {
+      "id": 219,
+      "start": 662.42,
+      "end": 662.78,
+      "en": "I have.",
+      "zh": "我有。"
+    },
+    {
+      "id": 220,
+      "start": 662.98,
+      "end": 666.34,
+      "en": "I've had two or three flights canceled one time because of a blizzard.",
+      "zh": "我曾因暴风雪一次次取消了两到三趟航班。"
+    },
+    {
+      "id": 221,
+      "start": 666.84,
+      "end": 668.16,
+      "en": "So all flights were grounded.",
+      "zh": "所以所有的航班都停飞了。"
+    },
+    {
+      "id": 222,
+      "start": 668.2,
+      "end": 670.0,
+      "en": "The weather was very bad, very dangerous.",
+      "zh": "天气非常糟糕，非常危险。"
+    },
+    {
+      "id": 223,
+      "start": 670.76,
+      "end": 673.04,
+      "en": "And the airline company said, well, we're sorry.",
+      "zh": "航空公司说，好吧，我们很抱歉。"
+    },
+    {
+      "id": 224,
+      "start": 673.04,
+      "end": 673.86,
+      "en": "There are no more flights.",
+      "zh": "没有更多的航班。"
+    },
+    {
+      "id": 225,
+      "start": 674.54,
+      "end": 676.16,
+      "en": "But if you come back tomorrow, we can help you.",
+      "zh": "但如果你明天回来，我们可以帮助你。"
+    },
+    {
+      "id": 226,
+      "start": 677.24,
+      "end": 680.68,
+      "en": "And I was very lucky because they did not give me a hotel.",
+      "zh": "我很幸运，因为他们没有给我酒店。"
+    },
+    {
+      "id": 227,
+      "start": 680.68,
+      "end": 682.13,
+      "en": "They did not put me up in a hotel.",
+      "zh": "他们没有把我放在酒店里。"
+    },
+    {
+      "id": 228,
+      "start": 682.56,
+      "end": 683.77,
+      "en": "But I was staying with a friend.",
+      "zh": "但我和一个朋友住在一起。"
+    },
+    {
+      "id": 229,
+      "start": 684.0,
+      "end": 685.71,
+      "en": "So my friends put me up at her house.",
+      "zh": "所以我的朋友们把我放在她家。"
+    },
+    {
+      "id": 230,
+      "start": 687.04,
+      "end": 694.13,
+      "en": "But the other time the flight was canceled, the airline put me on a flight from another company, another airline company.",
+      "zh": "但另一次航班被取消时，航空公司让我乘坐另一家公司、另一家航空公司的航班。"
+    },
+    {
+      "id": 231,
+      "start": 694.52,
+      "end": 700.6,
+      "en": "And so sometimes they can do that where they have a relationship with another airline company, they can do that.",
+      "zh": "所以有时他们可以在与另一家航空公司建立关系的地方这样做，他们可以做到这一点。"
+    },
+    {
+      "id": 232,
+      "start": 700.6,
+      "end": 702.99,
+      "en": "So usually they do try to handle it relatively well.",
+      "zh": "所以通常他们会尝试相对良好地处理它。"
+    },
+    {
+      "id": 233,
+      "start": 703.24,
+      "end": 710.4,
+      "en": "But I've heard sometimes that they are not very understanding or very sympathetic to the inconvenience they cause.",
+      "zh": "但我有时听说他们对他们造成的不便不是很理解或很同情。"
+    },
+    {
+      "id": 234,
+      "start": 710.68,
+      "end": 711.06,
+      "en": "Definitely.",
+      "zh": "当然。"
+    },
+    {
+      "id": 235,
+      "start": 711.64,
+      "end": 715.48,
+      "en": "And I think the worst is when it's bad weather because everyone's angry.",
+      "zh": "而且我认为最糟糕的是天气恶劣的时候，因为每个人都很生气。"
+    },
+    {
+      "id": 236,
+      "start": 715.48,
+      "end": 719.1,
+      "en": "And all the customers need to go somewhere, but they can't because there are no flights.",
+      "zh": "所有的客户都需要去某个地方，但他们不能，因为没有航班。"
+    },
+    {
+      "id": 237,
+      "start": 719.84,
+      "end": 724.16,
+      "en": "And so the people who are working for the airlines get very frustrated or upset.",
+      "zh": "因此，为航空公司工作的人会非常沮丧或沮丧。"
+    },
+    {
+      "id": 238,
+      "start": 724.6,
+      "end": 724.72,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 239,
+      "start": 724.92,
+      "end": 726.54,
+      "en": "Because basically it's not their fault.",
+      "zh": "因为基本上这不是他们的错。"
+    },
+    {
+      "id": 240,
+      "start": 726.74,
+      "end": 727.24,
+      "en": "It's not their fault.",
+      "zh": "这不是他们的错。"
+    },
+    {
+      "id": 241,
+      "start": 727.36,
+      "end": 727.92,
+      "en": "There's bad weather.",
+      "zh": "有恶劣的天气。"
+    },
+    {
+      "id": 242,
+      "start": 728.1,
+      "end": 731.32,
+      "en": "So there's not really much compensation the company can give you.",
+      "zh": "所以公司能给你的补偿并不多。"
+    },
+    {
+      "id": 243,
+      "start": 731.52,
+      "end": 732.38,
+      "en": "No, definitely not.",
+      "zh": "不，绝对不是。"
+    },
+    {
+      "id": 244,
+      "start": 732.68,
+      "end": 733.2,
+      "en": "Not really their fault.",
+      "zh": "不是他们的错。"
+    },
+    {
+      "id": 245,
+      "start": 733.68,
+      "end": 740.01,
+      "en": "But it's hard not to get frustrated because you want to go home, you're tired, you don't want to pay for another night in a hotel.",
+      "zh": "但是很难不感到沮丧，因为你想回家，你累了，你不想在酒店里支付另一个晚上的费用。"
+    },
+    {
+      "id": 246,
+      "start": 740.4,
+      "end": 742.51,
+      "en": "So I can understand both sides.",
+      "zh": "所以我可以理解双方。"
+    },
+    {
+      "id": 247,
+      "start": 742.8,
+      "end": 743.8,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 248,
+      "start": 743.8,
+      "end": 750.35,
+      "en": "Well, it's an interesting topic and I'm sure many of our listeners who have traveled have had a flight delayed or canceled.",
+      "zh": "嗯，这是一个有趣的话题，我相信我们旅行过的许多听众都延误或取消了航班。"
+    },
+    {
+      "id": 249,
+      "start": 750.72,
+      "end": 753.43,
+      "en": "So you can come to our website and share your story with us.",
+      "zh": "因此，您可以访问我们的网站并与我们分享您的故事。"
+    },
+    {
+      "id": 250,
+      "start": 753.8,
+      "end": 755.45,
+      "en": "And of course, if you have any questions or comments.",
+      "zh": "当然，如果您有任何问题或意见。"
+    },
+    {
+      "id": 251,
+      "start": 756.2,
+      "end": 758.28,
+      "en": "You can find us at EnglishPod.com.",
+      "zh": "您可以在 englishpod.com 找到我们。"
+    },
+    {
+      "id": 252,
+      "start": 758.28,
+      "end": 759.13,
+      "en": "We hope to see you all there.",
+      "zh": "我们希望在那里见到你们。"
+    },
+    {
+      "id": 253,
+      "start": 759.39,
+      "end": 759.57,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 254,
+      "start": 760.28,
+      "end": 761.28,
+      "en": "Bye.",
+      "zh": "再见。"
+    },
+    {
+      "id": 255,
+      "start": 761.28,
+      "end": 763.28,
+      "en": "Bye.",
+      "zh": "再见。"
+    }
+  ],
+  "dialog": {
+    "start": 32.56,
+    "end": 80.08,
+    "segmentIds": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+    ]
+  }
+}

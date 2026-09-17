@@ -1,0 +1,1460 @@
+{
+  "version": 1,
+  "id": 5,
+  "number": "0005",
+  "title": "Daily Life - Cut In Line",
+  "audio": "mp3/5. Daily Life - Cut In Line.mp3",
+  "duration": 684.2775625,
+  "segments": [
+    {
+      "id": 1,
+      "start": 2.13,
+      "end": 5.47,
+      "en": "Hello English learners and welcome to EnglishPod.",
+      "zh": "各位英语学习者，大家好，欢迎来到 EnglishPod。"
+    },
+    {
+      "id": 2,
+      "start": 5.71,
+      "end": 6.35,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 6.93,
+      "end": 7.51,
+      "en": "I'm Amira.",
+      "zh": "我叫 Amira。"
+    },
+    {
+      "id": 4,
+      "start": 8.09,
+      "end": 15.45,
+      "en": "All right, Amira is here today and she is going to tell us about the wonderful lesson she has prepared this time.",
+      "zh": "好吧，Amira 今天在这里，她将告诉我们她这次准备的精彩课程。"
+    },
+    {
+      "id": 5,
+      "start": 15.75,
+      "end": 16.87,
+      "en": "Well, thank you, Marco.",
+      "zh": "好吧，谢谢你，马可。"
+    },
+    {
+      "id": 6,
+      "start": 17.25,
+      "end": 21.47,
+      "en": "Well, today we have a very interesting lesson prepared for you.",
+      "zh": "好吧，今天我们为您准备了一个非常有趣的课程。"
+    },
+    {
+      "id": 7,
+      "start": 21.67,
+      "end": 24.53,
+      "en": "It's about someone cutting in line.",
+      "zh": "这是关于有人排队。"
+    },
+    {
+      "id": 8,
+      "start": 24.91,
+      "end": 26.11,
+      "en": "Cutting in line, okay.",
+      "zh": "切割排行，好吧。"
+    },
+    {
+      "id": 9,
+      "start": 26.63,
+      "end": 32.4,
+      "en": "Yeah, it happens all the time and we all get very upset about it but, you know, it happens.",
+      "zh": "是的，它一直在发生，我们都对此感到非常沮丧，但是，你知道，它会发生。"
+    },
+    {
+      "id": 10,
+      "start": 32.88,
+      "end": 33.7,
+      "en": "Right, right.",
+      "zh": "对，对。"
+    },
+    {
+      "id": 11,
+      "start": 34.38,
+      "end": 38.1,
+      "en": "Well, I imagine that everyone is wondering what cutting in line is.",
+      "zh": "好吧，我想每个人都想知道切割是什么。"
+    },
+    {
+      "id": 12,
+      "start": 38.68,
+      "end": 48.16,
+      "en": "Why don't we just listen to the dialogue one time and then when we come back Amira and I will gladly explain all the vocabulary in this dialogue.",
+      "zh": "我们为什么不只听一次对话，然后当我们回来时，我会很乐意解释这次对话中的所有词汇。"
+    },
+    {
+      "id": 13,
+      "start": 48.7,
+      "end": 49.22,
+      "en": "Let's listen.",
+      "zh": "我们来听听。"
+    },
+    {
+      "id": 14,
+      "start": 57.94,
+      "end": 60.5,
+      "en": "I can't believe it took us two hours to get here.",
+      "zh": "我不敢相信我们花了两个小时才到达这里。"
+    },
+    {
+      "id": 15,
+      "start": 60.96,
+      "end": 62.5,
+      "en": "The traffic in New York is unbelievable.",
+      "zh": "纽约的交通堵得太离谱了。"
+    },
+    {
+      "id": 16,
+      "start": 63.16,
+      "end": 64.62,
+      "en": "Yeah, but just relax honey.",
+      "zh": "是啊，不过放轻松，亲爱的。"
+    },
+    {
+      "id": 17,
+      "start": 64.8,
+      "end": 65.88,
+      "en": "We're here and we're going on vacation.",
+      "zh": "我们已经到了，马上就要去度假了。"
+    },
+    {
+      "id": 18,
+      "start": 66.74,
+      "end": 69.44,
+      "en": "In a few hours we'll be in Hawaii and you'll be on the golf course.",
+      "zh": "几个小时后，我们将在夏威夷，您将在高尔夫球场上。"
+    },
+    {
+      "id": 19,
+      "start": 69.76,
+      "end": 72.12,
+      "en": "Oh no, look at that line.",
+      "zh": "天啊，看看那队伍。"
+    },
+    {
+      "id": 20,
+      "start": 72.12,
+      "end": 73.04,
+      "en": "It must be a mile long.",
+      "zh": "队伍得有一英里长。"
+    },
+    {
+      "id": 21,
+      "start": 73.32,
+      "end": 75.88,
+      "en": "There's no way I'm waiting for another two hours.",
+      "zh": "我不可能再等两个小时。"
+    },
+    {
+      "id": 22,
+      "start": 76.2,
+      "end": 77.28,
+      "en": "Honey, don't.",
+      "zh": "亲爱的，别这样。"
+    },
+    {
+      "id": 23,
+      "start": 79.99,
+      "end": 82.51,
+      "en": "Hey man, the end of the line is over there.",
+      "zh": "嘿，兄弟，队尾在那边。"
+    },
+    {
+      "id": 24,
+      "start": 82.92,
+      "end": 83.92,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 25,
+      "start": 83.92,
+      "end": 86.79,
+      "en": "No, seriously, I was here first and you can't cut in line like this.",
+      "zh": "说真的，我先到的，你不能这么插队。"
+    },
+    {
+      "id": 26,
+      "start": 87.12,
+      "end": 88.12,
+      "en": "Says who?",
+      "zh": "谁说的？"
+    },
+    {
+      "id": 27,
+      "start": 88.12,
+      "end": 89.12,
+      "en": "I do.",
+      "zh": "我说的。"
+    },
+    {
+      "id": 28,
+      "start": 89.12,
+      "end": 89.27,
+      "en": "So sue me.",
+      "zh": "有本事就告我啊。"
+    },
+    {
+      "id": 29,
+      "start": 90.12,
+      "end": 91.12,
+      "en": "Alright, that's it.",
+      "zh": "好，这下我可忍不了了。"
+    },
+    {
+      "id": 30,
+      "start": 96.94,
+      "end": 99.2,
+      "en": "Whoa, I think there's punching.",
+      "zh": "哇，我想有拳打脚踢。"
+    },
+    {
+      "id": 31,
+      "start": 100.22,
+      "end": 106.28,
+      "en": "Yeah, I guess this guy was just a crazy, I don't know, impatient man, huh?",
+      "zh": "是的，我猜这家伙只是个疯子，我不知道，不耐烦的人，嗯？"
+    },
+    {
+      "id": 32,
+      "start": 106.56,
+      "end": 109.7,
+      "en": "Yes, yes, but we don't want to talk about this now.",
+      "zh": "是的，是的，但我们现在不想谈论这个。"
+    },
+    {
+      "id": 33,
+      "start": 110.24,
+      "end": 116.34,
+      "en": "But for now, we will treat some of the vocabulary and very useful phrases in the dialogue.",
+      "zh": "但现在，我们将处理对话中的一些词汇和非常有用的短语。"
+    },
+    {
+      "id": 34,
+      "start": 116.99,
+      "end": 117.47,
+      "en": "Great.",
+      "zh": "太好了。"
+    },
+    {
+      "id": 35,
+      "start": 117.68,
+      "end": 119.44,
+      "en": "So, Marco, do you want to start?",
+      "zh": "那么，马可，你想开始吗？"
+    },
+    {
+      "id": 36,
+      "start": 119.44,
+      "end": 120.44,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 37,
+      "start": 120.44,
+      "end": 123.76,
+      "en": "Let's take a look at our first word would be unbelievable.",
+      "zh": "让我们来看看我们的第一个词是令人难以置信的。"
+    },
+    {
+      "id": 38,
+      "start": 123.76,
+      "end": 124.76,
+      "en": "Unbelievable.",
+      "zh": "难以置信。"
+    },
+    {
+      "id": 39,
+      "start": 125.33,
+      "end": 125.76,
+      "en": "Unbelievable.",
+      "zh": "难以置信。"
+    },
+    {
+      "id": 40,
+      "start": 125.76,
+      "end": 125.93,
+      "en": "Unbelievable.",
+      "zh": "难以置信。"
+    },
+    {
+      "id": 41,
+      "start": 126.76,
+      "end": 127.25,
+      "en": "Unbelievable.",
+      "zh": "难以置信。"
+    },
+    {
+      "id": 42,
+      "start": 127.85,
+      "end": 128.45,
+      "en": "Unbelievable.",
+      "zh": "难以置信。"
+    },
+    {
+      "id": 43,
+      "start": 128.81,
+      "end": 133.67,
+      "en": "Exactly, and just how you say it, it's something incredible, something amazing.",
+      "zh": "确切地说，你怎么说，这令人难以置信，令人惊叹的东西。"
+    },
+    {
+      "id": 44,
+      "start": 134.37,
+      "end": 141.19,
+      "en": "Yeah, but I would like to point out that unbelievable was used here to describe the man's frustration.",
+      "zh": "是的，但我想指出，令人难以置信的在这里被用来描述这个人的挫败感。"
+    },
+    {
+      "id": 45,
+      "start": 141.87,
+      "end": 144.29,
+      "en": "He's not happy about the traffic in New York.",
+      "zh": "他对纽约的交通不满意。"
+    },
+    {
+      "id": 46,
+      "start": 144.88,
+      "end": 145.18,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 47,
+      "start": 145.88,
+      "end": 146.0,
+      "en": "Perfect.",
+      "zh": "太好了。"
+    },
+    {
+      "id": 48,
+      "start": 146.88,
+      "end": 152.06,
+      "en": "Okay, in the next part, the woman, she's trying to calm and relax her husband.",
+      "zh": "好吧，在下一部分，女人，她正试图让她的丈夫平静和放松。"
+    },
+    {
+      "id": 49,
+      "start": 152.32,
+      "end": 160.26,
+      "en": "And she says that they'll be in Hawaii in a few hours and you'll be on the golf course.",
+      "zh": "她说他们将在几个小时内到达夏威夷，你会在高尔夫球场上。"
+    },
+    {
+      "id": 50,
+      "start": 160.68,
+      "end": 160.98,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 51,
+      "start": 160.98,
+      "end": 165.6,
+      "en": "So, we'll be in Hawaii and you'll be on the golf course.",
+      "zh": "所以，我们将在夏威夷，您将在高尔夫球场。"
+    },
+    {
+      "id": 52,
+      "start": 166.27,
+      "end": 170.17,
+      "en": "Yes, we'll be in Hawaii and you'll be on the golf course.",
+      "zh": "是的，我们将在夏威夷，您将在高尔夫球场。"
+    },
+    {
+      "id": 53,
+      "start": 170.61,
+      "end": 176.21,
+      "en": "So, this is a great way of talking about your physical location in the future.",
+      "zh": "因此，这是谈论您未来的实际位置的好方法。"
+    },
+    {
+      "id": 54,
+      "start": 176.81,
+      "end": 177.41,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 55,
+      "start": 177.43,
+      "end": 180.29,
+      "en": "So, for example, Amira, tomorrow where will you be?",
+      "zh": "那么，例如，阿米拉，明天你会在哪里？"
+    },
+    {
+      "id": 56,
+      "start": 181.03,
+      "end": 184.25,
+      "en": "Don't worry, Marco, I'll be in the office tomorrow.",
+      "zh": "别担心，马可，我明天会在办公室。"
+    },
+    {
+      "id": 57,
+      "start": 184.55,
+      "end": 185.63,
+      "en": "Perfect, right?",
+      "zh": "完美，对吧？"
+    },
+    {
+      "id": 58,
+      "start": 185.91,
+      "end": 187.31,
+      "en": "That's where I need you to be.",
+      "zh": "这就是我需要你去的地方。"
+    },
+    {
+      "id": 59,
+      "start": 187.61,
+      "end": 187.87,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 60,
+      "start": 188.17,
+      "end": 188.51,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 61,
+      "start": 188.83,
+      "end": 192.65,
+      "en": "All right, well, I have another interesting phrase here for you.",
+      "zh": "好吧，我还有另一个有趣的短语给你。"
+    },
+    {
+      "id": 62,
+      "start": 193.13,
+      "end": 195.05,
+      "en": "Must be a mile long.",
+      "zh": "必须是一英里长。"
+    },
+    {
+      "id": 63,
+      "start": 195.49,
+      "end": 196.43,
+      "en": "A mile long.",
+      "zh": "长得望不到头。"
+    },
+    {
+      "id": 64,
+      "start": 197.32,
+      "end": 198.55,
+      "en": "A mile long.",
+      "zh": "长得望不到头。"
+    },
+    {
+      "id": 65,
+      "start": 199.04,
+      "end": 200.09,
+      "en": "A mile long.",
+      "zh": "长得望不到头。"
+    },
+    {
+      "id": 66,
+      "start": 200.53,
+      "end": 212.99,
+      "en": "Now, that's basically not a mile, it's not a kilometer long, but it's another way of saying that this line is really, really long.",
+      "zh": "现在，这基本上不是一英里，它不是一公里长，但这是另一种说法，这条线真的非常长。"
+    },
+    {
+      "id": 67,
+      "start": 213.33,
+      "end": 214.55,
+      "en": "Right, it's just an exaggeration.",
+      "zh": "没错，只是夸张。"
+    },
+    {
+      "id": 68,
+      "start": 215.99,
+      "end": 218.25,
+      "en": "Now let's take a look at there's no way.",
+      "zh": "现在让我们来看看没有办法。"
+    },
+    {
+      "id": 69,
+      "start": 219.22,
+      "end": 220.28,
+      "en": "There's no way.",
+      "zh": "绝不可能。"
+    },
+    {
+      "id": 70,
+      "start": 220.78,
+      "end": 222.06,
+      "en": "There's no way.",
+      "zh": "绝不可能。"
+    },
+    {
+      "id": 71,
+      "start": 222.28,
+      "end": 223.46,
+      "en": "There's no way.",
+      "zh": "绝不可能。"
+    },
+    {
+      "id": 72,
+      "start": 224.04,
+      "end": 224.52,
+      "en": "Perfect.",
+      "zh": "太好了。"
+    },
+    {
+      "id": 73,
+      "start": 224.9,
+      "end": 234.44,
+      "en": "Let's listen to some other examples on how we use there's no way in a different situation and then we can come back and talk about it a little bit more.",
+      "zh": "让我们听听其他一些关于我们如何使用在不同情况下没有办法的例子，然后我们可以回来多谈谈。"
+    },
+    {
+      "id": 74,
+      "start": 242.62,
+      "end": 245.2,
+      "en": "There's no way I can have those reports finished today.",
+      "zh": "我今天不可能完成这些报告。"
+    },
+    {
+      "id": 75,
+      "start": 253.57,
+      "end": 256.49,
+      "en": "The stadium is so crowded that there's no way we'll find a seat.",
+      "zh": "体育场非常拥挤，我们找不到座位。"
+    },
+    {
+      "id": 76,
+      "start": 267.0,
+      "end": 269.4,
+      "en": "Do you think Michael's going to buy that house?",
+      "zh": "你认为迈克尔会买那所房子吗？"
+    },
+    {
+      "id": 77,
+      "start": 269.4,
+      "end": 271.32,
+      "en": "There's no way he has enough money to buy it.",
+      "zh": "他不可能有足够的钱买它。"
+    },
+    {
+      "id": 78,
+      "start": 278.2,
+      "end": 279.36,
+      "en": "All right, everyone.",
+      "zh": "好了，各位。"
+    },
+    {
+      "id": 79,
+      "start": 279.36,
+      "end": 282.93,
+      "en": "So there's no way is another way of saying it is impossible.",
+      "zh": "所以不可能有另一种说法是不可能的。"
+    },
+    {
+      "id": 80,
+      "start": 283.84,
+      "end": 284.21,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 81,
+      "start": 285.28,
+      "end": 288.01,
+      "en": "There's no way you should miss this podcast, right?",
+      "zh": "你不可能错过这个播客，对吧？"
+    },
+    {
+      "id": 82,
+      "start": 288.76,
+      "end": 289.76,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 83,
+      "start": 289.76,
+      "end": 292.67,
+      "en": "Well, I have another phrase for you as well.",
+      "zh": "好吧，我还有另一个短语给你。"
+    },
+    {
+      "id": 84,
+      "start": 293.76,
+      "end": 294.39,
+      "en": "Cut in line.",
+      "zh": "插队。"
+    },
+    {
+      "id": 85,
+      "start": 295.48,
+      "end": 295.97,
+      "en": "Cut in line.",
+      "zh": "插队。"
+    },
+    {
+      "id": 86,
+      "start": 296.88,
+      "end": 297.89,
+      "en": "Cut in line.",
+      "zh": "插队。"
+    },
+    {
+      "id": 87,
+      "start": 298.28,
+      "end": 298.93,
+      "en": "Cut in line.",
+      "zh": "插队。"
+    },
+    {
+      "id": 88,
+      "start": 300.04,
+      "end": 300.65,
+      "en": "Cut in line.",
+      "zh": "插队。"
+    },
+    {
+      "id": 89,
+      "start": 301.64,
+      "end": 306.68,
+      "en": "So again, we have some really good examples on how you could use this phrase in different situations.",
+      "zh": "再说一次，我们有一些非常好的例子来说明如何在不同的情况下使用这个短语。"
+    },
+    {
+      "id": 90,
+      "start": 307.6,
+      "end": 311.44,
+      "en": "Let's listen to the examples and then we can come back and talk about it some more.",
+      "zh": "让我们听听这些例子，然后我们可以回来再谈谈。"
+    },
+    {
+      "id": 91,
+      "start": 318.96,
+      "end": 320.02,
+      "en": "Excuse me, I'm really late.",
+      "zh": "对不起，我真的迟到了。"
+    },
+    {
+      "id": 92,
+      "start": 320.68,
+      "end": 321.46,
+      "en": "Can I cut in line, please?",
+      "zh": "请问我可以切线吗？"
+    },
+    {
+      "id": 93,
+      "start": 328.96,
+      "end": 331.4,
+      "en": "I hate it when people cut in line at the bank.",
+      "zh": "我讨厌人们在银行排队。"
+    },
+    {
+      "id": 94,
+      "start": 331.62,
+      "end": 332.34,
+      "en": "It's so rude.",
+      "zh": "太粗鲁了。"
+    },
+    {
+      "id": 95,
+      "start": 333.12,
+      "end": 335.24,
+      "en": "I think it's okay when a pregnant woman cuts in line.",
+      "zh": "我认为孕妇排队时没关系。"
+    },
+    {
+      "id": 96,
+      "start": 340.96,
+      "end": 341.45,
+      "en": "All right, everyone.",
+      "zh": "好了，各位。"
+    },
+    {
+      "id": 97,
+      "start": 342.4,
+      "end": 342.87,
+      "en": "Cut in line.",
+      "zh": "插队。"
+    },
+    {
+      "id": 98,
+      "start": 343.56,
+      "end": 344.11,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 99,
+      "start": 344.15,
+      "end": 353.11,
+      "en": "So from the examples, we can understand that it means when you are standing in line somewhere and somebody gets in front of you.",
+      "zh": "所以从例子中，我们可以理解这意味着当你在某个地方排队并且有人站在你面前时。"
+    },
+    {
+      "id": 100,
+      "start": 353.27,
+      "end": 353.55,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 101,
+      "start": 353.99,
+      "end": 356.45,
+      "en": "I have another phrase for you here.",
+      "zh": "我在这里有另一个短语给你。"
+    },
+    {
+      "id": 102,
+      "start": 357.12,
+      "end": 357.49,
+      "en": "Sue me.",
+      "zh": "有本事就告我。"
+    },
+    {
+      "id": 103,
+      "start": 358.76,
+      "end": 359.03,
+      "en": "Sue me.",
+      "zh": "有本事就告我。"
+    },
+    {
+      "id": 104,
+      "start": 359.69,
+      "end": 360.23,
+      "en": "Sue me.",
+      "zh": "有本事就告我。"
+    },
+    {
+      "id": 105,
+      "start": 360.76,
+      "end": 361.76,
+      "en": "Sue me.",
+      "zh": "有本事就告我。"
+    },
+    {
+      "id": 106,
+      "start": 362.44,
+      "end": 363.04,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 107,
+      "start": 363.32,
+      "end": 367.52,
+      "en": "Now, sue me is not a nice phrase.",
+      "zh": "现在，起诉我不是一个好词。"
+    },
+    {
+      "id": 108,
+      "start": 367.52,
+      "end": 369.88,
+      "en": "If you hear that, you know you're in trouble.",
+      "zh": "如果你听到了，你就知道你有麻烦了。"
+    },
+    {
+      "id": 109,
+      "start": 369.88,
+      "end": 373.96,
+      "en": "Yeah, it's kind of rude, I guess, to say, sue me.",
+      "zh": "是的，这有点粗鲁，我猜，说，起诉我。"
+    },
+    {
+      "id": 110,
+      "start": 373.96,
+      "end": 374.96,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 111,
+      "start": 374.96,
+      "end": 383.1,
+      "en": "Well, it actually means like taking someone to court and asking for money because someone has harmed you in a way.",
+      "zh": "嗯，这实际上意味着把某人告上法庭并要钱，因为有人在某种程度上伤害了你。"
+    },
+    {
+      "id": 112,
+      "start": 383.76,
+      "end": 396.38,
+      "en": "I think that we should listen to the dialogue one more time and try to figure out why he used that phrase and if he's really going to take him to court.",
+      "zh": "我认为我们应该再听一次对话，试着弄清楚他为什么使用这句话，以及他是否真的要把他告上法庭。"
+    },
+    {
+      "id": 113,
+      "start": 404.68,
+      "end": 407.03,
+      "en": "I can't believe it took us two hours to get here.",
+      "zh": "我不敢相信我们花了两个小时才到达这里。"
+    },
+    {
+      "id": 114,
+      "start": 407.52,
+      "end": 409.03,
+      "en": "The traffic in New York is unbelievable.",
+      "zh": "纽约的交通堵得太离谱了。"
+    },
+    {
+      "id": 115,
+      "start": 409.75,
+      "end": 411.15,
+      "en": "Yeah, but just relax, honey.",
+      "zh": "是的，但放松一下，亲爱的。"
+    },
+    {
+      "id": 116,
+      "start": 411.35,
+      "end": 412.43,
+      "en": "We're here and we're going on vacation.",
+      "zh": "我们已经到了，马上就要去度假了。"
+    },
+    {
+      "id": 117,
+      "start": 413.33,
+      "end": 415.97,
+      "en": "In a few hours, we'll be in Hawaii and you'll be on the golf course.",
+      "zh": "几个小时后，我们将在夏威夷，您将在高尔夫球场上。"
+    },
+    {
+      "id": 118,
+      "start": 416.36,
+      "end": 417.36,
+      "en": "Oh, no.",
+      "zh": "哦，不。"
+    },
+    {
+      "id": 119,
+      "start": 417.36,
+      "end": 418.36,
+      "en": "Look at that line.",
+      "zh": "看看那条线。"
+    },
+    {
+      "id": 120,
+      "start": 418.49,
+      "end": 419.57,
+      "en": "It must be a mile long.",
+      "zh": "队伍得有一英里长。"
+    },
+    {
+      "id": 121,
+      "start": 419.79,
+      "end": 422.43,
+      "en": "There's no way I'm waiting for another two hours.",
+      "zh": "我不可能再等两个小时。"
+    },
+    {
+      "id": 122,
+      "start": 422.75,
+      "end": 423.81,
+      "en": "Honey, don't.",
+      "zh": "亲爱的，别这样。"
+    },
+    {
+      "id": 123,
+      "start": 426.47,
+      "end": 429.03,
+      "en": "Hey, man, the end of the line is over there.",
+      "zh": "嘿，伙计，线的尽头就在那里。"
+    },
+    {
+      "id": 124,
+      "start": 429.35,
+      "end": 429.59,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 125,
+      "start": 430.07,
+      "end": 433.31,
+      "en": "No, seriously, I was here first and you can't cut in line like this.",
+      "zh": "说真的，我先到的，你不能这么插队。"
+    },
+    {
+      "id": 126,
+      "start": 433.68,
+      "end": 434.68,
+      "en": "Says who?",
+      "zh": "谁说的？"
+    },
+    {
+      "id": 127,
+      "start": 434.68,
+      "end": 435.68,
+      "en": "I do.",
+      "zh": "我说的。"
+    },
+    {
+      "id": 128,
+      "start": 435.68,
+      "end": 436.68,
+      "en": "So, sue me.",
+      "zh": "所以，起诉我。"
+    },
+    {
+      "id": 129,
+      "start": 436.68,
+      "end": 439.68,
+      "en": "All right, that's it.",
+      "zh": "好吧，就是这样。"
+    },
+    {
+      "id": 130,
+      "start": 439.68,
+      "end": 443.6,
+      "en": "All right, we're back.",
+      "zh": "好了，我们回来了。"
+    },
+    {
+      "id": 131,
+      "start": 443.6,
+      "end": 447.84,
+      "en": "Now, this guy, when he says sue me, he's just being rude.",
+      "zh": "现在，这个人，当他说起诉我时，他只是粗鲁。"
+    },
+    {
+      "id": 132,
+      "start": 447.84,
+      "end": 454.84,
+      "en": "I mean, he's just being kind of impolite and telling him, I don't care.",
+      "zh": "我的意思是，他只是有点不礼貌并告诉他，我不在乎。"
+    },
+    {
+      "id": 133,
+      "start": 454.84,
+      "end": 455.84,
+      "en": "Right, exactly.",
+      "zh": "对，没错。"
+    },
+    {
+      "id": 134,
+      "start": 455.84,
+      "end": 458.6,
+      "en": "Like, you can't do anything about it.",
+      "zh": "就像，你对此无能为力。"
+    },
+    {
+      "id": 135,
+      "start": 458.6,
+      "end": 458.86,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 136,
+      "start": 459.6,
+      "end": 460.6,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 137,
+      "start": 460.6,
+      "end": 461.6,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 138,
+      "start": 461.6,
+      "end": 463.08,
+      "en": "Today in the studio, we have a guest.",
+      "zh": "今天在工作室，我们有一位客人。"
+    },
+    {
+      "id": 139,
+      "start": 463.08,
+      "end": 465.66,
+      "en": "Her name is Sarah and she's from England.",
+      "zh": "她的名字是莎拉，她来自英国。"
+    },
+    {
+      "id": 140,
+      "start": 466.12,
+      "end": 466.76,
+      "en": "Hi there.",
+      "zh": "你好。"
+    },
+    {
+      "id": 141,
+      "start": 467.26,
+      "end": 467.58,
+      "en": "Hello.",
+      "zh": "你好。"
+    },
+    {
+      "id": 142,
+      "start": 468.56,
+      "end": 469.88,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 143,
+      "start": 470.04,
+      "end": 479.14,
+      "en": "So, we're going to be asking her a couple of questions and she'll be a frequent guest on our show, so you can expect to hear from her a lot.",
+      "zh": "所以，我们会问她几个问题，她会成为我们节目的常客，所以你可以期待听到她的很多消息。"
+    },
+    {
+      "id": 144,
+      "start": 479.4,
+      "end": 480.34,
+      "en": "Well, she didn't know that.",
+      "zh": "好吧，她不知道。"
+    },
+    {
+      "id": 145,
+      "start": 480.76,
+      "end": 482.64,
+      "en": "Yeah, it's a surprise.",
+      "zh": "是的，这是一个惊喜。"
+    },
+    {
+      "id": 146,
+      "start": 482.64,
+      "end": 483.12,
+      "en": "She knows now.",
+      "zh": "她现在知道了。"
+    },
+    {
+      "id": 147,
+      "start": 484.2,
+      "end": 490.0,
+      "en": "Well, Sarah, our topic today is about jumping the queue.",
+      "zh": "好吧，莎拉，我们今天的主题是关于排队。"
+    },
+    {
+      "id": 148,
+      "start": 491.08,
+      "end": 491.94,
+      "en": "Okay, Amira, wait.",
+      "zh": "好吧，阿米拉，等等。"
+    },
+    {
+      "id": 149,
+      "start": 492.18,
+      "end": 493.9,
+      "en": "What is this jump the queue?",
+      "zh": "这是什么跳队？"
+    },
+    {
+      "id": 150,
+      "start": 494.78,
+      "end": 498.06,
+      "en": "It's the same as cut in line, but in British English.",
+      "zh": "它与直线切割相同，但在英式英语中。"
+    },
+    {
+      "id": 151,
+      "start": 498.62,
+      "end": 499.58,
+      "en": "Ah, okay.",
+      "zh": "啊，好的。"
+    },
+    {
+      "id": 152,
+      "start": 499.92,
+      "end": 503.04,
+      "en": "Yes, queuing is very important in England.",
+      "zh": "是的，排队在英国非常重要。"
+    },
+    {
+      "id": 153,
+      "start": 503.04,
+      "end": 506.4,
+      "en": "We're very proud of our queues.",
+      "zh": "我们为我们的队列感到非常自豪。"
+    },
+    {
+      "id": 154,
+      "start": 506.82,
+      "end": 507.04,
+      "en": "It's true.",
+      "zh": "是真的。"
+    },
+    {
+      "id": 155,
+      "start": 508.52,
+      "end": 513.76,
+      "en": "So what would be the reaction of people if they cut in line?",
+      "zh": "那么，如果人们排成一列，他们会有什么反应呢？"
+    },
+    {
+      "id": 156,
+      "start": 513.76,
+      "end": 516.26,
+      "en": "I think we do take it very seriously.",
+      "zh": "我认为我们确实非常认真地对待它。"
+    },
+    {
+      "id": 157,
+      "start": 516.62,
+      "end": 518.86,
+      "en": "I'm laughing now, but it's quite serious.",
+      "zh": "我现在在笑，但它很严重。"
+    },
+    {
+      "id": 158,
+      "start": 519.2,
+      "end": 520.96,
+      "en": "So you don't dump the queue.",
+      "zh": "所以你不转储队列。"
+    },
+    {
+      "id": 159,
+      "start": 520.96,
+      "end": 528.04,
+      "en": "If people jump in front of you, you get a little tuts and you shouldn't be doing that.",
+      "zh": "如果人们跳到你面前，你会得到一点 tuts，你不应该这样做。"
+    },
+    {
+      "id": 160,
+      "start": 528.04,
+      "end": 529.33,
+      "en": "We make it very obvious.",
+      "zh": "我们让它非常明显。"
+    },
+    {
+      "id": 161,
+      "start": 530.21,
+      "end": 531.39,
+      "en": "So you say it out loud?",
+      "zh": "所以你大声说出来？"
+    },
+    {
+      "id": 162,
+      "start": 532.05,
+      "end": 534.73,
+      "en": "We would, you know, perhaps say something.",
+      "zh": "你知道，我们会说些什么。"
+    },
+    {
+      "id": 163,
+      "start": 535.17,
+      "end": 545.94,
+      "en": "And we have systems, you know, in London on the Metro, on the underground, you have to stand on the escalators on the right and queue, and you can't jump in front.",
+      "zh": "我们有系统，你知道，在伦敦的地铁上，在地铁上，你必须站在右边的自动扶梯上和排队，你不能跳到前面。"
+    },
+    {
+      "id": 164,
+      "start": 546.28,
+      "end": 548.44,
+      "en": "You have to walk on the left and queue on the right.",
+      "zh": "您必须在左侧行走并在右侧排队。"
+    },
+    {
+      "id": 165,
+      "start": 549.06,
+      "end": 549.92,
+      "en": "And it's all very serious.",
+      "zh": "这一切都非常严重。"
+    },
+    {
+      "id": 166,
+      "start": 550.4,
+      "end": 551.26,
+      "en": "There's rules and regulations.",
+      "zh": "有规章制度。"
+    },
+    {
+      "id": 167,
+      "start": 552.4,
+      "end": 558.28,
+      "en": "Is there like a queue handbook that you have to read in high school and kind of take a test on?",
+      "zh": "有没有像排队手册，你必须在高中阅读并进行考试？"
+    },
+    {
+      "id": 168,
+      "start": 558.72,
+      "end": 559.64,
+      "en": "Perhaps there should be.",
+      "zh": "也许应该有。"
+    },
+    {
+      "id": 169,
+      "start": 559.84,
+      "end": 560.64,
+      "en": "There should be, yeah.",
+      "zh": "应该有，是的。"
+    },
+    {
+      "id": 170,
+      "start": 561.3,
+      "end": 561.72,
+      "en": "Wow.",
+      "zh": "哇。"
+    },
+    {
+      "id": 171,
+      "start": 561.88,
+      "end": 562.8,
+      "en": "What about New York, Marco?",
+      "zh": "纽约，马可呢？"
+    },
+    {
+      "id": 172,
+      "start": 563.28,
+      "end": 570.42,
+      "en": "Well, no, definitely, I guess this dialogue is similar to a reality of New York.",
+      "zh": "好吧，不，当然，我想这种对话类似于纽约的现实。"
+    },
+    {
+      "id": 173,
+      "start": 570.64,
+      "end": 579.72,
+      "en": "If somebody gets in front of you or cuts the line, somebody is going to say something and probably end up in a fight if the guy is rude.",
+      "zh": "如果有人走到你面前或切断了界限，如果这个人粗鲁，有人会说些什么，可能会打架。"
+    },
+    {
+      "id": 174,
+      "start": 579.72,
+      "end": 580.72,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 175,
+      "start": 580.72,
+      "end": 581.72,
+      "en": "Oh my God.",
+      "zh": "我的天哪。"
+    },
+    {
+      "id": 176,
+      "start": 581.72,
+      "end": 582.72,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 177,
+      "start": 582.72,
+      "end": 589.36,
+      "en": "Well, Sarah, why don't you tell us, is there a line or a queue for almost everything in England?",
+      "zh": "好吧，莎拉，你为什么不告诉我们，英格兰的几乎所有东西都有排队或排队吗？"
+    },
+    {
+      "id": 178,
+      "start": 589.55,
+      "end": 592.03,
+      "en": "It seems like we do just like to form a queue.",
+      "zh": "似乎我们只是喜欢排队。"
+    },
+    {
+      "id": 179,
+      "start": 592.48,
+      "end": 593.48,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 180,
+      "start": 593.48,
+      "end": 594.48,
+      "en": "So, you know.",
+      "zh": "所以，你知道。"
+    },
+    {
+      "id": 181,
+      "start": 594.48,
+      "end": 599.84,
+      "en": "Can you think of like some other examples of where you would normally you wouldn't queue, but you do?",
+      "zh": "你能想到一些你通常不会排队但你会排队的其他例子吗？"
+    },
+    {
+      "id": 182,
+      "start": 599.84,
+      "end": 600.6,
+      "en": "Oh, gosh.",
+      "zh": "哦，天哪。"
+    },
+    {
+      "id": 183,
+      "start": 601.18,
+      "end": 608.48,
+      "en": "Things like in the supermarket when you're trying to find some vegetables or something, I'd never push, I'd never sort of reach around or anything.",
+      "zh": "比如在超市里，当你试图找到一些蔬菜或其他东西时，我永远不会推，我永远不会到达周围或任何东西。"
+    },
+    {
+      "id": 184,
+      "start": 608.66,
+      "end": 613.4,
+      "en": "I'd just wait until that person had finished picking up their stuff and then go in.",
+      "zh": "我只是等到那个人拿完他们的东西然后进去。"
+    },
+    {
+      "id": 185,
+      "start": 613.4,
+      "end": 616.12,
+      "en": "So, just try and...",
+      "zh": "所以，试试看..."
+    },
+    {
+      "id": 186,
+      "start": 616.12,
+      "end": 622.18,
+      "en": "So if like five people want to buy oranges at the supermarket, then you have a little mini queue of five people waiting.",
+      "zh": "所以如果像五个人一样想在超市买橙子，那么你就有一个小排队的五个人在等着。"
+    },
+    {
+      "id": 187,
+      "start": 623.12,
+      "end": 625.48,
+      "en": "There's no sort of just shoving through to the front.",
+      "zh": "没有一种只是推到前面。"
+    },
+    {
+      "id": 188,
+      "start": 625.68,
+      "end": 626.68,
+      "en": "You just don't do that.",
+      "zh": "你只是不这样做。"
+    },
+    {
+      "id": 189,
+      "start": 627.0,
+      "end": 629.7,
+      "en": "So you don't stick your hand out and grab like a tomato.",
+      "zh": "这样你就不会像番茄一样伸出手抓住。"
+    },
+    {
+      "id": 190,
+      "start": 629.96,
+      "end": 637.16,
+      "en": "If you do, again, you would make sure that that person knows, oh, I'm sorry, I'm just in a hurry or whatever.",
+      "zh": "如果你再次这样做，你会确保那个人知道，哦，对不起，我只是匆忙或其他什么。"
+    },
+    {
+      "id": 191,
+      "start": 637.4,
+      "end": 640.68,
+      "en": "But yeah, it's just letting someone go before you.",
+      "zh": "但是，是的，它只是让某人在你之前离开。"
+    },
+    {
+      "id": 192,
+      "start": 640.68,
+      "end": 642.16,
+      "en": "It's a courtesy, I think.",
+      "zh": "我认为这是一种礼貌。"
+    },
+    {
+      "id": 193,
+      "start": 642.16,
+      "end": 643.16,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 194,
+      "start": 643.16,
+      "end": 643.43,
+      "en": "It's quite important to us.",
+      "zh": "这对我们来说非常重要。"
+    },
+    {
+      "id": 195,
+      "start": 644.16,
+      "end": 645.16,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 196,
+      "start": 645.16,
+      "end": 646.16,
+      "en": "Well, thank you so much, Sarah.",
+      "zh": "好吧，非常感谢你，莎拉。"
+    },
+    {
+      "id": 197,
+      "start": 646.16,
+      "end": 647.16,
+      "en": "It was a pleasure.",
+      "zh": "这是一种乐趣。"
+    },
+    {
+      "id": 198,
+      "start": 647.55,
+      "end": 649.09,
+      "en": "Yeah, we'll have you back very soon.",
+      "zh": "是的，我们很快就会让你回来。"
+    },
+    {
+      "id": 199,
+      "start": 649.33,
+      "end": 653.81,
+      "en": "So, all right, we're out of time, but we'll be back tomorrow with another lesson.",
+      "zh": "所以，好吧，我们没有时间了，但我们明天会带着另一节课回来。"
+    },
+    {
+      "id": 200,
+      "start": 654.69,
+      "end": 655.83,
+      "en": "And be sure to visit our website.",
+      "zh": "一定要访问我们的网站。"
+    },
+    {
+      "id": 201,
+      "start": 656.25,
+      "end": 668.45,
+      "en": "Don't forget that EnglishPod.com has many, many resources and also a community of users and teachers that can help you answer questions and interact with you.",
+      "zh": "不要忘记 Englishpod.com 有很多资源，还有一个用户和教师社区，可以帮助您回答问题并与您互动。"
+    },
+    {
+      "id": 202,
+      "start": 668.81,
+      "end": 669.13,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 203,
+      "start": 669.13,
+      "end": 671.27,
+      "en": "And you should definitely leave your suggestions.",
+      "zh": "你绝对应该留下你的建议。"
+    },
+    {
+      "id": 204,
+      "start": 672.19,
+      "end": 675.75,
+      "en": "But for now, I wish you all well and bye.",
+      "zh": "但现在，我祝你们一切顺利，再见。"
+    }
+  ],
+  "dialog": {
+    "start": 57.94,
+    "end": 91.12,
+    "segmentIds": [
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ]
+  }
+}

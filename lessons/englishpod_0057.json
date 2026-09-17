@@ -1,0 +1,2370 @@
+{
+  "version": 1,
+  "id": 57,
+  "number": "0057",
+  "title": "The Office - Malfunction",
+  "audio": "mp3/57. The Office - Malfunction.mp3",
+  "duration": 845.9233125,
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.9,
+      "end": 4.58,
+      "en": "Hello English learners, welcome back to EnglishPod.",
+      "zh": "您好英语学习者，欢迎回到 EnglishPod。"
+    },
+    {
+      "id": 2,
+      "start": 4.84,
+      "end": 5.36,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 5.84,
+      "end": 6.16,
+      "en": "And I'm Erica.",
+      "zh": "我叫 Erica。"
+    },
+    {
+      "id": 4,
+      "start": 6.84,
+      "end": 7.92,
+      "en": "And today we're back in the office.",
+      "zh": "今天我们回到办公室。"
+    },
+    {
+      "id": 5,
+      "start": 8.14,
+      "end": 12.36,
+      "en": "We have a lesson that's talking about something that goes wrong in the office.",
+      "zh": "我们有一个教训是在谈论办公室出了问题。"
+    },
+    {
+      "id": 6,
+      "start": 12.42,
+      "end": 16.92,
+      "en": "Yes, something that I can really understand well, but we'll talk about that later.",
+      "zh": "是的，我真的可以很好地理解的东西，但我们稍后会讨论。"
+    },
+    {
+      "id": 7,
+      "start": 17.58,
+      "end": 19.86,
+      "en": "So this lesson is about a photocopier.",
+      "zh": "所以这节课是关于复印机的。"
+    },
+    {
+      "id": 8,
+      "start": 20.14,
+      "end": 21.1,
+      "en": "A photocopier.",
+      "zh": "复印机。"
+    },
+    {
+      "id": 9,
+      "start": 21.2,
+      "end": 24.28,
+      "en": "So let's take a look at this word in vocabulary preview.",
+      "zh": "所以让我们在词汇预览中看看这个词。"
+    },
+    {
+      "id": 10,
+      "start": 25.69,
+      "end": 26.65,
+      "en": "Vocabulary preview.",
+      "zh": "词汇预习。"
+    },
+    {
+      "id": 11,
+      "start": 27.57,
+      "end": 31.21,
+      "en": "All right, so a photocopier makes copies.",
+      "zh": "好吧，所以复印机制作副本。"
+    },
+    {
+      "id": 12,
+      "start": 31.65,
+      "end": 33.53,
+      "en": "Yeah, it makes copies of documents.",
+      "zh": "是的，它会复制文件。"
+    },
+    {
+      "id": 13,
+      "start": 33.87,
+      "end": 37.91,
+      "en": "We often call it a copier or a copy machine.",
+      "zh": "我们经常称之为复印机或复印机。"
+    },
+    {
+      "id": 14,
+      "start": 38.27,
+      "end": 42.29,
+      "en": "Yeah, so you can call it a photocopier, copy machine or copier.",
+      "zh": "是的，所以你可以称之为复印机、复印机或复印机。"
+    },
+    {
+      "id": 15,
+      "start": 42.63,
+      "end": 44.69,
+      "en": "Yes, or a Xerox machine as well.",
+      "zh": "是的，或者还有一台施乐机器。"
+    },
+    {
+      "id": 16,
+      "start": 44.93,
+      "end": 45.63,
+      "en": "Xerox machine.",
+      "zh": "施乐机。"
+    },
+    {
+      "id": 17,
+      "start": 45.95,
+      "end": 48.73,
+      "en": "Yeah, we can talk about that a little bit later because that's an interesting story.",
+      "zh": "是的，我们可以稍后再谈，因为这是一个有趣的故事。"
+    },
+    {
+      "id": 18,
+      "start": 49.16,
+      "end": 50.16,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 19,
+      "start": 50.16,
+      "end": 51.45,
+      "en": "All right, let's take a look at our next word.",
+      "zh": "好吧，让我们来看看我们的下一个词。"
+    },
+    {
+      "id": 20,
+      "start": 52.28,
+      "end": 53.28,
+      "en": "Toner.",
+      "zh": "碳粉。"
+    },
+    {
+      "id": 21,
+      "start": 53.28,
+      "end": 54.28,
+      "en": "Toner.",
+      "zh": "碳粉。"
+    },
+    {
+      "id": 22,
+      "start": 54.28,
+      "end": 55.28,
+      "en": "Toner.",
+      "zh": "碳粉。"
+    },
+    {
+      "id": 23,
+      "start": 55.28,
+      "end": 56.28,
+      "en": "Toner.",
+      "zh": "碳粉。"
+    },
+    {
+      "id": 24,
+      "start": 56.28,
+      "end": 56.47,
+      "en": "Toner.",
+      "zh": "碳粉。"
+    },
+    {
+      "id": 25,
+      "start": 57.28,
+      "end": 60.32,
+      "en": "Toner is what the copy machine uses to make copies.",
+      "zh": "碳粉是复印机用来制作副本的。"
+    },
+    {
+      "id": 26,
+      "start": 60.32,
+      "end": 61.43,
+      "en": "It's like the ink.",
+      "zh": "就像墨水一样。"
+    },
+    {
+      "id": 27,
+      "start": 62.0,
+      "end": 63.0,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 28,
+      "start": 63.23,
+      "end": 65.01,
+      "en": "It's a very fine black powder.",
+      "zh": "这是一种非常细的黑色粉末。"
+    },
+    {
+      "id": 29,
+      "start": 65.43,
+      "end": 65.57,
+      "en": "Oh.",
+      "zh": "哦。"
+    },
+    {
+      "id": 30,
+      "start": 66.17,
+      "end": 66.57,
+      "en": "Yeah, yeah.",
+      "zh": "对，对。"
+    },
+    {
+      "id": 31,
+      "start": 66.71,
+      "end": 67.27,
+      "en": "So it's not an ink.",
+      "zh": "所以它不是墨水。"
+    },
+    {
+      "id": 32,
+      "start": 67.9,
+      "end": 68.98,
+      "en": "No, it's actually dry.",
+      "zh": "不，它实际上是干燥的。"
+    },
+    {
+      "id": 33,
+      "start": 69.4,
+      "end": 69.58,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 34,
+      "start": 70.24,
+      "end": 71.24,
+      "en": "Yeah, yeah.",
+      "zh": "对，对。"
+    },
+    {
+      "id": 35,
+      "start": 71.24,
+      "end": 72.24,
+      "en": "It's dry.",
+      "zh": "它很干。"
+    },
+    {
+      "id": 36,
+      "start": 72.24,
+      "end": 73.6,
+      "en": "It's a powder, so you don't want to get that all over you.",
+      "zh": "它是一种粉末，所以你不想把它弄到你身上。"
+    },
+    {
+      "id": 37,
+      "start": 73.92,
+      "end": 74.22,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 38,
+      "start": 74.6,
+      "end": 75.36,
+      "en": "Well, good advice, Marco.",
+      "zh": "好吧，好建议，马可。"
+    },
+    {
+      "id": 39,
+      "start": 76.76,
+      "end": 80.08,
+      "en": "And our last word in vocabulary preview, malfunction.",
+      "zh": "以及我们在词汇预览中的最后一个字，故障。"
+    },
+    {
+      "id": 40,
+      "start": 80.08,
+      "end": 81.08,
+      "en": "Malfunction.",
+      "zh": "故障。"
+    },
+    {
+      "id": 41,
+      "start": 81.08,
+      "end": 82.08,
+      "en": "Malfunction.",
+      "zh": "故障。"
+    },
+    {
+      "id": 42,
+      "start": 82.08,
+      "end": 83.08,
+      "en": "Malfunction.",
+      "zh": "故障。"
+    },
+    {
+      "id": 43,
+      "start": 83.54,
+      "end": 84.4,
+      "en": "Let's break down this word.",
+      "zh": "让我们分解这个词。"
+    },
+    {
+      "id": 44,
+      "start": 84.6,
+      "end": 84.84,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 45,
+      "start": 85.96,
+      "end": 87.92,
+      "en": "Malfunction is to work.",
+      "zh": "故障是工作。"
+    },
+    {
+      "id": 46,
+      "start": 87.92,
+      "end": 88.92,
+      "en": "Uh-huh.",
+      "zh": "嗯。"
+    },
+    {
+      "id": 47,
+      "start": 88.92,
+      "end": 89.92,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 48,
+      "start": 90.47,
+      "end": 90.81,
+      "en": "Mal.",
+      "zh": "马尔。"
+    },
+    {
+      "id": 49,
+      "start": 90.92,
+      "end": 96.44,
+      "en": "I guess mal maybe comes from Latin or something because in Spanish we say mal, which is something evil or not good.",
+      "zh": "我猜 MAL 可能来自拉丁语或其他东西，因为在西班牙语中我们说 MAL，这是邪恶的或不好的东西。"
+    },
+    {
+      "id": 50,
+      "start": 96.44,
+      "end": 96.57,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 51,
+      "start": 97.44,
+      "end": 100.37,
+      "en": "So I think we can understand malfunction is not good working.",
+      "zh": "所以我认为我们可以理解故障是不好的工作。"
+    },
+    {
+      "id": 52,
+      "start": 101.16,
+      "end": 101.41,
+      "en": "Right?",
+      "zh": "对吧？"
+    },
+    {
+      "id": 53,
+      "start": 102.53,
+      "end": 103.05,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 54,
+      "start": 103.16,
+      "end": 104.16,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 55,
+      "start": 104.16,
+      "end": 104.29,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 56,
+      "start": 105.16,
+      "end": 106.43,
+      "en": "More or less, it's not working properly.",
+      "zh": "或多或少，它无法正常工作。"
+    },
+    {
+      "id": 57,
+      "start": 107.0,
+      "end": 107.57,
+      "en": "Not working properly.",
+      "zh": "无法正常工作。"
+    },
+    {
+      "id": 58,
+      "start": 108.0,
+      "end": 109.0,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 59,
+      "start": 109.0,
+      "end": 110.0,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 60,
+      "start": 110.0,
+      "end": 111.0,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 61,
+      "start": 111.0,
+      "end": 116.36,
+      "en": "Let's find out what isn't working properly.",
+      "zh": "让我们找出什么不能正常工作。"
+    },
+    {
+      "id": 62,
+      "start": 120.59,
+      "end": 124.53,
+      "en": "Hey, Carl, can you make a copy of this contract for me, please?",
+      "zh": "嘿，卡尔，你能帮我复印这份合同吗？"
+    },
+    {
+      "id": 63,
+      "start": 124.95,
+      "end": 129.45,
+      "en": "And when you have it ready, send it out ASAP to our sub branch.",
+      "zh": "复印好后尽快寄到我们分公司。"
+    },
+    {
+      "id": 64,
+      "start": 130.33,
+      "end": 130.77,
+      "en": "Sure.",
+      "zh": "当然。"
+    },
+    {
+      "id": 65,
+      "start": 136.04,
+      "end": 145.72,
+      "en": "I think I broke this thing.",
+      "zh": "我好像把这台复印机弄坏了。"
+    },
+    {
+      "id": 66,
+      "start": 145.76,
+      "end": 147.04,
+      "en": "Maxine, can you help me out here?",
+      "zh": "马克辛，你能帮帮我吗？"
+    },
+    {
+      "id": 67,
+      "start": 147.38,
+      "end": 148.42,
+      "en": "I'm not really a tech guy.",
+      "zh": "我不太懂这些机器。"
+    },
+    {
+      "id": 68,
+      "start": 149.51,
+      "end": 150.35,
+      "en": "Yeah, sure.",
+      "zh": "好啊，当然。"
+    },
+    {
+      "id": 69,
+      "start": 150.79,
+      "end": 152.17,
+      "en": "I think it's just out of toner.",
+      "zh": "我看只是墨粉用完了。"
+    },
+    {
+      "id": 70,
+      "start": 152.53,
+      "end": 154.21,
+      "en": "You can go use the other one upstairs.",
+      "zh": "楼上还有一台，你可以用那台。"
+    },
+    {
+      "id": 71,
+      "start": 155.01,
+      "end": 158.51,
+      "en": "On your way up, can you fax this while I try and fix this thing?",
+      "zh": "上楼时能顺便帮我把这份传真发了吗？我来修这台机器。"
+    },
+    {
+      "id": 72,
+      "start": 166.29,
+      "end": 166.87,
+      "en": "Damn it.",
+      "zh": "该死。"
+    },
+    {
+      "id": 73,
+      "start": 167.6,
+      "end": 169.23,
+      "en": "Everything in this office seems to be breaking down.",
+      "zh": "办公室里的设备好像都在坏。"
+    },
+    {
+      "id": 74,
+      "start": 170.15,
+      "end": 171.71,
+      "en": "I'll send the stupid fax later.",
+      "zh": "这该死的传真我晚点再发。"
+    },
+    {
+      "id": 75,
+      "start": 177.64,
+      "end": 178.14,
+      "en": "Oh, great.",
+      "zh": "哦，太好了。"
+    },
+    {
+      "id": 76,
+      "start": 178.68,
+      "end": 180.22,
+      "en": "Is someone playing a practical joke on me?",
+      "zh": "有人在对我开恶作剧吗？"
+    },
+    {
+      "id": 77,
+      "start": 180.38,
+      "end": 180.78,
+      "en": "This is ridiculous.",
+      "zh": "太荒唐了。"
+    },
+    {
+      "id": 78,
+      "start": 182.26,
+      "end": 183.92,
+      "en": "The elevator has some sort of malfunction.",
+      "zh": "电梯好像出故障了。"
+    },
+    {
+      "id": 79,
+      "start": 184.5,
+      "end": 185.5,
+      "en": "Just take the stairs, dude.",
+      "zh": "走楼梯吧，哥们儿。"
+    },
+    {
+      "id": 80,
+      "start": 186.04,
+      "end": 186.94,
+      "en": "What floor are you going to?",
+      "zh": "你要去哪一层？"
+    },
+    {
+      "id": 81,
+      "start": 187.78,
+      "end": 189.46,
+      "en": "I have to go up 15 floors.",
+      "zh": "我必须上15层。"
+    },
+    {
+      "id": 82,
+      "start": 190.21,
+      "end": 190.87,
+      "en": "Never mind.",
+      "zh": "算了。"
+    },
+    {
+      "id": 83,
+      "start": 200.72,
+      "end": 201.44,
+      "en": "Made it.",
+      "zh": "终于到了。"
+    },
+    {
+      "id": 84,
+      "start": 203.0,
+      "end": 203.5,
+      "en": "There's a copier.",
+      "zh": "有复印机。"
+    },
+    {
+      "id": 85,
+      "start": 204.0,
+      "end": 205.0,
+      "en": "No!",
+      "zh": "不！"
+    },
+    {
+      "id": 86,
+      "start": 220.84,
+      "end": 225.26,
+      "en": "Okay, so this copy machine is definitely not working properly.",
+      "zh": "好的，所以这台复印机肯定不能正常工作。"
+    },
+    {
+      "id": 87,
+      "start": 225.7,
+      "end": 226.76,
+      "en": "A serious malfunction.",
+      "zh": "严重故障。"
+    },
+    {
+      "id": 88,
+      "start": 227.04,
+      "end": 228.76,
+      "en": "A serious malfunction.",
+      "zh": "严重故障。"
+    },
+    {
+      "id": 89,
+      "start": 228.76,
+      "end": 230.48,
+      "en": "I think the whole building exploded.",
+      "zh": "我认为整个建筑都爆炸了。"
+    },
+    {
+      "id": 90,
+      "start": 230.7,
+      "end": 234.4,
+      "en": "All right, very dramatic here at EnglishPod, but we have fun, right?",
+      "zh": "好吧，在 Englishpod 非常戏剧化，但我们玩得很开心，对吧？"
+    },
+    {
+      "id": 91,
+      "start": 234.96,
+      "end": 235.96,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 92,
+      "start": 235.96,
+      "end": 242.16,
+      "en": "Okay, let's take a look at some of the great language that we saw in Language Takeaway.",
+      "zh": "好吧，让我们来看看我们在外卖中看到的一些伟大的语言。"
+    },
+    {
+      "id": 93,
+      "start": 242.16,
+      "end": 242.74,
+      "en": "Language Takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 94,
+      "start": 244.03,
+      "end": 249.25,
+      "en": "All right, three words for you here in Language Takeaway, and we heard all of these in the dialogue.",
+      "zh": "好吧，在语言外卖中给你三个词，我们在对话中听到了所有这些。"
+    },
+    {
+      "id": 95,
+      "start": 251.12,
+      "end": 254.2,
+      "en": "So this guy needs to get a copy ASAP.",
+      "zh": "所以这家伙需要尽快得到一份副本。"
+    },
+    {
+      "id": 96,
+      "start": 254.2,
+      "end": 255.2,
+      "en": "ASAP.",
+      "zh": "尽快。"
+    },
+    {
+      "id": 97,
+      "start": 255.31,
+      "end": 255.93,
+      "en": "ASAP.",
+      "zh": "尽快。"
+    },
+    {
+      "id": 98,
+      "start": 255.93,
+      "end": 257.89,
+      "en": "Or ASAP.",
+      "zh": "或者说ASAP，也就是尽快。"
+    },
+    {
+      "id": 99,
+      "start": 258.2,
+      "end": 259.67,
+      "en": "Yes, meaning?",
+      "zh": "对，意思是？"
+    },
+    {
+      "id": 100,
+      "start": 261.16,
+      "end": 262.71,
+      "en": "As soon as possible.",
+      "zh": "尽快。"
+    },
+    {
+      "id": 101,
+      "start": 263.04,
+      "end": 263.87,
+      "en": "So really, really fast.",
+      "zh": "所以真的，真的很快。"
+    },
+    {
+      "id": 102,
+      "start": 264.4,
+      "end": 265.4,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 103,
+      "start": 265.4,
+      "end": 268.28,
+      "en": "This is a very, very common phrase, right?",
+      "zh": "这是一个非常非常常见的短语，对吧？"
+    },
+    {
+      "id": 104,
+      "start": 268.28,
+      "end": 271.77,
+      "en": "So it's an acronym, and you can say it like ASAP or?",
+      "zh": "所以它是一个首字母缩写词，你可以尽快说出来还是？"
+    },
+    {
+      "id": 105,
+      "start": 272.36,
+      "end": 272.59,
+      "en": "ASAP.",
+      "zh": "尽快。"
+    },
+    {
+      "id": 106,
+      "start": 273.36,
+      "end": 274.36,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 107,
+      "start": 274.36,
+      "end": 278.05,
+      "en": "Yeah, usually people say it like that because it's too long, I guess, to say as soon as possible.",
+      "zh": "是的，通常人们会这样说，因为它太长了，我猜，尽快说出来。"
+    },
+    {
+      "id": 108,
+      "start": 278.8,
+      "end": 280.64,
+      "en": "So, hey, I need this document ASAP.",
+      "zh": "所以，嘿，我需要尽快这份文件。"
+    },
+    {
+      "id": 109,
+      "start": 280.64,
+      "end": 281.64,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 110,
+      "start": 281.64,
+      "end": 282.64,
+      "en": "Or ASAP.",
+      "zh": "或者说ASAP，也就是尽快。"
+    },
+    {
+      "id": 111,
+      "start": 282.64,
+      "end": 283.64,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 112,
+      "start": 283.64,
+      "end": 284.71,
+      "en": "Okay, let's look at our next word.",
+      "zh": "好吧，让我们看看我们的下一个词。"
+    },
+    {
+      "id": 113,
+      "start": 285.45,
+      "end": 286.39,
+      "en": "A practical joke.",
+      "zh": "一个恶作剧。"
+    },
+    {
+      "id": 114,
+      "start": 286.99,
+      "end": 287.99,
+      "en": "Practical joke.",
+      "zh": "恶作剧。"
+    },
+    {
+      "id": 115,
+      "start": 289.24,
+      "end": 289.75,
+      "en": "Practical joke.",
+      "zh": "恶作剧。"
+    },
+    {
+      "id": 116,
+      "start": 290.64,
+      "end": 290.79,
+      "en": "Practical joke.",
+      "zh": "恶作剧。"
+    },
+    {
+      "id": 117,
+      "start": 291.64,
+      "end": 297.57,
+      "en": "Okay, so a practical joke, I'm sure we have all played a practical joke on some of our friends, right?",
+      "zh": "好吧，一个恶作剧，我相信我们都在对我们的一些朋友开过一个恶作剧，对吧？"
+    },
+    {
+      "id": 118,
+      "start": 297.96,
+      "end": 298.96,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 119,
+      "start": 298.96,
+      "end": 302.76,
+      "en": "Basically, what you do is you do something funny on purpose to someone.",
+      "zh": "基本上，你所做的就是对某人故意做一些有趣的事情。"
+    },
+    {
+      "id": 120,
+      "start": 302.76,
+      "end": 303.97,
+      "en": "Yeah, but something crazy.",
+      "zh": "是的，但有些疯狂。"
+    },
+    {
+      "id": 121,
+      "start": 304.37,
+      "end": 304.87,
+      "en": "Crazy, right?",
+      "zh": "疯了吧？"
+    },
+    {
+      "id": 122,
+      "start": 305.36,
+      "end": 306.36,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 123,
+      "start": 306.36,
+      "end": 318.76,
+      "en": "For example, when I was in university, there was this guy in our building, and we took all of his bedroom furniture, so his bed, his desk, everything, and put it down on the football field.",
+      "zh": "例如，在我上大学的时候，我们大楼里有这个人，我们把他所有的卧室家具都拿走了，所以他的床、他的办公桌、所有东西，都把它放在了足球场上。"
+    },
+    {
+      "id": 124,
+      "start": 318.84,
+      "end": 319.04,
+      "en": "Nice.",
+      "zh": "不错。"
+    },
+    {
+      "id": 125,
+      "start": 319.48,
+      "end": 320.94,
+      "en": "Yeah, that was a practical joke.",
+      "zh": "是的，那是一个恶作剧。"
+    },
+    {
+      "id": 126,
+      "start": 321.54,
+      "end": 324.98,
+      "en": "That is a very good and elaborate practical joke.",
+      "zh": "这是一个非常好的和精心制作的恶作剧。"
+    },
+    {
+      "id": 127,
+      "start": 325.44,
+      "end": 326.44,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 128,
+      "start": 326.44,
+      "end": 330.24,
+      "en": "Okay, so practical joke, do something crazy or funny to your friends.",
+      "zh": "好吧，那么恶作剧，对你的朋友做一些疯狂或有趣的事情。"
+    },
+    {
+      "id": 129,
+      "start": 330.24,
+      "end": 331.24,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 130,
+      "start": 331.24,
+      "end": 332.74,
+      "en": "And now let's look at our last word.",
+      "zh": "现在让我们看看我们的最后一个字。"
+    },
+    {
+      "id": 131,
+      "start": 333.56,
+      "end": 333.84,
+      "en": "Never mind.",
+      "zh": "没关系。"
+    },
+    {
+      "id": 132,
+      "start": 334.56,
+      "end": 335.56,
+      "en": "Never mind.",
+      "zh": "没关系。"
+    },
+    {
+      "id": 133,
+      "start": 335.56,
+      "end": 335.68,
+      "en": "Never mind.",
+      "zh": "没关系。"
+    },
+    {
+      "id": 134,
+      "start": 336.56,
+      "end": 337.56,
+      "en": "Never mind.",
+      "zh": "没关系。"
+    },
+    {
+      "id": 135,
+      "start": 337.56,
+      "end": 339.35,
+      "en": "Okay, so if you say never mind, it means...",
+      "zh": "好吧，如果你说没关系，这意味着..."
+    },
+    {
+      "id": 136,
+      "start": 339.52,
+      "end": 340.09,
+      "en": "Don't worry about it.",
+      "zh": "别担心。"
+    },
+    {
+      "id": 137,
+      "start": 340.52,
+      "end": 341.19,
+      "en": "Don't worry about it.",
+      "zh": "别担心。"
+    },
+    {
+      "id": 138,
+      "start": 341.52,
+      "end": 341.93,
+      "en": "Forget it.",
+      "zh": "算了。"
+    },
+    {
+      "id": 139,
+      "start": 342.52,
+      "end": 343.52,
+      "en": "Forget it.",
+      "zh": "算了。"
+    },
+    {
+      "id": 140,
+      "start": 343.52,
+      "end": 344.52,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 141,
+      "start": 344.52,
+      "end": 345.52,
+      "en": "Never mind.",
+      "zh": "没关系。"
+    },
+    {
+      "id": 142,
+      "start": 345.52,
+      "end": 346.52,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 143,
+      "start": 346.52,
+      "end": 350.16,
+      "en": "Yeah, this is, you know, this is so common, and I think it would be helpful to understand how it's used.",
+      "zh": "是的，这是，你知道，这很常见，我认为了解它的使用方式会很有帮助。"
+    },
+    {
+      "id": 144,
+      "start": 350.16,
+      "end": 351.25,
+      "en": "So let's hear some examples.",
+      "zh": "所以让我们听听一些例子。"
+    },
+    {
+      "id": 145,
+      "start": 353.8,
+      "end": 357.16,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 146,
+      "start": 357.16,
+      "end": 358.16,
+      "en": "Someone stole my wallet.",
+      "zh": "有人偷了我的钱包。"
+    },
+    {
+      "id": 147,
+      "start": 358.16,
+      "end": 359.16,
+      "en": "Oh, wait.",
+      "zh": "哦，等等。"
+    },
+    {
+      "id": 148,
+      "start": 359.38,
+      "end": 359.94,
+      "en": "Never mind.",
+      "zh": "没关系。"
+    },
+    {
+      "id": 149,
+      "start": 360.48,
+      "end": 360.84,
+      "en": "Here it is.",
+      "zh": "在这里。"
+    },
+    {
+      "id": 150,
+      "start": 365.88,
+      "end": 370.52,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 151,
+      "start": 370.52,
+      "end": 371.89,
+      "en": "Can you get some milk on your way home?",
+      "zh": "回家的路上能买点牛奶吗？"
+    },
+    {
+      "id": 152,
+      "start": 372.73,
+      "end": 373.71,
+      "en": "Oh, never mind.",
+      "zh": "哦，没关系。"
+    },
+    {
+      "id": 153,
+      "start": 374.01,
+      "end": 374.55,
+      "en": "We still have some.",
+      "zh": "我们还有一些。"
+    },
+    {
+      "id": 154,
+      "start": 378.64,
+      "end": 383.28,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 155,
+      "start": 383.28,
+      "end": 384.84,
+      "en": "The printer's broken?",
+      "zh": "打印机坏了？"
+    },
+    {
+      "id": 156,
+      "start": 384.84,
+      "end": 385.1,
+      "en": "Never mind.",
+      "zh": "没关系。"
+    },
+    {
+      "id": 157,
+      "start": 385.84,
+      "end": 386.14,
+      "en": "I'll do this later.",
+      "zh": "我稍后会这样做。"
+    },
+    {
+      "id": 158,
+      "start": 389.43,
+      "end": 394.07,
+      "en": "Okay, great examples, and I think our language takeaway is clear.",
+      "zh": "好的，很好的例子，我认为我们的语言要点很清楚。"
+    },
+    {
+      "id": 159,
+      "start": 394.81,
+      "end": 400.33,
+      "en": "So why don't we listen to our dialogue for the second time, and then we'll come back and talk about putting it together.",
+      "zh": "那么我们为什么不第二次听我们的对话，然后我们会回来讨论把它放在一起。"
+    },
+    {
+      "id": 160,
+      "start": 407.83,
+      "end": 411.73,
+      "en": "Hey, Carl, can you make a copy of this contract for me, please?",
+      "zh": "嘿，卡尔，你能帮我复印这份合同吗？"
+    },
+    {
+      "id": 161,
+      "start": 412.44,
+      "end": 416.4,
+      "en": "And when you have it ready, send it out ASAP to our sub-branch.",
+      "zh": "当你准备好时，尽快将其发送到我们的分支机构。"
+    },
+    {
+      "id": 162,
+      "start": 416.4,
+      "end": 417.4,
+      "en": "Sure.",
+      "zh": "当然。"
+    },
+    {
+      "id": 163,
+      "start": 419.67,
+      "end": 420.75,
+      "en": "I think I broke this thing.",
+      "zh": "我好像把这台复印机弄坏了。"
+    },
+    {
+      "id": 164,
+      "start": 421.25,
+      "end": 422.51,
+      "en": "Maxine, can you help me out here?",
+      "zh": "马克辛，你能帮帮我吗？"
+    },
+    {
+      "id": 165,
+      "start": 422.89,
+      "end": 423.89,
+      "en": "I'm not really a tech guy.",
+      "zh": "我不太懂这些机器。"
+    },
+    {
+      "id": 166,
+      "start": 424.25,
+      "end": 425.11,
+      "en": "Yeah, sure.",
+      "zh": "好啊，当然。"
+    },
+    {
+      "id": 167,
+      "start": 425.51,
+      "end": 426.91,
+      "en": "I think it's just out of toner.",
+      "zh": "我看只是墨粉用完了。"
+    },
+    {
+      "id": 168,
+      "start": 427.23,
+      "end": 428.95,
+      "en": "You can go use the other one upstairs.",
+      "zh": "楼上还有一台，你可以用那台。"
+    },
+    {
+      "id": 169,
+      "start": 429.71,
+      "end": 433.25,
+      "en": "On your way up, can you fax this while I try and fix this thing?",
+      "zh": "上楼时能顺便帮我把这份传真发了吗？我来修这台机器。"
+    },
+    {
+      "id": 170,
+      "start": 433.75,
+      "end": 434.01,
+      "en": "Sure.",
+      "zh": "当然。"
+    },
+    {
+      "id": 171,
+      "start": 435.12,
+      "end": 436.12,
+      "en": "Damn it.",
+      "zh": "该死。"
+    },
+    {
+      "id": 172,
+      "start": 436.12,
+      "end": 437.92,
+      "en": "Everything in this office seems to be breaking down.",
+      "zh": "办公室里的设备好像都在坏。"
+    },
+    {
+      "id": 173,
+      "start": 438.34,
+      "end": 439.86,
+      "en": "I'll send the stupid fax later.",
+      "zh": "这该死的传真我晚点再发。"
+    },
+    {
+      "id": 174,
+      "start": 440.72,
+      "end": 441.1,
+      "en": "Oh, great!",
+      "zh": "哦，太好了！"
+    },
+    {
+      "id": 175,
+      "start": 441.64,
+      "end": 443.18,
+      "en": "Is someone playing a practical joke on me?",
+      "zh": "有人在对我开恶作剧吗？"
+    },
+    {
+      "id": 176,
+      "start": 443.32,
+      "end": 443.7,
+      "en": "This is ridiculous!",
+      "zh": "太荒唐了！"
+    },
+    {
+      "id": 177,
+      "start": 444.62,
+      "end": 446.52,
+      "en": "The elevator has some sort of malfunction.",
+      "zh": "电梯好像出故障了。"
+    },
+    {
+      "id": 178,
+      "start": 447.14,
+      "end": 448.08,
+      "en": "Just take the stairs, dude.",
+      "zh": "走楼梯吧，哥们儿。"
+    },
+    {
+      "id": 179,
+      "start": 448.52,
+      "end": 449.52,
+      "en": "What floor are you going to?",
+      "zh": "你要去哪一层？"
+    },
+    {
+      "id": 180,
+      "start": 449.88,
+      "end": 451.4,
+      "en": "I have to go up 15 floors!",
+      "zh": "我必须上15层！"
+    },
+    {
+      "id": 181,
+      "start": 452.18,
+      "end": 452.86,
+      "en": "Never mind.",
+      "zh": "没关系。"
+    },
+    {
+      "id": 182,
+      "start": 453.56,
+      "end": 454.56,
+      "en": "Made it.",
+      "zh": "终于到了。"
+    },
+    {
+      "id": 183,
+      "start": 454.56,
+      "end": 455.56,
+      "en": "There's the copier.",
+      "zh": "复印机在那边。"
+    },
+    {
+      "id": 184,
+      "start": 455.56,
+      "end": 456.56,
+      "en": "No!",
+      "zh": "不！"
+    },
+    {
+      "id": 185,
+      "start": 463.35,
+      "end": 469.73,
+      "en": "In this dialogue, there's some great language that can be used in many different patterns or in many different ways.",
+      "zh": "在这个对话中，有一些很棒的语言可以以许多不同的模式或许多不同的方式使用。"
+    },
+    {
+      "id": 186,
+      "start": 470.08,
+      "end": 477.68,
+      "en": "So, in today's Putting It Together, we're going to show you how to use three of these patterns.",
+      "zh": "所以，在今天的组合中，我们将向您展示如何使用其中三种模式。"
+    },
+    {
+      "id": 187,
+      "start": 477.68,
+      "end": 478.21,
+      "en": "Putting It Together",
+      "zh": "把它放在一起"
+    },
+    {
+      "id": 188,
+      "start": 479.84,
+      "end": 484.16,
+      "en": "Okay, the first pattern that we can look at is out of toner.",
+      "zh": "好的，我们可以看到的第一个模式是没有碳粉。"
+    },
+    {
+      "id": 189,
+      "start": 485.04,
+      "end": 486.17,
+      "en": "Out of toner.",
+      "zh": "没有碳粉。"
+    },
+    {
+      "id": 190,
+      "start": 486.32,
+      "end": 487.32,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 191,
+      "start": 487.32,
+      "end": 488.61,
+      "en": "So, we already talked about toner.",
+      "zh": "所以，我们已经谈到了碳粉。"
+    },
+    {
+      "id": 192,
+      "start": 489.33,
+      "end": 490.25,
+      "en": "Let's talk about out of.",
+      "zh": "让我们谈谈。"
+    },
+    {
+      "id": 193,
+      "start": 490.53,
+      "end": 493.65,
+      "en": "Okay, so when you are out of, you have none.",
+      "zh": "好吧，所以当你离开时，你没有。"
+    },
+    {
+      "id": 194,
+      "start": 494.09,
+      "end": 494.35,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 195,
+      "start": 494.89,
+      "end": 496.21,
+      "en": "So, let's change a little bit.",
+      "zh": "所以，让我们稍微改变一下。"
+    },
+    {
+      "id": 196,
+      "start": 496.21,
+      "end": 498.29,
+      "en": "So, I can say, I am out of milk.",
+      "zh": "所以，我可以说，我的牛奶已经用完了。"
+    },
+    {
+      "id": 197,
+      "start": 499.73,
+      "end": 500.99,
+      "en": "I'm out of time.",
+      "zh": "我没时间了。"
+    },
+    {
+      "id": 198,
+      "start": 501.45,
+      "end": 502.33,
+      "en": "Out of time, right?",
+      "zh": "没时间了，对吧？"
+    },
+    {
+      "id": 199,
+      "start": 502.93,
+      "end": 505.83,
+      "en": "If you're driving, I'm out of gas or gasoline.",
+      "zh": "如果你在开车，我的汽油或汽油都没有了。"
+    },
+    {
+      "id": 200,
+      "start": 506.48,
+      "end": 507.48,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 201,
+      "start": 507.48,
+      "end": 508.63,
+      "en": "So, out of plus noun.",
+      "zh": "所以，超出了名词。"
+    },
+    {
+      "id": 202,
+      "start": 509.08,
+      "end": 510.08,
+      "en": "Perfect.",
+      "zh": "太好了。"
+    },
+    {
+      "id": 203,
+      "start": 510.08,
+      "end": 512.24,
+      "en": "It means you don't have none.",
+      "zh": "这意味着你没有。"
+    },
+    {
+      "id": 204,
+      "start": 512.24,
+      "end": 513.24,
+      "en": "EnglishPod.com.",
+      "zh": "EnglishPod.com。"
+    },
+    {
+      "id": 205,
+      "start": 513.24,
+      "end": 514.24,
+      "en": "EnglishPod.com.",
+      "zh": "EnglishPod.com。"
+    },
+    {
+      "id": 206,
+      "start": 514.24,
+      "end": 516.92,
+      "en": "You ain't got none.",
+      "zh": "你没有。"
+    },
+    {
+      "id": 207,
+      "start": 516.92,
+      "end": 517.92,
+      "en": "Eubonics.com.",
+      "zh": "欧文诺斯.com。"
+    },
+    {
+      "id": 208,
+      "start": 517.92,
+      "end": 519.72,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 209,
+      "start": 519.72,
+      "end": 520.16,
+      "en": "Out of time.",
+      "zh": "超时。"
+    },
+    {
+      "id": 210,
+      "start": 520.82,
+      "end": 522.22,
+      "en": "Let's take a look at our second one.",
+      "zh": "让我们来看看我们的第二个。"
+    },
+    {
+      "id": 211,
+      "start": 522.52,
+      "end": 523.28,
+      "en": "On your way up.",
+      "zh": "在你的路上。"
+    },
+    {
+      "id": 212,
+      "start": 523.54,
+      "end": 524.72,
+      "en": "Yeah, on your way up.",
+      "zh": "是的，在你上去的路上。"
+    },
+    {
+      "id": 213,
+      "start": 525.46,
+      "end": 526.31,
+      "en": "On your way, right?",
+      "zh": "在你的路上，对吧？"
+    },
+    {
+      "id": 214,
+      "start": 527.03,
+      "end": 531.05,
+      "en": "So, this is a great way when you are talking to someone and they're going somewhere.",
+      "zh": "因此，当您与某人交谈并且他们要去某个地方时，这是一个很好的方式。"
+    },
+    {
+      "id": 215,
+      "start": 531.39,
+      "end": 531.59,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 216,
+      "start": 531.93,
+      "end": 532.09,
+      "en": "Right?",
+      "zh": "对吧？"
+    },
+    {
+      "id": 217,
+      "start": 532.51,
+      "end": 534.11,
+      "en": "So, on your way up.",
+      "zh": "所以，在你上去的路上。"
+    },
+    {
+      "id": 218,
+      "start": 534.53,
+      "end": 535.77,
+      "en": "Can you bring this to HR?",
+      "zh": "你能把这个带到人力资源部吗？"
+    },
+    {
+      "id": 219,
+      "start": 536.48,
+      "end": 537.48,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 220,
+      "start": 537.48,
+      "end": 538.41,
+      "en": "On your way to the store.",
+      "zh": "在去商店的路上。"
+    },
+    {
+      "id": 221,
+      "start": 538.96,
+      "end": 540.49,
+      "en": "Can you mail this letter?",
+      "zh": "你能邮寄这封信吗？"
+    },
+    {
+      "id": 222,
+      "start": 541.53,
+      "end": 543.07,
+      "en": "Or maybe on your way home.",
+      "zh": "或者也许在你回家的路上。"
+    },
+    {
+      "id": 223,
+      "start": 543.69,
+      "end": 545.03,
+      "en": "Can you buy me some flowers?",
+      "zh": "你能给我买些花吗？"
+    },
+    {
+      "id": 224,
+      "start": 545.92,
+      "end": 546.92,
+      "en": "Nice.",
+      "zh": "不错。"
+    },
+    {
+      "id": 225,
+      "start": 546.92,
+      "end": 548.28,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 226,
+      "start": 548.33,
+      "end": 550.45,
+      "en": "So, on your way, it means...",
+      "zh": "所以，在你的路上，这意味着..."
+    },
+    {
+      "id": 227,
+      "start": 550.45,
+      "end": 552.23,
+      "en": "It means while you are going there.",
+      "zh": "这意味着当你去那里的时候。"
+    },
+    {
+      "id": 228,
+      "start": 552.71,
+      "end": 552.89,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 229,
+      "start": 553.24,
+      "end": 553.44,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 230,
+      "start": 553.52,
+      "end": 555.64,
+      "en": "Taking advantage of the fact that you are going somewhere.",
+      "zh": "利用你要去某个地方的事实。"
+    },
+    {
+      "id": 231,
+      "start": 555.88,
+      "end": 556.02,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 232,
+      "start": 557.04,
+      "end": 558.04,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 233,
+      "start": 558.04,
+      "end": 559.04,
+      "en": "Now, let's take a look at our last one.",
+      "zh": "现在，让我们来看看我们的最后一个。"
+    },
+    {
+      "id": 234,
+      "start": 559.05,
+      "end": 560.37,
+      "en": "And this is a really great phrase.",
+      "zh": "这是一个非常棒的短语。"
+    },
+    {
+      "id": 235,
+      "start": 561.52,
+      "end": 561.75,
+      "en": "Break down.",
+      "zh": "发生故障。"
+    },
+    {
+      "id": 236,
+      "start": 562.52,
+      "end": 562.77,
+      "en": "Break down.",
+      "zh": "发生故障。"
+    },
+    {
+      "id": 237,
+      "start": 563.52,
+      "end": 565.27,
+      "en": "In our dialogue, we heard breaking down.",
+      "zh": "在我们的对话中，我们听到了崩溃的声音。"
+    },
+    {
+      "id": 238,
+      "start": 565.8,
+      "end": 566.8,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 239,
+      "start": 566.8,
+      "end": 567.8,
+      "en": "Right?",
+      "zh": "对吧？"
+    },
+    {
+      "id": 240,
+      "start": 567.8,
+      "end": 569.56,
+      "en": "Everything in the office seems to be breaking down.",
+      "zh": "办公室里的一切似乎都在崩溃。"
+    },
+    {
+      "id": 241,
+      "start": 569.56,
+      "end": 570.56,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 242,
+      "start": 570.56,
+      "end": 571.81,
+      "en": "So, when something breaks down...",
+      "zh": "所以，当有什么东西坏了..."
+    },
+    {
+      "id": 243,
+      "start": 572.2,
+      "end": 572.75,
+      "en": "It stops working.",
+      "zh": "它不运转了。"
+    },
+    {
+      "id": 244,
+      "start": 573.4,
+      "end": 574.01,
+      "en": "It stops working.",
+      "zh": "它不运转了。"
+    },
+    {
+      "id": 245,
+      "start": 574.4,
+      "end": 575.4,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 246,
+      "start": 575.4,
+      "end": 576.4,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 247,
+      "start": 576.4,
+      "end": 577.4,
+      "en": "So, we can change it a little bit.",
+      "zh": "所以，我们可以稍微改变一下。"
+    },
+    {
+      "id": 248,
+      "start": 577.4,
+      "end": 579.12,
+      "en": "So, what if we say, break up?",
+      "zh": "那么，如果我们说分手呢？"
+    },
+    {
+      "id": 249,
+      "start": 579.15,
+      "end": 580.11,
+      "en": "Ooh, boyfriend and girlfriend.",
+      "zh": "哦，男朋友和女朋友。"
+    },
+    {
+      "id": 250,
+      "start": 580.71,
+      "end": 580.87,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 251,
+      "start": 581.31,
+      "end": 582.35,
+      "en": "They end their relationship.",
+      "zh": "他们结束了他们的关系。"
+    },
+    {
+      "id": 252,
+      "start": 582.75,
+      "end": 582.87,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 253,
+      "start": 582.89,
+      "end": 587.09,
+      "en": "So, we can maybe think about it as their relationship stops working.",
+      "zh": "所以，我们可以考虑一下，因为他们的关系停止了。"
+    },
+    {
+      "id": 254,
+      "start": 587.44,
+      "end": 588.05,
+      "en": "Oh, nice one.",
+      "zh": "哦，不错的一张。"
+    },
+    {
+      "id": 255,
+      "start": 588.44,
+      "end": 589.44,
+      "en": "Right?",
+      "zh": "对吧？"
+    },
+    {
+      "id": 256,
+      "start": 589.44,
+      "end": 590.44,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 257,
+      "start": 590.44,
+      "end": 591.44,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 258,
+      "start": 591.44,
+      "end": 592.44,
+      "en": "What about break in?",
+      "zh": "闯入呢？"
+    },
+    {
+      "id": 259,
+      "start": 592.44,
+      "end": 594.36,
+      "en": "Enter a place using force.",
+      "zh": "使用武力进入一个地方。"
+    },
+    {
+      "id": 260,
+      "start": 594.36,
+      "end": 595.6,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 261,
+      "start": 595.6,
+      "end": 596.95,
+      "en": "You enter a house that's not yours.",
+      "zh": "你进入一个不属于你的房子。"
+    },
+    {
+      "id": 262,
+      "start": 597.2,
+      "end": 598.2,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 263,
+      "start": 598.2,
+      "end": 601.48,
+      "en": "So, if you break into a house, maybe you break the window and climb in.",
+      "zh": "所以，如果你闯入一所房子，也许你会打破窗户并爬进去。"
+    },
+    {
+      "id": 264,
+      "start": 601.49,
+      "end": 601.79,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 265,
+      "start": 602.48,
+      "end": 603.48,
+      "en": "Mm-hmm.",
+      "zh": "嗯。"
+    },
+    {
+      "id": 266,
+      "start": 603.48,
+      "end": 604.48,
+      "en": "What about break out?",
+      "zh": "爆发呢？"
+    },
+    {
+      "id": 267,
+      "start": 604.48,
+      "end": 605.48,
+      "en": "The opposite.",
+      "zh": "反之。"
+    },
+    {
+      "id": 268,
+      "start": 605.48,
+      "end": 606.48,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 269,
+      "start": 606.48,
+      "end": 608.52,
+      "en": "So, break out of jail.",
+      "zh": "于是，出狱。"
+    },
+    {
+      "id": 270,
+      "start": 608.52,
+      "end": 608.92,
+      "en": "Break out of prison.",
+      "zh": "出狱。"
+    },
+    {
+      "id": 271,
+      "start": 609.52,
+      "end": 610.52,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 272,
+      "start": 610.52,
+      "end": 611.52,
+      "en": "So, this is a great phrase.",
+      "zh": "所以，这是一个很好的短语。"
+    },
+    {
+      "id": 273,
+      "start": 611.52,
+      "end": 618.8,
+      "en": "You can change the last word from break down, break up, break in, and it means different things.",
+      "zh": "您可以将最后一个词从分解、分手、闯入中更改，这意味着不同的事情。"
+    },
+    {
+      "id": 274,
+      "start": 618.8,
+      "end": 619.8,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 275,
+      "start": 619.8,
+      "end": 620.8,
+      "en": "So, use different prepositions for different meanings.",
+      "zh": "因此，使用不同的介词来表示不同的含义。"
+    },
+    {
+      "id": 276,
+      "start": 620.8,
+      "end": 621.08,
+      "en": "Perfect.",
+      "zh": "太好了。"
+    },
+    {
+      "id": 277,
+      "start": 621.8,
+      "end": 622.8,
+      "en": "Mm-hmm.",
+      "zh": "嗯。"
+    },
+    {
+      "id": 278,
+      "start": 622.8,
+      "end": 623.8,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 279,
+      "start": 623.8,
+      "end": 634.48,
+      "en": "So, now let's listen to our dialogue for the last time, and then Erica and I will be back and talk a little bit more about malfunctioning office supplies.",
+      "zh": "所以，现在让我们最后一次听听我们的对话，然后 Erica 和我会回来多谈一些关于故障办公用品的事情。"
+    },
+    {
+      "id": 280,
+      "start": 640.48,
+      "end": 644.29,
+      "en": "Hey, Carl, can you make a copy of this contract for me, please?",
+      "zh": "嘿，卡尔，你能帮我复印这份合同吗？"
+    },
+    {
+      "id": 281,
+      "start": 645.0,
+      "end": 649.04,
+      "en": "And when you have it ready, send it out ASAP to our sub-branch.",
+      "zh": "当你准备好时，尽快将其发送到我们的分支机构。"
+    },
+    {
+      "id": 282,
+      "start": 650.11,
+      "end": 650.55,
+      "en": "Sure.",
+      "zh": "当然。"
+    },
+    {
+      "id": 283,
+      "start": 663.38,
+      "end": 665.16,
+      "en": "I think I broke this thing.",
+      "zh": "我好像把这台复印机弄坏了。"
+    },
+    {
+      "id": 284,
+      "start": 665.62,
+      "end": 666.88,
+      "en": "Maxine, can you help me out here?",
+      "zh": "马克辛，你能帮帮我吗？"
+    },
+    {
+      "id": 285,
+      "start": 667.18,
+      "end": 668.34,
+      "en": "I'm not really a tech guy.",
+      "zh": "我不太懂这些机器。"
+    },
+    {
+      "id": 286,
+      "start": 669.54,
+      "end": 670.26,
+      "en": "Yeah, sure.",
+      "zh": "好啊，当然。"
+    },
+    {
+      "id": 287,
+      "start": 670.58,
+      "end": 672.02,
+      "en": "I think it's just out of toner.",
+      "zh": "我看只是墨粉用完了。"
+    },
+    {
+      "id": 288,
+      "start": 672.42,
+      "end": 674.22,
+      "en": "You can go use the other one upstairs.",
+      "zh": "楼上还有一台，你可以用那台。"
+    },
+    {
+      "id": 289,
+      "start": 674.78,
+      "end": 678.44,
+      "en": "On your way up, can you fax this while I try and fix this thing?",
+      "zh": "上楼时能顺便帮我把这份传真发了吗？我来修这台机器。"
+    },
+    {
+      "id": 290,
+      "start": 679.78,
+      "end": 680.14,
+      "en": "Sure.",
+      "zh": "当然。"
+    },
+    {
+      "id": 291,
+      "start": 686.05,
+      "end": 686.63,
+      "en": "Damn it!",
+      "zh": "该死！"
+    },
+    {
+      "id": 292,
+      "start": 687.21,
+      "end": 688.97,
+      "en": "Everything in this office seems to be breaking down.",
+      "zh": "办公室里的设备好像都在坏。"
+    },
+    {
+      "id": 293,
+      "start": 689.9,
+      "end": 691.46,
+      "en": "I'll send the stupid fax later.",
+      "zh": "这该死的传真我晚点再发。"
+    },
+    {
+      "id": 294,
+      "start": 697.4,
+      "end": 697.9,
+      "en": "Oh great!",
+      "zh": "太好了!"
+    },
+    {
+      "id": 295,
+      "start": 698.32,
+      "end": 699.98,
+      "en": "Is someone playing a practical joke on me?",
+      "zh": "有人在对我开恶作剧吗？"
+    },
+    {
+      "id": 296,
+      "start": 700.08,
+      "end": 700.52,
+      "en": "This is ridiculous!",
+      "zh": "太荒唐了！"
+    },
+    {
+      "id": 297,
+      "start": 702.14,
+      "end": 703.62,
+      "en": "The elevator has some sort of malfunction.",
+      "zh": "电梯好像出故障了。"
+    },
+    {
+      "id": 298,
+      "start": 704.34,
+      "end": 705.2,
+      "en": "Just take the stairs dude.",
+      "zh": "只是走楼梯的家伙。"
+    },
+    {
+      "id": 299,
+      "start": 705.66,
+      "end": 706.62,
+      "en": "What floor are you going to?",
+      "zh": "你要去哪一层？"
+    },
+    {
+      "id": 300,
+      "start": 707.43,
+      "end": 709.11,
+      "en": "I have to go up 15 floors!",
+      "zh": "我必须上15层！"
+    },
+    {
+      "id": 301,
+      "start": 709.97,
+      "end": 710.59,
+      "en": "Never mind.",
+      "zh": "没关系。"
+    },
+    {
+      "id": 302,
+      "start": 720.76,
+      "end": 721.18,
+      "en": "Made it.",
+      "zh": "终于到了。"
+    },
+    {
+      "id": 303,
+      "start": 722.1,
+      "end": 729.1,
+      "en": "There's the copier.",
+      "zh": "复印机在那边。"
+    },
+    {
+      "id": 304,
+      "start": 729.1,
+      "end": 736.1,
+      "en": "No!",
+      "zh": "不！"
+    },
+    {
+      "id": 305,
+      "start": 736.1,
+      "end": 746.98,
+      "en": "Alright, so Erica, everything that you touch that's electronic seems to malfunction, right?",
+      "zh": "好吧，所以埃里卡，你触摸的所有电子产品似乎都出现故障了，对吧？"
+    },
+    {
+      "id": 306,
+      "start": 746.98,
+      "end": 748.1,
+      "en": "This is absolutely true.",
+      "zh": "这是绝对正确的。"
+    },
+    {
+      "id": 307,
+      "start": 749.1,
+      "end": 755.34,
+      "en": "I don't know what it is, but you know what, if I turn on a computer it will suddenly get a virus.",
+      "zh": "我不知道它是什么，但你知道吗，如果我打开电脑，它会突然感染病毒。"
+    },
+    {
+      "id": 308,
+      "start": 756.66,
+      "end": 758.76,
+      "en": "And even if I'm very careful it still breaks.",
+      "zh": "即使我非常小心，它仍然会破裂。"
+    },
+    {
+      "id": 309,
+      "start": 759.18,
+      "end": 759.32,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 310,
+      "start": 759.84,
+      "end": 760.72,
+      "en": "Yeah, it happens sometimes.",
+      "zh": "是的，有时会发生。"
+    },
+    {
+      "id": 311,
+      "start": 760.92,
+      "end": 761.78,
+      "en": "I can relate to that.",
+      "zh": "我可以与之相关。"
+    },
+    {
+      "id": 312,
+      "start": 762.66,
+      "end": 767.06,
+      "en": "But you are much better at computers and technology than I am.",
+      "zh": "但你在计算机和技术方面比我好得多。"
+    },
+    {
+      "id": 313,
+      "start": 767.66,
+      "end": 769.36,
+      "en": "Well, I really, really like them.",
+      "zh": "嗯，我真的，真的很喜欢他们。"
+    },
+    {
+      "id": 314,
+      "start": 769.78,
+      "end": 776.66,
+      "en": "And well, I guess even I know a little bit about copy machines or copiers because my uncles are like copy technicians.",
+      "zh": "好吧，我想我什至对复印机或复印机有点了解，因为我的叔叔就像复印技术人员一样。"
+    },
+    {
+      "id": 315,
+      "start": 777.1,
+      "end": 778.1,
+      "en": "Really?",
+      "zh": "真的吗？"
+    },
+    {
+      "id": 316,
+      "start": 778.1,
+      "end": 787.96,
+      "en": "Yeah, so they fix copiers that broke down or they replace toner and they do all that stuff so that's why I know a little bit about it.",
+      "zh": "是的，所以他们修理了故障的复印机，或者他们取代了碳粉，他们做了所有这些事情，所以这就是我对它有所了解的原因。"
+    },
+    {
+      "id": 317,
+      "start": 788.46,
+      "end": 790.54,
+      "en": "But actually the original term is a Xerox machine.",
+      "zh": "但实际上，最初的术语是 Xerox 机器。"
+    },
+    {
+      "id": 318,
+      "start": 790.94,
+      "end": 791.78,
+      "en": "Yes, why is that?",
+      "zh": "是的，为什么会这样？"
+    },
+    {
+      "id": 319,
+      "start": 791.98,
+      "end": 792.66,
+      "en": "From the brand, right?",
+      "zh": "来自品牌，对吧？"
+    },
+    {
+      "id": 320,
+      "start": 792.94,
+      "end": 793.44,
+      "en": "Ah, right.",
+      "zh": "啊，对了。"
+    },
+    {
+      "id": 321,
+      "start": 793.8,
+      "end": 800.2,
+      "en": "There's a brand called Xerox and Xerox invented and patented this technology of making copies.",
+      "zh": "有一个名为 Xerox 和 Xerox 的品牌发明并获得了这种复制技术的专利。"
+    },
+    {
+      "id": 322,
+      "start": 800.82,
+      "end": 805.26,
+      "en": "Alright well the next time my photocopier explodes I'll call you.",
+      "zh": "好吧，下次我的复印机爆炸时，我会打电话给你。"
+    },
+    {
+      "id": 323,
+      "start": 805.26,
+      "end": 807.38,
+      "en": "Call my uncles, right?",
+      "zh": "打电话给我的叔叔，对吧？"
+    },
+    {
+      "id": 324,
+      "start": 807.38,
+      "end": 816.06,
+      "en": "Alright and well let us know how things in your office break down or if you have any stories of like Erica that breaks everything she touches.",
+      "zh": "好吧，让我们知道你办公室里的事情是如何崩溃的，或者如果你有任何像埃里卡这样的故事破坏了她所触及的一切。"
+    },
+    {
+      "id": 325,
+      "start": 816.06,
+      "end": 816.24,
+      "en": "It's true.",
+      "zh": "是真的。"
+    },
+    {
+      "id": 326,
+      "start": 817.06,
+      "end": 824.54,
+      "en": "Alright, so come to our website, come to our comment section and leave your opinions and we'll be there to also answer any doubts or questions you might have.",
+      "zh": "好的，请访问我们的网站，访问我们的评论部分并留下您的意见，我们也会在那里回答您可能有的任何疑问或问题。"
+    },
+    {
+      "id": 327,
+      "start": 824.9,
+      "end": 825.02,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 328,
+      "start": 825.9,
+      "end": 830.12,
+      "en": "You can find us at EnglishPod.com and Marco and I are always around.",
+      "zh": "您可以在 Englishpod.com 和 Marco 找到我们，我总是在附近。"
+    },
+    {
+      "id": 329,
+      "start": 830.66,
+      "end": 831.86,
+      "en": "Alright so we'll see you guys there.",
+      "zh": "好吧，我们会在那里见到你们。"
+    },
+    {
+      "id": 330,
+      "start": 832.14,
+      "end": 834.02,
+      "en": "Yep, we will.",
+      "zh": "是的，我们会的。"
+    },
+    {
+      "id": 331,
+      "start": 834.02,
+      "end": 836.42,
+      "en": "Okay guys, thanks for listening and until next time.",
+      "zh": "好的，感谢您的收听，直到下一次。"
+    },
+    {
+      "id": 332,
+      "start": 837.0,
+      "end": 837.14,
+      "en": "Bye.",
+      "zh": "再见。"
+    },
+    {
+      "id": 333,
+      "start": 837.58,
+      "end": 845.923,
+      "en": "Bye.",
+      "zh": "再见。"
+    }
+  ],
+  "dialog": {
+    "start": 120.59,
+    "end": 203.5,
+    "segmentIds": [
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84
+    ]
+  }
+}

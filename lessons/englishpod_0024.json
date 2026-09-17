@@ -1,0 +1,1874 @@
+{
+  "version": 1,
+  "id": 24,
+  "number": "0024",
+  "title": "Daily Life - Where should we eat",
+  "audio": "mp3/24. Daily Life - Where should we eat.mp3",
+  "duration": 746.1878125,
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.33,
+      "end": 5.47,
+      "en": "Hello everyone, welcome back to another great lesson with us here at EnglishPod.",
+      "zh": "大家好，欢迎回到 Englishpod 与我们一起参加另一个精彩的课程。"
+    },
+    {
+      "id": 2,
+      "start": 5.78,
+      "end": 6.39,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 6.73,
+      "end": 7.43,
+      "en": "And I'm Erica.",
+      "zh": "我叫 Erica。"
+    },
+    {
+      "id": 4,
+      "start": 8.05,
+      "end": 10.39,
+      "en": "And today we're going out to eat.",
+      "zh": "今天我们要出去吃饭。"
+    },
+    {
+      "id": 5,
+      "start": 10.75,
+      "end": 12.75,
+      "en": "Yes, good thing too because I'm hungry.",
+      "zh": "是的，也是好事，因为我饿了。"
+    },
+    {
+      "id": 6,
+      "start": 12.83,
+      "end": 14.21,
+      "en": "I know, it's almost lunchtime.",
+      "zh": "我知道，快到午餐时间了。"
+    },
+    {
+      "id": 7,
+      "start": 14.37,
+      "end": 14.51,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 8,
+      "start": 15.01,
+      "end": 20.45,
+      "en": "So today we're going to be talking about eating at a restaurant and giving some great recommendations and suggestions.",
+      "zh": "所以今天我们将讨论在餐厅吃饭并提供一些很好的建议和建议。"
+    },
+    {
+      "id": 9,
+      "start": 20.97,
+      "end": 27.67,
+      "en": "Yes, we have language for describing food, for describing restaurants and for making suggestions.",
+      "zh": "是的，我们有描述食物、描述餐馆和提出建议的语言。"
+    },
+    {
+      "id": 10,
+      "start": 28.51,
+      "end": 31.09,
+      "en": "Great, so let's start with our vocabulary preview for this lesson.",
+      "zh": "太好了，让我们从本课的词汇预览开始。"
+    },
+    {
+      "id": 11,
+      "start": 31.81,
+      "end": 32.91,
+      "en": "Vocabulary preview.",
+      "zh": "词汇预习。"
+    },
+    {
+      "id": 12,
+      "start": 33.63,
+      "end": 39.79,
+      "en": "We have two words today from our dialogue which you'll need to know to understand the dialogue.",
+      "zh": "我们今天的对话中有两个词，您需要知道才能理解对话。"
+    },
+    {
+      "id": 13,
+      "start": 40.11,
+      "end": 40.41,
+      "en": "Great.",
+      "zh": "太好了。"
+    },
+    {
+      "id": 14,
+      "start": 40.91,
+      "end": 44.13,
+      "en": "The first one that we have today is food poisoning.",
+      "zh": "我们今天的第一个是食物中毒。"
+    },
+    {
+      "id": 15,
+      "start": 44.55,
+      "end": 45.55,
+      "en": "Food poisoning.",
+      "zh": "食物中毒。"
+    },
+    {
+      "id": 16,
+      "start": 46.38,
+      "end": 47.46,
+      "en": "Food poisoning.",
+      "zh": "食物中毒。"
+    },
+    {
+      "id": 17,
+      "start": 47.46,
+      "end": 48.78,
+      "en": "Food poisoning.",
+      "zh": "食物中毒。"
+    },
+    {
+      "id": 18,
+      "start": 48.78,
+      "end": 50.03,
+      "en": "So food poisoning is...",
+      "zh": "所以食物中毒是..."
+    },
+    {
+      "id": 19,
+      "start": 51.93,
+      "end": 52.14,
+      "en": "Not a good thing.",
+      "zh": "这可不是好事。"
+    },
+    {
+      "id": 20,
+      "start": 52.14,
+      "end": 52.67,
+      "en": "Not a good thing.",
+      "zh": "这可不是好事。"
+    },
+    {
+      "id": 21,
+      "start": 53.82,
+      "end": 58.57,
+      "en": "It is when you eat some bad food and that food makes you sick.",
+      "zh": "当你吃一些不好的食物而食物让你生病时。"
+    },
+    {
+      "id": 22,
+      "start": 58.81,
+      "end": 60.45,
+      "en": "So you get food poisoning.",
+      "zh": "所以你会吃东西中毒。"
+    },
+    {
+      "id": 23,
+      "start": 60.85,
+      "end": 63.71,
+      "en": "Okay, so food poisoning, yeah, not a good thing.",
+      "zh": "好吧，所以食物中毒，是的，不是一件好事。"
+    },
+    {
+      "id": 24,
+      "start": 63.97,
+      "end": 64.85,
+      "en": "Okay, the next word.",
+      "zh": "好吧，下一个字。"
+    },
+    {
+      "id": 25,
+      "start": 65.82,
+      "end": 66.82,
+      "en": "Allergic.",
+      "zh": "过敏的。"
+    },
+    {
+      "id": 26,
+      "start": 66.82,
+      "end": 67.82,
+      "en": "Allergic.",
+      "zh": "过敏的。"
+    },
+    {
+      "id": 27,
+      "start": 67.82,
+      "end": 68.82,
+      "en": "Allergic.",
+      "zh": "过敏的。"
+    },
+    {
+      "id": 28,
+      "start": 68.82,
+      "end": 69.31,
+      "en": "Allergic.",
+      "zh": "过敏的。"
+    },
+    {
+      "id": 29,
+      "start": 70.05,
+      "end": 72.89,
+      "en": "So when you're allergic to something...",
+      "zh": "所以当你对某事过敏时..."
+    },
+    {
+      "id": 30,
+      "start": 73.78,
+      "end": 74.57,
+      "en": "It makes you sick.",
+      "zh": "它让你生病。"
+    },
+    {
+      "id": 31,
+      "start": 74.86,
+      "end": 76.07,
+      "en": "That one thing makes you sick.",
+      "zh": "那一件事让你恶心。"
+    },
+    {
+      "id": 32,
+      "start": 76.81,
+      "end": 78.71,
+      "en": "For example, I'm allergic to seafood.",
+      "zh": "例如，我对海鲜过敏。"
+    },
+    {
+      "id": 33,
+      "start": 80.15,
+      "end": 82.95,
+      "en": "If I eat seafood, I cannot breathe.",
+      "zh": "如果我吃海鲜，我无法呼吸。"
+    },
+    {
+      "id": 34,
+      "start": 83.38,
+      "end": 86.78,
+      "en": "Oh, okay, so you definitely want to stay away from fish.",
+      "zh": "哦，好吧，所以你绝对想远离鱼。"
+    },
+    {
+      "id": 35,
+      "start": 86.78,
+      "end": 87.37,
+      "en": "Yes, yes.",
+      "zh": "对，对。"
+    },
+    {
+      "id": 36,
+      "start": 87.98,
+      "end": 89.95,
+      "en": "Some people are allergic to nuts, like peanuts.",
+      "zh": "有些人对坚果过敏，比如花生。"
+    },
+    {
+      "id": 37,
+      "start": 90.54,
+      "end": 91.11,
+      "en": "Or maybe milk.",
+      "zh": "或者也许是牛奶。"
+    },
+    {
+      "id": 38,
+      "start": 91.54,
+      "end": 92.54,
+      "en": "Milk.",
+      "zh": "牛奶。"
+    },
+    {
+      "id": 39,
+      "start": 92.54,
+      "end": 93.54,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 40,
+      "start": 93.54,
+      "end": 94.54,
+      "en": "Cool.",
+      "zh": "好，明白了。"
+    },
+    {
+      "id": 41,
+      "start": 94.54,
+      "end": 97.9,
+      "en": "So when one type of food makes you sick, you are allergic to that food.",
+      "zh": "所以当一种食物让你生病时，你对那种食物过敏。"
+    },
+    {
+      "id": 42,
+      "start": 97.9,
+      "end": 98.71,
+      "en": "Okay, great.",
+      "zh": "好，太好了。"
+    },
+    {
+      "id": 43,
+      "start": 99.38,
+      "end": 104.33,
+      "en": "So with this in mind, now we can listen to our dialogue for the first time at its normal speed.",
+      "zh": "所以考虑到这一点，现在我们可以第一次以正常速度聆听我们的对话。"
+    },
+    {
+      "id": 44,
+      "start": 105.18,
+      "end": 107.46,
+      "en": "But don't worry if you don't get everything now because...",
+      "zh": "但是，如果您现在没有得到所有内容，请不要担心，因为..."
+    },
+    {
+      "id": 45,
+      "start": 107.46,
+      "end": 109.65,
+      "en": "We'll come back and teach you the important language.",
+      "zh": "我们会回来教你重要的语言。"
+    },
+    {
+      "id": 46,
+      "start": 115.5,
+      "end": 117.62,
+      "en": "Do you two have any plans for the evening?",
+      "zh": "你们俩晚上有安排吗？"
+    },
+    {
+      "id": 47,
+      "start": 117.62,
+      "end": 119.9,
+      "en": "We were thinking of checking out a restaurant in the neighborhood.",
+      "zh": "我们正在考虑去附近的一家餐馆。"
+    },
+    {
+      "id": 48,
+      "start": 120.62,
+      "end": 121.28,
+      "en": "Do you have any suggestions?",
+      "zh": "你有什么建议吗？"
+    },
+    {
+      "id": 49,
+      "start": 122.3,
+      "end": 123.84,
+      "en": "I know this really nice Italian place.",
+      "zh": "我知道一家很棒的意大利餐厅。"
+    },
+    {
+      "id": 50,
+      "start": 124.34,
+      "end": 126.64,
+      "en": "The food is fantastic and the decor is beautiful.",
+      "zh": "菜很好吃，装修也很漂亮。"
+    },
+    {
+      "id": 51,
+      "start": 127.52,
+      "end": 128.62,
+      "en": "I'd recommend giving it a try.",
+      "zh": "我建议试一试。"
+    },
+    {
+      "id": 52,
+      "start": 129.32,
+      "end": 132.16,
+      "en": "Actually, I'm not all that crazy about Italian food.",
+      "zh": "其实我不太喜欢意大利菜。"
+    },
+    {
+      "id": 53,
+      "start": 132.84,
+      "end": 134.56,
+      "en": "I'm in the mood for something a bit lighter.",
+      "zh": "我想吃点清淡的。"
+    },
+    {
+      "id": 54,
+      "start": 135.1,
+      "end": 137.14,
+      "en": "In that case, I know a great little bistro.",
+      "zh": "那我知道一家不错的小餐馆。"
+    },
+    {
+      "id": 55,
+      "start": 137.66,
+      "end": 139.42,
+      "en": "They make a really tasty seafood platter.",
+      "zh": "他们家的海鲜拼盘特别好吃。"
+    },
+    {
+      "id": 56,
+      "start": 140.06,
+      "end": 140.84,
+      "en": "The fish is outstanding.",
+      "zh": "这鱼好吃极了。"
+    },
+    {
+      "id": 57,
+      "start": 141.92,
+      "end": 146.02,
+      "en": "It sounds fantastic, but I'm allergic to seafood, so...",
+      "zh": "听起来很棒，但我对海鲜过敏，所以..."
+    },
+    {
+      "id": 58,
+      "start": 146.02,
+      "end": 148.02,
+      "en": "Okay, well, let me think.",
+      "zh": "好吧，让我想想。"
+    },
+    {
+      "id": 59,
+      "start": 149.06,
+      "end": 151.36,
+      "en": "Oh, I know this great little place.",
+      "zh": "哦，我知道一家很棒的小店。"
+    },
+    {
+      "id": 60,
+      "start": 151.94,
+      "end": 154.84,
+      "en": "It's just a hole in the wall, but they do the most amazing sandwiches.",
+      "zh": "店面不起眼，但三明治做得特别棒。"
+    },
+    {
+      "id": 61,
+      "start": 155.78,
+      "end": 156.58,
+      "en": "You could give them a try.",
+      "zh": "你们可以去试试。"
+    },
+    {
+      "id": 62,
+      "start": 157.78,
+      "end": 161.54,
+      "en": "Ella, you took me there last time I visited and I got food poisoning, remember?",
+      "zh": "艾拉，上次我来时你带我去过，结果我食物中毒了，记得吗？"
+    },
+    {
+      "id": 63,
+      "start": 168.26,
+      "end": 171.87,
+      "en": "Well I'm getting hungry just thinking about all of those great restaurants.",
+      "zh": "好吧，光是想着所有这些很棒的餐厅，我就饿了。"
+    },
+    {
+      "id": 64,
+      "start": 172.02,
+      "end": 175.98,
+      "en": "Yeah, some really good recommendations except for food poisoning, right?",
+      "zh": "是的，除了食物中毒之外，还有一些非常好的建议，对吧？"
+    },
+    {
+      "id": 65,
+      "start": 175.98,
+      "end": 177.78,
+      "en": "No, not so good.",
+      "zh": "不，不是那么好。"
+    },
+    {
+      "id": 66,
+      "start": 177.78,
+      "end": 180.55,
+      "en": "Let's start with our language takeaway for this lesson.",
+      "zh": "让我们从本课的语言外卖开始。"
+    },
+    {
+      "id": 67,
+      "start": 182.84,
+      "end": 183.34,
+      "en": "Language takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 68,
+      "start": 185.3,
+      "end": 188.41,
+      "en": "Our first word on language takeaway is check out.",
+      "zh": "我们关于语言要点的第一个词是结账。"
+    },
+    {
+      "id": 69,
+      "start": 189.38,
+      "end": 189.83,
+      "en": "Check out.",
+      "zh": "查看一下。"
+    },
+    {
+      "id": 70,
+      "start": 190.54,
+      "end": 190.85,
+      "en": "Check out.",
+      "zh": "查看一下。"
+    },
+    {
+      "id": 71,
+      "start": 191.54,
+      "end": 191.67,
+      "en": "Check out.",
+      "zh": "查看一下。"
+    },
+    {
+      "id": 72,
+      "start": 192.74,
+      "end": 198.21,
+      "en": "So we have some great examples on how we can use check out in different situations and then you can understand the meaning.",
+      "zh": "因此，我们有一些很好的例子来说明如何在不同的情况下使用结帐，然后您就可以理解其含义。"
+    },
+    {
+      "id": 73,
+      "start": 199.82,
+      "end": 200.82,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 74,
+      "start": 201.6,
+      "end": 203.94,
+      "en": "Have you been to the new cafe next door?",
+      "zh": "你去过隔壁的新咖啡馆吗？"
+    },
+    {
+      "id": 75,
+      "start": 204.64,
+      "end": 205.68,
+      "en": "Yeah, I checked it out yesterday.",
+      "zh": "是的，我昨天检查了一下。"
+    },
+    {
+      "id": 76,
+      "start": 205.94,
+      "end": 206.73,
+      "en": "The food was great.",
+      "zh": "食物很棒。"
+    },
+    {
+      "id": 77,
+      "start": 210.76,
+      "end": 212.38,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 78,
+      "start": 214.21,
+      "end": 215.79,
+      "en": "Hey, check out my new car.",
+      "zh": "嘿，看看我的新车。"
+    },
+    {
+      "id": 79,
+      "start": 220.38,
+      "end": 224.38,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 80,
+      "start": 224.38,
+      "end": 226.29,
+      "en": "I'm going to check out that new shopping mall this weekend.",
+      "zh": "这个周末我要去看看那个新的购物中心。"
+    },
+    {
+      "id": 81,
+      "start": 229.94,
+      "end": 232.18,
+      "en": "So I can understand that it just means look at.",
+      "zh": "所以我可以理解这只是意味着看。"
+    },
+    {
+      "id": 82,
+      "start": 232.48,
+      "end": 234.36,
+      "en": "Yeah, look at or yeah or go see.",
+      "zh": "是的，看看或是的，或者去看看。"
+    },
+    {
+      "id": 83,
+      "start": 234.6,
+      "end": 236.56,
+      "en": "So let's go check out that new bar in town.",
+      "zh": "所以让我们去看看城里的新酒吧吧。"
+    },
+    {
+      "id": 84,
+      "start": 237.02,
+      "end": 238.54,
+      "en": "Yeah, okay, cool.",
+      "zh": "是的，好吧，酷。"
+    },
+    {
+      "id": 85,
+      "start": 238.54,
+      "end": 240.34,
+      "en": "Next word is bistro.",
+      "zh": "下一个词是小酒馆。"
+    },
+    {
+      "id": 86,
+      "start": 240.92,
+      "end": 241.34,
+      "en": "Bistro.",
+      "zh": "小餐馆。"
+    },
+    {
+      "id": 87,
+      "start": 241.7,
+      "end": 242.2,
+      "en": "Bistro.",
+      "zh": "小餐馆。"
+    },
+    {
+      "id": 88,
+      "start": 242.84,
+      "end": 243.34,
+      "en": "Bistro.",
+      "zh": "小餐馆。"
+    },
+    {
+      "id": 89,
+      "start": 243.78,
+      "end": 245.1,
+      "en": "So what's a bistro?",
+      "zh": "那么什么是小酒馆？"
+    },
+    {
+      "id": 90,
+      "start": 245.54,
+      "end": 250.6,
+      "en": "It's kind of complicated, but it's like a small restaurant that's not really cheap though.",
+      "zh": "这有点复杂，但它就像一家不便宜的小餐馆。"
+    },
+    {
+      "id": 91,
+      "start": 250.94,
+      "end": 252.58,
+      "en": "Not so cheap, but not so expensive.",
+      "zh": "不是那么便宜，但也不是那么贵。"
+    },
+    {
+      "id": 92,
+      "start": 254.14,
+      "end": 255.3,
+      "en": "And it's usually French.",
+      "zh": "它通常是法国人。"
+    },
+    {
+      "id": 93,
+      "start": 255.98,
+      "end": 256.98,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 94,
+      "start": 256.98,
+      "end": 259.26,
+      "en": "So yeah, small informal restaurant.",
+      "zh": "所以，是的，小型非正式餐厅。"
+    },
+    {
+      "id": 95,
+      "start": 259.26,
+      "end": 260.82,
+      "en": "Yeah, bistro.",
+      "zh": "是的，小酒馆。"
+    },
+    {
+      "id": 96,
+      "start": 260.82,
+      "end": 265.84,
+      "en": "Okay, so our third phrase for today is not all that crazy about.",
+      "zh": "好的，所以我们今天的第三个短语并不是那么疯狂。"
+    },
+    {
+      "id": 97,
+      "start": 266.74,
+      "end": 268.2,
+      "en": "Not all that crazy about.",
+      "zh": "不是那么疯狂。"
+    },
+    {
+      "id": 98,
+      "start": 268.78,
+      "end": 271.14,
+      "en": "I'm not all that crazy about.",
+      "zh": "我不是那么疯狂。"
+    },
+    {
+      "id": 99,
+      "start": 271.74,
+      "end": 277.84,
+      "en": "Okay, again, kind of a funny phrase, but we've got some examples that will help you understand the meaning.",
+      "zh": "好吧，又是一个有趣的短语，但我们有一些例子可以帮助你理解它的含义。"
+    },
+    {
+      "id": 100,
+      "start": 280.18,
+      "end": 280.42,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 101,
+      "start": 284.17,
+      "end": 285.73,
+      "en": "Do you want to go shopping with me tomorrow?",
+      "zh": "你明天想和我一起去购物吗？"
+    },
+    {
+      "id": 102,
+      "start": 286.51,
+      "end": 288.33,
+      "en": "I'm not all that crazy about shopping.",
+      "zh": "我对购物并不那么疯狂。"
+    },
+    {
+      "id": 103,
+      "start": 288.73,
+      "end": 289.63,
+      "en": "I don't like spending money.",
+      "zh": "我不喜欢花钱。"
+    },
+    {
+      "id": 104,
+      "start": 294.58,
+      "end": 294.84,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 105,
+      "start": 298.33,
+      "end": 300.13,
+      "en": "I'm not crazy about jazz music.",
+      "zh": "我对爵士音乐并不疯狂。"
+    },
+    {
+      "id": 106,
+      "start": 300.61,
+      "end": 301.27,
+      "en": "Can I change the song?",
+      "zh": "我可以换歌吗？"
+    },
+    {
+      "id": 107,
+      "start": 304.8,
+      "end": 308.48,
+      "en": "So this is just a really polite way of saying you don't like something.",
+      "zh": "所以这只是一种说你不喜欢某事的非常礼貌的方式。"
+    },
+    {
+      "id": 108,
+      "start": 308.62,
+      "end": 309.1,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 109,
+      "start": 310.1,
+      "end": 312.62,
+      "en": "But now the opposite of this would be tasty.",
+      "zh": "但现在与此相反的是美味。"
+    },
+    {
+      "id": 110,
+      "start": 313.32,
+      "end": 313.56,
+      "en": "Tasty.",
+      "zh": "美味的。"
+    },
+    {
+      "id": 111,
+      "start": 314.18,
+      "end": 315.52,
+      "en": "That's our fourth word, tasty.",
+      "zh": "这是我们的第四个词，美味。"
+    },
+    {
+      "id": 112,
+      "start": 316.02,
+      "end": 316.26,
+      "en": "Tasty.",
+      "zh": "美味的。"
+    },
+    {
+      "id": 113,
+      "start": 317.32,
+      "end": 319.46,
+      "en": "So when something is tasty, it's good.",
+      "zh": "所以当东西好吃时，它是好的。"
+    },
+    {
+      "id": 114,
+      "start": 319.82,
+      "end": 320.18,
+      "en": "It's good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 115,
+      "start": 320.52,
+      "end": 320.98,
+      "en": "Like delicious.",
+      "zh": "喜欢美味。"
+    },
+    {
+      "id": 116,
+      "start": 321.26,
+      "end": 321.4,
+      "en": "Delicious.",
+      "zh": "美味的。"
+    },
+    {
+      "id": 117,
+      "start": 323.02,
+      "end": 324.02,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 118,
+      "start": 324.02,
+      "end": 325.02,
+      "en": "You know what?",
+      "zh": "你知道吗？"
+    },
+    {
+      "id": 119,
+      "start": 325.02,
+      "end": 329.54,
+      "en": "In English, we almost never say the food is delicious, but we always say it's really tasty.",
+      "zh": "在英语中，我们几乎从不说食物很好吃，但我们总是说它真的很好吃。"
+    },
+    {
+      "id": 120,
+      "start": 329.54,
+      "end": 330.54,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 121,
+      "start": 330.54,
+      "end": 331.54,
+      "en": "This is really tasty.",
+      "zh": "这真的很好吃。"
+    },
+    {
+      "id": 122,
+      "start": 331.54,
+      "end": 332.54,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 123,
+      "start": 332.54,
+      "end": 333.54,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 124,
+      "start": 333.54,
+      "end": 334.54,
+      "en": "Tasty.",
+      "zh": "美味的。"
+    },
+    {
+      "id": 125,
+      "start": 334.54,
+      "end": 338.06,
+      "en": "And our last phrase for language takeaway, in the mood for.",
+      "zh": "以及我们的最后一句语言外卖，心情愉快。"
+    },
+    {
+      "id": 126,
+      "start": 338.06,
+      "end": 339.09,
+      "en": "In the mood for.",
+      "zh": "想要……"
+    },
+    {
+      "id": 127,
+      "start": 339.86,
+      "end": 340.73,
+      "en": "In the mood for.",
+      "zh": "想要……"
+    },
+    {
+      "id": 128,
+      "start": 341.86,
+      "end": 346.23,
+      "en": "Let's listen to some examples of this phrase and we'll understand the meaning a little bit better.",
+      "zh": "让我们听听这个短语的一些例子，我们会更好地理解它的含义。"
+    },
+    {
+      "id": 129,
+      "start": 347.7,
+      "end": 350.68,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 130,
+      "start": 350.68,
+      "end": 352.41,
+      "en": "We always eat hamburgers for dinner.",
+      "zh": "我们晚餐总是吃汉堡包。"
+    },
+    {
+      "id": 131,
+      "start": 352.75,
+      "end": 353.83,
+      "en": "I'm in the mood for something different.",
+      "zh": "我有心情想要一些不同的东西。"
+    },
+    {
+      "id": 132,
+      "start": 357.78,
+      "end": 361.3,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 133,
+      "start": 361.3,
+      "end": 362.54,
+      "en": "Let's watch a movie.",
+      "zh": "让我们看电影。"
+    },
+    {
+      "id": 134,
+      "start": 362.54,
+      "end": 363.98,
+      "en": "How about Texas Chainsaw Massacre?",
+      "zh": "德州电锯大屠杀怎么样？"
+    },
+    {
+      "id": 135,
+      "start": 364.66,
+      "end": 366.8,
+      "en": "I am not in the mood for a horror movie.",
+      "zh": "我没有心情看恐怖片。"
+    },
+    {
+      "id": 136,
+      "start": 370.0,
+      "end": 375.89,
+      "en": "So if I'm in the mood for something, I feel like doing or eating or watching.",
+      "zh": "所以如果我有心情，我想做、吃或看。"
+    },
+    {
+      "id": 137,
+      "start": 377.02,
+      "end": 378.35,
+      "en": "It means you want to do that now.",
+      "zh": "这意味着你现在想这样做。"
+    },
+    {
+      "id": 138,
+      "start": 378.94,
+      "end": 379.94,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 139,
+      "start": 379.94,
+      "end": 380.52,
+      "en": "I'm in the mood for.",
+      "zh": "我有心情。"
+    },
+    {
+      "id": 140,
+      "start": 381.5,
+      "end": 382.5,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 141,
+      "start": 382.5,
+      "end": 384.31,
+      "en": "Some great language we just looked at.",
+      "zh": "我们刚刚看过的一些很棒的语言。"
+    },
+    {
+      "id": 142,
+      "start": 384.66,
+      "end": 388.23,
+      "en": "And I think it's time for us to listen to the dialogue a second time.",
+      "zh": "我认为是时候让我们第二次听对话了。"
+    },
+    {
+      "id": 143,
+      "start": 394.34,
+      "end": 398.02,
+      "en": "Do you two have any plans for the evening?",
+      "zh": "你们俩晚上有安排吗？"
+    },
+    {
+      "id": 144,
+      "start": 398.02,
+      "end": 401.88,
+      "en": "We were thinking of checking out a restaurant in the neighbourhood.",
+      "zh": "我们正在考虑去附近的一家餐馆。"
+    },
+    {
+      "id": 145,
+      "start": 401.88,
+      "end": 404.54,
+      "en": "Do you have any suggestions?",
+      "zh": "你有什么建议吗？"
+    },
+    {
+      "id": 146,
+      "start": 404.54,
+      "end": 407.03,
+      "en": "I know this really nice Italian place.",
+      "zh": "我知道一家很棒的意大利餐厅。"
+    },
+    {
+      "id": 147,
+      "start": 407.86,
+      "end": 411.43,
+      "en": "The food is fantastic and the decor is beautiful.",
+      "zh": "菜很好吃，装修也很漂亮。"
+    },
+    {
+      "id": 148,
+      "start": 412.66,
+      "end": 414.21,
+      "en": "I'd recommend giving it a try.",
+      "zh": "我建议试一试。"
+    },
+    {
+      "id": 149,
+      "start": 415.38,
+      "end": 419.27,
+      "en": "Actually, I'm not all that crazy about Italian food.",
+      "zh": "其实我不太喜欢意大利菜。"
+    },
+    {
+      "id": 150,
+      "start": 420.22,
+      "end": 422.57,
+      "en": "I'm in the mood for something a bit lighter.",
+      "zh": "我想吃点清淡的。"
+    },
+    {
+      "id": 151,
+      "start": 424.18,
+      "end": 426.69,
+      "en": "In that case, I know a great little bistro.",
+      "zh": "那我知道一家不错的小餐馆。"
+    },
+    {
+      "id": 152,
+      "start": 427.4,
+      "end": 429.73,
+      "en": "They make a really tasty seafood platter.",
+      "zh": "他们家的海鲜拼盘特别好吃。"
+    },
+    {
+      "id": 153,
+      "start": 430.44,
+      "end": 431.65,
+      "en": "The fish is outstanding.",
+      "zh": "这鱼好吃极了。"
+    },
+    {
+      "id": 154,
+      "start": 433.48,
+      "end": 434.61,
+      "en": "It sounds fantastic.",
+      "zh": "听起来很棒。"
+    },
+    {
+      "id": 155,
+      "start": 436.1,
+      "end": 439.14,
+      "en": "But I'm allergic to seafood, so...",
+      "zh": "但我对海鲜过敏，所以..."
+    },
+    {
+      "id": 156,
+      "start": 439.25,
+      "end": 439.77,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 157,
+      "start": 440.09,
+      "end": 441.49,
+      "en": "Well, let me think.",
+      "zh": "嗯，让我想想。"
+    },
+    {
+      "id": 158,
+      "start": 442.23,
+      "end": 444.71,
+      "en": "Oh, I know this great little place.",
+      "zh": "哦，我知道一家很棒的小店。"
+    },
+    {
+      "id": 159,
+      "start": 445.29,
+      "end": 450.65,
+      "en": "It's just a hole in the wall, but they do the most amazing sandwiches.",
+      "zh": "店面不起眼，但三明治做得特别棒。"
+    },
+    {
+      "id": 160,
+      "start": 451.33,
+      "end": 452.85,
+      "en": "You've got to give them a try.",
+      "zh": "你必须试一试。"
+    },
+    {
+      "id": 161,
+      "start": 454.11,
+      "end": 460.31,
+      "en": "Ella, you took me there last time I visited and I got food poisoning, remember?",
+      "zh": "艾拉，上次我来时你带我去过，结果我食物中毒了，记得吗？"
+    },
+    {
+      "id": 162,
+      "start": 464.3,
+      "end": 467.0,
+      "en": "Okay, some really great and useful phrases there.",
+      "zh": "好吧，那里有一些非常棒和有用的短语。"
+    },
+    {
+      "id": 163,
+      "start": 467.22,
+      "end": 469.92,
+      "en": "And I know you want to talk about specifically some of these phrases.",
+      "zh": "我知道你想特别谈论其中一些短语。"
+    },
+    {
+      "id": 164,
+      "start": 470.3,
+      "end": 470.44,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 165,
+      "start": 471.34,
+      "end": 475.18,
+      "en": "So, today's lesson is all about making recommendations, right?",
+      "zh": "所以，今天的教训就是提出建议，对吧？"
+    },
+    {
+      "id": 166,
+      "start": 475.18,
+      "end": 476.18,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 167,
+      "start": 476.18,
+      "end": 478.84,
+      "en": "So, let's look at some useful phrases in Fluency Builder.",
+      "zh": "所以，让我们看看 Fluency Builder 中的一些有用的短语。"
+    },
+    {
+      "id": 168,
+      "start": 480.82,
+      "end": 481.07,
+      "en": "Fluency Builder.",
+      "zh": "流利表达。"
+    },
+    {
+      "id": 169,
+      "start": 481.82,
+      "end": 485.01,
+      "en": "So, in the dialogue, we heard a great way of asking for a suggestion.",
+      "zh": "所以，在对话中，我们听到了一个很好的方式来提出建议。"
+    },
+    {
+      "id": 170,
+      "start": 485.49,
+      "end": 485.81,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 171,
+      "start": 486.17,
+      "end": 486.47,
+      "en": "Let's listen.",
+      "zh": "我们来听听。"
+    },
+    {
+      "id": 172,
+      "start": 487.65,
+      "end": 488.39,
+      "en": "Do you have any suggestions?",
+      "zh": "你有什么建议吗？"
+    },
+    {
+      "id": 173,
+      "start": 491.02,
+      "end": 492.14,
+      "en": "Do you have any suggestions?",
+      "zh": "你有什么建议吗？"
+    },
+    {
+      "id": 174,
+      "start": 493.36,
+      "end": 495.66,
+      "en": "So, that's how you would ask for a suggestion.",
+      "zh": "所以，这就是你提出建议的方式。"
+    },
+    {
+      "id": 175,
+      "start": 495.9,
+      "end": 498.76,
+      "en": "Or you can say something else like, do you have any ideas?",
+      "zh": "或者你可以说别的话，你有什么想法吗？"
+    },
+    {
+      "id": 176,
+      "start": 499.18,
+      "end": 501.58,
+      "en": "Yeah, or you might say, do you have any thoughts?",
+      "zh": "是的，或者你可能会说，你有什么想法吗？"
+    },
+    {
+      "id": 177,
+      "start": 502.06,
+      "end": 506.74,
+      "en": "Okay, so that's asking for suggestions.",
+      "zh": "好的，所以这是在征求建议。"
+    },
+    {
+      "id": 178,
+      "start": 506.74,
+      "end": 509.62,
+      "en": "In response to this, you can say something like this.",
+      "zh": "对此，您可以说这样的话。"
+    },
+    {
+      "id": 179,
+      "start": 511.18,
+      "end": 512.32,
+      "en": "I'd recommend giving it a try.",
+      "zh": "我建议试一试。"
+    },
+    {
+      "id": 180,
+      "start": 514.3,
+      "end": 516.04,
+      "en": "I'd recommend giving it a try.",
+      "zh": "我建议试一试。"
+    },
+    {
+      "id": 181,
+      "start": 517.66,
+      "end": 520.39,
+      "en": "We also heard another phrase that we use for giving suggestions.",
+      "zh": "我们还听到了我们用来提供建议的另一个短语。"
+    },
+    {
+      "id": 182,
+      "start": 522.3,
+      "end": 525.66,
+      "en": "You've got to give them a try.",
+      "zh": "你必须试一试。"
+    },
+    {
+      "id": 183,
+      "start": 525.66,
+      "end": 526.87,
+      "en": "You've got to give them a try.",
+      "zh": "你必须试一试。"
+    },
+    {
+      "id": 184,
+      "start": 528.27,
+      "end": 529.85,
+      "en": "So, these two phrases are great.",
+      "zh": "所以，这两个短语很棒。"
+    },
+    {
+      "id": 185,
+      "start": 530.38,
+      "end": 533.62,
+      "en": "I'd recommend or you've got to give them a try.",
+      "zh": "我会推荐，或者你必须试一试。"
+    },
+    {
+      "id": 186,
+      "start": 533.62,
+      "end": 534.62,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 187,
+      "start": 534.62,
+      "end": 535.27,
+      "en": "Great ways of suggesting.",
+      "zh": "很好的建议方式。"
+    },
+    {
+      "id": 188,
+      "start": 535.77,
+      "end": 535.91,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 189,
+      "start": 536.41,
+      "end": 539.85,
+      "en": "Now, what's really important here is the pronunciation of these words, right?",
+      "zh": "现在，真正重要的是这些词的发音，对吧？"
+    },
+    {
+      "id": 190,
+      "start": 540.15,
+      "end": 540.39,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 191,
+      "start": 540.67,
+      "end": 544.91,
+      "en": "You'll notice that we don't say I would recommend.",
+      "zh": "你会注意到我们没有说我会推荐。"
+    },
+    {
+      "id": 192,
+      "start": 545.55,
+      "end": 545.71,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 193,
+      "start": 546.23,
+      "end": 547.85,
+      "en": "We use the contraction I'd.",
+      "zh": "我们使用我会的收缩。"
+    },
+    {
+      "id": 194,
+      "start": 548.09,
+      "end": 548.63,
+      "en": "I'd.",
+      "zh": "我会……"
+    },
+    {
+      "id": 195,
+      "start": 549.13,
+      "end": 549.67,
+      "en": "I'd.",
+      "zh": "我会……"
+    },
+    {
+      "id": 196,
+      "start": 550.37,
+      "end": 550.71,
+      "en": "I'd recommend.",
+      "zh": "我会推荐。"
+    },
+    {
+      "id": 197,
+      "start": 551.18,
+      "end": 552.18,
+      "en": "I'd recommend.",
+      "zh": "我会推荐。"
+    },
+    {
+      "id": 198,
+      "start": 552.18,
+      "end": 559.75,
+      "en": "Similarly, in the phrase, you have got to, we shorten that to say, you gotta.",
+      "zh": "同样，在这句话中，你必须，我们缩短它，你必须说。"
+    },
+    {
+      "id": 199,
+      "start": 560.22,
+      "end": 561.22,
+      "en": "You gotta.",
+      "zh": "你得……"
+    },
+    {
+      "id": 200,
+      "start": 561.22,
+      "end": 561.75,
+      "en": "You gotta give them a try.",
+      "zh": "你得试一试。"
+    },
+    {
+      "id": 201,
+      "start": 562.22,
+      "end": 563.22,
+      "en": "You gotta.",
+      "zh": "你得……"
+    },
+    {
+      "id": 202,
+      "start": 563.22,
+      "end": 564.22,
+      "en": "Mm-hmm.",
+      "zh": "嗯。"
+    },
+    {
+      "id": 203,
+      "start": 564.22,
+      "end": 565.22,
+      "en": "You know what, guys?",
+      "zh": "你知道吗，伙计们？"
+    },
+    {
+      "id": 204,
+      "start": 565.22,
+      "end": 571.57,
+      "en": "If you can shorten your phrases like this, if you can push the sounds together, you'll sound a lot more natural, hey?",
+      "zh": "如果你能像这样缩短你的短语，如果你可以把声音推在一起，你会听起来更自然，嘿？"
+    },
+    {
+      "id": 205,
+      "start": 572.2,
+      "end": 578.57,
+      "en": "And also, you'll be able to understand because in movies or in shows, they will never say, you have got to give them a try.",
+      "zh": "而且，您将能够理解，因为在电影或节目中，他们永远不会说，您必须尝试一下。"
+    },
+    {
+      "id": 206,
+      "start": 578.86,
+      "end": 579.86,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 207,
+      "start": 579.86,
+      "end": 580.86,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 208,
+      "start": 580.86,
+      "end": 583.66,
+      "en": "So, if you know how to use this form, you'll understand what they mean.",
+      "zh": "因此，如果您知道如何使用此表单，您就会明白它们的含义。"
+    },
+    {
+      "id": 209,
+      "start": 583.66,
+      "end": 583.79,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 210,
+      "start": 584.66,
+      "end": 584.81,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 211,
+      "start": 585.66,
+      "end": 586.66,
+      "en": "Great.",
+      "zh": "太好了。"
+    },
+    {
+      "id": 212,
+      "start": 586.66,
+      "end": 596.7,
+      "en": "Well, why don't we listen to the dialogue a third time and you'll hear some of these contractions in the dialogue.",
+      "zh": "好吧，我们为什么不第三次听对话，你会在对话中听到一些收缩。"
+    },
+    {
+      "id": 213,
+      "start": 596.7,
+      "end": 598.86,
+      "en": "Do you two have any plans for the evening?",
+      "zh": "你们俩晚上有安排吗？"
+    },
+    {
+      "id": 214,
+      "start": 598.86,
+      "end": 601.09,
+      "en": "We were thinking of checking out a restaurant in the neighborhood.",
+      "zh": "我们正在考虑去附近的一家餐馆。"
+    },
+    {
+      "id": 215,
+      "start": 601.86,
+      "end": 602.53,
+      "en": "Do you have any suggestions?",
+      "zh": "你有什么建议吗？"
+    },
+    {
+      "id": 216,
+      "start": 603.63,
+      "end": 605.09,
+      "en": "I know this really nice Italian place.",
+      "zh": "我知道一家很棒的意大利餐厅。"
+    },
+    {
+      "id": 217,
+      "start": 605.58,
+      "end": 607.87,
+      "en": "The food is fantastic and the decor is beautiful.",
+      "zh": "菜很好吃，装修也很漂亮。"
+    },
+    {
+      "id": 218,
+      "start": 608.75,
+      "end": 609.85,
+      "en": "I'd recommend giving it a try.",
+      "zh": "我建议试一试。"
+    },
+    {
+      "id": 219,
+      "start": 610.53,
+      "end": 613.41,
+      "en": "Actually, I'm not all that crazy about Italian food.",
+      "zh": "其实我不太喜欢意大利菜。"
+    },
+    {
+      "id": 220,
+      "start": 613.85,
+      "end": 615.77,
+      "en": "I'm in the mood for something a bit lighter.",
+      "zh": "我想吃点清淡的。"
+    },
+    {
+      "id": 221,
+      "start": 616.32,
+      "end": 618.38,
+      "en": "In that case, I know a great little bistro.",
+      "zh": "那我知道一家不错的小餐馆。"
+    },
+    {
+      "id": 222,
+      "start": 618.96,
+      "end": 620.66,
+      "en": "They make a really tasty seafood platter.",
+      "zh": "他们家的海鲜拼盘特别好吃。"
+    },
+    {
+      "id": 223,
+      "start": 621.3,
+      "end": 621.92,
+      "en": "The fish is outstanding.",
+      "zh": "这鱼好吃极了。"
+    },
+    {
+      "id": 224,
+      "start": 623.12,
+      "end": 627.26,
+      "en": "It sounds fantastic, but I'm allergic to seafood, so...",
+      "zh": "听起来很棒，但我对海鲜过敏，所以..."
+    },
+    {
+      "id": 225,
+      "start": 627.26,
+      "end": 627.62,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 226,
+      "start": 628.16,
+      "end": 629.26,
+      "en": "Well, let me think.",
+      "zh": "嗯，让我想想。"
+    },
+    {
+      "id": 227,
+      "start": 630.18,
+      "end": 632.6,
+      "en": "Oh, I know this great little place.",
+      "zh": "哦，我知道一家很棒的小店。"
+    },
+    {
+      "id": 228,
+      "start": 633.1,
+      "end": 636.1,
+      "en": "It's just a hole in the wall, but they do the most amazing sandwiches.",
+      "zh": "店面不起眼，但三明治做得特别棒。"
+    },
+    {
+      "id": 229,
+      "start": 636.98,
+      "end": 637.82,
+      "en": "You could give them a try.",
+      "zh": "你们可以去试试。"
+    },
+    {
+      "id": 230,
+      "start": 638.85,
+      "end": 642.79,
+      "en": "Ella, you took me there last time I visited and I got food poisoning, remember?",
+      "zh": "艾拉，上次我来时你带我去过，结果我食物中毒了，记得吗？"
+    },
+    {
+      "id": 231,
+      "start": 648.3,
+      "end": 649.54,
+      "en": "Okay, great dialogue.",
+      "zh": "好吧，很好的对话。"
+    },
+    {
+      "id": 232,
+      "start": 649.98,
+      "end": 653.86,
+      "en": "And Erica, I know that you have some food poisoning stories for us.",
+      "zh": "还有埃里卡，我知道你有一些食物中毒故事给我们。"
+    },
+    {
+      "id": 233,
+      "start": 653.98,
+      "end": 659.62,
+      "en": "Well, I don't know about stories, but I've definitely had food poisoning before.",
+      "zh": "好吧，我不知道故事，但我以前肯定有食物中毒。"
+    },
+    {
+      "id": 234,
+      "start": 659.62,
+      "end": 663.6,
+      "en": "One of the worst times that I ever had food poisoning was when I was traveling in Morocco.",
+      "zh": "我在摩洛哥旅行时出现食物中毒的最糟糕的时期之一。"
+    },
+    {
+      "id": 235,
+      "start": 665.1,
+      "end": 671.12,
+      "en": "I had some really amazing orange juice, really fresh, squeezed that day in the morning.",
+      "zh": "那天早上我喝了一些非常新鲜的橙汁，非常新鲜，挤压。"
+    },
+    {
+      "id": 236,
+      "start": 672.38,
+      "end": 673.22,
+      "en": "And then I got on a bus.",
+      "zh": "然后我上了公共汽车。"
+    },
+    {
+      "id": 237,
+      "start": 674.06,
+      "end": 674.49,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 238,
+      "start": 675.06,
+      "end": 676.31,
+      "en": "I think you can see where this is going.",
+      "zh": "我想你可以看到这是怎么回事。"
+    },
+    {
+      "id": 239,
+      "start": 677.18,
+      "end": 681.37,
+      "en": "Yeah, so I was on the bus and then I started to feel really sick.",
+      "zh": "是的，所以我在公共汽车上，然后我开始感到非常恶心。"
+    },
+    {
+      "id": 240,
+      "start": 683.02,
+      "end": 688.58,
+      "en": "And I was just hoping and hoping and hoping that the bus ride would be over soon.",
+      "zh": "我只是希望、希望和希望乘坐公共汽车很快就会结束。"
+    },
+    {
+      "id": 241,
+      "start": 688.58,
+      "end": 690.7,
+      "en": "But unfortunately, it wasn't.",
+      "zh": "但不幸的是，事实并非如此。"
+    },
+    {
+      "id": 242,
+      "start": 690.7,
+      "end": 691.21,
+      "en": "Oh, no.",
+      "zh": "哦，不。"
+    },
+    {
+      "id": 243,
+      "start": 692.14,
+      "end": 694.61,
+      "en": "All I can say is that I was sick.",
+      "zh": "我只能说我病了。"
+    },
+    {
+      "id": 244,
+      "start": 696.58,
+      "end": 700.55,
+      "en": "All I can say is that I was pretty sick and really, really unhappy.",
+      "zh": "我只能说我病得很重，真的，真的很不开心。"
+    },
+    {
+      "id": 245,
+      "start": 700.97,
+      "end": 701.81,
+      "en": "Yeah, I bet.",
+      "zh": "是的，我打赌。"
+    },
+    {
+      "id": 246,
+      "start": 702.39,
+      "end": 705.57,
+      "en": "Well, that's very strange that you got sick from orange juice, huh?",
+      "zh": "嗯，这很奇怪，你因橙汁而生病，对吧？"
+    },
+    {
+      "id": 247,
+      "start": 705.79,
+      "end": 708.77,
+      "en": "Well, yeah, maybe it was with some dirty water or something like that.",
+      "zh": "嗯，是的，也许是用一些脏水或类似的东西。"
+    },
+    {
+      "id": 248,
+      "start": 708.89,
+      "end": 709.21,
+      "en": "I don't know.",
+      "zh": "我不知道。"
+    },
+    {
+      "id": 249,
+      "start": 709.33,
+      "end": 711.19,
+      "en": "It was just, it was a terrible situation.",
+      "zh": "只是，这是一个可怕的情况。"
+    },
+    {
+      "id": 250,
+      "start": 711.83,
+      "end": 714.33,
+      "en": "Yeah, it's always complicated when you're traveling to other countries.",
+      "zh": "是的，当你去其他国家旅行时，这总是很复杂。"
+    },
+    {
+      "id": 251,
+      "start": 714.5,
+      "end": 715.66,
+      "en": "It could be the water.",
+      "zh": "可能是水。"
+    },
+    {
+      "id": 252,
+      "start": 715.66,
+      "end": 718.43,
+      "en": "It could be the way they prepare things.",
+      "zh": "这可能是他们准备事情的方式。"
+    },
+    {
+      "id": 253,
+      "start": 719.71,
+      "end": 719.87,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 254,
+      "start": 720.03,
+      "end": 720.55,
+      "en": "Food poisoning.",
+      "zh": "食物中毒。"
+    },
+    {
+      "id": 255,
+      "start": 721.02,
+      "end": 724.34,
+      "en": "Well, guys, I hope that you don't get food poisoning.",
+      "zh": "好吧，伙计们，我希望你不要食物中毒。"
+    },
+    {
+      "id": 256,
+      "start": 724.34,
+      "end": 727.31,
+      "en": "And if you have any food poisoning stories, it would be great for you to share them.",
+      "zh": "如果你有任何食物中毒故事，你分享它们会很棒。"
+    },
+    {
+      "id": 257,
+      "start": 727.62,
+      "end": 731.06,
+      "en": "Yes, at our website, EnglishPod.com.",
+      "zh": "是的，在我们的网站 englishpod.com 上。"
+    },
+    {
+      "id": 258,
+      "start": 731.06,
+      "end": 733.27,
+      "en": "And we'll see you there to answer all your questions and comments.",
+      "zh": "我们会在那里见到您，回答您的所有问题和意见。"
+    },
+    {
+      "id": 259,
+      "start": 733.58,
+      "end": 734.37,
+      "en": "But now we have to go.",
+      "zh": "但现在我们必须去。"
+    },
+    {
+      "id": 260,
+      "start": 734.71,
+      "end": 735.91,
+      "en": "Okay, guys, thanks for listening.",
+      "zh": "好的，伙计们，感谢您的收听。"
+    },
+    {
+      "id": 261,
+      "start": 736.41,
+      "end": 736.87,
+      "en": "We'll see you there.",
+      "zh": "到时候见。"
+    },
+    {
+      "id": 262,
+      "start": 737.5,
+      "end": 738.5,
+      "en": "Bye-bye.",
+      "zh": "拜拜。"
+    },
+    {
+      "id": 263,
+      "start": 738.5,
+      "end": 746.188,
+      "en": "Bye-bye.",
+      "zh": "拜拜。"
+    }
+  ],
+  "dialog": {
+    "start": 115.5,
+    "end": 161.54,
+    "segmentIds": [
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62
+    ]
+  }
+}

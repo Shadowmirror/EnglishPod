@@ -1,0 +1,2682 @@
+{
+  "version": 1,
+  "id": 127,
+  "number": "0127",
+  "title": "The Weekend - I Love That Song!",
+  "audio": "mp3/127. The Weekend - I Love That Song!.mp3",
+  "duration": 1223.5233125,
+  "segments": [
+    {
+      "id": 1,
+      "start": 2.29,
+      "end": 3.39,
+      "en": "Hello English learners.",
+      "zh": "各位英语学习者，大家好。"
+    },
+    {
+      "id": 2,
+      "start": 3.84,
+      "end": 5.24,
+      "en": "Welcome back to EnglishPod.",
+      "zh": "欢迎回到 EnglishPod。"
+    },
+    {
+      "id": 3,
+      "start": 5.24,
+      "end": 5.69,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 4,
+      "start": 6.24,
+      "end": 6.83,
+      "en": "And my name is Catherine.",
+      "zh": "我叫 Catherine。"
+    },
+    {
+      "id": 5,
+      "start": 7.32,
+      "end": 8.81,
+      "en": "And today we've got a great show for you.",
+      "zh": "今天我们为您准备了一场精彩的演出。"
+    },
+    {
+      "id": 6,
+      "start": 8.96,
+      "end": 10.65,
+      "en": "We're talking all about music.",
+      "zh": "我们谈论的都是音乐。"
+    },
+    {
+      "id": 7,
+      "start": 11.47,
+      "end": 12.45,
+      "en": "It's a great topic.",
+      "zh": "这是一个很棒的话题。"
+    },
+    {
+      "id": 8,
+      "start": 12.64,
+      "end": 16.84,
+      "en": "I think everyone loves music and well, there's so much type of music out there.",
+      "zh": "我想每个人都喜欢音乐，嗯，那里有很多类型的音乐。"
+    },
+    {
+      "id": 9,
+      "start": 16.84,
+      "end": 18.33,
+      "en": "So that's what we're going to be talking about today.",
+      "zh": "这就是我们今天要讨论的内容。"
+    },
+    {
+      "id": 10,
+      "start": 18.76,
+      "end": 19.05,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 11,
+      "start": 19.41,
+      "end": 21.53,
+      "en": "So there's a little bit for everyone here.",
+      "zh": "所以这里的每个人都有一点。"
+    },
+    {
+      "id": 12,
+      "start": 21.88,
+      "end": 27.44,
+      "en": "Even if you hate rock music, there might be something in it that you're going to be a fan of.",
+      "zh": "即使你讨厌摇滚音乐，也可能有一些你会喜欢的东西。"
+    },
+    {
+      "id": 13,
+      "start": 27.44,
+      "end": 28.44,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 14,
+      "start": 28.44,
+      "end": 32.64,
+      "en": "So before we get started on the dialogue, we have a couple of words that we want to preview.",
+      "zh": "因此，在我们开始对话之前，我们有几个要预览的单词。"
+    },
+    {
+      "id": 15,
+      "start": 33.36,
+      "end": 36.02,
+      "en": "So let's take a look at them now in Vocabulary Preview.",
+      "zh": "所以让我们现在在词汇预览中看看它们。"
+    },
+    {
+      "id": 16,
+      "start": 37.6,
+      "end": 38.6,
+      "en": "Vocabulary Preview.",
+      "zh": "词汇预习。"
+    },
+    {
+      "id": 17,
+      "start": 38.6,
+      "end": 39.6,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 18,
+      "start": 39.6,
+      "end": 40.68,
+      "en": "So this word sounds a bit funny.",
+      "zh": "所以这个词听起来有点好笑。"
+    },
+    {
+      "id": 19,
+      "start": 40.68,
+      "end": 42.58,
+      "en": "It looks like it should be pronounced differently.",
+      "zh": "看起来应该有不同的发音。"
+    },
+    {
+      "id": 20,
+      "start": 42.98,
+      "end": 43.9,
+      "en": "We say genre.",
+      "zh": "我们说流派。"
+    },
+    {
+      "id": 21,
+      "start": 44.68,
+      "end": 44.96,
+      "en": "Genre.",
+      "zh": "类型。"
+    },
+    {
+      "id": 22,
+      "start": 45.0,
+      "end": 46.0,
+      "en": "Or genre.",
+      "zh": "或流派。"
+    },
+    {
+      "id": 23,
+      "start": 46.0,
+      "end": 47.76,
+      "en": "It kind of sounds French.",
+      "zh": "听起来有点法语。"
+    },
+    {
+      "id": 24,
+      "start": 47.8,
+      "end": 49.36,
+      "en": "I think it comes from French.",
+      "zh": "我认为它来自法语。"
+    },
+    {
+      "id": 25,
+      "start": 50.2,
+      "end": 52.04,
+      "en": "It's a GE word.",
+      "zh": "这是一个GE词。"
+    },
+    {
+      "id": 26,
+      "start": 52.3,
+      "end": 52.68,
+      "en": "So genre.",
+      "zh": "所以流派。"
+    },
+    {
+      "id": 27,
+      "start": 53.32,
+      "end": 55.41,
+      "en": "It's a soft, soft sound.",
+      "zh": "这是一种柔和、柔和的声音。"
+    },
+    {
+      "id": 28,
+      "start": 56.36,
+      "end": 57.23,
+      "en": "And what's a genre?",
+      "zh": "什么是类型？"
+    },
+    {
+      "id": 29,
+      "start": 57.97,
+      "end": 59.63,
+      "en": "Well, a genre is like a category.",
+      "zh": "好吧，流派就像一个类别。"
+    },
+    {
+      "id": 30,
+      "start": 60.19,
+      "end": 63.43,
+      "en": "So you could say genre of book or genre of music.",
+      "zh": "所以你可以说书籍或音乐类型。"
+    },
+    {
+      "id": 31,
+      "start": 63.77,
+      "end": 65.41,
+      "en": "Oh, movies also have genres, right?",
+      "zh": "哦，电影也有流派，对吧？"
+    },
+    {
+      "id": 32,
+      "start": 65.43,
+      "end": 65.89,
+      "en": "Yeah, they do.",
+      "zh": "对，他们会。"
+    },
+    {
+      "id": 33,
+      "start": 66.52,
+      "end": 67.89,
+      "en": "Like horror movie is a genre.",
+      "zh": "就像恐怖电影是一种类型。"
+    },
+    {
+      "id": 34,
+      "start": 68.24,
+      "end": 69.24,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 35,
+      "start": 69.24,
+      "end": 70.59,
+      "en": "Or action or suspense, etc.",
+      "zh": "或动作或悬念等。"
+    },
+    {
+      "id": 36,
+      "start": 71.24,
+      "end": 73.79,
+      "en": "So we're going to be looking at music genres on this occasion.",
+      "zh": "所以我们将在这个场合关注音乐流派。"
+    },
+    {
+      "id": 37,
+      "start": 74.52,
+      "end": 77.39,
+      "en": "And some of these genre names actually have abbreviations.",
+      "zh": "其中一些流派名称实际上有缩写。"
+    },
+    {
+      "id": 38,
+      "start": 78.44,
+      "end": 80.74,
+      "en": "They're long words that we say in short forms.",
+      "zh": "它们是我们用简短的形式说的长词。"
+    },
+    {
+      "id": 39,
+      "start": 81.16,
+      "end": 83.46,
+      "en": "And this kind of abbreviation is called an acronym.",
+      "zh": "而这种缩写称为缩写词。"
+    },
+    {
+      "id": 40,
+      "start": 83.48,
+      "end": 84.48,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 41,
+      "start": 84.48,
+      "end": 86.88,
+      "en": "So that's another word that we're looking at, acronym.",
+      "zh": "所以这是我们正在关注的另一个词，首字母缩略词。"
+    },
+    {
+      "id": 42,
+      "start": 87.92,
+      "end": 90.46,
+      "en": "So an acronym is a short version of a long word.",
+      "zh": "所以首字母缩略词是长词的短版本。"
+    },
+    {
+      "id": 43,
+      "start": 90.94,
+      "end": 92.36,
+      "en": "Yeah, usually it's just letters.",
+      "zh": "是的，通常只是字母。"
+    },
+    {
+      "id": 44,
+      "start": 93.12,
+      "end": 95.6,
+      "en": "Like USA is a very good acronym.",
+      "zh": "像美国一样是一个非常好的首字母缩略词。"
+    },
+    {
+      "id": 45,
+      "start": 95.6,
+      "end": 98.2,
+      "en": "It means United States of America.",
+      "zh": "它的意思是美利坚合众国。"
+    },
+    {
+      "id": 46,
+      "start": 98.2,
+      "end": 99.2,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 47,
+      "start": 99.2,
+      "end": 100.2,
+      "en": "Cool.",
+      "zh": "好，明白了。"
+    },
+    {
+      "id": 48,
+      "start": 100.2,
+      "end": 103.09,
+      "en": "So there are some acronyms as well in music.",
+      "zh": "所以音乐中也有一些首字母缩略词。"
+    },
+    {
+      "id": 49,
+      "start": 103.32,
+      "end": 104.51,
+      "en": "So that's what we're going to be looking at.",
+      "zh": "所以这就是我们要关注的。"
+    },
+    {
+      "id": 50,
+      "start": 104.88,
+      "end": 105.45,
+      "en": "And many other things.",
+      "zh": "和许多其他的东西。"
+    },
+    {
+      "id": 51,
+      "start": 105.88,
+      "end": 107.07,
+      "en": "I guess like DNA is an acronym.",
+      "zh": "我想像 DNA 是一个首字母缩写词。"
+    },
+    {
+      "id": 52,
+      "start": 107.24,
+      "end": 108.45,
+      "en": "Yeah, DNA is an acronym.",
+      "zh": "是的，DNA是首字母缩写。"
+    },
+    {
+      "id": 53,
+      "start": 109.08,
+      "end": 110.25,
+      "en": "UN is an acronym.",
+      "zh": "联合国是首字母缩写。"
+    },
+    {
+      "id": 54,
+      "start": 110.48,
+      "end": 111.48,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 55,
+      "start": 111.48,
+      "end": 112.48,
+      "en": "Great.",
+      "zh": "太好了。"
+    },
+    {
+      "id": 56,
+      "start": 112.48,
+      "end": 114.55,
+      "en": "So we're going to be looking at different genres of music.",
+      "zh": "所以我们将研究不同类型的音乐。"
+    },
+    {
+      "id": 57,
+      "start": 114.92,
+      "end": 117.39,
+      "en": "So let's listen to our dialogue for the first time.",
+      "zh": "所以让我们第一次听我们的对话。"
+    },
+    {
+      "id": 58,
+      "start": 117.63,
+      "end": 123.01,
+      "en": "We're going to listen to a game show where people have to name the song and the genre.",
+      "zh": "我们将收听一个游戏节目，人们必须在其中命名歌曲和流派。"
+    },
+    {
+      "id": 59,
+      "start": 134.42,
+      "end": 140.14,
+      "en": "Welcome back music lovers to I Love That Song, the game show where we test your musical knowledge to the extreme.",
+      "zh": "各位音乐爱好者，欢迎回到《我爱这首歌》，在这个游戏节目里，我们要把你的音乐知识考到极限。"
+    },
+    {
+      "id": 60,
+      "start": 140.97,
+      "end": 141.6,
+      "en": "Let's get started.",
+      "zh": "我们开始吧。"
+    },
+    {
+      "id": 61,
+      "start": 142.14,
+      "end": 143.46,
+      "en": "Team A, guess this tune.",
+      "zh": "A 队，猜猜这是什么歌。"
+    },
+    {
+      "id": 62,
+      "start": 144.64,
+      "end": 154.76,
+      "en": "Carrying Your Love With Me by George Strait.",
+      "zh": "乔治·斯特雷特的《Carrying Your Love With Me》。"
+    },
+    {
+      "id": 63,
+      "start": 154.77,
+      "end": 156.12,
+      "en": "The genre is country music.",
+      "zh": "流派是乡村音乐。"
+    },
+    {
+      "id": 64,
+      "start": 156.89,
+      "end": 157.4,
+      "en": "You're right.",
+      "zh": "你说得对。"
+    },
+    {
+      "id": 65,
+      "start": 158.08,
+      "end": 162.4,
+      "en": "100 points to Team A. Now for our next cut.",
+      "zh": "A 队加一百分。现在来听下一首。"
+    },
+    {
+      "id": 66,
+      "start": 162.4,
+      "end": 170.32,
+      "en": "Thong Song by Sisqó.",
+      "zh": "西斯科的《Thong Song》。"
+    },
+    {
+      "id": 67,
+      "start": 170.32,
+      "end": 172.32,
+      "en": "I believe the genre is R&B.",
+      "zh": "我相信这种类型是 R&B。"
+    },
+    {
+      "id": 68,
+      "start": 172.4,
+      "end": 179.02,
+      "en": "100 big points for Team B. For all of our viewers, the acronym R&B stands for rhythm and blues.",
+      "zh": "B 队加一百分。向各位观众解释一下，R&B 是“节奏布鲁斯”的缩写。"
+    },
+    {
+      "id": 69,
+      "start": 179.64,
+      "end": 181.68,
+      "en": "On that note, DJ, play our next song.",
+      "zh": "说到这里，DJ，请放下一首歌。"
+    },
+    {
+      "id": 70,
+      "start": 187.22,
+      "end": 188.64,
+      "en": "Superstar by The Carpenters.",
+      "zh": "卡朋特乐队的《Superstar》。"
+    },
+    {
+      "id": 71,
+      "start": 189.3,
+      "end": 190.16,
+      "en": "And the genre?",
+      "zh": "那是什么类型？"
+    },
+    {
+      "id": 72,
+      "start": 193.84,
+      "end": 194.24,
+      "en": "Adult Contemporary.",
+      "zh": "成人当代音乐。"
+    },
+    {
+      "id": 73,
+      "start": 195.44,
+      "end": 202.12,
+      "en": "That's right, 100 points.",
+      "zh": "没错，100分。"
+    },
+    {
+      "id": 74,
+      "start": 202.12,
+      "end": 203.91,
+      "en": "That sound means it's double or nothing.",
+      "zh": "这个声音表示现在进入“分数翻倍或全部清零”环节。"
+    },
+    {
+      "id": 75,
+      "start": 204.68,
+      "end": 206.71,
+      "en": "The songs are more difficult and the points are doubled.",
+      "zh": "歌曲更难，分数加倍。"
+    },
+    {
+      "id": 76,
+      "start": 207.17,
+      "end": 208.65,
+      "en": "Let's hear our next song.",
+      "zh": "让我们听听我们的下一首歌。"
+    },
+    {
+      "id": 77,
+      "start": 209.88,
+      "end": 213.32,
+      "en": "Too Easy.",
+      "zh": "太容易了。"
+    },
+    {
+      "id": 78,
+      "start": 213.32,
+      "end": 216.8,
+      "en": "That song is Kingslayer by the Finnish power metal group Nightwish.",
+      "zh": "这首歌是芬兰力量金属乐队夜愿的《Kingslayer》。"
+    },
+    {
+      "id": 79,
+      "start": 217.68,
+      "end": 218.36,
+      "en": "You are correct.",
+      "zh": "你说得对。"
+    },
+    {
+      "id": 80,
+      "start": 218.92,
+      "end": 222.16,
+      "en": "Very impressive, Team A. And it seems we have a tie.",
+      "zh": "A 队，真厉害。看来现在双方打平了。"
+    },
+    {
+      "id": 81,
+      "start": 222.72,
+      "end": 224.88,
+      "en": "It's time now for the tiebreaker round.",
+      "zh": "现在进入决胜局。"
+    },
+    {
+      "id": 82,
+      "start": 225.76,
+      "end": 230.7,
+      "en": "Each team will be played three songs and they must tell us the genre of each song in less than five seconds.",
+      "zh": "我们会给每队播放三首歌，他们必须在五秒内说出每首歌的音乐类型。"
+    },
+    {
+      "id": 83,
+      "start": 231.16,
+      "end": 232.16,
+      "en": "Team A, are you ready?",
+      "zh": "A队，你准备好了吗？"
+    },
+    {
+      "id": 84,
+      "start": 233.16,
+      "end": 234.16,
+      "en": "Ready.",
+      "zh": "准备好了。"
+    },
+    {
+      "id": 85,
+      "start": 234.16,
+      "end": 234.53,
+      "en": "Let's hear it.",
+      "zh": "来听听吧。"
+    },
+    {
+      "id": 86,
+      "start": 240.16,
+      "end": 251.6,
+      "en": "Hip hop, classical and gothic metal.",
+      "zh": "嘻哈、古典音乐和哥特金属。"
+    },
+    {
+      "id": 87,
+      "start": 251.6,
+      "end": 251.81,
+      "en": "You're right.",
+      "zh": "你说得对。"
+    },
+    {
+      "id": 88,
+      "start": 252.6,
+      "end": 254.28,
+      "en": "Team B, the pressure is on.",
+      "zh": "B 队，压力可来了。"
+    },
+    {
+      "id": 89,
+      "start": 254.28,
+      "end": 257.21,
+      "en": "If you get all of them right, we will move on to sudden death.",
+      "zh": "如果全部答对，就进入一题定胜负的加赛。"
+    },
+    {
+      "id": 90,
+      "start": 257.59,
+      "end": 258.89,
+      "en": "If you miss one, you lose.",
+      "zh": "只要答错一个，你们就输了。"
+    },
+    {
+      "id": 91,
+      "start": 259.6,
+      "end": 265.6,
+      "en": "DJ, let's hear it.",
+      "zh": "DJ，放来听听。"
+    },
+    {
+      "id": 92,
+      "start": 265.6,
+      "end": 277.6,
+      "en": "Rap, disco and...",
+      "zh": "说唱、迪斯科和..."
+    },
+    {
+      "id": 93,
+      "start": 289.3,
+      "end": 290.6,
+      "en": "Fun show, Marco.",
+      "zh": "有趣的节目，马可。"
+    },
+    {
+      "id": 94,
+      "start": 290.8,
+      "end": 293.64,
+      "en": "I kind of think I'd be good at this kind of game.",
+      "zh": "我觉得我会擅长这种游戏。"
+    },
+    {
+      "id": 95,
+      "start": 293.64,
+      "end": 294.68,
+      "en": "I might win big.",
+      "zh": "我可能会赢大。"
+    },
+    {
+      "id": 96,
+      "start": 295.3,
+      "end": 302.86,
+      "en": "Well, there were a lot of different types of genres in there and a lot of different music, I don't know, maybe not very popular.",
+      "zh": "好吧，那里有很多不同类型的流派和很多不同的音乐，我不知道，也许不是很受欢迎。"
+    },
+    {
+      "id": 97,
+      "start": 303.2,
+      "end": 304.88,
+      "en": "Like for example, country music.",
+      "zh": "例如，乡村音乐。"
+    },
+    {
+      "id": 98,
+      "start": 304.88,
+      "end": 309.84,
+      "en": "I don't know if many people outside of the United States actually know about this.",
+      "zh": "我不知道美国以外的很多人是否真的知道这一点。"
+    },
+    {
+      "id": 99,
+      "start": 309.92,
+      "end": 316.5,
+      "en": "Well, there might be different kinds of country music, but you know, in America, one of the most famous country music musicians is Garth Brooks.",
+      "zh": "好吧，可能有不同种类的乡村音乐，但你知道，在美国，最著名的乡村音乐音乐家之一是 Garth Brooks。"
+    },
+    {
+      "id": 100,
+      "start": 316.8,
+      "end": 319.74,
+      "en": "And even if I didn't like his music, I grew up hearing it everywhere.",
+      "zh": "即使我不喜欢他的音乐，我还是到处都在听。"
+    },
+    {
+      "id": 101,
+      "start": 320.22,
+      "end": 320.88,
+      "en": "But you don't like it?",
+      "zh": "但你不喜欢吗？"
+    },
+    {
+      "id": 102,
+      "start": 321.32,
+      "end": 327.68,
+      "en": "Um, you know, it's one of those things that I like some kinds of country music, but it's a huge genre.",
+      "zh": "嗯，你知道，这是我喜欢某种乡村音乐的东西之一，但它是一种巨大的流派。"
+    },
+    {
+      "id": 103,
+      "start": 327.68,
+      "end": 330.66,
+      "en": "That means there's lots of different kinds of music within country.",
+      "zh": "这意味着国内有很多不同类型的音乐。"
+    },
+    {
+      "id": 104,
+      "start": 331.18,
+      "end": 331.52,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 105,
+      "start": 332.16,
+      "end": 338.44,
+      "en": "So let's take a look at more of these genres and now in Language Takeaway.",
+      "zh": "所以让我们来看看更多这些流派，现在是语言外卖。"
+    },
+    {
+      "id": 106,
+      "start": 338.44,
+      "end": 339.0,
+      "en": "Language Takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 107,
+      "start": 340.24,
+      "end": 340.8,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 108,
+      "start": 341.0,
+      "end": 342.58,
+      "en": "So we talked about country music.",
+      "zh": "所以我们谈到了乡村音乐。"
+    },
+    {
+      "id": 109,
+      "start": 342.88,
+      "end": 345.38,
+      "en": "Now this is mostly in the United States, right?",
+      "zh": "现在这主要是在美国，对吧？"
+    },
+    {
+      "id": 110,
+      "start": 345.84,
+      "end": 351.88,
+      "en": "In the South, especially because there's a long tradition of country music in the southern United States.",
+      "zh": "在南方，特别是因为美国南部有悠久的乡村音乐传统。"
+    },
+    {
+      "id": 111,
+      "start": 351.88,
+      "end": 355.92,
+      "en": "So it's very characteristic to have guitars and...",
+      "zh": "所以有吉他和..."
+    },
+    {
+      "id": 112,
+      "start": 356.44,
+      "end": 357.66,
+      "en": "A little bit of twang, maybe.",
+      "zh": "也许是一点音调。"
+    },
+    {
+      "id": 113,
+      "start": 358.2,
+      "end": 359.2,
+      "en": "Twang?",
+      "zh": "音？"
+    },
+    {
+      "id": 114,
+      "start": 359.2,
+      "end": 359.42,
+      "en": "What is twang?",
+      "zh": "什么是twang？"
+    },
+    {
+      "id": 115,
+      "start": 360.52,
+      "end": 361.96,
+      "en": "It's a way of saying a word.",
+      "zh": "这是一种说单词的方式。"
+    },
+    {
+      "id": 116,
+      "start": 362.32,
+      "end": 366.65,
+      "en": "So I could say, I'm from Texas, or I could say, I'm from Texas.",
+      "zh": "所以我可以说，我来自德克萨斯州，或者我可以说，我来自德克萨斯州。"
+    },
+    {
+      "id": 117,
+      "start": 367.6,
+      "end": 368.03,
+      "en": "That's twang.",
+      "zh": "那是twang。"
+    },
+    {
+      "id": 118,
+      "start": 368.6,
+      "end": 368.93,
+      "en": "That's twang.",
+      "zh": "那是twang。"
+    },
+    {
+      "id": 119,
+      "start": 369.6,
+      "end": 372.08,
+      "en": "So kind of like an accent, a southern accent.",
+      "zh": "有点像口音，南方口音。"
+    },
+    {
+      "id": 120,
+      "start": 372.08,
+      "end": 373.08,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 121,
+      "start": 373.08,
+      "end": 377.08,
+      "en": "So Garth Brooks has a famous twang, I got friends in Laos.",
+      "zh": "所以 Garth Brooks 有一个著名的 twang，我在老挝结交了朋友。"
+    },
+    {
+      "id": 122,
+      "start": 377.08,
+      "end": 379.91,
+      "en": "You know, that's a very famous song of his where he's twangy.",
+      "zh": "你知道，这是他的一首非常有名的歌曲。"
+    },
+    {
+      "id": 123,
+      "start": 380.11,
+      "end": 380.55,
+      "en": "Very southern.",
+      "zh": "非常南方。"
+    },
+    {
+      "id": 124,
+      "start": 381.28,
+      "end": 382.28,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 125,
+      "start": 382.28,
+      "end": 383.28,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 126,
+      "start": 383.28,
+      "end": 386.2,
+      "en": "So we have country music and then we saw another genre, which is R&B.",
+      "zh": "所以我们有乡村音乐，然后我们看到了另一种类型，即 R&B。"
+    },
+    {
+      "id": 127,
+      "start": 386.2,
+      "end": 387.2,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 128,
+      "start": 387.34,
+      "end": 389.78,
+      "en": "This is a little bit more up my alley.",
+      "zh": "这更像是我的小巷。"
+    },
+    {
+      "id": 129,
+      "start": 389.96,
+      "end": 393.04,
+      "en": "That means this is more of an interest of mine.",
+      "zh": "这意味着这更多是我的兴趣。"
+    },
+    {
+      "id": 130,
+      "start": 393.04,
+      "end": 394.41,
+      "en": "And R&B is an acronym for?",
+      "zh": "R&B 是一个首字母缩写词吗？"
+    },
+    {
+      "id": 131,
+      "start": 395.6,
+      "end": 396.6,
+      "en": "Rhythm and blues.",
+      "zh": "节奏和蓝调。"
+    },
+    {
+      "id": 132,
+      "start": 396.6,
+      "end": 397.6,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 133,
+      "start": 397.6,
+      "end": 401.56,
+      "en": "So the R&B that we know now, what would be some examples of those artists?",
+      "zh": "那么我们现在知道的 R&B，这些艺术家的例子是什么？"
+    },
+    {
+      "id": 134,
+      "start": 401.56,
+      "end": 408.8,
+      "en": "Well, a really famous artist is John Legend, who's been touring the world with his new album and that kind of music is R&B.",
+      "zh": "好吧，一位真正著名的艺术家是约翰传奇，他一直带着他的新专辑环游世界，那种音乐就是 R&B。"
+    },
+    {
+      "id": 135,
+      "start": 408.8,
+      "end": 413.88,
+      "en": "So we're talking about a kind of music that mixes jazz traditions with rhythm.",
+      "zh": "所以我们谈论的是一种将爵士乐传统与节奏相结合的音乐。"
+    },
+    {
+      "id": 136,
+      "start": 414.22,
+      "end": 416.0,
+      "en": "So that means drums and bass.",
+      "zh": "所以这意味着鼓和贝斯。"
+    },
+    {
+      "id": 137,
+      "start": 416.56,
+      "end": 416.7,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 138,
+      "start": 418.22,
+      "end": 418.56,
+      "en": "That's rhythm.",
+      "zh": "那是节奏。"
+    },
+    {
+      "id": 139,
+      "start": 419.3,
+      "end": 422.02,
+      "en": "So you have rhythm and blues, like the name says.",
+      "zh": "所以你有节奏和布鲁斯，就像名字所说的那样。"
+    },
+    {
+      "id": 140,
+      "start": 422.64,
+      "end": 425.24,
+      "en": "R&B, very popular nowadays.",
+      "zh": "R&B，现在很受欢迎。"
+    },
+    {
+      "id": 141,
+      "start": 425.24,
+      "end": 430.6,
+      "en": "And then we moved on to something heavier, something more like rock style, which is metal.",
+      "zh": "然后我们转向更重的东西，更像是摇滚风格，它是金属。"
+    },
+    {
+      "id": 142,
+      "start": 431.28,
+      "end": 431.74,
+      "en": "Metal.",
+      "zh": "金属。"
+    },
+    {
+      "id": 143,
+      "start": 432.02,
+      "end": 432.14,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 144,
+      "start": 432.34,
+      "end": 436.58,
+      "en": "I'm not really sure why they call it metal, but metal is a very, very popular kind of music.",
+      "zh": "我不太确定他们为什么称它为金属，但金属是一种非常非常流行的音乐。"
+    },
+    {
+      "id": 145,
+      "start": 436.92,
+      "end": 439.28,
+      "en": "So it divides into different categories, right?",
+      "zh": "所以它分为不同的类别，对吧？"
+    },
+    {
+      "id": 146,
+      "start": 439.44,
+      "end": 441.5,
+      "en": "In this song, we saw that it was power metal.",
+      "zh": "在这首歌中，我们看到它是 Power Metal。"
+    },
+    {
+      "id": 147,
+      "start": 441.84,
+      "end": 442.84,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 148,
+      "start": 442.84,
+      "end": 443.62,
+      "en": "But you also have like heavy metal.",
+      "zh": "但你也有重金属。"
+    },
+    {
+      "id": 149,
+      "start": 444.02,
+      "end": 448.64,
+      "en": "Well, because metal is such a broad category, it's a big category.",
+      "zh": "好吧，因为金属是一个如此广泛的类别，所以它是一个很大的类别。"
+    },
+    {
+      "id": 150,
+      "start": 449.28,
+      "end": 455.62,
+      "en": "It's hard to say what certain groups are unless you're really a fan and you follow, but there are many different kinds of metal out there.",
+      "zh": "很难说某些群体是什么，除非你真的是粉丝并且你跟随，但是那里有许多不同种类的金属。"
+    },
+    {
+      "id": 151,
+      "start": 455.8,
+      "end": 458.28,
+      "en": "And so if you're interested, I would check it out on Wikipedia.",
+      "zh": "所以如果你有兴趣，我会在维基百科上查看。"
+    },
+    {
+      "id": 152,
+      "start": 458.28,
+      "end": 459.28,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 153,
+      "start": 459.28,
+      "end": 464.9,
+      "en": "Or let us know if you know what's the difference between power metal and gothic metal and electronic metal.",
+      "zh": "如果您知道 Power Metal 和 Gothic Metal 以及电子金属之间有什么区别，请告诉我们。"
+    },
+    {
+      "id": 154,
+      "start": 465.6,
+      "end": 467.32,
+      "en": "So there are so many different types now.",
+      "zh": "所以现在有很多不同的类型。"
+    },
+    {
+      "id": 155,
+      "start": 468.0,
+      "end": 474.24,
+      "en": "But moving on to our next genre, we also saw something that everyone probably knows nowadays and that's hip hop.",
+      "zh": "但继续我们的下一个类型，我们也看到了现在每个人都可能知道的东西，那就是嘻哈音乐。"
+    },
+    {
+      "id": 156,
+      "start": 474.6,
+      "end": 474.97,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 157,
+      "start": 475.13,
+      "end": 478.61,
+      "en": "Hip hop is a great, great and very interesting kind of music.",
+      "zh": "嘻哈音乐是一种伟大、伟大且非常有趣的音乐。"
+    },
+    {
+      "id": 158,
+      "start": 478.76,
+      "end": 485.92,
+      "en": "It grew out of a lot of people who are listening to jazz in the late 80s, especially in New York, I think, Brooklyn.",
+      "zh": "它源于很多在 80 年代后期听爵士乐的人，尤其是在纽约，我想，布鲁克林。"
+    },
+    {
+      "id": 159,
+      "start": 485.92,
+      "end": 493.48,
+      "en": "And it's kind of interesting in the sense that you take these old records, these old vinyls, and you slow everything down.",
+      "zh": "从某种意义上说，这很有趣，因为你把这些旧唱片，这些旧黑胶唱片，你的一切都放慢了速度。"
+    },
+    {
+      "id": 160,
+      "start": 493.48,
+      "end": 494.48,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 161,
+      "start": 494.48,
+      "end": 495.48,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 162,
+      "start": 495.48,
+      "end": 496.48,
+      "en": "So you change the speed.",
+      "zh": "所以你改变了速度。"
+    },
+    {
+      "id": 163,
+      "start": 496.48,
+      "end": 500.88,
+      "en": "So a normal song goes from dum, dum, dum, dum to dum, dum, dum, dum.",
+      "zh": "所以一首普通的歌从dum、dum、dum、dum到dum、dum、dum、dum。"
+    },
+    {
+      "id": 164,
+      "start": 500.88,
+      "end": 502.52,
+      "en": "And then you had like some bass in there.",
+      "zh": "然后你在那里有一些贝斯。"
+    },
+    {
+      "id": 165,
+      "start": 502.88,
+      "end": 503.52,
+      "en": "Yeah, exactly.",
+      "zh": "对，没错。"
+    },
+    {
+      "id": 166,
+      "start": 503.88,
+      "end": 507.2,
+      "en": "And some lyrics and you have yourself something like hip hop.",
+      "zh": "还有一些歌词，你就有了像嘻哈这样的东西。"
+    },
+    {
+      "id": 167,
+      "start": 507.2,
+      "end": 510.58,
+      "en": "So a very famous hip hop artist nowadays would be 50 Cent.",
+      "zh": "所以现在一个非常著名的嘻哈艺术家将是 50 美分。"
+    },
+    {
+      "id": 168,
+      "start": 511.2,
+      "end": 512.2,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 169,
+      "start": 512.2,
+      "end": 514.28,
+      "en": "Or for example, also Nelly, right?",
+      "zh": "或者，例如，Nelly，对吧？"
+    },
+    {
+      "id": 170,
+      "start": 514.28,
+      "end": 515.58,
+      "en": "Another famous hip hop artist.",
+      "zh": "另一位著名的嘻哈艺术家。"
+    },
+    {
+      "id": 171,
+      "start": 515.92,
+      "end": 516.92,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 172,
+      "start": 516.92,
+      "end": 519.52,
+      "en": "So we have hip hop and well, it's kind of similar.",
+      "zh": "所以我们有嘻哈音乐，嗯，有点相似。"
+    },
+    {
+      "id": 173,
+      "start": 519.52,
+      "end": 519.8,
+      "en": "I don't know.",
+      "zh": "我不知道。"
+    },
+    {
+      "id": 174,
+      "start": 520.2,
+      "end": 521.7,
+      "en": "Very similar to rap almost.",
+      "zh": "几乎与说唱非常相似。"
+    },
+    {
+      "id": 175,
+      "start": 522.34,
+      "end": 522.54,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 176,
+      "start": 522.6,
+      "end": 526.5,
+      "en": "But it's different in that the way the process for making this kind of music is quite different.",
+      "zh": "但它的不同之处在于制作这种音乐的过程完全不同。"
+    },
+    {
+      "id": 177,
+      "start": 527.21,
+      "end": 527.41,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 178,
+      "start": 527.59,
+      "end": 531.21,
+      "en": "Rap tends to be very lyric heavy, whereas hip hop is very beat heavy, I think.",
+      "zh": "说唱往往非常抒情，而嘻哈则非常重，我认为。"
+    },
+    {
+      "id": 179,
+      "start": 531.47,
+      "end": 531.87,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 180,
+      "start": 532.55,
+      "end": 533.01,
+      "en": "So interesting.",
+      "zh": "太有趣了。"
+    },
+    {
+      "id": 181,
+      "start": 533.37,
+      "end": 541.39,
+      "en": "Now we've seen a lot of these different genres, but of course, there's so many more that we can't really look at all of them in one single podcast.",
+      "zh": "现在我们已经看到了很多这些不同的流派，但是当然，还有很多我们不能在一个播客中真正看到所有这些类型。"
+    },
+    {
+      "id": 182,
+      "start": 541.73,
+      "end": 542.71,
+      "en": "That's what our website's for.",
+      "zh": "这就是我们的网站的用途。"
+    },
+    {
+      "id": 183,
+      "start": 542.83,
+      "end": 546.87,
+      "en": "You can put your favorite music genres up on our website and practice your English.",
+      "zh": "您可以将您最喜爱的音乐流派放在我们的网站上并练习您的英语。"
+    },
+    {
+      "id": 184,
+      "start": 547.57,
+      "end": 547.93,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 185,
+      "start": 548.56,
+      "end": 551.96,
+      "en": "So, well, why don't we listen to this dialogue for the second time?",
+      "zh": "那么，好吧，我们为什么不第二次听这个对话呢？"
+    },
+    {
+      "id": 186,
+      "start": 551.96,
+      "end": 555.99,
+      "en": "Let's slow it down just a little bit, and then we'll come back and look at some more phrases.",
+      "zh": "让我们稍微慢一点，然后我们会回来看更多的短语。"
+    },
+    {
+      "id": 187,
+      "start": 561.23,
+      "end": 566.97,
+      "en": "Welcome back, music lovers, to I Love That Song, the game show where we test your musical knowledge to the extreme.",
+      "zh": "欢迎回来，音乐爱好者，我喜欢那首歌，我们测试你的音乐知识的游戏节目。"
+    },
+    {
+      "id": 188,
+      "start": 567.79,
+      "end": 568.43,
+      "en": "Let's get started.",
+      "zh": "我们开始吧。"
+    },
+    {
+      "id": 189,
+      "start": 569.12,
+      "end": 571.12,
+      "en": "Team A, guess this tune.",
+      "zh": "A队，猜这曲子。"
+    },
+    {
+      "id": 190,
+      "start": 571.12,
+      "end": 575.6,
+      "en": "Carrying Your Love With Me by George Strait.",
+      "zh": "乔治·斯特雷特的《Carrying Your Love With Me》。"
+    },
+    {
+      "id": 191,
+      "start": 575.6,
+      "end": 576.91,
+      "en": "The genre is country music.",
+      "zh": "流派是乡村音乐。"
+    },
+    {
+      "id": 192,
+      "start": 577.69,
+      "end": 578.21,
+      "en": "You're right.",
+      "zh": "你说得对。"
+    },
+    {
+      "id": 193,
+      "start": 578.92,
+      "end": 584.0,
+      "en": "100 points to Team A. Now for our next cut.",
+      "zh": "A 队加一百分。现在来听下一首。"
+    },
+    {
+      "id": 194,
+      "start": 584.0,
+      "end": 585.56,
+      "en": "Song Song by Sisqó.",
+      "zh": "西斯科的歌曲。"
+    },
+    {
+      "id": 195,
+      "start": 585.56,
+      "end": 587.32,
+      "en": "I believe the genre is R&B.",
+      "zh": "我相信这种类型是 R&B。"
+    },
+    {
+      "id": 196,
+      "start": 587.56,
+      "end": 589.66,
+      "en": "100 big points for Team B.",
+      "zh": "B队100个大点。"
+    },
+    {
+      "id": 197,
+      "start": 590.22,
+      "end": 594.22,
+      "en": "For all of our viewers, the acronym R&B stands for rhythm and blues.",
+      "zh": "对于我们所有的观众来说，首字母缩写词 R&B 代表节奏和布鲁斯。"
+    },
+    {
+      "id": 198,
+      "start": 594.8,
+      "end": 596.88,
+      "en": "On that note, DJ, play our next song.",
+      "zh": "说到这里，DJ，请放下一首歌。"
+    },
+    {
+      "id": 199,
+      "start": 598.1,
+      "end": 599.54,
+      "en": "Superstar by The Carpenters.",
+      "zh": "木匠的超级巨星。"
+    },
+    {
+      "id": 200,
+      "start": 600.2,
+      "end": 601.04,
+      "en": "And the genre?",
+      "zh": "那是什么类型？"
+    },
+    {
+      "id": 201,
+      "start": 604.56,
+      "end": 605.22,
+      "en": "Adult Contemporary.",
+      "zh": "成人当代。"
+    },
+    {
+      "id": 202,
+      "start": 606.06,
+      "end": 606.54,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 203,
+      "start": 607.36,
+      "end": 608.92,
+      "en": "100 points.",
+      "zh": "100分。"
+    },
+    {
+      "id": 204,
+      "start": 608.92,
+      "end": 610.16,
+      "en": "Uh-oh.",
+      "zh": "糟了。"
+    },
+    {
+      "id": 205,
+      "start": 610.16,
+      "end": 611.93,
+      "en": "That sound means it's double or nothing.",
+      "zh": "这个声音表示现在进入“分数翻倍或全部清零”环节。"
+    },
+    {
+      "id": 206,
+      "start": 612.72,
+      "end": 615.36,
+      "en": "The songs are more difficult and the points are doubled.",
+      "zh": "歌曲更难，分数加倍。"
+    },
+    {
+      "id": 207,
+      "start": 615.36,
+      "end": 616.69,
+      "en": "Let's hear our next song.",
+      "zh": "让我们听听我们的下一首歌。"
+    },
+    {
+      "id": 208,
+      "start": 617.88,
+      "end": 618.28,
+      "en": "Too easy.",
+      "zh": "太简单了。"
+    },
+    {
+      "id": 209,
+      "start": 619.0,
+      "end": 622.44,
+      "en": "That song is Kingslayer by the Finnish power metal group Nightwish.",
+      "zh": "这首歌是芬兰力量金属乐队夜愿的《Kingslayer》。"
+    },
+    {
+      "id": 210,
+      "start": 623.32,
+      "end": 624.04,
+      "en": "You are correct.",
+      "zh": "你说得对。"
+    },
+    {
+      "id": 211,
+      "start": 624.56,
+      "end": 627.78,
+      "en": "Very impressive, Team A. And it seems we have a tie.",
+      "zh": "A 队，真厉害。看来现在双方打平了。"
+    },
+    {
+      "id": 212,
+      "start": 628.36,
+      "end": 630.52,
+      "en": "It's time now for the tiebreaker round.",
+      "zh": "现在进入决胜局。"
+    },
+    {
+      "id": 213,
+      "start": 631.52,
+      "end": 636.48,
+      "en": "Each team will be played three songs, and they must tell us the genre of each song in less than five seconds.",
+      "zh": "每支球队将播放三首歌曲，他们必须在不到五秒的时间内告诉我们每首歌曲的流派。"
+    },
+    {
+      "id": 214,
+      "start": 636.92,
+      "end": 637.92,
+      "en": "Team A, are you ready?",
+      "zh": "A队，你准备好了吗？"
+    },
+    {
+      "id": 215,
+      "start": 638.92,
+      "end": 639.92,
+      "en": "Ready.",
+      "zh": "准备好了。"
+    },
+    {
+      "id": 216,
+      "start": 639.92,
+      "end": 640.28,
+      "en": "Let's hear it.",
+      "zh": "来听听吧。"
+    },
+    {
+      "id": 217,
+      "start": 640.92,
+      "end": 644.2,
+      "en": "Hip-hop, classical, and gothic metal.",
+      "zh": "嘻哈、古典和哥特金属。"
+    },
+    {
+      "id": 218,
+      "start": 644.2,
+      "end": 644.44,
+      "en": "You're right.",
+      "zh": "你说得对。"
+    },
+    {
+      "id": 219,
+      "start": 645.28,
+      "end": 646.96,
+      "en": "Team B, the pressure is on.",
+      "zh": "B队，压力很大。"
+    },
+    {
+      "id": 220,
+      "start": 646.96,
+      "end": 649.84,
+      "en": "If you get all of them right, we will move on to sudden death.",
+      "zh": "如果全部答对，就进入一题定胜负的加赛。"
+    },
+    {
+      "id": 221,
+      "start": 650.24,
+      "end": 651.52,
+      "en": "If you miss one, you lose.",
+      "zh": "如果你错过了一个，你就输了。"
+    },
+    {
+      "id": 222,
+      "start": 652.32,
+      "end": 654.52,
+      "en": "DJ, let's hear it.",
+      "zh": "DJ，放来听听。"
+    },
+    {
+      "id": 223,
+      "start": 654.52,
+      "end": 657.36,
+      "en": "Rap, disco, and...",
+      "zh": "说唱、迪斯科和..."
+    },
+    {
+      "id": 224,
+      "start": 660.55,
+      "end": 669.13,
+      "en": "So, it isn't a true EnglishPod lesson if we don't give you a couple of phrases and words to make you sound more fluent, so that's the purpose of this next portion of our show.",
+      "zh": "所以，如果我们不给你几个短语和单词来让你听起来更流利，这不是真正的 EnglishPod 课程，所以这就是我们节目下一部分的目的。"
+    },
+    {
+      "id": 225,
+      "start": 670.76,
+      "end": 671.04,
+      "en": "Fluency Builder.",
+      "zh": "流利表达。"
+    },
+    {
+      "id": 226,
+      "start": 671.98,
+      "end": 682.04,
+      "en": "Okay, so the phrases that we're going to look at now on Fluency Builder are the ones that we saw in the dialogue, but we can use, of course, outside of music or outside of a game show.",
+      "zh": "好吧，所以我们现在要在 Fluency Builder 上看到的短语是我们在对话中看到的，但我们当然可以在音乐之外或游戏节目之外使用。"
+    },
+    {
+      "id": 227,
+      "start": 682.52,
+      "end": 686.88,
+      "en": "And there was an interesting one that he mentioned when he said, double or nothing.",
+      "zh": "当他说的时候，他提到了一个有趣的事情，双倍或什么都没有。"
+    },
+    {
+      "id": 228,
+      "start": 687.24,
+      "end": 688.8,
+      "en": "Hmm, double or nothing.",
+      "zh": "嗯，双重或什么都没有。"
+    },
+    {
+      "id": 229,
+      "start": 688.8,
+      "end": 689.36,
+      "en": "It's double or nothing.",
+      "zh": "它是双重的或没有的。"
+    },
+    {
+      "id": 230,
+      "start": 689.96,
+      "end": 695.06,
+      "en": "Well, this is an interesting phrase because it, I think, comes from gambling and betting.",
+      "zh": "嗯，这是一个有趣的短语，因为我认为它来自赌博和博彩。"
+    },
+    {
+      "id": 231,
+      "start": 696.16,
+      "end": 704.57,
+      "en": "Yeah, so it's a way for us to say, well, you could double your money, but if you have a bad answer, if you lose this round, you don't get anything.",
+      "zh": "是的，所以这是我们说的一种方式，你可以把钱翻倍，但如果你有一个糟糕的答案，如果你输了这一轮，你什么也得不到。"
+    },
+    {
+      "id": 232,
+      "start": 705.88,
+      "end": 713.78,
+      "en": "So I guess, yeah, you do see a lot of people say, maybe they're betting or they're playing a game, that person loses and says, okay, let's go double or nothing.",
+      "zh": "所以我猜，是的，你确实看到很多人说，也许他们在打赌，或者他们在玩游戏，那个人输了，说，好吧，让我们去加倍或什么都没有。"
+    },
+    {
+      "id": 233,
+      "start": 713.78,
+      "end": 715.75,
+      "en": "So give me one more shot to win back my money.",
+      "zh": "所以再给我一枪来赢回我的钱。"
+    },
+    {
+      "id": 234,
+      "start": 716.16,
+      "end": 717.16,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 235,
+      "start": 717.16,
+      "end": 721.83,
+      "en": "So if I say, okay, Marco, you need to tell me the capital of Brazil, you have $50.",
+      "zh": "所以如果我说，好吧，马可，你需要告诉我巴西的首都，你有 50 美元。"
+    },
+    {
+      "id": 236,
+      "start": 722.56,
+      "end": 724.31,
+      "en": "If you get the answer right, you get $100.",
+      "zh": "如果你得到正确的答案，你将获得 100 美元。"
+    },
+    {
+      "id": 237,
+      "start": 725.12,
+      "end": 726.95,
+      "en": "But if you get the answer wrong, you get zero.",
+      "zh": "但如果你得到了错误的答案，你就会得到零。"
+    },
+    {
+      "id": 238,
+      "start": 727.2,
+      "end": 727.39,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 239,
+      "start": 727.65,
+      "end": 728.81,
+      "en": "That's double or nothing.",
+      "zh": "那是双重的或没有的。"
+    },
+    {
+      "id": 240,
+      "start": 729.2,
+      "end": 731.64,
+      "en": "All right, interesting phrase.",
+      "zh": "好吧，有趣的短语。"
+    },
+    {
+      "id": 241,
+      "start": 731.64,
+      "end": 732.07,
+      "en": "What else do we have?",
+      "zh": "我们还有什么？"
+    },
+    {
+      "id": 242,
+      "start": 732.72,
+      "end": 735.16,
+      "en": "We've got a great one here called tiebreaker.",
+      "zh": "我们在这里有一个很棒的叫做决胜者。"
+    },
+    {
+      "id": 243,
+      "start": 735.58,
+      "end": 736.6,
+      "en": "So a tiebreaker.",
+      "zh": "所以是一场决胜局。"
+    },
+    {
+      "id": 244,
+      "start": 736.96,
+      "end": 738.08,
+      "en": "Yeah, a tiebreaker, it's a thing.",
+      "zh": "是的，一个决胜局，这是一回事。"
+    },
+    {
+      "id": 245,
+      "start": 738.86,
+      "end": 742.74,
+      "en": "And sometimes in games, some people have the same score.",
+      "zh": "有时在游戏中，有些人的分数相同。"
+    },
+    {
+      "id": 246,
+      "start": 743.24,
+      "end": 744.68,
+      "en": "They have the same amount of points.",
+      "zh": "他们有相同数量的积分。"
+    },
+    {
+      "id": 247,
+      "start": 744.68,
+      "end": 745.68,
+      "en": "So they're tied.",
+      "zh": "所以他们被绑了。"
+    },
+    {
+      "id": 248,
+      "start": 745.68,
+      "end": 746.68,
+      "en": "They're tied.",
+      "zh": "他们被绑了。"
+    },
+    {
+      "id": 249,
+      "start": 746.68,
+      "end": 749.1,
+      "en": "A tie means you have the same number.",
+      "zh": "领带意味着你有相同的号码。"
+    },
+    {
+      "id": 250,
+      "start": 749.1,
+      "end": 751.06,
+      "en": "And if you want to win, you need one winner.",
+      "zh": "如果你想赢，你需要一名赢家。"
+    },
+    {
+      "id": 251,
+      "start": 751.44,
+      "end": 753.2,
+      "en": "You have to have a tiebreaker to decide.",
+      "zh": "你必须有一个决胜局来决定。"
+    },
+    {
+      "id": 252,
+      "start": 753.68,
+      "end": 756.76,
+      "en": "So it could be a question or like we saw here, a tiebreaker round.",
+      "zh": "所以这可能是一个问题，或者就像我们在这里看到的，一个决胜局。"
+    },
+    {
+      "id": 253,
+      "start": 757.08,
+      "end": 757.22,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 254,
+      "start": 758.08,
+      "end": 759.84,
+      "en": "So to decide on a winner.",
+      "zh": "所以决定赢家。"
+    },
+    {
+      "id": 255,
+      "start": 759.84,
+      "end": 763.73,
+      "en": "And this is all or nothing because if you get the answer right, you win.",
+      "zh": "这是全部或全无，因为如果你得到正确的答案，你就赢了。"
+    },
+    {
+      "id": 256,
+      "start": 764.0,
+      "end": 764.95,
+      "en": "If you don't, you lose.",
+      "zh": "如果你不这样做，你就输了。"
+    },
+    {
+      "id": 257,
+      "start": 765.29,
+      "end": 767.09,
+      "en": "It doesn't matter if you were tied before.",
+      "zh": "你之前是否被绑起来并不重要。"
+    },
+    {
+      "id": 258,
+      "start": 767.52,
+      "end": 767.65,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 259,
+      "start": 768.52,
+      "end": 769.52,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 260,
+      "start": 769.52,
+      "end": 770.52,
+      "en": "A tiebreaker.",
+      "zh": "一场决胜局。"
+    },
+    {
+      "id": 261,
+      "start": 770.52,
+      "end": 773.57,
+      "en": "And we have one more phrase and this one is really interesting.",
+      "zh": "我们还有一句话，这一句真的很有趣。"
+    },
+    {
+      "id": 262,
+      "start": 774.04,
+      "end": 775.31,
+      "en": "The pressure is on.",
+      "zh": "压力开启。"
+    },
+    {
+      "id": 263,
+      "start": 776.47,
+      "end": 778.35,
+      "en": "So if I say the pressure is on.",
+      "zh": "所以如果我说压力很大。"
+    },
+    {
+      "id": 264,
+      "start": 779.4,
+      "end": 780.4,
+      "en": "It almost sounds painful.",
+      "zh": "几乎听起来很痛苦。"
+    },
+    {
+      "id": 265,
+      "start": 780.7,
+      "end": 781.22,
+      "en": "Yeah, it does.",
+      "zh": "是的，确实如此。"
+    },
+    {
+      "id": 266,
+      "start": 781.76,
+      "end": 785.62,
+      "en": "Well, is it, does it mean that I am being pressured or what is this?",
+      "zh": "好吧，是不是意味着我被压力了，或者这是什么？"
+    },
+    {
+      "id": 267,
+      "start": 785.82,
+      "end": 786.62,
+      "en": "Well, it's a good question.",
+      "zh": "嗯，这是一个很好的问题。"
+    },
+    {
+      "id": 268,
+      "start": 786.9,
+      "end": 797.32,
+      "en": "The important thing to look at here is the word on because pressure has this kind of companion word to put pressure on something or to put pressure on someone.",
+      "zh": "这里要看的重要一点是关于压力，因为压力有这种伴随的词，可以对某物施加压力或对某人施加压力。"
+    },
+    {
+      "id": 269,
+      "start": 797.72,
+      "end": 805.8,
+      "en": "And so it's the way we say it in English and it means that you're going to really take things seriously from this point on.",
+      "zh": "这就是我们用英语说的方式，这意味着从这一点开始你会认真对待事情。"
+    },
+    {
+      "id": 270,
+      "start": 806.12,
+      "end": 807.12,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 271,
+      "start": 807.12,
+      "end": 808.12,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 272,
+      "start": 808.12,
+      "end": 815.08,
+      "en": "So for example, the Chicago Bulls were at the peak, the height of their fame and they were just a wonderful team.",
+      "zh": "因此，例如，芝加哥公牛队正处于巅峰状态，他们的名声达到顶峰，他们只是一支出色的球队。"
+    },
+    {
+      "id": 273,
+      "start": 815.08,
+      "end": 819.88,
+      "en": "And oftentimes you'd hear the announcers say, there's five seconds left on the clock.",
+      "zh": "通常你会听到播音员说，时钟还剩五秒钟。"
+    },
+    {
+      "id": 274,
+      "start": 820.16,
+      "end": 823.02,
+      "en": "The pressure is on Michael Jordan to win the game.",
+      "zh": "迈克尔乔丹面临赢得比赛的压力。"
+    },
+    {
+      "id": 275,
+      "start": 823.32,
+      "end": 823.58,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 276,
+      "start": 824.32,
+      "end": 828.06,
+      "en": "So the opportunity for the team to win all depended on Michael Jordan.",
+      "zh": "因此，球队获胜的机会完全取决于迈克尔·乔丹。"
+    },
+    {
+      "id": 277,
+      "start": 828.2,
+      "end": 828.34,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 278,
+      "start": 829.2,
+      "end": 831.92,
+      "en": "So the pressure, all of this stuff is on him, his shoulders.",
+      "zh": "所以压力，所有这些东西都在他身上，他的肩膀。"
+    },
+    {
+      "id": 279,
+      "start": 831.92,
+      "end": 834.72,
+      "en": "So he has to score the point to win the game.",
+      "zh": "所以他必须得分才能赢得比赛。"
+    },
+    {
+      "id": 280,
+      "start": 835.36,
+      "end": 836.36,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 281,
+      "start": 836.36,
+      "end": 837.48,
+      "en": "This is a very interesting phrase.",
+      "zh": "这是一个非常有趣的短语。"
+    },
+    {
+      "id": 282,
+      "start": 837.8,
+      "end": 842.34,
+      "en": "Why don't we take a look at some other examples of how we could use the pressure is on.",
+      "zh": "我们为什么不看看我们如何使用压力的其他一些例子。"
+    },
+    {
+      "id": 283,
+      "start": 844.24,
+      "end": 844.49,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 284,
+      "start": 846.68,
+      "end": 848.05,
+      "en": "Carl is really stressed out lately.",
+      "zh": "卡尔最近压力很大。"
+    },
+    {
+      "id": 285,
+      "start": 848.6,
+      "end": 854.56,
+      "en": "The pressure of the entire project is on him since his promotion.",
+      "zh": "自从他晋升以来，整个项目的压力就在他身上。"
+    },
+    {
+      "id": 286,
+      "start": 854.56,
+      "end": 856.76,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 287,
+      "start": 856.76,
+      "end": 863.2,
+      "en": "The pressure is on the president to guide his country out of the recession.",
+      "zh": "总统面临着引导他的国家摆脱经济衰退的压力。"
+    },
+    {
+      "id": 288,
+      "start": 863.2,
+      "end": 865.96,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 289,
+      "start": 865.96,
+      "end": 873.76,
+      "en": "The pressure is on our entire team to successfully come up with a new product for the Asian market within a month.",
+      "zh": "我们整个团队面临的压力是在一个月内成功为亚洲市场推出新产品。"
+    },
+    {
+      "id": 290,
+      "start": 873.76,
+      "end": 873.93,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 291,
+      "start": 874.76,
+      "end": 875.76,
+      "en": "Great examples.",
+      "zh": "很好的例子。"
+    },
+    {
+      "id": 292,
+      "start": 875.76,
+      "end": 876.76,
+      "en": "Great phrases.",
+      "zh": "很实用的短语。"
+    },
+    {
+      "id": 293,
+      "start": 876.76,
+      "end": 877.76,
+      "en": "I think it's pretty clear now, right?",
+      "zh": "我觉得现在很清楚了，对吧？"
+    },
+    {
+      "id": 294,
+      "start": 877.77,
+      "end": 878.11,
+      "en": "It is.",
+      "zh": "是，已经很清楚了。"
+    },
+    {
+      "id": 295,
+      "start": 878.25,
+      "end": 883.35,
+      "en": "And to make sure that we understood the whole dialogue, I think we should take another listen to it at a normal speed.",
+      "zh": "为了确保我们理解整个对话，我认为我们应该以正常的速度再听一次。"
+    },
+    {
+      "id": 296,
+      "start": 883.77,
+      "end": 887.81,
+      "en": "And when we come back, we'll be talking a little bit more about one of my favorite topics, music.",
+      "zh": "当我们回来时，我们会更多地谈论我最喜欢的话题之一，音乐。"
+    },
+    {
+      "id": 297,
+      "start": 899.16,
+      "end": 905.44,
+      "en": "Welcome back music lovers to I Love That Song, the game show where we test your musical knowledge to the extreme.",
+      "zh": "各位音乐爱好者，欢迎回到《我爱这首歌》，在这个游戏节目里，我们要把你的音乐知识考到极限。"
+    },
+    {
+      "id": 298,
+      "start": 905.44,
+      "end": 905.95,
+      "en": "Let's get started.",
+      "zh": "我们开始吧。"
+    },
+    {
+      "id": 299,
+      "start": 906.51,
+      "end": 907.81,
+      "en": "Team A, guess this tune.",
+      "zh": "A队，猜这曲子。"
+    },
+    {
+      "id": 300,
+      "start": 909.44,
+      "end": 919.12,
+      "en": "Carrying your love with me by George Strait.",
+      "zh": "乔治海峡与我一起承载你的爱。"
+    },
+    {
+      "id": 301,
+      "start": 919.12,
+      "end": 920.5,
+      "en": "The genre is country music.",
+      "zh": "流派是乡村音乐。"
+    },
+    {
+      "id": 302,
+      "start": 921.2,
+      "end": 921.74,
+      "en": "You're right.",
+      "zh": "你说得对。"
+    },
+    {
+      "id": 303,
+      "start": 922.44,
+      "end": 933.16,
+      "en": "100 points to Team A. Now for our next cut.",
+      "zh": "A 队加一百分。现在来听下一首。"
+    },
+    {
+      "id": 304,
+      "start": 933.16,
+      "end": 934.68,
+      "en": "Song sung by Cisco.",
+      "zh": "思科唱的宋。"
+    },
+    {
+      "id": 305,
+      "start": 934.68,
+      "end": 936.64,
+      "en": "I believe the genre is R&B.",
+      "zh": "我相信这种类型是 R&B。"
+    },
+    {
+      "id": 306,
+      "start": 936.64,
+      "end": 944.0,
+      "en": "100 big points for Team B. For all of our viewers, the acronym R&B stands for rhythm and blues.",
+      "zh": "B 队加一百分。向各位观众解释一下，R&B 是“节奏布鲁斯”的缩写。"
+    },
+    {
+      "id": 307,
+      "start": 944.0,
+      "end": 946.04,
+      "en": "On that note, DJ, play our next song.",
+      "zh": "说到这里，DJ，请放下一首歌。"
+    },
+    {
+      "id": 308,
+      "start": 951.53,
+      "end": 952.99,
+      "en": "Superstar by the Carpenters.",
+      "zh": "木匠的超级巨星。"
+    },
+    {
+      "id": 309,
+      "start": 953.67,
+      "end": 954.51,
+      "en": "And the genre?",
+      "zh": "那是什么类型？"
+    },
+    {
+      "id": 310,
+      "start": 958.39,
+      "end": 958.71,
+      "en": "Adult contemporary.",
+      "zh": "成人当代。"
+    },
+    {
+      "id": 311,
+      "start": 959.51,
+      "end": 960.89,
+      "en": "That's right, 100 points.",
+      "zh": "没错，100分。"
+    },
+    {
+      "id": 312,
+      "start": 963.92,
+      "end": 969.04,
+      "en": "Uh-oh, that sound means it's double or nothing.",
+      "zh": "哦，哦，那个声音意味着它是双重的或没有的。"
+    },
+    {
+      "id": 313,
+      "start": 969.04,
+      "end": 971.03,
+      "en": "The songs are more difficult and the points are doubled.",
+      "zh": "歌曲更难，分数加倍。"
+    },
+    {
+      "id": 314,
+      "start": 971.53,
+      "end": 973.01,
+      "en": "Let's hear our next song.",
+      "zh": "让我们听听我们的下一首歌。"
+    },
+    {
+      "id": 315,
+      "start": 974.24,
+      "end": 977.68,
+      "en": "Too easy.",
+      "zh": "太简单了。"
+    },
+    {
+      "id": 316,
+      "start": 977.68,
+      "end": 981.15,
+      "en": "That song is Kingslayer by the Finnish power metal group Nightwish.",
+      "zh": "这首歌是芬兰力量金属乐队夜愿的《Kingslayer》。"
+    },
+    {
+      "id": 317,
+      "start": 982.04,
+      "end": 982.69,
+      "en": "You are correct.",
+      "zh": "你说得对。"
+    },
+    {
+      "id": 318,
+      "start": 983.28,
+      "end": 986.51,
+      "en": "Very impressive, Team A. And it seems we have a tie.",
+      "zh": "A 队，真厉害。看来现在双方打平了。"
+    },
+    {
+      "id": 319,
+      "start": 987.08,
+      "end": 989.23,
+      "en": "It's time now for the tiebreaker round.",
+      "zh": "现在进入决胜局。"
+    },
+    {
+      "id": 320,
+      "start": 990.12,
+      "end": 995.07,
+      "en": "Each team will be played three songs and they must tell us the genre of each song in less than five seconds.",
+      "zh": "我们会给每队播放三首歌，他们必须在五秒内说出每首歌的音乐类型。"
+    },
+    {
+      "id": 321,
+      "start": 995.52,
+      "end": 996.49,
+      "en": "Team A, are you ready?",
+      "zh": "A队，你准备好了吗？"
+    },
+    {
+      "id": 322,
+      "start": 997.52,
+      "end": 998.52,
+      "en": "Ready.",
+      "zh": "准备好了。"
+    },
+    {
+      "id": 323,
+      "start": 998.52,
+      "end": 998.83,
+      "en": "Let's hear it.",
+      "zh": "来听听吧。"
+    },
+    {
+      "id": 324,
+      "start": 1004.68,
+      "end": 1015.96,
+      "en": "Hip hop, classical and gothic metal.",
+      "zh": "嘻哈，古典和哥特金属。"
+    },
+    {
+      "id": 325,
+      "start": 1015.96,
+      "end": 1016.17,
+      "en": "You're right.",
+      "zh": "你说得对。"
+    },
+    {
+      "id": 326,
+      "start": 1016.96,
+      "end": 1018.64,
+      "en": "Team B, the pressure is on.",
+      "zh": "B队，压力很大。"
+    },
+    {
+      "id": 327,
+      "start": 1018.64,
+      "end": 1021.61,
+      "en": "If you get all of them right, we will move on to sudden death.",
+      "zh": "如果全部答对，就进入一题定胜负的加赛。"
+    },
+    {
+      "id": 328,
+      "start": 1021.98,
+      "end": 1023.27,
+      "en": "If you miss one, you lose.",
+      "zh": "如果你错过了一个，你就输了。"
+    },
+    {
+      "id": 329,
+      "start": 1023.96,
+      "end": 1029.96,
+      "en": "DJ, let's hear it.",
+      "zh": "DJ，放来听听。"
+    },
+    {
+      "id": 330,
+      "start": 1029.96,
+      "end": 1041.96,
+      "en": "Rap, disco and...",
+      "zh": "说唱、迪斯科和..."
+    },
+    {
+      "id": 331,
+      "start": 1055.07,
+      "end": 1057.91,
+      "en": "All right, so we have music, different music genres.",
+      "zh": "好吧，所以我们有音乐，不同的音乐流派。"
+    },
+    {
+      "id": 332,
+      "start": 1058.25,
+      "end": 1060.19,
+      "en": "Which one are you mostly into?",
+      "zh": "你最喜欢哪一种？"
+    },
+    {
+      "id": 333,
+      "start": 1061.52,
+      "end": 1062.52,
+      "en": "That's a hard question.",
+      "zh": "这是一个很难的问题。"
+    },
+    {
+      "id": 334,
+      "start": 1062.52,
+      "end": 1064.27,
+      "en": "I have very different interests.",
+      "zh": "我有非常不同的兴趣。"
+    },
+    {
+      "id": 335,
+      "start": 1064.72,
+      "end": 1066.08,
+      "en": "I like classical music.",
+      "zh": "我喜欢古典音乐。"
+    },
+    {
+      "id": 336,
+      "start": 1066.08,
+      "end": 1071.0,
+      "en": "I also like jazz, but I also like rock and I also like R&B.",
+      "zh": "我也喜欢爵士乐，但我也喜欢摇滚，我也喜欢 R&B。"
+    },
+    {
+      "id": 337,
+      "start": 1071.0,
+      "end": 1072.0,
+      "en": "So it really depends.",
+      "zh": "所以这真的取决于。"
+    },
+    {
+      "id": 338,
+      "start": 1072.0,
+      "end": 1072.25,
+      "en": "I guess it depends on your mood.",
+      "zh": "我想这取决于你的心情。"
+    },
+    {
+      "id": 339,
+      "start": 1073.0,
+      "end": 1074.0,
+      "en": "Absolutely.",
+      "zh": "当然。"
+    },
+    {
+      "id": 340,
+      "start": 1074.0,
+      "end": 1077.15,
+      "en": "Now, they say that music does really influence people's moods.",
+      "zh": "现在，他们说音乐确实会影响人们的情绪。"
+    },
+    {
+      "id": 341,
+      "start": 1077.52,
+      "end": 1086.83,
+      "en": "They did a study, some doctors in America did a study to see if heart patients, people who have heart problems, could be positively affected by music.",
+      "zh": "他们进行了一项研究，美国的一些医生进行了一项研究，以了解心脏病患者、心脏病患者是否会受到音乐的积极影响。"
+    },
+    {
+      "id": 342,
+      "start": 1087.17,
+      "end": 1089.97,
+      "en": "And the results said that yes, it can be helpful.",
+      "zh": "结果说是的，它可能会有所帮助。"
+    },
+    {
+      "id": 343,
+      "start": 1090.43,
+      "end": 1090.93,
+      "en": "Oh, really?",
+      "zh": "哦，真的吗？"
+    },
+    {
+      "id": 344,
+      "start": 1091.4,
+      "end": 1093.16,
+      "en": "So maybe it helps them relax or...",
+      "zh": "所以也许它可以帮助他们放松或..."
+    },
+    {
+      "id": 345,
+      "start": 1093.29,
+      "end": 1104.66,
+      "en": "Yeah, it says if you're listening to the radio and a song that you like comes on the radio, you hear the song, your heart pumps more oxygen to your brain.",
+      "zh": "是的，它说如果你在收音机上收音机，收音机里会出现你喜欢的歌曲，你会听到这首歌，你的心脏会为你的大脑注入更多的氧气。"
+    },
+    {
+      "id": 346,
+      "start": 1105.28,
+      "end": 1106.86,
+      "en": "So it means it actually makes you happier.",
+      "zh": "所以这意味着它实际上让你更快乐。"
+    },
+    {
+      "id": 347,
+      "start": 1107.4,
+      "end": 1108.4,
+      "en": "Wow.",
+      "zh": "哇。"
+    },
+    {
+      "id": 348,
+      "start": 1108.4,
+      "end": 1111.1,
+      "en": "What about when they play music for unborn babies?",
+      "zh": "当他们为未出生的婴儿演奏音乐时呢？"
+    },
+    {
+      "id": 349,
+      "start": 1111.36,
+      "end": 1117.84,
+      "en": "Like they'll put little headphones on a mother's belly and they'll play like classical music because supposedly it'll make the baby smarter.",
+      "zh": "就像他们会把小耳机放在妈妈的肚子上，他们会像古典音乐一样演奏，因为据说它会让婴儿更聪明。"
+    },
+    {
+      "id": 350,
+      "start": 1117.84,
+      "end": 1119.52,
+      "en": "Like baby Mozart or something.",
+      "zh": "像婴儿莫扎特什么的。"
+    },
+    {
+      "id": 351,
+      "start": 1119.52,
+      "end": 1119.84,
+      "en": "Yeah, exactly.",
+      "zh": "对，没错。"
+    },
+    {
+      "id": 352,
+      "start": 1120.52,
+      "end": 1121.52,
+      "en": "What do you think about that?",
+      "zh": "你对此有何看法？"
+    },
+    {
+      "id": 353,
+      "start": 1121.52,
+      "end": 1122.14,
+      "en": "I don't know.",
+      "zh": "我不知道。"
+    },
+    {
+      "id": 354,
+      "start": 1123.36,
+      "end": 1131.25,
+      "en": "I think talking to kids and giving them books when they're little probably helps a little bit more, but I'm not a doctor so that I can't say.",
+      "zh": "我认为与孩子交谈并在他们很小的时候给他们书可能会有所帮助，但我不是医生，所以我不能说。"
+    },
+    {
+      "id": 355,
+      "start": 1131.68,
+      "end": 1135.33,
+      "en": "Well, many people do argue now that they don't make music like they used to.",
+      "zh": "好吧，很多人现在确实争辩说他们不像以前那样制作音乐。"
+    },
+    {
+      "id": 356,
+      "start": 1135.51,
+      "end": 1144.39,
+      "en": "I guess they say that music that was made before, the lyrics were more profound, they were real musicians, they were composers and they wrote lyrics.",
+      "zh": "我猜他们说以前制作的音乐，歌词更深刻，他们是真正的音乐家，他们是作曲家，他们写歌词。"
+    },
+    {
+      "id": 357,
+      "start": 1145.09,
+      "end": 1151.08,
+      "en": "But now you just get a lot of temporary music that doesn't really transcend into the future.",
+      "zh": "但现在你只是得到了很多暂时没有超越未来的临时音乐。"
+    },
+    {
+      "id": 358,
+      "start": 1151.28,
+      "end": 1152.28,
+      "en": "What do you think?",
+      "zh": "你觉得怎么样？"
+    },
+    {
+      "id": 359,
+      "start": 1152.28,
+      "end": 1152.92,
+      "en": "I totally disagree.",
+      "zh": "我完全不同意。"
+    },
+    {
+      "id": 360,
+      "start": 1153.32,
+      "end": 1159.18,
+      "en": "I think the last 10 years have seen a really amazing growth in the music industry because more people are communicating.",
+      "zh": "我认为在过去的 10 年里，音乐行业的增长非常惊人，因为越来越多的人在交流。"
+    },
+    {
+      "id": 361,
+      "start": 1160.28,
+      "end": 1174.2,
+      "en": "The internet allows us to hear all sorts of things from all over the world and so we have great musicians who can listen to music from Mali and they can listen to music from India and they have all these different influences that were not there before.",
+      "zh": "互联网让我们可以听到来自世界各地的各种事物，因此我们有伟大的音乐家，他们可以听马里的音乐，他们可以听来自印度的音乐，他们有所有这些不同的影响，这些不同的影响是以前没有的。"
+    },
+    {
+      "id": 362,
+      "start": 1174.8,
+      "end": 1176.06,
+      "en": "And so I think it's the opposite.",
+      "zh": "所以我认为情况正好相反。"
+    },
+    {
+      "id": 363,
+      "start": 1176.48,
+      "end": 1180.56,
+      "en": "I think a lot of new pathways in music have opened up because of the technology evolution.",
+      "zh": "我认为由于技术的发展，音乐中的许多新途径已经打开。"
+    },
+    {
+      "id": 364,
+      "start": 1180.66,
+      "end": 1181.46,
+      "en": "Wow, interesting.",
+      "zh": "哇，有趣。"
+    },
+    {
+      "id": 365,
+      "start": 1182.16,
+      "end": 1183.38,
+      "en": "Well, what do you guys think?",
+      "zh": "好吧，你们怎么看？"
+    },
+    {
+      "id": 366,
+      "start": 1183.6,
+      "end": 1188.46,
+      "en": "Listeners, come to our website EnglishPod.com, leave your questions and comments and tell us what you think.",
+      "zh": "听众，访问我们的网站 englishpod.com，留下您的问题和意见，并告诉我们您的想法。"
+    },
+    {
+      "id": 367,
+      "start": 1188.9,
+      "end": 1193.64,
+      "en": "Do you think maybe music has become better in the last decade or do you think maybe it's not so good?",
+      "zh": "你认为音乐在过去十年中变得更好，还是你认为它可能不太好？"
+    },
+    {
+      "id": 368,
+      "start": 1193.88,
+      "end": 1195.7,
+      "en": "Well, you do have bad artists, right?",
+      "zh": "好吧，你确实有糟糕的艺术家，对吧？"
+    },
+    {
+      "id": 369,
+      "start": 1196.0,
+      "end": 1197.5,
+      "en": "You always have bad artists.",
+      "zh": "你总是有糟糕的艺术家。"
+    },
+    {
+      "id": 370,
+      "start": 1198.64,
+      "end": 1200.94,
+      "en": "The bad ones, they fade into history.",
+      "zh": "坏的，它们消失在历史中。"
+    },
+    {
+      "id": 371,
+      "start": 1200.94,
+      "end": 1202.18,
+      "en": "You never hear from them again.",
+      "zh": "你再也不会收到他们的消息了。"
+    },
+    {
+      "id": 372,
+      "start": 1202.54,
+      "end": 1207.74,
+      "en": "So come and let us know and also if you have any questions or doubts, you can leave them on the site as well.",
+      "zh": "所以快来告诉我们，如果您有任何问题或疑问，您也可以将它们留在网站上。"
+    },
+    {
+      "id": 373,
+      "start": 1207.92,
+      "end": 1209.82,
+      "en": "Yeah, we're happy to answer any questions you've got.",
+      "zh": "是的，我们很乐意回答您的任何问题。"
+    },
+    {
+      "id": 374,
+      "start": 1210.12,
+      "end": 1211.26,
+      "en": "So let us know what you're thinking.",
+      "zh": "所以让我们知道你在想什么。"
+    },
+    {
+      "id": 375,
+      "start": 1211.6,
+      "end": 1213.54,
+      "en": "All right, we'll see you guys there and until next time.",
+      "zh": "好吧，我们会在那里见到你们，直到下一次。"
+    },
+    {
+      "id": 376,
+      "start": 1214.02,
+      "end": 1214.36,
+      "en": "Bye everyone.",
+      "zh": "大家再见。"
+    }
+  ],
+  "dialog": {
+    "start": 134.42,
+    "end": 277.6,
+    "segmentIds": [
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92
+    ]
+  }
+}

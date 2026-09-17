@@ -1,0 +1,1685 @@
+{
+  "version": 1,
+  "id": 157,
+  "number": "0157",
+  "title": "The Weekend - Trick Or Treat",
+  "audio": "mp3/157. The Weekend - Trick Or Treat.mp3",
+  "duration": 632.346125,
+  "segments": [
+    {
+      "id": 1,
+      "start": 3.15,
+      "end": 6.83,
+      "en": "Hello everyone and welcome back to another lesson at EnglishPod.",
+      "zh": "大家好，欢迎回到 Englishpod 的另一节课。"
+    },
+    {
+      "id": 2,
+      "start": 7.12,
+      "end": 7.53,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 8.03,
+      "end": 12.93,
+      "en": "And my name is Catherine and in the spirit of Halloween, we have a Halloween lesson for you.",
+      "zh": "我的名字是凯瑟琳，本着万圣节的精神，我们为您准备了万圣节课程。"
+    },
+    {
+      "id": 4,
+      "start": 13.07,
+      "end": 13.95,
+      "en": "Happy Halloween.",
+      "zh": "万圣节快乐。"
+    },
+    {
+      "id": 5,
+      "start": 15.11,
+      "end": 15.61,
+      "en": "It's Halloween.",
+      "zh": "这是万圣节。"
+    },
+    {
+      "id": 6,
+      "start": 16.17,
+      "end": 21.53,
+      "en": "It's Halloween and this is an elementary level lesson so we're talking about some basic but important things today.",
+      "zh": "现在是万圣节，这是一个基本的课程，所以我们今天正在谈论一些基本但重要的事情。"
+    },
+    {
+      "id": 7,
+      "start": 22.13,
+      "end": 22.39,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 8,
+      "start": 23.28,
+      "end": 27.96,
+      "en": "So, we're not going to preview anything because the dialogue is pretty simple.",
+      "zh": "所以，我们不会预览任何东西，因为对话非常简单。"
+    },
+    {
+      "id": 9,
+      "start": 27.96,
+      "end": 31.69,
+      "en": "So why don't we listen to it for the first time and we'll be right back.",
+      "zh": "那么我们为什么不第一次听它，我们会马上回来的。"
+    },
+    {
+      "id": 10,
+      "start": 41.56,
+      "end": 41.98,
+      "en": "Trick or treat.",
+      "zh": "不给糖就捣蛋。"
+    },
+    {
+      "id": 11,
+      "start": 42.62,
+      "end": 44.98,
+      "en": "Tom, aren't you a little too old to be trick or treating?",
+      "zh": "汤姆，你这个年纪还玩“不给糖就捣蛋”，是不是有点大了？"
+    },
+    {
+      "id": 12,
+      "start": 45.42,
+      "end": 46.54,
+      "en": "What are you talking about?",
+      "zh": "你在说什么？"
+    },
+    {
+      "id": 13,
+      "start": 47.08,
+      "end": 48.16,
+      "en": "Where's your Halloween spirit?",
+      "zh": "你怎么一点万圣节的兴致都没有？"
+    },
+    {
+      "id": 14,
+      "start": 48.92,
+      "end": 52.74,
+      "en": "Didn't you ever dress up in a costume and go around the neighborhood trick or treating with your friends?",
+      "zh": "你难道没穿过节日装扮，跟朋友一起挨家挨户讨过糖吗？"
+    },
+    {
+      "id": 15,
+      "start": 53.3,
+      "end": 54.08,
+      "en": "Of course I did.",
+      "zh": "我当然做到了。"
+    },
+    {
+      "id": 16,
+      "start": 54.4,
+      "end": 61.18,
+      "en": "When I was 10, trick or treating is for kids plus I'm sure people think you're a kidnapper or something running around with kids at night.",
+      "zh": "那是我十岁的时候。讨糖是小孩子玩的，而且你大晚上跟一群孩子到处跑，人家肯定以为你是绑架犯什么的。"
+    },
+    {
+      "id": 17,
+      "start": 61.52,
+      "end": 61.74,
+      "en": "Whatever.",
+      "zh": "随便吧。"
+    },
+    {
+      "id": 18,
+      "start": 62.42,
+      "end": 63.14,
+      "en": "I'm going next door.",
+      "zh": "我去隔壁邻居家了。"
+    },
+    {
+      "id": 19,
+      "start": 63.76,
+      "end": 67.8,
+      "en": "I heard Mrs. Robinson is giving out big bags of M&Ms.",
+      "zh": "我听说罗宾逊夫人正在分发大袋 M&Ms。"
+    },
+    {
+      "id": 20,
+      "start": 73.45,
+      "end": 74.41,
+      "en": "Alright, we're back.",
+      "zh": "好了，我们回来了。"
+    },
+    {
+      "id": 21,
+      "start": 74.72,
+      "end": 76.15,
+      "en": "So trick or treating.",
+      "zh": "所以不给糖就捣蛋。"
+    },
+    {
+      "id": 22,
+      "start": 76.8,
+      "end": 77.75,
+      "en": "Ding dong.",
+      "zh": "丁东。"
+    },
+    {
+      "id": 23,
+      "start": 78.2,
+      "end": 78.51,
+      "en": "Ding dong.",
+      "zh": "丁东。"
+    },
+    {
+      "id": 24,
+      "start": 79.2,
+      "end": 80.2,
+      "en": "Trick or treat.",
+      "zh": "不给糖就捣蛋。"
+    },
+    {
+      "id": 25,
+      "start": 80.2,
+      "end": 85.19,
+      "en": "So, we're going to explain what trick or treating is just in a little bit.",
+      "zh": "所以，我们将在一点点解释什么是不给糖就捣蛋。"
+    },
+    {
+      "id": 26,
+      "start": 85.52,
+      "end": 91.11,
+      "en": "But before we get into it, why don't we take a look at four important words in Language Takeaway.",
+      "zh": "但在我们进入它之前，我们为什么不看看语言外卖中的四个重要词。"
+    },
+    {
+      "id": 27,
+      "start": 93.8,
+      "end": 94.38,
+      "en": "Language Takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 28,
+      "start": 95.54,
+      "end": 101.92,
+      "en": "Well, the first one, Marco, is very important because it's the name of this special holiday that isn't celebrated everywhere.",
+      "zh": "嗯，第一个，Marco，非常重要，因为它是这个特殊节日的名称，并没有到处庆祝。"
+    },
+    {
+      "id": 29,
+      "start": 102.16,
+      "end": 106.56,
+      "en": "It's only celebrated in some places and Americans, I think, love it above all else.",
+      "zh": "它只在一些地方庆祝，我认为，爱它高于一切。"
+    },
+    {
+      "id": 30,
+      "start": 106.58,
+      "end": 106.8,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 31,
+      "start": 107.12,
+      "end": 107.62,
+      "en": "Yeah, Halloween.",
+      "zh": "是的，万圣节。"
+    },
+    {
+      "id": 32,
+      "start": 108.88,
+      "end": 112.32,
+      "en": "And this actually comes from All Hallows Eve, right?",
+      "zh": "这实际上来自万圣节前夜，对吧？"
+    },
+    {
+      "id": 33,
+      "start": 112.32,
+      "end": 112.54,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 34,
+      "start": 113.32,
+      "end": 115.54,
+      "en": "So it's the night of the spirits of the dead.",
+      "zh": "所以这是死灵的夜晚。"
+    },
+    {
+      "id": 35,
+      "start": 116.04,
+      "end": 116.64,
+      "en": "Right, exactly.",
+      "zh": "对，没错。"
+    },
+    {
+      "id": 36,
+      "start": 116.92,
+      "end": 118.96,
+      "en": "So the day of the dead.",
+      "zh": "所以死者的日子。"
+    },
+    {
+      "id": 37,
+      "start": 118.96,
+      "end": 130.38,
+      "en": "And as Catherine mentions, it's celebrated in different ways in different countries but I think probably the United States is one of the few where people dress up and go trick or treating.",
+      "zh": "正如凯瑟琳所说，它在不同国家以不同的方式庆祝，但我认为美国可能是少数人打扮和捣蛋的地方之一。"
+    },
+    {
+      "id": 38,
+      "start": 130.96,
+      "end": 132.2,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 39,
+      "start": 132.2,
+      "end": 134.43,
+      "en": "And Halloween is the last day of October.",
+      "zh": "万圣节是十月的最后一天。"
+    },
+    {
+      "id": 40,
+      "start": 134.88,
+      "end": 136.31,
+      "en": "So October 31st.",
+      "zh": "所以10月31日。"
+    },
+    {
+      "id": 41,
+      "start": 137.36,
+      "end": 143.35,
+      "en": "And it's a really fun holiday where mostly children dress up in costumes and they ask for candy.",
+      "zh": "这是一个非常有趣的假期，大多数孩子都穿着服装打扮，他们要糖果。"
+    },
+    {
+      "id": 42,
+      "start": 143.84,
+      "end": 144.84,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 43,
+      "start": 144.84,
+      "end": 146.85,
+      "en": "So to dress up means to get in a costume?",
+      "zh": "那么打扮意味着穿上服装？"
+    },
+    {
+      "id": 44,
+      "start": 147.63,
+      "end": 147.79,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 45,
+      "start": 147.93,
+      "end": 152.39,
+      "en": "Well, you could say dress up to mean a couple of different things but in this case, you dress up in a costume.",
+      "zh": "好吧，你可以说装扮意味着一些不同的东西，但在这种情况下，你穿着服装。"
+    },
+    {
+      "id": 46,
+      "start": 152.71,
+      "end": 162.61,
+      "en": "So that means you change your clothes so that you're wearing a costume which is maybe a witch's costume or a vampire or something scary.",
+      "zh": "所以这意味着你换了衣服，这样你就穿了一件可能是女巫的服装、吸血鬼或可怕的东西的服装。"
+    },
+    {
+      "id": 47,
+      "start": 162.97,
+      "end": 166.03,
+      "en": "So you would say, he dressed up as a vampire.",
+      "zh": "所以你会说，他打扮成吸血鬼。"
+    },
+    {
+      "id": 48,
+      "start": 166.66,
+      "end": 171.55,
+      "en": "He dressed up as a vampire or they got dressed up for the wedding.",
+      "zh": "他打扮成吸血鬼，或者他们为婚礼打扮。"
+    },
+    {
+      "id": 49,
+      "start": 171.92,
+      "end": 172.92,
+      "en": "OK.",
+      "zh": "好的。"
+    },
+    {
+      "id": 50,
+      "start": 172.92,
+      "end": 173.92,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 51,
+      "start": 173.92,
+      "end": 174.31,
+      "en": "So dress up.",
+      "zh": "所以打扮。"
+    },
+    {
+      "id": 52,
+      "start": 175.36,
+      "end": 179.2,
+      "en": "And then we have the word kidnapper.",
+      "zh": "然后我们有了绑匪这个词。"
+    },
+    {
+      "id": 53,
+      "start": 179.2,
+      "end": 186.56,
+      "en": "So the friend is afraid that his friend will look like a kidnapper if he goes out trick or treating with the kids.",
+      "zh": "所以朋友害怕他的朋友出去不给糖就捣蛋，如果他和孩子们出去玩，他会看起来像个绑架者。"
+    },
+    {
+      "id": 54,
+      "start": 186.56,
+      "end": 189.81,
+      "en": "And so a kidnapper comes from the word to take or to grab.",
+      "zh": "所以绑架者从话语中来拿或抓。"
+    },
+    {
+      "id": 55,
+      "start": 190.41,
+      "end": 191.31,
+      "en": "So kid grabber.",
+      "zh": "所以小孩抓斗。"
+    },
+    {
+      "id": 56,
+      "start": 191.73,
+      "end": 196.57,
+      "en": "And that means that you're going to take children from the streets and steal them.",
+      "zh": "这意味着你要从街上带走孩子并偷走他们。"
+    },
+    {
+      "id": 57,
+      "start": 196.81,
+      "end": 196.99,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 58,
+      "start": 197.35,
+      "end": 199.59,
+      "en": "But you can kidnap an adult, right?",
+      "zh": "但你可以绑架一个成年人，对吧？"
+    },
+    {
+      "id": 59,
+      "start": 199.81,
+      "end": 200.85,
+      "en": "So it's not only for kids.",
+      "zh": "所以它不仅仅适合孩子。"
+    },
+    {
+      "id": 60,
+      "start": 201.21,
+      "end": 201.81,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 61,
+      "start": 202.05,
+      "end": 205.93,
+      "en": "It's for any kind of person who you take without them wanting you to.",
+      "zh": "它适用于您带走而不希望您这样做的任何类型的人。"
+    },
+    {
+      "id": 62,
+      "start": 206.11,
+      "end": 207.51,
+      "en": "So against their will.",
+      "zh": "所以违背他们的意愿。"
+    },
+    {
+      "id": 63,
+      "start": 207.96,
+      "end": 208.96,
+      "en": "OK.",
+      "zh": "好的。"
+    },
+    {
+      "id": 64,
+      "start": 208.96,
+      "end": 209.96,
+      "en": "Kidnapper.",
+      "zh": "绑架犯。"
+    },
+    {
+      "id": 65,
+      "start": 209.96,
+      "end": 210.96,
+      "en": "And finally, we have M&Ms.",
+      "zh": "最后，我们有 M&Ms。"
+    },
+    {
+      "id": 66,
+      "start": 210.96,
+      "end": 211.96,
+      "en": "What are M&Ms?",
+      "zh": "什么是 M&Ms？"
+    },
+    {
+      "id": 67,
+      "start": 211.96,
+      "end": 212.96,
+      "en": "Not the singer, right?",
+      "zh": "不是歌手吧？"
+    },
+    {
+      "id": 68,
+      "start": 212.96,
+      "end": 213.96,
+      "en": "M&Ms.",
+      "zh": "M&M 巧克力豆。"
+    },
+    {
+      "id": 69,
+      "start": 214.22,
+      "end": 214.42,
+      "en": "No.",
+      "zh": "不。"
+    },
+    {
+      "id": 70,
+      "start": 214.96,
+      "end": 216.72,
+      "en": "M&Ms is spelled differently, the singer.",
+      "zh": "M&MS 的拼写不同，歌手。"
+    },
+    {
+      "id": 71,
+      "start": 216.72,
+      "end": 218.76,
+      "en": "This is a delicious chocolate treat.",
+      "zh": "这是一种美味的巧克力款待。"
+    },
+    {
+      "id": 72,
+      "start": 219.06,
+      "end": 219.82,
+      "en": "It's a candy.",
+      "zh": "这是一个糖果。"
+    },
+    {
+      "id": 73,
+      "start": 220.66,
+      "end": 221.82,
+      "en": "And it comes in big brown bags.",
+      "zh": "它装在棕色的大袋子里。"
+    },
+    {
+      "id": 74,
+      "start": 222.2,
+      "end": 224.96,
+      "en": "And if you want them with peanuts, they come in a yellow bag.",
+      "zh": "如果你想要它们和花生，它们装在一个黄色的袋子里。"
+    },
+    {
+      "id": 75,
+      "start": 224.96,
+      "end": 225.96,
+      "en": "You know your M&Ms.",
+      "zh": "你知道你的 M&M。"
+    },
+    {
+      "id": 76,
+      "start": 226.12,
+      "end": 227.42,
+      "en": "Oh man, I could tell you all the colors.",
+      "zh": "哦，伙计，我可以告诉你所有的颜色。"
+    },
+    {
+      "id": 77,
+      "start": 228.1,
+      "end": 229.42,
+      "en": "But M&Ms are really delicious.",
+      "zh": "但是M&Ms真的很好吃。"
+    },
+    {
+      "id": 78,
+      "start": 230.28,
+      "end": 232.24,
+      "en": "And it's actually a brand, M&Ms.",
+      "zh": "它实际上是一个品牌，M&Ms。"
+    },
+    {
+      "id": 79,
+      "start": 232.24,
+      "end": 233.24,
+      "en": "It's a brand.",
+      "zh": "这是一个品牌。"
+    },
+    {
+      "id": 80,
+      "start": 233.24,
+      "end": 234.24,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 81,
+      "start": 234.24,
+      "end": 234.98,
+      "en": "So many people probably know it.",
+      "zh": "很多人大概都知道。"
+    },
+    {
+      "id": 82,
+      "start": 235.24,
+      "end": 238.34,
+      "en": "But just in case, they're called M&Ms.",
+      "zh": "但以防万一，它们被称为 M&Ms。"
+    },
+    {
+      "id": 83,
+      "start": 238.34,
+      "end": 239.34,
+      "en": "Very good candy.",
+      "zh": "非常好的糖果。"
+    },
+    {
+      "id": 84,
+      "start": 239.34,
+      "end": 240.34,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 85,
+      "start": 240.34,
+      "end": 242.92,
+      "en": "So these words were relatively easy and simple.",
+      "zh": "所以这些词相对容易和简单。"
+    },
+    {
+      "id": 86,
+      "start": 243.28,
+      "end": 245.68,
+      "en": "So why don't we listen to our dialogue again.",
+      "zh": "那么我们为什么不再听我们的对话。"
+    },
+    {
+      "id": 87,
+      "start": 246.08,
+      "end": 247.48,
+      "en": "Let's slow it down just a little bit.",
+      "zh": "让我们慢一点。"
+    },
+    {
+      "id": 88,
+      "start": 248.2,
+      "end": 250.1,
+      "en": "And we'll be right back to take a look at Fluency Builder.",
+      "zh": "我们会立即回来看看 Fluency Builder。"
+    },
+    {
+      "id": 89,
+      "start": 252.08,
+      "end": 252.33,
+      "en": "Fluency Builder.",
+      "zh": "流利表达。"
+    },
+    {
+      "id": 90,
+      "start": 253.08,
+      "end": 254.08,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 91,
+      "start": 254.08,
+      "end": 255.08,
+      "en": "We're back.",
+      "zh": "我们回来了。"
+    },
+    {
+      "id": 92,
+      "start": 255.08,
+      "end": 257.52,
+      "en": "So on Fluency Builder, we promised that we were going to look at this word trick-or-treating.",
+      "zh": "所以在 Fluency Builder 上，我们承诺我们将看看这个词不给糖就捣蛋。"
+    },
+    {
+      "id": 93,
+      "start": 257.52,
+      "end": 258.57,
+      "en": "So let's look at it now.",
+      "zh": "所以让我们现在看看它。"
+    },
+    {
+      "id": 94,
+      "start": 259.2,
+      "end": 260.4,
+      "en": "Trick-or-treat.",
+      "zh": "不给糖就捣蛋。"
+    },
+    {
+      "id": 95,
+      "start": 260.4,
+      "end": 261.02,
+      "en": "It's a verb, right?",
+      "zh": "是动词吧？"
+    },
+    {
+      "id": 96,
+      "start": 261.4,
+      "end": 262.4,
+      "en": "To trick-or-treat.",
+      "zh": "不给糖就捣蛋。"
+    },
+    {
+      "id": 97,
+      "start": 262.4,
+      "end": 263.76,
+      "en": "To trick-or-treat.",
+      "zh": "不给糖就捣蛋。"
+    },
+    {
+      "id": 98,
+      "start": 263.76,
+      "end": 269.36,
+      "en": "And it comes from the words that we say when we're children to the person whose door we knock on.",
+      "zh": "它来自我们小时候对我们敲门的人说的话。"
+    },
+    {
+      "id": 99,
+      "start": 269.88,
+      "end": 271.68,
+      "en": "So for example, I say...",
+      "zh": "所以举个例子，我说..."
+    },
+    {
+      "id": 100,
+      "start": 272.68,
+      "end": 273.44,
+      "en": "And then I open the door.",
+      "zh": "然后我打开门。"
+    },
+    {
+      "id": 101,
+      "start": 274.72,
+      "end": 275.72,
+      "en": "I say trick-or-treat.",
+      "zh": "我说不给糖就捣蛋。"
+    },
+    {
+      "id": 102,
+      "start": 276.34,
+      "end": 276.72,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 103,
+      "start": 276.72,
+      "end": 280.28,
+      "en": "So what are you supposed to do in this when somebody says trick-or-treat?",
+      "zh": "那么当有人说不给糖就捣蛋时，你应该怎么做呢？"
+    },
+    {
+      "id": 104,
+      "start": 280.28,
+      "end": 281.4,
+      "en": "Well, I'm a child.",
+      "zh": "嗯，我是个孩子。"
+    },
+    {
+      "id": 105,
+      "start": 281.66,
+      "end": 282.4,
+      "en": "I'm holding my bag.",
+      "zh": "我拿着我的包。"
+    },
+    {
+      "id": 106,
+      "start": 282.4,
+      "end": 285.96,
+      "en": "And you're supposed to say, happy Halloween and give me some candy.",
+      "zh": "你应该说，万圣节快乐，给我一些糖果。"
+    },
+    {
+      "id": 107,
+      "start": 286.38,
+      "end": 286.7,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 108,
+      "start": 287.22,
+      "end": 287.46,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 109,
+      "start": 288.32,
+      "end": 291.6,
+      "en": "So trick-or-treat means you could either trick someone.",
+      "zh": "所以不给糖就捣蛋意味着你可以欺骗某人。"
+    },
+    {
+      "id": 110,
+      "start": 291.6,
+      "end": 295.92,
+      "en": "You could play a trick on them like scare them or put some toilet paper on their house.",
+      "zh": "你可以在他们家里玩耍，比如吓唬他们，或者在他们的房子上放一些卫生纸。"
+    },
+    {
+      "id": 111,
+      "start": 296.38,
+      "end": 297.76,
+      "en": "Or you can give them a treat.",
+      "zh": "或者你可以给他们一个款待。"
+    },
+    {
+      "id": 112,
+      "start": 299.6,
+      "end": 300.16,
+      "en": "Or accept a treat.",
+      "zh": "或接受款待。"
+    },
+    {
+      "id": 113,
+      "start": 300.6,
+      "end": 304.32,
+      "en": "And so the idea is if you don't give me a treat, I will do something bad to you.",
+      "zh": "所以这个想法是，如果你不给我款待，我会对你做坏事。"
+    },
+    {
+      "id": 114,
+      "start": 304.6,
+      "end": 305.12,
+      "en": "I see.",
+      "zh": "我明白了。"
+    },
+    {
+      "id": 115,
+      "start": 305.6,
+      "end": 306.9,
+      "en": "But this doesn't really happen, right?",
+      "zh": "但这并没有真正发生，对吧？"
+    },
+    {
+      "id": 116,
+      "start": 307.2,
+      "end": 312.48,
+      "en": "Like when kids go to people's houses, they say trick-or-treat and then they get candy automatically.",
+      "zh": "就像孩子们去人们家时，他们说不给糖就捣蛋，然后他们会自动得到糖果。"
+    },
+    {
+      "id": 117,
+      "start": 312.86,
+      "end": 314.32,
+      "en": "Almost automatically, yeah.",
+      "zh": "几乎是自动的，是的。"
+    },
+    {
+      "id": 118,
+      "start": 314.96,
+      "end": 319.2,
+      "en": "Sometimes people avoid the holiday and they close their doors and lock them and they don't answer the door.",
+      "zh": "有时人们会避开假期，他们关上门锁上，他们不应门。"
+    },
+    {
+      "id": 119,
+      "start": 320.4,
+      "end": 323.64,
+      "en": "And that's when someone maybe throws an egg at the house or does something mean...",
+      "zh": "那时有人可能会在家里扔一个鸡蛋或做某事意味着..."
+    },
+    {
+      "id": 120,
+      "start": 323.64,
+      "end": 325.68,
+      "en": "Or puts toilet paper on their tree.",
+      "zh": "或者把卫生纸放在他们的树上。"
+    },
+    {
+      "id": 121,
+      "start": 325.68,
+      "end": 326.68,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 122,
+      "start": 326.68,
+      "end": 329.36,
+      "en": "So trick-or-treat is what we say, but it's also something we can do.",
+      "zh": "所以不给糖就捣蛋是我们所说的，但这也是我们可以做的事情。"
+    },
+    {
+      "id": 123,
+      "start": 329.36,
+      "end": 330.76,
+      "en": "So we can go trick-or-treating.",
+      "zh": "所以我们可以去捣蛋。"
+    },
+    {
+      "id": 124,
+      "start": 330.76,
+      "end": 331.76,
+      "en": "Go trick-or-treating.",
+      "zh": "去不给糖就捣蛋。"
+    },
+    {
+      "id": 125,
+      "start": 331.88,
+      "end": 332.1,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 126,
+      "start": 332.76,
+      "end": 333.76,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 127,
+      "start": 333.76,
+      "end": 334.76,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 128,
+      "start": 334.76,
+      "end": 335.76,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 129,
+      "start": 335.76,
+      "end": 340.16,
+      "en": "And now we have another phrase here that's a little bit complicated.",
+      "zh": "现在我们有另一个短语，有点复杂。"
+    },
+    {
+      "id": 130,
+      "start": 340.16,
+      "end": 344.72,
+      "en": "But when the friend answered the door, he said, aren't you a little too old to be trick-or-treating?",
+      "zh": "但是当朋友开门时，他说，你是不是有点太老了，不能不给糖就捣蛋？"
+    },
+    {
+      "id": 131,
+      "start": 345.38,
+      "end": 345.7,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 132,
+      "start": 345.76,
+      "end": 347.32,
+      "en": "I like this phrase because it's sarcastic.",
+      "zh": "我喜欢这句话，因为它很讽刺。"
+    },
+    {
+      "id": 133,
+      "start": 348.18,
+      "end": 350.48,
+      "en": "The person is not asking a real question.",
+      "zh": "这个人不是在问一个真正的问题。"
+    },
+    {
+      "id": 134,
+      "start": 350.76,
+      "end": 354.68,
+      "en": "He's saying, listen, you are too old to be trick-or-treating.",
+      "zh": "他说，听着，你太老了，不能捣蛋。"
+    },
+    {
+      "id": 135,
+      "start": 354.68,
+      "end": 356.72,
+      "en": "And so in this case, aren't you...",
+      "zh": "所以在这种情况下，你不是..."
+    },
+    {
+      "id": 136,
+      "start": 357.94,
+      "end": 362.24,
+      "en": "is a way to introduce something that we know is true, that we think is true.",
+      "zh": "是一种介绍我们知道是真实的东西的方式，我们认为是真的。"
+    },
+    {
+      "id": 137,
+      "start": 363.28,
+      "end": 364.54,
+      "en": "It's kind of rude and sarcastic.",
+      "zh": "这有点粗鲁和讽刺。"
+    },
+    {
+      "id": 138,
+      "start": 365.12,
+      "end": 367.02,
+      "en": "So if I say, aren't you supposed to be at work?",
+      "zh": "所以如果我说，你不应该在工作吗？"
+    },
+    {
+      "id": 139,
+      "start": 367.92,
+      "end": 370.56,
+      "en": "Oh, shoot.",
+      "zh": "哦，射击。"
+    },
+    {
+      "id": 140,
+      "start": 370.56,
+      "end": 371.74,
+      "en": "So it's in that form.",
+      "zh": "所以它是这种形式。"
+    },
+    {
+      "id": 141,
+      "start": 371.96,
+      "end": 373.72,
+      "en": "You're not really asking a question.",
+      "zh": "你不是真的在问一个问题。"
+    },
+    {
+      "id": 142,
+      "start": 373.72,
+      "end": 376.24,
+      "en": "You're more demanding an explanation.",
+      "zh": "你更需要一个解释。"
+    },
+    {
+      "id": 143,
+      "start": 376.4,
+      "end": 377.4,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 144,
+      "start": 377.4,
+      "end": 378.4,
+      "en": "It's a suggestion.",
+      "zh": "这是一个建议。"
+    },
+    {
+      "id": 145,
+      "start": 378.4,
+      "end": 380.38,
+      "en": "It's like, you're probably supposed to be at work right now.",
+      "zh": "就像，你现在可能应该在工作。"
+    },
+    {
+      "id": 146,
+      "start": 381.04,
+      "end": 385.2,
+      "en": "So Marco, aren't you supposed to be at school right now?",
+      "zh": "所以马可，你现在不应该在学校吗？"
+    },
+    {
+      "id": 147,
+      "start": 385.92,
+      "end": 386.5,
+      "en": "So do we always...",
+      "zh": "所以我们总是..."
+    },
+    {
+      "id": 148,
+      "start": 386.5,
+      "end": 388.78,
+      "en": "but we always use it in that sense, right?",
+      "zh": "但我们总是在这个意义上使用它，对吧？"
+    },
+    {
+      "id": 149,
+      "start": 389.2,
+      "end": 389.4,
+      "en": "Aren't you...",
+      "zh": "你不是吗..."
+    },
+    {
+      "id": 150,
+      "start": 389.96,
+      "end": 390.72,
+      "en": "and then...",
+      "zh": "然后..."
+    },
+    {
+      "id": 151,
+      "start": 390.82,
+      "end": 391.02,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 152,
+      "start": 391.12,
+      "end": 391.48,
+      "en": "Aren't you...",
+      "zh": "你不是吗..."
+    },
+    {
+      "id": 153,
+      "start": 392.68,
+      "end": 396.62,
+      "en": "Aren't you a little old for that kind of an outfit?",
+      "zh": "你是不是有点老了那种衣服？"
+    },
+    {
+      "id": 154,
+      "start": 397.28,
+      "end": 397.88,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 155,
+      "start": 398.5,
+      "end": 399.22,
+      "en": "So aren't you...",
+      "zh": "所以你不是..."
+    },
+    {
+      "id": 156,
+      "start": 399.88,
+      "end": 400.02,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 157,
+      "start": 400.02,
+      "end": 400.48,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 158,
+      "start": 400.76,
+      "end": 403.36,
+      "en": "So those are the two phrases for fluency builder today.",
+      "zh": "所以这就是当今 Fluency Builder 的两个短语。"
+    },
+    {
+      "id": 159,
+      "start": 403.82,
+      "end": 407.3,
+      "en": "Let's listen quickly to our dialogue one more time and we'll be right back.",
+      "zh": "让我们再快速听一遍我们的对话，我们会马上回来的。"
+    },
+    {
+      "id": 160,
+      "start": 417.12,
+      "end": 418.12,
+      "en": "Trick-or-treat.",
+      "zh": "不给糖就捣蛋。"
+    },
+    {
+      "id": 161,
+      "start": 418.12,
+      "end": 421.12,
+      "en": "Tom, aren't you a little too old to be trick-or-treating?",
+      "zh": "汤姆，你是不是有点太老了，不能捣蛋？"
+    },
+    {
+      "id": 162,
+      "start": 421.12,
+      "end": 421.93,
+      "en": "What are you talking about?",
+      "zh": "你在说什么？"
+    },
+    {
+      "id": 163,
+      "start": 422.68,
+      "end": 423.55,
+      "en": "Where's your Halloween spirit?",
+      "zh": "你的万圣节精神在哪里？"
+    },
+    {
+      "id": 164,
+      "start": 424.44,
+      "end": 428.15,
+      "en": "Didn't you ever dress up in a costume and go around the neighborhood trick-or-treating with your friends?",
+      "zh": "你没有穿上服装，和你的朋友在附近的不给糖就捣蛋吗？"
+    },
+    {
+      "id": 165,
+      "start": 428.69,
+      "end": 429.49,
+      "en": "Of course I did.",
+      "zh": "我当然做到了。"
+    },
+    {
+      "id": 166,
+      "start": 429.84,
+      "end": 432.37,
+      "en": "But when I was 10, trick-or-treating is for kids.",
+      "zh": "但是当我 10 岁的时候，不给糖就捣蛋的东西是为孩子们准备的。"
+    },
+    {
+      "id": 167,
+      "start": 432.83,
+      "end": 436.59,
+      "en": "Plus, I'm sure people think you're a kidnapper or something, running around with kids at night.",
+      "zh": "另外，我敢肯定，人们认为你是绑架者之类的，晚上和孩子们一起跑来跑去。"
+    },
+    {
+      "id": 168,
+      "start": 436.91,
+      "end": 437.15,
+      "en": "Whatever.",
+      "zh": "随便吧。"
+    },
+    {
+      "id": 169,
+      "start": 437.77,
+      "end": 438.55,
+      "en": "I'm going next door.",
+      "zh": "我要去隔壁。"
+    },
+    {
+      "id": 170,
+      "start": 439.4,
+      "end": 442.36,
+      "en": "I heard Mrs. Robinson is giving out big bags of M&Ms.",
+      "zh": "我听说罗宾逊夫人正在分发大袋 M&Ms。"
+    },
+    {
+      "id": 171,
+      "start": 442.36,
+      "end": 444.16,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 172,
+      "start": 444.16,
+      "end": 453.32,
+      "en": "So, Marco, have you ever trick-or-treated?",
+      "zh": "那么，马可，你有没有捣蛋或治疗过？"
+    },
+    {
+      "id": 173,
+      "start": 453.32,
+      "end": 453.66,
+      "en": "I did.",
+      "zh": "我玩过。"
+    },
+    {
+      "id": 174,
+      "start": 454.32,
+      "end": 455.32,
+      "en": "I did.",
+      "zh": "我玩过。"
+    },
+    {
+      "id": 175,
+      "start": 455.32,
+      "end": 459.56,
+      "en": "I used to go trick-or-treating when I was little and it was actually really fun.",
+      "zh": "我小时候经常去不给糖就捣蛋，这真的很有趣。"
+    },
+    {
+      "id": 176,
+      "start": 459.56,
+      "end": 461.92,
+      "en": "We used to have competitions about who had the most candy.",
+      "zh": "我们曾经有关于谁拥有最多糖果的比赛。"
+    },
+    {
+      "id": 177,
+      "start": 462.44,
+      "end": 463.24,
+      "en": "I've heard about this.",
+      "zh": "我听说过这个。"
+    },
+    {
+      "id": 178,
+      "start": 463.44,
+      "end": 464.44,
+      "en": "Right?",
+      "zh": "对吧？"
+    },
+    {
+      "id": 179,
+      "start": 464.44,
+      "end": 465.0,
+      "en": "Because you don't necessarily bring a bag.",
+      "zh": "因为你不一定带包。"
+    },
+    {
+      "id": 180,
+      "start": 465.52,
+      "end": 466.52,
+      "en": "You bring a pillowcase.",
+      "zh": "你带了一个枕套。"
+    },
+    {
+      "id": 181,
+      "start": 466.52,
+      "end": 467.52,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 182,
+      "start": 467.52,
+      "end": 468.9,
+      "en": "And you fill your pillowcase with candy.",
+      "zh": "你用糖果填满你的枕套。"
+    },
+    {
+      "id": 183,
+      "start": 469.68,
+      "end": 475.66,
+      "en": "Now, the interesting thing is that sometimes you wouldn't necessarily only get candy from people.",
+      "zh": "现在，有趣的是，有时你不一定只会从人们那里得到糖果。"
+    },
+    {
+      "id": 184,
+      "start": 476.39,
+      "end": 476.93,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 185,
+      "start": 476.93,
+      "end": 482.89,
+      "en": "Sometimes you got weird things like pennies or toothbrushes or apples.",
+      "zh": "有时你会得到一些奇怪的东西，比如便士、牙刷或苹果。"
+    },
+    {
+      "id": 186,
+      "start": 483.28,
+      "end": 484.28,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 187,
+      "start": 484.28,
+      "end": 486.07,
+      "en": "So you would go to someone's house and they would give you an apple.",
+      "zh": "所以你会去别人家，他们会给你一个苹果。"
+    },
+    {
+      "id": 188,
+      "start": 486.28,
+      "end": 486.87,
+      "en": "You'd be like, okay.",
+      "zh": "你会喜欢的，好吧。"
+    },
+    {
+      "id": 189,
+      "start": 488.28,
+      "end": 494.64,
+      "en": "But there was always an old lady who lived near, well, she lived in the neighborhood and every neighborhood had one.",
+      "zh": "但总是有一位老太太住在附近，嗯，她住在附近，每个街区都有一个。"
+    },
+    {
+      "id": 190,
+      "start": 495.4,
+      "end": 499.46,
+      "en": "All my friends had a lady they would go to and she gave the full-size candy bars.",
+      "zh": "我所有的朋友都有一位女士，他们会去，她给了全尺寸的糖果棒。"
+    },
+    {
+      "id": 191,
+      "start": 499.74,
+      "end": 499.88,
+      "en": "Wow.",
+      "zh": "哇。"
+    },
+    {
+      "id": 192,
+      "start": 500.8,
+      "end": 501.8,
+      "en": "Right?",
+      "zh": "对吧？"
+    },
+    {
+      "id": 193,
+      "start": 501.8,
+      "end": 508.72,
+      "en": "Because normally stores sell small candy bars for the Halloween holiday because they're smaller, they're cheaper, it's easier to give them to many people.",
+      "zh": "因为通常商店在万圣节假期出售小糖果棒，因为它们更小，更便宜，更容易送给许多人。"
+    },
+    {
+      "id": 194,
+      "start": 508.72,
+      "end": 513.8,
+      "en": "But there's always one person who has the big full-size candy bars and everyone goes to her.",
+      "zh": "但是总有一个人有大全尺寸的糖果棒，每个人都去找她。"
+    },
+    {
+      "id": 195,
+      "start": 513.8,
+      "end": 514.8,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 196,
+      "start": 514.8,
+      "end": 515.8,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 197,
+      "start": 515.8,
+      "end": 526.76,
+      "en": "And actually it's amazing how Halloween is such an important event in the States because everyone dresses up, everyone puts out decorations or pumpkins outside of their homes.",
+      "zh": "实际上，万圣节在美国是如此重要的活动，这令人惊讶，因为每个人都打扮得漂漂亮亮，每个人都在家外摆放装饰品或南瓜。"
+    },
+    {
+      "id": 198,
+      "start": 526.94,
+      "end": 531.42,
+      "en": "They have pumpkin carving contests which are really cool how they carve out pumpkins.",
+      "zh": "他们有南瓜雕刻比赛，他们如何切出南瓜真的很酷。"
+    },
+    {
+      "id": 199,
+      "start": 531.68,
+      "end": 536.14,
+      "en": "They make faces in the pumpkins and then we can put a candle inside to light it up.",
+      "zh": "他们在南瓜里做鬼脸，然后我们可以在里面放一支蜡烛来点亮它。"
+    },
+    {
+      "id": 200,
+      "start": 536.36,
+      "end": 537.04,
+      "en": "It's really fun.",
+      "zh": "这真的很有趣。"
+    },
+    {
+      "id": 201,
+      "start": 537.48,
+      "end": 538.78,
+      "en": "So that's called a jack-o'-lantern, right?",
+      "zh": "所以这被称为千斤顶灯，对吧？"
+    },
+    {
+      "id": 202,
+      "start": 539.12,
+      "end": 539.24,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 203,
+      "start": 540.12,
+      "end": 541.12,
+      "en": "Why is it called a jack-o'-lantern?",
+      "zh": "为什么它被称为千斤顶灯笼？"
+    },
+    {
+      "id": 204,
+      "start": 541.12,
+      "end": 541.28,
+      "en": "Do you know?",
+      "zh": "你知道吗？"
+    },
+    {
+      "id": 205,
+      "start": 542.12,
+      "end": 543.12,
+      "en": "I have no idea.",
+      "zh": "我完全不知道。"
+    },
+    {
+      "id": 206,
+      "start": 543.12,
+      "end": 544.12,
+      "en": "It's weird.",
+      "zh": "这很奇怪。"
+    },
+    {
+      "id": 207,
+      "start": 544.12,
+      "end": 545.12,
+      "en": "Maybe it's like a person looks like a person's face.",
+      "zh": "也许这就像一个人看起来像一个人的脸。"
+    },
+    {
+      "id": 208,
+      "start": 545.12,
+      "end": 546.12,
+      "en": "Maybe a jack-o'-lantern.",
+      "zh": "也许是一个千斤顶灯笼。"
+    },
+    {
+      "id": 209,
+      "start": 546.12,
+      "end": 547.0,
+      "en": "Because a lantern is a light.",
+      "zh": "因为灯笼是光。"
+    },
+    {
+      "id": 210,
+      "start": 547.72,
+      "end": 548.98,
+      "en": "It's like a light with a candle in it.",
+      "zh": "它就像一盏灯，里面有蜡烛。"
+    },
+    {
+      "id": 211,
+      "start": 550.68,
+      "end": 553.34,
+      "en": "It's actually a very fun holiday.",
+      "zh": "这实际上是一个非常有趣的假期。"
+    },
+    {
+      "id": 212,
+      "start": 554.88,
+      "end": 563.67,
+      "en": "It's really interesting and it's kind of strange when people really oppose it because they say that it has to do with the devil or it has to do...",
+      "zh": "这真的很有趣，当人们真的反对它时，这有点奇怪，因为他们说它与魔鬼有关，或者它必须做......"
+    },
+    {
+      "id": 213,
+      "start": 563.8,
+      "end": 565.67,
+      "en": "It's a pagan ritual and things like this.",
+      "zh": "这是一个异教徒的仪式和这样的事情。"
+    },
+    {
+      "id": 214,
+      "start": 565.84,
+      "end": 566.75,
+      "en": "But you know, it's just good fun.",
+      "zh": "但你知道，这很有趣。"
+    },
+    {
+      "id": 215,
+      "start": 566.84,
+      "end": 567.84,
+      "en": "It's fun.",
+      "zh": "很有趣。"
+    },
+    {
+      "id": 216,
+      "start": 567.84,
+      "end": 568.84,
+      "en": "It's silly.",
+      "zh": "这很愚蠢。"
+    },
+    {
+      "id": 217,
+      "start": 568.84,
+      "end": 569.84,
+      "en": "Everyone likes to dress up in a costume.",
+      "zh": "每个人都喜欢穿着服装。"
+    },
+    {
+      "id": 218,
+      "start": 569.89,
+      "end": 573.87,
+      "en": "What was the weirdest costume that you've dressed up as, as an adult or a child?",
+      "zh": "成年人或儿童时，你打扮成的最奇怪的服装是什么？"
+    },
+    {
+      "id": 219,
+      "start": 574.08,
+      "end": 575.73,
+      "en": "Because I know you've dressed up as an adult as well.",
+      "zh": "因为我知道你也打扮成成年人。"
+    },
+    {
+      "id": 220,
+      "start": 576.2,
+      "end": 577.09,
+      "en": "I dress up every year.",
+      "zh": "我每年都打扮。"
+    },
+    {
+      "id": 221,
+      "start": 577.2,
+      "end": 579.28,
+      "en": "I was Pippi Longstocking last year.",
+      "zh": "去年我是 Pippi Longstocking。"
+    },
+    {
+      "id": 222,
+      "start": 579.28,
+      "end": 587.12,
+      "en": "Well, as a child one year, I dressed up as an injured soldier because my dad was in the military so we always had fatigues around the house.",
+      "zh": "好吧，小时候，我打扮成一名受伤的士兵，因为我父亲在军队，所以我们总是在房子周围有工作服。"
+    },
+    {
+      "id": 223,
+      "start": 587.64,
+      "end": 591.84,
+      "en": "And so I used his fatigues and I put blood on my face and I had crutches.",
+      "zh": "所以我用了他的衣服，我把血放在脸上，我有拐杖。"
+    },
+    {
+      "id": 224,
+      "start": 591.84,
+      "end": 593.96,
+      "en": "And people thought that I really had a broken leg.",
+      "zh": "人们认为我的腿真的骨折了。"
+    },
+    {
+      "id": 225,
+      "start": 594.6,
+      "end": 596.32,
+      "en": "So they used to give me double...",
+      "zh": "所以他们曾经给我双重..."
+    },
+    {
+      "id": 226,
+      "start": 596.32,
+      "end": 599.7,
+      "en": "That year they gave me double the candy because they thought, oh, here's a poor girl on crutches.",
+      "zh": "那一年他们给了我双倍的糖果，因为他们想，哦，这是一个拄着拐杖的可怜女孩。"
+    },
+    {
+      "id": 227,
+      "start": 600.16,
+      "end": 600.7,
+      "en": "And trick or treating.",
+      "zh": "和不给糖就捣蛋。"
+    },
+    {
+      "id": 228,
+      "start": 601.16,
+      "end": 605.2,
+      "en": "And my costume was an injured soldier so they just didn't understand it.",
+      "zh": "我的服装是一名受伤的士兵，所以他们只是不明白。"
+    },
+    {
+      "id": 229,
+      "start": 605.2,
+      "end": 605.92,
+      "en": "It's really funny.",
+      "zh": "这真的很有趣。"
+    },
+    {
+      "id": 230,
+      "start": 606.18,
+      "end": 606.34,
+      "en": "Nice.",
+      "zh": "不错。"
+    },
+    {
+      "id": 231,
+      "start": 606.9,
+      "end": 608.32,
+      "en": "Well, we want to hear about you guys.",
+      "zh": "好吧，我们想听听你们的消息。"
+    },
+    {
+      "id": 232,
+      "start": 608.52,
+      "end": 610.84,
+      "en": "If you go trick or treating or if you dress up for Halloween.",
+      "zh": "如果你去不给糖就捣蛋，或者如果你为万圣节打扮。"
+    },
+    {
+      "id": 233,
+      "start": 611.0,
+      "end": 616.7,
+      "en": "I know that many places around the world have parties or festivities for Halloween and people dress up.",
+      "zh": "我知道世界上许多地方都有万圣节和人们打扮的派对或庆祝活动。"
+    },
+    {
+      "id": 234,
+      "start": 617.32,
+      "end": 619.2,
+      "en": "So come to our website EnglishPod.com.",
+      "zh": "所以来我们的网站 englishpod.com。"
+    },
+    {
+      "id": 235,
+      "start": 619.22,
+      "end": 621.72,
+      "en": "We'll see you guys there and we'll see you guys next time.",
+      "zh": "我们会在那里见到你们，我们下次再见。"
+    },
+    {
+      "id": 236,
+      "start": 621.88,
+      "end": 622.5,
+      "en": "Happy Halloween.",
+      "zh": "万圣节快乐。"
+    },
+    {
+      "id": 237,
+      "start": 622.74,
+      "end": 623.34,
+      "en": "Happy Halloween.",
+      "zh": "万圣节快乐。"
+    }
+  ],
+  "dialog": {
+    "start": 41.56,
+    "end": 67.8,
+    "segmentIds": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ]
+  }
+}

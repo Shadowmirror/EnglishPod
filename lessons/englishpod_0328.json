@@ -1,0 +1,1524 @@
+{
+  "version": 1,
+  "id": 328,
+  "number": "0328",
+  "title": "The Office - Small Talk 8 - Talking About Work",
+  "audio": "mp3/328. The Office - Small Talk 8 - Talking About Work.mp3",
+  "duration": 592.3265625,
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.42,
+      "end": 3.52,
+      "en": "Hello everyone and welcome to EnglishPod.",
+      "zh": "大家好，欢迎来到 EnglishPod。"
+    },
+    {
+      "id": 2,
+      "start": 3.78,
+      "end": 4.2,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 4.74,
+      "end": 9.8,
+      "en": "My name is Catherine and we've got another lesson in our series about small talk today.",
+      "zh": "我的名字是凯瑟琳，我们今天在我们的系列中还有另一个关于闲聊的课程。"
+    },
+    {
+      "id": 4,
+      "start": 10.16,
+      "end": 10.52,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 5,
+      "start": 10.74,
+      "end": 19.16,
+      "en": "Today we are at the office again and we're going to be talking very briefly about something, a business meeting that we're going to have soon.",
+      "zh": "今天我们又到了办公室，我们将非常简短地谈论一些事情，我们很快就会举行一次商务会议。"
+    },
+    {
+      "id": 6,
+      "start": 19.66,
+      "end": 20.16,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 7,
+      "start": 20.44,
+      "end": 21.68,
+      "en": "So let's check out our dialogue.",
+      "zh": "所以让我们看看我们的对话。"
+    },
+    {
+      "id": 8,
+      "start": 21.88,
+      "end": 22.98,
+      "en": "We'll be back in a moment.",
+      "zh": "我们马上回来。"
+    },
+    {
+      "id": 9,
+      "start": 29.64,
+      "end": 30.27,
+      "en": "Ah, Michelle.",
+      "zh": "啊，米歇尔。"
+    },
+    {
+      "id": 10,
+      "start": 30.81,
+      "end": 32.35,
+      "en": "Hi, I was hoping to see you.",
+      "zh": "嗨，我正想找你呢。"
+    },
+    {
+      "id": 11,
+      "start": 32.63,
+      "end": 33.15,
+      "en": "How have you been?",
+      "zh": "你最近怎么样？"
+    },
+    {
+      "id": 12,
+      "start": 33.39,
+      "end": 33.89,
+      "en": "How's the family?",
+      "zh": "家里人都好吗？"
+    },
+    {
+      "id": 13,
+      "start": 34.45,
+      "end": 35.71,
+      "en": "Oh, hello, Mr. Campbell.",
+      "zh": "哦，你好，坎贝尔先生。"
+    },
+    {
+      "id": 14,
+      "start": 36.35,
+      "end": 38.01,
+      "en": "I'm fine and Jack's doing well.",
+      "zh": "我很好，杰克也很好。"
+    },
+    {
+      "id": 15,
+      "start": 38.37,
+      "end": 39.01,
+      "en": "How are you?",
+      "zh": "你好吗？"
+    },
+    {
+      "id": 16,
+      "start": 39.25,
+      "end": 39.85,
+      "en": "I'm fine.",
+      "zh": "我很好。"
+    },
+    {
+      "id": 17,
+      "start": 40.13,
+      "end": 40.45,
+      "en": "Thanks.",
+      "zh": "谢谢。"
+    },
+    {
+      "id": 18,
+      "start": 40.97,
+      "end": 42.15,
+      "en": "I got your report this morning.",
+      "zh": "我今天早上收到了你的报告。"
+    },
+    {
+      "id": 19,
+      "start": 42.57,
+      "end": 43.23,
+      "en": "Thanks for that.",
+      "zh": "谢谢你。"
+    },
+    {
+      "id": 20,
+      "start": 43.47,
+      "end": 44.63,
+      "en": "Are you joining the conference today?",
+      "zh": "你今天参加会议吗？"
+    },
+    {
+      "id": 21,
+      "start": 44.96,
+      "end": 47.2,
+      "en": "Yes, I'm leaving at 4 p.m.",
+      "zh": "参加，我下午四点出发。"
+    },
+    {
+      "id": 22,
+      "start": 47.2,
+      "end": 48.2,
+      "en": "Good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 23,
+      "start": 48.2,
+      "end": 49.05,
+      "en": "Well, we can discuss this more then.",
+      "zh": "那我们到会上再详细谈。"
+    },
+    {
+      "id": 24,
+      "start": 49.68,
+      "end": 52.03,
+      "en": "But I think the figures are looking very good for this quarter.",
+      "zh": "不过我觉得本季度的数据相当不错。"
+    },
+    {
+      "id": 25,
+      "start": 52.32,
+      "end": 53.09,
+      "en": "Yes, me too.",
+      "zh": "是啊，我也是。"
+    },
+    {
+      "id": 26,
+      "start": 53.39,
+      "end": 55.93,
+      "en": "I'm planning to discuss the advertising budget at the conference.",
+      "zh": "我打算在会议上讨论广告预算。"
+    },
+    {
+      "id": 27,
+      "start": 56.41,
+      "end": 58.27,
+      "en": "I don't think we should continue with the TV advertising.",
+      "zh": "我觉得电视广告不该再继续投了。"
+    },
+    {
+      "id": 28,
+      "start": 58.73,
+      "end": 60.15,
+      "en": "No, me neither.",
+      "zh": "对，我也这么想。"
+    },
+    {
+      "id": 29,
+      "start": 60.57,
+      "end": 61.57,
+      "en": "It's far too expensive.",
+      "zh": "实在太贵了。"
+    },
+    {
+      "id": 30,
+      "start": 62.23,
+      "end": 64.05,
+      "en": "Well, let's discuss this more at the conference.",
+      "zh": "我们到会上再细谈吧。"
+    },
+    {
+      "id": 31,
+      "start": 64.49,
+      "end": 65.71,
+      "en": "Maybe we can share a taxi there?",
+      "zh": "要不我们一起打车过去？"
+    },
+    {
+      "id": 32,
+      "start": 65.97,
+      "end": 66.53,
+      "en": "Yeah, sure.",
+      "zh": "好啊，当然。"
+    },
+    {
+      "id": 33,
+      "start": 67.12,
+      "end": 77.52,
+      "en": "All right, we're back, so now let's take a look at some vocab on Language Takeaway.",
+      "zh": "好吧，我们回来了，所以现在让我们来看看一些关于语言外卖的词汇。"
+    },
+    {
+      "id": 34,
+      "start": 77.52,
+      "end": 78.16,
+      "en": "Language Takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 35,
+      "start": 80.7,
+      "end": 84.75,
+      "en": "Today in Language Takeaway we have a number of phrases and words about business.",
+      "zh": "今天在语言外卖中，我们有许多关于商业的短语和单词。"
+    },
+    {
+      "id": 36,
+      "start": 85.27,
+      "end": 88.49,
+      "en": "The first one we have is, are you joining the conference today?",
+      "zh": "我们拥有的第一个是，您今天参加会议吗？"
+    },
+    {
+      "id": 37,
+      "start": 89.12,
+      "end": 89.27,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 38,
+      "start": 89.49,
+      "end": 93.35,
+      "en": "So we're going to go to a conference, actually, which is a little bit different than a meeting.",
+      "zh": "所以我们要去参加一个会议，实际上，这与会议有点不同。"
+    },
+    {
+      "id": 39,
+      "start": 94.2,
+      "end": 101.71,
+      "en": "That's right. A meeting is something you normally do with people at your own company. But a conference is when people from many different companies meet.",
+      "zh": "没错。 会议是您通常与自己公司的人进行的事情。 但会议是来自许多不同公司的人见面的时候。"
+    },
+    {
+      "id": 40,
+      "start": 102.32,
+      "end": 107.21,
+      "en": "That's right. And also, I think you don't really have too much input at a conference.",
+      "zh": "没错。 而且，我认为你在会议上并没有太多的投入。"
+    },
+    {
+      "id": 41,
+      "start": 107.44,
+      "end": 112.02,
+      "en": "You mostly listen to other people speak about a topic or a subject.",
+      "zh": "你主要听别人谈论一个话题或一个主题。"
+    },
+    {
+      "id": 42,
+      "start": 112.32,
+      "end": 112.82,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 43,
+      "start": 113.04,
+      "end": 116.64,
+      "en": "And I think these are normally held in conference centers or hotels.",
+      "zh": "我认为这些通常在会议中心或酒店举行。"
+    },
+    {
+      "id": 44,
+      "start": 117.36,
+      "end": 118.74,
+      "en": "You have a nice lunch.",
+      "zh": "你有一顿美味的午餐。"
+    },
+    {
+      "id": 45,
+      "start": 119.02,
+      "end": 120.56,
+      "en": "So they're pretty big deals.",
+      "zh": "所以他们是相当大的交易。"
+    },
+    {
+      "id": 46,
+      "start": 120.9,
+      "end": 125.28,
+      "en": "That's right. All right, so it's more of a formal business conference that we're going to.",
+      "zh": "没错。 好吧，所以它更像是一个正式的商务会议。"
+    },
+    {
+      "id": 47,
+      "start": 125.72,
+      "end": 132.3,
+      "en": "And well, they're actually going to discuss different aspects of the company as well, especially the figures.",
+      "zh": "好吧，他们实际上也将讨论公司的不同方面，尤其是数字。"
+    },
+    {
+      "id": 48,
+      "start": 132.9,
+      "end": 133.2,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 49,
+      "start": 133.2,
+      "end": 137.76,
+      "en": "So in the context of business, the word figure actually means number.",
+      "zh": "所以在商业的背景下，数字这个词实际上意味着数字。"
+    },
+    {
+      "id": 50,
+      "start": 138.7,
+      "end": 144.98,
+      "en": "Okay, so we can say the sales numbers for this year are a kind of figure.",
+      "zh": "好的，所以我们可以说今年的销售数据是一种数字。"
+    },
+    {
+      "id": 51,
+      "start": 146.38,
+      "end": 146.54,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 52,
+      "start": 146.74,
+      "end": 150.06,
+      "en": "So we're talking about money, basically, when we're talking about numbers.",
+      "zh": "所以我们谈论的是金钱，基本上，当我们谈论数字时。"
+    },
+    {
+      "id": 53,
+      "start": 150.76,
+      "end": 155.56,
+      "en": "That's right. So when the figures look good, it means that our income, our revenue, this looks good.",
+      "zh": "没错。 所以当这些数字看起来不错时，这意味着我们的收入、我们的收入，这看起来不错。"
+    },
+    {
+      "id": 54,
+      "start": 156.12,
+      "end": 162.2,
+      "en": "That's right. And when we usually talk about income or revenue, we usually have to separate it into time.",
+      "zh": "没错。 当我们通常谈论收入或收入时，我们通常必须将其分成时间。"
+    },
+    {
+      "id": 55,
+      "start": 162.8,
+      "end": 166.0,
+      "en": "And here in the dialogue, we're talking about a quarter.",
+      "zh": "在对话中，我们谈论的是四分之一。"
+    },
+    {
+      "id": 56,
+      "start": 166.64,
+      "end": 176.04,
+      "en": "All right, so quarter, Q-U, quarter, is a period of time, very common in business, that is a quarter of the year.",
+      "zh": "好吧，所以季度，Q-U，季度，是一个时期，在商业中很常见，也就是一年中的一个季度。"
+    },
+    {
+      "id": 57,
+      "start": 176.52,
+      "end": 177.5,
+      "en": "So three months.",
+      "zh": "所以三个月。"
+    },
+    {
+      "id": 58,
+      "start": 177.9,
+      "end": 178.76,
+      "en": "Three months, that's right.",
+      "zh": "三个月，没错。"
+    },
+    {
+      "id": 59,
+      "start": 179.08,
+      "end": 182.04,
+      "en": "January, February, March, April, May, June, and so on.",
+      "zh": "一月、二月、三月、四月、五月、六月等等。"
+    },
+    {
+      "id": 60,
+      "start": 182.32,
+      "end": 184.08,
+      "en": "That's right. So you have four quarters.",
+      "zh": "没错。 所以你有四个季度。"
+    },
+    {
+      "id": 61,
+      "start": 184.08,
+      "end": 188.88,
+      "en": "And that's actually what, that's why you call it a quarter because it's one fourth.",
+      "zh": "这就是事实，这就是为什么你称它为四分之一，因为它是四分之一。"
+    },
+    {
+      "id": 62,
+      "start": 189.62,
+      "end": 197.18,
+      "en": "So we can say the figures for the first quarter were very good, but unfortunately, the figures for the second quarter were very bad.",
+      "zh": "所以我们可以说第一季度的数据非常好，但不幸的是，第二季度的数据非常糟糕。"
+    },
+    {
+      "id": 63,
+      "start": 197.52,
+      "end": 198.0,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 64,
+      "start": 198.4,
+      "end": 203.42,
+      "en": "And actually, another similar way that you use quarter is the 25 cent coin.",
+      "zh": "实际上，您使用 Quarter 的另一种类似方式是 25 美分硬币。"
+    },
+    {
+      "id": 65,
+      "start": 204.27,
+      "end": 206.33,
+      "en": "It's called a quarter because it's a quarter of a dollar.",
+      "zh": "它被称为一个季度，因为它是一美元的四分之一。"
+    },
+    {
+      "id": 66,
+      "start": 206.49,
+      "end": 211.15,
+      "en": "That's right. And if you're in America, you know that it has an eagle, a bird on one side of it.",
+      "zh": "没错。 如果你在美国，你知道它有一只鹰，一只鸟在它的一侧。"
+    },
+    {
+      "id": 67,
+      "start": 211.39,
+      "end": 211.79,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 68,
+      "start": 212.49,
+      "end": 216.19,
+      "en": "All right, so we are taking a look at the figures for the quarter.",
+      "zh": "好的，所以我们正在查看本季度的数据。"
+    },
+    {
+      "id": 69,
+      "start": 216.89,
+      "end": 223.01,
+      "en": "And they're saying, well, it's not looking too good because we need to talk about the advertising budget.",
+      "zh": "他们说，好吧，这看起来不太好，因为我们需要谈谈广告预算。"
+    },
+    {
+      "id": 70,
+      "start": 223.56,
+      "end": 224.08,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 71,
+      "start": 224.08,
+      "end": 227.9,
+      "en": "So this is something that you think is very important.",
+      "zh": "所以这是你认为非常重要的事情。"
+    },
+    {
+      "id": 72,
+      "start": 228.08,
+      "end": 228.68,
+      "en": "It's budget.",
+      "zh": "这是预算。"
+    },
+    {
+      "id": 73,
+      "start": 228.9,
+      "end": 231.5,
+      "en": "It's how much money you have to spend on something.",
+      "zh": "这是你要花多少钱在某事上。"
+    },
+    {
+      "id": 74,
+      "start": 231.9,
+      "end": 234.32,
+      "en": "And in this case, you're spending it on advertising.",
+      "zh": "在这种情况下，你把它花在广告上。"
+    },
+    {
+      "id": 75,
+      "start": 235.12,
+      "end": 236.92,
+      "en": "So this is ads that you make.",
+      "zh": "所以这是你制作的广告。"
+    },
+    {
+      "id": 76,
+      "start": 237.48,
+      "end": 237.68,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 77,
+      "start": 238.0,
+      "end": 244.6,
+      "en": "So as you said, a budget is the amount of money that you have available to spend on something.",
+      "zh": "所以正如你所说，预算是你可以花在某物上的金额。"
+    },
+    {
+      "id": 78,
+      "start": 244.6,
+      "end": 246.56,
+      "en": "And on this occasion, we're talking about advertising.",
+      "zh": "在这个场合，我们谈论的是广告。"
+    },
+    {
+      "id": 79,
+      "start": 247.32,
+      "end": 249.98,
+      "en": "Now, you can have a budget for different things, right?",
+      "zh": "现在，你可以为不同的事情制定预算，对吧？"
+    },
+    {
+      "id": 80,
+      "start": 250.44,
+      "end": 251.58,
+      "en": "You could have a marketing budget.",
+      "zh": "你可以有营销预算。"
+    },
+    {
+      "id": 81,
+      "start": 252.2,
+      "end": 253.2,
+      "en": "So the money you have for marketing.",
+      "zh": "所以你有营销的钱。"
+    },
+    {
+      "id": 82,
+      "start": 253.86,
+      "end": 257.98,
+      "en": "You could have a personnel budget, which is the money you would set aside for people.",
+      "zh": "你可以有一个人事预算，这是你为人们预留的钱。"
+    },
+    {
+      "id": 83,
+      "start": 258.72,
+      "end": 264.1,
+      "en": "So how much you pay your employees. Right. So you can pretty much mix up many different nouns with budget.",
+      "zh": "那么你付给员工多少钱。 对。 因此，您几乎可以将许多不同的名词与预算混合。"
+    },
+    {
+      "id": 84,
+      "start": 264.32,
+      "end": 266.42,
+      "en": "Even you can have a budget for your home.",
+      "zh": "即使你可以为你的家制定预算。"
+    },
+    {
+      "id": 85,
+      "start": 266.83,
+      "end": 267.67,
+      "en": "How much you spend at home.",
+      "zh": "你在家里花多少钱。"
+    },
+    {
+      "id": 86,
+      "start": 267.96,
+      "end": 270.03,
+      "en": "That's right. So many people have this for their families.",
+      "zh": "没错。 这么多人为他们的家人准备了这个。"
+    },
+    {
+      "id": 87,
+      "start": 270.41,
+      "end": 275.59,
+      "en": "They say this month I will spend $100 on shopping and $200 on shoes.",
+      "zh": "他们说这个月我会花 100 美元买，买鞋子 200 美元。"
+    },
+    {
+      "id": 88,
+      "start": 277.16,
+      "end": 279.8,
+      "en": "So it's like a family budget, you would call it.",
+      "zh": "所以这就像一个家庭预算，你会称之为。"
+    },
+    {
+      "id": 89,
+      "start": 279.8,
+      "end": 284.51,
+      "en": "That's right. Okay. So that's all the words we have for you on language takeaway.",
+      "zh": "没错。 好的。 这就是我们在外卖中为您准备的所有单词。"
+    },
+    {
+      "id": 90,
+      "start": 285.05,
+      "end": 288.57,
+      "en": "Let's review everything quickly and we'll be back in a bit with Fluency Builder.",
+      "zh": "让我们快速回顾一下一切，我们将在 Flueny Builder 中恢复一些。"
+    },
+    {
+      "id": 91,
+      "start": 295.18,
+      "end": 295.94,
+      "en": "Ah, Michelle.",
+      "zh": "啊，米歇尔。"
+    },
+    {
+      "id": 92,
+      "start": 296.48,
+      "end": 298.02,
+      "en": "Hi. I was hoping to see you.",
+      "zh": "你好。 我希望见到你。"
+    },
+    {
+      "id": 93,
+      "start": 298.28,
+      "end": 298.82,
+      "en": "How have you been?",
+      "zh": "你最近怎么样？"
+    },
+    {
+      "id": 94,
+      "start": 299.06,
+      "end": 299.56,
+      "en": "How's the family?",
+      "zh": "家里人都好吗？"
+    },
+    {
+      "id": 95,
+      "start": 300.2,
+      "end": 303.7,
+      "en": "Oh, hello, Mr. Campbell. I'm fine and Jack's doing well.",
+      "zh": "哦，你好，坎贝尔先生。 我很好，杰克做得很好。"
+    },
+    {
+      "id": 96,
+      "start": 304.06,
+      "end": 304.68,
+      "en": "How are you?",
+      "zh": "你好吗？"
+    },
+    {
+      "id": 97,
+      "start": 304.94,
+      "end": 305.52,
+      "en": "I'm fine.",
+      "zh": "我很好。"
+    },
+    {
+      "id": 98,
+      "start": 305.8,
+      "end": 306.12,
+      "en": "Thanks.",
+      "zh": "谢谢。"
+    },
+    {
+      "id": 99,
+      "start": 306.64,
+      "end": 307.78,
+      "en": "I got your report this morning.",
+      "zh": "我今天早上收到了你的报告。"
+    },
+    {
+      "id": 100,
+      "start": 308.22,
+      "end": 308.9,
+      "en": "Thanks for that.",
+      "zh": "谢谢你。"
+    },
+    {
+      "id": 101,
+      "start": 309.18,
+      "end": 310.32,
+      "en": "Are you joining the conference today?",
+      "zh": "你今天参加会议吗？"
+    },
+    {
+      "id": 102,
+      "start": 311.24,
+      "end": 312.64,
+      "en": "Yes, I'm leaving at 4 p.m.",
+      "zh": "参加，我下午四点出发。"
+    },
+    {
+      "id": 103,
+      "start": 312.64,
+      "end": 312.88,
+      "en": "Good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 104,
+      "start": 313.24,
+      "end": 314.72,
+      "en": "Well, we can discuss this more then.",
+      "zh": "那我们到会上再详细谈。"
+    },
+    {
+      "id": 105,
+      "start": 315.06,
+      "end": 317.7,
+      "en": "But I think the figures are looking very good for this quarter.",
+      "zh": "不过我觉得本季度的数据相当不错。"
+    },
+    {
+      "id": 106,
+      "start": 317.94,
+      "end": 318.76,
+      "en": "Yes, me too.",
+      "zh": "是啊，我也是。"
+    },
+    {
+      "id": 107,
+      "start": 319.06,
+      "end": 321.6,
+      "en": "I'm planning to discuss the advertising budget at the conference.",
+      "zh": "我打算在会议上讨论广告预算。"
+    },
+    {
+      "id": 108,
+      "start": 322.06,
+      "end": 323.94,
+      "en": "I don't think we should continue with the TV advertising.",
+      "zh": "我觉得电视广告不该再继续投了。"
+    },
+    {
+      "id": 109,
+      "start": 324.4,
+      "end": 325.84,
+      "en": "No, me neither.",
+      "zh": "对，我也这么想。"
+    },
+    {
+      "id": 110,
+      "start": 326.28,
+      "end": 327.28,
+      "en": "It's far too expensive.",
+      "zh": "实在太贵了。"
+    },
+    {
+      "id": 111,
+      "start": 327.94,
+      "end": 329.74,
+      "en": "Well, let's discuss this more at the conference.",
+      "zh": "我们到会上再细谈吧。"
+    },
+    {
+      "id": 112,
+      "start": 330.16,
+      "end": 331.4,
+      "en": "Maybe we can share a taxi there.",
+      "zh": "也许我们可以在那里共用一辆出租车。"
+    },
+    {
+      "id": 113,
+      "start": 331.8,
+      "end": 334.96,
+      "en": "Yes, sir.",
+      "zh": "是，先生。"
+    },
+    {
+      "id": 114,
+      "start": 336.01,
+      "end": 340.95,
+      "en": "Alright, in today's Fluency Builder, we have a number of phrases you could use in a small talk situation.",
+      "zh": "好吧，在今天的 Fluency Builder 中，我们有一些短语可以在闲聊的情况下使用。"
+    },
+    {
+      "id": 115,
+      "start": 341.35,
+      "end": 342.27,
+      "en": "The first one's a question.",
+      "zh": "第一个是问题。"
+    },
+    {
+      "id": 116,
+      "start": 343.39,
+      "end": 344.41,
+      "en": "How's the family?",
+      "zh": "家里人都好吗？"
+    },
+    {
+      "id": 117,
+      "start": 345.4,
+      "end": 346.0,
+      "en": "How's the family?",
+      "zh": "家里人都好吗？"
+    },
+    {
+      "id": 118,
+      "start": 346.6,
+      "end": 350.56,
+      "en": "Now, it's how apostrophe s the family, right?",
+      "zh": "现在，这是一个家庭的撇号，对吧？"
+    },
+    {
+      "id": 119,
+      "start": 350.7,
+      "end": 353.84,
+      "en": "So how is the family would be the extended way of saying it.",
+      "zh": "那么家庭如何成为延伸的方式。"
+    },
+    {
+      "id": 120,
+      "start": 354.08,
+      "end": 354.2,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 121,
+      "start": 354.32,
+      "end": 355.98,
+      "en": "But this is a short way to say it.",
+      "zh": "但这是一个很短的表达方式。"
+    },
+    {
+      "id": 122,
+      "start": 356.14,
+      "end": 356.8,
+      "en": "It's very common.",
+      "zh": "这很常见。"
+    },
+    {
+      "id": 123,
+      "start": 357.16,
+      "end": 366.41,
+      "en": "And you normally say this with people who are a little bit older, people who have kids. So I haven't seen you in a long time, Marco, and I know you have some kids and I can say, how's the family?",
+      "zh": "你通常会和年龄稍大的人、有孩子的人说这句话。 所以我好久没见你了，马可，我知道你有一些孩子，我可以说，家人怎么样？"
+    },
+    {
+      "id": 124,
+      "start": 367.12,
+      "end": 367.61,
+      "en": "How's the family?",
+      "zh": "家里人都好吗？"
+    },
+    {
+      "id": 125,
+      "start": 367.81,
+      "end": 367.99,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 126,
+      "start": 368.45,
+      "end": 376.55,
+      "en": "And it's actually, it may seem strange the way that this sentence is made, but it's very, very much similar to how are you?",
+      "zh": "实际上，这句话的制作方式可能看起来很奇怪，但它与你的情况非常非常相似？"
+    },
+    {
+      "id": 127,
+      "start": 376.89,
+      "end": 379.03,
+      "en": "You have how to be and you in the subject.",
+      "zh": "你有如何成为和你在这个主题中。"
+    },
+    {
+      "id": 128,
+      "start": 379.48,
+      "end": 383.03,
+      "en": "That's right. And this is a very polite way to say hi. How are you?",
+      "zh": "没错。 这是一个非常礼貌的打招呼方式。 你好吗?"
+    },
+    {
+      "id": 129,
+      "start": 383.39,
+      "end": 384.29,
+      "en": "How is your family?",
+      "zh": "你的家人怎么样？"
+    },
+    {
+      "id": 130,
+      "start": 385.0,
+      "end": 385.57,
+      "en": "How is the wife?",
+      "zh": "老婆怎么样？"
+    },
+    {
+      "id": 131,
+      "start": 387.13,
+      "end": 387.59,
+      "en": "How's the wife?",
+      "zh": "老婆怎么样？"
+    },
+    {
+      "id": 132,
+      "start": 388.05,
+      "end": 389.55,
+      "en": "And she said, well, you know what?",
+      "zh": "她说，好吧，你知道吗？"
+    },
+    {
+      "id": 133,
+      "start": 389.69,
+      "end": 390.41,
+      "en": "Everything is great.",
+      "zh": "一切都很棒。"
+    },
+    {
+      "id": 134,
+      "start": 390.83,
+      "end": 391.23,
+      "en": "I'm fine.",
+      "zh": "我很好。"
+    },
+    {
+      "id": 135,
+      "start": 391.55,
+      "end": 395.4,
+      "en": "And Jack's, I guess that's her husband, is doing well.",
+      "zh": "杰克的，我猜那是她的丈夫，做得很好。"
+    },
+    {
+      "id": 136,
+      "start": 395.94,
+      "end": 399.82,
+      "en": "Jack is doing well. So doing well, thanks. This means good.",
+      "zh": "杰克做得很好。 所以做得很好，谢谢。 这意味着好。"
+    },
+    {
+      "id": 137,
+      "start": 400.58,
+      "end": 404.1,
+      "en": "Okay. But you know, when we say the answer to this question, how are you?",
+      "zh": "好的。 但是你知道，当我们说出这个问题的答案时，你好吗？"
+    },
+    {
+      "id": 138,
+      "start": 404.3,
+      "end": 405.06,
+      "en": "I'm well.",
+      "zh": "我很好。"
+    },
+    {
+      "id": 139,
+      "start": 405.68,
+      "end": 407.4,
+      "en": "That's the correct answer.",
+      "zh": "这是正确的答案。"
+    },
+    {
+      "id": 140,
+      "start": 407.86,
+      "end": 409.24,
+      "en": "I'm good is not correct.",
+      "zh": "我很好是不正确的。"
+    },
+    {
+      "id": 141,
+      "start": 409.72,
+      "end": 409.88,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 142,
+      "start": 410.4,
+      "end": 413.8,
+      "en": "So if somebody says, how are you? You can say, I'm well.",
+      "zh": "所以如果有人说，你好吗？ 你可以说，我很好。"
+    },
+    {
+      "id": 143,
+      "start": 414.44,
+      "end": 415.68,
+      "en": "Or you can say, I'm doing well.",
+      "zh": "或者你可以说，我做得很好。"
+    },
+    {
+      "id": 144,
+      "start": 416.22,
+      "end": 417.4,
+      "en": "That's a positive answer.",
+      "zh": "这是一个积极的答案。"
+    },
+    {
+      "id": 145,
+      "start": 417.54,
+      "end": 418.52,
+      "en": "Things are going well.",
+      "zh": "事情进展顺利。"
+    },
+    {
+      "id": 146,
+      "start": 419.24,
+      "end": 420.72,
+      "en": "You could say, not so well.",
+      "zh": "你可以说，不太好。"
+    },
+    {
+      "id": 147,
+      "start": 421.04,
+      "end": 423.47,
+      "en": "That's not a, not, not, not good things are happening.",
+      "zh": "那不是，不是，不是，不是好事正在发生。"
+    },
+    {
+      "id": 148,
+      "start": 423.98,
+      "end": 424.27,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 149,
+      "start": 424.43,
+      "end": 426.45,
+      "en": "And it's very important to point out the difference.",
+      "zh": "指出差异非常重要。"
+    },
+    {
+      "id": 150,
+      "start": 426.71,
+      "end": 430.85,
+      "en": "As Catherine said, you don't, you don't, you shouldn't use good.",
+      "zh": "正如凯瑟琳所说，你没有，你没有，你不应该使用好的。"
+    },
+    {
+      "id": 151,
+      "start": 431.25,
+      "end": 433.03,
+      "en": "I'm doing good or I'm good.",
+      "zh": "我做得很好，或者我很好。"
+    },
+    {
+      "id": 152,
+      "start": 433.67,
+      "end": 438.91,
+      "en": "Yeah, no, it's incorrect because good is an adjective and we're, we're looking for an adverb here.",
+      "zh": "是的，不，这是不正确的，因为好是形容词，我们在这里寻找副词。"
+    },
+    {
+      "id": 153,
+      "start": 439.44,
+      "end": 439.61,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 154,
+      "start": 440.44,
+      "end": 441.44,
+      "en": "Well.",
+      "zh": "嗯。"
+    },
+    {
+      "id": 155,
+      "start": 441.44,
+      "end": 442.27,
+      "en": "That's correct. All right.",
+      "zh": "没错。 好的。"
+    },
+    {
+      "id": 156,
+      "start": 442.47,
+      "end": 447.53,
+      "en": "And to finish things off, Mr. Campbell and Michelle were headed, headed the same way.",
+      "zh": "为了结束事情，坎贝尔先生和米歇尔也朝着同样的方向前进。"
+    },
+    {
+      "id": 157,
+      "start": 447.93,
+      "end": 450.37,
+      "en": "So they decided to share a taxi.",
+      "zh": "于是他们决定共用一辆出租车。"
+    },
+    {
+      "id": 158,
+      "start": 452.08,
+      "end": 458.44,
+      "en": "That's right. So to share a taxi means two people or three people will pay for one taxi together.",
+      "zh": "没错。 因此，共用一辆出租车意味着两个人或三个人将一起支付一辆出租车。"
+    },
+    {
+      "id": 159,
+      "start": 459.12,
+      "end": 463.3,
+      "en": "So maybe Marco, I see you on the street and I know that you have to go to a conference.",
+      "zh": "所以也许马可，我在街上见到你，我知道你必须去参加一个会议。"
+    },
+    {
+      "id": 160,
+      "start": 463.66,
+      "end": 464.94,
+      "en": "I'm going to the same conference.",
+      "zh": "我要去同一个会议。"
+    },
+    {
+      "id": 161,
+      "start": 465.4,
+      "end": 466.7,
+      "en": "Let's share a taxi.",
+      "zh": "让我们共用一辆出租车。"
+    },
+    {
+      "id": 162,
+      "start": 467.0,
+      "end": 468.08,
+      "en": "It will cost less.",
+      "zh": "它会花费更少。"
+    },
+    {
+      "id": 163,
+      "start": 468.84,
+      "end": 469.06,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 164,
+      "start": 469.32,
+      "end": 473.22,
+      "en": "So you will share the cost between all the people in the cab.",
+      "zh": "因此，您将在出租车中的所有人之间分担成本。"
+    },
+    {
+      "id": 165,
+      "start": 473.58,
+      "end": 478.0,
+      "en": "Now there's another way of saying it as well. More common, I think in the, in the United States.",
+      "zh": "现在还有另一种说法。 更常见的是，我认为在美国。"
+    },
+    {
+      "id": 166,
+      "start": 478.8,
+      "end": 478.92,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 167,
+      "start": 479.1,
+      "end": 480.48,
+      "en": "We say split a taxi.",
+      "zh": "我们说分开出租车。"
+    },
+    {
+      "id": 168,
+      "start": 480.86,
+      "end": 482.4,
+      "en": "Let's split a cab.",
+      "zh": "让我们分开一辆出租车。"
+    },
+    {
+      "id": 169,
+      "start": 483.36,
+      "end": 483.74,
+      "en": "Split a cab.",
+      "zh": "分开出租车。"
+    },
+    {
+      "id": 170,
+      "start": 484.1,
+      "end": 486.1,
+      "en": "Now remember that it's a taxi cab.",
+      "zh": "现在请记住，这是一辆出租车。"
+    },
+    {
+      "id": 171,
+      "start": 486.82,
+      "end": 488.6,
+      "en": "So sometimes people just don't say taxi.",
+      "zh": "所以有时人们只是不说出租车。"
+    },
+    {
+      "id": 172,
+      "start": 488.76,
+      "end": 489.22,
+      "en": "They say a cab.",
+      "zh": "他们说出租车。"
+    },
+    {
+      "id": 173,
+      "start": 489.48,
+      "end": 490.14,
+      "en": "Let's split a cab.",
+      "zh": "让我们分开一辆出租车。"
+    },
+    {
+      "id": 174,
+      "start": 490.36,
+      "end": 491.36,
+      "en": "Let's share a cab.",
+      "zh": "让我们共享一辆出租车。"
+    },
+    {
+      "id": 175,
+      "start": 491.74,
+      "end": 493.86,
+      "en": "That's right. Cab, taxi, both are okay.",
+      "zh": "没错。 出租车，出租车，两者都还好。"
+    },
+    {
+      "id": 176,
+      "start": 494.5,
+      "end": 495.68,
+      "en": "All right. Very good.",
+      "zh": "好的。 非常好。"
+    },
+    {
+      "id": 177,
+      "start": 495.88,
+      "end": 496.22,
+      "en": "Good stuff.",
+      "zh": "好东西。"
+    },
+    {
+      "id": 178,
+      "start": 496.5,
+      "end": 498.54,
+      "en": "Let's listen to everything one last time.",
+      "zh": "让我们最后一次听一听。"
+    },
+    {
+      "id": 179,
+      "start": 501.52,
+      "end": 506.12,
+      "en": "Ah, Michelle.",
+      "zh": "啊，米歇尔。"
+    },
+    {
+      "id": 180,
+      "start": 506.36,
+      "end": 506.72,
+      "en": "Hi.",
+      "zh": "嗨。"
+    },
+    {
+      "id": 181,
+      "start": 507.0,
+      "end": 508.14,
+      "en": "I was hoping to see you.",
+      "zh": "我希望见到你。"
+    },
+    {
+      "id": 182,
+      "start": 508.4,
+      "end": 508.94,
+      "en": "How have you been?",
+      "zh": "你最近怎么样？"
+    },
+    {
+      "id": 183,
+      "start": 509.14,
+      "end": 509.7,
+      "en": "How's the family?",
+      "zh": "家里人都好吗？"
+    },
+    {
+      "id": 184,
+      "start": 510.32,
+      "end": 511.42,
+      "en": "Oh, hello, Mr. Campbell.",
+      "zh": "哦，你好，坎贝尔先生。"
+    },
+    {
+      "id": 185,
+      "start": 512.24,
+      "end": 513.72,
+      "en": "I'm fine and Jack's doing well.",
+      "zh": "我很好，杰克也很好。"
+    },
+    {
+      "id": 186,
+      "start": 514.2,
+      "end": 514.74,
+      "en": "How are you?",
+      "zh": "你好吗？"
+    },
+    {
+      "id": 187,
+      "start": 515.04,
+      "end": 515.56,
+      "en": "I'm fine.",
+      "zh": "我很好。"
+    },
+    {
+      "id": 188,
+      "start": 515.92,
+      "end": 516.16,
+      "en": "Thanks.",
+      "zh": "谢谢。"
+    },
+    {
+      "id": 189,
+      "start": 516.7,
+      "end": 517.86,
+      "en": "I got your report this morning.",
+      "zh": "我今天早上收到了你的报告。"
+    },
+    {
+      "id": 190,
+      "start": 518.3,
+      "end": 518.94,
+      "en": "Thanks for that.",
+      "zh": "谢谢你。"
+    },
+    {
+      "id": 191,
+      "start": 519.22,
+      "end": 522.84,
+      "en": "Are you joining the conference today? Yes, I'm leaving at 4 p.m.",
+      "zh": "你今天参加会议吗？ 是的，我下午 4 点离开。"
+    },
+    {
+      "id": 192,
+      "start": 522.84,
+      "end": 524.76,
+      "en": "Good. Well, we can discuss this more then.",
+      "zh": "好。 好吧，我们可以更多地讨论这个问题。"
+    },
+    {
+      "id": 193,
+      "start": 525.16,
+      "end": 527.74,
+      "en": "But I think the figures are looking very good for this quarter.",
+      "zh": "不过我觉得本季度的数据相当不错。"
+    },
+    {
+      "id": 194,
+      "start": 528.02,
+      "end": 528.8,
+      "en": "Yes, me too.",
+      "zh": "是啊，我也是。"
+    },
+    {
+      "id": 195,
+      "start": 529.24,
+      "end": 531.66,
+      "en": "I'm planning to discuss the advertising budget at the conference.",
+      "zh": "我打算在会议上讨论广告预算。"
+    },
+    {
+      "id": 196,
+      "start": 532.16,
+      "end": 534.02,
+      "en": "I don't think we should continue with the TV advertising.",
+      "zh": "我觉得电视广告不该再继续投了。"
+    },
+    {
+      "id": 197,
+      "start": 534.52,
+      "end": 535.86,
+      "en": "No, me neither.",
+      "zh": "对，我也这么想。"
+    },
+    {
+      "id": 198,
+      "start": 536.24,
+      "end": 537.3,
+      "en": "It's far too expensive.",
+      "zh": "实在太贵了。"
+    },
+    {
+      "id": 199,
+      "start": 537.85,
+      "end": 541.43,
+      "en": "Well, let's discuss this more at the conference. Maybe we can share a taxi there?",
+      "zh": "那我们到会上再详谈吧。要不一起打车过去？"
+    },
+    {
+      "id": 200,
+      "start": 542.12,
+      "end": 542.31,
+      "en": "Yes, sure.",
+      "zh": "对，当然。"
+    },
+    {
+      "id": 201,
+      "start": 546.1,
+      "end": 546.48,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 202,
+      "start": 546.48,
+      "end": 550.28,
+      "en": "So we're getting towards the end of our Small Talk series.",
+      "zh": "所以我们即将结束我们的 Small Talk 系列。"
+    },
+    {
+      "id": 203,
+      "start": 550.56,
+      "end": 562.39,
+      "en": "As you can see, we are taking a look at different quick but very useful dialogues that you can have with someone, a small conversation, whether about business, family, whatever.",
+      "zh": "如您所见，我们正在查看您可以与某人进行的不同快速但非常有用的对话，进行一次小型对话，无论是关于商业、家庭等。"
+    },
+    {
+      "id": 204,
+      "start": 562.85,
+      "end": 563.25,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 205,
+      "start": 563.61,
+      "end": 567.51,
+      "en": "And in today's dialogue, we heard two people who probably know each other talking.",
+      "zh": "在今天的对话中，我们听到了两个可能认识的人在交谈。"
+    },
+    {
+      "id": 206,
+      "start": 568.0,
+      "end": 571.64,
+      "en": "So sometimes you're with people who are strangers, you don't know what to say to them.",
+      "zh": "所以有时你和陌生人在一起，你不知道该对他们说什么。"
+    },
+    {
+      "id": 207,
+      "start": 571.93,
+      "end": 576.53,
+      "en": "You can listen to our other episodes on Small Talk for things to talk about with those people.",
+      "zh": "您可以在闲聊中收听我们的其他剧集，以便与这些人谈论一些事情。"
+    },
+    {
+      "id": 208,
+      "start": 576.79,
+      "end": 577.15,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 209,
+      "start": 577.33,
+      "end": 582.53,
+      "en": "And of course, if you have any questions or comments, you can visit us at EnglishPod.com. We hope to see you all there.",
+      "zh": "当然，如果您有任何问题或意见，您可以访问 englishpod.com 访问我们。 我们希望在那里见到你们。"
+    },
+    {
+      "id": 210,
+      "start": 582.71,
+      "end": 583.31,
+      "en": "Until next time.",
+      "zh": "下次再见。"
+    },
+    {
+      "id": 211,
+      "start": 583.45,
+      "end": 583.59,
+      "en": "Bye.",
+      "zh": "再见。"
+    },
+    {
+      "id": 212,
+      "start": 584.2,
+      "end": 592.327,
+      "en": "Bye.",
+      "zh": "再见。"
+    }
+  ],
+  "dialog": {
+    "start": 29.64,
+    "end": 66.53,
+    "segmentIds": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32
+    ]
+  }
+}

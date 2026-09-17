@@ -1,0 +1,1871 @@
+{
+  "version": 1,
+  "id": 147,
+  "number": "0147",
+  "title": "Daily Life - The Argument",
+  "audio": "mp3/147. Daily Life - The Argument.mp3",
+  "duration": 686.9681875,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 7.0,
+      "en": "Hello, everyone, and welcome back to another lesson here at EnglishPod.",
+      "zh": "大家好，欢迎回到 Englishpod 的另一节课。"
+    },
+    {
+      "id": 2,
+      "start": 7.0,
+      "end": 7.41,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 8.0,
+      "end": 9.23,
+      "en": "And my name is Catherine.",
+      "zh": "我叫 Catherine。"
+    },
+    {
+      "id": 4,
+      "start": 9.48,
+      "end": 12.51,
+      "en": "And today, Marco, you and I are talking about movies, right?",
+      "zh": "而今天，马可，你和我在谈论电影，对吧？"
+    },
+    {
+      "id": 5,
+      "start": 12.96,
+      "end": 17.01,
+      "en": "We're talking a little bit about movies, but mostly we're having a big argument.",
+      "zh": "我们谈论的是一些电影，但大多数情况下我们正在争论很大。"
+    },
+    {
+      "id": 6,
+      "start": 17.33,
+      "end": 18.77,
+      "en": "Okay, I kind of like arguments.",
+      "zh": "好吧，我有点喜欢争论。"
+    },
+    {
+      "id": 7,
+      "start": 19.33,
+      "end": 21.91,
+      "en": "Lots of great words and phrases for you to learn here in English.",
+      "zh": "有很多很棒的单词和短语供您在这里用英语学习。"
+    },
+    {
+      "id": 8,
+      "start": 22.7,
+      "end": 27.57,
+      "en": "But we've got an upper intermediate level lesson with some people who are not getting along very well.",
+      "zh": "但是我们有一些相处不佳的人的中级中级课程。"
+    },
+    {
+      "id": 9,
+      "start": 28.24,
+      "end": 31.81,
+      "en": "It's a couple, a guy and a girl, and they're having a fight, as couples do.",
+      "zh": "这是一对夫妇，一个男人和一个女孩，他们正在打架，就像夫妻一样。"
+    },
+    {
+      "id": 10,
+      "start": 32.52,
+      "end": 36.9,
+      "en": "So we're going to be learning a lot of the different language that they are using in this very heated debate.",
+      "zh": "因此，我们将学习他们在这场激烈的辩论中使用的许多不同语言。"
+    },
+    {
+      "id": 11,
+      "start": 37.86,
+      "end": 41.36,
+      "en": "So let's listen to this dialogue for the first time, and then we'll be right back.",
+      "zh": "所以让我们第一次听这个对话，然后我们会马上回来。"
+    },
+    {
+      "id": 12,
+      "start": 44.04,
+      "end": 51.92,
+      "en": "Wow, that terrible movie is finally over.",
+      "zh": "哇，这部可怕的电影终于结束了。"
+    },
+    {
+      "id": 13,
+      "start": 51.92,
+      "end": 54.93,
+      "en": "Next time I'm picking the film because I don't want to end up seeing a chick flick.",
+      "zh": "下次我来选电影，我可不想又看一部专门迎合女性观众的爱情片。"
+    },
+    {
+      "id": 14,
+      "start": 55.66,
+      "end": 56.78,
+      "en": "Well, you should have picked.",
+      "zh": "好吧，你应该选择的。"
+    },
+    {
+      "id": 15,
+      "start": 56.78,
+      "end": 58.78,
+      "en": "In the end, you always complain about everything.",
+      "zh": "最后，你总是抱怨一切。"
+    },
+    {
+      "id": 16,
+      "start": 59.46,
+      "end": 60.02,
+      "en": "Not everything.",
+      "zh": "不是一切。"
+    },
+    {
+      "id": 17,
+      "start": 60.62,
+      "end": 61.38,
+      "en": "Just this film.",
+      "zh": "就是这部电影。"
+    },
+    {
+      "id": 18,
+      "start": 62.24,
+      "end": 63.22,
+      "en": "Even the title was ridiculous.",
+      "zh": "甚至标题也很荒谬。"
+    },
+    {
+      "id": 19,
+      "start": 64.2,
+      "end": 65.2,
+      "en": "And it's so long.",
+      "zh": "而且很长。"
+    },
+    {
+      "id": 20,
+      "start": 65.7,
+      "end": 68.78,
+      "en": "Those were the two and a half most wasted hours of my life.",
+      "zh": "这两个半小时，简直是我这辈子最浪费的时间。"
+    },
+    {
+      "id": 21,
+      "start": 69.25,
+      "end": 72.77,
+      "en": "So much so that I'm thinking about asking them to give me my money back.",
+      "zh": "以至于我正在考虑让他们把我的钱还给我。"
+    },
+    {
+      "id": 22,
+      "start": 73.41,
+      "end": 75.29,
+      "en": "I'm thinking of taking you back home.",
+      "zh": "我想带你回家。"
+    },
+    {
+      "id": 23,
+      "start": 75.91,
+      "end": 78.53,
+      "en": "I thought we could have a nice evening, but you're always so negative.",
+      "zh": "我以为我们可以度过一个愉快的夜晚，但你总是那么消极。"
+    },
+    {
+      "id": 24,
+      "start": 79.17,
+      "end": 84.65,
+      "en": "I'm only complaining about a movie that I could have rented or bought and then thrown in the garbage.",
+      "zh": "我只是在抱怨我本可以租或买然后扔进垃圾箱的电影。"
+    },
+    {
+      "id": 25,
+      "start": 85.29,
+      "end": 87.05,
+      "en": "You see, that's what I'm talking about.",
+      "zh": "你看，这就是我要说的。"
+    },
+    {
+      "id": 26,
+      "start": 87.39,
+      "end": 89.69,
+      "en": "I can't stand your sarcastic jokes anymore.",
+      "zh": "我再也受不了你的讽刺笑话了。"
+    },
+    {
+      "id": 27,
+      "start": 90.19,
+      "end": 93.23,
+      "en": "Next time, go with your gay friend who is more in touch with his feelings.",
+      "zh": "下次跟你那个更懂自己感受的同性恋朋友去看吧。"
+    },
+    {
+      "id": 28,
+      "start": 93.81,
+      "end": 95.29,
+      "en": "Well, he's more of a man than you are.",
+      "zh": "好吧，他比你更像一个男人。"
+    },
+    {
+      "id": 29,
+      "start": 95.79,
+      "end": 97.33,
+      "en": "At least he appreciates love stories.",
+      "zh": "至少他欣赏爱情故事。"
+    },
+    {
+      "id": 30,
+      "start": 98.05,
+      "end": 98.63,
+      "en": "Love stories?",
+      "zh": "爱情故事？"
+    },
+    {
+      "id": 31,
+      "start": 99.33,
+      "end": 100.71,
+      "en": "More like one night stands.",
+      "zh": "说是一夜情还差不多。"
+    },
+    {
+      "id": 32,
+      "start": 101.23,
+      "end": 105.33,
+      "en": "Don't criticize Mario, or else I'll start on those fat, drunk friends of yours.",
+      "zh": "别说马里奥的坏话，不然我可要数落你那帮又胖又爱喝酒的朋友了。"
+    },
+    {
+      "id": 33,
+      "start": 105.73,
+      "end": 106.27,
+      "en": "They're no saints.",
+      "zh": "他们也不是什么好人。"
+    },
+    {
+      "id": 34,
+      "start": 106.79,
+      "end": 107.25,
+      "en": "My friends?",
+      "zh": "我的朋友？"
+    },
+    {
+      "id": 35,
+      "start": 107.92,
+      "end": 108.92,
+      "en": "Fat?",
+      "zh": "胖？"
+    },
+    {
+      "id": 36,
+      "start": 108.92,
+      "end": 110.46,
+      "en": "What about those whales you call friends?",
+      "zh": "你称之为朋友的那些鲸鱼呢？"
+    },
+    {
+      "id": 37,
+      "start": 111.16,
+      "end": 111.42,
+      "en": "You're unbearable.",
+      "zh": "你无法忍受。"
+    },
+    {
+      "id": 38,
+      "start": 112.32,
+      "end": 112.96,
+      "en": "You can walk home.",
+      "zh": "你可以步行回家。"
+    },
+    {
+      "id": 39,
+      "start": 113.1,
+      "end": 113.38,
+      "en": "I'm leaving.",
+      "zh": "我要走了。"
+    },
+    {
+      "id": 40,
+      "start": 125.44,
+      "end": 127.56,
+      "en": "I think the guy was exaggerating a little bit.",
+      "zh": "我觉得这家伙有点夸张了。"
+    },
+    {
+      "id": 41,
+      "start": 127.66,
+      "end": 127.98,
+      "en": "What do you think?",
+      "zh": "你觉得怎么样？"
+    },
+    {
+      "id": 42,
+      "start": 128.72,
+      "end": 129.72,
+      "en": "I think they were both exaggerating.",
+      "zh": "我认为他们都夸张了。"
+    },
+    {
+      "id": 43,
+      "start": 129.72,
+      "end": 135.32,
+      "en": "You know, by the end of an argument, both people are saying things that maybe they don't mean.",
+      "zh": "你知道，在争论的结尾，两个人都在说他们可能没有的意思。"
+    },
+    {
+      "id": 44,
+      "start": 135.4,
+      "end": 140.98,
+      "en": "I think we'll talk a little bit more about this towards the end of the show, but now, why don't we take a look at language takeaway.",
+      "zh": "我想我们会在节目结束时多谈一点，但现在，我们为什么不看看语言外卖。"
+    },
+    {
+      "id": 45,
+      "start": 142.67,
+      "end": 143.73,
+      "en": "Language takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 46,
+      "start": 144.97,
+      "end": 152.01,
+      "en": "Alright on language takeaway today, we have four words and the first one that you probably saw in the very first sentence is a chick flick.",
+      "zh": "好吧，今天的语言外卖，我们有四个词，你在第一句话中可能看到的第一个是小鸡电影。"
+    },
+    {
+      "id": 47,
+      "start": 152.96,
+      "end": 153.3,
+      "en": "Chick flick.",
+      "zh": "小鸡轻弹。"
+    },
+    {
+      "id": 48,
+      "start": 153.96,
+      "end": 156.56,
+      "en": "So, first of all, the word chick means a woman.",
+      "zh": "所以，首先，小鸡这个词的意思是女人。"
+    },
+    {
+      "id": 49,
+      "start": 156.56,
+      "end": 158.16,
+      "en": "It's slang and it's not very nice.",
+      "zh": "这是俚语，不是很好。"
+    },
+    {
+      "id": 50,
+      "start": 158.52,
+      "end": 159.06,
+      "en": "It's not very nice.",
+      "zh": "这不是很好。"
+    },
+    {
+      "id": 51,
+      "start": 159.52,
+      "end": 160.52,
+      "en": "No.",
+      "zh": "不。"
+    },
+    {
+      "id": 52,
+      "start": 160.52,
+      "end": 166.78,
+      "en": "Well, I mean, between guys, you would use it as like, oh, this chick or that chick, but you wouldn't really walk up to a girl and call her a chick, right?",
+      "zh": "好吧，我的意思是，在男人之间，你会像，哦，这个小鸡或那个小鸡一样使用它，但你不会真的走到一个女孩面前称她为小鸡，对吧？"
+    },
+    {
+      "id": 53,
+      "start": 166.88,
+      "end": 168.14,
+      "en": "No, you wouldn't say, hey, chick, what's up?",
+      "zh": "不，你不会说，嘿，小鸡，怎么了？"
+    },
+    {
+      "id": 54,
+      "start": 170.2,
+      "end": 171.12,
+      "en": "Not something you want to say.",
+      "zh": "不是你想说的。"
+    },
+    {
+      "id": 55,
+      "start": 171.36,
+      "end": 177.28,
+      "en": "So chick is a slang word for a girl or a woman and a chick flick is a girl's movie.",
+      "zh": "所以小鸡是一个女孩或女人的俚语，小鸡电影是女孩的电影。"
+    },
+    {
+      "id": 56,
+      "start": 177.28,
+      "end": 178.38,
+      "en": "So a flick is a movie.",
+      "zh": "所以电影是一部电影。"
+    },
+    {
+      "id": 57,
+      "start": 179.08,
+      "end": 179.64,
+      "en": "Another slang word.",
+      "zh": "另一个俚语。"
+    },
+    {
+      "id": 58,
+      "start": 180.23,
+      "end": 180.63,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 59,
+      "start": 181.08,
+      "end": 182.75,
+      "en": "So this is the slang phrase for flick.",
+      "zh": "所以这是Flick的俚语。"
+    },
+    {
+      "id": 60,
+      "start": 183.08,
+      "end": 185.77,
+      "en": "So hey, Marco, what flicks are showing at the movie theater?",
+      "zh": "嘿，马可，电影院放映了哪些电影？"
+    },
+    {
+      "id": 61,
+      "start": 186.12,
+      "end": 187.12,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 62,
+      "start": 187.12,
+      "end": 188.12,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 63,
+      "start": 188.12,
+      "end": 189.12,
+      "en": "So movies.",
+      "zh": "所以电影。"
+    },
+    {
+      "id": 64,
+      "start": 189.12,
+      "end": 194.2,
+      "en": "So in the chick flick is usually a romantic movie, a drama, something that's very, um.",
+      "zh": "所以在小鸡电影中通常是一部浪漫电影，一部戏剧，非常，嗯。"
+    },
+    {
+      "id": 65,
+      "start": 194.2,
+      "end": 195.2,
+      "en": "Like beaches.",
+      "zh": "像海滩。"
+    },
+    {
+      "id": 66,
+      "start": 195.85,
+      "end": 196.93,
+      "en": "Beaches is a chick flick.",
+      "zh": "海滩是一部小鸡电影。"
+    },
+    {
+      "id": 67,
+      "start": 197.09,
+      "end": 198.09,
+      "en": "I don't know if you've ever seen that.",
+      "zh": "不知道你有没有见过。"
+    },
+    {
+      "id": 68,
+      "start": 198.4,
+      "end": 199.4,
+      "en": "I've never seen it.",
+      "zh": "我从未见过。"
+    },
+    {
+      "id": 69,
+      "start": 199.4,
+      "end": 202.88,
+      "en": "So he's just not that into you is one of those new chick flicks.",
+      "zh": "所以他只是不喜欢你是那些新的小鸡电影之一。"
+    },
+    {
+      "id": 70,
+      "start": 202.88,
+      "end": 205.28,
+      "en": "Or like how to lose a guy in 10 days.",
+      "zh": "或者喜欢如何在 10 天内失去一个人。"
+    },
+    {
+      "id": 71,
+      "start": 205.28,
+      "end": 206.28,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 72,
+      "start": 206.28,
+      "end": 208.63,
+      "en": "How to lose a guy in 10 days or the devil wears Prada.",
+      "zh": "如何在 10 天内失去一个人或穿普拉达的魔鬼。"
+    },
+    {
+      "id": 73,
+      "start": 209.57,
+      "end": 210.12,
+      "en": "Bride Wars.",
+      "zh": "新娘战争。"
+    },
+    {
+      "id": 74,
+      "start": 210.12,
+      "end": 211.12,
+      "en": "Bride Wars.",
+      "zh": "新娘战争。"
+    },
+    {
+      "id": 75,
+      "start": 211.12,
+      "end": 212.12,
+      "en": "Wow.",
+      "zh": "哇。"
+    },
+    {
+      "id": 76,
+      "start": 212.12,
+      "end": 213.12,
+      "en": "Lots of chick flicks.",
+      "zh": "很多小鸡电影。"
+    },
+    {
+      "id": 77,
+      "start": 213.12,
+      "end": 215.32,
+      "en": "I've actually never seen any one of these except how to lose a guy in 10 days.",
+      "zh": "我实际上从未见过其中任何一种，除了如何在 10 天内失去一个人。"
+    },
+    {
+      "id": 78,
+      "start": 215.32,
+      "end": 216.88,
+      "en": "I've actually only seen that one.",
+      "zh": "其实我只见过那一本。"
+    },
+    {
+      "id": 79,
+      "start": 216.95,
+      "end": 217.27,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 80,
+      "start": 217.88,
+      "end": 221.48,
+      "en": "So chick flick is a girl's or woman's movie.",
+      "zh": "所以 Chick Flick 是女孩或女人的电影。"
+    },
+    {
+      "id": 81,
+      "start": 221.48,
+      "end": 223.09,
+      "en": "And next up we have a word, sarcastic.",
+      "zh": "接下来我们有一个词，讽刺。"
+    },
+    {
+      "id": 82,
+      "start": 224.24,
+      "end": 225.41,
+      "en": "We're talking about sarcastic jokes.",
+      "zh": "我们在谈论讽刺的笑话。"
+    },
+    {
+      "id": 83,
+      "start": 226.03,
+      "end": 228.67,
+      "en": "So sarcastic jokes or somebody being sarcastic.",
+      "zh": "如此讽刺的笑话或讽刺的人。"
+    },
+    {
+      "id": 84,
+      "start": 229.31,
+      "end": 230.67,
+      "en": "God, Marco, you're always so sarcastic.",
+      "zh": "上帝，马可，你总是那么讽刺。"
+    },
+    {
+      "id": 85,
+      "start": 231.13,
+      "end": 232.65,
+      "en": "So what would sarcasm sound like?",
+      "zh": "那么讽刺听起来是什么样的呢？"
+    },
+    {
+      "id": 86,
+      "start": 233.76,
+      "end": 236.92,
+      "en": "Um, yeah, he's really funny.",
+      "zh": "嗯，是的，他真的很有趣。"
+    },
+    {
+      "id": 87,
+      "start": 236.92,
+      "end": 238.44,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 88,
+      "start": 238.44,
+      "end": 240.13,
+      "en": "So it's not really what you're saying.",
+      "zh": "所以这不是你在说什么。"
+    },
+    {
+      "id": 89,
+      "start": 240.13,
+      "end": 241.83,
+      "en": "It's kind of how you're saying it.",
+      "zh": "这有点像你说的方式。"
+    },
+    {
+      "id": 90,
+      "start": 242.18,
+      "end": 242.68,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 91,
+      "start": 242.68,
+      "end": 245.94,
+      "en": "So it's kind of like by saying, he's really funny.",
+      "zh": "所以这有点像说，他真的很有趣。"
+    },
+    {
+      "id": 92,
+      "start": 246.44,
+      "end": 247.56,
+      "en": "You're saying, yeah, he's a funny guy.",
+      "zh": "你说，是的，他是个有趣的人。"
+    },
+    {
+      "id": 93,
+      "start": 247.72,
+      "end": 250.52,
+      "en": "But if I say, oh, he's really funny.",
+      "zh": "但如果我说，哦，他真的很有趣。"
+    },
+    {
+      "id": 94,
+      "start": 250.68,
+      "end": 252.26,
+      "en": "I'm saying he's not funny.",
+      "zh": "我说他不好笑。"
+    },
+    {
+      "id": 95,
+      "start": 253.04,
+      "end": 254.42,
+      "en": "He's being mean or he's a jerk.",
+      "zh": "他是卑鄙的，或者他是个混蛋。"
+    },
+    {
+      "id": 96,
+      "start": 255.84,
+      "end": 261.58,
+      "en": "Sarcasm is kind of one of those things that it's a little bit difficult to learn how to do or to actually get it right.",
+      "zh": "讽刺是一种很难学习如何做或真正做到正确的事情之一。"
+    },
+    {
+      "id": 97,
+      "start": 262.76,
+      "end": 263.14,
+      "en": "Especially in English.",
+      "zh": "尤其是英语。"
+    },
+    {
+      "id": 98,
+      "start": 263.76,
+      "end": 264.76,
+      "en": "Right?",
+      "zh": "对吧？"
+    },
+    {
+      "id": 99,
+      "start": 264.76,
+      "end": 265.76,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 100,
+      "start": 265.76,
+      "end": 266.76,
+      "en": "Marco, great explanation.",
+      "zh": "马可，很好的解释。"
+    },
+    {
+      "id": 101,
+      "start": 266.84,
+      "end": 267.18,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 102,
+      "start": 267.64,
+      "end": 268.24,
+      "en": "That's the way it goes.",
+      "zh": "这就是它的方式。"
+    },
+    {
+      "id": 103,
+      "start": 268.48,
+      "end": 268.6,
+      "en": "Oh, yeah.",
+      "zh": "哦，对。"
+    },
+    {
+      "id": 104,
+      "start": 268.66,
+      "end": 269.28,
+      "en": "You're so funny.",
+      "zh": "你真有趣。"
+    },
+    {
+      "id": 105,
+      "start": 270.76,
+      "end": 271.76,
+      "en": "So you're amazing.",
+      "zh": "所以你很了不起。"
+    },
+    {
+      "id": 106,
+      "start": 271.76,
+      "end": 272.76,
+      "en": "You should go to you.",
+      "zh": "你应该去找你。"
+    },
+    {
+      "id": 107,
+      "start": 272.76,
+      "end": 273.64,
+      "en": "You went to sarcasm school.",
+      "zh": "你去了讽刺学校。"
+    },
+    {
+      "id": 108,
+      "start": 273.76,
+      "end": 274.76,
+      "en": "So my parents like to say.",
+      "zh": "所以我的父母喜欢说。"
+    },
+    {
+      "id": 109,
+      "start": 274.76,
+      "end": 275.76,
+      "en": "You can be really mean, Catherine.",
+      "zh": "你真的很刻薄，凯瑟琳。"
+    },
+    {
+      "id": 110,
+      "start": 275.76,
+      "end": 276.76,
+      "en": "Sorry.",
+      "zh": "抱歉。"
+    },
+    {
+      "id": 111,
+      "start": 276.76,
+      "end": 277.76,
+      "en": "Just kidding.",
+      "zh": "开个玩笑。"
+    },
+    {
+      "id": 112,
+      "start": 277.76,
+      "end": 278.76,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 113,
+      "start": 279.24,
+      "end": 282.86,
+      "en": "So apart from being sarcastic, you can criticize someone.",
+      "zh": "所以除了讽刺之外，你还可以批评某人。"
+    },
+    {
+      "id": 114,
+      "start": 283.6,
+      "end": 284.3,
+      "en": "Like you're ever critical.",
+      "zh": "就像你一直很挑剔。"
+    },
+    {
+      "id": 115,
+      "start": 285.34,
+      "end": 285.88,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 116,
+      "start": 286.56,
+      "end": 287.3,
+      "en": "Sorry, I'll stop.",
+      "zh": "对不起，我会停下来。"
+    },
+    {
+      "id": 117,
+      "start": 287.88,
+      "end": 289.4,
+      "en": "You're really into character right now.",
+      "zh": "你现在真的很喜欢性格。"
+    },
+    {
+      "id": 118,
+      "start": 289.48,
+      "end": 289.62,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 119,
+      "start": 289.78,
+      "end": 297.44,
+      "en": "So critical to criticize someone is to complain about them or to say that the things that they do are not very good.",
+      "zh": "批评某人的关键是抱怨他们或说他们所做的事情不是很好。"
+    },
+    {
+      "id": 120,
+      "start": 297.72,
+      "end": 299.6,
+      "en": "So you can criticize a person or a movie.",
+      "zh": "所以你可以批评一个人或一部电影。"
+    },
+    {
+      "id": 121,
+      "start": 300.11,
+      "end": 300.49,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 122,
+      "start": 300.49,
+      "end": 302.25,
+      "en": "So this movie wasn't very good.",
+      "zh": "所以这部电影不是很好。"
+    },
+    {
+      "id": 123,
+      "start": 302.43,
+      "end": 303.05,
+      "en": "It wasn't funny.",
+      "zh": "这并不好笑。"
+    },
+    {
+      "id": 124,
+      "start": 303.27,
+      "end": 304.27,
+      "en": "The actors were bad.",
+      "zh": "演员很糟糕。"
+    },
+    {
+      "id": 125,
+      "start": 304.51,
+      "end": 305.59,
+      "en": "It was really long.",
+      "zh": "真的很长。"
+    },
+    {
+      "id": 126,
+      "start": 306.01,
+      "end": 306.65,
+      "en": "These are criticisms.",
+      "zh": "这些是批评。"
+    },
+    {
+      "id": 127,
+      "start": 307.31,
+      "end": 307.79,
+      "en": "Criticisms.",
+      "zh": "批评。"
+    },
+    {
+      "id": 128,
+      "start": 307.79,
+      "end": 308.35,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 129,
+      "start": 308.83,
+      "end": 312.71,
+      "en": "Well, and then moving on, the girl was finally tired of the guy and his complaints.",
+      "zh": "好吧，然后继续前进，女孩终于厌倦了那个男人和他的抱怨。"
+    },
+    {
+      "id": 130,
+      "start": 313.08,
+      "end": 315.11,
+      "en": "And she said he's unbearable.",
+      "zh": "她说他难以忍受。"
+    },
+    {
+      "id": 131,
+      "start": 315.99,
+      "end": 317.03,
+      "en": "Gosh, you're unbearable.",
+      "zh": "天哪，你太难以忍受了。"
+    },
+    {
+      "id": 132,
+      "start": 317.63,
+      "end": 322.35,
+      "en": "So the root of this word is to be able to like to stand something, to bear it.",
+      "zh": "所以这个词的根源是能够喜欢站着，忍受它。"
+    },
+    {
+      "id": 133,
+      "start": 322.73,
+      "end": 327.37,
+      "en": "And so if you're unbearable, something is unbearable, you just can't stand it.",
+      "zh": "所以如果你无法忍受，有些东西是无法忍受的，你就是无法忍受。"
+    },
+    {
+      "id": 134,
+      "start": 327.68,
+      "end": 327.94,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 135,
+      "start": 328.68,
+      "end": 329.14,
+      "en": "So you're tired of it.",
+      "zh": "所以你厌倦了它。"
+    },
+    {
+      "id": 136,
+      "start": 329.68,
+      "end": 330.16,
+      "en": "You can't stand it.",
+      "zh": "你受不了。"
+    },
+    {
+      "id": 137,
+      "start": 330.68,
+      "end": 333.84,
+      "en": "She thinks he's so unbearable, she makes him get out of the car.",
+      "zh": "她认为他太难以忍受了，她让他下车。"
+    },
+    {
+      "id": 138,
+      "start": 334.24,
+      "end": 334.56,
+      "en": "And she leaves.",
+      "zh": "她离开了。"
+    },
+    {
+      "id": 139,
+      "start": 335.24,
+      "end": 336.24,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 140,
+      "start": 336.24,
+      "end": 337.24,
+      "en": "She said you can walk home.",
+      "zh": "她说你可以步行回家。"
+    },
+    {
+      "id": 141,
+      "start": 337.24,
+      "end": 337.4,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 142,
+      "start": 338.24,
+      "end": 339.82,
+      "en": "So that's an unbearable person, right?",
+      "zh": "所以这是一个无法忍受的人，对吧？"
+    },
+    {
+      "id": 143,
+      "start": 340.48,
+      "end": 341.48,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 144,
+      "start": 341.48,
+      "end": 345.4,
+      "en": "So we took a look at those four main words here in our dialogue.",
+      "zh": "所以我们在对话中看了这四个主要词。"
+    },
+    {
+      "id": 145,
+      "start": 346.44,
+      "end": 349.9,
+      "en": "Let's move on now to some of the phrases that we found in Fluency Builder.",
+      "zh": "现在让我们继续讨论我们在 Flueny Builder 中发现的一些短语。"
+    },
+    {
+      "id": 146,
+      "start": 352.0,
+      "end": 352.22,
+      "en": "Fluency Builder.",
+      "zh": "流利表达。"
+    },
+    {
+      "id": 147,
+      "start": 353.76,
+      "end": 359.96,
+      "en": "This first one's a common one, especially when we talk about women and men and the relationship between women and men.",
+      "zh": "第一个是常见的，尤其是当我们谈论女性和男性以及女性和男性之间的关系时。"
+    },
+    {
+      "id": 148,
+      "start": 360.08,
+      "end": 366.28,
+      "en": "We say about men that maybe they should be more in touch with their feelings or their feminine side.",
+      "zh": "我们说男人可能应该更多地了解他们的感受或女性的一面。"
+    },
+    {
+      "id": 149,
+      "start": 366.28,
+      "end": 367.28,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 150,
+      "start": 367.28,
+      "end": 373.26,
+      "en": "Okay, so if you're saying to be more in touch with your feminine side, what exactly are you saying?",
+      "zh": "好吧，所以如果你说要更多地接触你的女性方面，你到底在说什么？"
+    },
+    {
+      "id": 151,
+      "start": 374.0,
+      "end": 375.0,
+      "en": "It's a good question.",
+      "zh": "这是一个很好的问题。"
+    },
+    {
+      "id": 152,
+      "start": 375.0,
+      "end": 385.03,
+      "en": "Well, what you're saying is that you want to be able to express your feelings more or you want to be able to understand more about your feminine side or something like this.",
+      "zh": "好吧，你所说的是你希望能够更多地表达你的感受，或者你希望能够更多地了解你女性的一面或类似的东西。"
+    },
+    {
+      "id": 153,
+      "start": 385.28,
+      "end": 388.46,
+      "en": "So to be in touch with is more about yourself.",
+      "zh": "所以接触更多是关于你自己。"
+    },
+    {
+      "id": 154,
+      "start": 388.46,
+      "end": 392.12,
+      "en": "It's about self-reflection and self-understanding.",
+      "zh": "这是关于自我反思和自我理解的。"
+    },
+    {
+      "id": 155,
+      "start": 392.12,
+      "end": 396.28,
+      "en": "So you could say, I'm a very serious person, but I want to make some changes in my life.",
+      "zh": "所以你可以说，我是一个非常认真的人，但我想在我的生活中做出一些改变。"
+    },
+    {
+      "id": 156,
+      "start": 396.28,
+      "end": 399.32,
+      "en": "So I'm trying to be more in touch with my inner child.",
+      "zh": "所以我正在努力与我内心的孩子保持更多的联系。"
+    },
+    {
+      "id": 157,
+      "start": 399.32,
+      "end": 400.1,
+      "en": "Your inner child.",
+      "zh": "你内心的孩子。"
+    },
+    {
+      "id": 158,
+      "start": 401.0,
+      "end": 401.32,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 159,
+      "start": 401.76,
+      "end": 407.1,
+      "en": "So to be in touch with, and it's usually related to feelings, to something intangible.",
+      "zh": "因此，与感觉联系，通常与感觉有关，与无形的事物保持联系。"
+    },
+    {
+      "id": 160,
+      "start": 407.1,
+      "end": 407.96,
+      "en": "Or to behavior.",
+      "zh": "或行为。"
+    },
+    {
+      "id": 161,
+      "start": 408.48,
+      "end": 409.48,
+      "en": "To behavior.",
+      "zh": "到行为。"
+    },
+    {
+      "id": 162,
+      "start": 409.92,
+      "end": 410.14,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 163,
+      "start": 410.6,
+      "end": 414.68,
+      "en": "Moving on now, a heated phrase, a one night stand.",
+      "zh": "现在继续前进，一个激烈的短语，一个一夜情。"
+    },
+    {
+      "id": 164,
+      "start": 415.1,
+      "end": 417.0,
+      "en": "Oh, I'll let you explain this one, Marco.",
+      "zh": "哦，我让你解释一下，马可。"
+    },
+    {
+      "id": 165,
+      "start": 417.64,
+      "end": 417.86,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 166,
+      "start": 417.86,
+      "end": 425.62,
+      "en": "So a one night stand is a casual and very quick temporal encounter that's usually a sexual encounter.",
+      "zh": "因此，一床头柜是一种随意且非常快速的暂时相遇，通常是性接触。"
+    },
+    {
+      "id": 167,
+      "start": 426.22,
+      "end": 427.14,
+      "en": "It's romantic, right?",
+      "zh": "这很浪漫，对吧？"
+    },
+    {
+      "id": 168,
+      "start": 427.36,
+      "end": 430.68,
+      "en": "So it can be between two different people.",
+      "zh": "所以它可以在两个不同的人之间。"
+    },
+    {
+      "id": 169,
+      "start": 430.68,
+      "end": 431.8,
+      "en": "They meet each other one night.",
+      "zh": "他们一晚见面。"
+    },
+    {
+      "id": 170,
+      "start": 432.96,
+      "end": 437.0,
+      "en": "They have a relationship for one night only, and then they never see each other again.",
+      "zh": "他们只有一晚的关系，然后他们再也见不到对方。"
+    },
+    {
+      "id": 171,
+      "start": 437.28,
+      "end": 438.28,
+      "en": "So it's casual.",
+      "zh": "所以很随意。"
+    },
+    {
+      "id": 172,
+      "start": 438.28,
+      "end": 438.5,
+      "en": "It's casual.",
+      "zh": "它很随意。"
+    },
+    {
+      "id": 173,
+      "start": 439.58,
+      "end": 440.24,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 174,
+      "start": 440.72,
+      "end": 441.7,
+      "en": "So yeah, you would see this.",
+      "zh": "所以，是的，你会看到这个。"
+    },
+    {
+      "id": 175,
+      "start": 442.0,
+      "end": 445.28,
+      "en": "You see this a lot in shows like, you know, Sex in the City and all that stuff.",
+      "zh": "你在节目中经常看到这一点，比如，你知道，城市中的性爱和所有这些东西。"
+    },
+    {
+      "id": 176,
+      "start": 445.28,
+      "end": 447.74,
+      "en": "Yeah, they have a lot of one night stands in that show.",
+      "zh": "是的，他们在那个节目中有很多一夜情。"
+    },
+    {
+      "id": 177,
+      "start": 448.18,
+      "end": 448.42,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 178,
+      "start": 448.72,
+      "end": 450.08,
+      "en": "So a one night stand.",
+      "zh": "所以一间床位。"
+    },
+    {
+      "id": 179,
+      "start": 450.96,
+      "end": 456.7,
+      "en": "And well, related to this, the girl was criticizing his friends, and she said, they're no saints.",
+      "zh": "好吧，与此相关的是，这个女孩在批评他的朋友，她说，他们不是圣人。"
+    },
+    {
+      "id": 180,
+      "start": 457.36,
+      "end": 457.74,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 181,
+      "start": 457.78,
+      "end": 459.3,
+      "en": "So we can say this in many different ways.",
+      "zh": "所以我们可以用许多不同的方式来表达这一点。"
+    },
+    {
+      "id": 182,
+      "start": 459.68,
+      "end": 460.34,
+      "en": "He's no saint.",
+      "zh": "他不是圣人。"
+    },
+    {
+      "id": 183,
+      "start": 460.62,
+      "end": 461.52,
+      "en": "She's no saint.",
+      "zh": "她不是圣人。"
+    },
+    {
+      "id": 184,
+      "start": 462.1,
+      "end": 462.9,
+      "en": "Or I'm no saint.",
+      "zh": "或者我不是圣人。"
+    },
+    {
+      "id": 185,
+      "start": 462.98,
+      "end": 463.52,
+      "en": "You're no saint.",
+      "zh": "你不是圣人。"
+    },
+    {
+      "id": 186,
+      "start": 463.72,
+      "end": 465.0,
+      "en": "So a saint is a good person.",
+      "zh": "所以圣人是个好人。"
+    },
+    {
+      "id": 187,
+      "start": 465.24,
+      "end": 472.38,
+      "en": "It's a word that we use in religion to say someone who's like Mother Teresa, or someone who's just really good and kind.",
+      "zh": "这是我们在宗教中用来表达像特蕾莎修女一样的人，或者是非常善良和善良的人。"
+    },
+    {
+      "id": 188,
+      "start": 472.7,
+      "end": 473.66,
+      "en": "Doesn't commit any sins.",
+      "zh": "不犯任何罪。"
+    },
+    {
+      "id": 189,
+      "start": 473.92,
+      "end": 474.32,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 190,
+      "start": 474.7,
+      "end": 478.62,
+      "en": "And so to say, I'm no saint is to say, well, I do bad things, or I say bad things.",
+      "zh": "所以说，我不是圣人，就是说，好吧，我做坏事，或者我说坏话。"
+    },
+    {
+      "id": 191,
+      "start": 478.76,
+      "end": 479.76,
+      "en": "I'm not perfect.",
+      "zh": "我并不完美。"
+    },
+    {
+      "id": 192,
+      "start": 479.76,
+      "end": 480.76,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 193,
+      "start": 480.76,
+      "end": 482.36,
+      "en": "So he or they, they're no saints.",
+      "zh": "所以他或他们，他们不是圣人。"
+    },
+    {
+      "id": 194,
+      "start": 482.8,
+      "end": 483.76,
+      "en": "They do bad stuff too.",
+      "zh": "他们也做坏事。"
+    },
+    {
+      "id": 195,
+      "start": 484.02,
+      "end": 484.6,
+      "en": "Yeah, very good.",
+      "zh": "对，很好。"
+    },
+    {
+      "id": 196,
+      "start": 485.0,
+      "end": 488.88,
+      "en": "So that's the way that you would use, he's no saint, they're no saints.",
+      "zh": "所以这就是你使用的方式，他不是圣人，他们不是圣人。"
+    },
+    {
+      "id": 197,
+      "start": 488.88,
+      "end": 489.0,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 198,
+      "start": 489.18,
+      "end": 493.28,
+      "en": "So I think now we should listen to our dialogue for the last time, and we'll be right back.",
+      "zh": "所以我认为现在我们应该最后一次听我们的对话，我们会马上回来的。"
+    },
+    {
+      "id": 199,
+      "start": 495.8,
+      "end": 504.76,
+      "en": "Wow, that terrible movie is finally over.",
+      "zh": "哇，这部可怕的电影终于结束了。"
+    },
+    {
+      "id": 200,
+      "start": 504.76,
+      "end": 507.79,
+      "en": "Next time I'm picking the film because I don't want to end up seeing a chick flick.",
+      "zh": "下次我来选电影，我可不想又看一部专门迎合女性观众的爱情片。"
+    },
+    {
+      "id": 201,
+      "start": 508.65,
+      "end": 509.65,
+      "en": "Well, you should have picked.",
+      "zh": "好吧，你应该选择的。"
+    },
+    {
+      "id": 202,
+      "start": 510.0,
+      "end": 511.65,
+      "en": "In the end, you always complain about everything.",
+      "zh": "最后，你总是抱怨一切。"
+    },
+    {
+      "id": 203,
+      "start": 512.72,
+      "end": 514.19,
+      "en": "Not everything, just this film.",
+      "zh": "不是所有的，只是这部电影。"
+    },
+    {
+      "id": 204,
+      "start": 515.12,
+      "end": 517.08,
+      "en": "Even the title was ridiculous.",
+      "zh": "甚至标题也很荒谬。"
+    },
+    {
+      "id": 205,
+      "start": 517.08,
+      "end": 518.05,
+      "en": "And it's so long.",
+      "zh": "而且很长。"
+    },
+    {
+      "id": 206,
+      "start": 518.69,
+      "end": 521.63,
+      "en": "Those were the two and a half most wasted hours of my life.",
+      "zh": "这两个半小时，简直是我这辈子最浪费的时间。"
+    },
+    {
+      "id": 207,
+      "start": 522.27,
+      "end": 525.57,
+      "en": "So much so that I'm thinking about asking them to give me my money back.",
+      "zh": "以至于我正在考虑让他们把我的钱还给我。"
+    },
+    {
+      "id": 208,
+      "start": 526.27,
+      "end": 528.19,
+      "en": "I'm thinking of taking you back home.",
+      "zh": "我想带你回家。"
+    },
+    {
+      "id": 209,
+      "start": 528.69,
+      "end": 531.39,
+      "en": "I thought we could have a nice evening, but you're always so negative.",
+      "zh": "我以为我们可以度过一个愉快的夜晚，但你总是那么消极。"
+    },
+    {
+      "id": 210,
+      "start": 532.03,
+      "end": 537.51,
+      "en": "I'm only complaining about a movie that I could have rented or bought and then thrown in the garbage.",
+      "zh": "我只是在抱怨我本可以租或买然后扔进垃圾箱的电影。"
+    },
+    {
+      "id": 211,
+      "start": 538.15,
+      "end": 539.91,
+      "en": "You see, that's what I'm talking about.",
+      "zh": "你看，这就是我要说的。"
+    },
+    {
+      "id": 212,
+      "start": 540.21,
+      "end": 542.59,
+      "en": "I can't stand your sarcastic jokes anymore.",
+      "zh": "我再也受不了你的讽刺笑话了。"
+    },
+    {
+      "id": 213,
+      "start": 543.03,
+      "end": 546.09,
+      "en": "Next time, go with your gay friend who's more in touch with his feelings.",
+      "zh": "下一次，和你的同性恋朋友一起去，他的感受更能接触到他的感受。"
+    },
+    {
+      "id": 214,
+      "start": 546.67,
+      "end": 548.13,
+      "en": "Well, he's more of a man than you are.",
+      "zh": "好吧，他比你更像一个男人。"
+    },
+    {
+      "id": 215,
+      "start": 548.57,
+      "end": 550.19,
+      "en": "At least he appreciates love stories.",
+      "zh": "至少他欣赏爱情故事。"
+    },
+    {
+      "id": 216,
+      "start": 550.89,
+      "end": 551.49,
+      "en": "Love stories?",
+      "zh": "爱情故事？"
+    },
+    {
+      "id": 217,
+      "start": 552.17,
+      "end": 553.57,
+      "en": "More like one night stands.",
+      "zh": "更像是一夜情。"
+    },
+    {
+      "id": 218,
+      "start": 554.07,
+      "end": 558.17,
+      "en": "Don't criticize Mario, or else I'll start on those fat drunk friends of yours.",
+      "zh": "不要批评马里奥，否则我会从你那些醉酒的朋友开始。"
+    },
+    {
+      "id": 219,
+      "start": 558.59,
+      "end": 559.13,
+      "en": "They're no saints.",
+      "zh": "他们不是圣人。"
+    },
+    {
+      "id": 220,
+      "start": 559.67,
+      "end": 560.11,
+      "en": "My friends?",
+      "zh": "我的朋友？"
+    },
+    {
+      "id": 221,
+      "start": 560.76,
+      "end": 561.76,
+      "en": "Fat?",
+      "zh": "脂肪？"
+    },
+    {
+      "id": 222,
+      "start": 561.76,
+      "end": 563.35,
+      "en": "What about those whales you call friends?",
+      "zh": "你称之为朋友的那些鲸鱼呢？"
+    },
+    {
+      "id": 223,
+      "start": 564.04,
+      "end": 564.31,
+      "en": "You're unbearable.",
+      "zh": "你无法忍受。"
+    },
+    {
+      "id": 224,
+      "start": 565.16,
+      "end": 565.81,
+      "en": "You can walk home.",
+      "zh": "你可以步行回家。"
+    },
+    {
+      "id": 225,
+      "start": 565.95,
+      "end": 566.27,
+      "en": "I'm leaving.",
+      "zh": "我要走了。"
+    },
+    {
+      "id": 226,
+      "start": 567.16,
+      "end": 568.16,
+      "en": "Bye.",
+      "zh": "再见。"
+    },
+    {
+      "id": 227,
+      "start": 568.16,
+      "end": 569.16,
+      "en": "Good luck.",
+      "zh": "祝你好运。"
+    },
+    {
+      "id": 228,
+      "start": 569.16,
+      "end": 570.16,
+      "en": "Bye.",
+      "zh": "再见。"
+    },
+    {
+      "id": 229,
+      "start": 580.63,
+      "end": 585.41,
+      "en": "All right, so, Catherine, is this an argument that you would say is typical among couples?",
+      "zh": "好吧，那么，凯瑟琳，这是你会说在夫妻中典型的论点吗？"
+    },
+    {
+      "id": 230,
+      "start": 585.72,
+      "end": 587.79,
+      "en": "Or maybe people that are probably about to break up?",
+      "zh": "或者也许那些可能即将分手的人？"
+    },
+    {
+      "id": 231,
+      "start": 589.42,
+      "end": 591.01,
+      "en": "Not couples that are happy, I would say.",
+      "zh": "我会说，不是快乐的夫妻。"
+    },
+    {
+      "id": 232,
+      "start": 591.44,
+      "end": 593.69,
+      "en": "But yeah, you definitely have people who are...",
+      "zh": "但是，是的，你肯定有一些人..."
+    },
+    {
+      "id": 233,
+      "start": 594.24,
+      "end": 596.69,
+      "en": "Well, I guess it's kind of the battle of the sexes, right?",
+      "zh": "好吧，我想这是性别之战，对吧？"
+    },
+    {
+      "id": 234,
+      "start": 596.84,
+      "end": 601.42,
+      "en": "You have people who are different genders and so they don't always understand each other.",
+      "zh": "你有不同性别的人，所以他们并不总是互相理解。"
+    },
+    {
+      "id": 235,
+      "start": 601.5,
+      "end": 608.36,
+      "en": "You know, you want to have your girlfriends as a girl and your girlfriends behave and talk in a certain way together and guys do the same thing but with their friends.",
+      "zh": "你知道，你想让你的女朋友作为一个女孩，你的女朋友一起表现和交谈，男人和他们的朋友做同样的事情。"
+    },
+    {
+      "id": 236,
+      "start": 608.66,
+      "end": 616.12,
+      "en": "And so sometimes you have these clashes, these interactions that are negative and you know when people are upset with each other, they say mean things.",
+      "zh": "所以有时你会发生这些冲突，这些互动是消极的，你知道当人们互相不高兴时，他们会说刻薄的话。"
+    },
+    {
+      "id": 237,
+      "start": 616.12,
+      "end": 619.31,
+      "en": "And especially I think in this case, they don't really like each other's friends.",
+      "zh": "尤其是我认为在这种情况下，他们并不真正喜欢彼此的朋友。"
+    },
+    {
+      "id": 238,
+      "start": 619.77,
+      "end": 620.25,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 239,
+      "start": 620.56,
+      "end": 622.44,
+      "en": "And that's a kind of a common thing.",
+      "zh": "这是一种常见的事情。"
+    },
+    {
+      "id": 240,
+      "start": 622.44,
+      "end": 629.6,
+      "en": "Like a guy doesn't like his girlfriend's friends because maybe they gossip too much or something like that.",
+      "zh": "就像一个男人不喜欢他女朋友的朋友，因为他们可能八卦太多或类似的东西。"
+    },
+    {
+      "id": 241,
+      "start": 629.6,
+      "end": 630.6,
+      "en": "And the same thing with the girls, right?",
+      "zh": "和女孩们一样，对吧？"
+    },
+    {
+      "id": 242,
+      "start": 630.67,
+      "end": 632.57,
+      "en": "Because a guy's friends maybe drink too much.",
+      "zh": "因为一个男人的朋友可能喝得太多了。"
+    },
+    {
+      "id": 243,
+      "start": 632.72,
+      "end": 634.76,
+      "en": "Drink too much, play too many card games.",
+      "zh": "喝太多，玩太多的纸牌游戏。"
+    },
+    {
+      "id": 244,
+      "start": 634.76,
+      "end": 635.76,
+      "en": "They're single.",
+      "zh": "他们是单身。"
+    },
+    {
+      "id": 245,
+      "start": 636.18,
+      "end": 642.74,
+      "en": "So I think a lot of times these problems also have to do with the fact that like when a girl is with her girlfriend, she maybe acts differently.",
+      "zh": "所以我认为很多时候这些问题也与这样一个事实有关，就像一个女孩和她的女朋友在一起时，她的行为可能不同。"
+    },
+    {
+      "id": 246,
+      "start": 643.0,
+      "end": 644.6,
+      "en": "Or when a guy is with his guy friends.",
+      "zh": "或者当一个男人和他的男朋友在一起时。"
+    },
+    {
+      "id": 247,
+      "start": 644.84,
+      "end": 651.04,
+      "en": "And so that's weird sometimes for the relationship because you see your partner acting differently with other people.",
+      "zh": "所以有时这对这种关系来说很奇怪，因为你看到你的伴侣与其他人的行为不同。"
+    },
+    {
+      "id": 248,
+      "start": 651.04,
+      "end": 652.04,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 249,
+      "start": 652.04,
+      "end": 653.52,
+      "en": "So, do you like your boyfriend or girlfriend's friends?",
+      "zh": "那么，你喜欢你男朋友或女朋友的朋友吗？"
+    },
+    {
+      "id": 250,
+      "start": 653.52,
+      "end": 655.4,
+      "en": "Do you get in fights about this kind of stuff?",
+      "zh": "你会因为这种东西而吵架吗？"
+    },
+    {
+      "id": 251,
+      "start": 655.4,
+      "end": 656.4,
+      "en": "Or you know what?",
+      "zh": "或者你知道什么？"
+    },
+    {
+      "id": 252,
+      "start": 656.4,
+      "end": 657.4,
+      "en": "The in-laws.",
+      "zh": "姻亲。"
+    },
+    {
+      "id": 253,
+      "start": 657.4,
+      "end": 659.68,
+      "en": "Oh, that's a whole another situation.",
+      "zh": "哦，这完全是另一种情况。"
+    },
+    {
+      "id": 254,
+      "start": 659.68,
+      "end": 661.68,
+      "en": "That's a whole another situation.",
+      "zh": "那完全是另一种情况。"
+    },
+    {
+      "id": 255,
+      "start": 661.68,
+      "end": 662.68,
+      "en": "Absolutely.",
+      "zh": "当然。"
+    },
+    {
+      "id": 256,
+      "start": 662.68,
+      "end": 674.04,
+      "en": "Alright, so we want to hear from you and also if you have any questions or comment suggestions, come to EnglishPod.com and you can leave it on our lessons page or you can email us at EnglishPod at PraxisLanguage.com.",
+      "zh": "好的，我们希望收到您的来信，如果您有任何问题或评论建议，请访问 Englishpod.com，您可以将其留在我们的课程页面上，或者您可以通过 Praxislanguage.com 的 Englishpod 给我们发送电子邮件。"
+    },
+    {
+      "id": 257,
+      "start": 674.04,
+      "end": 675.32,
+      "en": "We hope to see you on the website in the near future.",
+      "zh": "我们希望在不久的将来在网站上见到您。"
+    },
+    {
+      "id": 258,
+      "start": 675.8,
+      "end": 676.5,
+      "en": "Please get in touch with us.",
+      "zh": "请与我们联系。"
+    },
+    {
+      "id": 259,
+      "start": 677.04,
+      "end": 677.46,
+      "en": "That's all for today.",
+      "zh": "这就是今天的全部内容。"
+    },
+    {
+      "id": 260,
+      "start": 678.04,
+      "end": 679.04,
+      "en": "So bye-bye.",
+      "zh": "所以再见。"
+    },
+    {
+      "id": 261,
+      "start": 679.04,
+      "end": 682.04,
+      "en": "Bye-bye.",
+      "zh": "拜拜。"
+    }
+  ],
+  "dialog": {
+    "start": 44.04,
+    "end": 113.38,
+    "segmentIds": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39
+    ]
+  }
+}

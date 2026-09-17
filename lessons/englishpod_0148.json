@@ -1,0 +1,1826 @@
+{
+  "version": 1,
+  "id": 148,
+  "number": "0148",
+  "title": "Daily Life - Paranoid",
+  "audio": "mp3/148. Daily Life - Paranoid.mp3",
+  "duration": 777.7436875,
+  "segments": [
+    {
+      "id": 1,
+      "start": 3.48,
+      "end": 7.24,
+      "en": "Hello, everyone, and welcome back to another lesson here at EnglishPod.",
+      "zh": "大家好，欢迎回到 Englishpod 的另一节课。"
+    },
+    {
+      "id": 2,
+      "start": 7.46,
+      "end": 7.92,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 8.48,
+      "end": 9.0,
+      "en": "And my name is Catherine.",
+      "zh": "我叫 Catherine。"
+    },
+    {
+      "id": 4,
+      "start": 9.48,
+      "end": 11.0,
+      "en": "So, Marco, what are we talking about today?",
+      "zh": "那么，马可，我们今天在说什么？"
+    },
+    {
+      "id": 5,
+      "start": 11.52,
+      "end": 18.02,
+      "en": "Today, we are taking a look at a guy who is a little bit too afraid of people in general.",
+      "zh": "今天，我们来看看一个有点太害怕一般人的人。"
+    },
+    {
+      "id": 6,
+      "start": 18.36,
+      "end": 24.1,
+      "en": "There's a good word for this in English, someone who's almost too afraid all the time, someone who is overly cautious.",
+      "zh": "英语中有一个好词，一个几乎一直害怕的人，一个过于谨慎的人。"
+    },
+    {
+      "id": 7,
+      "start": 24.26,
+      "end": 26.02,
+      "en": "We call this person paranoid.",
+      "zh": "我们称这个人偏执。"
+    },
+    {
+      "id": 8,
+      "start": 26.48,
+      "end": 34.07,
+      "en": "Okay, so if you are paranoid, you think that everyone wants to hurt you or that everyone is out to get you.",
+      "zh": "好吧，所以如果你偏执，你认为每个人都想伤害你，或者每个人都想得到你。"
+    },
+    {
+      "id": 9,
+      "start": 34.09,
+      "end": 35.33,
+      "en": "Wait, did you hear that?",
+      "zh": "等等，你听到了吗？"
+    },
+    {
+      "id": 10,
+      "start": 35.52,
+      "end": 36.52,
+      "en": "No, I didn't.",
+      "zh": "不，我没有。"
+    },
+    {
+      "id": 11,
+      "start": 36.52,
+      "end": 37.25,
+      "en": "Did you hear that?",
+      "zh": "你听见了吗？"
+    },
+    {
+      "id": 12,
+      "start": 37.52,
+      "end": 38.52,
+      "en": "Someone at the door.",
+      "zh": "门口有人。"
+    },
+    {
+      "id": 13,
+      "start": 38.52,
+      "end": 39.52,
+      "en": "Marco, can you check that?",
+      "zh": "马可，你能检查一下吗？"
+    },
+    {
+      "id": 14,
+      "start": 39.52,
+      "end": 40.52,
+      "en": "Okay, that's paranoid.",
+      "zh": "好吧，这太偏执了。"
+    },
+    {
+      "id": 15,
+      "start": 40.52,
+      "end": 45.24,
+      "en": "You know, you're always hearing voices and noises and things.",
+      "zh": "你知道，你总是听到声音和噪音之类的东西。"
+    },
+    {
+      "id": 16,
+      "start": 45.24,
+      "end": 47.77,
+      "en": "Yeah, so a paranoid, somebody that is paranoid.",
+      "zh": "是的，所以偏执狂，偏执的人。"
+    },
+    {
+      "id": 17,
+      "start": 48.0,
+      "end": 54.24,
+      "en": "All right, so why don't we listen to this dialogue for the first time and see what this person is all paranoid about.",
+      "zh": "好吧，那么我们为什么不第一次听这个对话，看看这个人的偏执是什么。"
+    },
+    {
+      "id": 18,
+      "start": 54.24,
+      "end": 55.24,
+      "en": "There he is again.",
+      "zh": "他又来了。"
+    },
+    {
+      "id": 19,
+      "start": 55.24,
+      "end": 69.28,
+      "en": "Dan, Dan, dude, you have to come over to my house right now.",
+      "zh": "丹，丹，伙计，你现在必须来我家。"
+    },
+    {
+      "id": 20,
+      "start": 69.28,
+      "end": 70.31,
+      "en": "Is everything okay?",
+      "zh": "一切都还好吗？"
+    },
+    {
+      "id": 21,
+      "start": 71.0,
+      "end": 71.71,
+      "en": "Just get over here.",
+      "zh": "赶紧过来。"
+    },
+    {
+      "id": 22,
+      "start": 80.08,
+      "end": 81.79,
+      "en": "Come in, quickly.",
+      "zh": "快进来吧"
+    },
+    {
+      "id": 23,
+      "start": 83.36,
+      "end": 85.67,
+      "en": "So since when is your house a bank?",
+      "zh": "那么你的房子什么时候是银行了？"
+    },
+    {
+      "id": 24,
+      "start": 86.72,
+      "end": 87.21,
+      "en": "What do you mean?",
+      "zh": "你是什么意思？"
+    },
+    {
+      "id": 25,
+      "start": 87.99,
+      "end": 91.53,
+      "en": "I mean, what's up with the four locks and iron bars on your windows?",
+      "zh": "我的意思是，你窗户上的四个锁和铁杆是怎么回事？"
+    },
+    {
+      "id": 26,
+      "start": 92.48,
+      "end": 94.36,
+      "en": "Security Dan, security.",
+      "zh": "安全啊，丹，为了安全。"
+    },
+    {
+      "id": 27,
+      "start": 94.36,
+      "end": 95.91,
+      "en": "You can never be too safe, you know.",
+      "zh": "安全这事，再小心也不为过。"
+    },
+    {
+      "id": 28,
+      "start": 96.36,
+      "end": 99.04,
+      "en": "A lot of sickos out there.",
+      "zh": "外面变态可多了。"
+    },
+    {
+      "id": 29,
+      "start": 99.04,
+      "end": 106.27,
+      "en": "Just the other day, they caught that peeping Tom red handed, had a high power telescope and binoculars by his window.",
+      "zh": "就在前几天，有个偷窥狂被抓了个现行，他窗边放着一台高倍望远镜和一副双筒望远镜。"
+    },
+    {
+      "id": 30,
+      "start": 107.52,
+      "end": 108.41,
+      "en": "What's the matter with you?",
+      "zh": "你怎么了？"
+    },
+    {
+      "id": 31,
+      "start": 109.2,
+      "end": 110.2,
+      "en": "Why are you acting all paranoid?",
+      "zh": "你为什么表现得全是偏执？"
+    },
+    {
+      "id": 32,
+      "start": 110.2,
+      "end": 111.2,
+      "en": "Paranoid?",
+      "zh": "疑神疑鬼？"
+    },
+    {
+      "id": 33,
+      "start": 112.39,
+      "end": 113.21,
+      "en": "I'm not paranoid.",
+      "zh": "我不是偏执狂。"
+    },
+    {
+      "id": 34,
+      "start": 113.77,
+      "end": 114.25,
+      "en": "I'm cautious.",
+      "zh": "我很谨慎。"
+    },
+    {
+      "id": 35,
+      "start": 115.29,
+      "end": 118.13,
+      "en": "You see, Dan, we have to be on guard at all times.",
+      "zh": "你看，丹，我们必须时刻保持警惕。"
+    },
+    {
+      "id": 36,
+      "start": 119.36,
+      "end": 122.88,
+      "en": "People just invade your privacy as if they knew you.",
+      "zh": "人们只是侵犯你的隐私，就好像他们认识你一样。"
+    },
+    {
+      "id": 37,
+      "start": 122.88,
+      "end": 128.18,
+      "en": "Telemarketers, solicitors, even your bank, they have way too much information.",
+      "zh": "电话推销员、上门推销的人，甚至银行，都掌握了你太多信息。"
+    },
+    {
+      "id": 38,
+      "start": 129.44,
+      "end": 132.58,
+      "en": "I like to keep everything on a need to know basis.",
+      "zh": "我只会让别人知道他们非知道不可的事。"
+    },
+    {
+      "id": 39,
+      "start": 134.26,
+      "end": 136.54,
+      "en": "Okay, well, what did you want to see me about?",
+      "zh": "好吧，好吧，你想见我什么？"
+    },
+    {
+      "id": 40,
+      "start": 136.78,
+      "end": 137.68,
+      "en": "You're being watched.",
+      "zh": "你正在被监视。"
+    },
+    {
+      "id": 41,
+      "start": 138.52,
+      "end": 139.52,
+      "en": "Be careful, Dan.",
+      "zh": "小心点，Dan。"
+    },
+    {
+      "id": 42,
+      "start": 139.52,
+      "end": 140.52,
+      "en": "Be careful.",
+      "zh": "小心。"
+    },
+    {
+      "id": 43,
+      "start": 140.52,
+      "end": 147.4,
+      "en": "All right, we're back.",
+      "zh": "好了，我们回来了。"
+    },
+    {
+      "id": 44,
+      "start": 150.12,
+      "end": 153.94,
+      "en": "So, yeah, I think this guy is a little bit too cautious.",
+      "zh": "所以，是的，我认为这个人有点太谨慎了。"
+    },
+    {
+      "id": 45,
+      "start": 154.38,
+      "end": 157.68,
+      "en": "I would have to agree with you and I would go so far as to call him paranoid.",
+      "zh": "我不得不同意你的观点，我甚至会称他为偏执狂。"
+    },
+    {
+      "id": 46,
+      "start": 157.68,
+      "end": 162.4,
+      "en": "But there's a lot of great stuff in this dialogue that we can use in a lot of different situations.",
+      "zh": "但是在这个对话中有很多很棒的东西，我们可以在很多不同的情况下使用。"
+    },
+    {
+      "id": 47,
+      "start": 162.4,
+      "end": 166.1,
+      "en": "So let's take a look at some of these new words in today's language takeaway.",
+      "zh": "所以让我们来看看今天的语言外卖中的一些新词。"
+    },
+    {
+      "id": 48,
+      "start": 168.44,
+      "end": 170.64,
+      "en": "Language takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 49,
+      "start": 170.64,
+      "end": 173.32,
+      "en": "All right, the first word on language takeaway today is sicko.",
+      "zh": "好吧，今天关于语言外卖的第一个词是 Sicko。"
+    },
+    {
+      "id": 50,
+      "start": 174.2,
+      "end": 179.32,
+      "en": "Sicko is also the name of a movie that was a documentary famous in America by Michael Moore actually.",
+      "zh": "Sicko 也是一部实际上是迈克尔·摩尔在美国著名的纪录片的电影的名称。"
+    },
+    {
+      "id": 51,
+      "start": 179.48,
+      "end": 185.56,
+      "en": "But a sicko in this context means someone who is a bit weird in a bad way.",
+      "zh": "但在这种情况下，sicko 意味着一个有点奇怪的人。"
+    },
+    {
+      "id": 52,
+      "start": 185.56,
+      "end": 190.48,
+      "en": "So if you tell somebody you're sick, but like in that tone, right, you're saying you're sick, you're a sick person.",
+      "zh": "所以如果你告诉别人你生病了，但就像那种语气一样，对，你是说你病了，你是一个病人。"
+    },
+    {
+      "id": 53,
+      "start": 190.78,
+      "end": 191.42,
+      "en": "You're gross.",
+      "zh": "你很恶心。"
+    },
+    {
+      "id": 54,
+      "start": 191.92,
+      "end": 192.92,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 55,
+      "start": 192.92,
+      "end": 193.92,
+      "en": "You're saying you're gross.",
+      "zh": "你说你很恶心。"
+    },
+    {
+      "id": 56,
+      "start": 193.92,
+      "end": 198.76,
+      "en": "So people who have inappropriate humor, who make jokes about not so nice things.",
+      "zh": "所以那些有不恰当幽默的人，拿不那么好的东西开玩笑。"
+    },
+    {
+      "id": 57,
+      "start": 198.89,
+      "end": 199.09,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 58,
+      "start": 199.76,
+      "end": 200.23,
+      "en": "Yeah, they're sick.",
+      "zh": "是的，他们病了。"
+    },
+    {
+      "id": 59,
+      "start": 200.79,
+      "end": 209.13,
+      "en": "But in this case, sickos are people who maybe like to hurt other people or, people who are a little bit crazy, people who are not normal.",
+      "zh": "但在这种情况下，病人可能是喜欢伤害他人的人，或者是有点疯狂的人，不正常的人。"
+    },
+    {
+      "id": 60,
+      "start": 209.59,
+      "end": 212.27,
+      "en": "So it's not a nice way of calling someone crazy, right?",
+      "zh": "所以这不是称某人为疯狂的好方法，对吧？"
+    },
+    {
+      "id": 61,
+      "start": 212.84,
+      "end": 215.08,
+      "en": "If you say, oh, he's a sicko, it's not really nice.",
+      "zh": "如果你说，哦，他是个病人，那不是很好。"
+    },
+    {
+      "id": 62,
+      "start": 215.08,
+      "end": 215.31,
+      "en": "Not at all.",
+      "zh": "一点也不。"
+    },
+    {
+      "id": 63,
+      "start": 216.08,
+      "end": 221.03,
+      "en": "It's a way of saying that you're almost scared of this person because they're kind of weird and almost they have problems.",
+      "zh": "这是一种说你几乎害怕这个人的方式，因为他们有点奇怪，几乎有问题。"
+    },
+    {
+      "id": 64,
+      "start": 221.6,
+      "end": 221.83,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 65,
+      "start": 222.6,
+      "end": 223.92,
+      "en": "So that's a sicko.",
+      "zh": "所以这是一个病态。"
+    },
+    {
+      "id": 66,
+      "start": 223.92,
+      "end": 225.15,
+      "en": "Moving on to our next word.",
+      "zh": "继续我们的下一个词。"
+    },
+    {
+      "id": 67,
+      "start": 225.8,
+      "end": 228.31,
+      "en": "We saw that the guy was afraid of telemarketers.",
+      "zh": "我们看到这家伙害怕电话推销员。"
+    },
+    {
+      "id": 68,
+      "start": 228.57,
+      "end": 228.83,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 69,
+      "start": 229.4,
+      "end": 230.4,
+      "en": "So what are these guys?",
+      "zh": "那么这些人是什么？"
+    },
+    {
+      "id": 70,
+      "start": 230.4,
+      "end": 233.41,
+      "en": "Well, we've got two words being put together here, tele and market.",
+      "zh": "好吧，我们在这里整理了两个词，Tele 和 Market。"
+    },
+    {
+      "id": 71,
+      "start": 233.72,
+      "end": 238.33,
+      "en": "So tele, like telephone, telephone, over communication.",
+      "zh": "所以远程，像电话，电话，通讯。"
+    },
+    {
+      "id": 72,
+      "start": 238.76,
+      "end": 239.53,
+      "en": "So they're not in person.",
+      "zh": "所以他们不是亲自。"
+    },
+    {
+      "id": 73,
+      "start": 239.89,
+      "end": 241.85,
+      "en": "They're people who call you up and market things.",
+      "zh": "他们是打电话给你并推销事物的人。"
+    },
+    {
+      "id": 74,
+      "start": 242.08,
+      "end": 244.46,
+      "en": "They try to sell you stuff over the phone.",
+      "zh": "他们试图通过电话向你推销东西。"
+    },
+    {
+      "id": 75,
+      "start": 244.46,
+      "end": 245.33,
+      "en": "So this is very common.",
+      "zh": "所以这很常见。"
+    },
+    {
+      "id": 76,
+      "start": 246.52,
+      "end": 254.98,
+      "en": "You get a phone call on your cell phone and they ask you if you're happy with your long distance calling plan or if you need new TV cable or something like that.",
+      "zh": "您在手机上接到电话，他们会询问您是否对您的长途电话计划感到满意，或者您是否需要新的电视电缆或类似的东西。"
+    },
+    {
+      "id": 77,
+      "start": 254.98,
+      "end": 258.67,
+      "en": "And they always call during dinner or late at night, which drives me nuts.",
+      "zh": "他们总是在晚餐或深夜打电话，这让我发疯。"
+    },
+    {
+      "id": 78,
+      "start": 259.84,
+      "end": 260.83,
+      "en": "So these are telemarketers.",
+      "zh": "所以这些是电话推销员。"
+    },
+    {
+      "id": 79,
+      "start": 261.01,
+      "end": 263.57,
+      "en": "These are people who call you trying to sell things to you.",
+      "zh": "这些人打电话给你试图卖东西给你。"
+    },
+    {
+      "id": 80,
+      "start": 263.95,
+      "end": 266.91,
+      "en": "And very similar to these is a solicitor.",
+      "zh": "与这些非常相似的是律师。"
+    },
+    {
+      "id": 81,
+      "start": 267.51,
+      "end": 267.83,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 82,
+      "start": 268.32,
+      "end": 273.96,
+      "en": "But the big difference here with solicitors and telemarketers is that solicitors actually go to your house.",
+      "zh": "但与律师和电话推销员的最大区别在于，律师实际上会去你家。"
+    },
+    {
+      "id": 83,
+      "start": 273.97,
+      "end": 274.75,
+      "en": "They knock on your door.",
+      "zh": "他们敲你的门。"
+    },
+    {
+      "id": 84,
+      "start": 275.56,
+      "end": 278.61,
+      "en": "So they're also called door to door salesmen or saleswomen.",
+      "zh": "所以他们也被称为挨家挨户的推销员或女售货员。"
+    },
+    {
+      "id": 85,
+      "start": 279.12,
+      "end": 279.25,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 86,
+      "start": 280.12,
+      "end": 280.59,
+      "en": "Door to door salesmen.",
+      "zh": "上门推销员。"
+    },
+    {
+      "id": 87,
+      "start": 281.12,
+      "end": 282.73,
+      "en": "They go from door to door trying to sell things.",
+      "zh": "他们挨家挨户地试图卖东西。"
+    },
+    {
+      "id": 88,
+      "start": 283.08,
+      "end": 288.48,
+      "en": "But in this case, a solicitor is someone who comes to your house to try to get you to do something, to buy something.",
+      "zh": "但在这种情况下，律师是来你家试图让你做点什么，买东西的人。"
+    },
+    {
+      "id": 89,
+      "start": 288.97,
+      "end": 289.21,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 90,
+      "start": 289.21,
+      "end": 289.63,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 91,
+      "start": 289.91,
+      "end": 293.53,
+      "en": "And moving on to our next word, we have a peeping Tom.",
+      "zh": "继续我们的下一个词，我们有一个偷窥狂。"
+    },
+    {
+      "id": 92,
+      "start": 294.01,
+      "end": 294.51,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 93,
+      "start": 294.63,
+      "end": 296.07,
+      "en": "We heard this a little bit earlier in the dialogue.",
+      "zh": "我们在对话中早些时候听到了这一点。"
+    },
+    {
+      "id": 94,
+      "start": 296.44,
+      "end": 301.48,
+      "en": "And a peeping Tom is again a negative thing to say about someone.",
+      "zh": "偷窥狂再次是对某人说的负面话。"
+    },
+    {
+      "id": 95,
+      "start": 301.48,
+      "end": 305.91,
+      "en": "A peeping Tom, well, the word peep means to look, but kind of like, yeah, it's a quick look.",
+      "zh": "窥视汤姆，嗯，窥视这个词的意思是看，但有点像，是的，这是一个快速的外观。"
+    },
+    {
+      "id": 96,
+      "start": 306.96,
+      "end": 310.6,
+      "en": "A peeping Tom is a person who spies on other people.",
+      "zh": "窥视汤姆是监视他人的人。"
+    },
+    {
+      "id": 97,
+      "start": 310.67,
+      "end": 310.93,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 98,
+      "start": 311.09,
+      "end": 314.49,
+      "en": "So a synonym of a peeping Tom would be a voyeur.",
+      "zh": "因此，窥视汤姆的同义词将是偷窥者。"
+    },
+    {
+      "id": 99,
+      "start": 315.11,
+      "end": 315.51,
+      "en": "A voyeur.",
+      "zh": "偷窥者。"
+    },
+    {
+      "id": 100,
+      "start": 316.08,
+      "end": 322.36,
+      "en": "So someone who, without getting caught, tries to look at other people while they're in their homes.",
+      "zh": "所以一个在没有被抓住的情况下试图在他们家中看别人的人。"
+    },
+    {
+      "id": 101,
+      "start": 322.36,
+      "end": 325.61,
+      "en": "And so it's really bad because it's usually inappropriate.",
+      "zh": "所以它真的很糟糕，因为它通常不合适。"
+    },
+    {
+      "id": 102,
+      "start": 326.2,
+      "end": 329.84,
+      "en": "It's usually people who are watching women get undressed or...",
+      "zh": "通常是人们看着女性脱衣服或..."
+    },
+    {
+      "id": 103,
+      "start": 329.84,
+      "end": 330.84,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 104,
+      "start": 330.84,
+      "end": 336.24,
+      "en": "So a peeping Tom is just an informal way of saying a voyeur or somebody who is spying on people.",
+      "zh": "因此，偷窥狂只是一种非正式的表达偷窥者或监视人的方式。"
+    },
+    {
+      "id": 105,
+      "start": 336.24,
+      "end": 338.15,
+      "en": "So those are the words for today in Language Takeaway.",
+      "zh": "所以这些是今天语言外卖中的词。"
+    },
+    {
+      "id": 106,
+      "start": 338.8,
+      "end": 341.63,
+      "en": "Let's listen to our dialogue again and then we'll be right back.",
+      "zh": "让我们再听一次我们的对话，然后我们会马上回来。"
+    },
+    {
+      "id": 107,
+      "start": 347.63,
+      "end": 353.71,
+      "en": "Dan, Dan, dude, you have to come over to my house right now.",
+      "zh": "丹，丹，伙计，你现在必须来我家。"
+    },
+    {
+      "id": 108,
+      "start": 354.11,
+      "end": 355.63,
+      "en": "Is everything okay?",
+      "zh": "一切都还好吗？"
+    },
+    {
+      "id": 109,
+      "start": 355.95,
+      "end": 357.03,
+      "en": "Just get over here.",
+      "zh": "赶紧过来。"
+    },
+    {
+      "id": 110,
+      "start": 358.83,
+      "end": 360.78,
+      "en": "Come in, quickly.",
+      "zh": "快进来吧"
+    },
+    {
+      "id": 111,
+      "start": 361.82,
+      "end": 364.64,
+      "en": "So since when is your house a bank?",
+      "zh": "那么你的房子什么时候是银行了？"
+    },
+    {
+      "id": 112,
+      "start": 365.26,
+      "end": 366.18,
+      "en": "What do you mean?",
+      "zh": "你是什么意思？"
+    },
+    {
+      "id": 113,
+      "start": 366.88,
+      "end": 370.5,
+      "en": "I mean, what's up with the four locks and iron bars on your windows?",
+      "zh": "我的意思是，你窗户上的四个锁和铁杆是怎么回事？"
+    },
+    {
+      "id": 114,
+      "start": 370.88,
+      "end": 371.7,
+      "en": "Security, Dan!",
+      "zh": "安全，丹！"
+    },
+    {
+      "id": 115,
+      "start": 372.48,
+      "end": 373.48,
+      "en": "Security!",
+      "zh": "安全!"
+    },
+    {
+      "id": 116,
+      "start": 373.48,
+      "end": 374.86,
+      "en": "You can never be too safe, you know.",
+      "zh": "安全这事，再小心也不为过。"
+    },
+    {
+      "id": 117,
+      "start": 375.2,
+      "end": 378.04,
+      "en": "A lot of sickos out there.",
+      "zh": "那里有很多病态。"
+    },
+    {
+      "id": 118,
+      "start": 378.04,
+      "end": 381.32,
+      "en": "Just the other day, they caught that peeping Tom red-handed.",
+      "zh": "就在前几天，他们当场抓住了窥视的汤姆。"
+    },
+    {
+      "id": 119,
+      "start": 382.38,
+      "end": 385.22,
+      "en": "Had a high-power telescope and binoculars by his window.",
+      "zh": "窗边有一台大功率望远镜和双筒望远镜。"
+    },
+    {
+      "id": 120,
+      "start": 386.52,
+      "end": 387.37,
+      "en": "What's the matter with you?",
+      "zh": "你怎么了？"
+    },
+    {
+      "id": 121,
+      "start": 388.2,
+      "end": 389.2,
+      "en": "Why are you acting all paranoid?",
+      "zh": "你为什么表现得全是偏执？"
+    },
+    {
+      "id": 122,
+      "start": 389.2,
+      "end": 390.2,
+      "en": "Paranoid?",
+      "zh": "疑神疑鬼？"
+    },
+    {
+      "id": 123,
+      "start": 390.2,
+      "end": 391.2,
+      "en": "I'm not paranoid!",
+      "zh": "我不是偏执狂！"
+    },
+    {
+      "id": 124,
+      "start": 391.2,
+      "end": 392.2,
+      "en": "I'm cautious!",
+      "zh": "我很谨慎！"
+    },
+    {
+      "id": 125,
+      "start": 392.2,
+      "end": 398.28,
+      "en": "You see, Dan, we have to be on guard at all times.",
+      "zh": "你看，丹，我们必须时刻保持警惕。"
+    },
+    {
+      "id": 126,
+      "start": 398.28,
+      "end": 400.88,
+      "en": "People just invade your privacy as if they knew you.",
+      "zh": "人们只是侵犯你的隐私，就好像他们认识你一样。"
+    },
+    {
+      "id": 127,
+      "start": 401.8,
+      "end": 404.42,
+      "en": "Telemarketers, solicitors, even your bank.",
+      "zh": "电话推销员、律师，甚至您的银行。"
+    },
+    {
+      "id": 128,
+      "start": 405.24,
+      "end": 407.26,
+      "en": "They have way too much information.",
+      "zh": "他们有太多的信息。"
+    },
+    {
+      "id": 129,
+      "start": 408.28,
+      "end": 411.56,
+      "en": "I like to keep everything on a need-to-know basis.",
+      "zh": "我喜欢把一切都放在需要知道的基础上。"
+    },
+    {
+      "id": 130,
+      "start": 412.46,
+      "end": 412.96,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 131,
+      "start": 413.56,
+      "end": 415.46,
+      "en": "Well, what did you want to see me about?",
+      "zh": "好吧，你想见我什么？"
+    },
+    {
+      "id": 132,
+      "start": 415.8,
+      "end": 416.6,
+      "en": "You're being watched!",
+      "zh": "你被监视了！"
+    },
+    {
+      "id": 133,
+      "start": 417.36,
+      "end": 418.02,
+      "en": "Be careful, Dan.",
+      "zh": "小心点，Dan。"
+    },
+    {
+      "id": 134,
+      "start": 419.12,
+      "end": 420.12,
+      "en": "Be careful.",
+      "zh": "小心。"
+    },
+    {
+      "id": 135,
+      "start": 423.07,
+      "end": 426.17,
+      "en": "Now we're back and we had some interesting phrases in the dialogue.",
+      "zh": "现在我们回来了，对话中有一些有趣的短语。"
+    },
+    {
+      "id": 136,
+      "start": 426.96,
+      "end": 429.77,
+      "en": "The first one being, you can never be too safe.",
+      "zh": "第一个是，你永远不会太安全。"
+    },
+    {
+      "id": 137,
+      "start": 431.24,
+      "end": 432.48,
+      "en": "Fluency Builder.",
+      "zh": "流利表达。"
+    },
+    {
+      "id": 138,
+      "start": 432.48,
+      "end": 435.6,
+      "en": "Alright, so this is a common mom phrase.",
+      "zh": "好吧，这是一个常见的妈妈短语。"
+    },
+    {
+      "id": 139,
+      "start": 435.6,
+      "end": 439.2,
+      "en": "You often hear mothers say this when they're sending their kids off to school or whatever.",
+      "zh": "当母亲送孩子上学或其他什么时，您经常听到母亲这么说。"
+    },
+    {
+      "id": 140,
+      "start": 439.28,
+      "end": 442.22,
+      "en": "They say, don't talk to strangers and the kid says, well, why not?",
+      "zh": "他们说，不要和陌生人说话，孩子说，好吧，为什么不呢？"
+    },
+    {
+      "id": 141,
+      "start": 442.5,
+      "end": 443.92,
+      "en": "You can never be too safe.",
+      "zh": "你永远不能太安全。"
+    },
+    {
+      "id": 142,
+      "start": 444.58,
+      "end": 446.76,
+      "en": "It's good to err on the side of caution.",
+      "zh": "谨慎行事是件好事。"
+    },
+    {
+      "id": 143,
+      "start": 447.16,
+      "end": 453.0,
+      "en": "So it's okay to be extra, extra safe or extra cautious, just in case.",
+      "zh": "因此，为了以防万一，可以额外、额外安全或格外小心。"
+    },
+    {
+      "id": 144,
+      "start": 453.48,
+      "end": 454.48,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 145,
+      "start": 454.48,
+      "end": 457.9,
+      "en": "You never know what's going to happen, so it's better to be cautious than not.",
+      "zh": "你永远不知道会发生什么，所以谨慎总比不谨慎好。"
+    },
+    {
+      "id": 146,
+      "start": 458.68,
+      "end": 460.72,
+      "en": "And that's what this person is saying.",
+      "zh": "这就是这个人所说的。"
+    },
+    {
+      "id": 147,
+      "start": 460.72,
+      "end": 462.54,
+      "en": "He's saying, well, security, it's important.",
+      "zh": "他说，好吧，安全，这很重要。"
+    },
+    {
+      "id": 148,
+      "start": 462.88,
+      "end": 464.0,
+      "en": "You can never be too safe.",
+      "zh": "你永远不能太安全。"
+    },
+    {
+      "id": 149,
+      "start": 464.32,
+      "end": 466.56,
+      "en": "You never know what might happen.",
+      "zh": "你永远不知道会发生什么。"
+    },
+    {
+      "id": 150,
+      "start": 466.56,
+      "end": 468.02,
+      "en": "Is there another way that we can combine it?",
+      "zh": "有没有其他方法可以将其结合起来？"
+    },
+    {
+      "id": 151,
+      "start": 468.24,
+      "end": 469.84,
+      "en": "Like you can never be too careful?",
+      "zh": "就像你永远不能太小心？"
+    },
+    {
+      "id": 152,
+      "start": 470.38,
+      "end": 470.68,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 153,
+      "start": 471.12,
+      "end": 472.48,
+      "en": "Basically, the same thing.",
+      "zh": "基本上，同样的事情。"
+    },
+    {
+      "id": 154,
+      "start": 472.48,
+      "end": 473.48,
+      "en": "Same thing.",
+      "zh": "同样的事情。"
+    },
+    {
+      "id": 155,
+      "start": 473.48,
+      "end": 474.48,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 156,
+      "start": 474.48,
+      "end": 475.48,
+      "en": "Alright.",
+      "zh": "好的。"
+    },
+    {
+      "id": 157,
+      "start": 475.48,
+      "end": 476.48,
+      "en": "What's our next phrase?",
+      "zh": "下一个短语是什么？"
+    },
+    {
+      "id": 158,
+      "start": 476.48,
+      "end": 480.04,
+      "en": "We're going to talk about this peeping Tom, this person that they caught.",
+      "zh": "我们要谈谈这个偷窥的汤姆，他们抓到的这个人。"
+    },
+    {
+      "id": 159,
+      "start": 480.04,
+      "end": 482.12,
+      "en": "They caught him red-handed.",
+      "zh": "他们当场抓住了他。"
+    },
+    {
+      "id": 160,
+      "start": 482.12,
+      "end": 483.76,
+      "en": "We caught you red-handed.",
+      "zh": "我们当场抓住了你。"
+    },
+    {
+      "id": 161,
+      "start": 483.76,
+      "end": 485.92,
+      "en": "Or he's been caught red-handed.",
+      "zh": "或者他被当场抓获。"
+    },
+    {
+      "id": 162,
+      "start": 485.92,
+      "end": 486.76,
+      "en": "So what does that mean?",
+      "zh": "那么这是什么意思呢？"
+    },
+    {
+      "id": 163,
+      "start": 487.42,
+      "end": 498.12,
+      "en": "It's a very colorful phrase and I don't just mean that because we're calling him red-handed, but to catch red-handed means to catch someone while they're doing something wrong.",
+      "zh": "这是一个非常丰富多彩的短语，我的意思不仅仅是因为我们是当场称呼他，而是当红手抓人，当他们做错事时抓住他们。"
+    },
+    {
+      "id": 164,
+      "start": 498.8,
+      "end": 504.34,
+      "en": "So if I see you breaking into someone's house and I say, Marco, stop.",
+      "zh": "所以如果我看到你闯入某人的房子，我说，马可，停下来。"
+    },
+    {
+      "id": 165,
+      "start": 504.72,
+      "end": 505.34,
+      "en": "I'm catching you.",
+      "zh": "我在抓你。"
+    },
+    {
+      "id": 166,
+      "start": 505.72,
+      "end": 505.9,
+      "en": "Stop now.",
+      "zh": "现在停下来。"
+    },
+    {
+      "id": 167,
+      "start": 506.72,
+      "end": 507.72,
+      "en": "I just caught you red-handed.",
+      "zh": "我刚刚当场抓住了你。"
+    },
+    {
+      "id": 168,
+      "start": 507.72,
+      "end": 509.1,
+      "en": "You saw me doing the act.",
+      "zh": "你看到我在做这个动作。"
+    },
+    {
+      "id": 169,
+      "start": 509.72,
+      "end": 510.72,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 170,
+      "start": 510.72,
+      "end": 514.42,
+      "en": "And another way of saying this is you caught him with his hand in the cookie jar.",
+      "zh": "另一种说法是你用他的手在饼干罐里抓住了他。"
+    },
+    {
+      "id": 171,
+      "start": 514.72,
+      "end": 515.1,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 172,
+      "start": 515.72,
+      "end": 517.26,
+      "en": "And this is another great phrase.",
+      "zh": "这是另一个伟大的短语。"
+    },
+    {
+      "id": 173,
+      "start": 517.72,
+      "end": 525.26,
+      "en": "You can imagine a child who sees the cookies in a very special jar on the counter in the kitchen and mom says, don't eat the cookies.",
+      "zh": "你可以想象一个孩子在厨房柜台上一个非常特殊的罐子里看到饼干，妈妈说，不要吃饼干。"
+    },
+    {
+      "id": 174,
+      "start": 525.4,
+      "end": 532.56,
+      "en": "Well, the child goes into the kitchen and sees the cookies and opens the jar and puts his hand in the jar and then mom comes and says, caught you.",
+      "zh": "好吧，孩子走进厨房，看到饼干，打开罐子，把手放在罐子里，然后妈妈来说，抓住了你。"
+    },
+    {
+      "id": 175,
+      "start": 532.56,
+      "end": 534.86,
+      "en": "That's a boy with his hand or a child with their hand in the cookie jar.",
+      "zh": "那是一个用手的男孩或一个把手放在饼干罐里的孩子。"
+    },
+    {
+      "id": 176,
+      "start": 535.12,
+      "end": 536.0,
+      "en": "So it's the same thing.",
+      "zh": "所以也是一样的。"
+    },
+    {
+      "id": 177,
+      "start": 536.14,
+      "end": 538.92,
+      "en": "I can say, I caught you with your hand in the cookie jar.",
+      "zh": "我可以说，我用你的手在饼干罐里抓住了你。"
+    },
+    {
+      "id": 178,
+      "start": 539.28,
+      "end": 540.28,
+      "en": "Or you were caught red-handed.",
+      "zh": "或者你被当场抓获。"
+    },
+    {
+      "id": 179,
+      "start": 541.24,
+      "end": 541.52,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 180,
+      "start": 541.88,
+      "end": 546.22,
+      "en": "And our last phrase for today is you are on a need to know basis.",
+      "zh": "我们今天的最后一句话是您需要了解的基础。"
+    },
+    {
+      "id": 181,
+      "start": 546.72,
+      "end": 546.96,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 182,
+      "start": 547.1,
+      "end": 547.62,
+      "en": "This is a great one.",
+      "zh": "这是一个伟大的。"
+    },
+    {
+      "id": 183,
+      "start": 547.72,
+      "end": 550.3,
+      "en": "This is often said in spy movies, I think.",
+      "zh": "我认为这在间谍电影中经常说。"
+    },
+    {
+      "id": 184,
+      "start": 550.82,
+      "end": 553.18,
+      "en": "So we say you're on a need to know basis.",
+      "zh": "所以我们说你需要知道的基础。"
+    },
+    {
+      "id": 185,
+      "start": 553.46,
+      "end": 557.1,
+      "en": "That means that if you really need to know something, then I will tell you.",
+      "zh": "这意味着如果你真的需要知道一些事情，那么我会告诉你。"
+    },
+    {
+      "id": 186,
+      "start": 557.56,
+      "end": 558.93,
+      "en": "But if not, I won't.",
+      "zh": "但如果没有，我不会。"
+    },
+    {
+      "id": 187,
+      "start": 559.01,
+      "end": 562.03,
+      "en": "So you only have the information that is necessary.",
+      "zh": "所以你只有必要的信息。"
+    },
+    {
+      "id": 188,
+      "start": 562.42,
+      "end": 564.28,
+      "en": "No more or less.",
+      "zh": "没有更多或更少。"
+    },
+    {
+      "id": 189,
+      "start": 564.28,
+      "end": 565.28,
+      "en": "You're on a need to know basis.",
+      "zh": "你需要知道的基础。"
+    },
+    {
+      "id": 190,
+      "start": 565.73,
+      "end": 565.87,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 191,
+      "start": 565.95,
+      "end": 567.75,
+      "en": "So I say, tell me, Marco, tell me what happened.",
+      "zh": "所以我说，告诉我，马可，告诉我发生了什么事。"
+    },
+    {
+      "id": 192,
+      "start": 567.75,
+      "end": 568.43,
+      "en": "I want to know.",
+      "zh": "我想知道。"
+    },
+    {
+      "id": 193,
+      "start": 568.89,
+      "end": 569.03,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 194,
+      "start": 569.17,
+      "end": 573.05,
+      "en": "And I can say, no, no, you're on a need to know basis and you don't need to know this.",
+      "zh": "我可以说，不，不，你需要知道的基础，你不需要知道这一点。"
+    },
+    {
+      "id": 195,
+      "start": 573.48,
+      "end": 575.0,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 196,
+      "start": 575.03,
+      "end": 581.13,
+      "en": "So a need to know basis, as you say, very popular among spy movies and government movies and stuff like that.",
+      "zh": "所以需要知道基础，正如你所说，在间谍电影和政府电影之类的东西中非常受欢迎。"
+    },
+    {
+      "id": 197,
+      "start": 581.54,
+      "end": 581.75,
+      "en": "Conspiracy movies.",
+      "zh": "阴谋电影。"
+    },
+    {
+      "id": 198,
+      "start": 582.54,
+      "end": 583.54,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 199,
+      "start": 583.54,
+      "end": 584.54,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 200,
+      "start": 584.54,
+      "end": 590.28,
+      "en": "So let's listen to this dialogue for the very last time and we'll be right back.",
+      "zh": "所以让我们最后一次听这个对话，我们会马上回来的。"
+    },
+    {
+      "id": 201,
+      "start": 590.28,
+      "end": 602.04,
+      "en": "Dan, Dan, dude, you have to come over to my house right now.",
+      "zh": "丹，丹，伙计，你现在必须来我家。"
+    },
+    {
+      "id": 202,
+      "start": 602.04,
+      "end": 603.09,
+      "en": "Is everything okay?",
+      "zh": "一切都还好吗？"
+    },
+    {
+      "id": 203,
+      "start": 603.76,
+      "end": 604.49,
+      "en": "Just get over here.",
+      "zh": "赶紧过来。"
+    },
+    {
+      "id": 204,
+      "start": 612.84,
+      "end": 614.54,
+      "en": "Come in quickly.",
+      "zh": "快点进来。"
+    },
+    {
+      "id": 205,
+      "start": 616.08,
+      "end": 618.43,
+      "en": "So since when is your house a bank?",
+      "zh": "那么你的房子什么时候是银行了？"
+    },
+    {
+      "id": 206,
+      "start": 619.48,
+      "end": 619.95,
+      "en": "What do you mean?",
+      "zh": "你是什么意思？"
+    },
+    {
+      "id": 207,
+      "start": 620.61,
+      "end": 624.29,
+      "en": "I mean, what's up with the four locks and iron bars on your windows?",
+      "zh": "我的意思是，你窗户上的四个锁和铁杆是怎么回事？"
+    },
+    {
+      "id": 208,
+      "start": 625.24,
+      "end": 627.12,
+      "en": "Security, Dan security.",
+      "zh": "安全，丹安全。"
+    },
+    {
+      "id": 209,
+      "start": 627.12,
+      "end": 628.31,
+      "en": "You can never be too safe.",
+      "zh": "你永远不能太安全。"
+    },
+    {
+      "id": 210,
+      "start": 628.68,
+      "end": 630.7,
+      "en": "You know, a lot of sickos out there.",
+      "zh": "你知道，那里有很多病人。"
+    },
+    {
+      "id": 211,
+      "start": 631.8,
+      "end": 639.03,
+      "en": "Just the other day, they caught that heaping Tom red handed, had a high power telescope and binoculars by his window.",
+      "zh": "就在前几天，他们发现堆积如山的汤姆红手，窗边有一个大功率望远镜和双筒望远镜。"
+    },
+    {
+      "id": 212,
+      "start": 640.28,
+      "end": 641.17,
+      "en": "What's the matter with you?",
+      "zh": "你怎么了？"
+    },
+    {
+      "id": 213,
+      "start": 641.96,
+      "end": 642.93,
+      "en": "Why are you acting all paranoid?",
+      "zh": "你为什么表现得全是偏执？"
+    },
+    {
+      "id": 214,
+      "start": 642.96,
+      "end": 643.96,
+      "en": "Paranoid?",
+      "zh": "疑神疑鬼？"
+    },
+    {
+      "id": 215,
+      "start": 643.96,
+      "end": 644.96,
+      "en": "I'm not paranoid.",
+      "zh": "我不是偏执狂。"
+    },
+    {
+      "id": 216,
+      "start": 644.96,
+      "end": 645.96,
+      "en": "I'm cautious.",
+      "zh": "我很谨慎。"
+    },
+    {
+      "id": 217,
+      "start": 645.96,
+      "end": 652.08,
+      "en": "You see, Dan, we have to be on guard at all times.",
+      "zh": "你看，丹，我们必须时刻保持警惕。"
+    },
+    {
+      "id": 218,
+      "start": 652.08,
+      "end": 655.6,
+      "en": "People just invade your privacy as if they knew you.",
+      "zh": "人们只是侵犯你的隐私，就好像他们认识你一样。"
+    },
+    {
+      "id": 219,
+      "start": 655.6,
+      "end": 658.22,
+      "en": "Telemarketers, solicitors, even your bank.",
+      "zh": "电话推销员、律师，甚至您的银行。"
+    },
+    {
+      "id": 220,
+      "start": 659.04,
+      "end": 662.16,
+      "en": "They have way too much information.",
+      "zh": "他们有太多的信息。"
+    },
+    {
+      "id": 221,
+      "start": 662.16,
+      "end": 665.36,
+      "en": "I like to keep everything on a need to know basis.",
+      "zh": "我只会让别人知道他们非知道不可的事。"
+    },
+    {
+      "id": 222,
+      "start": 666.23,
+      "end": 666.81,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 223,
+      "start": 667.39,
+      "end": 669.27,
+      "en": "Well, what did you want to see me about?",
+      "zh": "好吧，你想见我什么？"
+    },
+    {
+      "id": 224,
+      "start": 669.55,
+      "end": 670.43,
+      "en": "You're being watched.",
+      "zh": "你正在被监视。"
+    },
+    {
+      "id": 225,
+      "start": 671.24,
+      "end": 672.24,
+      "en": "Be careful, Dan.",
+      "zh": "小心点，Dan。"
+    },
+    {
+      "id": 226,
+      "start": 672.29,
+      "end": 673.08,
+      "en": "Be careful.",
+      "zh": "小心。"
+    },
+    {
+      "id": 227,
+      "start": 683.7,
+      "end": 684.1,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 228,
+      "start": 684.32,
+      "end": 685.8,
+      "en": "So the guy's a little bit paranoid.",
+      "zh": "所以这家伙有点偏执。"
+    },
+    {
+      "id": 229,
+      "start": 686.28,
+      "end": 687.5,
+      "en": "There's another word for this as well.",
+      "zh": "这也有另一个词。"
+    },
+    {
+      "id": 230,
+      "start": 687.8,
+      "end": 688.26,
+      "en": "Similar, right?",
+      "zh": "类似，对吧？"
+    },
+    {
+      "id": 231,
+      "start": 688.92,
+      "end": 689.92,
+      "en": "It's schizo.",
+      "zh": "是斯基佐。"
+    },
+    {
+      "id": 232,
+      "start": 689.92,
+      "end": 697.32,
+      "en": "Schizophrenia is a disease and a lot of people have it and it's not too uncommon, but a popular slang word to say someone's crazy is schizo.",
+      "zh": "精神分裂症是一种疾病，很多人患有它，这并不少见，但说某人的疯狂是一个流行的俚语，是精神分裂症。"
+    },
+    {
+      "id": 233,
+      "start": 697.92,
+      "end": 703.0,
+      "en": "So if you guys remember this movie, A Beautiful Mind, it's all about this famous mathematician.",
+      "zh": "所以如果你们还记得这部电影，一个美丽的头脑，这就是关于这位著名数学家的全部内容。"
+    },
+    {
+      "id": 234,
+      "start": 703.0,
+      "end": 705.28,
+      "en": "He's named John Nash.",
+      "zh": "他叫约翰纳什。"
+    },
+    {
+      "id": 235,
+      "start": 705.28,
+      "end": 706.2,
+      "en": "And well, he was a genius.",
+      "zh": "好吧，他是个天才。"
+    },
+    {
+      "id": 236,
+      "start": 706.48,
+      "end": 712.38,
+      "en": "He came up with game theory and a lot of subsequent usage of this for economy, for many things.",
+      "zh": "他想出了博弈论和许多后续的用法，用于经济，用于许多事情。"
+    },
+    {
+      "id": 237,
+      "start": 712.38,
+      "end": 715.16,
+      "en": "But it was proven that he was a schizophrenic, right?",
+      "zh": "但事实证明，他是一个精神分裂症患者，对吧？"
+    },
+    {
+      "id": 238,
+      "start": 715.16,
+      "end": 716.52,
+      "en": "A paranoid schizophrenic.",
+      "zh": "偏执型精神分裂症。"
+    },
+    {
+      "id": 239,
+      "start": 716.52,
+      "end": 723.32,
+      "en": "So not only did he kind of have experienced reality in different ways, but he's also paranoid.",
+      "zh": "所以他不仅以不同的方式体验了现实，而且他也很偏执。"
+    },
+    {
+      "id": 240,
+      "start": 723.32,
+      "end": 726.68,
+      "en": "So he was afraid that the government was trying to kill him.",
+      "zh": "所以他害怕政府试图杀死他。"
+    },
+    {
+      "id": 241,
+      "start": 726.68,
+      "end": 732.52,
+      "en": "And so he was, he was irrationally afraid of everything going on around him.",
+      "zh": "他也是，他对周围发生的一切都非常害怕。"
+    },
+    {
+      "id": 242,
+      "start": 732.52,
+      "end": 737.48,
+      "en": "And it made him very unsafe because he could hurt himself or hurt other people.",
+      "zh": "这使他非常不安全，因为他可能会伤害自己或伤害他人。"
+    },
+    {
+      "id": 243,
+      "start": 737.48,
+      "end": 742.2,
+      "en": "And the interesting thing about this is that there is no actual cure for it.",
+      "zh": "有趣的是，它没有真正的治疗方法。"
+    },
+    {
+      "id": 244,
+      "start": 742.2,
+      "end": 744.76,
+      "en": "You just learn to cope and live with it.",
+      "zh": "你只是学会应付和忍受它。"
+    },
+    {
+      "id": 245,
+      "start": 745.1,
+      "end": 746.84,
+      "en": "So you never really get cured.",
+      "zh": "所以你永远不会真正治愈。"
+    },
+    {
+      "id": 246,
+      "start": 747.0,
+      "end": 748.4,
+      "en": "You just kind of live with it.",
+      "zh": "你只是忍受它。"
+    },
+    {
+      "id": 247,
+      "start": 748.4,
+      "end": 750.56,
+      "en": "Learn how to understand what's real and what's not.",
+      "zh": "学习如何理解什么是真实的，什么不是。"
+    },
+    {
+      "id": 248,
+      "start": 750.56,
+      "end": 751.5,
+      "en": "So it's interesting.",
+      "zh": "所以挺有意思的。"
+    },
+    {
+      "id": 249,
+      "start": 752.16,
+      "end": 756.08,
+      "en": "It's a great movie also, by the way, if you've never seen it or you get a chance to watch it.",
+      "zh": "顺便说一句，这也是一部很棒的电影，如果你从未看过它或者你有机会观看它。"
+    },
+    {
+      "id": 250,
+      "start": 757.08,
+      "end": 758.26,
+      "en": "And that's all the time we have for today.",
+      "zh": "这就是我们今天所拥有的所有时间。"
+    },
+    {
+      "id": 251,
+      "start": 758.56,
+      "end": 764.78,
+      "en": "So if you have any questions, doubts or comments, please come to our website, EnglishPod.com and we're there to answer them.",
+      "zh": "因此，如果您有任何问题、疑问或意见，请访问我们的网站 englishpod.com，我们会在那里回答他们。"
+    },
+    {
+      "id": 252,
+      "start": 765.08,
+      "end": 766.02,
+      "en": "Yeah, we hope to see you there.",
+      "zh": "是的，我们希望在那里见到你。"
+    },
+    {
+      "id": 253,
+      "start": 766.4,
+      "end": 768.12,
+      "en": "And until next time, English Poddies.",
+      "zh": "直到下一次，英语小屋。"
+    },
+    {
+      "id": 254,
+      "start": 768.12,
+      "end": 769.12,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 255,
+      "start": 769.12,
+      "end": 769.3,
+      "en": "Bye.",
+      "zh": "再见。"
+    }
+  ],
+  "dialog": {
+    "start": 54.24,
+    "end": 140.52,
+    "segmentIds": [
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42
+    ]
+  }
+}

@@ -1,0 +1,1688 @@
+{
+  "version": 1,
+  "id": 271,
+  "number": "0271",
+  "title": "The Office - Presentation Series 1 - The Overview and the Agenda",
+  "audio": "mp3/271. The Office - Presentation Series 1 - The Overview and the Agenda.mp3",
+  "duration": 827.4025,
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.26,
+      "end": 3.4,
+      "en": "Hello everyone and welcome to EnglishPod.",
+      "zh": "大家好，欢迎来到 EnglishPod。"
+    },
+    {
+      "id": 2,
+      "start": 3.68,
+      "end": 4.08,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 4.56,
+      "end": 9.58,
+      "en": "My name is Catherine and today we have the beginning of a very long series on giving a presentation.",
+      "zh": "我的名字是凯瑟琳，今天我们有一个非常长的演讲系列的开头。"
+    },
+    {
+      "id": 4,
+      "start": 10.08,
+      "end": 12.72,
+      "en": "So this series is at the intermediate level, right Marco?",
+      "zh": "所以这个系列是中级，对吗？"
+    },
+    {
+      "id": 5,
+      "start": 12.72,
+      "end": 12.92,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 6,
+      "start": 13.72,
+      "end": 14.82,
+      "en": "It's part of our business series.",
+      "zh": "这是我们业务系列的一部分。"
+    },
+    {
+      "id": 7,
+      "start": 15.12,
+      "end": 18.06,
+      "en": "We previously took a look at how to go upon an interview.",
+      "zh": "我们之前看过如何进行采访。"
+    },
+    {
+      "id": 8,
+      "start": 18.84,
+      "end": 20.76,
+      "en": "Now we're going to talk about presentation.",
+      "zh": "现在我们要谈谈演示。"
+    },
+    {
+      "id": 9,
+      "start": 21.36,
+      "end": 27.34,
+      "en": "So everything about a presentation, how to give a presentation, language you can use in a presentation and a lot of other things like this.",
+      "zh": "因此，关于演示文稿、如何进行演示、您可以在演示中使用的语言以及许多其他类似的东西的一切。"
+    },
+    {
+      "id": 10,
+      "start": 27.85,
+      "end": 28.27,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 11,
+      "start": 28.75,
+      "end": 31.07,
+      "en": "We're going to talk about the very beginning of a presentation.",
+      "zh": "我们将讨论演示的开始。"
+    },
+    {
+      "id": 12,
+      "start": 31.51,
+      "end": 34.09,
+      "en": "Let's take a listen to this dialogue and we'll be back in a moment.",
+      "zh": "让我们听听这个对话，我们一会儿就回来。"
+    },
+    {
+      "id": 13,
+      "start": 39.36,
+      "end": 39.86,
+      "en": "Hi everyone.",
+      "zh": "大家好。"
+    },
+    {
+      "id": 14,
+      "start": 40.36,
+      "end": 41.02,
+      "en": "Can everyone hear me?",
+      "zh": "大家能听到我说话吗？"
+    },
+    {
+      "id": 15,
+      "start": 42.4,
+      "end": 43.94,
+      "en": "Can you guys at the back hear everything?",
+      "zh": "你们后面的人能听到一切吗？"
+    },
+    {
+      "id": 16,
+      "start": 48.32,
+      "end": 50.45,
+      "en": "I think all of you know why we are here this afternoon.",
+      "zh": "我想你们所有人都知道我们今天下午为什么在这里。"
+    },
+    {
+      "id": 17,
+      "start": 51.26,
+      "end": 55.05,
+      "en": "As most of you are aware, 2010 marks an important moment for Alpha Computers.",
+      "zh": "你们大多数人都知道，2010 年标志着 Alpha 计算机的重要时刻。"
+    },
+    {
+      "id": 18,
+      "start": 55.72,
+      "end": 60.57,
+      "en": "We have bounced back from the recession and now we are set to launch our new line of laptop and desktop computers.",
+      "zh": "我们已经从经济衰退中恢复过来，现在我们准备推出我们的新系列笔记本电脑和台式电脑。"
+    },
+    {
+      "id": 19,
+      "start": 61.56,
+      "end": 71.85,
+      "en": "I'm really pleased to welcome Michael Ford, the global marketing manager for Alpha Computers, who has flown in from California to give all of you an overview of the marketing campaign and to answer any questions you may have.",
+      "zh": "我真的很高兴欢迎 Alpha Computers 的全球营销经理 Michael Ford，他从加利福尼亚飞来，为大家提供营销活动的概述，并回答您可能遇到的任何问题。"
+    },
+    {
+      "id": 20,
+      "start": 72.48,
+      "end": 74.31,
+      "en": "So please, give a warm welcome to Mr. Ford.",
+      "zh": "所以，请热烈欢迎福特先生。"
+    },
+    {
+      "id": 21,
+      "start": 77.03,
+      "end": 77.81,
+      "en": "Thank you, Jonathan.",
+      "zh": "谢谢你，Jonathan。"
+    },
+    {
+      "id": 22,
+      "start": 79.12,
+      "end": 80.78,
+      "en": "It really is a pleasure to be here today.",
+      "zh": "今天真的很高兴来到这里。"
+    },
+    {
+      "id": 23,
+      "start": 81.52,
+      "end": 87.46,
+      "en": "It has been three years since I visited Beijing and it's clear to me that operations here are obviously going from strength to strength.",
+      "zh": "距离我上次来北京已经三年了，显然，这里的业务发展得越来越好。"
+    },
+    {
+      "id": 24,
+      "start": 88.12,
+      "end": 93.86,
+      "en": "The Alpha brand continues to grow in leaps and bounds in China and that is certainly down to the hard work of all of you here.",
+      "zh": "Alpha 品牌在中国继续飞速发展，这当然离不开在座各位的辛勤付出。"
+    },
+    {
+      "id": 25,
+      "start": 94.54,
+      "end": 96.14,
+      "en": "So congratulations to all of you.",
+      "zh": "所以祝贺你们所有人。"
+    },
+    {
+      "id": 26,
+      "start": 100.48,
+      "end": 106.92,
+      "en": "I'd like to start by outlining the key points of my presentation this afternoon and giving you an idea of the topics that will be discussed.",
+      "zh": "我想首先概述我今天下午演讲的要点，并让您了解将要讨论的主题。"
+    },
+    {
+      "id": 27,
+      "start": 107.92,
+      "end": 110.36,
+      "en": "The presentation today is divided into five main parts.",
+      "zh": "今天的演示文稿分为五个主要部分。"
+    },
+    {
+      "id": 28,
+      "start": 111.48,
+      "end": 119.93,
+      "en": "First of all, I'd like to briefly touch on the background of the new X420 line, how the whole concept has come about and how the new product fits into our existing brand line.",
+      "zh": "首先，我想简单谈谈新X420系列的背景，整个概念是如何产生的，以及新产品如何融入我们现有的品牌系列。"
+    },
+    {
+      "id": 29,
+      "start": 120.32,
+      "end": 123.87,
+      "en": "Secondly, I'd like to present data on projected sales for the X420.",
+      "zh": "其次，我想展示X420的预计销售数据。"
+    },
+    {
+      "id": 30,
+      "start": 125.2,
+      "end": 127.87,
+      "en": "We will then go on to discuss our key rivals in this sector.",
+      "zh": "然后，我们将继续讨论我们在该领域的主要竞争对手。"
+    },
+    {
+      "id": 31,
+      "start": 128.48,
+      "end": 131.27,
+      "en": "Then I'd like to go on to outline the campaign concept for the X420.",
+      "zh": "然后我想继续概述 X420 的活动概念。"
+    },
+    {
+      "id": 32,
+      "start": 132.11,
+      "end": 136.73,
+      "en": "Finally, I'm happy to open up the discussion for any questions or points you may have for me.",
+      "zh": "最后，我很高兴为您可能对我提出的任何问题或观点展开讨论。"
+    },
+    {
+      "id": 33,
+      "start": 142.08,
+      "end": 142.56,
+      "en": "All right, we're back.",
+      "zh": "好了，我们回来了。"
+    },
+    {
+      "id": 34,
+      "start": 143.08,
+      "end": 145.34,
+      "en": "So as you can see, it's the very beginning of a presentation.",
+      "zh": "如您所见，这是演示文稿的开始。"
+    },
+    {
+      "id": 35,
+      "start": 145.88,
+      "end": 149.76,
+      "en": "We're kind of starting to give people an idea what we're going to talk about.",
+      "zh": "我们开始让人们知道我们将要谈论什么。"
+    },
+    {
+      "id": 36,
+      "start": 149.98,
+      "end": 154.04,
+      "en": "So let's take a look at some of the language Mr. Ford used on Language Takeaway.",
+      "zh": "所以让我们来看看福特先生在外卖中使用的一些语言。"
+    },
+    {
+      "id": 37,
+      "start": 156.72,
+      "end": 159.6,
+      "en": "Language Takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 38,
+      "start": 159.6,
+      "end": 166.14,
+      "en": "So the reason Mr. Ford is giving a presentation is because he wants to talk about the company's new line of computers, right?",
+      "zh": "所以福特先生做演讲的原因是因为他想谈谈公司的新电脑系列，对吧？"
+    },
+    {
+      "id": 39,
+      "start": 166.28,
+      "end": 172.6,
+      "en": "And so he says that they're going to launch a new line of desktop and laptop computers.",
+      "zh": "所以他说他们将推出新的台式机和笔记本电脑系列。"
+    },
+    {
+      "id": 40,
+      "start": 172.6,
+      "end": 172.8,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 41,
+      "start": 173.6,
+      "end": 176.16,
+      "en": "So they want to launch a new line of laptops.",
+      "zh": "所以他们想推出新的笔记本电脑系列。"
+    },
+    {
+      "id": 42,
+      "start": 176.16,
+      "end": 180.28,
+      "en": "So this verb to launch means to bring out to the market.",
+      "zh": "所以这个动词的启动意味着把它带入市场。"
+    },
+    {
+      "id": 43,
+      "start": 180.7,
+      "end": 181.08,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 44,
+      "start": 181.32,
+      "end": 188.27,
+      "en": "So instead of the word to start, which you could use in many different ways, like to start eating or to start swimming.",
+      "zh": "因此，您可以以许多不同的方式使用它，而不是开始吃饭或开始游泳。"
+    },
+    {
+      "id": 45,
+      "start": 189.31,
+      "end": 193.63,
+      "en": "In this case, to launch means you're going to introduce a new product to the market.",
+      "zh": "在这种情况下，推出意味着您将向市场推出新产品。"
+    },
+    {
+      "id": 46,
+      "start": 193.79,
+      "end": 194.33,
+      "en": "Like you said, Marco.",
+      "zh": "就像你说的，马可。"
+    },
+    {
+      "id": 47,
+      "start": 194.67,
+      "end": 195.13,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 48,
+      "start": 196.0,
+      "end": 199.28,
+      "en": "So we're going to start selling to the market a new product.",
+      "zh": "所以我们将开始向市场销售新产品。"
+    },
+    {
+      "id": 49,
+      "start": 199.28,
+      "end": 202.37,
+      "en": "We're going to launch a new line of laptop and desktop computers.",
+      "zh": "我们将推出新的笔记本电脑和台式电脑系列。"
+    },
+    {
+      "id": 50,
+      "start": 203.2,
+      "end": 208.49,
+      "en": "For example, this spring, Steve Jobs launched the iPad, which is a new product.",
+      "zh": "例如，今年春天，史蒂夫·乔布斯推出了新产品的 iPad。"
+    },
+    {
+      "id": 51,
+      "start": 209.16,
+      "end": 209.35,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 52,
+      "start": 210.16,
+      "end": 212.05,
+      "en": "So he launched the iPad and the iPhone 4.",
+      "zh": "于是他推出了iPad和iPhone 4。"
+    },
+    {
+      "id": 53,
+      "start": 213.12,
+      "end": 215.25,
+      "en": "They're always launching new things at Apple.",
+      "zh": "他们总是在苹果公司推出新产品。"
+    },
+    {
+      "id": 54,
+      "start": 215.72,
+      "end": 215.97,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 55,
+      "start": 216.72,
+      "end": 216.95,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 56,
+      "start": 217.72,
+      "end": 226.23,
+      "en": "So since they're launching this new line of laptop and desktop computers, Mr. Ford first wanted to give a brief overview of the marketing campaign.",
+      "zh": "因此，由于他们推出了这一新系列笔记本电脑和台式电脑，福特先生首先想简要概述营销活动。"
+    },
+    {
+      "id": 57,
+      "start": 226.72,
+      "end": 227.72,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 58,
+      "start": 227.72,
+      "end": 231.89,
+      "en": "So first of all, we're going to talk about how this product is being marketed.",
+      "zh": "首先，我们将讨论该产品的营销方式。"
+    },
+    {
+      "id": 59,
+      "start": 232.64,
+      "end": 237.92,
+      "en": "So you want to give a general picture or a very simple picture of what's going to happen.",
+      "zh": "所以你想给一张一般的图片或一张非常简单的图片来说明将要发生的事情。"
+    },
+    {
+      "id": 60,
+      "start": 237.92,
+      "end": 239.51,
+      "en": "So at the beginning, this will happen.",
+      "zh": "所以一开始，这将发生。"
+    },
+    {
+      "id": 61,
+      "start": 239.83,
+      "end": 241.09,
+      "en": "Then this will happen at the end.",
+      "zh": "那么这将在最后发生。"
+    },
+    {
+      "id": 62,
+      "start": 241.11,
+      "end": 241.69,
+      "en": "This will happen.",
+      "zh": "这将发生。"
+    },
+    {
+      "id": 63,
+      "start": 241.83,
+      "end": 242.97,
+      "en": "And that's what we call an overview.",
+      "zh": "这就是我们所说的概述。"
+    },
+    {
+      "id": 64,
+      "start": 243.71,
+      "end": 244.05,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 65,
+      "start": 244.37,
+      "end": 249.45,
+      "en": "So it's a brief or general idea of what we're talking about.",
+      "zh": "所以这是对我们正在谈论的内容的简短或一般性的想法。"
+    },
+    {
+      "id": 66,
+      "start": 249.63,
+      "end": 251.11,
+      "en": "An overview, nothing too specific.",
+      "zh": "概述，没有太具体。"
+    },
+    {
+      "id": 67,
+      "start": 251.21,
+      "end": 252.79,
+      "en": "We just want to give you a general idea.",
+      "zh": "我们只是想给你一个大致的想法。"
+    },
+    {
+      "id": 68,
+      "start": 253.17,
+      "end": 253.49,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 69,
+      "start": 254.11,
+      "end": 262.99,
+      "en": "After that, Mr. Ford starts talking and he's talking about the presentation, which has many parts, and he wants to talk about what each part will contain.",
+      "zh": "在那之后，福特先生开始说话，他正在谈论有很多部分的演示文稿，他想谈谈每个部分将包含什么。"
+    },
+    {
+      "id": 70,
+      "start": 263.33,
+      "end": 267.87,
+      "en": "So he says, I'd like to briefly touch on the background of the new X420 line.",
+      "zh": "所以他说，我想简要介绍一下新 X420 系列的背景。"
+    },
+    {
+      "id": 71,
+      "start": 268.07,
+      "end": 269.25,
+      "en": "So this verb, to touch on.",
+      "zh": "所以这个动词，触摸。"
+    },
+    {
+      "id": 72,
+      "start": 269.55,
+      "end": 270.07,
+      "en": "What does this mean?",
+      "zh": "这是什么意思？"
+    },
+    {
+      "id": 73,
+      "start": 270.35,
+      "end": 270.51,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 74,
+      "start": 271.76,
+      "end": 277.68,
+      "en": "So when he says he wants to touch on the background of this new computer, he's basically saying, I want to talk about.",
+      "zh": "所以当他说他想谈谈这台新电脑的背景时，他基本上是在说，我想谈谈。"
+    },
+    {
+      "id": 75,
+      "start": 277.68,
+      "end": 278.68,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 76,
+      "start": 278.68,
+      "end": 284.61,
+      "en": "So this is potentially very confusing because we know the word to touch means to put your hand on something.",
+      "zh": "所以这可能非常令人困惑，因为我们知道触摸这个词意味着把你的手放在某物上。"
+    },
+    {
+      "id": 77,
+      "start": 285.24,
+      "end": 289.85,
+      "en": "But to touch on, this is a phrasal verb, this means to talk about or to address.",
+      "zh": "但要谈到，这是一个短语动词，这意味着谈论或解决。"
+    },
+    {
+      "id": 78,
+      "start": 290.44,
+      "end": 291.44,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 79,
+      "start": 291.44,
+      "end": 297.11,
+      "en": "So for example, a teacher at a university will touch on many topics during his lecture.",
+      "zh": "因此，例如，一所大学的老师会在他的讲座中触及许多主题。"
+    },
+    {
+      "id": 80,
+      "start": 297.84,
+      "end": 297.99,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 81,
+      "start": 298.84,
+      "end": 301.65,
+      "en": "Or I'd like to touch on where we're going to dinner tonight because I'm very hungry.",
+      "zh": "或者我想谈谈我们今晚要去哪里吃饭，因为我很饿。"
+    },
+    {
+      "id": 82,
+      "start": 302.12,
+      "end": 303.12,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 83,
+      "start": 303.12,
+      "end": 305.97,
+      "en": "So basically it's a nice way of saying, I want to talk about this topic.",
+      "zh": "所以基本上这是一个很好的说法，我想谈谈这个话题。"
+    },
+    {
+      "id": 84,
+      "start": 307.56,
+      "end": 315.49,
+      "en": "And then apart from touching on the background of the new computer, he said he also wants to talk about projected sales for this new computer.",
+      "zh": "然后除了触及新电脑的背景外，他还说他还想谈谈这台新电脑的预计销售额。"
+    },
+    {
+      "id": 85,
+      "start": 316.05,
+      "end": 316.21,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 86,
+      "start": 316.88,
+      "end": 319.31,
+      "en": "So projected sales, this phrase includes two words.",
+      "zh": "如此预计的销售额，这个短语包括两个词。"
+    },
+    {
+      "id": 87,
+      "start": 319.8,
+      "end": 326.13,
+      "en": "Sales means how much of something you sell, obviously, but projected means what you expect to sell.",
+      "zh": "显然，销售额意味着您销售的商品有多少，但预计意味着您希望销售的商品。"
+    },
+    {
+      "id": 88,
+      "start": 326.76,
+      "end": 329.45,
+      "en": "So the projected sales have not happened yet.",
+      "zh": "因此，预计销售额尚未发生。"
+    },
+    {
+      "id": 89,
+      "start": 329.77,
+      "end": 330.95,
+      "en": "They will happen in the future.",
+      "zh": "它们将在未来发生。"
+    },
+    {
+      "id": 90,
+      "start": 330.95,
+      "end": 333.87,
+      "en": "And so they're basically my guess about sales.",
+      "zh": "所以它们基本上是我对销售的猜测。"
+    },
+    {
+      "id": 91,
+      "start": 334.35,
+      "end": 334.89,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 92,
+      "start": 335.41,
+      "end": 339.29,
+      "en": "So basically we are giving an estimate of what we think we will sell.",
+      "zh": "所以基本上我们正在估计我们认为我们会卖什么。"
+    },
+    {
+      "id": 93,
+      "start": 339.55,
+      "end": 340.81,
+      "en": "Those are projected sales.",
+      "zh": "这些是预计的销售额。"
+    },
+    {
+      "id": 94,
+      "start": 341.12,
+      "end": 343.52,
+      "en": "We think we will sell a thousand computers.",
+      "zh": "我们认为我们将出售一千台计算机。"
+    },
+    {
+      "id": 95,
+      "start": 343.52,
+      "end": 346.12,
+      "en": "Those are our projected sales.",
+      "zh": "这些是我们预计的销售额。"
+    },
+    {
+      "id": 96,
+      "start": 346.12,
+      "end": 347.12,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 97,
+      "start": 347.12,
+      "end": 348.63,
+      "en": "And after that, we have one more key word.",
+      "zh": "在那之后，我们还有一个关键词。"
+    },
+    {
+      "id": 98,
+      "start": 348.92,
+      "end": 351.43,
+      "en": "This word comes at the very end of the speech.",
+      "zh": "这个词出现在演讲的最后。"
+    },
+    {
+      "id": 99,
+      "start": 352.64,
+      "end": 356.11,
+      "en": "Mr. Ford says, we will then go on to discuss our key rivals.",
+      "zh": "福特先生说，然后我们将继续讨论我们的主要竞争对手。"
+    },
+    {
+      "id": 100,
+      "start": 356.6,
+      "end": 357.89,
+      "en": "Now who is a rival, Marco?",
+      "zh": "现在谁是竞争对手，马可？"
+    },
+    {
+      "id": 101,
+      "start": 358.05,
+      "end": 358.35,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 102,
+      "start": 358.69,
+      "end": 363.41,
+      "en": "So a rival is basically your competitor or maybe kind of your enemy.",
+      "zh": "所以竞争对手基本上是你的竞争对手，或者可能是你的敌人。"
+    },
+    {
+      "id": 103,
+      "start": 364.0,
+      "end": 364.48,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 104,
+      "start": 364.6,
+      "end": 366.6,
+      "en": "So in computers, who is Apple's rival?",
+      "zh": "那么在计算机方面，苹果的竞争对手是谁？"
+    },
+    {
+      "id": 105,
+      "start": 367.8,
+      "end": 370.76,
+      "en": "Maybe HP or IBM or Dell.",
+      "zh": "也许是惠普、IBM 或戴尔。"
+    },
+    {
+      "id": 106,
+      "start": 371.72,
+      "end": 371.94,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 107,
+      "start": 372.72,
+      "end": 375.8,
+      "en": "So a rival is someone you compete with.",
+      "zh": "所以竞争对手是你竞争的人。"
+    },
+    {
+      "id": 108,
+      "start": 375.8,
+      "end": 375.96,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 109,
+      "start": 376.8,
+      "end": 378.48,
+      "en": "So he's going to talk about his key rivals.",
+      "zh": "所以他会谈论他的主要竞争对手。"
+    },
+    {
+      "id": 110,
+      "start": 378.88,
+      "end": 382.5,
+      "en": "So basically the word key is your most important rivals.",
+      "zh": "所以基本上这个词是你最重要的竞争对手。"
+    },
+    {
+      "id": 111,
+      "start": 383.1,
+      "end": 383.66,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 112,
+      "start": 383.66,
+      "end": 387.36,
+      "en": "So for example, who is one of Batman's key rivals?",
+      "zh": "那么，例如，谁是蝙蝠侠的主要竞争对手之一呢？"
+    },
+    {
+      "id": 113,
+      "start": 387.98,
+      "end": 390.52,
+      "en": "Because we have rivals not just in business, but also in life.",
+      "zh": "因为我们有竞争对手不仅在商业上，而且在生活中也有。"
+    },
+    {
+      "id": 114,
+      "start": 391.16,
+      "end": 391.38,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 115,
+      "start": 392.16,
+      "end": 394.5,
+      "en": "So I think maybe Batman's key rival might be the Joker.",
+      "zh": "所以我认为蝙蝠侠的主要竞争对手可能是小丑。"
+    },
+    {
+      "id": 116,
+      "start": 395.16,
+      "end": 395.78,
+      "en": "Or the Penguin.",
+      "zh": "或者企鹅。"
+    },
+    {
+      "id": 117,
+      "start": 396.16,
+      "end": 397.16,
+      "en": "Or the Penguin.",
+      "zh": "或者企鹅。"
+    },
+    {
+      "id": 118,
+      "start": 397.16,
+      "end": 398.16,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 119,
+      "start": 398.16,
+      "end": 401.72,
+      "en": "So let's take another listen to today's dialogue and we'll be back in a moment with some very important phrases.",
+      "zh": "因此，让我们再听听今天的对话，我们将在一瞬间带着一些非常重要的短语回来。"
+    },
+    {
+      "id": 120,
+      "start": 406.88,
+      "end": 407.66,
+      "en": "Hi, everyone.",
+      "zh": "大家好。"
+    },
+    {
+      "id": 121,
+      "start": 408.02,
+      "end": 408.84,
+      "en": "Can everyone hear me?",
+      "zh": "大家能听到我说话吗？"
+    },
+    {
+      "id": 122,
+      "start": 410.17,
+      "end": 411.73,
+      "en": "Can you guys at the back hear everything?",
+      "zh": "你们后面的人能听到一切吗？"
+    },
+    {
+      "id": 123,
+      "start": 415.85,
+      "end": 418.35,
+      "en": "I think all of you know why we are here this afternoon.",
+      "zh": "我想你们所有人都知道我们今天下午为什么在这里。"
+    },
+    {
+      "id": 124,
+      "start": 419.05,
+      "end": 422.95,
+      "en": "As most of you are aware, 2010 marks an important moment for Alpha Computers.",
+      "zh": "你们大多数人都知道，2010 年标志着 Alpha 计算机的重要时刻。"
+    },
+    {
+      "id": 125,
+      "start": 423.39,
+      "end": 428.51,
+      "en": "We have bounced back from the recession and now we are set to launch our new line of laptop and desktop computers.",
+      "zh": "我们已经从经济衰退中恢复过来，现在我们准备推出我们的新系列笔记本电脑和台式电脑。"
+    },
+    {
+      "id": 126,
+      "start": 429.37,
+      "end": 439.75,
+      "en": "I'm really pleased to welcome Michael Ford, the global marketing manager for Alpha Computers, who has flown in from California to give all of you an overview of the marketing campaign and to answer any questions you may have.",
+      "zh": "我真的很高兴欢迎 Alpha Computers 的全球营销经理 Michael Ford，他从加利福尼亚飞来，为大家提供营销活动的概述，并回答您可能遇到的任何问题。"
+    },
+    {
+      "id": 127,
+      "start": 440.27,
+      "end": 442.21,
+      "en": "So please, give a warm welcome to Mr. Ford.",
+      "zh": "所以，请热烈欢迎福特先生。"
+    },
+    {
+      "id": 128,
+      "start": 444.91,
+      "end": 445.71,
+      "en": "Thank you, Jonathan.",
+      "zh": "谢谢你，Jonathan。"
+    },
+    {
+      "id": 129,
+      "start": 447.04,
+      "end": 448.67,
+      "en": "It really is a pleasure to be here today.",
+      "zh": "今天真的很高兴来到这里。"
+    },
+    {
+      "id": 130,
+      "start": 449.44,
+      "end": 455.39,
+      "en": "It has been three years since I visited Beijing and it's clear to me that operations here are obviously going from strength to strength.",
+      "zh": "距离我上次来北京已经三年了，显然，这里的业务发展得越来越好。"
+    },
+    {
+      "id": 131,
+      "start": 456.04,
+      "end": 461.75,
+      "en": "The Alpha brand continues to grow in leaps and bounds in China and that is certainly down to the hard work of all of you here.",
+      "zh": "Alpha 品牌在中国继续飞速发展，这当然离不开在座各位的辛勤付出。"
+    },
+    {
+      "id": 132,
+      "start": 462.44,
+      "end": 464.03,
+      "en": "So congratulations to all of you.",
+      "zh": "所以祝贺你们所有人。"
+    },
+    {
+      "id": 133,
+      "start": 468.4,
+      "end": 474.84,
+      "en": "I'd like to start by outlining the key points of my presentation this afternoon and giving you an idea of the topics that will be discussed.",
+      "zh": "我想首先概述我今天下午演讲的要点，并让您了解将要讨论的主题。"
+    },
+    {
+      "id": 134,
+      "start": 475.84,
+      "end": 478.28,
+      "en": "The presentation today is divided into five main parts.",
+      "zh": "今天的演示文稿分为五个主要部分。"
+    },
+    {
+      "id": 135,
+      "start": 479.4,
+      "end": 487.8,
+      "en": "First of all, I'd like to briefly touch on the background of the new X420 line, how the whole concept has come about and how the new product fits into our existing brand line.",
+      "zh": "首先，我想简单谈谈新X420系列的背景，整个概念是如何产生的，以及新产品如何融入我们现有的品牌系列。"
+    },
+    {
+      "id": 136,
+      "start": 488.28,
+      "end": 491.76,
+      "en": "Secondly, I'd like to present data on projected sales for the X420.",
+      "zh": "其次，我想展示X420的预计销售数据。"
+    },
+    {
+      "id": 137,
+      "start": 493.12,
+      "end": 495.76,
+      "en": "We will then go on to discuss our key rivals in this sector.",
+      "zh": "然后，我们将继续讨论我们在该领域的主要竞争对手。"
+    },
+    {
+      "id": 138,
+      "start": 496.4,
+      "end": 499.18,
+      "en": "Then I'd like to go on to outline the campaign concept for the X420.",
+      "zh": "然后我想继续概述 X420 的活动概念。"
+    },
+    {
+      "id": 139,
+      "start": 500.06,
+      "end": 504.64,
+      "en": "Finally, I'm happy to open up the discussion for any questions or points you may have for me.",
+      "zh": "最后，我很高兴为您可能对我提出的任何问题或观点展开讨论。"
+    },
+    {
+      "id": 140,
+      "start": 507.48,
+      "end": 512.08,
+      "en": "All right, so we've prepared three phrases for you.",
+      "zh": "好的，所以我们为您准备了三个短语。"
+    },
+    {
+      "id": 141,
+      "start": 512.08,
+      "end": 514.35,
+      "en": "Let's take a look at those now on Fluency Builder.",
+      "zh": "现在来看看“流利表达”里的这些内容。"
+    },
+    {
+      "id": 142,
+      "start": 516.48,
+      "end": 516.81,
+      "en": "Fluency Builder.",
+      "zh": "流利表达。"
+    },
+    {
+      "id": 143,
+      "start": 517.92,
+      "end": 523.27,
+      "en": "So this first phrase is really important because it's about the part of the speech that happens before the speech begins.",
+      "zh": "所以第一个短语真的很重要，因为它是关于演讲开始前发生的演讲的部分。"
+    },
+    {
+      "id": 144,
+      "start": 523.88,
+      "end": 529.84,
+      "en": "You know, usually you have a person who's going to talk about something, but you also have someone who introduces that person.",
+      "zh": "你知道，通常你有一个人会谈论某事，但你也有一个人介绍那个人。"
+    },
+    {
+      "id": 145,
+      "start": 529.84,
+      "end": 531.64,
+      "en": "You know, this is John.",
+      "zh": "你知道，这是约翰。"
+    },
+    {
+      "id": 146,
+      "start": 531.64,
+      "end": 532.55,
+      "en": "He's going to talk about computers.",
+      "zh": "他要谈电脑。"
+    },
+    {
+      "id": 147,
+      "start": 533.24,
+      "end": 533.77,
+      "en": "He's very smart.",
+      "zh": "他很聪明。"
+    },
+    {
+      "id": 148,
+      "start": 533.99,
+      "end": 535.05,
+      "en": "Listen to everything he says.",
+      "zh": "听他说的一切。"
+    },
+    {
+      "id": 149,
+      "start": 535.47,
+      "end": 539.73,
+      "en": "So we usually hear the phrase, let's give a warm welcome to.",
+      "zh": "所以我们通常会听到这句话，让我们热烈欢迎。"
+    },
+    {
+      "id": 150,
+      "start": 540.07,
+      "end": 542.51,
+      "en": "Yes, this is a very nice way of presenting someone.",
+      "zh": "是的，这是展示某人的一种非常好的方式。"
+    },
+    {
+      "id": 151,
+      "start": 542.61,
+      "end": 547.95,
+      "en": "So obviously this person is talking to a group of people and he's introducing Mr. Ford.",
+      "zh": "所以显然这个人正在和一群人交谈，他正在介绍福特先生。"
+    },
+    {
+      "id": 152,
+      "start": 548.13,
+      "end": 551.55,
+      "en": "So he says, let's give a warm welcome to Mr. Ford.",
+      "zh": "所以他说，让我们热烈欢迎福特先生。"
+    },
+    {
+      "id": 153,
+      "start": 551.55,
+      "end": 553.15,
+      "en": "So that's saying let's clap.",
+      "zh": "所以这就是说让我们鼓掌。"
+    },
+    {
+      "id": 154,
+      "start": 553.41,
+      "end": 556.05,
+      "en": "Let's say hello to him.",
+      "zh": "让我们向他问好。"
+    },
+    {
+      "id": 155,
+      "start": 556.39,
+      "end": 556.73,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 156,
+      "start": 556.91,
+      "end": 559.63,
+      "en": "So like you said, this is an invitation to clap.",
+      "zh": "所以就像你说的，这是一个鼓掌的邀请。"
+    },
+    {
+      "id": 157,
+      "start": 559.75,
+      "end": 561.09,
+      "en": "You have to clap when you hear this.",
+      "zh": "当你听到这个时，你必须鼓掌。"
+    },
+    {
+      "id": 158,
+      "start": 561.77,
+      "end": 564.17,
+      "en": "Warm welcome means let's be nice to him.",
+      "zh": "热烈的欢迎意味着让我们对他好一点。"
+    },
+    {
+      "id": 159,
+      "start": 564.27,
+      "end": 565.89,
+      "en": "Let's all smile and encourage him.",
+      "zh": "让我们都微笑并鼓励他。"
+    },
+    {
+      "id": 160,
+      "start": 566.36,
+      "end": 567.92,
+      "en": "You know, you think about it.",
+      "zh": "你知道，你想一想。"
+    },
+    {
+      "id": 161,
+      "start": 567.92,
+      "end": 569.62,
+      "en": "Someone who's going to give a speech is probably nervous.",
+      "zh": "打算发表演讲的人可能很紧张。"
+    },
+    {
+      "id": 162,
+      "start": 570.24,
+      "end": 571.54,
+      "en": "And so this helps them feel comfortable.",
+      "zh": "因此，这有助于他们感到舒适。"
+    },
+    {
+      "id": 163,
+      "start": 571.88,
+      "end": 572.1,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 164,
+      "start": 572.88,
+      "end": 579.0,
+      "en": "So it's a very nice way if you're maybe presenting someone who's going to talk, you can say, let's give a warm welcome to whoever you're presenting.",
+      "zh": "所以这是一个非常好的方式，如果你要介绍一个要说话的人，你可以说，让我们热烈欢迎你介绍的任何人。"
+    },
+    {
+      "id": 165,
+      "start": 579.72,
+      "end": 580.2,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 166,
+      "start": 580.28,
+      "end": 585.58,
+      "en": "Now when Mr. Ford was talking, he mentioned this very interesting phrase about operations.",
+      "zh": "现在，当福特先生谈话时，他提到了这个关于运营的非常有趣的短语。"
+    },
+    {
+      "id": 167,
+      "start": 585.92,
+      "end": 592.04,
+      "en": "He said, it's clear to me that operations here are obviously going from strength to strength.",
+      "zh": "他说，我很清楚这里的行动显然是在不断壮大。"
+    },
+    {
+      "id": 168,
+      "start": 592.12,
+      "end": 592.44,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 169,
+      "start": 592.48,
+      "end": 593.86,
+      "en": "So that means things are going well.",
+      "zh": "所以这意味着事情进展顺利。"
+    },
+    {
+      "id": 170,
+      "start": 594.35,
+      "end": 596.45,
+      "en": "You do one thing, you do it well.",
+      "zh": "你做一件事，你做得很好。"
+    },
+    {
+      "id": 171,
+      "start": 596.77,
+      "end": 598.65,
+      "en": "You move on to another thing, you do that well as well.",
+      "zh": "你继续做另一件事，你也做得很好。"
+    },
+    {
+      "id": 172,
+      "start": 599.04,
+      "end": 599.31,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 173,
+      "start": 600.04,
+      "end": 601.91,
+      "en": "So that's what it means from strength to strength.",
+      "zh": "所以这就是力量到力量的意义。"
+    },
+    {
+      "id": 174,
+      "start": 602.72,
+      "end": 604.71,
+      "en": "So we're saying that things are going from good to better.",
+      "zh": "所以我们说事情正在变得更好。"
+    },
+    {
+      "id": 175,
+      "start": 604.95,
+      "end": 605.31,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 176,
+      "start": 606.16,
+      "end": 607.16,
+      "en": "And getting better.",
+      "zh": "并且变得更好。"
+    },
+    {
+      "id": 177,
+      "start": 607.16,
+      "end": 608.16,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 178,
+      "start": 608.16,
+      "end": 609.16,
+      "en": "And what about our last phrase?",
+      "zh": "最后一个短语是什么呢？"
+    },
+    {
+      "id": 179,
+      "start": 609.16,
+      "end": 610.53,
+      "en": "Our last phrase is kind of similar to the last one.",
+      "zh": "我们的最后一句话与上一句有点相似。"
+    },
+    {
+      "id": 180,
+      "start": 611.12,
+      "end": 614.65,
+      "en": "The alpha brand continues to grow in leaps and bounds.",
+      "zh": "Alpha 品牌继续飞速发展。"
+    },
+    {
+      "id": 181,
+      "start": 615.41,
+      "end": 615.83,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 182,
+      "start": 616.08,
+      "end": 618.07,
+      "en": "So you can have a company that grows.",
+      "zh": "所以你可以有一家成长的公司。"
+    },
+    {
+      "id": 183,
+      "start": 618.48,
+      "end": 619.15,
+      "en": "It grows a little.",
+      "zh": "它长了一点。"
+    },
+    {
+      "id": 184,
+      "start": 619.52,
+      "end": 621.61,
+      "en": "You can have a company that grows quite a bit.",
+      "zh": "你可以拥有一家发展相当多的公司。"
+    },
+    {
+      "id": 185,
+      "start": 622.17,
+      "end": 624.75,
+      "en": "Then you have a company that grows in leaps and bounds.",
+      "zh": "然后，您有一家公司在飞速发展。"
+    },
+    {
+      "id": 186,
+      "start": 624.99,
+      "end": 626.01,
+      "en": "That means a lot.",
+      "zh": "这意味着很多。"
+    },
+    {
+      "id": 187,
+      "start": 626.48,
+      "end": 627.48,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 188,
+      "start": 627.48,
+      "end": 629.97,
+      "en": "So to leap is to jump, right?",
+      "zh": "所以跳跃就是跳跃，对吧？"
+    },
+    {
+      "id": 189,
+      "start": 630.34,
+      "end": 630.47,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 190,
+      "start": 631.34,
+      "end": 631.88,
+      "en": "And so this is what we're saying.",
+      "zh": "这就是我们所说的。"
+    },
+    {
+      "id": 191,
+      "start": 632.34,
+      "end": 633.6,
+      "en": "We're just jumping higher and higher.",
+      "zh": "我们只是跳得越来越高。"
+    },
+    {
+      "id": 192,
+      "start": 633.84,
+      "end": 635.44,
+      "en": "We're getting bigger and bigger or better and better.",
+      "zh": "我们变得越来越大或越来越好。"
+    },
+    {
+      "id": 193,
+      "start": 635.6,
+      "end": 636.02,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 194,
+      "start": 636.34,
+      "end": 637.66,
+      "en": "So this is an exaggeration.",
+      "zh": "所以这是一种夸张。"
+    },
+    {
+      "id": 195,
+      "start": 637.96,
+      "end": 640.62,
+      "en": "It's like saying that it's not going quickly.",
+      "zh": "这就像说它不会很快进行。"
+    },
+    {
+      "id": 196,
+      "start": 640.9,
+      "end": 642.64,
+      "en": "It's going the speed of light.",
+      "zh": "它正在以光的速度行驶。"
+    },
+    {
+      "id": 197,
+      "start": 643.24,
+      "end": 644.6,
+      "en": "You know, it's just so fast.",
+      "zh": "你知道，它只是如此之快。"
+    },
+    {
+      "id": 198,
+      "start": 644.6,
+      "end": 645.8,
+      "en": "All of a sudden, just really growing.",
+      "zh": "突然间，真的是在成长。"
+    },
+    {
+      "id": 199,
+      "start": 646.32,
+      "end": 647.32,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 200,
+      "start": 647.32,
+      "end": 648.54,
+      "en": "A lot of interesting phrases there.",
+      "zh": "那里有很多有趣的短语。"
+    },
+    {
+      "id": 201,
+      "start": 648.8,
+      "end": 649.9,
+      "en": "A lot of key vocab.",
+      "zh": "很多关键词汇。"
+    },
+    {
+      "id": 202,
+      "start": 650.1,
+      "end": 651.78,
+      "en": "I think we can listen to this dialogue again.",
+      "zh": "我想我们可以再听一次这种对话。"
+    },
+    {
+      "id": 203,
+      "start": 652.5,
+      "end": 653.22,
+      "en": "And we'll be back in a bit.",
+      "zh": "我们稍后会回来。"
+    },
+    {
+      "id": 204,
+      "start": 653.6,
+      "end": 654.6,
+      "en": "Hi, everyone.",
+      "zh": "大家好。"
+    },
+    {
+      "id": 205,
+      "start": 654.6,
+      "end": 655.6,
+      "en": "Can everyone hear me?",
+      "zh": "大家能听到我说话吗？"
+    },
+    {
+      "id": 206,
+      "start": 655.6,
+      "end": 667.16,
+      "en": "Can you guys at the back hear everything?",
+      "zh": "你们后面的人能听到一切吗？"
+    },
+    {
+      "id": 207,
+      "start": 667.16,
+      "end": 669.32,
+      "en": "I think all of you know why we are here this afternoon.",
+      "zh": "我想你们所有人都知道我们今天下午为什么在这里。"
+    },
+    {
+      "id": 208,
+      "start": 670.1,
+      "end": 673.68,
+      "en": "As most of you are aware, 2010 marks an important moment for alpha computers.",
+      "zh": "你们大多数人都知道，2010 年标志着 Alpha 计算机的重要时刻。"
+    },
+    {
+      "id": 209,
+      "start": 674.48,
+      "end": 679.48,
+      "en": "We have bounced back from the recession and now we are set to launch our new line of laptop and desktop computers.",
+      "zh": "我们已经从经济衰退中恢复过来，现在我们准备推出我们的新系列笔记本电脑和台式电脑。"
+    },
+    {
+      "id": 210,
+      "start": 680.38,
+      "end": 690.72,
+      "en": "I'm really pleased to welcome Michael Ford, the global marketing manager for alpha computers, who has flown in from California to give all of you an overview of the marketing campaign and to answer any questions you may have.",
+      "zh": "我真的很高兴欢迎 Alpha Computers 的全球营销经理 Michael Ford，他从加利福尼亚飞来，为大家提供营销活动的概述，并回答您可能遇到的任何问题。"
+    },
+    {
+      "id": 211,
+      "start": 691.26,
+      "end": 693.18,
+      "en": "So please, give a warm welcome to Mr. Ford.",
+      "zh": "所以，请热烈欢迎福特先生。"
+    },
+    {
+      "id": 212,
+      "start": 695.9,
+      "end": 696.66,
+      "en": "Thank you, Jonathan.",
+      "zh": "谢谢你，Jonathan。"
+    },
+    {
+      "id": 213,
+      "start": 697.96,
+      "end": 699.64,
+      "en": "It really is a pleasure to be here today.",
+      "zh": "今天真的很高兴来到这里。"
+    },
+    {
+      "id": 214,
+      "start": 700.36,
+      "end": 706.36,
+      "en": "It has been three years since I visited Beijing and it's clear to me that operations here are obviously going from strength to strength.",
+      "zh": "距离我上次来北京已经三年了，显然，这里的业务发展得越来越好。"
+    },
+    {
+      "id": 215,
+      "start": 707.0,
+      "end": 712.72,
+      "en": "The alpha brand continues to grow in leaps and bounds in China and that is certainly down to the hard work of all of you here.",
+      "zh": "Alpha 品牌在中国的飞速发展继续增长，这当然是你们所有人的辛勤工作。"
+    },
+    {
+      "id": 216,
+      "start": 713.42,
+      "end": 715.0,
+      "en": "So congratulations to all of you.",
+      "zh": "所以祝贺你们所有人。"
+    },
+    {
+      "id": 217,
+      "start": 719.36,
+      "end": 725.81,
+      "en": "I'd like to start by outlining the key points of my presentation this afternoon and giving you an idea of the topics that will be discussed.",
+      "zh": "我想首先概述我今天下午演讲的要点，并让您了解将要讨论的主题。"
+    },
+    {
+      "id": 218,
+      "start": 726.8,
+      "end": 729.23,
+      "en": "The presentation today is divided into five main parts.",
+      "zh": "今天的演示文稿分为五个主要部分。"
+    },
+    {
+      "id": 219,
+      "start": 730.36,
+      "end": 738.79,
+      "en": "First of all, I'd like to briefly touch on the background of the new X420 line, how the whole concept has come about and how the new product fits into our existing brand line.",
+      "zh": "首先，我想简单谈谈新X420系列的背景，整个概念是如何产生的，以及新产品如何融入我们现有的品牌系列。"
+    },
+    {
+      "id": 220,
+      "start": 739.2,
+      "end": 742.73,
+      "en": "Secondly, I'd like to present data on projected sales for the X420.",
+      "zh": "其次，我想展示X420的预计销售数据。"
+    },
+    {
+      "id": 221,
+      "start": 744.08,
+      "end": 746.73,
+      "en": "We will then go on to discuss our key rivals in this sector.",
+      "zh": "然后，我们将继续讨论我们在该领域的主要竞争对手。"
+    },
+    {
+      "id": 222,
+      "start": 747.36,
+      "end": 750.15,
+      "en": "Then I'd like to go on to outline the campaign concept for the X420.",
+      "zh": "然后我想继续概述 X420 的活动概念。"
+    },
+    {
+      "id": 223,
+      "start": 750.99,
+      "end": 755.59,
+      "en": "Finally, I'm happy to open up the discussion for any questions or points you may have for me.",
+      "zh": "最后，我很高兴为您可能对我提出的任何问题或观点展开讨论。"
+    },
+    {
+      "id": 224,
+      "start": 761.96,
+      "end": 768.44,
+      "en": "Alright, so as we mentioned, this is the first part of a ten-part series all about public speaking, giving a presentation.",
+      "zh": "好吧，正如我们所提到的，这是关于公开演讲的十部分系列的第一部分，进行演示。"
+    },
+    {
+      "id": 225,
+      "start": 768.44,
+      "end": 777.53,
+      "en": "We're going to talk about many aspects of a presentation like charts and graphs and using PowerPoint, all these really modern ways of giving a presentation.",
+      "zh": "我们将讨论演示文稿的许多方面，例如图表和图表和使用 PowerPoint，所有这些真正现代的演示方式。"
+    },
+    {
+      "id": 226,
+      "start": 778.21,
+      "end": 784.89,
+      "en": "That's right and we're going to try and talk to you about some of the places in presentations that English learners tend to struggle with.",
+      "zh": "没错，我们将尝试与您讨论英语学习者倾向于在演讲中的一些地方。"
+    },
+    {
+      "id": 227,
+      "start": 785.44,
+      "end": 792.62,
+      "en": "You know, it's sometimes very hard to know what to say, especially like in today's lesson, how do you introduce someone in a presentation?",
+      "zh": "你知道，有时很难知道该说什么，尤其是在今天的课程中，你如何在演示中介绍某人？"
+    },
+    {
+      "id": 228,
+      "start": 792.62,
+      "end": 794.19,
+      "en": "It's not very common to learn how to say that.",
+      "zh": "学习如何说并不常见。"
+    },
+    {
+      "id": 229,
+      "start": 794.4,
+      "end": 803.16,
+      "en": "So we hope that through these podcasts, you'll be able to learn some really important phrases and become more comfortable while you're giving presentations in English.",
+      "zh": "因此，我们希望通过这些播客，您将能够学习一些非常重要的短语，并在用英语进行演示时变得更加舒适。"
+    },
+    {
+      "id": 230,
+      "start": 803.16,
+      "end": 803.33,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 231,
+      "start": 804.16,
+      "end": 813.77,
+      "en": "And of course, if you have any questions about these lessons or any of our lessons, you can always find us at EnglishPod.com or you can send us also your suggestions about any lesson topics you may have.",
+      "zh": "当然，如果您对这些课程或我们的任何课程有任何疑问，您可以随时在 Englishpod.com 找到我们，或者您也可以向我们发送您对您可能拥有的任何课程主题的建议。"
+    },
+    {
+      "id": 232,
+      "start": 814.05,
+      "end": 814.37,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 233,
+      "start": 814.51,
+      "end": 815.39,
+      "en": "So we hope to hear from you.",
+      "zh": "所以我们希望收到您的来信。"
+    },
+    {
+      "id": 234,
+      "start": 815.49,
+      "end": 818.33,
+      "en": "Please let us know what you're thinking and until next time everyone.",
+      "zh": "请让我们知道您在想什么，直到下次大家。"
+    },
+    {
+      "id": 235,
+      "start": 818.52,
+      "end": 819.52,
+      "en": "Bye.",
+      "zh": "再见。"
+    },
+    {
+      "id": 236,
+      "start": 819.52,
+      "end": 827.403,
+      "en": "Thank you.",
+      "zh": "谢谢。"
+    }
+  ],
+  "dialog": {
+    "start": 39.36,
+    "end": 136.73,
+    "segmentIds": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32
+    ]
+  }
+}

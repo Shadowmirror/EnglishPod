@@ -1,0 +1,1846 @@
+{
+  "version": 1,
+  "id": 105,
+  "number": "0105",
+  "title": "The Office - Job Well Done",
+  "audio": "mp3/105. The Office - Job Well Done.mp3",
+  "duration": 803.7878125,
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.49,
+      "end": 3.93,
+      "en": "Hello English learners, welcome back to EnglishPod.",
+      "zh": "您好英语学习者，欢迎回到 EnglishPod。"
+    },
+    {
+      "id": 2,
+      "start": 4.2,
+      "end": 4.65,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 5.2,
+      "end": 6.2,
+      "en": "And I'm Erika.",
+      "zh": "我叫 Erika。"
+    },
+    {
+      "id": 4,
+      "start": 6.2,
+      "end": 11.43,
+      "en": "Today we're bringing you a lesson about the office, so something related to business, right?",
+      "zh": "今天我们为您带来有关办公室的课程，因此与商业有关，对吧？"
+    },
+    {
+      "id": 5,
+      "start": 12.36,
+      "end": 13.36,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 6,
+      "start": 13.36,
+      "end": 19.11,
+      "en": "And in this lesson, we're learning language you can use to tell someone they did a good job.",
+      "zh": "在本课中，我们正在学习您可以用来告诉某人他们做得很好的语言。"
+    },
+    {
+      "id": 7,
+      "start": 19.88,
+      "end": 21.33,
+      "en": "Okay, so a job well done.",
+      "zh": "好的，所以做得很好。"
+    },
+    {
+      "id": 8,
+      "start": 21.68,
+      "end": 23.56,
+      "en": "You want to praise somebody.",
+      "zh": "你想赞美某人。"
+    },
+    {
+      "id": 9,
+      "start": 24.12,
+      "end": 24.3,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 10,
+      "start": 25.12,
+      "end": 30.52,
+      "en": "And we're going to listen in as a manager praises his employee on a presentation.",
+      "zh": "当经理在演示中赞扬他的员工时，我们将倾听。"
+    },
+    {
+      "id": 11,
+      "start": 30.6,
+      "end": 36.5,
+      "en": "Okay, so before we listen to the dialogue, let's take a look very quickly at vocabulary preview.",
+      "zh": "好的，在我们听对话之前，让我们快速看一下词汇预览。"
+    },
+    {
+      "id": 12,
+      "start": 38.78,
+      "end": 39.78,
+      "en": "Vocabulary preview.",
+      "zh": "词汇预习。"
+    },
+    {
+      "id": 13,
+      "start": 40.46,
+      "end": 43.66,
+      "en": "Well, we're going to hear both of these words in the dialogue.",
+      "zh": "好吧，我们将在对话中听到这两个词。"
+    },
+    {
+      "id": 14,
+      "start": 44.36,
+      "end": 46.9,
+      "en": "And the first one is a whiz.",
+      "zh": "第一个是一个神童。"
+    },
+    {
+      "id": 15,
+      "start": 47.44,
+      "end": 47.96,
+      "en": "Whiz.",
+      "zh": "呼啸而过。"
+    },
+    {
+      "id": 16,
+      "start": 48.24,
+      "end": 49.08,
+      "en": "To be a whiz.",
+      "zh": "成为一个天才。"
+    },
+    {
+      "id": 17,
+      "start": 49.48,
+      "end": 50.42,
+      "en": "Okay, so it's an adjective.",
+      "zh": "好吧，所以这是一个形容词。"
+    },
+    {
+      "id": 18,
+      "start": 50.74,
+      "end": 52.18,
+      "en": "Somebody is a whiz.",
+      "zh": "有人是个鬼人。"
+    },
+    {
+      "id": 19,
+      "start": 52.32,
+      "end": 52.6,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 20,
+      "start": 52.84,
+      "end": 55.4,
+      "en": "And the whiz comes from the word wizard.",
+      "zh": "而神灵来自于“巫师”这个词。"
+    },
+    {
+      "id": 21,
+      "start": 55.86,
+      "end": 59.7,
+      "en": "Okay, so kind of like a, like a witch, but a guy witch.",
+      "zh": "好吧，有点像一个，像一个女巫，而是一个男人的女巫。"
+    },
+    {
+      "id": 22,
+      "start": 60.16,
+      "end": 60.54,
+      "en": "Yeah, man witch.",
+      "zh": "是的，男巫。"
+    },
+    {
+      "id": 23,
+      "start": 61.12,
+      "end": 65.18,
+      "en": "But so a whiz is someone who is really good at something.",
+      "zh": "但是，一个神童是一个真正擅长某事的人。"
+    },
+    {
+      "id": 24,
+      "start": 65.8,
+      "end": 70.96,
+      "en": "Okay, so I can say David is a computer whiz.",
+      "zh": "好的，所以我可以说大卫是一个电脑专家。"
+    },
+    {
+      "id": 25,
+      "start": 70.96,
+      "end": 73.28,
+      "en": "Or Anthony is a math whiz.",
+      "zh": "或者安东尼是一个数学专家。"
+    },
+    {
+      "id": 26,
+      "start": 73.33,
+      "end": 78.31,
+      "en": "Okay, so he's really good at computers or he's really good at math or he knows a lot about math.",
+      "zh": "好吧，所以他真的很擅长计算机，或者他非常擅长数学，或者他对数学了解很多。"
+    },
+    {
+      "id": 27,
+      "start": 78.61,
+      "end": 78.85,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 28,
+      "start": 79.33,
+      "end": 79.75,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 29,
+      "start": 80.86,
+      "end": 81.86,
+      "en": "And our second word.",
+      "zh": "和我们的第二个词。"
+    },
+    {
+      "id": 30,
+      "start": 81.91,
+      "end": 83.53,
+      "en": "Well, we're going to hear about slides.",
+      "zh": "好吧，我们将听到关于幻灯片的消息。"
+    },
+    {
+      "id": 31,
+      "start": 84.43,
+      "end": 84.99,
+      "en": "Slides.",
+      "zh": "幻灯片。"
+    },
+    {
+      "id": 32,
+      "start": 85.35,
+      "end": 86.01,
+      "en": "PowerPoint slides.",
+      "zh": "PowerPoint 幻灯片。"
+    },
+    {
+      "id": 33,
+      "start": 86.61,
+      "end": 87.23,
+      "en": "PowerPoint slides.",
+      "zh": "PowerPoint 幻灯片。"
+    },
+    {
+      "id": 34,
+      "start": 87.59,
+      "end": 90.33,
+      "en": "Okay, so everyone knows PowerPoint, right?",
+      "zh": "好吧，所以每个人都知道PowerPoint，对吧？"
+    },
+    {
+      "id": 35,
+      "start": 90.79,
+      "end": 91.43,
+      "en": "A computer program.",
+      "zh": "一个计算机程序。"
+    },
+    {
+      "id": 36,
+      "start": 91.67,
+      "end": 95.35,
+      "en": "A computer program that you use to make presentations.",
+      "zh": "用于进行演示的计算机程序。"
+    },
+    {
+      "id": 37,
+      "start": 96.05,
+      "end": 99.65,
+      "en": "And a slide is one page in that presentation.",
+      "zh": "幻灯片是该演示文稿中的一页。"
+    },
+    {
+      "id": 38,
+      "start": 100.05,
+      "end": 106.19,
+      "en": "Okay, so if you have 10 pages in your PowerPoint presentation, you basically have 10 slides.",
+      "zh": "好的，所以如果你的 PowerPoint 演示文稿中有 10 页，你基本上有 10 张幻灯片。"
+    },
+    {
+      "id": 39,
+      "start": 106.65,
+      "end": 106.91,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 40,
+      "start": 107.43,
+      "end": 107.85,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 41,
+      "start": 108.07,
+      "end": 114.85,
+      "en": "So now let's listen to the dialogue for the first time and we're going to see what's happening in this business meeting.",
+      "zh": "所以现在让我们第一次听对话，我们将看看这次商务会议正在发生什么。"
+    },
+    {
+      "id": 42,
+      "start": 118.76,
+      "end": 122.68,
+      "en": "And so that concludes my outline for our marketing strategy next year.",
+      "zh": "这就是我明年营销策略的大纲。"
+    },
+    {
+      "id": 43,
+      "start": 123.34,
+      "end": 124.24,
+      "en": "Thank you very much for your time.",
+      "zh": "非常感谢您的宝贵时间。"
+    },
+    {
+      "id": 44,
+      "start": 126.12,
+      "end": 130.76,
+      "en": "Hey, that was quite the presentation.",
+      "zh": "刚才的演讲太精彩了。"
+    },
+    {
+      "id": 45,
+      "start": 130.76,
+      "end": 133.83,
+      "en": "Honestly, I was completely blown away by your strategy outline.",
+      "zh": "说真的，你的策略提纲让我眼前一亮。"
+    },
+    {
+      "id": 46,
+      "start": 134.51,
+      "end": 137.89,
+      "en": "I've got to say, Alex, you really wowed me today.",
+      "zh": "亚历克斯，你今天真让我刮目相看。"
+    },
+    {
+      "id": 47,
+      "start": 138.61,
+      "end": 139.61,
+      "en": "Come on, it was nothing.",
+      "zh": "哪里，没什么。"
+    },
+    {
+      "id": 48,
+      "start": 140.23,
+      "end": 140.95,
+      "en": "I'm just doing my job.",
+      "zh": "我只是在做我的工作。"
+    },
+    {
+      "id": 49,
+      "start": 141.43,
+      "end": 143.91,
+      "en": "No, I think you deserve some recognition here.",
+      "zh": "不，我觉得你值得表扬。"
+    },
+    {
+      "id": 50,
+      "start": 144.35,
+      "end": 148.59,
+      "en": "I mean, if I look back on your previous presentations, this is a huge improvement.",
+      "zh": "跟你之前的演讲相比，这次进步太大了。"
+    },
+    {
+      "id": 51,
+      "start": 149.09,
+      "end": 151.07,
+      "en": "Well, Christian did give me a hand with the slides.",
+      "zh": "克里斯蒂安帮我做了幻灯片。"
+    },
+    {
+      "id": 52,
+      "start": 151.45,
+      "end": 152.71,
+      "en": "She's a real whiz on PowerPoint.",
+      "zh": "她做PPT可真是一把好手。"
+    },
+    {
+      "id": 53,
+      "start": 153.23,
+      "end": 156.33,
+      "en": "And I saw that you took on board my feedback about pricing strategies.",
+      "zh": "我注意到你采纳了我对定价策略的建议。"
+    },
+    {
+      "id": 54,
+      "start": 157.03,
+      "end": 159.63,
+      "en": "I really appreciate you taking the time to think through my suggestions.",
+      "zh": "谢谢你认真考虑我的建议。"
+    },
+    {
+      "id": 55,
+      "start": 160.41,
+      "end": 162.99,
+      "en": "Yeah, well, that was some good advice.",
+      "zh": "是的，嗯，这是一个很好的建议。"
+    },
+    {
+      "id": 56,
+      "start": 164.53,
+      "end": 166.11,
+      "en": "You made some really good points.",
+      "zh": "你提出了一些非常好的观点。"
+    },
+    {
+      "id": 57,
+      "start": 166.67,
+      "end": 168.79,
+      "en": "Well, I just wanted to say, well done.",
+      "zh": "我就是想夸你一句：干得好。"
+    },
+    {
+      "id": 58,
+      "start": 169.45,
+      "end": 171.11,
+      "en": "Really, you did a great job.",
+      "zh": "真的，你做得很好。"
+    },
+    {
+      "id": 59,
+      "start": 174.98,
+      "end": 181.76,
+      "en": "All right, well, it sounds like the employee is a little bit shy or embarrassed by receiving all of these compliments.",
+      "zh": "好吧，听起来员工对收到所有这些赞美感到有点害羞或尴尬。"
+    },
+    {
+      "id": 60,
+      "start": 182.48,
+      "end": 185.22,
+      "en": "Yeah, I guess he's kind of being humble about it.",
+      "zh": "是的，我想他有点谦虚。"
+    },
+    {
+      "id": 61,
+      "start": 185.48,
+      "end": 185.7,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 62,
+      "start": 186.64,
+      "end": 188.72,
+      "en": "So why don't we move on to the language now?",
+      "zh": "那么我们为什么不现在继续使用语言呢？"
+    },
+    {
+      "id": 63,
+      "start": 188.72,
+      "end": 194.46,
+      "en": "There are so many really useful phrases in this dialogue that I think we're just going to focus on those today.",
+      "zh": "在这个对话中有很多非常有用的短语，我认为我们今天将专注于这些短语。"
+    },
+    {
+      "id": 64,
+      "start": 194.8,
+      "end": 196.76,
+      "en": "So let's get started with Fluency Builder.",
+      "zh": "所以让我们开始使用 Flueny Builder。"
+    },
+    {
+      "id": 65,
+      "start": 199.08,
+      "end": 199.36,
+      "en": "Fluency Builder.",
+      "zh": "流利表达。"
+    },
+    {
+      "id": 66,
+      "start": 200.17,
+      "end": 203.91,
+      "en": "Okay, so today on Fluency Builder, let's start with our first phrase.",
+      "zh": "好的，今天在 Fluency Builder 上，让我们从我们的第一个短语开始。"
+    },
+    {
+      "id": 67,
+      "start": 204.37,
+      "end": 210.85,
+      "en": "The boss was so impressed with the presentation that he said, I was completely blown away.",
+      "zh": "老板对演讲的印象非常深刻，他说，我完全被震撼了。"
+    },
+    {
+      "id": 68,
+      "start": 211.25,
+      "end": 213.33,
+      "en": "To be completely blown away.",
+      "zh": "完全被吹走。"
+    },
+    {
+      "id": 69,
+      "start": 213.89,
+      "end": 217.33,
+      "en": "Okay, so to be completely blown away.",
+      "zh": "好吧，所以要完全被吹走。"
+    },
+    {
+      "id": 70,
+      "start": 217.59,
+      "end": 218.97,
+      "en": "Or to be blown away.",
+      "zh": "或被吹走。"
+    },
+    {
+      "id": 71,
+      "start": 219.36,
+      "end": 223.48,
+      "en": "All right, so what does that mean, to be blown away?",
+      "zh": "好吧，那是什么意思，被吹走了？"
+    },
+    {
+      "id": 72,
+      "start": 223.48,
+      "end": 227.57,
+      "en": "To be surprised and amazed, but in a very positive way.",
+      "zh": "感到惊讶和惊讶，但以非常积极的方式。"
+    },
+    {
+      "id": 73,
+      "start": 228.0,
+      "end": 233.85,
+      "en": "Okay, so I can say, I'm surprised, I'm amazed, but I'm still not very clear on this.",
+      "zh": "好吧，我可以说，我很惊讶，我很惊讶，但我对此仍然不是很清楚。"
+    },
+    {
+      "id": 74,
+      "start": 234.04,
+      "end": 237.45,
+      "en": "Why don't we listen to a couple of examples of how we could use this phrase?",
+      "zh": "我们为什么不听几个例子来说明我们如何使用这个短语？"
+    },
+    {
+      "id": 75,
+      "start": 239.2,
+      "end": 239.51,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 76,
+      "start": 242.32,
+      "end": 244.84,
+      "en": "Carl blew me away with his knowledge of political science.",
+      "zh": "卡尔对政治学的了解让我大吃一惊。"
+    },
+    {
+      "id": 77,
+      "start": 247.72,
+      "end": 250.36,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 78,
+      "start": 250.36,
+      "end": 252.96,
+      "en": "I was blown away when I heard that Jenny and Rick had gotten married.",
+      "zh": "当我听说珍妮和瑞克结婚时，我感到震惊。"
+    },
+    {
+      "id": 79,
+      "start": 253.52,
+      "end": 257.68,
+      "en": "They've known each other for less than a month.",
+      "zh": "他们认识不到一个月。"
+    },
+    {
+      "id": 80,
+      "start": 257.68,
+      "end": 260.88,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 81,
+      "start": 260.88,
+      "end": 263.32,
+      "en": "My parents were blown away when they found out I had a tattoo.",
+      "zh": "当我的父母发现我有纹身时，他们被震撼了。"
+    },
+    {
+      "id": 82,
+      "start": 265.38,
+      "end": 267.48,
+      "en": "Okay, so I think that's a little bit clearer now.",
+      "zh": "好的，所以我认为现在更清楚了一点。"
+    },
+    {
+      "id": 83,
+      "start": 267.48,
+      "end": 272.9,
+      "en": "And this is a wonderful way to give your praise to someone when they do something really amazing.",
+      "zh": "当他们做一些非常令人惊奇的事情时，这是对某人赞美的绝妙方式。"
+    },
+    {
+      "id": 84,
+      "start": 273.12,
+      "end": 275.44,
+      "en": "Okay, so completely blown away.",
+      "zh": "好吧，完全被吹走了。"
+    },
+    {
+      "id": 85,
+      "start": 275.68,
+      "end": 276.5,
+      "en": "You blew me away.",
+      "zh": "你把我吹走了。"
+    },
+    {
+      "id": 86,
+      "start": 276.82,
+      "end": 277.16,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 87,
+      "start": 277.52,
+      "end": 279.22,
+      "en": "Now, what about our second word?",
+      "zh": "现在，我们的第二个词呢？"
+    },
+    {
+      "id": 88,
+      "start": 279.28,
+      "end": 280.06,
+      "en": "Well, it's quite similar.",
+      "zh": "嗯，很相似。"
+    },
+    {
+      "id": 89,
+      "start": 280.7,
+      "end": 284.2,
+      "en": "The boss said that you really wowed me.",
+      "zh": "老板说你真的让我赞叹不已。"
+    },
+    {
+      "id": 90,
+      "start": 284.98,
+      "end": 285.7,
+      "en": "You wowed me.",
+      "zh": "你让我惊叹。"
+    },
+    {
+      "id": 91,
+      "start": 286.04,
+      "end": 286.94,
+      "en": "To wow someone.",
+      "zh": "让某人惊叹。"
+    },
+    {
+      "id": 92,
+      "start": 287.36,
+      "end": 290.68,
+      "en": "Okay, so it's spelled W-O-W, wow.",
+      "zh": "好的，所以它拼写为 w-o-w，哇。"
+    },
+    {
+      "id": 93,
+      "start": 290.68,
+      "end": 293.82,
+      "en": "So when you wow someone, you make that person go, wow.",
+      "zh": "所以当你让某人惊叹时，你让那个人离开，哇。"
+    },
+    {
+      "id": 94,
+      "start": 294.16,
+      "end": 295.82,
+      "en": "Okay, so you impress somebody.",
+      "zh": "好吧，所以你给别人留下了深刻的印象。"
+    },
+    {
+      "id": 95,
+      "start": 296.12,
+      "end": 297.12,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 96,
+      "start": 297.12,
+      "end": 298.12,
+      "en": "To wow someone.",
+      "zh": "让某人惊叹。"
+    },
+    {
+      "id": 97,
+      "start": 298.12,
+      "end": 298.74,
+      "en": "I can use it as a verb.",
+      "zh": "我可以用它作为动词。"
+    },
+    {
+      "id": 98,
+      "start": 299.12,
+      "end": 300.24,
+      "en": "You wowed me.",
+      "zh": "你让我惊叹。"
+    },
+    {
+      "id": 99,
+      "start": 300.26,
+      "end": 301.12,
+      "en": "I want to wow you.",
+      "zh": "我想让你惊叹。"
+    },
+    {
+      "id": 100,
+      "start": 301.5,
+      "end": 302.82,
+      "en": "Well, I want you to wow me.",
+      "zh": "好吧，我要你让我惊叹。"
+    },
+    {
+      "id": 101,
+      "start": 303.4,
+      "end": 304.34,
+      "en": "Okay, so wow.",
+      "zh": "好吧，哇。"
+    },
+    {
+      "id": 102,
+      "start": 305.28,
+      "end": 307.1,
+      "en": "Now let's take a look at our third phrase.",
+      "zh": "现在让我们来看看我们的第三个短语。"
+    },
+    {
+      "id": 103,
+      "start": 307.66,
+      "end": 308.98,
+      "en": "The guy, he's a little bit shy.",
+      "zh": "那个人，他有点害羞。"
+    },
+    {
+      "id": 104,
+      "start": 309.44,
+      "end": 313.04,
+      "en": "He's trying to be a little bit humble about, you know, receiving so many compliments.",
+      "zh": "你知道，他试图谦虚一点，得到这么多赞美。"
+    },
+    {
+      "id": 105,
+      "start": 313.66,
+      "end": 315.66,
+      "en": "So he says, oh, it was nothing.",
+      "zh": "所以他说，哦，这没什么。"
+    },
+    {
+      "id": 106,
+      "start": 316.08,
+      "end": 316.64,
+      "en": "It was nothing.",
+      "zh": "没什么。"
+    },
+    {
+      "id": 107,
+      "start": 317.1,
+      "end": 317.42,
+      "en": "Really?",
+      "zh": "真的吗？"
+    },
+    {
+      "id": 108,
+      "start": 318.08,
+      "end": 318.3,
+      "en": "It was nothing.",
+      "zh": "没什么。"
+    },
+    {
+      "id": 109,
+      "start": 319.08,
+      "end": 320.08,
+      "en": "It was nothing.",
+      "zh": "没什么。"
+    },
+    {
+      "id": 110,
+      "start": 320.08,
+      "end": 322.56,
+      "en": "So that's a way of saying it wasn't hard or it's not a big deal.",
+      "zh": "所以这是一种说这并不难或没什么大不了的方式。"
+    },
+    {
+      "id": 111,
+      "start": 322.82,
+      "end": 323.4,
+      "en": "It's not that important.",
+      "zh": "这不是那么重要。"
+    },
+    {
+      "id": 112,
+      "start": 323.82,
+      "end": 324.1,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 113,
+      "start": 324.82,
+      "end": 328.26,
+      "en": "So if somebody's saying, wow, thank you so much for lending me your car, don't worry about it.",
+      "zh": "所以如果有人说，哇，非常感谢你把你的车借给我，不要担心。"
+    },
+    {
+      "id": 114,
+      "start": 329.72,
+      "end": 330.72,
+      "en": "It was nothing.",
+      "zh": "没什么。"
+    },
+    {
+      "id": 115,
+      "start": 330.72,
+      "end": 331.72,
+      "en": "It was nothing.",
+      "zh": "没什么。"
+    },
+    {
+      "id": 116,
+      "start": 331.72,
+      "end": 332.72,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 117,
+      "start": 332.72,
+      "end": 334.8,
+      "en": "It's a polite way actually to respond to a nice compliment.",
+      "zh": "这是一种礼貌的方式来回应一个很好的赞美。"
+    },
+    {
+      "id": 118,
+      "start": 334.8,
+      "end": 334.94,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 119,
+      "start": 335.8,
+      "end": 340.74,
+      "en": "So before we move on to our next phrase, let's listen to a couple of examples with it was nothing.",
+      "zh": "所以在我们继续下一个短语之前，让我们听几个例子，它什么都不是。"
+    },
+    {
+      "id": 120,
+      "start": 342.56,
+      "end": 342.98,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 121,
+      "start": 344.34,
+      "end": 345.78,
+      "en": "Thanks for lending me your car this week.",
+      "zh": "谢谢你这周把你的车借给我。"
+    },
+    {
+      "id": 122,
+      "start": 346.24,
+      "end": 347.26,
+      "en": "I really appreciate it.",
+      "zh": "我真的很感激。"
+    },
+    {
+      "id": 123,
+      "start": 347.66,
+      "end": 348.4,
+      "en": "It's okay, really.",
+      "zh": "没关系，真的。"
+    },
+    {
+      "id": 124,
+      "start": 348.8,
+      "end": 349.38,
+      "en": "It was nothing.",
+      "zh": "没什么。"
+    },
+    {
+      "id": 125,
+      "start": 351.12,
+      "end": 351.76,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 126,
+      "start": 353.42,
+      "end": 356.36,
+      "en": "I can't believe you organized the surprise birthday party.",
+      "zh": "我不敢相信你组织了惊喜生日派对。"
+    },
+    {
+      "id": 127,
+      "start": 356.7,
+      "end": 357.64,
+      "en": "Thank you so much.",
+      "zh": "非常感谢。"
+    },
+    {
+      "id": 128,
+      "start": 358.06,
+      "end": 358.88,
+      "en": "Don't worry about it.",
+      "zh": "别担心。"
+    },
+    {
+      "id": 129,
+      "start": 359.04,
+      "end": 359.54,
+      "en": "It was nothing.",
+      "zh": "没什么。"
+    },
+    {
+      "id": 130,
+      "start": 360.2,
+      "end": 361.2,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 131,
+      "start": 362.57,
+      "end": 364.01,
+      "en": "So I think that's pretty clear.",
+      "zh": "所以我认为这很清楚。"
+    },
+    {
+      "id": 132,
+      "start": 364.28,
+      "end": 371.52,
+      "en": "Now our final phrase here for fluency builder, the employee said that Kirsten gave him a hand.",
+      "zh": "现在是流利建设者的最后一句话，员工说克尔斯滕帮了他一把。"
+    },
+    {
+      "id": 133,
+      "start": 371.53,
+      "end": 371.69,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 134,
+      "start": 372.01,
+      "end": 374.17,
+      "en": "So to give someone a hand.",
+      "zh": "所以给某人一把手。"
+    },
+    {
+      "id": 135,
+      "start": 374.35,
+      "end": 375.19,
+      "en": "Give me a hand.",
+      "zh": "帮我一把。"
+    },
+    {
+      "id": 136,
+      "start": 375.37,
+      "end": 376.09,
+      "en": "Give me a hand.",
+      "zh": "帮我一把。"
+    },
+    {
+      "id": 137,
+      "start": 377.08,
+      "end": 378.2,
+      "en": "Basically to help someone.",
+      "zh": "基本上是为了帮助某人。"
+    },
+    {
+      "id": 138,
+      "start": 378.2,
+      "end": 379.57,
+      "en": "Help me or assist me.",
+      "zh": "帮助我或帮助我。"
+    },
+    {
+      "id": 139,
+      "start": 380.0,
+      "end": 381.0,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 140,
+      "start": 381.0,
+      "end": 384.53,
+      "en": "So to help someone, give me a hand or let me give you a hand.",
+      "zh": "所以为了帮助别人，给我一把手或让我帮你一把。"
+    },
+    {
+      "id": 141,
+      "start": 384.88,
+      "end": 385.03,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 142,
+      "start": 385.88,
+      "end": 386.88,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 143,
+      "start": 386.88,
+      "end": 387.88,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 144,
+      "start": 387.88,
+      "end": 389.36,
+      "en": "So great phrases in fluency builder today.",
+      "zh": "今天流利建设者中的好句子。"
+    },
+    {
+      "id": 145,
+      "start": 389.36,
+      "end": 393.56,
+      "en": "I think it's time for us to listen to the dialogue for the second time.",
+      "zh": "我认为是时候让我们第二次听对话了。"
+    },
+    {
+      "id": 146,
+      "start": 393.56,
+      "end": 397.98,
+      "en": "We're going to slow it down a little bit so we can catch all these phrases and then we'll come back.",
+      "zh": "我们将把它放慢一点，这样我们就可以捕捉到所有这些短语，然后我们会回来。"
+    },
+    {
+      "id": 147,
+      "start": 404.6,
+      "end": 408.92,
+      "en": "And so that concludes my outline for our marketing strategy for next year.",
+      "zh": "我对明年营销策略的大纲也就到此结束。"
+    },
+    {
+      "id": 148,
+      "start": 409.92,
+      "end": 411.16,
+      "en": "Thank you very much for your time.",
+      "zh": "非常感谢您的宝贵时间。"
+    },
+    {
+      "id": 149,
+      "start": 412.32,
+      "end": 414.96,
+      "en": "Hey, that was quite the presentation.",
+      "zh": "刚才的演讲太精彩了。"
+    },
+    {
+      "id": 150,
+      "start": 415.52,
+      "end": 419.84,
+      "en": "Honestly, I was completely blown away by your strategy outline.",
+      "zh": "说真的，你的策略提纲让我眼前一亮。"
+    },
+    {
+      "id": 151,
+      "start": 420.68,
+      "end": 424.12,
+      "en": "I've got to say, Alex, you really wowed me today.",
+      "zh": "亚历克斯，你今天真让我刮目相看。"
+    },
+    {
+      "id": 152,
+      "start": 425.0,
+      "end": 426.1,
+      "en": "Ah, come on.",
+      "zh": "啊，来吧。"
+    },
+    {
+      "id": 153,
+      "start": 426.92,
+      "end": 427.48,
+      "en": "It was nothing.",
+      "zh": "没什么。"
+    },
+    {
+      "id": 154,
+      "start": 428.12,
+      "end": 429.42,
+      "en": "I'm just doing my job.",
+      "zh": "我只是在做我的工作。"
+    },
+    {
+      "id": 155,
+      "start": 429.86,
+      "end": 433.1,
+      "en": "No, I think you deserve some recognition here.",
+      "zh": "不，我觉得你值得表扬。"
+    },
+    {
+      "id": 156,
+      "start": 433.56,
+      "end": 439.32,
+      "en": "I mean, if I look back on your previous presentations, this is a huge improvement.",
+      "zh": "跟你之前的演讲相比，这次进步太大了。"
+    },
+    {
+      "id": 157,
+      "start": 439.86,
+      "end": 442.75,
+      "en": "Well, Kirsten did give me a hand with the slides.",
+      "zh": "好吧，Kirsten 确实帮了我一些幻灯片。"
+    },
+    {
+      "id": 158,
+      "start": 443.51,
+      "end": 444.91,
+      "en": "She's a real whiz on PowerPoint.",
+      "zh": "她做PPT可真是一把好手。"
+    },
+    {
+      "id": 159,
+      "start": 445.67,
+      "end": 450.21,
+      "en": "And I saw that you took on board my feedback about pricing strategies.",
+      "zh": "我注意到你采纳了我对定价策略的建议。"
+    },
+    {
+      "id": 160,
+      "start": 451.19,
+      "end": 454.85,
+      "en": "I really appreciate you taking the time to think through my suggestions.",
+      "zh": "谢谢你认真考虑我的建议。"
+    },
+    {
+      "id": 161,
+      "start": 455.55,
+      "end": 458.01,
+      "en": "Yeah, well, that was some good advice.",
+      "zh": "是的，嗯，这是一个很好的建议。"
+    },
+    {
+      "id": 162,
+      "start": 458.65,
+      "end": 460.51,
+      "en": "You made some really good points.",
+      "zh": "你提出了一些非常好的观点。"
+    },
+    {
+      "id": 163,
+      "start": 460.99,
+      "end": 464.05,
+      "en": "Well, I just wanted to say, well done.",
+      "zh": "我就是想夸你一句：干得好。"
+    },
+    {
+      "id": 164,
+      "start": 464.53,
+      "end": 466.85,
+      "en": "Really, you did a great job.",
+      "zh": "真的，你做得很好。"
+    },
+    {
+      "id": 165,
+      "start": 470.34,
+      "end": 475.12,
+      "en": "Okay, so like we said before, there's a lot of really helpful phrases in here.",
+      "zh": "好吧，就像我们之前说的，这里有很多非常有用的短语。"
+    },
+    {
+      "id": 166,
+      "start": 475.66,
+      "end": 479.16,
+      "en": "And we're going to look at a few more of these in Putting It Together.",
+      "zh": "我们将在将其组合在一起时再看一些。"
+    },
+    {
+      "id": 167,
+      "start": 481.13,
+      "end": 482.33,
+      "en": "Putting It Together.",
+      "zh": "综合运用。"
+    },
+    {
+      "id": 168,
+      "start": 483.87,
+      "end": 486.41,
+      "en": "Okay, so let's start with the first phrase.",
+      "zh": "好的，让我们从第一个短语开始。"
+    },
+    {
+      "id": 169,
+      "start": 487.19,
+      "end": 492.95,
+      "en": "The boss was quite impressed with him and he said, that was quite the presentation.",
+      "zh": "老板给他留下了深刻的印象，他说，这就是演示文稿。"
+    },
+    {
+      "id": 170,
+      "start": 493.23,
+      "end": 494.6,
+      "en": "That was quite the presentation.",
+      "zh": "那是相当的演示。"
+    },
+    {
+      "id": 171,
+      "start": 495.01,
+      "end": 496.85,
+      "en": "All right, quite the presentation.",
+      "zh": "好吧，演示文稿。"
+    },
+    {
+      "id": 172,
+      "start": 497.52,
+      "end": 501.71,
+      "en": "So this phrase, quite the presentation, it means it was good, right?",
+      "zh": "所以这句话，相当的演示，这意味着它很好，对吧？"
+    },
+    {
+      "id": 173,
+      "start": 502.72,
+      "end": 503.72,
+      "en": "It was special.",
+      "zh": "它很特别。"
+    },
+    {
+      "id": 174,
+      "start": 503.75,
+      "end": 504.85,
+      "en": "It was very good.",
+      "zh": "非常好。"
+    },
+    {
+      "id": 175,
+      "start": 505.0,
+      "end": 510.44,
+      "en": "Yep, now we can take the noun presentation out and replace it with any other noun.",
+      "zh": "是的，现在我们可以取出名词表示并用任何其他名词替换它。"
+    },
+    {
+      "id": 176,
+      "start": 510.59,
+      "end": 514.79,
+      "en": "All right, so I can say, Bob is quite the basketball player.",
+      "zh": "好吧，所以我可以说，鲍勃是个篮球运动员。"
+    },
+    {
+      "id": 177,
+      "start": 515.27,
+      "end": 517.89,
+      "en": "Why don't we listen now for a few more examples?",
+      "zh": "为什么我们现在不听更多的例子呢？"
+    },
+    {
+      "id": 178,
+      "start": 519.76,
+      "end": 522.36,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 179,
+      "start": 522.38,
+      "end": 523.5,
+      "en": "I heard you are quite the dancer.",
+      "zh": "我听说你是个舞者。"
+    },
+    {
+      "id": 180,
+      "start": 524.02,
+      "end": 525.1,
+      "en": "Can you teach me some moves?",
+      "zh": "你能教我一些动作吗？"
+    },
+    {
+      "id": 181,
+      "start": 528.12,
+      "end": 531.0,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 182,
+      "start": 531.0,
+      "end": 532.16,
+      "en": "Carl is quite the ladies' man.",
+      "zh": "卡尔是个女人的男人。"
+    },
+    {
+      "id": 183,
+      "start": 532.52,
+      "end": 534.58,
+      "en": "He is very good when it comes to talking to girls.",
+      "zh": "在与女孩交谈时，他非常好。"
+    },
+    {
+      "id": 184,
+      "start": 536.3,
+      "end": 537.48,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 185,
+      "start": 540.25,
+      "end": 541.63,
+      "en": "Nancy is quite gifted at math.",
+      "zh": "南希在数学方面很有天赋。"
+    },
+    {
+      "id": 186,
+      "start": 542.25,
+      "end": 544.35,
+      "en": "She can solve any math problem you give her.",
+      "zh": "她可以解决你给她的任何数学问题。"
+    },
+    {
+      "id": 187,
+      "start": 546.32,
+      "end": 550.88,
+      "en": "So you're saying in a very good way that something is very good.",
+      "zh": "所以你以一种非常好的方式说某事非常好。"
+    },
+    {
+      "id": 188,
+      "start": 551.1,
+      "end": 551.4,
+      "en": "Or special.",
+      "zh": "或特殊。"
+    },
+    {
+      "id": 189,
+      "start": 552.2,
+      "end": 553.2,
+      "en": "Very special.",
+      "zh": "很特别。"
+    },
+    {
+      "id": 190,
+      "start": 553.2,
+      "end": 560.08,
+      "en": "All right, so the boss was very impressed with the employee and he said, and I saw that you took on board my feedback.",
+      "zh": "好吧，所以老板对员工印象深刻，他说，我看到你接受了我的反馈。"
+    },
+    {
+      "id": 191,
+      "start": 561.0,
+      "end": 562.98,
+      "en": "To take on board my feedback.",
+      "zh": "接受我的反馈。"
+    },
+    {
+      "id": 192,
+      "start": 563.44,
+      "end": 565.68,
+      "en": "Okay, so take on board something.",
+      "zh": "好吧，那就去上点东西吧。"
+    },
+    {
+      "id": 193,
+      "start": 566.66,
+      "end": 570.42,
+      "en": "So here, my feedback is my suggestions, right?",
+      "zh": "所以在这里，我的反馈就是我的建议，对吧？"
+    },
+    {
+      "id": 194,
+      "start": 571.04,
+      "end": 577.25,
+      "en": "And when you take on board my feedback, you accept my feedback and you use it.",
+      "zh": "当您接受我的反馈时，您接受我的反馈并使用它。"
+    },
+    {
+      "id": 195,
+      "start": 577.55,
+      "end": 584.11,
+      "en": "Okay, so I can say, for example, I want you to take on board my ideas.",
+      "zh": "好吧，我可以说，例如，我希望你接受我的想法。"
+    },
+    {
+      "id": 196,
+      "start": 585.04,
+      "end": 587.63,
+      "en": "Or Jenny took on board a few of my suggestions.",
+      "zh": "或者珍妮接受了我的一些建议。"
+    },
+    {
+      "id": 197,
+      "start": 588.25,
+      "end": 589.09,
+      "en": "I was really happy.",
+      "zh": "我真的很高兴。"
+    },
+    {
+      "id": 198,
+      "start": 589.39,
+      "end": 590.27,
+      "en": "Okay, very good.",
+      "zh": "好，很好。"
+    },
+    {
+      "id": 199,
+      "start": 590.61,
+      "end": 592.61,
+      "en": "So to take on board, to accept and use.",
+      "zh": "所以要上船，接受和使用。"
+    },
+    {
+      "id": 200,
+      "start": 593.03,
+      "end": 597.71,
+      "en": "All right, so take on board feedback, take on board suggestion, take on board ideas.",
+      "zh": "好吧，所以接受董事会反馈，接受董事会建议，接受董事会的想法。"
+    },
+    {
+      "id": 201,
+      "start": 598.37,
+      "end": 599.27,
+      "en": "Okay, very good.",
+      "zh": "好，很好。"
+    },
+    {
+      "id": 202,
+      "start": 599.59,
+      "end": 602.19,
+      "en": "And we have one more phrase, I'm putting it together today.",
+      "zh": "我们还有一句话，我今天把它放在一起。"
+    },
+    {
+      "id": 203,
+      "start": 602.84,
+      "end": 604.36,
+      "en": "To think something through.",
+      "zh": "想一想。"
+    },
+    {
+      "id": 204,
+      "start": 605.12,
+      "end": 606.2,
+      "en": "To think it through.",
+      "zh": "想一想。"
+    },
+    {
+      "id": 205,
+      "start": 606.54,
+      "end": 608.7,
+      "en": "Okay, so think it through.",
+      "zh": "好吧，好好想想。"
+    },
+    {
+      "id": 206,
+      "start": 609.16,
+      "end": 613.26,
+      "en": "So here, the boss said that he took the time to think through my suggestions.",
+      "zh": "所以在这里，老板说他花时间思考我的建议。"
+    },
+    {
+      "id": 207,
+      "start": 614.1,
+      "end": 616.08,
+      "en": "So think through, what does that mean?",
+      "zh": "所以想一想，这是什么意思？"
+    },
+    {
+      "id": 208,
+      "start": 616.38,
+      "end": 620.22,
+      "en": "To think carefully about all of the details of something.",
+      "zh": "仔细思考某事的所有细节。"
+    },
+    {
+      "id": 209,
+      "start": 620.64,
+      "end": 624.1,
+      "en": "Okay, so to take into consideration all the aspects.",
+      "zh": "好的，所以要考虑所有方面。"
+    },
+    {
+      "id": 210,
+      "start": 624.68,
+      "end": 626.58,
+      "en": "Right, so why don't we give an example?",
+      "zh": "对了，我们为什么不举个例子呢？"
+    },
+    {
+      "id": 211,
+      "start": 627.82,
+      "end": 630.64,
+      "en": "If you're thinking through a plan, right?",
+      "zh": "如果你在想一个计划，对吧？"
+    },
+    {
+      "id": 212,
+      "start": 630.84,
+      "end": 633.8,
+      "en": "You don't just think about the end, the outcome.",
+      "zh": "你不只是想结束，结果。"
+    },
+    {
+      "id": 213,
+      "start": 633.8,
+      "end": 637.66,
+      "en": "You want to think about all of the small details, the steps in that plan.",
+      "zh": "您想考虑所有小细节，该计划中的步骤。"
+    },
+    {
+      "id": 214,
+      "start": 638.06,
+      "end": 642.16,
+      "en": "Okay, so maybe I want to buy a new car, but it's a lot of money.",
+      "zh": "好吧，也许我想买一辆新车，但这是一大笔钱。"
+    },
+    {
+      "id": 215,
+      "start": 642.44,
+      "end": 644.44,
+      "en": "So I really have to think it through.",
+      "zh": "所以我真的必须考虑一下。"
+    },
+    {
+      "id": 216,
+      "start": 644.74,
+      "end": 649.96,
+      "en": "So you have to think carefully about everything that is involved in buying the new car.",
+      "zh": "所以你必须仔细考虑购买新车所涉及的一切。"
+    },
+    {
+      "id": 217,
+      "start": 650.16,
+      "end": 653.91,
+      "en": "All the money you're going to have to, you know, not spend on parties.",
+      "zh": "你知道，你将不得不花的所有钱，而不是花在聚会上。"
+    },
+    {
+      "id": 218,
+      "start": 654.37,
+      "end": 655.99,
+      "en": "Exactly, you have to think it through.",
+      "zh": "确实，你必须仔细考虑。"
+    },
+    {
+      "id": 219,
+      "start": 656.12,
+      "end": 658.72,
+      "en": "You have to analyze it very carefully.",
+      "zh": "你必须非常仔细地分析它。"
+    },
+    {
+      "id": 220,
+      "start": 658.72,
+      "end": 659.72,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 221,
+      "start": 659.72,
+      "end": 661.49,
+      "en": "So let's give a few examples of how we can use this phrase.",
+      "zh": "因此，让我们举几个例子来说明我们如何使用这个短语。"
+    },
+    {
+      "id": 222,
+      "start": 662.31,
+      "end": 664.65,
+      "en": "Hey, Marco, have you thought through my suggestions?",
+      "zh": "嘿，马可，你想过我的建议吗？"
+    },
+    {
+      "id": 223,
+      "start": 665.47,
+      "end": 666.93,
+      "en": "I can say, you guys are very young.",
+      "zh": "我可以说，你们都很年轻。"
+    },
+    {
+      "id": 224,
+      "start": 667.07,
+      "end": 669.41,
+      "en": "I think you should think it through before you get married.",
+      "zh": "我想你应该在结婚之前考虑清楚。"
+    },
+    {
+      "id": 225,
+      "start": 669.85,
+      "end": 670.23,
+      "en": "Good advice.",
+      "zh": "好建议。"
+    },
+    {
+      "id": 226,
+      "start": 670.6,
+      "end": 672.07,
+      "en": "Okay, so to think it through.",
+      "zh": "好吧，好好想想吧。"
+    },
+    {
+      "id": 227,
+      "start": 672.69,
+      "end": 677.61,
+      "en": "Okay, so three great phrases and why don't we hear them one more time in our dialogue.",
+      "zh": "好吧，所以三个很棒的短语，为什么我们在对话中再一次听到它们。"
+    },
+    {
+      "id": 228,
+      "start": 682.47,
+      "end": 686.51,
+      "en": "And so that concludes my outline for our marketing strategy next year.",
+      "zh": "这就是我明年营销策略的大纲。"
+    },
+    {
+      "id": 229,
+      "start": 687.13,
+      "end": 688.11,
+      "en": "Thank you very much for your time.",
+      "zh": "非常感谢您的宝贵时间。"
+    },
+    {
+      "id": 230,
+      "start": 691.33,
+      "end": 694.05,
+      "en": "Hey, that was quite the presentation.",
+      "zh": "刚才的演讲太精彩了。"
+    },
+    {
+      "id": 231,
+      "start": 694.55,
+      "end": 697.67,
+      "en": "Honestly, I was completely blown away by your strategy outline.",
+      "zh": "说真的，你的策略提纲让我眼前一亮。"
+    },
+    {
+      "id": 232,
+      "start": 698.49,
+      "end": 701.73,
+      "en": "I've got to say, Alex, you really wowed me today.",
+      "zh": "亚历克斯，你今天真让我刮目相看。"
+    },
+    {
+      "id": 233,
+      "start": 702.45,
+      "end": 703.41,
+      "en": "Come on, it was nothing.",
+      "zh": "哪里，没什么。"
+    },
+    {
+      "id": 234,
+      "start": 704.13,
+      "end": 704.79,
+      "en": "I'm just doing my job.",
+      "zh": "我只是在做我的工作。"
+    },
+    {
+      "id": 235,
+      "start": 705.49,
+      "end": 707.77,
+      "en": "No, I think you deserve some recognition here.",
+      "zh": "不，我觉得你值得表扬。"
+    },
+    {
+      "id": 236,
+      "start": 708.25,
+      "end": 712.35,
+      "en": "I mean, if I look back on your previous presentations, this is a huge improvement.",
+      "zh": "跟你之前的演讲相比，这次进步太大了。"
+    },
+    {
+      "id": 237,
+      "start": 713.01,
+      "end": 714.91,
+      "en": "Well, Christian did give me a hand with the slides.",
+      "zh": "克里斯蒂安帮我做了幻灯片。"
+    },
+    {
+      "id": 238,
+      "start": 715.37,
+      "end": 716.55,
+      "en": "She's a real whiz on PowerPoint.",
+      "zh": "她做PPT可真是一把好手。"
+    },
+    {
+      "id": 239,
+      "start": 717.09,
+      "end": 720.11,
+      "en": "And I saw that you took on board my feedback about pricing strategies.",
+      "zh": "我注意到你采纳了我对定价策略的建议。"
+    },
+    {
+      "id": 240,
+      "start": 720.93,
+      "end": 723.49,
+      "en": "I really appreciate you taking the time to think through my suggestions.",
+      "zh": "谢谢你认真考虑我的建议。"
+    },
+    {
+      "id": 241,
+      "start": 724.27,
+      "end": 726.85,
+      "en": "Yeah, well, that was some good advice.",
+      "zh": "是的，嗯，这是一个很好的建议。"
+    },
+    {
+      "id": 242,
+      "start": 728.45,
+      "end": 729.93,
+      "en": "You made some really good points.",
+      "zh": "你提出了一些非常好的观点。"
+    },
+    {
+      "id": 243,
+      "start": 730.49,
+      "end": 732.67,
+      "en": "Well, I just wanted to say, well done.",
+      "zh": "我就是想夸你一句：干得好。"
+    },
+    {
+      "id": 244,
+      "start": 733.13,
+      "end": 734.99,
+      "en": "Really, you did a great job.",
+      "zh": "真的，你做得很好。"
+    },
+    {
+      "id": 245,
+      "start": 740.78,
+      "end": 745.32,
+      "en": "Okay, great dialogue and some interesting phrases for giving praise, right?",
+      "zh": "好吧，很棒的对话和一些有趣的赞美短语，对吧？"
+    },
+    {
+      "id": 246,
+      "start": 745.46,
+      "end": 747.48,
+      "en": "That's, I think, very important in the workplace.",
+      "zh": "我认为，这在工作场所非常重要。"
+    },
+    {
+      "id": 247,
+      "start": 748.06,
+      "end": 756.22,
+      "en": "Yeah, and you know what, I read recently that something like six out of every ten employees don't get regular praise from their boss.",
+      "zh": "是的，你知道吗，我最近读到，每十个员工中有六个没有得到老板的定期表扬。"
+    },
+    {
+      "id": 248,
+      "start": 757.06,
+      "end": 757.96,
+      "en": "It's very important.",
+      "zh": "这很重要。"
+    },
+    {
+      "id": 249,
+      "start": 758.24,
+      "end": 764.98,
+      "en": "And in some cultures, well, it's not very common to praise or to give positive feedback to their employees.",
+      "zh": "在某些文化中，赞美或向员工提供积极的反馈并不常见。"
+    },
+    {
+      "id": 250,
+      "start": 765.34,
+      "end": 775.26,
+      "en": "Yeah, but I think for Western employees, actually, it's really important and it helps them work harder the more times they hear, job well done.",
+      "zh": "是的，但我认为对于西方员工来说，这真的很重要，它可以帮助他们越听越多，工作做得越好。"
+    },
+    {
+      "id": 251,
+      "start": 775.58,
+      "end": 776.34,
+      "en": "Yeah, very good.",
+      "zh": "对，很好。"
+    },
+    {
+      "id": 252,
+      "start": 776.76,
+      "end": 780.88,
+      "en": "So now you have the tools that maybe you can use with your employees or...",
+      "zh": "所以现在你有了可以与员工一起使用的工具，或者..."
+    },
+    {
+      "id": 253,
+      "start": 781.98,
+      "end": 782.36,
+      "en": "With your friends.",
+      "zh": "和你的朋友。"
+    },
+    {
+      "id": 254,
+      "start": 782.36,
+      "end": 783.36,
+      "en": "With your friends.",
+      "zh": "和你的朋友。"
+    },
+    {
+      "id": 255,
+      "start": 783.36,
+      "end": 784.36,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 256,
+      "start": 784.36,
+      "end": 787.56,
+      "en": "Okay, so if you have any questions, comments, or doubts, please come to our website, EnglishPod.com.",
+      "zh": "好的，如果您有任何问题、意见或疑问，请访问我们的网站 englishpod.com。"
+    },
+    {
+      "id": 257,
+      "start": 787.56,
+      "end": 790.96,
+      "en": "Yep, Marco and I are always around to help you out.",
+      "zh": "是的，马可和我总是在身边帮助你。"
+    },
+    {
+      "id": 258,
+      "start": 790.96,
+      "end": 795.28,
+      "en": "So until next time, thanks for listening and goodbye.",
+      "zh": "所以直到下一次，感谢您的聆听和再见。"
+    },
+    {
+      "id": 259,
+      "start": 795.5,
+      "end": 795.66,
+      "en": "Bye.",
+      "zh": "再见。"
+    }
+  ],
+  "dialog": {
+    "start": 118.76,
+    "end": 171.11,
+    "segmentIds": [
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58
+    ]
+  }
+}

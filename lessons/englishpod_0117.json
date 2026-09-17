@@ -1,0 +1,1760 @@
+{
+  "version": 1,
+  "id": 117,
+  "number": "0117",
+  "title": "The Weekend - I'm Sorry, I Love You IX",
+  "audio": "mp3/117. The Weekend - I'm Sorry, I Love You IX.mp3",
+  "duration": 781.087375,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.08,
+      "en": "Hello English learners, welcome back to EnglishPod.",
+      "zh": "您好英语学习者，欢迎回到 EnglishPod。"
+    },
+    {
+      "id": 2,
+      "start": 5.08,
+      "end": 5.6,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 5.88,
+      "end": 6.82,
+      "en": "And I'm Erica.",
+      "zh": "我叫 Erica。"
+    },
+    {
+      "id": 4,
+      "start": 7.52,
+      "end": 14.52,
+      "en": "And today we're bringing you part 9 of our romantic drama suspense action series, I'm Sorry I Love You.",
+      "zh": "今天我们为您带来我们的浪漫剧悬疑动作系列的第 9 部分，对不起，我爱你。"
+    },
+    {
+      "id": 5,
+      "start": 14.8,
+      "end": 17.28,
+      "en": "This is actually our penultimate lesson.",
+      "zh": "这实际上是我们的倒数第二课。"
+    },
+    {
+      "id": 6,
+      "start": 17.52,
+      "end": 21.9,
+      "en": "Exactly, this story will end in part 10, so we're almost done.",
+      "zh": "确切地说，这个故事将在第 10 部分结束，所以我们几乎完成了。"
+    },
+    {
+      "id": 7,
+      "start": 22.1,
+      "end": 22.54,
+      "en": "What's happening?",
+      "zh": "怎么了？"
+    },
+    {
+      "id": 8,
+      "start": 23.28,
+      "end": 30.24,
+      "en": "Well, I am pretty excited to find out, so why don't we go straight into the dialogue and catch up with Steven and Veronica.",
+      "zh": "好吧，我很高兴能找到答案，所以我们为什么不直接进入对话并赶上史蒂文和维罗妮卡。"
+    },
+    {
+      "id": 9,
+      "start": 37.39,
+      "end": 38.09,
+      "en": "Veronica, wait.",
+      "zh": "维罗妮卡，等等。"
+    },
+    {
+      "id": 10,
+      "start": 38.63,
+      "end": 39.69,
+      "en": "Come on, honey, get back in the car.",
+      "zh": "亲爱的，回来上车吧。"
+    },
+    {
+      "id": 11,
+      "start": 40.12,
+      "end": 40.87,
+      "en": "Let's talk it over, okay?",
+      "zh": "我们好好谈谈，好吗？"
+    },
+    {
+      "id": 12,
+      "start": 41.8,
+      "end": 43.39,
+      "en": "No, I'm tired of your lies.",
+      "zh": "不，我厌倦了你的谎言。"
+    },
+    {
+      "id": 13,
+      "start": 44.32,
+      "end": 45.61,
+      "en": "I don't know who you are anymore.",
+      "zh": "我现在都不知道你到底是谁了。"
+    },
+    {
+      "id": 14,
+      "start": 46.81,
+      "end": 49.93,
+      "en": "Veronica, it's me, the man that has and always will love you.",
+      "zh": "维罗妮卡，是我啊，是那个一直爱你、以后也会永远爱你的人。"
+    },
+    {
+      "id": 15,
+      "start": 50.67,
+      "end": 52.51,
+      "en": "I'm sorry that I've lied to you, believe me.",
+      "zh": "对不起，我一直骗你。请相信我。"
+    },
+    {
+      "id": 16,
+      "start": 53.05,
+      "end": 54.23,
+      "en": "It's been hard for me as well.",
+      "zh": "这对我也不容易。"
+    },
+    {
+      "id": 17,
+      "start": 54.6,
+      "end": 56.98,
+      "en": "And time and again, I've thought of coming clean.",
+      "zh": "我一次又一次想过向你坦白。"
+    },
+    {
+      "id": 18,
+      "start": 56.98,
+      "end": 58.85,
+      "en": "But I couldn't put you or my mission at risk.",
+      "zh": "可我不能让你或我的任务陷入危险。"
+    },
+    {
+      "id": 19,
+      "start": 59.68,
+      "end": 60.27,
+      "en": "It's all over now.",
+      "zh": "现在一切都结束了。"
+    },
+    {
+      "id": 20,
+      "start": 60.68,
+      "end": 61.29,
+      "en": "My assignment is complete.",
+      "zh": "我的任务已经完成了。"
+    },
+    {
+      "id": 21,
+      "start": 62.04,
+      "end": 63.07,
+      "en": "And now I have to go back to India.",
+      "zh": "现在我得回印度。"
+    },
+    {
+      "id": 22,
+      "start": 63.77,
+      "end": 64.21,
+      "en": "What?",
+      "zh": "什么？"
+    },
+    {
+      "id": 23,
+      "start": 64.55,
+      "end": 65.21,
+      "en": "Are you kidding?",
+      "zh": "你开玩笑吧？"
+    },
+    {
+      "id": 24,
+      "start": 65.99,
+      "end": 68.71,
+      "en": "Is there anything else I should know before I never see you again?",
+      "zh": "在我们永别之前，还有什么事是我该知道的吗？"
+    },
+    {
+      "id": 25,
+      "start": 69.45,
+      "end": 71.01,
+      "en": "How could you deceive me like that?",
+      "zh": "你怎么能这样欺骗我？"
+    },
+    {
+      "id": 26,
+      "start": 71.57,
+      "end": 72.01,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 27,
+      "start": 73.75,
+      "end": 82.1,
+      "en": "Veronica, I know that this isn't the best time and you probably hate me right now, but I want to be completely forthright with you.",
+      "zh": "维罗妮卡，我知道现在不是时候，你可能也恨我，但我想对你完全坦诚。"
+    },
+    {
+      "id": 28,
+      "start": 82.56,
+      "end": 86.44,
+      "en": "I know deep in my heart that you are the best thing that has ever happened to me.",
+      "zh": "我心里明白，你是我人生中最美好的事。"
+    },
+    {
+      "id": 29,
+      "start": 87.2,
+      "end": 89.47,
+      "en": "Veronica, will you marry me?",
+      "zh": "维罗妮卡，你愿意嫁给我吗？"
+    },
+    {
+      "id": 30,
+      "start": 90.72,
+      "end": 91.54,
+      "en": "Come with me to India, baby.",
+      "zh": "跟我来印度，宝贝。"
+    },
+    {
+      "id": 31,
+      "start": 92.36,
+      "end": 96.06,
+      "en": "I can't make it for everything that's happened, but I can promise you my undying love.",
+      "zh": "我无法弥补之前发生的一切，但我可以承诺永远爱你。"
+    },
+    {
+      "id": 32,
+      "start": 96.84,
+      "end": 100.36,
+      "en": "I will be the most devoted husband and I will cherish you always.",
+      "zh": "我会做一个尽心尽责的丈夫，永远珍惜你。"
+    },
+    {
+      "id": 33,
+      "start": 101.84,
+      "end": 105.84,
+      "en": "Steven, I can't just leave everything at the drop of a hat.",
+      "zh": "史蒂文，我没法说走就走，抛下一切。"
+    },
+    {
+      "id": 34,
+      "start": 106.56,
+      "end": 109.78,
+      "en": "With everything that has happened between us, I just don't know you anymore.",
+      "zh": "发生了这么多事，我觉得自己已经不认识你了。"
+    },
+    {
+      "id": 35,
+      "start": 110.52,
+      "end": 113.9,
+      "en": "I just can't build a relationship on a foundation of lies.",
+      "zh": "我没法在谎言的基础上维系一段感情。"
+    },
+    {
+      "id": 36,
+      "start": 114.86,
+      "end": 117.72,
+      "en": "I do love you, but I can't go with you.",
+      "zh": "我爱你，但我不能和你一起去。"
+    },
+    {
+      "id": 37,
+      "start": 118.4,
+      "end": 118.92,
+      "en": "I'm sorry.",
+      "zh": "对不起。"
+    },
+    {
+      "id": 38,
+      "start": 119.36,
+      "end": 119.96,
+      "en": "I love you.",
+      "zh": "我爱你。"
+    },
+    {
+      "id": 39,
+      "start": 128.07,
+      "end": 133.83,
+      "en": "This is the last call for flight A15 from Los Angeles to Hyderabad.",
+      "zh": "飞往海得拉巴的A15航班正在最后一次登机广播。"
+    },
+    {
+      "id": 40,
+      "start": 135.31,
+      "end": 136.61,
+      "en": "I'm sorry, sir.",
+      "zh": "对不起，先生。"
+    },
+    {
+      "id": 41,
+      "start": 136.77,
+      "end": 137.79,
+      "en": "We can't wait any longer.",
+      "zh": "我们不能再等了。"
+    },
+    {
+      "id": 42,
+      "start": 138.01,
+      "end": 139.45,
+      "en": "You must board the plane.",
+      "zh": "您必须登机了。"
+    },
+    {
+      "id": 43,
+      "start": 139.97,
+      "end": 141.25,
+      "en": "Are you waiting for someone?",
+      "zh": "你在等一个人吗？"
+    },
+    {
+      "id": 44,
+      "start": 141.95,
+      "end": 145.19,
+      "en": "I was, but I don't think she's coming.",
+      "zh": "原本在等，但我想她不会来了。"
+    },
+    {
+      "id": 45,
+      "start": 158.0,
+      "end": 162.94,
+      "en": "All right, so it seems like our poor Steven is going home by himself.",
+      "zh": "好吧，所以我们可怜的史蒂文似乎要一个人回家。"
+    },
+    {
+      "id": 46,
+      "start": 163.88,
+      "end": 164.6,
+      "en": "It's so sad.",
+      "zh": "好难过。"
+    },
+    {
+      "id": 47,
+      "start": 165.04,
+      "end": 165.28,
+      "en": "I know.",
+      "zh": "我知道。"
+    },
+    {
+      "id": 48,
+      "start": 165.88,
+      "end": 170.64,
+      "en": "he proposed, she didn't accept, and now he's going back to India by himself.",
+      "zh": "他提议，她不接受，现在他自己要回印度了。"
+    },
+    {
+      "id": 49,
+      "start": 170.64,
+      "end": 179.45,
+      "en": "I think this must be one of the worst feelings in the world, wondering if the person you love is going to show up at the last minute and realizing they aren't.",
+      "zh": "我认为这一定是世界上最糟糕的感觉之一，想知道你爱的人是否会在最后一刻出现并意识到他们没有。"
+    },
+    {
+      "id": 50,
+      "start": 180.24,
+      "end": 189.79,
+      "en": "I think it's very common of movies, you always expect the person to come running and show up, but as you can see, our dialogues are more realistic, so it didn't happen in this occasion.",
+      "zh": "我认为这很常见的电影，你总是希望这个人跑来跑去出现，但正如你所看到的，我们的对话更真实，所以在这种情况下没有发生。"
+    },
+    {
+      "id": 51,
+      "start": 190.6,
+      "end": 191.6,
+      "en": "More realistic.",
+      "zh": "更现实。"
+    },
+    {
+      "id": 52,
+      "start": 191.6,
+      "end": 192.6,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 53,
+      "start": 192.6,
+      "end": 193.64,
+      "en": "Anyway, let's not debate that topic.",
+      "zh": "无论如何，我们不要辩论这个话题。"
+    },
+    {
+      "id": 54,
+      "start": 193.64,
+      "end": 197.8,
+      "en": "Let's go straight into the language now with Language Takeaway.",
+      "zh": "让我们现在用语言外卖直接进入语言。"
+    },
+    {
+      "id": 55,
+      "start": 200.44,
+      "end": 200.81,
+      "en": "Language Takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 56,
+      "start": 201.44,
+      "end": 209.48,
+      "en": "All right, so today on Language Takeaway, we have six words that we're going to be looking at and let's get started with the first one.",
+      "zh": "好吧，所以今天在语言外卖方面，我们将看到六个单词，让我们开始讨论第一个。"
+    },
+    {
+      "id": 57,
+      "start": 209.49,
+      "end": 213.35,
+      "en": "Okay, so we've got language about love and language about telling the truth.",
+      "zh": "好吧，所以我们有关于爱的语言和关于说真话的语言。"
+    },
+    {
+      "id": 58,
+      "start": 213.35,
+      "end": 216.97,
+      "en": "And the first one is a word about telling the truth.",
+      "zh": "第一个是关于说真话的词。"
+    },
+    {
+      "id": 59,
+      "start": 217.32,
+      "end": 221.44,
+      "en": "So Steven said, I've thought of coming clean.",
+      "zh": "所以史蒂文说，我想过要坦白。"
+    },
+    {
+      "id": 60,
+      "start": 221.53,
+      "end": 222.81,
+      "en": "Okay, to come clean.",
+      "zh": "好吧，来清理一下。"
+    },
+    {
+      "id": 61,
+      "start": 223.13,
+      "end": 223.73,
+      "en": "To come clean.",
+      "zh": "来干净。"
+    },
+    {
+      "id": 62,
+      "start": 224.33,
+      "end": 227.91,
+      "en": "Now if I want to come clean, it means I want to...",
+      "zh": "现在，如果我想坦白，这意味着我想..."
+    },
+    {
+      "id": 63,
+      "start": 227.93,
+      "end": 232.49,
+      "en": "You want to admit to something or to tell the truth about something you've been hiding.",
+      "zh": "你想承认某事或说出你一直隐藏的事情的真相。"
+    },
+    {
+      "id": 64,
+      "start": 232.83,
+      "end": 233.21,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 65,
+      "start": 233.65,
+      "end": 236.93,
+      "en": "Okay, so I want to finally tell the truth or confess.",
+      "zh": "好吧，所以我想最终说真话或坦白。"
+    },
+    {
+      "id": 66,
+      "start": 237.45,
+      "end": 241.55,
+      "en": "So someone needs to come clean about who stole the chocolate out of the kitchen.",
+      "zh": "所以有人需要说清楚是谁从厨房里偷走了巧克力。"
+    },
+    {
+      "id": 67,
+      "start": 241.87,
+      "end": 243.07,
+      "en": "Okay, come clean.",
+      "zh": "好的，来干净点。"
+    },
+    {
+      "id": 68,
+      "start": 243.81,
+      "end": 249.51,
+      "en": "So Steven wanted to come clean on many occasions, but Veronica said, how could you deceive me like that?",
+      "zh": "所以史蒂文多次想坦白，但维罗妮卡说，你怎么能这样欺骗我呢？"
+    },
+    {
+      "id": 69,
+      "start": 251.04,
+      "end": 251.44,
+      "en": "Deceive someone.",
+      "zh": "欺骗某人。"
+    },
+    {
+      "id": 70,
+      "start": 252.16,
+      "end": 253.86,
+      "en": "How could you deceive me?",
+      "zh": "你怎么能欺骗我？"
+    },
+    {
+      "id": 71,
+      "start": 254.22,
+      "end": 255.42,
+      "en": "So to deceive someone.",
+      "zh": "所以欺骗某人。"
+    },
+    {
+      "id": 72,
+      "start": 255.92,
+      "end": 259.04,
+      "en": "All right, to deceive.",
+      "zh": "好吧，欺骗。"
+    },
+    {
+      "id": 73,
+      "start": 259.04,
+      "end": 264.18,
+      "en": "When you deceive somebody, you make them believe something that is untrue.",
+      "zh": "当你欺骗某人时，你让他们相信一些不真实的东西。"
+    },
+    {
+      "id": 74,
+      "start": 265.16,
+      "end": 266.36,
+      "en": "So you kind of trick them.",
+      "zh": "所以你有点欺骗他们。"
+    },
+    {
+      "id": 75,
+      "start": 266.92,
+      "end": 267.1,
+      "en": "Yeah, yeah.",
+      "zh": "对，对。"
+    },
+    {
+      "id": 76,
+      "start": 267.92,
+      "end": 271.48,
+      "en": "Okay, make them believe or see something that is not really true.",
+      "zh": "好吧，让他们相信或看到一些不真实的东西。"
+    },
+    {
+      "id": 77,
+      "start": 271.84,
+      "end": 272.84,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 78,
+      "start": 272.84,
+      "end": 275.33,
+      "en": "All right, so that's the verb, to deceive.",
+      "zh": "好吧，这就是动词，要欺骗。"
+    },
+    {
+      "id": 79,
+      "start": 275.84,
+      "end": 280.16,
+      "en": "Now the noun, the action of doing this is called deception.",
+      "zh": "现在，名词，这样做的动作称为欺骗。"
+    },
+    {
+      "id": 80,
+      "start": 280.16,
+      "end": 281.69,
+      "en": "It was all a great deception.",
+      "zh": "这都是一个伟大的欺骗。"
+    },
+    {
+      "id": 81,
+      "start": 282.35,
+      "end": 285.53,
+      "en": "Okay, so a big trick, something, a big untruth.",
+      "zh": "好吧，所以一个大把戏，某事，一个大谎言。"
+    },
+    {
+      "id": 82,
+      "start": 285.87,
+      "end": 286.81,
+      "en": "You deceived me.",
+      "zh": "你骗了我。"
+    },
+    {
+      "id": 83,
+      "start": 287.75,
+      "end": 288.81,
+      "en": "All right, very good.",
+      "zh": "好，很好。"
+    },
+    {
+      "id": 84,
+      "start": 288.99,
+      "end": 291.43,
+      "en": "And now the opposite of deceive.",
+      "zh": "现在与欺骗相反。"
+    },
+    {
+      "id": 85,
+      "start": 291.43,
+      "end": 293.69,
+      "en": "Is to be forthright.",
+      "zh": "是直率。"
+    },
+    {
+      "id": 86,
+      "start": 294.52,
+      "end": 295.52,
+      "en": "Forthright.",
+      "zh": "直率。"
+    },
+    {
+      "id": 87,
+      "start": 295.52,
+      "end": 298.85,
+      "en": "So Steven wants to be completely forthright with Veronica.",
+      "zh": "所以史蒂文想对维罗妮卡完全坦率。"
+    },
+    {
+      "id": 88,
+      "start": 299.43,
+      "end": 301.75,
+      "en": "Okay, I want to be forthright with you.",
+      "zh": "好吧，我想和你坦诚相待。"
+    },
+    {
+      "id": 89,
+      "start": 302.23,
+      "end": 307.11,
+      "en": "All right, when you are forthright with somebody, you are very honest and truthful with them, right?",
+      "zh": "好吧，当你对某人直率时，你对他们非常诚实和诚实，对吧？"
+    },
+    {
+      "id": 90,
+      "start": 307.21,
+      "end": 307.39,
+      "en": "Direct.",
+      "zh": "直接。"
+    },
+    {
+      "id": 91,
+      "start": 309.12,
+      "end": 310.8,
+      "en": "You don't defend everything directly.",
+      "zh": "你不直接为一切辩护。"
+    },
+    {
+      "id": 92,
+      "start": 310.8,
+      "end": 313.07,
+      "en": "So you don't hide it or soften it or anything.",
+      "zh": "所以你不会隐藏它或软化它或任何东西。"
+    },
+    {
+      "id": 93,
+      "start": 313.96,
+      "end": 314.96,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 94,
+      "start": 314.96,
+      "end": 315.53,
+      "en": "So forthright.",
+      "zh": "如此直率。"
+    },
+    {
+      "id": 95,
+      "start": 316.05,
+      "end": 320.09,
+      "en": "All right, so three words about honesty.",
+      "zh": "好吧，所以关于诚实的三个字。"
+    },
+    {
+      "id": 96,
+      "start": 320.48,
+      "end": 322.7,
+      "en": "Now we've got three words about love for you.",
+      "zh": "现在我们有三个关于爱你的词。"
+    },
+    {
+      "id": 97,
+      "start": 323.12,
+      "end": 326.16,
+      "en": "So Steven promised Veronica his undying love.",
+      "zh": "所以史蒂文向维罗妮卡承诺了他永恒的爱。"
+    },
+    {
+      "id": 98,
+      "start": 326.92,
+      "end": 328.36,
+      "en": "My undying love.",
+      "zh": "我永恒的爱。"
+    },
+    {
+      "id": 99,
+      "start": 328.6,
+      "end": 329.48,
+      "en": "My undying love.",
+      "zh": "我永恒的爱。"
+    },
+    {
+      "id": 100,
+      "start": 329.88,
+      "end": 331.18,
+      "en": "Now undying.",
+      "zh": "现在不死。"
+    },
+    {
+      "id": 101,
+      "start": 331.74,
+      "end": 333.52,
+      "en": "Well, I think it's pretty easy, right?",
+      "zh": "好吧，我认为这很容易，对吧？"
+    },
+    {
+      "id": 102,
+      "start": 333.78,
+      "end": 334.42,
+      "en": "It won't die.",
+      "zh": "它不会死。"
+    },
+    {
+      "id": 103,
+      "start": 334.66,
+      "end": 335.66,
+      "en": "It won't die, exactly.",
+      "zh": "它不会死，确切地说。"
+    },
+    {
+      "id": 104,
+      "start": 336.32,
+      "end": 339.02,
+      "en": "So he's offering her his love forever.",
+      "zh": "所以他永远给她他的爱。"
+    },
+    {
+      "id": 105,
+      "start": 339.36,
+      "end": 341.84,
+      "en": "A very romantic phrase.",
+      "zh": "一个非常浪漫的短语。"
+    },
+    {
+      "id": 106,
+      "start": 341.84,
+      "end": 343.24,
+      "en": "Very romantic.",
+      "zh": "真浪漫。"
+    },
+    {
+      "id": 107,
+      "start": 343.24,
+      "end": 345.25,
+      "en": "And he also promised to be a devoted husband.",
+      "zh": "他还承诺成为一个忠诚的丈夫。"
+    },
+    {
+      "id": 108,
+      "start": 346.5,
+      "end": 346.83,
+      "en": "Devoted husband.",
+      "zh": "忠诚的丈夫。"
+    },
+    {
+      "id": 109,
+      "start": 347.5,
+      "end": 348.91,
+      "en": "I'll be the most devoted husband.",
+      "zh": "我会成为最忠诚的丈夫。"
+    },
+    {
+      "id": 110,
+      "start": 349.72,
+      "end": 351.81,
+      "en": "Now this word devoted, what am I saying there?",
+      "zh": "现在这个词奉献，我在说什么？"
+    },
+    {
+      "id": 111,
+      "start": 352.6,
+      "end": 357.69,
+      "en": "So as a devoted husband, Steven really, really would love his wife.",
+      "zh": "所以作为一个忠诚的丈夫，史蒂文真的，真的会爱他的妻子。"
+    },
+    {
+      "id": 112,
+      "start": 358.04,
+      "end": 363.11,
+      "en": "He'd really look after her well and he would put all of his energy into his marriage, right?",
+      "zh": "他真的会很好地照顾她，他会把所有的精力都投入到他的婚姻中，对吧？"
+    },
+    {
+      "id": 113,
+      "start": 363.29,
+      "end": 365.83,
+      "en": "Okay, so he would be very committed to her.",
+      "zh": "好吧，所以他会对她非常投入。"
+    },
+    {
+      "id": 114,
+      "start": 366.57,
+      "end": 367.59,
+      "en": "And work really hard.",
+      "zh": "并且真的很努力。"
+    },
+    {
+      "id": 115,
+      "start": 368.09,
+      "end": 371.55,
+      "en": "Now can I change the noun husband for something else?",
+      "zh": "现在我可以为别的东西改变名词丈夫吗？"
+    },
+    {
+      "id": 116,
+      "start": 371.77,
+      "end": 374.15,
+      "en": "Yeah, we can talk about a devoted friend.",
+      "zh": "是的，我们可以谈论一个忠诚的朋友。"
+    },
+    {
+      "id": 117,
+      "start": 374.61,
+      "end": 375.79,
+      "en": "Or a devoted father.",
+      "zh": "或一个忠诚的父亲。"
+    },
+    {
+      "id": 118,
+      "start": 376.21,
+      "end": 377.53,
+      "en": "Or a devoted employee.",
+      "zh": "或忠诚的员工。"
+    },
+    {
+      "id": 119,
+      "start": 378.05,
+      "end": 378.63,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 120,
+      "start": 379.09,
+      "end": 381.01,
+      "en": "And our last word about love.",
+      "zh": "以及我们关于爱情的最后一句话。"
+    },
+    {
+      "id": 121,
+      "start": 381.72,
+      "end": 385.4,
+      "en": "Well, Steven also promises to cherish Veronica.",
+      "zh": "好吧，史蒂文还承诺会珍惜维罗妮卡。"
+    },
+    {
+      "id": 122,
+      "start": 386.16,
+      "end": 388.32,
+      "en": "Okay, I will cherish you always.",
+      "zh": "好吧，我会永远珍惜你。"
+    },
+    {
+      "id": 123,
+      "start": 388.68,
+      "end": 389.94,
+      "en": "I will cherish you always.",
+      "zh": "我会永远珍惜你。"
+    },
+    {
+      "id": 124,
+      "start": 390.36,
+      "end": 393.1,
+      "en": "So if I cherish somebody like my girlfriend, what would that mean?",
+      "zh": "所以如果我珍惜像我女朋友这样的人，那是什么意思？"
+    },
+    {
+      "id": 125,
+      "start": 393.52,
+      "end": 399.91,
+      "en": "That means you hold her in your heart, like you really love her and you really respect her and you hold her close in your heart.",
+      "zh": "这意味着你把她放在心里，就像你真的爱她一样，你真的很尊重她，你把她放在心里。"
+    },
+    {
+      "id": 126,
+      "start": 400.24,
+      "end": 404.37,
+      "en": "Okay, so I respect her and maybe you don't take that person for granted.",
+      "zh": "好吧，所以我尊重她，也许你不认为那个人是理所当然的。"
+    },
+    {
+      "id": 127,
+      "start": 405.67,
+      "end": 406.63,
+      "en": "To cherish someone.",
+      "zh": "珍惜某人。"
+    },
+    {
+      "id": 128,
+      "start": 407.08,
+      "end": 408.08,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 129,
+      "start": 408.08,
+      "end": 415.31,
+      "en": "Alright, so some nice honesty words, some nice love words and I think now we can move on to some interesting phrases with Fluency Builder.",
+      "zh": "好吧，所以一些不错的诚实词，一些漂亮的爱情词，我认为现在我们可以使用 Flueny Builder 进行一些有趣的短语。"
+    },
+    {
+      "id": 130,
+      "start": 417.36,
+      "end": 417.6,
+      "en": "Fluency Builder.",
+      "zh": "流利表达。"
+    },
+    {
+      "id": 131,
+      "start": 418.48,
+      "end": 420.3,
+      "en": "Alright, so Veronica was upset.",
+      "zh": "好吧，所以维罗妮卡很沮丧。"
+    },
+    {
+      "id": 132,
+      "start": 420.72,
+      "end": 426.08,
+      "en": "She didn't want to get back in the car and Steven said, let's talk it over, okay?",
+      "zh": "她不想回到车里，史蒂文说，让我们好好谈谈，好吗？"
+    },
+    {
+      "id": 133,
+      "start": 426.32,
+      "end": 427.2,
+      "en": "Let's talk it over.",
+      "zh": "让我们谈谈。"
+    },
+    {
+      "id": 134,
+      "start": 427.64,
+      "end": 428.74,
+      "en": "Let's talk it over.",
+      "zh": "让我们谈谈。"
+    },
+    {
+      "id": 135,
+      "start": 428.96,
+      "end": 430.44,
+      "en": "To talk something over.",
+      "zh": "谈谈。"
+    },
+    {
+      "id": 136,
+      "start": 430.92,
+      "end": 435.44,
+      "en": "Now if I tell you that I want to talk it over, what am I saying?",
+      "zh": "现在，如果我告诉你我想谈谈，我在说什么？"
+    },
+    {
+      "id": 137,
+      "start": 435.74,
+      "end": 437.44,
+      "en": "Well obviously you want to talk about it, right?",
+      "zh": "好吧，显然你想谈谈它，对吧？"
+    },
+    {
+      "id": 138,
+      "start": 437.84,
+      "end": 441.16,
+      "en": "But you want to talk about it for some time.",
+      "zh": "但是你想谈一段时间。"
+    },
+    {
+      "id": 139,
+      "start": 441.16,
+      "end": 444.88,
+      "en": "To really talk about all of the problems and the issues and everything.",
+      "zh": "真正谈论所有问题和问题和一切。"
+    },
+    {
+      "id": 140,
+      "start": 445.5,
+      "end": 447.14,
+      "en": "So to try and make things clear.",
+      "zh": "所以尝试说清楚。"
+    },
+    {
+      "id": 141,
+      "start": 447.68,
+      "end": 447.93,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 142,
+      "start": 448.68,
+      "end": 449.68,
+      "en": "Alright.",
+      "zh": "好的。"
+    },
+    {
+      "id": 143,
+      "start": 449.68,
+      "end": 454.72,
+      "en": "So when he was confessing, he said, time and again I've thought of coming clean.",
+      "zh": "所以当他承认的时候，他说，我一次又一次地想过要干净。"
+    },
+    {
+      "id": 144,
+      "start": 454.72,
+      "end": 456.55,
+      "en": "So this phrase, time and again.",
+      "zh": "所以这句话一次又一次。"
+    },
+    {
+      "id": 145,
+      "start": 457.56,
+      "end": 458.17,
+      "en": "Time and again.",
+      "zh": "一再地。"
+    },
+    {
+      "id": 146,
+      "start": 458.68,
+      "end": 459.03,
+      "en": "Time and again.",
+      "zh": "一再地。"
+    },
+    {
+      "id": 147,
+      "start": 459.68,
+      "end": 462.73,
+      "en": "So that's basically the same as saying again and again or many times.",
+      "zh": "所以这与一次又一次或多次说基本上相同。"
+    },
+    {
+      "id": 148,
+      "start": 463.12,
+      "end": 464.12,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 149,
+      "start": 464.12,
+      "end": 468.25,
+      "en": "So time and again I've thought of quitting smoking but never really have done it.",
+      "zh": "所以我一次又一次地想过戒烟，但从来没有真正做到过。"
+    },
+    {
+      "id": 150,
+      "start": 469.36,
+      "end": 471.05,
+      "en": "So you've thought many times of doing it.",
+      "zh": "所以你已经考虑过很多次了。"
+    },
+    {
+      "id": 151,
+      "start": 471.72,
+      "end": 472.19,
+      "en": "Time and again.",
+      "zh": "一再地。"
+    },
+    {
+      "id": 152,
+      "start": 472.72,
+      "end": 473.72,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 153,
+      "start": 473.72,
+      "end": 475.75,
+      "en": "Alright, so let's go to our next phrase.",
+      "zh": "好吧，让我们转到我们的下一个短语。"
+    },
+    {
+      "id": 154,
+      "start": 476.16,
+      "end": 481.44,
+      "en": "Now Veronica said, I can't just leave everything at the drop of a hat.",
+      "zh": "现在维罗妮卡说，我不能把所有东西都放在帽子上。"
+    },
+    {
+      "id": 155,
+      "start": 481.44,
+      "end": 482.57,
+      "en": "At the drop of a hat.",
+      "zh": "在帽子掉落。"
+    },
+    {
+      "id": 156,
+      "start": 483.24,
+      "end": 484.13,
+      "en": "At the drop of a hat.",
+      "zh": "在帽子掉落。"
+    },
+    {
+      "id": 157,
+      "start": 485.04,
+      "end": 488.65,
+      "en": "So this is a very interesting and colloquial way of saying immediately.",
+      "zh": "所以这是一种非常有趣和口语的立即表达方式。"
+    },
+    {
+      "id": 158,
+      "start": 490.0,
+      "end": 494.45,
+      "en": "So why don't we hear a few examples of how this is used in English.",
+      "zh": "那么我们为什么不听一些英语中如何使用它的例子。"
+    },
+    {
+      "id": 159,
+      "start": 495.96,
+      "end": 496.29,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 160,
+      "start": 497.92,
+      "end": 500.39,
+      "en": "My boss expects me to come into work at the drop of a hat.",
+      "zh": "我的老板希望我能马上上班。"
+    },
+    {
+      "id": 161,
+      "start": 502.0,
+      "end": 502.34,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 162,
+      "start": 503.8,
+      "end": 506.57,
+      "en": "Laura is always willing to help me at the drop of a hat.",
+      "zh": "劳拉总是愿意帮助我。"
+    },
+    {
+      "id": 163,
+      "start": 508.52,
+      "end": 508.86,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 164,
+      "start": 510.32,
+      "end": 511.9,
+      "en": "I can't leave at the drop of a hat.",
+      "zh": "我不能一顶帽子就离开。"
+    },
+    {
+      "id": 165,
+      "start": 512.2,
+      "end": 513.1,
+      "en": "I need time to prepare.",
+      "zh": "我需要时间来准备。"
+    },
+    {
+      "id": 166,
+      "start": 514.29,
+      "end": 520.01,
+      "en": "Okay, so as you can see, you can change it for different things but basically you're saying I can't do something immediately.",
+      "zh": "好吧，正如你所看到的，你可以为不同的事情改变它，但基本上你是说我不能立即做某事。"
+    },
+    {
+      "id": 167,
+      "start": 520.71,
+      "end": 525.79,
+      "en": "Yeah, and it is almost always attached to this idea of doing something or going somewhere, being somewhere.",
+      "zh": "是的，它几乎总是与做某事或去某个地方，在某个地方的想法联系在一起。"
+    },
+    {
+      "id": 168,
+      "start": 526.45,
+      "end": 527.27,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 169,
+      "start": 527.4,
+      "end": 528.31,
+      "en": "At the drop of a hat.",
+      "zh": "在帽子掉落。"
+    },
+    {
+      "id": 170,
+      "start": 528.75,
+      "end": 531.77,
+      "en": "Alright, now our final phrase here for this lesson.",
+      "zh": "好吧，现在是本课的最后一句话。"
+    },
+    {
+      "id": 171,
+      "start": 532.29,
+      "end": 540.81,
+      "en": "So Veronica was saying I can't go to India at the drop of a hat and she also said I just can't build a relationship on a foundation of lies.",
+      "zh": "所以维罗妮卡说我不能一顶帽子就去印度，她还说我不能在谎言的基础上建立关系。"
+    },
+    {
+      "id": 172,
+      "start": 541.45,
+      "end": 543.51,
+      "en": "Okay, a foundation of lies.",
+      "zh": "好吧，谎言的基础。"
+    },
+    {
+      "id": 173,
+      "start": 543.85,
+      "end": 545.87,
+      "en": "To build something on a foundation of lies.",
+      "zh": "在谎言的基础上建立一些东西。"
+    },
+    {
+      "id": 174,
+      "start": 546.39,
+      "end": 547.29,
+      "en": "Now this is interesting.",
+      "zh": "现在这很有趣。"
+    },
+    {
+      "id": 175,
+      "start": 547.59,
+      "end": 548.49,
+      "en": "Let's take a look at this.",
+      "zh": "让我们来看看这个。"
+    },
+    {
+      "id": 176,
+      "start": 550.28,
+      "end": 551.28,
+      "en": "Foundation what is that?",
+      "zh": "基金会那是什么？"
+    },
+    {
+      "id": 177,
+      "start": 551.28,
+      "end": 552.33,
+      "en": "Well you know you have a house, right?",
+      "zh": "嗯，你知道你有房子，对吧？"
+    },
+    {
+      "id": 178,
+      "start": 553.08,
+      "end": 557.17,
+      "en": "And the part that's in the ground that supports the house is the foundation.",
+      "zh": "支撑房屋的地面部分是基础。"
+    },
+    {
+      "id": 179,
+      "start": 557.45,
+      "end": 559.83,
+      "en": "Okay, so it supports the entire structure.",
+      "zh": "好的，所以它支持整个结构。"
+    },
+    {
+      "id": 180,
+      "start": 560.44,
+      "end": 561.44,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 181,
+      "start": 561.44,
+      "end": 565.68,
+      "en": "So here she refers to the lies as the foundation.",
+      "zh": "所以在这里，她将谎言称为基础。"
+    },
+    {
+      "id": 182,
+      "start": 565.68,
+      "end": 569.2,
+      "en": "And that's no way to start a strong relationship, is it?",
+      "zh": "这不是建立牢固关系的方法，是吗？"
+    },
+    {
+      "id": 183,
+      "start": 569.2,
+      "end": 570.2,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 184,
+      "start": 570.2,
+      "end": 577.38,
+      "en": "So we use it metaphorically in this way but we can always, but we always have to say it, but we always have to use the verb build.",
+      "zh": "所以我们以这种方式隐喻地使用它，但我们总是可以，但我们总是不得不说，但我们总是必须使用动词构建。"
+    },
+    {
+      "id": 185,
+      "start": 577.82,
+      "end": 581.92,
+      "en": "Okay, so it's basically to make something on a base of something else, right?",
+      "zh": "好的，所以它基本上是在其他东西的基础上制作一些东西，对吧？"
+    },
+    {
+      "id": 186,
+      "start": 582.64,
+      "end": 588.76,
+      "en": "So for example, a strong relationship is built on a foundation of trust.",
+      "zh": "因此，例如，牢固的关系建立在信任的基础上。"
+    },
+    {
+      "id": 187,
+      "start": 588.76,
+      "end": 592.54,
+      "en": "Or this country was built on a foundation of liberty.",
+      "zh": "或者这个国家是建立在自由的基础上的。"
+    },
+    {
+      "id": 188,
+      "start": 593.48,
+      "end": 593.7,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 189,
+      "start": 594.48,
+      "end": 597.36,
+      "en": "So always use foundation with built.",
+      "zh": "所以始终使用基础与内置。"
+    },
+    {
+      "id": 190,
+      "start": 597.36,
+      "end": 597.53,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 191,
+      "start": 598.36,
+      "end": 599.36,
+      "en": "Very interesting.",
+      "zh": "很有意思。"
+    },
+    {
+      "id": 192,
+      "start": 599.36,
+      "end": 606.12,
+      "en": "And well I think we should listen to this dialogue for the last time and then we'll come back and talk a little bit more about Veronica and Steven.",
+      "zh": "好吧，我认为我们应该最后一次听这个对话，然后我们会回来多谈谈维罗妮卡和史蒂文。"
+    },
+    {
+      "id": 193,
+      "start": 613.02,
+      "end": 613.72,
+      "en": "Veronica, wait.",
+      "zh": "维罗妮卡，等等。"
+    },
+    {
+      "id": 194,
+      "start": 614.14,
+      "end": 614.6,
+      "en": "Come on, honey.",
+      "zh": "来吧，亲爱的。"
+    },
+    {
+      "id": 195,
+      "start": 614.78,
+      "end": 615.32,
+      "en": "Get back in the car.",
+      "zh": "回到车上。"
+    },
+    {
+      "id": 196,
+      "start": 615.72,
+      "end": 616.46,
+      "en": "Let's talk it over, okay?",
+      "zh": "我们好好谈谈，好吗？"
+    },
+    {
+      "id": 197,
+      "start": 617.32,
+      "end": 618.32,
+      "en": "No.",
+      "zh": "不。"
+    },
+    {
+      "id": 198,
+      "start": 618.32,
+      "end": 619.02,
+      "en": "I'm tired of your lies.",
+      "zh": "我厌倦了你的谎言。"
+    },
+    {
+      "id": 199,
+      "start": 619.96,
+      "end": 621.16,
+      "en": "I don't know who you are anymore.",
+      "zh": "我现在都不知道你到底是谁了。"
+    },
+    {
+      "id": 200,
+      "start": 622.41,
+      "end": 625.55,
+      "en": "Veronica, it's me, the man that has and always will love you.",
+      "zh": "维罗妮卡，是我啊，是那个一直爱你、以后也会永远爱你的人。"
+    },
+    {
+      "id": 201,
+      "start": 626.48,
+      "end": 628.14,
+      "en": "I'm sorry that I've lied to you, believe me.",
+      "zh": "对不起，我一直骗你。请相信我。"
+    },
+    {
+      "id": 202,
+      "start": 628.88,
+      "end": 631.8,
+      "en": "It's been hard for me as well and time and again I've thought of coming clean.",
+      "zh": "这对我来说也很困难，我一次又一次地想过要干净。"
+    },
+    {
+      "id": 203,
+      "start": 632.6,
+      "end": 634.5,
+      "en": "But I couldn't put you or my mission at risk.",
+      "zh": "可我不能让你或我的任务陷入危险。"
+    },
+    {
+      "id": 204,
+      "start": 635.3,
+      "end": 635.9,
+      "en": "It's all over now.",
+      "zh": "现在一切都结束了。"
+    },
+    {
+      "id": 205,
+      "start": 636.3,
+      "end": 638.74,
+      "en": "My assignment is complete and now I have to go back to India.",
+      "zh": "我的任务完成了，现在我必须回到印度。"
+    },
+    {
+      "id": 206,
+      "start": 639.4,
+      "end": 639.82,
+      "en": "What?",
+      "zh": "什么？"
+    },
+    {
+      "id": 207,
+      "start": 640.26,
+      "end": 640.86,
+      "en": "Are you kidding?",
+      "zh": "你开玩笑吧？"
+    },
+    {
+      "id": 208,
+      "start": 641.56,
+      "end": 644.34,
+      "en": "Is there anything else I should know before I never see you again?",
+      "zh": "在我们永别之前，还有什么事是我该知道的吗？"
+    },
+    {
+      "id": 209,
+      "start": 645.04,
+      "end": 646.64,
+      "en": "How could you deceive me like that?",
+      "zh": "你怎么能这样欺骗我？"
+    },
+    {
+      "id": 210,
+      "start": 647.22,
+      "end": 647.66,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 211,
+      "start": 649.42,
+      "end": 657.72,
+      "en": "Veronica, I know that this isn't the best time and you probably hate me right now but I want to be completely forthright with you.",
+      "zh": "维罗妮卡，我知道这不是最好的时间，你现在可能讨厌我，但我想对你完全坦率。"
+    },
+    {
+      "id": 212,
+      "start": 658.54,
+      "end": 662.08,
+      "en": "I know deep in my heart that you are the best thing that has ever happened to me.",
+      "zh": "我心里明白，你是我人生中最美好的事。"
+    },
+    {
+      "id": 213,
+      "start": 662.82,
+      "end": 665.12,
+      "en": "Veronica, will you marry me?",
+      "zh": "维罗妮卡，你愿意嫁给我吗？"
+    },
+    {
+      "id": 214,
+      "start": 666.32,
+      "end": 667.17,
+      "en": "Come with me to India, baby.",
+      "zh": "跟我来印度，宝贝。"
+    },
+    {
+      "id": 215,
+      "start": 667.96,
+      "end": 671.69,
+      "en": "I can't make it for everything that's happened but I can promise you my undying love.",
+      "zh": "我无法为所发生的一切而努力，但我可以向你保证我永恒的爱。"
+    },
+    {
+      "id": 216,
+      "start": 672.39,
+      "end": 675.99,
+      "en": "I will be the most devoted husband and I will cherish you always.",
+      "zh": "我会做一个尽心尽责的丈夫，永远珍惜你。"
+    },
+    {
+      "id": 217,
+      "start": 676.68,
+      "end": 682.2,
+      "en": "Stephen, I can't just leave everything at the drop of a hat.",
+      "zh": "斯蒂芬，我不能把所有东西都放在帽子上。"
+    },
+    {
+      "id": 218,
+      "start": 682.2,
+      "end": 685.4,
+      "en": "With everything that has happened between us, I just don't know you anymore.",
+      "zh": "发生了这么多事，我觉得自己已经不认识你了。"
+    },
+    {
+      "id": 219,
+      "start": 686.16,
+      "end": 689.54,
+      "en": "I just can't build a relationship on a foundation of lies.",
+      "zh": "我没法在谎言的基础上维系一段感情。"
+    },
+    {
+      "id": 220,
+      "start": 690.52,
+      "end": 693.34,
+      "en": "I do love you but I can't go with you.",
+      "zh": "我爱你，但我不能和你一起去。"
+    },
+    {
+      "id": 221,
+      "start": 694.04,
+      "end": 694.5,
+      "en": "I'm sorry.",
+      "zh": "对不起。"
+    },
+    {
+      "id": 222,
+      "start": 694.98,
+      "end": 695.6,
+      "en": "I love you.",
+      "zh": "我爱你。"
+    },
+    {
+      "id": 223,
+      "start": 703.52,
+      "end": 709.44,
+      "en": "This is the last call for flight A15 from Los Angeles to Hyderabad.",
+      "zh": "飞往海得拉巴的A15航班正在最后一次登机广播。"
+    },
+    {
+      "id": 224,
+      "start": 711.01,
+      "end": 712.25,
+      "en": "I'm sorry, sir.",
+      "zh": "对不起，先生。"
+    },
+    {
+      "id": 225,
+      "start": 712.41,
+      "end": 713.41,
+      "en": "We can't wait any longer.",
+      "zh": "我们不能再等了。"
+    },
+    {
+      "id": 226,
+      "start": 713.69,
+      "end": 715.09,
+      "en": "You must board the plane.",
+      "zh": "您必须登机了。"
+    },
+    {
+      "id": 227,
+      "start": 715.61,
+      "end": 716.87,
+      "en": "Are you waiting for someone?",
+      "zh": "你在等一个人吗？"
+    },
+    {
+      "id": 228,
+      "start": 717.67,
+      "end": 720.79,
+      "en": "I was but I don't think she's coming.",
+      "zh": "我是，但我不认为她会来。"
+    },
+    {
+      "id": 229,
+      "start": 733.68,
+      "end": 737.6,
+      "en": "So Marco, I think I see a bit of a tear there in the corner of your eye.",
+      "zh": "所以马可，我想我在你的眼角看到了一点泪水。"
+    },
+    {
+      "id": 230,
+      "start": 738.02,
+      "end": 738.68,
+      "en": "I'm very sad.",
+      "zh": "我很伤心。"
+    },
+    {
+      "id": 231,
+      "start": 739.04,
+      "end": 741.96,
+      "en": "I can't believe he proposed and she just said no.",
+      "zh": "我不敢相信他提议，她只是说不。"
+    },
+    {
+      "id": 232,
+      "start": 741.96,
+      "end": 742.28,
+      "en": "Just like that.",
+      "zh": "就这样。"
+    },
+    {
+      "id": 233,
+      "start": 742.96,
+      "end": 744.28,
+      "en": "Well, it's not supposed to happen.",
+      "zh": "好吧，这不应该发生。"
+    },
+    {
+      "id": 234,
+      "start": 744.28,
+      "end": 749.16,
+      "en": "Plus, he was inviting her to India and exotic getaway and promising.",
+      "zh": "另外，他邀请她去印度和异国情调的度假胜地和有希望。"
+    },
+    {
+      "id": 235,
+      "start": 749.16,
+      "end": 752.46,
+      "en": "Exotic getaway for the rest of her life.",
+      "zh": "在她的余生中异国情调的度假。"
+    },
+    {
+      "id": 236,
+      "start": 753.32,
+      "end": 755.26,
+      "en": "Well, what do you think will happen?",
+      "zh": "嗯，你认为会发生什么？"
+    },
+    {
+      "id": 237,
+      "start": 755.64,
+      "end": 757.28,
+      "en": "Part 10, it all ends.",
+      "zh": "第 10 部分，一切都结束了。"
+    },
+    {
+      "id": 238,
+      "start": 757.52,
+      "end": 761.68,
+      "en": "So do you think they all just keep on living their separate lives?",
+      "zh": "那么你认为他们都只是继续过着不同的生活吗？"
+    },
+    {
+      "id": 239,
+      "start": 761.68,
+      "end": 762.28,
+      "en": "Will they meet again?",
+      "zh": "他们会再见面吗？"
+    },
+    {
+      "id": 240,
+      "start": 763.14,
+      "end": 763.72,
+      "en": "Who knows?",
+      "zh": "谁知道呢？"
+    },
+    {
+      "id": 241,
+      "start": 764.12,
+      "end": 766.7,
+      "en": "Come to our website and tell us what you think will happen.",
+      "zh": "访问我们的网站，告诉我们您认为会发生什么。"
+    },
+    {
+      "id": 242,
+      "start": 767.0,
+      "end": 769.12,
+      "en": "So you can find us at EnglishPod.com.",
+      "zh": "因此，您可以在 Englishpod.com 找到我们。"
+    },
+    {
+      "id": 243,
+      "start": 769.84,
+      "end": 770.3,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 244,
+      "start": 770.64,
+      "end": 775.08,
+      "en": "Don't miss our finale of this lesson and until next time, we'll see you guys there.",
+      "zh": "不要错过我们本课的结局，直到下一次，我们会在那里见到你们。"
+    }
+  ],
+  "dialog": {
+    "start": 37.39,
+    "end": 145.19,
+    "segmentIds": [
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44
+    ]
+  }
+}

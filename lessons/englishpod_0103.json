@@ -1,0 +1,2327 @@
+{
+  "version": 1,
+  "id": 103,
+  "number": "0103",
+  "title": "Daily Life - Baby, I'm Sorry",
+  "audio": "mp3/103. Daily Life - Baby, I'm Sorry.mp3",
+  "duration": 788.924125,
+  "segments": [
+    {
+      "id": 1,
+      "start": 2.04,
+      "end": 4.96,
+      "en": "Hello English learners, welcome back to EnglishPod.",
+      "zh": "您好英语学习者，欢迎回到 EnglishPod。"
+    },
+    {
+      "id": 2,
+      "start": 5.32,
+      "end": 5.84,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 6.12,
+      "end": 6.86,
+      "en": "And I'm Erica.",
+      "zh": "我叫 Erica。"
+    },
+    {
+      "id": 4,
+      "start": 7.82,
+      "end": 12.84,
+      "en": "And today we have another romantic lesson, kind of romantic.",
+      "zh": "而今天我们还有另一个浪漫的教训，有点浪漫。"
+    },
+    {
+      "id": 5,
+      "start": 13.34,
+      "end": 14.26,
+      "en": "A little romantic.",
+      "zh": "有点浪漫。"
+    },
+    {
+      "id": 6,
+      "start": 15.2,
+      "end": 19.28,
+      "en": "We got a boyfriend and a girlfriend and they're apologizing to each other.",
+      "zh": "我们有一个男朋友和一个女朋友，他们互相道歉。"
+    },
+    {
+      "id": 7,
+      "start": 19.74,
+      "end": 23.9,
+      "en": "Okay, so it's a very common situation and we're going to be talking about love.",
+      "zh": "好的，所以这是一个非常常见的情况，我们将谈论爱情。"
+    },
+    {
+      "id": 8,
+      "start": 24.3,
+      "end": 28.56,
+      "en": "We're also going to talk about different pet names that are commonly used in English.",
+      "zh": "我们还将讨论英语中常用的不同宠物名称。"
+    },
+    {
+      "id": 9,
+      "start": 28.88,
+      "end": 31.9,
+      "en": "That are used with your boyfriend or girlfriend.",
+      "zh": "与您的男朋友或女朋友一起使用。"
+    },
+    {
+      "id": 10,
+      "start": 32.36,
+      "end": 33.28,
+      "en": "Okay, very good.",
+      "zh": "好，很好。"
+    },
+    {
+      "id": 11,
+      "start": 33.94,
+      "end": 39.18,
+      "en": "So let's listen to this dialogue for the first time and see what's happening with our couple.",
+      "zh": "所以让我们第一次听这个对话，看看我们的夫妻发生了什么。"
+    },
+    {
+      "id": 12,
+      "start": 57.0,
+      "end": 61.62,
+      "en": "Can we talk?",
+      "zh": "我们能谈谈吗？"
+    },
+    {
+      "id": 13,
+      "start": 61.62,
+      "end": 62.34,
+      "en": "You know what I mean.",
+      "zh": "你懂我的意思。"
+    },
+    {
+      "id": 14,
+      "start": 64.9,
+      "end": 67.45,
+      "en": "I want to know where this relationship is going.",
+      "zh": "我想知道我们这段关系会走向哪里。"
+    },
+    {
+      "id": 15,
+      "start": 68.3,
+      "end": 71.69,
+      "en": "I'm in love with you and I need to know.",
+      "zh": "我爱上了你，我需要知道。"
+    },
+    {
+      "id": 16,
+      "start": 73.76,
+      "end": 74.37,
+      "en": "I'm awesome.",
+      "zh": "我很棒啊。"
+    },
+    {
+      "id": 17,
+      "start": 75.27,
+      "end": 77.45,
+      "en": "Well I guess that's my answer, isn't it?",
+      "zh": "好吧，我想这就是你的回答了。"
+    },
+    {
+      "id": 18,
+      "start": 78.86,
+      "end": 82.98,
+      "en": "Look, if you don't love me, it's not a thing, alright?",
+      "zh": "要是你不爱我，就直说，好吗？"
+    },
+    {
+      "id": 19,
+      "start": 82.98,
+      "end": 84.86,
+      "en": "We've had our laughs, but I don't appreciate...",
+      "zh": "我们在一起也开心过，可我不想……"
+    },
+    {
+      "id": 20,
+      "start": 85.94,
+      "end": 86.9,
+      "en": "Maybe it's just time we...",
+      "zh": "也许我们该……"
+    },
+    {
+      "id": 21,
+      "start": 87.3,
+      "end": 88.74,
+      "en": "Baby, I love you so much.",
+      "zh": "宝贝，我非常爱你。"
+    },
+    {
+      "id": 22,
+      "start": 89.14,
+      "end": 89.32,
+      "en": "You do?",
+      "zh": "是吗？"
+    },
+    {
+      "id": 23,
+      "start": 90.14,
+      "end": 91.78,
+      "en": "I love you and I think you're awesome.",
+      "zh": "我爱你，我觉得你很棒。"
+    },
+    {
+      "id": 24,
+      "start": 92.26,
+      "end": 93.66,
+      "en": "Oh, I love you too.",
+      "zh": "哦，我也爱你。"
+    },
+    {
+      "id": 25,
+      "start": 94.28,
+      "end": 95.86,
+      "en": "Come on, put the gun down.",
+      "zh": "拜托，把枪放下。"
+    },
+    {
+      "id": 26,
+      "start": 96.3,
+      "end": 98.52,
+      "en": "Oh baby, I'm so sorry.",
+      "zh": "哦，宝贝，我很抱歉。"
+    },
+    {
+      "id": 27,
+      "start": 103.11,
+      "end": 105.25,
+      "en": "Okay, so romantic and dramatic.",
+      "zh": "好吧，如此浪漫和戏剧化。"
+    },
+    {
+      "id": 28,
+      "start": 105.46,
+      "end": 109.1,
+      "en": "Yeah, I think she really needed to hear that shh.",
+      "zh": "是的，我想她真的需要听到那个嘘。"
+    },
+    {
+      "id": 29,
+      "start": 109.1,
+      "end": 111.89,
+      "en": "Right, so I think she really wanted to hear I love you.",
+      "zh": "对，所以我想她真的很想听我爱你。"
+    },
+    {
+      "id": 30,
+      "start": 112.3,
+      "end": 113.13,
+      "en": "Yeah, that's right.",
+      "zh": "对，没错。"
+    },
+    {
+      "id": 31,
+      "start": 113.7,
+      "end": 121.22,
+      "en": "And there's some interesting phrases here in this dialogue and today we're going to focus mostly on phrases.",
+      "zh": "在这个对话中有一些有趣的短语，今天我们将主要关注短语。"
+    },
+    {
+      "id": 32,
+      "start": 121.22,
+      "end": 123.91,
+      "en": "So why don't we start with Fluency Builder.",
+      "zh": "那么我们为什么不从 Fluency Builder 开始。"
+    },
+    {
+      "id": 33,
+      "start": 125.22,
+      "end": 126.08,
+      "en": "Fluency Builder.",
+      "zh": "流利表达。"
+    },
+    {
+      "id": 34,
+      "start": 127.01,
+      "end": 134.81,
+      "en": "Okay, on Fluency Builder today, we're going to take a look at some of these phrases and the first one is very important and very different.",
+      "zh": "好的，今天在 Flueny Builder 上，我们将看看其中一些短语，第一个非常重要且非常不同。"
+    },
+    {
+      "id": 35,
+      "start": 135.17,
+      "end": 144.75,
+      "en": "So obviously this dialogue is about love and we heard two different ways that this word is used and the first one is to love someone.",
+      "zh": "很明显，这个对话是关于爱的，我们听到了两种不同的使用方式，第一个是爱一个人。"
+    },
+    {
+      "id": 36,
+      "start": 145.11,
+      "end": 147.19,
+      "en": "Right, so he said, I love you.",
+      "zh": "对，他说，我爱你。"
+    },
+    {
+      "id": 37,
+      "start": 147.37,
+      "end": 148.23,
+      "en": "Yeah, I love you.",
+      "zh": "是的，我爱你。"
+    },
+    {
+      "id": 38,
+      "start": 148.7,
+      "end": 150.7,
+      "en": "We all pretty much understand what that means.",
+      "zh": "我们几乎都明白这意味着什么。"
+    },
+    {
+      "id": 39,
+      "start": 150.9,
+      "end": 155.66,
+      "en": "Right, but they also mentioned to be in love with someone.",
+      "zh": "是的，但他们也提到爱上了一个人。"
+    },
+    {
+      "id": 40,
+      "start": 155.96,
+      "end": 159.06,
+      "en": "Okay, so he said, I am in love with you.",
+      "zh": "好吧，他说，我爱上了你。"
+    },
+    {
+      "id": 41,
+      "start": 159.28,
+      "end": 160.66,
+      "en": "I'm in love with you.",
+      "zh": "我爱上了你。"
+    },
+    {
+      "id": 42,
+      "start": 161.08,
+      "end": 161.62,
+      "en": "In love.",
+      "zh": "恋爱中。"
+    },
+    {
+      "id": 43,
+      "start": 162.12,
+      "end": 165.76,
+      "en": "Okay, so what's the difference between to love and to be in love?",
+      "zh": "好吧，那么爱和恋爱有什么区别呢？"
+    },
+    {
+      "id": 44,
+      "start": 166.16,
+      "end": 172.4,
+      "en": "To be in love with someone means that you have these strong romantic feelings towards somebody.",
+      "zh": "爱上一个人意味着你对某人有着强烈的浪漫感情。"
+    },
+    {
+      "id": 45,
+      "start": 172.73,
+      "end": 173.09,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 46,
+      "start": 173.43,
+      "end": 179.99,
+      "en": "So you can only be in love with your boyfriend, your girlfriend, your husband or your wife.",
+      "zh": "所以你只能爱上你的男朋友、你的女朋友、你的丈夫或你的妻子。"
+    },
+    {
+      "id": 47,
+      "start": 180.57,
+      "end": 185.11,
+      "en": "So you can love your parents, you can love your family, but you can't be in love with them.",
+      "zh": "所以你可以爱你的父母，你可以爱你的家人，但你不能爱上他们。"
+    },
+    {
+      "id": 48,
+      "start": 186.1,
+      "end": 188.82,
+      "en": "You can only be in love with your girlfriend, boyfriend, husband, wife.",
+      "zh": "你只能爱上你的女朋友、男朋友、丈夫、妻子。"
+    },
+    {
+      "id": 49,
+      "start": 188.82,
+      "end": 188.95,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 50,
+      "start": 189.82,
+      "end": 190.82,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 51,
+      "start": 190.82,
+      "end": 192.66,
+      "en": "So moving on to the next phrase.",
+      "zh": "所以继续下一个短语。"
+    },
+    {
+      "id": 52,
+      "start": 193.14,
+      "end": 197.82,
+      "en": "Now the girl asked her boyfriend, can we talk?",
+      "zh": "现在女孩问她男朋友，我们可以谈谈吗？"
+    },
+    {
+      "id": 53,
+      "start": 197.82,
+      "end": 198.3,
+      "en": "Can we talk?",
+      "zh": "我们能谈谈吗？"
+    },
+    {
+      "id": 54,
+      "start": 198.82,
+      "end": 199.28,
+      "en": "Can we talk?",
+      "zh": "我们能谈谈吗？"
+    },
+    {
+      "id": 55,
+      "start": 199.94,
+      "end": 201.26,
+      "en": "This is a very simple sentence.",
+      "zh": "这是一个非常简单的句子。"
+    },
+    {
+      "id": 56,
+      "start": 201.52,
+      "end": 202.8,
+      "en": "Right, we know the meaning, right?",
+      "zh": "对，我们知道意思，对吧？"
+    },
+    {
+      "id": 57,
+      "start": 203.42,
+      "end": 205.18,
+      "en": "But why does she say, can we talk?",
+      "zh": "但她为什么说，我们可以谈谈吗？"
+    },
+    {
+      "id": 58,
+      "start": 205.88,
+      "end": 211.0,
+      "en": "Okay, so you use this when you want to start a conversation about something serious.",
+      "zh": "好的，所以当你想开始谈论严肃的事情时，你会使用它。"
+    },
+    {
+      "id": 59,
+      "start": 211.52,
+      "end": 216.3,
+      "en": "Okay, so if you wanted to talk to me about my new shirt.",
+      "zh": "好的，所以如果你想和我谈谈我的新衬衫。"
+    },
+    {
+      "id": 60,
+      "start": 216.95,
+      "end": 220.05,
+      "en": "I wouldn't ask, I wouldn't say, hey Marco, can we talk?",
+      "zh": "我不会问，我不会说，嘿，马可，我们可以谈谈吗？"
+    },
+    {
+      "id": 61,
+      "start": 220.85,
+      "end": 222.05,
+      "en": "Oh, I really like your shirt.",
+      "zh": "哦，我真的很喜欢你的衬衫。"
+    },
+    {
+      "id": 62,
+      "start": 222.27,
+      "end": 222.81,
+      "en": "Where'd you get it?",
+      "zh": "你从哪里得到的？"
+    },
+    {
+      "id": 63,
+      "start": 222.99,
+      "end": 223.77,
+      "en": "Exactly, right?",
+      "zh": "没错，对吧？"
+    },
+    {
+      "id": 64,
+      "start": 224.21,
+      "end": 225.19,
+      "en": "It has to be serious.",
+      "zh": "它必须是认真的。"
+    },
+    {
+      "id": 65,
+      "start": 225.19,
+      "end": 226.03,
+      "en": "It has to be serious.",
+      "zh": "它必须是认真的。"
+    },
+    {
+      "id": 66,
+      "start": 226.57,
+      "end": 229.67,
+      "en": "So usually if somebody says, hey, can we talk?",
+      "zh": "所以通常如果有人说，嘿，我们可以谈谈吗？"
+    },
+    {
+      "id": 67,
+      "start": 230.23,
+      "end": 232.27,
+      "en": "It means that there's going to be a serious topic.",
+      "zh": "这意味着会有一个严肃的话题。"
+    },
+    {
+      "id": 68,
+      "start": 232.39,
+      "end": 233.69,
+      "en": "It's going to be probably bad news.",
+      "zh": "这可能是个坏消息。"
+    },
+    {
+      "id": 69,
+      "start": 234.26,
+      "end": 235.98,
+      "en": "Maybe bad news.",
+      "zh": "也许是坏消息。"
+    },
+    {
+      "id": 70,
+      "start": 235.98,
+      "end": 236.85,
+      "en": "So can we talk?",
+      "zh": "那我们可以谈谈吗？"
+    },
+    {
+      "id": 71,
+      "start": 237.16,
+      "end": 240.27,
+      "en": "So if your boyfriend or girlfriend tells you this, well, it's not a good sign.",
+      "zh": "所以如果你的男朋友或女朋友告诉你，好吧，这不是一个好兆头。"
+    },
+    {
+      "id": 72,
+      "start": 240.55,
+      "end": 240.85,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 73,
+      "start": 241.39,
+      "end": 241.67,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 74,
+      "start": 241.83,
+      "end": 246.07,
+      "en": "And the last phrase that we have on Fluency Builder, you know what I mean.",
+      "zh": "我们在 Fluency Builder 上的最后一句话，你知道我的意思。"
+    },
+    {
+      "id": 75,
+      "start": 246.44,
+      "end": 247.34,
+      "en": "You know what I mean.",
+      "zh": "你懂我的意思。"
+    },
+    {
+      "id": 76,
+      "start": 247.84,
+      "end": 248.84,
+      "en": "You know what I mean.",
+      "zh": "你懂我的意思。"
+    },
+    {
+      "id": 77,
+      "start": 249.22,
+      "end": 250.06,
+      "en": "You know what I mean.",
+      "zh": "你懂我的意思。"
+    },
+    {
+      "id": 78,
+      "start": 250.52,
+      "end": 250.84,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 79,
+      "start": 251.5,
+      "end": 254.12,
+      "en": "So again, this phrase is very simple to understand, right?",
+      "zh": "再说一次，这句话很容易理解，对吧？"
+    },
+    {
+      "id": 80,
+      "start": 254.58,
+      "end": 255.58,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 81,
+      "start": 255.58,
+      "end": 257.46,
+      "en": "So you know what I'm talking about.",
+      "zh": "所以你知道我在说什么。"
+    },
+    {
+      "id": 82,
+      "start": 258.1,
+      "end": 260.3,
+      "en": "You understand me.",
+      "zh": "你明白我的意思。"
+    },
+    {
+      "id": 83,
+      "start": 260.3,
+      "end": 263.92,
+      "en": "But the interesting thing is that we can also make it a question.",
+      "zh": "但有趣的是，我们也可以让它成为一个问题。"
+    },
+    {
+      "id": 84,
+      "start": 264.78,
+      "end": 267.98,
+      "en": "And it's all about the change in tone.",
+      "zh": "这一切都与基调的变化有关。"
+    },
+    {
+      "id": 85,
+      "start": 268.22,
+      "end": 280.64,
+      "en": "Okay, so with this in mind, let's listen to two examples of the same phrase but with different tones and you try to see which one is the question.",
+      "zh": "好吧，考虑到这一点，让我们听两个相同短语但音调不同的例子，你试着看看哪一个是问题。"
+    },
+    {
+      "id": 86,
+      "start": 280.64,
+      "end": 284.18,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 87,
+      "start": 284.18,
+      "end": 286.18,
+      "en": "I'm tired of doing nothing all day here at home.",
+      "zh": "我厌倦了在家里整天无所事事。"
+    },
+    {
+      "id": 88,
+      "start": 286.5,
+      "end": 286.98,
+      "en": "You know what I mean?",
+      "zh": "你懂我的意思吗？"
+    },
+    {
+      "id": 89,
+      "start": 290.48,
+      "end": 293.1,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 90,
+      "start": 293.1,
+      "end": 294.1,
+      "en": "Come on, Charles.",
+      "zh": "来吧，查尔斯。"
+    },
+    {
+      "id": 91,
+      "start": 294.1,
+      "end": 296.32,
+      "en": "You know what I mean when I say that I don't like your friends.",
+      "zh": "当我说我不喜欢你的朋友时，你知道我的意思。"
+    },
+    {
+      "id": 92,
+      "start": 299.1,
+      "end": 301.62,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 93,
+      "start": 301.62,
+      "end": 302.82,
+      "en": "I hate this class.",
+      "zh": "我讨厌这门课。"
+    },
+    {
+      "id": 94,
+      "start": 302.82,
+      "end": 303.72,
+      "en": "It's so boring and tedious.",
+      "zh": "它是如此无聊和乏味。"
+    },
+    {
+      "id": 95,
+      "start": 304.5,
+      "end": 305.06,
+      "en": "You know what I mean?",
+      "zh": "你懂我的意思吗？"
+    },
+    {
+      "id": 96,
+      "start": 307.78,
+      "end": 307.94,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 97,
+      "start": 308.78,
+      "end": 311.5,
+      "en": "So we heard the examples and well, maybe you guessed it right.",
+      "zh": "所以我们听到了例子，好吧，也许你猜对了。"
+    },
+    {
+      "id": 98,
+      "start": 312.14,
+      "end": 314.28,
+      "en": "The second example was the question.",
+      "zh": "第二个例子是问题。"
+    },
+    {
+      "id": 99,
+      "start": 314.52,
+      "end": 314.78,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 100,
+      "start": 315.08,
+      "end": 315.56,
+      "en": "You know what I mean?",
+      "zh": "你懂我的意思吗？"
+    },
+    {
+      "id": 101,
+      "start": 315.96,
+      "end": 316.14,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 102,
+      "start": 317.62,
+      "end": 322.1,
+      "en": "So basically, you're asking the person if they understand your idea or they understand what you're talking about.",
+      "zh": "所以基本上，你在问他们是否理解你的想法，或者他们理解你在说什么。"
+    },
+    {
+      "id": 103,
+      "start": 322.1,
+      "end": 325.36,
+      "en": "So maybe you can say, the professor wasn't very clear on his instructions.",
+      "zh": "所以也许你可以说，教授对他的指示不是很清楚。"
+    },
+    {
+      "id": 104,
+      "start": 325.8,
+      "end": 327.32,
+      "en": "So how was I supposed to do the homework?",
+      "zh": "那么我应该怎么做作业呢？"
+    },
+    {
+      "id": 105,
+      "start": 327.64,
+      "end": 328.08,
+      "en": "You know what I mean?",
+      "zh": "你懂我的意思吗？"
+    },
+    {
+      "id": 106,
+      "start": 328.44,
+      "end": 331.38,
+      "en": "So you're asking me to confirm that I understand you.",
+      "zh": "所以你要求我确认我理解你。"
+    },
+    {
+      "id": 107,
+      "start": 331.56,
+      "end": 331.98,
+      "en": "My idea.",
+      "zh": "我的想法。"
+    },
+    {
+      "id": 108,
+      "start": 332.62,
+      "end": 333.62,
+      "en": "You understand what I'm saying?",
+      "zh": "你明白我在说什么吗？"
+    },
+    {
+      "id": 109,
+      "start": 333.62,
+      "end": 334.62,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 110,
+      "start": 334.62,
+      "end": 335.62,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 111,
+      "start": 335.62,
+      "end": 339.34,
+      "en": "So you might say, hey, I don't like going to your mom's house.",
+      "zh": "所以你可能会说，嘿，我不喜欢去你妈妈家。"
+    },
+    {
+      "id": 112,
+      "start": 339.34,
+      "end": 340.0,
+      "en": "So I would say, what?",
+      "zh": "所以我会说，什么？"
+    },
+    {
+      "id": 113,
+      "start": 340.34,
+      "end": 340.7,
+      "en": "What do you mean?",
+      "zh": "你是什么意思？"
+    },
+    {
+      "id": 114,
+      "start": 341.34,
+      "end": 342.34,
+      "en": "Why?",
+      "zh": "为什么？"
+    },
+    {
+      "id": 115,
+      "start": 342.34,
+      "end": 343.34,
+      "en": "You know what I mean?",
+      "zh": "你懂我的意思吗？"
+    },
+    {
+      "id": 116,
+      "start": 343.34,
+      "end": 344.34,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 117,
+      "start": 344.34,
+      "end": 347.22,
+      "en": "So I perfectly understand or know the reasons why you don't like going to my mom's house.",
+      "zh": "所以我完全理解或知道你不喜欢去我妈妈家的原因。"
+    },
+    {
+      "id": 118,
+      "start": 347.22,
+      "end": 348.22,
+      "en": "Like I don't have to tell you.",
+      "zh": "就像我不必告诉你一样。"
+    },
+    {
+      "id": 119,
+      "start": 348.22,
+      "end": 349.02,
+      "en": "You know what I mean?",
+      "zh": "你懂我的意思吗？"
+    },
+    {
+      "id": 120,
+      "start": 349.44,
+      "end": 349.78,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 121,
+      "start": 349.8,
+      "end": 350.32,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 122,
+      "start": 350.8,
+      "end": 352.1,
+      "en": "So you know what I mean.",
+      "zh": "所以你知道我的意思。"
+    },
+    {
+      "id": 123,
+      "start": 352.22,
+      "end": 353.22,
+      "en": "Great.",
+      "zh": "太好了。"
+    },
+    {
+      "id": 124,
+      "start": 353.22,
+      "end": 354.6,
+      "en": "So we've taken a look at these four phrases.",
+      "zh": "所以我们看了这四个短语。"
+    },
+    {
+      "id": 125,
+      "start": 354.9,
+      "end": 359.25,
+      "en": "They're very simple, but the way that you use them gives them different meanings.",
+      "zh": "它们非常简单，但您使用它们的方式赋予它们不同的含义。"
+    },
+    {
+      "id": 126,
+      "start": 359.67,
+      "end": 360.01,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 127,
+      "start": 360.86,
+      "end": 361.86,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 128,
+      "start": 361.86,
+      "end": 363.53,
+      "en": "So let's listen to our dialogue for the second time.",
+      "zh": "所以让我们第二次听我们的对话。"
+    },
+    {
+      "id": 129,
+      "start": 364.14,
+      "end": 374.46,
+      "en": "Just slow it down a little bit, and then we'll come back and look at some more phrases.",
+      "zh": "只是慢一点，然后我们会回来看更多的短语。"
+    },
+    {
+      "id": 130,
+      "start": 374.46,
+      "end": 375.46,
+      "en": "Can we talk?",
+      "zh": "我们能谈谈吗？"
+    },
+    {
+      "id": 131,
+      "start": 376.08,
+      "end": 376.8,
+      "en": "Sure, honey.",
+      "zh": "当然，亲爱的。"
+    },
+    {
+      "id": 132,
+      "start": 377.34,
+      "end": 378.16,
+      "en": "We're talking now, aren't we?",
+      "zh": "我们现在在说话，不是吗？"
+    },
+    {
+      "id": 133,
+      "start": 378.76,
+      "end": 379.78,
+      "en": "You know what I mean.",
+      "zh": "你懂我的意思。"
+    },
+    {
+      "id": 134,
+      "start": 380.18,
+      "end": 380.78,
+      "en": "Yeah, I know.",
+      "zh": "对，我知道。"
+    },
+    {
+      "id": 135,
+      "start": 382.2,
+      "end": 384.9,
+      "en": "I want to know where this relationship is going.",
+      "zh": "我想知道我们这段关系会走向哪里。"
+    },
+    {
+      "id": 136,
+      "start": 385.76,
+      "end": 389.06,
+      "en": "I'm in love with you, and I need to know...",
+      "zh": "我爱上了你，我需要知道..."
+    },
+    {
+      "id": 137,
+      "start": 389.06,
+      "end": 390.4,
+      "en": "You know, I think you're awesome.",
+      "zh": "你知道，我觉得你很棒。"
+    },
+    {
+      "id": 138,
+      "start": 391.1,
+      "end": 391.8,
+      "en": "I'm awesome.",
+      "zh": "我太棒了。"
+    },
+    {
+      "id": 139,
+      "start": 392.84,
+      "end": 394.92,
+      "en": "Well, I guess that's my answer, isn't it?",
+      "zh": "嗯，我想这就是我的答案，不是吗？"
+    },
+    {
+      "id": 140,
+      "start": 394.92,
+      "end": 395.1,
+      "en": "Honey.",
+      "zh": "亲爱的。"
+    },
+    {
+      "id": 141,
+      "start": 395.74,
+      "end": 399.72,
+      "en": "Look, if you don't love me, it's not a thing, all right?",
+      "zh": "看，如果你不爱我，那不是一回事，好吗？"
+    },
+    {
+      "id": 142,
+      "start": 400.18,
+      "end": 402.32,
+      "en": "We've had our laughs, but I don't appreciate...",
+      "zh": "我们在一起也开心过，可我不想……"
+    },
+    {
+      "id": 143,
+      "start": 402.86,
+      "end": 404.38,
+      "en": "Maybe it's just time we...",
+      "zh": "也许我们该……"
+    },
+    {
+      "id": 144,
+      "start": 404.38,
+      "end": 406.18,
+      "en": "Baby, I love you so much.",
+      "zh": "宝贝，我非常爱你。"
+    },
+    {
+      "id": 145,
+      "start": 406.46,
+      "end": 406.76,
+      "en": "You do?",
+      "zh": "是吗？"
+    },
+    {
+      "id": 146,
+      "start": 407.16,
+      "end": 409.22,
+      "en": "I love you, and I think you're awesome.",
+      "zh": "我爱你，我觉得你很棒。"
+    },
+    {
+      "id": 147,
+      "start": 409.76,
+      "end": 411.08,
+      "en": "Oh, I love you too.",
+      "zh": "哦，我也爱你。"
+    },
+    {
+      "id": 148,
+      "start": 412.15,
+      "end": 413.63,
+      "en": "Come on, put the gun down.",
+      "zh": "拜托，把枪放下。"
+    },
+    {
+      "id": 149,
+      "start": 414.11,
+      "end": 416.31,
+      "en": "Oh, baby, I'm so sorry.",
+      "zh": "哦，宝贝，我很抱歉。"
+    },
+    {
+      "id": 150,
+      "start": 420.24,
+      "end": 426.36,
+      "en": "Okay, so now it's time for us to take a look at some more phrases, but this time we're going to look at them in putting it together.",
+      "zh": "好的，现在是时候让我们看看更多的短语了，但这次我们要看看它们把它们放在一起。"
+    },
+    {
+      "id": 151,
+      "start": 428.25,
+      "end": 429.31,
+      "en": "Putting it together.",
+      "zh": "综合运用。"
+    },
+    {
+      "id": 152,
+      "start": 430.54,
+      "end": 435.14,
+      "en": "Okay, we're going to see how we can use these phrases in a few different situations.",
+      "zh": "好的，我们将看看如何在一些不同的情况下使用这些短语。"
+    },
+    {
+      "id": 153,
+      "start": 436.0,
+      "end": 442.36,
+      "en": "So the girl wanted to talk to her boyfriend because she wanted to know where this relationship is going.",
+      "zh": "所以这个女孩想和她的男朋友谈谈，因为她想知道这段关系的发展方向。"
+    },
+    {
+      "id": 154,
+      "start": 442.88,
+      "end": 443.02,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 155,
+      "start": 443.76,
+      "end": 446.06,
+      "en": "Where is this relationship going?",
+      "zh": "这段关系走向何方？"
+    },
+    {
+      "id": 156,
+      "start": 446.06,
+      "end": 447.18,
+      "en": "Where is this relationship going?",
+      "zh": "这段关系走向何方？"
+    },
+    {
+      "id": 157,
+      "start": 447.86,
+      "end": 451.03,
+      "en": "So she wants to know what's going to happen or what's...",
+      "zh": "所以她想知道会发生什么或发生什么..."
+    },
+    {
+      "id": 158,
+      "start": 451.06,
+      "end": 451.53,
+      "en": "What's the future.",
+      "zh": "未来是什么。"
+    },
+    {
+      "id": 159,
+      "start": 452.06,
+      "end": 453.06,
+      "en": "What's the future of this relationship?",
+      "zh": "这种关系的未来是什么？"
+    },
+    {
+      "id": 160,
+      "start": 453.35,
+      "end": 454.29,
+      "en": "Are we going to get married?",
+      "zh": "我们要结婚吗？"
+    },
+    {
+      "id": 161,
+      "start": 454.74,
+      "end": 455.74,
+      "en": "Are we just...",
+      "zh": "我们只是..."
+    },
+    {
+      "id": 162,
+      "start": 455.74,
+      "end": 456.74,
+      "en": "What's happening?",
+      "zh": "怎么了？"
+    },
+    {
+      "id": 163,
+      "start": 456.74,
+      "end": 457.74,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 164,
+      "start": 457.74,
+      "end": 461.94,
+      "en": "So why don't we listen to some examples with different nouns and how we can use this phrase?",
+      "zh": "那么我们为什么不听一些带有不同名词的例子以及我们如何使用这个短语呢？"
+    },
+    {
+      "id": 165,
+      "start": 461.94,
+      "end": 462.21,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 166,
+      "start": 463.94,
+      "end": 466.55,
+      "en": "I don't know where my career is going in this company.",
+      "zh": "我不知道我在这家公司的职业生涯将走向何方。"
+    },
+    {
+      "id": 167,
+      "start": 466.91,
+      "end": 468.53,
+      "en": "I don't see any potential for growth.",
+      "zh": "我看不到任何增长的潜力。"
+    },
+    {
+      "id": 168,
+      "start": 470.35,
+      "end": 471.05,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 169,
+      "start": 473.17,
+      "end": 474.51,
+      "en": "This movie is so confusing.",
+      "zh": "这部电影太混乱了。"
+    },
+    {
+      "id": 170,
+      "start": 474.97,
+      "end": 476.65,
+      "en": "I have no idea where the plot is going.",
+      "zh": "我不知道情节去哪儿了。"
+    },
+    {
+      "id": 171,
+      "start": 478.7,
+      "end": 479.82,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 172,
+      "start": 482.35,
+      "end": 486.63,
+      "en": "We have been in this meeting for over two hours and I still don't know where it's going.",
+      "zh": "我们已经参加了两个多小时的会议，我仍然不知道它会去哪里。"
+    },
+    {
+      "id": 173,
+      "start": 488.39,
+      "end": 492.57,
+      "en": "Okay, so again, this phrase is just asking about the future of something.",
+      "zh": "好吧，再说一遍，这句话只是在询问某事的未来。"
+    },
+    {
+      "id": 174,
+      "start": 492.85,
+      "end": 492.97,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 175,
+      "start": 493.05,
+      "end": 496.27,
+      "en": "So where the future of this movie, where is this movie going?",
+      "zh": "那么这部电影的未来在哪里，这部电影要去哪里？"
+    },
+    {
+      "id": 176,
+      "start": 496.59,
+      "end": 497.11,
+      "en": "Yeah, what's happening?",
+      "zh": "是的，发生了什么事？"
+    },
+    {
+      "id": 177,
+      "start": 497.37,
+      "end": 497.49,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 178,
+      "start": 497.95,
+      "end": 498.81,
+      "en": "What's going to happen?",
+      "zh": "会发生什么？"
+    },
+    {
+      "id": 179,
+      "start": 499.58,
+      "end": 500.58,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 180,
+      "start": 500.58,
+      "end": 501.58,
+      "en": "Or your career, etc.",
+      "zh": "或者你的职业等。"
+    },
+    {
+      "id": 181,
+      "start": 501.58,
+      "end": 502.58,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 182,
+      "start": 502.58,
+      "end": 503.58,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 183,
+      "start": 503.58,
+      "end": 510.98,
+      "en": "So, she was talking a little bit about her feelings and she said, maybe it's just time we...",
+      "zh": "所以，她在谈论她的感受，她说，也许是时候我们..."
+    },
+    {
+      "id": 184,
+      "start": 511.09,
+      "end": 511.55,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 185,
+      "start": 511.59,
+      "end": 514.09,
+      "en": "So this phrase isn't complete yet.",
+      "zh": "所以这句话还不完整。"
+    },
+    {
+      "id": 186,
+      "start": 514.53,
+      "end": 515.27,
+      "en": "We need to finish it.",
+      "zh": "我们需要完成它。"
+    },
+    {
+      "id": 187,
+      "start": 515.58,
+      "end": 516.58,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 188,
+      "start": 516.58,
+      "end": 518.22,
+      "en": "But she is basically saying, maybe we should do this.",
+      "zh": "但她基本上是在说，也许我们应该这样做。"
+    },
+    {
+      "id": 189,
+      "start": 519.02,
+      "end": 519.84,
+      "en": "How can we finish the phrase?",
+      "zh": "我们怎样才能完成这句话？"
+    },
+    {
+      "id": 190,
+      "start": 520.18,
+      "end": 521.18,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 191,
+      "start": 521.18,
+      "end": 524.32,
+      "en": "So she could say, maybe it's just time we break up.",
+      "zh": "所以她可以说，也许是时候分手了。"
+    },
+    {
+      "id": 192,
+      "start": 524.6,
+      "end": 524.98,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 193,
+      "start": 524.98,
+      "end": 528.06,
+      "en": "Or I can say, maybe it's time we have a baby.",
+      "zh": "或者我可以说，也许是时候我们有孩子了。"
+    },
+    {
+      "id": 194,
+      "start": 528.6,
+      "end": 529.08,
+      "en": "Oh, Marco.",
+      "zh": "哦，马可。"
+    },
+    {
+      "id": 195,
+      "start": 530.52,
+      "end": 531.38,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 196,
+      "start": 531.74,
+      "end": 534.78,
+      "en": "And maybe it's time we go home.",
+      "zh": "也许是时候我们回家了。"
+    },
+    {
+      "id": 197,
+      "start": 534.78,
+      "end": 535.78,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 198,
+      "start": 535.78,
+      "end": 536.78,
+      "en": "So it's getting late, let's go home.",
+      "zh": "所以来晚了，我们回家吧。"
+    },
+    {
+      "id": 199,
+      "start": 536.98,
+      "end": 537.84,
+      "en": "Maybe it's time we go home.",
+      "zh": "也许是我们回家的时候了。"
+    },
+    {
+      "id": 200,
+      "start": 538.1,
+      "end": 539.1,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 201,
+      "start": 539.1,
+      "end": 540.74,
+      "en": "So this is how we can finish this phrase.",
+      "zh": "所以这就是我们如何完成这个短语的方式。"
+    },
+    {
+      "id": 202,
+      "start": 541.82,
+      "end": 542.96,
+      "en": "And what about our last phrase?",
+      "zh": "最后一个短语是什么呢？"
+    },
+    {
+      "id": 203,
+      "start": 543.62,
+      "end": 546.12,
+      "en": "So she also said, we've had our laughs.",
+      "zh": "所以她也说，我们笑了。"
+    },
+    {
+      "id": 204,
+      "start": 546.72,
+      "end": 547.0,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 205,
+      "start": 547.06,
+      "end": 549.2,
+      "en": "So that means we've had our good times.",
+      "zh": "所以这意味着我们度过了美好的时光。"
+    },
+    {
+      "id": 206,
+      "start": 549.74,
+      "end": 550.74,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 207,
+      "start": 550.74,
+      "end": 551.74,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 208,
+      "start": 551.74,
+      "end": 554.84,
+      "en": "But we can change this to, we've had our ups and downs.",
+      "zh": "但我们可以将其更改为，我们有起有落。"
+    },
+    {
+      "id": 209,
+      "start": 555.18,
+      "end": 555.52,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 210,
+      "start": 556.18,
+      "end": 557.42,
+      "en": "Or we've had our moments.",
+      "zh": "或者我们有过我们的时刻。"
+    },
+    {
+      "id": 211,
+      "start": 558.1,
+      "end": 559.1,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 212,
+      "start": 559.1,
+      "end": 561.46,
+      "en": "So that means we've had our good moments and our bad moments.",
+      "zh": "所以这意味着我们有我们的好时光和坏时刻。"
+    },
+    {
+      "id": 213,
+      "start": 561.78,
+      "end": 562.06,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 214,
+      "start": 562.62,
+      "end": 564.66,
+      "en": "Or we've had our issues.",
+      "zh": "或者我们有我们的问题。"
+    },
+    {
+      "id": 215,
+      "start": 565.26,
+      "end": 565.46,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 216,
+      "start": 565.54,
+      "end": 567.42,
+      "en": "So that means we've had some problems.",
+      "zh": "所以这意味着我们遇到了一些问题。"
+    },
+    {
+      "id": 217,
+      "start": 567.84,
+      "end": 568.54,
+      "en": "We've had some difficulties.",
+      "zh": "我们遇到了一些困难。"
+    },
+    {
+      "id": 218,
+      "start": 569.28,
+      "end": 570.84,
+      "en": "Or even we've had our moments.",
+      "zh": "甚至我们有过我们的时刻。"
+    },
+    {
+      "id": 219,
+      "start": 571.34,
+      "end": 571.54,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 220,
+      "start": 571.58,
+      "end": 572.92,
+      "en": "So that means we've had...",
+      "zh": "所以这意味着我们有..."
+    },
+    {
+      "id": 221,
+      "start": 573.1,
+      "end": 574.22,
+      "en": "Special times.",
+      "zh": "特殊时期。"
+    },
+    {
+      "id": 222,
+      "start": 575.1,
+      "end": 579.28,
+      "en": "So that means we've had our special times, special occasions that we will always remember.",
+      "zh": "所以这意味着我们有过特殊的时刻，我们将永远记住的特殊场合。"
+    },
+    {
+      "id": 223,
+      "start": 579.54,
+      "end": 579.7,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 224,
+      "start": 580.54,
+      "end": 581.54,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 225,
+      "start": 581.54,
+      "end": 588.34,
+      "en": "So three really useful structures that you can change the words a little bit to slightly change the meaning.",
+      "zh": "所以三个非常有用的结构，你可以稍微改变一下单词以稍微改变含义。"
+    },
+    {
+      "id": 226,
+      "start": 588.34,
+      "end": 588.46,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 227,
+      "start": 589.34,
+      "end": 592.0,
+      "en": "So it's time for us to listen to our dialogue for the last time.",
+      "zh": "所以是时候让我们最后一次听我们的对话了。"
+    },
+    {
+      "id": 228,
+      "start": 592.3,
+      "end": 593.7,
+      "en": "Now we're ready to understand everything.",
+      "zh": "现在我们准备好了解一切。"
+    },
+    {
+      "id": 229,
+      "start": 594.4,
+      "end": 598.16,
+      "en": "And then we'll come back and give you some examples of pet names in English.",
+      "zh": "然后我们会回来给你一些英语宠物名字的例子。"
+    },
+    {
+      "id": 230,
+      "start": 615.54,
+      "end": 620.18,
+      "en": "Can we talk?",
+      "zh": "我们能谈谈吗？"
+    },
+    {
+      "id": 231,
+      "start": 620.18,
+      "end": 620.9,
+      "en": "You know what I mean.",
+      "zh": "你懂我的意思。"
+    },
+    {
+      "id": 232,
+      "start": 623.46,
+      "end": 626.02,
+      "en": "I want to know where this relationship is going.",
+      "zh": "我想知道我们这段关系会走向哪里。"
+    },
+    {
+      "id": 233,
+      "start": 626.86,
+      "end": 630.29,
+      "en": "I'm in love with you and I need to know...",
+      "zh": "我爱上了你，我需要知道..."
+    },
+    {
+      "id": 234,
+      "start": 632.23,
+      "end": 632.95,
+      "en": "I'm awesome.",
+      "zh": "我太棒了。"
+    },
+    {
+      "id": 235,
+      "start": 634.07,
+      "end": 636.03,
+      "en": "Well, I guess that's my answer, isn't it?",
+      "zh": "嗯，我想这就是我的答案，不是吗？"
+    },
+    {
+      "id": 236,
+      "start": 637.01,
+      "end": 640.37,
+      "en": "Look, if you don't love me, it's not a thing.",
+      "zh": "看，如果你不爱我，那不是一回事。"
+    },
+    {
+      "id": 237,
+      "start": 640.37,
+      "end": 640.85,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 238,
+      "start": 641.23,
+      "end": 643.45,
+      "en": "We've had our laughs, but I don't appreciate...",
+      "zh": "我们在一起也开心过，可我不想……"
+    },
+    {
+      "id": 239,
+      "start": 644.5,
+      "end": 645.86,
+      "en": "Maybe it's just time we...",
+      "zh": "也许我们该……"
+    },
+    {
+      "id": 240,
+      "start": 645.86,
+      "end": 647.7,
+      "en": "Baby, I love you so much.",
+      "zh": "宝贝，我非常爱你。"
+    },
+    {
+      "id": 241,
+      "start": 647.7,
+      "end": 647.9,
+      "en": "You do?",
+      "zh": "是吗？"
+    },
+    {
+      "id": 242,
+      "start": 648.7,
+      "end": 650.36,
+      "en": "I love you and I think you're awesome.",
+      "zh": "我爱你，我觉得你很棒。"
+    },
+    {
+      "id": 243,
+      "start": 650.82,
+      "end": 652.22,
+      "en": "Oh, I love you too.",
+      "zh": "哦，我也爱你。"
+    },
+    {
+      "id": 244,
+      "start": 652.84,
+      "end": 654.44,
+      "en": "Come on, put the gun down.",
+      "zh": "拜托，把枪放下。"
+    },
+    {
+      "id": 245,
+      "start": 654.86,
+      "end": 655.32,
+      "en": "Oh, baby.",
+      "zh": "哦，宝贝。"
+    },
+    {
+      "id": 246,
+      "start": 655.84,
+      "end": 657.08,
+      "en": "I'm so sorry.",
+      "zh": "非常抱歉。"
+    },
+    {
+      "id": 247,
+      "start": 657.9,
+      "end": 660.22,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 248,
+      "start": 660.22,
+      "end": 667.78,
+      "en": "Well, Marco, you mentioned this word pet names.",
+      "zh": "好吧，马可，你提到了这个词宠物名字。"
+    },
+    {
+      "id": 249,
+      "start": 667.78,
+      "end": 668.67,
+      "en": "And what exactly is that?",
+      "zh": "那到底是什么？"
+    },
+    {
+      "id": 250,
+      "start": 668.9,
+      "end": 669.9,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 251,
+      "start": 669.9,
+      "end": 672.18,
+      "en": "So pet names aren't names for your dogs or your cats.",
+      "zh": "所以宠物名字不是你的狗或猫的名字。"
+    },
+    {
+      "id": 252,
+      "start": 672.18,
+      "end": 673.18,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 253,
+      "start": 673.18,
+      "end": 674.18,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 254,
+      "start": 674.18,
+      "end": 676.46,
+      "en": "So pet names that you would call your boyfriend or girlfriend.",
+      "zh": "所以你会叫你男朋友或女朋友的宠物名字。"
+    },
+    {
+      "id": 255,
+      "start": 676.46,
+      "end": 677.46,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 256,
+      "start": 677.46,
+      "end": 678.46,
+      "en": "So like baby.",
+      "zh": "就像宝贝一样。"
+    },
+    {
+      "id": 257,
+      "start": 678.46,
+      "end": 679.46,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 258,
+      "start": 679.46,
+      "end": 680.46,
+      "en": "In our dialogue, we heard baby.",
+      "zh": "在我们的对话中，我们听到了宝贝。"
+    },
+    {
+      "id": 259,
+      "start": 680.46,
+      "end": 681.46,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 260,
+      "start": 681.46,
+      "end": 682.46,
+      "en": "Right?",
+      "zh": "对吧？"
+    },
+    {
+      "id": 261,
+      "start": 682.46,
+      "end": 683.46,
+      "en": "So we're not talking about a little...",
+      "zh": "所以我们不是在谈论一点..."
+    },
+    {
+      "id": 262,
+      "start": 683.46,
+      "end": 684.46,
+      "en": "A little child.",
+      "zh": "一个小孩子。"
+    },
+    {
+      "id": 263,
+      "start": 684.46,
+      "end": 685.46,
+      "en": "A little child.",
+      "zh": "一个小孩子。"
+    },
+    {
+      "id": 264,
+      "start": 685.46,
+      "end": 686.46,
+      "en": "No.",
+      "zh": "不。"
+    },
+    {
+      "id": 265,
+      "start": 686.46,
+      "end": 687.58,
+      "en": "This is usually how you would call maybe your girlfriend or boyfriend, baby.",
+      "zh": "这通常是你称呼你的女朋友或男朋友的方式，宝贝。"
+    },
+    {
+      "id": 266,
+      "start": 687.58,
+      "end": 687.79,
+      "en": "Or honey.",
+      "zh": "或蜂蜜。"
+    },
+    {
+      "id": 267,
+      "start": 688.58,
+      "end": 689.58,
+      "en": "Honey.",
+      "zh": "亲爱的。"
+    },
+    {
+      "id": 268,
+      "start": 689.58,
+      "end": 690.58,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 269,
+      "start": 690.58,
+      "end": 691.58,
+      "en": "Hey, honey.",
+      "zh": "嘿，亲爱的。"
+    },
+    {
+      "id": 270,
+      "start": 691.58,
+      "end": 692.58,
+      "en": "Or honey, I'm home.",
+      "zh": "或者亲爱的，我在家。"
+    },
+    {
+      "id": 271,
+      "start": 692.58,
+      "end": 693.58,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 272,
+      "start": 693.58,
+      "end": 694.58,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 273,
+      "start": 694.58,
+      "end": 696.34,
+      "en": "But we also have other ones like sweetheart or...",
+      "zh": "但我们也有其他人，比如甜心或..."
+    },
+    {
+      "id": 274,
+      "start": 696.5,
+      "end": 696.72,
+      "en": "Darling.",
+      "zh": "亲爱的。"
+    },
+    {
+      "id": 275,
+      "start": 697.14,
+      "end": 697.27,
+      "en": "Darling.",
+      "zh": "亲爱的。"
+    },
+    {
+      "id": 276,
+      "start": 697.72,
+      "end": 697.88,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 277,
+      "start": 699.34,
+      "end": 701.58,
+      "en": "Or what about sweetie or cutie?",
+      "zh": "或者甜心或可爱呢？"
+    },
+    {
+      "id": 278,
+      "start": 701.58,
+      "end": 702.03,
+      "en": "Cutie.",
+      "zh": "可爱。"
+    },
+    {
+      "id": 279,
+      "start": 702.58,
+      "end": 703.58,
+      "en": "Oh.",
+      "zh": "哦。"
+    },
+    {
+      "id": 280,
+      "start": 703.58,
+      "end": 704.58,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 281,
+      "start": 704.58,
+      "end": 706.14,
+      "en": "I think these phrases can be a little bit like cheesy maybe.",
+      "zh": "我认为这些短语可能有点像俗气。"
+    },
+    {
+      "id": 282,
+      "start": 706.43,
+      "end": 706.55,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 283,
+      "start": 707.14,
+      "end": 707.71,
+      "en": "A little too sweet.",
+      "zh": "有点太甜了。"
+    },
+    {
+      "id": 284,
+      "start": 708.14,
+      "end": 709.14,
+      "en": "Too much.",
+      "zh": "太多了。"
+    },
+    {
+      "id": 285,
+      "start": 709.14,
+      "end": 710.14,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 286,
+      "start": 710.14,
+      "end": 711.14,
+      "en": "Like snookums.",
+      "zh": "像斯诺克姆斯。"
+    },
+    {
+      "id": 287,
+      "start": 711.39,
+      "end": 711.69,
+      "en": "Snookums.",
+      "zh": "小甜心。"
+    },
+    {
+      "id": 288,
+      "start": 712.19,
+      "end": 712.89,
+      "en": "Snookums.",
+      "zh": "小甜心。"
+    },
+    {
+      "id": 289,
+      "start": 713.14,
+      "end": 714.14,
+      "en": "Snookums.",
+      "zh": "小甜心。"
+    },
+    {
+      "id": 290,
+      "start": 714.14,
+      "end": 715.14,
+      "en": "Like snookums.",
+      "zh": "像斯诺克姆斯。"
+    },
+    {
+      "id": 291,
+      "start": 715.14,
+      "end": 716.14,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 292,
+      "start": 716.14,
+      "end": 717.14,
+      "en": "Or honey bunny.",
+      "zh": "或蜂蜜兔子。"
+    },
+    {
+      "id": 293,
+      "start": 717.14,
+      "end": 718.14,
+      "en": "Oh, yeah.",
+      "zh": "哦，对。"
+    },
+    {
+      "id": 294,
+      "start": 718.14,
+      "end": 719.14,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 295,
+      "start": 719.14,
+      "end": 720.14,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 296,
+      "start": 720.14,
+      "end": 721.14,
+      "en": "You also have sweetie pie.",
+      "zh": "你也有甜心派。"
+    },
+    {
+      "id": 297,
+      "start": 721.14,
+      "end": 722.14,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 298,
+      "start": 722.14,
+      "end": 723.14,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 299,
+      "start": 723.14,
+      "end": 724.14,
+      "en": "And some of them will make some up, right?",
+      "zh": "他们中的一些人会弥补一些，对吧？"
+    },
+    {
+      "id": 300,
+      "start": 724.14,
+      "end": 725.14,
+      "en": "Maybe they'll call their boyfriend poo bear.",
+      "zh": "也许他们会称他们的男朋友为便便熊。"
+    },
+    {
+      "id": 301,
+      "start": 725.48,
+      "end": 725.83,
+      "en": "Oh, yeah.",
+      "zh": "哦，对。"
+    },
+    {
+      "id": 302,
+      "start": 726.16,
+      "end": 726.38,
+      "en": "Right?",
+      "zh": "对吧？"
+    },
+    {
+      "id": 303,
+      "start": 727.14,
+      "end": 728.14,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 304,
+      "start": 728.14,
+      "end": 729.14,
+      "en": "Like Winnie the Pooh, poo bear.",
+      "zh": "像小熊维尼，小熊维尼。"
+    },
+    {
+      "id": 305,
+      "start": 729.14,
+      "end": 730.45,
+      "en": "I heard dumpling is a common one.",
+      "zh": "听说饺子很常见。"
+    },
+    {
+      "id": 306,
+      "start": 732.14,
+      "end": 734.14,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 307,
+      "start": 734.14,
+      "end": 736.14,
+      "en": "So, you can make up your own pet names, right?",
+      "zh": "所以，你可以自己编造自己的宠物名字，对吧？"
+    },
+    {
+      "id": 308,
+      "start": 736.14,
+      "end": 737.14,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 309,
+      "start": 737.14,
+      "end": 738.31,
+      "en": "So, I want to hear from our listeners.",
+      "zh": "所以，我想听听我们的听众的意见。"
+    },
+    {
+      "id": 310,
+      "start": 738.7,
+      "end": 741.0,
+      "en": "Are there any common pet names in your language?",
+      "zh": "您的语言中有常见的宠物名称吗？"
+    },
+    {
+      "id": 311,
+      "start": 741.66,
+      "end": 750.68,
+      "en": "I know that in Spanish, we can sometimes call our girlfriend gorda, which actually means fat.",
+      "zh": "我知道在西班牙语中，我们有时可以称我们的女朋友为 Gorda，这实际上是指胖子。"
+    },
+    {
+      "id": 312,
+      "start": 751.14,
+      "end": 752.14,
+      "en": "But it's not in a bad way.",
+      "zh": "但这并不是一个糟糕的方式。"
+    },
+    {
+      "id": 313,
+      "start": 752.4,
+      "end": 752.54,
+      "en": "Really?",
+      "zh": "真的吗？"
+    },
+    {
+      "id": 314,
+      "start": 753.14,
+      "end": 755.14,
+      "en": "It's a sweet way of calling your girlfriend.",
+      "zh": "这是给女朋友打电话的甜蜜方式。"
+    },
+    {
+      "id": 315,
+      "start": 755.94,
+      "end": 759.68,
+      "en": "And I know in French, you can say ma pouce, which basically means my flea.",
+      "zh": "我知道在法语中，你可以说ma pouce，这基本上意味着我的跳蚤。"
+    },
+    {
+      "id": 316,
+      "start": 760.14,
+      "end": 761.14,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 317,
+      "start": 761.14,
+      "end": 761.58,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 318,
+      "start": 761.66,
+      "end": 764.6,
+      "en": "So, some of them, if you translate, you wouldn't really use in English.",
+      "zh": "所以，其中一些，如果你翻译，你不会真正用英语。"
+    },
+    {
+      "id": 319,
+      "start": 764.62,
+      "end": 765.74,
+      "en": "But let us know.",
+      "zh": "但让我们知道。"
+    },
+    {
+      "id": 320,
+      "start": 766.1,
+      "end": 770.02,
+      "en": "Translate from your language or other ones that you've heard maybe in movies or talk shows.",
+      "zh": "从您在电影或脱口秀中听到的语言或其他语言翻译。"
+    },
+    {
+      "id": 321,
+      "start": 771.14,
+      "end": 773.14,
+      "en": "And come to our website, EnglishPod.com.",
+      "zh": "并访问我们的网站 englishpod.com。"
+    },
+    {
+      "id": 322,
+      "start": 773.14,
+      "end": 774.14,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 323,
+      "start": 774.14,
+      "end": 775.84,
+      "en": "Leave your questions there as well as your pet names.",
+      "zh": "把你的问题和你的宠物名字留在那里。"
+    },
+    {
+      "id": 324,
+      "start": 776.3,
+      "end": 778.56,
+      "en": "And Marco and I are always happy to see you there.",
+      "zh": "马可和我总是很高兴在那里见到你。"
+    },
+    {
+      "id": 325,
+      "start": 778.82,
+      "end": 779.1,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 326,
+      "start": 779.22,
+      "end": 779.82,
+      "en": "Until next time.",
+      "zh": "下次再见。"
+    },
+    {
+      "id": 327,
+      "start": 781.14,
+      "end": 782.14,
+      "en": "Goodbye.",
+      "zh": "再见。"
+    },
+    {
+      "id": 328,
+      "start": 782.14,
+      "end": 788.924,
+      "en": "Bye.",
+      "zh": "再见。"
+    }
+  ],
+  "dialog": {
+    "start": 57.0,
+    "end": 98.52,
+    "segmentIds": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26
+    ]
+  }
+}

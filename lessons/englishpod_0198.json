@@ -1,0 +1,2116 @@
+{
+  "version": 1,
+  "id": 198,
+  "number": "0198",
+  "title": "Daily Life - Applying CPR",
+  "audio": "mp3/198. Daily Life - Applying CPR.mp3",
+  "duration": 823.9543125,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.08,
+      "en": "Hello everyone and welcome back to EnglishPod.",
+      "zh": "大家好，欢迎回到 EnglishPod。"
+    },
+    {
+      "id": 2,
+      "start": 5.34,
+      "end": 5.8,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 6.34,
+      "end": 11.04,
+      "en": "My name is Catherine and today we are covering a very important health issue.",
+      "zh": "我的名字是凯瑟琳，今天我们正在讨论一个非常重要的健康问题。"
+    },
+    {
+      "id": 4,
+      "start": 11.48,
+      "end": 12.02,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 5,
+      "start": 12.62,
+      "end": 19.2,
+      "en": "We are, that's right, in case of an emergency, maybe somebody stops breathing, so we need to apply CPR.",
+      "zh": "我们是的，在紧急情况下，也许有人停止呼吸，所以我们需要应用心肺复苏术。"
+    },
+    {
+      "id": 6,
+      "start": 19.92,
+      "end": 20.88,
+      "en": "Now what is this procedure?",
+      "zh": "现在这个程序是什么？"
+    },
+    {
+      "id": 7,
+      "start": 21.16,
+      "end": 23.58,
+      "en": "Well, let's take a look at it in Vocabulary Preview.",
+      "zh": "好吧，让我们在词汇预览中看看它。"
+    },
+    {
+      "id": 8,
+      "start": 26.84,
+      "end": 33.24,
+      "en": "CPR in English is an acronym that means C, P, and R all stand for different words.",
+      "zh": "英语中的心肺复苏术是一个缩写，意思是 C、P 和 R 都代表不同的单词。"
+    },
+    {
+      "id": 9,
+      "start": 34.2,
+      "end": 37.4,
+      "en": "The big phrase here is cardiopulmonary resuscitation.",
+      "zh": "这里的大词是心肺复苏。"
+    },
+    {
+      "id": 10,
+      "start": 37.4,
+      "end": 38.4,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 11,
+      "start": 39.8,
+      "end": 41.22,
+      "en": "So you don't have to remember that.",
+      "zh": "所以你不必记住这一点。"
+    },
+    {
+      "id": 12,
+      "start": 41.56,
+      "end": 43.08,
+      "en": "Well, that's pretty hard.",
+      "zh": "嗯，这很困难。"
+    },
+    {
+      "id": 13,
+      "start": 43.08,
+      "end": 43.84,
+      "en": "What if you break it down?",
+      "zh": "如果你把它分解怎么办？"
+    },
+    {
+      "id": 14,
+      "start": 44.08,
+      "end": 44.5,
+      "en": "So what is cardio?",
+      "zh": "那么什么是有氧运动？"
+    },
+    {
+      "id": 15,
+      "start": 45.47,
+      "end": 47.85,
+      "en": "Cardio means it has to do with your heart.",
+      "zh": "有氧运动意味着它与你的心脏有关。"
+    },
+    {
+      "id": 16,
+      "start": 48.19,
+      "end": 48.67,
+      "en": "And then pulmonary?",
+      "zh": "然后是肺部？"
+    },
+    {
+      "id": 17,
+      "start": 49.25,
+      "end": 50.35,
+      "en": "Pulmonary means lungs.",
+      "zh": "肺部是指肺部。"
+    },
+    {
+      "id": 18,
+      "start": 50.59,
+      "end": 51.41,
+      "en": "It has to do with your lungs.",
+      "zh": "它与你的肺有关。"
+    },
+    {
+      "id": 19,
+      "start": 51.7,
+      "end": 53.96,
+      "en": "And what about resuscitation?",
+      "zh": "那么复苏呢？"
+    },
+    {
+      "id": 20,
+      "start": 53.96,
+      "end": 54.93,
+      "en": "That means to bring back.",
+      "zh": "这意味着要带回来。"
+    },
+    {
+      "id": 21,
+      "start": 55.48,
+      "end": 57.95,
+      "en": "So to resuscitate is to bring back to life.",
+      "zh": "所以复苏就是恢复生活。"
+    },
+    {
+      "id": 22,
+      "start": 58.44,
+      "end": 58.61,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 23,
+      "start": 59.44,
+      "end": 60.44,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 24,
+      "start": 60.44,
+      "end": 61.96,
+      "en": "So this is a very popular procedure.",
+      "zh": "所以这是一个非常流行的程序。"
+    },
+    {
+      "id": 25,
+      "start": 61.97,
+      "end": 67.55,
+      "en": "You probably see it in movies when somebody almost drowned, the lifeguard performs CPR.",
+      "zh": "当有人差点淹死时，你可能会在电影中看到它，救生员会进行心肺复苏术。"
+    },
+    {
+      "id": 26,
+      "start": 68.16,
+      "end": 71.19,
+      "en": "Oh no, the love of my life has just drowned.",
+      "zh": "哦，不，我生命中的挚爱刚刚淹死了。"
+    },
+    {
+      "id": 27,
+      "start": 71.48,
+      "end": 77.68,
+      "en": "And then someone comes and they push their chest and they say, one, two, three, they count.",
+      "zh": "然后有人来了，他们推着他们的胸膛，他们说，一、二、三，他们数数。"
+    },
+    {
+      "id": 28,
+      "start": 77.68,
+      "end": 83.0,
+      "en": "And then the person spits out water and everything and they're like, I always loved you.",
+      "zh": "然后那个人吐出水和一切，他们就像，我一直爱你。"
+    },
+    {
+      "id": 29,
+      "start": 83.0,
+      "end": 83.22,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 30,
+      "start": 84.0,
+      "end": 85.0,
+      "en": "So that's CPR.",
+      "zh": "这就是心肺复苏术。"
+    },
+    {
+      "id": 31,
+      "start": 85.0,
+      "end": 87.72,
+      "en": "Why don't we listen to this dialogue, see what's going on and we'll be back shortly.",
+      "zh": "我们为什么不听这个对话，看看发生了什么，我们很快就会回来。"
+    },
+    {
+      "id": 32,
+      "start": 95.16,
+      "end": 98.8,
+      "en": "Hello everyone and welcome to our CPR for beginners course.",
+      "zh": "大家好，欢迎来到我们的心肺复苏术初学者课程。"
+    },
+    {
+      "id": 33,
+      "start": 98.8,
+      "end": 100.94,
+      "en": "First of all, does anyone know what CPR stands for?",
+      "zh": "首先，有谁知道 CPR 这三个字母代表什么吗？"
+    },
+    {
+      "id": 34,
+      "start": 102.24,
+      "end": 103.04,
+      "en": "Cardiopulmonary resuscitation.",
+      "zh": "心肺复苏。"
+    },
+    {
+      "id": 35,
+      "start": 103.4,
+      "end": 103.58,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 36,
+      "start": 104.4,
+      "end": 107.9,
+      "en": "We apply CPR in the case of cardiac arrest or pulmonary arrest.",
+      "zh": "出现心脏骤停或呼吸停止时，我们就会实施心肺复苏。"
+    },
+    {
+      "id": 37,
+      "start": 108.4,
+      "end": 108.84,
+      "en": "What does that mean?",
+      "zh": "那是什么意思？"
+    },
+    {
+      "id": 38,
+      "start": 109.4,
+      "end": 114.74,
+      "en": "Well, basically if your heart stops pumping blood or your lungs stop pumping air, then we need to get them going again.",
+      "zh": "简单说，如果心脏停止泵血，或者肺部停止呼吸，我们就得想办法让它们恢复工作。"
+    },
+    {
+      "id": 39,
+      "start": 115.52,
+      "end": 116.68,
+      "en": "That's when we have to apply this procedure.",
+      "zh": "那是我们必须应用此程序的时候。"
+    },
+    {
+      "id": 40,
+      "start": 117.48,
+      "end": 117.68,
+      "en": "Let's begin.",
+      "zh": "我们开始吧。"
+    },
+    {
+      "id": 41,
+      "start": 118.48,
+      "end": 118.9,
+      "en": "I need a volunteer.",
+      "zh": "我需要一位志愿者。"
+    },
+    {
+      "id": 42,
+      "start": 119.48,
+      "end": 120.48,
+      "en": "Me, me.",
+      "zh": "我，我。"
+    },
+    {
+      "id": 43,
+      "start": 120.48,
+      "end": 121.88,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 44,
+      "start": 121.88,
+      "end": 123.0,
+      "en": "Come here and lay flat on your back.",
+      "zh": "过来，仰面平躺。"
+    },
+    {
+      "id": 45,
+      "start": 124.4,
+      "end": 125.99,
+      "en": "Let's suppose this young woman has stopped breathing.",
+      "zh": "假设这个年轻女子已经停止了呼吸。"
+    },
+    {
+      "id": 46,
+      "start": 126.78,
+      "end": 131.01,
+      "en": "We must lift the person's chin so that we clear a pathway for air to get into the lungs.",
+      "zh": "我们要抬起患者的下巴，打开气道，让空气能够进入肺部。"
+    },
+    {
+      "id": 47,
+      "start": 131.49,
+      "end": 136.85,
+      "en": "Then we place our mouth over the other person's mouth and blow air two or three times like this.",
+      "zh": "然后我们把嘴放在另一个人的嘴上，像这样吹两三遍空气。"
+    },
+    {
+      "id": 48,
+      "start": 137.01,
+      "end": 138.03,
+      "en": "Wait, what are you doing?",
+      "zh": "等等，你在干什么？"
+    },
+    {
+      "id": 49,
+      "start": 138.64,
+      "end": 139.64,
+      "en": "You're a married woman.",
+      "zh": "你是一个已婚女人。"
+    },
+    {
+      "id": 50,
+      "start": 139.64,
+      "end": 141.35,
+      "en": "You can't just try to kiss me like that.",
+      "zh": "你不能只是试图像那样吻我。"
+    },
+    {
+      "id": 51,
+      "start": 141.68,
+      "end": 143.6,
+      "en": "Ma'am, I'm not trying to kiss you.",
+      "zh": "女士，我不是想吻你。"
+    },
+    {
+      "id": 52,
+      "start": 143.69,
+      "end": 146.47,
+      "en": "I'm trying to demonstrate how to apply CPR in the case of an emergency.",
+      "zh": "我试图演示如何在紧急情况下应用心肺复苏术。"
+    },
+    {
+      "id": 53,
+      "start": 147.17,
+      "end": 148.13,
+      "en": "Well, okay.",
+      "zh": "嗯，好吧。"
+    },
+    {
+      "id": 54,
+      "start": 148.83,
+      "end": 149.67,
+      "en": "No French kissing.",
+      "zh": "不许舌吻。"
+    },
+    {
+      "id": 55,
+      "start": 151.42,
+      "end": 154.48,
+      "en": "As I was saying, we blow air through the mouth in this manner.",
+      "zh": "正如我所说，我们以这种方式将空气吹过嘴巴。"
+    },
+    {
+      "id": 56,
+      "start": 154.86,
+      "end": 157.1,
+      "en": "Once this is done, we must try to get the heart going again.",
+      "zh": "一旦完成，我们必须尝试让心脏再次运转。"
+    },
+    {
+      "id": 57,
+      "start": 157.72,
+      "end": 162.44,
+      "en": "To do this, we place our hands over the person's chest and press down firmly two or three times.",
+      "zh": "为此，我们将双手放在人的胸部，并用力按压两到三下。"
+    },
+    {
+      "id": 58,
+      "start": 162.84,
+      "end": 163.78,
+      "en": "Wait, what are you doing?",
+      "zh": "等等，你在干什么？"
+    },
+    {
+      "id": 59,
+      "start": 164.26,
+      "end": 166.08,
+      "en": "You can't just kiss me then go for second base.",
+      "zh": "你不能刚亲完我，就想进一步摸我的胸啊。"
+    },
+    {
+      "id": 60,
+      "start": 169.2,
+      "end": 170.2,
+      "en": "All right, we're back.",
+      "zh": "好了，我们回来了。"
+    },
+    {
+      "id": 61,
+      "start": 170.2,
+      "end": 172.59,
+      "en": "So a couple of pretty difficult words and phrases there, but don't worry.",
+      "zh": "所以那里有几个非常困难的单词和短语，但不要担心。"
+    },
+    {
+      "id": 62,
+      "start": 173.0,
+      "end": 174.63,
+      "en": "We'll explain them now in Language Takeaway.",
+      "zh": "我们现在将在语言外卖中解释它们。"
+    },
+    {
+      "id": 63,
+      "start": 177.04,
+      "end": 177.34,
+      "en": "Language Takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 64,
+      "start": 179.32,
+      "end": 182.38,
+      "en": "The first phrase we've got today is cardiac arrest.",
+      "zh": "我们今天得到的第一个短语是心脏骤停。"
+    },
+    {
+      "id": 65,
+      "start": 183.24,
+      "end": 184.38,
+      "en": "All right, so cardiac arrest.",
+      "zh": "好吧，所以心脏骤停。"
+    },
+    {
+      "id": 66,
+      "start": 184.64,
+      "end": 187.16,
+      "en": "Now cardiac, I think that has to do with the heart again, right?",
+      "zh": "现在心脏，我认为这又与心脏有关，对吧？"
+    },
+    {
+      "id": 67,
+      "start": 187.4,
+      "end": 188.42,
+      "en": "Exactly, your heart.",
+      "zh": "没错，你的心。"
+    },
+    {
+      "id": 68,
+      "start": 188.82,
+      "end": 189.74,
+      "en": "And what about arrest?",
+      "zh": "那么逮捕呢？"
+    },
+    {
+      "id": 69,
+      "start": 190.5,
+      "end": 191.96,
+      "en": "Well, arrest means two things.",
+      "zh": "好吧，逮捕意味着两件事。"
+    },
+    {
+      "id": 70,
+      "start": 192.38,
+      "end": 197.16,
+      "en": "Maybe you've heard of this meaning to arrest somebody, the police arrested someone.",
+      "zh": "也许你听说过逮捕某人的意思，警察逮捕了某人。"
+    },
+    {
+      "id": 71,
+      "start": 197.64,
+      "end": 200.48,
+      "en": "Well, this means to stop.",
+      "zh": "好吧，这意味着停止。"
+    },
+    {
+      "id": 72,
+      "start": 200.48,
+      "end": 201.88,
+      "en": "So we're not talking about the police here.",
+      "zh": "所以我们不是在这里谈论警察。"
+    },
+    {
+      "id": 73,
+      "start": 202.04,
+      "end": 204.6,
+      "en": "We're talking about the heart stopping.",
+      "zh": "我们在谈论心脏停止。"
+    },
+    {
+      "id": 74,
+      "start": 204.6,
+      "end": 207.6,
+      "en": "So cardiac arrest means when your heart stops.",
+      "zh": "所以心脏骤停意味着当你的心脏停止时。"
+    },
+    {
+      "id": 75,
+      "start": 207.6,
+      "end": 210.91,
+      "en": "Okay, and another word that's right next to it, pulmonary arrest.",
+      "zh": "好吧，还有一个词就在旁边，肺部逮捕。"
+    },
+    {
+      "id": 76,
+      "start": 211.16,
+      "end": 218.68,
+      "en": "So I'm guessing again, pulmonary has to do with lungs and arrest stops so your lungs stop pumping air.",
+      "zh": "所以我再次猜测，肺部与肺部和停止停止有关，因此您的肺部停止泵送空气。"
+    },
+    {
+      "id": 77,
+      "start": 218.68,
+      "end": 219.68,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 78,
+      "start": 219.68,
+      "end": 227.68,
+      "en": "So cardiac and pulmonary arrest, these are two times when your heart or your lungs, they stop doing what they are supposed to do.",
+      "zh": "所以心脏和肺部骤停，这是你的心脏或肺部的两次，它们停止做他们应该做的事情。"
+    },
+    {
+      "id": 79,
+      "start": 227.79,
+      "end": 234.45,
+      "en": "All right, and interestingly enough, the heart pumps blood, the lungs pump air, and that's our next word.",
+      "zh": "好吧，有趣的是，心脏泵血，肺部泵送空气，这是我们的下一个词。"
+    },
+    {
+      "id": 80,
+      "start": 234.57,
+      "end": 235.65,
+      "en": "What is this word to pump?",
+      "zh": "抽这个词是什么？"
+    },
+    {
+      "id": 81,
+      "start": 236.5,
+      "end": 238.62,
+      "en": "To pump means to fill something with.",
+      "zh": "泵意味着填充某物。"
+    },
+    {
+      "id": 82,
+      "start": 239.92,
+      "end": 244.28,
+      "en": "So for example, the heart pumps blood to the rest of your body.",
+      "zh": "因此，例如，心脏将血液泵送到您身体的其他部位。"
+    },
+    {
+      "id": 83,
+      "start": 244.84,
+      "end": 248.66,
+      "en": "That means it's always making sure your body has blood going into it.",
+      "zh": "这意味着它总是确保您的身体有血液进入其中。"
+    },
+    {
+      "id": 84,
+      "start": 249.18,
+      "end": 250.18,
+      "en": "And the same thing with your lungs.",
+      "zh": "你的肺也是一样的。"
+    },
+    {
+      "id": 85,
+      "start": 250.38,
+      "end": 253.42,
+      "en": "Your lungs help oxygen and air get to the rest of your body.",
+      "zh": "您的肺部有助于氧气和空气到达身体的其他部位。"
+    },
+    {
+      "id": 86,
+      "start": 253.56,
+      "end": 255.24,
+      "en": "So they pump it, they fill up with air.",
+      "zh": "所以他们抽它，他们充满了空气。"
+    },
+    {
+      "id": 87,
+      "start": 255.72,
+      "end": 257.86,
+      "en": "Okay, and we can do the same in other things.",
+      "zh": "好的，我们可以在其他事情上做同样的事情。"
+    },
+    {
+      "id": 88,
+      "start": 258.12,
+      "end": 260.48,
+      "en": "For example, you pump air into your tire.",
+      "zh": "例如，您将空气泵入轮胎。"
+    },
+    {
+      "id": 89,
+      "start": 260.94,
+      "end": 261.2,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 90,
+      "start": 261.32,
+      "end": 264.52,
+      "en": "If you have a flat tire, you're riding your bicycle and your bicycle won't move.",
+      "zh": "如果你有一个爆胎，你骑的是你的自行车，你的自行车不会移动。"
+    },
+    {
+      "id": 91,
+      "start": 264.78,
+      "end": 266.74,
+      "en": "Oh no, you have to pump it with air.",
+      "zh": "哦不，你必须用空气泵送它。"
+    },
+    {
+      "id": 92,
+      "start": 266.96,
+      "end": 268.14,
+      "en": "That means fill it up with air.",
+      "zh": "这意味着用空气填满它。"
+    },
+    {
+      "id": 93,
+      "start": 268.38,
+      "end": 271.18,
+      "en": "Okay, or maybe even pump water, right?",
+      "zh": "好吧，或者甚至抽水，对吧？"
+    },
+    {
+      "id": 94,
+      "start": 271.24,
+      "end": 273.08,
+      "en": "Like in your house.",
+      "zh": "就像在你家一样。"
+    },
+    {
+      "id": 95,
+      "start": 273.08,
+      "end": 274.62,
+      "en": "Or pump your car up with gas.",
+      "zh": "或者用汽油给你的车加油。"
+    },
+    {
+      "id": 96,
+      "start": 275.04,
+      "end": 275.3,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 97,
+      "start": 276.04,
+      "end": 277.04,
+      "en": "All right, very good.",
+      "zh": "好，很好。"
+    },
+    {
+      "id": 98,
+      "start": 277.04,
+      "end": 283.64,
+      "en": "So now the man is going to explain how to perform this procedure, CPR, and he asks for a volunteer.",
+      "zh": "所以现在这个人将解释如何执行这个程序，心肺复苏术，他要求一名志愿者。"
+    },
+    {
+      "id": 99,
+      "start": 284.55,
+      "end": 285.45,
+      "en": "Okay, a volunteer.",
+      "zh": "好吧，志愿者。"
+    },
+    {
+      "id": 100,
+      "start": 285.92,
+      "end": 291.18,
+      "en": "This is a word that can be both a noun, so a thing, and it can be an action, a verb.",
+      "zh": "这个词既可以是名词，也可以是事物，也可以是动作，动词。"
+    },
+    {
+      "id": 101,
+      "start": 291.56,
+      "end": 294.24,
+      "en": "Okay, so who is or what is a volunteer?",
+      "zh": "好的，那么谁是或什么是志愿者？"
+    },
+    {
+      "id": 102,
+      "start": 294.84,
+      "end": 298.66,
+      "en": "A volunteer is someone who offers to do something for free.",
+      "zh": "志愿者是提供免费做某事的人。"
+    },
+    {
+      "id": 103,
+      "start": 299.08,
+      "end": 300.96,
+      "en": "For free, without you asking them to do it.",
+      "zh": "免费，无需您要求他们这样做。"
+    },
+    {
+      "id": 104,
+      "start": 301.36,
+      "end": 303.52,
+      "en": "Right, so are there any volunteers in the room?",
+      "zh": "对了，房间里有志愿者吗？"
+    },
+    {
+      "id": 105,
+      "start": 304.26,
+      "end": 306.08,
+      "en": "Right, and somebody says, me, me, me.",
+      "zh": "对，有人说，我，我，我。"
+    },
+    {
+      "id": 106,
+      "start": 306.14,
+      "end": 307.24,
+      "en": "Me, me, me, I do.",
+      "zh": "我，我，我，我做。"
+    },
+    {
+      "id": 107,
+      "start": 308.44,
+      "end": 311.44,
+      "en": "You can also volunteer to help people who need help.",
+      "zh": "您还可以自愿帮助需要帮助的人。"
+    },
+    {
+      "id": 108,
+      "start": 311.76,
+      "end": 318.76,
+      "en": "So for example, in Haiti, there's an earthquake, and there are many people who offered to volunteer to help patients.",
+      "zh": "例如，在海地，有地震，有很多人愿意自愿帮助病人。"
+    },
+    {
+      "id": 109,
+      "start": 319.12,
+      "end": 323.52,
+      "en": "So that means they said, I will work for free to help these people, a volunteer.",
+      "zh": "所以这意味着他们说，我将免费帮助这些人，志愿者。"
+    },
+    {
+      "id": 110,
+      "start": 323.88,
+      "end": 326.72,
+      "en": "A volunteer, or to volunteer.",
+      "zh": "志愿者或志愿者。"
+    },
+    {
+      "id": 111,
+      "start": 326.72,
+      "end": 326.98,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 112,
+      "start": 327.72,
+      "end": 331.02,
+      "en": "So now we have our volunteer, and the man is explaining what to do.",
+      "zh": "所以现在我们有了我们的志愿者，这个人正在解释该怎么做。"
+    },
+    {
+      "id": 113,
+      "start": 331.56,
+      "end": 336.92,
+      "en": "Move the person's chin so that we clear a pathway for air to get into the lungs.",
+      "zh": "移动人的下巴，使我们清除空气进入肺部的通道。"
+    },
+    {
+      "id": 114,
+      "start": 336.92,
+      "end": 337.36,
+      "en": "This is a good one.",
+      "zh": "这是一件好事。"
+    },
+    {
+      "id": 115,
+      "start": 337.92,
+      "end": 339.52,
+      "en": "So a path is like a road.",
+      "zh": "所以一条路就像一条路。"
+    },
+    {
+      "id": 116,
+      "start": 339.92,
+      "end": 342.16,
+      "en": "It's where something can go, can move.",
+      "zh": "这是可以去的地方，可以移动。"
+    },
+    {
+      "id": 117,
+      "start": 342.16,
+      "end": 344.88,
+      "en": "To clear a pathway means to make some room.",
+      "zh": "清除路径意味着腾出一些空间。"
+    },
+    {
+      "id": 118,
+      "start": 345.32,
+      "end": 347.12,
+      "en": "To make a clear path.",
+      "zh": "形成一条清晰的路径。"
+    },
+    {
+      "id": 119,
+      "start": 347.12,
+      "end": 353.26,
+      "en": "So that means, think about it, if you can't breathe, someone has to find a way to make room to make a hole for you to breathe.",
+      "zh": "所以这意味着，想一想，如果你不能呼吸，就必须有人找到一种方法来腾出空间来为你打个洞。"
+    },
+    {
+      "id": 120,
+      "start": 354.06,
+      "end": 360.64,
+      "en": "So that means to move whatever is blocking you to clear some kind of space.",
+      "zh": "所以这意味着移动阻塞你的东西以清除某种空间。"
+    },
+    {
+      "id": 121,
+      "start": 360.64,
+      "end": 362.74,
+      "en": "So that's a pathway, a clear space.",
+      "zh": "所以这是一条途径，一个清晰的空间。"
+    },
+    {
+      "id": 122,
+      "start": 363.76,
+      "end": 367.72,
+      "en": "And now, well he's demonstrating how to perform CPR.",
+      "zh": "现在，他正在展示如何进行心肺复苏术。"
+    },
+    {
+      "id": 123,
+      "start": 368.72,
+      "end": 370.48,
+      "en": "So what is this verb, to demonstrate?",
+      "zh": "那么这个动词是什么来演示呢？"
+    },
+    {
+      "id": 124,
+      "start": 371.16,
+      "end": 372.62,
+      "en": "To demonstrate is very important.",
+      "zh": "演示是非常重要的。"
+    },
+    {
+      "id": 125,
+      "start": 373.34,
+      "end": 375.62,
+      "en": "We use this in most kinds of teaching.",
+      "zh": "我们在大多数类型的教学中使用它。"
+    },
+    {
+      "id": 126,
+      "start": 376.12,
+      "end": 380.52,
+      "en": "So to demonstrate is to show or to give an example.",
+      "zh": "所以演示就是展示或举一个例子。"
+    },
+    {
+      "id": 127,
+      "start": 380.52,
+      "end": 381.52,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 128,
+      "start": 381.52,
+      "end": 386.16,
+      "en": "So for example, here in EnglishPod, we are demonstrating how to use these words in sentences.",
+      "zh": "例如，在 EnglishPod 中，我们正在演示如何在句子中使用这些单词。"
+    },
+    {
+      "id": 129,
+      "start": 386.68,
+      "end": 387.68,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 130,
+      "start": 387.68,
+      "end": 392.04,
+      "en": "So an example is a good way to demonstrate the word or the phrase.",
+      "zh": "所以一个例子是演示单词或短语的好方法。"
+    },
+    {
+      "id": 131,
+      "start": 392.04,
+      "end": 392.22,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 132,
+      "start": 392.84,
+      "end": 393.1,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 133,
+      "start": 393.2,
+      "end": 395.86,
+      "en": "Why don't we listen to this dialogue again and we'll be back in a bit.",
+      "zh": "我们为什么不再听一次对话，我们会回来的。"
+    },
+    {
+      "id": 134,
+      "start": 400.72,
+      "end": 403.4,
+      "en": "Hello everyone and welcome to our CPR for beginners course.",
+      "zh": "大家好，欢迎来到我们的心肺复苏术初学者课程。"
+    },
+    {
+      "id": 135,
+      "start": 404.04,
+      "end": 406.54,
+      "en": "First of all, does anyone know what CPR stands for?",
+      "zh": "首先，有谁知道 CPR 这三个字母代表什么吗？"
+    },
+    {
+      "id": 136,
+      "start": 407.4,
+      "end": 408.66,
+      "en": "Cardiopulmonary resuscitation.",
+      "zh": "心肺复苏。"
+    },
+    {
+      "id": 137,
+      "start": 409.08,
+      "end": 409.54,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 138,
+      "start": 410.08,
+      "end": 413.84,
+      "en": "We apply CPR in the case of cardiac arrest or pulmonary arrest.",
+      "zh": "出现心脏骤停或呼吸停止时，我们就会实施心肺复苏。"
+    },
+    {
+      "id": 139,
+      "start": 414.12,
+      "end": 414.8,
+      "en": "What does that mean?",
+      "zh": "那是什么意思？"
+    },
+    {
+      "id": 140,
+      "start": 415.3,
+      "end": 420.7,
+      "en": "Well, basically if your heart stops pumping blood or your lungs stop pumping air, then we need to get them going again.",
+      "zh": "简单说，如果心脏停止泵血，或者肺部停止呼吸，我们就得想办法让它们恢复工作。"
+    },
+    {
+      "id": 141,
+      "start": 421.28,
+      "end": 422.54,
+      "en": "That's when we have to apply this procedure.",
+      "zh": "那是我们必须应用此程序的时候。"
+    },
+    {
+      "id": 142,
+      "start": 423.28,
+      "end": 423.64,
+      "en": "Let's begin.",
+      "zh": "我们开始吧。"
+    },
+    {
+      "id": 143,
+      "start": 424.4,
+      "end": 424.84,
+      "en": "I need a volunteer.",
+      "zh": "我需要一位志愿者。"
+    },
+    {
+      "id": 144,
+      "start": 425.4,
+      "end": 426.0,
+      "en": "Me, me.",
+      "zh": "我，我。"
+    },
+    {
+      "id": 145,
+      "start": 426.54,
+      "end": 427.02,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 146,
+      "start": 427.14,
+      "end": 428.38,
+      "en": "Come here and lay flat on your back.",
+      "zh": "过来，仰面平躺。"
+    },
+    {
+      "id": 147,
+      "start": 428.72,
+      "end": 430.54,
+      "en": "Let's suppose this young woman has stopped breathing.",
+      "zh": "假设这个年轻女子已经停止了呼吸。"
+    },
+    {
+      "id": 148,
+      "start": 431.32,
+      "end": 435.58,
+      "en": "We must lift the person's chin so that we clear a pathway for air to get into the lungs.",
+      "zh": "我们要抬起患者的下巴，打开气道，让空气能够进入肺部。"
+    },
+    {
+      "id": 149,
+      "start": 436.32,
+      "end": 441.4,
+      "en": "Then we place our mouth over the other person's mouth and blow air two or three times like this.",
+      "zh": "然后我们把嘴放在另一个人的嘴上，像这样吹两三遍空气。"
+    },
+    {
+      "id": 150,
+      "start": 441.56,
+      "end": 442.6,
+      "en": "Wait, what are you doing?",
+      "zh": "等等，你在干什么？"
+    },
+    {
+      "id": 151,
+      "start": 442.92,
+      "end": 443.7,
+      "en": "I'm a married woman.",
+      "zh": "我是一个已婚妇女。"
+    },
+    {
+      "id": 152,
+      "start": 444.24,
+      "end": 445.88,
+      "en": "You can't just try to kiss me like that.",
+      "zh": "你不能只是试图像那样吻我。"
+    },
+    {
+      "id": 153,
+      "start": 446.24,
+      "end": 448.12,
+      "en": "Ma'am, I'm not trying to kiss you.",
+      "zh": "女士，我不是想吻你。"
+    },
+    {
+      "id": 154,
+      "start": 448.2,
+      "end": 451.06,
+      "en": "I'm trying to demonstrate how to apply CPR in the case of an emergency.",
+      "zh": "我试图演示如何在紧急情况下应用心肺复苏术。"
+    },
+    {
+      "id": 155,
+      "start": 451.8,
+      "end": 452.68,
+      "en": "Well, okay.",
+      "zh": "嗯，好吧。"
+    },
+    {
+      "id": 156,
+      "start": 453.4,
+      "end": 454.24,
+      "en": "No French kissing.",
+      "zh": "不许舌吻。"
+    },
+    {
+      "id": 157,
+      "start": 454.83,
+      "end": 457.81,
+      "en": "As I was saying, we blow air through the mouth in this manner.",
+      "zh": "正如我所说，我们以这种方式将空气吹过嘴巴。"
+    },
+    {
+      "id": 158,
+      "start": 458.19,
+      "end": 460.51,
+      "en": "Once this is done, we must try to get the heart going again.",
+      "zh": "一旦完成，我们必须尝试让心脏再次运转。"
+    },
+    {
+      "id": 159,
+      "start": 460.99,
+      "end": 465.81,
+      "en": "To do this, we place our hands over the person's chest and press down firmly two or three times.",
+      "zh": "为此，我们将双手放在人的胸部，并用力按压两到三下。"
+    },
+    {
+      "id": 160,
+      "start": 466.17,
+      "end": 467.13,
+      "en": "Wait, what are you doing?",
+      "zh": "等等，你在干什么？"
+    },
+    {
+      "id": 161,
+      "start": 467.43,
+      "end": 469.43,
+      "en": "You can't just kiss me then go for second base.",
+      "zh": "你不能刚亲完我，就想进一步摸我的胸啊。"
+    },
+    {
+      "id": 162,
+      "start": 470.2,
+      "end": 471.84,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 163,
+      "start": 473.65,
+      "end": 475.95,
+      "en": "We're back so now let's go with Fluency Builder.",
+      "zh": "我们回来了，所以现在让我们使用 Fluency Builder。"
+    },
+    {
+      "id": 164,
+      "start": 477.79,
+      "end": 478.55,
+      "en": "Fluency Builder.",
+      "zh": "流利表达。"
+    },
+    {
+      "id": 165,
+      "start": 479.41,
+      "end": 483.25,
+      "en": "Well, the first phrase in Fluency Builder we hear in the beginning of today's dialogue.",
+      "zh": "好吧，我们在今天对话开始时听到的 Fluency Builder 中的第一个短语。"
+    },
+    {
+      "id": 166,
+      "start": 483.25,
+      "end": 489.67,
+      "en": "The teacher says, well basically if your heart stops pumping blood, then we need to get it going again.",
+      "zh": "老师说，基本上，如果你的心脏停止抽血，那么我们需要让它再次运转。"
+    },
+    {
+      "id": 167,
+      "start": 489.99,
+      "end": 490.29,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 168,
+      "start": 490.61,
+      "end": 493.99,
+      "en": "So that's a whole phrase there, to get something going, to get it going.",
+      "zh": "所以这是一个完整的短语，让一些事情顺利进行，让它继续前进。"
+    },
+    {
+      "id": 169,
+      "start": 494.63,
+      "end": 495.53,
+      "en": "What do you mean by this?",
+      "zh": "你这是什么意思？"
+    },
+    {
+      "id": 170,
+      "start": 495.69,
+      "end": 497.55,
+      "en": "This means to start it up again.",
+      "zh": "这意味着重新启动它。"
+    },
+    {
+      "id": 171,
+      "start": 497.85,
+      "end": 498.09,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 172,
+      "start": 498.73,
+      "end": 505.99,
+      "en": "So we could say, I used to teach an English class for my colleagues but we stopped having it.",
+      "zh": "所以我们可以说，我曾经为我的同事教一门英语课，但我们不再上课了。"
+    },
+    {
+      "id": 173,
+      "start": 506.21,
+      "end": 507.71,
+      "en": "I'd like to get it going again.",
+      "zh": "我想让它再次运行。"
+    },
+    {
+      "id": 174,
+      "start": 507.87,
+      "end": 508.09,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 175,
+      "start": 508.11,
+      "end": 510.07,
+      "en": "So you'd like to start it up again.",
+      "zh": "所以你想重新启动它。"
+    },
+    {
+      "id": 176,
+      "start": 510.27,
+      "end": 510.59,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 177,
+      "start": 510.83,
+      "end": 515.41,
+      "en": "So usually you're talking about turning something on or getting something started.",
+      "zh": "所以通常你在谈论打开某物或开始某事。"
+    },
+    {
+      "id": 178,
+      "start": 515.73,
+      "end": 520.39,
+      "en": "For example, maybe your car won't start so if you push it, you can get it going.",
+      "zh": "例如，也许您的汽车无法启动，因此如果您推它，您可以让它继续运行。"
+    },
+    {
+      "id": 179,
+      "start": 521.03,
+      "end": 521.35,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 180,
+      "start": 521.43,
+      "end": 524.11,
+      "en": "To get it going or to turn the keys to get it going.",
+      "zh": "让它运行或转动钥匙以使其继续运行。"
+    },
+    {
+      "id": 181,
+      "start": 524.25,
+      "end": 524.53,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 182,
+      "start": 525.43,
+      "end": 525.67,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 183,
+      "start": 526.84,
+      "end": 528.64,
+      "en": "So to get something going.",
+      "zh": "所以让事情顺利进行。"
+    },
+    {
+      "id": 184,
+      "start": 528.64,
+      "end": 533.28,
+      "en": "Now moving on, we have two key phrases here that are a little bit spicy, right?",
+      "zh": "现在继续前进，我们这里有两个有点辣的关键词，对吧？"
+    },
+    {
+      "id": 185,
+      "start": 533.7,
+      "end": 534.72,
+      "en": "Yeah, they're very romantic.",
+      "zh": "是的，他们非常浪漫。"
+    },
+    {
+      "id": 186,
+      "start": 534.94,
+      "end": 538.7,
+      "en": "Although this is a CPR class so it shouldn't be very romantic.",
+      "zh": "虽然这是一个心肺复苏术课程，所以它不应该很浪漫。"
+    },
+    {
+      "id": 187,
+      "start": 539.06,
+      "end": 539.4,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 188,
+      "start": 539.96,
+      "end": 542.56,
+      "en": "Well, this phrase that we have coming up is French kiss.",
+      "zh": "好吧，我们即将出现的这句话是法式吻。"
+    },
+    {
+      "id": 189,
+      "start": 542.8,
+      "end": 545.56,
+      "en": "To French kiss someone or a French kiss.",
+      "zh": "法式亲吻某人或法式吻。"
+    },
+    {
+      "id": 190,
+      "start": 545.56,
+      "end": 550.22,
+      "en": "So the volunteer says, okay, I'm happy to help you but no French kissing.",
+      "zh": "所以志愿者说，好吧，我很乐意帮助你，但没有法式接吻。"
+    },
+    {
+      "id": 191,
+      "start": 550.52,
+      "end": 551.52,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 192,
+      "start": 551.52,
+      "end": 552.0,
+      "en": "So what is French kissing?",
+      "zh": "那么什么是法式接吻呢？"
+    },
+    {
+      "id": 193,
+      "start": 552.76,
+      "end": 553.5,
+      "en": "No one wants to answer.",
+      "zh": "没有人愿意回答。"
+    },
+    {
+      "id": 194,
+      "start": 554.12,
+      "end": 554.38,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 195,
+      "start": 555.12,
+      "end": 556.12,
+      "en": "What is it?",
+      "zh": "怎么了？"
+    },
+    {
+      "id": 196,
+      "start": 556.12,
+      "end": 561.62,
+      "en": "It is when you kiss someone but your tongue goes into that other person's mouth.",
+      "zh": "这是当你亲吻某人，但你的舌头进入另一个人的嘴里时。"
+    },
+    {
+      "id": 197,
+      "start": 561.96,
+      "end": 562.38,
+      "en": "Ew.",
+      "zh": "咦，真恶心。"
+    },
+    {
+      "id": 198,
+      "start": 562.96,
+      "end": 563.96,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 199,
+      "start": 563.96,
+      "end": 564.88,
+      "en": "So there's a normal kiss.",
+      "zh": "所以有一个正常的吻。"
+    },
+    {
+      "id": 200,
+      "start": 565.12,
+      "end": 568.68,
+      "en": "You can kiss your friends on the cheek but a French kiss means that you use your tongue.",
+      "zh": "你可以亲吻你的朋友的脸颊，但法式吻意味着你用你的舌头。"
+    },
+    {
+      "id": 201,
+      "start": 568.96,
+      "end": 569.28,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 202,
+      "start": 569.88,
+      "end": 571.8,
+      "en": "So I wonder why they call it a French kiss.",
+      "zh": "所以我想知道为什么他们称之为法式吻。"
+    },
+    {
+      "id": 203,
+      "start": 572.0,
+      "end": 574.16,
+      "en": "Maybe Americans just were too shy.",
+      "zh": "也许美国人太害羞了。"
+    },
+    {
+      "id": 204,
+      "start": 574.92,
+      "end": 576.38,
+      "en": "They blamed it on the French.",
+      "zh": "他们将其归咎于法国人。"
+    },
+    {
+      "id": 205,
+      "start": 576.74,
+      "end": 578.84,
+      "en": "Maybe the French listeners out there can tell us.",
+      "zh": "也许那里的法国听众可以告诉我们。"
+    },
+    {
+      "id": 206,
+      "start": 579.44,
+      "end": 579.88,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 207,
+      "start": 580.4,
+      "end": 583.52,
+      "en": "So now moving on and she says, okay, no French kissing.",
+      "zh": "所以现在继续前进，她说，好吧，没有法式接吻。"
+    },
+    {
+      "id": 208,
+      "start": 583.8,
+      "end": 590.8,
+      "en": "Now the man is going to perform CPR and obviously he has to firmly press down on her chest to get her heart pumping blood, right?",
+      "zh": "现在这个男人要做心肺复苏术，显然他必须用力压在她的胸口，让她的心脏跳血，对吧？"
+    },
+    {
+      "id": 209,
+      "start": 590.84,
+      "end": 591.84,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 210,
+      "start": 591.84,
+      "end": 592.2,
+      "en": "This is a part of CPR.",
+      "zh": "这是心肺复苏术的一部分。"
+    },
+    {
+      "id": 211,
+      "start": 592.84,
+      "end": 599.28,
+      "en": "So first of all, you try to give the person air so they can breathe and then you have to push their chest to start their heart.",
+      "zh": "所以首先，你试着给人空气，这样他们就可以呼吸，然后你必须推他们的胸膛才能开始他们的心脏。"
+    },
+    {
+      "id": 212,
+      "start": 600.68,
+      "end": 604.52,
+      "en": "And this woman, the volunteer says, hey, what are you doing?",
+      "zh": "而这个女人，志愿者说，嘿，你在做什么？"
+    },
+    {
+      "id": 213,
+      "start": 604.52,
+      "end": 608.28,
+      "en": "You can't just kiss me first and then go for second base.",
+      "zh": "你不能只是先吻我，然后再去二垒。"
+    },
+    {
+      "id": 214,
+      "start": 608.4,
+      "end": 609.4,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 215,
+      "start": 609.4,
+      "end": 610.4,
+      "en": "So what is second base?",
+      "zh": "那么什么是二垒呢？"
+    },
+    {
+      "id": 216,
+      "start": 610.4,
+      "end": 610.58,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 217,
+      "start": 611.4,
+      "end": 612.8,
+      "en": "This is a sports metaphor.",
+      "zh": "这是一个体育比喻。"
+    },
+    {
+      "id": 218,
+      "start": 612.8,
+      "end": 613.8,
+      "en": "With baseball, right?",
+      "zh": "用棒球，对吧？"
+    },
+    {
+      "id": 219,
+      "start": 614.54,
+      "end": 614.8,
+      "en": "Baseball.",
+      "zh": "棒球。"
+    },
+    {
+      "id": 220,
+      "start": 614.8,
+      "end": 615.8,
+      "en": "Because baseball has four bases.",
+      "zh": "因为棒球有四个基地。"
+    },
+    {
+      "id": 221,
+      "start": 615.8,
+      "end": 619.8,
+      "en": "First, second, third base and home plate or home base.",
+      "zh": "一、二、三垒和本垒板或本垒。"
+    },
+    {
+      "id": 222,
+      "start": 619.8,
+      "end": 620.8,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 223,
+      "start": 620.8,
+      "end": 628.8,
+      "en": "So in romance, when we're talking about dating, we have a way to say first, second, third and fourth base.",
+      "zh": "所以在浪漫中，当我们谈论约会时，我们可以说一、二、三和四垒。"
+    },
+    {
+      "id": 224,
+      "start": 629.55,
+      "end": 629.8,
+      "en": "First base is kissing.",
+      "zh": "一垒是接吻。"
+    },
+    {
+      "id": 225,
+      "start": 629.8,
+      "end": 630.8,
+      "en": "That's kissing, right?",
+      "zh": "那是接吻，对吧？"
+    },
+    {
+      "id": 226,
+      "start": 630.8,
+      "end": 632.8,
+      "en": "So second base, what would be second base?",
+      "zh": "那么二垒，什么是二垒？"
+    },
+    {
+      "id": 227,
+      "start": 632.8,
+      "end": 635.8,
+      "en": "Well, in this example, it means touching.",
+      "zh": "好吧，在这个例子中，这意味着触摸。"
+    },
+    {
+      "id": 228,
+      "start": 636.27,
+      "end": 636.8,
+      "en": "Touching.",
+      "zh": "触摸。"
+    },
+    {
+      "id": 229,
+      "start": 636.8,
+      "end": 638.8,
+      "en": "Certain parts of the body, right?",
+      "zh": "身体的某些部位，对吧？"
+    },
+    {
+      "id": 230,
+      "start": 638.8,
+      "end": 639.8,
+      "en": "Romantic touching.",
+      "zh": "浪漫感人。"
+    },
+    {
+      "id": 231,
+      "start": 639.8,
+      "end": 640.8,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 232,
+      "start": 641.65,
+      "end": 646.23,
+      "en": "So second base and then obviously we have third and fourth, but we're not going to get into that now.",
+      "zh": "所以二垒，然后显然我们有三垒和第四，但我们现在不会进入。"
+    },
+    {
+      "id": 233,
+      "start": 646.23,
+      "end": 649.29,
+      "en": "You can look it up on Google, third base and fourth base.",
+      "zh": "您可以在 Google、三垒和四垒上查找它。"
+    },
+    {
+      "id": 234,
+      "start": 649.29,
+      "end": 650.93,
+      "en": "We trust that you can find it.",
+      "zh": "我们相信您可以找到它。"
+    },
+    {
+      "id": 235,
+      "start": 651.71,
+      "end": 653.53,
+      "en": "But first and second base are very common.",
+      "zh": "但一垒和二垒很常见。"
+    },
+    {
+      "id": 236,
+      "start": 653.75,
+      "end": 654.97,
+      "en": "It's okay to talk about.",
+      "zh": "可以谈论。"
+    },
+    {
+      "id": 237,
+      "start": 655.24,
+      "end": 656.36,
+      "en": "It's not a bad word.",
+      "zh": "这不是一个坏词。"
+    },
+    {
+      "id": 238,
+      "start": 656.36,
+      "end": 661.27,
+      "en": "So you'll probably see it in movies, young kids talking about first base or going to second base with someone.",
+      "zh": "所以你可能会在电影中看到它，年幼的孩子谈论一垒或与某人一起去二垒。"
+    },
+    {
+      "id": 239,
+      "start": 661.52,
+      "end": 666.43,
+      "en": "So it's kind of saying this in a different way, as a metaphor, as you said.",
+      "zh": "因此，正如您所说，它以不同的方式说出这一点，作为一个隐喻。"
+    },
+    {
+      "id": 240,
+      "start": 667.04,
+      "end": 669.44,
+      "en": "It's more polite than talking about.",
+      "zh": "这比谈论更有礼貌。"
+    },
+    {
+      "id": 241,
+      "start": 669.8,
+      "end": 670.8,
+      "en": "It's more subtle.",
+      "zh": "它更微妙。"
+    },
+    {
+      "id": 242,
+      "start": 670.8,
+      "end": 671.8,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 243,
+      "start": 671.8,
+      "end": 674.26,
+      "en": "So that's all the words and phrases we have on Fluency Builder.",
+      "zh": "这就是我们在 Fluency Builder 上拥有的所有单词和短语。"
+    },
+    {
+      "id": 244,
+      "start": 674.68,
+      "end": 676.66,
+      "en": "Let's listen to this great dialogue one last time.",
+      "zh": "让我们最后一次听听这场精彩的对话。"
+    },
+    {
+      "id": 245,
+      "start": 684.81,
+      "end": 687.61,
+      "en": "Hello everyone and welcome to our CPR for beginners course.",
+      "zh": "大家好，欢迎来到我们的心肺复苏术初学者课程。"
+    },
+    {
+      "id": 246,
+      "start": 688.23,
+      "end": 690.75,
+      "en": "First of all, does anyone know what CPR stands for?",
+      "zh": "首先，有谁知道 CPR 这三个字母代表什么吗？"
+    },
+    {
+      "id": 247,
+      "start": 691.49,
+      "end": 692.69,
+      "en": "Cardiopulmonary resuscitation.",
+      "zh": "心肺复苏。"
+    },
+    {
+      "id": 248,
+      "start": 692.95,
+      "end": 693.37,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 249,
+      "start": 693.89,
+      "end": 697.67,
+      "en": "We apply CPR in the case of cardiac arrest or pulmonary arrest.",
+      "zh": "出现心脏骤停或呼吸停止时，我们就会实施心肺复苏。"
+    },
+    {
+      "id": 250,
+      "start": 697.97,
+      "end": 698.63,
+      "en": "What does that mean?",
+      "zh": "那是什么意思？"
+    },
+    {
+      "id": 251,
+      "start": 699.11,
+      "end": 704.53,
+      "en": "Well, basically, if your heart stops pumping blood or your lungs stop pumping air, then we need to get them going again.",
+      "zh": "好吧，基本上，如果您的心脏停止抽血或肺部停止泵送空气，那么我们需要让它们再次运转。"
+    },
+    {
+      "id": 252,
+      "start": 705.13,
+      "end": 706.35,
+      "en": "That's when we have to apply this procedure.",
+      "zh": "那是我们必须应用此程序的时候。"
+    },
+    {
+      "id": 253,
+      "start": 707.13,
+      "end": 707.47,
+      "en": "Let's begin.",
+      "zh": "我们开始吧。"
+    },
+    {
+      "id": 254,
+      "start": 708.25,
+      "end": 708.67,
+      "en": "I need a volunteer.",
+      "zh": "我需要一位志愿者。"
+    },
+    {
+      "id": 255,
+      "start": 709.28,
+      "end": 710.28,
+      "en": "Me.",
+      "zh": "我。"
+    },
+    {
+      "id": 256,
+      "start": 710.28,
+      "end": 711.28,
+      "en": "Me.",
+      "zh": "我。"
+    },
+    {
+      "id": 257,
+      "start": 711.28,
+      "end": 712.28,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 258,
+      "start": 712.28,
+      "end": 712.79,
+      "en": "Come here and lay flat on your back.",
+      "zh": "过来，仰面平躺。"
+    },
+    {
+      "id": 259,
+      "start": 714.2,
+      "end": 715.79,
+      "en": "Let's suppose this young woman has stopped breathing.",
+      "zh": "假设这个年轻女子已经停止了呼吸。"
+    },
+    {
+      "id": 260,
+      "start": 716.58,
+      "end": 720.81,
+      "en": "We must lift the person's chin so that we clear a pathway for air to get into the lungs.",
+      "zh": "我们要抬起患者的下巴，打开气道，让空气能够进入肺部。"
+    },
+    {
+      "id": 261,
+      "start": 721.43,
+      "end": 726.63,
+      "en": "Then we place our mouth over the other person's mouth and blow air two or three times like this.",
+      "zh": "然后我们把嘴放在另一个人的嘴上，像这样吹两三遍空气。"
+    },
+    {
+      "id": 262,
+      "start": 726.81,
+      "end": 727.83,
+      "en": "Wait, what are you doing?",
+      "zh": "等等，你在干什么？"
+    },
+    {
+      "id": 263,
+      "start": 728.44,
+      "end": 729.44,
+      "en": "You're a married woman.",
+      "zh": "你是一个已婚女人。"
+    },
+    {
+      "id": 264,
+      "start": 729.44,
+      "end": 731.15,
+      "en": "You can't just try to kiss me like that.",
+      "zh": "你不能只是试图像那样吻我。"
+    },
+    {
+      "id": 265,
+      "start": 731.48,
+      "end": 733.36,
+      "en": "Ma'am, I'm not trying to kiss you.",
+      "zh": "女士，我不是想吻你。"
+    },
+    {
+      "id": 266,
+      "start": 733.45,
+      "end": 736.33,
+      "en": "I'm trying to demonstrate how to apply CPR in the case of an emergency.",
+      "zh": "我试图演示如何在紧急情况下应用心肺复苏术。"
+    },
+    {
+      "id": 267,
+      "start": 737.04,
+      "end": 738.96,
+      "en": "Well, OK.",
+      "zh": "嗯，好的。"
+    },
+    {
+      "id": 268,
+      "start": 738.96,
+      "end": 739.49,
+      "en": "No French kissing.",
+      "zh": "不许舌吻。"
+    },
+    {
+      "id": 269,
+      "start": 741.64,
+      "end": 744.22,
+      "en": "As I was saying, we blow air through the mouth in this manner.",
+      "zh": "正如我所说，我们以这种方式将空气吹过嘴巴。"
+    },
+    {
+      "id": 270,
+      "start": 744.72,
+      "end": 746.9,
+      "en": "Once this is done, we must try to get the heart going again.",
+      "zh": "一旦完成，我们必须尝试让心脏再次运转。"
+    },
+    {
+      "id": 271,
+      "start": 747.5,
+      "end": 752.22,
+      "en": "To do this, we place our hands over the person's chest and press down firmly two or three times.",
+      "zh": "为此，我们将双手放在人的胸部，并用力按压两到三下。"
+    },
+    {
+      "id": 272,
+      "start": 752.64,
+      "end": 753.58,
+      "en": "Wait, what are you doing?",
+      "zh": "等等，你在干什么？"
+    },
+    {
+      "id": 273,
+      "start": 753.86,
+      "end": 755.88,
+      "en": "You can't just kiss me then go for second base.",
+      "zh": "你不能刚亲完我，就想进一步摸我的胸啊。"
+    },
+    {
+      "id": 274,
+      "start": 760.68,
+      "end": 760.83,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 275,
+      "start": 761.68,
+      "end": 762.68,
+      "en": "We're back.",
+      "zh": "我们回来了。"
+    },
+    {
+      "id": 276,
+      "start": 762.68,
+      "end": 765.48,
+      "en": "So a CPR class, this is actually a very popular thing to take up.",
+      "zh": "所以一个心肺复苏术课，这实际上是一个非常流行的事情。"
+    },
+    {
+      "id": 277,
+      "start": 765.48,
+      "end": 767.47,
+      "en": "You never know when you need to perform it, right?",
+      "zh": "你永远不知道什么时候需要执行它，对吧？"
+    },
+    {
+      "id": 278,
+      "start": 767.75,
+      "end": 768.31,
+      "en": "That's true.",
+      "zh": "确实如此。"
+    },
+    {
+      "id": 279,
+      "start": 768.71,
+      "end": 771.99,
+      "en": "I think it's a really smart class to take.",
+      "zh": "我认为这是一个非常聪明的课程。"
+    },
+    {
+      "id": 280,
+      "start": 772.23,
+      "end": 776.61,
+      "en": "You can usually take them for free at a community center or a fire department.",
+      "zh": "您通常可以在社区中心或消防部门免费服用它们。"
+    },
+    {
+      "id": 281,
+      "start": 777.05,
+      "end": 777.57,
+      "en": "The Red Cross.",
+      "zh": "红十字会。"
+    },
+    {
+      "id": 282,
+      "start": 777.97,
+      "end": 778.53,
+      "en": "The Red Cross.",
+      "zh": "红十字会。"
+    },
+    {
+      "id": 283,
+      "start": 778.85,
+      "end": 779.85,
+      "en": "I have a Red Cross certification.",
+      "zh": "我有红十字认证。"
+    },
+    {
+      "id": 284,
+      "start": 780.45,
+      "end": 780.67,
+      "en": "Oh, really?",
+      "zh": "哦，真的吗？"
+    },
+    {
+      "id": 285,
+      "start": 780.83,
+      "end": 781.73,
+      "en": "So you know how to perform this?",
+      "zh": "所以你知道如何执行这个吗？"
+    },
+    {
+      "id": 286,
+      "start": 782.12,
+      "end": 783.12,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 287,
+      "start": 783.12,
+      "end": 785.71,
+      "en": "It's actually, as I said, I think it would be very useful.",
+      "zh": "实际上，正如我所说，我认为它会非常有用。"
+    },
+    {
+      "id": 288,
+      "start": 786.56,
+      "end": 790.45,
+      "en": "I've never taken a course like this up, but I know how to perform the procedure.",
+      "zh": "我从来没有参加过这样的课程，但我知道如何执行这个程序。"
+    },
+    {
+      "id": 289,
+      "start": 791.52,
+      "end": 794.03,
+      "en": "I'm not certified though, so I'm not a certified CPR person.",
+      "zh": "不过我没有认证，所以我不是经过认证的心肺复苏术人。"
+    },
+    {
+      "id": 290,
+      "start": 797.16,
+      "end": 797.87,
+      "en": "But it's interesting.",
+      "zh": "但这很有趣。"
+    },
+    {
+      "id": 291,
+      "start": 798.2,
+      "end": 804.6,
+      "en": "Let us know if in your country maybe you can take CPR classes or maybe you're a CPR certified technician.",
+      "zh": "让我们知道在您所在的国家/地区是否可以参加心肺复苏术课程，或者您是 CPR 认证的技术人员。"
+    },
+    {
+      "id": 292,
+      "start": 805.33,
+      "end": 809.29,
+      "en": "Or maybe you are trained in other ways, so we're curious about those as well.",
+      "zh": "或者，也许您接受过其他方面的培训，所以我们也对这些感到好奇。"
+    },
+    {
+      "id": 293,
+      "start": 809.84,
+      "end": 814.04,
+      "en": "Let us know if you have any questions about today's lesson, our website is EnglishPod.com.",
+      "zh": "如果您对今天的课程有任何疑问，请告诉我们，我们的网站是 englishpod.com。"
+    },
+    {
+      "id": 294,
+      "start": 814.04,
+      "end": 815.04,
+      "en": "All right, we'll see you guys there.",
+      "zh": "好，到时候在那里见。"
+    },
+    {
+      "id": 295,
+      "start": 815.65,
+      "end": 815.89,
+      "en": "Bye everyone.",
+      "zh": "大家再见。"
+    },
+    {
+      "id": 296,
+      "start": 816.04,
+      "end": 823.954,
+      "en": "Bye.",
+      "zh": "再见。"
+    }
+  ],
+  "dialog": {
+    "start": 95.16,
+    "end": 166.08,
+    "segmentIds": [
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59
+    ]
+  }
+}

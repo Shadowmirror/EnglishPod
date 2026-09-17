@@ -1,0 +1,1864 @@
+{
+  "version": 1,
+  "id": 79,
+  "number": "0079",
+  "title": "The Weekend - Funky Galaxy Battles",
+  "audio": "mp3/79. The Weekend - Funky Galaxy Battles.mp3",
+  "duration": 856.816375,
+  "segments": [
+    {
+      "id": 1,
+      "start": 2.67,
+      "end": 3.77,
+      "en": "Hello English learners.",
+      "zh": "各位英语学习者，大家好。"
+    },
+    {
+      "id": 2,
+      "start": 4.0,
+      "end": 5.0,
+      "en": "Welcome back to EnglishPod.",
+      "zh": "欢迎回到 EnglishPod。"
+    },
+    {
+      "id": 3,
+      "start": 5.31,
+      "end": 5.83,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 4,
+      "start": 6.13,
+      "end": 6.75,
+      "en": "And I'm Erica.",
+      "zh": "我叫 Erica。"
+    },
+    {
+      "id": 5,
+      "start": 7.29,
+      "end": 11.69,
+      "en": "And today we have a special lesson for all our sci-fi or science fiction fans.",
+      "zh": "今天，我们为所有科幻小说或科幻迷提供了一个特别的课程。"
+    },
+    {
+      "id": 6,
+      "start": 12.09,
+      "end": 17.57,
+      "en": "Yes, and actually one special user was the inspiration for this lesson.",
+      "zh": "是的，实际上一位特殊用户是本课的灵感来源。"
+    },
+    {
+      "id": 7,
+      "start": 17.91,
+      "end": 18.49,
+      "en": "Wolfgang.",
+      "zh": "沃尔夫冈。"
+    },
+    {
+      "id": 8,
+      "start": 19.0,
+      "end": 20.0,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 9,
+      "start": 20.0,
+      "end": 20.85,
+      "en": "This one is for you.",
+      "zh": "这一款是给你的。"
+    },
+    {
+      "id": 10,
+      "start": 21.29,
+      "end": 24.89,
+      "en": "Well, sci-fi is very popular, Star Trek, Star Wars.",
+      "zh": "好吧，科幻很受欢迎，星际迷航，星球大战。"
+    },
+    {
+      "id": 11,
+      "start": 25.0,
+      "end": 26.0,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 12,
+      "start": 26.0,
+      "end": 32.0,
+      "en": "And well, there are some really interesting words that maybe you wouldn't use in real life or in normal circumstances.",
+      "zh": "好吧，有一些非常有趣的词可能你不会在现实生活或正常情况下使用。"
+    },
+    {
+      "id": 13,
+      "start": 32.39,
+      "end": 37.0,
+      "en": "But you do want to understand these movies or why they say these words, right?",
+      "zh": "但是你确实想了解这些电影，或者他们为什么说这些话，对吧？"
+    },
+    {
+      "id": 14,
+      "start": 37.29,
+      "end": 40.69,
+      "en": "So we're going to look at some sci-fi language in this lesson.",
+      "zh": "所以我们将在本课中看一些科幻语言。"
+    },
+    {
+      "id": 15,
+      "start": 41.0,
+      "end": 45.47,
+      "en": "But before we start, let's look at Vocabulary Preview.",
+      "zh": "但在我们开始之前，让我们看看词汇预览。"
+    },
+    {
+      "id": 16,
+      "start": 46.0,
+      "end": 48.0,
+      "en": "Vocabulary Preview.",
+      "zh": "词汇预习。"
+    },
+    {
+      "id": 17,
+      "start": 48.4,
+      "end": 51.64,
+      "en": "And in Vocabulary Preview today, we have one phrase only.",
+      "zh": "在今天的词汇预览中，我们只有一个短语。"
+    },
+    {
+      "id": 18,
+      "start": 51.9,
+      "end": 52.24,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 19,
+      "start": 53.16,
+      "end": 54.9,
+      "en": "Unidentified spacecraft.",
+      "zh": "不明飞行器。"
+    },
+    {
+      "id": 20,
+      "start": 55.8,
+      "end": 57.48,
+      "en": "Unidentified spacecraft.",
+      "zh": "不明飞行器。"
+    },
+    {
+      "id": 21,
+      "start": 57.86,
+      "end": 59.06,
+      "en": "Unidentified spacecraft.",
+      "zh": "不明飞行器。"
+    },
+    {
+      "id": 22,
+      "start": 59.86,
+      "end": 60.0,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 23,
+      "start": 60.36,
+      "end": 61.0,
+      "en": "So unidentified.",
+      "zh": "如此不明。"
+    },
+    {
+      "id": 24,
+      "start": 62.08,
+      "end": 63.0,
+      "en": "You don't know which one it is.",
+      "zh": "你不知道它是哪一种。"
+    },
+    {
+      "id": 25,
+      "start": 63.82,
+      "end": 64.0,
+      "en": "You don't know the name.",
+      "zh": "你不知道名字。"
+    },
+    {
+      "id": 26,
+      "start": 64.0,
+      "end": 65.0,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 27,
+      "start": 65.38,
+      "end": 66.22,
+      "en": "You don't know the identity.",
+      "zh": "你不知道身份。"
+    },
+    {
+      "id": 28,
+      "start": 66.72,
+      "end": 66.88,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 29,
+      "start": 67.3,
+      "end": 67.56,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 30,
+      "start": 67.98,
+      "end": 68.56,
+      "en": "And a spacecraft.",
+      "zh": "和一艘宇宙飞船。"
+    },
+    {
+      "id": 31,
+      "start": 69.19,
+      "end": 72.0,
+      "en": "A spacecraft is a vehicle that travels in space.",
+      "zh": "航天器是在太空中行驶的车辆。"
+    },
+    {
+      "id": 32,
+      "start": 72.77,
+      "end": 73.0,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 33,
+      "start": 73.61,
+      "end": 74.99,
+      "en": "Also known as a spaceship.",
+      "zh": "也称为宇宙飞船。"
+    },
+    {
+      "id": 34,
+      "start": 75.47,
+      "end": 75.73,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 35,
+      "start": 76.09,
+      "end": 79.27,
+      "en": "Actually, this is interesting because you know the word UFO.",
+      "zh": "实际上，这很有趣，因为您知道 UFO 这个词。"
+    },
+    {
+      "id": 36,
+      "start": 79.77,
+      "end": 79.93,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 37,
+      "start": 80.0,
+      "end": 81.0,
+      "en": "That comes from...",
+      "zh": "那来自..."
+    },
+    {
+      "id": 38,
+      "start": 82.23,
+      "end": 84.0,
+      "en": "Unidentified flying object.",
+      "zh": "不明飞行物体。"
+    },
+    {
+      "id": 39,
+      "start": 84.43,
+      "end": 84.81,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 40,
+      "start": 85.0,
+      "end": 89.0,
+      "en": "So unidentified spacecraft, an unknown vehicle flying in space.",
+      "zh": "如此不明的航天器，一辆在太空中飞行的未知车辆。"
+    },
+    {
+      "id": 41,
+      "start": 89.41,
+      "end": 89.55,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 42,
+      "start": 90.0,
+      "end": 91.0,
+      "en": "A UFO.",
+      "zh": "一个不明飞行物。"
+    },
+    {
+      "id": 43,
+      "start": 91.0,
+      "end": 91.23,
+      "en": "Have you ever seen a UFO?",
+      "zh": "你见过不明飞行物吗？"
+    },
+    {
+      "id": 44,
+      "start": 92.0,
+      "end": 92.25,
+      "en": "No.",
+      "zh": "不。"
+    },
+    {
+      "id": 45,
+      "start": 93.0,
+      "end": 94.0,
+      "en": "Oh.",
+      "zh": "哦。"
+    },
+    {
+      "id": 46,
+      "start": 94.0,
+      "end": 95.0,
+      "en": "That's too bad.",
+      "zh": "太遗憾了。"
+    },
+    {
+      "id": 47,
+      "start": 95.0,
+      "end": 96.0,
+      "en": "Have you?",
+      "zh": "你有吗？"
+    },
+    {
+      "id": 48,
+      "start": 96.0,
+      "end": 96.45,
+      "en": "Of course.",
+      "zh": "当然。"
+    },
+    {
+      "id": 49,
+      "start": 97.0,
+      "end": 98.0,
+      "en": "Hasn't anyone?",
+      "zh": "没有人吗？"
+    },
+    {
+      "id": 50,
+      "start": 98.0,
+      "end": 99.0,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 51,
+      "start": 99.0,
+      "end": 101.89,
+      "en": "Well, I think the people in our dialogue may or may not have seen a UFO.",
+      "zh": "好吧，我认为我们对话中的人可能也可能没有看到不明飞行物。"
+    },
+    {
+      "id": 52,
+      "start": 102.17,
+      "end": 103.71,
+      "en": "So why don't we take a listen?",
+      "zh": "那么我们为什么不听一听呢？"
+    },
+    {
+      "id": 53,
+      "start": 119.08,
+      "end": 120.38,
+      "en": "They are breaking through.",
+      "zh": "他们快攻进来了！"
+    },
+    {
+      "id": 54,
+      "start": 121.0,
+      "end": 131.0,
+      "en": "Set your blasters to full power.",
+      "zh": "把爆能枪调到最大火力。"
+    },
+    {
+      "id": 55,
+      "start": 131.0,
+      "end": 132.0,
+      "en": "Good job.",
+      "zh": "干得好。"
+    },
+    {
+      "id": 56,
+      "start": 132.17,
+      "end": 132.59,
+      "en": "Search the ship.",
+      "zh": "搜查飞船。"
+    },
+    {
+      "id": 57,
+      "start": 133.4,
+      "end": 134.76,
+      "en": "She's got to be in here somewhere.",
+      "zh": "她肯定就在这飞船上的某个地方。"
+    },
+    {
+      "id": 58,
+      "start": 135.29,
+      "end": 136.01,
+      "en": "Bring her to me.",
+      "zh": "把她带到我身边。"
+    },
+    {
+      "id": 59,
+      "start": 140.06,
+      "end": 141.54,
+      "en": "Lord Hater, we have a survivor here.",
+      "zh": "海特勋爵，我们发现一名幸存者。"
+    },
+    {
+      "id": 60,
+      "start": 144.33,
+      "end": 145.31,
+      "en": "Where is she?",
+      "zh": "她在哪里？"
+    },
+    {
+      "id": 61,
+      "start": 146.0,
+      "end": 149.0,
+      "en": "Don't make me destroy you.",
+      "zh": "不要让我毁了你。"
+    },
+    {
+      "id": 62,
+      "start": 149.22,
+      "end": 150.64,
+      "en": "Tell me where she is.",
+      "zh": "告诉我她在哪里。"
+    },
+    {
+      "id": 63,
+      "start": 151.59,
+      "end": 152.59,
+      "en": "Not so fast.",
+      "zh": "没那么快。"
+    },
+    {
+      "id": 64,
+      "start": 153.31,
+      "end": 154.87,
+      "en": "She will no longer be your prisoner.",
+      "zh": "她将不再是你的囚犯。"
+    },
+    {
+      "id": 65,
+      "start": 155.91,
+      "end": 158.57,
+      "en": "It's time you and I settled this once and for all.",
+      "zh": "是时候把我们之间的恩怨彻底了结了。"
+    },
+    {
+      "id": 66,
+      "start": 159.74,
+      "end": 162.16,
+      "en": "You are unwise to think you can defeat me.",
+      "zh": "以为能打败我，你太天真了。"
+    },
+    {
+      "id": 67,
+      "start": 162.74,
+      "end": 165.88,
+      "en": "You know nothing of the power of the obscure side.",
+      "zh": "你对晦暗之力一无所知。"
+    },
+    {
+      "id": 68,
+      "start": 180.0,
+      "end": 185.0,
+      "en": "We will stop you.",
+      "zh": "我们会阻止你。"
+    },
+    {
+      "id": 69,
+      "start": 185.0,
+      "end": 189.0,
+      "en": "Lord Hater, we have an unidentified spacecraft taking off from the rear dock.",
+      "zh": "海特勋爵，有一艘身份不明的飞船正从后方船坞起飞。"
+    },
+    {
+      "id": 70,
+      "start": 189.31,
+      "end": 190.97,
+      "en": "They somehow managed to escape our tractor beam.",
+      "zh": "他们不知怎么逃出了我们的牵引光束。"
+    },
+    {
+      "id": 71,
+      "start": 192.13,
+      "end": 192.71,
+      "en": "After them.",
+      "zh": "追！"
+    },
+    {
+      "id": 72,
+      "start": 194.0,
+      "end": 196.0,
+      "en": "They're accelerating towards the speed of light.",
+      "zh": "他们正加速到接近光速。"
+    },
+    {
+      "id": 73,
+      "start": 196.84,
+      "end": 197.58,
+      "en": "We lost them, sir.",
+      "zh": "我们跟丢他们了，先生。"
+    },
+    {
+      "id": 74,
+      "start": 216.84,
+      "end": 220.0,
+      "en": "Okay, so a really cool Lord Hater, huh?",
+      "zh": "好吧，一个非常酷的讨厌勋爵的人，嗯？"
+    },
+    {
+      "id": 75,
+      "start": 220.0,
+      "end": 222.0,
+      "en": "The music and everything.",
+      "zh": "音乐和一切。"
+    },
+    {
+      "id": 76,
+      "start": 222.34,
+      "end": 226.76,
+      "en": "Well, you may have noticed that it's similar to a certain movie out there.",
+      "zh": "好吧，您可能已经注意到它类似于那里的某个电影。"
+    },
+    {
+      "id": 77,
+      "start": 227.14,
+      "end": 227.92,
+      "en": "I don't know.",
+      "zh": "我不知道。"
+    },
+    {
+      "id": 78,
+      "start": 228.32,
+      "end": 231.28,
+      "en": "I mean, it seems quite original to me.",
+      "zh": "我的意思是，这对我来说似乎很原始。"
+    },
+    {
+      "id": 79,
+      "start": 231.82,
+      "end": 234.74,
+      "en": "But everything for educational purposes.",
+      "zh": "但一切都是为了教育目的。"
+    },
+    {
+      "id": 80,
+      "start": 235.14,
+      "end": 235.46,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 81,
+      "start": 235.96,
+      "end": 239.5,
+      "en": "Okay, so we saw some words that were maybe a little bit difficult.",
+      "zh": "好吧，所以我们看到了一些可能有点困难的词。"
+    },
+    {
+      "id": 82,
+      "start": 239.98,
+      "end": 243.0,
+      "en": "So let's take a look at these now in Language Takeaway.",
+      "zh": "因此，让我们在语言外卖中看看这些。"
+    },
+    {
+      "id": 83,
+      "start": 245.56,
+      "end": 246.66,
+      "en": "Language Takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 84,
+      "start": 248.43,
+      "end": 252.75,
+      "en": "Well, I guess in the dialogue, the bad guys were breaking through.",
+      "zh": "好吧，我猜在对话中，坏人正在突破。"
+    },
+    {
+      "id": 85,
+      "start": 253.23,
+      "end": 254.0,
+      "en": "Breaking through.",
+      "zh": "突破。"
+    },
+    {
+      "id": 86,
+      "start": 254.0,
+      "end": 256.0,
+      "en": "Breaking through.",
+      "zh": "突破。"
+    },
+    {
+      "id": 87,
+      "start": 256.0,
+      "end": 256.87,
+      "en": "In the simple present, it would be?",
+      "zh": "在简单的现在，它会是什么？"
+    },
+    {
+      "id": 88,
+      "start": 257.0,
+      "end": 257.97,
+      "en": "To break through.",
+      "zh": "突破。"
+    },
+    {
+      "id": 89,
+      "start": 258.21,
+      "end": 259.21,
+      "en": "Okay, break through.",
+      "zh": "好吧，突破。"
+    },
+    {
+      "id": 90,
+      "start": 259.49,
+      "end": 260.15,
+      "en": "And what does that mean?",
+      "zh": "那是什么意思？"
+    },
+    {
+      "id": 91,
+      "start": 260.51,
+      "end": 263.19,
+      "en": "Well, let's listen to some examples to help us find out.",
+      "zh": "好吧，让我们听一些例子来帮助我们找出答案。"
+    },
+    {
+      "id": 92,
+      "start": 264.0,
+      "end": 268.0,
+      "en": "Example 1.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 93,
+      "start": 268.04,
+      "end": 272.36,
+      "en": "After 15 minutes, the workers broke through the wall and rescued everyone from the fire.",
+      "zh": "15分钟后，工人们冲破了墙壁，将所有人从火中救了出来。"
+    },
+    {
+      "id": 94,
+      "start": 274.0,
+      "end": 279.0,
+      "en": "Example 2.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 95,
+      "start": 279.0,
+      "end": 280.0,
+      "en": "He is such a good player.",
+      "zh": "他是一个很好的球员。"
+    },
+    {
+      "id": 96,
+      "start": 280.55,
+      "end": 282.03,
+      "en": "He broke through the entire defense.",
+      "zh": "他突破了整个防守。"
+    },
+    {
+      "id": 97,
+      "start": 285.0,
+      "end": 289.0,
+      "en": "Example 3.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 98,
+      "start": 289.06,
+      "end": 292.16,
+      "en": "They are breaking through our impenetrable wall.",
+      "zh": "他们正在冲破我们无法穿透的墙。"
+    },
+    {
+      "id": 99,
+      "start": 293.0,
+      "end": 296.0,
+      "en": "Run!",
+      "zh": "快跑！"
+    },
+    {
+      "id": 100,
+      "start": 296.0,
+      "end": 299.99,
+      "en": "All right, so it's kind of like to enter by force somewhere.",
+      "zh": "好吧，所以有点像在某个地方强行进入。"
+    },
+    {
+      "id": 101,
+      "start": 300.25,
+      "end": 304.0,
+      "en": "Yeah, to maybe break some glass and come into a room or something like that.",
+      "zh": "是的，也许打破一些玻璃并进入一个房间或类似的东西。"
+    },
+    {
+      "id": 102,
+      "start": 304.51,
+      "end": 305.0,
+      "en": "Break through.",
+      "zh": "突破。"
+    },
+    {
+      "id": 103,
+      "start": 305.0,
+      "end": 306.0,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 104,
+      "start": 306.0,
+      "end": 311.57,
+      "en": "All right, so Lord Hater had a fight with his enemy and he said he wants to settle this.",
+      "zh": "好吧，所以仇恨勋爵与他的敌人发生了争执，他说他想解决这个问题。"
+    },
+    {
+      "id": 105,
+      "start": 311.97,
+      "end": 313.51,
+      "en": "To settle this.",
+      "zh": "解决这个问题。"
+    },
+    {
+      "id": 106,
+      "start": 314.0,
+      "end": 315.0,
+      "en": "Settle.",
+      "zh": "定居。"
+    },
+    {
+      "id": 107,
+      "start": 315.0,
+      "end": 317.0,
+      "en": "So what do you do when you settle something?",
+      "zh": "那么当你解决问题时你会怎么做？"
+    },
+    {
+      "id": 108,
+      "start": 317.0,
+      "end": 322.0,
+      "en": "Well, when you settle something is you end a fight or a dispute.",
+      "zh": "好吧，当你解决某件事时，你结束了一场战斗或一场争执。"
+    },
+    {
+      "id": 109,
+      "start": 322.06,
+      "end": 323.0,
+      "en": "Or an argument.",
+      "zh": "或争论。"
+    },
+    {
+      "id": 110,
+      "start": 323.06,
+      "end": 324.94,
+      "en": "Or an argument or a problem.",
+      "zh": "或论点或问题。"
+    },
+    {
+      "id": 111,
+      "start": 325.0,
+      "end": 328.0,
+      "en": "Yeah, when you settle an argument, does everyone always agree?",
+      "zh": "是的，当你解决争论时，每个人都同意吗？"
+    },
+    {
+      "id": 112,
+      "start": 328.59,
+      "end": 330.0,
+      "en": "No, not always, right?",
+      "zh": "不，不是总是，对吧？"
+    },
+    {
+      "id": 113,
+      "start": 330.24,
+      "end": 330.5,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 114,
+      "start": 330.99,
+      "end": 333.27,
+      "en": "Sometimes you are forced to agree.",
+      "zh": "有时你被迫同意。"
+    },
+    {
+      "id": 115,
+      "start": 333.63,
+      "end": 334.03,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 116,
+      "start": 334.29,
+      "end": 337.01,
+      "en": "Not everyone agrees, but you have no other choice.",
+      "zh": "不是每个人都同意，但你别无选择。"
+    },
+    {
+      "id": 117,
+      "start": 337.49,
+      "end": 342.57,
+      "en": "So it's a little bit different from reaching an agreement because there's usually a winner and a loser.",
+      "zh": "所以这与达成协议有点不同，因为通常有赢家和输家。"
+    },
+    {
+      "id": 118,
+      "start": 342.85,
+      "end": 343.57,
+      "en": "Right, exactly.",
+      "zh": "对，没错。"
+    },
+    {
+      "id": 119,
+      "start": 344.39,
+      "end": 349.83,
+      "en": "Well, now another very popular word and within sci-fi is this word tractor beam.",
+      "zh": "好吧，现在另一个非常流行的词，在科幻中是这个词拖拉机束。"
+    },
+    {
+      "id": 120,
+      "start": 350.09,
+      "end": 350.91,
+      "en": "Tractor beam.",
+      "zh": "拖拉机梁。"
+    },
+    {
+      "id": 121,
+      "start": 351.49,
+      "end": 352.0,
+      "en": "A tractor beam.",
+      "zh": "拖拉机梁。"
+    },
+    {
+      "id": 122,
+      "start": 352.0,
+      "end": 352.29,
+      "en": "Tractor beam.",
+      "zh": "拖拉机梁。"
+    },
+    {
+      "id": 123,
+      "start": 353.63,
+      "end": 356.43,
+      "en": "Now, I'm not sure if this really exists in real life.",
+      "zh": "现在，我不确定这是否真的存在于现实生活中。"
+    },
+    {
+      "id": 124,
+      "start": 356.57,
+      "end": 357.75,
+      "en": "Well, I've never heard of it.",
+      "zh": "嗯，我从来没有听说过。"
+    },
+    {
+      "id": 125,
+      "start": 358.39,
+      "end": 369.23,
+      "en": "But a tractor beam in sci-fi movies is like this invisible force that grabs an object and doesn't let it escape and brings it towards another spaceship.",
+      "zh": "但是科幻电影中的拖拉机光束就像这种无形的力量，它抓住了一个物体，不让它逃逸并将其带到另一个宇宙飞船。"
+    },
+    {
+      "id": 126,
+      "start": 369.61,
+      "end": 372.09,
+      "en": "So it's like almost like a rope that you can't see.",
+      "zh": "所以它几乎就像一根你看不到的绳子。"
+    },
+    {
+      "id": 127,
+      "start": 372.31,
+      "end": 373.53,
+      "en": "Right, and it brings it in.",
+      "zh": "是的，它把它带进来。"
+    },
+    {
+      "id": 128,
+      "start": 373.91,
+      "end": 377.03,
+      "en": "So the spaceship managed to escape their tractor beam.",
+      "zh": "所以宇宙飞船设法逃离了他们的拖拉机光束。"
+    },
+    {
+      "id": 129,
+      "start": 377.26,
+      "end": 380.3,
+      "en": "Okay, I think that is definitely not true.",
+      "zh": "好吧，我认为这绝对不是真的。"
+    },
+    {
+      "id": 130,
+      "start": 380.72,
+      "end": 381.8,
+      "en": "Well, maybe, I don't know.",
+      "zh": "好吧，也许，我不知道。"
+    },
+    {
+      "id": 131,
+      "start": 382.0,
+      "end": 384.86,
+      "en": "But in sci-fi you will always hear this tractor beam.",
+      "zh": "但在科幻中，您将始终听到这束拖拉机光束。"
+    },
+    {
+      "id": 132,
+      "start": 385.46,
+      "end": 385.76,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 133,
+      "start": 386.4,
+      "end": 388.28,
+      "en": "Now, let's move on to our final word.",
+      "zh": "现在，让我们继续我们的最后一句话。"
+    },
+    {
+      "id": 134,
+      "start": 388.66,
+      "end": 392.3,
+      "en": "The spaceship was accelerating towards the speed of light.",
+      "zh": "宇宙飞船正朝着光速加速。"
+    },
+    {
+      "id": 135,
+      "start": 392.88,
+      "end": 393.48,
+      "en": "Accelerating.",
+      "zh": "加速。"
+    },
+    {
+      "id": 136,
+      "start": 394.26,
+      "end": 394.86,
+      "en": "Accelerating.",
+      "zh": "加速。"
+    },
+    {
+      "id": 137,
+      "start": 395.37,
+      "end": 395.91,
+      "en": "To accelerate.",
+      "zh": "加速。"
+    },
+    {
+      "id": 138,
+      "start": 396.47,
+      "end": 396.93,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 139,
+      "start": 397.45,
+      "end": 400.0,
+      "en": "So that means to increase speed, right?",
+      "zh": "所以这意味着提高速度，对吧？"
+    },
+    {
+      "id": 140,
+      "start": 400.11,
+      "end": 401.0,
+      "en": "Yeah, to go faster.",
+      "zh": "是的，走得更快。"
+    },
+    {
+      "id": 141,
+      "start": 401.0,
+      "end": 401.15,
+      "en": "To go faster.",
+      "zh": "走得更快。"
+    },
+    {
+      "id": 142,
+      "start": 402.23,
+      "end": 403.73,
+      "en": "So if you are in your car.",
+      "zh": "所以如果你在你的车里。"
+    },
+    {
+      "id": 143,
+      "start": 404.23,
+      "end": 407.15,
+      "en": "You want to accelerate so you can pass another car.",
+      "zh": "你想加速，这样你就可以通过另一辆车。"
+    },
+    {
+      "id": 144,
+      "start": 407.45,
+      "end": 407.75,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 145,
+      "start": 408.17,
+      "end": 410.67,
+      "en": "Or even when you stop at a red light and it turns green.",
+      "zh": "甚至当您在红灯处停下来并变成绿色时。"
+    },
+    {
+      "id": 146,
+      "start": 411.13,
+      "end": 411.87,
+      "en": "You got to accelerate.",
+      "zh": "你必须加速。"
+    },
+    {
+      "id": 147,
+      "start": 412.17,
+      "end": 413.27,
+      "en": "Okay, to accelerate.",
+      "zh": "好吧，加速。"
+    },
+    {
+      "id": 148,
+      "start": 414.03,
+      "end": 419.59,
+      "en": "Let's listen to our dialogue again and then we'll come back and take a look at some of the phrases that came up in this dialogue.",
+      "zh": "让我们再听一次我们的对话，然后我们会回来看看这个对话中出现的一些短语。"
+    },
+    {
+      "id": 149,
+      "start": 464.92,
+      "end": 468.88,
+      "en": "Lord Hater, we have an unidentified spacecraft taking off from the rear dock.",
+      "zh": "哈特勋爵，我们有一艘不明身份的航天器从后码头起飞。"
+    },
+    {
+      "id": 150,
+      "start": 469.32,
+      "end": 471.0,
+      "en": "They somehow managed to escape our tractor beam.",
+      "zh": "他们不知怎么逃出了我们的牵引光束。"
+    },
+    {
+      "id": 151,
+      "start": 471.0,
+      "end": 472.0,
+      "en": "After them.",
+      "zh": "追！"
+    },
+    {
+      "id": 152,
+      "start": 472.0,
+      "end": 475.0,
+      "en": "They're accelerating towards the speed of light.",
+      "zh": "他们正加速到接近光速。"
+    },
+    {
+      "id": 153,
+      "start": 475.24,
+      "end": 475.98,
+      "en": "We lost them, sir.",
+      "zh": "我们跟丢他们了，先生。"
+    },
+    {
+      "id": 154,
+      "start": 490.41,
+      "end": 490.89,
+      "en": "Well, great.",
+      "zh": "嗯，太好了。"
+    },
+    {
+      "id": 155,
+      "start": 491.0,
+      "end": 492.0,
+      "en": "Well, great.",
+      "zh": "嗯，太好了。"
+    },
+    {
+      "id": 156,
+      "start": 492.0,
+      "end": 494.0,
+      "en": "I think that's a little bit more clear this time.",
+      "zh": "我认为这一次更清楚一点。"
+    },
+    {
+      "id": 157,
+      "start": 494.0,
+      "end": 504.0,
+      "en": "But like Marco said, I want to look at now some phrases that you might hear in a sci-fi context.",
+      "zh": "但就像 Marco 说的，我现在想看看你可能在科幻背景下听到的一些短语。"
+    },
+    {
+      "id": 158,
+      "start": 504.0,
+      "end": 508.0,
+      "en": "The first phrase that we can take a look at and maybe it looks a little bit strange.",
+      "zh": "我们可以看的第一个短语可能看起来有点奇怪。"
+    },
+    {
+      "id": 159,
+      "start": 508.52,
+      "end": 511.82,
+      "en": "He said she will no longer be your prisoner.",
+      "zh": "他说她不再是你的囚犯。"
+    },
+    {
+      "id": 160,
+      "start": 512.46,
+      "end": 513.6,
+      "en": "No longer be.",
+      "zh": "不再是……。"
+    },
+    {
+      "id": 161,
+      "start": 514.0,
+      "end": 516.0,
+      "en": "No longer be.",
+      "zh": "不再是……。"
+    },
+    {
+      "id": 162,
+      "start": 516.0,
+      "end": 517.64,
+      "en": "So what does he mean by no longer?",
+      "zh": "那么他说的不再是什么意思呢？"
+    },
+    {
+      "id": 163,
+      "start": 518.59,
+      "end": 519.0,
+      "en": "Anymore.",
+      "zh": "再说。"
+    },
+    {
+      "id": 164,
+      "start": 519.33,
+      "end": 520.0,
+      "en": "Anymore, right?",
+      "zh": "再说吧？"
+    },
+    {
+      "id": 165,
+      "start": 520.0,
+      "end": 523.0,
+      "en": "Yeah, so you will not be my prisoner anymore.",
+      "zh": "是的，所以你不会再做我的囚犯了。"
+    },
+    {
+      "id": 166,
+      "start": 523.05,
+      "end": 525.0,
+      "en": "Okay, so how would I use it in this form?",
+      "zh": "好的，我将如何在这种形式中使用它？"
+    },
+    {
+      "id": 167,
+      "start": 525.13,
+      "end": 526.0,
+      "en": "No longer be.",
+      "zh": "不再是……。"
+    },
+    {
+      "id": 168,
+      "start": 526.37,
+      "end": 529.01,
+      "en": "You've always got to use it in the future tense.",
+      "zh": "你总是必须在未来时使用它。"
+    },
+    {
+      "id": 169,
+      "start": 529.39,
+      "end": 532.53,
+      "en": "Okay, so she'll no longer be your prisoner.",
+      "zh": "好吧，所以她将不再是你的囚犯。"
+    },
+    {
+      "id": 170,
+      "start": 533.0,
+      "end": 536.0,
+      "en": "I will no longer be your employee.",
+      "zh": "我将不再是你的员工。"
+    },
+    {
+      "id": 171,
+      "start": 536.53,
+      "end": 540.99,
+      "en": "Okay, or I can say I will no longer be your boyfriend.",
+      "zh": "好吧，或者我可以说我不会再做你的男朋友了。"
+    },
+    {
+      "id": 172,
+      "start": 541.27,
+      "end": 543.95,
+      "en": "Okay, so it's always will no longer be.",
+      "zh": "好吧，所以它永远不会了。"
+    },
+    {
+      "id": 173,
+      "start": 544.09,
+      "end": 544.81,
+      "en": "It's always in the future.",
+      "zh": "它总是在未来。"
+    },
+    {
+      "id": 174,
+      "start": 545.15,
+      "end": 545.57,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 175,
+      "start": 545.94,
+      "end": 546.54,
+      "en": "One more thing, Marco.",
+      "zh": "另一件事，马可。"
+    },
+    {
+      "id": 176,
+      "start": 546.88,
+      "end": 549.92,
+      "en": "Is this quite commonly used or maybe a little bit formal?",
+      "zh": "这是很常用的还是有点正式的？"
+    },
+    {
+      "id": 177,
+      "start": 550.5,
+      "end": 554.94,
+      "en": "I think it's a little bit formal and it's very, I don't know, to a certain point poetic.",
+      "zh": "我认为它有点正式，而且我不知道，在某种程度上是诗意的。"
+    },
+    {
+      "id": 178,
+      "start": 555.32,
+      "end": 559.32,
+      "en": "Yeah, which I think is why we hear it a little bit more often in sci-fi movies.",
+      "zh": "是的，我想这就是为什么我们在科幻电影中更频繁地听到它的原因。"
+    },
+    {
+      "id": 179,
+      "start": 560.0,
+      "end": 561.84,
+      "en": "All right, so no longer be.",
+      "zh": "好吧，所以不再是。"
+    },
+    {
+      "id": 180,
+      "start": 562.26,
+      "end": 563.36,
+      "en": "What about our next phrase?",
+      "zh": "下一个短语是什么呢？"
+    },
+    {
+      "id": 181,
+      "start": 563.82,
+      "end": 566.9,
+      "en": "You know nothing of the power of the obscure side.",
+      "zh": "你对晦涩的一面的力量一无所知。"
+    },
+    {
+      "id": 182,
+      "start": 567.04,
+      "end": 569.0,
+      "en": "Okay, you know nothing of.",
+      "zh": "好吧，你什么都不知道。"
+    },
+    {
+      "id": 183,
+      "start": 569.0,
+      "end": 571.0,
+      "en": "You know nothing of.",
+      "zh": "你一无所知。"
+    },
+    {
+      "id": 184,
+      "start": 571.0,
+      "end": 572.98,
+      "en": "So again, it's very poetic.",
+      "zh": "再说一次，它非常有诗意。"
+    },
+    {
+      "id": 185,
+      "start": 573.38,
+      "end": 576.18,
+      "en": "Yeah, basically meaning you don't know about.",
+      "zh": "是的，基本上意味着你不知道。"
+    },
+    {
+      "id": 186,
+      "start": 576.4,
+      "end": 577.0,
+      "en": "You don't know about.",
+      "zh": "你不知道。"
+    },
+    {
+      "id": 187,
+      "start": 577.0,
+      "end": 578.0,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 188,
+      "start": 578.0,
+      "end": 580.0,
+      "en": "So again, let's take a look at how you would use it.",
+      "zh": "再说一遍，让我们看看你将如何使用它。"
+    },
+    {
+      "id": 189,
+      "start": 580.04,
+      "end": 582.68,
+      "en": "You know nothing of and then.",
+      "zh": "你一无所知，然后。"
+    },
+    {
+      "id": 190,
+      "start": 582.68,
+      "end": 583.12,
+      "en": "Science fiction.",
+      "zh": "科幻小说。"
+    },
+    {
+      "id": 191,
+      "start": 583.88,
+      "end": 585.76,
+      "en": "You know nothing of science fiction.",
+      "zh": "你对科幻小说一无所知。"
+    },
+    {
+      "id": 192,
+      "start": 586.02,
+      "end": 586.22,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 193,
+      "start": 587.0,
+      "end": 588.0,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 194,
+      "start": 588.0,
+      "end": 588.77,
+      "en": "So you would use a noun afterwards.",
+      "zh": "所以你会在之后使用名词。"
+    },
+    {
+      "id": 195,
+      "start": 589.0,
+      "end": 590.0,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 196,
+      "start": 590.49,
+      "end": 593.37,
+      "en": "Okay, so interesting phrases.",
+      "zh": "好吧，这么有趣的短语。"
+    },
+    {
+      "id": 197,
+      "start": 593.99,
+      "end": 598.71,
+      "en": "Again, formal and probably quite often used in science fiction movies.",
+      "zh": "同样，正式且可能经常用于科幻电影。"
+    },
+    {
+      "id": 198,
+      "start": 598.99,
+      "end": 606.71,
+      "en": "But now you can understand when they use some of these words that maybe are a little bit difficult and very common in these types of movies.",
+      "zh": "但现在你可以理解他们何时使用其中一些在这些类型的电影中可能有点困难且非常常见的词。"
+    },
+    {
+      "id": 199,
+      "start": 607.15,
+      "end": 608.49,
+      "en": "Now let's go to our last phrase.",
+      "zh": "现在让我们进入我们的最后一句话。"
+    },
+    {
+      "id": 200,
+      "start": 608.71,
+      "end": 611.45,
+      "en": "And this one actually can be used in many different circumstances.",
+      "zh": "而这一款实际上可以在许多不同的情况下使用。"
+    },
+    {
+      "id": 201,
+      "start": 612.39,
+      "end": 615.15,
+      "en": "Let's settle this once and for all.",
+      "zh": "让我们一劳永逸地解决这个问题。"
+    },
+    {
+      "id": 202,
+      "start": 615.57,
+      "end": 619.49,
+      "en": "Okay, so we saw the word settle already.",
+      "zh": "好的，所以我们已经看到这个词已经解决了。"
+    },
+    {
+      "id": 203,
+      "start": 619.97,
+      "end": 622.85,
+      "en": "Now let's settle this once and for all.",
+      "zh": "现在让我们一劳永逸地解决这个问题。"
+    },
+    {
+      "id": 204,
+      "start": 623.27,
+      "end": 624.59,
+      "en": "Once and for all.",
+      "zh": "一劳永逸。"
+    },
+    {
+      "id": 205,
+      "start": 624.81,
+      "end": 625.37,
+      "en": "So what does that mean?",
+      "zh": "那么这是什么意思呢？"
+    },
+    {
+      "id": 206,
+      "start": 626.01,
+      "end": 626.41,
+      "en": "Finally.",
+      "zh": "终于。"
+    },
+    {
+      "id": 207,
+      "start": 627.05,
+      "end": 627.55,
+      "en": "That's right, forever.",
+      "zh": "没错，永远。"
+    },
+    {
+      "id": 208,
+      "start": 628.35,
+      "end": 630.99,
+      "en": "Okay, so once and for all, forever.",
+      "zh": "好吧，一劳永逸，永远。"
+    },
+    {
+      "id": 209,
+      "start": 632.25,
+      "end": 638.71,
+      "en": "So why don't we listen to some other examples of how we can use this phrase once and for all in different contexts.",
+      "zh": "那么我们为什么不听一些其他例子来说明我们如何在不同的上下文中一劳永逸地使用这个短语。"
+    },
+    {
+      "id": 210,
+      "start": 640.07,
+      "end": 640.97,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 211,
+      "start": 642.99,
+      "end": 644.29,
+      "en": "I'm fed up with arguing about this.",
+      "zh": "我厌倦了为此争论。"
+    },
+    {
+      "id": 212,
+      "start": 644.63,
+      "end": 646.43,
+      "en": "Let's just settle the argument once and for all.",
+      "zh": "让我们一劳永逸地解决这个论点。"
+    },
+    {
+      "id": 213,
+      "start": 648.44,
+      "end": 649.16,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 214,
+      "start": 650.89,
+      "end": 654.85,
+      "en": "He claims his photographs prove once and for all that UFOs do exist.",
+      "zh": "他声称他的照片一劳永逸地证明了不明飞行物的存在。"
+    },
+    {
+      "id": 215,
+      "start": 658.0,
+      "end": 662.0,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 216,
+      "start": 662.0,
+      "end": 665.64,
+      "en": "I told him once and for all that I don't want to be his girlfriend anymore.",
+      "zh": "我一劳永逸地告诉他，我不想再做他的女朋友了。"
+    },
+    {
+      "id": 217,
+      "start": 668.0,
+      "end": 671.0,
+      "en": "Okay, so now I think it's clear.",
+      "zh": "好吧，现在我认为这很清楚。"
+    },
+    {
+      "id": 218,
+      "start": 671.0,
+      "end": 672.23,
+      "en": "We've seen a lot of words.",
+      "zh": "我们看到了很多字。"
+    },
+    {
+      "id": 219,
+      "start": 673.0,
+      "end": 673.67,
+      "en": "We've seen a lot of phrases.",
+      "zh": "我们看到了很多短语。"
+    },
+    {
+      "id": 220,
+      "start": 675.0,
+      "end": 676.57,
+      "en": "Let's listen to our dialogue one more time.",
+      "zh": "让我们再听一次我们的对话。"
+    },
+    {
+      "id": 221,
+      "start": 693.0,
+      "end": 693.82,
+      "en": "They are breaking through.",
+      "zh": "他们快攻进来了！"
+    },
+    {
+      "id": 222,
+      "start": 694.0,
+      "end": 704.0,
+      "en": "Set your blasters to full power.",
+      "zh": "把爆能枪调到最大火力。"
+    },
+    {
+      "id": 223,
+      "start": 704.0,
+      "end": 704.74,
+      "en": "Excellent job.",
+      "zh": "优秀的工作。"
+    },
+    {
+      "id": 224,
+      "start": 706.0,
+      "end": 706.16,
+      "en": "Search the ship.",
+      "zh": "搜查飞船。"
+    },
+    {
+      "id": 225,
+      "start": 707.0,
+      "end": 708.24,
+      "en": "She's got to be in here somewhere.",
+      "zh": "她肯定就在这飞船上的某个地方。"
+    },
+    {
+      "id": 226,
+      "start": 709.0,
+      "end": 709.66,
+      "en": "Bring her to me.",
+      "zh": "把她带到我身边。"
+    },
+    {
+      "id": 227,
+      "start": 714.0,
+      "end": 715.02,
+      "en": "Lord Hager, we have a survivor here.",
+      "zh": "海格勋爵，我们这里有一个幸存者。"
+    },
+    {
+      "id": 228,
+      "start": 718.0,
+      "end": 718.77,
+      "en": "Where is she?",
+      "zh": "她在哪里？"
+    },
+    {
+      "id": 229,
+      "start": 720.04,
+      "end": 722.18,
+      "en": "Don't make me destroy you.",
+      "zh": "不要让我毁了你。"
+    },
+    {
+      "id": 230,
+      "start": 722.72,
+      "end": 724.08,
+      "en": "Tell me where she is.",
+      "zh": "告诉我她在哪里。"
+    },
+    {
+      "id": 231,
+      "start": 725.4,
+      "end": 726.03,
+      "en": "Not so fast.",
+      "zh": "没那么快。"
+    },
+    {
+      "id": 232,
+      "start": 726.73,
+      "end": 728.31,
+      "en": "She will no longer be your prisoner.",
+      "zh": "她将不再是你的囚犯。"
+    },
+    {
+      "id": 233,
+      "start": 730.0,
+      "end": 734.0,
+      "en": "I'm sure you and I settled this once and for all.",
+      "zh": "我相信你和我一劳永逸地解决了这个问题。"
+    },
+    {
+      "id": 234,
+      "start": 734.0,
+      "end": 735.63,
+      "en": "You are unwise to think you can defeat me.",
+      "zh": "以为能打败我，你太天真了。"
+    },
+    {
+      "id": 235,
+      "start": 737.0,
+      "end": 739.35,
+      "en": "You know nothing of the power of the obscure side.",
+      "zh": "你对晦涩的一面的力量一无所知。"
+    },
+    {
+      "id": 236,
+      "start": 754.0,
+      "end": 759.0,
+      "en": "We will stop you.",
+      "zh": "我们会阻止你。"
+    },
+    {
+      "id": 237,
+      "start": 759.0,
+      "end": 763.0,
+      "en": "Lord Hager, we have an unidentified spacecraft taking off from the rear dock.",
+      "zh": "海格勋爵，我们有一艘不明身份的宇宙飞船从后码头起飞。"
+    },
+    {
+      "id": 238,
+      "start": 763.0,
+      "end": 766.0,
+      "en": "They somehow managed to escape our tractor beam.",
+      "zh": "他们不知怎么逃出了我们的牵引光束。"
+    },
+    {
+      "id": 239,
+      "start": 766.0,
+      "end": 766.18,
+      "en": "After them.",
+      "zh": "追！"
+    },
+    {
+      "id": 240,
+      "start": 768.0,
+      "end": 769.91,
+      "en": "They're accelerating towards the speed of light.",
+      "zh": "他们正加速到接近光速。"
+    },
+    {
+      "id": 241,
+      "start": 770.31,
+      "end": 771.03,
+      "en": "We lost them, sir.",
+      "zh": "我们跟丢他们了，先生。"
+    },
+    {
+      "id": 242,
+      "start": 787.0,
+      "end": 789.0,
+      "en": "Okay, so are you a big sci-fi fan?",
+      "zh": "好吧，你是科幻迷吗？"
+    },
+    {
+      "id": 243,
+      "start": 789.37,
+      "end": 791.33,
+      "en": "I think as you can tell, no.",
+      "zh": "我想你可以说，不。"
+    },
+    {
+      "id": 244,
+      "start": 792.29,
+      "end": 797.13,
+      "en": "Actually, I've seen some of the Star Wars movies, but everyone that I've watched, I've fallen asleep in the middle of.",
+      "zh": "实际上，我看过一些星球大战电影，但我看过的每个人，我都在中间睡着了。"
+    },
+    {
+      "id": 245,
+      "start": 797.41,
+      "end": 797.69,
+      "en": "Really?",
+      "zh": "真的吗？"
+    },
+    {
+      "id": 246,
+      "start": 798.03,
+      "end": 799.0,
+      "en": "Yeah, even in the movie theater.",
+      "zh": "是的，即使在电影院。"
+    },
+    {
+      "id": 247,
+      "start": 799.0,
+      "end": 803.0,
+      "en": "I fell asleep in the movie theater watching Star Wars.",
+      "zh": "我在电影院看《星球大战》睡着了。"
+    },
+    {
+      "id": 248,
+      "start": 803.01,
+      "end": 803.93,
+      "en": "Wow, was it too boring?",
+      "zh": "哇，是不是太无聊了？"
+    },
+    {
+      "id": 249,
+      "start": 804.33,
+      "end": 804.83,
+      "en": "It was too boring.",
+      "zh": "这太无聊了。"
+    },
+    {
+      "id": 250,
+      "start": 805.27,
+      "end": 807.0,
+      "en": "You're not really into the fantasy side?",
+      "zh": "你不是真的进入幻想的一面吗？"
+    },
+    {
+      "id": 251,
+      "start": 807.51,
+      "end": 811.33,
+      "en": "No, the whole time I'm sitting there going, this cannot happen.",
+      "zh": "不，在我坐在那里的整个过程中，这不会发生。"
+    },
+    {
+      "id": 252,
+      "start": 812.37,
+      "end": 814.67,
+      "en": "Well, that's why it's called science fiction, right?",
+      "zh": "好吧，这就是为什么它被称为科幻小说，对吧？"
+    },
+    {
+      "id": 253,
+      "start": 815.02,
+      "end": 815.3,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 254,
+      "start": 816.04,
+      "end": 821.4,
+      "en": "But it is interesting to some people, and well, behind Star Wars, there is a huge culture.",
+      "zh": "但对一些人来说，这很有趣，而且，在《星球大战》的背后，有一种巨大的文化。"
+    },
+    {
+      "id": 255,
+      "start": 821.88,
+      "end": 829.68,
+      "en": "Even some people know some of the languages or symbols that are used in it, or the names of some of the robots and models of spacecraft.",
+      "zh": "甚至有些人知道其中使用的一些语言或符号，或者一些机器人和航天器模型的名称。"
+    },
+    {
+      "id": 256,
+      "start": 830.2,
+      "end": 832.92,
+      "en": "Well, maybe we'll have to come up with Star Wars pods.",
+      "zh": "好吧，也许我们必须想出星球大战吊舱。"
+    },
+    {
+      "id": 257,
+      "start": 833.0,
+      "end": 835.0,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 258,
+      "start": 835.06,
+      "end": 836.0,
+      "en": "Well, that's all for today, guys.",
+      "zh": "好吧，这就是今天的全部，伙计们。"
+    },
+    {
+      "id": 259,
+      "start": 836.74,
+      "end": 838.0,
+      "en": "I hope you enjoyed our lesson.",
+      "zh": "我希望你喜欢我们的课程。"
+    },
+    {
+      "id": 260,
+      "start": 838.0,
+      "end": 844.0,
+      "en": "And of course, if you have questions or comments, you can leave them in the comments section on our website, EnglishPod.com.",
+      "zh": "当然，如果您有任何问题或意见，您可以将它们留在我们网站 englishpod.com 的评论部分。"
+    },
+    {
+      "id": 261,
+      "start": 844.43,
+      "end": 847.39,
+      "en": "Well, thanks for listening, you guys, and until next time, goodbye.",
+      "zh": "好吧，谢谢你的收听，你们，直到下一次，再见。"
+    }
+  ],
+  "dialog": {
+    "start": 119.08,
+    "end": 197.58,
+    "segmentIds": [
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73
+    ]
+  }
+}

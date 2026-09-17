@@ -1,0 +1,1860 @@
+{
+  "version": 1,
+  "id": 325,
+  "number": "0325",
+  "title": "The Office - Small Talk 7 - Talking About A Trip",
+  "audio": "mp3/325. The Office - Small Talk 7 - Talking About A Trip.mp3",
+  "duration": 659.278375,
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.07,
+      "end": 3.23,
+      "en": "Hello everyone and welcome to EnglishPod.",
+      "zh": "大家好，欢迎来到 EnglishPod。"
+    },
+    {
+      "id": 2,
+      "start": 3.44,
+      "end": 3.87,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 4.52,
+      "end": 5.52,
+      "en": "And my name is Katherine.",
+      "zh": "我的名字是凯瑟琳。"
+    },
+    {
+      "id": 4,
+      "start": 5.52,
+      "end": 8.47,
+      "en": "And today at EnglishPod, we have a lesson for you about small talk.",
+      "zh": "今天在 Englishpod，我们为您提供了关于闲聊的课程。"
+    },
+    {
+      "id": 5,
+      "start": 9.0,
+      "end": 9.15,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 6,
+      "start": 10.0,
+      "end": 18.6,
+      "en": "We continue with our series about short casual conversations you may have with your friends, somebody you haven't seen in a long time, or maybe even a co-worker.",
+      "zh": "我们继续我们的系列，讲述您可能与朋友、很久没有见到的人，甚至可能是同事的短暂休闲对话。"
+    },
+    {
+      "id": 7,
+      "start": 18.6,
+      "end": 19.6,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 8,
+      "start": 19.6,
+      "end": 23.91,
+      "en": "So in today's dialogue, we're going to listen to two people who work in the same building.",
+      "zh": "所以在今天的对话中，我们要听两个在同一栋楼里工作的人。"
+    },
+    {
+      "id": 9,
+      "start": 24.43,
+      "end": 26.49,
+      "en": "They're going to talk a little bit about travel, right Marco?",
+      "zh": "他们会谈谈旅行，对吧，马可？"
+    },
+    {
+      "id": 10,
+      "start": 26.76,
+      "end": 27.76,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 11,
+      "start": 27.76,
+      "end": 31.96,
+      "en": "And a little bit about recommending a place to go on vacation, maybe Europe.",
+      "zh": "还有一点关于推荐一个去度假的地方，也许是欧洲。"
+    },
+    {
+      "id": 12,
+      "start": 31.96,
+      "end": 37.88,
+      "en": "And so we're going to have some great phrases as to speaking of this topic very briefly with a friend.",
+      "zh": "因此，我们将与朋友非常简短地谈论这个话题。"
+    },
+    {
+      "id": 13,
+      "start": 37.88,
+      "end": 38.88,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 14,
+      "start": 38.88,
+      "end": 39.64,
+      "en": "Let's listen to today's dialogue.",
+      "zh": "让我们听听今天的对话。"
+    },
+    {
+      "id": 15,
+      "start": 40.88,
+      "end": 43.88,
+      "en": "Hey, Michelle.",
+      "zh": "嗨，Michelle。"
+    },
+    {
+      "id": 16,
+      "start": 49.97,
+      "end": 50.59,
+      "en": "Good to see you.",
+      "zh": "很高兴见到你。"
+    },
+    {
+      "id": 17,
+      "start": 50.81,
+      "end": 51.39,
+      "en": "Are you at lunch?",
+      "zh": "你刚去吃午饭了吗？"
+    },
+    {
+      "id": 18,
+      "start": 51.79,
+      "end": 52.59,
+      "en": "Oh, hi, Jim.",
+      "zh": "哦，嗨，吉姆。"
+    },
+    {
+      "id": 19,
+      "start": 53.19,
+      "end": 54.15,
+      "en": "No, I just got back.",
+      "zh": "不是，我刚吃完回来。"
+    },
+    {
+      "id": 20,
+      "start": 54.63,
+      "end": 56.15,
+      "en": "I thought you were on vacation now.",
+      "zh": "我以为你现在正在度假。"
+    },
+    {
+      "id": 21,
+      "start": 56.41,
+      "end": 57.91,
+      "en": "No, I wish I was.",
+      "zh": "没有，我倒希望自己在休假呢。"
+    },
+    {
+      "id": 22,
+      "start": 58.23,
+      "end": 59.99,
+      "en": "I just got back from Spain, actually.",
+      "zh": "其实我刚从西班牙回来。"
+    },
+    {
+      "id": 23,
+      "start": 60.29,
+      "end": 61.11,
+      "en": "Oh, wonderful.",
+      "zh": "哦，太好了。"
+    },
+    {
+      "id": 24,
+      "start": 61.97,
+      "end": 64.57,
+      "en": "Have you been there before or was it your first time?",
+      "zh": "你以前去过，还是头一回？"
+    },
+    {
+      "id": 25,
+      "start": 64.81,
+      "end": 65.49,
+      "en": "My first time.",
+      "zh": "这是第一次。"
+    },
+    {
+      "id": 26,
+      "start": 65.83,
+      "end": 68.49,
+      "en": "I've traveled around Europe a lot, but this was my first time to Spain.",
+      "zh": "欧洲我去了不少地方，可西班牙还是第一次。"
+    },
+    {
+      "id": 27,
+      "start": 68.85,
+      "end": 70.99,
+      "en": "It was amazing and the weather was just beautiful.",
+      "zh": "那儿太棒了，天气也好极了。"
+    },
+    {
+      "id": 28,
+      "start": 71.43,
+      "end": 73.31,
+      "en": "No rain and just sun, sun, sun.",
+      "zh": "一滴雨都没有，天天阳光灿烂。"
+    },
+    {
+      "id": 29,
+      "start": 73.97,
+      "end": 75.69,
+      "en": "I'm so jealous of you.",
+      "zh": "真羡慕你。"
+    },
+    {
+      "id": 30,
+      "start": 76.05,
+      "end": 77.91,
+      "en": "I've never been anywhere in Europe.",
+      "zh": "我连欧洲都还没去过。"
+    },
+    {
+      "id": 31,
+      "start": 78.45,
+      "end": 81.49,
+      "en": "I've always dreamed of traveling around and seeing the sights.",
+      "zh": "我一直梦想着去欧洲四处走走、看看名胜。"
+    },
+    {
+      "id": 32,
+      "start": 81.95,
+      "end": 83.19,
+      "en": "Well, I really recommend Spain.",
+      "zh": "我真心推荐西班牙。"
+    },
+    {
+      "id": 33,
+      "start": 83.69,
+      "end": 84.67,
+      "en": "You really should go.",
+      "zh": "你一定要去一趟。"
+    },
+    {
+      "id": 34,
+      "start": 85.59,
+      "end": 88.49,
+      "en": "Anyway, it's been great to catch up, but I must be going.",
+      "zh": "总之，很高兴能跟你聊聊近况，不过我得走了。"
+    },
+    {
+      "id": 35,
+      "start": 88.85,
+      "end": 89.49,
+      "en": "This is my floor.",
+      "zh": "我到这层了。"
+    },
+    {
+      "id": 36,
+      "start": 89.87,
+      "end": 90.95,
+      "en": "Speak again soon, I hope.",
+      "zh": "希望很快能再聊。"
+    },
+    {
+      "id": 37,
+      "start": 91.47,
+      "end": 91.71,
+      "en": "For sure.",
+      "zh": "当然。"
+    },
+    {
+      "id": 38,
+      "start": 92.13,
+      "end": 92.43,
+      "en": "Take care.",
+      "zh": "保重。"
+    },
+    {
+      "id": 39,
+      "start": 93.48,
+      "end": 94.48,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 40,
+      "start": 94.48,
+      "end": 95.48,
+      "en": "We're back.",
+      "zh": "我们回来了。"
+    },
+    {
+      "id": 41,
+      "start": 95.48,
+      "end": 102.36,
+      "en": "So, now, let's take a look at some of the language on Language Takeaway.",
+      "zh": "所以，现在，让我们来看看一些关于语言外卖的语言。"
+    },
+    {
+      "id": 42,
+      "start": 102.36,
+      "end": 102.7,
+      "en": "Language Takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 43,
+      "start": 103.36,
+      "end": 104.36,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 44,
+      "start": 104.79,
+      "end": 107.43,
+      "en": "In Language Takeaway, we've got a couple of words and phrases for you.",
+      "zh": "在语言外卖中，我们为您准备了几个单词和短语。"
+    },
+    {
+      "id": 45,
+      "start": 107.52,
+      "end": 110.56,
+      "en": "The first one is, I just got back.",
+      "zh": "第一个是，我刚回来。"
+    },
+    {
+      "id": 46,
+      "start": 110.89,
+      "end": 112.67,
+      "en": "So, to get back from somewhere, Marco.",
+      "zh": "所以，从某个地方回来，马可。"
+    },
+    {
+      "id": 47,
+      "start": 113.32,
+      "end": 114.48,
+      "en": "That's right, Jim.",
+      "zh": "没错，吉姆。"
+    },
+    {
+      "id": 48,
+      "start": 114.48,
+      "end": 115.81,
+      "en": "Just got back from Europe.",
+      "zh": "刚从欧洲回来。"
+    },
+    {
+      "id": 49,
+      "start": 116.64,
+      "end": 123.97,
+      "en": "And when you say, I just got back, is I recently or very recently returned from somewhere.",
+      "zh": "当你说，我刚回来，是我最近还是最近从某个地方回来了。"
+    },
+    {
+      "id": 50,
+      "start": 124.72,
+      "end": 125.72,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 51,
+      "start": 125.72,
+      "end": 127.75,
+      "en": "To get back from somewhere means to return from that place.",
+      "zh": "从某个地方回来意味着从那个地方回来。"
+    },
+    {
+      "id": 52,
+      "start": 128.32,
+      "end": 132.03,
+      "en": "So, in this dialogue, Jim just got back from Spain.",
+      "zh": "所以，在这次对话中，吉姆刚从西班牙回来。"
+    },
+    {
+      "id": 53,
+      "start": 132.68,
+      "end": 134.39,
+      "en": "Michelle just got back from lunch.",
+      "zh": "米歇尔刚从午餐回来。"
+    },
+    {
+      "id": 54,
+      "start": 134.95,
+      "end": 136.69,
+      "en": "This means to return from somewhere.",
+      "zh": "这意味着从某个地方返回。"
+    },
+    {
+      "id": 55,
+      "start": 136.91,
+      "end": 137.17,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 56,
+      "start": 137.31,
+      "end": 142.15,
+      "en": "So, it can be a place, not only a country, but it can be, for example, the office.",
+      "zh": "所以，它可以是一个地方，不仅是一个国家，而且可以是办公室。"
+    },
+    {
+      "id": 57,
+      "start": 142.41,
+      "end": 143.77,
+      "en": "I just got back from work.",
+      "zh": "我刚下班回来。"
+    },
+    {
+      "id": 58,
+      "start": 144.31,
+      "end": 146.99,
+      "en": "Or I just got back from football practice.",
+      "zh": "或者我刚从足球训练中回来。"
+    },
+    {
+      "id": 59,
+      "start": 147.23,
+      "end": 148.35,
+      "en": "That's why I'm very sweaty.",
+      "zh": "这就是为什么我很出汗。"
+    },
+    {
+      "id": 60,
+      "start": 148.76,
+      "end": 149.76,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 61,
+      "start": 149.76,
+      "end": 155.0,
+      "en": "So, this obviously means that you are now not in the same place where you just got back from.",
+      "zh": "所以，这显然意味着你现在不在你刚回来的地方。"
+    },
+    {
+      "id": 62,
+      "start": 155.0,
+      "end": 155.76,
+      "en": "No, I'm from America.",
+      "zh": "不，我来自美国。"
+    },
+    {
+      "id": 63,
+      "start": 156.0,
+      "end": 160.56,
+      "en": "I went to Spain on vacation and I just got back from Spain.",
+      "zh": "我去西班牙度假，我刚从西班牙回来。"
+    },
+    {
+      "id": 64,
+      "start": 160.56,
+      "end": 161.9,
+      "en": "That means I'm in America again.",
+      "zh": "这意味着我又在美国了。"
+    },
+    {
+      "id": 65,
+      "start": 162.14,
+      "end": 162.7,
+      "en": "Yeah, exactly.",
+      "zh": "对，没错。"
+    },
+    {
+      "id": 66,
+      "start": 163.28,
+      "end": 164.6,
+      "en": "You're not still in Spain.",
+      "zh": "你还不在西班牙。"
+    },
+    {
+      "id": 67,
+      "start": 164.6,
+      "end": 165.6,
+      "en": "No.",
+      "zh": "不。"
+    },
+    {
+      "id": 68,
+      "start": 165.6,
+      "end": 166.6,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 69,
+      "start": 166.6,
+      "end": 167.8,
+      "en": "So, that's for our first word.",
+      "zh": "所以，这是我们的第一个词。"
+    },
+    {
+      "id": 70,
+      "start": 167.97,
+      "end": 168.73,
+      "en": "Now, let's go on.",
+      "zh": "现在，让我们继续。"
+    },
+    {
+      "id": 71,
+      "start": 168.73,
+      "end": 172.67,
+      "en": "And Michelle said, oh, I'm so jealous of you.",
+      "zh": "米歇尔说，哦，我好嫉妒你。"
+    },
+    {
+      "id": 72,
+      "start": 172.85,
+      "end": 173.09,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 73,
+      "start": 173.72,
+      "end": 175.87,
+      "en": "Jealous is an adjective and a very, very common one.",
+      "zh": "Jealous 是一种形容词，也是一种非常非常常见的形容词。"
+    },
+    {
+      "id": 74,
+      "start": 176.0,
+      "end": 177.71,
+      "en": "You can use it in many different circumstances.",
+      "zh": "您可以在许多不同的情况下使用它。"
+    },
+    {
+      "id": 75,
+      "start": 178.0,
+      "end": 180.51,
+      "en": "It means to want what someone else has.",
+      "zh": "这意味着想要别人拥有的东西。"
+    },
+    {
+      "id": 76,
+      "start": 181.2,
+      "end": 181.39,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 77,
+      "start": 182.2,
+      "end": 185.47,
+      "en": "So, in this case, Michelle is jealous that Jim went on vacation.",
+      "zh": "所以，在这种情况下，米歇尔嫉妒吉姆去度假了。"
+    },
+    {
+      "id": 78,
+      "start": 185.64,
+      "end": 187.61,
+      "en": "So, she wishes she could go on vacation.",
+      "zh": "所以，她希望她能去度假。"
+    },
+    {
+      "id": 79,
+      "start": 188.16,
+      "end": 188.41,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 80,
+      "start": 189.16,
+      "end": 189.85,
+      "en": "I'm so jealous of you.",
+      "zh": "真羡慕你。"
+    },
+    {
+      "id": 81,
+      "start": 190.16,
+      "end": 196.21,
+      "en": "Or if you see someone who has a new pair of shoes and you like the shoes because you don't have them, you can say, I'm so jealous.",
+      "zh": "或者，如果你看到有人有一双新鞋，你喜欢这双鞋，因为你没有它们，你可以说，我很嫉妒。"
+    },
+    {
+      "id": 82,
+      "start": 196.71,
+      "end": 197.45,
+      "en": "I love your shoes.",
+      "zh": "我爱你的鞋子。"
+    },
+    {
+      "id": 83,
+      "start": 197.83,
+      "end": 198.17,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 84,
+      "start": 198.96,
+      "end": 200.92,
+      "en": "And if you're jealous, you say, I am jealous.",
+      "zh": "如果你嫉妒，你说，我嫉妒。"
+    },
+    {
+      "id": 85,
+      "start": 200.92,
+      "end": 204.61,
+      "en": "Or if you're jealous of a person, you say, I am jealous of you.",
+      "zh": "或者如果你嫉妒一个人，你说，我嫉妒你。"
+    },
+    {
+      "id": 86,
+      "start": 205.8,
+      "end": 208.92,
+      "en": "And so, they were ending their conversation and Jim said, you know what?",
+      "zh": "所以，他们结束了谈话，吉姆说，你知道吗？"
+    },
+    {
+      "id": 87,
+      "start": 208.92,
+      "end": 211.61,
+      "en": "It's been great to catch up with you.",
+      "zh": "很高兴能赶上你。"
+    },
+    {
+      "id": 88,
+      "start": 211.81,
+      "end": 212.23,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 89,
+      "start": 212.76,
+      "end": 214.53,
+      "en": "This is a really important phrase, to catch up.",
+      "zh": "这是一个非常重要的短语，要赶上。"
+    },
+    {
+      "id": 90,
+      "start": 215.32,
+      "end": 216.39,
+      "en": "It means two different things.",
+      "zh": "这意味着两个不同的东西。"
+    },
+    {
+      "id": 91,
+      "start": 216.48,
+      "end": 218.29,
+      "en": "And we're going to talk about one meaning here today.",
+      "zh": "我们今天将在这里讨论一种含义。"
+    },
+    {
+      "id": 92,
+      "start": 219.08,
+      "end": 227.45,
+      "en": "To catch up with someone, like to talk to them about what they've been doing recently, means to learn about their life because maybe you haven't talked in a long time.",
+      "zh": "赶上某人，喜欢和他们谈论他们最近所做的事情，意味着了解他们的生活，因为也许您已经很长时间没有谈论过了。"
+    },
+    {
+      "id": 93,
+      "start": 227.77,
+      "end": 228.31,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 94,
+      "start": 229.12,
+      "end": 238.35,
+      "en": "So, maybe you haven't seen your friend in two years and you go out for dinner to catch up, to talk about what has happened in your life recently.",
+      "zh": "所以，也许你已经两年没有见到你的朋友了，你出去吃晚饭，聊聊你最近生活中发生的事情。"
+    },
+    {
+      "id": 95,
+      "start": 238.96,
+      "end": 239.96,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 96,
+      "start": 239.96,
+      "end": 246.64,
+      "en": "Or if you see a friend on the street and you know that you haven't seen him or her in a long time, you can make a date to catch up.",
+      "zh": "或者，如果你在街上看到一个朋友，你知道你很久没有见过他或她，你可以约会来赶上。"
+    },
+    {
+      "id": 97,
+      "start": 246.67,
+      "end": 248.79,
+      "en": "So, hey Marco, I haven't seen you in months.",
+      "zh": "所以，嘿，马可，我好几个月没见到你了。"
+    },
+    {
+      "id": 98,
+      "start": 249.39,
+      "end": 250.93,
+      "en": "Let's catch up sometime soon.",
+      "zh": "让我们尽快赶上。"
+    },
+    {
+      "id": 99,
+      "start": 251.13,
+      "end": 251.49,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 100,
+      "start": 252.34,
+      "end": 256.52,
+      "en": "And that means to share information and to find out how you have been recently.",
+      "zh": "这意味着分享信息并了解您最近的情况。"
+    },
+    {
+      "id": 101,
+      "start": 256.52,
+      "end": 256.86,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 102,
+      "start": 257.58,
+      "end": 258.06,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 103,
+      "start": 258.52,
+      "end": 262.04,
+      "en": "Now, when he was getting out of the elevator, he said, this is my floor.",
+      "zh": "现在，当他下电梯时，他说，这是我的楼层。"
+    },
+    {
+      "id": 104,
+      "start": 262.28,
+      "end": 264.8,
+      "en": "Now, we know floor, but my floor, what is this?",
+      "zh": "现在，我们知道地板，但我的地板，这是什么？"
+    },
+    {
+      "id": 105,
+      "start": 264.8,
+      "end": 266.44,
+      "en": "My floor, your floor, whose floor?",
+      "zh": "我的地板，你的地板，谁的地板？"
+    },
+    {
+      "id": 106,
+      "start": 266.8,
+      "end": 266.94,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 107,
+      "start": 267.8,
+      "end": 268.8,
+      "en": "This doesn't make much sense, does it?",
+      "zh": "这没有多大意义，是吗？"
+    },
+    {
+      "id": 108,
+      "start": 268.8,
+      "end": 275.36,
+      "en": "Well, actually floor here means that this is the floor that I work on or the floor that I live on.",
+      "zh": "好吧，实际上这里的地板意味着这是我工作的地板或我住的地板。"
+    },
+    {
+      "id": 109,
+      "start": 275.36,
+      "end": 276.92,
+      "en": "It means the place I'm going to.",
+      "zh": "这意味着我要去的地方。"
+    },
+    {
+      "id": 110,
+      "start": 276.92,
+      "end": 277.92,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 111,
+      "start": 277.92,
+      "end": 281.74,
+      "en": "So, we know floor, the ground beneath our feet in a building.",
+      "zh": "所以，我们知道地板，我们脚下的地面在建筑物中。"
+    },
+    {
+      "id": 112,
+      "start": 282.56,
+      "end": 286.05,
+      "en": "But in this case, we're talking about one of the levels of a building.",
+      "zh": "但在这种情况下，我们谈论的是建筑物的级别之一。"
+    },
+    {
+      "id": 113,
+      "start": 286.31,
+      "end": 287.59,
+      "en": "So, maybe the sixth floor.",
+      "zh": "所以，也许是六楼。"
+    },
+    {
+      "id": 114,
+      "start": 287.85,
+      "end": 288.23,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 115,
+      "start": 288.49,
+      "end": 294.01,
+      "en": "So, if I'm in my apartment building in the elevator, I can say, oh, stop the elevator.",
+      "zh": "所以，如果我在电梯里的公寓楼里，我可以说，哦，停下电梯。"
+    },
+    {
+      "id": 116,
+      "start": 294.17,
+      "end": 294.93,
+      "en": "This is my floor.",
+      "zh": "我到这层了。"
+    },
+    {
+      "id": 117,
+      "start": 295.29,
+      "end": 297.29,
+      "en": "I want to get off the elevator.",
+      "zh": "我想下电梯。"
+    },
+    {
+      "id": 118,
+      "start": 297.36,
+      "end": 298.36,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 119,
+      "start": 298.36,
+      "end": 299.07,
+      "en": "This is where I live.",
+      "zh": "这是我住的地方。"
+    },
+    {
+      "id": 120,
+      "start": 299.36,
+      "end": 300.36,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 121,
+      "start": 300.36,
+      "end": 301.8,
+      "en": "So, a lot of great stuff there.",
+      "zh": "所以，那里有很多很棒的东西。"
+    },
+    {
+      "id": 122,
+      "start": 301.8,
+      "end": 305.24,
+      "en": "Why don't we take a break and listen to the dialogue again?",
+      "zh": "我们为什么不休息一下，再听一次对话呢？"
+    },
+    {
+      "id": 123,
+      "start": 305.24,
+      "end": 308.52,
+      "en": "Hey, Michelle.",
+      "zh": "嗨，Michelle。"
+    },
+    {
+      "id": 124,
+      "start": 314.25,
+      "end": 314.87,
+      "en": "Good to see you.",
+      "zh": "很高兴见到你。"
+    },
+    {
+      "id": 125,
+      "start": 315.09,
+      "end": 315.67,
+      "en": "Are you at lunch?",
+      "zh": "你刚去吃午饭了吗？"
+    },
+    {
+      "id": 126,
+      "start": 316.05,
+      "end": 316.87,
+      "en": "Oh, hi, Jim.",
+      "zh": "哦，嗨，吉姆。"
+    },
+    {
+      "id": 127,
+      "start": 317.41,
+      "end": 318.43,
+      "en": "No, I just got back.",
+      "zh": "不是，我刚吃完回来。"
+    },
+    {
+      "id": 128,
+      "start": 318.89,
+      "end": 320.43,
+      "en": "I thought you were on vacation now.",
+      "zh": "我以为你现在正在度假。"
+    },
+    {
+      "id": 129,
+      "start": 320.71,
+      "end": 322.17,
+      "en": "No, I wish I was.",
+      "zh": "没有，我倒希望自己在休假呢。"
+    },
+    {
+      "id": 130,
+      "start": 322.53,
+      "end": 324.27,
+      "en": "I just got back from Spain, actually.",
+      "zh": "其实我刚从西班牙回来。"
+    },
+    {
+      "id": 131,
+      "start": 324.57,
+      "end": 325.39,
+      "en": "Oh, wonderful.",
+      "zh": "哦，太好了。"
+    },
+    {
+      "id": 132,
+      "start": 326.23,
+      "end": 328.85,
+      "en": "Have you been there before or was it your first time?",
+      "zh": "你以前去过，还是头一回？"
+    },
+    {
+      "id": 133,
+      "start": 329.09,
+      "end": 329.75,
+      "en": "My first time.",
+      "zh": "这是第一次。"
+    },
+    {
+      "id": 134,
+      "start": 330.05,
+      "end": 332.77,
+      "en": "I've traveled around Europe a lot, but this is my first time to Spain.",
+      "zh": "我经常在欧洲旅行，但这是我第一次去西班牙。"
+    },
+    {
+      "id": 135,
+      "start": 333.15,
+      "end": 335.21,
+      "en": "It was amazing and the weather was just beautiful.",
+      "zh": "那儿太棒了，天气也好极了。"
+    },
+    {
+      "id": 136,
+      "start": 335.73,
+      "end": 337.61,
+      "en": "No rain and just sun, sun, sun.",
+      "zh": "一滴雨都没有，天天阳光灿烂。"
+    },
+    {
+      "id": 137,
+      "start": 338.25,
+      "end": 339.97,
+      "en": "I'm so jealous of you.",
+      "zh": "真羡慕你。"
+    },
+    {
+      "id": 138,
+      "start": 340.33,
+      "end": 342.19,
+      "en": "I've never been anywhere in Europe.",
+      "zh": "我连欧洲都还没去过。"
+    },
+    {
+      "id": 139,
+      "start": 342.74,
+      "end": 345.76,
+      "en": "I've always dreamed of traveling around and seeing the sights.",
+      "zh": "我一直梦想着去欧洲四处走走、看看名胜。"
+    },
+    {
+      "id": 140,
+      "start": 346.24,
+      "end": 347.48,
+      "en": "Well, I really recommend Spain.",
+      "zh": "我真心推荐西班牙。"
+    },
+    {
+      "id": 141,
+      "start": 347.98,
+      "end": 348.96,
+      "en": "You really should go.",
+      "zh": "你一定要去一趟。"
+    },
+    {
+      "id": 142,
+      "start": 349.88,
+      "end": 352.78,
+      "en": "Anyway, it's been great to catch up, but I must be going.",
+      "zh": "总之，很高兴能跟你聊聊近况，不过我得走了。"
+    },
+    {
+      "id": 143,
+      "start": 353.12,
+      "end": 353.76,
+      "en": "This is my floor.",
+      "zh": "我到这层了。"
+    },
+    {
+      "id": 144,
+      "start": 354.18,
+      "end": 355.22,
+      "en": "Speak again soon, I hope.",
+      "zh": "希望很快能再聊。"
+    },
+    {
+      "id": 145,
+      "start": 355.74,
+      "end": 356.0,
+      "en": "For sure.",
+      "zh": "当然。"
+    },
+    {
+      "id": 146,
+      "start": 356.4,
+      "end": 356.72,
+      "en": "Take care.",
+      "zh": "保重。"
+    },
+    {
+      "id": 147,
+      "start": 357.72,
+      "end": 360.16,
+      "en": "All right, we're back.",
+      "zh": "好了，我们回来了。"
+    },
+    {
+      "id": 148,
+      "start": 361.29,
+      "end": 364.45,
+      "en": "So, now let's take a look at four key phrases on Fluency Builder.",
+      "zh": "所以，现在让我们来看看关于 Fluency Builder 的四个关键短语。"
+    },
+    {
+      "id": 149,
+      "start": 366.18,
+      "end": 367.02,
+      "en": "Fluency Builder.",
+      "zh": "流利表达。"
+    },
+    {
+      "id": 150,
+      "start": 368.52,
+      "end": 373.08,
+      "en": "So, there are some keys to these small talk conversations and they are definitely the phrases.",
+      "zh": "所以，这些闲聊对话有一些关键，它们绝对是短语。"
+    },
+    {
+      "id": 151,
+      "start": 374.16,
+      "end": 376.48,
+      "en": "The first one we have here is, good to see you.",
+      "zh": "我们这里的第一个是，很高兴见到你。"
+    },
+    {
+      "id": 152,
+      "start": 376.58,
+      "end": 378.8,
+      "en": "So, Jim says, hey, Michelle, good to see you.",
+      "zh": "所以，吉姆说，嘿，米歇尔，很高兴见到你。"
+    },
+    {
+      "id": 153,
+      "start": 379.18,
+      "end": 379.44,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 154,
+      "start": 379.64,
+      "end": 387.28,
+      "en": "So, we've chosen this phrase because it's very casual and very common to use as a polite way of saying, hey, how are you?",
+      "zh": "所以，我们选择这个短语是因为它非常随意且非常普遍地用作礼貌的表达方式，嘿，你好吗？"
+    },
+    {
+      "id": 155,
+      "start": 387.52,
+      "end": 388.52,
+      "en": "Good to see you.",
+      "zh": "很高兴见到你。"
+    },
+    {
+      "id": 156,
+      "start": 388.52,
+      "end": 392.3,
+      "en": "I'm actually showing you that I'm happy that I am talking to you.",
+      "zh": "我实际上是在向您展示我很高兴我正在与您交谈。"
+    },
+    {
+      "id": 157,
+      "start": 392.49,
+      "end": 394.77,
+      "en": "So, this is a very flexible phrase.",
+      "zh": "所以，这是一个非常灵活的短语。"
+    },
+    {
+      "id": 158,
+      "start": 394.92,
+      "end": 399.41,
+      "en": "You can say it at the beginning of a conversation when you just see someone, hey, Marco, good to see you.",
+      "zh": "当你看到某人时，你可以在谈话开始时说出来，嘿，Marco，很高兴见到你。"
+    },
+    {
+      "id": 159,
+      "start": 399.84,
+      "end": 402.69,
+      "en": "Or at the end, you can say, it was very good to see you.",
+      "zh": "或者最后，你可以说，很高兴见到你。"
+    },
+    {
+      "id": 160,
+      "start": 402.79,
+      "end": 404.43,
+      "en": "I hope to see you again soon.",
+      "zh": "我希望很快能再次见到你。"
+    },
+    {
+      "id": 161,
+      "start": 404.81,
+      "end": 405.33,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 162,
+      "start": 405.51,
+      "end": 412.85,
+      "en": "So, maybe you can use it at the beginning if you just begin to talk to someone or if you're saying goodbye, you can say, well, you know what?",
+      "zh": "所以，也许你可以在开始时使用它，如果你刚开始和某人交谈，或者如果你在说再见，你可以说，好吧，你知道吗？"
+    },
+    {
+      "id": 163,
+      "start": 413.12,
+      "end": 415.84,
+      "en": "I have to go now, but it's been good to see you.",
+      "zh": "我现在得走了，但很高兴见到你。"
+    },
+    {
+      "id": 164,
+      "start": 416.0,
+      "end": 417.44,
+      "en": "So, very flexible phrase.",
+      "zh": "所以，非常灵活的短语。"
+    },
+    {
+      "id": 165,
+      "start": 417.88,
+      "end": 418.2,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 166,
+      "start": 418.88,
+      "end": 419.88,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 167,
+      "start": 419.88,
+      "end": 423.88,
+      "en": "Now, when Michelle thought that Jim was on vacation, Jim said, no, no, no.",
+      "zh": "现在，当米歇尔认为吉姆在度假时，吉姆说，不，不，不。"
+    },
+    {
+      "id": 168,
+      "start": 423.96,
+      "end": 425.6,
+      "en": "I wish I was.",
+      "zh": "我希望我是。"
+    },
+    {
+      "id": 169,
+      "start": 426.14,
+      "end": 426.66,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 170,
+      "start": 426.82,
+      "end": 427.5,
+      "en": "I wish I was.",
+      "zh": "我希望我是。"
+    },
+    {
+      "id": 171,
+      "start": 427.8,
+      "end": 429.64,
+      "en": "I thought you were on vacation.",
+      "zh": "我以为你在度假。"
+    },
+    {
+      "id": 172,
+      "start": 430.1,
+      "end": 433.32,
+      "en": "So, she thought that he was still on vacation in Spain.",
+      "zh": "所以，她以为他还在西班牙度假。"
+    },
+    {
+      "id": 173,
+      "start": 433.86,
+      "end": 438.58,
+      "en": "And he says, well, I'm not because, you know, here I am, but I wish I was.",
+      "zh": "他说，好吧，我不是因为，你知道，我在这里，但我希望我是。"
+    },
+    {
+      "id": 174,
+      "start": 438.78,
+      "end": 442.24,
+      "en": "I wish I was in Spain right now because Spain is so nice.",
+      "zh": "我希望我现在在西班牙，因为西班牙很好。"
+    },
+    {
+      "id": 175,
+      "start": 442.64,
+      "end": 442.96,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 176,
+      "start": 443.2,
+      "end": 446.7,
+      "en": "So, it may seem a little bit strange, but it's actually completing the idea.",
+      "zh": "所以，它可能看起来有点奇怪，但它实际上是在完成这个想法。"
+    },
+    {
+      "id": 177,
+      "start": 448.92,
+      "end": 452.68,
+      "en": "And basically, we're using the verb to be because that's the question.",
+      "zh": "基本上，我们使用动词是因为这是问题所在。"
+    },
+    {
+      "id": 178,
+      "start": 452.68,
+      "end": 453.76,
+      "en": "Are you on vacation?",
+      "zh": "你在度假吗？"
+    },
+    {
+      "id": 179,
+      "start": 454.5,
+      "end": 457.2,
+      "en": "No, I wish I was on vacation.",
+      "zh": "不，我希望我在度假。"
+    },
+    {
+      "id": 180,
+      "start": 457.56,
+      "end": 459.5,
+      "en": "So, that means he's not, but he wants to be.",
+      "zh": "所以，这意味着他不是，但他想成为。"
+    },
+    {
+      "id": 181,
+      "start": 459.72,
+      "end": 460.28,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 182,
+      "start": 460.72,
+      "end": 466.38,
+      "en": "Okay, so now, he actually had to get going and he used this exact phrase.",
+      "zh": "好吧，所以现在，他实际上必须开始，他使用了这个确切的短语。"
+    },
+    {
+      "id": 183,
+      "start": 466.56,
+      "end": 469.36,
+      "en": "He said, I must be going.",
+      "zh": "他说，我一定要去。"
+    },
+    {
+      "id": 184,
+      "start": 469.36,
+      "end": 470.2,
+      "en": "I must be going.",
+      "zh": "我一定要去。"
+    },
+    {
+      "id": 185,
+      "start": 470.52,
+      "end": 471.6,
+      "en": "Now, remember this as a phrase.",
+      "zh": "现在，请记住这是一个短语。"
+    },
+    {
+      "id": 186,
+      "start": 471.9,
+      "end": 473.54,
+      "en": "This is a good way to end a conversation.",
+      "zh": "这是结束对话的好方法。"
+    },
+    {
+      "id": 187,
+      "start": 474.24,
+      "end": 475.3,
+      "en": "Maybe you have to go to work.",
+      "zh": "也许你必须去上班。"
+    },
+    {
+      "id": 188,
+      "start": 475.6,
+      "end": 477.32,
+      "en": "Maybe you have your kids at home.",
+      "zh": "也许你家里有你的孩子。"
+    },
+    {
+      "id": 189,
+      "start": 477.46,
+      "end": 478.74,
+      "en": "You have to take them somewhere.",
+      "zh": "你必须把它们带到某个地方。"
+    },
+    {
+      "id": 190,
+      "start": 479.0,
+      "end": 483.36,
+      "en": "So, you say, I'm really sorry, I must be going, but let's see each other again soon.",
+      "zh": "所以，你说，我真的很抱歉，我一定要去，但让我们很快再见面。"
+    },
+    {
+      "id": 191,
+      "start": 483.64,
+      "end": 484.08,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 192,
+      "start": 484.28,
+      "end": 486.26,
+      "en": "So, you are politely ending the conversation.",
+      "zh": "所以，你正在礼貌地结束谈话。"
+    },
+    {
+      "id": 193,
+      "start": 486.34,
+      "end": 489.08,
+      "en": "You are politely saying, I can't talk to you anymore.",
+      "zh": "你礼貌地说，我不能再和你说话了。"
+    },
+    {
+      "id": 194,
+      "start": 489.72,
+      "end": 493.24,
+      "en": "I must be going now, but it's been great to talk to you.",
+      "zh": "我现在一定要去，但很高兴和你谈谈。"
+    },
+    {
+      "id": 195,
+      "start": 493.34,
+      "end": 493.54,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 196,
+      "start": 494.48,
+      "end": 495.48,
+      "en": "Very polite.",
+      "zh": "非常有礼貌。"
+    },
+    {
+      "id": 197,
+      "start": 495.48,
+      "end": 496.48,
+      "en": "So, remember this one.",
+      "zh": "所以，记住这一点。"
+    },
+    {
+      "id": 198,
+      "start": 496.48,
+      "end": 497.48,
+      "en": "It's better than, I'm going now.",
+      "zh": "这比我现在要走了。"
+    },
+    {
+      "id": 199,
+      "start": 497.48,
+      "end": 498.08,
+      "en": "We don't say that.",
+      "zh": "我们不这么说。"
+    },
+    {
+      "id": 200,
+      "start": 498.48,
+      "end": 499.48,
+      "en": "Yeah, or I have to go.",
+      "zh": "是的，或者我必须去。"
+    },
+    {
+      "id": 201,
+      "start": 499.48,
+      "end": 502.42,
+      "en": "Well, you can say, I have to go, but it's nice saying, oh, you know what?",
+      "zh": "好吧，你可以说，我必须去，但很高兴说，哦，你知道吗？"
+    },
+    {
+      "id": 202,
+      "start": 502.72,
+      "end": 506.6,
+      "en": "I really like talking to you, but I must be going now.",
+      "zh": "我真的很喜欢和你说话，但我现在必须去。"
+    },
+    {
+      "id": 203,
+      "start": 506.6,
+      "end": 509.4,
+      "en": "And Jim also finished by saying, we'll speak again soon.",
+      "zh": "吉姆还说，我们很快就会再说一遍。"
+    },
+    {
+      "id": 204,
+      "start": 509.84,
+      "end": 511.48,
+      "en": "And Michelle said, for sure.",
+      "zh": "米歇尔说，当然。"
+    },
+    {
+      "id": 205,
+      "start": 512.12,
+      "end": 512.46,
+      "en": "For sure.",
+      "zh": "当然。"
+    },
+    {
+      "id": 206,
+      "start": 513.12,
+      "end": 515.7,
+      "en": "Now, Americans particularly love to say this phrase.",
+      "zh": "现在，美国人特别喜欢说这句话。"
+    },
+    {
+      "id": 207,
+      "start": 516.52,
+      "end": 519.96,
+      "en": "For sure means yes, or I agree, or definitely.",
+      "zh": "当然意味着是的，或者我同意，或者肯定的。"
+    },
+    {
+      "id": 208,
+      "start": 520.56,
+      "end": 521.56,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 209,
+      "start": 521.56,
+      "end": 522.66,
+      "en": "You can use it as an interjection.",
+      "zh": "您可以将其用作感叹词。"
+    },
+    {
+      "id": 210,
+      "start": 523.2,
+      "end": 527.06,
+      "en": "So, if I say, hey, Catherine, am I going to see you later on today?",
+      "zh": "所以，如果我说，嘿，凯瑟琳，我今天晚些时候会见到你吗？"
+    },
+    {
+      "id": 211,
+      "start": 527.48,
+      "end": 528.06,
+      "en": "Yeah, for sure.",
+      "zh": "对，当然。"
+    },
+    {
+      "id": 212,
+      "start": 528.46,
+      "end": 528.84,
+      "en": "For sure.",
+      "zh": "当然。"
+    },
+    {
+      "id": 213,
+      "start": 529.44,
+      "end": 530.44,
+      "en": "There we go.",
+      "zh": "好了。"
+    },
+    {
+      "id": 214,
+      "start": 530.44,
+      "end": 533.26,
+      "en": "So, you're saying yes, absolutely, definitely, for sure.",
+      "zh": "所以，你说的是，绝对，绝对，肯定。"
+    },
+    {
+      "id": 215,
+      "start": 533.56,
+      "end": 535.64,
+      "en": "So, Marco, my birthday is Friday night.",
+      "zh": "所以，马可，我的生日是星期五晚上。"
+    },
+    {
+      "id": 216,
+      "start": 535.64,
+      "end": 537.2,
+      "en": "Are you going to come to the party?",
+      "zh": "你要来参加聚会吗？"
+    },
+    {
+      "id": 217,
+      "start": 537.2,
+      "end": 537.46,
+      "en": "For sure.",
+      "zh": "当然。"
+    },
+    {
+      "id": 218,
+      "start": 538.2,
+      "end": 539.2,
+      "en": "I wouldn't miss it for the world.",
+      "zh": "我不会为世界错过它。"
+    },
+    {
+      "id": 219,
+      "start": 539.2,
+      "end": 540.2,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 220,
+      "start": 540.2,
+      "end": 542.76,
+      "en": "So, that's all we have for today.",
+      "zh": "所以，这就是我们今天所拥有的一切。"
+    },
+    {
+      "id": 221,
+      "start": 542.76,
+      "end": 548.84,
+      "en": "Why don't we review everything we've taken a look at now and listen to the dialogue one last time.",
+      "zh": "我们为什么不回顾一下我们现在看过的所有内容，最后一次听一次对话。"
+    },
+    {
+      "id": 222,
+      "start": 548.84,
+      "end": 552.0,
+      "en": "Hey, Michelle.",
+      "zh": "嗨，Michelle。"
+    },
+    {
+      "id": 223,
+      "start": 557.86,
+      "end": 558.48,
+      "en": "Good to see you.",
+      "zh": "很高兴见到你。"
+    },
+    {
+      "id": 224,
+      "start": 558.7,
+      "end": 559.3,
+      "en": "Are you at lunch?",
+      "zh": "你刚去吃午饭了吗？"
+    },
+    {
+      "id": 225,
+      "start": 559.66,
+      "end": 560.5,
+      "en": "Oh, hi, Jim.",
+      "zh": "哦，嗨，吉姆。"
+    },
+    {
+      "id": 226,
+      "start": 561.06,
+      "end": 562.04,
+      "en": "No, I just got back.",
+      "zh": "不是，我刚吃完回来。"
+    },
+    {
+      "id": 227,
+      "start": 562.52,
+      "end": 564.04,
+      "en": "I thought you were on vacation now.",
+      "zh": "我以为你现在正在度假。"
+    },
+    {
+      "id": 228,
+      "start": 564.32,
+      "end": 565.8,
+      "en": "No, I wish I was.",
+      "zh": "没有，我倒希望自己在休假呢。"
+    },
+    {
+      "id": 229,
+      "start": 566.14,
+      "end": 567.88,
+      "en": "I just got back from Spain, actually.",
+      "zh": "其实我刚从西班牙回来。"
+    },
+    {
+      "id": 230,
+      "start": 568.18,
+      "end": 569.0,
+      "en": "Oh, wonderful.",
+      "zh": "哦，太好了。"
+    },
+    {
+      "id": 231,
+      "start": 569.84,
+      "end": 572.46,
+      "en": "Have you been there before or was it your first time?",
+      "zh": "你以前去过，还是头一回？"
+    },
+    {
+      "id": 232,
+      "start": 572.7,
+      "end": 573.38,
+      "en": "My first time.",
+      "zh": "这是第一次。"
+    },
+    {
+      "id": 233,
+      "start": 573.66,
+      "end": 576.38,
+      "en": "I've traveled around Europe a lot, but this was my first time to Spain.",
+      "zh": "欧洲我去了不少地方，可西班牙还是第一次。"
+    },
+    {
+      "id": 234,
+      "start": 576.74,
+      "end": 578.8,
+      "en": "It was amazing and the weather was just beautiful.",
+      "zh": "那儿太棒了，天气也好极了。"
+    },
+    {
+      "id": 235,
+      "start": 579.34,
+      "end": 581.22,
+      "en": "No rain and just sun, sun, sun.",
+      "zh": "一滴雨都没有，天天阳光灿烂。"
+    },
+    {
+      "id": 236,
+      "start": 581.88,
+      "end": 583.58,
+      "en": "I'm so jealous of you.",
+      "zh": "真羡慕你。"
+    },
+    {
+      "id": 237,
+      "start": 583.94,
+      "end": 585.82,
+      "en": "I've never been anywhere in Europe.",
+      "zh": "我连欧洲都还没去过。"
+    },
+    {
+      "id": 238,
+      "start": 586.33,
+      "end": 589.37,
+      "en": "I've always dreamed of traveling around and seeing the sights.",
+      "zh": "我一直梦想着去欧洲四处走走、看看名胜。"
+    },
+    {
+      "id": 239,
+      "start": 589.83,
+      "end": 591.09,
+      "en": "Well, I really recommend Spain.",
+      "zh": "我真心推荐西班牙。"
+    },
+    {
+      "id": 240,
+      "start": 591.61,
+      "end": 592.57,
+      "en": "You really should go.",
+      "zh": "你一定要去一趟。"
+    },
+    {
+      "id": 241,
+      "start": 593.49,
+      "end": 596.39,
+      "en": "Anyway, it's been great to catch up, but I must be going.",
+      "zh": "总之，很高兴能跟你聊聊近况，不过我得走了。"
+    },
+    {
+      "id": 242,
+      "start": 596.75,
+      "end": 597.37,
+      "en": "This is my floor.",
+      "zh": "我到这层了。"
+    },
+    {
+      "id": 243,
+      "start": 597.79,
+      "end": 598.83,
+      "en": "Speak again soon, I hope.",
+      "zh": "希望很快能再聊。"
+    },
+    {
+      "id": 244,
+      "start": 599.21,
+      "end": 599.61,
+      "en": "For sure.",
+      "zh": "当然。"
+    },
+    {
+      "id": 245,
+      "start": 600.03,
+      "end": 600.31,
+      "en": "Take care.",
+      "zh": "保重。"
+    },
+    {
+      "id": 246,
+      "start": 601.32,
+      "end": 602.32,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 247,
+      "start": 603.88,
+      "end": 606.28,
+      "en": "So, this was another part of our small talk series.",
+      "zh": "所以，这是我们闲聊系列的另一部分。"
+    },
+    {
+      "id": 248,
+      "start": 606.56,
+      "end": 613.06,
+      "en": "As you can see, very short, but very useful language used to talk very briefly with someone.",
+      "zh": "如您所见，非常简短但非常有用的语言，用于与某人进行非常简短的交谈。"
+    },
+    {
+      "id": 249,
+      "start": 613.26,
+      "end": 613.94,
+      "en": "It always happens.",
+      "zh": "它总是发生。"
+    },
+    {
+      "id": 250,
+      "start": 614.06,
+      "end": 618.28,
+      "en": "You meet somebody at the elevator or you just want to talk very quickly.",
+      "zh": "你在电梯里遇到某人，或者你只是想很快谈谈。"
+    },
+    {
+      "id": 251,
+      "start": 618.82,
+      "end": 628.34,
+      "en": "Yeah, but you don't want to talk about anything that's too personal like someone's politics or their religious beliefs or their children because maybe you don't know them very well.",
+      "zh": "是的，但你不想谈论任何过于个人化的东西，比如一个人的政治、他们的宗教信仰或他们的孩子，因为也许你不太了解他们。"
+    },
+    {
+      "id": 252,
+      "start": 628.48,
+      "end": 636.39,
+      "en": "So, these are really great topics to talk about like business trips or vacation or the weather.",
+      "zh": "所以，这些真的是很好的话题，比如商务旅行、假期或天气。"
+    },
+    {
+      "id": 253,
+      "start": 637.49,
+      "end": 640.95,
+      "en": "English speakers love to talk about these when they don't know someone that well.",
+      "zh": "当说英语的人不那么了解某人时，他们喜欢谈论这些。"
+    },
+    {
+      "id": 254,
+      "start": 641.4,
+      "end": 641.61,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 255,
+      "start": 642.4,
+      "end": 643.4,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 256,
+      "start": 643.4,
+      "end": 649.96,
+      "en": "So, if you have any questions or any comments about this lesson or you want to suggest any other topics, you can find us at EnglishPod.com.",
+      "zh": "因此，如果您对本课程有任何疑问或意见，或者您想建议任何其他主题，您可以在 Englishpod.com 上找到我们。"
+    },
+    {
+      "id": 257,
+      "start": 649.96,
+      "end": 650.69,
+      "en": "We hope to see you all there.",
+      "zh": "我们希望在那里见到你们。"
+    },
+    {
+      "id": 258,
+      "start": 650.96,
+      "end": 651.96,
+      "en": "Bye.",
+      "zh": "再见。"
+    },
+    {
+      "id": 259,
+      "start": 651.96,
+      "end": 652.96,
+      "en": "See you guys.",
+      "zh": "大家见。"
+    },
+    {
+      "id": 260,
+      "start": 652.96,
+      "end": 659.278,
+      "en": "I will see you guys later, take care.",
+      "zh": "以后再见，保重。"
+    }
+  ],
+  "dialog": {
+    "start": 40.88,
+    "end": 92.43,
+    "segmentIds": [
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38
+    ]
+  }
+}

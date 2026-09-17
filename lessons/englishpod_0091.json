@@ -1,0 +1,1798 @@
+{
+  "version": 1,
+  "id": 91,
+  "number": "0091",
+  "title": "The Weekend - Aliens!",
+  "audio": "mp3/91. The Weekend - Aliens!.mp3",
+  "duration": 866.795125,
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.39,
+      "end": 3.63,
+      "en": "Hello English learners, welcome back to EnglishPod.",
+      "zh": "您好英语学习者，欢迎回到 EnglishPod。"
+    },
+    {
+      "id": 2,
+      "start": 3.87,
+      "end": 4.39,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 4.77,
+      "end": 5.35,
+      "en": "And I'm Erica.",
+      "zh": "我叫 Erica。"
+    },
+    {
+      "id": 4,
+      "start": 6.07,
+      "end": 11.95,
+      "en": "And today we're going to be looking at another kind of science fiction lesson related to aliens.",
+      "zh": "而今天，我们将看看与外星人有关的另一种科幻小说课程。"
+    },
+    {
+      "id": 5,
+      "start": 12.47,
+      "end": 12.91,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 6,
+      "start": 13.45,
+      "end": 17.47,
+      "en": "And I think in this lesson we'll actually have an alien sighting here at EnglishPod.",
+      "zh": "我认为在本课中，我们实际上会在 Englishpod 看到外星人。"
+    },
+    {
+      "id": 7,
+      "start": 17.85,
+      "end": 19.13,
+      "en": "Right, an alien encounter.",
+      "zh": "对了，外星人的相遇。"
+    },
+    {
+      "id": 8,
+      "start": 20.24,
+      "end": 25.8,
+      "en": "So we're going to be learning about the stars, we're going to be learning about aliens and UFOs today.",
+      "zh": "所以我们要学习星星，我们今天将学习外星人和不明飞行物。"
+    },
+    {
+      "id": 9,
+      "start": 25.8,
+      "end": 34.3,
+      "en": "That's right, and we're also going to learn some language that you can use to describe negative results, things that happen that are bad.",
+      "zh": "没错，我们还将学习一些语言，您可以使用这些语言来描述负面结果，以及发生的坏事。"
+    },
+    {
+      "id": 10,
+      "start": 34.86,
+      "end": 35.86,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 11,
+      "start": 35.86,
+      "end": 37.3,
+      "en": "So let's start by looking at vocabulary preview.",
+      "zh": "因此，让我们从词汇预览开始。"
+    },
+    {
+      "id": 12,
+      "start": 39.16,
+      "end": 40.32,
+      "en": "Vocabulary preview.",
+      "zh": "词汇预习。"
+    },
+    {
+      "id": 13,
+      "start": 40.46,
+      "end": 44.26,
+      "en": "Okay, we have two words for you that we're going to hear in the dialogue.",
+      "zh": "好的，我们有两个词要告诉你，我们将在对话中听到。"
+    },
+    {
+      "id": 14,
+      "start": 44.76,
+      "end": 46.56,
+      "en": "And the first one is constellation.",
+      "zh": "第一个是星座。"
+    },
+    {
+      "id": 15,
+      "start": 46.56,
+      "end": 46.82,
+      "en": "Constellation.",
+      "zh": "星座。"
+    },
+    {
+      "id": 16,
+      "start": 47.56,
+      "end": 48.56,
+      "en": "A constellation.",
+      "zh": "一个星座。"
+    },
+    {
+      "id": 17,
+      "start": 48.58,
+      "end": 48.98,
+      "en": "A constellation.",
+      "zh": "一个星座。"
+    },
+    {
+      "id": 18,
+      "start": 57.62,
+      "end": 62.62,
+      "en": "A constellation is a group of stars that makes a shape and has a name.",
+      "zh": "星座是一组形成形状并具有名称的恒星。"
+    },
+    {
+      "id": 19,
+      "start": 78.48,
+      "end": 79.98,
+      "en": "The next one is earthlings.",
+      "zh": "下一篇是地球人。"
+    },
+    {
+      "id": 20,
+      "start": 80.96,
+      "end": 81.44,
+      "en": "Earthlings.",
+      "zh": "地球人。"
+    },
+    {
+      "id": 21,
+      "start": 81.56,
+      "end": 82.56,
+      "en": "Earthlings.",
+      "zh": "地球人。"
+    },
+    {
+      "id": 22,
+      "start": 83.18,
+      "end": 87.14,
+      "en": "So earthlings are people who live on planet Earth.",
+      "zh": "所以地球人是生活在地球上的人。"
+    },
+    {
+      "id": 23,
+      "start": 87.14,
+      "end": 88.12,
+      "en": "On Earth, exactly.",
+      "zh": "在地球上，确切地说。"
+    },
+    {
+      "id": 24,
+      "start": 89.04,
+      "end": 92.4,
+      "en": "And in the dialogue we're going to hear greetings earthlings.",
+      "zh": "在对话中，我们将听到地球人的问候。"
+    },
+    {
+      "id": 25,
+      "start": 92.4,
+      "end": 98.16,
+      "en": "This is the most typical phrase that you will hear in almost every single alien movie.",
+      "zh": "这是您几乎在每部外星人电影中都会听到的最典型的短语。"
+    },
+    {
+      "id": 26,
+      "start": 98.74,
+      "end": 99.2,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 27,
+      "start": 99.5,
+      "end": 101.8,
+      "en": "So it's like saying hello people from Earth.",
+      "zh": "所以这就像打招呼来自地球的人。"
+    },
+    {
+      "id": 28,
+      "start": 102.04,
+      "end": 104.64,
+      "en": "Yes, every single alien in the world says this phrase.",
+      "zh": "是的，世界上每个外星人都说这句话。"
+    },
+    {
+      "id": 29,
+      "start": 105.5,
+      "end": 108.58,
+      "en": "So those are the two words that we are going to find in this dialogue today.",
+      "zh": "所以这是我们今天将在这次对话中找到的两个词。"
+    },
+    {
+      "id": 30,
+      "start": 109.04,
+      "end": 112.84,
+      "en": "So why don't we start and listen to what happens with our UFO experience.",
+      "zh": "那么我们为什么不开始并听听我们的不明飞行物体验会发生什么。"
+    },
+    {
+      "id": 31,
+      "start": 121.42,
+      "end": 124.2,
+      "en": "Oh honey, this is so romantic.",
+      "zh": "哦，亲爱的，这太浪漫了。"
+    },
+    {
+      "id": 32,
+      "start": 125.4,
+      "end": 128.88,
+      "en": "I have never seen like so many stars before.",
+      "zh": "我从没见过这么多星星。"
+    },
+    {
+      "id": 33,
+      "start": 128.88,
+      "end": 129.24,
+      "en": "It's beautiful.",
+      "zh": "它很漂亮。"
+    },
+    {
+      "id": 34,
+      "start": 130.36,
+      "end": 131.38,
+      "en": "See that constellation there?",
+      "zh": "看到那片星座了吗？"
+    },
+    {
+      "id": 35,
+      "start": 132.4,
+      "end": 132.76,
+      "en": "That's Orion.",
+      "zh": "那是猎户座。"
+    },
+    {
+      "id": 36,
+      "start": 133.64,
+      "end": 134.86,
+      "en": "And the very bright star?",
+      "zh": "那颗特别亮的呢？"
+    },
+    {
+      "id": 37,
+      "start": 135.48,
+      "end": 137.46,
+      "en": "Well, it's not a star because it doesn't blink.",
+      "zh": "那不是恒星，它不会闪烁。"
+    },
+    {
+      "id": 38,
+      "start": 138.32,
+      "end": 141.24,
+      "en": "It's actually Venus.",
+      "zh": "其实是金星。"
+    },
+    {
+      "id": 39,
+      "start": 141.24,
+      "end": 144.12,
+      "en": "What's that big flashy one?",
+      "zh": "什么是华丽的大一号？"
+    },
+    {
+      "id": 40,
+      "start": 145.2,
+      "end": 145.76,
+      "en": "I don't know.",
+      "zh": "我不知道。"
+    },
+    {
+      "id": 41,
+      "start": 146.82,
+      "end": 147.54,
+      "en": "I think it's a UFO.",
+      "zh": "我觉得是飞碟。"
+    },
+    {
+      "id": 42,
+      "start": 160.86,
+      "end": 162.02,
+      "en": "Greetings, earthlings.",
+      "zh": "问候，地球人。"
+    },
+    {
+      "id": 43,
+      "start": 162.68,
+      "end": 163.7,
+      "en": "I come from afar.",
+      "zh": "我从远处来。"
+    },
+    {
+      "id": 44,
+      "start": 164.16,
+      "end": 166.66,
+      "en": "From a distant galaxy known only to a few.",
+      "zh": "来自一个只有少数人知道的遥远星系。"
+    },
+    {
+      "id": 45,
+      "start": 167.2,
+      "end": 168.06,
+      "en": "Why are you here?",
+      "zh": "你为什么在这里？"
+    },
+    {
+      "id": 46,
+      "start": 168.72,
+      "end": 170.34,
+      "en": "Where did you come from?",
+      "zh": "你从哪里来的？"
+    },
+    {
+      "id": 47,
+      "start": 171.66,
+      "end": 174.38,
+      "en": "We have been observing you for the last three thousand years.",
+      "zh": "我们已经观察你们三千年了。"
+    },
+    {
+      "id": 48,
+      "start": 174.76,
+      "end": 181.6,
+      "en": "We have seen the amazing capacity that humans have to create such wonders as the Taj Mahal or masterpieces such as the Hafner Symphony.",
+      "zh": "我们已经看到了人类创造泰姬陵或哈夫纳交响曲等杰作的惊人能力。"
+    },
+    {
+      "id": 49,
+      "start": 182.6,
+      "end": 186.2,
+      "en": "Unfortunately, your intelligence and creativity does not come without consequence.",
+      "zh": "可惜，智慧和创造力也会带来后果。"
+    },
+    {
+      "id": 50,
+      "start": 186.2,
+      "end": 190.88,
+      "en": "Your ambition and desire for more will be your downfall, and we are here to save your planet from you.",
+      "zh": "你们的野心和无尽欲望终将毁灭自己，我们是来拯救这颗星球，免遭你们摧残。"
+    },
+    {
+      "id": 51,
+      "start": 192.24,
+      "end": 193.8,
+      "en": "You think you have us figured out?",
+      "zh": "你自以为把我们看透了？"
+    },
+    {
+      "id": 52,
+      "start": 194.24,
+      "end": 196.4,
+      "en": "What gives you the right to come and judge us?",
+      "zh": "是什么让您有权来评判我们？"
+    },
+    {
+      "id": 53,
+      "start": 196.78,
+      "end": 198.86,
+      "en": "Who are you to play God with our fate?",
+      "zh": "你凭什么主宰我们的命运？"
+    },
+    {
+      "id": 54,
+      "start": 200.16,
+      "end": 200.84,
+      "en": "Silence, human!",
+      "zh": "沉默，人类！"
+    },
+    {
+      "id": 55,
+      "start": 201.28,
+      "end": 205.1,
+      "en": "It is that belligerent attitude that has caused years of pain and anguish among yourselves.",
+      "zh": "你们这种好斗的态度多年来给彼此带来无尽痛苦。"
+    },
+    {
+      "id": 56,
+      "start": 205.38,
+      "end": 206.48,
+      "en": "Now you will pay the price!",
+      "zh": "现在你要付出代价！"
+    },
+    {
+      "id": 57,
+      "start": 229.43,
+      "end": 232.52,
+      "en": "Well, that didn't work out so well for the Earthlings, now did it?",
+      "zh": "好吧，这对地球人来说不是那么好，现在是吗？"
+    },
+    {
+      "id": 58,
+      "start": 233.04,
+      "end": 236.24,
+      "en": "I think the aliens are a little bit belligerent themselves.",
+      "zh": "我认为外星人自己也有点好战。"
+    },
+    {
+      "id": 59,
+      "start": 237.24,
+      "end": 244.7,
+      "en": "All right, so why don't we start by looking at some of those difficult words that we might have found in this dialogue in Language Takeaway?",
+      "zh": "好吧，那么我们为什么不先看看我们可能在语言外卖对话中发现的一些困难词呢？"
+    },
+    {
+      "id": 60,
+      "start": 247.62,
+      "end": 248.5,
+      "en": "Language Takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 61,
+      "start": 250.1,
+      "end": 257.92,
+      "en": "Okay, well, the aliens are using a lot of language to describe some of the negative results that are happening because of the humans' behavior on Earth, right?",
+      "zh": "好吧，外星人正在使用很多语言来描述由于人类在地球上的行为而发生的一些负面结果，对吧？"
+    },
+    {
+      "id": 62,
+      "start": 258.02,
+      "end": 258.24,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 63,
+      "start": 258.92,
+      "end": 265.08,
+      "en": "And so one of the things they said was that your intelligence and creativity does not come without consequence.",
+      "zh": "所以他们说的一件事是，你的智慧和创造力不会没有后果。"
+    },
+    {
+      "id": 64,
+      "start": 266.13,
+      "end": 266.36,
+      "en": "Consequence.",
+      "zh": "后果。"
+    },
+    {
+      "id": 65,
+      "start": 267.13,
+      "end": 267.84,
+      "en": "Without consequence.",
+      "zh": "无后果。"
+    },
+    {
+      "id": 66,
+      "start": 268.97,
+      "end": 269.13,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 67,
+      "start": 269.4,
+      "end": 273.57,
+      "en": "So the consequence of an action are basically the results.",
+      "zh": "所以一个动作的结果基本上是结果。"
+    },
+    {
+      "id": 68,
+      "start": 274.13,
+      "end": 274.79,
+      "en": "Yes, exactly.",
+      "zh": "对，没错。"
+    },
+    {
+      "id": 69,
+      "start": 275.01,
+      "end": 280.37,
+      "en": "And here the phrase without consequence suggests the negative results.",
+      "zh": "这里的短语没有后果暗示了负面结果。"
+    },
+    {
+      "id": 70,
+      "start": 281.05,
+      "end": 281.41,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 71,
+      "start": 282.0,
+      "end": 284.35,
+      "en": "So the negative results from your actions.",
+      "zh": "所以你的行为的负面结果。"
+    },
+    {
+      "id": 72,
+      "start": 285.72,
+      "end": 285.97,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 73,
+      "start": 286.72,
+      "end": 287.27,
+      "en": "What about our next word?",
+      "zh": "我们的下一个词呢？"
+    },
+    {
+      "id": 74,
+      "start": 287.72,
+      "end": 290.44,
+      "en": "Well, the aliens also talked about human ambition.",
+      "zh": "好吧，外星人也谈到了人类的野心。"
+    },
+    {
+      "id": 75,
+      "start": 290.44,
+      "end": 291.44,
+      "en": "Ambition.",
+      "zh": "野心。"
+    },
+    {
+      "id": 76,
+      "start": 291.83,
+      "end": 292.11,
+      "en": "Ambition.",
+      "zh": "野心。"
+    },
+    {
+      "id": 77,
+      "start": 292.9,
+      "end": 294.5,
+      "en": "So, what is ambition exactly?",
+      "zh": "那么，野心到底是什么？"
+    },
+    {
+      "id": 78,
+      "start": 294.88,
+      "end": 303.88,
+      "en": "So ambition is the desire or the want for things to be better, to improve, to get rich, to be technologically advanced.",
+      "zh": "所以野心是对事物变得更好、改进、致富、技术先进的渴望或愿望。"
+    },
+    {
+      "id": 79,
+      "start": 304.3,
+      "end": 304.56,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 80,
+      "start": 304.62,
+      "end": 305.62,
+      "en": "So to want more.",
+      "zh": "所以想要更多。"
+    },
+    {
+      "id": 81,
+      "start": 306.28,
+      "end": 307.28,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 82,
+      "start": 307.28,
+      "end": 310.24,
+      "en": "You have ambitions in your life, in your professional life, in your personal life.",
+      "zh": "在你的生活中，在你的职业生涯中，在你的个人生活中，你有野心。"
+    },
+    {
+      "id": 83,
+      "start": 310.24,
+      "end": 316.04,
+      "en": "So basically we have ambition and we have desires and these are the reasons for our downfall.",
+      "zh": "所以基本上我们有野心，我们有欲望，这些是我们垮台的原因。"
+    },
+    {
+      "id": 84,
+      "start": 316.58,
+      "end": 316.92,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 85,
+      "start": 316.98,
+      "end": 317.76,
+      "en": "So downfall.",
+      "zh": "如此垮台。"
+    },
+    {
+      "id": 86,
+      "start": 318.72,
+      "end": 319.38,
+      "en": "Downfall.",
+      "zh": "垮台。"
+    },
+    {
+      "id": 87,
+      "start": 319.38,
+      "end": 321.14,
+      "en": "Will be your downfall.",
+      "zh": "将是你的垮台。"
+    },
+    {
+      "id": 88,
+      "start": 321.86,
+      "end": 324.5,
+      "en": "So the downfall of something is?",
+      "zh": "那么某事的垮台是什么？"
+    },
+    {
+      "id": 89,
+      "start": 324.5,
+      "end": 326.24,
+      "en": "Something that causes failure.",
+      "zh": "导致失败的东西。"
+    },
+    {
+      "id": 90,
+      "start": 327.08,
+      "end": 327.34,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 91,
+      "start": 327.42,
+      "end": 333.46,
+      "en": "So the loss of wealth or the loss of reputation or that it gets ruined.",
+      "zh": "所以财富的损失或声誉的损失或它被毁掉了。"
+    },
+    {
+      "id": 92,
+      "start": 333.84,
+      "end": 334.06,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 93,
+      "start": 334.56,
+      "end": 334.94,
+      "en": "The downfall.",
+      "zh": "垮台。"
+    },
+    {
+      "id": 94,
+      "start": 335.36,
+      "end": 338.3,
+      "en": "We can say like for example, the downfall of the Roman empire.",
+      "zh": "我们可以说，例如，罗马帝国的垮台。"
+    },
+    {
+      "id": 95,
+      "start": 338.84,
+      "end": 345.36,
+      "en": "You know what, this guy is a great employee, but his lack of ambition was his downfall.",
+      "zh": "你知道吗，这个人是一个伟大的员工，但他缺乏野心是他的垮台。"
+    },
+    {
+      "id": 96,
+      "start": 345.7,
+      "end": 346.18,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 97,
+      "start": 347.0,
+      "end": 348.0,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 98,
+      "start": 348.0,
+      "end": 349.0,
+      "en": "Coming up to our next word.",
+      "zh": "来到我们的下一个词。"
+    },
+    {
+      "id": 99,
+      "start": 349.0,
+      "end": 351.99,
+      "en": "The alien described that humans have a belligerent attitude.",
+      "zh": "外星人形容人类有好战的态度。"
+    },
+    {
+      "id": 100,
+      "start": 352.4,
+      "end": 353.4,
+      "en": "Belligerent.",
+      "zh": "好斗的。"
+    },
+    {
+      "id": 101,
+      "start": 353.4,
+      "end": 354.4,
+      "en": "Belligerent.",
+      "zh": "好斗的。"
+    },
+    {
+      "id": 102,
+      "start": 354.4,
+      "end": 355.4,
+      "en": "Belligerent.",
+      "zh": "好斗的。"
+    },
+    {
+      "id": 103,
+      "start": 355.4,
+      "end": 356.4,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 104,
+      "start": 356.4,
+      "end": 357.92,
+      "en": "This is a very nice word.",
+      "zh": "这是一个非常好的词。"
+    },
+    {
+      "id": 105,
+      "start": 357.92,
+      "end": 361.73,
+      "en": "So why don't we listen to some examples of how we can use it in context?",
+      "zh": "那么我们为什么不听一些关于如何在上下文中使用它的例子呢？"
+    },
+    {
+      "id": 106,
+      "start": 363.68,
+      "end": 367.2,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 107,
+      "start": 367.2,
+      "end": 368.57,
+      "en": "Don't take that belligerent tone with me.",
+      "zh": "不要随身携带那种好战的语气。"
+    },
+    {
+      "id": 108,
+      "start": 368.76,
+      "end": 369.65,
+      "en": "I don't want to argue with you.",
+      "zh": "我不想和你争论。"
+    },
+    {
+      "id": 109,
+      "start": 372.84,
+      "end": 375.8,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 110,
+      "start": 375.8,
+      "end": 377.2,
+      "en": "Thomas is always so belligerent.",
+      "zh": "托马斯总是那么好战。"
+    },
+    {
+      "id": 111,
+      "start": 377.64,
+      "end": 379.38,
+      "en": "It is impossible to talk to him.",
+      "zh": "和他说话是不可能的。"
+    },
+    {
+      "id": 112,
+      "start": 381.8,
+      "end": 385.32,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 113,
+      "start": 385.32,
+      "end": 388.96,
+      "en": "Stacey was fired for her belligerent attitude.",
+      "zh": "斯泰西因为她的好战态度而被解雇。"
+    },
+    {
+      "id": 114,
+      "start": 389.68,
+      "end": 390.4,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 115,
+      "start": 390.6,
+      "end": 396.84,
+      "en": "So I can understand that it means sort of aggressive, having a strong willingness to fight.",
+      "zh": "所以我可以理解，这意味着有点好斗，有强烈的战斗意愿。"
+    },
+    {
+      "id": 116,
+      "start": 397.56,
+      "end": 398.56,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 117,
+      "start": 398.56,
+      "end": 402.36,
+      "en": "A belligerent person, a belligerent attitude, a belligerent country.",
+      "zh": "一个好战的人，一个好战的态度，一个好战的国家。"
+    },
+    {
+      "id": 118,
+      "start": 402.36,
+      "end": 403.36,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 119,
+      "start": 403.36,
+      "end": 404.36,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 120,
+      "start": 404.36,
+      "end": 405.28,
+      "en": "And our last word for today.",
+      "zh": "以及我们今天的最后一句话。"
+    },
+    {
+      "id": 121,
+      "start": 405.92,
+      "end": 406.16,
+      "en": "Anguish.",
+      "zh": "极度痛苦。"
+    },
+    {
+      "id": 122,
+      "start": 406.92,
+      "end": 407.12,
+      "en": "Anguish.",
+      "zh": "极度痛苦。"
+    },
+    {
+      "id": 123,
+      "start": 407.92,
+      "end": 408.92,
+      "en": "Anguish.",
+      "zh": "极度痛苦。"
+    },
+    {
+      "id": 124,
+      "start": 408.92,
+      "end": 411.2,
+      "en": "So to cause great anguish.",
+      "zh": "所以要引起巨大的痛苦。"
+    },
+    {
+      "id": 125,
+      "start": 411.2,
+      "end": 415.08,
+      "en": "To cause a lot of terrible emotional or physical pain.",
+      "zh": "造成很多可怕的情绪或身体上的痛苦。"
+    },
+    {
+      "id": 126,
+      "start": 415.52,
+      "end": 415.64,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 127,
+      "start": 416.52,
+      "end": 419.16,
+      "en": "So it is a synonym of pain, of suffering.",
+      "zh": "所以它是痛苦和痛苦的同义词。"
+    },
+    {
+      "id": 128,
+      "start": 419.16,
+      "end": 420.16,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 129,
+      "start": 420.16,
+      "end": 421.1,
+      "en": "But really intense suffering.",
+      "zh": "但真的很痛苦。"
+    },
+    {
+      "id": 130,
+      "start": 421.68,
+      "end": 421.92,
+      "en": "Really intense.",
+      "zh": "真的很激烈。"
+    },
+    {
+      "id": 131,
+      "start": 422.68,
+      "end": 423.38,
+      "en": "Why don't we give a few examples?",
+      "zh": "我们为什么不举几个例子？"
+    },
+    {
+      "id": 132,
+      "start": 425.04,
+      "end": 428.12,
+      "en": "The end of his marriage caused him great anguish.",
+      "zh": "他的婚姻结束给他带来了巨大的痛苦。"
+    },
+    {
+      "id": 133,
+      "start": 429.16,
+      "end": 433.46,
+      "en": "Or for example, the loss of his dog caused him great anguish.",
+      "zh": "或者，例如，失去他的狗给他带来了巨大的痛苦。"
+    },
+    {
+      "id": 134,
+      "start": 433.98,
+      "end": 434.34,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 135,
+      "start": 434.6,
+      "end": 435.6,
+      "en": "So anguish.",
+      "zh": "太痛苦了。"
+    },
+    {
+      "id": 136,
+      "start": 435.6,
+      "end": 436.6,
+      "en": "Alright.",
+      "zh": "好的。"
+    },
+    {
+      "id": 137,
+      "start": 436.6,
+      "end": 439.08,
+      "en": "So we've covered five great words on Language Takeaway today.",
+      "zh": "所以我们今天已经介绍了五个关于语言外卖的好词。"
+    },
+    {
+      "id": 138,
+      "start": 439.76,
+      "end": 442.0,
+      "en": "Why don't we move on now to putting it together?",
+      "zh": "我们为什么不现在继续把它放在一起呢？"
+    },
+    {
+      "id": 139,
+      "start": 445.28,
+      "end": 446.06,
+      "en": "Putting it together.",
+      "zh": "综合运用。"
+    },
+    {
+      "id": 140,
+      "start": 448.85,
+      "end": 449.33,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 141,
+      "start": 449.44,
+      "end": 454.83,
+      "en": "We're going to look at three phrases that we heard in the dialogue and see how we can use them in different contexts.",
+      "zh": "我们将查看我们在对话中听到的三个短语，看看我们如何在不同的环境中使用它们。"
+    },
+    {
+      "id": 142,
+      "start": 455.45,
+      "end": 461.87,
+      "en": "So the aliens were praising some of the masterpieces that the humans have created, right?",
+      "zh": "所以外星人在赞美人类创造的一些杰作，对吧？"
+    },
+    {
+      "id": 143,
+      "start": 462.29,
+      "end": 462.53,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 144,
+      "start": 463.15,
+      "end": 470.07,
+      "en": "He said, you humans create such wonders as the Taj Mahal, blah, blah, blah.",
+      "zh": "他说，你们人类创造了泰姬陵、废话、废话、废话等奇迹。"
+    },
+    {
+      "id": 145,
+      "start": 470.31,
+      "end": 470.73,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 146,
+      "start": 471.13,
+      "end": 474.09,
+      "en": "So let's look at this phrase, such wonders as.",
+      "zh": "所以让我们看看这个短语，比如奇迹。"
+    },
+    {
+      "id": 147,
+      "start": 474.32,
+      "end": 475.32,
+      "en": "Alright.",
+      "zh": "好的。"
+    },
+    {
+      "id": 148,
+      "start": 475.32,
+      "end": 477.39,
+      "en": "So we have a noun here, a wonder.",
+      "zh": "所以我们在这里有一个名词，一个奇迹。"
+    },
+    {
+      "id": 149,
+      "start": 478.56,
+      "end": 479.6,
+      "en": "An amazing thing.",
+      "zh": "一个了不起的事情。"
+    },
+    {
+      "id": 150,
+      "start": 479.6,
+      "end": 480.25,
+      "en": "An amazing structure.",
+      "zh": "一个惊人的结构。"
+    },
+    {
+      "id": 151,
+      "start": 480.76,
+      "end": 481.76,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 152,
+      "start": 481.76,
+      "end": 483.23,
+      "en": "He says such wonders as.",
+      "zh": "他说这样的奇迹。"
+    },
+    {
+      "id": 153,
+      "start": 483.48,
+      "end": 486.96,
+      "en": "Now we can change this noun and replace it with another one, right?",
+      "zh": "现在我们可以改变这个名词并用另一个名词替换它，对吧？"
+    },
+    {
+      "id": 154,
+      "start": 486.96,
+      "end": 487.96,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 155,
+      "start": 487.96,
+      "end": 489.17,
+      "en": "We can replace that noun with anything.",
+      "zh": "我们可以用任何东西代替这个名词。"
+    },
+    {
+      "id": 156,
+      "start": 489.64,
+      "end": 490.81,
+      "en": "So why don't we hear a few examples?",
+      "zh": "那么为什么我们没有听到一些例子呢？"
+    },
+    {
+      "id": 157,
+      "start": 492.56,
+      "end": 492.85,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 158,
+      "start": 495.2,
+      "end": 499.16,
+      "en": "To finish this house, we need such materials as cement, wood, and steel.",
+      "zh": "要完成这座房子，我们需要水泥、木材和钢材等材料。"
+    },
+    {
+      "id": 159,
+      "start": 502.28,
+      "end": 505.48,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 160,
+      "start": 505.48,
+      "end": 509.8,
+      "en": "I need to write a report on a social topic such as psychology, health, or marriage.",
+      "zh": "我需要写一篇关于心理学、健康或婚姻等社会话题的报告。"
+    },
+    {
+      "id": 161,
+      "start": 513.32,
+      "end": 513.82,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 162,
+      "start": 516.84,
+      "end": 522.02,
+      "en": "Companies have found that social networking sites such as Facebook and Twitter are great marketing opportunities.",
+      "zh": "公司发现，Facebook 和 Twitter 等社交网站是很好的营销机会。"
+    },
+    {
+      "id": 163,
+      "start": 524.4,
+      "end": 529.5,
+      "en": "So this is a really useful structure to use when you want to give examples of many different things.",
+      "zh": "因此，当您想举出许多不同事物的示例时，这是一个非常有用的结构。"
+    },
+    {
+      "id": 164,
+      "start": 530.28,
+      "end": 531.28,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 165,
+      "start": 531.28,
+      "end": 539.0,
+      "en": "and as the alien was criticizing the humans, the guy said, what gives you the right to come and judge us?",
+      "zh": "当外星人在批评人类时，那家伙说，是什么让你有权来评判我们？"
+    },
+    {
+      "id": 166,
+      "start": 540.04,
+      "end": 540.8,
+      "en": "So interesting phrase.",
+      "zh": "好有趣的短语。"
+    },
+    {
+      "id": 167,
+      "start": 541.4,
+      "end": 542.5,
+      "en": "What gives you the right?",
+      "zh": "是什么给了你权利？"
+    },
+    {
+      "id": 168,
+      "start": 543.32,
+      "end": 544.48,
+      "en": "What gives you the right?",
+      "zh": "是什么给了你权利？"
+    },
+    {
+      "id": 169,
+      "start": 544.92,
+      "end": 545.6,
+      "en": "What gives you the right?",
+      "zh": "是什么给了你权利？"
+    },
+    {
+      "id": 170,
+      "start": 546.06,
+      "end": 546.7,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 171,
+      "start": 546.92,
+      "end": 551.0,
+      "en": "So if I tell you what gives you the right to, and then a verb.",
+      "zh": "所以如果我告诉你是什么赋予你权利，然后是动词。"
+    },
+    {
+      "id": 172,
+      "start": 551.4,
+      "end": 552.4,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 173,
+      "start": 552.4,
+      "end": 553.4,
+      "en": "What am I saying there?",
+      "zh": "我在那里说什么？"
+    },
+    {
+      "id": 174,
+      "start": 553.4,
+      "end": 556.78,
+      "en": "You're basically saying you don't have the right to do this.",
+      "zh": "你基本上是说你没有权利这样做。"
+    },
+    {
+      "id": 175,
+      "start": 557.16,
+      "end": 557.96,
+      "en": "You shouldn't do this.",
+      "zh": "你不应该这样做。"
+    },
+    {
+      "id": 176,
+      "start": 559.08,
+      "end": 559.96,
+      "en": "Why are you doing it?",
+      "zh": "你为什么要这样做？"
+    },
+    {
+      "id": 177,
+      "start": 560.16,
+      "end": 562.68,
+      "en": "Or why do you want to have this control over me?",
+      "zh": "或者你为什么要对我进行这种控制？"
+    },
+    {
+      "id": 178,
+      "start": 563.08,
+      "end": 564.08,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 179,
+      "start": 564.08,
+      "end": 565.26,
+      "en": "So when would you use this phrase?",
+      "zh": "那么你什么时候会用这个短语呢？"
+    },
+    {
+      "id": 180,
+      "start": 566.24,
+      "end": 576.84,
+      "en": "If somebody is trying to control you or maybe somebody is judging you or doing something to you against your will, maybe, you would say, what gives you the right to take my phone away?",
+      "zh": "如果有人试图控制你，或者有人正在评判你或违背你的意愿对你做某事，也许，你会说，是什么让你有权拿走我的手机？"
+    },
+    {
+      "id": 181,
+      "start": 577.76,
+      "end": 579.38,
+      "en": "What gives you the right to tell me what to do?",
+      "zh": "是什么让你有权告诉我该怎么做？"
+    },
+    {
+      "id": 182,
+      "start": 579.86,
+      "end": 580.34,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 183,
+      "start": 580.7,
+      "end": 584.42,
+      "en": "It's a good phrase to tell that other person that they shouldn't do that.",
+      "zh": "告诉其他人他们不应该这样做是一个很好的短语。"
+    },
+    {
+      "id": 184,
+      "start": 584.54,
+      "end": 585.58,
+      "en": "They're doing something unfair.",
+      "zh": "他们正在做一些不公平的事情。"
+    },
+    {
+      "id": 185,
+      "start": 585.84,
+      "end": 586.3,
+      "en": "Unfair.",
+      "zh": "不公平。"
+    },
+    {
+      "id": 186,
+      "start": 586.3,
+      "end": 586.64,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 187,
+      "start": 588.2,
+      "end": 589.02,
+      "en": "And our next phrase is very similar.",
+      "zh": "我们的下一个短语非常相似。"
+    },
+    {
+      "id": 188,
+      "start": 590.04,
+      "end": 592.86,
+      "en": "Who are you to play God with our fate?",
+      "zh": "你凭什么主宰我们的命运？"
+    },
+    {
+      "id": 189,
+      "start": 593.48,
+      "end": 593.76,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 190,
+      "start": 593.8,
+      "end": 594.76,
+      "en": "So I want to look at this.",
+      "zh": "所以我想看看这个。"
+    },
+    {
+      "id": 191,
+      "start": 595.36,
+      "end": 596.36,
+      "en": "To play God.",
+      "zh": "扮演上帝。"
+    },
+    {
+      "id": 192,
+      "start": 597.1,
+      "end": 597.36,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 193,
+      "start": 597.4,
+      "end": 601.52,
+      "en": "So to play God is making these arbitrary decisions.",
+      "zh": "所以扮演上帝就是做出这些任意的决定。"
+    },
+    {
+      "id": 194,
+      "start": 602.24,
+      "end": 603.78,
+      "en": "Like he is the master of everything.",
+      "zh": "就像他是一切的主人。"
+    },
+    {
+      "id": 195,
+      "start": 604.12,
+      "end": 605.12,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 196,
+      "start": 605.12,
+      "end": 606.12,
+      "en": "Controlling everything.",
+      "zh": "控制一切。"
+    },
+    {
+      "id": 197,
+      "start": 606.12,
+      "end": 608.36,
+      "en": "But this phrase, who are you to?",
+      "zh": "但是这句话，你是谁？"
+    },
+    {
+      "id": 198,
+      "start": 609.32,
+      "end": 613.56,
+      "en": "So basically saying you don't have the power or authority to do this.",
+      "zh": "所以基本上说你没有权力或权限来做到这一点。"
+    },
+    {
+      "id": 199,
+      "start": 614.48,
+      "end": 616.76,
+      "en": "And you can use it in exactly the same way.",
+      "zh": "您可以以完全相同的方式使用它。"
+    },
+    {
+      "id": 200,
+      "start": 616.76,
+      "end": 618.12,
+      "en": "Who are you to tell me what to do?",
+      "zh": "你是谁告诉我该怎么做？"
+    },
+    {
+      "id": 201,
+      "start": 618.68,
+      "end": 620.64,
+      "en": "Who are you to take away my phone?",
+      "zh": "你是谁拿走我的手机？"
+    },
+    {
+      "id": 202,
+      "start": 621.3,
+      "end": 621.82,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 203,
+      "start": 622.04,
+      "end": 623.36,
+      "en": "So you don't have the power to do this.",
+      "zh": "所以你没有能力这样做。"
+    },
+    {
+      "id": 204,
+      "start": 623.62,
+      "end": 624.02,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 205,
+      "start": 624.28,
+      "end": 628.66,
+      "en": "So these phrases are a little bit aggressive, almost belligerent, wouldn't you say?",
+      "zh": "所以这些短语有点咄咄逼人，几乎好战，你不说吗？"
+    },
+    {
+      "id": 206,
+      "start": 629.04,
+      "end": 629.78,
+      "en": "A little bit.",
+      "zh": "有一点。"
+    },
+    {
+      "id": 207,
+      "start": 629.78,
+      "end": 638.54,
+      "en": "But I guess if you are being treated unfair or if you are angry at a situation, it would be a good phrase to use to put your point across.",
+      "zh": "但我想如果你受到不公平对待或对某种情况感到愤怒，这将是一个很好的短语来表达你的观点。"
+    },
+    {
+      "id": 208,
+      "start": 638.8,
+      "end": 638.94,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 209,
+      "start": 638.94,
+      "end": 641.86,
+      "en": "And as we saw, these humans are pretty angry.",
+      "zh": "正如我们所看到的，这些人非常生气。"
+    },
+    {
+      "id": 210,
+      "start": 642.28,
+      "end": 648.2,
+      "en": "So why don't we listen again as they're telling the aliens, who are you to do this to us?",
+      "zh": "那么，我们为什么不再听一遍，因为他们告诉外星人，你是谁来对我们做这件事呢？"
+    },
+    {
+      "id": 211,
+      "start": 648.64,
+      "end": 660.32,
+      "en": "Oh, honey, this is so romantic.",
+      "zh": "亲爱的，这也太浪漫了。"
+    },
+    {
+      "id": 212,
+      "start": 660.32,
+      "end": 663.8,
+      "en": "I have never seen like so many stars before.",
+      "zh": "我从没见过这么多星星。"
+    },
+    {
+      "id": 213,
+      "start": 663.8,
+      "end": 664.21,
+      "en": "It's beautiful.",
+      "zh": "它很漂亮。"
+    },
+    {
+      "id": 214,
+      "start": 665.28,
+      "end": 666.33,
+      "en": "See that constellation there?",
+      "zh": "看到那片星座了吗？"
+    },
+    {
+      "id": 215,
+      "start": 667.32,
+      "end": 667.73,
+      "en": "That's Orion.",
+      "zh": "那是猎户座。"
+    },
+    {
+      "id": 216,
+      "start": 668.61,
+      "end": 669.81,
+      "en": "And the very bright star?",
+      "zh": "那颗特别亮的呢？"
+    },
+    {
+      "id": 217,
+      "start": 670.45,
+      "end": 672.43,
+      "en": "Well, it's not a star because it doesn't blink.",
+      "zh": "那不是恒星，它不会闪烁。"
+    },
+    {
+      "id": 218,
+      "start": 673.07,
+      "end": 674.23,
+      "en": "That's actually Venus.",
+      "zh": "那其实是金星。"
+    },
+    {
+      "id": 219,
+      "start": 675.59,
+      "end": 679.09,
+      "en": "What's that big, flashy one?",
+      "zh": "那个又大又闪亮的是什么？"
+    },
+    {
+      "id": 220,
+      "start": 679.97,
+      "end": 680.71,
+      "en": "I don't know.",
+      "zh": "我不知道。"
+    },
+    {
+      "id": 221,
+      "start": 681.65,
+      "end": 682.51,
+      "en": "I think it's a UFO.",
+      "zh": "我觉得是飞碟。"
+    },
+    {
+      "id": 222,
+      "start": 683.16,
+      "end": 684.16,
+      "en": "Greetings, Earthlings.",
+      "zh": "地球人，你们好。"
+    },
+    {
+      "id": 223,
+      "start": 697.46,
+      "end": 701.36,
+      "en": "I come from afar, from a distant galaxy known only to a few.",
+      "zh": "我来自遥远的星系，只有少数人知道它的存在。"
+    },
+    {
+      "id": 224,
+      "start": 701.84,
+      "end": 702.82,
+      "en": "Why are you here?",
+      "zh": "你为什么在这里？"
+    },
+    {
+      "id": 225,
+      "start": 703.42,
+      "end": 705.02,
+      "en": "Where did you come from?",
+      "zh": "你从哪里来的？"
+    },
+    {
+      "id": 226,
+      "start": 706.56,
+      "end": 709.18,
+      "en": "We have been observing you for the last three thousand years.",
+      "zh": "我们已经观察你们三千年了。"
+    },
+    {
+      "id": 227,
+      "start": 709.7,
+      "end": 716.46,
+      "en": "We have seen your amazing capacity that humans have to create such wonders as the Taj Mahal or masterpieces such as the Hafner Symphony.",
+      "zh": "我们见证了人类惊人的创造力：你们建造了泰姬陵，还谱写了《哈夫纳交响曲》这样的杰作。"
+    },
+    {
+      "id": 228,
+      "start": 717.28,
+      "end": 720.78,
+      "en": "Unfortunately, your intelligence and creativity does not come without consequence.",
+      "zh": "可惜，智慧和创造力也会带来后果。"
+    },
+    {
+      "id": 229,
+      "start": 721.54,
+      "end": 725.66,
+      "en": "Your ambition and desire for more will be your downfall, and we are here to save your planet from you.",
+      "zh": "你们的野心和无尽欲望终将毁灭自己，我们是来拯救这颗星球，免遭你们摧残。"
+    },
+    {
+      "id": 230,
+      "start": 726.93,
+      "end": 728.55,
+      "en": "You think you have us figured out?",
+      "zh": "你自以为把我们看透了？"
+    },
+    {
+      "id": 231,
+      "start": 728.97,
+      "end": 731.13,
+      "en": "What gives you the right to come and judge us?",
+      "zh": "是什么让您有权来评判我们？"
+    },
+    {
+      "id": 232,
+      "start": 731.69,
+      "end": 733.71,
+      "en": "Who are you to play God with our fate?",
+      "zh": "你凭什么主宰我们的命运？"
+    },
+    {
+      "id": 233,
+      "start": 734.16,
+      "end": 735.16,
+      "en": "Silence, human.",
+      "zh": "闭嘴，人类。"
+    },
+    {
+      "id": 234,
+      "start": 736.15,
+      "end": 739.93,
+      "en": "It is that belligerent attitude that has caused years of pain and anguish among yourselves.",
+      "zh": "你们这种好斗的态度多年来给彼此带来无尽痛苦。"
+    },
+    {
+      "id": 235,
+      "start": 740.35,
+      "end": 741.25,
+      "en": "Now you will pay the price.",
+      "zh": "现在你们要为此付出代价。"
+    },
+    {
+      "id": 236,
+      "start": 765.06,
+      "end": 768.7,
+      "en": "Okay so UFOs and constellations and stars and planets.",
+      "zh": "好的，不明飞行物、星座、恒星和行星。"
+    },
+    {
+      "id": 237,
+      "start": 769.32,
+      "end": 771.28,
+      "en": "Have you ever had an encounter with one of these?",
+      "zh": "你有没有遇到过其中之一？"
+    },
+    {
+      "id": 238,
+      "start": 771.58,
+      "end": 777.12,
+      "en": "Well definitely not an encounter with a UFO but maybe with some of the wonders of the night sky.",
+      "zh": "好吧，绝对不是与不明飞行物的相遇，而是与夜空的一些奇迹相遇。"
+    },
+    {
+      "id": 239,
+      "start": 777.94,
+      "end": 778.56,
+      "en": "What happened?",
+      "zh": "发生什么事了？"
+    },
+    {
+      "id": 240,
+      "start": 778.94,
+      "end": 799.97,
+      "en": "Well you know when I was small I used to have my vacations up in northern Canada and because it was so far away from the city it was really dark and you could see all of these shooting stars so these stars moving across the sky and lighting up the whole sky with their brightness and it really is one of the most beautiful things I've ever seen.",
+      "zh": "好吧，你知道当我小的时候，我曾经在加拿大北部度假，因为它离城市太远了，它真的很黑，你可以看到所有这些流星，所以这些星星在天空中移动，用它们的亮度照亮了整个天空，这真的是我所拥有的最美丽的事物之一 见过。"
+    },
+    {
+      "id": 241,
+      "start": 800.29,
+      "end": 804.4,
+      "en": "So shooting stars those are like balls of fire that move across the sky right?",
+      "zh": "那么流星就像在天空中移动的火球一样吗？"
+    },
+    {
+      "id": 242,
+      "start": 804.58,
+      "end": 821.54,
+      "en": "Yeah exactly and I saw once actually I was in an astronomy class and turned around and over the horizon like at the end of the sky where the sky meets the earth I saw this huge ball of fire move across the sky and it looked like it landed in the field next to us it was so close.",
+      "zh": "是的，我确实看到过一次我在天文学课上，像天空的尽头一样转过地平线，我看到这个巨大的火球在天空中移动，看起来它落在了我们旁边的场地上，它是如此接近。"
+    },
+    {
+      "id": 243,
+      "start": 821.84,
+      "end": 822.62,
+      "en": "Wow that's nice.",
+      "zh": "哇，太好了。"
+    },
+    {
+      "id": 244,
+      "start": 822.88,
+      "end": 824.44,
+      "en": "Yeah pretty amazing.",
+      "zh": "是的，相当惊人。"
+    },
+    {
+      "id": 245,
+      "start": 824.44,
+      "end": 830.11,
+      "en": "Well I imagine that it is really amazing and I guess Canada is the place to be when you want to see these things.",
+      "zh": "好吧，我想这真的很棒，我想加拿大是你想看这些东西的地方。"
+    },
+    {
+      "id": 246,
+      "start": 830.4,
+      "end": 834.77,
+      "en": "I know we've got like northern lights, we've got shooting stars, lots of stuff.",
+      "zh": "我知道我们有北极光，我们有流星，很多东西。"
+    },
+    {
+      "id": 247,
+      "start": 835.23,
+      "end": 837.03,
+      "en": "Alright so what about you guys?",
+      "zh": "好吧，你们呢？"
+    },
+    {
+      "id": 248,
+      "start": 837.25,
+      "end": 844.21,
+      "en": "You should tell us if you've ever seen a shooting star or a meteor or something of this type of astronomy things right?",
+      "zh": "你应该告诉我们你是否见过流星或流星或类似天文学的东西，对吧？"
+    },
+    {
+      "id": 249,
+      "start": 844.37,
+      "end": 845.63,
+      "en": "Or even a UFO.",
+      "zh": "甚至是不明飞行物。"
+    },
+    {
+      "id": 250,
+      "start": 846.6,
+      "end": 854.88,
+      "en": "Alright so come to our website englishpod.com be sure to leave your questions and your comments and Erica and I are there to answer any questions or doubts.",
+      "zh": "好的，请访问我们的网站 englishpod.com 一定要留下您的问题和您的评论，Erica 和我在那里回答任何问题或疑问。"
+    },
+    {
+      "id": 251,
+      "start": 855.4,
+      "end": 866.795,
+      "en": "So thanks for downloading you guys and until next time goodbye!",
+      "zh": "所以感谢你们下载你们，直到下次再见！"
+    }
+  ],
+  "dialog": {
+    "start": 648.64,
+    "end": 741.25,
+    "segmentIds": [
+      211,
+      212,
+      213,
+      214,
+      215,
+      216,
+      217,
+      218,
+      219,
+      220,
+      221,
+      222,
+      223,
+      224,
+      225,
+      226,
+      227,
+      228,
+      229,
+      230,
+      231,
+      232,
+      233,
+      234,
+      235
+    ]
+  }
+}

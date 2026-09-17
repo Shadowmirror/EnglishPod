@@ -1,0 +1,1928 @@
+{
+  "version": 1,
+  "id": 49,
+  "number": "0049",
+  "title": "Daily Life - Daddy Please!",
+  "audio": "mp3/49. Daily Life - Daddy Please!.mp3",
+  "duration": 715.3633125,
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.58,
+      "end": 2.4,
+      "en": "Hello, English learners.",
+      "zh": "各位英语学习者，大家好。"
+    },
+    {
+      "id": 2,
+      "start": 2.8,
+      "end": 4.26,
+      "en": "Welcome back to EnglishPod.",
+      "zh": "欢迎回到 EnglishPod。"
+    },
+    {
+      "id": 3,
+      "start": 4.26,
+      "end": 4.8,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 4,
+      "start": 5.18,
+      "end": 5.76,
+      "en": "And I'm Erica.",
+      "zh": "我叫 Erica。"
+    },
+    {
+      "id": 5,
+      "start": 6.44,
+      "end": 9.74,
+      "en": "And today we're going to be talking about a really common situation with parents.",
+      "zh": "今天我们将谈论与父母非常普遍的情况。"
+    },
+    {
+      "id": 6,
+      "start": 10.08,
+      "end": 17.24,
+      "en": "Yeah, when you're a teenager, you always need to ask your parents for money, ask your parents for the car, or ask your parents if you can do something.",
+      "zh": "是的，当你十几岁的时候，你总是需要向你的父母要钱，向你的父母要车，或者问你的父母是否可以做点什么。"
+    },
+    {
+      "id": 7,
+      "start": 17.5,
+      "end": 17.68,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 8,
+      "start": 18.0,
+      "end": 22.72,
+      "en": "And that's what we're going to be looking at is how you can ask for permission for the car, for money.",
+      "zh": "这就是我们要研究的是如何为汽车和金钱请求许可。"
+    },
+    {
+      "id": 9,
+      "start": 23.02,
+      "end": 23.18,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 10,
+      "start": 24.12,
+      "end": 27.16,
+      "en": "And these phrases are not only for your parents, right?",
+      "zh": "这些短语不只是给你父母的，对吧？"
+    },
+    {
+      "id": 11,
+      "start": 27.21,
+      "end": 34.01,
+      "en": "No, you could use them in your office with your boss or for any situation where you need to ask politely.",
+      "zh": "不，您可以在办公室与您的老板或您需要礼貌地询问的任何情况下使用它们。"
+    },
+    {
+      "id": 12,
+      "start": 34.4,
+      "end": 35.4,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 13,
+      "start": 35.4,
+      "end": 39.96,
+      "en": "Okay, so let's take a look at Vocabulary Preview.",
+      "zh": "好的，让我们来看看词汇预览。"
+    },
+    {
+      "id": 14,
+      "start": 39.96,
+      "end": 41.52,
+      "en": "Vocabulary Preview.",
+      "zh": "词汇预习。"
+    },
+    {
+      "id": 15,
+      "start": 41.52,
+      "end": 44.48,
+      "en": "We have one word for you today.",
+      "zh": "今天我们有一个字给你。"
+    },
+    {
+      "id": 16,
+      "start": 44.48,
+      "end": 45.48,
+      "en": "Concerts.",
+      "zh": "音乐会。"
+    },
+    {
+      "id": 17,
+      "start": 45.48,
+      "end": 46.05,
+      "en": "Concerts.",
+      "zh": "音乐会。"
+    },
+    {
+      "id": 18,
+      "start": 46.61,
+      "end": 47.29,
+      "en": "Concerts.",
+      "zh": "音乐会。"
+    },
+    {
+      "id": 19,
+      "start": 47.47,
+      "end": 48.35,
+      "en": "A concert.",
+      "zh": "一场音乐会。"
+    },
+    {
+      "id": 20,
+      "start": 49.05,
+      "end": 51.31,
+      "en": "A concert is an event, right?",
+      "zh": "音乐会是一场活动，对吧？"
+    },
+    {
+      "id": 21,
+      "start": 51.8,
+      "end": 52.8,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 22,
+      "start": 52.8,
+      "end": 53.35,
+      "en": "Where people play music.",
+      "zh": "人们播放音乐的地方。"
+    },
+    {
+      "id": 23,
+      "start": 54.2,
+      "end": 55.2,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 24,
+      "start": 55.2,
+      "end": 58.38,
+      "en": "So you have different types of concerts, like a rock concert.",
+      "zh": "所以你有不同类型的音乐会，比如摇滚音乐会。"
+    },
+    {
+      "id": 25,
+      "start": 58.72,
+      "end": 59.42,
+      "en": "They play rock music.",
+      "zh": "他们演奏摇滚音乐。"
+    },
+    {
+      "id": 26,
+      "start": 59.96,
+      "end": 60.72,
+      "en": "Or a pop concert.",
+      "zh": "或流行音乐会。"
+    },
+    {
+      "id": 27,
+      "start": 61.18,
+      "end": 61.96,
+      "en": "Yeah, a pop music.",
+      "zh": "是的，流行音乐。"
+    },
+    {
+      "id": 28,
+      "start": 62.26,
+      "end": 64.36,
+      "en": "Or even a classical music concert.",
+      "zh": "甚至是古典音乐会。"
+    },
+    {
+      "id": 29,
+      "start": 64.7,
+      "end": 67.6,
+      "en": "Exactly, where you have people playing violins and pianos.",
+      "zh": "确切地说，人们在拉小提琴和钢琴的地方。"
+    },
+    {
+      "id": 30,
+      "start": 67.92,
+      "end": 68.92,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 31,
+      "start": 68.92,
+      "end": 69.12,
+      "en": "Okay, concert.",
+      "zh": "好吧，演唱会。"
+    },
+    {
+      "id": 32,
+      "start": 69.92,
+      "end": 71.18,
+      "en": "So concerts are always for music.",
+      "zh": "所以音乐会总是为了音乐。"
+    },
+    {
+      "id": 33,
+      "start": 71.56,
+      "end": 71.78,
+      "en": "Yeah, exactly.",
+      "zh": "对，没错。"
+    },
+    {
+      "id": 34,
+      "start": 72.14,
+      "end": 72.86,
+      "en": "They're always for music.",
+      "zh": "他们总是为了音乐。"
+    },
+    {
+      "id": 35,
+      "start": 73.46,
+      "end": 76.16,
+      "en": "Well, with that, let's go into our dialogue.",
+      "zh": "好吧，有了这个，让我们进入我们的对话。"
+    },
+    {
+      "id": 36,
+      "start": 76.68,
+      "end": 78.32,
+      "en": "Marco, what happens here?",
+      "zh": "马可，这里发生了什么？"
+    },
+    {
+      "id": 37,
+      "start": 78.4,
+      "end": 84.62,
+      "en": "Well, basically we have a teenage girl who needs to go to a concert and is asking her dad for something.",
+      "zh": "好吧，基本上我们有一个十几岁的女孩需要去听音乐会，并向她爸爸要东西。"
+    },
+    {
+      "id": 38,
+      "start": 84.8,
+      "end": 85.8,
+      "en": "All right, let's listen.",
+      "zh": "好，我们来听一听。"
+    },
+    {
+      "id": 39,
+      "start": 91.5,
+      "end": 92.08,
+      "en": "Hey, Daddy!",
+      "zh": "嘿，爸爸！"
+    },
+    {
+      "id": 40,
+      "start": 92.78,
+      "end": 93.72,
+      "en": "You look great today.",
+      "zh": "你今天看起来很棒。"
+    },
+    {
+      "id": 41,
+      "start": 94.26,
+      "end": 95.0,
+      "en": "I like your tie.",
+      "zh": "我喜欢你的领带。"
+    },
+    {
+      "id": 42,
+      "start": 95.74,
+      "end": 97.62,
+      "en": "By the way, I was wondering, can I...",
+      "zh": "顺便说一句，我想知道，我可以..."
+    },
+    {
+      "id": 43,
+      "start": 97.92,
+      "end": 100.64,
+      "en": "No! I haven't even told you what it is yet!",
+      "zh": "不是! 我什至还没有告诉你它是什么！"
+    },
+    {
+      "id": 44,
+      "start": 101.26,
+      "end": 102.76,
+      "en": "Okay, okay, what do you want?",
+      "zh": "好吧，好吧，你想要什么？"
+    },
+    {
+      "id": 45,
+      "start": 103.36,
+      "end": 105.18,
+      "en": "Do you think I could borrow the car?",
+      "zh": "我能借车用用吗？"
+    },
+    {
+      "id": 46,
+      "start": 106.0,
+      "end": 109.75,
+      "en": "I'm going to a concert tonight. Um, I don't think so.",
+      "zh": "我今晚要去听音乐会。 嗯，我不这么认为。"
+    },
+    {
+      "id": 47,
+      "start": 110.25,
+      "end": 111.81,
+      "en": "I need the car tonight to pick up your mother.",
+      "zh": "我今晚需要车来接你妈妈。"
+    },
+    {
+      "id": 48,
+      "start": 112.11,
+      "end": 114.39,
+      "en": "Ugh, I told you about it last week!",
+      "zh": "呃，我上周告诉过你！"
+    },
+    {
+      "id": 49,
+      "start": 114.91,
+      "end": 117.95,
+      "en": "Smelly Toes is playing, and Eric asked if I would go with him!",
+      "zh": "Smelly Toes 正在玩耍，Eric 问我是否愿意和他一起去！"
+    },
+    {
+      "id": 50,
+      "start": 118.41,
+      "end": 122.99,
+      "en": "Who is this Eric guy? Duh! He's like the hottest and most popular guy at school!",
+      "zh": "这个埃里克人是谁？ 呵呵！ 他就像学校里最炙手可热、最受欢迎的人！"
+    },
+    {
+      "id": 51,
+      "start": 123.41,
+      "end": 124.37,
+      "en": "Come on, Dad, please!",
+      "zh": "来吧，爸爸，拜托！"
+    },
+    {
+      "id": 52,
+      "start": 125.19,
+      "end": 126.19,
+      "en": "No can do, sorry.",
+      "zh": "不行，对不起。"
+    },
+    {
+      "id": 53,
+      "start": 126.83,
+      "end": 127.39,
+      "en": "Fine then!",
+      "zh": "那好吧！"
+    },
+    {
+      "id": 54,
+      "start": 127.91,
+      "end": 129.53,
+      "en": "Would you mind giving me a hundred bucks?",
+      "zh": "你介意给我一百块钱吗？"
+    },
+    {
+      "id": 55,
+      "start": 129.95,
+      "end": 130.89,
+      "en": "No way!",
+      "zh": "不会吧！"
+    },
+    {
+      "id": 56,
+      "start": 131.29,
+      "end": 132.83,
+      "en": "Ugh, that's so unfair!",
+      "zh": "呃，这太不公平了！"
+    },
+    {
+      "id": 57,
+      "start": 137.29,
+      "end": 138.11,
+      "en": "Teenagers, huh?",
+      "zh": "少年吧？"
+    },
+    {
+      "id": 58,
+      "start": 138.43,
+      "end": 140.59,
+      "en": "Yeah, they're always asking for something.",
+      "zh": "是的，他们总是要求一些东西。"
+    },
+    {
+      "id": 59,
+      "start": 140.91,
+      "end": 143.83,
+      "en": "Yeah, this brings back memories, but I'll tell you about that later.",
+      "zh": "是的，这会带来回忆，但我稍后会告诉你。"
+    },
+    {
+      "id": 60,
+      "start": 144.51,
+      "end": 147.23,
+      "en": "Why don't we take a look at the vocabulary in Language Takeaway?",
+      "zh": "我们为什么不看看语言外卖中的词汇？"
+    },
+    {
+      "id": 61,
+      "start": 149.46,
+      "end": 150.52,
+      "en": "Language Takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 62,
+      "start": 151.94,
+      "end": 155.04,
+      "en": "All right, we've got a few interesting words here.",
+      "zh": "好吧，我们这里有一些有趣的词。"
+    },
+    {
+      "id": 63,
+      "start": 155.5,
+      "end": 157.34,
+      "en": "The first one, hottest.",
+      "zh": "第一个，最热。"
+    },
+    {
+      "id": 64,
+      "start": 158.4,
+      "end": 158.74,
+      "en": "Hottest.",
+      "zh": "最热。"
+    },
+    {
+      "id": 65,
+      "start": 159.42,
+      "end": 159.6,
+      "en": "Hottest.",
+      "zh": "最热。"
+    },
+    {
+      "id": 66,
+      "start": 160.34,
+      "end": 162.74,
+      "en": "So this is the superlative of hot.",
+      "zh": "所以这是热的最高级。"
+    },
+    {
+      "id": 67,
+      "start": 163.14,
+      "end": 163.34,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 68,
+      "start": 163.7,
+      "end": 166.46,
+      "en": "So the hottest guy in school is...",
+      "zh": "所以学校里最火的人是..."
+    },
+    {
+      "id": 69,
+      "start": 166.53,
+      "end": 167.69,
+      "en": "The most handsome...",
+      "zh": "最帅的..."
+    },
+    {
+      "id": 70,
+      "start": 168.39,
+      "end": 170.05,
+      "en": "Yeah, the most sexy guy in school.",
+      "zh": "是的，学校里最性感的人。"
+    },
+    {
+      "id": 71,
+      "start": 170.66,
+      "end": 173.91,
+      "en": "Exactly. So if somebody is hot, they are really attractive.",
+      "zh": "没错。 所以如果有人很热，他们真的很有吸引力。"
+    },
+    {
+      "id": 72,
+      "start": 174.32,
+      "end": 174.91,
+      "en": "Really good looking.",
+      "zh": "长得真好看。"
+    },
+    {
+      "id": 73,
+      "start": 175.11,
+      "end": 175.85,
+      "en": "Really good looking.",
+      "zh": "长得真好看。"
+    },
+    {
+      "id": 74,
+      "start": 176.51,
+      "end": 180.73,
+      "en": "And so, Marco, is this a word that is only used for men?",
+      "zh": "所以，马可，这是一个只用于男人的词吗？"
+    },
+    {
+      "id": 75,
+      "start": 181.45,
+      "end": 183.07,
+      "en": "No, you can also use it for women.",
+      "zh": "不，您也可以将其用于女性。"
+    },
+    {
+      "id": 76,
+      "start": 183.55,
+      "end": 184.69,
+      "en": "And what about things?",
+      "zh": "那么事情呢？"
+    },
+    {
+      "id": 77,
+      "start": 185.38,
+      "end": 191.76,
+      "en": "You know, recently with Paris Hilton, it's more popular with things like, wow, I got a new car.",
+      "zh": "你知道，最近在帕丽斯·希尔顿（Paris Hilton），它更受欢迎，哇，我有一辆新车。"
+    },
+    {
+      "id": 78,
+      "start": 191.79,
+      "end": 192.43,
+      "en": "Wow, that's hot.",
+      "zh": "哇，好热。"
+    },
+    {
+      "id": 79,
+      "start": 192.94,
+      "end": 197.95,
+      "en": "Right. But I guess we maybe should tell our listeners to be careful with this word.",
+      "zh": "对。 但我想我们也许应该告诉我们的听众要小心这个词。"
+    },
+    {
+      "id": 80,
+      "start": 198.41,
+      "end": 200.89,
+      "en": "Yeah, you don't really want to tell somebody you're hot.",
+      "zh": "是的，你真的不想告诉别人你很热。"
+    },
+    {
+      "id": 81,
+      "start": 201.37,
+      "end": 201.71,
+      "en": "No.",
+      "zh": "不。"
+    },
+    {
+      "id": 82,
+      "start": 202.17,
+      "end": 203.13,
+      "en": "It's not very polite.",
+      "zh": "这么说不太礼貌。"
+    },
+    {
+      "id": 83,
+      "start": 203.65,
+      "end": 205.65,
+      "en": "But with your friends, you can use this word.",
+      "zh": "但是和你的朋友一起，你可以使用这个词。"
+    },
+    {
+      "id": 84,
+      "start": 205.79,
+      "end": 205.99,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 85,
+      "start": 206.23,
+      "end": 209.13,
+      "en": "If I'm talking with my friends and I see a girl like, wow, she's hot.",
+      "zh": "如果我和我的朋友聊天，我看到一个女孩，哇，她很热。"
+    },
+    {
+      "id": 86,
+      "start": 209.31,
+      "end": 209.53,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 87,
+      "start": 209.88,
+      "end": 210.77,
+      "en": "Yeah, but just don't tell her.",
+      "zh": "是的，但只是不要告诉她。"
+    },
+    {
+      "id": 88,
+      "start": 210.93,
+      "end": 212.75,
+      "en": "Yeah, don't go up to her and say, wow, you're hot.",
+      "zh": "是的，不要走到她面前说，哇，你很热。"
+    },
+    {
+      "id": 89,
+      "start": 213.15,
+      "end": 213.29,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 90,
+      "start": 213.61,
+      "end": 215.11,
+      "en": "Our next word, most popular.",
+      "zh": "我们的下一个词，最受欢迎。"
+    },
+    {
+      "id": 91,
+      "start": 215.75,
+      "end": 216.71,
+      "en": "Most popular.",
+      "zh": "最受欢迎的。"
+    },
+    {
+      "id": 92,
+      "start": 217.03,
+      "end": 217.71,
+      "en": "Most popular.",
+      "zh": "最受欢迎的。"
+    },
+    {
+      "id": 93,
+      "start": 217.8,
+      "end": 219.9,
+      "en": "Most popular.",
+      "zh": "最受欢迎的。"
+    },
+    {
+      "id": 94,
+      "start": 219.9,
+      "end": 220.78,
+      "en": "Another superlative.",
+      "zh": "另一个最高级。"
+    },
+    {
+      "id": 95,
+      "start": 221.41,
+      "end": 222.01,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 96,
+      "start": 222.63,
+      "end": 223.86,
+      "en": "And popular means...",
+      "zh": "和流行的手段..."
+    },
+    {
+      "id": 97,
+      "start": 224.53,
+      "end": 225.77,
+      "en": "Means having a lot of friends.",
+      "zh": "意味着有很多朋友。"
+    },
+    {
+      "id": 98,
+      "start": 226.15,
+      "end": 226.55,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 99,
+      "start": 226.62,
+      "end": 229.66,
+      "en": "Having a lot of friends or being well-known.",
+      "zh": "有很多朋友或出名。"
+    },
+    {
+      "id": 100,
+      "start": 229.87,
+      "end": 231.4,
+      "en": "Or well-liked. Well-liked.",
+      "zh": "或深受喜爱。 很喜欢。"
+    },
+    {
+      "id": 101,
+      "start": 231.49,
+      "end": 236.87,
+      "en": "Yeah. So in every school, there's always like the most popular guy in school, the most popular girl.",
+      "zh": "是的。 所以在每所学校里，总是像学校里最受欢迎的男人，最受欢迎的女孩。"
+    },
+    {
+      "id": 102,
+      "start": 237.06,
+      "end": 237.4,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 103,
+      "start": 237.63,
+      "end": 238.73,
+      "en": "Were you the most popular guy?",
+      "zh": "你是最受欢迎的人吗？"
+    },
+    {
+      "id": 104,
+      "start": 239.19,
+      "end": 240.59,
+      "en": "Not really.",
+      "zh": "也不是。"
+    },
+    {
+      "id": 105,
+      "start": 241.47,
+      "end": 244.89,
+      "en": "No, I wasn't the most popular guy, but I wasn't unpopular.",
+      "zh": "不，我不是最受欢迎的人，但我并不受欢迎。"
+    },
+    {
+      "id": 106,
+      "start": 245.58,
+      "end": 245.76,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 107,
+      "start": 245.86,
+      "end": 248.62,
+      "en": "So that's the opposite. Yeah. So I was okay.",
+      "zh": "所以情况正好相反。 是的。 所以我没事。"
+    },
+    {
+      "id": 108,
+      "start": 249.12,
+      "end": 249.28,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 109,
+      "start": 249.3,
+      "end": 251.58,
+      "en": "Our last phrase, fine then.",
+      "zh": "我们的最后一句话，那很好。"
+    },
+    {
+      "id": 110,
+      "start": 253.04,
+      "end": 253.38,
+      "en": "Fine then.",
+      "zh": "那好吧。"
+    },
+    {
+      "id": 111,
+      "start": 253.76,
+      "end": 254.48,
+      "en": "Fine then.",
+      "zh": "那好吧。"
+    },
+    {
+      "id": 112,
+      "start": 255.22,
+      "end": 256.56,
+      "en": "Fine then.",
+      "zh": "那好吧。"
+    },
+    {
+      "id": 113,
+      "start": 257.04,
+      "end": 264.92,
+      "en": "Well, this is a phrase made up of two simple words, but why don't we listen to some examples so we can understand the meaning of these two words together?",
+      "zh": "好吧，这是一个由两个简单的单词组成的短语，但我们为什么不听一些例子，这样我们就可以理解这两个词的含义呢？"
+    },
+    {
+      "id": 114,
+      "start": 266.72,
+      "end": 267.56,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 115,
+      "start": 271.88,
+      "end": 272.64,
+      "en": "Fine then.",
+      "zh": "那好吧。"
+    },
+    {
+      "id": 116,
+      "start": 273.1,
+      "end": 287.0,
+      "en": "If you won't go with me, I'll go by myself. Example two.",
+      "zh": "如果你不和我一起去，我会自己去。 示例二。"
+    },
+    {
+      "id": 117,
+      "start": 287.0,
+      "end": 287.2,
+      "en": "Fine then.",
+      "zh": "那好吧。"
+    },
+    {
+      "id": 118,
+      "start": 287.36,
+      "end": 301.62,
+      "en": "If you want to break up, I don't care. Example three. You want to go out with your friends?",
+      "zh": "如果你想分手，我不在乎。 例三。 你想和你的朋友出去吗？"
+    },
+    {
+      "id": 119,
+      "start": 302.48,
+      "end": 302.84,
+      "en": "Fine then.",
+      "zh": "那好吧。"
+    },
+    {
+      "id": 120,
+      "start": 302.92,
+      "end": 303.22,
+      "en": "Go.",
+      "zh": "去。"
+    },
+    {
+      "id": 121,
+      "start": 306.52,
+      "end": 310.92,
+      "en": "So you would use this when you agree with somebody, but you're not really happy about it.",
+      "zh": "所以当你同意某人的时候，你会使用它，但你对此并不满意。"
+    },
+    {
+      "id": 122,
+      "start": 310.92,
+      "end": 311.14,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 123,
+      "start": 311.34,
+      "end": 314.34,
+      "en": "It's like saying, I agree, but I'm really angry.",
+      "zh": "这就像说，我同意，但我真的很生气。"
+    },
+    {
+      "id": 124,
+      "start": 314.72,
+      "end": 316.59,
+      "en": "Right. Maybe sometimes because you don't have a choice.",
+      "zh": "对。 也许有时是因为你别无选择。"
+    },
+    {
+      "id": 125,
+      "start": 317.03,
+      "end": 317.95,
+      "en": "Yeah. Right? Like the girl.",
+      "zh": "是的。 对吗？ 像女孩一样。"
+    },
+    {
+      "id": 126,
+      "start": 318.25,
+      "end": 319.33,
+      "en": "Fine then. Yeah. Yeah.",
+      "zh": "那好吧。 是的。 是的。"
+    },
+    {
+      "id": 127,
+      "start": 320.41,
+      "end": 324.93,
+      "en": "So even though we have the word fine in there, it's not really a nice thing to say to someone.",
+      "zh": "因此，即使我们在那里有罚款这个词，对某人说并不是一件好事。"
+    },
+    {
+      "id": 128,
+      "start": 325.29,
+      "end": 325.49,
+      "en": "No.",
+      "zh": "不。"
+    },
+    {
+      "id": 129,
+      "start": 325.65,
+      "end": 328.61,
+      "en": "No, this is definitely not one to use with your boss.",
+      "zh": "不，这绝对不是与你的老板一起使用的一种。"
+    },
+    {
+      "id": 130,
+      "start": 329.05,
+      "end": 329.27,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 131,
+      "start": 329.73,
+      "end": 329.81,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 132,
+      "start": 330.44,
+      "end": 330.87,
+      "en": "Exactly. Okay.",
+      "zh": "没错。 好的。"
+    },
+    {
+      "id": 133,
+      "start": 331.42,
+      "end": 331.67,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 134,
+      "start": 331.87,
+      "end": 335.53,
+      "en": "Let's listen to our dialogue again and then we'll talk about some more phrases.",
+      "zh": "让我们再听一次我们的对话，然后我们会再谈谈一些短语。"
+    },
+    {
+      "id": 135,
+      "start": 341.1,
+      "end": 343.5,
+      "en": "Hey daddy, you look great today.",
+      "zh": "爸，你今天真精神。"
+    },
+    {
+      "id": 136,
+      "start": 344.32,
+      "end": 345.3,
+      "en": "I like your tie.",
+      "zh": "我喜欢你的领带。"
+    },
+    {
+      "id": 137,
+      "start": 346.36,
+      "end": 349.18,
+      "en": "By the way, I was wondering, can I?",
+      "zh": "对了，我想问问，我能不能……"
+    },
+    {
+      "id": 138,
+      "start": 349.64,
+      "end": 350.66,
+      "en": "No.",
+      "zh": "不。"
+    },
+    {
+      "id": 139,
+      "start": 350.66,
+      "end": 353.41,
+      "en": "I haven't even told you what it is yet.",
+      "zh": "我什至还没有告诉你它是什么。"
+    },
+    {
+      "id": 140,
+      "start": 353.98,
+      "end": 354.39,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 141,
+      "start": 354.7,
+      "end": 355.0,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 142,
+      "start": 355.67,
+      "end": 356.67,
+      "en": "What do you want?",
+      "zh": "你想要什么？"
+    },
+    {
+      "id": 143,
+      "start": 357.41,
+      "end": 359.61,
+      "en": "Do you think I could borrow the car?",
+      "zh": "我能借车用用吗？"
+    },
+    {
+      "id": 144,
+      "start": 360.57,
+      "end": 362.31,
+      "en": "I'm going to a concert tonight.",
+      "zh": "我今晚要去听音乐会。"
+    },
+    {
+      "id": 145,
+      "start": 362.85,
+      "end": 364.53,
+      "en": "I don't think so.",
+      "zh": "我不这么认为。"
+    },
+    {
+      "id": 146,
+      "start": 365.02,
+      "end": 366.85,
+      "en": "I need the car tonight to pick up your mother.",
+      "zh": "我今晚需要车来接你妈妈。"
+    },
+    {
+      "id": 147,
+      "start": 368.63,
+      "end": 371.21,
+      "en": "I told you about it last week.",
+      "zh": "上周我告诉过你这件事。"
+    },
+    {
+      "id": 148,
+      "start": 371.91,
+      "end": 377.05,
+      "en": "Smelly toes is playing and Eric asked if I would go with him.",
+      "zh": "臭脚趾正在玩，埃里克问我是否愿意和他一起去。"
+    },
+    {
+      "id": 149,
+      "start": 377.71,
+      "end": 379.45,
+      "en": "Who is this Eric guy?",
+      "zh": "埃里克是谁？"
+    },
+    {
+      "id": 150,
+      "start": 380.11,
+      "end": 380.65,
+      "en": "Duh.",
+      "zh": "废话。"
+    },
+    {
+      "id": 151,
+      "start": 381.27,
+      "end": 384.75,
+      "en": "He's like the hottest and most popular guy at school.",
+      "zh": "他可是学校里最帅、最受欢迎的男生。"
+    },
+    {
+      "id": 152,
+      "start": 385.59,
+      "end": 387.33,
+      "en": "Come on dad, please.",
+      "zh": "拜托了，爸爸。"
+    },
+    {
+      "id": 153,
+      "start": 388.97,
+      "end": 389.87,
+      "en": "No can do.",
+      "zh": "办不到。"
+    },
+    {
+      "id": 154,
+      "start": 390.35,
+      "end": 390.55,
+      "en": "Sorry.",
+      "zh": "抱歉。"
+    },
+    {
+      "id": 155,
+      "start": 391.26,
+      "end": 392.18,
+      "en": "Fine then.",
+      "zh": "那好吧。"
+    },
+    {
+      "id": 156,
+      "start": 392.8,
+      "end": 395.18,
+      "en": "Would you mind giving me 100 bucks?",
+      "zh": "那能给我一百美元吗？"
+    },
+    {
+      "id": 157,
+      "start": 395.78,
+      "end": 396.98,
+      "en": "No way.",
+      "zh": "不会吧。"
+    },
+    {
+      "id": 158,
+      "start": 397.5,
+      "end": 399.22,
+      "en": "That's so unfair.",
+      "zh": "太不公平了。"
+    },
+    {
+      "id": 159,
+      "start": 403.66,
+      "end": 408.12,
+      "en": "There's a lot of phrases in this dialogue that we can use to ask for something.",
+      "zh": "这个对话中有很多短语，我们可以用来要求一些东西。"
+    },
+    {
+      "id": 160,
+      "start": 408.2,
+      "end": 408.84,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 161,
+      "start": 408.84,
+      "end": 409.14,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 162,
+      "start": 409.2,
+      "end": 410.72,
+      "en": "And in a very polite way.",
+      "zh": "并且以一种非常有礼貌的方式。"
+    },
+    {
+      "id": 163,
+      "start": 411.04,
+      "end": 411.28,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 164,
+      "start": 411.56,
+      "end": 419.46,
+      "en": "So we're going to look at three ways of asking for something and the first way is I was wondering.",
+      "zh": "所以我们将研究三种要求某事的方法，第一种方法是我想知道。"
+    },
+    {
+      "id": 165,
+      "start": 420.32,
+      "end": 421.2,
+      "en": "I was wondering.",
+      "zh": "我想问一下。"
+    },
+    {
+      "id": 166,
+      "start": 421.52,
+      "end": 422.34,
+      "en": "I was wondering.",
+      "zh": "我想问一下。"
+    },
+    {
+      "id": 167,
+      "start": 423.05,
+      "end": 426.41,
+      "en": "So I could say I was wondering, can I borrow your car?",
+      "zh": "所以我可以说我想知道，我可以借你的车吗？"
+    },
+    {
+      "id": 168,
+      "start": 426.83,
+      "end": 430.55,
+      "en": "Yeah. Or I was wondering, can I stay at your house?",
+      "zh": "是的。 或者我想知道，我可以留在你家吗？"
+    },
+    {
+      "id": 169,
+      "start": 431.25,
+      "end": 431.67,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 170,
+      "start": 432.03,
+      "end": 434.03,
+      "en": "It's a very nice way to ask something.",
+      "zh": "这是一个非常好的询问方式。"
+    },
+    {
+      "id": 171,
+      "start": 434.19,
+      "end": 434.33,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 172,
+      "start": 434.41,
+      "end": 435.95,
+      "en": "It's like to begin a question.",
+      "zh": "这就像开始一个问题。"
+    },
+    {
+      "id": 173,
+      "start": 436.15,
+      "end": 440.37,
+      "en": "To begin, yeah. All right. Let's take a look at the next one and it's basically the same thing.",
+      "zh": "开始，是的。 好的。 让我们看看下一个，它基本上是一样的。"
+    },
+    {
+      "id": 174,
+      "start": 440.91,
+      "end": 442.19,
+      "en": "Do you think I could?",
+      "zh": "你认为我可以吗？"
+    },
+    {
+      "id": 175,
+      "start": 442.57,
+      "end": 443.59,
+      "en": "Do you think I could?",
+      "zh": "你认为我可以吗？"
+    },
+    {
+      "id": 176,
+      "start": 443.97,
+      "end": 445.51,
+      "en": "Do you think I could?",
+      "zh": "你认为我可以吗？"
+    },
+    {
+      "id": 177,
+      "start": 445.79,
+      "end": 446.63,
+      "en": "Do you think I could?",
+      "zh": "你认为我可以吗？"
+    },
+    {
+      "id": 178,
+      "start": 447.19,
+      "end": 447.91,
+      "en": "Borrow the car?",
+      "zh": "借车？"
+    },
+    {
+      "id": 179,
+      "start": 448.31,
+      "end": 451.71,
+      "en": "Yeah. Or do you think I could use your computer?",
+      "zh": "是的。 或者你认为我可以使用你的电脑？"
+    },
+    {
+      "id": 180,
+      "start": 452.17,
+      "end": 454.33,
+      "en": "I can say I was wondering, can I use your computer?",
+      "zh": "我可以说我想知道，我可以使用你的电脑吗？"
+    },
+    {
+      "id": 181,
+      "start": 454.75,
+      "end": 456.29,
+      "en": "Do you think I could use your computer?",
+      "zh": "你认为我可以使用你的电脑吗？"
+    },
+    {
+      "id": 182,
+      "start": 456.75,
+      "end": 457.57,
+      "en": "Yeah. They mean the same.",
+      "zh": "是的。 他们的意思是一样的。"
+    },
+    {
+      "id": 183,
+      "start": 457.91,
+      "end": 458.07,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 184,
+      "start": 458.65,
+      "end": 460.15,
+      "en": "Now let's look at the last one.",
+      "zh": "现在让我们看看最后一张。"
+    },
+    {
+      "id": 185,
+      "start": 460.74,
+      "end": 461.84,
+      "en": "Would you mind?",
+      "zh": "你介意吗？"
+    },
+    {
+      "id": 186,
+      "start": 462.24,
+      "end": 463.06,
+      "en": "Would you mind?",
+      "zh": "你介意吗？"
+    },
+    {
+      "id": 187,
+      "start": 463.62,
+      "end": 464.68,
+      "en": "Would you mind?",
+      "zh": "你介意吗？"
+    },
+    {
+      "id": 188,
+      "start": 464.86,
+      "end": 465.72,
+      "en": "Would you mind?",
+      "zh": "你介意吗？"
+    },
+    {
+      "id": 189,
+      "start": 466.44,
+      "end": 470.3,
+      "en": "So I could say, would you mind holding this for me?",
+      "zh": "所以我可以说，你介意为我拿着这个吗？"
+    },
+    {
+      "id": 190,
+      "start": 470.54,
+      "end": 470.66,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 191,
+      "start": 470.94,
+      "end": 474.26,
+      "en": "Or would you mind finishing this report for me?",
+      "zh": "或者你介意为我完成这份报告吗？"
+    },
+    {
+      "id": 192,
+      "start": 475.19,
+      "end": 480.57,
+      "en": "Now there's an interesting thing here that you have the verb in a gerund form, right?",
+      "zh": "现在这里有一个有趣的事情，你有动名词形式的动词，对吧？"
+    },
+    {
+      "id": 193,
+      "start": 480.79,
+      "end": 482.39,
+      "en": "Right. The ing form.",
+      "zh": "对。 ING 表格。"
+    },
+    {
+      "id": 194,
+      "start": 482.67,
+      "end": 483.03,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 195,
+      "start": 483.75,
+      "end": 485.61,
+      "en": "Giving, holding, finishing.",
+      "zh": "给予，持有，完成。"
+    },
+    {
+      "id": 196,
+      "start": 486.17,
+      "end": 489.07,
+      "en": "So we've got I was wondering, can I do something?",
+      "zh": "所以我们有我在想，我能做点什么吗？"
+    },
+    {
+      "id": 197,
+      "start": 489.43,
+      "end": 489.59,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 198,
+      "start": 489.93,
+      "end": 492.67,
+      "en": "And would you mind doing something?",
+      "zh": "你介意做点什么吗？"
+    },
+    {
+      "id": 199,
+      "start": 493.12,
+      "end": 495.03,
+      "en": "Yeah. So you have the ing.",
+      "zh": "是的。 所以你有 ING。"
+    },
+    {
+      "id": 200,
+      "start": 495.73,
+      "end": 496.49,
+      "en": "Be very, very careful.",
+      "zh": "非常非常小心。"
+    },
+    {
+      "id": 201,
+      "start": 496.81,
+      "end": 500.05,
+      "en": "Be sure to not say, would you mind to give me?",
+      "zh": "一定不要说，你介意给我吗？"
+    },
+    {
+      "id": 202,
+      "start": 500.37,
+      "end": 500.57,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 203,
+      "start": 500.79,
+      "end": 501.01,
+      "en": "That's wrong.",
+      "zh": "那不对。"
+    },
+    {
+      "id": 204,
+      "start": 501.15,
+      "end": 501.75,
+      "en": "Right. That's wrong.",
+      "zh": "对。 那是错误的。"
+    },
+    {
+      "id": 205,
+      "start": 501.97,
+      "end": 503.64,
+      "en": "Wrong, wrong, wrong. Wrong, wrong, wrong.",
+      "zh": "错，错，错。 错，错，错。"
+    },
+    {
+      "id": 206,
+      "start": 503.64,
+      "end": 505.34,
+      "en": "So you would say, would you mind giving me?",
+      "zh": "所以你会说，你介意给我吗？"
+    },
+    {
+      "id": 207,
+      "start": 505.62,
+      "end": 532.12,
+      "en": "Yep. Okay. Let's listen to some more examples of these three phrases. Example one. Would you mind cooking dinner tonight? I'll be home late. Example two. We were wondering if you could buy the tickets for us. Example three.",
+      "zh": "是的。 好的。 让我们听听这三个短语的更多例子。 示例一。 你介意今晚做饭吗？ 我会晚点回家。 示例二。 我们想知道您是否可以为我们购买门票。 例三。"
+    },
+    {
+      "id": 208,
+      "start": 532.12,
+      "end": 534.56,
+      "en": "Do you think you can have those reports finished by today?",
+      "zh": "你认为你可以在今天完成这些报告吗？"
+    },
+    {
+      "id": 209,
+      "start": 536.75,
+      "end": 537.37,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 210,
+      "start": 537.5,
+      "end": 541.41,
+      "en": "So I think it's really clear now and it's a very useful way of asking for things.",
+      "zh": "所以我认为现在真的很清楚，这是一种非常有用的询问方式。"
+    },
+    {
+      "id": 211,
+      "start": 541.63,
+      "end": 541.75,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 212,
+      "start": 541.77,
+      "end": 546.19,
+      "en": "So let's listen to our dialogue for the third time and then we'll come back and talk a little bit more.",
+      "zh": "所以让我们第三次听我们的对话，然后我们会回来多说一点。"
+    },
+    {
+      "id": 213,
+      "start": 551.09,
+      "end": 553.29,
+      "en": "Hey daddy, you look great today.",
+      "zh": "爸，你今天真精神。"
+    },
+    {
+      "id": 214,
+      "start": 553.71,
+      "end": 554.55,
+      "en": "I like your tie.",
+      "zh": "我喜欢你的领带。"
+    },
+    {
+      "id": 215,
+      "start": 555.19,
+      "end": 557.17,
+      "en": "By the way, I was wondering, can I?",
+      "zh": "对了，我想问问，我能不能……"
+    },
+    {
+      "id": 216,
+      "start": 557.49,
+      "end": 560.21,
+      "en": "No. I haven't even told you what it is yet.",
+      "zh": "不行。可我还没说是什么呢！"
+    },
+    {
+      "id": 217,
+      "start": 560.87,
+      "end": 561.25,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 218,
+      "start": 561.37,
+      "end": 561.71,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 219,
+      "start": 561.93,
+      "end": 562.31,
+      "en": "What do you want?",
+      "zh": "你想要什么？"
+    },
+    {
+      "id": 220,
+      "start": 562.95,
+      "end": 564.71,
+      "en": "Do you think I could borrow the car?",
+      "zh": "我能借车用用吗？"
+    },
+    {
+      "id": 221,
+      "start": 565.55,
+      "end": 566.81,
+      "en": "I'm going to a concert tonight.",
+      "zh": "我今晚要去听音乐会。"
+    },
+    {
+      "id": 222,
+      "start": 566.93,
+      "end": 569.83,
+      "en": "Um, I don't think so.",
+      "zh": "嗯，我不这么认为。"
+    },
+    {
+      "id": 223,
+      "start": 569.83,
+      "end": 571.38,
+      "en": "I need the car tonight to pick up your mother.",
+      "zh": "我今晚需要车来接你妈妈。"
+    },
+    {
+      "id": 224,
+      "start": 572.36,
+      "end": 573.94,
+      "en": "I told you about it last week.",
+      "zh": "上周我告诉过你这件事。"
+    },
+    {
+      "id": 225,
+      "start": 574.48,
+      "end": 577.48,
+      "en": "Smelly toes is playing and Eric asked if I would go with him.",
+      "zh": "“臭脚趾”乐队今晚演出，埃里克约我一起去。"
+    },
+    {
+      "id": 226,
+      "start": 577.96,
+      "end": 579.08,
+      "en": "Who is this Eric guy?",
+      "zh": "埃里克是谁？"
+    },
+    {
+      "id": 227,
+      "start": 580.12,
+      "end": 582.54,
+      "en": "He's like the hottest and most popular guy at school.",
+      "zh": "他可是学校里最帅、最受欢迎的男生。"
+    },
+    {
+      "id": 228,
+      "start": 583.02,
+      "end": 583.92,
+      "en": "Come on dad, please.",
+      "zh": "拜托了，爸爸。"
+    },
+    {
+      "id": 229,
+      "start": 584.72,
+      "end": 585.44,
+      "en": "No can do.",
+      "zh": "办不到。"
+    },
+    {
+      "id": 230,
+      "start": 585.58,
+      "end": 585.74,
+      "en": "Sorry.",
+      "zh": "抱歉。"
+    },
+    {
+      "id": 231,
+      "start": 586.34,
+      "end": 586.94,
+      "en": "Fine then.",
+      "zh": "那好吧。"
+    },
+    {
+      "id": 232,
+      "start": 587.48,
+      "end": 589.08,
+      "en": "Would you mind giving me 100 bucks?",
+      "zh": "那能给我一百美元吗？"
+    },
+    {
+      "id": 233,
+      "start": 589.5,
+      "end": 590.46,
+      "en": "No way.",
+      "zh": "不会吧。"
+    },
+    {
+      "id": 234,
+      "start": 591.32,
+      "end": 592.38,
+      "en": "That's so unfair.",
+      "zh": "太不公平了。"
+    },
+    {
+      "id": 235,
+      "start": 596.46,
+      "end": 601.18,
+      "en": "So Marco, you said that this dialogue really brought back some memories for you.",
+      "zh": "所以马可，你说这次对话真的给你带来了一些回忆。"
+    },
+    {
+      "id": 236,
+      "start": 601.84,
+      "end": 603.6,
+      "en": "Yeah, my dad was exactly the same way.",
+      "zh": "是的，我爸爸的方式一模一样。"
+    },
+    {
+      "id": 237,
+      "start": 603.92,
+      "end": 606.04,
+      "en": "I would just say dad and he would be like, no.",
+      "zh": "我只想说爸爸，他会说，不。"
+    },
+    {
+      "id": 238,
+      "start": 606.6,
+      "end": 609.56,
+      "en": "So he would always cut me off before I ask anything.",
+      "zh": "所以在我问任何事情之前，他总是会打断我。"
+    },
+    {
+      "id": 239,
+      "start": 610.2,
+      "end": 611.92,
+      "en": "Sounds like a pretty strict guy.",
+      "zh": "听起来像一个相当严格的人。"
+    },
+    {
+      "id": 240,
+      "start": 612.94,
+      "end": 614.28,
+      "en": "No, but it was a lot of fun.",
+      "zh": "不，但这很有趣。"
+    },
+    {
+      "id": 241,
+      "start": 614.5,
+      "end": 617.44,
+      "en": "Sometimes he would just say it just to make me angry or something like that.",
+      "zh": "有时他会说只是为了让我生气或类似的话。"
+    },
+    {
+      "id": 242,
+      "start": 617.56,
+      "end": 618.34,
+      "en": "Like just as a joke.",
+      "zh": "就像一个笑话。"
+    },
+    {
+      "id": 243,
+      "start": 618.77,
+      "end": 619.61,
+      "en": "Yeah, exactly.",
+      "zh": "对，没错。"
+    },
+    {
+      "id": 244,
+      "start": 620.08,
+      "end": 623.41,
+      "en": "But it was difficult to get him to lend me the car for example.",
+      "zh": "但很难让他把车借给我。"
+    },
+    {
+      "id": 245,
+      "start": 623.78,
+      "end": 623.93,
+      "en": "Really?",
+      "zh": "真的吗？"
+    },
+    {
+      "id": 246,
+      "start": 624.11,
+      "end": 624.33,
+      "en": "Oh yeah.",
+      "zh": "哦，对。"
+    },
+    {
+      "id": 247,
+      "start": 624.46,
+      "end": 633.24,
+      "en": "I mean he wouldn't just lend me the car and sometimes if he did lend me the car, then the next day he would be like, hey, you need to wash the car or something like that.",
+      "zh": "我的意思是他不会把车借给我，有时如果他把车借给我，那么第二天他会说，嘿，你需要洗车或类似的东西。"
+    },
+    {
+      "id": 248,
+      "start": 633.39,
+      "end": 634.39,
+      "en": "So you had to pay him back.",
+      "zh": "所以你不得不还给他。"
+    },
+    {
+      "id": 249,
+      "start": 634.47,
+      "end": 635.77,
+      "en": "I had to pay him back with something.",
+      "zh": "我不得不用一些东西回报他。"
+    },
+    {
+      "id": 250,
+      "start": 636.47,
+      "end": 642.01,
+      "en": "In my family, I was always allowed to borrow the car because we lived really, really far away from the city.",
+      "zh": "在我的家庭中，我总是被允许借车，因为我们住得非常非常远，离城市很远。"
+    },
+    {
+      "id": 251,
+      "start": 642.37,
+      "end": 649.66,
+      "en": "So there were no buses or subway, but I always got to borrow the worst car, you know, the most terrible car.",
+      "zh": "所以没有公共汽车或地铁，但我总是借最糟糕的汽车，你知道的，最糟糕的汽车。"
+    },
+    {
+      "id": 252,
+      "start": 650.9,
+      "end": 656.94,
+      "en": "Which led to so many problems like my car stopping working in the middle of the street, which was never good.",
+      "zh": "这导致了很多问题，比如我的车在街中间停止工作，这从来都不是一件好事。"
+    },
+    {
+      "id": 253,
+      "start": 657.46,
+      "end": 662.18,
+      "en": "We did used to live a little bit further away from downtown, but we had a good bus system.",
+      "zh": "我们以前确实住在离市中心更远的地方，但我们有一个很好的公共汽车系统。"
+    },
+    {
+      "id": 254,
+      "start": 662.82,
+      "end": 666.42,
+      "en": "So it would just be like, take the bus, it's cheaper and stuff like that.",
+      "zh": "所以它就像，坐公共汽车，它更便宜，类似的东西。"
+    },
+    {
+      "id": 255,
+      "start": 666.89,
+      "end": 672.69,
+      "en": "So I didn't really get the car that often until I bought my own or until I had a motorcycle of my own and then problem solved.",
+      "zh": "所以直到我自己买了一辆摩托车，然后问题解决了，我才真正得到这辆车。"
+    },
+    {
+      "id": 256,
+      "start": 673.18,
+      "end": 673.52,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 257,
+      "start": 673.52,
+      "end": 678.21,
+      "en": "Well, I want to know from our listeners, what did they ask for from their parents?",
+      "zh": "好吧，我想从我们的听众那里知道，他们向父母要求什么？"
+    },
+    {
+      "id": 258,
+      "start": 678.35,
+      "end": 678.67,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 259,
+      "start": 678.95,
+      "end": 679.97,
+      "en": "Did you ask for the car?",
+      "zh": "你要车吗？"
+    },
+    {
+      "id": 260,
+      "start": 680.19,
+      "end": 681.05,
+      "en": "Did you ask for money?",
+      "zh": "你要钱了吗？"
+    },
+    {
+      "id": 261,
+      "start": 681.87,
+      "end": 683.27,
+      "en": "Or did you ask for a pony?",
+      "zh": "还是你要一匹小马？"
+    },
+    {
+      "id": 262,
+      "start": 683.77,
+      "end": 684.73,
+      "en": "Did you ask for a pony?",
+      "zh": "你要小马了吗？"
+    },
+    {
+      "id": 263,
+      "start": 684.93,
+      "end": 687.61,
+      "en": "I had a friend who had a summer home.",
+      "zh": "我有一个朋友有一个避暑别墅。"
+    },
+    {
+      "id": 264,
+      "start": 687.95,
+      "end": 688.09,
+      "en": "Really?",
+      "zh": "真的吗？"
+    },
+    {
+      "id": 265,
+      "start": 688.45,
+      "end": 690.41,
+      "en": "So he would ask for the keys to the summer home.",
+      "zh": "所以他会要了避暑别墅的钥匙。"
+    },
+    {
+      "id": 266,
+      "start": 690.8,
+      "end": 695.41,
+      "en": "Okay. Well, come to our website, EnglishPod.com. Exactly.",
+      "zh": "好的。 好吧，来我们的网站 englishpod.com。 没错。"
+    },
+    {
+      "id": 267,
+      "start": 695.59,
+      "end": 696.67,
+      "en": "Leave your questions and comments.",
+      "zh": "留下您的问题和意见。"
+    },
+    {
+      "id": 268,
+      "start": 696.88,
+      "end": 697.73,
+      "en": "We want to hear from you.",
+      "zh": "我们希望收到您的来信。"
+    },
+    {
+      "id": 269,
+      "start": 697.95,
+      "end": 699.03,
+      "en": "We want to know what you think.",
+      "zh": "我们想知道你的想法。"
+    },
+    {
+      "id": 270,
+      "start": 699.49,
+      "end": 710.88,
+      "en": "And Erica and I are definitely there to answer any doubts. All right. Well, guys, thanks for listening and until next time, bye.",
+      "zh": "埃里卡和我肯定会在那里回答任何疑问。 好的。 好吧，伙计们，感谢您的收听，直到下一次，再见。"
+    }
+  ],
+  "dialog": {
+    "start": 551.09,
+    "end": 592.38,
+    "segmentIds": [
+      213,
+      214,
+      215,
+      216,
+      217,
+      218,
+      219,
+      220,
+      221,
+      222,
+      223,
+      224,
+      225,
+      226,
+      227,
+      228,
+      229,
+      230,
+      231,
+      232,
+      233,
+      234
+    ]
+  }
+}

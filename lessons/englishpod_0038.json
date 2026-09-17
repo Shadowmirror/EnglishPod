@@ -1,0 +1,2219 @@
+{
+  "version": 1,
+  "id": 38,
+  "number": "0038",
+  "title": "Daily Life - Buying a Car",
+  "audio": "mp3/38. Daily Life - Buying a Car.mp3",
+  "duration": 777.9788125,
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.84,
+      "end": 2.5,
+      "en": "Hello, English learners.",
+      "zh": "各位英语学习者，大家好。"
+    },
+    {
+      "id": 2,
+      "start": 2.84,
+      "end": 4.24,
+      "en": "Welcome back to EnglishPod.",
+      "zh": "欢迎回到 EnglishPod。"
+    },
+    {
+      "id": 3,
+      "start": 4.44,
+      "end": 4.96,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 4,
+      "start": 5.2,
+      "end": 5.68,
+      "en": "And I'm Erica.",
+      "zh": "我叫 Erica。"
+    },
+    {
+      "id": 5,
+      "start": 6.3,
+      "end": 10.1,
+      "en": "And today we're bringing you another great lesson for all of you who are interested in shopping.",
+      "zh": "今天，我们为所有对购物感兴趣的人带来了另一个重要的教训。"
+    },
+    {
+      "id": 6,
+      "start": 10.54,
+      "end": 14.04,
+      "en": "Especially those of you who are interested in shopping for a car.",
+      "zh": "尤其是那些有兴趣购买汽车的人。"
+    },
+    {
+      "id": 7,
+      "start": 14.36,
+      "end": 15.38,
+      "en": "A car, exactly.",
+      "zh": "一辆车，没错。"
+    },
+    {
+      "id": 8,
+      "start": 16.08,
+      "end": 19.94,
+      "en": "So we're going to give you some great language about describing a car or characteristics of a car.",
+      "zh": "因此，我们将为您提供一些关于描述汽车或汽车特性的好语言。"
+    },
+    {
+      "id": 9,
+      "start": 20.58,
+      "end": 21.58,
+      "en": "Yep.",
+      "zh": "对。"
+    },
+    {
+      "id": 10,
+      "start": 21.58,
+      "end": 24.2,
+      "en": "And also some really interesting language for shopping.",
+      "zh": "还有一些非常有趣的购物语言。"
+    },
+    {
+      "id": 11,
+      "start": 24.4,
+      "end": 27.26,
+      "en": "Yes, especially buying something really big and expensive.",
+      "zh": "是的，尤其是购买真正大而昂贵的东西。"
+    },
+    {
+      "id": 12,
+      "start": 27.52,
+      "end": 28.8,
+      "en": "Yeah, like a car.",
+      "zh": "是的，就像一辆汽车。"
+    },
+    {
+      "id": 13,
+      "start": 28.8,
+      "end": 29.8,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 14,
+      "start": 29.8,
+      "end": 34.4,
+      "en": "So before we listen to our dialogue, let's take a look at vocabulary preview.",
+      "zh": "所以在我们听对话之前，让我们先看看词汇预览。"
+    },
+    {
+      "id": 15,
+      "start": 34.4,
+      "end": 34.71,
+      "en": "Vocabulary preview.",
+      "zh": "词汇预习。"
+    },
+    {
+      "id": 16,
+      "start": 36.08,
+      "end": 38.24,
+      "en": "On vocabulary preview today, we're bringing you two words.",
+      "zh": "在今天的词汇预览中，我们为您带来了两个词。"
+    },
+    {
+      "id": 17,
+      "start": 38.84,
+      "end": 40.38,
+      "en": "The first one is vehicle.",
+      "zh": "第一个是车辆。"
+    },
+    {
+      "id": 18,
+      "start": 41.14,
+      "end": 41.58,
+      "en": "Vehicle.",
+      "zh": "车辆。"
+    },
+    {
+      "id": 19,
+      "start": 41.84,
+      "end": 42.84,
+      "en": "Vehicle.",
+      "zh": "车辆。"
+    },
+    {
+      "id": 20,
+      "start": 43.32,
+      "end": 43.5,
+      "en": "Vehicle.",
+      "zh": "车辆。"
+    },
+    {
+      "id": 21,
+      "start": 44.26,
+      "end": 47.34,
+      "en": "So, again, a vehicle is a machine, right?",
+      "zh": "所以，再一次，一辆车就是一台机器，对吧？"
+    },
+    {
+      "id": 22,
+      "start": 47.6,
+      "end": 48.6,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 23,
+      "start": 48.6,
+      "end": 51.64,
+      "en": "A machine that carries people from one place to another.",
+      "zh": "一台机器，将人从一个地方带到另一个地方。"
+    },
+    {
+      "id": 24,
+      "start": 51.64,
+      "end": 54.4,
+      "en": "So it's important to say that a vehicle could be an airplane.",
+      "zh": "因此，重要的是要说一辆车可以是一架飞机。"
+    },
+    {
+      "id": 25,
+      "start": 55.4,
+      "end": 55.76,
+      "en": "A car.",
+      "zh": "一辆车。"
+    },
+    {
+      "id": 26,
+      "start": 56.4,
+      "end": 56.54,
+      "en": "A car.",
+      "zh": "一辆车。"
+    },
+    {
+      "id": 27,
+      "start": 57.4,
+      "end": 58.4,
+      "en": "A boat.",
+      "zh": "一艘船。"
+    },
+    {
+      "id": 28,
+      "start": 58.4,
+      "end": 59.4,
+      "en": "A boat.",
+      "zh": "一艘船。"
+    },
+    {
+      "id": 29,
+      "start": 59.4,
+      "end": 61.44,
+      "en": "Yeah, that's a vehicle.",
+      "zh": "是的，那是一辆车。"
+    },
+    {
+      "id": 30,
+      "start": 61.44,
+      "end": 63.31,
+      "en": "Our second word is sedan.",
+      "zh": "我们的第二个词是轿车。"
+    },
+    {
+      "id": 31,
+      "start": 63.93,
+      "end": 64.49,
+      "en": "Sedan.",
+      "zh": "轿车。"
+    },
+    {
+      "id": 32,
+      "start": 64.87,
+      "end": 65.45,
+      "en": "Sedan.",
+      "zh": "轿车。"
+    },
+    {
+      "id": 33,
+      "start": 65.73,
+      "end": 66.33,
+      "en": "Sedan.",
+      "zh": "轿车。"
+    },
+    {
+      "id": 34,
+      "start": 66.79,
+      "end": 69.59,
+      "en": "So a sedan is a type of car.",
+      "zh": "所以轿车是一种汽车。"
+    },
+    {
+      "id": 35,
+      "start": 69.81,
+      "end": 69.99,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 36,
+      "start": 70.49,
+      "end": 74.43,
+      "en": "It's a type of car with four doors that can fit five people inside.",
+      "zh": "这是一种有四扇门的汽车，可以容纳五个人。"
+    },
+    {
+      "id": 37,
+      "start": 75.13,
+      "end": 78.51,
+      "en": "So to make it more clear, most taxis are sedans.",
+      "zh": "所以更清楚的是，大多数出租车都是轿车。"
+    },
+    {
+      "id": 38,
+      "start": 78.75,
+      "end": 79.07,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 39,
+      "start": 79.88,
+      "end": 80.88,
+      "en": "Right?",
+      "zh": "对吧？"
+    },
+    {
+      "id": 40,
+      "start": 80.88,
+      "end": 84.12,
+      "en": "They have four doors, five people can fit in there, including the driver.",
+      "zh": "他们有四扇门，五个人可以容纳，包括司机。"
+    },
+    {
+      "id": 41,
+      "start": 84.12,
+      "end": 84.93,
+      "en": "Except taxis in Mexico.",
+      "zh": "墨西哥的出租车除外。"
+    },
+    {
+      "id": 42,
+      "start": 85.68,
+      "end": 86.25,
+      "en": "They're not sedans?",
+      "zh": "他们不是轿车？"
+    },
+    {
+      "id": 43,
+      "start": 86.68,
+      "end": 87.19,
+      "en": "They're little beetles.",
+      "zh": "他们是小甲虫。"
+    },
+    {
+      "id": 44,
+      "start": 87.75,
+      "end": 87.93,
+      "en": "Oh.",
+      "zh": "哦。"
+    },
+    {
+      "id": 45,
+      "start": 88.37,
+      "end": 89.13,
+      "en": "They're Volkswagen beetles.",
+      "zh": "它们是大众甲壳虫。"
+    },
+    {
+      "id": 46,
+      "start": 89.68,
+      "end": 90.68,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 47,
+      "start": 90.68,
+      "end": 91.68,
+      "en": "So those are not sedans.",
+      "zh": "所以那些不是轿车。"
+    },
+    {
+      "id": 48,
+      "start": 91.68,
+      "end": 93.53,
+      "en": "But yeah, most countries have sedans as taxis.",
+      "zh": "但是，是的，大多数国家都有轿车作为出租车。"
+    },
+    {
+      "id": 49,
+      "start": 94.16,
+      "end": 98.4,
+      "en": "To give you some examples, like a Toyota Corolla or a Toyota Camry is a sedan.",
+      "zh": "给你一些例子，比如丰田卡罗拉或丰田凯美瑞是一辆轿车。"
+    },
+    {
+      "id": 50,
+      "start": 98.4,
+      "end": 98.79,
+      "en": "Yeah, yeah.",
+      "zh": "对，对。"
+    },
+    {
+      "id": 51,
+      "start": 99.4,
+      "end": 100.81,
+      "en": "Maybe like a Volkswagen Jetta.",
+      "zh": "也许就像大众捷达一样。"
+    },
+    {
+      "id": 52,
+      "start": 101.21,
+      "end": 101.67,
+      "en": "Is that a...",
+      "zh": "那是一个..."
+    },
+    {
+      "id": 53,
+      "start": 101.96,
+      "end": 102.19,
+      "en": "A Jetta, yeah.",
+      "zh": "一个捷达，是的。"
+    },
+    {
+      "id": 54,
+      "start": 102.96,
+      "end": 103.96,
+      "en": "A Jetta is a sedan.",
+      "zh": "捷达是轿车。"
+    },
+    {
+      "id": 55,
+      "start": 103.96,
+      "end": 104.96,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 56,
+      "start": 104.96,
+      "end": 108.92,
+      "en": "Now we can listen to our dialogue, and it's going to be at a normal speed the first time, but you don't have to worry about it.",
+      "zh": "现在我们可以听我们的对话，第一次它会以正常的速度，但你不必担心。"
+    },
+    {
+      "id": 57,
+      "start": 108.92,
+      "end": 111.87,
+      "en": "We'll come back and teach you some of the important words from the dialogue.",
+      "zh": "我们会回来教你对话中的一些重要词。"
+    },
+    {
+      "id": 58,
+      "start": 120.53,
+      "end": 121.55,
+      "en": "Hi there, can I help you folks?",
+      "zh": "您好，有什么能帮您的吗？"
+    },
+    {
+      "id": 59,
+      "start": 124.14,
+      "end": 126.82,
+      "en": "I'm just browsing, seeing what's on the lot.",
+      "zh": "我就是随便看看，看看车场里有什么。"
+    },
+    {
+      "id": 60,
+      "start": 127.22,
+      "end": 129.64,
+      "en": "My daughter wants a car for her birthday, you know how it is.",
+      "zh": "我女儿过生日想要辆车，你懂的。"
+    },
+    {
+      "id": 61,
+      "start": 130.24,
+      "end": 135.64,
+      "en": "Dad, I'm 16 already, and I'm like the only one at school who doesn't have a car.",
+      "zh": "爸，我都十六岁了，全校好像只有我还没车。"
+    },
+    {
+      "id": 62,
+      "start": 136.12,
+      "end": 136.92,
+      "en": "She's right, you know.",
+      "zh": "你知道，她说得对。"
+    },
+    {
+      "id": 63,
+      "start": 137.34,
+      "end": 138.48,
+      "en": "Kids these days all have cars.",
+      "zh": "现在的孩子们都有车。"
+    },
+    {
+      "id": 64,
+      "start": 139.08,
+      "end": 143.38,
+      "en": "Let me show you something we just got in, a 1996 sedan, excellent gas mileage.",
+      "zh": "给您看看我们刚到的一辆1996年的轿车，特别省油。"
+    },
+    {
+      "id": 65,
+      "start": 143.92,
+      "end": 147.92,
+      "en": "It has dual airbags and anti-lock brakes, a perfect vehicle for a young driver.",
+      "zh": "配备双安全气囊和防抱死刹车，很适合年轻司机。"
+    },
+    {
+      "id": 66,
+      "start": 148.16,
+      "end": 149.2,
+      "en": "Dad, I love it.",
+      "zh": "爸爸，我太喜欢了。"
+    },
+    {
+      "id": 67,
+      "start": 149.38,
+      "end": 149.84,
+      "en": "It's awesome.",
+      "zh": "太棒了。"
+    },
+    {
+      "id": 68,
+      "start": 150.7,
+      "end": 151.86,
+      "en": "Can we get this one, please?",
+      "zh": "我们买这辆好不好？"
+    },
+    {
+      "id": 69,
+      "start": 153.26,
+      "end": 153.96,
+      "en": "I see.",
+      "zh": "我明白了。"
+    },
+    {
+      "id": 70,
+      "start": 154.6,
+      "end": 156.02,
+      "en": "What can you tell me about this one?",
+      "zh": "这辆车你能介绍一下吗？"
+    },
+    {
+      "id": 71,
+      "start": 157.41,
+      "end": 161.05,
+      "en": "Oh, that's just an old World War II tank that we used for TV commercials.",
+      "zh": "哦，那只是我们用于电视广告的旧二战坦克。"
+    },
+    {
+      "id": 72,
+      "start": 161.84,
+      "end": 162.84,
+      "en": "Now about this sedan...",
+      "zh": "还是说回这辆轿车……"
+    },
+    {
+      "id": 73,
+      "start": 162.84,
+      "end": 164.52,
+      "en": "Whoa, whoa, wait a minute.",
+      "zh": "哎，等等！"
+    },
+    {
+      "id": 74,
+      "start": 164.52,
+      "end": 165.39,
+      "en": "Tell me more about this tank.",
+      "zh": "告诉我更多关于这个坦克的信息。"
+    },
+    {
+      "id": 75,
+      "start": 167.49,
+      "end": 171.61,
+      "en": "Well, sir, if you are looking for quality and safety, then look no further.",
+      "zh": "先生，要说结实和安全，这辆坦克绝对首屈一指。"
+    },
+    {
+      "id": 76,
+      "start": 172.28,
+      "end": 177.56,
+      "en": "Three inches of reinforced steel protect your daughter from short-range missile attacks.",
+      "zh": "三英寸厚的加强钢板能保护您女儿免受短程导弹袭击。"
+    },
+    {
+      "id": 77,
+      "start": 177.56,
+      "end": 180.21,
+      "en": "Does the sedan protect her from missile attacks?",
+      "zh": "轿车能保护她免受导弹攻击吗？"
+    },
+    {
+      "id": 78,
+      "start": 180.68,
+      "end": 181.03,
+      "en": "It does not.",
+      "zh": "轿车可不行。"
+    },
+    {
+      "id": 79,
+      "start": 181.59,
+      "end": 182.65,
+      "en": "Well, I don't know.",
+      "zh": "嗯，我不知道。"
+    },
+    {
+      "id": 80,
+      "start": 183.21,
+      "end": 183.99,
+      "en": "Let me sleep on it.",
+      "zh": "我得再考虑考虑。"
+    },
+    {
+      "id": 81,
+      "start": 184.35,
+      "end": 186.31,
+      "en": "Did I mention the tank is a tank?",
+      "zh": "我说过这辆坦克真的是坦克吗？"
+    },
+    {
+      "id": 82,
+      "start": 186.61,
+      "end": 187.19,
+      "en": "I'll take it.",
+      "zh": "我要这个。"
+    },
+    {
+      "id": 83,
+      "start": 187.49,
+      "end": 187.83,
+      "en": "Dad!",
+      "zh": "爸爸！"
+    },
+    {
+      "id": 84,
+      "start": 197.56,
+      "end": 198.31,
+      "en": "I think she's really lucky.",
+      "zh": "我觉得她真的很幸运。"
+    },
+    {
+      "id": 85,
+      "start": 198.59,
+      "end": 198.87,
+      "en": "Really?",
+      "zh": "真的吗？"
+    },
+    {
+      "id": 86,
+      "start": 199.21,
+      "end": 200.87,
+      "en": "She's getting a tank to go to school.",
+      "zh": "她要一辆坦克去上学。"
+    },
+    {
+      "id": 87,
+      "start": 201.2,
+      "end": 202.32,
+      "en": "How awesome is that?",
+      "zh": "那有多棒？"
+    },
+    {
+      "id": 88,
+      "start": 202.33,
+      "end": 205.83,
+      "en": "I would be so embarrassed if I had to drive to school in a tank.",
+      "zh": "如果我不得不开着坦克开车去学校，我会很尴尬。"
+    },
+    {
+      "id": 89,
+      "start": 205.84,
+      "end": 207.24,
+      "en": "It's like the coolest car.",
+      "zh": "这就像最酷的汽车。"
+    },
+    {
+      "id": 90,
+      "start": 207.24,
+      "end": 208.15,
+      "en": "Oh, you're such a boy.",
+      "zh": "哦，你真是个男孩。"
+    },
+    {
+      "id": 91,
+      "start": 209.31,
+      "end": 214.75,
+      "en": "All right, a surprising ending to a relatively easy shopping day.",
+      "zh": "好吧，一个相对轻松的购物日的惊人结局。"
+    },
+    {
+      "id": 92,
+      "start": 215.08,
+      "end": 216.08,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 93,
+      "start": 216.08,
+      "end": 219.97,
+      "en": "Let's take a look at some language that we saw in our dialogue on Language Takeaway.",
+      "zh": "让我们来看看我们在关于语言外卖的对话中看到的一些语言。"
+    },
+    {
+      "id": 94,
+      "start": 222.24,
+      "end": 222.78,
+      "en": "Language Takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 95,
+      "start": 224.56,
+      "end": 226.47,
+      "en": "We have four words for you today.",
+      "zh": "今天我们有四个字给你。"
+    },
+    {
+      "id": 96,
+      "start": 226.96,
+      "end": 229.83,
+      "en": "The first one is gas mileage.",
+      "zh": "第一个是油耗。"
+    },
+    {
+      "id": 97,
+      "start": 230.75,
+      "end": 231.35,
+      "en": "Gas mileage.",
+      "zh": "油耗。"
+    },
+    {
+      "id": 98,
+      "start": 231.89,
+      "end": 232.41,
+      "en": "Gas mileage.",
+      "zh": "油耗。"
+    },
+    {
+      "id": 99,
+      "start": 233.23,
+      "end": 233.95,
+      "en": "Gas mileage.",
+      "zh": "油耗。"
+    },
+    {
+      "id": 100,
+      "start": 235.11,
+      "end": 240.63,
+      "en": "So gas mileage is how many miles you can travel on a gallon or liter of gasoline.",
+      "zh": "所以油耗是你可以用一加仑或一升汽油行驶多少英里。"
+    },
+    {
+      "id": 101,
+      "start": 241.07,
+      "end": 241.91,
+      "en": "Well, you know what's interesting?",
+      "zh": "嗯，你知道什么是有趣的吗？"
+    },
+    {
+      "id": 102,
+      "start": 241.91,
+      "end": 250.99,
+      "en": "In some English-speaking countries like Australia, New Zealand, Canada, we use kilometers to measure distance, but we still talk about gas mileage.",
+      "zh": "在澳大利亚、新西兰、加拿大等一些英语国家，我们使用公里来衡量距离，但我们仍然在谈论汽油里程。"
+    },
+    {
+      "id": 103,
+      "start": 251.52,
+      "end": 252.52,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 104,
+      "start": 252.52,
+      "end": 255.52,
+      "en": "I guess you can't say gas kilomileage.",
+      "zh": "我猜你不能说汽油千里。"
+    },
+    {
+      "id": 105,
+      "start": 255.79,
+      "end": 256.03,
+      "en": "No.",
+      "zh": "不。"
+    },
+    {
+      "id": 106,
+      "start": 256.52,
+      "end": 257.71,
+      "en": "Or something like that.",
+      "zh": "或者类似的东西。"
+    },
+    {
+      "id": 107,
+      "start": 258.44,
+      "end": 266.31,
+      "en": "But yeah, it's basically how many kilometers or how many miles you can travel on a tank or on a liter or gallon of gas.",
+      "zh": "但是，是的，它基本上是您可以在油箱或一升或一加仑汽油上行驶多少公里或多少英里。"
+    },
+    {
+      "id": 108,
+      "start": 267.12,
+      "end": 268.12,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 109,
+      "start": 268.12,
+      "end": 269.12,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 110,
+      "start": 269.12,
+      "end": 270.93,
+      "en": "The next word is airbags.",
+      "zh": "下一个词是安全气囊。"
+    },
+    {
+      "id": 111,
+      "start": 271.61,
+      "end": 272.13,
+      "en": "Airbags.",
+      "zh": "安全气囊。"
+    },
+    {
+      "id": 112,
+      "start": 272.53,
+      "end": 272.91,
+      "en": "Airbags.",
+      "zh": "安全气囊。"
+    },
+    {
+      "id": 113,
+      "start": 273.85,
+      "end": 274.41,
+      "en": "Airbags.",
+      "zh": "安全气囊。"
+    },
+    {
+      "id": 114,
+      "start": 274.87,
+      "end": 279.97,
+      "en": "These are like big bags of air that fill up and come out of the car when there's a crash.",
+      "zh": "这些就像大袋的空气，当发生碰撞时，它们会装满并从车里出来。"
+    },
+    {
+      "id": 115,
+      "start": 280.45,
+      "end": 280.61,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 116,
+      "start": 280.93,
+      "end": 284.79,
+      "en": "So that way you don't hit your head against the steering wheel or something like that.",
+      "zh": "这样你就不会把头撞到方向盘或类似的东西上。"
+    },
+    {
+      "id": 117,
+      "start": 284.85,
+      "end": 285.69,
+      "en": "So they protect you.",
+      "zh": "所以他们保护你。"
+    },
+    {
+      "id": 118,
+      "start": 285.96,
+      "end": 286.96,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 119,
+      "start": 286.96,
+      "end": 289.23,
+      "en": "I've heard that Volvo has like 18 airbags now in their cars.",
+      "zh": "我听说沃尔沃的车里有 18 个安全气囊。"
+    },
+    {
+      "id": 120,
+      "start": 289.84,
+      "end": 291.63,
+      "en": "They are very safe cars, you know.",
+      "zh": "他们是非常安全的汽车，你知道的。"
+    },
+    {
+      "id": 121,
+      "start": 292.36,
+      "end": 292.95,
+      "en": "Like a big balloon.",
+      "zh": "就像一个大气球。"
+    },
+    {
+      "id": 122,
+      "start": 294.09,
+      "end": 294.23,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 123,
+      "start": 294.36,
+      "end": 296.4,
+      "en": "Our third word today is brakes.",
+      "zh": "我们今天的第三个词是刹车。"
+    },
+    {
+      "id": 124,
+      "start": 296.4,
+      "end": 297.4,
+      "en": "Brakes.",
+      "zh": "刹车。"
+    },
+    {
+      "id": 125,
+      "start": 297.63,
+      "end": 298.09,
+      "en": "Brakes.",
+      "zh": "刹车。"
+    },
+    {
+      "id": 126,
+      "start": 298.4,
+      "end": 299.4,
+      "en": "Brakes.",
+      "zh": "刹车。"
+    },
+    {
+      "id": 127,
+      "start": 299.99,
+      "end": 300.49,
+      "en": "So what are brakes?",
+      "zh": "那么什么是刹车？"
+    },
+    {
+      "id": 128,
+      "start": 301.29,
+      "end": 302.64,
+      "en": "Brakes are little...",
+      "zh": "刹车很小..."
+    },
+    {
+      "id": 129,
+      "start": 303.11,
+      "end": 303.49,
+      "en": "What are brakes?",
+      "zh": "什么是刹车？"
+    },
+    {
+      "id": 130,
+      "start": 304.32,
+      "end": 306.17,
+      "en": "Brakes are what make your car stop.",
+      "zh": "刹车是让您的汽车停止的原因。"
+    },
+    {
+      "id": 131,
+      "start": 306.63,
+      "end": 306.93,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 132,
+      "start": 307.05,
+      "end": 310.49,
+      "en": "So they're the little machines maybe that stop your car?",
+      "zh": "所以它们是阻止你的车的小机器？"
+    },
+    {
+      "id": 133,
+      "start": 310.68,
+      "end": 311.68,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 134,
+      "start": 311.68,
+      "end": 312.68,
+      "en": "They're on the wheels.",
+      "zh": "他们在车轮上。"
+    },
+    {
+      "id": 135,
+      "start": 312.68,
+      "end": 313.68,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 136,
+      "start": 313.68,
+      "end": 314.68,
+      "en": "They make your car stop.",
+      "zh": "他们让你的车停下来。"
+    },
+    {
+      "id": 137,
+      "start": 314.68,
+      "end": 315.68,
+      "en": "You have brakes on your bike.",
+      "zh": "你的自行车有刹车。"
+    },
+    {
+      "id": 138,
+      "start": 315.68,
+      "end": 316.68,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 139,
+      "start": 316.68,
+      "end": 317.68,
+      "en": "On your car, etc.",
+      "zh": "在你的车上等。"
+    },
+    {
+      "id": 140,
+      "start": 317.68,
+      "end": 318.68,
+      "en": "Mm-hmm.",
+      "zh": "嗯。"
+    },
+    {
+      "id": 141,
+      "start": 318.68,
+      "end": 322.12,
+      "en": "Our last word today on Language Takeaway, reinforced.",
+      "zh": "我们今天关于语言外卖的最后一句话，得到了加强。"
+    },
+    {
+      "id": 142,
+      "start": 322.12,
+      "end": 322.57,
+      "en": "Reinforced.",
+      "zh": "加固的。"
+    },
+    {
+      "id": 143,
+      "start": 323.12,
+      "end": 324.12,
+      "en": "Reinforced.",
+      "zh": "加固的。"
+    },
+    {
+      "id": 144,
+      "start": 324.12,
+      "end": 325.12,
+      "en": "Reinforced.",
+      "zh": "加固的。"
+    },
+    {
+      "id": 145,
+      "start": 325.12,
+      "end": 330.08,
+      "en": "So we have some examples of how we use reinforced because it's a little bit weird.",
+      "zh": "所以我们有一些如何使用强化的例子，因为它有点奇怪。"
+    },
+    {
+      "id": 146,
+      "start": 330.08,
+      "end": 331.08,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 147,
+      "start": 331.08,
+      "end": 331.89,
+      "en": "These will help you understand the meaning.",
+      "zh": "这些将帮助您理解其含义。"
+    },
+    {
+      "id": 148,
+      "start": 334.2,
+      "end": 334.53,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 149,
+      "start": 341.24,
+      "end": 342.82,
+      "en": "So I reinforced all the walls.",
+      "zh": "所以我加固了所有的墙壁。"
+    },
+    {
+      "id": 150,
+      "start": 343.32,
+      "end": 344.7,
+      "en": "There's no way they're going to fall down.",
+      "zh": "他们不可能倒下。"
+    },
+    {
+      "id": 151,
+      "start": 351.4,
+      "end": 351.66,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 152,
+      "start": 357.34,
+      "end": 360.97,
+      "en": "This plastic is reinforced with glass, so it's both light and strong.",
+      "zh": "这种塑料是用玻璃加固的，所以它既轻又坚固。"
+    },
+    {
+      "id": 153,
+      "start": 365.6,
+      "end": 368.39,
+      "en": "So basically anything that's reinforced is made stronger.",
+      "zh": "所以基本上任何被加强的东西都会变得更强大。"
+    },
+    {
+      "id": 154,
+      "start": 368.95,
+      "end": 369.27,
+      "en": "Perfect.",
+      "zh": "太好了。"
+    },
+    {
+      "id": 155,
+      "start": 369.92,
+      "end": 372.2,
+      "en": "Reinforced steel, reinforced table, anything.",
+      "zh": "钢筋，钢筋桌，任何东西。"
+    },
+    {
+      "id": 156,
+      "start": 372.2,
+      "end": 373.2,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 157,
+      "start": 373.2,
+      "end": 373.39,
+      "en": "Great.",
+      "zh": "太好了。"
+    },
+    {
+      "id": 158,
+      "start": 374.2,
+      "end": 375.66,
+      "en": "So now we can listen to our dialogue again.",
+      "zh": "所以现在我们可以再次聆听我们的对话。"
+    },
+    {
+      "id": 159,
+      "start": 375.66,
+      "end": 378.63,
+      "en": "You can practice all these words that we just talked about and we'll come back shortly.",
+      "zh": "你可以练习我们刚刚谈到的所有这些词，我们很快就会回来。"
+    },
+    {
+      "id": 160,
+      "start": 385.28,
+      "end": 385.55,
+      "en": "Hi there.",
+      "zh": "你好。"
+    },
+    {
+      "id": 161,
+      "start": 386.36,
+      "end": 387.29,
+      "en": "Can I help you folks?",
+      "zh": "我可以帮助你们吗？"
+    },
+    {
+      "id": 162,
+      "start": 388.64,
+      "end": 391.69,
+      "en": "I'm just browsing, seeing what's on the lot.",
+      "zh": "我就是随便看看，看看车场里有什么。"
+    },
+    {
+      "id": 163,
+      "start": 392.72,
+      "end": 394.57,
+      "en": "My daughter wants a car for her birthday.",
+      "zh": "我的女儿想要一辆车作为她的生日。"
+    },
+    {
+      "id": 164,
+      "start": 395.72,
+      "end": 396.45,
+      "en": "You know how it is.",
+      "zh": "你知道它是怎么回事。"
+    },
+    {
+      "id": 165,
+      "start": 397.28,
+      "end": 403.73,
+      "en": "Dad, I'm 16 already and I'm like the only one at school who doesn't have a car.",
+      "zh": "爸爸，我已经 16 岁了，我就像学校里唯一一个没有车的人。"
+    },
+    {
+      "id": 166,
+      "start": 404.76,
+      "end": 405.69,
+      "en": "She is right, you know.",
+      "zh": "她是对的，你知道的。"
+    },
+    {
+      "id": 167,
+      "start": 406.84,
+      "end": 408.4,
+      "en": "Kids these days all have cars.",
+      "zh": "现在的孩子们都有车。"
+    },
+    {
+      "id": 168,
+      "start": 409.72,
+      "end": 411.84,
+      "en": "Let me show you something we just got in.",
+      "zh": "让我给你看我们刚进去的东西。"
+    },
+    {
+      "id": 169,
+      "start": 411.84,
+      "end": 415.8,
+      "en": "A 1996 sedan.",
+      "zh": "一辆1996年的轿车。"
+    },
+    {
+      "id": 170,
+      "start": 415.8,
+      "end": 417.1,
+      "en": "Excellent gas mileage.",
+      "zh": "非常省油。"
+    },
+    {
+      "id": 171,
+      "start": 417.84,
+      "end": 421.0,
+      "en": "It has dual airbags and anti-lock brakes.",
+      "zh": "它有双安全气囊和防抱死制动器。"
+    },
+    {
+      "id": 172,
+      "start": 421.98,
+      "end": 423.98,
+      "en": "A perfect vehicle for a young driver.",
+      "zh": "适合年轻司机的完美车辆。"
+    },
+    {
+      "id": 173,
+      "start": 424.86,
+      "end": 426.42,
+      "en": "Dad, I love it.",
+      "zh": "爸爸，我太喜欢了。"
+    },
+    {
+      "id": 174,
+      "start": 427.28,
+      "end": 428.22,
+      "en": "It's awesome.",
+      "zh": "太棒了。"
+    },
+    {
+      "id": 175,
+      "start": 429.32,
+      "end": 432.08,
+      "en": "Can we get this one, please?",
+      "zh": "我们买这辆好不好？"
+    },
+    {
+      "id": 176,
+      "start": 432.08,
+      "end": 432.64,
+      "en": "I see.",
+      "zh": "我明白了。"
+    },
+    {
+      "id": 177,
+      "start": 433.92,
+      "end": 435.86,
+      "en": "What can you tell me about this one?",
+      "zh": "这辆车你能介绍一下吗？"
+    },
+    {
+      "id": 178,
+      "start": 437.54,
+      "end": 443.64,
+      "en": "Oh, that's just an old World War II tank that we use for TV commercials.",
+      "zh": "哦，那只是我们用于电视广告的旧二战坦克。"
+    },
+    {
+      "id": 179,
+      "start": 444.58,
+      "end": 445.96,
+      "en": "Now about this sedan.",
+      "zh": "现在来说说这辆轿车。"
+    },
+    {
+      "id": 180,
+      "start": 446.92,
+      "end": 449.2,
+      "en": "Whoa, whoa, wait a minute.",
+      "zh": "哎，等等！"
+    },
+    {
+      "id": 181,
+      "start": 449.86,
+      "end": 451.42,
+      "en": "Tell me more about this tank.",
+      "zh": "告诉我更多关于这个坦克的信息。"
+    },
+    {
+      "id": 182,
+      "start": 453.12,
+      "end": 459.98,
+      "en": "Well, sir, if you are looking for quality and safety, then look no further.",
+      "zh": "先生，要说结实和安全，这辆坦克绝对首屈一指。"
+    },
+    {
+      "id": 183,
+      "start": 461.2,
+      "end": 466.38,
+      "en": "Three inches of reinforced steel protect your daughter from short-range missile attacks.",
+      "zh": "三英寸厚的加强钢板能保护您女儿免受短程导弹袭击。"
+    },
+    {
+      "id": 184,
+      "start": 467.68,
+      "end": 470.6,
+      "en": "Does the sedan protect her from missile attacks?",
+      "zh": "轿车能保护她免受导弹攻击吗？"
+    },
+    {
+      "id": 185,
+      "start": 472.0,
+      "end": 472.48,
+      "en": "It does not.",
+      "zh": "轿车可不行。"
+    },
+    {
+      "id": 186,
+      "start": 473.33,
+      "end": 475.27,
+      "en": "Well, I don't know.",
+      "zh": "嗯，我不知道。"
+    },
+    {
+      "id": 187,
+      "start": 475.95,
+      "end": 477.17,
+      "en": "Let me sleep on it.",
+      "zh": "我得再考虑考虑。"
+    },
+    {
+      "id": 188,
+      "start": 477.93,
+      "end": 480.07,
+      "en": "Did I mention the tank is a tank?",
+      "zh": "我有没有提到坦克是坦克？"
+    },
+    {
+      "id": 189,
+      "start": 480.89,
+      "end": 482.23,
+      "en": "I'll take it.",
+      "zh": "我要这个。"
+    },
+    {
+      "id": 190,
+      "start": 483.05,
+      "end": 483.45,
+      "en": "Dad.",
+      "zh": "爸爸。"
+    },
+    {
+      "id": 191,
+      "start": 490.38,
+      "end": 493.76,
+      "en": "So we have a couple of interesting phrases to talk about shopping.",
+      "zh": "所以我们有几个有趣的短语来谈论购物。"
+    },
+    {
+      "id": 192,
+      "start": 494.6,
+      "end": 495.6,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 193,
+      "start": 495.6,
+      "end": 496.98,
+      "en": "Let's look at these in Fluency Builder.",
+      "zh": "让我们看看这些在 Fluency Builder 中。"
+    },
+    {
+      "id": 194,
+      "start": 498.76,
+      "end": 499.04,
+      "en": "Fluency Builder.",
+      "zh": "流利表达。"
+    },
+    {
+      "id": 195,
+      "start": 500.14,
+      "end": 502.42,
+      "en": "The first one today is, I'm just browsing.",
+      "zh": "今天的第一个是，我只是在浏览。"
+    },
+    {
+      "id": 196,
+      "start": 503.4,
+      "end": 504.76,
+      "en": "I'm just browsing.",
+      "zh": "我只是随便看看。"
+    },
+    {
+      "id": 197,
+      "start": 505.44,
+      "end": 506.32,
+      "en": "I'm just browsing.",
+      "zh": "我只是随便看看。"
+    },
+    {
+      "id": 198,
+      "start": 506.76,
+      "end": 508.0,
+      "en": "I'm just browsing.",
+      "zh": "我只是随便看看。"
+    },
+    {
+      "id": 199,
+      "start": 508.0,
+      "end": 513.52,
+      "en": "This is a really useful phrase because usually salespeople will come up to you and ask you, can I help you?",
+      "zh": "这是一个非常有用的短语，因为通常销售人员会来找你问你，我能帮你吗？"
+    },
+    {
+      "id": 200,
+      "start": 514.04,
+      "end": 514.42,
+      "en": "Are you interested in something?",
+      "zh": "你对某事感兴趣吗？"
+    },
+    {
+      "id": 201,
+      "start": 515.04,
+      "end": 516.04,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 202,
+      "start": 516.04,
+      "end": 517.04,
+      "en": "And you're just looking.",
+      "zh": "而你只是在寻找。"
+    },
+    {
+      "id": 203,
+      "start": 517.04,
+      "end": 518.56,
+      "en": "Yeah, you maybe don't really want to buy today.",
+      "zh": "是的，你今天可能真的不想买。"
+    },
+    {
+      "id": 204,
+      "start": 518.56,
+      "end": 519.56,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 205,
+      "start": 519.56,
+      "end": 520.4,
+      "en": "So you're just, I'm just browsing.",
+      "zh": "所以你只是，我只是在浏览。"
+    },
+    {
+      "id": 206,
+      "start": 521.24,
+      "end": 522.72,
+      "en": "So then they'll just leave you alone.",
+      "zh": "所以他们只会让你一个人呆着。"
+    },
+    {
+      "id": 207,
+      "start": 523.0,
+      "end": 524.24,
+      "en": "Yeah, they won't bother you as much.",
+      "zh": "是的，他们不会那么困扰你。"
+    },
+    {
+      "id": 208,
+      "start": 524.86,
+      "end": 526.08,
+      "en": "Yeah, it's a good, good phrase.",
+      "zh": "是的，这是一个很好的短语。"
+    },
+    {
+      "id": 209,
+      "start": 526.32,
+      "end": 527.22,
+      "en": "Another good phrase.",
+      "zh": "另一个好词。"
+    },
+    {
+      "id": 210,
+      "start": 528.88,
+      "end": 529.2,
+      "en": "Sleep on it.",
+      "zh": "先考虑一晚吧。"
+    },
+    {
+      "id": 211,
+      "start": 529.88,
+      "end": 530.2,
+      "en": "Sleep on it.",
+      "zh": "先考虑一晚吧。"
+    },
+    {
+      "id": 212,
+      "start": 530.88,
+      "end": 531.88,
+      "en": "Sleep on it.",
+      "zh": "先考虑一晚吧。"
+    },
+    {
+      "id": 213,
+      "start": 531.88,
+      "end": 533.32,
+      "en": "Sleep on it.",
+      "zh": "先考虑一晚吧。"
+    },
+    {
+      "id": 214,
+      "start": 533.32,
+      "end": 535.82,
+      "en": "So we have some examples of how we use sleep on it.",
+      "zh": "所以我们有一些关于如何在上面使用 sleep 的例子。"
+    },
+    {
+      "id": 215,
+      "start": 537.6,
+      "end": 537.85,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 216,
+      "start": 542.64,
+      "end": 544.36,
+      "en": "I don't know if we should buy that house.",
+      "zh": "我不知道我们是否应该买那所房子。"
+    },
+    {
+      "id": 217,
+      "start": 545.12,
+      "end": 547.66,
+      "en": "It's perfect for us, but it's so expensive.",
+      "zh": "它对我们来说是完美的，但它是如此昂贵。"
+    },
+    {
+      "id": 218,
+      "start": 548.68,
+      "end": 549.2,
+      "en": "Let's sleep on it.",
+      "zh": "让我们睡在上面。"
+    },
+    {
+      "id": 219,
+      "start": 555.24,
+      "end": 559.72,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 220,
+      "start": 559.72,
+      "end": 568.36,
+      "en": "Why don't you sleep on it and tell me tomorrow?",
+      "zh": "你为什么不睡在上面，明天告诉我？"
+    },
+    {
+      "id": 221,
+      "start": 568.36,
+      "end": 572.84,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 222,
+      "start": 572.84,
+      "end": 574.32,
+      "en": "This is a bit more than what I can afford.",
+      "zh": "这比我能承受的要多一些。"
+    },
+    {
+      "id": 223,
+      "start": 574.92,
+      "end": 575.52,
+      "en": "Let me sleep on it.",
+      "zh": "我得再考虑考虑。"
+    },
+    {
+      "id": 224,
+      "start": 580.08,
+      "end": 581.64,
+      "en": "To sleep on it means to...",
+      "zh": "睡觉就意味着..."
+    },
+    {
+      "id": 225,
+      "start": 582.24,
+      "end": 583.48,
+      "en": "Like to think about it overnight.",
+      "zh": "喜欢一夜之间想想。"
+    },
+    {
+      "id": 226,
+      "start": 583.88,
+      "end": 584.5,
+      "en": "To think about it.",
+      "zh": "去想它。"
+    },
+    {
+      "id": 227,
+      "start": 584.88,
+      "end": 585.88,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 228,
+      "start": 585.88,
+      "end": 586.88,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 229,
+      "start": 586.88,
+      "end": 588.84,
+      "en": "So maybe you want to buy this really expensive car.",
+      "zh": "所以也许你想买这辆非常昂贵的汽车。"
+    },
+    {
+      "id": 230,
+      "start": 588.84,
+      "end": 589.7,
+      "en": "But you need to think about it.",
+      "zh": "但你需要考虑一下。"
+    },
+    {
+      "id": 231,
+      "start": 589.96,
+      "end": 590.96,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 232,
+      "start": 590.96,
+      "end": 591.34,
+      "en": "So you'll sleep on it.",
+      "zh": "所以你会睡在上面。"
+    },
+    {
+      "id": 233,
+      "start": 591.96,
+      "end": 592.96,
+      "en": "So yeah.",
+      "zh": "所以是的。"
+    },
+    {
+      "id": 234,
+      "start": 592.96,
+      "end": 595.68,
+      "en": "You go home, sleep on it, think about it twice, and then make a decision.",
+      "zh": "你回家，睡在上面，想一想，然后做出决定。"
+    },
+    {
+      "id": 235,
+      "start": 596.28,
+      "end": 597.28,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 236,
+      "start": 597.28,
+      "end": 598.52,
+      "en": "Okay, great words and great dialogue.",
+      "zh": "好的，很棒的文字和很棒的对话。"
+    },
+    {
+      "id": 237,
+      "start": 598.86,
+      "end": 599.98,
+      "en": "Yeah, I love this dialogue.",
+      "zh": "是的，我喜欢这个对话。"
+    },
+    {
+      "id": 238,
+      "start": 600.28,
+      "end": 601.42,
+      "en": "Yeah, it's kind of funny.",
+      "zh": "是的，这有点好笑。"
+    },
+    {
+      "id": 239,
+      "start": 601.88,
+      "end": 605.12,
+      "en": "So we could listen to it again, and then we'll come back and talk a little bit about it.",
+      "zh": "所以我们可以再听一遍，然后我们会回来谈谈它。"
+    },
+    {
+      "id": 240,
+      "start": 619.52,
+      "end": 620.44,
+      "en": "Hi there, can I help you folks?",
+      "zh": "您好，有什么能帮您的吗？"
+    },
+    {
+      "id": 241,
+      "start": 622.95,
+      "end": 625.67,
+      "en": "I'm just browsing, seeing what's on the lot.",
+      "zh": "我就是随便看看，看看车场里有什么。"
+    },
+    {
+      "id": 242,
+      "start": 626.13,
+      "end": 627.75,
+      "en": "My daughter wants a car for her birthday.",
+      "zh": "我的女儿想要一辆车作为她的生日。"
+    },
+    {
+      "id": 243,
+      "start": 627.96,
+      "end": 628.96,
+      "en": "You know how it is.",
+      "zh": "你知道它是怎么回事。"
+    },
+    {
+      "id": 244,
+      "start": 628.96,
+      "end": 634.53,
+      "en": "Dad, I'm 16 already, and I'm like the only one at school who doesn't have a car.",
+      "zh": "爸，我都十六岁了，全校好像只有我还没车。"
+    },
+    {
+      "id": 245,
+      "start": 634.97,
+      "end": 635.75,
+      "en": "She's right, you know.",
+      "zh": "你知道，她说得对。"
+    },
+    {
+      "id": 246,
+      "start": 636.24,
+      "end": 638.08,
+      "en": "Kids these days all have cars.",
+      "zh": "现在的孩子们都有车。"
+    },
+    {
+      "id": 247,
+      "start": 638.08,
+      "end": 639.21,
+      "en": "Let me show you something we just got in.",
+      "zh": "让我给你看我们刚进去的东西。"
+    },
+    {
+      "id": 248,
+      "start": 639.28,
+      "end": 641.68,
+      "en": "A 1996 sedan.",
+      "zh": "一辆1996年的轿车。"
+    },
+    {
+      "id": 249,
+      "start": 641.68,
+      "end": 642.23,
+      "en": "Excellent gas mileage.",
+      "zh": "非常省油。"
+    },
+    {
+      "id": 250,
+      "start": 642.76,
+      "end": 644.33,
+      "en": "It has dual airbags and anti-lock brakes.",
+      "zh": "它有双安全气囊和防抱死制动器。"
+    },
+    {
+      "id": 251,
+      "start": 644.85,
+      "end": 646.31,
+      "en": "A perfect vehicle for a young driver.",
+      "zh": "适合年轻司机的完美车辆。"
+    },
+    {
+      "id": 252,
+      "start": 647.07,
+      "end": 648.07,
+      "en": "Dad, I love it.",
+      "zh": "爸爸，我太喜欢了。"
+    },
+    {
+      "id": 253,
+      "start": 648.23,
+      "end": 648.65,
+      "en": "It's awesome.",
+      "zh": "太棒了。"
+    },
+    {
+      "id": 254,
+      "start": 649.49,
+      "end": 650.73,
+      "en": "Can we get this one, please?",
+      "zh": "我们买这辆好不好？"
+    },
+    {
+      "id": 255,
+      "start": 651.9,
+      "end": 652.88,
+      "en": "I see.",
+      "zh": "我明白了。"
+    },
+    {
+      "id": 256,
+      "start": 653.5,
+      "end": 654.9,
+      "en": "What can you tell me about this one?",
+      "zh": "这辆车你能介绍一下吗？"
+    },
+    {
+      "id": 257,
+      "start": 655.84,
+      "end": 659.88,
+      "en": "Oh, that's just an old World War II tank that we used for TV commercials.",
+      "zh": "哦，那只是我们用于电视广告的旧二战坦克。"
+    },
+    {
+      "id": 258,
+      "start": 660.58,
+      "end": 661.38,
+      "en": "Now about this sedan.",
+      "zh": "现在来说说这辆轿车。"
+    },
+    {
+      "id": 259,
+      "start": 661.58,
+      "end": 662.74,
+      "en": "Whoa, whoa, wait a minute.",
+      "zh": "哎，等等！"
+    },
+    {
+      "id": 260,
+      "start": 663.18,
+      "end": 664.26,
+      "en": "Tell me more about this tank.",
+      "zh": "告诉我更多关于这个坦克的信息。"
+    },
+    {
+      "id": 261,
+      "start": 666.35,
+      "end": 670.49,
+      "en": "Well, sir, if you are looking for quality and safety, then look no further.",
+      "zh": "先生，要说结实和安全，这辆坦克绝对首屈一指。"
+    },
+    {
+      "id": 262,
+      "start": 671.17,
+      "end": 675.15,
+      "en": "Three inches of reinforced steel protect your daughter from short-range missile attacks.",
+      "zh": "三英寸厚的加强钢板能保护您女儿免受短程导弹袭击。"
+    },
+    {
+      "id": 263,
+      "start": 676.44,
+      "end": 679.05,
+      "en": "Does the sedan protect her from missile attacks?",
+      "zh": "轿车能保护她免受导弹攻击吗？"
+    },
+    {
+      "id": 264,
+      "start": 679.56,
+      "end": 679.89,
+      "en": "It does not.",
+      "zh": "轿车可不行。"
+    },
+    {
+      "id": 265,
+      "start": 680.44,
+      "end": 681.5,
+      "en": "Well, I don't know.",
+      "zh": "嗯，我不知道。"
+    },
+    {
+      "id": 266,
+      "start": 682.06,
+      "end": 682.84,
+      "en": "Let me sleep on it.",
+      "zh": "我得再考虑考虑。"
+    },
+    {
+      "id": 267,
+      "start": 683.22,
+      "end": 685.18,
+      "en": "Did I mention the tank is a tank?",
+      "zh": "我有没有提到坦克是坦克？"
+    },
+    {
+      "id": 268,
+      "start": 685.28,
+      "end": 686.06,
+      "en": "I'll take it.",
+      "zh": "我要这个。"
+    },
+    {
+      "id": 269,
+      "start": 688.44,
+      "end": 690.84,
+      "en": "Dad!",
+      "zh": "爸爸！"
+    },
+    {
+      "id": 270,
+      "start": 693.49,
+      "end": 696.15,
+      "en": "So, Marco, have you ever driven a tank?",
+      "zh": "那么，马可，你开过坦克吗？"
+    },
+    {
+      "id": 271,
+      "start": 698.48,
+      "end": 701.2,
+      "en": "I mean, I know you're in the Army.",
+      "zh": "我的意思是，我知道你在军队。"
+    },
+    {
+      "id": 272,
+      "start": 701.93,
+      "end": 703.25,
+      "en": "Yeah, actually I did.",
+      "zh": "是的，其实我做到了。"
+    },
+    {
+      "id": 273,
+      "start": 703.48,
+      "end": 705.29,
+      "en": "I did drive a tank before.",
+      "zh": "我以前确实开过坦克。"
+    },
+    {
+      "id": 274,
+      "start": 705.53,
+      "end": 705.85,
+      "en": "Really?",
+      "zh": "真的吗？"
+    },
+    {
+      "id": 275,
+      "start": 706.84,
+      "end": 707.84,
+      "en": "Yeah, really old one.",
+      "zh": "是的，真的很老一。"
+    },
+    {
+      "id": 276,
+      "start": 707.84,
+      "end": 709.32,
+      "en": "Kind of like a World War II type tank.",
+      "zh": "有点像二战型坦克。"
+    },
+    {
+      "id": 277,
+      "start": 709.32,
+      "end": 711.52,
+      "en": "But yeah, they're really fun and interesting.",
+      "zh": "但是，是的，它们真的很有趣也很有趣。"
+    },
+    {
+      "id": 278,
+      "start": 711.52,
+      "end": 712.77,
+      "en": "It's not like driving a normal car.",
+      "zh": "这不像驾驶普通汽车。"
+    },
+    {
+      "id": 279,
+      "start": 713.0,
+      "end": 714.0,
+      "en": "You have pedals.",
+      "zh": "你有踏板。"
+    },
+    {
+      "id": 280,
+      "start": 714.0,
+      "end": 715.36,
+      "en": "So there's no steering wheel?",
+      "zh": "所以没有方向盘？"
+    },
+    {
+      "id": 281,
+      "start": 715.36,
+      "end": 716.36,
+      "en": "No, no, no.",
+      "zh": "不，不，不。"
+    },
+    {
+      "id": 282,
+      "start": 716.36,
+      "end": 718.48,
+      "en": "You have levers.",
+      "zh": "你有杠杆。"
+    },
+    {
+      "id": 283,
+      "start": 718.48,
+      "end": 723.52,
+      "en": "And what many people don't know is that actually tanks are manual transmissions.",
+      "zh": "许多人不知道的是，坦克实际上是手动变速箱。"
+    },
+    {
+      "id": 284,
+      "start": 723.52,
+      "end": 724.68,
+      "en": "You have to change gears.",
+      "zh": "你必须换档。"
+    },
+    {
+      "id": 285,
+      "start": 724.87,
+      "end": 725.68,
+      "en": "Oh, really?",
+      "zh": "哦，真的吗？"
+    },
+    {
+      "id": 286,
+      "start": 725.85,
+      "end": 727.99,
+      "en": "And it's really hard to change gears on those things.",
+      "zh": "改变这些东西真的很难。"
+    },
+    {
+      "id": 287,
+      "start": 728.28,
+      "end": 729.91,
+      "en": "And what's the gas mileage like in a tank?",
+      "zh": "油箱里的油耗是多少？"
+    },
+    {
+      "id": 288,
+      "start": 730.96,
+      "end": 731.96,
+      "en": "I don't know.",
+      "zh": "我不知道。"
+    },
+    {
+      "id": 289,
+      "start": 731.96,
+      "end": 733.27,
+      "en": "Maybe like five miles per gallon.",
+      "zh": "也许每加仑五英里。"
+    },
+    {
+      "id": 290,
+      "start": 733.93,
+      "end": 736.87,
+      "en": "They run on diesel, which is a different type of fuel, right?",
+      "zh": "他们用柴油运行，这是一种不同类型的燃料，对吧？"
+    },
+    {
+      "id": 291,
+      "start": 737.08,
+      "end": 738.08,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 292,
+      "start": 738.08,
+      "end": 739.08,
+      "en": "Okay, well, very cool.",
+      "zh": "好吧，很酷。"
+    },
+    {
+      "id": 293,
+      "start": 739.08,
+      "end": 741.97,
+      "en": "I never knew that my podcast partner had driven a tank.",
+      "zh": "我从来不知道我的播客伙伴开过一辆坦克。"
+    },
+    {
+      "id": 294,
+      "start": 742.28,
+      "end": 742.79,
+      "en": "That's pretty awesome.",
+      "zh": "那真是太棒了。"
+    },
+    {
+      "id": 295,
+      "start": 743.28,
+      "end": 744.83,
+      "en": "Yeah, well, it was fun, definitely.",
+      "zh": "是的，嗯，这很有趣，当然。"
+    },
+    {
+      "id": 296,
+      "start": 745.28,
+      "end": 746.85,
+      "en": "And I hope I get to do it again someday.",
+      "zh": "我希望有一天我能再做一次。"
+    },
+    {
+      "id": 297,
+      "start": 747.56,
+      "end": 748.76,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 298,
+      "start": 748.76,
+      "end": 751.25,
+      "en": "Well, guys, have you ever driven a tank?",
+      "zh": "好吧，伙计们，你开过坦克吗？"
+    },
+    {
+      "id": 299,
+      "start": 752.08,
+      "end": 755.24,
+      "en": "Or a submarine or any type of armored vehicle?",
+      "zh": "还是潜艇或任何类型的装甲车？"
+    },
+    {
+      "id": 300,
+      "start": 755.48,
+      "end": 756.48,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 301,
+      "start": 756.48,
+      "end": 758.88,
+      "en": "You can find out more about it at our website, EnglishPod.com.",
+      "zh": "您可以在我们的网站 englishpod.com 上了解有关它的更多信息。"
+    },
+    {
+      "id": 302,
+      "start": 759.48,
+      "end": 759.9,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 303,
+      "start": 760.02,
+      "end": 761.66,
+      "en": "We'll be there to answer all your questions.",
+      "zh": "我们将在那里回答您的所有问题。"
+    },
+    {
+      "id": 304,
+      "start": 762.08,
+      "end": 764.86,
+      "en": "I'll also be there to maybe post some more crazy stories.",
+      "zh": "我也会在那里发布一些更疯狂的故事。"
+    },
+    {
+      "id": 305,
+      "start": 765.32,
+      "end": 766.36,
+      "en": "Or some pictures of a tank.",
+      "zh": "或者一些坦克的照片。"
+    },
+    {
+      "id": 306,
+      "start": 766.72,
+      "end": 767.72,
+      "en": "Yeah, maybe.",
+      "zh": "对，也许吧。"
+    },
+    {
+      "id": 307,
+      "start": 767.72,
+      "end": 768.72,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 308,
+      "start": 768.72,
+      "end": 769.72,
+      "en": "All right, guys.",
+      "zh": "好了，各位。"
+    },
+    {
+      "id": 309,
+      "start": 769.72,
+      "end": 770.72,
+      "en": "We'll see you there.",
+      "zh": "到时候见。"
+    },
+    {
+      "id": 310,
+      "start": 770.72,
+      "end": 771.72,
+      "en": "Until then, it's goodbye.",
+      "zh": "那我们下次再见。"
+    },
+    {
+      "id": 311,
+      "start": 771.72,
+      "end": 777.979,
+      "en": "Bye.",
+      "zh": "再见。"
+    }
+  ],
+  "dialog": {
+    "start": 120.53,
+    "end": 187.83,
+    "segmentIds": [
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83
+    ]
+  }
+}

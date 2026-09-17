@@ -1,0 +1,2607 @@
+{
+  "version": 1,
+  "id": 67,
+  "number": "0067",
+  "title": "The Weekend - Soccer",
+  "audio": "mp3/67. The Weekend - Soccer.mp3",
+  "duration": 903.4971875,
+  "segments": [
+    {
+      "id": 1,
+      "start": 1.36,
+      "end": 2.66,
+      "en": "Hello, English learners.",
+      "zh": "各位英语学习者，大家好。"
+    },
+    {
+      "id": 2,
+      "start": 3.04,
+      "end": 4.44,
+      "en": "Welcome back to EnglishPod.",
+      "zh": "欢迎回到 EnglishPod。"
+    },
+    {
+      "id": 3,
+      "start": 4.44,
+      "end": 4.9,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 4,
+      "start": 5.28,
+      "end": 6.02,
+      "en": "And I'm Erica.",
+      "zh": "我叫 Erica。"
+    },
+    {
+      "id": 5,
+      "start": 6.48,
+      "end": 10.72,
+      "en": "And today we're bringing you another great lesson about sports, part of our sports series.",
+      "zh": "今天，我们将为您带来关于体育的另一个重要课程，这是我们体育系列的一部分。"
+    },
+    {
+      "id": 6,
+      "start": 11.1,
+      "end": 11.38,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 7,
+      "start": 12.28,
+      "end": 18.2,
+      "en": "And in this lesson, we are talking about maybe the world's most favorite sport.",
+      "zh": "在本课中，我们谈论的可能是世界上最受欢迎的运动。"
+    },
+    {
+      "id": 8,
+      "start": 18.2,
+      "end": 18.48,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 9,
+      "start": 19.2,
+      "end": 21.92,
+      "en": "One of the most popular sports in the world, soccer.",
+      "zh": "世界上最受欢迎的运动之一，足球。"
+    },
+    {
+      "id": 10,
+      "start": 23.0,
+      "end": 24.78,
+      "en": "Or also known as football in other countries.",
+      "zh": "或者在其他国家也被称为足球。"
+    },
+    {
+      "id": 11,
+      "start": 25.32,
+      "end": 26.32,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 12,
+      "start": 26.32,
+      "end": 33.49,
+      "en": "So, before we get started with this great lesson, let's take a look at some of the words we'll find in the dialogue in Vocabulary Preview.",
+      "zh": "所以，在我们开始学习这个伟大的课程之前，让我们来看看我们将在词汇预览的对话中找到的一些单词。"
+    },
+    {
+      "id": 13,
+      "start": 35.28,
+      "end": 37.04,
+      "en": "Vocabulary Preview.",
+      "zh": "词汇预习。"
+    },
+    {
+      "id": 14,
+      "start": 37.04,
+      "end": 38.83,
+      "en": "We're going to look at three words here.",
+      "zh": "我们将在这里看三个词。"
+    },
+    {
+      "id": 15,
+      "start": 39.34,
+      "end": 41.69,
+      "en": "The first word is wingman.",
+      "zh": "第一个词是Wingman。"
+    },
+    {
+      "id": 16,
+      "start": 42.72,
+      "end": 43.03,
+      "en": "Wingman.",
+      "zh": "翼人。"
+    },
+    {
+      "id": 17,
+      "start": 43.72,
+      "end": 44.72,
+      "en": "A wingman.",
+      "zh": "一个翼人。"
+    },
+    {
+      "id": 18,
+      "start": 44.72,
+      "end": 48.25,
+      "en": "Now, wingman isn't really related to soccer in any way.",
+      "zh": "现在，Wingman 与足球并没有任何关系。"
+    },
+    {
+      "id": 19,
+      "start": 48.72,
+      "end": 49.72,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 20,
+      "start": 49.72,
+      "end": 52.85,
+      "en": "But it's a way of referring to somebody as your right hand.",
+      "zh": "但这是一种将某人称为您的右手的方式。"
+    },
+    {
+      "id": 21,
+      "start": 53.5,
+      "end": 54.53,
+      "en": "So your helper.",
+      "zh": "所以你的帮手。"
+    },
+    {
+      "id": 22,
+      "start": 55.08,
+      "end": 55.35,
+      "en": "Your helper.",
+      "zh": "你的助手。"
+    },
+    {
+      "id": 23,
+      "start": 56.28,
+      "end": 57.15,
+      "en": "Your number one guy.",
+      "zh": "你的第一人。"
+    },
+    {
+      "id": 24,
+      "start": 57.76,
+      "end": 58.76,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 25,
+      "start": 58.76,
+      "end": 59.76,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 26,
+      "start": 59.76,
+      "end": 62.88,
+      "en": "So a wingman is someone who helps you a lot.",
+      "zh": "所以僚机是对你有很大帮助的人。"
+    },
+    {
+      "id": 27,
+      "start": 62.88,
+      "end": 63.88,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 28,
+      "start": 63.88,
+      "end": 64.88,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 29,
+      "start": 64.88,
+      "end": 66.67,
+      "en": "Our next word, tied.",
+      "zh": "我们的下一个词，绑。"
+    },
+    {
+      "id": 30,
+      "start": 66.88,
+      "end": 68.36,
+      "en": "Tied.",
+      "zh": "捆绑。"
+    },
+    {
+      "id": 31,
+      "start": 68.36,
+      "end": 68.97,
+      "en": "They are tied.",
+      "zh": "他们被捆绑了。"
+    },
+    {
+      "id": 32,
+      "start": 70.08,
+      "end": 70.93,
+      "en": "They are tied.",
+      "zh": "他们被捆绑了。"
+    },
+    {
+      "id": 33,
+      "start": 71.59,
+      "end": 77.68,
+      "en": "Now, this is an interesting word because tie can be a noun, verb, and an adjective, right?",
+      "zh": "现在，这是一个有趣的词，因为 tie 可以是名词、动词和形容词，对吧？"
+    },
+    {
+      "id": 34,
+      "start": 77.84,
+      "end": 78.14,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 35,
+      "start": 78.56,
+      "end": 80.36,
+      "en": "So in this case, they are tied.",
+      "zh": "所以在这种情况下，它们是绑定的。"
+    },
+    {
+      "id": 36,
+      "start": 80.76,
+      "end": 82.04,
+      "en": "It's an adjective meaning...",
+      "zh": "是形容词的意思..."
+    },
+    {
+      "id": 37,
+      "start": 82.7,
+      "end": 83.8,
+      "en": "They have the same score.",
+      "zh": "他们的分数相同。"
+    },
+    {
+      "id": 38,
+      "start": 84.12,
+      "end": 84.3,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 39,
+      "start": 85.44,
+      "end": 87.52,
+      "en": "So a tie is...",
+      "zh": "所以领带是..."
+    },
+    {
+      "id": 40,
+      "start": 87.52,
+      "end": 91.08,
+      "en": "Is a game that has ended with no winner or loser.",
+      "zh": "是一场没有赢家或输家的游戏。"
+    },
+    {
+      "id": 41,
+      "start": 91.08,
+      "end": 91.96,
+      "en": "Both of them had the same score.",
+      "zh": "两人的分数相同。"
+    },
+    {
+      "id": 42,
+      "start": 92.6,
+      "end": 93.6,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 43,
+      "start": 93.6,
+      "end": 99.04,
+      "en": "And so obviously, the verb to tie is to reach the same score as your other team.",
+      "zh": "所以很明显，Tie 的动词是为了达到与其他团队相同的分数。"
+    },
+    {
+      "id": 44,
+      "start": 99.52,
+      "end": 100.06,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 45,
+      "start": 100.52,
+      "end": 101.52,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 46,
+      "start": 101.52,
+      "end": 106.26,
+      "en": "Well, our third word can also be used as a noun and a verb and it is foul.",
+      "zh": "好吧，我们的第三个词也可以用作名词和动词，而且是犯规的。"
+    },
+    {
+      "id": 47,
+      "start": 106.92,
+      "end": 107.92,
+      "en": "Fouled.",
+      "zh": "犯规。"
+    },
+    {
+      "id": 48,
+      "start": 107.92,
+      "end": 108.92,
+      "en": "Fouled.",
+      "zh": "犯规。"
+    },
+    {
+      "id": 49,
+      "start": 109.54,
+      "end": 109.92,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 50,
+      "start": 110.08,
+      "end": 116.8,
+      "en": "So, to foul somebody is to do something to them that is not allowed in the sport.",
+      "zh": "所以，对某人犯规就是对他们做一些这项运动不允许的事情。"
+    },
+    {
+      "id": 51,
+      "start": 117.2,
+      "end": 117.54,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 52,
+      "start": 118.56,
+      "end": 121.94,
+      "en": "And so when you do this, you have committed a foul.",
+      "zh": "所以当你这样做时，你犯了犯规。"
+    },
+    {
+      "id": 53,
+      "start": 122.3,
+      "end": 122.46,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 54,
+      "start": 123.12,
+      "end": 123.44,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 55,
+      "start": 123.48,
+      "end": 126.76,
+      "en": "So you use it in the same way, to foul or a foul.",
+      "zh": "所以你以同样的方式使用它，犯规或犯规。"
+    },
+    {
+      "id": 56,
+      "start": 127.04,
+      "end": 127.64,
+      "en": "Interesting.",
+      "zh": "有意思。"
+    },
+    {
+      "id": 57,
+      "start": 128.2,
+      "end": 131.82,
+      "en": "Well, we're going to hear these three words in context now.",
+      "zh": "好吧，我们现在将在上下文中听到这三个词。"
+    },
+    {
+      "id": 58,
+      "start": 132.06,
+      "end": 135.02,
+      "en": "So why don't we listen to our soccer dialogue?",
+      "zh": "那么我们为什么不听我们的足球对话呢？"
+    },
+    {
+      "id": 59,
+      "start": 149.88,
+      "end": 150.68,
+      "en": "Welcome back, soccer fans.",
+      "zh": "欢迎回来，各位球迷。"
+    },
+    {
+      "id": 60,
+      "start": 150.96,
+      "end": 151.68,
+      "en": "My name is Rick Fields.",
+      "zh": "我的名字是瑞克菲尔兹。"
+    },
+    {
+      "id": 61,
+      "start": 152.02,
+      "end": 155.26,
+      "en": "And as always, I am joined by my commentating wingman, Bob Copeland.",
+      "zh": "和往常一样，跟我搭档解说的是鲍勃·科普兰。"
+    },
+    {
+      "id": 62,
+      "start": 155.68,
+      "end": 161.34,
+      "en": "And we're in the brink of soccer history today as Ecuador and Brazil are tied 1-1.",
+      "zh": "今天我们正见证历史时刻：厄瓜多尔与巴西暂时一比一平。"
+    },
+    {
+      "id": 63,
+      "start": 161.34,
+      "end": 165.24,
+      "en": "As we begin the second half of the 2022 World Cup.",
+      "zh": "2022年世界杯下半场即将开始。"
+    },
+    {
+      "id": 64,
+      "start": 166.52,
+      "end": 167.77,
+      "en": "The ref calls the players for the kickoff.",
+      "zh": "裁判示意双方准备开球。"
+    },
+    {
+      "id": 65,
+      "start": 168.09,
+      "end": 168.97,
+      "en": "And here we go.",
+      "zh": "好了，开始吧。"
+    },
+    {
+      "id": 66,
+      "start": 169.39,
+      "end": 171.09,
+      "en": "Ecuador quickly passes the ball to the midfield.",
+      "zh": "厄瓜多尔迅速将球传给中场。"
+    },
+    {
+      "id": 67,
+      "start": 171.57,
+      "end": 172.93,
+      "en": "But oh, it's out of bounds.",
+      "zh": "哎呀，球出界了。"
+    },
+    {
+      "id": 68,
+      "start": 173.44,
+      "end": 174.92,
+      "en": "That'll be a throw in for Brazil.",
+      "zh": "巴西队获得界外球。"
+    },
+    {
+      "id": 69,
+      "start": 174.92,
+      "end": 178.98,
+      "en": "Adriano has the ball and makes a long pass to Robinho.",
+      "zh": "阿德里亚诺拿到球，长传给罗比尼奥。"
+    },
+    {
+      "id": 70,
+      "start": 178.98,
+      "end": 180.05,
+      "en": "And the ref has called him offside.",
+      "zh": "裁判判他越位。"
+    },
+    {
+      "id": 71,
+      "start": 180.76,
+      "end": 181.59,
+      "en": "No question about it.",
+      "zh": "毫无疑问。"
+    },
+    {
+      "id": 72,
+      "start": 181.82,
+      "end": 182.85,
+      "en": "He was offside by a mile.",
+      "zh": "他明显越位了。"
+    },
+    {
+      "id": 73,
+      "start": 183.64,
+      "end": 184.72,
+      "en": "We have a goal kick for Ecuador.",
+      "zh": "厄瓜多尔队开球门球。"
+    },
+    {
+      "id": 74,
+      "start": 185.3,
+      "end": 186.64,
+      "en": "Edison Mendes heads it to Valencia.",
+      "zh": "爱迪生·门德斯头球摆渡给巴伦西亚。"
+    },
+    {
+      "id": 75,
+      "start": 187.04,
+      "end": 187.23,
+      "en": "He shoots.",
+      "zh": "他射门了。"
+    },
+    {
+      "id": 76,
+      "start": 187.94,
+      "end": 188.75,
+      "en": "Deflected by the defender.",
+      "zh": "球被防守队员挡偏了。"
+    },
+    {
+      "id": 77,
+      "start": 189.13,
+      "end": 190.17,
+      "en": "And we have a corner kick.",
+      "zh": "角球！"
+    },
+    {
+      "id": 78,
+      "start": 190.8,
+      "end": 191.63,
+      "en": "Delgado takes the corner.",
+      "zh": "德尔加多主罚角球。"
+    },
+    {
+      "id": 79,
+      "start": 192.21,
+      "end": 192.63,
+      "en": "We have a foul.",
+      "zh": "出现犯规。"
+    },
+    {
+      "id": 80,
+      "start": 193.58,
+      "end": 194.18,
+      "en": "Oh no.",
+      "zh": "哦，不。"
+    },
+    {
+      "id": 81,
+      "start": 194.82,
+      "end": 197.16,
+      "en": "Dida, the goalkeeper, has fouled the Ecuadorian player.",
+      "zh": "守门员迪达对厄瓜多尔球员犯规。"
+    },
+    {
+      "id": 82,
+      "start": 198.04,
+      "end": 198.8,
+      "en": "He gets a yellow card.",
+      "zh": "裁判向他出示黄牌。"
+    },
+    {
+      "id": 83,
+      "start": 198.8,
+      "end": 200.28,
+      "en": "And that will be a penalty kick.",
+      "zh": "厄瓜多尔获得点球。"
+    },
+    {
+      "id": 84,
+      "start": 200.88,
+      "end": 204.84,
+      "en": "This is the perfect opportunity for Ecuador to get ahead in this match and become world champions.",
+      "zh": "这是厄瓜多尔反超比分、夺得世界冠军的绝佳机会。"
+    },
+    {
+      "id": 85,
+      "start": 205.64,
+      "end": 206.4,
+      "en": "He gets ready for the kick.",
+      "zh": "他站定准备主罚。"
+    },
+    {
+      "id": 86,
+      "start": 206.84,
+      "end": 207.18,
+      "en": "He shoots.",
+      "zh": "他射门了。"
+    },
+    {
+      "id": 87,
+      "start": 207.88,
+      "end": 208.62,
+      "en": "And he...",
+      "zh": "而他..."
+    },
+    {
+      "id": 88,
+      "start": 208.88,
+      "end": 225.24,
+      "en": "OK, so Ecuador tied with Brazil in the 2022 World Cup.",
+      "zh": "好的，所以厄瓜多尔在 2022 年世界杯上与巴西并列。"
+    },
+    {
+      "id": 89,
+      "start": 225.38,
+      "end": 230.28,
+      "en": "Wow, Marco, I'm really happy to see that you are able to see so far into the future.",
+      "zh": "哇，马可，我真的很高兴看到你能够看到这么远的未来。"
+    },
+    {
+      "id": 90,
+      "start": 230.66,
+      "end": 231.9,
+      "en": "Well, I called it.",
+      "zh": "嗯，我叫它。"
+    },
+    {
+      "id": 91,
+      "start": 232.08,
+      "end": 236.22,
+      "en": "So in 2022, if we do win the World Cup, you know who said it first.",
+      "zh": "所以在 2022 年，如果我们真的赢得了世界杯，你知道谁先说的。"
+    },
+    {
+      "id": 92,
+      "start": 236.5,
+      "end": 236.7,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 93,
+      "start": 236.88,
+      "end": 237.72,
+      "en": "Do you have money on that?",
+      "zh": "你有钱吗？"
+    },
+    {
+      "id": 94,
+      "start": 237.9,
+      "end": 238.32,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 95,
+      "start": 239.48,
+      "end": 240.16,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 96,
+      "start": 240.16,
+      "end": 243.64,
+      "en": "So apart from this, we saw some really great vocabulary in this lesson.",
+      "zh": "所以除此之外，我们在本课中看到了一些非常棒的词汇。"
+    },
+    {
+      "id": 97,
+      "start": 244.1,
+      "end": 246.8,
+      "en": "So let's take a look at it now in Language Takeaway.",
+      "zh": "所以让我们现在在语言外卖中看看它。"
+    },
+    {
+      "id": 98,
+      "start": 249.35,
+      "end": 250.17,
+      "en": "Language Takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 99,
+      "start": 250.84,
+      "end": 251.84,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 100,
+      "start": 252.75,
+      "end": 255.63,
+      "en": "We've got a lot of soccer words for you, but they're all important.",
+      "zh": "我们有很多足球字给你，但它们都很重要。"
+    },
+    {
+      "id": 101,
+      "start": 256.49,
+      "end": 258.43,
+      "en": "So let's take a look at the first one.",
+      "zh": "所以让我们来看看第一个。"
+    },
+    {
+      "id": 102,
+      "start": 259.13,
+      "end": 259.47,
+      "en": "Kick off.",
+      "zh": "开球。"
+    },
+    {
+      "id": 103,
+      "start": 260.72,
+      "end": 260.99,
+      "en": "Kick off.",
+      "zh": "开球。"
+    },
+    {
+      "id": 104,
+      "start": 261.72,
+      "end": 262.72,
+      "en": "Kick off.",
+      "zh": "开球。"
+    },
+    {
+      "id": 105,
+      "start": 262.72,
+      "end": 263.39,
+      "en": "So a kick off.",
+      "zh": "所以开球。"
+    },
+    {
+      "id": 106,
+      "start": 263.92,
+      "end": 265.83,
+      "en": "This is how you start a soccer game, right?",
+      "zh": "这就是你开始足球比赛的方式，对吧？"
+    },
+    {
+      "id": 107,
+      "start": 266.32,
+      "end": 267.32,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 108,
+      "start": 267.32,
+      "end": 270.87,
+      "en": "So in the beginning, the referee blows the whistle and you kick the ball to another player.",
+      "zh": "所以一开始，裁判吹哨，你把球踢给另一个球员。"
+    },
+    {
+      "id": 109,
+      "start": 271.24,
+      "end": 271.69,
+      "en": "That's the kick off.",
+      "zh": "这就是开球。"
+    },
+    {
+      "id": 110,
+      "start": 272.24,
+      "end": 273.24,
+      "en": "OK.",
+      "zh": "好的。"
+    },
+    {
+      "id": 111,
+      "start": 273.24,
+      "end": 275.31,
+      "en": "So our next phrase, out of bounds.",
+      "zh": "所以我们的下一个短语，越界了。"
+    },
+    {
+      "id": 112,
+      "start": 276.56,
+      "end": 277.37,
+      "en": "Out of bounds.",
+      "zh": "出界。"
+    },
+    {
+      "id": 113,
+      "start": 278.0,
+      "end": 278.37,
+      "en": "Out of bounds.",
+      "zh": "出界。"
+    },
+    {
+      "id": 114,
+      "start": 279.0,
+      "end": 280.0,
+      "en": "OK.",
+      "zh": "好的。"
+    },
+    {
+      "id": 115,
+      "start": 280.0,
+      "end": 280.37,
+      "en": "Out of bounds.",
+      "zh": "出界。"
+    },
+    {
+      "id": 116,
+      "start": 281.0,
+      "end": 281.83,
+      "en": "This is a great word.",
+      "zh": "这是一个伟大的词。"
+    },
+    {
+      "id": 117,
+      "start": 282.84,
+      "end": 287.85,
+      "en": "So in soccer, when the ball goes out of bounds, it goes outside the white lines, right?",
+      "zh": "所以在足球中，当球越界时，它会超出白线，对吧？"
+    },
+    {
+      "id": 118,
+      "start": 287.96,
+      "end": 288.96,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 119,
+      "start": 288.96,
+      "end": 289.29,
+      "en": "Outside of the playing field.",
+      "zh": "在运动场之外。"
+    },
+    {
+      "id": 120,
+      "start": 289.96,
+      "end": 290.96,
+      "en": "OK.",
+      "zh": "好的。"
+    },
+    {
+      "id": 121,
+      "start": 290.96,
+      "end": 291.53,
+      "en": "And you can use it in all other sports.",
+      "zh": "您可以在所有其他运动中使用它。"
+    },
+    {
+      "id": 122,
+      "start": 291.96,
+      "end": 293.12,
+      "en": "You can use it in basketball.",
+      "zh": "你可以在篮球中使用它。"
+    },
+    {
+      "id": 123,
+      "start": 293.12,
+      "end": 294.41,
+      "en": "You can use it in tennis.",
+      "zh": "你可以在网球中使用它。"
+    },
+    {
+      "id": 124,
+      "start": 295.16,
+      "end": 296.29,
+      "en": "Or football or anything.",
+      "zh": "或足球什么的。"
+    },
+    {
+      "id": 125,
+      "start": 296.8,
+      "end": 297.8,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 126,
+      "start": 297.8,
+      "end": 299.87,
+      "en": "So any part that is not for playing.",
+      "zh": "所以任何不适合玩的部分。"
+    },
+    {
+      "id": 127,
+      "start": 300.56,
+      "end": 300.89,
+      "en": "Out of bounds.",
+      "zh": "出界。"
+    },
+    {
+      "id": 128,
+      "start": 301.67,
+      "end": 302.51,
+      "en": "What's our next word?",
+      "zh": "我们的下一个词是什么？"
+    },
+    {
+      "id": 129,
+      "start": 303.6,
+      "end": 304.0,
+      "en": "Throw in.",
+      "zh": "扔进去。"
+    },
+    {
+      "id": 130,
+      "start": 304.76,
+      "end": 305.8,
+      "en": "A throw in.",
+      "zh": "扔进去。"
+    },
+    {
+      "id": 131,
+      "start": 306.18,
+      "end": 307.08,
+      "en": "A throw in.",
+      "zh": "扔进去。"
+    },
+    {
+      "id": 132,
+      "start": 307.72,
+      "end": 308.72,
+      "en": "OK.",
+      "zh": "好的。"
+    },
+    {
+      "id": 133,
+      "start": 308.72,
+      "end": 309.86,
+      "en": "So a throw in.",
+      "zh": "于是就扔进去了。"
+    },
+    {
+      "id": 134,
+      "start": 310.14,
+      "end": 311.32,
+      "en": "The ball goes out of bounds.",
+      "zh": "球越界。"
+    },
+    {
+      "id": 135,
+      "start": 312.04,
+      "end": 313.4,
+      "en": "How do you put it back into play?",
+      "zh": "你如何让它重新投入使用？"
+    },
+    {
+      "id": 136,
+      "start": 313.66,
+      "end": 315.38,
+      "en": "Obviously, a throw in.",
+      "zh": "很明显，一个扔进去。"
+    },
+    {
+      "id": 137,
+      "start": 315.6,
+      "end": 316.6,
+      "en": "OK.",
+      "zh": "好的。"
+    },
+    {
+      "id": 138,
+      "start": 316.6,
+      "end": 317.5,
+      "en": "So you throw in the ball.",
+      "zh": "所以你把球扔进去。"
+    },
+    {
+      "id": 139,
+      "start": 317.96,
+      "end": 321.6,
+      "en": "That's the only time where a soccer player will actually grab the ball with his hands.",
+      "zh": "那是足球运动员唯一一次真正用手抓球的时候。"
+    },
+    {
+      "id": 140,
+      "start": 321.76,
+      "end": 322.76,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 141,
+      "start": 322.76,
+      "end": 324.84,
+      "en": "Now, another soccer term we have here, offside.",
+      "zh": "现在，我们这里有另一个足球术语，越位。"
+    },
+    {
+      "id": 142,
+      "start": 326.0,
+      "end": 326.5,
+      "en": "Offside.",
+      "zh": "越位。"
+    },
+    {
+      "id": 143,
+      "start": 327.0,
+      "end": 328.0,
+      "en": "OK.",
+      "zh": "好的。"
+    },
+    {
+      "id": 144,
+      "start": 328.47,
+      "end": 330.43,
+      "en": "So this is a little bit difficult to explain.",
+      "zh": "所以这有点难以解释。"
+    },
+    {
+      "id": 145,
+      "start": 330.63,
+      "end": 332.67,
+      "en": "But just imagine you're on the soccer field.",
+      "zh": "但想象一下你在足球场上。"
+    },
+    {
+      "id": 146,
+      "start": 334.04,
+      "end": 336.48,
+      "en": "And you are trying to score a goal.",
+      "zh": "你正在尝试进球。"
+    },
+    {
+      "id": 147,
+      "start": 336.71,
+      "end": 338.23,
+      "en": "Now, you have some defenders, right?",
+      "zh": "现在，你有一些防守者，对吧？"
+    },
+    {
+      "id": 148,
+      "start": 338.28,
+      "end": 339.28,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 149,
+      "start": 339.28,
+      "end": 341.88,
+      "en": "Those are the people who are trying to take the ball away.",
+      "zh": "那些试图把球拿走的人。"
+    },
+    {
+      "id": 150,
+      "start": 341.88,
+      "end": 345.53,
+      "en": "And you pass the ball to somebody who is behind the defenders.",
+      "zh": "你将球传给防守者身后的人。"
+    },
+    {
+      "id": 151,
+      "start": 345.99,
+      "end": 348.31,
+      "en": "Oh, and that person is offside.",
+      "zh": "哦，那个人越位了。"
+    },
+    {
+      "id": 152,
+      "start": 348.49,
+      "end": 348.63,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 153,
+      "start": 349.75,
+      "end": 355.13,
+      "en": "So, you must be at all times in the same position as the defenders or in front of them.",
+      "zh": "因此，您必须始终处于与防守者相同的位置或在他们面前的位置。"
+    },
+    {
+      "id": 154,
+      "start": 355.25,
+      "end": 356.61,
+      "en": "But you can't be all the way in the back.",
+      "zh": "但你不能一直在后面。"
+    },
+    {
+      "id": 155,
+      "start": 357.12,
+      "end": 358.12,
+      "en": "OK.",
+      "zh": "好的。"
+    },
+    {
+      "id": 156,
+      "start": 358.12,
+      "end": 360.07,
+      "en": "So is this a noun or a verb or an adjective?",
+      "zh": "那么这是名词、动词还是形容词？"
+    },
+    {
+      "id": 157,
+      "start": 361.2,
+      "end": 361.93,
+      "en": "So this is an adjective.",
+      "zh": "所以这是一个形容词。"
+    },
+    {
+      "id": 158,
+      "start": 362.28,
+      "end": 362.99,
+      "en": "He is offside.",
+      "zh": "他越位。"
+    },
+    {
+      "id": 159,
+      "start": 363.47,
+      "end": 364.13,
+      "en": "That's his condition.",
+      "zh": "这就是他的条件。"
+    },
+    {
+      "id": 160,
+      "start": 364.64,
+      "end": 365.64,
+      "en": "OK.",
+      "zh": "好的。"
+    },
+    {
+      "id": 161,
+      "start": 365.64,
+      "end": 366.64,
+      "en": "Great.",
+      "zh": "太好了。"
+    },
+    {
+      "id": 162,
+      "start": 366.64,
+      "end": 366.99,
+      "en": "Excellent explanation, Marco.",
+      "zh": "很好的解释，马可。"
+    },
+    {
+      "id": 163,
+      "start": 367.64,
+      "end": 368.64,
+      "en": "Thank you.",
+      "zh": "谢谢。"
+    },
+    {
+      "id": 164,
+      "start": 368.64,
+      "end": 369.64,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 165,
+      "start": 369.64,
+      "end": 375.84,
+      "en": "Now, we're going to look at three different phrases for three types of kicks in soccer.",
+      "zh": "现在，我们将看看足球中三种类型的踢球的三个不同的短语。"
+    },
+    {
+      "id": 166,
+      "start": 375.84,
+      "end": 376.84,
+      "en": "OK.",
+      "zh": "好的。"
+    },
+    {
+      "id": 167,
+      "start": 376.84,
+      "end": 377.83,
+      "en": "So let's take a look at this.",
+      "zh": "所以让我们来看看这个。"
+    },
+    {
+      "id": 168,
+      "start": 378.7,
+      "end": 379.92,
+      "en": "The first one is goal kick.",
+      "zh": "第一个是球门踢。"
+    },
+    {
+      "id": 169,
+      "start": 380.32,
+      "end": 381.06,
+      "en": "A goal kick.",
+      "zh": "一个球门踢。"
+    },
+    {
+      "id": 170,
+      "start": 381.32,
+      "end": 382.32,
+      "en": "OK.",
+      "zh": "好的。"
+    },
+    {
+      "id": 171,
+      "start": 382.32,
+      "end": 382.6,
+      "en": "Goal kick.",
+      "zh": "球门踢。"
+    },
+    {
+      "id": 172,
+      "start": 383.32,
+      "end": 384.42,
+      "en": "So who does the goal kick?",
+      "zh": "那么球门踢谁呢？"
+    },
+    {
+      "id": 173,
+      "start": 384.84,
+      "end": 389.02,
+      "en": "It's usually the goalie or the goalkeeper who takes the goal kick.",
+      "zh": "通常是守门员或守门员踢球。"
+    },
+    {
+      "id": 174,
+      "start": 389.48,
+      "end": 390.48,
+      "en": "OK.",
+      "zh": "好的。"
+    },
+    {
+      "id": 175,
+      "start": 390.48,
+      "end": 391.38,
+      "en": "So when the goalie kicks the ball.",
+      "zh": "所以当守门员踢球时。"
+    },
+    {
+      "id": 176,
+      "start": 391.88,
+      "end": 392.88,
+      "en": "Mm-hmm.",
+      "zh": "嗯。"
+    },
+    {
+      "id": 177,
+      "start": 392.88,
+      "end": 395.16,
+      "en": "Now, what about a corner kick?",
+      "zh": "现在，角球怎么样？"
+    },
+    {
+      "id": 178,
+      "start": 395.16,
+      "end": 396.16,
+      "en": "OK.",
+      "zh": "好的。"
+    },
+    {
+      "id": 179,
+      "start": 396.16,
+      "end": 405.38,
+      "en": "So if the team is attacking and the ball goes out of bounds in the back area near the goal, then they get a corner kick.",
+      "zh": "因此，如果球队正在进攻并且球在球门附近的后方区域出界，那么他们会得到一个角球。"
+    },
+    {
+      "id": 180,
+      "start": 405.6,
+      "end": 408.16,
+      "en": "They've got to kick the ball from the corner of the field.",
+      "zh": "他们必须从球场的角落踢球。"
+    },
+    {
+      "id": 181,
+      "start": 408.16,
+      "end": 410.98,
+      "en": "This is a great chance to score a goal, isn't it?",
+      "zh": "这是一个进球的好机会，不是吗？"
+    },
+    {
+      "id": 182,
+      "start": 411.52,
+      "end": 412.52,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 183,
+      "start": 412.52,
+      "end": 413.52,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 184,
+      "start": 413.52,
+      "end": 414.52,
+      "en": "OK.",
+      "zh": "好的。"
+    },
+    {
+      "id": 185,
+      "start": 414.52,
+      "end": 416.36,
+      "en": "And what about a penalty kick?",
+      "zh": "那么点球踢呢？"
+    },
+    {
+      "id": 186,
+      "start": 416.36,
+      "end": 416.62,
+      "en": "Penalty kick.",
+      "zh": "罚球。"
+    },
+    {
+      "id": 187,
+      "start": 417.36,
+      "end": 418.36,
+      "en": "Penalty kick.",
+      "zh": "罚球。"
+    },
+    {
+      "id": 188,
+      "start": 418.36,
+      "end": 423.72,
+      "en": "So if a player gets fouled while he is in the area near the goal, he gets a penalty kick.",
+      "zh": "因此，如果一名球员在球门附近的区域被犯规，他将被罚点球。"
+    },
+    {
+      "id": 189,
+      "start": 424.52,
+      "end": 425.52,
+      "en": "So basically, it's just him.",
+      "zh": "所以基本上，只有他。"
+    },
+    {
+      "id": 190,
+      "start": 425.6,
+      "end": 432.58,
+      "en": "I think it's 13 or 15 steps away from the goalie and he gets the opportunity to score or to kick the ball.",
+      "zh": "我认为距离守门员 13 或 15 步之遥，他有机会得分或踢球。"
+    },
+    {
+      "id": 191,
+      "start": 432.9,
+      "end": 435.18,
+      "en": "So there are no defenders or other players in the way.",
+      "zh": "所以没有防守者或其他球员在路上。"
+    },
+    {
+      "id": 192,
+      "start": 435.72,
+      "end": 436.72,
+      "en": "Nobody.",
+      "zh": "没有人。"
+    },
+    {
+      "id": 193,
+      "start": 436.72,
+      "end": 437.72,
+      "en": "Wow.",
+      "zh": "哇。"
+    },
+    {
+      "id": 194,
+      "start": 437.72,
+      "end": 438.51,
+      "en": "Another great chance to score a goal.",
+      "zh": "另一个进球的好机会。"
+    },
+    {
+      "id": 195,
+      "start": 438.85,
+      "end": 438.99,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 196,
+      "start": 439.72,
+      "end": 440.72,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 197,
+      "start": 440.72,
+      "end": 441.72,
+      "en": "Well, these are all great soccer words.",
+      "zh": "嗯，这些都是很棒的足球词。"
+    },
+    {
+      "id": 198,
+      "start": 441.72,
+      "end": 444.21,
+      "en": "I think we should hear them again in context.",
+      "zh": "我认为我们应该在上下文中再次听到它们。"
+    },
+    {
+      "id": 199,
+      "start": 444.53,
+      "end": 447.13,
+      "en": "So let's listen this time a little bit slower.",
+      "zh": "所以让我们听这次慢一点。"
+    },
+    {
+      "id": 200,
+      "start": 451.08,
+      "end": 453.56,
+      "en": "Welcome back, soccer fans.",
+      "zh": "欢迎回来，各位球迷。"
+    },
+    {
+      "id": 201,
+      "start": 454.18,
+      "end": 456.12,
+      "en": "My name is Rick Fields.",
+      "zh": "我的名字是瑞克菲尔兹。"
+    },
+    {
+      "id": 202,
+      "start": 456.98,
+      "end": 463.6,
+      "en": "And as always, I am joined by my commentating wingman, Bob Copeland.",
+      "zh": "和往常一样，跟我搭档解说的是鲍勃·科普兰。"
+    },
+    {
+      "id": 203,
+      "start": 463.98,
+      "end": 479.02,
+      "en": "And we're on the brink of soccer history today as Ecuador and Brazil are tied 1-1 as we begin the second half of the 2022 World Cup.",
+      "zh": "我们今天正处于足球历史的边缘，因为厄瓜多尔和巴西在 2022 年世界杯的下半场开始时以 1-1 并列。"
+    },
+    {
+      "id": 204,
+      "start": 479.58,
+      "end": 482.24,
+      "en": "The ref calls the players for the kickoff.",
+      "zh": "裁判示意双方准备开球。"
+    },
+    {
+      "id": 205,
+      "start": 482.96,
+      "end": 484.2,
+      "en": "And here we go.",
+      "zh": "好了，开始吧。"
+    },
+    {
+      "id": 206,
+      "start": 485.0,
+      "end": 487.38,
+      "en": "Ecuador quickly passes the ball to the midfield.",
+      "zh": "厄瓜多尔迅速将球传给中场。"
+    },
+    {
+      "id": 207,
+      "start": 488.02,
+      "end": 490.58,
+      "en": "But oh, it's out of bounds.",
+      "zh": "哎呀，球出界了。"
+    },
+    {
+      "id": 208,
+      "start": 491.52,
+      "end": 493.56,
+      "en": "That will be a throw in for Brazil.",
+      "zh": "这将是巴西的一次投球。"
+    },
+    {
+      "id": 209,
+      "start": 495.0,
+      "end": 498.96,
+      "en": "Adriano has the ball and makes a long pass to Rubinho.",
+      "zh": "阿德里亚诺有球并向鲁比尼奥传球。"
+    },
+    {
+      "id": 210,
+      "start": 498.96,
+      "end": 500.61,
+      "en": "And the ref has called him offside.",
+      "zh": "裁判判他越位。"
+    },
+    {
+      "id": 211,
+      "start": 501.4,
+      "end": 502.65,
+      "en": "No question about it.",
+      "zh": "毫无疑问。"
+    },
+    {
+      "id": 212,
+      "start": 503.08,
+      "end": 504.71,
+      "en": "He was offside by a mile.",
+      "zh": "他明显越位了。"
+    },
+    {
+      "id": 213,
+      "start": 505.51,
+      "end": 506.93,
+      "en": "We have a goal kick for Ecuador.",
+      "zh": "厄瓜多尔队开球门球。"
+    },
+    {
+      "id": 214,
+      "start": 507.81,
+      "end": 509.67,
+      "en": "Edison Mendez heads it to Valencia.",
+      "zh": "爱迪生·门德斯（Edison Mendez）将其带到瓦伦西亚。"
+    },
+    {
+      "id": 215,
+      "start": 510.53,
+      "end": 510.89,
+      "en": "He shoots.",
+      "zh": "他射门了。"
+    },
+    {
+      "id": 216,
+      "start": 511.97,
+      "end": 512.89,
+      "en": "Deflected by the defender.",
+      "zh": "球被防守队员挡偏了。"
+    },
+    {
+      "id": 217,
+      "start": 513.6,
+      "end": 514.81,
+      "en": "And we have a corner kick.",
+      "zh": "角球！"
+    },
+    {
+      "id": 218,
+      "start": 516.17,
+      "end": 517.53,
+      "en": "Delgado takes the corner.",
+      "zh": "德尔加多主罚角球。"
+    },
+    {
+      "id": 219,
+      "start": 518.76,
+      "end": 519.21,
+      "en": "We have a foul.",
+      "zh": "出现犯规。"
+    },
+    {
+      "id": 220,
+      "start": 520.19,
+      "end": 520.67,
+      "en": "Oh, no.",
+      "zh": "哦，不。"
+    },
+    {
+      "id": 221,
+      "start": 521.64,
+      "end": 525.96,
+      "en": "Dida, the goalkeeper, has fouled the Ecuadorian player.",
+      "zh": "守门员迪达对厄瓜多尔球员犯规。"
+    },
+    {
+      "id": 222,
+      "start": 525.96,
+      "end": 527.09,
+      "en": "He gets a yellow card.",
+      "zh": "裁判向他出示黄牌。"
+    },
+    {
+      "id": 223,
+      "start": 527.64,
+      "end": 529.07,
+      "en": "And that will be a penalty kick.",
+      "zh": "厄瓜多尔获得点球。"
+    },
+    {
+      "id": 224,
+      "start": 530.1,
+      "end": 535.17,
+      "en": "This is the perfect opportunity for Ecuador to get ahead in this match and become world champions.",
+      "zh": "这是厄瓜多尔反超比分、夺得世界冠军的绝佳机会。"
+    },
+    {
+      "id": 225,
+      "start": 535.99,
+      "end": 536.89,
+      "en": "He gets ready for the kick.",
+      "zh": "他站定准备主罚。"
+    },
+    {
+      "id": 226,
+      "start": 537.59,
+      "end": 538.05,
+      "en": "He shoots.",
+      "zh": "他射门了。"
+    },
+    {
+      "id": 227,
+      "start": 539.24,
+      "end": 541.24,
+      "en": "And he...",
+      "zh": "而他..."
+    },
+    {
+      "id": 228,
+      "start": 541.24,
+      "end": 545.32,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 229,
+      "start": 545.32,
+      "end": 548.42,
+      "en": "So we heard these words that we were talking about in context.",
+      "zh": "所以我们听到了我们在上下文中谈论的这些话。"
+    },
+    {
+      "id": 230,
+      "start": 549.24,
+      "end": 551.92,
+      "en": "And now, some really interesting phrases came up.",
+      "zh": "现在，出现了一些非常有趣的短语。"
+    },
+    {
+      "id": 231,
+      "start": 551.92,
+      "end": 555.56,
+      "en": "And this would be a good time to take a look at them in Fluency Builder.",
+      "zh": "这将是在 Fluency Builder 中查看它们的好时机。"
+    },
+    {
+      "id": 232,
+      "start": 556.74,
+      "end": 557.62,
+      "en": "Fluency Builder.",
+      "zh": "流利表达。"
+    },
+    {
+      "id": 233,
+      "start": 558.24,
+      "end": 562.6,
+      "en": "Well, Marco, there are three great phrases in this dialogue that I want to look at.",
+      "zh": "好吧，马可，我想看看这个对话中有三个很棒的短语。"
+    },
+    {
+      "id": 234,
+      "start": 563.16,
+      "end": 566.98,
+      "en": "The first one, on the brink of.",
+      "zh": "第一个，处于边缘。"
+    },
+    {
+      "id": 235,
+      "start": 566.98,
+      "end": 569.82,
+      "en": "We are on the brink of.",
+      "zh": "我们正处于边缘。"
+    },
+    {
+      "id": 236,
+      "start": 569.82,
+      "end": 572.34,
+      "en": "We're on the brink of soccer history.",
+      "zh": "我们正处于足球历史的边缘。"
+    },
+    {
+      "id": 237,
+      "start": 572.74,
+      "end": 573.0,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 238,
+      "start": 573.04,
+      "end": 574.68,
+      "en": "So, on the brink of.",
+      "zh": "于是，在边缘。"
+    },
+    {
+      "id": 239,
+      "start": 574.88,
+      "end": 576.26,
+      "en": "What exactly does that mean?",
+      "zh": "这到底是什么意思？"
+    },
+    {
+      "id": 240,
+      "start": 576.5,
+      "end": 579.76,
+      "en": "Well, why don't we hear some examples to help us understand the meaning.",
+      "zh": "好吧，我们为什么不听一些例子来帮助我们理解含义。"
+    },
+    {
+      "id": 241,
+      "start": 581.72,
+      "end": 583.12,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 242,
+      "start": 583.12,
+      "end": 585.8,
+      "en": "Look, we don't have any money.",
+      "zh": "看，我们没有钱。"
+    },
+    {
+      "id": 243,
+      "start": 585.8,
+      "end": 587.04,
+      "en": "We're on the brink of going bankrupt.",
+      "zh": "我们正处于破产的边缘。"
+    },
+    {
+      "id": 244,
+      "start": 589.44,
+      "end": 591.84,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 245,
+      "start": 591.84,
+      "end": 593.31,
+      "en": "The two countries are on the brink of war.",
+      "zh": "两国正处于战争边缘。"
+    },
+    {
+      "id": 246,
+      "start": 596.24,
+      "end": 599.4,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 247,
+      "start": 599.4,
+      "end": 600.82,
+      "en": "We're on the brink of an important discovery.",
+      "zh": "我们正处于一个重要发现的边缘。"
+    },
+    {
+      "id": 248,
+      "start": 602.2,
+      "end": 604.52,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 249,
+      "start": 604.52,
+      "end": 607.43,
+      "en": "So great examples, on the brink of, at a critical point.",
+      "zh": "如此伟大的例子，在临界点上。"
+    },
+    {
+      "id": 250,
+      "start": 607.79,
+      "end": 608.07,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 251,
+      "start": 608.56,
+      "end": 610.6,
+      "en": "It means you're almost there, right?",
+      "zh": "这意味着你快到了，对吧？"
+    },
+    {
+      "id": 252,
+      "start": 610.6,
+      "end": 611.6,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 253,
+      "start": 611.6,
+      "end": 612.6,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 254,
+      "start": 612.6,
+      "end": 613.6,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 255,
+      "start": 613.6,
+      "end": 617.24,
+      "en": "And what about this next phrase that I saw and it was really interesting.",
+      "zh": "我看到的下一个短语怎么样，真的很有趣。"
+    },
+    {
+      "id": 256,
+      "start": 617.24,
+      "end": 618.8,
+      "en": "No question about it.",
+      "zh": "毫无疑问。"
+    },
+    {
+      "id": 257,
+      "start": 618.8,
+      "end": 619.74,
+      "en": "No question about it.",
+      "zh": "毫无疑问。"
+    },
+    {
+      "id": 258,
+      "start": 620.24,
+      "end": 621.86,
+      "en": "No question about it.",
+      "zh": "毫无疑问。"
+    },
+    {
+      "id": 259,
+      "start": 622.44,
+      "end": 623.6,
+      "en": "No question about it.",
+      "zh": "毫无疑问。"
+    },
+    {
+      "id": 260,
+      "start": 623.92,
+      "end": 624.92,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 261,
+      "start": 624.92,
+      "end": 628.14,
+      "en": "So, this is a statement that doesn't really make much sense.",
+      "zh": "所以，这是一个没有多大意义的陈述。"
+    },
+    {
+      "id": 262,
+      "start": 629.18,
+      "end": 631.68,
+      "en": "But what am I saying when I say, oh, no question about it?",
+      "zh": "但是当我说，哦，毫无疑问时，我在说什么？"
+    },
+    {
+      "id": 263,
+      "start": 631.92,
+      "end": 633.16,
+      "en": "You're saying, I agree.",
+      "zh": "你说，我同意。"
+    },
+    {
+      "id": 264,
+      "start": 633.74,
+      "end": 634.42,
+      "en": "There is no doubt.",
+      "zh": "毫无疑问。"
+    },
+    {
+      "id": 265,
+      "start": 635.0,
+      "end": 635.24,
+      "en": "You're right.",
+      "zh": "你说得对。"
+    },
+    {
+      "id": 266,
+      "start": 636.0,
+      "end": 636.14,
+      "en": "You're right.",
+      "zh": "你说得对。"
+    },
+    {
+      "id": 267,
+      "start": 637.0,
+      "end": 638.0,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 268,
+      "start": 638.0,
+      "end": 638.32,
+      "en": "Well, let's give some examples.",
+      "zh": "好吧，让我们举一些例子。"
+    },
+    {
+      "id": 269,
+      "start": 639.0,
+      "end": 641.6,
+      "en": "I could say, there's no question about it.",
+      "zh": "我可以说，这是毫无疑问的。"
+    },
+    {
+      "id": 270,
+      "start": 641.82,
+      "end": 643.66,
+      "en": "Ecuador is a great soccer team.",
+      "zh": "厄瓜多尔是一支伟大的足球队。"
+    },
+    {
+      "id": 271,
+      "start": 643.88,
+      "end": 645.62,
+      "en": "There is no question about that.",
+      "zh": "对此毫无疑问。"
+    },
+    {
+      "id": 272,
+      "start": 646.26,
+      "end": 646.58,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 273,
+      "start": 646.82,
+      "end": 649.48,
+      "en": "So, or you can say, no question about it.",
+      "zh": "所以，或者你可以说，毫无疑问。"
+    },
+    {
+      "id": 274,
+      "start": 649.6,
+      "end": 652.92,
+      "en": "Our company makes the best products on the market.",
+      "zh": "我们公司生产市场上最好的产品。"
+    },
+    {
+      "id": 275,
+      "start": 653.32,
+      "end": 654.32,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 276,
+      "start": 654.32,
+      "end": 657.93,
+      "en": "So, really useful phrase that you can use in sports or anywhere else.",
+      "zh": "因此，您可以在体育运动或其他任何地方使用的非常有用的短语。"
+    },
+    {
+      "id": 277,
+      "start": 658.64,
+      "end": 659.64,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 278,
+      "start": 659.64,
+      "end": 662.01,
+      "en": "And now let's take a look at our last phrase for Fluency Builder.",
+      "zh": "现在让我们来看看我们的最后一句 Fluency Builder 的短语。"
+    },
+    {
+      "id": 279,
+      "start": 662.38,
+      "end": 664.91,
+      "en": "And it's a really good one to exaggerate a little bit.",
+      "zh": "夸大一点是一件非常好的事情。"
+    },
+    {
+      "id": 280,
+      "start": 665.32,
+      "end": 666.32,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 281,
+      "start": 666.32,
+      "end": 667.32,
+      "en": "By a mile.",
+      "zh": "远远地。"
+    },
+    {
+      "id": 282,
+      "start": 667.32,
+      "end": 668.52,
+      "en": "By a mile.",
+      "zh": "远远地。"
+    },
+    {
+      "id": 283,
+      "start": 668.52,
+      "end": 669.52,
+      "en": "By a mile.",
+      "zh": "远远地。"
+    },
+    {
+      "id": 284,
+      "start": 669.69,
+      "end": 672.03,
+      "en": "So, he was offside by a mile.",
+      "zh": "于是，他越位一英里。"
+    },
+    {
+      "id": 285,
+      "start": 672.35,
+      "end": 672.59,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 286,
+      "start": 673.52,
+      "end": 676.92,
+      "en": "So, the commentator is saying that he was very offside.",
+      "zh": "所以，评论员说他非常越位。"
+    },
+    {
+      "id": 287,
+      "start": 676.92,
+      "end": 678.56,
+      "en": "That it was really obvious.",
+      "zh": "这真的很明显。"
+    },
+    {
+      "id": 288,
+      "start": 678.56,
+      "end": 679.56,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 289,
+      "start": 679.56,
+      "end": 682.61,
+      "en": "So, you can use that also in different contexts, maybe not in sports.",
+      "zh": "所以，你也可以在不同的环境中使用它，也许不是在体育运动中。"
+    },
+    {
+      "id": 290,
+      "start": 683.16,
+      "end": 684.16,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 291,
+      "start": 684.16,
+      "end": 689.59,
+      "en": "So, maybe we can say, our company is ahead of all the others by a mile.",
+      "zh": "所以，也许我们可以说，我们的公司领先一英里。"
+    },
+    {
+      "id": 292,
+      "start": 690.4,
+      "end": 691.4,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 293,
+      "start": 691.4,
+      "end": 695.83,
+      "en": "Or if you tell somebody to guess your age and they say, oh, I think you are 42.",
+      "zh": "或者如果你告诉别人猜你的年龄，他们说，哦，我认为你是 42 岁。"
+    },
+    {
+      "id": 294,
+      "start": 696.65,
+      "end": 699.13,
+      "en": "Oh, you could say, you're off by a mile.",
+      "zh": "哦，你可以说，你走了一英里。"
+    },
+    {
+      "id": 295,
+      "start": 699.36,
+      "end": 700.36,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 296,
+      "start": 700.36,
+      "end": 701.11,
+      "en": "So, you're really, really wrong.",
+      "zh": "所以，你真的，真的错了。"
+    },
+    {
+      "id": 297,
+      "start": 701.45,
+      "end": 701.61,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 298,
+      "start": 701.94,
+      "end": 702.1,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 299,
+      "start": 703.36,
+      "end": 704.36,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 300,
+      "start": 704.36,
+      "end": 705.36,
+      "en": "So, it's a way of exaggerating a little bit.",
+      "zh": "所以，这是一种夸大一点的方式。"
+    },
+    {
+      "id": 301,
+      "start": 705.36,
+      "end": 706.36,
+      "en": "Yes.",
+      "zh": "是的。"
+    },
+    {
+      "id": 302,
+      "start": 706.36,
+      "end": 707.36,
+      "en": "And saying it's really obvious.",
+      "zh": "并且说真的很明显。"
+    },
+    {
+      "id": 303,
+      "start": 707.36,
+      "end": 708.36,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 304,
+      "start": 708.36,
+      "end": 709.36,
+      "en": "Well, three awesome phrases.",
+      "zh": "好吧，三个很棒的短语。"
+    },
+    {
+      "id": 305,
+      "start": 709.36,
+      "end": 711.61,
+      "en": "And I think it will help us to hear them one more time.",
+      "zh": "我认为这将帮助我们再听一次。"
+    },
+    {
+      "id": 306,
+      "start": 711.92,
+      "end": 713.09,
+      "en": "So, let's listen to the dialogue.",
+      "zh": "所以，让我们听听对话。"
+    },
+    {
+      "id": 307,
+      "start": 729.42,
+      "end": 730.3,
+      "en": "Welcome back, soccer fans.",
+      "zh": "欢迎回来，各位球迷。"
+    },
+    {
+      "id": 308,
+      "start": 730.56,
+      "end": 731.3,
+      "en": "My name is Rick Fields.",
+      "zh": "我的名字是瑞克菲尔兹。"
+    },
+    {
+      "id": 309,
+      "start": 731.66,
+      "end": 734.88,
+      "en": "And as always, I am joined by my commentating wingman, Bob Copeland.",
+      "zh": "和往常一样，跟我搭档解说的是鲍勃·科普兰。"
+    },
+    {
+      "id": 310,
+      "start": 735.28,
+      "end": 744.86,
+      "en": "And we're in the brink of soccer history today as Ecuador and Brazil are tied 1-1 as we begin the second half of the 2022 World Cup.",
+      "zh": "我们今天处于足球历史的边缘，因为厄瓜多尔和巴西在 2022 年世界杯的下半场开始时以 1-1 平局。"
+    },
+    {
+      "id": 311,
+      "start": 746.12,
+      "end": 748.57,
+      "en": "The ref calls the players for the kickoff and here we go.",
+      "zh": "裁判打电话给球员开球，我们开始了。"
+    },
+    {
+      "id": 312,
+      "start": 749.32,
+      "end": 750.71,
+      "en": "Ecuador quickly passes the ball to the midfield.",
+      "zh": "厄瓜多尔迅速将球传给中场。"
+    },
+    {
+      "id": 313,
+      "start": 751.32,
+      "end": 752.51,
+      "en": "But oh, it's out of bounds.",
+      "zh": "哎呀，球出界了。"
+    },
+    {
+      "id": 314,
+      "start": 753.04,
+      "end": 754.56,
+      "en": "That'll be a throw in for Brazil.",
+      "zh": "巴西队获得界外球。"
+    },
+    {
+      "id": 315,
+      "start": 754.56,
+      "end": 758.6,
+      "en": "Adriano has the ball and makes a long pass to Ruigno.",
+      "zh": "阿德里亚诺有球并向鲁尼诺传球。"
+    },
+    {
+      "id": 316,
+      "start": 758.6,
+      "end": 759.71,
+      "en": "And the ref has called him offside.",
+      "zh": "裁判判他越位。"
+    },
+    {
+      "id": 317,
+      "start": 760.36,
+      "end": 761.21,
+      "en": "No question about it.",
+      "zh": "毫无疑问。"
+    },
+    {
+      "id": 318,
+      "start": 761.4,
+      "end": 762.47,
+      "en": "He was offside by a mile.",
+      "zh": "他明显越位了。"
+    },
+    {
+      "id": 319,
+      "start": 763.24,
+      "end": 764.92,
+      "en": "We have a goal kick for Ecuador.",
+      "zh": "厄瓜多尔队开球门球。"
+    },
+    {
+      "id": 320,
+      "start": 764.92,
+      "end": 766.28,
+      "en": "Edison Mendes heads it to Valencia.",
+      "zh": "爱迪生·门德斯头球摆渡给巴伦西亚。"
+    },
+    {
+      "id": 321,
+      "start": 766.64,
+      "end": 766.83,
+      "en": "He shoots.",
+      "zh": "他射门了。"
+    },
+    {
+      "id": 322,
+      "start": 767.56,
+      "end": 768.37,
+      "en": "Deflected by the defender.",
+      "zh": "球被防守队员挡偏了。"
+    },
+    {
+      "id": 323,
+      "start": 768.73,
+      "end": 769.77,
+      "en": "And we have a corner kick.",
+      "zh": "角球！"
+    },
+    {
+      "id": 324,
+      "start": 770.42,
+      "end": 771.23,
+      "en": "Delgado takes the corner.",
+      "zh": "德尔加多主罚角球。"
+    },
+    {
+      "id": 325,
+      "start": 771.81,
+      "end": 772.23,
+      "en": "We have a foul.",
+      "zh": "出现犯规。"
+    },
+    {
+      "id": 326,
+      "start": 773.18,
+      "end": 773.78,
+      "en": "Oh, no.",
+      "zh": "哦，不。"
+    },
+    {
+      "id": 327,
+      "start": 774.48,
+      "end": 776.78,
+      "en": "Dida, the goalkeeper, has fouled the Ecuadorian player.",
+      "zh": "守门员迪达对厄瓜多尔球员犯规。"
+    },
+    {
+      "id": 328,
+      "start": 777.64,
+      "end": 779.88,
+      "en": "He gets a yellow card and that will be a penalty kick.",
+      "zh": "他得到了一张黄牌，那将是一个点球。"
+    },
+    {
+      "id": 329,
+      "start": 780.5,
+      "end": 784.4,
+      "en": "This is the perfect opportunity for Ecuador to get ahead in this match and become world champions.",
+      "zh": "这是厄瓜多尔反超比分、夺得世界冠军的绝佳机会。"
+    },
+    {
+      "id": 330,
+      "start": 785.2,
+      "end": 786.02,
+      "en": "He gets ready for the kick.",
+      "zh": "他站定准备主罚。"
+    },
+    {
+      "id": 331,
+      "start": 786.44,
+      "end": 788.28,
+      "en": "He shoots and he...",
+      "zh": "他开枪，他..."
+    },
+    {
+      "id": 332,
+      "start": 799.82,
+      "end": 805.72,
+      "en": "Okay well, as you all may know, soccer is a very popular sport, especially in Latin America.",
+      "zh": "好吧，众所周知，足球是一项非常受欢迎的运动，尤其是在拉丁美洲。"
+    },
+    {
+      "id": 333,
+      "start": 806.06,
+      "end": 806.4,
+      "en": "That's right.",
+      "zh": "没错。"
+    },
+    {
+      "id": 334,
+      "start": 806.8,
+      "end": 810.98,
+      "en": "And your favorite team, Ecuador, are they really this good in soccer?",
+      "zh": "你最喜欢的球队厄瓜多尔，他们真的在足球方面这么好吗？"
+    },
+    {
+      "id": 335,
+      "start": 811.24,
+      "end": 813.92,
+      "en": "Are they really going to win the 2022 Cup?",
+      "zh": "他们真的会赢得2022年杯赛吗？"
+    },
+    {
+      "id": 336,
+      "start": 813.92,
+      "end": 815.2,
+      "en": "Well, maybe not.",
+      "zh": "好吧，也许不是。"
+    },
+    {
+      "id": 337,
+      "start": 815.44,
+      "end": 826.36,
+      "en": "Well, actually Ecuador has improved with time, but usually it's the strong teams like Argentina and Brazil who dominate the region, right?",
+      "zh": "好吧，实际上厄瓜多尔随着时间的推移有所改善，但通常是像阿根廷和巴西这样强大的球队占据了该地区的主导地位，对吧？"
+    },
+    {
+      "id": 338,
+      "start": 826.36,
+      "end": 827.36,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 339,
+      "start": 827.36,
+      "end": 828.54,
+      "en": "But yeah, hopefully we'll make it next time.",
+      "zh": "但是，是的，希望我们下次能成功。"
+    },
+    {
+      "id": 340,
+      "start": 828.88,
+      "end": 831.13,
+      "en": "Okay, well, I have my money on Ecuador.",
+      "zh": "好吧，我在厄瓜多尔有钱。"
+    },
+    {
+      "id": 341,
+      "start": 831.92,
+      "end": 832.92,
+      "en": "For 2022.",
+      "zh": "2022年。"
+    },
+    {
+      "id": 342,
+      "start": 833.23,
+      "end": 834.49,
+      "en": "But yeah, not on Canada.",
+      "zh": "但是，是的，不是在加拿大。"
+    },
+    {
+      "id": 343,
+      "start": 834.81,
+      "end": 835.77,
+      "en": "There's no hope for us.",
+      "zh": "我们没有希望。"
+    },
+    {
+      "id": 344,
+      "start": 836.11,
+      "end": 837.91,
+      "en": "Well, Canada is doing really well now.",
+      "zh": "嗯，加拿大现在做得很好。"
+    },
+    {
+      "id": 345,
+      "start": 838.16,
+      "end": 840.96,
+      "en": "They actually beat Mexico, if I'm not mistaken.",
+      "zh": "如果我没记错的话，他们实际上击败了墨西哥。"
+    },
+    {
+      "id": 346,
+      "start": 840.96,
+      "end": 841.97,
+      "en": "Oh, actually that's sort of...",
+      "zh": "哦，其实就是这样……"
+    },
+    {
+      "id": 347,
+      "start": 841.97,
+      "end": 843.25,
+      "en": "Yeah, I kind of remember that now.",
+      "zh": "是的，我现在有点记得了。"
+    },
+    {
+      "id": 348,
+      "start": 843.85,
+      "end": 848.17,
+      "en": "But I think there's no hope for us to beat Brazil or Argentina, one of these big countries.",
+      "zh": "但我认为我们没有希望击败这些大国之一的巴西或阿根廷。"
+    },
+    {
+      "id": 349,
+      "start": 848.97,
+      "end": 852.85,
+      "en": "We have the next World Cup coming up, so it's really exciting and I don't know who's going to win.",
+      "zh": "我们即将迎来下一届世界杯，所以这真的很令人兴奋，我不知道谁会赢。"
+    },
+    {
+      "id": 350,
+      "start": 853.19,
+      "end": 853.43,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 351,
+      "start": 853.47,
+      "end": 858.17,
+      "en": "Well, listeners, who do you think is going to win?",
+      "zh": "好吧，听众，你认为谁会赢？"
+    },
+    {
+      "id": 352,
+      "start": 858.37,
+      "end": 859.99,
+      "en": "Who is the best soccer team out there?",
+      "zh": "谁是最好的足球队？"
+    },
+    {
+      "id": 353,
+      "start": 860.27,
+      "end": 860.63,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 354,
+      "start": 861.48,
+      "end": 867.12,
+      "en": "There are really good soccer teams, although some countries aren't really known for their soccer, like Russia.",
+      "zh": "有非常好的足球队，尽管有些国家并不像俄罗斯那样真正以足球而闻名。"
+    },
+    {
+      "id": 355,
+      "start": 867.12,
+      "end": 868.63,
+      "en": "You don't really hear too much soccer from Russia.",
+      "zh": "你真的没有听到太多来自俄罗斯的足球。"
+    },
+    {
+      "id": 356,
+      "start": 868.95,
+      "end": 869.15,
+      "en": "Really?",
+      "zh": "真的吗？"
+    },
+    {
+      "id": 357,
+      "start": 869.49,
+      "end": 870.81,
+      "en": "Or from China is for that.",
+      "zh": "或者来自中国。"
+    },
+    {
+      "id": 358,
+      "start": 870.97,
+      "end": 872.67,
+      "en": "I wonder how popular it is in these countries.",
+      "zh": "我想知道它在这些国家有多受欢迎。"
+    },
+    {
+      "id": 359,
+      "start": 873.49,
+      "end": 874.15,
+      "en": "So let us know.",
+      "zh": "所以，请告诉我们吧。"
+    },
+    {
+      "id": 360,
+      "start": 874.64,
+      "end": 876.48,
+      "en": "Come to our website, EnglishPod.com.",
+      "zh": "来我们的网站，englishpod.com。"
+    },
+    {
+      "id": 361,
+      "start": 876.48,
+      "end": 881.81,
+      "en": "Tell us how popular soccer is in your country or what team you are a fan of.",
+      "zh": "告诉我们足球在您的国家或您的粉丝中有多受欢迎。"
+    },
+    {
+      "id": 362,
+      "start": 881.96,
+      "end": 890.0,
+      "en": "I know many people like the European Cups and they're fans of Barcelona or the Italian teams.",
+      "zh": "我知道很多人喜欢欧洲杯，他们是巴塞罗那或意大利球队的球迷。"
+    },
+    {
+      "id": 363,
+      "start": 890.0,
+      "end": 890.43,
+      "en": "Well, come to the website.",
+      "zh": "好吧，来网站吧。"
+    },
+    {
+      "id": 364,
+      "start": 891.0,
+      "end": 892.89,
+      "en": "Marco and I are always around to answer your questions.",
+      "zh": "马可和我总是在身边回答你的问题。"
+    },
+    {
+      "id": 365,
+      "start": 893.4,
+      "end": 894.4,
+      "en": "And until next time, goodbye.",
+      "zh": "下次再见，拜拜。"
+    },
+    {
+      "id": 366,
+      "start": 894.4,
+      "end": 903.497,
+      "en": "Goodbye.",
+      "zh": "再见。"
+    }
+  ],
+  "dialog": {
+    "start": 149.88,
+    "end": 208.62,
+    "segmentIds": [
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87
+    ]
+  }
+}

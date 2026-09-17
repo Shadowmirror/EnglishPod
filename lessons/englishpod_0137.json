@@ -1,0 +1,2268 @@
+{
+  "version": 1,
+  "id": 137,
+  "number": "0137",
+  "title": "Daily Life - Getting Internet Service",
+  "audio": "mp3/137. Daily Life - Getting Internet Service.mp3",
+  "duration": 885.91675,
+  "segments": [
+    {
+      "id": 1,
+      "start": 2.0,
+      "end": 4.08,
+      "en": "Hello English learners, welcome to EnglishPod.",
+      "zh": "您好英语学习者，欢迎来到 Englishpod。"
+    },
+    {
+      "id": 2,
+      "start": 4.08,
+      "end": 5.8,
+      "en": "My name is Marco.",
+      "zh": "我叫 Marco。"
+    },
+    {
+      "id": 3,
+      "start": 5.8,
+      "end": 6.4,
+      "en": "And my name is Catherine.",
+      "zh": "我叫 Catherine。"
+    },
+    {
+      "id": 4,
+      "start": 6.96,
+      "end": 11.36,
+      "en": "And today we're talking about something very, very important in the computer age.",
+      "zh": "今天我们谈论的是计算机时代非常非常重要的东西。"
+    },
+    {
+      "id": 5,
+      "start": 11.36,
+      "end": 12.36,
+      "en": "Internet.",
+      "zh": "互联网。"
+    },
+    {
+      "id": 6,
+      "start": 12.36,
+      "end": 13.48,
+      "en": "Internet and internet connections.",
+      "zh": "互联网和互联网连接。"
+    },
+    {
+      "id": 7,
+      "start": 13.48,
+      "end": 14.48,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 8,
+      "start": 14.48,
+      "end": 25.68,
+      "en": "I think, well, so many people use the internet now and have it, but it's sometimes a little bit complicated to maybe get a plan or maybe if you're not too familiar with the terms, that's what we're going to be looking at today.",
+      "zh": "我认为，好吧，现在有很多人使用互联网并拥有它，但有时可能会有点复杂，或者如果您不太熟悉这些术语，这就是我们今天要关注的内容。"
+    },
+    {
+      "id": 9,
+      "start": 25.68,
+      "end": 27.11,
+      "en": "So listen out for some of these words today.",
+      "zh": "所以今天听听这些词中的一些。"
+    },
+    {
+      "id": 10,
+      "start": 27.6,
+      "end": 30.61,
+      "en": "We're talking on the phone with someone who's going to help us get a plan.",
+      "zh": "我们正在与将帮助我们制定计划的人通电话。"
+    },
+    {
+      "id": 11,
+      "start": 31.07,
+      "end": 34.03,
+      "en": "When we come back, we'll be talking all about what some of these words and phrases mean.",
+      "zh": "当我们回来时，我们将谈论其中一些单词和短语的含义。"
+    },
+    {
+      "id": 12,
+      "start": 34.48,
+      "end": 42.36,
+      "en": "So if you're confused, just wait a couple seconds and we'll be back.",
+      "zh": "因此，如果您感到困惑，请等待几秒钟，我们会回来的。"
+    },
+    {
+      "id": 13,
+      "start": 42.36,
+      "end": 43.52,
+      "en": "Welcome to Gallinet.",
+      "zh": "欢迎来到 Gallinet。"
+    },
+    {
+      "id": 14,
+      "start": 43.52,
+      "end": 44.4,
+      "en": "How can I help you?",
+      "zh": "有什么可以帮您？"
+    },
+    {
+      "id": 15,
+      "start": 44.94,
+      "end": 47.52,
+      "en": "Hi, I would like to get an internet plan for my house.",
+      "zh": "你好，我想给家里办一个上网套餐。"
+    },
+    {
+      "id": 16,
+      "start": 48.06,
+      "end": 48.42,
+      "en": "Of course.",
+      "zh": "当然。"
+    },
+    {
+      "id": 17,
+      "start": 49.64,
+      "end": 53.32,
+      "en": "We have three different plans with different prices you can choose from.",
+      "zh": "我们有三个不同价格的计划，您可以选择。"
+    },
+    {
+      "id": 18,
+      "start": 53.78,
+      "end": 58.16,
+      "en": "The first one is the cheapest, but most basic plan, which is $30 a month.",
+      "zh": "第一个是最便宜但最基本的计划，即每月 30 美元。"
+    },
+    {
+      "id": 19,
+      "start": 58.7,
+      "end": 63.34,
+      "en": "This is for broadband internet with a download speed of 512 kbps.",
+      "zh": "这适用于下载速度为 512 kbps 的宽带互联网。"
+    },
+    {
+      "id": 20,
+      "start": 64.36,
+      "end": 67.06,
+      "en": "I have no idea what kbps means.",
+      "zh": "我不知道kbps是什么意思。"
+    },
+    {
+      "id": 21,
+      "start": 67.72,
+      "end": 71.14,
+      "en": "I just want to be able to get online, play games and chat with my friends.",
+      "zh": "我只想上网、玩游戏和和朋友聊天。"
+    },
+    {
+      "id": 22,
+      "start": 71.78,
+      "end": 73.24,
+      "en": "Oh, and watch movies online as well.",
+      "zh": "哦，也可以在线观看电影。"
+    },
+    {
+      "id": 23,
+      "start": 73.71,
+      "end": 76.93,
+      "en": "Well, this connection might be a bit too slow for your needs.",
+      "zh": "好吧，这种连接可能对您的需求来说有点太慢了。"
+    },
+    {
+      "id": 24,
+      "start": 77.6,
+      "end": 84.04,
+      "en": "I suggest you get the premium package for $50 a month, which includes a connection speed of 2 megabytes.",
+      "zh": "我建议您以每月 50 美元的价格购买高级套餐，其中包括 2 兆字节的连接速度。"
+    },
+    {
+      "id": 25,
+      "start": 84.04,
+      "end": 86.47,
+      "en": "That way, you can play games online without any lag.",
+      "zh": "这样，您可以毫无延迟地在线玩游戏。"
+    },
+    {
+      "id": 26,
+      "start": 87.16,
+      "end": 91.05,
+      "en": "This package also includes a wireless router and a personal firewall, absolutely free.",
+      "zh": "此套餐还包括一个无线路由器和一个完全免费的个人防火墙。"
+    },
+    {
+      "id": 27,
+      "start": 91.84,
+      "end": 93.35,
+      "en": "Do I have to pay an installation fee?",
+      "zh": "我必须支付安装费吗？"
+    },
+    {
+      "id": 28,
+      "start": 94.76,
+      "end": 98.03,
+      "en": "Lucky for you, this month we aren't charging our normal installation fee.",
+      "zh": "幸运的是，本月我们不收取正常的安装费。"
+    },
+    {
+      "id": 29,
+      "start": 98.72,
+      "end": 101.48,
+      "en": "You're saving yourself $100 right there.",
+      "zh": "光这一项就给您省了一百美元。"
+    },
+    {
+      "id": 30,
+      "start": 101.48,
+      "end": 102.57,
+      "en": "And we'll throw in this pen drive.",
+      "zh": "我们还会赠送这个 U 盘。"
+    },
+    {
+      "id": 31,
+      "start": 103.64,
+      "end": 104.64,
+      "en": "Awesome!",
+      "zh": "棒极了!"
+    },
+    {
+      "id": 32,
+      "start": 107.02,
+      "end": 108.0,
+      "en": "All right, so interesting.",
+      "zh": "好吧，很有趣。"
+    },
+    {
+      "id": 33,
+      "start": 108.28,
+      "end": 114.68,
+      "en": "A lot of these are technical terms specifically for internet and computers and connection and all that stuff.",
+      "zh": "其中很多是专门针对互联网、计算机、连接之类的技术术语。"
+    },
+    {
+      "id": 34,
+      "start": 114.68,
+      "end": 119.8,
+      "en": "Yeah, and the nice thing about some of these words is that they can be used in other ways as well.",
+      "zh": "是的，其中一些词的好处在于它们也可以以其他方式使用。"
+    },
+    {
+      "id": 35,
+      "start": 120.32,
+      "end": 127.32,
+      "en": "So, we're learning about these and expanding our vocabularies, but they're useful in many other contexts as well.",
+      "zh": "因此，我们正在学习这些并扩展我们的词汇表，但它们在许多其他环境中也很有用。"
+    },
+    {
+      "id": 36,
+      "start": 127.32,
+      "end": 131.08,
+      "en": "Okay, so let's get started with these words now in Language Takeaway.",
+      "zh": "好吧，让我们现在开始用语言外卖中的这些词。"
+    },
+    {
+      "id": 37,
+      "start": 133.35,
+      "end": 134.35,
+      "en": "Language Takeaway.",
+      "zh": "语言要点。"
+    },
+    {
+      "id": 38,
+      "start": 135.82,
+      "end": 142.96,
+      "en": "So this first phrase, for example, is something that you see advertised all the time and it's a kind of internet connection.",
+      "zh": "因此，例如，第一个短语是您一直看到的广告，它是一种互联网连接。"
+    },
+    {
+      "id": 39,
+      "start": 143.98,
+      "end": 144.74,
+      "en": "Broadband internet.",
+      "zh": "宽带互联网。"
+    },
+    {
+      "id": 40,
+      "start": 145.44,
+      "end": 149.94,
+      "en": "Okay, so internet is pretty clear, but broadband, you might be asking, what the heck can this mean?",
+      "zh": "好吧，所以互联网很清晰，但是宽带，你可能会问，这到底是什么意思？"
+    },
+    {
+      "id": 41,
+      "start": 150.92,
+      "end": 151.22,
+      "en": "Okay, so you have broad.",
+      "zh": "好的，所以你有广泛的。"
+    },
+    {
+      "id": 42,
+      "start": 152.04,
+      "end": 152.96,
+      "en": "So broad means wide.",
+      "zh": "如此广泛的意思是宽的。"
+    },
+    {
+      "id": 43,
+      "start": 154.48,
+      "end": 158.52,
+      "en": "And a band is basically a frequency at which something works.",
+      "zh": "频段基本上是某物工作的频率。"
+    },
+    {
+      "id": 44,
+      "start": 159.0,
+      "end": 159.3,
+      "en": "Like bandwidth.",
+      "zh": "比如带宽。"
+    },
+    {
+      "id": 45,
+      "start": 160.0,
+      "end": 161.08,
+      "en": "Bandwidth, uh-huh.",
+      "zh": "带宽，嗯。"
+    },
+    {
+      "id": 46,
+      "start": 161.08,
+      "end": 164.32,
+      "en": "So you have broadband, you have fast or high speed internet.",
+      "zh": "所以你有宽带，你有快速或高速的互联网。"
+    },
+    {
+      "id": 47,
+      "start": 164.32,
+      "end": 168.07,
+      "en": "That means the bigger the space is, the more information can be transferred.",
+      "zh": "这意味着空间越大，可以传输的信息就越多。"
+    },
+    {
+      "id": 48,
+      "start": 168.48,
+      "end": 170.68,
+      "en": "So it's a fast connection essentially.",
+      "zh": "所以它本质上是一个快速的连接。"
+    },
+    {
+      "id": 49,
+      "start": 170.68,
+      "end": 171.68,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 50,
+      "start": 171.68,
+      "end": 173.75,
+      "en": "Before broadband, we had dial-up internet.",
+      "zh": "在宽带之前，我们有拨号互联网。"
+    },
+    {
+      "id": 51,
+      "start": 174.12,
+      "end": 175.12,
+      "en": "Ooh.",
+      "zh": "哦。"
+    },
+    {
+      "id": 52,
+      "start": 175.12,
+      "end": 176.12,
+      "en": "Do-do-do-do-do-do-do-do.",
+      "zh": "做事-做-做-做-做-做-Do-Do."
+    },
+    {
+      "id": 53,
+      "start": 176.12,
+      "end": 177.12,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 54,
+      "start": 177.12,
+      "end": 178.12,
+      "en": "Do-do-do-do-do-do-do-do.",
+      "zh": "做事-做-做-做-做-做-Do-Do."
+    },
+    {
+      "id": 55,
+      "start": 178.12,
+      "end": 178.54,
+      "en": "Remember AOL?",
+      "zh": "还记得AOL吗？"
+    },
+    {
+      "id": 56,
+      "start": 179.12,
+      "end": 179.56,
+      "en": "Yeah, exactly.",
+      "zh": "对，没错。"
+    },
+    {
+      "id": 57,
+      "start": 180.12,
+      "end": 181.12,
+      "en": "It was so slow.",
+      "zh": "它是如此缓慢。"
+    },
+    {
+      "id": 58,
+      "start": 181.12,
+      "end": 186.12,
+      "en": "So you had to use your modem and call a number and then get connected by telephone.",
+      "zh": "所以你必须使用你的调制解调器并拨打一个号码，然后通过电话连接。"
+    },
+    {
+      "id": 59,
+      "start": 186.12,
+      "end": 188.18,
+      "en": "So it was a dial-up connection, but it was so slow.",
+      "zh": "所以这是一个拨号连接，但它太慢了。"
+    },
+    {
+      "id": 60,
+      "start": 188.36,
+      "end": 191.34,
+      "en": "And every time it broke, the connection would break.",
+      "zh": "每次断裂，连接就会中断。"
+    },
+    {
+      "id": 61,
+      "start": 191.96,
+      "end": 194.36,
+      "en": "You had to dial-up again and go through the whole process.",
+      "zh": "您必须再次拨号并完成整个过程。"
+    },
+    {
+      "id": 62,
+      "start": 194.36,
+      "end": 195.36,
+      "en": "It was so annoying.",
+      "zh": "这太烦人了。"
+    },
+    {
+      "id": 63,
+      "start": 195.36,
+      "end": 196.36,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 64,
+      "start": 196.36,
+      "end": 202.12,
+      "en": "So fortunately now, not many people use dial-up anymore and we have broadband internet.",
+      "zh": "幸运的是，现在没有多少人使用拨号上了，我们有宽带互联网。"
+    },
+    {
+      "id": 65,
+      "start": 202.12,
+      "end": 210.12,
+      "en": "Now if you have broadband internet, it's really convenient because you can download any type of application or music, videos, et cetera.",
+      "zh": "现在，如果您有宽带互联网，它真的很方便，因为您可以下载任何类型的应用程序或音乐、视频等。"
+    },
+    {
+      "id": 66,
+      "start": 210.12,
+      "end": 210.28,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 67,
+      "start": 211.12,
+      "end": 214.28,
+      "en": "So this is another key computer word that actually has a couple of different uses.",
+      "zh": "所以这是另一个真正有几个不同用途的关键计算机词。"
+    },
+    {
+      "id": 68,
+      "start": 214.76,
+      "end": 219.16,
+      "en": "For example, as you said, you can download music or download photos.",
+      "zh": "例如，正如您所说，您可以下载音乐或下载照片。"
+    },
+    {
+      "id": 69,
+      "start": 219.16,
+      "end": 223.34,
+      "en": "That means you find a photo on the internet that you like and you could save it on your computer.",
+      "zh": "这意味着您可以在互联网上找到您喜欢的照片，并且可以将其保存在您的计算机上。"
+    },
+    {
+      "id": 70,
+      "start": 224.48,
+      "end": 226.72,
+      "en": "But you can also have a download.",
+      "zh": "但你也可以下载。"
+    },
+    {
+      "id": 71,
+      "start": 226.72,
+      "end": 227.76,
+      "en": "So it can be a thing too.",
+      "zh": "所以它也可以是一件事。"
+    },
+    {
+      "id": 72,
+      "start": 228.04,
+      "end": 228.38,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 73,
+      "start": 228.44,
+      "end": 233.21,
+      "en": "So if maybe you're downloading three different files, you have three downloads.",
+      "zh": "因此，如果您正在下载三个不同的文件，您将拥有三个下载。"
+    },
+    {
+      "id": 74,
+      "start": 233.61,
+      "end": 233.95,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 75,
+      "start": 234.13,
+      "end": 236.07,
+      "en": "So to download and download.",
+      "zh": "所以下载和下载。"
+    },
+    {
+      "id": 76,
+      "start": 237.32,
+      "end": 237.49,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 77,
+      "start": 238.32,
+      "end": 240.89,
+      "en": "So now with internet, you have different speeds as we talked about, right?",
+      "zh": "所以现在有了互联网，你有不同的速度，正如我们所说的，对吧？"
+    },
+    {
+      "id": 78,
+      "start": 241.2,
+      "end": 242.43,
+      "en": "How fast you're downloading something.",
+      "zh": "你下载东西的速度有多快。"
+    },
+    {
+      "id": 79,
+      "start": 242.88,
+      "end": 246.0,
+      "en": "And the guy mentioned 512 kbps.",
+      "zh": "那个人提到了 512 kbps。"
+    },
+    {
+      "id": 80,
+      "start": 247.06,
+      "end": 247.64,
+      "en": "Oh no.",
+      "zh": "哦，不。"
+    },
+    {
+      "id": 81,
+      "start": 248.32,
+      "end": 250.2,
+      "en": "Not another one of these kbps.",
+      "zh": "不是这些 kbps 中的另一个。"
+    },
+    {
+      "id": 82,
+      "start": 250.56,
+      "end": 252.8,
+      "en": "So this one, actually this was pretty simple.",
+      "zh": "所以这一款，其实这很简单。"
+    },
+    {
+      "id": 83,
+      "start": 252.8,
+      "end": 253.98,
+      "en": "You can think about kilobytes.",
+      "zh": "你可以考虑千字节。"
+    },
+    {
+      "id": 84,
+      "start": 254.18,
+      "end": 255.8,
+      "en": "You've heard about megabytes, kilobytes.",
+      "zh": "你听说过兆字节，千字节。"
+    },
+    {
+      "id": 85,
+      "start": 256.28,
+      "end": 257.3,
+      "en": "This is a size.",
+      "zh": "这是一个尺寸。"
+    },
+    {
+      "id": 86,
+      "start": 258.52,
+      "end": 261.1,
+      "en": "How fast you can receive these packets of information.",
+      "zh": "您可以以多快的速度接收这些信息包。"
+    },
+    {
+      "id": 87,
+      "start": 262.28,
+      "end": 265.68,
+      "en": "So 512 kilobytes per second.",
+      "zh": "所以每秒 512 千字节。"
+    },
+    {
+      "id": 88,
+      "start": 266.04,
+      "end": 269.41,
+      "en": "Per second, that's, I have no idea how much that is.",
+      "zh": "每秒，我不知道这是多少。"
+    },
+    {
+      "id": 89,
+      "start": 270.08,
+      "end": 271.08,
+      "en": "It's maybe a lot.",
+      "zh": "这可能很多。"
+    },
+    {
+      "id": 90,
+      "start": 271.08,
+      "end": 272.08,
+      "en": "It sounds like a lot.",
+      "zh": "听起来很多。"
+    },
+    {
+      "id": 91,
+      "start": 272.08,
+      "end": 273.08,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 92,
+      "start": 273.08,
+      "end": 279.24,
+      "en": "Well, basically it is a lot, but we saw later that he was asking for a connection speed of two megabytes.",
+      "zh": "好吧，基本上很多，但我们后来看到他要求的连接速度为 2 兆字节。"
+    },
+    {
+      "id": 93,
+      "start": 279.24,
+      "end": 282.56,
+      "en": "Oh, so mega is bigger than kpbs, right?",
+      "zh": "哦，所以 Mega 比 KPBS 大，对吧？"
+    },
+    {
+      "id": 94,
+      "start": 282.56,
+      "end": 283.56,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 95,
+      "start": 283.71,
+      "end": 284.01,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 96,
+      "start": 284.56,
+      "end": 287.95,
+      "en": "So these are different speeds of transferring information, right?",
+      "zh": "所以这些是不同的传输速度，对吧？"
+    },
+    {
+      "id": 97,
+      "start": 288.16,
+      "end": 291.57,
+      "en": "So this is a way for you to see what kind of internet plan you want.",
+      "zh": "所以这是一种让你了解你想要什么样的互联网计划的方式。"
+    },
+    {
+      "id": 98,
+      "start": 291.93,
+      "end": 292.23,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 99,
+      "start": 293.44,
+      "end": 300.64,
+      "en": "And so we have kilobytes, we have megabytes, and basically you want a faster connection speed because you want to avoid lag.",
+      "zh": "所以我们有千字节，我们有兆字节，基本上你想要更快的连接速度，因为你想避免延迟。"
+    },
+    {
+      "id": 100,
+      "start": 301.09,
+      "end": 302.03,
+      "en": "Ooh, lag.",
+      "zh": "哦，滞后。"
+    },
+    {
+      "id": 101,
+      "start": 302.67,
+      "end": 302.87,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 102,
+      "start": 303.55,
+      "end": 305.89,
+      "en": "This is a word that you can use in a lot of different ways.",
+      "zh": "这是一个你可以用很多不同方式使用的词。"
+    },
+    {
+      "id": 103,
+      "start": 305.99,
+      "end": 308.87,
+      "en": "For example, my brother always lags behind.",
+      "zh": "例如，我的兄弟总是落后。"
+    },
+    {
+      "id": 104,
+      "start": 309.04,
+      "end": 310.04,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 105,
+      "start": 310.04,
+      "end": 312.49,
+      "en": "So it's a verb, but in this case we're talking about the noun.",
+      "zh": "所以它是一个动词，但在这种情况下，我们正在谈论名词。"
+    },
+    {
+      "id": 106,
+      "start": 312.8,
+      "end": 314.28,
+      "en": "So lag is slowness.",
+      "zh": "所以滞后是缓慢的。"
+    },
+    {
+      "id": 107,
+      "start": 314.28,
+      "end": 315.28,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 108,
+      "start": 315.45,
+      "end": 316.11,
+      "en": "It's like a delay.",
+      "zh": "这就像一个延迟。"
+    },
+    {
+      "id": 109,
+      "start": 316.53,
+      "end": 316.71,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 110,
+      "start": 316.85,
+      "end": 318.13,
+      "en": "It's a delay in something.",
+      "zh": "这是某事的延迟。"
+    },
+    {
+      "id": 111,
+      "start": 318.39,
+      "end": 323.37,
+      "en": "So in this case, I can't even play my video games because there's too much lag.",
+      "zh": "所以在这种情况下，我什至不能玩我的电子游戏，因为滞后太多了。"
+    },
+    {
+      "id": 112,
+      "start": 323.97,
+      "end": 325.29,
+      "en": "So that means the internet's too slow.",
+      "zh": "所以这意味着互联网太慢了。"
+    },
+    {
+      "id": 113,
+      "start": 325.6,
+      "end": 326.6,
+      "en": "Too slow.",
+      "zh": "太慢了。"
+    },
+    {
+      "id": 114,
+      "start": 326.6,
+      "end": 327.6,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 115,
+      "start": 327.6,
+      "end": 330.21,
+      "en": "So that's what happens when you have a slow connection speed, you have lag.",
+      "zh": "所以这就是当你的连接速度慢，你有延迟时会发生的事情。"
+    },
+    {
+      "id": 116,
+      "start": 330.9,
+      "end": 334.17,
+      "en": "And as you can say, it refers to something that's slow or delayed.",
+      "zh": "正如你可以说的，它指的是缓慢或延迟的东西。"
+    },
+    {
+      "id": 117,
+      "start": 334.48,
+      "end": 337.91,
+      "en": "So you can use it in other contexts when you want to say something is a little bit slow.",
+      "zh": "因此，当您想说某事有点慢时，您可以在其他情况下使用它。"
+    },
+    {
+      "id": 118,
+      "start": 339.34,
+      "end": 344.64,
+      "en": "Well and another key thing here as we're talking about internet connections is the router.",
+      "zh": "好吧，当我们谈论互联网连接时，这里的另一个关键是路由器。"
+    },
+    {
+      "id": 119,
+      "start": 345.16,
+      "end": 350.88,
+      "en": "So router is something that helps us to route an internet connection.",
+      "zh": "所以路由器可以帮助我们路由互联网连接。"
+    },
+    {
+      "id": 120,
+      "start": 350.88,
+      "end": 352.0,
+      "en": "So for example.",
+      "zh": "所以举个例子。"
+    },
+    {
+      "id": 121,
+      "start": 353.04,
+      "end": 358.52,
+      "en": "So it basically distributes the internet connection to different computers or to different users.",
+      "zh": "所以它基本上将互联网连接分发给不同的计算机或不同的用户。"
+    },
+    {
+      "id": 122,
+      "start": 358.52,
+      "end": 361.32,
+      "en": "And some of these you plug in and some of them are wireless.",
+      "zh": "其中一些您插入，其中一些是无线的。"
+    },
+    {
+      "id": 123,
+      "start": 361.32,
+      "end": 362.76,
+      "en": "That means without a wire.",
+      "zh": "这意味着没有电线。"
+    },
+    {
+      "id": 124,
+      "start": 362.76,
+      "end": 371.27,
+      "en": "So a wireless router is something, a little box in your house that allows you to maybe have three or four computers on one broadband connection.",
+      "zh": "所以无线路由器就是你家里的一个小盒子，可以让你在一个宽带连接上有三到四台电脑。"
+    },
+    {
+      "id": 125,
+      "start": 371.77,
+      "end": 371.99,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 126,
+      "start": 372.35,
+      "end": 373.65,
+      "en": "So it's very popular now.",
+      "zh": "所以现在很流行。"
+    },
+    {
+      "id": 127,
+      "start": 373.8,
+      "end": 376.36,
+      "en": "You go to Starbucks and you have Wi-Fi.",
+      "zh": "你去星巴克，你有无线网络。"
+    },
+    {
+      "id": 128,
+      "start": 376.36,
+      "end": 380.53,
+      "en": "In order to have Wi-Fi or wireless internet, you need a router, a wireless router.",
+      "zh": "为了拥有 Wi-Fi 或无线互联网，您需要一个路由器、一个无线路由器。"
+    },
+    {
+      "id": 129,
+      "start": 380.92,
+      "end": 381.17,
+      "en": "Okay.",
+      "zh": "好的。"
+    },
+    {
+      "id": 130,
+      "start": 381.92,
+      "end": 383.44,
+      "en": "So wireless router.",
+      "zh": "所以无线路由器。"
+    },
+    {
+      "id": 131,
+      "start": 383.44,
+      "end": 386.59,
+      "en": "And finally, what is something that might get in the way of a connection?",
+      "zh": "最后，什么是可能阻碍连接的东西？"
+    },
+    {
+      "id": 132,
+      "start": 387.36,
+      "end": 388.29,
+      "en": "You have a firewall.",
+      "zh": "你有防火墙。"
+    },
+    {
+      "id": 133,
+      "start": 389.0,
+      "end": 391.63,
+      "en": "Very important security measure when navigating the internet.",
+      "zh": "浏览互联网时非常重要的安全措施。"
+    },
+    {
+      "id": 134,
+      "start": 392.31,
+      "end": 392.47,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 135,
+      "start": 392.92,
+      "end": 397.47,
+      "en": "So personal firewall is a firewall that you have on your computer to keep people from spying on you.",
+      "zh": "因此，个人防火墙是您计算机上的防火墙，可以防止人们监视您。"
+    },
+    {
+      "id": 136,
+      "start": 397.68,
+      "end": 400.42,
+      "en": "This keeps other people out.",
+      "zh": "这让其他人远离。"
+    },
+    {
+      "id": 137,
+      "start": 400.42,
+      "end": 401.22,
+      "en": "So it's exactly that.",
+      "zh": "所以正是如此。"
+    },
+    {
+      "id": 138,
+      "start": 401.42,
+      "end": 406.06,
+      "en": "It's a wall between your computer and the outside world.",
+      "zh": "这是您的计算机和外部世界之间的一堵墙。"
+    },
+    {
+      "id": 139,
+      "start": 406.46,
+      "end": 410.68,
+      "en": "So it protects you from any type of maybe malicious intruders.",
+      "zh": "因此，它可以保护您免受任何类型的恶意入侵者的侵害。"
+    },
+    {
+      "id": 140,
+      "start": 410.96,
+      "end": 411.96,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 141,
+      "start": 411.96,
+      "end": 423.04,
+      "en": "And oftentimes governments and public offices, things like that, law offices, they have firewalls to protect the information that they store because it's so important that it's secretive.",
+      "zh": "通常，政府和公共办公室，诸如此类的律师事务所，他们有防火墙来保护他们存储的信息，因为它是秘密的非常重要。"
+    },
+    {
+      "id": 142,
+      "start": 423.84,
+      "end": 424.84,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 143,
+      "start": 424.84,
+      "end": 425.84,
+      "en": "So firewalls.",
+      "zh": "所以防火墙。"
+    },
+    {
+      "id": 144,
+      "start": 425.84,
+      "end": 429.34,
+      "en": "There are many different types of firewalls, but a personal firewall is just a basic one.",
+      "zh": "有许多不同类型的防火墙，但个人防火墙只是一种基本的防火墙。"
+    },
+    {
+      "id": 145,
+      "start": 429.96,
+      "end": 430.34,
+      "en": "Great.",
+      "zh": "太好了。"
+    },
+    {
+      "id": 146,
+      "start": 430.62,
+      "end": 432.9,
+      "en": "So that is our language takeaway for today.",
+      "zh": "这就是我们今天的语言收获。"
+    },
+    {
+      "id": 147,
+      "start": 433.18,
+      "end": 436.7,
+      "en": "Let's check out this dialogue again and slow it down a bit this time.",
+      "zh": "让我们再次查看此对话，这次将其放慢速度。"
+    },
+    {
+      "id": 148,
+      "start": 443.6,
+      "end": 444.92,
+      "en": "Welcome to Gallinet.",
+      "zh": "欢迎来到 Gallinet。"
+    },
+    {
+      "id": 149,
+      "start": 444.92,
+      "end": 445.7,
+      "en": "How can I help you?",
+      "zh": "有什么可以帮您？"
+    },
+    {
+      "id": 150,
+      "start": 446.24,
+      "end": 446.36,
+      "en": "Hi.",
+      "zh": "嗨。"
+    },
+    {
+      "id": 151,
+      "start": 447.24,
+      "end": 448.74,
+      "en": "I would like to get an internet plan for my house.",
+      "zh": "我想为我的房子买一个互联网计划。"
+    },
+    {
+      "id": 152,
+      "start": 449.4,
+      "end": 449.62,
+      "en": "Of course.",
+      "zh": "当然。"
+    },
+    {
+      "id": 153,
+      "start": 450.4,
+      "end": 453.64,
+      "en": "We have three different plans with different prices you can choose from.",
+      "zh": "我们有三个不同价格的计划，您可以选择。"
+    },
+    {
+      "id": 154,
+      "start": 454.18,
+      "end": 458.56,
+      "en": "The first one is the cheapest, but most basic plan, which is $30 a month.",
+      "zh": "第一个是最便宜但最基本的计划，即每月 30 美元。"
+    },
+    {
+      "id": 155,
+      "start": 459.16,
+      "end": 463.9,
+      "en": "This is for broadband internet with a download speed of 512 kbps.",
+      "zh": "这适用于下载速度为 512 kbps 的宽带互联网。"
+    },
+    {
+      "id": 156,
+      "start": 464.75,
+      "end": 467.49,
+      "en": "I have no idea what kbps means.",
+      "zh": "我不知道kbps是什么意思。"
+    },
+    {
+      "id": 157,
+      "start": 468.15,
+      "end": 471.57,
+      "en": "I just want to be able to get online, play games, and chat with my friends.",
+      "zh": "我只想上网，玩游戏，和我的朋友聊天。"
+    },
+    {
+      "id": 158,
+      "start": 472.11,
+      "end": 473.69,
+      "en": "Oh, and watch movies online as well.",
+      "zh": "哦，也可以在线观看电影。"
+    },
+    {
+      "id": 159,
+      "start": 474.17,
+      "end": 477.37,
+      "en": "Well, this connection might be a bit too slow for your needs.",
+      "zh": "好吧，这种连接可能对您的需求来说有点太慢了。"
+    },
+    {
+      "id": 160,
+      "start": 477.96,
+      "end": 484.48,
+      "en": "I suggest you get the premium package for $50 a month, which includes a connection speed of 2 megabytes.",
+      "zh": "我建议您以每月 50 美元的价格购买高级套餐，其中包括 2 兆字节的连接速度。"
+    },
+    {
+      "id": 161,
+      "start": 484.48,
+      "end": 486.97,
+      "en": "That way, you can play games online without any lag.",
+      "zh": "这样，您可以毫无延迟地在线玩游戏。"
+    },
+    {
+      "id": 162,
+      "start": 487.6,
+      "end": 491.55,
+      "en": "This package also includes a wireless router and a personal firewall, absolutely free.",
+      "zh": "此套餐还包括一个无线路由器和一个完全免费的个人防火墙。"
+    },
+    {
+      "id": 163,
+      "start": 492.11,
+      "end": 493.79,
+      "en": "Do I have to pay an installation fee?",
+      "zh": "我必须支付安装费吗？"
+    },
+    {
+      "id": 164,
+      "start": 494.29,
+      "end": 497.87,
+      "en": "Lucky for you, this month we aren't charging our normal installation fee.",
+      "zh": "幸运的是，本月我们不收取正常的安装费。"
+    },
+    {
+      "id": 165,
+      "start": 498.52,
+      "end": 502.43,
+      "en": "You're saving yourself $100 right there, and we'll throw in this pen drive.",
+      "zh": "您在那里节省了 100 美元，我们将投入这个笔式驱动器。"
+    },
+    {
+      "id": 166,
+      "start": 503.32,
+      "end": 504.32,
+      "en": "Awesome.",
+      "zh": "太棒了。"
+    },
+    {
+      "id": 167,
+      "start": 504.32,
+      "end": 506.92,
+      "en": "All right, great.",
+      "zh": "好，太好了。"
+    },
+    {
+      "id": 168,
+      "start": 506.92,
+      "end": 515.84,
+      "en": "So we just heard all these words that we looked at before, but now why don't we take a look at some of these phrases in Fluency Builder.",
+      "zh": "所以我们只是听到了我们之前看过的所有这些词，但现在我们为什么不看看 Fluency Builder 中的一些短语。"
+    },
+    {
+      "id": 169,
+      "start": 515.84,
+      "end": 516.14,
+      "en": "Fluency Builder.",
+      "zh": "流利表达。"
+    },
+    {
+      "id": 170,
+      "start": 516.87,
+      "end": 517.83,
+      "en": "What's this first one?",
+      "zh": "这是什么第一个？"
+    },
+    {
+      "id": 171,
+      "start": 517.83,
+      "end": 518.65,
+      "en": "I can't read it.",
+      "zh": "我看不懂。"
+    },
+    {
+      "id": 172,
+      "start": 519.2,
+      "end": 520.52,
+      "en": "I have no idea.",
+      "zh": "我完全不知道。"
+    },
+    {
+      "id": 173,
+      "start": 520.85,
+      "end": 520.99,
+      "en": "What?",
+      "zh": "什么？"
+    },
+    {
+      "id": 174,
+      "start": 521.52,
+      "end": 523.28,
+      "en": "Well, didn't you write it down?",
+      "zh": "嗯，你不是写下来了吗？"
+    },
+    {
+      "id": 175,
+      "start": 523.28,
+      "end": 525.19,
+      "en": "I have no idea what you're talking about.",
+      "zh": "我完全不知道你在说什么。"
+    },
+    {
+      "id": 176,
+      "start": 525.48,
+      "end": 525.91,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 177,
+      "start": 526.48,
+      "end": 526.91,
+      "en": "Enough games.",
+      "zh": "游戏够了。"
+    },
+    {
+      "id": 178,
+      "start": 527.89,
+      "end": 528.21,
+      "en": "No.",
+      "zh": "不。"
+    },
+    {
+      "id": 179,
+      "start": 528.48,
+      "end": 528.85,
+      "en": "I have no idea.",
+      "zh": "我完全不知道。"
+    },
+    {
+      "id": 180,
+      "start": 529.83,
+      "end": 533.52,
+      "en": "Well, it's going to treat this as a phrase that gets said as is.",
+      "zh": "好吧，它会把它当作一个按原样说出来的短语。"
+    },
+    {
+      "id": 181,
+      "start": 533.71,
+      "end": 535.35,
+      "en": "We're not going to take bits and pieces of it.",
+      "zh": "我们不会拿它的零碎。"
+    },
+    {
+      "id": 182,
+      "start": 535.97,
+      "end": 539.97,
+      "en": "So I have no idea, or he has no idea, is a way to say, listen.",
+      "zh": "所以我不知道，或者他不知道，是一种说，听的方式。"
+    },
+    {
+      "id": 183,
+      "start": 541.38,
+      "end": 541.6,
+      "en": "I don't know.",
+      "zh": "我不知道。"
+    },
+    {
+      "id": 184,
+      "start": 541.6,
+      "end": 541.8,
+      "en": "I don't know.",
+      "zh": "我不知道。"
+    },
+    {
+      "id": 185,
+      "start": 542.6,
+      "end": 543.0,
+      "en": "I really don't know.",
+      "zh": "我真的不知道。"
+    },
+    {
+      "id": 186,
+      "start": 543.6,
+      "end": 544.6,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 187,
+      "start": 544.6,
+      "end": 549.76,
+      "en": "The guy was talking about KBPS and all these things, and the other guy was like, I have no idea what you're talking about.",
+      "zh": "这家伙在谈论 KBPS 和所有这些事情，而另一个人就像，我不知道你在说什么。"
+    },
+    {
+      "id": 188,
+      "start": 549.86,
+      "end": 550.7,
+      "en": "I don't understand.",
+      "zh": "我不明白。"
+    },
+    {
+      "id": 189,
+      "start": 551.08,
+      "end": 552.96,
+      "en": "And I can definitely empathize.",
+      "zh": "我绝对可以同情。"
+    },
+    {
+      "id": 190,
+      "start": 552.96,
+      "end": 553.37,
+      "en": "You can relate.",
+      "zh": "你可以联系起来。"
+    },
+    {
+      "id": 191,
+      "start": 554.03,
+      "end": 554.39,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 192,
+      "start": 554.84,
+      "end": 555.89,
+      "en": "Well, we'll leave that for another one.",
+      "zh": "好吧，我们将把它留给另一位。"
+    },
+    {
+      "id": 193,
+      "start": 556.92,
+      "end": 558.37,
+      "en": "But after this, we've got bucks.",
+      "zh": "但在这之后，我们有钱。"
+    },
+    {
+      "id": 194,
+      "start": 559.6,
+      "end": 560.6,
+      "en": "So bucks.",
+      "zh": "那么雄鹿。"
+    },
+    {
+      "id": 195,
+      "start": 560.93,
+      "end": 561.6,
+      "en": "Is this slang?",
+      "zh": "这是俚语吗？"
+    },
+    {
+      "id": 196,
+      "start": 561.6,
+      "end": 562.6,
+      "en": "Bucks.",
+      "zh": "雄鹿。"
+    },
+    {
+      "id": 197,
+      "start": 562.6,
+      "end": 563.6,
+      "en": "A hundred bucks.",
+      "zh": "一百块钱。"
+    },
+    {
+      "id": 198,
+      "start": 563.6,
+      "end": 564.6,
+      "en": "Two hundred bucks.",
+      "zh": "两百块钱。"
+    },
+    {
+      "id": 199,
+      "start": 564.85,
+      "end": 565.27,
+      "en": "A lot of money.",
+      "zh": "很多钱。"
+    },
+    {
+      "id": 200,
+      "start": 565.6,
+      "end": 566.6,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 201,
+      "start": 566.6,
+      "end": 568.76,
+      "en": "So bucks is basically another way of saying dollars.",
+      "zh": "所以雄鹿基本上是另一种说法。"
+    },
+    {
+      "id": 202,
+      "start": 568.89,
+      "end": 569.13,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 203,
+      "start": 569.76,
+      "end": 570.76,
+      "en": "So this is a way for...",
+      "zh": "所以这是一种方式..."
+    },
+    {
+      "id": 204,
+      "start": 570.76,
+      "end": 572.45,
+      "en": "Well, this is a way that most Americans talk about money.",
+      "zh": "嗯，这是大多数美国人谈论金钱的方式。"
+    },
+    {
+      "id": 205,
+      "start": 573.12,
+      "end": 575.4,
+      "en": "It's one buck is one US dollar.",
+      "zh": "这是一美元就是一美元。"
+    },
+    {
+      "id": 206,
+      "start": 575.4,
+      "end": 576.4,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 207,
+      "start": 576.45,
+      "end": 578.39,
+      "en": "So can I borrow 10 bucks, Marco?",
+      "zh": "那么我可以借 10 美元，马可吗？"
+    },
+    {
+      "id": 208,
+      "start": 578.71,
+      "end": 578.87,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 209,
+      "start": 579.72,
+      "end": 580.72,
+      "en": "Yeah, sure.",
+      "zh": "好啊，当然。"
+    },
+    {
+      "id": 210,
+      "start": 580.72,
+      "end": 581.72,
+      "en": "There you go.",
+      "zh": "你去吧。"
+    },
+    {
+      "id": 211,
+      "start": 581.72,
+      "end": 583.48,
+      "en": "Now, bucks, you can only use it for American currency, right?",
+      "zh": "现在，雄鹿，你只能用它来做美国货币，对吧？"
+    },
+    {
+      "id": 212,
+      "start": 583.48,
+      "end": 585.0,
+      "en": "You can't use it for like euros or...",
+      "zh": "你不能像欧元一样使用它或..."
+    },
+    {
+      "id": 213,
+      "start": 585.0,
+      "end": 586.0,
+      "en": "No.",
+      "zh": "不。"
+    },
+    {
+      "id": 214,
+      "start": 586.0,
+      "end": 587.76,
+      "en": "I mean, I wouldn't say like 10 euros would be 10 bucks.",
+      "zh": "我的意思是，我不会说 10 欧元是 10 美元。"
+    },
+    {
+      "id": 215,
+      "start": 587.76,
+      "end": 588.76,
+      "en": "No, no, no, no.",
+      "zh": "不，不，不，不。"
+    },
+    {
+      "id": 216,
+      "start": 588.76,
+      "end": 593.6,
+      "en": "Usually, you say this about American dollars and you say this just when you're hanging out or how much does this cost?",
+      "zh": "通常，你说的是美元，你只是在闲逛时这么说，或者这要花多少钱？"
+    },
+    {
+      "id": 217,
+      "start": 593.88,
+      "end": 594.88,
+      "en": "Oh, five bucks.",
+      "zh": "哦，五块钱。"
+    },
+    {
+      "id": 218,
+      "start": 595.32,
+      "end": 595.48,
+      "en": "Yeah.",
+      "zh": "对。"
+    },
+    {
+      "id": 219,
+      "start": 595.88,
+      "end": 596.88,
+      "en": "Very good.",
+      "zh": "很好。"
+    },
+    {
+      "id": 220,
+      "start": 596.88,
+      "end": 599.3,
+      "en": "So the guy was telling him about the price of the internet and everything.",
+      "zh": "所以这家伙告诉他互联网的价格和一切。"
+    },
+    {
+      "id": 221,
+      "start": 599.68,
+      "end": 602.68,
+      "en": "And he said that he's going to throw in a pen drive, right?",
+      "zh": "他说他要扔一个笔式驱动器，对吧？"
+    },
+    {
+      "id": 222,
+      "start": 603.24,
+      "end": 604.24,
+      "en": "He's going to throw it?",
+      "zh": "他要扔吗？"
+    },
+    {
+      "id": 223,
+      "start": 604.24,
+      "end": 605.24,
+      "en": "He's going to throw it at him.",
+      "zh": "他会把它扔给他。"
+    },
+    {
+      "id": 224,
+      "start": 605.38,
+      "end": 608.2,
+      "en": "No, he's going to throw in a pen drive for free.",
+      "zh": "不，他将免费投入笔式驱动器。"
+    },
+    {
+      "id": 225,
+      "start": 608.56,
+      "end": 609.08,
+      "en": "Oh, sweet.",
+      "zh": "哦，甜。"
+    },
+    {
+      "id": 226,
+      "start": 609.66,
+      "end": 612.58,
+      "en": "So throw in means to add.",
+      "zh": "所以投入意味着添加。"
+    },
+    {
+      "id": 227,
+      "start": 613.0,
+      "end": 613.42,
+      "en": "Or include.",
+      "zh": "或包括。"
+    },
+    {
+      "id": 228,
+      "start": 614.0,
+      "end": 615.0,
+      "en": "Include.",
+      "zh": "包括。"
+    },
+    {
+      "id": 229,
+      "start": 615.0,
+      "end": 615.4,
+      "en": "So, listen.",
+      "zh": "所以，听着。"
+    },
+    {
+      "id": 230,
+      "start": 616.44,
+      "end": 622.16,
+      "en": "Sir, here's your large popcorn and I'm going to throw in a small diet Coke for free.",
+      "zh": "先生，这是你的大爆米花，我要免费放一小段健怡可乐。"
+    },
+    {
+      "id": 231,
+      "start": 622.56,
+      "end": 623.56,
+      "en": "Wow.",
+      "zh": "哇。"
+    },
+    {
+      "id": 232,
+      "start": 623.56,
+      "end": 625.36,
+      "en": "How generous of me.",
+      "zh": "我多么慷慨。"
+    },
+    {
+      "id": 233,
+      "start": 625.36,
+      "end": 629.32,
+      "en": "So you throw in something, you include it for free, right?",
+      "zh": "所以你扔了一些东西，你免费包含它，对吧？"
+    },
+    {
+      "id": 234,
+      "start": 629.32,
+      "end": 630.32,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 235,
+      "start": 630.32,
+      "end": 632.28,
+      "en": "So this is usually a complimentary item.",
+      "zh": "所以这通常是免费的项目。"
+    },
+    {
+      "id": 236,
+      "start": 633.12,
+      "end": 633.28,
+      "en": "Great.",
+      "zh": "太好了。"
+    },
+    {
+      "id": 237,
+      "start": 633.4,
+      "end": 636.64,
+      "en": "I think this word is really interesting or this phrase.",
+      "zh": "我认为这个词真的很有趣或这个短语。"
+    },
+    {
+      "id": 238,
+      "start": 636.64,
+      "end": 640.24,
+      "en": "So why don't we listen to a couple of other examples using throw in.",
+      "zh": "那么我们为什么不听一些使用 throw in 的其他例子。"
+    },
+    {
+      "id": 239,
+      "start": 640.98,
+      "end": 641.96,
+      "en": "Example one.",
+      "zh": "例句一。"
+    },
+    {
+      "id": 240,
+      "start": 643.57,
+      "end": 646.97,
+      "en": "If you buy two pizzas, we will throw in another one for free.",
+      "zh": "如果你买了两个比萨饼，我们将免费赠送一份。"
+    },
+    {
+      "id": 241,
+      "start": 649.52,
+      "end": 650.52,
+      "en": "Example two.",
+      "zh": "例句二。"
+    },
+    {
+      "id": 242,
+      "start": 653.64,
+      "end": 654.14,
+      "en": "Tell you what.",
+      "zh": "告诉你什么。"
+    },
+    {
+      "id": 243,
+      "start": 654.36,
+      "end": 657.2,
+      "en": "I'll buy this computer if you throw in a pair of headphones.",
+      "zh": "如果你戴上一副耳机，我会买这台电脑。"
+    },
+    {
+      "id": 244,
+      "start": 659.56,
+      "end": 661.72,
+      "en": "Deal?",
+      "zh": "交易？"
+    },
+    {
+      "id": 245,
+      "start": 661.72,
+      "end": 664.96,
+      "en": "Example three.",
+      "zh": "例句三。"
+    },
+    {
+      "id": 246,
+      "start": 664.96,
+      "end": 668.5,
+      "en": "The salesman threw in a subscription to the local newspaper for buying his product.",
+      "zh": "推销员订阅了当地报纸以购买他的产品。"
+    },
+    {
+      "id": 247,
+      "start": 669.22,
+      "end": 669.72,
+      "en": "Isn't that great?",
+      "zh": "那不是很好吗？"
+    },
+    {
+      "id": 248,
+      "start": 672.04,
+      "end": 672.44,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 249,
+      "start": 672.6,
+      "end": 672.84,
+      "en": "Great.",
+      "zh": "太好了。"
+    },
+    {
+      "id": 250,
+      "start": 673.14,
+      "end": 673.84,
+      "en": "So good examples.",
+      "zh": "这么好的例子。"
+    },
+    {
+      "id": 251,
+      "start": 674.34,
+      "end": 675.4,
+      "en": "I think it's clear now.",
+      "zh": "我认为现在很清楚。"
+    },
+    {
+      "id": 252,
+      "start": 675.56,
+      "end": 677.84,
+      "en": "The phrases, all these words related to the internet.",
+      "zh": "短语，所有这些与互联网有关的词。"
+    },
+    {
+      "id": 253,
+      "start": 677.84,
+      "end": 678.16,
+      "en": "Absolutely.",
+      "zh": "当然。"
+    },
+    {
+      "id": 254,
+      "start": 678.54,
+      "end": 679.06,
+      "en": "And so useful.",
+      "zh": "非常有用。"
+    },
+    {
+      "id": 255,
+      "start": 679.72,
+      "end": 679.9,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 256,
+      "start": 680.84,
+      "end": 690.08,
+      "en": "So why don't we listen to this dialogue for the last time and then we'll come back and talk a little bit more.",
+      "zh": "那么我们为什么不最后一次听这个对话，然后我们会回来多说一点。"
+    },
+    {
+      "id": 257,
+      "start": 690.08,
+      "end": 690.94,
+      "en": "Welcome to Gallinet.",
+      "zh": "欢迎来到 Gallinet。"
+    },
+    {
+      "id": 258,
+      "start": 691.42,
+      "end": 692.2,
+      "en": "How can I help you?",
+      "zh": "有什么可以帮您？"
+    },
+    {
+      "id": 259,
+      "start": 692.68,
+      "end": 693.68,
+      "en": "Hi.",
+      "zh": "嗨。"
+    },
+    {
+      "id": 260,
+      "start": 693.68,
+      "end": 695.24,
+      "en": "I would like to get an internet plan for my house.",
+      "zh": "我想为我的房子买一个互联网计划。"
+    },
+    {
+      "id": 261,
+      "start": 695.96,
+      "end": 696.18,
+      "en": "Of course.",
+      "zh": "当然。"
+    },
+    {
+      "id": 262,
+      "start": 697.55,
+      "end": 701.09,
+      "en": "We have three different plans with different prices you can choose from.",
+      "zh": "我们有三个不同价格的计划，您可以选择。"
+    },
+    {
+      "id": 263,
+      "start": 701.65,
+      "end": 705.99,
+      "en": "The first one is the cheapest but most basic plan, which is $30 a month.",
+      "zh": "第一个是最便宜但最基本的计划，即每月 30 美元。"
+    },
+    {
+      "id": 264,
+      "start": 706.38,
+      "end": 711.36,
+      "en": "This is for broadband internet with a download speed of 512 kbps.",
+      "zh": "这适用于下载速度为 512 kbps 的宽带互联网。"
+    },
+    {
+      "id": 265,
+      "start": 712.15,
+      "end": 714.91,
+      "en": "I have no idea what kbps means.",
+      "zh": "我不知道kbps是什么意思。"
+    },
+    {
+      "id": 266,
+      "start": 715.59,
+      "end": 719.01,
+      "en": "I just want to be able to get online, play games, and chat with my friends.",
+      "zh": "我只想上网，玩游戏，和我的朋友聊天。"
+    },
+    {
+      "id": 267,
+      "start": 719.65,
+      "end": 721.11,
+      "en": "Oh, and watch movies online as well.",
+      "zh": "哦，也可以在线观看电影。"
+    },
+    {
+      "id": 268,
+      "start": 721.58,
+      "end": 724.8,
+      "en": "Well, this connection might be a bit too slow for your needs.",
+      "zh": "好吧，这种连接可能对您的需求来说有点太慢了。"
+    },
+    {
+      "id": 269,
+      "start": 725.44,
+      "end": 731.88,
+      "en": "I suggest you get the premium package for $50 a month, which includes a connection speed of 2 megabytes.",
+      "zh": "我建议您以每月 50 美元的价格购买高级套餐，其中包括 2 兆字节的连接速度。"
+    },
+    {
+      "id": 270,
+      "start": 731.88,
+      "end": 734.34,
+      "en": "That way, you can play games online without any lag.",
+      "zh": "这样，您可以毫无延迟地在线玩游戏。"
+    },
+    {
+      "id": 271,
+      "start": 735.0,
+      "end": 738.94,
+      "en": "This package also includes a wireless router and a personal firewall, absolutely free.",
+      "zh": "此套餐还包括一个无线路由器和一个完全免费的个人防火墙。"
+    },
+    {
+      "id": 272,
+      "start": 739.62,
+      "end": 741.24,
+      "en": "Do I have to pay an installation fee?",
+      "zh": "我必须支付安装费吗？"
+    },
+    {
+      "id": 273,
+      "start": 742.19,
+      "end": 745.93,
+      "en": "Lucky for you, this month we aren't charging our normal installation fee.",
+      "zh": "幸运的是，本月我们不收取正常的安装费。"
+    },
+    {
+      "id": 274,
+      "start": 746.56,
+      "end": 748.79,
+      "en": "You are saving yourself $100 right there.",
+      "zh": "你在那里节省了 100 美元。"
+    },
+    {
+      "id": 275,
+      "start": 749.32,
+      "end": 750.47,
+      "en": "And we'll throw in this pen drive.",
+      "zh": "我们还会赠送这个 U 盘。"
+    },
+    {
+      "id": 276,
+      "start": 752.32,
+      "end": 754.04,
+      "en": "Awesome!",
+      "zh": "棒极了!"
+    },
+    {
+      "id": 277,
+      "start": 756.07,
+      "end": 760.29,
+      "en": "So the internet is a big deal nowadays and now you can do so much on it.",
+      "zh": "所以现在互联网很重要，现在你可以在它上面做很多事情。"
+    },
+    {
+      "id": 278,
+      "start": 760.56,
+      "end": 770.32,
+      "en": "Not only navigate websites anymore, but watch movies, download applications, photos, Facebook, all this type of things now you can do on the internet.",
+      "zh": "不仅不再浏览网站，还可以在互联网上观看电影、下载应用程序、照片、Facebook 以及所有这些类型的事情。"
+    },
+    {
+      "id": 279,
+      "start": 770.32,
+      "end": 774.01,
+      "en": "You can even do it from your phone, like when you're in the bathroom or on the train.",
+      "zh": "您甚至可以通过手机进行操作，例如在浴室或火车上。"
+    },
+    {
+      "id": 280,
+      "start": 774.31,
+      "end": 775.03,
+      "en": "I mean, it's scary.",
+      "zh": "我的意思是，这很可怕。"
+    },
+    {
+      "id": 281,
+      "start": 775.65,
+      "end": 777.07,
+      "en": "We're always connected.",
+      "zh": "我们始终保持联系。"
+    },
+    {
+      "id": 282,
+      "start": 777.75,
+      "end": 777.87,
+      "en": "Right.",
+      "zh": "对。"
+    },
+    {
+      "id": 283,
+      "start": 778.2,
+      "end": 779.23,
+      "en": "So it's interesting.",
+      "zh": "所以挺有意思的。"
+    },
+    {
+      "id": 284,
+      "start": 779.62,
+      "end": 780.35,
+      "en": "You're always connected.",
+      "zh": "你总是连接的。"
+    },
+    {
+      "id": 285,
+      "start": 780.72,
+      "end": 782.64,
+      "en": "You're always online with people.",
+      "zh": "你总是和人在线。"
+    },
+    {
+      "id": 286,
+      "start": 783.22,
+      "end": 787.22,
+      "en": "And it's actually very noticeable when you maybe live somewhere else.",
+      "zh": "当您可能住在其他地方时，它实际上非常明显。"
+    },
+    {
+      "id": 287,
+      "start": 787.22,
+      "end": 789.24,
+      "en": "Before you used to have to write letters.",
+      "zh": "在你过去不得不写信之前。"
+    },
+    {
+      "id": 288,
+      "start": 789.74,
+      "end": 793.16,
+      "en": "I don't think many people receive handwritten letters anymore.",
+      "zh": "我不认为有很多人收到手写的信件。"
+    },
+    {
+      "id": 289,
+      "start": 793.7,
+      "end": 793.84,
+      "en": "Never.",
+      "zh": "从来没有。"
+    },
+    {
+      "id": 290,
+      "start": 794.4,
+      "end": 795.48,
+      "en": "I'm speaking for myself.",
+      "zh": "我是为自己说话。"
+    },
+    {
+      "id": 291,
+      "start": 795.64,
+      "end": 796.52,
+      "en": "I never receive.",
+      "zh": "我从来没有收到。"
+    },
+    {
+      "id": 292,
+      "start": 797.12,
+      "end": 798.02,
+      "en": "And I don't write them either.",
+      "zh": "而且我也不写它们。"
+    },
+    {
+      "id": 293,
+      "start": 798.4,
+      "end": 799.94,
+      "en": "So I guess I'm guilty of it.",
+      "zh": "所以我想我对此感到内疚。"
+    },
+    {
+      "id": 294,
+      "start": 800.2,
+      "end": 801.32,
+      "en": "So now people just send emails.",
+      "zh": "所以现在人们只是发送电子邮件。"
+    },
+    {
+      "id": 295,
+      "start": 802.0,
+      "end": 812.04,
+      "en": "Obviously it's more convenient, but maybe it's a little bit less significant maybe than actually going to the post office or taking the time to write a letter, going to the post office and stuff.",
+      "zh": "显然它更方便，但也许它比实际去邮局或花时间写信、去邮局和其他东西的意义要小一点。"
+    },
+    {
+      "id": 296,
+      "start": 812.04,
+      "end": 812.82,
+      "en": "Well, I don't know.",
+      "zh": "嗯，我不知道。"
+    },
+    {
+      "id": 297,
+      "start": 813.04,
+      "end": 818.02,
+      "en": "I mean, there's something nice about having a physical thing you can hold on to, but I wonder if one day we're going to forget how to write.",
+      "zh": "我的意思是，有一件你可以坚持的身体上的东西是件好事，但我想知道有一天我们是否会忘记如何写作。"
+    },
+    {
+      "id": 298,
+      "start": 819.12,
+      "end": 820.22,
+      "en": "You know, like write with a pen.",
+      "zh": "你知道，就像用笔写字一样。"
+    },
+    {
+      "id": 299,
+      "start": 820.46,
+      "end": 821.22,
+      "en": "With a pen and pencil.",
+      "zh": "用钢笔和铅笔。"
+    },
+    {
+      "id": 300,
+      "start": 821.38,
+      "end": 821.56,
+      "en": "Exactly.",
+      "zh": "正是这样。"
+    },
+    {
+      "id": 301,
+      "start": 822.64,
+      "end": 828.56,
+      "en": "We're going to have these little PDAs and these little iPhones and they're going to just, you're going to talk and they're going to take everything down in note form for you.",
+      "zh": "我们将拥有这些小 PDA 和这些小 iPhone，它们将只是，您将交谈，他们将以笔记形式为您删除所有内容。"
+    },
+    {
+      "id": 302,
+      "start": 828.56,
+      "end": 831.34,
+      "en": "Well, now it's kind of happening with the Kindle, right?",
+      "zh": "好吧，现在它在 Kindle 上发生了，对吧？"
+    },
+    {
+      "id": 303,
+      "start": 831.52,
+      "end": 836.23,
+      "en": "Now you can have books on this electronic device that lets you read through them.",
+      "zh": "现在，您可以在这个电子设备上拥有书籍，让您阅读它们。"
+    },
+    {
+      "id": 304,
+      "start": 836.79,
+      "end": 838.83,
+      "en": "You can carry a hundred books with you to the beach.",
+      "zh": "您可以随身携带一百本书到海滩。"
+    },
+    {
+      "id": 305,
+      "start": 839.66,
+      "end": 848.48,
+      "en": "So now you don't even really need physical books, which is good on some level because you know, you're saving trees and space and all that stuff.",
+      "zh": "所以现在你甚至不需要实体书，这在某种程度上是好的，因为你知道，你正在节省树木和空间以及所有这些东西。"
+    },
+    {
+      "id": 306,
+      "start": 849.16,
+      "end": 852.16,
+      "en": "But there's something physical about reading a book.",
+      "zh": "但是读书有一些物理意义。"
+    },
+    {
+      "id": 307,
+      "start": 852.44,
+      "end": 855.34,
+      "en": "You hold it, you flip the pages, you know how many pages you have left.",
+      "zh": "你拿着它，你翻页，你知道你还剩下多少页。"
+    },
+    {
+      "id": 308,
+      "start": 855.6,
+      "end": 856.6,
+      "en": "I don't know.",
+      "zh": "我不知道。"
+    },
+    {
+      "id": 309,
+      "start": 856.98,
+      "end": 857.22,
+      "en": "We'll see.",
+      "zh": "我们会看到的。"
+    },
+    {
+      "id": 310,
+      "start": 857.44,
+      "end": 860.28,
+      "en": "Maybe I'll be a convert one day, but for now I'm good with paper books.",
+      "zh": "也许有一天我会成为一名皈依者，但现在我很擅长纸质书。"
+    },
+    {
+      "id": 311,
+      "start": 860.6,
+      "end": 861.6,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 312,
+      "start": 861.6,
+      "end": 865.04,
+      "en": "So what do you guys think about the internet, about electronic books?",
+      "zh": "那么你们对互联网和电子书有什么看法呢？"
+    },
+    {
+      "id": 313,
+      "start": 865.28,
+      "end": 869.15,
+      "en": "You can also tell us any problems or confusion you have with the things that we talked about today.",
+      "zh": "您还可以告诉我们您对我们今天讨论的事情的任何问题或困惑。"
+    },
+    {
+      "id": 314,
+      "start": 869.96,
+      "end": 872.63,
+      "en": "Hopefully everything is clear, but if not, we are here to answer your questions.",
+      "zh": "希望一切都清楚，但如果没有，我们将在这里回答您的问题。"
+    },
+    {
+      "id": 315,
+      "start": 872.64,
+      "end": 873.64,
+      "en": "We like to do so.",
+      "zh": "我们喜欢这样做。"
+    },
+    {
+      "id": 316,
+      "start": 873.64,
+      "end": 875.28,
+      "en": "So check out our website, EnglishPod.com.",
+      "zh": "因此，请查看我们的网站 englishpod.com。"
+    },
+    {
+      "id": 317,
+      "start": 875.79,
+      "end": 876.11,
+      "en": "All right.",
+      "zh": "好的。"
+    },
+    {
+      "id": 318,
+      "start": 876.28,
+      "end": 877.89,
+      "en": "We'll see you guys there and until next time.",
+      "zh": "到时候见，各位；下次再见。"
+    },
+    {
+      "id": 319,
+      "start": 878.16,
+      "end": 878.75,
+      "en": "Goodbye everyone.",
+      "zh": "再见大家。"
+    }
+  ],
+  "dialog": {
+    "start": 42.36,
+    "end": 104.64,
+    "segmentIds": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31
+    ]
+  }
+}
