@@ -10,6 +10,7 @@
   const txt = document.getElementById('txtContainer');
   const md = document.getElementById('mdContainer');
   const chinese = document.getElementById('showChinese');
+  const themeToggle = document.getElementById('themeToggle');
   const sentenceLoop = document.getElementById('sentenceLoop');
   const retainHighlight = document.getElementById('retainHighlight');
   const scopeControls = [...document.querySelectorAll('input[name="scope"]')];
@@ -38,14 +39,29 @@
   // Preferences belong to this browser/origin, never to the server.
   let preferences = {};
   try { preferences = JSON.parse(localStorage.getItem('englishPodPreferences')) || {}; } catch (_) {}
+  let theme = preferences.theme === 'dark' ? 'dark' : 'light';
+  function applyTheme(nextTheme) {
+    theme = nextTheme === 'dark' ? 'dark' : 'light';
+    document.documentElement.dataset.theme = theme === 'dark' ? 'dark' : '';
+    if (themeToggle) {
+      themeToggle.setAttribute('aria-pressed', String(theme === 'dark'));
+      themeToggle.textContent = theme === 'dark' ? '亮色' : '暗色';
+      themeToggle.title = theme === 'dark' ? '切换亮色模式' : '切换暗色模式';
+    }
+  }
   function savePreferences() {
     try {
       localStorage.setItem('englishPodPreferences', JSON.stringify({
         chinese: chinese.checked, retainHighlight: retainHighlight.checked,
-        sentenceLoop: sentenceLoop.checked, scope, playMode: playMode(), speed: audio.playbackRate
+        sentenceLoop: sentenceLoop.checked, scope, playMode: playMode(), speed: audio.playbackRate, theme
       }));
     } catch (_) {} // Private mode/storage restrictions must not stop playback.
   }
+  applyTheme(theme);
+  themeToggle?.addEventListener('click', () => {
+    applyTheme(theme === 'dark' ? 'light' : 'dark');
+    savePreferences();
+  });
   chinese.checked = preferences.chinese === true;
   retainHighlight.checked = preferences.retainHighlight !== false;
   sentenceLoop.checked = preferences.sentenceLoop === true;
