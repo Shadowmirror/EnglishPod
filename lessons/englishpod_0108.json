@@ -81,7 +81,7 @@
       "start": 31.48,
       "end": 35.2,
       "en": "So we're going to try and help you today with some great phrases and vocabulary items.",
-      "zh": "所以我们今天将尝试帮助您提供一些很棒的短语和词汇项目。"
+      "zh": "所以我们今天会试着用一些很棒的短语和词汇来帮助你。"
     },
     {
       "id": 12,
@@ -95,7 +95,7 @@
       "start": 37.3,
       "end": 45.2,
       "en": "Let's go directly to our dialogue where we will be in a company and one of the employees is going to be giving bad news to his boss.",
-      "zh": "让我们直接进入我们的对话，我们将在一家公司，其中一名员工将向他的老板提供坏消息。"
+      "zh": "让我们直接进入对话，场景设在一家公司，其中一名员工要告诉老板一个坏消息。"
     },
     {
       "id": 14,
@@ -340,21 +340,21 @@
       "start": 147.49,
       "end": 149.01,
       "en": "Well, I guess he knows when to get out.",
-      "zh": "好吧，我猜他知道什么时候出去。"
+      "zh": "好吧，我猜他知道什么时候该抽身。"
     },
     {
       "id": 49,
       "start": 149.37,
       "end": 153.15,
       "en": "But why don't we take a look at some of the language now in Language Takeaway.",
-      "zh": "但是我们为什么不看看现在语言外卖中的一些语言。"
+      "zh": "但是我们为什么不看看现在语言要点中的一些表达。"
     },
     {
       "id": 50,
       "start": 157.62,
       "end": 162.76,
       "en": "So in Language Takeaway today, we have five vocabulary items and, well, let's start with the first one.",
-      "zh": "所以在今天的语言外卖中，我们有五个词汇项目，好吧，让我们从第一个开始。"
+      "zh": "所以在今天的语言要点中，我们有五个词汇项目，好吧，让我们从第一个开始。"
     },
     {
       "id": 51,
@@ -403,7 +403,7 @@
       "start": 179.56,
       "end": 183.56,
       "en": "Well, the word gory comes from gore, like blood and guts, right?",
-      "zh": "好吧，血腥这个词来自血腥，就像血和内脏一样，对吧？"
+      "zh": "好吧，gory 这个词来自 gore，就是血和内脏那种，对吧？"
     },
     {
       "id": 58,
@@ -424,7 +424,7 @@
       "start": 186.44,
       "end": 195.48,
       "en": "So gory details mean all the little details of a negative or shocking or bad situation.",
-      "zh": "因此，血腥的细节意味着负面或令人震惊或糟糕的情况的所有小细节。"
+      "zh": "所以 gory details 指的是负面、令人震惊或糟糕情况的所有小细节。"
     },
     {
       "id": 61,
@@ -459,7 +459,7 @@
       "start": 208.81,
       "end": 214.79,
       "en": "So the employee was talking about how bad the company was doing and he mentioned this word redundancies.",
-      "zh": "所以员工在谈论公司做得有多糟糕，他提到了这个词的冗余。"
+      "zh": "所以这位员工在说公司有多糟，他提到了 redundancies 这个词。"
     },
     {
       "id": 66,
@@ -480,7 +480,7 @@
       "start": 218.72,
       "end": 223.8,
       "en": "Okay, so redundancies, again, it's based on the word to be redundant.",
-      "zh": "好的，冗余，再次，它基于单词是多余的。"
+      "zh": "好的，redundancies 又是来自 to be redundant 这个词。"
     },
     {
       "id": 69,
@@ -508,14 +508,14 @@
       "start": 230.85,
       "end": 233.67,
       "en": "It's well, laying people off, people that you don't need anymore.",
-      "zh": "很好，解雇人们，你不再需要的人。"
+      "zh": "嗯，就是裁员，裁掉你不再需要的人。"
     },
     {
       "id": 73,
       "start": 233.89,
       "end": 235.25,
       "en": "They are redundancies.",
-      "zh": "它们是冗余。"
+      "zh": "这就是 redundancies（裁员）。"
     },
     {
       "id": 74,
@@ -683,7 +683,7 @@
       "start": 326.0,
       "end": 332.48,
       "en": "All right, so moving on to our next item on Language Takeaway, we have to shoulder the cost.",
-      "zh": "好吧，所以继续我们的下一个语言外卖项目，我们必须承担成本。"
+      "zh": "好吧，所以继续我们的下一个语言要点项目，我们必须承担成本。"
     },
     {
       "id": 98,
@@ -704,7 +704,7 @@
       "start": 337.28,
       "end": 338.33,
       "en": "You have to carry it.",
-      "zh": "你必须携带它。"
+      "zh": "你必须承担它。"
     },
     {
       "id": 101,
@@ -718,14 +718,14 @@
       "start": 339.64,
       "end": 340.64,
       "en": "Yeah, that's a good one.",
-      "zh": "是的，这是一件好事。"
+      "zh": "对，这个说法不错。"
     },
     {
       "id": 103,
       "start": 340.64,
       "end": 343.19,
       "en": "So basically, it's the same as the shoulder, your body.",
-      "zh": "所以基本上，它和肩膀，你的身体一样。"
+      "zh": "所以基本上，它就和你身体上的肩膀一样。"
     },
     {
       "id": 104,
@@ -746,7 +746,7 @@
       "start": 350.39,
       "end": 351.61,
       "en": "To shoulder the burden.",
-      "zh": "来承担负担。"
+      "zh": "承担重担。"
     },
     {
       "id": 107,
@@ -781,28 +781,28 @@
       "start": 358.48,
       "end": 360.31,
       "en": "And we have one more word on Language Takeaway.",
-      "zh": "我们还有一个关于语言外卖的词。"
+      "zh": "我们还有一个关于语言要点的词。"
     },
     {
       "id": 112,
       "start": 361.2,
       "end": 364.16,
       "en": "And the factory has gone under.",
-      "zh": "工厂倒塌了。"
+      "zh": "那家工厂已经倒闭了。"
     },
     {
       "id": 113,
       "start": 364.16,
       "end": 364.93,
       "en": "To go under.",
-      "zh": "下去。"
+      "zh": "倒闭；破产。"
     },
     {
       "id": 114,
       "start": 365.41,
       "end": 366.81,
       "en": "All right, to go under.",
-      "zh": "好吧，下去。"
+      "zh": "好吧，to go under，倒闭。"
     },
     {
       "id": 115,
@@ -837,14 +837,14 @@
       "start": 376.56,
       "end": 377.67,
       "en": "All right, so to go under.",
-      "zh": "好吧，所以下去。"
+      "zh": "好吧，to go under，倒闭。"
     },
     {
       "id": 120,
       "start": 378.32,
       "end": 380.7,
       "en": "Great vocabulary items here on Language Takeaway today.",
-      "zh": "今天在语言外卖上的精彩词汇项目。"
+      "zh": "今天在语言要点上的精彩词汇项目。"
     },
     {
       "id": 121,
@@ -858,7 +858,7 @@
       "start": 385.64,
       "end": 390.04,
       "en": "So let's start now with Fluency Builder.",
-      "zh": "所以让我们现在从 Flueny Builder 开始。"
+      "zh": "所以让我们现在从流利表达开始。"
     },
     {
       "id": 123,
@@ -886,28 +886,28 @@
       "start": 403.52,
       "end": 409.0,
       "en": "So the boss is getting ready to prepare for this bad news and he says, lay it on me.",
-      "zh": "所以老板正准备为这个坏消息做准备，他说，把它放在我身上。"
+      "zh": "所以老板准备迎接这个坏消息，他说，尽管说吧。"
     },
     {
       "id": 127,
       "start": 409.32,
       "end": 411.38,
       "en": "He's like, okay, lay it on me.",
-      "zh": "他就像，好吧，把它放在我身上。"
+      "zh": "他就像，好吧，尽管说吧。"
     },
     {
       "id": 128,
       "start": 411.64,
       "end": 412.26,
       "en": "Lay it on me.",
-      "zh": "把它放在我身上。"
+      "zh": "尽管说吧。"
     },
     {
       "id": 129,
       "start": 412.76,
       "end": 415.84,
       "en": "So if I say this, lay it on me, I'm just saying, tell me.",
-      "zh": "所以如果我这么说，把它放在我身上，我只是说，告诉我。"
+      "zh": "所以如果我说 lay it on me，我只是在说，告诉我吧。"
     },
     {
       "id": 130,
@@ -928,7 +928,7 @@
       "start": 418.44,
       "end": 421.04,
       "en": "All right, so lay it on me.",
-      "zh": "好吧，把它放在我身上。"
+      "zh": "好吧，就是 lay it on me（尽管说吧）。"
     },
     {
       "id": 133,
@@ -956,7 +956,7 @@
       "start": 424.04,
       "end": 430.5,
       "en": "But our next phrase, the boss is hearing about all this bad news and he says, for crying out loud.",
-      "zh": "但我们的下一句话，老板听到了所有这些坏消息，他说，因为大声哭泣。"
+      "zh": "看我们的下一个短语，老板听到所有这些坏消息，他说，真是的！"
     },
     {
       "id": 137,
@@ -998,7 +998,7 @@
       "start": 447.5,
       "end": 455.08,
       "en": "For crying out loud, when I tell you to have the report done by Wednesday, that means I expect it to be on my desk by the end of the day.",
-      "zh": "因为大声哭泣，当我告诉你在星期三之前完成报告时，这意味着我希望它在一天结束时就在我的办公桌上。"
+      "zh": "真是的，我让你周三之前把报告做完，意思是我希望当天结束前它就在我桌上。"
     },
     {
       "id": 143,
@@ -1012,7 +1012,7 @@
       "start": 459.72,
       "end": 462.77,
       "en": "We've got to figure out a new marketing strategy for crying out loud.",
-      "zh": "我们必须想出一个新的营销策略来大声哭泣。"
+      "zh": "真是的，我们必须想出一个新的营销策略。"
     },
     {
       "id": 145,
@@ -1026,7 +1026,7 @@
       "start": 467.68,
       "end": 473.76,
       "en": "For crying out loud, you just got your driving license and you already got in an accident.",
-      "zh": "因为大声哭泣，你刚拿到驾驶执照，你就已经出事了。"
+      "zh": "真是的，你刚拿到驾照就出事故了。"
     },
     {
       "id": 147,
@@ -1187,7 +1187,7 @@
       "start": 534.9,
       "end": 540.11,
       "en": "Let's just say that in nine months you will hear the pitter patter of little feet.",
-      "zh": "假设在九个月后你会听到小脚的沉痛声。"
+      "zh": "这么说吧，九个月后你就会听到小脚丫啪嗒啪嗒的声音。"
     },
     {
       "id": 170,
@@ -1215,7 +1215,7 @@
       "start": 545.72,
       "end": 546.47,
       "en": "You're giving like a metaphor.",
-      "zh": "你像一个比喻一样给予。"
+      "zh": "你是在打个比方。"
     },
     {
       "id": 174,
@@ -1292,7 +1292,7 @@
       "start": 578.64,
       "end": 592.4,
       "en": "So we have two nice sort of complimenting phrases for delivering bad news and why don't we hear them one more time in the dialogue.",
-      "zh": "所以我们有两种很好的赞美短语来传递坏消息，为什么我们在对话中没有再听到一次。"
+      "zh": "所以我们有两个很好的搭配短语来传达坏消息，我们再来听一遍对话吧。"
     },
     {
       "id": 185,
@@ -1341,7 +1341,7 @@
       "start": 611.08,
       "end": 614.16,
       "en": "No plunged 50% in the past month alone.",
-      "zh": "仅在过去的一个月中，就没有暴跌 50%。"
+      "zh": "不，仅上个月就暴跌了 50%。"
     },
     {
       "id": 192,
@@ -1376,7 +1376,7 @@
       "start": 630.24,
       "end": 631.44,
       "en": "You're coming out loud.",
-      "zh": "你大声说出来。"
+      "zh": "真是的！"
     },
     {
       "id": 197,
@@ -1397,7 +1397,7 @@
       "start": 635.89,
       "end": 640.59,
       "en": "Let's just say that at this pace, we will be filing for Chapter 11 in less than three months.",
-      "zh": "假设以这个速度，我们将在不到三个月的时间内申请第 11 章。"
+      "zh": "这么说吧，照这个速度，不出三个月我们就得申请破产保护（第 11 章）。"
     },
     {
       "id": 200,
@@ -1432,7 +1432,7 @@
       "start": 647.97,
       "end": 651.79,
       "en": "Our suppliers suffered QC problems and well, half of our production is faulty.",
-      "zh": "我们的供应商遇到了 QC 问题，而且我们的一半生产有问题。"
+      "zh": "我们的供应商出了质量控制问题，而且我们生产的产品有一半存在缺陷。"
     },
     {
       "id": 205,
@@ -1523,7 +1523,7 @@
       "start": 681.32,
       "end": 691.88,
       "en": "So this topic of filing for Chapter 11 is actually very recent, very common now because recently one of the biggest companies filed for Chapter 11 in the US.",
-      "zh": "所以第 11 章的这个主题实际上是最近的，现在很常见，因为最近在美国申请第 11 章的最大公司之一。"
+      "zh": "所以申请第 11 章破产保护这个话题其实很新，现在很常见，因为最近美国最大的公司之一就申请了第 11 章。"
     },
     {
       "id": 218,
@@ -1537,7 +1537,7 @@
       "start": 692.96,
       "end": 699.24,
       "en": "But I often get confused by the phrase to file for Chapter 11 versus to file for Chapter 13.",
-      "zh": "但我经常对第 11 章提交的短语感到困惑，而不是提交第 13 章。"
+      "zh": "但我经常分不清 to file for Chapter 11 和 to file for Chapter 13 这两个说法。"
     },
     {
       "id": 220,
@@ -1593,14 +1593,14 @@
       "start": 737.4,
       "end": 740.41,
       "en": "This phrase to file for Chapter 11 or Chapter 13 meaning bankruptcy.",
-      "zh": "该短语为第 11 章或第 13 章申请破产。"
+      "zh": "to file for Chapter 11 或 Chapter 13 这个短语的意思就是破产。"
     },
     {
       "id": 228,
       "start": 741.48,
       "end": 745.76,
       "en": "And people will say personally that they're filing for Chapter 11.",
-      "zh": "人们会亲自说他们正在申请第 11 章。"
+      "zh": "个人也会说自己要申请第 11 章。"
     },
     {
       "id": 229,
@@ -1649,7 +1649,7 @@
       "start": 762.04,
       "end": 765.64,
       "en": "But what about in your country's listeners?",
-      "zh": "但是在贵国的听众中呢？"
+      "zh": "那你们国家的听众呢？"
     },
     {
       "id": 236,
@@ -1698,7 +1698,7 @@
       "start": 777.64,
       "end": 780.09,
       "en": "Thanks for downloading you guys and until next time, goodbye.",
-      "zh": "感谢您下载你们，直到下一次，再见。"
+      "zh": "感谢大家的下载，下次再见。"
     },
     {
       "id": 243,

@@ -18,7 +18,7 @@
       "start": 3.91,
       "end": 9.55,
       "en": "My name is Catherine and today we're talking about a very, well, it's a pretty important part of your child's education.",
-      "zh": "我的名字是凯瑟琳，今天我们谈论的是一个非常非常重要的部分，这是您孩子教育的一个非常重要的部分。"
+      "zh": "我的名字是凯瑟琳，今天我们要谈的是——嗯，它是您孩子教育中相当重要的一个部分。"
     },
     {
       "id": 3,
@@ -81,7 +81,7 @@
       "start": 45.5,
       "end": 51.54,
       "en": "I'm very interested to know how my child is doing and also get some insight from you as to how he can improve.",
-      "zh": "当然。我很想知道孩子在校表现如何，也想请您指点他怎么提高。"
+      "zh": "我很想知道孩子在校表现如何，也想请您指点他怎么提高。"
     },
     {
       "id": 12,
@@ -207,7 +207,7 @@
       "start": 98.0,
       "end": 100.72,
       "en": "All right, we're back. So now let's take a look at some language takeaway.",
-      "zh": "好吧，我们回来了。 所以现在让我们来看看一些语言外卖。"
+      "zh": "好吧，我们回来了。 所以现在让我们来看看一些语言要点。"
     },
     {
       "id": 30,
@@ -221,7 +221,7 @@
       "start": 106.85,
       "end": 111.0,
       "en": "First up in language takeaway, we have the key phrase here, which is parent-teacher conference.",
-      "zh": "首先在语言外卖中，我们在这里有关键短语，即家长会。"
+      "zh": "首先在语言要点中，我们在这里有关键短语，即家长会。"
     },
     {
       "id": 32,
@@ -242,7 +242,7 @@
       "start": 120.0,
       "end": 126.0,
       "en": "And they talk about how well he is doing or she is doing or what she needs or he needs to improve.",
-      "zh": "他们谈论他做得有多好、她在做什么或她需要什么或他需要改进。"
+      "zh": "他们谈论他或她做得多好，或者她或他需要改进什么。"
     },
     {
       "id": 35,
@@ -263,7 +263,7 @@
       "start": 132.0,
       "end": 139.0,
       "en": "It depends on the school, but it's just a meeting between the parents or parent of the child and his or her teacher.",
-      "zh": "这取决于学校，但这只是孩子的父母或父母与他或她的老师之间的会面。"
+      "zh": "这取决于学校，但这只是孩子的父母或其中一方与他或她的老师之间的会面。"
     },
     {
       "id": 38,
@@ -361,14 +361,14 @@
       "start": 190.29,
       "end": 197.0,
       "en": "And while the teacher went on to say that Alan is a great student, hard worker, very well behaved.",
-      "zh": "虽然老师接着说艾伦是一个伟大的学生，勤奋的人，表现得很好。"
+      "zh": "老师接着说艾伦是个好学生，学习刻苦，也很守规矩。"
     },
     {
       "id": 52,
       "start": 197.61,
       "end": 202.0,
       "en": "So he is a hard worker. That means he is this is not an address.",
-      "zh": "所以他是一个勤奋的人。 这意味着他是这不是一个地址。"
+      "zh": "所以他是一个勤奋的人。 这意味着这不是一个称呼。"
     },
     {
       "id": 53,
@@ -410,7 +410,7 @@
       "start": 211.61,
       "end": 213.49,
       "en": "That means he doesn't start fights.",
-      "zh": "这意味着他没有开始战斗。"
+      "zh": "这意味着他不会挑起打架。"
     },
     {
       "id": 59,
@@ -473,7 +473,7 @@
       "start": 231.24,
       "end": 232.78,
       "en": "He always starts fights in class.",
-      "zh": "他总是在课堂上开始打架。"
+      "zh": "他总是在课堂上挑起打架。"
     },
     {
       "id": 68,
@@ -627,7 +627,7 @@
       "start": 329.03,
       "end": 333.05,
       "en": "And when a tuition is overdue, it means that it hasn't been paid yet.",
-      "zh": "当学费迟到时，这意味着它还没有被支付。"
+      "zh": "当学费逾期时，这意味着它还没有被支付。"
     },
     {
       "id": 90,
@@ -648,14 +648,14 @@
       "start": 335.39,
       "end": 337.21,
       "en": "Now, a lot of things can be overdue.",
-      "zh": "现在，很多事情可能会过时。"
+      "zh": "现在，很多事情都可能会逾期。"
     },
     {
       "id": 93,
       "start": 337.39,
       "end": 339.65,
       "en": "That means they've passed their due date.",
-      "zh": "这意味着他们已经过了预产期。"
+      "zh": "这意味着它们已经过了到期日。"
     },
     {
       "id": 94,
@@ -676,7 +676,7 @@
       "start": 344.07,
       "end": 344.69,
       "en": "So it's overdue.",
-      "zh": "所以过期了。"
+      "zh": "所以它逾期了。"
     },
     {
       "id": 97,
@@ -690,14 +690,14 @@
       "start": 347.69,
       "end": 349.0,
       "en": "Why don't we listen to our dialogue again?",
-      "zh": "为什么我们不再听我们的对话？"
+      "zh": "我们再来听一遍对话吧。"
     },
     {
       "id": 99,
       "start": 356.62,
       "end": 363.1,
       "en": "Thank you for coming tonight, Mr. Weber. As a teacher, it's great seeing the kids' parents assist our parent-teacher conference night.",
-      "zh": "谢谢你今晚的到来，韦伯先生。 作为一名教师，很高兴看到孩子们的父母帮助我们的家长会。"
+      "zh": "谢谢你今晚的到来，韦伯先生。 作为一名教师，很高兴看到孩子们的父母来参加我们的家长会。"
     },
     {
       "id": 100,
@@ -711,7 +711,7 @@
       "start": 364.56,
       "end": 370.74,
       "en": "I am very interested to know how my child is doing and also get some insight from you as to how he can improve.",
-      "zh": "我很想知道我的孩子在做什么，并从你那里获得一些关于他如何改进的见解。"
+      "zh": "我很想知道我的孩子表现如何，并从你那里获得一些关于他如何改进的见解。"
     },
     {
       "id": 102,
@@ -844,21 +844,21 @@
       "start": 417.92,
       "end": 420.92,
       "en": "So now we've prepared three key phrases for you on Fluency Builder.",
-      "zh": "所以现在我们已经为您准备了关于 Fluency Builder 的三个关键短语。"
+      "zh": "所以现在我们已经为您准备了关于流利表达的三个关键短语。"
     },
     {
       "id": 121,
       "start": 421.0,
       "end": 423.0,
       "en": "Fluency Builder",
-      "zh": "流利表达"
+      "zh": "流利表达。"
     },
     {
       "id": 122,
       "start": 423.0,
       "end": 428.26,
       "en": "Alright, the first phrase here on Fluency Builder is to struggle with.",
-      "zh": "好吧，关于 Fluency Builder 的第一个短语是挣扎。"
+      "zh": "好吧，流利表达里的第一个短语是 to struggle with，意思是“在……方面有困难”。"
     },
     {
       "id": 123,
@@ -879,7 +879,7 @@
       "start": 434.54,
       "end": 438.0,
       "en": "So, to struggle with something means that you are having a hard time. It's difficult for you.",
-      "zh": "所以，与某事作斗争意味着你很难过。 这对你来说很难。"
+      "zh": "所以，to struggle with something 意思是你做这件事很吃力。 这对你来说很难。"
     },
     {
       "id": 126,
@@ -900,14 +900,14 @@
       "start": 448.4,
       "end": 449.98,
       "en": "I struggled with...",
-      "zh": "我挣扎着..."
+      "zh": "我在……方面很吃力..."
     },
     {
       "id": 129,
       "start": 450.41,
       "end": 451.0,
       "en": "I struggled a little bit with history.",
-      "zh": "我在历史上有点挣扎。"
+      "zh": "我历史学得有点吃力。"
     },
     {
       "id": 130,
@@ -949,7 +949,7 @@
       "start": 467.37,
       "end": 475.69,
       "en": "So, after the teacher said that Alan is struggling with math, the parent actually said, I guess he gets that from me.",
-      "zh": "所以，在老师说艾伦在数学上苦苦挣扎之后，家长实际上说，我猜他是从我这里得到的。"
+      "zh": "所以，在老师说艾伦在数学上很吃力之后，家长实际上说，我猜他这点随我。"
     },
     {
       "id": 136,
@@ -963,7 +963,7 @@
       "start": 481.31,
       "end": 484.19,
       "en": "He gets that from me or she gets that from me.",
-      "zh": "他从我这里得到了它，或者她从我那里得到了那个。"
+      "zh": "他这点随我，或者她这点随我。"
     },
     {
       "id": 138,
@@ -977,21 +977,21 @@
       "start": 490.09,
       "end": 493.35,
       "en": "So, when the parent was little, he had a hard time with math.",
-      "zh": "所以，当父母还小的时候，他在数学上很难。"
+      "zh": "所以，当父母还小的时候，他数学学得很吃力。"
     },
     {
       "id": 140,
       "start": 493.55,
       "end": 494.75,
       "en": "He struggled with math.",
-      "zh": "他在数学上挣扎。"
+      "zh": "他数学很吃力。"
     },
     {
       "id": 141,
       "start": 495.0,
       "end": 498.03,
       "en": "And now his child struggles with math.",
-      "zh": "现在他的孩子在数学上挣扎。"
+      "zh": "现在他的孩子数学也很吃力。"
     },
     {
       "id": 142,
@@ -1012,7 +1012,7 @@
       "start": 503.23,
       "end": 504.31,
       "en": "He gets that from me.",
-      "zh": "他是从我这里得到的。"
+      "zh": "他这点随我。"
     },
     {
       "id": 145,
@@ -1026,7 +1026,7 @@
       "start": 504.85,
       "end": 511.35,
       "en": "So, sometimes you will hear that maybe somebody is stubborn and you say, well, you know, I get that from my dad.",
-      "zh": "所以，有时你会听到也许有人很固执，你说，嗯，你知道，我从我父亲那里得到的。"
+      "zh": "所以，有时你会听到也许有人很固执，你说，嗯，你知道，我这点随我爸爸。"
     },
     {
       "id": 147,
@@ -1047,7 +1047,7 @@
       "start": 513.53,
       "end": 514.77,
       "en": "I get that from my mother.",
-      "zh": "我从妈妈那里得到的。"
+      "zh": "我这点随我妈妈。"
     },
     {
       "id": 150,
@@ -1173,7 +1173,7 @@
       "start": 569.68,
       "end": 573.0,
       "en": "To tutor, which means to teach or to help.",
-      "zh": "给导师，意思是教导或帮助。"
+      "zh": "to tutor 作动词，意思是教导或帮助。"
     },
     {
       "id": 168,
@@ -1215,7 +1215,7 @@
       "start": 598.25,
       "end": 605.0,
       "en": "Thank you for coming tonight, Mr. Weber. As a teacher, it's great seeing the kids' parents assist our parent-teacher conference tonight.",
-      "zh": "谢谢你今晚的到来，韦伯先生。 作为一名教师，很高兴看到孩子们的父母今晚帮助我们的家长教师会议。"
+      "zh": "谢谢你今晚的到来，韦伯先生。 作为一名教师，很高兴看到各位家长来参加我们今晚的家长会。"
     },
     {
       "id": 174,
@@ -1229,7 +1229,7 @@
       "start": 606.21,
       "end": 612.33,
       "en": "I'm very interested to know how my child is doing and also get some insight from you as to how he can improve.",
-      "zh": "当然。我很想知道孩子在校表现如何，也想请您指点他怎么提高。"
+      "zh": "我很想知道孩子在校表现如何，也想请您指点他怎么提高。"
     },
     {
       "id": 176,

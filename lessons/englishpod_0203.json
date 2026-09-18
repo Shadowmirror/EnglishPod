@@ -25,7 +25,7 @@
       "start": 6.76,
       "end": 11.22,
       "en": "My name is Catherine and today we have an elementary level lesson for you all about computers.",
-      "zh": "我的名字是凯瑟琳，今天我们为大家准备了一个关于计算机的初级课程。"
+      "zh": "我叫凯瑟琳，今天我们为大家准备了一节关于计算机的初级课程。"
     },
     {
       "id": 4,
@@ -39,7 +39,7 @@
       "start": 13.06,
       "end": 23.28,
       "en": "So we are going to take a look at some of the basic parts of a computer and also about bad programs that could affect your computer and make it not work.",
-      "zh": "因此，我们将看看计算机的一些基本部分以及可能影响您的计算机并使其无法工作的错误程序。"
+      "zh": "因此，我们将看看计算机的一些基本组成部分，以及会影响你的电脑、让它出故障的坏程序。"
     },
     {
       "id": 6,
@@ -53,14 +53,14 @@
       "start": 24.42,
       "end": 30.64,
       "en": "So before we get going, we have a verb for you that we're going to look at in vocabulary preview.",
-      "zh": "所以在我们开始之前，我们有一个动词给你，我们将在词汇预览中查看。"
+      "zh": "所以在开始之前，我们为你准备了一个动词，会在词汇预览里讲。"
     },
     {
       "id": 8,
       "start": 33.12,
       "end": 33.6,
       "en": "Vocabulary preview.",
-      "zh": "词汇预习。"
+      "zh": "词汇预览。"
     },
     {
       "id": 9,
@@ -74,7 +74,7 @@
       "start": 35.12,
       "end": 40.6,
       "en": "So today on vocabulary preview, we have a verb as you said, and it's to crash.",
-      "zh": "所以今天在词汇预览中，我们有一个你所说的动词，它是崩溃的。"
+      "zh": "所以今天在词汇预览中，正如你所说，我们有一个动词，它就是 to crash（崩溃）。"
     },
     {
       "id": 11,
@@ -158,7 +158,7 @@
       "start": 65.7,
       "end": 69.7,
       "en": "So my computer crashed is a way to say my computer stopped working.",
-      "zh": "所以我的电脑崩溃是说我的电脑停止工作的一种方式。"
+      "zh": "所以 my computer crashed 就是一种表达我的电脑停止工作的说法。"
     },
     {
       "id": 23,
@@ -172,7 +172,7 @@
       "start": 71.52,
       "end": 74.02,
       "en": "So that's a word that we're going to listen in our dialogue today.",
-      "zh": "所以这是我们今天要在对话中倾听的一个词。"
+      "zh": "所以这个词我们今天会在对话里听到。"
     },
     {
       "id": 25,
@@ -221,7 +221,7 @@
       "start": 88.74,
       "end": 90.21,
       "en": "Can you help me on my computer?",
-      "zh": "你能在我的电脑上帮我吗？"
+      "zh": "你能帮我看看我的电脑吗？"
     },
     {
       "id": 32,
@@ -403,7 +403,7 @@
       "start": 138.73,
       "end": 141.51,
       "en": "Let's take a look at a few of them in Language Takeaway.",
-      "zh": "让我们来看看他们中的一些语言外卖。"
+      "zh": "让我们在语言要点里看看其中的几个。"
     },
     {
       "id": 58,
@@ -431,7 +431,7 @@
       "start": 150.24,
       "end": 153.43,
       "en": "You've probably heard it before, but let's go over it just in case.",
-      "zh": "你可能以前听过，但让我们来看看它以防万一。"
+      "zh": "你可能以前听过，但以防万一，我们还是过一遍。"
     },
     {
       "id": 62,
@@ -473,7 +473,7 @@
       "start": 162.04,
       "end": 164.56,
       "en": "So your lap is the top part of your legs.",
-      "zh": "所以你的腿是你腿的顶部。"
+      "zh": "所以 lap 就是你大腿上面那部分。"
     },
     {
       "id": 68,
@@ -494,14 +494,14 @@
       "start": 171.72,
       "end": 175.0,
       "en": "A lot of students have laptops and businessmen as well.",
-      "zh": "很多学生也有笔记本电脑和商人。"
+      "zh": "很多学生都有笔记本电脑，商务人士也一样。"
     },
     {
       "id": 71,
       "start": 175.0,
       "end": 177.01,
       "en": "So you mentioned the opposite would be a desktop.",
-      "zh": "所以你提到相反的将是一个桌面。"
+      "zh": "所以你提到，相反的会是台式机。"
     },
     {
       "id": 72,
@@ -515,7 +515,7 @@
       "start": 177.99,
       "end": 179.55,
       "en": "So it sits on top of a desk.",
-      "zh": "所以它坐在桌子上。"
+      "zh": "所以它是放在桌子上的。"
     },
     {
       "id": 74,
@@ -536,14 +536,14 @@
       "start": 187.05,
       "end": 190.15,
       "en": "So a monitor is like a TV for your computer.",
-      "zh": "所以显示器就像你的电脑的电视。"
+      "zh": "所以显示器就像是电脑的电视。"
     },
     {
       "id": 77,
       "start": 190.69,
       "end": 192.65,
       "en": "It's where you can see what you're doing.",
-      "zh": "在这里你可以看到你在做什么。"
+      "zh": "你可以在上面看到自己正在做什么。"
     },
     {
       "id": 78,
@@ -564,7 +564,7 @@
       "start": 197.64,
       "end": 207.64,
       "en": "You can also use the word screen, but monitor is the technical word for the, usually a box, like a TV that goes with the desktop computer.",
-      "zh": "您也可以使用单词屏幕，但显示器是技术字，通常是一个盒子，就像与台式电脑一起使用的电视。"
+      "zh": "你也可以用 screen 这个词，但 monitor 才是专业术语，通常指一个方盒子，像跟台式电脑配套的电视。"
     },
     {
       "id": 81,
@@ -746,7 +746,7 @@
       "start": 270.58,
       "end": 274.14,
       "en": "So those are some of the main technical terms that we have on Language Takeaway.",
-      "zh": "所以这些是我们在语言外卖方面的一些主要技术术语。"
+      "zh": "所以这些是我们在语言要点方面的一些主要技术术语。"
     },
     {
       "id": 107,
@@ -760,7 +760,7 @@
       "start": 277.92,
       "end": 282.0,
       "en": "Why don't we listen to our dialogue quickly again and we'll be back with Fluency Builder.",
-      "zh": "我们为什么不快速听我们的对话，我们会带着 Flueny Builder 回来。"
+      "zh": "我们为什么不快速再听一遍对话，然后回来进入流利表达。"
     },
     {
       "id": 109,
@@ -963,7 +963,7 @@
       "start": 331.98,
       "end": 332.38,
       "en": "Trojans.",
-      "zh": "特洛伊人。"
+      "zh": "特洛伊木马。"
     },
     {
       "id": 138,
@@ -1019,7 +1019,7 @@
       "start": 339.72,
       "end": 345.16,
       "en": "So now, let's start off with three key phrases on Fluency Builder.",
-      "zh": "所以现在，让我们从关于 Fluency Builder 的三个关键短语开始。"
+      "zh": "所以现在，让我们从关于流利表达的三个关键短语开始。"
     },
     {
       "id": 146,
@@ -1040,7 +1040,7 @@
       "start": 348.88,
       "end": 349.95,
       "en": "We say, oh man.",
-      "zh": "我们说，哦，伙计。"
+      "zh": "我们说，天哪。"
     },
     {
       "id": 149,
@@ -1131,7 +1131,7 @@
       "start": 373.32,
       "end": 375.5,
       "en": "So you can say, oh man, my computer crashed.",
-      "zh": "所以你可以说，哦，伙计，我的电脑坏了。"
+      "zh": "所以你可以说：天哪，我的电脑崩溃了。"
     },
     {
       "id": 162,
@@ -1145,28 +1145,28 @@
       "start": 376.64,
       "end": 378.38,
       "en": "Oh man, you're always late.",
-      "zh": "哦，伙计，你总是迟到。"
+      "zh": "天哪，你总是迟到。"
     },
     {
       "id": 164,
       "start": 378.94,
       "end": 380.84,
       "en": "Now you can also say it for maybe surprise.",
-      "zh": "现在你也可以说它可能是惊喜。"
+      "zh": "你也可以用它来表示惊讶。"
     },
     {
       "id": 165,
       "start": 381.52,
       "end": 382.58,
       "en": "Like oh man.",
-      "zh": "像哦，伙计。"
+      "zh": "比如：天哪。"
     },
     {
       "id": 166,
       "start": 383.24,
       "end": 387.22,
       "en": "So when you're excited about something, oh man, this computer game is awesome.",
-      "zh": "所以当你对某事感到兴奋时，哦，伙计，这款电脑游戏很棒。"
+      "zh": "所以当你对某事感到兴奋时：天哪，这款电脑游戏太棒了。"
     },
     {
       "id": 167,
@@ -1187,7 +1187,7 @@
       "start": 389.8,
       "end": 394.54,
       "en": "So it's just a way of expressing maybe disappointment or in some cases, excitement.",
-      "zh": "所以这只是一种表达失望或在某些情况下，兴奋的方式。"
+      "zh": "所以它只是一种表达失望、有时是兴奋的方式。"
     },
     {
       "id": 170,
@@ -1257,7 +1257,7 @@
       "start": 407.43,
       "end": 410.96,
       "en": "So this might be funny sounding because we say calm.",
-      "zh": "所以这听起来可能很有趣，因为我们说平静。"
+      "zh": "所以这听起来可能有点怪，因为我们说的是 calm（平静）。"
     },
     {
       "id": 180,
@@ -1432,7 +1432,7 @@
       "start": 443.64,
       "end": 446.32,
       "en": "So this is also an interjection and it's very, very, very common.",
-      "zh": "所以这也是一个感叹词，它非常、非常、非常普遍。"
+      "zh": "所以这也是一个感叹词，它非常、非常、非常常用。"
     },
     {
       "id": 205,
@@ -1509,7 +1509,7 @@
       "start": 474.88,
       "end": 476.79,
       "en": "So I mean, he's, he's changing what he just said.",
-      "zh": "所以我的意思是，他是，他正在改变他刚才所说的话。"
+      "zh": "所以我的意思是，他在改口他刚才说的话。"
     },
     {
       "id": 216,
@@ -1621,14 +1621,14 @@
       "start": 510.92,
       "end": 512.83,
       "en": "So try and use that one in your speech this week.",
-      "zh": "所以试着在你本周的演讲中使用那个。"
+      "zh": "所以这周试着把它用到你的口语里。"
     },
     {
       "id": 232,
       "start": 513.56,
       "end": 516.47,
       "en": "It's really, really great common English phrase.",
-      "zh": "这是一个非常非常好的普通英语短语。"
+      "zh": "这是一个非常非常棒、非常常用的英语短语。"
     },
     {
       "id": 233,
@@ -1684,7 +1684,7 @@
       "start": 534.4,
       "end": 535.85,
       "en": "Can you help me on my computer?",
-      "zh": "你能在我的电脑上帮我吗？"
+      "zh": "你能帮我看看我的电脑吗？"
     },
     {
       "id": 241,
@@ -1880,7 +1880,7 @@
       "start": 589.54,
       "end": 594.72,
       "en": "One of them you might be familiar with from Greek stories and fables.",
-      "zh": "您可能熟悉希腊故事和寓言的其中之一。"
+      "zh": "其中有一个词，你可能在希腊故事和寓言里听过。"
     },
     {
       "id": 269,
@@ -1915,7 +1915,7 @@
       "start": 602.4,
       "end": 610.34,
       "en": "Yeah, it's a type of virus that comes in and it's supposed to be a good program or not harm your computer, but it's really just a lie.",
-      "zh": "是的，它是一种病毒，它应该是一个好的程序或不会伤害您的计算机，但它实际上只是一个谎言。"
+      "zh": "是的，它是一种病毒，进来时伪装成好程序，或者说看起来不会伤害你的电脑，但其实只是个幌子。"
     },
     {
       "id": 274,
@@ -1957,7 +1957,7 @@
       "start": 619.4,
       "end": 624.58,
       "en": "Probably because of a Troy something, because it's very difficult like a Trojan.",
-      "zh": "可能是因为特洛伊的东西，因为它像特洛伊木马一样非常困难。"
+      "zh": "可能是因为特洛伊什么的，因为它就像特洛伊木马一样难对付。"
     },
     {
       "id": 280,
@@ -1992,14 +1992,14 @@
       "start": 641.8,
       "end": 647.46,
       "en": "They would build a horse and they would give it as a gift, but inside the horse would be warriors, fighters.",
-      "zh": "他们会建造一匹马，他们会把它作为礼物送给，但在马的内部将是战士、战士。"
+      "zh": "他们会造一匹马，把它当作礼物送出去，但马的肚子里藏的是战士、士兵。"
     },
     {
       "id": 285,
       "start": 648.44,
       "end": 656.44,
       "en": "So when the city opened its doors to this wonderful gift, they would receive a horrible gift and attack.",
-      "zh": "因此，当这座城市向这份美妙的礼物敞开大门时，他们会收到一份可怕的礼物和攻击。"
+      "zh": "所以当这座城市为这份美妙的礼物打开城门时，迎接他们的却是一份可怕的“礼物”和一场袭击。"
     },
     {
       "id": 286,
@@ -2062,7 +2062,7 @@
       "start": 683.84,
       "end": 685.03,
       "en": "That's one point in favor for Mac users.",
-      "zh": "这对 Mac 用户有利之一。"
+      "zh": "这是 Mac 用户的一个优势。"
     },
     {
       "id": 295,

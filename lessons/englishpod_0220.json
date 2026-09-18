@@ -88,7 +88,7 @@
       "start": 40.49,
       "end": 42.57,
       "en": "We have been shopping for furniture for five hours.",
-      "zh": "我们已经买了五个小时的家具。"
+      "zh": "我们已经逛了五个小时的家具了。"
     },
     {
       "id": 13,
@@ -144,7 +144,7 @@
       "start": 63.39,
       "end": 65.05,
       "en": "I really want one so I can watch TV.",
-      "zh": "我真的很想要一台，这样我就可以看电视了。"
+      "zh": "我真的很想要一把，这样我就可以看电视了。"
     },
     {
       "id": 21,
@@ -186,28 +186,28 @@
       "start": 83.6,
       "end": 88.8,
       "en": "So now let's go to Language Takeaway Part 1.",
-      "zh": "所以现在让我们进入语言外卖第 1 部分。"
+      "zh": "所以现在让我们进入语言要点第 1 部分。"
     },
     {
       "id": 27,
       "start": 88.8,
       "end": 89.13,
       "en": "Language Takeaway",
-      "zh": "语言要点"
+      "zh": "语言要点。"
     },
     {
       "id": 28,
       "start": 90.99,
       "end": 93.79,
       "en": "Okay, so everyone's heard of a lamp, a light.",
-      "zh": "好吧，所以每个人都听说过一盏灯，一盏灯。"
+      "zh": "好吧，所以大家都听说过 lamp 这个词，就是灯。"
     },
     {
       "id": 29,
       "start": 94.49,
       "end": 98.97,
       "en": "This is something that you use to read in the dark, for example, to see in the dark.",
-      "zh": "这是你用来在黑暗中阅读的东西，例如，在黑暗中看到。"
+      "zh": "这是你用来在黑暗中看书的东西，比如在黑暗中照明。"
     },
     {
       "id": 30,
@@ -270,7 +270,7 @@
       "start": 126.15,
       "end": 129.27,
       "en": "You want maybe more light in the corners, you get a little floor lamp.",
-      "zh": "你可能想要更多的角落里的光，你会得到一个小落地灯。"
+      "zh": "你可能想让角落里更亮一些，那就买一盏小落地灯。"
     },
     {
       "id": 39,
@@ -284,14 +284,14 @@
       "start": 132.84,
       "end": 136.23,
       "en": "Now that we go to the bedroom, we are getting an armoire.",
-      "zh": "现在我们去了卧室，我们得到了一个军械库。"
+      "zh": "现在我们来到卧室，要添置一个 armoire（大衣柜）。"
     },
     {
       "id": 41,
       "start": 136.75,
       "end": 137.93,
       "en": "Okay, an armoire.",
-      "zh": "好吧，军装。"
+      "zh": "好吧，armoire，大衣柜。"
     },
     {
       "id": 42,
@@ -375,7 +375,7 @@
       "start": 165.8,
       "end": 167.96,
       "en": "Yes, so an armoire is a tall place to keep clothing.",
-      "zh": "是的，所以 Armoire 是一个高大的地方，可以存放衣服。"
+      "zh": "是的，所以 armoire 是一个高高的、用来存放衣服的地方。"
     },
     {
       "id": 54,
@@ -417,7 +417,7 @@
       "start": 178.39,
       "end": 183.03,
       "en": "Yeah, it makes a lot of sense, but there is a big difference here between an armoire and a dresser.",
-      "zh": "是的，这很有意义，但这里有很大的衣橱和梳妆台之间的区别。"
+      "zh": "是的，这很有道理，但 armoire 和 dresser 之间有很大区别。"
     },
     {
       "id": 60,
@@ -452,7 +452,7 @@
       "start": 198.29,
       "end": 203.89,
       "en": "A dresser is you have different drawers where you can put your socks, your boxer shorts, and any other things that you keep.",
-      "zh": "梳妆台是您有不同的抽屉，您可以将袜子、平角短裤和任何其他东西放在您的地方。"
+      "zh": "dresser 是有好几个抽屉，你可以放袜子、平角短裤，以及任何其他要收纳的东西。"
     },
     {
       "id": 65,
@@ -473,7 +473,7 @@
       "start": 206.29,
       "end": 210.53,
       "en": "So two very handy words, and that's what makes the difference between a closet.",
-      "zh": "所以两个非常方便的词，这就是壁橱之间的区别。"
+      "zh": "所以这两个很实用的词，也说明了它们和壁橱的区别。"
     },
     {
       "id": 68,
@@ -543,7 +543,7 @@
       "start": 230.32,
       "end": 233.07,
       "en": "So I always wondered, why is it called a nightstand and not a daystand?",
-      "zh": "所以我一直想知道，为什么它被称为床头柜而不是一个床头柜？"
+      "zh": "所以我一直想知道，为什么它叫 nightstand（床头柜），而不是 daystand？"
     },
     {
       "id": 78,
@@ -606,7 +606,7 @@
       "start": 258.56,
       "end": 261.91,
       "en": "And our last word for language takeaway part one, we have a coffee table.",
-      "zh": "我们的语言外卖第一部分的最后一个词，我们有一张咖啡桌。"
+      "zh": "我们的语言要点第一部分的最后一个词，我们有一张咖啡桌。"
     },
     {
       "id": 87,
@@ -697,7 +697,7 @@
       "start": 295.82,
       "end": 297.88,
       "en": "It's not for you to actually read all the time.",
-      "zh": "你不是一直真正阅读的。"
+      "zh": "其实并不是让你一直读的。"
     },
     {
       "id": 100,
@@ -725,7 +725,7 @@
       "start": 312.44,
       "end": 315.1,
       "en": "I think in Chinese, it's called a tea table, not a coffee table.",
-      "zh": "我认为在中文中，它被称为茶几，而不是茶几。"
+      "zh": "我觉得在中文里它叫茶几，而不是咖啡桌。"
     },
     {
       "id": 104,
@@ -746,7 +746,7 @@
       "start": 317.48,
       "end": 320.72,
       "en": "I know in Spanish, it's just called a center table.",
-      "zh": "我知道在西班牙语中，它只是称为中心表。"
+      "zh": "我知道在西班牙语里，它就叫 center table（中间的桌子）。"
     },
     {
       "id": 107,
@@ -760,7 +760,7 @@
       "start": 321.72,
       "end": 330.6,
       "en": "So this is basically the low table you have in your living room next to your sofa, in front of your sofa actually, so you can have tea or coffee and read books.",
-      "zh": "所以这基本上是你客厅旁边沙发旁边的低桌，实际上在沙发前，这样你就可以喝茶或喝咖啡，看书。"
+      "zh": "所以这基本上就是你客厅里沙发旁边、其实是沙发前面的那张矮桌，你可以喝茶或咖啡，还能看书。"
     },
     {
       "id": 109,
@@ -774,7 +774,7 @@
       "start": 332.24,
       "end": 334.16,
       "en": "Not in my house when I was a kid.",
-      "zh": "我小时候不在我家。"
+      "zh": "我小时候，在我家可不行。"
     },
     {
       "id": 111,
@@ -788,7 +788,7 @@
       "start": 336.04,
       "end": 340.78,
       "en": "Why don't we go back, listen to the dialogue again, and we'll be returning a little bit with more vocab.",
-      "zh": "我们为什么不回去，再听一次对话，我们会带着更多的词汇回来一点。"
+      "zh": "我们不如回去再听一次对话，等会儿回来再学更多词汇。"
     },
     {
       "id": 113,
@@ -802,21 +802,21 @@
       "start": 347.89,
       "end": 348.21,
       "en": "Fine.",
-      "zh": "好吧。"
+      "zh": "行吧。"
     },
     {
       "id": 115,
       "start": 348.45,
       "end": 348.89,
       "en": "Just get it.",
-      "zh": "只要得到它。"
+      "zh": "就买它吧。"
     },
     {
       "id": 116,
       "start": 349.25,
       "end": 351.29,
       "en": "We have been shopping for furniture for five hours.",
-      "zh": "我们已经买了五个小时的家具。"
+      "zh": "我们已经逛了五个小时的家具了。"
     },
     {
       "id": 117,
@@ -858,7 +858,7 @@
       "start": 363.8,
       "end": 368.23,
       "en": "Pick me up in about an hour because I think I'll also get a beanbag and a dining set.",
-      "zh": "大约一个小时后接我，因为我想我还会得到一个豆袋和一个餐具。"
+      "zh": "大概一小时后接我吧，我想再买一个懒人沙发和一套餐桌椅。"
     },
     {
       "id": 123,
@@ -872,7 +872,7 @@
       "start": 372.09,
       "end": 373.75,
       "en": "I really want one so I can watch TV.",
-      "zh": "我真的很想要一台，这样我就可以看电视了。"
+      "zh": "我真的很想要一把，这样我就可以看电视了。"
     },
     {
       "id": 125,
@@ -914,14 +914,14 @@
       "start": 385.64,
       "end": 389.64,
       "en": "So now, let's take a look at Language Takeaway Part 2.",
-      "zh": "所以现在，让我们来看看语言外卖第 2 部分。"
+      "zh": "所以现在，让我们来看看语言要点第 2 部分。"
     },
     {
       "id": 131,
       "start": 389.64,
       "end": 389.98,
       "en": "Language Takeaway",
-      "zh": "语言要点"
+      "zh": "语言要点。"
     },
     {
       "id": 132,
@@ -977,7 +977,7 @@
       "start": 405.74,
       "end": 405.98,
       "en": "It does.",
-      "zh": "确实如此。"
+      "zh": "听起来确实很浪漫。"
     },
     {
       "id": 140,
@@ -1138,14 +1138,14 @@
       "start": 447.78,
       "end": 453.0,
       "en": "We have a bean bag, and this is actually a piece of furniture that's still very popular in many places.",
-      "zh": "我们有一个豆袋，这实际上是一件在许多地方仍然很受欢迎的家具。"
+      "zh": "我们要说的是懒人沙发，这其实是一件在许多地方仍然很受欢迎的家具。"
     },
     {
       "id": 163,
       "start": 453.42,
       "end": 460.48,
       "en": "And it's called a bean bag because it's a huge bag that is filled with beans.",
-      "zh": "它被称为豆袋，因为它是一个装满豆子的大袋子。"
+      "zh": "它叫 bean bag（懒人沙发），因为它是一个装满豆子的大袋子。"
     },
     {
       "id": 164,
@@ -1180,7 +1180,7 @@
       "start": 469.68,
       "end": 471.6,
       "en": "It molds to what shape you are.",
-      "zh": "它塑造成你的形状。"
+      "zh": "它会贴合你的身形。"
     },
     {
       "id": 169,
@@ -1222,7 +1222,7 @@
       "start": 488.4,
       "end": 495.72,
       "en": "Even I know some people may fall asleep on a bean bag as guests.",
-      "zh": "甚至我知道有些人可能会作为客人在豆袋上睡着。"
+      "zh": "我甚至知道有些人做客时会在懒人沙发上睡着。"
     },
     {
       "id": 175,
@@ -1250,14 +1250,14 @@
       "start": 502.84,
       "end": 511.08,
       "en": "But moving on after a bean bag, which is a good informal piece of furniture, we have a dining set, which is a lot nicer.",
-      "zh": "但是在一个很好的非正式家具的豆袋之后继续前进，我们有一套餐具，这要好得多。"
+      "zh": "说完懒人沙发这件不错的休闲家具，接下来是餐桌椅套装，这个要讲究得多。"
     },
     {
       "id": 179,
       "start": 511.34,
       "end": 512.22,
       "en": "Okay, dining set.",
-      "zh": "好吧，餐饮套装。"
+      "zh": "好吧，dining set，餐桌椅套装。"
     },
     {
       "id": 180,
@@ -1271,7 +1271,7 @@
       "start": 513.56,
       "end": 515.52,
       "en": "So a dining set has many pieces.",
-      "zh": "所以餐饮套装有很多作品。"
+      "zh": "所以一套餐桌椅包含好几件。"
     },
     {
       "id": 182,
@@ -1320,14 +1320,14 @@
       "start": 533.52,
       "end": 534.36,
       "en": "That's called a buffet.",
-      "zh": "这叫自助餐。"
+      "zh": "那叫 buffet（餐边柜）。"
     },
     {
       "id": 189,
       "start": 535.48,
       "end": 538.92,
       "en": "And that's basically, it's like a dresser for your dining room.",
-      "zh": "这基本上就像你的餐厅的梳妆台。"
+      "zh": "它基本上就像是餐厅用的抽屉柜。"
     },
     {
       "id": 190,
@@ -1341,14 +1341,14 @@
       "start": 539.92,
       "end": 545.27,
       "en": "It's got like drawers and stuff for your plates, your cups, like you said, and it's next to the dining room table.",
-      "zh": "就像你说的那样，它有抽屉和你的盘子、杯子的东西，它就在餐桌旁边。"
+      "zh": "就像你说的，它有抽屉之类的，可以放盘子、杯子，就放在餐桌旁边。"
     },
     {
       "id": 192,
       "start": 546.2,
       "end": 550.6,
       "en": "But the dining room set or the dining set is for the dining room.",
-      "zh": "但是餐厅套装或餐厅是为餐厅准备的。"
+      "zh": "不过 dining room set 或 dining set 是给餐厅用的。"
     },
     {
       "id": 193,
@@ -1418,7 +1418,7 @@
       "start": 583.58,
       "end": 593.26,
       "en": "And it also, from the bottom part where your feet are, a little thing pops up so you can rest your feet on top of this little extension of the chair.",
-      "zh": "而且，从你脚所在的底部，一个小东西突然出现，这样你就可以把脚放在椅子的这个小延伸部分的顶部。"
+      "zh": "而且，在你放脚的底部，会弹出一小块，这样你就可以把脚搭在椅子伸出的这个小托板上。"
     },
     {
       "id": 203,
@@ -1453,14 +1453,14 @@
       "start": 600.34,
       "end": 604.44,
       "en": "If you ever watch the series Friends, they have the recliners.",
-      "zh": "如果你看过系列的朋友，他们有躺椅。"
+      "zh": "如果你看过《老友记》，里面就有躺椅。"
     },
     {
       "id": 208,
       "start": 604.68,
       "end": 606.5,
       "en": "It's very comfortable to watch sports, for example.",
-      "zh": "例如，观看运动非常舒适。"
+      "zh": "比如看体育比赛的时候，坐上去非常舒服。"
     },
     {
       "id": 209,
@@ -1495,7 +1495,7 @@
       "start": 617.48,
       "end": 622.94,
       "en": "Actually I think in the United States, they're very commonly known by the brand, Lazy Boy.",
-      "zh": "其实我认为在美国，他们很常见的品牌，懒惰的男孩。"
+      "zh": "其实我觉得在美国，人们常常用品牌名 Lazy Boy 来称呼它们。"
     },
     {
       "id": 214,
@@ -1523,14 +1523,14 @@
       "start": 627.44,
       "end": 629.28,
       "en": "It's Lazy Boy and they're very, very famous.",
-      "zh": "这是一个懒惰的男孩，他们非常非常有名。"
+      "zh": "品牌就叫 Lazy Boy，非常非常有名。"
     },
     {
       "id": 218,
       "start": 629.44,
       "end": 632.08,
       "en": "You're right, Marco, for their reclining chairs.",
-      "zh": "马可，你是对的，因为他们的躺椅。"
+      "zh": "马可，你说得没错，它们的躺椅很有名。"
     },
     {
       "id": 219,
@@ -1544,7 +1544,7 @@
       "start": 633.08,
       "end": 637.88,
       "en": "So Lazy Boys, you may hear it, but the real word for it is called a recliner.",
-      "zh": "所以懒惰的男孩，你可能会听到它，但它的真正词被称为躺椅。"
+      "zh": "所以 Lazy Boy，你可能会听到这个叫法，但它真正的名称是 recliner（躺椅）。"
     },
     {
       "id": 221,
@@ -1579,21 +1579,21 @@
       "start": 654.27,
       "end": 654.71,
       "en": "Fine.",
-      "zh": "好吧。"
+      "zh": "行吧。"
     },
     {
       "id": 226,
       "start": 654.95,
       "end": 655.35,
       "en": "Just get it.",
-      "zh": "只要得到它。"
+      "zh": "就买它吧。"
     },
     {
       "id": 227,
       "start": 655.63,
       "end": 657.75,
       "en": "We have been shopping for furniture for five hours.",
-      "zh": "我们已经买了五个小时的家具。"
+      "zh": "我们已经逛了五个小时的家具了。"
     },
     {
       "id": 228,
@@ -1635,7 +1635,7 @@
       "start": 670.16,
       "end": 674.69,
       "en": "Pick me up in about an hour because I think I'll also get a beanbag and a dining set.",
-      "zh": "大约一个小时后接我，因为我想我还会得到一个豆袋和一个餐具。"
+      "zh": "大概一小时后接我吧，我想再买一个懒人沙发和一套餐桌椅。"
     },
     {
       "id": 234,
@@ -1649,7 +1649,7 @@
       "start": 678.57,
       "end": 680.19,
       "en": "I really want one so I can watch TV.",
-      "zh": "我真的很想要一台，这样我就可以看电视了。"
+      "zh": "我真的很想要一把，这样我就可以看电视了。"
     },
     {
       "id": 236,
@@ -1698,7 +1698,7 @@
       "start": 699.08,
       "end": 699.51,
       "en": "What do you do?",
-      "zh": "你是做什么工作的？"
+      "zh": "你们会怎么做呢？"
     },
     {
       "id": 243,
@@ -1712,14 +1712,14 @@
       "start": 704.08,
       "end": 709.94,
       "en": "The guy said, I'm going to go home and drop off this nightstand, coffee table, and loveseat.",
-      "zh": "那家伙说，我要回家把这张床头柜、咖啡桌和双人沙发放下。"
+      "zh": "那家伙说，我要回家把这张床头柜、咖啡桌和双人沙发先送回去。"
     },
     {
       "id": 245,
       "start": 709.94,
       "end": 710.55,
       "en": "So to drop off.",
-      "zh": "所以下车。"
+      "zh": "所以是 drop off（顺路放下）。"
     },
     {
       "id": 246,
@@ -1733,7 +1733,7 @@
       "start": 712.56,
       "end": 713.13,
       "en": "To drop off.",
-      "zh": "下车。"
+      "zh": "drop off，顺路放下。"
     },
     {
       "id": 248,
@@ -1747,14 +1747,14 @@
       "start": 715.39,
       "end": 717.53,
       "en": "So the preposition there is off, not on.",
-      "zh": "所以那里的介词是关闭的，而不是打开的。"
+      "zh": "所以这里的介词是 off，不是 on。"
     },
     {
       "id": 250,
       "start": 718.68,
       "end": 726.12,
       "en": "So I could say, for example, Marco, I'm just going to drop off my bag at home and then I'll meet you guys for dinner.",
-      "zh": "所以我可以说，例如，Marco，我只是要把我的包放在家里，然后我会和你们见面吃饭。"
+      "zh": "所以我可以说，比如，Marco，我得先把包放回家，然后跟你们碰头吃饭。"
     },
     {
       "id": 251,
@@ -1768,7 +1768,7 @@
       "start": 729.96,
       "end": 736.09,
       "en": "So to drop off is basically to go somewhere so you can put something in that place.",
-      "zh": "所以下车基本上就是去某个地方，这样你就可以把东西放在那个地方。"
+      "zh": "所以 drop off 基本上就是去某个地方，把东西放在那里。"
     },
     {
       "id": 253,
@@ -1831,14 +1831,14 @@
       "start": 762.56,
       "end": 764.97,
       "en": "Now we use the opposite verbal phrase and that is to pick up.",
-      "zh": "现在我们使用相反的口头短语，那就是接听。"
+      "zh": "现在我们用意思相反的动词短语，那就是 pick up（接人、取物）。"
     },
     {
       "id": 262,
       "start": 765.32,
       "end": 768.12,
       "en": "Okay, drop off, pick up.",
-      "zh": "好的，下车，接机。"
+      "zh": "好的，drop off（放下），pick up（接取）。"
     },
     {
       "id": 263,
@@ -1957,7 +1957,7 @@
       "start": 817.52,
       "end": 819.77,
       "en": "And it's because you put it together yourself, right?",
-      "zh": "这是因为你自己把它放在一起，对吧？"
+      "zh": "这是因为它是你自己组装的，对吧？"
     },
     {
       "id": 280,
@@ -1978,21 +1978,21 @@
       "start": 824.89,
       "end": 827.29,
       "en": "So you buy it in a box and then you make it.",
-      "zh": "所以你在一个盒子里买它，然后你就做了。"
+      "zh": "所以你买回来是一盒零件，然后自己拼装。"
     },
     {
       "id": 283,
       "start": 827.81,
       "end": 835.27,
       "en": "It's a little bit frustrating sometimes, but for people like me, and I'm sure people like you, part of the fun is putting stuff together.",
-      "zh": "有时这有点令人沮丧，但对于像我这样的人来说，我相信像你这样的人，部分乐趣就是把东西放在一起。"
+      "zh": "有时这有点让人抓狂，但对我这样的人来说，我相信对你这样的人也一样，乐趣的一部分就是自己动手组装。"
     },
     {
       "id": 284,
       "start": 835.57,
       "end": 840.39,
       "en": "Yeah, because you kind of feel like you kind of built it, but you really didn't.",
-      "zh": "是的，因为你觉得你有点建造它，但你真的没有。"
+      "zh": "是的，因为你会觉得自己好像亲手造了它，但其实并没有。"
     },
     {
       "id": 285,
@@ -2027,7 +2027,7 @@
       "start": 855.92,
       "end": 856.22,
       "en": "They do.",
-      "zh": "他们会。"
+      "zh": "确实有。"
     },
     {
       "id": 290,
@@ -2041,28 +2041,28 @@
       "start": 858.82,
       "end": 860.18,
       "en": "I never get to eat Swedish meatballs.",
-      "zh": "我从不吃瑞典肉丸。"
+      "zh": "我总也没机会吃瑞典肉丸。"
     },
     {
       "id": 292,
       "start": 860.82,
       "end": 864.32,
       "en": "And here in China, they do have some of the better meatballs around.",
-      "zh": "在中国，他们确实有一些更好的肉丸。"
+      "zh": "而在中国，这里的肉丸算是相当不错的。"
     },
     {
       "id": 293,
       "start": 865.18,
       "end": 868.02,
       "en": "So I would recommend if you haven't tried them, try them.",
-      "zh": "所以如果你还没有尝试过，我会推荐它们，试试它们。"
+      "zh": "所以如果你还没尝过，我推荐你去试试。"
     },
     {
       "id": 294,
       "start": 868.28,
       "end": 869.34,
       "en": "They're pretty good.",
-      "zh": "他们相当不错。"
+      "zh": "味道相当不错。"
     },
     {
       "id": 295,

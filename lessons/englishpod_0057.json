@@ -39,7 +39,7 @@
       "start": 8.14,
       "end": 12.36,
       "en": "We have a lesson that's talking about something that goes wrong in the office.",
-      "zh": "我们有一个教训是在谈论办公室出了问题。"
+      "zh": "我们有一节课，讲的是办公室里出问题的事。"
     },
     {
       "id": 6,
@@ -74,7 +74,7 @@
       "start": 25.69,
       "end": 26.65,
       "en": "Vocabulary preview.",
-      "zh": "词汇预习。"
+      "zh": "词汇预览。"
     },
     {
       "id": 11,
@@ -277,7 +277,7 @@
       "start": 76.76,
       "end": 80.08,
       "en": "And our last word in vocabulary preview, malfunction.",
-      "zh": "以及我们在词汇预览中的最后一个字，故障。"
+      "zh": "以及我们在词汇预览中的最后一个词，故障。"
     },
     {
       "id": 40,
@@ -648,7 +648,7 @@
       "start": 235.96,
       "end": 242.16,
       "en": "Okay, let's take a look at some of the great language that we saw in Language Takeaway.",
-      "zh": "好吧，让我们来看看我们在外卖中看到的一些伟大的语言。"
+      "zh": "好吧，让我们来看看我们在语言要点中看到的一些伟大的语言。"
     },
     {
       "id": 93,
@@ -662,7 +662,7 @@
       "start": 244.03,
       "end": 249.25,
       "en": "All right, three words for you here in Language Takeaway, and we heard all of these in the dialogue.",
-      "zh": "好吧，在语言外卖中给你三个词，我们在对话中听到了所有这些。"
+      "zh": "好吧，在语言要点中要讲三个词，我们在对话中听到了所有这些。"
     },
     {
       "id": 95,
@@ -732,7 +732,7 @@
       "start": 268.28,
       "end": 271.77,
       "en": "So it's an acronym, and you can say it like ASAP or?",
-      "zh": "所以它是一个首字母缩写词，你可以尽快说出来还是？"
+      "zh": "所以它是一个首字母缩写，你可以读成 ASAP，还是……？"
     },
     {
       "id": 105,
@@ -753,14 +753,14 @@
       "start": 274.36,
       "end": 278.05,
       "en": "Yeah, usually people say it like that because it's too long, I guess, to say as soon as possible.",
-      "zh": "是的，通常人们会这样说，因为它太长了，我猜，尽快说出来。"
+      "zh": "是的，通常人们会这样读，我猜是因为 as soon as possible 说起来太长了。"
     },
     {
       "id": 108,
       "start": 278.8,
       "end": 280.64,
       "en": "So, hey, I need this document ASAP.",
-      "zh": "所以，嘿，我需要尽快这份文件。"
+      "zh": "所以，嘿，我这份文件要尽快。"
     },
     {
       "id": 109,
@@ -914,7 +914,7 @@
       "start": 331.24,
       "end": 332.74,
       "en": "And now let's look at our last word.",
-      "zh": "现在让我们看看我们的最后一个字。"
+      "zh": "现在让我们看看我们的最后一个词。"
     },
     {
       "id": 131,
@@ -1117,7 +1117,7 @@
       "start": 394.81,
       "end": 400.33,
       "en": "So why don't we listen to our dialogue for the second time, and then we'll come back and talk about putting it together.",
-      "zh": "那么我们为什么不第二次听我们的对话，然后我们会回来讨论把它放在一起。"
+      "zh": "那我们为什么不再听一遍对话，然后再回来聊综合运用环节。"
     },
     {
       "id": 160,
@@ -1313,7 +1313,7 @@
       "start": 477.68,
       "end": 478.21,
       "en": "Putting It Together",
-      "zh": "把它放在一起"
+      "zh": "综合运用。"
     },
     {
       "id": 188,
@@ -1397,7 +1397,7 @@
       "start": 502.93,
       "end": 505.83,
       "en": "If you're driving, I'm out of gas or gasoline.",
-      "zh": "如果你在开车，我的汽油或汽油都没有了。"
+      "zh": "如果你在开车，那我没油了——gas 或者 gasoline。"
     },
     {
       "id": 200,
@@ -1411,7 +1411,7 @@
       "start": 507.48,
       "end": 508.63,
       "en": "So, out of plus noun.",
-      "zh": "所以，超出了名词。"
+      "zh": "所以就是 out of 加名词。"
     },
     {
       "id": 202,
@@ -1467,7 +1467,7 @@
       "start": 519.72,
       "end": 520.16,
       "en": "Out of time.",
-      "zh": "超时。"
+      "zh": "没时间了。"
     },
     {
       "id": 210,
@@ -1481,7 +1481,7 @@
       "start": 522.52,
       "end": 523.28,
       "en": "On your way up.",
-      "zh": "在你的路上。"
+      "zh": "在你上楼的路上。"
     },
     {
       "id": 212,
@@ -1663,7 +1663,7 @@
       "start": 563.52,
       "end": 565.27,
       "en": "In our dialogue, we heard breaking down.",
-      "zh": "在我们的对话中，我们听到了崩溃的声音。"
+      "zh": "在对话中，我们听到了 breaking down 这个说法。"
     },
     {
       "id": 238,
@@ -1684,7 +1684,7 @@
       "start": 567.8,
       "end": 569.56,
       "en": "Everything in the office seems to be breaking down.",
-      "zh": "办公室里的一切似乎都在崩溃。"
+      "zh": "办公室里的东西好像都在出故障。"
     },
     {
       "id": 241,
@@ -1887,14 +1887,14 @@
       "start": 606.48,
       "end": 608.52,
       "en": "So, break out of jail.",
-      "zh": "于是，出狱。"
+      "zh": "所以是越狱。"
     },
     {
       "id": 270,
       "start": 608.52,
       "end": 608.92,
       "en": "Break out of prison.",
-      "zh": "出狱。"
+      "zh": "越狱。"
     },
     {
       "id": 271,
@@ -1915,7 +1915,7 @@
       "start": 611.52,
       "end": 618.8,
       "en": "You can change the last word from break down, break up, break in, and it means different things.",
-      "zh": "您可以将最后一个词从分解、分手、闯入中更改，这意味着不同的事情。"
+      "zh": "你可以换掉 break down、break up、break in 里的最后一个词，意思就不同了。"
     },
     {
       "id": 274,
@@ -2090,7 +2090,7 @@
       "start": 704.34,
       "end": 705.2,
       "en": "Just take the stairs dude.",
-      "zh": "只是走楼梯的家伙。"
+      "zh": "走楼梯吧，哥们儿。"
     },
     {
       "id": 299,
@@ -2160,7 +2160,7 @@
       "start": 756.66,
       "end": 758.76,
       "en": "And even if I'm very careful it still breaks.",
-      "zh": "即使我非常小心，它仍然会破裂。"
+      "zh": "即使我非常小心，它还是会坏。"
     },
     {
       "id": 309,
@@ -2181,7 +2181,7 @@
       "start": 760.92,
       "end": 761.78,
       "en": "I can relate to that.",
-      "zh": "我可以与之相关。"
+      "zh": "我能理解。"
     },
     {
       "id": 312,
@@ -2195,14 +2195,14 @@
       "start": 767.66,
       "end": 769.36,
       "en": "Well, I really, really like them.",
-      "zh": "嗯，我真的，真的很喜欢他们。"
+      "zh": "嗯，我真的、真的很喜欢这些东西。"
     },
     {
       "id": 314,
       "start": 769.78,
       "end": 776.66,
       "en": "And well, I guess even I know a little bit about copy machines or copiers because my uncles are like copy technicians.",
-      "zh": "好吧，我想我什至对复印机或复印机有点了解，因为我的叔叔就像复印技术人员一样。"
+      "zh": "好吧，我想我懂一点复印机，因为我叔叔算是复印机技术员。"
     },
     {
       "id": 315,
@@ -2216,7 +2216,7 @@
       "start": 778.1,
       "end": 787.96,
       "en": "Yeah, so they fix copiers that broke down or they replace toner and they do all that stuff so that's why I know a little bit about it.",
-      "zh": "是的，所以他们修理了故障的复印机，或者他们取代了碳粉，他们做了所有这些事情，所以这就是我对它有所了解的原因。"
+      "zh": "是的，他们修理坏掉的复印机，更换碳粉，做这些事，所以我才懂一点。"
     },
     {
       "id": 317,
@@ -2251,7 +2251,7 @@
       "start": 793.8,
       "end": 800.2,
       "en": "There's a brand called Xerox and Xerox invented and patented this technology of making copies.",
-      "zh": "有一个名为 Xerox 和 Xerox 的品牌发明并获得了这种复制技术的专利。"
+      "zh": "有个品牌叫 Xerox，正是 Xerox 发明并申请了这项复印技术的专利。"
     },
     {
       "id": 322,
@@ -2272,7 +2272,7 @@
       "start": 807.38,
       "end": 816.06,
       "en": "Alright and well let us know how things in your office break down or if you have any stories of like Erica that breaks everything she touches.",
-      "zh": "好吧，让我们知道你办公室里的事情是如何崩溃的，或者如果你有任何像埃里卡这样的故事破坏了她所触及的一切。"
+      "zh": "好吧，也请告诉我们你办公室里有什么东西出故障，或者你有没有像 Erica 那样碰什么坏什么的故事。"
     },
     {
       "id": 325,
@@ -2300,7 +2300,7 @@
       "start": 825.9,
       "end": 830.12,
       "en": "You can find us at EnglishPod.com and Marco and I are always around.",
-      "zh": "您可以在 Englishpod.com 和 Marco 找到我们，我总是在附近。"
+      "zh": "你可以在 EnglishPod.com 找到我们，我和 Marco 一直都在。"
     },
     {
       "id": 329,

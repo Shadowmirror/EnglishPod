@@ -39,7 +39,7 @@
       "start": 13.35,
       "end": 14.93,
       "en": "So, we're asking for money.",
-      "zh": "所以，我们要钱。"
+      "zh": "所以，我们要借钱。"
     },
     {
       "id": 6,
@@ -60,7 +60,7 @@
       "start": 23.84,
       "end": 24.19,
       "en": "Vocabulary preview.",
-      "zh": "词汇预习。"
+      "zh": "词汇预览。"
     },
     {
       "id": 9,
@@ -81,7 +81,7 @@
       "start": 32.22,
       "end": 35.54,
       "en": "Alright, so you request for a loan or you ask for a loan.",
-      "zh": "好吧，所以你要求贷款或你要求贷款。"
+      "zh": "好吧，所以你是要申请贷款，或者说要请求贷款。"
     },
     {
       "id": 12,
@@ -95,7 +95,7 @@
       "start": 36.22,
       "end": 37.46,
       "en": "So to request is to ask.",
-      "zh": "所以要求就是问。"
+      "zh": "所以 request 就是 ask，请求的意思。"
     },
     {
       "id": 14,
@@ -109,7 +109,7 @@
       "start": 39.32,
       "end": 42.12,
       "en": "And that's the word that we have for vocabulary preview.",
-      "zh": "这就是我们在词汇预览中的单词。"
+      "zh": "这就是我们词汇预览要讲的单词。"
     },
     {
       "id": 16,
@@ -256,7 +256,7 @@
       "start": 125.12,
       "end": 130.71,
       "en": "So now why don't we take a look at some of the key words that we'll find in Language Takeaway.",
-      "zh": "所以现在我们为什么不看看我们将在语言外卖中找到的一些关键词。"
+      "zh": "所以现在我们为什么不看看我们将在语言要点中找到的一些关键词。"
     },
     {
       "id": 37,
@@ -270,7 +270,7 @@
       "start": 135.37,
       "end": 139.63,
       "en": "All right, so on Language Takeaway today, we have a couple of different words.",
-      "zh": "好吧，所以今天的语言外卖，我们有几个不同的词。"
+      "zh": "好吧，所以今天的语言要点，我们有几个不同的词。"
     },
     {
       "id": 39,
@@ -319,14 +319,14 @@
       "start": 168.68,
       "end": 173.56,
       "en": "So a policy is the rules related to the loan that you've taken out.",
-      "zh": "因此，保单是与您获得的贷款相关的规则。"
+      "zh": "因此，政策就是与你所办贷款相关的规则。"
     },
     {
       "id": 46,
       "start": 173.56,
       "end": 177.52,
       "en": "And we have some very, very important words following this, and they go together.",
-      "zh": "我们在这之后有一些非常非常重要的词，它们会在一起。"
+      "zh": "接下来我们有几个非常非常重要的词，而且它们是一起出现的。"
     },
     {
       "id": 47,
@@ -410,7 +410,7 @@
       "start": 201.4,
       "end": 207.5,
       "en": "So to borrow is to take something from someone, knowing that you will have to give it back later.",
-      "zh": "所以借钱就是从某人那里拿东西，知道你以后必须把它还给你。"
+      "zh": "所以 borrow 就是从别人那里拿东西，并且知道以后得把它还回去。"
     },
     {
       "id": 59,
@@ -424,7 +424,7 @@
       "start": 208.24,
       "end": 212.02,
       "en": "And to lend is to give it to someone, right?",
-      "zh": "贷款就是把它给某人，对吧？"
+      "zh": "而 lend 就是把它借给别人，对吧？"
     },
     {
       "id": 61,
@@ -494,7 +494,7 @@
       "start": 235.0,
       "end": 238.12,
       "en": "And if I pay you back later, I'll include an interest rate.",
-      "zh": "如果我稍后还款，我将包括利率。"
+      "zh": "如果我以后还你，我会附上利息。"
     },
     {
       "id": 71,
@@ -522,14 +522,14 @@
       "start": 241.4,
       "end": 243.96,
       "en": "Mostly it's banks that ask for an interest rate.",
-      "zh": "大多数是要求利率的银行。"
+      "zh": "通常只有银行才会收利息。"
     },
     {
       "id": 75,
       "start": 244.26,
       "end": 252.7,
       "en": "So in this case, an interest rate means the amount of money that a bank will charge you in addition to the money that you owe them.",
-      "zh": "因此，在这种情况下，利率意味着银行将向您收取的金额以及您欠他们的钱。"
+      "zh": "因此，在这种情况下，利率指的是银行在你所欠的钱之外，额外向你收取的那笔费用。"
     },
     {
       "id": 76,
@@ -543,7 +543,7 @@
       "start": 253.95,
       "end": 257.45,
       "en": "So it's called an interest rate and it's a rate because it's a percentage.",
-      "zh": "所以它被称为利率，它是一个利率，因为它是一个百分比。"
+      "zh": "所以它叫利率（interest rate），之所以叫 rate，是因为它是一个百分比。"
     },
     {
       "id": 78,
@@ -585,7 +585,7 @@
       "start": 270.72,
       "end": 271.46,
       "en": "Okay, default.",
-      "zh": "好的，默认。"
+      "zh": "好的，default（违约）。"
     },
     {
       "id": 84,
@@ -599,21 +599,21 @@
       "start": 277.14,
       "end": 286.96,
       "en": "So that means that if I owe $1,000 to you, Bank of Marco, and I don't have the money, I can't pay for it, then I default.",
-      "zh": "所以这意味着如果我欠你 1,000 美元，马可银行，我没有钱，我付不起钱，那我就默认了。"
+      "zh": "所以这意味着，如果我欠你——马可银行——1,000 美元，可我没钱，还不上，那我就违约了。"
     },
     {
       "id": 86,
       "start": 286.96,
       "end": 289.06,
       "en": "So to be late or to not make the payment.",
-      "zh": "所以迟到或不付款。"
+      "zh": "所以就是逾期还款，或者干脆不还款。"
     },
     {
       "id": 87,
       "start": 289.84,
       "end": 290.68,
       "en": "It's a verb, to default.",
-      "zh": "这是一个动词，默认。"
+      "zh": "这是个动词：to default（违约）。"
     },
     {
       "id": 88,
@@ -627,7 +627,7 @@
       "start": 292.28,
       "end": 295.08,
       "en": "And Will, the person asking for the loan has a small problem.",
-      "zh": "和威尔，要求贷款的人有一个小问题。"
+      "zh": "而且，那个来申请贷款的人有个小问题。"
     },
     {
       "id": 90,
@@ -641,7 +641,7 @@
       "start": 297.82,
       "end": 299.32,
       "en": "Okay, I think he calls it terrible.",
-      "zh": "好吧，我认为他称之为可怕。"
+      "zh": "好吧，我记得他说的是'糟透了'。"
     },
     {
       "id": 92,
@@ -662,7 +662,7 @@
       "start": 310.6,
       "end": 316.16,
       "en": "And so a credit score is very important in America and it's like a report card for your finances.",
-      "zh": "因此，信用评分在美国非常重要，它就像您的财务报告卡。"
+      "zh": "因此，信用评分在美国非常重要，它就像你财务状况的成绩单。"
     },
     {
       "id": 95,
@@ -676,7 +676,7 @@
       "start": 317.16,
       "end": 325.22,
       "en": "So for example, if your credit score is a report card and you have an A credit score, that means that the banks won't have a problem with lending you money.",
-      "zh": "因此，例如，如果您的信用评分是成绩单并且您有信用评分，这意味着银行不会有借贷的问题。"
+      "zh": "因此，比如说，如果你的信用评分是成绩单，而你得的是 A，那就意味着银行借钱给你不会有问题。"
     },
     {
       "id": 97,
@@ -718,7 +718,7 @@
       "start": 342.28,
       "end": 343.86,
       "en": "That's all the words we have for Fluency Builder.",
-      "zh": "这就是我们对 Fluency Builder 的所有措辞。"
+      "zh": "这就是我们流利表达部分的全部单词。"
     },
     {
       "id": 103,
@@ -781,7 +781,7 @@
       "start": 369.83,
       "end": 371.31,
       "en": "So let me get this straight.",
-      "zh": "所以让我直截了当地说。"
+      "zh": "所以让我把这件事弄清楚。"
     },
     {
       "id": 112,
@@ -872,21 +872,21 @@
       "start": 424.55,
       "end": 428.47,
       "en": "So now, why don't we take a look at three key phrases on Fluency Builder.",
-      "zh": "那么现在，我们为什么不看看 Fluency Builder 上的三个关键短语。"
+      "zh": "那么现在，我们为什么不看看流利表达上的三个关键短语。"
     },
     {
       "id": 125,
       "start": 433.0,
       "end": 433.98,
       "en": "Let me get this straight.",
-      "zh": "让我直截了当。"
+      "zh": "让我把这件事弄清楚。"
     },
     {
       "id": 126,
       "start": 434.1,
       "end": 435.18,
       "en": "We're going to do Fluency Builder?",
-      "zh": "我们要做流利建设者？"
+      "zh": "我们要做流利表达？"
     },
     {
       "id": 127,
@@ -928,14 +928,14 @@
       "start": 441.08,
       "end": 444.66,
       "en": "Let me get this straight, and this is a fixed phrase that means we always say it the same way.",
-      "zh": "让我直截了当地说，这是一个固定的短语，意味着我们总是以同样的方式说出来。"
+      "zh": "let me get this straight，这是一个固定短语，意思是我们总是以同样的方式说它。"
     },
     {
       "id": 133,
       "start": 445.56,
       "end": 446.9,
       "en": "Wait, let me get this straight.",
-      "zh": "等等，让我直截了当地说。"
+      "zh": "等等，让我把这件事弄清楚。"
     },
     {
       "id": 134,
@@ -970,7 +970,7 @@
       "start": 461.64,
       "end": 466.88,
       "en": "You say, hey, so let me get this straight, and you repeat what the person just said.",
-      "zh": "你说，嘿，所以让我直截了当地说，然后你重复对方所说的话。"
+      "zh": "你说，嘿，let me get this straight，然后你重复对方刚说的话。"
     },
     {
       "id": 139,
@@ -991,14 +991,14 @@
       "start": 471.86,
       "end": 472.86,
       "en": "Let me get this straight.",
-      "zh": "让我直截了当。"
+      "zh": "让我把这件事弄清楚。"
     },
     {
       "id": 142,
       "start": 473.44,
       "end": 475.88,
       "en": "And now, moving on, we have the phrase, pay it back.",
-      "zh": "现在，继续前进，我们有了这句话，还清了它。"
+      "zh": "现在，接下来，我们来看这个短语——pay it back。"
     },
     {
       "id": 143,
@@ -1012,14 +1012,14 @@
       "start": 477.68,
       "end": 482.66,
       "en": "Okay, and so in this case, we have the verb to pay, but we also have the word back.",
-      "zh": "好的，在这种情况下，我们有动词要付费，但我们也有这个词。"
+      "zh": "好的，在这种情况下，我们有动词 pay，但还有 back 这个词。"
     },
     {
       "id": 145,
       "start": 482.88,
       "end": 484.78,
       "en": "So pay it back means to repay.",
-      "zh": "所以偿还它的意思是偿还。"
+      "zh": "所以 pay it back 就是偿还的意思。"
     },
     {
       "id": 146,
@@ -1040,7 +1040,7 @@
       "start": 492.06,
       "end": 495.26,
       "en": "Okay, so just remember that these words often go together, to pay it back.",
-      "zh": "好吧，所以请记住，这些话经常并存，以偿还。"
+      "zh": "好吧，记住这些词经常连在一起用，就是 pay it back。"
     },
     {
       "id": 149,
@@ -1117,7 +1117,7 @@
       "start": 525.16,
       "end": 533.3,
       "en": "For example, a father may say, my son just got straight A's and he's an excellent soccer player and so he's proud of his son.",
-      "zh": "例如，一位父亲可能会说，我的儿子刚刚获得了 A 分，他是一名出色的足球运动员，因此他为儿子感到自豪。"
+      "zh": "例如，一位父亲可能会说，我儿子刚拿了全 A，还是个出色的足球运动员，所以他为儿子感到自豪。"
     },
     {
       "id": 160,
@@ -1243,7 +1243,7 @@
       "start": 596.18,
       "end": 597.66,
       "en": "So let me get this straight.",
-      "zh": "所以让我直截了当地说。"
+      "zh": "所以让我把这件事弄清楚。"
     },
     {
       "id": 178,
@@ -1376,21 +1376,21 @@
       "start": 690.25,
       "end": 696.67,
       "en": "Usually they won't have a problem with lending them money to buy a new car, but to start up a business, it's completely the opposite.",
-      "zh": "通常他们不会有钱借钱买新车，但要创业，情况完全相反。"
+      "zh": "通常银行借钱给他们买新车不成问题，但要创业，情况就完全相反。"
     },
     {
       "id": 197,
       "start": 697.27,
       "end": 697.49,
       "en": "It is.",
-      "zh": "确实如此。"
+      "zh": "确实是这样。"
     },
     {
       "id": 198,
       "start": 698.28,
       "end": 704.36,
       "en": "And one of the really popular trends in foreign investment right now is called micro-lending, so micro-loans.",
-      "zh": "而目前外商投资中真正流行的趋势之一是小额贷款和小额贷款。"
+      "zh": "而目前对外投资中真正流行的趋势之一叫做 micro-lending，也就是小额贷款。"
     },
     {
       "id": 199,
@@ -1425,7 +1425,7 @@
       "start": 731.92,
       "end": 734.02,
       "en": "You're not charging like 100% interest rate.",
-      "zh": "您不会像 100% 利率那样收取费用。"
+      "zh": "你不会收 100% 那么高的利率。"
     },
     {
       "id": 204,

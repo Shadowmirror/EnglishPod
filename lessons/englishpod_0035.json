@@ -25,7 +25,7 @@
       "start": 3.37,
       "end": 4.41,
       "en": "I'm joined here today with...",
-      "zh": "我今天加入了..."
+      "zh": "今天和我一起的是……"
     },
     {
       "id": 4,
@@ -46,7 +46,7 @@
       "start": 7.27,
       "end": 9.17,
       "en": "And we're going to be looking at an office lesson today.",
-      "zh": "我们今天要看办公室课。"
+      "zh": "我们今天要看的是一节关于办公室的课程。"
     },
     {
       "id": 7,
@@ -60,7 +60,7 @@
       "start": 9.97,
       "end": 14.67,
       "en": "We've got a lesson about describing somebody who's not such a good employee.",
-      "zh": "我们有一个关于描述一个不是很好员工的人的教训。"
+      "zh": "我们这节课要教大家如何描述一个不太称职的员工。"
     },
     {
       "id": 9,
@@ -102,7 +102,7 @@
       "start": 31.16,
       "end": 34.44,
       "en": "The first one is a good fit.",
-      "zh": "第一个很适合。"
+      "zh": "第一个是 a good fit。"
     },
     {
       "id": 15,
@@ -186,7 +186,7 @@
       "start": 54.52,
       "end": 57.74,
       "en": "And our last word for Vocabulary Preview, performance.",
-      "zh": "以及我们的词汇预览的最后一个词，性能。"
+      "zh": "以及词汇预览的最后一个词：performance（工作表现）。"
     },
     {
       "id": 27,
@@ -221,7 +221,7 @@
       "start": 63.2,
       "end": 65.28,
       "en": "How good or bad you do your job.",
-      "zh": "你的工作有多好或有多好或坏。"
+      "zh": "你工作做得好还是坏。"
     },
     {
       "id": 32,
@@ -291,7 +291,7 @@
       "start": 101.93,
       "end": 102.21,
       "en": "What's up?",
-      "zh": "最近怎么样？"
+      "zh": "怎么了？"
     },
     {
       "id": 42,
@@ -410,7 +410,7 @@
       "start": 147.31,
       "end": 148.91,
       "en": "Look, you hired this guy.",
-      "zh": "看，你雇了这个人。"
+      "zh": "听着，人是你招进来的。"
     },
     {
       "id": 59,
@@ -487,7 +487,7 @@
       "start": 173.95,
       "end": 176.73,
       "en": "That's always a complicated situation working with family members.",
-      "zh": "这总是与家人一起工作的复杂情况。"
+      "zh": "和家人一起工作，情况总是很复杂。"
     },
     {
       "id": 70,
@@ -522,7 +522,7 @@
       "start": 191.85,
       "end": 194.57,
       "en": "Okay, the first word on language takeaway today.",
-      "zh": "好的，今天关于语言外卖的第一个字。"
+      "zh": "好的，今天关于语言要点的第一个字。"
     },
     {
       "id": 75,
@@ -648,7 +648,7 @@
       "start": 248.76,
       "end": 249.5,
       "en": "The opposite would be?",
-      "zh": "会相反？"
+      "zh": "相反的是？"
     },
     {
       "id": 93,
@@ -802,7 +802,7 @@
       "start": 280.6,
       "end": 288.27,
       "en": "If they have a good work ethic, then they are always hardworking and they come to work early and they finish their jobs on time and they stay and do lots of overtime.",
-      "zh": "如果他们有良好的职业道德，那么他们总是很勤奋，他们来早点上班，按时完成工作，他们留下来，做很多加班。"
+      "zh": "如果他们有良好的职业操守，就会一直很勤奋，很早就来上班，按时完成工作，还会留下来加很多班。"
     },
     {
       "id": 115,
@@ -830,7 +830,7 @@
       "start": 293.54,
       "end": 295.96,
       "en": "And our last word, coach.",
-      "zh": "还有我们的最后一句话，教练。"
+      "zh": "还有我们最后一个词：coach（指导）。"
     },
     {
       "id": 119,
@@ -921,7 +921,7 @@
       "start": 338.4,
       "end": 338.61,
       "en": "What's up?",
-      "zh": "最近怎么样？"
+      "zh": "怎么了？"
     },
     {
       "id": 132,
@@ -1117,7 +1117,7 @@
       "start": 426.96,
       "end": 428.9,
       "en": "So let's take a look at Fluency Builder.",
-      "zh": "所以让我们来看看 Fluency Builder。"
+      "zh": "所以让我们来看看流利表达。"
     },
     {
       "id": 160,
@@ -1131,7 +1131,7 @@
       "start": 431.28,
       "end": 433.1,
       "en": "Fluency Builder, today we have three phrases.",
-      "zh": "Fluency Builder，今天我们有三个短语。"
+      "zh": "流利表达，今天我们有三个短语。"
     },
     {
       "id": 162,
@@ -1201,7 +1201,7 @@
       "start": 460.36,
       "end": 461.8,
       "en": "Like the most important point.",
-      "zh": "喜欢最重要的一点。"
+      "zh": "就是最重要的那一点。"
     },
     {
       "id": 172,
@@ -1257,7 +1257,7 @@
       "start": 470.44,
       "end": 472.93,
       "en": "So this is the same as saying on the whole.",
-      "zh": "所以这与整体上说的是一样的。"
+      "zh": "这和 on the whole（总体上）是一个意思。"
     },
     {
       "id": 180,
@@ -1271,7 +1271,7 @@
       "start": 474.52,
       "end": 476.0,
       "en": "So it's a big picture, how you would say.",
-      "zh": "所以这是一个大局，你会怎么说。"
+      "zh": "所以就是看整体情况。"
     },
     {
       "id": 182,
@@ -1299,7 +1299,7 @@
       "start": 480.45,
       "end": 481.23,
       "en": "It means in general.",
-      "zh": "这意味着一般。"
+      "zh": "意思就是总体来说。"
     },
     {
       "id": 186,
@@ -1320,7 +1320,7 @@
       "start": 484.11,
       "end": 487.63,
       "en": "And our last phrase is very interesting because we can mix it up a little bit.",
-      "zh": "我们的最后一句话很有趣，因为我们可以把它混合一点。"
+      "zh": "我们最后一个短语很有意思，因为我们可以稍微变一下。"
     },
     {
       "id": 189,
@@ -1376,28 +1376,28 @@
       "start": 499.03,
       "end": 500.67,
       "en": "A perfectly good reason.",
-      "zh": "一个完全好的理由。"
+      "zh": "一个完全说得通的理由。"
     },
     {
       "id": 197,
       "start": 501.19,
       "end": 502.47,
       "en": "A perfectly good car.",
-      "zh": "一辆完美的车。"
+      "zh": "一辆好好的车。"
     },
     {
       "id": 198,
       "start": 502.95,
       "end": 504.11,
       "en": "A perfectly good computer.",
-      "zh": "一台完美的电脑。"
+      "zh": "一台好好的电脑。"
     },
     {
       "id": 199,
       "start": 504.63,
       "end": 506.61,
       "en": "So by the sounds of it, it's kind of like justifying.",
-      "zh": "所以从它的声音来看，这有点像证明。"
+      "zh": "所以听起来，它有点像是在辩解。"
     },
     {
       "id": 200,
@@ -1425,7 +1425,7 @@
       "start": 510.53,
       "end": 513.59,
       "en": "Why would you throw it away if it's a perfectly good computer?",
-      "zh": "如果它是一台完美的电脑，你为什么要把它扔掉？"
+      "zh": "电脑还好好的，你干嘛要扔掉它？"
     },
     {
       "id": 204,
@@ -1481,14 +1481,14 @@
       "start": 539.86,
       "end": 540.24,
       "en": "What's up?",
-      "zh": "最近怎么样？"
+      "zh": "怎么了？"
     },
     {
       "id": 212,
       "start": 541.61,
       "end": 546.95,
       "en": "Basically, I've got a few concerns about him and the bottom line is I don't think he's a good fit for our company.",
-      "zh": "基本上，我对他有一些担忧，底线是我认为他不适合我们公司。"
+      "zh": "基本上，我对他有一些担忧，说到底，我觉得他不适合我们公司。"
     },
     {
       "id": 213,
@@ -1537,7 +1537,7 @@
       "start": 560.82,
       "end": 568.3,
       "en": "Sometimes he's really productive, but then other times, take last Tuesday for instance, he was 45 minutes late for our morning meeting.",
-      "zh": "有时他真的很有效率，但有时以上周二为例，他在我们的早间会议上迟到了 45 分钟。"
+      "zh": "有时他效率很高，可有时候——就拿上周二来说——他开早会迟到了 45 分钟。"
     },
     {
       "id": 220,
@@ -1642,7 +1642,7 @@
       "start": 603.36,
       "end": 607.48,
       "en": "Making me hire your stupid, useless cousin.",
-      "zh": "让我雇用你愚蠢、无用的表弟。"
+      "zh": "硬让我雇你那个又蠢又没用的表亲。"
     },
     {
       "id": 235,
@@ -1663,7 +1663,7 @@
       "start": 611.91,
       "end": 614.97,
       "en": "We've found some really useful vocabulary for a business situation.",
-      "zh": "我们找到了一些非常有用的词汇来处理业务情况。"
+      "zh": "我们学了一些在商务场合非常实用的词汇。"
     },
     {
       "id": 238,

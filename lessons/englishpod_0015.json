@@ -46,7 +46,7 @@
       "start": 12.92,
       "end": 13.88,
       "en": "We've got a lesson about love.",
-      "zh": "我们有一个关于爱情的教训。"
+      "zh": "我们这节讲的是爱情。"
     },
     {
       "id": 7,
@@ -81,7 +81,7 @@
       "start": 20.04,
       "end": 20.64,
       "en": "They go together.",
-      "zh": "他们一起去。"
+      "zh": "这两者分不开。"
     },
     {
       "id": 12,
@@ -116,7 +116,7 @@
       "start": 29.9,
       "end": 31.24,
       "en": "Vocabulary preview.",
-      "zh": "词汇预习。"
+      "zh": "词汇预览。"
     },
     {
       "id": 17,
@@ -165,7 +165,7 @@
       "start": 48.36,
       "end": 49.39,
       "en": "So that's a really simple one.",
-      "zh": "所以这是一个非常简单的方法。"
+      "zh": "所以这个短语很简单。"
     },
     {
       "id": 24,
@@ -193,7 +193,7 @@
       "start": 54.72,
       "end": 62.24,
       "en": "So speaking of knocking things over, this morning I knocked over my coffee cup all over my desk.",
-      "zh": "所以说到把东西翻倒，今天早上我把我的咖啡杯打翻了我的桌子。"
+      "zh": "说到打翻东西，今天早上我把咖啡杯打翻，洒了一桌子。"
     },
     {
       "id": 28,
@@ -221,7 +221,7 @@
       "start": 66.99,
       "end": 68.41,
       "en": "It was all over the place.",
-      "zh": "它到处都是。"
+      "zh": "洒得到处都是。"
     },
     {
       "id": 32,
@@ -277,7 +277,7 @@
       "start": 90.68,
       "end": 91.78,
       "en": "That's more than clear, I think.",
-      "zh": "我想这很清楚。"
+      "zh": "我觉得这再清楚不过了。"
     },
     {
       "id": 40,
@@ -529,7 +529,7 @@
       "start": 236.45,
       "end": 239.13,
       "en": "Let's start with our language takeaway.",
-      "zh": "让我们从我们的语言外卖开始。"
+      "zh": "让我们从我们的语言要点开始。"
     },
     {
       "id": 76,
@@ -543,14 +543,14 @@
       "start": 244.38,
       "end": 251.15,
       "en": "Today we have three important words from our dialogue that we will learn for our language takeaway.",
-      "zh": "今天，我们将从我们的对话中获得三个重要的词，我们将为我们的语言外卖学习。"
+      "zh": "今天，我们将从我们的对话中获得三个重要的词，我们将为我们的语言要点学习。"
     },
     {
       "id": 78,
       "start": 252.14,
       "end": 253.99,
       "en": "The first word is familiar.",
-      "zh": "第一个字很熟悉。"
+      "zh": "第一个词是 familiar。"
     },
     {
       "id": 79,
@@ -690,7 +690,7 @@
       "start": 309.32,
       "end": 312.56,
       "en": "Okay, our next word is place.",
-      "zh": "好的，我们的下一个词是地方。"
+      "zh": "好，下一个词是 place。"
     },
     {
       "id": 99,
@@ -711,7 +711,7 @@
       "start": 315.7,
       "end": 316.34,
       "en": "Aaron's place.",
-      "zh": "亚伦的地方。"
+      "zh": "亚伦家。"
     },
     {
       "id": 102,
@@ -746,7 +746,7 @@
       "start": 331.3,
       "end": 333.66,
       "en": "You might ask someone, how's your new place?",
-      "zh": "你可能会问别人，你的新地方怎么样？"
+      "zh": "你可能会问别人，你的新家怎么样？"
     },
     {
       "id": 107,
@@ -774,7 +774,7 @@
       "start": 337.38,
       "end": 339.02,
       "en": "So place, it's a house.",
-      "zh": "所以地方，它是一所房子。"
+      "zh": "所以 place 指的就是房子。"
     },
     {
       "id": 111,
@@ -788,7 +788,7 @@
       "start": 341.1,
       "end": 343.94,
       "en": "Our final word today is coincidence.",
-      "zh": "我们今天的最后一句话是巧合。"
+      "zh": "我们今天最后一个词是 coincidence。"
     },
     {
       "id": 113,
@@ -837,7 +837,7 @@
       "start": 360.66,
       "end": 365.54,
       "en": "What a coincidence, I am too.",
-      "zh": "多么巧合，我也是。"
+      "zh": "真巧，我也是。"
     },
     {
       "id": 120,
@@ -851,7 +851,7 @@
       "start": 368.74,
       "end": 371.75,
       "en": "By coincidence, everyone in the room was named Alex.",
-      "zh": "巧合的是，房间里的每个人都被命名为亚历克斯。"
+      "zh": "巧合的是，屋子里每个人都叫 Alex。"
     },
     {
       "id": 122,
@@ -865,7 +865,7 @@
       "start": 380.46,
       "end": 382.0,
       "en": "We met by pure coincidence.",
-      "zh": "我们遇到了纯粹的巧合。"
+      "zh": "我们相遇纯属巧合。"
     },
     {
       "id": 124,
@@ -935,14 +935,14 @@
       "start": 423.93,
       "end": 425.13,
       "en": "It was such a coincidence.",
-      "zh": "这是一个巧合。"
+      "zh": "真是太巧了。"
     },
     {
       "id": 134,
       "start": 425.29,
       "end": 426.13,
       "en": "That is a coincidence.",
-      "zh": "这是一个巧合。"
+      "zh": "真是巧啊。"
     },
     {
       "id": 135,
@@ -970,7 +970,7 @@
       "start": 433.5,
       "end": 433.89,
       "en": "That's a coincidence.",
-      "zh": "这是一个巧合。"
+      "zh": "确实很巧。"
     },
     {
       "id": 139,
@@ -984,7 +984,7 @@
       "start": 435.63,
       "end": 445.16,
       "en": "Okay, so now that we have learned these three language takeaway words, we can listen to our dialogue a second time but this time it's going to be slower.",
-      "zh": "好的，现在我们已经学会了这三种语言外卖词，我们可以第二次听我们的对话，但这次会更慢。"
+      "zh": "好的，现在我们已经学会了这三种语言要点词，我们可以第二次听我们的对话，但这次会更慢。"
     },
     {
       "id": 141,
@@ -1110,7 +1110,7 @@
       "start": 492.65,
       "end": 497.51,
       "en": "But anyway, I'm glad to see that you're not badly hurt and I should probably get going.",
-      "zh": "但无论如何，我很高兴看到你没有受到严重伤害，我可能应该开始了。"
+      "zh": "但不管怎么说，看到你没受重伤我就放心了，我该走了。"
     },
     {
       "id": 159,
@@ -1166,7 +1166,7 @@
       "start": 516.77,
       "end": 521.47,
       "en": "No, I'm canceling my appointment so that I can stay here with you.",
-      "zh": "不，我要取消我的约会，以便我可以和你一起留在这里。"
+      "zh": "不，我要取消我的会，好留下来陪你。"
     },
     {
       "id": 167,
@@ -1187,7 +1187,7 @@
       "start": 531.7,
       "end": 533.46,
       "en": "And this brings us to Fluency Builder.",
-      "zh": "这将我们带到了 Fluency Builder。"
+      "zh": "这将我们带到了流利表达。"
     },
     {
       "id": 170,
@@ -1201,7 +1201,7 @@
       "start": 536.9,
       "end": 540.92,
       "en": "In today's Fluency Builder, we're going to show you different ways of apologizing.",
-      "zh": "在今天的 Fluency Builder 中，我们将向您展示不同的道歉方式。"
+      "zh": "在今天的流利表达中，我们将向您展示不同的道歉方式。"
     },
     {
       "id": 172,
@@ -1222,7 +1222,7 @@
       "start": 548.44,
       "end": 551.02,
       "en": "And you also want to say something different from I'm sorry.",
-      "zh": "你也想说一些与我很抱歉不同的话。"
+      "zh": "而且你也想换一种说法，而不是总说 I'm sorry。"
     },
     {
       "id": 175,
@@ -1313,7 +1313,7 @@
       "start": 582.64,
       "end": 584.1,
       "en": "Yeah, it's a great way of saying I'm sorry.",
-      "zh": "是的，这是一个很好的表达方式，我很抱歉。"
+      "zh": "是的，这是表达 I'm sorry 的一个好方式。"
     },
     {
       "id": 188,
@@ -1334,7 +1334,7 @@
       "start": 591.1,
       "end": 595.84,
       "en": "And we did hear some wonderful expressions for I made a mistake in this dialogue.",
-      "zh": "我们确实听到了一些精彩的表达，因为我在这次对话中犯了一个错误。"
+      "zh": "这段对话里确实有一些表达“我犯了个错”的精彩说法。"
     },
     {
       "id": 191,
@@ -1579,7 +1579,7 @@
       "start": 703.73,
       "end": 707.15,
       "en": "But anyway, I'm glad to see you're not badly hurt, and I should probably get going.",
-      "zh": "但无论如何，我很高兴看到你没有受到严重伤害，我可能应该开始了。"
+      "zh": "但不管怎样，看到你没受重伤我就放心了，我该走了。"
     },
     {
       "id": 226,
@@ -1649,7 +1649,7 @@
       "start": 726.81,
       "end": 729.23,
       "en": "I'm canceling my appointment so that I can stay here with you.",
-      "zh": "我取消了我的约会，以便我可以和你一起留在这里。"
+      "zh": "我要取消我的会，好留下来陪你。"
     },
     {
       "id": 236,
@@ -1677,7 +1677,7 @@
       "start": 758.44,
       "end": 759.15,
       "en": "Of course, me.",
-      "zh": "当然，我。"
+      "zh": "当然是我。"
     },
     {
       "id": 240,
@@ -1719,7 +1719,7 @@
       "start": 770.4,
       "end": 771.66,
       "en": "I kind of do.",
-      "zh": "我有点做。"
+      "zh": "我算是相信吧。"
     },
     {
       "id": 246,
@@ -1796,7 +1796,7 @@
       "start": 792.64,
       "end": 798.24,
       "en": "When I see somebody for the first time, my first impression is, oh, it's wrong.",
-      "zh": "当我第一次见到某人时，我的第一印象是，哦，这是错误的。"
+      "zh": "我第一次见到某人时，第一印象总是：哦，不对。"
     },
     {
       "id": 257,
@@ -1880,7 +1880,7 @@
       "start": 828.12,
       "end": 829.27,
       "en": "Our challenge for this lesson.",
-      "zh": "我们对本课的挑战。"
+      "zh": "这就是本课的挑战。"
     },
     {
       "id": 269,

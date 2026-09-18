@@ -25,7 +25,7 @@
       "start": 6.56,
       "end": 11.45,
       "en": "My name is Catherine and today we have a very dramatic intermediate level lesson for you.",
-      "zh": "我的名字是凯瑟琳，今天我们为您准备了一个非常戏剧性的中级课程。"
+      "zh": "我叫凯瑟琳，今天我们为大家准备了一节非常戏剧化的中级课程。"
     },
     {
       "id": 4,
@@ -60,7 +60,7 @@
       "start": 22.67,
       "end": 26.75,
       "en": "Many of you have seen the movie The Firm or 12 Angry Men.",
-      "zh": "你们中的许多人都看过电影 The Firm 或 12 愤怒的人。"
+      "zh": "你们中许多人都看过电影《The Firm》或《十二怒汉》。"
     },
     {
       "id": 9,
@@ -284,7 +284,7 @@
       "start": 145.56,
       "end": 148.26,
       "en": "So why don't we take a look at some of those now in Language Takeaway.",
-      "zh": "那么我们为什么不看看现在语言外卖中的一些。"
+      "zh": "那么我们为什么不看看现在语言要点中的一些。"
     },
     {
       "id": 41,
@@ -298,14 +298,14 @@
       "start": 152.33,
       "end": 156.59,
       "en": "The first Language Takeaway we're looking at today is all about people.",
-      "zh": "我们今天看到的第一语言外卖是关于人的。"
+      "zh": "我们今天要看的第一个语言要点是关于人的。"
     },
     {
       "id": 43,
       "start": 156.95,
       "end": 158.77,
       "en": "So people you will find in a courtroom.",
-      "zh": "所以你会在法庭上找到的人。"
+      "zh": "也就是你在法庭上会遇到的人。"
     },
     {
       "id": 44,
@@ -326,7 +326,7 @@
       "start": 164.71,
       "end": 168.39,
       "en": "Now you didn't really see this word judge in the dialogue, right?",
-      "zh": "现在你在对话中并没有真正看到这个词判断，对吧？"
+      "zh": "其实你在对话里并没有真正看到 judge 这个词，对吧？"
     },
     {
       "id": 47,
@@ -361,7 +361,7 @@
       "start": 176.6,
       "end": 179.6,
       "en": "You always add Your Honor before it or something like that?",
-      "zh": "你总是在它之前添加你的荣誉或类似的东西？"
+      "zh": "你是总要在前面加上 Your Honor（法官大人）之类的称呼吗？"
     },
     {
       "id": 52,
@@ -389,7 +389,7 @@
       "start": 189.2,
       "end": 191.39,
       "en": "So we call him or her Your Honor.",
-      "zh": "所以我们称他或她是你的荣誉。"
+      "zh": "所以我们称他或她为 Your Honor（法官大人）。"
     },
     {
       "id": 56,
@@ -417,7 +417,7 @@
       "start": 194.76,
       "end": 195.76,
       "en": "That's our first person.",
-      "zh": "那是我们的第一人称。"
+      "zh": "那是我们的第一个人。"
     },
     {
       "id": 60,
@@ -494,7 +494,7 @@
       "start": 231.28,
       "end": 233.22,
       "en": "And the big question is, who's fighting?",
-      "zh": "最大的问题是，谁在打架？"
+      "zh": "关键问题是，谁在打这场官司？"
     },
     {
       "id": 71,
@@ -508,14 +508,14 @@
       "start": 234.94,
       "end": 238.4,
       "en": "Someone who is upset and someone who is defending themselves.",
-      "zh": "一个心烦意乱的人，一个为自己辩护的人。"
+      "zh": "一方是受了委屈的人，一方是为自己辩护的人。"
     },
     {
       "id": 73,
       "start": 238.88,
       "end": 240.98,
       "en": "The person who is upset, this is the prosecution.",
-      "zh": "心烦意乱的人，这是起诉。"
+      "zh": "那个受了委屈的人，就是检方。"
     },
     {
       "id": 74,
@@ -571,7 +571,7 @@
       "start": 261.42,
       "end": 262.9,
       "en": "So I'm the prosecution.",
-      "zh": "所以我是检察官。"
+      "zh": "所以我是控方（检方）。"
     },
     {
       "id": 82,
@@ -655,7 +655,7 @@
       "start": 285.8,
       "end": 289.38,
       "en": "To defend is to stand up for yourself, to protect yourself.",
-      "zh": "捍卫就是为自己站起来，保护自己。"
+      "zh": "defend 就是为自己挺身而出、保护自己。"
     },
     {
       "id": 94,
@@ -704,7 +704,7 @@
       "start": 316.18,
       "end": 317.3,
       "en": "Yeah, they are your defense.",
-      "zh": "是的，它们是你的防御。"
+      "zh": "是的，他们就是你的辩方。"
     },
     {
       "id": 101,
@@ -774,7 +774,7 @@
       "start": 340.19,
       "end": 340.49,
       "en": "Prove it.",
-      "zh": "证明它。"
+      "zh": "证明给我看。"
     },
     {
       "id": 111,
@@ -795,7 +795,7 @@
       "start": 346.12,
       "end": 347.25,
       "en": "So this person is my witness.",
-      "zh": "所以这个人是我的见证人。"
+      "zh": "所以这个人就是我的证人。"
     },
     {
       "id": 114,
@@ -809,7 +809,7 @@
       "start": 351.24,
       "end": 354.31,
       "en": "So someone who sees a crime is a witness to that crime.",
-      "zh": "因此，看到犯罪的人是该犯罪的见证人。"
+      "zh": "所以看到犯罪的人，就是那起犯罪的证人。"
     },
     {
       "id": 116,
@@ -837,7 +837,7 @@
       "start": 361.44,
       "end": 373.84,
       "en": "So I think we should listen to the dialogue again and we'll be back to look at some more words on Language Takeaway Part 2.",
-      "zh": "所以我认为我们应该再听一次对话，我们会回来看更多关于语言外卖第 2 部分的单词。"
+      "zh": "所以我认为我们应该再听一次对话，我们会回来看更多关于语言要点第 2 部分的单词。"
     },
     {
       "id": 120,
@@ -886,7 +886,7 @@
       "start": 397.47,
       "end": 398.97,
       "en": "But my client is innocent.",
-      "zh": "但我的客户是无辜的。"
+      "zh": "但我的当事人是无辜的。"
     },
     {
       "id": 127,
@@ -1026,21 +1026,21 @@
       "start": 458.71,
       "end": 459.77,
       "en": "I love it when we do this.",
-      "zh": "当我们这样做时，我喜欢它。"
+      "zh": "我很喜欢我们一起做这个。"
     },
     {
       "id": 147,
       "start": 460.16,
       "end": 461.16,
       "en": "So many words.",
-      "zh": "这么多字。"
+      "zh": "这么多单词。"
     },
     {
       "id": 148,
       "start": 461.16,
       "end": 462.35,
       "en": "So much language to take away.",
-      "zh": "这么多语言要带走。"
+      "zh": "有这么多语言知识可以收获。"
     },
     {
       "id": 149,
@@ -1054,7 +1054,7 @@
       "start": 464.04,
       "end": 472.66,
       "en": "So now we're going to take a look at the second part of language takeaway where we have another set of four words that we want to take a look at.",
-      "zh": "所以现在我们要看看语言外卖的第二部分，我们有另一组四个单词，我们想看看。"
+      "zh": "所以现在我们要看看语言要点的第二部分，我们有另一组四个单词，我们想看看。"
     },
     {
       "id": 151,
@@ -1082,7 +1082,7 @@
       "start": 476.49,
       "end": 477.95,
       "en": "We have two opposites.",
-      "zh": "我们有两个对立面。"
+      "zh": "我们有两个意思相反的词。"
     },
     {
       "id": 155,
@@ -1201,7 +1201,7 @@
       "start": 504.92,
       "end": 506.4,
       "en": "So guilty would be the opposite.",
-      "zh": "因此，有罪的是相反的。"
+      "zh": "那 guilty（有罪）就是它的反义词。"
     },
     {
       "id": 172,
@@ -1215,7 +1215,7 @@
       "start": 507.4,
       "end": 514.43,
       "en": "So usually when someone is guilty, they're sad, they feel bad, you want them to pay you.",
-      "zh": "所以通常当有人有罪时，他们会难过，他们感到难过，你希望他们付钱给你。"
+      "zh": "所以通常当一个人有罪时，他会难过、良心不安，你会希望他赔偿你。"
     },
     {
       "id": 174,
@@ -1278,21 +1278,21 @@
       "start": 525.44,
       "end": 528.78,
       "en": "So we talked about the prosecution and the defense of the defendant.",
-      "zh": "所以我们谈到了被告的起诉和辩护。"
+      "zh": "所以我们谈到了控方和被告的辩方。"
     },
     {
       "id": 183,
       "start": 529.88,
       "end": 536.2,
       "en": "And what happens is they also present some key elements that will prove if the person is innocent or guilty.",
-      "zh": "发生的情况是，它们还提供了一些关键要素，这些要素将证明该人是无辜的还是有罪的。"
+      "zh": "接下来，双方还会出示一些关键要素，用来证明这个人是有罪还是无辜。"
     },
     {
       "id": 184,
       "start": 536.96,
       "end": 539.56,
       "en": "And those elements are called evidence.",
-      "zh": "这些元素被称为证据。"
+      "zh": "这些要素就叫作证据。"
     },
     {
       "id": 185,
@@ -1306,7 +1306,7 @@
       "start": 540.56,
       "end": 542.48,
       "en": "So back to this idea, we tell a story.",
-      "zh": "所以回到这个想法，我们讲一个故事。"
+      "zh": "所以回到刚才那个思路，我们要讲一个故事。"
     },
     {
       "id": 187,
@@ -1334,7 +1334,7 @@
       "start": 548.06,
       "end": 553.48,
       "en": "So in the case of the house, I could say you have matches and you smell like smoke and oil.",
-      "zh": "所以在房子的情况下，我可以说你有火柴，你闻起来像烟和油。"
+      "zh": "所以拿房子这件事来说，我可以说你有火柴，身上还有烟味和油味。"
     },
     {
       "id": 191,
@@ -1383,14 +1383,14 @@
       "start": 565.46,
       "end": 566.44,
       "en": "So evidence is proof.",
-      "zh": "所以证据就是证据。"
+      "zh": "所以 evidence 就是 proof（证据）。"
     },
     {
       "id": 198,
       "start": 566.72,
       "end": 568.4,
       "en": "It's physical proof.",
-      "zh": "这是物理证明。"
+      "zh": "它是实实在在的证明。"
     },
     {
       "id": 199,
@@ -1404,7 +1404,7 @@
       "start": 569.4,
       "end": 577.73,
       "en": "And most of the times when you see movies or TV shows, they will find, I don't know, like maybe a fingerprint that's evidence or somebody's glasses.",
-      "zh": "大多数时候，当你看电影或电视节目时，他们会发现，我不知道，比如指纹是证据或某人的眼镜。"
+      "zh": "大多数时候，你看电影或电视节目时，他们会发现一些东西，比如一枚作为证据的指纹，或者某人的眼镜。"
     },
     {
       "id": 201,
@@ -1439,7 +1439,7 @@
       "start": 582.24,
       "end": 583.96,
       "en": "This is very important when you want to build a case.",
-      "zh": "当您想要构建一个案例时，这非常重要。"
+      "zh": "当你想建立起一个案子时，这非常重要。"
     },
     {
       "id": 206,
@@ -1481,7 +1481,7 @@
       "start": 603.48,
       "end": 607.41,
       "en": "Now it's interesting why we say to reach because a jury is not just one person.",
-      "zh": "现在有趣的是，为什么我们说要到达，因为陪审团不仅仅是一个人。"
+      "zh": "有意思的是，我们为什么用 reach 这个说法，因为陪审团不只有一个人。"
     },
     {
       "id": 212,
@@ -1516,7 +1516,7 @@
       "start": 616.52,
       "end": 621.72,
       "en": "And this is to reach a conclusion, to reach a verdict because they have to travel there.",
-      "zh": "这是为了得出结论，做出判决，因为他们必须去那里旅行。"
+      "zh": "这就是 reach a conclusion、reach a verdict 的意思，因为他们必须一起走到那一步。"
     },
     {
       "id": 217,
@@ -1558,7 +1558,7 @@
       "start": 631.44,
       "end": 632.77,
       "en": "It doesn't quite fit with the other ones.",
-      "zh": "它不太适合其他人。"
+      "zh": "它跟前面几个不太一样。"
     },
     {
       "id": 223,
@@ -1579,7 +1579,7 @@
       "start": 641.68,
       "end": 643.8,
       "en": "What is so-called?",
-      "zh": "什么叫做？"
+      "zh": "so-called 是什么意思？"
     },
     {
       "id": 226,
@@ -1593,7 +1593,7 @@
       "start": 648.44,
       "end": 651.93,
       "en": "That's why even his tone changes, these so-called witnesses.",
-      "zh": "这就是为什么即使是他的语气也会改变，这些所谓的证人。"
+      "zh": "所以他连语气都变了——“这些所谓的证人”。"
     },
     {
       "id": 228,
@@ -1607,7 +1607,7 @@
       "start": 655.88,
       "end": 660.54,
       "en": "He's saying they say they're witnesses, but they're not really because they didn't see anything.",
-      "zh": "他说他们说他们是证人，但他们并不是真的是因为他们没有看到任何东西。"
+      "zh": "他的意思是，他们自称是证人，但其实不算，因为他们什么也没看到。"
     },
     {
       "id": 230,
@@ -1635,7 +1635,7 @@
       "start": 665.6,
       "end": 669.68,
       "en": "I could also say, your so-called lawyer thinks he can help you, but he can't.",
-      "zh": "我也可以说，你所谓的律师认为他可以帮助你，但他不能。"
+      "zh": "我也可以说：你所谓的律师觉得他能帮你，其实帮不了。"
     },
     {
       "id": 234,
@@ -1670,14 +1670,14 @@
       "start": 675.4,
       "end": 678.42,
       "en": "Or sometimes people say, my so-called friend stood me up last night.",
-      "zh": "或者有时人们会说，我所谓的朋友昨晚让我站了起来。"
+      "zh": "或者有时人们会说：我那个所谓的朋友昨晚放了我鸽子。"
     },
     {
       "id": 239,
       "start": 678.84,
       "end": 680.52,
       "en": "Oh, so it's not really a friend.",
-      "zh": "哦，所以它不是真正的朋友。"
+      "zh": "哦，所以他其实不算真正的朋友。"
     },
     {
       "id": 240,
@@ -1712,7 +1712,7 @@
       "start": 684.64,
       "end": 685.64,
       "en": "That's another good one.",
-      "zh": "这是另一件好事。"
+      "zh": "这又是一个很好的例子。"
     },
     {
       "id": 245,
@@ -1726,14 +1726,14 @@
       "start": 687.0,
       "end": 690.1,
       "en": "Really think about some of the words you heard today, and we'll be back in a moment.",
-      "zh": "真正想想你今天听到的一些单词，我们一会儿回来。"
+      "zh": "好好想想今天听到的一些单词，我们一会儿就回来。"
     },
     {
       "id": 247,
       "start": 697.04,
       "end": 699.8,
       "en": "Your Honor, ladies and gentlemen of the jury.",
-      "zh": "法官大人，陪审团的先生们。"
+      "zh": "法官大人，陪审团的女士们、先生们。"
     },
     {
       "id": 248,
@@ -1782,7 +1782,7 @@
       "start": 720.55,
       "end": 722.29,
       "en": "But my client is innocent.",
-      "zh": "但我的客户是无辜的。"
+      "zh": "但我的当事人是无辜的。"
     },
     {
       "id": 255,
@@ -1929,7 +1929,7 @@
       "start": 790.28,
       "end": 794.5,
       "en": "So now a very interesting situation with the courtroom dramas.",
-      "zh": "所以现在法庭戏剧的一个非常有趣的情况。"
+      "zh": "所以现在说到法庭剧，有个非常有意思的情况。"
     },
     {
       "id": 276,
@@ -1943,7 +1943,7 @@
       "start": 799.52,
       "end": 807.03,
       "en": "So if one of them is not convinced that the person is, for example, guilty, then they have to keep on deliberating.",
-      "zh": "因此，如果其中一个人不相信这个人有罪，那么他们就必须继续深思熟虑。"
+      "zh": "所以如果其中一个人不认为这个人有罪，比如说，那他们就得继续商议。"
     },
     {
       "id": 278,
@@ -1964,14 +1964,14 @@
       "start": 809.28,
       "end": 811.97,
       "en": "So basically, the jury is always alone in a room.",
-      "zh": "所以基本上，陪审团总是一个人在一个房间里。"
+      "zh": "所以基本上，陪审团总是独自待在一个房间里。"
     },
     {
       "id": 281,
       "start": 812.5,
       "end": 821.88,
       "en": "Maybe they have a guard, but they're not supposed to talk to journalists or friends of the defendant or anyone because their decision is supposed to be pure.",
-      "zh": "也许他们有警卫，但他们不应该与被告或任何人的朋友或任何人交谈，因为他们的决定应该是纯粹的。"
+      "zh": "也许他们有个警卫，但他们不能跟记者、被告的朋友或任何人交谈，因为他们的决定应当不受影响。"
     },
     {
       "id": 282,
@@ -1999,7 +1999,7 @@
       "start": 829.81,
       "end": 835.2,
       "en": "And it can be one day, two days, a week, two weeks, a month trying to decide what to do.",
-      "zh": "它可以是一天、两天、一周、两周、一个月，试图决定做什么。"
+      "zh": "可能是一天、两天、一周、两周，甚至一个月，都在商量该怎么办。"
     },
     {
       "id": 286,
@@ -2034,21 +2034,21 @@
       "start": 850.0,
       "end": 852.4,
       "en": "Well, in America, this job is called jury duty.",
-      "zh": "好吧，在美国，这份工作被称为陪审团职责。"
+      "zh": "在美国，这件事叫 jury duty（担任陪审员的义务）。"
     },
     {
       "id": 291,
       "start": 853.14,
       "end": 861.16,
       "en": "And so someone will send you a letter, and they say, listen, you need to come do jury duty and you help be a part of the jury.",
-      "zh": "所以有人会给你寄一封信，他们说，听着，你需要来履行陪审团的职责，你帮助成为陪审团的一部分。"
+      "zh": "所以会有人给你寄一封信，说：你需要来履行陪审员义务，帮忙成为陪审团的一员。"
     },
     {
       "id": 292,
       "start": 861.16,
       "end": 866.0,
       "en": "And your job, they can't make you come because this is a service for the government.",
-      "zh": "而你的工作，他们不能让你来，因为这是对政府的服务。"
+      "zh": "至于你的工作，他们不能强迫你来，因为这是为政府提供的服务。"
     },
     {
       "id": 293,
@@ -2062,14 +2062,14 @@
       "start": 868.32,
       "end": 869.32,
       "en": "It's above.",
-      "zh": "它在上面。"
+      "zh": "它是优先的。"
     },
     {
       "id": 295,
       "start": 869.32,
       "end": 870.32,
       "en": "You get your normal pay.",
-      "zh": "你得到你的正常工资。"
+      "zh": "你照常拿工资。"
     },
     {
       "id": 296,
@@ -2195,7 +2195,7 @@
       "start": 897.58,
       "end": 900.76,
       "en": "Maybe you have like in England, people wear wigs.",
-      "zh": "也许你在英国有，人们戴假发。"
+      "zh": "也许你们那儿像英国一样，人们要戴假发。"
     },
     {
       "id": 314,
@@ -2209,14 +2209,14 @@
       "start": 902.4,
       "end": 904.91,
       "en": "So let us know how it works in your countries.",
-      "zh": "所以让我们知道它在你们国家的运作方式。"
+      "zh": "所以跟我们说说，在你们国家是怎么运作的。"
     },
     {
       "id": 316,
       "start": 905.24,
       "end": 908.6,
       "en": "We'll see everyone at our website EnglishPod.com.",
-      "zh": "我们将在我们的网站 englishpod.com 上见到每个人。"
+      "zh": "我们会在网站 EnglishPod.com 上和大家见面。"
     },
     {
       "id": 317,

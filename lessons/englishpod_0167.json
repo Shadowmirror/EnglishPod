@@ -46,7 +46,7 @@
       "start": 18.68,
       "end": 23.2,
       "en": "So why don't we listen to this dialogue for the first time and we'll be back to explain it.",
-      "zh": "那么我们为什么不第一次听这个对话，我们会回来解释它。"
+      "zh": "那我们何不先听一遍这段对话，然后我们再回来讲解。"
     },
     {
       "id": 7,
@@ -74,7 +74,7 @@
       "start": 39.08,
       "end": 40.76,
       "en": "First let's go over things one more time.",
-      "zh": "首先，让我们再讨论一下。"
+      "zh": "首先，让我们再回顾一遍。"
     },
     {
       "id": 11,
@@ -116,7 +116,7 @@
       "start": 57.24,
       "end": 58.24,
       "en": "Fine.",
-      "zh": "好吧。"
+      "zh": "好。"
     },
     {
       "id": 17,
@@ -144,7 +144,7 @@
       "start": 65.6,
       "end": 68.65,
       "en": "Now, accelerate gently and let go of the clutch as you do it.",
-      "zh": "现在，轻轻地加速并在你做的时候松开离合器。"
+      "zh": "现在，轻轻加速，同时松开离合器。"
     },
     {
       "id": 21,
@@ -326,7 +326,7 @@
       "start": 112.96,
       "end": 117.28,
       "en": "First, let's check out some of these very important phrases in today's Language Takeaway.",
-      "zh": "首先，让我们看看当今语言外卖中的一些非常重要的短语。"
+      "zh": "首先，让我们看看今天语言要点中的一些非常重要的短语。"
     },
     {
       "id": 47,
@@ -347,7 +347,7 @@
       "start": 123.44,
       "end": 126.44,
       "en": "So, on Language Takeaway, we have five words for you today.",
-      "zh": "所以，关于语言外卖，我们今天有五个词给你。"
+      "zh": "所以，关于语言要点，我们今天有五个词要讲。"
     },
     {
       "id": 50,
@@ -375,14 +375,14 @@
       "start": 138.44,
       "end": 141.44,
       "en": "And so, that's called to steer, to change the direction of something.",
-      "zh": "因此，这被要求转向，改变某物的方向。"
+      "zh": "因此，这就叫 to steer，即改变某物的方向。"
     },
     {
       "id": 54,
       "start": 141.44,
       "end": 143.99,
       "en": "So, the verb to steer is to take it left or right.",
-      "zh": "所以，要引导的动词是向左或向右。"
+      "zh": "所以，动词 to steer 就是把它转向左或右。"
     },
     {
       "id": 55,
@@ -410,7 +410,7 @@
       "start": 150.71,
       "end": 158.54,
       "en": "And, well, apart from this instrument, also in order to look to other cars that are behind you, you would look at your rear view mirror.",
-      "zh": "而且，除了这个乐器之外，为了看看你身后的其他汽车，你会看看你的后视镜。"
+      "zh": "而且，除了这个装置之外，为了看看你身后的其他汽车，你会看看你的后视镜。"
     },
     {
       "id": 59,
@@ -459,7 +459,7 @@
       "start": 173.44,
       "end": 175.44,
       "en": "Rear means back or behind.",
-      "zh": "后面是指向后或后面。"
+      "zh": "Rear 的意思是后面或后方。"
     },
     {
       "id": 66,
@@ -501,7 +501,7 @@
       "start": 184.44,
       "end": 191.07,
       "en": "And, well, moving on, he was instructing her on how to drive and he said, step on the clutch.",
-      "zh": "而且，好吧，继续前进，他正在指导她如何驾驶，他说，踩下离合器。"
+      "zh": "而且，好吧，接下来，他正在指导她如何驾驶，他说，踩下离合器。"
     },
     {
       "id": 72,
@@ -515,7 +515,7 @@
       "start": 196.44,
       "end": 201.44,
       "en": "It means that you have to control the way that the gas goes into the engine by yourself.",
-      "zh": "这意味着您必须自己控制气体进入发动机的方式。"
+      "zh": "这意味着你必须自己控制燃油进入发动机的方式。"
     },
     {
       "id": 74,
@@ -529,7 +529,7 @@
       "start": 204.27,
       "end": 210.33,
       "en": "It's the third pedal on the left and you push this pedal to change gears.",
-      "zh": "这是左侧的第三个踏板，您将此踏板推向换档。"
+      "zh": "这是左侧的第三个踏板，你踩下这个踏板来换挡。"
     },
     {
       "id": 76,
@@ -543,14 +543,14 @@
       "start": 213.44,
       "end": 214.7,
       "en": "For those of you who don't, don't worry about it.",
-      "zh": "对于那些不知道的人，不要担心。"
+      "zh": "对于那些没有离合器的人，不用担心。"
     },
     {
       "id": 78,
       "start": 215.44,
       "end": 217.72,
       "en": "But if you do, a clutch is on the far left.",
-      "zh": "但如果你这样做了，离合器就在最左边。"
+      "zh": "但如果你有的话，离合器就在最左边。"
     },
     {
       "id": 79,
@@ -564,7 +564,7 @@
       "start": 219.44,
       "end": 228.44,
       "en": "Okay, so this is for a manual car, manual transmission car because many people have automatics where you just accelerate and the car automatically changes gears.",
-      "zh": "好的，所以这是适用于手动汽车，手动变速箱汽车，因为许多人都有自动加速器，您只需加速，汽车就会自动换档。"
+      "zh": "好的，所以这适用于手动挡汽车、手动变速箱汽车，因为很多人开的是自动挡，你只要加速，汽车就会自动换挡。"
     },
     {
       "id": 81,
@@ -585,7 +585,7 @@
       "start": 233.84,
       "end": 240.8,
       "en": "Okay, so you step on the clutch and in order to change gear, you say to shift into first gear.",
-      "zh": "好的，所以你踩到离合器，为了换档，你说换档。"
+      "zh": "好的，所以你踩下离合器，为了换挡，你要说 shift into first gear，也就是换到一挡。"
     },
     {
       "id": 84,
@@ -599,42 +599,42 @@
       "start": 247.93,
       "end": 253.47,
       "en": "There's four or five gears and so you have to go one, two, three, four, five.",
-      "zh": "有四五个齿轮，所以你必须去一、二、三、四、五。"
+      "zh": "有四五个挡位，所以你必须按一、二、三、四、五的顺序来。"
     },
     {
       "id": 86,
       "start": 253.53,
       "end": 254.45,
       "en": "You have to go in order.",
-      "zh": "你必须按顺序去。"
+      "zh": "你必须按顺序来。"
     },
     {
       "id": 87,
       "start": 254.75,
       "end": 255.31,
       "en": "So, we're shifting.",
-      "zh": "所以，我们正在转移。"
+      "zh": "所以，我们在换挡。"
     },
     {
       "id": 88,
       "start": 255.61,
       "end": 258.73,
       "en": "We're moving up or we're moving down.",
-      "zh": "我们正在向上移动或我们正在向下移动。"
+      "zh": "我们在升挡或降挡。"
     },
     {
       "id": 89,
       "start": 259.03,
       "end": 260.07,
       "en": "So, that's called to shift.",
-      "zh": "所以，这被要求改变。"
+      "zh": "所以，这就叫 to shift（换挡）。"
     },
     {
       "id": 90,
       "start": 260.49,
       "end": 261.21,
       "en": "All right, to shift.",
-      "zh": "好吧，转移。"
+      "zh": "好，to shift（换挡）。"
     },
     {
       "id": 91,
@@ -648,7 +648,7 @@
       "start": 265.83,
       "end": 266.44,
       "en": "So, that's what it's called.",
-      "zh": "所以，这就是它所称的。"
+      "zh": "所以，就是这么叫的。"
     },
     {
       "id": 93,
@@ -662,14 +662,14 @@
       "start": 267.44,
       "end": 270.44,
       "en": "And so, normally, the car starts in N, neutral.",
-      "zh": "因此，通常，汽车以 N 中性启动。"
+      "zh": "因此，通常汽车从 N 挡，也就是空挡启动。"
     },
     {
       "id": 95,
       "start": 270.44,
       "end": 273.44,
       "en": "That was when you're at a break, you're at a stop.",
-      "zh": "那是在你休息的时候，你停下来了。"
+      "zh": "也就是你停车、停下的时候。"
     },
     {
       "id": 96,
@@ -732,7 +732,7 @@
       "start": 297.44,
       "end": 298.88,
       "en": "Yeah, because not everyone knows how to drive manual.",
-      "zh": "是的，因为不是每个人都知道如何驾驶手动。"
+      "zh": "是的，因为不是每个人都会开手动挡。"
     },
     {
       "id": 105,
@@ -746,14 +746,14 @@
       "start": 300.44,
       "end": 304.02,
       "en": "So, why don't we listen to the dialogue again and we'll be back to explain Fluency Builder.",
-      "zh": "所以，我们为什么不再听一次对话，我们会回来解释 Fluency Builder。"
+      "zh": "所以，我们何不再听一遍这段对话，然后再回来讲解流利表达。"
     },
     {
       "id": 107,
       "start": 304.44,
       "end": 307.44,
       "en": "Fluency Builder",
-      "zh": "流利表达"
+      "zh": "流利表达。"
     },
     {
       "id": 108,
@@ -844,7 +844,7 @@
       "start": 340.47,
       "end": 343.44,
       "en": "Now, accelerate gently and let go of the clutch as you do it.",
-      "zh": "现在，轻轻地加速并在你做的时候松开离合器。"
+      "zh": "现在，轻轻加速，同时松开离合器。"
     },
     {
       "id": 121,
@@ -893,7 +893,7 @@
       "start": 350.38,
       "end": 351.5,
       "en": "Keep your eyes on the road.",
-      "zh": "把你的眼睛放在路上。"
+      "zh": "眼睛看着路。"
     },
     {
       "id": 128,
@@ -977,7 +977,7 @@
       "start": 369.16,
       "end": 370.26,
       "en": "They'll never take me alive.",
-      "zh": "他们永远不会让我活着。"
+      "zh": "他们休想活捉我。"
     },
     {
       "id": 140,
@@ -991,7 +991,7 @@
       "start": 374.65,
       "end": 378.44,
       "en": "So now, why don't we take a look at four key phrases in Fluency Builder.",
-      "zh": "那么现在，我们为什么不看看 Fluency Builder 中的四个关键短语。"
+      "zh": "那么现在，我们为什么不看看流利表达中的四个关键短语。"
     },
     {
       "id": 142,
@@ -1026,7 +1026,7 @@
       "start": 387.44,
       "end": 389.44,
       "en": "All right, so you don't say you turn on the car, right?",
-      "zh": "好吧，所以你不要说你打开车，对吧？"
+      "zh": "好吧，所以你不会说 turn on the car，对吧？"
     },
     {
       "id": 147,
@@ -1040,7 +1040,7 @@
       "start": 390.87,
       "end": 393.44,
       "en": "So you put the key in the ignition and you start the car.",
-      "zh": "所以你把钥匙放在点火装置上，然后启动汽车。"
+      "zh": "所以你把钥匙插进点火开关，然后启动汽车。"
     },
     {
       "id": 149,
@@ -1103,7 +1103,7 @@
       "start": 407.44,
       "end": 411.44,
       "en": "Moving on, our next phrase is a million times.",
-      "zh": "继续前进，我们的下一个短语是一百万次。"
+      "zh": "接下来，我们的下一个短语是 a million times。"
     },
     {
       "id": 158,
@@ -1117,7 +1117,7 @@
       "start": 413.44,
       "end": 414.44,
       "en": "It's pretty literal, right?",
-      "zh": "这很字面，对吧？"
+      "zh": "这是字面意思，对吧？"
     },
     {
       "id": 160,
@@ -1152,7 +1152,7 @@
       "start": 427.44,
       "end": 429.44,
       "en": "But you can't actually have it a million times.",
-      "zh": "但你实际上不能拥有一百万次。"
+      "zh": "但你实际上不可能真的经历一百万次。"
     },
     {
       "id": 165,
@@ -1208,7 +1208,7 @@
       "start": 441.93,
       "end": 443.57,
       "en": "I've turned the car on a million times.",
-      "zh": "我已经把车开了一百万次。"
+      "zh": "我已经启动车子一百万次了。"
     },
     {
       "id": 173,
@@ -1222,7 +1222,7 @@
       "start": 445.64,
       "end": 450.44,
       "en": "And now, well, they were driving and they heard a police siren and the guy told her to pull over.",
-      "zh": "现在，好吧，他们在开车，他们听到了警笛声，那家伙让她把车停了下来。"
+      "zh": "现在，好吧，他们在开车，他们听到了警笛声，那家伙让她靠边停车。"
     },
     {
       "id": 175,
@@ -1236,28 +1236,28 @@
       "start": 456.44,
       "end": 461.44,
       "en": "So to pull over means to slow the car down and to stop it on the side of the road.",
-      "zh": "所以停车意味着减慢汽车的速度并停在路边。"
+      "zh": "所以 pull over 的意思是降低车速，把车停在路边。"
     },
     {
       "id": 177,
       "start": 462.48,
       "end": 466.07,
       "en": "So you could hear a policeman say, pull over.",
-      "zh": "所以你可以听到警察说，停下来。"
+      "zh": "所以你会听到警察说，pull over（靠边停车）。"
     },
     {
       "id": 178,
       "start": 466.71,
       "end": 468.09,
       "en": "So pull over your car.",
-      "zh": "所以把你的车拉过来。"
+      "zh": "所以 pull over your car 就是把你的车靠边停下。"
     },
     {
       "id": 179,
       "start": 468.27,
       "end": 470.41,
       "en": "That means slow down and stop the car on the side.",
-      "zh": "这意味着减速并停在侧面的汽车。"
+      "zh": "这意味着减速，把车停在路边。"
     },
     {
       "id": 180,
@@ -1285,7 +1285,7 @@
       "start": 475.77,
       "end": 479.44,
       "en": "And you don't have a hands-free, so you have to pull over to the side so you can pick up the phone.",
-      "zh": "而且你没有免提，所以你必须把手拉到一边，这样你才能拿起电话。"
+      "zh": "而且你没有免提，所以你必须把车靠边停下，这样才能接电话。"
     },
     {
       "id": 184,
@@ -1306,7 +1306,7 @@
       "start": 481.44,
       "end": 482.44,
       "en": "Or you could say, hey, mom, could you pull over?",
-      "zh": "或者你可以说，嘿，妈妈，你能拉过来吗？"
+      "zh": "或者你可以说，嘿，妈妈，你能靠边停一下吗？"
     },
     {
       "id": 187,
@@ -1341,14 +1341,14 @@
       "start": 485.95,
       "end": 490.55,
       "en": "And our last phrase for today is to take me alive, to take someone alive.",
-      "zh": "我们今天的最后一句话是让我活着，让某人活着。"
+      "zh": "我们今天的最后一个短语是 to take me alive，也就是活捉某人。"
     },
     {
       "id": 192,
       "start": 490.92,
       "end": 492.38,
       "en": "They'll never take me alive.",
-      "zh": "他们永远不会让我活着。"
+      "zh": "他们休想活捉我。"
     },
     {
       "id": 193,
@@ -1383,7 +1383,7 @@
       "start": 506.44,
       "end": 509.44,
       "en": "So he's saying either I run free or I die.",
-      "zh": "所以他说我要么自由奔跑，要么我死。"
+      "zh": "所以他的意思是，要么我逍遥法外，要么我就去死。"
     },
     {
       "id": 198,
@@ -1397,14 +1397,14 @@
       "start": 510.44,
       "end": 512.72,
       "en": "So to take someone alive is basically that.",
-      "zh": "所以让某人活着基本上就是这样。"
+      "zh": "所以 to take someone alive 基本上就是这个意思。"
     },
     {
       "id": 200,
       "start": 513.44,
       "end": 513.7,
       "en": "But is it literal?",
-      "zh": "但它是字面的吗？"
+      "zh": "但这是字面意思吗？"
     },
     {
       "id": 201,
@@ -1460,7 +1460,7 @@
       "start": 522.44,
       "end": 524.44,
       "en": "Why don't we listen to this dialogue for the last time.",
-      "zh": "我们为什么不最后一次听这个对话。"
+      "zh": "我们最后再听一遍这段对话吧。"
     },
     {
       "id": 209,
@@ -1544,7 +1544,7 @@
       "start": 558.66,
       "end": 559.02,
       "en": "Fine.",
-      "zh": "好吧。"
+      "zh": "好。"
     },
     {
       "id": 221,
@@ -1579,7 +1579,7 @@
       "start": 567.23,
       "end": 570.39,
       "en": "Now accelerate gently and let go of the clutch as you do it.",
-      "zh": "现在轻轻加速并在您执行时松开离合器。"
+      "zh": "现在轻轻加速，同时松开离合器。"
     },
     {
       "id": 226,
@@ -1628,7 +1628,7 @@
       "start": 577.27,
       "end": 578.27,
       "en": "Keep your eyes on the road.",
-      "zh": "把你的眼睛放在路上。"
+      "zh": "眼睛看着路。"
     },
     {
       "id": 233,
@@ -1712,7 +1712,7 @@
       "start": 596.0,
       "end": 596.96,
       "en": "They'll never take me alive.",
-      "zh": "他们永远不会让我活着。"
+      "zh": "他们休想活捉我。"
     },
     {
       "id": 245,
@@ -1761,7 +1761,7 @@
       "start": 622.44,
       "end": 626.69,
       "en": "I think a lot of American car makers manufacture more automatic cars in general.",
-      "zh": "我认为许多美国汽车制造商一般生产更多的自动汽车。"
+      "zh": "我认为许多美国汽车制造商一般生产更多自动挡汽车。"
     },
     {
       "id": 252,
@@ -1796,14 +1796,14 @@
       "start": 659.96,
       "end": 671.28,
       "en": "Well, and I personally think that it's better to learn how to drive on a manual transmission car because you can drive any car afterwards, but if you learn on an automatic, you'll never know how to drive a manual.",
-      "zh": "好吧，我个人认为最好学习如何驾驶手动变速箱汽车，因为您可以驾驶任何汽车，但如果您学习自动驾驶汽车，您将永远不知道如何驾驶手动变速箱。"
+      "zh": "好吧，我个人认为最好在手动挡汽车上学会开车，因为这样之后你什么车都能开，但如果你学的是自动挡，你就永远不会开手动挡。"
     },
     {
       "id": 257,
       "start": 671.94,
       "end": 683.44,
       "en": "There was also a case on television recently about a small child that actually the dialogue is based on it, is he took his dad's car and he was like seven years old and he was driving and was being chased by the police.",
-      "zh": "最近电视上也有一个案例，一个小孩实际上是基于它的，是他拿了他父亲的车，他就像七岁，他在开车，被警察追赶。"
+      "zh": "最近电视上还有一个案例，其实这段对话就是根据它改编的：一个小孩拿了他爸爸的车，他才七岁左右，一边开车一边被警察追。"
     },
     {
       "id": 258,
@@ -1845,7 +1845,7 @@
       "start": 697.44,
       "end": 703.44,
       "en": "And basically almost learned it by game simulators, by video games on how you drive on a video game.",
-      "zh": "基本上几乎是通过游戏模拟器、视频游戏了解您如何驾驶视频游戏的。"
+      "zh": "基本上他几乎是通过游戏模拟器、通过电子游戏学会的，就像在游戏里开车一样。"
     },
     {
       "id": 264,

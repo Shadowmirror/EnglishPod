@@ -18,14 +18,14 @@
       "start": 3.66,
       "end": 5.98,
       "en": "We are here at EnglishPod. I am joined with Erica.",
-      "zh": "我们在 Englishpod。 我加入了埃里卡。"
+      "zh": "我们在 EnglishPod。和我一起的是 Erica。"
     },
     {
       "id": 3,
       "start": 6.66,
       "end": 9.18,
       "en": "And my partner in crime, Marco.",
-      "zh": "和我的犯罪伙伴马可。"
+      "zh": "还有我的老搭档，Marco。"
     },
     {
       "id": 4,
@@ -60,7 +60,7 @@
       "start": 24.12,
       "end": 27.96,
       "en": "Yes, and it's also not very strong like a vodka or whiskey.",
-      "zh": "是的，它也不像伏特加或威士忌那样浓郁。"
+      "zh": "是的，它也不像伏特加或威士忌那么烈。"
     },
     {
       "id": 9,
@@ -165,7 +165,7 @@
       "start": 95.37,
       "end": 102.41,
       "en": "Yes, well, it happens sometimes you go to these very exclusive bars and they charge you like if it was gold.",
-      "zh": "是的，好吧，有时你会去这些非常独特的酒吧，如果它是黄金，它们会向你收费。"
+      "zh": "是的，有时候你去这种高档酒吧，他们收费就像在卖黄金一样。"
     },
     {
       "id": 24,
@@ -179,35 +179,35 @@
       "start": 104.57,
       "end": 109.35,
       "en": "Well, let's take a look at some of these great words that we saw in Language Takeaway.",
-      "zh": "好吧，让我们来看看我们在《语言外卖》中看到的一些很棒的词。"
+      "zh": "好吧，让我们来看看我们在《语言要点》中看到的一些很棒的词。"
     },
     {
       "id": 26,
       "start": 114.0,
       "end": 116.0,
       "en": "Our first word is on tap.",
-      "zh": "我们的第一个词是可行的。"
+      "zh": "我们的第一个词是 on tap。"
     },
     {
       "id": 27,
       "start": 116.0,
       "end": 116.3,
       "en": "On tap.",
-      "zh": "水龙头。"
+      "zh": "生啤（龙头现打）。"
     },
     {
       "id": 28,
       "start": 118.2,
       "end": 118.86,
       "en": "On tap.",
-      "zh": "水龙头。"
+      "zh": "生啤（龙头现打）。"
     },
     {
       "id": 29,
       "start": 119.32,
       "end": 121.98,
       "en": "So he asked, what do you have on tap?",
-      "zh": "所以他问，你有什么现成的？"
+      "zh": "所以他问，你们有什么生啤？"
     },
     {
       "id": 30,
@@ -305,7 +305,7 @@
       "start": 153.34,
       "end": 154.0,
       "en": "What do you have on tap?",
-      "zh": "你有什么可点击的？"
+      "zh": "你们有什么生啤？"
     },
     {
       "id": 44,
@@ -396,7 +396,7 @@
       "start": 193.68,
       "end": 198.67,
       "en": "So, this is a noun and what does it mean when a restaurant or a bar has a special?",
-      "zh": "那么，这是一个名词，餐厅或酒吧有特殊的意思是什么意思？"
+      "zh": "那么，这是个名词，当餐厅或酒吧有 special 时是什么意思？"
     },
     {
       "id": 57,
@@ -424,14 +424,14 @@
       "start": 203.0,
       "end": 207.0,
       "en": "So, it could be, for example, a Monday night special.",
-      "zh": "因此，例如，它可能是周一晚上的特别节目。"
+      "zh": "所以，比如可能是周一晚上的特惠。"
     },
     {
       "id": 61,
       "start": 207.0,
       "end": 210.17,
       "en": "Or like in the dialogue, a happy hour special.",
-      "zh": "或者就像在对话中一样，一个欢乐时光特别节目。"
+      "zh": "或者像对话里的欢乐时光特惠。"
     },
     {
       "id": 62,
@@ -550,7 +550,7 @@
       "start": 254.9,
       "end": 257.6,
       "en": "So, let's take a look at our next word on Language Takeaway.",
-      "zh": "所以，让我们来看看我们关于语言外卖的下一个词。"
+      "zh": "所以，让我们来看看我们关于语言要点的下一个词。"
     },
     {
       "id": 79,
@@ -690,7 +690,7 @@
       "start": 311.59,
       "end": 316.74,
       "en": "Mozzarella sticks, a travesty on the world and humanity and everyone's arteries.",
-      "zh": "马苏里拉奶酪棒，对世界和人性和每个人的动脉的讽刺。"
+      "zh": "马苏里拉奶酪棒，简直是对世界、对人类、对所有人动脉的糟蹋。"
     },
     {
       "id": 99,
@@ -704,14 +704,14 @@
       "start": 320.62,
       "end": 325.0,
       "en": "Mozzarella cheese and this cheese is, what is it, how is it prepared?",
-      "zh": "马苏里拉奶酪和这种奶酪是什么，它是如何准备的？"
+      "zh": "马苏里拉是一种奶酪。这种奶酪是什么，怎么做的？"
     },
     {
       "id": 101,
       "start": 325.64,
       "end": 331.0,
       "en": "You put it in some bread crumbs and then you fry it in oil. You deep fry it.",
-      "zh": "你把它放在一些面包屑里，然后用油煎。 你炸它。"
+      "zh": "你把它裹上面包屑，然后用油炸。是深炸的。"
     },
     {
       "id": 102,
@@ -732,7 +732,7 @@
       "start": 333.76,
       "end": 334.0,
       "en": "Why? They are so good.",
-      "zh": "为什么？ 他们太好了。"
+      "zh": "为什么？它们太好吃了。"
     },
     {
       "id": 105,
@@ -753,7 +753,7 @@
       "start": 339.0,
       "end": 342.0,
       "en": "Marco, there are so many reasons why this is wrong.",
-      "zh": "马可，这是错误的原因有很多。"
+      "zh": "Marco，这东西不对的理由太多了。"
     },
     {
       "id": 108,
@@ -788,7 +788,7 @@
       "start": 369.44,
       "end": 370.94,
       "en": "We have a two for one happy hour special.",
-      "zh": "我们有一个两人一的欢乐时光特别节目。"
+      "zh": "我们有欢乐时光买一送一的特惠。"
     },
     {
       "id": 113,
@@ -809,7 +809,7 @@
       "start": 376.2,
       "end": 378.46,
       "en": "Pint of Heineken, half pint of Bud for table six.",
-      "zh": "喜力品脱品脱，表六的半品脱芽。"
+      "zh": "六号桌：一品脱喜力，半品脱百威。"
     },
     {
       "id": 116,
@@ -844,7 +844,7 @@
       "start": 387.64,
       "end": 388.3,
       "en": "That'll be 80 bucks.",
-      "zh": "那将是80美元。"
+      "zh": "一共 80 美元。"
     },
     {
       "id": 121,
@@ -858,7 +858,7 @@
       "start": 390.0,
       "end": 400.0,
       "en": "Okay, so we saw some really good vocabulary words there and now let's take a look at putting it together.",
-      "zh": "好的，所以我们在那里看到了一些非常好的词汇单词，现在让我们来看看将其组合在一起。"
+      "zh": "好的，我们在这里看到了一些非常好的词汇，现在来看看综合运用部分。"
     },
     {
       "id": 123,
@@ -907,7 +907,7 @@
       "start": 422.38,
       "end": 425.48,
       "en": "Okay, so this phrase, what about?",
-      "zh": "好吧，那么这句话，呢？"
+      "zh": "好吧，那么就是 what about 这个短语？"
     },
     {
       "id": 130,
@@ -977,7 +977,7 @@
       "start": 461.15,
       "end": 465.39,
       "en": "Yes, the phrase, what about, can be used to make a suggestion.",
-      "zh": "是的，这句话，怎么样，可以用来提出建议。"
+      "zh": "是的，what about 这个短语可以用来提出建议。"
     },
     {
       "id": 140,
@@ -1012,7 +1012,7 @@
       "start": 480.33,
       "end": 482.15,
       "en": "You said you would wash them days ago.",
-      "zh": "你说你会在几天前洗它们。"
+      "zh": "你几天前就说要洗的。"
     },
     {
       "id": 145,
@@ -1047,21 +1047,21 @@
       "start": 495.0,
       "end": 498.0,
       "en": "What about a pizza instead of noodles?",
-      "zh": "比萨饼而不是面条呢？"
+      "zh": "不吃面条，改吃披萨怎么样？"
     },
     {
       "id": 150,
       "start": 498.0,
       "end": 504.0,
       "en": "Alright, so really good examples, and the same thing we can apply to how about.",
-      "zh": "好吧，非常好的例子，我们可以应用到同样的事情。"
+      "zh": "好的，很好的例子，同样的规则也适用于 how about。"
     },
     {
       "id": 151,
       "start": 504.0,
       "end": 507.46,
       "en": "Exactly, so again, how about cannot ask for information.",
-      "zh": "确切地说，再一次，不能索取信息怎么样。"
+      "zh": "没错，同样，how about 也不能用来询问信息。"
     },
     {
       "id": 152,
@@ -1110,7 +1110,7 @@
       "start": 530.55,
       "end": 531.93,
       "en": "We have a two for one happy hour special.",
-      "zh": "我们有一个两人一的欢乐时光特别节目。"
+      "zh": "我们有欢乐时光买一送一的特惠。"
     },
     {
       "id": 159,
@@ -1131,7 +1131,7 @@
       "start": 537.16,
       "end": 539.44,
       "en": "Pint of Heineken, half pint of Bud for table six.",
-      "zh": "喜力品脱品脱，表六的半品脱芽。"
+      "zh": "六号桌：一品脱喜力，半品脱百威。"
     },
     {
       "id": 162,
@@ -1166,7 +1166,7 @@
       "start": 556.08,
       "end": 563.12,
       "en": "Well Marco, I know you're a big fan of beer, and actually I think everyone here at Praxis is a big beer drinker.",
-      "zh": "好吧，Marco，我知道你是啤酒的忠实粉丝，实际上我认为 Praxis 的每个人都是一个大啤酒饮用者。"
+      "zh": "好吧，Marco，我知道你是啤酒的忠实粉丝，其实我觉得 Praxis 这里的每个人都很能喝啤酒。"
     },
     {
       "id": 167,
@@ -1194,7 +1194,7 @@
       "start": 575.0,
       "end": 580.0,
       "en": "Alright, so everyone that listens to this recipe is a non-believer.",
-      "zh": "好吧，所以每个听这个食谱的人都是非信徒。"
+      "zh": "好吧，每个听到这个配方的人一开始都不信。"
     },
     {
       "id": 171,
@@ -1222,7 +1222,7 @@
       "start": 587.0,
       "end": 590.0,
       "en": "You take a liter of beer, or maybe half a liter.",
-      "zh": "你喝一升啤酒，或者半升。"
+      "zh": "取一升啤酒，或者半升。"
     },
     {
       "id": 175,
@@ -1271,7 +1271,7 @@
       "start": 599.48,
       "end": 601.34,
       "en": "Okay, not cooked, not boiled, anything.",
-      "zh": "好吧，没有煮熟，不煮，任何东西。"
+      "zh": "好的，不要煮熟的，不用煮，生的就行。"
     },
     {
       "id": 182,
@@ -1320,7 +1320,7 @@
       "start": 616.51,
       "end": 618.87,
       "en": "So a beer milkshake.",
-      "zh": "所以喝啤酒奶昔。"
+      "zh": "所以是一种啤酒奶昔。"
     },
     {
       "id": 189,
@@ -1341,7 +1341,7 @@
       "start": 623.23,
       "end": 627.35,
       "en": "I've prepared it for some people who are like, no, that's not possible, it can't taste good.",
-      "zh": "我已经为一些人准备了它，不，那是不可能的，它的味道不好。"
+      "zh": "我给一些人做过，他们一开始都说：不，这不可能，肯定不好喝。"
     },
     {
       "id": 192,
@@ -1362,14 +1362,14 @@
       "start": 633.23,
       "end": 637.73,
       "en": "It's actually really common in Ecuador, in Peru.",
-      "zh": "它实际上在秘鲁厄瓜多尔很常见。"
+      "zh": "它在厄瓜多尔、秘鲁其实很常见。"
     },
     {
       "id": 195,
       "start": 638.09,
       "end": 640.85,
       "en": "I've even seen it in Chile, usually with a dark beer.",
-      "zh": "我什至在智利见过，通常是黑啤酒。"
+      "zh": "我甚至在智利见过，通常是黑啤酒。"
     },
     {
       "id": 196,
@@ -1390,14 +1390,14 @@
       "start": 643.0,
       "end": 644.0,
       "en": "So like a Guinness or?",
-      "zh": "就像吉尼斯人一样？"
+      "zh": "就像用吉尼斯黑啤之类的？"
     },
     {
       "id": 199,
       "start": 644.21,
       "end": 644.91,
       "en": "It could be a Guinness.",
-      "zh": "它可能是吉尼斯人。"
+      "zh": "可以用吉尼斯黑啤。"
     },
     {
       "id": 200,
@@ -1411,7 +1411,7 @@
       "start": 650.67,
       "end": 659.73,
       "en": "But if you have another beer like a lager or a stout, you could still do it, but just add a little bit more sugar because that beer is a little bit more bitter.",
-      "zh": "但是如果你有另一种啤酒，比如啤酒或黑啤酒，你仍然可以做到，但只需多加一点糖，因为那啤酒有点苦。"
+      "zh": "但如果你用拉格或世涛之类的其他啤酒，也照样能做，只是要多加一点糖，因为那种啤酒更苦一点。"
     },
     {
       "id": 202,
@@ -1425,7 +1425,7 @@
       "start": 660.89,
       "end": 665.05,
       "en": "Well, I am not going to try this recipe, but maybe you guys are.",
-      "zh": "好吧，我不会尝试这个食谱，但也许你们是。"
+      "zh": "好吧，我不会试这个配方，但也许你们会试试。"
     },
     {
       "id": 204,
@@ -1439,7 +1439,7 @@
       "start": 665.77,
       "end": 668.05,
       "en": "Try it out and let me know how it works.",
-      "zh": "试一试，让我知道它是如何工作的。"
+      "zh": "试一试，然后告诉我效果如何。"
     },
     {
       "id": 206,

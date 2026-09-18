@@ -25,14 +25,14 @@
       "start": 6.36,
       "end": 10.82,
       "en": "My name is Catherine and today we've got another lesson all about food and eating.",
-      "zh": "我的名字是凯瑟琳，今天我们有另一个关于食物和饮食的教训。"
+      "zh": "我叫凯瑟琳，今天我们有另一节课，全都是关于食物和饮食的。"
     },
     {
       "id": 4,
       "start": 11.4,
       "end": 14.42,
       "en": "So today we're going to talk about all the tools that we use when we're at the table.",
-      "zh": "所以今天我们将讨论我们在谈判桌时使用的所有工具。"
+      "zh": "所以今天我们要聊我们在餐桌旁会用到的所有餐具。"
     },
     {
       "id": 5,
@@ -67,7 +67,7 @@
       "start": 32.2,
       "end": 33.2,
       "en": "Well, I'm sure.",
-      "zh": "嗯，我确定。"
+      "zh": "嗯，当然。"
     },
     {
       "id": 10,
@@ -179,7 +179,7 @@
       "start": 72.62,
       "end": 75.59,
       "en": "So now let's take a look at a couple of words in language takeaway.",
-      "zh": "所以现在让我们来看看语言外卖中的几个单词。"
+      "zh": "所以现在让我们来看看语言要点中的几个单词。"
     },
     {
       "id": 26,
@@ -242,7 +242,7 @@
       "start": 95.77,
       "end": 98.59,
       "en": "You could have wooden silverware or other metals.",
-      "zh": "你可以有木制银器或其他金属。"
+      "zh": "也可能是木制的，或者其他金属做的。"
     },
     {
       "id": 35,
@@ -270,7 +270,7 @@
       "start": 112.0,
       "end": 115.94,
       "en": "So for example, a fork is a part of a silverware.",
-      "zh": "例如，叉子是银器的一部分。"
+      "zh": "例如，叉子就是银器中的一种。"
     },
     {
       "id": 39,
@@ -305,7 +305,7 @@
       "start": 128.12,
       "end": 133.77,
       "en": "Now the one that we use to have dessert or to have soup with, we call that a spoon.",
-      "zh": "现在我们用来吃甜点或喝汤的一种，我们称之为勺子。"
+      "zh": "而我们用来吃甜点或喝汤的那种，我们叫它勺子。"
     },
     {
       "id": 44,
@@ -333,7 +333,7 @@
       "start": 142.09,
       "end": 148.25,
       "en": "Okay, so in the dialogue we saw the plural form, knives, but singular it would be knife.",
-      "zh": "好吧，所以在对话中，我们看到了复数形式，刀，但单数它将是刀。"
+      "zh": "好的，所以在对话中我们看到的是复数形式 knives，单数则是 knife。"
     },
     {
       "id": 48,
@@ -354,7 +354,7 @@
       "start": 152.85,
       "end": 156.53,
       "en": "For example, steak is very hard to cut because it's a tough meat.",
-      "zh": "例如，牛排很难切，因为它是一种坚硬的肉。"
+      "zh": "例如，牛排很难切，因为它的肉比较韧。"
     },
     {
       "id": 51,
@@ -424,14 +424,14 @@
       "start": 184.6,
       "end": 189.82,
       "en": "We saw them in the dialogue that we need to put out the pepper and salt shakers.",
-      "zh": "我们在对话中看到了他们需要把胡椒和盐瓶倒出来。"
+      "zh": "我们在对话里看到，要摆出胡椒瓶和盐瓶。"
     },
     {
       "id": 61,
       "start": 190.12,
       "end": 193.08,
       "en": "So the little thing where you keep the salt is called a shaker.",
-      "zh": "所以你保存盐的小东西被称为摇床。"
+      "zh": "所以你装盐的那个小瓶子叫 shaker（撒盐瓶）。"
     },
     {
       "id": 62,
@@ -459,14 +459,14 @@
       "start": 202.68,
       "end": 207.28,
       "en": "So usually it's only salt and pepper that we keep in these things, in these little shakers.",
-      "zh": "所以通常我们把这些东西放在这些小摇床里只有盐和胡椒粉。"
+      "zh": "所以通常我们只把盐和胡椒装在这些小调味瓶里。"
     },
     {
       "id": 66,
       "start": 207.28,
       "end": 215.87,
       "en": "But apart from salt and pepper shakers and all the silverware we're putting out, we're also putting out some saucers because we're going to have coffee later on.",
-      "zh": "但除了盐和胡椒瓶和我们推出的所有银器外，我们还推出了一些碟子，因为我们稍后会喝咖啡。"
+      "zh": "但除了盐和胡椒瓶以及我们摆出来的所有银器，我们还摆出了一些碟子，因为稍后要喝咖啡。"
     },
     {
       "id": 67,
@@ -536,7 +536,7 @@
       "start": 249.8,
       "end": 256.32,
       "en": "Okay, so you might want to say cupboard because it's cup, C-U-P-B-O-A-R-D.",
-      "zh": "好的，所以你可能想说橱柜，因为它是杯子，C-U-P-B-O-A-R-D。"
+      "zh": "好的，所以你可能想把它读成 cup-board，因为它是 cup 加 board，C-U-P-B-O-A-R-D。"
     },
     {
       "id": 77,
@@ -550,35 +550,35 @@
       "start": 257.36,
       "end": 259.14,
       "en": "The word is pronounced cupboard.",
-      "zh": "这个词是发音的橱柜。"
+      "zh": "这个词读作 cupboard。"
     },
     {
       "id": 79,
       "start": 259.4,
       "end": 266.84,
       "en": "Okay, so even though it may seem like you should pronounce cupboard, the correct pronunciation is cupboard.",
-      "zh": "好的，即使看起来你应该发音橱柜，正确的发音是橱柜。"
+      "zh": "好的，虽然看起来好像应该读成 cup-board，但正确的读法是 cupboard。"
     },
     {
       "id": 80,
       "start": 266.84,
       "end": 267.84,
       "en": "Cupboard.",
-      "zh": "橱柜。"
+      "zh": "Cupboard（橱柜）。"
     },
     {
       "id": 81,
       "start": 267.84,
       "end": 268.84,
       "en": "Cupboard.",
-      "zh": "橱柜。"
+      "zh": "Cupboard（橱柜）。"
     },
     {
       "id": 82,
       "start": 268.84,
       "end": 278.05,
       "en": "And a cupboard, like you said, is usually in the dining room or the kitchen because it houses, it keeps all of our plates and bowls and sometimes our silverware.",
-      "zh": "就像你说的那样，橱柜通常放在餐厅或厨房里，因为它有，它可以存放我们所有的盘子和碗，有时还有我们的银器。"
+      "zh": "就像你说的，橱柜通常放在餐厅或厨房里，因为它用来收纳我们所有的盘子和碗，有时还有银器。"
     },
     {
       "id": 83,
@@ -592,28 +592,28 @@
       "start": 279.84,
       "end": 282.85,
       "en": "Okay, so actually in the cupboard we also have some other things, dishes.",
-      "zh": "好吧，所以实际上在橱柜里我们还有一些其他的东西，菜肴。"
+      "zh": "其实橱柜里还有一些别的东西——盘子。"
     },
     {
       "id": 85,
       "start": 284.24,
       "end": 286.37,
       "en": "Specifically we have a gravy boat in there.",
-      "zh": "具体来说，我们在那里有一艘肉汁船。"
+      "zh": "具体来说，里面有一个酱汁壶（gravy boat）。"
     },
     {
       "id": 86,
       "start": 286.65,
       "end": 292.57,
       "en": "Okay, so I'm not even sure why they call it a boat, but a gravy boat is basically a special dish.",
-      "zh": "好吧，所以我什至不确定他们为什么称它为船，但肉汁船基本上是一种特殊的菜肴。"
+      "zh": "好吧，我甚至不确定他们为什么叫它船，但酱汁壶基本上是一种特别的器皿。"
     },
     {
       "id": 87,
       "start": 293.55,
       "end": 299.09,
       "en": "It's like a tall bowl with a spout so you can pour it that keeps gravy.",
-      "zh": "它就像一个高大的碗，你可以把它倒出来，保持肉汁。"
+      "zh": "它像一个带壶嘴的高碗，有壶嘴方便你倒，是用来盛肉汁的。"
     },
     {
       "id": 88,
@@ -669,7 +669,7 @@
       "start": 313.84,
       "end": 323.11,
       "en": "We can also find serving dishes, which are basically big plates or bowls that we use when we're having dinner at the dinner table to keep, for example, a turkey or a roast.",
-      "zh": "我们还可以找到上菜，这些菜肴基本上是我们在餐桌上吃晚餐时使用的大盘子或碗，例如火鸡或烤肉。"
+      "zh": "我们还能找到盛菜盘，基本上就是我们在餐桌上吃饭时用来盛东西的大盘子或大碗，比如用来盛火鸡或烤肉。"
     },
     {
       "id": 96,
@@ -683,7 +683,7 @@
       "start": 328.15,
       "end": 335.03,
       "en": "Well, maybe we weren't looking for them, but they found us because the person getting stuff out of the cupboard dropped some wine glasses.",
-      "zh": "好吧，也许我们不是在找他们，但他们找到了我们，因为从橱柜里拿东西的人掉了一些酒杯。"
+      "zh": "好吧，也许我们不是在找它们，倒是它们找上了我们，因为从橱柜里拿东西的人打碎了几只酒杯。"
     },
     {
       "id": 98,
@@ -697,7 +697,7 @@
       "start": 337.36,
       "end": 344.14,
       "en": "Wine glasses are basically just glasses that maybe are tall and you drink wine out of them.",
-      "zh": "酒杯基本上只是可能很高的杯子，你喝了它们。"
+      "zh": "酒杯基本上就是那种可能比较高、用来喝葡萄酒的杯子。"
     },
     {
       "id": 100,
@@ -718,7 +718,7 @@
       "start": 348.96,
       "end": 355.44,
       "en": "So wine glasses, I guess a normal glass that you use to drink maybe juice or water is just called a glass.",
-      "zh": "所以酒杯，我猜你用来喝的普通杯可能是果汁或水，只是称为一杯。"
+      "zh": "所以酒杯——我猜你用来喝果汁或水的普通杯子，就直接叫 glass。"
     },
     {
       "id": 103,
@@ -802,7 +802,7 @@
       "start": 384.56,
       "end": 386.96,
       "en": "So set an extra place mat just in case.",
-      "zh": "所以设置一个额外的位置垫以防万一。"
+      "zh": "所以多摆一个餐垫，以防万一。"
     },
     {
       "id": 115,
@@ -893,7 +893,7 @@
       "start": 414.06,
       "end": 418.5,
       "en": "So now we have four key phrases that we've prepared for you on Fluency Builder.",
-      "zh": "所以现在我们有四个关键短语，我们已经为您准备了关于 Fluency Builder 的关键短语。"
+      "zh": "现在我们有四个关键短语，都是在流利表达上为你准备的。"
     },
     {
       "id": 128,
@@ -928,7 +928,7 @@
       "start": 428.6,
       "end": 430.17,
       "en": "The phrase is to set the table.",
-      "zh": "短语是设置表格。"
+      "zh": "这个短语是 set the table（摆好餐桌）。"
     },
     {
       "id": 133,
@@ -942,21 +942,21 @@
       "start": 431.01,
       "end": 434.75,
       "en": "So that's a phrasal verb, to set the table.",
-      "zh": "所以这是一个短语动词，设置表格。"
+      "zh": "所以 set the table 是一个短语动词。"
     },
     {
       "id": 135,
       "start": 434.95,
       "end": 437.79,
       "en": "And what does it mean if you're asked to set the table?",
-      "zh": "如果您被要求设置表格是什么意思？"
+      "zh": "如果有人让你 set the table，那是什么意思？"
     },
     {
       "id": 136,
       "start": 438.07,
       "end": 443.15,
       "en": "It means you will put down the plates and the silverware and the bowls so that everything is prepared for dinner.",
-      "zh": "这意味着您将放下盘子、银器和碗，以便一切都准备好晚餐。"
+      "zh": "意思是你要摆好盘子、刀叉和碗，把晚餐的一切都准备好。"
     },
     {
       "id": 137,
@@ -970,7 +970,7 @@
       "start": 444.3,
       "end": 449.54,
       "en": "So this is actually what we were doing and a complementary phrasal verb to this.",
-      "zh": "所以这实际上是我们正在做的事情，也是对此的补充短语动词。"
+      "zh": "所以这其实就是我们刚才在做的事，还有一个与之对应的短语动词。"
     },
     {
       "id": 139,
@@ -991,14 +991,14 @@
       "start": 459.18,
       "end": 466.52,
       "en": "So the verbal phrase to put out means to place down or to make sure that you get something out on the table.",
-      "zh": "因此，口头短语意味着放下或确保您摆脱困境。"
+      "zh": "所以短语动词 put out 的意思是放下，或者确保把某个东西摆到桌上。"
     },
     {
       "id": 142,
       "start": 467.04,
       "end": 471.8,
       "en": "In this case, my mother would usually ask me to put out extra glasses for water.",
-      "zh": "在这种情况下，我妈妈通常会要求我多放一杯水。"
+      "zh": "在我的情况下，我妈妈通常会让我多摆几个喝水的杯子。"
     },
     {
       "id": 143,
@@ -1061,7 +1061,7 @@
       "start": 487.88,
       "end": 502.44,
       "en": "And sometimes we may have a guest or we may need an extra chair or an extra seat because we are having company and the person in dialogue said to set an extra placemat just in case.",
-      "zh": "有时我们可能有客人，或者我们可能需要额外的椅子或额外的座位，因为我们有陪伴，对话中的人说要设置一个额外的餐垫以防万一。"
+      "zh": "有时我们会有客人，或者需要多一把椅子、多一个座位，因为有人要来，对话里的人就说要多摆一个餐垫以防万一。"
     },
     {
       "id": 152,
@@ -1075,7 +1075,7 @@
       "start": 503.37,
       "end": 510.77,
       "en": "So placemat is basically a piece of plastic or maybe fabric that you put in front of a person when they're at the table.",
-      "zh": "所以餐垫基本上是一块塑料，或者可能是你放在一个人面前时放在他们面前的人。"
+      "zh": "所以餐垫基本上就是一块塑料或布，在有人坐到餐桌前时放在他面前。"
     },
     {
       "id": 154,
@@ -1096,7 +1096,7 @@
       "start": 516.19,
       "end": 520.19,
       "en": "Everyone has one and the bowl and the silverware will go on top of that placemat.",
-      "zh": "每个人都有一个和碗，银器将放在那个餐垫上。"
+      "zh": "每个人都有一个，碗和刀叉就放在餐垫上面。"
     },
     {
       "id": 157,
@@ -1117,7 +1117,7 @@
       "start": 523.89,
       "end": 531.51,
       "en": "So to set out or to set out an extra placemat means to prepare an extra place for someone else who will be coming.",
-      "zh": "因此，出发或设置一个额外的餐垫意味着为即将到来的其他人准备一个额外的地方。"
+      "zh": "所以 set out，或者说 set out an extra placemat，意思是为即将到来的另一个人多准备一个位置。"
     },
     {
       "id": 160,
@@ -1138,7 +1138,7 @@
       "start": 536.49,
       "end": 547.49,
       "en": "So we can say set an extra placemat because this is by this we are referring that somebody is going to sit down at the table or you can just simply say set an extra place for someone.",
-      "zh": "所以我们可以说设置一个额外的餐垫，因为这是我们指的是有人将坐在桌子旁，或者你可以简单地说为某人设置一个额外的位置。"
+      "zh": "所以我们可以说 set an extra placemat，意思就是有人要坐到餐桌旁，或者你也可以简单地说 set an extra place for someone。"
     },
     {
       "id": 163,
@@ -1152,7 +1152,7 @@
       "start": 548.41,
       "end": 548.99,
       "en": "Set an extra place.",
-      "zh": "设置一个额外的地方。"
+      "zh": "多摆一个位置。"
     },
     {
       "id": 165,
@@ -1180,7 +1180,7 @@
       "start": 554.84,
       "end": 558.82,
       "en": "And well, in this case, we didn't know if the brother was really coming or not.",
-      "zh": "好吧，在这种情况下，我们不知道兄弟是否真的来了。"
+      "zh": "好吧，在这种情况下，我们不知道哥哥到底会不会来。"
     },
     {
       "id": 169,
@@ -1201,7 +1201,7 @@
       "start": 564.84,
       "end": 568.24,
       "en": "It means I'm not sure what the result will be or what the outcome will be.",
-      "zh": "这意味着我不确定结果会是什么或结果会是什么。"
+      "zh": "意思是我不确定结果会怎样，会有什么样的结果。"
     },
     {
       "id": 172,
@@ -1236,7 +1236,7 @@
       "start": 578.33,
       "end": 581.77,
       "en": "So this is a way of saying you're preventing something.",
-      "zh": "所以这是一种说你正在阻止某事的方式。"
+      "zh": "所以这是一种表示你在预防万一的说法。"
     },
     {
       "id": 177,
@@ -1432,14 +1432,14 @@
       "start": 650.2,
       "end": 653.58,
       "en": "For example, many people refer to ceramic plates as china.",
-      "zh": "例如，许多人将陶瓷板称为中国。"
+      "zh": "例如，很多人把陶瓷盘子叫作 china（瓷器）。"
     },
     {
       "id": 205,
       "start": 654.32,
       "end": 660.04,
       "en": "Yeah, these are usually the fancy kinds of plates and dishes that you have in your house.",
-      "zh": "是的，这些通常是你家里的盘子和盘子。"
+      "zh": "是的，这些通常是你家里比较讲究的盘子和餐具。"
     },
     {
       "id": 206,
@@ -1453,7 +1453,7 @@
       "start": 669.68,
       "end": 675.32,
       "en": "But at a wedding or in a special occasion, a person or a family might receive chinaware, china.",
-      "zh": "但在婚礼或特殊场合，一个人或一个家庭可能会收到中国瓷器。"
+      "zh": "但在婚礼或特殊场合，一个人或一个家庭可能会收到一套瓷器，也就是 china。"
     },
     {
       "id": 208,
@@ -1495,14 +1495,14 @@
       "start": 694.08,
       "end": 699.2,
       "en": "Lacquerware is a certain kind of plate or ceramic that has a kind of sheen to it.",
-      "zh": "漆器是一种具有光泽的板或陶瓷。"
+      "zh": "漆器是一种带有光泽的盘子或陶瓷制品。"
     },
     {
       "id": 214,
       "start": 699.2,
       "end": 702.92,
       "en": "It's very special, kind of basically paint job.",
-      "zh": "它非常特别，基本上是油漆工作。"
+      "zh": "它很特别，基本上就是上了一层漆。"
     },
     {
       "id": 215,
@@ -1516,14 +1516,14 @@
       "start": 704.16,
       "end": 712.73,
       "en": "Yeah, because it's always been kind of strange the fact that a name like china would also now be related to plates.",
-      "zh": "是的，因为像中国这样的名字现在也与盘子有关，这一直很奇怪。"
+      "zh": "是的，因为像 china 这样一个名字现在也和盘子扯上关系，这一直让我觉得奇怪。"
     },
     {
       "id": 217,
       "start": 712.96,
       "end": 722.96,
       "en": "But apparently, I guess because Chinese porcelain is renowned as being such high quality, I guess this is why now we just have a word for it called china or chinaware.",
-      "zh": "但显然，我猜是因为中国瓷器以如此高的品质而闻名，我想这就是为什么我们现在只有一个词来形容它，叫做瓷器或瓷器。"
+      "zh": "但显然，我猜是因为中国瓷器以高品质闻名，所以现在我们才有 china 或 chinaware 这个词。"
     },
     {
       "id": 218,
@@ -1551,7 +1551,7 @@
       "start": 740.21,
       "end": 741.21,
       "en": "They just wanted all of this china.",
-      "zh": "他们只是想要所有这些中国。"
+      "zh": "他们只想要所有这些瓷器。"
     },
     {
       "id": 222,
@@ -1565,21 +1565,21 @@
       "start": 744.33,
       "end": 747.41,
       "en": "Yeah, it's really strange though that you would call something china.",
-      "zh": "是的，虽然你会叫中国的东西真的很奇怪。"
+      "zh": "是的，不过你会用 china 来称呼一种东西，这真的很奇怪。"
     },
     {
       "id": 224,
       "start": 747.88,
       "end": 752.65,
       "en": "It's like, I don't know any other country that you call something, you know, like French.",
-      "zh": "就像，我不知道你称呼某事的任何其他国家，你知道的，就像法国人一样。"
+      "zh": "就像，我不知道还有哪个国家名会被用来称呼某样东西，你知道，比如 French。"
     },
     {
       "id": 225,
       "start": 753.54,
       "end": 755.8,
       "en": "This is a French or Frenchware.",
-      "zh": "这是法国或法国的器皿。"
+      "zh": "这是 French，或者 Frenchware。"
     },
     {
       "id": 226,
@@ -1628,7 +1628,7 @@
       "start": 766.56,
       "end": 772.23,
       "en": "There are many other tools that we didn't mention like salad fork and ice cream spoon.",
-      "zh": "还有许多其他我们没有提到的工具，比如沙拉叉和冰淇淋勺。"
+      "zh": "还有许多我们没提到的餐具，比如沙拉叉和冰淇淋勺。"
     },
     {
       "id": 233,
@@ -1642,14 +1642,14 @@
       "start": 773.88,
       "end": 780.64,
       "en": "And sometimes if you go to a fancy dinner, you will have maybe three spoons, three knives, three forks and you don't know what to do with it.",
-      "zh": "有时如果你去吃一顿丰盛的晚餐，你可能会吃到三把勺子、三把刀、三把叉子，但你不知道该怎么办。"
+      "zh": "有时如果你去参加一顿讲究的晚餐，面前可能会摆着三把勺子、三把刀、三把叉子，你却不知道该怎么用。"
     },
     {
       "id": 235,
       "start": 780.7,
       "end": 782.0,
       "en": "Start on the outside and go in.",
-      "zh": "从外面开始，进去。"
+      "zh": "从最外侧的开始，一道一道往里用。"
     },
     {
       "id": 236,
@@ -1691,7 +1691,7 @@
       "start": 790.96,
       "end": 794.96,
       "en": "Or if you also want to suggest a topic for a lesson or anything you want, just let us know.",
-      "zh": "或者，如果您还想为课程或您想要的任何内容推荐一个主题，请告诉我们。"
+      "zh": "或者如果你想为某一课推荐一个话题，或者有别的想法，都可以告诉我们。"
     },
     {
       "id": 242,

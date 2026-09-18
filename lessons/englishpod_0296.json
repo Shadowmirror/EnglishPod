@@ -25,7 +25,7 @@
       "start": 4.68,
       "end": 10.72,
       "en": "My name is Catherine and today we're talking about eating food and certain foods that people don't eat.",
-      "zh": "我的名字是凯瑟琳，今天我们谈论的是人们不吃的食物和某些食物。"
+      "zh": "我叫凯瑟琳，今天我们聊的是吃东西，以及人们不吃的某些食物。"
     },
     {
       "id": 4,
@@ -46,7 +46,7 @@
       "start": 13.66,
       "end": 19.5,
       "en": "We're going to talk all about being a vegetarian or a vegan and we're going to explain all these words when we come back.",
-      "zh": "我们将谈论所有关于素食主义者或素食主义者的讨论，当我们回来时，我们将解释所有这些词。"
+      "zh": "我们会详细聊聊做素食者或严格素食者是怎么回事，回来后我们会解释所有这些词。"
     },
     {
       "id": 7,
@@ -67,7 +67,7 @@
       "start": 28.36,
       "end": 29.76,
       "en": "Do you want to go grab something to eat?",
-      "zh": "你想去拿点吃的吗？"
+      "zh": "你想去弄点吃的吗？"
     },
     {
       "id": 10,
@@ -207,7 +207,7 @@
       "start": 81.6,
       "end": 88.79,
       "en": "So now probably a lot of you have an idea of what it means to be a vegetarian, but let's take a look at that word and many more on Language Takeaway.",
-      "zh": "所以现在你们中的很多人可能已经知道成为素食主义者意味着什么，但让我们来看看这个词以及更多关于语言外卖的信息。"
+      "zh": "所以现在你们中的很多人可能已经知道成为素食者意味着什么，但让我们在语言要点里看看这个词和更多类似的词。"
     },
     {
       "id": 30,
@@ -242,7 +242,7 @@
       "start": 101.12,
       "end": 101.28,
       "en": "Vegetarian is a noun.",
-      "zh": "素食是名词。"
+      "zh": "Vegetarian 是名词。"
     },
     {
       "id": 35,
@@ -291,7 +291,7 @@
       "start": 119.0,
       "end": 123.96,
       "en": "So as you can see, it has the prefix veget, like vegetable.",
-      "zh": "正如你所看到的，它有前缀蔬菜，就像蔬菜一样。"
+      "zh": "正如你所看到的，它带有 veget 这个前缀，就像 vegetable 一样。"
     },
     {
       "id": 42,
@@ -340,7 +340,7 @@
       "start": 142.68,
       "end": 147.72,
       "en": "It's called a vegan and this person has many, many rules about what he can or cannot eat.",
-      "zh": "它被称为素食主义者，这个人有很多很多关于他可以吃什么或不能吃什么的规则。"
+      "zh": "它被称为严格素食者，这个人有很多很多关于能吃什么、不能吃什么的规矩。"
     },
     {
       "id": 49,
@@ -361,7 +361,7 @@
       "start": 152.36,
       "end": 164.24,
       "en": "A vegan, as we saw in our dialogue, doesn't wear leather, for example, doesn't wear leather shoes or a jacket or use or eat anything that comes from an animal.",
-      "zh": "正如我们在对话中看到的那样，素食主义者不穿皮革，不穿皮鞋或夹克，也不穿或吃来自动物的任何东西。"
+      "zh": "正如我们在对话中看到的那样，严格素食者不穿皮革，比如不穿皮鞋或皮夹克，也不用、不吃任何来自动物的东西。"
     },
     {
       "id": 52,
@@ -389,14 +389,14 @@
       "start": 172.0,
       "end": 179.48,
       "en": "So vegans often try to find foods at the grocery store that come from natural products that are not animal based.",
-      "zh": "因此，素食主义者经常试图在杂货店寻找来自非动物性天然产品的食品。"
+      "zh": "因此，严格素食者常常设法在杂货店寻找那些来自非动物性天然成分的食品。"
     },
     {
       "id": 56,
       "start": 179.48,
       "end": 186.08,
       "en": "And so there has to be a symbol on the back of the box or the jar that says that it's vegan.",
-      "zh": "因此，盒子背面或罐子上必须有一个符号，上面写着它是素食主义者。"
+      "zh": "因此，盒子背面或罐子上必须有一个符号，标明它是纯素的。"
     },
     {
       "id": 57,
@@ -417,7 +417,7 @@
       "start": 193.56,
       "end": 197.56,
       "en": "But on the other hand, this person used to be a pescatarian.",
-      "zh": "但另一方面，这个人曾经是一个兽人。"
+      "zh": "但另一方面，这个人以前是鱼素食者。"
     },
     {
       "id": 60,
@@ -431,14 +431,14 @@
       "start": 203.48,
       "end": 208.88,
       "en": "A pescatarian is a person who is a vegetarian but who also eats fish.",
-      "zh": "Pescatarian 是一个素食主义者，但也吃鱼的人。"
+      "zh": "鱼素食者（pescatarian）是不吃肉、但吃鱼的人。"
     },
     {
       "id": 62,
       "start": 209.44,
       "end": 214.36,
       "en": "And so maybe I'm a pescatarian because I don't consider fish to be animals.",
-      "zh": "所以也许我是一个兽人，因为我不认为鱼是动物。"
+      "zh": "所以也许我是鱼素食者，因为我不把鱼当成动物。"
     },
     {
       "id": 63,
@@ -459,7 +459,7 @@
       "start": 218.8,
       "end": 219.8,
       "en": "I'm a pescatarian.",
-      "zh": "我是一个兽人。"
+      "zh": "我是鱼素食者。"
     },
     {
       "id": 66,
@@ -473,7 +473,7 @@
       "start": 220.8,
       "end": 235.76,
       "en": "So a vegetarian does not eat fish or any type of meat, the same as a vegan, but a pescatarian does eat maybe shrimp and fish and any type of animal from the sea.",
-      "zh": "所以素食者不吃鱼或任何类型的肉，就像素食主义者一样，但鱼类确实吃虾和鱼以及任何类型的海洋动物。"
+      "zh": "所以素食者不吃鱼或任何肉类，这一点和严格素食者一样，但鱼素食者会吃虾、鱼以及任何来自海洋的动物。"
     },
     {
       "id": 68,
@@ -494,7 +494,7 @@
       "start": 238.9,
       "end": 240.82,
       "en": "A pescatarian will eat seafood.",
-      "zh": "佩斯卡塔尔人会吃海鲜。"
+      "zh": "鱼素食者会吃海鲜。"
     },
     {
       "id": 71,
@@ -557,7 +557,7 @@
       "start": 266.24,
       "end": 268.92,
       "en": "And our last word in language takeaway is an adjective.",
-      "zh": "我们在语言外卖中的最后一个词是形容词。"
+      "zh": "我们在语言要点中的最后一个词是形容词。"
     },
     {
       "id": 80,
@@ -585,7 +585,7 @@
       "start": 275.88,
       "end": 282.68,
       "en": "That's an interesting word because in English it has a few different meanings, but what was the meaning of the word tough in today's dialogue?",
-      "zh": "这是一个有趣的词，因为在英语中它有一些不同的含义，但是在今天的对话中这个词的意思是什么意思？"
+      "zh": "这个词挺有意思，因为它在英语里有几个不同的含义，那么今天对话里 tough 这个词是什么意思呢？"
     },
     {
       "id": 84,
@@ -676,7 +676,7 @@
       "start": 311.83,
       "end": 314.87,
       "en": "Hey Julie, do you want to go grab something to eat?",
-      "zh": "嘿，朱莉，你想去拿点吃的吗？"
+      "zh": "嘿，朱莉，你想去弄点吃的吗？"
     },
     {
       "id": 97,
@@ -690,7 +690,7 @@
       "start": 315.99,
       "end": 316.97,
       "en": "What do you feel like having?",
-      "zh": "你有什么感觉？"
+      "zh": "你想吃什么？"
     },
     {
       "id": 99,
@@ -774,7 +774,7 @@
       "start": 339.16,
       "end": 343.32,
       "en": "I don't wear leather, eat eggs, drink milk, or anything that comes from an animal.",
-      "zh": "我不穿皮革、吃鸡蛋、喝牛奶或任何来自动物的东西。"
+      "zh": "我不穿皮革，不吃鸡蛋，不喝牛奶，也不用任何来自动物的东西。"
     },
     {
       "id": 111,
@@ -830,7 +830,7 @@
       "start": 368.48,
       "end": 370.55,
       "en": "Let's take a look at those now on Fluency Builder.",
-      "zh": "现在来看看“流利表达”里的这些内容。"
+      "zh": "现在就来流利表达看看这些短语吧。"
     },
     {
       "id": 119,
@@ -844,28 +844,28 @@
       "start": 374.54,
       "end": 380.86,
       "en": "So there's a very interesting and very, very common phrase at the beginning of today's dialogue that we use all the time in English.",
-      "zh": "因此，在今天的对话开始时，有一个非常有趣且非常常见的短语，我们一直用英语使用。"
+      "zh": "在今天的对话开头有一个非常有趣、也非常常见的短语，我们在英语里经常用到。"
     },
     {
       "id": 121,
       "start": 380.96,
       "end": 383.6,
       "en": "This is to grab something to eat.",
-      "zh": "这是为了吃点东西。"
+      "zh": "这里说的是 to grab something to eat 这个短语。"
     },
     {
       "id": 122,
       "start": 384.02,
       "end": 387.5,
       "en": "The character says, hey Julie, you want to go grab something to eat?",
-      "zh": "角色说，嘿，朱莉，你想去吃点吃的吗？"
+      "zh": "角色说，嘿，朱莉，你想去弄点吃的吗？"
     },
     {
       "id": 123,
       "start": 387.86,
       "end": 393.22,
       "en": "So taking that as a phrase, we are inviting someone to go eat something.",
-      "zh": "所以把它当作一个短语，我们邀请有人去吃东西。"
+      "zh": "所以这个短语的意思是邀请某人去吃点东西。"
     },
     {
       "id": 124,
@@ -921,7 +921,7 @@
       "start": 410.55,
       "end": 419.25,
       "en": "But don't be confused because grabbing normally means holding with your hand, but to grab something to eat generally just means, hey, would you like to go eat something with me?",
-      "zh": "但不要感到困惑，因为抓握通常意味着用手握住，但抓住一些东西通常意味着，嘿，你想和我一起去吃点东西吗？"
+      "zh": "但别混淆，因为 grab 通常指用手抓住，但 to grab something to eat 一般只是说：嘿，你想跟我一起去吃点东西吗？"
     },
     {
       "id": 132,
@@ -963,7 +963,7 @@
       "start": 439.1,
       "end": 443.42,
       "en": "But I feel like a steak means I want to eat a steak.",
-      "zh": "但我觉得牛排意味着我想吃牛排。"
+      "zh": "但 I feel like a steak 的意思是我想吃牛排。"
     },
     {
       "id": 138,
@@ -991,7 +991,7 @@
       "start": 452.48,
       "end": 455.32,
       "en": "And so I feel like having, or I feel like a steak.",
-      "zh": "所以我想拥有，或者我觉得自己像牛排。"
+      "zh": "所以可以说 I feel like having，或者说 I feel like a steak。"
     },
     {
       "id": 142,
@@ -1054,21 +1054,21 @@
       "start": 476.2,
       "end": 481.3,
       "en": "So great ways of using feel like, and then a verb like having or watching a movie.",
-      "zh": "如此棒的使用感觉，然后是像拥有或看电影这样的动词。"
+      "zh": "所以这些都是使用 feel like 的好方法，后面接 having 或 watching a movie 这样的动词。"
     },
     {
       "id": 151,
       "start": 483.24,
       "end": 494.2,
       "en": "Now getting back to the vegetarian, the vegan aspect of our dialogue, we saw that the girl explained how she doesn't eat or use any animal based products.",
-      "zh": "现在回到素食主义者，我们对话的素食主义者方面，我们看到这个女孩解释了她如何不吃或使用任何动物产品。"
+      "zh": "现在说回对话里 vegetarian 和 vegan 的部分，我们看到那个女孩解释了她为什么不吃、也不用任何动物制品。"
     },
     {
       "id": 152,
       "start": 494.26,
       "end": 497.54,
       "en": "So these three words, animal based products.",
-      "zh": "所以这三个词，动物产品。"
+      "zh": "所以就是这三个词：animal based products。"
     },
     {
       "id": 153,
@@ -1082,7 +1082,7 @@
       "start": 503.0,
       "end": 505.34,
       "en": "Animal based is a way to describe a product.",
-      "zh": "基于动物的是描述产品的一种方式。"
+      "zh": "animal based 是描述产品的一种说法。"
     },
     {
       "id": 155,
@@ -1110,7 +1110,7 @@
       "start": 521.32,
       "end": 524.96,
       "en": "They are made up of something that comes from an animal like leather shoes.",
-      "zh": "它们由动物如皮鞋制成的东西组成。"
+      "zh": "它们是由来自动物的东西制成的，比如皮鞋。"
     },
     {
       "id": 159,
@@ -1138,7 +1138,7 @@
       "start": 533.84,
       "end": 540.56,
       "en": "It's important if you're a vegan to look on the side of the can or the side of the box and see is this an animal based product?",
-      "zh": "如果您是素食主义者，可以从罐子的侧面或盒子的侧面看，看看这是一种动物产品吗？"
+      "zh": "如果你是严格素食者，看看罐子侧面或盒子侧面、确认这是不是 animal based product，这很重要。"
     },
     {
       "id": 163,
@@ -1173,7 +1173,7 @@
       "start": 547.44,
       "end": 552.6,
       "en": "Why don't we listen to it one last time and we'll be back.",
-      "zh": "我们为什么不最后一次听它，我们会回来的。"
+      "zh": "我们何不再听最后一次，然后回来继续。"
     },
     {
       "id": 168,
@@ -1187,7 +1187,7 @@
       "start": 556.52,
       "end": 558.1,
       "en": "Do you want to go grab something to eat?",
-      "zh": "你想去拿点吃的吗？"
+      "zh": "你想去弄点吃的吗？"
     },
     {
       "id": 170,
@@ -1201,7 +1201,7 @@
       "start": 559.16,
       "end": 560.18,
       "en": "What do you feel like having?",
-      "zh": "你有什么感觉？"
+      "zh": "你想吃什么？"
     },
     {
       "id": 172,
@@ -1320,7 +1320,7 @@
       "start": 608.97,
       "end": 626.77,
       "en": "All right, so talking about vegan vegetarians, pescatarians, it seems like these diets or these lifestyles are more and more popular, but as we saw in the dialogue, it can be a little bit difficult, especially maybe in countries where it's not so popular to have these diets.",
-      "zh": "好吧，所以说到素食主义者、pescatarians 似乎这些饮食或这些生活方式越来越受欢迎，但正如我们在对话中看到的那样，这可能有点困难，尤其是在那些不那么受欢迎的国家。"
+      "zh": "好吧，说到纯素者、素食者、鱼素食者，这些饮食习惯或生活方式似乎越来越流行，但正如我们在对话中看到的那样，这可能会有点困难，尤其是在这些饮食不那么流行的国家。"
     },
     {
       "id": 189,
@@ -1334,7 +1334,7 @@
       "start": 627.91,
       "end": 637.63,
       "en": "I think that in places where you can find vegan and vegetarian products very easily, being a vegetarian becomes much more easy because you have more options.",
-      "zh": "我认为在你可以很容易找到素食和素食产品的地方，成为素食主义者变得更加容易，因为你有更多的选择。"
+      "zh": "我认为在很容易找到纯素和素食产品的地方，做素食者会容易得多，因为你的选择更多。"
     },
     {
       "id": 191,
@@ -1348,7 +1348,7 @@
       "start": 648.36,
       "end": 672.52,
       "en": "Well, that's one of the main arguments or the main concerns with people is that even though you can argue that you can get all the vitamins or many of the vitamins and minerals from nuts and from vegetables, it's still not healthy to completely exclude from your diet maybe sources of proteins like meat or eggs or dairy products.",
-      "zh": "好吧，这是主要的论点或与人们的主要关注点之一是，即使您可以从坚果和蔬菜中获得所有维生素或许多维生素和矿物质，但完全排除饮食中的蛋白质或鸡蛋等蛋白质仍然是不健康的 乳制品。"
+      "zh": "好吧，人们对这一点的主要争议或担忧之一是：尽管你可以说能从坚果和蔬菜中获得全部或大部分维生素和矿物质，但把肉类、鸡蛋或乳制品这类蛋白质来源完全排除在饮食之外，仍然是不健康的。"
     },
     {
       "id": 193,
@@ -1383,7 +1383,7 @@
       "start": 693.52,
       "end": 698.2,
       "en": "And so being a vegan especially or a vegetarian poses a lot more challenges.",
-      "zh": "因此，尤其是素食主义者或素食主义者，会带来更多挑战。"
+      "zh": "因此，尤其是做严格素食者或素食者，会带来更多挑战。"
     },
     {
       "id": 198,
@@ -1397,7 +1397,7 @@
       "start": 706.36,
       "end": 716.72,
       "en": "Whereas in other countries, it's probably not labeled and it's a little bit, even things like getting the fat free things are a little bit more difficult in other countries like for example, China.",
-      "zh": "而在其他国家，它可能没有贴上标签，而且有点像中国，甚至在其他国家获得无脂肪的东西也有些困难。"
+      "zh": "而在其他国家，可能根本没有标签，会有点麻烦；甚至在像中国这样的国家，连买到无脂食品也会稍微困难一些。"
     },
     {
       "id": 200,
@@ -1411,7 +1411,7 @@
       "start": 717.72,
       "end": 721.97,
       "en": "So we would like to know, are there many vegans or vegetarians in your country?",
-      "zh": "所以我们想知道，你们国家有很多素食主义者或素食主义者吗？"
+      "zh": "所以我们想知道，你们国家有很多严格素食者或素食者吗？"
     },
     {
       "id": 202,

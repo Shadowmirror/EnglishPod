@@ -25,7 +25,7 @@
       "start": 7.18,
       "end": 10.72,
       "en": "And my name is Catherine, and we've got a great lesson for you today.",
-      "zh": "我的名字是凯瑟琳，我们今天为您提供了一个很好的教训。"
+      "zh": "我是凯瑟琳，今天我们为大家准备了一节很棒的课。"
     },
     {
       "id": 4,
@@ -39,7 +39,7 @@
       "start": 12.28,
       "end": 17.8,
       "en": "This is an elementary lesson, and we're going to be touching one of these medical topics.",
-      "zh": "这是一个小学课程，我们将触及这些医学主题之一。"
+      "zh": "这是一节初级课程，我们要涉及一个医学话题。"
     },
     {
       "id": 6,
@@ -88,7 +88,7 @@
       "start": 49.88,
       "end": 51.84,
       "en": "So most people get this when they're children.",
-      "zh": "所以大多数人在他们还是孩子的时候都会得到这个。"
+      "zh": "所以大多数人都是在小时候得这个病。"
     },
     {
       "id": 13,
@@ -102,7 +102,7 @@
       "start": 65.72,
       "end": 66.72,
       "en": "You have like stains.",
-      "zh": "你有喜欢的污渍。"
+      "zh": "你会留下像斑点一样的东西。"
     },
     {
       "id": 15,
@@ -123,7 +123,7 @@
       "start": 68.92,
       "end": 73.16,
       "en": "So it's best not to scratch, and that's what we're going to talk about today.",
-      "zh": "所以最好不要刮擦，这就是我们今天要讨论的内容。"
+      "zh": "所以最好别去抓，这就是我们今天要讨论的。"
     },
     {
       "id": 18,
@@ -235,7 +235,7 @@
       "start": 108.38,
       "end": 109.12,
       "en": "Don't breathe on me.",
-      "zh": "不要对我呼吸。"
+      "zh": "别对着我呼吸。"
     },
     {
       "id": 34,
@@ -347,7 +347,7 @@
       "start": 160.08,
       "end": 164.6,
       "en": "Okay, this is often confused even among children who are native speakers of English.",
-      "zh": "好吧，即使在以英语为母语的孩子中，这也经常感到困惑。"
+      "zh": "好吧，这个词即使对以英语为母语的孩子来说也常常容易混淆。"
     },
     {
       "id": 50,
@@ -389,7 +389,7 @@
       "start": 181.1,
       "end": 183.74,
       "en": "To the noun, an itch.",
-      "zh": "到名词，痒。"
+      "zh": "它的名词形式是 an itch。"
     },
     {
       "id": 56,
@@ -431,7 +431,7 @@
       "start": 199.47,
       "end": 201.89,
       "en": "So here we have a person who feels lightheaded.",
-      "zh": "所以在这里，我们有一个头晕目眩的人。"
+      "zh": "所以这里这个人觉得头晕。"
     },
     {
       "id": 62,
@@ -445,7 +445,7 @@
       "start": 210.02,
       "end": 211.02,
       "en": "Like dizzy.",
-      "zh": "喜欢头晕。"
+      "zh": "就像头晕。"
     },
     {
       "id": 64,
@@ -501,7 +501,7 @@
       "start": 222.51,
       "end": 228.17,
       "en": "Okay, and well then the girl got scared and she said, get away, you are contagious.",
-      "zh": "好吧，然后那个女孩害怕了，她说，走开，你很有感染力。"
+      "zh": "好吧，然后那个女孩害怕了，她说，走开，你有传染性。"
     },
     {
       "id": 72,
@@ -515,7 +515,7 @@
       "start": 231.46,
       "end": 236.12,
       "en": "Someone who is contagious can pass their illness to someone else.",
-      "zh": "传染病的人可以将他们的疾病传给其他人。"
+      "zh": "有传染性的人会把病传给其他人。"
     },
     {
       "id": 74,
@@ -627,7 +627,7 @@
       "start": 292.34,
       "end": 293.46,
       "en": "A rash, exactly.",
-      "zh": "一个皮疹，确切地说。"
+      "zh": "皮疹，没错。"
     },
     {
       "id": 90,
@@ -697,7 +697,7 @@
       "start": 331.3,
       "end": 332.99,
       "en": "And our last word for today is a little bit dramatic.",
-      "zh": "我们今天的最后一句话有点戏剧化。"
+      "zh": "今天我们最后一个词有点戏剧性。"
     },
     {
       "id": 100,
@@ -725,7 +725,7 @@
       "start": 341.02,
       "end": 343.24,
       "en": "The first word bio comes from the word biology.",
-      "zh": "第一个单词来自生物学这个词。"
+      "zh": "第一个词 bio 来自单词 biology。"
     },
     {
       "id": 104,
@@ -746,14 +746,14 @@
       "start": 348.18,
       "end": 350.9,
       "en": "And hazard is something that is dangerous.",
-      "zh": "危险是危险的。"
+      "zh": "而 hazard 是指危险的东西。"
     },
     {
       "id": 107,
       "start": 350.9,
       "end": 355.3,
       "en": "So a biohazard is a, well, something that's alive that's dangerous.",
-      "zh": "因此，生物危害是一种危险的东西。"
+      "zh": "所以 biohazard 就是有生命、且危险的东西。"
     },
     {
       "id": 108,
@@ -767,7 +767,7 @@
       "start": 357.18,
       "end": 360.22,
       "en": "Something that's dangerous towards a living person, right, or organism.",
-      "zh": "对活着的人、权利或有机体有危险的东西。"
+      "zh": "对活人或者有机体有危险的东西。"
     },
     {
       "id": 110,
@@ -998,7 +998,7 @@
       "start": 434.0,
       "end": 435.1,
       "en": "Don't breathe on me.",
-      "zh": "不要对我呼吸。"
+      "zh": "别对着我呼吸。"
     },
     {
       "id": 143,
@@ -1054,7 +1054,7 @@
       "start": 460.46,
       "end": 461.9,
       "en": "Eww.",
-      "zh": "哇。"
+      "zh": "呃，好恶心。"
     },
     {
       "id": 151,
@@ -1075,7 +1075,7 @@
       "start": 465.92,
       "end": 470.04,
       "en": "Why don't we take a look at Fluency Builder and start taking a look at all these phrases.",
-      "zh": "我们为什么不看看 Fluency Builder 并开始看看所有这些短语。"
+      "zh": "我们为什么不看看流利表达并开始看看所有这些短语。"
     },
     {
       "id": 154,
@@ -1096,7 +1096,7 @@
       "start": 480.06,
       "end": 481.92,
       "en": "This phrase is coming down with.",
-      "zh": "这句话是来的。"
+      "zh": "这个短语是 coming down with。"
     },
     {
       "id": 157,
@@ -1110,14 +1110,14 @@
       "start": 486.12,
       "end": 489.2,
       "en": "So basically, you say, I'm coming down with something.",
-      "zh": "所以基本上，你说，我遇到了一些事情。"
+      "zh": "所以基本上，你说 I'm coming down with something，意思是我有点不舒服。"
     },
     {
       "id": 159,
       "start": 489.6,
       "end": 492.22,
       "en": "So a cold or I think I'm coming down with the flu.",
-      "zh": "所以感冒了，或者我想我正在感冒。"
+      "zh": "比如 a cold，或者我想我快得流感了。"
     },
     {
       "id": 160,
@@ -1138,7 +1138,7 @@
       "start": 496.78,
       "end": 499.42,
       "en": "It means I'm just starting to feel sick.",
-      "zh": "这意味着我刚刚开始感到恶心。"
+      "zh": "意思是刚开始觉得不舒服。"
     },
     {
       "id": 163,
@@ -1152,14 +1152,14 @@
       "start": 502.42,
       "end": 504.89,
       "en": "You wouldn't use the phrase I'm coming down with in this situation.",
-      "zh": "在这种情况下，你不会使用我正在使用的短语。"
+      "zh": "这种情况下你不会用 I'm coming down with 这个短语。"
     },
     {
       "id": 165,
       "start": 505.22,
       "end": 507.69,
       "en": "You'd only use it when you're starting to feel sick.",
-      "zh": "只有当你开始感到恶心时，你才会使用它。"
+      "zh": "只有在刚开始感觉不舒服时，你才会用它。"
     },
     {
       "id": 166,
@@ -1173,7 +1173,7 @@
       "start": 508.51,
       "end": 511.65,
       "en": "So you could ask your boss, I think I'm coming down with the flu.",
-      "zh": "所以你可以问问你的老板，我想我会患上流感。"
+      "zh": "所以你可以跟老板说，我想我快得流感了。"
     },
     {
       "id": 168,
@@ -1222,14 +1222,14 @@
       "start": 525.61,
       "end": 526.99,
       "en": "Honey will you take my temperature?",
-      "zh": "亲爱的，你会测量我的温度吗？"
+      "zh": "亲爱的，帮我量一下体温好吗？"
     },
     {
       "id": 175,
       "start": 527.78,
       "end": 531.5,
       "en": "I think I'm coming down with something.",
-      "zh": "我想我会遇到一些事情。"
+      "zh": "我想我有点不舒服。"
     },
     {
       "id": 176,
@@ -1271,7 +1271,7 @@
       "start": 546.1,
       "end": 550.46,
       "en": "So coming down with, coming down with the flu, coming down with a cough, etc.",
-      "zh": "所以下来，流感下来，咳嗽，等等。"
+      "zh": "所以 coming down with，比如 coming down with the flu、coming down with a cough 等等。"
     },
     {
       "id": 182,
@@ -1383,7 +1383,7 @@
       "start": 577.77,
       "end": 579.53,
       "en": "Because usually it follows another phrase.",
-      "zh": "因为通常它遵循另一个短语。"
+      "zh": "因为它通常跟在另一个短语后面。"
     },
     {
       "id": 198,
@@ -1481,7 +1481,7 @@
       "start": 601.78,
       "end": 605.18,
       "en": "It's called to blow things out of proportion.",
-      "zh": "它被要求吹得不成比例。"
+      "zh": "它叫做 blow things out of proportion。"
     },
     {
       "id": 212,
@@ -1495,7 +1495,7 @@
       "start": 606.35,
       "end": 609.23,
       "en": "And you're going to hear this phrase a lot with native English speakers.",
-      "zh": "你会经常听到以英语为母语的人听到这句话。"
+      "zh": "你会经常从英语母语者那里听到这个短语。"
     },
     {
       "id": 214,
@@ -1516,14 +1516,14 @@
       "start": 628.74,
       "end": 630.78,
       "en": "I say, Marco, you're blowing things out of proportion.",
-      "zh": "我说，马可，你把东西吹得不成比例。"
+      "zh": "我说，马可，你太小题大做了。"
     },
     {
       "id": 217,
       "start": 630.86,
       "end": 632.14,
       "en": "I'll just buy you a new one.",
-      "zh": "我给你买一台新的。"
+      "zh": "我就再给你买一个。"
     },
     {
       "id": 218,
@@ -1565,7 +1565,7 @@
       "start": 637.34,
       "end": 644.34,
       "en": "And you can say like this with siblings, spouses or bosses who react very seriously.",
-      "zh": "你可以这样说，对反应非常认真的兄弟姐妹、配偶或老板。"
+      "zh": "你可以对反应过度的兄弟姐妹、配偶或老板这么说。"
     },
     {
       "id": 224,
@@ -1579,7 +1579,7 @@
       "start": 646.54,
       "end": 648.93,
       "en": "Stop yelling like you're blowing things out of proportion.",
-      "zh": "别再大喊大叫了，就像你把东西吹得不成比例。"
+      "zh": "别嚷嚷了，你太小题大做了。"
     },
     {
       "id": 226,
@@ -1607,7 +1607,7 @@
       "start": 653.62,
       "end": 654.87,
       "en": "So blowing things out of proportion.",
-      "zh": "所以把事情吹得不成比例。"
+      "zh": "所以 blow things out of proportion 就是小题大做。"
     },
     {
       "id": 230,
@@ -1677,7 +1677,7 @@
       "start": 680.87,
       "end": 682.53,
       "en": "Whoa, get away from me.",
-      "zh": "哇，远离我。"
+      "zh": "哇，离我远点。"
     },
     {
       "id": 240,
@@ -1789,7 +1789,7 @@
       "start": 718.94,
       "end": 719.3,
       "en": "I did.",
-      "zh": "是我做的。"
+      "zh": "我得过。"
     },
     {
       "id": 256,
@@ -1873,7 +1873,7 @@
       "start": 764.62,
       "end": 769.56,
       "en": "So you can have some creams or some lotions, but other people like to take an oatmeal bath.",
-      "zh": "所以你可以吃一些面霜或一些乳液，但其他人喜欢洗燕麦浴。"
+      "zh": "所以你可以用一些面霜或乳液，但有些人喜欢泡燕麦浴。"
     },
     {
       "id": 268,
@@ -1936,7 +1936,7 @@
       "start": 786.78,
       "end": 788.52,
       "en": "She said I got it, so I'm good.",
-      "zh": "她说我明白了，所以我很好。"
+      "zh": "她说我得过，所以我就放心了。"
     },
     {
       "id": 277,
@@ -1964,7 +1964,7 @@
       "start": 791.82,
       "end": 792.82,
       "en": "You can only get it once.",
-      "zh": "你只能得到一次。"
+      "zh": "这种病一辈子只得一次。"
     },
     {
       "id": 281,
@@ -1985,7 +1985,7 @@
       "start": 797.26,
       "end": 801.94,
       "en": "And if you did, was it really itchy or were you a lucky one and it wasn't so bad?",
-      "zh": "如果你这样做了，它真的很痒还是你是幸运的，而且还不错？"
+      "zh": "如果你得过，是很痒，还是你很幸运、没那么严重？"
     },
     {
       "id": 284,

@@ -102,14 +102,14 @@
       "start": 35.96,
       "end": 37.36,
       "en": "Vocabulary Preview.",
-      "zh": "词汇预习。"
+      "zh": "词汇预览。"
     },
     {
       "id": 15,
       "start": 37.36,
       "end": 40.36,
       "en": "Our preview word for this lesson is picky.",
-      "zh": "我们本课的预览词很挑剔。"
+      "zh": "我们本课的预览词是 picky。"
     },
     {
       "id": 16,
@@ -214,7 +214,7 @@
       "start": 72.84,
       "end": 75.46,
       "en": "Okay. So picky, interesting word.",
-      "zh": "好的。 如此挑剔，有趣的词。"
+      "zh": "好的。picky 这个词很有意思。"
     },
     {
       "id": 31,
@@ -291,21 +291,21 @@
       "start": 98.12,
       "end": 98.4,
       "en": "The white.",
-      "zh": "白色的那个。"
+      "zh": "蛋白。"
     },
     {
       "id": 42,
       "start": 99.12,
       "end": 100.12,
       "en": "The white.",
-      "zh": "白色的那个。"
+      "zh": "蛋白。"
     },
     {
       "id": 43,
       "start": 100.12,
       "end": 101.12,
       "en": "The white.",
-      "zh": "白色的那个。"
+      "zh": "蛋白。"
     },
     {
       "id": 44,
@@ -515,7 +515,7 @@
       "start": 197.6,
       "end": 204.38,
       "en": "Exactly. So we heard a couple of different ways of describing how you prepare eggs, so let's take a look at that in Language Takeaway.",
-      "zh": "没错。 所以我们听到了几种不同的方式来描述你如何准备鸡蛋，所以让我们在语言外卖中看看。"
+      "zh": "没错。 所以我们听到了几种不同的方式来描述你如何准备鸡蛋，所以让我们在语言要点中看看。"
     },
     {
       "id": 74,
@@ -529,21 +529,21 @@
       "start": 208.77,
       "end": 216.09,
       "en": "Okay, so our first preparation method, my favorite, sunny side up.",
-      "zh": "好的，所以我们的第一个准备方法，我最喜欢的，阳光充足的一面朝上。"
+      "zh": "好的，所以第一个做法，我最喜欢的：sunny side up（单面煎，蛋黄朝上）。"
     },
     {
       "id": 76,
       "start": 216.56,
       "end": 218.92,
       "en": "Okay, sunny side up.",
-      "zh": "好吧，阳光一面朝上。"
+      "zh": "好吧，单面煎，蛋黄朝上。"
     },
     {
       "id": 77,
       "start": 218.92,
       "end": 219.92,
       "en": "Sunny side up.",
-      "zh": "阳光一面朝上。"
+      "zh": "单面煎，蛋黄朝上。"
     },
     {
       "id": 78,
@@ -585,7 +585,7 @@
       "start": 229.24,
       "end": 230.0,
       "en": "So why is it called sunny side up?",
-      "zh": "那么为什么它被称为阳光面朝上呢？"
+      "zh": "那么为什么叫它 sunny side up 呢？"
     },
     {
       "id": 84,
@@ -669,7 +669,7 @@
       "start": 255.6,
       "end": 255.91,
       "en": "All the way through.",
-      "zh": "一路走来。"
+      "zh": "完全煎透。"
     },
     {
       "id": 96,
@@ -732,35 +732,35 @@
       "start": 267.63,
       "end": 268.95,
       "en": "A soft boiled egg.",
-      "zh": "一个软煮鸡蛋。"
+      "zh": "半熟水煮蛋。"
     },
     {
       "id": 105,
       "start": 269.21,
       "end": 270.33,
       "en": "A soft boiled egg.",
-      "zh": "一个软煮鸡蛋。"
+      "zh": "半熟水煮蛋。"
     },
     {
       "id": 106,
       "start": 270.59,
       "end": 271.35,
       "en": "Soft boiled.",
-      "zh": "软煮。"
+      "zh": "半熟水煮。"
     },
     {
       "id": 107,
       "start": 271.91,
       "end": 272.77,
       "en": "Soft boiled.",
-      "zh": "软煮。"
+      "zh": "半熟水煮。"
     },
     {
       "id": 108,
       "start": 273.47,
       "end": 276.49,
       "en": "Okay, so to boil, you put the egg?",
-      "zh": "好吧，煮沸，你把鸡蛋？"
+      "zh": "好吧，煮（boil）就是把鸡蛋放进？"
     },
     {
       "id": 109,
@@ -788,7 +788,7 @@
       "start": 280.84,
       "end": 281.44,
       "en": "And make it cook.",
-      "zh": "并让它做饭。"
+      "zh": "让它煮熟。"
     },
     {
       "id": 113,
@@ -837,7 +837,7 @@
       "start": 298.6,
       "end": 300.28,
       "en": "A hard boiled egg.",
-      "zh": "一个煮熟的鸡蛋。"
+      "zh": "全熟水煮蛋。"
     },
     {
       "id": 120,
@@ -851,21 +851,21 @@
       "start": 301.28,
       "end": 302.28,
       "en": "Hard boiled.",
-      "zh": "煮硬了。"
+      "zh": "全熟水煮。"
     },
     {
       "id": 122,
       "start": 302.28,
       "end": 305.83,
       "en": "So hard boiled is when you cook the entire egg again.",
-      "zh": "所以煮整个鸡蛋的时候，煮得很硬。"
+      "zh": "所以 hard boiled 就是把整个蛋煮到全熟。"
     },
     {
       "id": 123,
       "start": 305.96,
       "end": 307.83,
       "en": "Yes, so then it's hard like a ball.",
-      "zh": "是的，所以它像球一样难。"
+      "zh": "是的，然后它硬得像球一样。"
     },
     {
       "id": 124,
@@ -879,7 +879,7 @@
       "start": 309.19,
       "end": 315.11,
       "en": "So with this soft boiled and hard boiled eggs, this takes us to our next form, eggs and soldiers.",
-      "zh": "因此，有了这种煮熟和煮熟的鸡蛋，这将我们带到了我们的下一个形式，即鸡蛋和士兵。"
+      "zh": "说完了半熟水煮蛋和全熟水煮蛋，接下来是下一个形式：eggs and soldiers。"
     },
     {
       "id": 126,
@@ -963,7 +963,7 @@
       "start": 353.19,
       "end": 360.51,
       "en": "So eggs and soldiers. Interesting. And this takes us to our last form of egg preparation and probably the most popular.",
-      "zh": "所以鸡蛋和士兵。 有趣。 这将我们带到了最后一种形式的鸡蛋制备，可能是最受欢迎的。"
+      "zh": "所以是 eggs and soldiers。有意思。接下来是最后一种鸡蛋做法，可能也是最受欢迎的。"
     },
     {
       "id": 138,
@@ -991,7 +991,7 @@
       "start": 364.92,
       "end": 368.31,
       "en": "Take eggs, put them in a pan and then you just move them all over the place.",
-      "zh": "取鸡蛋，把它们放在平底锅里，然后把它们移动到整个地方。"
+      "zh": "把鸡蛋打进平底锅，然后不停地翻炒。"
     },
     {
       "id": 142,
@@ -1089,7 +1089,7 @@
       "start": 410.87,
       "end": 413.41,
       "en": "I'll take mine sunny side up.",
-      "zh": "我会把我的阳光一面朝上。"
+      "zh": "我的要单面煎，蛋黄朝上。"
     },
     {
       "id": 156,
@@ -1110,7 +1110,7 @@
       "start": 417.53,
       "end": 420.61,
       "en": "Ever since I was small, I've had eggs and soldiers.",
-      "zh": "自从我很小，我就有了鸡蛋和士兵。"
+      "zh": "我从小就一直吃 eggs and soldiers（水煮蛋配吐司条）。"
     },
     {
       "id": 159,
@@ -1138,7 +1138,7 @@
       "start": 432.21,
       "end": 437.07,
       "en": "When I asked for soft boiled eggs and they overcook them so they come out hard boiled.",
-      "zh": "当我要软煮鸡蛋时，他们把它们煮过头，所以它们煮熟了。"
+      "zh": "我点半熟水煮蛋时，他们却煮过头，变成了全熟蛋。"
     },
     {
       "id": 163,
@@ -1180,7 +1180,7 @@
       "start": 450.53,
       "end": 452.09,
       "en": "I said sunny side up.",
-      "zh": "我说阳光一面朝上。"
+      "zh": "我说了要单面煎、蛋黄朝上。"
     },
     {
       "id": 169,
@@ -1215,14 +1215,14 @@
       "start": 468.96,
       "end": 469.18,
       "en": "House husband.",
-      "zh": "房子老公。"
+      "zh": "家庭主夫。"
     },
     {
       "id": 174,
       "start": 469.96,
       "end": 470.24,
       "en": "House husband. Yeah.",
-      "zh": "房子老公。 是的。"
+      "zh": "家庭主夫。是的。"
     },
     {
       "id": 175,
@@ -1236,7 +1236,7 @@
       "start": 471.28,
       "end": 477.94,
       "en": "All right. Well, since this house husband felt like baking, I think we should look at this and one other phrase in Fluency Builder.",
-      "zh": "好的。 好吧，既然这位家庭丈夫想烘焙，我想我们应该看看 Fluency Builder 中的另一个短语。"
+      "zh": "好的。既然这位家庭主夫想烤点东西，我想我们该看看流利表达里的这个短语和另一个短语。"
     },
     {
       "id": 177,
@@ -1264,14 +1264,14 @@
       "start": 484.28,
       "end": 485.42,
       "en": "I felt like baking.",
-      "zh": "我感觉要烘焙。"
+      "zh": "我想烤点东西。"
     },
     {
       "id": 181,
       "start": 485.78,
       "end": 486.62,
       "en": "I felt like baking.",
-      "zh": "我感觉要烘焙。"
+      "zh": "我想烤点东西。"
     },
     {
       "id": 182,
@@ -1285,14 +1285,14 @@
       "start": 489.0,
       "end": 491.32,
       "en": "He feels like or he felt like in the past.",
-      "zh": "他觉得或他感觉像过去一样。"
+      "zh": "他说的是 feels like，或者过去式的 felt like。"
     },
     {
       "id": 184,
       "start": 491.86,
       "end": 493.14,
       "en": "What does that mean when you feel like?",
-      "zh": "当你喜欢的时候，这意味着什么？"
+      "zh": "feel like 是什么意思？"
     },
     {
       "id": 185,
@@ -1341,7 +1341,7 @@
       "start": 501.78,
       "end": 503.02,
       "en": "The ing form.",
-      "zh": "ING 表格。"
+      "zh": "ing 形式。"
     },
     {
       "id": 192,
@@ -1355,7 +1355,7 @@
       "start": 505.38,
       "end": 507.58,
       "en": "I feel like playing soccer.",
-      "zh": "我感觉像是踢足球。"
+      "zh": "我想踢足球。"
     },
     {
       "id": 194,
@@ -1628,7 +1628,7 @@
       "start": 588.3,
       "end": 593.16,
       "en": "Like she's got me thinking and she's got me in the clouds or something like that.",
-      "zh": "就像她让我思考，她让我在云端或类似的东西中。"
+      "zh": "就像她让我魂牵梦萦，让我飘飘然之类的。"
     },
     {
       "id": 233,
@@ -1775,7 +1775,7 @@
       "start": 638.45,
       "end": 640.21,
       "en": "I'll take mine sunny side up.",
-      "zh": "我会把我的阳光一面朝上。"
+      "zh": "我的要单面煎，蛋黄朝上。"
     },
     {
       "id": 254,
@@ -1789,7 +1789,7 @@
       "start": 643.55,
       "end": 645.57,
       "en": "Ever since I was small, I've had eggs and soldiers.",
-      "zh": "自从我很小，我就有了鸡蛋和士兵。"
+      "zh": "我从小就一直吃 eggs and soldiers（水煮蛋配吐司条）。"
     },
     {
       "id": 256,
@@ -1950,7 +1950,7 @@
       "start": 714.4,
       "end": 723.76,
       "en": "When you eat a soft boiled or hard boiled egg, you have to eat all of the egg outside of the shell and then you have to break the bottom of the shell after you finished.",
-      "zh": "当你吃一个煮熟或煮熟的鸡蛋时，你必须把所有的鸡蛋都吃掉，然后你必须在完成后打破壳的底部。"
+      "zh": "当你吃半熟或全熟的水煮蛋时，要先把蛋壳外面能吃的都吃掉，吃完后把蛋壳底部敲破。"
     },
     {
       "id": 279,
@@ -2069,7 +2069,7 @@
       "start": 770.62,
       "end": 773.04,
       "en": "Well, it's also a quick man's food.",
-      "zh": "嗯，它也是一个快速的男人的食物。"
+      "zh": "嗯，它也是忙碌之人的快手食物。"
     },
     {
       "id": 296,
@@ -2083,7 +2083,7 @@
       "start": 774.76,
       "end": 780.88,
       "en": "So let us know if you guys have any egg preparations or any special egg recipes or traditions that you practice.",
-      "zh": "因此，如果你们有任何鸡蛋制剂或任何特殊的鸡蛋食谱或您练习的传统，请告诉我们。"
+      "zh": "所以如果你们有什么鸡蛋做法、特别的鸡蛋食谱或传统，请告诉我们。"
     },
     {
       "id": 298,

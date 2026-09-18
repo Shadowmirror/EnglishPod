@@ -67,7 +67,7 @@
       "start": 20.0,
       "end": 20.85,
       "en": "This one is for you.",
-      "zh": "这一款是给你的。"
+      "zh": "这节课是为你准备的。"
     },
     {
       "id": 10,
@@ -116,7 +116,7 @@
       "start": 46.0,
       "end": 48.0,
       "en": "Vocabulary Preview.",
-      "zh": "词汇预习。"
+      "zh": "词汇预览。"
     },
     {
       "id": 17,
@@ -165,7 +165,7 @@
       "start": 60.36,
       "end": 61.0,
       "en": "So unidentified.",
-      "zh": "如此不明。"
+      "zh": "那么，unidentified。"
     },
     {
       "id": 24,
@@ -214,7 +214,7 @@
       "start": 67.98,
       "end": 68.56,
       "en": "And a spacecraft.",
-      "zh": "和一艘宇宙飞船。"
+      "zh": "再看 spacecraft。"
     },
     {
       "id": 31,
@@ -284,7 +284,7 @@
       "start": 85.0,
       "end": 89.0,
       "en": "So unidentified spacecraft, an unknown vehicle flying in space.",
-      "zh": "如此不明的航天器，一辆在太空中飞行的未知车辆。"
+      "zh": "所以 unidentified spacecraft，就是在太空中飞行的未知飞行器。"
     },
     {
       "id": 41,
@@ -333,7 +333,7 @@
       "start": 95.0,
       "end": 96.0,
       "en": "Have you?",
-      "zh": "你有吗？"
+      "zh": "你见过吗？"
     },
     {
       "id": 48,
@@ -347,7 +347,7 @@
       "start": 97.0,
       "end": 98.0,
       "en": "Hasn't anyone?",
-      "zh": "没有人吗？"
+      "zh": "难道没人见过吗？"
     },
     {
       "id": 50,
@@ -522,7 +522,7 @@
       "start": 216.84,
       "end": 220.0,
       "en": "Okay, so a really cool Lord Hater, huh?",
-      "zh": "好吧，一个非常酷的讨厌勋爵的人，嗯？"
+      "zh": "好吧，很酷的 Lord Hater，对吧？"
     },
     {
       "id": 75,
@@ -550,7 +550,7 @@
       "start": 228.32,
       "end": 231.28,
       "en": "I mean, it seems quite original to me.",
-      "zh": "我的意思是，这对我来说似乎很原始。"
+      "zh": "我的意思是，在我看来这挺原创的。"
     },
     {
       "id": 79,
@@ -578,7 +578,7 @@
       "start": 239.98,
       "end": 243.0,
       "en": "So let's take a look at these now in Language Takeaway.",
-      "zh": "因此，让我们在语言外卖中看看这些。"
+      "zh": "因此，让我们在语言要点中看看这些。"
     },
     {
       "id": 83,
@@ -613,7 +613,7 @@
       "start": 256.0,
       "end": 256.87,
       "en": "In the simple present, it would be?",
-      "zh": "在简单的现在，它会是什么？"
+      "zh": "用一般现在时来说就是？"
     },
     {
       "id": 88,
@@ -732,7 +732,7 @@
       "start": 306.0,
       "end": 311.57,
       "en": "All right, so Lord Hater had a fight with his enemy and he said he wants to settle this.",
-      "zh": "好吧，所以仇恨勋爵与他的敌人发生了争执，他说他想解决这个问题。"
+      "zh": "好吧，所以海特勋爵和敌人打了一架，他说他想把这事做个了断。"
     },
     {
       "id": 105,
@@ -746,7 +746,7 @@
       "start": 314.0,
       "end": 315.0,
       "en": "Settle.",
-      "zh": "定居。"
+      "zh": "解决。"
     },
     {
       "id": 107,
@@ -837,28 +837,28 @@
       "start": 344.39,
       "end": 349.83,
       "en": "Well, now another very popular word and within sci-fi is this word tractor beam.",
-      "zh": "好吧，现在另一个非常流行的词，在科幻中是这个词拖拉机束。"
+      "zh": "好吧，现在另一个非常流行的词，在科幻里就是 tractor beam 这个词。"
     },
     {
       "id": 120,
       "start": 350.09,
       "end": 350.91,
       "en": "Tractor beam.",
-      "zh": "拖拉机梁。"
+      "zh": "牵引光束。"
     },
     {
       "id": 121,
       "start": 351.49,
       "end": 352.0,
       "en": "A tractor beam.",
-      "zh": "拖拉机梁。"
+      "zh": "牵引光束。"
     },
     {
       "id": 122,
       "start": 352.0,
       "end": 352.29,
       "en": "Tractor beam.",
-      "zh": "拖拉机梁。"
+      "zh": "牵引光束。"
     },
     {
       "id": 123,
@@ -879,7 +879,7 @@
       "start": 358.39,
       "end": 369.23,
       "en": "But a tractor beam in sci-fi movies is like this invisible force that grabs an object and doesn't let it escape and brings it towards another spaceship.",
-      "zh": "但是科幻电影中的拖拉机光束就像这种无形的力量，它抓住了一个物体，不让它逃逸并将其带到另一个宇宙飞船。"
+      "zh": "但科幻电影里的牵引光束就像一种无形的力量，它抓住物体，不让它逃掉，并把它带向另一艘飞船。"
     },
     {
       "id": 126,
@@ -900,7 +900,7 @@
       "start": 373.91,
       "end": 377.03,
       "en": "So the spaceship managed to escape their tractor beam.",
-      "zh": "所以宇宙飞船设法逃离了他们的拖拉机光束。"
+      "zh": "所以宇宙飞船设法摆脱了他们的牵引光束。"
     },
     {
       "id": 129,
@@ -921,7 +921,7 @@
       "start": 382.0,
       "end": 384.86,
       "en": "But in sci-fi you will always hear this tractor beam.",
-      "zh": "但在科幻中，您将始终听到这束拖拉机光束。"
+      "zh": "但在科幻片里你总会听到这个牵引光束。"
     },
     {
       "id": 132,
@@ -935,7 +935,7 @@
       "start": 386.4,
       "end": 388.28,
       "en": "Now, let's move on to our final word.",
-      "zh": "现在，让我们继续我们的最后一句话。"
+      "zh": "现在，让我们继续最后一个词。"
     },
     {
       "id": 134,
@@ -1005,7 +1005,7 @@
       "start": 404.23,
       "end": 407.15,
       "en": "You want to accelerate so you can pass another car.",
-      "zh": "你想加速，这样你就可以通过另一辆车。"
+      "zh": "你想加速，好超越另一辆车。"
     },
     {
       "id": 144,
@@ -1019,7 +1019,7 @@
       "start": 408.17,
       "end": 410.67,
       "en": "Or even when you stop at a red light and it turns green.",
-      "zh": "甚至当您在红灯处停下来并变成绿色时。"
+      "zh": "或者当你在红灯前停下、灯变绿时。"
     },
     {
       "id": 146,
@@ -1145,7 +1145,7 @@
       "start": 518.59,
       "end": 519.0,
       "en": "Anymore.",
-      "zh": "再说。"
+      "zh": "不再。"
     },
     {
       "id": 164,
@@ -1208,7 +1208,7 @@
       "start": 541.27,
       "end": 543.95,
       "en": "Okay, so it's always will no longer be.",
-      "zh": "好吧，所以它永远不会了。"
+      "zh": "好吧，所以总是 will no longer be。"
     },
     {
       "id": 173,
@@ -1278,7 +1278,7 @@
       "start": 567.04,
       "end": 569.0,
       "en": "Okay, you know nothing of.",
-      "zh": "好吧，你什么都不知道。"
+      "zh": "好吧，you know nothing of。"
     },
     {
       "id": 183,
@@ -1327,7 +1327,7 @@
       "start": 580.04,
       "end": 582.68,
       "en": "You know nothing of and then.",
-      "zh": "你一无所知，然后。"
+      "zh": "you know nothing of，后面接……"
     },
     {
       "id": 190,
@@ -1390,7 +1390,7 @@
       "start": 598.99,
       "end": 606.71,
       "en": "But now you can understand when they use some of these words that maybe are a little bit difficult and very common in these types of movies.",
-      "zh": "但现在你可以理解他们何时使用其中一些在这些类型的电影中可能有点困难且非常常见的词。"
+      "zh": "但现在，他们在电影里用到那些有点难、却很常见的词时，你就能听懂了。"
     },
     {
       "id": 199,
@@ -1418,7 +1418,7 @@
       "start": 615.57,
       "end": 619.49,
       "en": "Okay, so we saw the word settle already.",
-      "zh": "好的，所以我们已经看到这个词已经解决了。"
+      "zh": "好的，settle 这个词我们已经见过了。"
     },
     {
       "id": 203,
@@ -1446,7 +1446,7 @@
       "start": 626.01,
       "end": 626.41,
       "en": "Finally.",
-      "zh": "终于。"
+      "zh": "彻底地。"
     },
     {
       "id": 207,
@@ -1530,7 +1530,7 @@
       "start": 671.0,
       "end": 672.23,
       "en": "We've seen a lot of words.",
-      "zh": "我们看到了很多字。"
+      "zh": "我们学了很多单词。"
     },
     {
       "id": 219,
@@ -1565,7 +1565,7 @@
       "start": 704.0,
       "end": 704.74,
       "en": "Excellent job.",
-      "zh": "优秀的工作。"
+      "zh": "干得好。"
     },
     {
       "id": 224,
@@ -1712,7 +1712,7 @@
       "start": 792.29,
       "end": 797.13,
       "en": "Actually, I've seen some of the Star Wars movies, but everyone that I've watched, I've fallen asleep in the middle of.",
-      "zh": "实际上，我看过一些星球大战电影，但我看过的每个人，我都在中间睡着了。"
+      "zh": "实际上，我看过几部《星球大战》，但看过的每一部我都在中间睡着了。"
     },
     {
       "id": 245,
@@ -1754,14 +1754,14 @@
       "start": 805.27,
       "end": 807.0,
       "en": "You're not really into the fantasy side?",
-      "zh": "你不是真的进入幻想的一面吗？"
+      "zh": "你不太喜欢奇幻那一类？"
     },
     {
       "id": 251,
       "start": 807.51,
       "end": 811.33,
       "en": "No, the whole time I'm sitting there going, this cannot happen.",
-      "zh": "不，在我坐在那里的整个过程中，这不会发生。"
+      "zh": "不，我坐在那儿整场都在想：这不可能发生。"
     },
     {
       "id": 252,
@@ -1782,7 +1782,7 @@
       "start": 816.04,
       "end": 821.4,
       "en": "But it is interesting to some people, and well, behind Star Wars, there is a huge culture.",
-      "zh": "但对一些人来说，这很有趣，而且，在《星球大战》的背后，有一种巨大的文化。"
+      "zh": "但对一些人来说它确实有意思，而且《星球大战》背后有非常庞大的文化。"
     },
     {
       "id": 255,
@@ -1796,7 +1796,7 @@
       "start": 830.2,
       "end": 832.92,
       "en": "Well, maybe we'll have to come up with Star Wars pods.",
-      "zh": "好吧，也许我们必须想出星球大战吊舱。"
+      "zh": "好吧，也许我们该做几期《星球大战》的播客。"
     },
     {
       "id": 257,

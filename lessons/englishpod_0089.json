@@ -81,21 +81,21 @@
       "start": 30.1,
       "end": 30.9,
       "en": "Vocabulary Preview.",
-      "zh": "词汇预习。"
+      "zh": "词汇预览。"
     },
     {
       "id": 12,
       "start": 32.54,
       "end": 35.65,
       "en": "We're going to hear this guy say, I'd like to check three pieces.",
-      "zh": "我们要听这家伙说，我想检查三块。"
+      "zh": "我们要听这个人说：I'd like to check three pieces，我想托运三件。"
     },
     {
       "id": 13,
       "start": 36.48,
       "end": 39.8,
       "en": "He's going to check three pieces of what?",
-      "zh": "他要检查三块什么？"
+      "zh": "他要托运三件什么？"
     },
     {
       "id": 14,
@@ -109,7 +109,7 @@
       "start": 41.66,
       "end": 45.01,
       "en": "So when we talk about luggage, we can say pieces of luggage.",
-      "zh": "所以当我们谈论行李时，我们可以说行李块。"
+      "zh": "所以说到行李，我们可以说 pieces of luggage（几件行李）。"
     },
     {
       "id": 16,
@@ -123,14 +123,14 @@
       "start": 46.56,
       "end": 48.49,
       "en": "Luggage is a non-count noun.",
-      "zh": "行李是非计数名词。"
+      "zh": "luggage 是不可数名词。"
     },
     {
       "id": 18,
       "start": 48.94,
       "end": 52.18,
       "en": "So you can't say one luggage, two luggages, three luggages.",
-      "zh": "所以你不能说一件行李，两件行李，三件行李。"
+      "zh": "所以你不能说 one luggage、two luggages、three luggages。"
     },
     {
       "id": 19,
@@ -151,7 +151,7 @@
       "start": 53.04,
       "end": 56.0,
       "en": "So we use pieces of luggage.",
-      "zh": "所以我们使用行李块。"
+      "zh": "所以我们用 pieces of luggage 来表达。"
     },
     {
       "id": 22,
@@ -165,7 +165,7 @@
       "start": 57.48,
       "end": 58.67,
       "en": "So three pieces of luggage.",
-      "zh": "于是三件行李。"
+      "zh": "所以是三件行李。"
     },
     {
       "id": 24,
@@ -186,7 +186,7 @@
       "start": 62.84,
       "end": 68.0,
       "en": "We're going to see what happens with this guy at the airport and with his pieces of luggage.",
-      "zh": "我们将看看这个人在机场和他的行李中会发生什么。"
+      "zh": "我们来看看这个人在机场、还有他那些行李会出什么事。"
     },
     {
       "id": 27,
@@ -410,7 +410,7 @@
       "start": 150.56,
       "end": 154.68,
       "en": "I'm sure many of our listeners can relate to this situation.",
-      "zh": "我相信我们的许多听众都可以与这种情况联系起来。"
+      "zh": "我相信很多听众都对这种情况深有体会。"
     },
     {
       "id": 59,
@@ -445,7 +445,7 @@
       "start": 161.5,
       "end": 165.56,
       "en": "We want to talk about some really useful vocabulary in Language Takeaway.",
-      "zh": "我们想在语言外卖中讨论一些非常有用的词汇。"
+      "zh": "我们想在语言要点中讨论一些非常有用的词汇。"
     },
     {
       "id": 64,
@@ -459,7 +459,7 @@
       "start": 169.28,
       "end": 173.96,
       "en": "All right, on Language Takeaway today, we have five words.",
-      "zh": "好吧，关于今天的语言外卖，我们有五个词。"
+      "zh": "好吧，关于今天的语言要点，我们有五个词。"
     },
     {
       "id": 66,
@@ -473,7 +473,7 @@
       "start": 175.88,
       "end": 179.28,
       "en": "So the woman asked, will you be checking any bags today?",
-      "zh": "所以女人问，你今天会检查任何行李吗？"
+      "zh": "所以女士问：will you be checking any bags today？您今天有行李要托运吗？"
     },
     {
       "id": 68,
@@ -487,7 +487,7 @@
       "start": 182.68,
       "end": 183.94,
       "en": "To check bags.",
-      "zh": "检查行李。"
+      "zh": "check bags，托运行李。"
     },
     {
       "id": 70,
@@ -501,14 +501,14 @@
       "start": 185.0,
       "end": 186.1,
       "en": "So the verb to check.",
-      "zh": "所以动词要检查。"
+      "zh": "所以动词 check，"
     },
     {
       "id": 72,
       "start": 186.84,
       "end": 192.25,
       "en": "It means to give your bags to the airline, to register them.",
-      "zh": "这意味着将您的行李交给航空公司，进行注册。"
+      "zh": "意思是把行李交给航空公司，登记托运。"
     },
     {
       "id": 73,
@@ -522,7 +522,7 @@
       "start": 195.28,
       "end": 198.65,
       "en": "You check them, so basically they become responsible for your bags.",
-      "zh": "你检查它们，所以基本上它们对你的包负责。"
+      "zh": "你托运之后，基本上就由航空公司负责你的行李了。"
     },
     {
       "id": 75,
@@ -550,7 +550,7 @@
       "start": 203.83,
       "end": 206.29,
       "en": "When you go to a hotel, you register at the hotel.",
-      "zh": "当你去酒店时，你在酒店注册。"
+      "zh": "你去酒店时，要在前台登记入住。"
     },
     {
       "id": 79,
@@ -564,14 +564,14 @@
       "start": 207.85,
       "end": 210.29,
       "en": "In this case, you just check your luggage.",
-      "zh": "在这种情况下，您只需检查您的行李。"
+      "zh": "而在机场，你只是 check 你的行李。"
     },
     {
       "id": 81,
       "start": 210.48,
       "end": 211.64,
       "en": "You don't check in your luggage.",
-      "zh": "你不托运行李。"
+      "zh": "你不会说 check in your luggage。"
     },
     {
       "id": 82,
@@ -592,7 +592,7 @@
       "start": 214.4,
       "end": 219.66,
       "en": "So he wanted to check three pieces of luggage, and he also had carry-on luggage.",
-      "zh": "所以他想检查三件行李，还带着随身行李。"
+      "zh": "所以他想托运三件行李，另外还带着随身行李。"
     },
     {
       "id": 85,
@@ -606,7 +606,7 @@
       "start": 221.84,
       "end": 223.2,
       "en": "Carry-on.",
-      "zh": "随身携带。"
+      "zh": "随身行李。"
     },
     {
       "id": 87,
@@ -620,7 +620,7 @@
       "start": 225.6,
       "end": 227.31,
       "en": "That's right, you carry it on yourself.",
-      "zh": "没错，你自己承担。"
+      "zh": "没错，就是你随身带着的。"
     },
     {
       "id": 89,
@@ -697,7 +697,7 @@
       "start": 251.6,
       "end": 252.75,
       "en": "We have two words there, inter.",
-      "zh": "我们有两个词，国际米兰。"
+      "zh": "这里面有两个词，inter。"
     },
     {
       "id": 100,
@@ -746,7 +746,7 @@
       "start": 266.53,
       "end": 269.37,
       "en": "He's trying to board this intercontinental flight.",
-      "zh": "他正试图登上这次洲际飞行。"
+      "zh": "他正要登上这趟洲际航班。"
     },
     {
       "id": 107,
@@ -795,7 +795,7 @@
       "start": 279.6,
       "end": 280.6,
       "en": "To get on a vehicle.",
-      "zh": "上车。"
+      "zh": "登上交通工具。"
     },
     {
       "id": 114,
@@ -851,14 +851,14 @@
       "start": 290.36,
       "end": 291.96,
       "en": "All aboard.",
-      "zh": "全部上船。"
+      "zh": "请登机。"
     },
     {
       "id": 122,
       "start": 291.96,
       "end": 295.03,
       "en": "That's right, that's why in movies you see that somebody will yell all aboard.",
-      "zh": "没错，这就是为什么在电影中你看到有人会在船上大喊大叫的原因。"
+      "zh": "没错，所以电影里你会看到有人喊 all aboard。"
     },
     {
       "id": 123,
@@ -886,42 +886,42 @@
       "start": 298.56,
       "end": 299.56,
       "en": "All aboard.",
-      "zh": "全部上船。"
+      "zh": "请登机。"
     },
     {
       "id": 127,
       "start": 299.56,
       "end": 306.44,
       "en": "Okay, so board a vehicle and our last phrase for today, overhead compartment.",
-      "zh": "好的，所以登上一辆车和我们今天的最后一句话，头顶隔间。"
+      "zh": "好，所以 board 表示登上交通工具；今天最后一个短语是 overhead compartment。"
     },
     {
       "id": 128,
       "start": 306.44,
       "end": 306.99,
       "en": "Overhead compartment.",
-      "zh": "架空隔间。"
+      "zh": "头顶行李舱。"
     },
     {
       "id": 129,
       "start": 308.48,
       "end": 308.73,
       "en": "Overhead compartment.",
-      "zh": "架空隔间。"
+      "zh": "头顶行李舱。"
     },
     {
       "id": 130,
       "start": 309.63,
       "end": 312.13,
       "en": "All right, let's break this phrase down.",
-      "zh": "好吧，让我们分解这句话。"
+      "zh": "好吧，我们来拆解一下这个短语。"
     },
     {
       "id": 131,
       "start": 312.91,
       "end": 313.51,
       "en": "Overhead.",
-      "zh": "开销。"
+      "zh": "头顶。"
     },
     {
       "id": 132,
@@ -1005,7 +1005,7 @@
       "start": 342.22,
       "end": 346.32,
       "en": "Right, so because the image is over your head and it's big, it's called an overhead projector.",
-      "zh": "对，所以因为图像在您的头上并且很大，因此称为投影仪。"
+      "zh": "对，因为机器在头顶上方，所以叫 overhead projector。"
     },
     {
       "id": 144,
@@ -1019,7 +1019,7 @@
       "start": 349.16,
       "end": 354.52,
       "en": "Why don't we hear it again in context by listening to the dialogue for the second time?",
-      "zh": "为什么我们不通过第二次聆听对话在上下文中再次听到它？"
+      "zh": "我们再听一遍对话，在语境里体会一下。"
     },
     {
       "id": 146,
@@ -1061,7 +1061,7 @@
       "start": 370.86,
       "end": 373.82,
       "en": "Yes, I'd like to check three pieces.",
-      "zh": "是的，我想检查三块。"
+      "zh": "是的，我想托运三件。"
     },
     {
       "id": 152,
@@ -1180,14 +1180,14 @@
       "start": 424.86,
       "end": 430.15,
       "en": "But when it comes to charging for any other small thing, you charge an arm and a leg.",
-      "zh": "但是，当涉及到任何其他小事充电时，您会为手臂和腿充电。"
+      "zh": "但一到其他任何小事要收费，你就狮子大开口。"
     },
     {
       "id": 169,
       "start": 431.08,
       "end": 434.69,
       "en": "So tell me, miss, how much will I have to pay for all this?",
-      "zh": "所以告诉我，小姐，我要为这一切付出多少？"
+      "zh": "所以告诉我，小姐，这些我要付多少钱？"
     },
     {
       "id": 170,
@@ -1215,7 +1215,7 @@
       "start": 441.24,
       "end": 443.2,
       "en": "That's more than my round-trip ticket.",
-      "zh": "这不仅仅是我的往返票。"
+      "zh": "这比我往返机票还贵。"
     },
     {
       "id": 174,
@@ -1236,7 +1236,7 @@
       "start": 450.98,
       "end": 455.96,
       "en": "And with this, it's time for us to take a look at some great phrases in putting it together.",
-      "zh": "有了这个，是时候让我们看看把它放在一起的一些很棒的短语了。"
+      "zh": "接下来，我们来看看综合运用部分的一些很棒的说法。"
     },
     {
       "id": 177,
@@ -1320,7 +1320,7 @@
       "start": 494.32,
       "end": 496.19,
       "en": "How is she supposed to get to work if her car's in the shop?",
-      "zh": "如果她的车在商店里，她应该怎么去上班？"
+      "zh": "如果她的车在修理店，她怎么去上班？"
     },
     {
       "id": 189,
@@ -1404,7 +1404,7 @@
       "start": 521.68,
       "end": 527.2,
       "en": "When you're maybe a little bit frustrated or you're maybe nervous of something that you can't do or don't know how.",
-      "zh": "当您可能有点沮丧或您可能对自己做不到或不知道如何做的事情感到紧张时。"
+      "zh": "当你有点沮丧，或为某件做不到、不知道怎么做的事感到紧张时。"
     },
     {
       "id": 201,
@@ -1418,7 +1418,7 @@
       "start": 528.2,
       "end": 533.82,
       "en": "This phrase, it's not impolite, but it sort of gives the idea that you're challenging the other person a little bit.",
-      "zh": "这句话，它不是不礼貌的，但它有点让你有点挑战对方的想法。"
+      "zh": "这个说法不算不礼貌，但多少有点在挑战对方的意思。"
     },
     {
       "id": 203,
@@ -1509,7 +1509,7 @@
       "start": 553.8,
       "end": 560.5,
       "en": "So basically, the woman can't help the man, even though he's insisting and he's pushing that he wants another solution.",
-      "zh": "所以基本上，女人不能帮助这个男人，即使他坚持并且他在推动他想要另一个解决方案。"
+      "zh": "所以基本上，女士帮不了这位男士，尽管他一直坚持，想要另一个解决办法。"
     },
     {
       "id": 216,
@@ -1537,7 +1537,7 @@
       "start": 566.34,
       "end": 570.54,
       "en": "So we use this phrase when someone's pushing you too much, right?",
-      "zh": "所以当有人推你太多时，我们使用这个短语，对吧？"
+      "zh": "所以当有人逼你逼得太紧时，我们会用这个说法，对吧？"
     },
     {
       "id": 220,
@@ -1551,21 +1551,21 @@
       "start": 571.14,
       "end": 575.46,
       "en": "And you would use it only in that situation towards the end because it is a little bit...",
-      "zh": "你只会在最后的情况下使用它，因为它有点..."
+      "zh": "而且你只会在那种情况、到最后才会这么说，因为它有点……"
     },
     {
       "id": 222,
       "start": 575.46,
       "end": 576.14,
       "en": "It's strong.",
-      "zh": "挺强烈的。"
+      "zh": "语气很强硬。"
     },
     {
       "id": 223,
       "start": 576.92,
       "end": 581.74,
       "en": "It's not in plight, but it's just, you're saying, you know what, I'm sorry, there's I can't do anything about it.",
-      "zh": "这不是陷入困境，但它只是，你在说，你知道什么，对不起，我对此无能为力。"
+      "zh": "它不是不礼貌，只是你在说：你知道吗，抱歉，我对此无能为力。"
     },
     {
       "id": 224,
@@ -1579,7 +1579,7 @@
       "start": 585.16,
       "end": 588.16,
       "en": "You charge next to nothing.",
-      "zh": "你几乎没有收费。"
+      "zh": "你几乎不收费。"
     },
     {
       "id": 226,
@@ -1614,7 +1614,7 @@
       "start": 593.0,
       "end": 593.47,
       "en": "So we're talking about charging.",
-      "zh": "所以我们在谈论充电。"
+      "zh": "所以我们在谈收费。"
     },
     {
       "id": 231,
@@ -1628,7 +1628,7 @@
       "start": 595.92,
       "end": 602.24,
       "en": "Why don't we listen to some examples of what this next to nothing phrase means?",
-      "zh": "为什么我们不听一些关于这句话几乎没有意义的例子？"
+      "zh": "我们来听几个例子，看看 next to nothing 这个说法是什么意思。"
     },
     {
       "id": 233,
@@ -1649,7 +1649,7 @@
       "start": 607.44,
       "end": 609.34,
       "en": "It was so cheap that it almost cost next to nothing.",
-      "zh": "它是如此便宜，几乎没有任何东西。"
+      "zh": "它便宜得几乎没花什么钱。"
     },
     {
       "id": 236,
@@ -1670,7 +1670,7 @@
       "start": 618.88,
       "end": 620.11,
       "en": "Tickets cost next to nothing right now.",
-      "zh": "门票现在几乎没有任何费用。"
+      "zh": "现在机票便宜得几乎不值钱。"
     },
     {
       "id": 239,
@@ -1684,7 +1684,7 @@
       "start": 628.12,
       "end": 632.08,
       "en": "The real estate agent charged me next to nothing for his commission, so I got a really good deal.",
-      "zh": "房地产经纪人几乎没有向我收取佣金，所以我得到了一个非常好的交易。"
+      "zh": "房地产经纪人的佣金几乎没收我钱，所以我捡了个大便宜。"
     },
     {
       "id": 241,
@@ -1705,7 +1705,7 @@
       "start": 640.25,
       "end": 644.01,
       "en": "And now for our last phrase, it's the complete opposite of next to nothing.",
-      "zh": "现在对于我们的最后一句话，它完全相反。"
+      "zh": "现在来看最后一个短语，它和 next to nothing 正好相反。"
     },
     {
       "id": 244,
@@ -1719,21 +1719,21 @@
       "start": 645.8,
       "end": 646.83,
       "en": "Charge an arm and a leg.",
-      "zh": "充电一条胳膊和一条腿。"
+      "zh": "charge an arm and a leg，收费贵得离谱。"
     },
     {
       "id": 246,
       "start": 647.6,
       "end": 648.81,
       "en": "An arm and a leg.",
-      "zh": "一条胳膊和一条腿。"
+      "zh": "贵得离谱。"
     },
     {
       "id": 247,
       "start": 649.08,
       "end": 650.09,
       "en": "An arm and a leg.",
-      "zh": "一条胳膊和一条腿。"
+      "zh": "贵得离谱。"
     },
     {
       "id": 248,
@@ -1761,7 +1761,7 @@
       "start": 654.88,
       "end": 656.81,
       "en": "It's like giving your arm and your leg.",
-      "zh": "这就像给你的手臂和腿。"
+      "zh": "就像要你付出一条胳膊、一条腿。"
     },
     {
       "id": 252,
@@ -1803,14 +1803,14 @@
       "start": 662.16,
       "end": 664.19,
       "en": "An arm and a leg, really expensive.",
-      "zh": "一条胳膊和一条腿，真的很贵。"
+      "zh": "an arm and a leg，就是贵得离谱。"
     },
     {
       "id": 258,
       "start": 664.92,
       "end": 665.75,
       "en": "Can we look at the use here?",
-      "zh": "我们可以看看这里的用途吗？"
+      "zh": "我们可以看看这里的用法吗？"
     },
     {
       "id": 259,
@@ -1824,7 +1824,7 @@
       "start": 666.95,
       "end": 673.45,
       "en": "So in the dialogue we heard, you charge an arm and a leg, but we can also say it costs an arm and a leg.",
-      "zh": "所以在我们听到的对话中，你充电一条胳膊和一条腿，但我们也可以说它需要一条胳膊和一条腿。"
+      "zh": "所以在对话里我们听到 you charge an arm and a leg，也可以说 it costs an arm and a leg。"
     },
     {
       "id": 261,
@@ -1992,7 +1992,7 @@
       "start": 749.36,
       "end": 750.82,
       "en": "That's more than my round trip ticket.",
-      "zh": "这不仅仅是我的往返票。"
+      "zh": "这比我往返机票还贵。"
     },
     {
       "id": 285,
@@ -2013,7 +2013,7 @@
       "start": 757.73,
       "end": 760.85,
       "en": "Most of the time you always end up paying overweight when you travel.",
-      "zh": "大多数时候，你总是在旅行时付出超重的代价。"
+      "zh": "大多数时候，旅行时最后总要付超重费。"
     },
     {
       "id": 288,
@@ -2027,7 +2027,7 @@
       "start": 761.65,
       "end": 766.33,
       "en": "I know that this happened to me once and it was really expensive.",
-      "zh": "我知道这发生在我身上一次，而且真的很贵。"
+      "zh": "我知道，我有一次就遇到了，而且特别贵。"
     },
     {
       "id": 290,
@@ -2083,7 +2083,7 @@
       "start": 781.81,
       "end": 785.09,
       "en": "So my credit card was pretty maxed out after that.",
-      "zh": "所以在那之后我的信用卡已经用完了。"
+      "zh": "所以在那之后，我的信用卡都快刷爆了。"
     },
     {
       "id": 298,
@@ -2104,7 +2104,7 @@
       "start": 788.12,
       "end": 791.89,
       "en": "Well, I'm sure many of our users probably suffered similar experiences like this.",
-      "zh": "好吧，我敢肯定我们的许多用户可能遭受了类似的经历。"
+      "zh": "好吧，我敢肯定很多用户也遇到过类似的经历。"
     },
     {
       "id": 301,
@@ -2132,7 +2132,7 @@
       "start": 799.37,
       "end": 802.27,
       "en": "So please check us out and thanks for downloading you guys.",
-      "zh": "所以请查看我们，感谢您下载你们。"
+      "zh": "所以请来看看我们，谢谢大家下载。"
     },
     {
       "id": 305,

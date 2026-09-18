@@ -81,7 +81,7 @@
       "start": 31.31,
       "end": 33.37,
       "en": "We'll be back in a moment to talk about them.",
-      "zh": "我们稍后会回来谈论他们。"
+      "zh": "我们稍后会回来谈论它们。"
     },
     {
       "id": 12,
@@ -123,21 +123,21 @@
       "start": 68.46,
       "end": 72.02,
       "en": "The term physics encompasses many different areas of research and study.",
-      "zh": "物理学一词包含许多不同的研究和研究领域。"
+      "zh": "物理学这个词涵盖许多不同的研究领域。"
     },
     {
       "id": 18,
       "start": 72.36,
       "end": 80.12,
       "en": "And I hope this course will provide you with a conceptual understanding of physics, which will prove useful whether or not you choose to further your study in the field.",
-      "zh": "我希望这门课程能为您提供对物理学的概念理解，无论您是否选择在该领域继续学习，这将证明是有用的。"
+      "zh": "我希望这门课程能让您对物理学有一个概念性的理解，无论您是否选择在该领域继续深造，这都会很有用。"
     },
     {
       "id": 19,
       "start": 80.63,
       "end": 83.97,
       "en": "We will begin the course by looking at the fundamental concepts of physics.",
-      "zh": "我们将从物理学的基本概念开始课程。"
+      "zh": "我们将从物理学的基本概念开始这门课。"
     },
     {
       "id": 20,
@@ -228,14 +228,14 @@
       "start": 147.48,
       "end": 152.62,
       "en": "So he's talking about the different kinds of physics or the different elements of physics that will be a part of this course.",
-      "zh": "所以他正在谈论将成为本课程一部分的不同类型的物理学或不同的物理元素。"
+      "zh": "所以他谈到了这门课会涉及的不同类型或不同分支的物理学。"
     },
     {
       "id": 33,
       "start": 153.38,
       "end": 160.0,
       "en": "And there's a very eager student, he's very excited and he wants to know, are these interesting things going to be a part of the course?",
-      "zh": "有一个非常渴望的学生，他非常兴奋，他想知道，这些有趣的事情会成为课程的一部分吗？"
+      "zh": "有个非常积极的学生，他很兴奋，想知道这些有趣的内容会不会成为课程的一部分。"
     },
     {
       "id": 34,
@@ -256,7 +256,7 @@
       "start": 170.23,
       "end": 177.03,
       "en": "He mentioned, this boy Matt said, if they're going to be focusing more on theoretical physics or experimental physics.",
-      "zh": "他提到，这个男孩马特说，如果他们要更多地关注理论物理学或实验物理学。"
+      "zh": "他提到，这个男孩马特问，他们是否会更多地关注理论物理学还是实验物理学。"
     },
     {
       "id": 37,
@@ -270,7 +270,7 @@
       "start": 183.17,
       "end": 183.99,
       "en": "That means they're both physics.",
-      "zh": "这意味着他们都是物理学。"
+      "zh": "这意味着它们都属于物理学。"
     },
     {
       "id": 39,
@@ -284,7 +284,7 @@
       "start": 190.14,
       "end": 191.9,
       "en": "Theoretical comes from the word theory.",
-      "zh": "理论来自理论。"
+      "zh": "Theoretical 这个词来自 theory。"
     },
     {
       "id": 41,
@@ -305,7 +305,7 @@
       "start": 202.0,
       "end": 207.0,
       "en": "But with experimental physics, the key word here is experiment, experimental.",
-      "zh": "但对于实验物理学，这里的关键词是实验、实验。"
+      "zh": "但对于实验物理学，关键词是 experiment、experimental。"
     },
     {
       "id": 44,
@@ -333,7 +333,7 @@
       "start": 220.95,
       "end": 222.83,
       "en": "We can just have theories around them.",
-      "zh": "我们可以围绕它们进行理论。"
+      "zh": "我们只能围绕它们提出理论。"
     },
     {
       "id": 48,
@@ -347,7 +347,7 @@
       "start": 225.0,
       "end": 229.0,
       "en": "But experimental physics, you can actually, as you said, create an experiment to prove it or not.",
-      "zh": "但是实验物理学，正如你所说，你可以创建一个实验来证明这一点。"
+      "zh": "但是实验物理学，正如你所说，你可以做个实验来证明它成立与否。"
     },
     {
       "id": 50,
@@ -410,14 +410,14 @@
       "start": 264.0,
       "end": 275.0,
       "en": "Right. And actually, after the professor said that, this other, this guy, Matt, went on to ask if they were going to learn about black holes, wormholes and string theory.",
-      "zh": "对。 实际上，在教授说之后，另一个人，马特，继续询问他们是否要了解黑洞、虫洞和弦理论。"
+      "zh": "对。实际上，教授说完之后，这个马特又接着问他们是否会学黑洞、虫洞和弦理论。"
     },
     {
       "id": 59,
       "start": 275.0,
       "end": 279.0,
       "en": "OK, so three very important parts of physics, but very, very complicated things.",
-      "zh": "好的，所以物理学的三个非常重要的部分，但非常非常复杂的事情。"
+      "zh": "好的，这是物理学的三个非常重要的部分，但也都是非常非常复杂的东西。"
     },
     {
       "id": 60,
@@ -431,7 +431,7 @@
       "start": 283.0,
       "end": 291.0,
       "en": "Astro means star. So astrophysics is the physics of things, bodies in space, planets, stars, things like that.",
-      "zh": "太空人的意思是星星。 所以天体物理学是事物的物理学，太空中的物体，行星，恒星，类似的东西。"
+      "zh": "Astro 的意思是星星。所以天体物理学研究的是太空中的物体，比如行星、恒星之类的天体。"
     },
     {
       "id": 62,
@@ -459,7 +459,7 @@
       "start": 301.79,
       "end": 305.73,
       "en": "The concept of it is basically a huge hole in space that just sucks up everything.",
-      "zh": "它的概念基本上是一个巨大的太空洞，它只会吸收一切。"
+      "zh": "它的概念基本上就是太空中的一个巨洞，会把一切都吸进去。"
     },
     {
       "id": 66,
@@ -487,21 +487,21 @@
       "start": 320.0,
       "end": 324.0,
       "en": "That's right. And the other concept there is a wormhole.",
-      "zh": "没错。 另一个概念有一个虫洞。"
+      "zh": "没错。另一个概念是虫洞。"
     },
     {
       "id": 70,
       "start": 324.0,
       "end": 333.0,
       "en": "So it's basically a sort of bending of space and time in which you can travel from one point to another a lot faster than going in a straight line.",
-      "zh": "所以它基本上是一种空间和时间的弯曲，你可以从一个点到另一个点比直线快得多。"
+      "zh": "所以它基本上是一种时空弯曲，让你能从一个点到另一个点，比走直线快得多。"
     },
     {
       "id": 71,
       "start": 333.19,
       "end": 334.45,
       "en": "Or from one time to another.",
-      "zh": "或从一次到另一次。"
+      "zh": "或者从一个时间点到另一个时间点。"
     },
     {
       "id": 72,
@@ -522,7 +522,7 @@
       "start": 344.97,
       "end": 348.65,
       "en": "So one ship goes from the future and it comes into the past.",
-      "zh": "所以一艘船从未来开始，它会进入过去。"
+      "zh": "所以一艘船从未来出发，来到了过去。"
     },
     {
       "id": 75,
@@ -599,14 +599,14 @@
       "start": 381.0,
       "end": 390.0,
       "en": "And string theory is about basically strings that are vibrating and that's the way the entire universe is kind of built.",
-      "zh": "弦理论基本上是关于振动的字符串，这就是整个宇宙的构建方式。"
+      "zh": "弦理论基本上是说，弦在振动，整个宇宙就是这样构建起来的。"
     },
     {
       "id": 86,
       "start": 390.24,
       "end": 403.62,
       "en": "Yeah, so basically at the subatomic level, usually you're supposed to have an atom, but also supposedly these atoms are made up of strings that depending on the frequency at which they vibrate, they can constitute different elements or different parts.",
-      "zh": "是的，所以基本上在亚原子水平上，通常你应该有一个原子，但也可以说这些原子是由弦组成的，取决于它们振动的频率，它们可以构成不同的元素或不同的部分。"
+      "zh": "是的，基本上在亚原子层面，通常我们说的是原子，但据说这些原子是由弦组成的，根据它们振动的频率不同，可以构成不同的元素或不同的部分。"
     },
     {
       "id": 87,
@@ -676,7 +676,7 @@
       "start": 446.5,
       "end": 453.86,
       "en": "That's right. So basically the general theory of relativity is this idea that space and time are not fixed.",
-      "zh": "没错。 所以基本上相对论的一般理论是空间和时间不是固定的。"
+      "zh": "没错。所以广义相对论的基本观点是，空间和时间并不是固定的。"
     },
     {
       "id": 97,
@@ -690,7 +690,7 @@
       "start": 456.64,
       "end": 467.02,
       "en": "So an example my teacher used to use is that when you travel very, very, very fast, imagine going around a jet around the world counterclockwise, time slows down the faster you move.",
-      "zh": "所以我的老师过去常用的一个例子是，当你非常、非常、非常快地旅行时，想象一下逆时针绕着世界的喷气式飞机，你移动的速度越快，时间就会变慢。"
+      "zh": "我的老师过去常用的一个例子是：当你以非常非常快的速度行进时——想象一架喷气机逆时针绕地球飞行——你移动得越快，时间就越慢。"
     },
     {
       "id": 99,
@@ -711,21 +711,21 @@
       "start": 473.93,
       "end": 486.03,
       "en": "Actually, the general theory of relativity and specifically this aspect of speed and time was proven with the example that you give with two atomic clocks.",
-      "zh": "实际上，相对论的一般理论，特别是速度和时间的这一方面，你用两个原子钟给出的例子得到了证明。"
+      "zh": "实际上，广义相对论，特别是速度和时间的这一方面，就是用你说的两个原子钟的例子得到证明的。"
     },
     {
       "id": 102,
       "start": 486.87,
       "end": 494.95,
       "en": "You kept one on the ground, like, I don't know, in your house, and you put one in an airplane that was traveling faster than the speed of sound.",
-      "zh": "你把一个放在地上，就像，我不知道，在你的房子里，你把一架放在一架比音速快的飞机上。"
+      "zh": "你把一个放在地上，比如，不知道，放在家里，把另一个放在一架速度超过音速的飞机上。"
     },
     {
       "id": 103,
       "start": 495.61,
       "end": 511.39,
       "en": "And so after maybe an hour, the plane would land and the clocks would have not the same time anymore, but they would be one, the clock that was in the airplane traveling faster would be maybe half a second off or something very, very small.",
-      "zh": "因此，大概一个小时后，飞机将降落，时钟将不再是同一时间，但它们将是一个，飞机上的时钟可能会偏离半秒或非常非常小的时间。"
+      "zh": "所以大概一小时后飞机降落，两个钟的时间就不再一致了——飞机上那个走得快的钟可能差了半秒，或者非常非常小的量。"
     },
     {
       "id": 104,
@@ -746,7 +746,7 @@
       "start": 516.65,
       "end": 518.05,
       "en": "So that's the general theory.",
-      "zh": "这就是一般理论。"
+      "zh": "这就是广义相对论。"
     },
     {
       "id": 107,
@@ -788,7 +788,7 @@
       "start": 541.92,
       "end": 546.58,
       "en": "I find it very complex, too. Well, mechanics are the way things work, right?",
-      "zh": "我也觉得很复杂。 好吧，机械师是事情的运作方式，对吧？"
+      "zh": "我也觉得很复杂。嗯，mechanics 指事物运作的方式，对吧？"
     },
     {
       "id": 113,
@@ -809,7 +809,7 @@
       "start": 555.0,
       "end": 563.0,
       "en": "And the people who are studying this or working on this, quantum mechanics, they don't like the Einsteinians.",
-      "zh": "而那些研究这个或研究这个的人，量子力学，他们不喜欢爱因斯坦人。"
+      "zh": "而研究量子力学的人，不喜欢爱因斯坦的追随者。"
     },
     {
       "id": 116,
@@ -858,7 +858,7 @@
       "start": 607.51,
       "end": 610.93,
       "en": "And there's also this problem of observation that I've read about.",
-      "zh": "还有我读过的这个观察问题。"
+      "zh": "还有我读到过的这个观测问题。"
     },
     {
       "id": 123,
@@ -942,7 +942,7 @@
       "start": 663.0,
       "end": 667.0,
       "en": "So very important branches, I think, of physics as well.",
-      "zh": "我认为，非常重要的分支也是物理学。"
+      "zh": "我认为，这些也都是物理学中非常重要的分支。"
     },
     {
       "id": 135,
@@ -956,7 +956,7 @@
       "start": 673.0,
       "end": 677.0,
       "en": "Thermo means heat and dynamics means, you know, changing, changing state.",
-      "zh": "热意味着热量，动力学意味着，你知道，改变，改变状态。"
+      "zh": "Thermo 是“热”的意思，dynamics 的意思你知道，就是变化、改变状态。"
     },
     {
       "id": 137,
@@ -1033,21 +1033,21 @@
       "start": 712.5,
       "end": 712.96,
       "en": "They crash.",
-      "zh": "他们崩溃了。"
+      "zh": "它们撞在一起。"
     },
     {
       "id": 148,
       "start": 713.0,
       "end": 714.0,
       "en": "They crash.",
-      "zh": "他们崩溃了。"
+      "zh": "它们撞在一起。"
     },
     {
       "id": 149,
       "start": 714.14,
       "end": 716.0,
       "en": "And they study what the pieces look like.",
-      "zh": "他们研究这些作品的样子。"
+      "zh": "他们研究这些碎片的样子。"
     },
     {
       "id": 150,
@@ -1068,7 +1068,7 @@
       "start": 729.64,
       "end": 737.0,
       "en": "Or that sometimes we understand, like obviously we all hear about the gossip magazines and who's dating who and all this other type of news.",
-      "zh": "或者有时我们理解，就像我们都听说过八卦杂志和谁在和谁和所有其他类型的新闻约会一样。"
+      "zh": "或者说，有些是我们能听懂的，比如大家都听过八卦杂志、谁在和谁约会之类的新闻。"
     },
     {
       "id": 153,
@@ -1082,7 +1082,7 @@
       "start": 744.0,
       "end": 748.0,
       "en": "And it seems that, I think scientists are not the best writers for average people like you and me.",
-      "zh": "似乎，我认为科学家并不是像你我这样的普通人的最佳作家。"
+      "zh": "而且我觉得，科学家并不擅长为像你我这样的普通人写作。"
     },
     {
       "id": 155,
@@ -1103,7 +1103,7 @@
       "start": 752.59,
       "end": 762.71,
       "en": "But I have to say I recently read Bill Bryson's book, A Short History of Nearly Everything, and it talks about the history of the world and us and the animals and plants in it.",
-      "zh": "但我不得不说我最近读了比尔·布莱森的书《几乎所有事物的简短历史》，它讲述了世界的历史以及我们以及其中的动植物。"
+      "zh": "但我得说，我最近读了比尔·布莱森的书《万物简史》，它讲述了世界的历史，以及人类和其中的动植物。"
     },
     {
       "id": 158,
@@ -1145,7 +1145,7 @@
       "start": 779.0,
       "end": 789.0,
       "en": "And I don't know, many of us, I think many of us as well growing up, maybe we had a hard time with some of these exact sciences like chemistry or physics.",
-      "zh": "而且我不知道，我们中的许多人，我认为我们中的许多人都长大了，也许我们很难使用一些精确的科学，如化学或物理。"
+      "zh": "而且我不知道，我们中的许多人，可能从小到大都学不好化学、物理这类精确科学。"
     },
     {
       "id": 164,
@@ -1187,7 +1187,7 @@
       "start": 803.24,
       "end": 811.75,
       "en": "It is and it's fun because you can talk about, it's like philosophy sometimes, you can talk about if this were the case, then what would happen.",
-      "zh": "它很有趣，因为你可以谈论，它就像哲学有时，你可以谈论如果是这样，那么会发生什么。"
+      "zh": "是的，而且很有趣，因为你可以讨论——有时它就像哲学——你可以讨论如果是这样，那会发生什么。"
     },
     {
       "id": 170,
@@ -1215,21 +1215,21 @@
       "start": 823.25,
       "end": 828.59,
       "en": "So actually we are curious to know if you believe that maybe someday we will be able to travel in time.",
-      "zh": "所以实际上我们很想知道你是否相信有一天我们可以及时旅行。"
+      "zh": "所以其实我们很好奇，你是否相信有一天我们能穿越时空。"
     },
     {
       "id": 174,
       "start": 829.0,
       "end": 836.94,
       "en": "Or do you believe that… Live on other planets or we'll have space travel as a part of our holiday making.",
-      "zh": "或者你相信……住在其他星球上，否则我们将把太空旅行作为我们假期制作的一部分。"
+      "zh": "或者你相信……我们会住在其他星球上，或者太空旅行会成为我们度假的一部分。"
     },
     {
       "id": 175,
       "start": 837.34,
       "end": 841.6,
       "en": "Yeah, they supposedly already are arranging tourism to the moon, right?",
-      "zh": "是的，他们应该已经在安排旅游到月球，对吧？"
+      "zh": "是啊，据说他们已经在安排月球旅游了，对吧？"
     },
     {
       "id": 176,
@@ -1243,7 +1243,7 @@
       "start": 842.68,
       "end": 847.5,
       "en": "So I wonder if one day like in the fifth element we're going to have these cruises to space.",
-      "zh": "所以我想知道有一天，我们是否会像在第五个元素中那样让这些游轮飞往太空。"
+      "zh": "所以我想知道，有一天我们会不会像《第五元素》里那样，有飞往太空的游轮。"
     },
     {
       "id": 178,
@@ -1264,7 +1264,7 @@
       "start": 858.0,
       "end": 859.82,
       "en": "We hope to see you there and until next time.",
-      "zh": "我们希望在那里见到你，直到下一次。"
+      "zh": "希望在那里见到你，下次再见。"
     },
     {
       "id": 181,

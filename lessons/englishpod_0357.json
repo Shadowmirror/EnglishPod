@@ -46,7 +46,7 @@
       "start": 12.88,
       "end": 20.74,
       "en": "We want to go to a restaurant tonight, but before we have to call them to make sure that there is a space or room available for us.",
-      "zh": "我们今晚想去一家餐馆，但在我们必须打电话给他们以确保有一个空间或房间可供我们使用之前。"
+      "zh": "我们今晚想去一家餐馆，但得先打电话过去，确认有没有空位或房间。"
     },
     {
       "id": 7,
@@ -172,7 +172,7 @@
       "start": 60.79,
       "end": 62.45,
       "en": "So let's take a look at Language Takeaway.",
-      "zh": "那么让我们来看看语言外卖。"
+      "zh": "那么让我们来看看语言要点。"
     },
     {
       "id": 25,
@@ -200,7 +200,7 @@
       "start": 73.6,
       "end": 75.28,
       "en": "We heard this bistro.",
-      "zh": "我们听说过这个小酒馆。"
+      "zh": "我们听到的是 bistro 这个词。"
     },
     {
       "id": 29,
@@ -214,14 +214,14 @@
       "start": 76.28,
       "end": 79.28,
       "en": "The name of the restaurant is actually Bruno Bistro.",
-      "zh": "这家餐厅的名字实际上是布鲁诺·比斯特罗。"
+      "zh": "这家餐厅的名字实际上是布鲁诺小馆（Bruno Bistro）。"
     },
     {
       "id": 31,
       "start": 79.28,
       "end": 84.52,
       "en": "So this restaurant, the type of restaurant this is, it's actually a bistro.",
-      "zh": "所以这家餐厅，这是餐厅的类型，它实际上是一个小酒馆。"
+      "zh": "所以这家餐厅，这种类型的餐馆，其实就叫 bistro（小酒馆）。"
     },
     {
       "id": 32,
@@ -347,7 +347,7 @@
       "start": 124.6,
       "end": 127.92,
       "en": "So as you see there, we have a verb there, to make.",
-      "zh": "所以你在那里看到，我们有一个动词，要做。"
+      "zh": "所以你看，这里有一个动词：make。"
     },
     {
       "id": 50,
@@ -361,7 +361,7 @@
       "start": 129.86,
       "end": 133.42,
       "en": "So let's take a look at the noun, a reservation.",
-      "zh": "所以让我们来看看名词，一个保留。"
+      "zh": "所以让我们来看看名词 reservation。"
     },
     {
       "id": 52,
@@ -445,7 +445,7 @@
       "start": 164.13,
       "end": 165.39,
       "en": "So the verb is to make.",
-      "zh": "所以动词是要做的。"
+      "zh": "所以动词是 make。"
     },
     {
       "id": 64,
@@ -494,14 +494,14 @@
       "start": 182.87,
       "end": 184.95,
       "en": "So reservation is a noun.",
-      "zh": "所以保留是一个名词。"
+      "zh": "所以 reservation 是名词。"
     },
     {
       "id": 71,
       "start": 185.47,
       "end": 187.11,
       "en": "To reserve is a verb.",
-      "zh": "保留是一个动词。"
+      "zh": "reserve 是动词。"
     },
     {
       "id": 72,
@@ -543,7 +543,7 @@
       "start": 202.18,
       "end": 204.06,
       "en": "No, you have to reserve something.",
-      "zh": "不，你必须保留一些东西。"
+      "zh": "不，你必须预订某个东西。"
     },
     {
       "id": 78,
@@ -613,7 +613,7 @@
       "start": 232.5,
       "end": 236.22,
       "en": "To attend means to be there or to come.",
-      "zh": "参加意味着在那里或来。"
+      "zh": "attend 的意思是到场，也就是来。"
     },
     {
       "id": 88,
@@ -718,7 +718,7 @@
       "start": 274.4,
       "end": 279.28,
       "en": "So let's take a look at our dialogue again, and then we'll be back in a bit with Fluency Builder.",
-      "zh": "所以让我们再看一遍我们的对话，然后我们会回到 Flueny Builder 中。"
+      "zh": "所以让我们再看一遍对话，然后马上回来进入流利表达。"
     },
     {
       "id": 103,
@@ -767,7 +767,7 @@
       "start": 294.04,
       "end": 297.04,
       "en": "I'm sorry, sir, but we are fully booked tonight until 8.",
-      "zh": "对不起，先生，但我们今晚已全额预订，直到 8 点。"
+      "zh": "对不起，先生，我们今晚到 8 点以前都订满了。"
     },
     {
       "id": 110,
@@ -823,7 +823,7 @@
       "start": 311.68,
       "end": 313.91,
       "en": "Let's take a look at those now on Fluency Builder.",
-      "zh": "现在来看看“流利表达”里的这些内容。"
+      "zh": "现在来看看流利表达里的这些内容。"
     },
     {
       "id": 118,
@@ -837,7 +837,7 @@
       "start": 319.47,
       "end": 325.71,
       "en": "All right, so the first phrase we have on Fluency Builder is actually a phrase you don't want to hear when you're trying to make a reservation.",
-      "zh": "好吧，所以我们在 Fluency Builder 上的第一个短语实际上是您在尝试预订时不想听到的短语。"
+      "zh": "好吧，所以我们在流利表达上的第一个短语实际上是您在尝试预订时不想听到的短语。"
     },
     {
       "id": 120,
@@ -872,7 +872,7 @@
       "start": 343.52,
       "end": 345.46,
       "en": "All the tables have been reserved.",
-      "zh": "所有表格都已保留。"
+      "zh": "所有桌子都被订出去了。"
     },
     {
       "id": 125,
@@ -907,7 +907,7 @@
       "start": 357.0,
       "end": 359.16,
       "en": "There are free tables after 8.",
-      "zh": "8点后有免费桌子。"
+      "zh": "8点后有空桌。"
     },
     {
       "id": 130,
@@ -935,7 +935,7 @@
       "start": 368.16,
       "end": 368.77,
       "en": "In that case.",
-      "zh": "在那种情况下。"
+      "zh": "那样的话。"
     },
     {
       "id": 134,
@@ -963,7 +963,7 @@
       "start": 390.8,
       "end": 397.46,
       "en": "So in that case, in that situation, because it changed from what we thought, we had to book a table at 8 instead.",
-      "zh": "所以在这种情况下，在这种情况下，因为它与我们的想法发生了变化，我们不得不在 8 处预订一张桌子。"
+      "zh": "所以那样的话，情况跟原来想的不一样，我们只好改订 8 点的桌子。"
     },
     {
       "id": 138,
@@ -991,7 +991,7 @@
       "start": 410.47,
       "end": 412.75,
       "en": "In that case, why don't we go tomorrow?",
-      "zh": "在这种情况下，我们明天为什么不去？"
+      "zh": "那样的话，我们不如明天去？"
     },
     {
       "id": 142,
@@ -1068,7 +1068,7 @@
       "start": 445.04,
       "end": 451.68,
       "en": "This means that we're going to save a table, reserve a table, but we have to provide a name.",
-      "zh": "这意味着我们要保存一个表，保留一个表，但我们必须提供一个名称。"
+      "zh": "这意味着我们要留一张桌子、订一张桌子，但必须提供一个名字。"
     },
     {
       "id": 153,
@@ -1082,7 +1082,7 @@
       "start": 456.72,
       "end": 460.68,
       "en": "So this is the name that you will give the waiter when you arrive at the restaurant.",
-      "zh": "所以这是你到达餐厅时给服务员起的名字。"
+      "zh": "所以这就是你到餐厅时告诉服务员的名字。"
     },
     {
       "id": 155,
@@ -1103,7 +1103,7 @@
       "start": 466.08,
       "end": 472.8,
       "en": "So if you go to the restaurant, you say, hello, I have a reservation under the name of Mark.",
-      "zh": "所以如果你去餐厅，你会说，你好，我有马克的名义预订。"
+      "zh": "所以如果你去餐厅，你会说，你好，我用马克的名字订了位。"
     },
     {
       "id": 158,
@@ -1117,7 +1117,7 @@
       "start": 473.8,
       "end": 479.16,
       "en": "I have a reservation under the name Mark, or I have a reservation for Mark at eight o'clock.",
-      "zh": "我有一个名为 Mark 的预订，或者我在八点钟预订了 Mark。"
+      "zh": "我用 Mark 这个名字订了位，或者说我订了 Mark 八点的位子。"
     },
     {
       "id": 160,
@@ -1131,14 +1131,14 @@
       "start": 484.84,
       "end": 489.02,
       "en": "That's because, so just think about it as when they make the reservation, they have this big book.",
-      "zh": "那是因为，所以想想当他们预订时，他们有这本大书。"
+      "zh": "因为你想，他们接受预订时有个大本子。"
     },
     {
       "id": 162,
       "start": 489.72,
       "end": 492.36,
       "en": "They write your name and underneath they write the time.",
-      "zh": "他们写下你的名字，在他们写下时间。"
+      "zh": "他们写下你的名字，下面再写上时间。"
     },
     {
       "id": 163,
@@ -1313,7 +1313,7 @@
       "start": 558.0,
       "end": 560.99,
       "en": "And so in English, we reserve or we book a table.",
-      "zh": "所以用英语，我们预订或预订桌子。"
+      "zh": "所以在英语里，我们说预订一张桌子（reserve 或 book a table）。"
     },
     {
       "id": 188,
@@ -1404,7 +1404,7 @@
       "start": 604.52,
       "end": 608.31,
       "en": "Now there are certain restaurants where you can't make a reservation or different.",
-      "zh": "现在有些餐馆您不能预订或与您不同。"
+      "zh": "现在有些餐馆你不能预订，或者订位方式不太一样。"
     },
     {
       "id": 201,
@@ -1418,14 +1418,14 @@
       "start": 611.26,
       "end": 614.33,
       "en": "There's another one, like for example, very popular in the US, a diner.",
-      "zh": "还有另一种，例如，在美国非常流行，一家餐厅。"
+      "zh": "还有一种，比如在美国非常流行的 diner（简餐店）。"
     },
     {
       "id": 203,
       "start": 615.04,
       "end": 615.53,
       "en": "A diner.",
-      "zh": "一个餐厅。"
+      "zh": "diner（简餐店）。"
     },
     {
       "id": 204,

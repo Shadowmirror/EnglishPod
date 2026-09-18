@@ -32,14 +32,14 @@
       "start": 6.1,
       "end": 9.12,
       "en": "And today we have another great elementary lesson for you all.",
-      "zh": "今天我们为大家准备了另一个很棒的小学课程。"
+      "zh": "今天我们为大家准备了另一节精彩的初级课程。"
     },
     {
       "id": 5,
       "start": 9.38,
       "end": 12.44,
       "en": "That's right, we've got a lesson for all you sports fans out there.",
-      "zh": "没错，我们为所有体育迷提供了一个教训。"
+      "zh": "没错，我们为所有体育迷准备了一节课。"
     },
     {
       "id": 6,
@@ -81,14 +81,14 @@
       "start": 27.1,
       "end": 28.16,
       "en": "Vocabulary preview.",
-      "zh": "词汇预习。"
+      "zh": "词汇预览。"
     },
     {
       "id": 12,
       "start": 28.89,
       "end": 30.21,
       "en": "Two words for you today.",
-      "zh": "今天给你两个字。"
+      "zh": "今天要讲两个字。"
     },
     {
       "id": 13,
@@ -179,14 +179,14 @@
       "start": 51.52,
       "end": 53.16,
       "en": "Our second word is ref.",
-      "zh": "我们的第二个词是参考。"
+      "zh": "我们的第二个词是 ref（裁判）。"
     },
     {
       "id": 26,
       "start": 53.16,
       "end": 53.69,
       "en": "Ref, R-E-F.",
-      "zh": "参考，R-E-F。"
+      "zh": "裁判，R-E-F。"
     },
     {
       "id": 27,
@@ -214,21 +214,21 @@
       "start": 59.8,
       "end": 61.79,
       "en": "Basically, like the judge of a game.",
-      "zh": "基本上，就像游戏的法官一样。"
+      "zh": "基本上，就像比赛里的裁判。"
     },
     {
       "id": 31,
       "start": 62.0,
       "end": 63.0,
       "en": "The judge of the game.",
-      "zh": "比赛的法官。"
+      "zh": "比赛里的裁判。"
     },
     {
       "id": 32,
       "start": 63.0,
       "end": 64.09,
       "en": "So he's the one that will.",
-      "zh": "所以他是愿意的人。"
+      "zh": "他就是那个会……的人。"
     },
     {
       "id": 33,
@@ -417,14 +417,14 @@
       "start": 134.13,
       "end": 138.63,
       "en": "All right, a really common situation whenever you're watching games with friends, right?",
-      "zh": "好吧，每当你和朋友一起看游戏时，这是一个非常常见的情况，对吧？"
+      "zh": "好吧，和朋友一起看比赛时，这是很常见的情况，对吧？"
     },
     {
       "id": 60,
       "start": 138.92,
       "end": 139.53,
       "en": "You need to get a beer.",
-      "zh": "你需要喝啤酒。"
+      "zh": "你需要去买啤酒。"
     },
     {
       "id": 61,
@@ -438,7 +438,7 @@
       "start": 142.97,
       "end": 144.61,
       "en": "Let's take a look at language takeaway.",
-      "zh": "让我们看看语言外卖。"
+      "zh": "让我们看看语言要点。"
     },
     {
       "id": 63,
@@ -452,7 +452,7 @@
       "start": 148.77,
       "end": 151.43,
       "en": "Okay, let's take a look at our first word on language takeaway.",
-      "zh": "好吧，让我们来看看我们关于语言外卖的第一个词。"
+      "zh": "好吧，让我们来看看我们关于语言要点的第一个词。"
     },
     {
       "id": 65,
@@ -508,7 +508,7 @@
       "start": 171.57,
       "end": 174.85,
       "en": "To the basket without anyone blocking you or anything.",
-      "zh": "到篮子没有任何人阻止你或任何东西。"
+      "zh": "投向篮筐，没有任何人阻挡你。"
     },
     {
       "id": 73,
@@ -557,7 +557,7 @@
       "start": 185.67,
       "end": 190.71,
       "en": "Let's listen to some examples and we'll understand the meaning of make the shot.",
-      "zh": "让我们听一些例子，我们将了解制作镜头的含义。"
+      "zh": "我们来听几个例子，就能明白 make the shot 的意思了。"
     },
     {
       "id": 80,
@@ -578,7 +578,7 @@
       "start": 196.34,
       "end": 198.16,
       "en": "He made the shot from the other side of the court.",
-      "zh": "他从球场的另一边投篮。"
+      "zh": "他从球场另一边投中了这一球。"
     },
     {
       "id": 83,
@@ -592,14 +592,14 @@
       "start": 206.36,
       "end": 208.12,
       "en": "There's no way he's going to make that shot.",
-      "zh": "他不可能投出那个球。"
+      "zh": "他不可能投进那个球。"
     },
     {
       "id": 85,
       "start": 208.64,
       "end": 210.24,
       "en": "He's way too far away from the net.",
-      "zh": "他离网络太远了。"
+      "zh": "他离篮筐太远了。"
     },
     {
       "id": 86,
@@ -613,14 +613,14 @@
       "start": 219.28,
       "end": 221.72,
       "en": "If Gretzky makes this shot, they're going to win the Stanley Cup.",
-      "zh": "如果格雷茨基投篮，他们将赢得斯坦利杯。"
+      "zh": "如果格雷茨基投进这一球，他们就会赢得斯坦利杯。"
     },
     {
       "id": 88,
       "start": 225.76,
       "end": 230.04,
       "en": "So it's clear now to make the shot is to successfully put the ball in the basket.",
-      "zh": "所以现在很明显，投篮是成功地将球放入篮筐。"
+      "zh": "所以现在清楚了，make the shot 就是成功把球投进篮筐。"
     },
     {
       "id": 89,
@@ -634,14 +634,14 @@
       "start": 233.16,
       "end": 235.32,
       "en": "Yeah, you can use it in hockey to make the shot.",
-      "zh": "是的，你可以在曲棍球比赛中使用它来拍摄。"
+      "zh": "是的，你可以在曲棍球比赛里用它来说射门得分。"
     },
     {
       "id": 91,
       "start": 235.72,
       "end": 239.7,
       "en": "You could also use it in golf and a lot of different sports that use the term to shoot.",
-      "zh": "您也可以在高尔夫和许多使用该术语进行射击的不同运动中使用它。"
+      "zh": "你也可以在高尔夫以及其他很多用 shoot 这个词的运动里这样说。"
     },
     {
       "id": 92,
@@ -655,7 +655,7 @@
       "start": 240.92,
       "end": 241.92,
       "en": "Shoot the ball.",
-      "zh": "射球。"
+      "zh": "投篮。"
     },
     {
       "id": 94,
@@ -676,7 +676,7 @@
       "start": 244.6,
       "end": 247.56,
       "en": "Okay, our next word today, three pointer.",
-      "zh": "好的，我们今天的下一个词，三个指针。"
+      "zh": "好的，我们今天的下一个词：three pointer（三分球）。"
     },
     {
       "id": 97,
@@ -697,14 +697,14 @@
       "start": 250.12,
       "end": 252.2,
       "en": "A three pointer.",
-      "zh": "一个三指针。"
+      "zh": "一个三分球。"
     },
     {
       "id": 100,
       "start": 252.2,
       "end": 254.48,
       "en": "It's a shot in basketball when you get three points.",
-      "zh": "当你得到三分时，这是一个篮球投篮。"
+      "zh": "就是篮球比赛里得到三分的那种投篮。"
     },
     {
       "id": 101,
@@ -718,7 +718,7 @@
       "start": 256.04,
       "end": 257.9,
       "en": "Usually this shot is taken from further out.",
-      "zh": "通常这个镜头是从更远的地方拍摄的。"
+      "zh": "这种投篮通常是从更远的位置出手的。"
     },
     {
       "id": 103,
@@ -732,28 +732,28 @@
       "start": 259.2,
       "end": 262.1,
       "en": "Yeah, so it's a little bit more difficult to make this shot.",
-      "zh": "是的，所以拍这个照片有点困难。"
+      "zh": "是的，所以这一投要更难一些。"
     },
     {
       "id": 105,
       "start": 262.68,
       "end": 269.4,
       "en": "You know, sometimes people might say a three point shot or something like that, but our EnglishPod learners, they know.",
-      "zh": "你知道，有时人们可能会说三分球或类似的话，但我们的英语吊舱学习者，他们知道。"
+      "zh": "你知道，有时人们会说 a three point shot 之类的，但我们的 EnglishPod 学习者知道，"
     },
     {
       "id": 106,
       "start": 270.24,
       "end": 271.24,
       "en": "It's a three pointer.",
-      "zh": "这是一个三指针。"
+      "zh": "这叫三分球。"
     },
     {
       "id": 107,
       "start": 271.24,
       "end": 274.42,
       "en": "Yeah, you'll sound really knowledgeable, really cool using that one.",
-      "zh": "是的，你会听起来很有知识，用那一款真的很酷。"
+      "zh": "是的，用这个说法，你会显得很懂行、很酷。"
     },
     {
       "id": 108,
@@ -767,7 +767,7 @@
       "start": 276.28,
       "end": 278.68,
       "en": "And our last word today, travel.",
-      "zh": "还有我们今天的最后一句话，旅行。"
+      "zh": "还有我们今天的最后一个词：travel（走步）。"
     },
     {
       "id": 110,
@@ -781,7 +781,7 @@
       "start": 280.12,
       "end": 280.38,
       "en": "To travel.",
-      "zh": "去旅行。"
+      "zh": "走步（违例）。"
     },
     {
       "id": 112,
@@ -802,7 +802,7 @@
       "start": 283.96,
       "end": 286.86,
       "en": "Well technically, you're allowed to take two steps in basketball.",
-      "zh": "好吧，从技术上讲，你可以在篮球方面采取两个步骤。"
+      "zh": "严格来说，篮球里允许你走两步。"
     },
     {
       "id": 115,
@@ -816,7 +816,7 @@
       "start": 288.72,
       "end": 292.08,
       "en": "So when you take more than two steps, then it's traveling.",
-      "zh": "所以当你走两步以上时，它就是旅行。"
+      "zh": "所以当你走超过两步时，就是走步违例。"
     },
     {
       "id": 117,
@@ -830,7 +830,7 @@
       "start": 293.08,
       "end": 296.2,
       "en": "So yeah, traveling means to take more than two steps with the ball.",
-      "zh": "所以，是的，旅行意味着用球走两步以上。"
+      "zh": "所以，走步就是用球走超过两步。"
     },
     {
       "id": 119,
@@ -949,7 +949,7 @@
       "start": 337.54,
       "end": 339.56,
       "en": "He traveled and the ref didn't even call it.",
-      "zh": "他旅行，裁判甚至没有打电话给它。"
+      "zh": "他走步了，裁判居然都没吹。"
     },
     {
       "id": 136,
@@ -984,14 +984,14 @@
       "start": 349.36,
       "end": 350.12,
       "en": "End of the first quarter.",
-      "zh": "第一季度结束。"
+      "zh": "第一节结束。"
     },
     {
       "id": 141,
       "start": 350.6,
       "end": 353.32,
       "en": "Hey, I'm going to make a beer run.",
-      "zh": "嘿，我要去喝啤酒。"
+      "zh": "嘿，我去买点啤酒。"
     },
     {
       "id": 142,
@@ -1026,7 +1026,7 @@
       "start": 364.08,
       "end": 369.64,
       "en": "Okay, today on Fluency Builder, we have two really common words that you would listen to while you're watching a game.",
-      "zh": "好的，今天在 Fluency Builder 上，我们有两个非常常见的词，您在观看比赛时会听。"
+      "zh": "好的，今天在流利表达上，我们有两个非常常见的词，您在观看比赛时会听。"
     },
     {
       "id": 147,
@@ -1159,7 +1159,7 @@
       "start": 409.64,
       "end": 411.28,
       "en": "If you screw it up, we're out of the finals.",
-      "zh": "如果你把它搞砸了，我们就退出了决赛。"
+      "zh": "要是你搞砸了，我们就进不了决赛。"
     },
     {
       "id": 166,
@@ -1222,35 +1222,35 @@
       "start": 431.84,
       "end": 434.92,
       "en": "Great, and our last word on Fluency Builder today, a beer run.",
-      "zh": "太好了，我们今天关于 Fluency Builder 的最后一句话，啤酒运行。"
+      "zh": "太好了，今天流利表达的最后一个表达：a beer run（跑腿买啤酒）。"
     },
     {
       "id": 175,
       "start": 435.22,
       "end": 435.96,
       "en": "A beer run.",
-      "zh": "啤酒跑。"
+      "zh": "跑腿买啤酒。"
     },
     {
       "id": 176,
       "start": 436.38,
       "end": 437.08,
       "en": "Beer run.",
-      "zh": "啤酒跑。"
+      "zh": "跑腿买啤酒。"
     },
     {
       "id": 177,
       "start": 437.46,
       "end": 439.4,
       "en": "So what is this beer run?",
-      "zh": "那么这款啤酒是什么？"
+      "zh": "那这个 beer run 是什么意思呢？"
     },
     {
       "id": 178,
       "start": 439.74,
       "end": 440.76,
       "en": "You run to get beer.",
-      "zh": "你跑去喝啤酒。"
+      "zh": "就是跑一趟去买啤酒。"
     },
     {
       "id": 179,
@@ -1271,7 +1271,7 @@
       "start": 444.4,
       "end": 447.76,
       "en": "Okay, so it's just an expression meaning to go and get more beer.",
-      "zh": "好吧，所以这只是一个表达方式，意思是去喝更多的啤酒。"
+      "zh": "好吧，所以它就是个表达，意思是去买更多啤酒。"
     },
     {
       "id": 182,
@@ -1299,7 +1299,7 @@
       "start": 456.25,
       "end": 456.89,
       "en": "Make a beer run.",
-      "zh": "做啤酒跑。"
+      "zh": "跑腿买啤酒。"
     },
     {
       "id": 186,
@@ -1411,7 +1411,7 @@
       "start": 489.43,
       "end": 490.25,
       "en": "He traveled to the ref.",
-      "zh": "他前往裁判。"
+      "zh": "他走步了，裁判！"
     },
     {
       "id": 202,

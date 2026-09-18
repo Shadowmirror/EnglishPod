@@ -39,7 +39,7 @@
       "start": 14.58,
       "end": 15.28,
       "en": "Yes, we are.",
-      "zh": "是的，我们是。"
+      "zh": "没错。"
     },
     {
       "id": 6,
@@ -193,7 +193,7 @@
       "start": 84.48,
       "end": 84.77,
       "en": "You know what?",
-      "zh": "你知道吗？"
+      "zh": "这样吧。"
     },
     {
       "id": 28,
@@ -347,7 +347,7 @@
       "start": 163.0,
       "end": 164.33,
       "en": "I have another one for you guys.",
-      "zh": "我又给你们一台。"
+      "zh": "我这儿还有一个要给大家。"
     },
     {
       "id": 50,
@@ -417,7 +417,7 @@
       "start": 185.52,
       "end": 186.44,
       "en": "What's next on the menu?",
-      "zh": "菜单上的下一步是什么？"
+      "zh": "那菜单上接下来还有什么？"
     },
     {
       "id": 60,
@@ -445,7 +445,7 @@
       "start": 196.64,
       "end": 197.14,
       "en": "Complementary means?",
-      "zh": "互补是什么意思？"
+      "zh": "Complimentary 是什么意思？"
     },
     {
       "id": 64,
@@ -473,14 +473,14 @@
       "start": 200.84,
       "end": 201.84,
       "en": "We love that, huh?",
-      "zh": "我们喜欢那个，嗯？"
+      "zh": "我们都喜欢这个，对吧？"
     },
     {
       "id": 68,
       "start": 201.84,
       "end": 203.2,
       "en": "Yeah, we definitely like free things.",
-      "zh": "是的，我们绝对喜欢免费的东西。"
+      "zh": "是啊，我们都喜欢免费的东西。"
     },
     {
       "id": 69,
@@ -529,14 +529,14 @@
       "start": 216.92,
       "end": 218.56,
       "en": "Yeah, I'll choose or I'll take.",
-      "zh": "是的，我会选择，否则我会接受。"
+      "zh": "对，就是 I'll choose，也可以说 I'll take。"
     },
     {
       "id": 76,
       "start": 218.94,
       "end": 219.3,
       "en": "I'll take.",
-      "zh": "我会拿的。"
+      "zh": "我要这个。"
     },
     {
       "id": 77,
@@ -557,21 +557,21 @@
       "start": 226.72,
       "end": 226.88,
       "en": "Grab.",
-      "zh": "抓住。"
+      "zh": "拿；取。"
     },
     {
       "id": 80,
       "start": 227.0,
       "end": 228.0,
       "en": "Grab.",
-      "zh": "抓住。"
+      "zh": "拿；取。"
     },
     {
       "id": 81,
       "start": 228.0,
       "end": 228.16,
       "en": "Grab.",
-      "zh": "抓住。"
+      "zh": "拿；取。"
     },
     {
       "id": 82,
@@ -599,14 +599,14 @@
       "start": 251.8,
       "end": 252.65,
       "en": "I need to grab my coat.",
-      "zh": "我需要抓住我的外套。"
+      "zh": "我得去拿件外套。"
     },
     {
       "id": 86,
       "start": 257.4,
       "end": 258.34,
       "en": "Let's grab a cup of coffee.",
-      "zh": "让我们喝杯咖啡。"
+      "zh": "我们去喝杯咖啡吧。"
     },
     {
       "id": 87,
@@ -620,7 +620,7 @@
       "start": 269.96,
       "end": 270.96,
       "en": "To go get quickly, yeah.",
-      "zh": "快点去，是的。"
+      "zh": "快速去拿，对。"
     },
     {
       "id": 89,
@@ -760,7 +760,7 @@
       "start": 330.56,
       "end": 330.88,
       "en": "You know what?",
-      "zh": "你知道吗？"
+      "zh": "这样吧。"
     },
     {
       "id": 109,
@@ -830,7 +830,7 @@
       "start": 371.24,
       "end": 373.24,
       "en": "So I think he was in the wrong place.",
-      "zh": "所以我认为他在错误的地方。"
+      "zh": "所以我觉得他来错地方了。"
     },
     {
       "id": 119,
@@ -963,7 +963,7 @@
       "start": 434.9,
       "end": 435.9,
       "en": "So until then, bye.",
-      "zh": "所以在那之前，再见。"
+      "zh": "那就到这儿，再见。"
     },
     {
       "id": 138,

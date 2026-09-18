@@ -18,7 +18,7 @@
       "start": 3.2,
       "end": 6.12,
       "en": "My name is Marco and I'm joined here by the lovely...",
-      "zh": "我的名字是马可，可爱的人在这里加入了我的行列。"
+      "zh": "我的名字是马可，和我一起的是可爱的……"
     },
     {
       "id": 3,
@@ -46,7 +46,7 @@
       "start": 12.6,
       "end": 15.0,
       "en": "Actually, Maxim, Maxim S requested this one.",
-      "zh": "实际上，Maxim，Maxim S 要求了这一点。"
+      "zh": "实际上，是 Maxim，Maxim S 点播的这一课。"
     },
     {
       "id": 7,
@@ -60,7 +60,7 @@
       "start": 15.92,
       "end": 19.32,
       "en": "I think he's really into research and investigation.",
-      "zh": "我认为他真的是研究和调查。"
+      "zh": "我觉得他真的很热衷于研究和调查。"
     },
     {
       "id": 9,
@@ -172,7 +172,7 @@
       "start": 80.81,
       "end": 82.37,
       "en": "No, the egg came first.",
-      "zh": "不，鸡蛋是第一位的。"
+      "zh": "不，先有蛋。"
     },
     {
       "id": 25,
@@ -249,7 +249,7 @@
       "start": 108.68,
       "end": 111.26,
       "en": "So why don't we take a look at it now in Language Takeaway.",
-      "zh": "那么我们为什么不现在在语言外卖中看看它。"
+      "zh": "那么我们为什么不现在在语言要点中看看它。"
     },
     {
       "id": 36,
@@ -263,7 +263,7 @@
       "start": 114.99,
       "end": 120.21,
       "en": "Okay on Language Takeaway today we have some really great words and this first one is really good.",
-      "zh": "好的，今天的语言外卖我们有一些非常棒的词，第一个真的很好。"
+      "zh": "好的，今天的语言要点我们有一些非常棒的词，第一个真的很好。"
     },
     {
       "id": 38,
@@ -382,7 +382,7 @@
       "start": 155.62,
       "end": 160.26,
       "en": "So flawed, is that an adjective, a verb or a noun?",
-      "zh": "如此有缺陷，那是形容词、动词还是名词？"
+      "zh": "那么 flawed 是形容词、动词还是名词？"
     },
     {
       "id": 55,
@@ -396,7 +396,7 @@
       "start": 162.62,
       "end": 166.79,
       "en": "Now when something is flawed, there is a problem with it, right?",
-      "zh": "现在当有缺陷时，它有问题，对吧？"
+      "zh": "当某件事有缺陷时，说明它有问题，对吧？"
     },
     {
       "id": 57,
@@ -445,7 +445,7 @@
       "start": 176.14,
       "end": 179.58,
       "en": "So flawed is the adjective of a flaw.",
-      "zh": "所以有缺陷是缺陷的形容词。"
+      "zh": "所以 flawed 是 flaw 的形容词形式。"
     },
     {
       "id": 64,
@@ -466,28 +466,28 @@
       "start": 181.58,
       "end": 187.38,
       "en": "Now the reason that his study or his experiment was flawed is because it was not systematic.",
-      "zh": "现在他的研究或实验有缺陷的原因是因为它不是系统的。"
+      "zh": "他的研究或实验之所以有缺陷，是因为它不够系统。"
     },
     {
       "id": 67,
       "start": 187.98,
       "end": 188.98,
       "en": "Systematic.",
-      "zh": "系统。"
+      "zh": "系统的；有条理的。"
     },
     {
       "id": 68,
       "start": 189.35,
       "end": 189.91,
       "en": "Systematic.",
-      "zh": "系统。"
+      "zh": "系统的；有条理的。"
     },
     {
       "id": 69,
       "start": 190.95,
       "end": 194.01,
       "en": "So systematic, that's an interesting word.",
-      "zh": "如此系统，这是一个有趣的词。"
+      "zh": "systematic 这个词很有意思。"
     },
     {
       "id": 70,
@@ -508,7 +508,7 @@
       "start": 199.5,
       "end": 202.81,
       "en": "So when something is systematic, it follows a process.",
-      "zh": "因此，当某事是系统的时，它会遵循一个过程。"
+      "zh": "所以当某件事很系统时，它会遵循一定的流程。"
     },
     {
       "id": 73,
@@ -536,7 +536,7 @@
       "start": 206.34,
       "end": 210.37,
       "en": "So that's basically what systematic means, to follow a certain order, to be more organized, right?",
-      "zh": "所以这基本上就是系统的意思，遵循一定的顺序，更有条理，对吧？"
+      "zh": "所以这基本上就是 systematic 的意思：遵循一定的顺序，更有条理，对吧？"
     },
     {
       "id": 77,
@@ -697,21 +697,21 @@
       "start": 249.94,
       "end": 253.3,
       "en": "Now our final phrase for takeaway, oblivious.",
-      "zh": "现在是我们的最后一句话，忘记了。"
+      "zh": "现在我们语言要点的最后一个词，oblivious。"
     },
     {
       "id": 100,
       "start": 253.69,
       "end": 254.07,
       "en": "Oblivious.",
-      "zh": "忘却。"
+      "zh": "浑然不觉；毫无察觉。"
     },
     {
       "id": 101,
       "start": 254.78,
       "end": 257.38,
       "en": "You're oblivious to the facts.",
-      "zh": "你忽略了事实。"
+      "zh": "你对事实毫无察觉。"
     },
     {
       "id": 102,
@@ -725,7 +725,7 @@
       "start": 260.66,
       "end": 262.24,
       "en": "They don't know or they're unaware.",
-      "zh": "他们不知道或他们不知道。"
+      "zh": "他们不知道，或者没有意识到。"
     },
     {
       "id": 104,
@@ -746,14 +746,14 @@
       "start": 267.98,
       "end": 269.5,
       "en": "You're oblivious to the fact that we're in a recession.",
-      "zh": "你忽略了我们正处于衰退中的事实。"
+      "zh": "你没意识到我们正处于经济衰退之中。"
     },
     {
       "id": 107,
       "start": 269.94,
       "end": 272.2,
       "en": "Okay, or he is completely oblivious.",
-      "zh": "好吧，或者他完全忘记了。"
+      "zh": "好吧，或者他完全浑然不觉。"
     },
     {
       "id": 108,
@@ -781,7 +781,7 @@
       "start": 284.48,
       "end": 286.64,
       "en": "Okay, and let's take a look at those in Putting It Together.",
-      "zh": "好吧，让我们来看看那些把它放在一起的东西。"
+      "zh": "好吧，让我们在综合运用部分来看看这些。"
     },
     {
       "id": 112,
@@ -837,7 +837,7 @@
       "start": 315.42,
       "end": 318.02,
       "en": "All right, so we know extensive means?",
-      "zh": "好吧，所以我们知道广泛的手段？"
+      "zh": "好吧，所以我们知道 extensive 是什么意思？"
     },
     {
       "id": 120,
@@ -865,14 +865,14 @@
       "start": 321.02,
       "end": 322.74,
       "en": "So that's really good when you put it together, extensive research.",
-      "zh": "所以当你把它放在一起时，这真的很好，广泛的研究。"
+      "zh": "把它们组合在一起就非常好用：extensive research。"
     },
     {
       "id": 124,
       "start": 322.74,
       "end": 324.46,
       "en": "It means you have?",
-      "zh": "这意味着你有？"
+      "zh": "意思是说你做了？"
     },
     {
       "id": 125,
@@ -886,7 +886,7 @@
       "start": 325.46,
       "end": 328.54,
       "en": "You have really studied, you have really looked things up.",
-      "zh": "你真的学习了，你真的把事情看了。"
+      "zh": "你真的研究过，真的查过资料。"
     },
     {
       "id": 127,
@@ -921,7 +921,7 @@
       "start": 340.42,
       "end": 342.38,
       "en": "All right, now, the first word there, conclusive.",
-      "zh": "好吧，现在，那里的第一个词，结论性的。"
+      "zh": "好吧，现在看第一个词，conclusive。"
     },
     {
       "id": 132,
@@ -1005,7 +1005,7 @@
       "start": 371.06,
       "end": 375.02,
       "en": "So when something is investigative, it's obviously having to do with?",
-      "zh": "那么，当某事进行调查时，它显然与之有关？"
+      "zh": "所以当某件事是 investigative 时，它显然和什么有关？"
     },
     {
       "id": 144,
@@ -1229,7 +1229,7 @@
       "start": 467.66,
       "end": 473.74,
       "en": "You are trying to single-handedly solve one of the world's greatest mysteries, and yet you're oblivious to the fact that you're wrong.",
-      "zh": "你正试图单枪匹马地解决世界上最伟大的谜团之一，但你却忘记了自己错了的事实。"
+      "zh": "你正试图单枪匹马地解开世上最大的谜团之一，却没意识到自己错了。"
     },
     {
       "id": 176,
@@ -1250,7 +1250,7 @@
       "start": 477.3,
       "end": 478.9,
       "en": "No, the egg came first.",
-      "zh": "不，鸡蛋是第一位的。"
+      "zh": "不，先有蛋。"
     },
     {
       "id": 179,
@@ -1341,14 +1341,14 @@
       "start": 492.1,
       "end": 493.54,
       "en": "What came first, the chicken or the egg?",
-      "zh": "什么是先来的，鸡蛋还是鸡蛋？"
+      "zh": "先有鸡还是先有蛋？"
     },
     {
       "id": 192,
       "start": 494.12,
       "end": 496.57,
       "en": "Well, you ask me, it was the egg.",
-      "zh": "好吧，你问我，那是鸡蛋。"
+      "zh": "好吧，要我说，是先有蛋。"
     },
     {
       "id": 193,
@@ -1439,7 +1439,7 @@
       "start": 518.7,
       "end": 520.66,
       "en": "So do you guys know any chicken jokes?",
-      "zh": "那么你们知道有鸡笑话吗？"
+      "zh": "那你们知道什么关于鸡的笑话吗？"
     },
     {
       "id": 206,
@@ -1453,7 +1453,7 @@
       "start": 521.12,
       "end": 531.8,
       "en": "Why don't you come to our website, EnglishPod.com, and on the comment section, why don't you leave us your thoughts on what came first, the chicken or the egg, and why do you think the chicken crossed the road?",
-      "zh": "你为什么不来我们的网站 englishpod.com 和评论部分，你为什么不把你的想法留给我们先来，鸡还是鸡蛋，你为什么认为鸡肉过马路？"
+      "zh": "欢迎来我们的网站 EnglishPod.com，在评论区留下你的想法：先有鸡还是先有蛋，以及你认为鸡为什么过马路？"
     },
     {
       "id": 208,

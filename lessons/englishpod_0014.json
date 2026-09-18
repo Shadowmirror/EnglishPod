@@ -32,14 +32,14 @@
       "start": 8.23,
       "end": 12.19,
       "en": "And today we have another really great lesson for you, elementary lesson.",
-      "zh": "今天我们为您准备了另一个非常棒的课程，小学课程。"
+      "zh": "今天我们给大家准备了另一节非常棒的课，初级课程。"
     },
     {
       "id": 5,
       "start": 12.57,
       "end": 15.41,
       "en": "That's right, and it's another lesson about money.",
-      "zh": "没错，这是关于金钱的另一个教训。"
+      "zh": "没错，这又是一节关于金钱的课。"
     },
     {
       "id": 6,
@@ -116,7 +116,7 @@
       "start": 32.91,
       "end": 35.25,
       "en": "You owe me $2.50 for a Coke Zero today.",
-      "zh": "你今天欠我 2.50 美元的可乐零。"
+      "zh": "你今天买零度可乐还欠我 2.50 美元。"
     },
     {
       "id": 17,
@@ -151,7 +151,7 @@
       "start": 43.48,
       "end": 43.8,
       "en": "Vocabulary preview.",
-      "zh": "词汇预习。"
+      "zh": "词汇预览。"
     },
     {
       "id": 22,
@@ -326,7 +326,7 @@
       "start": 110.72,
       "end": 112.12,
       "en": "Yeah, they fall a lot, hey?",
-      "zh": "是的，他们经常摔倒，嘿？"
+      "zh": "是的，跌得可厉害了，对吧？"
     },
     {
       "id": 47,
@@ -368,21 +368,21 @@
       "start": 122.25,
       "end": 123.15,
       "en": "It's broke.",
-      "zh": "它坏了。"
+      "zh": "就是 broke（身无分文）的意思。"
     },
     {
       "id": 53,
       "start": 123.73,
       "end": 124.33,
       "en": "Broke.",
-      "zh": "身无分文。"
+      "zh": "身无分文的。"
     },
     {
       "id": 54,
       "start": 124.4,
       "end": 125.4,
       "en": "Broke.",
-      "zh": "身无分文。"
+      "zh": "身无分文的。"
     },
     {
       "id": 55,
@@ -396,7 +396,7 @@
       "start": 126.4,
       "end": 127.4,
       "en": "Broke.",
-      "zh": "身无分文。"
+      "zh": "身无分文的。"
     },
     {
       "id": 57,
@@ -592,7 +592,7 @@
       "start": 218.53,
       "end": 219.25,
       "en": "Get out of here.",
-      "zh": "出去。"
+      "zh": "给我出去。"
     },
     {
       "id": 85,
@@ -620,21 +620,21 @@
       "start": 244.89,
       "end": 248.11,
       "en": "No, he went to the mob, and the mob is broke.",
-      "zh": "不，他去了暴民，暴民破产了。"
+      "zh": "不，他去找黑帮了，可黑帮也没钱了。"
     },
     {
       "id": 89,
       "start": 248.57,
       "end": 252.31,
       "en": "Oh no, you know it's a bad recession when even the mob runs out of money.",
-      "zh": "哦，不，你知道当暴民用完钱时，这是一场糟糕的衰退。"
+      "zh": "哦不，连黑帮都没钱了，可见这衰退有多严重。"
     },
     {
       "id": 90,
       "start": 252.76,
       "end": 259.04,
       "en": "All right, so why don't we start by looking at our language takeaway.",
-      "zh": "好吧，那么我们为什么不从查看我们的语言外卖开始。"
+      "zh": "好吧，那么我们为什么不从查看我们的语言要点开始。"
     },
     {
       "id": 91,
@@ -718,7 +718,7 @@
       "start": 286.72,
       "end": 289.52,
       "en": "Not to be confused with alone, like by myself.",
-      "zh": "不要与一个人混淆，就像一个人一样。"
+      "zh": "别和 alone（独自一人）搞混了。"
     },
     {
       "id": 103,
@@ -844,7 +844,7 @@
       "start": 323.72,
       "end": 324.28,
       "en": "You say mortgage.",
-      "zh": "你说抵押。"
+      "zh": "要读成 mortgage。"
     },
     {
       "id": 121,
@@ -886,7 +886,7 @@
       "start": 330.8,
       "end": 334.92,
       "en": "I had trouble spelling that one for this lesson, so I learned it well now.",
-      "zh": "我在这节课上拼写了那一节有问题，所以我现在学得很好。"
+      "zh": "这节课我老拼不对这个词，所以现在记得特别牢。"
     },
     {
       "id": 127,
@@ -970,7 +970,7 @@
       "start": 371.66,
       "end": 373.02,
       "en": "This cold has hit me pretty hard.",
-      "zh": "这种寒冷对我造成了很大的打击。"
+      "zh": "这次感冒把我折腾得够呛。"
     },
     {
       "id": 139,
@@ -991,7 +991,7 @@
       "start": 384.52,
       "end": 387.14,
       "en": "The news of Fluffy's death hit me pretty hard.",
-      "zh": "蓬松死亡的消息对我打击很大。"
+      "zh": "Fluffy 去世的消息对我打击很大。"
     },
     {
       "id": 142,
@@ -1026,7 +1026,7 @@
       "start": 397.6,
       "end": 399.68,
       "en": "Why don't we take a look at our last word for language takeaway?",
-      "zh": "我们为什么不看看我们的语言外卖的最后一个词？"
+      "zh": "我们为什么不看看我们的语言要点的最后一个词？"
     },
     {
       "id": 147,
@@ -1075,7 +1075,7 @@
       "start": 409.09,
       "end": 411.37,
       "en": "Usually, it's in college, right, or university.",
-      "zh": "通常，它是在大学、对或大学。"
+      "zh": "通常是指大学，对吧，college 或者 university。"
     },
     {
       "id": 154,
@@ -1180,7 +1180,7 @@
       "start": 470.53,
       "end": 483.45,
       "en": "You know, I've got credit card bills, car payments, I've got to pay my mortgage, and on top of all that, I have to pay my son's college tuition.",
-      "zh": "你知道，我有信用卡账单，汽车付款，我必须支付抵押贷款，最重要的是，我必须支付我儿子的大学学费。"
+      "zh": "你知道，我要还信用卡账单、车贷，还要还房贷，除此之外，还得交我儿子的大学学费。"
     },
     {
       "id": 169,
@@ -1236,7 +1236,7 @@
       "start": 505.76,
       "end": 510.16,
       "en": "Go on, get out of here.",
-      "zh": "继续，离开这里。"
+      "zh": "行了，滚吧。"
     },
     {
       "id": 177,
@@ -1264,7 +1264,7 @@
       "start": 526.24,
       "end": 528.82,
       "en": "So let's start with Fluency Builder.",
-      "zh": "所以让我们从 Fluency Builder 开始。"
+      "zh": "所以让我们从流利表达开始。"
     },
     {
       "id": 181,
@@ -1278,7 +1278,7 @@
       "start": 531.73,
       "end": 537.13,
       "en": "Fluency Builder is a tool that we use to help you sound more native.",
-      "zh": "Fluency Builder 是我们用来帮助您听起来更本地化的工具。"
+      "zh": "流利表达是我们用来帮助您听起来更本地化的工具。"
     },
     {
       "id": 183,
@@ -1446,7 +1446,7 @@
       "start": 615.12,
       "end": 616.46,
       "en": "Can I trouble you for a moment?",
-      "zh": "对不起，给你一会儿？"
+      "zh": "能打扰你一会儿吗？"
     },
     {
       "id": 207,
@@ -1488,14 +1488,14 @@
       "start": 641.81,
       "end": 643.01,
       "en": "Mine is not working anymore.",
-      "zh": "我的不再工作了。"
+      "zh": "我这支写不了了。"
     },
     {
       "id": 213,
       "start": 646.42,
       "end": 650.2,
       "en": "Okay, so now let's take a look at our last phrase for fluency builder.",
-      "zh": "好的，现在让我们来看看我们的 Flueny Builder 的最后一句话。"
+      "zh": "好了，现在来看看流利表达的最后一个短语。"
     },
     {
       "id": 214,
@@ -1621,14 +1621,14 @@
       "start": 690.48,
       "end": 692.58,
       "en": "So you can use on top of all that in this way.",
-      "zh": "因此，您可以以这种方式使用所有这些。"
+      "zh": "所以你可以这样来用 on top of all that。"
     },
     {
       "id": 232,
       "start": 693.08,
       "end": 695.64,
       "en": "Just like and also.",
-      "zh": "只是喜欢和。"
+      "zh": "就像 and also 一样。"
     },
     {
       "id": 233,
@@ -2160,7 +2160,7 @@
       "start": 941.25,
       "end": 941.97,
       "en": "Yes, it has.",
-      "zh": "是的，它有。"
+      "zh": "是的，确实。"
     },
     {
       "id": 309,

@@ -39,7 +39,7 @@
       "start": 11.4,
       "end": 13.1,
       "en": "We're making a collect call.",
-      "zh": "我们正在拨打收款电话。"
+      "zh": "我们正在拨打对方付费电话。"
     },
     {
       "id": 6,
@@ -60,7 +60,7 @@
       "start": 17.18,
       "end": 21.98,
       "en": "See if you can more or less guess what a collect call means and we'll be right back.",
-      "zh": "看看您是否可以或多或少地猜测对方通话的含义，我们会马上回来。"
+      "zh": "看看你能不能大致猜出对方付费电话是什么意思，我们马上回来。"
     },
     {
       "id": 9,
@@ -179,7 +179,7 @@
       "start": 93.38,
       "end": 96.2,
       "en": "Let's check out our words in Language Takeaway first.",
-      "zh": "让我们先看看我们在语言外卖中的单词。"
+      "zh": "让我们先看看我们在语言要点中的单词。"
     },
     {
       "id": 26,
@@ -193,21 +193,21 @@
       "start": 99.84,
       "end": 104.28,
       "en": "Alright, so as we mentioned, we are making a collect call.",
-      "zh": "好吧，正如我们所提到的，我们正在拨打对付电话。"
+      "zh": "好吧，正如我们所提到的，我们正在拨打对方付费电话。"
     },
     {
       "id": 28,
       "start": 104.5,
       "end": 106.34,
       "en": "So what exactly is a collect call?",
-      "zh": "那么到底是什么是收款电话呢？"
+      "zh": "那么对方付费电话到底是什么呢？"
     },
     {
       "id": 29,
       "start": 107.12,
       "end": 117.08,
       "en": "Alright, well a collect call is a phone call you make when you don't have any money and the phone company charges the person who answers the phone.",
-      "zh": "好吧，当您没有钱并且电话公司向接听电话的人收取费用时，您会拨打对方电话。"
+      "zh": "好吧，对方付费电话是指你没钱时打的一种电话，电话公司会向接电话的人收费。"
     },
     {
       "id": 30,
@@ -221,7 +221,7 @@
       "start": 118.08,
       "end": 122.56,
       "en": "So if I call my mom with a collect call, my mom pays.",
-      "zh": "所以如果我打电话给我妈妈打电话，我妈妈会付钱的。"
+      "zh": "所以如果我用对方付费电话打给我妈妈，就是我妈妈付钱。"
     },
     {
       "id": 32,
@@ -242,28 +242,28 @@
       "start": 124.56,
       "end": 126.26,
       "en": "And you can do this pretty much from any phone, right?",
-      "zh": "你几乎可以通过任何手机做到这一点，对吧？"
+      "zh": "你几乎可以用任何电话做到这一点，对吧？"
     },
     {
       "id": 35,
       "start": 127.12,
       "end": 130.7,
       "en": "That's right. You can do this from any phone. Normally people use pay phones to do this.",
-      "zh": "没错。 您可以通过任何电话执行此操作。 通常人们使用公用电话来做到这一点。"
+      "zh": "没错。你可以用任何电话打。通常人们会用公用电话来打。"
     },
     {
       "id": 36,
       "start": 131.52,
       "end": 134.76,
       "en": "But there is one condition that is important with the collect call.",
-      "zh": "但是对收款电话有一种重要的条件。"
+      "zh": "但对方付费电话有一个重要的条件。"
     },
     {
       "id": 37,
       "start": 135.2,
       "end": 139.3,
       "en": "The person who answers the phone, they have to say that it's okay that they pay.",
-      "zh": "接电话的人，他们不得不说他们付款没关系。"
+      "zh": "接电话的人必须同意付费。"
     },
     {
       "id": 38,
@@ -291,14 +291,14 @@
       "start": 155.67,
       "end": 160.15,
       "en": "You make a call, but with the number, the phone number, you actually have to dial it.",
-      "zh": "你打电话，但有号码，电话号码，你实际上必须拨打它。"
+      "zh": "你打电话，但涉及号码、电话号码时，你实际上得拨它。"
     },
     {
       "id": 42,
       "start": 161.04,
       "end": 165.44,
       "en": "And that comes from those old phones where you don't push the numbers, you pull them.",
-      "zh": "这来自那些你不推数字，你拉它们的旧手机。"
+      "zh": "这源自那些不用按数字、而是拨号码的老式电话。"
     },
     {
       "id": 43,
@@ -312,7 +312,7 @@
       "start": 167.22,
       "end": 170.68,
       "en": "Yeah, there are circles and you pull the numbers and spin the wheel around.",
-      "zh": "是的，有圆圈，你拉数字并旋转轮子。"
+      "zh": "是的，上面有圆圈，你拨数字，转动转盘。"
     },
     {
       "id": 45,
@@ -340,14 +340,14 @@
       "start": 175.44,
       "end": 184.76,
       "en": "Okay, so you dial your number and well actually as we said, you're making this collect call because maybe you don't have any money.",
-      "zh": "好的，所以你拨打了你的号码，实际上正如我们所说，你正在拨打这个对方电话，因为也许你没有钱。"
+      "zh": "好的，所以你拨了号码，实际上正如我们所说，你打这个对方付费电话，是因为也许你没有钱。"
     },
     {
       "id": 49,
       "start": 185.22,
       "end": 190.58,
       "en": "In this case, sometimes in your mobile phone, you have what we call credit.",
-      "zh": "在这种情况下，有时在您的手机中，您拥有我们所说的信用。"
+      "zh": "在这种情况下，有时你的手机里有我们所说的 credit（话费余额）。"
     },
     {
       "id": 50,
@@ -368,14 +368,14 @@
       "start": 195.9,
       "end": 198.24,
       "en": "On my phone, for example, I have a lot of credit.",
-      "zh": "例如，在我的手机上，我有很多信用。"
+      "zh": "例如，在我的手机上，我有很多话费余额。"
     },
     {
       "id": 53,
       "start": 199.22,
       "end": 205.28,
       "en": "But maybe if I don't have any credit, I run out of credit, I don't have any money left, I can't make a phone call.",
-      "zh": "但也许如果我没有任何信用，我的信用用完了，我没有钱了，我不能打电话。"
+      "zh": "但也许如果我没有话费，话费用完了，没钱了，就打不了电话。"
     },
     {
       "id": 54,
@@ -389,14 +389,14 @@
       "start": 206.6,
       "end": 219.28,
       "en": "So this is what it means when you have credit in your phone. It means that you have some money with the telephone company. So when you make a call, they discount it from there. But if you don't have any more credit, you can't make any phone calls.",
-      "zh": "所以这就是当你手机中有信用时的意思。 这意味着您在电话公司有一些钱。 因此，当您拨打电话时，他们会从那里打折。 但如果你没有更多的信用，你就不能打任何电话。"
+      "zh": "所以这就是手机里有 credit 的意思。意味着你在电话公司存了一些钱。你打电话时，他们就从里面扣。但如果你没有话费了，就打不了任何电话。"
     },
     {
       "id": 56,
       "start": 219.28,
       "end": 222.44,
       "en": "Exactly. So basically credit represents money.",
-      "zh": "没错。 所以基本上信用代表金钱。"
+      "zh": "没错。所以基本上 credit 就是钱。"
     },
     {
       "id": 57,
@@ -410,7 +410,7 @@
       "start": 223.8,
       "end": 228.08,
       "en": "Okay, and as you said, a collect call, you usually make it from a pay phone.",
-      "zh": "好的，正如你所说，一个对方电话，你通常是用公用电话打的。"
+      "zh": "好的，正如你所说，对方付费电话通常是用公用电话打的。"
     },
     {
       "id": 59,
@@ -445,7 +445,7 @@
       "start": 236.08,
       "end": 240.96,
       "en": "Well, pay phones are public phones that you have to use money in order to make a call on.",
-      "zh": "好吧，公用电话是公共电话，您必须用钱才能拨打电话。"
+      "zh": "好吧，公用电话就是公共电话，你得投币才能打电话。"
     },
     {
       "id": 64,
@@ -473,7 +473,7 @@
       "start": 252.42,
       "end": 258.86,
       "en": "But basically, you have to put the coins, the money coins into the phone to get the phone to work.",
-      "zh": "但基本上，你必须把硬币、钱币放进手机里才能让手机工作。"
+      "zh": "但基本上，你得把硬币、钱币投进电话里，电话才能用。"
     },
     {
       "id": 68,
@@ -508,7 +508,7 @@
       "start": 278.87,
       "end": 281.31,
       "en": "This is the operator.",
-      "zh": "这是运营商。"
+      "zh": "这里是接线员。"
     },
     {
       "id": 73,
@@ -557,7 +557,7 @@
       "start": 299.44,
       "end": 309.44,
       "en": "Hello, you have a collect call from Tommy. Would you like to accept the charges?",
-      "zh": "你好，你有一个来自汤米的对方来电。 你愿意接受这些指控吗？"
+      "zh": "你好，有一个汤米打来的对方付费电话。你愿意支付这笔费用吗？"
     },
     {
       "id": 80,
@@ -641,7 +641,7 @@
       "start": 329.5,
       "end": 332.6,
       "en": "I ran out of credit and I also didn't have 25 cents for the payphone.",
-      "zh": "我的信用用完了，我的公用电话也没有 25 美分。"
+      "zh": "我的话费用完了，也没有 25 美分打公用电话。"
     },
     {
       "id": 92,
@@ -655,7 +655,7 @@
       "start": 335.8,
       "end": 344.0,
       "en": "All right, now we're going to talk a little bit more about the phrases we found in this dialogue on Fluency Builder.",
-      "zh": "好吧，现在我们将更多地谈谈我们在 Fluency Builder 的对话中找到的短语。"
+      "zh": "好吧，现在我们将更多地谈谈我们在流利表达的对话中找到的短语。"
     },
     {
       "id": 94,
@@ -669,7 +669,7 @@
       "start": 345.92,
       "end": 352.76,
       "en": "So this first phrase is a phrase that you might encounter in many different situations, but today's situation is making a collect call.",
-      "zh": "所以第一个短语是你在许多不同情况下可能会遇到的一个短语，但今天的情况是打通电话。"
+      "zh": "所以第一个短语是你在许多不同情况下都可能遇到的，但今天的情形是打对方付费电话。"
     },
     {
       "id": 96,
@@ -718,7 +718,7 @@
       "start": 374.76,
       "end": 376.6,
       "en": "So you can use it for name, for age.",
-      "zh": "所以你可以用它来命名，为了年龄。"
+      "zh": "所以你可以用它来说名字、说年龄。"
     },
     {
       "id": 103,
@@ -767,21 +767,21 @@
       "start": 393.16,
       "end": 396.86,
       "en": "And well, as we heard it, so once you do all this, you make a collect call.",
-      "zh": "好吧，正如我们听到的那样，所以一旦你完成了所有这些，你就会打一个对方的电话。"
+      "zh": "好吧，正如我们听到的，一旦你完成所有这些，你就打出了对方付费电话。"
     },
     {
       "id": 110,
       "start": 397.34,
       "end": 404.66,
       "en": "The person on the other side has to accept, and this is when the operator said, would you like to accept the charges?",
-      "zh": "对方的人必须接受，这是接线员说的，要不要收费？"
+      "zh": "对方的人必须同意，这时接线员说，你愿意支付这笔费用吗？"
     },
     {
       "id": 111,
       "start": 405.37,
       "end": 417.47,
       "en": "In this case, to accept the charges means to offer to pay. Okay. So if you accept the charges, that means that the phone company will ask you for money when your bill comes.",
-      "zh": "在这种情况下，接受收费是指提出要付费。 好的。 因此，如果您接受收费，这意味着电话公司会在您的账单到来时向您要钱。"
+      "zh": "在这种情况下，accept the charges 意思是同意付费。好的。所以如果你接受付费，就意味着电话公司会在账单来时向你要钱。"
     },
     {
       "id": 112,
@@ -795,7 +795,7 @@
       "start": 418.57,
       "end": 426.27,
       "en": "So you accept to be charged with money or you accept the charges that come with this telephone call.",
-      "zh": "因此，您接受收取金钱或您接受此电话带来的费用。"
+      "zh": "所以你同意被收费，也就是接受这通电话产生的费用。"
     },
     {
       "id": 114,
@@ -921,7 +921,7 @@
       "start": 467.62,
       "end": 473.5,
       "en": "Because he told his son to make a collect call in case of an emergency only.",
-      "zh": "因为他告诉他的儿子只有在紧急情况下拨打电话。"
+      "zh": "因为他告诉儿子只有在紧急情况下才能打对方付费电话。"
     },
     {
       "id": 132,
@@ -935,14 +935,14 @@
       "start": 474.29,
       "end": 478.03,
       "en": "So this phrase in case of an emergency is a fixed phrase.",
-      "zh": "所以在紧急情况下的这个短语是一个固定的短语。"
+      "zh": "所以 in case of an emergency 这个短语是固定说法。"
     },
     {
       "id": 134,
       "start": 478.55,
       "end": 493.0,
       "en": "You can see this on the metro, you can see this on the bus, but also you can hear this in conversation. And so in case of an emergency means only when there is an emergency situation, a fire, an accident, something like that.",
-      "zh": "你可以在地铁上看到这个，你可以在公共汽车上看到这个，但你也可以在谈话中听到这个。 因此，在紧急情况下，只有在紧急情况下才意味着火灾、事故等。"
+      "zh": "你可以在地铁上看到，在公共汽车上看到，也能在对话中听到。所以 in case of an emergency 的意思是只有在紧急情况下，比如火灾、事故之类。"
     },
     {
       "id": 135,
@@ -977,7 +977,7 @@
       "start": 510.56,
       "end": 525.7,
       "en": "I told you only make a collect call in case of an emergency. That means if there's an accident, if the boy's in the hospital, if there is something serious happening, then it's okay to charge to make this collect call. But other times like, you know, you forgot your wallet.",
-      "zh": "我告诉过你只有在紧急情况下才会打对话。 这意味着如果发生事故，如果男孩在医院，如果发生了严重的事情，那么可以收费进行收款电话。 但其他时候，你知道，你忘记了你的钱包。"
+      "zh": "我告诉过你只有在紧急情况下才能打对方付费电话。这意味着如果发生事故，如果男孩在医院，如果发生了严重的事情，那么付费打这个对方付费电话是可以的。但其他时候，你知道，比如你忘了带钱包。"
     },
     {
       "id": 140,
@@ -1012,7 +1012,7 @@
       "start": 543.49,
       "end": 545.75,
       "en": "This is the operator.",
-      "zh": "这是运营商。"
+      "zh": "这里是接线员。"
     },
     {
       "id": 145,
@@ -1068,7 +1068,7 @@
       "start": 563.88,
       "end": 573.96,
       "en": "Hello. You have a collect call from Tommy. Would you like to accept the charges?",
-      "zh": "你好。 你有一个来自汤米的收款电话。 你愿意接受这些指控吗？"
+      "zh": "你好。有一个汤米打来的对方付费电话。你愿意支付这笔费用吗？"
     },
     {
       "id": 153,
@@ -1145,7 +1145,7 @@
       "start": 593.88,
       "end": 596.98,
       "en": "I ran out of credit and I also didn't have 25 cents for the payphone.",
-      "zh": "我的信用用完了，我的公用电话也没有 25 美分。"
+      "zh": "我的话费用完了，也没有 25 美分打公用电话。"
     },
     {
       "id": 164,
@@ -1159,14 +1159,14 @@
       "start": 601.36,
       "end": 604.45,
       "en": "So making a collect call, very common thing as well.",
-      "zh": "所以拨打收款电话，也很常见。"
+      "zh": "所以打对方付费电话，也很常见。"
     },
     {
       "id": 166,
       "start": 604.75,
       "end": 615.29,
       "en": "This is the scenario you will find in the United States, for example, if you go to a payphone, you don't have any money, you want to call your friend, the tour guide, the airport, anything, you can make a collect call.",
-      "zh": "这是你在美国会发现的场景，例如，如果你去公用电话，你没有钱，你想给你的朋友打电话，导游，机场，任何东西，你都可以打电话。"
+      "zh": "这是你在美国会遇到的场景，例如，你去公用电话，身上没钱，想给朋友、导游、机场或任何人打电话，你都可以打对方付费电话。"
     },
     {
       "id": 167,
@@ -1180,21 +1180,21 @@
       "start": 621.59,
       "end": 629.25,
       "en": "But generally speaking, if you don't have any money and you have an emergency situation or you need to call someone, it's very important, then you can make a collect call.",
-      "zh": "但一般来说，如果你没有钱，你有紧急情况或需要打电话给某人，这很重要，那么你可以打一个对方的电话。"
+      "zh": "但一般来说，如果你没钱，又遇到紧急情况或需要给某人打电话，而且是重要的事，那么你可以打对方付费电话。"
     },
     {
       "id": 169,
       "start": 629.69,
       "end": 633.13,
       "en": "You dial O for zero for the operator and you say, I want to make a collect call.",
-      "zh": "你为运营商拨打 O 为零，你说，我想打一个收款电话。"
+      "zh": "你拨 O（零）找接线员，然后说，我想打一个对方付费电话。"
     },
     {
       "id": 170,
       "start": 633.13,
       "end": 639.59,
       "en": "And they will ask you these important questions. And then what the other person hears is, you know, Catherine would like to make a collect call.",
-      "zh": "他们会问你这些重要的问题。 然后另一个人听到的是，你知道，凯瑟琳想打一个对方的电话。"
+      "zh": "他们会问你这些重要的问题。然后对方听到的是，你知道，凯瑟琳想打一个对方付费电话。"
     },
     {
       "id": 171,
@@ -1208,14 +1208,14 @@
       "start": 640.84,
       "end": 645.24,
       "en": "Will you accept the charges? And you know, if you're my mother, you'll say yes, of course.",
-      "zh": "你会接受收费吗？ 你知道，如果你是我的母亲，你当然会说是的。"
+      "zh": "你愿意支付这笔费用吗？你知道，如果你是我妈妈，你当然会说是的。"
     },
     {
       "id": 173,
       "start": 645.24,
       "end": 651.03,
       "en": "That's right. Now, as you said, payphones, they used to be all over the place and you would have to put in a quarter.",
-      "zh": "没错。 现在，正如你所说，公用电话，它们曾经无处不在，你必须投入四分之一。"
+      "zh": "没错。现在，正如你所说，公用电话曾经到处都是，你得投一枚 25 美分硬币。"
     },
     {
       "id": 174,
@@ -1229,21 +1229,21 @@
       "start": 660.6,
       "end": 667.74,
       "en": "That's right. And payphones are less and less common, although a lot of people like to use payphones just because they're private, not tracked.",
-      "zh": "没错。 付费电话越来越不常见，尽管很多人喜欢使用公用电话只是因为它们是私密的，而不是被追踪的。"
+      "zh": "没错。公用电话越来越不常见，尽管很多人喜欢用公用电话，只是因为它们私密、不会被追踪。"
     },
     {
       "id": 176,
       "start": 668.32,
       "end": 674.1,
       "en": "And yeah, but what I found is that the airports now, you can't use a payphone with quarters or money.",
-      "zh": "是的，但我发现现在机场，你不能使用带宿舍或钱的公用电话。"
+      "zh": "是的，但我发现现在机场的公用电话，不能用 25 美分硬币或现金来打。"
     },
     {
       "id": 177,
       "start": 674.56,
       "end": 676.64,
       "en": "Now you got to use a credit card to use a payphone.",
-      "zh": "现在您必须使用信用卡来使用付费电话。"
+      "zh": "现在你得用信用卡才能使用公用电话。"
     },
     {
       "id": 178,
@@ -1292,7 +1292,7 @@
       "start": 692.24,
       "end": 698.9,
       "en": "Obviously, we will see if in your country you can make collect calls or how do you make a call to someone if you don't have any money?",
-      "zh": "显然，我们将看看您是否可以在您的国家/地区拨打汇款电话，或者如果您没有钱，您如何给某人打电话？"
+      "zh": "显然，我们想看看在你所在的国家/地区能不能打对方付费电话，或者如果你没钱，你会怎么给别人打电话？"
     },
     {
       "id": 185,

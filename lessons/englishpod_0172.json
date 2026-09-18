@@ -32,7 +32,7 @@
       "start": 7.56,
       "end": 12.24,
       "en": "And today we have a very exciting elementary lesson for you.",
-      "zh": "今天我们为您准备了一个非常激动人心的小学课程。"
+      "zh": "今天我们为您准备了一个非常激动人心的初级课程。"
     },
     {
       "id": 5,
@@ -235,7 +235,7 @@
       "start": 80.56,
       "end": 86.35,
       "en": "Now there are probably a couple of words that you didn't understand so why don't we look at those now in Language Takeaway.",
-      "zh": "现在可能有几个你不明白的词，所以我们为什么不看看现在的语言外卖中的那些。"
+      "zh": "现在可能有几个你不明白的词，那我们现在就在语言要点里看一下。"
     },
     {
       "id": 34,
@@ -277,7 +277,7 @@
       "start": 106.52,
       "end": 113.5,
       "en": "They actually put some special chemicals and use special machines to get very hard to remove stains from it.",
-      "zh": "他们实际上放置了一些特殊的化学物质，并使用特殊的机器来很难去除污渍。"
+      "zh": "他们实际上会使用一些特殊的化学物质和特殊的机器，来去除很难洗掉的污渍。"
     },
     {
       "id": 40,
@@ -291,7 +291,7 @@
       "start": 114.92,
       "end": 121.33,
       "en": "So this is often what we use when we clean coats or fancy shirts and dresses because you don't want to clean those yourself.",
-      "zh": "所以这通常是我们在清洁外套或花式衬衫和连衣裙时使用的，因为您不想自己清洁它们。"
+      "zh": "所以这通常是我们在清洁外套或高档衬衫和连衣裙时使用的，因为您不想自己清洁它们。"
     },
     {
       "id": 42,
@@ -459,7 +459,7 @@
       "start": 162.45,
       "end": 163.49,
       "en": "So it's stained.",
-      "zh": "所以它被染色了。"
+      "zh": "所以它被弄脏了。"
     },
     {
       "id": 66,
@@ -543,7 +543,7 @@
       "start": 184.77,
       "end": 191.24,
       "en": "So to spill and that means that you took some liquid and you put it onto your clothes.",
-      "zh": "所以溢出，这意味着你拿了一些液体，然后把它放在衣服上。"
+      "zh": "所以 to spill 的意思是，你拿了一些液体，把它洒到了衣服上。"
     },
     {
       "id": 78,
@@ -564,7 +564,7 @@
       "start": 194.6,
       "end": 195.6,
       "en": "So spill.",
-      "zh": "所以溢出。"
+      "zh": "所以 spill 就是洒。"
     },
     {
       "id": 81,
@@ -585,7 +585,7 @@
       "start": 197.24,
       "end": 197.36,
       "en": "Spilled.",
-      "zh": "溢出。"
+      "zh": "spilled，洒。"
     },
     {
       "id": 84,
@@ -606,14 +606,14 @@
       "start": 201.88,
       "end": 202.88,
       "en": "Spill.",
-      "zh": "溢出。"
+      "zh": "spill，洒。"
     },
     {
       "id": 87,
       "start": 202.88,
       "end": 203.88,
       "en": "It has an I, spilled.",
-      "zh": "它有一个我，溢出。"
+      "zh": "它是字母 I，spilled，洒了。"
     },
     {
       "id": 88,
@@ -634,14 +634,14 @@
       "start": 207.8,
       "end": 208.28,
       "en": "To iron.",
-      "zh": "铁。"
+      "zh": "to iron，熨烫。"
     },
     {
       "id": 91,
       "start": 208.92,
       "end": 212.4,
       "en": "To iron means to make something flat with no lines.",
-      "zh": "铁意味着使没有线的东西变得平坦。"
+      "zh": "to iron 的意思是让东西变得平整、没有褶皱。"
     },
     {
       "id": 92,
@@ -662,7 +662,7 @@
       "start": 215.28,
       "end": 218.14,
       "en": "So we use an iron to iron.",
-      "zh": "所以我们用铁来铁。"
+      "zh": "所以我们用熨斗来熨烫。"
     },
     {
       "id": 95,
@@ -676,7 +676,7 @@
       "start": 219.32,
       "end": 222.24,
       "en": "It's a metal electronic object.",
-      "zh": "这是一个金属电子物体。"
+      "zh": "它是一个金属制的电器。"
     },
     {
       "id": 97,
@@ -711,7 +711,7 @@
       "start": 231.28,
       "end": 234.17,
       "en": "So you smooth them out, you flatten them with this object, an iron.",
-      "zh": "所以你把它们弄平，用这个物体把它们弄平，铁。"
+      "zh": "所以你就用这个工具——熨斗，把它们弄平。"
     },
     {
       "id": 102,
@@ -725,7 +725,7 @@
       "start": 236.08,
       "end": 242.07,
       "en": "And well, usually if you take them to the dry cleaners, they will iron them and also starch them.",
-      "zh": "好吧，通常如果你把它们带到干洗店，它们会熨烫它们并使它们淀粉。"
+      "zh": "好吧，通常如果你把它们送到干洗店，他们会帮你熨烫并上浆。"
     },
     {
       "id": 104,
@@ -739,7 +739,7 @@
       "start": 243.06,
       "end": 251.68,
       "en": "To starch something means to use some powder or chemical to make something stiff or hard.",
-      "zh": "淀粉某物意味着使用一些粉末或化学物质使某些东西变得僵硬或坚硬。"
+      "zh": "to starch 的意思是使用粉末或化学物质让东西变硬挺。"
     },
     {
       "id": 106,
@@ -767,7 +767,7 @@
       "start": 261.08,
       "end": 266.26,
       "en": "He has a collar around his neck and that needs to be high and tall.",
-      "zh": "他的脖子上有一个项圈，需要高高。"
+      "zh": "他脖子上有衣领，那需要又高又挺。"
     },
     {
       "id": 110,
@@ -809,14 +809,14 @@
       "start": 278.36,
       "end": 281.94,
       "en": "Let's listen to the dialogue again and we'll be back with Fluency Builder.",
-      "zh": "让我们再次聆听对话，我们将带着 Flueny Builder 回来。"
+      "zh": "让我们再次聆听对话，我们将带着流利表达回来。"
     },
     {
       "id": 116,
       "start": 283.8,
       "end": 290.16,
       "en": "Thank God you're open.",
-      "zh": "感谢上帝，你敞开心扉。"
+      "zh": "谢天谢地，你们还开着门。"
     },
     {
       "id": 117,
@@ -970,7 +970,7 @@
       "start": 333.32,
       "end": 335.29,
       "en": "So let's take a look at Fluency Builder.",
-      "zh": "所以让我们来看看 Fluency Builder。"
+      "zh": "所以让我们来看看流利表达。"
     },
     {
       "id": 139,
@@ -1173,14 +1173,14 @@
       "start": 389.59,
       "end": 390.51,
       "en": "I need those papers ASAP.",
-      "zh": "我需要尽快这些文件。"
+      "zh": "我需要尽快拿到这些文件。"
     },
     {
       "id": 168,
       "start": 390.88,
       "end": 392.36,
       "en": "I need those reports ASAP.",
-      "zh": "我需要尽快这些报告。"
+      "zh": "我需要尽快拿到这些报告。"
     },
     {
       "id": 169,
@@ -1194,7 +1194,7 @@
       "start": 393.37,
       "end": 398.13,
       "en": "So you can say it either way, ASAP or ASAP and it means immediately.",
-      "zh": "所以你可以尽快或尽快说出来，这意味着立即。"
+      "zh": "所以你可以念成 ASAP 或者 A-S-A-P，意思都是马上。"
     },
     {
       "id": 171,
@@ -1208,14 +1208,14 @@
       "start": 399.55,
       "end": 406.41,
       "en": "And he said that he needed the suit ASAP and he said, I can have it ready by the end of the week.",
-      "zh": "他说他需要尽快需要这件衣服，他说，我可以在本周末之前准备好。"
+      "zh": "他说他尽快需要这套西装，然后又说，我可以在本周末之前准备好。"
     },
     {
       "id": 173,
       "start": 406.79,
       "end": 423.25,
       "en": "Okay, so that might not be fast enough for the client, for the person here who has the stain, but the end of the week is a very, very useful phrase because it means that maybe today's Monday or Tuesday, by Friday or Saturday, we'll have this ready for you.",
-      "zh": "好的，这对客户来说可能不够快，对于这里有污点的人来说，但周末是一个非常非常有用的短语，因为这意味着今天的星期一或星期二，到星期五或星期六，我们将为您准备好。"
+      "zh": "好的，这对客户来说可能不够快，但对有污渍要处理的人来说，the end of the week 是一个非常非常有用的短语，因为如果今天是周一或周二，到周五或周六我们就能给你准备好。"
     },
     {
       "id": 174,
@@ -1313,7 +1313,7 @@
       "start": 458.92,
       "end": 460.64,
       "en": "Thank God you are open.",
-      "zh": "感谢上帝，你是开放的。"
+      "zh": "谢天谢地，你们还开着门。"
     },
     {
       "id": 188,
@@ -1467,7 +1467,7 @@
       "start": 509.04,
       "end": 511.72,
       "en": "Are you good at this or do you get a lot of your clothes dry cleaned?",
-      "zh": "你擅长这个还是你的很多衣服干洗过？"
+      "zh": "你很擅长这些，还是你的很多衣服都拿去干洗？"
     },
     {
       "id": 210,
@@ -1488,7 +1488,7 @@
       "start": 514.82,
       "end": 518.96,
       "en": "I get really bored with the washing machine, but I actually really like ironing.",
-      "zh": "我对洗衣机真的很无聊，但我真的很喜欢熨烫。"
+      "zh": "用洗衣机洗衣服让我很无聊，但我其实真的很喜欢熨烫。"
     },
     {
       "id": 213,
@@ -1579,21 +1579,21 @@
       "start": 545.32,
       "end": 548.67,
       "en": "In the iron, there's some water that can come out like that.",
-      "zh": "在铁中，有一些水可以像这样流出。"
+      "zh": "熨斗里有水，可以像这样喷出来。"
     },
     {
       "id": 226,
       "start": 549.4,
       "end": 554.8,
       "en": "Well, if you spray the water, it makes the lines go out for longer.",
-      "zh": "好吧，如果你喷水，它会使线路更长。"
+      "zh": "好吧，如果你喷点水，熨平的褶皱能保持更久。"
     },
     {
       "id": 227,
       "start": 556.22,
       "end": 558.44,
       "en": "Because if you iron over that, it's more permanent.",
-      "zh": "因为如果你为此熨烫，它会更永久。"
+      "zh": "因为再在上面熨一遍，效果会更持久。"
     },
     {
       "id": 228,

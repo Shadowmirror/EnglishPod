@@ -53,14 +53,14 @@
       "start": 21.67,
       "end": 24.53,
       "en": "It's about someone cutting in line.",
-      "zh": "这是关于有人排队。"
+      "zh": "讲的是有人插队的事。"
     },
     {
       "id": 8,
       "start": 24.91,
       "end": 26.11,
       "en": "Cutting in line, okay.",
-      "zh": "切割排行，好吧。"
+      "zh": "Cutting in line，好吧。"
     },
     {
       "id": 9,
@@ -81,14 +81,14 @@
       "start": 34.38,
       "end": 38.1,
       "en": "Well, I imagine that everyone is wondering what cutting in line is.",
-      "zh": "好吧，我想每个人都想知道切割是什么。"
+      "zh": "我想大家都想知道 cutting in line 是什么意思。"
     },
     {
       "id": 12,
       "start": 38.68,
       "end": 48.16,
       "en": "Why don't we just listen to the dialogue one time and then when we come back Amira and I will gladly explain all the vocabulary in this dialogue.",
-      "zh": "我们为什么不只听一次对话，然后当我们回来时，我会很乐意解释这次对话中的所有词汇。"
+      "zh": "我们不如先听一遍对话，回来之后 Amira 和我再来讲解其中的词汇。"
     },
     {
       "id": 13,
@@ -130,7 +130,7 @@
       "start": 66.74,
       "end": 69.44,
       "en": "In a few hours we'll be in Hawaii and you'll be on the golf course.",
-      "zh": "几个小时后，我们将在夏威夷，您将在高尔夫球场上。"
+      "zh": "再过几个小时我们就在夏威夷了，你就能站在高尔夫球场上了。"
     },
     {
       "id": 19,
@@ -193,7 +193,7 @@
       "start": 88.12,
       "end": 89.12,
       "en": "I do.",
-      "zh": "是的。"
+      "zh": "我说的。"
     },
     {
       "id": 28,
@@ -214,14 +214,14 @@
       "start": 96.94,
       "end": 99.2,
       "en": "Whoa, I think there's punching.",
-      "zh": "哇，我想有拳打脚踢。"
+      "zh": "哇，好像打起来了。"
     },
     {
       "id": 31,
       "start": 100.22,
       "end": 106.28,
       "en": "Yeah, I guess this guy was just a crazy, I don't know, impatient man, huh?",
-      "zh": "是的，我猜这家伙只是个疯子，我不知道，不耐烦的人，嗯？"
+      "zh": "是啊，我猜这家伙就是个疯子，怎么说呢，没耐心的人，对吧？"
     },
     {
       "id": 32,
@@ -235,7 +235,7 @@
       "start": 110.24,
       "end": 116.34,
       "en": "But for now, we will treat some of the vocabulary and very useful phrases in the dialogue.",
-      "zh": "但现在，我们将处理对话中的一些词汇和非常有用的短语。"
+      "zh": "现在，我们先来讲讲对话里的一些词汇和实用短语。"
     },
     {
       "id": 34,
@@ -263,7 +263,7 @@
       "start": 120.44,
       "end": 123.76,
       "en": "Let's take a look at our first word would be unbelievable.",
-      "zh": "让我们来看看我们的第一个词是令人难以置信的。"
+      "zh": "我们来看第一个词，unbelievable。"
     },
     {
       "id": 38,
@@ -305,14 +305,14 @@
       "start": 128.81,
       "end": 133.67,
       "en": "Exactly, and just how you say it, it's something incredible, something amazing.",
-      "zh": "确切地说，你怎么说，这令人难以置信，令人惊叹的东西。"
+      "zh": "没错，就像你说的，它就是不可思议、令人惊叹的意思。"
     },
     {
       "id": 44,
       "start": 134.37,
       "end": 141.19,
       "en": "Yeah, but I would like to point out that unbelievable was used here to describe the man's frustration.",
-      "zh": "是的，但我想指出，令人难以置信的在这里被用来描述这个人的挫败感。"
+      "zh": "是啊，但我想指出，这里的 unbelievable 是用来形容这个人的烦躁。"
     },
     {
       "id": 45,
@@ -340,7 +340,7 @@
       "start": 146.88,
       "end": 152.06,
       "en": "Okay, in the next part, the woman, she's trying to calm and relax her husband.",
-      "zh": "好吧，在下一部分，女人，她正试图让她的丈夫平静和放松。"
+      "zh": "好，接下来这段，这位女士在努力安抚、宽慰她的丈夫。"
     },
     {
       "id": 49,
@@ -361,14 +361,14 @@
       "start": 160.98,
       "end": 165.6,
       "en": "So, we'll be in Hawaii and you'll be on the golf course.",
-      "zh": "所以，我们将在夏威夷，您将在高尔夫球场。"
+      "zh": "所以，我们会在夏威夷，你会在高尔夫球场上。"
     },
     {
       "id": 52,
       "start": 166.27,
       "end": 170.17,
       "en": "Yes, we'll be in Hawaii and you'll be on the golf course.",
-      "zh": "是的，我们将在夏威夷，您将在高尔夫球场。"
+      "zh": "是的，我们会在夏威夷，你会在高尔夫球场上。"
     },
     {
       "id": 53,
@@ -438,7 +438,7 @@
       "start": 193.13,
       "end": 195.05,
       "en": "Must be a mile long.",
-      "zh": "必须是一英里长。"
+      "zh": "这队伍得有一英里长。"
     },
     {
       "id": 63,
@@ -466,7 +466,7 @@
       "start": 200.53,
       "end": 212.99,
       "en": "Now, that's basically not a mile, it's not a kilometer long, but it's another way of saying that this line is really, really long.",
-      "zh": "现在，这基本上不是一英里，它不是一公里长，但这是另一种说法，这条线真的非常长。"
+      "zh": "这当然不是真的有一英里长，只是一种夸张的说法，形容这条队伍真的非常非常长。"
     },
     {
       "id": 67,
@@ -480,7 +480,7 @@
       "start": 215.99,
       "end": 218.25,
       "en": "Now let's take a look at there's no way.",
-      "zh": "现在让我们来看看没有办法。"
+      "zh": "现在我们来看看 there's no way。"
     },
     {
       "id": 69,
@@ -515,7 +515,7 @@
       "start": 224.9,
       "end": 234.44,
       "en": "Let's listen to some other examples on how we use there's no way in a different situation and then we can come back and talk about it a little bit more.",
-      "zh": "让我们听听其他一些关于我们如何使用在不同情况下没有办法的例子，然后我们可以回来多谈谈。"
+      "zh": "我们再听几个例子，看看 there's no way 在别的情境中怎么用，然后回来再聊。"
     },
     {
       "id": 74,
@@ -557,7 +557,7 @@
       "start": 279.36,
       "end": 282.93,
       "en": "So there's no way is another way of saying it is impossible.",
-      "zh": "所以不可能有另一种说法是不可能的。"
+      "zh": "所以 there's no way 就是不可能的意思。"
     },
     {
       "id": 80,
@@ -571,7 +571,7 @@
       "start": 285.28,
       "end": 288.01,
       "en": "There's no way you should miss this podcast, right?",
-      "zh": "你不可能错过这个播客，对吧？"
+      "zh": "你绝对不能错过这个播客，对吧？"
     },
     {
       "id": 82,
@@ -648,14 +648,14 @@
       "start": 320.68,
       "end": 321.46,
       "en": "Can I cut in line, please?",
-      "zh": "请问我可以切线吗？"
+      "zh": "请问我可以插个队吗？"
     },
     {
       "id": 93,
       "start": 328.96,
       "end": 331.4,
       "en": "I hate it when people cut in line at the bank.",
-      "zh": "我讨厌人们在银行排队。"
+      "zh": "我讨厌有人在银行插队。"
     },
     {
       "id": 94,
@@ -669,7 +669,7 @@
       "start": 333.12,
       "end": 335.24,
       "en": "I think it's okay when a pregnant woman cuts in line.",
-      "zh": "我认为孕妇排队时没关系。"
+      "zh": "我觉得孕妇插队是没问题的。"
     },
     {
       "id": 96,
@@ -697,7 +697,7 @@
       "start": 344.15,
       "end": 353.11,
       "en": "So from the examples, we can understand that it means when you are standing in line somewhere and somebody gets in front of you.",
-      "zh": "所以从例子中，我们可以理解这意味着当你在某个地方排队并且有人站在你面前时。"
+      "zh": "从这些例子可以看出，它的意思是你在某个地方排队时，有人插到了你前面。"
     },
     {
       "id": 100,
@@ -753,7 +753,7 @@
       "start": 363.32,
       "end": 367.52,
       "en": "Now, sue me is not a nice phrase.",
-      "zh": "现在，起诉我不是一个好词。"
+      "zh": "sue me 可不是什么礼貌的话。"
     },
     {
       "id": 108,
@@ -767,7 +767,7 @@
       "start": 369.88,
       "end": 373.96,
       "en": "Yeah, it's kind of rude, I guess, to say, sue me.",
-      "zh": "是的，这有点粗鲁，我猜，说，起诉我。"
+      "zh": "是啊，说 sue me 我觉得有点没礼貌。"
     },
     {
       "id": 110,
@@ -823,7 +823,7 @@
       "start": 413.33,
       "end": 415.97,
       "en": "In a few hours, we'll be in Hawaii and you'll be on the golf course.",
-      "zh": "几个小时后，我们将在夏威夷，您将在高尔夫球场上。"
+      "zh": "再过几个小时我们就在夏威夷了，你就能站在高尔夫球场上了。"
     },
     {
       "id": 118,
@@ -837,7 +837,7 @@
       "start": 417.36,
       "end": 418.36,
       "en": "Look at that line.",
-      "zh": "看看那条线。"
+      "zh": "看看那条队伍。"
     },
     {
       "id": 120,
@@ -865,7 +865,7 @@
       "start": 426.47,
       "end": 429.03,
       "en": "Hey, man, the end of the line is over there.",
-      "zh": "嘿，伙计，线的尽头就在那里。"
+      "zh": "嘿，老兄，队尾在那边。"
     },
     {
       "id": 124,
@@ -893,21 +893,21 @@
       "start": 434.68,
       "end": 435.68,
       "en": "I do.",
-      "zh": "是的。"
+      "zh": "我说的。"
     },
     {
       "id": 128,
       "start": 435.68,
       "end": 436.68,
       "en": "So, sue me.",
-      "zh": "所以，起诉我。"
+      "zh": "所以，有本事就告我啊。"
     },
     {
       "id": 129,
       "start": 436.68,
       "end": 439.68,
       "en": "All right, that's it.",
-      "zh": "好吧，就是这样。"
+      "zh": "好，这下我可忍不了了。"
     },
     {
       "id": 130,
@@ -921,7 +921,7 @@
       "start": 443.6,
       "end": 447.84,
       "en": "Now, this guy, when he says sue me, he's just being rude.",
-      "zh": "现在，这个人，当他说起诉我时，他只是粗鲁。"
+      "zh": "这个人说 sue me，只是在耍无赖。"
     },
     {
       "id": 132,
@@ -1005,7 +1005,7 @@
       "start": 470.04,
       "end": 479.14,
       "en": "So, we're going to be asking her a couple of questions and she'll be a frequent guest on our show, so you can expect to hear from her a lot.",
-      "zh": "所以，我们会问她几个问题，她会成为我们节目的常客，所以你可以期待听到她的很多消息。"
+      "zh": "我们会问她几个问题，她以后会常来我们节目，所以你会经常听到她的声音。"
     },
     {
       "id": 144,
@@ -1033,7 +1033,7 @@
       "start": 484.2,
       "end": 490.0,
       "en": "Well, Sarah, our topic today is about jumping the queue.",
-      "zh": "好吧，莎拉，我们今天的主题是关于排队。"
+      "zh": "Sarah，我们今天的主题是 jumping the queue（插队）。"
     },
     {
       "id": 148,
@@ -1047,14 +1047,14 @@
       "start": 492.18,
       "end": 493.9,
       "en": "What is this jump the queue?",
-      "zh": "这是什么跳队？"
+      "zh": "jump the queue 是什么意思？"
     },
     {
       "id": 150,
       "start": 494.78,
       "end": 498.06,
       "en": "It's the same as cut in line, but in British English.",
-      "zh": "它与直线切割相同，但在英式英语中。"
+      "zh": "它和 cut in line 意思一样，只是英式英语的说法。"
     },
     {
       "id": 151,
@@ -1089,7 +1089,7 @@
       "start": 508.52,
       "end": 513.76,
       "en": "So what would be the reaction of people if they cut in line?",
-      "zh": "那么，如果人们排成一列，他们会有什么反应呢？"
+      "zh": "那如果有人插队，人们会有什么反应？"
     },
     {
       "id": 156,
@@ -1110,14 +1110,14 @@
       "start": 519.2,
       "end": 520.96,
       "en": "So you don't dump the queue.",
-      "zh": "所以你不转储队列。"
+      "zh": "所以你不能插队。"
     },
     {
       "id": 159,
       "start": 520.96,
       "end": 528.04,
       "en": "If people jump in front of you, you get a little tuts and you shouldn't be doing that.",
-      "zh": "如果人们跳到你面前，你会得到一点 tuts，你不应该这样做。"
+      "zh": "如果有人插到你前面，你会听到几声咂嘴，表示你不该这么做。"
     },
     {
       "id": 160,
@@ -1145,7 +1145,7 @@
       "start": 535.17,
       "end": 545.94,
       "en": "And we have systems, you know, in London on the Metro, on the underground, you have to stand on the escalators on the right and queue, and you can't jump in front.",
-      "zh": "我们有系统，你知道，在伦敦的地铁上，在地铁上，你必须站在右边的自动扶梯上和排队，你不能跳到前面。"
+      "zh": "我们是有规矩的，比如在伦敦坐地铁，站在自动扶梯上要靠右，不能插到前面。"
     },
     {
       "id": 164,
@@ -1173,7 +1173,7 @@
       "start": 552.4,
       "end": 558.28,
       "en": "Is there like a queue handbook that you have to read in high school and kind of take a test on?",
-      "zh": "有没有像排队手册，你必须在高中阅读并进行考试？"
+      "zh": "是不是还有本排队手册，得在高中读，还要考个试？"
     },
     {
       "id": 168,
@@ -1208,14 +1208,14 @@
       "start": 563.28,
       "end": 570.42,
       "en": "Well, no, definitely, I guess this dialogue is similar to a reality of New York.",
-      "zh": "好吧，不，当然，我想这种对话类似于纽约的现实。"
+      "zh": "这个嘛，我觉得这段对话确实很像纽约的现实。"
     },
     {
       "id": 173,
       "start": 570.64,
       "end": 579.72,
       "en": "If somebody gets in front of you or cuts the line, somebody is going to say something and probably end up in a fight if the guy is rude.",
-      "zh": "如果有人走到你面前或切断了界限，如果这个人粗鲁，有人会说些什么，可能会打架。"
+      "zh": "如果有人插到你前面或者插队，肯定会有人开口，要是那人态度还横，没准就打起来了。"
     },
     {
       "id": 174,
@@ -1243,14 +1243,14 @@
       "start": 582.72,
       "end": 589.36,
       "en": "Well, Sarah, why don't you tell us, is there a line or a queue for almost everything in England?",
-      "zh": "好吧，莎拉，你为什么不告诉我们，英格兰的几乎所有东西都有排队或排队吗？"
+      "zh": "Sarah，那你跟我们说说，在英国是不是干什么都要排队？"
     },
     {
       "id": 178,
       "start": 589.55,
       "end": 592.03,
       "en": "It seems like we do just like to form a queue.",
-      "zh": "似乎我们只是喜欢排队。"
+      "zh": "看来我们确实就是爱排队。"
     },
     {
       "id": 179,
@@ -1271,7 +1271,7 @@
       "start": 594.48,
       "end": 599.84,
       "en": "Can you think of like some other examples of where you would normally you wouldn't queue, but you do?",
-      "zh": "你能想到一些你通常不会排队但你会排队的其他例子吗？"
+      "zh": "你能想到别的例子吗，就是那种本来不用排队、但你们还是会排队的场合？"
     },
     {
       "id": 182,
@@ -1285,14 +1285,14 @@
       "start": 601.18,
       "end": 608.48,
       "en": "Things like in the supermarket when you're trying to find some vegetables or something, I'd never push, I'd never sort of reach around or anything.",
-      "zh": "比如在超市里，当你试图找到一些蔬菜或其他东西时，我永远不会推，我永远不会到达周围或任何东西。"
+      "zh": "比如在超市里挑蔬菜什么的时候，我绝不会去挤，也不会伸手到别人前面去够。"
     },
     {
       "id": 184,
       "start": 608.66,
       "end": 613.4,
       "en": "I'd just wait until that person had finished picking up their stuff and then go in.",
-      "zh": "我只是等到那个人拿完他们的东西然后进去。"
+      "zh": "我会等人家挑完，再过去。"
     },
     {
       "id": 185,
@@ -1306,14 +1306,14 @@
       "start": 616.12,
       "end": 622.18,
       "en": "So if like five people want to buy oranges at the supermarket, then you have a little mini queue of five people waiting.",
-      "zh": "所以如果像五个人一样想在超市买橙子，那么你就有一个小排队的五个人在等着。"
+      "zh": "所以如果有五个人都要买橙子，那就会有五个人排成一小队等着。"
     },
     {
       "id": 187,
       "start": 623.12,
       "end": 625.48,
       "en": "There's no sort of just shoving through to the front.",
-      "zh": "没有一种只是推到前面。"
+      "zh": "绝不会有人硬挤到最前面。"
     },
     {
       "id": 188,
@@ -1327,21 +1327,21 @@
       "start": 627.0,
       "end": 629.7,
       "en": "So you don't stick your hand out and grab like a tomato.",
-      "zh": "这样你就不会像番茄一样伸出手抓住。"
+      "zh": "所以你不会伸手就去抓一个番茄。"
     },
     {
       "id": 190,
       "start": 629.96,
       "end": 637.16,
       "en": "If you do, again, you would make sure that that person knows, oh, I'm sorry, I'm just in a hurry or whatever.",
-      "zh": "如果你再次这样做，你会确保那个人知道，哦，对不起，我只是匆忙或其他什么。"
+      "zh": "如果你真这么做了，你一定会让对方知道，哦，抱歉，我赶时间之类的。"
     },
     {
       "id": 191,
       "start": 637.4,
       "end": 640.68,
       "en": "But yeah, it's just letting someone go before you.",
-      "zh": "但是，是的，它只是让某人在你之前离开。"
+      "zh": "不过话说回来，就是让人先来。"
     },
     {
       "id": 192,
@@ -1383,7 +1383,7 @@
       "start": 646.16,
       "end": 647.16,
       "en": "It was a pleasure.",
-      "zh": "这是一种乐趣。"
+      "zh": "很荣幸。"
     },
     {
       "id": 198,

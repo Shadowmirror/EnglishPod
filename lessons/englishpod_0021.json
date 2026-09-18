@@ -81,14 +81,14 @@
       "start": 32.32,
       "end": 32.67,
       "en": "Vocabulary preview.",
-      "zh": "词汇预习。"
+      "zh": "词汇预览。"
     },
     {
       "id": 12,
       "start": 33.62,
       "end": 38.15,
       "en": "We have two simple phrases today that you'll hear in our dialogue for our vocabulary preview.",
-      "zh": "我们今天有两个简单的短语，您将在我们的对话中听到我们的词汇预览。"
+      "zh": "今天的词汇预览里有两个简单的短语，你会在对话中听到。"
     },
     {
       "id": 13,
@@ -417,7 +417,7 @@
       "start": 159.22,
       "end": 161.85,
       "en": "That alone means I have 1,500 employees under me.",
-      "zh": "仅此一项就意味着我有 1,500 名员工。"
+      "zh": "光这一项就意味着我手下有 1,500 名员工。"
     },
     {
       "id": 60,
@@ -466,7 +466,7 @@
       "start": 188.18,
       "end": 190.01,
       "en": "Great music for our dialogue again, huh?",
-      "zh": "我们再次对话的好音乐，嗯？"
+      "zh": "这段对话的配乐又很棒，是吧？"
     },
     {
       "id": 67,
@@ -480,7 +480,7 @@
       "start": 191.47,
       "end": 192.11,
       "en": "By moi.",
-      "zh": "由莫伊。"
+      "zh": "当然是我选的。"
     },
     {
       "id": 69,
@@ -501,7 +501,7 @@
       "start": 196.78,
       "end": 198.55,
       "en": "And top gun pilot, what a cool profession.",
-      "zh": "和高炮飞行员，多么酷的职业。"
+      "zh": "还有 top gun pilot，多酷的职业啊。"
     },
     {
       "id": 72,
@@ -515,7 +515,7 @@
       "start": 200.34,
       "end": 202.05,
       "en": "Much cooler than being like the VP.",
-      "zh": "比像副总裁要酷得多。"
+      "zh": "比当什么副总裁酷多了。"
     },
     {
       "id": 74,
@@ -529,7 +529,7 @@
       "start": 203.34,
       "end": 204.34,
       "en": "How boring is that?",
-      "zh": "这有多无聊？"
+      "zh": "那得多无聊啊？"
     },
     {
       "id": 76,
@@ -550,7 +550,7 @@
       "start": 206.34,
       "end": 210.71,
       "en": "Yeah, you can tell a little bit of the sarcastic tone he had in his voice.",
-      "zh": "是的，你可以说出他的声音中的一些讽刺语气。"
+      "zh": "是的，你能听出他语气里带着点讽刺。"
     },
     {
       "id": 79,
@@ -578,7 +578,7 @@
       "start": 215.71,
       "end": 217.67,
       "en": "So let's take a look at language takeaway.",
-      "zh": "那么让我们来看看语言外卖。"
+      "zh": "那么让我们来看看语言要点。"
     },
     {
       "id": 83,
@@ -592,7 +592,7 @@
       "start": 222.14,
       "end": 224.82,
       "en": "Our first word for language takeaways is implement.",
-      "zh": "我们的语言外卖的第一个词是实现。"
+      "zh": "语言要点的第一个词是 implement（实施）。"
     },
     {
       "id": 85,
@@ -676,7 +676,7 @@
       "start": 266.18,
       "end": 270.18,
       "en": "And just in case, to implement means to put into action.",
-      "zh": "而以防万一，实施手段意味着付诸行动。"
+      "zh": "顺便说一下，implement 的意思就是付诸行动。"
     },
     {
       "id": 97,
@@ -704,7 +704,7 @@
       "start": 273.18,
       "end": 275.18,
       "en": "Our second word for language takeaway, policies.",
-      "zh": "我们的第二个语言外卖，政策。"
+      "zh": "我们的第二个语言要点，政策。"
     },
     {
       "id": 101,
@@ -872,21 +872,21 @@
       "start": 310.9,
       "end": 319.48,
       "en": "And our last word for language takeaway, it's kind of tricky, so let's listen to how it was used in our dialogue.",
-      "zh": "而我们对语言外卖的最后一个词，这有点棘手，所以让我们听听它在我们的对话中是如何被使用的。"
+      "zh": "而我们对语言要点的最后一个词，这有点棘手，所以让我们听听它在我们的对话中是如何被使用的。"
     },
     {
       "id": 125,
       "start": 319.48,
       "end": 322.11,
       "en": "That alone means I have 1,500 employees under me.",
-      "zh": "仅此一项就意味着我有 1,500 名员工。"
+      "zh": "光这一项就意味着我手下有 1,500 名员工。"
     },
     {
       "id": 126,
       "start": 325.42,
       "end": 330.86,
       "en": "That alone means I have 1,500 employees under me.",
-      "zh": "仅此一项就意味着我有 1,500 名员工。"
+      "zh": "光这一项就意味着我手下有 1,500 名员工。"
     },
     {
       "id": 127,
@@ -963,7 +963,7 @@
       "start": 348.46,
       "end": 351.38,
       "en": "I guess I'm not a VP right yet, hey?",
-      "zh": "我想我还不是副总裁，嘿？"
+      "zh": "我想我还不是副总裁，是吧？"
     },
     {
       "id": 138,
@@ -1103,7 +1103,7 @@
       "start": 401.58,
       "end": 403.23,
       "en": "I guess you must be pretty busy at work.",
-      "zh": "我想你一定很忙工作。"
+      "zh": "我想你工作一定很忙。"
     },
     {
       "id": 158,
@@ -1124,7 +1124,7 @@
       "start": 408.74,
       "end": 419.2,
       "en": "I implement policies and procedures nationwide of various departments, as well as train junior managers in FDA and EPA regulations.",
-      "zh": "我在全国范围内实施各个部门的政策和程序，并在 FDA 和 EPA 法规中培训初级管理人员。"
+      "zh": "我在全国各部门落实政策和程序，还培训初级管理人员熟悉 FDA 和 EPA 法规。"
     },
     {
       "id": 161,
@@ -1138,7 +1138,7 @@
       "start": 427.02,
       "end": 430.14,
       "en": "That alone means I have 1,500 employees under me.",
-      "zh": "仅此一项就意味着我有 1,500 名员工。"
+      "zh": "光这一项就意味着我手下有 1,500 名员工。"
     },
     {
       "id": 163,
@@ -1180,7 +1180,7 @@
       "start": 440.46,
       "end": 443.18,
       "en": "Oh, I'm a top gun pilot.",
-      "zh": "哦，我是一名顶级枪手。"
+      "zh": "哦，我是一名王牌飞行员。"
     },
     {
       "id": 169,
@@ -1194,7 +1194,7 @@
       "start": 448.22,
       "end": 451.96,
       "en": "With this, now we can start with our fluency builder for today.",
-      "zh": "有了这个，现在我们可以从我们今天的 Fluency Builder 开始。"
+      "zh": "有了这个，现在我们可以从我们今天的流利表达开始。"
     },
     {
       "id": 171,
@@ -1215,7 +1215,7 @@
       "start": 461.46,
       "end": 471.16,
       "en": "Yes, especially the first one that we have today is whenever someone talks and talks and talks and just, and continuously talks without stopping, you would say...",
-      "zh": "是的，尤其是我们今天的第一个是，每当有人说话、说话、谈论、公正、不断地说话时，你会说……"
+      "zh": "是的，尤其是今天的第一个：当有人一直说啊说，说个不停的时候，你会说……"
     },
     {
       "id": 174,
@@ -1236,7 +1236,7 @@
       "start": 482.82,
       "end": 486.07,
       "en": "This is a really natural way of saying keeps talking about.",
-      "zh": "这是一种非常自然的说法，一直在谈论。"
+      "zh": "这是“一直在谈论”的一种非常自然的说法。"
     },
     {
       "id": 177,
@@ -1313,7 +1313,7 @@
       "start": 524.23,
       "end": 528.37,
       "en": "My mom is always going on about how I should get married.",
-      "zh": "我妈妈总是在谈论我应该如何结婚。"
+      "zh": "我妈妈总在念叨我该结婚了。"
     },
     {
       "id": 188,
@@ -1341,7 +1341,7 @@
       "start": 534.62,
       "end": 540.74,
       "en": "Okay, so let's move on to our second phrase for today and this is a great one to use whenever you meet someone for the first time.",
-      "zh": "好的，所以让我们继续我们今天的第二个短语，当你第一次见到某人时，这是一个很好的使用。"
+      "zh": "好的，我们来看今天的第二个短语，这个短语特别适合第一次见到某人时使用。"
     },
     {
       "id": 192,
@@ -1369,7 +1369,7 @@
       "start": 549.45,
       "end": 555.13,
       "en": "So this is a really relaxed and natural way of saying how are you?",
-      "zh": "所以这是一种非常轻松和自然的表达方式，你好吗？"
+      "zh": "这是“你好吗”的一种非常随意、自然的说法。"
     },
     {
       "id": 196,
@@ -1390,7 +1390,7 @@
       "start": 557.34,
       "end": 558.25,
       "en": "So yeah, you can just say, hey, how's it going?",
-      "zh": "所以，是的，你可以说，嘿，进展如何？"
+      "zh": "所以，你可以直接说，嘿，最近怎么样？"
     },
     {
       "id": 199,
@@ -1488,7 +1488,7 @@
       "start": 590.89,
       "end": 594.01,
       "en": "And that is, it's kind of correct, but not really.",
-      "zh": "也就是说，这是正确的，但不是真的。"
+      "zh": "也就是说，它算对，但又不完全对。"
     },
     {
       "id": 213,
@@ -1509,7 +1509,7 @@
       "start": 597.38,
       "end": 598.35,
       "en": "So you can use, what do you do?",
-      "zh": "所以你可以使用，你做什么？"
+      "zh": "所以你可以说，what do you do？"
     },
     {
       "id": 216,
@@ -1530,7 +1530,7 @@
       "start": 602.34,
       "end": 603.83,
       "en": "That's the way you ask someone what is their job.",
-      "zh": "这就是你问别人他们的工作是什么的方式。"
+      "zh": "这就是问别人做什么工作时的说法。"
     },
     {
       "id": 219,
@@ -1565,7 +1565,7 @@
       "start": 620.33,
       "end": 623.23,
       "en": "Oh, look, there's Caroline and her boyfriend.",
-      "zh": "哦，看，有卡罗琳和她的男朋友。"
+      "zh": "哦，看，卡罗琳和她男朋友在那儿。"
     },
     {
       "id": 224,
@@ -1593,21 +1593,21 @@
       "start": 655.5,
       "end": 657.5,
       "en": "I guess you must be pretty busy at work.",
-      "zh": "我想你一定很忙工作。"
+      "zh": "我想你工作一定很忙。"
     },
     {
       "id": 228,
       "start": 657.5,
       "end": 660.38,
       "en": "Well, yeah, VP position is not easy to know.",
-      "zh": "嗯，是的，VP 职位不容易知道。"
+      "zh": "嗯，是的，你知道，VP 这个职位可不好当。"
     },
     {
       "id": 229,
       "start": 661.98,
       "end": 669.62,
       "en": "I implement policies and procedures nationwide, various departments, as well as trained junior managers in FDA and EPA regulations.",
-      "zh": "我在全国范围内实施政策和程序，并在 FDA 和 EPA 法规中实施训练有素的初级管理人员。"
+      "zh": "我在全国各部门推行政策和流程，还要培训初级管理人员，让他们熟悉 FDA 和 EPA 的法规。"
     },
     {
       "id": 230,
@@ -1621,7 +1621,7 @@
       "start": 675.1,
       "end": 677.76,
       "en": "That alone means I have 1500 employees under me.",
-      "zh": "仅此一项就意味着我有 1500 名员工。"
+      "zh": "光这一项就意味着我手下有 1500 名员工。"
     },
     {
       "id": 232,
@@ -1663,7 +1663,7 @@
       "start": 707.18,
       "end": 707.72,
       "en": "What is it?",
-      "zh": "怎么了？"
+      "zh": "是什么？"
     },
     {
       "id": 238,
@@ -1698,14 +1698,14 @@
       "start": 717.34,
       "end": 720.62,
       "en": "So I'm looking forward to seeing what users do.",
-      "zh": "所以我很期待看到用户做什么。"
+      "zh": "所以我很期待看看听众们会怎么回答。"
     },
     {
       "id": 243,
       "start": 720.62,
       "end": 725.48,
       "en": "And the second one is, what is the number one company in the Fortune 500?",
-      "zh": "第二个是，财富500强的第一家公司是什么？"
+      "zh": "第二个是，财富 500 强里排名第一的公司是哪家？"
     },
     {
       "id": 244,
@@ -1754,7 +1754,7 @@
       "start": 738.26,
       "end": 744.1,
       "en": "Tell us what you do and use some of the great phrases you learned today to describe your answer.",
-      "zh": "告诉我们你做了什么，并用你今天学到的一些很棒的短语来描述你的答案。"
+      "zh": "告诉我们你是做什么的，并用今天学到的一些好短语来描述你的回答。"
     },
     {
       "id": 251,
@@ -1789,7 +1789,7 @@
       "start": 754.34,
       "end": 757.13,
       "en": "And Marco and I are always around to answer your questions.",
-      "zh": "马可和我总是在回答你的问题。"
+      "zh": "马可和我随时都在，会解答你们的问题。"
     },
     {
       "id": 256,

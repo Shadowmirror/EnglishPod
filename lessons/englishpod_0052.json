@@ -11,7 +11,7 @@
       "start": 0.0,
       "end": 2.88,
       "en": "Hello, English Litters.",
-      "zh": "你好，英文垃圾。"
+      "zh": "各位英语学习者，大家好。"
     },
     {
       "id": 2,
@@ -39,7 +39,7 @@
       "start": 6.92,
       "end": 9.82,
       "en": "We're bringing you a great elementary podcast today.",
-      "zh": "我们今天为您带来了一个很棒的基本播客。"
+      "zh": "我们今天为您带来一期很棒的初级播客。"
     },
     {
       "id": 6,
@@ -95,7 +95,7 @@
       "start": 30.76,
       "end": 35.64,
       "en": "You got to know this language when you want to order a pizza.",
-      "zh": "当您想订购比萨饼时，您就了解了这种语言。"
+      "zh": "当你想点披萨时，你得懂这些说法。"
     },
     {
       "id": 14,
@@ -109,7 +109,7 @@
       "start": 36.64,
       "end": 40.82,
       "en": "So let's listen to this dialogue for the first time as a man is ordering pizza.",
-      "zh": "所以让我们第一次听这个对话，因为一个男人正在点披萨。"
+      "zh": "所以让我们先听第一遍对话，此时一个男人正在点披萨。"
     },
     {
       "id": 16,
@@ -312,7 +312,7 @@
       "start": 98.0,
       "end": 100.96,
       "en": "Let's take a look at some of the vocabulary in Language Takeaway.",
-      "zh": "让我们来看看语言外卖中的一些词汇。"
+      "zh": "让我们来看看语言要点中的一些词汇。"
     },
     {
       "id": 45,
@@ -382,7 +382,7 @@
       "start": 119.84,
       "end": 120.84,
       "en": "You can say medium or?",
-      "zh": "你可以说媒介还是？"
+      "zh": "你可以说中号，或者……？"
     },
     {
       "id": 55,
@@ -431,7 +431,7 @@
       "start": 129.0,
       "end": 132.4,
       "en": "For those of us who use centimeters, this would be more or less 30 centimeters.",
-      "zh": "对于我们这些使用厘米的人来说，这将或多或少是 30 厘米。"
+      "zh": "对于我们这些习惯用厘米的人来说，这大约是 30 厘米。"
     },
     {
       "id": 62,
@@ -487,7 +487,7 @@
       "start": 144.89,
       "end": 147.37,
       "en": "Or isn't it sometimes called a family size?",
-      "zh": "或者它有时不是称为家庭规模？"
+      "zh": "或者有时候不是叫家庭装吗？"
     },
     {
       "id": 70,
@@ -501,7 +501,7 @@
       "start": 148.55,
       "end": 149.05,
       "en": "Family size.",
-      "zh": "家庭规模。"
+      "zh": "家庭装。"
     },
     {
       "id": 72,
@@ -529,7 +529,7 @@
       "start": 154.0,
       "end": 155.52,
       "en": "So large and medium pizzas.",
-      "zh": "如此大和中等的比萨饼。"
+      "zh": "所以就是大号和中号披萨。"
     },
     {
       "id": 76,
@@ -641,7 +641,7 @@
       "start": 175.08,
       "end": 176.8,
       "en": "And they look like a- Like circles.",
-      "zh": "它们看起来像一个像圆形的圆圈。"
+      "zh": "它们看起来像——像一个个圆圈。"
     },
     {
       "id": 92,
@@ -711,7 +711,7 @@
       "start": 186.85,
       "end": 188.23,
       "en": "Little green or black balls.",
-      "zh": "小绿色或黑色球。"
+      "zh": "绿色或黑色的小球。"
     },
     {
       "id": 102,
@@ -1019,7 +1019,7 @@
       "start": 242.8,
       "end": 244.57,
       "en": "He ordered it with thin crust.",
-      "zh": "他用薄的外壳订购了它。"
+      "zh": "他点的是薄底披萨。"
     },
     {
       "id": 146,
@@ -1047,7 +1047,7 @@
       "start": 248.73,
       "end": 250.67,
       "en": "Now, we know thin is some...",
-      "zh": "现在，我们知道瘦是一些..."
+      "zh": "现在，我们知道 thin 是……"
     },
     {
       "id": 150,
@@ -1068,14 +1068,14 @@
       "start": 252.8,
       "end": 253.8,
       "en": "But crust.",
-      "zh": "但外壳。"
+      "zh": "但饼底呢？"
     },
     {
       "id": 153,
       "start": 253.8,
       "end": 254.8,
       "en": "What is crust?",
-      "zh": "什么是地壳？"
+      "zh": "饼底是什么？"
     },
     {
       "id": 154,
@@ -1089,7 +1089,7 @@
       "start": 255.8,
       "end": 256.4,
       "en": "The outside part.",
-      "zh": "外部部分。"
+      "zh": "就是外圈的部分。"
     },
     {
       "id": 156,
@@ -1110,7 +1110,7 @@
       "start": 258.8,
       "end": 259.8,
       "en": "So that's the crust.",
-      "zh": "所以这就是地壳。"
+      "zh": "所以这就是饼底。"
     },
     {
       "id": 159,
@@ -1124,7 +1124,7 @@
       "start": 261.3,
       "end": 262.82,
       "en": "Thin crust or thick crust?",
-      "zh": "薄壳还是厚外壳？"
+      "zh": "薄底还是厚底？"
     },
     {
       "id": 161,
@@ -1173,7 +1173,7 @@
       "start": 272.44,
       "end": 276.96,
       "en": "Well, you know, they also have the crust filled with cheese.",
-      "zh": "嗯，你知道，他们也有装满奶酪的外壳。"
+      "zh": "嗯，你知道，他们还有夹芝士的饼底。"
     },
     {
       "id": 168,
@@ -1187,7 +1187,7 @@
       "start": 277.96,
       "end": 278.41,
       "en": "It's so wrong.",
-      "zh": "太错了。"
+      "zh": "这太离谱了。"
     },
     {
       "id": 170,
@@ -1313,7 +1313,7 @@
       "start": 318.12,
       "end": 321.44,
       "en": "I'd like the second one with ham, pineapple, and green peppers.",
-      "zh": "我想要第二种火腿、菠萝和青椒。"
+      "zh": "第二个我要加火腿、菠萝和青椒。"
     },
     {
       "id": 188,
@@ -1390,7 +1390,7 @@
       "start": 338.46,
       "end": 344.0,
       "en": "Now we have some really polite language that you could use possibly with customers or with clients.",
-      "zh": "现在我们有一些非常有礼貌的语言，您可以与客户或客户一起使用。"
+      "zh": "现在我们有一些非常礼貌的说法，你可以在接待顾客或客户时用。"
     },
     {
       "id": 199,
@@ -1411,7 +1411,7 @@
       "start": 346.6,
       "end": 348.68,
       "en": "Let's go to Fluency Builder.",
-      "zh": "让我们去 Fluency Builder。"
+      "zh": "让我们去流利表达。"
     },
     {
       "id": 202,
@@ -1432,7 +1432,7 @@
       "start": 350.68,
       "end": 351.68,
       "en": "My, all right.",
-      "zh": "我的，好吧。"
+      "zh": "哎呀，好吧。"
     },
     {
       "id": 205,
@@ -1453,7 +1453,7 @@
       "start": 357.92,
       "end": 359.79,
       "en": "He said, this is Marty speaking.",
-      "zh": "他说，这是马蒂说话。"
+      "zh": "他说，我是 Marty。"
     },
     {
       "id": 208,
@@ -1495,14 +1495,14 @@
       "start": 375.52,
       "end": 377.92,
       "en": "We always say Erica speaking.",
-      "zh": "我们总是说埃里卡在说话。"
+      "zh": "我们总是说 Erica speaking。"
     },
     {
       "id": 214,
       "start": 377.92,
       "end": 378.59,
       "en": "This is Erica speaking.",
-      "zh": "这是埃里卡的演讲。"
+      "zh": "我是 Erica。"
     },
     {
       "id": 215,
@@ -1544,7 +1544,7 @@
       "start": 386.56,
       "end": 387.56,
       "en": "This is Marty.",
-      "zh": "这是马蒂。"
+      "zh": "我是 Marty。"
     },
     {
       "id": 221,
@@ -1572,7 +1572,7 @@
       "start": 390.56,
       "end": 392.75,
       "en": "Then you also mentioned a two for one special.",
-      "zh": "然后你还提到了一个特别的两个。"
+      "zh": "然后你还提到了买一送一特惠。"
     },
     {
       "id": 225,
@@ -1586,7 +1586,7 @@
       "start": 395.0,
       "end": 396.7,
       "en": "A two for one special.",
-      "zh": "两换一特别。"
+      "zh": "买一送一特惠。"
     },
     {
       "id": 227,
@@ -1600,21 +1600,21 @@
       "start": 400.56,
       "end": 401.4,
       "en": "For the price of one.",
-      "zh": "以一号的价格。"
+      "zh": "花一份的钱。"
     },
     {
       "id": 229,
       "start": 402.56,
       "end": 404.16,
       "en": "And a special is just a special promotion.",
-      "zh": "特别是一个特别的促销活动。"
+      "zh": "而 special 就是一种特别的促销。"
     },
     {
       "id": 230,
       "start": 404.54,
       "end": 405.24,
       "en": "A special price.",
-      "zh": "特别的价格。"
+      "zh": "特别优惠价。"
     },
     {
       "id": 231,
@@ -1712,7 +1712,7 @@
       "start": 424.04,
       "end": 425.26,
       "en": "Do you want is okay.",
-      "zh": "你想要是好的。"
+      "zh": "“Do you want”也可以用。"
     },
     {
       "id": 245,
@@ -1726,7 +1726,7 @@
       "start": 426.69,
       "end": 429.61,
       "en": "But it's less polite than would you like?",
-      "zh": "但它没有你想要的那么礼貌？"
+      "zh": "但它不如“Would you like”那么礼貌。"
     },
     {
       "id": 247,
@@ -1901,7 +1901,7 @@
       "start": 481.69,
       "end": 485.43,
       "en": "Your total is 2150 and your order will arrive in 30 minutes or it's free.",
-      "zh": "您的总数为 2150，您的订单将在 30 分钟内到达或免费。"
+      "zh": "您的总额是 21.50 美元，30 分钟内送达，否则免费。"
     },
     {
       "id": 272,
@@ -1999,7 +1999,7 @@
       "start": 509.1,
       "end": 510.8,
       "en": "What's the deal about this?",
-      "zh": "这有什么关系？"
+      "zh": "这到底是怎么回事？"
     },
     {
       "id": 286,
@@ -2097,7 +2097,7 @@
       "start": 551.96,
       "end": 553.96,
       "en": "So, pizza hat is an Italian pizza.",
-      "zh": "所以，披萨帽是意大利披萨。"
+      "zh": "所以，必胜客算是意大利披萨吗？"
     },
     {
       "id": 300,
@@ -2132,14 +2132,14 @@
       "start": 568.24,
       "end": 569.38,
       "en": "Americans, they're very good at branding the food.",
-      "zh": "美国人，他们非常擅长为食物打上烙印。"
+      "zh": "美国人，他们非常擅长为食物打造品牌。"
     },
     {
       "id": 305,
       "start": 569.92,
       "end": 573.08,
       "en": "So they have Starbucks and pizza hat and blah, blah, blah.",
-      "zh": "所以他们有星巴克和比萨帽，等等，等等，等等。"
+      "zh": "所以他们有星巴克、必胜客，等等等等。"
     },
     {
       "id": 306,
@@ -2216,7 +2216,7 @@
       "start": 600.44,
       "end": 604.08,
       "en": "As long as you call it Hawaiian, you can put pineapple in everything, I guess.",
-      "zh": "只要你称它为夏威夷人，我猜你就可以把菠萝放在所有东西上。"
+      "zh": "只要你叫它夏威夷风味，我猜你就可以往任何东西上加菠萝。"
     },
     {
       "id": 317,
@@ -2300,7 +2300,7 @@
       "start": 645.0,
       "end": 645.41,
       "en": "A Zipa.",
-      "zh": "一个拉链。"
+      "zh": "A Zipa。"
     },
     {
       "id": 329,
@@ -2314,7 +2314,7 @@
       "start": 647.17,
       "end": 647.85,
       "en": "A for America.",
-      "zh": "为美国。"
+      "zh": "A 代表 America（美国）。"
     },
     {
       "id": 331,
@@ -2328,21 +2328,21 @@
       "start": 649.23,
       "end": 650.09,
       "en": "A dot Zipa.",
-      "zh": "一个点拉链。"
+      "zh": "A 点 Zipa。"
     },
     {
       "id": 333,
       "start": 650.81,
       "end": 652.77,
       "en": "A dot Zipa dot com.",
-      "zh": "点 zipa dot com。"
+      "zh": "A 点 Zipa 点 com。"
     },
     {
       "id": 334,
       "start": 653.11,
       "end": 654.71,
       "en": "Can I have A Zipa?",
-      "zh": "我可以有一个zipa吗？"
+      "zh": "给我来一份 A Zipa 好吗？"
     },
     {
       "id": 335,
@@ -2363,7 +2363,7 @@
       "start": 675.28,
       "end": 677.8,
       "en": "You know, they have the super mega supreme.",
-      "zh": "你知道，他们有超级超级超级。"
+      "zh": "你知道，他们有那种 super mega supreme（超级至尊）。"
     },
     {
       "id": 338,
@@ -2391,7 +2391,7 @@
       "start": 680.8,
       "end": 682.07,
       "en": "I don't even know what's inside.",
-      "zh": "我什至不知道里面是什么。"
+      "zh": "我甚至不知道里面是什么。"
     },
     {
       "id": 342,
@@ -2412,7 +2412,7 @@
       "start": 684.72,
       "end": 687.92,
       "en": "It's like there's a part in my mouth and everybody's invited.",
-      "zh": "就像我嘴里有一部分，每个人都被邀请了。"
+      "zh": "就像我嘴里办了个派对，所有人都被邀请了。"
     },
     {
       "id": 345,
@@ -2447,7 +2447,7 @@
       "start": 697.64,
       "end": 698.42,
       "en": "We do fold.",
-      "zh": "我们做折叠。"
+      "zh": "我们确实会折。"
     },
     {
       "id": 350,
@@ -2475,7 +2475,7 @@
       "start": 711.07,
       "end": 711.99,
       "en": "Pizza is personal.",
-      "zh": "披萨是个人的。"
+      "zh": "披萨是很私人的。"
     },
     {
       "id": 354,
@@ -2587,14 +2587,14 @@
       "start": 741.76,
       "end": 756.98,
       "en": "I know once I was eating, I had a Japanese friend who ordered a pizza from Pizza Hut and the pizza had the pineapple and other stuff on it and then she took out like ketchup and mayonnaise and she got like wild.",
-      "zh": "我知道有一次我吃饭，我有一个日本朋友从必胜客点了一份披萨，披萨上有菠萝和其他东西，然后她像番茄酱和蛋黄酱一样取出，她变得像野生一样。"
+      "zh": "我知道有一次我在吃东西，我有个日本朋友从必胜客点了份披萨，上面有菠萝和其他东西，然后她掏出番茄酱和蛋黄酱，简直像疯了一样。"
     },
     {
       "id": 370,
       "start": 758.96,
       "end": 762.3,
       "en": "Although I must tell you, I like Tabasco on my pizza and I know that's wrong.",
-      "zh": "虽然我必须告诉你，我喜欢塔巴斯科在我的披萨上，我知道这是错误的。"
+      "zh": "不过我得告诉你，我喜欢在披萨上加塔巴斯科辣酱，我知道这样不对。"
     },
     {
       "id": 371,

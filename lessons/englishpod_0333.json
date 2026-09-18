@@ -11,7 +11,7 @@
       "start": 0.0,
       "end": 3.2,
       "en": "Hello everyone and welcome to English Odd.",
-      "zh": "大家好，欢迎来到英语奇数。"
+      "zh": "大家好，欢迎来到 EnglishPod。"
     },
     {
       "id": 2,
@@ -228,7 +228,7 @@
       "start": 92.85,
       "end": 95.21,
       "en": "So now let's take a look at some vocab on Language Takeaway.",
-      "zh": "所以现在让我们来看看一些关于语言外卖的词汇。"
+      "zh": "所以现在让我们来看看一些关于语言要点的词汇。"
     },
     {
       "id": 33,
@@ -508,7 +508,7 @@
       "start": 207.78,
       "end": 210.36,
       "en": "We heard about this noun cognition.",
-      "zh": "我们听说过这种名词认知。"
+      "zh": "我们听到过这个名词——认知。"
     },
     {
       "id": 73,
@@ -627,21 +627,21 @@
       "start": 255.72,
       "end": 258.43,
       "en": "Why don't we move on now to more specific vocab?",
-      "zh": "为什么我们现在不继续使用更具体的词汇？"
+      "zh": "我们现在接着看看更具体的词汇吧。"
     },
     {
       "id": 90,
       "start": 258.72,
       "end": 265.76,
       "en": "Let's take a look at some of the main organs that we discussed in this dialogue on Language Takeaway Part 2.",
-      "zh": "让我们来看看我们在关于语言外卖第二部分的对话中讨论的一些主要器官。"
+      "zh": "让我们来看看我们在关于语言要点第二部分的对话中讨论的一些主要器官。"
     },
     {
       "id": 91,
       "start": 270.3,
       "end": 271.06,
       "en": "Okay, class.",
-      "zh": "好吧，上课。"
+      "zh": "好了，同学们。"
     },
     {
       "id": 92,
@@ -788,7 +788,7 @@
       "start": 319.88,
       "end": 320.24,
       "en": "You are right.",
-      "zh": "您对了。"
+      "zh": "你说得对。"
     },
     {
       "id": 113,
@@ -809,7 +809,7 @@
       "start": 325.64,
       "end": 327.29,
       "en": "Well, they...",
-      "zh": "嗯，他们..."
+      "zh": "嗯，它们……"
     },
     {
       "id": 116,
@@ -830,7 +830,7 @@
       "start": 333.68,
       "end": 335.68,
       "en": "So we're moving down the body.",
-      "zh": "所以我们正在向下移动身体。"
+      "zh": "我们继续往下看身体。"
     },
     {
       "id": 119,
@@ -844,7 +844,7 @@
       "start": 338.92,
       "end": 342.54,
       "en": "We had the brain and then the heart, of course, which pumps blood like you say, Marco.",
-      "zh": "当然，我们有大脑，然后是心脏，就像你说的那样，它泵送血液，马可。"
+      "zh": "我们讲到了大脑，当然还有心脏，就像你说的，马可，它负责泵血。"
     },
     {
       "id": 121,
@@ -928,7 +928,7 @@
       "start": 380.8,
       "end": 391.08,
       "en": "So after the stomach breaks things down, it goes through the intestines and also the intestines are very important and they're very long, but they're all wound up inside our stomach.",
-      "zh": "所以在胃分解后，它会穿过肠道，肠道也很重要，而且很长，但它们都被塞进了我们的胃里。"
+      "zh": "所以在胃把食物分解后，食物会经过肠道，肠道也很重要，而且很长，但它们都盘绕在我们体内。"
     },
     {
       "id": 133,
@@ -1138,7 +1138,7 @@
       "start": 502.68,
       "end": 508.32,
       "en": "And the liver is actually for some people, a delicious food, not human liver, but animal liver.",
-      "zh": "而肝脏实际上是为某些人提供的，一种美味的食物，不是人体肝脏，而是动物肝脏。"
+      "zh": "而对某些人来说，肝脏其实是一种美味的食物，不是人的肝脏，而是动物的肝脏。"
     },
     {
       "id": 163,
@@ -1173,7 +1173,7 @@
       "start": 516.68,
       "end": 519.82,
       "en": "I think it has to do a little bit with what the liver does.",
-      "zh": "我认为它必须对肝脏的作用进行一些处理。"
+      "zh": "我认为这和肝脏的功能有点关系。"
     },
     {
       "id": 168,
@@ -1278,14 +1278,14 @@
       "start": 565.0,
       "end": 565.21,
       "en": "It does.",
-      "zh": "确实如此。"
+      "zh": "确实密切相关。"
     },
     {
       "id": 183,
       "start": 566.0,
       "end": 567.0,
       "en": "It does.",
-      "zh": "确实如此。"
+      "zh": "确实密切相关。"
     },
     {
       "id": 184,
@@ -1306,7 +1306,7 @@
       "start": 573.88,
       "end": 584.31,
       "en": "Now the bladder is where liquids and also some kinds of chemicals in our bodies that we get from the food that we eat are kept until we dispose of them.",
-      "zh": "现在，膀胱是液体以及我们体内的某些化学物质，我们从我们吃的食物中获得的食物被保存下来，直到我们处理掉它们。"
+      "zh": "膀胱是储存液体以及我们从食物中摄取的某些化学物质的场所，直到我们把它们排出去。"
     },
     {
       "id": 187,
@@ -1355,7 +1355,7 @@
       "start": 597.2,
       "end": 600.15,
       "en": "They feel pressure on the bladder, so it hurts and that doesn't hurt.",
-      "zh": "他们感到膀胱压力，所以很痛，也不会受伤。"
+      "zh": "她们感到膀胱受到压迫，所以会疼，而不是受伤。"
     },
     {
       "id": 194,
@@ -1376,7 +1376,7 @@
       "start": 602.13,
       "end": 606.63,
       "en": "So they often have to pee very often, unlike people who are not pregnant.",
-      "zh": "所以他们经常不得不经常小便，不像没有怀孕的人。"
+      "zh": "所以她们常常得频繁小便，不像没怀孕的人。"
     },
     {
       "id": 197,
@@ -1404,14 +1404,14 @@
       "start": 616.0,
       "end": 621.21,
       "en": "Now why don't we take a look at our dialogue for the last time and we'll be back in a bit to talk a little bit more.",
-      "zh": "现在我们为什么不看看我们最后一次的对话，我们会回来再谈一点。"
+      "zh": "现在我们最后再听一遍对话吧，稍后回来再聊一点。"
     },
     {
       "id": 201,
       "start": 627.96,
       "end": 628.49,
       "en": "Okay class.",
-      "zh": "好的课。"
+      "zh": "好了，同学们。"
     },
     {
       "id": 202,
@@ -1572,7 +1572,7 @@
       "start": 683.2,
       "end": 684.75,
       "en": "Well, they...",
-      "zh": "嗯，他们..."
+      "zh": "嗯，它们……"
     },
     {
       "id": 225,
@@ -1663,7 +1663,7 @@
       "start": 716.4,
       "end": 721.64,
       "en": "I believe they've done tests of heart transplants and they've done a few successful ones.",
-      "zh": "我相信他们已经对心脏移植进行了测试，并且他们已经完成了一些成功的检查。"
+      "zh": "我相信他们已经对心脏移植做了试验，并且完成了一些成功的手术。"
     },
     {
       "id": 238,
@@ -1705,7 +1705,7 @@
       "start": 737.88,
       "end": 751.51,
       "en": "And actually these organs, we don't really pay too much attention to them, but they're so very delicate and they do so many things that actually once you only begin having some problems with them, that's when you realize how important they are.",
-      "zh": "实际上，这些器官，我们并没有真正关注它们，但它们非常精致，它们做了很多事情，实际上一旦你开始对它们有一些问题，你就会意识到它们的重要性。"
+      "zh": "实际上，这些器官我们并不怎么在意，但它们非常脆弱，做了很多事情；而一旦它们开始出问题，你才会意识到它们有多重要。"
     },
     {
       "id": 244,
@@ -1726,14 +1726,14 @@
       "start": 758.8,
       "end": 766.84,
       "en": "Because obviously if you're having liver problems, you should stop drinking so much that there are some things that you can do to help protect yourself.",
-      "zh": "因为很明显，如果你有肝脏问题，你应该停止饮酒，以至于你可以做一些事情来帮助保护自己。"
+      "zh": "因为很明显，如果你有肝脏问题，就应该少喝点酒；还有些事情你可以做来帮助保护自己。"
     },
     {
       "id": 247,
       "start": 767.22,
       "end": 771.82,
       "en": "And one that we didn't mention is actually the biggest organ that they talk about is the skin.",
-      "zh": "我们没有提到的一个实际上是他们谈论的最大的器官是皮肤。"
+      "zh": "还有一个我们没提到的器官，其实是他们所说的最大的器官，就是皮肤。"
     },
     {
       "id": 248,

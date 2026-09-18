@@ -39,7 +39,7 @@
       "start": 5.67,
       "end": 9.41,
       "en": "And we're bringing you another great elementary lesson for all those elementary learners.",
-      "zh": "我们为所有这些小学学习者带来了另一个很棒的小学课程。"
+      "zh": "我们为所有初级学习者又带来了一节很棒的初级课程。"
     },
     {
       "id": 6,
@@ -53,7 +53,7 @@
       "start": 15.39,
       "end": 18.97,
       "en": "It's something that everyone has learned before in school, describing people.",
-      "zh": "这是每个人在学校之前学到的东西，描述人。"
+      "zh": "这是每个人在学校里都学过的东西——描述人物。"
     },
     {
       "id": 8,
@@ -249,14 +249,14 @@
       "start": 93.88,
       "end": 94.66,
       "en": "Small world.",
-      "zh": "小世界。"
+      "zh": "世界真小。"
     },
     {
       "id": 36,
       "start": 95.1,
       "end": 96.56,
       "en": "It is a small world.",
-      "zh": "这是一个小世界。"
+      "zh": "这世界真小。"
     },
     {
       "id": 37,
@@ -312,14 +312,14 @@
       "start": 112.4,
       "end": 113.4,
       "en": "Girls are more complicated with that.",
-      "zh": "女孩对此更加复杂。"
+      "zh": "女生在这方面想得更复杂。"
     },
     {
       "id": 45,
       "start": 113.4,
       "end": 116.0,
       "en": "We guys, we're not that complicated.",
-      "zh": "我们伙计们，我们没有那么复杂。"
+      "zh": "我们男人就没那么复杂。"
     },
     {
       "id": 46,
@@ -347,7 +347,7 @@
       "start": 122.8,
       "end": 124.0,
       "en": "Let's take a look at Language Takeaway.",
-      "zh": "让我们看看语言外卖。"
+      "zh": "让我们看看语言要点。"
     },
     {
       "id": 50,
@@ -361,7 +361,7 @@
       "start": 129.48,
       "end": 131.96,
       "en": "On Language Takeaway today, we're bringing you three words.",
-      "zh": "在今天的语言外卖中，我们为您带来三个词。"
+      "zh": "在今天的语言要点中，我们为您带来三个词。"
     },
     {
       "id": 52,
@@ -403,7 +403,7 @@
       "start": 138.92,
       "end": 140.52,
       "en": "It's a substance of hear, right?",
-      "zh": "这是听觉的实质，对吧？"
+      "zh": "它是 hear 的过去式，对吧？"
     },
     {
       "id": 58,
@@ -466,7 +466,7 @@
       "start": 169.32,
       "end": 170.23,
       "en": "What you got fired?",
-      "zh": "你被解雇了什么？"
+      "zh": "什么，你被解雇了？"
     },
     {
       "id": 67,
@@ -515,7 +515,7 @@
       "start": 186.44,
       "end": 187.44,
       "en": "Our next word, fill me in.",
-      "zh": "我们的下一个词，填写我。"
+      "zh": "下一个短语，fill me in。"
     },
     {
       "id": 74,
@@ -543,7 +543,7 @@
       "start": 190.81,
       "end": 192.69,
       "en": "So when you tell someone to fill you in.",
-      "zh": "所以当你告诉别人填写你的时候。"
+      "zh": "所以当你让别人 fill you in 时。"
     },
     {
       "id": 78,
@@ -613,7 +613,7 @@
       "start": 207.96,
       "end": 208.96,
       "en": "Great word.",
-      "zh": "伟大的词。"
+      "zh": "这个词真好。"
     },
     {
       "id": 88,
@@ -767,7 +767,7 @@
       "start": 277.31,
       "end": 280.25,
       "en": "Now you really have to fill me in.",
-      "zh": "现在你真的必须填写我。"
+      "zh": "现在你可得好好跟我说说。"
     },
     {
       "id": 110,
@@ -886,7 +886,7 @@
       "start": 339.24,
       "end": 342.48,
       "en": "So let's listen again as Irene describes David.",
-      "zh": "所以让我们再听一次，就像艾琳描述大卫一样。"
+      "zh": "我们再来听一遍艾琳是怎么描述大卫的。"
     },
     {
       "id": 127,
@@ -1047,7 +1047,7 @@
       "start": 394.95,
       "end": 397.07,
       "en": "It's just good looking sounds much more natural.",
-      "zh": "它只是好看的声音更自然。"
+      "zh": "只是 good looking 听起来自然得多。"
     },
     {
       "id": 150,
@@ -1131,7 +1131,7 @@
       "start": 415.04,
       "end": 416.37,
       "en": "So we know quite means very.",
-      "zh": "所以我们知道相当的意思。"
+      "zh": "我们知道 quite 的意思接近 very。"
     },
     {
       "id": 162,
@@ -1145,7 +1145,7 @@
       "start": 417.68,
       "end": 418.48,
       "en": "And tall, we know.",
-      "zh": "和高，我们知道。"
+      "zh": "tall 的意思我们也知道。"
     },
     {
       "id": 164,
@@ -1285,7 +1285,7 @@
       "start": 445.16,
       "end": 451.28,
       "en": "This is interesting because in the United States and Canada, you give a person's height using feet and inches.",
-      "zh": "这很有趣，因为在美国和加拿大，你用脚和英寸给一个人的身高。"
+      "zh": "这很有意思，因为在美国和加拿大，人们用英尺和英寸来说身高。"
     },
     {
       "id": 184,
@@ -1320,7 +1320,7 @@
       "start": 456.32,
       "end": 458.92,
       "en": "So 6'1 would be 6 feet 1 inch.",
-      "zh": "所以 6'1 将是 6 英尺 1 英寸。"
+      "zh": "所以 6'1 就是 6 英尺 1 英寸。"
     },
     {
       "id": 189,
@@ -1341,7 +1341,7 @@
       "start": 462.28,
       "end": 465.36,
       "en": "So 6'1 is like, 6'1 is about 180.",
-      "zh": "所以 6'1 就像，6'1 大约是 180。"
+      "zh": "6'1 大概相当于 180 厘米。"
     },
     {
       "id": 192,
@@ -1355,7 +1355,7 @@
       "start": 465.84,
       "end": 466.18,
       "en": "About that.",
-      "zh": "关于那件事。"
+      "zh": "差不多吧。"
     },
     {
       "id": 194,
@@ -1390,7 +1390,7 @@
       "start": 474.56,
       "end": 478.88,
       "en": "So the next time you give your height to someone, make sure you do it in feet more or less.",
-      "zh": "因此，下次您将身高交给某人时，请确保您或多或少地以英尺为单位。"
+      "zh": "所以下次你告诉别人身高时，尽量用英尺来说。"
     },
     {
       "id": 199,
@@ -1439,7 +1439,7 @@
       "start": 494.48,
       "end": 496.87,
       "en": "She said he's in his early 30s.",
-      "zh": "她说他已经30岁了。"
+      "zh": "她说他三十出头。"
     },
     {
       "id": 206,
@@ -1460,7 +1460,7 @@
       "start": 500.84,
       "end": 502.8,
       "en": "Early 30s.",
-      "zh": "30岁初。"
+      "zh": "三十出头。"
     },
     {
       "id": 209,
@@ -1481,7 +1481,7 @@
       "start": 508.76,
       "end": 510.1,
       "en": "So for example, early 30s.",
-      "zh": "例如，30 年代初。"
+      "zh": "比如「三十出头」。"
     },
     {
       "id": 212,
@@ -1495,7 +1495,7 @@
       "start": 514.0,
       "end": 514.47,
       "en": "Mid 30s.",
-      "zh": "30多岁。"
+      "zh": "三十五岁左右。"
     },
     {
       "id": 214,
@@ -1523,7 +1523,7 @@
       "start": 519.0,
       "end": 519.41,
       "en": "And then late 30s would be?",
-      "zh": "然后 30 年代末会是什么？"
+      "zh": "那 late 30s 呢？"
     },
     {
       "id": 218,
@@ -1600,7 +1600,7 @@
       "start": 531.2,
       "end": 532.2,
       "en": "I don't think it's really common to talk about your teens.",
-      "zh": "我不认为谈论你的青少年真的很常见。"
+      "zh": "我觉得大家一般不会说自己的「十几岁」。"
     },
     {
       "id": 229,
@@ -1614,7 +1614,7 @@
       "start": 533.2,
       "end": 535.2,
       "en": "You wouldn't say like his mid-teens or early teens.",
-      "zh": "你不会说像他的十几岁或青少年。"
+      "zh": "你不会说他的 mid-teens 或 early teens。"
     },
     {
       "id": 231,
@@ -1642,7 +1642,7 @@
       "start": 538.2,
       "end": 539.41,
       "en": "Great language used to describe people.",
-      "zh": "用来形容人的好语言。"
+      "zh": "这些都是形容人的好表达。"
     },
     {
       "id": 235,
@@ -1677,7 +1677,7 @@
       "start": 544.2,
       "end": 544.79,
       "en": "Or he sounds hot.",
-      "zh": "或者他听起来很热。"
+      "zh": "或者说他听起来很性感。"
     },
     {
       "id": 240,
@@ -1775,7 +1775,7 @@
       "start": 562.48,
       "end": 564.48,
       "en": "You wouldn't go up to a girl and say, wow, you're hot.",
-      "zh": "你不会去找一个女孩说，哇，你很热。"
+      "zh": "你不会走到一个女孩面前说，哇，你很性感。"
     },
     {
       "id": 254,
@@ -1803,14 +1803,14 @@
       "start": 566.98,
       "end": 568.92,
       "en": "You would say, wow, you're really pretty or you're gorgeous.",
-      "zh": "你会说，哇，你真的很漂亮，或者你很漂亮。"
+      "zh": "你会说，哇，你真漂亮，或者你美极了。"
     },
     {
       "id": 258,
       "start": 569.48,
       "end": 570.48,
       "en": "But you wouldn't say, wow, you're hot.",
-      "zh": "但你不会说，哇，你很热。"
+      "zh": "但你不会说，哇，你很性感。"
     },
     {
       "id": 259,
@@ -1838,7 +1838,7 @@
       "start": 573.48,
       "end": 574.66,
       "en": "That's something you would comment with your friends.",
-      "zh": "这是你会和你的朋友评论的事情。"
+      "zh": "这种话你只会跟朋友私下说。"
     },
     {
       "id": 263,
@@ -1915,7 +1915,7 @@
       "start": 608.99,
       "end": 610.72,
       "en": "Now you really have to fill me in.",
-      "zh": "现在你真的必须填写我。"
+      "zh": "现在你可得好好跟我说说。"
     },
     {
       "id": 274,

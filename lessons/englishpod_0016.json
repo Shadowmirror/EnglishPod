@@ -39,7 +39,7 @@
       "start": 13.45,
       "end": 14.83,
       "en": "Hurry up, Marco, we've got a lesson.",
-      "zh": "快点，马可，我们有一个教训。"
+      "zh": "快点，Marco，我们还有一节课要上呢。"
     },
     {
       "id": 6,
@@ -60,7 +60,7 @@
       "start": 20.56,
       "end": 20.82,
       "en": "The lesson.",
-      "zh": "教训。"
+      "zh": "课程。"
     },
     {
       "id": 9,
@@ -74,21 +74,21 @@
       "start": 24.28,
       "end": 26.04,
       "en": "We have a great lesson for you today.",
-      "zh": "我们今天为您提供了一个很好的教训。"
+      "zh": "今天给大家准备了一节很棒的课。"
     },
     {
       "id": 11,
       "start": 26.2,
       "end": 27.6,
       "en": "We have an elementary lesson.",
-      "zh": "我们有一个小学课。"
+      "zh": "这是一节初级课程。"
     },
     {
       "id": 12,
       "start": 27.98,
       "end": 35.36,
       "en": "That's right, an elementary lesson about being in a rush and about giving directions when you're in a car.",
-      "zh": "没错，关于匆忙和在车里指路的基本课程。"
+      "zh": "没错，是一节初级课，讲赶时间，以及坐在车里怎么指路。"
     },
     {
       "id": 13,
@@ -298,14 +298,14 @@
       "start": 130.65,
       "end": 133.57,
       "en": "Well maybe he was late returning a book or something.",
-      "zh": "好吧，也许他归还一本书或其他东西迟到了。"
+      "zh": "也许他只是还书迟到了之类的。"
     },
     {
       "id": 43,
       "start": 134.17,
       "end": 136.47,
       "en": "That's a bit dramatic just for returning a book.",
-      "zh": "仅仅因为归还一本书，这有点戏剧化。"
+      "zh": "就为了还本书，至于这么夸张吗。"
     },
     {
       "id": 44,
@@ -333,7 +333,7 @@
       "start": 143.93,
       "end": 147.91,
       "en": "Okay, on today's language takeaway we have five words for you today.",
-      "zh": "好的，在今天的语言外卖中，我们今天有五个词给你。"
+      "zh": "好的，在今天的语言要点中，我们今天有五个词要讲。"
     },
     {
       "id": 48,
@@ -382,7 +382,7 @@
       "start": 161.2,
       "end": 163.92,
       "en": "So what does it mean when I tell you to step on it?",
-      "zh": "那么当我告诉你踩它时是什么意思呢？"
+      "zh": "那当我说 step on it 的时候，是什么意思呢？"
     },
     {
       "id": 55,
@@ -445,7 +445,7 @@
       "start": 174.08,
       "end": 175.72,
       "en": "Our second word, speed up.",
-      "zh": "我们的第二个字，加快。"
+      "zh": "第二个词是 speed up。"
     },
     {
       "id": 64,
@@ -501,7 +501,7 @@
       "start": 188.64,
       "end": 192.53,
       "en": "So our third word for today is having a fit.",
-      "zh": "所以我们今天的第三个词是适合。"
+      "zh": "今天我们第三个要学的词是 having a fit。"
     },
     {
       "id": 72,
@@ -543,7 +543,7 @@
       "start": 215.14,
       "end": 216.92,
       "en": "Geez, you don't need to have a fit.",
-      "zh": "哎呀，你不需要有合适的。"
+      "zh": "哎呀，你没必要大发脾气。"
     },
     {
       "id": 78,
@@ -564,7 +564,7 @@
       "start": 230.52,
       "end": 233.84,
       "en": "My boss is going to have a fit if I don't finish this on time.",
-      "zh": "如果我不按时完成这项工作，我的老板会很适合。"
+      "zh": "如果我不按时做完，我老板会大发脾气的。"
     },
     {
       "id": 81,
@@ -592,7 +592,7 @@
       "start": 252.06,
       "end": 256.8,
       "en": "So Erica, why don't you tell me what does it mean when you have a fit?",
-      "zh": "那么埃里卡，你为什么不告诉我你有健康的时候是什么意思？"
+      "zh": "那么 Erica，你为什么不告诉我 have a fit 是什么意思呢？"
     },
     {
       "id": 85,
@@ -613,7 +613,7 @@
       "start": 268.9,
       "end": 270.62,
       "en": "Okay, that's having a fit.",
-      "zh": "好吧，这很适合。"
+      "zh": "好了，这就是 have a fit。"
     },
     {
       "id": 88,
@@ -669,7 +669,7 @@
       "start": 280.44,
       "end": 283.5,
       "en": "When you cut through something, it means you just go through.",
-      "zh": "当你切入某物时，这意味着你只是通过。"
+      "zh": "cut through 某个地方，意思就是从那里穿过去。"
     },
     {
       "id": 96,
@@ -690,7 +690,7 @@
       "start": 285.84,
       "end": 288.98,
       "en": "It gives you the idea that you go through something quickly.",
-      "zh": "它让你想到你很快就完成了一些事情。"
+      "zh": "它表示你很快就穿过了某个地方。"
     },
     {
       "id": 99,
@@ -725,7 +725,7 @@
       "start": 300.0,
       "end": 304.76,
       "en": "And this takes us to our last word for today, shortcut.",
-      "zh": "这将我们带到了今天的最后一句话，捷径。"
+      "zh": "接下来是今天最后一个词，shortcut。"
     },
     {
       "id": 104,
@@ -809,7 +809,7 @@
       "start": 330.04,
       "end": 333.23,
       "en": "Okay, so going back just a little bit to cut through.",
-      "zh": "好吧，所以回去一点点就可以了。"
+      "zh": "好，我们再稍微回到 cut through。"
     },
     {
       "id": 116,
@@ -907,7 +907,7 @@
       "start": 373.6,
       "end": 373.85,
       "en": "Just drive.",
-      "zh": "只是开车。"
+      "zh": "专心开车就行。"
     },
     {
       "id": 130,
@@ -1040,7 +1040,7 @@
       "start": 425.36,
       "end": 428.17,
       "en": "5.58, just before the library closes.",
-      "zh": "5.58，就在图书馆关闭之前。"
+      "zh": "5 点 58 分，图书馆关门前刚好赶上。"
     },
     {
       "id": 149,
@@ -1075,7 +1075,7 @@
       "start": 448.94,
       "end": 452.6,
       "en": "Okay, so today on putting it together, we have three phrases for you.",
-      "zh": "好的，今天就把它放在一起，我们为您准备了三个短语。"
+      "zh": "好的，今天在综合运用环节，我们为你准备了三个短语。"
     },
     {
       "id": 154,
@@ -1117,7 +1117,7 @@
       "start": 469.98,
       "end": 474.14,
       "en": "Yeah, and we can extend this phrase to say make a right.",
-      "zh": "是的，我们可以扩展这个短语来说正确。"
+      "zh": "是的，这个短语还能扩展成 make a right。"
     },
     {
       "id": 160,
@@ -1194,7 +1194,7 @@
       "start": 498.88,
       "end": 500.32,
       "en": "Make a left here, make a right there.",
-      "zh": "在这里左转，在那儿做一个。"
+      "zh": "在这儿左转，在那儿右转。"
     },
     {
       "id": 171,
@@ -1593,7 +1593,7 @@
       "start": 668.2,
       "end": 671.68,
       "en": "Let's go down here and we'll cut through Ashburn Heights.",
-      "zh": "让我们去这里，我们将穿越阿什本高地。"
+      "zh": "我们从这里走，穿过阿什本高地。"
     },
     {
       "id": 228,
@@ -1628,7 +1628,7 @@
       "start": 681.17,
       "end": 682.89,
       "en": "5.58 just before the library closes.",
-      "zh": "5.58 就在图书馆关闭之前。"
+      "zh": "5 点 58 分，刚好赶在图书馆关门前。"
     },
     {
       "id": 233,

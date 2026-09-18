@@ -25,14 +25,14 @@
       "start": 4.11,
       "end": 6.47,
       "en": "My name is Kathryn and it's the holiday season.",
-      "zh": "我的名字是凯瑟琳，这是假期。"
+      "zh": "我的名字是凯瑟琳，现在正值节日季。"
     },
     {
       "id": 4,
       "start": 6.73,
       "end": 9.97,
       "en": "Today we have a lesson all about a special December holiday.",
-      "zh": "今天我们有一个关于十二月特殊假期的教训。"
+      "zh": "今天我们来讲一课，主题是十二月的一个特别节日。"
     },
     {
       "id": 5,
@@ -242,7 +242,7 @@
       "start": 95.64,
       "end": 98.7,
       "en": "So now let's take a look at some language on Language Takeaway.",
-      "zh": "所以现在让我们来看看语言外卖的一些语言。"
+      "zh": "所以现在让我们来看看语言要点的一些表达。"
     },
     {
       "id": 35,
@@ -256,7 +256,7 @@
       "start": 104.37,
       "end": 107.07,
       "en": "Okay, I just said it but here's that phrase again.",
-      "zh": "好吧，我刚说过，但又是这句话。"
+      "zh": "好吧，我刚才说过，不过我们再来看一下这个短语。"
     },
     {
       "id": 37,
@@ -319,7 +319,7 @@
       "start": 131.08,
       "end": 140.24,
       "en": "Alright, so Christmas Eve is December 24th, Christmas Day or if it's in the morning, Christmas morning is December 25th.",
-      "zh": "好吧，所以圣诞节是 12 月 24 日，圣诞节，或者如果是早上，圣诞节早上是 12 月 25 日。"
+      "zh": "好吧，所以平安夜是 12 月 24 日，圣诞节，或者说如果是早上的话，圣诞节早晨是 12 月 25 日。"
     },
     {
       "id": 46,
@@ -417,7 +417,7 @@
       "start": 201.32,
       "end": 203.01,
       "en": "Stockings are basically socks.",
-      "zh": "丝袜基本上是袜子。"
+      "zh": "圣诞袜基本上就是袜子。"
     },
     {
       "id": 60,
@@ -438,14 +438,14 @@
       "start": 212.67,
       "end": 214.33,
       "en": "And like you said, Marco, they're filled with sweets.",
-      "zh": "就像你说的，马可，他们充满了糖果。"
+      "zh": "就像你说的，马可，它们里面装满了糖果。"
     },
     {
       "id": 63,
       "start": 215.4,
       "end": 223.72,
       "en": "The story says that boys and girls who are nice get good things like sweets and toys and boys and girls who are naughty get coal.",
-      "zh": "故事说，善良的男孩和女孩会得到像糖果和玩具这样的好东西，以及淘气的男孩和女孩。"
+      "zh": "故事说，乖的男孩和女孩会得到糖果和玩具这样的好东西，而淘气的男孩和女孩会得到煤。"
     },
     {
       "id": 64,
@@ -473,7 +473,7 @@
       "start": 230.96,
       "end": 233.64,
       "en": "It's very dirty and it's not something you want in your stocking.",
-      "zh": "它很脏，这不是你想要的东西。"
+      "zh": "它很脏，不会是你想放进圣诞袜里的东西。"
     },
     {
       "id": 68,
@@ -494,7 +494,7 @@
       "start": 234.76,
       "end": 236.46,
       "en": "So that's what we get in our stockings.",
-      "zh": "这就是我们在丝袜中得到的。"
+      "zh": "这就是我们在圣诞袜里得到的东西。"
     },
     {
       "id": 71,
@@ -529,7 +529,7 @@
       "start": 257.39,
       "end": 260.03,
       "en": "But you know, it's a long phrase, the Christmas tree.",
-      "zh": "但你知道，这是一个长句，圣诞树。"
+      "zh": "但你知道，这个短语有点长，圣诞树。"
     },
     {
       "id": 76,
@@ -606,14 +606,14 @@
       "start": 292.12,
       "end": 293.8,
       "en": "So this is a verb, to spy.",
-      "zh": "所以这是一个动词，间谍。"
+      "zh": "所以这是一个动词，spy（偷看）。"
     },
     {
       "id": 87,
       "start": 293.8,
       "end": 300.29,
       "en": "This means to watch someone but to watch them while they don't know that you're watching them.",
-      "zh": "这意味着在他们不知道你在看他们的时候看他们，但要看着他们。"
+      "zh": "意思是盯着某人看，而且是在对方不知道你在看的情况下。"
     },
     {
       "id": 88,
@@ -634,7 +634,7 @@
       "start": 302.89,
       "end": 303.27,
       "en": "You're spying.",
-      "zh": "你在间谍。"
+      "zh": "你是在偷看。"
     },
     {
       "id": 91,
@@ -648,7 +648,7 @@
       "start": 308.15,
       "end": 309.37,
       "en": "James Bond spies.",
-      "zh": "詹姆斯邦德间谍。"
+      "zh": "詹姆斯·邦德搞间谍活动。"
     },
     {
       "id": 93,
@@ -760,7 +760,7 @@
       "start": 348.24,
       "end": 350.26,
       "en": "So I thought I'd be nice and make Santa cookies.",
-      "zh": "所以我想我会很好，做圣诞老人饼干。"
+      "zh": "所以我想表现乖一点，给圣诞老人做些饼干。"
     },
     {
       "id": 109,
@@ -858,7 +858,7 @@
       "start": 387.1,
       "end": 390.52,
       "en": "So now let's take a look at three phrases on Fluency Builder.",
-      "zh": "所以现在让我们来看看关于 Fluency Builder 的三个短语。"
+      "zh": "所以现在让我们来看看关于流利表达的三个短语。"
     },
     {
       "id": 123,
@@ -921,14 +921,14 @@
       "start": 421.08,
       "end": 424.84,
       "en": "A fireplace is where you have a fire in your house to keep warm.",
-      "zh": "壁炉是您在家中放火保暖的地方。"
+      "zh": "壁炉是你在家里生火取暖的地方。"
     },
     {
       "id": 132,
       "start": 424.84,
       "end": 426.9,
       "en": "And the chimney is where the smoke goes to come outside.",
-      "zh": "烟囱是烟雾到外面的地方。"
+      "zh": "烟囱就是烟雾排到外面的地方。"
     },
     {
       "id": 133,
@@ -942,7 +942,7 @@
       "start": 429.98,
       "end": 433.24,
       "en": "He comes down the chimney from the roof into your house.",
-      "zh": "他从屋顶下来到你家的烟囱。"
+      "zh": "他从屋顶顺着烟囱下来，进入你家。"
     },
     {
       "id": 135,
@@ -991,7 +991,7 @@
       "start": 445.0,
       "end": 448.32,
       "en": "And this is a phrase that you're going to hear parents say a lot to their children.",
-      "zh": "这是一个你会听到父母对他们的孩子说很多话的短语。"
+      "zh": "这是你会经常听到父母对孩子说的一个短语。"
     },
     {
       "id": 142,
@@ -1061,7 +1061,7 @@
       "start": 470.92,
       "end": 472.84,
       "en": "Let Santa leave his presents.",
-      "zh": "让圣诞老人离开他的礼物。"
+      "zh": "让圣诞老人把礼物留下。"
     },
     {
       "id": 152,
@@ -1222,7 +1222,7 @@
       "start": 520.64,
       "end": 522.72,
       "en": "So I thought I'd be nice and make Santa cookies.",
-      "zh": "所以我想我会很好，做圣诞老人饼干。"
+      "zh": "所以我想表现乖一点，给圣诞老人做些饼干。"
     },
     {
       "id": 175,
@@ -1334,7 +1334,7 @@
       "start": 559.2,
       "end": 567.34,
       "en": "So these Christmas traditions are, as we said, they're typically American, but many other cultures share similar traditions like this.",
-      "zh": "因此，正如我们所说，这些圣诞节传统通常是美国人，但许多其他文化具有类似的传统。"
+      "zh": "因此，正如我们所说，这些圣诞节传统是典型的美国传统，但许多其他文化也有类似的传统。"
     },
     {
       "id": 191,
@@ -1390,7 +1390,7 @@
       "start": 591.08,
       "end": 595.12,
       "en": "Some religions celebrate Christmas differently or not at all.",
-      "zh": "一些宗教以不同的方式庆祝圣诞节或根本没有。"
+      "zh": "有些宗教以不同的方式庆祝圣诞节，有些则根本不过。"
     },
     {
       "id": 199,
@@ -1418,7 +1418,7 @@
       "start": 616.8,
       "end": 620.72,
       "en": "So a good way to end this would be to say have a very Merry Christmas.",
-      "zh": "所以结束这一切的一个好方法是说有一个非常快乐的圣诞节。"
+      "zh": "所以结束这一课的好方式就是祝大家圣诞快乐。"
     },
     {
       "id": 203,

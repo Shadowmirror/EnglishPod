@@ -18,7 +18,7 @@
       "start": 3.58,
       "end": 6.12,
       "en": "My name is Marco and I am joined by...",
-      "zh": "我的名字是马可，我加入了..."
+      "zh": "我叫 Marco，和我一起的是……"
     },
     {
       "id": 3,
@@ -151,7 +151,7 @@
       "start": 54.04,
       "end": 54.96,
       "en": "Vocabulary preview.",
-      "zh": "词汇预习。"
+      "zh": "词汇预览。"
     },
     {
       "id": 22,
@@ -221,7 +221,7 @@
       "start": 84.2,
       "end": 85.18,
       "en": "To increase sales.",
-      "zh": "以增加销售额。"
+      "zh": "增加销售额。"
     },
     {
       "id": 32,
@@ -375,14 +375,14 @@
       "start": 122.0,
       "end": 123.1,
       "en": "So that's a two for one.",
-      "zh": "所以这是一对一的。"
+      "zh": "所以这是买一送一。"
     },
     {
       "id": 54,
       "start": 123.28,
       "end": 124.26,
       "en": "That's a two for one promotion.",
-      "zh": "那是二人一促销。"
+      "zh": "那是买一送一的促销。"
     },
     {
       "id": 55,
@@ -634,7 +634,7 @@
       "start": 212.32,
       "end": 213.32,
       "en": "Come on.",
-      "zh": "来吧。"
+      "zh": "拜托。"
     },
     {
       "id": 91,
@@ -676,7 +676,7 @@
       "start": 218.32,
       "end": 219.32,
       "en": "Do we have any ideas yet?",
-      "zh": "我们还有什么想法吗？"
+      "zh": "我们想出什么点子了吗？"
     },
     {
       "id": 97,
@@ -767,14 +767,14 @@
       "start": 247.32,
       "end": 248.46,
       "en": "I don't know about interesting.",
-      "zh": "我不知道有趣。"
+      "zh": "有趣倒谈不上。"
     },
     {
       "id": 110,
       "start": 249.34,
       "end": 251.46,
       "en": "Maybe I would think bad manager.",
-      "zh": "也许我会认为糟糕的经理。"
+      "zh": "也许我会说这是个糟糕的经理。"
     },
     {
       "id": 111,
@@ -788,7 +788,7 @@
       "start": 255.74,
       "end": 258.7,
       "en": "But now, let's take a look at our language takeaway.",
-      "zh": "但是现在，让我们来看看我们的语言收获。"
+      "zh": "但是现在，我们来看看语言要点。"
     },
     {
       "id": 113,
@@ -802,7 +802,7 @@
       "start": 263.35,
       "end": 270.01,
       "en": "Okay, so language takeaway is the part of our lesson where we teach you the most important words from the dialogue.",
-      "zh": "好的，所以语言外卖是我们课程的一部分，我们教你对话中最重要的单词。"
+      "zh": "好的，所以语言要点是我们课程的一部分，我们教你对话中最重要的单词。"
     },
     {
       "id": 115,
@@ -823,7 +823,7 @@
       "start": 276.51,
       "end": 278.37,
       "en": "So we have three words for you today.",
-      "zh": "所以我们今天有三个字给你。"
+      "zh": "所以我们今天有三个字要讲。"
     },
     {
       "id": 118,
@@ -872,7 +872,7 @@
       "start": 289.28,
       "end": 299.0,
       "en": "So we have some examples for you so you can listen and try and see if you can figure out what match the competitors really means.",
-      "zh": "因此，我们为您提供了一些示例，以便您可以倾听并尝试查看您是否能弄清楚竞争对手的真正含义。"
+      "zh": "因此，我们为你准备了一些例句，你可以听一听，看看能不能弄明白 match the competitors 到底是什么意思。"
     },
     {
       "id": 125,
@@ -956,7 +956,7 @@
       "start": 359.32,
       "end": 366.84,
       "en": "All right, so let's move to our second word today for Language Takeaways and it is in the market.",
-      "zh": "好吧，所以让我们今天转向我们今天的第二个词来获取语言外卖，它已经在市场上了。"
+      "zh": "好，接下来看语言要点的第二个词 in the market。"
     },
     {
       "id": 137,
@@ -1089,7 +1089,7 @@
       "start": 412.84,
       "end": 414.84,
       "en": "It will never fly.",
-      "zh": "它永远不会飞。"
+      "zh": "这主意行不通。"
     },
     {
       "id": 156,
@@ -1145,7 +1145,7 @@
       "start": 423.88,
       "end": 428.78,
       "en": "So we're going to give you some examples and try and guess what it'll never fly really means.",
-      "zh": "所以我们将给你一些例子，并尝试猜测它永远不会飞行的真正含义。"
+      "zh": "所以我们会给你一些例子，你试着猜猜 it'll never fly 到底是什么意思。"
     },
     {
       "id": 164,
@@ -1159,7 +1159,7 @@
       "start": 435.08,
       "end": 436.76,
       "en": "This marketing plan will never fly.",
-      "zh": "这个营销计划永远不会飞。"
+      "zh": "这个营销计划根本行不通。"
     },
     {
       "id": 166,
@@ -1180,14 +1180,14 @@
       "start": 448.69,
       "end": 452.15,
       "en": "What you want to sell bikinis in Alaska?",
-      "zh": "你想在阿拉斯加卖什么比基尼？"
+      "zh": "什么？你想在阿拉斯加卖比基尼？"
     },
     {
       "id": 169,
       "start": 452.95,
       "end": 453.93,
       "en": "That'll never fly.",
-      "zh": "那永远不会飞。"
+      "zh": "那根本行不通。"
     },
     {
       "id": 170,
@@ -1201,7 +1201,7 @@
       "start": 462.73,
       "end": 466.29,
       "en": "Brad told me his idea for a film script, but the story will never fly.",
-      "zh": "布拉德告诉我他对电影剧本的想法，但故事永远不会飞。"
+      "zh": "布拉德跟我说了他想拍的电影剧本，但这个故事根本行不通。"
     },
     {
       "id": 172,
@@ -1215,14 +1215,14 @@
       "start": 472.06,
       "end": 473.86,
       "en": "So it means it won't work.",
-      "zh": "所以这意味着它不会工作。"
+      "zh": "所以它的意思是行不通。"
     },
     {
       "id": 174,
       "start": 474.38,
       "end": 474.82,
       "en": "It won't work.",
-      "zh": "它不会工作。"
+      "zh": "行不通。"
     },
     {
       "id": 175,
@@ -1369,7 +1369,7 @@
       "start": 538.56,
       "end": 546.36,
       "en": "Um, perhaps, um, a promotion, maybe a two for one offer or something like that.",
-      "zh": "嗯，也许，嗯，一个促销，也许是一个两个优惠或类似的东西。"
+      "zh": "嗯，也许，嗯，搞个促销，比如买一送一之类的。"
     },
     {
       "id": 196,
@@ -1411,7 +1411,7 @@
       "start": 555.2,
       "end": 556.56,
       "en": "Come on.",
-      "zh": "来吧。"
+      "zh": "拜托。"
     },
     {
       "id": 202,
@@ -1425,7 +1425,7 @@
       "start": 557.56,
       "end": 560.32,
       "en": "The CEO will be here any minute.",
-      "zh": "总裁随时都会在这里。"
+      "zh": "总裁随时都会到。"
     },
     {
       "id": 204,
@@ -1453,7 +1453,7 @@
       "start": 566.25,
       "end": 568.21,
       "en": "Do we have any ideas yet?",
-      "zh": "我们还有什么想法吗？"
+      "zh": "我们想出什么点子了吗？"
     },
     {
       "id": 208,
@@ -1572,7 +1572,7 @@
       "start": 609.66,
       "end": 612.5,
       "en": "So now it's time for us to take a look at Fluency Builder.",
-      "zh": "所以现在是我们来看看 Fluency Builder 的时候了。"
+      "zh": "所以现在是我们来看看流利表达的时候了。"
     },
     {
       "id": 225,
@@ -1586,7 +1586,7 @@
       "start": 615.3,
       "end": 620.32,
       "en": "So with Fluency Builder, we try to help you increase your fluency.",
-      "zh": "因此，使用 Fluency Builder，我们会尽力帮助您提高流畅性。"
+      "zh": "因此，使用流利表达，我们会尽力帮助您提高流畅性。"
     },
     {
       "id": 227,
@@ -1607,7 +1607,7 @@
       "start": 630.66,
       "end": 632.96,
       "en": "And we have three of these words for you today.",
-      "zh": "我们今天有其中三个词要给你。"
+      "zh": "我们今天有其中三个词要要讲。"
     },
     {
       "id": 230,
@@ -1684,14 +1684,14 @@
       "start": 655.1,
       "end": 657.8,
       "en": "The CEO will be here any minute.",
-      "zh": "总裁随时都会在这里。"
+      "zh": "总裁随时都会到。"
     },
     {
       "id": 241,
       "start": 659.52,
       "end": 662.56,
       "en": "The CEO will be here any minute.",
-      "zh": "总裁随时都会在这里。"
+      "zh": "总裁随时都会到。"
     },
     {
       "id": 242,
@@ -1705,14 +1705,14 @@
       "start": 664.1,
       "end": 665.7,
       "en": "So, be here any minute.",
-      "zh": "所以，随时都在这里。"
+      "zh": "所以，be here any minute 意思就是随时会到。"
     },
     {
       "id": 244,
       "start": 665.9,
       "end": 666.88,
       "en": "He'll be here any minute.",
-      "zh": "他随时都会在这里。"
+      "zh": "他随时都会到。"
     },
     {
       "id": 245,
@@ -1740,7 +1740,7 @@
       "start": 672.12,
       "end": 672.98,
       "en": "He'll be here any minute.",
-      "zh": "他随时都会在这里。"
+      "zh": "他随时都会到。"
     },
     {
       "id": 249,
@@ -1775,14 +1775,14 @@
       "start": 677.2,
       "end": 679.08,
       "en": "So, let's move on to our second phrase for Fluency Builder.",
-      "zh": "所以，让我们继续我们的第二个 Flueny Builder 短语。"
+      "zh": "所以，让我们继续看流利表达的第二个短语。"
     },
     {
       "id": 254,
       "start": 679.24,
       "end": 685.56,
       "en": "So, this phrase will help you to learn how to say, I'm thinking about something in a better sounding way.",
-      "zh": "所以，这句话将帮助你学习如何说，我正在以更好的方式思考一些事情。"
+      "zh": "这个短语会帮你学会用更好听的方式表达“我正在考虑某件事”。"
     },
     {
       "id": 255,
@@ -2223,7 +2223,7 @@
       "start": 814.91,
       "end": 817.59,
       "en": "Maybe a two-for-one offer or something like that.",
-      "zh": "也许是二合一的报价或类似的东西。"
+      "zh": "也许是买一送一之类的。"
     },
     {
       "id": 318,
@@ -2251,7 +2251,7 @@
       "start": 822.21,
       "end": 822.89,
       "en": "Damn it, people, come on.",
-      "zh": "该死的，人们，来吧。"
+      "zh": "真是的，各位，加把劲。"
     },
     {
       "id": 322,
@@ -2265,7 +2265,7 @@
       "start": 824.0,
       "end": 826.04,
       "en": "The CEO will be here any minute.",
-      "zh": "总裁随时都会在这里。"
+      "zh": "总裁随时都会到。"
     },
     {
       "id": 324,
@@ -2293,7 +2293,7 @@
       "start": 831.64,
       "end": 832.68,
       "en": "Do we have any ideas yet?",
-      "zh": "我们还有什么想法吗？"
+      "zh": "我们想出什么点子了吗？"
     },
     {
       "id": 328,
@@ -2307,14 +2307,14 @@
       "start": 833.94,
       "end": 837.18,
       "en": "We were kind of considering a two-for-one offer to get more competitive.",
-      "zh": "我们正在考虑以二合一的方式获得更具竞争力的报价。"
+      "zh": "我们正在考虑推出买一送一的活动，让自己更有竞争力。"
     },
     {
       "id": 330,
       "start": 837.94,
       "end": 839.58,
       "en": "A two-for-one promotion?",
-      "zh": "二合一促销？"
+      "zh": "买一送一的促销？"
     },
     {
       "id": 331,
@@ -2398,7 +2398,7 @@
       "start": 865.23,
       "end": 871.27,
       "en": "Yeah, this boss, Clark, I would have to say he sounds like a terrible person to work for.",
-      "zh": "是的，这个老板，克拉克，我不得不说他听起来像一个糟糕的人。"
+      "zh": "是的，这位老板，克拉克，我得说他听起来是个很难共事的人。"
     },
     {
       "id": 343,
@@ -2440,7 +2440,7 @@
       "start": 893.11,
       "end": 894.95,
       "en": "Give me a better idea and stuff like that.",
-      "zh": "给我一个更好的主意和类似的东西。"
+      "zh": "给我个更好的主意之类的。"
     },
     {
       "id": 349,
@@ -2454,7 +2454,7 @@
       "start": 897.49,
       "end": 908.45,
       "en": "You know, my first boss that I had when I first entered the workforce, I was in a very junior position and I was working for a large company and the general manager of the company, he was amazing.",
-      "zh": "你知道，当我第一次进入劳动力市场时，我的第一个老板，我处于一个非常初级的职位，我在一家大公司和公司的总经理工作，他很棒。"
+      "zh": "你知道，我刚开始工作时，我的第一个老板——当时我职位很低，在一家大公司上班，公司的总经理非常了不起。"
     },
     {
       "id": 351,
@@ -2468,7 +2468,7 @@
       "start": 910.65,
       "end": 918.53,
       "en": "He knew every single employee's name, first name, and he would make an effort to stop and say hello and ask them how things were going.",
-      "zh": "他知道每个员工的名字、名字，他会努力停下来打个招呼，问他们事情进展如何。"
+      "zh": "他知道每一位员工的名字，连名都记得，还会特意停下来打个招呼，问问他们近来如何。"
     },
     {
       "id": 353,
@@ -2573,7 +2573,7 @@
       "start": 971.6,
       "end": 975.38,
       "en": "So thanks for listening today everyone and until next time, this is goodbye.",
-      "zh": "所以感谢大家今天的收听，直到下一次，这是再见。"
+      "zh": "感谢大家今天的收听，我们下次再见。"
     },
     {
       "id": 368,

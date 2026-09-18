@@ -25,7 +25,7 @@
       "start": 4.16,
       "end": 7.08,
       "en": "My name is Catherine and it's the holiday season, Marco.",
-      "zh": "我的名字是凯瑟琳，这是假期，马可。"
+      "zh": "我叫凯瑟琳，现在是假期季，马可。"
     },
     {
       "id": 4,
@@ -60,7 +60,7 @@
       "start": 19.78,
       "end": 24.12,
       "en": "That's the extra food after your meal that you eat later, maybe the next day.",
-      "zh": "那是你晚餐后吃的额外食物，也许是第二天。"
+      "zh": "那是吃完饭剩下的食物，你过后才吃，也许是第二天。"
     },
     {
       "id": 9,
@@ -228,7 +228,7 @@
       "start": 98.9,
       "end": 101.06,
       "en": "Let's take a look at it in Language Takeaway.",
-      "zh": "让我们在语言外卖中看看它。"
+      "zh": "让我们在语言要点中看看它。"
     },
     {
       "id": 33,
@@ -249,7 +249,7 @@
       "start": 106.95,
       "end": 111.29,
       "en": "So Marco, there's one cooking term really in this dialogue that is, it's a little bit different from the others.",
-      "zh": "所以马可，这个对话中真的有一个烹饪术语，那就是它与其他有点不同。"
+      "zh": "所以马可，这个对话里有一个烹饪术语，和其他的有点不一样。"
     },
     {
       "id": 36,
@@ -263,7 +263,7 @@
       "start": 112.91,
       "end": 113.45,
       "en": "It's diced.",
-      "zh": "它被切碎了。"
+      "zh": "是 diced，也就是切成丁。"
     },
     {
       "id": 38,
@@ -277,14 +277,14 @@
       "start": 114.93,
       "end": 118.43,
       "en": "We were talking about taking some peppers or diced peppers.",
-      "zh": "我们在谈论吃一些辣椒或辣椒丁。"
+      "zh": "我们说的是放一些甜椒，也就是甜椒丁。"
     },
     {
       "id": 40,
       "start": 118.89,
       "end": 126.81,
       "en": "So when you dice a vegetable or anything that you're cooking, basically you're making little pieces, little squares almost.",
-      "zh": "因此，当您将蔬菜或烹饪的任何东西切成丁时，基本上您是在制作小块，几乎是小方块。"
+      "zh": "因此，当您将蔬菜或烹饪的任何东西切成丁时，基本上您是在切成小块，几乎是小方块。"
     },
     {
       "id": 41,
@@ -298,14 +298,14 @@
       "start": 127.91,
       "end": 129.87,
       "en": "So you can cut something many different ways.",
-      "zh": "所以你可以剪一些不同的方式。"
+      "zh": "所以你可以用很多不同的方式切东西。"
     },
     {
       "id": 43,
       "start": 130.69,
       "end": 138.21,
       "en": "You can cut big pieces and small pieces, but diced peppers, diced is a specific way to cut something in small, like you say, small squares.",
-      "zh": "你可以切大块和小块，但辣椒切丁是一种特殊的方式，可以将小块切成小块，就像你说的小方块。"
+      "zh": "你可以切成大块或小块，但“辣椒切丁”是一种特定的切法，切成像你说的那种小方块。"
     },
     {
       "id": 44,
@@ -340,7 +340,7 @@
       "start": 151.56,
       "end": 154.58,
       "en": "And the roommate was a little bit concerned about bacteria and germs.",
-      "zh": "室友有点担心细菌和细菌。"
+      "zh": "室友有点担心细菌和病菌。"
     },
     {
       "id": 49,
@@ -354,21 +354,21 @@
       "start": 155.72,
       "end": 159.38,
       "en": "So bacteria and germs, these sound like very scientific words.",
-      "zh": "所以细菌和细菌，这些听起来像是非常科学的词。"
+      "zh": "所以细菌和病菌，这些听起来像是非常科学的词。"
     },
     {
       "id": 51,
       "start": 161.68,
       "end": 164.74,
       "en": "Bacteria is something that grows on, well, everything really.",
-      "zh": "细菌是生长的东西，嗯，一切真的。"
+      "zh": "细菌这种生物，嗯，其实什么东西上都会长。"
     },
     {
       "id": 52,
       "start": 165.12,
       "end": 171.32,
       "en": "But if you leave food out, for example, it gets bacteria or germs are things that can make you sick.",
-      "zh": "例如，如果你把食物放在外面，它会产生细菌或细菌，这些东西会让你生病。"
+      "zh": "例如，如果你把食物放在外面，它就会滋生细菌；病菌是会让你生病的东西。"
     },
     {
       "id": 53,
@@ -396,14 +396,14 @@
       "start": 180.2,
       "end": 182.8,
       "en": "But when you have food that's left out, the risk is what, Marco?",
-      "zh": "但是当你的食物被遗漏时，风险是什么，马可？"
+      "zh": "但是当你的食物放在外面时，风险是什么，马可？"
     },
     {
       "id": 57,
       "start": 183.3,
       "end": 185.56,
       "en": "Is that you get bacteria or germs on it.",
-      "zh": "是你身上有细菌或细菌。"
+      "zh": "就是食物上会沾上细菌和病菌。"
     },
     {
       "id": 58,
@@ -424,14 +424,14 @@
       "start": 188.68,
       "end": 193.96,
       "en": "If you leave it out, it's very, very dangerous because you can get some bacteria that will make you sick.",
-      "zh": "如果你把它排除在外，这非常非常危险，因为你会得到一些会让你生病的细菌。"
+      "zh": "如果你把它放在外面，那非常非常危险，因为可能会滋生让你生病的细菌。"
     },
     {
       "id": 61,
       "start": 194.68,
       "end": 203.22,
       "en": "And the reason why we're a little bit concerned, especially with meats, is if you leave it out after cooking it at room temperature.",
-      "zh": "我们有点担心的原因，尤其是肉类，是你在室温下煮熟后把它排除在外。"
+      "zh": "我们之所以有点担心，尤其是肉类，是因为你煮熟后把它放在室温下。"
     },
     {
       "id": 62,
@@ -480,7 +480,7 @@
       "start": 224.68,
       "end": 231.68,
       "en": "You can't leave it out for very long if it's something like eggs or milk or what we call perishables.",
-      "zh": "如果它是鸡蛋或牛奶或我们所说的易腐烂的东西，你不能长时间离开它。"
+      "zh": "像鸡蛋、牛奶，或者我们所说的易腐食品，都不能在外面放太久。"
     },
     {
       "id": 69,
@@ -522,7 +522,7 @@
       "start": 248.25,
       "end": 253.47,
       "en": "So one thing you can do to food to make it safe to kill germs is to reheat it.",
-      "zh": "所以你可以对食物做的一件事是让它安全地杀死细菌。"
+      "zh": "所以让食物变安全、杀死细菌的一个办法，就是重新加热它。"
     },
     {
       "id": 75,
@@ -669,7 +669,7 @@
       "start": 317.1,
       "end": 325.44,
       "en": "Now obviously, it's a little bit different because the prefix to reheat means to do it again while to refrigerate means you're just making it cold.",
-      "zh": "现在很明显，它有点不同，因为重新加热的前缀意味着在冷藏时再做一次，这意味着你只是让它变冷了。"
+      "zh": "很明显，这两个词有点不同，因为 reheat 的前缀 re- 表示“再来一次”，而 refrigerate 只是表示让它变冷。"
     },
     {
       "id": 96,
@@ -697,7 +697,7 @@
       "start": 332.66,
       "end": 336.96,
       "en": "But there are another couple of phrases that are really important so let's take a listen to those in Fluency Builder.",
-      "zh": "但是还有另外几个短语非常重要，所以让我们听听 Fluency Builder 中的那些。"
+      "zh": "但是还有另外几个短语非常重要，所以让我们听听流利表达中的那些。"
     },
     {
       "id": 100,
@@ -774,7 +774,7 @@
       "start": 364.76,
       "end": 368.0,
       "en": "I used to say that every single day when I came home from school.",
-      "zh": "我曾经说过，当我放学回家时，我每天都在说。"
+      "zh": "我以前每天放学回家都会这么说。"
     },
     {
       "id": 111,
@@ -823,21 +823,21 @@
       "start": 381.36,
       "end": 394.0,
       "en": "Now when they started talking about the leftover turkey, he was a little bit concerned as we said about bacteria and germs because it usually happens that you get this on food that was left out.",
-      "zh": "现在，当他们开始谈论剩下的火鸡时，他有点担心我们所说的细菌和细菌，因为通常会发生在被遗漏的食物上。"
+      "zh": "现在，当他们开始谈论剩下的火鸡时，他有点担心我们说的细菌和病菌，因为这通常发生在放在外面的食物上。"
     },
     {
       "id": 118,
       "start": 394.63,
       "end": 398.69,
       "en": "All right, so the verb here is to leave out, to leave something out.",
-      "zh": "好吧，所以这里的动词是忽略，忽略一些东西。"
+      "zh": "好吧，所以这里的动词是 leave out，把某样东西放在外面。"
     },
     {
       "id": 119,
       "start": 399.35,
       "end": 402.99,
       "en": "It means to leave something or put something at room temperature.",
-      "zh": "这意味着留下一些东西或将某物放在室温下。"
+      "zh": "意思就是把某样东西放在室温下。"
     },
     {
       "id": 120,
@@ -858,14 +858,14 @@
       "start": 414.72,
       "end": 415.69,
       "en": "That means it was left out.",
-      "zh": "这意味着它被排除在外。"
+      "zh": "这意味着它被放在外面了。"
     },
     {
       "id": 123,
       "start": 416.12,
       "end": 417.21,
       "en": "How long was it left out?",
-      "zh": "它被遗漏了多长时间？"
+      "zh": "它放在外面多长时间了？"
     },
     {
       "id": 124,
@@ -914,7 +914,7 @@
       "start": 429.64,
       "end": 432.62,
       "en": "Oh no, we can't eat it if we left it out for like 12 hours.",
-      "zh": "哦，不，如果我们把它放了 12 小时，我们就不能吃它。"
+      "zh": "哦，不，如果把它放在外面 12 小时，我们就不能吃了。"
     },
     {
       "id": 131,
@@ -935,7 +935,7 @@
       "start": 437.44,
       "end": 444.72,
       "en": "And now what happens is if you do eat food that was left out for too long, you could get food poisoning.",
-      "zh": "现在发生的事情是，如果你吃的食物被遗漏了太久，你可能会出现食物中毒。"
+      "zh": "现在的情况是，如果你吃的食物放在外面太久，你可能会出现食物中毒。"
     },
     {
       "id": 134,
@@ -949,7 +949,7 @@
       "start": 450.84,
       "end": 454.33,
       "en": "Food poisoning is getting sick from your food.",
-      "zh": "食物中毒正在因您的食物而生病。"
+      "zh": "食物中毒就是因为吃了食物而生病。"
     },
     {
       "id": 136,
@@ -1026,7 +1026,7 @@
       "start": 488.6,
       "end": 497.76,
       "en": "So with all this stuff here, we can review everything one last time.",
-      "zh": "因此，在这里有所有这些东西，我们可以上次回顾所有内容。"
+      "zh": "所以，讲了这么多，我们最后再复习一遍。"
     },
     {
       "id": 147,
@@ -1089,7 +1089,7 @@
       "start": 517.72,
       "end": 522.94,
       "en": "Well I didn't leave the turkey at a room temperature for more than an hour and I refrigerated soon after we finished eating.",
-      "zh": "好吧，我没有在室温下离开火鸡一个多小时，我们吃完就冷藏了。"
+      "zh": "好吧，火鸡放在室温下没超过一小时，我们吃完就马上冷藏了。"
     },
     {
       "id": 156,
@@ -1264,7 +1264,7 @@
       "start": 607.64,
       "end": 617.32,
       "en": "And actually, you can get food poisoning not only from leftovers, but from maybe food that maybe was expired.",
-      "zh": "实际上，您不仅可以从剩菜中获得食物中毒，还可以从可能过期的食物中获得食物中毒。"
+      "zh": "实际上，食物中毒不只是吃剩菜会得，吃了可能过期的食物也会得。"
     },
     {
       "id": 181,
@@ -1313,14 +1313,14 @@
       "start": 633.24,
       "end": 639.48,
       "en": "So it's an interesting thing, especially with, like I said, so many holidays where you cook so much food that people have a lot of leftovers.",
-      "zh": "所以这是一件有趣的事情，尤其是，就像我说的那样，你做饭的时间太多了，人们有很多剩菜。"
+      "zh": "所以这挺有意思，尤其像我说的，有那么多节日，你会做很多菜，所以人们有很多剩菜。"
     },
     {
       "id": 188,
       "start": 639.48,
       "end": 646.72,
       "en": "And not only that, but even at restaurants, maybe you order too much, so you have leftovers you want to take home to your dog or to have later.",
-      "zh": "不仅如此，即使在餐馆，你也可能订购太多，所以你有剩菜要带回家给你的狗或以后吃。"
+      "zh": "不仅如此，就算在餐馆，你也可能点太多，于是有剩菜要带回家喂狗或以后再吃。"
     },
     {
       "id": 189,

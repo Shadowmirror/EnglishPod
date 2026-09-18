@@ -32,7 +32,7 @@
       "start": 9.43,
       "end": 10.93,
       "en": "And today we're going to be getting money.",
-      "zh": "今天我们要赚钱。"
+      "zh": "今天我们要去取钱。"
     },
     {
       "id": 5,
@@ -95,14 +95,14 @@
       "start": 35.56,
       "end": 35.89,
       "en": "Vocabulary Preview.",
-      "zh": "词汇预习。"
+      "zh": "词汇预览。"
     },
     {
       "id": 14,
       "start": 37.22,
       "end": 43.5,
       "en": "As we mentioned, the ATM or Automatic Teller Machine is a machine where you get your money, right?",
-      "zh": "正如我们所提到的，自动取款机或自动柜员机是您可以赚钱的机器，对吧？"
+      "zh": "正如我们所提到的，ATM 或自动柜员机就是您取钱的机器，对吧？"
     },
     {
       "id": 15,
@@ -536,7 +536,7 @@
       "start": 180.05,
       "end": 181.87,
       "en": "So it's not his day today.",
-      "zh": "所以今天不是他的日子。"
+      "zh": "所以他今天很不走运。"
     },
     {
       "id": 77,
@@ -592,7 +592,7 @@
       "start": 198.88,
       "end": 204.24,
       "en": "So why don't we take a look at that now in Language Takeaway.",
-      "zh": "那么，我们为什么不现在在语言外卖中看看呢。"
+      "zh": "那么，我们为什么不现在在语言要点中看看呢。"
     },
     {
       "id": 85,
@@ -900,14 +900,14 @@
       "start": 277.84,
       "end": 285.12,
       "en": "He had to input his six digit pin code and then after that, he had to press the pound key.",
-      "zh": "他必须输入他的六位数 PIN 码，然后他必须按下磅键。"
+      "zh": "他必须输入六位数 PIN 码，然后按下井号键。"
     },
     {
       "id": 129,
       "start": 285.12,
       "end": 285.39,
       "en": "Pound key.",
-      "zh": "磅钥匙。"
+      "zh": "井号键。"
     },
     {
       "id": 130,
@@ -921,7 +921,7 @@
       "start": 287.12,
       "end": 287.61,
       "en": "A pound key.",
-      "zh": "一磅钥匙。"
+      "zh": "井号键。"
     },
     {
       "id": 132,
@@ -977,7 +977,7 @@
       "start": 304.77,
       "end": 306.33,
       "en": "So that's called the pound key.",
-      "zh": "所以这被称为英镑钥匙。"
+      "zh": "所以这就是所谓的井号键。"
     },
     {
       "id": 140,
@@ -991,42 +991,42 @@
       "start": 307.81,
       "end": 308.73,
       "en": "What about the other one?",
-      "zh": "另一只呢？"
+      "zh": "那另一个呢？"
     },
     {
       "id": 142,
       "start": 309.15,
       "end": 309.87,
       "en": "It's called the star.",
-      "zh": "它被称为星星。"
+      "zh": "它叫星号。"
     },
     {
       "id": 143,
       "start": 310.19,
       "end": 310.65,
       "en": "The star.",
-      "zh": "星星。"
+      "zh": "星号。"
     },
     {
       "id": 144,
       "start": 311.49,
       "end": 312.01,
       "en": "Star key.",
-      "zh": "星钥匙。"
+      "zh": "星号键。"
     },
     {
       "id": 145,
       "start": 312.32,
       "end": 313.32,
       "en": "The star key.",
-      "zh": "星钥匙。"
+      "zh": "星号键。"
     },
     {
       "id": 146,
       "start": 313.32,
       "end": 315.44,
       "en": "So he's got the pin code after the pound key.",
-      "zh": "所以他在英镑钥匙后面得到了PIN码。"
+      "zh": "所以他在井号键之后输入了 PIN 码。"
     },
     {
       "id": 147,
@@ -1040,7 +1040,7 @@
       "start": 318.76,
       "end": 320.32,
       "en": "So we heard withdraw.",
-      "zh": "所以我们听到退出。"
+      "zh": "所以我们听到了 withdraw。"
     },
     {
       "id": 149,
@@ -1054,7 +1054,7 @@
       "start": 321.32,
       "end": 323.28,
       "en": "So withdraw is?",
-      "zh": "所以撤回是？"
+      "zh": "那么 withdraw 是什么？"
     },
     {
       "id": 151,
@@ -1103,14 +1103,14 @@
       "start": 330.52,
       "end": 331.84,
       "en": "And to withdraw.",
-      "zh": "并退出。"
+      "zh": "还有 to withdraw。"
     },
     {
       "id": 158,
       "start": 331.84,
       "end": 333.74,
       "en": "To withdraw is just the verb.",
-      "zh": "撤退只是动词。"
+      "zh": "to withdraw 就是动词。"
     },
     {
       "id": 159,
@@ -1152,7 +1152,7 @@
       "start": 339.76,
       "end": 341.96,
       "en": "So withdraw noun and withdraw verb.",
-      "zh": "所以撤回名词和撤回动词。"
+      "zh": "所以 withdraw 既是名词也是动词。"
     },
     {
       "id": 165,
@@ -1173,7 +1173,7 @@
       "start": 353.0,
       "end": 353.56,
       "en": "So transfer.",
-      "zh": "所以转移。"
+      "zh": "所以是 transfer（转账）。"
     },
     {
       "id": 168,
@@ -1271,21 +1271,21 @@
       "start": 377.68,
       "end": 378.68,
       "en": "A transfer.",
-      "zh": "转移。"
+      "zh": "名词 transfer。"
     },
     {
       "id": 182,
       "start": 378.68,
       "end": 379.68,
       "en": "And to transfer.",
-      "zh": "并转移。"
+      "zh": "动词 to transfer。"
     },
     {
       "id": 183,
       "start": 379.68,
       "end": 379.84,
       "en": "Same word.",
-      "zh": "同一个字。"
+      "zh": "是同一个词。"
     },
     {
       "id": 184,
@@ -1607,7 +1607,7 @@
       "start": 482.47,
       "end": 484.91,
       "en": "So why don't we take a look at these phrases in Fluency Builder.",
-      "zh": "那么我们为什么不看看 Flueny Builder 中的这些短语。"
+      "zh": "那么我们来看看流利表达环节里的这些短语吧。"
     },
     {
       "id": 230,
@@ -1719,7 +1719,7 @@
       "start": 517.16,
       "end": 518.72,
       "en": "So to insert something, to put inside.",
-      "zh": "所以插入一些东西，把里面放进去。"
+      "zh": "所以 to insert 就是把某物放进里面。"
     },
     {
       "id": 246,
@@ -1775,7 +1775,7 @@
       "start": 542.92,
       "end": 547.45,
       "en": "So it's an order that says, well, select one of these choices that you have.",
-      "zh": "所以这是一个订单，说，好吧，选择你拥有的这些选择之一。"
+      "zh": "所以这是一条指令，意思是，从这些选项中选一个。"
     },
     {
       "id": 254,
@@ -1992,7 +1992,7 @@
       "start": 614.44,
       "end": 620.24,
       "en": "You want to transfer $10,000 to the World Wildlife Foundation.",
-      "zh": "您想将 10,000 美元转移到世界野生动物基金会。"
+      "zh": "您想向世界野生动物基金会转账 10,000 美元。"
     },
     {
       "id": 285,
@@ -2139,7 +2139,7 @@
       "start": 657.77,
       "end": 659.77,
       "en": "I've had more problems than I can count.",
-      "zh": "我遇到的问题超出了我的数。"
+      "zh": "我遇到的问题多得数不清。"
     },
     {
       "id": 306,
@@ -2181,7 +2181,7 @@
       "start": 669.88,
       "end": 674.4,
       "en": "I leave it in the slot and then walk away from the bank machine and no bank cards.",
-      "zh": "我把它留在插槽里，然后离开银行机器，没有银行卡。"
+      "zh": "我把它留在卡槽里，然后从取款机走开，银行卡就没了。"
     },
     {
       "id": 312,
@@ -2244,7 +2244,7 @@
       "start": 701.44,
       "end": 703.0,
       "en": "In Switzerland, they have them like that.",
-      "zh": "在瑞士，他们有这样的人。"
+      "zh": "在瑞士，他们的取款机就是那样的。"
     },
     {
       "id": 321,
@@ -2314,7 +2314,7 @@
       "start": 717.88,
       "end": 722.48,
       "en": "I'm sure everyone has some experience or some inconvenience with ATM machines.",
-      "zh": "我相信每个人都有一些经验或对 ATM 机器的不便。"
+      "zh": "我相信每个人用 ATM 机时都有过一些经历或遇到过不便。"
     },
     {
       "id": 331,

@@ -39,7 +39,7 @@
       "start": 8.98,
       "end": 14.2,
       "en": "Today we have a very sad but interesting dialogue of something that happens all the time.",
-      "zh": "今天，我们对一直在发生的事情进行了非常悲伤但有趣的对话。"
+      "zh": "今天我们要听一段非常悲伤但有趣的对话，讲的是经常会发生的事。"
     },
     {
       "id": 6,
@@ -53,7 +53,7 @@
       "start": 19.12,
       "end": 22.34,
       "en": "That means you are no longer boyfriend and girlfriend.",
-      "zh": "这意味着你不再是男朋友和女朋友。"
+      "zh": "这意味着你们不再是男女朋友了。"
     },
     {
       "id": 8,
@@ -249,7 +249,7 @@
       "start": 107.72,
       "end": 110.54,
       "en": "So obviously this girl, Lydia, is very torn.",
-      "zh": "很明显，这个女孩，莉迪亚，很伤心。"
+      "zh": "很明显，这个女孩莉迪亚内心非常纠结、痛苦。"
     },
     {
       "id": 36,
@@ -270,7 +270,7 @@
       "start": 115.08,
       "end": 117.8,
       "en": "She's crying the whole time this dialogue was going on.",
-      "zh": "她一直在哭，这个对话一直在进行。"
+      "zh": "这段对话进行的过程中，她一直都在哭。"
     },
     {
       "id": 39,
@@ -291,7 +291,7 @@
       "start": 122.88,
       "end": 125.76,
       "en": "Why don't we take a look at some of the words they used on Language Takeaway.",
-      "zh": "我们为什么不看看他们在语言外卖上使用的一些单词。"
+      "zh": "我们为什么不看看他们在“语言要点”环节里用到的一些单词呢。"
     },
     {
       "id": 42,
@@ -319,7 +319,7 @@
       "start": 136.87,
       "end": 138.83,
       "en": "She says, no, I think I'll pass.",
-      "zh": "她说，不，我想我会过去的。"
+      "zh": "她说，不，我还是不去了。"
     },
     {
       "id": 46,
@@ -333,21 +333,21 @@
       "start": 140.08,
       "end": 141.64,
       "en": "So she says, I think I'll pass.",
-      "zh": "所以她说，我想我会过去的。"
+      "zh": "所以她说，我还是不去了。"
     },
     {
       "id": 48,
       "start": 141.65,
       "end": 142.43,
       "en": "I will pass.",
-      "zh": "我会过去的。"
+      "zh": "我就不去了。"
     },
     {
       "id": 49,
       "start": 142.83,
       "end": 144.69,
       "en": "So what does this verb mean, to pass?",
-      "zh": "那么这个动词是什么意思，通过呢？"
+      "zh": "那么这个动词 pass 是什么意思呢？"
     },
     {
       "id": 50,
@@ -361,7 +361,7 @@
       "start": 149.79,
       "end": 150.81,
       "en": "So no thanks.",
-      "zh": "所以不谢谢。"
+      "zh": "所以就是“不用了，谢谢”。"
     },
     {
       "id": 52,
@@ -389,14 +389,14 @@
       "start": 153.96,
       "end": 156.76,
       "en": "So, hey, Marco, you want to go see a movie in a couple hours?",
-      "zh": "所以，嘿，马可，你想在几个小时内去看电影吗？"
+      "zh": "所以，嘿，马可，你想过几个小时去看场电影吗？"
     },
     {
       "id": 56,
       "start": 156.83,
       "end": 157.83,
       "en": "No, I think I'll pass.",
-      "zh": "不，我想我会通过的。"
+      "zh": "不了，我还是不去了。"
     },
     {
       "id": 57,
@@ -438,7 +438,7 @@
       "start": 165.4,
       "end": 166.45,
       "en": "So that's what it means to pass.",
-      "zh": "所以这就是通过的意思。"
+      "zh": "所以 pass 就是这个意思。"
     },
     {
       "id": 63,
@@ -480,7 +480,7 @@
       "start": 190.98,
       "end": 196.22,
       "en": "So like, for example, what's a cliche phrase or a cliche action?",
-      "zh": "比如说，什么是陈词滥调或陈词滥调的动作？"
+      "zh": "比如说，什么样的说法或举动算老套？"
     },
     {
       "id": 69,
@@ -494,7 +494,7 @@
       "start": 200.36,
       "end": 204.4,
       "en": "So for example, it's not you, it's me.",
-      "zh": "所以举个例子，不是你，是我。"
+      "zh": "所以举个例子，比如“不是你的问题，是我的问题”。"
     },
     {
       "id": 71,
@@ -508,14 +508,14 @@
       "start": 206.48,
       "end": 209.78,
       "en": "So that's a cliche because it's a sentence, it's a phrase everyone always says.",
-      "zh": "所以这是陈词滥调，因为它是一个句子，它是每个人总是说的短语。"
+      "zh": "所以这是陈词滥调，因为它是一句人人都会说的话。"
     },
     {
       "id": 73,
       "start": 210.16,
       "end": 212.22,
       "en": "It's not very, maybe not very honest.",
-      "zh": "这不是很，也许不是很诚实。"
+      "zh": "这不太……也许不太真诚。"
     },
     {
       "id": 74,
@@ -648,7 +648,7 @@
       "start": 255.13,
       "end": 262.33,
       "en": "So to deserve is a verb and it means that you should receive something or you should expect something.",
-      "zh": "所以应得的是一个动词，这意味着你应该收到一些东西，或者你应该期待一些东西。"
+      "zh": "所以 deserve 是个动词，意思是你应该得到某样东西，或者你理应得到某样东西。"
     },
     {
       "id": 93,
@@ -662,7 +662,7 @@
       "start": 266.97,
       "end": 269.29,
       "en": "You have earned something better.",
-      "zh": "你赚了更好的东西。"
+      "zh": "你值得更好的东西。"
     },
     {
       "id": 95,
@@ -676,7 +676,7 @@
       "start": 270.43,
       "end": 274.43,
       "en": "You should receive a, you know, you should have a good boyfriend.",
-      "zh": "你应该收到一个，你知道，你应该有一个好男朋友。"
+      "zh": "你应该得到，你知道，你应该有个好男朋友。"
     },
     {
       "id": 97,
@@ -697,7 +697,7 @@
       "start": 281.6,
       "end": 284.41,
       "en": "Or for example, so Marco, you work so hard at school.",
-      "zh": "或者，例如，马可，你在学校工作很努力。"
+      "zh": "或者，比如说，马可，你在学校学习很用功。"
     },
     {
       "id": 100,
@@ -739,14 +739,14 @@
       "start": 294.84,
       "end": 300.05,
       "en": "I just thought we were having some problems and we had hit a rough patch.",
-      "zh": "我只是以为我们遇到了一些问题，我们遇到了一个艰难的问题。"
+      "zh": "我只是以为我们遇到了一些问题，正处于一段艰难时期。"
     },
     {
       "id": 106,
       "start": 300.58,
       "end": 302.34,
       "en": "So she's talking about a rough patch.",
-      "zh": "所以她说的是一个粗糙的补丁。"
+      "zh": "所以她说的是 rough patch（艰难时期）。"
     },
     {
       "id": 107,
@@ -760,14 +760,14 @@
       "start": 303.66,
       "end": 306.66,
       "en": "A rough patch is actually something we talk about a lot in spoken English.",
-      "zh": "粗略的补丁实际上是我们用英语口语经常谈论的内容。"
+      "zh": "rough patch 其实是英语口语里很常用的说法。"
     },
     {
       "id": 109,
       "start": 307.76,
       "end": 320.75,
       "en": "It's a way to describe a period of time, so maybe a week or a month when things are difficult, you know, when maybe you argue with your boyfriend or girlfriend or when you're sad a lot or when you're confused.",
-      "zh": "这是一种描述一段时间的方式，所以可能是一周或一个月的事情，你知道，当你可能与你的男朋友或女朋友争论时，或者当你很伤心或你感到困惑的时候。"
+      "zh": "这是一种描述某段时期的方式，比如一周或一个月，那段时间诸事不顺，比如你和男/女朋友争吵，或者经常难过，或者感到困惑。"
     },
     {
       "id": 110,
@@ -781,14 +781,14 @@
       "start": 327.76,
       "end": 331.59,
       "en": "So maybe we can apply a rough patch to another situation like at work.",
-      "zh": "因此，也许我们可以将粗略的补丁应用于另一种情况，例如在工作中。"
+      "zh": "因此，也许我们可以把 rough patch 用在另一种情况，比如工作上。"
     },
     {
       "id": 112,
       "start": 332.04,
       "end": 333.49,
       "en": "Maybe you're going through a rough patch at work.",
-      "zh": "也许你正在经历一个艰难的工作。"
+      "zh": "也许你在工作上正经历一段艰难时期。"
     },
     {
       "id": 113,
@@ -816,14 +816,14 @@
       "start": 337.97,
       "end": 339.97,
       "en": "I'm going through a rough patch.",
-      "zh": "我正在经历一个艰难的补丁。"
+      "zh": "我正在经历一段艰难时期。"
     },
     {
       "id": 117,
       "start": 340.24,
       "end": 344.4,
       "en": "So it's usually a temporary period of time where things are going bad.",
-      "zh": "所以这通常是一个暂时的事情，事情变得糟糕。"
+      "zh": "所以这通常是一段暂时的时期，事情不太顺利。"
     },
     {
       "id": 118,
@@ -879,7 +879,7 @@
       "start": 353.73,
       "end": 366.01,
       "en": "And Lydia went on to say that, you know, she thought that maybe he was going out with someone else and she was suspicious because he was spending a lot of time with some other girl.",
-      "zh": "莉迪亚接着说，你知道，她认为也许他和别人出去了，她很怀疑，因为他花了很多时间和其他女孩在一起。"
+      "zh": "莉迪亚接着说，你知道，她认为也许他和别人在交往，她很怀疑，因为他花了很多时间和其他女孩在一起。"
     },
     {
       "id": 126,
@@ -900,7 +900,7 @@
       "start": 378.24,
       "end": 383.2,
       "en": "You are always drinking coffee and you always take milk in your coffee and there's no more milk.",
-      "zh": "你总是喝咖啡，你总是在咖啡里喝牛奶，没有牛奶。"
+      "zh": "你总是喝咖啡，总往咖啡里加牛奶，现在牛奶没了。"
     },
     {
       "id": 129,
@@ -949,7 +949,7 @@
       "start": 401.2,
       "end": 402.32,
       "en": "So you're very suspicious.",
-      "zh": "所以你很可疑。"
+      "zh": "所以你很多疑。"
     },
     {
       "id": 136,
@@ -984,7 +984,7 @@
       "start": 414.01,
       "end": 416.99,
       "en": "Let's listen to the dialogue again and we'll be back in a bit with Fluency Builder.",
-      "zh": "让我们再次聆听对话，我们将在 Fluency Builder 中回来。"
+      "zh": "让我们再听一遍对话，稍后我们会回来进入流利表达环节。"
     },
     {
       "id": 141,
@@ -1005,7 +1005,7 @@
       "start": 429.04,
       "end": 430.84,
       "en": "No, I think I'll pass.",
-      "zh": "不，我想我会通过的。"
+      "zh": "不了，我还是不去了。"
     },
     {
       "id": 144,
@@ -1138,7 +1138,7 @@
       "start": 483.72,
       "end": 485.5,
       "en": "Talk about being cliche, Maggie.",
-      "zh": "谈论陈词滥调，玛吉。"
+      "zh": "还说别人老套呢，玛吉。"
     },
     {
       "id": 163,
@@ -1173,7 +1173,7 @@
       "start": 497.09,
       "end": 500.19,
       "en": "Now let's take a look at some of those phrases on Fluency Builder.",
-      "zh": "现在让我们看一下 Flueny Builder 上的一些短语。"
+      "zh": "现在让我们看一下流利表达上的一些短语。"
     },
     {
       "id": 168,
@@ -1215,7 +1215,7 @@
       "start": 524.36,
       "end": 537.93,
       "en": "That's a cliche phrase, as we said, but it means that maybe her ex-boyfriend or Mark needs more space, needs more time to be on his own or needs more time to do his own things.",
-      "zh": "正如我们所说，这是一个陈词滥调，但这意味着她的前男友或马克需要更多的空间，需要更多的时间来独自一人，或者需要更多的时间来做自己的事情。"
+      "zh": "正如我们所说，这是一句老套的话，但它的意思是她的前男友马克需要更多空间，需要更多独处的时间，或者需要更多时间做自己的事情。"
     },
     {
       "id": 174,
@@ -1250,7 +1250,7 @@
       "start": 549.96,
       "end": 551.22,
       "en": "Sometimes this is just a small period.",
-      "zh": "有时这只是一个小时期。"
+      "zh": "有时这只是很短的一段时间。"
     },
     {
       "id": 179,
@@ -1299,14 +1299,14 @@
       "start": 569.59,
       "end": 572.23,
       "en": "Okay, so the emphasis here is the one.",
-      "zh": "好的，所以这里的重点是其中之一。"
+      "zh": "好的，所以这里强调的是 the one 这个说法。"
     },
     {
       "id": 186,
       "start": 572.72,
       "end": 572.99,
       "en": "The one.",
-      "zh": "一。"
+      "zh": "唯一的那个人。"
     },
     {
       "id": 187,
@@ -1320,7 +1320,7 @@
       "start": 575.28,
       "end": 577.49,
       "en": "In English, we often talk about the one.",
-      "zh": "在英语中，我们经常谈论其中之一。"
+      "zh": "在英语中，我们经常说到 the one。"
     },
     {
       "id": 189,
@@ -1369,7 +1369,7 @@
       "start": 594.16,
       "end": 595.47,
       "en": "You're not the person that I will marry.",
-      "zh": "你不是我要嫁的人。"
+      "zh": "你不是我要娶的人。"
     },
     {
       "id": 196,
@@ -1383,14 +1383,14 @@
       "start": 599.16,
       "end": 605.01,
       "en": "If you're single, maybe you don't have a boyfriend or you're not married, you might say that you haven't found the one.",
-      "zh": "如果你是单身，也许你没有男朋友或者你没有结婚，你可能会说你没有找到那个。"
+      "zh": "如果你是单身，也许你没有男朋友或者没有结婚，你可能会说你还没有找到那个人。"
     },
     {
       "id": 198,
       "start": 605.6,
       "end": 609.25,
       "en": "Or yeah, you have a lot of different boyfriends, but you still haven't found the one.",
-      "zh": "或者是的，你有很多不同的男朋友，但你还没有找到那个。"
+      "zh": "或者是的，你有很多不同的男朋友，但你还没有找到那个人。"
     },
     {
       "id": 199,
@@ -1516,7 +1516,7 @@
       "start": 645.46,
       "end": 652.08,
       "en": "So it's the similarity of how in the sea you have so many fish, in the world you have so many men, so don't worry about it.",
-      "zh": "所以你在海里有这么多鱼的相似之处，在世界上你有这么多男人，所以不要担心。"
+      "zh": "这是个类比：海里有那么多鱼，世界上有那么多男人，所以别担心。"
     },
     {
       "id": 217,
@@ -1530,14 +1530,14 @@
       "start": 653.72,
       "end": 664.07,
       "en": "So for example, if I'm talking to my male friend or my brother and my brother just broke up with his girlfriend, I can say, hey, listen, there are many more fish in the sea, many other women.",
-      "zh": "例如，如果我和我的男性朋友或我的兄弟和他的女朋友分手，我可以说，嘿，听着，海里还有更多的鱼，还有很多其他的女人。"
+      "zh": "例如，如果我和我的男性朋友或兄弟聊天，而他刚和女朋友分手，我可以说，嘿，听着，海里还有很多鱼，还有很多其他女人。"
     },
     {
       "id": 219,
       "start": 664.59,
       "end": 665.51,
       "en": "So don't worry about it.",
-      "zh": "所以不要担心它。"
+      "zh": "所以别担心。"
     },
     {
       "id": 220,
@@ -1572,14 +1572,14 @@
       "start": 670.01,
       "end": 672.61,
       "en": "And there's really no use for me to sulk around.",
-      "zh": "我真的没有用闷闷不乐的地方。"
+      "zh": "我这样闷闷不乐真的没有用。"
     },
     {
       "id": 225,
       "start": 673.03,
       "end": 674.45,
       "en": "So what does she mean to sulk around?",
-      "zh": "那么她在周围闷闷不乐是什么意思呢？"
+      "zh": "那么她说 sulk around 是什么意思呢？"
     },
     {
       "id": 226,
@@ -1607,7 +1607,7 @@
       "start": 679.37,
       "end": 680.79,
       "en": "Their head is low.",
-      "zh": "他们的头很低。"
+      "zh": "他们低着头。"
     },
     {
       "id": 230,
@@ -1635,14 +1635,14 @@
       "start": 689.68,
       "end": 695.55,
       "en": "To sulk around means to be in your house, to be sad, to watch TV and eat ice cream.",
-      "zh": "闷闷不乐意味着在你的房子里，悲伤，看电视和吃冰淇淋。"
+      "zh": "sulk around 意思就是待在家里、闷闷不乐、看电视、吃冰淇淋。"
     },
     {
       "id": 234,
       "start": 695.92,
       "end": 697.28,
       "en": "So stop sulking.",
-      "zh": "所以别再生气了。"
+      "zh": "所以别再闷闷不乐了。"
     },
     {
       "id": 235,
@@ -1698,7 +1698,7 @@
       "start": 718.67,
       "end": 721.37,
       "en": "And your parents will say, hey, stop sulking.",
-      "zh": "你的父母会说，嘿，别再生气了。"
+      "zh": "你的父母会说，嘿，别再闷闷不乐了。"
     },
     {
       "id": 243,
@@ -1768,7 +1768,7 @@
       "start": 740.47,
       "end": 742.65,
       "en": "No, I think I'll pass.",
-      "zh": "不，我想我会通过的。"
+      "zh": "不了，我还是不去了。"
     },
     {
       "id": 253,
@@ -1901,7 +1901,7 @@
       "start": 795.48,
       "end": 797.24,
       "en": "Talk about being cliche, Maggie.",
-      "zh": "谈论陈词滥调，玛吉。"
+      "zh": "还说别人老套呢，玛吉。"
     },
     {
       "id": 272,
@@ -1943,7 +1943,7 @@
       "start": 814.8,
       "end": 821.02,
       "en": "What other cliche lines or breakup phrases have you heard apart from, it's not you, it's me, you're just not the one.",
-      "zh": "除了你之外，还有哪些陈词滥调或分手短语，不是你，是我，你只是不是那个。"
+      "zh": "除了“不是你的问题，是我的问题”“你只是不是对的人”之外，你还听过哪些老套的分手用语？"
     },
     {
       "id": 278,
@@ -1978,7 +1978,7 @@
       "start": 835.12,
       "end": 836.18,
       "en": "I think that's a typical one.",
-      "zh": "我认为这是一个典型的。"
+      "zh": "我觉得这是很典型的一句。"
     },
     {
       "id": 283,
@@ -1992,7 +1992,7 @@
       "start": 843.88,
       "end": 845.5,
       "en": "So there's another one that's very popular.",
-      "zh": "所以还有一种非常受欢迎。"
+      "zh": "所以还有一种说法也非常流行。"
     },
     {
       "id": 285,
@@ -2013,7 +2013,7 @@
       "start": 852.88,
       "end": 853.9,
       "en": "Or I'm not ready to commit.",
-      "zh": "或者我还没有准备好提交。"
+      "zh": "或者“我还没准备好做出承诺”。"
     },
     {
       "id": 288,
@@ -2055,7 +2055,7 @@
       "start": 876.84,
       "end": 882.2,
       "en": "And so they say these things that are very general, like it's not you, it's me.",
-      "zh": "所以他们说这些非常笼统的事情，就像不是你，是我。"
+      "zh": "所以他们说这些非常笼统的话，就像“不是你的问题，是我的问题”。"
     },
     {
       "id": 294,
@@ -2069,7 +2069,7 @@
       "start": 888.68,
       "end": 893.36,
       "en": "What about breaking up over the telephone or breaking up with a letter?",
-      "zh": "打电话分手或用信分手怎么办？"
+      "zh": "那通过电话分手或者写信分手呢？"
     },
     {
       "id": 296,
@@ -2083,14 +2083,14 @@
       "start": 903.28,
       "end": 903.88,
       "en": "It's very cold.",
-      "zh": "它非常冷。"
+      "zh": "这很冷酷。"
     },
     {
       "id": 298,
       "start": 904.24,
       "end": 904.74,
       "en": "It's very cold.",
-      "zh": "它非常冷。"
+      "zh": "这很冷酷。"
     },
     {
       "id": 299,
@@ -2111,7 +2111,7 @@
       "start": 908.94,
       "end": 911.8,
       "en": "You just want to see the person and say, listen, let's have a conversation.",
-      "zh": "你只是想见那个人，说，听，让我们谈谈。"
+      "zh": "你只是想见到对方，说：听我说，我们谈谈吧。"
     },
     {
       "id": 302,

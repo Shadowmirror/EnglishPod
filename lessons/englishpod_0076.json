@@ -53,7 +53,7 @@
       "start": 15.56,
       "end": 16.46,
       "en": "That would be math.",
-      "zh": "那将是数学。"
+      "zh": "那就是数学。"
     },
     {
       "id": 8,
@@ -88,7 +88,7 @@
       "start": 24.8,
       "end": 26.47,
       "en": "But do you know the operations in English?",
-      "zh": "但是你知道英语的操作吗？"
+      "zh": "但你知道英语里这些运算怎么说吗？"
     },
     {
       "id": 13,
@@ -319,7 +319,7 @@
       "start": 116.08,
       "end": 128.36,
       "en": "All right, so let's take a look at some of those words that the teacher used to ask her about certain operations in Language Takeaway.",
-      "zh": "好吧，让我们来看看老师用来向她询问的一些语言外卖操作的单词。"
+      "zh": "好吧，我们来看看老师在语言要点里用来问她某些运算的那些词。"
     },
     {
       "id": 46,
@@ -389,7 +389,7 @@
       "start": 156.0,
       "end": 157.92,
       "en": "So four plus 11, Erica, is?",
-      "zh": "那么四加11，埃里卡是吗？"
+      "zh": "那么四加 11 等于多少，埃里卡？"
     },
     {
       "id": 56,
@@ -417,7 +417,7 @@
       "start": 162.36,
       "end": 164.35,
       "en": "Okay, so we are adding, right?",
-      "zh": "好吧，我们正在添加，对吧？"
+      "zh": "所以我们是做加法，对吧？"
     },
     {
       "id": 60,
@@ -438,7 +438,7 @@
       "start": 166.48,
       "end": 166.77,
       "en": "Let's go with an easy one.",
-      "zh": "让我们来一件简单的事情。"
+      "zh": "我们来个简单的吧。"
     },
     {
       "id": 63,
@@ -501,14 +501,14 @@
       "start": 179.54,
       "end": 182.84,
       "en": "Now what about taking away numbers?",
-      "zh": "现在拿走数字怎么样？"
+      "zh": "那减法呢？"
     },
     {
       "id": 72,
       "start": 183.12,
       "end": 185.44,
       "en": "Okay, so taking away or subtracting.",
-      "zh": "好吧，所以拿走或减去。"
+      "zh": "好的，也就是 taking away，或者叫 subtracting。"
     },
     {
       "id": 73,
@@ -543,7 +543,7 @@
       "start": 199.24,
       "end": 200.63,
       "en": "So that's negative, right?",
-      "zh": "所以这是消极的，对吧？"
+      "zh": "所以那是负数，对吧？"
     },
     {
       "id": 78,
@@ -557,7 +557,7 @@
       "start": 202.64,
       "end": 208.17,
       "en": "So, and of course, if you have 56 apples and you take away 60, you are left with?",
-      "zh": "所以，当然，如果你有 56 个苹果，你拿走了 60 个，你就剩下了吗？"
+      "zh": "所以，当然，如果你有 56 个苹果，拿走 60 个，你还剩多少？"
     },
     {
       "id": 80,
@@ -641,7 +641,7 @@
       "start": 223.96,
       "end": 226.31,
       "en": "Okay, so now for our next operation.",
-      "zh": "好的，现在我们的下一次手术。"
+      "zh": "好，现在来看下一个运算。"
     },
     {
       "id": 92,
@@ -683,7 +683,7 @@
       "start": 239.36,
       "end": 240.36,
       "en": "Now that's multiplying.",
-      "zh": "现在这是倍增。"
+      "zh": "这就是相乘。"
     },
     {
       "id": 98,
@@ -711,7 +711,7 @@
       "start": 243.36,
       "end": 251.24,
       "en": "Okay, so this times part, it's very easy to remember because, for example, four times four.",
-      "zh": "好的，所以这个时间部分，很容易记住，因为，例如，四乘四。"
+      "zh": "好，这个 times 的部分很好记，因为比如说四乘四。"
     },
     {
       "id": 102,
@@ -725,14 +725,14 @@
       "start": 255.0,
       "end": 255.36,
       "en": "Four times.",
-      "zh": "四次。"
+      "zh": "四乘。"
     },
     {
       "id": 104,
       "start": 256.0,
       "end": 257.0,
       "en": "Four times.",
-      "zh": "四次。"
+      "zh": "四乘。"
     },
     {
       "id": 105,
@@ -746,14 +746,14 @@
       "start": 258.56,
       "end": 259.76,
       "en": "Right, so times.",
-      "zh": "是的，所以时间。"
+      "zh": "对，所以是 times。"
     },
     {
       "id": 107,
       "start": 260.24,
       "end": 261.24,
       "en": "Times.",
-      "zh": "次。"
+      "zh": "乘。"
     },
     {
       "id": 108,
@@ -767,7 +767,7 @@
       "start": 262.24,
       "end": 263.0,
       "en": "Now, the opposite of times.",
-      "zh": "现在，与时代相反。"
+      "zh": "那 times 的反义是什么呢？"
     },
     {
       "id": 110,
@@ -781,7 +781,7 @@
       "start": 267.31,
       "end": 267.81,
       "en": "Division.",
-      "zh": "师。"
+      "zh": "除法。"
     },
     {
       "id": 112,
@@ -830,7 +830,7 @@
       "start": 284.73,
       "end": 287.99,
       "en": "All right, so fifteen divided by three equals?",
-      "zh": "好吧，那么十五除以三等分？"
+      "zh": "好，那十五除以三等于多少？"
     },
     {
       "id": 119,
@@ -851,7 +851,7 @@
       "start": 290.72,
       "end": 292.48,
       "en": "So divided by.",
-      "zh": "于是分开。"
+      "zh": "所以是 divided by。"
     },
     {
       "id": 122,
@@ -872,7 +872,7 @@
       "start": 294.72,
       "end": 302.15,
       "en": "So after division, the teacher was very impressed, and now she asked a very hard mathematical operation, especially for a girl this age.",
-      "zh": "于是分师之后，老师很感动，现在她问了一个很辛苦的数学运算，特别是对于一个这个年龄段的女孩。"
+      "zh": "除法之后，老师印象很深，接着她问了一个非常难的运算，对这个年纪的女孩来说尤其如此。"
     },
     {
       "id": 125,
@@ -1103,14 +1103,14 @@
       "start": 382.0,
       "end": 384.0,
       "en": "Very good, suck up.",
-      "zh": "非常好，吸起来。"
+      "zh": "很好，马屁精。"
     },
     {
       "id": 158,
       "start": 384.0,
       "end": 386.16,
       "en": "One forty-four.",
-      "zh": "一四十四。"
+      "zh": "一百四十四。"
     },
     {
       "id": 159,
@@ -1138,21 +1138,21 @@
       "start": 390.84,
       "end": 393.4,
       "en": "Okay smarty pants, the square root of two.",
-      "zh": "好的聪明的裤子，两个的平方根。"
+      "zh": "好啊，机灵鬼，二的平方根。"
     },
     {
       "id": 163,
       "start": 394.58,
       "end": 396.8,
       "en": "Bet you're not going to get that one, do it all.",
-      "zh": "打赌你不会得到那一，做这一切。"
+      "zh": "我打赌你这回答不出来，万事通。"
     },
     {
       "id": 164,
       "start": 398.08,
       "end": 405.68,
       "en": "Um, um, one point four, one four, two one three five.",
-      "zh": "嗯，嗯，一分四，一四，二一三五。"
+      "zh": "嗯，嗯，一点四，一四，二一三五。"
     },
     {
       "id": 165,
@@ -1187,14 +1187,14 @@
       "start": 418.08,
       "end": 421.4,
       "en": "So he called her a couple of different names.",
-      "zh": "于是他给她起了几个不同的名字。"
+      "zh": "于是他给她起了好几个外号。"
     },
     {
       "id": 170,
       "start": 422.36,
       "end": 425.88,
       "en": "Well let's look at those now in Fluency Builder.",
-      "zh": "好吧，让我们看看现在在 Fluency Builder 中的那些。"
+      "zh": "好吧，让我们看看现在在流利表达中的那些。"
     },
     {
       "id": 171,
@@ -1208,7 +1208,7 @@
       "start": 426.97,
       "end": 432.61,
       "en": "Okay, so the first one that he called Crystal, the little girl, he called her a teacher's pet.",
-      "zh": "好吧，第一个他称之为水晶的小女孩，他称她为老师的宠物。"
+      "zh": "好，第一个是那个小女孩克丽丝特尔，他叫她老师的宠儿。"
     },
     {
       "id": 173,
@@ -1236,7 +1236,7 @@
       "start": 436.48,
       "end": 438.53,
       "en": "So Erica, what exactly is a teacher's pet?",
-      "zh": "那么埃里卡，老师的宠物到底是什么？"
+      "zh": "那么埃里卡，老师宠儿到底是什么？"
     },
     {
       "id": 177,
@@ -1271,7 +1271,7 @@
       "start": 448.16,
       "end": 448.71,
       "en": "The teacher's pet.",
-      "zh": "老师的宠物。"
+      "zh": "老师的宠儿。"
     },
     {
       "id": 182,
@@ -1285,7 +1285,7 @@
       "start": 452.3,
       "end": 455.06,
       "en": "Yeah, I wouldn't say that it's a good thing to be the teacher's pet.",
-      "zh": "是的，我不会说成为老师的宠物是件好事。"
+      "zh": "是的，我不会说当老师的宠儿是件好事。"
     },
     {
       "id": 184,
@@ -1327,7 +1327,7 @@
       "start": 462.84,
       "end": 466.3,
       "en": "And similar to teacher's pet is a suck up.",
-      "zh": "和老师的宠物一样，是吸吮。"
+      "zh": "和老师的宠儿类似的是 suck up（马屁精）。"
     },
     {
       "id": 190,
@@ -1348,21 +1348,21 @@
       "start": 469.24,
       "end": 469.56,
       "en": "Again, suck up.",
-      "zh": "再次，吸吮。"
+      "zh": "再说一遍，suck up。"
     },
     {
       "id": 193,
       "start": 470.38,
       "end": 471.28,
       "en": "What is a suck up?",
-      "zh": "什么是吸盘？"
+      "zh": "什么是 suck up？"
     },
     {
       "id": 194,
       "start": 471.62,
       "end": 477.3,
       "en": "A suck up is a person who tries really, really hard to make the teacher like him.",
-      "zh": "吸吮是一个非常非常努力地让老师喜欢他的人。"
+      "zh": "suck up 就是那种拼命想让老师喜欢自己的人。"
     },
     {
       "id": 195,
@@ -1383,7 +1383,7 @@
       "start": 482.8,
       "end": 487.03,
       "en": "Okay, there is always at work, there is always one person who's the suck up, right?",
-      "zh": "好吧，总有一个人在工作，总有一个人很糟糕，对吧？"
+      "zh": "好吧，职场上总有那么一个人爱拍马屁，对吧？"
     },
     {
       "id": 198,
@@ -1404,7 +1404,7 @@
       "start": 491.47,
       "end": 498.57,
       "en": "Yeah, I guess in the workplace, the rest of your colleagues don't really like that person who's considered to be the suck up, who's always trying to please the boss.",
-      "zh": "是的，我猜在工作场所，你的其他同事并不喜欢那个被认为是吸吮的人，他总是试图取悦老板。"
+      "zh": "是的，我猜在职场上，其他同事并不喜欢那个被视为马屁精的人，他总是想讨好老板。"
     },
     {
       "id": 201,
@@ -1425,21 +1425,21 @@
       "start": 501.28,
       "end": 505.24,
       "en": "All right, so the teacher calls Crystal a smarty pants.",
-      "zh": "好吧，所以老师称水晶为智能裤子。"
+      "zh": "好，所以老师叫克丽丝特尔机灵鬼。"
     },
     {
       "id": 204,
       "start": 506.28,
       "end": 506.58,
       "en": "Smarty pants.",
-      "zh": "聪明的裤子。"
+      "zh": "机灵鬼。"
     },
     {
       "id": 205,
       "start": 507.68,
       "end": 507.92,
       "en": "Smarty pants.",
-      "zh": "聪明的裤子。"
+      "zh": "机灵鬼。"
     },
     {
       "id": 206,
@@ -1453,7 +1453,7 @@
       "start": 512.22,
       "end": 513.92,
       "en": "So what is a smarty pants?",
-      "zh": "那么什么是智能裤子呢？"
+      "zh": "那什么是机灵鬼呢？"
     },
     {
       "id": 208,
@@ -1474,7 +1474,7 @@
       "start": 516.52,
       "end": 517.6,
       "en": "Who tries too hard to be smart.",
-      "zh": "谁努力变得聪明。"
+      "zh": "太想显得聪明的人。"
     },
     {
       "id": 211,
@@ -1488,7 +1488,7 @@
       "start": 519.84,
       "end": 521.28,
       "en": "I wouldn't call you a smarty pants, right?",
-      "zh": "我不会叫你聪明的裤子，对吧？"
+      "zh": "我不会叫你机灵鬼，对吧？"
     },
     {
       "id": 213,
@@ -1537,35 +1537,35 @@
       "start": 535.52,
       "end": 542.4,
       "en": "And our last one, and this is also a very good phrase and a way to describe someone, know it all.",
-      "zh": "我们的最后一个，这也是一个很好的短语，也是一种描述某人的方式，无所不知。"
+      "zh": "最后一个，这也是个很好的短语，用来形容某类人，know it all。"
     },
     {
       "id": 220,
       "start": 542.4,
       "end": 542.65,
       "en": "Know it all.",
-      "zh": "知道这一切。"
+      "zh": "万事通。"
     },
     {
       "id": 221,
       "start": 543.48,
       "end": 544.03,
       "en": "Know it all.",
-      "zh": "知道这一切。"
+      "zh": "万事通。"
     },
     {
       "id": 222,
       "start": 544.48,
       "end": 545.92,
       "en": "A know it all.",
-      "zh": "一个无所不知。"
+      "zh": "一个万事通。"
     },
     {
       "id": 223,
       "start": 545.92,
       "end": 547.4,
       "en": "Sometimes you say Mr. Know it all, right?",
-      "zh": "有时你说先生知道这一切，对吧？"
+      "zh": "有时你会说 Mr. Know-it-all（万事通先生），对吧？"
     },
     {
       "id": 224,
@@ -1579,7 +1579,7 @@
       "start": 548.68,
       "end": 549.72,
       "en": "Okay, so what is a know it all?",
-      "zh": "好的，那么什么是无所不知？"
+      "zh": "好，那什么是万事通呢？"
     },
     {
       "id": 226,
@@ -1649,14 +1649,14 @@
       "start": 569.64,
       "end": 572.84,
       "en": "All right, so it's not a good thing to be a know it all all the time.",
-      "zh": "好吧，所以一直都知道这不是一件好事。"
+      "zh": "好吧，所以一直做个万事通可不是好事。"
     },
     {
       "id": 236,
       "start": 573.08,
       "end": 577.08,
       "en": "Yeah, actually all of these phrases are not good things to be.",
-      "zh": "是的，实际上所有这些短语都不是好东西。"
+      "zh": "是的，其实这些说法形容的人都不好。"
     },
     {
       "id": 237,
@@ -1712,7 +1712,7 @@
       "start": 606.64,
       "end": 608.06,
       "en": "Miss Catlett always asks Crystal.",
-      "zh": "卡特利特小姐总是问水晶。"
+      "zh": "卡特利特小姐总是问克丽丝特尔。"
     },
     {
       "id": 245,
@@ -1754,7 +1754,7 @@
       "start": 618.64,
       "end": 619.77,
       "en": "Very good, suck up.",
-      "zh": "非常好，吸起来。"
+      "zh": "很好，马屁精。"
     },
     {
       "id": 251,
@@ -1803,7 +1803,7 @@
       "start": 630.12,
       "end": 635.6,
       "en": "Bet you're not going to get that one, know it all.",
-      "zh": "打赌你不会得到那一，知道这一切。"
+      "zh": "我打赌你这回答不出来，万事通。"
     },
     {
       "id": 258,
@@ -1817,7 +1817,7 @@
       "start": 641.96,
       "end": 646.16,
       "en": "All right, so Erica, you were telling me that you hated math or you still do.",
-      "zh": "好吧，所以埃里卡，你告诉我你讨厌数学，或者你仍然喜欢。"
+      "zh": "好吧，埃里卡，你告诉我你讨厌数学，或者你现在还是讨厌。"
     },
     {
       "id": 260,
@@ -1845,14 +1845,14 @@
       "start": 661.13,
       "end": 662.17,
       "en": "No, I'm terrible with numbers.",
-      "zh": "不，我对数字很糟糕。"
+      "zh": "不，我对数字一窍不通。"
     },
     {
       "id": 264,
       "start": 662.37,
       "end": 664.25,
       "en": "I can't even remember my own phone number.",
-      "zh": "我什至不记得我自己的电话号码。"
+      "zh": "我甚至不记得我自己的电话号码。"
     },
     {
       "id": 265,
@@ -1943,7 +1943,7 @@
       "start": 693.82,
       "end": 694.7,
       "en": "Yeah, but you're pretty good at English.",
-      "zh": "是的，但你的英语很擅长。"
+      "zh": "是的，但你的英语相当不错。"
     },
     {
       "id": 278,
@@ -2076,7 +2076,7 @@
       "start": 730.36,
       "end": 735.04,
       "en": "So you can choose if you're an elementary student, then you would be talking to other elementaries.",
-      "zh": "因此，您可以选择是否是小学生，那么您将与其他小学生交谈。"
+      "zh": "所以你可以选择，如果你是初级水平，就会和其他初级学员交流。"
     },
     {
       "id": 297,

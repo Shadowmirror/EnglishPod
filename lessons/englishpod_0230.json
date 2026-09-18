@@ -39,7 +39,7 @@
       "start": 11.11,
       "end": 12.53,
       "en": "Today we are gardening.",
-      "zh": "今天我们正在园艺。"
+      "zh": "今天我们来聊园艺。"
     },
     {
       "id": 6,
@@ -165,7 +165,7 @@
       "start": 57.69,
       "end": 59.57,
       "en": "I'll till the soil and then sow the seeds.",
-      "zh": "我会耕种土壤，然后播种。"
+      "zh": "我会先翻土，然后播种。"
     },
     {
       "id": 24,
@@ -200,7 +200,7 @@
       "start": 79.5,
       "end": 84.15,
       "en": "We mentioned a lot of tools and we're going to explain a lot of those now on Language Takeaway.",
-      "zh": "我们提到了很多工具，我们将在语言外卖方面解释很多现在的工具。"
+      "zh": "我们提到了很多工具，现在就在语言要点部分来解释其中不少。"
     },
     {
       "id": 29,
@@ -214,7 +214,7 @@
       "start": 90.56,
       "end": 100.64,
       "en": "The first one is one that I am not, well, it's actually not a tool, it's a part of gardening, something that we use to help the plants grow and I really don't like it because it smells bad.",
-      "zh": "第一个是我不是，嗯，它实际上不是一个工具，它是园艺的一部分，我们用来帮助植物生长的东西，我真的不喜欢它，因为它闻起来很臭。"
+      "zh": "第一个嘛，我……嗯，它其实不算工具，它是园艺里的一部分，我们用它来帮助植物生长，我特别不喜欢它，因为它很难闻。"
     },
     {
       "id": 31,
@@ -270,7 +270,7 @@
       "start": 126.04,
       "end": 131.28,
       "en": "Well, now we're going to mention four tools that we use in gardening, basic tools.",
-      "zh": "好吧，现在我们将提到我们在园艺、基本工具中使用的四种工具。"
+      "zh": "好吧，现在我们来介绍园艺里用到的四种工具，都是基本工具。"
     },
     {
       "id": 39,
@@ -312,7 +312,7 @@
       "start": 143.56,
       "end": 153.96,
       "en": "It's not just a gardening tool, but it is something that has a long handle and we use it to clear the ground of rocks or leaves.",
-      "zh": "它不仅仅是一个园艺工具，它是一个长柄的东西，我们用它来清理岩石或树叶的地面。"
+      "zh": "它不只是园艺工具，它有长长的柄，我们用它清理地上的石块或树叶。"
     },
     {
       "id": 45,
@@ -326,7 +326,7 @@
       "start": 159.88,
       "end": 160.88,
       "en": "It is.",
-      "zh": "确实如此。"
+      "zh": "确实是。"
     },
     {
       "id": 47,
@@ -354,14 +354,14 @@
       "start": 178.76,
       "end": 184.33,
       "en": "So you use a rake to pull them and you also call the action of using a rake, you say, you rake the garden.",
-      "zh": "所以你用耙子拉它们，你也叫用耙子的动作，你说，你耙花园。"
+      "zh": "所以你用耙子把它们搂到一起，而用耙子这个动作，你就说 rake the garden。"
     },
     {
       "id": 51,
       "start": 184.84,
       "end": 186.05,
       "en": "To rake, that's right.",
-      "zh": "拉克，是对的。"
+      "zh": "to rake，没错。"
     },
     {
       "id": 52,
@@ -452,14 +452,14 @@
       "start": 229.93,
       "end": 231.81,
       "en": "A spade has a point.",
-      "zh": "黑桃有一点。"
+      "zh": "铁锹有一个尖头。"
     },
     {
       "id": 65,
       "start": 232.29,
       "end": 234.59,
       "en": "A shovel is round and a spade has a point.",
-      "zh": "铲子是圆的，铁锹有点。"
+      "zh": "铲子是圆的，而铁锹是尖的。"
     },
     {
       "id": 66,
@@ -473,42 +473,42 @@
       "start": 239.44,
       "end": 239.67,
       "en": "In cards.",
-      "zh": "在卡片中。"
+      "zh": "在扑克牌里。"
     },
     {
       "id": 68,
       "start": 240.44,
       "end": 241.44,
       "en": "That's right, in cards.",
-      "zh": "没错，在卡片中。"
+      "zh": "没错，在扑克牌里。"
     },
     {
       "id": 69,
       "start": 241.44,
       "end": 242.59,
       "en": "So cards have different shapes.",
-      "zh": "所以卡片有不同的形状。"
+      "zh": "所以扑克牌有不同的花色。"
     },
     {
       "id": 70,
       "start": 243.16,
       "end": 245.08,
       "en": "One is a heart, one is a diamond.",
-      "zh": "一种是心，一种是钻石。"
+      "zh": "一个是红桃，一个是方块。"
     },
     {
       "id": 71,
       "start": 245.08,
       "end": 246.44,
       "en": "One of them is a spade.",
-      "zh": "其中之一是铁锹。"
+      "zh": "其中一个是黑桃。"
     },
     {
       "id": 72,
       "start": 246.44,
       "end": 252.64,
       "en": "So the one that's pointy, that's called a spade, and it's used for digging kind of precision holes.",
-      "zh": "所以那个尖尖的，被称为铲子，它用于挖掘一种精确的孔。"
+      "zh": "所以那个尖头的就叫 spade，用来挖比较精细的小洞。"
     },
     {
       "id": 73,
@@ -641,14 +641,14 @@
       "start": 325.62,
       "end": 325.92,
       "en": "To till.",
-      "zh": "直到。"
+      "zh": "to till，翻土。"
     },
     {
       "id": 92,
       "start": 326.62,
       "end": 331.84,
       "en": "Okay, so basically this is a way of turning up that soil, but you're doing it kind of in lines, right?",
-      "zh": "好的，所以基本上这是一种翻新土壤的方式，但你是在排队，对吧？"
+      "zh": "好的，所以基本上这是一种翻土的方式，但你是要一行一行地翻，对吧？"
     },
     {
       "id": 93,
@@ -669,7 +669,7 @@
       "start": 337.52,
       "end": 339.92,
       "en": "And so you till the soil.",
-      "zh": "所以你直到土壤。"
+      "zh": "所以就是 till the soil，翻土。"
     },
     {
       "id": 96,
@@ -683,14 +683,14 @@
       "start": 342.0,
       "end": 342.22,
       "en": "It's earth.",
-      "zh": "这是地球。"
+      "zh": "就是土。"
     },
     {
       "id": 98,
       "start": 343.0,
       "end": 343.16,
       "en": "Right, it's earth.",
-      "zh": "没错，是地球。"
+      "zh": "没错，就是土。"
     },
     {
       "id": 99,
@@ -704,7 +704,7 @@
       "start": 347.28,
       "end": 348.12,
       "en": "Till the soil, that's right.",
-      "zh": "到土壤，就对了。"
+      "zh": "till the soil，没错。"
     },
     {
       "id": 101,
@@ -732,7 +732,7 @@
       "start": 355.64,
       "end": 358.18,
       "en": "Okay, so seeds are baby plants basically.",
-      "zh": "好吧，所以种子基本上是婴儿植物。"
+      "zh": "好吧，种子基本上就是植物的幼体。"
     },
     {
       "id": 105,
@@ -753,14 +753,14 @@
       "start": 365.66,
       "end": 368.26,
       "en": "So that's basically planting the seeds.",
-      "zh": "所以这基本上就是种子。"
+      "zh": "所以这基本上就是种下种子。"
     },
     {
       "id": 108,
       "start": 368.38,
       "end": 372.08,
       "en": "You can say we plant the seeds or we sow the seeds.",
-      "zh": "你可以说我们播种或播种。"
+      "zh": "你可以说 we plant the seeds，也可以说 we sow the seeds。"
     },
     {
       "id": 109,
@@ -851,7 +851,7 @@
       "start": 401.4,
       "end": 405.37,
       "en": "Why don't we go back, listen to the dialogue again, and we'll be back with Fluency Builder.",
-      "zh": "我们为什么不回去，再听一次对话，我们会带着 Flueny Builder 回来。"
+      "zh": "我们为什么不回去，再听一次对话，然后带着流利表达回来。"
     },
     {
       "id": 122,
@@ -893,7 +893,7 @@
       "start": 419.78,
       "end": 420.98,
       "en": "Tell me then, smarty pants.",
-      "zh": "那么告诉我，聪明的裤子。"
+      "zh": "那你说说看啊，自作聪明的家伙。"
     },
     {
       "id": 128,
@@ -942,7 +942,7 @@
       "start": 435.0,
       "end": 436.46,
       "en": "Well, it seems like you have all your bases covered.",
-      "zh": "好吧，似乎你已经涵盖了所有的基地。"
+      "zh": "嗯，看来你准备得挺周全。"
     },
     {
       "id": 135,
@@ -956,7 +956,7 @@
       "start": 438.24,
       "end": 439.98,
       "en": "I'll till the soil and then sow the seeds.",
-      "zh": "我会耕种土壤，然后播种。"
+      "zh": "我会先翻土，然后播种。"
     },
     {
       "id": 137,
@@ -977,7 +977,7 @@
       "start": 451.6,
       "end": 462.56,
       "en": "All right, we're back and we have four phrases for you on Fluency Builder and we're going to take a look at those now.",
-      "zh": "好吧，我们回来了，我们在 Fluency Builder 上有四个短语给你，我们现在要看看这些。"
+      "zh": "好吧，我们回来了，我们在流利表达上有四个短语给你，我们现在要看看这些。"
     },
     {
       "id": 140,
@@ -998,7 +998,7 @@
       "start": 471.24,
       "end": 476.57,
       "en": "So basically, one person in this dialogue says, you know what, you don't know the first thing about gardening.",
-      "zh": "所以基本上，这个对话中的一个人说，你知道什么，你不知道关于园艺的第一件事。"
+      "zh": "所以基本上，对话里一个人说，你知道吗，你对园艺一窍不通。"
     },
     {
       "id": 143,
@@ -1033,7 +1033,7 @@
       "start": 484.0,
       "end": 485.88,
       "en": "So the contrary means the opposite.",
-      "zh": "所以相反的意思是相反的。"
+      "zh": "所以 contrary 就是相反的意思。"
     },
     {
       "id": 148,
@@ -1180,7 +1180,7 @@
       "start": 541.56,
       "end": 543.79,
       "en": "And the other person says, oh, really, smarty pants.",
-      "zh": "另一个人说，哦，真的，聪明的裤子。"
+      "zh": "另一个人说，哦，真的吗，自作聪明的家伙。"
     },
     {
       "id": 169,
@@ -1201,7 +1201,7 @@
       "start": 554.32,
       "end": 555.94,
       "en": "You also say, it's a smarty pants.",
-      "zh": "你还说，这是一条聪明的裤子。"
+      "zh": "你也可以说某人是个 smarty pants。"
     },
     {
       "id": 172,
@@ -1229,7 +1229,7 @@
       "start": 560.88,
       "end": 562.58,
       "en": "Mr. Know-it-all or a smarty pants.",
-      "zh": "Mr. Know-It-All 或 Smarty 裤子。"
+      "zh": "Mr. Know-It-All 或 smarty pants。"
     },
     {
       "id": 176,
@@ -1327,7 +1327,7 @@
       "start": 589.2,
       "end": 593.91,
       "en": "So how will you go about plus and then the verb in ing.",
-      "zh": "那么你将如何去加上再加上动词。"
+      "zh": "所以是 how will you go about，后面接动词的 -ing 形式。"
     },
     {
       "id": 190,
@@ -1404,7 +1404,7 @@
       "start": 627.52,
       "end": 631.7,
       "en": "Basically if a person is prepared, you say, well, you have all your bases covered.",
-      "zh": "基本上，如果一个人做好了准备，你说，好吧，你的所有基础都被覆盖了。"
+      "zh": "基本上，如果一个人做好了准备，你就说，你做好了万全准备。"
     },
     {
       "id": 201,
@@ -1432,7 +1432,7 @@
       "start": 635.0,
       "end": 637.62,
       "en": "Very common in English to have sports phrases.",
-      "zh": "在英语中很常见的有运动短语。"
+      "zh": "英语里用来自体育的短语很常见。"
     },
     {
       "id": 205,
@@ -1453,35 +1453,35 @@
       "start": 641.0,
       "end": 643.5,
       "en": "So in baseball, the field is a diamond.",
-      "zh": "所以在棒球界，球场是钻石。"
+      "zh": "所以在棒球里，球场是菱形的。"
     },
     {
       "id": 208,
       "start": 643.88,
       "end": 651.44,
       "en": "There are four corners or four bases and the runners have to go from one base to the other one, two, three, four, and then they get a point.",
-      "zh": "有四个角或四个基地，跑步者必须从一个基地到另一个基地到另一个基地，两个，三个，四个，然后他们得分。"
+      "zh": "有四个角，也就是四个垒，跑者要一个垒一个垒地跑，一垒、二垒、三垒、四垒，然后才能得分。"
     },
     {
       "id": 209,
       "start": 651.44,
       "end": 654.86,
       "en": "But in this case we're saying the other team, they have their bases covered.",
-      "zh": "但在这种情况下，我们说的是另一支球队，他们的基地覆盖了。"
+      "zh": "但在这种情况下，我们说的是对方球队把各个垒都守住了。"
     },
     {
       "id": 210,
       "start": 655.12,
       "end": 656.62,
       "en": "That means they're protecting their bases.",
-      "zh": "这意味着他们正在保护他们的基地。"
+      "zh": "意思是他们把每个垒都防守住了。"
     },
     {
       "id": 211,
       "start": 657.4,
       "end": 663.48,
       "en": "And in speech we say, if you have your bases covered, like you said, Marco, you're very well prepared.",
-      "zh": "在演讲中，我们说，如果你有你的基地，就像你说的，马可，你已经做好了充分的准备。"
+      "zh": "在日常表达里，我们说，如果你 have your bases covered，就像你说的，马可，意思是你做好了万全准备。"
     },
     {
       "id": 212,
@@ -1509,7 +1509,7 @@
       "start": 670.96,
       "end": 672.19,
       "en": "So you have all your bases covered.",
-      "zh": "所以你的所有基地都得到了覆盖。"
+      "zh": "所以就是 you have all your bases covered，做好了万全准备。"
     },
     {
       "id": 216,
@@ -1523,7 +1523,7 @@
       "start": 678.24,
       "end": 681.96,
       "en": "So to have all my bases covered, I'm going to bring an umbrella anyway.",
-      "zh": "所以为了覆盖我所有的基地，无论如何我都会带一把雨伞。"
+      "zh": "所以为了做到万全，我无论如何都会带把伞。"
     },
     {
       "id": 218,
@@ -1544,21 +1544,21 @@
       "start": 683.96,
       "end": 687.27,
       "en": "Or maybe you have a presentation at work and you've prepared your PowerPoint presentation.",
-      "zh": "或者，也许您在工作中进行了演示，并且您已经准备了您的 PowerPoint 演示文稿。"
+      "zh": "或者你工作上要做一个演示，已经准备好了 PowerPoint 讲稿。"
     },
     {
       "id": 221,
       "start": 687.88,
       "end": 691.72,
       "en": "You have your, your drawings, your copies, you have everything ready.",
-      "zh": "你有你的，你的画，你的副本，你准备好了一切。"
+      "zh": "你有你的图、你的资料，一切都准备好了。"
     },
     {
       "id": 222,
       "start": 691.72,
       "end": 693.81,
       "en": "You have all your bases covered for that meeting.",
-      "zh": "您为那次会议涵盖了所有基地。"
+      "zh": "那次会议你已经做好了万全准备。"
     },
     {
       "id": 223,
@@ -1621,7 +1621,7 @@
       "start": 716.74,
       "end": 717.94,
       "en": "Tell me then, smarty pants.",
-      "zh": "那么告诉我，聪明的裤子。"
+      "zh": "那你说说看啊，自作聪明的家伙。"
     },
     {
       "id": 232,
@@ -1684,7 +1684,7 @@
       "start": 735.08,
       "end": 736.96,
       "en": "I'll till the soil and then sow the seeds.",
-      "zh": "我会耕种土壤，然后播种。"
+      "zh": "我会先翻土，然后播种。"
     },
     {
       "id": 241,
@@ -1726,14 +1726,14 @@
       "start": 770.21,
       "end": 770.51,
       "en": "They do.",
-      "zh": "他们会。"
+      "zh": "确实如此。"
     },
     {
       "id": 247,
       "start": 770.65,
       "end": 777.87,
       "en": "I think personally that home grown vegetables, so vegetables that you grow yourself, tend to taste a lot better than the ones you get in the grocery store.",
-      "zh": "我个人认为，自制蔬菜，你自己种植的蔬菜，往往比你在杂货店买的蔬菜味道好很多。"
+      "zh": "我个人认为，自己种的蔬菜，也就是你自己种出来的菜，往往比杂货店买的味道好很多。"
     },
     {
       "id": 248,
@@ -1789,14 +1789,14 @@
       "start": 806.08,
       "end": 814.63,
       "en": "Basically you're waiting for your plants to grow, but I imagine that once they do, you've accomplished it, it must be great to see that you've actually brought life.",
-      "zh": "基本上你在等待你的植物生长，但我想一旦它们长大了，你就完成了它，很高兴看到你真的带来了生命。"
+      "zh": "基本上你就是在等植物生长，但我想一旦它们长成了，你就大功告成，看到自己真的培育出了生命，那感觉一定很棒。"
     },
     {
       "id": 256,
       "start": 815.16,
       "end": 815.61,
       "en": "I'm sure.",
-      "zh": "我确定。"
+      "zh": "我相信。"
     },
     {
       "id": 257,

@@ -25,7 +25,7 @@
       "start": 6.46,
       "end": 9.38,
       "en": "And my name is Catherine and it's the holiday season.",
-      "zh": "我的名字是凯瑟琳，这是假期。"
+      "zh": "我是凯瑟琳，现在是假期。"
     },
     {
       "id": 4,
@@ -53,7 +53,7 @@
       "start": 24.22,
       "end": 25.06,
       "en": "Yeah, even Chinese.",
-      "zh": "是的，甚至中国人。"
+      "zh": "是的，甚至中文。"
     },
     {
       "id": 8,
@@ -88,7 +88,7 @@
       "start": 30.37,
       "end": 32.59,
       "en": "But yeah, we're talking about Jingle Bells today.",
-      "zh": "但是，是的，我们今天谈论的是叮当声。"
+      "zh": "不过，我们今天要讲的是《铃儿响叮当》。"
     },
     {
       "id": 13,
@@ -116,7 +116,7 @@
       "start": 44.23,
       "end": 46.45,
       "en": "It has like a couple of different verses.",
-      "zh": "它有几个不同的诗句。"
+      "zh": "它有好几段不同的歌词。"
     },
     {
       "id": 17,
@@ -214,7 +214,7 @@
       "start": 93.08,
       "end": 95.12,
       "en": "How can you not get into the spirit with this song?",
-      "zh": "你怎么能不用这首歌进入精神呢？"
+      "zh": "听着这首歌，你怎么可能感受不到节日气氛呢？"
     },
     {
       "id": 31,
@@ -235,7 +235,7 @@
       "start": 103.47,
       "end": 109.33,
       "en": "I think it's also because every mall or shopping center you go to, they're playing these songs.",
-      "zh": "我想这也是因为你去的每个购物中心或购物中心，他们都在播放这些歌曲。"
+      "zh": "我想这也是因为无论你去哪家商场还是购物中心，都在放这些歌。"
     },
     {
       "id": 34,
@@ -249,7 +249,7 @@
       "start": 111.4,
       "end": 112.11,
       "en": "In the background all the time.",
-      "zh": "一直在后台。"
+      "zh": "一直当作背景音乐放着。"
     },
     {
       "id": 36,
@@ -263,14 +263,14 @@
       "start": 114.08,
       "end": 116.56,
       "en": "It makes you want to shop more.",
-      "zh": "它让你想购物更多。"
+      "zh": "它会让你更想购物。"
     },
     {
       "id": 38,
       "start": 116.56,
       "end": 117.25,
       "en": "Or kill someone.",
-      "zh": "或杀死某人。"
+      "zh": "或者想杀人。"
     },
     {
       "id": 39,
@@ -291,7 +291,7 @@
       "start": 128.16,
       "end": 130.97,
       "en": "So starting out with the first line, it says, dashing through the snow.",
-      "zh": "所以从第一条线开始，它说，冲过雪。"
+      "zh": "先看第一句，唱的是 dashing through the snow。"
     },
     {
       "id": 42,
@@ -312,7 +312,7 @@
       "start": 138.08,
       "end": 140.48,
       "en": "Okay, so a dash is a very quick run.",
-      "zh": "好的，所以破折号是一个非常快速的运行。"
+      "zh": "好的，所以 dash 就是飞快地跑。"
     },
     {
       "id": 45,
@@ -333,7 +333,7 @@
       "start": 143.08,
       "end": 146.92,
       "en": "So dashing through the snow is you're kind of running or going through the snow very quickly.",
-      "zh": "所以冲过雪是你跑得很快或穿过雪。"
+      "zh": "所以 dashing through the snow 就是飞快地跑过雪地。"
     },
     {
       "id": 48,
@@ -347,7 +347,7 @@
       "start": 153.68,
       "end": 157.68,
       "en": "And in the second line it says, in a one horse open sleigh.",
-      "zh": "在第二行中，它说，在一匹马敞开的雪橇上。"
+      "zh": "第二句唱到，in a one horse open sleigh，也就是坐在一匹马拉的无篷雪橇上。"
     },
     {
       "id": 50,
@@ -424,14 +424,14 @@
       "start": 192.6,
       "end": 196.42,
       "en": "It's o apostrophe er, or, or the field we go.",
-      "zh": "这是 o 撇号 er，或者，或者我们去的领域。"
+      "zh": "这是 o 加撇号 er，读作 or，也就是 o'er。"
     },
     {
       "id": 61,
       "start": 196.96,
       "end": 197.9,
       "en": "Or the field we go.",
-      "zh": "或者我们去的领域。"
+      "zh": "o'er the fields we go。"
     },
     {
       "id": 62,
@@ -459,28 +459,28 @@
       "start": 209.08,
       "end": 209.9,
       "en": "But sometimes we only want one.",
-      "zh": "但有时我们只想要一件。"
+      "zh": "但有时我们只想要一个音节。"
     },
     {
       "id": 66,
       "start": 210.08,
       "end": 211.08,
       "en": "So we say or.",
-      "zh": "所以我们说或。"
+      "zh": "所以我们说 o'er，读作 or。"
     },
     {
       "id": 67,
       "start": 211.32,
       "end": 213.14,
       "en": "Okay, or the fields we go.",
-      "zh": "好的，或者我们去的领域。"
+      "zh": "好的，o'er the fields we go。"
     },
     {
       "id": 68,
       "start": 213.2,
       "end": 214.2,
       "en": "It's over.",
-      "zh": "结束了。"
+      "zh": "其实就是 over。"
     },
     {
       "id": 69,
@@ -501,14 +501,14 @@
       "start": 217.65,
       "end": 219.65,
       "en": "Bells on bobtails ring.",
-      "zh": "短尾铃声响起。"
+      "zh": "短尾上的铃铛响起来。"
     },
     {
       "id": 72,
       "start": 219.93,
       "end": 221.19,
       "en": "Now what are bobtails?",
-      "zh": "现在什么是短尾？"
+      "zh": "那 bobtails 是什么？"
     },
     {
       "id": 73,
@@ -529,7 +529,7 @@
       "start": 229.28,
       "end": 231.57,
       "en": "So we could say we have a bunny rabbit with a bobtail.",
-      "zh": "所以我们可以说我们有一只长着短尾的兔子兔子。"
+      "zh": "所以我们说，有一只长着短尾的兔子。"
     },
     {
       "id": 76,
@@ -564,7 +564,7 @@
       "start": 247.92,
       "end": 251.39,
       "en": "And according to the next line, making spirits bright, right?",
-      "zh": "而根据下一行，让精神变得明亮，对吧？"
+      "zh": "而下一句是 making spirits bright，对吧？"
     },
     {
       "id": 81,
@@ -620,28 +620,28 @@
       "start": 264.0,
       "end": 268.83,
       "en": "And well, he says, what fun it is to laugh and sing a slaying song tonight.",
-      "zh": "好吧，他说，今晚笑和唱一首杀戮歌曲是多么有趣。"
+      "zh": "他说，what fun it is to laugh and sing a sleighing song tonight——今晚一边笑一边唱一首雪橇歌，多么有趣。"
     },
     {
       "id": 89,
       "start": 269.24,
       "end": 273.51,
       "en": "Now slaying, we know that slay is this vehicle to go through the snow.",
-      "zh": "现在杀戮，我们知道杀戮是这辆车穿过雪地。"
+      "zh": "这里的 sleighing，其实 sleigh 就是这种在雪地上滑行的交通工具。"
     },
     {
       "id": 90,
       "start": 273.76,
       "end": 275.52,
       "en": "But a slaying song, I guess is.",
-      "zh": "但我想是一首杀戮歌曲。"
+      "zh": "但 sleighing song，我想就是……"
     },
     {
       "id": 91,
       "start": 275.52,
       "end": 277.32,
       "en": "Is the song we sing when we're in a slay.",
-      "zh": "是我们在杀戮时唱的歌。"
+      "zh": "就是坐在雪橇上唱的歌。"
     },
     {
       "id": 92,
@@ -662,7 +662,7 @@
       "start": 286.12,
       "end": 288.48,
       "en": "Let's go to the chorus, jingle bells, jingle bells.",
-      "zh": "让我们去合唱，叮当响铃，铃儿响铃。"
+      "zh": "来看副歌，铃儿响叮当，铃儿响叮当。"
     },
     {
       "id": 95,
@@ -683,49 +683,49 @@
       "start": 291.96,
       "end": 294.12,
       "en": "To jingle, we can do it with your keys too.",
-      "zh": "为了叮当，我们也可以用你的钥匙来做。"
+      "zh": "jingling 这个动作，用钥匙也能做。"
     },
     {
       "id": 98,
       "start": 294.6,
       "end": 297.26,
       "en": "To jingle is to make noise when metal is touching metal.",
-      "zh": "当金属接触金属时，叮当声就是发出噪音。"
+      "zh": "jingle 就是金属互相碰撞时发出的响声。"
     },
     {
       "id": 99,
       "start": 297.56,
       "end": 300.08,
       "en": "So we have bells and they ding ding ding ding ding.",
-      "zh": "所以我们有钟声和他们丁丁丁丁丁丁丁丁丁丁丁丁丁。"
+      "zh": "比如铃铛，会发出叮叮叮叮的响声。"
     },
     {
       "id": 100,
       "start": 300.4,
       "end": 300.92,
       "en": "They hit each other.",
-      "zh": "他们互相击打。"
+      "zh": "它们互相碰撞。"
     },
     {
       "id": 101,
       "start": 301.4,
       "end": 301.74,
       "en": "I got some keys here.",
-      "zh": "我在这里得到了一些钥匙。"
+      "zh": "我这里有些钥匙。"
     },
     {
       "id": 102,
       "start": 302.4,
       "end": 302.66,
       "en": "I'll show you what jingling is.",
-      "zh": "我会告诉你什么是叮当。"
+      "zh": "我来演示一下什么是 jingling。"
     },
     {
       "id": 103,
       "start": 303.4,
       "end": 304.4,
       "en": "So we go like this.",
-      "zh": "所以我们就这样去了。"
+      "zh": "就这样晃一下。"
     },
     {
       "id": 104,
@@ -879,7 +879,7 @@
       "start": 354.4,
       "end": 360.52,
       "en": "So jingle bells, jingle bells, you don't know the words, but dashing through the snow.",
-      "zh": "所以铃儿响，铃儿响，你不知道的话，而是冲过雪地。"
+      "zh": "所以'铃儿响叮当，铃儿响叮当'，后面的词你都不知道，可'dashing through the snow'却记得。"
     },
     {
       "id": 126,
@@ -907,14 +907,14 @@
       "start": 367.38,
       "end": 368.96,
       "en": "It's a very good Christmas carol.",
-      "zh": "这是一个非常好的圣诞颂歌。"
+      "zh": "这是一首非常好的圣诞颂歌。"
     },
     {
       "id": 130,
       "start": 369.12,
       "end": 371.76,
       "en": "It's very catchy and I don't know how old it is.",
-      "zh": "它非常吸引人，我不知道它有多大。"
+      "zh": "它非常朗朗上口，我也不知道它有多古老。"
     },
     {
       "id": 131,
@@ -928,14 +928,14 @@
       "start": 374.0,
       "end": 378.37,
       "en": "Well probably old enough to come from a time when there weren't cars because there was sleigh.",
-      "zh": "很可能是因为有雪橇的时候没有汽车的时候就足够大了。"
+      "zh": "它可能足够古老，来自一个还没有汽车、只能靠雪橇的年代。"
     },
     {
       "id": 133,
       "start": 379.04,
       "end": 382.45,
       "en": "And when they used ore, because I don't see people use ore anymore.",
-      "zh": "当他们使用矿石时，因为我再也看不到人们使用矿石了。"
+      "zh": "还有人们用 o'er 的年代，因为现在再也看不到有人用 o'er 了。"
     },
     {
       "id": 134,
@@ -1012,7 +1012,7 @@
       "start": 415.68,
       "end": 420.18,
       "en": "If you have any questions about this Christmas carol, you can let us know on EnglishPod.com.",
-      "zh": "如果您对这个圣诞颂歌有任何疑问，可以在 Englishpod.com 上告诉我们。"
+      "zh": "如果您对这首圣诞颂歌有任何疑问，可以在 EnglishPod.com 上告诉我们。"
     },
     {
       "id": 145,
@@ -1026,7 +1026,7 @@
       "start": 427.0,
       "end": 429.84,
       "en": "Very long and I don't know any of the other verses to be honest with you.",
-      "zh": "很长，老实说，我不知道其他任何经文。"
+      "zh": "很长，老实说，其他几段歌词我都不知道。"
     },
     {
       "id": 147,
@@ -1040,7 +1040,7 @@
       "start": 430.84,
       "end": 434.0,
       "en": "We'll post the first one and the chorus because it's the most popular one.",
-      "zh": "我们将发布第一个和合唱，因为它是最受欢迎的。"
+      "zh": "我们会把第一段和副歌贴出来，因为这是最广为流传的部分。"
     },
     {
       "id": 149,

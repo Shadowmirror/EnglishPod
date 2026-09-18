@@ -25,7 +25,7 @@
       "start": 4.33,
       "end": 9.59,
       "en": "My name is Catherine and today we have an elementary level lesson in which we're going to talk about small talk.",
-      "zh": "我的名字是凯瑟琳，今天我们有一个基本的课程，我们将在其中谈论闲聊。"
+      "zh": "我的名字是凯瑟琳，今天我们有一个初级课程，我们将在其中谈论闲聊。"
     },
     {
       "id": 4,
@@ -39,7 +39,7 @@
       "start": 10.75,
       "end": 20.09,
       "en": "Today we're going to talk to an old friend and so we're going to give you some of the words and phrases you need to talk about your past or talk about how you have been.",
-      "zh": "今天我们要和一个老朋友谈谈，所以我们将给你一些你需要谈论你过去或谈论你过去的单词和短语。"
+      "zh": "今天我们要和一个老朋友聊聊，所以会给你们一些单词和短语，用来谈论你的过去，或者聊聊你的近况。"
     },
     {
       "id": 6,
@@ -81,7 +81,7 @@
       "start": 40.5,
       "end": 42.46,
       "en": "Oh look, there's Robert Matthews.",
-      "zh": "哦，看，有罗伯特·马修斯。"
+      "zh": "哦，看，那是罗伯特·马修斯。"
     },
     {
       "id": 12,
@@ -207,7 +207,7 @@
       "start": 69.4,
       "end": 72.58,
       "en": "It didn't really work out between us, but I really can't complain either.",
-      "zh": "我们之间并没有真正成功，但我真的不能抱怨。"
+      "zh": "我们俩最终没能走到一起，不过我也真没什么好抱怨的。"
     },
     {
       "id": 30,
@@ -291,7 +291,7 @@
       "start": 91.52,
       "end": 96.52,
       "en": "So now let's get started with our language takeaway.",
-      "zh": "所以现在让我们开始我们的语言外卖。"
+      "zh": "所以现在让我们开始我们的语言要点。"
     },
     {
       "id": 42,
@@ -305,7 +305,7 @@
       "start": 99.24,
       "end": 105.03,
       "en": "The first phrase we have here in language takeaway is a very important one because it is the setting for today's dialogue.",
-      "zh": "我们在语言外卖中的第一个短语是一个非常重要的短语，因为它是今天对话的背景。"
+      "zh": "我们在语言要点里的第一个短语非常重要，因为它是今天对话的场景。"
     },
     {
       "id": 44,
@@ -326,7 +326,7 @@
       "start": 108.96,
       "end": 118.81,
       "en": "So everyone knows what high school is, but a high school reunion is when you go back to your high school for a party maybe five years or ten years after you graduate.",
-      "zh": "所以每个人都知道什么是高中，但是当你在毕业后五年或十年回到高中参加派对时，高中同学会是一个聚会。"
+      "zh": "所以每个人都知道高中是什么，但高中同学聚会是指毕业五年或十年后，你回到高中参加的一场聚会。"
     },
     {
       "id": 47,
@@ -340,7 +340,7 @@
       "start": 122.8,
       "end": 128.48,
       "en": "You talk about how you have been and just meet up with everyone that maybe you haven't seen in a very long time.",
-      "zh": "你谈论你的情况，只是与你很久没有见过的每个人见面。"
+      "zh": "你聊聊彼此的近况，和那些可能很久没见过的人见见面。"
     },
     {
       "id": 49,
@@ -368,7 +368,7 @@
       "start": 143.64,
       "end": 147.06,
       "en": "I've even heard of some people who had an elementary school reunion.",
-      "zh": "我什至听说过一些人有小学聚会。"
+      "zh": "我甚至听说过有人办小学同学聚会。"
     },
     {
       "id": 53,
@@ -403,7 +403,7 @@
       "start": 153.36,
       "end": 162.96,
       "en": "Alright so we're at a high school reunion and we are there because we're going to meet our old classmates and to catch up and see how they have been.",
-      "zh": "好吧，所以我们在高中聚会，我们在那里，因为我们要见我们的老同学，赶上他们的情况，看看他们过得怎么样。"
+      "zh": "好吧，所以我们在高中同学聚会上，我们来这儿是为了见见老同学，叙叙旧，看看他们过得怎么样。"
     },
     {
       "id": 58,
@@ -417,7 +417,7 @@
       "start": 165.64,
       "end": 175.78,
       "en": "You catch up with people that you maybe lost touch with, to catch up means to find out about what people have been doing since the last time you talked.",
-      "zh": "你赶上了你可能失去联系的人，赶上意味着了解自你上次谈话以来人们一直在做什么。"
+      "zh": "你会和可能失去联系的人叙叙旧，catch up 的意思是了解自上次交谈以来大家一直在做什么。"
     },
     {
       "id": 60,
@@ -431,35 +431,35 @@
       "start": 180.35,
       "end": 181.91,
       "en": "I say, Marco, I want to catch up.",
-      "zh": "我说，马可，我想赶上。"
+      "zh": "我说，马可，我想跟你叙叙旧。"
     },
     {
       "id": 62,
       "start": 182.01,
       "end": 187.14,
       "en": "I want to learn about what you do, who you married, where you work, things like that.",
-      "zh": "我想了解你做什么，你嫁给了谁，你在哪里工作，诸如此类。"
+      "zh": "我想了解你做什么工作、跟谁结了婚、在哪里上班，诸如此类。"
     },
     {
       "id": 63,
       "start": 187.34,
       "end": 192.78,
       "en": "Right, so when two people get together to catch up, maybe it doesn't even have to be a very long time.",
-      "zh": "对，所以当两个人聚在一起赶上来时，也许甚至不必很长时间。"
+      "zh": "对，所以当两个人聚在一起叙旧时，也许并不一定是很久没见。"
     },
     {
       "id": 64,
       "start": 192.78,
       "end": 203.02,
       "en": "Maybe you haven't seen your friend for a week and so you want to get together, have a cup of coffee and catch up and see how the relationship has been going or how it works so you want to catch up.",
-      "zh": "也许你已经一个星期没见你的朋友了，所以你想聚在一起，喝杯咖啡，赶上来，看看这段关系进展如何，或者它是如何运作的，所以你想赶上。"
+      "zh": "也许你一个星期没见朋友了，于是想聚一聚，喝杯咖啡，聊聊近况，看看彼此关系怎么样、过得如何，所以你想叙叙旧。"
     },
     {
       "id": 65,
       "start": 203.48,
       "end": 207.94,
       "en": "So you can say this in a very simple way, let's catch up or it's been nice to catch up.",
-      "zh": "所以你可以用一种非常简单的方式说这一点，让我们赶上来，或者赶上它很好。"
+      "zh": "所以你可以用很简单的方式说，比如 let's catch up，或者 it's been nice to catch up。"
     },
     {
       "id": 66,
@@ -480,14 +480,14 @@
       "start": 211.84,
       "end": 219.63,
       "en": "This guy Bill meets up with Robert Matthews and they're saying, hey, wow, great to see you and he answers by saying, likewise.",
-      "zh": "这个人比尔遇到了罗伯特·马修斯，他们说，嘿，哇，很高兴见到你，他也回答说，同样。"
+      "zh": "比尔这个人遇到了罗伯特·马修斯，他们说'嘿，哇，很高兴见到你'，他回答说 likewise。"
     },
     {
       "id": 69,
       "start": 221.08,
       "end": 222.75,
       "en": "So it's good to see you, likewise.",
-      "zh": "所以很高兴见到你，同样。"
+      "zh": "所以'很高兴见到你'，回答 likewise 就行。"
     },
     {
       "id": 70,
@@ -522,7 +522,7 @@
       "start": 237.93,
       "end": 240.78,
       "en": "Because I don't want to say it's a pleasure to meet you too.",
-      "zh": "因为我不想说很高兴见到你。"
+      "zh": "因为我不想把'也很高兴认识你'整句说出来。"
     },
     {
       "id": 75,
@@ -536,7 +536,7 @@
       "start": 242.16,
       "end": 245.56,
       "en": "So likewise is a very short way to say all of those things.",
-      "zh": "所以同样是说所有这些事情的非常短的方法。"
+      "zh": "所以 likewise 是表达所有这些话的简短方式。"
     },
     {
       "id": 77,
@@ -550,14 +550,14 @@
       "start": 247.32,
       "end": 252.64,
       "en": "So we were finding out about Robert Matthews and he says that, well, he is a dedicated bachelor.",
-      "zh": "所以我们发现了罗伯特·马修斯，他说，嗯，他是一个敬业的单身汉。"
+      "zh": "所以我们了解了罗伯特·马修斯的情况，他说，嗯，他是个铁了心的单身汉。"
     },
     {
       "id": 79,
       "start": 253.86,
       "end": 257.11,
       "en": "So a dedicated bachelor, what is a bachelor, Marco?",
-      "zh": "那么一个专门的单身汉，什么是单身汉，马可？"
+      "zh": "那么铁了心的单身汉，什么是单身汉，马可？"
     },
     {
       "id": 80,
@@ -606,7 +606,7 @@
       "start": 284.12,
       "end": 291.5,
       "en": "So a dedicated bachelor is a person who is not married and doesn't really seem to want to get married or any of this.",
-      "zh": "所以一个专门的单身汉是一个没有结婚的人，似乎不想结婚或任何这些。"
+      "zh": "所以铁了心的单身汉就是没结婚、而且看起来并不打算结婚或搞这一套的人。"
     },
     {
       "id": 87,
@@ -634,7 +634,7 @@
       "start": 295.8,
       "end": 303.92,
       "en": "And well, to finish off, this guy Robert lied a little bit to Bill saying that Frank had passed away.",
-      "zh": "好吧，最后，罗伯特对比尔说弗兰克已经去世了，这家伙有点撒谎。"
+      "zh": "好吧，最后，罗伯特这家伙跟比尔撒了个小谎，说弗兰克已经去世了。"
     },
     {
       "id": 91,
@@ -669,7 +669,7 @@
       "start": 316.2,
       "end": 318.36,
       "en": "Yeah, it's a lot more subtle and nicer.",
-      "zh": "是的，它更微妙和更好。"
+      "zh": "是的，这样说更委婉，也更好听。"
     },
     {
       "id": 96,
@@ -718,7 +718,7 @@
       "start": 342.76,
       "end": 344.16,
       "en": "So that's all the language takeaway you have.",
-      "zh": "这就是你所有的语言外卖。"
+      "zh": "这就是你所有的语言要点。"
     },
     {
       "id": 103,
@@ -760,7 +760,7 @@
       "start": 363.19,
       "end": 365.09,
       "en": "Oh look, there's Robert Matthews.",
-      "zh": "哦，看，有罗伯特·马修斯。"
+      "zh": "哦，看，那是罗伯特·马修斯。"
     },
     {
       "id": 109,
@@ -886,7 +886,7 @@
       "start": 392.05,
       "end": 395.19,
       "en": "It didn't really work out between us, but I really can't complain either.",
-      "zh": "我们之间并没有真正成功，但我真的不能抱怨。"
+      "zh": "我们俩最终没能走到一起，不过我也真没什么好抱怨的。"
     },
     {
       "id": 127,
@@ -935,7 +935,7 @@
       "start": 404.61,
       "end": 406.13,
       "en": "Nah, I'm just janking your chain.",
-      "zh": "不，我只是在推你的链条。"
+      "zh": "没有啦，我只是逗你玩。"
     },
     {
       "id": 134,
@@ -963,7 +963,7 @@
       "start": 413.04,
       "end": 416.92,
       "en": "Alright let's move on now to four key phrases on Fluency Builder.",
-      "zh": "好吧，让我们现在继续讨论关于 Fluency Builder 的四个关键短语。"
+      "zh": "好吧，让我们现在继续讨论关于流利表达的四个关键短语。"
     },
     {
       "id": 138,
@@ -977,7 +977,7 @@
       "start": 420.33,
       "end": 424.37,
       "en": "So the focus of today's Fluency Builder is small talk.",
-      "zh": "所以今天流利的建设者的重点是闲聊。"
+      "zh": "所以今天流利表达的重点是闲聊。"
     },
     {
       "id": 140,
@@ -1152,7 +1152,7 @@
       "start": 485.76,
       "end": 488.28,
       "en": "Bill answers by saying, can't complain.",
-      "zh": "比尔回答说，不能抱怨。"
+      "zh": "比尔回答说：没什么可抱怨的。"
     },
     {
       "id": 165,
@@ -1173,21 +1173,21 @@
       "start": 493.56,
       "end": 494.74,
       "en": "Normally you need a subject.",
-      "zh": "通常你需要一个主题。"
+      "zh": "通常你需要一个主语。"
     },
     {
       "id": 168,
       "start": 495.48,
       "end": 496.42,
       "en": "I can't complain.",
-      "zh": "我不能抱怨。"
+      "zh": "我没什么可抱怨的。"
     },
     {
       "id": 169,
       "start": 497.24,
       "end": 504.6,
       "en": "But when we're speaking in English and we're having a conversation like this, it's okay to say just can't complain as a phrase.",
-      "zh": "但是当我们说英语并且我们正在进行这样的对话时，可以说不能抱怨作为一个短语。"
+      "zh": "但是当我们在说英语、进行这样的对话时，只说 can't complain 当作一个短语是可以的。"
     },
     {
       "id": 170,
@@ -1201,7 +1201,7 @@
       "start": 506.64,
       "end": 507.82,
       "en": "Well, I can't complain.",
-      "zh": "好吧，我不能抱怨。"
+      "zh": "嗯，我没什么可抱怨的。"
     },
     {
       "id": 172,
@@ -1257,7 +1257,7 @@
       "start": 520.32,
       "end": 525.08,
       "en": "So it's just a phrase where very directly you can say, oh, can't complain.",
-      "zh": "所以这只是一个短语，你可以非常直接地说，哦，不能抱怨。"
+      "zh": "所以这就是个短语，你可以很直接地说，哦，can't complain。"
     },
     {
       "id": 180,
@@ -1278,7 +1278,7 @@
       "start": 529.16,
       "end": 533.76,
       "en": "Like, you know, I asked John how his job was and he said, can't complain.",
-      "zh": "就像，你知道，我问约翰他的工作怎么样，他说，不能抱怨。"
+      "zh": "比如，你知道，我问约翰工作怎么样，他说，没什么可抱怨的。"
     },
     {
       "id": 183,
@@ -1334,7 +1334,7 @@
       "start": 551.32,
       "end": 554.0,
       "en": "No, I'm just yanking your chain.",
-      "zh": "不，我只是拉着你的链子。"
+      "zh": "不，我只是逗你玩。"
     },
     {
       "id": 191,
@@ -1348,7 +1348,7 @@
       "start": 565.0,
       "end": 568.76,
       "en": "But yanking your chain, remember this as a phrase, it means I'm just joking.",
-      "zh": "但是拉动你的链条，记住这是一个短语，这意味着我只是在开玩笑。"
+      "zh": "但是 yank your chain，把它当短语记住，意思是'我只是在开玩笑'。"
     },
     {
       "id": 193,
@@ -1390,7 +1390,7 @@
       "start": 574.8,
       "end": 576.52,
       "en": "So, but how can you use this in another context?",
-      "zh": "那么，但是您如何在另一个上下文中使用它呢？"
+      "zh": "那么，你怎么在别的语境里用它呢？"
     },
     {
       "id": 199,
@@ -1418,7 +1418,7 @@
       "start": 581.84,
       "end": 582.84,
       "en": "I'm leaving EnglishPod.",
-      "zh": "我要离开 Englishpod。"
+      "zh": "我要离开 EnglishPod。"
     },
     {
       "id": 203,
@@ -1446,7 +1446,7 @@
       "start": 585.84,
       "end": 587.36,
       "en": "No, I'm just yanking your chain.",
-      "zh": "不，我只是拉着你的链子。"
+      "zh": "不，我只是逗你玩。"
     },
     {
       "id": 207,
@@ -1481,7 +1481,7 @@
       "start": 593.84,
       "end": 594.71,
       "en": "I'm just yanking your chain.",
-      "zh": "我只是拉着你的链子。"
+      "zh": "我只是逗你玩。"
     },
     {
       "id": 212,
@@ -1523,7 +1523,7 @@
       "start": 607.0,
       "end": 608.79,
       "en": "So I'm just yanking your chain.",
-      "zh": "所以我只是拉着你的链子。"
+      "zh": "所以我只是逗你玩。"
     },
     {
       "id": 218,
@@ -1544,7 +1544,7 @@
       "start": 611.76,
       "end": 615.68,
       "en": "You can't translate it directly or literally because it's not going to make sense.",
-      "zh": "你不能直接或字面翻译它，因为它没有意义。"
+      "zh": "你不能直接或逐字翻译它，因为那样讲不通。"
     },
     {
       "id": 221,
@@ -1607,7 +1607,7 @@
       "start": 640.04,
       "end": 641.94,
       "en": "Oh, look, there's Robert Matthews.",
-      "zh": "哦，看，有罗伯特·马修斯。"
+      "zh": "哦，看，那是罗伯特·马修斯。"
     },
     {
       "id": 230,
@@ -1733,7 +1733,7 @@
       "start": 668.89,
       "end": 672.05,
       "en": "It didn't really work out between us, but I really can't complain either.",
-      "zh": "我们之间并没有真正成功，但我真的不能抱怨。"
+      "zh": "我们俩最终没能走到一起，不过我也真没什么好抱怨的。"
     },
     {
       "id": 248,
@@ -1782,7 +1782,7 @@
       "start": 681.47,
       "end": 682.99,
       "en": "Nah, I'm just janking your chain.",
-      "zh": "不，我只是在推你的链条。"
+      "zh": "没有啦，我只是逗你玩。"
     },
     {
       "id": 255,
@@ -1824,7 +1824,7 @@
       "start": 696.2,
       "end": 707.28,
       "en": "They are very popular and I think people often have them every five, ten, fifteen, twenty years, but most people don't go to the high school reunion until either ten or twenty years after their high school graduation.",
-      "zh": "他们很受欢迎，我认为人们经常每五年、十年、十五年、二十年来拥有它们，但大多数人直到高中毕业后的十年或二十年后才参加高中聚会。"
+      "zh": "它们很受欢迎，我觉得人们常常是每五年、十年、十五年、二十年办一次，但大多数人要到高中毕业十年或二十年后才会去参加高中同学聚会。"
     },
     {
       "id": 261,
@@ -1838,14 +1838,14 @@
       "start": 708.56,
       "end": 711.96,
       "en": "I think five years is very soon.",
-      "zh": "我想五年很快。"
+      "zh": "我觉得五年太短了。"
     },
     {
       "id": 263,
       "start": 711.96,
       "end": 723.09,
       "en": "Ten years is nice because you haven't seen people, but twenty years is really, I think, shocking because people can be completely different or they could be the same, but it's been, you know, you were eighteen when you graduated high school.",
-      "zh": "十年是美好的，因为你没有见过人，但我认为，二十年真的很令人震惊，因为人们可以完全不同，或者他们可能是一样的，但你知道，你高中毕业时才十八岁。"
+      "zh": "十年挺好的，因为你已经很久没见过大家了；但我觉得二十年真的很让人震惊，因为人可能变得完全不一样，也可能一点没变，可你知道，高中毕业时你才十八岁。"
     },
     {
       "id": 264,
@@ -1859,14 +1859,14 @@
       "start": 725.32,
       "end": 728.69,
       "en": "You have this whole life that you've had and so I think it's much more interesting.",
-      "zh": "你拥有你所拥有的整个生活，所以我认为这更有趣。"
+      "zh": "你已经过了整整一段人生，所以我觉得这有意思多了。"
     },
     {
       "id": 266,
       "start": 729.28,
       "end": 738.7,
       "en": "Yeah, it's very interesting and I guess people go to these things half because they do want to maybe meet up with old friends that they haven't kept in touch with.",
-      "zh": "是的，这很有趣，我想人们会去做这些事情有一半是因为他们确实想见到他们没有联系的老朋友。"
+      "zh": "是的，这很有趣。我想人们参加这种活动，一半是因为确实想见见那些没保持联系的老朋友。"
     },
     {
       "id": 267,
@@ -1880,28 +1880,28 @@
       "start": 744.52,
       "end": 762.76,
       "en": "Now everyone's in touch on Facebook and emails and it's just so much easier to keep in touch, but before you have to remember that it was basically by telephone or by mail, so actually seeing a person ten years or catching up with them was very difficult back then.",
-      "zh": "现在每个人都在联系 Facebook 和电子邮件，保持联系要容易得多，但在你必须记住它基本上是通过电话或邮件之前，所以在当时真正见到一个人或赶上他们非常困难。"
+      "zh": "现在大家都能通过 Facebook 和邮件联系，保持联系容易多了；但别忘了，以前基本上只能靠电话或信件，所以在当年，真正见一个人或跟他叙叙旧是非常困难的。"
     },
     {
       "id": 269,
       "start": 762.76,
       "end": 786.29,
       "en": "Yeah, we all see photos and videos now of our classmates, so it's not quite as surprising when we bump into them later, but I think it is still interesting though because at least on my social networking websites there are a lot of people that I don't have connections to, and so I look forward to my high school reunion when I get to see some of these people and kind of find out what they've been doing for the past ten or fifteen years.",
-      "zh": "是的，我们现在都看到了同学们的照片和视频，所以当我们以后碰到它们时并不那么令人惊讶，但我认为这仍然很有趣，因为至少在我的社交网站上有很多人我没有联系，所以我期待着我的高度 当我看到其中一些人并了解他们过去十年或十五年来一直在做什么时，学校聚会。"
+      "zh": "是的，我们现在都能看到同学们的照片和视频，所以以后再碰到他们时就没那么惊讶了，不过我觉得这仍然很有趣，因为至少在我的社交网站上，有很多和我没有联系的人，所以我期待着我的高中同学聚会，到时候能见到其中一些人，了解他们过去十年或十五年都在做什么。"
     },
     {
       "id": 270,
       "start": 787.12,
       "end": 803.75,
       "en": "It's actually very interesting I guess when you see how your classmates have changed, how maybe the one that used to be the nerd or maybe not very attractive all of a sudden is really attractive and has like a supermodel as a wife or how these things work out.",
-      "zh": "我想当你看到你的同学们发生了怎样的变化时，这实际上很有趣，也许那些曾经是书呆子的人，或者突然之间不是很有吸引力的人，真的很有吸引力，并且有像超级名模一样的妻子或这些事情的发展方式。"
+      "zh": "我想，看到同学们发生了怎样的变化其实很有趣，比如以前那个书呆子、或者长得不怎么样的人，突然变得很有魅力，还娶了个像超模一样的妻子，或者事情就是这么发展。"
     },
     {
       "id": 271,
       "start": 803.92,
       "end": 809.8,
       "en": "Or the high school football captain is now kind of sad and fat.",
-      "zh": "或者高中足球队长现在有点悲伤和胖。"
+      "zh": "或者当年的高中橄榄球队队长现在又惨又胖。"
     },
     {
       "id": 272,
@@ -1915,14 +1915,14 @@
       "start": 815.1,
       "end": 816.4,
       "en": "So a very interesting subject.",
-      "zh": "所以一个非常有趣的主题。"
+      "zh": "总之，这是个非常有趣的话题。"
     },
     {
       "id": 274,
       "start": 817.06,
       "end": 826.8,
       "en": "Let us know on our website EnglishPod.com if your high school and the place where you live, do they have high school reunions or maybe even elementary school reunions.",
-      "zh": "如果您的高中和您居住的地方，他们是否有高中同学聚会甚至小学聚会，请在我们的网站 Englishpod.com 上告诉我们。"
+      "zh": "告诉我们，你所在的地方、你的高中会不会办高中同学聚会，甚至小学同学聚会。可以在我们网站 EnglishPod.com 上留言。"
     },
     {
       "id": 275,
