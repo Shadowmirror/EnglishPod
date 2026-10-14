@@ -32,6 +32,37 @@ async function pageWithFixtures(t, delayedNumber, certificateFiles = false) {
   const browser = await chromium.launch({ channel: process.env.PLAYWRIGHT_CHANNEL || 'chrome', headless: true, args: ['--autoplay-policy=no-user-gesture-required'] });
   t.after(() => browser.close());
   const page = await browser.newPage();
+  await page.addInitScript(() => {
+    window.audioWorkletModules = [];
+    window.mediaSourceCreations = 0;
+    window.pitchChanges = [];
+    window.stretchStarts = 0;
+    window.AudioWorkletNode = class extends EventTarget {
+      constructor(context) {
+        super();
+        this.context = context;
+        this.port = {};
+        this.connect = () => {};
+        this.disconnect = () => {};
+        window.lastStretchNode = this;
+        this.start = async () => { window.stretchStarts++; };
+        this.schedule = async change => { window.pitchChanges.push(change); };
+        this.latency = async () => 0.12;
+      }
+    };
+    window.AudioContext = class {
+      constructor() {
+        this.state = 'suspended'; this.currentTime = 0; this.destination = {};
+        this.audioWorklet = { addModule: async url => { window.audioWorkletModules.push(url); } };
+      }
+      createMediaElementSource() {
+        window.mediaSourceCreations++;
+        return { connect() {}, disconnect() {} };
+      }
+      async resume() { this.state = 'running'; }
+      async close() { this.state = 'closed'; }
+    };
+  });
   const requests = [];
   let release;
   const gate = new Promise(resolve => { release = resolve; });
@@ -39,7 +70,8 @@ async function pageWithFixtures(t, delayedNumber, certificateFiles = false) {
     const pathname = new URL(route.request().url()).pathname.slice(1);
     requests.push(pathname);
     if (pathname === '' || pathname === 'index.html') return route.fulfill({ contentType: 'text/html', body: fs.readFileSync(path.join(root, 'index.html')) });
-    if (pathname === 'player.js' || pathname === 'player-core.js' || pathname === 'desktop-subtitles.js') return route.fulfill({ contentType: 'text/javascript', body: fs.readFileSync(path.join(root, pathname)) });
+    if (pathname === 'player.js' || pathname === 'player-core.js' || pathname === 'desktop-subtitles.js' || pathname === 'audio-speed.js') return route.fulfill({ contentType: 'text/javascript', body: fs.readFileSync(path.join(root, pathname)) });
+    if (pathname === 'assets/vendor/signalsmith-stretch/SignalsmithStretch.js') return route.fulfill({ contentType: 'text/javascript', body: 'window.SignalsmithStretch = async context => { await context.audioWorklet.addModule("signalsmith-worklet.js"); return new AudioWorkletNode(context, "signalsmith-test"); };' });
     if (pathname === 'manifest.json') return route.fulfill({ contentType: 'application/json', body: JSON.stringify(manifest) });
     if (pathname === 'certificate-setup.html' || pathname === 'assets/EnglishPod-RootCA.crt') return route.fulfill({ status: certificateFiles ? 200 : 404, body: '' });
     if (pathname.startsWith('lessons/')) {
@@ -65,6 +97,56 @@ async function pageWithFixtures(t, delayedNumber, certificateFiles = false) {
   return { page, requests, release };
 }
 
+
+test('playback initializes a reusable speed controller and leaves seeking on the media clock', async t => {
+  const { page, requests } = await pageWithFixtures(t);
+  await page.evaluate(() => {
+    window.speedControllerCreateCalls = 0;
+    const create = window.AudioSpeed.create;
+    window.AudioSpeed.create = (...args) => {
+      window.speedControllerCreateCalls++;
+      return create(...args).then(controller => { window.currentSpeedController = controller; return controller; });
+    };
+  });
+  await page.getByRole('button', { name: 'Hello 1' }).first().click();
+  await page.waitForFunction(() => !document.getElementById('audio').paused);
+  const state = await page.locator('#audio').evaluate(a => ({ time: a.currentTime, rate: a.playbackRate }));
+  assert.ok(state.time >= 7 && state.time < 9);
+  assert.equal(state.rate, 1);
+  assert.equal(await page.evaluate(() => window.speedControllerCreateCalls), 1);
+  assert.equal(await page.evaluate(() => window.currentSpeedController.getMode()), 'native');
+  assert.equal(await page.evaluate(() => window.mediaSourceCreations), 1);
+  assert.equal(await page.evaluate(() => window.audioWorkletModules.length), 1);
+  await page.evaluate(() => window.currentSpeedController.setRate(1.5));
+  assert.equal(await page.evaluate(() => window.currentSpeedController.getMode()), 'signalsmith');
+  assert.equal(await page.locator('#audio').evaluate(a => a.playbackRate), 1.5);
+  assert.ok(Math.abs(await page.evaluate(() => window.pitchChanges.at(-1).semitones) + 12 * Math.log2(1.5)) < 1e-8);
+  await page.evaluate(() => window.currentSpeedController.setRate(0.75));
+  assert.equal(await page.evaluate(() => window.currentSpeedController.getMode()), 'native');
+  assert.equal(await page.locator('#audio').evaluate(a => a.playbackRate), 0.75);
+  assert.equal(await page.locator('#audio').evaluate(a => a.preservesPitch), true);
+  assert.ok(requests.includes('audio-speed.js'));
+  assert.ok(requests.includes('assets/vendor/signalsmith-stretch/SignalsmithStretch.js'));
+  await page.getByRole('button', { name: 'Bye 1' }).first().click();
+  await page.waitForFunction(() => !document.getElementById('audio').paused && document.getElementById('audio').currentTime >= 10);
+  await page.locator('.playlist-item').nth(1).click();
+  await page.waitForFunction(() => document.getElementById('playerInfo').textContent.includes('Lesson 2'));
+  await page.getByRole('button', { name: 'Hello 2' }).first().click();
+  await page.waitForFunction(() => !document.getElementById('audio').paused && document.getElementById('audio').currentTime >= 7);
+  assert.equal(await page.evaluate(() => window.speedControllerCreateCalls), 1);
+  assert.equal(await page.evaluate(() => window.mediaSourceCreations), 1);
+  await page.locator('#audio').evaluate(a => { a.currentTime = 10; });
+  await page.waitForFunction(() => Math.abs(document.getElementById('audio').currentTime - 10) < 0.5);
+});
+
+test('unsupported worklet reports native playback fallback without blocking audio', async t => {
+  const { page } = await pageWithFixtures(t);
+  await page.evaluate(() => { window.AudioContext = undefined; window.webkitAudioContext = undefined; window.AudioWorkletNode = undefined; });
+  await page.getByRole('button', { name: 'Hello 1' }).first().click();
+  await page.waitForFunction(() => document.getElementById('playerStatus').textContent.includes('浏览器原生倍速'));
+  await page.waitForFunction(() => !document.getElementById('audio').paused);
+  assert.ok(await page.locator('#audio').evaluate(a => a.currentTime >= 7));
+});
 test('both text views share bilingual sentences; dialog filters IDs and Chinese starts hidden', async t => {
   const { page, requests } = await pageWithFixtures(t);
   await page.getByRole('button', { name: 'Hello 1' }).first().waitFor();
@@ -546,6 +628,43 @@ test('desktop speed updates audio, survives lesson changes and reload, and follo
   await page.reload();
   await page.getByRole('button', {name:'Hello 2'}).first().waitFor();
   assert.equal(await page.locator('#audio').evaluate(a => a.playbackRate),.75);
+});
+
+test('desktop custom speed validates range and increments, applies, cancels and persists', async t => {
+  const { page } = await pageWithFixtures(t);
+  await page.getByRole('button', { name: 'Hello 1' }).first().waitFor();
+  await page.getByRole('button', { name: '桌面字幕', exact: true }).click();
+  const chooseCustom = () => page.evaluate(() => {
+    const d = documentPictureInPicture.window.document;
+    const select = d.querySelector('[aria-label="播放倍速"]'); select.value = 'custom'; select.dispatchEvent(new Event('change'));
+  });
+  await chooseCustom();
+  assert.equal(await page.evaluate(() => documentPictureInPicture.window.document.querySelector('.speed-custom').hidden), false);
+  assert.equal(await page.evaluate(() => documentPictureInPicture.window.document.querySelector('[aria-label="播放倍速"]').value), 'custom');
+  await page.evaluate(() => {
+    const d = documentPictureInPicture.window.document;
+    d.querySelector('[aria-label="自定义倍速"]').value = '1.37';
+    d.querySelector('.speed-custom-action').click();
+  });
+  assert.equal(await page.locator('#audio').evaluate(a => a.playbackRate), 1);
+  assert.match(await page.evaluate(() => documentPictureInPicture.window.document.querySelector('.speed-error').textContent), /0.05/);
+  await page.evaluate(() => {
+    const d = documentPictureInPicture.window.document;
+    d.querySelector('[aria-label="自定义倍速"]').value = '1.35';
+    d.querySelector('.speed-custom-action').click();
+  });
+  assert.equal(await page.locator('#audio').evaluate(a => a.playbackRate), 1.35);
+  assert.equal(await page.evaluate(() => documentPictureInPicture.window.document.querySelector('[aria-label="播放倍速"]').value), '1.35');
+  await chooseCustom();
+  await page.evaluate(() => {
+    const d = documentPictureInPicture.window.document;
+    d.querySelector('[aria-label="自定义倍速"]').value = '1.6';
+    d.querySelector('.speed-custom-action + .speed-custom-action').click();
+  });
+  assert.equal(await page.locator('#audio').evaluate(a => a.playbackRate), 1.35);
+  await page.reload();
+  await page.getByRole('button', { name: 'Hello 1' }).first().waitFor();
+  assert.equal(await page.locator('#audio').evaluate(a => a.playbackRate), 1.35);
 });
 
 

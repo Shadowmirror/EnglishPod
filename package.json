@@ -4,7 +4,7 @@
   "private": true,
   "description": "EnglishPod 365 bilingual learning player",
   "scripts": {
-    "test": "node --test tests/player-core.test.js tests/player-browser.test.js"
+    "test": "node --test tests/player-core.test.js tests/player-browser.test.js tests/audio-speed.test.js"
   },
   "devDependencies": {
     "playwright": "1.63.0"

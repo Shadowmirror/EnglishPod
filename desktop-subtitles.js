@@ -14,6 +14,9 @@
     let foreground = '#f8fafc';
     let toolbarHidden = false;
     let horizontalScroll = true;
+    let settingsButton = null;
+    let customSpeedPanel = null;
+    let customSpeedInput = null;
     try {
       lineCount = Number(localStorage.getItem('desktopLineCount')) || 1;
       alignment = localStorage.getItem('desktopAlignment') || alignment;
@@ -116,12 +119,13 @@
       elements.nextLesson.disabled = !state.ready || !state.canNextLesson;
       elements.mode.disabled = !state.ready;
       elements.speed.disabled = !state.ready;
-      if (elements.speed.value !== String(state.speed)) {
+      if ((!customSpeedPanel || customSpeedPanel.hidden) && elements.speed.value !== String(state.speed)) {
         if (![...elements.speed.options].some(option => option.value === String(state.speed))) {
           const option = pip.document.createElement('option'); option.value = String(state.speed); option.textContent = state.speed + '×'; elements.speed.append(option);
         }
         elements.speed.value = String(state.speed);
       }
+      if (customSpeedInput && !customSpeedInput.matches(':focus')) customSpeedInput.value = Number(state.speed).toFixed(2);
       text(elements.scope, state.scope === 'dialog' ? '对' : '全');
       elements.scope.title = state.scope === 'dialog' ? '当前：对话；切换到完整节目' : '当前：完整节目；切换到对话';
       elements.scope.setAttribute('aria-label', elements.scope.title);
@@ -239,6 +243,10 @@
           nav { display: flex; align-items: center; gap: 3px; flex-shrink: 0; }
           label { font-size: 12px; display: inline-flex; align-items: center; gap: 5px; }
           select { padding: 6px; border-radius: 6px; }
+          .speed-custom { display: inline-flex; align-items: center; gap: 6px; }
+          .speed-custom input { width: 72px; padding: 5px; }
+          .speed-error { color: #ffb4ab; font-size: 12px; }
+          #desktopSettings .speed-custom-action { width: auto; padding: 0 8px; }
           button { font: inherit; font-size: 13px; background: #293950; color: white; border: 1px solid #52647e; border-radius: 7px; padding: 0; width: 26px; height: 28px; cursor: pointer; }
           button[aria-pressed="true"] { background: #365fc4; border-color: #99b4ff; }
           button:disabled { opacity: .4; cursor: default; }
@@ -271,7 +279,20 @@
         for (const rate of [.5, .75, 1, 1.25, 1.5, 1.75, 2]) {
           const option = doc.createElement('option'); option.value = String(rate); option.textContent = rate + '×'; speed.append(option);
         }
-        speed.addEventListener('change', () => { onAction('speed', speed.value); render(); });
+        const customOption = doc.createElement('option'); customOption.value = 'custom'; customOption.textContent = '自定义…'; speed.append(customOption);
+        speed.addEventListener('change', () => {
+          if (speed.value === 'custom') {
+            customSpeedPanel.hidden = false;
+            customSpeedInput.value = Number(getState().speed).toFixed(2);
+            settings.hidden = false;
+            settingsButton.setAttribute('aria-expanded', 'true');
+            customSpeedInput.focus();
+          } else {
+            customSpeedPanel.hidden = true;
+            onAction('speed', Number(speed.value));
+          }
+          render();
+        });
         elements.speed = speed;
         doc.querySelector('nav').append(speed);
         const countLabel = doc.createElement('label');
@@ -292,6 +313,43 @@
         countLabel.append(countSelect);
         const settings = doc.getElementById('desktopSettings');
         settings.append(countLabel);
+        customSpeedPanel = doc.createElement('div');
+        customSpeedPanel.className = 'speed-custom';
+        customSpeedPanel.hidden = true;
+        customSpeedInput = doc.createElement('input');
+        customSpeedInput.type = 'number';
+        customSpeedInput.min = '0.50'; customSpeedInput.max = '2.00'; customSpeedInput.step = '0.05';
+        customSpeedInput.setAttribute('aria-label', '自定义倍速');
+        customSpeedInput.title = '范围 0.50×–2.00×，步进 0.05×';
+        const speedError = doc.createElement('span');
+        speedError.className = 'speed-error'; speedError.setAttribute('role', 'status'); speedError.setAttribute('aria-live', 'polite');
+        const applyCustomSpeed = doc.createElement('button');
+        applyCustomSpeed.type = 'button'; applyCustomSpeed.textContent = '应用'; applyCustomSpeed.className = 'speed-custom-action';
+        const cancelCustomSpeed = doc.createElement('button');
+        cancelCustomSpeed.type = 'button'; cancelCustomSpeed.textContent = '取消'; cancelCustomSpeed.className = 'speed-custom-action';
+        applyCustomSpeed.addEventListener('click', () => {
+          const value = Number(customSpeedInput.value);
+          const inRange = Number.isFinite(value) && value >= 0.5 && value <= 2;
+          const onStep = inRange && Math.abs((value - 0.5) / 0.05 - Math.round((value - 0.5) / 0.05)) < 0.000001;
+          if (!onStep) {
+            customSpeedInput.setAttribute('aria-invalid', 'true');
+            text(speedError, '请输入 0.50×–2.00× 之间、按 0.05× 递增的倍速。');
+            return;
+          }
+          customSpeedInput.removeAttribute('aria-invalid');
+          text(speedError, '');
+          onAction('speed', value);
+          customSpeedPanel.hidden = true;
+          render();
+        });
+        cancelCustomSpeed.addEventListener('click', () => {
+          customSpeedPanel.hidden = true;
+          customSpeedInput.removeAttribute('aria-invalid');
+          text(speedError, '');
+          render();
+        });
+        customSpeedPanel.append(customSpeedInput, applyCustomSpeed, cancelCustomSpeed, speedError);
+        settings.append(customSpeedPanel);
         const scrollLabel = doc.createElement('label');
         const scrollToggle = doc.createElement('input'); scrollToggle.type = 'checkbox'; scrollToggle.checked = horizontalScroll;
         scrollToggle.setAttribute('aria-label', '横向滚动');
@@ -303,7 +361,7 @@
         scrollLabel.append(scrollToggle, doc.createTextNode('横向滚动'));
         scrollLabel.title = '关闭后：单行自动缩字；多行模式长句自动换行';
         settings.append(scrollLabel);
-        const settingsButton = doc.createElement('button');
+        settingsButton = doc.createElement('button');
         settingsButton.type = 'button'; settingsButton.textContent = '⚙';
         settingsButton.title = '字幕设置'; settingsButton.setAttribute('aria-label', '字幕设置');
         settingsButton.setAttribute('aria-expanded', 'false');

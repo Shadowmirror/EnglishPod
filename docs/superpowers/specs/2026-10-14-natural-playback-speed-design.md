@@ -1,58 +1,61 @@
-# Natural Playback Speed Design
+# 自然倍速播放设计
 
-## Goal
+## 目标
 
-Make speech at non-1× playback speeds sound more natural by preserving its original pitch, while keeping the existing lesson timeline, seeking, sentence looping, dialog boundaries, and desktop subtitles synchronized.
+在非 1× 倍速下尽量保留原始音高，让人声听起来更自然；同时确保课程时间轴、跳转、单句循环、对话范围和桌面字幕继续同步。
 
-## Current behavior
+## 当前行为
 
-The player changes `HTMLAudioElement.playbackRate` directly. The browser controls both tempo and pitch processing. The same audio element supplies `currentTime` to sentence highlighting, click-to-seek, loop boundaries, and the desktop subtitle window.
+播放器直接修改 `HTMLAudioElement.playbackRate`，由浏览器同时处理速度和音高。字幕高亮、点击跳句、循环边界和桌面字幕窗口都使用同一个音频元素的 `currentTime`。
 
-## Proposed design
+## 设计方案
 
-Use SoundTouchJS's AudioWorklet implementation as a local, same-origin audio output processor. Keep the existing `HTMLAudioElement` as the sole source and playback clock. Create one `AudioContext`, one `MediaElementAudioSourceNode`, and one SoundTouch worklet node after playback is initiated by a user gesture. Route the media element through the worklet to the context destination.
+使用 Signalsmith Stretch 官方 Web Audio/WASM 版本作为本地音频处理器，资源与播放器同源。保留现有 `HTMLAudioElement`，继续由它提供唯一的音源和播放时钟。用户主动开始播放后，创建一个 `AudioContext`、一个 `MediaElementAudioSourceNode` 和一个 Signalsmith worklet 节点，再将音频经 worklet 输出到音频设备。
 
-For a selected rate `r`, keep `audio.playbackRate = r` so media time and all existing controls advance at the selected rate. Disable the element's built-in pitch correction while the worklet is active and set the worklet's playback-rate compensation parameter to `r`, with its pitch target fixed at the original pitch. This makes the worklet responsible for pitch compensation rather than stacking browser and worklet correction. At 1×, the same pipeline remains active so switching speeds does not rewire or recreate the media element source.
+选择倍速 `r` 后，仍设置 `audio.playbackRate = r`，让媒体时间和现有控件按相同速度前进。慢速（`r ≤ 1`）使用浏览器原生的保音高时间拉伸，不叠加 Signalsmith 音高处理；快速（`r > 1`）关闭浏览器自带音高修正，再用 Signalsmith Stretch 按 `-12 × log₂(r)` 个半音反向补偿变速造成的音高变化，并启用人声共振峰补偿。音高处理不改变音频元素的时间轴，因此原有字幕定位、单句循环和课程跳转继续使用同一个 `currentTime`。按倍速切换输出路径，不重新创建音源。
 
-Bundle the processor and its small main-thread wrapper inside the repository under `assets/vendor/`; do not load runtime code from a CDN. Add license and version notes for the vendored dependency. No audio is uploaded or rewritten.
+使用 `signalsmith-stretch` 1.3.2（MIT）。将其官方 Web Audio/WASM 单文件发行版放在仓库的 `assets/vendor/signalsmith-stretch/` 目录中；运行时不从 CDN 加载。随附第三方依赖的许可证。不上传或改写音频文件。
 
-## Playback lifecycle and fallback
+## 播放生命周期与回退
 
-- Initialize and resume the AudioContext from a user-initiated play or sentence-click action.
-- Connect the media element only once; repeated play, pause, lesson selection, seeking, and speed changes reuse the same graph.
-- Keep the existing media element as the source of `currentTime`, `duration`, `ended`, and range seeking. Existing sentence and dialog playback ranges therefore continue to use the same timeline.
-- If AudioWorklet is unavailable, processor loading fails, or the context cannot start, keep playback functional with native `playbackRate`, show a concise status explaining that natural speed processing is unavailable, and avoid leaving the media element disconnected from audible output.
-- AudioWorklet is enabled only in a secure browser context (HTTPS or localhost). Other origins use the native fallback.
-- Closing the desktop subtitle window does not suspend or disconnect audio. Page teardown closes the AudioContext where supported.
+- 从用户主动点击播放或句子的操作中初始化并恢复 `AudioContext`。
+- 音频元素只连接一次；播放、暂停、切课、跳转和调整倍速都复用同一条音频链路。
+- `currentTime`、`duration`、`ended` 和范围跳转仍以现有音频元素为准，因此单句和对话播放范围继续沿用原时间轴。
+- 如果浏览器不支持 AudioWorklet、处理器加载失败或音频上下文无法启动，则继续使用浏览器原生 `playbackRate`，并显示简短状态，说明音高补偿不可用。初始化失败时也要保证音频仍能正常输出，不能让音频元素意外静音。
+- 仅在安全上下文（HTTPS 或 localhost）启用快速播放的 AudioWorklet 补偿；慢速和其他访问地址使用浏览器原生保音高倍速。
+- 关闭桌面字幕窗口不暂停或断开音频。页面销毁时，在浏览器支持的情况下关闭 `AudioContext`。
 
-## User-visible behavior
+## 用户可见行为
 
-- Preserve existing speed choices (0.5×, 0.75×, 1×, 1.25×, 1.5×, 1.75×, 2×), persistence, and synchronization between the main player and desktop subtitle window.
-- Keep the current selected speed and all playback preferences in the user's local browser storage.
-- Clearly indicate when native fallback is active; do not change the selected speed silently.
+- 保留现有倍速档位（0.5×、0.75×、1×、1.25×、1.5×、1.75×、2×）、本地记忆，以及主页面和桌面字幕窗口之间的同步。
+- 在桌面字幕倍速菜单中加入“自定义…”入口，提供 0.50×–2.00× 的数值输入，步进 0.05×；确认后立即应用并显示当前自定义倍速，取消则恢复之前选中的倍速。
+- 当前倍速和其他播放偏好继续保存在用户自己的浏览器中。
+- 启用原生倍速回退时明确提示用户，不静默更改所选倍速。
 
-## Scope
+## 修改范围
 
-Expected files:
+预计涉及以下文件：
 
-- `player.js`: initialize and manage the audio graph; centralize speed updates and fallback status.
-- `assets/vendor/`: locally served SoundTouchJS worklet and wrapper, with version/license notice.
-- `index.html`: load the local integration module if the wrapper requires a separate entry point and update cache versions.
-- `tests/`: test lifecycle, speed propagation, fallback, and preservation of the media-time interactions.
-- `README.md`: document secure-context requirements, local dependency, and native fallback.
+- `audio-speed.js`：隔离 AudioContext、Signalsmith Stretch worklet、音高补偿和原生回退。
+- `player.js`：连接音频处理控制器，统一处理倍速更新、偏好保存和状态提示。
+- `desktop-subtitles.js`：在现有倍速选择器中加入自定义倍速输入和应用/取消交互。
+- `assets/vendor/signalsmith-stretch/`：存放 Signalsmith Stretch 1.3.2 Web Audio/WASM 发行版和 MIT 许可证。
+- `index.html`：若适配代码需要独立入口，则加载本地模块并更新缓存版本号。
+- `tests/`：覆盖音频链路生命周期、倍速传递、回退，以及现有媒体时间交互。
+- `README.md`：说明安全上下文要求、本地依赖和原生倍速回退。
 
-No server-side audio processing, conversion of the 365 MP3 files, changes to lesson data, or replacement of the media element's seek timeline are in scope.
+不包含服务端音频处理、转换 365 个 MP3、修改课程数据，也不替换音频元素的跳转时间轴。
 
-## Verification
+## 验证方式
 
-- Unit or browser tests verify a single media-source connection, AudioContext resume on user gesture, rate propagation to both the media element and pitch-preserving processor, and native fallback on unsupported/failed worklet setup.
-- Existing tests continue to verify sentence selection, dialog clamping, single-sentence loop, lesson transition, and subtitle synchronization.
-- In a supported browser, manually compare the same speech at 1×, 1.25×, 1.5×, and 2×; confirm pitch remains stable and no extra playback gap or repeated audio appears after seeking or looping.
-- Verify the app works without external network access after its page and lesson files are loaded.
+- 单元测试或浏览器测试验证：音源只连接一次；用户点击后恢复音频上下文；倍速同时传给音频元素和保留音高的处理器；worklet 不支持或初始化失败时能回退到原生播放。
+- 现有测试继续验证句子选择、对话边界限制、单句循环、课程切换和字幕同步。
+- 在支持的浏览器中试听同一段语音的 1×、1.25×、1.5× 和 2×，确认音高稳定，并检查跳转或循环后没有额外的停顿或重复播放。
+- 页面和课程文件加载后，断开外网仍能使用本地音频处理器。
 
-## Risks and constraints
+## 风险与约束
 
-- Time-stretch algorithms can introduce artifacts at extreme rates; pitch preservation does not guarantee identical sound quality to a commercial player. The design is intended to improve speech quality, particularly around the commonly used 1.25×–1.5× range.
-- WebAudio media-element routing can become silent if graph initialization partially fails. Fallback must preserve a direct audible route and must not attempt to create a second `MediaElementAudioSourceNode` for the same element.
-- AudioWorklet deployment requires HTTPS or localhost; LAN HTTP remains on the native path.
-- Vendored third-party code must retain its license notice and exact version provenance.
+- 极端倍速下，时间拉伸算法仍可能产生声音瑕疵；保留音高也不等于音质与商业播放器完全相同。主要改善常用的 1.25×–1.5× 人声播放效果。
+- WebAudio 链路初始化不完整时，音频元素可能没有声音。回退时必须恢复可听的输出路径，而且不能为同一音频元素重复创建 `MediaElementAudioSourceNode`。
+- 部署 AudioWorklet 需要 HTTPS 或 localhost；局域网 HTTP 下继续使用浏览器原生倍速。
+- 仓库内的第三方代码必须保留许可证和准确的版本来源信息。

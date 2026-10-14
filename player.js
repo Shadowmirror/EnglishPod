@@ -33,6 +33,8 @@
   let raf = 0;
   let pendingSeek = null;
   let lessonController = null;
+  let audioSpeedController = null;
+  let audioSpeedPromise = null;
   const lessonCache = new Map();
   const markdownCache = new Map();
 
@@ -96,13 +98,7 @@
       if (!lesson) return;
       const state = desktopState();
       if (action === 'speed') {
-        const rate = Number(value);
-        if (Number.isFinite(rate) && rate >= 0.5 && rate <= 2) {
-          audio.defaultPlaybackRate = rate;
-          audio.playbackRate = rate;
-          savePreferences();
-          desktop.render();
-        }
+        applyPlaybackRate(value);
         return;
       }
       if (action === 'previousLesson' || action === 'nextLesson') {
@@ -139,6 +135,34 @@
   function setStatus(message, error) {
     status.textContent = message;
     status.classList.toggle('error', Boolean(error));
+  }
+
+  function applyPlaybackRate(value) {
+    const rate = Number(value);
+    if (!Number.isFinite(rate) || rate < 0.5 || rate > 2) return false;
+    audio.defaultPlaybackRate = rate;
+    if (audioSpeedController) audioSpeedController.setRate(rate);
+    else audio.playbackRate = rate;
+    savePreferences();
+    desktop.render();
+    return true;
+  }
+
+  function ensureAudioSpeed() {
+    if (!audioSpeedPromise) {
+      if (!window.AudioSpeed?.create) return Promise.resolve(null);
+      audioSpeedPromise = window.AudioSpeed.create(audio, {
+        onFallback: message => setStatus(message)
+      }).then(controller => {
+        audioSpeedController = controller;
+        controller.setRate(audio.playbackRate);
+        return controller;
+      }).catch(() => {
+        setStatus('音高补偿处理初始化失败，已切换为浏览器原生倍速');
+        return null;
+      });
+    }
+    return audioSpeedPromise;
   }
 
   function setLoading(loading) {
@@ -187,6 +211,8 @@
 
   function requestPlay() {
     if (!lesson) return;
+    const speedSetup = ensureAudioSpeed();
+    speedSetup.then(controller => controller?.resume()).catch(() => {});
     wantedPlayback = true;
     const episodeToken = loadToken;
     const requestToken = ++playToken;
@@ -509,6 +535,7 @@
     savePreferences();
     desktop.render();
   });
+  window.addEventListener('pagehide', () => { audioSpeedController?.close(); });
   audio.addEventListener('timeupdate', synchronize);
   audio.addEventListener('loadedmetadata', () => {
     if (!lesson) return;
